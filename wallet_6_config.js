@@ -1,1 +1,1 @@
-var mnemonic = "bounce harsh task wedding split wide deliver science drift region found tag";
+var mnemonic = "return wasp more board kid speak deal gym tunnel easy evolve void";

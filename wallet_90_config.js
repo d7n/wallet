@@ -1,1 +1,1 @@
-var mnemonic = "tongue neither very discover rug sorry afraid bus anger onion brisk such";
+var mnemonic = "regular dash stable able van tray flush hour next census cage flee";

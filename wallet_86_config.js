@@ -1,1 +1,1 @@
-var mnemonic = "frozen enforce hedgehog furnace drink olympic armor bird senior satoshi rough pig";
+var mnemonic = "cement truck frame aisle clap similar portion curve actor kingdom danger column";

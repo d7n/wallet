@@ -1,1 +1,1 @@
-var mnemonic = "food powder loop cube sausage battle time broom tell pear yellow genre";
+var mnemonic = "lumber van foil practice reform pumpkin image boost fitness ahead surge tortoise";

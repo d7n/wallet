@@ -1,1 +1,1 @@
-var mnemonic = "session tuition column reveal arrest fiction lift alien jealous again dynamic escape";
+var mnemonic = "diet myth verb spice escape absorb carbon jeans grit force medal only";

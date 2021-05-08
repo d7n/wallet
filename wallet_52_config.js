@@ -1,1 +1,1 @@
-var mnemonic = "sail betray thing wreck cost course velvet cloth will frost involve emerge";
+var mnemonic = "night rotate summer order summer false wave mention arctic label explain addict";

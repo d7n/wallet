@@ -1,1 +1,1 @@
-var mnemonic = "mountain mail settle entry change trend ship normal marble fresh riot uncle";
+var mnemonic = "rally cross viable cancel student carry verb gadget print exist member spell";

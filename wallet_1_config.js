@@ -1,1 +1,1 @@
-var mnemonic = "dress business easily candy diary desert club confirm such test clap hybrid";
+var mnemonic = "proof february early bean castle hole problem page senior alter usage great";

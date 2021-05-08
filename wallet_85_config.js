@@ -1,1 +1,1 @@
-var mnemonic = "citizen crowd finish interest egg dismiss hire spot prepare obscure lock cost";
+var mnemonic = "vague ceiling often swarm suggest question help marble pill rookie salmon east";

@@ -1,1 +1,1 @@
-var mnemonic = "deer federal sign cute depart boil uniform spare flag settle canoe mirror";
+var mnemonic = "face main sun modify during increase unveil force diary pink soft body";

@@ -1,1 +1,1 @@
-var mnemonic = "involve original peanut palace execute muffin very sorry garden run spot about";
+var mnemonic = "cheap inflict token stem ocean goose laugh ladder upper range dawn share";

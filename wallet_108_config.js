@@ -1,1 +1,1 @@
-var mnemonic = "wrong eager change fiction between slush stage prepare ranch season figure come";
+var mnemonic = "meat carbon isolate analyst drink damage hobby gentle resemble license great latin";

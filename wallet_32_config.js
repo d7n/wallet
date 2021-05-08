@@ -1,1 +1,1 @@
-var mnemonic = "pen grape victory adult patient spell loan over pigeon release purse spin";
+var mnemonic = "dawn prison jar notable lumber deer narrow normal hurdle second general build";

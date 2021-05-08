@@ -1,1 +1,1 @@
-var mnemonic = "resist vacant six decline chair hint under brother illness body history leg";
+var mnemonic = "six two resource spray eight pepper obtain legal same net erosion love";

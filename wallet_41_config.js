@@ -1,1 +1,1 @@
-var mnemonic = "gain shock dune loan sun logic number parrot cactus scene basic retire";
+var mnemonic = "lottery engine tribe aware arch orphan adult diesel furnace romance occur knife";

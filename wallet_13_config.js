@@ -1,1 +1,1 @@
-var mnemonic = "meadow neutral false craft dove perfect dolphin near history cherry gossip curtain";
+var mnemonic = "attitude model soul light upper buddy talk absent student appear gauge syrup";

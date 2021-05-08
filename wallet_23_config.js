@@ -1,1 +1,1 @@
-var mnemonic = "session column mention dismiss almost winner beach someone help clarify wash snake";
+var mnemonic = "error erase mirror hour industry elbow load flip gadget spot clever text";

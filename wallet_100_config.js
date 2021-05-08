@@ -1,1 +1,1 @@
-var mnemonic = "twice glow agent bag forest kit ask edit client power embody subway";
+var mnemonic = "time dove chalk survey educate bus diary surge note already worry evolve";

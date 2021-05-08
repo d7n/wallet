@@ -1,1 +1,1 @@
-var mnemonic = "fall paddle cradle stand crisp arch assault useless kiss lens gentle nurse";
+var mnemonic = "produce north inherit room soft rigid valve treat labor wrestle arch shock";

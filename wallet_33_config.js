@@ -1,1 +1,1 @@
-var mnemonic = "observe license among consider heavy bean diet labor mistake depth elite box";
+var mnemonic = "arrow fire deal strategy warfare staff net calm series paper diary proof";

@@ -1,1 +1,1 @@
-var mnemonic = "various garbage firm neutral will ticket sword quote throw walnut envelope fun";
+var mnemonic = "retire arch top toss marine donor camp parade bargain ticket era tag";

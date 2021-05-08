@@ -1,1 +1,1 @@
-var mnemonic = "opinion gesture dismiss shuffle material sing broken equip insect air lazy culture";
+var mnemonic = "visa false orient plate sword monster tree august brass observe company bullet";

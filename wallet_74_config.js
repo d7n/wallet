@@ -1,1 +1,1 @@
-var mnemonic = "smart icon oven wait size empower property pitch spawn swarm curve nominee";
+var mnemonic = "promote rebuild wide find blue walk audit tonight impact unveil fork fine";

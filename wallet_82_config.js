@@ -1,1 +1,1 @@
-var mnemonic = "toss orient differ auto family beach eternal firm believe slam pen fabric";
+var mnemonic = "book someone accuse leisure engine enemy document exercise improve disagree barely danger";

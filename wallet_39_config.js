@@ -1,1 +1,1 @@
-var mnemonic = "wealth curtain hard fortune deer since tape shield trim pilot truly brain";
+var mnemonic = "swallow flame damp effort abstract romance marine funny heart flame fabric basic";

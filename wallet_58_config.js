@@ -1,1 +1,1 @@
-var mnemonic = "slender hour cactus affair track upper local birth where october purity sort";
+var mnemonic = "fade shoe toddler shift paddle photo dragon film slab dignity service return";

@@ -1,1 +1,1 @@
-var mnemonic = "way panic idea labor injury advice brush fatigue loan worth copper orphan";
+var mnemonic = "provide wet mention fly shy antique load release lock they three forum";

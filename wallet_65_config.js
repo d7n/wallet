@@ -1,1 +1,1 @@
-var mnemonic = "radar erosion trigger survey dog circle health ketchup ill abuse wheat worry";
+var mnemonic = "abstract lend duck never render access spread slight produce hood acoustic team";

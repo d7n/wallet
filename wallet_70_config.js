@@ -1,1 +1,1 @@
-var mnemonic = "maple lawsuit near wool dad melt balcony armed dog jump spare hub";
+var mnemonic = "hover mass energy pumpkin famous peasant lawsuit scene little ecology rib novel";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy goddess flight mixture pear people churn easily rubber violin candy arctic";
+var mnemonic = "ghost admit solar proud rug never copper hockey place visual rescue diet";

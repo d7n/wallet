@@ -1,1 +1,1 @@
-var mnemonic = "paper emerge easy know muscle group soccer edge bright eagle cricket recall";
+var mnemonic = "cabbage sting beauty sphere talk armed sting label load road brave turtle";

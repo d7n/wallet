@@ -1,1 +1,1 @@
-var mnemonic = "science sense garden climb toy vibrant rely drive duck immense deputy desk";
+var mnemonic = "salon hand lumber soup make setup plastic exhibit symptom they evoke conduct";

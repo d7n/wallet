@@ -1,1 +1,1 @@
-var mnemonic = "fiscal crew patient save cover situate slight weather coffee click uphold brief";
+var mnemonic = "recall alert voice strategy obvious use illness remove borrow dirt kind fortune";

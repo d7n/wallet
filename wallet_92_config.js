@@ -1,1 +1,1 @@
-var mnemonic = "nasty penalty cash garage merit doll talk question sibling call nothing have";
+var mnemonic = "shine they hundred just ecology family duck card stool toss armor always";

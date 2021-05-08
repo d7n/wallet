@@ -1,1 +1,1 @@
-var mnemonic = "cloud success skin oval equal top fan sniff property collect cry better";
+var mnemonic = "craft arch ladder trick joy bag mosquito shrug loyal element infant insane";

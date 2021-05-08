@@ -1,1 +1,1 @@
-var mnemonic = "degree roast bulb broccoli double giraffe apart whip chase keen moon say";
+var mnemonic = "cannon end coin acid robust soon sudden shrug uniform amused awful island";

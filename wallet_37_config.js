@@ -1,1 +1,1 @@
-var mnemonic = "foam crouch accident case cotton abstract change clip belt expand vivid solve";
+var mnemonic = "question comfort pride rhythm struggle turkey rescue roast judge cabbage among scissors";

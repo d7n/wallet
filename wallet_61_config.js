@@ -1,1 +1,1 @@
-var mnemonic = "bike thank alert inspire lake unique ecology vote tumble detect turtle flight";
+var mnemonic = "ladder kidney pencil grant purse shoot volcano slice man cube notable nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon quote supply thank van kiss round resource pepper celery table peace";
+var mnemonic = "grit crowd chest lab erosion cruise banana proof physical absorb recycle noise";

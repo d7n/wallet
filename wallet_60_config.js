@@ -1,1 +1,1 @@
-var mnemonic = "invest pink will sail foster near text erode ranch minimum body thumb";
+var mnemonic = "way earn market risk ecology member trick olympic twelve risk scrub adapt";

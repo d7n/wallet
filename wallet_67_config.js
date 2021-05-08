@@ -1,1 +1,1 @@
-var mnemonic = "fringe fitness elder recall amazing emerge win swim figure rail pig antique";
+var mnemonic = "throw joy return funny reflect indicate screen bus wall pretty pioneer polar";

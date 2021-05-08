@@ -1,1 +1,1 @@
-var mnemonic = "source duty pull test noise virtual fuel exile large witness wild try";
+var mnemonic = "protect dirt joke grant above crew wreck question current occur auto life";

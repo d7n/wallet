@@ -1,1 +1,1 @@
-var mnemonic = "fancy tiny kiss course double canvas usage ski apology suggest remain fat";
+var mnemonic = "orient talent member marine bubble casino divert machine alpha nose arm dizzy";

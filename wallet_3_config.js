@@ -1,1 +1,1 @@
-var mnemonic = "abuse unit govern drill artwork life van crisp shell attack exclude square";
+var mnemonic = "nest upset punch know color over health item chunk mixed bird enjoy";

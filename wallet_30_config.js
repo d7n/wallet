@@ -1,1 +1,1 @@
-var mnemonic = "garbage arch shoot enter wisdom maximum goat bargain better loan feel cherry";
+var mnemonic = "remind castle bean gaze order frog obey inhale frozen laundry stone raise";

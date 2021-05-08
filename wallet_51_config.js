@@ -1,1 +1,1 @@
-var mnemonic = "whip visual volume brown start rail cram club magic slide urban midnight";
+var mnemonic = "there submit earth powder humble august stock pyramid mercy abuse buzz ordinary";

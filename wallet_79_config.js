@@ -1,1 +1,1 @@
-var mnemonic = "explain rebel repeat meadow one better imitate hard flock witness daughter visa";
+var mnemonic = "region unable tourist detail practice cereal autumn thing odor umbrella blood frequent";

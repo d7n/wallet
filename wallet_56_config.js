@@ -1,1 +1,1 @@
-var mnemonic = "swallow carbon quote vessel wait swamp evil tribe bulk delay memory obscure";
+var mnemonic = "seminar mobile sort catch delay beach embark wrestle stem vivid captain glory";

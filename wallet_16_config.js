@@ -1,1 +1,1 @@
-var mnemonic = "chronic silk mind twin cake inhale maple limb issue gate roof virus";
+var mnemonic = "daughter impose distance dust false reunion virus master circle mystery analyst chef";

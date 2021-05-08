@@ -1,1 +1,1 @@
-var mnemonic = "party fatigue solid stadium brand result alone cream one sunny half panic";
+var mnemonic = "reason devote gap hawk cute impose legend soup double crisp flight sudden";

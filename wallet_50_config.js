@@ -1,1 +1,1 @@
-var mnemonic = "fish sweet easily enemy sniff remove august nature dirt actor bargain shadow";
+var mnemonic = "focus congress only panther oak crowd velvet suffer keep output iron gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "quote stool flame sing you capital theory tray coil into love rookie";
+var mnemonic = "fashion apart empower split narrow letter goose warm delay hockey island fury";

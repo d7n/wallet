@@ -1,1 +1,1 @@
-var mnemonic = "skin total monkey steak unit trial birth crater kitten spell govern exclude";
+var mnemonic = "skin list crystal august harvest vintage inch next ring exact curious wide";

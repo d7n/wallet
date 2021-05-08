@@ -1,1 +1,1 @@
-var mnemonic = "rail office rifle situate talent spawn secret earn layer person fork kit";
+var mnemonic = "skate casual approve six lawsuit message gym taxi collect broom hurdle decade";

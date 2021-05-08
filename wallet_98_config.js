@@ -1,1 +1,1 @@
-var mnemonic = "divide shuffle poverty cloth example sunny radar garlic fence top domain cargo";
+var mnemonic = "eyebrow panic knee under scout twice smoke swear rib joy sign happy";

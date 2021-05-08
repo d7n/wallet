@@ -1,1 +1,1 @@
-var mnemonic = "despair imitate liberty idle law normal hat car alter bicycle laptop endorse";
+var mnemonic = "civil ketchup pepper pupil helmet human repeat goddess play address stone dignity";

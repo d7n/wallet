@@ -1,1 +1,1 @@
-var mnemonic = "opera walnut van torch chuckle student post way crash power assault chaos";
+var mnemonic = "invest tube practice master room myself loan jewel learn lock kick caught";

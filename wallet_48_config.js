@@ -1,1 +1,1 @@
-var mnemonic = "vote fitness enjoy arrest poem axis oak key pony lyrics return slow";
+var mnemonic = "hub gadget axis soda advice enact ten civil satoshi tent wage method";

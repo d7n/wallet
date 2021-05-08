@@ -1,1 +1,1 @@
-var mnemonic = "between dust soda various viable festival ancient crop section mass elephant cute";
+var mnemonic = "excuse fruit acid course quote neck teach maple athlete toddler code remind";

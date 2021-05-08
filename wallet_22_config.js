@@ -1,1 +1,1 @@
-var mnemonic = "parrot exhibit grace deliver arena eye end knock grape know rookie tongue";
+var mnemonic = "arena cake harvest quit junk coral supply during promote orange tortoise rib";

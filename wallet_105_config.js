@@ -1,1 +1,1 @@
-var mnemonic = "spray vault spike home car scheme trim razor scrap mobile good outdoor";
+var mnemonic = "warrior romance pact educate clarify hammer shop learn night cannon nothing shield";

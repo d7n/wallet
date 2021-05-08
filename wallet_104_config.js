@@ -1,1 +1,1 @@
-var mnemonic = "second remove cup spatial craft wine burden car keen walk logic bronze";
+var mnemonic = "whisper boy ghost cigar like public chuckle spell often trim blossom decorate";

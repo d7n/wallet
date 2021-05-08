@@ -1,1 +1,1 @@
-var mnemonic = "approve doctor exhaust essay punch fuel way hobby open demise give lesson";
+var mnemonic = "arrange route model knee clay hire parade vital uniform piece clap season";

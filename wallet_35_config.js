@@ -1,1 +1,1 @@
-var mnemonic = "second please sign shield beef eagle devote rent exclude visual laugh turn";
+var mnemonic = "grape seat crowd crime detect sing credit parent dash eight often math";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree sunset chalk loyal ancient lonely salmon sick close friend derive reunion";
+var mnemonic = "awake faint ski economy evil nothing witness man own solid pulse negative";

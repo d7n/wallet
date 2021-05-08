@@ -1,1 +1,1 @@
-var mnemonic = "crop disorder because keen dentist youth grit rich harsh strong attract replace";
+var mnemonic = "banner index arena spend cost ride pioneer novel confirm clip brush dentist";

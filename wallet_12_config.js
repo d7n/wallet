@@ -1,1 +1,1 @@
-var mnemonic = "blood vessel shield visa mechanic guard attract media pattern muffin switch endless";
+var mnemonic = "spoon page enable license dumb truck when pulse kick boss bunker puzzle";

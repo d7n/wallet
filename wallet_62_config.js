@@ -1,1 +1,1 @@
-var mnemonic = "industry describe can all kingdom capable advance beauty proof present spirit dog";
+var mnemonic = "quarter dinner retire eager replace deer write remove humble boost argue hobby";

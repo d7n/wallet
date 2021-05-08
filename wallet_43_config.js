@@ -1,1 +1,1 @@
-var mnemonic = "vicious floor treat holiday lumber enforce situate return mercy bargain evolve rebuild";
+var mnemonic = "raw surge hat army endless meat merry avocado cherry shoe census spike";

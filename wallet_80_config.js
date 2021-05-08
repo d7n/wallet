@@ -1,1 +1,1 @@
-var mnemonic = "evidence student brown carbon coast swift horror tissue skirt budget scout donkey";
+var mnemonic = "beach coffee hour account impulse item remember angle bargain orient hard fold";

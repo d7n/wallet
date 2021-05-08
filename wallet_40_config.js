@@ -1,1 +1,1 @@
-var mnemonic = "glove wealth motion decrease whale garbage survey demise slight absent region broom";
+var mnemonic = "tunnel winner flower horror steak later radar echo wrong hollow rough bus";

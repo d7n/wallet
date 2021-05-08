@@ -1,1 +1,1 @@
-var mnemonic = "surge ignore apple hurry business satoshi evidence list analyst inner unique lonely";
+var mnemonic = "unknown pizza grow sure candy desert goose pattern green valley alcohol just";

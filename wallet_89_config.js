@@ -1,1 +1,1 @@
-var mnemonic = "spike lemon rhythm jeans hour iron drama repair lottery garment butter combine";
+var mnemonic = "prosper source enforce april result flash hill bag vanish sad correct friend";

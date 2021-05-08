@@ -1,1 +1,1 @@
-var mnemonic = "stomach shy road pole symptom helmet logic leisure aunt boy cradle fat";
+var mnemonic = "list ecology asset average make kitten hood clip auto struggle siren carpet";

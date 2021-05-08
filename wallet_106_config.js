@@ -1,1 +1,1 @@
-var mnemonic = "path mother say again equip suggest unusual input fitness beauty urge hole";
+var mnemonic = "public clarify learn loan catch cycle normal gift bachelor special state message";

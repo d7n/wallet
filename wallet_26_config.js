@@ -1,1 +1,1 @@
-var mnemonic = "panther series where profit soul squeeze illness relief squeeze drop stay keep";
+var mnemonic = "lesson green earn eternal grass tree regular error ability team betray borrow";

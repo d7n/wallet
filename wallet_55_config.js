@@ -1,1 +1,1 @@
-var mnemonic = "flower rate inside drink hood token innocent truly educate unknown orchard bridge";
+var mnemonic = "trigger salmon blind three slush sell leave skirt snow boring stem lucky";

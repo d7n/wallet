@@ -1,1 +1,1 @@
-var mnemonic = "spare summer pilot rhythm train depend risk distance host axis dynamic found";
+var mnemonic = "jewel afford riot alter opera cover purse curious media abuse feature hamster";

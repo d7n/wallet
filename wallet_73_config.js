@@ -1,1 +1,1 @@
-var mnemonic = "impulse domain whale diamond open crystal modify release stove stairs small obvious";
+var mnemonic = "video tape conduct child scatter oven annual island science order gorilla equip";

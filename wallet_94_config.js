@@ -1,1 +1,1 @@
-var mnemonic = "judge birth dial jazz street demise exist appear inch knife enable ask";
+var mnemonic = "will census adult online mechanic inspire lizard club notice old urge comic";

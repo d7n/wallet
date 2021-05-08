@@ -1,1 +1,1 @@
-var mnemonic = "acid can flush slogan view pave speak month slender plunge object fetch";
+var mnemonic = "oppose hammer orient enable sign allow call element federal erosion clump duck";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire mask flower rice claim gallery step found apart honey glare need";
+var mnemonic = "unveil equip chief vapor east achieve first monkey hill vibrant rather pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "rather kiss try lava legend season stay client gasp reveal cube will";
+var mnemonic = "shy cabin tackle stand shy assault warm castle mix amount humor crucial";

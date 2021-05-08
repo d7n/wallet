@@ -1,1 +1,1 @@
-var mnemonic = "end follow capable loop quality during pumpkin parrot actor seven bullet bridge";
+var mnemonic = "cargo fatigue powder pupil disease inmate live antenna cannon assist length alley";

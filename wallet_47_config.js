@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin grief where iron allow silly submit plate feel opinion brave pattern";
+var mnemonic = "sponsor exact special favorite remind hover like awesome fee arch prize upper";

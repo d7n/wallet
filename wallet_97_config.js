@@ -1,1 +1,1 @@
-var mnemonic = "lunch final rely they room trash list deny fitness tornado trigger royal";
+var mnemonic = "spatial mammal clay exhaust cube census episode remove floor candy menu amount";

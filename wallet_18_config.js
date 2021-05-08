@@ -1,1 +1,1 @@
-var mnemonic = "deer sleep wool seven armor private thunder asthma post nerve path rice";
+var mnemonic = "lottery grace inch lumber garbage practice diesel depend direct decorate thrive calm";

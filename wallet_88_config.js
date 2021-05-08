@@ -1,1 +1,1 @@
-var mnemonic = "artwork rely twenty human sponsor small share word trade ahead often visual";
+var mnemonic = "powder urban turkey humble outdoor hill taxi glance add increase coconut raw";

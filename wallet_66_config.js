@@ -1,1 +1,1 @@
-var mnemonic = "liar debris demise bounce middle acoustic garbage video mandate athlete grunt desk";
+var mnemonic = "sign behave want arrow one dynamic asset slender say own lion depth";

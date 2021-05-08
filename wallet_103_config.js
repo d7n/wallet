@@ -1,1 +1,1 @@
-var mnemonic = "regret swear canoe village uphold slight jar video chunk liberty episode divorce";
+var mnemonic = "toss glide barrel snake cash sick exotic soft use fine minimum heavy";
