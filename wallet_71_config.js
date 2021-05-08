@@ -1,1 +1,1 @@
-var mnemonic = "tube sting flame typical useless service opinion device anchor novel until improve";
+var mnemonic = "middle exit tuna unit mirror sunny fox digital monkey foil liquid twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "empty infant avocado curtain busy brand panther awake sell nation glass wreck";
+var mnemonic = "avocado speak glass coral twenty safe embrace divert alarm useless join exercise";

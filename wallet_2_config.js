@@ -1,1 +1,1 @@
-var mnemonic = "fresh guide rapid shove truly arm unfold oak corn program wait toy";
+var mnemonic = "token arch roast swarm abstract post glass mixture another fossil wool always";

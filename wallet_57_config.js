@@ -1,1 +1,1 @@
-var mnemonic = "affair toss midnight lion knee ride duty divert more mask slim eyebrow";
+var mnemonic = "mad calm excuse charge lecture siren detect oyster real fiber crystal diary";

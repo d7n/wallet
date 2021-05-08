@@ -1,1 +1,1 @@
-var mnemonic = "caution often misery differ spread hen era scan movie mass usage program";
+var mnemonic = "grain awesome curious desk mail multiply rookie announce carbon illness ocean unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "cat few logic result drama taxi alarm casual prison recipe bunker want";
+var mnemonic = "vote burger worth hurry edge cushion video oil purse hole search stairs";

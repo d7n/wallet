@@ -1,1 +1,1 @@
-var mnemonic = "pioneer hawk salmon mountain wear symbol deer source prize salmon cable surge";
+var mnemonic = "light animal twice enact ankle spot access actor absurd moment rather series";

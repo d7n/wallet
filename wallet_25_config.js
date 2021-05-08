@@ -1,1 +1,1 @@
-var mnemonic = "sea catalog trial provide winner expose decide stuff amused click midnight foil";
+var mnemonic = "among tornado decade essay assist awful knee cereal power army monster iron";

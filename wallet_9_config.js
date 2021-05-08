@@ -1,1 +1,1 @@
-var mnemonic = "foster master unusual canyon fruit already bulb miracle heart pill fiber win";
+var mnemonic = "awful odor soon aim dove crush sail wave jazz suffer remember sister";

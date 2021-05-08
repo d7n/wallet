@@ -1,1 +1,1 @@
-var mnemonic = "dignity wheel panda action destroy left document brown apple advice primary sleep";
+var mnemonic = "produce oyster random pigeon action position artwork movie act buffalo during insect";

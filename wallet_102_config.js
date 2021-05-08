@@ -1,1 +1,1 @@
-var mnemonic = "echo moment frog blast mixed robust room current horn holiday angle relief";
+var mnemonic = "dad oxygen achieve mushroom emerge country talk lazy hair outdoor truth plunge";

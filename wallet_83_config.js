@@ -1,1 +1,1 @@
-var mnemonic = "ozone manage dune black seek time main cool response twelve razor rice";
+var mnemonic = "over grace awful bleak subway gossip absorb school base protect aisle rice";

@@ -1,1 +1,1 @@
-var mnemonic = "select biology action earn husband early spoon review build horse name cry";
+var mnemonic = "rapid genius torch hat grunt road fatal patient kite grain venture derive";

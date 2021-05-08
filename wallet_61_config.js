@@ -1,1 +1,1 @@
-var mnemonic = "raw giraffe skin sting board galaxy furnace van become under napkin coin";
+var mnemonic = "post crater floor torch oppose neither farm human cover glimpse palace local";

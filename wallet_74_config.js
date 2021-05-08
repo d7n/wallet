@@ -1,1 +1,1 @@
-var mnemonic = "venue vital obscure girl book tissue there kitten staff hurt lens evil";
+var mnemonic = "category pole wife airport else sentence ticket solution valley cliff pyramid vanish";

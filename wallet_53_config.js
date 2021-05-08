@@ -1,1 +1,1 @@
-var mnemonic = "paper season thumb cable husband toe best regret crazy deny promote immense";
+var mnemonic = "uniform next prize jewel cereal document number man ship dinner arch segment";

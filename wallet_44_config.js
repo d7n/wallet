@@ -1,1 +1,1 @@
-var mnemonic = "great salon arrange paper alert warm real depend wrestle breeze rookie before";
+var mnemonic = "shock author rigid amazing odor stadium wheat push visual undo tortoise reopen";

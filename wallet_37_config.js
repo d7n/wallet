@@ -1,1 +1,1 @@
-var mnemonic = "success assume van rocket clean believe ten foot easy business own party";
+var mnemonic = "industry hood extra pear soup forget dirt legal true dune ready humble";

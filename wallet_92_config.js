@@ -1,1 +1,1 @@
-var mnemonic = "cry idle cruel day disagree lonely print lesson naive gun bright hospital";
+var mnemonic = "error fruit service around rich express flame smooth where lazy lens universe";

@@ -1,1 +1,1 @@
-var mnemonic = "daring crush tube powder diamond range fortune behave swift spend match miss";
+var mnemonic = "spirit release maximum scatter produce junior bitter rookie loyal alarm hollow cannon";

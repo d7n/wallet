@@ -1,1 +1,1 @@
-var mnemonic = "vast frame desk crawl wise quick casino flower advice tenant pilot wear";
+var mnemonic = "gossip relief ivory put mail input olympic degree toilet flash victory mix";

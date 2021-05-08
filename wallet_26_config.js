@@ -1,1 +1,1 @@
-var mnemonic = "left drum law cargo december bean random undo uncover fox index hub";
+var mnemonic = "account doll item rail verify section weird bulk banana uncover copy debris";

@@ -1,1 +1,1 @@
-var mnemonic = "key tortoise enlist olympic curtain atom silly deny teach room wheel comic";
+var mnemonic = "conduct twin champion snap deliver cry uncover tray focus horror salmon voice";

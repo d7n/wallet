@@ -1,1 +1,1 @@
-var mnemonic = "envelope calm tank grape scene verify gravity denial defense mammal table post";
+var mnemonic = "find next valid west six torch phrase turn coffee lucky health test";

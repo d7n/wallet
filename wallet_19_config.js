@@ -1,1 +1,1 @@
-var mnemonic = "antique green behind bird laugh craft eternal fence sorry vessel west ocean";
+var mnemonic = "dragon chunk address unique become text pen knife goose jacket camp same";

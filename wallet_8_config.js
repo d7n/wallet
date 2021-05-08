@@ -1,1 +1,1 @@
-var mnemonic = "prefer frog mean issue build pen hawk banner mix marine auction jeans";
+var mnemonic = "region dragon render depth wide interest cup purse bundle royal spin cargo";

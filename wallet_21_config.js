@@ -1,1 +1,1 @@
-var mnemonic = "nature exile hungry sand wire roast teach ecology tiger elegant act chicken";
+var mnemonic = "bulk story jacket still valve fall dice absent fog crisp renew echo";

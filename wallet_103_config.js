@@ -1,1 +1,1 @@
-var mnemonic = "okay limit seed solution piece wish spread neither shiver offer try fence";
+var mnemonic = "scrap shove onion wing habit art praise job peace model deal cool";

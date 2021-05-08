@@ -1,1 +1,1 @@
-var mnemonic = "mistake bid ecology wrong faint upset wagon kidney mad net divide leader";
+var mnemonic = "tray match embark fury bronze solution blast chuckle neck confirm because slam";

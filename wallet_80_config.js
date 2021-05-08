@@ -1,1 +1,1 @@
-var mnemonic = "million arrange topic captain west high clinic ceiling industry father jewel rookie";
+var mnemonic = "copy place tennis bleak destroy tower wave action erupt despair leader captain";

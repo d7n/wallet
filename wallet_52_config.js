@@ -1,1 +1,1 @@
-var mnemonic = "behave card toss island jaguar decline column female dentist silk cliff clog";
+var mnemonic = "shallow mosquito price evidence gallery discover wool fit enemy tribe diamond actress";

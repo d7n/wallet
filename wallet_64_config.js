@@ -1,1 +1,1 @@
-var mnemonic = "square shuffle extra embark shoot unable muscle hawk fossil crush rug fault";
+var mnemonic = "mansion joy evoke split web blame put photo silver inquiry test patch";

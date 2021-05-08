@@ -1,1 +1,1 @@
-var mnemonic = "rural planet term hospital meadow oyster arrive ticket riot meat put ladder";
+var mnemonic = "miss foster wear angry century december make pink develop movie vendor return";

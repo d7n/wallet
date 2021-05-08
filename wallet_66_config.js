@@ -1,1 +1,1 @@
-var mnemonic = "guess keen north disease also sea among fat reduce toddler clog van";
+var mnemonic = "manage express zero tone stay tide width carbon quality buzz pelican asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "course among scene tenant deposit strategy truly craft chunk receive paddle ahead";
+var mnemonic = "glory oak move latin forum gentle great brass regret neglect muscle torch";

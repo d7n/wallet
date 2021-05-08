@@ -1,1 +1,1 @@
-var mnemonic = "ripple cricket coffee cruel art prevent shine diagram ocean field tissue voice";
+var mnemonic = "render among noodle cliff side idea bundle midnight still cliff junior leopard";

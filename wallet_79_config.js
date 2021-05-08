@@ -1,1 +1,1 @@
-var mnemonic = "brother february legal hidden curtain alone lock fall scissors slender invest come";
+var mnemonic = "crunch hint style early marriage into guilt spoil over gown inner orphan";

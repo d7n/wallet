@@ -1,1 +1,1 @@
-var mnemonic = "poverty reject wink rifle hole click edge wing axis smoke thing wear";
+var mnemonic = "hobby useful hard original spoil puppy identify story casual decide pride brass";

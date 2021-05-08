@@ -1,1 +1,1 @@
-var mnemonic = "appear wide auction menu cliff elephant trigger inner limb ghost burst bargain";
+var mnemonic = "develop census hole innocent market odor dove erase stay throw shove smooth";

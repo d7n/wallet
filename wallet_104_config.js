@@ -1,1 +1,1 @@
-var mnemonic = "solar lamp release army inch range assist gold alley diamond obey note";
+var mnemonic = "receive suggest surround old leaf dwarf able develop frown already share mandate";

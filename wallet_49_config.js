@@ -1,1 +1,1 @@
-var mnemonic = "make slim feed month enroll fall thrive draw story grape execute weapon";
+var mnemonic = "wasp hospital liquid tuition swift dwarf wish food bread unknown ripple rice";

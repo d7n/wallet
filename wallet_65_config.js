@@ -1,1 +1,1 @@
-var mnemonic = "uncover ozone mixture artefact toy outer dance good sausage curious axis hunt";
+var mnemonic = "system syrup jazz enlist cotton fault deal clap satoshi credit extend enroll";

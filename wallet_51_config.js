@@ -1,1 +1,1 @@
-var mnemonic = "tunnel detail potato dumb caution long combine fun tackle list engine fruit";
+var mnemonic = "glass casual eyebrow mushroom fire cabbage awesome drop lemon coast area buffalo";

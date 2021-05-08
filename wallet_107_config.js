@@ -1,1 +1,1 @@
-var mnemonic = "oblige fence impact nice hurdle much oil cannon noble grid urban hidden";
+var mnemonic = "tumble daring roast equip praise issue drift mesh course river swamp move";

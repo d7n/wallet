@@ -1,1 +1,1 @@
-var mnemonic = "since wet spice tilt club awful critic hat urban catalog kitchen twin";
+var mnemonic = "lift black enlist hockey choice must real punch spare napkin praise response";

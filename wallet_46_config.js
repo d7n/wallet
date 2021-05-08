@@ -1,1 +1,1 @@
-var mnemonic = "matrix debate throw word swarm doll better mouse dinner monster glimpse pull";
+var mnemonic = "crunch network pepper empty glove present purchase fiscal abuse topic office history";

@@ -1,1 +1,1 @@
-var mnemonic = "rule diamond bind boss wonder cheese glass valid foil cattle tumble square";
+var mnemonic = "rely quote parent chimney century fatigue wine rule jealous stadium jazz situate";

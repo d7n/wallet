@@ -1,1 +1,1 @@
-var mnemonic = "impulse car soup food pulp scissors seminar sick weapon marriage amazing forward";
+var mnemonic = "mushroom despair bomb traffic dad process project already wasp patch slush element";

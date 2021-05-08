@@ -1,1 +1,1 @@
-var mnemonic = "govern ensure civil antique fault round topple noise open palm impose label";
+var mnemonic = "oxygen such slab anger puzzle tuna calm slot bundle fly glimpse nerve";

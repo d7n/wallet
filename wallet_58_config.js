@@ -1,1 +1,1 @@
-var mnemonic = "song ridge explain analyst brick ice alarm moral magic bargain lesson van";
+var mnemonic = "park health bring dirt either glory era provide measure space sound comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "grief armed body crew must boat shuffle cattle junk divorce assault wood";
+var mnemonic = "word resource grass range expect always bonus feel brief spoon team artist";

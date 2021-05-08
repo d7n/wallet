@@ -1,1 +1,1 @@
-var mnemonic = "grain penalty defy case exhibit exotic ceiling awful tail warm drift symbol";
+var mnemonic = "potato member monitor hedgehog slogan margin father lizard dilemma desert uncover junior";

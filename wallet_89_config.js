@@ -1,1 +1,1 @@
-var mnemonic = "receive toe naive trap grief bread mystery faith ranch goose chalk nut";
+var mnemonic = "brother pulp garage define baby detect expand jump deliver still quiz peace";

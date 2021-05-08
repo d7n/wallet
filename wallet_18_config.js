@@ -1,1 +1,1 @@
-var mnemonic = "spider increase panic hungry spider tent right monster pigeon crunch ignore crazy";
+var mnemonic = "settle pair estate eye series hole charge ghost pool case dumb judge";

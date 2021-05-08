@@ -1,1 +1,1 @@
-var mnemonic = "afford diagram sniff recipe square knock foam despair insane actress enforce hungry";
+var mnemonic = "useful machine bless scrub ten write allow dwarf farm always train zero";

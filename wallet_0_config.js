@@ -1,1 +1,1 @@
-var mnemonic = "input moon science this diagram fold name dumb denial parrot approve clinic";
+var mnemonic = "attack table hybrid honey coin beef lab example know smile sense weather";

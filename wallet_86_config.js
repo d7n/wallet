@@ -1,1 +1,1 @@
-var mnemonic = "chunk smart salmon fetch need cook pull absent drop area peasant control";
+var mnemonic = "other coach term fox begin sadness raise horror already soft lemon dice";

@@ -1,1 +1,1 @@
-var mnemonic = "shy run logic eye require orchard retire wait black expose until detect";
+var mnemonic = "shift erosion glove drama fantasy ritual then bean soft turn nasty coffee";

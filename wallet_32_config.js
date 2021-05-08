@@ -1,1 +1,1 @@
-var mnemonic = "laundry barrel mouse ridge valve wreck buddy outside copper satoshi rescue liar";
+var mnemonic = "north because famous middle squirrel slim barely inform resource bottom sense car";

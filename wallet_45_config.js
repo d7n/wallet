@@ -1,1 +1,1 @@
-var mnemonic = "afford upset raise canoe patch verb vacuum fiscal rebuild angry cheese nuclear";
+var mnemonic = "okay bronze trick aerobic clever bamboo human cat antenna fame kiss inform";

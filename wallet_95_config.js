@@ -1,1 +1,1 @@
-var mnemonic = "awkward dinner nominee fever borrow brass story unlock glimpse hard horse inner";
+var mnemonic = "network budget hover genius merge breeze math only century occur inquiry lava";

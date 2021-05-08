@@ -1,1 +1,1 @@
-var mnemonic = "blossom dose garage risk idle current school equip scrub aim eagle circle";
+var mnemonic = "talk cry equip cabin move corn differ feel floor icon spoon off";

@@ -1,1 +1,1 @@
-var mnemonic = "sand room wash lift elbow panel split wheat innocent delay october proud";
+var mnemonic = "bomb bargain inherit guitar march park renew arrow father sorry tiny outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "side vocal voyage anxiety leopard wise crazy step grief slide weather food";
+var mnemonic = "comfort soap view faith drop mention hub pulp choose donor sort help";

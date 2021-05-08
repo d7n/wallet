@@ -1,1 +1,1 @@
-var mnemonic = "faith meat result tail mix scale toe midnight fat picnic anchor infant";
+var mnemonic = "strategy steak coin forget leisure print abandon crouch vast device edge tiny";

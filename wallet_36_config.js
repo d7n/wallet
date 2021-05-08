@@ -1,1 +1,1 @@
-var mnemonic = "tell bread sort cycle perfect credit spider melt runway coyote item clump";
+var mnemonic = "luxury mom crater wage mountain symptom skull lonely enter street globe test";

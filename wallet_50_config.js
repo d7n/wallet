@@ -1,1 +1,1 @@
-var mnemonic = "wet banner style test hidden bracket sorry wise dynamic potato silver twice";
+var mnemonic = "airport unable success front hip verb limit spawn repeat essence duty evoke";

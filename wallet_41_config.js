@@ -1,1 +1,1 @@
-var mnemonic = "hat draft ostrich have viable suit dignity mechanic smooth sketch chunk gorilla";
+var mnemonic = "pill input naive morning mix tank napkin slight text victory display ski";

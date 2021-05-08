@@ -1,1 +1,1 @@
-var mnemonic = "situate right fatigue come impact debris inject athlete drastic question current basic";
+var mnemonic = "inch spike jealous anger teach wire business road glass inquiry try spread";

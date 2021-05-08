@@ -1,1 +1,1 @@
-var mnemonic = "reduce quiz hedgehog inside rough raven cabin trophy organ swamp club slam";
+var mnemonic = "other middle table provide cricket vehicle pledge metal neutral concert extra second";

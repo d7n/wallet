@@ -1,1 +1,1 @@
-var mnemonic = "erode lamp salmon energy derive couch umbrella swallow flavor fix mandate bachelor";
+var mnemonic = "parent easily credit reopen moral struggle prison tank card fluid boring jar";

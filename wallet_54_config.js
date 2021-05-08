@@ -1,1 +1,1 @@
-var mnemonic = "fuel any erase guess forum buyer oxygen large trim gain save clerk";
+var mnemonic = "potato sting claim feel grow cruel coin fever famous august photo save";

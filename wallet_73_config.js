@@ -1,1 +1,1 @@
-var mnemonic = "turn unusual bright blind raccoon stuff cloth use notice piano process peasant";
+var mnemonic = "bubble never blur maze pride improve banner prevent oyster first tuition offer";

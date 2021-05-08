@@ -1,1 +1,1 @@
-var mnemonic = "smile effort point exhaust usual barrel resist certain sand upset abuse dumb";
+var mnemonic = "forward tired design bracket dinner glad dumb monkey range junior turkey limb";

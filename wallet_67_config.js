@@ -1,1 +1,1 @@
-var mnemonic = "hard funny pill letter hazard journey excess candy blast day polar choose";
+var mnemonic = "guilt game dish science grief biology addict grab mean general puppy worry";

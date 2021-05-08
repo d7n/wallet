@@ -1,1 +1,1 @@
-var mnemonic = "allow cart foot skill gate harsh lake duty unusual picture grass tennis";
+var mnemonic = "census infant rent gentle struggle merge kingdom casual ramp float prepare faith";

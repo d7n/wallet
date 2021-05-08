@@ -1,1 +1,1 @@
-var mnemonic = "trick raw piano pottery burger purchase decide copper cotton call seat absorb";
+var mnemonic = "pulp act dream meat guide best cruel often bitter umbrella flight occur";

@@ -1,1 +1,1 @@
-var mnemonic = "clap velvet shock result birth diet monster cradle arctic vocal coral attitude";
+var mnemonic = "damage material history transfer shadow dignity stomach wild credit stairs raccoon affair";

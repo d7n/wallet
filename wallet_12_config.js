@@ -1,1 +1,1 @@
-var mnemonic = "canal spin future cause expand ice extra punch zero guard apart armed";
+var mnemonic = "soldier toddler fruit plastic focus gadget agent hip try rough evidence paddle";

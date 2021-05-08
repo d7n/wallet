@@ -1,1 +1,1 @@
-var mnemonic = "margin lazy poverty annual finger stock emerge chief rough biology trade error";
+var mnemonic = "coyote dutch exhibit play wait nephew mushroom orchard scheme tag gain walk";

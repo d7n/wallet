@@ -1,1 +1,1 @@
-var mnemonic = "labor refuse easy divert oyster ordinary holiday surprise kit grid fury modify";
+var mnemonic = "cluster mother census around point timber fiber boil fun seek evidence slice";

@@ -1,1 +1,1 @@
-var mnemonic = "car short control bracket hazard trash power verify rapid key unlock salt";
+var mnemonic = "host venue witness shield fiber normal sunny million culture shuffle march right";

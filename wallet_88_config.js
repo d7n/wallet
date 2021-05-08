@@ -1,1 +1,1 @@
-var mnemonic = "number crazy trust nest start select forget upset emerge ahead spirit icon";
+var mnemonic = "slam someone now chef strike vital catalog egg language orphan sausage amateur";

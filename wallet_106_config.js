@@ -1,1 +1,1 @@
-var mnemonic = "nerve fine gain spatial future pill exhibit minute false pave course pumpkin";
+var mnemonic = "alter thank movie connect swallow witness one angle erosion prize fruit world";

@@ -1,1 +1,1 @@
-var mnemonic = "assault bundle transfer repeat same moment consider duty trap first mom dry";
+var mnemonic = "elbow edge kangaroo wet fit gauge master debate equip approve eager canal";

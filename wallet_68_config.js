@@ -1,1 +1,1 @@
-var mnemonic = "denial palm head razor hub drink interest beauty gauge tumble avocado area";
+var mnemonic = "rack size sting burden assume exhaust fitness opinion pact warfare cruel elegant";

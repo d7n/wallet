@@ -1,1 +1,1 @@
-var mnemonic = "ordinary basket garment guilt candy term baby govern sight blame exotic enact";
+var mnemonic = "please wait idle sell pencil fly rough deposit liberty salmon tree glory";

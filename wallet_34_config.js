@@ -1,1 +1,1 @@
-var mnemonic = "world ghost usage margin bird client wash apology behave mushroom vacuum hawk";
+var mnemonic = "timber aware table gold shaft only stone village waste fade dirt summer";

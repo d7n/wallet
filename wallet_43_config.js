@@ -1,1 +1,1 @@
-var mnemonic = "bounce machine december hip favorite victory return address alien enough govern trouble";
+var mnemonic = "network aware mixture wrap bag nut inch forum caught fetch attract hen";

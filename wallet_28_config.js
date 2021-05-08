@@ -1,1 +1,1 @@
-var mnemonic = "conduct aim color will identify motor mosquito heart peanut believe arm stage";
+var mnemonic = "offer convince isolate silver lounge broom lobster dolphin simple mango adapt idle";

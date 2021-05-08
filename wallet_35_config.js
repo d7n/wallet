@@ -1,1 +1,1 @@
-var mnemonic = "wife chalk wreck drop system salon matrix escape also proud number someone";
+var mnemonic = "inject fat tape wild earn claw borrow approve belt crystal melt sort";

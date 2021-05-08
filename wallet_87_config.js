@@ -1,1 +1,1 @@
-var mnemonic = "admit poem bottom youth toward shrug cycle olympic approve valve smile group";
+var mnemonic = "useful tell simple member build tube south size monitor friend believe bone";

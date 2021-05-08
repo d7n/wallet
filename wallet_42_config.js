@@ -1,1 +1,1 @@
-var mnemonic = "tail sauce gallery film horn army divide found enrich clump inmate essence";
+var mnemonic = "dream veteran yellow oven outdoor jeans theme skirt flat liberty couple exist";

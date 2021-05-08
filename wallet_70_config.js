@@ -1,1 +1,1 @@
-var mnemonic = "invest valve toe clog clutch lava because certain fork shoot together enhance";
+var mnemonic = "ozone horror obey athlete field subject swamp soccer expire noise pet tomorrow";

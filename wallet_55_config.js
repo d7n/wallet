@@ -1,1 +1,1 @@
-var mnemonic = "mercy dune fit envelope elephant cousin squirrel rigid dwarf adjust high satoshi";
+var mnemonic = "exchange stick beyond february art deposit circle business develop plastic wait vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "rely unit addict bronze calm room bar kiss panda charge coach rebel";
+var mnemonic = "egg bubble indoor health accuse certain strike toward dizzy dry marine maze";
