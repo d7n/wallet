@@ -1,1 +1,1 @@
-var mnemonic = "cook useless muscle venue flower wool way utility spatial cotton dose pride";
+var mnemonic = "board horror leader toss mixed humor move cable security mammal spot knee";

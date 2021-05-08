@@ -1,1 +1,1 @@
-var mnemonic = "model weasel ecology exact project barely vacant knee grief midnight silent ski";
+var mnemonic = "twenty judge glance such sound shock universe current lava tree blur curious";

@@ -1,1 +1,1 @@
-var mnemonic = "broom fancy shallow crisp kiss example federal labor force cube away parent";
+var mnemonic = "top tone tilt flavor spatial remember black jazz cruel nice spice type";

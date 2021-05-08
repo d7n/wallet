@@ -1,1 +1,1 @@
-var mnemonic = "robot dose grass truck eight have supreme pact hair smooth whisper tomato";
+var mnemonic = "when bike task target menu general depth alpha love lamp sing monster";

@@ -1,1 +1,1 @@
-var mnemonic = "damp carry suffer twist room crisp more luxury girl silly mule range";
+var mnemonic = "six hand pencil artwork local lesson session aisle when stem pepper hire";

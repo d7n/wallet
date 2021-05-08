@@ -1,1 +1,1 @@
-var mnemonic = "supreme vital humor rain swarm extend remove envelope win during border denial";
+var mnemonic = "keen gravity shop toy sting silent frost income south loan vast man";

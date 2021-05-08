@@ -1,1 +1,1 @@
-var mnemonic = "peace top power design clerk shrimp wrist machine buffalo summer hungry double";
+var mnemonic = "victory enable bike charge come debris census surround cloth ankle vintage nothing";

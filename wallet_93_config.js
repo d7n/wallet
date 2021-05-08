@@ -1,1 +1,1 @@
-var mnemonic = "high parrot soldier firm frozen latin debris vessel foot tip include novel";
+var mnemonic = "flag panther maid crew cover kangaroo hip section enforce output certain coach";

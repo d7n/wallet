@@ -1,1 +1,1 @@
-var mnemonic = "above trend account fade scatter describe notable pelican security orient hover cigar";
+var mnemonic = "inquiry useless monitor mango knock fitness census hen mesh guitar crack cushion";

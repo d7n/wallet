@@ -1,1 +1,1 @@
-var mnemonic = "credit city hand ignore advance people snack grunt foil truck primary glove";
+var mnemonic = "lumber rigid child sustain rebuild blame any tribe quality number tool snake";

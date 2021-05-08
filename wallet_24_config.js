@@ -1,1 +1,1 @@
-var mnemonic = "security case into sell lamp occur beef pear happy balcony hawk swing";
+var mnemonic = "wheel enact fix blade click volcano firm deposit olympic paper auto unfold";

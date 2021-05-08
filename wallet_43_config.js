@@ -1,1 +1,1 @@
-var mnemonic = "explain radio pink rather hen scan surface health search try toss country";
+var mnemonic = "snake deer walk local skull cluster guard common ecology curious load swing";

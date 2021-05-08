@@ -1,1 +1,1 @@
-var mnemonic = "shell horse blast blouse era nurse sing ladder satoshi fit figure alert";
+var mnemonic = "unique reform change funny awkward question lamp mad term claw kiss disease";

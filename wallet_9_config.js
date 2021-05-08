@@ -1,1 +1,1 @@
-var mnemonic = "found beach cancel praise equip crumble gospel express maximum logic embody orbit";
+var mnemonic = "aware own meat barrel retreat invite wedding matter kick insane zebra token";

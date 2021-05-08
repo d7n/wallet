@@ -1,1 +1,1 @@
-var mnemonic = "music into tube right olive myth truth believe case talk response weasel";
+var mnemonic = "garment shrug chest kit rotate wing cotton memory between message arch rely";

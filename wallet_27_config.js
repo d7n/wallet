@@ -1,1 +1,1 @@
-var mnemonic = "system ribbon hurt usage lizard pattern wrestle genre rabbit race foot awful";
+var mnemonic = "surge luxury viable hat cup believe bright picnic labor into shift grid";

@@ -1,1 +1,1 @@
-var mnemonic = "question receive ability worth poem phrase collect rug midnight topple start pizza";
+var mnemonic = "shiver pen regular utility gentle quantum rebel success gold inner chunk stick";

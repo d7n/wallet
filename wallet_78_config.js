@@ -1,1 +1,1 @@
-var mnemonic = "payment bleak nasty unable erode aerobic crawl card hospital marriage found sign";
+var mnemonic = "only surround sausage stand flag miracle gloom deputy doctor trade venue pet";

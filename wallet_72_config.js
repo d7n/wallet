@@ -1,1 +1,1 @@
-var mnemonic = "park water advice finger mimic else tribe venture game tunnel average food";
+var mnemonic = "face attend end forget repeat nice boss deputy vast typical throw toast";

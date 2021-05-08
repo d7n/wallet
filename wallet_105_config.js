@@ -1,1 +1,1 @@
-var mnemonic = "satisfy canoe install physical jelly capital average sauce emerge sport walnut river";
+var mnemonic = "ill answer salute exotic idle local prison supply cup industry dice beyond";

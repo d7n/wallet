@@ -1,1 +1,1 @@
-var mnemonic = "almost peace world six resemble twice across blame ozone process rough indicate";
+var mnemonic = "since pledge lock acoustic approve yellow avocado card buzz agent purity exotic";

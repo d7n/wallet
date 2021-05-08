@@ -1,1 +1,1 @@
-var mnemonic = "barrel course struggle blur nerve dinner arrest bachelor credit lyrics tattoo rural";
+var mnemonic = "cabin shell viable fish track marriage program goddess uphold brother summer copy";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder remind basket canal squeeze cube twist shed beef ticket now pottery";
+var mnemonic = "empower enlist lucky maid link lazy dove excuse raven similar front allow";

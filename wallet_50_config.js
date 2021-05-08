@@ -1,1 +1,1 @@
-var mnemonic = "endless oppose cannon enact secret scorpion there mesh pepper insane domain coil";
+var mnemonic = "much derive cube timber also more trial upgrade music dose police increase";

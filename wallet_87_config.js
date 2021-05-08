@@ -1,1 +1,1 @@
-var mnemonic = "enrich mystery jealous saddle stumble fox city gas garage patrol armor hurry";
+var mnemonic = "fault civil hunt mixed food music pluck vanish silver special coral float";

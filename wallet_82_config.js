@@ -1,1 +1,1 @@
-var mnemonic = "quick absent visit slogan industry fossil model often mammal region vivid lounge";
+var mnemonic = "scrap afraid eye dress pull sun dignity mushroom rich zebra envelope valid";

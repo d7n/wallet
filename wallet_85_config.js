@@ -1,1 +1,1 @@
-var mnemonic = "lab toddler indoor tray result twenty onion barely laugh orchard sun auto";
+var mnemonic = "gauge prison rain antenna guitar evidence honey panther panel piece choice disagree";

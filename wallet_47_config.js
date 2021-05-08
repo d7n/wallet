@@ -1,1 +1,1 @@
-var mnemonic = "jump shaft admit repair connect luggage strong cactus soul salad famous true";
+var mnemonic = "better rapid trap swap pill regular family solution shaft crystal one involve";

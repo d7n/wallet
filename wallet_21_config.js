@@ -1,1 +1,1 @@
-var mnemonic = "coral nice later shuffle undo burger exhibit saddle venue area column kidney";
+var mnemonic = "only erode admit enforce globe walnut leopard photo snow estate tennis decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "merry physical expand myself behave city image baby actor blossom disorder balance";
+var mnemonic = "super lounge jazz route glance bar entire travel wasp chief pepper blanket";

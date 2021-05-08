@@ -1,1 +1,1 @@
-var mnemonic = "trick concert noise side position whip oil soda pistol jealous ranch observe";
+var mnemonic = "alert wrist object parrot slender shy blast example naive patch insane tool";

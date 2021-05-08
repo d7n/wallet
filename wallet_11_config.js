@@ -1,1 +1,1 @@
-var mnemonic = "asset outside sleep detail hurdle tuna gallery lift interest jelly hidden happy";
+var mnemonic = "hint audit mixture brief put hockey appear gravity nose patrol second asset";

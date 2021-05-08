@@ -1,1 +1,1 @@
-var mnemonic = "torch sun despair trash voice this issue rather crane betray issue current";
+var mnemonic = "oppose gold awkward mouse network upon join lake agree gym outside bring";

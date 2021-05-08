@@ -1,1 +1,1 @@
-var mnemonic = "bicycle kitchen pledge galaxy raven detail endless item version tent insect news";
+var mnemonic = "fluid same grocery like eternal possible display you cloth bulb person physical";

@@ -1,1 +1,1 @@
-var mnemonic = "slab melody second island swap income common minute sunset riot rose ketchup";
+var mnemonic = "plastic mixed attract banner cup aunt payment sick double protect expose arrest";

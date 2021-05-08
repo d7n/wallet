@@ -1,1 +1,1 @@
-var mnemonic = "expose sail talent physical truly impose middle ridge wonder pelican ripple series";
+var mnemonic = "visit demise film leader height peanut trumpet rocket describe february abuse aspect";

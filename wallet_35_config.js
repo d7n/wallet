@@ -1,1 +1,1 @@
-var mnemonic = "trick recycle lesson sphere pelican core apart solid click pioneer cook pupil";
+var mnemonic = "lucky mimic merit noodle talk chat heavy unknown roof panther crouch exhibit";

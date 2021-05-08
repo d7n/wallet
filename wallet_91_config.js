@@ -1,1 +1,1 @@
-var mnemonic = "hole subway design obvious picture lottery critic spell mutual hedgehog sting used";
+var mnemonic = "female catch grain spread undo kitchen flavor enough express merry great elder";

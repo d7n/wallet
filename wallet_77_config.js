@@ -1,1 +1,1 @@
-var mnemonic = "vote shuffle cradle entire lazy option syrup author shift acoustic inmate butter";
+var mnemonic = "range buddy canoe frequent twenty abuse celery novel claw love woman worry";

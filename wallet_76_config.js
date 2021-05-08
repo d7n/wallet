@@ -1,1 +1,1 @@
-var mnemonic = "start lens force scrap laundry cube tomato garlic business work fork tank";
+var mnemonic = "radar blame alone curious accuse dance grain need raise reward forget margin";

@@ -1,1 +1,1 @@
-var mnemonic = "strike wage flat odor choice lake lazy nut acquire claw rich divide";
+var mnemonic = "pilot service peasant memory sheriff tumble dignity what buyer scrap write reveal";

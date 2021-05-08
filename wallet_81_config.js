@@ -1,1 +1,1 @@
-var mnemonic = "spawn burden scheme mobile cheese merge genuine code comic love visit family";
+var mnemonic = "edge actress switch project capital feed fiber net flat walnut cook major";

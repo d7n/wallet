@@ -1,1 +1,1 @@
-var mnemonic = "slight shiver garment alley dial love tattoo hurry across caught seven fragile";
+var mnemonic = "unable siege jump miracle cotton human tobacco sure tiger blade success dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "tape glow legend uncle annual grunt crunch discover canvas meat affair weapon";
+var mnemonic = "first build fitness boy drum project assault despair artist police give escape";

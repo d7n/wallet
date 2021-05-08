@@ -1,1 +1,1 @@
-var mnemonic = "lemon tragic gospel tourist dilemma barely obey believe valley afraid embody stuff";
+var mnemonic = "trap clump horse pink sponsor rack ketchup crouch repeat sadness mule cart";

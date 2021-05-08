@@ -1,1 +1,1 @@
-var mnemonic = "mutual offer lady certain mercy maximum gadget cat unveil swarm limit knee";
+var mnemonic = "crazy accident donate summer expose morning inmate once patient humble sponsor metal";

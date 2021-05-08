@@ -1,1 +1,1 @@
-var mnemonic = "doll street gallery hill dawn cabin enter finger ask voice area cloth";
+var mnemonic = "fury come video long upgrade lecture inner mango captain brisk popular maze";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact chat good strategy junk lava plastic cliff divorce farm dress change";
+var mnemonic = "clinic elegant parrot trigger hub idle letter fox indicate tent faith where";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn identify topple simple soon shoe injury wisdom bar cotton figure hobby";
+var mnemonic = "ill holiday void behave bundle donor wash steel crunch member muffin combine";

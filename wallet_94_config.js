@@ -1,1 +1,1 @@
-var mnemonic = "box wide attend mouse soda hazard sport echo silk adult bacon trip";
+var mnemonic = "dinner stumble coconut outdoor upset aisle gesture ivory express scissors clock fix";

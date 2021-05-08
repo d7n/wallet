@@ -1,1 +1,1 @@
-var mnemonic = "book loan enforce person craft dial identify picture never during candy spike";
+var mnemonic = "tray basic oak genuine rather find scan benefit memory legal choose science";

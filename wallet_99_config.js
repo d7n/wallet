@@ -1,1 +1,1 @@
-var mnemonic = "begin venture slight lemon consider joy expect cram vivid galaxy oyster purchase";
+var mnemonic = "vacant original diamond kitten scale example minimum sugar question desert art denial";

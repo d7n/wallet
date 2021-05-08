@@ -1,1 +1,1 @@
-var mnemonic = "purpose surge raw shoulder require spot era grain inspire wrong grant blind";
+var mnemonic = "theory amateur mind burst slight ordinary harsh public regret aunt sand strategy";

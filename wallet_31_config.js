@@ -1,1 +1,1 @@
-var mnemonic = "call ancient rich sell ready atom oven popular grace pact learn patrol";
+var mnemonic = "skull pluck vocal sell dinosaur scare suspect monkey project oven radio hub";

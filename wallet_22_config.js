@@ -1,1 +1,1 @@
-var mnemonic = "harsh combine hollow bulk file pumpkin tissue goose summer sphere beef flash";
+var mnemonic = "core hospital exotic glue will machine capital fun cage edit enhance benefit";

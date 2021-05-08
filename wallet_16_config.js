@@ -1,1 +1,1 @@
-var mnemonic = "goose joke phrase salute royal pumpkin safe enable approve crater eagle ribbon";
+var mnemonic = "sniff erode slender jelly drill napkin change price vacuum tilt depth rubber";

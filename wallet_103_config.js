@@ -1,1 +1,1 @@
-var mnemonic = "legend guard illegal despair kid rural impose ripple mom cover attend become";
+var mnemonic = "solution dinner matter around convince sadness plug float obtain puzzle myself chest";

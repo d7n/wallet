@@ -1,1 +1,1 @@
-var mnemonic = "budget crystal world because shy catalog leaf trust fee shrug barely swarm";
+var mnemonic = "mother core point marble benefit spell candy finger sport scale shift choose";

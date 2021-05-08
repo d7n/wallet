@@ -1,1 +1,1 @@
-var mnemonic = "prepare bubble venture bean risk hamster body person pigeon police state month";
+var mnemonic = "stove sword fame zebra tomorrow pass snack risk mixed normal rhythm rigid";

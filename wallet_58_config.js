@@ -1,1 +1,1 @@
-var mnemonic = "puzzle monkey pulse work dizzy festival extra rose cost alarm main kidney";
+var mnemonic = "strong youth simple grid company depend federal will despair certain apart category";

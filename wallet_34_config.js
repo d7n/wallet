@@ -1,1 +1,1 @@
-var mnemonic = "believe swim suit dutch filter surprise join carry build proud parade couple";
+var mnemonic = "small puzzle siren bean lottery educate kangaroo bone radar correct oppose marble";

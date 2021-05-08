@@ -1,1 +1,1 @@
-var mnemonic = "nerve piano divert cruise scout wage wolf meadow witness wise dragon harsh";
+var mnemonic = "dragon together spawn more begin odor engage strategy inherit kind force planet";

@@ -1,1 +1,1 @@
-var mnemonic = "example exercise faint risk aisle sausage vapor flame wrist catch curtain silk";
+var mnemonic = "myself chimney sleep away useless physical alarm pistol polar flag skill truck";

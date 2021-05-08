@@ -1,1 +1,1 @@
-var mnemonic = "reflect catalog gauge guess govern math today debate follow news tennis column";
+var mnemonic = "zero fish two price copy option sorry deputy tackle corn they vote";

@@ -1,1 +1,1 @@
-var mnemonic = "apology public bone element security economy canyon journey salt pride truth current";
+var mnemonic = "bring draw all book song off silk royal gown wet ski bench";

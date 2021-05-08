@@ -1,1 +1,1 @@
-var mnemonic = "ivory tonight true parrot jacket tube success online age blood rural awful";
+var mnemonic = "happy reform veteran matrix affair clutch erosion attend gain peace violin inhale";

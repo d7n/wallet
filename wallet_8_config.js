@@ -1,1 +1,1 @@
-var mnemonic = "must reduce combine lend confirm trial solution drill damage tiny range sort";
+var mnemonic = "jeans charge allow unusual stand employ chest leave course hard original endorse";

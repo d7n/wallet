@@ -1,1 +1,1 @@
-var mnemonic = "grant clerk stick fire smile pizza concert educate key clown myself boost";
+var mnemonic = "gather misery whip bridge buffalo celery tilt sense amused boring horror venture";

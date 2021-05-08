@@ -1,1 +1,1 @@
-var mnemonic = "spawn march total piano invest strike wrestle surprise then pull category rice";
+var mnemonic = "harbor trouble slow trouble blush select approve minor hazard flat fiber ramp";

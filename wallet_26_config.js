@@ -1,1 +1,1 @@
-var mnemonic = "aspect client bring green canvas virtual famous disagree escape visit gift awkward";
+var mnemonic = "able traffic slot raven excess remember pluck become wine exact cute brown";

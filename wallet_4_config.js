@@ -1,1 +1,1 @@
-var mnemonic = "eternal duty guide drink domain torch excite fatal hurry rich major opera";
+var mnemonic = "gun manage market similar trap insect movie abuse clock later negative keen";

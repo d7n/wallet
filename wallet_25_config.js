@@ -1,1 +1,1 @@
-var mnemonic = "robust endorse utility chapter alarm syrup rude enroll sponsor banner deer squirrel";
+var mnemonic = "urban year lottery guide fragile comfort off gift critic arena cruel poem";

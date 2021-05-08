@@ -1,1 +1,1 @@
-var mnemonic = "soldier black vendor denial cram rotate glue walk pact quit stable dose";
+var mnemonic = "lobster lunch current wrestle sail intact connect place pledge hood donate tilt";

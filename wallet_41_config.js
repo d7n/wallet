@@ -1,1 +1,1 @@
-var mnemonic = "bike number drink reform unable secret gallery atom jeans cabin over review";
+var mnemonic = "hip surface armed symptom powder isolate miss copper giant shove rule flash";

@@ -1,1 +1,1 @@
-var mnemonic = "alley tiny other trumpet alone mango put dune fringe mom noise business";
+var mnemonic = "banner tumble jazz horse album violin apple behind mask naive health burden";

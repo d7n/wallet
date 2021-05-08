@@ -1,1 +1,1 @@
-var mnemonic = "labor spend shallow subway thank volcano autumn adapt success wealth snack insane";
+var mnemonic = "way ask slab hunt awake muffin payment obtain miss noise advance burger";

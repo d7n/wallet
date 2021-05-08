@@ -1,1 +1,1 @@
-var mnemonic = "person wait mandate desert seven foster illegal absorb traffic dolphin danger taste";
+var mnemonic = "change trap panel penalty pool report asset decorate general join issue border";

@@ -1,1 +1,1 @@
-var mnemonic = "bag dirt window market print arena elder slam father present horn material";
+var mnemonic = "fringe member noodle pig debris february calm stock cigar toy relief message";

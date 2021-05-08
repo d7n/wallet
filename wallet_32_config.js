@@ -1,1 +1,1 @@
-var mnemonic = "problem flip twin crunch embrace tragic usual axis refuse define push end";
+var mnemonic = "tiger route chuckle dice demand crouch apart bird affair gospel walk canyon";

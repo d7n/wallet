@@ -1,1 +1,1 @@
-var mnemonic = "broken kit parade mother carbon effort alter usage slim depend day oyster";
+var mnemonic = "ritual achieve harbor liquid syrup pretty logic library fix reason orient pluck";

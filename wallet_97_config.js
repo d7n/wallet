@@ -1,1 +1,1 @@
-var mnemonic = "version cattle sport close casino mountain cheese false long satisfy twice spy";
+var mnemonic = "erode during corn elephant middle twelve box action jar erode trend drill";

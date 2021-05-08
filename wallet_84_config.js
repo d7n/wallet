@@ -1,1 +1,1 @@
-var mnemonic = "setup candy fever canoe humor shift suspect amateur you six frame muscle";
+var mnemonic = "expose inmate crush repair cover acoustic shuffle stumble toilet elegant giggle foot";

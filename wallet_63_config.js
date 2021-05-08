@@ -1,1 +1,1 @@
-var mnemonic = "acid across moon fever initial pledge inside digital key now story wet";
+var mnemonic = "noise kid kidney choose chef point basket episode nuclear bus assume agent";

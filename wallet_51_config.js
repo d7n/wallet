@@ -1,1 +1,1 @@
-var mnemonic = "amount victory buffalo city often father case foil idle slush jungle hold";
+var mnemonic = "decide decline lounge autumn shop vanish random planet raven elephant nature artefact";

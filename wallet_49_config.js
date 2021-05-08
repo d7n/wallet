@@ -1,1 +1,1 @@
-var mnemonic = "chat borrow awesome figure sound flash forward light manual achieve cake beach";
+var mnemonic = "parade jump jacket receive chaos crew lunch divert royal scout clinic two";

@@ -1,1 +1,1 @@
-var mnemonic = "flag subject suspect copy dial quarter defy aisle venue quote turtle grid";
+var mnemonic = "worry jazz mind jelly layer bundle runway street marriage resource sponsor scout";

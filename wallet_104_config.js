@@ -1,1 +1,1 @@
-var mnemonic = "catch leg winner rely control coin riot horror mouse wool symbol legend";
+var mnemonic = "ring same actual angle what service gain car sadness deputy drill dolphin";

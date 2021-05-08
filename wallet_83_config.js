@@ -1,1 +1,1 @@
-var mnemonic = "until night enough cute try lend next uncle foil wood sniff elbow";
+var mnemonic = "core weasel gravity jump impact muscle cruel swing fit party castle alone";

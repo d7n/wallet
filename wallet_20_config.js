@@ -1,1 +1,1 @@
-var mnemonic = "crawl scissors reason symptom guilt cliff autumn window toilet couple battle toss";
+var mnemonic = "grape car job umbrella conduct midnight loop reason bullet wisdom stage utility";

@@ -1,1 +1,1 @@
-var mnemonic = "agree crime gasp stairs cost super add arm submit duty victory nice";
+var mnemonic = "harvest aisle only trash wonder accident also fork there video denial demise";

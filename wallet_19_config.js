@@ -1,1 +1,1 @@
-var mnemonic = "saddle crack session session rocket person parent frost reduce public hobby review";
+var mnemonic = "harsh update file reveal sentence hat west inquiry rapid garlic icon media";
