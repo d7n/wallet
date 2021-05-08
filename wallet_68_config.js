@@ -1,1 +1,1 @@
-var mnemonic = "shuffle praise mule income cross hard crouch island horn talk kit survey";
+var mnemonic = "denial palm head razor hub drink interest beauty gauge tumble avocado area";

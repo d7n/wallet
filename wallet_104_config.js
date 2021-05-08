@@ -1,1 +1,1 @@
-var mnemonic = "clay believe infant bike awake north now egg mail eternal fall flip";
+var mnemonic = "solar lamp release army inch range assist gold alley diamond obey note";

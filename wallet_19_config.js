@@ -1,1 +1,1 @@
-var mnemonic = "like combine kidney illegal awkward enable attitude elder step rival slam excite";
+var mnemonic = "antique green behind bird laugh craft eternal fence sorry vessel west ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "network angry eye cloud inform bottom inspire monkey relax idle develop total";
+var mnemonic = "dignity wheel panda action destroy left document brown apple advice primary sleep";

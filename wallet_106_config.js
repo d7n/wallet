@@ -1,1 +1,1 @@
-var mnemonic = "sausage business cattle corn brass people extra bunker box sing silver upgrade";
+var mnemonic = "nerve fine gain spatial future pill exhibit minute false pave course pumpkin";

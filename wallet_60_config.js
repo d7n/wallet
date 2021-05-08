@@ -1,1 +1,1 @@
-var mnemonic = "online blouse inner senior kingdom liar library meat into dad borrow talent";
+var mnemonic = "labor refuse easy divert oyster ordinary holiday surprise kit grid fury modify";

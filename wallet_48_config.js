@@ -1,1 +1,1 @@
-var mnemonic = "bridge add plate talent example occur cherry chef aisle excuse memory buyer";
+var mnemonic = "govern ensure civil antique fault round topple noise open palm impose label";

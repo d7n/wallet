@@ -1,1 +1,1 @@
-var mnemonic = "thing rifle elegant cycle chase shy rail call alarm cause inner nephew";
+var mnemonic = "appear wide auction menu cliff elephant trigger inner limb ghost burst bargain";

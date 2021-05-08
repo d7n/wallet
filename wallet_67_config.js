@@ -1,1 +1,1 @@
-var mnemonic = "learn betray romance moment unaware gate huge lonely reform man cabin network";
+var mnemonic = "hard funny pill letter hazard journey excess candy blast day polar choose";

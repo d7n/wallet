@@ -1,1 +1,1 @@
-var mnemonic = "prepare good put expire lab dinosaur purity learn demand civil argue art";
+var mnemonic = "foster master unusual canyon fruit already bulb miracle heart pill fiber win";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee sand river zero tent early asset swing juice helmet magnet rate";
+var mnemonic = "vast frame desk crawl wise quick casino flower advice tenant pilot wear";

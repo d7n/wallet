@@ -1,1 +1,1 @@
-var mnemonic = "chunk build dirt pigeon napkin matrix cheese afford cross come antique eagle";
+var mnemonic = "rule diamond bind boss wonder cheese glass valid foil cattle tumble square";

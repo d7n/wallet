@@ -1,1 +1,1 @@
-var mnemonic = "swim exercise gravity water proud grunt obscure height sample lyrics fatal room";
+var mnemonic = "sand room wash lift elbow panel split wheat innocent delay october proud";

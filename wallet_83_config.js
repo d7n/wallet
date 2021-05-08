@@ -1,1 +1,1 @@
-var mnemonic = "other conduct benefit entire member sad enforce embark coach box gospel almost";
+var mnemonic = "ozone manage dune black seek time main cool response twelve razor rice";

@@ -1,1 +1,1 @@
-var mnemonic = "tell remain peasant legal blossom connect observe bring accident flavor sick brave";
+var mnemonic = "left drum law cargo december bean random undo uncover fox index hub";

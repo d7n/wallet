@@ -1,1 +1,1 @@
-var mnemonic = "actress mask evolve alcohol float man swallow large robust afford clutch tissue";
+var mnemonic = "poverty reject wink rifle hole click edge wing axis smoke thing wear";

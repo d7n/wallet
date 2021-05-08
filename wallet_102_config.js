@@ -1,1 +1,1 @@
-var mnemonic = "tobacco zone spend twist answer injury call power one area there search";
+var mnemonic = "echo moment frog blast mixed robust room current horn holiday angle relief";

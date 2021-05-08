@@ -1,1 +1,1 @@
-var mnemonic = "afford output vault shine fall mountain tackle another shaft vast slam swarm";
+var mnemonic = "exact dice quality turkey prison embody rhythm window diamond airport photo time";

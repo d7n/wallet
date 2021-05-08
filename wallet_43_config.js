@@ -1,1 +1,1 @@
-var mnemonic = "toddler victory recipe elephant merry afford movie hospital unaware solar speak crystal";
+var mnemonic = "bounce machine december hip favorite victory return address alien enough govern trouble";

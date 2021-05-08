@@ -1,1 +1,1 @@
-var mnemonic = "ability thumb arena suspect hair garbage tomato fame park shield cost mean";
+var mnemonic = "canal spin future cause expand ice extra punch zero guard apart armed";

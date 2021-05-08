@@ -1,1 +1,1 @@
-var mnemonic = "behind shadow canoe found void leopard almost solar scissors cool garbage usual";
+var mnemonic = "prefer frog mean issue build pen hawk banner mix marine auction jeans";

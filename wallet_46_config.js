@@ -1,1 +1,1 @@
-var mnemonic = "unusual title sure elevator scout purse welcome food hybrid erase reveal base";
+var mnemonic = "matrix debate throw word swarm doll better mouse dinner monster glimpse pull";

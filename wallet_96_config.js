@@ -1,1 +1,1 @@
-var mnemonic = "embark always tone paper slim armed crush whip raccoon animal moment panel";
+var mnemonic = "daring crush tube powder diamond range fortune behave swift spend match miss";

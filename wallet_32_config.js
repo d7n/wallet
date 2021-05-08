@@ -1,1 +1,1 @@
-var mnemonic = "exchange butter excess wolf achieve slice govern damp fantasy topple liberty brand";
+var mnemonic = "laundry barrel mouse ridge valve wreck buddy outside copper satoshi rescue liar";

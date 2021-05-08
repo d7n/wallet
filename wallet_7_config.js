@@ -1,1 +1,1 @@
-var mnemonic = "detail upper team armor lava random mix shoe decline toy divert enter";
+var mnemonic = "predict wash pave key eagle piece sniff jeans people lamp gather soldier";

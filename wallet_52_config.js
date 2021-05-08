@@ -1,1 +1,1 @@
-var mnemonic = "observe photo palm book deer aspect boss follow inspire anger across suspect";
+var mnemonic = "behave card toss island jaguar decline column female dentist silk cliff clog";

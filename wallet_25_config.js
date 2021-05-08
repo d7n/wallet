@@ -1,1 +1,1 @@
-var mnemonic = "wear lawsuit final when wish atom film margin tortoise expire nurse diesel";
+var mnemonic = "sea catalog trial provide winner expose decide stuff amused click midnight foil";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur release decrease escape wisdom fragile stumble wrestle error elevator circle cake";
+var mnemonic = "million arrange topic captain west high clinic ceiling industry father jewel rookie";

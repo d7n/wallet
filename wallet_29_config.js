@@ -1,1 +1,1 @@
-var mnemonic = "edit era tunnel school mother mimic apology fix portion journey bullet blush";
+var mnemonic = "mistake bid ecology wrong faint upset wagon kidney mad net divide leader";

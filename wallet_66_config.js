@@ -1,1 +1,1 @@
-var mnemonic = "burst minute track ancient tissue other frost normal kiss coast special one";
+var mnemonic = "guess keen north disease also sea among fat reduce toddler clog van";

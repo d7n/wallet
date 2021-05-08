@@ -1,1 +1,1 @@
-var mnemonic = "sunny maple still lion student husband tent fork assault boss mother farm";
+var mnemonic = "tube sting flame typical useless service opinion device anchor novel until improve";

@@ -1,1 +1,1 @@
-var mnemonic = "famous error split cage rural inner suit edge clog strong onion purse";
+var mnemonic = "affair toss midnight lion knee ride duty divert more mask slim eyebrow";

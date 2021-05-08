@@ -1,1 +1,1 @@
-var mnemonic = "cool vocal type depth quit erode prefer daring start yard metal husband";
+var mnemonic = "clap velvet shock result birth diet monster cradle arctic vocal coral attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "odor fun claw weapon vessel stool claim borrow party ice among sorry";
+var mnemonic = "faith meat result tail mix scale toe midnight fat picnic anchor infant";

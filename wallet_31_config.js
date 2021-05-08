@@ -1,1 +1,1 @@
-var mnemonic = "human fat naive demand spring brother message have dumb will wedding ozone";
+var mnemonic = "impulse car soup food pulp scissors seminar sick weapon marriage amazing forward";

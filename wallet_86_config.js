@@ -1,1 +1,1 @@
-var mnemonic = "olive enter east crack typical live buyer word monster skull liberty anchor";
+var mnemonic = "chunk smart salmon fetch need cook pull absent drop area peasant control";

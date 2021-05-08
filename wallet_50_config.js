@@ -1,1 +1,1 @@
-var mnemonic = "lake phone sure nurse advance chef dignity practice unable sick palace clock";
+var mnemonic = "wet banner style test hidden bracket sorry wise dynamic potato silver twice";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle hub wage link venue nephew stick number detect fence panther fluid";
+var mnemonic = "success assume van rocket clean believe ten foot easy business own party";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn lazy toddler diagram potato author south lumber matrix pause captain jaguar";
+var mnemonic = "grief armed body crew must boat shuffle cattle junk divorce assault wood";

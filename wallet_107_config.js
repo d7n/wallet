@@ -1,1 +1,1 @@
-var mnemonic = "appear glove object light share panel math silly crisp sign prosper antique";
+var mnemonic = "oblige fence impact nice hurdle much oil cannon noble grid urban hidden";

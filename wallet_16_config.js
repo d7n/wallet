@@ -1,1 +1,1 @@
-var mnemonic = "grunt large donkey cover boring tobacco axis long venture impact armed involve";
+var mnemonic = "mirror merge glad move view prefer simple boring venue clog spoil stove";

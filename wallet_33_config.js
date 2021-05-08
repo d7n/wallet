@@ -1,1 +1,1 @@
-var mnemonic = "trend awake finger wise mind rely fabric humor drift cactus powder review";
+var mnemonic = "caution often misery differ spread hen era scan movie mass usage program";

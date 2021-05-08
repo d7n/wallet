@@ -1,1 +1,1 @@
-var mnemonic = "first quote surface advice lonely aware raw silly excuse cheap wait fly";
+var mnemonic = "piano what green slide crane illegal lizard quit foil during main give";

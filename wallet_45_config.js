@@ -1,1 +1,1 @@
-var mnemonic = "gesture stove vivid wall clinic barely witness forward film knee timber lesson";
+var mnemonic = "afford upset raise canoe patch verb vacuum fiscal rebuild angry cheese nuclear";

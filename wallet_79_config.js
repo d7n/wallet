@@ -1,1 +1,1 @@
-var mnemonic = "luxury man table peace awesome confirm alpha slow thrive pistol zero ticket";
+var mnemonic = "brother february legal hidden curtain alone lock fall scissors slender invest come";

@@ -1,1 +1,1 @@
-var mnemonic = "birth oak daughter boy start black blind damp ill only hamster cactus";
+var mnemonic = "tell bread sort cycle perfect credit spider melt runway coyote item clump";

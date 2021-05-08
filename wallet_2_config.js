@@ -1,1 +1,1 @@
-var mnemonic = "object oak sand lemon arctic toy royal result gauge grass repeat sad";
+var mnemonic = "fresh guide rapid shove truly arm unfold oak corn program wait toy";

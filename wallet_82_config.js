@@ -1,1 +1,1 @@
-var mnemonic = "art example crouch team quality hire occur symptom trick mechanic eagle float";
+var mnemonic = "key tortoise enlist olympic curtain atom silly deny teach room wheel comic";

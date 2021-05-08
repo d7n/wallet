@@ -1,1 +1,1 @@
-var mnemonic = "mass empower alter canoe cheap sudden shield west tortoise floor simple laundry";
+var mnemonic = "shy run logic eye require orchard retire wait black expose until detect";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal one father jelly volcano gate film sorry knock silk fever census";
+var mnemonic = "number crazy trust nest start select forget upset emerge ahead spirit icon";

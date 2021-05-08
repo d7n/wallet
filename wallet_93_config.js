@@ -1,1 +1,1 @@
-var mnemonic = "echo unfold kangaroo crisp sphere record type demand timber staff load empower";
+var mnemonic = "client kingdom food claim frequent problem olive vast open game soldier goose";

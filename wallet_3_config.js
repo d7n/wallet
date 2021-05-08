@@ -1,1 +1,1 @@
-var mnemonic = "divert cruel tortoise ritual frost travel snow surface under inmate satoshi name";
+var mnemonic = "athlete dignity hub patch office tribe mushroom crash inflict paper satisfy frequent";

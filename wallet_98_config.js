@@ -1,1 +1,1 @@
-var mnemonic = "toilet flee verify various soul club ghost obvious auto poet voyage diary";
+var mnemonic = "side vocal voyage anxiety leopard wise crazy step grief slide weather food";

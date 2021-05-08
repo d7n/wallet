@@ -1,1 +1,1 @@
-var mnemonic = "hub curious vintage arctic leader radio observe fence faint expand away total";
+var mnemonic = "input moon science this diagram fold name dumb denial parrot approve clinic";

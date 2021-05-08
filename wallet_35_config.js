@@ -1,1 +1,1 @@
-var mnemonic = "remember sock vast humble dizzy miss rude crucial talk news toe chat";
+var mnemonic = "wife chalk wreck drop system salon matrix escape also proud number someone";

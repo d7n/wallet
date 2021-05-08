@@ -1,1 +1,1 @@
-var mnemonic = "media bamboo hub stock pattern budget silver mesh human over cheap decade";
+var mnemonic = "hawk cheap during share couple tent kind sunset warrior town core symptom";

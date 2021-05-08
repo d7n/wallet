@@ -1,1 +1,1 @@
-var mnemonic = "quiz extend dismiss dust great favorite crew brass pill ahead mind dog";
+var mnemonic = "okay limit seed solution piece wish spread neither shiver offer try fence";

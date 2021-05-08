@@ -1,1 +1,1 @@
-var mnemonic = "cousin window extra paddle wagon swamp already hurdle donkey visit start patrol";
+var mnemonic = "ripple cricket coffee cruel art prevent shine diagram ocean field tissue voice";

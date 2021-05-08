@@ -1,1 +1,1 @@
-var mnemonic = "orient brush option senior general health edge mimic evidence property again ritual";
+var mnemonic = "side roof misery sound bright team cause penalty live radio cargo faculty";

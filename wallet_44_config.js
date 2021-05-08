@@ -1,1 +1,1 @@
-var mnemonic = "head atom amazing bar awkward scorpion glove aisle assault shed solar eyebrow";
+var mnemonic = "great salon arrange paper alert warm real depend wrestle breeze rookie before";

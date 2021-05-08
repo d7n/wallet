@@ -1,1 +1,1 @@
-var mnemonic = "dose blanket evidence hero all purpose nothing copy stairs act private denial";
+var mnemonic = "fuel any erase guess forum buyer oxygen large trim gain save clerk";

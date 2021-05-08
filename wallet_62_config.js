@@ -1,1 +1,1 @@
-var mnemonic = "box door grit cousin omit tag enforce bachelor present disagree birth drum";
+var mnemonic = "course among scene tenant deposit strategy truly craft chunk receive paddle ahead";

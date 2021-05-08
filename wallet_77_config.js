@@ -1,1 +1,1 @@
-var mnemonic = "leisure antenna quit budget tape expose duty long era amused derive main";
+var mnemonic = "blossom dose garage risk idle current school equip scrub aim eagle circle";

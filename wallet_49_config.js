@@ -1,1 +1,1 @@
-var mnemonic = "velvet rigid circle month tribe play disagree settle price cluster squirrel loop";
+var mnemonic = "make slim feed month enroll fall thrive draw story grape execute weapon";

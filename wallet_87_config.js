@@ -1,1 +1,1 @@
-var mnemonic = "law mountain candy immune quantum hidden quit friend then mimic clip icon";
+var mnemonic = "admit poem bottom youth toward shrug cycle olympic approve valve smile group";

@@ -1,1 +1,1 @@
-var mnemonic = "apple hen minute seminar hungry slush caught educate roof jewel allow bike";
+var mnemonic = "ceiling slender alcohol virtual fossil board cable term calm vague scrub supreme";

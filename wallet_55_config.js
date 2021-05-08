@@ -1,1 +1,1 @@
-var mnemonic = "glance coil hundred cram that flame badge humor claim rain next end";
+var mnemonic = "mercy dune fit envelope elephant cousin squirrel rigid dwarf adjust high satoshi";

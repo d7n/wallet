@@ -1,1 +1,1 @@
-var mnemonic = "tray drift attitude spare large card retreat all shuffle dice agree system";
+var mnemonic = "trick raw piano pottery burger purchase decide copper cotton call seat absorb";

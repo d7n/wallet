@@ -1,1 +1,1 @@
-var mnemonic = "theme brown grunt final surface knife release source noble mimic educate dish";
+var mnemonic = "invest valve toe clog clutch lava because certain fork shoot together enhance";

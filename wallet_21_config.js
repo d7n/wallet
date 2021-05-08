@@ -1,1 +1,1 @@
-var mnemonic = "canoe height globe funny across tackle fault damage sun decide renew change";
+var mnemonic = "nature exile hungry sand wire roast teach ecology tiger elegant act chicken";

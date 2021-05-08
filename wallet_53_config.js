@@ -1,1 +1,1 @@
-var mnemonic = "unaware noise deer indicate spare soft foot fortune polar gospel maple claw";
+var mnemonic = "paper season thumb cable husband toe best regret crazy deny promote immense";

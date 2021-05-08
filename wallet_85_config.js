@@ -1,1 +1,1 @@
-var mnemonic = "thought heart found inquiry habit negative cereal cart visa office tunnel east";
+var mnemonic = "car short control bracket hazard trash power verify rapid key unlock salt";

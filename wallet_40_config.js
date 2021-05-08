@@ -1,1 +1,1 @@
-var mnemonic = "junk hedgehog spend check glare pet oblige raise right autumn shoot buffalo";
+var mnemonic = "reduce quiz hedgehog inside rough raven cabin trophy organ swamp club slam";

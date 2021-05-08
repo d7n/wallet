@@ -1,1 +1,1 @@
-var mnemonic = "index flock various empower evolve power nerve derive gain fresh abandon soon";
+var mnemonic = "assault bundle transfer repeat same moment consider duty trap first mom dry";

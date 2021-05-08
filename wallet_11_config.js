@@ -1,1 +1,1 @@
-var mnemonic = "case clump brother harsh convince tumble ghost genre agree upon usage correct";
+var mnemonic = "rely unit addict bronze calm room bar kiss panda charge coach rebel";

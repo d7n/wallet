@@ -1,1 +1,1 @@
-var mnemonic = "holiday stage trouble resist nerve illegal seat envelope rotate insect antenna bird";
+var mnemonic = "raw giraffe skin sting board galaxy furnace van become under napkin coin";

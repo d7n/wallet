@@ -1,1 +1,1 @@
-var mnemonic = "service embark long flower wait only risk merge dune upon car village";
+var mnemonic = "receive toe naive trap grief bread mystery faith ranch goose chalk nut";

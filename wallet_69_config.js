@@ -1,1 +1,1 @@
-var mnemonic = "order sentence scout attract direct invite crunch unveil spray expire sauce rose";
+var mnemonic = "since wet spice tilt club awful critic hat urban catalog kitchen twin";

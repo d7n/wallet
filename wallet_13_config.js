@@ -1,1 +1,1 @@
-var mnemonic = "angle drink bread foot taste style normal original assault stomach satisfy run";
+var mnemonic = "observe siege gun ugly project simple regular boat prepare nasty shine shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "topple elbow summer nominee test chimney moral dash little erode toward copper";
+var mnemonic = "conduct aim color will identify motor mosquito heart peanut believe arm stage";

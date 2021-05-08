@@ -1,1 +1,1 @@
-var mnemonic = "gift patient clay sing slush deny vote treat moral wing grain kingdom";
+var mnemonic = "spider increase panic hungry spider tent right monster pigeon crunch ignore crazy";

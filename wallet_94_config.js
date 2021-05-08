@@ -1,1 +1,1 @@
-var mnemonic = "matrix outer during waste hard hello bar labor sausage robot erase where";
+var mnemonic = "envelope calm tank grape scene verify gravity denial defense mammal table post";

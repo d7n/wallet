@@ -1,1 +1,1 @@
-var mnemonic = "network lift slight evolve animal remember craft smart employ obtain arrow stool";
+var mnemonic = "select biology action earn husband early spoon review build horse name cry";

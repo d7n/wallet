@@ -1,1 +1,1 @@
-var mnemonic = "section hero cliff wood busy cousin tray unveil smart remain bone polar";
+var mnemonic = "double clinic aim denial nasty hedgehog armor mountain arrest six you cousin";

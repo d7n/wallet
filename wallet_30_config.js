@@ -1,1 +1,1 @@
-var mnemonic = "reject govern detail spring ignore embrace oyster apology prepare jacket knee clock";
+var mnemonic = "allow cart foot skill gate harsh lake duty unusual picture grass tennis";

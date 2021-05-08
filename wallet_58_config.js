@@ -1,1 +1,1 @@
-var mnemonic = "clock lonely move review quiz online decade drop coil abstract peace rose";
+var mnemonic = "song ridge explain analyst brick ice alarm moral magic bargain lesson van";

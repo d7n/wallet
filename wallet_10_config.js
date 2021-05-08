@@ -1,1 +1,1 @@
-var mnemonic = "tool ball canoe diary garbage remind vast daughter globe organ shield piece";
+var mnemonic = "pioneer hawk salmon mountain wear symbol deer source prize salmon cable surge";

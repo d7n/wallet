@@ -1,1 +1,1 @@
-var mnemonic = "jewel impulse toss among area cage treat grow bench notice proud decide";
+var mnemonic = "tail sauce gallery film horn army divide found enrich clump inmate essence";

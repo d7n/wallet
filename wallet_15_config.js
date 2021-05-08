@@ -1,1 +1,1 @@
-var mnemonic = "glare filter father lobster unlock awkward fix unknown good regular tank leg";
+var mnemonic = "empty infant avocado curtain busy brand panther awake sell nation glass wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "lion exercise jeans cream bargain utility hundred panel intact spin suspect half";
+var mnemonic = "smile effort point exhaust usual barrel resist certain sand upset abuse dumb";

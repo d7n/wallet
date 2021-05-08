@@ -1,1 +1,1 @@
-var mnemonic = "federal message board bacon pulse country include enemy giggle coconut first inform";
+var mnemonic = "world ghost usage margin bird client wash apology behave mushroom vacuum hawk";

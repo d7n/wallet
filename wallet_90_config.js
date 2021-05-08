@@ -1,1 +1,1 @@
-var mnemonic = "pear outer beauty ensure explain notable north inner tape wide usage lawsuit";
+var mnemonic = "ordinary basket garment guilt candy term baby govern sight blame exotic enact";

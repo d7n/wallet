@@ -1,1 +1,1 @@
-var mnemonic = "wash unlock certain index brush sting tooth rescue chef throw lizard sauce";
+var mnemonic = "erode lamp salmon energy derive couch umbrella swallow flavor fix mandate bachelor";

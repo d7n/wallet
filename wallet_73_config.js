@@ -1,1 +1,1 @@
-var mnemonic = "timber rice barrel borrow whale size silent vote split solve coffee diary";
+var mnemonic = "turn unusual bright blind raccoon stuff cloth use notice piano process peasant";

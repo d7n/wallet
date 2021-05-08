@@ -1,1 +1,1 @@
-var mnemonic = "umbrella toilet cheap deputy identify require dirt consider person warrior bike surge";
+var mnemonic = "square shuffle extra embark shoot unable muscle hawk fossil crush rug fault";

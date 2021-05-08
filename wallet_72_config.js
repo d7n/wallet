@@ -1,1 +1,1 @@
-var mnemonic = "category inform clinic sight patient great pottery escape spice six feel ketchup";
+var mnemonic = "cat few logic result drama taxi alarm casual prison recipe bunker want";
