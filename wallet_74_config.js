@@ -1,1 +1,1 @@
-var mnemonic = "animal night concert obscure reject rapid essence napkin resist laugh urge taxi";
+var mnemonic = "install ridge shell general kangaroo demand cattle tonight outer carpet pudding axis";

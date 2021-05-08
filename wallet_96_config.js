@@ -1,1 +1,1 @@
-var mnemonic = "want fish series super spatial length figure plug cancel track inner carpet";
+var mnemonic = "embark always tone paper slim armed crush whip raccoon animal moment panel";

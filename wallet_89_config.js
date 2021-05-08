@@ -1,1 +1,1 @@
-var mnemonic = "tree extend ticket parent sheriff trim feel waste hybrid rose crawl treat";
+var mnemonic = "service embark long flower wait only risk merge dune upon car village";

@@ -1,1 +1,1 @@
-var mnemonic = "code layer torch pioneer loud scene coconut lizard gesture salute six logic";
+var mnemonic = "chunk build dirt pigeon napkin matrix cheese afford cross come antique eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "door clean rabbit equip play shy clog teach apple turtle season ship";
+var mnemonic = "uphold tunnel better point document ability visa able expire under husband naive";

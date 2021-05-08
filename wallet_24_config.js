@@ -1,1 +1,1 @@
-var mnemonic = "pet pear emerge client isolate sibling coast aerobic soccer slender coast gown";
+var mnemonic = "awesome monitor bronze panic invest child file bless process rely frozen notice";

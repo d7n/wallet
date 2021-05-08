@@ -1,1 +1,1 @@
-var mnemonic = "loud label undo notable helmet tilt crucial edge expose edit climb tape";
+var mnemonic = "like combine kidney illegal awkward enable attitude elder step rival slam excite";

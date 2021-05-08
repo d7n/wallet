@@ -1,1 +1,1 @@
-var mnemonic = "roast either fluid potato shrimp armor okay route view siren impulse tilt";
+var mnemonic = "orient brush option senior general health edge mimic evidence property again ritual";

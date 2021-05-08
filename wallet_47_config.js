@@ -1,1 +1,1 @@
-var mnemonic = "under because danger expose outdoor myself undo course drill pave galaxy pig";
+var mnemonic = "cousin window extra paddle wagon swamp already hurdle donkey visit start patrol";

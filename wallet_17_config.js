@@ -1,1 +1,1 @@
-var mnemonic = "gaze wheel seek when barrel turn beef envelope stick tower prison crisp";
+var mnemonic = "village agent bread bundle disagree pet agent card erosion seek despair excess";

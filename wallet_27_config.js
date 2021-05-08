@@ -1,1 +1,1 @@
-var mnemonic = "machine fan until cute alter draw end poverty desert rich autumn puzzle";
+var mnemonic = "tortoise virtual monitor wagon mirror oak shaft lounge occur dizzy normal bridge";

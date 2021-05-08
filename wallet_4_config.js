@@ -1,1 +1,1 @@
-var mnemonic = "trophy improve length second voice across toast orchard law infant science sniff";
+var mnemonic = "mass empower alter canoe cheap sudden shield west tortoise floor simple laundry";

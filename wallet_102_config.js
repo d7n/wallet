@@ -1,1 +1,1 @@
-var mnemonic = "canoe rigid child bullet clock color crunch cabbage reward short intact special";
+var mnemonic = "tobacco zone spend twist answer injury call power one area there search";

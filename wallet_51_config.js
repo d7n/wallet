@@ -1,1 +1,1 @@
-var mnemonic = "radar solar left vapor bottom inflict lake leisure fold remain wool type";
+var mnemonic = "sure gadget cash rural under sponsor unknown endless impact own case auction";

@@ -1,1 +1,1 @@
-var mnemonic = "will require join term faith pioneer slab arch cement until obey exist";
+var mnemonic = "canoe height globe funny across tackle fault damage sun decide renew change";

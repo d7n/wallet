@@ -1,1 +1,1 @@
-var mnemonic = "exist glance canal enrich manage acid illegal stumble drill town immense ivory";
+var mnemonic = "toddler victory recipe elephant merry afford movie hospital unaware solar speak crystal";

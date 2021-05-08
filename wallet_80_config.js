@@ -1,1 +1,1 @@
-var mnemonic = "slim hand mass entire alcohol design crystal ozone planet warfare scatter scan";
+var mnemonic = "dinosaur release decrease escape wisdom fragile stumble wrestle error elevator circle cake";

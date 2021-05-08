@@ -1,1 +1,1 @@
-var mnemonic = "slab bacon maid pudding lab leader load stool iron region around sheriff";
+var mnemonic = "jewel impulse toss among area cage treat grow bench notice proud decide";

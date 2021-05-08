@@ -1,1 +1,1 @@
-var mnemonic = "fuel title luxury north crystal sting device suffer vapor chair seat direct";
+var mnemonic = "order sentence scout attract direct invite crunch unveil spray expire sauce rose";

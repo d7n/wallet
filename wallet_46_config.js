@@ -1,1 +1,1 @@
-var mnemonic = "skate vicious explain risk glance elegant sell agent input polar all surprise";
+var mnemonic = "unusual title sure elevator scout purse welcome food hybrid erase reveal base";

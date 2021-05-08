@@ -1,1 +1,1 @@
-var mnemonic = "noble raise tattoo scout glance seminar omit ethics candy health slide simple";
+var mnemonic = "thing rifle elegant cycle chase shy rail call alarm cause inner nephew";

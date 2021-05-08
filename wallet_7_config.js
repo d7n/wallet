@@ -1,1 +1,1 @@
-var mnemonic = "tuna bulk absorb dumb trust forget produce human wash fire rival acquire";
+var mnemonic = "detail upper team armor lava random mix shoe decline toy divert enter";

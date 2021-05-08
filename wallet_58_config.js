@@ -1,1 +1,1 @@
-var mnemonic = "increase today impact feature run access picture install stone express smoke churn";
+var mnemonic = "clock lonely move review quiz online decade drop coil abstract peace rose";

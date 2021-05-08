@@ -1,1 +1,1 @@
-var mnemonic = "roof predict infant ugly output job angry group print margin banner violin";
+var mnemonic = "burst minute track ancient tissue other frost normal kiss coast special one";

@@ -1,1 +1,1 @@
-var mnemonic = "turn sphere teach wall chaos cube frozen east private script defense paper";
+var mnemonic = "network lift slight evolve animal remember craft smart employ obtain arrow stool";

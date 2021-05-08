@@ -1,1 +1,1 @@
-var mnemonic = "hour shoe inherit soon claw episode injury teach bridge sign put gossip";
+var mnemonic = "famous error split cage rural inner suit edge clog strong onion purse";

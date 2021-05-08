@@ -1,1 +1,1 @@
-var mnemonic = "outer thunder ceiling split orphan museum silk cheese churn leg luggage mercy";
+var mnemonic = "velvet rigid circle month tribe play disagree settle price cluster squirrel loop";

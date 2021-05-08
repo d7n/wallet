@@ -1,1 +1,1 @@
-var mnemonic = "hint spot banner leisure brown ice tool endorse girl lesson deposit critic";
+var mnemonic = "holiday stage trouble resist nerve illegal seat envelope rotate insect antenna bird";

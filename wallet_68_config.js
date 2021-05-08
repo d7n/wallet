@@ -1,1 +1,1 @@
-var mnemonic = "agent brass valley retire clip blood kitchen renew address odor coffee amount";
+var mnemonic = "shuffle praise mule income cross hard crouch island horn talk kit survey";

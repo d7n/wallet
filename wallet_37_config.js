@@ -1,1 +1,1 @@
-var mnemonic = "tuition multiply minute trophy property defense lawsuit device either release chase digital";
+var mnemonic = "ankle hub wage link venue nephew stick number detect fence panther fluid";

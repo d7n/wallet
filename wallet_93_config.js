@@ -1,1 +1,1 @@
-var mnemonic = "toward used method disease faculty endless sting squeeze palm monkey wise release";
+var mnemonic = "echo unfold kangaroo crisp sphere record type demand timber staff load empower";

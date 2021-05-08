@@ -1,1 +1,1 @@
-var mnemonic = "bonus lonely tuna legal predict quarter million already december copper select risk";
+var mnemonic = "matrix outer during waste hard hello bar labor sausage robot erase where";

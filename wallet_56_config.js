@@ -1,1 +1,1 @@
-var mnemonic = "push stomach high width sister slush reform drink around company flame sleep";
+var mnemonic = "index flock various empower evolve power nerve derive gain fresh abandon soon";

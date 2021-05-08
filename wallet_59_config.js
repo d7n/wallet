@@ -1,1 +1,1 @@
-var mnemonic = "enough split ride whip heart weapon elevator sort squeeze wheel visual wisdom";
+var mnemonic = "first quote surface advice lonely aware raw silly excuse cheap wait fly";

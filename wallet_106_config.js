@@ -1,1 +1,1 @@
-var mnemonic = "celery gasp library fossil wheat machine boring fine waste shoulder alley resource";
+var mnemonic = "sausage business cattle corn brass people extra bunker box sing silver upgrade";

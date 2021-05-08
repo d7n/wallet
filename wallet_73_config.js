@@ -1,1 +1,1 @@
-var mnemonic = "burger juice radio lazy mother balance diamond judge possible calm produce spice";
+var mnemonic = "timber rice barrel borrow whale size silent vote split solve coffee diary";

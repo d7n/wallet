@@ -1,1 +1,1 @@
-var mnemonic = "nothing razor abandon paddle flight portion image minute harbor spoil sand hurt";
+var mnemonic = "birth oak daughter boy start black blind damp ill only hamster cactus";

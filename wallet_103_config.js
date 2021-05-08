@@ -1,1 +1,1 @@
-var mnemonic = "woman winter forget vibrant possible bundle never match enact economy industry video";
+var mnemonic = "quiz extend dismiss dust great favorite crew brass pill ahead mind dog";

@@ -1,1 +1,1 @@
-var mnemonic = "clean hill question oblige wear insect right sound glide vacant program among";
+var mnemonic = "bridge add plate talent example occur cherry chef aisle excuse memory buyer";

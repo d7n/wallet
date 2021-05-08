@@ -1,1 +1,1 @@
-var mnemonic = "uncover pause remember attack pipe chaos guide exclude ocean december squirrel tape";
+var mnemonic = "find quality term actress kite ready capital negative banner exist vocal cool";

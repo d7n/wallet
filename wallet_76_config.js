@@ -1,1 +1,1 @@
-var mnemonic = "inhale debate property bring main acoustic ritual drip safe expire coast response";
+var mnemonic = "wash unlock certain index brush sting tooth rescue chef throw lizard sauce";

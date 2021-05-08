@@ -1,1 +1,1 @@
-var mnemonic = "december absurd surround mind grant jungle stereo boil measure collect horror album";
+var mnemonic = "swim exercise gravity water proud grunt obscure height sample lyrics fatal room";

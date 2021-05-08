@@ -1,1 +1,1 @@
-var mnemonic = "provide vote disagree nerve vanish trap remove program nasty diagram run group";
+var mnemonic = "observe photo palm book deer aspect boss follow inspire anger across suspect";

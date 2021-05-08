@@ -1,1 +1,1 @@
-var mnemonic = "drop two gossip arrest clever taste bind fog identify regret dinner gospel";
+var mnemonic = "burden abstract danger army eternal ticket wrestle gold together afraid puzzle gym";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster tiger oblige assist supreme right save left they glue valley arrest";
+var mnemonic = "tool ball canoe diary garbage remind vast daughter globe organ shield piece";

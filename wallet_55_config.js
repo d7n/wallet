@@ -1,1 +1,1 @@
-var mnemonic = "horror canyon adjust carbon crane school struggle side ranch head reason found";
+var mnemonic = "glance coil hundred cram that flame badge humor claim rain next end";

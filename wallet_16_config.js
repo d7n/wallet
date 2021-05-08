@@ -1,1 +1,1 @@
-var mnemonic = "ahead type priority draft easily box crisp lecture kind auction van trend";
+var mnemonic = "grunt large donkey cover boring tobacco axis long venture impact armed involve";

@@ -1,1 +1,1 @@
-var mnemonic = "milk always ramp net wood during pumpkin royal valve animal gauge brass";
+var mnemonic = "thought heart found inquiry habit negative cereal cart visa office tunnel east";

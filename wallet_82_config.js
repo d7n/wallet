@@ -1,1 +1,1 @@
-var mnemonic = "hat expand night slot oil boy test rebuild update jungle mirror peanut";
+var mnemonic = "art example crouch team quality hire occur symptom trick mechanic eagle float";

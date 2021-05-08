@@ -1,1 +1,1 @@
-var mnemonic = "derive butter same camp fine evoke milk tiger lens garlic carry boat";
+var mnemonic = "tray drift attitude spare large card retreat all shuffle dice agree system";

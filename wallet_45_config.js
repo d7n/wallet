@@ -1,1 +1,1 @@
-var mnemonic = "attitude resemble aware demand lunch funny quit token kite useful bracket harsh";
+var mnemonic = "gesture stove vivid wall clinic barely witness forward film knee timber lesson";

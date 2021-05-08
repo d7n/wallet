@@ -1,1 +1,1 @@
-var mnemonic = "adapt surround seven order earth manual rubber tomato stadium crucial mixture sing";
+var mnemonic = "angle drink bread foot taste style normal original assault stomach satisfy run";

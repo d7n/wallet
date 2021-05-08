@@ -1,1 +1,1 @@
-var mnemonic = "east coral spike unknown cram river session exercise actress move tornado butter";
+var mnemonic = "prepare good put expire lab dinosaur purity learn demand civil argue art";

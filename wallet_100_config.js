@@ -1,1 +1,1 @@
-var mnemonic = "interest panda whale bulb fade bright style purse street quote obvious obscure";
+var mnemonic = "network angry eye cloud inform bottom inspire monkey relax idle develop total";

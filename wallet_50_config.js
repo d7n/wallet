@@ -1,1 +1,1 @@
-var mnemonic = "lucky kick orchard chaos cube plug organ gap prepare flush lift parade";
+var mnemonic = "lake phone sure nurse advance chef dignity practice unable sick palace clock";

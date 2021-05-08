@@ -1,1 +1,1 @@
-var mnemonic = "enforce blossom sadness thank grocery remove limb street observe rose pipe slush";
+var mnemonic = "object oak sand lemon arctic toy royal result gauge grass repeat sad";

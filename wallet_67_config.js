@@ -1,1 +1,1 @@
-var mnemonic = "relief curious clutch process right budget caught impulse waste gospel surprise lens";
+var mnemonic = "learn betray romance moment unaware gate huge lonely reform man cabin network";

@@ -1,1 +1,1 @@
-var mnemonic = "state attend tiger suffer weapon cousin deal green aunt envelope salon double";
+var mnemonic = "ability thumb arena suspect hair garbage tomato fame park shield cost mean";

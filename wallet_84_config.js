@@ -1,1 +1,1 @@
-var mnemonic = "object spider talent original holiday imitate very grab credit duty coin impulse";
+var mnemonic = "roof borrow cradle outside tent balcony bachelor tube eagle mean dizzy float";

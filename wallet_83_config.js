@@ -1,1 +1,1 @@
-var mnemonic = "siege trial beef right snap push parade neither number tent air general";
+var mnemonic = "other conduct benefit entire member sad enforce embark coach box gospel almost";

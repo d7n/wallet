@@ -1,1 +1,1 @@
-var mnemonic = "quarter grape region crush seek payment poverty tilt cloud castle left help";
+var mnemonic = "afford output vault shine fall mountain tackle another shaft vast slam swarm";

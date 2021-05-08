@@ -1,1 +1,1 @@
-var mnemonic = "drip attract during rebuild result crack supply north snack clap north height";
+var mnemonic = "apple hen minute seminar hungry slush caught educate roof jewel allow bike";

@@ -1,1 +1,1 @@
-var mnemonic = "decline board obey inside virtual pattern question rib grid critic talent outside";
+var mnemonic = "pear outer beauty ensure explain notable north inner tape wide usage lawsuit";

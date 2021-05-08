@@ -1,1 +1,1 @@
-var mnemonic = "lounge glass amused jewel depth analyst front crush hospital solve soul can";
+var mnemonic = "media bamboo hub stock pattern budget silver mesh human over cheap decade";

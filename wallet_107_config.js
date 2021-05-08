@@ -1,1 +1,1 @@
-var mnemonic = "priority degree wing boring tired treat snack soft reflect rack life enable";
+var mnemonic = "appear glove object light share panel math silly crisp sign prosper antique";

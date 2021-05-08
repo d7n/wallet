@@ -1,1 +1,1 @@
-var mnemonic = "apple else puppy cute sudden leg front divorce eight silk increase glare";
+var mnemonic = "actress mask evolve alcohol float man swallow large robust afford clutch tissue";

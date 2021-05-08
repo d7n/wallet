@@ -1,1 +1,1 @@
-var mnemonic = "mistake boring orbit evoke metal monster pitch original aunt woman castle ladder";
+var mnemonic = "unaware noise deer indicate spare soft foot fortune polar gospel maple claw";

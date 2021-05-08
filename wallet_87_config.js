@@ -1,1 +1,1 @@
-var mnemonic = "shy next salt idea quit lens pride festival busy mandate farm visual";
+var mnemonic = "law mountain candy immune quantum hidden quit friend then mimic clip icon";

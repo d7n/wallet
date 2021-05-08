@@ -1,1 +1,1 @@
-var mnemonic = "exercise focus plastic jungle category velvet wish detect car today sock nature";
+var mnemonic = "cool vocal type depth quit erode prefer daring start yard metal husband";

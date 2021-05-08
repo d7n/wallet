@@ -1,1 +1,1 @@
-var mnemonic = "plug solar honey inform select meat allow style summer true subway vessel";
+var mnemonic = "box door grit cousin omit tag enforce bachelor present disagree birth drum";

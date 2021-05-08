@@ -1,1 +1,1 @@
-var mnemonic = "rate modify eagle door ill almost food retire lounge infant century toward";
+var mnemonic = "theme brown grunt final surface knife release source noble mimic educate dish";

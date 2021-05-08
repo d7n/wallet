@@ -1,1 +1,1 @@
-var mnemonic = "bread report wool problem extend marriage bitter normal letter expire fame action";
+var mnemonic = "section hero cliff wood busy cousin tray unveil smart remain bone polar";

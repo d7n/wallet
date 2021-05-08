@@ -1,1 +1,1 @@
-var mnemonic = "sort top check hockey try student flush author surprise choice bind feel";
+var mnemonic = "maximum orange ethics limit husband risk satisfy donor emerge fuel eight dragon";

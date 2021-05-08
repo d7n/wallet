@@ -1,1 +1,1 @@
-var mnemonic = "era trend three athlete barrel canoe patrol orbit tumble cruise dutch more";
+var mnemonic = "case clump brother harsh convince tumble ghost genre agree upon usage correct";

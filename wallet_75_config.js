@@ -1,1 +1,1 @@
-var mnemonic = "project okay silent library parrot famous shove shield hybrid rail visual wet";
+var mnemonic = "blanket spice ripple stove mind arctic brick quality student chunk attend empower";

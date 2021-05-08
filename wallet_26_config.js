@@ -1,1 +1,1 @@
-var mnemonic = "deputy gentle swarm discover kitchen basket lava fish doctor wide midnight group";
+var mnemonic = "tell remain peasant legal blossom connect observe bring accident flavor sick brave";

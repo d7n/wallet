@@ -1,1 +1,1 @@
-var mnemonic = "affair tray bunker move buzz noise together pond wave payment admit ticket";
+var mnemonic = "leisure antenna quit budget tape expose duty long era amused derive main";

@@ -1,1 +1,1 @@
-var mnemonic = "blast library floor laugh castle alone increase surge ball what hip immune";
+var mnemonic = "umbrella toilet cheap deputy identify require dirt consider person warrior bike surge";

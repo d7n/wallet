@@ -1,1 +1,1 @@
-var mnemonic = "image enemy walnut face year forum ranch jump kite brave sibling crumble";
+var mnemonic = "remember sock vast humble dizzy miss rude crucial talk news toe chat";

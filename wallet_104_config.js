@@ -1,1 +1,1 @@
-var mnemonic = "boss arm chief render hundred guard knee depart sting crack category giraffe";
+var mnemonic = "clay believe infant bike awake north now egg mail eternal fall flip";

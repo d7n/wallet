@@ -1,1 +1,1 @@
-var mnemonic = "bench stem identify panda cushion coin health depart skill defy addict attack";
+var mnemonic = "trend awake finger wise mind rely fabric humor drift cactus powder review";

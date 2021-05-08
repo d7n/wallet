@@ -1,1 +1,1 @@
-var mnemonic = "deny month reduce old dry force head mountain mask ride whisper festival";
+var mnemonic = "reject govern detail spring ignore embrace oyster apology prepare jacket knee clock";

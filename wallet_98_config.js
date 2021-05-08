@@ -1,1 +1,1 @@
-var mnemonic = "child own spare page file ugly moral thought rule sick market festival";
+var mnemonic = "toilet flee verify various soul club ghost obvious auto poet voyage diary";

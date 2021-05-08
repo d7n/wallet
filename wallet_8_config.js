@@ -1,1 +1,1 @@
-var mnemonic = "shield office concert endorse achieve faculty fat world salad cry juice spike";
+var mnemonic = "behind shadow canoe found void leopard almost solar scissors cool garbage usual";

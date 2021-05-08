@@ -1,1 +1,1 @@
-var mnemonic = "dragon ketchup sing aerobic friend sand occur toilet job produce deputy bracket";
+var mnemonic = "gift patient clay sing slush deny vote treat moral wing grain kingdom";

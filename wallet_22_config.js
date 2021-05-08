@@ -1,1 +1,1 @@
-var mnemonic = "extra excite crouch seminar sing false slush memory pledge deliver document inspire";
+var mnemonic = "dawn lazy toddler diagram potato author south lumber matrix pause captain jaguar";

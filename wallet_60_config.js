@@ -1,1 +1,1 @@
-var mnemonic = "raccoon worry prosper comic pill early acquire pact spice animal scrub rocket";
+var mnemonic = "online blouse inner senior kingdom liar library meat into dad borrow talent";

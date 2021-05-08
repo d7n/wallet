@@ -1,1 +1,1 @@
-var mnemonic = "club elevator brief ritual allow symbol about shield airport shadow cushion document";
+var mnemonic = "topple elbow summer nominee test chimney moral dash little erode toward copper";

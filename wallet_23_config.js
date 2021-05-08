@@ -1,1 +1,1 @@
-var mnemonic = "valley soul wood lecture food mimic promote update follow enjoy bicycle trip";
+var mnemonic = "coffee sand river zero tent early asset swing juice helmet magnet rate";

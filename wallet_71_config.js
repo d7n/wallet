@@ -1,1 +1,1 @@
-var mnemonic = "weekend child surface danger profit result regret design wise occur scrub cricket";
+var mnemonic = "sunny maple still lion student husband tent fork assault boss mother farm";

@@ -1,1 +1,1 @@
-var mnemonic = "noise car spot early position laundry ribbon solve cave crisp credit say";
+var mnemonic = "human fat naive demand spring brother message have dumb will wedding ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange tired economy ability orbit maximum mistake insect misery common gravity detect";
+var mnemonic = "glare filter father lobster unlock awkward fix unknown good regular tank leg";

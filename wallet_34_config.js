@@ -1,1 +1,1 @@
-var mnemonic = "camera cool review seven napkin error coral convince prison coffee sea hurdle";
+var mnemonic = "federal message board bacon pulse country include enemy giggle coconut first inform";

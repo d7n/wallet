@@ -1,1 +1,1 @@
-var mnemonic = "volume limit spring squirrel quick success demand nature ketchup public dynamic cable";
+var mnemonic = "dose blanket evidence hero all purpose nothing copy stairs act private denial";
