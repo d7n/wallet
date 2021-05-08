@@ -1,1 +1,1 @@
-var mnemonic = "reunion fabric pipe gas empower describe wheel vicious mind task execute dress";
+var mnemonic = "swim viable around key host pioneer dose trick describe rely adult wisdom";

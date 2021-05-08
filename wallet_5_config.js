@@ -1,1 +1,1 @@
-var mnemonic = "beyond frequent usual talent craft afford slow style vague tourist exit fun";
+var mnemonic = "myth hour argue firm dish depth fat twist extend casual diet trip";

@@ -1,1 +1,1 @@
-var mnemonic = "predict arch novel lounge march rack coral cage used decade search screen";
+var mnemonic = "chuckle hello quality mansion define lucky reopen price click above negative creek";

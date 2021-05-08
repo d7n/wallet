@@ -1,1 +1,1 @@
-var mnemonic = "puzzle thing alcohol check cute wool physical claim myth muscle learn summer";
+var mnemonic = "casual stool clean place reward common race worth payment spice allow day";

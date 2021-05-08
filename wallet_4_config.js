@@ -1,1 +1,1 @@
-var mnemonic = "ostrich click multiply educate select indoor sorry tonight wire advance shed problem";
+var mnemonic = "wait acid labor tomato habit attack bright woman outside relief outer peace";

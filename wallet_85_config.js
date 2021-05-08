@@ -1,1 +1,1 @@
-var mnemonic = "decade advance history cargo tone advance eye inform battle sort finish case";
+var mnemonic = "business narrow day confirm agree guilt trust note sick dentist phrase genius";

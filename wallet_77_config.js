@@ -1,1 +1,1 @@
-var mnemonic = "visa rare park lawn flash thumb found erosion hawk amount wing popular";
+var mnemonic = "acquire oil bone ceiling lonely begin razor energy voice sell struggle grid";

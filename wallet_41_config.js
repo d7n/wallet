@@ -1,1 +1,1 @@
-var mnemonic = "dynamic series ring cloud rebuild apart imitate badge custom only wonder sibling";
+var mnemonic = "six bicycle appear mix stadium demise edit pottery member soda lunch name";

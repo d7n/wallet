@@ -1,1 +1,1 @@
-var mnemonic = "flip clinic mask expire rail strategy endless simple invite hospital collect odor";
+var mnemonic = "depth original hair trumpet kitten balcony peasant oxygen convince lake walnut slam";

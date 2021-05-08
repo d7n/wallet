@@ -1,1 +1,1 @@
-var mnemonic = "ride deposit tilt carry blouse cluster slush apart fragile twelve such task";
+var mnemonic = "discover puzzle enemy arrow best silk romance artefact track across sniff badge";

@@ -1,1 +1,1 @@
-var mnemonic = "chest screen fan leopard park door input laptop labor miss mountain shift";
+var mnemonic = "immune cancel gospel client coral capable select pigeon satisfy artist inner sun";

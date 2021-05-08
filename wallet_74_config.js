@@ -1,1 +1,1 @@
-var mnemonic = "quiz awful kit short pitch wrong heart unit cube strike thought wheat";
+var mnemonic = "evoke trick carry upset track oval grain divert silent earn play hedgehog";

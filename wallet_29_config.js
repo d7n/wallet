@@ -1,1 +1,1 @@
-var mnemonic = "art file field fix clap device people simple car top dolphin gold";
+var mnemonic = "abstract arch clap mix chair mail relief express grocery title letter jealous";

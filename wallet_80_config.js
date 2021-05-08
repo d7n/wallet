@@ -1,1 +1,1 @@
-var mnemonic = "truth stable business little salad gun avocado turtle clerk melody owner actual";
+var mnemonic = "can produce maximum badge analyst vacant gesture onion beyond fish awkward plastic";

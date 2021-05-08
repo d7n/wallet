@@ -1,1 +1,1 @@
-var mnemonic = "master robot history record inner assist margin day trumpet ankle leg news";
+var mnemonic = "check good twenty gain medal blast cattle bulk combine gasp slice huge";

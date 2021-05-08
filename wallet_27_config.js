@@ -1,1 +1,1 @@
-var mnemonic = "loyal brand expose genuine cruel shock lens endorse fabric hand glass sadness";
+var mnemonic = "trash annual miss muscle pulp measure window update absorb kit language number";

@@ -1,1 +1,1 @@
-var mnemonic = "lock tiny just decide puppy minute drive need unit farm shell room";
+var mnemonic = "agent embark mouse dismiss scheme east ticket outdoor buzz title whip wear";

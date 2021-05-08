@@ -1,1 +1,1 @@
-var mnemonic = "hard verb frown clock ordinary similar pepper lawsuit close mass laundry gossip";
+var mnemonic = "soldier magic extra asthma harbor sheriff cheap volume jaguar pluck lion soup";

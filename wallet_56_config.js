@@ -1,1 +1,1 @@
-var mnemonic = "fury thought they neglect travel belt feel fish owner cause autumn tunnel";
+var mnemonic = "pudding rule proud simple fortune truly rival carry card modify trial visit";

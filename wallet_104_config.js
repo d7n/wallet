@@ -1,1 +1,1 @@
-var mnemonic = "morning method supreme rib solve attend smoke core hawk weekend clerk reopen";
+var mnemonic = "inflict credit rack satoshi horror abandon eagle speak letter very clutch favorite";

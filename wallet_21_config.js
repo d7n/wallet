@@ -1,1 +1,1 @@
-var mnemonic = "cupboard steel gold practice space regret elevator aerobic march sponsor boat together";
+var mnemonic = "steel demise that bargain pupil joy purchase evil cement upset paddle maze";

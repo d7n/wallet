@@ -1,1 +1,1 @@
-var mnemonic = "bicycle spring cement shock attend medal west slide move senior omit bunker";
+var mnemonic = "rebel garlic alley sign weasel warrior office promote vault olympic dizzy match";

@@ -1,1 +1,1 @@
-var mnemonic = "shield expose quality report arena fish battle firm shy raw license episode";
+var mnemonic = "absorb lens infant hurdle typical airport brain trigger habit kangaroo toddler scene";

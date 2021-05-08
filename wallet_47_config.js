@@ -1,1 +1,1 @@
-var mnemonic = "boring clinic april ability umbrella syrup moment gift ceiling jacket slide strategy";
+var mnemonic = "buffalo equip shed day inmate pear vault tail crisp toward uniform bacon";

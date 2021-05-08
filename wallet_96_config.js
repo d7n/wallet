@@ -1,1 +1,1 @@
-var mnemonic = "below analyst major leave gift huge limb ripple keep lab blur clever";
+var mnemonic = "slide animal jeans pepper surprise stem chief leaf crazy prosper donor acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon abandon wrap orient cover suit again mouse dream soul wear leader";
+var mnemonic = "talk evil oven sheriff unable area cover cave believe pigeon window venture";

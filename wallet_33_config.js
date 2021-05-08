@@ -1,1 +1,1 @@
-var mnemonic = "unknown business quarter inflict fiction absorb oil melt rookie renew picnic rug";
+var mnemonic = "case often banana border comic daring gorilla robot castle fall tennis give";

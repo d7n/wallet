@@ -1,1 +1,1 @@
-var mnemonic = "online taste able axis cycle problem develop music oval taste moment lawn";
+var mnemonic = "deliver matrix pulp dirt spirit belt morning choose cattle destroy street extra";

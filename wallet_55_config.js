@@ -1,1 +1,1 @@
-var mnemonic = "length able tonight insect favorite tuition castle bag west consider prize adult";
+var mnemonic = "alone have salon shaft shadow boring egg ladder connect glance spoil celery";

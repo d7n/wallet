@@ -1,1 +1,1 @@
-var mnemonic = "wool answer velvet laundry patient clarify humble brain fine fury course upgrade";
+var mnemonic = "ostrich delay choose voice bicycle misery play subject salmon outside car seed";

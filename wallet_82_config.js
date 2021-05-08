@@ -1,1 +1,1 @@
-var mnemonic = "holiday clerk frozen crystal grow garlic warfare fiction furnace meat fabric monitor";
+var mnemonic = "camera clay resource describe nation recall float tiny language fabric lecture suffer";

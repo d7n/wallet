@@ -1,1 +1,1 @@
-var mnemonic = "file regret spoon useless eight attack order shiver spy tonight rib cabbage";
+var mnemonic = "unit rebuild mouse flee rubber gain ritual ripple change cook nut scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual sentence assault cheese horror coyote vivid voyage habit pelican kitten dwarf";
+var mnemonic = "salad pizza idle such tone situate elephant wear bread happy emerge document";

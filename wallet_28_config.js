@@ -1,1 +1,1 @@
-var mnemonic = "sick pill rain notice song light inflict hollow shrimp please elbow cinnamon";
+var mnemonic = "milk shoot online dinner chaos short fix twelve basic boat pill mutual";

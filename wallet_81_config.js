@@ -1,1 +1,1 @@
-var mnemonic = "visa account leave direct core proof obey junk stereo obscure tuition scene";
+var mnemonic = "lens supply toy brick rate devote exchange business range elegant scare rug";

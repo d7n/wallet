@@ -1,1 +1,1 @@
-var mnemonic = "rate talent until canoe weekend pilot defy bless hobby quarter elder shock";
+var mnemonic = "follow brown choose visit south eagle spirit gesture oblige census symptom father";

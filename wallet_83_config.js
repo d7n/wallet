@@ -1,1 +1,1 @@
-var mnemonic = "art genuine mixture letter rely baby tell mosquito harsh puppy prepare lemon";
+var mnemonic = "quality kit inch seminar light taxi repair nurse fever leisure medal chapter";

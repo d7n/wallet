@@ -1,1 +1,1 @@
-var mnemonic = "noble arch tattoo donor fog spy earth educate alpha abstract swing moment";
+var mnemonic = "second usual guess mutual fog blouse proof hover august oven toast mail";

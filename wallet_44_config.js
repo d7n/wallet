@@ -1,1 +1,1 @@
-var mnemonic = "raise crucial ceiling come field finish sand trust taste depend solve miss";
+var mnemonic = "affair olive elder blood tenant sweet survey odor vicious liar forward velvet";

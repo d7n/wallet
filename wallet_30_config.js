@@ -1,1 +1,1 @@
-var mnemonic = "adapt praise wine dance walk decide pepper include three promote clump mansion";
+var mnemonic = "table tired monitor armed bargain turtle brick slush enemy nice bunker pear";

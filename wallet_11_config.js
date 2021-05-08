@@ -1,1 +1,1 @@
-var mnemonic = "brain popular vivid rail blue dose between voyage mandate record income join";
+var mnemonic = "claim unit dry lounge empower calm estate arrest eye dwarf demise next";

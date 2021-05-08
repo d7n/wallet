@@ -1,1 +1,1 @@
-var mnemonic = "area floor involve sting pear magnet supreme giggle west noble vivid dinner";
+var mnemonic = "toilet crack olive clay during soldier gasp cement share smoke sun reopen";

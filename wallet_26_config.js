@@ -1,1 +1,1 @@
-var mnemonic = "subject power exile claw property acquire capital ride arrest blouse move steak";
+var mnemonic = "daughter desk fuel globe innocent result leisure rule amount noise clever afford";

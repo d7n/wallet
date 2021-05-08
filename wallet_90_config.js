@@ -1,1 +1,1 @@
-var mnemonic = "toward surprise garlic peasant donate help dog drift sheriff tape aware blouse";
+var mnemonic = "crater donor edit roast broom genuine motor appear priority very audit divert";

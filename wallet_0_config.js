@@ -1,1 +1,1 @@
-var mnemonic = "tattoo stomach alone subject razor inmate auction glad match story coil border";
+var mnemonic = "gift square choose glide view illegal senior radar violin poem coffee parrot";

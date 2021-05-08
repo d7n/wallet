@@ -1,1 +1,1 @@
-var mnemonic = "input shift regret aunt hour tent govern salmon planet notice link lizard";
+var mnemonic = "execute grant pool render battle immense hip toy useless retreat candy dress";

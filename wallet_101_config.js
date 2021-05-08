@@ -1,1 +1,1 @@
-var mnemonic = "deposit title adult immense dignity program bid salt razor alcohol remember donkey";
+var mnemonic = "buddy indoor toast bitter essence circle drum female clock notable kind sauce";

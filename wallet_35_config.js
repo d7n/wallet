@@ -1,1 +1,1 @@
-var mnemonic = "village replace twice siren main rally execute novel income diagram attitude embrace";
+var mnemonic = "inner comic engine ribbon inmate violin giant thought lab honey more before";

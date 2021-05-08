@@ -1,1 +1,1 @@
-var mnemonic = "victory nut bounce century ancient transfer bachelor fault enlist music bomb broccoli";
+var mnemonic = "ginger senior vintage devote goat spoil vintage make fork method captain vibrant";

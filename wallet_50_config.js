@@ -1,1 +1,1 @@
-var mnemonic = "come minor swallow giant bleak admit cup inject useful warm coffee thumb";
+var mnemonic = "anchor spray joy exchange combine school section can risk rib husband chunk";

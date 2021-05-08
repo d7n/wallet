@@ -1,1 +1,1 @@
-var mnemonic = "female move traffic average device candy ensure forward deny siren lecture wild";
+var mnemonic = "hospital carbon luggage kingdom student junior rabbit lunar chuckle private toward asset";

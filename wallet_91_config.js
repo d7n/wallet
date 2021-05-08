@@ -1,1 +1,1 @@
-var mnemonic = "motion february mail popular valve angle royal sunset draw robot oval boring";
+var mnemonic = "evil still pulp emerge minor math meat answer amazing oblige demand during";

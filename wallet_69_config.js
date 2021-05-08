@@ -1,1 +1,1 @@
-var mnemonic = "pause fall elevator tower disease crop tackle sausage soap island long frozen";
+var mnemonic = "punch sustain journey orchard old core park rule expose same reform wish";

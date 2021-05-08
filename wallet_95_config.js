@@ -1,1 +1,1 @@
-var mnemonic = "laugh tube earth worth unique friend erosion diagram arrive endless turn evil";
+var mnemonic = "educate camp pottery ensure snack gallery belt illness demise fish rare caught";

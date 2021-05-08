@@ -1,1 +1,1 @@
-var mnemonic = "claim around uncle story speed love regular health manual jar situate convince";
+var mnemonic = "marine skull wisdom jazz thought lyrics quality act spirit kite cloud man";

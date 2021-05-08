@@ -1,1 +1,1 @@
-var mnemonic = "spread verify shadow census width velvet stairs enhance wife shadow tackle enough";
+var mnemonic = "ring staff team soccer utility crew fix acid jungle into remember flush";

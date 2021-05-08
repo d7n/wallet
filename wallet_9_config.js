@@ -1,1 +1,1 @@
-var mnemonic = "affair hazard blouse custom measure cluster noise join song figure broom excess";
+var mnemonic = "mutual device spot organ claim tilt axis quick buzz modify know cannon";

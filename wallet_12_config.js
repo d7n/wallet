@@ -1,1 +1,1 @@
-var mnemonic = "power piano rigid ladder must matter mansion curious humor deer trip memory";
+var mnemonic = "erase actor write wrap caution cage morning basic mechanic rose below group";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend permit deny donor private limit story attract obtain arena ketchup night";
+var mnemonic = "memory six weasel nerve ecology sight thrive arrange negative give afraid jazz";

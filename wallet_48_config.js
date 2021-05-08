@@ -1,1 +1,1 @@
-var mnemonic = "field maple obvious output mask endorse eyebrow view impose express infant ticket";
+var mnemonic = "sample okay churn rough pottery install surround crazy cannon pulse drum test";

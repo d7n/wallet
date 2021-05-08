@@ -1,1 +1,1 @@
-var mnemonic = "uncle enforce sunny lottery metal glove balance able wedding squirrel finger ten";
+var mnemonic = "boss replace honey gadget rough time bullet daring vital glass bonus camp";

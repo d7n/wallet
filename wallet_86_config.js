@@ -1,1 +1,1 @@
-var mnemonic = "uphold profit adjust future hill obey leaf boss room zoo confirm chef";
+var mnemonic = "evoke duck advance woman during pear metal garage autumn uncover horse chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "melody offer grunt depart wheat inflict like woman asset dove resist menu";
+var mnemonic = "bubble view network solar occur axis diet turtle lake sphere fox holiday";

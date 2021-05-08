@@ -1,1 +1,1 @@
-var mnemonic = "mango later essay over slab desk lawn bread tip disagree soul call";
+var mnemonic = "board morning message ugly still scan negative other mixture day deny runway";

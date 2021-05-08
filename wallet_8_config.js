@@ -1,1 +1,1 @@
-var mnemonic = "forest finish bag agree settle cricket hub real game staff off wing";
+var mnemonic = "warm industry shrug cram junior glow park melt build awful rich trouble";

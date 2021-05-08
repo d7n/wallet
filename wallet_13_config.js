@@ -1,1 +1,1 @@
-var mnemonic = "couple lonely memory account seven tomato vocal student bid off path leave";
+var mnemonic = "foam able beach woman control cup mango right enroll raw pioneer friend";

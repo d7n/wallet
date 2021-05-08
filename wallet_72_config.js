@@ -1,1 +1,1 @@
-var mnemonic = "sugar seminar tiger dash vibrant sea minor flee oven mechanic farm coconut";
+var mnemonic = "spoon satoshi quantum spread tired promote work mail tourist tail damage famous";

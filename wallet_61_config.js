@@ -1,1 +1,1 @@
-var mnemonic = "curve velvet marble chest analyst trophy people panic sketch town glad cousin";
+var mnemonic = "tent muscle blue knock build walnut pear bacon fan audit copper chuckle";

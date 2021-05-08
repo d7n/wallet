@@ -1,1 +1,1 @@
-var mnemonic = "spread laptop magnet price inhale carpet license hood carbon health other wage";
+var mnemonic = "twice plunge approve easily roast autumn any figure perfect enlist sunny leave";

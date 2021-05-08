@@ -1,1 +1,1 @@
-var mnemonic = "hold clog helmet visual text piece neutral wage observe ivory narrow tennis";
+var mnemonic = "busy spring tool sadness skate coil excess sign army awkward junior derive";

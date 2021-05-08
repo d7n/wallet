@@ -1,1 +1,1 @@
-var mnemonic = "bracket enhance boil rain theme mix slide job medal wide badge anxiety";
+var mnemonic = "grief season phone fence behave divide route hybrid stock donor garlic special";

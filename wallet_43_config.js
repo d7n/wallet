@@ -1,1 +1,1 @@
-var mnemonic = "perfect buddy notice large dinner soup quality put slot damp road nut";
+var mnemonic = "alien ghost wrestle remind quarter asthma solar family climb gospel debate junior";

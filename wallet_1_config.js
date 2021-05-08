@@ -1,1 +1,1 @@
-var mnemonic = "survey modify basket horse clerk razor slim faculty divide climb remove cage";
+var mnemonic = "erase enemy defense refuse slow toe garage sad peanut various choose trust";

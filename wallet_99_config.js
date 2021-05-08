@@ -1,1 +1,1 @@
-var mnemonic = "wagon follow miracle sniff beef tragic fall one midnight focus code tennis";
+var mnemonic = "bind artwork endless potato renew trigger crew tip ten oxygen hip lava";

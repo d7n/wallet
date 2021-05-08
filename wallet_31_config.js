@@ -1,1 +1,1 @@
-var mnemonic = "jelly frog theory mind mosquito kiss endless boss champion color carry bench";
+var mnemonic = "enhance help knee number mystery now beef panel else mandate prepare bid";

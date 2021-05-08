@@ -1,1 +1,1 @@
-var mnemonic = "forward novel voice affair agent sport spin safe brave hurdle glare still";
+var mnemonic = "twelve amused wrap shell glimpse shift ribbon genuine describe leisure organ comic";

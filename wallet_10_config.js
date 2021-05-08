@@ -1,1 +1,1 @@
-var mnemonic = "neither spoil dinner length still there submit face imitate lady scare home";
+var mnemonic = "accuse toilet renew buffalo much scene can suffer flush chicken upgrade tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "keen tooth destroy exile wage write switch vessel submit novel slender glare";
+var mnemonic = "neutral math lottery mandate memory text alien learn lava toddler town skull";

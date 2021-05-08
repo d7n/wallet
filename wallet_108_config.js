@@ -1,1 +1,1 @@
-var mnemonic = "version almost good light educate beef approve polar know paddle pottery leopard";
+var mnemonic = "alone gossip turn predict metal west board wrist monkey genuine iron disease";

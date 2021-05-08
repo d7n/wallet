@@ -1,1 +1,1 @@
-var mnemonic = "valley want bone sing axis match flip unaware sheriff trend biology spider";
+var mnemonic = "blur check before treat sunset inhale fade describe antique pumpkin safe derive";

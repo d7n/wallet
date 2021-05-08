@@ -1,1 +1,1 @@
-var mnemonic = "club weather casual drum lesson trust wisdom emotion dish panic lottery flip";
+var mnemonic = "seven hurry quiz cool flag right giraffe volcano evolve arena plunge rural";

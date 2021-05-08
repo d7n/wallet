@@ -1,1 +1,1 @@
-var mnemonic = "conduct avocado pupil eternal solve silver indoor monster original art skull fury";
+var mnemonic = "beauty panther patrol famous animal win unaware mail lunar brown infant vault";

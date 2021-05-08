@@ -1,1 +1,1 @@
-var mnemonic = "donate resemble upon bench birth shy list faith giggle reveal oyster hold";
+var mnemonic = "round priority used firm owner biology piece design flame caught few bone";

@@ -1,1 +1,1 @@
-var mnemonic = "rack welcome limb fever fortune eyebrow media glide shrimp same risk also";
+var mnemonic = "doll federal east fan swift blouse extra chronic fame before client olive";

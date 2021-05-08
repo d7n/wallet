@@ -1,1 +1,1 @@
-var mnemonic = "copy save session real truly baby attract aware search owner option width";
+var mnemonic = "fade bomb expand prize peasant fiction toss usual jelly damp spatial pumpkin";

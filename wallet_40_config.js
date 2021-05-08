@@ -1,1 +1,1 @@
-var mnemonic = "protect pipe setup path kitchen chunk imitate fee fitness bean green one";
+var mnemonic = "estate turtle drop steak hidden thunder slender lawsuit hidden code shove deal";

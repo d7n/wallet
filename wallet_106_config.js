@@ -1,1 +1,1 @@
-var mnemonic = "section tilt rely bar motor burst bronze when found whip woman local";
+var mnemonic = "liberty rail student urge enter fence apart worth piano alarm result crane";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm yard park goose another service miracle slot soon call eyebrow short";
+var mnemonic = "era law pipe treat cannon height trip test episode twin vendor easily";

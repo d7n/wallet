@@ -1,1 +1,1 @@
-var mnemonic = "bulk reopen base melt antenna amount dawn strong hover build erode extra";
+var mnemonic = "flip drink review detect various car coin parade shield note asthma crisp";

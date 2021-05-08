@@ -1,1 +1,1 @@
-var mnemonic = "employ alley place shock bachelor flavor gallery glance way game side session";
+var mnemonic = "length trend sort someone idea used blue divide flat near crew spawn";

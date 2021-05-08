@@ -1,1 +1,1 @@
-var mnemonic = "income elevator age flee rabbit genre client athlete goddess jungle boil east";
+var mnemonic = "camera series buddy dove awkward mushroom pond have junior fix fever guide";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict rapid clip lock minimum sample fly drama palace submit fault below";
+var mnemonic = "remain illness news bundle spray leaf guilt junior pumpkin document repair argue";

@@ -1,1 +1,1 @@
-var mnemonic = "bone cabbage predict release assault vendor piano abstract duck flush kid custom";
+var mnemonic = "manage turtle color humor bar ice animal exhibit worth meadow catalog bar";
