@@ -1,1 +1,1 @@
-var mnemonic = "option order menu helmet replace antique paddle vessel honey female public problem";
+var mnemonic = "chronic silk mind twin cake inhale maple limb issue gate roof virus";

@@ -1,1 +1,1 @@
-var mnemonic = "spy camp reveal nature banana year demise pilot defense donor impact girl";
+var mnemonic = "liar debris demise bounce middle acoustic garbage video mandate athlete grunt desk";

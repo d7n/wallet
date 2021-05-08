@@ -1,1 +1,1 @@
-var mnemonic = "immense gather talk canvas state action detect velvet weasel certain easy venue";
+var mnemonic = "source duty pull test noise virtual fuel exile large witness wild try";

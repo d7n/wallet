@@ -1,1 +1,1 @@
-var mnemonic = "rhythm post simple grow agree trial noble coach keep option camp flag";
+var mnemonic = "spray vault spike home car scheme trim razor scrap mobile good outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "army west cheap truck connect devote final liquid ribbon skill toddler tennis";
+var mnemonic = "slice forget layer face wood north olympic lumber clever tongue coil captain";

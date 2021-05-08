@@ -1,1 +1,1 @@
-var mnemonic = "glance brand gentle champion monkey pear flower ridge pass remove during water";
+var mnemonic = "tongue neither very discover rug sorry afraid bus anger onion brisk such";

@@ -1,1 +1,1 @@
-var mnemonic = "mail tongue recycle empty forward giraffe gate vacant absorb detail because myth";
+var mnemonic = "pumpkin grief where iron allow silly submit plate feel opinion brave pattern";

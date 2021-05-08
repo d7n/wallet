@@ -1,1 +1,1 @@
-var mnemonic = "spike burst mom stadium actor collect faculty panda era drum sad sleep";
+var mnemonic = "fish sweet easily enemy sniff remove august nature dirt actor bargain shadow";

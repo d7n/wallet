@@ -1,1 +1,1 @@
-var mnemonic = "all raccoon milk topic crime bundle mom weasel coffee grunt ecology hover";
+var mnemonic = "degree roast bulb broccoli double giraffe apart whip chase keen moon say";

@@ -1,1 +1,1 @@
-var mnemonic = "soap alert suspect grace bounce security joy prefer usage plate evoke speak";
+var mnemonic = "foam crouch accident case cotton abstract change clip belt expand vivid solve";

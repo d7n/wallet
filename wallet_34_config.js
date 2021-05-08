@@ -1,1 +1,1 @@
-var mnemonic = "chat waste impose pledge orange salute exhibit agree green carry autumn butter";
+var mnemonic = "food powder loop cube sausage battle time broom tell pear yellow genre";

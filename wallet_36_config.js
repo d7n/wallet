@@ -1,1 +1,1 @@
-var mnemonic = "erosion exist south require ridge tumble gate abandon cheap diesel jar crowd";
+var mnemonic = "eternal stool merit autumn sheriff digital robot boring jump drip circle drastic";

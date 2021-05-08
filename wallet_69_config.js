@@ -1,1 +1,1 @@
-var mnemonic = "oppose affair idle excite quick ticket solar lady atom surround fancy silver";
+var mnemonic = "party fatigue solid stadium brand result alone cream one sunny half panic";

@@ -1,1 +1,1 @@
-var mnemonic = "twist output pill float change spice six slight mountain catalog dose dust";
+var mnemonic = "impulse domain whale diamond open crystal modify release stove stairs small obvious";

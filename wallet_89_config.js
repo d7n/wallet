@@ -1,1 +1,1 @@
-var mnemonic = "scrap moon bundle immune common armor frame enact awesome cement close swing";
+var mnemonic = "spike lemon rhythm jeans hour iron drama repair lottery garment butter combine";

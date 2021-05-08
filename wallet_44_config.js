@@ -1,1 +1,1 @@
-var mnemonic = "senior chuckle virtual spoon they farm deputy attend spatial noodle valid icon";
+var mnemonic = "fiscal crew patient save cover situate slight weather coffee click uphold brief";

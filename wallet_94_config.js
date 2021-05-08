@@ -1,1 +1,1 @@
-var mnemonic = "prize enforce seminar bench process olympic dash tree recall memory fury pioneer";
+var mnemonic = "judge birth dial jazz street demise exist appear inch knife enable ask";

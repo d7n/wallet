@@ -1,1 +1,1 @@
-var mnemonic = "father receive maid magic nurse purchase accident turtle glad paddle crumble lawsuit";
+var mnemonic = "toss orient differ auto family beach eternal firm believe slam pen fabric";

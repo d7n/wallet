@@ -1,1 +1,1 @@
-var mnemonic = "opera essay manual lawsuit flip next quit thunder flush session memory build";
+var mnemonic = "quote stool flame sing you capital theory tray coil into love rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "please inherit endorse paper gossip solution general sadness leisure brass recycle menu";
+var mnemonic = "lunch final rely they room trash list deny fitness tornado trigger royal";

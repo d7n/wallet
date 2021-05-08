@@ -1,1 +1,1 @@
-var mnemonic = "second enable junk joy wine typical luxury position prepare march rice balcony";
+var mnemonic = "second remove cup spatial craft wine burden car keen walk logic bronze";

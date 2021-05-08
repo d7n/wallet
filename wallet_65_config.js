@@ -1,1 +1,1 @@
-var mnemonic = "elegant kangaroo opera tray dress interest lazy scrub program tortoise scare maximum";
+var mnemonic = "radar erosion trigger survey dog circle health ketchup ill abuse wheat worry";

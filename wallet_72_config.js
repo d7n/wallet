@@ -1,1 +1,1 @@
-var mnemonic = "flush toe attract welcome domain swap long tornado able aisle flower elite";
+var mnemonic = "session tuition column reveal arrest fiction lift alien jealous again dynamic escape";

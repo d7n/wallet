@@ -1,1 +1,1 @@
-var mnemonic = "alarm blind swing smoke paper poet hobby carpet ostrich hand hamster relax";
+var mnemonic = "smart icon oven wait size empower property pitch spawn swarm curve nominee";

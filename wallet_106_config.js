@@ -1,1 +1,1 @@
-var mnemonic = "enhance canyon february diagram option pitch fiscal absurd atom reopen sick ketchup";
+var mnemonic = "path mother say again equip suggest unusual input fitness beauty urge hole";

@@ -1,1 +1,1 @@
-var mnemonic = "write kitten combine leisure common deer author soul simple layer donkey exit";
+var mnemonic = "slender hour cactus affair track upper local birth where october purity sort";

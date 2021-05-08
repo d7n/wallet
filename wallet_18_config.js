@@ -1,1 +1,1 @@
-var mnemonic = "grace say marine panic conduct palace reunion law twelve family river congress";
+var mnemonic = "deer sleep wool seven armor private thunder asthma post nerve path rice";

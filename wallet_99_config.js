@@ -1,1 +1,1 @@
-var mnemonic = "truth include sudden differ pencil favorite village two ocean machine very bring";
+var mnemonic = "engine near wife test defense wool dress common frog robust rural gadget";

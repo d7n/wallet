@@ -1,1 +1,1 @@
-var mnemonic = "never buyer ten abuse icon pyramid dune october champion satoshi devote pause";
+var mnemonic = "various garbage firm neutral will ticket sword quote throw walnut envelope fun";

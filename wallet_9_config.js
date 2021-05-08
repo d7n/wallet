@@ -1,1 +1,1 @@
-var mnemonic = "suffer motion swift stool adjust select share assume goat absurd visit grain";
+var mnemonic = "stomach shy road pole symptom helmet logic leisure aunt boy cradle fat";

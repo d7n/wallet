@@ -1,1 +1,1 @@
-var mnemonic = "awful dilemma speed birth cart resist tag hungry roof sea execute visual";
+var mnemonic = "vault order company pear upper warrior load pulse spin hedgehog burden stamp";

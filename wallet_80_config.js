@@ -1,1 +1,1 @@
-var mnemonic = "toy bonus typical have wear skull awake diary style knee episode learn";
+var mnemonic = "evidence student brown carbon coast swift horror tissue skirt budget scout donkey";

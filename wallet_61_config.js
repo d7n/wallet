@@ -1,1 +1,1 @@
-var mnemonic = "negative settle base radar quiz vicious assault chef mom strike escape early";
+var mnemonic = "bike thank alert inspire lake unique ecology vote tumble detect turtle flight";

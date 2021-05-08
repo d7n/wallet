@@ -1,1 +1,1 @@
-var mnemonic = "talent almost pair coyote lab undo mansion asthma settle utility father embrace";
+var mnemonic = "skin total monkey steak unit trial birth crater kitten spell govern exclude";

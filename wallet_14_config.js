@@ -1,1 +1,1 @@
-var mnemonic = "system task just client coconut zoo honey planet blanket dolphin adjust almost";
+var mnemonic = "change vacant outer panda quit tool one pupil toy boy ring dismiss";

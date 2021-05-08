@@ -1,1 +1,1 @@
-var mnemonic = "crawl onion pave relax remind solve recall woman ability distance have lab";
+var mnemonic = "flower rate inside drink hood token innocent truly educate unknown orchard bridge";

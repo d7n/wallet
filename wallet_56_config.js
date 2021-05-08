@@ -1,1 +1,1 @@
-var mnemonic = "cry exercise fiber aerobic pepper tower vintage harsh lion obvious burst patrol";
+var mnemonic = "swallow carbon quote vessel wait swamp evil tribe bulk delay memory obscure";

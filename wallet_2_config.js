@@ -1,1 +1,1 @@
-var mnemonic = "noble chicken skirt december mule pond satisfy unhappy subject dinner hire humor";
+var mnemonic = "approve doctor exhaust essay punch fuel way hobby open demise give lesson";

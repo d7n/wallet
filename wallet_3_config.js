@@ -1,1 +1,1 @@
-var mnemonic = "grace weasel exotic unknown husband seven arena fault solution squeeze grab century";
+var mnemonic = "abuse unit govern drill artwork life van crisp shell attack exclude square";

@@ -1,1 +1,1 @@
-var mnemonic = "lava shell casual magnet between talent unusual derive rhythm cabin nuclear defense";
+var mnemonic = "gold vicious picnic table clap dragon visit bulb upon cabin fan island";

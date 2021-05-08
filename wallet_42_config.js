@@ -1,1 +1,1 @@
-var mnemonic = "assist expose ill question tell spin wolf isolate rescue choose arrange pulse";
+var mnemonic = "asthma crop flame cactus truth fitness diesel host door have dad upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin wine stove render just pole between sound essay voice verify crop";
+var mnemonic = "marriage border dance actual language coral work angry source dust clerk wrist";

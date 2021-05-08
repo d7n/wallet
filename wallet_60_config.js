@@ -1,1 +1,1 @@
-var mnemonic = "dust notable turtle end universe text coil cattle hire auto grow almost";
+var mnemonic = "invest pink will sail foster near text erode ranch minimum body thumb";

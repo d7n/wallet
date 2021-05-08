@@ -1,1 +1,1 @@
-var mnemonic = "motor perfect will tragic joy meadow juice tent banana tiger trash derive";
+var mnemonic = "rail office rifle situate talent spawn secret earn layer person fork kit";

@@ -1,1 +1,1 @@
-var mnemonic = "urban split shy defy hobby waste sting depend canal custom edit jacket";
+var mnemonic = "bounce harsh task wedding split wide deliver science drift region found tag";

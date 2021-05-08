@@ -1,1 +1,1 @@
-var mnemonic = "keep edit glory interest follow river chronic cook nice daring enlist mesh";
+var mnemonic = "involve original peanut palace execute muffin very sorry garden run spot about";

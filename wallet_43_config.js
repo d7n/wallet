@@ -1,1 +1,1 @@
-var mnemonic = "refuse habit search razor roast maze crime keep toward ankle sausage water";
+var mnemonic = "vicious floor treat holiday lumber enforce situate return mercy bargain evolve rebuild";

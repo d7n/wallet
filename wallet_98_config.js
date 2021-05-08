@@ -1,1 +1,1 @@
-var mnemonic = "this kiwi inner belt glance hunt casino fish sail reform oblige promote";
+var mnemonic = "divide shuffle poverty cloth example sunny radar garlic fence top domain cargo";

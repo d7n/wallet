@@ -1,1 +1,1 @@
-var mnemonic = "fresh flat remove horse slab lift float awful addict permit capable book";
+var mnemonic = "science sense garden climb toy vibrant rely drive duck immense deputy desk";

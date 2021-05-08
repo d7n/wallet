@@ -1,1 +1,1 @@
-var mnemonic = "fatigue motion march transfer school dolphin sausage sniff shrimp patrol powder have";
+var mnemonic = "trigger dress dragon lunch action wet plastic current student whale try purity";

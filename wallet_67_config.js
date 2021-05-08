@@ -1,1 +1,1 @@
-var mnemonic = "mind later tonight legal depart master oil tribe render lion scene sister";
+var mnemonic = "fringe fitness elder recall amazing emerge win swim figure rail pig antique";

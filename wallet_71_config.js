@@ -1,1 +1,1 @@
-var mnemonic = "tissue marriage song design cheese catalog reveal glue enhance umbrella high lyrics";
+var mnemonic = "shove frown olive install issue pulp salad job man buddy vote amazing";

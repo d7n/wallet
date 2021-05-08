@@ -1,1 +1,1 @@
-var mnemonic = "cloud trick open hospital phone trend valley blur fiber earth gaze spell";
+var mnemonic = "spare summer pilot rhythm train depend risk distance host axis dynamic found";

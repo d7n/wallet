@@ -1,1 +1,1 @@
-var mnemonic = "guitar cost taxi derive that orbit capital motor busy churn cigar endless";
+var mnemonic = "twice glow agent bag forest kit ask edit client power embody subway";

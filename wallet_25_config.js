@@ -1,1 +1,1 @@
-var mnemonic = "strong infant universe outdoor salmon box shove gallery ginger hunt neither problem";
+var mnemonic = "bicycle funny hair address brick liquid limb mango trip client garment present";

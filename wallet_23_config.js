@@ -1,1 +1,1 @@
-var mnemonic = "above glove version monster tomorrow rail insane wet empower sing solid jacket";
+var mnemonic = "session column mention dismiss almost winner beach someone help clarify wash snake";

@@ -1,1 +1,1 @@
-var mnemonic = "season double hope machine stage spice olive actual future expose plate modify";
+var mnemonic = "maple lawsuit near wool dad melt balcony armed dog jump spare hub";

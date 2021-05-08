@@ -1,1 +1,1 @@
-var mnemonic = "clock twice pudding east radar soft stem fortune toy card waste lucky";
+var mnemonic = "deer federal sign cute depart boil uniform spare flag settle canoe mirror";

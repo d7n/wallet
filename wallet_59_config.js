@@ -1,1 +1,1 @@
-var mnemonic = "soft order title potato youth hover library aspect celery coach shallow brave";
+var mnemonic = "way panic idea labor injury advice brush fatigue loan worth copper orphan";

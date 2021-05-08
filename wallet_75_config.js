@@ -1,1 +1,1 @@
-var mnemonic = "dumb planet choice elite vote matter tragic rapid entry napkin weasel job";
+var mnemonic = "stick brief fiber mango swap vicious wrap follow latin twist state chronic";

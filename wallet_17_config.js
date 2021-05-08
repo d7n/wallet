@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tenant lumber ice mercy expand ivory response story bus march jewel";
+var mnemonic = "opinion gesture dismiss shuffle material sing broken equip insect air lazy culture";

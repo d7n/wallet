@@ -1,1 +1,1 @@
-var mnemonic = "chicken door blade egg poverty shoot travel traffic layer spin skate hold";
+var mnemonic = "liquid garment hawk car clerk deer lamp patrol question electric describe wealth";

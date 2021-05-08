@@ -1,1 +1,1 @@
-var mnemonic = "style device play among fog clap shell stable juice adapt bracket clarify";
+var mnemonic = "panther series where profit soul squeeze illness relief squeeze drop stay keep";

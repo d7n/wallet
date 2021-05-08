@@ -1,1 +1,1 @@
-var mnemonic = "federal truth traffic flat pool nasty recall finish brass broccoli depend industry";
+var mnemonic = "disagree sunset chalk loyal ancient lonely salmon sick close friend derive reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn alien amazing such february spirit item narrow replace tunnel moral elite";
+var mnemonic = "observe license among consider heavy bean diet labor mistake depth elite box";

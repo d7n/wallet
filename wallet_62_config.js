@@ -1,1 +1,1 @@
-var mnemonic = "saddle photo mind satoshi father father cabin scare winter already view soldier";
+var mnemonic = "industry describe can all kingdom capable advance beauty proof present spirit dog";

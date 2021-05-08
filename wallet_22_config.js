@@ -1,1 +1,1 @@
-var mnemonic = "symptom journey battle extra guitar side unaware cover caution thrive orient animal";
+var mnemonic = "parrot exhibit grace deliver arena eye end knock grape know rookie tongue";

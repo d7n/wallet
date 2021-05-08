@@ -1,1 +1,1 @@
-var mnemonic = "pink rule upgrade mirror muffin peace squeeze quit squeeze guide inform loop";
+var mnemonic = "paper emerge easy know muscle group soccer edge bright eagle cricket recall";

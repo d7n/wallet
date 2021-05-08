@@ -1,1 +1,1 @@
-var mnemonic = "amazing nose rain sudden spoil nut worry rule strike stock bomb trend";
+var mnemonic = "surge ignore apple hurry business satoshi evidence list analyst inner unique lonely";

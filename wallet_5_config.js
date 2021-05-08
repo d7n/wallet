@@ -1,1 +1,1 @@
-var mnemonic = "whisper loud suit symptom earth add rug arm title eager come fresh";
+var mnemonic = "mountain mail settle entry change trend ship normal marble fresh riot uncle";

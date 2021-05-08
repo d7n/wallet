@@ -1,1 +1,1 @@
-var mnemonic = "round enter devote behind movie load father stove inject pole venue frown";
+var mnemonic = "hotel chapter toe negative lava dolphin athlete endless doll tongue crater add";

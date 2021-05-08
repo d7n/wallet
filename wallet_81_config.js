@@ -1,1 +1,1 @@
-var mnemonic = "mountain debate goose party lumber rule isolate mango logic leave output border";
+var mnemonic = "despair imitate liberty idle law normal hat car alter bicycle laptop endorse";

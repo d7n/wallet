@@ -1,1 +1,1 @@
-var mnemonic = "tourist outside boss situate army twelve base junk art faint depth peanut";
+var mnemonic = "artwork rely twenty human sponsor small share word trade ahead often visual";

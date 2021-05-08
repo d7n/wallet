@@ -1,1 +1,1 @@
-var mnemonic = "industry height service thrive sport degree alien become velvet canoe deliver half";
+var mnemonic = "frozen enforce hedgehog furnace drink olympic armor bird senior satoshi rough pig";

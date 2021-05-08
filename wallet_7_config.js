@@ -1,1 +1,1 @@
-var mnemonic = "main survey diagram enable risk tunnel ship poverty credit dragon venture hint";
+var mnemonic = "opera walnut van torch chuckle student post way crash power assault chaos";

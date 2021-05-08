@@ -1,1 +1,1 @@
-var mnemonic = "cross file duty peanut teach horror leaf hazard stove surprise era fly";
+var mnemonic = "alarm exile observe found fetch spend cargo between ancient ghost couple blanket";

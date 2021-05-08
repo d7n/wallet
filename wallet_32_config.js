@@ -1,1 +1,1 @@
-var mnemonic = "grid cable gun weather pumpkin bridge praise spot buddy world thrive portion";
+var mnemonic = "pen grape victory adult patient spell loan over pigeon release purse spin";

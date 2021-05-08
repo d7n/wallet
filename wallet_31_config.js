@@ -1,1 +1,1 @@
-var mnemonic = "basic display casino disorder ghost mystery truly dust check dice little gloom";
+var mnemonic = "end follow capable loop quality during pumpkin parrot actor seven bullet bridge";

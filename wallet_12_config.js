@@ -1,1 +1,1 @@
-var mnemonic = "clog fragile trim action sample enforce parade brave drip sketch athlete play";
+var mnemonic = "blood vessel shield visa mechanic guard attract media pattern muffin switch endless";

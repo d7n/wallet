@@ -1,1 +1,1 @@
-var mnemonic = "prevent chase dismiss asthma maze spin chaos poverty total finger fragile topple";
+var mnemonic = "glove wealth motion decrease whale garbage survey demise slight absent region broom";

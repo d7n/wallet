@@ -1,1 +1,1 @@
-var mnemonic = "comic resist cattle culture picture betray jaguar balcony right label special rebuild";
+var mnemonic = "fancy tiny kiss course double canvas usage ski apology suggest remain fat";

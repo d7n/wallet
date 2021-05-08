@@ -1,1 +1,1 @@
-var mnemonic = "legal acid link goose best weird twenty fix message funny birth figure";
+var mnemonic = "acid can flush slogan view pave speak month slender plunge object fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "rare surround animal rail unveil fox shoe bubble engage hair office hour";
+var mnemonic = "crop disorder because keen dentist youth grit rich harsh strong attract replace";

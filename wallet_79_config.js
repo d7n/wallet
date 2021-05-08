@@ -1,1 +1,1 @@
-var mnemonic = "process cheap hood parent weekend initial allow lemon tent brother sport cage";
+var mnemonic = "explain rebel repeat meadow one better imitate hard flock witness daughter visa";

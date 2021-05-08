@@ -1,1 +1,1 @@
-var mnemonic = "cluster now twist better festival render various crush clean right this help";
+var mnemonic = "machine region sketch distance leaf mesh december cheese hill stay grit aim";

@@ -1,1 +1,1 @@
-var mnemonic = "cook satoshi height buddy slice attitude saddle vast endorse slab junior ripple";
+var mnemonic = "nasty penalty cash garage merit doll talk question sibling call nothing have";

@@ -1,1 +1,1 @@
-var mnemonic = "tray cover frame worry fall horror fire yard pencil sword fine palace";
+var mnemonic = "sail betray thing wreck cost course velvet cloth will frost involve emerge";

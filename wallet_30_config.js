@@ -1,1 +1,1 @@
-var mnemonic = "provide viable blade can clean place copy soul utility gossip soft trap";
+var mnemonic = "garbage arch shoot enter wisdom maximum goat bargain better loan feel cherry";

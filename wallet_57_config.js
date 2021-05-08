@@ -1,1 +1,1 @@
-var mnemonic = "crop hollow song sign umbrella conduct ranch zebra industry shine clock tooth";
+var mnemonic = "cloud success skin oval equal top fan sniff property collect cry better";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely bid section buzz tribe ridge never swift expire lucky shop cruel";
+var mnemonic = "rather kiss try lava legend season stay client gasp reveal cube will";

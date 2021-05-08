@@ -1,1 +1,1 @@
-var mnemonic = "loan misery poet hint cupboard purity reduce nice trumpet level believe walk";
+var mnemonic = "wealth curtain hard fortune deer since tape shield trim pilot truly brain";

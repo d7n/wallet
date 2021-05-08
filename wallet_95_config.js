@@ -1,1 +1,1 @@
-var mnemonic = "sock champion when lawn pudding tragic mask pupil extra absurd digital state";
+var mnemonic = "crazy goddess flight mixture pear people churn easily rubber violin candy arctic";
