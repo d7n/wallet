@@ -1,1 +1,1 @@
-var mnemonic = "future step visual bar lecture inside oyster culture can theme door boss";
+var mnemonic = "anchor net clown exact screen total fiction evidence select series embody upon";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic lawn eagle vault someone report relax diamond slight umbrella such stool";
+var mnemonic = "sand orphan outdoor rent increase pottery hair dirt steak elegant drop silly";

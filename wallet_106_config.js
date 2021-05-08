@@ -1,1 +1,1 @@
-var mnemonic = "siege mobile satisfy salmon attitude mixture phrase gossip weekend happy flee embrace";
+var mnemonic = "march hood link arena life sand situate witness ship kingdom doctor adjust";

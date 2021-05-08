@@ -1,1 +1,1 @@
-var mnemonic = "estate stay people once vivid cactus deputy lemon short device sell neck";
+var mnemonic = "volcano identify certain ritual swear survey judge tower skull tunnel husband bulk";

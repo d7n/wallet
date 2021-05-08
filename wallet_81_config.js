@@ -1,1 +1,1 @@
-var mnemonic = "apart thank idea rib spoon melt bird plunge indicate lecture until intact";
+var mnemonic = "decide nice retire super vicious shy say topple imitate mix again grace";

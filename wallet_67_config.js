@@ -1,1 +1,1 @@
-var mnemonic = "into year lab humor crystal about pattern stable bless tell cart attitude";
+var mnemonic = "put page load pole march oval solid meadow still loan buddy repeat";

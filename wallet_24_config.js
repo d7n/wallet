@@ -1,1 +1,1 @@
-var mnemonic = "divert banana used kid unlock spy suffer squeeze fan boat isolate gravity";
+var mnemonic = "input total shiver open valley course ill ankle excess diary drill sight";

@@ -1,1 +1,1 @@
-var mnemonic = "upon second fashion fat length exchange web oval lava planet cheese jump";
+var mnemonic = "fuel next history virtual liquid define bomb silly together wrestle victory tomorrow";

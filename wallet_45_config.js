@@ -1,1 +1,1 @@
-var mnemonic = "snap six jar exotic atom seek flavor siren identify crunch dinner rough";
+var mnemonic = "warfare enroll mask glad surface image desert danger interest analyst quote absorb";

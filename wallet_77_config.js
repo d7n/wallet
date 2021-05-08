@@ -1,1 +1,1 @@
-var mnemonic = "manage hip tag trap original decorate speak spoon output hurdle security bone";
+var mnemonic = "balcony tell quote drift mass sun snack caught cube budget speed goat";

@@ -1,1 +1,1 @@
-var mnemonic = "biology boost orphan evoke media calm dynamic okay pass exclude tragic tortoise";
+var mnemonic = "hint radio ordinary bench avoid govern green hood pole drip office occur";

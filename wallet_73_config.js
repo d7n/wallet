@@ -1,1 +1,1 @@
-var mnemonic = "globe husband vessel call grow live edge language pride umbrella tomato insect";
+var mnemonic = "walk rigid aisle tool donor horror neck dry assist bitter kingdom inner";

@@ -1,1 +1,1 @@
-var mnemonic = "creek ball verb track attack sun artist output fit song treat style";
+var mnemonic = "cruise tooth nest meadow velvet orient two employ pigeon own gift already";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate despair bright test unveil shrimp parent dance fatigue canvas giggle brain";
+var mnemonic = "lawn distance spend common shadow tomorrow sweet denial reveal fiction virtual frog";

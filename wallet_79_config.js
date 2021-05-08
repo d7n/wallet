@@ -1,1 +1,1 @@
-var mnemonic = "pretty hockey balcony case boss chuckle swear page gallery check shock bitter";
+var mnemonic = "recall trade oak gasp diet wear rare stable venture step energy vibrant";

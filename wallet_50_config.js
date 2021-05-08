@@ -1,1 +1,1 @@
-var mnemonic = "hospital kangaroo spawn sample obvious doll axis shift fortune side sting belt";
+var mnemonic = "still solution book rain toilet maximum ability arrange tree garbage hat chest";

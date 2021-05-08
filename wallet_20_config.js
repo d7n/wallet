@@ -1,1 +1,1 @@
-var mnemonic = "foam must warrior ice return behave clever robust injury thrive save tomorrow";
+var mnemonic = "silver melt pool forward yard rhythm glow kitten sentence firm wait day";

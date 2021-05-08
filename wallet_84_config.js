@@ -1,1 +1,1 @@
-var mnemonic = "erode universe wheat almost message kiss audit liar subway buzz sentence oblige";
+var mnemonic = "shop kitten predict bus drip lumber budget universe chief time busy cave";

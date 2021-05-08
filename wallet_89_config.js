@@ -1,1 +1,1 @@
-var mnemonic = "need index hen service lamp life rule roast brain firm aim grocery";
+var mnemonic = "valid law cake disease glass actual alpha couch narrow there lemon ecology";

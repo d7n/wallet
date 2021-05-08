@@ -1,1 +1,1 @@
-var mnemonic = "hammer comfort example theory lizard avocado control room alone august glimpse jacket";
+var mnemonic = "what option muffin reveal bone odor mixed spring thank horn jelly soap";

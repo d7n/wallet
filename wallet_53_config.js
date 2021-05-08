@@ -1,1 +1,1 @@
-var mnemonic = "correct visual embark hobby tonight science swear biology member much home explain";
+var mnemonic = "pizza service ranch myself neck damage already middle opinion hill cruel devote";

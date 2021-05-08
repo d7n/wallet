@@ -1,1 +1,1 @@
-var mnemonic = "know olympic sad cabin inquiry aspect balance super swamp fatal price rival";
+var mnemonic = "flight artist early media miss limb garbage ten security blanket minor tunnel";

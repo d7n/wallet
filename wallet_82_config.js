@@ -1,1 +1,1 @@
-var mnemonic = "lottery today swap price castle thunder throw duck silent slight oval girl";
+var mnemonic = "point battle waste craft flush cloth find season mean empower gap federal";

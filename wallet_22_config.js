@@ -1,1 +1,1 @@
-var mnemonic = "aerobic betray beauty rather thumb man raise era loop antique various young";
+var mnemonic = "salute mass pass chapter hawk turn wish neutral soul shy dignity link";

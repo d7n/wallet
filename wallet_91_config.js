@@ -1,1 +1,1 @@
-var mnemonic = "win pulp divert wool fun collect thing ball march often cry pave";
+var mnemonic = "panic anxiety baby winner little demise giggle business powder outside have case";

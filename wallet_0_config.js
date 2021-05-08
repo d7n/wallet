@@ -1,1 +1,1 @@
-var mnemonic = "bone depth fold angle clap dawn vivid stool pride win fitness hold";
+var mnemonic = "ketchup ethics flag clip execute keen deposit gaze virus alarm grief athlete";

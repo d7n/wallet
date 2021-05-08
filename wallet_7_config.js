@@ -1,1 +1,1 @@
-var mnemonic = "friend patient balcony pioneer crack cloud oyster tenant pudding cube video design";
+var mnemonic = "whip puzzle carbon quiz trick fruit dignity move tonight swear already main";

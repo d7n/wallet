@@ -1,1 +1,1 @@
-var mnemonic = "case sausage body salon advice april social load enforce hungry scout wild";
+var mnemonic = "protect sugar hire similar good tiger upgrade test change recipe shine weapon";

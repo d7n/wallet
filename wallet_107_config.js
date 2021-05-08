@@ -1,1 +1,1 @@
-var mnemonic = "can enforce dinosaur title observe witness rely side coffee above medal sight";
+var mnemonic = "survey satisfy drip elegant age embrace exhaust glory mind when shallow vivid";

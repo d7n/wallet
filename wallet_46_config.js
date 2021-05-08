@@ -1,1 +1,1 @@
-var mnemonic = "yard fuel holiday grain senior convince large cable frequent timber print debris";
+var mnemonic = "snap talk frequent tray decline caution echo happy adult label walk provide";

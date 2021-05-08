@@ -1,1 +1,1 @@
-var mnemonic = "ice library pumpkin toward flag debris develop tip bone beyond endless major";
+var mnemonic = "lumber melt galaxy sphere panther number mystery slide flash sadness course example";

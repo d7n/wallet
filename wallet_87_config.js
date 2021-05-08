@@ -1,1 +1,1 @@
-var mnemonic = "disorder gorilla web upgrade tornado slender pretty glove rebel broom post cart";
+var mnemonic = "upper gossip sunny boost winter old february topic noise cycle design peace";

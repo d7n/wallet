@@ -1,1 +1,1 @@
-var mnemonic = "ceiling chicken tired gym pigeon giant elephant say today budget essence section";
+var mnemonic = "island silver robust pumpkin muscle perfect security hybrid wasp author scissors govern";

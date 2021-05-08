@@ -1,1 +1,1 @@
-var mnemonic = "remain force jar arctic slush subject make this salad cry camera soft";
+var mnemonic = "galaxy outer sadness will amazing cheap mansion dumb core endless motion intact";

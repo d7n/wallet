@@ -1,1 +1,1 @@
-var mnemonic = "diesel receive upgrade earth risk chunk drive duck harsh orphan bulk bonus";
+var mnemonic = "album hedgehog enemy jar bullet globe mansion mammal where about ancient walk";

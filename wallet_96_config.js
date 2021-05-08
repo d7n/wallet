@@ -1,1 +1,1 @@
-var mnemonic = "device collect brain table forum waste key excuse grab afford file pony";
+var mnemonic = "expose teach build helmet flag scout lottery nature draft size camera initial";

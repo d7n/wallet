@@ -1,1 +1,1 @@
-var mnemonic = "mirror hill mandate illness citizen need clerk simple segment series prevent disease";
+var mnemonic = "art toast bitter twenty used fire sunset link cheap artwork rather adapt";

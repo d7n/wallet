@@ -1,1 +1,1 @@
-var mnemonic = "present media crash company rather range mango bone vapor board sunset regular";
+var mnemonic = "bullet spoil vote federal coral gate blanket one source quit giant enable";

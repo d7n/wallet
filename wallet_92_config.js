@@ -1,1 +1,1 @@
-var mnemonic = "fever diamond cluster unique brown leaf need mistake skate gallery surge south";
+var mnemonic = "right camera yellow remember anchor rice shallow shield gaze defense arctic easily";

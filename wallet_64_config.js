@@ -1,1 +1,1 @@
-var mnemonic = "fame squeeze arrive yard few lens neck very firm apology employ mention";
+var mnemonic = "just valid calm voice voyage eye analyst admit domain craft mention jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "century direct field derive embark rail rate hour pigeon physical bargain height";
+var mnemonic = "celery kite range seek salad oppose tennis slush kitchen dry unknown margin";

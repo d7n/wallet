@@ -1,1 +1,1 @@
-var mnemonic = "pact question mean hammer squeeze utility beach unaware spawn library crystal gravity";
+var mnemonic = "flush stumble token found venture perfect smooth return crystal provide tobacco cable";

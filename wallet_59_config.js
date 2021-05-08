@@ -1,1 +1,1 @@
-var mnemonic = "fun salt run river barely rule square drift fan maid panda stand";
+var mnemonic = "canal century retire puzzle small solve liquid ticket vault ahead autumn fan";

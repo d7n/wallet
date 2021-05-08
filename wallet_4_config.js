@@ -1,1 +1,1 @@
-var mnemonic = "figure giggle mail average borrow detail prepare grain whisper company giggle iron";
+var mnemonic = "sea velvet remind illness into drink vessel actress setup say brave brick";

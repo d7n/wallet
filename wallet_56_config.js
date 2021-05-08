@@ -1,1 +1,1 @@
-var mnemonic = "cousin task during slender sponsor prison foot annual evil ancient bean million";
+var mnemonic = "dirt false powder fossil shrug marine often gossip dragon lock praise sad";

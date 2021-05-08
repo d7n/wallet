@@ -1,1 +1,1 @@
-var mnemonic = "jeans motion service lens rough echo pattern quit east grab veteran receive";
+var mnemonic = "cherry nest symptom bid priority write strong cover audit scatter fox window";

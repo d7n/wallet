@@ -1,1 +1,1 @@
-var mnemonic = "pig carry demise purse lady champion focus doll monster rule left giraffe";
+var mnemonic = "wisdom public verb brass embrace state normal result abandon entry soda long";

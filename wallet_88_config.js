@@ -1,1 +1,1 @@
-var mnemonic = "pet among year word wrong hobby connect animal flee whisper clay quantum";
+var mnemonic = "pen tongue sun sight junk tobacco tongue infant travel dentist tennis sniff";

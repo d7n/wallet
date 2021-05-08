@@ -1,1 +1,1 @@
-var mnemonic = "shallow scissors draw express sausage impose burden salmon rent boil submit caution";
+var mnemonic = "hospital blood actual word off youth coconut deny egg fruit diesel cupboard";

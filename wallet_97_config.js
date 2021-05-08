@@ -1,1 +1,1 @@
-var mnemonic = "advance lottery saddle level ensure moment angle neck year fun used possible";
+var mnemonic = "cinnamon execute beauty patrol merry border recall mansion sand farm weather night";

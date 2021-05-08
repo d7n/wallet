@@ -1,1 +1,1 @@
-var mnemonic = "brother truly clerk coil quarter olympic wide hope tiger detail utility enter";
+var mnemonic = "staff soldier entire minimum squirrel metal cement forum smoke patrol web march";

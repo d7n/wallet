@@ -1,1 +1,1 @@
-var mnemonic = "state elder color install music execute install little pepper wine plunge convince";
+var mnemonic = "critic pipe mimic great coach element lady venture hint already depart width";

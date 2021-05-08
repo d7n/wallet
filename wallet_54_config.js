@@ -1,1 +1,1 @@
-var mnemonic = "hill spawn primary walk crash culture drill digital hollow phone camera abuse";
+var mnemonic = "cruel female picture hamster organ afraid drum swallow purpose guitar adjust faint";

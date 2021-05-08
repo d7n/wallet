@@ -1,1 +1,1 @@
-var mnemonic = "rent foam banner hobby message weasel welcome season pig material dinosaur onion";
+var mnemonic = "slam badge expire cactus bomb ask kiwi tape flight crack month pair";

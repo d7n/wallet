@@ -1,1 +1,1 @@
-var mnemonic = "abuse velvet hunt course spirit region scissors employ parade appear genuine beef";
+var mnemonic = "swap small thank jealous loyal law suggest blouse grace six circle sister";

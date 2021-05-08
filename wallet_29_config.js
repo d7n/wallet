@@ -1,1 +1,1 @@
-var mnemonic = "fiber wage loud blast smart fruit tired predict basket raise field deny";
+var mnemonic = "easily home wide property invite fish chef hunt law kitchen prison winter";

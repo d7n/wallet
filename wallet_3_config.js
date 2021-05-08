@@ -1,1 +1,1 @@
-var mnemonic = "oak mercy flame video parrot elephant tooth novel minor wonder intact border";
+var mnemonic = "juice seat bread comfort fatal balcony hammer february document section rely about";

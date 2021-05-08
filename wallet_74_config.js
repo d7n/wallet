@@ -1,1 +1,1 @@
-var mnemonic = "mixture catalog legend broccoli ensure happy picnic congress census orchard heavy result";
+var mnemonic = "put forest juice stairs latin sadness farm danger exercise dilemma clutch weasel";

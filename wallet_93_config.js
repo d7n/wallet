@@ -1,1 +1,1 @@
-var mnemonic = "glad select useless kidney winter gorilla churn tuition demand kit actual soap";
+var mnemonic = "pink sand afford enable toy same toward economy roof spawn own trap";

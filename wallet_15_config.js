@@ -1,1 +1,1 @@
-var mnemonic = "spread smooth scheme ahead focus figure beach canal column save slab random";
+var mnemonic = "license mask extend joy toy nest switch lion sleep eager enemy learn";

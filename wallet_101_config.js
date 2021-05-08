@@ -1,1 +1,1 @@
-var mnemonic = "garden arena know shiver quantum resemble expire start need moral stable purpose";
+var mnemonic = "pill length attract frown venture attract category top diesel seven resource guilt";

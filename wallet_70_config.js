@@ -1,1 +1,1 @@
-var mnemonic = "screen century child fabric second dose senior indicate skill impose liberty mixed";
+var mnemonic = "junior rare pool place annual flip lonely company flip adjust property moment";

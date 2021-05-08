@@ -1,1 +1,1 @@
-var mnemonic = "task solar organ net dream aunt yard like top noise joke need";
+var mnemonic = "run federal cement vital owner uphold text agree worth mammal lens present";

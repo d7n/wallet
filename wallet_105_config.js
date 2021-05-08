@@ -1,1 +1,1 @@
-var mnemonic = "snow raw author syrup globe ranch pulp trend essay either fever sentence";
+var mnemonic = "debate reveal absent mushroom buzz drum describe loan network dwarf catch razor";

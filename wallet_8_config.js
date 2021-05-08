@@ -1,1 +1,1 @@
-var mnemonic = "glare feed emerge device spin open casino wise stairs disagree member enough";
+var mnemonic = "company hire another fetch unfair author country moral deputy spread setup habit";

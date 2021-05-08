@@ -1,1 +1,1 @@
-var mnemonic = "cost guilt increase math that talk unaware habit target spoil just able";
+var mnemonic = "scrap finger enact appear cargo rough ride foil increase fancy blind drill";

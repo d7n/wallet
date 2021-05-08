@@ -1,1 +1,1 @@
-var mnemonic = "album stem tray party relief wage violin trumpet shock fog endorse able";
+var mnemonic = "spot effort size grass act clever hurry social vintage seven connect angry";

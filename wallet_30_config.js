@@ -1,1 +1,1 @@
-var mnemonic = "immune skill lyrics square impose affair area captain wave famous maze cave";
+var mnemonic = "chat helmet pepper celery trouble guilt oven genuine october nerve donate seven";

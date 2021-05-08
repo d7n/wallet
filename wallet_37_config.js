@@ -1,1 +1,1 @@
-var mnemonic = "curtain furnace notable kidney mean parrot teach present quick donkey canyon brush";
+var mnemonic = "reform ramp liquid avocado bamboo deny cloud steak measure early mystery sorry";

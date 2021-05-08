@@ -1,1 +1,1 @@
-var mnemonic = "debris cry poet time dad can thunder awake layer amount life twist";
+var mnemonic = "claim gas mesh try paper relax expose atom gauge knee fancy tuition";

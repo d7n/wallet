@@ -1,1 +1,1 @@
-var mnemonic = "mule help lazy cousin paper shy wrestle they suit leopard belt target";
+var mnemonic = "spy cargo thrive desk congress profit gorilla away struggle squirrel hover member";

@@ -1,1 +1,1 @@
-var mnemonic = "bus glimpse walk rely job twice brown seat ill radar lyrics behave";
+var mnemonic = "enter attack next crack glide edge battle truly cruise reject good dust";

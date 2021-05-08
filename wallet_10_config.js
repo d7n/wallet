@@ -1,1 +1,1 @@
-var mnemonic = "bitter eager hire whisper surround receive tray ordinary release hidden huge dilemma";
+var mnemonic = "stool lunch practice car treat hurt swallow welcome spike shy vocal audit";

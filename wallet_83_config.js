@@ -1,1 +1,1 @@
-var mnemonic = "cargo gun coil carbon naive crisp utility surprise festival portion toward transfer";
+var mnemonic = "endless pet foam basic truth club panda plug shrimp find elbow miracle";

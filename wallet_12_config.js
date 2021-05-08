@@ -1,1 +1,1 @@
-var mnemonic = "useful pony record sibling tent tunnel popular valley magic rural elder inspire";
+var mnemonic = "remind keen type soul hollow attend siren armed check early finish leopard";

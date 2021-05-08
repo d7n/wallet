@@ -1,1 +1,1 @@
-var mnemonic = "aisle mesh sphere girl innocent lazy please fiscal someone cloud initial disorder";
+var mnemonic = "daughter cry october talent provide length owner hundred alter convince captain twelve";

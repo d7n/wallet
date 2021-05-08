@@ -1,1 +1,1 @@
-var mnemonic = "project major rain steak verify stove parent green inflict trip update approve";
+var mnemonic = "leopard alley pause joke pledge expose theory way toddler brush poem edit";

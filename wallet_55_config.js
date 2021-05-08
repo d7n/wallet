@@ -1,1 +1,1 @@
-var mnemonic = "trim evolve bridge sorry youth ten keen safe steel ball rotate credit";
+var mnemonic = "segment crucial recycle globe judge smoke upon flag interest flight country clay";

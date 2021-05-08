@@ -1,1 +1,1 @@
-var mnemonic = "intact super deposit fine speed check merit raise excite grant truck elder";
+var mnemonic = "truly bulk rule shy album attitude poet swallow name hedgehog arrest pair";

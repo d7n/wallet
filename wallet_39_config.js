@@ -1,1 +1,1 @@
-var mnemonic = "chair company wave laptop laugh early wave voyage journey caught forest unhappy";
+var mnemonic = "proud capital van cross solid gentle margin oil size hair segment hedgehog";

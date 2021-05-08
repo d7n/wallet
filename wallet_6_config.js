@@ -1,1 +1,1 @@
-var mnemonic = "essence ball man long legal wrong coach calm camera patch album movie";
+var mnemonic = "output tree broccoli knee aim flight inch spirit issue hat lift bind";

@@ -1,1 +1,1 @@
-var mnemonic = "table affair island suffer venture genius moon soul census hill trip today";
+var mnemonic = "math foster actress whisper unhappy leaf embark boring smooth vacant tissue domain";

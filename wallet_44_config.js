@@ -1,1 +1,1 @@
-var mnemonic = "rifle mouse eyebrow inform crowd never pulse arrest notice marble cart fiction";
+var mnemonic = "bundle until bid gym speak lesson stomach soccer desert connect forward wait";

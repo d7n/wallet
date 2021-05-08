@@ -1,1 +1,1 @@
-var mnemonic = "enroll reduce extra spend elegant suit outdoor alien win increase illegal fiber";
+var mnemonic = "chimney crush kitten brave burger wealth avoid south squirrel crunch rent evolve";

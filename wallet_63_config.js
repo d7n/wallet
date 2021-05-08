@@ -1,1 +1,1 @@
-var mnemonic = "catch action stone trouble laugh hat quote display neutral fetch smart human";
+var mnemonic = "bean throw alley merry common try describe cable humor calm wrist amused";

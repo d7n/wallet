@@ -1,1 +1,1 @@
-var mnemonic = "abuse negative chair cup vapor deer travel satisfy lonely moon shiver pelican";
+var mnemonic = "humble security match reveal frost card olympic urban ill good day panda";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle drip gravity rival canal wealth bottom dial belt spare address erode";
+var mnemonic = "erupt smooth lunar approve odor foam accident net rule rice shadow impact";

@@ -1,1 +1,1 @@
-var mnemonic = "radar valve what drama wool kind glue invite awake mix nation age";
+var mnemonic = "long agent rhythm kidney involve quiz trade diary surround soft monkey brown";

@@ -1,1 +1,1 @@
-var mnemonic = "dash away bean must script movie actual guess praise fossil toe foot";
+var mnemonic = "trust example nerve kid culture trust praise dove put demise giant olive";

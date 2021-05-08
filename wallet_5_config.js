@@ -1,1 +1,1 @@
-var mnemonic = "foster voice grow van wet enemy sing hero toilet tired average dismiss";
+var mnemonic = "ladder alien vibrant rocket ball mixture visa avoid where thought frame fantasy";
