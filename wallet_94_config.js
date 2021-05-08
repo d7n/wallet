@@ -1,1 +1,1 @@
-var mnemonic = "dial half promote embody fever dirt slush find large family menu sight";
+var mnemonic = "foil board lunar armor category best unveil cannon silk retreat nerve say";

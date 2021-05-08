@@ -1,1 +1,1 @@
-var mnemonic = "when access panel amazing net engage nuclear life glass cube gossip negative";
+var mnemonic = "strategy april claim special punch over all trouble deliver interest warrior topple";

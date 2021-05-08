@@ -1,1 +1,1 @@
-var mnemonic = "swallow rural robust captain elite slice because ready similar hood major home";
+var mnemonic = "return lucky bottom peace improve movie spray runway topple ahead pistol victory";

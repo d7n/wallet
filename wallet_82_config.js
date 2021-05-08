@@ -1,1 +1,1 @@
-var mnemonic = "reward parade spoon auto duty indoor excite level frame random axis judge";
+var mnemonic = "peace airport lift industry volume wedding index distance dash fury fall switch";

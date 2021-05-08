@@ -1,1 +1,1 @@
-var mnemonic = "loud cheap cram isolate material grape priority harvest unhappy shed spice favorite";
+var mnemonic = "idea alien palace theory palace enemy surround silver kid record follow assault";

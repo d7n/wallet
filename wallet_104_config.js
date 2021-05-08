@@ -1,1 +1,1 @@
-var mnemonic = "slot item diet license snow display small off cargo weather affair amazing";
+var mnemonic = "point cabin ladder dignity flame father sugar report grace arrive strike twice";

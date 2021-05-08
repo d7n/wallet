@@ -1,1 +1,1 @@
-var mnemonic = "artefact fee coast false cute live fall balcony love pistol universe question";
+var mnemonic = "supreme around bubble glory harsh various vault churn swallow nice cruise menu";

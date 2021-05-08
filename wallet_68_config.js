@@ -1,1 +1,1 @@
-var mnemonic = "vote hollow destroy alcohol suspect muscle horse enter frost upon balance neglect";
+var mnemonic = "siege lazy cannon canvas abuse casino fit soap crystal enable bitter manage";

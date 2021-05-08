@@ -1,1 +1,1 @@
-var mnemonic = "dog bread dream prefer name scan essay garlic fuel floor tissue sunset";
+var mnemonic = "antenna point duck comic admit glimpse type file tackle double stadium anger";

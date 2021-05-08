@@ -1,1 +1,1 @@
-var mnemonic = "slab outside choose breeze rigid because clever device absorb toy crime have";
+var mnemonic = "vast seed burger cheese regular truck stand evil begin hole hold speed";

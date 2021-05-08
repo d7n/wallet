@@ -1,1 +1,1 @@
-var mnemonic = "aisle abstract toilet salon brush tourist talent angry ship during remind ginger";
+var mnemonic = "skate cargo donor refuse garbage stumble artist struggle scan twelve wave anxiety";

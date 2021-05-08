@@ -1,1 +1,1 @@
-var mnemonic = "capital silver lock hint custom kitten future climb typical lazy neutral buzz";
+var mnemonic = "rough idea logic worth unable say brisk just erode define vintage shrug";

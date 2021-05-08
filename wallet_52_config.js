@@ -1,1 +1,1 @@
-var mnemonic = "tourist voice pulse wreck divorce argue episode street spawn aware wink music";
+var mnemonic = "mad figure hire source insane shield supreme omit client veteran pole green";

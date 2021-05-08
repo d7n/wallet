@@ -1,1 +1,1 @@
-var mnemonic = "guard drastic network dragon ask damp income upon odor stage spare name";
+var mnemonic = "solid arrest drama catch scissors stock gospel park loyal popular length spice";

@@ -1,1 +1,1 @@
-var mnemonic = "copper assist tell caution knife addict decade october music cabin rubber skirt";
+var mnemonic = "fetch inject stable kid inflict leader please intact label mirror grow winner";

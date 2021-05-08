@@ -1,1 +1,1 @@
-var mnemonic = "word uniform kick hood they found own flight odor error winner yellow";
+var mnemonic = "annual vote please allow front music tomato burden judge blade uniform nice";

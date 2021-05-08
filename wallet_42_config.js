@@ -1,1 +1,1 @@
-var mnemonic = "deal bamboo stage pig fiction sort world music park dizzy wear palace";
+var mnemonic = "addict spend kite vanish clog panda misery bamboo prison cluster top coil";

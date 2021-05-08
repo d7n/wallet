@@ -1,1 +1,1 @@
-var mnemonic = "breeze denial repeat negative seminar vehicle analyst talk dry ensure sail gun";
+var mnemonic = "damage hunt word burger skull mention mango main artefact artefact inherit spatial";

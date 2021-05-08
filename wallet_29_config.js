@@ -1,1 +1,1 @@
-var mnemonic = "rabbit vocal bench neutral east forest food absurd picture caught champion hedgehog";
+var mnemonic = "strong forest delay offer crouch join throw submit true hen wrap piece";

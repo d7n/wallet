@@ -1,1 +1,1 @@
-var mnemonic = "figure april holiday soul special swallow business vapor stamp inch athlete prepare";
+var mnemonic = "carpet ankle grant plate rescue problem tobacco rubber accuse coach sure box";

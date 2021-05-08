@@ -1,1 +1,1 @@
-var mnemonic = "paddle main gown cloth bicycle lens travel media glimpse carbon paddle sun";
+var mnemonic = "flower coyote current kit spin possible soul jealous brain describe trumpet negative";

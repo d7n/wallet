@@ -1,1 +1,1 @@
-var mnemonic = "charge issue load push kitten dust eight motor denial cube report stairs";
+var mnemonic = "lava moon connect cool eagle teach yard thought nerve junior priority jazz";

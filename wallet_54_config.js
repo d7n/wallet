@@ -1,1 +1,1 @@
-var mnemonic = "salute clap faint choice eye meat rack donor visual weekend relax human";
+var mnemonic = "print lift age oxygen claw behind barely sausage clown banana diet student";

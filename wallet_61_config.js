@@ -1,1 +1,1 @@
-var mnemonic = "name trophy surprise awful grit kangaroo noise elevator gate nasty sudden quote";
+var mnemonic = "celery web river memory elbow metal wild eager meadow such trash duck";

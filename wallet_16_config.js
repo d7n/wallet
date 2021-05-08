@@ -1,1 +1,1 @@
-var mnemonic = "give salute field quiz leisure language umbrella title mask task turtle toss";
+var mnemonic = "print eagle rent survey expose coyote ancient you anxiety plunge few blanket";

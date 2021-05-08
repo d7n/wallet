@@ -1,1 +1,1 @@
-var mnemonic = "behind toast impose foil glance frame culture luxury frost minute citizen remember";
+var mnemonic = "demise fitness wing zebra summer know butter angry trick fold coyote local";

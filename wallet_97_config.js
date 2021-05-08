@@ -1,1 +1,1 @@
-var mnemonic = "square above weather sword thing address artefact elder such cruise rely fat";
+var mnemonic = "switch average prison beauty delay ritual else clutch punch beach unusual mule";

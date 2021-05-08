@@ -1,1 +1,1 @@
-var mnemonic = "stone huge heart creek tool salt sustain artist ball razor vibrant opera";
+var mnemonic = "remind key deposit acoustic humble accident claim mutual capable skull gossip frog";

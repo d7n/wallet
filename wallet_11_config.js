@@ -1,1 +1,1 @@
-var mnemonic = "nasty slot gym nurse hint grace problem elite enough say manual define";
+var mnemonic = "soap protect price fine urban garbage empower economy box oxygen brick crush";

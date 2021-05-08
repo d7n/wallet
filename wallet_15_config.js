@@ -1,1 +1,1 @@
-var mnemonic = "rescue forget stool cube useless quantum all know just hood aim flag";
+var mnemonic = "depend student walnut pioneer snap define journey palace judge flash weird neutral";

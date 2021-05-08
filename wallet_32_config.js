@@ -1,1 +1,1 @@
-var mnemonic = "caution embark tumble mistake situate annual auto title make garden game snow";
+var mnemonic = "enlist response else marble spawn dance barrel deputy plate page maid miracle";

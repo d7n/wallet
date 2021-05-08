@@ -1,1 +1,1 @@
-var mnemonic = "black team discover fall beach lemon deposit turkey two village knock special";
+var mnemonic = "goddess aunt urge nephew mention enable patch knee glance inspire peanut august";

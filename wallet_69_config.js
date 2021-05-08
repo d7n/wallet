@@ -1,1 +1,1 @@
-var mnemonic = "audit step movie enemy someone any miss razor crop bundle soft stamp";
+var mnemonic = "adapt time dish you journey tube window rail smile any small dirt";

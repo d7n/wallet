@@ -1,1 +1,1 @@
-var mnemonic = "spoil favorite orient shield volume cave make clock amused brain puppy divert";
+var mnemonic = "diamond ability fury cactus pluck gallery apology rule track lottery anchor exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "quit item decide click enroll aunt assist seed soldier guard unable muffin";
+var mnemonic = "panda track balance speed armed include party broccoli drink woman orphan auction";

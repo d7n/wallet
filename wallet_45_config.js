@@ -1,1 +1,1 @@
-var mnemonic = "diamond learn melody between sunset menu arrest usual love excite problem meadow";
+var mnemonic = "guard dad cereal brief memory second spread ship repeat bid aspect youth";

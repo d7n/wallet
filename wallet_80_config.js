@@ -1,1 +1,1 @@
-var mnemonic = "clinic rescue neither dinner license train sorry jaguar leave since century swallow";
+var mnemonic = "mask render rather office wasp neglect fabric vendor there motion online pepper";

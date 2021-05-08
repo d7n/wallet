@@ -1,1 +1,1 @@
-var mnemonic = "sister fitness include olive height upset sense devote zero venture resource south";
+var mnemonic = "bridge strike rural north chronic aware hurry goat radio only extra accuse";

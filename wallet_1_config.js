@@ -1,1 +1,1 @@
-var mnemonic = "proof code laundry edge popular input kingdom wood hazard senior neglect satoshi";
+var mnemonic = "surge cushion cool envelope awkward horse swap absent off inquiry success pipe";

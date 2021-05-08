@@ -1,1 +1,1 @@
-var mnemonic = "clutch faith piece derive label leisure dust spirit unveil abuse gift camp";
+var mnemonic = "advance throw zero curve april boss double appear pupil logic mixed tennis";

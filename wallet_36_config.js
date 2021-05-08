@@ -1,1 +1,1 @@
-var mnemonic = "act enough inherit aspect aerobic struggle cement carpet damage double route note";
+var mnemonic = "brisk coyote purity pair renew orient ten pony enable axis nation endorse";

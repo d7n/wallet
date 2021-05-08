@@ -1,1 +1,1 @@
-var mnemonic = "bubble recall bacon pulp wrap snack brand summer govern embody save maid";
+var mnemonic = "case another ordinary truly maximum fold race wonder round horse erode spin";

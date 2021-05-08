@@ -1,1 +1,1 @@
-var mnemonic = "orphan hidden escape weapon vacant electric flag admit shrug health fiber chronic";
+var mnemonic = "joke organ curve local hospital mirror build step sick logic tail entry";

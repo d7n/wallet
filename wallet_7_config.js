@@ -1,1 +1,1 @@
-var mnemonic = "detail comic pull swift fantasy home access road lady buzz home own";
+var mnemonic = "provide buzz demand purse essence time mirror dice brick crouch equip pelican";

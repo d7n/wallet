@@ -1,1 +1,1 @@
-var mnemonic = "oyster body ramp sign execute pig length muscle genuine eyebrow school dad";
+var mnemonic = "shove tonight way news badge pull immune slush air across client ostrich";

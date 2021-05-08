@@ -1,1 +1,1 @@
-var mnemonic = "evil father crater live real stove service oak olympic expose chimney surprise";
+var mnemonic = "aerobic quiz sister master family mixture please carbon slight hammer phone barely";

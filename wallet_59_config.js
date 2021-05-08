@@ -1,1 +1,1 @@
-var mnemonic = "route country hedgehog drip ramp violin end tortoise angle crop pen because";
+var mnemonic = "pink faculty family vehicle tooth holiday bind march close plate ordinary mesh";

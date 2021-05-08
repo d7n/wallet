@@ -1,1 +1,1 @@
-var mnemonic = "elevator stadium sibling nuclear mountain color harbor topic hire meadow nation art";
+var mnemonic = "enrich castle cube sibling jaguar crucial intact right resource false expand access";

@@ -1,1 +1,1 @@
-var mnemonic = "know pass unfold boy biology cat recall zone regular match history task";
+var mnemonic = "resource rich young divide recall smile slide cabbage renew puppy lobster cannon";

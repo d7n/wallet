@@ -1,1 +1,1 @@
-var mnemonic = "media embrace equip slam click thumb fiction put drink mosquito bind mixture";
+var mnemonic = "ethics penalty coil ice soap sad extend original discover amused manual ranch";

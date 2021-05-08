@@ -1,1 +1,1 @@
-var mnemonic = "mouse peanut rhythm service sketch minor swift sketch penalty shaft notable stool";
+var mnemonic = "rent seat wedding gesture learn hour melt this margin toddler bulk icon";

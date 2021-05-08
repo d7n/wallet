@@ -1,1 +1,1 @@
-var mnemonic = "combine various square post one antenna alert amazing pupil key paper few";
+var mnemonic = "lunch shoe dose armed net panda hub rabbit lumber tomato news visa";

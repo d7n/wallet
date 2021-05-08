@@ -1,1 +1,1 @@
-var mnemonic = "outdoor air emotion danger next purity mushroom pause riot forest target also";
+var mnemonic = "tower cattle attend suggest silly matter crane nut apology era fire file";

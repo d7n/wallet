@@ -1,1 +1,1 @@
-var mnemonic = "time gym order siren alpha position total club elder confirm various thumb";
+var mnemonic = "firm arrive early cupboard brisk delay art notable night spice concert inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "elder gas best control gloom fringe ancient glad true similar menu process";
+var mnemonic = "eight install forward swing laugh veteran jaguar weapon author stock note chalk";

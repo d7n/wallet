@@ -1,1 +1,1 @@
-var mnemonic = "glimpse repeat stool monitor polar gift brush analyst produce state hour chapter";
+var mnemonic = "live artefact stool elite case rate gaze game draw sniff message weekend";

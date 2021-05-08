@@ -1,1 +1,1 @@
-var mnemonic = "parrot observe chase salon make drop nest sell magic object digital whip";
+var mnemonic = "tobacco blind owner clap awful alpha squeeze attend rule race exact swamp";

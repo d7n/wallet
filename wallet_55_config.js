@@ -1,1 +1,1 @@
-var mnemonic = "rail void door defy nose deal unfold broom input flat cash marriage";
+var mnemonic = "worry drip blanket flush injury faint imitate unhappy tiny tackle renew scatter";

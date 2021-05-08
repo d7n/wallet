@@ -1,1 +1,1 @@
-var mnemonic = "repair vintage enjoy old wood arena frame just detail mouse misery awkward";
+var mnemonic = "toddler forest dismiss grief horn goat apart impact drive dune update crime";

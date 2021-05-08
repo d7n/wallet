@@ -1,1 +1,1 @@
-var mnemonic = "surge borrow aunt idea receive art glide carbon include link still tunnel";
+var mnemonic = "major tenant festival rich wrap acid ripple tooth flee word accident waste";

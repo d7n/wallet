@@ -1,1 +1,1 @@
-var mnemonic = "return boy shoe outdoor renew version rigid fold useful outer marriage eyebrow";
+var mnemonic = "start mango advance picture sense accuse review violin fresh decade alpha donkey";

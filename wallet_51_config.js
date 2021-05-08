@@ -1,1 +1,1 @@
-var mnemonic = "tragic vocal kingdom loan canyon congress rely blur auto spawn budget drama";
+var mnemonic = "hero hollow ten wet success clip flee route battle toe elegant steak";

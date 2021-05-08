@@ -1,1 +1,1 @@
-var mnemonic = "predict curve awful satisfy ship couch simple ghost text gather detect right";
+var mnemonic = "drive brick view ginger step century ocean type april doctor witness wild";

@@ -1,1 +1,1 @@
-var mnemonic = "salt transfer ordinary lion burst prosper shine render puzzle exchange orange corn";
+var mnemonic = "merge antenna enemy core screen honey gauge moral connect crisp exact document";

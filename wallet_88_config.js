@@ -1,1 +1,1 @@
-var mnemonic = "inflict coffee usage toss edge soup crew cradle matter clarify mad cross";
+var mnemonic = "arm physical gas video knock fix aware famous leaf remind remain soap";

@@ -1,1 +1,1 @@
-var mnemonic = "quote primary train usage vault dizzy learn steak plate modify success clump";
+var mnemonic = "announce clutch marriage purse tackle few second fabric next drill diesel dance";

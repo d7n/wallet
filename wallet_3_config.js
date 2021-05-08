@@ -1,1 +1,1 @@
-var mnemonic = "perfect claw finish friend cannon month soccer behind music surface lottery weird";
+var mnemonic = "limit push silent duck flat spell gossip call hope love appear crunch";

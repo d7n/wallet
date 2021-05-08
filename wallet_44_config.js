@@ -1,1 +1,1 @@
-var mnemonic = "index keep isolate rapid sun flavor pole wine urge album foot blur";
+var mnemonic = "safe oil laptop process fame loud devote size zero loop foil discover";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen pottery habit climb sing curve hunt visa debris taxi whisper supreme";
+var mnemonic = "catch ivory vacant regret donkey file celery foil wide pulp amused can";

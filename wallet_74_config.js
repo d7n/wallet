@@ -1,1 +1,1 @@
-var mnemonic = "affair idle swap jelly word remove fruit edge involve mad anger merit";
+var mnemonic = "goat gaze win nuclear excite shock rhythm strong board release quarter flush";

@@ -1,1 +1,1 @@
-var mnemonic = "range disorder diet scout vacant surge sponsor proof side merry inspire sentence";
+var mnemonic = "sudden weasel tumble cement road pool sausage great valley comfort survey slide";

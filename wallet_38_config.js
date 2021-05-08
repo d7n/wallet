@@ -1,1 +1,1 @@
-var mnemonic = "embrace brick save rifle clean stone leader what problem host jaguar car";
+var mnemonic = "poem bike proof raven wisdom head monkey require manage clown become load";

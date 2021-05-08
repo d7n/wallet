@@ -1,1 +1,1 @@
-var mnemonic = "tenant present kit anchor business urban become icon dynamic crucial belt subway";
+var mnemonic = "fork butter practice champion cousin soda news nose reform excite lounge appear";

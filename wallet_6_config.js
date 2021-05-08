@@ -1,1 +1,1 @@
-var mnemonic = "crane panic orange parrot purse include govern reflect fox banner burger poverty";
+var mnemonic = "arch supreme umbrella equip raven just inch voice design purse enhance among";

@@ -1,1 +1,1 @@
-var mnemonic = "pass private ankle suit balcony upset apple more soda chief tattoo moral";
+var mnemonic = "exotic poverty bean advice duck harvest tiger sunset february marine noodle depart";

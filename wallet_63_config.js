@@ -1,1 +1,1 @@
-var mnemonic = "winter wasp joy slight among domain debris boy black miss gossip derive";
+var mnemonic = "device next solar vessel lottery scheme dust breeze what adult leg balance";

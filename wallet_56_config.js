@@ -1,1 +1,1 @@
-var mnemonic = "melt squeeze help matter accuse trial misery session island inspire denial betray";
+var mnemonic = "small dad gasp occur cupboard avocado cart badge person harbor grunt gold";

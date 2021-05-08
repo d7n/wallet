@@ -1,1 +1,1 @@
-var mnemonic = "ecology digital express quote maximum globe cupboard vacuum uncle degree embrace final";
+var mnemonic = "elegant lift inmate beyond sort output basic survey dog solar submit salmon";

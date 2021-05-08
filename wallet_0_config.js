@@ -1,1 +1,1 @@
-var mnemonic = "champion harsh alpha pen try hurry bright thought stove battle search silver";
+var mnemonic = "left mercy remind total region worry limb black virtual render car ski";

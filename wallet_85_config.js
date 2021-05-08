@@ -1,1 +1,1 @@
-var mnemonic = "egg casual push life sport exact armor wrap kiwi popular flock crush";
+var mnemonic = "vital dinosaur attend budget punch cradle judge opinion thumb minute stand wall";

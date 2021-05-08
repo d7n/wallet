@@ -1,1 +1,1 @@
-var mnemonic = "menu lobster glove valid east wet confirm gain misery person weekend twenty";
+var mnemonic = "undo dignity bronze utility need also clog crumble very forum library ability";

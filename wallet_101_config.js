@@ -1,1 +1,1 @@
-var mnemonic = "tape author caught replace mystery blanket arch evidence entry fragile crush clutch";
+var mnemonic = "indoor sentence pupil inject volcano dry ship trial prepare million leave meat";

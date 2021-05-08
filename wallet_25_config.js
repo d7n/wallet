@@ -1,1 +1,1 @@
-var mnemonic = "carpet dutch garment absurd leader tobacco keep account mutual clog item radar";
+var mnemonic = "cube timber hazard brush voice more describe brave derive cinnamon top later";

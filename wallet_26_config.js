@@ -1,1 +1,1 @@
-var mnemonic = "ranch boil zero early ritual voice success north accident raw dance mandate";
+var mnemonic = "current color pupil pencil slender pyramid tattoo empty repeat erosion problem jealous";

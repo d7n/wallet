@@ -1,1 +1,1 @@
-var mnemonic = "dutch raise twist model creek sting lady pizza dune actual ripple during";
+var mnemonic = "want swarm add observe above pulse must away random bring rich dish";

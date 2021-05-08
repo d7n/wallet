@@ -1,1 +1,1 @@
-var mnemonic = "old fantasy peace hedgehog rug unit almost buddy throw insect rack wide";
+var mnemonic = "print december benefit index mandate point fee during ceiling clap six funny";

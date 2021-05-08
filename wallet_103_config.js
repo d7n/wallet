@@ -1,1 +1,1 @@
-var mnemonic = "drama link blush there lizard rather tone cool room top city tackle";
+var mnemonic = "cycle combine crystal junk melody pigeon steak amazing brush metal morning pink";

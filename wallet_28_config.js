@@ -1,1 +1,1 @@
-var mnemonic = "expose slight steak pencil cool exotic decline spatial smart goat disease arm";
+var mnemonic = "morning fame auction mammal sword zero color novel oven minor car canal";

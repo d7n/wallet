@@ -1,1 +1,1 @@
-var mnemonic = "voyage misery foam grass rescue vapor learn robot sustain rely beauty alarm";
+var mnemonic = "tip marriage achieve pelican post fuel obscure stool magic later tilt chat";

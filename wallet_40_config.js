@@ -1,1 +1,1 @@
-var mnemonic = "load nose tent mystery assist offer brave fetch debate letter worth boost";
+var mnemonic = "reform cause chair evolve oppose fruit delay exercise corn game south student";

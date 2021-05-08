@@ -1,1 +1,1 @@
-var mnemonic = "pond parrot spike weather canvas chair laundry special dice ostrich slogan adult";
+var mnemonic = "hobby bundle home legal emotion liberty neck scheme donor start describe ginger";

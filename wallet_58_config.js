@@ -1,1 +1,1 @@
-var mnemonic = "awake sniff outer betray candy raise sudden frown cage truly popular tell";
+var mnemonic = "trumpet assault antique woman taste vessel leave milk furnace rate prosper mobile";

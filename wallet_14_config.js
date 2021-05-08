@@ -1,1 +1,1 @@
-var mnemonic = "anger vibrant memory search vague love memory allow reform analyst stove clever";
+var mnemonic = "figure horror general raccoon fetch hockey base sting advice tool crack join";

@@ -1,1 +1,1 @@
-var mnemonic = "discover reform flower dial moment clip item cycle volcano brisk either pool";
+var mnemonic = "catch answer clinic puzzle major have alone guess clinic illegal brick furnace";

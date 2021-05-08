@@ -1,1 +1,1 @@
-var mnemonic = "stadium quality round chase mule main situate slim youth dumb iron park";
+var mnemonic = "female canal sphere utility zoo duck fiction relax enter behind matrix spice";
