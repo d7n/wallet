@@ -1,1 +1,1 @@
-var mnemonic = "reject roof mango dose silent weather hammer decline skin group exit jaguar";
+var mnemonic = "brush burst unusual rose zebra win lamp search village proud sense prepare";

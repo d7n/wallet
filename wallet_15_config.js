@@ -1,1 +1,1 @@
-var mnemonic = "soap alley draft velvet cute leaf dignity near fiscal rent dune rebel";
+var mnemonic = "high trim jelly accident catalog pledge suffer surface inhale smoke memory actor";

@@ -1,1 +1,1 @@
-var mnemonic = "field dumb long tide balcony merit arm attitude buyer true raccoon swamp";
+var mnemonic = "such tooth car muscle decrease salon path photo matter jar success hold";

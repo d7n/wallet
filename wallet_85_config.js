@@ -1,1 +1,1 @@
-var mnemonic = "twin mother flip click forest patient used unfair brick solution area claim";
+var mnemonic = "verify shield soup business render zoo unveil romance shine beef used belt";

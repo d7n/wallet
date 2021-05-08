@@ -1,1 +1,1 @@
-var mnemonic = "kit shiver begin torch attract palm list language mad chunk cabbage pipe";
+var mnemonic = "employ emerge alien tongue danger meadow pride dice essay sun such kiwi";

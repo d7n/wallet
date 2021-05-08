@@ -1,1 +1,1 @@
-var mnemonic = "tiger burden theory orphan negative slender question junk material vessel disagree float";
+var mnemonic = "issue surround blanket life diesel list antenna enter device wool caught error";

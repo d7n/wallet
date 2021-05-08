@@ -1,1 +1,1 @@
-var mnemonic = "runway please prison keen horror episode organ convince capable cereal usual olympic";
+var mnemonic = "chapter nest easily coin record quick gravity latin solve shell grab casual";

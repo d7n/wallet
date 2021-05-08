@@ -1,1 +1,1 @@
-var mnemonic = "cereal garbage bomb damp discover girl shove stable royal convince organ pet";
+var mnemonic = "security inform potato fog flash illegal track abuse peace student legend strategy";

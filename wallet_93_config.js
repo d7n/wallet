@@ -1,1 +1,1 @@
-var mnemonic = "duty title canyon rose ladder turtle ladder rough discover seat elbow glad";
+var mnemonic = "barrel census learn setup okay mansion network monkey almost sibling until pass";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus rail car reward tissue proof calm bullet noise extend whisper winter";
+var mnemonic = "cancel endorse pig duty sausage fence hood latin junior speed wide moon";

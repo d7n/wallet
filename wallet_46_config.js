@@ -1,1 +1,1 @@
-var mnemonic = "runway mango brain snow brisk people rate grow define minute dice disagree";
+var mnemonic = "crawl just weasel blame deposit divert damage enter inside ahead cloth lonely";

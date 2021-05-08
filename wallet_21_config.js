@@ -1,1 +1,1 @@
-var mnemonic = "exercise verb paddle screen summer shrimp answer vast mass timber emerge arrow";
+var mnemonic = "solid radio into hamster sport side tuna arrange goddess tackle payment detect";

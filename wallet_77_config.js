@@ -1,1 +1,1 @@
-var mnemonic = "wave decrease boy naive boy spoil small multiply vendor vast letter skull";
+var mnemonic = "flock property nose satisfy supply quiz bottom will fruit praise mango color";

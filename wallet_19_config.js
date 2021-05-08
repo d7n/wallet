@@ -1,1 +1,1 @@
-var mnemonic = "chest soul prison caught finish profit danger impact slot dawn high vacant";
+var mnemonic = "elbow panic blade alarm under win pottery kick wage tail buzz useful";

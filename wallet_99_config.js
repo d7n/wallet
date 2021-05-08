@@ -1,1 +1,1 @@
-var mnemonic = "cabbage random peace advice sense twelve smooth media notable vote snake price";
+var mnemonic = "civil spin tray topic accident afford cube olympic put blue father stay";

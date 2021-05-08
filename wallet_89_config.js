@@ -1,1 +1,1 @@
-var mnemonic = "smile version west desert lobster crane flag bird boat depth kiwi trip";
+var mnemonic = "ready spread proud kitchen coast gun foster nurse wedding slogan during easily";

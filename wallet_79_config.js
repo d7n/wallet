@@ -1,1 +1,1 @@
-var mnemonic = "coyote shock doctor elevator lobster harsh afraid brain disease excite exhaust that";
+var mnemonic = "toss robot area churn catch behave priority piece market rose immune draw";

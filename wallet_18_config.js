@@ -1,1 +1,1 @@
-var mnemonic = "mouse move stay wrap praise pumpkin chuckle feed wing awesome real hotel";
+var mnemonic = "cloth marriage route blur menu edge gate analyst another biology tree option";

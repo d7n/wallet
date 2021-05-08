@@ -1,1 +1,1 @@
-var mnemonic = "able gorilla game repair lecture year lift visual olive hamster change shiver";
+var mnemonic = "comic youth fork next bubble duck junior spoil voice art borrow valve";

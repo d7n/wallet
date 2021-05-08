@@ -1,1 +1,1 @@
-var mnemonic = "corn turn nice air idle liquid advice token eight knock whisper chapter";
+var mnemonic = "three slow mosquito moon veteran expand book view piece enable shine public";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble bone rather elevator clay satisfy cool whisper uphold rice secret village";
+var mnemonic = "fashion like machine frozen special submit nominee ski despair slender safe wire";

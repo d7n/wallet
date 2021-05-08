@@ -1,1 +1,1 @@
-var mnemonic = "cat mountain trumpet room rare sausage glide drink honey seminar fault layer";
+var mnemonic = "accident response work valley giant hand gate skirt speak endless between devote";

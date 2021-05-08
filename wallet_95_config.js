@@ -1,1 +1,1 @@
-var mnemonic = "blouse viable finger liquid secret power design bubble follow topic hire axis";
+var mnemonic = "movie fish design spirit sleep brave tag chuckle alert green wheat celery";

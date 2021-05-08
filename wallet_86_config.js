@@ -1,1 +1,1 @@
-var mnemonic = "despair absorb vicious hire develop anchor food poem talk alien fantasy hero";
+var mnemonic = "water rhythm expose egg twenty dream stove ignore brush park dolphin fly";

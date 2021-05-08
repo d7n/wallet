@@ -1,1 +1,1 @@
-var mnemonic = "clerk please roof defy reflect that exclude eternal infant place tortoise output";
+var mnemonic = "marriage match embark bracket either mystery range misery stick canvas destroy unique";

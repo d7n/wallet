@@ -1,1 +1,1 @@
-var mnemonic = "toe flush broom fall assist awake lazy version vessel citizen equip brave";
+var mnemonic = "age join document prison faith middle recall clarify alien vote marine tornado";

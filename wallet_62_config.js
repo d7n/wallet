@@ -1,1 +1,1 @@
-var mnemonic = "topple knee renew make lend million impose suffer grunt feature garlic differ";
+var mnemonic = "ahead caution notable avoid embrace bamboo harsh erase myth wife bring assist";

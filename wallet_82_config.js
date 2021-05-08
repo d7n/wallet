@@ -1,1 +1,1 @@
-var mnemonic = "claw notable scan admit salt second strong plastic shrug lady pride neither";
+var mnemonic = "decide west toast cool cliff hospital gift blouse title range vague health";

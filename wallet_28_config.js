@@ -1,1 +1,1 @@
-var mnemonic = "tissue abandon field silent occur where sense normal inmate lesson glide upper";
+var mnemonic = "meadow peace brief pen poem rabbit tornado century ginger crash jealous busy";

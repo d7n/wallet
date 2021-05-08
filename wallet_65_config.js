@@ -1,1 +1,1 @@
-var mnemonic = "control picnic illness neck hair awkward long quote judge object proud cover";
+var mnemonic = "inherit rate decrease toss crash nerve muffin brain crack photo bean pole";

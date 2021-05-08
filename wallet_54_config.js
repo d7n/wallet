@@ -1,1 +1,1 @@
-var mnemonic = "melt require exile sport lawn shell find eye tide delay upper congress";
+var mnemonic = "clap clay april food guess sausage review truck vapor obtain spend model";

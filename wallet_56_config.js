@@ -1,1 +1,1 @@
-var mnemonic = "echo promote coil exercise panic destroy worry truth squeeze toward bamboo best";
+var mnemonic = "night rebuild have swamp insane car core auction armed nominee print state";

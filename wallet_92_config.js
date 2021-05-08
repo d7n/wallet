@@ -1,1 +1,1 @@
-var mnemonic = "judge drop client excess audit night casino cruise bridge minimum essence budget";
+var mnemonic = "rhythm raw chase rude smooth ecology sister spring buyer blue diagram grain";

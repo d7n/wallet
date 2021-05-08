@@ -1,1 +1,1 @@
-var mnemonic = "mercy dwarf rug crack original brother light step witness harvest someone ozone";
+var mnemonic = "gain away photo blind confirm flee credit buyer simple response sniff state";

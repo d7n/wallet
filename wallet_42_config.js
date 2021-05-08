@@ -1,1 +1,1 @@
-var mnemonic = "strike cheap leopard usage scissors critic dinosaur tape tooth ranch become donate";
+var mnemonic = "tomato jacket pupil run silver snake ethics join nest shift hole rain";

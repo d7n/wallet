@@ -1,1 +1,1 @@
-var mnemonic = "express mystery embark cinnamon blur grape hamster habit great concert small code";
+var mnemonic = "obey regular double stem account quantum dynamic afraid year shop mercy elbow";

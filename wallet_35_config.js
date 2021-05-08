@@ -1,1 +1,1 @@
-var mnemonic = "ask quantum lamp head panic section demand evil frequent magnet allow phrase";
+var mnemonic = "brick fly unit absurd say mail talent fashion chef leave winner vital";

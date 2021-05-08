@@ -1,1 +1,1 @@
-var mnemonic = "cute tunnel vacuum airport income lunar crumble fatigue dizzy aisle federal song";
+var mnemonic = "pipe account punch better fragile feed never orbit install industry error modify";

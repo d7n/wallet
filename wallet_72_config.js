@@ -1,1 +1,1 @@
-var mnemonic = "govern save swarm lift need tell margin burden more build state exotic";
+var mnemonic = "grunt cycle click toward talk thumb plastic attitude betray bleak donor finish";

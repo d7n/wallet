@@ -1,1 +1,1 @@
-var mnemonic = "gauge twice village reject drive enlist cupboard uniform artwork target bone tone";
+var mnemonic = "exact remember virtual near index gospel nest learn satisfy century finger claim";

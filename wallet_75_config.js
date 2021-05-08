@@ -1,1 +1,1 @@
-var mnemonic = "join noodle earth tired huge future rigid job shine dash reason never";
+var mnemonic = "smoke waste ugly hurdle forum vital canyon seek fade rally explain place";

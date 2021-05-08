@@ -1,1 +1,1 @@
-var mnemonic = "spoil planet relief resemble inform burst magic click forget upper key evidence";
+var mnemonic = "toe escape north west pottery space latin typical brand combine ladder parrot";

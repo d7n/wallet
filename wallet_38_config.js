@@ -1,1 +1,1 @@
-var mnemonic = "shop receive isolate hole dentist junk hair until owner hundred radio trick";
+var mnemonic = "order into analyst spell waste coach park focus mixed mansion race file";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage near seat argue blush burden lonely wave flee lecture episode organ";
+var mnemonic = "rookie beef adapt crime gospel need hedgehog enrich congress matter tail rapid";

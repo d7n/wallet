@@ -1,1 +1,1 @@
-var mnemonic = "bench one rigid illegal assume head rocket cloth hood kid mean pepper";
+var mnemonic = "sugar vintage practice diagram credit involve carry labor gain tennis toast lesson";

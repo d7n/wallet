@@ -1,1 +1,1 @@
-var mnemonic = "deputy atom space include antenna prevent skill remove teach emotion write attack";
+var mnemonic = "review anchor pitch match define limb face flavor decline street brush machine";

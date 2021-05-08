@@ -1,1 +1,1 @@
-var mnemonic = "empower stumble forest flock room leader laugh fetch often song clip script";
+var mnemonic = "nice sugar maximum rail stomach image polar field grain waste menu found";

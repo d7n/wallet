@@ -1,1 +1,1 @@
-var mnemonic = "solar awesome news increase oppose cart state barely head mind allow girl";
+var mnemonic = "organ helmet bless miracle midnight topic resource marriage scrub hero victory response";

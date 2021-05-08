@@ -1,1 +1,1 @@
-var mnemonic = "despair age floor decline outdoor soul indicate solid claim nut girl region";
+var mnemonic = "praise romance total valley piece review require move garden sentence juice unable";

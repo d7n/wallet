@@ -1,1 +1,1 @@
-var mnemonic = "vacuum behave pistol require dog observe scorpion human park hero regular side";
+var mnemonic = "blood digital blanket harvest street repeat first balcony airport mad leopard plastic";

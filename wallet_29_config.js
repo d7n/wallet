@@ -1,1 +1,1 @@
-var mnemonic = "oven bachelor manual person crowd truth token feel frost retreat gloom wire";
+var mnemonic = "confirm dune deny ill suffer enter fork client coyote sugar suffer fan";

@@ -1,1 +1,1 @@
-var mnemonic = "begin hen siren jump laptop puzzle rude bracket diet curve arrange duck";
+var mnemonic = "scrap praise custom method salon runway gown tuition column proud rib churn";

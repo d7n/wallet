@@ -1,1 +1,1 @@
-var mnemonic = "team elder mom bulk cute hidden scare item mixture bind argue news";
+var mnemonic = "also walnut pool expose boring scissors rally utility rabbit priority space loud";

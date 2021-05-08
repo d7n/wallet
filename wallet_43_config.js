@@ -1,1 +1,1 @@
-var mnemonic = "express rookie vocal account faint rookie slow solve taxi priority position work";
+var mnemonic = "child drum main harvest still away electric head spider silver design liberty";

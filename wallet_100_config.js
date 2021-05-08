@@ -1,1 +1,1 @@
-var mnemonic = "word gospel hand online peace mention cloud rely apple describe cabin orchard";
+var mnemonic = "side grab spare vast monitor convince make gentle rug expire vintage predict";

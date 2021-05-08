@@ -1,1 +1,1 @@
-var mnemonic = "castle obscure angle armed top lock snap fine abandon present danger subway";
+var mnemonic = "calm flavor web staff make night typical dirt angry neither skirt brand";

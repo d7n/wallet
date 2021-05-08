@@ -1,1 +1,1 @@
-var mnemonic = "napkin ahead unit trophy pistol punch trouble loyal tunnel name grace wrestle";
+var mnemonic = "cabin wild brand height sea because pen scheme leader credit talent husband";

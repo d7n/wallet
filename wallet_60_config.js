@@ -1,1 +1,1 @@
-var mnemonic = "milk frequent evidence seat moon camp network ripple piece drum pet cradle";
+var mnemonic = "spatial south credit shuffle aim error indoor forum mercy sugar saddle boring";

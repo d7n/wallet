@@ -1,1 +1,1 @@
-var mnemonic = "spray mango box clap draft trip eye echo crater deal long myself";
+var mnemonic = "fossil twin distance tent happy can right open add trouble deposit whip";

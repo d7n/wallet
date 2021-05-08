@@ -1,1 +1,1 @@
-var mnemonic = "frog tortoise pioneer figure invest eye ten prize resource about opera will";
+var mnemonic = "such cost hotel twelve submit slight label proud lucky fossil common forum";

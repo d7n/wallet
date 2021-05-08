@@ -1,1 +1,1 @@
-var mnemonic = "dress cave slice garage belt tackle aunt shield rebel sausage industry quarter";
+var mnemonic = "brisk pig segment praise cave demise noise wing staff correct door salt";

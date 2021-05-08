@@ -1,1 +1,1 @@
-var mnemonic = "latin essay unlock fever shed stool guitar cinnamon ocean pact shrimp found";
+var mnemonic = "share insect firm armor author cliff sauce jump express pistol test hurry";

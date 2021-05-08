@@ -1,1 +1,1 @@
-var mnemonic = "lucky install casual vicious artefact boat certain fever velvet horse again loud";
+var mnemonic = "mean barely deny great rookie close response ladder marine anger twice jeans";

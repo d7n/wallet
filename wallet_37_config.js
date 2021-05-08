@@ -1,1 +1,1 @@
-var mnemonic = "machine pass laptop scrub minor antenna admit assault destroy text final alter";
+var mnemonic = "recipe planet start search amazing fee alone impose lucky own lesson vivid";

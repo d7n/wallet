@@ -1,1 +1,1 @@
-var mnemonic = "green source member save hire citizen shrimp into category fringe cross pelican";
+var mnemonic = "aisle reveal galaxy wine noise ostrich icon use horn poem hazard flush";

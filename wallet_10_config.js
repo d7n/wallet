@@ -1,1 +1,1 @@
-var mnemonic = "wasp century situate tube general forum oxygen quiz estate sketch program mango";
+var mnemonic = "bulk have file cargo base leisure certain diesel floor solution alone tackle";

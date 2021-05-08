@@ -1,1 +1,1 @@
-var mnemonic = "include forum shield envelope nominee shrug photo retreat provide seek syrup sample";
+var mnemonic = "iron run paddle mistake soft fatigue wine spoil runway usual tone entire";

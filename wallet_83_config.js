@@ -1,1 +1,1 @@
-var mnemonic = "example pole affair town diamond pudding step slam breeze left birth purity";
+var mnemonic = "image lecture february gate olive ship cat antenna drive twice example armor";

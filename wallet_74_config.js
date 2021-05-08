@@ -1,1 +1,1 @@
-var mnemonic = "net mystery dentist gravity speak bicycle hospital leaf swap peanut now ripple";
+var mnemonic = "weapon venue silk sauce island online minute hold museum mixed shop material";

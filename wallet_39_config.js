@@ -1,1 +1,1 @@
-var mnemonic = "exact verb all iron fly isolate poet ethics kitchen scale ticket correct";
+var mnemonic = "mechanic couple possible poet kitten more snack lottery alarm maze alien estate";

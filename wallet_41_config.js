@@ -1,1 +1,1 @@
-var mnemonic = "palace weapon boat riot supply talent blue upgrade muscle high phone fantasy";
+var mnemonic = "demand museum approve insane divert bike century shiver tide yard any cook";

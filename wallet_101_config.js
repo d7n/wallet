@@ -1,1 +1,1 @@
-var mnemonic = "box pond now sudden stuff width orient speed fiction quit muffin brush";
+var mnemonic = "escape repair disease wear tragic song smoke absorb orphan mother zebra update";

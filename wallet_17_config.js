@@ -1,1 +1,1 @@
-var mnemonic = "crawl donate cage satoshi box brick success axis inform dwarf burst similar";
+var mnemonic = "option help banana steak follow perfect country auction twice fork great salad";

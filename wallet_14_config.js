@@ -1,1 +1,1 @@
-var mnemonic = "bracket flip manual embark menu stuff hungry crane myself between sure guitar";
+var mnemonic = "above cricket orange rice earn also girl jealous wreck enable boat soon";

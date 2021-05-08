@@ -1,1 +1,1 @@
-var mnemonic = "leave achieve van rebel exclude drop gesture feel rug total smart six";
+var mnemonic = "voyage view twelve oval shield surge cool return crucial tonight window vintage";

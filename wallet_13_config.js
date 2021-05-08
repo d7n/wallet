@@ -1,1 +1,1 @@
-var mnemonic = "tribe holiday barely kiwi subject silk repeat shop immense brick balance census";
+var mnemonic = "purse fossil audit mirror warm unit glass suffer moon bind pair fiscal";

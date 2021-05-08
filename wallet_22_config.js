@@ -1,1 +1,1 @@
-var mnemonic = "tissue uncover honey affair oxygen over chef easily spike when prosper sand";
+var mnemonic = "guard novel wisdom ozone lion thing crisp swap whip comic famous cave";

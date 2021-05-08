@@ -1,1 +1,1 @@
-var mnemonic = "pen stage desert fire text pioneer identify pigeon become mistake trash wheat";
+var mnemonic = "later cram swing honey reopen neck file decrease swallow message heavy throw";

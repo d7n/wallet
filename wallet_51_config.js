@@ -1,1 +1,1 @@
-var mnemonic = "thunder differ rely garlic ecology solid shy crop misery trash report talk";
+var mnemonic = "maid danger double struggle mechanic wish shoot pet primary analyst permit food";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus iron army uncover unique like wing fire craft cruel surround vast";
+var mnemonic = "shrug expect educate current lava weapon cancel easy husband endorse drive boss";

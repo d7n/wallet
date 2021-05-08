@@ -1,1 +1,1 @@
-var mnemonic = "spike blind gun public wonder boss toe useful stove trick recall tired";
+var mnemonic = "obvious giant check situate catch flag raise siege glass bless math such";

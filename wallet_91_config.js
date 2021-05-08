@@ -1,1 +1,1 @@
-var mnemonic = "position bonus soul runway sentence nothing fluid recipe boss cloud vote fine";
+var mnemonic = "click peanut hint fee one enforce coil upper move portion people about";

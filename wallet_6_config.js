@@ -1,1 +1,1 @@
-var mnemonic = "ancient release kitchen output nut over cheap delay patch steel dentist brother";
+var mnemonic = "rookie gasp congress dust deposit exile little joke country scene term stuff";

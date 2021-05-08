@@ -1,1 +1,1 @@
-var mnemonic = "course duck vocal salmon bird winner trust vessel diagram offer luggage comic";
+var mnemonic = "close agree kite scissors potato beauty knock hold oxygen inspire husband old";

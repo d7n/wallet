@@ -1,1 +1,1 @@
-var mnemonic = "decrease vintage base basket sphere orient media pole nice special census canal";
+var mnemonic = "draw cook expand brick never seed mix erosion wise stone scan enlist";

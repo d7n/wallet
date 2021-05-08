@@ -1,1 +1,1 @@
-var mnemonic = "robust vacant green task mother spin tongue prepare shop season illegal ranch";
+var mnemonic = "book illness clap armor circle school galaxy spice shaft task fantasy rain";

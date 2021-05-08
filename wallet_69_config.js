@@ -1,1 +1,1 @@
-var mnemonic = "feel olympic script gesture purse way burger plastic moral note token wedding";
+var mnemonic = "donor summer guard waste plastic slam wing dune scrub essence pave tide";

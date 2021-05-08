@@ -1,1 +1,1 @@
-var mnemonic = "expand object fitness unlock burden lunar ostrich task merry seminar satisfy plug";
+var mnemonic = "embark cube grape shoulder protect survey drama allow version filter always large";

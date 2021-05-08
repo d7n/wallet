@@ -1,1 +1,1 @@
-var mnemonic = "help glue carry wrap mix lemon segment frost double drill busy siren";
+var mnemonic = "since filter harvest fat bag silver rack small basket burst cause year";
