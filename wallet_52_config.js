@@ -1,1 +1,1 @@
-var mnemonic = "chronic pyramid radio team notice year purity entry riot decrease meat fuel";
+var mnemonic = "bicycle spring cement shock attend medal west slide move senior omit bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle bicycle hobby main coach rack goat hero crop antenna happy tent";
+var mnemonic = "decade advance history cargo tone advance eye inform battle sort finish case";

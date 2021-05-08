@@ -1,1 +1,1 @@
-var mnemonic = "private click sword train busy virus absent emotion congress affair excess front";
+var mnemonic = "beyond frequent usual talent craft afford slow style vague tourist exit fun";

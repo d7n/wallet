@@ -1,1 +1,1 @@
-var mnemonic = "predict enforce royal bright million venue loyal swarm praise van cargo fiber";
+var mnemonic = "curve velvet marble chest analyst trophy people panic sketch town glad cousin";

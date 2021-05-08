@@ -1,1 +1,1 @@
-var mnemonic = "better planet false protect doctor hobby grab wife program vocal topic boy";
+var mnemonic = "raise crucial ceiling come field finish sand trust taste depend solve miss";

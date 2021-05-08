@@ -1,1 +1,1 @@
-var mnemonic = "ready venue mandate peace only twelve orbit expose relief ill wash what";
+var mnemonic = "loyal brand expose genuine cruel shock lens endorse fabric hand glass sadness";

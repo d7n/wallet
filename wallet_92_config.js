@@ -1,1 +1,1 @@
-var mnemonic = "blush hire kangaroo fade huge virus turkey swear pluck vast demand drip";
+var mnemonic = "curtain broccoli stool bamboo bullet notice equip panther neutral give praise churn";

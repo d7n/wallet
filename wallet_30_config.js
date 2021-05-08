@@ -1,1 +1,1 @@
-var mnemonic = "trap member credit minor final disease trap review clutch focus purity language";
+var mnemonic = "adapt praise wine dance walk decide pepper include three promote clump mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "sport cinnamon bamboo cousin panel rose exhaust wife essay gentle quarter rare";
+var mnemonic = "toward surprise garlic peasant donate help dog drift sheriff tape aware blouse";

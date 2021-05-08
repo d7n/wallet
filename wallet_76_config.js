@@ -1,1 +1,1 @@
-var mnemonic = "link blur certain knock fresh whale collect today inside crouch matter clerk";
+var mnemonic = "puzzle thing alcohol check cute wool physical claim myth muscle learn summer";

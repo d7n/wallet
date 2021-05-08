@@ -1,1 +1,1 @@
-var mnemonic = "wrong wonder angle science useless narrow skirt kitchen thumb slide shock story";
+var mnemonic = "donate resemble upon bench birth shy list faith giggle reveal oyster hold";

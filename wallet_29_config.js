@@ -1,1 +1,1 @@
-var mnemonic = "south burst elephant exit crisp frost wage lock artefact resist armor render";
+var mnemonic = "art file field fix clap device people simple car top dolphin gold";

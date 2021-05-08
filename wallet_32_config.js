@@ -1,1 +1,1 @@
-var mnemonic = "thumb army radar memory tide squirrel shell author budget quantum dog riot";
+var mnemonic = "file regret spoon useless eight attack order shiver spy tonight rib cabbage";

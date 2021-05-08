@@ -1,1 +1,1 @@
-var mnemonic = "nasty motor talk patrol provide grow episode cradle pizza genuine spoil later";
+var mnemonic = "chest screen fan leopard park door input laptop labor miss mountain shift";

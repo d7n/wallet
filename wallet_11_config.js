@@ -1,1 +1,1 @@
-var mnemonic = "jacket guess diary lock wise mountain subject violin equal odor bubble weapon";
+var mnemonic = "brain popular vivid rail blue dose between voyage mandate record income join";

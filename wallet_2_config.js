@@ -1,1 +1,1 @@
-var mnemonic = "immense globe olympic tattoo marble upon fork all course whip promote panda";
+var mnemonic = "reunion fabric pipe gas empower describe wheel vicious mind task execute dress";

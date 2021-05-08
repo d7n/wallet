@@ -1,1 +1,1 @@
-var mnemonic = "pet vendor enemy popular glove clog entire invite online odor about cloud";
+var mnemonic = "wool answer velvet laundry patient clarify humble brain fine fury course upgrade";

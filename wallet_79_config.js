@@ -1,1 +1,1 @@
-var mnemonic = "ill chest escape shy length state jar custom skill empty guard female";
+var mnemonic = "artwork traffic there light blur creek seek clerk solve speak prefer blade";

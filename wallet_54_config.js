@@ -1,1 +1,1 @@
-var mnemonic = "reform antique mandate quit erupt poet monkey hockey fashion defy buffalo town";
+var mnemonic = "flip clinic mask expire rail strategy endless simple invite hospital collect odor";

@@ -1,1 +1,1 @@
-var mnemonic = "garment finger sugar please super wolf kangaroo woman party exchange panda muscle";
+var mnemonic = "couple lonely memory account seven tomato vocal student bid off path leave";

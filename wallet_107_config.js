@@ -1,1 +1,1 @@
-var mnemonic = "pencil tail shrimp vessel toast width wedding mutual pupil rough gasp shoe";
+var mnemonic = "claim around uncle story speed love regular health manual jar situate convince";

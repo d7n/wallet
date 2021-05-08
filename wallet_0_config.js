@@ -1,1 +1,1 @@
-var mnemonic = "mail indicate online spatial lesson unveil detail marble slow material deposit laundry";
+var mnemonic = "tattoo stomach alone subject razor inmate auction glad match story coil border";

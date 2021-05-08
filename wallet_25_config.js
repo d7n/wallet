@@ -1,1 +1,1 @@
-var mnemonic = "earn pulse bargain main analyst leaf enroll sea this trigger heavy crop";
+var mnemonic = "spread verify shadow census width velvet stairs enhance wife shadow tackle enough";

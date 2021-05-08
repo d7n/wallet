@@ -1,1 +1,1 @@
-var mnemonic = "height ride when where radio unaware worth toward vessel pause clown auto";
+var mnemonic = "rate talent until canoe weekend pilot defy bless hobby quarter elder shock";

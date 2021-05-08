@@ -1,1 +1,1 @@
-var mnemonic = "monkey twice learn twenty tornado chronic vote choose risk manual tape employ";
+var mnemonic = "uphold profit adjust future hill obey leaf boss room zoo confirm chef";

@@ -1,1 +1,1 @@
-var mnemonic = "win invest require credit chapter pelican below buffalo rib tray buyer muscle";
+var mnemonic = "dynamic series ring cloud rebuild apart imitate badge custom only wonder sibling";

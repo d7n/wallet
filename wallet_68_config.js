@@ -1,1 +1,1 @@
-var mnemonic = "delay tilt brisk all shine fossil express remember kingdom slight announce taste";
+var mnemonic = "state found usage furnace point sunny shop option body wedding weapon fault";

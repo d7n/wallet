@@ -1,1 +1,1 @@
-var mnemonic = "mass actress crater master chuckle pledge meadow false image marine jaguar latin";
+var mnemonic = "rack welcome limb fever fortune eyebrow media glide shrimp same risk also";

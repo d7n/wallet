@@ -1,1 +1,1 @@
-var mnemonic = "federal stable visual clarify insane senior intact time cheap month exchange weasel";
+var mnemonic = "copy save session real truly baby attract aware search owner option width";

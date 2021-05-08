@@ -1,1 +1,1 @@
-var mnemonic = "typical desert picnic humor sick party wool charge note more balance sun";
+var mnemonic = "power piano rigid ladder must matter mansion curious humor deer trip memory";

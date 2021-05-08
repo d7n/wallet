@@ -1,1 +1,1 @@
-var mnemonic = "rapid essence casual dignity soul oven vintage cart purse other key trumpet";
+var mnemonic = "pause fall elevator tower disease crop tackle sausage soap island long frozen";

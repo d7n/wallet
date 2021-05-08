@@ -1,1 +1,1 @@
-var mnemonic = "onion broccoli notice eight relax spot drift immune tip debris share misery";
+var mnemonic = "kidney wear local address appear fashion offer decline clever crush invest priority";

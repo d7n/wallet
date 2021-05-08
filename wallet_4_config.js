@@ -1,1 +1,1 @@
-var mnemonic = "fish wide ten omit adult regret smart acid tribe happy lumber weird";
+var mnemonic = "ostrich click multiply educate select indoor sorry tonight wire advance shed problem";

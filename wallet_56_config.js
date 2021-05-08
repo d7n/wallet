@@ -1,1 +1,1 @@
-var mnemonic = "gain loyal icon scorpion lemon trade behave region chunk invest scan uncover";
+var mnemonic = "fury thought they neglect travel belt feel fish owner cause autumn tunnel";

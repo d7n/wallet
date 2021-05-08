@@ -1,1 +1,1 @@
-var mnemonic = "orient group tooth pause record monster only setup bamboo trick lyrics park";
+var mnemonic = "bulk reopen base melt antenna amount dawn strong hover build erode extra";

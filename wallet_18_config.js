@@ -1,1 +1,1 @@
-var mnemonic = "nephew primary ranch security gain fame slush riot require same math eagle";
+var mnemonic = "mango later essay over slab desk lawn bread tip disagree soul call";

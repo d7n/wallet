@@ -1,1 +1,1 @@
-var mnemonic = "slice uniform fiction tragic original among inhale blast hazard pill adjust effort";
+var mnemonic = "holiday clerk frozen crystal grow garlic warfare fiction furnace meat fabric monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous cake crazy news trust air spell canvas lake dutch raw someone";
+var mnemonic = "motion february mail popular valve angle royal sunset draw robot oval boring";

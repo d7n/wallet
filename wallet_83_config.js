@@ -1,1 +1,1 @@
-var mnemonic = "juice breeze close blind idle expand six reduce regular shadow there survey";
+var mnemonic = "art genuine mixture letter rely baby tell mosquito harsh puppy prepare lemon";

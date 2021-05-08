@@ -1,1 +1,1 @@
-var mnemonic = "rhythm brave team shuffle this seed valve turn invite hero exchange artefact";
+var mnemonic = "keen tooth destroy exile wage write switch vessel submit novel slender glare";

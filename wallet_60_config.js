@@ -1,1 +1,1 @@
-var mnemonic = "lounge runway tomorrow dinner fringe survey humble champion deal rich nut animal";
+var mnemonic = "employ alley place shock bachelor flavor gallery glance way game side session";

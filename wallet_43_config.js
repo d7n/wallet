@@ -1,1 +1,1 @@
-var mnemonic = "chronic rare hidden guitar wine cream radar include black pilot page claim";
+var mnemonic = "perfect buddy notice large dinner soup quality put slot damp road nut";

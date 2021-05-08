@@ -1,1 +1,1 @@
-var mnemonic = "crunch roast cream window pledge youth home elegant orchard club whale like";
+var mnemonic = "forest finish bag agree settle cricket hub real game staff off wing";

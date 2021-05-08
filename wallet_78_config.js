@@ -1,1 +1,1 @@
-var mnemonic = "tone ankle call clever toy minimum very north little orange mixture involve";
+var mnemonic = "tenant attract brick carry image upset label crumble embrace country goat consider";

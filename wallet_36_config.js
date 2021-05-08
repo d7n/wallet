@@ -1,1 +1,1 @@
-var mnemonic = "total camp hover coil stay conduct tip frog jewel seek robot solution";
+var mnemonic = "female move traffic average device candy ensure forward deny siren lecture wild";

@@ -1,1 +1,1 @@
-var mnemonic = "damp forum vacuum evoke witness spell digital box judge game robust fat";
+var mnemonic = "inflict rapid clip lock minimum sample fly drama palace submit fault below";

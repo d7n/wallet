@@ -1,1 +1,1 @@
-var mnemonic = "large fluid there plate umbrella doctor donate razor help soft desk risk";
+var mnemonic = "sick pill rain notice song light inflict hollow shrimp please elbow cinnamon";

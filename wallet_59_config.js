@@ -1,1 +1,1 @@
-var mnemonic = "absorb benefit middle advance curtain number notable sister choose about joy patient";
+var mnemonic = "accident walk runway cereal isolate wonder plunge equip again weird simple roast";

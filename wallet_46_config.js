@@ -1,1 +1,1 @@
-var mnemonic = "hunt chat army already history whisper already uniform robust pottery alter evil";
+var mnemonic = "online taste able axis cycle problem develop music oval taste moment lawn";

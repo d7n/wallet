@@ -1,1 +1,1 @@
-var mnemonic = "hard summer bird tilt large bundle stock myself vapor rate keep bachelor";
+var mnemonic = "melody offer grunt depart wheat inflict like woman asset dove resist menu";

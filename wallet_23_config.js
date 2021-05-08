@@ -1,1 +1,1 @@
-var mnemonic = "multiply charge athlete rabbit lonely chapter evolve orphan cushion obscure fold kit";
+var mnemonic = "master robot history record inner assist margin day trumpet ankle leg news";

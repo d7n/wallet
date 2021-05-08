@@ -1,1 +1,1 @@
-var mnemonic = "famous portion alcohol forget lava delay exit brother notice ten retire path";
+var mnemonic = "ride deposit tilt carry blouse cluster slush apart fragile twelve such task";

@@ -1,1 +1,1 @@
-var mnemonic = "thing into size among barely belt film deal mixed element vocal attitude";
+var mnemonic = "club weather casual drum lesson trust wisdom emotion dish panic lottery flip";

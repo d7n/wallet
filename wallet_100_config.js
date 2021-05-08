@@ -1,1 +1,1 @@
-var mnemonic = "furnace hazard rapid tornado hair puppy remind tongue cotton level siren position";
+var mnemonic = "confirm yard park goose another service miracle slot soon call eyebrow short";

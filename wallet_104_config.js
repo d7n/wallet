@@ -1,1 +1,1 @@
-var mnemonic = "choice owner omit divert never injury crack buyer mobile invite seek direct";
+var mnemonic = "morning method supreme rib solve attend smoke core hawk weekend clerk reopen";

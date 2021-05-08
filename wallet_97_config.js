@@ -1,1 +1,1 @@
-var mnemonic = "bean bean give lion coast what critic identify help cushion torch fragile";
+var mnemonic = "noble arch tattoo donor fog spy earth educate alpha abstract swing moment";

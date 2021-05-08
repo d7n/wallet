@@ -1,1 +1,1 @@
-var mnemonic = "cousin adjust thumb absorb retreat gossip mansion coconut birth wedding dentist glory";
+var mnemonic = "ritual sentence assault cheese horror coyote vivid voyage habit pelican kitten dwarf";

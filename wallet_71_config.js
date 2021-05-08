@@ -1,1 +1,1 @@
-var mnemonic = "hour corn rigid slush spider menu marriage either boy sock toddler thing";
+var mnemonic = "disagree flip coconut inform vacuum opera account student there avocado dentist athlete";

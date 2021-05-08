@@ -1,1 +1,1 @@
-var mnemonic = "predict hockey time slam spatial veteran ostrich roof kit call tilt later";
+var mnemonic = "hold clog helmet visual text piece neutral wage observe ivory narrow tennis";

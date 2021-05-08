@@ -1,1 +1,1 @@
-var mnemonic = "voice attack gospel giggle useless inside maid dumb clerk odor crop flock";
+var mnemonic = "country sing ecology truly oil consider mother female hybrid consider twice wrist";

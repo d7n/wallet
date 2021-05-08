@@ -1,1 +1,1 @@
-var mnemonic = "edge find wool ancient verb render unhappy lizard sea toy umbrella control";
+var mnemonic = "affair hazard blouse custom measure cluster noise join song figure broom excess";

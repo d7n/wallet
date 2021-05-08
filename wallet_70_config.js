@@ -1,1 +1,1 @@
-var mnemonic = "scan scatter release tribe inhale aware argue dish illness bean monitor upgrade";
+var mnemonic = "bracket enhance boil rain theme mix slide job medal wide badge anxiety";

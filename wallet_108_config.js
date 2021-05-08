@@ -1,1 +1,1 @@
-var mnemonic = "hospital tide swear wrong estate rice soda field case sweet brain census";
+var mnemonic = "version almost good light educate beef approve polar know paddle pottery leopard";

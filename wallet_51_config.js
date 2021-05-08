@@ -1,1 +1,1 @@
-var mnemonic = "verb usual poverty sad swift warfare civil wink educate remain execute review";
+var mnemonic = "aim subject suggest kitchen pen busy shock moral another visit finger verify";

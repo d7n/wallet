@@ -1,1 +1,1 @@
-var mnemonic = "spawn tourist horn daughter prefer cupboard surround name weasel drip evil rug";
+var mnemonic = "cupboard steel gold practice space regret elevator aerobic march sponsor boat together";

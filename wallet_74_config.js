@@ -1,1 +1,1 @@
-var mnemonic = "bid brain lunch useful explain boost music fame convince canoe polar kind";
+var mnemonic = "quiz awful kit short pitch wrong heart unit cube strike thought wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "slam peace nurse donate suffer truck figure device lend maximum kiss flock";
+var mnemonic = "field maple obvious output mask endorse eyebrow view impose express infant ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "target gown mandate rate afford ask target yard again work false clay";
+var mnemonic = "truth stable business little salad gun avocado turtle clerk melody owner actual";

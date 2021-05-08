@@ -1,1 +1,1 @@
-var mnemonic = "staff step action weather tell describe trash sense gospel purchase void either";
+var mnemonic = "jelly frog theory mind mosquito kiss endless boss champion color carry bench";

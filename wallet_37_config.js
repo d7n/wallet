@@ -1,1 +1,1 @@
-var mnemonic = "build guide camp smooth build road viable dry power barrel black narrow";
+var mnemonic = "hard verb frown clock ordinary similar pepper lawsuit close mass laundry gossip";

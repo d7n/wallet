@@ -1,1 +1,1 @@
-var mnemonic = "minimum travel build stuff purse noble delay area brush attend case scare";
+var mnemonic = "laugh tube earth worth unique friend erosion diagram arrive endless turn evil";

@@ -1,1 +1,1 @@
-var mnemonic = "time enter train fury palace maximum illness taxi bar february security ostrich";
+var mnemonic = "forward novel voice affair agent sport spin safe brave hurdle glare still";

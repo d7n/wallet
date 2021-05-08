@@ -1,1 +1,1 @@
-var mnemonic = "obtain picture tape rapid dove arena zone resemble autumn jaguar manual page";
+var mnemonic = "income elevator age flee rabbit genre client athlete goddess jungle boil east";

@@ -1,1 +1,1 @@
-var mnemonic = "grain reduce upon olympic earn lecture biology useful spice index usual violin";
+var mnemonic = "come minor swallow giant bleak admit cup inject useful warm coffee thumb";

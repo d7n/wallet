@@ -1,1 +1,1 @@
-var mnemonic = "monitor carbon lab reflect fancy appear pact hire cruel warfare potato feel";
+var mnemonic = "visa rare park lawn flash thumb found erosion hawk amount wing popular";

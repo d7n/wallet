@@ -1,1 +1,1 @@
-var mnemonic = "rapid spoon buddy damage neither verify vanish inform hill pistol second life";
+var mnemonic = "weekend permit deny donor private limit story attract obtain arena ketchup night";

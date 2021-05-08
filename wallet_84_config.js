@@ -1,1 +1,1 @@
-var mnemonic = "female abstract scout swim vast client predict banner because tobacco name side";
+var mnemonic = "abandon abandon wrap orient cover suit again mouse dream soul wear leader";

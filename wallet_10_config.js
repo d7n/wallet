@@ -1,1 +1,1 @@
-var mnemonic = "success seven initial few merry reveal unhappy relief hunt identify word nephew";
+var mnemonic = "neither spoil dinner length still there submit face imitate lady scare home";

@@ -1,1 +1,1 @@
-var mnemonic = "blind tonight ghost rough heavy silly razor summer weekend control fan wrap";
+var mnemonic = "below analyst major leave gift huge limb ripple keep lab blur clever";

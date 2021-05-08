@@ -1,1 +1,1 @@
-var mnemonic = "brush above crush session trick slogan shrug insect trigger you seminar foot";
+var mnemonic = "subject power exile claw property acquire capital ride arrest blouse move steak";

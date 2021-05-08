@@ -1,1 +1,1 @@
-var mnemonic = "sport jaguar oblige under daring thunder mesh hunt woman patrol glue pony";
+var mnemonic = "protect pipe setup path kitchen chunk imitate fee fitness bean green one";

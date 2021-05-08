@@ -1,1 +1,1 @@
-var mnemonic = "please panel gap team omit matter narrow expire oxygen crisp regular always";
+var mnemonic = "deposit title adult immense dignity program bid salt razor alcohol remember donkey";

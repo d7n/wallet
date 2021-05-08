@@ -1,1 +1,1 @@
-var mnemonic = "doctor sibling day luxury drive wonder oven spy flight print beef chase";
+var mnemonic = "bone cabbage predict release assault vendor piano abstract duck flush kid custom";

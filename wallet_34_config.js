@@ -1,1 +1,1 @@
-var mnemonic = "cute oyster nature uncover hand crowd prevent pulse taxi embody cook joke";
+var mnemonic = "high host crime toss window reunion pink license antenna wear scissors trend";

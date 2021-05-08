@@ -1,1 +1,1 @@
-var mnemonic = "unit moment swear nut total original guide wear sheriff flee cross major";
+var mnemonic = "visa account leave direct core proof obey junk stereo obscure tuition scene";

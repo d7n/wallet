@@ -1,1 +1,1 @@
-var mnemonic = "ability food ridge cause ripple search test crew plastic token surprise layer";
+var mnemonic = "village replace twice siren main rally execute novel income diagram attitude embrace";

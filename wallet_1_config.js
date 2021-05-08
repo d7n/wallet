@@ -1,1 +1,1 @@
-var mnemonic = "arrange hover tourist attitude cousin faith danger album hunt smoke achieve marriage";
+var mnemonic = "survey modify basket horse clerk razor slim faculty divide climb remove cage";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean perfect echo exile unable impulse home any green mail broccoli super";
+var mnemonic = "input shift regret aunt hour tent govern salmon planet notice link lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "suit winner maple atom lunch leader hood fresh whisper doll zero ten";
+var mnemonic = "predict arch novel lounge march rack coral cage used decade search screen";

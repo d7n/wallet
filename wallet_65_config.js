@@ -1,1 +1,1 @@
-var mnemonic = "toast elbow alien guide fruit claim risk during affair permit fiber satoshi";
+var mnemonic = "social thought sick announce erode lady medal amazing power this cliff tank";

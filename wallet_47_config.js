@@ -1,1 +1,1 @@
-var mnemonic = "finger silver wing bargain provide approve need ostrich health foster alter cute";
+var mnemonic = "boring clinic april ability umbrella syrup moment gift ceiling jacket slide strategy";

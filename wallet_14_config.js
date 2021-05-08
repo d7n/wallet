@@ -1,1 +1,1 @@
-var mnemonic = "engage recycle napkin owner million erode cushion pass decorate enforce monkey awkward";
+var mnemonic = "valley want bone sing axis match flip unaware sheriff trend biology spider";
