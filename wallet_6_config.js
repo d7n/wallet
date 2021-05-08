@@ -1,1 +1,1 @@
-var mnemonic = "corn couple advance family task exhaust rate business abuse raven broccoli bamboo";
+var mnemonic = "tattoo critic mail assist fortune assault tree report animal attitude opinion track";

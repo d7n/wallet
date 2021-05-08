@@ -1,1 +1,1 @@
-var mnemonic = "secret need cigar chest security document mutual air submit original master truly";
+var mnemonic = "range rule marriage ready cube youth ignore damage juice bird half monkey";

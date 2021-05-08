@@ -1,1 +1,1 @@
-var mnemonic = "table always power term chest oil estate embark ring agent clever section";
+var mnemonic = "you link ethics relax dignity very tip canal bounce initial maze mushroom";

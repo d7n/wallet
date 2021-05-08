@@ -1,1 +1,1 @@
-var mnemonic = "narrow slim wasp adjust swap game cable total lizard play chapter toast";
+var mnemonic = "ladder heavy slot wrestle agent elephant amazing turtle ill december ticket medal";

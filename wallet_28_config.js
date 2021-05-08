@@ -1,1 +1,1 @@
-var mnemonic = "disagree soldier fog easy universe animal angry ostrich pause retire furnace beach";
+var mnemonic = "sunny token whale iron error cause mean explain borrow valley inject joy";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas leaf virus tornado absent rug steel guitar convince rude come question";
+var mnemonic = "sunny pond nature physical replace urge tiny grit egg join urge thrive";

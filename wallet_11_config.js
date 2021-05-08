@@ -1,1 +1,1 @@
-var mnemonic = "crystal deliver zero super chronic fat rescue fitness always innocent wisdom parrot";
+var mnemonic = "crystal easily crack iron rib salad chuckle share split capital ozone abuse";

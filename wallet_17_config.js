@@ -1,1 +1,1 @@
-var mnemonic = "pupil spare route labor among tomorrow require menu birth clarify own humble";
+var mnemonic = "cupboard fruit learn verify utility reform burger hire prize fine issue discover";

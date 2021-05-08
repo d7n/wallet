@@ -1,1 +1,1 @@
-var mnemonic = "awesome enroll lab income mountain mouse claw dial gaze design glass hotel";
+var mnemonic = "lab business metal derive style allow wire toe cry borrow finger photo";

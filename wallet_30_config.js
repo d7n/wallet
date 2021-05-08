@@ -1,1 +1,1 @@
-var mnemonic = "ceiling equip purpose again soda merit near fragile toward echo until cup";
+var mnemonic = "supply goose popular cook chimney lend caution pen result orient primary pen";

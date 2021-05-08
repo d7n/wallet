@@ -1,1 +1,1 @@
-var mnemonic = "park hedgehog manual oblige diet spray smart collect access exit inflict mosquito";
+var mnemonic = "side water kingdom raven paddle firm someone virus video emerge buddy street";

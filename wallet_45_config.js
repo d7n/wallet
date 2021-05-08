@@ -1,1 +1,1 @@
-var mnemonic = "symbol smoke blind ensure embrace blood magic ability tortoise laugh script skate";
+var mnemonic = "denial boost wise luggage strong shoulder fun first whisper gesture pet stadium";

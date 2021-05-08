@@ -1,1 +1,1 @@
-var mnemonic = "nothing spice dragon zoo develop hockey wrist tiny minor slide grocery scorpion";
+var mnemonic = "car check noodle tool general vendor comfort harvest rack exchange element two";

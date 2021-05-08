@@ -1,1 +1,1 @@
-var mnemonic = "emotion faith parade clog hip ticket arrow barely trophy noodle reveal regular";
+var mnemonic = "south run sound raw bid cruel danger fancy trouble print sunset document";

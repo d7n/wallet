@@ -1,1 +1,1 @@
-var mnemonic = "have best disorder small beauty face north truck hurt erupt pact mosquito";
+var mnemonic = "rather quiz forward vacant record engage wood unlock mad anger grow claim";

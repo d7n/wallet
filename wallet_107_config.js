@@ -1,1 +1,1 @@
-var mnemonic = "uphold gate trial budget must fetch december happy nominee merge middle hip";
+var mnemonic = "end decade shy cigar when kiss thank journey stumble anger police fix";

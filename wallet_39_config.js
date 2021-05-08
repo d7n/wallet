@@ -1,1 +1,1 @@
-var mnemonic = "thank install rich battle guess message iron thank thank subway that mimic";
+var mnemonic = "renew tomato business elder stomach spawn hero run awkward coyote prison crater";

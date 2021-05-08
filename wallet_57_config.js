@@ -1,1 +1,1 @@
-var mnemonic = "fly muscle frog desert vendor concert income sunny remember genius develop expand";
+var mnemonic = "mutual keen quit live fall opera badge praise tiny loud hazard thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "tape endless document hand insect tail village tube jewel nature sugar gate";
+var mnemonic = "patrol cook destroy strike quiz snap link cliff belt atom abandon exist";

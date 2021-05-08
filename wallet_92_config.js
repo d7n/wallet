@@ -1,1 +1,1 @@
-var mnemonic = "timber appear famous title radar muffin prevent valve rare next range duck";
+var mnemonic = "orient report march similar lonely awake arrive strike warm script recycle devote";

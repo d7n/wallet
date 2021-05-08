@@ -1,1 +1,1 @@
-var mnemonic = "three organ magnet six regular design helmet lift hip staff excess canyon";
+var mnemonic = "image online there brick acid close depart puppy pistol fall student double";

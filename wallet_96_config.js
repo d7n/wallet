@@ -1,1 +1,1 @@
-var mnemonic = "globe sentence vivid absorb erase dismiss cupboard hard odor safe cash ethics";
+var mnemonic = "similar ostrich jungle cupboard era antenna school secret say leader that outdoor";

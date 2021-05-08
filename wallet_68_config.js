@@ -1,1 +1,1 @@
-var mnemonic = "anchor faith garage tunnel stem target live dance destroy power umbrella educate";
+var mnemonic = "minute blur sauce method pretty resist shadow misery squirrel bachelor diamond envelope";

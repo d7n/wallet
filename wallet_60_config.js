@@ -1,1 +1,1 @@
-var mnemonic = "tenant dignity buzz truck local mule cactus ecology hammer spirit thumb evoke";
+var mnemonic = "lady mimic novel agree inflict burden dismiss success regular rally rare unlock";

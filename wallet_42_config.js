@@ -1,1 +1,1 @@
-var mnemonic = "drama throw area truth duty more more loop meat snap uphold dish";
+var mnemonic = "brass thunder plate better spray grocery flock decade arrest loyal tooth tone";

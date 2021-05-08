@@ -1,1 +1,1 @@
-var mnemonic = "chronic firm midnight ramp elevator guard enact lumber ignore twice lend express";
+var mnemonic = "lava tornado age business believe raccoon label donkey drip below guess better";

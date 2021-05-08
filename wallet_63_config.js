@@ -1,1 +1,1 @@
-var mnemonic = "stumble brain salmon balance park beach mountain spike six social now flavor";
+var mnemonic = "festival custom file indoor depend want mosquito trash portion there view believe";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar moon senior shield fox proud toe apart slim lobster faint ethics";
+var mnemonic = "proof custom boy before keep retire load earth angle prison odor vintage";

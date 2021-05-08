@@ -1,1 +1,1 @@
-var mnemonic = "olympic once tragic size leg cheese off thing insect jacket daughter update";
+var mnemonic = "away canvas scout kidney clerk cannon volume enable initial bubble wood alarm";

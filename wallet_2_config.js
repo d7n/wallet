@@ -1,1 +1,1 @@
-var mnemonic = "farm pyramid leisure change glass grape hidden hat party tiny once educate";
+var mnemonic = "roast maximum hour decrease tone session call auto notable fetch interest orange";

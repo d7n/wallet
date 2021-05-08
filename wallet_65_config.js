@@ -1,1 +1,1 @@
-var mnemonic = "pill occur census sad possible just source scissors shuffle game proof roof";
+var mnemonic = "loan giggle else oblige smile display dragon cable carpet employ pave duty";

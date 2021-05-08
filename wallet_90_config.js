@@ -1,1 +1,1 @@
-var mnemonic = "trigger orchard clay robot situate remind head fee idle eager copy leopard";
+var mnemonic = "priority hello wisdom column dinner relief license wire kangaroo crane cigar parade";

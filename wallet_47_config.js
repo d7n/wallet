@@ -1,1 +1,1 @@
-var mnemonic = "apart ensure trend across wrap bless theme profit spoil fire vehicle sting";
+var mnemonic = "cheese clinic average adjust car ribbon cruise luggage hire finger blush blind";

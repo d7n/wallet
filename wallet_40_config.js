@@ -1,1 +1,1 @@
-var mnemonic = "ring token trash supreme finish badge attack vessel guess around join scrap";
+var mnemonic = "disease sketch elephant general witness approve firm napkin atom famous evidence define";

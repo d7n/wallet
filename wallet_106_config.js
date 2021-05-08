@@ -1,1 +1,1 @@
-var mnemonic = "anger fiscal argue during mouse have public clean saddle air spy illegal";
+var mnemonic = "similar end local escape purse duck spike fame fiction catch ritual will";

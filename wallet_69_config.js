@@ -1,1 +1,1 @@
-var mnemonic = "crew start gift medal air frame birth romance wrap reject snow comic";
+var mnemonic = "cinnamon liberty explain drastic switch two giraffe tomato prepare harvest craft patch";

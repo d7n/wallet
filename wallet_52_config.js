@@ -1,1 +1,1 @@
-var mnemonic = "payment scatter decide trouble sister destroy joy noise crawl innocent basket question";
+var mnemonic = "october glad neck fabric conduct prefer blanket venture leave ritual double reflect";

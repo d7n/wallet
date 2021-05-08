@@ -1,1 +1,1 @@
-var mnemonic = "blind lounge invite child text kidney motor ivory orient inside below piano";
+var mnemonic = "blue focus three purity return more powder vacuum onion color celery blast";

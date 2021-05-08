@@ -1,1 +1,1 @@
-var mnemonic = "monster hospital peasant capable salute target boss ship require order crystal behave";
+var mnemonic = "bless zoo drastic emotion erase remain vapor jazz buzz crop face inner";

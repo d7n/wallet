@@ -1,1 +1,1 @@
-var mnemonic = "photo patient ring price blade cake walnut drill invest head vote apart";
+var mnemonic = "wife devote fog goddess allow matter expect vibrant regular skate vibrant drastic";

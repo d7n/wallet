@@ -1,1 +1,1 @@
-var mnemonic = "void verify cloud shuffle spell drive eternal call other waste head quarter";
+var mnemonic = "submit sponsor surround home car time traffic various panther jewel mass lemon";

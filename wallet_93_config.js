@@ -1,1 +1,1 @@
-var mnemonic = "force taste grocery acid vote stock lens area drastic indicate mirror vault";
+var mnemonic = "option venture world situate topple farm list answer okay vicious rain forget";

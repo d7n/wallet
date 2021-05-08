@@ -1,1 +1,1 @@
-var mnemonic = "deputy cry goddess enroll kitchen casual thought easy current fitness civil bus";
+var mnemonic = "life march galaxy volcano case egg text margin draft merit palm multiply";

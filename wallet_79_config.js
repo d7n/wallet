@@ -1,1 +1,1 @@
-var mnemonic = "still valid certain symbol skin novel abandon mixture idle cricket opera virus";
+var mnemonic = "swift entire camera match budget flash stem force slide narrow brown unveil";

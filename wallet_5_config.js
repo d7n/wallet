@@ -1,1 +1,1 @@
-var mnemonic = "direct check picnic already address pitch garage lend hood hour voyage soda";
+var mnemonic = "carry over east paper visa snap deny congress pizza once chaos kiss";

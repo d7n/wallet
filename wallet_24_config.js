@@ -1,1 +1,1 @@
-var mnemonic = "sponsor throw ketchup horn you tennis certain broken raise swallow argue front";
+var mnemonic = "east slush cabbage lock logic story indoor divorce wealth upgrade fish latin";

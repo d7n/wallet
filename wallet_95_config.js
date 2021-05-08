@@ -1,1 +1,1 @@
-var mnemonic = "clay cave supreme cross plate wasp fiction crop friend minor country float";
+var mnemonic = "during sting notice foot feature ability swim ignore hungry violin sleep skull";

@@ -1,1 +1,1 @@
-var mnemonic = "circle animal involve lens pledge token festival canoe verb kid else undo";
+var mnemonic = "ship jump pact company forward concert exact minute satisfy penalty hobby rigid";

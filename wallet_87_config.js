@@ -1,1 +1,1 @@
-var mnemonic = "artist popular cousin gold dinner screen torch brick sail egg dentist peanut";
+var mnemonic = "quote forum apart access proof bike inquiry offer rich swallow used kitten";

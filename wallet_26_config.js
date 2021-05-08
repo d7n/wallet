@@ -1,1 +1,1 @@
-var mnemonic = "neck voice destroy broom rib proof empower frown catalog below basic worry";
+var mnemonic = "feed citizen robust main never regret real snack tiny buffalo battle curtain";

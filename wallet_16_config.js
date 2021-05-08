@@ -1,1 +1,1 @@
-var mnemonic = "awful uniform opinion tower scan humor delay office dose correct blouse enter";
+var mnemonic = "help base radio medal rifle upset cliff shuffle decide throw chest boost";

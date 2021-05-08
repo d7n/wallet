@@ -1,1 +1,1 @@
-var mnemonic = "easy alert hollow clay drum inmate coyote hazard jacket audit van above";
+var mnemonic = "alone series noble honey park grape era inspire wish panther else search";

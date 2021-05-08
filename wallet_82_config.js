@@ -1,1 +1,1 @@
-var mnemonic = "quantum remember nominee piano truly village avoid maple bag digital bar employ";
+var mnemonic = "version book step quarter gorilla two cluster intact industry alpha fade fiber";

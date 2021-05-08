@@ -1,1 +1,1 @@
-var mnemonic = "deposit fix february blast hire hedgehog guard purpose task twenty canyon clown";
+var mnemonic = "control illegal sauce cushion toward celery fragile category one symbol people tube";

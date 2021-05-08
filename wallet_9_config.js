@@ -1,1 +1,1 @@
-var mnemonic = "present reveal dolphin ecology blind install bottom dignity basic define egg inquiry";
+var mnemonic = "run eagle visual trim change wash picture clay fruit crime citizen labor";

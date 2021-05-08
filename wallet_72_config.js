@@ -1,1 +1,1 @@
-var mnemonic = "still dream giant hawk hub base volume volcano vote attack vivid crawl";
+var mnemonic = "arrive unit miss dawn harbor chaos conduct hidden bring stumble cupboard umbrella";

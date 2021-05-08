@@ -1,1 +1,1 @@
-var mnemonic = "swim must hidden right close sustain iron home oppose awesome accident deny";
+var mnemonic = "absent cook what cereal opinion vicious destroy fluid blast federal artist rapid";

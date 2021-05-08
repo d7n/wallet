@@ -1,1 +1,1 @@
-var mnemonic = "now gain antenna field educate patch admit snake replace enrich sphere zebra";
+var mnemonic = "trouble surge diary tenant museum shrug income large found cute twist staff";

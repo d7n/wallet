@@ -1,1 +1,1 @@
-var mnemonic = "affair abandon ketchup ankle law frequent bargain girl destroy camp rifle proud";
+var mnemonic = "organ horse draw toward rain finish gloom diamond attack rain glow fresh";

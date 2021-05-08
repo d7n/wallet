@@ -1,1 +1,1 @@
-var mnemonic = "father phone castle vivid grow depth glow dust side pony erase jeans";
+var mnemonic = "sleep input control extra wave spirit purchase picture jungle bless steak weapon";

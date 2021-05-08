@@ -1,1 +1,1 @@
-var mnemonic = "mix sugar pitch else tone tenant brain practice odor banner arch then";
+var mnemonic = "above hockey shrug deputy hotel picture decorate engine crunch clever paddle pear";

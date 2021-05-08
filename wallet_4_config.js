@@ -1,1 +1,1 @@
-var mnemonic = "mixed stereo response process doll width weasel best notable square veteran scout";
+var mnemonic = "motion panic object salute cabin shrimp cabbage exile obtain hat shallow calm";

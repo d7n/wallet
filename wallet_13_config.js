@@ -1,1 +1,1 @@
-var mnemonic = "already funny pretty cause hundred coral give stuff fence bulk yard belt";
+var mnemonic = "acquire gloom airport only guitar hazard proud mammal wisdom pear kite garlic";

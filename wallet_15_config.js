@@ -1,1 +1,1 @@
-var mnemonic = "venue flight language strike tonight step brown address twelve creek polar dream";
+var mnemonic = "gather wool figure ritual menu spatial field girl oak quiz dust own";

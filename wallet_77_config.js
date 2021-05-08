@@ -1,1 +1,1 @@
-var mnemonic = "trim sample force because enrich month novel mercy snake year swift hurt";
+var mnemonic = "museum sugar phone online trim maple install pond region exclude blouse muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "fish target inch squeeze february fitness mass sweet speed jealous seed april";
+var mnemonic = "sausage win win age perfect kiwi kind forum recipe ribbon breeze critic";

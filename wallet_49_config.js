@@ -1,1 +1,1 @@
-var mnemonic = "pause blanket return entry smooth lucky giant loop define cruise night plate";
+var mnemonic = "mobile balcony syrup now credit paper identify limb belt express acoustic foster";

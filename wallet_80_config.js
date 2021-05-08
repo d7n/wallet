@@ -1,1 +1,1 @@
-var mnemonic = "sell divide heavy bonus only flower lizard memory lava vehicle lamp few";
+var mnemonic = "exhibit thrive unusual snake subway enroll jazz wave upon scan elder love";

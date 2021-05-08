@@ -1,1 +1,1 @@
-var mnemonic = "midnight teach version ten van rookie fan exercise tunnel gadget desk offer";
+var mnemonic = "zone cricket dilemma street element gather season baby message boy flush hole";

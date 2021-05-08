@@ -1,1 +1,1 @@
-var mnemonic = "snake spare vanish alert stock visa clerk depend culture relief action ketchup";
+var mnemonic = "reveal left pass knee affair trial perfect gallery grace hand move success";

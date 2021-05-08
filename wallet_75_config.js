@@ -1,1 +1,1 @@
-var mnemonic = "ugly tooth number east must route order absurd agree know avoid update";
+var mnemonic = "adapt burden buyer west ethics shrug motor expose oblige sibling pupil water";

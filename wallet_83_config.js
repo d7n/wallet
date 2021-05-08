@@ -1,1 +1,1 @@
-var mnemonic = "spice husband ranch close monitor innocent crack apology always egg fresh net";
+var mnemonic = "penalty scrub mountain breeze ahead glass simple endorse car agent usual remind";

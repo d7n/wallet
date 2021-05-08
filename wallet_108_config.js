@@ -1,1 +1,1 @@
-var mnemonic = "reason surround flavor voice purpose annual truck tackle axis helmet butter much";
+var mnemonic = "age nice young live erosion bottom quantum exact local gas behave profit";

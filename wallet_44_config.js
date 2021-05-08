@@ -1,1 +1,1 @@
-var mnemonic = "clever left lake ocean brown fetch wing change broccoli flag notice basket";
+var mnemonic = "learn lift route roof guide kind shrug slush prefer derive fury venture";

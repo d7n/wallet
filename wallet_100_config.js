@@ -1,1 +1,1 @@
-var mnemonic = "detail whale love luxury outside bonus typical broccoli erode lawn zebra bridge";
+var mnemonic = "junk purchase found citizen april despair mask joy search bench attract able";

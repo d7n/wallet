@@ -1,1 +1,1 @@
-var mnemonic = "heart seek ostrich inhale congress sword refuse initial slim minimum meadow record";
+var mnemonic = "taxi frost armed wisdom glare amount slogan uphold number unable client brief";

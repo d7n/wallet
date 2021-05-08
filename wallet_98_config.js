@@ -1,1 +1,1 @@
-var mnemonic = "small allow rude pledge relief area mass candy detect sample brick sense";
+var mnemonic = "matrix obscure hint disease jealous wreck coil entire mystery whale lesson spoon";

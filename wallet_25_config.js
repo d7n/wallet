@@ -1,1 +1,1 @@
-var mnemonic = "birth enjoy claw symptom oyster accuse rival rail sorry crack void engine";
+var mnemonic = "put mistake denial violin hire before tip relax start potato general misery";

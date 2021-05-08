@@ -1,1 +1,1 @@
-var mnemonic = "push trial rapid rabbit bulk cigar drill spike captain jar thank system";
+var mnemonic = "virus rotate intact sense fresh birth scorpion soccer convince trick open aware";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug mixture quantum morning bread include museum harvest hidden kiss oyster milk";
+var mnemonic = "script mixed imitate uniform scissors laptop supreme tag thunder dry protect tray";

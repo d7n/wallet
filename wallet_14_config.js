@@ -1,1 +1,1 @@
-var mnemonic = "nasty topic bonus gas slogan conduct general steel dry diesel thing energy";
+var mnemonic = "area glass prize pupil shrimp forum oxygen spy shy midnight hedgehog day";

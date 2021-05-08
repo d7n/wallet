@@ -1,1 +1,1 @@
-var mnemonic = "cry female wealth honey clog grocery can chapter card name laptop bracket";
+var mnemonic = "crawl quarter certain current embody service grab very desert fan cruel capital";

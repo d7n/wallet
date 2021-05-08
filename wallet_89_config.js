@@ -1,1 +1,1 @@
-var mnemonic = "joy nice fly excite luggage firm food quiz arrow raise soft dream";
+var mnemonic = "infant leaf that build rude arch tennis easily ten hobby clarify carbon";

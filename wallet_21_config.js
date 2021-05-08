@@ -1,1 +1,1 @@
-var mnemonic = "horror predict slice scale march lawn unique awful recycle raw theme gaze";
+var mnemonic = "slide village click current road small lumber wrestle liar salad address donate";

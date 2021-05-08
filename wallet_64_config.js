@@ -1,1 +1,1 @@
-var mnemonic = "else today mixture wear team wolf dilemma pledge height beauty ritual promote";
+var mnemonic = "pear electric garment cram awful brother twenty swarm syrup nominee shrimp adapt";

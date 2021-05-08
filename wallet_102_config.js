@@ -1,1 +1,1 @@
-var mnemonic = "refuse exotic sock news laugh shy pitch grid zone gadget zone gravity";
+var mnemonic = "tomato hour damp mechanic matter wasp chaos exile term enlist announce record";

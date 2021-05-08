@@ -1,1 +1,1 @@
-var mnemonic = "heart include puzzle immense early response net festival benefit inherit item acid";
+var mnemonic = "plunge motion bachelor gate burger soda friend cake trouble ability sunny army";
