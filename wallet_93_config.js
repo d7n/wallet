@@ -1,1 +1,1 @@
-var mnemonic = "embrace daughter strong prepare dumb surprise night mango cause novel attract focus";
+var mnemonic = "pill rain exhibit trouble say ship talent arrest glare orange device owner";

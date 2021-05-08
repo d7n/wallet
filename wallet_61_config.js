@@ -1,1 +1,1 @@
-var mnemonic = "owner celery clump knee quarter put wink loop release youth satisfy found";
+var mnemonic = "tail summer donkey enlist cave fox join parent butter satoshi crop pluck";

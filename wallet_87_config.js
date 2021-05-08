@@ -1,1 +1,1 @@
-var mnemonic = "match visual decrease veteran analyst forum bright bargain near achieve popular race";
+var mnemonic = "shadow trust aerobic sick merry kiss slice budget next sing verb grief";

@@ -1,1 +1,1 @@
-var mnemonic = "oval total issue aerobic fabric improve horn lawn black audit hold release";
+var mnemonic = "ring load depart bar panda pen owner blood gasp shy van roof";

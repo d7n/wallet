@@ -1,1 +1,1 @@
-var mnemonic = "dress feel act movie subway champion chat emotion girl salt treat cheap";
+var mnemonic = "ivory toward rare nose forum scheme orphan pulse rebuild satoshi oppose marble";

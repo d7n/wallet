@@ -1,1 +1,1 @@
-var mnemonic = "apple sand weather obtain inflict stick exile second call wedding return sight";
+var mnemonic = "hope tenant wine sight coach man believe service phone sauce calm crouch";

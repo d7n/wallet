@@ -1,1 +1,1 @@
-var mnemonic = "flush onion hockey cricket then fox equal wise inch garbage across speed";
+var mnemonic = "air clean delay peace weapon flag plastic danger protect settle concert vocal";

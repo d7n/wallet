@@ -1,1 +1,1 @@
-var mnemonic = "blush hospital motor ocean figure pledge dilemma vanish upset auto someone divorce";
+var mnemonic = "honey bamboo segment lady nephew biology peanut famous fit exercise grace employ";

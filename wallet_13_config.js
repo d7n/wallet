@@ -1,1 +1,1 @@
-var mnemonic = "shell stock author mystery height service theme kitchen butter fury dignity hope";
+var mnemonic = "ozone chapter person leave federal canyon lion cheese evil drive cup huge";

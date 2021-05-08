@@ -1,1 +1,1 @@
-var mnemonic = "pair document return pride acid oblige bring license exact govern gravity laundry";
+var mnemonic = "shed cloud spoon disagree tank urban lumber across dad wrong film author";

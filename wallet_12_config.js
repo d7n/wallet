@@ -1,1 +1,1 @@
-var mnemonic = "vintage ensure decade siren panic mosquito deer rose avoid scatter basket trophy";
+var mnemonic = "cloth polar town clown foam bracket able hand label ketchup narrow first";

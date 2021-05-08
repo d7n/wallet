@@ -1,1 +1,1 @@
-var mnemonic = "wet credit swamp plate put shoe poem cereal hard citizen gun polar";
+var mnemonic = "ten danger web sting sample recall where decide broccoli depend easy turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "truly slim install raise certain universe produce horse scare guard chicken undo";
+var mnemonic = "change antique road joy intact fit predict mass equip assume offer gaze";

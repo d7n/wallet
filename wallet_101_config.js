@@ -1,1 +1,1 @@
-var mnemonic = "kiss era vapor below easily unhappy raw fetch mother purpose fold renew";
+var mnemonic = "error atom below mass filter powder reflect cave theory lobster away clarify";

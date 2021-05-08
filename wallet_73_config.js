@@ -1,1 +1,1 @@
-var mnemonic = "borrow call inside core bone label train scheme circle fringe daughter glass";
+var mnemonic = "burst horse knock empty fatigue loyal track catch south chimney will fun";

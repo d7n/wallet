@@ -1,1 +1,1 @@
-var mnemonic = "unfold holiday purity attend kit minimum course dose illegal elbow often caught";
+var mnemonic = "image snow horn verify place struggle robust monitor shallow scale disease hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "elder despair peace alarm wood inside away tribe romance avocado duck poet";
+var mnemonic = "smooth wear polar rude ancient ordinary medal olympic giraffe ethics sauce crucial";

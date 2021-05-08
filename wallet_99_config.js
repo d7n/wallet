@@ -1,1 +1,1 @@
-var mnemonic = "sorry mechanic garden almost almost frown phone rapid obey giraffe often oxygen";
+var mnemonic = "race spawn acid slide answer border tail surface inhale elite domain wise";

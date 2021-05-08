@@ -1,1 +1,1 @@
-var mnemonic = "eagle heavy lemon physical capital month problem brass pudding daring regret unveil";
+var mnemonic = "accident jacket fence uncover barely illness shrimp squirrel hurry ethics aspect year";

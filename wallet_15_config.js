@@ -1,1 +1,1 @@
-var mnemonic = "orbit quit give spray calm harbor syrup chest image fortune merit day";
+var mnemonic = "blush swallow desert mix more item nominee robust rotate elbow boring setup";

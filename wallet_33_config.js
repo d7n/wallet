@@ -1,1 +1,1 @@
-var mnemonic = "quit hundred stomach giggle glow sample alpha liberty purity merge air behind";
+var mnemonic = "husband record token carbon teach assist sniff remember often final pelican ripple";

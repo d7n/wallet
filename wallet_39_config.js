@@ -1,1 +1,1 @@
-var mnemonic = "symbol skate daring hawk scout eternal option inject oxygen wait right biology";
+var mnemonic = "about iron segment emotion pyramid cereal wide famous equip flight small hen";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel raven fatal phrase area decrease detect portion trumpet bridge dilemma health";
+var mnemonic = "combine ozone govern secret myself high speed betray very brand hobby across";

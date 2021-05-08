@@ -1,1 +1,1 @@
-var mnemonic = "verb people observe rain eight all arch exclude regular before shine gravity";
+var mnemonic = "copper fit decrease immune laptop avoid cover enrich crystal tuna exercise saddle";

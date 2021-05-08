@@ -1,1 +1,1 @@
-var mnemonic = "hip cake gown click point lobster rebel luxury distance ripple bacon apart";
+var mnemonic = "tourist easily raccoon retreat dragon curious rent hood advice remind syrup crucial";

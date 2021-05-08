@@ -1,1 +1,1 @@
-var mnemonic = "spare crunch claim embody file boost lamp arrive pudding find vessel address";
+var mnemonic = "cluster south degree frozen early slice old update august family hero gate";

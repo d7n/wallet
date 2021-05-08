@@ -1,1 +1,1 @@
-var mnemonic = "confirm come dutch ahead trip donate second chapter blouse bicycle unveil bird";
+var mnemonic = "journey account project drastic over onion remind hedgehog feature indicate symptom source";

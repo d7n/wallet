@@ -1,1 +1,1 @@
-var mnemonic = "brush know message tongue aim pill cost gap north amazing joke pact";
+var mnemonic = "south empty defy letter cream horn athlete educate group hint sport sight";

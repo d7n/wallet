@@ -1,1 +1,1 @@
-var mnemonic = "misery oyster base combine excess later truck lab gaze report remove crumble";
+var mnemonic = "they jaguar vivid erosion crew neck metal alone allow mixed belt that";

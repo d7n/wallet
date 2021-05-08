@@ -1,1 +1,1 @@
-var mnemonic = "make turn stand furnace ability enhance sketch radio actor occur hockey law";
+var mnemonic = "super ladder pattern broccoli gym kiss smart leopard expose ability limb rocket";

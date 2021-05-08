@@ -1,1 +1,1 @@
-var mnemonic = "tourist struggle elder alter present motor high consider rare hello roof mimic";
+var mnemonic = "trap comic island explain long auction climb ozone fashion patch option clerk";

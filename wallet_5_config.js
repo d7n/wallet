@@ -1,1 +1,1 @@
-var mnemonic = "muffin enhance drum differ swing broom purse net midnight wise enroll trash";
+var mnemonic = "total vote topple fluid reveal move company grace solve sketch summer crawl";

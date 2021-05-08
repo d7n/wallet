@@ -1,1 +1,1 @@
-var mnemonic = "slot regular bullet wrong angle welcome series debate marriage horse common wide";
+var mnemonic = "tuition tower art razor moral gun trumpet category exhaust broom hazard subway";

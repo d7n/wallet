@@ -1,1 +1,1 @@
-var mnemonic = "supreme narrow mother grief expose decorate crash remind barrel real paddle marriage";
+var mnemonic = "release good tuition method merge bird okay truck wrong primary unfold mouse";

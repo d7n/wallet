@@ -1,1 +1,1 @@
-var mnemonic = "divide nice ancient whale verb walnut pen maze portion bag surface another";
+var mnemonic = "metal fork toy egg life regular motion belt large timber gravity arrow";

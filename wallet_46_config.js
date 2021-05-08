@@ -1,1 +1,1 @@
-var mnemonic = "runway you embrace fiscal surprise liberty second tip delay system arm term";
+var mnemonic = "foil armed ghost elegant hold raccoon supreme glove hockey danger soul feature";

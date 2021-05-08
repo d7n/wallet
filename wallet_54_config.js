@@ -1,1 +1,1 @@
-var mnemonic = "cheese pull cigar famous patrol lamp erase tank series jewel path satisfy";
+var mnemonic = "marriage fever dentist crisp scrub surprise liquid bar enact kind resource sport";

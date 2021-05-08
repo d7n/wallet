@@ -1,1 +1,1 @@
-var mnemonic = "gospel stable panther episode inmate emotion occur stay actress weapon plate galaxy";
+var mnemonic = "guitar clock isolate jump wing rotate spike miracle atom wet express century";

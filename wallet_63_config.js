@@ -1,1 +1,1 @@
-var mnemonic = "art bomb gather popular lecture kick ladder virus cloud police hand review";
+var mnemonic = "zoo have creek bind own together wrap good kid pizza volcano want";

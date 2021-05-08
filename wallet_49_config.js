@@ -1,1 +1,1 @@
-var mnemonic = "edit trouble stick state dog popular detect breeze unit senior tackle common";
+var mnemonic = "inner weapon hidden father raise add income quiz blast prevent around pet";

@@ -1,1 +1,1 @@
-var mnemonic = "room child kind grid hurry rack okay raw horror legend dignity carpet";
+var mnemonic = "mystery cotton wheel inspire mix regret inherit artefact remain seat fog crisp";

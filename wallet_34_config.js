@@ -1,1 +1,1 @@
-var mnemonic = "water hidden route scan text social enforce deposit scale panel any birth";
+var mnemonic = "caught brief march grape notice ecology crater easy surge middle spatial essay";

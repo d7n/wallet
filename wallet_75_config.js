@@ -1,1 +1,1 @@
-var mnemonic = "forum special antique silk labor cluster kick emotion slow lake rude crystal";
+var mnemonic = "vivid scene swear link mean liar essay glass pilot swamp vendor pepper";

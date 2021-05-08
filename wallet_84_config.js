@@ -1,1 +1,1 @@
-var mnemonic = "dish echo wait lunch coin material nest joke sad believe lift witness";
+var mnemonic = "obey can glue web length suit blame bonus refuse dish minor identify";

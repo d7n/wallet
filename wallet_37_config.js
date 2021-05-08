@@ -1,1 +1,1 @@
-var mnemonic = "brick rib author insect critic swap food satoshi garment vacant aware light";
+var mnemonic = "ready credit chronic dial tower teach fall energy pass observe salute duck";

@@ -1,1 +1,1 @@
-var mnemonic = "whale wheel renew carry paddle clinic oblige assist twist issue casual doll";
+var mnemonic = "tornado patch solid copy that melt peace swing caution guard harsh diet";

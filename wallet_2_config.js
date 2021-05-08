@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog off dust subway abstract canyon weather mail rich ticket street voyage";
+var mnemonic = "icon robust isolate mosquito boost adjust green visit crop wide focus mansion";

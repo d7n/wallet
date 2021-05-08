@@ -1,1 +1,1 @@
-var mnemonic = "rescue rifle fault sketch favorite wool kiwi monitor this rare hip cost";
+var mnemonic = "muscle radio robust start parade okay salon flash nice strong upper lift";

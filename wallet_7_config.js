@@ -1,1 +1,1 @@
-var mnemonic = "addict awkward wink kangaroo toilet asset black people tongue food under magnet";
+var mnemonic = "repeat upset butter lounge warfare hole airport income obey defy cruise praise";

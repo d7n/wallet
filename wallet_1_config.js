@@ -1,1 +1,1 @@
-var mnemonic = "poverty small pulse frog print jealous denial high apart lounge lawn outer";
+var mnemonic = "address laptop ostrich mule soul tenant obtain injury bean impact soon false";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap pole cabin ginger achieve modify rifle guilt entire seed animal vehicle";
+var mnemonic = "cool toddler face fuel equal ask iron suspect program bus raven digital";

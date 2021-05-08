@@ -1,1 +1,1 @@
-var mnemonic = "crunch sadness rabbit swallow when elephant menu limit acid nasty where lemon";
+var mnemonic = "olive nuclear flush twenty claim video adult retire rescue fork unveil rocket";

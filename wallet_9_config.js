@@ -1,1 +1,1 @@
-var mnemonic = "tree radio lunar grid gorilla tonight abstract volume call roof pet palm";
+var mnemonic = "angry digital horse inherit extend pet wood pet shiver prison cash bachelor";

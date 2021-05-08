@@ -1,1 +1,1 @@
-var mnemonic = "afford room lucky skill account predict lonely muscle noodle egg nothing neutral";
+var mnemonic = "void mystery spider observe host stand option material half guard whisper reform";

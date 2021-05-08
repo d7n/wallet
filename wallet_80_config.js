@@ -1,1 +1,1 @@
-var mnemonic = "flame rebel boss cheap that delay family robust lumber paddle define cook";
+var mnemonic = "course funny nothing march hen paddle census weird chimney sugar arena garage";

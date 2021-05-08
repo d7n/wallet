@@ -1,1 +1,1 @@
-var mnemonic = "sausage raise detect retire garden vacuum right slam unlock eagle pill patrol";
+var mnemonic = "noise patient uniform abstract marine shock exchange art skate describe soda birth";

@@ -1,1 +1,1 @@
-var mnemonic = "kind task supply mean have beyond undo lottery shed garden rotate resource";
+var mnemonic = "error tumble ripple motor jump priority save chase rude foil canvas divorce";

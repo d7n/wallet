@@ -1,1 +1,1 @@
-var mnemonic = "vacuum wheat version rent bundle valid pair normal surround fever female neck";
+var mnemonic = "favorite gadget guide essay valid bread mechanic height oval dove require second";

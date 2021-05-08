@@ -1,1 +1,1 @@
-var mnemonic = "gravity social fluid wrap trend project crush carpet fatigue rhythm logic end";
+var mnemonic = "puppy ecology pluck spot plunge robot frost social crater tennis garbage rocket";

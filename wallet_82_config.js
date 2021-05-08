@@ -1,1 +1,1 @@
-var mnemonic = "fan vague lesson pause measure dry skin voyage sense vessel yard monkey";
+var mnemonic = "chimney today trap cloud decrease space change calm shoulder input honey drink";

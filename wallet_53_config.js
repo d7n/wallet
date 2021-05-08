@@ -1,1 +1,1 @@
-var mnemonic = "waste sugar tag month wear belt light announce utility warrior solid emerge";
+var mnemonic = "copy obey faith approve cruise elevator twelve famous job student cabbage recall";

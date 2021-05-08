@@ -1,1 +1,1 @@
-var mnemonic = "swim afraid deliver force burst loop room wash shove inhale ring hood";
+var mnemonic = "immune shiver hurry hollow muffin hungry luxury blade choose solid strategy modify";

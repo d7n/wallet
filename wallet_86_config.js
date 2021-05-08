@@ -1,1 +1,1 @@
-var mnemonic = "slam problem vehicle enact forest forget primary spread stick net solve choose";
+var mnemonic = "hobby labor arrive ice waste judge shiver account prison cash scout topple";

@@ -1,1 +1,1 @@
-var mnemonic = "notice flame maid alarm diesel review menu roof ceiling suit script nerve";
+var mnemonic = "else clip segment goddess crater frog grunt oven eye meat chronic ankle";

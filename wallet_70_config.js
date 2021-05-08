@@ -1,1 +1,1 @@
-var mnemonic = "advice name wall process loan garden airport sadness humor wreck rice fuel";
+var mnemonic = "method lazy grit clean holiday palace wedding hungry flight next night drill";

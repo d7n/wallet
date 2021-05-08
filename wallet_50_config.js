@@ -1,1 +1,1 @@
-var mnemonic = "fringe clarify swap invite busy drastic thumb custom wheel spot chronic potato";
+var mnemonic = "ecology turkey verb matrix skirt wall already trip tuition fiscal powder dismiss";

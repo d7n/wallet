@@ -1,1 +1,1 @@
-var mnemonic = "arch march milk zoo cargo thumb nest swap rich topple season sure";
+var mnemonic = "broom clarify hold lecture demise resist smooth humble slice syrup middle unfair";

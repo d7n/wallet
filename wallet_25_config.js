@@ -1,1 +1,1 @@
-var mnemonic = "shuffle mimic aim elder brown motor under jealous tooth green wish crash";
+var mnemonic = "upgrade again slogan agent crouch tackle believe trap immense wall axis canvas";

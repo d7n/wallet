@@ -1,1 +1,1 @@
-var mnemonic = "amazing wrestle flower charge warrior process boat debate ice lens fit hurry";
+var mnemonic = "online discover section elite asset theme nurse ketchup plastic novel wild pony";

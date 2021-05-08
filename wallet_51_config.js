@@ -1,1 +1,1 @@
-var mnemonic = "oppose stumble tell file prosper sauce soft cake grass night spike pizza";
+var mnemonic = "dismiss icon cricket now east among similar all rose never grass soap";

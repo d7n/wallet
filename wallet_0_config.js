@@ -1,1 +1,1 @@
-var mnemonic = "permit duck auto country vicious winner unfold cruel exact employ medal logic";
+var mnemonic = "female same wool core rapid two thumb feature system castle dizzy note";

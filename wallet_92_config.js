@@ -1,1 +1,1 @@
-var mnemonic = "party swing save bone essay real use bomb goddess shoulder arena prepare";
+var mnemonic = "present whisper glass breeze artefact sound wrong broken glory deal wink offer";

@@ -1,1 +1,1 @@
-var mnemonic = "mango can drift ride possible document public special leaf left bargain palm";
+var mnemonic = "school boat enable crop punch minor tiny shoe royal glide filter distance";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify cactus knife exotic blast purpose bus primary forest flock dune farm";
+var mnemonic = "almost demand banner bullet coconut awful hockey action attend lucky obtain unit";

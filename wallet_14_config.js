@@ -1,1 +1,1 @@
-var mnemonic = "bean smart scorpion priority fringe diamond lab skull elbow brick slide grid";
+var mnemonic = "priority hip fold mail butter expect inmate prefer nut height ring dad";

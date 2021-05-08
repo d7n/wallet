@@ -1,1 +1,1 @@
-var mnemonic = "place slogan abandon glad hunt frown wagon slight arrest fragile nose federal";
+var mnemonic = "bind symbol evoke aim nephew stuff chef soup public raise column orient";

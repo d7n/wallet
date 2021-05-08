@@ -1,1 +1,1 @@
-var mnemonic = "trip cheese enhance entry brush wet spawn love letter obvious cancel soda";
+var mnemonic = "exit other barrel ability olive defense whisper wink find pipe buzz almost";

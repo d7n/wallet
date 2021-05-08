@@ -1,1 +1,1 @@
-var mnemonic = "primary certain angle tenant sketch find gate slow swift artwork oval prize";
+var mnemonic = "dry stool razor elder rifle glass exchange beauty soldier sheriff betray great";

@@ -1,1 +1,1 @@
-var mnemonic = "thing allow powder come black funny year wash smoke winter smile focus";
+var mnemonic = "drum voice outside evidence area excuse fashion know ripple glue clock always";

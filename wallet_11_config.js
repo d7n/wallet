@@ -1,1 +1,1 @@
-var mnemonic = "trick tortoise false hedgehog sort elite pause topic fruit genius faculty left";
+var mnemonic = "catalog arm used polar trade few desk jaguar loud atom coast firm";

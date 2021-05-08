@@ -1,1 +1,1 @@
-var mnemonic = "daring pluck fly rice clarify alter already plunge age outer tunnel cash";
+var mnemonic = "syrup allow uncover tube language coconut throw stable negative fire raise evidence";

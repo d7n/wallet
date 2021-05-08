@@ -1,1 +1,1 @@
-var mnemonic = "client found emotion cycle chalk jelly seek winner mimic virus drama what";
+var mnemonic = "fall dash satoshi first mammal cheap horror stay steel dream noise silly";
