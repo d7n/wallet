@@ -1,1 +1,1 @@
-var mnemonic = "mail seed bind party pitch error inhale fork cereal follow trim couple";
+var mnemonic = "horse dutch guitar team struggle believe talent orphan meat cactus three hotel";

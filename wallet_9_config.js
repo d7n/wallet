@@ -1,1 +1,1 @@
-var mnemonic = "turtle lonely relax voice screen size fox fetch recycle garden lake access";
+var mnemonic = "peanut wire indoor paddle marriage top mean peanut august pet riot clutch";

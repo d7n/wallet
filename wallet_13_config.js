@@ -1,1 +1,1 @@
-var mnemonic = "tackle voyage honey vocal pupil earn tape taxi eight voice upgrade please";
+var mnemonic = "shy marine someone feel hover little junk illness chief ladder eagle sword";

@@ -1,1 +1,1 @@
-var mnemonic = "agree patient ahead vendor key trick scene tortoise have era come join";
+var mnemonic = "wonder average what enable reveal pumpkin fragile blur toe mesh choice street";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel essence merge scorpion globe eager play drive situate execute few fix";
+var mnemonic = "cave obscure crunch main dish club wet become list theory turkey bitter";

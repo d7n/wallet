@@ -1,1 +1,1 @@
-var mnemonic = "offer pottery disease surround rough hotel flock veteran flame screen page wool";
+var mnemonic = "feed click best vacant pet spell certain tired snack choose spawn ice";

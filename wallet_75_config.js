@@ -1,1 +1,1 @@
-var mnemonic = "issue brother electric pear tool angry armed champion garbage duck october wheat";
+var mnemonic = "street word lizard survey warfare citizen ancient noodle food height marriage fly";

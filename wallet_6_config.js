@@ -1,1 +1,1 @@
-var mnemonic = "soon bracket void illegal math grid will illegal wreck coast exit conduct";
+var mnemonic = "fly correct witness bird speed balcony use great pledge call alley iron";

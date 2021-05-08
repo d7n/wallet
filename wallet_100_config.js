@@ -1,1 +1,1 @@
-var mnemonic = "sure custom riot horse focus target polar morning ancient purchase rebel strike";
+var mnemonic = "hawk beef update burger simple purity brass critic endorse ankle ancient limb";

@@ -1,1 +1,1 @@
-var mnemonic = "view pause avocado sign humor outer person castle distance vast loop margin";
+var mnemonic = "patient flee pond scale maple course this hockey frog crystal verify bomb";

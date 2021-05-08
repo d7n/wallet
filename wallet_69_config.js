@@ -1,1 +1,1 @@
-var mnemonic = "still surface add inform alter lunar drip bundle grunt street size nurse";
+var mnemonic = "kiwi lecture envelope wild lecture market push vessel swallow pyramid grid lawn";

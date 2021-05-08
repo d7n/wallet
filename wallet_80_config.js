@@ -1,1 +1,1 @@
-var mnemonic = "roof sister renew garden powder sign mouse retire hospital buyer annual sting";
+var mnemonic = "badge general lazy rebuild clay ghost eye pulp evidence practice chicken solid";

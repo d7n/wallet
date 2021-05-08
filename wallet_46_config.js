@@ -1,1 +1,1 @@
-var mnemonic = "rely possible pen there human coil decrease oil reveal april runway layer";
+var mnemonic = "glimpse pet news anxiety salute liberty edge neglect shoe opera return sketch";

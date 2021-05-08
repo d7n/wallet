@@ -1,1 +1,1 @@
-var mnemonic = "lazy wolf negative amateur myself point inflict panther mask key prepare depart";
+var mnemonic = "analyst gap enact noodle elephant grape bench inform million inject pond book";

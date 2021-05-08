@@ -1,1 +1,1 @@
-var mnemonic = "inmate cradle hurry about fame inhale deposit surface metal urban echo miracle";
+var mnemonic = "since wood mean canyon analyst various type latin relief rule marriage door";

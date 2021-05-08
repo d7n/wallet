@@ -1,1 +1,1 @@
-var mnemonic = "protect hundred chimney mansion play title loop tragic guard gospel sleep switch";
+var mnemonic = "subway position detail mother inform shuffle palace thunder able illness cat domain";

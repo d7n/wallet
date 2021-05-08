@@ -1,1 +1,1 @@
-var mnemonic = "obey sweet acquire crater gentle damp pipe author mercy assist ancient possible";
+var mnemonic = "step frame risk cupboard skirt enrich divorce vicious math report retire please";

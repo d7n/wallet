@@ -1,1 +1,1 @@
-var mnemonic = "hurdle sustain science vault pizza make apology famous pigeon habit tape century";
+var mnemonic = "wool child poem crunch captain hip one aim vacant snap story balance";

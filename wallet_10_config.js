@@ -1,1 +1,1 @@
-var mnemonic = "siren tenant win okay party online ginger dream reason neutral witness crack";
+var mnemonic = "purity clay iron level canal degree swarm warm frame tired love mutual";

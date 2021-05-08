@@ -1,1 +1,1 @@
-var mnemonic = "embrace sand hybrid seven post stable cousin phrase coyote alert gorilla stairs";
+var mnemonic = "music lab rather twelve boat purchase uncover lumber wait limit below manual";

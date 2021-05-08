@@ -1,1 +1,1 @@
-var mnemonic = "mule job manage flock office noble short address wreck forward board mosquito";
+var mnemonic = "aware enlist lounge rose save demise crime exhibit soap legal bitter venue";

@@ -1,1 +1,1 @@
-var mnemonic = "diet anchor great brother material joy coral devote olive tell hero one";
+var mnemonic = "goose call glove this noble buffalo spray miss network iron lemon hair";

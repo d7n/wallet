@@ -1,1 +1,1 @@
-var mnemonic = "merge bind save display track toss harvest coral hub moral layer deposit";
+var mnemonic = "ice apple provide abuse airport ball harsh hello sick repeat response item";

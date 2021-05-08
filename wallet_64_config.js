@@ -1,1 +1,1 @@
-var mnemonic = "brisk deal clinic chase piece hedgehog bleak accuse awful wood piece polar";
+var mnemonic = "measure focus funny magnet donkey empower bid record earth repair unknown laundry";

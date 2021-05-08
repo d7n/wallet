@@ -1,1 +1,1 @@
-var mnemonic = "large glide opera evolve cave salute have bonus bronze silver tank elite";
+var mnemonic = "someone misery collect divorce quantum fine left summer gadget arrow weather noble";

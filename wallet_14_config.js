@@ -1,1 +1,1 @@
-var mnemonic = "agent before stable choose tortoise food slam educate wash sadness local twin";
+var mnemonic = "police chest awful purse text loop wall nose resource soul garment outside";

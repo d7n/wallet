@@ -1,1 +1,1 @@
-var mnemonic = "arch game omit protect tilt equip peanut nasty cheese sibling bitter you";
+var mnemonic = "museum explain bundle picnic bargain snake globe spawn pony rule group saddle";

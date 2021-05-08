@@ -1,1 +1,1 @@
-var mnemonic = "weekend ignore sight churn club learn push dust poverty patient silly topic";
+var mnemonic = "sea vessel detail gravity grape curve employ agree hammer degree session one";

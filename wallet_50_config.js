@@ -1,1 +1,1 @@
-var mnemonic = "near butter echo rude siege elite scan nut waste consider sing pull";
+var mnemonic = "evolve liar crack fragile long install accuse pepper photo erase view risk";

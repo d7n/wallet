@@ -1,1 +1,1 @@
-var mnemonic = "mistake banner emerge marble rabbit burger problem delay trophy broom song surface";
+var mnemonic = "like indicate tennis proud ordinary equal design educate fit scatter urban glare";

@@ -1,1 +1,1 @@
-var mnemonic = "wash cost best shop tiger elbow glimpse fit slam patrol trade tongue";
+var mnemonic = "tragic music edge loop churn broccoli general lunar suggest maple vibrant portion";

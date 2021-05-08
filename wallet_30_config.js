@@ -1,1 +1,1 @@
-var mnemonic = "exact broccoli cradle sport soap domain exile brief all state top duty";
+var mnemonic = "sphere champion road unhappy code jar arrest vehicle rack account shallow spend";

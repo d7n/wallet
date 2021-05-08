@@ -1,1 +1,1 @@
-var mnemonic = "struggle social company side pause machine truth label neutral vapor nuclear peanut";
+var mnemonic = "bind symbol repair life immense answer salmon ecology ring gasp metal inquiry";

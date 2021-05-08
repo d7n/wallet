@@ -1,1 +1,1 @@
-var mnemonic = "insane news trend apology wonder lift museum grace carpet food office miracle";
+var mnemonic = "exhibit answer trust venue fortune label capital maid habit evidence stomach obvious";

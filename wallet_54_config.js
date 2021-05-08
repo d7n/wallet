@@ -1,1 +1,1 @@
-var mnemonic = "float custom group genre fox baby bonus clinic lamp city tomato laptop";
+var mnemonic = "deputy excite hobby inject ice sure color reunion super dumb gorilla advice";

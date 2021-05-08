@@ -1,1 +1,1 @@
-var mnemonic = "gauge tongue tired narrow decade sure dose try drop type brain rose";
+var mnemonic = "kangaroo struggle embark glide van switch twelve trial open scissors wrap churn";

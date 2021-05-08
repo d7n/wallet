@@ -1,1 +1,1 @@
-var mnemonic = "expose today decade resist finish chaos govern upper speak laundry parrot forum";
+var mnemonic = "march strong oyster fan mean symptom head scene keep quick tuna learn";

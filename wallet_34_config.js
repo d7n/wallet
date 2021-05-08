@@ -1,1 +1,1 @@
-var mnemonic = "fault inner candy travel ankle father print armed reveal middle athlete pet";
+var mnemonic = "equal figure pattern ski grow exhibit vicious before leaf penalty differ sting";

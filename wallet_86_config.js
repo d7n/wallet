@@ -1,1 +1,1 @@
-var mnemonic = "conduct clean leisure better goat can vital angry away imitate layer please";
+var mnemonic = "scan violin various view dash carpet extra wall lamp furnace better develop";

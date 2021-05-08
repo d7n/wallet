@@ -1,1 +1,1 @@
-var mnemonic = "start actual among ugly doll vessel base announce music surprise citizen damage";
+var mnemonic = "rural merry frown spread twist salute animal together please shy crowd kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare cute fortune crack harvest innocent grab review legend effort exotic together";
+var mnemonic = "venue attend venue royal model unit dirt pole silent calm brand glimpse";

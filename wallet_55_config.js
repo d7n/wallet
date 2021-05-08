@@ -1,1 +1,1 @@
-var mnemonic = "jealous antenna casual proof tooth upper private kiss person hero pioneer coconut";
+var mnemonic = "display armor print dance spatial sick shoulder program normal main birth smile";

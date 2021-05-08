@@ -1,1 +1,1 @@
-var mnemonic = "kit world pen pair flat tattoo gate club better pave notice amused";
+var mnemonic = "fragile bid before box march very talent universe hollow remind basic cattle";

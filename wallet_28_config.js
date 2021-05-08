@@ -1,1 +1,1 @@
-var mnemonic = "clap citizen rival interest goose squirrel cupboard coyote list view survey eagle";
+var mnemonic = "flower domain damage close prize south lucky apple follow sponsor electric trigger";

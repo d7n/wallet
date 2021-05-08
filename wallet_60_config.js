@@ -1,1 +1,1 @@
-var mnemonic = "hidden panic credit else consider present coin spray fabric hundred section wasp";
+var mnemonic = "obtain fringe aerobic boost tackle page laptop ripple tide nurse good mixture";

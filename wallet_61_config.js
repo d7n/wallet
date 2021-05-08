@@ -1,1 +1,1 @@
-var mnemonic = "brand connect people next food offer kiss keen slogan echo regular undo";
+var mnemonic = "card silk vacant input undo own poet year rebuild impose catch twin";

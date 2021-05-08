@@ -1,1 +1,1 @@
-var mnemonic = "protect pen fatal light menu danger author vague tip cloth false lake";
+var mnemonic = "quote typical teach setup peasant swamp safe weird palace exhaust giraffe wisdom";

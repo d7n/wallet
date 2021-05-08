@@ -1,1 +1,1 @@
-var mnemonic = "suggest token east hero metal laundry matrix disorder shove kick health unhappy";
+var mnemonic = "giraffe spray canyon sadness comfort mystery afraid marriage file pigeon kind sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon day write raw iron park fall tag margin west tiny ribbon";
+var mnemonic = "hurdle pony cram latin question dad wing civil judge someone ethics empower";

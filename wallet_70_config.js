@@ -1,1 +1,1 @@
-var mnemonic = "timber health hybrid anchor teach food goddess sell lounge hello relax neither";
+var mnemonic = "album deer verify link social session cat sweet genuine mimic throw seat";

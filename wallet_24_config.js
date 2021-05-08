@@ -1,1 +1,1 @@
-var mnemonic = "tunnel great remind radio grape turtle census label language gentle obey run";
+var mnemonic = "first occur hollow throw foil dad famous spray action reopen oven message";

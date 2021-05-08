@@ -1,1 +1,1 @@
-var mnemonic = "coyote travel duty fat rural onion slush verb upgrade jealous visa hole";
+var mnemonic = "yellow unaware matter member kid ostrich crane point evidence park cargo release";

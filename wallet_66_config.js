@@ -1,1 +1,1 @@
-var mnemonic = "slice veteran future student knife dose unusual account hat among genre insect";
+var mnemonic = "one axis cheap clutch layer guide inquiry copper furnace during session initial";

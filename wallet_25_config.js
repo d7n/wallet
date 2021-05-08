@@ -1,1 +1,1 @@
-var mnemonic = "silk scatter collect galaxy anger example warfare spoon service hover slight recall";
+var mnemonic = "soccer diet middle update rookie smile wash hurry easy venture utility deliver";

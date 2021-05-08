@@ -1,1 +1,1 @@
-var mnemonic = "fortune phrase glory occur copper actual scrap young skate food suit theme";
+var mnemonic = "under shiver unique hat toss nurse identify say energy open doctor unusual";

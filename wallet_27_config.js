@@ -1,1 +1,1 @@
-var mnemonic = "clock vital auto half mammal demand utility unaware age core sheriff thought";
+var mnemonic = "gown teach tackle total cat cabbage puzzle potato ask depth tiger rug";

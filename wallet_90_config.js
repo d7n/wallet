@@ -1,1 +1,1 @@
-var mnemonic = "silver grocery focus gown taxi tag warm logic furnace giraffe shed salt";
+var mnemonic = "tackle voice salon wolf weapon vocal anger cousin heart chest drift crush";

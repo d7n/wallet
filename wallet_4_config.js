@@ -1,1 +1,1 @@
-var mnemonic = "width demise belt toddler dish praise crumble patient patient upgrade foil afraid";
+var mnemonic = "regret tree error sea position east void clarify oil lazy patient void";

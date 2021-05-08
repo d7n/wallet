@@ -1,1 +1,1 @@
-var mnemonic = "modify cinnamon six answer fuel must shield foster found hurt release actual";
+var mnemonic = "hockey focus stamp senior erosion rail pluck certain bamboo lift nation tomorrow";

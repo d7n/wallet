@@ -1,1 +1,1 @@
-var mnemonic = "poverty wise horse weekend bird dolphin wrestle twelve rifle goat level soccer";
+var mnemonic = "allow task lyrics zone cover auction hazard illness stereo life coast pet";

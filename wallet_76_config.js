@@ -1,1 +1,1 @@
-var mnemonic = "toss media grace brain snow blind urge chapter song library spread profit";
+var mnemonic = "useful head wrestle want pistol awkward laundry entire tired model various file";

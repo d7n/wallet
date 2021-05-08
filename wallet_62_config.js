@@ -1,1 +1,1 @@
-var mnemonic = "rich chuckle rib acquire motor punch furnace icon wild orchard elephant fat";
+var mnemonic = "clip favorite okay satoshi scorpion canoe spread phone merit maid sphere chat";

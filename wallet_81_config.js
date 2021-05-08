@@ -1,1 +1,1 @@
-var mnemonic = "absorb among valley coach hockey tilt pave false turkey once boy picture";
+var mnemonic = "ball mixed light flash tuna dinner exchange acid baby rain canyon waste";

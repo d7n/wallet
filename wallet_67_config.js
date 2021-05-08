@@ -1,1 +1,1 @@
-var mnemonic = "unfold road resist blast install pretty expect cart turkey excuse all unaware";
+var mnemonic = "point humble space bind betray fatigue creek noodle ability manual doctor social";

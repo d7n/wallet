@@ -1,1 +1,1 @@
-var mnemonic = "hood trust sustain loan grace reunion fold wheel sausage check arena marine";
+var mnemonic = "master laptop useless demise vast violin affair manage enlist great caution police";

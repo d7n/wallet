@@ -1,1 +1,1 @@
-var mnemonic = "join impose balcony apple junior session finger stable problem they borrow pride";
+var mnemonic = "blame enforce example clap stairs phone damp radio raccoon purchase sweet ketchup";

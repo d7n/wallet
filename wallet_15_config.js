@@ -1,1 +1,1 @@
-var mnemonic = "clutch slim melt angry oven ball floor any base onion expose escape";
+var mnemonic = "antenna frozen either bright motor custom inject grant art hospital pool ancient";

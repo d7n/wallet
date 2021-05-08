@@ -1,1 +1,1 @@
-var mnemonic = "arrive history rare share stone debris radio elegant open also lazy release";
+var mnemonic = "vicious seminar certain alter venue need normal foil glove lend address fox";

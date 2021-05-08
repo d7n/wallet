@@ -1,1 +1,1 @@
-var mnemonic = "worry scout steel mean pony sniff also bamboo save credit decline green";
+var mnemonic = "manual violin oblige purse machine company absorb brain cherry diesel card alert";

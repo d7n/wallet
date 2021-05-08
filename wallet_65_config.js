@@ -1,1 +1,1 @@
-var mnemonic = "breeze betray devote make useful nice estate hunt nut assault shrug purse";
+var mnemonic = "riot need wood hint cover grain rent flock defy source join achieve";

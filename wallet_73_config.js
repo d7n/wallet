@@ -1,1 +1,1 @@
-var mnemonic = "wave series trigger column vast account labor jeans comfort load intact horn";
+var mnemonic = "draft clinic witness awkward unusual kiss danger chalk physical vapor drive news";

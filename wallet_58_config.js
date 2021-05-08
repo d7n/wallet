@@ -1,1 +1,1 @@
-var mnemonic = "sketch size unusual stem review cake chef lava borrow alert rather crumble";
+var mnemonic = "page actual suggest panic snack time glove stove spoon noise horse month";

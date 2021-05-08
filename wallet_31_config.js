@@ -1,1 +1,1 @@
-var mnemonic = "solid unhappy category sausage six announce vital giant parent derive error offer";
+var mnemonic = "citizen melody release buyer cluster under chair life defense burst sheriff junk";

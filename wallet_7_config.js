@@ -1,1 +1,1 @@
-var mnemonic = "young sustain suggest manage safe approve conduct man endless between asthma enforce";
+var mnemonic = "area guilt group list ready erupt capital couple genre legend token couch";

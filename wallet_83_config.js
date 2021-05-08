@@ -1,1 +1,1 @@
-var mnemonic = "enact heavy nephew tape level shift cereal erupt decide faculty butter fire";
+var mnemonic = "side seed exercise copper joy student skull tiger tone moral noodle orchard";

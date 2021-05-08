@@ -1,1 +1,1 @@
-var mnemonic = "vast impose bitter else monster hole useless matter clump invest timber ranch";
+var mnemonic = "dry number film industry visual avoid advance replace green merge ginger song";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer moral private uncle spell assist rhythm chuckle announce fold reunion drill";
+var mnemonic = "enact doctor shine race clay stamp trigger retire special nest stool baby";

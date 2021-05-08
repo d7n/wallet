@@ -1,1 +1,1 @@
-var mnemonic = "exact rice crisp gown during hub fossil depart certain smile atom certain";
+var mnemonic = "spatial say minor share remember zone noise frame stereo tomorrow ability loyal";

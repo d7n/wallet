@@ -1,1 +1,1 @@
-var mnemonic = "hurdle curve suffer aunt pottery rocket skill bind gown draw uphold little";
+var mnemonic = "drink street filter pool walk floor science energy blush receive juice rescue";

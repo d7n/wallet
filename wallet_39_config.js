@@ -1,1 +1,1 @@
-var mnemonic = "casual allow puppy march woman raw pyramid good humble where fat eyebrow";
+var mnemonic = "warfare range bunker cushion glide oil palm core burst flavor notable tomato";

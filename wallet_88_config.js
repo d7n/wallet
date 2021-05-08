@@ -1,1 +1,1 @@
-var mnemonic = "near panel bleak auto alley olive crane stomach theory target area offer";
+var mnemonic = "cancel letter insect clog daughter carpet number marine library mule common proof";

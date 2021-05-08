@@ -1,1 +1,1 @@
-var mnemonic = "play joke basic opera kiss destroy giggle sail hint saddle live rough";
+var mnemonic = "gossip icon melody main knife renew unique cream humor enough drum possible";

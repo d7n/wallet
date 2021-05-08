@@ -1,1 +1,1 @@
-var mnemonic = "prefer ice ability rely slight possible onion combine frame focus creek ski";
+var mnemonic = "subject sheriff deposit promote foam talk alter water bargain ensure that hope";

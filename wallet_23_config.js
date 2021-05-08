@@ -1,1 +1,1 @@
-var mnemonic = "bring version engage lava notice tell section pulp middle inform soft stone";
+var mnemonic = "prosper aerobic vehicle want online stove bone crystal soft sudden basic napkin";

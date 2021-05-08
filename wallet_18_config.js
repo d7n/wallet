@@ -1,1 +1,1 @@
-var mnemonic = "region jar depth south maid invite glimpse occur seek hold affair robust";
+var mnemonic = "crush throw zoo firm gadget become fiscal hammer syrup episode deer around";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce this lottery position vehicle pony venture sting spare juice observe head";
+var mnemonic = "enact record keep leaf street own patrol love trend sniff sock sniff";

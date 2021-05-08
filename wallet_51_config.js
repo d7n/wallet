@@ -1,1 +1,1 @@
-var mnemonic = "fog valley design guard glow arrange antenna bring into gym margin faith";
+var mnemonic = "attend chicken burger tip cake hazard ocean kind strong cave extra immune";

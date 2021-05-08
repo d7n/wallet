@@ -1,1 +1,1 @@
-var mnemonic = "snake shop scatter street casual letter baby head shop pelican keep keep";
+var mnemonic = "long topic universe donkey bag minute ceiling heart abuse hello badge broom";
