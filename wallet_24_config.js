@@ -1,1 +1,1 @@
-var mnemonic = "reason stamp trumpet subject river globe nose nest ivory aspect tomorrow dutch";
+var mnemonic = "twenty rain junior film replace moon certain toe hollow improve assist area";

@@ -1,1 +1,1 @@
-var mnemonic = "spray avoid draw process powder owner unusual tuition alter glove cabbage reject";
+var mnemonic = "figure flame suit whisper team decide review magnet coil mercy spice improve";

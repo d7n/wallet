@@ -1,1 +1,1 @@
-var mnemonic = "abuse dinner shy night pizza artist shield tower machine dress clerk tumble";
+var mnemonic = "solid crazy soft demise swap vanish giraffe decline brother few lonely apart";

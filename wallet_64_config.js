@@ -1,1 +1,1 @@
-var mnemonic = "put dial expect sun image mesh injury umbrella latin option kind army";
+var mnemonic = "thumb lesson february penalty abuse life affair collect option brief decade diesel";

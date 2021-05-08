@@ -1,1 +1,1 @@
-var mnemonic = "solar marriage milk praise mirror draw chest lonely gentle spike mean refuse";
+var mnemonic = "require symbol unfold use define lyrics choice swear blame female toast badge";

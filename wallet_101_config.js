@@ -1,1 +1,1 @@
-var mnemonic = "tape sustain basic again surround city okay diagram pistol jar time pelican";
+var mnemonic = "direct elephant chalk draft bicycle alone punch degree nice raise quality afraid";

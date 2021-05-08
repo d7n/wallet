@@ -1,1 +1,1 @@
-var mnemonic = "basket size episode legend bag act napkin word number husband round inform";
+var mnemonic = "deal raccoon alcohol space gentle reform attend virus survey parent scrub stereo";

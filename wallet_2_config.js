@@ -1,1 +1,1 @@
-var mnemonic = "alpha valve hockey guitar input awkward wing apart hat funny chunk nuclear";
+var mnemonic = "name movie ceiling weapon mobile remember later jungle mango private enable surface";

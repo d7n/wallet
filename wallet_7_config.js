@@ -1,1 +1,1 @@
-var mnemonic = "oven phone garden appear provide tell cupboard sound seven pole siren already";
+var mnemonic = "toy stage review scene cushion govern flat modify cliff shoulder erase good";

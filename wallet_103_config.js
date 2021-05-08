@@ -1,1 +1,1 @@
-var mnemonic = "boat amused gossip spirit chalk cheap waste identify remember secret fine agree";
+var mnemonic = "pond warfare orient wink airport treat layer soon media leader draw oxygen";

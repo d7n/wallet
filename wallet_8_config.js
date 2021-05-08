@@ -1,1 +1,1 @@
-var mnemonic = "october unaware aspect busy detect rebel erosion result develop struggle sick armor";
+var mnemonic = "damp among region upper spare address analyst shy plate vote visual mosquito";

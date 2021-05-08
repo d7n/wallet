@@ -1,1 +1,1 @@
-var mnemonic = "inherit chapter write interest bench song once prevent ski song deposit envelope";
+var mnemonic = "mistake liquid purse fuel city winter remain inject place pole lawn indoor";

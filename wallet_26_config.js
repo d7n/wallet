@@ -1,1 +1,1 @@
-var mnemonic = "welcome labor stage hotel earth hard bar chimney mountain flip alpha addict";
+var mnemonic = "worry install link there head arrow brick list insane idea margin robust";

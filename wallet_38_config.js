@@ -1,1 +1,1 @@
-var mnemonic = "repeat drink wave quality lock depart lion prevent laundry size steak unusual";
+var mnemonic = "pond fossil taxi corn satisfy scan scissors resist risk panic rib vote";

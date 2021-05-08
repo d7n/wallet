@@ -1,1 +1,1 @@
-var mnemonic = "connect trap purpose include witness cube egg soul enlist steel three corn";
+var mnemonic = "visa start news kick glad cupboard equip tobacco loop sign velvet ability";

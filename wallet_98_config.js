@@ -1,1 +1,1 @@
-var mnemonic = "carbon feature series good swing fitness nuclear monitor tank angry flight critic";
+var mnemonic = "tobacco scrub vivid lesson cram curtain team output edit sibling pizza volcano";

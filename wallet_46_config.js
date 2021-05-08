@@ -1,1 +1,1 @@
-var mnemonic = "autumn horn desk best salad monster welcome shock bright quote walk price";
+var mnemonic = "concert actual load profit oyster spice cheese unusual address captain flag wisdom";

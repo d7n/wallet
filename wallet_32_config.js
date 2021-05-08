@@ -1,1 +1,1 @@
-var mnemonic = "gate symptom wheat improve can echo motor expire cabin jacket stairs lazy";
+var mnemonic = "leader give sadness camera future mesh bomb keep text deputy lesson pond";

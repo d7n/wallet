@@ -1,1 +1,1 @@
-var mnemonic = "hobby spawn buyer print head envelope slush twenty virtual print vapor bicycle";
+var mnemonic = "whale universe resource thing lunch exhaust ski punch kick salmon title board";

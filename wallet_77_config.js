@@ -1,1 +1,1 @@
-var mnemonic = "disagree student ripple baby neglect race scout remain dance holiday pride across";
+var mnemonic = "resist end radar aisle outside twelve repair member act end purchase boost";

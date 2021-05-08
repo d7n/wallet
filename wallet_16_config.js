@@ -1,1 +1,1 @@
-var mnemonic = "gloom amazing turn tag umbrella gain small sister wet cup picnic practice";
+var mnemonic = "twin come adult remove current steak crowd index rain rhythm vendor yellow";

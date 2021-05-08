@@ -1,1 +1,1 @@
-var mnemonic = "wire rather gossip crater raw aerobic dad sibling address argue slim gaze";
+var mnemonic = "drama zone undo license relax gadget club you public vehicle crop torch";

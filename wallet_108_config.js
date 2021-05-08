@@ -1,1 +1,1 @@
-var mnemonic = "patient stand attitude explain reflect tell clerk evolve rack view bubble suffer";
+var mnemonic = "memory hood lesson name minor yellow rain cliff exact scissors detail canvas";

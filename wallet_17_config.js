@@ -1,1 +1,1 @@
-var mnemonic = "fruit purchase heart layer blouse genre upper multiply always thought unknown olympic";
+var mnemonic = "humor intact absent disorder gentle exotic sing exhibit door exercise enlist donate";

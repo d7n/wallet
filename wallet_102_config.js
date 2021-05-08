@@ -1,1 +1,1 @@
-var mnemonic = "crumble element taxi flip enrich rescue ribbon exotic trade notice night sock";
+var mnemonic = "rug kick solution elegant switch stamp movie raccoon diesel stomach gallery tip";

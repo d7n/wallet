@@ -1,1 +1,1 @@
-var mnemonic = "priority explain supreme dry veteran evil sleep april salmon situate inspire blast";
+var mnemonic = "donor hat deer credit remove viable what output meat rare east install";

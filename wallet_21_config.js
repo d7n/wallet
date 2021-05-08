@@ -1,1 +1,1 @@
-var mnemonic = "region diamond issue half summer marine please draw midnight rubber cream view";
+var mnemonic = "cigar wedding express cat napkin stumble bring item wasp gift nation market";

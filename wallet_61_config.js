@@ -1,1 +1,1 @@
-var mnemonic = "hazard question connect supply sustain romance tool bicycle dynamic viable fan horse";
+var mnemonic = "hip result cherry sort fit appear ancient ready noodle layer return lemon";

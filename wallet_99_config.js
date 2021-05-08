@@ -1,1 +1,1 @@
-var mnemonic = "conduct prize october february vintage shoot latin armor glide sick collect student";
+var mnemonic = "slender glory trim sausage abuse confirm habit enough empty holiday toast table";

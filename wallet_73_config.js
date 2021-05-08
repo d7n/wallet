@@ -1,1 +1,1 @@
-var mnemonic = "turkey will stairs pride obtain detail sing tobacco wink drink gain shop";
+var mnemonic = "clutch oven call response genre worry soda crash industry hire loud fury";

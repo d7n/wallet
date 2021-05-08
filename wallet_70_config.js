@@ -1,1 +1,1 @@
-var mnemonic = "drop random hello funny ball invite warfare insane egg winter evidence depth";
+var mnemonic = "advice unable fatigue lawn firm social alien brisk monitor obey submit dentist";

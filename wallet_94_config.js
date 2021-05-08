@@ -1,1 +1,1 @@
-var mnemonic = "obtain april equip oyster update bulb budget donor camera polar hammer weather";
+var mnemonic = "member grant twin park boil lab turkey flush share attack quote gas";

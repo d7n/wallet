@@ -1,1 +1,1 @@
-var mnemonic = "multiply secret aerobic venue neglect good match margin quiz escape orchard control";
+var mnemonic = "route little slab retire breeze flash true coast angle run cargo jar";

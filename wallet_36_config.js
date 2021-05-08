@@ -1,1 +1,1 @@
-var mnemonic = "fog inside garment verify shrimp assault diagram that census media family faculty";
+var mnemonic = "large beef trend spirit heavy repeat panda carbon faculty special afraid bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "box home pear dog injury sing olive organ rate liquid section baby";
+var mnemonic = "goddess zebra admit view circle dilemma assist young state punch stem supply";

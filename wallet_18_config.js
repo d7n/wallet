@@ -1,1 +1,1 @@
-var mnemonic = "will meat manage grief govern tone close village ball throw tone pencil";
+var mnemonic = "lazy journey injury sibling draw panda public champion east enough snake clap";

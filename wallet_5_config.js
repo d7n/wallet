@@ -1,1 +1,1 @@
-var mnemonic = "tackle review work climb tide this tuition orchard brown walnut slice chicken";
+var mnemonic = "sadness talent alien gentle runway alert embrace gloom team excuse neglect winter";

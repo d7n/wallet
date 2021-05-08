@@ -1,1 +1,1 @@
-var mnemonic = "live clarify north sadness fix music coral jeans faith ticket wealth express";
+var mnemonic = "give inflict rice napkin replace strike ripple bird sunny century pupil thing";

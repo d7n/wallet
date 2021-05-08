@@ -1,1 +1,1 @@
-var mnemonic = "again slot test gesture squirrel cattle multiply capable excess visual kingdom elephant";
+var mnemonic = "diet frost coyote melt voice hollow plunge grass belt bean direct empower";

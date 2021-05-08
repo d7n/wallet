@@ -1,1 +1,1 @@
-var mnemonic = "famous expect casual practice post urge vocal solar connect involve tree jazz";
+var mnemonic = "spoil rally cloud mansion must mobile cradle swarm name nice deliver venue";

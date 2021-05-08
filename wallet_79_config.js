@@ -1,1 +1,1 @@
-var mnemonic = "use plug approve spell correct noble choose bundle team number yard push";
+var mnemonic = "snake student trouble move suit display ladder board panda awesome title comic";

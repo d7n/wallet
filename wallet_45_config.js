@@ -1,1 +1,1 @@
-var mnemonic = "tool pretty eager click way cube accident maple door attract snack near";
+var mnemonic = "timber pluck immune dutch birth army express material zebra put atom pink";

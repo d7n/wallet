@@ -1,1 +1,1 @@
-var mnemonic = "cousin link gym hidden domain same pottery release buffalo hazard false opera";
+var mnemonic = "section flag juice negative ten earth window library thing labor tenant answer";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar certain alley trap poet want oil boost welcome infant gift fit";
+var mnemonic = "dignity knock witness chief novel elite nephew design smile illegal recall silent";

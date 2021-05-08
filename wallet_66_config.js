@@ -1,1 +1,1 @@
-var mnemonic = "consider little circle copper lab warm garment bargain width diesel suspect ring";
+var mnemonic = "hundred illegal dinosaur humble omit tumble vacant lake wool devote wheat valley";

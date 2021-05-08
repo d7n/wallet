@@ -1,1 +1,1 @@
-var mnemonic = "own comfort south bird flame laugh kitchen gain mushroom tomorrow gather trial";
+var mnemonic = "slight fame mad undo empower divorce eternal solid comic gentle what smoke";

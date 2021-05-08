@@ -1,1 +1,1 @@
-var mnemonic = "across spatial draw moral scatter more narrow fruit occur pole globe clump";
+var mnemonic = "lesson owner edit gasp spin advice spy crawl mind anxiety credit taxi";

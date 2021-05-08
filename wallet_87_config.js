@@ -1,1 +1,1 @@
-var mnemonic = "town warrior tiger long accuse mirror knee kite will shadow lake course";
+var mnemonic = "gorilla ability hurry supreme pet glimpse reduce dose issue gown brown enemy";

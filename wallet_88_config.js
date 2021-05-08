@@ -1,1 +1,1 @@
-var mnemonic = "shiver blossom monitor protect option hammer rude indicate north arena wear indicate";
+var mnemonic = "surprise either budget front wet abuse inherit mix hamster year immune off";

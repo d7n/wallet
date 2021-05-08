@@ -1,1 +1,1 @@
-var mnemonic = "rose farm carpet galaxy filter shoe garbage merit decade still plastic blame";
+var mnemonic = "poem lion razor upgrade type mesh action cool gain round chef shift";

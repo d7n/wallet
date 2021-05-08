@@ -1,1 +1,1 @@
-var mnemonic = "garden topic accident witness plate teach repeat public nation wedding slide enlist";
+var mnemonic = "miss tortoise wave swallow chef inquiry divide tortoise flip gentle useless garment";

@@ -1,1 +1,1 @@
-var mnemonic = "couple question reveal expose hamster wagon rural dinosaur grain wood gown strong";
+var mnemonic = "volume town surge actor cross prevent gravity burger outside dad opera second";

@@ -1,1 +1,1 @@
-var mnemonic = "output hub total matter question plate luggage traffic neither benefit nice post";
+var mnemonic = "slice thank october cargo cave useless duck remember swear make gloom online";

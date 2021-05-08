@@ -1,1 +1,1 @@
-var mnemonic = "buyer skin place tissue home excuse ride ghost dust verb turn require";
+var mnemonic = "silly captain design blouse between small around smooth barely extra wire sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "music island tornado echo bounce betray inch bind elevator caught human method";
+var mnemonic = "useful destroy devote midnight verb shine chaos fitness reward acquire shadow bag";

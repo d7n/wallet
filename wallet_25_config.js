@@ -1,1 +1,1 @@
-var mnemonic = "century when network above round message reveal uncle struggle battle clown dilemma";
+var mnemonic = "choose dilemma tide pottery figure pyramid escape maximum middle milk north siren";

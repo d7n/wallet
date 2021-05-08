@@ -1,1 +1,1 @@
-var mnemonic = "thunder draw all impact hunt service mouse oyster whisper cushion together swallow";
+var mnemonic = "reflect boost pass swamp neither provide address absent final test final judge";

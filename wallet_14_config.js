@@ -1,1 +1,1 @@
-var mnemonic = "slush february trophy rate plug stem arrest similar husband october forward sand";
+var mnemonic = "kangaroo choice close denial together slow feel dove wonder seed kiwi still";

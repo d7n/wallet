@@ -1,1 +1,1 @@
-var mnemonic = "machine duty prevent dash exclude gym cash clerk hidden primary magic develop";
+var mnemonic = "fragile jaguar desert exchange couch math hurdle axis tone load gold current";

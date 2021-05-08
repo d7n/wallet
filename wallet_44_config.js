@@ -1,1 +1,1 @@
-var mnemonic = "immense they real inner genuine govern they music review dirt talk volcano";
+var mnemonic = "mother scan genuine derive guide sniff cousin spoon holiday honey sad kit";

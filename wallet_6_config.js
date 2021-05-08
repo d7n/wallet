@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur nice just home finger outer utility recipe school upgrade they have";
+var mnemonic = "know shed market chunk spy light away sorry method clip once purse";

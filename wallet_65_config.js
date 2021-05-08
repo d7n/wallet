@@ -1,1 +1,1 @@
-var mnemonic = "cricket sure right high position loop lab liberty assist window antique live";
+var mnemonic = "tilt select enhance cliff face flush spawn sail mass guilt home quote";

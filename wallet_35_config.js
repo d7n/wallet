@@ -1,1 +1,1 @@
-var mnemonic = "vocal garage this spawn fox result banana patch burger entire weather call";
+var mnemonic = "also analyst draw cargo acoustic retreat area comic already like aspect noodle";

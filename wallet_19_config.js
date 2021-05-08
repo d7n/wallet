@@ -1,1 +1,1 @@
-var mnemonic = "situate mountain enlist tribe picture swift version cancel frog adjust time betray";
+var mnemonic = "obtain canvas van capable flee wish winter net call utility artwork snow";

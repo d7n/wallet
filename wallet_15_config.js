@@ -1,1 +1,1 @@
-var mnemonic = "home cradle cook climb company spare flush vanish pass resemble taste flower";
+var mnemonic = "shrug way bright can evidence action already depart steel animal pony extra";

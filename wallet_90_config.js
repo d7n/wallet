@@ -1,1 +1,1 @@
-var mnemonic = "limit crane child join swear you taste proof mother bean police evil";
+var mnemonic = "hidden cycle trial cement powder mystery unable quality there warfare empty topple";

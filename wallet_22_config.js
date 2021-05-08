@@ -1,1 +1,1 @@
-var mnemonic = "dream exile stay glove scatter kind trip faith swing divide differ useful";
+var mnemonic = "custom cake armor charge between wolf kiss worry quote list skin behind";

@@ -1,1 +1,1 @@
-var mnemonic = "team fortune laugh dust crew net coral rather speak thumb dirt sight";
+var mnemonic = "edit shrug cycle liar favorite siege guide type dog diesel truth brave";

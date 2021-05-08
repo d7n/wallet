@@ -1,1 +1,1 @@
-var mnemonic = "shadow situate bamboo wine cube vendor tell private whale legal plug violin";
+var mnemonic = "finger slow burger room february devote require brain people win hen attack";

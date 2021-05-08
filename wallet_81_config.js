@@ -1,1 +1,1 @@
-var mnemonic = "eye much level sugar head neglect wool alarm hand wall snack siren";
+var mnemonic = "roof salt decade bleak march fashion actor earth moral fancy crew keen";

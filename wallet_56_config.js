@@ -1,1 +1,1 @@
-var mnemonic = "rifle pet roof pepper talk canyon panic caught level common tragic sudden";
+var mnemonic = "suggest enemy regret mansion actual shuffle cook carbon wagon olympic dawn trip";

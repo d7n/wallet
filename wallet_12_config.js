@@ -1,1 +1,1 @@
-var mnemonic = "else nephew truth cash worry exist habit wrong tonight rather since casino";
+var mnemonic = "moral broccoli lonely beach surface bottom erode excuse victory client civil culture";

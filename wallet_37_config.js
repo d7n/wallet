@@ -1,1 +1,1 @@
-var mnemonic = "elder lab found voice hobby vocal theme top unlock flock fan street";
+var mnemonic = "giant slab another sword more this ticket river female bronze arctic twelve";

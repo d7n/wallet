@@ -1,1 +1,1 @@
-var mnemonic = "science dumb trigger shoulder orbit fringe razor vital party over dish devote";
+var mnemonic = "genius access fit error priority possible anger weapon capital lesson above ankle";

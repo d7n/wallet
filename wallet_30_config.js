@@ -1,1 +1,1 @@
-var mnemonic = "much bulb phrase vote powder manage assume prevent cause injury weather fantasy";
+var mnemonic = "number ecology seek canoe afford demise pool siren volcano shift game dog";

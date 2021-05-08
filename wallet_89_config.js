@@ -1,1 +1,1 @@
-var mnemonic = "abuse security squirrel myself aware current also glimpse tray dinner hip remember";
+var mnemonic = "behind come mean evil gold achieve vote salt direct illegal poverty steak";

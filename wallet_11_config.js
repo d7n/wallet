@@ -1,1 +1,1 @@
-var mnemonic = "dumb festival grace demand tuition panda trick hen symbol ankle resist second";
+var mnemonic = "resemble inhale poverty oyster chase nest over ability orchard fork ranch electric";

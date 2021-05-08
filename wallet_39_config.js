@@ -1,1 +1,1 @@
-var mnemonic = "people runway flush lava violin dinner dignity drastic dirt pear bracket income";
+var mnemonic = "century fancy resemble fit bargain price vital rack bulk scrub provide push";

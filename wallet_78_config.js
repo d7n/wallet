@@ -1,1 +1,1 @@
-var mnemonic = "boring empty toy skull arm inmate fury toast scatter east urge toe";
+var mnemonic = "stable twin link ranch come expect bless sustain view silly journey jealous";

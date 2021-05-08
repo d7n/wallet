@@ -1,1 +1,1 @@
-var mnemonic = "tent tunnel athlete sense general initial today include crack wire acquire hope";
+var mnemonic = "candy cave child blood wrestle autumn match erode face draft tonight soon";

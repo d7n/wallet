@@ -1,1 +1,1 @@
-var mnemonic = "adjust reflect fork brick runway banana million receive ahead repeat screen fault";
+var mnemonic = "portion cram luggage idle soap pass dawn rely minimum weapon olive someone";

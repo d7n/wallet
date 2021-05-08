@@ -1,1 +1,1 @@
-var mnemonic = "rebel ethics pair rapid wealth destroy dust chalk grow predict try pen";
+var mnemonic = "benefit digital inner bronze ride diamond oppose diagram measure dilemma open moral";

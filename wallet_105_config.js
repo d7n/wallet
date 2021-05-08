@@ -1,1 +1,1 @@
-var mnemonic = "catch accident spread grocery mystery walk machine science matter type average twenty";
+var mnemonic = "road cannon unveil twice tooth sentence away train toward require drop guitar";

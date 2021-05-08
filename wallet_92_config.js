@@ -1,1 +1,1 @@
-var mnemonic = "slush drum gate pink vicious half total solution skill goose rich cloth";
+var mnemonic = "dry cook hungry news bullet buyer daring educate mushroom ghost twist thunder";

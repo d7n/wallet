@@ -1,1 +1,1 @@
-var mnemonic = "crack genre patrol auction radar blue exclude fence rifle uphold nerve basic";
+var mnemonic = "mention wrestle stone glare rough level radar deer salon tobacco predict spread";

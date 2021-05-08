@@ -1,1 +1,1 @@
-var mnemonic = "toy romance memory candy bid menu royal chunk anxiety mountain depth amount";
+var mnemonic = "poet pipe able endless nice hundred giraffe butter risk cross bulb wrestle";

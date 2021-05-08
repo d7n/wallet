@@ -1,1 +1,1 @@
-var mnemonic = "need rate clay stock flight soda year despair moral hen skirt mistake";
+var mnemonic = "hat zone enter render evidence common throw spatial swift car response pledge";

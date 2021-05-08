@@ -1,1 +1,1 @@
-var mnemonic = "turtle scare latin range size spice speak glare mom donkey federal equal";
+var mnemonic = "rapid pencil hunt emotion true later picture bike nasty bone liquid entire";

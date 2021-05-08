@@ -1,1 +1,1 @@
-var mnemonic = "jungle drastic lazy gadget tree apology wage letter moment entry seed certain";
+var mnemonic = "lab swap volume vessel range farm multiply drama scare orbit weapon deal";
