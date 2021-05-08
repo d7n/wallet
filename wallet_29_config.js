@@ -1,1 +1,1 @@
-var mnemonic = "thrive scorpion lens easily slight that violin couch hurry soup episode chaos";
+var mnemonic = "piano galaxy planet pipe gift marine fossil hire fantasy cinnamon mail agent";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect promote must moment ankle design milk zero source female once click";
+var mnemonic = "attract during select celery minor artist budget violin beach rubber clinic walk";

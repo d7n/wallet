@@ -1,1 +1,1 @@
-var mnemonic = "place describe caught shift base lucky salad brain skin author sound cereal";
+var mnemonic = "husband diet surround swear upon drama giggle bridge physical economy truth mail";

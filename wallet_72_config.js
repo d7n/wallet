@@ -1,1 +1,1 @@
-var mnemonic = "horror laundry topic margin pistol harbor tornado glad cart tornado cheese kiss";
+var mnemonic = "memory panda ten milk seven wreck oak put box push aisle stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "soul crucial car will art stadium lecture hold act repair quote protect";
+var mnemonic = "one damage enjoy ride health bitter catch write together wire crystal poem";

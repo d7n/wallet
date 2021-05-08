@@ -1,1 +1,1 @@
-var mnemonic = "defense below garage dove onion veteran daughter prosper cheap bike snake rich";
+var mnemonic = "convince matter prepare robot eternal into tooth season bus move worry order";

@@ -1,1 +1,1 @@
-var mnemonic = "west kitchen width foil era clutch rural protect impact nation eight flat";
+var mnemonic = "runway conduct trap enlist obvious volcano boy glow nephew deer city pen";

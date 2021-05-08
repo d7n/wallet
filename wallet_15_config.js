@@ -1,1 +1,1 @@
-var mnemonic = "family supply idle hazard mushroom disagree agree wish rain suspect motion token";
+var mnemonic = "maid start truck dress thing exhibit claw renew repeat borrow wink soup";

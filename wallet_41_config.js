@@ -1,1 +1,1 @@
-var mnemonic = "kind labor certain invite foil sick steak junk milk girl embody fashion";
+var mnemonic = "impulse space direct inject rapid hen autumn duck reform cart rapid hero";

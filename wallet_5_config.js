@@ -1,1 +1,1 @@
-var mnemonic = "decade connect return thought coffee rent section submit puppy roof front science";
+var mnemonic = "type else original great coin patch account merge party room cable rough";

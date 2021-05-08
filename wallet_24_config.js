@@ -1,1 +1,1 @@
-var mnemonic = "front skate laugh code deny average exhaust dolphin churn image soft sausage";
+var mnemonic = "taste mammal join team shadow left false palm target anchor load pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "rail hobby remove ketchup tourist loop clever leader open mansion approve receive";
+var mnemonic = "hope vast obscure raccoon upgrade party sign parent online camera execute village";

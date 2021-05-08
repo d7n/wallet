@@ -1,1 +1,1 @@
-var mnemonic = "hybrid car umbrella supreme lemon summer clap sadness owner shock degree rifle";
+var mnemonic = "man neutral slide october business pitch dust glass hint happy ship artwork";

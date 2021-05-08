@@ -1,1 +1,1 @@
-var mnemonic = "job minimum hospital humble half dance lazy input crime grain shoe dismiss";
+var mnemonic = "settle sister matter world genre motion cave december group pause sell rival";

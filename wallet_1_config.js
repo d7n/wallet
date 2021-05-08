@@ -1,1 +1,1 @@
-var mnemonic = "always document write orbit bleak speak local rain gather jazz tilt arena";
+var mnemonic = "reunion chronic capable unknown idle output salad gas ensure middle reform under";

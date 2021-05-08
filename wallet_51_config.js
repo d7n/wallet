@@ -1,1 +1,1 @@
-var mnemonic = "trust infant copper sketch melody remember purpose car fatigue grain betray universe";
+var mnemonic = "code rubber crystal hair client left exercise valid column fiction frequent mail";

@@ -1,1 +1,1 @@
-var mnemonic = "foster once immune gain sketch upon filter like equip picture staff depth";
+var mnemonic = "tuition west panel little hurry question liar jealous silent fatal congress kangaroo";

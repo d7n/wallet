@@ -1,1 +1,1 @@
-var mnemonic = "avocado lesson battle raw accident salmon sudden ignore cat bone foot easy";
+var mnemonic = "cousin enemy trouble educate churn outer divert enlist blame action toward acoustic";

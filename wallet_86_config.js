@@ -1,1 +1,1 @@
-var mnemonic = "island sadness great mosquito monster ginger chef right bar neglect sell scout";
+var mnemonic = "panel absurd bring slot labor train lunar orchard draw wreck remain appear";

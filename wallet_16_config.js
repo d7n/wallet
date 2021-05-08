@@ -1,1 +1,1 @@
-var mnemonic = "giggle stem flush woman inside salad salute whale that shaft rotate library";
+var mnemonic = "guess vehicle pelican alley pull lecture peanut ranch negative wrestle minimum vendor";

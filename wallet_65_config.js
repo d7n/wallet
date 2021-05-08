@@ -1,1 +1,1 @@
-var mnemonic = "road boost thrive satisfy assault flash swear hurdle seminar choice library bargain";
+var mnemonic = "right tragic erupt couple crouch shock brain ritual donkey patch rebuild wedding";

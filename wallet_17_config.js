@@ -1,1 +1,1 @@
-var mnemonic = "month deny accuse stove size risk clown wall tumble alone injury sight";
+var mnemonic = "method whale field north category state enough obscure unique fine admit monster";

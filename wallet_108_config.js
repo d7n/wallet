@@ -1,1 +1,1 @@
-var mnemonic = "razor wink prepare inch salt involve impose device burger inmate reflect shine";
+var mnemonic = "absent absurd attract spoon prefer crawl swarm crew bunker able unusual talent";

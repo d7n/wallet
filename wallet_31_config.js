@@ -1,1 +1,1 @@
-var mnemonic = "idea toast drama holiday enough crystal coyote filter naive increase satoshi trade";
+var mnemonic = "tomato spoil brave swift snap square web box present found salt cement";

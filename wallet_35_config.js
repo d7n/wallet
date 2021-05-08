@@ -1,1 +1,1 @@
-var mnemonic = "annual chef better liberty maximum employ behind drastic bunker play coral cook";
+var mnemonic = "cloth yellow scan layer luggage very avoid garage robot more airport rely";

@@ -1,1 +1,1 @@
-var mnemonic = "book only submit ten hole void away scissors lend predict bunker liberty";
+var mnemonic = "ride together great electric tent forest abstract buffalo boost kiwi reunion achieve";

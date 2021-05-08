@@ -1,1 +1,1 @@
-var mnemonic = "disagree initial file sail forum obtain wolf elbow snack hello throw uphold";
+var mnemonic = "wonder jaguar screen bargain door girl black staff sword ready frame dream";

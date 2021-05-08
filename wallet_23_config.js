@@ -1,1 +1,1 @@
-var mnemonic = "analyst elite crisp notable frozen disagree timber pilot wave aspect prevent fitness";
+var mnemonic = "donate direct scene pave gloom space mammal cabin teach liquid settle angry";

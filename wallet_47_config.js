@@ -1,1 +1,1 @@
-var mnemonic = "reform sustain chimney mercy bright ocean maid other citizen skull goddess trim";
+var mnemonic = "repeat nominee mimic talk define into shuffle marble potato kitchen sail current";

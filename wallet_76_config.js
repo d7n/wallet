@@ -1,1 +1,1 @@
-var mnemonic = "team lava normal zone celery outside clerk vivid defense change code skill";
+var mnemonic = "dirt release universe truth ice stereo unhappy galaxy talent trip poem arrange";

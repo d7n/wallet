@@ -1,1 +1,1 @@
-var mnemonic = "left appear over road fish quiz cannon garment snow reason open lend";
+var mnemonic = "field elite remember warrior devote write change vanish alpha muffin learn quick";

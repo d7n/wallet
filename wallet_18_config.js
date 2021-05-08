@@ -1,1 +1,1 @@
-var mnemonic = "endorse change stool bracket dash win security chest purse leisure vague tuition";
+var mnemonic = "repeat secret baby come bird soccer green solar turkey stumble rabbit exotic";

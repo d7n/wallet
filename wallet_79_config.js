@@ -1,1 +1,1 @@
-var mnemonic = "dentist renew loan metal quiz begin never trial digital another order cotton";
+var mnemonic = "juice soup draft dust team sadness menu flip airport congress fox wage";

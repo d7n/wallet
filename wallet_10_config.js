@@ -1,1 +1,1 @@
-var mnemonic = "core eyebrow dial march husband fade dinosaur sad awake ranch carbon silly";
+var mnemonic = "thumb join ship wheel flat correct brother confirm illegal easily sheriff neither";

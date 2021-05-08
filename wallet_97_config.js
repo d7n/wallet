@@ -1,1 +1,1 @@
-var mnemonic = "theme million nothing pilot okay youth sphere couch news just design question";
+var mnemonic = "fire process craft cradle novel random favorite near radio peanut bleak cost";

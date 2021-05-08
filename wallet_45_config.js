@@ -1,1 +1,1 @@
-var mnemonic = "exotic reflect mixture file mind identify engage tomorrow fuel filter people divert";
+var mnemonic = "level disagree bubble rug spend egg rabbit grant ozone provide involve drink";

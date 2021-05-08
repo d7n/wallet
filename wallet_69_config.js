@@ -1,1 +1,1 @@
-var mnemonic = "impact cage snap abstract eagle melody unhappy click sample float then patrol";
+var mnemonic = "fitness dutch ensure bean minute outside brief solve real sadness guilt curve";

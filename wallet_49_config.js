@@ -1,1 +1,1 @@
-var mnemonic = "honey life donkey load loop slice outside dilemma decide useful lecture reflect";
+var mnemonic = "day tone balance reform diary curve also rocket stamp grain borrow toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "save glance confirm fabric survey kiss shoot guide save advance asset fossil";
+var mnemonic = "castle hover museum guide elite rain idea bacon eye horn invest disease";

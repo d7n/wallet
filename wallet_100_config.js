@@ -1,1 +1,1 @@
-var mnemonic = "one miracle heart twelve health brave ahead crowd nut tunnel message nothing";
+var mnemonic = "auto else polar nuclear powder family unlock already success broccoli crouch virus";

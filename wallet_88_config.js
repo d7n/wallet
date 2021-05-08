@@ -1,1 +1,1 @@
-var mnemonic = "speed elite because winner girl liberty rapid broom start lizard approve write";
+var mnemonic = "gain blind denial bamboo become type degree amazing town window weather final";

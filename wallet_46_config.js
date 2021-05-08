@@ -1,1 +1,1 @@
-var mnemonic = "brand bean course mention theme sail rack ethics hub cousin what special";
+var mnemonic = "fan galaxy eternal foam poem wonder rally fiction street post echo giggle";

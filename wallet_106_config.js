@@ -1,1 +1,1 @@
-var mnemonic = "into slush lecture uphold stove donate improve street various initial size sad";
+var mnemonic = "battle fame chase what initial primary crop cheap tool boost bonus movie";

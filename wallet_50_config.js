@@ -1,1 +1,1 @@
-var mnemonic = "margin there ride debate plastic aware cram penalty gold asset meat breeze";
+var mnemonic = "tired reunion oblige salt kingdom fantasy palace opinion coin tell memory private";

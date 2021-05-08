@@ -1,1 +1,1 @@
-var mnemonic = "horror predict dice explain trouble entire depth canoe shoulder indicate above accident";
+var mnemonic = "fossil long slight control because discover game uncle drama canoe wood diamond";

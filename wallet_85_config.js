@@ -1,1 +1,1 @@
-var mnemonic = "sting juice diesel vacant rather robust ship ignore forest enable feature lion";
+var mnemonic = "soul enough target tool egg convince flower open desk sorry robust swear";

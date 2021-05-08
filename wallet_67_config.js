@@ -1,1 +1,1 @@
-var mnemonic = "play doctor desk cost pull fatigue author like window adapt frost panel";
+var mnemonic = "burden fatigue remind broom rebel guess mansion grant axis fee grief assume";

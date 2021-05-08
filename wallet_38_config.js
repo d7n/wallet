@@ -1,1 +1,1 @@
-var mnemonic = "trash have gold sea burst people fee orange catalog chef grace clay";
+var mnemonic = "company brother arrange siren suspect say fan more field east violin shy";

@@ -1,1 +1,1 @@
-var mnemonic = "flock sauce cinnamon buffalo strong caught one census abandon situate patrol clever";
+var mnemonic = "dress true depart chunk inspire tomato invite welcome rug minimum west sustain";

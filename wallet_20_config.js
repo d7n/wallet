@@ -1,1 +1,1 @@
-var mnemonic = "modify enhance jacket end fury whip ramp seat pond actress puzzle memory";
+var mnemonic = "cereal left common page brain short almost local atom scout mountain strike";

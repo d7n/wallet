@@ -1,1 +1,1 @@
-var mnemonic = "tape like sleep garment half inflict another universe cherry strong rug coil";
+var mnemonic = "capable market scare coach drop cruel father taste gravity craft supreme humor";

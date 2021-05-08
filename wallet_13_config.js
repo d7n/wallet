@@ -1,1 +1,1 @@
-var mnemonic = "sleep only burden random profit remove steak brisk satisfy sell double dragon";
+var mnemonic = "cradle current couple bench shock home catch gather help material three web";

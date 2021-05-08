@@ -1,1 +1,1 @@
-var mnemonic = "bubble only muffin tattoo defense stool elevator float decide latin force south";
+var mnemonic = "fall arrest hello latin wasp capable immense execute fragile anchor surprise bronze";

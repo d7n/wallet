@@ -1,1 +1,1 @@
-var mnemonic = "drum black space permit reduce term alert novel diesel dust brief book";
+var mnemonic = "canal person annual rare inner cushion bitter noodle share aware sand brain";

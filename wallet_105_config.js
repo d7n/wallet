@@ -1,1 +1,1 @@
-var mnemonic = "small length capital shuffle bracket install three happy hamster gap ticket bracket";
+var mnemonic = "hat ocean radio action sheriff power method bleak cupboard vague swarm assist";

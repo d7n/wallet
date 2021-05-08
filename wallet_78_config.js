@@ -1,1 +1,1 @@
-var mnemonic = "farm hotel history exist peanut invite stable wait primary grief actual poverty";
+var mnemonic = "nuclear agent obtain calm kitchen vintage height minor grow harbor attitude census";

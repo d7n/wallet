@@ -1,1 +1,1 @@
-var mnemonic = "palm crystal hair shaft drip arch promote giggle afford tell middle birth";
+var mnemonic = "erupt army grief eye please glass lake ill learn purity income gospel";

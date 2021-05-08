@@ -1,1 +1,1 @@
-var mnemonic = "obvious castle disorder grace ski february farm lab shell tired rude half";
+var mnemonic = "neither protect chalk title leaf panic morning muffin tooth setup hockey slam";

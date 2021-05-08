@@ -1,1 +1,1 @@
-var mnemonic = "stool weird great engine thumb wheat exercise page wagon coconut outside orphan";
+var mnemonic = "other opinion before extra jewel bless dwarf insane laptop where appear weird";

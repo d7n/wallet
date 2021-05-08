@@ -1,1 +1,1 @@
-var mnemonic = "pluck hurdle spider pause misery reveal pole universe shrimp wire upon end";
+var mnemonic = "later scrap suggest inquiry review remove submit jar neither aim dry dog";

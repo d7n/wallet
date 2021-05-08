@@ -1,1 +1,1 @@
-var mnemonic = "nuclear document pink ugly over match eight elegant acoustic pelican someone sail";
+var mnemonic = "goddess over walnut fiscal pyramid middle science lake furnace course offer crisp";

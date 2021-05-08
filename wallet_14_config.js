@@ -1,1 +1,1 @@
-var mnemonic = "any same mass fix else street summer claw quick staff wear shrug";
+var mnemonic = "romance frozen bike found share slide sort cancel effort rug master destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "future across grid desk holiday there honey farm scatter inmate ladder claw";
+var mnemonic = "mango ethics scrap honey dinosaur suspect before where wing expire caught water";

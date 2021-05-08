@@ -1,1 +1,1 @@
-var mnemonic = "place soldier bus radar suggest guilt elephant together famous gain retire arrive";
+var mnemonic = "walnut wool current way render angle pencil truly chuckle kingdom able vacant";

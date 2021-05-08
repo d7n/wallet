@@ -1,1 +1,1 @@
-var mnemonic = "hamster animal broccoli guide island actress found round pitch dirt upset hire";
+var mnemonic = "music forest estate obvious visa author melt choose cat hen team toast";

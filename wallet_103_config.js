@@ -1,1 +1,1 @@
-var mnemonic = "slice doll buddy toss history dish hold innocent diesel section student wreck";
+var mnemonic = "torch okay lady sniff sphere amateur crowd horn fuel home wolf either";

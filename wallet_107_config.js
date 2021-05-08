@@ -1,1 +1,1 @@
-var mnemonic = "pet nephew unable cook clay double deposit sample junk ladder dentist alley";
+var mnemonic = "bridge club ugly vicious label company august clown camp palm theory chapter";

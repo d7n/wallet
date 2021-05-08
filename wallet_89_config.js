@@ -1,1 +1,1 @@
-var mnemonic = "there alter safe tilt enforce patch course sunset vessel swing innocent window";
+var mnemonic = "item worth scene aerobic machine master replace chaos style response member salute";

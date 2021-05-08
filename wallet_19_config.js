@@ -1,1 +1,1 @@
-var mnemonic = "actress void drift plunge tide spawn double case symptom author beyond advance";
+var mnemonic = "gorilla call spy benefit rich rice illness submit shed balcony satoshi seed";

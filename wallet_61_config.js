@@ -1,1 +1,1 @@
-var mnemonic = "arctic mixed spirit example elevator popular excuse cheap rib soft cart dash";
+var mnemonic = "tower lobster mango toe reveal that print young scrap system hedgehog able";

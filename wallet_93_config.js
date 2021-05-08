@@ -1,1 +1,1 @@
-var mnemonic = "pride peace sight weather boost dynamic buddy furnace text warfare stairs garage";
+var mnemonic = "ordinary quantum cave burst they opera panic peace ice track index swarm";

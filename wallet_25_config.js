@@ -1,1 +1,1 @@
-var mnemonic = "salute soap arch require desk siren demise cereal decorate renew evil process";
+var mnemonic = "coast upper uphold practice space attract buddy sibling system print cost toy";

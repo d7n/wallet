@@ -1,1 +1,1 @@
-var mnemonic = "excite slice earth quote wet put twin patrol embody soup box claw";
+var mnemonic = "outside machine imitate merge fly magnet first industry copy shadow anger employ";

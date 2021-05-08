@@ -1,1 +1,1 @@
-var mnemonic = "item trophy creek neutral noodle false smooth duty ticket grid harsh zone";
+var mnemonic = "repeat cook reduce duty outdoor caught student museum table body critic surround";

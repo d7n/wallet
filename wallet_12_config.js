@@ -1,1 +1,1 @@
-var mnemonic = "legend chronic elephant calm inhale dice eternal firm bachelor diary clean purpose";
+var mnemonic = "world water achieve matrix shrug zone drama chest chaos rely warm cool";

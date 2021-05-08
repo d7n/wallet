@@ -1,1 +1,1 @@
-var mnemonic = "neither liquid neck bottom upon actress hunt vendor daughter hero obey accuse";
+var mnemonic = "idle field peanut siren draft rely second picture initial honey fringe fat";

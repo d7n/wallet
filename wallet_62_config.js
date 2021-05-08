@@ -1,1 +1,1 @@
-var mnemonic = "host slush fiber toy spoil fury frost student spread immense sibling chef";
+var mnemonic = "ugly call tortoise chaos endorse awesome exchange arch ribbon matrix cute angry";

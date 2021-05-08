@@ -1,1 +1,1 @@
-var mnemonic = "leopard novel tornado cherry below minor rabbit control hazard venue sound mirror";
+var mnemonic = "clarify maze share chat clarify cross math vanish knock shuffle jeans item";

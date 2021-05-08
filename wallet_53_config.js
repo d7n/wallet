@@ -1,1 +1,1 @@
-var mnemonic = "magnet laptop glare mad level man repair peanut shallow rare meat cute";
+var mnemonic = "shiver three blade host process clap dry bounce announce crystal just bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic void pepper return illness stand achieve seat maid guess embark absorb";
+var mnemonic = "furnace mind choice slab occur mandate patch capable either option legal online";

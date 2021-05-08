@@ -1,1 +1,1 @@
-var mnemonic = "bubble impose uphold once flock group goddess energy school bag vendor common";
+var mnemonic = "fan couch sunset imitate sock fury carpet bus dream brother hint wise";

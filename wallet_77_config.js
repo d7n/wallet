@@ -1,1 +1,1 @@
-var mnemonic = "before hobby similar tired gloom coach excess oval thunder merit very sport";
+var mnemonic = "alter author claim help dial loud tone buyer pill valid trust foil";

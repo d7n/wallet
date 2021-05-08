@@ -1,1 +1,1 @@
-var mnemonic = "wreck royal secret expire major donate hold satoshi ridge call salute oxygen";
+var mnemonic = "off manage ice pioneer north cost inspire bench hockey awkward icon resource";

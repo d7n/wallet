@@ -1,1 +1,1 @@
-var mnemonic = "enable then dawn ivory grief vague example never ethics arena ramp clay";
+var mnemonic = "couple radar conduct scheme birth cousin chief simple predict marine nurse electric";

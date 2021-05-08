@@ -1,1 +1,1 @@
-var mnemonic = "famous ribbon antique same thing paddle tiny brisk lunch arena master major";
+var mnemonic = "cigar tank benefit exit design debris kitchen horse salad correct reunion shoot";

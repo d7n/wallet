@@ -1,1 +1,1 @@
-var mnemonic = "artwork pole search dutch sweet yellow half chaos six soon popular puzzle";
+var mnemonic = "neglect iron cactus prison toast dutch flat possible kangaroo castle oyster table";

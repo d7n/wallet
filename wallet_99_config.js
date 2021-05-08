@@ -1,1 +1,1 @@
-var mnemonic = "run amused citizen royal hold stand east medal box bright iron salon";
+var mnemonic = "spread chaos pelican tilt bleak fat sustain earn cage accuse wool annual";

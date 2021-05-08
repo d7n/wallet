@@ -1,1 +1,1 @@
-var mnemonic = "charge tennis length gift little credit column inside acquire pioneer exclude burger";
+var mnemonic = "dish venture wool pride output duck innocent trap discover wide member badge";

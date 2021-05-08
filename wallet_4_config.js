@@ -1,1 +1,1 @@
-var mnemonic = "cart danger float recycle real piano erode movie glue chuckle mix enact";
+var mnemonic = "deny invite pottery century kiss hip broccoli uncover flee silent best sun";

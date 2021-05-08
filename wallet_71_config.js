@@ -1,1 +1,1 @@
-var mnemonic = "travel crash detect health cart pass later pyramid scare exist stand flame";
+var mnemonic = "width sugar behave leaf upgrade quit check ill table shoot margin credit";

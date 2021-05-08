@@ -1,1 +1,1 @@
-var mnemonic = "fish pony glass insect supply siege critic curious buffalo economy unfold salute";
+var mnemonic = "mobile crop people soul often enough invest multiply poet gloom long appear";

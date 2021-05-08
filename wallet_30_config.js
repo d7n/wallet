@@ -1,1 +1,1 @@
-var mnemonic = "service loyal member zero once worth seat click sense boring involve hard";
+var mnemonic = "brother power chief beyond people hold crush bullet problem relax crew switch";

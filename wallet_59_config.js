@@ -1,1 +1,1 @@
-var mnemonic = "cat shove know cat mushroom concert ethics waste pair join surface flame";
+var mnemonic = "will shed angle action corn film clever hawk sword jelly attract picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "humor team sphere shine assault maze move random abuse carry square symbol";
+var mnemonic = "shoe faith donor meat social lesson thrive ball senior result labor spice";

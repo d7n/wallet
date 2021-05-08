@@ -1,1 +1,1 @@
-var mnemonic = "pelican track wrestle mixture feed bulb wreck boat slot silly chaos prevent";
+var mnemonic = "mistake father afraid various ahead they frog clever small nice detect fury";
