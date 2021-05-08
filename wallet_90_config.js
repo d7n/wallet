@@ -1,1 +1,1 @@
-var mnemonic = "priority hello wisdom column dinner relief license wire kangaroo crane cigar parade";
+var mnemonic = "web enrich hollow blossom credit jewel dice shadow despair heavy enforce double";

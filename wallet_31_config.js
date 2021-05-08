@@ -1,1 +1,1 @@
-var mnemonic = "submit sponsor surround home car time traffic various panther jewel mass lemon";
+var mnemonic = "object pact test federal angle lonely other document curve sleep unfold struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue animal puzzle interest drum horn salon bracket dune hour tobacco invite";
+var mnemonic = "wild orchard install fold diagram wish chest eagle seat minor father popular";

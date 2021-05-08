@@ -1,1 +1,1 @@
-var mnemonic = "absent cook what cereal opinion vicious destroy fluid blast federal artist rapid";
+var mnemonic = "trip ticket custom blossom real town maximum average airport topic radio glance";

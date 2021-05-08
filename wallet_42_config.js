@@ -1,1 +1,1 @@
-var mnemonic = "brass thunder plate better spray grocery flock decade arrest loyal tooth tone";
+var mnemonic = "canvas topic program bright talk honey pipe mixture glance awkward scheme aerobic";

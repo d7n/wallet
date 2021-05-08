@@ -1,1 +1,1 @@
-var mnemonic = "cupboard fruit learn verify utility reform burger hire prize fine issue discover";
+var mnemonic = "heavy surface image scheme oxygen strike company use surround trend add culture";

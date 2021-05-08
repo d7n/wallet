@@ -1,1 +1,1 @@
-var mnemonic = "junk purchase found citizen april despair mask joy search bench attract able";
+var mnemonic = "police museum october denial frog drive okay bicycle swim kit hidden purse";

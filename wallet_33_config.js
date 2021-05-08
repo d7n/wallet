@@ -1,1 +1,1 @@
-var mnemonic = "taxi frost armed wisdom glare amount slogan uphold number unable client brief";
+var mnemonic = "cricket snap transfer law legal protect street describe fitness anger apple aspect";

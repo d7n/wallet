@@ -1,1 +1,1 @@
-var mnemonic = "organ horse draw toward rain finish gloom diamond attack rain glow fresh";
+var mnemonic = "clock month measure smile fabric match lumber defense this carpet milk thrive";

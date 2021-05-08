@@ -1,1 +1,1 @@
-var mnemonic = "depth six cool spoil emerge couple festival that tortoise edge vocal bargain";
+var mnemonic = "page surge retire annual auction sugar brief glance weather taxi mango tent";

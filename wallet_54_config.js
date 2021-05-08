@@ -1,1 +1,1 @@
-var mnemonic = "away canvas scout kidney clerk cannon volume enable initial bubble wood alarm";
+var mnemonic = "around tenant friend flame earn come install wage pyramid curious jungle angry";

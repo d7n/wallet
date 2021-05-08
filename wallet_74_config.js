@@ -1,1 +1,1 @@
-var mnemonic = "reveal left pass knee affair trial perfect gallery grace hand move success";
+var mnemonic = "autumn museum wood close ladder flight lunar version wedding clean taste swamp";

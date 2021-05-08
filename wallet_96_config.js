@@ -1,1 +1,1 @@
-var mnemonic = "similar ostrich jungle cupboard era antenna school secret say leader that outdoor";
+var mnemonic = "protect caught mandate vehicle nation oxygen moment brisk gym couch coyote meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "swift entire camera match budget flash stem force slide narrow brown unveil";
+var mnemonic = "rug decorate warrior gas minute weird conduct dose dinner belt keep soup";

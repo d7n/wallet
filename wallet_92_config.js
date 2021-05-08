@@ -1,1 +1,1 @@
-var mnemonic = "orient report march similar lonely awake arrive strike warm script recycle devote";
+var mnemonic = "cricket amazing scan vague match canvas amount timber ordinary matrix hope spare";

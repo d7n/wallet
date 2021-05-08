@@ -1,1 +1,1 @@
-var mnemonic = "car check noodle tool general vendor comfort harvest rack exchange element two";
+var mnemonic = "forget peanut helmet dentist bamboo uniform then sorry harvest busy upset bar";

@@ -1,1 +1,1 @@
-var mnemonic = "alone series noble honey park grape era inspire wish panther else search";
+var mnemonic = "cause fresh exhibit ski sorry spray tower boil demise file crew clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "renew tomato business elder stomach spawn hero run awkward coyote prison crater";
+var mnemonic = "waste anxiety wine age notable above dash mask slim salad weather federal";

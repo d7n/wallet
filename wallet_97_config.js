@@ -1,1 +1,1 @@
-var mnemonic = "virus rotate intact sense fresh birth scorpion soccer convince trick open aware";
+var mnemonic = "carbon major all desk lady satisfy conduct kidney square elder skate little";

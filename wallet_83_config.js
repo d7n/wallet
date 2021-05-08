@@ -1,1 +1,1 @@
-var mnemonic = "penalty scrub mountain breeze ahead glass simple endorse car agent usual remind";
+var mnemonic = "dream erase forest butter evil person attack trophy attack amazing addict replace";

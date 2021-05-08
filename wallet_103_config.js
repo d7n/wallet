@@ -1,1 +1,1 @@
-var mnemonic = "crop slush myself stumble cliff drop casual bundle until acquire logic angle";
+var mnemonic = "total vital miracle drive order render force example leader curve reduce erupt";

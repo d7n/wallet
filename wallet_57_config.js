@@ -1,1 +1,1 @@
-var mnemonic = "mutual keen quit live fall opera badge praise tiny loud hazard thrive";
+var mnemonic = "nasty property cotton trumpet suit code nerve conduct image misery accuse trend";

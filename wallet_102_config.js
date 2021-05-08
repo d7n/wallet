@@ -1,1 +1,1 @@
-var mnemonic = "tomato hour damp mechanic matter wasp chaos exile term enlist announce record";
+var mnemonic = "where icon loan borrow donor easy place valid orange genre pool supreme";

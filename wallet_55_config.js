@@ -1,1 +1,1 @@
-var mnemonic = "range rule marriage ready cube youth ignore damage juice bird half monkey";
+var mnemonic = "minimum doll cheap reward law portion speed easy industry royal impact alone";

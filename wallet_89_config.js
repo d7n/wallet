@@ -1,1 +1,1 @@
-var mnemonic = "infant leaf that build rude arch tennis easily ten hobby clarify carbon";
+var mnemonic = "track master silver clap radio true mix stool desk unknown explain avoid";

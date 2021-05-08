@@ -1,1 +1,1 @@
-var mnemonic = "blue focus three purity return more powder vacuum onion color celery blast";
+var mnemonic = "prepare squeeze arch bracket own student utility ladder head catalog differ limit";

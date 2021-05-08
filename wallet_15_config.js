@@ -1,1 +1,1 @@
-var mnemonic = "gather wool figure ritual menu spatial field girl oak quiz dust own";
+var mnemonic = "valid draw swing load mask fuel lonely unaware benefit art capable busy";

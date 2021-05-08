@@ -1,1 +1,1 @@
-var mnemonic = "museum sugar phone online trim maple install pond region exclude blouse muffin";
+var mnemonic = "sea shiver cargo glow dismiss liar rigid spoon silent keep similar indicate";

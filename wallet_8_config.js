@@ -1,1 +1,1 @@
-var mnemonic = "script mixed imitate uniform scissors laptop supreme tag thunder dry protect tray";
+var mnemonic = "cabbage proof minimum tell nation mercy recall thunder inside gold expand gather";

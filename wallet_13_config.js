@@ -1,1 +1,1 @@
-var mnemonic = "acquire gloom airport only guitar hazard proud mammal wisdom pear kite garlic";
+var mnemonic = "pulse pencil employ drink turn brick tackle rib man mail alone decorate";

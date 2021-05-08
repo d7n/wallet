@@ -1,1 +1,1 @@
-var mnemonic = "tattoo critic mail assist fortune assault tree report animal attitude opinion track";
+var mnemonic = "bridge loop shine core sing squirrel gentle fluid stock wave pride joy";

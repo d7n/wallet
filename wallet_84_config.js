@@ -1,1 +1,1 @@
-var mnemonic = "coach raise imitate legend leader bench success image author price state view";
+var mnemonic = "come text theory doctor private stem unable among tomato like talent hub";

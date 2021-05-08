@@ -1,1 +1,1 @@
-var mnemonic = "slide village click current road small lumber wrestle liar salad address donate";
+var mnemonic = "vague often little game that wear session giggle assume joy live universe";

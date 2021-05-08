@@ -1,1 +1,1 @@
-var mnemonic = "denial boost wise luggage strong shoulder fun first whisper gesture pet stadium";
+var mnemonic = "toy ridge mistake olympic fossil broccoli news document eternal evidence view marble";

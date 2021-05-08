@@ -1,1 +1,1 @@
-var mnemonic = "hip fire neglect much version clinic wolf jelly biology matrix silly during";
+var mnemonic = "junior express bind file gentle weekend column muffin tennis damage lawn junior";

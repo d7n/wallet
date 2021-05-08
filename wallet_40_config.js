@@ -1,1 +1,1 @@
-var mnemonic = "disease sketch elephant general witness approve firm napkin atom famous evidence define";
+var mnemonic = "result mystery pigeon rookie dune three share daring text traffic swap stick";

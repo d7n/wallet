@@ -1,1 +1,1 @@
-var mnemonic = "shift airport garment forest average diamond army dignity slush front bike garage";
+var mnemonic = "crash forum march moon wash often track deposit glad clinic keep annual";

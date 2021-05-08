@@ -1,1 +1,1 @@
-var mnemonic = "pear electric garment cram awful brother twenty swarm syrup nominee shrimp adapt";
+var mnemonic = "water jeans soccer organ glimpse thing wife unit tuna smile year cover";

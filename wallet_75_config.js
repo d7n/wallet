@@ -1,1 +1,1 @@
-var mnemonic = "adapt burden buyer west ethics shrug motor expose oblige sibling pupil water";
+var mnemonic = "quarter humble electric depart embrace park slice useful into pass alpha air";

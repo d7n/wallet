@@ -1,1 +1,1 @@
-var mnemonic = "cheese clinic average adjust car ribbon cruise luggage hire finger blush blind";
+var mnemonic = "chat safe before hour river oil verify such lesson duty hair guess";

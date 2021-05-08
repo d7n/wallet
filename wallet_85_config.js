@@ -1,1 +1,1 @@
-var mnemonic = "life march galaxy volcano case egg text margin draft merit palm multiply";
+var mnemonic = "slush chuckle solar correct gas net fix sweet person mass blame clip";

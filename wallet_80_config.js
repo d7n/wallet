@@ -1,1 +1,1 @@
-var mnemonic = "exhibit thrive unusual snake subway enroll jazz wave upon scan elder love";
+var mnemonic = "boy trophy song fiscal sniff crucial wave prison sponsor dolphin tribe stable";

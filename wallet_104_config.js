@@ -1,1 +1,1 @@
-var mnemonic = "lens journey frozen ignore guess plug swim hill lunar winter creek angle";
+var mnemonic = "urban argue tiny dolphin beauty disease gas tape dutch sentence item dolphin";

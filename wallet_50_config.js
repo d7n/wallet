@@ -1,1 +1,1 @@
-var mnemonic = "crawl quarter certain current embody service grab very desert fan cruel capital";
+var mnemonic = "ladder calm usual dilemma bridge fold damp price make gauge verify label";

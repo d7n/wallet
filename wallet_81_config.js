@@ -1,1 +1,1 @@
-var mnemonic = "ceiling drip snake purchase term split warfare rubber wheat satisfy spawn anchor";
+var mnemonic = "cancel subject warm side split fox banana scorpion expect genius glory matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "area glass prize pupil shrimp forum oxygen spy shy midnight hedgehog day";
+var mnemonic = "latin crowd inhale sense cable brand degree someone diamond dog piano tired";

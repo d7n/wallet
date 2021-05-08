@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon liberty explain drastic switch two giraffe tomato prepare harvest craft patch";
+var mnemonic = "please sadness page math walnut fit host choose ritual letter surprise heavy";

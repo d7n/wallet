@@ -1,1 +1,1 @@
-var mnemonic = "sleep input control extra wave spirit purchase picture jungle bless steak weapon";
+var mnemonic = "dog ripple exercise snap receive hurdle wheel tortoise blast talent special energy";

@@ -1,1 +1,1 @@
-var mnemonic = "east slush cabbage lock logic story indoor divorce wealth upgrade fish latin";
+var mnemonic = "tip inject nerve select wrestle cute grunt fence grow physical torch bind";

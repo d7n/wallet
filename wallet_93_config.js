@@ -1,1 +1,1 @@
-var mnemonic = "option venture world situate topple farm list answer okay vicious rain forget";
+var mnemonic = "clinic vivid paper renew absent chapter enact off crush meadow shadow select";

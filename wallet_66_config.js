@@ -1,1 +1,1 @@
-var mnemonic = "south run sound raw bid cruel danger fancy trouble print sunset document";
+var mnemonic = "rather thrive sense system pact icon above actress beach journey tape lift";

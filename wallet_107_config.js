@@ -1,1 +1,1 @@
-var mnemonic = "end decade shy cigar when kiss thank journey stumble anger police fix";
+var mnemonic = "bracket morning letter twist relax useful divert squirrel daring message push abstract";

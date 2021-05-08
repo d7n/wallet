@@ -1,1 +1,1 @@
-var mnemonic = "control illegal sauce cushion toward celery fragile category one symbol people tube";
+var mnemonic = "genuine horror excess achieve okay once account library today hen head volume";

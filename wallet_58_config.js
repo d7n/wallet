@@ -1,1 +1,1 @@
-var mnemonic = "zone cricket dilemma street element gather season baby message boy flush hole";
+var mnemonic = "dentist illness vivid agent pill spend upset trim hunt outside loop jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "loan giggle else oblige smile display dragon cable carpet employ pave duty";
+var mnemonic = "actor penalty sing library object glance cheese banana royal renew bullet reveal";

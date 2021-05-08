@@ -1,1 +1,1 @@
-var mnemonic = "arrive unit miss dawn harbor chaos conduct hidden bring stumble cupboard umbrella";
+var mnemonic = "remain captain slim print brisk divorce eye imitate lucky wild sight angle";

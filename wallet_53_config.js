@@ -1,1 +1,1 @@
-var mnemonic = "wife devote fog goddess allow matter expect vibrant regular skate vibrant drastic";
+var mnemonic = "permit silk into faint siege close off fan road brick coffee sphere";

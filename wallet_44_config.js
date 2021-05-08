@@ -1,1 +1,1 @@
-var mnemonic = "learn lift route roof guide kind shrug slush prefer derive fury venture";
+var mnemonic = "orbit gossip fan bullet heart pride filter angry ignore kitchen boost pilot";

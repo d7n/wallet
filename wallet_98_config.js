@@ -1,1 +1,1 @@
-var mnemonic = "matrix obscure hint disease jealous wreck coil entire mystery whale lesson spoon";
+var mnemonic = "kangaroo woman arctic road flat catch render weasel improve ski giggle bottom";

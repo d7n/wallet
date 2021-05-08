@@ -1,1 +1,1 @@
-var mnemonic = "bless zoo drastic emotion erase remain vapor jazz buzz crop face inner";
+var mnemonic = "second novel obscure harvest sail swing vibrant erode link tomorrow barely occur";

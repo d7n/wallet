@@ -1,1 +1,1 @@
-var mnemonic = "during sting notice foot feature ability swim ignore hungry violin sleep skull";
+var mnemonic = "elder camp occur bag buzz summer logic win ahead buffalo denial lamp";

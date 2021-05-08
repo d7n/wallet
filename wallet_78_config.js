@@ -1,1 +1,1 @@
-var mnemonic = "image online there brick acid close depart puppy pistol fall student double";
+var mnemonic = "ritual village dash horror cinnamon silly indicate track wheel minor tourist admit";

@@ -1,1 +1,1 @@
-var mnemonic = "similar end local escape purse duck spike fame fiction catch ritual will";
+var mnemonic = "fiscal fetch expect coil lobster valid space grass old else fossil wise";

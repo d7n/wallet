@@ -1,1 +1,1 @@
-var mnemonic = "trouble surge diary tenant museum shrug income large found cute twist staff";
+var mnemonic = "shallow update coach axis useful solve baby bridge before deal top enlist";

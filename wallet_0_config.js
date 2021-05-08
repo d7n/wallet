@@ -1,1 +1,1 @@
-var mnemonic = "ladder heavy slot wrestle agent elephant amazing turtle ill december ticket medal";
+var mnemonic = "come cluster youth shift smile crane morning large almost path swap step";

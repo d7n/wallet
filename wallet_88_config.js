@@ -1,1 +1,1 @@
-var mnemonic = "celery impulse gain option spread video leader pave method apart uniform round";
+var mnemonic = "juice regret range scorpion laugh nasty mistake expect dawn fee sausage fossil";

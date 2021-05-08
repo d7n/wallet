@@ -1,1 +1,1 @@
-var mnemonic = "help base radio medal rifle upset cliff shuffle decide throw chest boost";
+var mnemonic = "swift monitor coast enrich swallow emotion mystery physical ahead miss trend member";

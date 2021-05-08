@@ -1,1 +1,1 @@
-var mnemonic = "feed citizen robust main never regret real snack tiny buffalo battle curtain";
+var mnemonic = "forum donkey exact wise neck chapter concert relax demand fork limit century";

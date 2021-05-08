@@ -1,1 +1,1 @@
-var mnemonic = "you link ethics relax dignity very tip canal bounce initial maze mushroom";
+var mnemonic = "clever avocado bronze any bird uncle element unable magnet skin boring equal";

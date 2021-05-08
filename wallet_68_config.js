@@ -1,1 +1,1 @@
-var mnemonic = "minute blur sauce method pretty resist shadow misery squirrel bachelor diamond envelope";
+var mnemonic = "come spread crater arrow chicken skin promote bike use hurdle exercise viable";

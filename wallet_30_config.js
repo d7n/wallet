@@ -1,1 +1,1 @@
-var mnemonic = "supply goose popular cook chimney lend caution pen result orient primary pen";
+var mnemonic = "donate page segment suspect spatial since bring axis allow toe scare foster";

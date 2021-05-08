@@ -1,1 +1,1 @@
-var mnemonic = "quote forum apart access proof bike inquiry offer rich swallow used kitten";
+var mnemonic = "pact crush senior anchor bitter artist ignore uncle column better magic autumn";

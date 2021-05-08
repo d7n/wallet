@@ -1,1 +1,1 @@
-var mnemonic = "festival custom file indoor depend want mosquito trash portion there view believe";
+var mnemonic = "tackle lesson era today stove sort list peasant argue width fit annual";

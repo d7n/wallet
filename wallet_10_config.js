@@ -1,1 +1,1 @@
-var mnemonic = "staff current cinnamon track robot cat fever token elite ask you today";
+var mnemonic = "shoulder weather nerve cluster voyage very black end maple peasant doctor ability";

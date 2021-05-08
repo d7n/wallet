@@ -1,1 +1,1 @@
-var mnemonic = "noble guide ask vessel rule public square enlist promote mechanic supreme foster";
+var mnemonic = "viable allow suit famous save need planet assault hundred message zebra exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "priority normal edit pulse wash prevent timber price element fury auto secret";
+var mnemonic = "load media dice account wage lemon vendor cherry level test twin online";

@@ -1,1 +1,1 @@
-var mnemonic = "coast escape vacant leg magnet sort duck distance fault obey diamond object";
+var mnemonic = "foam clean fall merit culture material aisle toy income obvious raccoon catalog";

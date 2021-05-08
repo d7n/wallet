@@ -1,1 +1,1 @@
-var mnemonic = "chapter episode swallow gauge ivory retire swear move sister stadium rich harvest";
+var mnemonic = "slush idea symbol climb adapt logic arm warrior absorb battle grab hold";

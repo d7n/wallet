@@ -1,1 +1,1 @@
-var mnemonic = "proof custom boy before keep retire load earth angle prison odor vintage";
+var mnemonic = "piano argue critic ill hockey call embrace hurdle attract island act clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "lab business metal derive style allow wire toe cry borrow finger photo";
+var mnemonic = "borrow rival sand bracket corn combine say clip maze strong fresh nice";

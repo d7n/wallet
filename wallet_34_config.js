@@ -1,1 +1,1 @@
-var mnemonic = "sunny pond nature physical replace urge tiny grit egg join urge thrive";
+var mnemonic = "ladder bring next sentence effort bounce usual order chuckle pull drastic web";

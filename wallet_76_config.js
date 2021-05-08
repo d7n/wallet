@@ -1,1 +1,1 @@
-var mnemonic = "sausage win win age perfect kiwi kind forum recipe ribbon breeze critic";
+var mnemonic = "spread puppy estate camp fashion analyst earn help degree bracket salt version";

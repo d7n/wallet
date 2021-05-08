@@ -1,1 +1,1 @@
-var mnemonic = "above hockey shrug deputy hotel picture decorate engine crunch clever paddle pear";
+var mnemonic = "person vivid quantum unusual enable spice mechanic canyon trick spell rug inflict";

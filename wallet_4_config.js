@@ -1,1 +1,1 @@
-var mnemonic = "motion panic object salute cabin shrimp cabbage exile obtain hat shallow calm";
+var mnemonic = "ritual illness exotic accuse prevent fuel forward cactus spy eyebrow hurry diagram";

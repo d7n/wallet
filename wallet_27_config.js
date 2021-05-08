@@ -1,1 +1,1 @@
-var mnemonic = "buzz forest mushroom pistol tenant wool couple used coyote kidney canyon poet";
+var mnemonic = "prefer grain basket indoor forget twice enter absorb trap kid path crunch";

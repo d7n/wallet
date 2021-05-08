@@ -1,1 +1,1 @@
-var mnemonic = "ship jump pact company forward concert exact minute satisfy penalty hobby rigid";
+var mnemonic = "agree acoustic open awkward caution genre hover concert drill wire grain glow";
