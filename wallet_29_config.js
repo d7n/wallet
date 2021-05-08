@@ -1,1 +1,1 @@
-var mnemonic = "used tape december source stumble lake true allow play giraffe credit cream";
+var mnemonic = "drop fun labor skill play stairs crunch curious custom final vibrant nominee";

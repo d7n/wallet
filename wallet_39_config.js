@@ -1,1 +1,1 @@
-var mnemonic = "wasp capable venue tooth life walk elevator bronze tuna keep deputy index";
+var mnemonic = "citizen toddler faith goose tower wet gasp brown barely congress require pave";

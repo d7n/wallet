@@ -1,1 +1,1 @@
-var mnemonic = "athlete spray inspire blue doctor metal material gospel metal blind camp stay";
+var mnemonic = "force subway imitate settle margin cancel video topple split anger concert lady";

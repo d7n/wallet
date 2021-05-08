@@ -1,1 +1,1 @@
-var mnemonic = "forest flame account since slow fox car grid initial lazy leisure hood";
+var mnemonic = "kid crystal october bonus spray inherit soda elegant dawn cat bonus achieve";

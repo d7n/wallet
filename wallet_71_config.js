@@ -1,1 +1,1 @@
-var mnemonic = "glow taxi host satoshi coach bird any sustain behind aware salmon few";
+var mnemonic = "clump system thought armor label bridge rail benefit divert extend awkward run";

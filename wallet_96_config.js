@@ -1,1 +1,1 @@
-var mnemonic = "area sign dinosaur find drip lamp portion task champion rain language hood";
+var mnemonic = "tissue assist try pilot actress churn aunt october toy laundry dice topic";

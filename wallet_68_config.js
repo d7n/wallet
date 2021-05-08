@@ -1,1 +1,1 @@
-var mnemonic = "south luxury satisfy ice sleep lamp strike snap parent aisle brown butter";
+var mnemonic = "arm oval sad snack spread lonely annual range meat also coral kitten";

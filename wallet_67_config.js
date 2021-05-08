@@ -1,1 +1,1 @@
-var mnemonic = "total noodle tonight method endless inside verify mass bone tide document accuse";
+var mnemonic = "write relief measure upset upgrade zoo eagle chuckle soul pluck snap tourist";

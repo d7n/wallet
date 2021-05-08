@@ -1,1 +1,1 @@
-var mnemonic = "reduce action april ghost will fly expire ski prepare load skill term";
+var mnemonic = "canvas toddler drum crush very key place mix aunt skull broom gym";

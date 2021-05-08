@@ -1,1 +1,1 @@
-var mnemonic = "transfer father connect book cushion own antique movie hospital ceiling chapter post";
+var mnemonic = "coach float winter snap vessel margin gesture wing result pluck neutral goose";

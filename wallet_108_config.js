@@ -1,1 +1,1 @@
-var mnemonic = "wagon project raccoon door elite code place swallow flavor three curve ivory";
+var mnemonic = "sibling electric luxury test six balcony sight disorder defy cream eagle payment";

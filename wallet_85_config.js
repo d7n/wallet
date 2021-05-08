@@ -1,1 +1,1 @@
-var mnemonic = "gain dry occur famous sell setup grab injury urge stand despair frozen";
+var mnemonic = "lake maximum this ranch need useful blame inform shadow manage save erupt";

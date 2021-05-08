@@ -1,1 +1,1 @@
-var mnemonic = "unfold jungle they arrive work mountain inch aim wink quarter spider borrow";
+var mnemonic = "across skate knee print name gravity can position soldier gown leader stand";

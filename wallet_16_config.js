@@ -1,1 +1,1 @@
-var mnemonic = "pulp december cube artefact unhappy quiz foster girl broom someone news cushion";
+var mnemonic = "snack mystery logic thought collect gold fee wrong trash explain barely grow";

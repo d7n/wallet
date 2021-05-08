@@ -1,1 +1,1 @@
-var mnemonic = "crater hint address require grid decrease access borrow firm quantum laugh scatter";
+var mnemonic = "pattern birth kiss carpet useless oven elite nation grocery result claw autumn";

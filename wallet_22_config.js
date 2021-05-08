@@ -1,1 +1,1 @@
-var mnemonic = "clinic planet tomorrow prize glove view stem delay sense matrix stereo truly";
+var mnemonic = "lock child lamp search beef melt harsh island leisure can mosquito extend";

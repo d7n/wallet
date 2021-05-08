@@ -1,1 +1,1 @@
-var mnemonic = "happy point text lens inflict awful carbon buzz dismiss bounce craft pill";
+var mnemonic = "funny industry monkey voyage festival eyebrow lake local primary torch gloom dial";

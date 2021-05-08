@@ -1,1 +1,1 @@
-var mnemonic = "inject sausage insane axis topple asset nature minimum shift drum spatial invite";
+var mnemonic = "butter extra cram runway chalk right short razor pretty involve butter pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "basic priority upon bread scrap thing need beyond shop omit cupboard yard";
+var mnemonic = "shoulder echo talent slow bid blush spice dinosaur door spot plate slim";

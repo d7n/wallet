@@ -1,1 +1,1 @@
-var mnemonic = "spider label mask share dismiss perfect slogan more effort amused nut garden";
+var mnemonic = "demise forget slab traffic debate body someone blur lazy tower glance post";

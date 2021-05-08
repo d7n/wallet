@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon dry disagree defy march harbor tuition mix poverty swallow alert fat";
+var mnemonic = "aim giggle crystal actor flag enemy upon sheriff tomato staff stay lawsuit";

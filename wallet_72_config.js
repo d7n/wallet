@@ -1,1 +1,1 @@
-var mnemonic = "rhythm gown fire venture very enter siege faculty blossom crime limit glance";
+var mnemonic = "latin spike arm unique ski hazard carry chair miss shift gasp unfair";

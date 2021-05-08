@@ -1,1 +1,1 @@
-var mnemonic = "tuna address bench chronic okay next lottery zoo payment hero okay involve";
+var mnemonic = "intact festival glass price uncle harbor alley donkey invite drum gym mandate";

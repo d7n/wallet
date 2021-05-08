@@ -1,1 +1,1 @@
-var mnemonic = "dirt anger dove increase between easily film slice cube occur snack engage";
+var mnemonic = "pupil puzzle horror dirt aim royal doll already blouse fuel can correct";

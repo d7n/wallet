@@ -1,1 +1,1 @@
-var mnemonic = "camp goddess dust direct indoor robot clap cabin merry hamster letter arctic";
+var mnemonic = "pizza photo toddler guilt soda edit toast swim usual capable foot fence";

@@ -1,1 +1,1 @@
-var mnemonic = "stand planet skirt veteran length gown stove assist spread swift desk endorse";
+var mnemonic = "shed theory cannon target quote position attract truly strategy dragon melody merry";

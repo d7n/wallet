@@ -1,1 +1,1 @@
-var mnemonic = "flag title step legal elephant script huge twenty flush exhibit welcome foil";
+var mnemonic = "one cluster brick parrot bridge oyster winter snap mistake call slab pilot";

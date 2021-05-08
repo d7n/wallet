@@ -1,1 +1,1 @@
-var mnemonic = "relief frozen puppy mom zoo tenant awesome stool wagon course detect grain";
+var mnemonic = "office drill picnic crumble grid tired submit book long cute amount frown";

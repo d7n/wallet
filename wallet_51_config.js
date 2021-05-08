@@ -1,1 +1,1 @@
-var mnemonic = "bag idle bomb pattern away remember laptop parade town verb school wolf";
+var mnemonic = "twenty close offer atom invest cactus perfect must fashion ordinary immune three";

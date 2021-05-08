@@ -1,1 +1,1 @@
-var mnemonic = "winner crush like van honey dial habit disorder learn vacuum outer fashion";
+var mnemonic = "harvest scale news sort paper carbon culture general impulse zero ceiling ramp";

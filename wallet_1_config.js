@@ -1,1 +1,1 @@
-var mnemonic = "vault gather method check gadget crisp resemble patrol must bleak twist kind";
+var mnemonic = "siren liquid keen entire moral wonder right citizen hub recycle family elevator";

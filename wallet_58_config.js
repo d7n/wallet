@@ -1,1 +1,1 @@
-var mnemonic = "evoke crunch segment extend bunker cargo twelve purpose recipe convince vicious turtle";
+var mnemonic = "expect adjust mushroom forward bridge mesh energy polar clutch rare drink maid";

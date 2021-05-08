@@ -1,1 +1,1 @@
-var mnemonic = "hero wave equip general swift reduce garage minimum upon ostrich indoor suspect";
+var mnemonic = "script mesh fold crisp bundle chest useless blossom curious praise angry display";

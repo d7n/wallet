@@ -1,1 +1,1 @@
-var mnemonic = "prosper snack bench wage tonight siege session hill nasty develop sight valid";
+var mnemonic = "inherit urban photo lab income unable border garlic filter remember broccoli say";

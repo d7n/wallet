@@ -1,1 +1,1 @@
-var mnemonic = "hurt hero dolphin rich hero august giraffe egg reform slight sheriff scout";
+var mnemonic = "royal patrol real connect license corn steel input parent guard device sick";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug eagle giraffe someone sell notice hundred bullet shy story captain earn";
+var mnemonic = "rural liberty define spare tomato lend rude purpose rapid length humble taxi";

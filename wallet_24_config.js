@@ -1,1 +1,1 @@
-var mnemonic = "ordinary inside robot nasty chuckle celery luggage defy main equal help relax";
+var mnemonic = "actor music mail rose side truly submit squirrel work monster airport reason";

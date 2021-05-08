@@ -1,1 +1,1 @@
-var mnemonic = "sweet table decline detect noodle cry pupil donate glove flash enforce number";
+var mnemonic = "festival cloud play ankle silly canyon canvas shoulder broom connect panda salmon";

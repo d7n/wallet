@@ -1,1 +1,1 @@
-var mnemonic = "idle almost lemon welcome beef absorb beef useful daring play reform mean";
+var mnemonic = "affair amazing senior talent question medal insect only artwork grow face gift";

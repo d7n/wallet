@@ -1,1 +1,1 @@
-var mnemonic = "purchase choose genre monitor unit tiny monster infant chunk march music napkin";
+var mnemonic = "forest fetch anger stamp fault eagle child scissors common dutch kitchen spread";

@@ -1,1 +1,1 @@
-var mnemonic = "physical immune van achieve rug nurse fall flame note humor sustain combine";
+var mnemonic = "water disorder mobile alley home orphan ignore canvas degree guitar gold cage";

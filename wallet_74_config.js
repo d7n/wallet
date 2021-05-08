@@ -1,1 +1,1 @@
-var mnemonic = "bulb tonight zero wrap hard afraid assist question ring account empower hamster";
+var mnemonic = "damp float extend coffee toy old vote bind buffalo merge flash like";

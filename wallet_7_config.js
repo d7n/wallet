@@ -1,1 +1,1 @@
-var mnemonic = "grid agent egg obscure flame clay brand empower ride dilemma album live";
+var mnemonic = "spend click peanut lemon tennis animal catalog net judge audit tunnel soap";

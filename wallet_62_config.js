@@ -1,1 +1,1 @@
-var mnemonic = "pupil seminar desk fence rose mouse tornado segment owner copper original alien";
+var mnemonic = "average walnut margin point trigger umbrella bubble memory agree hand banner cargo";

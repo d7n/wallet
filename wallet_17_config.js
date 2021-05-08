@@ -1,1 +1,1 @@
-var mnemonic = "wisdom derive urban trumpet strategy apple stock iron custom clarify result govern";
+var mnemonic = "exit love proof pistol amazing hip sell woman holiday pepper cannon nasty";

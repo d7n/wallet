@@ -1,1 +1,1 @@
-var mnemonic = "misery floor merit wrong avocado pear virus erode spatial marble mention object";
+var mnemonic = "nice someone gadget item love owner cattle crowd cabin belt play love";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness brief fury middle execute high attitude lucky sorry omit organ addict";
+var mnemonic = "woman boost action endless earth few exchange refuse polar word wheat churn";

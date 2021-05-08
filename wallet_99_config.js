@@ -1,1 +1,1 @@
-var mnemonic = "file joy remind betray sphere potato bag chuckle crush indicate kit feel";
+var mnemonic = "mammal protect found provide ignore file bar pupil tribe flight day clip";

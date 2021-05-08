@@ -1,1 +1,1 @@
-var mnemonic = "matter thunder paddle ethics morning prefer crack price armed face scan will";
+var mnemonic = "excite aware casino target nasty random elevator once fringe faculty diet afford";

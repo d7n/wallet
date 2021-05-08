@@ -1,1 +1,1 @@
-var mnemonic = "dad toilet hotel method stadium enough wolf divide video right equip pole";
+var mnemonic = "smooth crisp certain lizard flush hotel shoot wave capital shuffle cost hundred";

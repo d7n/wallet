@@ -1,1 +1,1 @@
-var mnemonic = "feel left habit inspire obvious jacket echo easy sorry case aspect mandate";
+var mnemonic = "cram awesome title mesh regret better gold extra vintage pledge fish feel";

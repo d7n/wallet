@@ -1,1 +1,1 @@
-var mnemonic = "junk deposit stay trip reason unusual silent awful endorse enroll always brave";
+var mnemonic = "sentence invest autumn journey solar remove diary relief scrub mango layer energy";

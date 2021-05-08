@@ -1,1 +1,1 @@
-var mnemonic = "female exchange gallery interest velvet detect sheriff hub frozen permit scrub eager";
+var mnemonic = "blur spot dwarf wife winner festival destroy ladder chapter hood metal child";

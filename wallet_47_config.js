@@ -1,1 +1,1 @@
-var mnemonic = "share pig garage cruel crucial elephant mask border crowd learn attack evolve";
+var mnemonic = "warrior coyote gain noble armed dust actual resource force clog blush trash";

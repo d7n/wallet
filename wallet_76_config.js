@@ -1,1 +1,1 @@
-var mnemonic = "scan gravity boil hero snap scorpion ugly biology struggle mesh vivid impulse";
+var mnemonic = "ritual race include proof ticket perfect you best riot pledge neutral genre";

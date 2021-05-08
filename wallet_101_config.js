@@ -1,1 +1,1 @@
-var mnemonic = "nurse brother reward arch unfold advice village rib curve black text sponsor";
+var mnemonic = "utility gasp cost champion pyramid ask river glove relax fly update dignity";

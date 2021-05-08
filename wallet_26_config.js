@@ -1,1 +1,1 @@
-var mnemonic = "magic depend minute violin market they dinosaur dumb slab arrive donkey focus";
+var mnemonic = "sauce river feature sample barely orphan dragon mesh shove bounce volume grab";

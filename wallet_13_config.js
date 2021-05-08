@@ -1,1 +1,1 @@
-var mnemonic = "jewel animal wink tornado debate country umbrella simple subject alley speed coconut";
+var mnemonic = "fancy student injury maximum lab fatigue whale forget hedgehog dinner soccer country";

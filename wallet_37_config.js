@@ -1,1 +1,1 @@
-var mnemonic = "math final bird mask cost duck evil donkey friend sick tail service";
+var mnemonic = "attend afford notice give mean era primary marine frog icon escape myth";

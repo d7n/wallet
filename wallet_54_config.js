@@ -1,1 +1,1 @@
-var mnemonic = "quiz metal drive infant mercy comic found like garden stem vibrant ginger";
+var mnemonic = "team produce custom off edge minimum dice awake grab achieve pudding club";

@@ -1,1 +1,1 @@
-var mnemonic = "company dawn blur ship sponsor task cover glass mean civil summer comic";
+var mnemonic = "trial legal push arrest turn ramp leg try teach ranch short rabbit";

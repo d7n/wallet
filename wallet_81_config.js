@@ -1,1 +1,1 @@
-var mnemonic = "vivid vibrant athlete motion media thunder audit burden subject boss attack office";
+var mnemonic = "any differ brick virus target cross tree regret cricket candy car ride";

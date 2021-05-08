@@ -1,1 +1,1 @@
-var mnemonic = "position pave ostrich message craft sunset joke obvious proud neither sweet awful";
+var mnemonic = "ostrich tennis exit captain volume cost apart olympic subject fatigue dawn exercise";

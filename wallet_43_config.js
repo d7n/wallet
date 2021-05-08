@@ -1,1 +1,1 @@
-var mnemonic = "gauge trouble lift escape victory pottery later correct govern orient vote thumb";
+var mnemonic = "this art tone balcony accident kind parent old decrease jeans trim sudden";

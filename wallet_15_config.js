@@ -1,1 +1,1 @@
-var mnemonic = "artefact sight victory adult biology cattle squeeze tattoo educate learn security machine";
+var mnemonic = "chimney speed dragon danger delay inherit mystery citizen hill sausage state club";

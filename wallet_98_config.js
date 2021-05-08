@@ -1,1 +1,1 @@
-var mnemonic = "rescue govern puppy term august lawsuit claim always amount mosquito lonely gather";
+var mnemonic = "slam smart talk close mirror illegal finish pride old spirit seek sell";

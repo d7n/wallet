@@ -1,1 +1,1 @@
-var mnemonic = "voyage lion traffic echo soul grass deer mask better club nurse physical";
+var mnemonic = "aisle pigeon once recycle walnut man walnut brass helmet goddess same life";

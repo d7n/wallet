@@ -1,1 +1,1 @@
-var mnemonic = "verify ocean nest cereal defy life angry pull wrestle horn sample raven";
+var mnemonic = "ozone virtual crater purchase color update laptop double asset under promote size";

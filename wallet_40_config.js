@@ -1,1 +1,1 @@
-var mnemonic = "trophy start betray nice prison daughter cruise assist stove mix axis wool";
+var mnemonic = "nothing similar occur lawn rapid orphan light damp bird arrow error broom";

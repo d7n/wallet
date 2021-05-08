@@ -1,1 +1,1 @@
-var mnemonic = "replace pilot weasel various project flavor project icon violin arch verify horn";
+var mnemonic = "service address program shell spike dice increase early base solution prefer corn";

@@ -1,1 +1,1 @@
-var mnemonic = "inform boy acoustic host wagon brown scene special unlock degree question weasel";
+var mnemonic = "merry eyebrow absurd clarify bike gauge mixed leisure verify chat pear blast";

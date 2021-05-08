@@ -1,1 +1,1 @@
-var mnemonic = "circle volume chat prefer age exact motion chair fiction humble pottery enter";
+var mnemonic = "melody upset moral cliff organ wall escape clinic barely mixture brief throw";

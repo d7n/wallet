@@ -1,1 +1,1 @@
-var mnemonic = "barrel dignity target group garden arrive useful legal discover multiply wrong prison";
+var mnemonic = "often pride useless bone regular blade topple shove correct own usage brick";

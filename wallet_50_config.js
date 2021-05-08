@@ -1,1 +1,1 @@
-var mnemonic = "walk lock donor narrow flee apple seminar build clown minimum second slot";
+var mnemonic = "human real panic chaos resist crime swallow innocent region expire sun torch";

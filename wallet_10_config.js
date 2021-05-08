@@ -1,1 +1,1 @@
-var mnemonic = "grit school venture flip basket leader choice finger paper wrap begin width";
+var mnemonic = "around nerve ghost pond there brief erupt pelican sad fuel slot steel";

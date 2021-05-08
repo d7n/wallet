@@ -1,1 +1,1 @@
-var mnemonic = "hamster cloth hood salad lamp truth wolf cart ladder program squirrel unaware";
+var mnemonic = "inch that subject attract carry shock nuclear become impulse gun expand defy";

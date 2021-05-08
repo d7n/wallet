@@ -1,1 +1,1 @@
-var mnemonic = "crew ranch deposit cherry youth crisp pear kite produce air stumble chuckle";
+var mnemonic = "rescue cargo diagram erode pond window sponsor bicycle uncover ask cycle denial";

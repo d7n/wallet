@@ -1,1 +1,1 @@
-var mnemonic = "truth scheme dance false saddle near universe sniff time guide ahead consider";
+var mnemonic = "pulp myself length vintage tennis breeze yard border knock solve poem genuine";

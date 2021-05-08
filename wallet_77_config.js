@@ -1,1 +1,1 @@
-var mnemonic = "subject flower lawsuit bomb motor reject broccoli portion among buyer shaft royal";
+var mnemonic = "detect long excess start spawn security bounce nothing civil alter quote wing";

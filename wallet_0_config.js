@@ -1,1 +1,1 @@
-var mnemonic = "client donor forest armor athlete leader vanish despair black mean soccer hurt";
+var mnemonic = "motion fossil museum subway inform nerve harbor knife axis bulk brown confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "violin cage lunar hockey hedgehog session beef bird input spirit bulb fiber";
+var mnemonic = "man corn mutual ritual artist element steel this speed rigid agent barrel";

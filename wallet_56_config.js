@@ -1,1 +1,1 @@
-var mnemonic = "pledge slogan stomach wisdom talk consider grain law animal fiber spider okay";
+var mnemonic = "write giraffe green neck job salt volume gun sick myth pass hint";

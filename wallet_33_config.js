@@ -1,1 +1,1 @@
-var mnemonic = "letter flock major hospital wrong roast banana fame combine divert shell usual";
+var mnemonic = "paddle sibling master spend artefact foot page upgrade elbow glow woman chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet better inflict skin renew vivid view seminar woman follow alien trend";
+var mnemonic = "citizen object since dragon never year peasant spray run climb elder garment";

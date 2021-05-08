@@ -1,1 +1,1 @@
-var mnemonic = "leopard table exist absorb cactus page trigger path glance dress chair alone";
+var mnemonic = "inquiry measure gorilla mail multiply napkin excite imitate fiscal fog seek friend";

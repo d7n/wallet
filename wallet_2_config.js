@@ -1,1 +1,1 @@
-var mnemonic = "minor dash entire lemon popular cross myth degree popular nut there cross";
+var mnemonic = "alone ketchup grab coral solve pass assume carpet eight saddle risk pause";

@@ -1,1 +1,1 @@
-var mnemonic = "crush oppose device bitter deliver kiss amazing firm resemble clever seed damp";
+var mnemonic = "blush news type acoustic friend praise local detail valley rubber evidence wish";

@@ -1,1 +1,1 @@
-var mnemonic = "glue nerve toast use differ tail embark cute taste sheriff level autumn";
+var mnemonic = "vessel cause inhale vivid arch excess arrow monitor verb burst mirror blast";

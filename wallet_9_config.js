@@ -1,1 +1,1 @@
-var mnemonic = "tornado swear very absent wide shock wink style paper drip alert sorry";
+var mnemonic = "wet fence sick vacuum goat merit replace trap noodle another twelve way";

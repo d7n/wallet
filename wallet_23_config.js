@@ -1,1 +1,1 @@
-var mnemonic = "material loan horn song rate real verify episode pride pair paddle color";
+var mnemonic = "polar wink prepare knife bird camp crisp gap town kidney order ancient";

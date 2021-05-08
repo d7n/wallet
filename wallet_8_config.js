@@ -1,1 +1,1 @@
-var mnemonic = "scrap assist yard resemble fancy print violin screen parade market second rally";
+var mnemonic = "resemble rival betray mind stairs awful equip wet enforce raven since tide";
