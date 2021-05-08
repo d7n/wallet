@@ -1,1 +1,1 @@
-var mnemonic = "time dove chalk survey educate bus diary surge note already worry evolve";
+var mnemonic = "ethics benefit blouse coyote moral receive spider butter carpet hollow museum oval";

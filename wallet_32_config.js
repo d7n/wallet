@@ -1,1 +1,1 @@
-var mnemonic = "dawn prison jar notable lumber deer narrow normal hurdle second general build";
+var mnemonic = "remember tape purchase panther pudding nominee orbit champion net veteran cabin make";

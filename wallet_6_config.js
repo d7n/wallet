@@ -1,1 +1,1 @@
-var mnemonic = "return wasp more board kid speak deal gym tunnel easy evolve void";
+var mnemonic = "cat chronic reward vintage radar wonder about sport wagon shiver decline discover";

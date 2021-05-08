@@ -1,1 +1,1 @@
-var mnemonic = "regular dash stable able van tray flush hour next census cage flee";
+var mnemonic = "close envelope impact release you draw broom cattle issue ship release tell";

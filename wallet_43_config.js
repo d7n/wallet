@@ -1,1 +1,1 @@
-var mnemonic = "raw surge hat army endless meat merry avocado cherry shoe census spike";
+var mnemonic = "scheme meat own carpet coffee vivid hour nest tiger primary endless rent";

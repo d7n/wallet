@@ -1,1 +1,1 @@
-var mnemonic = "retire arch top toss marine donor camp parade bargain ticket era tag";
+var mnemonic = "wave black mix ensure renew digital movie ask record jar female glance";

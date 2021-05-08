@@ -1,1 +1,1 @@
-var mnemonic = "awake faint ski economy evil nothing witness man own solid pulse negative";
+var mnemonic = "note buyer peasant detect divorce blue bottom voyage yellow slim girl father";

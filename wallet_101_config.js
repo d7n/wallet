@@ -1,1 +1,1 @@
-var mnemonic = "unknown pizza grow sure candy desert goose pattern green valley alcohol just";
+var mnemonic = "below corn detect direct worth arrow print lyrics poem craft street sunny";

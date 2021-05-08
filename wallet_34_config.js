@@ -1,1 +1,1 @@
-var mnemonic = "lumber van foil practice reform pumpkin image boost fitness ahead surge tortoise";
+var mnemonic = "shallow attract hair cake rhythm deer very flush tower random arrest rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "error erase mirror hour industry elbow load flip gadget spot clever text";
+var mnemonic = "resemble swap replace lion girl noodle property word hire champion remind horn";

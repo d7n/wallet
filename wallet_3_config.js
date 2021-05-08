@@ -1,1 +1,1 @@
-var mnemonic = "nest upset punch know color over health item chunk mixed bird enjoy";
+var mnemonic = "width wave young husband bread flock enhance know gospel pledge crash train";

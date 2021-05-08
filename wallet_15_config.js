@@ -1,1 +1,1 @@
-var mnemonic = "produce lab cherry board manage cradle outside venue casino result buffalo define";
+var mnemonic = "absent laptop blame prefer soft furnace child nice flush runway purchase relax";

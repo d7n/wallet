@@ -1,1 +1,1 @@
-var mnemonic = "whisper boy ghost cigar like public chuckle spell often trim blossom decorate";
+var mnemonic = "desk hotel plastic bike remind any elbow dance erase black bachelor version";

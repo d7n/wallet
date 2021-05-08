@@ -1,1 +1,1 @@
-var mnemonic = "produce north inherit room soft rigid valve treat labor wrestle arch shock";
+var mnemonic = "lens baby flower clutch need escape inspire mandate galaxy hub waste hair";

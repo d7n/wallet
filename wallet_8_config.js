@@ -1,1 +1,1 @@
-var mnemonic = "banner index arena spend cost ride pioneer novel confirm clip brush dentist";
+var mnemonic = "quantum few song weather sibling cruel voice share arch alpha crush mechanic";

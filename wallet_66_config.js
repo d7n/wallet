@@ -1,1 +1,1 @@
-var mnemonic = "sign behave want arrow one dynamic asset slender say own lion depth";
+var mnemonic = "main abandon february act glory borrow mom hill venue hammer illness sweet";

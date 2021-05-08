@@ -1,1 +1,1 @@
-var mnemonic = "swallow flame damp effort abstract romance marine funny heart flame fabric basic";
+var mnemonic = "cigar fish arm soft throw dinner phrase grid skirt logic buddy click";

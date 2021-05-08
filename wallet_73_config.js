@@ -1,1 +1,1 @@
-var mnemonic = "video tape conduct child scatter oven annual island science order gorilla equip";
+var mnemonic = "asset region beef slight follow trash talent peace margin only open daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "visa false orient plate sword monster tree august brass observe company bullet";
+var mnemonic = "august soap indicate current album wire you word park turn process replace";

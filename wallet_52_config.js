@@ -1,1 +1,1 @@
-var mnemonic = "night rotate summer order summer false wave mention arctic label explain addict";
+var mnemonic = "nature thunder choice move orange theme earth expire neutral double layer disorder";

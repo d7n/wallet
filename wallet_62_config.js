@@ -1,1 +1,1 @@
-var mnemonic = "quarter dinner retire eager replace deer write remove humble boost argue hobby";
+var mnemonic = "toilet record whale visa estate swamp subway slot coil ocean energy govern";

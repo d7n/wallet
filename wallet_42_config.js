@@ -1,1 +1,1 @@
-var mnemonic = "arrive gaze seven slim concert good wreck great cattle churn often post";
+var mnemonic = "mirror joke green token buyer unlock wear access already reflect regret grunt";

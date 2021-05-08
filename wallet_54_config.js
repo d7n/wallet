@@ -1,1 +1,1 @@
-var mnemonic = "salon hand lumber soup make setup plastic exhibit symptom they evoke conduct";
+var mnemonic = "hard stock danger rug february unusual shoot barrel disorder push rescue pattern";

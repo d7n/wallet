@@ -1,1 +1,1 @@
-var mnemonic = "grit crowd chest lab erosion cruise banana proof physical absorb recycle noise";
+var mnemonic = "note much antique siege quiz spider drop ride floor october tiny material";

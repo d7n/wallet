@@ -1,1 +1,1 @@
-var mnemonic = "spatial mammal clay exhaust cube census episode remove floor candy menu amount";
+var mnemonic = "plunge stable cream prepare enemy photo mention area senior demand bind decide";

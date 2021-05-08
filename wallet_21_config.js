@@ -1,1 +1,1 @@
-var mnemonic = "oppose hammer orient enable sign allow call element federal erosion clump duck";
+var mnemonic = "toss indicate best giggle victory pupil minute rapid retreat combine little there";

@@ -1,1 +1,1 @@
-var mnemonic = "beach coffee hour account impulse item remember angle bargain orient hard fold";
+var mnemonic = "tragic minimum garlic daring increase juice hen truck reward uncle tube fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "remind castle bean gaze order frog obey inhale frozen laundry stone raise";
+var mnemonic = "remove sad melt outdoor notable used flame spider firm present volcano canal";

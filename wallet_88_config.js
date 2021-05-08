@@ -1,1 +1,1 @@
-var mnemonic = "powder urban turkey humble outdoor hill taxi glance add increase coconut raw";
+var mnemonic = "piece text series blood antenna link moment journey tumble garden pulp rhythm";

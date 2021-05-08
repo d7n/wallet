@@ -1,1 +1,1 @@
-var mnemonic = "toss glide barrel snake cash sick exotic soft use fine minimum heavy";
+var mnemonic = "camp black biology fury junk injury senior cycle lizard disorder predict deal";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow fire deal strategy warfare staff net calm series paper diary proof";
+var mnemonic = "few unfair loop item throw neglect usual into oxygen tenant blur strong";

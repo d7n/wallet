@@ -1,1 +1,1 @@
-var mnemonic = "warrior romance pact educate clarify hammer shop learn night cannon nothing shield";
+var mnemonic = "sleep evolve series address school toddler stay series analyst water canvas silent";

@@ -1,1 +1,1 @@
-var mnemonic = "clog warm oven end bulb scheme future motion scheme lady foil fee";
+var mnemonic = "junk aunt detect stay seek tortoise butter double invest maze horror acid";

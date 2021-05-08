@@ -1,1 +1,1 @@
-var mnemonic = "injury stove siege diesel useless usage isolate rescue curious sell drastic tongue";
+var mnemonic = "interest dilemma base connect kidney negative turkey food resource hope avoid text";

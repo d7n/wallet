@@ -1,1 +1,1 @@
-var mnemonic = "abstract lend duck never render access spread slight produce hood acoustic team";
+var mnemonic = "tiny lava castle prepare monkey sock record kangaroo very erase eye assume";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder kidney pencil grant purse shoot volcano slice man cube notable nurse";
+var mnemonic = "ring detect always work second sample helmet worth topic trigger winter hire";

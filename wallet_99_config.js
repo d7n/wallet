@@ -1,1 +1,1 @@
-var mnemonic = "allow uncover acid conduct office cycle urban trust actor flash glance kind";
+var mnemonic = "idle choice pill pill later flower evidence brain left sand visa genuine";

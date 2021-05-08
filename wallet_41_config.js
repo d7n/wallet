@@ -1,1 +1,1 @@
-var mnemonic = "lottery engine tribe aware arch orphan adult diesel furnace romance occur knife";
+var mnemonic = "rude response scrub magic tired holiday fiction magnet bench series seminar south";

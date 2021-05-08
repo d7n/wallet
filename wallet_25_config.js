@@ -1,1 +1,1 @@
-var mnemonic = "torch toy opinion pen crawl spray fiction armor alter fresh talent begin";
+var mnemonic = "strike attract arrange spell parade mixed salute tooth upon identify tiny shed";

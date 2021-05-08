@@ -1,1 +1,1 @@
-var mnemonic = "arena cake harvest quit junk coral supply during promote orange tortoise rib";
+var mnemonic = "used auction more tissue into hazard suspect spatial coffee case dust neutral";

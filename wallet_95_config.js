@@ -1,1 +1,1 @@
-var mnemonic = "ghost admit solar proud rug never copper hockey place visual rescue diet";
+var mnemonic = "pony pact paper laundry require pull can hotel spare silly century pigeon";

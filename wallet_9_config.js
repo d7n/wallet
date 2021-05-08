@@ -1,1 +1,1 @@
-var mnemonic = "list ecology asset average make kitten hood clip auto struggle siren carpet";
+var mnemonic = "feature render error add pink reunion fitness engine supreme gloom thumb gorilla";

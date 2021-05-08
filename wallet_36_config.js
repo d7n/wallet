@@ -1,1 +1,1 @@
-var mnemonic = "diagram burst adapt poet measure tenant coral blossom cupboard roast eagle vanish";
+var mnemonic = "kiss royal taxi intact song piano foam essay mom hood magnet utility";

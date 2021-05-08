@@ -1,1 +1,1 @@
-var mnemonic = "face main sun modify during increase unveil force diary pink soft body";
+var mnemonic = "orient arrive voyage usual forest smart pill elder large perfect guard convince";

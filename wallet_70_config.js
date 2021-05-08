@@ -1,1 +1,1 @@
-var mnemonic = "hover mass energy pumpkin famous peasant lawsuit scene little ecology rib novel";
+var mnemonic = "empower tell verb gold giggle silent elder egg park mixed cricket diet";

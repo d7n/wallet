@@ -1,1 +1,1 @@
-var mnemonic = "protect dirt joke grant above crew wreck question current occur auto life";
+var mnemonic = "actor portion gate cube grain raccoon web fat payment snow journey energy";

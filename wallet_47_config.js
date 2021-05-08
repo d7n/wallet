@@ -1,1 +1,1 @@
-var mnemonic = "sponsor exact special favorite remind hover like awesome fee arch prize upper";
+var mnemonic = "ethics grab jelly clay relax tooth menu athlete resist attitude talent spin";

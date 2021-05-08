@@ -1,1 +1,1 @@
-var mnemonic = "lesson green earn eternal grass tree regular error ability team betray borrow";
+var mnemonic = "warm egg clean mad siren cigar trial company labor ribbon chaos advice";

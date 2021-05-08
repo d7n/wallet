@@ -1,1 +1,1 @@
-var mnemonic = "lottery grace inch lumber garbage practice diesel depend direct decorate thrive calm";
+var mnemonic = "limb spell tower harbor cereal race simple afraid tilt member scan stereo";

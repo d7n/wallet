@@ -1,1 +1,1 @@
-var mnemonic = "level green bird village canvas rookie wonder theme salad fix skull crowd";
+var mnemonic = "repair auto ignore wagon purity other dream crowd stable empower tuna fury";

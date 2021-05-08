@@ -1,1 +1,1 @@
-var mnemonic = "worth stereo rather quality spoil garage earth enact melody sort merit museum";
+var mnemonic = "range isolate evil route visit tongue cannon sea canal tube pair two";

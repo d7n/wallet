@@ -1,1 +1,1 @@
-var mnemonic = "recall alert voice strategy obvious use illness remove borrow dirt kind fortune";
+var mnemonic = "clock obvious sample fresh fade common capable curious busy always recycle dinner";

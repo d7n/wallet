@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow panic knee under scout twice smoke swear rib joy sign happy";
+var mnemonic = "myth load name wolf used trend become pudding reward moral bargain carry";

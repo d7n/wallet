@@ -1,1 +1,1 @@
-var mnemonic = "proof february early bean castle hole problem page senior alter usage great";
+var mnemonic = "cream empty thing embrace casino matter sudden gift version carry hover velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "there submit earth powder humble august stock pyramid mercy abuse buzz ordinary";
+var mnemonic = "hurt lunar provide radio palm result left spare tuition orbit edge victory";

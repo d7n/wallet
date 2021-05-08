@@ -1,1 +1,1 @@
-var mnemonic = "throw joy return funny reflect indicate screen bus wall pretty pioneer polar";
+var mnemonic = "supreme lecture neither giraffe nest aspect drill idea social predict embrace canyon";

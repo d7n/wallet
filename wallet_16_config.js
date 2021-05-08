@@ -1,1 +1,1 @@
-var mnemonic = "daughter impose distance dust false reunion virus master circle mystery analyst chef";
+var mnemonic = "meadow furnace habit skate miss file turkey illegal reduce conduct push quarter";

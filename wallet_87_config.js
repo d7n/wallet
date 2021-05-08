@@ -1,1 +1,1 @@
-var mnemonic = "cloud crawl eternal shadow media useless kidney music meat odor grace genuine";
+var mnemonic = "wheel siren orient lab lawn bean north foot inside scatter stand wet";

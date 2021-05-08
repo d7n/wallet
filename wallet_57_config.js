@@ -1,1 +1,1 @@
-var mnemonic = "craft arch ladder trick joy bag mosquito shrug loyal element infant insane";
+var mnemonic = "once flash crawl pattern hair canoe ignore enough equal hen title grape";

@@ -1,1 +1,1 @@
-var mnemonic = "book someone accuse leisure engine enemy document exercise improve disagree barely danger";
+var mnemonic = "together pretty bench hover vague comfort fitness lecture price riot owner bind";

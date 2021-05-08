@@ -1,1 +1,1 @@
-var mnemonic = "focus congress only panther oak crowd velvet suffer keep output iron gaze";
+var mnemonic = "future sunset pull modify rally club expand glory retire unusual pave business";

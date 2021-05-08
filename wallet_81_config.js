@@ -1,1 +1,1 @@
-var mnemonic = "civil ketchup pepper pupil helmet human repeat goddess play address stone dignity";
+var mnemonic = "target scorpion gesture funny globe fox jar fish impose thank display warfare";

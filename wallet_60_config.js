@@ -1,1 +1,1 @@
-var mnemonic = "way earn market risk ecology member trick olympic twelve risk scrub adapt";
+var mnemonic = "detail cycle liquid alien innocent grunt learn margin lava panic trim alcohol";

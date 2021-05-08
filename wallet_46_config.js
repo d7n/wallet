@@ -1,1 +1,1 @@
-var mnemonic = "earn tobacco wine humble jaguar ripple way valid shrimp result impulse vessel";
+var mnemonic = "labor surround cook grow mix sword tiger valid exercise limb proud arch";

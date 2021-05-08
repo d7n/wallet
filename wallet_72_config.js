@@ -1,1 +1,1 @@
-var mnemonic = "diet myth verb spice escape absorb carbon jeans grit force medal only";
+var mnemonic = "skin floor inch ten away frequent render dress blue what fee amount";

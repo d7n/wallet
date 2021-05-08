@@ -1,1 +1,1 @@
-var mnemonic = "region unable tourist detail practice cereal autumn thing odor umbrella blood frequent";
+var mnemonic = "renew train zone theory attend execute purse dad vessel again tree consider";

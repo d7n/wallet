@@ -1,1 +1,1 @@
-var mnemonic = "attitude model soul light upper buddy talk absent student appear gauge syrup";
+var mnemonic = "wise three spin say pledge spatial fat stamp follow equal once borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "rally cross viable cancel student carry verb gadget print exist member spell";
+var mnemonic = "like nation mammal grant frozen nation bronze ozone tissue december liberty cry";

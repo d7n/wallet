@@ -1,1 +1,1 @@
-var mnemonic = "spoon page enable license dumb truck when pulse kick boss bunker puzzle";
+var mnemonic = "canal cricket bleak culture love rude antique upgrade pencil napkin myth jealous";

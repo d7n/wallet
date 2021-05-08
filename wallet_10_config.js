@@ -1,1 +1,1 @@
-var mnemonic = "cabbage sting beauty sphere talk armed sting label load road brave turtle";
+var mnemonic = "wasp hair indoor reform view milk snack south girl pull mixture finger";

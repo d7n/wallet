@@ -1,1 +1,1 @@
-var mnemonic = "six two resource spray eight pepper obtain legal same net erosion love";
+var mnemonic = "black breeze approve drift source deposit punch engine skate endorse source pitch";

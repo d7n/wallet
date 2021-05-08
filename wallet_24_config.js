@@ -1,1 +1,1 @@
-var mnemonic = "cheap inflict token stem ocean goose laugh ladder upper range dawn share";
+var mnemonic = "tumble elevator tonight retreat wait celery arm monitor panda breeze leave super";

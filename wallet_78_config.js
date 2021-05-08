@@ -1,1 +1,1 @@
-var mnemonic = "shy cabin tackle stand shy assault warm castle mix amount humor crucial";
+var mnemonic = "merit punch endless airport attitude clerk balcony drum float kiwi mixed hard";

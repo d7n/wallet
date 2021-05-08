@@ -1,1 +1,1 @@
-var mnemonic = "shine they hundred just ecology family duck card stool toss armor always";
+var mnemonic = "box mom leisure close run pause wasp shell critic miss tip congress";

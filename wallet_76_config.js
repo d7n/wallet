@@ -1,1 +1,1 @@
-var mnemonic = "excuse fruit acid course quote neck teach maple athlete toddler code remind";
+var mnemonic = "blouse confirm junior decrease strike unaware duck soda tag apple fiber promote";

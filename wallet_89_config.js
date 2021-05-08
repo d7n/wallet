@@ -1,1 +1,1 @@
-var mnemonic = "prosper source enforce april result flash hill bag vanish sad correct friend";
+var mnemonic = "region nest rally yellow broom around jazz diagram balance erupt announce repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme ramp violin title fox violin ten public lumber fruit claim story";
+var mnemonic = "collect pet motion ostrich foster mixed end fox hotel april pattern kick";

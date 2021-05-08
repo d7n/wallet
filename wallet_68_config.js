@@ -1,1 +1,1 @@
-var mnemonic = "orient talent member marine bubble casino divert machine alpha nose arm dizzy";
+var mnemonic = "strong card idea dinner clarify cactus skate robot cool dizzy test upset";

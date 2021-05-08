@@ -1,1 +1,1 @@
-var mnemonic = "budget fault giggle only author pulp faith twin cloud faculty suit express";
+var mnemonic = "case paddle type question length economy patch sail uniform coach wise tobacco";

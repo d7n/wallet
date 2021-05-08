@@ -1,1 +1,1 @@
-var mnemonic = "will census adult online mechanic inspire lizard club notice old urge comic";
+var mnemonic = "peace winner save motor ozone judge plug kick rescue youth speak play";

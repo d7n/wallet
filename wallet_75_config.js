@@ -1,1 +1,1 @@
-var mnemonic = "diesel cherry mass tail ship wreck chimney jelly success habit code beauty";
+var mnemonic = "wheel butter exercise artefact marble mansion genre permit lucky erase final foam";

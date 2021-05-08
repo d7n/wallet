@@ -1,1 +1,1 @@
-var mnemonic = "profit antenna wonder sibling helmet dolphin dry slush govern rail opinion rubber";
+var mnemonic = "result daring bench shy mercy ready asthma news prefer size law craft";

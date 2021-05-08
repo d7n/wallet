@@ -1,1 +1,1 @@
-var mnemonic = "fashion apart empower split narrow letter goose warm delay hockey island fury";
+var mnemonic = "survey wash acoustic silent coin token arrange hub decide dinosaur size flip";

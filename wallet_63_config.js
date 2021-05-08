@@ -1,1 +1,1 @@
-var mnemonic = "skin list crystal august harvest vintage inch next ring exact curious wide";
+var mnemonic = "cricket coin jazz royal struggle journey school actual sail upper drop view";

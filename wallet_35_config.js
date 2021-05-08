@@ -1,1 +1,1 @@
-var mnemonic = "grape seat crowd crime detect sing credit parent dash eight often math";
+var mnemonic = "use buzz process steak rack relax pledge shift century pink clarify vivid";

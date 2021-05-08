@@ -1,1 +1,1 @@
-var mnemonic = "skate casual approve six lawsuit message gym taxi collect broom hurdle decade";
+var mnemonic = "hockey myth captain rug caught title time heavy transfer aware drip atom";

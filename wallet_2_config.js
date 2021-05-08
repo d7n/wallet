@@ -1,1 +1,1 @@
-var mnemonic = "arrange route model knee clay hire parade vital uniform piece clap season";
+var mnemonic = "release tent balance corn artist unlock vocal awake kick soft isolate sleep";

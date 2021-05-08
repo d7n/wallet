@@ -1,1 +1,1 @@
-var mnemonic = "promote rebuild wide find blue walk audit tonight impact unveil fork fine";
+var mnemonic = "carry demise earth guitar iron good orbit furnace angle bamboo tired embrace";

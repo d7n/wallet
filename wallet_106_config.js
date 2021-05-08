@@ -1,1 +1,1 @@
-var mnemonic = "public clarify learn loan catch cycle normal gift bachelor special state message";
+var mnemonic = "volume gain execute need evil hub wolf senior choice friend evoke shoe";

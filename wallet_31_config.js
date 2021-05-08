@@ -1,1 +1,1 @@
-var mnemonic = "cargo fatigue powder pupil disease inmate live antenna cannon assist length alley";
+var mnemonic = "torch anger melody wine paper recall chat effort cute inch reason reveal";

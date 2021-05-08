@@ -1,1 +1,1 @@
-var mnemonic = "vague ceiling often swarm suggest question help marble pill rookie salmon east";
+var mnemonic = "float worry drastic drop turkey bronze anxiety scare another army secret lake";

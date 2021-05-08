@@ -1,1 +1,1 @@
-var mnemonic = "gorilla pear suggest retreat green midnight ski faint shine fence rigid blur";
+var mnemonic = "appear wide wasp margin supply correct harsh six fever hybrid latin swarm";

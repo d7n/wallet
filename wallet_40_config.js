@@ -1,1 +1,1 @@
-var mnemonic = "tunnel winner flower horror steak later radar echo wrong hollow rough bus";
+var mnemonic = "select vehicle index group annual garbage claw wool latin window sail melody";

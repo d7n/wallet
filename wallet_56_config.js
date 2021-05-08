@@ -1,1 +1,1 @@
-var mnemonic = "seminar mobile sort catch delay beach embark wrestle stem vivid captain glory";
+var mnemonic = "pond tomato enough note banner buyer warfare remember armed kite bike wall";
