@@ -1,1 +1,1 @@
-var mnemonic = "curtain trigger sort climb decline brave method forum exotic few current urge";
+var mnemonic = "panda antique deny damage silver dilemma rain glance oyster early unhappy shift";

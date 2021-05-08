@@ -1,1 +1,1 @@
-var mnemonic = "october direct maze enact tree artwork vocal myself divorce nasty onion jewel";
+var mnemonic = "point deposit humble lab enhance mixture call raccoon during rate office gather";

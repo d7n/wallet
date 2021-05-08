@@ -1,1 +1,1 @@
-var mnemonic = "deposit clap fiction couch peace grain next energy south suffer profit reform";
+var mnemonic = "skill midnight space kit bread roast camp again escape lobster desk setup";

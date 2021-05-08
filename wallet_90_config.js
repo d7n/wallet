@@ -1,1 +1,1 @@
-var mnemonic = "patient post lumber family across potato despair click oppose combine fan tunnel";
+var mnemonic = "museum ten huge now aim tube mansion false flavor armed weasel essence";

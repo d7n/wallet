@@ -1,1 +1,1 @@
-var mnemonic = "grace crouch cherry ship later burger gloom kidney build ivory obey dumb";
+var mnemonic = "latin size people net gravity funny assist rescue spawn logic square mixture";

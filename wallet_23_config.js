@@ -1,1 +1,1 @@
-var mnemonic = "feel aim hungry giggle leg fun scatter wire huge stem fault ride";
+var mnemonic = "seminar quality shine glue weapon echo online again announce physical bargain kick";

@@ -1,1 +1,1 @@
-var mnemonic = "park angry help virus whip usual twelve prize there keen saddle tape";
+var mnemonic = "dirt now orphan diamond skull return error appear just simple crash word";

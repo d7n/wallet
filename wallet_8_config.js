@@ -1,1 +1,1 @@
-var mnemonic = "ensure file melody carpet naive employ unfold initial mystery unlock foam soccer";
+var mnemonic = "toddler wing room label setup maple various around bicycle chimney pig slight";

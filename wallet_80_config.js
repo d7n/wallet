@@ -1,1 +1,1 @@
-var mnemonic = "opera artist organ glue awful defy file board organ bring absent start";
+var mnemonic = "yellow donate again pencil bleak october wasp kick burst journey toss science";

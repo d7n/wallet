@@ -1,1 +1,1 @@
-var mnemonic = "setup plate beach industry baby october slam satisfy gallery farm original prepare";
+var mnemonic = "collect gloom junior cabin dismiss worry spell rebel believe clay west kick";

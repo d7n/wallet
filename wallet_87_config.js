@@ -1,1 +1,1 @@
-var mnemonic = "barrel illness thrive reveal find require anger indicate actress urban humble stuff";
+var mnemonic = "city shy lecture gym rate glory panic echo student machine use vicious";

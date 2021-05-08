@@ -1,1 +1,1 @@
-var mnemonic = "ball chef merit gate dose select gap loyal maid clown wisdom negative";
+var mnemonic = "road chief dress nothing use betray pattern strong run foam grow foot";

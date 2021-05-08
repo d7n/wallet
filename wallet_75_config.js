@@ -1,1 +1,1 @@
-var mnemonic = "wave mushroom check distance flight jaguar match spy believe shine reflect fork";
+var mnemonic = "pelican toy lava agree escape ethics copy curious tail all toward dash";

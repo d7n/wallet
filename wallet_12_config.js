@@ -1,1 +1,1 @@
-var mnemonic = "pulp entry modify bicycle february caught mouse right point pole name area";
+var mnemonic = "junior can vocal upset buddy pave crazy plate onion sell split false";

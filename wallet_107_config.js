@@ -1,1 +1,1 @@
-var mnemonic = "legal collect champion lock usual version drift balcony pill rate chimney beyond";
+var mnemonic = "rebel aisle machine second gauge erode expand grass doll provide benefit ketchup";

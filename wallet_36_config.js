@@ -1,1 +1,1 @@
-var mnemonic = "husband pottery sound section view situate glare acoustic divide glass supreme rally";
+var mnemonic = "private industry gather october cushion vehicle inflict simple eyebrow wait horror cart";

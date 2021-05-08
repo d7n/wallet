@@ -1,1 +1,1 @@
-var mnemonic = "glass embark odor eager stay figure text party allow bean awesome pony";
+var mnemonic = "spray jump length strong dinner suspect risk omit stone history tide jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil category assume other glance buddy adapt video wise install organ civil";
+var mnemonic = "talent beyond manage purchase cruise crew soft priority wine stairs round setup";

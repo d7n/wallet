@@ -1,1 +1,1 @@
-var mnemonic = "globe measure emerge mix stone rate lazy turkey perfect sugar chief that";
+var mnemonic = "human aware pencil hungry dutch festival inside evidence display weekend pony purse";

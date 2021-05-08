@@ -1,1 +1,1 @@
-var mnemonic = "open hood oblige tower course ecology cactus fluid hour cannon audit fragile";
+var mnemonic = "machine gaze teach cover crisp torch army great comic repair above floor";

@@ -1,1 +1,1 @@
-var mnemonic = "trap cloth girl diesel satisfy system lawn erupt firm success zebra poet";
+var mnemonic = "donate inquiry glimpse march suit then fog wing virtual park calm dad";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper now auto expose assume grocery bonus glimpse host volume music fresh";
+var mnemonic = "mad toss very salad sweet stumble dune shuffle social century rival rail";

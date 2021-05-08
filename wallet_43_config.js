@@ -1,1 +1,1 @@
-var mnemonic = "forward outdoor toy trip hockey learn pig slogan table coach sentence head";
+var mnemonic = "grant inject fiscal fabric helmet slice idle puppy canoe crater circle tunnel";

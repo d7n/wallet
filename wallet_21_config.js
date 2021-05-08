@@ -1,1 +1,1 @@
-var mnemonic = "cereal phrase twelve pear enrich immune join light dream flash deputy file";
+var mnemonic = "usage liquid lawsuit work cool seat reject tooth plug budget enact cute";

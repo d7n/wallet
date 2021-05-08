@@ -1,1 +1,1 @@
-var mnemonic = "rent lemon toward over amused comfort copy solve neutral quality flee coral";
+var mnemonic = "donate divorce disease million essay vital page patch annual box learn rubber";

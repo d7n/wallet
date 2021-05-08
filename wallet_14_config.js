@@ -1,1 +1,1 @@
-var mnemonic = "fever south weekend giggle dentist luggage giant faith crumble ketchup air cable";
+var mnemonic = "else viable into broom boss require cube menu salon scare ill sad";

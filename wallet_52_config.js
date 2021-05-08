@@ -1,1 +1,1 @@
-var mnemonic = "angle oxygen all mouse whisper material pride banner favorite soccer fish better";
+var mnemonic = "federal science actor aerobic fancy olympic clarify tomato minor practice page swarm";

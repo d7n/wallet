@@ -1,1 +1,1 @@
-var mnemonic = "wise possible brand canvas dinosaur chunk such resist design drum scissors vivid";
+var mnemonic = "inherit now delay input jewel hire blouse elder aerobic hello ancient drop";

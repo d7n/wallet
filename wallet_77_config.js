@@ -1,1 +1,1 @@
-var mnemonic = "one taste adjust cricket fetch will purse pink afford melody lizard cute";
+var mnemonic = "harsh desert impose hockey improve knee custom legend high toward breeze joke";

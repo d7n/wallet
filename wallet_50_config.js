@@ -1,1 +1,1 @@
-var mnemonic = "retreat general face tiger retire theme east hill science avoid uncover weapon";
+var mnemonic = "trouble proud under security village tongue tobacco nation spatial load like unaware";

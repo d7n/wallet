@@ -1,1 +1,1 @@
-var mnemonic = "simple excite loud lawsuit food trade veteran venue soldier one fee else";
+var mnemonic = "physical wink wise such zebra hungry subway fork file negative black tree";

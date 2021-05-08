@@ -1,1 +1,1 @@
-var mnemonic = "coffee early promote false radar fork power minute raccoon document wheat hundred";
+var mnemonic = "subject used next prevent follow achieve leisure salute column hidden orbit armor";

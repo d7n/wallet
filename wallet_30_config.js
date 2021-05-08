@@ -1,1 +1,1 @@
-var mnemonic = "ugly bleak ceiling web shy cook embrace sponsor lava pear quantum grain";
+var mnemonic = "thank right brass drive tag game pet then surprise rebel canvas gift";

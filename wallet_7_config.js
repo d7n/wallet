@@ -1,1 +1,1 @@
-var mnemonic = "join fossil bright worth found meadow tip index remind decrease below midnight";
+var mnemonic = "immense list when subject art ski congress baby warm carpet question address";

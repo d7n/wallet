@@ -1,1 +1,1 @@
-var mnemonic = "fresh retreat course boring funny junior attend team girl august paddle side";
+var mnemonic = "sponsor much garment jelly float one repeat spike solution position oval dinner";

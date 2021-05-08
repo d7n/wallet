@@ -1,1 +1,1 @@
-var mnemonic = "apart uncle dutch achieve famous add clown hover virtual swamp piano jungle";
+var mnemonic = "number problem ritual toy six floor embark property patrol voice damp bring";

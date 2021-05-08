@@ -1,1 +1,1 @@
-var mnemonic = "plug city educate salt garbage glimpse crisp resist museum ask pulp cruise";
+var mnemonic = "course road entire bike foam enhance gallery rug napkin fantasy toast magnet";

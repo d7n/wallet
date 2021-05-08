@@ -1,1 +1,1 @@
-var mnemonic = "canyon property castle elite veteran member skate hedgehog alone emotion someone skate";
+var mnemonic = "rent mango sing dog vital issue wedding buzz hybrid tide army cargo";

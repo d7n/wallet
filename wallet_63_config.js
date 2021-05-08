@@ -1,1 +1,1 @@
-var mnemonic = "agent clock spell security usage report reduce six trend rookie sing snow";
+var mnemonic = "panther hero chunk traffic resemble armor casual session hazard fly season bag";

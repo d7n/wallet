@@ -1,1 +1,1 @@
-var mnemonic = "almost trip dial vibrant reopen citizen hint tip yard gadget spin soda";
+var mnemonic = "match sword figure present chase rotate another odor sphere video quiz monkey";

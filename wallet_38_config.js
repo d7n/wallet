@@ -1,1 +1,1 @@
-var mnemonic = "bread ceiling month muscle lumber purity hurry rug embrace birth mimic federal";
+var mnemonic = "buffalo demise pulp industry echo person brain move bike notable purse submit";

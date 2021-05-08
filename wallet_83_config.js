@@ -1,1 +1,1 @@
-var mnemonic = "appear battle enter leopard found rescue repair repair turtle feel health close";
+var mnemonic = "myth bag december scatter image rescue inhale nominee very box trumpet million";

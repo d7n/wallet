@@ -1,1 +1,1 @@
-var mnemonic = "often true lobster gasp notable pulse wink aerobic pink what couple search";
+var mnemonic = "hollow test control carpet city charge affair museum coach ticket pink train";

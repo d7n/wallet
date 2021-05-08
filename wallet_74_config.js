@@ -1,1 +1,1 @@
-var mnemonic = "ten pepper gasp become kiwi scheme beauty shift deputy fragile flight opinion";
+var mnemonic = "double wrap grief fall zone wall patient creek travel fluid give trap";

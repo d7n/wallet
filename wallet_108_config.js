@@ -1,1 +1,1 @@
-var mnemonic = "way usage capable relax dismiss gloom intact language velvet web recycle into";
+var mnemonic = "erase arrow glimpse cable march matter reward guitar myth thought audit arrange";

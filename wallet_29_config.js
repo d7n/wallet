@@ -1,1 +1,1 @@
-var mnemonic = "pepper innocent spirit question mule super dog enhance viable treat danger soap";
+var mnemonic = "unhappy easily urge among road envelope wasp extend anxiety embark initial oval";

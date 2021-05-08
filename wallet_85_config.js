@@ -1,1 +1,1 @@
-var mnemonic = "chat alert million gain believe scale blade swear capital author grunt morning";
+var mnemonic = "way decorate deer guilt olympic buyer also other try leaf nasty neck";

@@ -1,1 +1,1 @@
-var mnemonic = "idea emotion virus foil romance method beauty spike pluck allow clean brief";
+var mnemonic = "divorce vacuum train lion stuff pause follow canoe cook bread what traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "merge prosper brief favorite blur imitate tuition mule security when donor blue";
+var mnemonic = "special popular man clean pair question vicious certain tooth erode elbow tool";

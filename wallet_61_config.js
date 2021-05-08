@@ -1,1 +1,1 @@
-var mnemonic = "sell screen quit describe kite one pill bachelor acquire miss rubber twelve";
+var mnemonic = "diamond half session frost dizzy torch velvet public notice nothing robust test";

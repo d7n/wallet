@@ -1,1 +1,1 @@
-var mnemonic = "soldier current mystery rib expire always guard bike recipe pelican economy earth";
+var mnemonic = "estate ignore empty divide involve kiss occur depth rule wish unhappy toddler";

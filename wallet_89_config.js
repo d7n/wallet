@@ -1,1 +1,1 @@
-var mnemonic = "crowd mansion castle replace suggest era neither bench fashion you yard velvet";
+var mnemonic = "flame sponsor remain damage rough trim dash vendor dragon faculty ramp collect";

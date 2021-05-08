@@ -1,1 +1,1 @@
-var mnemonic = "shrug maid strike bracket skill oven occur culture shrug agent middle program";
+var mnemonic = "shrug math avoid vault planet panic border alley boy visit web vapor";

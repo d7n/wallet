@@ -1,1 +1,1 @@
-var mnemonic = "satoshi unit wealth cushion learn post fox video render winter upgrade speak";
+var mnemonic = "expect jewel proud stable cabin imitate spoon style menu okay picnic cruel";

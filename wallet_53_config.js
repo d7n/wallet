@@ -1,1 +1,1 @@
-var mnemonic = "beach dizzy witness swear prize baby raise boy void police power sniff";
+var mnemonic = "music assist wise craft coconut umbrella health merry attract property auto high";

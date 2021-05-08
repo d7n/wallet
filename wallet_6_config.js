@@ -1,1 +1,1 @@
-var mnemonic = "burden dish sure bean step south anxiety gate fragile large defy fish";
+var mnemonic = "dawn often sample deposit seven join series excess retire easily exile cry";

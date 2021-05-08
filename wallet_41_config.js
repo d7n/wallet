@@ -1,1 +1,1 @@
-var mnemonic = "penalty step moon immune hen rigid web segment scare twelve dizzy shove";
+var mnemonic = "merge try all network series fitness multiply decorate you jazz common cube";

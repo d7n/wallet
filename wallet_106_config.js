@@ -1,1 +1,1 @@
-var mnemonic = "puzzle nothing chair dish sauce kitchen learn glimpse snack blood escape squirrel";
+var mnemonic = "saddle prison ski globe wealth trim cotton attitude detail suffer that tuna";

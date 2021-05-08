@@ -1,1 +1,1 @@
-var mnemonic = "apple lunch review box detail high now zoo lend anchor leave tube";
+var mnemonic = "doctor magic ladder edge much shield corn duty stairs roof inquiry chalk";

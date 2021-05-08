@@ -1,1 +1,1 @@
-var mnemonic = "intact amateur move gun when weapon anger visa female opinion long swarm";
+var mnemonic = "service tornado boost peace thank once hurry shell pretty cheese amazing floor";

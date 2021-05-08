@@ -1,1 +1,1 @@
-var mnemonic = "gravity upset price walnut muffin fly urban easily grow equal season social";
+var mnemonic = "laundry mass fringe table lounge hazard account poverty absurd ball age move";

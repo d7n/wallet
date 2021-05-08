@@ -1,1 +1,1 @@
-var mnemonic = "purity cherry puppy pledge loop eyebrow able brown isolate shine pilot already";
+var mnemonic = "galaxy mixture debris upper excuse vague twelve inject weather end pizza cement";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp scale phrase rude limb swap doctor under pepper spike fire just";
+var mnemonic = "remove race boost autumn canyon talk minor input cave ball seed parent";

@@ -1,1 +1,1 @@
-var mnemonic = "speed left assume curve poem chaos pottery execute pull orange disagree deposit";
+var mnemonic = "pull runway dentist dinner zero select supreme glass outdoor purpose satisfy car";

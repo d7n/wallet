@@ -1,1 +1,1 @@
-var mnemonic = "tongue liquid change gate limit vanish denial ribbon horse garage cinnamon drill";
+var mnemonic = "domain destroy decrease announce orange nut home illegal online primary craft window";

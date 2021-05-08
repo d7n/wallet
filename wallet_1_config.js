@@ -1,1 +1,1 @@
-var mnemonic = "asset thought similar skin jewel govern check milk chest below duck absent";
+var mnemonic = "brisk embody weapon asthma farm scissors mechanic put all evoke together broccoli";

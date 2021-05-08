@@ -1,1 +1,1 @@
-var mnemonic = "prosper pyramid write tag outer execute night flock gold enrich grief van";
+var mnemonic = "tumble verb run chaos raw such whip cotton boil among step jazz";

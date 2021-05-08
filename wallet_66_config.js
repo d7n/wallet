@@ -1,1 +1,1 @@
-var mnemonic = "occur castle material tag dove measure arm need merit aunt monkey jar";
+var mnemonic = "advice tilt run field nominee flat print tide omit athlete young bring";

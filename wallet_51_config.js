@@ -1,1 +1,1 @@
-var mnemonic = "boss chuckle review nuclear obvious lobster base walnut fluid aim budget normal";
+var mnemonic = "assume flash random coyote latin pave diagram manage swing enlist two tongue";

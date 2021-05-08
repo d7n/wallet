@@ -1,1 +1,1 @@
-var mnemonic = "naive outside glue fix reflect great office will busy promote crystal shuffle";
+var mnemonic = "fix neither reject polar board grow waste plastic absent habit steel tourist";

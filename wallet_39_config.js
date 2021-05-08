@@ -1,1 +1,1 @@
-var mnemonic = "cash romance record narrow toilet liar mammal churn rabbit again debate soup";
+var mnemonic = "bean foam key sniff actual bench wish help spatial crazy enact morning";

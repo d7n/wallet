@@ -1,1 +1,1 @@
-var mnemonic = "melt lecture dragon average scissors dawn wife near noodle toe angry blouse";
+var mnemonic = "one ten magnet rare tenant glare clinic champion service pave question service";

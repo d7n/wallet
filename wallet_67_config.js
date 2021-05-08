@@ -1,1 +1,1 @@
-var mnemonic = "sense fame walnut two holiday retreat response divide shallow need inherit smooth";
+var mnemonic = "honey turn vicious breeze trim table poverty nation panda amount large hill";

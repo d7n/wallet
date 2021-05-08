@@ -1,1 +1,1 @@
-var mnemonic = "tree bronze story crunch strike street second work purchase luxury either fun";
+var mnemonic = "ginger tonight element bench divorce vendor require february source hammer yard alcohol";

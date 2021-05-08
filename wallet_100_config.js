@@ -1,1 +1,1 @@
-var mnemonic = "tree leader vivid song kingdom ritual also avocado grace album reduce cattle";
+var mnemonic = "quick umbrella fever enact horror nothing track more civil final reward excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "universe become remain symbol maximum vanish pottery cushion brisk fatigue peace endorse";
+var mnemonic = "pioneer best coil settle slow magnet august drop dumb gossip soup tent";

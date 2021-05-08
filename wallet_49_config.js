@@ -1,1 +1,1 @@
-var mnemonic = "also health crowd popular waste sniff cradle later rare frozen review list";
+var mnemonic = "tilt utility miss brain home when bind burst broom blossom curtain will";

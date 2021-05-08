@@ -1,1 +1,1 @@
-var mnemonic = "truly impulse solve unit steel drum chalk torch spot warrior eager shrug";
+var mnemonic = "praise sing scale pencil badge punch deal provide item clown pony word";

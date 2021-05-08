@@ -1,1 +1,1 @@
-var mnemonic = "cry together fun capable want ceiling pupil lumber torch elite click inquiry";
+var mnemonic = "warrior impulse debate clap current verify tomato raccoon ticket hybrid series risk";

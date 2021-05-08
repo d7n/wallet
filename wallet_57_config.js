@@ -1,1 +1,1 @@
-var mnemonic = "arch trust balcony install rose fly repeat pet stand sight resist present";
+var mnemonic = "federal carbon there autumn reflect clip gallery magnet phone message squirrel sunny";

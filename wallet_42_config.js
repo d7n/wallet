@@ -1,1 +1,1 @@
-var mnemonic = "kingdom dolphin lawn traffic skull impact solve curious frost sudden slender gravity";
+var mnemonic = "flash settle sword mistake orient penalty any sphere sense hand rare viable";

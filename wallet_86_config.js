@@ -1,1 +1,1 @@
-var mnemonic = "green senior combine bless brother account crash bracket aerobic hover antenna apology";
+var mnemonic = "tourist buddy square loud learn owner recall behind shadow talk field blue";

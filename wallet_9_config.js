@@ -1,1 +1,1 @@
-var mnemonic = "artefact walnut axis arrest intact base decrease crazy ozone approve action struggle";
+var mnemonic = "alpha resist friend release muscle camera define pyramid such junk sausage round";

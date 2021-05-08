@@ -1,1 +1,1 @@
-var mnemonic = "endless laundry action genre choose check zone hold obtain pigeon busy finger";
+var mnemonic = "slim question capital whale match oval emerge pistol decorate loyal wrong bag";

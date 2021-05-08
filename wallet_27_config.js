@@ -1,1 +1,1 @@
-var mnemonic = "delay ring glimpse walnut voyage ahead friend erupt cat private fit leg";
+var mnemonic = "afford merge fever kind neutral rent erase rug scrap mule rain medal";

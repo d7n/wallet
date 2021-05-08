@@ -1,1 +1,1 @@
-var mnemonic = "planet rose relief season question bubble face fire enemy flip later east";
+var mnemonic = "ill action abandon young museum source remove allow mandate school area attack";
