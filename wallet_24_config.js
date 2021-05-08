@@ -1,1 +1,1 @@
-var mnemonic = "input total shiver open valley course ill ankle excess diary drill sight";
+var mnemonic = "dutch raise twist model creek sting lady pizza dune actual ripple during";

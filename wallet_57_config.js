@@ -1,1 +1,1 @@
-var mnemonic = "erupt smooth lunar approve odor foam accident net rule rice shadow impact";
+var mnemonic = "elder gas best control gloom fringe ancient glad true similar menu process";

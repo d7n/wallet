@@ -1,1 +1,1 @@
-var mnemonic = "pudding biology make frequent fun occur desk awful clever release ramp hunt";
+var mnemonic = "anger vibrant memory search vague love memory allow reform analyst stove clever";

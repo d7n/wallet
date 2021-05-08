@@ -1,1 +1,1 @@
-var mnemonic = "shop kitten predict bus drip lumber budget universe chief time busy cave";
+var mnemonic = "elevator stadium sibling nuclear mountain color harbor topic hire meadow nation art";

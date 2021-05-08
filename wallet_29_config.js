@@ -1,1 +1,1 @@
-var mnemonic = "easily home wide property invite fish chef hunt law kitchen prison winter";
+var mnemonic = "rabbit vocal bench neutral east forest food absurd picture caught champion hedgehog";

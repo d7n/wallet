@@ -1,1 +1,1 @@
-var mnemonic = "cruise tooth nest meadow velvet orient two employ pigeon own gift already";
+var mnemonic = "embrace brick save rifle clean stone leader what problem host jaguar car";

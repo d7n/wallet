@@ -1,1 +1,1 @@
-var mnemonic = "just valid calm voice voyage eye analyst admit domain craft mention jungle";
+var mnemonic = "artefact fee coast false cute live fall balcony love pistol universe question";

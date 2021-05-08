@@ -1,1 +1,1 @@
-var mnemonic = "warfare enroll mask glad surface image desert danger interest analyst quote absorb";
+var mnemonic = "diamond learn melody between sunset menu arrest usual love excite problem meadow";

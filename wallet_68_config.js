@@ -1,1 +1,1 @@
-var mnemonic = "cruel age analyst unknown rabbit dirt hat chapter first write win human";
+var mnemonic = "vote hollow destroy alcohol suspect muscle horse enter frost upon balance neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "salute mass pass chapter hawk turn wish neutral soul shy dignity link";
+var mnemonic = "defy drill trick reduce junk moon flee infant copy jar hub capital";

@@ -1,1 +1,1 @@
-var mnemonic = "put page load pole march oval solid meadow still loan buddy repeat";
+var mnemonic = "timber visa forum two fine alley photo alcohol sorry estate strategy maple";

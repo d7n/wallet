@@ -1,1 +1,1 @@
-var mnemonic = "yellow follow private sibling account neutral thrive phone dizzy ozone wheat reduce";
+var mnemonic = "group apple host morning sea lunch jar achieve patrol normal kangaroo put";

@@ -1,1 +1,1 @@
-var mnemonic = "album hedgehog enemy jar bullet globe mansion mammal where about ancient walk";
+var mnemonic = "parrot observe chase salon make drop nest sell magic object digital whip";

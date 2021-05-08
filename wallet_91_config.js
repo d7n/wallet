@@ -1,1 +1,1 @@
-var mnemonic = "panic anxiety baby winner little demise giggle business powder outside have case";
+var mnemonic = "quit item decide click enroll aunt assist seed soldier guard unable muffin";

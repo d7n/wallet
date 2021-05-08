@@ -1,1 +1,1 @@
-var mnemonic = "valid law cake disease glass actual alpha couch narrow there lemon ecology";
+var mnemonic = "quote primary train usage vault dizzy learn steak plate modify success clump";

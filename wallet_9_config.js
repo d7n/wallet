@@ -1,1 +1,1 @@
-var mnemonic = "soda funny cigar mad dry various glory trend fiscal category south pudding";
+var mnemonic = "stock actual blind air eyebrow disease math act express twist actor large";

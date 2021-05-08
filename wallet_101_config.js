@@ -1,1 +1,1 @@
-var mnemonic = "pill length attract frown venture attract category top diesel seven resource guilt";
+var mnemonic = "tape author caught replace mystery blanket arch evidence entry fragile crush clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon execute beauty patrol merry border recall mansion sand farm weather night";
+var mnemonic = "square above weather sword thing address artefact elder such cruise rely fat";

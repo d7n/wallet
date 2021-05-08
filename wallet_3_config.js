@@ -1,1 +1,1 @@
-var mnemonic = "juice seat bread comfort fatal balcony hammer february document section rely about";
+var mnemonic = "perfect claw finish friend cannon month soccer behind music surface lottery weird";

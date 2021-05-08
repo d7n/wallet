@@ -1,1 +1,1 @@
-var mnemonic = "fuel next history virtual liquid define bomb silly together wrestle victory tomorrow";
+var mnemonic = "expose slight steak pencil cool exotic decline spatial smart goat disease arm";

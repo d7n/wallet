@@ -1,1 +1,1 @@
-var mnemonic = "cherry nest symptom bid priority write strong cover audit scatter fox window";
+var mnemonic = "guard drastic network dragon ask damp income upon odor stage spare name";

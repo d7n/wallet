@@ -1,1 +1,1 @@
-var mnemonic = "walk rigid aisle tool donor horror neck dry assist bitter kingdom inner";
+var mnemonic = "pond parrot spike weather canvas chair laundry special dice ostrich slogan adult";

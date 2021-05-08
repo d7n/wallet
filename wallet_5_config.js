@@ -1,1 +1,1 @@
-var mnemonic = "ladder alien vibrant rocket ball mixture visa avoid where thought frame fantasy";
+var mnemonic = "return boy shoe outdoor renew version rigid fold useful outer marriage eyebrow";

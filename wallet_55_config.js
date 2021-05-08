@@ -1,1 +1,1 @@
-var mnemonic = "segment crucial recycle globe judge smoke upon flag interest flight country clay";
+var mnemonic = "rail void door defy nose deal unfold broom input flat cash marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "enter attack next crack glide edge battle truly cruise reject good dust";
+var mnemonic = "ecology digital express quote maximum globe cupboard vacuum uncle degree embrace final";

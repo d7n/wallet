@@ -1,1 +1,1 @@
-var mnemonic = "hint radio ordinary bench avoid govern green hood pole drip office occur";
+var mnemonic = "load nose tent mystery assist offer brave fetch debate letter worth boost";

@@ -1,1 +1,1 @@
-var mnemonic = "debate reveal absent mushroom buzz drum describe loan network dwarf catch razor";
+var mnemonic = "pass private ankle suit balcony upset apple more soda chief tattoo moral";

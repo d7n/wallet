@@ -1,1 +1,1 @@
-var mnemonic = "whip puzzle carbon quiz trick fruit dignity move tonight swear already main";
+var mnemonic = "detail comic pull swift fantasy home access road lady buzz home own";

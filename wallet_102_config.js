@@ -1,1 +1,1 @@
-var mnemonic = "flush stumble token found venture perfect smooth return crystal provide tobacco cable";
+var mnemonic = "aisle abstract toilet salon brush tourist talent angry ship during remind ginger";

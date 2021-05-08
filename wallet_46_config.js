@@ -1,1 +1,1 @@
-var mnemonic = "snap talk frequent tray decline caution echo happy adult label walk provide";
+var mnemonic = "flock dumb strike provide canoe seek access trumpet sunny arm nothing allow";

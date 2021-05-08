@@ -1,1 +1,1 @@
-var mnemonic = "staff soldier entire minimum squirrel metal cement forum smoke patrol web march";
+var mnemonic = "time gym order siren alpha position total club elder confirm various thumb";

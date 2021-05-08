@@ -1,1 +1,1 @@
-var mnemonic = "pink sand afford enable toy same toward economy roof spawn own trap";
+var mnemonic = "swallow rural robust captain elite slice because ready similar hood major home";

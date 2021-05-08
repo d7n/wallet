@@ -1,1 +1,1 @@
-var mnemonic = "divert income when final off erosion will burden pattern bring hundred casino";
+var mnemonic = "slab outside choose breeze rigid because clever device absorb toy crime have";

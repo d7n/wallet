@@ -1,1 +1,1 @@
-var mnemonic = "decide nice retire super vicious shy say topple imitate mix again grace";
+var mnemonic = "behind toast impose foil glance frame culture luxury frost minute citizen remember";

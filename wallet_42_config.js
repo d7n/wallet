@@ -1,1 +1,1 @@
-var mnemonic = "lawn distance spend common shadow tomorrow sweet denial reveal fiction virtual frog";
+var mnemonic = "deal bamboo stage pig fiction sort world music park dizzy wear palace";

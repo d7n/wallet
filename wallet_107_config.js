@@ -1,1 +1,1 @@
-var mnemonic = "survey satisfy drip elegant age embrace exhaust glory mind when shallow vivid";
+var mnemonic = "oyster body ramp sign execute pig length muscle genuine eyebrow school dad";

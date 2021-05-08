@@ -1,1 +1,1 @@
-var mnemonic = "anchor net clown exact screen total fiction evidence select series embody upon";
+var mnemonic = "capital silver lock hint custom kitten future climb typical lazy neutral buzz";

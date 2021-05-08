@@ -1,1 +1,1 @@
-var mnemonic = "canal century retire puzzle small solve liquid ticket vault ahead autumn fan";
+var mnemonic = "route country hedgehog drip ramp violin end tortoise angle crop pen because";

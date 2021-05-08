@@ -1,1 +1,1 @@
-var mnemonic = "bullet spoil vote federal coral gate blanket one source quit giant enable";
+var mnemonic = "raccoon obvious item ugly mobile neck dutch toe market arrange leader horn";

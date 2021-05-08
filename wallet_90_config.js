@@ -1,1 +1,1 @@
-var mnemonic = "truly bulk rule shy album attitude poet swallow name hedgehog arrest pair";
+var mnemonic = "clutch faith piece derive label leisure dust spirit unveil abuse gift camp";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid minor diamond baby deer foam what strategy dance rail aware slice";
+var mnemonic = "spoil favorite orient shield volume cave make clock amused brain puppy divert";

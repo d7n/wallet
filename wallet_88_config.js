@@ -1,1 +1,1 @@
-var mnemonic = "pen tongue sun sight junk tobacco tongue infant travel dentist tennis sniff";
+var mnemonic = "inflict coffee usage toss edge soup crew cradle matter clarify mad cross";

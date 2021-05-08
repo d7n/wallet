@@ -1,1 +1,1 @@
-var mnemonic = "right camera yellow remember anchor rice shallow shield gaze defense arctic easily";
+var mnemonic = "black team discover fall beach lemon deposit turkey two village knock special";

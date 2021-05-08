@@ -1,1 +1,1 @@
-var mnemonic = "put forest juice stairs latin sadness farm danger exercise dilemma clutch weasel";
+var mnemonic = "affair idle swap jelly word remove fruit edge involve mad anger merit";

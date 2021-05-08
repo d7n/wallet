@@ -1,1 +1,1 @@
-var mnemonic = "chimney crush kitten brave burger wealth avoid south squirrel crunch rent evolve";
+var mnemonic = "ranch boil zero early ritual voice success north accident raw dance mandate";

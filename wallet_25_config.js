@@ -1,1 +1,1 @@
-var mnemonic = "bacon strong excite sweet sword today purity miracle atom hungry upon stadium";
+var mnemonic = "carpet dutch garment absurd leader tobacco keep account mutual clog item radar";

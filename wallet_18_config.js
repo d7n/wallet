@@ -1,1 +1,1 @@
-var mnemonic = "able angry aisle hazard rebel interest labor opinion pool usual crush smile";
+var mnemonic = "media embrace equip slam click thumb fiction put drink mosquito bind mixture";

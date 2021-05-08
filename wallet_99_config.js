@@ -1,1 +1,1 @@
-var mnemonic = "trust example nerve kid culture trust praise dove put demise giant olive";
+var mnemonic = "mouse peanut rhythm service sketch minor swift sketch penalty shaft notable stool";

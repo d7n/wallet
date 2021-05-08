@@ -1,1 +1,1 @@
-var mnemonic = "pizza service ranch myself neck damage already middle opinion hill cruel devote";
+var mnemonic = "stone huge heart creek tool salt sustain artist ball razor vibrant opera";

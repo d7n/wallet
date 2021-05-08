@@ -1,1 +1,1 @@
-var mnemonic = "volcano identify certain ritual swear survey judge tower skull tunnel husband bulk";
+var mnemonic = "charge issue load push kitten dust eight motor denial cube report stairs";

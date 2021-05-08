@@ -1,1 +1,1 @@
-var mnemonic = "run federal cement vital owner uphold text agree worth mammal lens present";
+var mnemonic = "salt transfer ordinary lion burst prosper shine render puzzle exchange orange corn";

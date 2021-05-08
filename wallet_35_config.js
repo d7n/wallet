@@ -1,1 +1,1 @@
-var mnemonic = "novel include have immune paper crucial apology old maximum soon quarter episode";
+var mnemonic = "glimpse repeat stool monitor polar gift brush analyst produce state hour chapter";

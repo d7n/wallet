@@ -1,1 +1,1 @@
-var mnemonic = "critic pipe mimic great coach element lady venture hint already depart width";
+var mnemonic = "combine various square post one antenna alert amazing pupil key paper few";

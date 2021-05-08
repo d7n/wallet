@@ -1,1 +1,1 @@
-var mnemonic = "what option muffin reveal bone odor mixed spring thank horn jelly soap";
+var mnemonic = "dial half promote embody fever dirt slush find large family menu sight";

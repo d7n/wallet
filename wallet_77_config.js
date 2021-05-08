@@ -1,1 +1,1 @@
-var mnemonic = "balcony tell quote drift mass sun snack caught cube budget speed goat";
+var mnemonic = "range disorder diet scout vacant surge sponsor proof side merry inspire sentence";

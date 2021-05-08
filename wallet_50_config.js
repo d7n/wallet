@@ -1,1 +1,1 @@
-var mnemonic = "still solution book rain toilet maximum ability arrange tree garbage hat chest";
+var mnemonic = "discover reform flower dial moment clip item cycle volcano brisk either pool";

@@ -1,1 +1,1 @@
-var mnemonic = "island silver robust pumpkin muscle perfect security hybrid wasp author scissors govern";
+var mnemonic = "loud cheap cram isolate material grape priority harvest unhappy shed spice favorite";

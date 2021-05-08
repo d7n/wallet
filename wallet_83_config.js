@@ -1,1 +1,1 @@
-var mnemonic = "endless pet foam basic truth club panda plug shrimp find elbow miracle";
+var mnemonic = "word uniform kick hood they found own flight odor error winner yellow";

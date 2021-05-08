@@ -1,1 +1,1 @@
-var mnemonic = "hill dynamic tray equal slam struggle cliff before lamp appear love memory";
+var mnemonic = "egg casual push life sport exact armor wrap kiwi popular flock crush";

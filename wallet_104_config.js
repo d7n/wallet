@@ -1,1 +1,1 @@
-var mnemonic = "reason happy abandon snack search island beef bargain payment decide buyer kingdom";
+var mnemonic = "slot item diet license snow display small off cargo weather affair amazing";

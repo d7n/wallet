@@ -1,1 +1,1 @@
-var mnemonic = "hospital blood actual word off youth coconut deny egg fruit diesel cupboard";
+var mnemonic = "drama link blush there lizard rather tone cool room top city tackle";

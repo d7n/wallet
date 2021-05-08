@@ -1,1 +1,1 @@
-var mnemonic = "silver melt pool forward yard rhythm glow kitten sentence firm wait day";
+var mnemonic = "soccer age cargo initial core sleep polar tongue enhance cloth eyebrow tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "humble security match reveal frost card olympic urban ill good day panda";
+var mnemonic = "act enough inherit aspect aerobic struggle cement carpet damage double route note";

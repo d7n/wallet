@@ -1,1 +1,1 @@
-var mnemonic = "point battle waste craft flush cloth find season mean empower gap federal";
+var mnemonic = "reward parade spoon auto duty indoor excite level frame random axis judge";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug swarm coin forward grant august absent buddy video inner field hobby";
+var mnemonic = "donkey entry dumb month motor top source cross apple mom earth glue";

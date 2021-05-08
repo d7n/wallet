@@ -1,1 +1,1 @@
-var mnemonic = "galaxy outer sadness will amazing cheap mansion dumb core endless motion intact";
+var mnemonic = "proof code laundry edge popular input kingdom wood hazard senior neglect satoshi";

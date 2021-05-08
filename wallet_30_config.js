@@ -1,1 +1,1 @@
-var mnemonic = "chat helmet pepper celery trouble guilt oven genuine october nerve donate seven";
+var mnemonic = "paddle main gown cloth bicycle lens travel media glimpse carbon paddle sun";

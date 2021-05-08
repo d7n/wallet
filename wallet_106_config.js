@@ -1,1 +1,1 @@
-var mnemonic = "march hood link arena life sand situate witness ship kingdom doctor adjust";
+var mnemonic = "sister fitness include olive height upset sense devote zero venture resource south";

@@ -1,1 +1,1 @@
-var mnemonic = "slam badge expire cactus bomb ask kiwi tape flight crack month pair";
+var mnemonic = "give salute field quiz leisure language umbrella title mask task turtle toss";

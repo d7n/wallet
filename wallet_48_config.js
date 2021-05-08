@@ -1,1 +1,1 @@
-var mnemonic = "follow piece twist position casino retreat invest dignity asset test drift timber";
+var mnemonic = "resist master garage quantum unusual shaft message demand early acoustic sport drop";

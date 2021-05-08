@@ -1,1 +1,1 @@
-var mnemonic = "cruel female picture hamster organ afraid drum swallow purpose guitar adjust faint";
+var mnemonic = "salute clap faint choice eye meat rack donor visual weekend relax human";

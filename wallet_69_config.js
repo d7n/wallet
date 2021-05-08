@@ -1,1 +1,1 @@
-var mnemonic = "long agent rhythm kidney involve quiz trade diary surround soft monkey brown";
+var mnemonic = "audit step movie enemy someone any miss razor crop bundle soft stamp";

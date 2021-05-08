@@ -1,1 +1,1 @@
-var mnemonic = "reform ramp liquid avocado bamboo deny cloud steak measure early mystery sorry";
+var mnemonic = "dinner stone assault enroll fiber puzzle doctor library replace fragile position account";

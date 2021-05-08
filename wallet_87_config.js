@@ -1,1 +1,1 @@
-var mnemonic = "upper gossip sunny boost winter old february topic noise cycle design peace";
+var mnemonic = "oxygen pottery habit climb sing curve hunt visa debris taxi whisper supreme";

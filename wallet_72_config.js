@@ -1,1 +1,1 @@
-var mnemonic = "wash float thrive bulk hat quit resource give tip sort busy razor";
+var mnemonic = "figure april holiday soul special swallow business vapor stamp inch athlete prepare";

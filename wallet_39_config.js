@@ -1,1 +1,1 @@
-var mnemonic = "proud capital van cross solid gentle margin oil size hair segment hedgehog";
+var mnemonic = "ecology champion office seminar situate fuel artwork put sword theory game slogan";

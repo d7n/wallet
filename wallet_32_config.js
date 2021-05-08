@@ -1,1 +1,1 @@
-var mnemonic = "palm legal tooth owner scale cloud desk stool visual cherry giant away";
+var mnemonic = "caution embark tumble mistake situate annual auto title make garden game snow";

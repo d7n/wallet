@@ -1,1 +1,1 @@
-var mnemonic = "daughter cry october talent provide length owner hundred alter convince captain twelve";
+var mnemonic = "tragic vocal kingdom loan canyon congress rely blur auto spawn budget drama";

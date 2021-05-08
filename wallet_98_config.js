@@ -1,1 +1,1 @@
-var mnemonic = "nest employ naive student song brass wrap neglect anxiety neither sure plate";
+var mnemonic = "outdoor air emotion danger next purity mushroom pause riot forest target also";

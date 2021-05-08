@@ -1,1 +1,1 @@
-var mnemonic = "spot effort size grass act clever hurry social vintage seven connect angry";
+var mnemonic = "nasty slot gym nurse hint grace problem elite enough say manual define";

@@ -1,1 +1,1 @@
-var mnemonic = "sand orphan outdoor rent increase pottery hair dirt steak elegant drop silly";
+var mnemonic = "when access panel amazing net engage nuclear life glass cube gossip negative";

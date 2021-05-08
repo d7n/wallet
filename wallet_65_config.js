@@ -1,1 +1,1 @@
-var mnemonic = "art toast bitter twenty used fire sunset link cheap artwork rather adapt";
+var mnemonic = "breeze denial repeat negative seminar vehicle analyst talk dry ensure sail gun";

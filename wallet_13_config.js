@@ -1,1 +1,1 @@
-var mnemonic = "report wave wrestle occur work arrange vendor film judge wild vanish employ";
+var mnemonic = "orphan hidden escape weapon vacant electric flag admit shrug health fiber chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "spy cargo thrive desk congress profit gorilla away struggle squirrel hover member";
+var mnemonic = "surge borrow aunt idea receive art glide carbon include link still tunnel";

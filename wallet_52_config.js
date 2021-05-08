@@ -1,1 +1,1 @@
-var mnemonic = "wisdom public verb brass embrace state normal result abandon entry soda long";
+var mnemonic = "tourist voice pulse wreck divorce argue episode street spawn aware wink music";

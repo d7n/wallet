@@ -1,1 +1,1 @@
-var mnemonic = "junior rare pool place annual flip lonely company flip adjust property moment";
+var mnemonic = "voyage misery foam grass rescue vapor learn robot sustain rely beauty alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "celery kite range seek salad oppose tennis slush kitchen dry unknown margin";
+var mnemonic = "dog bread dream prefer name scan essay garlic fuel floor tissue sunset";

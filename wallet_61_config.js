@@ -1,1 +1,1 @@
-var mnemonic = "protect sugar hire similar good tiger upgrade test change recipe shine weapon";
+var mnemonic = "name trophy surprise awful grit kangaroo noise elevator gate nasty sudden quote";
