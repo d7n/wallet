@@ -1,1 +1,1 @@
-var mnemonic = "come nice disagree rose script urban shift tool forest donor mesh lumber";
+var mnemonic = "example wave ladder mandate time crouch call couch stable phrase shrimp huge";

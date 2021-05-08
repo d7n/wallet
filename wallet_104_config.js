@@ -1,1 +1,1 @@
-var mnemonic = "inquiry exact chair science panel armor learn immense process trophy accuse shine";
+var mnemonic = "chef baby toilet poverty embark yellow shoulder bread layer region liquid salmon";

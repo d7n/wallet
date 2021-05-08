@@ -1,1 +1,1 @@
-var mnemonic = "donkey bomb minor mind venue title inside liberty tuition absorb robust during";
+var mnemonic = "fade agent simple sure dice become exhibit rigid rookie wait melt diet";

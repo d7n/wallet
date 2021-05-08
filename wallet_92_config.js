@@ -1,1 +1,1 @@
-var mnemonic = "document left tool spread recall wine achieve uncover way damage actress gallery";
+var mnemonic = "crowd force indoor ecology gather vessel cup program powder tomorrow ladder cover";

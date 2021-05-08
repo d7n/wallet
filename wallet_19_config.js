@@ -1,1 +1,1 @@
-var mnemonic = "brisk armor matrix rally shiver execute brass tunnel secret dolphin field talk";
+var mnemonic = "legend champion torch pyramid normal lyrics mountain replace dawn couple trend hotel";

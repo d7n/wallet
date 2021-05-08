@@ -1,1 +1,1 @@
-var mnemonic = "twenty black casual mule avoid under report oil oven life during half";
+var mnemonic = "merit apology neglect few acquire various fancy juice segment inner prepare own";

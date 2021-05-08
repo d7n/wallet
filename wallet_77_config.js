@@ -1,1 +1,1 @@
-var mnemonic = "arctic foot repair cram siege cricket thank certain honey arrange future recall";
+var mnemonic = "title deliver actor march legend annual coral current tuna napkin draw able";

@@ -1,1 +1,1 @@
-var mnemonic = "govern better coral way kiss ancient shrug bundle truth height hour lab";
+var mnemonic = "square sun inner couple cave index turtle time width transfer fringe sand";

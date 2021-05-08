@@ -1,1 +1,1 @@
-var mnemonic = "guilt praise sunny nose immense subject hazard trumpet develop eagle oblige knife";
+var mnemonic = "sphere private derive cry human sibling consider board smooth federal mean favorite";

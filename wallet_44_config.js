@@ -1,1 +1,1 @@
-var mnemonic = "taxi behave sea calm people hammer palace large wall invite level pact";
+var mnemonic = "affair void subject tissue deposit anxiety fitness annual grant february spend ready";

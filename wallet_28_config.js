@@ -1,1 +1,1 @@
-var mnemonic = "across stick rate vacant tomato flock road office afraid aerobic husband pride";
+var mnemonic = "spoil lottery apart around shine staff wide turn erode crane grid february";

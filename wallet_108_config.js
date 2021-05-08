@@ -1,1 +1,1 @@
-var mnemonic = "blossom fiction pulp army ceiling cheese glory left rigid feature garlic joke";
+var mnemonic = "harsh shoot entire sting hedgehog example stadium veteran predict boil page supply";

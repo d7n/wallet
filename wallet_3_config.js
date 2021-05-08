@@ -1,1 +1,1 @@
-var mnemonic = "dice palm finger impose suspect quote business family almost subway scorpion manage";
+var mnemonic = "general draw math sketch work leader merit brisk flock student pitch pretty";

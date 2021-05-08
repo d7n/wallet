@@ -1,1 +1,1 @@
-var mnemonic = "twenty route method skate exit payment define hungry wrist wheat novel various";
+var mnemonic = "rule demand dune vibrant burger august crowd switch winner eternal crop weird";

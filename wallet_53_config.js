@@ -1,1 +1,1 @@
-var mnemonic = "bonus history become resist hobby crew gold road skirt gain pelican axis";
+var mnemonic = "wild comfort goose sound act fire proof disease company tourist coach they";

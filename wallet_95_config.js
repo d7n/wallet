@@ -1,1 +1,1 @@
-var mnemonic = "fringe knife evolve view together tortoise ramp shield derive marine hunt umbrella";
+var mnemonic = "caution prison please filter tortoise poet game renew patch later life silent";

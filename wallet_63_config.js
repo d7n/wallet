@@ -1,1 +1,1 @@
-var mnemonic = "ugly broccoli retreat party black index flag margin joy act earth praise";
+var mnemonic = "combine west eight rug pool worth few vibrant endless stadium pyramid embrace";

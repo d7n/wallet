@@ -1,1 +1,1 @@
-var mnemonic = "inspire desk butter caught chat master issue wonder chest have music produce";
+var mnemonic = "near much debris satisfy trim spring canoe more weird pool palace gas";

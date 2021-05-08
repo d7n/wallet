@@ -1,1 +1,1 @@
-var mnemonic = "wheat view void coyote oil nerve behind gravity retire brand approve valve";
+var mnemonic = "jump never lawsuit biology foster lesson mechanic lumber couple slice spin stadium";

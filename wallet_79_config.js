@@ -1,1 +1,1 @@
-var mnemonic = "legal solid benefit shallow sea gossip amateur artwork mammal quantum pipe axis";
+var mnemonic = "caught cram kite speed culture cram trash divorce scissors catch right board";

@@ -1,1 +1,1 @@
-var mnemonic = "forest desert muscle swarm core heart poet puppy glide march mouse goose";
+var mnemonic = "wedding ketchup resemble bird family clap govern close fog arena employ portion";

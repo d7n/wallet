@@ -1,1 +1,1 @@
-var mnemonic = "mandate baby switch nurse grief outer rent thunder layer opinion bulb knee";
+var mnemonic = "way page laugh blue exit assault trophy rate kingdom glide sport library";

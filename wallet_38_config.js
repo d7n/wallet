@@ -1,1 +1,1 @@
-var mnemonic = "cat hire viable soap hero blue timber funny multiply case another soda";
+var mnemonic = "vocal reform muscle wait useful firm process tip rude open daughter sick";

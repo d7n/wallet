@@ -1,1 +1,1 @@
-var mnemonic = "exhaust twelve vote crew detect green bulb life odor retreat game return";
+var mnemonic = "odor measure dog slogan toward dizzy smile morning excuse upper scatter release";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin speed copy afford shy trial firm bone dwarf reform truth scale";
+var mnemonic = "leisure veteran rug present art combine current visual fantasy canyon annual myth";

@@ -1,1 +1,1 @@
-var mnemonic = "voice erase chest early income cherry hair marriage earth truth exit inmate";
+var mnemonic = "lyrics laugh ask culture exclude name festival when end flame basic danger";

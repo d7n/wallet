@@ -1,1 +1,1 @@
-var mnemonic = "stereo deny chest text mesh humble report together certain flower swarm spend";
+var mnemonic = "leopard novel inch dawn yard fossil huge easily flee minor wreck clock";

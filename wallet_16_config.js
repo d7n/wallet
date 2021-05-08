@@ -1,1 +1,1 @@
-var mnemonic = "reopen stem hole album south light elite aisle risk anger actress post";
+var mnemonic = "all tongue write pill nothing alone dial divorce orchard shadow path desert";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy sunset chimney fun rapid bulb broom ride flee wink brief want";
+var mnemonic = "already impact possible blouse trap tourist fork derive helmet orchard link net";

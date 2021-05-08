@@ -1,1 +1,1 @@
-var mnemonic = "grant win still success slush lyrics thrive bubble interest hotel surge snack";
+var mnemonic = "car clog pave latin oyster scrub knife grunt infant about rubber better";

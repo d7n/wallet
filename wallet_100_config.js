@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit hungry fiscal vault volcano tackle blossom awake shiver quality believe apology";
+var mnemonic = "chief method insect item ginger struggle wink buyer infant circle improve diary";

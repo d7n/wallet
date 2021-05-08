@@ -1,1 +1,1 @@
-var mnemonic = "under trim range learn riot supreme chuckle high refuse caution illness album";
+var mnemonic = "staff goddess label property weird burger drip sword talk pencil job wash";

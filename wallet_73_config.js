@@ -1,1 +1,1 @@
-var mnemonic = "oven pole equip alone midnight paddle act artefact play floor energy rival";
+var mnemonic = "visa double aim alarm sister source resource symbol mesh north measure mind";

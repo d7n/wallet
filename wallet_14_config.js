@@ -1,1 +1,1 @@
-var mnemonic = "grow helmet false unfold prepare lift inspire someone video razor type base";
+var mnemonic = "favorite foot around legend iron nephew ketchup sport wealth west burst under";

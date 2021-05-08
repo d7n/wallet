@@ -1,1 +1,1 @@
-var mnemonic = "toward story clinic maze fatal space bread good forest return like banner";
+var mnemonic = "few axis acoustic soap whisper dish curious solar inquiry palm anxiety original";

@@ -1,1 +1,1 @@
-var mnemonic = "dune couple trip need able finish marriage bundle fee outer tail faint";
+var mnemonic = "search soul pen sorry grab occur knife senior mansion nut jungle end";

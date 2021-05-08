@@ -1,1 +1,1 @@
-var mnemonic = "weird unfold almost bus raise begin clutch cover swim doctor abstract excess";
+var mnemonic = "cabin visa trip inherit stamp track system chief nest mail open provide";

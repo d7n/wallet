@@ -1,1 +1,1 @@
-var mnemonic = "infant verb stool float attack member move guess chunk jazz ankle various";
+var mnemonic = "frozen renew kidney rather annual help sad dignity fringe taxi shift siren";

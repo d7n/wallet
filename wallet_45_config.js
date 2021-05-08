@@ -1,1 +1,1 @@
-var mnemonic = "want turtle parent unfold flower lock solid library injury wing enemy trial";
+var mnemonic = "real paper ketchup alpha net mixture bone tilt purchase wink silent lumber";

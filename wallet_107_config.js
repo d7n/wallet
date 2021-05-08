@@ -1,1 +1,1 @@
-var mnemonic = "rural author casual goose attack cushion faint bracket require kiwi undo bind";
+var mnemonic = "sauce abstract pony jelly express harvest outside you lemon alien follow rule";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare bring combine arrest napkin image fade crush off indoor dose shell";
+var mnemonic = "panic check effort merge liar expect foot ship undo bleak admit exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen kidney such all fade pizza industry object victory cloud gas diary";
+var mnemonic = "hero leg swing loud transfer profit jeans gown melt basket dish basic";

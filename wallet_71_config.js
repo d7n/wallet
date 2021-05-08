@@ -1,1 +1,1 @@
-var mnemonic = "weather also cherry music pause drink element talent item degree color photo";
+var mnemonic = "liquid eagle now lobster neck grant judge buffalo idle regret child remind";

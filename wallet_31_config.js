@@ -1,1 +1,1 @@
-var mnemonic = "office model tattoo note swear fossil few glance tattoo corn snake scene";
+var mnemonic = "nothing few multiply shove allow capable predict always dance noise distance tattoo";

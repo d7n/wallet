@@ -1,1 +1,1 @@
-var mnemonic = "thumb scheme coach sleep wire okay humor cluster mushroom gadget regret essay";
+var mnemonic = "heart play pizza rigid account local decade text orchard glimpse proud element";

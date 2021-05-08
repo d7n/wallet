@@ -1,1 +1,1 @@
-var mnemonic = "nation surface lecture menu helmet senior address genius grass chef soft festival";
+var mnemonic = "photo mail flush raw side vicious foil hill fire kiwi custom match";

@@ -1,1 +1,1 @@
-var mnemonic = "cream eyebrow arm rib pond round nest illegal catch wrestle miracle bridge";
+var mnemonic = "slice bullet sing throw valid mean sweet unknown mango tube bleak shadow";

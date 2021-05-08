@@ -1,1 +1,1 @@
-var mnemonic = "rude ribbon chest stamp detail model letter burger era cause feel merge";
+var mnemonic = "crowd merge very alarm thought eager drift situate steak gaze capable dry";

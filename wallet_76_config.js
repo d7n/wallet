@@ -1,1 +1,1 @@
-var mnemonic = "able sea south gown cotton dash visa physical invite any clinic moon";
+var mnemonic = "poet all news alone mad tomato winter casino subject sorry transfer youth";

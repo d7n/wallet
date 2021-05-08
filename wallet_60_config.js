@@ -1,1 +1,1 @@
-var mnemonic = "mammal index deny help chalk frown science kiss hurry finger spawn exist";
+var mnemonic = "vehicle rail myth child hazard unit photo goat always comfort rifle urban";

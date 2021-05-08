@@ -1,1 +1,1 @@
-var mnemonic = "cry toast trade lava hand kiwi cabbage usage junior train swear gain";
+var mnemonic = "hour arrive reflect devote latin pitch mutual alien pond pear slice two";

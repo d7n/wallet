@@ -1,1 +1,1 @@
-var mnemonic = "join coconut breeze believe program ahead glimpse saddle machine frown bean finger";
+var mnemonic = "laugh remove shuffle divert nerve guilt weasel tonight initial lemon tonight sponsor";

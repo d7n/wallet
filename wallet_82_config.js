@@ -1,1 +1,1 @@
-var mnemonic = "dog solve resemble umbrella glue cabin swim nerve seat menu omit civil";
+var mnemonic = "vessel brother wood universe idea there apart kingdom badge exercise outside hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "design unaware dust tired provide various mix famous road orange leg arrest";
+var mnemonic = "brave phrase file abuse poverty city anxiety level bid mammal garden ball";

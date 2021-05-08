@@ -1,1 +1,1 @@
-var mnemonic = "monster join record cigar begin breeze mango black around idea resource young";
+var mnemonic = "oppose devote rocket daring purity ask suffer mansion chunk brand left naive";

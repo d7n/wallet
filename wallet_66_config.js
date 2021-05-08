@@ -1,1 +1,1 @@
-var mnemonic = "home hat inform civil review winter reopen matrix reject usual chef omit";
+var mnemonic = "tower oval nominee debris only begin aerobic shy wild dentist north rifle";

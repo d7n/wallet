@@ -1,1 +1,1 @@
-var mnemonic = "orient tourist better help box nephew piece ice merit sea crop upgrade";
+var mnemonic = "cereal insect metal lounge black until first pizza try again person matrix";

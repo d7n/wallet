@@ -1,1 +1,1 @@
-var mnemonic = "detect share lady welcome wait gorilla useless demise skin since mushroom man";
+var mnemonic = "gorilla someone parrot ill coral more pig random auto bomb pumpkin give";

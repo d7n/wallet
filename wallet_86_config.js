@@ -1,1 +1,1 @@
-var mnemonic = "soldier domain confirm mountain cricket add loud people salute disagree congress middle";
+var mnemonic = "know iron essay ahead orphan next hybrid hundred animal sing thing gaze";

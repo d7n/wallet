@@ -1,1 +1,1 @@
-var mnemonic = "story beef fork already miss citizen unusual thunder green rail sentence mean";
+var mnemonic = "modify shift grace message kingdom swarm obtain fall marble pool decrease current";

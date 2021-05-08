@@ -1,1 +1,1 @@
-var mnemonic = "report congress water royal snap visit document shift inhale joke voyage club";
+var mnemonic = "unfold rose word tag omit belt detail burger shell race security unfair";

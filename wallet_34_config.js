@@ -1,1 +1,1 @@
-var mnemonic = "cable invite ranch income segment talk dose snap economy source glimpse solid";
+var mnemonic = "maze peasant describe fiscal fog sad announce dose pink crucial addict choice";

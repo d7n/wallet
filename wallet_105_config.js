@@ -1,1 +1,1 @@
-var mnemonic = "slide senior follow happy stove possible shaft trim humor ice fall cactus";
+var mnemonic = "maid elevator element banner parade hidden more basket gadget thank leg ladder";

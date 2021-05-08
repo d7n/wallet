@@ -1,1 +1,1 @@
-var mnemonic = "control help wall scheme business finger sad tunnel space half salon neither";
+var mnemonic = "muscle hand used elephant engine make senior tide motion slender rack swallow";

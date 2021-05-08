@@ -1,1 +1,1 @@
-var mnemonic = "argue scrub bright crash height buyer brand engage prepare doll result spoon";
+var mnemonic = "chef same craft best viable latin voyage battle anxiety decrease power reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "noble clutch utility lend egg switch depend piece tooth exotic voice ski";
+var mnemonic = "dentist pumpkin whale love utility venue wasp loop century immune field mask";

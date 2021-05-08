@@ -1,1 +1,1 @@
-var mnemonic = "final spawn leopard pizza betray copy strategy guess solid vacant that over";
+var mnemonic = "what draft silent fade stage have garage movie able warrior muffin weapon";

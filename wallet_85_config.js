@@ -1,1 +1,1 @@
-var mnemonic = "stand day dust nature arrange chronic illegal again rather blade run permit";
+var mnemonic = "topic roof unlock update whip glass sugar sail envelope useful bullet lens";

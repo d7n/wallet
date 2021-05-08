@@ -1,1 +1,1 @@
-var mnemonic = "hospital supreme actor cotton random oblige slot extend mail gospel answer diesel";
+var mnemonic = "casino prosper train raccoon cushion blind wife useful calm mom brown viable";

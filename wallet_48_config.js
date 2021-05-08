@@ -1,1 +1,1 @@
-var mnemonic = "before good field trouble gown scan blue chunk typical coin drill birth";
+var mnemonic = "imitate online science nation solve nurse tent need spoil humor okay agent";

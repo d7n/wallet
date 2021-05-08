@@ -1,1 +1,1 @@
-var mnemonic = "zero because curious cluster label alone blue siege sort wonder deer limit";
+var mnemonic = "sea hair patch glass permit cloth pluck fit purity rookie hood vanish";

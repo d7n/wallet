@@ -1,1 +1,1 @@
-var mnemonic = "math cat crater top scout purity bulb idle ripple dad until fabric";
+var mnemonic = "leg away delay nominee skull very luggage delay acid hidden degree balance";

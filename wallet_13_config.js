@@ -1,1 +1,1 @@
-var mnemonic = "copper thumb stay two cereal family armor orphan nominee bar tone tumble";
+var mnemonic = "run undo hood ladder grab glass great hill boss lunar dragon junior";

@@ -1,1 +1,1 @@
-var mnemonic = "define series tell blur common flush entire win search concert unfair diagram";
+var mnemonic = "alone verb patch other betray park gossip ancient cable baby wash witness";

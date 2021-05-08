@@ -1,1 +1,1 @@
-var mnemonic = "upset level fat hood spice gauge nasty punch hurry cupboard unknown title";
+var mnemonic = "neither laundry blanket spice promote naive crush radar combine sting height cat";

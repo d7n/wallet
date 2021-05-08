@@ -1,1 +1,1 @@
-var mnemonic = "discover differ base catalog give smoke around state regret chase box patch";
+var mnemonic = "code empty unaware evolve mule forum arrange ancient hockey found poem online";

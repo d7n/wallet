@@ -1,1 +1,1 @@
-var mnemonic = "stereo kitten giggle pigeon sell deliver brother false member spare budget corn";
+var mnemonic = "finish trouble brush short scatter exotic fun knee bulk manage easy valid";

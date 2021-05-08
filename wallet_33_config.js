@@ -1,1 +1,1 @@
-var mnemonic = "furnace spin sister lonely piece enter cable blossom employ tortoise close liberty";
+var mnemonic = "focus cotton burger stairs stone tip note enough squirrel language good frequent";

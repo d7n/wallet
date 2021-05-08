@@ -1,1 +1,1 @@
-var mnemonic = "click shiver attend rather degree depend jelly senior immense sunny eagle pluck";
+var mnemonic = "exist deputy solar naive into forward forest infant depth advance divert coral";

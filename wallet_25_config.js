@@ -1,1 +1,1 @@
-var mnemonic = "jazz chef worry chronic forest tackle jealous two mass nurse tongue charge";
+var mnemonic = "pass garage garage prepare potato common funny desk wife lumber until steak";

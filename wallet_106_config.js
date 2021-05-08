@@ -1,1 +1,1 @@
-var mnemonic = "among weather panda distance inside tonight amateur hire track eight team current";
+var mnemonic = "teach current motion valve employ plug cousin alley large weasel twist curious";

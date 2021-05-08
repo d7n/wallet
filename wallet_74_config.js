@@ -1,1 +1,1 @@
-var mnemonic = "under long vivid chimney hungry ice twenty always account arrow novel way";
+var mnemonic = "parent carpet round debate around call jeans want breeze another follow west";

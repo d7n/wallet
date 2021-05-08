@@ -1,1 +1,1 @@
-var mnemonic = "cheap own about faith core evoke trophy squeeze funny dumb urge cool";
+var mnemonic = "wool hybrid suit play mandate choose motor purse recall rude measure dragon";

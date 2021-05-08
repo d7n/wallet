@@ -1,1 +1,1 @@
-var mnemonic = "industry among pencil couch bitter glow extend dolphin gloom holiday card protect";
+var mnemonic = "silly decide shoulder aunt find guilt price evidence pattern noble bubble hungry";

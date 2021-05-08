@@ -1,1 +1,1 @@
-var mnemonic = "wonder success oak spatial food clump outdoor warrior clog detail wet curve";
+var mnemonic = "mix census during weapon female hope bind dolphin entire hurdle muscle change";

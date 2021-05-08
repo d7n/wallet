@@ -1,1 +1,1 @@
-var mnemonic = "mushroom steak own legend crane broken expire gap smart cousin buddy flag";
+var mnemonic = "social gain cover neck giant race protect minute danger silly pencil also";

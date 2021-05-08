@@ -1,1 +1,1 @@
-var mnemonic = "timber famous critic proof dinner present mechanic high avocado twin indicate sunny";
+var mnemonic = "protect net sight bacon impulse first tell detail force target sunny toast";

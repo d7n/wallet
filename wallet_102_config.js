@@ -1,1 +1,1 @@
-var mnemonic = "inflict mom slot distance inspire leg defense aspect arm shock sphere heart";
+var mnemonic = "infant detect hundred horror tribe glass umbrella science across resist bright embody";

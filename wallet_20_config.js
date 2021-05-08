@@ -1,1 +1,1 @@
-var mnemonic = "thunder uniform today solid monster dinosaur umbrella steel clip uncle prepare lizard";
+var mnemonic = "buddy cover cook dizzy surprise benefit simple arctic clown imitate melody monkey";

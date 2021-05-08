@@ -1,1 +1,1 @@
-var mnemonic = "plate mobile team road upgrade young put discover category erupt stay diary";
+var mnemonic = "elder walnut crumble swarm quarter false rebel steak buyer wine tree arrow";
