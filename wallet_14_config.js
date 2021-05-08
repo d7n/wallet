@@ -1,1 +1,1 @@
-var mnemonic = "figure horror general raccoon fetch hockey base sting advice tool crack join";
+var mnemonic = "engage recycle napkin owner million erode cushion pass decorate enforce monkey awkward";

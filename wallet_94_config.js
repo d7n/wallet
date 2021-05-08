@@ -1,1 +1,1 @@
-var mnemonic = "foil board lunar armor category best unveil cannon silk retreat nerve say";
+var mnemonic = "antenna journey surround start shine skirt gift notable hammer extra rescue hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "damage hunt word burger skull mention mango main artefact artefact inherit spatial";
+var mnemonic = "toast elbow alien guide fruit claim risk during affair permit fiber satoshi";

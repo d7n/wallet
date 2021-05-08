@@ -1,1 +1,1 @@
-var mnemonic = "supreme around bubble glory harsh various vault churn swallow nice cruise menu";
+var mnemonic = "thing into size among barely belt film deal mixed element vocal attitude";

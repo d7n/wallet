@@ -1,1 +1,1 @@
-var mnemonic = "indoor sentence pupil inject volcano dry ship trial prepare million leave meat";
+var mnemonic = "please panel gap team omit matter narrow expire oxygen crisp regular always";

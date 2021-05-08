@@ -1,1 +1,1 @@
-var mnemonic = "return lucky bottom peace improve movie spray runway topple ahead pistol victory";
+var mnemonic = "mixture volcano what bundle stairs minimum retire injury fence odor find sad";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust polar weather sock trend catch sauce flat cry warfare melody pear";
+var mnemonic = "exclude fall install heart warrior outer bullet hybrid behind area cause craft";

@@ -1,1 +1,1 @@
-var mnemonic = "equal day jeans slogan dumb payment error brief gown cup scene surprise";
+var mnemonic = "finger silver wing bargain provide approve need ostrich health foster alter cute";

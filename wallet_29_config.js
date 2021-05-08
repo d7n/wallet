@@ -1,1 +1,1 @@
-var mnemonic = "strong forest delay offer crouch join throw submit true hen wrap piece";
+var mnemonic = "south burst elephant exit crisp frost wage lock artefact resist armor render";

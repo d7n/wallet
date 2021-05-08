@@ -1,1 +1,1 @@
-var mnemonic = "adapt time dish you journey tube window rail smile any small dirt";
+var mnemonic = "rapid essence casual dignity soul oven vintage cart purse other key trumpet";

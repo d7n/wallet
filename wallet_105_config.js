@@ -1,1 +1,1 @@
-var mnemonic = "exotic poverty bean advice duck harvest tiger sunset february marine noodle depart";
+var mnemonic = "voice attack gospel giggle useless inside maid dumb clerk odor crop flock";

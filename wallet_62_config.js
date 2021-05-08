@@ -1,1 +1,1 @@
-var mnemonic = "female canal sphere utility zoo duck fiction relax enter behind matrix spice";
+var mnemonic = "time enter train fury palace maximum illness taxi bar february security ostrich";

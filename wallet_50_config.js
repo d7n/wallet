@@ -1,1 +1,1 @@
-var mnemonic = "catch answer clinic puzzle major have alone guess clinic illegal brick furnace";
+var mnemonic = "grain reduce upon olympic earn lecture biology useful spice index usual violin";

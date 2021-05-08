@@ -1,1 +1,1 @@
-var mnemonic = "lunch shoe dose armed net panda hub rabbit lumber tomato news visa";
+var mnemonic = "hospital tide swear wrong estate rice soda field case sweet brain census";

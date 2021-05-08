@@ -1,1 +1,1 @@
-var mnemonic = "diamond ability fury cactus pluck gallery apology rule track lottery anchor exhaust";
+var mnemonic = "win invest require credit chapter pelican below buffalo rib tray buyer muscle";

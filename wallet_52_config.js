@@ -1,1 +1,1 @@
-var mnemonic = "mad figure hire source insane shield supreme omit client veteran pole green";
+var mnemonic = "chronic pyramid radio team notice year purity entry riot decrease meat fuel";

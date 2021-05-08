@@ -1,1 +1,1 @@
-var mnemonic = "worry drip blanket flush injury faint imitate unhappy tiny tackle renew scatter";
+var mnemonic = "manual ability lava slice champion tree dentist budget give reason must snow";

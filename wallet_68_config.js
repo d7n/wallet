@@ -1,1 +1,1 @@
-var mnemonic = "siege lazy cannon canvas abuse casino fit soap crystal enable bitter manage";
+var mnemonic = "delay tilt brisk all shine fossil express remember kingdom slight announce taste";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby bundle home legal emotion liberty neck scheme donor start describe ginger";
+var mnemonic = "news cigar husband card window robot hidden actor federal ribbon discover tower";

@@ -1,1 +1,1 @@
-var mnemonic = "firm arrive early cupboard brisk delay art notable night spice concert inspire";
+var mnemonic = "tone ankle call clever toy minimum very north little orange mixture involve";

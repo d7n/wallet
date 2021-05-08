@@ -1,1 +1,1 @@
-var mnemonic = "vast diet toss then flash grant unable identify invest exact attitude acquire";
+var mnemonic = "wrong wonder angle science useless narrow skirt kitchen thumb slide shock story";

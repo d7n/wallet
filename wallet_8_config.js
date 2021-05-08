@@ -1,1 +1,1 @@
-var mnemonic = "concert notice shallow gravity fish enter artist theme boy reward despair rally";
+var mnemonic = "crunch roast cream window pledge youth home elegant orchard club whale like";

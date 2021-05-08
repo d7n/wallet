@@ -1,1 +1,1 @@
-var mnemonic = "hero hollow ten wet success clip flee route battle toe elegant steak";
+var mnemonic = "verb usual poverty sad swift warfare civil wink educate remain execute review";

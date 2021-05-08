@@ -1,1 +1,1 @@
-var mnemonic = "sudden weasel tumble cement road pool sausage great valley comfort survey slide";
+var mnemonic = "monitor carbon lab reflect fancy appear pact hire cruel warfare potato feel";

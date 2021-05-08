@@ -1,1 +1,1 @@
-var mnemonic = "advance throw zero curve april boss double appear pupil logic mixed tennis";
+var mnemonic = "sport cinnamon bamboo cousin panel rose exhaust wife essay gentle quarter rare";

@@ -1,1 +1,1 @@
-var mnemonic = "print lift age oxygen claw behind barely sausage clown banana diet student";
+var mnemonic = "reform antique mandate quit erupt poet monkey hockey fashion defy buffalo town";

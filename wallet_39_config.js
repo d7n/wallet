@@ -1,1 +1,1 @@
-var mnemonic = "illegal item lab virus verify owner actress crazy close nut stumble initial";
+var mnemonic = "hard summer bird tilt large bundle stock myself vapor rate keep bachelor";

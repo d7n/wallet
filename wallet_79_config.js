@@ -1,1 +1,1 @@
-var mnemonic = "case another ordinary truly maximum fold race wonder round horse erode spin";
+var mnemonic = "ill chest escape shy length state jar custom skill empty guard female";

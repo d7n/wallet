@@ -1,1 +1,1 @@
-var mnemonic = "arch supreme umbrella equip raven just inch voice design purse enhance among";
+var mnemonic = "mass actress crater master chuckle pledge meadow false image marine jaguar latin";

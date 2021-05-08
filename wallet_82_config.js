@@ -1,1 +1,1 @@
-var mnemonic = "peace airport lift industry volume wedding index distance dash fury fall switch";
+var mnemonic = "slice uniform fiction tragic original among inhale blast hazard pill adjust effort";

@@ -1,1 +1,1 @@
-var mnemonic = "eight install forward swing laugh veteran jaguar weapon author stock note chalk";
+var mnemonic = "carbon exit sell escape add joke fat across above bright food thumb";

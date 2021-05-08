@@ -1,1 +1,1 @@
-var mnemonic = "cycle combine crystal junk melody pigeon steak amazing brush metal morning pink";
+var mnemonic = "famous portion alcohol forget lava delay exit brother notice ten retire path";

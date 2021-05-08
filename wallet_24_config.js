@@ -1,1 +1,1 @@
-var mnemonic = "want swarm add observe above pulse must away random bring rich dish";
+var mnemonic = "federal stable visual clarify insane senior intact time cheap month exchange weasel";

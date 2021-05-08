@@ -1,1 +1,1 @@
-var mnemonic = "ethics penalty coil ice soap sad extend original discover amused manual ranch";
+var mnemonic = "nephew primary ranch security gain fame slush riot require same math eagle";

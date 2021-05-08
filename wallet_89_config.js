@@ -1,1 +1,1 @@
-var mnemonic = "announce clutch marriage purse tackle few second fabric next drill diesel dance";
+var mnemonic = "onion broccoli notice eight relax spot drift immune tip debris share misery";

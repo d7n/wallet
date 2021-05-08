@@ -1,1 +1,1 @@
-var mnemonic = "rent seat wedding gesture learn hour melt this margin toddler bulk icon";
+var mnemonic = "stone expire renew interest unfair opera present curve pair city ceiling wash";

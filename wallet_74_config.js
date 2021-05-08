@@ -1,1 +1,1 @@
-var mnemonic = "goat gaze win nuclear excite shock rhythm strong board release quarter flush";
+var mnemonic = "bid brain lunch useful explain boost music fame convince canoe polar kind";

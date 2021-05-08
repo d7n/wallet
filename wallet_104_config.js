@@ -1,1 +1,1 @@
-var mnemonic = "point cabin ladder dignity flame father sugar report grace arrive strike twice";
+var mnemonic = "choice owner omit divert never injury crack buyer mobile invite seek direct";

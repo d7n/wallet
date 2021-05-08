@@ -1,1 +1,1 @@
-var mnemonic = "magic march mimic village shed grain carbon device icon position marine brain";
+var mnemonic = "rhythm brave team shuffle this seed valve turn invite hero exchange artefact";

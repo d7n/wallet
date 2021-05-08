@@ -1,1 +1,1 @@
-var mnemonic = "live artefact stool elite case rate gaze game draw sniff message weekend";
+var mnemonic = "ability food ridge cause ripple search test crew plastic token surprise layer";

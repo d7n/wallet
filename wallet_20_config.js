@@ -1,1 +1,1 @@
-var mnemonic = "possible modify arrow blame bulk surround once danger gown base target suffer";
+var mnemonic = "pet vendor enemy popular glove clog entire invite online odor about cloud";

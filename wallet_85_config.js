@@ -1,1 +1,1 @@
-var mnemonic = "vital dinosaur attend budget punch cradle judge opinion thumb minute stand wall";
+var mnemonic = "tackle bicycle hobby main coach rack goat hero crop antenna happy tent";

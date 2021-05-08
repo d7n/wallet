@@ -1,1 +1,1 @@
-var mnemonic = "aerobic quiz sister master family mixture please carbon slight hammer phone barely";
+var mnemonic = "spawn tourist horn daughter prefer cupboard surround name weasel drip evil rug";

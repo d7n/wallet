@@ -1,1 +1,1 @@
-var mnemonic = "tip marriage achieve pelican post fuel obscure stool magic later tilt chat";
+var mnemonic = "scan scatter release tribe inhale aware argue dish illness bean monitor upgrade";

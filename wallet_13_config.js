@@ -1,1 +1,1 @@
-var mnemonic = "joke organ curve local hospital mirror build step sick logic tail entry";
+var mnemonic = "garment finger sugar please super wolf kangaroo woman party exchange panda muscle";

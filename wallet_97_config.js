@@ -1,1 +1,1 @@
-var mnemonic = "switch average prison beauty delay ritual else clutch punch beach unusual mule";
+var mnemonic = "bean bean give lion coast what critic identify help cushion torch fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk coyote purity pair renew orient ten pony enable axis nation endorse";
+var mnemonic = "total camp hover coil stay conduct tip frog jewel seek robot solution";

@@ -1,1 +1,1 @@
-var mnemonic = "salad word parent smooth series cave expand eager box obey science arrow";
+var mnemonic = "rug cheap celery trap tortoise ritual catch witness cycle stock allow bomb";

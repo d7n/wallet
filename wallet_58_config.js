@@ -1,1 +1,1 @@
-var mnemonic = "trumpet assault antique woman taste vessel leave milk furnace rate prosper mobile";
+var mnemonic = "predict hockey time slam spatial veteran ostrich roof kit call tilt later";

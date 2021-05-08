@@ -1,1 +1,1 @@
-var mnemonic = "soap protect price fine urban garbage empower economy box oxygen brick crush";
+var mnemonic = "jacket guess diary lock wise mountain subject violin equal odor bubble weapon";

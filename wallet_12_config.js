@@ -1,1 +1,1 @@
-var mnemonic = "print december benefit index mandate point fee during ceiling clap six funny";
+var mnemonic = "typical desert picnic humor sick party wool charge note more balance sun";

@@ -1,1 +1,1 @@
-var mnemonic = "response tip century sudden unaware door parrot light habit dutch plunge color";
+var mnemonic = "edge find wool ancient verb render unhappy lizard sea toy umbrella control";

@@ -1,1 +1,1 @@
-var mnemonic = "start mango advance picture sense accuse review violin fresh decade alpha donkey";
+var mnemonic = "private click sword train busy virus absent emotion congress affair excess front";

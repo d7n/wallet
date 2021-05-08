@@ -1,1 +1,1 @@
-var mnemonic = "idea alien palace theory palace enemy surround silver kid record follow assault";
+var mnemonic = "lounge runway tomorrow dinner fringe survey humble champion deal rich nut animal";

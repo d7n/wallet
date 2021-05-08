@@ -1,1 +1,1 @@
-var mnemonic = "small dad gasp occur cupboard avocado cart badge person harbor grunt gold";
+var mnemonic = "gain loyal icon scorpion lemon trade behave region chunk invest scan uncover";

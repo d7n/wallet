@@ -1,1 +1,1 @@
-var mnemonic = "poem bike proof raven wisdom head monkey require manage clown become load";
+var mnemonic = "nasty motor talk patrol provide grow episode cradle pizza genuine spoil later";

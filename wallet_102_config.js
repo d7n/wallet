@@ -1,1 +1,1 @@
-var mnemonic = "skate cargo donor refuse garbage stumble artist struggle scan twelve wave anxiety";
+var mnemonic = "ocean perfect echo exile unable impulse home any green mail broccoli super";

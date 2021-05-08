@@ -1,1 +1,1 @@
-var mnemonic = "warrior shoot attack clarify wool history milk fancy inform engage palm raccoon";
+var mnemonic = "build guide camp smooth build road viable dry power barrel black narrow";

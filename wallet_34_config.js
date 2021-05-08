@@ -1,1 +1,1 @@
-var mnemonic = "antenna point duck comic admit glimpse type file tackle double stadium anger";
+var mnemonic = "cute oyster nature uncover hand crowd prevent pulse taxi embody cook joke";

@@ -1,1 +1,1 @@
-var mnemonic = "remind key deposit acoustic humble accident claim mutual capable skull gossip frog";
+var mnemonic = "mansion brown maximum case laundry digital brass shoe mule anger trouble amazing";

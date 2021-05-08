@@ -1,1 +1,1 @@
-var mnemonic = "quiz this involve poverty ethics manual flip clown cute hand drip kite";
+var mnemonic = "staff step action weather tell describe trash sense gospel purchase void either";

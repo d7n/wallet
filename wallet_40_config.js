@@ -1,1 +1,1 @@
-var mnemonic = "reform cause chair evolve oppose fruit delay exercise corn game south student";
+var mnemonic = "sport jaguar oblige under daring thunder mesh hunt woman patrol glue pony";

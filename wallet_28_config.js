@@ -1,1 +1,1 @@
-var mnemonic = "morning fame auction mammal sword zero color novel oven minor car canal";
+var mnemonic = "large fluid there plate umbrella doctor donate razor help soft desk risk";

@@ -1,1 +1,1 @@
-var mnemonic = "safe oil laptop process fame loud devote size zero loop foil discover";
+var mnemonic = "better planet false protect doctor hobby grab wife program vocal topic boy";

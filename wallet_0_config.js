@@ -1,1 +1,1 @@
-var mnemonic = "left mercy remind total region worry limb black virtual render car ski";
+var mnemonic = "mail indicate online spatial lesson unveil detail marble slow material deposit laundry";

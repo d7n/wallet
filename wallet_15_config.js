@@ -1,1 +1,1 @@
-var mnemonic = "depend student walnut pioneer snap define journey palace judge flash weird neutral";
+var mnemonic = "tribe must wife choose enough notice general uncover like legal sweet point";

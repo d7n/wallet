@@ -1,1 +1,1 @@
-var mnemonic = "demise fitness wing zebra summer know butter angry trick fold coyote local";
+var mnemonic = "unit moment swear nut total original guide wear sheriff flee cross major";

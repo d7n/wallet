@@ -1,1 +1,1 @@
-var mnemonic = "print eagle rent survey expose coyote ancient you anxiety plunge few blanket";
+var mnemonic = "damp forum vacuum evoke witness spell digital box judge game robust fat";

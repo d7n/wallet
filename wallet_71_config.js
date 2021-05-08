@@ -1,1 +1,1 @@
-var mnemonic = "vast seed burger cheese regular truck stand evil begin hole hold speed";
+var mnemonic = "hour corn rigid slush spider menu marriage either boy sock toddler thing";

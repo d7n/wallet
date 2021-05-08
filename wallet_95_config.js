@@ -1,1 +1,1 @@
-var mnemonic = "lava moon connect cool eagle teach yard thought nerve junior priority jazz";
+var mnemonic = "minimum travel build stuff purse noble delay area brush attend case scare";

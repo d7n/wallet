@@ -1,1 +1,1 @@
-var mnemonic = "tower cattle attend suggest silly matter crane nut apology era fire file";
+var mnemonic = "cousin adjust thumb absorb retreat gossip mansion coconut birth wedding dentist glory";

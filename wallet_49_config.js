@@ -1,1 +1,1 @@
-var mnemonic = "major tenant festival rich wrap acid ripple tooth flee word accident waste";
+var mnemonic = "height ride when where radio unaware worth toward vessel pause clown auto";

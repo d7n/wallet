@@ -1,1 +1,1 @@
-var mnemonic = "addict spend kite vanish clog panda misery bamboo prison cluster top coil";
+var mnemonic = "rapid spoon buddy damage neither verify vanish inform hill pistol second life";

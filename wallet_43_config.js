@@ -1,1 +1,1 @@
-var mnemonic = "fork butter practice champion cousin soda news nose reform excite lounge appear";
+var mnemonic = "chronic rare hidden guitar wine cream radar include black pilot page claim";

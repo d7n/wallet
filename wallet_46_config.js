@@ -1,1 +1,1 @@
-var mnemonic = "alarm output roast crane expect awful island buzz twin unhappy fringe absent";
+var mnemonic = "hunt chat army already history whisper already uniform robust pottery alter evil";

@@ -1,1 +1,1 @@
-var mnemonic = "celery web river memory elbow metal wild eager meadow such trash duck";
+var mnemonic = "predict enforce royal bright million venue loyal swarm praise van cargo fiber";

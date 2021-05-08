@@ -1,1 +1,1 @@
-var mnemonic = "mask render rather office wasp neglect fabric vendor there motion online pepper";
+var mnemonic = "target gown mandate rate afford ask target yard again work false clay";

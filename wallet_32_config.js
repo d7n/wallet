@@ -1,1 +1,1 @@
-var mnemonic = "enlist response else marble spawn dance barrel deputy plate page maid miracle";
+var mnemonic = "thumb army radar memory tide squirrel shell author budget quantum dog riot";

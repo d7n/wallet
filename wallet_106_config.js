@@ -1,1 +1,1 @@
-var mnemonic = "bridge strike rural north chronic aware hurry goat radio only extra accuse";
+var mnemonic = "alcohol throw omit teach frost bright pair cake board rigid runway eight";

@@ -1,1 +1,1 @@
-var mnemonic = "resource rich young divide recall smile slide cabbage renew puppy lobster cannon";
+var mnemonic = "fish wide ten omit adult regret smart acid tribe happy lumber weird";

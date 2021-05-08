@@ -1,1 +1,1 @@
-var mnemonic = "toddler forest dismiss grief horn goat apart impact drive dune update crime";
+var mnemonic = "success seven initial few merry reveal unhappy relief hunt identify word nephew";

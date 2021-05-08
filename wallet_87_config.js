@@ -1,1 +1,1 @@
-var mnemonic = "catch ivory vacant regret donkey file celery foil wide pulp amused can";
+var mnemonic = "flavor other chef library robust expire mechanic runway shift just favorite day";

@@ -1,1 +1,1 @@
-var mnemonic = "current color pupil pencil slender pyramid tattoo empty repeat erosion problem jealous";
+var mnemonic = "brush above crush session trick slogan shrug insect trigger you seminar foot";

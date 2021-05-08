@@ -1,1 +1,1 @@
-var mnemonic = "pink faculty family vehicle tooth holiday bind march close plate ordinary mesh";
+var mnemonic = "absorb benefit middle advance curtain number notable sister choose about joy patient";

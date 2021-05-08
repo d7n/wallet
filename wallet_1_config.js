@@ -1,1 +1,1 @@
-var mnemonic = "surge cushion cool envelope awkward horse swap absent off inquiry success pipe";
+var mnemonic = "arrange hover tourist attitude cousin faith danger album hunt smoke achieve marriage";

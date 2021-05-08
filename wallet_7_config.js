@@ -1,1 +1,1 @@
-var mnemonic = "provide buzz demand purse essence time mirror dice brick crouch equip pelican";
+var mnemonic = "degree similar run swing hello proud mixture allow goddess rigid monkey album";

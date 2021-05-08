@@ -1,1 +1,1 @@
-var mnemonic = "device next solar vessel lottery scheme dust breeze what adult leg balance";
+var mnemonic = "obtain picture tape rapid dove arena zone resemble autumn jaguar manual page";

@@ -1,1 +1,1 @@
-var mnemonic = "cube timber hazard brush voice more describe brave derive cinnamon top later";
+var mnemonic = "earn pulse bargain main analyst leaf enroll sea this trigger heavy crop";

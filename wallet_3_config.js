@@ -1,1 +1,1 @@
-var mnemonic = "limit push silent duck flat spell gossip call hope love appear crunch";
+var mnemonic = "sentence enact defy earth vast chunk merry bicycle decline dice prosper robust";

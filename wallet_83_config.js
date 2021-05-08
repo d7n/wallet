@@ -1,1 +1,1 @@
-var mnemonic = "annual vote please allow front music tomato burden judge blade uniform nice";
+var mnemonic = "juice breeze close blind idle expand six reduce regular shadow there survey";

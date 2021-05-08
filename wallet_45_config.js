@@ -1,1 +1,1 @@
-var mnemonic = "guard dad cereal brief memory second spread ship repeat bid aspect youth";
+var mnemonic = "suit winner maple atom lunch leader hood fresh whisper doll zero ten";
