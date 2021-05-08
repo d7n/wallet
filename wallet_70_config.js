@@ -1,1 +1,1 @@
-var mnemonic = "method lazy grit clean holiday palace wedding hungry flight next night drill";
+var mnemonic = "cave punch night mail chef symptom loop skin camp senior wish disease";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny valid cat shed boring edit earth hotel shell early gossip wrist";
+var mnemonic = "target list govern butter avoid moon absurd mercy rally endorse nerve assume";

@@ -1,1 +1,1 @@
-var mnemonic = "cool toddler face fuel equal ask iron suspect program bus raven digital";
+var mnemonic = "inch minimum unknown entry fuel behave jeans palace milk yard shock nature";

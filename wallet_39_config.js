@@ -1,1 +1,1 @@
-var mnemonic = "about iron segment emotion pyramid cereal wide famous equip flight small hen";
+var mnemonic = "innocent basic city clock science hamster what sail cycle garlic usual rich";

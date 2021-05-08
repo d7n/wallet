@@ -1,1 +1,1 @@
-var mnemonic = "happy viable actress must exile transfer style heart punch strike win weather";
+var mnemonic = "heart keep door bid fresh sunset cheese august diesel finger ice flat";

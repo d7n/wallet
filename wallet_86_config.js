@@ -1,1 +1,1 @@
-var mnemonic = "hobby labor arrive ice waste judge shiver account prison cash scout topple";
+var mnemonic = "forest argue brief index cabbage erase trick host myself point zebra market";

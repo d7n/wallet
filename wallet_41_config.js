@@ -1,1 +1,1 @@
-var mnemonic = "ivory toward rare nose forum scheme orphan pulse rebuild satoshi oppose marble";
+var mnemonic = "debate gasp page badge daring remember chef earth tip muscle flush head";

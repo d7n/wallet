@@ -1,1 +1,1 @@
-var mnemonic = "ozone chapter person leave federal canyon lion cheese evil drive cup huge";
+var mnemonic = "rate promote indicate submit gift allow carpet need gasp harsh gadget debate";

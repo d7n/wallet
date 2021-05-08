@@ -1,1 +1,1 @@
-var mnemonic = "cluster south degree frozen early slice old update august family hero gate";
+var mnemonic = "piano gorilla child whisper file olympic voice blast hawk check acquire impulse";

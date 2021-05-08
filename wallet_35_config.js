@@ -1,1 +1,1 @@
-var mnemonic = "alter bulk coil couch episode start page swim melody add local stable";
+var mnemonic = "size music equip nasty midnight focus vital crucial wood shine coyote current";

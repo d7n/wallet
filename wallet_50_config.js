@@ -1,1 +1,1 @@
-var mnemonic = "ecology turkey verb matrix skirt wall already trip tuition fiscal powder dismiss";
+var mnemonic = "shaft short black float doctor melody hair drum cave board alley cigar";

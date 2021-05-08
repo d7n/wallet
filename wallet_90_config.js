@@ -1,1 +1,1 @@
-var mnemonic = "olive nuclear flush twenty claim video adult retire rescue fork unveil rocket";
+var mnemonic = "final toy pipe grocery midnight above census page check hollow robot dirt";

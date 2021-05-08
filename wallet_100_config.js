@@ -1,1 +1,1 @@
-var mnemonic = "immune shiver hurry hollow muffin hungry luxury blade choose solid strategy modify";
+var mnemonic = "team craft index dune romance consider champion glad web culture shuffle clarify";

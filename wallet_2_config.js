@@ -1,1 +1,1 @@
-var mnemonic = "icon robust isolate mosquito boost adjust green visit crop wide focus mansion";
+var mnemonic = "turn exhaust train thought brain detect market glimpse monster input science cabbage";

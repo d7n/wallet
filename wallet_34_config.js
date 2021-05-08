@@ -1,1 +1,1 @@
-var mnemonic = "caught brief march grape notice ecology crater easy surge middle spatial essay";
+var mnemonic = "cabbage reason absent cause pitch unknown basket idea cabin dad moral cloud";

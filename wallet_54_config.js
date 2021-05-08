@@ -1,1 +1,1 @@
-var mnemonic = "marriage fever dentist crisp scrub surprise liquid bar enact kind resource sport";
+var mnemonic = "purity accuse aware gasp usual champion genuine useless vehicle vacant owner artefact";

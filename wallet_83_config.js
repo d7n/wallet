@@ -1,1 +1,1 @@
-var mnemonic = "fall dash satoshi first mammal cheap horror stay steel dream noise silly";
+var mnemonic = "video explain daring scare moon fossil album flee trap snap zero reflect";

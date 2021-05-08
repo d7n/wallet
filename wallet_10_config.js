@@ -1,1 +1,1 @@
-var mnemonic = "metal fork toy egg life regular motion belt large timber gravity arrow";
+var mnemonic = "sample large amused pave upon slow time drink common retire run skill";

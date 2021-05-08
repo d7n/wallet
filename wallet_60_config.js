@@ -1,1 +1,1 @@
-var mnemonic = "void mystery spider observe host stand option material half guard whisper reform";
+var mnemonic = "arm fee daring story north clump window puppy glide clip weekend gasp";

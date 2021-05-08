@@ -1,1 +1,1 @@
-var mnemonic = "they jaguar vivid erosion crew neck metal alone allow mixed belt that";
+var mnemonic = "input ivory rally clog merge radio brown novel cable wreck verb october";

@@ -1,1 +1,1 @@
-var mnemonic = "copy obey faith approve cruise elevator twelve famous job student cabbage recall";
+var mnemonic = "butter patch duty detail knife crazy odor crack innocent gorilla fever way";

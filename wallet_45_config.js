@@ -1,1 +1,1 @@
-var mnemonic = "release good tuition method merge bird okay truck wrong primary unfold mouse";
+var mnemonic = "flower depth penalty genius hybrid office february another jacket charge maze upon";

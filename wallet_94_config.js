@@ -1,1 +1,1 @@
-var mnemonic = "tornado patch solid copy that melt peace swing caution guard harsh diet";
+var mnemonic = "crystal lawsuit outer sail engage nephew quality jelly drastic what mask wine";

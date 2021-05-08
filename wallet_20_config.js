@@ -1,1 +1,1 @@
-var mnemonic = "school boat enable crop punch minor tiny shoe royal glide filter distance";
+var mnemonic = "play grief latin easily leaf hope cave coral sugar oven mystery alley";

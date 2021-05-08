@@ -1,1 +1,1 @@
-var mnemonic = "almost demand banner bullet coconut awful hockey action attend lucky obtain unit";
+var mnemonic = "alarm poem hotel play shallow bleak lake trip text gesture army surge";

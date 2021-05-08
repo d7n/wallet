@@ -1,1 +1,1 @@
-var mnemonic = "square engine gap mention yard wink cloud bicycle clutch warfare grace provide";
+var mnemonic = "jacket clinic subway lawsuit flat over laptop split breeze snow share online";

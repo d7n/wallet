@@ -1,1 +1,1 @@
-var mnemonic = "leopard public pact parrot crater decide cinnamon feel science seven brand coyote";
+var mnemonic = "uniform decorate debris clay family bird hedgehog grit panel tooth interest vote";

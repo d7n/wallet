@@ -1,1 +1,1 @@
-var mnemonic = "tail summer donkey enlist cave fox join parent butter satoshi crop pluck";
+var mnemonic = "vessel join execute siege gloom guitar health list mesh hedgehog evidence like";

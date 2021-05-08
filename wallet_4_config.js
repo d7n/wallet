@@ -1,1 +1,1 @@
-var mnemonic = "exit other barrel ability olive defense whisper wink find pipe buzz almost";
+var mnemonic = "shield relax nothing true brave fat tail short clog bag girl pumpkin";

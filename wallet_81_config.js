@@ -1,1 +1,1 @@
-var mnemonic = "muscle radio robust start parade okay salon flash nice strong upper lift";
+var mnemonic = "chief protect carpet injury roof gospel divert salute such room degree render";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade again slogan agent crouch tackle believe trap immense wall axis canvas";
+var mnemonic = "invest just inch pottery card file people gasp fiscal rubber swamp zone";

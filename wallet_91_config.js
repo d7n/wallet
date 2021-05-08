@@ -1,1 +1,1 @@
-var mnemonic = "image snow horn verify place struggle robust monitor shallow scale disease hospital";
+var mnemonic = "music plate battle noodle twice kit liquid suffer unlock august vanish sick";

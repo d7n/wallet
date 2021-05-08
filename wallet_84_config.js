@@ -1,1 +1,1 @@
-var mnemonic = "obey can glue web length suit blame bonus refuse dish minor identify";
+var mnemonic = "wool media light fit define suggest net ranch shallow into cloud rocket";

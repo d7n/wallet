@@ -1,1 +1,1 @@
-var mnemonic = "chimney today trap cloud decrease space change calm shoulder input honey drink";
+var mnemonic = "tragic someone pulse memory frog woman fitness sphere plastic area ice pond";

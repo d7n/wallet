@@ -1,1 +1,1 @@
-var mnemonic = "devote neutral effort staff alone frame bright exotic theme reduce moral oil";
+var mnemonic = "magnet number beef victory auto moon ethics invest thrive tourist install angle";

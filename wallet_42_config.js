@@ -1,1 +1,1 @@
-var mnemonic = "favorite gadget guide essay valid bread mechanic height oval dove require second";
+var mnemonic = "certain another fancy venture armor daughter quantum swing equal armor way raven";

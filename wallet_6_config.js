@@ -1,1 +1,1 @@
-var mnemonic = "accident jacket fence uncover barely illness shrimp squirrel hurry ethics aspect year";
+var mnemonic = "refuse head famous state crawl cushion just maple valve animal castle cross";

@@ -1,1 +1,1 @@
-var mnemonic = "blush swallow desert mix more item nominee robust rotate elbow boring setup";
+var mnemonic = "glad pyramid worry power rigid fury season alcohol profit awkward purpose focus";

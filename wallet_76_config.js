@@ -1,1 +1,1 @@
-var mnemonic = "then tooth act grape equal ketchup vacant kangaroo atom push primary ginger";
+var mnemonic = "expose various barely safe million ten senior profit task vicious surround pen";

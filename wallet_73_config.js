@@ -1,1 +1,1 @@
-var mnemonic = "burst horse knock empty fatigue loyal track catch south chimney will fun";
+var mnemonic = "uncover useless eight usual gloom require demise offer sunset glare banner erupt";

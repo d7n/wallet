@@ -1,1 +1,1 @@
-var mnemonic = "trap comic island explain long auction climb ozone fashion patch option clerk";
+var mnemonic = "occur swim oxygen metal melody pill horse patch lemon resist slab swim";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy ecology pluck spot plunge robot frost social crater tennis garbage rocket";
+var mnemonic = "flush sort luggage vacuum drama neither wrap student purpose invest menu orange";

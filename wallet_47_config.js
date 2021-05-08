@@ -1,1 +1,1 @@
-var mnemonic = "dilemma toy either seat below seven luggage kitchen test allow leopard pioneer";
+var mnemonic = "mad lyrics alter breeze speed sketch cradle arm curious antique antique message";

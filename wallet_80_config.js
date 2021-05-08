@@ -1,1 +1,1 @@
-var mnemonic = "course funny nothing march hen paddle census weird chimney sugar arena garage";
+var mnemonic = "test rib cause trim forget first hundred kid fluid barrel mask rack";

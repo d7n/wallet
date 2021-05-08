@@ -1,1 +1,1 @@
-var mnemonic = "south empty defy letter cream horn athlete educate group hint sport sight";
+var mnemonic = "anger long glide clap nuclear glow reveal undo road best stem ready";

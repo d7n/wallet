@@ -1,1 +1,1 @@
-var mnemonic = "catalog arm used polar trade few desk jaguar loud atom coast firm";
+var mnemonic = "decrease witness season nature disagree since wood friend what find nurse tattoo";

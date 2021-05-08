@@ -1,1 +1,1 @@
-var mnemonic = "emerge grass dumb clown dose robot ocean cave want poem control record";
+var mnemonic = "excite vote scare lawsuit doctor depth grid circle domain add census rival";

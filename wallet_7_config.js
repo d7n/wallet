@@ -1,1 +1,1 @@
-var mnemonic = "repeat upset butter lounge warfare hole airport income obey defy cruise praise";
+var mnemonic = "duty pipe bracket fresh party lake clown famous process sketch tragic replace";

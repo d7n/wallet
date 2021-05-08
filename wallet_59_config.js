@@ -1,1 +1,1 @@
-var mnemonic = "tuition tower art razor moral gun trumpet category exhaust broom hazard subway";
+var mnemonic = "candy endorse yard giant minimum lonely actual today injury essay spider north";

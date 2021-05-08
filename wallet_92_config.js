@@ -1,1 +1,1 @@
-var mnemonic = "present whisper glass breeze artefact sound wrong broken glory deal wink offer";
+var mnemonic = "young aunt aerobic soul confirm pigeon stool breeze tent forest wise any";

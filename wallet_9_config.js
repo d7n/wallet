@@ -1,1 +1,1 @@
-var mnemonic = "angry digital horse inherit extend pet wood pet shiver prison cash bachelor";
+var mnemonic = "denial mom arm exile roof solve exact seat hundred casino equal slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "cute guilt accuse coin client carbon fossil link garage myth priority either";
+var mnemonic = "harbor kidney arrange display duck door mandate poet mail library alone corn";

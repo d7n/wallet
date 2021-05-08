@@ -1,1 +1,1 @@
-var mnemonic = "parrot screen before canyon impulse slender office thunder absent elephant jacket alert";
+var mnemonic = "mule blade duty panther chef ketchup what dolphin fever citizen size egg";

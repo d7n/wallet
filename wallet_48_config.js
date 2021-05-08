@@ -1,1 +1,1 @@
-var mnemonic = "combine ozone govern secret myself high speed betray very brand hobby across";
+var mnemonic = "law cross combine reunion forget path become pretty fetch melody detail cry";

@@ -1,1 +1,1 @@
-var mnemonic = "else clip segment goddess crater frog grunt oven eye meat chronic ankle";
+var mnemonic = "tuition whale turtle believe squeeze rookie vehicle cool few tortoise letter paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward amateur else lend gold army stamp slight hire mail pony strike";
+var mnemonic = "curtain desk carbon delay ahead palace vacant gather minute scene dwarf nose";

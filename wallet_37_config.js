@@ -1,1 +1,1 @@
-var mnemonic = "ready credit chronic dial tower teach fall energy pass observe salute duck";
+var mnemonic = "immune economy clay crash name uncover degree odor casino post jar because";

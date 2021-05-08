@@ -1,1 +1,1 @@
-var mnemonic = "broom clarify hold lecture demise resist smooth humble slice syrup middle unfair";
+var mnemonic = "action range east adult effort join manage pull kind marble comic begin";

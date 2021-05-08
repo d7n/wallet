@@ -1,1 +1,1 @@
-var mnemonic = "race spawn acid slide answer border tail surface inhale elite domain wise";
+var mnemonic = "thumb pioneer beach reason liberty coral spot monkey achieve law twin jungle";

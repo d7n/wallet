@@ -1,1 +1,1 @@
-var mnemonic = "guitar clock isolate jump wing rotate spike miracle atom wet express century";
+var mnemonic = "apple old ladder remove pole quote jeans sustain extra doctor execute awake";

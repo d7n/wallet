@@ -1,1 +1,1 @@
-var mnemonic = "ten danger web sting sample recall where decide broccoli depend easy turkey";
+var mnemonic = "brisk casino nuclear recycle purpose opinion tired race night wise sail ensure";

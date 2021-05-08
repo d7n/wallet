@@ -1,1 +1,1 @@
-var mnemonic = "bind symbol evoke aim nephew stuff chef soup public raise column orient";
+var mnemonic = "bunker mistake attract patch wool method nice lens auto loyal crucial south";

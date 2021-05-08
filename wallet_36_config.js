@@ -1,1 +1,1 @@
-var mnemonic = "void match faculty brush derive feel novel ten student sense claw custom";
+var mnemonic = "sand topic old resource net pave twice orient alter raven you around";

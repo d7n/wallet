@@ -1,1 +1,1 @@
-var mnemonic = "total vote topple fluid reveal move company grace solve sketch summer crawl";
+var mnemonic = "swarm slam orchard giggle hub car early bomb wire ranch hover chef";

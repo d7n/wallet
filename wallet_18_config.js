@@ -1,1 +1,1 @@
-var mnemonic = "cover vague cactus galaxy leaf move stage make plate primary board earn";
+var mnemonic = "student basket response mean business meadow regret attack palm crumble rally mountain";

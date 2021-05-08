@@ -1,1 +1,1 @@
-var mnemonic = "change antique road joy intact fit predict mass equip assume offer gaze";
+var mnemonic = "tube intact plunge interest swarm jar blast visual vote crunch recipe sell";

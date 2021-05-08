@@ -1,1 +1,1 @@
-var mnemonic = "journey account project drastic over onion remind hedgehog feature indicate symptom source";
+var mnemonic = "cactus bounce smile veteran embody clever length sound finger liquid shaft rubber";

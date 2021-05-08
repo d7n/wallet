@@ -1,1 +1,1 @@
-var mnemonic = "address laptop ostrich mule soul tenant obtain injury bean impact soon false";
+var mnemonic = "awake ethics differ twin negative student search rely volcano captain trade loan";

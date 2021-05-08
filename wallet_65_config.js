@@ -1,1 +1,1 @@
-var mnemonic = "mystery cotton wheel inspire mix regret inherit artefact remain seat fog crisp";
+var mnemonic = "snap defense maze culture cost wagon blame deputy belt guess crazy eager";

@@ -1,1 +1,1 @@
-var mnemonic = "legend few grace truck other canoe senior recipe advice hamster satoshi globe";
+var mnemonic = "satoshi music orange ranch put fatigue sing craft fantasy lunar love teach";

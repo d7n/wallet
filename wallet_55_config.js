@@ -1,1 +1,1 @@
-var mnemonic = "three seminar eight valve oil wheat rally subway dynamic obey arctic girl";
+var mnemonic = "mandate joke again dizzy admit click sadness exact walk nature parent cute";

@@ -1,1 +1,1 @@
-var mnemonic = "error tumble ripple motor jump priority save chase rude foil canvas divorce";
+var mnemonic = "crawl decide snack social repeat antique effort tuna pudding thank width series";

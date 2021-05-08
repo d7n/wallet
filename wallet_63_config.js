@@ -1,1 +1,1 @@
-var mnemonic = "zoo have creek bind own together wrap good kid pizza volcano want";
+var mnemonic = "welcome nest cluster shine general crucial exclude pact oxygen day people clarify";

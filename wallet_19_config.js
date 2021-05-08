@@ -1,1 +1,1 @@
-var mnemonic = "marine when rebel napkin bread bacon odor route major emotion noodle divorce";
+var mnemonic = "fossil rule more cry brief atom seed stomach resemble crash cave egg";

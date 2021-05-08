@@ -1,1 +1,1 @@
-var mnemonic = "husband record token carbon teach assist sniff remember often final pelican ripple";
+var mnemonic = "same kit wonder order produce shy tiny misery vehicle service hello mind";

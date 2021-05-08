@@ -1,1 +1,1 @@
-var mnemonic = "honey bamboo segment lady nephew biology peanut famous fit exercise grace employ";
+var mnemonic = "business remember please barrel copy absent faculty food video scout cactus satisfy";

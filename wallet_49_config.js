@@ -1,1 +1,1 @@
-var mnemonic = "inner weapon hidden father raise add income quiz blast prevent around pet";
+var mnemonic = "endorse snack picture base uphold collect attitude leopard rent omit toe ability";

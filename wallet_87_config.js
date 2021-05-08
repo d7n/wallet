@@ -1,1 +1,1 @@
-var mnemonic = "shadow trust aerobic sick merry kiss slice budget next sing verb grief";
+var mnemonic = "maple couch child estate apple orphan keep road spray dose scrap fix";

@@ -1,1 +1,1 @@
-var mnemonic = "air clean delay peace weapon flag plastic danger protect settle concert vocal";
+var mnemonic = "coin tiger trumpet velvet lab couple wheel cabin cruise orbit sponsor tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "property match cotton genius real penalty sign utility distance oval item access";
+var mnemonic = "whisper suit slogan crisp safe body peanut negative drip smart squirrel leave";

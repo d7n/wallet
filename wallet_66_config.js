@@ -1,1 +1,1 @@
-var mnemonic = "super ladder pattern broccoli gym kiss smart leopard expose ability limb rocket";
+var mnemonic = "coil text uphold chalk year daughter floor brass jealous need waste once";

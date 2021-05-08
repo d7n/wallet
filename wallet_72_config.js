@@ -1,1 +1,1 @@
-var mnemonic = "argue capital direct slim recipe maximum face avoid balance loan length judge";
+var mnemonic = "awful engine soft access kiss vague captain define daughter ecology rival helmet";

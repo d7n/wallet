@@ -1,1 +1,1 @@
-var mnemonic = "female same wool core rapid two thumb feature system castle dizzy note";
+var mnemonic = "clerk need exchange dirt mask pledge sense boat yard age curious royal";

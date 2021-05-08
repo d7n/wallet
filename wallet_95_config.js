@@ -1,1 +1,1 @@
-var mnemonic = "ring load depart bar panda pen owner blood gasp shy van roof";
+var mnemonic = "capable paddle noise juice divide train trigger when host pen ridge risk";

@@ -1,1 +1,1 @@
-var mnemonic = "drum voice outside evidence area excuse fashion know ripple glue clock always";
+var mnemonic = "that correct can swarm coconut high absent spice public fox pelican put";

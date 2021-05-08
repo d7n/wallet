@@ -1,1 +1,1 @@
-var mnemonic = "error atom below mass filter powder reflect cave theory lobster away clarify";
+var mnemonic = "protect eager wheel width baby pass ecology swear youth screen girl spawn";

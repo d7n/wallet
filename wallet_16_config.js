@@ -1,1 +1,1 @@
-var mnemonic = "dry stool razor elder rifle glass exchange beauty soldier sheriff betray great";
+var mnemonic = "detect kiwi analyst jazz between soft ripple sheriff quote arrive master job";

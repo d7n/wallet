@@ -1,1 +1,1 @@
-var mnemonic = "shed cloud spoon disagree tank urban lumber across dad wrong film author";
+var mnemonic = "trip garment brisk view speak bounce whip neglect situate mention night decide";

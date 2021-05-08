@@ -1,1 +1,1 @@
-var mnemonic = "dismiss icon cricket now east among similar all rose never grass soap";
+var mnemonic = "must quote hunt gift walnut fancy provide bright style witness dial put";

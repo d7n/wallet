@@ -1,1 +1,1 @@
-var mnemonic = "smooth wear polar rude ancient ordinary medal olympic giraffe ethics sauce crucial";
+var mnemonic = "swear lift love swarm zoo feed round know dinner pair taste better";

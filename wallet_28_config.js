@@ -1,1 +1,1 @@
-var mnemonic = "near friend razor radio choice session betray often crunch wasp follow always";
+var mnemonic = "army fetch bench choose lobster nuclear humble prison reject submit ship shock";

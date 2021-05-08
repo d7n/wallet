@@ -1,1 +1,1 @@
-var mnemonic = "copper fit decrease immune laptop avoid cover enrich crystal tuna exercise saddle";
+var mnemonic = "merge author brush surprise pulse update crash walk credit differ eyebrow echo";

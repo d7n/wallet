@@ -1,1 +1,1 @@
-var mnemonic = "depend pumpkin quarter skirt engine that merry over proud purchase able attract";
+var mnemonic = "write laptop easy page forward topple marble flee swing protect juice bind";

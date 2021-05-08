@@ -1,1 +1,1 @@
-var mnemonic = "surround fun process drill pattern swap choose bus prepare clog inflict clever";
+var mnemonic = "deposit drink lamp desk play ginger column awkward lift material salmon clump";

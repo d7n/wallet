@@ -1,1 +1,1 @@
-var mnemonic = "cloth polar town clown foam bracket able hand label ketchup narrow first";
+var mnemonic = "admit february gasp cancel omit demand bind toy corn envelope pigeon usage";
