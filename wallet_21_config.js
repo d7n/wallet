@@ -1,1 +1,1 @@
-var mnemonic = "color disagree liar process depth orphan ostrich squirrel real sure gravity easily";
+var mnemonic = "glove vague junior skin art short wine birth material book original know";

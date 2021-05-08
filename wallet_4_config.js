@@ -1,1 +1,1 @@
-var mnemonic = "muffin once wink stadium range garden run swamp damage defense someone frozen";
+var mnemonic = "obvious park pipe nut strike tunnel pigeon can holiday crucial change move";

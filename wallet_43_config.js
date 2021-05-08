@@ -1,1 +1,1 @@
-var mnemonic = "ginger myth switch laugh shed abuse camp patrol say often pyramid vapor";
+var mnemonic = "seek awkward dance hundred vote object rug evidence wish whisper little range";

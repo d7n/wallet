@@ -1,1 +1,1 @@
-var mnemonic = "potato rapid light upset palm journey broccoli paper leg problem blue hockey";
+var mnemonic = "joke kiwi zebra cement just uncover extra finger dust olympic tiger spin";

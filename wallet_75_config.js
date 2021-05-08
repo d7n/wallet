@@ -1,1 +1,1 @@
-var mnemonic = "ride bacon eternal victory fence turkey aspect toy gas fatal jeans outdoor";
+var mnemonic = "catalog lawsuit despair tiger thunder degree next inherit must unusual artwork sand";

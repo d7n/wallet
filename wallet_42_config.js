@@ -1,1 +1,1 @@
-var mnemonic = "wire ranch opera bamboo boost tiny drip thumb gift unaware chaos soup";
+var mnemonic = "budget rent spatial candy daring wear grit exotic spray route mushroom cost";

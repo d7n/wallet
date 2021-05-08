@@ -1,1 +1,1 @@
-var mnemonic = "wolf furnace magnet symptom matter horse mouse can machine video fly protect";
+var mnemonic = "detect dignity shop acid depend push gift century broom jealous catch stable";

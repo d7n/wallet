@@ -1,1 +1,1 @@
-var mnemonic = "length tool sand donor multiply erode huge dawn provide bus blanket fiction";
+var mnemonic = "fabric blue donor sight issue cannon agree naive upset mention stable muffin";

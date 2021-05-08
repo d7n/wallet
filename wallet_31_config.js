@@ -1,1 +1,1 @@
-var mnemonic = "lady sign ocean verb twice hole unfold system address scrub day soda";
+var mnemonic = "bar myself recipe clerk blue country bag lamp ceiling valve reject borrow";

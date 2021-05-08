@@ -1,1 +1,1 @@
-var mnemonic = "theory panda antenna crew diary alley alert brass tool ramp category urban";
+var mnemonic = "tomorrow switch coach nasty sock virus theory drastic parent destroy also poem";

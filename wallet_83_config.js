@@ -1,1 +1,1 @@
-var mnemonic = "forest trash junk galaxy allow leopard island decorate glory goat struggle solid";
+var mnemonic = "merge fog diesel liberty region beauty post insect detect choose fragile mind";

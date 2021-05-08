@@ -1,1 +1,1 @@
-var mnemonic = "base monster traffic floor snake know evolve cattle trouble meadow mimic equip";
+var mnemonic = "ask cousin nose grace replace dream special hint mammal fall enlist erode";

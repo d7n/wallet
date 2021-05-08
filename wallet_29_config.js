@@ -1,1 +1,1 @@
-var mnemonic = "potato spike initial census mention step subway off rookie oyster leisure spend";
+var mnemonic = "orient analyst load myth income october skull galaxy tone shed priority rough";

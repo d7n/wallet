@@ -1,1 +1,1 @@
-var mnemonic = "ridge vital loud harbor town useful team draw mention manage little inform";
+var mnemonic = "baby viable during tattoo draw relax yellow ceiling surprise pen punch script";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee arrow sound elite excite child vacuum couple jazz skirt much word";
+var mnemonic = "tent wagon oval teach grocery ecology name alpha glory duty admit occur";

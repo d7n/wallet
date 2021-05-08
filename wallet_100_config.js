@@ -1,1 +1,1 @@
-var mnemonic = "skull hat elder still walk impose rely vivid estate cry potato comic";
+var mnemonic = "buddy supply oven eagle online stairs angry boat ridge venue enemy orphan";

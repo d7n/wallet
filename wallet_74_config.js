@@ -1,1 +1,1 @@
-var mnemonic = "wave stuff mean donor motion wall thank style danger lemon gas illness";
+var mnemonic = "conduct good engine defy useful tragic quick century device armed random bike";

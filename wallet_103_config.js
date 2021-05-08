@@ -1,1 +1,1 @@
-var mnemonic = "alarm require illegal mesh fever quit eagle banana february great spend walnut";
+var mnemonic = "matrix valid security rabbit blame body adapt outside gaze venue thunder scene";

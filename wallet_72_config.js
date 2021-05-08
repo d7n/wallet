@@ -1,1 +1,1 @@
-var mnemonic = "energy cactus alter inject token tornado keen cube name orphan survey town";
+var mnemonic = "forum link immense left few fiction swim slice fever adjust island drum";

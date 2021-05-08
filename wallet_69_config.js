@@ -1,1 +1,1 @@
-var mnemonic = "merry tenant dream dinner topple speed comic ordinary grid alone true oven";
+var mnemonic = "squeeze behind oil syrup fox fortune family bronze science torch shrimp exact";

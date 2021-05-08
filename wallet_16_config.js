@@ -1,1 +1,1 @@
-var mnemonic = "recycle section wish erosion engage physical brave program else divert tape rose";
+var mnemonic = "baby sausage ticket album question bench south erode mosquito autumn wrap vehicle";

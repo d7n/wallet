@@ -1,1 +1,1 @@
-var mnemonic = "lottery there scheme egg pill kidney hamster maximum harsh tongue shadow fatigue";
+var mnemonic = "rather pig leaf raven auction age endorse sudden choose tuition again venture";

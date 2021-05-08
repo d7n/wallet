@@ -1,1 +1,1 @@
-var mnemonic = "tomato garlic scare absurd salon flip bag funny state belt early actor";
+var mnemonic = "bus spider trumpet cactus plug ride nasty demise chaos police hover news";

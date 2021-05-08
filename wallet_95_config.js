@@ -1,1 +1,1 @@
-var mnemonic = "panda moral viable baby pupil enhance similar venture visa eye able stone";
+var mnemonic = "income stable ugly motor garbage fence direct cousin song soup play zone";

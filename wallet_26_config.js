@@ -1,1 +1,1 @@
-var mnemonic = "canal piano pledge pioneer trend girl museum exclude merge caution monitor unfold";
+var mnemonic = "because arctic party wine bridge regular rotate question remove curve cupboard seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "clap actress nut crew define harvest small original fashion camp satoshi rookie";
+var mnemonic = "october project color depart modify pitch price economy remove laptop emerge ice";

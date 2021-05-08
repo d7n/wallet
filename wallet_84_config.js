@@ -1,1 +1,1 @@
-var mnemonic = "prosper mountain bunker cupboard slogan swift rule bulb rare area file item";
+var mnemonic = "climb sand dish sniff void husband gossip spoil drip program tourist box";

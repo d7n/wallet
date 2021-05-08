@@ -1,1 +1,1 @@
-var mnemonic = "document afford poet ignore bomb robust depart change devote real mango surprise";
+var mnemonic = "foster cube crack pottery moral boat case submit various left athlete slow";

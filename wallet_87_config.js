@@ -1,1 +1,1 @@
-var mnemonic = "echo vanish gap crush junior deer sword wet deposit scrub zebra dutch";
+var mnemonic = "awkward witness adjust vault pen giggle question wild increase pretty trick journey";

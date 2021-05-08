@@ -1,1 +1,1 @@
-var mnemonic = "frown lock extra oil silk general fade hard abandon transfer grocery suspect";
+var mnemonic = "spider spider absorb north cinnamon jacket isolate spy embrace length broken frame";

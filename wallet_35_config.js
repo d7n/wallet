@@ -1,1 +1,1 @@
-var mnemonic = "flame else visual faculty dilemma attack copy dignity sniff ordinary shock liar";
+var mnemonic = "keen sheriff muscle home spray trial oblige number casino grant badge occur";

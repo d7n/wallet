@@ -1,1 +1,1 @@
-var mnemonic = "agent general wrestle alley light position virtual two call orbit cousin suspect";
+var mnemonic = "athlete draft tourist hockey attract skate truth join stage civil when august";

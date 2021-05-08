@@ -1,1 +1,1 @@
-var mnemonic = "win term that casino chest urban portion shadow stadium broken soccer pill";
+var mnemonic = "fiction funny pencil early draw bright sense fruit knee goat bundle supreme";

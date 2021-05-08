@@ -1,1 +1,1 @@
-var mnemonic = "coin vanish crazy check select beyond gossip merge sail fiscal dismiss response";
+var mnemonic = "goat usual reopen month student lawn hover someone prize female curious umbrella";

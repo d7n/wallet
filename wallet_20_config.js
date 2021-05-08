@@ -1,1 +1,1 @@
-var mnemonic = "gospel expect card video junk express just observe hold sword depth confirm";
+var mnemonic = "aim vital detect poverty electric sign weekend wreck evidence assault grid grass";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct vicious monster small tomorrow dust fork tooth ahead spider pistol expect";
+var mnemonic = "basic auction other soldier pact arctic clump clarify violin rude rain recycle";

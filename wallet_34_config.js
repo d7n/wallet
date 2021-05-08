@@ -1,1 +1,1 @@
-var mnemonic = "myth young search sister birth boy wrestle behind two galaxy human nose";
+var mnemonic = "opera gain winter maple tumble hungry lift arena chalk define outdoor basket";

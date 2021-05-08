@@ -1,1 +1,1 @@
-var mnemonic = "bounce loan stem trend put fluid gentle diamond caught brain manage awkward";
+var mnemonic = "tragic pelican stand desert pencil dutch expect use language stool grit hill";

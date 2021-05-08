@@ -1,1 +1,1 @@
-var mnemonic = "alert deposit tornado diet scare athlete hawk cancel clean mail month found";
+var mnemonic = "orchard promote client avocado utility creek pill gadget avoid cactus organ cabbage";

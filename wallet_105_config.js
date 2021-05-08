@@ -1,1 +1,1 @@
-var mnemonic = "job tired invest veteran garlic oil ability bright guitar market luggage dress";
+var mnemonic = "team stamp double until embark busy delay weird false powder outdoor garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "album mobile blush film cherry senior easy tooth clever column bronze scout";
+var mnemonic = "grain reflect scale scare short man owner either candy frequent mimic neutral";

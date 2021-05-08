@@ -1,1 +1,1 @@
-var mnemonic = "tattoo awful enable oven they clap fog slice apple victory sick object";
+var mnemonic = "list short organ winter amount buyer crystal auto worth off job chronic";

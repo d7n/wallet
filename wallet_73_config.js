@@ -1,1 +1,1 @@
-var mnemonic = "raw cruise unfold knife muffin ramp trap couple aim render asset when";
+var mnemonic = "explain pottery cram again violin fall lizard feed common curious glimpse faint";

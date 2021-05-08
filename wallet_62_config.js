@@ -1,1 +1,1 @@
-var mnemonic = "maze settle local talent alley quick excite impact hill bleak trial tube";
+var mnemonic = "weird fever shoe then thank fever flush wrist reunion range parrot exact";

@@ -1,1 +1,1 @@
-var mnemonic = "sight student person into flower knock crane lion clown dry shoot display";
+var mnemonic = "attend misery rude fox unaware field fiction pretty candy engine submit gentle";

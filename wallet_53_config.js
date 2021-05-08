@@ -1,1 +1,1 @@
-var mnemonic = "apology mushroom umbrella oil bulb turn hobby soup cotton begin horn unveil";
+var mnemonic = "tribe quick wise lemon sure toe enemy need panel outer cradle tornado";

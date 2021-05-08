@@ -1,1 +1,1 @@
-var mnemonic = "choose twist help write truly pill change symptom doll toy area path";
+var mnemonic = "few try sign snow yellow immense wing list include boring toilet mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "subject canyon shallow income thrive edit blind century proof scrub issue width";
+var mnemonic = "promote must observe between sustain net million stable onion tourist track bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth sell patch differ vague razor double quick bulb dance until lake";
+var mnemonic = "build sniff way act spoil avocado post write fever filter oval unhappy";

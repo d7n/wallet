@@ -1,1 +1,1 @@
-var mnemonic = "deal ceiling prize axis height valve salt jump mercy saddle huge bread";
+var mnemonic = "desert pencil scout this lend soon depth warm upper bundle need boost";

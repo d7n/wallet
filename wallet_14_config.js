@@ -1,1 +1,1 @@
-var mnemonic = "tool advance egg loan lyrics before vote hint pull daughter possible useless";
+var mnemonic = "menu shadow figure bind remove dust someone anxiety marine situate scrap shoe";

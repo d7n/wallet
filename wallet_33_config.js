@@ -1,1 +1,1 @@
-var mnemonic = "desk lizard lawn oil ship afraid tower travel hawk airport tower crane";
+var mnemonic = "draft prosper enemy same symptom oval burst merit sound diagram raven beyond";

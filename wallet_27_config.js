@@ -1,1 +1,1 @@
-var mnemonic = "ghost keen antenna try believe jump cheese resist shiver ethics tongue stool";
+var mnemonic = "history cause federal notable grid spy practice evidence purse pony enjoy shuffle";

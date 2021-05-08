@@ -1,1 +1,1 @@
-var mnemonic = "sphere gossip wisdom become wage grunt swing scatter exhaust better hospital chat";
+var mnemonic = "drum relax skirt antenna genius crucial dumb army faith concert decide ripple";

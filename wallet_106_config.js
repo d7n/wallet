@@ -1,1 +1,1 @@
-var mnemonic = "twin educate second rocket example kangaroo olive claw welcome grass try energy";
+var mnemonic = "swarm poverty come coconut impulse office rose puzzle team carry witness jazz";

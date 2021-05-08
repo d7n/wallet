@@ -1,1 +1,1 @@
-var mnemonic = "autumn mammal swarm gift project ranch advice income poverty push card behave";
+var mnemonic = "aware foot valid giggle mail ginger label praise clip inmate portion clean";

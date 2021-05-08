@@ -1,1 +1,1 @@
-var mnemonic = "minute manual scrap strike fold body useful deal put level raw elbow";
+var mnemonic = "hurry return glad surge soul arrow cushion humor blur joy object fee";

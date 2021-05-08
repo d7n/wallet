@@ -1,1 +1,1 @@
-var mnemonic = "brush badge isolate lesson link sort soon mule unit list fossil ladder";
+var mnemonic = "crouch combine country bracket corn ozone door embody globe margin hill mosquito";

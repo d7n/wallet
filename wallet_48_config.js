@@ -1,1 +1,1 @@
-var mnemonic = "dignity army viable order occur weekend same stool stem help journey thrive";
+var mnemonic = "deer tunnel drift vibrant unit orient slide lounge educate absent rifle describe";

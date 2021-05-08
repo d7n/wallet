@@ -1,1 +1,1 @@
-var mnemonic = "business spike involve patient pudding develop leisure foam flee key travel duck";
+var mnemonic = "beauty gym tone civil census tape catalog acid curve toy shock inject";

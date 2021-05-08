@@ -1,1 +1,1 @@
-var mnemonic = "club around stairs history arctic garage shift claim reflect game merge coach";
+var mnemonic = "lava page furnace syrup curve bargain total model mushroom knock volume social";

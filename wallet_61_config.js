@@ -1,1 +1,1 @@
-var mnemonic = "engine chunk wolf duty top follow scrap scheme quote twenty crazy level";
+var mnemonic = "believe party party peanut young round harvest risk lucky theory disagree helmet";

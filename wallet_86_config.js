@@ -1,1 +1,1 @@
-var mnemonic = "fantasy bullet arrange local zone bronze voice call unfair mosquito tool treat";
+var mnemonic = "case income december year tiny pledge force trial agent ripple height cloud";

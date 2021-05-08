@@ -1,1 +1,1 @@
-var mnemonic = "ivory resemble will give notice title milk age bike keen glare inner";
+var mnemonic = "again talk toilet laundry taste double noise bundle live wide stumble ginger";

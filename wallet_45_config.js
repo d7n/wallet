@@ -1,1 +1,1 @@
-var mnemonic = "faint stage noise valid small remind shine razor lake blur enroll sunset";
+var mnemonic = "gallery cave about between face cactus neutral lizard genius spare lizard jacket";

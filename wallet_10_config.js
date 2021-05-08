@@ -1,1 +1,1 @@
-var mnemonic = "tray movie aerobic youth poverty door dove tomorrow dizzy craft swing wall";
+var mnemonic = "oak explain alert auto wheat during treat reject property account trip cave";

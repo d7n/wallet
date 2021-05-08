@@ -1,1 +1,1 @@
-var mnemonic = "motor strategy question laptop cup merge remember ethics decrease odor select impulse";
+var mnemonic = "core mobile install lunar inject ring beyond black public finger hidden off";

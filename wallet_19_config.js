@@ -1,1 +1,1 @@
-var mnemonic = "glory version flavor enlist seek save sign dial material recipe math salmon";
+var mnemonic = "oven often bullet abandon wolf movie lizard ill blind patient trumpet belt";

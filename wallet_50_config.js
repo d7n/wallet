@@ -1,1 +1,1 @@
-var mnemonic = "pencil scale custom cloud input hip antenna grocery season fan thunder glow";
+var mnemonic = "half kick recipe dish mass enough police fat loud rally fog example";

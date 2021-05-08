@@ -1,1 +1,1 @@
-var mnemonic = "silver exchange tourist abandon cake begin carry common fetch cross shine find";
+var mnemonic = "climb enough describe world spare faculty aerobic slight wage rich net initial";

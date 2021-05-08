@@ -1,1 +1,1 @@
-var mnemonic = "fantasy arrive today dwarf amused vast honey reason dinosaur end alarm pumpkin";
+var mnemonic = "artwork moon tenant suspect journey moral visit express smooth penalty snow bunker";

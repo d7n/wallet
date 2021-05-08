@@ -1,1 +1,1 @@
-var mnemonic = "spend paper delay chaos equal dolphin mandate bamboo bench initial property unusual";
+var mnemonic = "debris unveil ask flavor unveil silk plate sword olive arena lounge decorate";

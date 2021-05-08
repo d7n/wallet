@@ -1,1 +1,1 @@
-var mnemonic = "pipe kangaroo flush seed follow bamboo unable fire veteran demise alone course";
+var mnemonic = "toe angle sketch theory width save ready elder stamp collect image erosion";

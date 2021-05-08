@@ -1,1 +1,1 @@
-var mnemonic = "gas wrap ribbon damp stove author region concert couple file devote east";
+var mnemonic = "income twenty control lottery leave waste journey submit nerve disease heavy autumn";

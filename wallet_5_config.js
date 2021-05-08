@@ -1,1 +1,1 @@
-var mnemonic = "shallow coral dentist mother provide audit pipe rubber tip shoot age merit";
+var mnemonic = "legal board exhibit edit spy acquire grunt fitness opinion spike major lottery";

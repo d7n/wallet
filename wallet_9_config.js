@@ -1,1 +1,1 @@
-var mnemonic = "napkin jeans light plunge cabin garbage census reject sword charge animal false";
+var mnemonic = "piece elder office refuse success vessel harsh toward accident reward clean just";

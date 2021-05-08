@@ -1,1 +1,1 @@
-var mnemonic = "carry flat need illegal taxi fit right catch elder alter live cave";
+var mnemonic = "improve crumble repeat pistol more arctic smooth bar bring quote detail giggle";

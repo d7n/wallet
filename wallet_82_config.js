@@ -1,1 +1,1 @@
-var mnemonic = "remain edge build joke spare hurdle regular possible bunker feature ten maid";
+var mnemonic = "analyst sport group render fitness hill puzzle put umbrella casual produce present";

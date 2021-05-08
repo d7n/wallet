@@ -1,1 +1,1 @@
-var mnemonic = "control add hand bachelor rather arena home clock banner move lock jacket";
+var mnemonic = "habit dress rate furnace drive sunset harsh gloom question energy canyon chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "chef fuel resource health describe roof orphan very spring opinion spray ice";
+var mnemonic = "zebra large stable differ stove chief talent promote fee marriage hub tone";

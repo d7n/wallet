@@ -1,1 +1,1 @@
-var mnemonic = "law welcome junior anchor police height great patch embrace hidden ghost frost";
+var mnemonic = "coffee giggle arrive sand major evidence side reform suit sea ghost cry";

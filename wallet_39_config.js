@@ -1,1 +1,1 @@
-var mnemonic = "possible protect defense tennis sure gallery domain attract dose image hood icon";
+var mnemonic = "sure harbor multiply smooth turtle zero age save omit shine spy code";

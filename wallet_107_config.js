@@ -1,1 +1,1 @@
-var mnemonic = "jungle hawk photo lemon tortoise burger fence mixed clip bottom rail error";
+var mnemonic = "bracket shiver isolate reopen lady cabin pluck zone team install pioneer extend";

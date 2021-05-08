@@ -1,1 +1,1 @@
-var mnemonic = "census void test duck muffin author resist right slogan echo year finger";
+var mnemonic = "pattern taste diary twist you bright blossom labor calm bronze runway zoo";

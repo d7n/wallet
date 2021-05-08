@@ -1,1 +1,1 @@
-var mnemonic = "raise april stairs fresh family jelly cute inmate north pigeon burger myth";
+var mnemonic = "sweet eagle patch short script convince derive unaware mutual double onion trumpet";

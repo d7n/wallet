@@ -1,1 +1,1 @@
-var mnemonic = "degree echo virus fee roast idle slender start side wrap endless spice";
+var mnemonic = "doctor round nation faculty bar possible cruise umbrella absorb spawn reflect exact";

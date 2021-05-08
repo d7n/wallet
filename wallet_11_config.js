@@ -1,1 +1,1 @@
-var mnemonic = "net lunch kick faculty summer canoe enforce mistake flip route food wheel";
+var mnemonic = "slow mountain impose autumn then spoil pond history siren cricket swarm casual";

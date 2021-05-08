@@ -1,1 +1,1 @@
-var mnemonic = "iron best lamp exclude person aerobic inflict mixed release globe lab inherit";
+var mnemonic = "music thumb cable village rural donor twist copper inform assist shaft have";

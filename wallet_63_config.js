@@ -1,1 +1,1 @@
-var mnemonic = "guard remove peasant bracket room peasant expose grain border neck correct arrow";
+var mnemonic = "garden worry cat various pave soul midnight dignity kid oak improve talk";

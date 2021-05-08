@@ -1,1 +1,1 @@
-var mnemonic = "crash quit detail toilet mail enrich bullet catalog skate duck dawn devote";
+var mnemonic = "hawk melt chicken move anger blouse improve ginger village night disorder cattle";

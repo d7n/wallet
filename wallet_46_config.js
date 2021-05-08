@@ -1,1 +1,1 @@
-var mnemonic = "hand dinner primary baby mimic scale dance mushroom undo visa wheat silent";
+var mnemonic = "area fire nominee today museum stereo excite mechanic thrive taste hockey tunnel";

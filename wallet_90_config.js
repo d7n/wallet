@@ -1,1 +1,1 @@
-var mnemonic = "economy grid total duck erupt poverty mixed twist volcano deal plug sniff";
+var mnemonic = "muffin knee champion occur history around half tongue advice blanket idle purse";

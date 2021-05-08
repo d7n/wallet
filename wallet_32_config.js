@@ -1,1 +1,1 @@
-var mnemonic = "umbrella onion bean bitter draft horror belt country caught dutch hover own";
+var mnemonic = "peace idle train cool leaf wood aisle rather punch reward like toward";

@@ -1,1 +1,1 @@
-var mnemonic = "wish oppose timber fortune mystery argue favorite wealth rhythm kangaroo until hundred";
+var mnemonic = "fiction devote region audit good another stage reunion alert seven cigar soda";

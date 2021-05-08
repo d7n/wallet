@@ -1,1 +1,1 @@
-var mnemonic = "grant cargo medal open fetch trick twin limb medal enough belt tuition";
+var mnemonic = "dragon minute scatter steak admit disorder today device menu surface clinic festival";

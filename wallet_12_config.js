@@ -1,1 +1,1 @@
-var mnemonic = "burger diesel sun minute laugh gravity fold disorder tongue current hazard shadow";
+var mnemonic = "spray grit lunch knee nut escape task slogan veteran hire horror machine";

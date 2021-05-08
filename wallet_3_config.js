@@ -1,1 +1,1 @@
-var mnemonic = "inherit indicate opera honey labor employ window muffin fashion surround accident culture";
+var mnemonic = "relief year discover door balcony mad loan pulp bundle awesome inspire vote";
