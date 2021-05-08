@@ -1,1 +1,1 @@
-var mnemonic = "cupboard vicious veteran family warm hundred term leaf popular over animal valid";
+var mnemonic = "vintage near seat argue blush burden lonely wave flee lecture episode organ";

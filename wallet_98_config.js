@@ -1,1 +1,1 @@
-var mnemonic = "degree betray eyebrow sound matrix use plastic reform duck dry margin rate";
+var mnemonic = "cereal garbage bomb damp discover girl shove stable royal convince organ pet";

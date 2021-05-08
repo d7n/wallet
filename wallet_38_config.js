@@ -1,1 +1,1 @@
-var mnemonic = "fire kick chronic antenna camera green spell layer grain rotate cotton guilt";
+var mnemonic = "shop receive isolate hole dentist junk hair until owner hundred radio trick";

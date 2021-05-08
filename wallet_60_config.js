@@ -1,1 +1,1 @@
-var mnemonic = "gospel exit embrace lava daughter legal face lesson wet measure laptop change";
+var mnemonic = "milk frequent evidence seat moon camp network ripple piece drum pet cradle";

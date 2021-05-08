@@ -1,1 +1,1 @@
-var mnemonic = "keep crater prepare kingdom usual stage slender explain fly crumble oil pride";
+var mnemonic = "decrease vintage base basket sphere orient media pole nice special census canal";

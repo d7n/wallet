@@ -1,1 +1,1 @@
-var mnemonic = "negative message siren couch oyster whisper ice quick guess squeeze genuine tip";
+var mnemonic = "fever clog atom unable drift auto hospital primary behind abstract aerobic acid";

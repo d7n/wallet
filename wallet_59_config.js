@@ -1,1 +1,1 @@
-var mnemonic = "solve weather art general chronic hurt town limit slight release amateur fall";
+var mnemonic = "empower stumble forest flock room leader laugh fetch often song clip script";

@@ -1,1 +1,1 @@
-var mnemonic = "frog write double cliff spoon neither endorse lock library employ clip pink";
+var mnemonic = "machine pass laptop scrub minor antenna admit assault destroy text final alter";

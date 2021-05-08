@@ -1,1 +1,1 @@
-var mnemonic = "slogan frequent bus metal stage refuse door transfer income organ use lawn";
+var mnemonic = "castle obscure angle armed top lock snap fine abandon present danger subway";

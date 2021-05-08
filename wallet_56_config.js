@@ -1,1 +1,1 @@
-var mnemonic = "sausage end response cross announce scissors report genuine glow daring chunk fluid";
+var mnemonic = "echo promote coil exercise panic destroy worry truth squeeze toward bamboo best";

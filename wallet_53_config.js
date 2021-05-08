@@ -1,1 +1,1 @@
-var mnemonic = "already lumber skull surprise phrase raven casino punch cream once proof timber";
+var mnemonic = "cute tunnel vacuum airport income lunar crumble fatigue dizzy aisle federal song";

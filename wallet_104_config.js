@@ -1,1 +1,1 @@
-var mnemonic = "topic dinner quantum popular zebra glue danger awful equal worry parent digital";
+var mnemonic = "team elder mom bulk cute hidden scare item mixture bind argue news";

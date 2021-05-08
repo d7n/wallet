@@ -1,1 +1,1 @@
-var mnemonic = "hen again woman eight dog number shine snow prepare blade cart brown";
+var mnemonic = "ancient release kitchen output nut over cheap delay patch steel dentist brother";

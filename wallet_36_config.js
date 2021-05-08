@@ -1,1 +1,1 @@
-var mnemonic = "cushion embark bronze practice flat shiver brick blouse exhibit seven behind demise";
+var mnemonic = "field dumb long tide balcony merit arm attitude buyer true raccoon swamp";

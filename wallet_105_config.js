@@ -1,1 +1,1 @@
-var mnemonic = "odor barrel appear other useless enact turn topic cancel jaguar guilt panther";
+var mnemonic = "bench one rigid illegal assume head rocket cloth hood kid mean pepper";

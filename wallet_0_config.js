@@ -1,1 +1,1 @@
-var mnemonic = "yard dwarf dynamic sense vague this tube ribbon outside then outdoor gun";
+var mnemonic = "spoil planet relief resemble inform burst magic click forget upper key evidence";

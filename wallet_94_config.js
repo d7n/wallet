@@ -1,1 +1,1 @@
-var mnemonic = "gentle process elegant finger favorite bar foil ribbon ketchup moon envelope glory";
+var mnemonic = "spike blind gun public wonder boss toe useful stove trick recall tired";

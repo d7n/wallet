@@ -1,1 +1,1 @@
-var mnemonic = "ripple pear air stumble floor ritual elephant chair empower athlete suit kick";
+var mnemonic = "veteran casual lyrics lamp silver industry patrol come ten doll shoulder cereal";

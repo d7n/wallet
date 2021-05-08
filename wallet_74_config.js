@@ -1,1 +1,1 @@
-var mnemonic = "forest nothing share body rare small clerk couch math citizen august hand";
+var mnemonic = "net mystery dentist gravity speak bicycle hospital leaf swap peanut now ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain hobby amateur bread weird slam busy notable pilot vivid seminar tide";
+var mnemonic = "solar awesome news increase oppose cart state barely head mind allow girl";

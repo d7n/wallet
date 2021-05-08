@@ -1,1 +1,1 @@
-var mnemonic = "skin require crumble transfer enhance corn embody random frozen stay mean judge";
+var mnemonic = "end edit town siege matter leaf cactus chapter bid cabbage note orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "raw luxury code orient cement hope walnut private junior sugar grief ignore";
+var mnemonic = "word gospel hand online peace mention cloud rely apple describe cabin orchard";

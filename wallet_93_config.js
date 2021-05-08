@@ -1,1 +1,1 @@
-var mnemonic = "mule write amateur exotic flavor joy rib mobile alarm apology adult fashion";
+var mnemonic = "duty title canyon rose ladder turtle ladder rough discover seat elbow glad";

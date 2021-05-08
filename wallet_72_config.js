@@ -1,1 +1,1 @@
-var mnemonic = "napkin cloud prevent fever police thing write acid labor wait photo neglect";
+var mnemonic = "govern save swarm lift need tell margin burden more build state exotic";

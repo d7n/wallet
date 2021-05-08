@@ -1,1 +1,1 @@
-var mnemonic = "laptop grab churn soap canoe coin essay run wing alone shove diesel";
+var mnemonic = "clerk please roof defy reflect that exclude eternal infant place tortoise output";

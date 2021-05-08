@@ -1,1 +1,1 @@
-var mnemonic = "perfect emotion palace weapon comfort web weapon logic super acoustic clip material";
+var mnemonic = "express mystery embark cinnamon blur grape hamster habit great concert small code";

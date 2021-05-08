@@ -1,1 +1,1 @@
-var mnemonic = "soon bird endorse sing card crush alert pill exotic sense warm solar";
+var mnemonic = "mercy dwarf rug crack original brother light step witness harvest someone ozone";

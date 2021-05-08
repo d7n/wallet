@@ -1,1 +1,1 @@
-var mnemonic = "stand air then place garden sign gauge bubble network brush recipe retreat";
+var mnemonic = "idea obscure drastic cube chimney consider absorb there submit vicious since drum";

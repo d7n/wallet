@@ -1,1 +1,1 @@
-var mnemonic = "success just such brisk option debate sea emotion forget novel video rocket";
+var mnemonic = "bonus iron army uncover unique like wing fire craft cruel surround vast";

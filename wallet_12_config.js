@@ -1,1 +1,1 @@
-var mnemonic = "budget device bridge garden hub okay letter renew glove pause win inmate";
+var mnemonic = "spray mango box clap draft trip eye echo crater deal long myself";

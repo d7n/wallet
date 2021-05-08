@@ -1,1 +1,1 @@
-var mnemonic = "fringe smart bridge estate casino radio frost success maze radio boring giggle";
+var mnemonic = "control picnic illness neck hair awkward long quote judge object proud cover";

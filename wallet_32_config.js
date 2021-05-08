@@ -1,1 +1,1 @@
-var mnemonic = "duty fan rapid basic potato favorite motor assume couple obscure liar country";
+var mnemonic = "kit shiver begin torch attract palm list language mad chunk cabbage pipe";

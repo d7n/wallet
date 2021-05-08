@@ -1,1 +1,1 @@
-var mnemonic = "harbor stem armed scissors permit choose unknown penalty cigar high number save";
+var mnemonic = "bracket flip manual embark menu stuff hungry crane myself between sure guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli used kiss forum render stuff immense enhance about direct casino race";
+var mnemonic = "despair absorb vicious hire develop anchor food poem talk alien fantasy hero";

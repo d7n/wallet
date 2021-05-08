@@ -1,1 +1,1 @@
-var mnemonic = "teach math surprise priority rail gown own alone celery connect dawn ritual";
+var mnemonic = "topple knee renew make lend million impose suffer grunt feature garlic differ";

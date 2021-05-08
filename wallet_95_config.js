@@ -1,1 +1,1 @@
-var mnemonic = "result fat habit inmate gym speak sing beyond bless marine wing blossom";
+var mnemonic = "blouse viable finger liquid secret power design bubble follow topic hire axis";

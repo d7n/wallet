@@ -1,1 +1,1 @@
-var mnemonic = "reward lock kangaroo tragic sadness almost possible drastic gain hint limb poem";
+var mnemonic = "soap alley draft velvet cute leaf dignity near fiscal rent dune rebel";

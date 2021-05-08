@@ -1,1 +1,1 @@
-var mnemonic = "box coil expose intact cave area pattern scrap above liquid normal daughter";
+var mnemonic = "palace weapon boat riot supply talent blue upgrade muscle high phone fantasy";

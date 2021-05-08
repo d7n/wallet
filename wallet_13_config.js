@@ -1,1 +1,1 @@
-var mnemonic = "brave utility flame category dial segment patrol casual caution involve around update";
+var mnemonic = "tribe holiday barely kiwi subject silk repeat shop immense brick balance census";

@@ -1,1 +1,1 @@
-var mnemonic = "agent check giant parade original flock scissors mobile few camera version hard";
+var mnemonic = "judge drop client excess audit night casino cruise bridge minimum essence budget";

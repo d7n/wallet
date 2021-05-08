@@ -1,1 +1,1 @@
-var mnemonic = "neither key attend seminar trophy cousin fence shaft biology purchase nuclear market";
+var mnemonic = "reject roof mango dose silent weather hammer decline skin group exit jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "hire gaze water timber bitter put oppose fly trouble space young feel";
+var mnemonic = "mouse move stay wrap praise pumpkin chuckle feed wing awesome real hotel";

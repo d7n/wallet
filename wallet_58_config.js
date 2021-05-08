@@ -1,1 +1,1 @@
-var mnemonic = "dial tissue bamboo dentist mountain north autumn just jealous own spread guess";
+var mnemonic = "embrace vault logic sudden broken review eagle unveil sail hair tip scissors";

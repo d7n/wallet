@@ -1,1 +1,1 @@
-var mnemonic = "bone whisper reduce practice disagree erode truth fury ostrich enrich member wheat";
+var mnemonic = "runway mango brain snow brisk people rate grow define minute dice disagree";

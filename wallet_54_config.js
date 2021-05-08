@@ -1,1 +1,1 @@
-var mnemonic = "abandon quick expand silent smooth busy inhale coyote garage switch entry athlete";
+var mnemonic = "melt require exile sport lawn shell find eye tide delay upper congress";

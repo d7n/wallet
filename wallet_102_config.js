@@ -1,1 +1,1 @@
-var mnemonic = "universe odor quality evoke wall speak embody tobacco moment rough dizzy disease";
+var mnemonic = "tiger burden theory orphan negative slender question junk material vessel disagree float";

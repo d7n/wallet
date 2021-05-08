@@ -1,1 +1,1 @@
-var mnemonic = "chalk trigger fence offer pole keep mixed enter doctor water near birth";
+var mnemonic = "staff broom grape fiber leader mask holiday corn fat two when present";

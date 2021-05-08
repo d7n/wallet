@@ -1,1 +1,1 @@
-var mnemonic = "acquire scheme situate conduct asthma pumpkin lock remain skill bracket love diagram";
+var mnemonic = "solution element civil town evolve chicken latin flee bulb cry knock welcome";

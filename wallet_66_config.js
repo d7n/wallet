@@ -1,1 +1,1 @@
-var mnemonic = "hat grace snow agent scare surprise humor pill horse help shoot swarm";
+var mnemonic = "pen stage desert fire text pioneer identify pigeon become mistake trash wheat";

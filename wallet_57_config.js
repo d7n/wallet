@@ -1,1 +1,1 @@
-var mnemonic = "topple that manage cave skill car logic grace final void that imitate";
+var mnemonic = "begin hen siren jump laptop puzzle rude bracket diet curve arrange duck";

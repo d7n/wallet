@@ -1,1 +1,1 @@
-var mnemonic = "win kiwi end grab insect seven amount stage allow nuclear empty combine";
+var mnemonic = "exercise verb paddle screen summer shrimp answer vast mass timber emerge arrow";

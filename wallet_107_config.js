@@ -1,1 +1,1 @@
-var mnemonic = "dumb laugh layer tattoo alarm conduct innocent lecture shield venue bag bunker";
+var mnemonic = "include forum shield envelope nominee shrug photo retreat provide seek syrup sample";

@@ -1,1 +1,1 @@
-var mnemonic = "surface talk spread nature bonus wild bright cash clever ripple proof collect";
+var mnemonic = "box pond now sudden stuff width orient speed fiction quit muffin brush";

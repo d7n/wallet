@@ -1,1 +1,1 @@
-var mnemonic = "flat valve shallow invest alien dwarf clean debris photo into immune salad";
+var mnemonic = "there obtain combine sphere air gap quit wedding pulp misery inform gossip";

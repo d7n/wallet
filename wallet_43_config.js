@@ -1,1 +1,1 @@
-var mnemonic = "chuckle congress giraffe bless spread patient offer announce letter initial eagle level";
+var mnemonic = "express rookie vocal account faint rookie slow solve taxi priority position work";

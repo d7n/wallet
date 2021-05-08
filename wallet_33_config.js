@@ -1,1 +1,1 @@
-var mnemonic = "rack whale local supply sketch guilt baby canyon owner cherry sport worry";
+var mnemonic = "expand object fitness unlock burden lunar ostrich task merry seminar satisfy plug";

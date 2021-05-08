@@ -1,1 +1,1 @@
-var mnemonic = "baby gorilla cactus tiger distance settle token harvest express follow sting siren";
+var mnemonic = "toe flush broom fall assist awake lazy version vessel citizen equip brave";

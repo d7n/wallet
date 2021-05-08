@@ -1,1 +1,1 @@
-var mnemonic = "track proud session turkey name memory someone snack spell transfer main album";
+var mnemonic = "strike cheap leopard usage scissors critic dinosaur tape tooth ranch become donate";

@@ -1,1 +1,1 @@
-var mnemonic = "demise snap february possible taxi twist boring column exercise mixture crack vessel";
+var mnemonic = "cat mountain trumpet room rare sausage glide drink honey seminar fault layer";

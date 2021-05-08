@@ -1,1 +1,1 @@
-var mnemonic = "casino involve alter record violin junior anger crash smile fall regret okay";
+var mnemonic = "exact verb all iron fly isolate poet ethics kitchen scale ticket correct";

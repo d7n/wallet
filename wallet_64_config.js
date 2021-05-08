@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon erupt doctor glance barely audit stem tortoise lawn solution divorce shy";
+var mnemonic = "solve vivid slot oblige rhythm extend flush actress flee suit rate fever";

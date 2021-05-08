@@ -1,1 +1,1 @@
-var mnemonic = "size update cash north muscle camera will wrist dinosaur excess supreme clever";
+var mnemonic = "thunder differ rely garlic ecology solid shy crop misery trash report talk";

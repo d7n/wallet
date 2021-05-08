@@ -1,1 +1,1 @@
-var mnemonic = "brick tooth similar slice derive address cannon impact else beyond hood minimum";
+var mnemonic = "twin mother flip click forest patient used unfair brick solution area claim";

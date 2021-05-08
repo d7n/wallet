@@ -1,1 +1,1 @@
-var mnemonic = "target enhance either jeans flower diamond display nephew begin armed drama ridge";
+var mnemonic = "gauge twice village reject drive enlist cupboard uniform artwork target bone tone";

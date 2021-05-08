@@ -1,1 +1,1 @@
-var mnemonic = "quality report laugh matrix amazing venue tank museum bag this release wagon";
+var mnemonic = "cabbage random peace advice sense twelve smooth media notable vote snake price";

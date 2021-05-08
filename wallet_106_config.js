@@ -1,1 +1,1 @@
-var mnemonic = "display gloom income plate pepper horse trophy oxygen describe artist minute chest";
+var mnemonic = "nuclear demise mother ghost coil rebuild shop mind action palm unaware adult";

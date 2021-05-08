@@ -1,1 +1,1 @@
-var mnemonic = "collect theory yellow invest fruit slogan upper glad boss entry phrase drum";
+var mnemonic = "leave achieve van rebel exclude drop gesture feel rug total smart six";

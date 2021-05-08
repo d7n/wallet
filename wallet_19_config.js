@@ -1,1 +1,1 @@
-var mnemonic = "tray tenant adapt injury analyst hard elephant embark enhance twin make famous";
+var mnemonic = "chest soul prison caught finish profit danger impact slot dawn high vacant";

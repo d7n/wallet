@@ -1,1 +1,1 @@
-var mnemonic = "cigar solve track chalk clog giraffe pledge rescue balance circle napkin school";
+var mnemonic = "pulp forget denial near say sting umbrella donor teach inch riot bread";

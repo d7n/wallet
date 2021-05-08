@@ -1,1 +1,1 @@
-var mnemonic = "lunch witness oak planet prevent bottom imitate tail model hover core crop";
+var mnemonic = "frog tortoise pioneer figure invest eye ten prize resource about opera will";

@@ -1,1 +1,1 @@
-var mnemonic = "river renew until paper supreme diesel lonely since live plunge creek pupil";
+var mnemonic = "index random trophy position drum negative clever tissue poem pledge ghost island";

@@ -1,1 +1,1 @@
-var mnemonic = "apart library matter hover column scatter heavy lawn taxi skill budget magnet";
+var mnemonic = "join noodle earth tired huge future rigid job shine dash reason never";

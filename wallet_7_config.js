@@ -1,1 +1,1 @@
-var mnemonic = "charge explain correct alpha avocado gift twice wagon mail match huge record";
+var mnemonic = "course duck vocal salmon bird winner trust vessel diagram offer luggage comic";

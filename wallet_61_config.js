@@ -1,1 +1,1 @@
-var mnemonic = "grain regular oven response siren phrase member burger prefer glow half shrimp";
+var mnemonic = "bonus rail car reward tissue proof calm bullet noise extend whisper winter";

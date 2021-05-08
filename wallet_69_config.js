@@ -1,1 +1,1 @@
-var mnemonic = "knock goddess right olive crime rather swear defy seek conduct hard swarm";
+var mnemonic = "feel olympic script gesture purse way burger plastic moral note token wedding";

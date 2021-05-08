@@ -1,1 +1,1 @@
-var mnemonic = "bulb argue side butter industry neck soup aspect flower dutch cup equal";
+var mnemonic = "ask quantum lamp head panic section demand evil frequent magnet allow phrase";

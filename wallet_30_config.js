@@ -1,1 +1,1 @@
-var mnemonic = "mosquito length decline task blur kid book auto garbage orchard audit call";
+var mnemonic = "runway please prison keen horror episode organ convince capable cereal usual olympic";

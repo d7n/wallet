@@ -1,1 +1,1 @@
-var mnemonic = "harbor solid south gorilla rule shy advance uncle jump situate trophy frozen";
+var mnemonic = "dress cave slice garage belt tackle aunt shield rebel sausage industry quarter";

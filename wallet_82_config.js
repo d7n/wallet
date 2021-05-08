@@ -1,1 +1,1 @@
-var mnemonic = "salute myth rose nice boy song toy bitter opera find beef choice";
+var mnemonic = "claw notable scan admit salt second strong plastic shrug lady pride neither";

@@ -1,1 +1,1 @@
-var mnemonic = "opera shell around bean elegant strike urge mushroom broom auction large amused";
+var mnemonic = "tissue uncover honey affair oxygen over chef easily spike when prosper sand";

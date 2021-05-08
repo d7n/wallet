@@ -1,1 +1,1 @@
-var mnemonic = "sick title cheese hybrid whip luxury system carbon tilt clever bleak ship";
+var mnemonic = "rotate oxygen into admit invite limit caught employ income denial ladder rhythm";

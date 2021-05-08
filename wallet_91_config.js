@@ -1,1 +1,1 @@
-var mnemonic = "control soul duty toast alcohol avoid agent mandate floor silk gym resemble";
+var mnemonic = "position bonus soul runway sentence nothing fluid recipe boss cloud vote fine";

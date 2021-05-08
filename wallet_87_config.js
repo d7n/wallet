@@ -1,1 +1,1 @@
-var mnemonic = "pony number secret laptop heavy limb indicate waste blouse people misery moral";
+var mnemonic = "mimic paper labor scheme rookie bike place now album attend ranch lumber";

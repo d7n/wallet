@@ -1,1 +1,1 @@
-var mnemonic = "lift silver icon cousin flame time prevent apple thought final audit people";
+var mnemonic = "lucky install casual vicious artefact boat certain fever velvet horse again loud";

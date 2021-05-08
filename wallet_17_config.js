@@ -1,1 +1,1 @@
-var mnemonic = "gospel drink crack extend pencil inject region ocean soup idle hobby trouble";
+var mnemonic = "crawl donate cage satoshi box brick success axis inform dwarf burst similar";

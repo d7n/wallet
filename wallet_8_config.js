@@ -1,1 +1,1 @@
-var mnemonic = "cancel imitate wheat mandate saddle coyote alley cabin canoe torch pipe sign";
+var mnemonic = "vehicle tilt century sail symbol ill width leisure derive loop state wall";

@@ -1,1 +1,1 @@
-var mnemonic = "junk cute time traffic wrap bean fresh right congress behave citizen pledge";
+var mnemonic = "wave decrease boy naive boy spoil small multiply vendor vast letter skull";

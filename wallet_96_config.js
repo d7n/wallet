@@ -1,1 +1,1 @@
-var mnemonic = "repair have hood mirror sauce broken conduct planet math write leave weekend";
+var mnemonic = "vacuum behave pistol require dog observe scorpion human park hero regular side";

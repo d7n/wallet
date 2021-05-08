@@ -1,1 +1,1 @@
-var mnemonic = "morning salmon island true ghost sibling ripple start session sleep eyebrow green";
+var mnemonic = "help glue carry wrap mix lemon segment frost double drill busy siren";

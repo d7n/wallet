@@ -1,1 +1,1 @@
-var mnemonic = "ankle acid young sell shield depth tide crawl stereo buyer combine media";
+var mnemonic = "green source member save hire citizen shrimp into category fringe cross pelican";

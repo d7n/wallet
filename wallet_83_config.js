@@ -1,1 +1,1 @@
-var mnemonic = "vapor frozen pioneer panther cargo advance barely poet match day wear spread";
+var mnemonic = "example pole affair town diamond pudding step slam breeze left birth purity";
