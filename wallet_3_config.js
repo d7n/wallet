@@ -1,1 +1,1 @@
-var mnemonic = "comfort worth short pave morning advance leisure cart toddler nation exercise hundred";
+var mnemonic = "grace weasel exotic unknown husband seven arena fault solution squeeze grab century";

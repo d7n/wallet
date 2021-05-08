@@ -1,1 +1,1 @@
-var mnemonic = "tomato spoil brave swift snap square web box present found salt cement";
+var mnemonic = "basic display casino disorder ghost mystery truly dust check dice little gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion chronic capable unknown idle output salad gas ensure middle reform under";
+var mnemonic = "voyage frozen blanket attitude siege hobby side federal wife exist slot tool";

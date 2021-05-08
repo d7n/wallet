@@ -1,1 +1,1 @@
-var mnemonic = "dream load rookie place asthma noodle multiply salon infant exhaust any public";
+var mnemonic = "tray cover frame worry fall horror fire yard pencil sword fine palace";

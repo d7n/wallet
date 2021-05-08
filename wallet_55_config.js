@@ -1,1 +1,1 @@
-var mnemonic = "fall arrest hello latin wasp capable immense execute fragile anchor surprise bronze";
+var mnemonic = "crawl onion pave relax remind solve recall woman ability distance have lab";

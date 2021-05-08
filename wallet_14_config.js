@@ -1,1 +1,1 @@
-var mnemonic = "romance frozen bike found share slide sort cancel effort rug master destroy";
+var mnemonic = "system task just client coconut zoo honey planet blanket dolphin adjust almost";

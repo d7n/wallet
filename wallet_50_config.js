@@ -1,1 +1,1 @@
-var mnemonic = "tired reunion oblige salt kingdom fantasy palace opinion coin tell memory private";
+var mnemonic = "spike burst mom stadium actor collect faculty panda era drum sad sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist exercise amused fade diamond payment steak stereo lunar modify nice life";
+var mnemonic = "comic resist cattle culture picture betray jaguar balcony right label special rebuild";

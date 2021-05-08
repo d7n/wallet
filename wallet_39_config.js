@@ -1,1 +1,1 @@
-var mnemonic = "neither protect chalk title leaf panic morning muffin tooth setup hockey slam";
+var mnemonic = "loan misery poet hint cupboard purity reduce nice trumpet level believe walk";

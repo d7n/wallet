@@ -1,1 +1,1 @@
-var mnemonic = "soul enough target tool egg convince flower open desk sorry robust swear";
+var mnemonic = "orient picnic frost broccoli employ gap race taxi rural tragic visual edge";

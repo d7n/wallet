@@ -1,1 +1,1 @@
-var mnemonic = "dress true depart chunk inspire tomato invite welcome rug minimum west sustain";
+var mnemonic = "this kiwi inner belt glance hunt casino fish sail reform oblige promote";

@@ -1,1 +1,1 @@
-var mnemonic = "juice soup draft dust team sadness menu flip airport congress fox wage";
+var mnemonic = "process cheap hood parent weekend initial allow lemon tent brother sport cage";

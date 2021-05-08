@@ -1,1 +1,1 @@
-var mnemonic = "cloth yellow scan layer luggage very avoid garage robot more airport rely";
+var mnemonic = "spatial update frequent baby avocado crisp major humor kangaroo valve glide roof";

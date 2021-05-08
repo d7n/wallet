@@ -1,1 +1,1 @@
-var mnemonic = "walnut wool current way render angle pencil truly chuckle kingdom able vacant";
+var mnemonic = "main survey diagram enable risk tunnel ship poverty credit dragon venture hint";

@@ -1,1 +1,1 @@
-var mnemonic = "item worth scene aerobic machine master replace chaos style response member salute";
+var mnemonic = "scrap moon bundle immune common armor frame enact awesome cement close swing";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary quantum cave burst they opera panic peace ice track index swarm";
+var mnemonic = "immense gather talk canvas state action detect velvet weasel certain easy venue";

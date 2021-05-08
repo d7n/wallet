@@ -1,1 +1,1 @@
-var mnemonic = "mobile crop people soul often enough invest multiply poet gloom long appear";
+var mnemonic = "mountain debate goose party lumber rule isolate mango logic leave output border";

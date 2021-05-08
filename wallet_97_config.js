@@ -1,1 +1,1 @@
-var mnemonic = "fire process craft cradle novel random favorite near radio peanut bleak cost";
+var mnemonic = "please inherit endorse paper gossip solution general sadness leisure brass recycle menu";

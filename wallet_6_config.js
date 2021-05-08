@@ -1,1 +1,1 @@
-var mnemonic = "capable market scare coach drop cruel father taste gravity craft supreme humor";
+var mnemonic = "urban split shy defy hobby waste sting depend canal custom edit jacket";

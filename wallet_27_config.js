@@ -1,1 +1,1 @@
-var mnemonic = "outside machine imitate merge fly magnet first industry copy shadow anger employ";
+var mnemonic = "federal truth traffic flat pool nasty recall finish brass broccoli depend industry";

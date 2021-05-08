@@ -1,1 +1,1 @@
-var mnemonic = "absent absurd attract spoon prefer crawl swarm crew bunker able unusual talent";
+var mnemonic = "museum turtle tooth rent acquire extra bike essay rain wheat food end";

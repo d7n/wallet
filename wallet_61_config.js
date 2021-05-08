@@ -1,1 +1,1 @@
-var mnemonic = "tower lobster mango toe reveal that print young scrap system hedgehog able";
+var mnemonic = "negative settle base radar quiz vicious assault chef mom strike escape early";

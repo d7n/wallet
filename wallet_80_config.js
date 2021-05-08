@@ -1,1 +1,1 @@
-var mnemonic = "mistake father afraid various ahead they frog clever small nice detect fury";
+var mnemonic = "toy bonus typical have wear skull awake diary style knee episode learn";

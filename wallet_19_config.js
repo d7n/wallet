@@ -1,1 +1,1 @@
-var mnemonic = "gorilla call spy benefit rich rice illness submit shed balcony satoshi seed";
+var mnemonic = "motor perfect will tragic joy meadow juice tent banana tiger trash derive";

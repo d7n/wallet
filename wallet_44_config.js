@@ -1,1 +1,1 @@
-var mnemonic = "runway conduct trap enlist obvious volcano boy glow nephew deer city pen";
+var mnemonic = "senior chuckle virtual spoon they farm deputy attend spatial noodle valid icon";

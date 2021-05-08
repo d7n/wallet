@@ -1,1 +1,1 @@
-var mnemonic = "world water achieve matrix shrug zone drama chest chaos rely warm cool";
+var mnemonic = "clog fragile trim action sample enforce parade brave drip sketch athlete play";

@@ -1,1 +1,1 @@
-var mnemonic = "later scrap suggest inquiry review remove submit jar neither aim dry dog";
+var mnemonic = "father receive maid magic nurse purchase accident turtle glad paddle crumble lawsuit";

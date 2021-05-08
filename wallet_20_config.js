@@ -1,1 +1,1 @@
-var mnemonic = "cereal left common page brain short almost local atom scout mountain strike";
+var mnemonic = "rice worth hammer lemon guitar hamster wood pizza essence century actress verify";

@@ -1,1 +1,1 @@
-var mnemonic = "alter author claim help dial loud tone buyer pill valid trust foil";
+var mnemonic = "quote man table elephant bunker fitness orphan advice kingdom monkey tomato butter";

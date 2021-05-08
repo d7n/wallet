@@ -1,1 +1,1 @@
-var mnemonic = "shoe faith donor meat social lesson thrive ball senior result labor spice";
+var mnemonic = "fly patient bubble witness rough zoo toe retreat economy alien cheese high";

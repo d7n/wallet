@@ -1,1 +1,1 @@
-var mnemonic = "level disagree bubble rug spend egg rabbit grant ozone provide involve drink";
+var mnemonic = "lesson zone build pill vintage easily cross educate order disorder stem history";

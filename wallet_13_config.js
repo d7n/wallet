@@ -1,1 +1,1 @@
-var mnemonic = "cradle current couple bench shock home catch gather help material three web";
+var mnemonic = "awesome breeze nest grace salad acid crowd bullet sand beauty disorder clutch";

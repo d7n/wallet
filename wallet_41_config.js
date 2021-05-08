@@ -1,1 +1,1 @@
-var mnemonic = "impulse space direct inject rapid hen autumn duck reform cart rapid hero";
+var mnemonic = "catalog merit brief price movie flat damp food educate shock wise garment";

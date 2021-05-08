@@ -1,1 +1,1 @@
-var mnemonic = "way dune short balcony shop answer pig adapt luggage produce song what";
+var mnemonic = "glance brand gentle champion monkey pear flower ridge pass remove during water";

@@ -1,1 +1,1 @@
-var mnemonic = "canal person annual rare inner cushion bitter noodle share aware sand brain";
+var mnemonic = "crop hollow song sign umbrella conduct ranch zebra industry shine clock tooth";

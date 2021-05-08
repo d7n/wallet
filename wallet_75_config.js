@@ -1,1 +1,1 @@
-var mnemonic = "cousin enemy trouble educate churn outer divert enlist blame action toward acoustic";
+var mnemonic = "dumb planet choice elite vote matter tragic rapid entry napkin weasel job";

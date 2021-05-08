@@ -1,1 +1,1 @@
-var mnemonic = "sick fabric forum zebra actual two proud brush bomb royal couple dutch";
+var mnemonic = "amazing nose rain sudden spoil nut worry rule strike stock bomb trend";

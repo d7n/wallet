@@ -1,1 +1,1 @@
-var mnemonic = "nuclear agent obtain calm kitchen vintage height minor grow harbor attitude census";
+var mnemonic = "lonely bid section buzz tribe ridge never swift expire lucky shop cruel";

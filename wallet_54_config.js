@@ -1,1 +1,1 @@
-var mnemonic = "surround order garlic basic goddess genre resist electric appear basket lawn industry";
+var mnemonic = "fresh flat remove horse slab lift float awful addict permit capable book";

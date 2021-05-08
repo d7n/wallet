@@ -1,1 +1,1 @@
-var mnemonic = "field elite remember warrior devote write change vanish alpha muffin learn quick";
+var mnemonic = "dawn alien amazing such february spirit item narrow replace tunnel moral elite";

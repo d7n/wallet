@@ -1,1 +1,1 @@
-var mnemonic = "spread chaos pelican tilt bleak fat sustain earn cage accuse wool annual";
+var mnemonic = "truth include sudden differ pencil favorite village two ocean machine very bring";

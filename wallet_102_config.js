@@ -1,1 +1,1 @@
-var mnemonic = "goddess over walnut fiscal pyramid middle science lake furnace course offer crisp";
+var mnemonic = "loud story sure ripple galaxy patch spike liar canvas edge call find";

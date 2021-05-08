@@ -1,1 +1,1 @@
-var mnemonic = "will shed angle action corn film clever hawk sword jelly attract picnic";
+var mnemonic = "soft order title potato youth hover library aspect celery coach shallow brave";

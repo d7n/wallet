@@ -1,1 +1,1 @@
-var mnemonic = "repeat nominee mimic talk define into shuffle marble potato kitchen sail current";
+var mnemonic = "mail tongue recycle empty forward giraffe gate vacant absorb detail because myth";

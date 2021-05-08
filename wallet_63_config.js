@@ -1,1 +1,1 @@
-var mnemonic = "fan couch sunset imitate sock fury carpet bus dream brother hint wise";
+var mnemonic = "talent almost pair coyote lab undo mansion asthma settle utility father embrace";

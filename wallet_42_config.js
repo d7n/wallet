@@ -1,1 +1,1 @@
-var mnemonic = "couple radar conduct scheme birth cousin chief simple predict marine nurse electric";
+var mnemonic = "assist expose ill question tell spin wolf isolate rescue choose arrange pulse";

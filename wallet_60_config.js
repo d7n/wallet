@@ -1,1 +1,1 @@
-var mnemonic = "other opinion before extra jewel bless dwarf insane laptop where appear weird";
+var mnemonic = "dust notable turtle end universe text coil cattle hire auto grow almost";

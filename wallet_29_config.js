@@ -1,1 +1,1 @@
-var mnemonic = "piano galaxy planet pipe gift marine fossil hire fantasy cinnamon mail agent";
+var mnemonic = "cluster now twist better festival render various crush clean right this help";

@@ -1,1 +1,1 @@
-var mnemonic = "gain blind denial bamboo become type degree amazing town window weather final";
+var mnemonic = "tourist outside boss situate army twelve base junk art faint depth peanut";

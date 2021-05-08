@@ -1,1 +1,1 @@
-var mnemonic = "width sugar behave leaf upgrade quit check ill table shoot margin credit";
+var mnemonic = "tissue marriage song design cheese catalog reveal glue enhance umbrella high lyrics";

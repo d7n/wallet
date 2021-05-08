@@ -1,1 +1,1 @@
-var mnemonic = "off manage ice pioneer north cost inspire bench hockey awkward icon resource";
+var mnemonic = "opera essay manual lawsuit flip next quit thunder flush session memory build";

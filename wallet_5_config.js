@@ -1,1 +1,1 @@
-var mnemonic = "type else original great coin patch account merge party room cable rough";
+var mnemonic = "whisper loud suit symptom earth add rug arm title eager come fresh";

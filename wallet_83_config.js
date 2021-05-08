@@ -1,1 +1,1 @@
-var mnemonic = "pottery coconut review park teach salad oak vibrant salt squirrel delay wine";
+var mnemonic = "all raccoon milk topic crime bundle mom weasel coffee grunt ecology hover";

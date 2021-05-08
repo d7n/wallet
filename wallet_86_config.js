@@ -1,1 +1,1 @@
-var mnemonic = "panel absurd bring slot labor train lunar orchard draw wreck remain appear";
+var mnemonic = "industry height service thrive sport degree alien become velvet canoe deliver half";

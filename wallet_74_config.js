@@ -1,1 +1,1 @@
-var mnemonic = "furnace mind choice slab occur mandate patch capable either option legal online";
+var mnemonic = "alarm blind swing smoke paper poet hobby carpet ostrich hand hamster relax";

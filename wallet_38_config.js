@@ -1,1 +1,1 @@
-var mnemonic = "company brother arrange siren suspect say fan more field east violin shy";
+var mnemonic = "fatigue motion march transfer school dolphin sausage sniff shrimp patrol powder have";

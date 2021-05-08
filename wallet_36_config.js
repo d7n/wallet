@@ -1,1 +1,1 @@
-var mnemonic = "repeat cook reduce duty outdoor caught student museum table body critic surround";
+var mnemonic = "erosion exist south require ridge tumble gate abandon cheap diesel jar crowd";

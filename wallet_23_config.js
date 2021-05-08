@@ -1,1 +1,1 @@
-var mnemonic = "donate direct scene pave gloom space mammal cabin teach liquid settle angry";
+var mnemonic = "above glove version monster tomorrow rail insane wet empower sing solid jacket";

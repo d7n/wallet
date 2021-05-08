@@ -1,1 +1,1 @@
-var mnemonic = "burden fatigue remind broom rebel guess mansion grant axis fee grief assume";
+var mnemonic = "mind later tonight legal depart master oil tribe render lion scene sister";

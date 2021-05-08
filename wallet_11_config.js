@@ -1,1 +1,1 @@
-var mnemonic = "bone duck company reunion giraffe mechanic unknown shallow street youth object life";
+var mnemonic = "dolphin wine stove render just pole between sound essay voice verify crop";

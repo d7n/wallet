@@ -1,1 +1,1 @@
-var mnemonic = "hope vast obscure raccoon upgrade party sign parent online camera execute village";
+var mnemonic = "suffer motion swift stool adjust select share assume goat absurd visit grain";

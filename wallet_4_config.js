@@ -1,1 +1,1 @@
-var mnemonic = "deny invite pottery century kiss hip broccoli uncover flee silent best sun";
+var mnemonic = "home random secret argue curve lion exhaust auto lemon woman silent loyal";

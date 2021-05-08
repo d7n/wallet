@@ -1,1 +1,1 @@
-var mnemonic = "maid start truck dress thing exhibit claw renew repeat borrow wink soup";
+var mnemonic = "chicken door blade egg poverty shoot travel traffic layer spin skate hold";

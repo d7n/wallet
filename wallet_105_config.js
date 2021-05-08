@@ -1,1 +1,1 @@
-var mnemonic = "hat ocean radio action sheriff power method bleak cupboard vague swarm assist";
+var mnemonic = "rhythm post simple grow agree trial noble coach keep option camp flag";

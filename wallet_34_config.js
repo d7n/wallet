@@ -1,1 +1,1 @@
-var mnemonic = "neglect iron cactus prison toast dutch flat possible kangaroo castle oyster table";
+var mnemonic = "chat waste impose pledge orange salute exhibit agree green carry autumn butter";

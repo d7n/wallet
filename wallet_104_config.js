@@ -1,1 +1,1 @@
-var mnemonic = "apology light crowd fresh violin orient latin ramp medal skate link alarm";
+var mnemonic = "second enable junk joy wine typical luxury position prepare march rice balcony";

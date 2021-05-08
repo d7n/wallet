@@ -1,1 +1,1 @@
-var mnemonic = "dish venture wool pride output duck innocent trap discover wide member badge";
+var mnemonic = "also action dismiss isolate mango service swallow humble together shaft boat again";

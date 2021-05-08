@@ -1,1 +1,1 @@
-var mnemonic = "wonder jaguar screen bargain door girl black staff sword ready frame dream";
+var mnemonic = "write kitten combine leisure common deer author soul simple layer donkey exit";

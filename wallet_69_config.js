@@ -1,1 +1,1 @@
-var mnemonic = "fitness dutch ensure bean minute outside brief solve real sadness guilt curve";
+var mnemonic = "oppose affair idle excite quick ticket solar lady atom surround fancy silver";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt army grief eye please glass lake ill learn purity income gospel";
+var mnemonic = "trouble orphan usage dial piano earn sunset lab special bring staff cup";

@@ -1,1 +1,1 @@
-var mnemonic = "torch okay lady sniff sphere amateur crowd horn fuel home wolf either";
+var mnemonic = "pear sunset alien laugh design angle fork face scrap ritual doctor mom";

@@ -1,1 +1,1 @@
-var mnemonic = "castle hover museum guide elite rain idea bacon eye horn invest disease";
+var mnemonic = "soap alert suspect grace bounce security joy prefer usage plate evoke speak";

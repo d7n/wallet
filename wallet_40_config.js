@@ -1,1 +1,1 @@
-var mnemonic = "convince matter prepare robot eternal into tooth season bus move worry order";
+var mnemonic = "prevent chase dismiss asthma maze spin chaos poverty total finger fragile topple";

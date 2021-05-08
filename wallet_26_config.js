@@ -1,1 +1,1 @@
-var mnemonic = "man neutral slide october business pitch dust glass hint happy ship artwork";
+var mnemonic = "style device play among fog clap shell stable juice adapt bracket clarify";

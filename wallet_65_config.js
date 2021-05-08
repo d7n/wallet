@@ -1,1 +1,1 @@
-var mnemonic = "right tragic erupt couple crouch shock brain ritual donkey patch rebuild wedding";
+var mnemonic = "elegant kangaroo opera tray dress interest lazy scrub program tortoise scare maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "mango ethics scrap honey dinosaur suspect before where wing expire caught water";
+var mnemonic = "round enter devote behind movie load father stove inject pole venue frown";

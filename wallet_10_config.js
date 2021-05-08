@@ -1,1 +1,1 @@
-var mnemonic = "thumb join ship wheel flat correct brother confirm illegal easily sheriff neither";
+var mnemonic = "pink rule upgrade mirror muffin peace squeeze quit squeeze guide inform loop";

@@ -1,1 +1,1 @@
-var mnemonic = "auto else polar nuclear powder family unlock already success broccoli crouch virus";
+var mnemonic = "guitar cost taxi derive that orbit capital motor busy churn cigar endless";

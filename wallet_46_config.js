@@ -1,1 +1,1 @@
-var mnemonic = "fan galaxy eternal foam poem wonder rally fiction street post echo giggle";
+var mnemonic = "lava shell casual magnet between talent unusual derive rhythm cabin nuclear defense";

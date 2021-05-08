@@ -1,1 +1,1 @@
-var mnemonic = "settle sister matter world genre motion cave december group pause sell rival";
+var mnemonic = "noble chicken skirt december mule pond satisfy unhappy subject dinner hire humor";

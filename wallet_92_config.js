@@ -1,1 +1,1 @@
-var mnemonic = "corn solve siege nation sugar demise bar climb fall drink tobacco potato";
+var mnemonic = "cook satoshi height buddy slice attitude saddle vast endorse slab junior ripple";

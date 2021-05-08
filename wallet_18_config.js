@@ -1,1 +1,1 @@
-var mnemonic = "repeat secret baby come bird soccer green solar turkey stumble rabbit exotic";
+var mnemonic = "grace say marine panic conduct palace reunion law twelve family river congress";

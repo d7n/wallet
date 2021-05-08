@@ -1,1 +1,1 @@
-var mnemonic = "day tone balance reform diary curve also rocket stamp grain borrow toddler";
+var mnemonic = "army west cheap truck connect devote final liquid ribbon skill toddler tennis";

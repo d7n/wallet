@@ -1,1 +1,1 @@
-var mnemonic = "clarify maze share chat clarify cross math vanish knock shuffle jeans item";
+var mnemonic = "spy camp reveal nature banana year demise pilot defense donor impact girl";

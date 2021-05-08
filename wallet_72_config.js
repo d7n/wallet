@@ -1,1 +1,1 @@
-var mnemonic = "memory panda ten milk seven wreck oak put box push aisle stomach";
+var mnemonic = "flush toe attract welcome domain swap long tornado able aisle flower elite";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver three blade host process clap dry bounce announce crystal just bulb";
+var mnemonic = "awful dilemma speed birth cart resist tag hungry roof sea execute visual";

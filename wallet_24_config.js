@@ -1,1 +1,1 @@
-var mnemonic = "taste mammal join team shadow left false palm target anchor load pulp";
+var mnemonic = "keep edit glory interest follow river chronic cook nice daring enlist mesh";

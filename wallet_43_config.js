@@ -1,1 +1,1 @@
-var mnemonic = "husband diet surround swear upon drama giggle bridge physical economy truth mail";
+var mnemonic = "refuse habit search razor roast maze crime keep toward ankle sausage water";

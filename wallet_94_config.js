@@ -1,1 +1,1 @@
-var mnemonic = "fossil long slight control because discover game uncle drama canoe wood diamond";
+var mnemonic = "prize enforce seminar bench process olympic dash tree recall memory fury pioneer";

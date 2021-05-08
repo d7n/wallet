@@ -1,1 +1,1 @@
-var mnemonic = "method whale field north category state enough obscure unique fine admit monster";
+var mnemonic = "hybrid tenant lumber ice mercy expand ivory response story bus march jewel";

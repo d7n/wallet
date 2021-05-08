@@ -1,1 +1,1 @@
-var mnemonic = "wait become bless dignity science waste pill volcano icon join hedgehog spell";
+var mnemonic = "cross file duty peanut teach horror leaf hazard stove surprise era fly";

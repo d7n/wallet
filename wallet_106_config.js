@@ -1,1 +1,1 @@
-var mnemonic = "battle fame chase what initial primary crop cheap tool boost bonus movie";
+var mnemonic = "enhance canyon february diagram option pitch fiscal absurd atom reopen sick ketchup";

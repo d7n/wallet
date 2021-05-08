@@ -1,1 +1,1 @@
-var mnemonic = "guess vehicle pelican alley pull lecture peanut ranch negative wrestle minimum vendor";
+var mnemonic = "option order menu helmet replace antique paddle vessel honey female public problem";
