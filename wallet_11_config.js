@@ -1,1 +1,1 @@
-var mnemonic = "unlock hat purpose chuckle child toward blush orchard illegal quality pull neck";
+var mnemonic = "trick tortoise false hedgehog sort elite pause topic fruit genius faculty left";

@@ -1,1 +1,1 @@
-var mnemonic = "fog bless cream must local ghost climb olive town loyal sugar second";
+var mnemonic = "truly slim install raise certain universe produce horse scare guard chicken undo";

@@ -1,1 +1,1 @@
-var mnemonic = "glance edit crystal hold flight enrich language fine end fine amused able";
+var mnemonic = "tunnel raven fatal phrase area decrease detect portion trumpet bridge dilemma health";

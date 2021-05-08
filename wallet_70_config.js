@@ -1,1 +1,1 @@
-var mnemonic = "swamp auction fuel tray border faculty session debate reject border version hobby";
+var mnemonic = "advice name wall process loan garden airport sadness humor wreck rice fuel";

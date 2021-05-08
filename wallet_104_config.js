@@ -1,1 +1,1 @@
-var mnemonic = "subject sponsor toward credit ordinary artist equal planet calm six theory title";
+var mnemonic = "tourist struggle elder alter present motor high consider rare hello roof mimic";

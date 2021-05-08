@@ -1,1 +1,1 @@
-var mnemonic = "dynamic spike provide coin absent spin fish response maid violin tunnel kangaroo";
+var mnemonic = "hedgehog off dust subway abstract canyon weather mail rich ticket street voyage";

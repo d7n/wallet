@@ -1,1 +1,1 @@
-var mnemonic = "reform equal gasp misery alley sound couple ozone struggle scene cigar erase";
+var mnemonic = "orbit quit give spray calm harbor syrup chest image fortune merit day";

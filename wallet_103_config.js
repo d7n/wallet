@@ -1,1 +1,1 @@
-var mnemonic = "produce lizard toilet visual walnut confirm recycle input awake forget winter bomb";
+var mnemonic = "anger envelope sad food bag buffalo tree tail travel shrug snake paddle";

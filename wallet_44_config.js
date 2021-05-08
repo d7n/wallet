@@ -1,1 +1,1 @@
-var mnemonic = "judge hat use clown pink lava casual guilt screen vehicle loud company";
+var mnemonic = "fiction curtain cable august rifle certain ensure cream trigger bag want edge";

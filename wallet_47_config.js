@@ -1,1 +1,1 @@
-var mnemonic = "admit section soup never argue enforce woman accident casual dumb rent fish";
+var mnemonic = "casino inside amateur elite improve angle nuclear record antenna little steak inflict";

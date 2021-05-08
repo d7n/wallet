@@ -1,1 +1,1 @@
-var mnemonic = "enlist result surface float bread element air motion novel duck tone mom";
+var mnemonic = "sausage raise detect retire garden vacuum right slam unlock eagle pill patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "camera cause human skull evolve fruit wheel close ahead credit curious high";
+var mnemonic = "quit hundred stomach giggle glow sample alpha liberty purity merge air behind";

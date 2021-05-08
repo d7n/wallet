@@ -1,1 +1,1 @@
-var mnemonic = "lesson bird yard poet wheat ankle false clever damage trash hard family";
+var mnemonic = "supreme narrow mother grief expose decorate crash remind barrel real paddle marriage";

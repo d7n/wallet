@@ -1,1 +1,1 @@
-var mnemonic = "machine stuff laundry game correct video live person destroy strong catalog decline";
+var mnemonic = "party swing save bone essay real use bomb goddess shoulder arena prepare";

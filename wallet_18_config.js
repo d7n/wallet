@@ -1,1 +1,1 @@
-var mnemonic = "moral silent tray list dose note canvas advice coil awful jacket hamster";
+var mnemonic = "home obey casual drop phone wreck smoke sausage vibrant decrease goose evidence";

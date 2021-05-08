@@ -1,1 +1,1 @@
-var mnemonic = "carbon live only legal tilt gather unveil faith word fix rail curve";
+var mnemonic = "kiss era vapor below easily unhappy raw fetch mother purpose fold renew";

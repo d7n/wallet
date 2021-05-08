@@ -1,1 +1,1 @@
-var mnemonic = "story topic veteran search share nurse midnight announce pledge viable sail turn";
+var mnemonic = "embrace daughter strong prepare dumb surprise night mango cause novel attract focus";

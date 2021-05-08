@@ -1,1 +1,1 @@
-var mnemonic = "require brisk minimum puppy blue offer notice human holiday shaft text day";
+var mnemonic = "kitchen hawk during achieve giant ride lounge sign dirt method giggle small";

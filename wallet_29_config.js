@@ -1,1 +1,1 @@
-var mnemonic = "trust search speed latin habit genius jacket angry skull reopen execute page";
+var mnemonic = "help scout dinosaur office moment sign enter danger parrot correct muffin purse";

@@ -1,1 +1,1 @@
-var mnemonic = "soda conduct apple tell news client task visa great key market illegal";
+var mnemonic = "hip cake gown click point lobster rebel luxury distance ripple bacon apart";

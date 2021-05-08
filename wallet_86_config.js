@@ -1,1 +1,1 @@
-var mnemonic = "hunt survey program buzz anchor afraid knock tree sorry shoe rigid season";
+var mnemonic = "slam problem vehicle enact forest forget primary spread stick net solve choose";

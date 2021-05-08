@@ -1,1 +1,1 @@
-var mnemonic = "lake floor police travel flush struggle place subway cage novel sadness weasel";
+var mnemonic = "whale wheel renew carry paddle clinic oblige assist twist issue casual doll";

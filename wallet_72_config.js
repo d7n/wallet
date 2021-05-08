@@ -1,1 +1,1 @@
-var mnemonic = "giggle jealous drip balance source file detect drink spike garden ignore antenna";
+var mnemonic = "region lemon today camp diary elevator canyon marble initial reward party wash";

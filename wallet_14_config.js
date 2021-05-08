@@ -1,1 +1,1 @@
-var mnemonic = "echo crash cart domain voice noble metal ramp ethics thrive control agree";
+var mnemonic = "bean smart scorpion priority fringe diamond lab skull elbow brick slide grid";

@@ -1,1 +1,1 @@
-var mnemonic = "battle pulp reflect occur birth scan comfort someone foam jeans fatigue hill";
+var mnemonic = "thing allow powder come black funny year wash smoke winter smile focus";

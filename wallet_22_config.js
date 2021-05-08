@@ -1,1 +1,1 @@
-var mnemonic = "call penalty recipe globe utility actress fall guess glow cousin keep wealth";
+var mnemonic = "cushion sketch current destroy spell matrix water maple cricket pass near banner";

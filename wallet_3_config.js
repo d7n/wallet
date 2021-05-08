@@ -1,1 +1,1 @@
-var mnemonic = "carpet neutral stove slogan near actor jacket leisure guide cheese prize ready";
+var mnemonic = "oppose call test invite organ salute share candy excess install obey unusual";

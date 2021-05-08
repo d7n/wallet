@@ -1,1 +1,1 @@
-var mnemonic = "measure whip maze govern hub problem school large shell laundry van cattle";
+var mnemonic = "fix orient street void tornado enable fossil reveal dynamic guitar tiny lend";

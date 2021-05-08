@@ -1,1 +1,1 @@
-var mnemonic = "all gaze hybrid east lounge engage near tomorrow mad cruise disagree skirt";
+var mnemonic = "daring pluck fly rice clarify alter already plunge age outer tunnel cash";

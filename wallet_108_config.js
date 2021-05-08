@@ -1,1 +1,1 @@
-var mnemonic = "interest club concert universe water hungry track vessel extra space buyer circle";
+var mnemonic = "wrap pole cabin ginger achieve modify rifle guilt entire seed animal vehicle";

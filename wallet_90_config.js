@@ -1,1 +1,1 @@
-var mnemonic = "potato clip similar cactus frost seed accident end code bind taxi glad";
+var mnemonic = "crunch sadness rabbit swallow when elephant menu limit acid nasty where lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich affair pudding tower toilet armor cruel drill slide adapt ordinary minute";
+var mnemonic = "fragile reform puppy effort sudden abuse risk bird icon cross glide mom";

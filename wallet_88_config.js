@@ -1,1 +1,1 @@
-var mnemonic = "soccer rough scissors uncle build broccoli exact fiscal pencil wood legal hen";
+var mnemonic = "flush onion hockey cricket then fox equal wise inch garbage across speed";

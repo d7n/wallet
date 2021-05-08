@@ -1,1 +1,1 @@
-var mnemonic = "avocado illegal sweet shop weird expose bronze spot water wonder suggest urge";
+var mnemonic = "owner celery clump knee quarter put wink loop release youth satisfy found";

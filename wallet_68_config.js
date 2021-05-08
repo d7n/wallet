@@ -1,1 +1,1 @@
-var mnemonic = "analyst lava they security list way globe gallery other voyage peasant chapter";
+var mnemonic = "brush know message tongue aim pill cost gap north amazing joke pact";

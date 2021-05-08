@@ -1,1 +1,1 @@
-var mnemonic = "hover exit panda journey dose cruise pulse dolphin neglect deer day agree";
+var mnemonic = "trip program before remind blade beef name rare during seven since nasty";

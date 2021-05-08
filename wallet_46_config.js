@@ -1,1 +1,1 @@
-var mnemonic = "want sea fiber excuse satoshi also dream glimpse shiver donor bag virtual";
+var mnemonic = "runway you embrace fiscal surprise liberty second tip delay system arm term";

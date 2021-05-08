@@ -1,1 +1,1 @@
-var mnemonic = "mind circle one home oppose expire immune dial goose glad fog stable";
+var mnemonic = "cheese pull cigar famous patrol lamp erase tank series jewel path satisfy";

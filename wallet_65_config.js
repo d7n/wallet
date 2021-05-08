@@ -1,1 +1,1 @@
-var mnemonic = "kidney useless guitar kiss walnut clutch finish theory hour balance wasp weird";
+var mnemonic = "room child kind grid hurry rack okay raw horror legend dignity carpet";

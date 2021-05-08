@@ -1,1 +1,1 @@
-var mnemonic = "rubber planet off cigar junior few weasel rookie soccer lawn bomb mammal";
+var mnemonic = "oval total issue aerobic fabric improve horn lawn black audit hold release";

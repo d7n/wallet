@@ -1,1 +1,1 @@
-var mnemonic = "prosper physical unknown pride eager air patrol combine spirit measure slide sad";
+var mnemonic = "amazing wrestle flower charge warrior process boat debate ice lens fit hurry";

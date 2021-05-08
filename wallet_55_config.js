@@ -1,1 +1,1 @@
-var mnemonic = "toast together find boat episode skin turn profit onion shrug brush right";
+var mnemonic = "cereal client orchard wave home bless disagree blood boy island monitor ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "little window high property club nose exclude comic remain mouse chase shell";
+var mnemonic = "apple sand weather obtain inflict stick exile second call wedding return sight";

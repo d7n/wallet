@@ -1,1 +1,1 @@
-var mnemonic = "reunion park merge lady hurdle reopen turkey happy journey wheel grow live";
+var mnemonic = "match visual decrease veteran analyst forum bright bargain near achieve popular race";

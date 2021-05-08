@@ -1,1 +1,1 @@
-var mnemonic = "dawn identify point regular blur owner gossip response slight inflict pencil episode";
+var mnemonic = "head awake cactus hand reveal song physical assist imitate input equal cradle";

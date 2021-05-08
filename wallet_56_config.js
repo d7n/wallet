@@ -1,1 +1,1 @@
-var mnemonic = "two bonus infant virus balance tenant episode engage avocado action globe six";
+var mnemonic = "confirm come dutch ahead trip donate second chapter blouse bicycle unveil bird";

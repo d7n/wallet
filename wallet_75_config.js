@@ -1,1 +1,1 @@
-var mnemonic = "radar begin ready total depend nation blade general frame ball crew wasp";
+var mnemonic = "forum special antique silk labor cluster kick emotion slow lake rude crystal";

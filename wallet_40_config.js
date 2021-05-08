@@ -1,1 +1,1 @@
-var mnemonic = "mutual try song believe purpose glad hire vacuum seed script country busy";
+var mnemonic = "notice flame maid alarm diesel review menu roof ceiling suit script nerve";

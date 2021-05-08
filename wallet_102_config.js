@@ -1,1 +1,1 @@
-var mnemonic = "employ cook waste whale world gadget essence human student change opinion clock";
+var mnemonic = "blush hospital motor ocean figure pledge dilemma vanish upset auto someone divorce";

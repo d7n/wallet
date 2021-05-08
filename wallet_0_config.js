@@ -1,1 +1,1 @@
-var mnemonic = "tuition monster strike mimic minute company window lunar spoon future that staff";
+var mnemonic = "permit duck auto country vicious winner unfold cruel exact employ medal logic";

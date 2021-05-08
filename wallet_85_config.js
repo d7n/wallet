@@ -1,1 +1,1 @@
-var mnemonic = "transfer same twelve tooth slam bleak dinosaur acoustic review tissue dumb cabin";
+var mnemonic = "misery oyster base combine excess later truck lab gaze report remove crumble";

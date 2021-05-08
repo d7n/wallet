@@ -1,1 +1,1 @@
-var mnemonic = "reason much oil round wagon sport immense execute three vital satisfy uniform";
+var mnemonic = "glide nothing innocent fetch nose decide scatter reward butter smoke abandon stem";

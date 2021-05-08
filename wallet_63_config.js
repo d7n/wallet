@@ -1,1 +1,1 @@
-var mnemonic = "inhale snake quantum cherry release vanish east tomato fabric tomato order kangaroo";
+var mnemonic = "art bomb gather popular lecture kick ladder virus cloud police hand review";

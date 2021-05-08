@@ -1,1 +1,1 @@
-var mnemonic = "boss sport since gentle vast romance work evoke summer much under put";
+var mnemonic = "vintage ensure decade siren panic mosquito deer rose avoid scatter basket trophy";

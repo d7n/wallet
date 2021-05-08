@@ -1,1 +1,1 @@
-var mnemonic = "they doctor latin glue marble giant creek pioneer quality warm black clown";
+var mnemonic = "afford room lucky skill account predict lonely muscle noodle egg nothing neutral";

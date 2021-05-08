@@ -1,1 +1,1 @@
-var mnemonic = "shallow obtain because moon neglect exhaust exit razor guard cotton error hospital";
+var mnemonic = "rescue rifle fault sketch favorite wool kiwi monitor this rare hip cost";

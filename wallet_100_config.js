@@ -1,1 +1,1 @@
-var mnemonic = "pair ready city soul royal unaware awesome bleak quick manage actual film";
+var mnemonic = "swim afraid deliver force burst loop room wash shove inhale ring hood";

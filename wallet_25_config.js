@@ -1,1 +1,1 @@
-var mnemonic = "forum subject real when balcony thing monitor friend crash educate tone liberty";
+var mnemonic = "shuffle mimic aim elder brown motor under jealous tooth green wish crash";

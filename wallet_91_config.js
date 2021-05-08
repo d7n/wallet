@@ -1,1 +1,1 @@
-var mnemonic = "project slush license quarter filter dial surge lunar primary sign click crucial";
+var mnemonic = "unfold holiday purity attend kit minimum course dose illegal elbow often caught";

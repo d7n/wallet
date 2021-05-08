@@ -1,1 +1,1 @@
-var mnemonic = "raven vendor panel wedding note lemon absorb famous silver inch neither amateur";
+var mnemonic = "gravity social fluid wrap trend project crush carpet fatigue rhythm logic end";

@@ -1,1 +1,1 @@
-var mnemonic = "element frequent daughter remove skill equal final smoke zebra unhappy hamster wood";
+var mnemonic = "borrow call inside core bone label train scheme circle fringe daughter glass";

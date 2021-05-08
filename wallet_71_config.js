@@ -1,1 +1,1 @@
-var mnemonic = "broccoli bounce weasel cactus join give betray midnight double peace grape nominee";
+var mnemonic = "giraffe connect cheap moral food business trip ride jungle powder stairs trash";

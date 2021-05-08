@@ -1,1 +1,1 @@
-var mnemonic = "jungle segment wish blast panda salon vocal ankle math wine arrest staff";
+var mnemonic = "income afford catalog wool hero bracket detail phrase cement network wink melt";

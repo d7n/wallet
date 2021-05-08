@@ -1,1 +1,1 @@
-var mnemonic = "upset pencil marine where typical eagle ten boat bamboo autumn harvest source";
+var mnemonic = "road filter episode gate cattle oyster need master era hazard before page";

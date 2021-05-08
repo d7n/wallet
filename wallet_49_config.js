@@ -1,1 +1,1 @@
-var mnemonic = "sword cabin zoo repair little off cluster harvest glove swim snack horse";
+var mnemonic = "edit trouble stick state dog popular detect breeze unit senior tackle common";

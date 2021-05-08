@@ -1,1 +1,1 @@
-var mnemonic = "act sort affair tired door symbol still slight owner start guide lemon";
+var mnemonic = "kind task supply mean have beyond undo lottery shed garden rotate resource";

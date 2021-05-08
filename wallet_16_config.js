@@ -1,1 +1,1 @@
-var mnemonic = "cereal solution roof twelve snap enforce luggage frozen weapon ahead two onion";
+var mnemonic = "primary certain angle tenant sketch find gate slow swift artwork oval prize";

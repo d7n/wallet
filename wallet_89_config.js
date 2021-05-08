@@ -1,1 +1,1 @@
-var mnemonic = "impose wonder destroy pact milk sheriff cactus crazy spray pencil squirrel journey";
+var mnemonic = "gather palm velvet cool base split grid river dwarf celery brave seat";

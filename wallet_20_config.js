@@ -1,1 +1,1 @@
-var mnemonic = "wild salad benefit enable adapt about promote someone obscure involve must helmet";
+var mnemonic = "mango can drift ride possible document public special leaf left bargain palm";

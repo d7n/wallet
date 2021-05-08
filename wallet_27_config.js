@@ -1,1 +1,1 @@
-var mnemonic = "produce uniform sorry open help puppy buddy charge object history empty relax";
+var mnemonic = "west sudden mule ozone garbage fox glue sweet unfold reduce gospel regular";

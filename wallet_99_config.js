@@ -1,1 +1,1 @@
-var mnemonic = "tonight aerobic common night deny guilt tip major include name riot bar";
+var mnemonic = "sorry mechanic garden almost almost frown phone rapid obey giraffe often oxygen";

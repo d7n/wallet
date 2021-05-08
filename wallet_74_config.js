@@ -1,1 +1,1 @@
-var mnemonic = "trick ship spare super round section like emotion fringe farm adult alone";
+var mnemonic = "place slogan abandon glad hunt frown wagon slight arrest fragile nose federal";

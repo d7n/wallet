@@ -1,1 +1,1 @@
-var mnemonic = "teach clean liberty alone father olive exclude fog nose inside critic basket";
+var mnemonic = "symbol skate daring hawk scout eternal option inject oxygen wait right biology";

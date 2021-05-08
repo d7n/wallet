@@ -1,1 +1,1 @@
-var mnemonic = "wheel decade misery call kitchen peasant verb taxi donkey art width road";
+var mnemonic = "trip cheese enhance entry brush wet spawn love letter obvious cancel soda";

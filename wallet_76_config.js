@@ -1,1 +1,1 @@
-var mnemonic = "north tone agree wall diet idea tree this require doll gas omit";
+var mnemonic = "long scan credit giggle potato season route decline employ filter rival original";

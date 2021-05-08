@@ -1,1 +1,1 @@
-var mnemonic = "police orient south essay raw approve assume client affair blue plug head";
+var mnemonic = "divide nice ancient whale verb walnut pen maze portion bag surface another";

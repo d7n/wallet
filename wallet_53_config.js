@@ -1,1 +1,1 @@
-var mnemonic = "ridge you kitten robust radar cushion canvas inner sweet lecture problem charge";
+var mnemonic = "waste sugar tag month wear belt light announce utility warrior solid emerge";

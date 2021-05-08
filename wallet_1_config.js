@@ -1,1 +1,1 @@
-var mnemonic = "verify convince disease police helmet action cruise bag scare anger resist detail";
+var mnemonic = "poverty small pulse frog print jealous denial high apart lounge lawn outer";

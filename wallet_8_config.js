@@ -1,1 +1,1 @@
-var mnemonic = "hole small impose develop scheme barely police enhance tired ship amused melt";
+var mnemonic = "fatal green business upgrade dog useless prison forward panda calm service scorpion";

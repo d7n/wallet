@@ -1,1 +1,1 @@
-var mnemonic = "lobster birth maple defy language shove canoe crack excite boat elbow strike";
+var mnemonic = "wet credit swamp plate put shoe poem cereal hard citizen gun polar";

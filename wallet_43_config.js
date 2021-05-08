@@ -1,1 +1,1 @@
-var mnemonic = "early force salute decide kitten stool negative worth cinnamon wonder hamster beyond";
+var mnemonic = "spare crunch claim embody file boost lamp arrive pudding find vessel address";

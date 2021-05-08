@@ -1,1 +1,1 @@
-var mnemonic = "winter blouse banner trick tone silver whale they act shed safe cycle";
+var mnemonic = "retreat pet solve license upgrade donor skirt treat february model bar birth";

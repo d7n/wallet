@@ -1,1 +1,1 @@
-var mnemonic = "worry rack mercy turkey during simple man army stomach winter arctic dizzy";
+var mnemonic = "gospel stable panther episode inmate emotion occur stay actress weapon plate galaxy";

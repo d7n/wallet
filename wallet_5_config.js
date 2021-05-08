@@ -1,1 +1,1 @@
-var mnemonic = "tuna chapter arm stem hospital outdoor junk cannon cruel solid carry connect";
+var mnemonic = "muffin enhance drum differ swing broom purse net midnight wise enroll trash";

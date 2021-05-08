@@ -1,1 +1,1 @@
-var mnemonic = "person walnut pilot another bomb load destroy sphere cool organ firm mistake";
+var mnemonic = "pair document return pride acid oblige bring license exact govern gravity laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "mask yard wrong coyote drink pluck uphold retreat dizzy burst ten spring";
+var mnemonic = "flame rebel boss cheap that delay family robust lumber paddle define cook";

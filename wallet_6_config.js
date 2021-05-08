@@ -1,1 +1,1 @@
-var mnemonic = "oval cereal warfare online robot rabbit wage motor wood radar chief build";
+var mnemonic = "eagle heavy lemon physical capital month problem brass pudding daring regret unveil";

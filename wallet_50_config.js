@@ -1,1 +1,1 @@
-var mnemonic = "immune siren where frog wave beach margin jump decrease vehicle they power";
+var mnemonic = "fringe clarify swap invite busy drastic thumb custom wheel spot chronic potato";

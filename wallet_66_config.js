@@ -1,1 +1,1 @@
-var mnemonic = "crash leader slam away head airport stay page talent similar human fresh";
+var mnemonic = "make turn stand furnace ability enhance sketch radio actor occur hockey law";

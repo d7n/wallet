@@ -1,1 +1,1 @@
-var mnemonic = "piece detect heart frame early explain machine holiday rapid reason speak seven";
+var mnemonic = "tree radio lunar grid gorilla tonight abstract volume call roof pet palm";

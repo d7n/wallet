@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow journey outside transfer concert purpose forward shuffle custom express gas better";
+var mnemonic = "arch march milk zoo cargo thumb nest swap rich topple season sure";

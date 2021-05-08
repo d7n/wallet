@@ -1,1 +1,1 @@
-var mnemonic = "onion artefact gentle forum inside bleak asthma hungry unveil loop plate code";
+var mnemonic = "brick rib author insect critic swap food satoshi garment vacant aware light";
