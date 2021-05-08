@@ -1,1 +1,1 @@
-var mnemonic = "doctor magic ladder edge much shield corn duty stairs roof inquiry chalk";
+var mnemonic = "judge hat use clown pink lava casual guilt screen vehicle loud company";

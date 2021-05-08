@@ -1,1 +1,1 @@
-var mnemonic = "shallow antique diet man also thunder dignity hungry ten mechanic undo lyrics";
+var mnemonic = "camera cause human skull evolve fruit wheel close ahead credit curious high";

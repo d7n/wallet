@@ -1,1 +1,1 @@
-var mnemonic = "advice tilt run field nominee flat print tide omit athlete young bring";
+var mnemonic = "crash leader slam away head airport stay page talent similar human fresh";

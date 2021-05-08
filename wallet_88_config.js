@@ -1,1 +1,1 @@
-var mnemonic = "parrot then abstract rotate correct margin price danger leg lady exit limb";
+var mnemonic = "soccer rough scissors uncle build broccoli exact fiscal pencil wood legal hen";

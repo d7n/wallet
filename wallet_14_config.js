@@ -1,1 +1,1 @@
-var mnemonic = "else viable into broom boss require cube menu salon scare ill sad";
+var mnemonic = "echo crash cart domain voice noble metal ramp ethics thrive control agree";

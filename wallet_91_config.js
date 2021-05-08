@@ -1,1 +1,1 @@
-var mnemonic = "believe curious opera upon forget brother physical uncle genius rebuild gold inflict";
+var mnemonic = "project slush license quarter filter dial surge lunar primary sign click crucial";

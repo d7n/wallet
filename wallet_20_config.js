@@ -1,1 +1,1 @@
-var mnemonic = "number problem ritual toy six floor embark property patrol voice damp bring";
+var mnemonic = "wild salad benefit enable adapt about promote someone obscure involve must helmet";

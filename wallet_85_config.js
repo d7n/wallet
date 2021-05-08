@@ -1,1 +1,1 @@
-var mnemonic = "way decorate deer guilt olympic buyer also other try leaf nasty neck";
+var mnemonic = "transfer same twelve tooth slam bleak dinosaur acoustic review tissue dumb cabin";

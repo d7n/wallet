@@ -1,1 +1,1 @@
-var mnemonic = "spray jump length strong dinner suspect risk omit stone history tide jungle";
+var mnemonic = "person walnut pilot another bomb load destroy sphere cool organ firm mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "myth bag december scatter image rescue inhale nominee very box trumpet million";
+var mnemonic = "door license betray child ritual curious sound ceiling success poverty yard parent";

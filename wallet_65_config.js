@@ -1,1 +1,1 @@
-var mnemonic = "fix neither reject polar board grow waste plastic absent habit steel tourist";
+var mnemonic = "kidney useless guitar kiss walnut clutch finish theory hour balance wasp weird";

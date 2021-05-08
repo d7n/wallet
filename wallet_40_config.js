@@ -1,1 +1,1 @@
-var mnemonic = "cricket green river gentle warm odor end route spring deer mix guard";
+var mnemonic = "mutual try song believe purpose glad hire vacuum seed script country busy";

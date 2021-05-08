@@ -1,1 +1,1 @@
-var mnemonic = "match sword figure present chase rotate another odor sphere video quiz monkey";
+var mnemonic = "soda conduct apple tell news client task visa great key market illegal";

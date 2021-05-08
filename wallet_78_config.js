@@ -1,1 +1,1 @@
-var mnemonic = "vendor apple loud fever gorilla tide clay absurd valve genius cricket parent";
+var mnemonic = "jungle segment wish blast panda salon vocal ankle math wine arrest staff";

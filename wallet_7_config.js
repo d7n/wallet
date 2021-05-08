@@ -1,1 +1,1 @@
-var mnemonic = "immense list when subject art ski congress baby warm carpet question address";
+var mnemonic = "excess hungry weird mesh jar match adapt powder crime dice protect exist";

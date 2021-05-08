@@ -1,1 +1,1 @@
-var mnemonic = "collect gloom junior cabin dismiss worry spell rebel believe clay west kick";
+var mnemonic = "element frequent daughter remove skill equal final smoke zebra unhappy hamster wood";

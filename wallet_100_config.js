@@ -1,1 +1,1 @@
-var mnemonic = "quick umbrella fever enact horror nothing track more civil final reward excuse";
+var mnemonic = "pair ready city soul royal unaware awesome bleak quick manage actual film";

@@ -1,1 +1,1 @@
-var mnemonic = "music assist wise craft coconut umbrella health merry attract property auto high";
+var mnemonic = "ridge you kitten robust radar cushion canvas inner sweet lecture problem charge";

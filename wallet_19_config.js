@@ -1,1 +1,1 @@
-var mnemonic = "slim question capital whale match oval emerge pistol decorate loyal wrong bag";
+var mnemonic = "reason much oil round wagon sport immense execute three vital satisfy uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "mad toss very salad sweet stumble dune shuffle social century rival rail";
+var mnemonic = "tomorrow journey outside transfer concert purpose forward shuffle custom express gas better";

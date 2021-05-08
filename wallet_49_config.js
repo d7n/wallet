@@ -1,1 +1,1 @@
-var mnemonic = "tilt utility miss brain home when bind burst broom blossom curtain will";
+var mnemonic = "sword cabin zoo repair little off cluster harvest glove swim snack horse";

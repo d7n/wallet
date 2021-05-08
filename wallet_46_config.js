@@ -1,1 +1,1 @@
-var mnemonic = "hollow test control carpet city charge affair museum coach ticket pink train";
+var mnemonic = "want sea fiber excuse satoshi also dream glimpse shiver donor bag virtual";

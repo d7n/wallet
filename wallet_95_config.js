@@ -1,1 +1,1 @@
-var mnemonic = "road chief dress nothing use betray pattern strong run foam grow foot";
+var mnemonic = "rubber planet off cigar junior few weasel rookie soccer lawn bomb mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior impulse debate clap current verify tomato raccoon ticket hybrid series risk";
+var mnemonic = "subject sponsor toward credit ordinary artist equal planet calm six theory title";

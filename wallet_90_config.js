@@ -1,1 +1,1 @@
-var mnemonic = "museum ten huge now aim tube mansion false flavor armed weasel essence";
+var mnemonic = "potato clip similar cactus frost seed accident end code bind taxi glad";

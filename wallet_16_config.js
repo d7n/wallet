@@ -1,1 +1,1 @@
-var mnemonic = "course road entire bike foam enhance gallery rug napkin fantasy toast magnet";
+var mnemonic = "cereal solution roof twelve snap enforce luggage frozen weapon ahead two onion";

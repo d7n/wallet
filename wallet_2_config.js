@@ -1,1 +1,1 @@
-var mnemonic = "lyrics inner praise much patient report myth chimney creek grape regular bind";
+var mnemonic = "dynamic spike provide coin absent spin fish response maid violin tunnel kangaroo";

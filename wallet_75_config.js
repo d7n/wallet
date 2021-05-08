@@ -1,1 +1,1 @@
-var mnemonic = "pelican toy lava agree escape ethics copy curious tail all toward dash";
+var mnemonic = "radar begin ready total depend nation blade general frame ball crew wasp";

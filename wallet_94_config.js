@@ -1,1 +1,1 @@
-var mnemonic = "chapter argue essence trap indoor salute emotion usual drip beyond random jacket";
+var mnemonic = "lake floor police travel flush struggle place subway cage novel sadness weasel";

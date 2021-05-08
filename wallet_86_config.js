@@ -1,1 +1,1 @@
-var mnemonic = "tourist buddy square loud learn owner recall behind shadow talk field blue";
+var mnemonic = "hunt survey program buzz anchor afraid knock tree sorry shoe rigid season";

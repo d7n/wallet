@@ -1,1 +1,1 @@
-var mnemonic = "crash medal echo define rival course peasant claim call smooth siren manual";
+var mnemonic = "machine stuff laundry game correct video live person destroy strong catalog decline";

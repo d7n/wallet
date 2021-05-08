@@ -1,1 +1,1 @@
-var mnemonic = "panther hero chunk traffic resemble armor casual session hazard fly season bag";
+var mnemonic = "inhale snake quantum cherry release vanish east tomato fabric tomato order kangaroo";

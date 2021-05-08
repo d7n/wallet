@@ -1,1 +1,1 @@
-var mnemonic = "federal carbon there autumn reflect clip gallery magnet phone message squirrel sunny";
+var mnemonic = "require brisk minimum puppy blue offer notice human holiday shaft text day";

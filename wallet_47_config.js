@@ -1,1 +1,1 @@
-var mnemonic = "point deposit humble lab enhance mixture call raccoon during rate office gather";
+var mnemonic = "admit section soup never argue enforce woman accident casual dumb rent fish";

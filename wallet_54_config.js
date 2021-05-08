@@ -1,1 +1,1 @@
-var mnemonic = "tumble verb run chaos raw such whip cotton boil among step jazz";
+var mnemonic = "mind circle one home oppose expire immune dial goose glad fog stable";

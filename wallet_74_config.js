@@ -1,1 +1,1 @@
-var mnemonic = "double wrap grief fall zone wall patient creek travel fluid give trap";
+var mnemonic = "trick ship spare super round section like emotion fringe farm adult alone";

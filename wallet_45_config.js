@@ -1,1 +1,1 @@
-var mnemonic = "latin size people net gravity funny assist rescue spawn logic square mixture";
+var mnemonic = "lesson bird yard poet wheat ankle false clever damage trash hard family";

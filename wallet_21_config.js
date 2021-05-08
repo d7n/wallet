@@ -1,1 +1,1 @@
-var mnemonic = "usage liquid lawsuit work cool seat reject tooth plug budget enact cute";
+var mnemonic = "enlist result surface float bread element air motion novel duck tone mom";

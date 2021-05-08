@@ -1,1 +1,1 @@
-var mnemonic = "toddler wing room label setup maple various around bicycle chimney pig slight";
+var mnemonic = "hole small impose develop scheme barely police enhance tired ship amused melt";

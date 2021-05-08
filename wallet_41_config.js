@@ -1,1 +1,1 @@
-var mnemonic = "merge try all network series fitness multiply decorate you jazz common cube";
+var mnemonic = "couple embody begin diary first vendor rug sport art upgrade question spice";

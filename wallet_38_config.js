@@ -1,1 +1,1 @@
-var mnemonic = "buffalo demise pulp industry echo person brain move bike notable purse submit";
+var mnemonic = "battle pulp reflect occur birth scan comfort someone foam jeans fatigue hill";

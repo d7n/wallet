@@ -1,1 +1,1 @@
-var mnemonic = "expect jewel proud stable cabin imitate spoon style menu okay picnic cruel";
+var mnemonic = "all gaze hybrid east lounge engage near tomorrow mad cruise disagree skirt";

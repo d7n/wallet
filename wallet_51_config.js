@@ -1,1 +1,1 @@
-var mnemonic = "assume flash random coyote latin pave diagram manage swing enlist two tongue";
+var mnemonic = "swap gasp rice universe neglect brief crack beauty believe cloud setup oppose";

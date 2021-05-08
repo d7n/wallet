@@ -1,1 +1,1 @@
-var mnemonic = "man digital tennis easy piece one hub please argue mercy route canal";
+var mnemonic = "carpet neutral stove slogan near actor jacket leisure guide cheese prize ready";

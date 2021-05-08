@@ -1,1 +1,1 @@
-var mnemonic = "one ten magnet rare tenant glare clinic champion service pave question service";
+var mnemonic = "seat whip crane answer master cave oppose require spawn law solution hobby";

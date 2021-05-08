@@ -1,1 +1,1 @@
-var mnemonic = "inherit now delay input jewel hire blouse elder aerobic hello ancient drop";
+var mnemonic = "wheel decade misery call kitchen peasant verb taxi donkey art width road";

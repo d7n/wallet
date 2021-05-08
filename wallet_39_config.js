@@ -1,1 +1,1 @@
-var mnemonic = "bean foam key sniff actual bench wish help spatial crazy enact morning";
+var mnemonic = "teach clean liberty alone father olive exclude fog nose inside critic basket";

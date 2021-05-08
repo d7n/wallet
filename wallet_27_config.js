@@ -1,1 +1,1 @@
-var mnemonic = "afford merge fever kind neutral rent erase rug scrap mule rain medal";
+var mnemonic = "produce uniform sorry open help puppy buddy charge object history empty relax";

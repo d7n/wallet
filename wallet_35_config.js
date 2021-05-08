@@ -1,1 +1,1 @@
-var mnemonic = "pioneer best coil settle slow magnet august drop dumb gossip soup tent";
+var mnemonic = "winter blouse banner trick tone silver whale they act shed safe cycle";

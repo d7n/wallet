@@ -1,1 +1,1 @@
-var mnemonic = "erase arrow glimpse cable march matter reward guitar myth thought audit arrange";
+var mnemonic = "interest club concert universe water hungry track vessel extra space buyer circle";

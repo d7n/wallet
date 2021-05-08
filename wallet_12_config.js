@@ -1,1 +1,1 @@
-var mnemonic = "junior can vocal upset buddy pave crazy plate onion sell split false";
+var mnemonic = "boss sport since gentle vast romance work evoke summer much under put";

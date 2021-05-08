@@ -1,1 +1,1 @@
-var mnemonic = "pull runway dentist dinner zero select supreme glass outdoor purpose satisfy car";
+var mnemonic = "today route dizzy solar device motion way depth fame orphan talent same";

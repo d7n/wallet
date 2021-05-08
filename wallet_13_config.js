@@ -1,1 +1,1 @@
-var mnemonic = "rent mango sing dog vital issue wedding buzz hybrid tide army cargo";
+var mnemonic = "shoe banana embrace tackle gravity hole rhythm merit virus meat bind dismiss";

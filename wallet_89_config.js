@@ -1,1 +1,1 @@
-var mnemonic = "flame sponsor remain damage rough trim dash vendor dragon faculty ramp collect";
+var mnemonic = "impose wonder destroy pact milk sheriff cactus crazy spray pencil squirrel journey";

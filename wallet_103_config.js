@@ -1,1 +1,1 @@
-var mnemonic = "chef illness tiger where cinnamon nurse federal train picnic sunny learn liberty";
+var mnemonic = "produce lizard toilet visual walnut confirm recycle input awake forget winter bomb";

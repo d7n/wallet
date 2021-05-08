@@ -1,1 +1,1 @@
-var mnemonic = "garlic arrive during slight axis rug cute welcome rival hurt soda manual";
+var mnemonic = "police orient south essay raw approve assume client affair blue plug head";

@@ -1,1 +1,1 @@
-var mnemonic = "apology mail evolve earth abstract voice cradle model turtle pupil sword tragic";
+var mnemonic = "three hat demand select violin dismiss often gossip boat jacket inject immense";

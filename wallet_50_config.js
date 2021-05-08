@@ -1,1 +1,1 @@
-var mnemonic = "trouble proud under security village tongue tobacco nation spatial load like unaware";
+var mnemonic = "immune siren where frog wave beach margin jump decrease vehicle they power";

@@ -1,1 +1,1 @@
-var mnemonic = "skill midnight space kit bread roast camp again escape lobster desk setup";
+var mnemonic = "toast together find boat episode skin turn profit onion shrug brush right";

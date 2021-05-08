@@ -1,1 +1,1 @@
-var mnemonic = "praise sing scale pencil badge punch deal provide item clown pony word";
+var mnemonic = "swear goose fine normal year attitude hood admit various combine walnut valve";

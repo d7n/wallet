@@ -1,1 +1,1 @@
-var mnemonic = "physical wink wise such zebra hungry subway fork file negative black tree";
+var mnemonic = "reform equal gasp misery alley sound couple ozone struggle scene cigar erase";

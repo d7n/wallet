@@ -1,1 +1,1 @@
-var mnemonic = "skill baby always roast innocent bind diary ball horse movie electric priority";
+var mnemonic = "whale move social move jelly wait slight oblige fragile proud panel gold";

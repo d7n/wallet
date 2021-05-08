@@ -1,1 +1,1 @@
-var mnemonic = "city shy lecture gym rate glory panic echo student machine use vicious";
+var mnemonic = "reunion park merge lady hurdle reopen turkey happy journey wheel grow live";

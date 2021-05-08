@@ -1,1 +1,1 @@
-var mnemonic = "talent beyond manage purchase cruise crew soft priority wine stairs round setup";
+var mnemonic = "unlock hat purpose chuckle child toward blush orchard illegal quality pull neck";

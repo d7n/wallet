@@ -1,1 +1,1 @@
-var mnemonic = "dirt now orphan diamond skull return error appear just simple crash word";
+var mnemonic = "carbon live only legal tilt gather unveil faith word fix rail curve";

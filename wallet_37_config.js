@@ -1,1 +1,1 @@
-var mnemonic = "width mistake feel shell pitch fever argue metal festival target emotion sing";
+var mnemonic = "onion artefact gentle forum inside bleak asthma hungry unveil loop plate code";

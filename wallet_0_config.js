@@ -1,1 +1,1 @@
-var mnemonic = "donate divorce disease million essay vital page patch annual box learn rubber";
+var mnemonic = "tuition monster strike mimic minute company window lunar spoon future that staff";

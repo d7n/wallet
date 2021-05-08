@@ -1,1 +1,1 @@
-var mnemonic = "diamond half session frost dizzy torch velvet public notice nothing robust test";
+var mnemonic = "avocado illegal sweet shop weird expose bronze spot water wonder suggest urge";

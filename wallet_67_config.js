@@ -1,1 +1,1 @@
-var mnemonic = "honey turn vicious breeze trim table poverty nation panda amount large hill";
+var mnemonic = "tank often parade advice slot review pull describe rain glance regular unlock";

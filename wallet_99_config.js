@@ -1,1 +1,1 @@
-var mnemonic = "subject used next prevent follow achieve leisure salute column hidden orbit armor";
+var mnemonic = "tonight aerobic common night deny guilt tip major include name riot bar";

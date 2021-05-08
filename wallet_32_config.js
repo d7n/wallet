@@ -1,1 +1,1 @@
-var mnemonic = "laundry mass fringe table lounge hazard account poverty absurd ball age move";
+var mnemonic = "little window high property club nose exclude comic remain mouse chase shell";

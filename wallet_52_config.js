@@ -1,1 +1,1 @@
-var mnemonic = "federal science actor aerobic fancy olympic clarify tomato minor practice page swarm";
+var mnemonic = "dawn identify point regular blur owner gossip response slight inflict pencil episode";

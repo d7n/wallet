@@ -1,1 +1,1 @@
-var mnemonic = "thank right brass drive tag game pet then surprise rebel canvas gift";
+var mnemonic = "laptop goat cousin kangaroo build return magic curtain drop fish put reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "special popular man clean pair question vicious certain tooth erode elbow tool";
+var mnemonic = "giggle jealous drip balance source file detect drink spike garden ignore antenna";

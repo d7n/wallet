@@ -1,1 +1,1 @@
-var mnemonic = "goddess leisure weekend polar forget foil warm honey debris game endless cave";
+var mnemonic = "worry rack mercy turkey during simple man army stomach winter arctic dizzy";

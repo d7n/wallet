@@ -1,1 +1,1 @@
-var mnemonic = "trade verify only lens luggage motor parent wasp arrow spoil rebuild toe";
+var mnemonic = "employ cook waste whale world gadget essence human student change opinion clock";

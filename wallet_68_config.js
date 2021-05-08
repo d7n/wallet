@@ -1,1 +1,1 @@
-var mnemonic = "ginger tonight element bench divorce vendor require february source hammer yard alcohol";
+var mnemonic = "analyst lava they security list way globe gallery other voyage peasant chapter";

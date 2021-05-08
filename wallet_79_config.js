@@ -1,1 +1,1 @@
-var mnemonic = "worry unique cabin grape silent wreck chunk bottom cradle make budget rice";
+var mnemonic = "enrich affair pudding tower toilet armor cruel drill slide adapt ordinary minute";

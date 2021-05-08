@@ -1,1 +1,1 @@
-var mnemonic = "ask mansion bubble garlic buddy inflict demand train intact toward mention hotel";
+var mnemonic = "they doctor latin glue marble giant creek pioneer quality warm black clown";

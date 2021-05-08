@@ -1,1 +1,1 @@
-var mnemonic = "rebel aisle machine second gauge erode expand grass doll provide benefit ketchup";
+var mnemonic = "act sort affair tired door symbol still slight owner start guide lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "sing surface delay local three glimpse trust art furnace bargain enroll soul";
+var mnemonic = "two bonus infant virus balance tenant episode engage avocado action globe six";

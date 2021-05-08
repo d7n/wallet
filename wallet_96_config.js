@@ -1,1 +1,1 @@
-var mnemonic = "machine gaze teach cover crisp torch army great comic repair above floor";
+var mnemonic = "raven vendor panel wedding note lemon absorb famous silver inch neither amateur";

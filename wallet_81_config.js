@@ -1,1 +1,1 @@
-var mnemonic = "donate inquiry glimpse march suit then fog wing virtual park calm dad";
+var mnemonic = "shallow obtain because moon neglect exhaust exit razor guard cotton error hospital";

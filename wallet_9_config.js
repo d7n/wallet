@@ -1,1 +1,1 @@
-var mnemonic = "alpha resist friend release muscle camera define pyramid such junk sausage round";
+var mnemonic = "piece detect heart frame early explain machine holiday rapid reason speak seven";

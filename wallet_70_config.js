@@ -1,1 +1,1 @@
-var mnemonic = "human aware pencil hungry dutch festival inside evidence display weekend pony purse";
+var mnemonic = "swamp auction fuel tray border faculty session debate reject border version hobby";

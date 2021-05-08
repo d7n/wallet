@@ -1,1 +1,1 @@
-var mnemonic = "service tornado boost peace thank once hurry shell pretty cheese amazing floor";
+var mnemonic = "north tone agree wall diet idea tree this require doll gas omit";

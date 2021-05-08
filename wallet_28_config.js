@@ -1,1 +1,1 @@
-var mnemonic = "divorce vacuum train lion stuff pause follow canoe cook bread what traffic";
+var mnemonic = "measure whip maze govern hub problem school large shell laundry van cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "domain destroy decrease announce orange nut home illegal online primary craft window";
+var mnemonic = "call penalty recipe globe utility actress fall guess glow cousin keep wealth";

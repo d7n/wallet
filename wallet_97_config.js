@@ -1,1 +1,1 @@
-var mnemonic = "sponsor much garment jelly float one repeat spike solution position oval dinner";
+var mnemonic = "vessel second alien smoke mom eagle quote fatigue divorce camera cram pig";

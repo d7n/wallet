@@ -1,1 +1,1 @@
-var mnemonic = "galaxy mixture debris upper excuse vague twelve inject weather end pizza cement";
+var mnemonic = "story topic veteran search share nurse midnight announce pledge viable sail turn";

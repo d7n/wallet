@@ -1,1 +1,1 @@
-var mnemonic = "seminar quality shine glue weapon echo online again announce physical bargain kick";
+var mnemonic = "hover exit panda journey dose cruise pulse dolphin neglect deer day agree";

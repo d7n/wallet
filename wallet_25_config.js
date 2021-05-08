@@ -1,1 +1,1 @@
-var mnemonic = "ill action abandon young museum source remove allow mandate school area attack";
+var mnemonic = "forum subject real when balcony thing monitor friend crash educate tone liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow donate again pencil bleak october wasp kick burst journey toss science";
+var mnemonic = "mask yard wrong coyote drink pluck uphold retreat dizzy burst ten spring";

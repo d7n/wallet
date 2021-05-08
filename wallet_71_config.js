@@ -1,1 +1,1 @@
-var mnemonic = "slam perfect night rabbit stem vehicle magic scout delay echo zebra lawsuit";
+var mnemonic = "broccoli bounce weasel cactus join give betray midnight double peace grape nominee";
