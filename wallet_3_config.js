@@ -1,1 +1,1 @@
-var mnemonic = "general draw math sketch work leader merit brisk flock student pitch pretty";
+var mnemonic = "morning salmon island true ghost sibling ripple start session sleep eyebrow green";

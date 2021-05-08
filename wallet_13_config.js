@@ -1,1 +1,1 @@
-var mnemonic = "run undo hood ladder grab glass great hill boss lunar dragon junior";
+var mnemonic = "brave utility flame category dial segment patrol casual caution involve around update";

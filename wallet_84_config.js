@@ -1,1 +1,1 @@
-var mnemonic = "silly decide shoulder aunt find guilt price evidence pattern noble bubble hungry";
+var mnemonic = "divorce panel depth expand oak wire draw hope boring there owner similar";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd force indoor ecology gather vessel cup program powder tomorrow ladder cover";
+var mnemonic = "agent check giant parade original flock scissors mobile few camera version hard";

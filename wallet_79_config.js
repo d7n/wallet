@@ -1,1 +1,1 @@
-var mnemonic = "caught cram kite speed culture cram trash divorce scissors catch right board";
+var mnemonic = "tumble upset ready magic assume census cheese truly pony inspire explain lazy";

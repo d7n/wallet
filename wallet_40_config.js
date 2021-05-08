@@ -1,1 +1,1 @@
-var mnemonic = "wedding ketchup resemble bird family clap govern close fog arena employ portion";
+var mnemonic = "neither key attend seminar trophy cousin fence shaft biology purchase nuclear market";

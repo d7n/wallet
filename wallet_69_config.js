@@ -1,1 +1,1 @@
-var mnemonic = "crowd merge very alarm thought eager drift situate steak gaze capable dry";
+var mnemonic = "knock goddess right olive crime rather swear defy seek conduct hard swarm";

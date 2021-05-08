@@ -1,1 +1,1 @@
-var mnemonic = "dress reason scene parade video route combine hollow slice apple atom toy";
+var mnemonic = "ankle acid young sell shield depth tide crawl stereo buyer combine media";

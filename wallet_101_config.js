@@ -1,1 +1,1 @@
-var mnemonic = "heart play pizza rigid account local decade text orchard glimpse proud element";
+var mnemonic = "surface talk spread nature bonus wild bright cash clever ripple proof collect";

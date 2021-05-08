@@ -1,1 +1,1 @@
-var mnemonic = "frozen renew kidney rather annual help sad dignity fringe taxi shift siren";
+var mnemonic = "duty fan rapid basic potato favorite motor assume couple obscure liar country";

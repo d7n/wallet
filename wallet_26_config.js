@@ -1,1 +1,1 @@
-var mnemonic = "guess latin club edge surge explain curious face possible horn layer panda";
+var mnemonic = "cigar solve track chalk clog giraffe pledge rescue balance circle napkin school";

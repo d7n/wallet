@@ -1,1 +1,1 @@
-var mnemonic = "photo mail flush raw side vicious foil hill fire kiwi custom match";
+var mnemonic = "size update cash north muscle camera will wrist dinosaur excess supreme clever";

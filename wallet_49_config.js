@@ -1,1 +1,1 @@
-var mnemonic = "modify shift grace message kingdom swarm obtain fall marble pool decrease current";
+var mnemonic = "program abstract wheat tank pony head spend speak toward loop miracle crack";

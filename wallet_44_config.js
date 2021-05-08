@@ -1,1 +1,1 @@
-var mnemonic = "affair void subject tissue deposit anxiety fitness annual grant february spend ready";
+var mnemonic = "stand air then place garden sign gauge bubble network brush recipe retreat";

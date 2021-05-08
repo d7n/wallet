@@ -1,1 +1,1 @@
-var mnemonic = "design urban sick denial issue like arena syrup ask sick body razor";
+var mnemonic = "gospel drink crack extend pencil inject region ocean soup idle hobby trouble";

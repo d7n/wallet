@@ -1,1 +1,1 @@
-var mnemonic = "neither laundry blanket spice promote naive crush radar combine sting height cat";
+var mnemonic = "cinnamon erupt doctor glance barely audit stem tortoise lawn solution divorce shy";

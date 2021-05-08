@@ -1,1 +1,1 @@
-var mnemonic = "pass garage garage prepare potato common funny desk wife lumber until steak";
+var mnemonic = "ripple pear air stumble floor ritual elephant chair empower athlete suit kick";

@@ -1,1 +1,1 @@
-var mnemonic = "square sun inner couple cave index turtle time width transfer fringe sand";
+var mnemonic = "demise snap february possible taxi twist boring column exercise mixture crack vessel";

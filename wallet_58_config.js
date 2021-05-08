@@ -1,1 +1,1 @@
-var mnemonic = "leopard novel inch dawn yard fossil huge easily flee minor wreck clock";
+var mnemonic = "dial tissue bamboo dentist mountain north autumn just jealous own spread guess";

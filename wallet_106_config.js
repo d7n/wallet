@@ -1,1 +1,1 @@
-var mnemonic = "teach current motion valve employ plug cousin alley large weasel twist curious";
+var mnemonic = "display gloom income plate pepper horse trophy oxygen describe artist minute chest";

@@ -1,1 +1,1 @@
-var mnemonic = "know iron essay ahead orphan next hybrid hundred animal sing thing gaze";
+var mnemonic = "broccoli used kiss forum render stuff immense enhance about direct casino race";

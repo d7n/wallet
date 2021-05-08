@@ -1,1 +1,1 @@
-var mnemonic = "vessel brother wood universe idea there apart kingdom badge exercise outside hybrid";
+var mnemonic = "salute myth rose nice boy song toy bitter opera find beef choice";

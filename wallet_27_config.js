@@ -1,1 +1,1 @@
-var mnemonic = "near much debris satisfy trim spring canoe more weird pool palace gas";
+var mnemonic = "alcohol return purpose inspire live lonely federal peace humble wife enact abandon";

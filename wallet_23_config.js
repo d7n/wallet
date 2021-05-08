@@ -1,1 +1,1 @@
-var mnemonic = "leisure veteran rug present art combine current visual fantasy canyon annual myth";
+var mnemonic = "picture pulp gown ankle hello paddle raven popular same minor garage evoke";

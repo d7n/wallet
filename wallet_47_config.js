@@ -1,1 +1,1 @@
-var mnemonic = "casino prosper train raccoon cushion blind wife useful calm mom brown viable";
+var mnemonic = "negative message siren couch oyster whisper ice quick guess squeeze genuine tip";

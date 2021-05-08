@@ -1,1 +1,1 @@
-var mnemonic = "all tongue write pill nothing alone dial divorce orchard shadow path desert";
+var mnemonic = "ghost luxury document goose jewel good art army rival collect unknown equip";

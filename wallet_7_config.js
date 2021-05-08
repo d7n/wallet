@@ -1,1 +1,1 @@
-var mnemonic = "elder walnut crumble swarm quarter false rebel steak buyer wine tree arrow";
+var mnemonic = "charge explain correct alpha avocado gift twice wagon mail match huge record";

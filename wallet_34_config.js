@@ -1,1 +1,1 @@
-var mnemonic = "maze peasant describe fiscal fog sad announce dose pink crucial addict choice";
+var mnemonic = "essay belt actor treat inner next arm portion loyal involve system motion";

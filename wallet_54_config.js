@@ -1,1 +1,1 @@
-var mnemonic = "dentist pumpkin whale love utility venue wasp loop century immune field mask";
+var mnemonic = "abandon quick expand silent smooth busy inhale coyote garage switch entry athlete";

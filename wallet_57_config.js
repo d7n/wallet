@@ -1,1 +1,1 @@
-var mnemonic = "mix census during weapon female hope bind dolphin entire hurdle muscle change";
+var mnemonic = "topple that manage cave skill car logic grace final void that imitate";

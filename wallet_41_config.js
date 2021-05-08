@@ -1,1 +1,1 @@
-var mnemonic = "unfold rose word tag omit belt detail burger shell race security unfair";
+var mnemonic = "box coil expose intact cave area pattern scrap above liquid normal daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "what draft silent fade stage have garage movie able warrior muffin weapon";
+var mnemonic = "track proud session turkey name memory someone snack spell transfer main album";

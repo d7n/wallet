@@ -1,1 +1,1 @@
-var mnemonic = "dumb save clutch trick robust access view forward child grape cheese cash";
+var mnemonic = "fossil outside tumble cable increase cactus people false list mad provide debris";

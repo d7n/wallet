@@ -1,1 +1,1 @@
-var mnemonic = "vocal reform muscle wait useful firm process tip rude open daughter sick";
+var mnemonic = "fire kick chronic antenna camera green spell layer grain rotate cotton guilt";

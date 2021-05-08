@@ -1,1 +1,1 @@
-var mnemonic = "imitate online science nation solve nurse tent need spoil humor okay agent";
+var mnemonic = "harbor solid south gorilla rule shy advance uncle jump situate trophy frozen";

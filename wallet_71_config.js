@@ -1,1 +1,1 @@
-var mnemonic = "liquid eagle now lobster neck grant judge buffalo idle regret child remind";
+var mnemonic = "baby gorilla cactus tiger distance settle token harvest express follow sting siren";

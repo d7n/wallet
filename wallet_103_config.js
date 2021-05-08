@@ -1,1 +1,1 @@
-var mnemonic = "exist deputy solar naive into forward forest infant depth advance divert coral";
+var mnemonic = "chalk trigger fence offer pole keep mixed enter doctor water near birth";

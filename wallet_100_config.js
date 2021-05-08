@@ -1,1 +1,1 @@
-var mnemonic = "chief method insect item ginger struggle wink buyer infant circle improve diary";
+var mnemonic = "raw luxury code orient cement hope walnut private junior sugar grief ignore";

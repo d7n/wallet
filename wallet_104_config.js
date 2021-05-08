@@ -1,1 +1,1 @@
-var mnemonic = "chef baby toilet poverty embark yellow shoulder bread layer region liquid salmon";
+var mnemonic = "topic dinner quantum popular zebra glue danger awful equal worry parent digital";

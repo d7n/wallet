@@ -1,1 +1,1 @@
-var mnemonic = "search soul pen sorry grab occur knife senior mansion nut jungle end";
+var mnemonic = "vapor frozen pioneer panther cargo advance barely poet match day wear spread";

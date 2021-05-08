@@ -1,1 +1,1 @@
-var mnemonic = "gorilla someone parrot ill coral more pig random auto bomb pumpkin give";
+var mnemonic = "casino involve alter record violin junior anger crash smile fall regret okay";

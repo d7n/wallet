@@ -1,1 +1,1 @@
-var mnemonic = "beyond myself cement rebel satisfy hour dash pelican tortoise laundry great regret";
+var mnemonic = "chuckle congress giraffe bless spread patient offer announce letter initial eagle level";

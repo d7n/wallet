@@ -1,1 +1,1 @@
-var mnemonic = "infant detect hundred horror tribe glass umbrella science across resist bright embody";
+var mnemonic = "universe odor quality evoke wall speak embody tobacco moment rough dizzy disease";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle rail myth child hazard unit photo goat always comfort rifle urban";
+var mnemonic = "gospel exit embrace lava daughter legal face lesson wet measure laptop change";

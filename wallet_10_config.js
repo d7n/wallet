@@ -1,1 +1,1 @@
-var mnemonic = "kitten pulse shop vague hotel tiny beauty appear appear source unable manage";
+var mnemonic = "safe alpha option there clerk major frame eagle dismiss rocket gravity air";

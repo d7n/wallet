@@ -1,1 +1,1 @@
-var mnemonic = "slice bullet sing throw valid mean sweet unknown mango tube bleak shadow";
+var mnemonic = "pony number secret laptop heavy limb indicate waste blouse people misery moral";

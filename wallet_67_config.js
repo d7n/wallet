@@ -1,1 +1,1 @@
-var mnemonic = "way page laugh blue exit assault trophy rate kingdom glide sport library";
+var mnemonic = "target enhance either jeans flower diamond display nephew begin armed drama ridge";

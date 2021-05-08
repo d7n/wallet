@@ -1,1 +1,1 @@
-var mnemonic = "wild comfort goose sound act fire proof disease company tourist coach they";
+var mnemonic = "already lumber skull surprise phrase raven casino punch cream once proof timber";

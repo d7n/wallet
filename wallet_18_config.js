@@ -1,1 +1,1 @@
-var mnemonic = "chef same craft best viable latin voyage battle anxiety decrease power reveal";
+var mnemonic = "hire gaze water timber bitter put oppose fly trouble space young feel";

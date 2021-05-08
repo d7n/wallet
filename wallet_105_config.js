@@ -1,1 +1,1 @@
-var mnemonic = "maid elevator element banner parade hidden more basket gadget thank leg ladder";
+var mnemonic = "odor barrel appear other useless enact turn topic cancel jaguar guilt panther";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil lottery apart around shine staff wide turn erode crane grid february";
+var mnemonic = "large praise few host moral term deny expand verify please develop child";

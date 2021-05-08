@@ -1,1 +1,1 @@
-var mnemonic = "real paper ketchup alpha net mixture bone tilt purchase wink silent lumber";
+var mnemonic = "sick title cheese hybrid whip luxury system carbon tilt clever bleak ship";

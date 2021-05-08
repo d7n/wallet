@@ -1,1 +1,1 @@
-var mnemonic = "brave phrase file abuse poverty city anxiety level bid mammal garden ball";
+var mnemonic = "focus fringe smart deer mechanic draft ski taxi plunge delay engage liquid";

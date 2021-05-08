@@ -1,1 +1,1 @@
-var mnemonic = "mesh virtual tag lock achieve immense basic father shaft slogan green canoe";
+var mnemonic = "frog write double cliff spoon neither endorse lock library employ clip pink";

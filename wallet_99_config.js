@@ -1,1 +1,1 @@
-var mnemonic = "sphere private derive cry human sibling consider board smooth federal mean favorite";
+var mnemonic = "quality report laugh matrix amazing venue tank museum bag this release wagon";

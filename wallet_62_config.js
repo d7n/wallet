@@ -1,1 +1,1 @@
-var mnemonic = "oppose devote rocket daring purity ask suffer mansion chunk brand left naive";
+var mnemonic = "teach math surprise priority rail gown own alone celery connect dawn ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "example wave ladder mandate time crouch call couch stable phrase shrimp huge";
+var mnemonic = "reward lock kangaroo tragic sadness almost possible drastic gain hint limb poem";

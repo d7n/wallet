@@ -1,1 +1,1 @@
-var mnemonic = "leg away delay nominee skull very luggage delay acid hidden degree balance";
+var mnemonic = "cushion embark bronze practice flat shiver brick blouse exhibit seven behind demise";

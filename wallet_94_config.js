@@ -1,1 +1,1 @@
-var mnemonic = "salute laugh remain thought drop exile deny history come champion dilemma garbage";
+var mnemonic = "gentle process elegant finger favorite bar foil ribbon ketchup moon envelope glory";

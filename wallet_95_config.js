@@ -1,1 +1,1 @@
-var mnemonic = "caution prison please filter tortoise poet game renew patch later life silent";
+var mnemonic = "result fat habit inmate gym speak sing beyond bless marine wing blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "social gain cover neck giant race protect minute danger silly pencil also";
+var mnemonic = "flat valve shallow invest alien dwarf clean debris photo into immune salad";

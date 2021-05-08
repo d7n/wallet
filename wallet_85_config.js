@@ -1,1 +1,1 @@
-var mnemonic = "topic roof unlock update whip glass sugar sail envelope useful bullet lens";
+var mnemonic = "brick tooth similar slice derive address cannon impact else beyond hood minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy cover cook dizzy surprise benefit simple arctic clown imitate melody monkey";
+var mnemonic = "acquire scheme situate conduct asthma pumpkin lock remain skill bracket love diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "fog baby afford someone thank race type beef asset burst clip powder";
+var mnemonic = "degree betray eyebrow sound matrix use plastic reform duck dry margin rate";

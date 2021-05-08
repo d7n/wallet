@@ -1,1 +1,1 @@
-var mnemonic = "harsh shoot entire sting hedgehog example stadium veteran predict boil page supply";
+var mnemonic = "obtain hobby amateur bread weird slam busy notable pilot vivid seminar tide";

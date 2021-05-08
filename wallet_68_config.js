@@ -1,1 +1,1 @@
-var mnemonic = "sea hair patch glass permit cloth pluck fit purity rookie hood vanish";
+var mnemonic = "yellow equip arrow sun hospital ramp level damp minute laptop brand rapid";

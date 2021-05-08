@@ -1,1 +1,1 @@
-var mnemonic = "cereal insect metal lounge black until first pizza try again person matrix";
+var mnemonic = "cupboard vicious veteran family warm hundred term leaf popular over animal valid";

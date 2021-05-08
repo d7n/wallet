@@ -1,1 +1,1 @@
-var mnemonic = "alone verb patch other betray park gossip ancient cable baby wash witness";
+var mnemonic = "sun soft goat mad sausage actress reform usage head yard credit animal";

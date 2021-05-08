@@ -1,1 +1,1 @@
-var mnemonic = "code empty unaware evolve mule forum arrange ancient hockey found poem online";
+var mnemonic = "keep crater prepare kingdom usual stage slender explain fly crumble oil pride";

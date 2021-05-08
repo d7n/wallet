@@ -1,1 +1,1 @@
-var mnemonic = "word happy crumble panda kingdom much fish answer scare north tuition recycle";
+var mnemonic = "urban when glue romance task excite husband hold interest matter exact rival";

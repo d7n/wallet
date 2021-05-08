@@ -1,1 +1,1 @@
-var mnemonic = "favorite foot around legend iron nephew ketchup sport wealth west burst under";
+var mnemonic = "harbor stem armed scissors permit choose unknown penalty cigar high number save";

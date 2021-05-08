@@ -1,1 +1,1 @@
-var mnemonic = "cabin visa trip inherit stamp track system chief nest mail open provide";
+var mnemonic = "skin require crumble transfer enhance corn embody random frozen stay mean judge";

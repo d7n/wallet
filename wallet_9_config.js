@@ -1,1 +1,1 @@
-var mnemonic = "finish trouble brush short scatter exotic fun knee bulk manage easy valid";
+var mnemonic = "era thing boil fluid olive race bullet position surround goose bright crew";

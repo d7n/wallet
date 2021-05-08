@@ -1,1 +1,1 @@
-var mnemonic = "enlist silk over pear employ occur siren bleak tiger click sleep loyal";
+var mnemonic = "collect theory yellow invest fruit slogan upper glad boss entry phrase drum";

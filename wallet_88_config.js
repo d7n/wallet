@@ -1,1 +1,1 @@
-var mnemonic = "few axis acoustic soap whisper dish curious solar inquiry palm anxiety original";
+var mnemonic = "lift silver icon cousin flame time prevent apple thought final audit people";

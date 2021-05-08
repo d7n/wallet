@@ -1,1 +1,1 @@
-var mnemonic = "title deliver actor march legend annual coral current tuna napkin draw able";
+var mnemonic = "junk cute time traffic wrap bean fresh right congress behave citizen pledge";

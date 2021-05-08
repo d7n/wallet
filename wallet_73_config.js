@@ -1,1 +1,1 @@
-var mnemonic = "visa double aim alarm sister source resource symbol mesh north measure mind";
+var mnemonic = "fatal tiger case catch season congress diagram degree mistake aunt replace misery";

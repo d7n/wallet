@@ -1,1 +1,1 @@
-var mnemonic = "jump never lawsuit biology foster lesson mechanic lumber couple slice spin stadium";
+var mnemonic = "cancel imitate wheat mandate saddle coyote alley cabin canoe torch pipe sign";

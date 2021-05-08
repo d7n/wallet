@@ -1,1 +1,1 @@
-var mnemonic = "size slow nose tree sail reward noise noble few salad nominee pool";
+var mnemonic = "mosquito length decline task blur kid book auto garbage orchard audit call";

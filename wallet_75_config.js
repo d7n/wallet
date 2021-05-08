@@ -1,1 +1,1 @@
-var mnemonic = "cream educate upper hunt meat boring add rural receive bid radio angry";
+var mnemonic = "apart library matter hover column scatter heavy lawn taxi skill budget magnet";

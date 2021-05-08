@@ -1,1 +1,1 @@
-var mnemonic = "focus cotton burger stairs stone tip note enough squirrel language good frequent";
+var mnemonic = "rack whale local supply sketch guilt baby canyon owner cherry sport worry";

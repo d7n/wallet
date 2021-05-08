@@ -1,1 +1,1 @@
-var mnemonic = "panic check effort merge liar expect foot ship undo bleak admit exclude";
+var mnemonic = "fringe smart bridge estate casino radio frost success maze radio boring giggle";

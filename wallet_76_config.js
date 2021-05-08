@@ -1,1 +1,1 @@
-var mnemonic = "poet all news alone mad tomato winter casino subject sorry transfer youth";
+var mnemonic = "slogan frequent bus metal stage refuse door transfer income organ use lawn";

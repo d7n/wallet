@@ -1,1 +1,1 @@
-var mnemonic = "sauce abstract pony jelly express harvest outside you lemon alien follow rule";
+var mnemonic = "dumb laugh layer tattoo alarm conduct innocent lecture shield venue bag bunker";

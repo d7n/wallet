@@ -1,1 +1,1 @@
-var mnemonic = "car clog pave latin oyster scrub knife grunt infant about rubber better";
+var mnemonic = "solve weather art general chronic hurt town limit slight release amateur fall";

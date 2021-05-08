@@ -1,1 +1,1 @@
-var mnemonic = "laugh remove shuffle divert nerve guilt weasel tonight initial lemon tonight sponsor";
+var mnemonic = "lunch witness oak planet prevent bottom imitate tail model hover core crop";

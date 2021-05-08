@@ -1,1 +1,1 @@
-var mnemonic = "merit apology neglect few acquire various fancy juice segment inner prepare own";
+var mnemonic = "control soul duty toast alcohol avoid agent mandate floor silk gym resemble";

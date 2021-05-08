@@ -1,1 +1,1 @@
-var mnemonic = "protect net sight bacon impulse first tell detail force target sunny toast";
+var mnemonic = "soon bird endorse sing card crush alert pill exotic sense warm solar";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing few multiply shove allow capable predict always dance noise distance tattoo";
+var mnemonic = "satisfy all auto winter inflict brand flash patient loyal hire local talk";

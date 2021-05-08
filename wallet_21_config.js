@@ -1,1 +1,1 @@
-var mnemonic = "hero leg swing loud transfer profit jeans gown melt basket dish basic";
+var mnemonic = "win kiwi end grab insect seven amount stage allow nuclear empty combine";

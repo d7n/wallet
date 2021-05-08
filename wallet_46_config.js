@@ -1,1 +1,1 @@
-var mnemonic = "change note caught aerobic hip velvet ladder level issue believe baby noodle";
+var mnemonic = "bone whisper reduce practice disagree erode truth fury ostrich enrich member wheat";

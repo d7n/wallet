@@ -1,1 +1,1 @@
-var mnemonic = "lyrics laugh ask culture exclude name festival when end flame basic danger";
+var mnemonic = "grain regular oven response siren phrase member burger prefer glow half shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "staff goddess label property weird burger drip sword talk pencil job wash";
+var mnemonic = "hen again woman eight dog number shine snow prepare blade cart brown";

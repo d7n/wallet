@@ -1,1 +1,1 @@
-var mnemonic = "fade agent simple sure dice become exhibit rigid rookie wait melt diet";
+var mnemonic = "laptop grab churn soap canoe coin essay run wing alone shove diesel";

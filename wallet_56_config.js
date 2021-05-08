@@ -1,1 +1,1 @@
-var mnemonic = "rule demand dune vibrant burger august crowd switch winner eternal crop weird";
+var mnemonic = "sausage end response cross announce scissors report genuine glow daring chunk fluid";
