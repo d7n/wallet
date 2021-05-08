@@ -1,1 +1,1 @@
-var mnemonic = "swim viable around key host pioneer dose trick describe rely adult wisdom";
+var mnemonic = "person void okay car ethics airport habit secret boost life warm guitar";

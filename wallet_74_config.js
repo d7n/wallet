@@ -1,1 +1,1 @@
-var mnemonic = "evoke trick carry upset track oval grain divert silent earn play hedgehog";
+var mnemonic = "ten pepper gasp become kiwi scheme beauty shift deputy fragile flight opinion";

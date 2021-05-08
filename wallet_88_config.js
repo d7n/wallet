@@ -1,1 +1,1 @@
-var mnemonic = "beauty panther patrol famous animal win unaware mail lunar brown infant vault";
+var mnemonic = "puppy endless tent board diary turn clay century edge home mouse ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "annual detect dream space phone liar involve apology blast gesture shell loop";
+var mnemonic = "tree bronze story crunch strike street second work purchase luxury either fun";

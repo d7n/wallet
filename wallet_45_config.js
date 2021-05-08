@@ -1,1 +1,1 @@
-var mnemonic = "chuckle hello quality mansion define lucky reopen price click above negative creek";
+var mnemonic = "grace crouch cherry ship later burger gloom kidney build ivory obey dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "educate camp pottery ensure snack gallery belt illness demise fish rare caught";
+var mnemonic = "ball chef merit gate dose select gap loyal maid clown wisdom negative";

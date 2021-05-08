@@ -1,1 +1,1 @@
-var mnemonic = "soldier magic extra asthma harbor sheriff cheap volume jaguar pluck lion soup";
+var mnemonic = "fortune quit announce travel absorb addict lamp car fish ivory thunder sleep";

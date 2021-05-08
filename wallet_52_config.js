@@ -1,1 +1,1 @@
-var mnemonic = "rebel garlic alley sign weasel warrior office promote vault olympic dizzy match";
+var mnemonic = "angle oxygen all mouse whisper material pride banner favorite soccer fish better";

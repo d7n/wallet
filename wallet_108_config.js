@@ -1,1 +1,1 @@
-var mnemonic = "alone gossip turn predict metal west board wrist monkey genuine iron disease";
+var mnemonic = "way usage capable relax dismiss gloom intact language velvet web recycle into";

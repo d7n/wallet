@@ -1,1 +1,1 @@
-var mnemonic = "round priority used firm owner biology piece design flame caught few bone";
+var mnemonic = "tongue liquid change gate limit vanish denial ribbon horse garage cinnamon drill";

@@ -1,1 +1,1 @@
-var mnemonic = "follow brown choose visit south eagle spirit gesture oblige census symptom father";
+var mnemonic = "also health crowd popular waste sniff cradle later rare frozen review list";

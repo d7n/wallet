@@ -1,1 +1,1 @@
-var mnemonic = "ring staff team soccer utility crew fix acid jungle into remember flush";
+var mnemonic = "planet rose relief season question bubble face fire enemy flip later east";

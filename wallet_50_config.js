@@ -1,1 +1,1 @@
-var mnemonic = "anchor spray joy exchange combine school section can risk rib husband chunk";
+var mnemonic = "retreat general face tiger retire theme east hill science avoid uncover weapon";

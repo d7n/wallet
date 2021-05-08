@@ -1,1 +1,1 @@
-var mnemonic = "erase actor write wrap caution cage morning basic mechanic rose below group";
+var mnemonic = "pulp entry modify bicycle february caught mouse right point pole name area";

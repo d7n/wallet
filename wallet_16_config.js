@@ -1,1 +1,1 @@
-var mnemonic = "remain illness news bundle spray leaf guilt junior pumpkin document repair argue";
+var mnemonic = "plug city educate salt garbage glimpse crisp resist museum ask pulp cruise";

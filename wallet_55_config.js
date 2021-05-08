@@ -1,1 +1,1 @@
-var mnemonic = "alone have salon shaft shadow boring egg ladder connect glance spoil celery";
+var mnemonic = "deposit clap fiction couch peace grain next energy south suffer profit reform";

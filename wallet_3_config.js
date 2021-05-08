@@ -1,1 +1,1 @@
-var mnemonic = "pair vacuum umbrella decade open ridge dismiss result vast family food puzzle";
+var mnemonic = "crash fitness fruit clog arrow inherit funny melody fabric tip ball repeat";

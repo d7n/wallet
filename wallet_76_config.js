@@ -1,1 +1,1 @@
-var mnemonic = "casual stool clean place reward common race worth payment spice allow day";
+var mnemonic = "intact amateur move gun when weapon anger visa female opinion long swarm";

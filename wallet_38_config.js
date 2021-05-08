@@ -1,1 +1,1 @@
-var mnemonic = "immune cancel gospel client coral capable select pigeon satisfy artist inner sun";
+var mnemonic = "bread ceiling month muscle lumber purity hurry rug embrace birth mimic federal";

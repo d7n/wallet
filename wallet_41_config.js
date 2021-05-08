@@ -1,1 +1,1 @@
-var mnemonic = "six bicycle appear mix stadium demise edit pottery member soda lunch name";
+var mnemonic = "penalty step moon immune hen rigid web segment scare twelve dizzy shove";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual device spot organ claim tilt axis quick buzz modify know cannon";
+var mnemonic = "artefact walnut axis arrest intact base decrease crazy ozone approve action struggle";

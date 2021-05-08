@@ -1,1 +1,1 @@
-var mnemonic = "camera clay resource describe nation recall float tiny language fabric lecture suffer";
+var mnemonic = "melt lecture dragon average scissors dawn wife near noodle toe angry blouse";

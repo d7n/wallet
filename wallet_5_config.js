@@ -1,1 +1,1 @@
-var mnemonic = "myth hour argue firm dish depth fat twist extend casual diet trip";
+var mnemonic = "very mirror alcohol goat way clock welcome kitchen artefact young effort call";

@@ -1,1 +1,1 @@
-var mnemonic = "claim unit dry lounge empower calm estate arrest eye dwarf demise next";
+var mnemonic = "fossil category assume other glance buddy adapt video wise install organ civil";

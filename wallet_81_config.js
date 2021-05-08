@@ -1,1 +1,1 @@
-var mnemonic = "lens supply toy brick rate devote exchange business range elegant scare rug";
+var mnemonic = "trap cloth girl diesel satisfy system lawn erupt firm success zebra poet";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty rail student urge enter fence apart worth piano alarm result crane";
+var mnemonic = "puzzle nothing chair dish sauce kitchen learn glimpse snack blood escape squirrel";

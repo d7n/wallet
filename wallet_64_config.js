@@ -1,1 +1,1 @@
-var mnemonic = "seven hurry quiz cool flag right giraffe volcano evolve arena plunge rural";
+var mnemonic = "prosper now auto expose assume grocery bonus glimpse host volume music fresh";

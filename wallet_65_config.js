@@ -1,1 +1,1 @@
-var mnemonic = "will during fruit glow world decrease misery file roast concert oil zone";
+var mnemonic = "naive outside glue fix reflect great office will busy promote crystal shuffle";

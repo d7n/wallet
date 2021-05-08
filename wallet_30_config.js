@@ -1,1 +1,1 @@
-var mnemonic = "table tired monitor armed bargain turtle brick slush enemy nice bunker pear";
+var mnemonic = "ugly bleak ceiling web shy cook embrace sponsor lava pear quantum grain";

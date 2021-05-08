@@ -1,1 +1,1 @@
-var mnemonic = "buddy indoor toast bitter essence circle drum female clock notable kind sauce";
+var mnemonic = "park angry help virus whip usual twelve prize there keen saddle tape";

@@ -1,1 +1,1 @@
-var mnemonic = "evil still pulp emerge minor math meat answer amazing oblige demand during";
+var mnemonic = "relax term current afford canvas kingdom display hungry opera rate club topic";

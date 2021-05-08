@@ -1,1 +1,1 @@
-var mnemonic = "divorce tag rabbit fade shield heart abstract coral athlete gospel decorate disorder";
+var mnemonic = "truly impulse solve unit steel drum chalk torch spot warrior eager shrug";

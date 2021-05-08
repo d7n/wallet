@@ -1,1 +1,1 @@
-var mnemonic = "ostrich delay choose voice bicycle misery play subject salmon outside car seed";
+var mnemonic = "apart uncle dutch achieve famous add clown hover virtual swamp piano jungle";

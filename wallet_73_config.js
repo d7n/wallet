@@ -1,1 +1,1 @@
-var mnemonic = "absorb lens infant hurdle typical airport brain trigger habit kangaroo toddler scene";
+var mnemonic = "setup plate beach industry baby october slam satisfy gallery farm original prepare";

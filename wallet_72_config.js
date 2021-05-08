@@ -1,1 +1,1 @@
-var mnemonic = "spoon satoshi quantum spread tired promote work mail tourist tail damage famous";
+var mnemonic = "merge prosper brief favorite blur imitate tuition mule security when donor blue";

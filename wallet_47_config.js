@@ -1,1 +1,1 @@
-var mnemonic = "buffalo equip shed day inmate pear vault tail crisp toward uniform bacon";
+var mnemonic = "october direct maze enact tree artwork vocal myself divorce nasty onion jewel";

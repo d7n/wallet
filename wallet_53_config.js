@@ -1,1 +1,1 @@
-var mnemonic = "toilet crack olive clay during soldier gasp cement share smoke sun reopen";
+var mnemonic = "beach dizzy witness swear prize baby raise boy void police power sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict credit rack satoshi horror abandon eagle speak letter very clutch favorite";
+var mnemonic = "cry together fun capable want ceiling pupil lumber torch elite click inquiry";

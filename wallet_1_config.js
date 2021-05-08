@@ -1,1 +1,1 @@
-var mnemonic = "erase enemy defense refuse slow toe garage sad peanut various choose trust";
+var mnemonic = "asset thought similar skin jewel govern check milk chest below duck absent";

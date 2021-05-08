@@ -1,1 +1,1 @@
-var mnemonic = "gift square choose glide view illegal senior radar violin poem coffee parrot";
+var mnemonic = "rent lemon toward over amused comfort copy solve neutral quality flee coral";

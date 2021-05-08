@@ -1,1 +1,1 @@
-var mnemonic = "ripple middle chicken category exchange mad ship faith truck poet celery add";
+var mnemonic = "trade time truly tag assault cheese genuine tiny parrot solve eternal celery";

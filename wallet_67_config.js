@@ -1,1 +1,1 @@
-var mnemonic = "neutral math lottery mandate memory text alien learn lava toddler town skull";
+var mnemonic = "sense fame walnut two holiday retreat response divide shallow need inherit smooth";

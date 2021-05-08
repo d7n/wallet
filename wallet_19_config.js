@@ -1,1 +1,1 @@
-var mnemonic = "boss replace honey gadget rough time bullet daring vital glass bonus camp";
+var mnemonic = "endless laundry action genre choose check zone hold obtain pigeon busy finger";

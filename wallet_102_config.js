@@ -1,1 +1,1 @@
-var mnemonic = "execute grant pool render battle immense hip toy useless retreat candy dress";
+var mnemonic = "cash velvet jealous next tennis twice soul cat finish suspect anxiety noble";

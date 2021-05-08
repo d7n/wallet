@@ -1,1 +1,1 @@
-var mnemonic = "creek auto erosion swim yard stuff update exact early reason warfare duck";
+var mnemonic = "small local exhaust brown vintage sibling crucial inside venture lobster abstract labor";

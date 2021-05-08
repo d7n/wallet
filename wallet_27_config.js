@@ -1,1 +1,1 @@
-var mnemonic = "trash annual miss muscle pulp measure window update absorb kit language number";
+var mnemonic = "delay ring glimpse walnut voyage ahead friend erupt cat private fit leg";

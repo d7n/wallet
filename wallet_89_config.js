@@ -1,1 +1,1 @@
-var mnemonic = "ocean chalk fun track injury wife rescue candy grunt cool vacuum eyebrow";
+var mnemonic = "crowd mansion castle replace suggest era neither bench fashion you yard velvet";

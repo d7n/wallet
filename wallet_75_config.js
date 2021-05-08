@@ -1,1 +1,1 @@
-var mnemonic = "twice plunge approve easily roast autumn any figure perfect enlist sunny leave";
+var mnemonic = "wave mushroom check distance flight jaguar match spy believe shine reflect fork";

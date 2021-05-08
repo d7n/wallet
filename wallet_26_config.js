@@ -1,1 +1,1 @@
-var mnemonic = "daughter desk fuel globe innocent result leisure rule amount noise clever afford";
+var mnemonic = "almost trip dial vibrant reopen citizen hint tip yard gadget spin soda";

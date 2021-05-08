@@ -1,1 +1,1 @@
-var mnemonic = "blur check before treat sunset inhale fade describe antique pumpkin safe derive";
+var mnemonic = "fever south weekend giggle dentist luggage giant faith crumble ketchup air cable";

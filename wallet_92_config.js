@@ -1,1 +1,1 @@
-var mnemonic = "limit gentle power hollow pumpkin way wonder cruise chicken clutch friend volume";
+var mnemonic = "gadget pyramid tide coyote riot planet chicken grain tree spread enroll laptop";

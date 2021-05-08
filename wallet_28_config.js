@@ -1,1 +1,1 @@
-var mnemonic = "milk shoot online dinner chaos short fix twelve basic boat pill mutual";
+var mnemonic = "idea emotion virus foil romance method beauty spike pluck allow clean brief";

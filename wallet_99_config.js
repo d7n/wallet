@@ -1,1 +1,1 @@
-var mnemonic = "bind artwork endless potato renew trigger crew tip ten oxygen hip lava";
+var mnemonic = "coffee early promote false radar fork power minute raccoon document wheat hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire oil bone ceiling lonely begin razor energy voice sell struggle grid";
+var mnemonic = "one taste adjust cricket fetch will purse pink afford melody lizard cute";

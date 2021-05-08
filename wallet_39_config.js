@@ -1,1 +1,1 @@
-var mnemonic = "bubble view network solar occur axis diet turtle lake sphere fox holiday";
+var mnemonic = "cash romance record narrow toilet liar mammal churn rabbit again debate soup";

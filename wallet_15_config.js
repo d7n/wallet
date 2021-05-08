@@ -1,1 +1,1 @@
-var mnemonic = "boost fat wink nothing this derive team hurry crater renew favorite large";
+var mnemonic = "simple excite loud lawsuit food trade veteran venue soldier one fee else";

@@ -1,1 +1,1 @@
-var mnemonic = "unit rebuild mouse flee rubber gain ritual ripple change cook nut scrap";
+var mnemonic = "gravity upset price walnut muffin fly urban easily grow equal season social";

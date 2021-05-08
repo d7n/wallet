@@ -1,1 +1,1 @@
-var mnemonic = "can produce maximum badge analyst vacant gesture onion beyond fish awkward plastic";
+var mnemonic = "opera artist organ glue awful defy file board organ bring absent start";

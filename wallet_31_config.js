@@ -1,1 +1,1 @@
-var mnemonic = "enhance help knee number mystery now beef panel else mandate prepare bid";
+var mnemonic = "bundle anchor flush return warm cigar hen boat plate execute situate juice";

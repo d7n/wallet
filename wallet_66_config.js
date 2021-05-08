@@ -1,1 +1,1 @@
-var mnemonic = "manage turtle color humor bar ice animal exhibit worth meadow catalog bar";
+var mnemonic = "occur castle material tag dove measure arm need merit aunt monkey jar";

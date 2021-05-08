@@ -1,1 +1,1 @@
-var mnemonic = "steel demise that bargain pupil joy purchase evil cement upset paddle maze";
+var mnemonic = "cereal phrase twelve pear enrich immune join light dream flash deputy file";

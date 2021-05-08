@@ -1,1 +1,1 @@
-var mnemonic = "hospital carbon luggage kingdom student junior rabbit lunar chuckle private toward asset";
+var mnemonic = "husband pottery sound section view situate glare acoustic divide glass supreme rally";

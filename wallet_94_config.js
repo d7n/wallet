@@ -1,1 +1,1 @@
-var mnemonic = "agent embark mouse dismiss scheme east ticket outdoor buzz title whip wear";
+var mnemonic = "bean hospital coffee trial mandate era camp army ensure curious sail lab";

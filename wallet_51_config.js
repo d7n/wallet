@@ -1,1 +1,1 @@
-var mnemonic = "gun century angle decide design cheese axis bottom shift monitor blur screen";
+var mnemonic = "boss chuckle review nuclear obvious lobster base walnut fluid aim budget normal";

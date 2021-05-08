@@ -1,1 +1,1 @@
-var mnemonic = "wait acid labor tomato habit attack bright woman outside relief outer peace";
+var mnemonic = "wise possible brand canvas dinosaur chunk such resist design drum scissors vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "memory six weasel nerve ecology sight thrive arrange negative give afraid jazz";
+var mnemonic = "kingdom dolphin lawn traffic skull impact solve curious frost sudden slender gravity";

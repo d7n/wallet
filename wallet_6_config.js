@@ -1,1 +1,1 @@
-var mnemonic = "doll federal east fan swift blouse extra chronic fame before client olive";
+var mnemonic = "burden dish sure bean step south anxiety gate fragile large defy fish";

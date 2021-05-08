@@ -1,1 +1,1 @@
-var mnemonic = "anxiety celery gauge expose return visa balance oven scrub exist sure hood";
+var mnemonic = "citizen stove opinion original reveal turtle uniform tilt account tunnel wait doll";

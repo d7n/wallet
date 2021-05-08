@@ -1,1 +1,1 @@
-var mnemonic = "equal photo strike deny follow august sight blood strategy energy huge affair";
+var mnemonic = "speed left assume curve poem chaos pottery execute pull orange disagree deposit";

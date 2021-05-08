@@ -1,1 +1,1 @@
-var mnemonic = "tent muscle blue knock build walnut pear bacon fan audit copper chuckle";
+var mnemonic = "sell screen quit describe kite one pill bachelor acquire miss rubber twelve";

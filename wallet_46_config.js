@@ -1,1 +1,1 @@
-var mnemonic = "deliver matrix pulp dirt spirit belt morning choose cattle destroy street extra";
+var mnemonic = "often true lobster gasp notable pulse wink aerobic pink what couple search";

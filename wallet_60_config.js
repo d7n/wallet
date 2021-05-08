@@ -1,1 +1,1 @@
-var mnemonic = "length trend sort someone idea used blue divide flat near crew spawn";
+var mnemonic = "flock shallow monkey steak ladder morning ride dynamic sock liquid run mean";

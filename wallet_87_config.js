@@ -1,1 +1,1 @@
-var mnemonic = "ginger senior vintage devote goat spoil vintage make fork method captain vibrant";
+var mnemonic = "barrel illness thrive reveal find require anger indicate actress urban humble stuff";

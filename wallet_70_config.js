@@ -1,1 +1,1 @@
-var mnemonic = "grief season phone fence behave divide route hybrid stock donor garlic special";
+var mnemonic = "globe measure emerge mix stone rate lazy turkey perfect sugar chief that";

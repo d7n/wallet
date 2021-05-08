@@ -1,1 +1,1 @@
-var mnemonic = "board morning message ugly still scan negative other mixture day deny runway";
+var mnemonic = "pulp scale phrase rude limb swap doctor under pepper spike fire just";

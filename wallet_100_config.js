@@ -1,1 +1,1 @@
-var mnemonic = "era law pipe treat cannon height trip test episode twin vendor easily";
+var mnemonic = "tree leader vivid song kingdom ritual also avocado grace album reduce cattle";

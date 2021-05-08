@@ -1,1 +1,1 @@
-var mnemonic = "pudding rule proud simple fortune truly rival carry card modify trial visit";
+var mnemonic = "disease end juice stand romance forget abstract amazing shadow session host live";

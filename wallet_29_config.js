@@ -1,1 +1,1 @@
-var mnemonic = "abstract arch clap mix chair mail relief express grocery title letter jealous";
+var mnemonic = "pepper innocent spirit question mule super dog enhance viable treat danger soap";

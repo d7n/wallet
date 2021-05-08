@@ -1,1 +1,1 @@
-var mnemonic = "gate inflict hurry fox dress acid buyer glad twin endorse budget index";
+var mnemonic = "arch trust balcony install rose fly repeat pet stand sight resist present";

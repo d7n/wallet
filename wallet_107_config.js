@@ -1,1 +1,1 @@
-var mnemonic = "marine skull wisdom jazz thought lyrics quality act spirit kite cloud man";
+var mnemonic = "legal collect champion lock usual version drift balcony pill rate chimney beyond";

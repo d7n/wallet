@@ -1,1 +1,1 @@
-var mnemonic = "twelve amused wrap shell glimpse shift ribbon genuine describe leisure organ comic";
+var mnemonic = "shrug maid strike bracket skill oven occur culture shrug agent middle program";

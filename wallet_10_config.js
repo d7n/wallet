@@ -1,1 +1,1 @@
-var mnemonic = "accuse toilet renew buffalo much scene can suffer flush chicken upgrade tornado";
+var mnemonic = "warfare valid stone fat melody blame source powder mix possible horn aspect";

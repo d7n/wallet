@@ -1,1 +1,1 @@
-var mnemonic = "case often banana border comic daring gorilla robot castle fall tennis give";
+var mnemonic = "chuckle scare husband legal child coyote canvas swim next seminar wealth quality";

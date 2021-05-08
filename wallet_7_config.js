@@ -1,1 +1,1 @@
-var mnemonic = "salmon width ghost ivory series couch deliver honey civil zoo mouse enlist";
+var mnemonic = "join fossil bright worth found meadow tip index remind decrease below midnight";

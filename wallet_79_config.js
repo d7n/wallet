@@ -1,1 +1,1 @@
-var mnemonic = "stamp about sentence right make eight ivory depart cactus weasel awesome path";
+var mnemonic = "flip tree menu winter bottom argue pattern quick rapid frequent leaf opera";

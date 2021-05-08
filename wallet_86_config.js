@@ -1,1 +1,1 @@
-var mnemonic = "evoke duck advance woman during pear metal garage autumn uncover horse chunk";
+var mnemonic = "green senior combine bless brother account crash bracket aerobic hover antenna apology";
