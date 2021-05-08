@@ -1,1 +1,1 @@
-var mnemonic = "around tenant friend flame earn come install wage pyramid curious jungle angry";
+var mnemonic = "globe tenant iron theme title broccoli pumpkin swim clock absorb fancy release";

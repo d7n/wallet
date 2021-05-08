@@ -1,1 +1,1 @@
-var mnemonic = "february innocent wage member crime absurd teach river bamboo various country tower";
+var mnemonic = "fun office calm card purity must spawn achieve educate wealth organ dove";

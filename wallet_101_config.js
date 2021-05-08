@@ -1,1 +1,1 @@
-var mnemonic = "slab fury letter zero magic input bottom arrest quality night outer enough";
+var mnemonic = "other brass luggage oven differ punch sting reason paddle attract egg meat";

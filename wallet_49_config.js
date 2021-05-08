@@ -1,1 +1,1 @@
-var mnemonic = "snack always model mountain kingdom dismiss sustain hurry crane horn enter borrow";
+var mnemonic = "busy illegal tomato seek bargain market grab grain spawn timber door cloud";

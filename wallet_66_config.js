@@ -1,1 +1,1 @@
-var mnemonic = "rather thrive sense system pact icon above actress beach journey tape lift";
+var mnemonic = "regret creek outer setup glory shove summer feature myth solid swift opera";

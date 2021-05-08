@@ -1,1 +1,1 @@
-var mnemonic = "junior express bind file gentle weekend column muffin tennis damage lawn junior";
+var mnemonic = "anger electric true motion unfold survey kit actor chapter during basket mercy";

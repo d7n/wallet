@@ -1,1 +1,1 @@
-var mnemonic = "cabbage proof minimum tell nation mercy recall thunder inside gold expand gather";
+var mnemonic = "brand hill history focus joke lunar position uniform step recall bless soccer";

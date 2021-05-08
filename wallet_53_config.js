@@ -1,1 +1,1 @@
-var mnemonic = "permit silk into faint siege close off fan road brick coffee sphere";
+var mnemonic = "crack draw pluck air estate horse weird injury core pioneer kidney letter";

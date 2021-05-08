@@ -1,1 +1,1 @@
-var mnemonic = "clever avocado bronze any bird uncle element unable magnet skin boring equal";
+var mnemonic = "dish melody hockey evolve cement angle trash stadium recipe depth cute path";

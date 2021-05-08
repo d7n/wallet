@@ -1,1 +1,1 @@
-var mnemonic = "cricket amazing scan vague match canvas amount timber ordinary matrix hope spare";
+var mnemonic = "rebel above help grace mule art sorry coral child convince this join";

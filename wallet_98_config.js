@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo woman arctic road flat catch render weasel improve ski giggle bottom";
+var mnemonic = "anger federal task right view poverty worry fox another example lift record";

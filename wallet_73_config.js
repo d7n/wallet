@@ -1,1 +1,1 @@
-var mnemonic = "trip ticket custom blossom real town maximum average airport topic radio glance";
+var mnemonic = "sight shoe like clock rose rally vicious drift solution naive latin slogan";

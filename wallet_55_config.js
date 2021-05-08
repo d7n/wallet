@@ -1,1 +1,1 @@
-var mnemonic = "minimum doll cheap reward law portion speed easy industry royal impact alone";
+var mnemonic = "mimic sell mule present exhaust gadget brush depth guide unfair suit empty";

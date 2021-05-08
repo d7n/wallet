@@ -1,1 +1,1 @@
-var mnemonic = "rug decorate warrior gas minute weird conduct dose dinner belt keep soup";
+var mnemonic = "room lyrics allow urge bright bullet piece genre beach pepper reunion despair";

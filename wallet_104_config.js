@@ -1,1 +1,1 @@
-var mnemonic = "urban argue tiny dolphin beauty disease gas tape dutch sentence item dolphin";
+var mnemonic = "lens soccer analyst useful country fun finish patch web access exile toss";

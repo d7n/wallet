@@ -1,1 +1,1 @@
-var mnemonic = "pact crush senior anchor bitter artist ignore uncle column better magic autumn";
+var mnemonic = "entry tumble glue vicious any light cargo worth uniform aim history deposit";

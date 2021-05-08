@@ -1,1 +1,1 @@
-var mnemonic = "canvas topic program bright talk honey pipe mixture glance awkward scheme aerobic";
+var mnemonic = "mansion monster together heart resist situate soul clutch follow erosion bird suspect";

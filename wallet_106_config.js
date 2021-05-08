@@ -1,1 +1,1 @@
-var mnemonic = "fiscal fetch expect coil lobster valid space grass old else fossil wise";
+var mnemonic = "equip main welcome idea day firm nuclear uniform session edit already artwork";

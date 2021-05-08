@@ -1,1 +1,1 @@
-var mnemonic = "track master silver clap radio true mix stool desk unknown explain avoid";
+var mnemonic = "boil food advice six slot slight gaze angle zone december give monitor";

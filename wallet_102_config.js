@@ -1,1 +1,1 @@
-var mnemonic = "where icon loan borrow donor easy place valid orange genre pool supreme";
+var mnemonic = "shoot design about adjust town lunch health drastic organ before visa harbor";

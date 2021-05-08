@@ -1,1 +1,1 @@
-var mnemonic = "prepare squeeze arch bracket own student utility ladder head catalog differ limit";
+var mnemonic = "reject now connect depart else minute magic suit flee guide assault truly";

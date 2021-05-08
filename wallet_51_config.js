@@ -1,1 +1,1 @@
-var mnemonic = "clock month measure smile fabric match lumber defense this carpet milk thrive";
+var mnemonic = "direct able ski beach crucial sadness path pilot find eye post project";

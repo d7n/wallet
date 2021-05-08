@@ -1,1 +1,1 @@
-var mnemonic = "autumn museum wood close ladder flight lunar version wedding clean taste swamp";
+var mnemonic = "critic pudding shop quantum ski write nasty base suffer ten excess media";

@@ -1,1 +1,1 @@
-var mnemonic = "piano argue critic ill hockey call embrace hurdle attract island act clinic";
+var mnemonic = "antenna harsh diagram busy drop abstract day coffee hollow clean purse gap";

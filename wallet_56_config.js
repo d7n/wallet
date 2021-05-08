@@ -1,1 +1,1 @@
-var mnemonic = "erase render robot whale salmon soccer draft modify theme churn price task";
+var mnemonic = "become silver draw boat way drill sentence pole any essence quick sword";

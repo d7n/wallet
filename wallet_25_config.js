@@ -1,1 +1,1 @@
-var mnemonic = "hard inside two gym shift glass ensure you around mail modify universe";
+var mnemonic = "scrub clinic funny moral chalk analyst wage ribbon margin gown acoustic question";

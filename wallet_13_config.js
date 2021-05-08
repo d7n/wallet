@@ -1,1 +1,1 @@
-var mnemonic = "pulse pencil employ drink turn brick tackle rib man mail alone decorate";
+var mnemonic = "fly unlock earn egg tail prepare retreat dizzy pool country bird hockey";

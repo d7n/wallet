@@ -1,1 +1,1 @@
-var mnemonic = "come cluster youth shift smile crane morning large almost path swap step";
+var mnemonic = "lava hill detail such visual play region shift pool theme girl group";

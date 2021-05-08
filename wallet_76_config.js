@@ -1,1 +1,1 @@
-var mnemonic = "spread puppy estate camp fashion analyst earn help degree bracket salt version";
+var mnemonic = "employ goose march oil credit velvet correct lemon chair clip thing indicate";

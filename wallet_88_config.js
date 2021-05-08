@@ -1,1 +1,1 @@
-var mnemonic = "juice regret range scorpion laugh nasty mistake expect dawn fee sausage fossil";
+var mnemonic = "unlock seek link slight negative choice bargain time push february piece cargo";

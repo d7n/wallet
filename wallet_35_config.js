@@ -1,1 +1,1 @@
-var mnemonic = "borrow rival sand bracket corn combine say clip maze strong fresh nice";
+var mnemonic = "age brown replace host save circle device easily minor bird novel old";

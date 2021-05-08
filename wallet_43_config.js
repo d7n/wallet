@@ -1,1 +1,1 @@
-var mnemonic = "dog ripple exercise snap receive hurdle wheel tortoise blast talent special energy";
+var mnemonic = "badge suggest tonight switch stuff thrive color copy flock future vapor coyote";

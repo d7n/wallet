@@ -1,1 +1,1 @@
-var mnemonic = "ladder calm usual dilemma bridge fold damp price make gauge verify label";
+var mnemonic = "jar bar soda love this immune cover annual march shop crisp void";

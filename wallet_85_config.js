@@ -1,1 +1,1 @@
-var mnemonic = "slush chuckle solar correct gas net fix sweet person mass blame clip";
+var mnemonic = "forget method plunge ring practice injury casual furnace kind stick law weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "divert fresh amused steak topic embrace salt pill nerve fabric link hen";
+var mnemonic = "lawn marine radio enough tenant aisle employ water problem oil fashion addict";

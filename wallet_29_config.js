@@ -1,1 +1,1 @@
-var mnemonic = "twelve pioneer blush ready swear convince cactus brand there update city pet";
+var mnemonic = "define waste wolf video canvas review garage prepare clip lady top law";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder weather nerve cluster voyage very black end maple peasant doctor ability";
+var mnemonic = "copy there labor coral size caught palm guide split breeze staff proof";

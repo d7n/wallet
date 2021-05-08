@@ -1,1 +1,1 @@
-var mnemonic = "person vivid quantum unusual enable spice mechanic canyon trick spell rug inflict";
+var mnemonic = "predict cat tobacco chicken black then diary prison scene favorite current certain";

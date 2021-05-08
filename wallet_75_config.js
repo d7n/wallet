@@ -1,1 +1,1 @@
-var mnemonic = "quarter humble electric depart embrace park slice useful into pass alpha air";
+var mnemonic = "divorce family orbit confirm suggest entire you pond butter cube caught high";

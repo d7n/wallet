@@ -1,1 +1,1 @@
-var mnemonic = "sea shiver cargo glow dismiss liar rigid spoon silent keep similar indicate";
+var mnemonic = "program space mesh enable possible genius midnight maximum daring sound border similar";

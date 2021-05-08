@@ -1,1 +1,1 @@
-var mnemonic = "actor penalty sing library object glance cheese banana royal renew bullet reveal";
+var mnemonic = "price clarify moral talent section legend diagram use apple second frozen blade";

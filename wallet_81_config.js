@@ -1,1 +1,1 @@
-var mnemonic = "cancel subject warm side split fox banana scorpion expect genius glory matrix";
+var mnemonic = "glass network virus project mystery sense shrug online worth arrow reunion supreme";

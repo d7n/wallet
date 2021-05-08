@@ -1,1 +1,1 @@
-var mnemonic = "elder camp occur bag buzz summer logic win ahead buffalo denial lamp";
+var mnemonic = "kangaroo month speak dinosaur behave fire bamboo one zero such cinnamon kidney";

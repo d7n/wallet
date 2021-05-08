@@ -1,1 +1,1 @@
-var mnemonic = "donate page segment suspect spatial since bring axis allow toe scare foster";
+var mnemonic = "wedding monster clap pen daring asset bird cram kit obtain oblige dirt";

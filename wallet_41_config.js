@@ -1,1 +1,1 @@
-var mnemonic = "cause fresh exhibit ski sorry spray tower boil demise file crew clarify";
+var mnemonic = "charge salt plate tourist gown visual fringe relief globe year pen liquid";

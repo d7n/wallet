@@ -1,1 +1,1 @@
-var mnemonic = "slush idea symbol climb adapt logic arm warrior absorb battle grab hold";
+var mnemonic = "arrow moral soup shift release gain path sing brand example bicycle bomb";

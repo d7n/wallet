@@ -1,1 +1,1 @@
-var mnemonic = "valid draw swing load mask fuel lonely unaware benefit art capable busy";
+var mnemonic = "attack ticket unveil viable awkward fetch weird joy call control segment spy";

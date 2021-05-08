@@ -1,1 +1,1 @@
-var mnemonic = "toy ridge mistake olympic fossil broccoli news document eternal evidence view marble";
+var mnemonic = "creek rent include tray arrest siege father include below better potato bus";

@@ -1,1 +1,1 @@
-var mnemonic = "waste anxiety wine age notable above dash mask slim salad weather federal";
+var mnemonic = "please alarm spy woman spring task put town boring alarm cinnamon divide";

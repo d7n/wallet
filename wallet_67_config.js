@@ -1,1 +1,1 @@
-var mnemonic = "kick again example soccer squirrel smile blouse trouble camp grain song genius";
+var mnemonic = "risk road book quote three pelican spell harbor smile favorite umbrella stadium";

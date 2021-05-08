@@ -1,1 +1,1 @@
-var mnemonic = "dream erase forest butter evil person attack trophy attack amazing addict replace";
+var mnemonic = "protect rib inside tuition cradle moral syrup coast edit subject yellow gas";

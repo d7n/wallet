@@ -1,1 +1,1 @@
-var mnemonic = "together fatigue check mail rebuild term label health file retire slam feature";
+var mnemonic = "document until truck extend school hungry subway planet company green dutch useful";

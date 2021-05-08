@@ -1,1 +1,1 @@
-var mnemonic = "come text theory doctor private stem unable among tomato like talent hub";
+var mnemonic = "ocean stamp test boat thunder immune like sniff identify bus disorder glad";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral acquire famous pear vocal kite phrase segment sight aspect silent ranch";
+var mnemonic = "split dismiss pelican trumpet twenty arrow verify slogan zoo visa text level";

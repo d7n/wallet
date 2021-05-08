@@ -1,1 +1,1 @@
-var mnemonic = "load media dice account wage lemon vendor cherry level test twin online";
+var mnemonic = "expire glove now below zebra jacket tuition rapid visa say grid brave";

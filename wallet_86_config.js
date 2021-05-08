@@ -1,1 +1,1 @@
-var mnemonic = "genuine horror excess achieve okay once account library today hen head volume";
+var mnemonic = "tank diary dust vacuum citizen focus material return answer mirror arrow motion";

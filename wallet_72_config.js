@@ -1,1 +1,1 @@
-var mnemonic = "remain captain slim print brisk divorce eye imitate lucky wild sight angle";
+var mnemonic = "axis decline panther unveil very need mutual alone fan also finish heart";

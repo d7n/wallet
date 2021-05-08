@@ -1,1 +1,1 @@
-var mnemonic = "test change disagree seek duck wish wheat obey cherry valid clap frown";
+var mnemonic = "parrot cereal print volume club shed degree guard cheese test retire remain";

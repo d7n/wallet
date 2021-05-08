@@ -1,1 +1,1 @@
-var mnemonic = "ladder bring next sentence effort bounce usual order chuckle pull drastic web";
+var mnemonic = "pistol kite unaware verify knife scorpion approve swear climb involve web sunny";

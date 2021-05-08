@@ -1,1 +1,1 @@
-var mnemonic = "protect caught mandate vehicle nation oxygen moment brisk gym couch coyote meadow";
+var mnemonic = "change neck injury fun enroll oven taxi concert erupt scene cross illegal";

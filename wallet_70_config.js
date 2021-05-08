@@ -1,1 +1,1 @@
-var mnemonic = "wild orchard install fold diagram wish chest eagle seat minor father popular";
+var mnemonic = "true dumb diagram width uncle chronic garbage switch illegal gain child silly";

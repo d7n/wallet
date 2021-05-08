@@ -1,1 +1,1 @@
-var mnemonic = "prefer grain basket indoor forget twice enter absorb trap kid path crunch";
+var mnemonic = "wave inmate cancel upset chat reason version idea loan dawn meat genius";

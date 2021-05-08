@@ -1,1 +1,1 @@
-var mnemonic = "clinic vivid paper renew absent chapter enact off crush meadow shadow select";
+var mnemonic = "link beyond crumble tired assume typical route erupt online host verb regret";

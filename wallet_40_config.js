@@ -1,1 +1,1 @@
-var mnemonic = "result mystery pigeon rookie dune three share daring text traffic swap stick";
+var mnemonic = "where prize become gather write lion almost foot habit forget want guide";

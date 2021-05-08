@@ -1,1 +1,1 @@
-var mnemonic = "shallow update coach axis useful solve baby bridge before deal top enlist";
+var mnemonic = "mail staff grape loud nice behave fury arena auction uphold spice host";

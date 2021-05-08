@@ -1,1 +1,1 @@
-var mnemonic = "chat safe before hour river oil verify such lesson duty hair guess";
+var mnemonic = "example wheat secret review tooth program hip swift village news crucial sad";

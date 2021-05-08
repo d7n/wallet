@@ -1,1 +1,1 @@
-var mnemonic = "carbon major all desk lady satisfy conduct kidney square elder skate little";
+var mnemonic = "rent identify switch over uniform horse elbow term rookie clinic awake ozone";

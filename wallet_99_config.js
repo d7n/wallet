@@ -1,1 +1,1 @@
-var mnemonic = "absorb prison zone blanket jar level token snake combine upset often olive";
+var mnemonic = "virtual wheat before turn surface again cherry useful number ivory grocery ready";

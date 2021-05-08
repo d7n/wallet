@@ -1,1 +1,1 @@
-var mnemonic = "move swamp ask guard drill patrol attack clown humor uphold pluck abandon";
+var mnemonic = "pluck hire rose ivory tone payment pair label benefit yard cabin clay";

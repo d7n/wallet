@@ -1,1 +1,1 @@
-var mnemonic = "police museum october denial frog drive okay bicycle swim kit hidden purse";
+var mnemonic = "vivid similar supply brown village grit sun bulb gasp menu manual saddle";

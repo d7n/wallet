@@ -1,1 +1,1 @@
-var mnemonic = "total vital miracle drive order render force example leader curve reduce erupt";
+var mnemonic = "scatter upgrade horse faculty similar sock unfold palm clutch acoustic equip put";

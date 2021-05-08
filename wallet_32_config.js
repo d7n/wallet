@@ -1,1 +1,1 @@
-var mnemonic = "second novel obscure harvest sail swing vibrant erode link tomorrow barely occur";
+var mnemonic = "little tenant grain upper maple earth place scan radio aisle spend off";

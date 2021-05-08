@@ -1,1 +1,1 @@
-var mnemonic = "dentist illness vivid agent pill spend upset trim hunt outside loop jewel";
+var mnemonic = "amateur client couple effort ritual cherry check rate truly escape prosper script";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble monkey kick curve solution approve tell drive student owner goat risk";
+var mnemonic = "nose view enforce mass blush badge ridge ostrich genuine select end ball";

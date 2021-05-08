@@ -1,1 +1,1 @@
-var mnemonic = "water jeans soccer organ glimpse thing wife unit tuna smile year cover";
+var mnemonic = "fiber vivid gift crisp early kid amateur they crowd end syrup month";

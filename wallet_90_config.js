@@ -1,1 +1,1 @@
-var mnemonic = "web enrich hollow blossom credit jewel dice shadow despair heavy enforce double";
+var mnemonic = "sheriff satisfy keen student gas artwork win put artist subway govern field";

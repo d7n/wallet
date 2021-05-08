@@ -1,1 +1,1 @@
-var mnemonic = "latin crowd inhale sense cable brand degree someone diamond dog piano tired";
+var mnemonic = "prefer kite ugly planet original false draw armed edit pulp shiver salute";

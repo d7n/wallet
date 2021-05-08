@@ -1,1 +1,1 @@
-var mnemonic = "come spread crater arrow chicken skin promote bike use hurdle exercise viable";
+var mnemonic = "jealous design motor twist increase obscure dish duty stadium grunt town move";

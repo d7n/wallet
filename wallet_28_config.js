@@ -1,1 +1,1 @@
-var mnemonic = "time debris over census special label rose wear emotion recipe palace toy";
+var mnemonic = "potato yellow relief luxury column prefer away betray piano soap jump wisdom";

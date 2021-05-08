@@ -1,1 +1,1 @@
-var mnemonic = "verify monster october ensure first chat page soft orchard peanut parade disagree";
+var mnemonic = "razor weather sing purse south strong modify infant attend inform praise celery";

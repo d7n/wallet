@@ -1,1 +1,1 @@
-var mnemonic = "nasty property cotton trumpet suit code nerve conduct image misery accuse trend";
+var mnemonic = "weapon umbrella word impulse mule open strategy nasty mesh spoil cycle excess";

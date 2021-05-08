@@ -1,1 +1,1 @@
-var mnemonic = "object pact test federal angle lonely other document curve sleep unfold struggle";
+var mnemonic = "obscure embody orphan sense ignore caution raw fitness awkward muffin void hawk";

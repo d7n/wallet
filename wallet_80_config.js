@@ -1,1 +1,1 @@
-var mnemonic = "boy trophy song fiscal sniff crucial wave prison sponsor dolphin tribe stable";
+var mnemonic = "pumpkin future property certain maximum portion clay wreck dizzy marble leisure bone";

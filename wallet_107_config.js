@@ -1,1 +1,1 @@
-var mnemonic = "bracket morning letter twist relax useful divert squirrel daring message push abstract";
+var mnemonic = "average draw grow filter meadow come false welcome moral start purity explain";
