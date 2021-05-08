@@ -1,1 +1,1 @@
-var mnemonic = "innocent basic city clock science hamster what sail cycle garlic usual rich";
+var mnemonic = "obvious castle disorder grace ski february farm lab shell tired rude half";

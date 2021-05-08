@@ -1,1 +1,1 @@
-var mnemonic = "endorse snack picture base uphold collect attitude leopard rent omit toe ability";
+var mnemonic = "honey life donkey load loop slice outside dilemma decide useful lecture reflect";

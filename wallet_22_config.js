@@ -1,1 +1,1 @@
-var mnemonic = "excite vote scare lawsuit doctor depth grid circle domain add census rival";
+var mnemonic = "famous ribbon antique same thing paddle tiny brisk lunch arena master major";

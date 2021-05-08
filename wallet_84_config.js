@@ -1,1 +1,1 @@
-var mnemonic = "wool media light fit define suggest net ranch shallow into cloud rocket";
+var mnemonic = "charge tennis length gift little credit column inside acquire pioneer exclude burger";

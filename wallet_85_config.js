@@ -1,1 +1,1 @@
-var mnemonic = "input ivory rally clog merge radio brown novel cable wreck verb october";
+var mnemonic = "sting juice diesel vacant rather robust ship ignore forest enable feature lion";

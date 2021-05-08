@@ -1,1 +1,1 @@
-var mnemonic = "capable paddle noise juice divide train trigger when host pen ridge risk";
+var mnemonic = "neither liquid neck bottom upon actress hunt vendor daughter hero obey accuse";

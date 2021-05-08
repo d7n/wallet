@@ -1,1 +1,1 @@
-var mnemonic = "play grief latin easily leaf hope cave coral sugar oven mystery alley";
+var mnemonic = "modify enhance jacket end fury whip ramp seat pond actress puzzle memory";

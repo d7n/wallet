@@ -1,1 +1,1 @@
-var mnemonic = "shaft short black float doctor melody hair drum cave board alley cigar";
+var mnemonic = "margin there ride debate plastic aware cram penalty gold asset meat breeze";

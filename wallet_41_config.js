@@ -1,1 +1,1 @@
-var mnemonic = "debate gasp page badge daring remember chef earth tip muscle flush head";
+var mnemonic = "kind labor certain invite foil sick steak junk milk girl embody fashion";

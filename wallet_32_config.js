@@ -1,1 +1,1 @@
-var mnemonic = "mystery begin mixed audit stadium fine taxi circle page very hurt eternal";
+var mnemonic = "lottery unfair obvious hurt settle scout become cinnamon drastic skate maximum south";

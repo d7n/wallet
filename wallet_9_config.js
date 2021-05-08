@@ -1,1 +1,1 @@
-var mnemonic = "denial mom arm exile roof solve exact seat hundred casino equal slogan";
+var mnemonic = "rail hobby remove ketchup tourist loop clever leader open mansion approve receive";

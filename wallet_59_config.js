@@ -1,1 +1,1 @@
-var mnemonic = "candy endorse yard giant minimum lonely actual today injury essay spider north";
+var mnemonic = "cat shove know cat mushroom concert ethics waste pair join surface flame";

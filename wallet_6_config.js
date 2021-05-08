@@ -1,1 +1,1 @@
-var mnemonic = "refuse head famous state crawl cushion just maple valve animal castle cross";
+var mnemonic = "tape like sleep garment half inflict another universe cherry strong rug coil";

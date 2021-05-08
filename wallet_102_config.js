@@ -1,1 +1,1 @@
-var mnemonic = "business remember please barrel copy absent faculty food video scout cactus satisfy";
+var mnemonic = "nuclear document pink ugly over match eight elegant acoustic pelican someone sail";

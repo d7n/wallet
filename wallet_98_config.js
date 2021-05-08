@@ -1,1 +1,1 @@
-var mnemonic = "swear lift love swarm zoo feed round know dinner pair taste better";
+var mnemonic = "flock sauce cinnamon buffalo strong caught one census abandon situate patrol clever";

@@ -1,1 +1,1 @@
-var mnemonic = "snap defense maze culture cost wagon blame deputy belt guess crazy eager";
+var mnemonic = "road boost thrive satisfy assault flash swear hurdle seminar choice library bargain";

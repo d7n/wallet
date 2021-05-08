@@ -1,1 +1,1 @@
-var mnemonic = "mule blade duty panther chef ketchup what dolphin fever citizen size egg";
+var mnemonic = "thrive scorpion lens easily slight that violin couch hurry soup episode chaos";

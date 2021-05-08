@@ -1,1 +1,1 @@
-var mnemonic = "that correct can swarm coconut high absent spice public fox pelican put";
+var mnemonic = "trash have gold sea burst people fee orange catalog chef grace clay";

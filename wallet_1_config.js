@@ -1,1 +1,1 @@
-var mnemonic = "awake ethics differ twin negative student search rely volcano captain trade loan";
+var mnemonic = "always document write orbit bleak speak local rain gather jazz tilt arena";

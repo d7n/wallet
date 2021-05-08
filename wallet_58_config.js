@@ -1,1 +1,1 @@
-var mnemonic = "merge author brush surprise pulse update crash walk credit differ eyebrow echo";
+var mnemonic = "disagree initial file sail forum obtain wolf elbow snack hello throw uphold";

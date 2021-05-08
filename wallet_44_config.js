@@ -1,1 +1,1 @@
-var mnemonic = "baby rate shaft shed shoulder garbage talk awesome curious review vault horn";
+var mnemonic = "west kitchen width foil era clutch rural protect impact nation eight flat";

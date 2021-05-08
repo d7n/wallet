@@ -1,1 +1,1 @@
-var mnemonic = "final toy pipe grocery midnight above census page check hollow robot dirt";
+var mnemonic = "raw planet cool fun vibrant rescue urban start inform monster lyrics blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "anger long glide clap nuclear glow reveal undo road best stem ready";
+var mnemonic = "shine fire hazard oyster armed dismiss volume lift rifle illegal swear display";

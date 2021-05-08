@@ -1,1 +1,1 @@
-var mnemonic = "test rib cause trim forget first hundred kid fluid barrel mask rack";
+var mnemonic = "pelican track wrestle mixture feed bulb wreck boat slot silly chaos prevent";

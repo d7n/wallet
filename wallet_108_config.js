@@ -1,1 +1,1 @@
-var mnemonic = "inch minimum unknown entry fuel behave jeans palace milk yard shock nature";
+var mnemonic = "razor wink prepare inch salt involve impose device burger inmate reflect shine";

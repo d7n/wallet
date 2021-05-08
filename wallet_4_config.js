@@ -1,1 +1,1 @@
-var mnemonic = "shield relax nothing true brave fat tail short clog bag girl pumpkin";
+var mnemonic = "cart danger float recycle real piano erode movie glue chuckle mix enact";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel join execute siege gloom guitar health list mesh hedgehog evidence like";
+var mnemonic = "arctic mixed spirit example elevator popular excuse cheap rib soft cart dash";

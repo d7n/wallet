@@ -1,1 +1,1 @@
-var mnemonic = "purity accuse aware gasp usual champion genuine useless vehicle vacant owner artefact";
+var mnemonic = "relief casino update identify distance divide alley limb wire slab limb slogan";

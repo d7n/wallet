@@ -1,1 +1,1 @@
-var mnemonic = "arrange find toilet select idle stadium bridge busy false resist trade excuse";
+var mnemonic = "small length capital shuffle bracket install three happy hamster gap ticket bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "weather lava trade hire royal rely sand keen team balance slab flee";
+var mnemonic = "front skate laugh code deny average exhaust dolphin churn image soft sausage";

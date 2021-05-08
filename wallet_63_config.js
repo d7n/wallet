@@ -1,1 +1,1 @@
-var mnemonic = "welcome nest cluster shine general crucial exclude pact oxygen day people clarify";
+var mnemonic = "bubble impose uphold once flock group goddess energy school bag vendor common";

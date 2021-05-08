@@ -1,1 +1,1 @@
-var mnemonic = "occur swim oxygen metal melody pill horse patch lemon resist slab swim";
+var mnemonic = "obvious museum trash response income kiwi three script must movie equip sponsor";

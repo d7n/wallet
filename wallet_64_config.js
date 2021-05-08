@@ -1,1 +1,1 @@
-var mnemonic = "action range east adult effort join manage pull kind marble comic begin";
+var mnemonic = "hamster animal broccoli guide island actress found round pitch dirt upset hire";

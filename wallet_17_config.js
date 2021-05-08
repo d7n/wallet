@@ -1,1 +1,1 @@
-var mnemonic = "tube intact plunge interest swarm jar blast visual vote crunch recipe sell";
+var mnemonic = "month deny accuse stove size risk clown wall tumble alone injury sight";

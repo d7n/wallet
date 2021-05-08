@@ -1,1 +1,1 @@
-var mnemonic = "team craft index dune romance consider champion glad web culture shuffle clarify";
+var mnemonic = "one miracle heart twelve health brave ahead crowd nut tunnel message nothing";

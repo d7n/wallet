@@ -1,1 +1,1 @@
-var mnemonic = "expose various barely safe million ten senior profit task vicious surround pen";
+var mnemonic = "team lava normal zone celery outside clerk vivid defense change code skill";

@@ -1,1 +1,1 @@
-var mnemonic = "maple couch child estate apple orphan keep road spray dose scrap fix";
+var mnemonic = "future across grid desk holiday there honey farm scatter inmate ladder claw";

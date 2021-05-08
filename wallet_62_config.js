@@ -1,1 +1,1 @@
-var mnemonic = "home address crack call frozen garden jewel bargain coil hazard velvet nature";
+var mnemonic = "host slush fiber toy spoil fury frost student spread immense sibling chef";

@@ -1,1 +1,1 @@
-var mnemonic = "rate promote indicate submit gift allow carpet need gasp harsh gadget debate";
+var mnemonic = "sleep only burden random profit remove steak brisk satisfy sell double dragon";

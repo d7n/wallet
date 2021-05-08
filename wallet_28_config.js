@@ -1,1 +1,1 @@
-var mnemonic = "army fetch bench choose lobster nuclear humble prison reject submit ship shock";
+var mnemonic = "foster once immune gain sketch upon filter like equip picture staff depth";

@@ -1,1 +1,1 @@
-var mnemonic = "invest just inch pottery card file people gasp fiscal rubber swamp zone";
+var mnemonic = "salute soap arch require desk siren demise cereal decorate renew evil process";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease witness season nature disagree since wood friend what find nurse tattoo";
+var mnemonic = "update garlic unusual detail tunnel icon ask glue setup kangaroo gravity electric";

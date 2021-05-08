@@ -1,1 +1,1 @@
-var mnemonic = "view enforce author grit prosper task entry loud trap bench sadness voyage";
+var mnemonic = "dentist renew loan metal quiz begin never trial digital another order cotton";

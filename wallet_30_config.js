@@ -1,1 +1,1 @@
-var mnemonic = "write laptop easy page forward topple marble flee swing protect juice bind";
+var mnemonic = "service loyal member zero once worth seat click sense boring involve hard";

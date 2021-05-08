@@ -1,1 +1,1 @@
-var mnemonic = "cave punch night mail chef symptom loop skin camp senior wish disease";
+var mnemonic = "point quiz swear nurse suspect man empower two faint garment bargain stairs";

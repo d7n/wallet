@@ -1,1 +1,1 @@
-var mnemonic = "flower depth penalty genius hybrid office february another jacket charge maze upon";
+var mnemonic = "exotic reflect mixture file mind identify engage tomorrow fuel filter people divert";

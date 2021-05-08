@@ -1,1 +1,1 @@
-var mnemonic = "harbor kidney arrange display duck door mandate poet mail library alone corn";
+var mnemonic = "slice doll buddy toss history dish hold innocent diesel section student wreck";

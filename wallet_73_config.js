@@ -1,1 +1,1 @@
-var mnemonic = "uncover useless eight usual gloom require demise offer sunset glare banner erupt";
+var mnemonic = "scorpion electric elephant joy vague empower arrest embody prize student hammer source";

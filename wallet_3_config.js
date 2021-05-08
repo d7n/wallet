@@ -1,1 +1,1 @@
-var mnemonic = "deposit drink lamp desk play ginger column awkward lift material salmon clump";
+var mnemonic = "clump purse velvet legend wealth love level small common private evolve pelican";

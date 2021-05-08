@@ -1,1 +1,1 @@
-var mnemonic = "student basket response mean business meadow regret attack palm crumble rally mountain";
+var mnemonic = "endorse change stool bracket dash win security chest purse leisure vague tuition";

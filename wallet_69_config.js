@@ -1,1 +1,1 @@
-var mnemonic = "trip garment brisk view speak bounce whip neglect situate mention night decide";
+var mnemonic = "impact cage snap abstract eagle melody unhappy click sample float then patrol";

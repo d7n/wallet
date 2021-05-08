@@ -1,1 +1,1 @@
-var mnemonic = "turn exhaust train thought brain detect market glimpse monster input science cabbage";
+var mnemonic = "job minimum hospital humble half dance lazy input crime grain shoe dismiss";

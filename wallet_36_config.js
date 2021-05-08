@@ -1,1 +1,1 @@
-var mnemonic = "sand topic old resource net pave twice orient alter raven you around";
+var mnemonic = "item trophy creek neutral noodle false smooth duty ticket grid harsh zone";

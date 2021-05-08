@@ -1,1 +1,1 @@
-var mnemonic = "clerk need exchange dirt mask pledge sense boat yard age curious royal";
+var mnemonic = "wreck royal secret expire major donate hold satoshi ridge call salute oxygen";

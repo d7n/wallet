@@ -1,1 +1,1 @@
-var mnemonic = "swarm slam orchard giggle hub car early bomb wire ranch hover chef";
+var mnemonic = "decade connect return thought coffee rent section submit puppy roof front science";

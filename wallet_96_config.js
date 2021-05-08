@@ -1,1 +1,1 @@
-var mnemonic = "flush sort luggage vacuum drama neither wrap student purpose invest menu orange";
+var mnemonic = "humor team sphere shine assault maze move random abuse carry square symbol";

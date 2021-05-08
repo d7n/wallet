@@ -1,1 +1,1 @@
-var mnemonic = "arm fee daring story north clump window puppy glide clip weekend gasp";
+var mnemonic = "stool weird great engine thumb wheat exercise page wagon coconut outside orphan";

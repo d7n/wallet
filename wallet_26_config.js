@@ -1,1 +1,1 @@
-var mnemonic = "federal agree help smart kite merit news own tongue ocean impose feed";
+var mnemonic = "hybrid car umbrella supreme lemon summer clap sadness owner shock degree rifle";

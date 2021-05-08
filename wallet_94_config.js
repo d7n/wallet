@@ -1,1 +1,1 @@
-var mnemonic = "crystal lawsuit outer sail engage nephew quality jelly drastic what mask wine";
+var mnemonic = "horror predict dice explain trouble entire depth canoe shoulder indicate above accident";

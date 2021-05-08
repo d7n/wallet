@@ -1,1 +1,1 @@
-var mnemonic = "claim derive funny path lock pole barely proud patrol member cargo tape";
+var mnemonic = "any same mass fix else street summer claw quick staff wear shrug";

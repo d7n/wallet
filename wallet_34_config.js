@@ -1,1 +1,1 @@
-var mnemonic = "cabbage reason absent cause pitch unknown basket idea cabin dad moral cloud";
+var mnemonic = "artwork pole search dutch sweet yellow half chaos six soon popular puzzle";

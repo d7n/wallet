@@ -1,1 +1,1 @@
-var mnemonic = "certain another fancy venture armor daughter quantum swing equal armor way raven";
+var mnemonic = "enable then dawn ivory grief vague example never ethics arena ramp clay";

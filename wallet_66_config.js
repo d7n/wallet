@@ -1,1 +1,1 @@
-var mnemonic = "coil text uphold chalk year daughter floor brass jealous need waste once";
+var mnemonic = "leopard novel tornado cherry below minor rabbit control hazard venue sound mirror";

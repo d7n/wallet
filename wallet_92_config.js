@@ -1,1 +1,1 @@
-var mnemonic = "young aunt aerobic soul confirm pigeon stool breeze tent forest wise any";
+var mnemonic = "topic federal certain sunset solution elite tiny barrel evil rubber trial soldier";

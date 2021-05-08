@@ -1,1 +1,1 @@
-var mnemonic = "immune economy clay crash name uncover degree odor casino post jar because";
+var mnemonic = "save glance confirm fabric survey kiss shoot guide save advance asset fossil";

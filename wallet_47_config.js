@@ -1,1 +1,1 @@
-var mnemonic = "mad lyrics alter breeze speed sketch cradle arm curious antique antique message";
+var mnemonic = "reform sustain chimney mercy bright ocean maid other citizen skull goddess trim";

@@ -1,1 +1,1 @@
-var mnemonic = "video explain daring scare moon fossil album flee trap snap zero reflect";
+var mnemonic = "law awesome expand saddle abstract barely basket verb submit beach tornado immense";

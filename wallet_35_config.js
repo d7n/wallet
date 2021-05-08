@@ -1,1 +1,1 @@
-var mnemonic = "size music equip nasty midnight focus vital crucial wood shine coyote current";
+var mnemonic = "annual chef better liberty maximum employ behind drastic bunker play coral cook";

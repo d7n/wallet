@@ -1,1 +1,1 @@
-var mnemonic = "draw zebra glow taxi strategy repeat air hurry pipe pyramid assault cross";
+var mnemonic = "pride peace sight weather boost dynamic buddy furnace text warfare stairs garage";

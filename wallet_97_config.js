@@ -1,1 +1,1 @@
-var mnemonic = "whisper suit slogan crisp safe body peanut negative drip smart squirrel leave";
+var mnemonic = "theme million nothing pilot okay youth sphere couch news just design question";

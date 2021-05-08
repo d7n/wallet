@@ -1,1 +1,1 @@
-var mnemonic = "awful engine soft access kiss vague captain define daughter ecology rival helmet";
+var mnemonic = "horror laundry topic margin pistol harbor tornado glad cart tornado cheese kiss";

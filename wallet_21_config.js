@@ -1,1 +1,1 @@
-var mnemonic = "reveal mobile buffalo ethics tumble very security obscure paper avocado boost patch";
+var mnemonic = "neglect promote must moment ankle design milk zero source female once click";

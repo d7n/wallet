@@ -1,1 +1,1 @@
-var mnemonic = "piano gorilla child whisper file olympic voice blast hawk check acquire impulse";
+var mnemonic = "place describe caught shift base lucky salad brain skin author sound cereal";

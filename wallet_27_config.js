@@ -1,1 +1,1 @@
-var mnemonic = "uniform decorate debris clay family bird hedgehog grit panel tooth interest vote";
+var mnemonic = "excite slice earth quote wet put twin patrol embody soup box claw";

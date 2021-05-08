@@ -1,1 +1,1 @@
-var mnemonic = "invest six rib climb trend make tuition consider journey fiber side receive";
+var mnemonic = "farm hotel history exist peanut invite stable wait primary grief actual poverty";

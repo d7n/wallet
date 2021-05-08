@@ -1,1 +1,1 @@
-var mnemonic = "tuition whale turtle believe squeeze rookie vehicle cool few tortoise letter paddle";
+var mnemonic = "defense below garage dove onion veteran daughter prosper cheap bike snake rich";

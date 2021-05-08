@@ -1,1 +1,1 @@
-var mnemonic = "spice virtual use protect there shell cable lazy strong expand cousin evoke";
+var mnemonic = "there alter safe tilt enforce patch course sunset vessel swing innocent window";

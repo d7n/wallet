@@ -1,1 +1,1 @@
-var mnemonic = "detect kiwi analyst jazz between soft ripple sheriff quote arrive master job";
+var mnemonic = "giggle stem flush woman inside salad salute whale that shaft rotate library";

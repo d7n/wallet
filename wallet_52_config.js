@@ -1,1 +1,1 @@
-var mnemonic = "magnet number beef victory auto moon ethics invest thrive tourist install angle";
+var mnemonic = "mix old coil fold pair oyster input flag caution sight inspire action";

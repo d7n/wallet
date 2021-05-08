@@ -1,1 +1,1 @@
-var mnemonic = "protect eager wheel width baby pass ecology swear youth screen girl spawn";
+var mnemonic = "arm name prepare now eyebrow skin drill buyer defy put copy muscle";

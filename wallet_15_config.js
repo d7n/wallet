@@ -1,1 +1,1 @@
-var mnemonic = "glad pyramid worry power rigid fury season alcohol profit awkward purpose focus";
+var mnemonic = "family supply idle hazard mushroom disagree agree wish rain suspect motion token";

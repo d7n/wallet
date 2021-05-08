@@ -1,1 +1,1 @@
-var mnemonic = "absent lyrics claim long decline vote eye exit surface oven way hotel";
+var mnemonic = "brand bean course mention theme sail rack ethics hub cousin what special";

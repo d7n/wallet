@@ -1,1 +1,1 @@
-var mnemonic = "satoshi music orange ranch put fatigue sing craft fantasy lunar love teach";
+var mnemonic = "play doctor desk cost pull fatigue author like window adapt frost panel";

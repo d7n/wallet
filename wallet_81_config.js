@@ -1,1 +1,1 @@
-var mnemonic = "chief protect carpet injury roof gospel divert salute such room degree render";
+var mnemonic = "fish pony glass insect supply siege critic curious buffalo economy unfold salute";

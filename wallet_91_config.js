@@ -1,1 +1,1 @@
-var mnemonic = "music plate battle noodle twice kit liquid suffer unlock august vanish sick";
+var mnemonic = "garden deposit achieve charge protect lion capable despair field filter recipe toddler";

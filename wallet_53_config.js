@@ -1,1 +1,1 @@
-var mnemonic = "butter patch duty detail knife crazy odor crack innocent gorilla fever way";
+var mnemonic = "magnet laptop glare mad level man repair peanut shallow rare meat cute";

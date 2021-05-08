@@ -1,1 +1,1 @@
-var mnemonic = "must quote hunt gift walnut fancy provide bright style witness dial put";
+var mnemonic = "trust infant copper sketch melody remember purpose car fatigue grain betray universe";

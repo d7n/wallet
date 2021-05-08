@@ -1,1 +1,1 @@
-var mnemonic = "alarm poem hotel play shallow bleak lake trip text gesture army surge";
+var mnemonic = "before hobby similar tired gloom coach excess oval thunder merit very sport";

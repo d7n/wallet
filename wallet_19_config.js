@@ -1,1 +1,1 @@
-var mnemonic = "fossil rule more cry brief atom seed stomach resemble crash cave egg";
+var mnemonic = "actress void drift plunge tide spawn double case symptom author beyond advance";

@@ -1,1 +1,1 @@
-var mnemonic = "target list govern butter avoid moon absurd mercy rally endorse nerve assume";
+var mnemonic = "book only submit ten hole void away scissors lend predict bunker liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb pioneer beach reason liberty coral spot monkey achieve law twin jungle";
+var mnemonic = "run amused citizen royal hold stand east medal box bright iron salon";

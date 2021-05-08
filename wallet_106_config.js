@@ -1,1 +1,1 @@
-var mnemonic = "brisk casino nuclear recycle purpose opinion tired race night wise sail ensure";
+var mnemonic = "into slush lecture uphold stove donate improve street various initial size sad";

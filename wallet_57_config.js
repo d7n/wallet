@@ -1,1 +1,1 @@
-var mnemonic = "heart keep door bid fresh sunset cheese august diesel finger ice flat";
+var mnemonic = "drum black space permit reduce term alert novel diesel dust brief book";
