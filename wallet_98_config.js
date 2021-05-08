@@ -1,1 +1,1 @@
-var mnemonic = "cable vibrant surprise crime setup dice robust crucial bamboo virtual grow true";
+var mnemonic = "hire excuse will snake alter tongue song grocery tourist guilt episode issue";

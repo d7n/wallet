@@ -1,1 +1,1 @@
-var mnemonic = "proof slim chunk drama volume trade hawk guard snake elegant rely degree";
+var mnemonic = "want capital stairs travel ready lock carbon final shallow vintage announce dentist";

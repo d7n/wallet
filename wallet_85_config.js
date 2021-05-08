@@ -1,1 +1,1 @@
-var mnemonic = "bronze nerve salad glory loan frozen someone beauty car need pretty spring";
+var mnemonic = "pool banner broken birth weekend ordinary rail unveil smoke squirrel radio spatial";

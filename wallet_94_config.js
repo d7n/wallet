@@ -1,1 +1,1 @@
-var mnemonic = "near spoil glow parent young whale gun lemon come under beauty under";
+var mnemonic = "mandate critic room elite cable unveil enroll between observe cost birth breeze";

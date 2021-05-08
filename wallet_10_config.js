@@ -1,1 +1,1 @@
-var mnemonic = "ankle recipe net surprise word antenna injury fluid tray eight twist crisp";
+var mnemonic = "left review stadium damage discover length original you tube chicken reform fog";

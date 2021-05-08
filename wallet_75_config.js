@@ -1,1 +1,1 @@
-var mnemonic = "surround long honey prison math pill gaze lazy fresh quote clip awful";
+var mnemonic = "cave can canyon indoor squirrel cricket humor vicious setup image combine globe";

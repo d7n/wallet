@@ -1,1 +1,1 @@
-var mnemonic = "payment mask release beyond fly music legal latin gentle planet vote upgrade";
+var mnemonic = "collect trap ranch legend box edit element proud summer airport only piece";

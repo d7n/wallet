@@ -1,1 +1,1 @@
-var mnemonic = "machine yard kitchen oil enact renew paper vintage organ dirt sail stamp";
+var mnemonic = "velvet code together crop aisle valid tumble author material program raw keen";

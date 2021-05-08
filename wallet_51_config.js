@@ -1,1 +1,1 @@
-var mnemonic = "radar rubber never flower eternal click beef tragic adjust sustain gossip neglect";
+var mnemonic = "win hen vibrant buffalo autumn famous state hospital student circle stool crucial";

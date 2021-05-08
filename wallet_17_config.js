@@ -1,1 +1,1 @@
-var mnemonic = "people hazard burst use beauty hedgehog royal charge blind desk stomach dismiss";
+var mnemonic = "plunge cruise bomb carry embrace flower galaxy wine spike dumb man orchard";

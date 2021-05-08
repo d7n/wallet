@@ -1,1 +1,1 @@
-var mnemonic = "december chronic fine notable panther already spoil feel stereo food arctic network";
+var mnemonic = "kiss wish pioneer post water kid infant office lawn enlist month slush";

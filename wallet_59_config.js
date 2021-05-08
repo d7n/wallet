@@ -1,1 +1,1 @@
-var mnemonic = "negative stadium street aware curious model captain scissors nation glory because rhythm";
+var mnemonic = "cause exhibit smile wave road disagree kitchen dentist shadow carpet pave casino";

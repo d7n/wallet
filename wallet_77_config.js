@@ -1,1 +1,1 @@
-var mnemonic = "search mystery ethics gain bundle dolphin puzzle snack piece material corn walnut";
+var mnemonic = "firm clutch spin puppy section visual orbit cheap fruit spirit lift million";

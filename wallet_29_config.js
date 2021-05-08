@@ -1,1 +1,1 @@
-var mnemonic = "poet near tattoo song nice witness boss boss canvas upper object improve";
+var mnemonic = "sing excess sleep gate connect worth brisk devote monster cactus name error";

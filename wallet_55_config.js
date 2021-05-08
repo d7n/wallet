@@ -1,1 +1,1 @@
-var mnemonic = "tortoise under alley odor truly dirt announce between west unknown merry harbor";
+var mnemonic = "decide wage click tag little cactus pear galaxy media ribbon unveil lazy";

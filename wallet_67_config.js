@@ -1,1 +1,1 @@
-var mnemonic = "wrestle camera segment hand team rare dignity student marble punch author tent";
+var mnemonic = "kitchen fork salon setup length arctic match symbol chef swallow help airport";

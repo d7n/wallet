@@ -1,1 +1,1 @@
-var mnemonic = "identify random cherry rough topic truly valve flower dirt mutual blanket hockey";
+var mnemonic = "twelve guilt frame shoe shuffle rebel deer differ provide disease quote mixture";

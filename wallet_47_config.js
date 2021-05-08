@@ -1,1 +1,1 @@
-var mnemonic = "endless rebel panel arctic choice roof dust remember general suit essence woman";
+var mnemonic = "session ticket draw pledge own certain cupboard man decide dance inner worth";

@@ -1,1 +1,1 @@
-var mnemonic = "error abandon disease nerve capital shoe ensure cry used cycle olive mad";
+var mnemonic = "manual target scrub scene private clap mean cargo release slender silver slab";

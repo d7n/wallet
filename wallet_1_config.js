@@ -1,1 +1,1 @@
-var mnemonic = "fee symbol awesome very shell canal olive income slim wheat ketchup street";
+var mnemonic = "hub journey family morning maid town circle arrow theory decide motion equip";

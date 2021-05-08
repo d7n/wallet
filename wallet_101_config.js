@@ -1,1 +1,1 @@
-var mnemonic = "plastic tissue jaguar soul teach crew bottom fatal tide father use fade";
+var mnemonic = "accident inspire hidden enter reward heavy attack awkward prefer sentence size ticket";

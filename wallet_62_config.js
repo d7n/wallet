@@ -1,1 +1,1 @@
-var mnemonic = "real random tent thrive symbol carbon social couple elevator screen matter gloom";
+var mnemonic = "patrol tonight spray trim wisdom spread celery method meat dash model coast";

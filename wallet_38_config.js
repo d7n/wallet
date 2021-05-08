@@ -1,1 +1,1 @@
-var mnemonic = "ensure pioneer rely hire strike win accident ridge clerk spatial rhythm joke";
+var mnemonic = "solid victory giant menu wool game toilet thrive foam indicate bunker rescue";

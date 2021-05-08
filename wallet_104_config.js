@@ -1,1 +1,1 @@
-var mnemonic = "find dolphin type employ grow loan settle nation police nuclear outdoor online";
+var mnemonic = "ready method tomato jealous excite brave salon response forest angry fabric hedgehog";

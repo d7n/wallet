@@ -1,1 +1,1 @@
-var mnemonic = "pupil pioneer poverty comic afraid genius seat awesome valve foster fury ice";
+var mnemonic = "pioneer other trumpet core stomach piece rally diamond drift spin tank cloth";

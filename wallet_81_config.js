@@ -1,1 +1,1 @@
-var mnemonic = "vital tower prevent wrap melt same swim transfer shine repair rug perfect";
+var mnemonic = "universe orphan clock field cattle salon trap group reason camp riot news";

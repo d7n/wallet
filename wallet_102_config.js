@@ -1,1 +1,1 @@
-var mnemonic = "tiny accident negative token absorb sentence virtual bind annual law barrel first";
+var mnemonic = "theory sibling umbrella mammal sniff destroy divide blame endless sign chuckle decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "version blind treat rubber two cable medal stairs cable parent expand humor";
+var mnemonic = "nurse evidence volcano clinic chest priority olive cotton broccoli occur explain clip";

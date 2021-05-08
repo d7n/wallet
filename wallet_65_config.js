@@ -1,1 +1,1 @@
-var mnemonic = "pyramid shock purse phone crack fine table story seminar coin easy april";
+var mnemonic = "modify culture minor funny during taste flee laptop chimney segment weasel expect";

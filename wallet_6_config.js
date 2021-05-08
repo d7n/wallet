@@ -1,1 +1,1 @@
-var mnemonic = "morning husband flower tragic bone raw donate shine dice park lava reform";
+var mnemonic = "hole explain action enrich buyer dinner horror matrix poverty capable casino cinnamon";

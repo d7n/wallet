@@ -1,1 +1,1 @@
-var mnemonic = "govern short dawn push earn useless close novel exhaust farm vast visa";
+var mnemonic = "come rapid juice glimpse dad party paper female gossip lend below barely";

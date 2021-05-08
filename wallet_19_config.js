@@ -1,1 +1,1 @@
-var mnemonic = "control forum dose section art final clump ramp yellow foil violin oxygen";
+var mnemonic = "bus rabbit affair stumble tobacco true inmate blind embrace beyond mesh nuclear";

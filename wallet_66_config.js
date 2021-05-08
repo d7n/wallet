@@ -1,1 +1,1 @@
-var mnemonic = "gaze there embody require define chapter under double claw result master flavor";
+var mnemonic = "staff road reason uncover off cloud parrot goose sense exclude rule sand";

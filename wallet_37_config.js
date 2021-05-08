@@ -1,1 +1,1 @@
-var mnemonic = "venue scrap acoustic short cute hazard refuse motion include forget enlist broom";
+var mnemonic = "elbow bullet inject quick supreme mom then climb picture abstract field palace";

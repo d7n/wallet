@@ -1,1 +1,1 @@
-var mnemonic = "knee collect vessel sea pony fortune episode arctic way guitar pudding road";
+var mnemonic = "execute easily army relief imitate mesh famous replace random system delay essence";

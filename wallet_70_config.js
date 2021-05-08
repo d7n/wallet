@@ -1,1 +1,1 @@
-var mnemonic = "firm away aim asset all horror poverty champion ostrich october disagree poverty";
+var mnemonic = "cotton intact orchard kid sport wife gain shy teach math journey blue";

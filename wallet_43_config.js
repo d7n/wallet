@@ -1,1 +1,1 @@
-var mnemonic = "dream resist puzzle flag midnight floor another real rhythm decrease screen island";
+var mnemonic = "matrix fire glance aware color endorse soap gas obscure powder style pottery";

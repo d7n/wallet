@@ -1,1 +1,1 @@
-var mnemonic = "fan legal eye fury consider special lady dust mass game wet bag";
+var mnemonic = "have poem mobile cat run resource load report bus slice scene cliff";

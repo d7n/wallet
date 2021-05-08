@@ -1,1 +1,1 @@
-var mnemonic = "valid cabin balance vanish treat bean across turtle royal silent pepper wedding";
+var mnemonic = "fame asset critic lonely sorry bless process pioneer baby dial vast divide";

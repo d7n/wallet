@@ -1,1 +1,1 @@
-var mnemonic = "gadget tattoo treat cushion bright main shoulder weird mind guide rescue airport";
+var mnemonic = "universe gentle know shift exhaust napkin name strong notable bag rack library";

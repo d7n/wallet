@@ -1,1 +1,1 @@
-var mnemonic = "quick ridge multiply token movie add giggle trouble asset pizza dish lamp";
+var mnemonic = "puppy master tomorrow quarter join table please machine canal donate certain sentence";

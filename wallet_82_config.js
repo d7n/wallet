@@ -1,1 +1,1 @@
-var mnemonic = "unveil rocket glance proud earn reward arrange duty beef junk injury mountain";
+var mnemonic = "phone minimum sign million poem zoo quarter snake fire uncover race account";

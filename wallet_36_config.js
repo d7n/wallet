@@ -1,1 +1,1 @@
-var mnemonic = "pear cover away old eager february athlete symbol water can wheat nothing";
+var mnemonic = "cover dice sibling depart salon swim expose portion welcome fire crane refuse";

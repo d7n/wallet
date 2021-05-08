@@ -1,1 +1,1 @@
-var mnemonic = "enroll tiny hospital below whisper suggest poverty saddle limit size bonus cluster";
+var mnemonic = "multiply palm upon victory lemon reopen color topple liquid visit chaos tortoise";

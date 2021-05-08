@@ -1,1 +1,1 @@
-var mnemonic = "speak amateur shop relax walk medal verify decade purse angle link beach";
+var mnemonic = "train slight client flight nerve grape matter problem glad resemble impact response";

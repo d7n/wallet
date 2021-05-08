@@ -1,1 +1,1 @@
-var mnemonic = "kite brief smart hawk poverty giant jar slice top price label chest";
+var mnemonic = "clock ready exchange tiny found cram goose breeze law bomb extra wrist";

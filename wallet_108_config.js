@@ -1,1 +1,1 @@
-var mnemonic = "spike risk robust mask cave foot any deal wonder illness naive ride";
+var mnemonic = "gown live card twin divide excite income bicycle make minute champion color";

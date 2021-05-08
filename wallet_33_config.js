@@ -1,1 +1,1 @@
-var mnemonic = "solid tenant sun yard lounge plastic mountain satisfy lawsuit main barely void";
+var mnemonic = "strategy salon advance butter snake elegant correct kid twin magnet blood home";

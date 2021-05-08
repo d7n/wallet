@@ -1,1 +1,1 @@
-var mnemonic = "actress alone idle box physical rifle perfect bracket donor finger palm symbol";
+var mnemonic = "between month banner alert glass clutch again logic metal capable accuse dune";

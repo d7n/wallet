@@ -1,1 +1,1 @@
-var mnemonic = "owner cousin seminar code attend ankle neglect position flavor tongue argue endless";
+var mnemonic = "token season credit arena crisp steak diamond require grunt lake chest patch";

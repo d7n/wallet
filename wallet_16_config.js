@@ -1,1 +1,1 @@
-var mnemonic = "cram juice engage pet august sense tiger ready dial absurd few next";
+var mnemonic = "midnight hazard exhaust fiscal employ blur together slender coast abstract net avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "deal patrol electric crowd dentist canal setup wedding pistol bike cinnamon squirrel";
+var mnemonic = "they online round ginger question heart assist aunt wonder surprise evil fluid";

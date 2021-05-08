@@ -1,1 +1,1 @@
-var mnemonic = "entire toilet spare print walnut business agent rib tennis board drift major";
+var mnemonic = "attack produce float grit accuse among fault cigar opinion unhappy voyage code";

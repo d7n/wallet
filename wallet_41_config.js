@@ -1,1 +1,1 @@
-var mnemonic = "describe forward yellow collect orphan already sample bicycle youth female stool magic";
+var mnemonic = "water dial analyst clutch move already deal quote field danger cluster again";

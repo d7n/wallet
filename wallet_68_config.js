@@ -1,1 +1,1 @@
-var mnemonic = "smoke scene burger govern horn immense filter camp grain arena typical forget";
+var mnemonic = "height speak cook laptop moment journey steel reveal derive rabbit ski child";

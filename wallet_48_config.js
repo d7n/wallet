@@ -1,1 +1,1 @@
-var mnemonic = "tribe casino breeze duck mobile trumpet solid face affair shrug umbrella artwork";
+var mnemonic = "ugly humble situate maid fall tube fee remember divorce maze noise bike";

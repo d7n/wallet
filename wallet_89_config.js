@@ -1,1 +1,1 @@
-var mnemonic = "matter home two obey tomato october loyal elder actual fringe monster conduct";
+var mnemonic = "father elbow aunt coach until focus disease enter window race easily choose";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer mobile swallow erode hero prepare soldier walk shrug milk scale uphold";
+var mnemonic = "mechanic globe employ skin keep cycle phone report rice same deliver shock";

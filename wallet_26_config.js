@@ -1,1 +1,1 @@
-var mnemonic = "message sure upset link middle voice extra comic miss again rebuild pledge";
+var mnemonic = "film strong share boat measure omit jeans raccoon quit glide shine isolate";

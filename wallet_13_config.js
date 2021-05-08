@@ -1,1 +1,1 @@
-var mnemonic = "scorpion way anchor image deer fantasy glimpse reunion pass beef bullet plug";
+var mnemonic = "into fashion shop expect random ill universe empower void upgrade erode grocery";

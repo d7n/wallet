@@ -1,1 +1,1 @@
-var mnemonic = "document bone ticket swarm lock valid program tourist silver fatal install olympic";
+var mnemonic = "cereal tree crazy bachelor salon network movie damp pelican aisle host panda";

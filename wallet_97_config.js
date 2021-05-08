@@ -1,1 +1,1 @@
-var mnemonic = "clutch spot gasp gas disagree observe salt scheme come peace emotion loan";
+var mnemonic = "first female gate update business tell cave eye chicken garlic topic snack";

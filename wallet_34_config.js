@@ -1,1 +1,1 @@
-var mnemonic = "index half rifle violin citizen vote limit pitch clay pledge document impose";
+var mnemonic = "excuse identify chicken flag fly vibrant enroll great genre undo neither desk";

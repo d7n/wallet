@@ -1,1 +1,1 @@
-var mnemonic = "balance thumb crumble stuff trick defy depart urge utility van speak square";
+var mnemonic = "possible dizzy idea current carpet bus nerve assist skirt surround gloom love";

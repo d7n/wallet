@@ -1,1 +1,1 @@
-var mnemonic = "great common catch liquid loan shed unable vague push liberty expose birth";
+var mnemonic = "desk magic solve edit benefit pepper honey monster dad obscure slab industry";

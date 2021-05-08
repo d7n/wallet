@@ -1,1 +1,1 @@
-var mnemonic = "check advance magnet endorse umbrella because crazy nasty load alien issue notice";
+var mnemonic = "ceiling husband friend feel quit latin method clap economy airport medal cloud";

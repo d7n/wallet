@@ -1,1 +1,1 @@
-var mnemonic = "monkey fashion settle soccer casual purity friend diamond rain busy reveal cat";
+var mnemonic = "dirt gym penalty mean regret advance region risk increase detect capable discover";

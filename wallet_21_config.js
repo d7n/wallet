@@ -1,1 +1,1 @@
-var mnemonic = "rabbit decade dune myth unknown valid anxiety render wood seminar tomorrow soda";
+var mnemonic = "drip culture balance mistake evoke luxury uniform chest unit measure regular horror";

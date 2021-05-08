@@ -1,1 +1,1 @@
-var mnemonic = "welcome useful elder few shaft style almost spatial enemy gorilla caution into";
+var mnemonic = "cupboard account february width cereal fix moon monkey boil buffalo dutch dignity";

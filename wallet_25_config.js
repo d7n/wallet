@@ -1,1 +1,1 @@
-var mnemonic = "mass design inform quantum ill country expose dismiss online young learn chapter";
+var mnemonic = "island trophy olympic genius bachelor estate then pluck protect pulp seed moment";

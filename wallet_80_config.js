@@ -1,1 +1,1 @@
-var mnemonic = "clock company coffee horn cupboard buyer expand liar intact common assault pond";
+var mnemonic = "slush sausage kangaroo ginger present glimpse observe annual marriage vapor predict urge";

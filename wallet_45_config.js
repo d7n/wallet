@@ -1,1 +1,1 @@
-var mnemonic = "mimic rule canyon sting depth attack buyer install blade zoo author lawn";
+var mnemonic = "lab someone sauce magnet observe punch enjoy leaf artwork odor power sauce";

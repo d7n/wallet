@@ -1,1 +1,1 @@
-var mnemonic = "aerobic cradle couch purity planet diamond never bubble embark stock asthma employ";
+var mnemonic = "advance tail envelope vague frost load display antenna range chimney royal imitate";

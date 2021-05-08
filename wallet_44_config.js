@@ -1,1 +1,1 @@
-var mnemonic = "cube exclude lamp monkey erase nature payment thank flash meat body wrap";
+var mnemonic = "country urban accident crime wine report inject rice position flight toe worry";

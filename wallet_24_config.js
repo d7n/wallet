@@ -1,1 +1,1 @@
-var mnemonic = "dove uncover strategy library spray task junior pear idea bird pact sniff";
+var mnemonic = "guide confirm spatial symptom yellow pluck permit solid fire liberty hope small";

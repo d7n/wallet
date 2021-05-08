@@ -1,1 +1,1 @@
-var mnemonic = "whisper rigid rail neither wage window arctic liquid people tortoise bright ginger";
+var mnemonic = "pill ten soda deer dad picture shift truly mutual world wolf excess";

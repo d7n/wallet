@@ -1,1 +1,1 @@
-var mnemonic = "wealth mystery seat minute actual pig dolphin pitch order enact tuna rural";
+var mnemonic = "reason amount absorb charge flush leisure bamboo vital motion open feature priority";

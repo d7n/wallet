@@ -1,1 +1,1 @@
-var mnemonic = "knife jaguar fly project depart frog punch shy brick coral final smart";
+var mnemonic = "ancient need devote enrich arctic citizen grain spare slight party vague rookie";

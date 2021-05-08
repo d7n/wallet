@@ -1,1 +1,1 @@
-var mnemonic = "alone pilot skin ugly truly license bubble surge melt material nominee jacket";
+var mnemonic = "regret mistake science warrior mouse trap river appear detect door will aisle";

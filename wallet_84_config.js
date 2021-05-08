@@ -1,1 +1,1 @@
-var mnemonic = "erode laptop blouse high science cycle cool ask diary absurd dizzy goddess";
+var mnemonic = "toy stage hollow garage desk long food teach tip menu grit setup";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel van vocal anger flush trust crime stove snap undo pink addict";
+var mnemonic = "win security wink often fit caution cave head economy lumber move cushion";

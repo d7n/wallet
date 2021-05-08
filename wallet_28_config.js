@@ -1,1 +1,1 @@
-var mnemonic = "make fatal strategy multiply axis idea toddler smile endless hamster mouse soup";
+var mnemonic = "sting resemble monster resemble urban switch silk type plate diet begin trigger";

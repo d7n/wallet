@@ -1,1 +1,1 @@
-var mnemonic = "truly tuna trend dinner great material better mango rural strike beauty welcome";
+var mnemonic = "evidence hawk canoe equal result jar pelican shoe unfair blossom vendor salt";

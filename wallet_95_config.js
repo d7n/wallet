@@ -1,1 +1,1 @@
-var mnemonic = "eight spike tank figure kid noble vibrant letter radio drive great program";
+var mnemonic = "mother elegant trust deputy alert cart since armor still spy power fire";

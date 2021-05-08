@@ -1,1 +1,1 @@
-var mnemonic = "blanket name blur neutral surge yard alarm solar core aspect rude museum";
+var mnemonic = "begin fee ozone silk crop agree text doctor only parent gadget stereo";

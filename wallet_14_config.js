@@ -1,1 +1,1 @@
-var mnemonic = "salt curve visa hurry alter story actress pulp guess between humor east";
+var mnemonic = "fall casual rhythm crush topple orange mouse siren purity quote busy naive";

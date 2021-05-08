@@ -1,1 +1,1 @@
-var mnemonic = "floor make twelve wrong make month market tilt kite horn remain long";
+var mnemonic = "anchor move below sun come bicycle question imitate direct nest nominee object";

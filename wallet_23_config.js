@@ -1,1 +1,1 @@
-var mnemonic = "kitten nation decorate column race tilt own road expose project maple say";
+var mnemonic = "scrap city tree during rich target blush polar spoon table angry false";
