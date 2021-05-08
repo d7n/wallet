@@ -1,1 +1,1 @@
-var mnemonic = "leopard lumber agree source deposit rule hawk state furnace duck icon loyal";
+var mnemonic = "hour rocket solve main promote core brush upgrade tackle grow absurd grape";

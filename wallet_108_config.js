@@ -1,1 +1,1 @@
-var mnemonic = "orphan festival nest cube learn kit base journey cloud boost friend banner";
+var mnemonic = "decide horse wrist alien beach armed earn easily note century ability fish";

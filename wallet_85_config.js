@@ -1,1 +1,1 @@
-var mnemonic = "submit pledge stairs submit two hand hockey drop thank skill depend into";
+var mnemonic = "real final smooth flock abstract mountain oven crane hobby dose genius unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "crash romance symbol water furnace fatal south corn scare remain error wall";
+var mnemonic = "state human spell matter dog power body elder jelly brass call chaos";

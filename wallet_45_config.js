@@ -1,1 +1,1 @@
-var mnemonic = "junk magnet carbon flame donkey insane country ancient thank trash reform decrease";
+var mnemonic = "rely ship uniform dragon afford foil runway always garage behave improve nasty";

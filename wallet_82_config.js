@@ -1,1 +1,1 @@
-var mnemonic = "captain success regular boring tree found pretty man install where eight arctic";
+var mnemonic = "sketch quick walk kick document toast guitar chuckle usual grab save visit";

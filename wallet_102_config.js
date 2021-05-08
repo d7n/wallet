@@ -1,1 +1,1 @@
-var mnemonic = "know bundle solution enact gather quote stuff liar large praise escape secret";
+var mnemonic = "disease now clay parade warrior next sort breeze juice path approve various";

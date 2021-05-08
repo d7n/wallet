@@ -1,1 +1,1 @@
-var mnemonic = "dentist trim order blast file reflect wet rescue fit index asset civil";
+var mnemonic = "lift hard arena theme kangaroo october rabbit combine skate blind kitten uncle";

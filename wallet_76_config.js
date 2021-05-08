@@ -1,1 +1,1 @@
-var mnemonic = "noble language holiday soon honey feed frog shrimp then brown vintage neglect";
+var mnemonic = "benefit mercy jump layer dress switch neck rubber deal usual gesture keep";

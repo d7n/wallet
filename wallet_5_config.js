@@ -1,1 +1,1 @@
-var mnemonic = "combine reunion broom ready better badge august else neither antenna depend square";
+var mnemonic = "habit forum bullet bottom tennis fame truck absent argue sheriff voyage decade";

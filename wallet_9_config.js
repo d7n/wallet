@@ -1,1 +1,1 @@
-var mnemonic = "beef dynamic napkin wrap olive security sea notable verb tube garage unusual";
+var mnemonic = "rely wash mixed happy elder universe rather sport rare melt damp trash";

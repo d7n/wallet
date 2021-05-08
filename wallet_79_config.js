@@ -1,1 +1,1 @@
-var mnemonic = "stock improve wool federal pizza fresh memory guitar dutch clock jar alley";
+var mnemonic = "major expect item judge profit switch love material cherry canal magnet correct";

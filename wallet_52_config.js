@@ -1,1 +1,1 @@
-var mnemonic = "leopard describe tray define chunk erode nature inch afraid gallery believe ghost";
+var mnemonic = "spike behave right ball have acquire office veteran debate outdoor brush crash";

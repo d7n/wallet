@@ -1,1 +1,1 @@
-var mnemonic = "dust estate project tongue sausage mosquito chief stand salon notice hip cluster";
+var mnemonic = "love mesh stool party host habit tone patient midnight crowd stable rookie";

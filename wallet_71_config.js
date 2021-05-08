@@ -1,1 +1,1 @@
-var mnemonic = "crystal surge pen damage snow convince rescue agent distance cash tone car";
+var mnemonic = "shift february renew planet limb ancient soldier elephant hood skate twice hobby";

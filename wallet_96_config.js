@@ -1,1 +1,1 @@
-var mnemonic = "still pumpkin veteran artefact miracle chuckle cheap oblige federal bitter human bench";
+var mnemonic = "hockey cannon throw tag hurdle plate special hard amazing glass uncover ghost";

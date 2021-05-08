@@ -1,1 +1,1 @@
-var mnemonic = "abandon awkward poem female length gravity gesture luggage super hole cream pudding";
+var mnemonic = "gym radar pulse frown sketch feed modify expose walnut scatter metal tomato";

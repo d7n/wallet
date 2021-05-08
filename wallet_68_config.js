@@ -1,1 +1,1 @@
-var mnemonic = "morning evil together gesture sketch frog pupil rely warrior wild click release";
+var mnemonic = "army corn whisper situate tower hard village trim segment repeat pink cushion";

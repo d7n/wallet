@@ -1,1 +1,1 @@
-var mnemonic = "helmet select hurry review long glass scene phone spike ramp bundle radar";
+var mnemonic = "pigeon middle ski kind pave puzzle torch window jelly orbit chimney pony";

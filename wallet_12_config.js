@@ -1,1 +1,1 @@
-var mnemonic = "wash dish laugh math vanish picture move dinosaur crucial album fuel physical";
+var mnemonic = "slight giggle topic august blanket ring slot air pull canvas fork multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "rich again mutual verb shiver matter pond remove card tortoise admit naive";
+var mnemonic = "girl bus about loan reveal alley clarify shield shrug sudden novel knife";

@@ -1,1 +1,1 @@
-var mnemonic = "message toast empty march lava city indicate tell spoil resource work winner";
+var mnemonic = "race video disease duty private silver donkey leopard equal area affair rotate";

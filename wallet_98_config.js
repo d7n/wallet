@@ -1,1 +1,1 @@
-var mnemonic = "unusual tool core aisle ugly car visa job record jaguar pottery lesson";
+var mnemonic = "clip best daring loop rural clown suit erode myself wing crucial ocean";

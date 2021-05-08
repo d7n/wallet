@@ -1,1 +1,1 @@
-var mnemonic = "try quit increase smile congress winter easy control short twice cash strategy";
+var mnemonic = "tide twelve note discover venture elbow reward poem diagram elegant train vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch diary actor fuel bleak arrow report repair proof alien believe scrap";
+var mnemonic = "fossil security jazz road train dignity reduce element slim suggest front copper";

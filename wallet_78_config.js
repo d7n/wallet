@@ -1,1 +1,1 @@
-var mnemonic = "radio brick guitar unusual diagram jewel rather engine series crumble noodle happy";
+var mnemonic = "coach canyon face thunder lizard lesson energy lonely banner purchase lesson paper";

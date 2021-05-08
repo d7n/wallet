@@ -1,1 +1,1 @@
-var mnemonic = "key tonight unaware cool loyal can tuna board sketch subject aunt ketchup";
+var mnemonic = "twin alone swap machine name dragon example dwarf figure mouse lava record";

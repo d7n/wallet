@@ -1,1 +1,1 @@
-var mnemonic = "feel high faint turtle more student else hundred prevent surprise rack hood";
+var mnemonic = "furnace else jazz sock brass cloud sentence hollow twist ship expire gas";

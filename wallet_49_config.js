@@ -1,1 +1,1 @@
-var mnemonic = "slice label morning safe culture reward figure approve access defense flower agent";
+var mnemonic = "junk reunion spray license motor enhance huge virus exact poem crumble meat";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey purity oak entire wild enough candy retire lake october faculty list";
+var mnemonic = "carpet picnic boat small cattle paper razor chalk motor twenty design trumpet";

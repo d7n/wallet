@@ -1,1 +1,1 @@
-var mnemonic = "repeat make sort bubble insane regret fatal amazing destroy stone impulse attend";
+var mnemonic = "mirror disagree tired hand brisk false number rigid render sudden ugly floor";

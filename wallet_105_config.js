@@ -1,1 +1,1 @@
-var mnemonic = "swarm teach assist document scheme local soft chronic material veteran sick sustain";
+var mnemonic = "smile scale forest false stomach wool door wet join name unfold truth";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud van sing valid arch educate lawsuit onion ring display link focus";
+var mnemonic = "sad weird congress hybrid fold depart possible foster tongue glare tank game";

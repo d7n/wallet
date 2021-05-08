@@ -1,1 +1,1 @@
-var mnemonic = "wrong square wash inmate vehicle luxury exact gadget leisure write item gift";
+var mnemonic = "fitness village glimpse degree piano marble copper warrior total web social toy";

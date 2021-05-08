@@ -1,1 +1,1 @@
-var mnemonic = "morning else glide wrong earth come welcome ordinary panther anger magnet limb";
+var mnemonic = "sweet room twist bicycle camp orphan east burger board math erupt solid";

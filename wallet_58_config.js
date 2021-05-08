@@ -1,1 +1,1 @@
-var mnemonic = "survey riot noise nation faith magnet sauce lottery panic rifle juice cloth";
+var mnemonic = "memory cook old that copy trick spray leave short upon where aisle";

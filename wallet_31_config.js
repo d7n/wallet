@@ -1,1 +1,1 @@
-var mnemonic = "harsh release profit disagree grass ask harbor clown fluid pyramid shadow water";
+var mnemonic = "bomb promote bone arena shed hair twice doctor under artefact ring snow";

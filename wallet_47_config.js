@@ -1,1 +1,1 @@
-var mnemonic = "knife cement music impose check spatial team approve process vessel crime metal";
+var mnemonic = "prevent fork elder text garage open student neglect spell urge bar segment";

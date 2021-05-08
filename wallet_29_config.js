@@ -1,1 +1,1 @@
-var mnemonic = "board machine trap render border vessel clay figure foam truly payment primary";
+var mnemonic = "turkey mask divert blur deputy auction horse castle horn manage soap capable";

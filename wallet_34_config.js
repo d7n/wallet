@@ -1,1 +1,1 @@
-var mnemonic = "include panda manual friend culture decide chunk normal switch airport vehicle razor";
+var mnemonic = "mimic host glass bid obscure digital solve approve cat pulse cup surface";

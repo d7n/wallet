@@ -1,1 +1,1 @@
-var mnemonic = "occur settle crack aisle release old crane desert furnace bean apology curve";
+var mnemonic = "primary off best club nose cash spring penalty capital increase angle glance";

@@ -1,1 +1,1 @@
-var mnemonic = "agree evil west little upper assist garbage name upon crash differ sketch";
+var mnemonic = "paddle gaze curious sense teach witness clinic drill nurse mother fashion pretty";

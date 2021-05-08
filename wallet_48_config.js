@@ -1,1 +1,1 @@
-var mnemonic = "planet salad liberty coconut impulse sphere pelican monitor disagree unhappy hair pool";
+var mnemonic = "grid pig envelope mobile seek club gold miss display disease brave keen";

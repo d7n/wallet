@@ -1,1 +1,1 @@
-var mnemonic = "illegal foot wood code snow episode book unfair used cotton question airport";
+var mnemonic = "lens distance worth decade hotel delay fault later arm blade punch ride";

@@ -1,1 +1,1 @@
-var mnemonic = "axis cross vast banner physical anchor sound bar now brass eyebrow face";
+var mnemonic = "enter there kitten must cute media spirit plate flower truly talent episode";

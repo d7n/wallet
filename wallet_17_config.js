@@ -1,1 +1,1 @@
-var mnemonic = "wait grape industry crime layer coyote wet hub embrace invest cruel stone";
+var mnemonic = "reward nuclear uncle manual horn day view addict machine only veteran erode";

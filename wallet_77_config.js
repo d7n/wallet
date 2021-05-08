@@ -1,1 +1,1 @@
-var mnemonic = "symptom shoulder crouch vapor whip palace cancel result lion garage luxury target";
+var mnemonic = "gentle rough rifle urban order valley leader cushion between island cage success";

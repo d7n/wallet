@@ -1,1 +1,1 @@
-var mnemonic = "fault film weather history jealous isolate twin mixed oil forum talent ketchup";
+var mnemonic = "canyon wedding month source thank hand dress bulb because alter hand strategy";

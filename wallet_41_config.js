@@ -1,1 +1,1 @@
-var mnemonic = "express upper dose uncover minute item symptom loop item renew miss fiber";
+var mnemonic = "artist robust stereo close danger imitate crunch private grunt around enjoy canyon";

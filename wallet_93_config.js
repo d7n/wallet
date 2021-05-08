@@ -1,1 +1,1 @@
-var mnemonic = "cram plate vintage galaxy scissors match second crop target law parent sign";
+var mnemonic = "cruel east inspire setup ten brass income foot forget panther furnace nasty";

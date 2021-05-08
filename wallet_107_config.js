@@ -1,1 +1,1 @@
-var mnemonic = "legend pigeon entire book betray ahead angle they print merge oyster letter";
+var mnemonic = "quit mail sister coach margin feed submit put around step story pilot";

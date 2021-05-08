@@ -1,1 +1,1 @@
-var mnemonic = "tag auction dish february grain trick genre scheme other pet thrive tragic";
+var mnemonic = "option peasant acquire tribe spell icon upgrade cruel collect run about ripple";

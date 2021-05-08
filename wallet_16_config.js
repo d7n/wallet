@@ -1,1 +1,1 @@
-var mnemonic = "mistake salt happy observe exercise source stone letter actress wish fork feed";
+var mnemonic = "loan great crash rent banana voyage clarify thing exhaust swarm siren flower";

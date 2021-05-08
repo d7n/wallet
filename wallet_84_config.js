@@ -1,1 +1,1 @@
-var mnemonic = "because modify enjoy patrol interest pride primary swift spatial general fox blanket";
+var mnemonic = "guilt venue lift protect truly harsh tuition mom spike census daring wage";

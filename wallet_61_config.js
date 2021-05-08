@@ -1,1 +1,1 @@
-var mnemonic = "sport accuse mercy ordinary spice stay slim oxygen broccoli square fresh spin";
+var mnemonic = "squirrel race fatigue peasant scan promote cushion tide bonus slot expire law";

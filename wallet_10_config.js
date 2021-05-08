@@ -1,1 +1,1 @@
-var mnemonic = "pig walnut soldier relief lobster oak park sugar snack hawk trial way";
+var mnemonic = "chat six neck ridge doctor degree able call mother matter cousin field";

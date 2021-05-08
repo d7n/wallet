@@ -1,1 +1,1 @@
-var mnemonic = "hazard syrup fence young tool session animal play crater alert kitchen luxury";
+var mnemonic = "mammal gravity spring depart sudden cloud wolf pulp kid gadget dynamic owner";

@@ -1,1 +1,1 @@
-var mnemonic = "course oven flavor liberty pottery tent hair fatal company grass laugh flock";
+var mnemonic = "tank replace exist champion copy involve entire invest february misery mixed stove";

@@ -1,1 +1,1 @@
-var mnemonic = "echo matrix depth tide rebuild phrase volume kid soup misery end pill";
+var mnemonic = "amazing property birth super service wage liar air whale guard now example";

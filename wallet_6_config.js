@@ -1,1 +1,1 @@
-var mnemonic = "accuse adjust funny sudden finger remind weekend virtual capital setup address room";
+var mnemonic = "tool multiply scorpion exile include good glass faint oppose view solve figure";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal school rather seed found rent decline crater gauge post room ordinary";
+var mnemonic = "aspect boss foster drama wine recipe guilt raw leisure trim sight oppose";

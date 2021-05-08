@@ -1,1 +1,1 @@
-var mnemonic = "remain gate midnight path pretty snow tape virus distance finish sniff owner";
+var mnemonic = "birth chest online table tiger dolphin play whip design fly voice kid";

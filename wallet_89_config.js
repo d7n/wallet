@@ -1,1 +1,1 @@
-var mnemonic = "useless table scatter extra exit clown ecology chair topic inform announce domain";
+var mnemonic = "impose elegant inch cute cube oval exercise kiwi pulp double twin side";

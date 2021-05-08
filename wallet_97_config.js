@@ -1,1 +1,1 @@
-var mnemonic = "polar neglect fix canvas silver security action dry illness snake faith earn";
+var mnemonic = "view oil swear submit degree smile merry skate depend proud solve exit";

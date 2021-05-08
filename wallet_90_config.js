@@ -1,1 +1,1 @@
-var mnemonic = "memory attitude gadget outdoor glance risk debris maple hour mass elegant skull";
+var mnemonic = "snake vacant erosion adjust derive topic exile pet farm man nothing scout";

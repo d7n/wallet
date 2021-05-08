@@ -1,1 +1,1 @@
-var mnemonic = "boat prize comic quarter online plate public tragic gown ribbon custom correct";
+var mnemonic = "cereal auto because shed walnut claim all inch flight wire control crew";

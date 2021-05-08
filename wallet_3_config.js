@@ -1,1 +1,1 @@
-var mnemonic = "dream hip involve foil defy stand frequent matter element furnace plug onion";
+var mnemonic = "donor van absorb below match minute agent summer obscure goat ecology right";

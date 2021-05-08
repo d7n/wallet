@@ -1,1 +1,1 @@
-var mnemonic = "usage boil feed soap amazing few gun butter frequent result check sell";
+var mnemonic = "portion traffic merge worth decrease brand domain giraffe lumber hat foster celery";

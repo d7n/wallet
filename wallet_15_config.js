@@ -1,1 +1,1 @@
-var mnemonic = "rally jaguar thrive finger melody assist rose reason obtain message task usual";
+var mnemonic = "glass upper civil wide need minimum fire profit guess little gallery warm";

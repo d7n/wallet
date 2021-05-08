@@ -1,1 +1,1 @@
-var mnemonic = "black mix gym month artwork until refuse life save kidney laundry across";
+var mnemonic = "olive fury kit enroll taxi guide charge dry engage reject wave sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "grow father pride sight heavy awful tonight another exercise wide supply mutual";
+var mnemonic = "front arrest require nephew brick hazard original transfer tribe trick aunt disease";

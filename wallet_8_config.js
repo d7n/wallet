@@ -1,1 +1,1 @@
-var mnemonic = "speed duck wise nerve cruise media patch couch leopard cruise glare embody";
+var mnemonic = "gaze attack nut hurdle action super abuse time above unfold slab try";

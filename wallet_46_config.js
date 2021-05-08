@@ -1,1 +1,1 @@
-var mnemonic = "vibrant rifle issue citizen tornado elephant curious lyrics attitude promote soldier circle";
+var mnemonic = "sleep end chalk tiger security alert trumpet modify pelican slab fire egg";

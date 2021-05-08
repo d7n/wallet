@@ -1,1 +1,1 @@
-var mnemonic = "battle picture oval add kitten belt arena ordinary bridge energy return approve";
+var mnemonic = "worth sphere brush burst orient inflict census blade squeeze ask fix relax";

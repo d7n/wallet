@@ -1,1 +1,1 @@
-var mnemonic = "valley alert festival wise winter holiday punch print submit law van grit";
+var mnemonic = "snow subway camera donor win festival ghost entry north cart only split";

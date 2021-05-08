@@ -1,1 +1,1 @@
-var mnemonic = "police evolve fence mixture fetch can valve neck country flash tube special";
+var mnemonic = "any just jungle glare puppy basket fan author pitch cable minute gravity";

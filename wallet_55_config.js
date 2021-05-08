@@ -1,1 +1,1 @@
-var mnemonic = "embrace lottery cigar century boat insane sad trade double hill collect quote";
+var mnemonic = "enforce seek believe relief donkey amazing punch educate ugly injury glue extra";

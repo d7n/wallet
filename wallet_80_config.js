@@ -1,1 +1,1 @@
-var mnemonic = "alpha vast easily script kiwi excite begin receive quarter pair panic cancel";
+var mnemonic = "fame ketchup quick rebuild celery comic tent book lesson regret salmon abstract";

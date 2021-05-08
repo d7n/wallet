@@ -1,1 +1,1 @@
-var mnemonic = "recipe large napkin balcony grass flame violin actual mercy festival cherry weird";
+var mnemonic = "critic worth daughter eye transfer major true market nephew salt toy exotic";

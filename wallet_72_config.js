@@ -1,1 +1,1 @@
-var mnemonic = "various shop twist advance tank remove sting lion amateur snap note frog";
+var mnemonic = "risk kite brother velvet october credit pond bring muffin buyer cherry frown";

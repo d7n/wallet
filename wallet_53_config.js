@@ -1,1 +1,1 @@
-var mnemonic = "bag naive apple sphere ramp tonight awful swim ritual suspect obscure autumn";
+var mnemonic = "document prize opera endorse manage speak olive pull canoe doctor coffee rose";

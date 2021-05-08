@@ -1,1 +1,1 @@
-var mnemonic = "cake oxygen maximum hero remember burst vague design inspire hill blur case";
+var mnemonic = "athlete original present blouse suspect banana usual reform pudding noodle age tonight";

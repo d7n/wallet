@@ -1,1 +1,1 @@
-var mnemonic = "story stamp theory impact invest move fade biology waste trigger fantasy afford";
+var mnemonic = "fruit eye goddess lizard depart grab coil post jealous junk slide tenant";

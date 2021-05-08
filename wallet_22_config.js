@@ -1,1 +1,1 @@
-var mnemonic = "finger wool ginger appear ticket battle select excite street dice private remind";
+var mnemonic = "entry funny bullet trouble music wink screen broccoli record whisper else film";

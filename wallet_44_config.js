@@ -1,1 +1,1 @@
-var mnemonic = "toss fame hat merry rural craft list now become winter pumpkin ostrich";
+var mnemonic = "cushion animal aim shed tilt shoot patch van young repeat obscure lady";

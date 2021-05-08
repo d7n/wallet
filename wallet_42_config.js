@@ -1,1 +1,1 @@
-var mnemonic = "exile warm lemon coral tray garlic inmate shove gossip junior drama rate";
+var mnemonic = "snow convince panel teach child frozen maid mixed egg frequent select luggage";

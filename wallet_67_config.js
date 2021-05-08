@@ -1,1 +1,1 @@
-var mnemonic = "roast protect swim mistake fish radar guide dress praise country nose layer";
+var mnemonic = "spike great grocery marriage lottery patrol grace merit aware gallery crop crop";
