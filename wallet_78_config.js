@@ -1,1 +1,1 @@
-var mnemonic = "filter employ muscle question aspect top rally merge tray bottom wink ostrich";
+var mnemonic = "radio brick guitar unusual diagram jewel rather engine series crumble noodle happy";

@@ -1,1 +1,1 @@
-var mnemonic = "such cost hotel twelve submit slight label proud lucky fossil common forum";
+var mnemonic = "embrace lottery cigar century boat insane sad trade double hill collect quote";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit rate decrease toss crash nerve muffin brain crack photo bean pole";
+var mnemonic = "industry concert spike element palace oppose tag step limit where please kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "child drum main harvest still away electric head spider silver design liberty";
+var mnemonic = "mammal school rather seed found rent decline crater gauge post room ordinary";

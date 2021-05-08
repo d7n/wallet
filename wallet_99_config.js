@@ -1,1 +1,1 @@
-var mnemonic = "civil spin tray topic accident afford cube olympic put blue father stay";
+var mnemonic = "armor dynamic carbon divide engage cart black butter lottery night acid scorpion";

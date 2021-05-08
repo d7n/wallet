@@ -1,1 +1,1 @@
-var mnemonic = "voyage view twelve oval shield surge cool return crucial tonight window vintage";
+var mnemonic = "crash romance symbol water furnace fatal south corn scare remain error wall";

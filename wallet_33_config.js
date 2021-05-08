@@ -1,1 +1,1 @@
-var mnemonic = "embark cube grape shoulder protect survey drama allow version filter always large";
+var mnemonic = "dust estate project tongue sausage mosquito chief stand salon notice hip cluster";

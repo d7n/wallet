@@ -1,1 +1,1 @@
-var mnemonic = "rookie gasp congress dust deposit exile little joke country scene term stuff";
+var mnemonic = "accuse adjust funny sudden finger remind weekend virtual capital setup address room";

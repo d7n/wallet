@@ -1,1 +1,1 @@
-var mnemonic = "age join document prison faith middle recall clarify alien vote marine tornado";
+var mnemonic = "crystal surge pen damage snow convince rescue agent distance cash tone car";

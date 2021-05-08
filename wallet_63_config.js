@@ -1,1 +1,1 @@
-var mnemonic = "shrug expect educate current lava weapon cancel easy husband endorse drive boss";
+var mnemonic = "course oven flavor liberty pottery tent hair fatal company grass laugh flock";

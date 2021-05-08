@@ -1,1 +1,1 @@
-var mnemonic = "calm flavor web staff make night typical dirt angry neither skirt brand";
+var mnemonic = "noble language holiday soon honey feed frog shrimp then brown vintage neglect";

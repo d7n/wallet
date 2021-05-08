@@ -1,1 +1,1 @@
-var mnemonic = "entire merry change humble glide harvest luxury catalog maximum sunny farm annual";
+var mnemonic = "survey riot noise nation faith magnet sauce lottery panic rifle juice cloth";

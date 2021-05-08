@@ -1,1 +1,1 @@
-var mnemonic = "confirm dune deny ill suffer enter fork client coyote sugar suffer fan";
+var mnemonic = "board machine trap render border vessel clay figure foam truly payment primary";

@@ -1,1 +1,1 @@
-var mnemonic = "donor summer guard waste plastic slam wing dune scrub essence pave tide";
+var mnemonic = "helmet select hurry review long glass scene phone spike ramp bundle radar";

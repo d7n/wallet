@@ -1,1 +1,1 @@
-var mnemonic = "verify shield soup business render zoo unveil romance shine beef used belt";
+var mnemonic = "submit pledge stairs submit two hand hockey drop thank skill depend into";

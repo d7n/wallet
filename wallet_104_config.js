@@ -1,1 +1,1 @@
-var mnemonic = "also walnut pool expose boring scissors rally utility rabbit priority space loud";
+var mnemonic = "valley alert festival wise winter holiday punch print submit law van grit";

@@ -1,1 +1,1 @@
-var mnemonic = "such tooth car muscle decrease salon path photo matter jar success hold";
+var mnemonic = "battle body antenna dice finish empower tiger river such order chalk disorder";

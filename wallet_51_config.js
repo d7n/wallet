@@ -1,1 +1,1 @@
-var mnemonic = "maid danger double struggle mechanic wish shoot pet primary analyst permit food";
+var mnemonic = "remain gate midnight path pretty snow tape virus distance finish sniff owner";

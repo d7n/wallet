@@ -1,1 +1,1 @@
-var mnemonic = "mean barely deny great rookie close response ladder marine anger twice jeans";
+var mnemonic = "hockey purity oak entire wild enough candy retire lake october faculty list";

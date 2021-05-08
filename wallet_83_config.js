@@ -1,1 +1,1 @@
-var mnemonic = "image lecture february gate olive ship cat antenna drive twice example armor";
+var mnemonic = "battle picture oval add kitten belt arena ordinary bridge energy return approve";

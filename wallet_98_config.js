@@ -1,1 +1,1 @@
-var mnemonic = "security inform potato fog flash illegal track abuse peace student legend strategy";
+var mnemonic = "unusual tool core aisle ugly car visa job record jaguar pottery lesson";

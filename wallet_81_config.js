@@ -1,1 +1,1 @@
-var mnemonic = "fun such choice enhance barely faint again exact earn crew drift garden";
+var mnemonic = "echo matrix depth tide rebuild phrase volume kid soup misery end pill";

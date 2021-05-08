@@ -1,1 +1,1 @@
-var mnemonic = "scatter pupil dignity pencil identify casual seminar seminar universe thrive metal lawsuit";
+var mnemonic = "junk magnet carbon flame donkey insane country ancient thank trash reform decrease";

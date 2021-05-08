@@ -1,1 +1,1 @@
-var mnemonic = "marriage match embark bracket either mystery range misery stick canvas destroy unique";
+var mnemonic = "combine reunion broom ready better badge august else neither antenna depend square";

@@ -1,1 +1,1 @@
-var mnemonic = "order into analyst spell waste coach park focus mixed mansion race file";
+var mnemonic = "recipe large napkin balcony grass flame violin actual mercy festival cherry weird";

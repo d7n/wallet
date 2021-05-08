@@ -1,1 +1,1 @@
-var mnemonic = "recipe planet start search amazing fee alone impose lucky own lesson vivid";
+var mnemonic = "goddess pave actor gossip box omit lady pink guess black maid receive";

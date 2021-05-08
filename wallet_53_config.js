@@ -1,1 +1,1 @@
-var mnemonic = "pipe account punch better fragile feed never orbit install industry error modify";
+var mnemonic = "bag naive apple sphere ramp tonight awful swim ritual suspect obscure autumn";

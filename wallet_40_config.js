@@ -1,1 +1,1 @@
-var mnemonic = "brush burst unusual rose zebra win lamp search village proud sense prepare";
+var mnemonic = "grow father pride sight heavy awful tonight another exercise wide supply mutual";

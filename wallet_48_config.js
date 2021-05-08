@@ -1,1 +1,1 @@
-var mnemonic = "brisk pig segment praise cave demise noise wing staff correct door salt";
+var mnemonic = "planet salad liberty coconut impulse sphere pelican monitor disagree unhappy hair pool";

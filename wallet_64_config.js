@@ -1,1 +1,1 @@
-var mnemonic = "firm animal rebuild oppose person mimic sketch party paddle ridge depart echo";
+var mnemonic = "abandon awkward poem female length gravity gesture luggage super hole cream pudding";

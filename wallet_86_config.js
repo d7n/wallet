@@ -1,1 +1,1 @@
-var mnemonic = "water rhythm expose egg twenty dream stove ignore brush park dolphin fly";
+var mnemonic = "field solve loop rice nest drink save stay stereo critic giggle cluster";

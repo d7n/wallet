@@ -1,1 +1,1 @@
-var mnemonic = "scrap praise custom method salon runway gown tuition column proud rib churn";
+var mnemonic = "message toast empty march lava city indicate tell spoil resource work winner";

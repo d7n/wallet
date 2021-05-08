@@ -1,1 +1,1 @@
-var mnemonic = "later cram swing honey reopen neck file decrease swallow message heavy throw";
+var mnemonic = "cruel useless nose depend lyrics harvest safe group firm tree spoon adjust";

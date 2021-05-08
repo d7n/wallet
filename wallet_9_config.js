@@ -1,1 +1,1 @@
-var mnemonic = "comic youth fork next bubble duck junior spoil voice art borrow valve";
+var mnemonic = "beef dynamic napkin wrap olive security sea notable verb tube garage unusual";

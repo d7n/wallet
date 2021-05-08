@@ -1,1 +1,1 @@
-var mnemonic = "review anchor pitch match define limb face flavor decline street brush machine";
+var mnemonic = "slice label morning safe culture reward figure approve access defense flower agent";

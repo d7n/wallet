@@ -1,1 +1,1 @@
-var mnemonic = "spatial south credit shuffle aim error indoor forum mercy sugar saddle boring";
+var mnemonic = "slice tower orange trouble setup convince explain oyster genius deliver dove either";

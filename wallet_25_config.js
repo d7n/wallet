@@ -1,1 +1,1 @@
-var mnemonic = "neither what loyal review pledge segment business battle rely vacuum couch sample";
+var mnemonic = "alarm item train mushroom tape motion process cabbage include title fault blood";

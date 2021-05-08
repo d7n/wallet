@@ -1,1 +1,1 @@
-var mnemonic = "ready spread proud kitchen coast gun foster nurse wedding slogan during easily";
+var mnemonic = "useless table scatter extra exit clown ecology chair topic inform announce domain";

@@ -1,1 +1,1 @@
-var mnemonic = "gain away photo blind confirm flee credit buyer simple response sniff state";
+var mnemonic = "black mix gym month artwork until refuse life save kidney laundry across";

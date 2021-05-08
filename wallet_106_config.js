@@ -1,1 +1,1 @@
-var mnemonic = "spread hungry recycle sun amount evoke system quiz able copper caution barrel";
+var mnemonic = "seek body vicious choice wisdom quarter slogan radio banana conduct bring powder";

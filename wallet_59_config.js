@@ -1,1 +1,1 @@
-var mnemonic = "nice sugar maximum rail stomach image polar field grain waste menu found";
+var mnemonic = "broom make crystal bag spoon tonight oxygen fantasy better broom loud gap";

@@ -1,1 +1,1 @@
-var mnemonic = "praise romance total valley piece review require move garden sentence juice unable";
+var mnemonic = "key tonight unaware cool loyal can tuna board sketch subject aunt ketchup";

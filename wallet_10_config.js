@@ -1,1 +1,1 @@
-var mnemonic = "bulk have file cargo base leisure certain diesel floor solution alone tackle";
+var mnemonic = "pig walnut soldier relief lobster oak park sugar snack hawk trial way";

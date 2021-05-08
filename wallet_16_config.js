@@ -1,1 +1,1 @@
-var mnemonic = "share insect firm armor author cliff sauce jump express pistol test hurry";
+var mnemonic = "mistake salt happy observe exercise source stone letter actress wish fork feed";

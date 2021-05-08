@@ -1,1 +1,1 @@
-var mnemonic = "close agree kite scissors potato beauty knock hold oxygen inspire husband old";
+var mnemonic = "axis cross vast banner physical anchor sound bar now brass eyebrow face";

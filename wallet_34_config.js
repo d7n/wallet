@@ -1,1 +1,1 @@
-var mnemonic = "fashion like machine frozen special submit nominee ski despair slender safe wire";
+var mnemonic = "include panda manual friend culture decide chunk normal switch airport vehicle razor";

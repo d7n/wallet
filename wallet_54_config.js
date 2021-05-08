@@ -1,1 +1,1 @@
-var mnemonic = "clap clay april food guess sausage review truck vapor obtain spend model";
+var mnemonic = "tag auction dish february grain trick genre scheme other pet thrive tragic";

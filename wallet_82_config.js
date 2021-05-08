@@ -1,1 +1,1 @@
-var mnemonic = "decide west toast cool cliff hospital gift blouse title range vague health";
+var mnemonic = "captain success regular boring tree found pretty man install where eight arctic";

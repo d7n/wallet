@@ -1,1 +1,1 @@
-var mnemonic = "exact remember virtual near index gospel nest learn satisfy century finger claim";
+var mnemonic = "roast protect swim mistake fish radar guide dress praise country nose layer";

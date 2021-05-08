@@ -1,1 +1,1 @@
-var mnemonic = "spot tail country avocado repair salad wet danger crucial weapon boss sauce";
+var mnemonic = "memory attitude gadget outdoor glance risk debris maple hour mass elegant skull";

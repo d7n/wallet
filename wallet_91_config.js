@@ -1,1 +1,1 @@
-var mnemonic = "click peanut hint fee one enforce coil upper move portion people about";
+var mnemonic = "police evolve fence mixture fetch can valve neck country flash tube special";

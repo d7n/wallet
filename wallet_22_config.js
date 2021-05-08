@@ -1,1 +1,1 @@
-var mnemonic = "guard novel wisdom ozone lion thing crisp swap whip comic famous cave";
+var mnemonic = "finger wool ginger appear ticket battle select excite street dice private remind";

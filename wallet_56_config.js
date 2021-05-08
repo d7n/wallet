@@ -1,1 +1,1 @@
-var mnemonic = "night rebuild have swamp insane car core auction armed nominee print state";
+var mnemonic = "breeze robust peace cry glare guide aunt next swamp price warfare marble";

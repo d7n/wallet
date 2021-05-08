@@ -1,1 +1,1 @@
-var mnemonic = "grant artwork lonely relief scheme seed educate trigger history battle audit defense";
+var mnemonic = "because modify enjoy patrol interest pride primary swift spatial general fox blanket";

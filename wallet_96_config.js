@@ -1,1 +1,1 @@
-var mnemonic = "blood digital blanket harvest street repeat first balcony airport mad leopard plastic";
+var mnemonic = "still pumpkin veteran artefact miracle chuckle cheap oblige federal bitter human bench";

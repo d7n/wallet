@@ -1,1 +1,1 @@
-var mnemonic = "since filter harvest fat bag silver rack small basket burst cause year";
+var mnemonic = "dream hip involve foil defy stand frequent matter element furnace plug onion";

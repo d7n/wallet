@@ -1,1 +1,1 @@
-var mnemonic = "cloth marriage route blur menu edge gate analyst another biology tree option";
+var mnemonic = "ritual club satoshi fiber pave advice credit space insane seminar moment reflect";

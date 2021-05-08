@@ -1,1 +1,1 @@
-var mnemonic = "demand museum approve insane divert bike century shiver tide yard any cook";
+var mnemonic = "express upper dose uncover minute item symptom loop item renew miss fiber";

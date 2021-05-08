@@ -1,1 +1,1 @@
-var mnemonic = "toss robot area churn catch behave priority piece market rose immune draw";
+var mnemonic = "stock improve wool federal pizza fresh memory guitar dutch clock jar alley";

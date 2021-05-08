@@ -1,1 +1,1 @@
-var mnemonic = "toe escape north west pottery space latin typical brand combine ladder parrot";
+var mnemonic = "fault film weather history jealous isolate twin mixed oil forum talent ketchup";

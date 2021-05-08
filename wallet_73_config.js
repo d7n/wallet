@@ -1,1 +1,1 @@
-var mnemonic = "rather neglect group rib kite urban industry label month title blanket upgrade";
+var mnemonic = "repeat make sort bubble insane regret fatal amazing destroy stone impulse attend";

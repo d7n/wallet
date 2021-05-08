@@ -1,1 +1,1 @@
-var mnemonic = "above cricket orange rice earn also girl jealous wreck enable boat soon";
+var mnemonic = "boat prize comic quarter online plate public tragic gown ribbon custom correct";

@@ -1,1 +1,1 @@
-var mnemonic = "movie fish design spirit sleep brave tag chuckle alert green wheat celery";
+var mnemonic = "illegal foot wood code snow episode book unfair used cotton question airport";

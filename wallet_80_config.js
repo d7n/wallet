@@ -1,1 +1,1 @@
-var mnemonic = "rookie beef adapt crime gospel need hedgehog enrich congress matter tail rapid";
+var mnemonic = "alpha vast easily script kiwi excite begin receive quarter pair panic cancel";

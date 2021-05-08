@@ -1,1 +1,1 @@
-var mnemonic = "smoke waste ugly hurdle forum vital canyon seek fade rally explain place";
+var mnemonic = "cup faculty tennis choose subject pony lemon make island fashion armed enlist";

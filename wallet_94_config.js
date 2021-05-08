@@ -1,1 +1,1 @@
-var mnemonic = "obvious giant check situate catch flag raise siege glass bless math such";
+var mnemonic = "agree evil west little upper assist garbage name upon crash differ sketch";

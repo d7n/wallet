@@ -1,1 +1,1 @@
-var mnemonic = "piano risk history kite twenty person pole admit fish mimic muscle spell";
+var mnemonic = "knife cement music impose check spatial team approve process vessel crime metal";

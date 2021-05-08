@@ -1,1 +1,1 @@
-var mnemonic = "vital shaft either call domain reunion patient actress quality reflect lock task";
+var mnemonic = "cloud van sing valid arch educate lawsuit onion ring display link focus";

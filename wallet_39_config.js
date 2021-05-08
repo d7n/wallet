@@ -1,1 +1,1 @@
-var mnemonic = "mechanic couple possible poet kitten more snack lottery alarm maze alien estate";
+var mnemonic = "morning else glide wrong earth come welcome ordinary panther anger magnet limb";

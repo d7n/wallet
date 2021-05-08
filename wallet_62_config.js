@@ -1,1 +1,1 @@
-var mnemonic = "ahead caution notable avoid embrace bamboo harsh erase myth wife bring assist";
+var mnemonic = "dentist trim order blast file reflect wet rescue fit index asset civil";

@@ -1,1 +1,1 @@
-var mnemonic = "brick fly unit absurd say mail talent fashion chef leave winner vital";
+var mnemonic = "basket host blush goose expand settle feed vehicle sponsor aware slam service";

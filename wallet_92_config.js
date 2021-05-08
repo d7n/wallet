@@ -1,1 +1,1 @@
-var mnemonic = "rhythm raw chase rude smooth ecology sister spring buyer blue diagram grain";
+var mnemonic = "rich again mutual verb shiver matter pond remove card tortoise admit naive";

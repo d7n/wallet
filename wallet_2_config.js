@@ -1,1 +1,1 @@
-var mnemonic = "eternal casual shrimp tomorrow immense pact scorpion vocal such yellow illness elegant";
+var mnemonic = "boost strategy neutral era example select romance good pilot trend quit pistol";

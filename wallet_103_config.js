@@ -1,1 +1,1 @@
-var mnemonic = "cherry include dwarf broom decorate catch neutral fall neither because drip scheme";
+var mnemonic = "wrong square wash inmate vehicle luxury exact gadget leisure write item gift";

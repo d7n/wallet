@@ -1,1 +1,1 @@
-var mnemonic = "solid radio into hamster sport side tuna arrange goddess tackle payment detect";
+var mnemonic = "cake oxygen maximum hero remember burst vague design inspire hill blur case";

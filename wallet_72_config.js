@@ -1,1 +1,1 @@
-var mnemonic = "grunt cycle click toward talk thumb plastic attitude betray bleak donor finish";
+var mnemonic = "various shop twist advance tank remove sting lion amateur snap note frog";

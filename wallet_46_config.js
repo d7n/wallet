@@ -1,1 +1,1 @@
-var mnemonic = "crawl just weasel blame deposit divert damage enter inside ahead cloth lonely";
+var mnemonic = "vibrant rifle issue citizen tornado elephant curious lyrics attitude promote soldier circle";

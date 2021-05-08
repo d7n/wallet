@@ -1,1 +1,1 @@
-var mnemonic = "aisle reveal galaxy wine noise ostrich icon use horn poem hazard flush";
+var mnemonic = "immense awkward pledge prize bless security print quick similar olympic six melt";

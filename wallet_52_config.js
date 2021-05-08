@@ -1,1 +1,1 @@
-var mnemonic = "accident response work valley giant hand gate skirt speak endless between devote";
+var mnemonic = "leopard describe tray define chunk erode nature inch afraid gallery believe ghost";

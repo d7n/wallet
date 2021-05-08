@@ -1,1 +1,1 @@
-var mnemonic = "canoe affair nominee drastic modify swap aspect mutual burst ugly axis chimney";
+var mnemonic = "dutch diary actor fuel bleak arrow report repair proof alien believe scrap";

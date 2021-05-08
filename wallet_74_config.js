@@ -1,1 +1,1 @@
-var mnemonic = "weapon venue silk sauce island online minute hold museum mixed shop material";
+var mnemonic = "occur settle crack aisle release old crane desert furnace bean apology curve";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow peace brief pen poem rabbit tornado century ginger crash jealous busy";
+var mnemonic = "doctor slender increase impact control capable repeat ordinary agent hover mule asthma";

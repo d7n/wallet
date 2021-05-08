@@ -1,1 +1,1 @@
-var mnemonic = "fossil twin distance tent happy can right open add trouble deposit whip";
+var mnemonic = "wash dish laugh math vanish picture move dinosaur crucial album fuel physical";

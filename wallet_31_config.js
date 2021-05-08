@@ -1,1 +1,1 @@
-var mnemonic = "book illness clap armor circle school galaxy spice shaft task fantasy rain";
+var mnemonic = "harsh release profit disagree grass ask harbor clown fluid pyramid shadow water";

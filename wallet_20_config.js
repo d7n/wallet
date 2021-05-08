@@ -1,1 +1,1 @@
-var mnemonic = "useless shoot fence accident asthma broom ritual lion size weather brother speak";
+var mnemonic = "neglect sand oblige scene gorilla marine critic ocean ecology dilemma syrup exhibit";

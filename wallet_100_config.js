@@ -1,1 +1,1 @@
-var mnemonic = "side grab spare vast monitor convince make gentle rug expire vintage predict";
+var mnemonic = "try quit increase smile congress winter easy control short twice cash strategy";

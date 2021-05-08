@@ -1,1 +1,1 @@
-var mnemonic = "option help banana steak follow perfect country auction twice fork great salad";
+var mnemonic = "wait grape industry crime layer coyote wet hub embrace invest cruel stone";

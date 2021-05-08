@@ -1,1 +1,1 @@
-var mnemonic = "barrel census learn setup okay mansion network monkey almost sibling until pass";
+var mnemonic = "cram plate vintage galaxy scissors match second crop target law parent sign";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel endorse pig duty sausage fence hood latin junior speed wide moon";
+var mnemonic = "sport accuse mercy ordinary spice stay slim oxygen broccoli square fresh spin";

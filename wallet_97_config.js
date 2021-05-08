@@ -1,1 +1,1 @@
-var mnemonic = "draw cook expand brick never seed mix erosion wise stone scan enlist";
+var mnemonic = "polar neglect fix canvas silver security action dry illness snake faith earn";
