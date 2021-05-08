@@ -1,1 +1,1 @@
-var mnemonic = "script mesh fold crisp bundle chest useless blossom curious praise angry display";
+var mnemonic = "family gold trick picnic negative punch october pill mobile alter digital install";

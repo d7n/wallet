@@ -1,1 +1,1 @@
-var mnemonic = "write relief measure upset upgrade zoo eagle chuckle soul pluck snap tourist";
+var mnemonic = "include must energy act seek detail puppy double drive salad scene spice";

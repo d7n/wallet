@@ -1,1 +1,1 @@
-var mnemonic = "affair amazing senior talent question medal insect only artwork grow face gift";
+var mnemonic = "lava phone forget half swear job helmet manual scrub more transfer before";

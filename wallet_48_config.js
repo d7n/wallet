@@ -1,1 +1,1 @@
-var mnemonic = "nice someone gadget item love owner cattle crowd cabin belt play love";
+var mnemonic = "excite ketchup walnut space envelope clever wedding beach exhaust outer virus truth";

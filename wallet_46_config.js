@@ -1,1 +1,1 @@
-var mnemonic = "spy dragon track trumpet boss canoe valid salute pencil invite sadness clinic";
+var mnemonic = "duty hurdle simple artefact exotic cruise help share aisle decide opera any";

@@ -1,1 +1,1 @@
-var mnemonic = "detect long excess start spawn security bounce nothing civil alter quote wing";
+var mnemonic = "excess confirm winner foil language cream shift chat suit shrimp online maze";

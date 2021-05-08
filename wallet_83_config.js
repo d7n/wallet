@@ -1,1 +1,1 @@
-var mnemonic = "demise forget slab traffic debate body someone blur lazy tower glance post";
+var mnemonic = "blush valley book amount unlock cruise grab way parade belt capable light";

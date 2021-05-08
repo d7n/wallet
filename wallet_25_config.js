@@ -1,1 +1,1 @@
-var mnemonic = "often pride useless bone regular blade topple shove correct own usage brick";
+var mnemonic = "garden cotton empower doctor elephant lyrics silly summer giggle protect attract quiz";

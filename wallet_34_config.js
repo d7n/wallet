@@ -1,1 +1,1 @@
-var mnemonic = "harvest scale news sort paper carbon culture general impulse zero ceiling ramp";
+var mnemonic = "warrior gown prepare chest blade over draft blade library divert liberty actor";

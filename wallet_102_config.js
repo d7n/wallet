@@ -1,1 +1,1 @@
-var mnemonic = "drama garbage hobby brisk worry senior enact spell minor fun limb pilot";
+var mnemonic = "fork material abuse giraffe bag illegal normal chaos mom beauty matter buzz";

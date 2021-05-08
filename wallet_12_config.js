@@ -1,1 +1,1 @@
-var mnemonic = "inch that subject attract carry shock nuclear become impulse gun expand defy";
+var mnemonic = "together blame pill violin soon lion repeat fiber click mimic menu clap";

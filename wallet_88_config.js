@@ -1,1 +1,1 @@
-var mnemonic = "vessel cause inhale vivid arch excess arrow monitor verb burst mirror blast";
+var mnemonic = "wall define notice always tattoo vibrant tuition spare high pill layer silent";

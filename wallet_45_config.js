@@ -1,1 +1,1 @@
-var mnemonic = "pupil puzzle horror dirt aim royal doll already blouse fuel can correct";
+var mnemonic = "nurse other basket cricket crouch dolphin traffic swap flat size wrap engine";

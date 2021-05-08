@@ -1,1 +1,1 @@
-var mnemonic = "inherit urban photo lab income unable border garlic filter remember broccoli say";
+var mnemonic = "across holiday hospital quit find rich embark dentist acoustic face quarter lumber";

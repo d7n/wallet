@@ -1,1 +1,1 @@
-var mnemonic = "force subway imitate settle margin cancel video topple split anger concert lady";
+var mnemonic = "gentle stem finish expect pride super work dust comfort harsh civil climb";

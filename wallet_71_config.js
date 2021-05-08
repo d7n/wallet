@@ -1,1 +1,1 @@
-var mnemonic = "clump system thought armor label bridge rail benefit divert extend awkward run";
+var mnemonic = "together cram sound sibling banana today slam mandate farm action abstract random";

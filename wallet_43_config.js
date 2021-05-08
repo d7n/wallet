@@ -1,1 +1,1 @@
-var mnemonic = "this art tone balcony accident kind parent old decrease jeans trim sudden";
+var mnemonic = "true used volume best middle silent brush split vague someone large fatal";

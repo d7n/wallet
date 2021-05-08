@@ -1,1 +1,1 @@
-var mnemonic = "woman boost action endless earth few exchange refuse polar word wheat churn";
+var mnemonic = "equal special remind rebuild daring fringe category wife slender feed develop scatter";

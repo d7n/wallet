@@ -1,1 +1,1 @@
-var mnemonic = "scrap tourist kick give clump minor winner matrix demise auction soccer vanish";
+var mnemonic = "hamster empower title minimum write skin exotic rail rare final grow replace";

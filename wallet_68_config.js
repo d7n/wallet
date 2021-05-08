@@ -1,1 +1,1 @@
-var mnemonic = "arm oval sad snack spread lonely annual range meat also coral kitten";
+var mnemonic = "goddess feature pilot immune prison turn estate girl pigeon pony steak layer";

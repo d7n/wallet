@@ -1,1 +1,1 @@
-var mnemonic = "mammal protect found provide ignore file bar pupil tribe flight day clip";
+var mnemonic = "caution tiny rookie pattern science law pattern teach gauge cake impose urban";

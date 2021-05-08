@@ -1,1 +1,1 @@
-var mnemonic = "sausage venue tooth age pluck rubber bar reduce shine key pony sea";
+var mnemonic = "pen window deposit toward sister digital require horse piano culture weapon initial";

@@ -1,1 +1,1 @@
-var mnemonic = "letter daring member twice coral token pen make gown peanut ticket echo";
+var mnemonic = "side tiny cluster machine client twin sure insect begin sand clump spray";

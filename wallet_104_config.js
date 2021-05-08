@@ -1,1 +1,1 @@
-var mnemonic = "citizen object since dragon never year peasant spray run climb elder garment";
+var mnemonic = "display yellow enter hockey gospel worth exit pen security law cinnamon stool";

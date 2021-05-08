@@ -1,1 +1,1 @@
-var mnemonic = "spend click peanut lemon tennis animal catalog net judge audit tunnel soap";
+var mnemonic = "ankle pepper fence front issue glove artist utility system social before pact";

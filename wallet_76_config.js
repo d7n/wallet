@@ -1,1 +1,1 @@
-var mnemonic = "ritual race include proof ticket perfect you best riot pledge neutral genre";
+var mnemonic = "length submit bread powder tomato rib crime system arrive town tuition crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "forest fetch anger stamp fault eagle child scissors common dutch kitchen spread";
+var mnemonic = "fetch parrot anxiety you rescue trust riot spike wash napkin network bright";

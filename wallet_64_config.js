@@ -1,1 +1,1 @@
-var mnemonic = "service address program shell spike dice increase early base solution prefer corn";
+var mnemonic = "mountain news split claim dream lounge stamp put shy net year record";

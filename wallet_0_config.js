@@ -1,1 +1,1 @@
-var mnemonic = "motion fossil museum subway inform nerve harbor knife axis bulk brown confirm";
+var mnemonic = "artist animal negative possible icon egg trip account gospel sentence organ filter";

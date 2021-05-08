@@ -1,1 +1,1 @@
-var mnemonic = "intact festival glass price uncle harbor alley donkey invite drum gym mandate";
+var mnemonic = "staff wrist interest across monster economy squeeze display surround draw renew father";

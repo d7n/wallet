@@ -1,1 +1,1 @@
-var mnemonic = "wet fence sick vacuum goat merit replace trap noodle another twelve way";
+var mnemonic = "curve lend live fat fiber armor hurt traffic opinion candy cloud robot";

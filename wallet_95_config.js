@@ -1,1 +1,1 @@
-var mnemonic = "shed theory cannon target quote position attract truly strategy dragon melody merry";
+var mnemonic = "ball prosper frog domain road figure vivid make identify reject hole donkey";

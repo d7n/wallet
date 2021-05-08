@@ -1,1 +1,1 @@
-var mnemonic = "rural liberty define spare tomato lend rude purpose rapid length humble taxi";
+var mnemonic = "retire pear awful add entire music focus boost pyramid tortoise advance ozone";

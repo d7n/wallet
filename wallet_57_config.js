@@ -1,1 +1,1 @@
-var mnemonic = "pattern birth kiss carpet useless oven elite nation grocery result claw autumn";
+var mnemonic = "client viable basic page renew diesel robust drive produce tumble dutch vapor";

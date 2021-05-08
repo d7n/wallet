@@ -1,1 +1,1 @@
-var mnemonic = "twice talent forum budget bean clap scene flame arena sport add agent";
+var mnemonic = "fog bind donor item vintage inch wing reopen add achieve trim scatter";

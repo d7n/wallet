@@ -1,1 +1,1 @@
-var mnemonic = "across skate knee print name gravity can position soldier gown leader stand";
+var mnemonic = "cancel they unfold fat pepper dad special write real exit east theme";

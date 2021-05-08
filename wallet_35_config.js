@@ -1,1 +1,1 @@
-var mnemonic = "royal patrol real connect license corn steel input parent guard device sick";
+var mnemonic = "bargain warfare screen offer double vacant keep giraffe verb board soup model";

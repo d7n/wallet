@@ -1,1 +1,1 @@
-var mnemonic = "drop fun labor skill play stairs crunch curious custom final vibrant nominee";
+var mnemonic = "random flavor budget joy glide bunker club right congress face gold fiber";

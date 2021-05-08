@@ -1,1 +1,1 @@
-var mnemonic = "snack mystery logic thought collect gold fee wrong trash explain barely grow";
+var mnemonic = "usual merit legend video view awful same glide father people quit rabbit";

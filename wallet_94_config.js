@@ -1,1 +1,1 @@
-var mnemonic = "office drill picnic crumble grid tired submit book long cute amount frown";
+var mnemonic = "stay amount toast huge traffic asthma divorce home ability dice file nation";

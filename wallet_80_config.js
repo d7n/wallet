@@ -1,1 +1,1 @@
-var mnemonic = "canvas toddler drum crush very key place mix aunt skull broom gym";
+var mnemonic = "abstract sound advice dress girl flag arrange problem host remember seven orchard";

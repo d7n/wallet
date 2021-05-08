@@ -1,1 +1,1 @@
-var mnemonic = "human real panic chaos resist crime swallow innocent region expire sun torch";
+var mnemonic = "merit absent cake flash mansion odor bargain swift try pottery smile month";

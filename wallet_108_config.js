@@ -1,1 +1,1 @@
-var mnemonic = "sibling electric luxury test six balcony sight disorder defy cream eagle payment";
+var mnemonic = "clap mother slide outer where flock tray talent habit roast rally adjust";

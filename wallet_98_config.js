@@ -1,1 +1,1 @@
-var mnemonic = "slam smart talk close mirror illegal finish pride old spirit seek sell";
+var mnemonic = "correct below dismiss pull trigger dinosaur life behave unaware try runway broom";

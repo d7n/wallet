@@ -1,1 +1,1 @@
-var mnemonic = "coach float winter snap vessel margin gesture wing result pluck neutral goose";
+var mnemonic = "harvest deputy rose gossip venture school digital stairs over toe spring game";

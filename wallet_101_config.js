@@ -1,1 +1,1 @@
-var mnemonic = "utility gasp cost champion pyramid ask river glove relax fly update dignity";
+var mnemonic = "this upper siren vacuum fork bone amazing capable shock surprise soap blood";

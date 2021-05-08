@@ -1,1 +1,1 @@
-var mnemonic = "cram awesome title mesh regret better gold extra vintage pledge fish feel";
+var mnemonic = "enable runway where conduct actress host until despair genius cattle uncle avocado";

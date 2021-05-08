@@ -1,1 +1,1 @@
-var mnemonic = "melody upset moral cliff organ wall escape clinic barely mixture brief throw";
+var mnemonic = "correct glare purse patch recipe when correct acid wonder bike puppy there";

@@ -1,1 +1,1 @@
-var mnemonic = "butter extra cram runway chalk right short razor pretty involve butter pepper";
+var mnemonic = "worth hat stone jump chuckle plug vacuum topic soft spy ghost fringe";

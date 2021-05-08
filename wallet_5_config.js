@@ -1,1 +1,1 @@
-var mnemonic = "water disorder mobile alley home orphan ignore canvas degree guitar gold cage";
+var mnemonic = "fragile cotton cabbage beauty myself midnight accuse play sponsor river taxi sick";

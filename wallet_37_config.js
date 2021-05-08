@@ -1,1 +1,1 @@
-var mnemonic = "attend afford notice give mean era primary marine frog icon escape myth";
+var mnemonic = "poverty roof fault potato arrow wrong street velvet adult debris attend like";

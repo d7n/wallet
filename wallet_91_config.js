@@ -1,1 +1,1 @@
-var mnemonic = "follow lesson mind rib retire very decorate stuff manual grocery early time";
+var mnemonic = "wink twice veteran alone arena below ecology couch behind ball arm fancy";

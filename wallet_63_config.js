@@ -1,1 +1,1 @@
-var mnemonic = "weapon submit merry camera cactus patrol eternal seat dinosaur bleak fabric across";
+var mnemonic = "census owner ketchup suffer equip improve example harsh eagle boy puzzle waste";

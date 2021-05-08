@@ -1,1 +1,1 @@
-var mnemonic = "ozone virtual crater purchase color update laptop double asset under promote size";
+var mnemonic = "there giant machine debate ripple marble swing tissue gallery hope all happy";

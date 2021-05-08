@@ -1,1 +1,1 @@
-var mnemonic = "team produce custom off edge minimum dice awake grab achieve pudding club";
+var mnemonic = "fine license invest step fresh shoe detect panic result tornado echo stomach";

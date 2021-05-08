@@ -1,1 +1,1 @@
-var mnemonic = "smooth crisp certain lizard flush hotel shoot wave capital shuffle cost hundred";
+var mnemonic = "order depend fever repair cupboard position renew zero velvet vague ethics remain";

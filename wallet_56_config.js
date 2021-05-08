@@ -1,1 +1,1 @@
-var mnemonic = "write giraffe green neck job salt volume gun sick myth pass hint";
+var mnemonic = "trip rose remove anger brick start play sponsor route wife wine swift";

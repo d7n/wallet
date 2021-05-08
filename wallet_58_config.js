@@ -1,1 +1,1 @@
-var mnemonic = "expect adjust mushroom forward bridge mesh energy polar clutch rare drink maid";
+var mnemonic = "invest play powder range flush hybrid army poverty spell shy rail gasp";

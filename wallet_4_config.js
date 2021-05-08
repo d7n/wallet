@@ -1,1 +1,1 @@
-var mnemonic = "know moment frost arm alien snap interest decorate unable advance century demise";
+var mnemonic = "innocent fan drink upset gravity because letter degree glue lazy invest alone";

@@ -1,1 +1,1 @@
-var mnemonic = "latin spike arm unique ski hazard carry chair miss shift gasp unfair";
+var mnemonic = "squeeze web fire blade orphan choice clay tool device food office fire";

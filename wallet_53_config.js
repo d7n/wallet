@@ -1,1 +1,1 @@
-var mnemonic = "merry eyebrow absurd clarify bike gauge mixed leisure verify chat pear blast";
+var mnemonic = "clarify family vanish tiny rude monster throw system shuffle illness today ceiling";

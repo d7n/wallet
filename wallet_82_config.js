@@ -1,1 +1,1 @@
-var mnemonic = "funny industry monkey voyage festival eyebrow lake local primary torch gloom dial";
+var mnemonic = "enter satoshi ice flip control lens abstract require amateur door hair achieve";

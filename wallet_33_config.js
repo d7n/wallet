@@ -1,1 +1,1 @@
-var mnemonic = "paddle sibling master spend artefact foot page upgrade elbow glow woman chimney";
+var mnemonic = "later host attract face fashion scheme zebra husband sell hand shoot stick";

@@ -1,1 +1,1 @@
-var mnemonic = "blur spot dwarf wife winner festival destroy ladder chapter hood metal child";
+var mnemonic = "any frown glide regular negative ride swallow civil cake mask announce climb";

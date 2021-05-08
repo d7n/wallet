@@ -1,1 +1,1 @@
-var mnemonic = "walnut struggle syrup goose ostrich invest skull art clog unknown follow regular";
+var mnemonic = "flag apple vague alley impose luxury security truly able region uniform pig";

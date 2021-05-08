@@ -1,1 +1,1 @@
-var mnemonic = "average walnut margin point trigger umbrella bubble memory agree hand banner cargo";
+var mnemonic = "purity disagree scatter trial muscle level much smart banana grief prevent paper";

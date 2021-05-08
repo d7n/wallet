@@ -1,1 +1,1 @@
-var mnemonic = "polar wink prepare knife bird camp crisp gap town kidney order ancient";
+var mnemonic = "car visa rebel gospel sail chalk buffalo below advice attitude visit team";

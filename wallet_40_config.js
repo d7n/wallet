@@ -1,1 +1,1 @@
-var mnemonic = "nothing similar occur lawn rapid orphan light damp bird arrow error broom";
+var mnemonic = "unfold remind pass rare crew fury pond require bus mystery fury action";

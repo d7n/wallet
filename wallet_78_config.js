@@ -1,1 +1,1 @@
-var mnemonic = "bone write security impulse square fitness average hour climb move satoshi dwarf";
+var mnemonic = "guess crumble visit nothing tool broccoli file jeans case top gentle shed";

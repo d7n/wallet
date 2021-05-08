@@ -1,1 +1,1 @@
-var mnemonic = "citizen toddler faith goose tower wet gasp brown barely congress require pave";
+var mnemonic = "behave galaxy toddler spice label eternal need explain verify trash dignity box";

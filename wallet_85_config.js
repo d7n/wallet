@@ -1,1 +1,1 @@
-var mnemonic = "lake maximum this ranch need useful blame inform shadow manage save erupt";
+var mnemonic = "business buyer box another zero addict utility process public feature render expose";

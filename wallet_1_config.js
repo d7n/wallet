@@ -1,1 +1,1 @@
-var mnemonic = "siren liquid keen entire moral wonder right citizen hub recycle family elevator";
+var mnemonic = "upset estate lion glad again identify inmate budget want bulb brush door";

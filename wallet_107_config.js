@@ -1,1 +1,1 @@
-var mnemonic = "junior monitor foster clinic visa slot salute fee check sight glory firm";
+var mnemonic = "purity decline original adjust cloud pill liar engage chase into sudden chef";

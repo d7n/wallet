@@ -1,1 +1,1 @@
-var mnemonic = "pizza photo toddler guilt soda edit toast swim usual capable foot fence";
+var mnemonic = "flat also across swarm green budget lazy regular obscure spend film ski";

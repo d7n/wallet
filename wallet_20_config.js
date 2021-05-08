@@ -1,1 +1,1 @@
-var mnemonic = "man corn mutual ritual artist element steel this speed rigid agent barrel";
+var mnemonic = "black power lens purse tumble visa open taxi ship visa ribbon nut";

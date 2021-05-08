@@ -1,1 +1,1 @@
-var mnemonic = "one cluster brick parrot bridge oyster winter snap mistake call slab pilot";
+var mnemonic = "office inquiry smoke utility supreme joy girl upon master primary police tonight";

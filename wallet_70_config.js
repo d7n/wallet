@@ -1,1 +1,1 @@
-var mnemonic = "inquiry measure gorilla mail multiply napkin excite imitate fiscal fog seek friend";
+var mnemonic = "entry tide blind gossip fire thumb flame enemy story soda panic seed";

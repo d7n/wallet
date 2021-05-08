@@ -1,1 +1,1 @@
-var mnemonic = "shoulder echo talent slow bid blush spice dinosaur door spot plate slim";
+var mnemonic = "put nerve beauty morning stable lyrics excess urge initial spirit dish solve";

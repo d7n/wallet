@@ -1,1 +1,1 @@
-var mnemonic = "any differ brick virus target cross tree regret cricket candy car ride";
+var mnemonic = "nest dad tiny note history confirm surprise night trash fragile also quality";

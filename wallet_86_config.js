@@ -1,1 +1,1 @@
-var mnemonic = "pulp myself length vintage tennis breeze yard border knock solve poem genuine";
+var mnemonic = "glow rocket harsh fine uniform parrot echo dinosaur awake apart asthma swarm";

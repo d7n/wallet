@@ -1,1 +1,1 @@
-var mnemonic = "fancy student injury maximum lab fatigue whale forget hedgehog dinner soccer country";
+var mnemonic = "shoot pipe era ugly dragon enemy rather federal toilet tent review maple";

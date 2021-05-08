@@ -1,1 +1,1 @@
-var mnemonic = "trial legal push arrest turn ramp leg try teach ranch short rabbit";
+var mnemonic = "much region axis daughter arrow then upper foot cry mesh impulse broccoli";

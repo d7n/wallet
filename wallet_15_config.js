@@ -1,1 +1,1 @@
-var mnemonic = "chimney speed dragon danger delay inherit mystery citizen hill sausage state club";
+var mnemonic = "into ring palace vote menu civil equal boring absorb talk arctic three";
