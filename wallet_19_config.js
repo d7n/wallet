@@ -1,1 +1,1 @@
-var mnemonic = "acoustic reward produce must proud moment adult ankle poet coach frog warfare";
+var mnemonic = "struggle social company side pause machine truth label neutral vapor nuclear peanut";

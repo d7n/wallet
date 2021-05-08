@@ -1,1 +1,1 @@
-var mnemonic = "evoke eagle outdoor payment pigeon drum rich pattern tip armor salon acquire";
+var mnemonic = "weekend ignore sight churn club learn push dust poverty patient silly topic";

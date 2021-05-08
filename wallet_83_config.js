@@ -1,1 +1,1 @@
-var mnemonic = "trouble boy lemon attitude middle place miracle gravity brick embody child benefit";
+var mnemonic = "enact heavy nephew tape level shift cereal erupt decide faculty butter fire";

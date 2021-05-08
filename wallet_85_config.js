@@ -1,1 +1,1 @@
-var mnemonic = "attack coral cement remove hill copy theme tackle duck naive high expose";
+var mnemonic = "warfare cute fortune crack harvest innocent grab review legend effort exotic together";

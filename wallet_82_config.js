@@ -1,1 +1,1 @@
-var mnemonic = "powder soccer crazy metal width lend child day story bargain kiss blast";
+var mnemonic = "prefer moral private uncle spell assist rhythm chuckle announce fold reunion drill";

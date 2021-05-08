@@ -1,1 +1,1 @@
-var mnemonic = "file sight trophy coach soup vivid sketch that raccoon harvest bar calm";
+var mnemonic = "bring version engage lava notice tell section pulp middle inform soft stone";

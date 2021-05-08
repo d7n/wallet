@@ -1,1 +1,1 @@
-var mnemonic = "evil enroll dial sniff glare primary genuine solid dream cross uniform logic";
+var mnemonic = "modify cinnamon six answer fuel must shield foster found hurt release actual";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort ankle beyond aware consider amazing soccer viable page remind better size";
+var mnemonic = "snake shop scatter street casual letter baby head shop pelican keep keep";

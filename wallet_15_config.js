@@ -1,1 +1,1 @@
-var mnemonic = "copy letter cheap travel cushion tomorrow snap topple drill hundred spell trend";
+var mnemonic = "clutch slim melt angry oven ball floor any base onion expose escape";

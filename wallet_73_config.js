@@ -1,1 +1,1 @@
-var mnemonic = "caught crew slush speak truck animal grape forget crisp track habit biology";
+var mnemonic = "wave series trigger column vast account labor jeans comfort load intact horn";

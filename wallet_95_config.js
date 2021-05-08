@@ -1,1 +1,1 @@
-var mnemonic = "buyer shadow fatal same accident addict pig lend measure hour blade tired";
+var mnemonic = "gallery jaguar couch atom mercy sell knee left metal music voyage language";

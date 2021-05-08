@@ -1,1 +1,1 @@
-var mnemonic = "lift awful slim gown rack assault immense swamp note goat caught near";
+var mnemonic = "conduct clean leisure better goat can vital angry away imitate layer please";

@@ -1,1 +1,1 @@
-var mnemonic = "curve advance excess toddler pottery twist proof memory surprise acquire bulb tragic";
+var mnemonic = "jealous antenna casual proof tooth upper private kiss person hero pioneer coconut";

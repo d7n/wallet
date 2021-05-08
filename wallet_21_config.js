@@ -1,1 +1,1 @@
-var mnemonic = "task net change domain trust seek sting tiger capable act crew field";
+var mnemonic = "insane news trend apology wonder lift museum grace carpet food office miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "tool sibling render typical negative remain later language ketchup cluster electric shock";
+var mnemonic = "harbor grunt rain photo cage opera shoe liberty shield night marriage diesel";

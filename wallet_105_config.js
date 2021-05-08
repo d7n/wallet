@@ -1,1 +1,1 @@
-var mnemonic = "purse twist acid truck fetch junior purse excuse glare federal under deal";
+var mnemonic = "wine damage boil differ trigger reduce west mixed worry repair fat opinion";

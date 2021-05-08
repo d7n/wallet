@@ -1,1 +1,1 @@
-var mnemonic = "because bunker shuffle above path fiscal copy leopard west sad nest divorce";
+var mnemonic = "sure custom riot horse focus target polar morning ancient purchase rebel strike";

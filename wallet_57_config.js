@@ -1,1 +1,1 @@
-var mnemonic = "atom enlist cart glory vicious neglect paper damp ahead pink nut resist";
+var mnemonic = "ridge mistake grief food inject shield stomach draft attract forget lock current";

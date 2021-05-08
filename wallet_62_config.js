@@ -1,1 +1,1 @@
-var mnemonic = "economy east inherit travel sock sugar thought tiny equip ladder income okay";
+var mnemonic = "rich chuckle rib acquire motor punch furnace icon wild orchard elephant fat";

@@ -1,1 +1,1 @@
-var mnemonic = "foil virus either catch now attitude morning dutch broken guide tool end";
+var mnemonic = "stairs unique divorce bench bounce ball school hedgehog carbon hello knife beef";

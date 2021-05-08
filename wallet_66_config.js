@@ -1,1 +1,1 @@
-var mnemonic = "nice surface defense absorb surprise thunder fuel camera museum idea belt manage";
+var mnemonic = "slice veteran future student knife dose unusual account hat among genre insect";

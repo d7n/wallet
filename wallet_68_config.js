@@ -1,1 +1,1 @@
-var mnemonic = "turtle photo coconut snack dance taxi ranch stage tenant divide thank describe";
+var mnemonic = "agree patient ahead vendor key trick scene tortoise have era come join";

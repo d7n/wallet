@@ -1,1 +1,1 @@
-var mnemonic = "garment wasp afford wash route inmate raw random season play actress wrong";
+var mnemonic = "hurdle sustain science vault pizza make apology famous pigeon habit tape century";

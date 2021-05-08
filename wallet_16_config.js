@@ -1,1 +1,1 @@
-var mnemonic = "mixture cotton plug entry mother cotton twist zone foil broccoli scheme cheese";
+var mnemonic = "ten theme donate sniff leopard size salon sight romance prepare chaos trap";

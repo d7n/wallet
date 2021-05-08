@@ -1,1 +1,1 @@
-var mnemonic = "bottom skate paper metal boat venue topple dwarf cruel twist cigar error";
+var mnemonic = "siren tenant win okay party online ginger dream reason neutral witness crack";

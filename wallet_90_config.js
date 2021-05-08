@@ -1,1 +1,1 @@
-var mnemonic = "roast toe collect response elegant hope disorder alcohol violin high dragon supply";
+var mnemonic = "silver grocery focus gown taxi tag warm logic furnace giraffe shed salt";

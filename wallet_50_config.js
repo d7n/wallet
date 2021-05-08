@@ -1,1 +1,1 @@
-var mnemonic = "exhibit future army wing gun neck mistake envelope inhale dwarf shop faint";
+var mnemonic = "near butter echo rude siege elite scan nut waste consider sing pull";

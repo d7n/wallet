@@ -1,1 +1,1 @@
-var mnemonic = "asset method bid decrease behind lock dream talk wasp brisk breeze inner";
+var mnemonic = "unfold road resist blast install pretty expect cart turkey excuse all unaware";

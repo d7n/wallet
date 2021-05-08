@@ -1,1 +1,1 @@
-var mnemonic = "leave process hint apple need buyer good random normal soda custom summer";
+var mnemonic = "width demise belt toddler dish praise crumble patient patient upgrade foil afraid";

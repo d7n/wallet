@@ -1,1 +1,1 @@
-var mnemonic = "actual together win tool hover move donate cannon ketchup nurse uncover senior";
+var mnemonic = "dash gaze viable sense lumber brave toddler tone gap hen common indoor";

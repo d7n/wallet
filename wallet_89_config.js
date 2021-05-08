@@ -1,1 +1,1 @@
-var mnemonic = "feature voice fat crowd book theory green accident fuel family ankle fork";
+var mnemonic = "inmate cradle hurry about fame inhale deposit surface metal urban echo miracle";

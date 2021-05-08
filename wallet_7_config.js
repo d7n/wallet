@@ -1,1 +1,1 @@
-var mnemonic = "inflict enhance false moral minor tiny stomach magnet forward collect discover bulb";
+var mnemonic = "young sustain suggest manage safe approve conduct man endless between asthma enforce";

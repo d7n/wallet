@@ -1,1 +1,1 @@
-var mnemonic = "empower debate swift chest yellow project doll charge once item dad tip";
+var mnemonic = "hood trust sustain loan grace reunion fold wheel sausage check arena marine";

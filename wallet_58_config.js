@@ -1,1 +1,1 @@
-var mnemonic = "breeze brief melody banner scissors pizza later bicycle alarm myth double diagram";
+var mnemonic = "sketch size unusual stem review cake chef lava borrow alert rather crumble";

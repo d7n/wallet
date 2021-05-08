@@ -1,1 +1,1 @@
-var mnemonic = "slide stand sunset lady march lyrics tragic history pudding monster income elbow";
+var mnemonic = "bounce this lottery position vehicle pony venture sting spare juice observe head";

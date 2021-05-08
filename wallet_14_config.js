@@ -1,1 +1,1 @@
-var mnemonic = "merge proof odor key fetch pepper code reform hope typical never enforce";
+var mnemonic = "agent before stable choose tortoise food slam educate wash sadness local twin";

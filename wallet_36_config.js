@@ -1,1 +1,1 @@
-var mnemonic = "glide urge virus extend act hurdle category genuine pair oil bubble hungry";
+var mnemonic = "play joke basic opera kiss destroy giggle sail hint saddle live rough";

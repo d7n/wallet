@@ -1,1 +1,1 @@
-var mnemonic = "visual entire anchor pumpkin erode seminar also note taste nest call kangaroo";
+var mnemonic = "guitar proof lumber miracle define quick sustain juice field forum demise rack";

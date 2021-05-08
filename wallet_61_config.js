@@ -1,1 +1,1 @@
-var mnemonic = "faint clutch orange credit fiber attack brass problem inform segment increase group";
+var mnemonic = "brand connect people next food offer kiss keen slogan echo regular undo";

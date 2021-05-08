@@ -1,1 +1,1 @@
-var mnemonic = "shop chapter monkey solar pudding movie cabbage addict amateur small good refuse";
+var mnemonic = "coyote travel duty fat rural onion slush verb upgrade jealous visa hole";

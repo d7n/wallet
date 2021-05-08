@@ -1,1 +1,1 @@
-var mnemonic = "another clinic keen sleep hazard exchange narrow actual mass boy obscure clog";
+var mnemonic = "ocean top face million tip cruel garage quick skull key moment hint";

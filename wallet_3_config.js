@@ -1,1 +1,1 @@
-var mnemonic = "forest cross health either beach rough primary hungry message orient art educate";
+var mnemonic = "embrace seat opera burst bag photo layer lesson junk episode hill poem";

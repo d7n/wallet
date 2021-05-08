@@ -1,1 +1,1 @@
-var mnemonic = "wisdom inhale eternal glass confirm ethics exact permit curtain during sauce vanish";
+var mnemonic = "large glide opera evolve cave salute have bonus bronze silver tank elite";

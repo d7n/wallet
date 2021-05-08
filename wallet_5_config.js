@@ -1,1 +1,1 @@
-var mnemonic = "fancy clown cover tomorrow turkey volcano spice quality purse people bundle shrug";
+var mnemonic = "client very badge dawn saddle half inspire boss wire cupboard comfort young";

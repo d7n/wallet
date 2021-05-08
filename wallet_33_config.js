@@ -1,1 +1,1 @@
-var mnemonic = "organ magic enforce short elbow time cream soup found civil narrow vibrant";
+var mnemonic = "picnic assault deer sunset bone stumble member person genre purity hybrid ridge";

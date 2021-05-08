@@ -1,1 +1,1 @@
-var mnemonic = "pony science present waste trim never tilt depth save dilemma visual subject";
+var mnemonic = "clap citizen rival interest goose squirrel cupboard coyote list view survey eagle";

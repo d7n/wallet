@@ -1,1 +1,1 @@
-var mnemonic = "execute badge genius fence yellow sign road solid mimic fabric twenty staff";
+var mnemonic = "solid unhappy category sausage six announce vital giant parent derive error offer";

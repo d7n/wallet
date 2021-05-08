@@ -1,1 +1,1 @@
-var mnemonic = "hen program outdoor way roast knife engage riot curve rent alpha stone";
+var mnemonic = "jewel essence merge scorpion globe eager play drive situate execute few fix";

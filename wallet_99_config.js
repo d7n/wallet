@@ -1,1 +1,1 @@
-var mnemonic = "wisdom make canoe faint warfare craft radio coin current offer faint vehicle";
+var mnemonic = "wise six appear system betray title orbit combine lazy miracle decorate cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "stem trick tail ankle absurd riot club dwarf board verify affair error";
+var mnemonic = "wash cost best shop tiger elbow glimpse fit slam patrol trade tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "baby remind medal section evoke hover radio deliver pause floor doctor assume";
+var mnemonic = "tuna border surprise advice witness country diagram sting easy tomato scan brown";

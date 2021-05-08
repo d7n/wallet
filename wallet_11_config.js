@@ -1,1 +1,1 @@
-var mnemonic = "cost detect reason finger olympic infant lawsuit pigeon middle bar have year";
+var mnemonic = "expose today decade resist finish chaos govern upper speak laundry parrot forum";

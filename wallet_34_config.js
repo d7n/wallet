@@ -1,1 +1,1 @@
-var mnemonic = "head print royal time merry cigar live loop sound subject paddle forward";
+var mnemonic = "fault inner candy travel ankle father print armed reveal middle athlete pet";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato feed obscure walnut bounce broom emerge wedding level add index spider";
+var mnemonic = "start actual among ugly doll vessel base announce music surprise citizen damage";

@@ -1,1 +1,1 @@
-var mnemonic = "crater tank merge canyon script spice crash pave moment else impact accident";
+var mnemonic = "embrace sand hybrid seven post stable cousin phrase coyote alert gorilla stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "device lawn empty boss list success name gap nominee door goose skirt";
+var mnemonic = "toss media grace brain snow blind urge chapter song library spread profit";

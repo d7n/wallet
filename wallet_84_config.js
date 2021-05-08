@@ -1,1 +1,1 @@
-var mnemonic = "legend jaguar torch remove feed copy quick faint sudden plunge mom spirit";
+var mnemonic = "protect hundred chimney mansion play title loop tragic guard gospel sleep switch";

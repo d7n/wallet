@@ -1,1 +1,1 @@
-var mnemonic = "search cross firm insane confirm help balance route rack task like joke";
+var mnemonic = "cement muscle cycle ceiling middle spot okay tag flat simple better collect";

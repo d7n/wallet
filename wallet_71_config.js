@@ -1,1 +1,1 @@
-var mnemonic = "hollow april isolate polar state exotic legal auction apology truth eyebrow pipe";
+var mnemonic = "arch game omit protect tilt equip peanut nasty cheese sibling bitter you";

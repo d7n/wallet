@@ -1,1 +1,1 @@
-var mnemonic = "obscure security envelope innocent prepare depend blame test list muffin oven arrive";
+var mnemonic = "worry scout steel mean pony sniff also bamboo save credit decline green";

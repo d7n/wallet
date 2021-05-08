@@ -1,1 +1,1 @@
-var mnemonic = "awful airport vault book sphere hazard school round walnut strike strong dinner";
+var mnemonic = "gauge tongue tired narrow decade sure dose try drop type brain rose";

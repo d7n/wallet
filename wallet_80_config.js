@@ -1,1 +1,1 @@
-var mnemonic = "cricket reject infant among return castle equip autumn kiwi cannon carry chalk";
+var mnemonic = "roof sister renew garden powder sign mouse retire hospital buyer annual sting";

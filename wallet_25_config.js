@@ -1,1 +1,1 @@
-var mnemonic = "salad idle window can double embark prepare venture method maid blast boil";
+var mnemonic = "silk scatter collect galaxy anger example warfare spoon service hover slight recall";

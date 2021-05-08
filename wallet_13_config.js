@@ -1,1 +1,1 @@
-var mnemonic = "country matrix have network material firm arctic bone frame embark mean gain";
+var mnemonic = "tackle voyage honey vocal pupil earn tape taxi eight voice upgrade please";

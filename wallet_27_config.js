@@ -1,1 +1,1 @@
-var mnemonic = "kidney repeat broccoli soda oak tank local prevent menu wasp nephew tobacco";
+var mnemonic = "clock vital auto half mammal demand utility unaware age core sheriff thought";

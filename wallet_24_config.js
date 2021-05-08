@@ -1,1 +1,1 @@
-var mnemonic = "gasp father ready chef when element identify farm lemon voyage monkey tennis";
+var mnemonic = "tunnel great remind radio grape turtle census label language gentle obey run";

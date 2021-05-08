@@ -1,1 +1,1 @@
-var mnemonic = "scatter history genre job great devote deer transfer predict puppy pilot modify";
+var mnemonic = "mule job manage flock office noble short address wreck forward board mosquito";

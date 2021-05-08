@@ -1,1 +1,1 @@
-var mnemonic = "allow clock decline empty section educate dolphin planet bronze fetch mandate olive";
+var mnemonic = "hidden panic credit else consider present coin spray fabric hundred section wasp";

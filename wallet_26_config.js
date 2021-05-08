@@ -1,1 +1,1 @@
-var mnemonic = "pool runway throw tuition exist flame phrase parade evidence immense senior differ";
+var mnemonic = "merge bind save display track toss harvest coral hub moral layer deposit";

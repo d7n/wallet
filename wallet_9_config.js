@@ -1,1 +1,1 @@
-var mnemonic = "mobile country valley liquid desert crack item fatal clinic recipe capital actor";
+var mnemonic = "turtle lonely relax voice screen size fox fetch recycle garden lake access";

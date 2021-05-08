@@ -1,1 +1,1 @@
-var mnemonic = "panther exhibit kitten rough obtain sample later discover any primary draw basket";
+var mnemonic = "cinnamon day write raw iron park fall tag margin west tiny ribbon";

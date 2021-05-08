@@ -1,1 +1,1 @@
-var mnemonic = "empty glad buzz movie color public enter injury siege cruise sand bike";
+var mnemonic = "among either mind trophy luxury enter clutch gorilla tattoo upon tired depth";

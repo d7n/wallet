@@ -1,1 +1,1 @@
-var mnemonic = "cable theory grid panel decline sting guide gather cushion leg parade latin";
+var mnemonic = "view pause avocado sign humor outer person castle distance vast loop margin";

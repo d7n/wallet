@@ -1,1 +1,1 @@
-var mnemonic = "shy much enroll square mansion twelve floor hotel silk crowd style phone";
+var mnemonic = "fortune phrase glory occur copper actual scrap young skate food suit theme";

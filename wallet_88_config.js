@@ -1,1 +1,1 @@
-var mnemonic = "stomach year coffee holiday rally expect magnet squirrel live receive absorb door";
+var mnemonic = "near panel bleak auto alley olive crane stomach theory target area offer";

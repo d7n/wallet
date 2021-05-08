@@ -1,1 +1,1 @@
-var mnemonic = "december install fox pattern urge animal seek ball toe eternal scorpion sunset";
+var mnemonic = "obey sweet acquire crater gentle damp pipe author mercy assist ancient possible";

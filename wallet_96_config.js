@@ -1,1 +1,1 @@
-var mnemonic = "gun leg census theory stamp glad alcohol carry link dish license hurry";
+var mnemonic = "exact rice crisp gown during hub fossil depart certain smile atom certain";

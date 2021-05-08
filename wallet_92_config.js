@@ -1,1 +1,1 @@
-var mnemonic = "thought idle business winner labor humor damage arrow solution rely maple copy";
+var mnemonic = "august give view mimic video element forum fatigue another script season settle";

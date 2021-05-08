@@ -1,1 +1,1 @@
-var mnemonic = "offer daughter home pulse tube eyebrow twelve anxiety outdoor captain peace mask";
+var mnemonic = "exact broccoli cradle sport soap domain exile brief all state top duty";

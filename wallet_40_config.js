@@ -1,1 +1,1 @@
-var mnemonic = "icon cotton abuse sad sing abuse viable resemble grow return yellow plastic";
+var mnemonic = "mail seed bind party pitch error inhale fork cereal follow trim couple";

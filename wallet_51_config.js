@@ -1,1 +1,1 @@
-var mnemonic = "escape gate scale input erode initial patrol famous task rebel hazard skate";
+var mnemonic = "fog valley design guard glow arrange antenna bring into gym margin faith";

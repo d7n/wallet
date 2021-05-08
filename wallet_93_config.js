@@ -1,1 +1,1 @@
-var mnemonic = "margin express into acquire lab addict online despair thrive awake flock runway";
+var mnemonic = "surge like mercy finish burden rabbit stick emotion demise path sail check";

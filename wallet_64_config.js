@@ -1,1 +1,1 @@
-var mnemonic = "fat bless swear rapid youth impulse loyal bridge profit aerobic fork police";
+var mnemonic = "brisk deal clinic chase piece hedgehog bleak accuse awful wood piece polar";

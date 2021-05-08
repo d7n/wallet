@@ -1,1 +1,1 @@
-var mnemonic = "media color rice direct prosper equip surprise enjoy coin capital mansion post";
+var mnemonic = "bunker gold faint opera champion sadness welcome inquiry enemy salt bonus demise";

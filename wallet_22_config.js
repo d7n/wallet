@@ -1,1 +1,1 @@
-var mnemonic = "expand thunder life piece order phone fortune finger innocent street wine crumble";
+var mnemonic = "arrive history rare share stone debris radio elegant open also lazy release";

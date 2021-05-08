@@ -1,1 +1,1 @@
-var mnemonic = "when coconut immune weapon indicate during sunny method pass decrease cushion depart";
+var mnemonic = "offer pottery disease surround rough hotel flock veteran flame screen page wool";

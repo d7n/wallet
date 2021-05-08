@@ -1,1 +1,1 @@
-var mnemonic = "cream mobile exit kid around half deputy library extend credit machine cage";
+var mnemonic = "rely possible pen there human coil decrease oil reveal april runway layer";

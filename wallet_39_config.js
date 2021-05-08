@@ -1,1 +1,1 @@
-var mnemonic = "primary harbor hip sand state spike leopard people napkin hybrid panda obvious";
+var mnemonic = "casual allow puppy march woman raw pyramid good humble where fat eyebrow";
