@@ -1,1 +1,1 @@
-var mnemonic = "critic pudding shop quantum ski write nasty base suffer ten excess media";
+var mnemonic = "wave stuff mean donor motion wall thank style danger lemon gas illness";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot design about adjust town lunch health drastic organ before visa harbor";
+var mnemonic = "business spike involve patient pudding develop leisure foam flee key travel duck";

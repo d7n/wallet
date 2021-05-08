@@ -1,1 +1,1 @@
-var mnemonic = "razor weather sing purse south strong modify infant attend inform praise celery";
+var mnemonic = "shallow coral dentist mother provide audit pipe rubber tip shoot age merit";

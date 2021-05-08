@@ -1,1 +1,1 @@
-var mnemonic = "vanish rival filter october horn purity oven sight model amateur coffee uniform";
+var mnemonic = "tomato garlic scare absurd salon flip bag funny state belt early actor";

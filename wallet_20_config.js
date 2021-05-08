@@ -1,1 +1,1 @@
-var mnemonic = "mail staff grape loud nice behave fury arena auction uphold spice host";
+var mnemonic = "gospel expect card video junk express just observe hold sword depth confirm";

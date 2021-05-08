@@ -1,1 +1,1 @@
-var mnemonic = "under vital ankle broom love force pioneer pupil floor bike jealous actual";
+var mnemonic = "muffin once wink stadium range garden run swamp damage defense someone frozen";

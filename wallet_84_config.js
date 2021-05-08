@@ -1,1 +1,1 @@
-var mnemonic = "ocean stamp test boat thunder immune like sniff identify bus disorder glad";
+var mnemonic = "prosper mountain bunker cupboard slogan swift rule bulb rare area file item";

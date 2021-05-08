@@ -1,1 +1,1 @@
-var mnemonic = "direct able ski beach crucial sadness path pilot find eye post project";
+var mnemonic = "win term that casino chest urban portion shadow stadium broken soccer pill";

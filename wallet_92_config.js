@@ -1,1 +1,1 @@
-var mnemonic = "rebel above help grace mule art sorry coral child convince this join";
+var mnemonic = "minute manual scrap strike fold body useful deal put level raw elbow";

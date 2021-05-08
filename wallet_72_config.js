@@ -1,1 +1,1 @@
-var mnemonic = "axis decline panther unveil very need mutual alone fan also finish heart";
+var mnemonic = "energy cactus alter inject token tornado keen cube name orphan survey town";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure embody orphan sense ignore caution raw fitness awkward muffin void hawk";
+var mnemonic = "lady sign ocean verb twice hole unfold system address scrub day soda";

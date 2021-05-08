@@ -1,1 +1,1 @@
-var mnemonic = "define waste wolf video canvas review garage prepare clip lady top law";
+var mnemonic = "potato spike initial census mention step subway off rookie oyster leisure spend";

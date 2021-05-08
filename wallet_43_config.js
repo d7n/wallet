@@ -1,1 +1,1 @@
-var mnemonic = "badge suggest tonight switch stuff thrive color copy flock future vapor coyote";
+var mnemonic = "ginger myth switch laugh shed abuse camp patrol say often pyramid vapor";

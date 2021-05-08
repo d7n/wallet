@@ -1,1 +1,1 @@
-var mnemonic = "room lyrics allow urge bright bullet piece genre beach pepper reunion despair";
+var mnemonic = "subject canyon shallow income thrive edit blind century proof scrub issue width";

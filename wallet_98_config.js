@@ -1,1 +1,1 @@
-var mnemonic = "anger federal task right view poverty worry fox another example lift record";
+var mnemonic = "coffee arrow sound elite excite child vacuum couple jazz skirt much word";

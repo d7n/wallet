@@ -1,1 +1,1 @@
-var mnemonic = "glass network virus project mystery sense shrug online worth arrow reunion supreme";
+var mnemonic = "pipe kangaroo flush seed follow bamboo unable fire veteran demise alone course";

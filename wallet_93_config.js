@@ -1,1 +1,1 @@
-var mnemonic = "link beyond crumble tired assume typical route erupt online host verb regret";
+var mnemonic = "autumn mammal swarm gift project ranch advice income poverty push card behave";

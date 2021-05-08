@@ -1,1 +1,1 @@
-var mnemonic = "little tenant grain upper maple earth place scan radio aisle spend off";
+var mnemonic = "umbrella onion bean bitter draft horror belt country caught dutch hover own";

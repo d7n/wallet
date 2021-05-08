@@ -1,1 +1,1 @@
-var mnemonic = "rent identify switch over uniform horse elbow term rookie clinic awake ozone";
+var mnemonic = "sight student person into flower knock crane lion clown dry shoot display";

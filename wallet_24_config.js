@@ -1,1 +1,1 @@
-var mnemonic = "armed client place call canal vivid blue length dawn settle over just";
+var mnemonic = "arena assault salute stadium slush text equip mosquito admit afford car danger";

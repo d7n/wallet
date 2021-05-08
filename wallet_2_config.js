@@ -1,1 +1,1 @@
-var mnemonic = "omit hair person own merry among matter jelly vital govern require ketchup";
+var mnemonic = "fantasy arrive today dwarf amused vast honey reason dinosaur end alarm pumpkin";

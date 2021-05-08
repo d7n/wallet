@@ -1,1 +1,1 @@
-var mnemonic = "anger electric true motion unfold survey kit actor chapter during basket mercy";
+var mnemonic = "conduct vicious monster small tomorrow dust fork tooth ahead spider pistol expect";

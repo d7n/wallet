@@ -1,1 +1,1 @@
-var mnemonic = "drama tip wear first news entire tornado friend pet fortune avoid small";
+var mnemonic = "net lunch kick faculty summer canoe enforce mistake flip route food wheel";

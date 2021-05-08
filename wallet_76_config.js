@@ -1,1 +1,1 @@
-var mnemonic = "employ goose march oil credit velvet correct lemon chair clip thing indicate";
+var mnemonic = "brush badge isolate lesson link sort soon mule unit list fossil ladder";

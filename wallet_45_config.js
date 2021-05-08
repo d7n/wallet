@@ -1,1 +1,1 @@
-var mnemonic = "creek rent include tray arrest siege father include below better potato bus";
+var mnemonic = "faint stage noise valid small remind shine razor lake blur enroll sunset";

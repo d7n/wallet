@@ -1,1 +1,1 @@
-var mnemonic = "copy there labor coral size caught palm guide split breeze staff proof";
+var mnemonic = "tray movie aerobic youth poverty door dove tomorrow dizzy craft swing wall";

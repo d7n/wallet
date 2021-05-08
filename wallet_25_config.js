@@ -1,1 +1,1 @@
-var mnemonic = "scrub clinic funny moral chalk analyst wage ribbon margin gown acoustic question";
+var mnemonic = "crash quit detail toilet mail enrich bullet catalog skate duck dawn devote";

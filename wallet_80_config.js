@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin future property certain maximum portion clay wreck dizzy marble leisure bone";
+var mnemonic = "spend paper delay chaos equal dolphin mandate bamboo bench initial property unusual";

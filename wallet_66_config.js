@@ -1,1 +1,1 @@
-var mnemonic = "regret creek outer setup glory shove summer feature myth solid swift opera";
+var mnemonic = "turn real circle muscle fiction practice day naive struggle tool harbor stamp";

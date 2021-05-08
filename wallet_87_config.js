@@ -1,1 +1,1 @@
-var mnemonic = "entry tumble glue vicious any light cargo worth uniform aim history deposit";
+var mnemonic = "echo vanish gap crush junior deer sword wet deposit scrub zebra dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer kite ugly planet original false draw armed edit pulp shiver salute";
+var mnemonic = "tool advance egg loan lyrics before vote hint pull daughter possible useless";

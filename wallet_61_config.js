@@ -1,1 +1,1 @@
-var mnemonic = "nose view enforce mass blush badge ridge ostrich genuine select end ball";
+var mnemonic = "engine chunk wolf duty top follow scrap scheme quote twenty crazy level";

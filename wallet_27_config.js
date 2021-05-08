@@ -1,1 +1,1 @@
-var mnemonic = "wave inmate cancel upset chat reason version idea loan dawn meat genius";
+var mnemonic = "ghost keen antenna try believe jump cheese resist shiver ethics tongue stool";

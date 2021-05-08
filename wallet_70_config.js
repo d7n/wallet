@@ -1,1 +1,1 @@
-var mnemonic = "true dumb diagram width uncle chronic garbage switch illegal gain child silly";
+var mnemonic = "lottery there scheme egg pill kidney hamster maximum harsh tongue shadow fatigue";

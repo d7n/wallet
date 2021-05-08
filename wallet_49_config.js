@@ -1,1 +1,1 @@
-var mnemonic = "busy illegal tomato seek bargain market grab grain spawn timber door cloud";
+var mnemonic = "wish oppose timber fortune mystery argue favorite wealth rhythm kangaroo until hundred";

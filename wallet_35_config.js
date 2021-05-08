@@ -1,1 +1,1 @@
-var mnemonic = "age brown replace host save circle device easily minor bird novel old";
+var mnemonic = "flame else visual faculty dilemma attack copy dignity sniff ordinary shock liar";

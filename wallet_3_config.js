@@ -1,1 +1,1 @@
-var mnemonic = "lion rotate festival spare list basket diet life pave advance wage mercy";
+var mnemonic = "inherit indicate opera honey labor employ window muffin fashion surround accident culture";

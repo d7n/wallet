@@ -1,1 +1,1 @@
-var mnemonic = "become silver draw boat way drill sentence pole any essence quick sword";
+var mnemonic = "ridge vital loud harbor town useful team draw mention manage little inform";

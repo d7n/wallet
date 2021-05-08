@@ -1,1 +1,1 @@
-var mnemonic = "globe tenant iron theme title broccoli pumpkin swim clock absorb fancy release";
+var mnemonic = "album mobile blush film cherry senior easy tooth clever column bronze scout";

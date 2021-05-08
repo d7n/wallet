@@ -1,1 +1,1 @@
-var mnemonic = "else wreck lizard quality flash walnut enroll ladder slow quality state canoe";
+var mnemonic = "cloth sell patch differ vague razor double quick bulb dance until lake";

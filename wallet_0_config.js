@@ -1,1 +1,1 @@
-var mnemonic = "lava hill detail such visual play region shift pool theme girl group";
+var mnemonic = "club around stairs history arctic garage shift claim reflect game merge coach";

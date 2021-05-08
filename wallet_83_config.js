@@ -1,1 +1,1 @@
-var mnemonic = "protect rib inside tuition cradle moral syrup coast edit subject yellow gas";
+var mnemonic = "forest trash junk galaxy allow leopard island decorate glory goat struggle solid";

@@ -1,1 +1,1 @@
-var mnemonic = "pave surface virtual often diagram wide grocery muffin always ridge panda bid";
+var mnemonic = "coin vanish crazy check select beyond gossip merge sail fiscal dismiss response";

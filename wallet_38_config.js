@@ -1,1 +1,1 @@
-var mnemonic = "predict cat tobacco chicken black then diary prison scene favorite current certain";
+var mnemonic = "sphere gossip wisdom become wage grunt swing scatter exhaust better hospital chat";

@@ -1,1 +1,1 @@
-var mnemonic = "other brass luggage oven differ punch sting reason paddle attract egg meat";
+var mnemonic = "attend nasty drill explain hammer cute choose thrive twenty mule candy van";

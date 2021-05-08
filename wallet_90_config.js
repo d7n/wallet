@@ -1,1 +1,1 @@
-var mnemonic = "sheriff satisfy keen student gas artwork win put artist subway govern field";
+var mnemonic = "economy grid total duck erupt poverty mixed twist volcano deal plug sniff";

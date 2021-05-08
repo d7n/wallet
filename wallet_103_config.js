@@ -1,1 +1,1 @@
-var mnemonic = "scatter upgrade horse faculty similar sock unfold palm clutch acoustic equip put";
+var mnemonic = "alarm require illegal mesh fever quit eagle banana february great spend walnut";

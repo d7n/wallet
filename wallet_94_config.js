@@ -1,1 +1,1 @@
-var mnemonic = "reject now connect depart else minute magic suit flee guide assault truly";
+var mnemonic = "agent general wrestle alley light position virtual two call orbit cousin suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "among shallow win inmate barrel write sell moral smooth gallery index bridge";
+var mnemonic = "canal piano pledge pioneer trend girl museum exclude merge caution monitor unfold";

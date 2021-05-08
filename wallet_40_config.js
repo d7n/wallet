@@ -1,1 +1,1 @@
-var mnemonic = "where prize become gather write lion almost foot habit forget want guide";
+var mnemonic = "topic flat virtual spike draw frame behave hazard imitate saddle attitude good";

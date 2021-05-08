@@ -1,1 +1,1 @@
-var mnemonic = "pluck hire rose ivory tone payment pair label benefit yard cabin clay";
+var mnemonic = "gas wrap ribbon damp stove author region concert couple file devote east";

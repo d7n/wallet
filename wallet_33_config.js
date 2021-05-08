@@ -1,1 +1,1 @@
-var mnemonic = "truly palace hybrid cool asset basic simple beach word tool mom stem";
+var mnemonic = "desk lizard lawn oil ship afraid tower travel hawk airport tower crane";

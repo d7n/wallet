@@ -1,1 +1,1 @@
-var mnemonic = "favorite dog install medal foster crush stool breeze price seed trouble elite";
+var mnemonic = "carry flat need illegal taxi fit right catch elder alter live cave";

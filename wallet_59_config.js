@@ -1,1 +1,1 @@
-var mnemonic = "enough capital toward enrich advance nice nation envelope find tray inquiry leopard";
+var mnemonic = "alert deposit tornado diet scare athlete hawk cancel clean mail month found";

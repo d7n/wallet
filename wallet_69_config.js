@@ -1,1 +1,1 @@
-var mnemonic = "purse guitar boss napkin edit night approve sauce farm odor onion voice";
+var mnemonic = "merry tenant dream dinner topple speed comic ordinary grid alone true oven";

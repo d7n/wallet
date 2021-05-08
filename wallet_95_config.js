@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo month speak dinosaur behave fire bamboo one zero such cinnamon kidney";
+var mnemonic = "panda moral viable baby pupil enhance similar venture visa eye able stone";

@@ -1,1 +1,1 @@
-var mnemonic = "brand hill history focus joke lunar position uniform step recall bless soccer";
+var mnemonic = "ivory resemble will give notice title milk age bike keen glare inner";

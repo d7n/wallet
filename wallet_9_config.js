@@ -1,1 +1,1 @@
-var mnemonic = "frame slender lunar wet cart barrel angry because student faculty dune price";
+var mnemonic = "napkin jeans light plunge cabin garbage census reject sword charge animal false";

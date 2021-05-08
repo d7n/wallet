@@ -1,1 +1,1 @@
-var mnemonic = "average draw grow filter meadow come false welcome moral start purity explain";
+var mnemonic = "jungle hawk photo lemon tortoise burger fence mixed clip bottom rail error";

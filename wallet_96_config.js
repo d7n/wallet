@@ -1,1 +1,1 @@
-var mnemonic = "change neck injury fun enroll oven taxi concert erupt scene cross illegal";
+var mnemonic = "page task mango drop swarm oyster hidden output tomorrow peanut leisure script";

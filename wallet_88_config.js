@@ -1,1 +1,1 @@
-var mnemonic = "unlock seek link slight negative choice bargain time push february piece cargo";
+var mnemonic = "clap actress nut crew define harvest small original fashion camp satoshi rookie";

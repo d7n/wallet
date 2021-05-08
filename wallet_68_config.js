@@ -1,1 +1,1 @@
-var mnemonic = "jealous design motor twist increase obscure dish duty stadium grunt town move";
+var mnemonic = "twelve embody juice oyster acquire caught exhaust garlic song again cushion damp";

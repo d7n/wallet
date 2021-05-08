@@ -1,1 +1,1 @@
-var mnemonic = "price clarify moral talent section legend diagram use apple second frozen blade";
+var mnemonic = "potato rapid light upset palm journey broccoli paper leg problem blue hockey";

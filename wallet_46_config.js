@@ -1,1 +1,1 @@
-var mnemonic = "document until truck extend school hungry subway planet company green dutch useful";
+var mnemonic = "hand dinner primary baby mimic scale dance mushroom undo visa wheat silent";

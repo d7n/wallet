@@ -1,1 +1,1 @@
-var mnemonic = "dry urge pottery stock usual episode catch shop trend pair collect orient";
+var mnemonic = "laundry fantasy clay price clay satisfy limb better autumn dish street gap";

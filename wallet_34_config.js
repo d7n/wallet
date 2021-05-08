@@ -1,1 +1,1 @@
-var mnemonic = "pistol kite unaware verify knife scorpion approve swear climb involve web sunny";
+var mnemonic = "myth young search sister birth boy wrestle behind two galaxy human nose";

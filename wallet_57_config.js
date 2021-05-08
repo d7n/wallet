@@ -1,1 +1,1 @@
-var mnemonic = "weapon umbrella word impulse mule open strategy nasty mesh spoil cycle excess";
+var mnemonic = "syrup discover crop cream juice crystal hub holiday middle crystal push cruise";

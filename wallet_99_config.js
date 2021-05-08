@@ -1,1 +1,1 @@
-var mnemonic = "virtual wheat before turn surface again cherry useful number ivory grocery ready";
+var mnemonic = "key canoe want assume essay snow museum girl puzzle mixture gym lion";

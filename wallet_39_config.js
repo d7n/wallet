@@ -1,1 +1,1 @@
-var mnemonic = "please alarm spy woman spring task put town boring alarm cinnamon divide";
+var mnemonic = "possible protect defense tennis sure gallery domain attract dose image hood icon";

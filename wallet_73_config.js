@@ -1,1 +1,1 @@
-var mnemonic = "sight shoe like clock rose rally vicious drift solution naive latin slogan";
+var mnemonic = "raw cruise unfold knife muffin ramp trap couple aim render asset when";

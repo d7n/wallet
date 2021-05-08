@@ -1,1 +1,1 @@
-var mnemonic = "risk road book quote three pelican spell harbor smile favorite umbrella stadium";
+var mnemonic = "degree echo virus fee roast idle slender start side wrap endless spice";

@@ -1,1 +1,1 @@
-var mnemonic = "program space mesh enable possible genius midnight maximum daring sound border similar";
+var mnemonic = "citizen fame mixture direct brief inch paddle arm sword hobby manage mercy";

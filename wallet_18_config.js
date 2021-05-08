@@ -1,1 +1,1 @@
-var mnemonic = "record special off kiwi seven glue cereal truly unfold maple country treat";
+var mnemonic = "wolf furnace magnet symptom matter horse mouse can machine video fly protect";

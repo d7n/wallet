@@ -1,1 +1,1 @@
-var mnemonic = "crack draw pluck air estate horse weird injury core pioneer kidney letter";
+var mnemonic = "apology mushroom umbrella oil bulb turn hobby soup cotton begin horn unveil";

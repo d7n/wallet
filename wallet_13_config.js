@@ -1,1 +1,1 @@
-var mnemonic = "fly unlock earn egg tail prepare retreat dizzy pool country bird hockey";
+var mnemonic = "law welcome junior anchor police height great patch embrace hidden ghost frost";

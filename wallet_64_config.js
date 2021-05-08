@@ -1,1 +1,1 @@
-var mnemonic = "fiber vivid gift crisp early kid amateur they crowd end syrup month";
+var mnemonic = "tattoo awful enable oven they clap fog slice apple victory sick object";

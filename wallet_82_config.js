@@ -1,1 +1,1 @@
-var mnemonic = "parrot cereal print volume club shed degree guard cheese test retire remain";
+var mnemonic = "remain edge build joke spare hurdle regular possible bunker feature ten maid";

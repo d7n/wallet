@@ -1,1 +1,1 @@
-var mnemonic = "boil food advice six slot slight gaze angle zone december give monitor";
+var mnemonic = "iron best lamp exclude person aerobic inflict mixed release globe lab inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "expire glove now below zebra jacket tuition rapid visa say grid brave";
+var mnemonic = "choose twist help write truly pill change symptom doll toy area path";

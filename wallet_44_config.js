@@ -1,1 +1,1 @@
-var mnemonic = "bone fragile firm load lawn cargo renew arrest thing gown tobacco certain";
+var mnemonic = "base monster traffic floor snake know evolve cattle trouble meadow mimic equip";

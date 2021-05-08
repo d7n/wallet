@@ -1,1 +1,1 @@
-var mnemonic = "split dismiss pelican trumpet twenty arrow verify slogan zoo visa text level";
+var mnemonic = "stool tool live giggle include grief phone decade dove capable chronic skull";

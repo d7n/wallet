@@ -1,1 +1,1 @@
-var mnemonic = "charge salt plate tourist gown visual fringe relief globe year pen liquid";
+var mnemonic = "grant cargo medal open fetch trick twin limb medal enough belt tuition";

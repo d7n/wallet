@@ -1,1 +1,1 @@
-var mnemonic = "equip main welcome idea day firm nuclear uniform session edit already artwork";
+var mnemonic = "twin educate second rocket example kangaroo olive claw welcome grass try energy";

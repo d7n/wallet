@@ -1,1 +1,1 @@
-var mnemonic = "arrow moral soup shift release gain path sing brand example bicycle bomb";
+var mnemonic = "maze settle local talent alley quick excite impact hill bleak trial tube";

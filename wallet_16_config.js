@@ -1,1 +1,1 @@
-var mnemonic = "clump bacon because achieve patrol much robot sort blind tomorrow farm dinner";
+var mnemonic = "recycle section wish erosion engage physical brave program else divert tape rose";

@@ -1,1 +1,1 @@
-var mnemonic = "attack ticket unveil viable awkward fetch weird joy call control segment spy";
+var mnemonic = "motor strategy question laptop cup merge remember ethics decrease odor select impulse";

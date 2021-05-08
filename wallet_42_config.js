@@ -1,1 +1,1 @@
-var mnemonic = "mansion monster together heart resist situate soul clutch follow erosion bird suspect";
+var mnemonic = "wire ranch opera bamboo boost tiny drip thumb gift unaware chaos soup";

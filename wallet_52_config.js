@@ -1,1 +1,1 @@
-var mnemonic = "fun office calm card purity must spawn achieve educate wealth organ dove";
+var mnemonic = "theory panda antenna crew diary alley alert brass tool ramp category urban";

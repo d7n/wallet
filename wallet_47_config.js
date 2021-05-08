@@ -1,1 +1,1 @@
-var mnemonic = "example wheat secret review tooth program hip swift village news crucial sad";
+var mnemonic = "deal ceiling prize axis height valve salt jump mercy saddle huge bread";

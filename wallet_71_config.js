@@ -1,1 +1,1 @@
-var mnemonic = "dish melody hockey evolve cement angle trash stadium recipe depth cute path";
+var mnemonic = "raise april stairs fresh family jelly cute inmate north pigeon burger myth";

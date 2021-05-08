@@ -1,1 +1,1 @@
-var mnemonic = "snack donate recipe actor battle column now junk rotate album catch inflict";
+var mnemonic = "document afford poet ignore bomb robust depart change devote real mango surprise";
