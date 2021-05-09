@@ -1,1 +1,1 @@
-var mnemonic = "universe brass source paddle soap clay danger prize flip side fish idea";
+var mnemonic = "bar senior collect glue guess edit message knife jaguar aware spoil sting";

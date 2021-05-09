@@ -1,1 +1,1 @@
-var mnemonic = "grain soup joke hover suggest detail wrap crucial hover bid language alpha";
+var mnemonic = "army tail column wheel end gun wonder warfare inform wisdom hip silent";

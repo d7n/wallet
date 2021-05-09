@@ -1,1 +1,1 @@
-var mnemonic = "runway matrix fuel city there faint picture agree gift noble neck very";
+var mnemonic = "master undo pledge develop slim alpha opera network make nature road spider";

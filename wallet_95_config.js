@@ -1,1 +1,1 @@
-var mnemonic = "fish canyon route merge wonder like poet tower digital wreck artist robust";
+var mnemonic = "notice west brave loan option today shock patient silly segment replace abuse";

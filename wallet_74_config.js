@@ -1,1 +1,1 @@
-var mnemonic = "blade cement category sword drill arrive travel act word latin coin buffalo";
+var mnemonic = "basket bronze hamster secret meadow culture whale about acquire wood limit bracket";

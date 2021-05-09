@@ -1,1 +1,1 @@
-var mnemonic = "initial kid sunny escape power once creek vibrant attack off toss remain";
+var mnemonic = "relief push float spider cherry bread erase alley open crew rubber option";

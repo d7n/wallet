@@ -1,1 +1,1 @@
-var mnemonic = "rough much emotion rabbit crush young lyrics february educate poem length hover";
+var mnemonic = "library educate trumpet fat disagree thought girl wonder reject goat box rookie";

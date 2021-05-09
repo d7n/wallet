@@ -1,1 +1,1 @@
-var mnemonic = "summer fitness dinner spirit flight payment axis setup riot purpose erase elder";
+var mnemonic = "fence divert runway strategy wedding sad page iron exclude ripple wish street";

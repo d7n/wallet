@@ -1,1 +1,1 @@
-var mnemonic = "mobile soap street betray buddy veteran ten keen wait chase index example";
+var mnemonic = "cheap viable off olympic final belt mirror amazing before produce camera drastic";

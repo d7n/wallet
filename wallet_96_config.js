@@ -1,1 +1,1 @@
-var mnemonic = "enact hard drama undo coffee update match neck keen grunt super blind";
+var mnemonic = "second civil garden october balance ill relief fall number myth vital lobster";

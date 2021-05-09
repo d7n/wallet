@@ -1,1 +1,1 @@
-var mnemonic = "robot deliver swear load indoor shoulder ginger green float dial sorry task";
+var mnemonic = "actress lumber canyon fence scout arm elite square defense okay dice essay";

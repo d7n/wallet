@@ -1,1 +1,1 @@
-var mnemonic = "barely payment beach you capable forest receive daughter hurry bone hazard marble";
+var mnemonic = "security glad recall time burden exercise kite sleep kite ostrich mask certain";

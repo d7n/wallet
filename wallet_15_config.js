@@ -1,1 +1,1 @@
-var mnemonic = "torch vacant wire paper lecture grunt prefer world shoot stereo relief airport";
+var mnemonic = "picnic matter alcohol cash repair artefact need approve busy flame want hidden";

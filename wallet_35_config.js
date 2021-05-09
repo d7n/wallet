@@ -1,1 +1,1 @@
-var mnemonic = "manual cup buzz brief chair typical input glue afraid quarter gym trip";
+var mnemonic = "cinnamon harbor sorry carry cruel luggage weapon key jungle coast frozen tattoo";

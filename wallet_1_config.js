@@ -1,1 +1,1 @@
-var mnemonic = "lens ankle leaf sudden join gas long faint liquid trust giggle glue";
+var mnemonic = "main infant toast unique lock decline ball shrug void make high person";

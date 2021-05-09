@@ -1,1 +1,1 @@
-var mnemonic = "excess pigeon finger stereo finger dynamic february series awful trigger twelve flat";
+var mnemonic = "leaf enjoy heavy lucky awkward toy toddler same brain vague walnut taste";

@@ -1,1 +1,1 @@
-var mnemonic = "farm bus degree enlist foster lion cliff stool cage cement marine door";
+var mnemonic = "rare virtual amazing age oppose buyer combine own know about member waste";

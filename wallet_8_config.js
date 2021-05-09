@@ -1,1 +1,1 @@
-var mnemonic = "extend donor calm delay upset gift finger chat help field gather hurry";
+var mnemonic = "judge travel foster garage smile crumble few ball mother wine diary nice";

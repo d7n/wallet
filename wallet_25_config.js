@@ -1,1 +1,1 @@
-var mnemonic = "bridge magnet divide bright comic purpose label height milk noble walnut mixed";
+var mnemonic = "economy curve oven search nice chalk dutch thing bleak ranch intact script";

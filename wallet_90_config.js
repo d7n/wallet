@@ -1,1 +1,1 @@
-var mnemonic = "goat unit conduct gallery runway absurd lab range engage law must pond";
+var mnemonic = "friend useless battle hospital scout high venue split idea sphere more light";

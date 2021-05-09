@@ -1,1 +1,1 @@
-var mnemonic = "panel crazy since critic noble identify liquid still foster track favorite fade";
+var mnemonic = "person spider pond siege amateur silver custom brass dream post eye run";

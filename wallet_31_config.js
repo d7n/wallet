@@ -1,1 +1,1 @@
-var mnemonic = "text fruit sketch oven hip body height ribbon inject voyage alone what";
+var mnemonic = "always math true lion rule final bargain view company mass seed doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "treat trap tower amused hair twelve top token warm because planet knock";
+var mnemonic = "order anger useless glass lamp mimic region public vague decade sponsor fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "okay skin tank world bridge toss cannon guess slender fringe chaos sniff";
+var mnemonic = "together layer organ once cupboard body length shallow series comic blast neutral";

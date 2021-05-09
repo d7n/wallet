@@ -1,1 +1,1 @@
-var mnemonic = "fancy gift critic lunar link believe boss permit thought budget route output";
+var mnemonic = "top junior dentist couple near soap goat ask barrel range real spot";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster snack window link example into damage gorilla curious season decade intact";
+var mnemonic = "maze genius predict allow surface drill rough fossil salt nation unveil echo";

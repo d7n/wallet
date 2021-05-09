@@ -1,1 +1,1 @@
-var mnemonic = "life medal arch memory alien engine acid jazz traffic impulse disorder retire";
+var mnemonic = "sadness custom few perfect between orchard opinion spoon feel lyrics supply lake";

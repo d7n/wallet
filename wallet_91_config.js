@@ -1,1 +1,1 @@
-var mnemonic = "flower wedding other whip rubber action ensure anger brush result glare apple";
+var mnemonic = "later burden sick alien march unhappy organ warrior music organ sketch ready";

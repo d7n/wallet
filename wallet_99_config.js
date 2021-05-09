@@ -1,1 +1,1 @@
-var mnemonic = "matter battle medal moon this glass cupboard rebel dilemma liar when town";
+var mnemonic = "inflict pretty session chimney sense build grace wise pottery owner oblige minimum";

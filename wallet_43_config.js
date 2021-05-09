@@ -1,1 +1,1 @@
-var mnemonic = "puzzle pistol pistol illness museum fox dish can phone civil happy that";
+var mnemonic = "resist review burden ozone width decade zone grow icon nature virtual crane";

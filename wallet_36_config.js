@@ -1,1 +1,1 @@
-var mnemonic = "settle damage lion reason leaf scissors mushroom undo list consider museum exchange";
+var mnemonic = "bring shrimp witness chronic trim congress potato vintage salmon actual increase where";

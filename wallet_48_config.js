@@ -1,1 +1,1 @@
-var mnemonic = "belt valid venue solution uncover evolve unhappy sentence brisk cereal weekend diary";
+var mnemonic = "swift silver monster grocery knife slide month daring bonus describe few sniff";

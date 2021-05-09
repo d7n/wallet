@@ -1,1 +1,1 @@
-var mnemonic = "zebra replace execute hill orchard narrow entire smoke ridge act play cave";
+var mnemonic = "budget spot home visual twelve worry zero run noodle venue pact act";

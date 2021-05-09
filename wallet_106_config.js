@@ -1,1 +1,1 @@
-var mnemonic = "initial cluster cram discover mind near game blast youth person shop robust";
+var mnemonic = "expose plastic chalk speed proof spice spice scene unknown anchor latin glimpse";

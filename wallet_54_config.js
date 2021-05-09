@@ -1,1 +1,1 @@
-var mnemonic = "soldier pond join kitchen damp flee vibrant million firm live call they";
+var mnemonic = "celery crouch profit glance panda pet report thank level chair police hockey";

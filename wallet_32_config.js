@@ -1,1 +1,1 @@
-var mnemonic = "key another hedgehog amazing ignore scheme olive blossom depth bench never family";
+var mnemonic = "develop second smile tunnel pupil stereo speak possible air foot foster collect";

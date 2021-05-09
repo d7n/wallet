@@ -1,1 +1,1 @@
-var mnemonic = "flash screen width turtle film hero pig segment shy snack smoke pottery";
+var mnemonic = "magnet vapor harsh interest flame leg salmon income arch anchor electric worth";

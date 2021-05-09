@@ -1,1 +1,1 @@
-var mnemonic = "side judge huge antenna cake connect picnic seven forget puppy tattoo crumble";
+var mnemonic = "gown student sunny near expose sorry trick lamp legend dash tool ski";

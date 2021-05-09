@@ -1,1 +1,1 @@
-var mnemonic = "riot mean medal snap crunch cause piano punch cactus robust raw glide";
+var mnemonic = "talent humble forward recall prison team wait insane tumble jealous learn want";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder trick wonder another sun three clog doll put moment announce dutch";
+var mnemonic = "auto air clever gold again torch right since render reopen exhibit outer";

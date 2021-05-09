@@ -1,1 +1,1 @@
-var mnemonic = "phone parent ice steel august anxiety parrot chest view year solar online";
+var mnemonic = "vivid december jar arrow butter refuse vast wine acoustic harsh saddle paddle";

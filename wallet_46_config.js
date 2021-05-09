@@ -1,1 +1,1 @@
-var mnemonic = "stick endorse matter fog kitchen blame secret chapter brisk champion soft primary";
+var mnemonic = "casual salon worry salad fever donate beauty vivid marine egg direct convince";

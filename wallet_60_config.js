@@ -1,1 +1,1 @@
-var mnemonic = "lemon bench blossom neither taxi same couch slot bunker solution drip nest";
+var mnemonic = "cattle long rabbit pause recipe feature tone issue property agree wood tornado";

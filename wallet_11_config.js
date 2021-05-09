@@ -1,1 +1,1 @@
-var mnemonic = "text soap core hero vapor image pledge either answer margin dash mail";
+var mnemonic = "cycle force scene exile indicate crucial slight knife math pigeon hub card";

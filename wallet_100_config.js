@@ -1,1 +1,1 @@
-var mnemonic = "genre inherit next burden lift excuse benefit oil garment employ drink rich";
+var mnemonic = "come test surge eye lawn run escape energy file wedding paper math";

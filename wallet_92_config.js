@@ -1,1 +1,1 @@
-var mnemonic = "mad shine nuclear assume patient price festival model snack warrior copper recycle";
+var mnemonic = "armor iron still robust robot color become crop call ask review erase";

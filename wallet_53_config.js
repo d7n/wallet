@@ -1,1 +1,1 @@
-var mnemonic = "loan wink sight cradle senior gravity exile indicate reject survey remind logic";
+var mnemonic = "wave oblige expect veteran siren relax amount install approve lucky enable cradle";

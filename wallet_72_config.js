@@ -1,1 +1,1 @@
-var mnemonic = "crunch very paddle perfect kick quantum banner ridge height defense wood eight";
+var mnemonic = "twin chimney mutual crush crush attract silly mixture shoot sea stadium grocery";

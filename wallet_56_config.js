@@ -1,1 +1,1 @@
-var mnemonic = "crazy upgrade renew lab rotate sunset ten clean depend poet mammal hawk";
+var mnemonic = "harsh steak horse poverty demand tent museum enjoy plug lyrics board bike";

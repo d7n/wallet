@@ -1,1 +1,1 @@
-var mnemonic = "snake favorite nerve glide shield mix attack erase crush helmet sadness rib";
+var mnemonic = "confirm obvious suit robust payment brand identify whale wish inner used grass";

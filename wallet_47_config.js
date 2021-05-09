@@ -1,1 +1,1 @@
-var mnemonic = "vicious north exile divorce raven illness diesel flash process hurry control tag";
+var mnemonic = "rare machine figure canoe debris old oyster blanket casual creek gate egg";

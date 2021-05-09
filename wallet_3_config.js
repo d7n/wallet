@@ -1,1 +1,1 @@
-var mnemonic = "north cabin pony skin airport high garbage feed thought walk upper fluid";
+var mnemonic = "exercise unaware fruit squirrel puppy wrestle aunt cushion gold enemy fashion category";

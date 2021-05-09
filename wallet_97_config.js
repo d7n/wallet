@@ -1,1 +1,1 @@
-var mnemonic = "vivid arctic special egg total subway bar fine service thank arm crash";
+var mnemonic = "away crater list finish occur guilt inhale bomb element shaft saddle wear";

@@ -1,1 +1,1 @@
-var mnemonic = "finger profit pupil extend people sphere absent trick shallow laundry blood vocal";
+var mnemonic = "keen digital lamp airport primary ankle pond pudding cliff water whale say";

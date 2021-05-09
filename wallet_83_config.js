@@ -1,1 +1,1 @@
-var mnemonic = "clutch shrug corn dash frame donate baby obvious box width fish minor";
+var mnemonic = "noodle almost kind comic castle rabbit strike dutch joy confirm hover sleep";

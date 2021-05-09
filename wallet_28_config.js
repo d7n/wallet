@@ -1,1 +1,1 @@
-var mnemonic = "olympic symptom carry window caution lounge canyon because dolphin pave clerk lady";
+var mnemonic = "roast quiz alter pink region master useless afraid spare legend receive window";

@@ -1,1 +1,1 @@
-var mnemonic = "unable label usage rally bleak trouble valve chef lamp spy judge rabbit";
+var mnemonic = "repeat cluster decade wheel assault sweet kitchen beyond amateur cause marble need";

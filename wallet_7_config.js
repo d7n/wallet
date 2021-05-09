@@ -1,1 +1,1 @@
-var mnemonic = "upset ignore paper resource story blush spot cargo angle deal permit eyebrow";
+var mnemonic = "circle bike pencil depend hat tray claw nice crater assume duty rough";

@@ -1,1 +1,1 @@
-var mnemonic = "case addict high bronze health memory salt often avocado timber account comic";
+var mnemonic = "zoo parent fame caution smoke frame sister plunge original salon notice hard";

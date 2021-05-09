@@ -1,1 +1,1 @@
-var mnemonic = "mom tobacco gift crime false virus remain model carbon buddy basket kiwi";
+var mnemonic = "question bachelor error differ magnet antenna half supreme size scan kidney impulse";

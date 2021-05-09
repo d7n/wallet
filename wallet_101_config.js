@@ -1,1 +1,1 @@
-var mnemonic = "aisle teach liar share protect flock invest abuse twice embrace dumb grass";
+var mnemonic = "muffin own mixed ozone walnut toward wedding elite celery fluid swamp nice";

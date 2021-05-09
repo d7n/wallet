@@ -1,1 +1,1 @@
-var mnemonic = "office now blade panic scheme ivory slender scheme vanish huge danger alley";
+var mnemonic = "verb message return breeze control diagram bird matter nut useless coil sketch";

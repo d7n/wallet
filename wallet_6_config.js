@@ -1,1 +1,1 @@
-var mnemonic = "hurdle announce silly document coral near final same unable flee token congress";
+var mnemonic = "blame one gather erupt salmon extend rather harvest goat speed upper zero";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli twin blame finger bicycle tackle blur inside hip kitten gorilla eternal";
+var mnemonic = "reason nephew waste robot gaze penalty couple tenant lens riot waste engine";

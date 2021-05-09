@@ -1,1 +1,1 @@
-var mnemonic = "sustain long mobile bitter recipe million island patch vapor rather lucky case";
+var mnemonic = "narrow table loan crumble cargo curtain bone industry mule pistol erode between";

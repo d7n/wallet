@@ -1,1 +1,1 @@
-var mnemonic = "stone another disagree basket image oil hotel year photo lamp reform guitar";
+var mnemonic = "depart river glimpse female sibling fancy trend roast maze rebel have punch";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog impact able galaxy ready enter neck tobacco foot horror until antique";
+var mnemonic = "flat live wheat fish pottery rate round lazy state craft shallow easy";

@@ -1,1 +1,1 @@
-var mnemonic = "inch eight ship bunker below dwarf shield provide lend about bag page";
+var mnemonic = "giggle bubble hair pride disorder miracle seat hamster grape rebel sustain soul";

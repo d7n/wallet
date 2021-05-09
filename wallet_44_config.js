@@ -1,1 +1,1 @@
-var mnemonic = "top empower interest tent describe pelican you enjoy music middle virus dust";
+var mnemonic = "purse mistake mean sleep uncle ensure meat welcome remove ride cause acid";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge advice spot like ice move pluck salute river mobile angle that";
+var mnemonic = "wrong street eagle undo visit parent join firm infant meadow rich above";

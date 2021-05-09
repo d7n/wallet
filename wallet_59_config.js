@@ -1,1 +1,1 @@
-var mnemonic = "capital ivory exercise chicken network wolf extra sweet seminar chair box cash";
+var mnemonic = "now this fence reopen valve online useful inject scheme boss local arm";

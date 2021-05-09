@@ -1,1 +1,1 @@
-var mnemonic = "globe dry afraid stem castle genuine original over warfare local neither silver";
+var mnemonic = "sister acid multiply inform rigid picnic scout twist display broken display ribbon";

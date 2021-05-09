@@ -1,1 +1,1 @@
-var mnemonic = "leopard best swamp business omit auction strong welcome remember strategy snap alcohol";
+var mnemonic = "unknown autumn ice avocado season team tape twelve attract select depend soccer";

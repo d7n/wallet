@@ -1,1 +1,1 @@
-var mnemonic = "nest asset dress run cherry silk rely liquid there soldier couch flush";
+var mnemonic = "bitter town vessel hint return drive net utility panic shop jeans explain";

@@ -1,1 +1,1 @@
-var mnemonic = "task arrest betray wood stand use sport tag smart cheese warrior birth";
+var mnemonic = "sell spend between embody security suspect theory gloom review debate rack girl";

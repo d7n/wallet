@@ -1,1 +1,1 @@
-var mnemonic = "exchange affair praise category august random abandon silly today deny stone recall";
+var mnemonic = "gravity stove blanket wide gown pyramid bamboo table soul rapid north nuclear";

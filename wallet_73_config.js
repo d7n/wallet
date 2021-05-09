@@ -1,1 +1,1 @@
-var mnemonic = "wagon together theory liar mango pretty antique album window window bubble rubber";
+var mnemonic = "surprise love beef lion cupboard melt possible print feel outer grab clay";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer safe frame domain switch legend borrow squirrel electric virtual achieve awake";
+var mnemonic = "vessel melody frame lock question strategy century disagree exact select buyer hour";

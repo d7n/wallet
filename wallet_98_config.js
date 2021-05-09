@@ -1,1 +1,1 @@
-var mnemonic = "immense party ugly spot noise grain matrix giant mirror grid hood right";
+var mnemonic = "frost tunnel scare prevent ginger kiwi carbon left pottery punch behave ball";

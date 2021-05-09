@@ -1,1 +1,1 @@
-var mnemonic = "senior february together extra theory shiver cycle vibrant result ship solve coin";
+var mnemonic = "possible build network tape person sea whale tornado install stage minimum orchard";

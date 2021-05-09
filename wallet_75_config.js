@@ -1,1 +1,1 @@
-var mnemonic = "young later output tilt change robot sell they west drastic oxygen glow";
+var mnemonic = "tray next core exile lyrics kiss gown myself grass across neutral vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "diary tuition leopard prepare motor million brand carpet barrel skin ride scatter";
+var mnemonic = "please forget ahead business hold logic secret denial hotel fine amazing load";

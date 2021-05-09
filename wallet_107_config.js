@@ -1,1 +1,1 @@
-var mnemonic = "viable ancient foil high eager record concert praise add library lawn nuclear";
+var mnemonic = "fox foot actual carbon sketch image ceiling never place bronze letter course";

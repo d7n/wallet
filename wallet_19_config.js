@@ -1,1 +1,1 @@
-var mnemonic = "speak impact door garage black onion want escape aspect journey vocal opera";
+var mnemonic = "doll hope balcony camera capital adjust chuckle clerk veteran drift rotate boy";

@@ -1,1 +1,1 @@
-var mnemonic = "input win aware laptop major wear stock stereo family session speed vibrant";
+var mnemonic = "clay absent polar vendor direct gravity peasant advice tell timber broccoli advance";

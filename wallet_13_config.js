@@ -1,1 +1,1 @@
-var mnemonic = "twist census soul one guitar cigar lock resist split supreme guitar limit";
+var mnemonic = "faith gap hollow crazy atom struggle stone early lens biology work can";

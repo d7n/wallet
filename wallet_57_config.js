@@ -1,1 +1,1 @@
-var mnemonic = "cloud ten culture cheap sunset bulb twice finish ensure panther message wood";
+var mnemonic = "crop purchase letter visual buyer job busy enemy night leg party bitter";

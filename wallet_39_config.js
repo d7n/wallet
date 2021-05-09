@@ -1,1 +1,1 @@
-var mnemonic = "team loud pelican worth promote pluck verb pelican neutral animal meat region";
+var mnemonic = "edge hair success seek library dad deposit supply inform uncover message fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple eye tool reward hair degree infant arrange refuse fan insane joke";
+var mnemonic = "filter begin beach devote pizza income disagree suspect stone rain enter hope";

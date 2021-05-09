@@ -1,1 +1,1 @@
-var mnemonic = "tonight picture dune retreat glare wet learn normal crowd mixed sport asthma";
+var mnemonic = "fringe cake brass strong purpose right romance joy cross imitate length general";
