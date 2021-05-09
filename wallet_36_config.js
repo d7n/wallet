@@ -1,1 +1,1 @@
-var mnemonic = "tail idea energy inquiry spend cover wild faith cup camera project mystery";
+var mnemonic = "differ close soccer throw primary fine dismiss awesome inside oval faint brief";

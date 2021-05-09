@@ -1,1 +1,1 @@
-var mnemonic = "leave current decide lecture night strategy flock battle wage thumb donor humor";
+var mnemonic = "foil hurt fetch culture impulse riot essence various picnic twelve soap club";

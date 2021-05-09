@@ -1,1 +1,1 @@
-var mnemonic = "coyote weird wheel people artefact page jump rate monster add craft hand";
+var mnemonic = "flush because news detail mistake unique glide shoot various brass lesson rule";

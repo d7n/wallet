@@ -1,1 +1,1 @@
-var mnemonic = "admit proof club beef order cannon mechanic item thank pen flavor run";
+var mnemonic = "thing chuckle accident pulp fog double hollow across quarter laptop faculty skull";

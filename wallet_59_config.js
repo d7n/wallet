@@ -1,1 +1,1 @@
-var mnemonic = "become sound digital example wife elder traffic shift minimum nest neutral spatial";
+var mnemonic = "below fan tiger cupboard abuse math lawsuit fetch reward royal sword usage";

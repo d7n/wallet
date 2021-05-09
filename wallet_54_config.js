@@ -1,1 +1,1 @@
-var mnemonic = "rack sail author poverty solve spray street repair elevator bulb school casual";
+var mnemonic = "conduct shove flush blood remove voyage famous busy spawn lecture void civil";

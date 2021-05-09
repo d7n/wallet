@@ -1,1 +1,1 @@
-var mnemonic = "episode example milk session alley analyst follow nurse letter oil cup staff";
+var mnemonic = "power only there spring bike goat foster punch refuse such nest wedding";

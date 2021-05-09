@@ -1,1 +1,1 @@
-var mnemonic = "bonus vessel swim leaf pupil payment soft raw wide midnight patch thank";
+var mnemonic = "dynamic divide slide fancy novel umbrella humble boil obvious cloth clerk latin";

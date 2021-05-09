@@ -1,1 +1,1 @@
-var mnemonic = "program brick episode witness dilemma siege afford actress nation crawl banner sail";
+var mnemonic = "fruit old pottery december fine because humble bracket trouble industry know suggest";

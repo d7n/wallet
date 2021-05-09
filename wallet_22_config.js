@@ -1,1 +1,1 @@
-var mnemonic = "planet snap body trick puzzle health spell left yard super economy limit";
+var mnemonic = "because provide weekend cabbage crystal wreck easy idle cake kidney rookie scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur cigar sea iron code clip paper method depend mad hint essay";
+var mnemonic = "seminar mercy broken labor awake pull mass barely adjust unusual extra finish";

@@ -1,1 +1,1 @@
-var mnemonic = "end grunt wide blind diamond odor eight seven pupil raise pencil course";
+var mnemonic = "victory visa assist paddle payment thing strike uniform wild nose antenna boy";

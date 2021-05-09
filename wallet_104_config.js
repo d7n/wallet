@@ -1,1 +1,1 @@
-var mnemonic = "tuna quiz run whisper receive short year scene vacuum annual cage catalog";
+var mnemonic = "brisk insane lunch float dumb fitness label image similar card wife bleak";

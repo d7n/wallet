@@ -1,1 +1,1 @@
-var mnemonic = "extend gather gold advice box random shallow exotic bullet method torch cake";
+var mnemonic = "cloth brain unfair coil range safe high repeat food health abandon thunder";

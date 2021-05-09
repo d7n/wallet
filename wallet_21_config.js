@@ -1,1 +1,1 @@
-var mnemonic = "accident sport recipe dinosaur lobster square agent grow urge pole guitar wrist";
+var mnemonic = "eight casino oppose three pilot above lemon awful core report angle bird";

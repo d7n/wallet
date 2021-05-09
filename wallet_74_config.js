@@ -1,1 +1,1 @@
-var mnemonic = "resource search chase panel night start spawn length bronze token expose old";
+var mnemonic = "middle come minimum minimum draw cabbage fossil ride more student sample chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "alley orient clock rent width giraffe scare suggest boat mushroom forum nerve";
+var mnemonic = "merit slim muscle mule kid soldier error swift tornado chef vivid clay";

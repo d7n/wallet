@@ -1,1 +1,1 @@
-var mnemonic = "knife raise horror task kind evil nose birth wood muffin bid bring";
+var mnemonic = "gloom expand flush broom risk royal whisper swap climb emerge umbrella omit";

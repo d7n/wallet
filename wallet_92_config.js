@@ -1,1 +1,1 @@
-var mnemonic = "valley clerk want oxygen develop consider police noise swim clock fringe jar";
+var mnemonic = "over expand citizen essay toward snake apart annual board ancient plate surprise";

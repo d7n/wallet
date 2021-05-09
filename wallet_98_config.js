@@ -1,1 +1,1 @@
-var mnemonic = "ice tag detect phrase track steel survey olive effort false fantasy tongue";
+var mnemonic = "duck educate twenty across exercise movie strategy depend connect card appear van";

@@ -1,1 +1,1 @@
-var mnemonic = "father chef solid nest room much subway wine hundred gasp fine echo";
+var mnemonic = "winner share imitate flight aisle seed maple torch coach rigid recall mansion";

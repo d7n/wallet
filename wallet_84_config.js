@@ -1,1 +1,1 @@
-var mnemonic = "aware truth raise ribbon medal intact bulk join vessel nose decrease isolate";
+var mnemonic = "dilemma spirit juice dry nominee jump morning unit gauge swap property guard";

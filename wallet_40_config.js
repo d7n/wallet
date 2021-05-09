@@ -1,1 +1,1 @@
-var mnemonic = "eight stone across master source club abstract paper uncover pony six quote";
+var mnemonic = "inhale wine lens ball update minute marine jewel gorilla buyer drink couch";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday firm worth tissue police claim climb neither little below annual valve";
+var mnemonic = "coil female fiber cabin advice begin matter basic ignore elegant dismiss quick";

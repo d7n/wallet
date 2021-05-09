@@ -1,1 +1,1 @@
-var mnemonic = "unique banner still physical enter gadget biology squirrel manage double frost copy";
+var mnemonic = "morning region undo soda share assume enter medal opinion coast delay talent";

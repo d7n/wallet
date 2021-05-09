@@ -1,1 +1,1 @@
-var mnemonic = "small item sweet outdoor recall alarm legend yard crane key orphan token";
+var mnemonic = "trouble cause echo black drill differ slide artefact forward more glass never";

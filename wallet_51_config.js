@@ -1,1 +1,1 @@
-var mnemonic = "admit tiny impose bacon gloom switch tattoo stomach choice auction cheese one";
+var mnemonic = "physical afraid real proof witness caution tray cricket theory circle remember merry";

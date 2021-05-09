@@ -1,1 +1,1 @@
-var mnemonic = "wheat dice fuel today fatigue copper erupt impulse bus scene snake consider";
+var mnemonic = "winner extend joke hero wash midnight visual push enable rigid mass boost";

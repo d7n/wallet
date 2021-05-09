@@ -1,1 +1,1 @@
-var mnemonic = "leg ginger opinion suggest master abandon typical quantum shift march cement vote";
+var mnemonic = "whip blur sea exile network where original tiger share just width eternal";

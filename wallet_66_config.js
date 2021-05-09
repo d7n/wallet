@@ -1,1 +1,1 @@
-var mnemonic = "response child crisp then insane bag exhaust logic quantum accident nerve service";
+var mnemonic = "already begin pet multiply buddy over wish initial awkward wet good couch";

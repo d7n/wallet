@@ -1,1 +1,1 @@
-var mnemonic = "sun gaze appear hub keep anchor vocal coffee skill love season crunch";
+var mnemonic = "place ridge club comfort visit artist sphere opinion caution desk chunk leader";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold already floor twenty turtle solar assume income judge deny entire inject";
+var mnemonic = "leave dilemma glance oil unable race road vicious save try mail naive";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi tongue crash tuna merry stock flame medal aware visual oak model";
+var mnemonic = "sauce tackle require medal interest ship govern tape panic hero try inmate";

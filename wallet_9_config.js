@@ -1,1 +1,1 @@
-var mnemonic = "pepper solar slow shuffle gossip drama wasp stage denial follow sustain unaware";
+var mnemonic = "grid risk donor tumble service symbol dove primary thumb empower omit mutual";

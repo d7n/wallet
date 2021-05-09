@@ -1,1 +1,1 @@
-var mnemonic = "cave theory plastic rabbit camp news loyal they ghost right one join";
+var mnemonic = "laundry people spatial nose bullet popular faculty ridge ladder toward people auction";

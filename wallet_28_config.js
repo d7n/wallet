@@ -1,1 +1,1 @@
-var mnemonic = "execute voyage roof pull clean isolate object rally maid enforce welcome concert";
+var mnemonic = "armor brother deputy path together beef verb wing lamp flock flight visual";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist mountain boss sniff motor ginger point major mammal clerk rhythm charge";
+var mnemonic = "club churn pattern foot tattoo rely mule phone fetch off gun shine";

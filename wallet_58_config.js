@@ -1,1 +1,1 @@
-var mnemonic = "beauty assume choose exile reform culture suit harbor cover face choice blouse";
+var mnemonic = "panel spread lazy violin amateur deliver stay picnic brisk rain humble chaos";

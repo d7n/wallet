@@ -1,1 +1,1 @@
-var mnemonic = "match stage long valid addict accuse leisure adjust trade wedding enough into";
+var mnemonic = "step what song smoke dream develop sorry divorce resemble change rain invest";

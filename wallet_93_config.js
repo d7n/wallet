@@ -1,1 +1,1 @@
-var mnemonic = "scrap peace father bunker rival can expand jeans cry street repeat pencil";
+var mnemonic = "popular steak retire piano crush suspect gather jeans cycle index clinic blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "calm danger awkward error olympic carbon know anxiety media exist benefit asset";
+var mnemonic = "horse hybrid suit long age local digital damp improve audit opinion once";

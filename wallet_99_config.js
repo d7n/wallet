@@ -1,1 +1,1 @@
-var mnemonic = "chapter one comic fringe gold radio feature sleep shrimp anxiety holiday key";
+var mnemonic = "shadow faculty rose bounce magic stereo middle expire use shed mail dolphin";

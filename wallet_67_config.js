@@ -1,1 +1,1 @@
-var mnemonic = "alone shock hamster ice liberty velvet depth vehicle prevent stable post pigeon";
+var mnemonic = "erosion vendor endless exact family payment bridge party mad marine eager ritual";

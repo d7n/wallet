@@ -1,1 +1,1 @@
-var mnemonic = "radar purchase next oxygen opinion advice burger interest wolf fortune below elbow";
+var mnemonic = "rather journey access slight frame design can cute neck saddle various road";

@@ -1,1 +1,1 @@
-var mnemonic = "promote snap bread mass style rather foster raw feed main hollow success";
+var mnemonic = "title aerobic world need auto rather tooth glide deposit gym tribe repair";

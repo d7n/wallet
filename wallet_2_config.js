@@ -1,1 +1,1 @@
-var mnemonic = "sting snow stairs mesh detect youth gather siege glare celery initial leopard";
+var mnemonic = "fun choice over one oblige keep slender wire solve margin amount midnight";

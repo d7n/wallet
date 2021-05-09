@@ -1,1 +1,1 @@
-var mnemonic = "summer card grab tired memory biology ship mountain also roof expect price";
+var mnemonic = "stable october prosper benefit forum lawsuit hip hair time lawsuit hungry ghost";

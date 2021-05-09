@@ -1,1 +1,1 @@
-var mnemonic = "cash nature february clinic brass weekend dawn congress liquid junior boat nature";
+var mnemonic = "actress immune what detect maze dice anxiety sad legal weekend fortune dry";

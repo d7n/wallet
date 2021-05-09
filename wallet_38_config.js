@@ -1,1 +1,1 @@
-var mnemonic = "clip chunk arm wave country grow behave school idle tail cupboard museum";
+var mnemonic = "gun modify right rebuild more senior enact orient length afraid leg sponsor";

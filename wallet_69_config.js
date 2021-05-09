@@ -1,1 +1,1 @@
-var mnemonic = "outside actual borrow runway lock foot decorate shock room crush velvet wealth";
+var mnemonic = "option ill fun term danger insane furnace post govern field shop acoustic";

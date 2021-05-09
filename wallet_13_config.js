@@ -1,1 +1,1 @@
-var mnemonic = "wise foam client oxygen blur camera love almost fiscal amazing type banner";
+var mnemonic = "summer border abandon grunt slow poem industry biology glue outside bottom night";

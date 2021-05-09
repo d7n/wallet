@@ -1,1 +1,1 @@
-var mnemonic = "dove rhythm barely payment omit sunny shallow trophy magic damage lobster whisper";
+var mnemonic = "bone vessel evolve bracket tennis change round sun drip route inflict organ";

@@ -1,1 +1,1 @@
-var mnemonic = "host deal box regular custom surface merit neglect owner alcohol winter crane";
+var mnemonic = "response equal hammer pizza blind swing gold chimney nominee say draft suspect";

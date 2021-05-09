@@ -1,1 +1,1 @@
-var mnemonic = "quote answer strike pig wear host music mystery income venture noise resemble";
+var mnemonic = "life act guilt bomb special edge punch cake average decline inner brown";

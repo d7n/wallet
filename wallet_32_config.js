@@ -1,1 +1,1 @@
-var mnemonic = "payment wrist royal gaze neutral oyster rebuild pill inch fade vital essence";
+var mnemonic = "ocean owner pair orange innocent love kangaroo dog below magnet awkward burden";

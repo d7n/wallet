@@ -1,1 +1,1 @@
-var mnemonic = "uphold mango shield glide large alley garden spray soda lumber unfold shaft";
+var mnemonic = "library range brand fan smoke message conduct slot detail arena must sugar";

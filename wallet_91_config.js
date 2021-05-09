@@ -1,1 +1,1 @@
-var mnemonic = "add avoid odor obey flock punch word thumb neutral ring when wink";
+var mnemonic = "film very home razor flame diary detail weapon future cricket witness dune";

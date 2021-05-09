@@ -1,1 +1,1 @@
-var mnemonic = "soap police lake monitor reflect mountain ketchup this method canal prevent quantum";
+var mnemonic = "flavor lyrics tag grow area crash liar token occur mom symbol monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "remember rough myself brass chest climb drink keen melt keep dice alert";
+var mnemonic = "despair vivid escape tank whip bag found embody dash list struggle there";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel shed topic anger list place render mimic legal drip life ill";
+var mnemonic = "around insect village crumble attract erosion gorilla scare glue luggage couch fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare pupil mammal weapon enlist smart math tortoise razor mirror outside dirt";
+var mnemonic = "polar cash gauge finish weather apology glimpse case flame jump excuse version";

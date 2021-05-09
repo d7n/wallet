@@ -1,1 +1,1 @@
-var mnemonic = "unfold gospel churn popular afraid drip sting behind gorilla female trial cattle";
+var mnemonic = "scrub window trade fog pride jump forget never bounce lumber control usual";

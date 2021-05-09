@@ -1,1 +1,1 @@
-var mnemonic = "neglect initial perfect brown reduce tent escape ozone manage hamster scale aware";
+var mnemonic = "slab team quit exhaust first goat fitness reflect small camera gown broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "hard matter train yellow coil tent smart large verb delay mutual fit";
+var mnemonic = "elder company alpha panther jelly flash brother unhappy voice wedding fire robust";

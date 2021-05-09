@@ -1,1 +1,1 @@
-var mnemonic = "goat escape real damp avoid rain goddess suggest soda loud fossil write";
+var mnemonic = "luxury venture adult furnace follow square concert vintage silly elephant dizzy nasty";

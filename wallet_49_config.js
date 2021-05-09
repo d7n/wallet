@@ -1,1 +1,1 @@
-var mnemonic = "helmet buffalo face return nature truck trigger share glass comic auto company";
+var mnemonic = "protect also glad alcohol error zebra car vast error olive weird shadow";

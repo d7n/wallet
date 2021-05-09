@@ -1,1 +1,1 @@
-var mnemonic = "style sudden vague crush opinion script sport public patrol pottery crumble sheriff";
+var mnemonic = "away sweet link bike number female wreck reduce guide multiply frost cash";

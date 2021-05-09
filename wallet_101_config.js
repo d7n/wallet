@@ -1,1 +1,1 @@
-var mnemonic = "used afford craft matter ten now must smile evil just major depart";
+var mnemonic = "certain step era piece fantasy hybrid afford useless despair cradle dose agent";

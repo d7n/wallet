@@ -1,1 +1,1 @@
-var mnemonic = "hotel page notable alien dove humor dutch ceiling axis energy benefit volcano";
+var mnemonic = "keen meadow miss repeat direct attack fly fall shell mind neither cluster";

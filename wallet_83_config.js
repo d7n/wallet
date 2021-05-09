@@ -1,1 +1,1 @@
-var mnemonic = "glare replace mad tornado bubble wedding candy cross decide observe project match";
+var mnemonic = "tower tackle glare start rib harsh nut monster spend humble vanish success";

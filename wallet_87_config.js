@@ -1,1 +1,1 @@
-var mnemonic = "cream harsh divide afford day kitchen thought garage gorilla coral inquiry refuse";
+var mnemonic = "awful angle eternal remind border dry pulse forest faith machine mutual six";

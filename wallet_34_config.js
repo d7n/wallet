@@ -1,1 +1,1 @@
-var mnemonic = "exchange ghost vibrant add swap energy hurdle fortune off frozen history strategy";
+var mnemonic = "energy jaguar tail fly exile ginger rabbit admit drum orbit owner large";

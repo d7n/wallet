@@ -1,1 +1,1 @@
-var mnemonic = "base ginger spatial rain abstract scorpion easily sorry bridge idea life cement";
+var mnemonic = "daughter seek helmet change account diary spin genre segment rail valley search";

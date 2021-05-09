@@ -1,1 +1,1 @@
-var mnemonic = "just wasp world decorate unusual soda turn ripple owner coffee moment exhaust";
+var mnemonic = "sweet inflict gravity orbit word album enough company nation curtain news giggle";

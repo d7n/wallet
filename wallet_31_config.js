@@ -1,1 +1,1 @@
-var mnemonic = "bean romance bicycle flight fatal juice face trick garden nominee shallow express";
+var mnemonic = "arrest few forward away misery busy swift have outside fancy enact cave";

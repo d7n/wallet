@@ -1,1 +1,1 @@
-var mnemonic = "stairs cream renew forward obey remove field emotion about dinosaur cruel speak";
+var mnemonic = "usage endless potato kind goddess sugar strategy gun oblige there jaguar swear";

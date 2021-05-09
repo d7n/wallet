@@ -1,1 +1,1 @@
-var mnemonic = "initial dust select gap bag barely hub ladder fossil door penalty habit";
+var mnemonic = "castle prison curve left surface report narrow prosper discover forum weather strike";

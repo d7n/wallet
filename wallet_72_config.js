@@ -1,1 +1,1 @@
-var mnemonic = "casino imitate grocery deputy struggle during pizza paper gorilla mountain tone accuse";
+var mnemonic = "cry need satoshi caution dynamic emerge concert sea narrow win outdoor awkward";

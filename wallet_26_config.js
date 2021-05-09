@@ -1,1 +1,1 @@
-var mnemonic = "rather embrace valid present jacket almost fragile human later sugar trigger skill";
+var mnemonic = "disagree cupboard cousin emerge dwarf pizza amazing produce patrol danger heavy shoot";

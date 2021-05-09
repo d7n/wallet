@@ -1,1 +1,1 @@
-var mnemonic = "nasty sadness radio puzzle behave sort tomato humble help ordinary voyage space";
+var mnemonic = "transfer return horn cotton churn potato size winter slender update quote bench";

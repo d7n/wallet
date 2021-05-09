@@ -1,1 +1,1 @@
-var mnemonic = "casual mask together civil cable robust crawl firm stumble trumpet outdoor laptop";
+var mnemonic = "motion car lesson kingdom twin vast enough flat vague major brick resource";

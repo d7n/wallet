@@ -1,1 +1,1 @@
-var mnemonic = "endorse balcony luxury final feed gain awful stairs cart chaos lunar raven";
+var mnemonic = "witness melt treat endless gaze huge sick prosper later net flight wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "submit liberty wide dice circle popular habit sick pass snap lawn emerge";
+var mnemonic = "index kiwi increase rug visit model bar wire typical steak reward plunge";

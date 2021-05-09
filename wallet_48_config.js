@@ -1,1 +1,1 @@
-var mnemonic = "mixed offer speed tooth arrow salt payment spare plate window elephant medal";
+var mnemonic = "build have present symbol maid rose anchor observe soul client such script";

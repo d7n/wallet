@@ -1,1 +1,1 @@
-var mnemonic = "clean observe quiz soccer grit outside bitter now security box pistol pool";
+var mnemonic = "setup useful sight glance flower volcano impact sign wisdom flight position axis";

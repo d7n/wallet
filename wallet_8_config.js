@@ -1,1 +1,1 @@
-var mnemonic = "police winner carry cube explain husband celery outdoor cushion tumble punch sausage";
+var mnemonic = "winter mix mother canyon team stick soon thrive bounce surge lens erupt";

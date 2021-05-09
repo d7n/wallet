@@ -1,1 +1,1 @@
-var mnemonic = "caught end also wire estate fly volcano illegal nature oven swim web";
+var mnemonic = "adult duck funny into census present bulb please mechanic matrix material casual";

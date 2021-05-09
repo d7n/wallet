@@ -1,1 +1,1 @@
-var mnemonic = "equip slow fortune lock olive erase staff grit major useless arrow shuffle";
+var mnemonic = "cruise raccoon welcome people pole chuckle violin odor prison advance auto knock";

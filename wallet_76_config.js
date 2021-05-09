@@ -1,1 +1,1 @@
-var mnemonic = "robot tackle ordinary daughter moon sustain alcohol envelope skate list armor cream";
+var mnemonic = "mansion scare clutch flip trend staff uncover spice flavor spray divert slush";

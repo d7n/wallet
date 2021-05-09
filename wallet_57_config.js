@@ -1,1 +1,1 @@
-var mnemonic = "advice current mixed adapt travel there party forum forum body eyebrow moon";
+var mnemonic = "rifle error update ten federal brother drip today dress print elbow anxiety";
