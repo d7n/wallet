@@ -1,1 +1,1 @@
-var mnemonic = "foster surface butter resist purity waste insect orbit will fire attract alter";
+var mnemonic = "twist prize wrong surface lift flip okay tobacco rely prison enemy mail";

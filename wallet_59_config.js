@@ -1,1 +1,1 @@
-var mnemonic = "hand little they supreme question catch clap open wing clap cushion size";
+var mnemonic = "boat moon advice happy muscle velvet comfort half rescue luxury length filter";

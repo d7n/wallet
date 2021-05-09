@@ -1,1 +1,1 @@
-var mnemonic = "super connect glimpse barrel gym mechanic cream school follow keen fence rubber";
+var mnemonic = "rose among amateur width olympic annual stomach card trick gaze oak loyal";

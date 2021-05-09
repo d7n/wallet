@@ -1,1 +1,1 @@
-var mnemonic = "trim vapor edit only okay swim grape crater illegal brass electric focus";
+var mnemonic = "funny essay enter tragic loop clump baby type help coach myself cradle";

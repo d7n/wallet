@@ -1,1 +1,1 @@
-var mnemonic = "dismiss exotic rain trust math resist will barrel stuff cabin auction camera";
+var mnemonic = "stomach hunt female cinnamon assault measure delay push girl upgrade disease focus";

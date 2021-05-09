@@ -1,1 +1,1 @@
-var mnemonic = "else diesel snap rally mixed trigger shoe polar space deputy act spider";
+var mnemonic = "illness actor trumpet arrest kitchen cable elbow network behave end evoke equal";

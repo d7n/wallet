@@ -1,1 +1,1 @@
-var mnemonic = "cute rifle fish world prevent hood more success lazy torch chef time";
+var mnemonic = "multiply arena below enlist wasp loop solution student cloth deputy crawl leisure";

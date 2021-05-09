@@ -1,1 +1,1 @@
-var mnemonic = "salad emerge light balance cage ginger dream result giant clog then bubble";
+var mnemonic = "february tube execute fabric cave note gloom spray merry size morning inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "animal river sick husband soap output assume luggage leader physical coffee exact";
+var mnemonic = "tenant tenant resource coral scan ocean reflect vast help horse tenant market";

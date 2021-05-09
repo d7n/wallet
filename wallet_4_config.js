@@ -1,1 +1,1 @@
-var mnemonic = "unique wheat sort upper sure gallery retire shed frown neutral opinion time";
+var mnemonic = "slogan fluid devote amazing cousin tool true toward knife body glance blanket";

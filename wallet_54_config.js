@@ -1,1 +1,1 @@
-var mnemonic = "hockey truck axis track uncover poet pluck defense sign awesome region horn";
+var mnemonic = "fruit enrich slice vibrant vivid strike correct metal analyst paper recipe armor";

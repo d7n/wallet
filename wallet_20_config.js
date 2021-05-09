@@ -1,1 +1,1 @@
-var mnemonic = "thing knife often beach panther beef soldier certain educate dove slush cook";
+var mnemonic = "concert used exchange reunion basket joy jazz gold try climb adapt permit";

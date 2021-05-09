@@ -1,1 +1,1 @@
-var mnemonic = "finger rifle motor differ mixed list panic popular solar impose onion crisp";
+var mnemonic = "hello oyster cotton soccer lunch garage face burst pond say good total";

@@ -1,1 +1,1 @@
-var mnemonic = "merge sign patrol zebra echo zebra text provide aspect drama welcome increase";
+var mnemonic = "acid raw square category book six rival three enrich divorce marriage sample";

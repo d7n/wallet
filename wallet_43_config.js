@@ -1,1 +1,1 @@
-var mnemonic = "fish morning rain road explain hint edge strategy piano fantasy obey tide";
+var mnemonic = "cream table round husband south artwork hurt tonight cool joy square volcano";

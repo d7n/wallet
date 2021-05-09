@@ -1,1 +1,1 @@
-var mnemonic = "jungle loop level earn cute shallow divide foil balcony resource forget rifle";
+var mnemonic = "live wrap palm pulp win furnace siege thought zone tourist panel misery";

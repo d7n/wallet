@@ -1,1 +1,1 @@
-var mnemonic = "zoo mimic fragile trick more spider surge risk olive illness narrow panther";
+var mnemonic = "pyramid edit print canal art bracket fold off horn bicycle possible kite";

@@ -1,1 +1,1 @@
-var mnemonic = "alert able language radio tag baby artwork sheriff gesture welcome gallery number";
+var mnemonic = "clown differ country warfare virus matrix liberty catch toward fluid furnace evolve";

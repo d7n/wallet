@@ -1,1 +1,1 @@
-var mnemonic = "jealous language animal custom appear purchase shoot theory swift disorder soon educate";
+var mnemonic = "hint manage upon lamp sword hundred seek return voyage lyrics cook ask";

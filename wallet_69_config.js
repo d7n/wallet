@@ -1,1 +1,1 @@
-var mnemonic = "script sock initial couple desert one garage burst copper goddess canvas fatal";
+var mnemonic = "warfare march never salon sugar lottery spot bar visa innocent pole setup";

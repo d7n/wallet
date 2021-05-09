@@ -1,1 +1,1 @@
-var mnemonic = "inmate social drill display slice mixed thing art harbor pact flush health";
+var mnemonic = "turkey picture inspire mom young shrimp flash sorry certain balcony parent parade";

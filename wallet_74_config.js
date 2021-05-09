@@ -1,1 +1,1 @@
-var mnemonic = "nature tattoo claim rib multiply rug come desert wisdom voyage slow enforce";
+var mnemonic = "slight change license client change industry exhibit female force desk marble task";

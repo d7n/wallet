@@ -1,1 +1,1 @@
-var mnemonic = "display behave laptop deliver mosquito beef filter slot way indoor license taste";
+var mnemonic = "nuclear truck unit charge verify slight grief hard guitar boy long simple";

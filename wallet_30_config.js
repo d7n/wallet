@@ -1,1 +1,1 @@
-var mnemonic = "wrist mushroom various butter clarify envelope virtual extend remove family hen warm";
+var mnemonic = "torch coyote social volume embrace oblige banner hawk exit medal brief oblige";

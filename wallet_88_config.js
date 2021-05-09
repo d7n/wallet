@@ -1,1 +1,1 @@
-var mnemonic = "idea pen violin reopen useful machine later cause scorpion nominee replace release";
+var mnemonic = "bone tooth lottery length kingdom impulse group hour chef catalog keen april";

@@ -1,1 +1,1 @@
-var mnemonic = "pass tenant inject episode private now panic game position zebra correct dose";
+var mnemonic = "keen spike bring gain junk easily loop arrest over arrange patient pottery";

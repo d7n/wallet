@@ -1,1 +1,1 @@
-var mnemonic = "flock pitch fringe resemble pigeon change they among risk moral across cave";
+var mnemonic = "steak kingdom scout tuna skin trick jewel century weasel token tomato tornado";

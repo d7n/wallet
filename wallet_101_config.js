@@ -1,1 +1,1 @@
-var mnemonic = "tube symptom addict lemon bargain mutual empower turtle right rebel input nerve";
+var mnemonic = "live same involve air earn screen scrub carpet fluid rely pretty margin";

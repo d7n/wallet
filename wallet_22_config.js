@@ -1,1 +1,1 @@
-var mnemonic = "pave south sorry fold practice acoustic dolphin olympic rescue remind blue goat";
+var mnemonic = "author tumble summer glance position flower document describe improve pupil skill tobacco";

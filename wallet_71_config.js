@@ -1,1 +1,1 @@
-var mnemonic = "hat grit hold slam hole sense stable park easy robot scheme thumb";
+var mnemonic = "diet traffic cake gas tomorrow outer celery street banana track hawk portion";

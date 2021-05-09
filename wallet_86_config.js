@@ -1,1 +1,1 @@
-var mnemonic = "reject stuff ramp type post adjust need arrow plate paddle tray deliver";
+var mnemonic = "increase gorilla sense phrase winner man school riot milk safe churn hidden";

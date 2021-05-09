@@ -1,1 +1,1 @@
-var mnemonic = "shuffle very steak kitchen violin laundry drop gym wonder weather crucial verb";
+var mnemonic = "dune educate local knee earth village trick fence media major have owner";

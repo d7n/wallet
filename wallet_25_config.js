@@ -1,1 +1,1 @@
-var mnemonic = "build novel useful spatial need affair special hat core brush eyebrow notable";
+var mnemonic = "strategy whip north gloom someone unfair chaos twenty depart bring crush island";

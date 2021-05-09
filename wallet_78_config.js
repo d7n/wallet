@@ -1,1 +1,1 @@
-var mnemonic = "work round win garden twice glory then evil grid elite prefer region";
+var mnemonic = "cruel maple ice fluid embrace jazz dog indicate lunch decide bridge guilt";

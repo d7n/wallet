@@ -1,1 +1,1 @@
-var mnemonic = "misery stumble dentist crane blind cream alone brief primary guess label jungle";
+var mnemonic = "december frown repeat mouse regular pledge orchard okay silk spirit squeeze tourist";

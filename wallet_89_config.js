@@ -1,1 +1,1 @@
-var mnemonic = "connect outdoor soft any movie stool axis eight delay luggage plunge judge";
+var mnemonic = "whisper elevator equal praise inhale vendor toilet rare lucky wet ranch amused";

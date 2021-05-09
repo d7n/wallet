@@ -1,1 +1,1 @@
-var mnemonic = "receive identify reflect kind swear evil fossil rabbit such safe moment february";
+var mnemonic = "reveal phone alcohol they consider together never width push trip kingdom sand";

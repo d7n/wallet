@@ -1,1 +1,1 @@
-var mnemonic = "prevent armor winter awake imitate sock current train hold genre street lunch";
+var mnemonic = "pigeon vivid fury item envelope parent expose margin hawk outside cable couch";

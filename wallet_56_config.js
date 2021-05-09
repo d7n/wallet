@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur boat rail section moment month lava mammal usual fish furnace surge";
+var mnemonic = "flash borrow desert wasp sell loan phrase expire segment story expire truly";

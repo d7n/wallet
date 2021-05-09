@@ -1,1 +1,1 @@
-var mnemonic = "pull garlic inform subway dumb venture resist skull annual ten loan hybrid";
+var mnemonic = "render jewel social above fog trim adult recall again gentle suspect mystery";

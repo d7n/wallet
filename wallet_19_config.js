@@ -1,1 +1,1 @@
-var mnemonic = "concert bonus purpose leisure wise between report deal boss zebra garment have";
+var mnemonic = "bring snack large couch ski calm odor range mutual ill domain mean";

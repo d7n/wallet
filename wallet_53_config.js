@@ -1,1 +1,1 @@
-var mnemonic = "earth symbol duty unusual language thunder panel act ripple dry comfort alley";
+var mnemonic = "seven little era raccoon response main text universe desk maximum text tomorrow";

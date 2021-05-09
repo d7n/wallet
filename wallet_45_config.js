@@ -1,1 +1,1 @@
-var mnemonic = "october group list method pigeon vote turkey call right join gain uncover";
+var mnemonic = "prefer prevent result alcohol physical scene author buddy cage ritual cluster appear";

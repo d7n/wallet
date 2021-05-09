@@ -1,1 +1,1 @@
-var mnemonic = "ocean final vital verify abandon start history frost thought party update element";
+var mnemonic = "allow demise coil current treat grid letter disease spike response explain will";

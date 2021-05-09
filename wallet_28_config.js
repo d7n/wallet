@@ -1,1 +1,1 @@
-var mnemonic = "never glove glass room notable fog bubble avocado dance flower lamp lecture";
+var mnemonic = "swallow hover unveil decide hurdle smart page bulb girl account coconut common";

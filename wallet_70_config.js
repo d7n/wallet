@@ -1,1 +1,1 @@
-var mnemonic = "twin evoke chief erase sniff exercise empower bright load glimpse item because";
+var mnemonic = "start glad federal hunt jungle awesome dune pioneer video monster dynamic above";

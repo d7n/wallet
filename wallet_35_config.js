@@ -1,1 +1,1 @@
-var mnemonic = "width amateur tuna lottery female all token forget update raccoon saddle turn";
+var mnemonic = "tourist plastic video forward silly decrease ship exact wild alley base access";

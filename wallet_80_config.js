@@ -1,1 +1,1 @@
-var mnemonic = "hub until lazy defense material bright spirit version topple spy legend shallow";
+var mnemonic = "exclude bid time earn tree announce young yard chicken budget copy wonder";

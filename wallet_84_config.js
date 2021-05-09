@@ -1,1 +1,1 @@
-var mnemonic = "craft dry annual machine wrong mutual dwarf measure initial uphold icon initial";
+var mnemonic = "list scrub couch story hover athlete clip news jeans inform analyst ramp";

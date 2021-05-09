@@ -1,1 +1,1 @@
-var mnemonic = "distance planet universe token beauty few tornado ice educate grid industry radar";
+var mnemonic = "wheat bless catch chalk clever glare minimum fever bleak choice spider worry";

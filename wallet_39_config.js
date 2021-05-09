@@ -1,1 +1,1 @@
-var mnemonic = "caught heart lamp time quarter message begin butter better robust scatter veteran";
+var mnemonic = "vacuum detail beach horse orange clarify ability item live human there edit";

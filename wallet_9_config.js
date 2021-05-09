@@ -1,1 +1,1 @@
-var mnemonic = "helmet wish luggage trim satoshi riot awake spot stick crew steel furnace";
+var mnemonic = "field gallery pond siege output upon crunch ask arena click roast dinosaur";

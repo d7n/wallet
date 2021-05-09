@@ -1,1 +1,1 @@
-var mnemonic = "leave glass cross unfair harbor churn engage rich inhale sail crater blind";
+var mnemonic = "hurdle cotton identify normal diamond meat cliff diamond rude nation boring vibrant";

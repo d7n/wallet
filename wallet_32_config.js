@@ -1,1 +1,1 @@
-var mnemonic = "valve sad borrow bargain crew lava announce treat rigid hire payment person";
+var mnemonic = "enough trigger volume index kingdom beach voice luxury north long oil enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse cat clump swap maid cry elbow current retreat silver runway tube";
+var mnemonic = "scorpion turkey proud butter monkey offer brisk faith bamboo response honey sword";

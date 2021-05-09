@@ -1,1 +1,1 @@
-var mnemonic = "option region sell drive ordinary curious cactus actor moral document coil process";
+var mnemonic = "number entry reopen kind hover joy twist sample aunt hawk soldier zone";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh april explain tape angry foil clown clever room injury raw ugly";
+var mnemonic = "scene spot unit stadium repeat theme gravity remember camera patient organ dish";

@@ -1,1 +1,1 @@
-var mnemonic = "defy vicious skate cherry forward boring tag retreat metal reject salon bunker";
+var mnemonic = "nose cake bronze yellow column wedding addict wealth asthma faculty umbrella lava";

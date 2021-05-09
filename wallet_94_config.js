@@ -1,1 +1,1 @@
-var mnemonic = "gain senior movie cushion payment clarify nut drum plastic item actress assault";
+var mnemonic = "work faith vibrant ice churn marble cycle shrimp card sketch coyote suit";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist gun predict once bundle choose lazy theme comic rebuild connect describe";
+var mnemonic = "subject crucial frost absent dizzy double gallery home broken hungry spread giant";

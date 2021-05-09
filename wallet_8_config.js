@@ -1,1 +1,1 @@
-var mnemonic = "gentle very axis stem erosion panel miracle learn scan fossil broccoli ocean";
+var mnemonic = "fork tonight intact apart lake about wise impulse celery kid lava goose";

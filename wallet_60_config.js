@@ -1,1 +1,1 @@
-var mnemonic = "extra control panther say napkin surge betray castle season today elite push";
+var mnemonic = "defense erode decide slogan laundry benefit engage alter budget school slice charge";

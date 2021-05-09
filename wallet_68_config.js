@@ -1,1 +1,1 @@
-var mnemonic = "practice fiscal render leader flower alcohol grape novel salon transfer slogan amused";
+var mnemonic = "afraid banana calm approve stay fun faculty punch tomato clean spray decorate";

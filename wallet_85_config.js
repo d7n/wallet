@@ -1,1 +1,1 @@
-var mnemonic = "joke cream magic target only write crater pen novel upset keen mention";
+var mnemonic = "collect desk fork juice engage infant outside motor mountain match air try";

@@ -1,1 +1,1 @@
-var mnemonic = "wool spoon danger culture valley bitter gadget brass this coil believe marble";
+var mnemonic = "fade crumble swap disagree govern seat purity december debate upon prize keep";

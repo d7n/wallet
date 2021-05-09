@@ -1,1 +1,1 @@
-var mnemonic = "catch vast climb van grit copy defy present jewel fever express step";
+var mnemonic = "child before ramp unique point digital crumble fit lava bomb measure culture";

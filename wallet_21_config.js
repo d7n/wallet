@@ -1,1 +1,1 @@
-var mnemonic = "duck disease car soda bundle same cloth jump flame pig allow service";
+var mnemonic = "bracket unhappy average top zoo sheriff glad okay lizard fashion zebra panther";

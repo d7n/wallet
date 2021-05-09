@@ -1,1 +1,1 @@
-var mnemonic = "cash resource run desert morning coffee copy sudden divorce share elite pupil";
+var mnemonic = "episode opera arrest eager inquiry doctor object pet hospital such cat used";

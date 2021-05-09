@@ -1,1 +1,1 @@
-var mnemonic = "thank cement ozone sibling argue health royal escape fruit chat depth damp";
+var mnemonic = "junior deliver then enemy else person gospel health stem vivid sight clock";

@@ -1,1 +1,1 @@
-var mnemonic = "festival glass grid aim knife juice boy fabric alter carry speed aisle";
+var mnemonic = "valley elite laundry just short april try around soccer together bless more";

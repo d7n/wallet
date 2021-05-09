@@ -1,1 +1,1 @@
-var mnemonic = "drive hedgehog snake burger city utility oppose broccoli stage treat mixture pond";
+var mnemonic = "ghost device step hammer betray matrix uncover estate cruel bargain notable monitor";

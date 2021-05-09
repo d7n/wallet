@@ -1,1 +1,1 @@
-var mnemonic = "usage frown thank ostrich violin soda vivid later income addict project finger";
+var mnemonic = "sting noodle primary blood lonely useless marriage embark snow desert fitness empower";

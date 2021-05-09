@@ -1,1 +1,1 @@
-var mnemonic = "stomach couch olive snake creek random emotion catalog senior key distance crack";
+var mnemonic = "hidden recycle impulse squirrel neglect shock ranch once oppose pipe orange mule";

@@ -1,1 +1,1 @@
-var mnemonic = "success bread repair leaf space gap cargo hospital dish reveal index fabric";
+var mnemonic = "undo beach retire cook foam original nasty involve erode salon blue flag";

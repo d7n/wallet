@@ -1,1 +1,1 @@
-var mnemonic = "unfair step gloom series invite skill join discover draft must time people";
+var mnemonic = "angry soft grit device illegal divide weapon fame rotate off depart path";

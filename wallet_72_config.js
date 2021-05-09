@@ -1,1 +1,1 @@
-var mnemonic = "monster buffalo major crouch crash talk adjust panic engage upset fancy face";
+var mnemonic = "adult satisfy tiger shadow crash brisk exhaust awake giraffe slot area thank";

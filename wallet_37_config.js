@@ -1,1 +1,1 @@
-var mnemonic = "gaze badge again edge few glass alone you metal swear human oven";
+var mnemonic = "judge decide sound bright organ toy sword snake genre excite west enforce";

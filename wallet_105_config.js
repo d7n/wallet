@@ -1,1 +1,1 @@
-var mnemonic = "mask job blue sick uncover solve filter blur crush flag old very";
+var mnemonic = "hood indicate erode struggle sadness profit rotate sell will symptom twelve eyebrow";

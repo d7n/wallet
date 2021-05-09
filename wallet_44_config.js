@@ -1,1 +1,1 @@
-var mnemonic = "good trumpet captain what foster keep cannon never universe child sister step";
+var mnemonic = "stay liquid rich kit garage lab robust giant pony laugh success inform";

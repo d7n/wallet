@@ -1,1 +1,1 @@
-var mnemonic = "narrow burden vast morning nerve defense twist conduct village divide trophy cool";
+var mnemonic = "hour bird seat slight inflict range acid appear front tattoo dance ugly";

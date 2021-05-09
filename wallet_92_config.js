@@ -1,1 +1,1 @@
-var mnemonic = "dizzy eye stairs rifle balance ski debris diagram soft left early toast";
+var mnemonic = "fragile bitter glimpse assist manual liberty loyal balcony pole employ guitar hour";

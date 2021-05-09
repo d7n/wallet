@@ -1,1 +1,1 @@
-var mnemonic = "shop provide indoor target like little dolphin power edge fan wife kit";
+var mnemonic = "sail diamond emotion cloth blade exile woman lift blood found that clean";

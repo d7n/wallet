@@ -1,1 +1,1 @@
-var mnemonic = "squirrel bulk similar cash food deputy upon razor market nominee doctor festival";
+var mnemonic = "mixed hurt trigger raw garbage grape kangaroo follow next disease anchor mention";

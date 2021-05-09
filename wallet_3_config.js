@@ -1,1 +1,1 @@
-var mnemonic = "bracket upset forest swim local series artist onion capable gather surface trash";
+var mnemonic = "sponsor audit genius sample art hollow medal erase foil drastic multiply frost";

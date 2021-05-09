@@ -1,1 +1,1 @@
-var mnemonic = "parrot vicious urge negative hill question impose moment cricket noble regret across";
+var mnemonic = "swarm film skill oven board mouse lemon tuna nurse misery parent guess";
