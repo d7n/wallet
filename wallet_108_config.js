@@ -1,1 +1,1 @@
-var mnemonic = "same romance melody issue unveil rule ring crew recycle two coconut reflect";
+var mnemonic = "border select lemon dizzy drink left clerk before pact buddy hammer blouse";

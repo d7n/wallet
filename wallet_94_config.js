@@ -1,1 +1,1 @@
-var mnemonic = "alpha bean peace coast ahead this hollow define frown cash dutch funny";
+var mnemonic = "lumber very elder grain dutch include tunnel brand rabbit crumble pair soup";

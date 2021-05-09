@@ -1,1 +1,1 @@
-var mnemonic = "swarm naive match obey seed beach crumble slab boring pottery require glass";
+var mnemonic = "crawl extra snake know dismiss nothing small glove hunt surround decide swim";

@@ -1,1 +1,1 @@
-var mnemonic = "leg inch evil speed fluid idle census robot wagon feel wheat fire";
+var mnemonic = "proof burden car black culture silly attend dismiss satisfy cliff price announce";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel ecology unhappy lawsuit next load marriage winner digital undo script train";
+var mnemonic = "dice palm occur range come sadness dragon track clay flat blast banner";

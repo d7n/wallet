@@ -1,1 +1,1 @@
-var mnemonic = "tool infant spare slice joke autumn charge weird next brush edge shield";
+var mnemonic = "pistol hazard suggest horn slide village robust remind cram nephew camera symptom";

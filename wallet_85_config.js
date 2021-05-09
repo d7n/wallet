@@ -1,1 +1,1 @@
-var mnemonic = "bachelor visual drill useless news debate craft fix include body lawn asthma";
+var mnemonic = "trial water simple state toast huge purse proud pen soft police easy";

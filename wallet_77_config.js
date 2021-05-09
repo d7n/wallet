@@ -1,1 +1,1 @@
-var mnemonic = "club vault advice rural range chunk mandate similar symbol draft cinnamon employ";
+var mnemonic = "ski glad aspect chicken year capital rather treat collect monitor display foster";

@@ -1,1 +1,1 @@
-var mnemonic = "easy mirror decorate team rely infant frozen plastic turtle peace social allow";
+var mnemonic = "hungry spike check road width bonus photo educate slender bullet cycle jar";

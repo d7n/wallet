@@ -1,1 +1,1 @@
-var mnemonic = "yard taxi purpose person wolf poet obtain prefer skin wage clog manage";
+var mnemonic = "ostrich brand next climb extend grape all desert armed best sick regret";

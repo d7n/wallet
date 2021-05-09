@@ -1,1 +1,1 @@
-var mnemonic = "media town maximum consider season spread comic same fitness verb bargain head";
+var mnemonic = "rubber arctic rabbit silver buddy simple blue cereal meat wrong confirm firm";

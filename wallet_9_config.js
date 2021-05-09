@@ -1,1 +1,1 @@
-var mnemonic = "insect appear indicate path goddess nose claw vendor razor option level ticket";
+var mnemonic = "fog aisle when diary month total hold stomach air slight question cloud";

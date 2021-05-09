@@ -1,1 +1,1 @@
-var mnemonic = "april bamboo icon antenna build dilemma enemy slice rhythm twist quantum file";
+var mnemonic = "boost shy lock skate air barely sugar render below color road lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "normal start wave vital tone undo border fetch final rain price beach";
+var mnemonic = "spoil source saddle click trash sing useful arena negative exercise provide receive";

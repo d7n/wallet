@@ -1,1 +1,1 @@
-var mnemonic = "foil call already deal stuff sing valid feed episode police sand innocent";
+var mnemonic = "dial clay spice fence reason filter syrup exercise loan disorder aisle order";

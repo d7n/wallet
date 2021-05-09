@@ -1,1 +1,1 @@
-var mnemonic = "jazz combine fame doll devote veteran lumber tone win panda spike unable";
+var mnemonic = "domain hard anxiety valley smart lawsuit gate drop like worth pond brand";

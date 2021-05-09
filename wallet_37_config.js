@@ -1,1 +1,1 @@
-var mnemonic = "crane punch wreck prize unique excess airport food rug water blouse page";
+var mnemonic = "stock electric devote business clerk sword village desert horn omit situate salon";

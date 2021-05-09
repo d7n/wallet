@@ -1,1 +1,1 @@
-var mnemonic = "clerk action scorpion chuckle recycle beyond banana simple category private gown course";
+var mnemonic = "flower income awkward survey client soup syrup candy organ manual rubber daughter";

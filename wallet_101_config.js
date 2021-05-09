@@ -1,1 +1,1 @@
-var mnemonic = "craft sweet notice priority slow stomach throw chase imitate mouse work club";
+var mnemonic = "holiday cigar domain timber leopard idea caution catch panic spy remove finger";

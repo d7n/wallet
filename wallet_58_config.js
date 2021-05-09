@@ -1,1 +1,1 @@
-var mnemonic = "camera submit injury awful guide various boring inside base jeans move canoe";
+var mnemonic = "tilt bracket worth account north collect tennis unit bench school tiger boss";

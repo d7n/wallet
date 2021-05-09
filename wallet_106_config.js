@@ -1,1 +1,1 @@
-var mnemonic = "neglect obey belt fruit civil shoot swallow kid blast video rebuild snack";
+var mnemonic = "clinic satoshi club kangaroo toilet sponsor rug menu flee there remove enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "donor proud cage knee mandate endorse daring donor humor coast main unusual";
+var mnemonic = "toddler copper chase champion suspect uncle human machine ancient beef meadow liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "defense accident loop east brief awesome lab age crisp salad despair skull";
+var mnemonic = "winter pull dinosaur rate tonight vacuum peasant custom adjust april inside enough";

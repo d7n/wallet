@@ -1,1 +1,1 @@
-var mnemonic = "valley jealous burden reopen host idle twelve spread zero sing pulse jungle";
+var mnemonic = "tissue fitness enemy gate circle post error item rich chest suspect sell";

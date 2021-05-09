@@ -1,1 +1,1 @@
-var mnemonic = "early attack leopard frozen enforce aunt large rigid open axis element meat";
+var mnemonic = "sister chuckle pear muscle program monitor ramp meat plastic ribbon fruit pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "illness cause canvas repair bacon address shrimp mutual abuse cousin wrist vibrant";
+var mnemonic = "nation input gesture achieve piece ordinary inner flower expect crisp render slogan";

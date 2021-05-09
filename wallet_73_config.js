@@ -1,1 +1,1 @@
-var mnemonic = "opera person venue eager swim timber addict sort claim scorpion glad nephew";
+var mnemonic = "arrive sense shoot ring woman scatter cave hat wrestle spirit trick tooth";

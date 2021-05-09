@@ -1,1 +1,1 @@
-var mnemonic = "asset wolf sibling cave afraid primary unit novel taste lens era exchange";
+var mnemonic = "prosper enough net rug negative match health ginger leisure faculty business sell";

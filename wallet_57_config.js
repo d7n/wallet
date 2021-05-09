@@ -1,1 +1,1 @@
-var mnemonic = "sketch apology vast vault upon bleak crouch walnut already estate bean wrist";
+var mnemonic = "rate tobacco firm there total giraffe shuffle bird immense hard present nuclear";

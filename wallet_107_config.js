@@ -1,1 +1,1 @@
-var mnemonic = "actor peasant upset great draft height brief fire noise day visa fever";
+var mnemonic = "swallow spray satoshi answer oblige lens grow artwork student foster protect awful";

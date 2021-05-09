@@ -1,1 +1,1 @@
-var mnemonic = "uphold wheat actress illness oxygen ride keen tuition benefit present also sweet";
+var mnemonic = "live symptom always guide become age more cave kangaroo burden cousin frozen";

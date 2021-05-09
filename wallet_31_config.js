@@ -1,1 +1,1 @@
-var mnemonic = "present ostrich twin brief warm negative scorpion teach glance tumble alpha cause";
+var mnemonic = "omit nation intact dad area place receive hint mask slice organ deer";

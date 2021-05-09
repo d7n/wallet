@@ -1,1 +1,1 @@
-var mnemonic = "service quarter marble inch melody major wish student ordinary gas armed busy";
+var mnemonic = "accuse stereo glance path control bundle trick transfer fruit typical engage outside";

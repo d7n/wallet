@@ -1,1 +1,1 @@
-var mnemonic = "employ eternal fresh heavy wait month wrong talk cattle beach scissors tonight";
+var mnemonic = "alarm brass sea best crystal luxury circle when across decade portion tilt";

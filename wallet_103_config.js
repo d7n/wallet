@@ -1,1 +1,1 @@
-var mnemonic = "prepare antique option slot promote wool system uncle only fabric anxiety young";
+var mnemonic = "ask model buzz blush unit vanish firm open tooth argue regret roof";

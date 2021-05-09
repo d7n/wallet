@@ -1,1 +1,1 @@
-var mnemonic = "dynamic favorite another ability assault size oxygen book fetch cake ten manual";
+var mnemonic = "flavor thank approve sea spell sense lawsuit wheat merry path cliff slim";

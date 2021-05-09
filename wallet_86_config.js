@@ -1,1 +1,1 @@
-var mnemonic = "car inmate mass balcony film chuckle solar shock flag symbol magnet coral";
+var mnemonic = "float crater cannon allow fancy boost divorce vendor rival relief danger carbon";

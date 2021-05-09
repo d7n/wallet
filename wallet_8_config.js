@@ -1,1 +1,1 @@
-var mnemonic = "man kingdom giggle dial mean process normal luxury profit youth manage nasty";
+var mnemonic = "reduce save sample tuition jealous float race escape produce escape collect glare";

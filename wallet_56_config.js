@@ -1,1 +1,1 @@
-var mnemonic = "degree shine tourist fat cook miracle season iron crowd clap lizard chapter";
+var mnemonic = "phone april name pyramid alter roast unlock episode foam ghost fashion other";

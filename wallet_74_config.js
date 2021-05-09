@@ -1,1 +1,1 @@
-var mnemonic = "notable movie immune solution front chicken dinosaur tank three nephew draft morning";
+var mnemonic = "version adapt wet reflect estate velvet girl weasel sure sting coconut echo";

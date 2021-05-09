@@ -1,1 +1,1 @@
-var mnemonic = "frequent strategy find smoke best lemon eagle fuel marble head chest dose";
+var mnemonic = "spread damage regret cannon ozone dove merge patrol verb enjoy faint issue";

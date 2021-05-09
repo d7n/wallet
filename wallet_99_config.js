@@ -1,1 +1,1 @@
-var mnemonic = "train orbit romance image cotton horse certain daughter tennis wear oak wheel";
+var mnemonic = "swallow jewel tumble vendor scorpion cheese usual danger trim window atom candy";

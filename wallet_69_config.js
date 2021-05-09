@@ -1,1 +1,1 @@
-var mnemonic = "sign service scan fantasy weather woman coral flag outside talent immense pilot";
+var mnemonic = "arm toast priority gaze blanket famous human figure palm furnace inhale dignity";

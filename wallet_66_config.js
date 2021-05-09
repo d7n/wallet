@@ -1,1 +1,1 @@
-var mnemonic = "guess work tomorrow canvas mean sadness link view elephant name fade antique";
+var mnemonic = "festival cattle flame conduct gospel ordinary much girl fox outside release horse";

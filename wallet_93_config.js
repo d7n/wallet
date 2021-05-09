@@ -1,1 +1,1 @@
-var mnemonic = "merge betray captain jewel hedgehog emerge window lawn brick lizard legal exclude";
+var mnemonic = "grant unfold fatal visit blush almost warfare night lens boat buzz street";

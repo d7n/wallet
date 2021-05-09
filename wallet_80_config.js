@@ -1,1 +1,1 @@
-var mnemonic = "aspect flag copy giraffe pelican patrol mom board various negative this gas";
+var mnemonic = "hybrid connect immune essence orient action arena measure again erase bridge reject";

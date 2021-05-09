@@ -1,1 +1,1 @@
-var mnemonic = "buzz inherit salad front flag busy grief random blur lucky cinnamon slow";
+var mnemonic = "grape scorpion aim detect curve truly man eye actor dose spy shell";

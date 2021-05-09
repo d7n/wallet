@@ -1,1 +1,1 @@
-var mnemonic = "tent wrestle decade defy use inflict dumb drink stay invest guide betray";
+var mnemonic = "alpha pluck fun snow race husband leave core balcony exotic large cement";

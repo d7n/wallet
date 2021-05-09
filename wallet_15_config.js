@@ -1,1 +1,1 @@
-var mnemonic = "loop tiny cancel city asthma system empty machine issue saddle wedding quote";
+var mnemonic = "first praise enter sibling object arena bridge pilot bulk note theory vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "obey brief voice other prize shoulder magic unable pupil funny miss dolphin";
+var mnemonic = "motor program sick slam major deer direct library better pupil insane nature";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist venture upper fever fork federal evil yard finger pear enforce middle";
+var mnemonic = "couch hurdle imitate squeeze airport search bus rookie course pitch purse garlic";

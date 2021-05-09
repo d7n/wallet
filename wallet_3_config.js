@@ -1,1 +1,1 @@
-var mnemonic = "trust taste balcony reward cotton suit salad session twin half blade best";
+var mnemonic = "dune vocal hen glove debate truck club silly cradle hawk jelly leaf";

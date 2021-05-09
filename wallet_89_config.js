@@ -1,1 +1,1 @@
-var mnemonic = "group position raw raccoon tone icon praise danger kitchen exhibit brick bike";
+var mnemonic = "decide ill exhibit gasp arrive kiwi width girl best since public stairs";

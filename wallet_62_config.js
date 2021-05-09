@@ -1,1 +1,1 @@
-var mnemonic = "device phone laptop first cluster forest glad credit define actor combine target";
+var mnemonic = "unfair canvas piano hammer suffer diagram grant tell input around thank random";

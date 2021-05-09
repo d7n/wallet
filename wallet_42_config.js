@@ -1,1 +1,1 @@
-var mnemonic = "crystal relief medal seminar hamster scorpion motor expire fine pattern unaware rescue";
+var mnemonic = "gain fiber giggle ensure plug oven blush tattoo cook filter fitness answer";

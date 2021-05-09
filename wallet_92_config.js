@@ -1,1 +1,1 @@
-var mnemonic = "jacket waste century unhappy quantum mix festival grocery correct business return clean";
+var mnemonic = "cruise voice ask casual view knock language vacuum spell window brain cherry";

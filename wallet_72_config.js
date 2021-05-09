@@ -1,1 +1,1 @@
-var mnemonic = "dose behave child tattoo salad upgrade siege crowd want expand case nut";
+var mnemonic = "broken soda meat sure frown reopen grass minimum estate prize delay town";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce material swallow thunder that final split matrix atom reveal normal rebuild";
+var mnemonic = "pudding split way despair crater idle orphan like lyrics draw below trouble";

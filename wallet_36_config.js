@@ -1,1 +1,1 @@
-var mnemonic = "arrest spoil carry frequent ginger orient bless rose twelve mail rain walnut";
+var mnemonic = "range friend normal excite build giraffe soul brisk silent poem drastic copy";

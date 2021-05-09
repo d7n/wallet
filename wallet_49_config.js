@@ -1,1 +1,1 @@
-var mnemonic = "update country twice uniform carbon parent appear cool kangaroo narrow rabbit seed";
+var mnemonic = "pudding diesel man notice eternal sign coin before pencil arctic soon plunge";

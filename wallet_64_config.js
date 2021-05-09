@@ -1,1 +1,1 @@
-var mnemonic = "setup project trophy audit orange oak rain maple outer usual upset chief";
+var mnemonic = "aspect observe turn syrup rule task above link scout spend foam scare";

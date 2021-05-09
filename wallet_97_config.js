@@ -1,1 +1,1 @@
-var mnemonic = "hurt century trash enable advance exist hundred combine grant sentence monitor evolve";
+var mnemonic = "thing awake best wet online giant abstract charge indoor upset idle snack";

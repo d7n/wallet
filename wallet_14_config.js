@@ -1,1 +1,1 @@
-var mnemonic = "apart subway desert taxi pipe draw edit normal client brass illegal pond";
+var mnemonic = "genius dolphin aspect describe federal list phrase tennis sea hover exhibit trouble";

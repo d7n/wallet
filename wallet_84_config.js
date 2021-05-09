@@ -1,1 +1,1 @@
-var mnemonic = "supply ivory above attract divorce tank kid slush empower dutch upon arm";
+var mnemonic = "biology borrow garage primary eagle update exhibit broccoli desert sibling benefit note";

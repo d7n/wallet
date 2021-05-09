@@ -1,1 +1,1 @@
-var mnemonic = "hover dignity fiber acid snake mean author fat analyst diamond jewel barely";
+var mnemonic = "cage retreat across decorate scan noble scan vibrant march tourist cheap scrub";

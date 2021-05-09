@@ -1,1 +1,1 @@
-var mnemonic = "chalk canyon result cube recipe field oval betray goddess need finish hello";
+var mnemonic = "electric giraffe tower draw tackle mountain title dragon festival opinion best beyond";

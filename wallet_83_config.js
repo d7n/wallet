@@ -1,1 +1,1 @@
-var mnemonic = "picnic fade cause hand hedgehog large uncover toss stairs answer borrow topic";
+var mnemonic = "bid peanut soccer between attitude any alpha skate absorb faith know clean";

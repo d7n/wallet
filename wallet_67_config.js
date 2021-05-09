@@ -1,1 +1,1 @@
-var mnemonic = "picnic crunch turtle poet apart struggle camera magnet music arrange almost square";
+var mnemonic = "drastic permit advance slot wasp pink front cake ability polar lazy nothing";

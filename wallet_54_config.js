@@ -1,1 +1,1 @@
-var mnemonic = "cube amazing vacuum confirm brave human swim plastic miracle click lady special";
+var mnemonic = "frozen goose various cruel bullet carbon hurt deer chase immense hub gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty adult upon end stone repeat robot pull exercise web tent ahead";
+var mnemonic = "fan inmate rookie vocal warm record eight swamp smoke merry forget range";

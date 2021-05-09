@@ -1,1 +1,1 @@
-var mnemonic = "egg surge patch armed neglect claw once swift process tackle crew resist";
+var mnemonic = "curve bomb multiply fox vote lion bicycle dish proof master antique hurry";

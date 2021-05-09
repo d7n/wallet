@@ -1,1 +1,1 @@
-var mnemonic = "forward muffin dash milk sad law sea spread online dentist achieve riot";
+var mnemonic = "royal gauge raccoon away shiver together oven bamboo same syrup spy job";

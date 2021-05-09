@@ -1,1 +1,1 @@
-var mnemonic = "comic develop motor rookie strong demise fancy term caution chat segment electric";
+var mnemonic = "traffic meadow nominee adjust parent final coil outdoor scheme leave vintage advance";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil mix jacket salute medal sing jelly biology heavy foot trial fire";
+var mnemonic = "venture radar ball elephant jazz govern switch kind assault high give source";

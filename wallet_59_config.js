@@ -1,1 +1,1 @@
-var mnemonic = "foil wife cross modify fork prison certain opera sense quit truly attract";
+var mnemonic = "boat truck error kitchen ghost shaft before add leisure dutch beach whisper";

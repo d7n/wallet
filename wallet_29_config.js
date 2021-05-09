@@ -1,1 +1,1 @@
-var mnemonic = "federal giggle input solar luxury catalog mixture crazy palm leg fancy offer";
+var mnemonic = "traffic clock script kiwi orient glow today unfold design glove impulse crouch";

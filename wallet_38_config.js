@@ -1,1 +1,1 @@
-var mnemonic = "sadness arena space bomb pig refuse essay prefer powder couch glide bridge";
+var mnemonic = "shrug flame virus lend hour beef rate wrong lazy rule copper cattle";

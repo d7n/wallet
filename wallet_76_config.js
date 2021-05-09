@@ -1,1 +1,1 @@
-var mnemonic = "banana someone claw mail ladder laundry today chimney popular lamp near hospital";
+var mnemonic = "flash monkey consider budget post clog muffin solid air ocean crawl heavy";

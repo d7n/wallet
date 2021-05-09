@@ -1,1 +1,1 @@
-var mnemonic = "what thrive used tennis mother name predict exchange crack walnut sister repeat";
+var mnemonic = "resemble early social pelican undo capable visa shrimp where chronic summer crazy";

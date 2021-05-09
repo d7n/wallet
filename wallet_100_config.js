@@ -1,1 +1,1 @@
-var mnemonic = "choose enjoy hip tree shoe craft crush pretty borrow sister impact stove";
+var mnemonic = "shoulder convince nature fiction country love receive comic judge mad fitness angry";

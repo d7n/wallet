@@ -1,1 +1,1 @@
-var mnemonic = "decade apart obscure next toddler tooth rare surprise ethics innocent piano round";
+var mnemonic = "seminar pistol priority dragon salon math orphan work major noble news lunar";

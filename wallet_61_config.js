@@ -1,1 +1,1 @@
-var mnemonic = "taxi dizzy hint barrel prize notice island stuff glue rice dial come";
+var mnemonic = "water firm insane solid crunch focus jacket inspire awake profit glory jazz";

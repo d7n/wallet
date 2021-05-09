@@ -1,1 +1,1 @@
-var mnemonic = "claw figure icon cup novel purchase balcony feature bless three shy quantum";
+var mnemonic = "fruit danger finger join apple demand menu talk battle flash general climb";

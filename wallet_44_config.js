@@ -1,1 +1,1 @@
-var mnemonic = "figure attend seed sound manage clip that guilt proof average sight word";
+var mnemonic = "unit portion company route yard believe hotel park harbor menu clock bonus";

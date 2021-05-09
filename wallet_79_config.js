@@ -1,1 +1,1 @@
-var mnemonic = "silly moment sad category coil spare path gorilla fold favorite square script";
+var mnemonic = "story ride notice gossip street human identify pig design vote girl select";

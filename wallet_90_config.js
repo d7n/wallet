@@ -1,1 +1,1 @@
-var mnemonic = "swim enhance visa jungle pottery napkin dune civil problem brief danger mutual";
+var mnemonic = "lottery wrap ahead aunt recycle glory wood acid simple biology marble salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster eager stable mule cargo clown misery symbol flock small shield isolate";
+var mnemonic = "decide dentist consider music exotic voice scrub enhance spatial junk food daring";

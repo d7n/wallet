@@ -1,1 +1,1 @@
-var mnemonic = "survey provide wise plate ring invest shop dignity shoe hospital blood enhance";
+var mnemonic = "edit huge convince settle cinnamon cute access chaos render produce potato write";

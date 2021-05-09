@@ -1,1 +1,1 @@
-var mnemonic = "amused amateur into scare goddess voyage simple attack skate biology kite decide";
+var mnemonic = "core behind bomb love spider brand miss myself asthma moon daughter long";

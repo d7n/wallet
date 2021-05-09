@@ -1,1 +1,1 @@
-var mnemonic = "olympic sort ladder odor snow animal tornado pond actual girl arctic fish";
+var mnemonic = "salad kiss order under engine size diagram enrich bind spin craft match";

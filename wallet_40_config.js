@@ -1,1 +1,1 @@
-var mnemonic = "radar lottery humor cloth pipe hospital tomato relax flush soup reopen clown";
+var mnemonic = "work melt angry crowd else away eye owner proof regret march neck";

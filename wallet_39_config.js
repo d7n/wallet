@@ -1,1 +1,1 @@
-var mnemonic = "miss review avocado mention food sand thought tuna way shoulder ripple slender";
+var mnemonic = "mosquito lucky winter tank item carry lizard photo margin test cushion scorpion";

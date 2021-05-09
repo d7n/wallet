@@ -1,1 +1,1 @@
-var mnemonic = "crumble cattle park lion swear purchase life voice old ugly jacket wink";
+var mnemonic = "dolphin display slot mean diesel infant parent lunar stool pitch urban welcome";

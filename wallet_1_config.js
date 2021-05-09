@@ -1,1 +1,1 @@
-var mnemonic = "family omit hazard ability catalog degree enable surface join bachelor cancel pumpkin";
+var mnemonic = "right taxi decline enact mask round column hungry crumble harbor alarm limb";

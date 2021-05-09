@@ -1,1 +1,1 @@
-var mnemonic = "accident tortoise execute easy robust twist mandate initial discover spell hero brick";
+var mnemonic = "wash escape true proud pitch thing mechanic office remember satisfy curtain long";
