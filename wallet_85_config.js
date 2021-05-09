@@ -1,1 +1,1 @@
-var mnemonic = "method view robust shrug decrease salute split property enroll market vintage toilet";
+var mnemonic = "wife anxiety robot hub bid club boss cube desk tenant cart plunge";

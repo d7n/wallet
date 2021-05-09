@@ -1,1 +1,1 @@
-var mnemonic = "deer thunder dignity change absurd rose special muscle mix wine melt oval";
+var mnemonic = "kitchen error asthma rail buzz improve answer purity huge virtual assume cram";

@@ -1,1 +1,1 @@
-var mnemonic = "clock quarter arm travel accident wing rigid junk oppose margin chaos actress";
+var mnemonic = "answer orange average raw excite off solve imitate pigeon midnight battle seat";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty glare impulse poverty fan long fragile high congress process fork logic";
+var mnemonic = "timber cousin work ostrich wedding else refuse lesson lunch clinic better farm";

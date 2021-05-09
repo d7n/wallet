@@ -1,1 +1,1 @@
-var mnemonic = "margin proud glare pet person airport pipe express theory cousin imitate crouch";
+var mnemonic = "brush snap bring ignore verify early student blade race loud cactus armor";

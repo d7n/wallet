@@ -1,1 +1,1 @@
-var mnemonic = "act exotic almost bomb february aunt fit wall ask practice vacuum awkward";
+var mnemonic = "jungle six scare abandon gun tool episode moment craft exile foil alert";

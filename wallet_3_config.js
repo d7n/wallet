@@ -1,1 +1,1 @@
-var mnemonic = "basket fruit absorb safe note mass above flock spirit core vehicle capital";
+var mnemonic = "roof awake toast panda worry expose toy reduce service detail fence lunch";

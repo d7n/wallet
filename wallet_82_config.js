@@ -1,1 +1,1 @@
-var mnemonic = "attend soap ritual agent bag gasp behind ribbon zero sand soup crazy";
+var mnemonic = "helmet village wire direct live hundred often suffer excess lamp neglect cover";

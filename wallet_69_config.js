@@ -1,1 +1,1 @@
-var mnemonic = "author street magnet stick pyramid glue attend wife evidence school hammer noise";
+var mnemonic = "holiday boy hour law aunt canyon together cotton perfect nut core twist";

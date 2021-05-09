@@ -1,1 +1,1 @@
-var mnemonic = "cricket seek hunt spatial rail conduct order pencil nurse marriage ozone atom";
+var mnemonic = "cargo maximum member actor ranch actor myself obscure album twenty sheriff only";

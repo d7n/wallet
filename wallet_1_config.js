@@ -1,1 +1,1 @@
-var mnemonic = "badge autumn prize popular accuse among laptop gap hire other hub print";
+var mnemonic = "achieve future pet casual select crucial devote dolphin use inhale fork pause";

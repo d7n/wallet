@@ -1,1 +1,1 @@
-var mnemonic = "essay plunge frequent dilemma carpet twice resemble fluid royal fee meadow hybrid";
+var mnemonic = "marine piano already remember oven book city carpet leg custom ketchup group";

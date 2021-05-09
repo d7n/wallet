@@ -1,1 +1,1 @@
-var mnemonic = "soft zebra vicious renew tunnel sphere unhappy proof tornado business purchase analyst";
+var mnemonic = "tumble whip aware enough sister disagree salute front program fatigue metal absent";

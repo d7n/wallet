@@ -1,1 +1,1 @@
-var mnemonic = "exotic into million type surround acoustic lottery jar artefact decorate sorry crisp";
+var mnemonic = "quantum unknown emerge tomato absorb time depth sniff omit universe jungle dentist";

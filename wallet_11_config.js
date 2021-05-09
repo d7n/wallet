@@ -1,1 +1,1 @@
-var mnemonic = "switch craft ship sibling girl oblige blood decade inject hip expand frown";
+var mnemonic = "trial begin render turn phrase shaft improve ball bid lumber nature where";

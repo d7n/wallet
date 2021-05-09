@@ -1,1 +1,1 @@
-var mnemonic = "true snake gap peace leader used such want join practice worry enough";
+var mnemonic = "move doll interest piece suit gospel foam fall rough special blush flight";

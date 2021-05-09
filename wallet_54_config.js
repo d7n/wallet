@@ -1,1 +1,1 @@
-var mnemonic = "spend expand physical lonely wash verb nothing evil exotic gravity trash fault";
+var mnemonic = "gift fine confirm hold knock oven curtain license type catalog foot vibrant";

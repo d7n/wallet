@@ -1,1 +1,1 @@
-var mnemonic = "barely ostrich junk badge possible orient seminar emerge shaft segment panda jelly";
+var mnemonic = "midnight awful trip bag camp gift reveal coil clever tank inherit night";

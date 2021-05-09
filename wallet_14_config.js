@@ -1,1 +1,1 @@
-var mnemonic = "recall gossip lecture actual key hurry vital inhale balance arch dress aspect";
+var mnemonic = "mobile weasel method security twelve vintage tenant segment maid atom holiday often";

@@ -1,1 +1,1 @@
-var mnemonic = "fall sponsor basic dilemma olympic lizard practice bag chuckle auto pepper mammal";
+var mnemonic = "century fox usage metal farm one monitor promote uphold axis quit cinnamon";

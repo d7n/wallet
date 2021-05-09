@@ -1,1 +1,1 @@
-var mnemonic = "catalog guide stem fork idea age dust flag define genre labor fame";
+var mnemonic = "fame used canyon bright black there deny shop morning peanut guitar glass";

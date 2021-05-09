@@ -1,1 +1,1 @@
-var mnemonic = "space slice tuna curve swift brass focus lucky fade coffee fall tooth";
+var mnemonic = "model peace shuffle slogan among zone pretty confirm issue rice display same";

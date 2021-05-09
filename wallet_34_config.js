@@ -1,1 +1,1 @@
-var mnemonic = "outer rice fury jazz seat wrist labor suspect meadow believe clay chuckle";
+var mnemonic = "exchange awesome glide wish sea slush broken emotion gather cereal knife behind";

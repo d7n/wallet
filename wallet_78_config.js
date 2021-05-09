@@ -1,1 +1,1 @@
-var mnemonic = "wire twenty practice capital ankle knock illegal train fan region plunge own";
+var mnemonic = "fetch rural party bachelor acquire angry afford whisper depend mention valley guess";

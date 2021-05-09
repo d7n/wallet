@@ -1,1 +1,1 @@
-var mnemonic = "slab ball still bid kite because sun intact case curve right pill";
+var mnemonic = "reward bachelor pet damage weird happy assume company verb save stock ancient";

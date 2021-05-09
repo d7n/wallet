@@ -1,1 +1,1 @@
-var mnemonic = "toilet always merry actor trumpet tide cotton cash law album crawl dice";
+var mnemonic = "judge curve test oxygen reason gossip apart marine blossom item man twin";

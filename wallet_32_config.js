@@ -1,1 +1,1 @@
-var mnemonic = "month bundle salute number hat canyon please repair seed year april voice";
+var mnemonic = "deputy twelve guess shop wish clock divert mixed prepare water sword clinic";

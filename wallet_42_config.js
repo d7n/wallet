@@ -1,1 +1,1 @@
-var mnemonic = "culture success debris proof alien innocent height robust apple major turn bargain";
+var mnemonic = "open myself nominee raw wasp truly fall entire syrup run thumb liar";

@@ -1,1 +1,1 @@
-var mnemonic = "science lecture destroy age hobby garlic one mass crawl vintage march suit";
+var mnemonic = "meat melody hub super slender crush shed buyer sadness burger project retire";

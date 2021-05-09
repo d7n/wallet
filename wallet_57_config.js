@@ -1,1 +1,1 @@
-var mnemonic = "desk must fence spice animal earth pelican seek south enable clinic cluster";
+var mnemonic = "rally gift prevent section enemy bounce post cliff loan bus settle recipe";

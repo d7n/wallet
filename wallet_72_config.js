@@ -1,1 +1,1 @@
-var mnemonic = "ridge parade shell utility position excess staff demise humor evolve hello travel";
+var mnemonic = "resist fat nerve replace blur timber main song food plug neither express";

@@ -1,1 +1,1 @@
-var mnemonic = "about monkey timber spring spell miss inquiry distance vessel alert grocery march";
+var mnemonic = "blush warm jacket panel rubber second ill man various silly coral lottery";

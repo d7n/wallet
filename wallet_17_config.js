@@ -1,1 +1,1 @@
-var mnemonic = "asthma left exact six retreat slam clown subway owner just resist save";
+var mnemonic = "whip human sniff ice slow quantum ahead kiwi keep scan strike number";

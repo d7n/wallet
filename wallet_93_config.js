@@ -1,1 +1,1 @@
-var mnemonic = "gate chronic have agent vanish skin balcony derive taste chunk celery quantum";
+var mnemonic = "garden luxury cake body draft kite caution point three impose estate guard";

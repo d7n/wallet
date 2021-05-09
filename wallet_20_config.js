@@ -1,1 +1,1 @@
-var mnemonic = "library rug loud urban tourist picture fun margin rookie surprise idea window";
+var mnemonic = "animal chuckle daring kingdom fold gym army tower name dilemma harsh canoe";

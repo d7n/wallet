@@ -1,1 +1,1 @@
-var mnemonic = "leisure lobster range pond stock shop poet library broom butter trend garment";
+var mnemonic = "mosquito symbol will receive item wait coconut argue suggest upper song filter";

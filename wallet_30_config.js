@@ -1,1 +1,1 @@
-var mnemonic = "balance quit fuel detail upgrade recycle captain artefact fat science virtual mule";
+var mnemonic = "alarm drill army athlete remind convince hub weasel tragic tape angry invite";

@@ -1,1 +1,1 @@
-var mnemonic = "injury solar submit manage hour tooth renew umbrella good kit faint suffer";
+var mnemonic = "camera garden mountain witness wagon desert laptop clay pond admit curve awful";

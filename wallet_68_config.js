@@ -1,1 +1,1 @@
-var mnemonic = "amused tackle essence bless must quality attract defense private gun exhaust stage";
+var mnemonic = "strong bamboo soul surround parent rather ritual cream monitor solve spy pause";

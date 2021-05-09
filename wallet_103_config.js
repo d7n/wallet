@@ -1,1 +1,1 @@
-var mnemonic = "feel inspire razor argue episode assist still rebuild jungle long mixture hip";
+var mnemonic = "treat pause visa cradle steel cost chief assume clog target adjust globe";

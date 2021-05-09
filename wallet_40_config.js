@@ -1,1 +1,1 @@
-var mnemonic = "license keep health depth unlock health mountain cry genuine debris joy stable";
+var mnemonic = "hundred result voyage exchange gown ranch drive common topic wolf loud okay";

@@ -1,1 +1,1 @@
-var mnemonic = "power gym april soul bid problem unlock skull exhaust jar clerk exercise";
+var mnemonic = "tonight blind bind photo faint east humor flight multiply measure mansion antenna";

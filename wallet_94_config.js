@@ -1,1 +1,1 @@
-var mnemonic = "caught input lava bid stairs together fee trumpet coach twenty scissors hello";
+var mnemonic = "gesture rubber host truck critic cat predict advice weird potato other rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "omit slogan rebuild page idle one sniff danger butter drama cream tank";
+var mnemonic = "bomb mask shop grain office project spray mobile expire pipe tongue fantasy";

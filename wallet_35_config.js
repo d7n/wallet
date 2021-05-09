@@ -1,1 +1,1 @@
-var mnemonic = "comfort grid sudden slush stone artefact scene river deal combine angry wagon";
+var mnemonic = "use armor camera tattoo fine vapor sudden stand raise absent mosquito spatial";

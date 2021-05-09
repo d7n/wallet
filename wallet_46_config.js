@@ -1,1 +1,1 @@
-var mnemonic = "february unfair review ability ketchup seed inhale bind warrior bench moment hair";
+var mnemonic = "ordinary fork tooth sudden dragon where toss tumble choice thunder bamboo response";

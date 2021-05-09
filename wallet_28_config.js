@@ -1,1 +1,1 @@
-var mnemonic = "smooth season thank lift effort clock laugh asthma give easily tent know";
+var mnemonic = "cloth call cinnamon reject number dream diesel claw brass ocean alone flush";

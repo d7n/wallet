@@ -1,1 +1,1 @@
-var mnemonic = "body hen jelly have spatial video lesson empower truly around guilt adapt";
+var mnemonic = "organ eye envelope suffer pact mistake chef fitness layer need entry virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist profit skill siren wheat task recipe unknown spatial omit fly heart";
+var mnemonic = "female ivory script asset violin explain erupt tuna return north sea machine";

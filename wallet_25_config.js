@@ -1,1 +1,1 @@
-var mnemonic = "captain exact country fork throw appear lottery armor orient heavy hope afford";
+var mnemonic = "cycle safe address squeeze genuine notice sorry alpha task lonely lunar boy";

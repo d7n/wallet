@@ -1,1 +1,1 @@
-var mnemonic = "embrace cupboard intact social enroll illness pyramid river prosper response liar rally";
+var mnemonic = "arrange clerk virtual subway state defy glimpse round dutch heavy where tenant";

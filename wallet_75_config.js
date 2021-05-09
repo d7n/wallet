@@ -1,1 +1,1 @@
-var mnemonic = "point awful vital process zebra shadow provide rate property midnight naive drift";
+var mnemonic = "vocal hero inside obtain science panel magnet excuse club menu improve sight";

@@ -1,1 +1,1 @@
-var mnemonic = "urban term crouch dog unlock town gun deer stairs brother depth funny";
+var mnemonic = "describe roof layer element trial venue unfair protect document bargain often minute";

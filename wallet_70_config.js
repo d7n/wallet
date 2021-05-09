@@ -1,1 +1,1 @@
-var mnemonic = "torch domain stock review jar pupil twin punch crime chuckle juice margin";
+var mnemonic = "trumpet witness congress fall page happy beyond gain south until between flag";

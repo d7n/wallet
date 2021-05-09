@@ -1,1 +1,1 @@
-var mnemonic = "episode peasant actual fine diary panther shed valley clump helmet road raven";
+var mnemonic = "coyote magic budget ladder thrive piano pole draft scout north medal relief";

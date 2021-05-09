@@ -1,1 +1,1 @@
-var mnemonic = "civil rotate dial group spy blind tool between proud lens viable orient";
+var mnemonic = "social nerve hill gift chicken census whisper sun honey fit wise crazy";

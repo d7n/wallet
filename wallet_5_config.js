@@ -1,1 +1,1 @@
-var mnemonic = "staff weasel car penalty faculty wrap dutch dolphin rate upset nothing hidden";
+var mnemonic = "outer wrong together outside position candy ostrich valve genre cloud modify fault";

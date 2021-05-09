@@ -1,1 +1,1 @@
-var mnemonic = "rose key glare pulse broccoli symptom grid slot often ozone mixed kidney";
+var mnemonic = "innocent faith pitch creek saddle gentle lucky surprise eyebrow next physical glance";

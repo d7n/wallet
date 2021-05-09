@@ -1,1 +1,1 @@
-var mnemonic = "someone problem fantasy turn language neutral depend cheap question wage lyrics video";
+var mnemonic = "clap feel metal believe sponsor hour wrong sustain wall dragon laptop sport";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock include cliff certain shield soon robust where distance choice extend cash";
+var mnemonic = "romance safe plate lumber price pony core actor tissue design fade property";

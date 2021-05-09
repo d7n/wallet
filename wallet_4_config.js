@@ -1,1 +1,1 @@
-var mnemonic = "lady measure zoo drip prevent type flight van resist insect top vapor";
+var mnemonic = "sad common meadow sword panic honey upgrade load exhaust vacant rival waste";

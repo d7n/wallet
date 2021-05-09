@@ -1,1 +1,1 @@
-var mnemonic = "cargo trap differ cat act divert avoid skull figure flat elegant waste";
+var mnemonic = "bullet depth pilot unveil say curious dentist jelly cupboard about glad thank";

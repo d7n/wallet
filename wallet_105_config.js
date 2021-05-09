@@ -1,1 +1,1 @@
-var mnemonic = "keep soccer helmet raven timber jacket violin bless total mansion tomato ribbon";
+var mnemonic = "gate miss senior life shrug oxygen carbon clarify pluck cotton special chicken";

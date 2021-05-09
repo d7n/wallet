@@ -1,1 +1,1 @@
-var mnemonic = "enough runway year sunset public what climb priority comic amazing motion outer";
+var mnemonic = "lava chest confirm margin reason advice jealous ozone seek cliff you material";

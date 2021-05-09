@@ -1,1 +1,1 @@
-var mnemonic = "hire action garden awkward hurdle couch derive page mosquito pair all arctic";
+var mnemonic = "north initial muffin ankle bachelor actress anger train grain width ready refuse";

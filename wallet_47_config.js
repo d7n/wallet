@@ -1,1 +1,1 @@
-var mnemonic = "arrow impose funny follow nut kiwi nose mushroom tuition pulse false plunge";
+var mnemonic = "web kit various increase cruise detail pen rhythm draft index often side";

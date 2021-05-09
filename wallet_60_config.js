@@ -1,1 +1,1 @@
-var mnemonic = "glue tent empty mouse acquire puzzle skill coyote promote border hill sand";
+var mnemonic = "enable city lens song mirror disagree donate visit hair lend suggest blade";

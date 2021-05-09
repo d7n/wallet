@@ -1,1 +1,1 @@
-var mnemonic = "cabbage goat busy input time insect juice cabin endless inspire dentist border";
+var mnemonic = "nasty amazing tissue glad boss resource odor connect shy joke cake swear";

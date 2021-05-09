@@ -1,1 +1,1 @@
-var mnemonic = "brown chest brown sing swamp crop puzzle cradle become luxury calm present";
+var mnemonic = "arrest latin fiction tortoise taxi business fault mixed dismiss height cradle among";

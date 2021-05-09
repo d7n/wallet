@@ -1,1 +1,1 @@
-var mnemonic = "play sand marine law olive airport dry include strategy review mass hurt";
+var mnemonic = "disorder party morning fruit bubble glare believe session divide join else laugh";

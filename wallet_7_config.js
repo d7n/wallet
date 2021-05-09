@@ -1,1 +1,1 @@
-var mnemonic = "eager rookie market wait swear crane under moon clarify wonder describe cereal";
+var mnemonic = "satoshi fame swing citizen double head skull slush biology trim lens season";

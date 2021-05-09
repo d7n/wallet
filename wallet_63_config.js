@@ -1,1 +1,1 @@
-var mnemonic = "duty loyal stuff real area utility enrich borrow corn evoke brand place";
+var mnemonic = "clump size play lion grunt charge neck need almost rug evolve earth";

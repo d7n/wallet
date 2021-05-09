@@ -1,1 +1,1 @@
-var mnemonic = "steel keep abstract trim shop axis exchange glad ginger found grape disease";
+var mnemonic = "apart allow era coyote paper rent forum pencil wedding cliff purse poverty";

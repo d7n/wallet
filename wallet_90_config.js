@@ -1,1 +1,1 @@
-var mnemonic = "bunker replace actor bird ready angle leave jazz pulse payment ivory foot";
+var mnemonic = "assume beauty solar income impulse palace castle laugh video pyramid cheap story";

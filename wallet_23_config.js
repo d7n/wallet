@@ -1,1 +1,1 @@
-var mnemonic = "ignore junk april endorse used maze robust expire giant evolve usual holiday";
+var mnemonic = "across ecology abuse predict usual tribe limit buffalo educate syrup will oak";

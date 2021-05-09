@@ -1,1 +1,1 @@
-var mnemonic = "arrive among news heart behind peanut palace game noodle wish auto future";
+var mnemonic = "mail keen question excuse gesture inherit exercise step unknown fire very problem";

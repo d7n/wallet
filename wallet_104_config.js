@@ -1,1 +1,1 @@
-var mnemonic = "tag during mirror quote mechanic nuclear loan wall great blush horror leg";
+var mnemonic = "industry match dice magic disease legal remind cloth useful beauty hint insect";

@@ -1,1 +1,1 @@
-var mnemonic = "soon average indicate jacket nation toss govern divide lunar lava proud hen";
+var mnemonic = "heart oyster luggage tennis need wine turtle usage remain review equip morning";

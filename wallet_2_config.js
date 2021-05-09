@@ -1,1 +1,1 @@
-var mnemonic = "domain need like trend travel noodle dynamic ring barrel infant animal race";
+var mnemonic = "chicken what elephant apple false property rural cave tomorrow blossom gentle wide";

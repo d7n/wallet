@@ -1,1 +1,1 @@
-var mnemonic = "potato eagle crunch echo opinion intact punch length warrior olympic gorilla fatal";
+var mnemonic = "anger lawsuit make aspect mixed magic duck cigar surge bundle hello broom";

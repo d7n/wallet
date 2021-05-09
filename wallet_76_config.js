@@ -1,1 +1,1 @@
-var mnemonic = "exclude cloth boss mention runway target gym impulse antenna stand grace essay";
+var mnemonic = "scene disease era unveil health clip neither visual harvest power broccoli cabin";

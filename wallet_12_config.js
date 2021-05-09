@@ -1,1 +1,1 @@
-var mnemonic = "success pool arrive trophy hidden honey inform dirt forward wash screen action";
+var mnemonic = "motor buyer crater call stable pudding eager harbor snake chronic curve route";

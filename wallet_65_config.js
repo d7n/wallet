@@ -1,1 +1,1 @@
-var mnemonic = "dynamic furnace gravity multiply room check number tobacco curtain grace fox private";
+var mnemonic = "damage memory film anxiety beach muffin degree auction chapter manual amazing walk";

@@ -1,1 +1,1 @@
-var mnemonic = "smile affair guitar supreme large pony struggle knee fetch scheme pottery cause";
+var mnemonic = "genius display mandate multiply clerk vital worry excuse clarify device baby leopard";

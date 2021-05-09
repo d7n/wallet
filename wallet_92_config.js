@@ -1,1 +1,1 @@
-var mnemonic = "fold dose pool immense crouch today judge parent happy primary view visa";
+var mnemonic = "change wear toy gas black dust despair aware month fat assist ceiling";

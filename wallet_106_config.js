@@ -1,1 +1,1 @@
-var mnemonic = "rough indicate increase save inner ability draw cycle timber like matter entry";
+var mnemonic = "width average hen snack push pizza turtle immense panda captain orphan under";
