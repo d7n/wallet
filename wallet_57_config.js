@@ -1,1 +1,1 @@
-var mnemonic = "elevator virtual jelly wing voice slow dinner garbage initial theory frequent behave";
+var mnemonic = "clerk soldier allow auction silent advice cargo purchase visit volume brush screen";

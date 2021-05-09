@@ -1,1 +1,1 @@
-var mnemonic = "depth second such blind hero wing walk auction rail knock elder bullet";
+var mnemonic = "slot only curve remind script flag gospel dilemma ostrich much number few";

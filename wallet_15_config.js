@@ -1,1 +1,1 @@
-var mnemonic = "region result barely lift invite cattle enough size fiscal fiber train ladder";
+var mnemonic = "bike minimum such trouble truth win grass ridge nature nephew curious pluck";

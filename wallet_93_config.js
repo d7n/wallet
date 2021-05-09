@@ -1,1 +1,1 @@
-var mnemonic = "answer spare tomorrow silent such toss early spell pilot aunt zero nerve";
+var mnemonic = "card maze conduct liar judge obtain tree gasp electric welcome lonely empower";

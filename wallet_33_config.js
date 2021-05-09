@@ -1,1 +1,1 @@
-var mnemonic = "gadget output panther lawsuit ancient remove champion cheap another security palace seat";
+var mnemonic = "vehicle gas example tornado pact letter else ginger collect video pulp original";

@@ -1,1 +1,1 @@
-var mnemonic = "staff home remind smoke shy sibling lecture spoon spot antique silver example";
+var mnemonic = "evolve chunk quantum suit sketch security carpet sand eager coyote brand weekend";

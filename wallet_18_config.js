@@ -1,1 +1,1 @@
-var mnemonic = "custom visa joke civil great vast animal misery ski device avoid solar";
+var mnemonic = "recall social deny proud clarify curtain stay fog release walnut exchange chair";

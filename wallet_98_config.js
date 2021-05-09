@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit creek harvest club better solve stem coil south melody ticket attitude";
+var mnemonic = "tomato install stuff adapt now design obey drive gas sting column cancel";

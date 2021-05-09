@@ -1,1 +1,1 @@
-var mnemonic = "circle badge rookie still tackle again unhappy banana float found typical claim";
+var mnemonic = "pulse vendor multiply two museum middle tilt broom section demise owner manual";

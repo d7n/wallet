@@ -1,1 +1,1 @@
-var mnemonic = "subway include payment lock saddle scout wrist chronic couch elegant fantasy empty";
+var mnemonic = "quit vivid seven vacant rent desk repeat grunt circle motion vehicle agree";

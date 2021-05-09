@@ -1,1 +1,1 @@
-var mnemonic = "invest dinner call bullet kind rather toss nominee awkward used noise recall";
+var mnemonic = "island base solar insane diesel hamster oxygen wait motor drill vacuum east";

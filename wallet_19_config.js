@@ -1,1 +1,1 @@
-var mnemonic = "path glue chase school square job pet farm inspire cycle casual month";
+var mnemonic = "drill humble beef legal moon ancient security drop episode royal again loan";

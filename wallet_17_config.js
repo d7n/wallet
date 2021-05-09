@@ -1,1 +1,1 @@
-var mnemonic = "pull cross weapon helmet destroy company love curtain clog raw wheel deliver";
+var mnemonic = "certain street guide cradle snow face girl sunset ghost century fabric leaf";

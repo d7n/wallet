@@ -1,1 +1,1 @@
-var mnemonic = "else enter bullet little hand average artefact script try swarm essay myth";
+var mnemonic = "eternal betray pupil turtle grief canvas sunny private fragile diamond annual despair";

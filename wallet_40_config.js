@@ -1,1 +1,1 @@
-var mnemonic = "horn deputy club swamp beef height say truly behave output away boring";
+var mnemonic = "capable organ album gym van quick youth scatter cancel park truly salad";

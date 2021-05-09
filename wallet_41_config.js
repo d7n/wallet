@@ -1,1 +1,1 @@
-var mnemonic = "shift resemble record oil destroy tortoise can column decade divorce chicken goose";
+var mnemonic = "april because pupil buffalo art impose fragile argue good total salon sketch";

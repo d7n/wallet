@@ -1,1 +1,1 @@
-var mnemonic = "fun obtain public vacant eyebrow cover allow coral yellow axis tree casual";
+var mnemonic = "brisk area crush basket carpet address neck eager jewel expand cram cushion";

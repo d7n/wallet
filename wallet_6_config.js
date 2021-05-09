@@ -1,1 +1,1 @@
-var mnemonic = "ask wrap rotate metal vault slam dragon merge garden over outer swim";
+var mnemonic = "brave stuff giant slab hen case that before ship joy bean fringe";

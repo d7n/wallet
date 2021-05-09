@@ -1,1 +1,1 @@
-var mnemonic = "stamp alone output blood desert cup purpose vendor victory garage olive shadow";
+var mnemonic = "hip bamboo chronic obtain used trend salt special crisp draw pottery resemble";

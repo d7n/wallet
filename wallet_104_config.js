@@ -1,1 +1,1 @@
-var mnemonic = "patient federal sure cat easy sight matrix blue oil federal portion boost";
+var mnemonic = "debate exist melt crawl addict fiscal afford kind glide infant warrior almost";

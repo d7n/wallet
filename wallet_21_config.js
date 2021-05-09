@@ -1,1 +1,1 @@
-var mnemonic = "current fade final credit depend burst flavor change refuse enable ritual route";
+var mnemonic = "liquid myth benefit keen opinion slim occur logic pill senior usage coin";

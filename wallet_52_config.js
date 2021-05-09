@@ -1,1 +1,1 @@
-var mnemonic = "december modify force music infant erosion tail domain prison access frost wave";
+var mnemonic = "hazard sorry silk erosion sport thumb sun family point sunny fiscal notable";

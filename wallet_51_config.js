@@ -1,1 +1,1 @@
-var mnemonic = "obey fever journey dove obvious magnet coral timber jeans payment claw choice";
+var mnemonic = "cable maple race roof maximum young river bid million machine copy twelve";

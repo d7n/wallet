@@ -1,1 +1,1 @@
-var mnemonic = "bamboo audit hawk rifle hazard grit march carpet valid kid sample recipe";
+var mnemonic = "chef urban answer parent few mansion gloom breeze height loud park hold";

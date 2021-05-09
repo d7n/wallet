@@ -1,1 +1,1 @@
-var mnemonic = "beyond festival sword render tail blood slender cement use fix olympic warm";
+var mnemonic = "issue drip claim nurse salmon slot kind duty unaware sick fruit width";

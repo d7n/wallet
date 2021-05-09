@@ -1,1 +1,1 @@
-var mnemonic = "awful radar depart tag cloth result dismiss wine marine blanket eager slush";
+var mnemonic = "pepper cheese wild season change any print guard found churn shoot punch";

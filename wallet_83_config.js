@@ -1,1 +1,1 @@
-var mnemonic = "sausage sausage grape kidney toward during baby heavy portion inmate bless machine";
+var mnemonic = "kid scout evolve crawl trash affair maze ramp zero tackle govern radar";

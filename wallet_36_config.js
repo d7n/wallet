@@ -1,1 +1,1 @@
-var mnemonic = "extend carbon echo rate fragile enjoy forget iron few edge artwork cabbage";
+var mnemonic = "useful soldier thrive empower smile diesel assault wreck enemy title split dolphin";

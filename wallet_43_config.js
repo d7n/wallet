@@ -1,1 +1,1 @@
-var mnemonic = "off task saddle prepare valid vibrant ill ski involve prize awkward protect";
+var mnemonic = "cannon basic thumb divorce fault divert grain between twelve cotton cave exchange";

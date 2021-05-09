@@ -1,1 +1,1 @@
-var mnemonic = "thank fault elegant lady junk hour worth siren brick poem engage object";
+var mnemonic = "boss potato casino nice reveal tribe siege woman manual neglect dream defense";

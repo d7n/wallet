@@ -1,1 +1,1 @@
-var mnemonic = "version round staff blush list sunset waste bacon reflect orchard ten arch";
+var mnemonic = "ball fresh inform basket garage rubber what fix float december stone grab";

@@ -1,1 +1,1 @@
-var mnemonic = "earth audit unveil tumble supply hand group badge excess peace scrap solve";
+var mnemonic = "unhappy swing assume combine argue pause aware lady suffer amazing argue entry";

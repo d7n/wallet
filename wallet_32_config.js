@@ -1,1 +1,1 @@
-var mnemonic = "wife year betray escape matter pride garment senior razor worth ugly chapter";
+var mnemonic = "song end melt soup rotate day crush ten reopen blossom story metal";

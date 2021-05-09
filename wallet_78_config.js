@@ -1,1 +1,1 @@
-var mnemonic = "possible sadness exchange sleep cupboard pen enlist episode pause fluid urban creek";
+var mnemonic = "sand dove oven muffin target odor keen repeat magic romance pipe theory";

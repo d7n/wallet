@@ -1,1 +1,1 @@
-var mnemonic = "ghost benefit screen sign sudden napkin hungry image trigger sing crater rebel";
+var mnemonic = "squeeze abuse almost add advice list online reward need south bag antique";

@@ -1,1 +1,1 @@
-var mnemonic = "ship draft gown winner dish category confirm output year trade add emerge";
+var mnemonic = "enjoy equal convince puppy spread pretty robust doctor fatal bus defy dumb";

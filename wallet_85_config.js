@@ -1,1 +1,1 @@
-var mnemonic = "crop mimic health congress asthma turn crouch elbow genuine pond method tennis";
+var mnemonic = "deny point tiny fiber vehicle harvest category engage topic favorite assault dish";

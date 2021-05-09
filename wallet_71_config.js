@@ -1,1 +1,1 @@
-var mnemonic = "palm sketch innocent gap ensure favorite prison surprise small rigid uniform ill";
+var mnemonic = "actual glare tell awful vintage forget stay mom boost best cannon sauce";

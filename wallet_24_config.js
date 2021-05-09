@@ -1,1 +1,1 @@
-var mnemonic = "gasp tent drive farm card seat cook hawk alarm club swarm office";
+var mnemonic = "rifle battle valley host plate utility gas dentist engage walnut core shine";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup tobacco fish wave vital real when beef deliver pull blast ripple";
+var mnemonic = "kangaroo until document razor keep diagram develop bless sustain embody diet know";

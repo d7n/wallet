@@ -1,1 +1,1 @@
-var mnemonic = "boring damp plug inmate arctic supreme rule soldier unaware borrow seat ankle";
+var mnemonic = "good bless gate ask metal doctor suffer endorse luggage tent embark carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "home code corn love street wave spawn fish live text reason swift";
+var mnemonic = "two oil slight box quality price spread measure vivid gauge faculty erosion";

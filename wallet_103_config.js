@@ -1,1 +1,1 @@
-var mnemonic = "fresh tired midnight quit beef style silent goat uniform patient deposit surprise";
+var mnemonic = "coach husband crack ribbon fat knife leopard object jaguar sand amused police";

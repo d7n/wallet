@@ -1,1 +1,1 @@
-var mnemonic = "what harvest scene rain depend female adult shrimp impulse voice curious expose";
+var mnemonic = "soap bundle violin social invest sign orient wool month name coyote finger";

@@ -1,1 +1,1 @@
-var mnemonic = "member circle found script uncover iron tiny fat abuse pudding monitor isolate";
+var mnemonic = "tumble dignity noble aisle shift little bonus fuel soldier afraid mother return";

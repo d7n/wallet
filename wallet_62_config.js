@@ -1,1 +1,1 @@
-var mnemonic = "width rifle melt this tobacco magnet lamp truth work pelican citizen van";
+var mnemonic = "style path fence middle flavor front clever panther sugar slender column grant";

@@ -1,1 +1,1 @@
-var mnemonic = "truly scissors service lawsuit vocal rain convince silly spot adjust word joke";
+var mnemonic = "item raccoon useless among lobster lift dutch foil local sea stage green";

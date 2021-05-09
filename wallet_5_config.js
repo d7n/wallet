@@ -1,1 +1,1 @@
-var mnemonic = "leg sell employ catch habit december floor claim stock organ logic add";
+var mnemonic = "have school drum cliff similar ring sister fan master dish mirror all";

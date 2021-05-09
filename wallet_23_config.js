@@ -1,1 +1,1 @@
-var mnemonic = "shoe grab entire scale cupboard cave push frost digital lounge pink list";
+var mnemonic = "door apple blind erosion wasp taxi enjoy blame off chief sense tree";

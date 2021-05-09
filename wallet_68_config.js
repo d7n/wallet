@@ -1,1 +1,1 @@
-var mnemonic = "minute quality love radio visa maple prefer slender female cool flock price";
+var mnemonic = "list view carry private end sheriff earth omit easily sunset crisp fresh";

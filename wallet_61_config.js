@@ -1,1 +1,1 @@
-var mnemonic = "relief pause salmon verify naive detail adult cluster render obey chicken idle";
+var mnemonic = "fit fruit ketchup slow sand toy grief better indicate tunnel document tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess custom electric tragic tilt budget cattle marine axis report used yard";
+var mnemonic = "ensure twice fuel bounce shoe wife swap follow chaos grain real shock";

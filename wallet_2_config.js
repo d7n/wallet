@@ -1,1 +1,1 @@
-var mnemonic = "rail live beyond begin whip empower detect seven whale calm hill gain";
+var mnemonic = "gym impact slender slogan beyond busy gain word gap spider route visual";

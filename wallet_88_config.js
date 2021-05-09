@@ -1,1 +1,1 @@
-var mnemonic = "timber marriage clever mouse width tool sweet warm comfort uncle frog leg";
+var mnemonic = "pulp please total physical story silent list tourist action top industry stairs";

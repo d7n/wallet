@@ -1,1 +1,1 @@
-var mnemonic = "into major game evidence clutch scout sweet disease public aerobic gallery crystal";
+var mnemonic = "famous power marble ethics involve raise armor sponsor leader olive drum science";

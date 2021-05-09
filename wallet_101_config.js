@@ -1,1 +1,1 @@
-var mnemonic = "fortune garbage rubber yellow dignity brain skin squirrel trumpet account flat cake";
+var mnemonic = "parade seed lawn now shove response bomb force crash spider few hybrid";

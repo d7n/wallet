@@ -1,1 +1,1 @@
-var mnemonic = "flock aerobic tag ivory patch clinic insane lion abstract among trust buddy";
+var mnemonic = "smooth rabbit stock grow echo bike slender modify pattern dial group sell";

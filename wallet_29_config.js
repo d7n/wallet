@@ -1,1 +1,1 @@
-var mnemonic = "cash shed oval combine when service frost damage lumber undo base bridge";
+var mnemonic = "hip garden enforce uncle shove equal timber quick text crunch purpose flash";

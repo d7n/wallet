@@ -1,1 +1,1 @@
-var mnemonic = "apple vocal miracle wish razor gather message about trend climb original render";
+var mnemonic = "olive liberty sausage lazy timber reform base village balance silver solve upper";

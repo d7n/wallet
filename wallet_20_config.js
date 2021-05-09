@@ -1,1 +1,1 @@
-var mnemonic = "solution exact seek excite nature become shield lumber awkward power pass topic";
+var mnemonic = "equip cart minimum behind festival venue bamboo glove voyage million alcohol drink";

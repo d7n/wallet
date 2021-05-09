@@ -1,1 +1,1 @@
-var mnemonic = "there embrace time betray point across turtle stand garbage illegal month gravity";
+var mnemonic = "direct yellow mercy fit gadget false amount leopard humble desert coast group";

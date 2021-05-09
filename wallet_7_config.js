@@ -1,1 +1,1 @@
-var mnemonic = "glue rough wall enable popular myth ocean average casino palace law wall";
+var mnemonic = "maze cloud radio pulp tooth grab hip slogan endorse orient nature warrior";

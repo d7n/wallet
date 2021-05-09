@@ -1,1 +1,1 @@
-var mnemonic = "worry knee purpose stove code involve clerk place payment bomb denial mobile";
+var mnemonic = "people spoil copy blast tennis arrive biology cement universe drop regret mix";

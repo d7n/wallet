@@ -1,1 +1,1 @@
-var mnemonic = "film merge aisle crawl body element arm hotel sample mother car parrot";
+var mnemonic = "wet art program pulse bid ship exercise avoid drip journey when seat";

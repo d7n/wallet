@@ -1,1 +1,1 @@
-var mnemonic = "first cruise lesson grief solar wink mom truth usage traffic you harvest";
+var mnemonic = "useless harsh peanut wash will crunch try motion whip surface hurdle mention";

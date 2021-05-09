@@ -1,1 +1,1 @@
-var mnemonic = "pony among inflict unfair inch october session demise lady size kiss squirrel";
+var mnemonic = "estate coach end leaf shield chapter corn return rubber method explain hotel";

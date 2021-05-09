@@ -1,1 +1,1 @@
-var mnemonic = "wink theory scan okay code coconut attract shoot chicken minute slush pony";
+var mnemonic = "mass original limit accuse become neglect violin course assist toward mesh indicate";

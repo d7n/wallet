@@ -1,1 +1,1 @@
-var mnemonic = "brisk scare burst quantum desk hen stomach much degree drill aspect raise";
+var mnemonic = "velvet caught toward flight harbor woman attract truck essay secret antique aspect";

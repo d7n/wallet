@@ -1,1 +1,1 @@
-var mnemonic = "nose wasp twenty unveil domain piece struggle razor glory ability suit enough";
+var mnemonic = "maid economy chair twist tissue result just blush must toy thank stem";

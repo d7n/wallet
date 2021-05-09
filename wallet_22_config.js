@@ -1,1 +1,1 @@
-var mnemonic = "base economy super grass cherry because vintage melody ghost castle mosquito pony";
+var mnemonic = "tuna wrap educate basic party below frog judge canoe virtual lock trim";

@@ -1,1 +1,1 @@
-var mnemonic = "rail lumber finish cruel art tuna wood during scene silent matrix keep";
+var mnemonic = "poem august sauce because addict lock gravity tent badge clutch royal time";

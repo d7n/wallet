@@ -1,1 +1,1 @@
-var mnemonic = "fish sample fatal hedgehog planet fiber because act gauge suggest excess enrich";
+var mnemonic = "print save include blast include weather gorilla hold zebra crater remove access";

@@ -1,1 +1,1 @@
-var mnemonic = "seek claw grid melody trade patch yard pony lonely mercy into together";
+var mnemonic = "tool slush undo wide advice boss icon elder dune chair fish blame";

@@ -1,1 +1,1 @@
-var mnemonic = "fun rival motion nut snake wire shallow balcony easily flag coyote volcano";
+var mnemonic = "remove cable goose harbor awkward soap velvet gap spirit grass pave upgrade";

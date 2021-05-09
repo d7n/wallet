@@ -1,1 +1,1 @@
-var mnemonic = "ignore minimum cute win chaos debris pitch route jump neglect donkey panic";
+var mnemonic = "tray void code little soldier voyage nation lottery frame order latin effort";

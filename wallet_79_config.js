@@ -1,1 +1,1 @@
-var mnemonic = "six eyebrow access coin find virtual current cruise vessel fury argue episode";
+var mnemonic = "treat civil remind twist relax multiply rely inch rule concert keen arch";

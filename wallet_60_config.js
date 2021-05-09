@@ -1,1 +1,1 @@
-var mnemonic = "confirm net token goose beauty wine food vote only input tray bag";
+var mnemonic = "shrimp open brown flip deal enter parent ahead globe media beef powder";

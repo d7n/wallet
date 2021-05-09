@@ -1,1 +1,1 @@
-var mnemonic = "squeeze proud grant annual fiber shiver pizza close cancel tongue render enjoy";
+var mnemonic = "loyal admit drastic hungry path zone topic juice gallery before miracle inch";

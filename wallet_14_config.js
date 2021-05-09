@@ -1,1 +1,1 @@
-var mnemonic = "captain unfold lawn select flock snap situate injury intact dutch rifle source";
+var mnemonic = "seat enter dinosaur kitten whip time air weekend lottery cool protect animal";

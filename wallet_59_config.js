@@ -1,1 +1,1 @@
-var mnemonic = "dry bridge arctic problem creek absent version vanish impulse inspire feature shrimp";
+var mnemonic = "process loyal doctor staff purpose doctor yellow grant search purchase item crush";

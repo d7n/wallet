@@ -1,1 +1,1 @@
-var mnemonic = "lady defense vintage pulse focus dismiss judge steel fee chat job mirror";
+var mnemonic = "paddle fall space frequent square peace hood logic eager road cluster shallow";

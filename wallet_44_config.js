@@ -1,1 +1,1 @@
-var mnemonic = "barrel rare approve diesel load ridge crazy review metal wool brain brief";
+var mnemonic = "comic admit vault lemon actual myth culture pear stay educate urge initial";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow punch confirm carpet cereal gauge answer universe hour kiss naive loan";
+var mnemonic = "neutral forward digital winner laptop skate shove token twice frozen celery science";

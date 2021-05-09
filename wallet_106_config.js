@@ -1,1 +1,1 @@
-var mnemonic = "lend fault say chuckle spider traffic injury hunt adapt bunker rookie infant";
+var mnemonic = "place hill usual host upset blur mom vault burden bachelor absent outdoor";

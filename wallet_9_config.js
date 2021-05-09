@@ -1,1 +1,1 @@
-var mnemonic = "crazy portion save ready puppy rough coffee wear silent also daughter fetch";
+var mnemonic = "muffin planet quick smoke unveil rally dwarf usual menu cupboard hamster youth";

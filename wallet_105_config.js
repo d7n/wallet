@@ -1,1 +1,1 @@
-var mnemonic = "fantasy unlock come elder distance hurt shed wrist tuna stay tag afraid";
+var mnemonic = "trophy remind core mind dizzy emerge else cheese hire focus demand strong";

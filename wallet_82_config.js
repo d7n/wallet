@@ -1,1 +1,1 @@
-var mnemonic = "rail fossil famous occur tip gown century rule luxury sell ring embark";
+var mnemonic = "differ almost loud young silk weekend cage wave celery gospel permit conduct";

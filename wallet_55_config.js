@@ -1,1 +1,1 @@
-var mnemonic = "rally next dynamic shell blade scatter trust glow sibling parade glide aunt";
+var mnemonic = "erase pink smart depth nominee dune cube burst canyon child young escape";

@@ -1,1 +1,1 @@
-var mnemonic = "barely speak venue run travel easily scan cruel rice moon talk hold";
+var mnemonic = "category type crucial company answer adult hotel bamboo skin sock embrace erosion";

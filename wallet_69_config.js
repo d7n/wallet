@@ -1,1 +1,1 @@
-var mnemonic = "snow grace fuel tell major need modify excess organ scrap rare quiz";
+var mnemonic = "final despair bullet key absorb coral taxi demise inform piano violin glad";

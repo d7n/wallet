@@ -1,1 +1,1 @@
-var mnemonic = "couple digital quarter mountain grant bus narrow beef sunny pumpkin olympic clip";
+var mnemonic = "relief release song only desk chunk orange giggle body harsh cushion film";

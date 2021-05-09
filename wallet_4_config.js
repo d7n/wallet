@@ -1,1 +1,1 @@
-var mnemonic = "decide world border enlist one resist arrest sunny obey control strong loan";
+var mnemonic = "winner simple surround visual wolf permit regret decline parent debris century cat";

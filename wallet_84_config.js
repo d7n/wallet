@@ -1,1 +1,1 @@
-var mnemonic = "fat traffic off best exist humor destroy nothing person alley cage allow";
+var mnemonic = "power case siege hope hunt license measure bench describe item jewel neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "snake success risk laundry welcome fiscal unable clean torch since tennis artwork";
+var mnemonic = "endless aware flower food video inner short fantasy long page similar knee";

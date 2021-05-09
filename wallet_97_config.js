@@ -1,1 +1,1 @@
-var mnemonic = "bunker amateur what sniff feed stable rabbit crane begin priority more team";
+var mnemonic = "cup marriage order supply kick release actress grab bacon element swarm involve";

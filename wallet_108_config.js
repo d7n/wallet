@@ -1,1 +1,1 @@
-var mnemonic = "arrange angry leave permit print roast shallow cliff also replace traffic outer";
+var mnemonic = "expect grid sentence sight boil veteran you tonight orient supreme canoe clog";
