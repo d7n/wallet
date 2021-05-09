@@ -1,1 +1,1 @@
-var mnemonic = "dress inside sample dismiss learn unknown gadget blood jeans alone mutual pizza";
+var mnemonic = "torch domain stock review jar pupil twin punch crime chuckle juice margin";

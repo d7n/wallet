@@ -1,1 +1,1 @@
-var mnemonic = "traffic clock script kiwi orient glow today unfold design glove impulse crouch";
+var mnemonic = "slab ball still bid kite because sun intact case curve right pill";

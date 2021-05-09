@@ -1,1 +1,1 @@
-var mnemonic = "canal hundred chaos gas nation silent medal long light under report panther";
+var mnemonic = "balance quit fuel detail upgrade recycle captain artefact fat science virtual mule";

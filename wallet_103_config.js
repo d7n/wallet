@@ -1,1 +1,1 @@
-var mnemonic = "ask model buzz blush unit vanish firm open tooth argue regret roof";
+var mnemonic = "feel inspire razor argue episode assist still rebuild jungle long mixture hip";

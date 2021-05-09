@@ -1,1 +1,1 @@
-var mnemonic = "resemble early social pelican undo capable visa shrimp where chronic summer crazy";
+var mnemonic = "dynamic furnace gravity multiply room check number tobacco curtain grace fox private";

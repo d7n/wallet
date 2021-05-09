@@ -1,1 +1,1 @@
-var mnemonic = "flavor thank approve sea spell sense lawsuit wheat merry path cliff slim";
+var mnemonic = "duty loyal stuff real area utility enrich borrow corn evoke brand place";

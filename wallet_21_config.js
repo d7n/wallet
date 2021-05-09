@@ -1,1 +1,1 @@
-var mnemonic = "salad kiss order under engine size diagram enrich bind spin craft match";
+var mnemonic = "soldier brisk loud acoustic park injury other extend post section effort reform";

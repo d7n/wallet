@@ -1,1 +1,1 @@
-var mnemonic = "core behind bomb love spider brand miss myself asthma moon daughter long";
+var mnemonic = "outer rice fury jazz seat wrist labor suspect meadow believe clay chuckle";

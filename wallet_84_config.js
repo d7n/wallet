@@ -1,1 +1,1 @@
-var mnemonic = "biology borrow garage primary eagle update exhibit broccoli desert sibling benefit note";
+var mnemonic = "deer thunder dignity change absurd rose special muscle mix wine melt oval";

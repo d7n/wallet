@@ -1,1 +1,1 @@
-var mnemonic = "first praise enter sibling object arena bridge pilot bulk note theory vacant";
+var mnemonic = "clock quarter arm travel accident wing rigid junk oppose margin chaos actress";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol hazard suggest horn slide village robust remind cram nephew camera symptom";
+var mnemonic = "leisure lobster range pond stock shop poet library broom butter trend garment";

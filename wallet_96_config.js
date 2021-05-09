@@ -1,1 +1,1 @@
-var mnemonic = "boost shy lock skate air barely sugar render below color road lottery";
+var mnemonic = "merry hold educate elder flush erase street act virtual tobacco ranch supply";

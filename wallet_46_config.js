@@ -1,1 +1,1 @@
-var mnemonic = "spoil source saddle click trash sing useful arena negative exercise provide receive";
+var mnemonic = "february unfair review ability ketchup seed inhale bind warrior bench moment hair";

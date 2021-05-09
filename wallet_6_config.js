@@ -1,1 +1,1 @@
-var mnemonic = "accuse stereo glance path control bundle trick transfer fruit typical engage outside";
+var mnemonic = "play sand marine law olive airport dry include strategy review mass hurt";

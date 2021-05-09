@@ -1,1 +1,1 @@
-var mnemonic = "float crater cannon allow fancy boost divorce vendor rival relief danger carbon";
+var mnemonic = "walnut outside build trial daughter detail dentist apology window post social fork";

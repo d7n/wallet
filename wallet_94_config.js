@@ -1,1 +1,1 @@
-var mnemonic = "lumber very elder grain dutch include tunnel brand rabbit crumble pair soup";
+var mnemonic = "caught input lava bid stairs together fee trumpet coach twenty scissors hello";

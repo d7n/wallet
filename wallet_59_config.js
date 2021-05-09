@@ -1,1 +1,1 @@
-var mnemonic = "boat truck error kitchen ghost shaft before add leisure dutch beach whisper";
+var mnemonic = "local sentence rebel sing kiwi bamboo move segment employ hand chaos castle";

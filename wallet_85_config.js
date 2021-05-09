@@ -1,1 +1,1 @@
-var mnemonic = "trial water simple state toast huge purse proud pen soft police easy";
+var mnemonic = "method view robust shrug decrease salute split property enroll market vintage toilet";

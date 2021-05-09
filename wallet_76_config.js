@@ -1,1 +1,1 @@
-var mnemonic = "flash monkey consider budget post clog muffin solid air ocean crawl heavy";
+var mnemonic = "exclude cloth boss mention runway target gym impulse antenna stand grace essay";

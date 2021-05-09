@@ -1,1 +1,1 @@
-var mnemonic = "pudding split way despair crater idle orphan like lyrics draw below trouble";
+var mnemonic = "smooth season thank lift effort clock laugh asthma give easily tent know";

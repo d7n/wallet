@@ -1,1 +1,1 @@
-var mnemonic = "royal gauge raccoon away shiver together oven bamboo same syrup spy job";
+var mnemonic = "attend soap ritual agent bag gasp behind ribbon zero sand soup crazy";

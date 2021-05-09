@@ -1,1 +1,1 @@
-var mnemonic = "dune vocal hen glove debate truck club silly cradle hawk jelly leaf";
+var mnemonic = "basket fruit absorb safe note mass above flock spirit core vehicle capital";

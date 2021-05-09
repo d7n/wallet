@@ -1,1 +1,1 @@
-var mnemonic = "fruit danger finger join apple demand menu talk battle flash general climb";
+var mnemonic = "glue tent empty mouse acquire puzzle skill coyote promote border hill sand";

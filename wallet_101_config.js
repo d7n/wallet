@@ -1,1 +1,1 @@
-var mnemonic = "holiday cigar domain timber leopard idea caution catch panic spy remove finger";
+var mnemonic = "someone problem fantasy turn language neutral depend cheap question wage lyrics video";

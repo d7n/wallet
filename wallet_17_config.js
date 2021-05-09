@@ -1,1 +1,1 @@
-var mnemonic = "alarm brass sea best crystal luxury circle when across decade portion tilt";
+var mnemonic = "asthma left exact six retreat slam clown subway owner just resist save";

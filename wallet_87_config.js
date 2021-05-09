@@ -1,1 +1,1 @@
-var mnemonic = "alpha pluck fun snow race husband leave core balcony exotic large cement";
+var mnemonic = "catalog guide stem fork idea age dust flag define genre labor fame";

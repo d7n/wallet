@@ -1,1 +1,1 @@
-var mnemonic = "couch hurdle imitate squeeze airport search bus rookie course pitch purse garlic";
+var mnemonic = "artist gun tornado depend shrimp purpose zoo animal fruit dumb volume problem";

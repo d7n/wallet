@@ -1,1 +1,1 @@
-var mnemonic = "grant unfold fatal visit blush almost warfare night lens boat buzz street";
+var mnemonic = "gate chronic have agent vanish skin balcony derive taste chunk celery quantum";

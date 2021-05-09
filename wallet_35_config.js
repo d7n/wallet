@@ -1,1 +1,1 @@
-var mnemonic = "seminar pistol priority dragon salon math orphan work major noble news lunar";
+var mnemonic = "comfort grid sudden slush stone artefact scene river deal combine angry wagon";

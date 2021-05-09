@@ -1,1 +1,1 @@
-var mnemonic = "flower income awkward survey client soup syrup candy organ manual rubber daughter";
+var mnemonic = "library rug loud urban tourist picture fun margin rookie surprise idea window";

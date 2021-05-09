@@ -1,1 +1,1 @@
-var mnemonic = "tilt bracket worth account north collect tennis unit bench school tiger boss";
+var mnemonic = "soft zebra vicious renew tunnel sphere unhappy proof tornado business purchase analyst";

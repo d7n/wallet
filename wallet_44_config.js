@@ -1,1 +1,1 @@
-var mnemonic = "unit portion company route yard believe hotel park harbor menu clock bonus";
+var mnemonic = "nominee apple movie jealous wire truth vacant page vehicle lucky unknown achieve";

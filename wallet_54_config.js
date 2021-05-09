@@ -1,1 +1,1 @@
-var mnemonic = "frozen goose various cruel bullet carbon hurt deer chase immense hub gasp";
+var mnemonic = "spend expand physical lonely wash verb nothing evil exotic gravity trash fault";

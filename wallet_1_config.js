@@ -1,1 +1,1 @@
-var mnemonic = "right taxi decline enact mask round column hungry crumble harbor alarm limb";
+var mnemonic = "badge autumn prize popular accuse among laptop gap hire other hub print";

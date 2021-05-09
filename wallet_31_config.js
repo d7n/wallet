@@ -1,1 +1,1 @@
-var mnemonic = "omit nation intact dad area place receive hint mask slice organ deer";
+var mnemonic = "civil rotate dial group spy blind tool between proud lens viable orient";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive sense shoot ring woman scatter cave hat wrestle spirit trick tooth";
+var mnemonic = "power gym april soul bid problem unlock skull exhaust jar clerk exercise";

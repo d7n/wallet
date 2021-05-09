@@ -1,1 +1,1 @@
-var mnemonic = "crash price cool safe digital mouse alone neutral hover hollow apology inflict";
+var mnemonic = "staff weasel car penalty faculty wrap dutch dolphin rate upset nothing hidden";

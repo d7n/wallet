@@ -1,1 +1,1 @@
-var mnemonic = "thing awake best wet online giant abstract charge indoor upset idle snack";
+var mnemonic = "unlock include cliff certain shield soon robust where distance choice extend cash";

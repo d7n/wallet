@@ -1,1 +1,1 @@
-var mnemonic = "prosper enough net rug negative match health ginger leisure faculty business sell";
+var mnemonic = "fall sponsor basic dilemma olympic lizard practice bag chuckle auto pepper mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "arm toast priority gaze blanket famous human figure palm furnace inhale dignity";
+var mnemonic = "author street magnet stick pyramid glue attend wife evidence school hammer noise";

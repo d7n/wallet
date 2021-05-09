@@ -1,1 +1,1 @@
-var mnemonic = "hybrid connect immune essence orient action arena measure again erase bridge reject";
+var mnemonic = "enough runway year sunset public what climb priority comic amazing motion outer";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic shine pair flee enjoy bag change assault work music whip seek";
+var mnemonic = "urban term crouch dog unlock town gun deer stairs brother depth funny";

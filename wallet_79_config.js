@@ -1,1 +1,1 @@
-var mnemonic = "story ride notice gossip street human identify pig design vote girl select";
+var mnemonic = "margin proud glare pet person airport pipe express theory cousin imitate crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery wrap ahead aunt recycle glory wood acid simple biology marble salmon";
+var mnemonic = "bunker replace actor bird ready angle leave jazz pulse payment ivory foot";

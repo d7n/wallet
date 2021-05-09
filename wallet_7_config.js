@@ -1,1 +1,1 @@
-var mnemonic = "motor program sick slam major deer direct library better pupil insane nature";
+var mnemonic = "eager rookie market wait swear crane under moon clarify wonder describe cereal";

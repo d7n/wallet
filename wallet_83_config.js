@@ -1,1 +1,1 @@
-var mnemonic = "bid peanut soccer between attitude any alpha skate absorb faith know clean";
+var mnemonic = "brown chest brown sing swamp crop puzzle cradle become luxury calm present";

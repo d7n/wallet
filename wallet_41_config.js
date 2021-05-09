@@ -1,1 +1,1 @@
-var mnemonic = "dice palm occur range come sadness dragon track clay flat blast banner";
+var mnemonic = "essay plunge frequent dilemma carpet twice resemble fluid royal fee meadow hybrid";

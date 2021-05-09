@@ -1,1 +1,1 @@
-var mnemonic = "gain fiber giggle ensure plug oven blush tattoo cook filter fitness answer";
+var mnemonic = "culture success debris proof alien innocent height robust apple major turn bargain";

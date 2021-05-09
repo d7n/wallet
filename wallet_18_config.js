@@ -1,1 +1,1 @@
-var mnemonic = "nation input gesture achieve piece ordinary inner flower expect crisp render slogan";
+var mnemonic = "quarter chimney tape talk grid patch address crystal shadow train badge vapor";

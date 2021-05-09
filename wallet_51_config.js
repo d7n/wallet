@@ -1,1 +1,1 @@
-var mnemonic = "proof burden car black culture silly attend dismiss satisfy cliff price announce";
+var mnemonic = "motor mention tired renew secret icon bar limb six point wish rebuild";

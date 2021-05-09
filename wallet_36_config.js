@@ -1,1 +1,1 @@
-var mnemonic = "range friend normal excite build giraffe soul brisk silent poem drastic copy";
+var mnemonic = "steel keep abstract trim shop axis exchange glad ginger found grape disease";

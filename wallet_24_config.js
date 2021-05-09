@@ -1,1 +1,1 @@
-var mnemonic = "fan inmate rookie vocal warm record eight swamp smoke merry forget range";
+var mnemonic = "keen afraid fitness unable false flag arrow vague rack edge pattern light";

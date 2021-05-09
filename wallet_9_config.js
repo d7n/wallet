@@ -1,1 +1,1 @@
-var mnemonic = "fog aisle when diary month total hold stomach air slight question cloud";
+var mnemonic = "elegant brown input match quantum blanket hope nut stay sorry scare erosion";

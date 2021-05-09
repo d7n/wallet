@@ -1,1 +1,1 @@
-var mnemonic = "reduce save sample tuition jealous float race escape produce escape collect glare";
+var mnemonic = "cattle law lava upon sorry vessel income midnight surprise dumb problem advice";

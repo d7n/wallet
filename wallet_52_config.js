@@ -1,1 +1,1 @@
-var mnemonic = "decide dentist consider music exotic voice scrub enhance spatial junk food daring";
+var mnemonic = "act exotic almost bomb february aunt fit wall ask practice vacuum awkward";

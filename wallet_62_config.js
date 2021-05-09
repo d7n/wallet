@@ -1,1 +1,1 @@
-var mnemonic = "unfair canvas piano hammer suffer diagram grant tell input around thank random";
+var mnemonic = "embrace cupboard intact social enroll illness pyramid river prosper response liar rally";

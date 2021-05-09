@@ -1,1 +1,1 @@
-var mnemonic = "rate tobacco firm there total giraffe shuffle bird immense hard present nuclear";
+var mnemonic = "desk must fence spice animal earth pelican seek south enable clinic cluster";

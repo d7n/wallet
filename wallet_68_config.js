@@ -1,1 +1,1 @@
-var mnemonic = "win onion dream hazard bless joy hammer day chuckle rough visual mother";
+var mnemonic = "amused tackle essence bless must quality attract defense private gun exhaust stage";

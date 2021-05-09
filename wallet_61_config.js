@@ -1,1 +1,1 @@
-var mnemonic = "water firm insane solid crunch focus jacket inspire awake profit glory jazz";
+var mnemonic = "injury solar submit manage hour tooth renew umbrella good kit faint suffer";

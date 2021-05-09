@@ -1,1 +1,1 @@
-var mnemonic = "version adapt wet reflect estate velvet girl weasel sure sting coconut echo";
+var mnemonic = "stable knee fuel treat bird punch rough round dolphin avocado jewel wish";

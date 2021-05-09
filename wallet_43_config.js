@@ -1,1 +1,1 @@
-var mnemonic = "tissue fitness enemy gate circle post error item rich chest suspect sell";
+var mnemonic = "toilet always merry actor trumpet tide cotton cash law album crawl dice";

@@ -1,1 +1,1 @@
-var mnemonic = "ski glad aspect chicken year capital rather treat collect monitor display foster";
+var mnemonic = "barely ostrich junk badge possible orient seminar emerge shaft segment panda jelly";

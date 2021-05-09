@@ -1,1 +1,1 @@
-var mnemonic = "ostrich brand next climb extend grape all desert armed best sick regret";
+var mnemonic = "cabbage goat busy input time insect juice cabin endless inspire dentist border";

@@ -1,1 +1,1 @@
-var mnemonic = "live symptom always guide become age more cave kangaroo burden cousin frozen";
+var mnemonic = "true snake gap peace leader used such want join practice worry enough";

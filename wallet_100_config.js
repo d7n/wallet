@@ -1,1 +1,1 @@
-var mnemonic = "shoulder convince nature fiction country love receive comic judge mad fitness angry";
+var mnemonic = "total fiber symbol slender grid over obvious system garbage current airport tornado";

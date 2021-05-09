@@ -1,1 +1,1 @@
-var mnemonic = "winter pull dinosaur rate tonight vacuum peasant custom adjust april inside enough";
+var mnemonic = "exotic into million type surround acoustic lottery jar artefact decorate sorry crisp";

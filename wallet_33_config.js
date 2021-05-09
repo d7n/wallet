@@ -1,1 +1,1 @@
-var mnemonic = "mosquito season mind frame salute bus ahead owner have draw open lion";
+var mnemonic = "dwarf hurry below runway squirrel patrol detect fix layer dinner train west";

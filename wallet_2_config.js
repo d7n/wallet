@@ -1,1 +1,1 @@
-var mnemonic = "dial clay spice fence reason filter syrup exercise loan disorder aisle order";
+var mnemonic = "domain need like trend travel noodle dynamic ring barrel infant animal race";

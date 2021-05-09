@@ -1,1 +1,1 @@
-var mnemonic = "merge team anchor firm outdoor check later cereal dust silly urge joke";
+var mnemonic = "island fold grid march joy rain subject thrive nest hint panther pretty";

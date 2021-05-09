@@ -1,1 +1,1 @@
-var mnemonic = "hungry spike check road width bonus photo educate slender bullet cycle jar";
+var mnemonic = "arrow impose funny follow nut kiwi nose mushroom tuition pulse false plunge";

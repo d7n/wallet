@@ -1,1 +1,1 @@
-var mnemonic = "cage retreat across decorate scan noble scan vibrant march tourist cheap scrub";
+var mnemonic = "arrive among news heart behind peanut palace game noodle wish auto future";

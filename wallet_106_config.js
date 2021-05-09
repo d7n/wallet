@@ -1,1 +1,1 @@
-var mnemonic = "clinic satoshi club kangaroo toilet sponsor rug menu flee there remove enjoy";
+var mnemonic = "rough indicate increase save inner ability draw cycle timber like matter entry";

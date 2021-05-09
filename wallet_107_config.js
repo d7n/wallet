@@ -1,1 +1,1 @@
-var mnemonic = "swallow spray satoshi answer oblige lens grow artwork student foster protect awful";
+var mnemonic = "space slice tuna curve swift brass focus lucky fade coffee fall tooth";

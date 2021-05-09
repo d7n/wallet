@@ -1,1 +1,1 @@
-var mnemonic = "venture radar ball elephant jazz govern switch kind assault high give source";
+var mnemonic = "enlist profit skill siren wheat task recipe unknown spatial omit fly heart";

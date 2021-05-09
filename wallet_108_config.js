@@ -1,1 +1,1 @@
-var mnemonic = "border select lemon dizzy drink left clerk before pact buddy hammer blouse";
+var mnemonic = "soon average indicate jacket nation toss govern divide lunar lava proud hen";

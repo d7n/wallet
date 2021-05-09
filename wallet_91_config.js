@@ -1,1 +1,1 @@
-var mnemonic = "toddler copper chase champion suspect uncle human machine ancient beef meadow liquid";
+var mnemonic = "draft unlock envelope puppy egg inmate artefact subject interest voyage dance enforce";

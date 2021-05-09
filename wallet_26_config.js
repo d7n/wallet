@@ -1,1 +1,1 @@
-var mnemonic = "myth kid clinic tank double demise token roast have over artist rare";
+var mnemonic = "candy chat unhappy select viable shoulder august reason giant plate hollow tennis";

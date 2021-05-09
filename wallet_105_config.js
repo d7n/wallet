@@ -1,1 +1,1 @@
-var mnemonic = "grunt large tunnel cross mixture wheel sibling tower client present goose aisle";
+var mnemonic = "keep soccer helmet raven timber jacket violin bless total mansion tomato ribbon";

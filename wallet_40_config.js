@@ -1,1 +1,1 @@
-var mnemonic = "work melt angry crowd else away eye owner proof regret march neck";
+var mnemonic = "license keep health depth unlock health mountain cry genuine debris joy stable";

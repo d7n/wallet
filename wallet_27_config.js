@@ -1,1 +1,1 @@
-var mnemonic = "domain hard anxiety valley smart lawsuit gate drop like worth pond brand";
+var mnemonic = "hand umbrella deposit solution sunny lazy crowd rubber unit winner remind slogan";

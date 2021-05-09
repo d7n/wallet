@@ -1,1 +1,1 @@
-var mnemonic = "aspect observe turn syrup rule task above link scout spend foam scare";
+var mnemonic = "drink spare food satoshi excuse vacant clay tourist certain forward stairs ordinary";

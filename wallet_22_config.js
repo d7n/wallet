@@ -1,1 +1,1 @@
-var mnemonic = "curve bomb multiply fox vote lion bicycle dish proof master antique hurry";
+var mnemonic = "cargo trap differ cat act divert avoid skull figure flat elegant waste";

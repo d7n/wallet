@@ -1,1 +1,1 @@
-var mnemonic = "sister chuckle pear muscle program monitor ramp meat plastic ribbon fruit pretty";
+var mnemonic = "success pool arrive trophy hidden honey inform dirt forward wash screen action";

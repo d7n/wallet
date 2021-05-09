@@ -1,1 +1,1 @@
-var mnemonic = "dolphin display slot mean diesel infant parent lunar stool pitch urban welcome";
+var mnemonic = "minute bench usual luggage work empty action room buzz crouch wrist undo";

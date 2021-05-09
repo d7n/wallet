@@ -1,1 +1,1 @@
-var mnemonic = "draft cruise one inject mail idea legend gadget lottery omit juice renew";
+var mnemonic = "switch craft ship sibling girl oblige blood decade inject hip expand frown";

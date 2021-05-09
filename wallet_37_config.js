@@ -1,1 +1,1 @@
-var mnemonic = "stock electric devote business clerk sword village desert horn omit situate salon";
+var mnemonic = "hire action garden awkward hurdle couch derive page mosquito pair all arctic";

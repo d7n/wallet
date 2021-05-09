@@ -1,1 +1,1 @@
-var mnemonic = "phone april name pyramid alter roast unlock episode foam ghost fashion other";
+var mnemonic = "nasty glare impulse poverty fan long fragile high congress process fork logic";

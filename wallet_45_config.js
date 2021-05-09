@@ -1,1 +1,1 @@
-var mnemonic = "edit huge convince settle cinnamon cute access chaos render produce potato write";
+var mnemonic = "about monkey timber spring spell miss inquiry distance vessel alert grocery march";

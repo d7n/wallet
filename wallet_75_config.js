@@ -1,1 +1,1 @@
-var mnemonic = "tube very fish observe limit grow drill onion until face city hip";
+var mnemonic = "point awful vital process zebra shadow provide rate property midnight naive drift";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug flame virus lend hour beef rate wrong lazy rule copper cattle";
+var mnemonic = "student age tired rule moral indoor survey fan tank purity powder curve";

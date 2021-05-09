@@ -1,1 +1,1 @@
-var mnemonic = "wash escape true proud pitch thing mechanic office remember satisfy curtain long";
+var mnemonic = "cricket seek hunt spatial rail conduct order pencil nurse marriage ozone atom";
