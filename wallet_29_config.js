@@ -1,1 +1,1 @@
-var mnemonic = "umbrella undo deliver zoo sponsor fence tooth ecology capable double fault knee";
+var mnemonic = "outside draft solar hockey hub token reopen cricket season comfort dose infant";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket setup shine hunt celery science pink equal arrow attract below river";
+var mnemonic = "conduct mirror genuine shiver desk spend author sugar law lock sorry spread";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle regular rebuild fade vocal silent dutch daring tray question dignity saddle";
+var mnemonic = "occur jelly found clerk exhibit vacuum hockey face kiss badge correct beef";

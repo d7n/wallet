@@ -1,1 +1,1 @@
-var mnemonic = "wool squirrel public capable document velvet artefact busy fringe shine eye among";
+var mnemonic = "motor fiscal fresh chimney weird resemble payment energy main notable govern carry";

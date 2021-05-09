@@ -1,1 +1,1 @@
-var mnemonic = "parade replace right awesome cricket grow card citizen razor ticket story pause";
+var mnemonic = "feature mask again crop hidden sweet annual nut coin august conduct cupboard";

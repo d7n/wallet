@@ -1,1 +1,1 @@
-var mnemonic = "spot destroy case pig piece reward young person sorry body dynamic ahead";
+var mnemonic = "chuckle lawsuit tag wedding banner salon impose seed meadow enemy track lamp";

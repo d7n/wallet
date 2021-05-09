@@ -1,1 +1,1 @@
-var mnemonic = "confirm figure enrich rocket faculty outer rail rifle illness avoid host useless";
+var mnemonic = "found knock sign guard athlete gown style swap thought federal alien need";

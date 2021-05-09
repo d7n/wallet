@@ -1,1 +1,1 @@
-var mnemonic = "thought clean vendor glimpse middle venue together evil void parrot mistake recipe";
+var mnemonic = "empty tiny coil ladder rebel electric maid degree space reflect rose invest";

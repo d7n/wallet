@@ -1,1 +1,1 @@
-var mnemonic = "room simple buddy sadness poet nut logic word bicycle quality frozen disagree";
+var mnemonic = "give mirror crumble leopard make long position frozen spike smooth vacant sauce";

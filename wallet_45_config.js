@@ -1,1 +1,1 @@
-var mnemonic = "soon pottery image toast engage idle radar shop ozone general oven liquid";
+var mnemonic = "seat sun range dwarf cake sure reunion consider later scale wrist elbow";

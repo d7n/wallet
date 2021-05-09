@@ -1,1 +1,1 @@
-var mnemonic = "hybrid ramp surface measure vacant faint ripple memory vast cruise bamboo embark";
+var mnemonic = "method random salt twice tragic census sense anchor dove claim poverty flight";

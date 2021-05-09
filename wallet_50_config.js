@@ -1,1 +1,1 @@
-var mnemonic = "you phrase vivid monkey fantasy wide curve pave sheriff liar curve token";
+var mnemonic = "enough dirt foam enter amazing time device limb appear ship token keen";

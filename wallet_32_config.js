@@ -1,1 +1,1 @@
-var mnemonic = "hurt silver ticket crawl obtain eyebrow dawn topic thing journey afraid december";
+var mnemonic = "good mail town actor father donkey early wink journey one outer negative";

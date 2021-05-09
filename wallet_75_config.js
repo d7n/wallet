@@ -1,1 +1,1 @@
-var mnemonic = "wing glory lake course much assist sorry endless fatigue pelican grid bomb";
+var mnemonic = "picnic swallow album process tongue virus cupboard pause guide tuna umbrella problem";

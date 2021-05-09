@@ -1,1 +1,1 @@
-var mnemonic = "room morning sport spoil draw hour add day swift wedding doctor polar";
+var mnemonic = "border nest artwork tooth mercy museum destroy before drip tomato birth bring";

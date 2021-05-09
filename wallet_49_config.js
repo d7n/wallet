@@ -1,1 +1,1 @@
-var mnemonic = "crowd dune box myself federal across endless behave hand action blue hockey";
+var mnemonic = "hole rhythm antique miracle deer salad grain want awkward key embark exercise";

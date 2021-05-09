@@ -1,1 +1,1 @@
-var mnemonic = "submit boat bus wrap journey together boil expose sheriff spirit grow clutch";
+var mnemonic = "pigeon buyer rescue salmon cover wood result apart trim return priority matter";

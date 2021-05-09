@@ -1,1 +1,1 @@
-var mnemonic = "trim ordinary tree top gorilla adult scorpion depart excite arrow sweet relief";
+var mnemonic = "fuel rate nuclear bright zebra master grant tail wasp sleep never anxiety";

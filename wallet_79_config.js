@@ -1,1 +1,1 @@
-var mnemonic = "limit surprise gasp eager twice relax game west awake inspire pill protect";
+var mnemonic = "scare library tattoo tunnel milk erode wrong gasp habit loan eight swear";

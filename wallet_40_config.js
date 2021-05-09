@@ -1,1 +1,1 @@
-var mnemonic = "price express inner ball iron weapon zero razor water era blood pact";
+var mnemonic = "display car pottery sweet cattle cause smoke alert potato smile goose animal";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold effort tackle loud idea pen slender depart turtle beauty useful shield";
+var mnemonic = "tragic expand canoe ribbon turtle rifle detect advice shy announce eager spin";

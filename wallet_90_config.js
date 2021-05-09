@@ -1,1 +1,1 @@
-var mnemonic = "blood member matrix history tip sniff lock people thing trick inform myth";
+var mnemonic = "horn beef inject oblige ahead detail rebel man drama congress dash chest";

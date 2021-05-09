@@ -1,1 +1,1 @@
-var mnemonic = "human rare crime photo similar derive resource tell excite spring client glove";
+var mnemonic = "guess hidden seek okay install pepper glide ceiling middle choice junior donate";

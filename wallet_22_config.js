@@ -1,1 +1,1 @@
-var mnemonic = "tuna bundle churn version learn wild win question absent aspect stumble picnic";
+var mnemonic = "recall maid purity bag behind drive trust strategy fee perfect rebel end";

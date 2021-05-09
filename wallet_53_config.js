@@ -1,1 +1,1 @@
-var mnemonic = "blue satisfy sound stadium jaguar text habit swear print entry liquid scrub";
+var mnemonic = "utility wish legend truly divert cram swift coil exotic race kid luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "force matter century army sand rhythm dumb infant able tube omit eye";
+var mnemonic = "then arrest humble vacant ten sick split lift fork seek park among";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf boat canyon slim discover upon trim issue bag biology few unveil";
+var mnemonic = "gown dinosaur rally predict urban patient act atom senior doll exact twin";

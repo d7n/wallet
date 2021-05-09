@@ -1,1 +1,1 @@
-var mnemonic = "soda cradle squeeze useful truth clock step unaware select caution tool fuel";
+var mnemonic = "title kit abandon super gun nut light size drop property olive match";

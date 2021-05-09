@@ -1,1 +1,1 @@
-var mnemonic = "cup palm mention buddy possible boring cabin lemon suspect ceiling chronic breeze";
+var mnemonic = "sunset regret region view favorite purity barely cement right tackle ghost sound";

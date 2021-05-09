@@ -1,1 +1,1 @@
-var mnemonic = "version accident neutral expose engine frost beauty intact marine palace shy enemy";
+var mnemonic = "member usage online target unveil major fork doctor absurd wear strike horse";

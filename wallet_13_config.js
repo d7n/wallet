@@ -1,1 +1,1 @@
-var mnemonic = "hope observe hamster liberty action sample early salon grief opinion gallery arena";
+var mnemonic = "shoulder episode artwork science wife ripple move mesh oak cactus cactus smile";

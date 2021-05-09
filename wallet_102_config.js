@@ -1,1 +1,1 @@
-var mnemonic = "tide trick remind stand caution toward ostrich energy dad afford liquid hidden";
+var mnemonic = "present example sad album broken seed knee alarm board wing glory twin";

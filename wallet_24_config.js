@@ -1,1 +1,1 @@
-var mnemonic = "cake right near undo broom seat ski beyond drip mask nerve box";
+var mnemonic = "zone palace funny scene alert speed breeze become rapid velvet ethics flight";

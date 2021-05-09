@@ -1,1 +1,1 @@
-var mnemonic = "multiply famous bacon ceiling crouch toast almost agent leg keen raise credit";
+var mnemonic = "rail van heart average swarm lift similar slim amateur village dilemma gesture";

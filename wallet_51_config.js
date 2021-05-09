@@ -1,1 +1,1 @@
-var mnemonic = "alcohol smile gate ignore patch observe reduce goose royal awesome bonus square";
+var mnemonic = "cattle office black release smooth medal joke family whip vehicle puzzle expand";

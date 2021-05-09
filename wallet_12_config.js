@@ -1,1 +1,1 @@
-var mnemonic = "hub describe shield alone around spirit first dynamic list afford tunnel ten";
+var mnemonic = "still jeans solid economy struggle movie regret ship rude orchard bicycle nominee";

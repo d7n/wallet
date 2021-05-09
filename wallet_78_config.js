@@ -1,1 +1,1 @@
-var mnemonic = "drift pulp coyote combine hole happy illness broom know you primary universe";
+var mnemonic = "toward seat surface curve select gorilla brain trash goose victory bottom coil";

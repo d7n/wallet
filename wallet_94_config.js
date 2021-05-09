@@ -1,1 +1,1 @@
-var mnemonic = "patrol reform number horn roast balance jewel repeat area make judge oxygen";
+var mnemonic = "crane fluid amount soon bubble novel ability sight pen favorite clean gown";

@@ -1,1 +1,1 @@
-var mnemonic = "gas will detail robot wish govern warfare scene vintage debris current tomato";
+var mnemonic = "nut sing phrase say pair ribbon swift increase rug immune noise panda";

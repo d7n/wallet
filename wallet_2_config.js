@@ -1,1 +1,1 @@
-var mnemonic = "harsh soda job ugly mail answer truth increase panther sudden open depend";
+var mnemonic = "squeeze race panic crazy type gloom neck assist deal wife swamp faint";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar page torch budget evolve shallow nation venue pool fruit page run";
+var mnemonic = "auto math size rhythm mass brown amazing jeans balance biology monitor uniform";

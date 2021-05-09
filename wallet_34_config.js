@@ -1,1 +1,1 @@
-var mnemonic = "civil expose ramp remind connect hurt track salad help neglect stomach unfair";
+var mnemonic = "frown more talent menu pool token employ wrestle long shove patrol recall";

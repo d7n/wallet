@@ -1,1 +1,1 @@
-var mnemonic = "road fit will spoil insect ethics admit remind expire valid story coral";
+var mnemonic = "describe pear wisdom snake potato polar seat embrace noble sport hero margin";

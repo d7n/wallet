@@ -1,1 +1,1 @@
-var mnemonic = "flame casual govern toe clay property bronze few remember dismiss ceiling salon";
+var mnemonic = "glue kit sniff chief wave sketch chef attitude text spirit feel fatal";

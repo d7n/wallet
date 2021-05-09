@@ -1,1 +1,1 @@
-var mnemonic = "swap reflect slogan load olympic solar wire sadness outer vendor harvest breeze";
+var mnemonic = "deliver vehicle shield movie orange aspect candy carry various mountain claim hybrid";

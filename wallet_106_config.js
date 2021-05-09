@@ -1,1 +1,1 @@
-var mnemonic = "final maze merge smoke settle brand farm solar manage obscure bottom follow";
+var mnemonic = "solid discover hello help wrong world wink bomb old cause pass whale";

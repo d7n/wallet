@@ -1,1 +1,1 @@
-var mnemonic = "chuckle symbol garden behind record mom squeeze travel diesel damage receive gas";
+var mnemonic = "valley broccoli vacuum wild gossip illegal rubber result mad another pair bomb";

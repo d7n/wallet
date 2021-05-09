@@ -1,1 +1,1 @@
-var mnemonic = "maid news vocal figure pond inch gasp proof fortune online rug ginger";
+var mnemonic = "deny net transfer meadow wide decade slam day shock ticket word crash";

@@ -1,1 +1,1 @@
-var mnemonic = "visa tired mix ivory fence rebuild harsh defense crucial visit frog drink";
+var mnemonic = "paddle involve gasp staff rebuild voyage outside royal piano siren wheel oak";

@@ -1,1 +1,1 @@
-var mnemonic = "hero lunar way curtain calm master scheme surprise twenty knife laptop energy";
+var mnemonic = "gossip inner entire decrease upgrade resist obscure husband gorilla december pipe frown";

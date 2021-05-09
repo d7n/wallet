@@ -1,1 +1,1 @@
-var mnemonic = "spare swing magnet west submit scene ghost talent bamboo settle dutch melt";
+var mnemonic = "receive borrow canal auto poverty scale lumber elder wheat picnic mail town";

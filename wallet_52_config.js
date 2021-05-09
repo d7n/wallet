@@ -1,1 +1,1 @@
-var mnemonic = "wood return ignore air robot poet sudden fortune moon quality tree slam";
+var mnemonic = "panther pottery kitchen heart enact foam step wild honey round review reflect";

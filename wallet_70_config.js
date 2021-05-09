@@ -1,1 +1,1 @@
-var mnemonic = "exchange distance pride chair ginger jazz undo heavy wing skirt view ivory";
+var mnemonic = "disagree churn birth act pony else solution nice yellow equip demise enemy";

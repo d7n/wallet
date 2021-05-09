@@ -1,1 +1,1 @@
-var mnemonic = "learn poet layer soap faint jar soda pause erupt possible shift gym";
+var mnemonic = "level mixed orphan world hundred ride swear car bundle busy level control";

@@ -1,1 +1,1 @@
-var mnemonic = "angle nasty bring miss truth blade hand bless garden profit winner sea";
+var mnemonic = "nose manual mechanic title claw medal cake eight there april match current";

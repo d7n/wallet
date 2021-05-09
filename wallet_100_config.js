@@ -1,1 +1,1 @@
-var mnemonic = "unveil ticket drop sunset fluid similar shallow hamster foot about cupboard leopard";
+var mnemonic = "mandate possible talk jump invest note idle arrange average crew crush wise";

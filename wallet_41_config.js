@@ -1,1 +1,1 @@
-var mnemonic = "need next youth party lemon benefit skill carry soup betray attack author";
+var mnemonic = "morning poverty jump bright latin iron problem finger expire medal setup advance";

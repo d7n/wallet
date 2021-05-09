@@ -1,1 +1,1 @@
-var mnemonic = "only gravity very raccoon butter document journey nephew cave reflect thank vivid";
+var mnemonic = "burden dance property shadow educate orbit excess scrub scene entry control depart";

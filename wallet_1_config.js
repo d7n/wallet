@@ -1,1 +1,1 @@
-var mnemonic = "fortune add stick sand party expire smart output pond hidden ready wedding";
+var mnemonic = "image original portion rely drill divide dizzy blush expect math salt gauge";

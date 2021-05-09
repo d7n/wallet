@@ -1,1 +1,1 @@
-var mnemonic = "shove senior review team junk peasant simple hood toddler math promote capable";
+var mnemonic = "lounge patch fresh under turn equal account twenty genre process olympic dish";

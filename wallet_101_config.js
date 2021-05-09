@@ -1,1 +1,1 @@
-var mnemonic = "pudding leader flat kind review adjust base suggest sort craft crime chest";
+var mnemonic = "lock cream odor breeze interest nurse invest core pelican mix boil cram";

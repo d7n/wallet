@@ -1,1 +1,1 @@
-var mnemonic = "race bless eyebrow ready helmet idle kick piano hero narrow guess plug";
+var mnemonic = "squeeze lawsuit blush donor powder wave security dash kiss glow average veteran";

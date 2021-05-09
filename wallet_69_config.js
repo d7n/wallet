@@ -1,1 +1,1 @@
-var mnemonic = "boat dog scale oval plug gadget inch grant volcano employ story outer";
+var mnemonic = "grocery turn debris story merge hen talk yard team crater address trouble";

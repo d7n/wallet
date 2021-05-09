@@ -1,1 +1,1 @@
-var mnemonic = "table feature icon blind youth bounce roast resemble there clap vacant seminar";
+var mnemonic = "cross retreat mix acquire lend scan feed broom item donate thrive erupt";

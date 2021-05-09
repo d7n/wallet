@@ -1,1 +1,1 @@
-var mnemonic = "boss have nation upper forward trash deliver supply coast account evil damp";
+var mnemonic = "heart lecture check marine hurt horse laundry always fantasy youth police stereo";

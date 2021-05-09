@@ -1,1 +1,1 @@
-var mnemonic = "twelve beauty envelope chuckle help minor future vital chuckle slab poverty enough";
+var mnemonic = "sad universe equip pole quality vintage join correct razor erode tape burst";

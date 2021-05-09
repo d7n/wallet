@@ -1,1 +1,1 @@
-var mnemonic = "mad choice capable robust select ostrich fun daughter arrest unique birth mosquito";
+var mnemonic = "tent under ticket finger economy false wife trigger book real token cake";

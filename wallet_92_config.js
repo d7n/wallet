@@ -1,1 +1,1 @@
-var mnemonic = "recall latin venue audit swallow glow fever plate guitar leaf sunny grocery";
+var mnemonic = "since frown verb quality dawn garage melt math knee virus lake baby";

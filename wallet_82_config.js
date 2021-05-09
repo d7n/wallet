@@ -1,1 +1,1 @@
-var mnemonic = "air abandon moon scorpion concert year winter major volume market wedding cake";
+var mnemonic = "beauty acid artist dawn device witness begin return taste twenty custom magic";

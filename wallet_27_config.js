@@ -1,1 +1,1 @@
-var mnemonic = "bright chaos check mixture must dilemma gaze quote insane angry right away";
+var mnemonic = "height type illegal sock census hammer pet senior number pluck version risk";

@@ -1,1 +1,1 @@
-var mnemonic = "apology jazz defense shell cross glass orphan witness camp key climb cargo";
+var mnemonic = "hunt olympic fix reopen excess cancel sauce letter web luggage lemon test";

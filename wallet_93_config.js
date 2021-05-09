@@ -1,1 +1,1 @@
-var mnemonic = "excite cancel board belt soda dash satisfy vital truly lawn range alpha";
+var mnemonic = "dream play blood entire where struggle marine extend milk swift anxiety jelly";

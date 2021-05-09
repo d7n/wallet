@@ -1,1 +1,1 @@
-var mnemonic = "cactus cannon apology net toilet amused various patrol spray total unveil arena";
+var mnemonic = "permit dolphin drill toast into chase onion wife inside note tilt detect";

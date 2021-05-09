@@ -1,1 +1,1 @@
-var mnemonic = "eternal alpha decrease gentle paper great edge neck chronic example easily prefer";
+var mnemonic = "model always nephew broccoli silver drift twin effort bean erosion lion insect";

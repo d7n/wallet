@@ -1,1 +1,1 @@
-var mnemonic = "cram onion tennis achieve update fruit fire orbit mad hill room harvest";
+var mnemonic = "amazing elevator answer report junior motion across program where body beyond avoid";

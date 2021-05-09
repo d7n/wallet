@@ -1,1 +1,1 @@
-var mnemonic = "erosion twice term tongue taste crucial sure beauty fuel hurry yard foster";
+var mnemonic = "grape jacket hero butter duck domain physical happy melt intact ball post";

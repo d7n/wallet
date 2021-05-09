@@ -1,1 +1,1 @@
-var mnemonic = "win pink subway security cluster bunker access trophy butter pelican hazard ranch";
+var mnemonic = "salad cupboard swamp cluster message essay just drop fiction tackle then idea";

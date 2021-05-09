@@ -1,1 +1,1 @@
-var mnemonic = "surprise liar ozone olive jar dinosaur discover bone horror spring fatigue latin";
+var mnemonic = "cabin scorpion flat damp plate yellow february topic ball describe mystery clutch";

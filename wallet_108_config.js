@@ -1,1 +1,1 @@
-var mnemonic = "bar potato play bachelor doctor glance whip paddle crash master border retreat";
+var mnemonic = "ask protect collect polar organ pass lounge frequent adapt sight unfair pluck";

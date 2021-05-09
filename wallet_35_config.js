@@ -1,1 +1,1 @@
-var mnemonic = "cat material song either twice carry shaft disagree anxiety recall cake just";
+var mnemonic = "annual general embark country blade anchor toss permit manual learn drip meadow";

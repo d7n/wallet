@@ -1,1 +1,1 @@
-var mnemonic = "walk ozone eye neglect provide hood shield solar marriage canoe happy refuse";
+var mnemonic = "initial battle note palace mean express keen velvet disease guard waste proud";

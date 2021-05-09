@@ -1,1 +1,1 @@
-var mnemonic = "ecology moon review divorce belt setup dial hire between reunion grid rug";
+var mnemonic = "height agent title retire fossil trouble include awesome use leave way urban";

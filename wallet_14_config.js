@@ -1,1 +1,1 @@
-var mnemonic = "wife push give cute topple enemy sell peace blur rent mother arrive";
+var mnemonic = "reopen knife aerobic today float salon seven caught coil reunion follow swallow";

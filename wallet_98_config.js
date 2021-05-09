@@ -1,1 +1,1 @@
-var mnemonic = "note pulse sustain urge age black exile unaware nice jazz sketch weird";
+var mnemonic = "gas split gown please soccer climb recall ill position proof exchange economy";

@@ -1,1 +1,1 @@
-var mnemonic = "venture element despair coral repair habit security silent exact middle such tray";
+var mnemonic = "reason believe hero orchard swear churn peanut diesel share worry social barely";

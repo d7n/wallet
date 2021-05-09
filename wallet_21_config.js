@@ -1,1 +1,1 @@
-var mnemonic = "volcano cliff mass enter wreck floor lucky rice degree wife decrease between";
+var mnemonic = "record dismiss shove then summer burst seed cook tree scare rich sadness";

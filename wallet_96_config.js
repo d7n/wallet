@@ -1,1 +1,1 @@
-var mnemonic = "weird agent goat slender version defense album eyebrow jacket mirror naive push";
+var mnemonic = "gauge affair galaxy sell catalog spread multiply pioneer act drama venue grain";

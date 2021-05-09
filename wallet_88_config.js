@@ -1,1 +1,1 @@
-var mnemonic = "culture swamp lucky guilt erase around fortune act diamond twelve news solar";
+var mnemonic = "cradle okay bar much angry drama farm party pumpkin benefit dust view";

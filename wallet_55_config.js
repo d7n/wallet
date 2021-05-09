@@ -1,1 +1,1 @@
-var mnemonic = "act arrange crater rely box sorry chunk renew raise cliff witness change";
+var mnemonic = "wheel canoe evolve wood family game manual ask rescue oven pig cup";

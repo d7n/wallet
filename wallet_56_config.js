@@ -1,1 +1,1 @@
-var mnemonic = "fury never fortune system upper regret primary fork lazy scale actor garlic";
+var mnemonic = "cave lonely balance code shoot vote reward ginger dose deny arena true";

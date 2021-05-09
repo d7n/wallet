@@ -1,1 +1,1 @@
-var mnemonic = "strong trade scrap mystery system coach inspire fine assume post object convince";
+var mnemonic = "culture peanut doctor crawl unhappy candy object spoon news throw swear fee";
