@@ -1,1 +1,1 @@
-var mnemonic = "victory intact timber loop blast always bitter toward force option violin clinic";
+var mnemonic = "cream harsh divide afford day kitchen thought garage gorilla coral inquiry refuse";

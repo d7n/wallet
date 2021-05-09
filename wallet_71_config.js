@@ -1,1 +1,1 @@
-var mnemonic = "setup snake energy refuse hire child all cube garden nerve clerk ostrich";
+var mnemonic = "goat escape real damp avoid rain goddess suggest soda loud fossil write";

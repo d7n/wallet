@@ -1,1 +1,1 @@
-var mnemonic = "abstract dolphin pony elevator salute debate defy ladder vast august stuff owner";
+var mnemonic = "resource search chase panel night start spawn length bronze token expose old";

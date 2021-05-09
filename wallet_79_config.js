@@ -1,1 +1,1 @@
-var mnemonic = "wave calm cargo begin amazing clever nephew require shaft trophy tumble suggest";
+var mnemonic = "program brick episode witness dilemma siege afford actress nation crawl banner sail";

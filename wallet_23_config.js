@@ -1,1 +1,1 @@
-var mnemonic = "bubble change series spend hood arrow close aware glad wish opinion beyond";
+var mnemonic = "neglect initial perfect brown reduce tent escape ozone manage hamster scale aware";

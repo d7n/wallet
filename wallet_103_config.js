@@ -1,1 +1,1 @@
-var mnemonic = "amateur mind dynamic require anchor victory cat oxygen earth hurry retire other";
+var mnemonic = "match stage long valid addict accuse leisure adjust trade wedding enough into";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum case what board text ready paper delay tortoise cancel segment disorder";
+var mnemonic = "beauty assume choose exile reform culture suit harbor cover face choice blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse reunion elegant vendor process market doctor camp adjust chuckle month visual";
+var mnemonic = "bean romance bicycle flight fatal juice face trick garden nominee shallow express";

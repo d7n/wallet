@@ -1,1 +1,1 @@
-var mnemonic = "sign husband victory half announce need ocean fantasy pulse used unhappy exclude";
+var mnemonic = "response child crisp then insane bag exhaust logic quantum accident nerve service";

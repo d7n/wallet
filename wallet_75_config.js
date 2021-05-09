@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow enable stereo process tornado jacket arctic kid black column increase method";
+var mnemonic = "cause own slight today century word stone purity alien cash open river";

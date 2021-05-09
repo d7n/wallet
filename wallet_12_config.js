@@ -1,1 +1,1 @@
-var mnemonic = "effort wrestle dash humor endless they police receive glimpse action lady breeze";
+var mnemonic = "enlist mountain boss sniff motor ginger point major mammal clerk rhythm charge";

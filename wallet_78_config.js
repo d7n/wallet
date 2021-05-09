@@ -1,1 +1,1 @@
-var mnemonic = "slender stay dose area valid juice pig random air gravity foam segment";
+var mnemonic = "street pride gossip used skill slide solar orange family omit large two";

@@ -1,1 +1,1 @@
-var mnemonic = "together zebra gauge sure wrong chunk joy mask matter mimic stumble gasp";
+var mnemonic = "exchange ghost vibrant add swap energy hurdle fortune off frozen history strategy";

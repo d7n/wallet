@@ -1,1 +1,1 @@
-var mnemonic = "slam brick brave fuel excess domain canyon brave diet trim actor reunion";
+var mnemonic = "satoshi tongue crash tuna merry stock flame medal aware visual oak model";

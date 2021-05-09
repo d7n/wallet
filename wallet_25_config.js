@@ -1,1 +1,1 @@
-var mnemonic = "again snack until illegal coil cook suit artwork fancy cart wisdom loop";
+var mnemonic = "casual mask together civil cable robust crawl firm stumble trumpet outdoor laptop";

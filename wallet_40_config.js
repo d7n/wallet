@@ -1,1 +1,1 @@
-var mnemonic = "wrong bridge obscure umbrella lawsuit deliver crime idea still gravity twin include";
+var mnemonic = "eight stone across master source club abstract paper uncover pony six quote";

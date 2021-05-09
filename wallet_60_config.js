@@ -1,1 +1,1 @@
-var mnemonic = "kick accident secret unfold steak swing half table dish century notable cliff";
+var mnemonic = "style stick addict hill flip employ clump ramp rate great divide witness";

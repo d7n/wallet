@@ -1,1 +1,1 @@
-var mnemonic = "garlic kingdom expect dinner cute bid chapter pupil charge catch rubber reform";
+var mnemonic = "mixed offer speed tooth arrow salt payment spare plate window elephant medal";

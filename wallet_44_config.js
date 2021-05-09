@@ -1,1 +1,1 @@
-var mnemonic = "meat more oppose cinnamon screen pluck faint only rescue final spirit toast";
+var mnemonic = "episode example milk session alley analyst follow nurse letter oil cup staff";

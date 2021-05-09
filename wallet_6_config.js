@@ -1,1 +1,1 @@
-var mnemonic = "glow artwork drama annual fragile bag park kiwi judge wedding pool reform";
+var mnemonic = "capable region someone olive farm mosquito urge wrist pitch castle tonight ice";

@@ -1,1 +1,1 @@
-var mnemonic = "maze engage side they quiz burst wrist cabin curious trust ready tongue";
+var mnemonic = "police winner carry cube explain husband celery outdoor cushion tumble punch sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "frog wise trust key skirt fiscal dentist news allow cage situate gossip";
+var mnemonic = "wheat dice fuel today fatigue copper erupt impulse bus scene snake consider";

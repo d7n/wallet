@@ -1,1 +1,1 @@
-var mnemonic = "plug stage favorite south robot arena popular remain sniff rich lift trial";
+var mnemonic = "hotel page notable alien dove humor dutch ceiling axis energy benefit volcano";

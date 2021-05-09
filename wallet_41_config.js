@@ -1,1 +1,1 @@
-var mnemonic = "insane athlete odor grab blouse world try park sniff menu employ misery";
+var mnemonic = "unique banner still physical enter gadget biology squirrel manage double frost copy";

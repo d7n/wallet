@@ -1,1 +1,1 @@
-var mnemonic = "bone skirt type motion luggage pitch fire alert candy magnet february satoshi";
+var mnemonic = "hard matter train yellow coil tent smart large verb delay mutual fit";

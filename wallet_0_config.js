@@ -1,1 +1,1 @@
-var mnemonic = "acquire next curtain stand album metal simple combine apart group matter holiday";
+var mnemonic = "alley orient clock rent width giraffe scare suggest boat mushroom forum nerve";

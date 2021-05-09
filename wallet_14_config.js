@@ -1,1 +1,1 @@
-var mnemonic = "chicken mad turtle buddy luggage online clay gospel announce during tumble angle";
+var mnemonic = "obscure worry pottery chief minor joy radar enrich banana trash use merge";

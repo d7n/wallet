@@ -1,1 +1,1 @@
-var mnemonic = "garlic egg foam desert kingdom axis size sell scorpion process helmet normal";
+var mnemonic = "remember rough myself brass chest climb drink keen melt keep dice alert";

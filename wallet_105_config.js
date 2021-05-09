@@ -1,1 +1,1 @@
-var mnemonic = "quiz various happy chronic pizza giggle define merge trip lemon talent tent";
+var mnemonic = "endorse balcony luxury final feed gain awful stairs cart chaos lunar raven";

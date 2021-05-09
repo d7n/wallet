@@ -1,1 +1,1 @@
-var mnemonic = "web trumpet laptop aunt warfare random razor extra walnut check marine word";
+var mnemonic = "extend gather gold advice box random shallow exotic bullet method torch cake";

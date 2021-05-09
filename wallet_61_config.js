@@ -1,1 +1,1 @@
-var mnemonic = "hope cause lawsuit harbor guard subway table jacket express warrior tuna gravity";
+var mnemonic = "leg ginger opinion suggest master abandon typical quantum shift march cement vote";

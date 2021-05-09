@@ -1,1 +1,1 @@
-var mnemonic = "apology glory lesson champion door tomorrow tail act business syrup flash vendor";
+var mnemonic = "quote answer strike pig wear host music mystery income venture noise resemble";

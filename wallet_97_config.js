@@ -1,1 +1,1 @@
-var mnemonic = "ball idea bright maid casual define noble source coral beef fossil patch";
+var mnemonic = "uphold mango shield glide large alley garden spray soda lumber unfold shaft";

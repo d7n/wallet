@@ -1,1 +1,1 @@
-var mnemonic = "fiction tail bike trick salt analyst frost luxury night merge fringe match";
+var mnemonic = "pepper solar slow shuffle gossip drama wasp stage denial follow sustain unaware";

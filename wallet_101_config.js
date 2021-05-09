@@ -1,1 +1,1 @@
-var mnemonic = "lava budget soccer grape promote leader angle oil casino neck hidden supreme";
+var mnemonic = "used afford craft matter ten now must smile evil just major depart";

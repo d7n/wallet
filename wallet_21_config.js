@@ -1,1 +1,1 @@
-var mnemonic = "drastic pool frequent unfair empty camp produce economy lava supreme goose oppose";
+var mnemonic = "accident sport recipe dinosaur lobster square agent grow urge pole guitar wrist";

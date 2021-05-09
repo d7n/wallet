@@ -1,1 +1,1 @@
-var mnemonic = "nerve virus dismiss abandon glide degree luggage gossip wage grace during limb";
+var mnemonic = "convince comfort fame disagree melt length hold tennis enter sound pony grape";

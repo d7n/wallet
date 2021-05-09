@@ -1,1 +1,1 @@
-var mnemonic = "dad athlete gather comic cigar puppy credit digital carry lawsuit entire about";
+var mnemonic = "summer card grab tired memory biology ship mountain also roof expect price";

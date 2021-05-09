@@ -1,1 +1,1 @@
-var mnemonic = "vacuum bread spin critic light next nest during embody upon faint since";
+var mnemonic = "promote snap bread mass style rather foster raw feed main hollow success";

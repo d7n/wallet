@@ -1,1 +1,1 @@
-var mnemonic = "park leader banana camp valid toss spend post bridge fix silk abstract";
+var mnemonic = "admit tiny impose bacon gloom switch tattoo stomach choice auction cheese one";

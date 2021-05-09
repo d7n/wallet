@@ -1,1 +1,1 @@
-var mnemonic = "hand catalog add pulse bacon screen taxi position awkward engage need simple";
+var mnemonic = "void muscle model spread unhappy antique call finger mixture cargo empower course";

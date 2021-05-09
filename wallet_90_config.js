@@ -1,1 +1,1 @@
-var mnemonic = "sail one youth expand hungry vehicle behind section primary build junior hero";
+var mnemonic = "process height reveal syrup bean torch slide test task member uniform stage";

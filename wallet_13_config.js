@@ -1,1 +1,1 @@
-var mnemonic = "social club gate jar wrong legend alien vendor absorb auto neutral trial";
+var mnemonic = "wise foam client oxygen blur camera love almost fiscal amazing type banner";

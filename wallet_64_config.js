@@ -1,1 +1,1 @@
-var mnemonic = "illness together joke mixed salad orient scan merge donate glad gallery gift";
+var mnemonic = "caught end also wire estate fly volcano illegal nature oven swim web";

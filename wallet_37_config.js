@@ -1,1 +1,1 @@
-var mnemonic = "hold need original adapt deer over gospel coin humor spell have kite";
+var mnemonic = "radar purchase next oxygen opinion advice burger interest wolf fortune below elbow";

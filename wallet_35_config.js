@@ -1,1 +1,1 @@
-var mnemonic = "random vault plug glass fortune sight predict tone glare half exhaust labor";
+var mnemonic = "holiday firm worth tissue police claim climb neither little below annual valve";

@@ -1,1 +1,1 @@
-var mnemonic = "barely ranch relax exist tape tail wolf credit timber vote next skate";
+var mnemonic = "payment wrist royal gaze neutral oyster rebuild pill inch fade vital essence";

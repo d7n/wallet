@@ -1,1 +1,1 @@
-var mnemonic = "regular artefact twenty arena easily coyote divorce fuel actress amount mammal ramp";
+var mnemonic = "stairs cream renew forward obey remove field emotion about dinosaur cruel speak";

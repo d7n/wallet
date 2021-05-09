@@ -1,1 +1,1 @@
-var mnemonic = "rhythm comfort boring industry year couple cage kind nephew wire oblige fragile";
+var mnemonic = "scrap peace father bunker rival can expand jeans cry street repeat pencil";

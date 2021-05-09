@@ -1,1 +1,1 @@
-var mnemonic = "stand sadness scan fork hire illegal accuse lawsuit skin scene empower multiply";
+var mnemonic = "add avoid odor obey flock punch word thumb neutral ring when wink";

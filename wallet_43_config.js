@@ -1,1 +1,1 @@
-var mnemonic = "property crime hire imitate attract common cement script sniff frame saddle resist";
+var mnemonic = "style sudden vague crush opinion script sport public patrol pottery crumble sheriff";

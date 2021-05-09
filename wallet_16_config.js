@@ -1,1 +1,1 @@
-var mnemonic = "situate practice buffalo viable best just cool hope spoon stable tower brand";
+var mnemonic = "diesel shed topic anger list place render mimic legal drip life ill";

@@ -1,1 +1,1 @@
-var mnemonic = "rack art screen zebra ride dutch gift fiber online math expire erase";
+var mnemonic = "wood actress will fetch mesh employ globe begin spend social tooth spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "noise jump present thumb impose walk gold account possible lamp oak catch";
+var mnemonic = "defense fuel holiday toe tuition chair unfold donate kiwi find finger pyramid";

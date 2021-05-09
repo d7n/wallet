@@ -1,1 +1,1 @@
-var mnemonic = "finger firm action rabbit source chunk sister muscle chair snack lemon margin";
+var mnemonic = "host deal box regular custom surface merit neglect owner alcohol winter crane";

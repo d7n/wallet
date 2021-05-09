@@ -1,1 +1,1 @@
-var mnemonic = "scout guess attitude drip urge primary arena pole north retire quarter twelve";
+var mnemonic = "chapter one comic fringe gold radio feature sleep shrimp anxiety holiday key";

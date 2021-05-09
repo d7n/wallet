@@ -1,1 +1,1 @@
-var mnemonic = "wedding gold release elder arm loud art tumble bicycle shock dish tornado";
+var mnemonic = "knife raise horror task kind evil nose birth wood muffin bid bring";

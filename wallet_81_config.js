@@ -1,1 +1,1 @@
-var mnemonic = "sausage wolf initial sing enemy sand ask toward bench print bullet elegant";
+var mnemonic = "uncover genius eye prize arrow upset faint field twice mix soldier analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "spy smart exact hurry piece wish absent danger october raw hip place";
+var mnemonic = "small item sweet outdoor recall alarm legend yard crane key orphan token";

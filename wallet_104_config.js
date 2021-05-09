@@ -1,1 +1,1 @@
-var mnemonic = "local anger trap trend round heavy guitar fluid antique attend cost firm";
+var mnemonic = "tuna quiz run whisper receive short year scene vacuum annual cage catalog";

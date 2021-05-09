@@ -1,1 +1,1 @@
-var mnemonic = "canal stock dismiss three undo target broccoli crash donkey prize palace affair";
+var mnemonic = "submit liberty wide dice circle popular habit sick pass snap lawn emerge";

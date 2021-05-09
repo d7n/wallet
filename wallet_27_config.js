@@ -1,1 +1,1 @@
-var mnemonic = "term furnace borrow short become flee toilet flat sponsor inhale feel oppose";
+var mnemonic = "cave theory plastic rabbit camp news loyal they ghost right one join";

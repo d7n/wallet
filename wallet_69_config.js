@@ -1,1 +1,1 @@
-var mnemonic = "negative fancy walk apple minute vibrant author turkey soft mandate agent carpet";
+var mnemonic = "outside actual borrow runway lock foot decorate shock room crush velvet wealth";

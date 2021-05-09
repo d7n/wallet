@@ -1,1 +1,1 @@
-var mnemonic = "spy usage admit unhappy gate runway hero shallow clean because load keep";
+var mnemonic = "coyote weird wheel people artefact page jump rate monster add craft hand";

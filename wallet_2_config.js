@@ -1,1 +1,1 @@
-var mnemonic = "hunt foster guess truth capital category type cash grid pattern gravity oblige";
+var mnemonic = "sting snow stairs mesh detect youth gather siege glare celery initial leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "armor lake measure kiss calm absurd super artwork benefit satoshi slow breeze";
+var mnemonic = "base ginger spatial rain abstract scorpion easily sorry bridge idea life cement";

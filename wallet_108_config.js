@@ -1,1 +1,1 @@
-var mnemonic = "famous correct leave woman excess addict second holiday flower cause baby connect";
+var mnemonic = "cash nature february clinic brass weekend dawn congress liquid junior boat nature";

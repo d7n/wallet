@@ -1,1 +1,1 @@
-var mnemonic = "surround elite ribbon distance cruel vital snap exotic comfort staff rebel chuckle";
+var mnemonic = "planet snap body trick puzzle health spell left yard super economy limit";

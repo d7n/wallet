@@ -1,1 +1,1 @@
-var mnemonic = "wood forward twenty ramp ride gallery kite visual leisure enjoy version dilemma";
+var mnemonic = "unfold already floor twenty turtle solar assume income judge deny entire inject";

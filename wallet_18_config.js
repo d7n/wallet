@@ -1,1 +1,1 @@
-var mnemonic = "guilt execute suggest clean sniff dose sound nest steak creek mad music";
+var mnemonic = "dove rhythm barely payment omit sunny shallow trophy magic damage lobster whisper";

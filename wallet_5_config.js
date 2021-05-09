@@ -1,1 +1,1 @@
-var mnemonic = "fossil leopard surge decrease bar acid black evoke mistake cloud shadow master";
+var mnemonic = "admit proof club beef order cannon mechanic item thank pen flavor run";

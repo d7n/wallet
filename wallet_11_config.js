@@ -1,1 +1,1 @@
-var mnemonic = "buffalo skill you custom company teach first water tide cable better carbon";
+var mnemonic = "soap police lake monitor reflect mountain ketchup this method canal prevent quantum";

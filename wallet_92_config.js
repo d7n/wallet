@@ -1,1 +1,1 @@
-var mnemonic = "episode face exile empty math onion medal behave dream immense super three";
+var mnemonic = "valley clerk want oxygen develop consider police noise swim clock fringe jar";

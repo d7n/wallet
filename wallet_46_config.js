@@ -1,1 +1,1 @@
-var mnemonic = "dune machine inmate room sweet powder suspect year kitten police castle practice";
+var mnemonic = "guilt accuse fog truck nature jewel scatter mammal agent history comic wood";

@@ -1,1 +1,1 @@
-var mnemonic = "siren game evolve clerk transfer genre live crisp afraid spoon hungry century";
+var mnemonic = "robot tackle ordinary daughter moon sustain alcohol envelope skate list armor cream";

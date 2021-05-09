@@ -1,1 +1,1 @@
-var mnemonic = "hold found slot lemon way lottery gold client kite clever loud fence";
+var mnemonic = "nasty sadness radio puzzle behave sort tomato humble help ordinary voyage space";

@@ -1,1 +1,1 @@
-var mnemonic = "chase toe country save limit check west emerge helmet coral dry farm";
+var mnemonic = "father chef solid nest room much subway wine hundred gasp fine echo";

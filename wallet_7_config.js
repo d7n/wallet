@@ -1,1 +1,1 @@
-var mnemonic = "spoil young universe approve program course metal entry depend tip vessel faint";
+var mnemonic = "sun gaze appear hub keep anchor vocal coffee skill love season crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "night cattle process taxi casino pigeon pear caution film bag must people";
+var mnemonic = "bonus vessel swim leaf pupil payment soft raw wide midnight patch thank";

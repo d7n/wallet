@@ -1,1 +1,1 @@
-var mnemonic = "price cream broken payment basic stem scene what cross wagon distance slush";
+var mnemonic = "please can steak there imitate october sell design general library mystery victory";

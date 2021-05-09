@@ -1,1 +1,1 @@
-var mnemonic = "know mask caution pave victory zoo spy strong cry celery rural degree";
+var mnemonic = "advice current mixed adapt travel there party forum forum body eyebrow moon";

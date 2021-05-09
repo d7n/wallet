@@ -1,1 +1,1 @@
-var mnemonic = "answer start speed found this seven dragon marine what useless urge jewel";
+var mnemonic = "rather embrace valid present jacket almost fragile human later sugar trigger skill";

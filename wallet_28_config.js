@@ -1,1 +1,1 @@
-var mnemonic = "heavy increase dilemma false large gym trigger very inject twin congress blur";
+var mnemonic = "execute voyage roof pull clean isolate object rally maid enforce welcome concert";

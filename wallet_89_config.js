@@ -1,1 +1,1 @@
-var mnemonic = "parent chuckle human destroy hour hint absorb position extra damp oblige fever";
+var mnemonic = "just wasp world decorate unusual soda turn ripple owner coffee moment exhaust";

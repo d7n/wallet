@@ -1,1 +1,1 @@
-var mnemonic = "marine humor exhaust still exit arrive midnight team lab fringe give park";
+var mnemonic = "boat clay hire panther address doctor negative volume broccoli trend captain viable";

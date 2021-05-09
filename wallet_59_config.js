@@ -1,1 +1,1 @@
-var mnemonic = "retire pigeon spring valley hour inflict library first virus elite hunt talk";
+var mnemonic = "become sound digital example wife elder traffic shift minimum nest neutral spatial";

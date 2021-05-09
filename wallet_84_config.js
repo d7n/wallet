@@ -1,1 +1,1 @@
-var mnemonic = "tide diary element shield adjust tiny setup apology danger snow uncover rely";
+var mnemonic = "aware truth raise ribbon medal intact bulk join vessel nose decrease isolate";

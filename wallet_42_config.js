@@ -1,1 +1,1 @@
-var mnemonic = "ask mom rebel position garden ecology wave resist torch caution extend vehicle";
+var mnemonic = "end grunt wide blind diamond odor eight seven pupil raise pencil course";
