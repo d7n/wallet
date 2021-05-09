@@ -1,1 +1,1 @@
-var mnemonic = "choose verb actual tuition arrive monster put disagree rocket correct cradle fashion";
+var mnemonic = "clutch shrug corn dash frame donate baby obvious box width fish minor";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi vote width problem buddy wood army galaxy relief crawl come head";
+var mnemonic = "manual cup buzz brief chair typical input glue afraid quarter gym trip";

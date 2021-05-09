@@ -1,1 +1,1 @@
-var mnemonic = "expect honey accuse cloud right mistake ready rigid arena ketchup ritual theme";
+var mnemonic = "gallery bus dawn element wreck chuckle genuine bundle vanish galaxy twelve mixture";

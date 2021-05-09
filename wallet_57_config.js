@@ -1,1 +1,1 @@
-var mnemonic = "apple provide old reduce bus kiwi fringe purity devote yard real spike";
+var mnemonic = "cloud ten culture cheap sunset bulb twice finish ensure panther message wood";

@@ -1,1 +1,1 @@
-var mnemonic = "approve power quantum ozone rule amazing genre trumpet unknown fade float elbow";
+var mnemonic = "broccoli twin blame finger bicycle tackle blur inside hip kitten gorilla eternal";

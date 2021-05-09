@@ -1,1 +1,1 @@
-var mnemonic = "artwork joy romance cereal evidence push security rebel knife churn fiction gas";
+var mnemonic = "bridge magnet divide bright comic purpose label height milk noble walnut mixed";

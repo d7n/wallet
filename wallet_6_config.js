@@ -1,1 +1,1 @@
-var mnemonic = "plate win wet spawn record sell walnut hunt system female farm name";
+var mnemonic = "hurdle announce silly document coral near final same unable flee token congress";

@@ -1,1 +1,1 @@
-var mnemonic = "safe news ahead pond clerk prepare wide coin nothing option argue year";
+var mnemonic = "ripple eye tool reward hair degree infant arrange refuse fan insane joke";

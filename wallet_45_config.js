@@ -1,1 +1,1 @@
-var mnemonic = "oven immune stage wear course visual lumber stool equal steel school unit";
+var mnemonic = "farm bus degree enlist foster lion cliff stool cage cement marine door";

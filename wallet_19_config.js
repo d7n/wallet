@@ -1,1 +1,1 @@
-var mnemonic = "solar canyon cotton skin below orient enforce trigger dice toddler census short";
+var mnemonic = "speak impact door garage black onion want escape aspect journey vocal opera";

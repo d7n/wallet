@@ -1,1 +1,1 @@
-var mnemonic = "gossip jealous cabin ready hospital notable spend leisure noise error together insane";
+var mnemonic = "text fruit sketch oven hip body height ribbon inject voyage alone what";

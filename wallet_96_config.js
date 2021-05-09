@@ -1,1 +1,1 @@
-var mnemonic = "excite assume ticket service coin appear royal step offer wash milk cattle";
+var mnemonic = "enact hard drama undo coffee update match neck keen grunt super blind";

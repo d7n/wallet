@@ -1,1 +1,1 @@
-var mnemonic = "dream hub duty fiscal reason thrive virus behave seek raw shift barrel";
+var mnemonic = "hammer safe frame domain switch legend borrow squirrel electric virtual achieve awake";

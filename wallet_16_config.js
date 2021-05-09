@@ -1,1 +1,1 @@
-var mnemonic = "patient true neutral useless crystal mystery brown purity aerobic depend hour brain";
+var mnemonic = "summer fitness dinner spirit flight payment axis setup riot purpose erase elder";

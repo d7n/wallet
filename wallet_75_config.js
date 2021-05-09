@@ -1,1 +1,1 @@
-var mnemonic = "please amazing exotic gold reflect expire emotion island proud wealth cherry cross";
+var mnemonic = "young later output tilt change robot sell they west drastic oxygen glow";

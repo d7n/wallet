@@ -1,1 +1,1 @@
-var mnemonic = "inmate inform hat three donkey music horn disorder phrase wave tornado vehicle";
+var mnemonic = "put wait jaguar there room follow quiz vague yard master trade spell";

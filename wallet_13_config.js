@@ -1,1 +1,1 @@
-var mnemonic = "gloom zero renew good creek stem forest recycle onion answer skate poet";
+var mnemonic = "twist census soul one guitar cigar lock resist split supreme guitar limit";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar yard very finish pole crater lion pizza wagon island define project";
+var mnemonic = "robot deliver swear load indoor shoulder ginger green float dial sorry task";

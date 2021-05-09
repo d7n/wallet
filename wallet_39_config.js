@@ -1,1 +1,1 @@
-var mnemonic = "plunge announce pepper peasant milk sound disease hurt immense season basic arctic";
+var mnemonic = "team loud pelican worth promote pluck verb pelican neutral animal meat region";

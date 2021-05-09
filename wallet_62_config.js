@@ -1,1 +1,1 @@
-var mnemonic = "depart child post hybrid deal sand atom test execute there silly caught";
+var mnemonic = "inch eight ship bunker below dwarf shield provide lend about bag page";

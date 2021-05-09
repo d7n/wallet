@@ -1,1 +1,1 @@
-var mnemonic = "snow music adapt rapid amazing sell spike artefact bacon melody squirrel erode";
+var mnemonic = "capital ivory exercise chicken network wolf extra sweet seminar chair box cash";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney barrel habit ignore project couple awful love manage liar casual cool";
+var mnemonic = "office now blade panic scheme ivory slender scheme vanish huge danger alley";

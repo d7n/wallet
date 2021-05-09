@@ -1,1 +1,1 @@
-var mnemonic = "fox dilemma grant brown about defy famous million profit acquire auto clog";
+var mnemonic = "puzzle pistol pistol illness museum fox dish can phone civil happy that";

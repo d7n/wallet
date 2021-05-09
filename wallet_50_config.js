@@ -1,1 +1,1 @@
-var mnemonic = "start love dune plunge claim stem nest bubble ability smart season verb";
+var mnemonic = "unable label usage rally bleak trouble valve chef lamp spy judge rabbit";

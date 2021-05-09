@@ -1,1 +1,1 @@
-var mnemonic = "mother accident left scissors essay cousin corn giraffe popular purse rich erode";
+var mnemonic = "settle damage lion reason leaf scissors mushroom undo list consider museum exchange";

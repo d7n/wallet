@@ -1,1 +1,1 @@
-var mnemonic = "motion nurse fee deputy title awesome math glue submit drink bamboo return";
+var mnemonic = "excuse color hand fabric birth receive brand mango outside apple chronic gun";

@@ -1,1 +1,1 @@
-var mnemonic = "payment chief fall evoke race cheese pepper corn stove floor ghost cake";
+var mnemonic = "life medal arch memory alien engine acid jazz traffic impulse disorder retire";

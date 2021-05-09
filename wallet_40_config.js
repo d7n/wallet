@@ -1,1 +1,1 @@
-var mnemonic = "camp unknown thank magic rough across east decrease relax eight menu creek";
+var mnemonic = "input win aware laptop major wear stock stereo family session speed vibrant";

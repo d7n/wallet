@@ -1,1 +1,1 @@
-var mnemonic = "farm office later sister usual ecology page moon cabin castle vote truly";
+var mnemonic = "phone parent ice steel august anxiety parrot chest view year solar online";

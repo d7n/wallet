@@ -1,1 +1,1 @@
-var mnemonic = "fly grocery rescue lonely pen vast illness cliff addict medal below into";
+var mnemonic = "aisle teach liar share protect flock invest abuse twice embrace dumb grass";

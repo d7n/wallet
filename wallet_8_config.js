@@ -1,1 +1,1 @@
-var mnemonic = "original drift spoil various obvious evidence please extend found food make scene";
+var mnemonic = "extend donor calm delay upset gift finger chat help field gather hurry";

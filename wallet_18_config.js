@@ -1,1 +1,1 @@
-var mnemonic = "share beyond vacuum endless dolphin bubble gasp hub stomach panel bunker false";
+var mnemonic = "coconut impose left skill lunch leg accuse act afford seed scout include";

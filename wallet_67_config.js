@@ -1,1 +1,1 @@
-var mnemonic = "citizen biology chuckle able prevent lab menu wool dune clump era current";
+var mnemonic = "nest asset dress run cherry silk rely liquid there soldier couch flush";

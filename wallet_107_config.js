@@ -1,1 +1,1 @@
-var mnemonic = "race orbit flavor praise purchase vapor sketch together seven route toast inner";
+var mnemonic = "viable ancient foil high eager record concert praise add library lawn nuclear";

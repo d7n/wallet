@@ -1,1 +1,1 @@
-var mnemonic = "million witness electric citizen mad danger force punch grow between welcome age";
+var mnemonic = "happy garage caught leg prepare tower roast skull super city merry gauge";

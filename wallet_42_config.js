@@ -1,1 +1,1 @@
-var mnemonic = "peanut basket glance sausage predict roast bind exile curve anchor foil pill";
+var mnemonic = "rough much emotion rabbit crush young lyrics february educate poem length hover";

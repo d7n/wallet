@@ -1,1 +1,1 @@
-var mnemonic = "timber fence always tragic vibrant artwork breeze execute hawk across garage north";
+var mnemonic = "olympic symptom carry window caution lounge canyon because dolphin pave clerk lady";

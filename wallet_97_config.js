@@ -1,1 +1,1 @@
-var mnemonic = "protect boost infant problem aisle sound useless enforce cube wheat cargo destroy";
+var mnemonic = "vivid arctic special egg total subway bar fine service thank arm crash";

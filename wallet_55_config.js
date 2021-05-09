@@ -1,1 +1,1 @@
-var mnemonic = "silent hub absurd obtain orange river drive team minor horn silent keep";
+var mnemonic = "leopard best swamp business omit auction strong welcome remember strategy snap alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "educate movie visit hood frame vicious notable stumble riot erode engine better";
+var mnemonic = "zebra replace execute hill orchard narrow entire smoke ridge act play cave";

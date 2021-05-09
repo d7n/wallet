@@ -1,1 +1,1 @@
-var mnemonic = "cluster decide silent zone thank vibrant phone senior gossip six type invest";
+var mnemonic = "lunch label transfer sort kind chalk payment disease knock consider lumber category";

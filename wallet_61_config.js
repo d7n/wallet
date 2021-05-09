@@ -1,1 +1,1 @@
-var mnemonic = "trial list flight panic tattoo piano endless away mesh ritual shield cigar";
+var mnemonic = "shift used rich puzzle spider alone pull autumn coach wool arm corn";

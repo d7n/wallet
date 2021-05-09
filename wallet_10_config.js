@@ -1,1 +1,1 @@
-var mnemonic = "chicken knock cry joke toast soup toe gather reveal day shed farm";
+var mnemonic = "awful office clog smart shield direct receive misery duty eye hat wheel";

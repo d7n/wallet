@@ -1,1 +1,1 @@
-var mnemonic = "sell biology tell update regret cereal oppose rescue demand pepper expose green";
+var mnemonic = "riot mean medal snap crunch cause piano punch cactus robust raw glide";

@@ -1,1 +1,1 @@
-var mnemonic = "crack certain choice echo adult silly relief tube rice cancel bottom moon";
+var mnemonic = "neck drop transfer fresh illness spawn gather soul remember veteran rare spread";

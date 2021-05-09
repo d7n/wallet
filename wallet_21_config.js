@@ -1,1 +1,1 @@
-var mnemonic = "poem pet across spirit all appear lizard example brisk domain select flight";
+var mnemonic = "exchange affair praise category august random abandon silly today deny stone recall";

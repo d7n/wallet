@@ -1,1 +1,1 @@
-var mnemonic = "dove attack tower body hazard eager leave snake anger blanket example dice";
+var mnemonic = "olympic rubber arrive rug catalog donor design critic alone hero affair give";

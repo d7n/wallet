@@ -1,1 +1,1 @@
-var mnemonic = "version moment sea smile damp popular alien cupboard flush ship spare slab";
+var mnemonic = "oyster snack window link example into damage gorilla curious season decade intact";

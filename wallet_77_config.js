@@ -1,1 +1,1 @@
-var mnemonic = "plate project sort melt park upset pause guard reason tape roof series";
+var mnemonic = "grain soup joke hover suggest detail wrap crucial hover bid language alpha";

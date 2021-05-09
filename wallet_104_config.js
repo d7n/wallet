@@ -1,1 +1,1 @@
-var mnemonic = "furnace wood auto mass tired inquiry extend sleep chalk giraffe tragic category";
+var mnemonic = "finger profit pupil extend people sphere absent trick shallow laundry blood vocal";

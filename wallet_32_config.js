@@ -1,1 +1,1 @@
-var mnemonic = "state fortune famous nothing rail surface thing coffee rally case guide train";
+var mnemonic = "key another hedgehog amazing ignore scheme olive blossom depth bench never family";

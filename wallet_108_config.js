@@ -1,1 +1,1 @@
-var mnemonic = "mystery latin emotion disorder piano swing protect use purchase clinic defense toss";
+var mnemonic = "mom tobacco gift crime false virus remain model carbon buddy basket kiwi";

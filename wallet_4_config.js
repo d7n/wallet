@@ -1,1 +1,1 @@
-var mnemonic = "reflect sudden day pelican resist alien limb destroy change lounge glance old";
+var mnemonic = "sustain long mobile bitter recipe million island patch vapor rather lucky case";

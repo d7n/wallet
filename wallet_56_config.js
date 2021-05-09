@@ -1,1 +1,1 @@
-var mnemonic = "naive rate thing tent mean wink apart kitten enemy load seek rice";
+var mnemonic = "crazy upgrade renew lab rotate sunset ten clean depend poet mammal hawk";

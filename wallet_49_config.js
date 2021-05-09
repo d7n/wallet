@@ -1,1 +1,1 @@
-var mnemonic = "rival brand unhappy slide tomorrow blossom act piano torch elite cricket route";
+var mnemonic = "fancy gift critic lunar link believe boss permit thought budget route output";

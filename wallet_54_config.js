@@ -1,1 +1,1 @@
-var mnemonic = "square broom jelly lizard rocket twist exist hello tomato click involve imitate";
+var mnemonic = "soldier pond join kitchen damp flee vibrant million firm live call they";

@@ -1,1 +1,1 @@
-var mnemonic = "route gorilla sail print jump elephant blanket remain crouch label sword merit";
+var mnemonic = "photo host patch grab tone blouse memory fitness seek identify horror mom";

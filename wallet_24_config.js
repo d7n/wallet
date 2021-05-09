@@ -1,1 +1,1 @@
-var mnemonic = "summer coconut royal entry mango recycle flavor gaze churn another fuel okay";
+var mnemonic = "tonight picture dune retreat glare wet learn normal crowd mixed sport asthma";

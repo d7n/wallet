@@ -1,1 +1,1 @@
-var mnemonic = "eagle catch waste oil small tip peasant poet winter famous dawn absent";
+var mnemonic = "vague slow shift crazy sample expire play favorite plug twelve lamp below";

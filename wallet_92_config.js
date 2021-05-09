@@ -1,1 +1,1 @@
-var mnemonic = "frown cereal main chalk boost knock grape rhythm shove other robot frost";
+var mnemonic = "mad shine nuclear assume patient price festival model snack warrior copper recycle";

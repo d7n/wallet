@@ -1,1 +1,1 @@
-var mnemonic = "enrich wife forest crew swap reduce planet blade say sadness dumb metal";
+var mnemonic = "case addict high bronze health memory salt often avocado timber account comic";

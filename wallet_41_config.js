@@ -1,1 +1,1 @@
-var mnemonic = "arrow answer rail guide bean seven dignity near addict output emotion rail";
+var mnemonic = "gas change slow help wife loop attack slot fog arena profit tired";

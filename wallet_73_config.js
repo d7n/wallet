@@ -1,1 +1,1 @@
-var mnemonic = "speed inflict parrot vast sister verify obey nest sure few inspire able";
+var mnemonic = "wagon together theory liar mango pretty antique album window window bubble rubber";

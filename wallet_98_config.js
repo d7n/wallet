@@ -1,1 +1,1 @@
-var mnemonic = "wife purity blanket enact uniform orphan canyon pudding family bubble anxiety excuse";
+var mnemonic = "immense party ugly spot noise grain matrix giant mirror grid hood right";

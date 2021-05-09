@@ -1,1 +1,1 @@
-var mnemonic = "vacuum tone course orange double high roast mammal birth gain position hollow";
+var mnemonic = "initial cluster cram discover mind near game blast youth person shop robust";

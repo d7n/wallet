@@ -1,1 +1,1 @@
-var mnemonic = "frown total nurse slice chuckle glow push pass floor above approve verify";
+var mnemonic = "senior february together extra theory shiver cycle vibrant result ship solve coin";

@@ -1,1 +1,1 @@
-var mnemonic = "logic cotton bargain control ask notice mechanic dawn finger predict detail depart";
+var mnemonic = "genre inherit next burden lift excuse benefit oil garment employ drink rich";

@@ -1,1 +1,1 @@
-var mnemonic = "apart code radio relief write poem hard suit grit script jazz mom";
+var mnemonic = "matter battle medal moon this glass cupboard rebel dilemma liar when town";

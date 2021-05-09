@@ -1,1 +1,1 @@
-var mnemonic = "also person lamp captain grid add umbrella normal chunk whisper urban metal";
+var mnemonic = "hockey fine middle blossom card ramp note rally coach lounge giggle promote";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer ordinary square clump reflect nurse ball grape grid few infant impulse";
+var mnemonic = "lens ankle leaf sudden join gas long faint liquid trust giggle glue";

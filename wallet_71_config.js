@@ -1,1 +1,1 @@
-var mnemonic = "appear jungle retire supreme blade fire oblige west view tobacco mechanic lab";
+var mnemonic = "snake favorite nerve glide shield mix attack erase crush helmet sadness rib";

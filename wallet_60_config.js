@@ -1,1 +1,1 @@
-var mnemonic = "next step net velvet company run expect regular celery brown knock castle";
+var mnemonic = "lemon bench blossom neither taxi same couch slot bunker solution drip nest";

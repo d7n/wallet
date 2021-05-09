@@ -1,1 +1,1 @@
-var mnemonic = "crazy when monkey rather shaft process garbage prison ship twin romance flame";
+var mnemonic = "torch vacant wire paper lecture grunt prefer world shoot stereo relief airport";

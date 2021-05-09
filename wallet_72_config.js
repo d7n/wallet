@@ -1,1 +1,1 @@
-var mnemonic = "immense dirt tiger void pupil announce direct test furnace joke attitude job";
+var mnemonic = "crunch very paddle perfect kick quantum banner ridge height defense wood eight";

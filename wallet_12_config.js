@@ -1,1 +1,1 @@
-var mnemonic = "few outside neither salt stereo system setup loop cruel step pilot panic";
+var mnemonic = "hedgehog impact able galaxy ready enter neck tobacco foot horror until antique";

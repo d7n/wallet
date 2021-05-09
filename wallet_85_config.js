@@ -1,1 +1,1 @@
-var mnemonic = "pretty liberty victory top long limit slush diagram trial search tuna street";
+var mnemonic = "runway matrix fuel city there faint picture agree gift noble neck very";

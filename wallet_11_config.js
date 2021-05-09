@@ -1,1 +1,1 @@
-var mnemonic = "decrease balance rain consider ignore warrior job opinion scan special sad attract";
+var mnemonic = "text soap core hero vapor image pledge either answer margin dash mail";

@@ -1,1 +1,1 @@
-var mnemonic = "exit rain lab into rent nose street mother large friend dawn task";
+var mnemonic = "north cabin pony skin airport high garbage feed thought walk upper fluid";

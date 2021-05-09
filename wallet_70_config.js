@@ -1,1 +1,1 @@
-var mnemonic = "million team flag brand general shed mechanic wife test rival pattern city";
+var mnemonic = "side judge huge antenna cake connect picnic seven forget puppy tattoo crumble";

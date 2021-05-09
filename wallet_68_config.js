@@ -1,1 +1,1 @@
-var mnemonic = "aerobic brush describe prefer movie nasty verb rail gas afraid shy plug";
+var mnemonic = "panel crazy since critic noble identify liquid still foster track favorite fade";

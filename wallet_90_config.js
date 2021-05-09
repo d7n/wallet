@@ -1,1 +1,1 @@
-var mnemonic = "piece ankle punch around ankle beyond beyond illegal energy interest clog tip";
+var mnemonic = "goat unit conduct gallery runway absurd lab range engage law must pond";

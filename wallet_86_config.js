@@ -1,1 +1,1 @@
-var mnemonic = "cross penalty blouse change piece square suggest flight knee initial barely minute";
+var mnemonic = "pledge advice spot like ice move pluck salute river mobile angle that";

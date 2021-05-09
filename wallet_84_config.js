@@ -1,1 +1,1 @@
-var mnemonic = "chaos bike wrap crater nose uncover someone deputy action razor forest omit";
+var mnemonic = "universe brass source paddle soap clay danger prize flip side fish idea";

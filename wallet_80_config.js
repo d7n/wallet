@@ -1,1 +1,1 @@
-var mnemonic = "hand gain chef hair puppy voyage found arm quarter turkey segment gate";
+var mnemonic = "oil core month feature sick sorry boil tail village view donor poverty";

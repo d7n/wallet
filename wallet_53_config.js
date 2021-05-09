@@ -1,1 +1,1 @@
-var mnemonic = "divert prefer moon vapor sting also pony prepare wear weather arrive turtle";
+var mnemonic = "loan wink sight cradle senior gravity exile indicate reject survey remind logic";

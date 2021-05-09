@@ -1,1 +1,1 @@
-var mnemonic = "obey misery filter east among emerge hybrid bless absent trick away stuff";
+var mnemonic = "seminar atom boat any alarm census lake media give glad gift task";

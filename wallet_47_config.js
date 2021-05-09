@@ -1,1 +1,1 @@
-var mnemonic = "rescue gap limit person muscle long change alter lunar side coffee crouch";
+var mnemonic = "vicious north exile divorce raven illness diesel flash process hurry control tag";

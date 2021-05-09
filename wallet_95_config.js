@@ -1,1 +1,1 @@
-var mnemonic = "eternal turn maze virus race object gate drastic chapter much visual avoid";
+var mnemonic = "fish canyon route merge wonder like poet tower digital wreck artist robust";

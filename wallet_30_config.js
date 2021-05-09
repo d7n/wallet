@@ -1,1 +1,1 @@
-var mnemonic = "law vehicle sphere eagle average figure barely south pencil purse canvas wedding";
+var mnemonic = "treat trap tower amused hair twelve top token warm because planet knock";
