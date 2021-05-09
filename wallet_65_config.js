@@ -1,1 +1,1 @@
-var mnemonic = "dynamic area prefer chunk wheat fury motor problem health rose trigger subject";
+var mnemonic = "suspect steel share orchard village cage success service time sudden scare jump";

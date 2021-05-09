@@ -1,1 +1,1 @@
-var mnemonic = "rain split primary motor east truly play mention profit man accident wheel";
+var mnemonic = "can alarm capable sheriff knock unique monster frost sleep patch great seminar";

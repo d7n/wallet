@@ -1,1 +1,1 @@
-var mnemonic = "enough plate arrange trust cream math draft interest into core snake recall";
+var mnemonic = "trophy switch solid gesture cat senior cruise require cube foam october embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "oil piano mask surge moral citizen case road steak base begin wrong";
+var mnemonic = "viable exile gorilla find never toss subway work witness just code casual";

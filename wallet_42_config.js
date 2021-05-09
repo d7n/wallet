@@ -1,1 +1,1 @@
-var mnemonic = "access switch mouse remove elder ugly rigid start wonder patch few fun";
+var mnemonic = "call able pitch debate lion huge involve local method viable agree earn";

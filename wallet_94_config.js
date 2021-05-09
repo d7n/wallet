@@ -1,1 +1,1 @@
-var mnemonic = "cube weird wheat short increase wise coyote grocery all police lunar proud";
+var mnemonic = "noble dish rabbit you funny maid famous scrap road theme device clip";

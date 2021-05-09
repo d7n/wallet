@@ -1,1 +1,1 @@
-var mnemonic = "hurdle surprise occur try vocal honey copper safe stairs chicken upper rebuild";
+var mnemonic = "anger online search describe uniform side clog broom cluster saddle hazard tree";

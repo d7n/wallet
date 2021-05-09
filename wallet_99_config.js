@@ -1,1 +1,1 @@
-var mnemonic = "shell alcohol joy already echo brown coin chief cactus orbit century pupil";
+var mnemonic = "pitch harbor bright inner cake hood sweet razor forest car grape clever";

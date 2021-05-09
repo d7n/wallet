@@ -1,1 +1,1 @@
-var mnemonic = "viable all segment salon glance draw place struggle hard modify warm filter";
+var mnemonic = "tenant field ritual conduct taste radar letter cousin equip mixed hybrid card";

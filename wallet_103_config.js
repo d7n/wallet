@@ -1,1 +1,1 @@
-var mnemonic = "laugh input blade twelve heart genre wrap moment exile iron pumpkin struggle";
+var mnemonic = "possible thrive march fame tail pool undo wheat jacket surge deliver veteran";

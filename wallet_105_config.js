@@ -1,1 +1,1 @@
-var mnemonic = "armor clean mistake honey trust hammer domain draw glance faith mother crisp";
+var mnemonic = "ritual bachelor venue circle seven drastic poverty service wasp wood forest blush";

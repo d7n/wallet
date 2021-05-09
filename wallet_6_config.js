@@ -1,1 +1,1 @@
-var mnemonic = "already park worth rule leave lazy body employ upgrade weasel episode blouse";
+var mnemonic = "conduct market travel shoulder best there face creek betray theme you tunnel";

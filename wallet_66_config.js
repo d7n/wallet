@@ -1,1 +1,1 @@
-var mnemonic = "direct party dune carbon finger addict tell beef license priority business town";
+var mnemonic = "unfair plug strong liberty like purity palm lyrics dutch undo return wet";

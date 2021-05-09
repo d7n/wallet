@@ -1,1 +1,1 @@
-var mnemonic = "school card diamond typical plunge cloud brave canvas bomb story sudden double";
+var mnemonic = "apple movie waste more stamp quarter refuse seek joy good horror favorite";

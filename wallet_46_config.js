@@ -1,1 +1,1 @@
-var mnemonic = "fresh sick day calm category basket combine match pact report lizard wrap";
+var mnemonic = "math year base asthma anchor soup steak arrange dwarf discover oval dignity";

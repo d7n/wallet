@@ -1,1 +1,1 @@
-var mnemonic = "fix brain purchase service bunker ecology fabric portion quick ordinary dragon bring";
+var mnemonic = "crouch exchange few push peanut advice evoke indicate afraid require pupil spirit";

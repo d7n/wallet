@@ -1,1 +1,1 @@
-var mnemonic = "kid choice quantum turn spice flee farm ready oxygen worth never will";
+var mnemonic = "attract walk extra tissue grass require husband layer ship melody next toddler";

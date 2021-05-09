@@ -1,1 +1,1 @@
-var mnemonic = "hospital identify deny payment caught pen pole dismiss size sport citizen stove";
+var mnemonic = "current genius coral humor asthma quick fox exercise safe basic shift orange";

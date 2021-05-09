@@ -1,1 +1,1 @@
-var mnemonic = "double guilt october nuclear broom pony author chest victory sugar siren clerk";
+var mnemonic = "gym various below demand endorse private skirt goat hedgehog faculty primary actual";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal ticket middle symptom tilt need tennis gown play impact spatial thought";
+var mnemonic = "diamond cat flush shoulder believe wheel gas shallow ride forget volcano elegant";

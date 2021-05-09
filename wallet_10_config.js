@@ -1,1 +1,1 @@
-var mnemonic = "benefit build witness rude fossil ice purpose old game custom brass cute";
+var mnemonic = "powder wine law someone cool already cereal traffic roof soda paddle kind";

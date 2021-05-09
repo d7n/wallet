@@ -1,1 +1,1 @@
-var mnemonic = "doctor despair immense panther focus census express exhibit soap abandon bracket tourist";
+var mnemonic = "army uncover push develop need any glance habit police hedgehog age champion";

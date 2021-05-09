@@ -1,1 +1,1 @@
-var mnemonic = "stage calm ski couple rotate chest knee flight nature arm birth add";
+var mnemonic = "radar sight word shock broom glance toss baby market combine north swap";

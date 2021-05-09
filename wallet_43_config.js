@@ -1,1 +1,1 @@
-var mnemonic = "seek uphold noble betray ball slush away trigger plunge heavy swear depend";
+var mnemonic = "call demise behind health entire need cute curtain glimpse fantasy ripple destroy";

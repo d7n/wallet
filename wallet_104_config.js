@@ -1,1 +1,1 @@
-var mnemonic = "talent act helmet fantasy traffic swing cloth public sea gadget pet boss";
+var mnemonic = "rice great style bike spoon genre hand success object often useless job";

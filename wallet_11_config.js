@@ -1,1 +1,1 @@
-var mnemonic = "consider ride remember glass sentence army build also silent bleak tip utility";
+var mnemonic = "century guitar soap tag enjoy flush cube yellow virtual ozone depend mountain";

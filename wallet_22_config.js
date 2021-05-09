@@ -1,1 +1,1 @@
-var mnemonic = "problem surface child wash quarter write scan smoke hurdle genuine record leopard";
+var mnemonic = "lyrics decade vocal proof blast flush insane nerve sunset velvet apart panda";

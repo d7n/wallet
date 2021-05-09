@@ -1,1 +1,1 @@
-var mnemonic = "gasp fringe visa rival express divert walk excuse coffee family moon jealous";
+var mnemonic = "siege icon audit waste defy hour wife describe monster pistol depth vocal";

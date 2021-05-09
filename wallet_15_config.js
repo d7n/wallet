@@ -1,1 +1,1 @@
-var mnemonic = "record patient cruise impulse donor replace review indicate crawl flock security hole";
+var mnemonic = "leader boy ceiling country seek train okay flee month baby rebel dust";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire client erupt require walnut hat zero document dream tortoise region voyage";
+var mnemonic = "found during charge merge box capital sea apart apology circle wine resemble";

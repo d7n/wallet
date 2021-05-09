@@ -1,1 +1,1 @@
-var mnemonic = "cover loyal shiver churn dawn practice train miss early leave sister myth";
+var mnemonic = "vocal palm tuna demand soccer police monitor asset cart demand agree coffee";

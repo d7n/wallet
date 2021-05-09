@@ -1,1 +1,1 @@
-var mnemonic = "fence vapor peanut session magic prefer crack equip dwarf wheel cat erode";
+var mnemonic = "avoid spy image install minimum tortoise chief awesome volume dose creek repair";

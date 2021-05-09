@@ -1,1 +1,1 @@
-var mnemonic = "green sudden ask spell blame balance total burger minor issue update travel";
+var mnemonic = "three science predict anchor bird place diary radar daring hurt soft december";

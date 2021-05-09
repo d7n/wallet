@@ -1,1 +1,1 @@
-var mnemonic = "tool dog dove unveil age pottery lemon super neglect insane inner text";
+var mnemonic = "average actor mother diary supreme funny nasty blue biology special soccer talk";

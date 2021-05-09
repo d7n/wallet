@@ -1,1 +1,1 @@
-var mnemonic = "cannon hamster crumble train hungry road remind rhythm that wife youth junk";
+var mnemonic = "hour focus reflect quiz assist gap tiger push harbor feel tube shed";

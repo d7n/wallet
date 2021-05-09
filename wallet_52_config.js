@@ -1,1 +1,1 @@
-var mnemonic = "crazy speak damp extend silent exercise flight hire illegal guess short bulb";
+var mnemonic = "zero erupt excess reunion item stuff alarm polar blame mushroom shrug fatigue";

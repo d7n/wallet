@@ -1,1 +1,1 @@
-var mnemonic = "eight ginger faith easy spot entry release tip diet noble already thank";
+var mnemonic = "hospital diesel cable door hunt advance fruit glue glide venue twin mosquito";

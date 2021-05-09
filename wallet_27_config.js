@@ -1,1 +1,1 @@
-var mnemonic = "enemy buzz hard concert swarm fabric distance country lucky type strategy endorse";
+var mnemonic = "fence tragic aspect bread genuine ramp hamster quiz chronic hover answer lucky";

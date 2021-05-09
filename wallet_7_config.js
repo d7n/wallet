@@ -1,1 +1,1 @@
-var mnemonic = "blush outdoor radio atom deal ahead margin cute pill divorce flower tower";
+var mnemonic = "oyster quantum timber later bean ginger mixed victory flame february manual sure";

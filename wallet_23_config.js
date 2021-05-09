@@ -1,1 +1,1 @@
-var mnemonic = "physical village vacant mother leopard kite wrist destroy sauce useful idle cinnamon";
+var mnemonic = "spin frown reunion else width language turtle brush reward eagle deer draft";

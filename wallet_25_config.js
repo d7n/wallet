@@ -1,1 +1,1 @@
-var mnemonic = "announce disorder purity route wonder town arctic next must enlist address six";
+var mnemonic = "civil punch brush limit rocket allow brief ball rhythm moment nominee hold";

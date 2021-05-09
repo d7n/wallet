@@ -1,1 +1,1 @@
-var mnemonic = "cluster bottom laptop deliver asset short struggle face install possible casino hotel";
+var mnemonic = "master talk valid spawn salute hedgehog carpet service earth correct desk dune";

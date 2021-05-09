@@ -1,1 +1,1 @@
-var mnemonic = "cycle aisle grant disorder begin stamp weather crop hill town sheriff endless";
+var mnemonic = "lounge brand ethics cover dance era parade cool antique sleep hire wash";

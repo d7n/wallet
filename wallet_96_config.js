@@ -1,1 +1,1 @@
-var mnemonic = "pudding various movie imitate all glove mass useless solid wreck aunt deliver";
+var mnemonic = "bike world useful earn exact upon differ flock obvious october course arch";

@@ -1,1 +1,1 @@
-var mnemonic = "gift green enforce side atom motion swear scrap local artist quote senior";
+var mnemonic = "betray nasty net bottom across two awake must drift glare scene pact";

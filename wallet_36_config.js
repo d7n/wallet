@@ -1,1 +1,1 @@
-var mnemonic = "comfort heart sad bone life cereal act lava tool seed nerve pottery";
+var mnemonic = "measure family supply tuna atom pioneer praise soup wall buffalo fix jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "market balance clever shiver diesel neutral submit always man muscle reject dove";
+var mnemonic = "upgrade private curve electric number civil nest crouch fiber cradle library actress";

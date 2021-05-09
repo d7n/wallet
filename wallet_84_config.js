@@ -1,1 +1,1 @@
-var mnemonic = "alter margin indoor harsh consider vehicle devote dash kiss coral fence palace";
+var mnemonic = "trip wall assault tell frozen grace faculty crew mule brass romance lawsuit";

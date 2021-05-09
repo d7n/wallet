@@ -1,1 +1,1 @@
-var mnemonic = "announce shine improve tilt wall cross essence hub share payment swift suffer";
+var mnemonic = "grab mimic process staff maple wave arctic tumble lonely butter renew slam";

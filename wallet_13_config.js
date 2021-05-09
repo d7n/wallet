@@ -1,1 +1,1 @@
-var mnemonic = "slot renew drip debate economy purchase farm crew collect river pass image";
+var mnemonic = "unfair mixed city chat soon target below exile paper try slim crop";

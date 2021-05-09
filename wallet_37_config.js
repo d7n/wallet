@@ -1,1 +1,1 @@
-var mnemonic = "include trial bright amused decline spider twin permit swift recycle analyst attack";
+var mnemonic = "cereal close filter churn organ juice debris entire cinnamon hybrid aerobic predict";

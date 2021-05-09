@@ -1,1 +1,1 @@
-var mnemonic = "shoot glimpse olive zebra carry health provide include scorpion scene safe system";
+var mnemonic = "sunny machine journey penalty exact collect vacant split company squeeze mixture still";

@@ -1,1 +1,1 @@
-var mnemonic = "south mobile wrestle purpose knife waste fashion afford monkey top cat transfer";
+var mnemonic = "hint soda repair sleep metal adult upper typical erosion focus toast live";

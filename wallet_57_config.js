@@ -1,1 +1,1 @@
-var mnemonic = "idle sail element hard index pave arrive fun blanket people reflect spell";
+var mnemonic = "man renew cotton never divorce topple must program gallery carbon gap kiss";

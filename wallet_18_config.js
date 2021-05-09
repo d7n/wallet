@@ -1,1 +1,1 @@
-var mnemonic = "mistake potato staff amateur forum opinion silly eager stone ensure candy syrup";
+var mnemonic = "cherry parent pretty final elbow hunt strategy warrior daughter topple rely tree";

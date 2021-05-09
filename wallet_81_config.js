@@ -1,1 +1,1 @@
-var mnemonic = "stone verb over swing eternal surprise dilemma cereal mango wall skull decide";
+var mnemonic = "raccoon ketchup diet diary social school critic vessel dirt lecture baby short";

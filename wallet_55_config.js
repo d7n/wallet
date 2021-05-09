@@ -1,1 +1,1 @@
-var mnemonic = "alone clever fiction drift auto wrap giraffe pause gate depend auction climb";
+var mnemonic = "mail employ buddy poet middle pottery check material bus recipe wonder moment";

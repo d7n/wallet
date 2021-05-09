@@ -1,1 +1,1 @@
-var mnemonic = "spell render someone obscure cluster bus minute toy clay manual program album";
+var mnemonic = "bonus notice position beyond kite viable solution stereo task forest refuse huge";

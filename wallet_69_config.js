@@ -1,1 +1,1 @@
-var mnemonic = "lesson salt dignity merry donkey aerobic marriage credit speak split witness convince";
+var mnemonic = "nature tobacco tent inner ticket wide review future canal chunk cheap daring";

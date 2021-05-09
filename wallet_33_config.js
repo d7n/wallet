@@ -1,1 +1,1 @@
-var mnemonic = "conduct draft cabbage debate royal unusual upon behave glove replace average asset";
+var mnemonic = "dust marble length muscle escape explain early unhappy cross can palace gossip";

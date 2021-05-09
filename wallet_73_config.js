@@ -1,1 +1,1 @@
-var mnemonic = "buddy banana race release helmet utility gym judge burger creek group labor";
+var mnemonic = "vicious arena powder delay thing hospital scale scatter weekend among fancy manual";

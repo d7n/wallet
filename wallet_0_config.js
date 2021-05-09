@@ -1,1 +1,1 @@
-var mnemonic = "turtle romance genuine citizen ask bridge imitate grow like lumber banana hollow";
+var mnemonic = "future rate embody document transfer flavor wet cruise attitude cargo beach above";

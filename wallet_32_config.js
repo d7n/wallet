@@ -1,1 +1,1 @@
-var mnemonic = "mobile town aerobic tired verify mask neither luxury catch prefer pattern logic";
+var mnemonic = "artefact aerobic into normal shoe swear scrub monitor live forget rug side";

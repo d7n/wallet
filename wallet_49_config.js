@@ -1,1 +1,1 @@
-var mnemonic = "position wish waste swear faculty roast sort dumb claim erosion knee follow";
+var mnemonic = "hard word spoil below junior shrimp alien used pencil exhaust fuel bulb";

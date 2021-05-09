@@ -1,1 +1,1 @@
-var mnemonic = "little life monster family slim lemon chunk banner gesture birth oven carbon";
+var mnemonic = "floor innocent expose depth tribe south twin debate ocean idle rocket bacon";

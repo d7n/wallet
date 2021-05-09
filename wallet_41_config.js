@@ -1,1 +1,1 @@
-var mnemonic = "clever wave basic course clean curve ahead avocado velvet race vehicle garlic";
+var mnemonic = "large general error deer release decide elephant funny clip chaos twenty silver";

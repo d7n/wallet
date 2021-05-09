@@ -1,1 +1,1 @@
-var mnemonic = "orient dress settle together donkey element shy seek reward music dynamic midnight";
+var mnemonic = "submit exotic focus crawl begin ordinary machine latin skill warrior loud oppose";

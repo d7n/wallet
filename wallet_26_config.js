@@ -1,1 +1,1 @@
-var mnemonic = "diet thank census pride tiger cute sorry eyebrow sting charge flush elbow";
+var mnemonic = "potato knee assault where stand fork drop vast nuclear bicycle walnut orchard";

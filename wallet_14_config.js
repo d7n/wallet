@@ -1,1 +1,1 @@
-var mnemonic = "degree pear crane crazy huge village copper fury rug include vivid mad";
+var mnemonic = "cost rich flag position industry biology tower alcohol camera choice genuine gold";

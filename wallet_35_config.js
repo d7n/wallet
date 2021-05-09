@@ -1,1 +1,1 @@
-var mnemonic = "tell meadow spider minor quick peasant spoil tone awake attack ozone buyer";
+var mnemonic = "protect cook frozen visual mango strong finish coach journey monkey vague pact";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard polar essence uphold goddess head ribbon sniff clinic garlic real tooth";
+var mnemonic = "arrest pyramid clever jealous soft buffalo neutral muscle clap pupil thing avoid";

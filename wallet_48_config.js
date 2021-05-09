@@ -1,1 +1,1 @@
-var mnemonic = "short father phrase company trigger surprise armed wheel that point rely interest";
+var mnemonic = "roast thunder trim chicken remind paddle trim wedding jar tragic opinion section";

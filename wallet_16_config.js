@@ -1,1 +1,1 @@
-var mnemonic = "cement gossip oyster cinnamon monitor element bread unaware glow cart snake muscle";
+var mnemonic = "history gauge slice wash finish mother erode stove design polar glance bacon";

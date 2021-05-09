@@ -1,1 +1,1 @@
-var mnemonic = "van item wrong crazy match check stock peanut short very deal alter";
+var mnemonic = "minimum eagle lizard receive milk squirrel detect smile art capable twist gloom";

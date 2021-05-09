@@ -1,1 +1,1 @@
-var mnemonic = "share crumble south shield mad wonder wage sort crouch example neutral victory";
+var mnemonic = "employ wrap scatter opera source wreck genuine fox under giraffe ice laundry";

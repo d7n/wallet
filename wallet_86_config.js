@@ -1,1 +1,1 @@
-var mnemonic = "flip maximum awkward trash insect alarm maid myself choose oppose giggle wreck";
+var mnemonic = "fever august bubble among aerobic puzzle approve day equip circle isolate never";

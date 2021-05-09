@@ -1,1 +1,1 @@
-var mnemonic = "mad jump inform pumpkin disagree exhibit arrest person observe shove humble knife";
+var mnemonic = "bulk alter disagree moral swing tornado panther panic amused exit uncle machine";

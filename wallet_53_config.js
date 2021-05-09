@@ -1,1 +1,1 @@
-var mnemonic = "kick salute release erase priority badge wise endorse move noise destroy isolate";
+var mnemonic = "clown arrive bread fee clog degree spare cactus nut forget basic festival";

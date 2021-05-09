@@ -1,1 +1,1 @@
-var mnemonic = "stomach usage bottom vapor social novel hold awake movie wait chaos behave";
+var mnemonic = "dance airport latin carpet describe one remind split zebra settle report soft";

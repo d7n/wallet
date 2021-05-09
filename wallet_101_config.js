@@ -1,1 +1,1 @@
-var mnemonic = "butter typical birth oven accident zoo record boy allow thunder draw zebra";
+var mnemonic = "boss torch smart average rhythm olive egg detail easy brush stem jelly";

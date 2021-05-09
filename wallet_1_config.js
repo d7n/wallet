@@ -1,1 +1,1 @@
-var mnemonic = "jaguar olympic tuition below funny tunnel december pink stem velvet raise render";
+var mnemonic = "decide october stand champion host pond galaxy identify inspire coral sand execute";

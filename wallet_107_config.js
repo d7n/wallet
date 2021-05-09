@@ -1,1 +1,1 @@
-var mnemonic = "local pen bring affair delay hospital debate cash smooth hair allow radio";
+var mnemonic = "burden abandon rare unusual repeat web license age angry zone flush brand";

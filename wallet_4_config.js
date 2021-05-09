@@ -1,1 +1,1 @@
-var mnemonic = "glad heavy fence garage primary field couple void benefit bind noodle world";
+var mnemonic = "actress negative badge harvest into drill hen flip hospital wonder select fatal";

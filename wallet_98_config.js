@@ -1,1 +1,1 @@
-var mnemonic = "spy volcano spatial night solid dose couch hunt diamond alley purpose abuse";
+var mnemonic = "wine high iron zero car fat math tray walk olive derive save";

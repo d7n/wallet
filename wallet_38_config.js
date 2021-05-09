@@ -1,1 +1,1 @@
-var mnemonic = "evidence axis consider little code crack such diagram hungry uncle high clinic";
+var mnemonic = "fat common stay promote broom debate lock skull mobile scissors recall estate";

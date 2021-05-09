@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon surface spread soul excuse stock become assist divorce daughter weasel liar";
+var mnemonic = "notable danger ostrich curious sheriff silly rely finish panic outdoor husband simple";

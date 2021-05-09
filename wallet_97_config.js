@@ -1,1 +1,1 @@
-var mnemonic = "sunset prevent secret month quick vacuum nation front custom stool candy critic";
+var mnemonic = "pudding praise match improve loop dinner mechanic better trim weekend logic feature";
