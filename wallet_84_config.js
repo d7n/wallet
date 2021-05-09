@@ -1,1 +1,1 @@
-var mnemonic = "edge peace open nominee sell canal sample mushroom carbon dash transfer pilot";
+var mnemonic = "beauty awful kind donate impose path light clerk border alley defense click";

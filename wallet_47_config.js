@@ -1,1 +1,1 @@
-var mnemonic = "journey gun wrestle insect ritual brisk intact poet shrug okay inmate distance";
+var mnemonic = "release creek expect wrestle hurdle letter relief fall draw scan duck rice";

@@ -1,1 +1,1 @@
-var mnemonic = "echo indoor zero wet smile claim target job universe twenty surprise display";
+var mnemonic = "digital friend defense bleak arena spray famous helmet august cheap season zero";

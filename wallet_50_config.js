@@ -1,1 +1,1 @@
-var mnemonic = "bleak kidney noodle under pony fatal session chimney donkey hen element blind";
+var mnemonic = "virus peasant talent produce glad spray rough earth cash original reward expand";

@@ -1,1 +1,1 @@
-var mnemonic = "mean galaxy trim slush save execute burger behind element spray breeze hole";
+var mnemonic = "rare clock upgrade virus exchange raccoon chief mammal rough staff situate celery";

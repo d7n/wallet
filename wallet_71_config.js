@@ -1,1 +1,1 @@
-var mnemonic = "label ceiling jeans alert lock share gold rack gesture absurd monster total";
+var mnemonic = "apology creek sauce wing boring purchase despair brown enter opera opera crime";

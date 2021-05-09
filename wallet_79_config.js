@@ -1,1 +1,1 @@
-var mnemonic = "guard forget dial crop ice segment math flame side repair immense monkey";
+var mnemonic = "sort shallow disorder update clever wrap giraffe topic clinic gadget cup motion";

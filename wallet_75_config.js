@@ -1,1 +1,1 @@
-var mnemonic = "leaf addict lunch column culture catalog proud detail tonight record disease absent";
+var mnemonic = "poverty remain typical side novel shrimp quality crane nature include unique speak";

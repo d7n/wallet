@@ -1,1 +1,1 @@
-var mnemonic = "cover can siege any tonight rally artwork galaxy message liberty level winner";
+var mnemonic = "size demand woman acid lucky attract view seek width there identify gauge";

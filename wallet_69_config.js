@@ -1,1 +1,1 @@
-var mnemonic = "execute swallow cruel angry radar hotel multiply truly velvet hotel fan promote";
+var mnemonic = "casino beach dawn start upgrade behind shrimp region section identify ensure favorite";

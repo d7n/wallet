@@ -1,1 +1,1 @@
-var mnemonic = "over enforce feature gas reason hood connect woman fossil assault excite friend";
+var mnemonic = "unlock lab woman impulse scheme emerge powder sketch number fox judge cloth";

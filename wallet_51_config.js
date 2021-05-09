@@ -1,1 +1,1 @@
-var mnemonic = "biology civil pill thunder eternal half inquiry slender ball protect upon grain";
+var mnemonic = "option know fury steak width design price flush project hair color oyster";

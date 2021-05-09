@@ -1,1 +1,1 @@
-var mnemonic = "soon tattoo piece cement frost flower demand length transfer fragile garment donate";
+var mnemonic = "moment ancient pioneer weekend web open detect huge bar present draw canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard crazy armed true mind can throw what skill hockey balance focus";
+var mnemonic = "shaft bid east tooth year alarm security uniform elbow stumble ghost arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "draft lift differ picture online custom kiss educate enable decrease require amused";
+var mnemonic = "critic hover sad laugh exile gown fall slow glass item brush rely";

@@ -1,1 +1,1 @@
-var mnemonic = "depth shield light soccer guitar tribe iron arrive lens slim fence planet";
+var mnemonic = "degree quiz slim radio fence shoot shaft coconut return property repeat subway";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit sword saddle amateur blur oyster music spread bus column note guard";
+var mnemonic = "butter bottom illegal coast conduct negative panic artist embark insane purse joke";

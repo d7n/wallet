@@ -1,1 +1,1 @@
-var mnemonic = "pyramid fine notice inner deputy erupt doctor lumber north minor dizzy degree";
+var mnemonic = "enough peanut check topple payment walnut decline pill spy sail captain logic";

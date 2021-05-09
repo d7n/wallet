@@ -1,1 +1,1 @@
-var mnemonic = "owner manual sudden six change entire young pond betray dog cheap dish";
+var mnemonic = "must virtual despair perfect bench adult embark click hold goose goose trap";

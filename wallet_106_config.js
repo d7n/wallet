@@ -1,1 +1,1 @@
-var mnemonic = "proof noodle spoon physical century demise fetch fork physical clarify over differ";
+var mnemonic = "timber check buffalo isolate shop cloud giant base arena dynamic hub soldier";

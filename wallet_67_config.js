@@ -1,1 +1,1 @@
-var mnemonic = "where dry vivid question invest drama primary night vacuum outdoor offer pizza";
+var mnemonic = "female thunder crew hip wave dizzy average sport rotate mammal logic control";

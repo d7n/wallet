@@ -1,1 +1,1 @@
-var mnemonic = "denial gesture mango unique under execute similar butter space arrange follow zoo";
+var mnemonic = "explain lazy pledge game author still panel hour tower frozen crucial dragon";

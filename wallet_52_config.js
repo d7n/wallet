@@ -1,1 +1,1 @@
-var mnemonic = "manage ostrich boring lobster shop ketchup west chunk helmet ancient street denial";
+var mnemonic = "pond educate silver harsh frame palm between roof enact mean later goddess";

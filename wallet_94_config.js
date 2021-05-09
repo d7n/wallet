@@ -1,1 +1,1 @@
-var mnemonic = "drop hotel stage emotion scheme marine gun almost govern shove speed album";
+var mnemonic = "isolate rare marine rice boost napkin skill buzz faculty pond romance pond";

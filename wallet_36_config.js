@@ -1,1 +1,1 @@
-var mnemonic = "verb dash patch guilt plunge alpha bid destroy urge dove cute post";
+var mnemonic = "mesh course defy raccoon bracket midnight symbol total fan female wheel issue";

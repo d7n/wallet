@@ -1,1 +1,1 @@
-var mnemonic = "patrol fault divide acid gorilla coin spoon tiger soon dad chair hard";
+var mnemonic = "rare soul humble skill tray record mail omit crucial often sock measure";

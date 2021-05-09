@@ -1,1 +1,1 @@
-var mnemonic = "develop dizzy floor slogan photo south drink team repeat input birth monkey";
+var mnemonic = "guard right divert unfold chair anchor hire blade monster sign talk wide";

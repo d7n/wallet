@@ -1,1 +1,1 @@
-var mnemonic = "earth hybrid chimney cotton path vocal school gold solution imitate accident aspect";
+var mnemonic = "gift describe ugly clip shop zero stuff tobacco toy liquid grace chef";

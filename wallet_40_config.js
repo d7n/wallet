@@ -1,1 +1,1 @@
-var mnemonic = "scan thumb fury concert rapid magic better dish ceiling exercise butter member";
+var mnemonic = "tuna giggle spoon alcohol magnet valley ability tape soccer thing artefact acid";

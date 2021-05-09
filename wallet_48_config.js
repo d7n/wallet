@@ -1,1 +1,1 @@
-var mnemonic = "double thumb trigger camera decline game version celery mosquito olympic hint this";
+var mnemonic = "property girl stable armor misery powder fun noodle brother client flash imitate";

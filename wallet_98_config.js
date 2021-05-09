@@ -1,1 +1,1 @@
-var mnemonic = "analyst ahead bitter trick impose drama pony fragile sword crisp devote dice";
+var mnemonic = "message matter hammer click sad hour rib essence possible injury subway repair";

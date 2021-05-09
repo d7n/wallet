@@ -1,1 +1,1 @@
-var mnemonic = "page stone video vacant liberty across tribe pistol equip verb later million";
+var mnemonic = "lion orchard speak wave rocket monkey economy desert dune name change indicate";

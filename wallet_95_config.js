@@ -1,1 +1,1 @@
-var mnemonic = "change divert risk glow item develop horse fee project divorce surge shadow";
+var mnemonic = "tape thrive where weasel cupboard toss trend demise position segment essence fly";

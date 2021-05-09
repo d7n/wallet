@@ -1,1 +1,1 @@
-var mnemonic = "seek merit inherit want believe cool parade sponsor argue group immune dutch";
+var mnemonic = "quote market alcohol pole saddle caution upon later ginger scrap blood flash";

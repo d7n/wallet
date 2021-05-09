@@ -1,1 +1,1 @@
-var mnemonic = "reopen label eternal dance rude advice lawn use random spirit vocal regular";
+var mnemonic = "month federal settle step crane advice float deliver weird away worth motor";

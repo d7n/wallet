@@ -1,1 +1,1 @@
-var mnemonic = "sniff quality indicate virtual bird forest true dizzy speed item update news";
+var mnemonic = "genius grit emerge like sad nice mistake ozone front seek usual what";

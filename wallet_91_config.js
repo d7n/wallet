@@ -1,1 +1,1 @@
-var mnemonic = "spatial position express vicious busy depth flip allow topic fury trade arrow";
+var mnemonic = "silk divert merry notice trigger evil prepare glass blood own base method";

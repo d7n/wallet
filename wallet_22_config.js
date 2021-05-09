@@ -1,1 +1,1 @@
-var mnemonic = "property uncover garment private junk turtle hole bless draw record monkey biology";
+var mnemonic = "name quick vessel scrub check tribe guitar omit fossil gather foil detect";

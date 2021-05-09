@@ -1,1 +1,1 @@
-var mnemonic = "rain deny stairs volume one fresh champion garlic school put cliff prevent";
+var mnemonic = "degree denial excess yard soldier valid album eye nest easily unable sock";

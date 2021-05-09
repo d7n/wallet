@@ -1,1 +1,1 @@
-var mnemonic = "wedding awake pill toy purse spice uncle friend motor goat grunt ordinary";
+var mnemonic = "genre coconut harbor device leader enhance rotate corn churn trick audit property";

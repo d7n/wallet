@@ -1,1 +1,1 @@
-var mnemonic = "come dry junk recall capital absorb ranch wear bachelor good warrior legend";
+var mnemonic = "advice morning border clinic fix cream develop glad camp zoo soda verify";

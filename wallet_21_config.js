@@ -1,1 +1,1 @@
-var mnemonic = "inject nice chief dragon purse fade success empower crunch scatter oven duck";
+var mnemonic = "misery globe knock advice video blur phrase awake divorce gift ozone regret";

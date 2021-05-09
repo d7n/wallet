@@ -1,1 +1,1 @@
-var mnemonic = "weasel idle vague artwork tail group shrug dust color cheap drill option";
+var mnemonic = "apple open relax hurry honey cloud bachelor return fade always bone series";

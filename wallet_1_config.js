@@ -1,1 +1,1 @@
-var mnemonic = "scan few pyramid celery luxury asthma distance cancel grow horn about oven";
+var mnemonic = "swear scrub primary hunt lava fortune sunset biology acoustic execute anger limit";

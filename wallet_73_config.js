@@ -1,1 +1,1 @@
-var mnemonic = "code cost claw logic sick sphere bargain change service school change repeat";
+var mnemonic = "orient desert artist start script grain praise saddle absent actress advice crane";

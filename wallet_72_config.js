@@ -1,1 +1,1 @@
-var mnemonic = "clinic horn shaft spend estate height spatial ready security shadow horror predict";
+var mnemonic = "wasp usage question since eye pitch motor dinner same endless dynamic wink";

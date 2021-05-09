@@ -1,1 +1,1 @@
-var mnemonic = "round castle have forest album frequent kiwi differ more tragic alarm demise";
+var mnemonic = "game spy shield scheme resist twenty mountain soft local staff clarify life";

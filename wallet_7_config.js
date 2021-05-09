@@ -1,1 +1,1 @@
-var mnemonic = "will bus remind hour orange capital world window disagree abstract domain chief";
+var mnemonic = "bubble replace enforce saddle gather fury response leader access pepper start dolphin";

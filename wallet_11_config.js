@@ -1,1 +1,1 @@
-var mnemonic = "oyster educate aunt valve plate liberty web rack poem awful fork merry";
+var mnemonic = "flat risk soon zero garbage invest into explain village hover napkin aspect";

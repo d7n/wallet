@@ -1,1 +1,1 @@
-var mnemonic = "cube frequent tip risk sand palace sheriff culture order tuition pudding cabin";
+var mnemonic = "such blind young couple donkey announce very version hair amazing coral chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip comfort pioneer system doctor corn spare trend address hub round enemy";
+var mnemonic = "worth bitter verb visual unfold resist vintage present opinion live steak benefit";

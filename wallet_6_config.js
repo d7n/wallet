@@ -1,1 +1,1 @@
-var mnemonic = "flip wood sample captain sick kitten alley butter thunder amazing trend cheap";
+var mnemonic = "size rent trust vital victory rack matter spin oyster arena come census";

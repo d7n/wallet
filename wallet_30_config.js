@@ -1,1 +1,1 @@
-var mnemonic = "tray tragic simple cake cross vote cliff marble blouse two crouch brick";
+var mnemonic = "grass reward action detail exist seminar find safe meadow explain style electric";

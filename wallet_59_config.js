@@ -1,1 +1,1 @@
-var mnemonic = "balance real donor company invite lounge door visa argue rib gown inside";
+var mnemonic = "biology island million vintage almost result uniform monkey column reopen unique chest";

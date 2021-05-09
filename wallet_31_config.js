@@ -1,1 +1,1 @@
-var mnemonic = "surface pull trial hole avocado alpha tobacco size rubber bonus absorb measure";
+var mnemonic = "best jaguar maple master curious guess high drop seven energy answer bench";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp peanut liberty enemy void aim powder echo demand miss flip settle";
+var mnemonic = "crop pumpkin eyebrow disagree subway blanket salt solar stage mixture mass weird";

@@ -1,1 +1,1 @@
-var mnemonic = "behave maple fuel frequent danger copy box deal couple program various air";
+var mnemonic = "ensure entry sock enact sausage spell wear town grace mechanic february assist";

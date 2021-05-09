@@ -1,1 +1,1 @@
-var mnemonic = "decline march zebra lazy wood flock hold plug game path spot analyst";
+var mnemonic = "island elevator wisdom correct student parrot cattle essence base funny ability debris";

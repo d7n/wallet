@@ -1,1 +1,1 @@
-var mnemonic = "olympic pigeon fuel wide long ghost account paper any hen candy drastic";
+var mnemonic = "chef lamp hospital exhaust leopard crane coyote express gloom gym owner resource";

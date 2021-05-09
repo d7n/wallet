@@ -1,1 +1,1 @@
-var mnemonic = "destroy silent rose goat add patient snack miss taste name clean like";
+var mnemonic = "plastic finger rebuild yellow disease pistol fly speed way convince margin raw";

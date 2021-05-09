@@ -1,1 +1,1 @@
-var mnemonic = "soap only grape west test twenty under throw reward rabbit mean write";
+var mnemonic = "transfer real parrot mail bird coach wood language give pond cover release";

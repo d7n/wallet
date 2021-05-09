@@ -1,1 +1,1 @@
-var mnemonic = "gossip mass pass fall kangaroo exchange anchor sort toward pond swift exotic";
+var mnemonic = "husband include decide layer gallery indoor kid pulse april kingdom cement always";

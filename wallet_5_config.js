@@ -1,1 +1,1 @@
-var mnemonic = "bargain cycle truth question bracket napkin check buyer craft patch fluid trend";
+var mnemonic = "desert swamp they mosquito clown other will round prison equal ride front";

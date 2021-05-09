@@ -1,1 +1,1 @@
-var mnemonic = "pitch better burden draw ignore idle invest theme border kind sister trumpet";
+var mnemonic = "speed machine connect deny critic step matter peace diet swim laundry twenty";

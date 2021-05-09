@@ -1,1 +1,1 @@
-var mnemonic = "amount bind minor salt science plunge illness proud gather street load food";
+var mnemonic = "junk congress sound sight document female gun artefact stick enter news mention";

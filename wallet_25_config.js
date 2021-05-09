@@ -1,1 +1,1 @@
-var mnemonic = "drip outdoor fruit source horn salad north balcony source almost lounge avocado";
+var mnemonic = "field palace neutral matter wrong lamp balance document fury index primary rain";

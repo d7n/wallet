@@ -1,1 +1,1 @@
-var mnemonic = "tool connect draw cotton convince spatial pole book rib possible hurt unusual";
+var mnemonic = "private bless gift sponsor bomb puppy economy motor entire bracket innocent fashion";

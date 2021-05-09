@@ -1,1 +1,1 @@
-var mnemonic = "just broken easily open timber decline force expand mother uniform choose donate";
+var mnemonic = "certain win cage mountain water surprise crumble frog share oblige stone stuff";

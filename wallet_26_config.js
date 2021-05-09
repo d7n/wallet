@@ -1,1 +1,1 @@
-var mnemonic = "must sock industry call aunt pottery lemon curtain actress kidney lazy powder";
+var mnemonic = "shock boy slush crazy globe they leaf giraffe rack access west select";

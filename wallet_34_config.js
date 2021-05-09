@@ -1,1 +1,1 @@
-var mnemonic = "draft improve million grit wheel sense column source peanut apple milk exercise";
+var mnemonic = "huge aunt purity lunar clever fossil hat story library journey shove glare";

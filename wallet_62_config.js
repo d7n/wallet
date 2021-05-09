@@ -1,1 +1,1 @@
-var mnemonic = "walnut move unit leaf sort drift forest whisper rally double modify civil";
+var mnemonic = "brave rack useless build weekend alien trumpet lunar super focus shrug fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "above game book soul museum under affair idea whale dream crack venture";
+var mnemonic = "drop coral loyal near coil motor true language member dial victory tennis";

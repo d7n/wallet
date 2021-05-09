@@ -1,1 +1,1 @@
-var mnemonic = "tourist scrap summer skate pond excite slim grant quality poem awkward fame";
+var mnemonic = "once range master roast gold grow bag bid slot this range budget";

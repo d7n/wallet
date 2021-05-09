@@ -1,1 +1,1 @@
-var mnemonic = "excuse certain famous uphold target inherit priority menu sick tissue venture time";
+var mnemonic = "dynamic point identify spider super laundry author zoo jealous orchard risk mule";

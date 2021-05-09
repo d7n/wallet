@@ -1,1 +1,1 @@
-var mnemonic = "whale erase crack rally clump thing opinion auction toddler hard spirit runway";
+var mnemonic = "miss drip undo assume domain girl kick mimic over comic rude book";

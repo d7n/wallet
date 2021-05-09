@@ -1,1 +1,1 @@
-var mnemonic = "whip winter spend fun stuff name remember salute clean left cement only";
+var mnemonic = "bridge lesson govern suggest error stool supreme inflict rely hold canoe wave";

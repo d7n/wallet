@@ -1,1 +1,1 @@
-var mnemonic = "glare ready box model practice typical general dream practice cave solution sauce";
+var mnemonic = "alcohol broom future soldier category lunch shy exhibit draft gather love heavy";

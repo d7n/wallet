@@ -1,1 +1,1 @@
-var mnemonic = "fetch draw drink coast orange tooth angle crumble paddle excuse blue dwarf";
+var mnemonic = "coast radar silent frown account moral equal bonus situate suspect endorse gorilla";

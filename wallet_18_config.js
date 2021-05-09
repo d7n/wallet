@@ -1,1 +1,1 @@
-var mnemonic = "stereo uniform tooth salon entry mango throw series giant little dune fade";
+var mnemonic = "zone fall corn blur wheel future magnet tube accident walk symptom risk";

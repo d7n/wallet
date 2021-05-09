@@ -1,1 +1,1 @@
-var mnemonic = "once harvest hazard sauce right swift express demand void have gas join";
+var mnemonic = "pause welcome census agent oppose seminar phone emerge cover circle spike giant";

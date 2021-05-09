@@ -1,1 +1,1 @@
-var mnemonic = "foster disagree album clog enjoy submit state aunt client ghost panda cool";
+var mnemonic = "today thing lyrics dutch fancy depend strike item access rail visual original";

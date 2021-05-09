@@ -1,1 +1,1 @@
-var mnemonic = "spice fever sting happy wide civil one situate capable fiction delay since";
+var mnemonic = "sport shove attract video away glory choose pitch twice once shuffle dizzy";

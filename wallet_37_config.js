@@ -1,1 +1,1 @@
-var mnemonic = "mouse polar fabric insect language you ability hour oblige actress permit fog";
+var mnemonic = "young fragile chest ethics elder track little bridge broken produce coach crime";

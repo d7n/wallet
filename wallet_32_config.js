@@ -1,1 +1,1 @@
-var mnemonic = "patrol reopen august struggle siren wisdom squeeze vast cereal paper order loan";
+var mnemonic = "wheel west diamond endorse turn inmate mosquito subject toward dolphin jealous reduce";

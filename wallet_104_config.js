@@ -1,1 +1,1 @@
-var mnemonic = "crash verify shaft unknown fox silk outside actress poet cherry board coach";
+var mnemonic = "help reopen solar lawsuit depend ability size ribbon gorilla miss rebel draft";

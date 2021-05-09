@@ -1,1 +1,1 @@
-var mnemonic = "attack divert gain still ozone insane visa trade damp season decade dose";
+var mnemonic = "dolphin decrease hunt junk exist maid genuine group cage banana select aware";

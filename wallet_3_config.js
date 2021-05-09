@@ -1,1 +1,1 @@
-var mnemonic = "dinner fall civil camera child enact device rude club unusual mule stand";
+var mnemonic = "palm pause bundle gadget cactus marriage bar lecture omit sail range upon";

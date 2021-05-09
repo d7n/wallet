@@ -1,1 +1,1 @@
-var mnemonic = "kitchen person stadium then junk clock walnut hundred better lava moment ankle";
+var mnemonic = "riot pole sunset party parrot physical about across concert asset fall flag";
