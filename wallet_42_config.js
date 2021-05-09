@@ -1,1 +1,1 @@
-var mnemonic = "whisper three town jazz tiny local regret frequent armed embrace pupil maid";
+var mnemonic = "often swear kiss scissors claim gentle cricket renew vessel diet clap live";

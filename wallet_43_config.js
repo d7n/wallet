@@ -1,1 +1,1 @@
-var mnemonic = "depth true coffee slow mesh bullet bar spirit frown door glimpse truth";
+var mnemonic = "museum neutral truly lawn coil hamster west occur salon music warrior nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "range rug web else drift cloud clay impose wild accident happy erosion";
+var mnemonic = "become goat divide ripple horror industry reform wrong earth liquid machine monkey";

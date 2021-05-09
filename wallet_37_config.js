@@ -1,1 +1,1 @@
-var mnemonic = "rug differ imitate lion attack card century train endorse frog hurdle profit";
+var mnemonic = "this twelve glass system news network stomach seek bring assist air inhale";

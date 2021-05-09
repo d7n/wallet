@@ -1,1 +1,1 @@
-var mnemonic = "amateur diamond elite sting then coin calm smooth cycle burden faculty improve";
+var mnemonic = "fancy heavy cry mother pelican tone half awful pyramid stone rug globe";

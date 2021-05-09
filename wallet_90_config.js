@@ -1,1 +1,1 @@
-var mnemonic = "raven inmate garment bless bird replace steel roast orange differ fall cloud";
+var mnemonic = "suit liberty small second champion sea club element thank unit crash castle";

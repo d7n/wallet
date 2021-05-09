@@ -1,1 +1,1 @@
-var mnemonic = "replace couple leisure garlic master vivid into knife toilet term change exhibit";
+var mnemonic = "auto distance legal hen mercy beauty glance fault skin denial tower chef";

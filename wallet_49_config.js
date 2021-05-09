@@ -1,1 +1,1 @@
-var mnemonic = "prepare emerge trade student wagon artwork derive beauty depend tooth timber medal";
+var mnemonic = "pistol drama tape rally suspect rail phone chief best spice grant promote";

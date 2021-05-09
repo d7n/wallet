@@ -1,1 +1,1 @@
-var mnemonic = "blanket alpha fury gift original setup month outdoor unable dismiss bag enforce";
+var mnemonic = "life people surge curtain alter better brother gospel paper struggle warrior bonus";

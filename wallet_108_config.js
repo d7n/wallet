@@ -1,1 +1,1 @@
-var mnemonic = "dove wrestle spike acoustic zoo canvas clay describe hammer rural turtle modify";
+var mnemonic = "brave intact demand arrange square riot yard bacon hidden clarify wheat replace";

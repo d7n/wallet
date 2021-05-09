@@ -1,1 +1,1 @@
-var mnemonic = "coffee opera when very all control track shoot tell chase main album";
+var mnemonic = "axis hello sunny wise swift awake brief rail alley title spatial wrong";

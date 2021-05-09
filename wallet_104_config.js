@@ -1,1 +1,1 @@
-var mnemonic = "west chat wood crush tenant suit sure hammer crop smooth scout rifle";
+var mnemonic = "best spread april abuse clean unfair parrot position interest hold inject umbrella";

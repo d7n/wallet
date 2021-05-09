@@ -1,1 +1,1 @@
-var mnemonic = "hello vibrant reopen one unusual swarm divert angle skin citizen sport first";
+var mnemonic = "build sight arctic charge climb intact exclude good suggest sniff steel month";

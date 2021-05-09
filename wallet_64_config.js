@@ -1,1 +1,1 @@
-var mnemonic = "ketchup rescue agree quick junior fun multiply bag luggage broccoli then unlock";
+var mnemonic = "digital embrace notice echo swap marine east cart melt source trouble search";

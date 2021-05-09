@@ -1,1 +1,1 @@
-var mnemonic = "aisle dash dash useless render lobster gentle adjust frame milk motor dove";
+var mnemonic = "nice throw reject marble boil say lend blood chuckle host track helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow tired camp wash world crucial clerk picture short child coconut mom";
+var mnemonic = "jelly aerobic fine glow price solution way economy shoulder acid sport gold";

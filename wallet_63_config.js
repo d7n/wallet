@@ -1,1 +1,1 @@
-var mnemonic = "open involve moon giggle exact public nice grid mango merit mammal matrix";
+var mnemonic = "large engage negative hockey document fall system name segment stand pond top";

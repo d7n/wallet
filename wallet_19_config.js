@@ -1,1 +1,1 @@
-var mnemonic = "proud abandon film inhale body will episode zero slow puppy lesson nominee";
+var mnemonic = "brief canyon card dinner already ocean hunt bless stool razor rubber beach";

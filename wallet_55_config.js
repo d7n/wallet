@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow fabric deliver tortoise foam pretty erode whisper feed chat coach slab";
+var mnemonic = "range blanket scrap flavor drastic cricket rule dawn plug weapon crash giant";

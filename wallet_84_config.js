@@ -1,1 +1,1 @@
-var mnemonic = "rice catalog aspect toilet able cinnamon steak voice charge stand market forward";
+var mnemonic = "approve summer crew term lottery second buzz symbol usage build wagon arrest";

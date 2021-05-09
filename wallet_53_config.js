@@ -1,1 +1,1 @@
-var mnemonic = "curve price heart genuine luxury inhale okay educate fame open myth base";
+var mnemonic = "empower eagle stone mechanic album canyon wide tumble cancel boost bread forget";

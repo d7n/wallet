@@ -1,1 +1,1 @@
-var mnemonic = "track cross denial omit tunnel pill cause purpose tomorrow mango drift question";
+var mnemonic = "price ramp omit hunt mixture bargain school iron certain survey tuition solid";

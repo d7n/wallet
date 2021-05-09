@@ -1,1 +1,1 @@
-var mnemonic = "swallow crash hip valid wire angry slab spray either sort tooth river";
+var mnemonic = "quality final salon ball network already vote rapid patch vehicle helmet dove";

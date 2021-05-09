@@ -1,1 +1,1 @@
-var mnemonic = "guess fence olympic group gospel scrap empower punch primary document piece poet";
+var mnemonic = "child fork evidence beef work category lake chef joy wire birth silly";

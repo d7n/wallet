@@ -1,1 +1,1 @@
-var mnemonic = "banana tired hotel brave farm dilemma city pitch color traffic perfect entry";
+var mnemonic = "ill idle ancient parrot attend open chaos okay battle robot pole choose";

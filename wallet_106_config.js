@@ -1,1 +1,1 @@
-var mnemonic = "adult evoke vote organ brush slab mix arrest retire timber gun potato";
+var mnemonic = "surge easily soccer purity slow endorse topple stick pencil lizard venture select";

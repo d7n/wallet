@@ -1,1 +1,1 @@
-var mnemonic = "fuel cat require spoil mask huge toe sausage quit maximum couch city";
+var mnemonic = "focus truck devote artwork dutch surprise talent first flag city run term";

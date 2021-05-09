@@ -1,1 +1,1 @@
-var mnemonic = "crystal impose beef sun maple say ten basic giant swallow follow ball";
+var mnemonic = "twice fantasy debate shoot identify orange century cabin whale business rival family";

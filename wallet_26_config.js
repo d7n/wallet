@@ -1,1 +1,1 @@
-var mnemonic = "trend charge fame doctor comic urban point average enter aisle puppy jacket";
+var mnemonic = "satisfy unable effort material blind debate cube gas list gate maze warm";

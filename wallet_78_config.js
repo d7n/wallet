@@ -1,1 +1,1 @@
-var mnemonic = "lyrics diary sun black innocent barely arm skill potato drastic rare satoshi";
+var mnemonic = "book board meadow coffee royal social motor mammal program occur animal movie";

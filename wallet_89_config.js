@@ -1,1 +1,1 @@
-var mnemonic = "alley spoil labor door system admit abuse onion chase boat news urban";
+var mnemonic = "cash excess combine matrix valid abandon rocket wash soccer trophy goat trigger";

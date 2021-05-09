@@ -1,1 +1,1 @@
-var mnemonic = "oppose wheel limit miracle miracle praise chalk approve clip evolve note access";
+var mnemonic = "tunnel boil flavor surprise trigger twenty grief universe amazing victory kid suffer";

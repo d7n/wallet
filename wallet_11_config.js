@@ -1,1 +1,1 @@
-var mnemonic = "exercise pulse chicken abstract monitor verb crop mean fix job tonight pretty";
+var mnemonic = "hotel casual joy wing powder crouch account hawk february jelly pause slender";

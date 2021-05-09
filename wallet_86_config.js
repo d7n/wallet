@@ -1,1 +1,1 @@
-var mnemonic = "repair design human economy manage volume inquiry orchard foster cabin mix solve";
+var mnemonic = "water acquire taxi trip timber witness huge submit crouch demise festival chronic";

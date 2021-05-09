@@ -1,1 +1,1 @@
-var mnemonic = "transfer make rug endless wash ancient happy feature quit gentle adapt ribbon";
+var mnemonic = "right pumpkin drum party make boat rival govern prefer carry dance bullet";

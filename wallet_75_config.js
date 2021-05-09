@@ -1,1 +1,1 @@
-var mnemonic = "electric sword coconut deer smooth bleak later husband rookie warm excess ghost";
+var mnemonic = "alone eagle board wide purchase ability behind elbow donate dumb industry fish";

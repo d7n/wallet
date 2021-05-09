@@ -1,1 +1,1 @@
-var mnemonic = "notable direct culture inhale occur bind gospel damp film tunnel spike baby";
+var mnemonic = "sight dismiss galaxy cigar lecture timber heavy relief grid announce error aspect";

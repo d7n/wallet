@@ -1,1 +1,1 @@
-var mnemonic = "artefact kiss account security lobster awake seed resemble agent father harsh exercise";
+var mnemonic = "husband wink hill insane spring bomb such kit lab bundle auction loop";

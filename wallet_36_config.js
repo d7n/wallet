@@ -1,1 +1,1 @@
-var mnemonic = "purchase prosper lumber solution lounge miracle bid just gun elephant rifle become";
+var mnemonic = "craft stuff avocado blind seat stem joke trip empty fiber salt answer";

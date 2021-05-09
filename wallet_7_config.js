@@ -1,1 +1,1 @@
-var mnemonic = "cage bless scissors slab predict tray hen opera burden scrub submit mask";
+var mnemonic = "fatigue whale armed spare bacon require parrot use wave purpose lemon catch";

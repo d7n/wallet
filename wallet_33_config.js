@@ -1,1 +1,1 @@
-var mnemonic = "praise clown husband denial delay report denial icon rubber hunt depth surprise";
+var mnemonic = "already glass finish bunker mule citizen history elbow fragile load concert mystery";

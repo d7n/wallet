@@ -1,1 +1,1 @@
-var mnemonic = "forward behind initial local champion cheese online right exist someone coyote era";
+var mnemonic = "page junior dial tuition royal people boil hub brick shuffle mansion tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "device cactus critic fly device urge glad topple elite cannon question know";
+var mnemonic = "hurt upgrade often judge embrace salon begin must goddess fantasy unfair text";

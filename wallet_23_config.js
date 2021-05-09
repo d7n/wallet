@@ -1,1 +1,1 @@
-var mnemonic = "honey focus provide valley garden cattle dove lottery response toy wolf execute";
+var mnemonic = "radar dial nominee drip pill soda guide bless skill clog tuna owner";

@@ -1,1 +1,1 @@
-var mnemonic = "industry elite chronic exchange client weather pig ripple juice fine air age";
+var mnemonic = "donkey dry hill divide embrace include recall panic hire mountain heavy example";

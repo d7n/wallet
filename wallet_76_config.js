@@ -1,1 +1,1 @@
-var mnemonic = "employ junior blame song harbor target photo expect aunt bean scare awake";
+var mnemonic = "easily fury electric violin coin quarter review list reward vehicle accident purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel speak leave taste gather grit mosquito sponsor scheme truly amateur novel";
+var mnemonic = "valley start winter gauge dwarf cat wing toss relax excite say resist";

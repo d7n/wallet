@@ -1,1 +1,1 @@
-var mnemonic = "lens term rough satoshi apart rib convince bleak return swim file taste";
+var mnemonic = "tomorrow virus basket harsh peace shed expect digital pledge fancy maze alpha";

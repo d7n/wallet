@@ -1,1 +1,1 @@
-var mnemonic = "oval raccoon leisure census plate stool gasp mystery erode embody loop output";
+var mnemonic = "palm spike brand absurd carbon replace stamp journey hammer zero damp lion";

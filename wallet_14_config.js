@@ -1,1 +1,1 @@
-var mnemonic = "slogan scorpion era initial dinosaur run cereal allow few repeat sugar remember";
+var mnemonic = "december sun galaxy liberty act barely cook version keep fall carbon shed";

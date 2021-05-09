@@ -1,1 +1,1 @@
-var mnemonic = "lyrics tide puzzle media diary profit farm maid wheat shrug trumpet topple";
+var mnemonic = "unusual comic scrap come ring outside honey sauce neither nothing bike swing";

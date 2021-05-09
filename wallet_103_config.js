@@ -1,1 +1,1 @@
-var mnemonic = "rocket potato bone famous motor hundred point phone version aerobic phrase cup";
+var mnemonic = "ethics spatial hair daring dignity swear cushion confirm vault urge body hope";

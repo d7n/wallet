@@ -1,1 +1,1 @@
-var mnemonic = "lottery path round crazy soldier describe profit dream divorce walk visual shove";
+var mnemonic = "draw pole very lock design hint timber crawl segment viable auction say";

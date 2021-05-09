@@ -1,1 +1,1 @@
-var mnemonic = "three wrap tragic barrel chronic useful inform guilt buzz era twist hand";
+var mnemonic = "kick impact true mention laundry alpha gold have pair upper light apple";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture universe gallery fine erosion snow shove relief animal myself need salad";
+var mnemonic = "arrange stick around bless project wheat inspire follow slow away chest deal";

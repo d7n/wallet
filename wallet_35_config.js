@@ -1,1 +1,1 @@
-var mnemonic = "because survey animal clown machine olive garment slow movie real window cattle";
+var mnemonic = "sustain mutual swear monitor impact rely display answer mutual aunt busy fury";

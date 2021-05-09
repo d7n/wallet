@@ -1,1 +1,1 @@
-var mnemonic = "lottery repair brick bottom stay depend glimpse bone napkin peanut assault october";
+var mnemonic = "life nation occur they mention cook loan jaguar antenna garment model flag";

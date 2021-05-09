@@ -1,1 +1,1 @@
-var mnemonic = "desk train strike example you clerk abandon sweet muffin tape hockey primary";
+var mnemonic = "where sail pause innocent begin note screen spirit enhance wise muscle now";

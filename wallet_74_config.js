@@ -1,1 +1,1 @@
-var mnemonic = "digital always raccoon fish minor lend forget primary leisure sponsor cabbage barely";
+var mnemonic = "you yellow crack apart proud eagle derive believe video boil whip husband";

@@ -1,1 +1,1 @@
-var mnemonic = "amused quote rug knife column hope tape cushion unfold flip prosper middle";
+var mnemonic = "upon also skin position expand also diamond cash melt jazz nest soft";

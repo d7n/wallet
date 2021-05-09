@@ -1,1 +1,1 @@
-var mnemonic = "pencil goat trap grief bulb grocery degree dilemma atom address evidence regret";
+var mnemonic = "save frame wrestle crater diesel notice farm repeat floor observe train oval";

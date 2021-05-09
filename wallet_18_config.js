@@ -1,1 +1,1 @@
-var mnemonic = "crucial post cost cheese convince crowd moon spray sell catch rain banana";
+var mnemonic = "sweet negative rapid snap view truly cool enact monster outer repeat token";

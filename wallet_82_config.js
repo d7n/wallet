@@ -1,1 +1,1 @@
-var mnemonic = "swarm purity chicken bid flower budget kangaroo arm glance broom sniff slender";
+var mnemonic = "elite medal blade bronze prize arm enact broccoli crime pool obvious tower";

@@ -1,1 +1,1 @@
-var mnemonic = "room result art vast tape margin vanish puzzle potato oval version inch";
+var mnemonic = "tonight tragic roof manual cheap supreme wool merge enact orbit mouse fresh";

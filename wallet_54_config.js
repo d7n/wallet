@@ -1,1 +1,1 @@
-var mnemonic = "monitor nothing gallery violin marble machine occur crew float muscle soup exact";
+var mnemonic = "drill arctic action autumn layer okay awesome moon bread write outdoor immense";

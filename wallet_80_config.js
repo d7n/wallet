@@ -1,1 +1,1 @@
-var mnemonic = "illegal throw swing armed off wife rookie artefact soft own caught catalog";
+var mnemonic = "bracket stadium head vital guess moral alone oval keen floor icon fatigue";

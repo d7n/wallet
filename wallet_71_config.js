@@ -1,1 +1,1 @@
-var mnemonic = "lecture chat tennis put travel beauty jaguar tackle inmate divide slight hand";
+var mnemonic = "math know believe exhibit detect team clever ostrich grain page book front";

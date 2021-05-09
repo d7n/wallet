@@ -1,1 +1,1 @@
-var mnemonic = "build eagle rent goose frown trend obscure wagon must frequent rain total";
+var mnemonic = "gold defy jealous cute ask equip seven derive diet increase glimpse level";

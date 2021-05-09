@@ -1,1 +1,1 @@
-var mnemonic = "decide border comfort country gold will math pizza tornado silk dynamic syrup";
+var mnemonic = "front maximum bus crazy dizzy sense neutral vendor shaft nephew reject virus";

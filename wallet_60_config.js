@@ -1,1 +1,1 @@
-var mnemonic = "leader slice equip admit match tribe lecture exit script body action before";
+var mnemonic = "brick bless absorb absurd age poem shuffle vacant frost card chicken shadow";

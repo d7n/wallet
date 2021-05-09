@@ -1,1 +1,1 @@
-var mnemonic = "talk timber verb morning venture language double addict best faculty again between";
+var mnemonic = "trend eternal strike claim bus bomb can fame able wealth crime alone";

@@ -1,1 +1,1 @@
-var mnemonic = "degree cost state topple online entry curtain verb help arena warrior museum";
+var mnemonic = "blur kangaroo expand barely lion exist piece bonus proud stock upset rebel";

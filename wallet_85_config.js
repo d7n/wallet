@@ -1,1 +1,1 @@
-var mnemonic = "drama cover swallow during jealous rookie equal worry push end mask often";
+var mnemonic = "resemble enough tackle split quantum circle item horse dignity mouse salt crop";

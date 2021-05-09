@@ -1,1 +1,1 @@
-var mnemonic = "unfold connect child law napkin fruit evil assist glass motor foil cry";
+var mnemonic = "cheap consider virtual awake poem slow swing old bundle verify essay gallery";

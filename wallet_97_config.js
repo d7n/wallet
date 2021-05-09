@@ -1,1 +1,1 @@
-var mnemonic = "perfect draft scale stable answer provide kite damage follow happy identify wedding";
+var mnemonic = "size slim lizard use diamond web face magic tool obvious timber health";

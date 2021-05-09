@@ -1,1 +1,1 @@
-var mnemonic = "ginger suffer later walnut test breeze record decorate hen next soup fold";
+var mnemonic = "pact peanut pudding demand clever asset chimney symbol naive woman short rich";

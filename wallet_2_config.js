@@ -1,1 +1,1 @@
-var mnemonic = "demise worry bundle silk angry spring useless cloth idle hybrid detect wasp";
+var mnemonic = "canoe kite mixture festival monster broom random harsh boost stick frown birth";

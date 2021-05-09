@@ -1,1 +1,1 @@
-var mnemonic = "require tell pole nose gorilla joke install vague hip cute amount twin";
+var mnemonic = "address trophy float rule fork angle east creek near slide glass ten";

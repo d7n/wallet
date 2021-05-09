@@ -1,1 +1,1 @@
-var mnemonic = "method galaxy mango connect scale fetch deer fall device brisk dinner badge";
+var mnemonic = "little clarify sorry wheel same useful when sign uncle super ball denial";

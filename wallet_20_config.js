@@ -1,1 +1,1 @@
-var mnemonic = "correct into model despair spoon buyer call suffer divorce clump finger school";
+var mnemonic = "doctor silver spell under make major airport reunion spend fault patch suspect";

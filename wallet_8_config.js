@@ -1,1 +1,1 @@
-var mnemonic = "staff next phone patrol shed portion project about trash shine rent solar";
+var mnemonic = "ethics hope breeze main garment turtle pizza barely defense priority resemble apart";

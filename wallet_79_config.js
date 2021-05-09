@@ -1,1 +1,1 @@
-var mnemonic = "ivory oven arm thumb round board flush grocery mind tomorrow casino secret";
+var mnemonic = "venue tank friend cereal put youth card elegant resist surge tunnel juice";

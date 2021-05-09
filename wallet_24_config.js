@@ -1,1 +1,1 @@
-var mnemonic = "plug region interest hub poet radar knock blame rather apple refuse paddle";
+var mnemonic = "inflict demise alpha bonus wisdom alcohol sunset fan roast result curve choice";

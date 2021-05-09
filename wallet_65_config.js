@@ -1,1 +1,1 @@
-var mnemonic = "evolve reward viable hint embody speed analyst desk hill faint run flame";
+var mnemonic = "casual flight grunt slide hedgehog vault volcano observe nut earth balcony chaos";

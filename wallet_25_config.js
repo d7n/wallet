@@ -1,1 +1,1 @@
-var mnemonic = "survey tiger apart spring adult permit surprise pencil acid task lend assist";
+var mnemonic = "scheme stamp width common program perfect possible bonus pizza bean obtain simple";

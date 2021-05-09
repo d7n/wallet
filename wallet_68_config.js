@@ -1,1 +1,1 @@
-var mnemonic = "link pulse fiscal first garment garbage alarm robot reward scheme blur winner";
+var mnemonic = "save flock radar wait gloom spike dinosaur mesh bright plastic magic pave";
