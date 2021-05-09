@@ -1,1 +1,1 @@
-var mnemonic = "chief margin crash quick rescue surround left recall grass balance educate runway";
+var mnemonic = "join shrimp behind weather sweet scissors invest deputy giant soon post arrow";

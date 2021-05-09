@@ -1,1 +1,1 @@
-var mnemonic = "digital spy drama symptom armed syrup any race parent poverty question panda";
+var mnemonic = "hurry boat dog violin three trouble close apology scan trap penalty trap";

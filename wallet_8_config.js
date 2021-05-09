@@ -1,1 +1,1 @@
-var mnemonic = "merit sphere pulse enter gain forest call cube state clinic canvas basic";
+var mnemonic = "village theory gather congress announce brave tennis urge sight journey under armor";

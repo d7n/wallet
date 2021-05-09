@@ -1,1 +1,1 @@
-var mnemonic = "awkward impose nominee inmate silk three patch quarter check city unfold busy";
+var mnemonic = "basic item improve coil fitness brick alcohol seat disagree return input slush";

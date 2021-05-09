@@ -1,1 +1,1 @@
-var mnemonic = "come urban enhance bread certain priority reward walnut train antenna morning toilet";
+var mnemonic = "circle tilt tragic diet indoor renew scan hurry blouse fluid stable elegant";

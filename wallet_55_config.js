@@ -1,1 +1,1 @@
-var mnemonic = "offer same uncover win rigid quick minor gold still vintage tail snake";
+var mnemonic = "also roast badge common later shock group sell act luggage guard effort";

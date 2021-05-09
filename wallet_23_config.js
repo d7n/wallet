@@ -1,1 +1,1 @@
-var mnemonic = "summer useless room trick tool crop slush unveil meat month soul random";
+var mnemonic = "parrot borrow fiscal light math law bomb entire salmon bleak youth congress";

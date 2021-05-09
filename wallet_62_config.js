@@ -1,1 +1,1 @@
-var mnemonic = "voice health syrup banner legend hollow narrow climb finish vehicle thank outer";
+var mnemonic = "taste buffalo chimney gossip apology mutual bus annual jar cross rally cat";

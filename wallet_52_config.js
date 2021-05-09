@@ -1,1 +1,1 @@
-var mnemonic = "firm nerve access exhaust liar useful harbor spin trap certain near tuition";
+var mnemonic = "genre black aim main toward upgrade olympic canvas joke siren spray office";

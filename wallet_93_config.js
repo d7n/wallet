@@ -1,1 +1,1 @@
-var mnemonic = "salad movie discover general direct fruit tobacco muffin three nephew pizza purity";
+var mnemonic = "frog educate off hawk welcome open prosper weird manage hawk unknown tumble";

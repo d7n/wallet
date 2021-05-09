@@ -1,1 +1,1 @@
-var mnemonic = "destroy play host shoulder shrimp bring rug blanket pull provide proof club";
+var mnemonic = "design misery acoustic sphere master legend when never depart raccoon field busy";

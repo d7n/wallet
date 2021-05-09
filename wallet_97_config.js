@@ -1,1 +1,1 @@
-var mnemonic = "announce crucial oven leisure alpha above explain betray satisfy waste picnic always";
+var mnemonic = "metal situate sting tortoise whale topic engine inquiry salon child twenty adjust";

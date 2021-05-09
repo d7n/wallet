@@ -1,1 +1,1 @@
-var mnemonic = "habit wire ability bread profit own island hint better describe shed ostrich";
+var mnemonic = "pupil quantum they inch alarm vivid squirrel siege live soon divert delay";

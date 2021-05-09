@@ -1,1 +1,1 @@
-var mnemonic = "clap goat merry lawsuit size cart shock marine demand hawk eyebrow strong";
+var mnemonic = "peasant mad labor knock boost dose empower staff alone easily diet say";

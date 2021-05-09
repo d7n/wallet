@@ -1,1 +1,1 @@
-var mnemonic = "sight pistol swamp crane barrel cliff dynamic film crack obey error soccer";
+var mnemonic = "curve reward fiber favorite live cloud dirt letter slogan pool hard curve";

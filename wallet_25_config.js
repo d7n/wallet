@@ -1,1 +1,1 @@
-var mnemonic = "ancient soccer decide aspect maze switch kitchen truth ranch bounce congress dog";
+var mnemonic = "frown sword lecture staff logic armed spoil lend distance slush pattern cave";

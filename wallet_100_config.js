@@ -1,1 +1,1 @@
-var mnemonic = "away fiction excuse forward dish renew process kid enforce shed arena purchase";
+var mnemonic = "puzzle unable winter draw hunt resource expand foot bike news grunt undo";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate wrestle fish ancient vapor custom lady addict estate drip finish ivory";
+var mnemonic = "inside desk alley action fence behind elite deliver left claim atom grow";

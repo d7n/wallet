@@ -1,1 +1,1 @@
-var mnemonic = "swift social remind scorpion opera dry next damage helmet firm culture you";
+var mnemonic = "private tunnel enough garment inspire balcony scout iron burger pitch rare pizza";

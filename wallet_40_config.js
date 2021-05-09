@@ -1,1 +1,1 @@
-var mnemonic = "crush mountain solar only leader fury sunny zebra original crack brick nest";
+var mnemonic = "genre happy afford disorder aware employ tackle drastic winter humor arm devote";

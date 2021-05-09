@@ -1,1 +1,1 @@
-var mnemonic = "film medal business unique chalk bind rebel copper city project force weather";
+var mnemonic = "cushion broccoli imitate gate measure sauce film pond novel purpose carry early";

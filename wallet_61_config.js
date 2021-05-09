@@ -1,1 +1,1 @@
-var mnemonic = "february reveal exhibit patch space unable code basket emotion grab ring memory";
+var mnemonic = "panel gift vessel across year peace tail scare someone scheme oblige candy";

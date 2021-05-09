@@ -1,1 +1,1 @@
-var mnemonic = "goose success smile early approve frog shoe diesel dynamic culture direct divert";
+var mnemonic = "minute pottery situate size table wink split mask cigar dad combine borrow";

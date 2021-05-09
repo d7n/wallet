@@ -1,1 +1,1 @@
-var mnemonic = "turkey crazy visa hole elegant roof drastic gentle enter seek rich rather";
+var mnemonic = "tiger absurd double shine mix scrub organ happy omit valve oil crime";

@@ -1,1 +1,1 @@
-var mnemonic = "desk exchange few owner peace settle museum fabric brother pet wise fork";
+var mnemonic = "juice embark one hat bicycle talk squirrel bar volume biology festival grief";

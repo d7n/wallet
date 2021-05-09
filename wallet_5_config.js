@@ -1,1 +1,1 @@
-var mnemonic = "property meadow still obtain fragile entry immense piano garage fresh session affair";
+var mnemonic = "alone calm mimic walk toddler elbow meat sleep dumb patient whale hour";

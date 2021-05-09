@@ -1,1 +1,1 @@
-var mnemonic = "lumber improve elevator paper prevent slide fork pet entire situate cave verify";
+var mnemonic = "rapid glad museum winner bunker merry bag love result vehicle brain utility";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle eight matrix green below strike peasant mention present drastic involve black";
+var mnemonic = "predict false color world escape agree hello black sock update bonus aisle";

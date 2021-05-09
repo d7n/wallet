@@ -1,1 +1,1 @@
-var mnemonic = "prepare waste tunnel robust talent runway home test anger type shallow episode";
+var mnemonic = "pole play segment blade shove web pretty potato call taste case cruise";

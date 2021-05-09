@@ -1,1 +1,1 @@
-var mnemonic = "oven glory maid quote unusual keep any view initial stumble item decrease";
+var mnemonic = "detect clarify asthma craft doctor october involve remember head cancel oyster client";

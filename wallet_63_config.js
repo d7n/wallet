@@ -1,1 +1,1 @@
-var mnemonic = "velvet mystery tray script envelope bamboo ridge tilt game lunar hobby push";
+var mnemonic = "hold filter skate coconut control come arrange token oyster kite power seat";

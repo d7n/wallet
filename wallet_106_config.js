@@ -1,1 +1,1 @@
-var mnemonic = "half chase picture arm ugly always help giggle monitor mercy chaos lens";
+var mnemonic = "loop erosion level first awful bounce upset east simple method certain syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "drum deer noise diesel tackle rival future pistol slow jungle cupboard usual";
+var mnemonic = "lobster carry misery dance smoke phrase spy busy advice loan already wink";

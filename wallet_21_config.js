@@ -1,1 +1,1 @@
-var mnemonic = "clay gentle strike edge long sure quit access acid that push pride";
+var mnemonic = "dismiss cute slogan drastic together increase setup income cricket bring inherit october";

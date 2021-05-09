@@ -1,1 +1,1 @@
-var mnemonic = "shop scrub prefer van guilt depth oven since drama patrol duty suggest";
+var mnemonic = "equip snack power breeze creek leopard swap balcony lobster giggle true seven";

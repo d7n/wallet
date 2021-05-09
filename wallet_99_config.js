@@ -1,1 +1,1 @@
-var mnemonic = "jewel art raw jelly basket also ahead bless affair skull shrug buddy";
+var mnemonic = "limit avoid unusual program people fit mutual filter gasp give fantasy elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "key ill poet peanut mouse thank put shed jealous invest alter mom";
+var mnemonic = "position crime desk helmet kid company pond daughter sell vapor mistake logic";

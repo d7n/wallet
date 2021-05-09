@@ -1,1 +1,1 @@
-var mnemonic = "burger way insect raccoon airport balance boil supreme guitar thank section spoon";
+var mnemonic = "awesome weasel brain term cover kiwi main gun noble reason goddess fly";

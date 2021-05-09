@@ -1,1 +1,1 @@
-var mnemonic = "noble cloth castle attract inside shop razor involve chalk public strike occur";
+var mnemonic = "shallow combine cat morning better barrel mutual income desert theory estate three";

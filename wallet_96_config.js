@@ -1,1 +1,1 @@
-var mnemonic = "maze luggage twin satisfy often this erupt spray process lobster park weird";
+var mnemonic = "diary fault issue defense sock assist inform report medal settle will chief";

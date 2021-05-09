@@ -1,1 +1,1 @@
-var mnemonic = "rally wagon warrior bird daughter smoke hold game that shop obvious tumble";
+var mnemonic = "provide toy almost then lesson upgrade calm wife lesson shoulder lobster crack";

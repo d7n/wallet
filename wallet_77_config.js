@@ -1,1 +1,1 @@
-var mnemonic = "ivory crumble funny faculty mask six frog venture sunset account onion visual";
+var mnemonic = "click unfair people zone clarify boring remove soccer text quantum ten bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "motor stock blossom jaguar risk base develop soldier buffalo weird royal skirt";
+var mnemonic = "nerve invest hood video change wasp like cabin vocal melt key pilot";

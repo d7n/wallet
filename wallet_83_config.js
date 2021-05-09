@@ -1,1 +1,1 @@
-var mnemonic = "sort expand obvious cry brass catalog pelican favorite honey marriage problem inherit";
+var mnemonic = "intact winner wire solar fit cement fruit peanut liar will creek struggle";

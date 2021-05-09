@@ -1,1 +1,1 @@
-var mnemonic = "harsh labor avocado wise common naive cram volume else venue address nuclear";
+var mnemonic = "firm network uphold wrist hint wrap coconut quarter magnet aunt hen tragic";

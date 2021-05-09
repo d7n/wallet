@@ -1,1 +1,1 @@
-var mnemonic = "alarm issue canal glue vote flock tennis equip explain session cloud aisle";
+var mnemonic = "what butter duty truly art mean arctic bone hammer display rate horse";

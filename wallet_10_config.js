@@ -1,1 +1,1 @@
-var mnemonic = "weird hire pony feature gym weasel fabric garden stairs either flee crazy";
+var mnemonic = "jelly eye cook rather blur chuckle clinic usage junk light multiply soup";

@@ -1,1 +1,1 @@
-var mnemonic = "apart obscure chef comfort mom civil toe carry drama cute total bike";
+var mnemonic = "life buddy face toddler habit ladder pond bracket include monkey share cage";

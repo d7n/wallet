@@ -1,1 +1,1 @@
-var mnemonic = "dial mix fitness cube increase second render degree memory below skill broken";
+var mnemonic = "you job liar shiver cry asthma initial angry fan mad idle naive";

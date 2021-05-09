@@ -1,1 +1,1 @@
-var mnemonic = "true explain indoor cotton confirm allow injury happy expect icon gossip day";
+var mnemonic = "cattle long easy satoshi elite run cotton crazy ancient pilot shadow small";

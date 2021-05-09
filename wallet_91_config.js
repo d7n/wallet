@@ -1,1 +1,1 @@
-var mnemonic = "remain deny bamboo elite birth boat cream oven jungle glue crucial ghost";
+var mnemonic = "flower gift ship catalog burden crouch erosion slot glass art boost message";

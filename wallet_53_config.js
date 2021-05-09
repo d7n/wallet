@@ -1,1 +1,1 @@
-var mnemonic = "come garden world stamp entry zebra flash next color either opera annual";
+var mnemonic = "traffic spoon toast acid repair parrot blush indicate time clinic inside they";

@@ -1,1 +1,1 @@
-var mnemonic = "devote produce dose crawl october stay match citizen banana skate shiver tank";
+var mnemonic = "beauty country gaze elegant trip raccoon odor twice forum affair barrel giraffe";

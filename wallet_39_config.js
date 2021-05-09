@@ -1,1 +1,1 @@
-var mnemonic = "piece urge nerve check puppy notable brief crane element bachelor idle address";
+var mnemonic = "potato shuffle globe scare actor chase spread bounce tragic fox fat grid";

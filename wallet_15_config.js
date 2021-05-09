@@ -1,1 +1,1 @@
-var mnemonic = "penalty imitate slab work notice arch reopen biology wool flash second notable";
+var mnemonic = "tonight globe wage evil earn security fortune mouse penalty island fatigue woman";

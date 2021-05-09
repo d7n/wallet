@@ -1,1 +1,1 @@
-var mnemonic = "bacon panda hair can pulse breeze build motor theory manage age crowd";
+var mnemonic = "tired afford march chalk kind obvious rescue warfare catalog sausage genuine nature";

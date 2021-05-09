@@ -1,1 +1,1 @@
-var mnemonic = "ship theory method element flock between mosquito habit grace during involve august";
+var mnemonic = "pottery young lady chimney float access offer cluster lawn human join usage";

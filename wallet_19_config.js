@@ -1,1 +1,1 @@
-var mnemonic = "soul oil country post mango dove pigeon magnet bridge expire silk robust";
+var mnemonic = "unable report course carpet pioneer mansion relief harsh wisdom trophy admit jacket";

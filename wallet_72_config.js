@@ -1,1 +1,1 @@
-var mnemonic = "valley usage yellow giggle strategy alert coach farm screen betray tobacco stool";
+var mnemonic = "toy shine option candy noble stay slow notice twenty tissue game sword";

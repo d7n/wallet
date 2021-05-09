@@ -1,1 +1,1 @@
-var mnemonic = "fabric business twin negative divert stairs pair ten egg hobby sock scorpion";
+var mnemonic = "glide pledge kit desk friend note cat key economy liberty side old";

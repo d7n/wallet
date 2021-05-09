@@ -1,1 +1,1 @@
-var mnemonic = "depart sudden amazing cube love wife globe flip monkey lava lumber balcony";
+var mnemonic = "deal aunt select bounce quantum pelican black essay inside spread join coil";

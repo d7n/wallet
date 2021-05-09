@@ -1,1 +1,1 @@
-var mnemonic = "rule valid absorb kind supreme boat infant glad fish tree odor review";
+var mnemonic = "ecology uncover science cotton actor blade digital battle they poverty reveal orbit";

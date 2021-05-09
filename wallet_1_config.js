@@ -1,1 +1,1 @@
-var mnemonic = "media hockey noodle desert hero charge special blame shift special resist hill";
+var mnemonic = "quiz connect aim acquire affair margin impose private prevent flee deny master";

@@ -1,1 +1,1 @@
-var mnemonic = "ice general arrest divert episode mixed opinion pear swift settle plunge rapid";
+var mnemonic = "build banana nest fruit panel pretty violin bright oyster edit flee federal";

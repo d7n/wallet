@@ -1,1 +1,1 @@
-var mnemonic = "example save eight network know orphan combine fat syrup bid stamp sponsor";
+var mnemonic = "seek century among alarm congress bronze end accident merry ceiling engage waste";

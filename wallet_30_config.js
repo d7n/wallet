@@ -1,1 +1,1 @@
-var mnemonic = "dove lunch already insane dawn struggle cycle soul acoustic manage country lobster";
+var mnemonic = "work swim outdoor swap leave mansion gallery beef submit loud advice nominee";

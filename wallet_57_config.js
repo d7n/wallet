@@ -1,1 +1,1 @@
-var mnemonic = "fabric bag horn spawn grant eight load steel arrest story script curve";
+var mnemonic = "cabbage pill horse armor phrase lemon uncle obey matter switch another embrace";

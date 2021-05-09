@@ -1,1 +1,1 @@
-var mnemonic = "sting inside artist saddle local syrup pledge scrub worth tower conduct olympic";
+var mnemonic = "into flush size abandon kid clap box elephant valley mimic bus tool";

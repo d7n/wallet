@@ -1,1 +1,1 @@
-var mnemonic = "helmet collect correct nasty surge repeat smile lemon clever shock patch mix";
+var mnemonic = "luxury curve quarter fortune surface decade damp layer flame kite crucial shiver";

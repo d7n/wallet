@@ -1,1 +1,1 @@
-var mnemonic = "nuclear mandate super wool wave tell problem empty taste follow sort plug";
+var mnemonic = "envelope essay essay reform exclude logic spider mosquito glass tunnel tray pride";

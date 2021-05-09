@@ -1,1 +1,1 @@
-var mnemonic = "dust pen winter drip move indicate appear table over hover stone dog";
+var mnemonic = "stick spatial sword knife enemy uphold small sister girl elevator debate myself";

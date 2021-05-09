@@ -1,1 +1,1 @@
-var mnemonic = "robot together tower regret valley glory zero actor boy athlete squirrel tourist";
+var mnemonic = "moral author evolve fish hand unknown kingdom give injury cook climb outer";

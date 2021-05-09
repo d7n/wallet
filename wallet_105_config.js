@@ -1,1 +1,1 @@
-var mnemonic = "prison stove gold camera much film mechanic spawn ignore runway master bunker";
+var mnemonic = "love abuse choose wonder company milk ahead human useful honey throw august";

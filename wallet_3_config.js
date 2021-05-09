@@ -1,1 +1,1 @@
-var mnemonic = "enact minimum alley attack oak vast way december slab baby identify chair";
+var mnemonic = "text salon fold youth film income cover engage luxury fog bleak spread";

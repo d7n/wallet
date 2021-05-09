@@ -1,1 +1,1 @@
-var mnemonic = "coach measure hire convince army afraid unusual version verify uphold cannon wolf";
+var mnemonic = "real layer inner book cereal panel speed only bind orient rib because";

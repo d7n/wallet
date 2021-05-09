@@ -1,1 +1,1 @@
-var mnemonic = "caution raccoon hybrid risk expand move lava crime embrace window soul history";
+var mnemonic = "elevator nephew gun traffic always volcano side edge dust head useful three";

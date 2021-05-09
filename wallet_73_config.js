@@ -1,1 +1,1 @@
-var mnemonic = "satoshi crucial strike gesture exit sudden second ill cabbage cook gym hungry";
+var mnemonic = "bus simple lonely quick guess later federal vicious relax dismiss tool sniff";

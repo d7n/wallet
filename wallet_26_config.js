@@ -1,1 +1,1 @@
-var mnemonic = "invite swim author cluster canyon muscle they knife penalty heavy mail dawn";
+var mnemonic = "what online bind area easy guide winner birth still oblige person network";

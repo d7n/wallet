@@ -1,1 +1,1 @@
-var mnemonic = "recall loyal core mind mixed industry garbage style wealth bachelor meadow try";
+var mnemonic = "jealous pigeon recall matrix onion harsh treat retreat spider voyage egg resist";

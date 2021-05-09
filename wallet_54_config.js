@@ -1,1 +1,1 @@
-var mnemonic = "regular easy olive hunt nature swallow develop path tray protect ceiling impose";
+var mnemonic = "cool orient size skin kick skate rough flock little spy story blame";

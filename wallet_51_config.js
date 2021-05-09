@@ -1,1 +1,1 @@
-var mnemonic = "throw olive kite reform orbit also science bid spike awesome wedding virus";
+var mnemonic = "unknown journey dirt lyrics grab legend cupboard frown resource vital pond lounge";

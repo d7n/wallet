@@ -1,1 +1,1 @@
-var mnemonic = "panel panel sausage prize total head whale accident vote exchange orient rug";
+var mnemonic = "rebuild start control exercise humor sound fire brush win blush upon flash";

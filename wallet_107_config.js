@@ -1,1 +1,1 @@
-var mnemonic = "thumb donkey lemon duty tumble vicious decline keen spare dune enact stem";
+var mnemonic = "ride attitude visual labor fiscal stable merry treat artist aunt top wear";

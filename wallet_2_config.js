@@ -1,1 +1,1 @@
-var mnemonic = "diagram lobster tongue canoe swim have eight note giraffe inform mad smart";
+var mnemonic = "another phone afraid rigid six burst wasp bridge digital tiger cave start";

@@ -1,1 +1,1 @@
-var mnemonic = "owner mix resource airport cradle canoe card tower bulk wisdom kidney illness";
+var mnemonic = "share sorry minute such helmet gain inject sunny upon loyal inform tank";

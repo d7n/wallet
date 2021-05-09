@@ -1,1 +1,1 @@
-var mnemonic = "energy poverty moral rain promote fiction such sure reopen tribe hospital gym";
+var mnemonic = "prosper film arrive grant tragic fold share swap olive shadow reason unaware";

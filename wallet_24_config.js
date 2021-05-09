@@ -1,1 +1,1 @@
-var mnemonic = "fault venue tomorrow message away jeans job trouble length twist crop way";
+var mnemonic = "wolf divide prize pilot obtain toilet lobster giggle canyon bacon end wire";

@@ -1,1 +1,1 @@
-var mnemonic = "across leave industry dad weird mother cheese intact bid table exercise mystery";
+var mnemonic = "skirt rebel today property coin control best away toast heart melody apple";

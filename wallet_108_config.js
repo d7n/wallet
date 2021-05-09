@@ -1,1 +1,1 @@
-var mnemonic = "response kind soup border symbol lawsuit dry style elephant middle inside simple";
+var mnemonic = "answer win parent chuckle fall verify busy marriage always old sauce physical";

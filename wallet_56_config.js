@@ -1,1 +1,1 @@
-var mnemonic = "flower giggle payment spend decline trumpet leg electric spoil owner claw drip";
+var mnemonic = "ticket steel acquire author small popular banner radio clean fever toddler walk";

@@ -1,1 +1,1 @@
-var mnemonic = "current master scissors addict language cargo hire satisfy away coyote layer simple";
+var mnemonic = "spread gain fiscal jeans between two bind solve island seat lucky vintage";

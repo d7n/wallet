@@ -1,1 +1,1 @@
-var mnemonic = "alpha track entire three tribe cat twin december often stool wedding present";
+var mnemonic = "arrow case route panther pig useless annual cattle song purpose grid next";

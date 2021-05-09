@@ -1,1 +1,1 @@
-var mnemonic = "execute term zone gospel large guess inquiry pass music onion punch parrot";
+var mnemonic = "neck nose flat divide leopard clog disagree rice bamboo february love interest";
