@@ -1,1 +1,1 @@
-var mnemonic = "side oyster dish stool divert fork mixed someone elegant crazy flame keen";
+var mnemonic = "any oppose hawk jealous wise cupboard raw slim version fiscal omit salmon";

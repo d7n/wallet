@@ -1,1 +1,1 @@
-var mnemonic = "onion marble peace pool armor wagon draw attack pipe output north brush";
+var mnemonic = "vast aspect into tube spirit purity enough gesture thank bless faith bus";

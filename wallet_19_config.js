@@ -1,1 +1,1 @@
-var mnemonic = "question item final language issue display tuna gown control derive same ring";
+var mnemonic = "athlete group feed fiction loop suffer capable noodle bleak limit leader sort";

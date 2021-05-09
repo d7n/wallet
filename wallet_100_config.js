@@ -1,1 +1,1 @@
-var mnemonic = "tonight regret cotton wedding flight coin humble slot permit wagon vessel finish";
+var mnemonic = "nephew tuition exist spell swap bright joke run escape wall limb nephew";

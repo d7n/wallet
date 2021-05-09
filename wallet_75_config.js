@@ -1,1 +1,1 @@
-var mnemonic = "build wire assault boost crisp vintage chuckle float flame bubble snow best";
+var mnemonic = "glass embrace blur eagle fortune two report fiscal sick welcome pilot citizen";

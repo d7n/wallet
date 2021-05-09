@@ -1,1 +1,1 @@
-var mnemonic = "sail grape cram master unit below charge run sad silver topple cart";
+var mnemonic = "inhale riot civil mango civil tonight coin upon toddler worth capital bonus";

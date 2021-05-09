@@ -1,1 +1,1 @@
-var mnemonic = "kidney define trumpet team suit denial typical amount ready escape under hurdle";
+var mnemonic = "guard blood left order point small any vapor odor surprise aisle potato";

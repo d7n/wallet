@@ -1,1 +1,1 @@
-var mnemonic = "regret margin sustain grief permit basket during poverty card robust cradle ketchup";
+var mnemonic = "black drink bean fashion infant turtle size twenty theme depart clown math";

@@ -1,1 +1,1 @@
-var mnemonic = "width effort random bulk excite diagram satisfy settle oil lecture verb discover";
+var mnemonic = "lemon category flash collect lady excess drink burden scatter chapter glide trend";

@@ -1,1 +1,1 @@
-var mnemonic = "royal olive degree kangaroo vocal under good legend square fantasy oxygen later";
+var mnemonic = "uncover comfort uphold exhaust uncle obvious one brave renew forget essay because";

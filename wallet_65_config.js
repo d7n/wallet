@@ -1,1 +1,1 @@
-var mnemonic = "merit another initial disorder pony age split identify enemy rocket pride gun";
+var mnemonic = "spread day giant once love punch trade rebuild write present blast light";

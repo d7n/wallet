@@ -1,1 +1,1 @@
-var mnemonic = "road key hammer snake open amazing broken live good unfold boil inhale";
+var mnemonic = "trial ceiling cruel coral pencil another trigger private protect guide spare what";

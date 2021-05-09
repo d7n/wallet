@@ -1,1 +1,1 @@
-var mnemonic = "title lens outer toe luxury wool essay drastic moon wheat aware lens";
+var mnemonic = "pause primary switch breeze vessel pulse give primary title brass salt tribe";

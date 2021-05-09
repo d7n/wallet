@@ -1,1 +1,1 @@
-var mnemonic = "noble trap capital digital transfer guard lock ostrich summer staff gold square";
+var mnemonic = "bird tip metal monster coin heavy tiger rain circle cloth spatial own";

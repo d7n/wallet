@@ -1,1 +1,1 @@
-var mnemonic = "small runway kitchen flash match anger movie original improve cube add easy";
+var mnemonic = "year rib know patch limit notice later poem exact drive betray velvet";

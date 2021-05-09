@@ -1,1 +1,1 @@
-var mnemonic = "drop ready subway cancel render thrive absent almost tourist cannon second staff";
+var mnemonic = "health chuckle aspect broom output dynamic novel sail media lawn top fiber";

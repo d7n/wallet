@@ -1,1 +1,1 @@
-var mnemonic = "trigger night banner jaguar explain flock figure slim all dial bullet tumble";
+var mnemonic = "rich badge trial weird tribe kid unhappy mix glare access exile student";

@@ -1,1 +1,1 @@
-var mnemonic = "budget system sting wool build envelope obscure decorate act fee will hub";
+var mnemonic = "man aspect shy later village kidney prepare taxi giggle genuine hill hood";

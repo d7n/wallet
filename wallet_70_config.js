@@ -1,1 +1,1 @@
-var mnemonic = "laugh prefer cheese fold dial slim narrow bronze primary exchange order identify";
+var mnemonic = "neutral comic bitter capital narrow frown repeat tenant clinic fuel sauce voice";

@@ -1,1 +1,1 @@
-var mnemonic = "section dolphin spot judge loud tackle source raccoon demise noodle first proof";
+var mnemonic = "portion era visual grow eye trade buffalo camera holiday code nest cupboard";

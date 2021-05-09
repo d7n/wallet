@@ -1,1 +1,1 @@
-var mnemonic = "era artefact convince erosion robot piano desk issue name junior actor tide";
+var mnemonic = "army galaxy shop alien shoulder tool urban town kit fiscal insane civil";

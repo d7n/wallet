@@ -1,1 +1,1 @@
-var mnemonic = "globe cruise use yellow suggest lesson key corn riot census term desert";
+var mnemonic = "ensure flock chicken idea clown aunt april sustain flock typical cannon remember";

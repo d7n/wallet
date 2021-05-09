@@ -1,1 +1,1 @@
-var mnemonic = "trade fork alert false near piece split school skirt cabin joke lemon";
+var mnemonic = "diesel today cereal aerobic vital buzz kitten window hurry miss hen section";

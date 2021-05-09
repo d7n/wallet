@@ -1,1 +1,1 @@
-var mnemonic = "spy toe level dinosaur decline force suspect convince patch net before hobby";
+var mnemonic = "diamond people lucky siege fitness prosper idle destroy episode august require business";

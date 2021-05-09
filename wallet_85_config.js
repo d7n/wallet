@@ -1,1 +1,1 @@
-var mnemonic = "panther element fatigue fold peanut blind outer labor canvas spatial club junior";
+var mnemonic = "cement rebel pave breeze hair gesture age picnic occur artefact stairs vanish";

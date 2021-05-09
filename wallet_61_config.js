@@ -1,1 +1,1 @@
-var mnemonic = "property faith drill float action seminar crop energy tape sort rate own";
+var mnemonic = "bicycle citizen pull about betray topic web trouble salute defy twin remove";

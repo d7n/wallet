@@ -1,1 +1,1 @@
-var mnemonic = "scan theory ship illegal inform caution wild risk dash attend craft gasp";
+var mnemonic = "hybrid region prepare cart gather digital lens vast equip scatter ready various";

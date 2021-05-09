@@ -1,1 +1,1 @@
-var mnemonic = "hospital problem degree hybrid layer phrase globe puppy orphan pigeon this absent";
+var mnemonic = "flight furnace harbor clump mushroom universe sausage receive stamp vendor rubber leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "razor crunch series wreck salute twin wreck emerge exile robot any trumpet";
+var mnemonic = "brave response valid federal movie oppose swamp before extend chronic boring bounce";

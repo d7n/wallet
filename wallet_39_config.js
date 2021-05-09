@@ -1,1 +1,1 @@
-var mnemonic = "denial despair render acquire elephant enter practice dash earn aunt live gift";
+var mnemonic = "add shaft slush essence tonight clock chase gap call crucial salon light";

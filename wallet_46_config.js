@@ -1,1 +1,1 @@
-var mnemonic = "frost add figure color magic recipe clever total dash fly hobby kitten";
+var mnemonic = "found valid auto doll few shaft coast eye fame style caution rescue";

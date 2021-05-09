@@ -1,1 +1,1 @@
-var mnemonic = "purse around question about cross bone move setup legal early mercy deposit";
+var mnemonic = "install rocket try catch horse return coconut inmate estate shield fresh weird";

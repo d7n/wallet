@@ -1,1 +1,1 @@
-var mnemonic = "salad verify sword pink fit excess runway delay upon off whisper midnight";
+var mnemonic = "cement feature luxury hybrid try grass census grace review crater nation vote";

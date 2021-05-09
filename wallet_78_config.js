@@ -1,1 +1,1 @@
-var mnemonic = "elegant genuine bean tourist crop uphold market labor amused opera twice scrub";
+var mnemonic = "belt crawl place illegal omit eye tennis angle valley elder sister girl";

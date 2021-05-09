@@ -1,1 +1,1 @@
-var mnemonic = "toe blast tree galaxy arena table banana pottery lumber combine crime absent";
+var mnemonic = "knock expect swift gas alcohol drip grocery ride firm master village stem";

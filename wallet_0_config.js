@@ -1,1 +1,1 @@
-var mnemonic = "strike boat hammer ask level luxury intact moral robust horse ginger genuine";
+var mnemonic = "tonight inside gospel bulk delay orange exact arrive leg hazard license theme";

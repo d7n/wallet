@@ -1,1 +1,1 @@
-var mnemonic = "define innocent owner south orient reflect fat antenna people rather frost place";
+var mnemonic = "defy better upset arrest strong raccoon exchange shrug home anger virtual moon";

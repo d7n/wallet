@@ -1,1 +1,1 @@
-var mnemonic = "leaf radio retire type news jeans verb equal wear wasp expire area";
+var mnemonic = "citizen walk sniff veteran debate million furnace merry hope hole timber exit";

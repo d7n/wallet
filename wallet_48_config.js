@@ -1,1 +1,1 @@
-var mnemonic = "immune announce latin bracket remember pumpkin exclude shy first large unaware sister";
+var mnemonic = "table cereal devote deputy brisk unhappy rebel grief two judge fortune summer";

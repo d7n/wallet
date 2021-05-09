@@ -1,1 +1,1 @@
-var mnemonic = "inside lift hurt then diamond armed amateur impose high pencil fancy globe";
+var mnemonic = "donate maple shrimp setup open phone shock jelly swim depart fix wing";

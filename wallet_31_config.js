@@ -1,1 +1,1 @@
-var mnemonic = "nasty live fat poet horror divert arch genius museum harbor lady forget";
+var mnemonic = "head crawl pet group business motion radar broccoli crucial early face connect";

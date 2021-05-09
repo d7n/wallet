@@ -1,1 +1,1 @@
-var mnemonic = "brush smooth obey trouble where reduce upper blur trouble right entry lady";
+var mnemonic = "lion transfer easily snake jar galaxy trust tray trick crazy staff claim";

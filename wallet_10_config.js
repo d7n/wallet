@@ -1,1 +1,1 @@
-var mnemonic = "able that jeans love rapid evidence enact narrow source casual craft kind";
+var mnemonic = "filter fatigue meadow wish shop globe veteran flee hold butter loyal disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "mango release illegal slim miss current filter pledge hammer burden tooth firm";
+var mnemonic = "unit fringe person winter divide display erupt afford addict crane monitor excite";

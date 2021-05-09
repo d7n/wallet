@@ -1,1 +1,1 @@
-var mnemonic = "toward repair snack update hero zone vault slogan ask annual car more";
+var mnemonic = "census swing relief daring also parade pact wild crime obvious tunnel worry";

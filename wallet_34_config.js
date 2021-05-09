@@ -1,1 +1,1 @@
-var mnemonic = "bundle argue future truth diagram notable loop monster cute scare silk miracle";
+var mnemonic = "garage close call powder melt link style common fall admit submit laundry";

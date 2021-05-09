@@ -1,1 +1,1 @@
-var mnemonic = "genius pupil hurt fragile arctic cement fiction party kiss face wood spend";
+var mnemonic = "badge inhale tell deputy tumble weapon market choose ranch session rough laptop";

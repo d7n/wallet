@@ -1,1 +1,1 @@
-var mnemonic = "impose vital pink eight arctic neglect abandon unfair cover limit also cement";
+var mnemonic = "ride warfare wet mixture latin staff flight wife diary rocket give cycle";

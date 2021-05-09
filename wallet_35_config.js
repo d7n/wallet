@@ -1,1 +1,1 @@
-var mnemonic = "network trade only define history evil caught palm hour pudding course bubble";
+var mnemonic = "assault abuse process coach radar scale heart invest young oval birth trust";

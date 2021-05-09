@@ -1,1 +1,1 @@
-var mnemonic = "scrap project soft ripple brass tribe club trick disease kit sketch faint";
+var mnemonic = "hard annual scrap fork abandon fabric use click gasp stage reform file";

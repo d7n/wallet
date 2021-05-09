@@ -1,1 +1,1 @@
-var mnemonic = "stereo random chuckle cigar between deny recall property helmet loud glue shock";
+var mnemonic = "model van shell trap share hill faculty wire animal april reward purity";

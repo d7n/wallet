@@ -1,1 +1,1 @@
-var mnemonic = "grab shoot street castle hire circle sketch hair error tell joke private";
+var mnemonic = "bulb pause found minimum thumb final stool layer stairs slush power catalog";

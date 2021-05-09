@@ -1,1 +1,1 @@
-var mnemonic = "please october tobacco february term regret search globe jeans seven blanket oval";
+var mnemonic = "zoo arrest romance smile merry chunk hole comic half kit myth logic";

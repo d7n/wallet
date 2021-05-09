@@ -1,1 +1,1 @@
-var mnemonic = "broken liar vendor crush drum worry apology wheel undo imitate kitten digital";
+var mnemonic = "music very loyal silver december poet measure furnace debris million derive mother";

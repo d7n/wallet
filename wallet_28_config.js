@@ -1,1 +1,1 @@
-var mnemonic = "organ arrow smile merge slam beach ginger load hard sunset glory blush";
+var mnemonic = "reward coyote impose fee subway genuine host awesome loyal bring cruel diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel screen slush asset pattern behave train heavy immune royal noble century";
+var mnemonic = "damp radio frog category happy ivory tape verb category palm switch hamster";

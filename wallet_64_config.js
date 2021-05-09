@@ -1,1 +1,1 @@
-var mnemonic = "yard royal simple stumble heavy hurry judge dentist bicycle sing fog chaos";
+var mnemonic = "gain victory list session pumpkin repeat broken enter category volcano joke taxi";

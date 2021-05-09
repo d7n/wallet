@@ -1,1 +1,1 @@
-var mnemonic = "trial cable brush mask urge abuse emotion pitch hole virus enlist gown";
+var mnemonic = "toward random smoke parade arrive pledge pigeon scale flee exhibit mammal jealous";

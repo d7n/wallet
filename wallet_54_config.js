@@ -1,1 +1,1 @@
-var mnemonic = "ski drum employ cannon salt person fragile dose outdoor gaze note bone";
+var mnemonic = "onion allow auto abuse volume tourist forum fatal rookie mixed calm grape";

@@ -1,1 +1,1 @@
-var mnemonic = "this only gesture nurse rigid family rare debate summer surge kid primary";
+var mnemonic = "silly crush approve cinnamon soon annual tobacco puzzle cup wet bunker power";

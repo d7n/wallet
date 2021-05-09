@@ -1,1 +1,1 @@
-var mnemonic = "asset unlock north garage antenna receive venture judge hundred squirrel arch claim";
+var mnemonic = "eternal usage fault side vicious boy orphan elbow talk bomb aware mail";

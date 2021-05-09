@@ -1,1 +1,1 @@
-var mnemonic = "balcony flag stereo they enhance vault loop seminar sort gentle tattoo carpet";
+var mnemonic = "photo eternal away argue balance pumpkin essay weasel deposit forget flee other";

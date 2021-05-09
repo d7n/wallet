@@ -1,1 +1,1 @@
-var mnemonic = "ancient mind already govern night group room adjust heart embrace border stock";
+var mnemonic = "miracle spike solid cricket shop surprise stairs spell green tree finger author";

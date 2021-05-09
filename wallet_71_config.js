@@ -1,1 +1,1 @@
-var mnemonic = "trend verb primary brisk few supply walk snap acquire canal fiber section";
+var mnemonic = "refuse turtle diary provide forward marble ivory game excess all left advice";

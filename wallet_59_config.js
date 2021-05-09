@@ -1,1 +1,1 @@
-var mnemonic = "about hello depend patrol victory chest display butter cancel scene train doll";
+var mnemonic = "wave magic rail act error rally team manage mad tuna era witness";

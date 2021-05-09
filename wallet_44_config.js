@@ -1,1 +1,1 @@
-var mnemonic = "ill tiger simple coffee public kick morning guess science right emotion flight";
+var mnemonic = "vote vote whisper loyal hospital pizza wet horror magic loop sunny reason";

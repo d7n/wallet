@@ -1,1 +1,1 @@
-var mnemonic = "bar private apology explain nurse toy cinnamon destroy ring mandate chicken snake";
+var mnemonic = "police celery nose find famous first planet afford symptom soda foil panther";

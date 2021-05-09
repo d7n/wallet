@@ -1,1 +1,1 @@
-var mnemonic = "shadow vague direct immense smile pull okay tennis know hat network still";
+var mnemonic = "act judge stage dress liberty nuclear defense leisure animal vault magic duck";

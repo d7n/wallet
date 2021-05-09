@@ -1,1 +1,1 @@
-var mnemonic = "chair gun gravity whisper kid time warfare session banana depth piece universe";
+var mnemonic = "layer lonely fashion thank tip boss trap middle across today series affair";

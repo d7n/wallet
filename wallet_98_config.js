@@ -1,1 +1,1 @@
-var mnemonic = "color exist biology clown hybrid clown release family retire risk crumble perfect";
+var mnemonic = "sponsor trumpet ice collect proof relief garage fiber lonely sorry job mixture";

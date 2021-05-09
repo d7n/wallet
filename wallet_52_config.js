@@ -1,1 +1,1 @@
-var mnemonic = "lend rose bird tunnel biology work margin ill voyage fashion alley rice";
+var mnemonic = "address green raccoon version base tone used spread damp endless adjust actress";

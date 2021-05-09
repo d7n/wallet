@@ -1,1 +1,1 @@
-var mnemonic = "energy purse front dolphin water seed damage shiver one picture blush maximum";
+var mnemonic = "grow author inject dish switch entire alien soccer supply dismiss skirt vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise update hill culture resource remain hire board enemy loud onion general";
+var mnemonic = "group boy zoo drama crush alter system float host journey spread rather";

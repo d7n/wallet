@@ -1,1 +1,1 @@
-var mnemonic = "entry magic immune tobacco culture boil disagree crater devote jar final huge";
+var mnemonic = "debate scale risk icon slot always talent enemy hello phone name truth";

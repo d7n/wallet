@@ -1,1 +1,1 @@
-var mnemonic = "derive crucial practice give sponsor jar rent layer faith winner scout main";
+var mnemonic = "syrup spoil thrive usual senior render rich mix luggage symbol mixture pair";

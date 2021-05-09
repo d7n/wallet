@@ -1,1 +1,1 @@
-var mnemonic = "grief follow engage drastic ask lucky brown motion trap local brand hundred";
+var mnemonic = "evidence awkward knife uncle soft swing search floor sauce acquire spread fine";

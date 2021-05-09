@@ -1,1 +1,1 @@
-var mnemonic = "gadget lady visa seed need quantum doll switch century promote spread shrug";
+var mnemonic = "swamp stomach ticket message garbage couple grain admit equip auto forward remove";

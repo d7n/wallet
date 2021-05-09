@@ -1,1 +1,1 @@
-var mnemonic = "faith card leg sorry wish future oval love rally salmon system fluid";
+var mnemonic = "spike stove fantasy junior peanut broom exotic endless lobster infant machine merry";

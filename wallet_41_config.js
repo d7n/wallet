@@ -1,1 +1,1 @@
-var mnemonic = "gas nose often wage layer fiber baby novel follow black marine rabbit";
+var mnemonic = "soft toe critic must dove honey east dismiss effort stock lottery tail";

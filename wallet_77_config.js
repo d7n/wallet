@@ -1,1 +1,1 @@
-var mnemonic = "member arch scrap stadium royal wage credit thank six ecology chronic screen";
+var mnemonic = "bulk street know diary depart ripple offer stairs favorite good thank van";

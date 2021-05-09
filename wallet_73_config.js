@@ -1,1 +1,1 @@
-var mnemonic = "impose mechanic educate helmet object layer enrich just evolve cloud puzzle merit";
+var mnemonic = "candy resist asset auction panther among shrug never glow seminar two scrub";

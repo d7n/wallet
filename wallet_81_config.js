@@ -1,1 +1,1 @@
-var mnemonic = "yard require awful pass skirt kitchen uniform reunion require violin behave humor";
+var mnemonic = "umbrella first excuse tennis shoe tackle agree real come earth coconut giraffe";

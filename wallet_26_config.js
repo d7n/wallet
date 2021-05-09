@@ -1,1 +1,1 @@
-var mnemonic = "humor vast regret rigid ladder surround illness boost below display scissors window";
+var mnemonic = "where kick nest invite oil powder start casino you silver easily brass";

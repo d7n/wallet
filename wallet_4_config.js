@@ -1,1 +1,1 @@
-var mnemonic = "couple parade inner gun glory man stereo paddle soup obscure artwork twin";
+var mnemonic = "oak bind dwarf letter lava grant female ski sunset wave bag weapon";

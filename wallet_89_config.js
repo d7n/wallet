@@ -1,1 +1,1 @@
-var mnemonic = "window smooth tuna appear raven disagree dry cause wage train average hire";
+var mnemonic = "street wrist puppy weird edge option roof retire ignore trigger turkey broccoli";

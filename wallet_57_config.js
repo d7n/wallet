@@ -1,1 +1,1 @@
-var mnemonic = "bamboo pig idea noodle stove nominee stove alter ask slush match civil";
+var mnemonic = "menu pyramid sound humor ahead orphan portion alone soup truly rookie initial";
