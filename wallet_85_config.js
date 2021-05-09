@@ -1,1 +1,1 @@
-var mnemonic = "arena fame idea alone cry poverty embark exclude badge erase pilot roof";
+var mnemonic = "laundry rather same spray step grant bomb catch rocket disorder ski head";

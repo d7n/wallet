@@ -1,1 +1,1 @@
-var mnemonic = "dragon flame coral nerve walk wheel replace index umbrella lesson dentist crunch";
+var mnemonic = "head north crime tide nest change duty wheel fade ticket dress soft";

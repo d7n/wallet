@@ -1,1 +1,1 @@
-var mnemonic = "print balance imitate charge correct bring rookie furnace extra pencil bomb aware";
+var mnemonic = "slow review park success swim shallow tunnel vital noise first visual response";

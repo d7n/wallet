@@ -1,1 +1,1 @@
-var mnemonic = "side rival jewel brand harbor artist aspect maple panther review output harsh";
+var mnemonic = "goose ten tower title tribe crawl add scene first sleep tonight matrix";

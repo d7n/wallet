@@ -1,1 +1,1 @@
-var mnemonic = "nuclear regret twin damp fabric climb harsh reform giggle duck detect garbage";
+var mnemonic = "occur duty dinosaur behind want little aim east pigeon genre arch dragon";

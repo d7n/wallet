@@ -1,1 +1,1 @@
-var mnemonic = "focus sound satisfy extend garage spray venue century advance fall benefit abandon";
+var mnemonic = "scissors cricket series dismiss soon favorite opinion oak cross silly dog general";

@@ -1,1 +1,1 @@
-var mnemonic = "please typical love story bundle arrange cliff cliff cream bounce planet label";
+var mnemonic = "prepare dream tomorrow jelly corn essay bunker nominee gather order nurse salt";

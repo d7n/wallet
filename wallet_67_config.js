@@ -1,1 +1,1 @@
-var mnemonic = "good spice canal police arrow give galaxy night race foot public glow";
+var mnemonic = "when rapid risk typical cake apple manage color neutral ticket keen proof";

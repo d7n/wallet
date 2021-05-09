@@ -1,1 +1,1 @@
-var mnemonic = "match title absurd marine empty gravity plate blur grab brass board diesel";
+var mnemonic = "siren trigger door keen modify random boat exotic large excess venue turtle";

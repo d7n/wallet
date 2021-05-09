@@ -1,1 +1,1 @@
-var mnemonic = "cruise sign express arena shrug setup under bounce hamster addict chest gloom";
+var mnemonic = "sustain same hub device chef canvas put scene place frost social excite";

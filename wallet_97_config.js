@@ -1,1 +1,1 @@
-var mnemonic = "behave behave parade pelican brief target program mystery actor gun attitude urge";
+var mnemonic = "ship donate seven soon humble fix gesture sentence drip bread erase ribbon";

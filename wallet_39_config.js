@@ -1,1 +1,1 @@
-var mnemonic = "visa daring prosper bid harvest battle vast belt degree ozone seed left";
+var mnemonic = "broom language cinnamon truck drastic foil width explain hill surround culture mom";

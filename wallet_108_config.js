@@ -1,1 +1,1 @@
-var mnemonic = "ghost creek cactus antique lion middle glue lion busy fever ecology between";
+var mnemonic = "gaze unhappy airport siren skirt recall smoke stay staff staff lock candy";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin photo federal penalty material wrap blush want spin hockey able tell";
+var mnemonic = "comic fabric napkin hidden wasp home economy walk truck list over lottery";

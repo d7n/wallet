@@ -1,1 +1,1 @@
-var mnemonic = "lesson smoke wish answer attend rescue eye steak wonder access category hammer";
+var mnemonic = "isolate female maid foil mango increase giant broccoli fresh gain method document";

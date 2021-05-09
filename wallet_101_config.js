@@ -1,1 +1,1 @@
-var mnemonic = "double topic donkey butter cloud material okay have loud chef test keep";
+var mnemonic = "actor cheap radio copy pave flock top fetch crack note trap rescue";

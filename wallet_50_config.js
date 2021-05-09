@@ -1,1 +1,1 @@
-var mnemonic = "phrase area naive lumber nose inherit practice mosquito deliver helmet iron flip";
+var mnemonic = "mobile pride proud warm feed flush sure grid anchor mixed stay over";

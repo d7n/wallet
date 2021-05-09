@@ -1,1 +1,1 @@
-var mnemonic = "arctic pumpkin habit holiday onion cigar opera leopard attract wrist palace still";
+var mnemonic = "celery breeze head chef design oyster tragic link section urban beach fruit";

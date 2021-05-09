@@ -1,1 +1,1 @@
-var mnemonic = "ball coast pitch toast initial blush start seat business bag target angry";
+var mnemonic = "often nature cradle spawn fun capable come agent bone priority purchase virtual";

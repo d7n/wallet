@@ -1,1 +1,1 @@
-var mnemonic = "lunar myself wash margin ordinary tiny initial another embark defy smooth renew";
+var mnemonic = "deal grit empty congress this raven profit voice scatter blouse fault belt";

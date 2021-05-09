@@ -1,1 +1,1 @@
-var mnemonic = "capable avoid permit animal frog core ladder front grid critic culture fee";
+var mnemonic = "stone dash mandate dance sheriff learn lemon oyster will cream vintage venue";

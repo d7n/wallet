@@ -1,1 +1,1 @@
-var mnemonic = "slab kite strike habit liberty dutch quit argue walk sell frown sister";
+var mnemonic = "hazard pelican proof charge liquid laundry fan decade during hobby trip topple";

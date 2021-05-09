@@ -1,1 +1,1 @@
-var mnemonic = "dance direct jelly move puppy equal soda verify differ exclude connect tent";
+var mnemonic = "permit depth bulk path shop scan gospel bunker ocean gather final coast";

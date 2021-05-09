@@ -1,1 +1,1 @@
-var mnemonic = "inherit image yellow filter quote kitten staff spot rubber virtual april demise";
+var mnemonic = "soap soda ladder remember charge topic whisper whip pupil seat scrap soul";

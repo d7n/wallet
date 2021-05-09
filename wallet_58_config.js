@@ -1,1 +1,1 @@
-var mnemonic = "multiply tail ivory armed multiply bless start pact brass pistol swim bike";
+var mnemonic = "meat pilot ancient pride artist morning fee renew favorite enhance heavy input";

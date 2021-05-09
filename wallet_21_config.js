@@ -1,1 +1,1 @@
-var mnemonic = "gym charge spread harsh shoulder focus salon must undo panther pledge custom";
+var mnemonic = "economy detect rail income sea worth novel again moon potato term situate";

@@ -1,1 +1,1 @@
-var mnemonic = "airport erode illegal iron normal floor stereo rule weapon pull exit dumb";
+var mnemonic = "deny kangaroo expose true hire neither sphere wing modify acoustic dignity grab";

@@ -1,1 +1,1 @@
-var mnemonic = "improve hobby now hobby suggest clever judge park radio square gather athlete";
+var mnemonic = "ticket replace wheel age view property cube verify early camp matter rule";

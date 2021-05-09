@@ -1,1 +1,1 @@
-var mnemonic = "shove game clown uniform spatial battle dinner forest galaxy word crowd type";
+var mnemonic = "action cute hockey release open exotic aware universe animal congress require awesome";

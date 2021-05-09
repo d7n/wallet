@@ -1,1 +1,1 @@
-var mnemonic = "valve soccer honey text latin code always organ correct erase pass digital";
+var mnemonic = "label ecology loop state attract riot client advice diamond pony receive rely";

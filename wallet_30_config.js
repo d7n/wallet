@@ -1,1 +1,1 @@
-var mnemonic = "kiwi depart canyon security occur cloth slot chief sketch mammal scout coast";
+var mnemonic = "note butter museum hub gallery please extend luxury rack inhale seven culture";

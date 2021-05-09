@@ -1,1 +1,1 @@
-var mnemonic = "anger license current wide story agent radar kit juice shallow naive valid";
+var mnemonic = "cry ticket animal leopard industry pave shiver soul symbol during chuckle fall";

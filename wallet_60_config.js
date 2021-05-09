@@ -1,1 +1,1 @@
-var mnemonic = "fever leopard woman stadium flip predict wasp fresh resource ethics universe boy";
+var mnemonic = "pulse ridge depth aunt liberty expire ritual case spoil color cat lonely";

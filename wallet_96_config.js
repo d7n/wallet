@@ -1,1 +1,1 @@
-var mnemonic = "execute photo project core reject toward grit dad foil bomb sting peasant";
+var mnemonic = "bid actress merry client hedgehog pulp happy winner digital dash source joy";

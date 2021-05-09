@@ -1,1 +1,1 @@
-var mnemonic = "aim movie alien image puppy lounge cancel dismiss typical tenant obtain visit";
+var mnemonic = "fence myself harsh wide produce clay turkey super biology elder fancy olive";

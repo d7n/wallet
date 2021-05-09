@@ -1,1 +1,1 @@
-var mnemonic = "column eternal dose page sample series royal bracket response ensure pluck ribbon";
+var mnemonic = "nest patch story crush across robot rail gather unit face usage impulse";

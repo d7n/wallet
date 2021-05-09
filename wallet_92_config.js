@@ -1,1 +1,1 @@
-var mnemonic = "mercy resource glove exchange receive veteran risk dragon interest cup bring you";
+var mnemonic = "ecology image cave tattoo film between true champion chest address solid train";

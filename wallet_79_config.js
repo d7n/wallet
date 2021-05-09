@@ -1,1 +1,1 @@
-var mnemonic = "glance toward frog pride eternal area comic matrix ahead trend holiday vintage";
+var mnemonic = "bottom quantum blind choose dynamic slab drift lift credit feature wash tiger";

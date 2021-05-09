@@ -1,1 +1,1 @@
-var mnemonic = "behave notice february boil ride clerk idle weasel right artwork cinnamon other";
+var mnemonic = "swing castle cause bus dose dolphin toss stove again estate mule scrap";

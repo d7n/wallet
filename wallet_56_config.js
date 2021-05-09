@@ -1,1 +1,1 @@
-var mnemonic = "cycle stone resemble wage bench voice two jewel giraffe planet genuine quantum";
+var mnemonic = "until antique pluck pass grant trouble purse net comfort author olive mercy";

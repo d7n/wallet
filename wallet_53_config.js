@@ -1,1 +1,1 @@
-var mnemonic = "unhappy rail siren sustain upper input erode lonely one patch timber hunt";
+var mnemonic = "ankle acquire armor disagree turkey minute mimic planet unknown welcome verify father";

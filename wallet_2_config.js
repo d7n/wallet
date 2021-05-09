@@ -1,1 +1,1 @@
-var mnemonic = "pave point pepper weekend allow gorilla wisdom toilet author pair strong rely";
+var mnemonic = "middle economy million clown syrup spring result nation vendor during magnet patrol";

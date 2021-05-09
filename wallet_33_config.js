@@ -1,1 +1,1 @@
-var mnemonic = "long vault bunker smart memory deliver noise wet subject canoe observe rebuild";
+var mnemonic = "fetch change vintage other salt unusual snack air strike axis blossom hedgehog";

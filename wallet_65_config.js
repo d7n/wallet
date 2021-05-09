@@ -1,1 +1,1 @@
-var mnemonic = "worth suspect immune access hungry web plate deny rocket gaze friend minimum";
+var mnemonic = "naive cargo tortoise abstract garbage apple slot raw stereo release edge fever";

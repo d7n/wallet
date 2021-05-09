@@ -1,1 +1,1 @@
-var mnemonic = "isolate sheriff stadium soccer cousin language quality relax pride weapon upon nerve";
+var mnemonic = "culture shallow upon custom almost device envelope manage cost mad allow survey";

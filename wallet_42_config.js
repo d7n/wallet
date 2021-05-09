@@ -1,1 +1,1 @@
-var mnemonic = "viable boy forget viable noble start odor agent time powder escape proof";
+var mnemonic = "charge flight forest candy miss core immune chronic mimic frog drip miracle";

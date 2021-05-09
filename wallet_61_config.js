@@ -1,1 +1,1 @@
-var mnemonic = "cup sentence olympic tank adjust absurd ship quit aisle lawn sorry inherit";
+var mnemonic = "spawn slogan rally claim range ankle weasel bird auction boring agree desk";

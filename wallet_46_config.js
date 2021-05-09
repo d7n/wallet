@@ -1,1 +1,1 @@
-var mnemonic = "rabbit fold dignity album young deal replace interest immune patient sing asthma";
+var mnemonic = "stage bachelor execute audit mobile apple photo cup present fold abstract bike";

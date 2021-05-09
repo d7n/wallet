@@ -1,1 +1,1 @@
-var mnemonic = "myself stone three leader tiny throw cover engage core half enact crane";
+var mnemonic = "warrior balcony exhibit mesh upper very opinion glory vapor wisdom deputy surge";

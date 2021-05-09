@@ -1,1 +1,1 @@
-var mnemonic = "submit bus weasel submit grief word busy dial donkey fit diary beef";
+var mnemonic = "note sphere follow nuclear winter shine miracle option unit excuse garment host";

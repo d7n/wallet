@@ -1,1 +1,1 @@
-var mnemonic = "mistake slight ahead rain abandon faculty balcony around carry olive cry width";
+var mnemonic = "divide weasel electric you decide rare bind sing sausage road rack barely";

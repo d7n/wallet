@@ -1,1 +1,1 @@
-var mnemonic = "lock month jelly bag law hawk attract friend pipe expect lucky mixture";
+var mnemonic = "tone evolve fall tourist volume swim wage between vessel famous return chaos";

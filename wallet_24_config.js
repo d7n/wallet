@@ -1,1 +1,1 @@
-var mnemonic = "gather observe urge claim start fragile earn taste coast armed birth gown";
+var mnemonic = "project spy buffalo tired over cost vague math lecture saddle person sample";

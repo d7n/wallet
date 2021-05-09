@@ -1,1 +1,1 @@
-var mnemonic = "dial dentist cradle divide bag gate wear hurry session pill second pottery";
+var mnemonic = "narrow strike jar middle ride sunny path sheriff dream tail swamp narrow";

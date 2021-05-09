@@ -1,1 +1,1 @@
-var mnemonic = "swamp forget puzzle patrol wheat famous hen track slender mutual vanish belt";
+var mnemonic = "rate denial wreck toast vague casino joke chase copper family relax juice";

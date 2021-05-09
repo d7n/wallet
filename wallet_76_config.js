@@ -1,1 +1,1 @@
-var mnemonic = "ride hello more tuna muscle hand fortune quarter myth mind cash else";
+var mnemonic = "balcony immune senior merit wrong shop settle sick leopard metal water recycle";

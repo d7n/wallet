@@ -1,1 +1,1 @@
-var mnemonic = "metal ethics grief poet wrong cactus popular exhibit unfold shallow suit divert";
+var mnemonic = "sniff try sunny warrior fire subject antique rule sheriff lizard believe onion";

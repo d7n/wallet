@@ -1,1 +1,1 @@
-var mnemonic = "profit swallow host breeze inch silent mule dignity account dutch shaft gossip";
+var mnemonic = "group range refuse where elegant hero space jewel gold unlock define inside";

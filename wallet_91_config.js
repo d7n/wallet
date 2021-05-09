@@ -1,1 +1,1 @@
-var mnemonic = "stairs regret siren orient swallow clever biology bullet gravity clinic famous day";
+var mnemonic = "snap wreck load unaware bomb remain gown duty cave merry elephant tunnel";

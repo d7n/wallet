@@ -1,1 +1,1 @@
-var mnemonic = "coast doctor argue weekend yard shoot knock merge fat great trumpet ridge";
+var mnemonic = "climb very grape clay monitor sting retire million join diagram repeat world";

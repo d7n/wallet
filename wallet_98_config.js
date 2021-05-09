@@ -1,1 +1,1 @@
-var mnemonic = "error execute talk health certain random welcome nothing divide vital lawsuit travel";
+var mnemonic = "rhythm crazy link because puzzle wise situate slush tongue motion aisle example";

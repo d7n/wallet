@@ -1,1 +1,1 @@
-var mnemonic = "ketchup capital gravity banana senior shoulder script answer addict patrol truck rule";
+var mnemonic = "design volume fire monitor athlete offer naive reveal flash document leaf proud";

@@ -1,1 +1,1 @@
-var mnemonic = "primary they region good lava brief average claw parade gown suggest dog";
+var mnemonic = "crew episode curious multiply army reward monster kind enhance tell service combine";

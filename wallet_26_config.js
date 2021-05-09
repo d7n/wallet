@@ -1,1 +1,1 @@
-var mnemonic = "damp flock solar office admit drop onion permit question winter three predict";
+var mnemonic = "tribe mosquito spray barrel rocket digital length congress ancient spell ten anchor";

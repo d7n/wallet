@@ -1,1 +1,1 @@
-var mnemonic = "physical mercy define ready mixture fury advice slow arm school inner ocean";
+var mnemonic = "lend siren evoke stable theory lawsuit survey surge barely mind antique resource";

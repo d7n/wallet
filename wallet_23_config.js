@@ -1,1 +1,1 @@
-var mnemonic = "imitate horn solid faint welcome soft code feel almost solid forward glass";
+var mnemonic = "culture they paper episode idea tongue slender child engine judge vicious valve";

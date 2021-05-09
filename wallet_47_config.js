@@ -1,1 +1,1 @@
-var mnemonic = "rally fame glow water spot bid caution clerk survey decade sell violin";
+var mnemonic = "wagon trigger achieve also click cross lecture scene jar harbor noodle twice";

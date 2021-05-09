@@ -1,1 +1,1 @@
-var mnemonic = "orange winner health front exclude knock flee vivid typical fiber envelope grant";
+var mnemonic = "jar hello seat tag come emerge number whip potato raise question cat";

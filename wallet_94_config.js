@@ -1,1 +1,1 @@
-var mnemonic = "grow coffee exist weasel attend tuition puzzle village outside marble into odor";
+var mnemonic = "stage distance chunk need stand gown alpha valid best knife grief tomorrow";

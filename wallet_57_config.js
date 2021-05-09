@@ -1,1 +1,1 @@
-var mnemonic = "vehicle task claw remove hurt weekend voice sunset now quantum swallow endless";
+var mnemonic = "pull try nest nominee waste obscure sport field pen slide frozen sport";

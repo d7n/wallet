@@ -1,1 +1,1 @@
-var mnemonic = "maid medal music purity fiscal snow despair super confirm this resist lake";
+var mnemonic = "raccoon unknown veteran attend chalk fluid street obvious source mechanic solve topic";

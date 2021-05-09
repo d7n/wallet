@@ -1,1 +1,1 @@
-var mnemonic = "kidney file shaft verb edit index hole subway salad seek route diet";
+var mnemonic = "multiply hybrid glare erase supreme item access patch kingdom gun boat place";

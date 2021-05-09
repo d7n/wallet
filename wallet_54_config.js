@@ -1,1 +1,1 @@
-var mnemonic = "vacant blood cave fine lawn degree okay impose crack dream mind crane";
+var mnemonic = "brisk bounce initial lobster crouch fuel lock patch tip paper exhibit dance";

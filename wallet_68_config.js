@@ -1,1 +1,1 @@
-var mnemonic = "nominee remain involve quit cherry kingdom slight sun tiger prefer popular horn";
+var mnemonic = "legend shadow jaguar sign multiply chase vague security casual awful lend mandate";

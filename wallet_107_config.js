@@ -1,1 +1,1 @@
-var mnemonic = "economy excite firm tank heavy original rare pluck better ginger already hollow";
+var mnemonic = "chase ability save book find ensure crisp kitchen item forum radio urge";

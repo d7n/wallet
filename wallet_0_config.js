@@ -1,1 +1,1 @@
-var mnemonic = "soon shuffle link basket tooth way crowd choose movie can insane face";
+var mnemonic = "eight young august sell olive treat large square churn train where now";

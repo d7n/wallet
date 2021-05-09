@@ -1,1 +1,1 @@
-var mnemonic = "surprise solid select unlock crowd zebra envelope select task seat swim genius";
+var mnemonic = "radio such scheme asset glad type couple tribe submit omit weasel make";

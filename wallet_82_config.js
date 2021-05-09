@@ -1,1 +1,1 @@
-var mnemonic = "crash come interest symbol fold debris silk brush maple boat video lab";
+var mnemonic = "approve nothing pulp recall school federal disorder special swing poverty cube husband";

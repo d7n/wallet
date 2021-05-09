@@ -1,1 +1,1 @@
-var mnemonic = "where cruise gauge gym review burst spoon please property rude sick such";
+var mnemonic = "junk axis muffin crucial open flush bottom credit cement eager convince fish";

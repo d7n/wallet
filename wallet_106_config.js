@@ -1,1 +1,1 @@
-var mnemonic = "motion stage garden certain pill luggage prevent share shine toddler affair fitness";
+var mnemonic = "bind sister excite smile dove jar example recall drive arch hedgehog plastic";

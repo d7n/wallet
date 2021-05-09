@@ -1,1 +1,1 @@
-var mnemonic = "friend salute garbage night brother option neck current layer clever unlock ripple";
+var mnemonic = "shy forward vehicle undo follow hidden issue pumpkin coral ankle robot tooth";

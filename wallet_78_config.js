@@ -1,1 +1,1 @@
-var mnemonic = "inner disease carbon lawn time final trend smart spatial text real lizard";
+var mnemonic = "govern perfect like filter report custom obvious practice tobacco window permit waste";

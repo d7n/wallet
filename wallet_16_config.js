@@ -1,1 +1,1 @@
-var mnemonic = "female burden stomach mistake food clip neck wrap reform tooth clarify room";
+var mnemonic = "empty scan outdoor ice wall unit paddle pupil damage giraffe exist laundry";

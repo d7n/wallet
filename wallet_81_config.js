@@ -1,1 +1,1 @@
-var mnemonic = "job actress artist penalty judge agree cradle ten scrub weekend diagram satisfy";
+var mnemonic = "roof camera where glimpse useful object evolve type replace convince pave buzz";

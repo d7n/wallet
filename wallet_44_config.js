@@ -1,1 +1,1 @@
-var mnemonic = "penalty thought electric orient order pepper ridge horn resource drum document immune";
+var mnemonic = "peanut burst flame wing access follow hero diary kite music fossil toddler";

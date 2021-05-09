@@ -1,1 +1,1 @@
-var mnemonic = "angle tourist glue vehicle honey bargain force crawl convince test merry motor";
+var mnemonic = "column gun kind month shuffle interest rival urban poverty risk blood steel";

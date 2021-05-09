@@ -1,1 +1,1 @@
-var mnemonic = "mango fresh bless mistake snack age boy wide stand mountain quick interest";
+var mnemonic = "mouse laundry cool else audit welcome state target level logic off relax";

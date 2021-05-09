@@ -1,1 +1,1 @@
-var mnemonic = "special olympic arch obvious ahead pizza always destroy poverty dawn scatter brain";
+var mnemonic = "leg grape energy tackle century silent lesson novel oblige fitness any desert";

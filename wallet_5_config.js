@@ -1,1 +1,1 @@
-var mnemonic = "blade bar video soul company return tent blade art frequent ceiling mercy";
+var mnemonic = "usual change wet once awful main tribe program fruit furnace ride setup";

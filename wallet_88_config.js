@@ -1,1 +1,1 @@
-var mnemonic = "hospital agent travel until goat divide swim brother motion ancient drill catalog";
+var mnemonic = "only museum sing solid curious media inflict perfect swallow join idea armed";

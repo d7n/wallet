@@ -1,1 +1,1 @@
-var mnemonic = "blood write burger hard kingdom list veteran hybrid castle goddess fashion chief";
+var mnemonic = "remove critic demise face capable pattern cook enact future crazy pilot guess";
