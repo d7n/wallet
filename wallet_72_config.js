@@ -1,1 +1,1 @@
-var mnemonic = "blur depend only spatial useful setup warm jungle mixture occur deal domain";
+var mnemonic = "rough inhale purpose curious misery balcony various pitch lucky aunt chat cable";

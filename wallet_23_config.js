@@ -1,1 +1,1 @@
-var mnemonic = "favorite evidence damage base salt friend scissors entry afraid animal critic below";
+var mnemonic = "impact success ketchup boat client suit sword obscure brush shiver multiply february";

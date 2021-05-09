@@ -1,1 +1,1 @@
-var mnemonic = "arrest harvest people behind quote case pig truly elegant crack wild plug";
+var mnemonic = "field parent jacket zone possible sentence vehicle bonus mobile security egg arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "among enlist cancel announce taxi pluck mango final poem elder same donate";
+var mnemonic = "hammer noodle fade grief blue whip asthma crew repeat harsh again october";

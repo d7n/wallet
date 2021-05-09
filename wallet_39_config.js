@@ -1,1 +1,1 @@
-var mnemonic = "member alien elephant season ten light gossip rely owner climb ripple earn";
+var mnemonic = "recipe pepper reform half ignore lottery nephew fine garage nerve buyer random";

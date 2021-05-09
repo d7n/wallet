@@ -1,1 +1,1 @@
-var mnemonic = "client index tuna course pattern gauge later tourist typical practice upon ship";
+var mnemonic = "miss pudding air agree rural machine usual punch security buddy box green";

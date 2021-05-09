@@ -1,1 +1,1 @@
-var mnemonic = "emerge catch wave liquid month pepper snack pupil jelly veteran mule artwork";
+var mnemonic = "want link inform destroy split evidence attract cousin lava acid bread diet";

@@ -1,1 +1,1 @@
-var mnemonic = "use play lyrics noble brown theme sheriff orient venue reward sure useful";
+var mnemonic = "cabbage supply claim bonus board adapt inspire fall evolve make knock group";

@@ -1,1 +1,1 @@
-var mnemonic = "impact share height black nerve just enable drama already best acid prepare";
+var mnemonic = "miss beef base away obey suit session exile want mule hospital snap";

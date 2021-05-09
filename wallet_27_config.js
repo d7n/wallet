@@ -1,1 +1,1 @@
-var mnemonic = "obey tower puzzle regular note more grunt extend couch senior clay receive";
+var mnemonic = "torch feed seek coast sting flash daring express smile stuff charge arm";

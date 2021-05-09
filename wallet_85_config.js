@@ -1,1 +1,1 @@
-var mnemonic = "curtain sure favorite onion apart click genuine welcome life grace galaxy advice";
+var mnemonic = "okay beauty extend today question task tired try source work exile bundle";

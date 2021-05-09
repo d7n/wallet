@@ -1,1 +1,1 @@
-var mnemonic = "credit ripple staff analyst scrap grace hawk sun trip stomach object raven";
+var mnemonic = "month soon upset salute logic slush joke name tilt shift royal gold";

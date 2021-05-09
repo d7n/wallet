@@ -1,1 +1,1 @@
-var mnemonic = "gorilla spend void fuel hockey fitness index prosper key march kick awesome";
+var mnemonic = "pony embark boy lake elder hedgehog inhale broom artwork meadow expand wolf";

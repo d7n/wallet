@@ -1,1 +1,1 @@
-var mnemonic = "pepper spring fruit grace cry ready skin borrow blue obey appear sign";
+var mnemonic = "bulk melt lab crystal carbon barrel honey range famous umbrella alert innocent";

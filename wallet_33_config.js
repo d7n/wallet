@@ -1,1 +1,1 @@
-var mnemonic = "zoo wreck genius people used neck shoulder swamp apology feature engine utility";
+var mnemonic = "idle wine priority monster voyage embrace fitness frequent report debris dose flip";

@@ -1,1 +1,1 @@
-var mnemonic = "defense grant lock manage journey erosion embody shield antenna shoe lounge fit";
+var mnemonic = "clog staff spike youth approve usual embark vehicle umbrella obey drama road";

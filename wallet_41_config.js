@@ -1,1 +1,1 @@
-var mnemonic = "invest keen palm turkey mosquito adjust rare spirit hood robust arrest battle";
+var mnemonic = "cup liquid ship slogan patrol alcohol hollow occur gospel waste patrol all";

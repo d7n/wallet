@@ -1,1 +1,1 @@
-var mnemonic = "useful play clinic kingdom image gaze dwarf hub toe demand health host";
+var mnemonic = "monitor snow stem rely gather foam phrase orbit file stove lunch mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke grief baby orbit symbol purchase frozen matter mind favorite winner action";
+var mnemonic = "pyramid buzz opera trim loop arch lottery convince stadium animal vicious vehicle";

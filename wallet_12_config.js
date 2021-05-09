@@ -1,1 +1,1 @@
-var mnemonic = "pipe kid depart unknown toddler language easy bridge bridge near pair opera";
+var mnemonic = "betray awful mushroom guitar ginger inside gym vanish destroy hungry join drum";

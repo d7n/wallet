@@ -1,1 +1,1 @@
-var mnemonic = "indoor hold nest rug peace name analyst air tattoo weapon burst dinosaur";
+var mnemonic = "crucial actor analyst save cook pony fame coffee table route deal biology";

@@ -1,1 +1,1 @@
-var mnemonic = "flight marble gas estate hazard able purpose pig melt gown sausage burst";
+var mnemonic = "wealth vague drift table nation genre vibrant calm endorse tongue build lady";

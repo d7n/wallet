@@ -1,1 +1,1 @@
-var mnemonic = "envelope badge orange unfair message aspect almost robust tomorrow modify fitness panic";
+var mnemonic = "inject tape worry mass visit crowd kiwi clay front furnace dirt install";

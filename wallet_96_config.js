@@ -1,1 +1,1 @@
-var mnemonic = "measure pave blast toy deputy obtain style age kite issue rocket clip";
+var mnemonic = "sorry truck credit hub cloud clown please express clump twin vacant piano";

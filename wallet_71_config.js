@@ -1,1 +1,1 @@
-var mnemonic = "erase tortoise journey theme broken vague bulk argue pledge organ staff mesh";
+var mnemonic = "layer victory chunk concert spin wheel timber differ wall hover wealth soccer";

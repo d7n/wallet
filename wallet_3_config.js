@@ -1,1 +1,1 @@
-var mnemonic = "unfair want mask very whip silent hotel initial easy slide vague second";
+var mnemonic = "maid empower cushion rail marine day extend heavy pig power scene taste";

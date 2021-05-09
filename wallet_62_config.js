@@ -1,1 +1,1 @@
-var mnemonic = "fabric broom rule use actor still include notable age success camp stamp";
+var mnemonic = "hungry tube table virus banner faculty foil comic chat envelope enable diary";

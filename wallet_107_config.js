@@ -1,1 +1,1 @@
-var mnemonic = "group shrimp flee audit wealth lock hurry sadness safe toe series speed";
+var mnemonic = "keen urban hospital someone original walk ring actor mandate lounge mutual room";

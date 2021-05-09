@@ -1,1 +1,1 @@
-var mnemonic = "double pave olive jungle shoulder garage junior mosquito surge glove proof smoke";
+var mnemonic = "remind upgrade unfair tissue rebel surround regret army goat hunt urge begin";

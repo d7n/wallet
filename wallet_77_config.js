@@ -1,1 +1,1 @@
-var mnemonic = "unfold coast hard develop asset small inhale picture dinosaur labor panic slim";
+var mnemonic = "clown rely maze glimpse crash pulse equal exchange fabric wheel follow exhibit";

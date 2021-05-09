@@ -1,1 +1,1 @@
-var mnemonic = "rich find salmon access identify shaft stool gather water resemble monkey diamond";
+var mnemonic = "box whip glide exchange final mammal surge razor pulse dice garlic absorb";

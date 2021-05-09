@@ -1,1 +1,1 @@
-var mnemonic = "suspect twin weather tone actor bargain crack tortoise lawn frost lounge ginger";
+var mnemonic = "february purchase slush town bounce such control dice arch hospital aim amateur";

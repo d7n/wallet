@@ -1,1 +1,1 @@
-var mnemonic = "deposit arch carry kite confirm chest bread shoot margin alpha erase goat";
+var mnemonic = "inch ethics meat make slight autumn myself recycle kidney fever asthma accident";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet bless end hamster phrase gift small narrow extend flower toast harsh";
+var mnemonic = "just cross essence chronic always hospital unfair calm coast what wrist video";

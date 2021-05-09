@@ -1,1 +1,1 @@
-var mnemonic = "tenant mix opera strong apart rubber federal demand again people truth divert";
+var mnemonic = "option spike car father card economy nest curve later quiz cry plate";

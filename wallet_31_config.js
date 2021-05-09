@@ -1,1 +1,1 @@
-var mnemonic = "list coin tape friend hamster veteran napkin company soup satoshi excite option";
+var mnemonic = "kitchen illegal dress tortoise slight wreck naive dry bone alcohol depth garden";

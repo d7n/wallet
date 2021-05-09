@@ -1,1 +1,1 @@
-var mnemonic = "devote scrap lyrics cliff symptom tackle exhibit pistol diamond girl moment follow";
+var mnemonic = "sentence misery can own sad empower cancel fluid spike pudding marble unaware";

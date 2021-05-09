@@ -1,1 +1,1 @@
-var mnemonic = "tongue correct crunch near style slam verb good route forum bicycle hawk";
+var mnemonic = "gate orchard spot fatigue foot monitor garlic flip permit nut share short";

@@ -1,1 +1,1 @@
-var mnemonic = "boy meat sniff galaxy erupt film disorder cradle insane flock hurt evoke";
+var mnemonic = "muscle long pulp person emerge happy alone parade design solve awful dice";

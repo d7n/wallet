@@ -1,1 +1,1 @@
-var mnemonic = "plug aerobic possible feed rhythm pioneer clump fitness expect keep soul lady";
+var mnemonic = "upgrade trigger balcony club balcony employ air fish balance able culture arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "host actual bar material series muffin auction people video version heart clerk";
+var mnemonic = "renew insect equal flag laundry fossil original knee live van floor client";

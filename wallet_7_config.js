@@ -1,1 +1,1 @@
-var mnemonic = "poet magnet point nominee seat bunker struggle height opera heart dolphin sheriff";
+var mnemonic = "giraffe salmon letter opinion wide finish liquid inmate squeeze since crater risk";

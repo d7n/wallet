@@ -1,1 +1,1 @@
-var mnemonic = "place float ability morning stomach bunker keen reject grape company globe naive";
+var mnemonic = "easy melody giggle whip prison jeans clump rose uniform coconut build faint";

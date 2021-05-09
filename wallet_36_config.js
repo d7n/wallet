@@ -1,1 +1,1 @@
-var mnemonic = "attract plate filter impose galaxy hurry tide gossip town dress sustain nerve";
+var mnemonic = "rough ill cube settle ketchup pilot tomorrow issue analyst drip shell pitch";

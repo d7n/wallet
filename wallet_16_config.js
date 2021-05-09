@@ -1,1 +1,1 @@
-var mnemonic = "plastic blush furnace team unfair sadness motion mask fun fit denial impact";
+var mnemonic = "card turn lounge multiply logic thing keen eight clog often wage loud";

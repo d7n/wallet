@@ -1,1 +1,1 @@
-var mnemonic = "scrub nominee always approve token ensure inhale leg laundry someone inner advice";
+var mnemonic = "shop float room behind robust father evoke later weasel maid injury object";

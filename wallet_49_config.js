@@ -1,1 +1,1 @@
-var mnemonic = "cattle number claim open gallery coyote twelve upon warm taste mother hollow";
+var mnemonic = "resemble bread pass garlic above flip already test soda round hub water";

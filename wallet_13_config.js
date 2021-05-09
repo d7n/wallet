@@ -1,1 +1,1 @@
-var mnemonic = "upon change wheel lock super primary skin ugly prize awkward ask girl";
+var mnemonic = "cannon exact rough public charge wish immense home evoke shock current toe";

@@ -1,1 +1,1 @@
-var mnemonic = "news category shift measure night enemy pulp fuel swear shop opinion steel";
+var mnemonic = "pony arrive planet enforce guide boring between flash critic hen skirt grace";

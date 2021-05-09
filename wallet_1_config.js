@@ -1,1 +1,1 @@
-var mnemonic = "faint virus crisp bright paddle abandon manage amused solid cream latin promote";
+var mnemonic = "breeze hurdle hotel ahead turkey sentence congress urban remove tone autumn rather";

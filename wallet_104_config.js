@@ -1,1 +1,1 @@
-var mnemonic = "mix talk ocean blossom regular wear cost pair worry custom frame kid";
+var mnemonic = "shell busy coral photo alcohol diary gadget easily brother rural decrease time";

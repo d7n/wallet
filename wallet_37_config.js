@@ -1,1 +1,1 @@
-var mnemonic = "hammer love tuition decide ordinary skin drum gas elder caution runway cage";
+var mnemonic = "feed country easy extend suspect wrap clown race unit waste snap midnight";

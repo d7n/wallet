@@ -1,1 +1,1 @@
-var mnemonic = "arctic earn twenty banana pact very matter client entry between dash wrap";
+var mnemonic = "rather census neutral hen stock movie fortune veteran twin cheese play tunnel";

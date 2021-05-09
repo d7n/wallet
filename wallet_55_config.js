@@ -1,1 +1,1 @@
-var mnemonic = "upon hero teach moon capable habit silk fix pioneer sick since scare";
+var mnemonic = "loan empower view sword install behind matrix venture sunny early pledge slush";

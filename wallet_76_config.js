@@ -1,1 +1,1 @@
-var mnemonic = "tray door tomorrow cement tissue draw vessel online proof engine dirt account";
+var mnemonic = "butter lizard lizard ghost elegant trend mind mansion account museum demise image";

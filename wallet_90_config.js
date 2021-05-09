@@ -1,1 +1,1 @@
-var mnemonic = "benefit model frost potato curious enough track carpet body gather hotel shadow";
+var mnemonic = "steel surface damage phrase aisle subway cradle margin pride liar catalog wonder";

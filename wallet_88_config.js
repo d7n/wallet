@@ -1,1 +1,1 @@
-var mnemonic = "analyst maze quick soccer library envelope vacuum wreck spray add sleep hen";
+var mnemonic = "lumber mercy trumpet eagle crouch humor napkin wild spread find fault correct";

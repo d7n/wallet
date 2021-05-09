@@ -1,1 +1,1 @@
-var mnemonic = "snap help gun update until detect vanish random riot clog trim mobile";
+var mnemonic = "coffee tool panic bubble life stereo reason mean also ozone pulp vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "program garlic few merit enough envelope clinic opinion second predict tag hero";
+var mnemonic = "task wheat course honey grow coast animal wife ski piece aerobic sweet";

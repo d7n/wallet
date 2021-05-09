@@ -1,1 +1,1 @@
-var mnemonic = "rule fog fun festival universe stone furnace control cigar pair oblige diesel";
+var mnemonic = "bind poem guide swarm plate you device manage rain tell direct wheat";

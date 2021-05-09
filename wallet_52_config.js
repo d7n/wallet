@@ -1,1 +1,1 @@
-var mnemonic = "south arrest pupil chapter certain swear region category wish mango analyst stay";
+var mnemonic = "total lunch survey fork sight sustain dwarf copy truly moment march pave";

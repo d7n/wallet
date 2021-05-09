@@ -1,1 +1,1 @@
-var mnemonic = "crowd valid seven student test devote face wolf garage romance repeat cricket";
+var mnemonic = "cradle render onion fringe castle subway hurry barrel barely visa tuna step";

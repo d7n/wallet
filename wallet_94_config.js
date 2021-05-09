@@ -1,1 +1,1 @@
-var mnemonic = "choice boring include bean crouch ask kitchen demand arena involve absorb move";
+var mnemonic = "snack scare gas maximum bulb right exercise merit turkey twin inject suit";

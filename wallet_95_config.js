@@ -1,1 +1,1 @@
-var mnemonic = "matter debris behave student clog hello domain found join hazard seed immune";
+var mnemonic = "ladder fame matter strong employ feel capital common broken toilet assist devote";

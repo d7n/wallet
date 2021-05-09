@@ -1,1 +1,1 @@
-var mnemonic = "hurry fiscal gossip clap rabbit general laundry promote wealth north riot unaware";
+var mnemonic = "anxiety shop rebel spot apology crowd office smart lamp property napkin rural";

@@ -1,1 +1,1 @@
-var mnemonic = "bean slush strike shrimp middle gym guilt bone noble dynamic fragile lesson";
+var mnemonic = "bring put place tiny margin paper they theory dress fat multiply broom";

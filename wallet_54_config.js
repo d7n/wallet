@@ -1,1 +1,1 @@
-var mnemonic = "valley online theory lunar cabbage glimpse champion chair filter invite echo glare";
+var mnemonic = "dirt film same insect umbrella stay mushroom recipe whip knife invite success";

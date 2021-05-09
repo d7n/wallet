@@ -1,1 +1,1 @@
-var mnemonic = "bachelor develop alter season agree hip empty garbage acquire cupboard tuition oil";
+var mnemonic = "cradle use rabbit private antenna distance vibrant arrest target belt antenna dish";

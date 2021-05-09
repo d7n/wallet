@@ -1,1 +1,1 @@
-var mnemonic = "wet glass catalog habit enter blanket summer unit enable dune fury index";
+var mnemonic = "soccer file jewel vivid often draft buyer ramp deal infant bamboo almost";

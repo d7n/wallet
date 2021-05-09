@@ -1,1 +1,1 @@
-var mnemonic = "belt shoulder film execute tomorrow zebra either already audit frost year victory";
+var mnemonic = "law size exhaust surprise cruise dinosaur jungle tone exist simple crack garlic";

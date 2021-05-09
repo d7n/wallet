@@ -1,1 +1,1 @@
-var mnemonic = "image narrow juice dove camera behind execute industry weapon wash all open";
+var mnemonic = "relax squeeze patient capital prevent buyer render scan foster birth empty music";

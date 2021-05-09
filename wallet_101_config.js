@@ -1,1 +1,1 @@
-var mnemonic = "like million test cool secret fold spread matrix cool today question ghost";
+var mnemonic = "culture print hamster assume word sick major fame say faculty stuff skill";

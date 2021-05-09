@@ -1,1 +1,1 @@
-var mnemonic = "hover cause abandon grant boy uniform doll mind stairs lottery can truth";
+var mnemonic = "woman bachelor quality consider divide awkward profit silver minimum fashion soda champion";

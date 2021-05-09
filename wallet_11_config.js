@@ -1,1 +1,1 @@
-var mnemonic = "wonder thought wife march car average blur vague sauce arctic vocal school";
+var mnemonic = "bag attack attitude action grief brisk galaxy limit slim acoustic plunge offer";

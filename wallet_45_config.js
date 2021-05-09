@@ -1,1 +1,1 @@
-var mnemonic = "cute faith easy then chimney genre bracket doctor yard orbit owner middle";
+var mnemonic = "fury want peace shrug usage sleep clarify cloud crush deposit gauge simple";

@@ -1,1 +1,1 @@
-var mnemonic = "chief nation rival belt clock soda melt throw dwarf enforce practice magic";
+var mnemonic = "royal volume enemy bottom shuffle parent affair pitch pudding butter true cradle";

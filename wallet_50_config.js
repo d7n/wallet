@@ -1,1 +1,1 @@
-var mnemonic = "bone ancient east art soup wheel segment lunar physical canvas harvest lizard";
+var mnemonic = "yellow picture devote team rely cable point gauge economy wedding ignore deputy";

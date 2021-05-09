@@ -1,1 +1,1 @@
-var mnemonic = "whale rapid crack clever hawk access apple stable suspect hollow leopard basket";
+var mnemonic = "limb later surround hamster all pig naive list conduct jeans model unusual";

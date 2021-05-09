@@ -1,1 +1,1 @@
-var mnemonic = "drastic trim matrix cry giant identify chimney session foil social sort walk";
+var mnemonic = "walk dance tube diesel salute eight ticket hawk endorse vapor initial already";

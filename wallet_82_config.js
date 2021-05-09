@@ -1,1 +1,1 @@
-var mnemonic = "coin toward enact junk nose crack bounce suit hedgehog online crack spawn";
+var mnemonic = "friend army opinion orient super swamp silver second salt come host destroy";

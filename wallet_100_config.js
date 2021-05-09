@@ -1,1 +1,1 @@
-var mnemonic = "describe athlete notable emerge dinner antique spice search setup car wheat ghost";
+var mnemonic = "asset staff dove banana asthma course bike code disagree moral design cake";

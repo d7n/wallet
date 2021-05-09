@@ -1,1 +1,1 @@
-var mnemonic = "hill item tank physical broom repair novel weapon ignore huge exotic motion";
+var mnemonic = "dragon pitch exotic nature swear cupboard satisfy lunch drastic idle sort argue";

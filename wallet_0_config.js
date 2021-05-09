@@ -1,1 +1,1 @@
-var mnemonic = "kite debate caution first abuse glare harbor describe swing soft picture dice";
+var mnemonic = "army agent disagree grab sad isolate combine stay horse setup shield enter";

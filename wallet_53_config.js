@@ -1,1 +1,1 @@
-var mnemonic = "glance proof milk donor crime capital rare also suspect plug quick divert";
+var mnemonic = "ocean ramp people advance patient episode soccer earth gorilla coin essence hollow";

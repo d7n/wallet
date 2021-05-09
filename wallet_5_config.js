@@ -1,1 +1,1 @@
-var mnemonic = "kidney quarter solid wrestle transfer damage later gas ancient valid ring wheel";
+var mnemonic = "gap cream foster airport reunion case easily clerk often test reunion mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "flat pig grab exercise embody human attract first drastic pretty recall scout";
+var mnemonic = "thought safe comfort marble bike daughter glad resemble beauty female pet giraffe";

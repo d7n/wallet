@@ -1,1 +1,1 @@
-var mnemonic = "normal public unknown buddy mercy try puppy lizard drink become lab unhappy";
+var mnemonic = "anchor tray recall cool isolate payment frost engine life leopard mesh coyote";

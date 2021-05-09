@@ -1,1 +1,1 @@
-var mnemonic = "mix neglect cabin vehicle case basket dutch super trumpet develop catalog electric";
+var mnemonic = "purity slow venue desert example flip double knock siren beauty kitchen blast";

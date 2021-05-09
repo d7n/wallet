@@ -1,1 +1,1 @@
-var mnemonic = "outdoor essay enroll neither imitate museum pony shoulder human vacuum aisle devote";
+var mnemonic = "indicate worry slender script invite idle diet unit you couple pudding usual";

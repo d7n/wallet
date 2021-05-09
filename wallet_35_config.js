@@ -1,1 +1,1 @@
-var mnemonic = "year priority daughter donate patient knee promote cave cream poet success good";
+var mnemonic = "claim cattle pupil swim virtual useful spell eight spatial agent cluster ten";

@@ -1,1 +1,1 @@
-var mnemonic = "hard mom salad broom give riot rent dance area energy card rose";
+var mnemonic = "used artwork decline dress obtain add bonus faith donkey melody soon grape";
