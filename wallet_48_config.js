@@ -1,1 +1,1 @@
-var mnemonic = "dutch jar april drastic guitar moment library remind detect rival large bind";
+var mnemonic = "know latin miss exhibit caution develop saddle dismiss pistol accuse fragile gospel";

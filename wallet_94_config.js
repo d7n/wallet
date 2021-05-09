@@ -1,1 +1,1 @@
-var mnemonic = "work faith vibrant ice churn marble cycle shrimp card sketch coyote suit";
+var mnemonic = "quality aunt minor boss frown multiply crew return injury scrap quick proof";

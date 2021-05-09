@@ -1,1 +1,1 @@
-var mnemonic = "circle pelican orient craft stairs artefact winner uniform skull family bean auction";
+var mnemonic = "gravity valve green rapid culture salon salt mobile critic symbol ankle library";

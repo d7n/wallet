@@ -1,1 +1,1 @@
-var mnemonic = "forest agent earth token praise wrist hawk hard basket priority bullet heavy";
+var mnemonic = "hold version chief prepare umbrella glad castle key object hover faint west";

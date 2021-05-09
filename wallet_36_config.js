@@ -1,1 +1,1 @@
-var mnemonic = "couch sorry pizza crater chuckle include buffalo opinion entry vibrant lazy jelly";
+var mnemonic = "together duty clutch use poverty confirm scorpion lemon bone pioneer toddler advance";

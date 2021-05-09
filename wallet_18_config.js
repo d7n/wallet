@@ -1,1 +1,1 @@
-var mnemonic = "town mule debate frog blind equip best fault cage core pottery fan";
+var mnemonic = "mystery aunt word glory brisk occur spoil detect people suit evil space";

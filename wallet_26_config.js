@@ -1,1 +1,1 @@
-var mnemonic = "middle arrange suggest decline believe opinion easy poem utility dial two artwork";
+var mnemonic = "thunder refuse finish mimic rival garlic mix tray pass reduce hurry toddler";

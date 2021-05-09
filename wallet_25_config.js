@@ -1,1 +1,1 @@
-var mnemonic = "strategy whip north gloom someone unfair chaos twenty depart bring crush island";
+var mnemonic = "buddy common produce robust lion taste spatial cloth reason hidden mule flame";

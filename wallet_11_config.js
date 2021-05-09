@@ -1,1 +1,1 @@
-var mnemonic = "february tube execute fabric cave note gloom spray merry size morning inmate";
+var mnemonic = "crime winner explain unable traffic empty bracket spell jaguar blast dumb faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "valley elite laundry just short april try around soccer together bless more";
+var mnemonic = "situate dish story sadness drip tired school canyon shy gesture dice mean";

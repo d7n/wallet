@@ -1,1 +1,1 @@
-var mnemonic = "fade crumble swap disagree govern seat purity december debate upon prize keep";
+var mnemonic = "diamond comic zoo morning cloth lend able choice output feature alley end";

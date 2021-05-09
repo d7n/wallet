@@ -1,1 +1,1 @@
-var mnemonic = "subject crucial frost absent dizzy double gallery home broken hungry spread giant";
+var mnemonic = "rice grain express song trumpet track lake angle among plug life song";

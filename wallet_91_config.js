@@ -1,1 +1,1 @@
-var mnemonic = "sting noodle primary blood lonely useless marriage embark snow desert fitness empower";
+var mnemonic = "menu topple point vague lunar salmon addict solve silly soldier also have";

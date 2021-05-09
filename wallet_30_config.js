@@ -1,1 +1,1 @@
-var mnemonic = "torch coyote social volume embrace oblige banner hawk exit medal brief oblige";
+var mnemonic = "menu first toast witness advance paddle heart material road next trophy evoke";

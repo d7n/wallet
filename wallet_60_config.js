@@ -1,1 +1,1 @@
-var mnemonic = "defense erode decide slogan laundry benefit engage alter budget school slice charge";
+var mnemonic = "undo feel asset sorry cruel weather unaware gain penalty maple pet canyon";

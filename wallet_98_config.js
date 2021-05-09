@@ -1,1 +1,1 @@
-var mnemonic = "siren once cactus palm wolf party diesel awake calm cattle stand similar";
+var mnemonic = "guard dynamic enough offer seat swamp humor local draw shiver wish move";

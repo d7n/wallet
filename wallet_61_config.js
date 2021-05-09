@@ -1,1 +1,1 @@
-var mnemonic = "live wrap palm pulp win furnace siege thought zone tourist panel misery";
+var mnemonic = "hand fitness update prison flash mesh december horror crawl hen satisfy bamboo";

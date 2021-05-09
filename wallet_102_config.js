@@ -1,1 +1,1 @@
-var mnemonic = "number entry reopen kind hover joy twist sample aunt hawk soldier zone";
+var mnemonic = "squirrel tooth tray math now loyal original rain brand length unhappy install";

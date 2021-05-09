@@ -1,1 +1,1 @@
-var mnemonic = "child before ramp unique point digital crumble fit lava bomb measure culture";
+var mnemonic = "lawsuit because flat doctor urban network churn orchard three buyer modify worth";

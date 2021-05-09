@@ -1,1 +1,1 @@
-var mnemonic = "rice discover talent pupil rebel medal army file hire project region alcohol";
+var mnemonic = "uphold pluck market bamboo arm range supply coin vault update agent creek";

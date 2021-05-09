@@ -1,1 +1,1 @@
-var mnemonic = "boat moon advice happy muscle velvet comfort half rescue luxury length filter";
+var mnemonic = "anchor word dynamic brick hurt learn depend access decade client ranch repeat";

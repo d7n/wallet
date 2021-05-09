@@ -1,1 +1,1 @@
-var mnemonic = "reveal phone alcohol they consider together never width push trip kingdom sand";
+var mnemonic = "exhibit maple prison ranch brand spell sell early mistake razor smooth tag";

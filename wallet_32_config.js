@@ -1,1 +1,1 @@
-var mnemonic = "enough trigger volume index kingdom beach voice luxury north long oil enlist";
+var mnemonic = "brisk they slide ship banana bean pizza ticket wave have churn ketchup";

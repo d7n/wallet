@@ -1,1 +1,1 @@
-var mnemonic = "increase gorilla sense phrase winner man school riot milk safe churn hidden";
+var mnemonic = "spoil leaf sun enjoy select nothing pretty clump offer balance ancient marble";

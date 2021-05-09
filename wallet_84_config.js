@@ -1,1 +1,1 @@
-var mnemonic = "list scrub couch story hover athlete clip news jeans inform analyst ramp";
+var mnemonic = "secret gravity edge pitch way duck blame gate shop apple ordinary cycle";

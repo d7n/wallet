@@ -1,1 +1,1 @@
-var mnemonic = "unable object man confirm candy common success food basket robust captain deposit";
+var mnemonic = "public asthma strike scene tortoise friend kiwi drip okay snap index cute";

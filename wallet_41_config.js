@@ -1,1 +1,1 @@
-var mnemonic = "horn area success limb rib tiger toy parent gravity rather chicken faith";
+var mnemonic = "tuna symbol manage fresh fine snow town fall face cannon hotel leg";

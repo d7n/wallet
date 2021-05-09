@@ -1,1 +1,1 @@
-var mnemonic = "rose among amateur width olympic annual stomach card trick gaze oak loyal";
+var mnemonic = "grow diary innocent property cube special ketchup utility depart horror urban just";

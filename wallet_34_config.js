@@ -1,1 +1,1 @@
-var mnemonic = "slot rate industry industry trial boring shy ice family lounge various lonely";
+var mnemonic = "deposit junk rifle result fit upper window immune wave fog jump galaxy";

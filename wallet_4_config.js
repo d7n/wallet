@@ -1,1 +1,1 @@
-var mnemonic = "slogan fluid devote amazing cousin tool true toward knife body glance blanket";
+var mnemonic = "noble glance click denial swing bottom cloth desk tag asset voyage hello";

@@ -1,1 +1,1 @@
-var mnemonic = "episode opera arrest eager inquiry doctor object pet hospital such cat used";
+var mnemonic = "sad chapter renew battle develop truly page isolate alert merit tongue roof";

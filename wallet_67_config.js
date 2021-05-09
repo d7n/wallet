@@ -1,1 +1,1 @@
-var mnemonic = "jump sing review bike peanut void couple way click chat tone method";
+var mnemonic = "water exile code advice coin perfect fetch nation year movie smart spy";

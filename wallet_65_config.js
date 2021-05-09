@@ -1,1 +1,1 @@
-var mnemonic = "twist prize wrong surface lift flip okay tobacco rely prison enemy mail";
+var mnemonic = "jaguar play buyer avoid mirror naive business fault cart caught pilot case";

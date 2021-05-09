@@ -1,1 +1,1 @@
-var mnemonic = "funny essay enter tragic loop clump baby type help coach myself cradle";
+var mnemonic = "since train cousin switch company ribbon emotion sunny exact head sunny end";

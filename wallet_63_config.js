@@ -1,1 +1,1 @@
-var mnemonic = "acid lawsuit funny pet vehicle forest run bracket dizzy rack garage buddy";
+var mnemonic = "convince truck entire pumpkin radio dial weasel ostrich volume rent tag surface";

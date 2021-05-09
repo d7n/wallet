@@ -1,1 +1,1 @@
-var mnemonic = "field gallery pond siege output upon crunch ask arena click roast dinosaur";
+var mnemonic = "layer foam laundry place miss essay beach volcano damp ripple flee horse";

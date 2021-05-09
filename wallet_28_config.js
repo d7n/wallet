@@ -1,1 +1,1 @@
-var mnemonic = "swallow hover unveil decide hurdle smart page bulb girl account coconut common";
+var mnemonic = "glow unaware cycle sauce teach cupboard vocal move awesome pave flush menu";

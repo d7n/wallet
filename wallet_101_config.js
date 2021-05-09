@@ -1,1 +1,1 @@
-var mnemonic = "live same involve air earn screen scrub carpet fluid rely pretty margin";
+var mnemonic = "nerve all hazard divide trial level hour drink oxygen sorry erupt left";

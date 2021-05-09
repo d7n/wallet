@@ -1,1 +1,1 @@
-var mnemonic = "turkey picture inspire mom young shrimp flash sorry certain balcony parent parade";
+var mnemonic = "slot negative basket stove virtual tool uniform garbage mother fame child minimum";

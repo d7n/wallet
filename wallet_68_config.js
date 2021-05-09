@@ -1,1 +1,1 @@
-var mnemonic = "afraid banana calm approve stay fun faculty punch tomato clean spray decorate";
+var mnemonic = "van mansion wear giraffe worth trick pave round slow maple dash autumn";

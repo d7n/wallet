@@ -1,1 +1,1 @@
-var mnemonic = "hello oyster cotton soccer lunch garage face burst pond say good total";
+var mnemonic = "culture dog account base sentence neglect sign vague message tomorrow brown timber";

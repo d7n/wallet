@@ -1,1 +1,1 @@
-var mnemonic = "undo beach retire cook foam original nasty involve erode salon blue flag";
+var mnemonic = "witness erosion diary member number fan wing fat rotate arch live where";

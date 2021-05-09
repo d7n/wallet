@@ -1,1 +1,1 @@
-var mnemonic = "vacuum detail beach horse orange clarify ability item live human there edit";
+var mnemonic = "model joy joy street spike camera actress reflect knee gauge ketchup jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "bring snack large couch ski calm odor range mutual ill domain mean";
+var mnemonic = "industry purse huge panic million mother cattle cherry job urge install wisdom";

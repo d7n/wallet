@@ -1,1 +1,1 @@
-var mnemonic = "collect desk fork juice engage infant outside motor mountain match air try";
+var mnemonic = "correct tool pistol gospel tissue bright gun squeeze rare kitten muscle another";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant tenant resource coral scan ocean reflect vast help horse tenant market";
+var mnemonic = "dose usual cash power patrol morning sister click sunset rule floor extend";

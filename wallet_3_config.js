@@ -1,1 +1,1 @@
-var mnemonic = "sponsor audit genius sample art hollow medal erase foil drastic multiply frost";
+var mnemonic = "follow flame kind gym afford diamond nature differ jacket now lab skin";

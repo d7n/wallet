@@ -1,1 +1,1 @@
-var mnemonic = "stomach hunt female cinnamon assault measure delay push girl upgrade disease focus";
+var mnemonic = "develop crawl purpose tiger output luxury flip dash pipe one rapid first";

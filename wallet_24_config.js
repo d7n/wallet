@@ -1,1 +1,1 @@
-var mnemonic = "scorpion turkey proud butter monkey offer brisk faith bamboo response honey sword";
+var mnemonic = "tower have employ front almost glad clown hawk sibling bridge jacket flash";

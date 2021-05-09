@@ -1,1 +1,1 @@
-var mnemonic = "nuclear truck unit charge verify slight grief hard guitar boy long simple";
+var mnemonic = "wagon parent angry whale infant wise since monitor helmet gravity baby skirt";

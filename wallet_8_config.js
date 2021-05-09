@@ -1,1 +1,1 @@
-var mnemonic = "fork tonight intact apart lake about wise impulse celery kid lava goose";
+var mnemonic = "beef tree antique spatial gallery trumpet open grant evoke feature easily allow";

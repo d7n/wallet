@@ -1,1 +1,1 @@
-var mnemonic = "sail diamond emotion cloth blade exile woman lift blood found that clean";
+var mnemonic = "across rapid pyramid world thunder rookie shock female gentle another art squirrel";

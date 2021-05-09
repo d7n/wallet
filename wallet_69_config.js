@@ -1,1 +1,1 @@
-var mnemonic = "warfare march never salon sugar lottery spot bar visa innocent pole setup";
+var mnemonic = "goat script hub trash decade dinner kiss woman sail decline valid neutral";

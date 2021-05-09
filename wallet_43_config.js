@@ -1,1 +1,1 @@
-var mnemonic = "cream table round husband south artwork hurt tonight cool joy square volcano";
+var mnemonic = "theme rookie warm come rival divert stuff speed banner report great sing";

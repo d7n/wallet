@@ -1,1 +1,1 @@
-var mnemonic = "fruit enrich slice vibrant vivid strike correct metal analyst paper recipe armor";
+var mnemonic = "puzzle cherry welcome devote tape forward dream earth exit frequent suspect column";

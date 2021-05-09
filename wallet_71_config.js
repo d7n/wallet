@@ -1,1 +1,1 @@
-var mnemonic = "diet traffic cake gas tomorrow outer celery street banana track hawk portion";
+var mnemonic = "small brother climb cigar usual main wagon indicate blanket soft beach sphere";

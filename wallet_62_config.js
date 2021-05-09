@@ -1,1 +1,1 @@
-var mnemonic = "december frown repeat mouse regular pledge orchard okay silk spirit squeeze tourist";
+var mnemonic = "goose fee game border pole tobacco impact poverty reflect phrase unknown roast";

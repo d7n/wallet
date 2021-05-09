@@ -1,1 +1,1 @@
-var mnemonic = "flash borrow desert wasp sell loan phrase expire segment story expire truly";
+var mnemonic = "game tray author soda inquiry bind night pigeon kit range turtle lift";

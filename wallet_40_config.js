@@ -1,1 +1,1 @@
-var mnemonic = "hour bird seat slight inflict range acid appear front tattoo dance ugly";
+var mnemonic = "choose museum panda true alert defense execute speak gaze round nasty inspire";

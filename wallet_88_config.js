@@ -1,1 +1,1 @@
-var mnemonic = "bone tooth lottery length kingdom impulse group hour chef catalog keen april";
+var mnemonic = "siege wrestle scorpion loyal marine fit palace among nasty when garbage width";

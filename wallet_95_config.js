@@ -1,1 +1,1 @@
-var mnemonic = "scene spot unit stadium repeat theme gravity remember camera patient organ dish";
+var mnemonic = "cycle whisper thing fat fit open metal recall element ski pair thing";

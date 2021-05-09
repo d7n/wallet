@@ -1,1 +1,1 @@
-var mnemonic = "cruel maple ice fluid embrace jazz dog indicate lunch decide bridge guilt";
+var mnemonic = "horn piano learn best female grace used hello mixed cry analyst timber";

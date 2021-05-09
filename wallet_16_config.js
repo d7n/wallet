@@ -1,1 +1,1 @@
-var mnemonic = "multiply arena below enlist wasp loop solution student cloth deputy crawl leisure";
+var mnemonic = "hungry certain depend festival arm torch venture champion upset lobster install market";

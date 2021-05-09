@@ -1,1 +1,1 @@
-var mnemonic = "fragile bitter glimpse assist manual liberty loyal balcony pole employ guitar hour";
+var mnemonic = "summer nurse pear acquire exile analyst upset glow student group guide master";

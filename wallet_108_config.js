@@ -1,1 +1,1 @@
-var mnemonic = "awesome solar lava floor assist tool quick canal phone boss seminar minor";
+var mnemonic = "digital visit crush nerve mansion clever reunion party wing fossil vendor fan";

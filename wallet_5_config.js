@@ -1,1 +1,1 @@
-var mnemonic = "render jewel social above fog trim adult recall again gentle suspect mystery";
+var mnemonic = "tongue toss various very fitness capital tourist prefer wrestle curious street beach";

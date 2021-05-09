@@ -1,1 +1,1 @@
-var mnemonic = "position daughter meadow ladder liquid danger wall deny test genuine risk jaguar";
+var mnemonic = "awful version repeat useless still phrase glance erosion illegal nose script bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier used pulp inside kit okay return duty print change script meadow";
+var mnemonic = "finish purchase bread cute diet first salon rhythm voyage sponsor spell gown";

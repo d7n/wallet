@@ -1,1 +1,1 @@
-var mnemonic = "author tumble summer glance position flower document describe improve pupil skill tobacco";
+var mnemonic = "session output happy rebuild author post toe drive submit flower state donor";

@@ -1,1 +1,1 @@
-var mnemonic = "clown differ country warfare virus matrix liberty catch toward fluid furnace evolve";
+var mnemonic = "hidden example civil wave nothing aim pelican proof lab secret donor click";

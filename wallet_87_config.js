@@ -1,1 +1,1 @@
-var mnemonic = "pigeon vivid fury item envelope parent expose margin hawk outside cable couch";
+var mnemonic = "border warm fresh inside vacuum actual nation act crime novel length spike";

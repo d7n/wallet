@@ -1,1 +1,1 @@
-var mnemonic = "stay liquid rich kit garage lab robust giant pony laugh success inform";
+var mnemonic = "legal web crucial until fancy pair arrow control method ginger grab find";

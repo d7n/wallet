@@ -1,1 +1,1 @@
-var mnemonic = "adult satisfy tiger shadow crash brisk exhaust awake giraffe slot area thank";
+var mnemonic = "exhibit wall risk myself execute shallow poet squeeze cherry great used flight";

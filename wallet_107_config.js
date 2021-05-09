@@ -1,1 +1,1 @@
-var mnemonic = "pyramid edit print canal art bracket fold off horn bicycle possible kite";
+var mnemonic = "pumpkin key library beauty nephew prevent result orange carbon sunny cushion onion";

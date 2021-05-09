@@ -1,1 +1,1 @@
-var mnemonic = "share vacuum inside great stone glory nerve provide shed cause village rifle";
+var mnemonic = "hard page menu frozen pond consider sport extra edge cliff fluid involve";

@@ -1,1 +1,1 @@
-var mnemonic = "judge decide sound bright organ toy sword snake genre excite west enforce";
+var mnemonic = "cereal key vibrant accuse text guilt airport hurt destroy left silk kitchen";

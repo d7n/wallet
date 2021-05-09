@@ -1,1 +1,1 @@
-var mnemonic = "achieve target labor attend grab cool inspire frog evil bronze rare retire";
+var mnemonic = "grace betray desk clap offer insane holiday flat detail spray confirm cup";

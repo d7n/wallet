@@ -1,1 +1,1 @@
-var mnemonic = "keen spike bring gain junk easily loop arrest over arrange patient pottery";
+var mnemonic = "tail great seat six electric affair donor toilet poem random shrimp extra";

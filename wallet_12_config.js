@@ -1,1 +1,1 @@
-var mnemonic = "illness actor trumpet arrest kitchen cable elbow network behave end evoke equal";
+var mnemonic = "danger reduce scan morning island also city swear use upper lend meat";

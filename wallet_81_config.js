@@ -1,1 +1,1 @@
-var mnemonic = "steak kingdom scout tuna skin trick jewel century weasel token tomato tornado";
+var mnemonic = "group rhythm maximum arm half echo boy post coast kit exercise merge";

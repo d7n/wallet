@@ -1,1 +1,1 @@
-var mnemonic = "angry soft grit device illegal divide weapon fame rotate off depart path";
+var mnemonic = "inmate blood seven vague space hospital foil truth vacant charge gloom virus";

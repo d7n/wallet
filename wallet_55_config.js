@@ -1,1 +1,1 @@
-var mnemonic = "hint manage upon lamp sword hundred seek return voyage lyrics cook ask";
+var mnemonic = "verify approve riot decorate gold lunch private nut sample laugh crop north";

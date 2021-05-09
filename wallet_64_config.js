@@ -1,1 +1,1 @@
-var mnemonic = "hidden recycle impulse squirrel neglect shock ranch once oppose pipe orange mule";
+var mnemonic = "book visit exercise dress afford bag frog bomb such bag march gospel";

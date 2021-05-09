@@ -1,1 +1,1 @@
-var mnemonic = "junior deliver then enemy else person gospel health stem vivid sight clock";
+var mnemonic = "embark document trial frog face correct ranch ghost cool gentle surprise avocado";

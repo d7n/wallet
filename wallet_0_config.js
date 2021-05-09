@@ -1,1 +1,1 @@
-var mnemonic = "describe quit first mistake fuel recycle minimum exact borrow logic excite muscle";
+var mnemonic = "mansion smoke promote bitter game bag kiwi dog summer cloud miss mosquito";

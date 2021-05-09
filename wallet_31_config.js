@@ -1,1 +1,1 @@
-var mnemonic = "dune educate local knee earth village trick fence media major have owner";
+var mnemonic = "witness claw enough wagon cluster recipe meadow home perfect seed crime jar";

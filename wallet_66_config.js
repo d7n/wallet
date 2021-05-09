@@ -1,1 +1,1 @@
-var mnemonic = "nose cake bronze yellow column wedding addict wealth asthma faculty umbrella lava";
+var mnemonic = "zoo vivid spend load tail view draft hurdle foil reform knife library";

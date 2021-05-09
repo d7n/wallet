@@ -1,1 +1,1 @@
-var mnemonic = "acid raw square category book six rival three enrich divorce marriage sample";
+var mnemonic = "own sleep stamp hip holiday kangaroo finish spend attract resemble suspect bulk";

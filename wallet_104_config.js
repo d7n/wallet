@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cotton identify normal diamond meat cliff diamond rude nation boring vibrant";
+var mnemonic = "talk love clean wash play chimney ask shadow bicycle shiver effort diary";

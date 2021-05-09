@@ -1,1 +1,1 @@
-var mnemonic = "mixed hurt trigger raw garbage grape kangaroo follow next disease anchor mention";
+var mnemonic = "rifle umbrella same service swing relax income october merry engine neglect type";

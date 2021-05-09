@@ -1,1 +1,1 @@
-var mnemonic = "swarm film skill oven board mouse lemon tuna nurse misery parent guess";
+var mnemonic = "ghost half service device skirt portion gossip first another possible cement food";

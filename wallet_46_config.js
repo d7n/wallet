@@ -1,1 +1,1 @@
-var mnemonic = "cargo erupt north skate biology rival siren shoulder glide muscle tip idle";
+var mnemonic = "town hat earth summer decide around portion donate screen enrich enter latin";

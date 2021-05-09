@@ -1,1 +1,1 @@
-var mnemonic = "start glad federal hunt jungle awesome dune pioneer video monster dynamic above";
+var mnemonic = "fire unique ordinary million curtain expect bird camera wild steak scatter teach";

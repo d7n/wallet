@@ -1,1 +1,1 @@
-var mnemonic = "tourist plastic video forward silly decrease ship exact wild alley base access";
+var mnemonic = "snap gasp gesture earth intact rule harvest grunt lunch genuine belt ski";

@@ -1,1 +1,1 @@
-var mnemonic = "step now charge interest under surround person inquiry fresh raise pool violin";
+var mnemonic = "this response opera used grant spirit letter dawn voice price sustain click";
