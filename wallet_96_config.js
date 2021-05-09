@@ -1,1 +1,1 @@
-var mnemonic = "bike world useful earn exact upon differ flock obvious october course arch";
+var mnemonic = "vehicle slice media panda shed sting danger legal diary sibling craft kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "potato knee assault where stand fork drop vast nuclear bicycle walnut orchard";
+var mnemonic = "goddess agree admit net oil ancient music impact dragon guess entire churn";

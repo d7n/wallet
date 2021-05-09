@@ -1,1 +1,1 @@
-var mnemonic = "fence tragic aspect bread genuine ramp hamster quiz chronic hover answer lucky";
+var mnemonic = "cause base tube volcano cabbage erosion own record giraffe call rely menu";

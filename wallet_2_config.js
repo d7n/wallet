@@ -1,1 +1,1 @@
-var mnemonic = "floor innocent expose depth tribe south twin debate ocean idle rocket bacon";
+var mnemonic = "trash lucky price boss vicious cruise advance wool rival cross laptop truth";

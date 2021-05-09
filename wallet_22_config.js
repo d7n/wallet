@@ -1,1 +1,1 @@
-var mnemonic = "lyrics decade vocal proof blast flush insane nerve sunset velvet apart panda";
+var mnemonic = "pave south sorry fold practice acoustic dolphin olympic rescue remind blue goat";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious arena powder delay thing hospital scale scatter weekend among fancy manual";
+var mnemonic = "squirrel bulk similar cash food deputy upon razor market nominee doctor festival";

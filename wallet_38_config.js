@@ -1,1 +1,1 @@
-var mnemonic = "fat common stay promote broom debate lock skull mobile scissors recall estate";
+var mnemonic = "finger rifle motor differ mixed list panic popular solar impose onion crisp";

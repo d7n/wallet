@@ -1,1 +1,1 @@
-var mnemonic = "oyster quantum timber later bean ginger mixed victory flame february manual sure";
+var mnemonic = "display behave laptop deliver mosquito beef filter slot way indoor license taste";

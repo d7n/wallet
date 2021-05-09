@@ -1,1 +1,1 @@
-var mnemonic = "pudding praise match improve loop dinner mechanic better trim weekend logic feature";
+var mnemonic = "cash resource run desert morning coffee copy sudden divorce share elite pupil";

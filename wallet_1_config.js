@@ -1,1 +1,1 @@
-var mnemonic = "decide october stand champion host pond galaxy identify inspire coral sand execute";
+var mnemonic = "shop provide indoor target like little dolphin power edge fan wife kit";

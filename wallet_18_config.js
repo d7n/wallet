@@ -1,1 +1,1 @@
-var mnemonic = "cherry parent pretty final elbow hunt strategy warrior daughter topple rely tree";
+var mnemonic = "hip eyebrow exhibit stamp tip list begin snap bicycle produce federal citizen";

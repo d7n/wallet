@@ -1,1 +1,1 @@
-var mnemonic = "notable danger ostrich curious sheriff silly rely finish panic outdoor husband simple";
+var mnemonic = "jungle loop level earn cute shallow divide foil balcony resource forget rifle";

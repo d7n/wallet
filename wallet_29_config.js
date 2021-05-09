@@ -1,1 +1,1 @@
-var mnemonic = "hospital diesel cable door hunt advance fruit glue glide venue twin mosquito";
+var mnemonic = "alert able language radio tag baby artwork sheriff gesture welcome gallery number";

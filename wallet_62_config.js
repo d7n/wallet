@@ -1,1 +1,1 @@
-var mnemonic = "grab mimic process staff maple wave arctic tumble lonely butter renew slam";
+var mnemonic = "misery stumble dentist crane blind cream alone brief primary guess label jungle";

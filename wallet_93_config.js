@@ -1,1 +1,1 @@
-var mnemonic = "quantum warrior jump tiny mosquito swallow grow indoor act horn solar super";
+var mnemonic = "catch vast climb van grit copy defy present jewel fever express step";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect steel share orchard village cage success service time sudden scare jump";
+var mnemonic = "foster surface butter resist purity waste insect orbit will fire attract alter";

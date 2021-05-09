@@ -1,1 +1,1 @@
-var mnemonic = "honey indicate movie digital smile cruise eager photo involve pottery various borrow";
+var mnemonic = "idea pen violin reopen useful machine later cause scorpion nominee replace release";

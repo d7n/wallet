@@ -1,1 +1,1 @@
-var mnemonic = "hard word spoil below junior shrimp alien used pencil exhaust fuel bulb";
+var mnemonic = "animal river sick husband soap output assume luggage leader physical coffee exact";

@@ -1,1 +1,1 @@
-var mnemonic = "century guitar soap tag enjoy flush cube yellow virtual ozone depend mountain";
+var mnemonic = "salad emerge light balance cage ginger dream result giant clog then bubble";

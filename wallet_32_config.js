@@ -1,1 +1,1 @@
-var mnemonic = "artefact aerobic into normal shoe swear scrub monitor live forget rug side";
+var mnemonic = "valve sad borrow bargain crew lava announce treat rigid hire payment person";

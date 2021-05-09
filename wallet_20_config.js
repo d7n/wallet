@@ -1,1 +1,1 @@
-var mnemonic = "kiwi fox regular night sunny session banana demise tenant street thrive candy";
+var mnemonic = "thing knife often beach panther beef soldier certain educate dove slush cook";

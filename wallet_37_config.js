@@ -1,1 +1,1 @@
-var mnemonic = "cereal close filter churn organ juice debris entire cinnamon hybrid aerobic predict";
+var mnemonic = "gaze badge again edge few glass alone you metal swear human oven";

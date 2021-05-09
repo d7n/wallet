@@ -1,1 +1,1 @@
-var mnemonic = "man renew cotton never divorce topple must program gallery carbon gap kiss";
+var mnemonic = "super connect glimpse barrel gym mechanic cream school follow keen fence rubber";

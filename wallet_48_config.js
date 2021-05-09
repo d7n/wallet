@@ -1,1 +1,1 @@
-var mnemonic = "roast thunder trim chicken remind paddle trim wedding jar tragic opinion section";
+var mnemonic = "clip lonely able tool coast space result panda elegant comfort oxygen goat";

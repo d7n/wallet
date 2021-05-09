@@ -1,1 +1,1 @@
-var mnemonic = "mail employ buddy poet middle pottery check material bus recipe wonder moment";
+var mnemonic = "jealous language animal custom appear purchase shoot theory swift disorder soon educate";

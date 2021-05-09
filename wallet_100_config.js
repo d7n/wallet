@@ -1,1 +1,1 @@
-var mnemonic = "avoid spy image install minimum tortoise chief awesome volume dose creek repair";
+var mnemonic = "ocean final vital verify abandon start history frost thought party update element";

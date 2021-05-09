@@ -1,1 +1,1 @@
-var mnemonic = "call able pitch debate lion huge involve local method viable agree earn";
+var mnemonic = "unfair step gloom series invite skill join discover draft must time people";

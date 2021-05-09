@@ -1,1 +1,1 @@
-var mnemonic = "dance airport latin carpet describe one remind split zebra settle report soft";
+var mnemonic = "emotion swarm simple release coyote develop skin drip drum churn toy artwork";

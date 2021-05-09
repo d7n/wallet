@@ -1,1 +1,1 @@
-var mnemonic = "actress negative badge harvest into drill hen flip hospital wonder select fatal";
+var mnemonic = "unique wheat sort upper sure gallery retire shed frown neutral opinion time";

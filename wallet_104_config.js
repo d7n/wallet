@@ -1,1 +1,1 @@
-var mnemonic = "rice great style bike spoon genre hand success object often useless job";
+var mnemonic = "leave glass cross unfair harbor churn engage rich inhale sail crater blind";

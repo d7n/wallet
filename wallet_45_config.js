@@ -1,1 +1,1 @@
-var mnemonic = "chapter direct doll curve puzzle mango brave cage submit melody gasp earn";
+var mnemonic = "october group list method pigeon vote turkey call right join gain uncover";

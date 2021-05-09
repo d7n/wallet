@@ -1,1 +1,1 @@
-var mnemonic = "average actor mother diary supreme funny nasty blue biology special soccer talk";
+var mnemonic = "gold purpose plug display never fragile inspire noodle now holiday install wool";

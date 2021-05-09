@@ -1,1 +1,1 @@
-var mnemonic = "submit exotic focus crawl begin ordinary machine latin skill warrior loud oppose";
+var mnemonic = "nurse cat clump swap maid cry elbow current retreat silver runway tube";

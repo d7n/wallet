@@ -1,1 +1,1 @@
-var mnemonic = "can alarm capable sheriff knock unique monster frost sleep patch great seminar";
+var mnemonic = "shuffle very steak kitchen violin laundry drop gym wonder weather crucial verb";

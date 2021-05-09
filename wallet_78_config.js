@@ -1,1 +1,1 @@
-var mnemonic = "pull prepare pair clerk blast expire attitude inmate track enforce recipe loop";
+var mnemonic = "work round win garden twice glory then evil grid elite prefer region";

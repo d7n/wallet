@@ -1,1 +1,1 @@
-var mnemonic = "trip wall assault tell frozen grace faculty crew mule brass romance lawsuit";
+var mnemonic = "craft dry annual machine wrong mutual dwarf measure initial uphold icon initial";

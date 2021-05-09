@@ -1,1 +1,1 @@
-var mnemonic = "lounge brand ethics cover dance era parade cool antique sleep hire wash";
+var mnemonic = "hub until lazy defense material bright spirit version topple spy legend shallow";

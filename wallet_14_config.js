@@ -1,1 +1,1 @@
-var mnemonic = "cost rich flag position industry biology tower alcohol camera choice genuine gold";
+var mnemonic = "thank cement ozone sibling argue health royal escape fruit chat depth damp";

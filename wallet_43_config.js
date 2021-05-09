@@ -1,1 +1,1 @@
-var mnemonic = "call demise behind health entire need cute curtain glimpse fantasy ripple destroy";
+var mnemonic = "fish morning rain road explain hint edge strategy piano fantasy obey tide";

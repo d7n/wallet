@@ -1,1 +1,1 @@
-var mnemonic = "fever august bubble among aerobic puzzle approve day equip circle isolate never";
+var mnemonic = "reject stuff ramp type post adjust need arrow plate paddle tray deliver";

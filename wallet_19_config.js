@@ -1,1 +1,1 @@
-var mnemonic = "siege icon audit waste defy hour wife describe monster pistol depth vocal";
+var mnemonic = "concert bonus purpose leisure wise between report deal boss zebra garment have";

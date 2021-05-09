@@ -1,1 +1,1 @@
-var mnemonic = "burden abandon rare unusual repeat web license age angry zone flush brand";
+var mnemonic = "zoo mimic fragile trick more spider surge risk olive illness narrow panther";

@@ -1,1 +1,1 @@
-var mnemonic = "strong young trend cushion cherry shift develop liquid gift now exit prison";
+var mnemonic = "gentle very axis stem erosion panel miracle learn scan fossil broccoli ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch harbor bright inner cake hood sweet razor forest car grape clever";
+var mnemonic = "parrot vicious urge negative hill question impose moment cricket noble regret across";

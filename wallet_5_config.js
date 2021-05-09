@@ -1,1 +1,1 @@
-var mnemonic = "betray nasty net bottom across two awake must drift glare scene pact";
+var mnemonic = "pull garlic inform subway dumb venture resist skull annual ten loan hybrid";

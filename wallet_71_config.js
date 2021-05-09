@@ -1,1 +1,1 @@
-var mnemonic = "anger online search describe uniform side clog broom cluster saddle hazard tree";
+var mnemonic = "hat grit hold slam hole sense stable park easy robot scheme thumb";

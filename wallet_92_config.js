@@ -1,1 +1,1 @@
-var mnemonic = "current genius coral humor asthma quick fox exercise safe basic shift orange";
+var mnemonic = "dizzy eye stairs rifle balance ski debris diagram soft left early toast";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant field ritual conduct taste radar letter cousin equip mixed hybrid card";
+var mnemonic = "never glove glass room notable fog bubble avocado dance flower lamp lecture";

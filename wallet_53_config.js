@@ -1,1 +1,1 @@
-var mnemonic = "clown arrive bread fee clog degree spare cactus nut forget basic festival";
+var mnemonic = "earth symbol duty unusual language thunder panel act ripple dry comfort alley";

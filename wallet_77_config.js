@@ -1,1 +1,1 @@
-var mnemonic = "sunny machine journey penalty exact collect vacant split company squeeze mixture still";
+var mnemonic = "enlist gun predict once bundle choose lazy theme comic rebuild connect describe";

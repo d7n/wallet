@@ -1,1 +1,1 @@
-var mnemonic = "protect cook frozen visual mango strong finish coach journey monkey vague pact";
+var mnemonic = "width amateur tuna lottery female all token forget update raccoon saddle turn";

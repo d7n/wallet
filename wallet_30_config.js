@@ -1,1 +1,1 @@
-var mnemonic = "ride diagram exclude veteran attend soul sustain drum learn message powder element";
+var mnemonic = "wrist mushroom various butter clarify envelope virtual extend remove family hen warm";

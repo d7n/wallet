@@ -1,1 +1,1 @@
-var mnemonic = "math year base asthma anchor soup steak arrange dwarf discover oval dignity";
+var mnemonic = "ahead slow smart impact special dolphin opera uncle basic hawk top domain";

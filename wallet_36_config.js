@@ -1,1 +1,1 @@
-var mnemonic = "measure family supply tuna atom pioneer praise soup wall buffalo fix jelly";
+var mnemonic = "alter trip acquire educate victory crew traffic mountain demand hard melody aim";

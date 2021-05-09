@@ -1,1 +1,1 @@
-var mnemonic = "radar sight word shock broom glance toss baby market combine north swap";
+var mnemonic = "drive hedgehog snake burger city utility oppose broccoli stage treat mixture pond";

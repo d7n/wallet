@@ -1,1 +1,1 @@
-var mnemonic = "three science predict anchor bird place diary radar daring hurt soft december";
+var mnemonic = "twin evoke chief erase sniff exercise empower bright load glimpse item because";

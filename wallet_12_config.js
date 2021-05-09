@@ -1,1 +1,1 @@
-var mnemonic = "unveil avocado violin render eagle side nurse area gospel glance sound hybrid";
+var mnemonic = "else diesel snap rally mixed trigger shoe polar space deputy act spider";

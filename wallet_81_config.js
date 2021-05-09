@@ -1,1 +1,1 @@
-var mnemonic = "raccoon ketchup diet diary social school critic vessel dirt lecture baby short";
+var mnemonic = "flock pitch fringe resemble pigeon change they among risk moral across cave";

@@ -1,1 +1,1 @@
-var mnemonic = "future rate embody document transfer flavor wet cruise attitude cargo beach above";
+var mnemonic = "exotic electric industry alien during slow universe shock estate struggle gap elevator";

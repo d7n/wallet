@@ -1,1 +1,1 @@
-var mnemonic = "apple movie waste more stamp quarter refuse seek joy good horror favorite";
+var mnemonic = "teach cannon toss mango eagle amount ozone sibling defense pet anger expose";

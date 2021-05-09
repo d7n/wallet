@@ -1,1 +1,1 @@
-var mnemonic = "nation candy cause junk banana account fatal drip frown master there angle";
+var mnemonic = "narrow burden vast morning nerve defense twist conduct village divide trophy cool";

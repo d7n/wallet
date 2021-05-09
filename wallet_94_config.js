@@ -1,1 +1,1 @@
-var mnemonic = "noble dish rabbit you funny maid famous scrap road theme device clip";
+var mnemonic = "gain senior movie cushion payment clarify nut drum plastic item actress assault";

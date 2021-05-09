@@ -1,1 +1,1 @@
-var mnemonic = "gym various below demand endorse private skirt goat hedgehog faculty primary actual";
+var mnemonic = "stomach couch olive snake creek random emotion catalog senior key distance crack";

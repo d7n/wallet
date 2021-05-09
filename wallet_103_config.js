@@ -1,1 +1,1 @@
-var mnemonic = "possible thrive march fame tail pool undo wheat jacket surge deliver veteran";
+var mnemonic = "merge sign patrol zebra echo zebra text provide aspect drama welcome increase";

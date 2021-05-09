@@ -1,1 +1,1 @@
-var mnemonic = "update post region hint symbol okay gift cram delay warfare short label";
+var mnemonic = "peanut tray lend end reduce inform faculty first dog virus loan paddle";

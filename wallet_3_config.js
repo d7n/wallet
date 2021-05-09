@@ -1,1 +1,1 @@
-var mnemonic = "diamond cat flush shoulder believe wheel gas shallow ride forget volcano elegant";
+var mnemonic = "bracket upset forest swim local series artist onion capable gather surface trash";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus notice position beyond kite viable solution stereo task forest refuse huge";
+var mnemonic = "receive identify reflect kind swear evil fossil rabbit such safe moment february";

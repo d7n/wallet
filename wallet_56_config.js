@@ -1,1 +1,1 @@
-var mnemonic = "employ wrap scatter opera source wreck genuine fox under giraffe ice laundry";
+var mnemonic = "dinosaur boat rail section moment month lava mammal usual fish furnace surge";

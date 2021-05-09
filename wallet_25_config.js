@@ -1,1 +1,1 @@
-var mnemonic = "civil punch brush limit rocket allow brief ball rhythm moment nominee hold";
+var mnemonic = "build novel useful spatial need affair special hat core brush eyebrow notable";

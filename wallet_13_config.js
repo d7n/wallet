@@ -1,1 +1,1 @@
-var mnemonic = "unfair mixed city chat soon target below exile paper try slim crop";
+var mnemonic = "dismiss exotic rain trust math resist will barrel stuff cabin auction camera";

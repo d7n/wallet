@@ -1,1 +1,1 @@
-var mnemonic = "spin frown reunion else width language turtle brush reward eagle deer draft";
+var mnemonic = "advance blush they twist area carry violin cattle obey water borrow valley";

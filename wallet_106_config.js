@@ -1,1 +1,1 @@
-var mnemonic = "arrest pyramid clever jealous soft buffalo neutral muscle clap pupil thing avoid";
+var mnemonic = "pass tenant inject episode private now panic game position zebra correct dose";

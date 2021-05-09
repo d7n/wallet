@@ -1,1 +1,1 @@
-var mnemonic = "ancient demand vacant chase wasp pepper defy swarm tool indoor parent census";
+var mnemonic = "caught heart lamp time quarter message begin butter better robust scatter veteran";

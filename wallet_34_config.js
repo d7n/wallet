@@ -1,1 +1,1 @@
-var mnemonic = "trophy switch solid gesture cat senior cruise require cube foam october embrace";
+var mnemonic = "vast siege neutral hawk token pencil hole left echo deny cloth misery";

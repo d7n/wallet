@@ -1,1 +1,1 @@
-var mnemonic = "awkward slow view cupboard city february party forest melody scissors word price";
+var mnemonic = "hand little they supreme question catch clap open wing clap cushion size";

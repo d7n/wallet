@@ -1,1 +1,1 @@
-var mnemonic = "nature tobacco tent inner ticket wide review future canal chunk cheap daring";
+var mnemonic = "script sock initial couple desert one garage burst copper goddess canvas fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair plug strong liberty like purity palm lyrics dutch undo return wet";
+var mnemonic = "defy vicious skate cherry forward boring tag retreat metal reject salon bunker";

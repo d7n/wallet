@@ -1,1 +1,1 @@
-var mnemonic = "bulk alter disagree moral swing tornado panther panic amused exit uncle machine";
+var mnemonic = "tenant issue photo hammer million wet empty remain gather honey entry sketch";

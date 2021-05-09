@@ -1,1 +1,1 @@
-var mnemonic = "garbage bounce way bracket wash later wage decrease rubber pave eternal true";
+var mnemonic = "connect outdoor soft any movie stool axis eight delay luggage plunge judge";

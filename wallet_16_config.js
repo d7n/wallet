@@ -1,1 +1,1 @@
-var mnemonic = "history gauge slice wash finish mother erode stove design polar glance bacon";
+var mnemonic = "cute rifle fish world prevent hood more success lazy torch chef time";

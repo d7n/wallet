@@ -1,1 +1,1 @@
-var mnemonic = "master talk valid spawn salute hedgehog carpet service earth correct desk dune";
+var mnemonic = "faint dial away feature occur slush eyebrow job milk scan confirm sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "attract walk extra tissue grass require husband layer ship melody next toddler";
+var mnemonic = "practice fiscal render leader flower alcohol grape novel salon transfer slogan amused";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch exchange few push peanut advice evoke indicate afraid require pupil spirit";
+var mnemonic = "good trumpet captain what foster keep cannon never universe child sister step";

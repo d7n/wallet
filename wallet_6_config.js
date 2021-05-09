@@ -1,1 +1,1 @@
-var mnemonic = "conduct market travel shoulder best there face creek betray theme you tunnel";
+var mnemonic = "wool spoon danger culture valley bitter gadget brass this coil believe marble";

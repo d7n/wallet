@@ -1,1 +1,1 @@
-var mnemonic = "wire ceiling area social marriage reason move cement unveil ozone industry sound";
+var mnemonic = "option region sell drive ordinary curious cactus actor moral document coil process";

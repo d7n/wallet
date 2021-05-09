@@ -1,1 +1,1 @@
-var mnemonic = "leader boy ceiling country seek train okay flee month baby rebel dust";
+var mnemonic = "tired able lava absorb space chaos limit unfold abstract delay awful indoor";

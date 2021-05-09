@@ -1,1 +1,1 @@
-var mnemonic = "upgrade private curve electric number civil nest crouch fiber cradle library actress";
+var mnemonic = "hockey truck axis track uncover poet pluck defense sign awesome region horn";

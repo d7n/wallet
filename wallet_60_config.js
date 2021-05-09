@@ -1,1 +1,1 @@
-var mnemonic = "purpose soap hurt moment chair proud now fever strategy expand frequent desk";
+var mnemonic = "extra control panther say napkin surge betray castle season today elite push";

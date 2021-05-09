@@ -1,1 +1,1 @@
-var mnemonic = "dust marble length muscle escape explain early unhappy cross can palace gossip";
+var mnemonic = "festival glass grid aim knife juice boy fabric alter carry speed aisle";

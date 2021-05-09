@@ -1,1 +1,1 @@
-var mnemonic = "spawn grit canal super elegant parrot move render embody monster fruit umbrella";
+var mnemonic = "helmet wish luggage trim satoshi riot awake spot stick crew steel furnace";

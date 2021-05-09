@@ -1,1 +1,1 @@
-var mnemonic = "boss torch smart average rhythm olive egg detail easy brush stem jelly";
+var mnemonic = "tube symptom addict lemon bargain mutual empower turtle right rebel input nerve";

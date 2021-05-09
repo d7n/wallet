@@ -1,1 +1,1 @@
-var mnemonic = "hour focus reflect quiz assist gap tiger push harbor feel tube shed";
+var mnemonic = "inmate social drill display slice mixed thing art harbor pact flush health";

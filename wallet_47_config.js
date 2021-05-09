@@ -1,1 +1,1 @@
-var mnemonic = "duty busy parade cloud lawn nominee hamster fish author cupboard shoot oyster";
+var mnemonic = "injury joke recall wire chapter token symptom gain aisle conduct throw average";

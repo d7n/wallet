@@ -1,1 +1,1 @@
-var mnemonic = "satoshi gas clap chalk style grab space enough fix snake shallow charge";
+var mnemonic = "duck patch glimpse joy hold reform leopard basic salad punch few sweet";
