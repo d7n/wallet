@@ -1,1 +1,1 @@
-var mnemonic = "inside desk alley action fence behind elite deliver left claim atom grow";
+var mnemonic = "polar twice group net moon steel animal boring soda attitude require spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "genre happy afford disorder aware employ tackle drastic winter humor arm devote";
+var mnemonic = "acquire quit coyote insane gossip once either runway point neither social embody";

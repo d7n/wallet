@@ -1,1 +1,1 @@
-var mnemonic = "cushion broccoli imitate gate measure sauce film pond novel purpose carry early";
+var mnemonic = "eagle decline enforce token aim frost drop gas december motor slice attitude";

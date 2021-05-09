@@ -1,1 +1,1 @@
-var mnemonic = "arrow case route panther pig useless annual cattle song purpose grid next";
+var mnemonic = "crater lemon mechanic jazz find rose push window elbow accident load cement";

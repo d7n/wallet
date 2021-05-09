@@ -1,1 +1,1 @@
-var mnemonic = "traffic spoon toast acid repair parrot blush indicate time clinic inside they";
+var mnemonic = "flame clump void improve chimney enroll never arch avocado crunch hurry achieve";

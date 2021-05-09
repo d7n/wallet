@@ -1,1 +1,1 @@
-var mnemonic = "private tunnel enough garment inspire balcony scout iron burger pitch rare pizza";
+var mnemonic = "rare diagram sentence raise funny simple poverty labor glare shallow become pill";

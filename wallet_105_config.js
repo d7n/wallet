@@ -1,1 +1,1 @@
-var mnemonic = "love abuse choose wonder company milk ahead human useful honey throw august";
+var mnemonic = "orphan shrug liberty increase fix paper raccoon local guide swear glow million";

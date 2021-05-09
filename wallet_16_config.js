@@ -1,1 +1,1 @@
-var mnemonic = "equip snack power breeze creek leopard swap balcony lobster giggle true seven";
+var mnemonic = "visa rude frog social throw cream jazz devote tail acid solution law";

@@ -1,1 +1,1 @@
-var mnemonic = "provide toy almost then lesson upgrade calm wife lesson shoulder lobster crack";
+var mnemonic = "helmet runway ethics pave valve rare quiz hollow organ define abandon clump";

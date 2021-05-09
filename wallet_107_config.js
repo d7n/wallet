@@ -1,1 +1,1 @@
-var mnemonic = "ride attitude visual labor fiscal stable merry treat artist aunt top wear";
+var mnemonic = "when group very inhale kite divorce already vacuum rifle clean dismiss riot";

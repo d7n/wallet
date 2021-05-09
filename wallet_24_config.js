@@ -1,1 +1,1 @@
-var mnemonic = "wolf divide prize pilot obtain toilet lobster giggle canyon bacon end wire";
+var mnemonic = "month ankle middle find venue retire abuse force else fuel royal spy";

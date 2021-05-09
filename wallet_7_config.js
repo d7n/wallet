@@ -1,1 +1,1 @@
-var mnemonic = "deal aunt select bounce quantum pelican black essay inside spread join coil";
+var mnemonic = "enable swing ice garlic guard orchard reason defy lecture sheriff clock sight";

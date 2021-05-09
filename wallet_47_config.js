@@ -1,1 +1,1 @@
-var mnemonic = "spread gain fiscal jeans between two bind solve island seat lucky vintage";
+var mnemonic = "valley dragon tip wrestle foam green umbrella tragic hub idle leg divert";

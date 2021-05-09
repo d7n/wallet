@@ -1,1 +1,1 @@
-var mnemonic = "meat forum loop trash trial guilt butter file ski trip entry vault";
+var mnemonic = "toilet nurse half dose else beyond illegal write rate turtle fee fine";

@@ -1,1 +1,1 @@
-var mnemonic = "pole play segment blade shove web pretty potato call taste case cruise";
+var mnemonic = "monster civil gospel atom october since swing fold avoid car demand off";

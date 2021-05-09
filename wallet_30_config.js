@@ -1,1 +1,1 @@
-var mnemonic = "work swim outdoor swap leave mansion gallery beef submit loud advice nominee";
+var mnemonic = "valid liquid day alone top detail slush bulk banana demand method siren";

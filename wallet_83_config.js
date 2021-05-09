@@ -1,1 +1,1 @@
-var mnemonic = "intact winner wire solar fit cement fruit peanut liar will creek struggle";
+var mnemonic = "elegant spoil glide hole guide silver hello puppy tissue venue avoid energy";

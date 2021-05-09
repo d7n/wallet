@@ -1,1 +1,1 @@
-var mnemonic = "taste buffalo chimney gossip apology mutual bus annual jar cross rally cat";
+var mnemonic = "fire uncle wet latin help team twist junior seed illegal alert amount";

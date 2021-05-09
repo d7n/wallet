@@ -1,1 +1,1 @@
-var mnemonic = "text salon fold youth film income cover engage luxury fog bleak spread";
+var mnemonic = "donkey develop diary old flush cloth toddler middle west strategy icon output";

@@ -1,1 +1,1 @@
-var mnemonic = "also roast badge common later shock group sell act luggage guard effort";
+var mnemonic = "welcome duck six salt step erode ignore scare around prosper lunar rib";

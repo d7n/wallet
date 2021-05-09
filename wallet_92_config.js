@@ -1,1 +1,1 @@
-var mnemonic = "omit marble mesh indicate evidence thunder eagle craft police depth kick rich";
+var mnemonic = "thought round palace pistol afraid boring square draw rude empty purity destroy";

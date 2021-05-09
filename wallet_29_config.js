@@ -1,1 +1,1 @@
-var mnemonic = "elevator nephew gun traffic always volcano side edge dust head useful three";
+var mnemonic = "require impact student spare coffee cheese extra only despair candy morning coach";

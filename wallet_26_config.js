@@ -1,1 +1,1 @@
-var mnemonic = "what online bind area easy guide winner birth still oblige person network";
+var mnemonic = "physical spot caution twice zone churn hazard expect ugly hollow bread popular";

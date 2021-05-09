@@ -1,1 +1,1 @@
-var mnemonic = "panel gift vessel across year peace tail scare someone scheme oblige candy";
+var mnemonic = "burger bar drift pact tiny armed frog leave brief ghost tumble step";

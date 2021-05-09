@@ -1,1 +1,1 @@
-var mnemonic = "confirm loan hundred lens unit dress short wild table fossil fever taste";
+var mnemonic = "term multiply come wish bachelor slab sleep winner shallow enroll chapter tree";

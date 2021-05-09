@@ -1,1 +1,1 @@
-var mnemonic = "toy shine option candy noble stay slow notice twenty tissue game sword";
+var mnemonic = "kick huge need hazard address license sign strategy slender garlic among area";

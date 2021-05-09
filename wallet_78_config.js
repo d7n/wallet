@@ -1,1 +1,1 @@
-var mnemonic = "tuna thrive replace address shuffle detect lady rail pond holiday bubble large";
+var mnemonic = "phrase harvest buffalo couch black cabin rain plate innocent skill pistol marriage";

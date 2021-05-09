@@ -1,1 +1,1 @@
-var mnemonic = "juice embark one hat bicycle talk squirrel bar volume biology festival grief";
+var mnemonic = "frozen jazz century cover swap cluster borrow tray mouse social actual aunt";

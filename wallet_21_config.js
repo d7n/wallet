@@ -1,1 +1,1 @@
-var mnemonic = "dismiss cute slogan drastic together increase setup income cricket bring inherit october";
+var mnemonic = "work urban fatigue figure claw hammer movie drum produce enforce sting thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "east brick copy jewel girl tuition sell tiger fragile people keen asset";
+var mnemonic = "summer learn language loyal pizza maximum device pool salad balance park punch";

@@ -1,1 +1,1 @@
-var mnemonic = "armor door region assume meadow control helmet adult balance print camera tornado";
+var mnemonic = "wink between venue ring apart apart march poem prevent cruel fox convince";

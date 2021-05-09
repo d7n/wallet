@@ -1,1 +1,1 @@
-var mnemonic = "join shrimp behind weather sweet scissors invest deputy giant soon post arrow";
+var mnemonic = "educate paper burst inner useless practice endorse jaguar noble carry upper palm";

@@ -1,1 +1,1 @@
-var mnemonic = "answer win parent chuckle fall verify busy marriage always old sauce physical";
+var mnemonic = "business coconut sad almost plunge sort two bracket kitchen system buzz aunt";

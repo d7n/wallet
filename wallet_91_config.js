@@ -1,1 +1,1 @@
-var mnemonic = "flower gift ship catalog burden crouch erosion slot glass art boost message";
+var mnemonic = "marine license bird secret project horror submit devote blossom develop lonely such";

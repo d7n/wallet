@@ -1,1 +1,1 @@
-var mnemonic = "hold filter skate coconut control come arrange token oyster kite power seat";
+var mnemonic = "absurd ozone unveil dentist fitness current orchard swift panther genre wait double";

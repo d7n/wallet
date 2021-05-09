@@ -1,1 +1,1 @@
-var mnemonic = "shallow combine cat morning better barrel mutual income desert theory estate three";
+var mnemonic = "throw hobby melt hen genuine gate kid gasp book usual menu category";

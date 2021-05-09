@@ -1,1 +1,1 @@
-var mnemonic = "detect clarify asthma craft doctor october involve remember head cancel oyster client";
+var mnemonic = "notice squeeze pluck cable hollow cupboard effort affair tomorrow erupt parrot evil";

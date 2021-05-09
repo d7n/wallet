@@ -1,1 +1,1 @@
-var mnemonic = "stick spatial sword knife enemy uphold small sister girl elevator debate myself";
+var mnemonic = "elephant gate usage swim spy secret must muscle waste eyebrow harvest you";

@@ -1,1 +1,1 @@
-var mnemonic = "minute pottery situate size table wink split mask cigar dad combine borrow";
+var mnemonic = "jelly ceiling ship burger surprise deer deputy acid unable knee room spell";

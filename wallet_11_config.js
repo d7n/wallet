@@ -1,1 +1,1 @@
-var mnemonic = "real layer inner book cereal panel speed only bind orient rib because";
+var mnemonic = "orient paper open boost meat service future resource end click excess seek";

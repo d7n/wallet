@@ -1,1 +1,1 @@
-var mnemonic = "frog educate off hawk welcome open prosper weird manage hawk unknown tumble";
+var mnemonic = "help parent puzzle enrich delay sheriff nation vast move thing camera despair";

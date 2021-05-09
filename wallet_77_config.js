@@ -1,1 +1,1 @@
-var mnemonic = "click unfair people zone clarify boring remove soccer text quantum ten bundle";
+var mnemonic = "era fit hamster soft blame purity tube panel expand vocal joy judge";

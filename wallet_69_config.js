@@ -1,1 +1,1 @@
-var mnemonic = "predict false color world escape agree hello black sock update bonus aisle";
+var mnemonic = "indicate correct mechanic rail lonely wine cage girl citizen chapter index run";

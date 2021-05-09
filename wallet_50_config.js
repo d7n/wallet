@@ -1,1 +1,1 @@
-var mnemonic = "awesome level over front hammer barrel spring caught tail among install comfort";
+var mnemonic = "uniform battle dizzy because water dismiss trend heavy vacuum pistol alien nominee";

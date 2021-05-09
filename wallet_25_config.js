@@ -1,1 +1,1 @@
-var mnemonic = "frown sword lecture staff logic armed spoil lend distance slush pattern cave";
+var mnemonic = "sunset double aware clog lift key stone demand clap offer approve icon";

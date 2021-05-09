@@ -1,1 +1,1 @@
-var mnemonic = "another phone afraid rigid six burst wasp bridge digital tiger cave start";
+var mnemonic = "jungle upgrade hidden wing sand wolf ready empower glide absent hint make";

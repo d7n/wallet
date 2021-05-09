@@ -1,1 +1,1 @@
-var mnemonic = "loop erosion level first awful bounce upset east simple method certain syrup";
+var mnemonic = "rapid turkey teach cup rice slot rich art pudding year film brick";

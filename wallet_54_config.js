@@ -1,1 +1,1 @@
-var mnemonic = "cool orient size skin kick skate rough flock little spy story blame";
+var mnemonic = "account transfer comic story silly impact south apology drive grass mobile ozone";

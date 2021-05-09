@@ -1,1 +1,1 @@
-var mnemonic = "tiger absurd double shine mix scrub organ happy omit valve oil crime";
+var mnemonic = "mom erosion rude weekend regret govern defy punch outer blouse give strong";

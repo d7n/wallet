@@ -1,1 +1,1 @@
-var mnemonic = "metal situate sting tortoise whale topic engine inquiry salon child twenty adjust";
+var mnemonic = "lion predict ordinary provide monitor fitness rubber until option garment script crazy";

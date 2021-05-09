@@ -1,1 +1,1 @@
-var mnemonic = "envelope essay essay reform exclude logic spider mosquito glass tunnel tray pride";
+var mnemonic = "embrace drop entry obvious roof shell resist tourist draw sketch iron soup";

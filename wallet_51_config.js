@@ -1,1 +1,1 @@
-var mnemonic = "unknown journey dirt lyrics grab legend cupboard frown resource vital pond lounge";
+var mnemonic = "marine used abstract occur bamboo current equal easy aerobic hurry tired shuffle";

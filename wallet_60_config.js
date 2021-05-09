@@ -1,1 +1,1 @@
-var mnemonic = "circle tilt tragic diet indoor renew scan hurry blouse fluid stable elegant";
+var mnemonic = "release peace across smart glass thrive fancy various sister cactus jazz typical";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle long easy satoshi elite run cotton crazy ancient pilot shadow small";
+var mnemonic = "radar scene arrange tool toddler car wasp car subway pattern any shy";

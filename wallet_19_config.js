@@ -1,1 +1,1 @@
-var mnemonic = "unable report course carpet pioneer mansion relief harsh wisdom trophy admit jacket";
+var mnemonic = "cradle riot sugar vanish alpha miss confirm afford champion miss noodle where";

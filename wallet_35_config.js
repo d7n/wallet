@@ -1,1 +1,1 @@
-var mnemonic = "glide pledge kit desk friend note cat key economy liberty side old";
+var mnemonic = "wild monkey ankle small woman private few extend weapon machine cabin guilt";

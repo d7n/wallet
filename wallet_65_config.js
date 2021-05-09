@@ -1,1 +1,1 @@
-var mnemonic = "feature inner velvet refuse tunnel west canoe this lawn between wisdom bounce";
+var mnemonic = "talk problem foot level depend captain multiply swear rent have grace track";

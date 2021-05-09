@@ -1,1 +1,1 @@
-var mnemonic = "tonight globe wage evil earn security fortune mouse penalty island fatigue woman";
+var mnemonic = "shrimp poverty divorce spot cinnamon march party season meadow physical fancy gravity";

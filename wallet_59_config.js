@@ -1,1 +1,1 @@
-var mnemonic = "actual bitter sound fiscal earth gown endless nasty pass assume salad excuse";
+var mnemonic = "banner genre caution bargain switch humor bike guess later envelope cloth spoon";

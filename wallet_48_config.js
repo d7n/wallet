@@ -1,1 +1,1 @@
-var mnemonic = "moral author evolve fish hand unknown kingdom give injury cook climb outer";
+var mnemonic = "tone dumb drum pig crush pig cook vast sick puzzle enemy super";

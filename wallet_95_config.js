@@ -1,1 +1,1 @@
-var mnemonic = "seek century among alarm congress bronze end accident merry ceiling engage waste";
+var mnemonic = "lumber atom excuse seat denial gallery science oval alien estate control loyal";

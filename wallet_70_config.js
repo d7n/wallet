@@ -1,1 +1,1 @@
-var mnemonic = "awesome weasel brain term cover kiwi main gun noble reason goddess fly";
+var mnemonic = "razor arrest early bag brown cake acquire kitten input smoke universe tooth";

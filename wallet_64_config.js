@@ -1,1 +1,1 @@
-var mnemonic = "exhibit hockey news mimic host thrive digital honey season capable build learn";
+var mnemonic = "riot screen detect uphold punch usual gentle long frequent evidence manual afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "basic item improve coil fitness brick alcohol seat disagree return input slush";
+var mnemonic = "path summer vintage birth pitch patient regret merit reason sponsor cage brass";

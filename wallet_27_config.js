@@ -1,1 +1,1 @@
-var mnemonic = "build banana nest fruit panel pretty violin bright oyster edit flee federal";
+var mnemonic = "age pool polar visit anxiety use uncover spider excess worth rally odor";

@@ -1,1 +1,1 @@
-var mnemonic = "design misery acoustic sphere master legend when never depart raccoon field busy";
+var mnemonic = "possible wisdom click fit coach gate flower motion creek scene text state";

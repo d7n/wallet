@@ -1,1 +1,1 @@
-var mnemonic = "aware shadow ahead decline spin room talent deer swift initial assume scan";
+var mnemonic = "provide neglect mango hand visa goddess usual fan loud coral horror bleak";

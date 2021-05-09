@@ -1,1 +1,1 @@
-var mnemonic = "jealous pigeon recall matrix onion harsh treat retreat spider voyage egg resist";
+var mnemonic = "blame execute prefer menu local cruise duty shadow okay side common cement";

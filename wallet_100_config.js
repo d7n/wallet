@@ -1,1 +1,1 @@
-var mnemonic = "puzzle unable winter draw hunt resource expand foot bike news grunt undo";
+var mnemonic = "crumble side length sad mule shoe can summer curve this oven weekend";

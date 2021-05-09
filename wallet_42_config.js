@@ -1,1 +1,1 @@
-var mnemonic = "rapid glad museum winner bunker merry bag love result vehicle brain utility";
+var mnemonic = "lobster cover crime cool issue trouble issue better weapon hire sunny domain";

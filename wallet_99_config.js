@@ -1,1 +1,1 @@
-var mnemonic = "limit avoid unusual program people fit mutual filter gasp give fantasy elephant";
+var mnemonic = "when silly fly bunker surprise census swamp wink stairs wrist intact mystery";

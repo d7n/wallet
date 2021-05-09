@@ -1,1 +1,1 @@
-var mnemonic = "quiz connect aim acquire affair margin impose private prevent flee deny master";
+var mnemonic = "lab chest marriage arrow enable cliff wood elder hurdle feed warrior seven";

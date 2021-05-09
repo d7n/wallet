@@ -1,1 +1,1 @@
-var mnemonic = "share sorry minute such helmet gain inject sunny upon loyal inform tank";
+var mnemonic = "empower correct give ship there work file measure group shrug better dress";

@@ -1,1 +1,1 @@
-var mnemonic = "ice hawk toast topple way want sign term thunder crash hybrid cereal";
+var mnemonic = "copy squirrel toy buyer crash remind plate power exchange chunk merge target";

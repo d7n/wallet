@@ -1,1 +1,1 @@
-var mnemonic = "beauty country gaze elegant trip raccoon odor twice forum affair barrel giraffe";
+var mnemonic = "eight recipe gym rubber bid wisdom tunnel donkey side material daughter simple";

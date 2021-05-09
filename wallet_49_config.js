@@ -1,1 +1,1 @@
-var mnemonic = "zoo speak mimic birth puzzle fine beef frozen stadium genre antique cart";
+var mnemonic = "keen island ozone bar still cake midnight fetch hope slab wish enter";

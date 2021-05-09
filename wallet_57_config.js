@@ -1,1 +1,1 @@
-var mnemonic = "cabbage pill horse armor phrase lemon uncle obey matter switch another embrace";
+var mnemonic = "ten they toilet reveal pink swarm future group bag document regular crime";

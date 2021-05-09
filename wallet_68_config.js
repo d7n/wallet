@@ -1,1 +1,1 @@
-var mnemonic = "skirt rebel today property coin control best away toast heart melody apple";
+var mnemonic = "moral original member lunar cute approve october farm bread satisfy prosper pair";

@@ -1,1 +1,1 @@
-var mnemonic = "curve reward fiber favorite live cloud dirt letter slogan pool hard curve";
+var mnemonic = "large exile enemy hope ceiling shell novel morning victory drill buffalo aerobic";

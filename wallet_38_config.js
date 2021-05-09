@@ -1,1 +1,1 @@
-var mnemonic = "firm network uphold wrist hint wrap coconut quarter magnet aunt hen tragic";
+var mnemonic = "bracket subway donor library fade mango amateur carbon scrap enforce maze range";

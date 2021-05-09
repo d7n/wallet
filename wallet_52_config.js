@@ -1,1 +1,1 @@
-var mnemonic = "genre black aim main toward upgrade olympic canvas joke siren spray office";
+var mnemonic = "goose camp swear menu atom degree spawn basic diesel sight between grid";

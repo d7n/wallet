@@ -1,1 +1,1 @@
-var mnemonic = "into flush size abandon kid clap box elephant valley mimic bus tool";
+var mnemonic = "knee ladder diamond arena work virus gasp captain bleak dinner hidden hour";

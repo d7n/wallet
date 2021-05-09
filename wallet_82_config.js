@@ -1,1 +1,1 @@
-var mnemonic = "prosper film arrive grant tragic fold share swap olive shadow reason unaware";
+var mnemonic = "cool tourist dumb own couple shell blossom pig pepper quit aware nature";

@@ -1,1 +1,1 @@
-var mnemonic = "potato shuffle globe scare actor chase spread bounce tragic fox fat grid";
+var mnemonic = "element access detect unknown pipe peanut fork speed happy crumble pitch border";

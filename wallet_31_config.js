@@ -1,1 +1,1 @@
-var mnemonic = "spawn walk immense lava seven hockey spare month off merge earth pave";
+var mnemonic = "bar occur over harbor bulb rather fee spoon process blossom half mechanic";

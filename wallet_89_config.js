@@ -1,1 +1,1 @@
-var mnemonic = "life buddy face toddler habit ladder pond bracket include monkey share cage";
+var mnemonic = "someone hip edge law fatal hunt nothing scale method garbage seven cake";

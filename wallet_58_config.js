@@ -1,1 +1,1 @@
-var mnemonic = "jealous state struggle increase violin pact solid behave remove depart inform quarter";
+var mnemonic = "plastic smile ginger clinic ignore bean force drum problem glide scale degree";

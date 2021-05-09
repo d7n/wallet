@@ -1,1 +1,1 @@
-var mnemonic = "village theory gather congress announce brave tennis urge sight journey under armor";
+var mnemonic = "country fiscal blame bid glass market artefact play two alone huge analyst";

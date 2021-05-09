@@ -1,1 +1,1 @@
-var mnemonic = "parrot borrow fiscal light math law bomb entire salmon bleak youth congress";
+var mnemonic = "gain install acoustic keep raw bonus mesh sausage bottom squeeze daughter keep";

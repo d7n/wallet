@@ -1,1 +1,1 @@
-var mnemonic = "you job liar shiver cry asthma initial angry fan mad idle naive";
+var mnemonic = "famous roast tilt shove scheme crush deal scan matter beauty arch fall";

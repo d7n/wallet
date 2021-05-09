@@ -1,1 +1,1 @@
-var mnemonic = "ecology uncover science cotton actor blade digital battle they poverty reveal orbit";
+var mnemonic = "raw wrist shop client amused electric box have message later extra federal";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster carry misery dance smoke phrase spy busy advice loan already wink";
+var mnemonic = "era crash coast same pride recall frame sing can combine drop quantum";

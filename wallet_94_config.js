@@ -1,1 +1,1 @@
-var mnemonic = "peasant mad labor knock boost dose empower staff alone easily diet say";
+var mnemonic = "hamster bar all allow reflect alcohol path occur admit pause clump bachelor";

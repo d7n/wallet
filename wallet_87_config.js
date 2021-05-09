@@ -1,1 +1,1 @@
-var mnemonic = "pupil quantum they inch alarm vivid squirrel siege live soon divert delay";
+var mnemonic = "vapor picnic doll flame lumber egg explain tumble middle victory clump resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "bus simple lonely quick guess later federal vicious relax dismiss tool sniff";
+var mnemonic = "plate license half depend budget affair find normal toy theme retreat opinion";

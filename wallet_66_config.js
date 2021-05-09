@@ -1,1 +1,1 @@
-var mnemonic = "luxury curve quarter fortune surface decade damp layer flame kite crucial shiver";
+var mnemonic = "lunar bracket buffalo valid slot term benefit fringe lucky alarm return mobile";

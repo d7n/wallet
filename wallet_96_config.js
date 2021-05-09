@@ -1,1 +1,1 @@
-var mnemonic = "diary fault issue defense sock assist inform report medal settle will chief";
+var mnemonic = "carbon shell donkey simple cherry valley swamp entire rocket license second steak";
