@@ -1,1 +1,1 @@
-var mnemonic = "claim cattle pupil swim virtual useful spell eight spatial agent cluster ten";
+var mnemonic = "leave tribe helmet raccoon enable mask speed canyon trigger claim extra alert";

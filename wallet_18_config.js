@@ -1,1 +1,1 @@
-var mnemonic = "sentence misery can own sad empower cancel fluid spike pudding marble unaware";
+var mnemonic = "below stamp soul tip involve sell around repair kidney corn guess upon";

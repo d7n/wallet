@@ -1,1 +1,1 @@
-var mnemonic = "today bamboo little remind pistol badge clever game canyon ketchup beauty alarm";
+var mnemonic = "chimney fiction bullet recipe clutch uncover keep obvious sudden plastic glove super";

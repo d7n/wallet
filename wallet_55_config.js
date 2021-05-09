@@ -1,1 +1,1 @@
-var mnemonic = "loan empower view sword install behind matrix venture sunny early pledge slush";
+var mnemonic = "blush ship between lucky injury illness debate manual rigid grid spike twist";

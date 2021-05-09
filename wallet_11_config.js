@@ -1,1 +1,1 @@
-var mnemonic = "bag attack attitude action grief brisk galaxy limit slim acoustic plunge offer";
+var mnemonic = "talent conduct accident pitch draw brass shop between cattle lyrics slow leopard";

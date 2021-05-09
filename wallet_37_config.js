@@ -1,1 +1,1 @@
-var mnemonic = "feed country easy extend suspect wrap clown race unit waste snap midnight";
+var mnemonic = "rocket lend truth transfer amateur thank angle gaze zone flight body brick";

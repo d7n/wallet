@@ -1,1 +1,1 @@
-var mnemonic = "yellow picture devote team rely cable point gauge economy wedding ignore deputy";
+var mnemonic = "stay artefact rapid behave tube tissue system assist crop pole distance example";

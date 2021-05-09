@@ -1,1 +1,1 @@
-var mnemonic = "pony embark boy lake elder hedgehog inhale broom artwork meadow expand wolf";
+var mnemonic = "quote wool vague trumpet silly husband green fatigue include danger army pill";

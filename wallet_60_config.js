@@ -1,1 +1,1 @@
-var mnemonic = "indicate worry slender script invite idle diet unit you couple pudding usual";
+var mnemonic = "pig scatter volcano sand move figure sock life harvest snake logic short";

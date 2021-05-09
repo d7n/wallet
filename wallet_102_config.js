@@ -1,1 +1,1 @@
-var mnemonic = "cradle render onion fringe castle subway hurry barrel barely visa tuna step";
+var mnemonic = "lava resemble cram keen stool quote teach recall vault latin identify reduce";

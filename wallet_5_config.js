@@ -1,1 +1,1 @@
-var mnemonic = "gap cream foster airport reunion case easily clerk often test reunion mesh";
+var mnemonic = "axis mean raw breeze giant inform small relax focus dad circle scrap";

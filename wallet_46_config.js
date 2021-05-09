@@ -1,1 +1,1 @@
-var mnemonic = "ball vintage spare review parent usual diagram rib limit suffer only radio";
+var mnemonic = "clever pair trouble useless ketchup frequent small wonder host start once cube";

@@ -1,1 +1,1 @@
-var mnemonic = "toss language reflect leader depth zone stairs deny stay junior climb fatal";
+var mnemonic = "absent video burden vibrant length fee inquiry green iron gather mirror zone";

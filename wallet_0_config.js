@@ -1,1 +1,1 @@
-var mnemonic = "army agent disagree grab sad isolate combine stay horse setup shield enter";
+var mnemonic = "excite scheme skirt shoot innocent silk couch wolf panther half document labor";

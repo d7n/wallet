@@ -1,1 +1,1 @@
-var mnemonic = "miss pudding air agree rural machine usual punch security buddy box green";
+var mnemonic = "network tuna faculty critic curtain snake action imitate friend kite distance current";

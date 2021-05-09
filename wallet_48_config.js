@@ -1,1 +1,1 @@
-var mnemonic = "inch ethics meat make slight autumn myself recycle kidney fever asthma accident";
+var mnemonic = "original churn total angle loud journey fatal mind steel cement gift file";

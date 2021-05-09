@@ -1,1 +1,1 @@
-var mnemonic = "fury want peace shrug usage sleep clarify cloud crush deposit gauge simple";
+var mnemonic = "fatigue present promote cabbage elite sea style often unaware moral earn muscle";

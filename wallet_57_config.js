@@ -1,1 +1,1 @@
-var mnemonic = "renew insect equal flag laundry fossil original knee live van floor client";
+var mnemonic = "sight perfect strike shoulder seek assume adapt mountain expire rebel retreat price";

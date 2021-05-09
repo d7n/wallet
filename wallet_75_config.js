@@ -1,1 +1,1 @@
-var mnemonic = "crucial actor analyst save cook pony fame coffee table route deal biology";
+var mnemonic = "teach layer erase body guide million daughter blur dream heart punch explain";

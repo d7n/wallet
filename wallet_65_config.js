@@ -1,1 +1,1 @@
-var mnemonic = "cradle use rabbit private antenna distance vibrant arrest target belt antenna dish";
+var mnemonic = "teach voyage mistake stamp today leopard symptom game utility hollow fabric wrestle";

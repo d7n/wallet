@@ -1,1 +1,1 @@
-var mnemonic = "giraffe salmon letter opinion wide finish liquid inmate squeeze since crater risk";
+var mnemonic = "seminar heart output twist shoulder donate burden issue design water ball finger";

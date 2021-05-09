@@ -1,1 +1,1 @@
-var mnemonic = "impact success ketchup boat client suit sword obscure brush shiver multiply february";
+var mnemonic = "reduce sadness parent critic unknown ghost february hill organ near cousin six";

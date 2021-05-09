@@ -1,1 +1,1 @@
-var mnemonic = "easy melody giggle whip prison jeans clump rose uniform coconut build faint";
+var mnemonic = "cabin forget small illness lake autumn exile lobster forest valley income student";

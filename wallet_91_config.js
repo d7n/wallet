@@ -1,1 +1,1 @@
-var mnemonic = "task wheat course honey grow coast animal wife ski piece aerobic sweet";
+var mnemonic = "hat split quality swing desert monster steel term track caution promote property";

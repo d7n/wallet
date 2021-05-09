@@ -1,1 +1,1 @@
-var mnemonic = "kitchen illegal dress tortoise slight wreck naive dry bone alcohol depth garden";
+var mnemonic = "bacon final manage symptom shoot thought burger fine silk expose duck fix";

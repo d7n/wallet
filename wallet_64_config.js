@@ -1,1 +1,1 @@
-var mnemonic = "sword head victory near top exhaust dawn bless fantasy address resist video";
+var mnemonic = "noble perfect hawk announce east fish kiss coffee click measure black alcohol";

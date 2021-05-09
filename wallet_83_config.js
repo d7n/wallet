@@ -1,1 +1,1 @@
-var mnemonic = "gorilla tortoise snow win step title vehicle kite juice banana thought rigid";
+var mnemonic = "crawl debate draft pony inflict lottery gaze staff pride organ habit heart";

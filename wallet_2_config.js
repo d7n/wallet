@@ -1,1 +1,1 @@
-var mnemonic = "cheap pattern frog utility lunar erupt mutual net record neck priority great";
+var mnemonic = "garbage unusual good orange boss cheese gasp stick mixed all normal face";

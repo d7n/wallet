@@ -1,1 +1,1 @@
-var mnemonic = "total lunch survey fork sight sustain dwarf copy truly moment march pave";
+var mnemonic = "know reject cute duck earn history sure cannon donate super manual pause";

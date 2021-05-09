@@ -1,1 +1,1 @@
-var mnemonic = "inject tape worry mass visit crowd kiwi clay front furnace dirt install";
+var mnemonic = "dial gap volcano argue phone blade bean comfort churn congress chaos shy";

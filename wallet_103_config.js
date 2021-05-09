@@ -1,1 +1,1 @@
-var mnemonic = "path load vanish stock input clip dilemma damp profit fresh horn dish";
+var mnemonic = "view income battle cloud elbow ill two execute shield ship any health";

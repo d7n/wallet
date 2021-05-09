@@ -1,1 +1,1 @@
-var mnemonic = "ocean ramp people advance patient episode soccer earth gorilla coin essence hollow";
+var mnemonic = "need minor aim turkey decorate nuclear head spread awful error lizard coyote";

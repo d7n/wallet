@@ -1,1 +1,1 @@
-var mnemonic = "canyon demise genuine dove wide hidden push lemon load update walnut chief";
+var mnemonic = "present mix dentist announce advance spatial total valve file ill puzzle street";

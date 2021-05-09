@@ -1,1 +1,1 @@
-var mnemonic = "friend army opinion orient super swamp silver second salt come host destroy";
+var mnemonic = "erode real ugly artwork famous track destroy order soft situate void uphold";

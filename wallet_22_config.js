@@ -1,1 +1,1 @@
-var mnemonic = "dragon pitch exotic nature swear cupboard satisfy lunch drastic idle sort argue";
+var mnemonic = "draw space force hire lobster wheel frost pole obvious fat wait then";

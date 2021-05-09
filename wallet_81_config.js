@@ -1,1 +1,1 @@
-var mnemonic = "month soon upset salute logic slush joke name tilt shift royal gold";
+var mnemonic = "cross inquiry jump undo squeeze chapter unlock duty stem cancel during ready";

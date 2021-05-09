@@ -1,1 +1,1 @@
-var mnemonic = "stand call effort brief medal resist destroy nest spider one load grass";
+var mnemonic = "law ridge dinosaur property critic entry upon neutral thunder wrestle pyramid diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "rough inhale purpose curious misery balcony various pitch lucky aunt chat cable";
+var mnemonic = "version lamp thank crouch oval game because popular unit trash profit quote";

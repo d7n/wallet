@@ -1,1 +1,1 @@
-var mnemonic = "steel surface damage phrase aisle subway cradle margin pride liar catalog wonder";
+var mnemonic = "runway bid scale bind van brave exact exclude glimpse gloom level hunt";

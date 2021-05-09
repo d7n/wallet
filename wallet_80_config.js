@@ -1,1 +1,1 @@
-var mnemonic = "gate orchard spot fatigue foot monitor garlic flip permit nut share short";
+var mnemonic = "dove alert mail cargo ribbon hour proof response smoke basic pole advice";

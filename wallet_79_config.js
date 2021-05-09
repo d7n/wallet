@@ -1,1 +1,1 @@
-var mnemonic = "bind poem guide swarm plate you device manage rain tell direct wheat";
+var mnemonic = "flock hard inquiry news buyer soda fix provide stock injury dragon misery";

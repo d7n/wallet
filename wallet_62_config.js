@@ -1,1 +1,1 @@
-var mnemonic = "hungry tube table virus banner faculty foil comic chat envelope enable diary";
+var mnemonic = "until dinner quiz repeat erosion fall elevator lend ridge swap enforce crystal";

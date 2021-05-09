@@ -1,1 +1,1 @@
-var mnemonic = "butter lizard lizard ghost elegant trend mind mansion account museum demise image";
+var mnemonic = "claim easily accident relax birth fragile retire fresh phone mirror stone novel";

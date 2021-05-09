@@ -1,1 +1,1 @@
-var mnemonic = "culture print hamster assume word sick major fame say faculty stuff skill";
+var mnemonic = "trouble wire proof helmet object clap useless leopard resist error antenna coyote";

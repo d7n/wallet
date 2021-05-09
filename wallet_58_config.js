@@ -1,1 +1,1 @@
-var mnemonic = "anxiety shop rebel spot apology crowd office smart lamp property napkin rural";
+var mnemonic = "impose crowd keen clutch ridge reason gun coffee outside dismiss naive cannon";

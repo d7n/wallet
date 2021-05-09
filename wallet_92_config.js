@@ -1,1 +1,1 @@
-var mnemonic = "hammer noodle fade grief blue whip asthma crew repeat harsh again october";
+var mnemonic = "reason trouble spray gasp middle sadness social present orphan cook gasp fringe";

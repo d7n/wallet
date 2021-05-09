@@ -1,1 +1,1 @@
-var mnemonic = "miss beef base away obey suit session exile want mule hospital snap";
+var mnemonic = "pear violin stomach tired mirror hurdle once wasp uncover burger pole web";

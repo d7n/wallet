@@ -1,1 +1,1 @@
-var mnemonic = "upgrade trigger balcony club balcony employ air fish balance able culture arrange";
+var mnemonic = "index please brain clean until volcano marriage wreck girl ignore kit insect";

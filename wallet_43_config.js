@@ -1,1 +1,1 @@
-var mnemonic = "clog staff spike youth approve usual embark vehicle umbrella obey drama road";
+var mnemonic = "pride skin repair gift abstract bamboo spring swear knee buddy crane jealous";

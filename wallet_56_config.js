@@ -1,1 +1,1 @@
-var mnemonic = "swim essay diet vessel humor liar minimum pledge flee spice hawk exist";
+var mnemonic = "loud release pulse crucial inform similar opinion ethics hub olive hamster hedgehog";

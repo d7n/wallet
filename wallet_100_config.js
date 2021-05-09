@@ -1,1 +1,1 @@
-var mnemonic = "asset staff dove banana asthma course bike code disagree moral design cake";
+var mnemonic = "weather combine under elite olympic adult when poem chair step future picnic";

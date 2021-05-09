@@ -1,1 +1,1 @@
-var mnemonic = "anchor tray recall cool isolate payment frost engine life leopard mesh coyote";
+var mnemonic = "outer hood health wrap feature black clinic blast awake gesture library diary";

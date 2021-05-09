@@ -1,1 +1,1 @@
-var mnemonic = "torch feed seek coast sting flash daring express smile stuff charge arm";
+var mnemonic = "great cinnamon ugly enhance bean similar abuse woman spike metal hammer weekend";

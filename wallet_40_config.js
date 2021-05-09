@@ -1,1 +1,1 @@
-var mnemonic = "pyramid buzz opera trim loop arch lottery convince stadium animal vicious vehicle";
+var mnemonic = "rural example wing also fury spray route sphere food rocket ridge two";

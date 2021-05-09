@@ -1,1 +1,1 @@
-var mnemonic = "pony arrive planet enforce guide boring between flash critic hen skirt grace";
+var mnemonic = "example asthma mix always unusual life slot effort protect picture teach mixed";

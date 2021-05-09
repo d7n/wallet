@@ -1,1 +1,1 @@
-var mnemonic = "glide joy ugly beyond onion shy sick clever ten country two release";
+var mnemonic = "urge bronze frozen soda want inch retreat more siren young toast melt";

@@ -1,1 +1,1 @@
-var mnemonic = "snack scare gas maximum bulb right exercise merit turkey twin inject suit";
+var mnemonic = "shallow pear keep gospel story alcohol festival street pulse chief thumb minute";

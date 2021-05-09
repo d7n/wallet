@@ -1,1 +1,1 @@
-var mnemonic = "breeze hurdle hotel ahead turkey sentence congress urban remove tone autumn rather";
+var mnemonic = "bachelor mask buyer funny swear peasant ignore name switch gym utility master";

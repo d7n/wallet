@@ -1,1 +1,1 @@
-var mnemonic = "rough ill cube settle ketchup pilot tomorrow issue analyst drip shell pitch";
+var mnemonic = "coin sail basic bitter minimum urge lend rookie share gaze viable alert";

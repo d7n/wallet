@@ -1,1 +1,1 @@
-var mnemonic = "proud organ wrist combine flat rate tiger math wear loan upgrade subway";
+var mnemonic = "age upgrade first dragon merge grid equip industry memory beauty alley brick";

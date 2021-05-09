@@ -1,1 +1,1 @@
-var mnemonic = "box whip glide exchange final mammal surge razor pulse dice garlic absorb";
+var mnemonic = "hand fall harvest verify eternal toe kingdom lend unhappy dust caution legend";

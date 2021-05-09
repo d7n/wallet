@@ -1,1 +1,1 @@
-var mnemonic = "ladder fame matter strong employ feel capital common broken toilet assist devote";
+var mnemonic = "flight leaf swift swallow crew exercise just famous achieve emerge disorder chase";

@@ -1,1 +1,1 @@
-var mnemonic = "option spike car father card economy nest curve later quiz cry plate";
+var mnemonic = "gallery dizzy air worth brown present neglect kiss lesson test six crater";

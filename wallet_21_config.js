@@ -1,1 +1,1 @@
-var mnemonic = "bulk melt lab crystal carbon barrel honey range famous umbrella alert innocent";
+var mnemonic = "melt lucky today lady used clean fog usual buddy dynamic suspect cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "shop float room behind robust father evoke later weasel maid injury object";
+var mnemonic = "then expand have entry call crucial trip visit few flight decline proud";

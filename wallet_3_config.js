@@ -1,1 +1,1 @@
-var mnemonic = "maid empower cushion rail marine day extend heavy pig power scene taste";
+var mnemonic = "welcome eager work spray welcome time actress squeeze flip six miracle over";

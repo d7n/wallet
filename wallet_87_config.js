@@ -1,1 +1,1 @@
-var mnemonic = "field parent jacket zone possible sentence vehicle bonus mobile security egg arctic";
+var mnemonic = "device dove test sugar twist exercise music early ski bachelor magnet general";

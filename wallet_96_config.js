@@ -1,1 +1,1 @@
-var mnemonic = "sorry truck credit hub cloud clown please express clump twin vacant piano";
+var mnemonic = "aunt resist letter dignity honey roof endless awful extend flame advice dinosaur";

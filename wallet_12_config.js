@@ -1,1 +1,1 @@
-var mnemonic = "betray awful mushroom guitar ginger inside gym vanish destroy hungry join drum";
+var mnemonic = "orchard junior slab high regular emotion inner degree december fringe lift bargain";

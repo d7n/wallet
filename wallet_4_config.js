@@ -1,1 +1,1 @@
-var mnemonic = "purity slow venue desert example flip double knock siren beauty kitchen blast";
+var mnemonic = "tennis trap deliver enroll pudding protect kidney funny vessel photo scatter super";

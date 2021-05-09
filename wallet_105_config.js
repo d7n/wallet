@@ -1,1 +1,1 @@
-var mnemonic = "rather census neutral hen stock movie fortune veteran twin cheese play tunnel";
+var mnemonic = "develop bulk bind primary explain supreme excess ill route defy cream poet";

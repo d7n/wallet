@@ -1,1 +1,1 @@
-var mnemonic = "bring put place tiny margin paper they theory dress fat multiply broom";
+var mnemonic = "cat tube matrix autumn hip buffalo loyal remain solution bunker suffer gloom";

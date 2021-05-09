@@ -1,1 +1,1 @@
-var mnemonic = "lumber mercy trumpet eagle crouch humor napkin wild spread find fault correct";
+var mnemonic = "impose sibling truth curve indicate spawn boy life certain initial ranch reunion";

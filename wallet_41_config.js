@@ -1,1 +1,1 @@
-var mnemonic = "cup liquid ship slogan patrol alcohol hollow occur gospel waste patrol all";
+var mnemonic = "you trip ladder explain lion salon certain retreat receive vast regret twist";

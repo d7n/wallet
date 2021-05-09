@@ -1,1 +1,1 @@
-var mnemonic = "cabbage supply claim bonus board adapt inspire fall evolve make knock group";
+var mnemonic = "empower movie system mirror month tape like rug crouch legend sphere decline";

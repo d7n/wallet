@@ -1,1 +1,1 @@
-var mnemonic = "recipe pepper reform half ignore lottery nephew fine garage nerve buyer random";
+var mnemonic = "brief hotel wave track envelope tattoo master father husband dwarf bridge wing";

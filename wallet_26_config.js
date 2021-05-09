@@ -1,1 +1,1 @@
-var mnemonic = "business steak include fluid laugh library tunnel couch knee escape vapor elegant";
+var mnemonic = "actress author grant prison sudden idea bitter viable gravity winter tornado trick";

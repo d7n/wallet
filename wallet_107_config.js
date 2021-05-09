@@ -1,1 +1,1 @@
-var mnemonic = "keen urban hospital someone original walk ring actor mandate lounge mutual room";
+var mnemonic = "area letter butter neck floor toss letter grant trade check push lend";

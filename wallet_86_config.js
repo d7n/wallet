@@ -1,1 +1,1 @@
-var mnemonic = "wealth vague drift table nation genre vibrant calm endorse tongue build lady";
+var mnemonic = "crucial detail what guilt mammal soul private analyst normal sniff recall oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "flame maximum describe gasp breeze crew few gauge ivory success wire tilt";
+var mnemonic = "glimpse wide video ring slogan air frown problem tongue rain blush possible";

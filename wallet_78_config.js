@@ -1,1 +1,1 @@
-var mnemonic = "monitor snow stem rely gather foam phrase orbit file stove lunch mammal";
+var mnemonic = "ethics robot exile gloom tone front fork adapt parent bunker quality agree";

@@ -1,1 +1,1 @@
-var mnemonic = "walk dance tube diesel salute eight ticket hawk endorse vapor initial already";
+var mnemonic = "farm paddle frequent predict humor mercy scare flush ask appear subject tide";

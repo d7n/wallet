@@ -1,1 +1,1 @@
-var mnemonic = "used artwork decline dress obtain add bonus faith donkey melody soon grape";
+var mnemonic = "squirrel away coil destroy suspect balance sting success filter patch annual feel";

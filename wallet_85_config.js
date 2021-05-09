@@ -1,1 +1,1 @@
-var mnemonic = "okay beauty extend today question task tired try source work exile bundle";
+var mnemonic = "season tuna scene because hurt whale luxury cup inherit chimney brisk tank";

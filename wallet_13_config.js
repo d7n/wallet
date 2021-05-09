@@ -1,1 +1,1 @@
-var mnemonic = "cannon exact rough public charge wish immense home evoke shock current toe";
+var mnemonic = "settle pair eager stable region program regret magnet immense usage own track";

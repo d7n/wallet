@@ -1,1 +1,1 @@
-var mnemonic = "february purchase slush town bounce such control dice arch hospital aim amateur";
+var mnemonic = "ready fancy lemon quiz person organ ceiling photo nose field vanish hamster";

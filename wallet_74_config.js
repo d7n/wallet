@@ -1,1 +1,1 @@
-var mnemonic = "remind upgrade unfair tissue rebel surround regret army goat hunt urge begin";
+var mnemonic = "student garment second ill super lobster lizard extra blade stand wrong tennis";

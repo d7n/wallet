@@ -1,1 +1,1 @@
-var mnemonic = "muscle long pulp person emerge happy alone parade design solve awful dice";
+var mnemonic = "predict seminar garment frequent flame chief wreck pitch jazz road off opera";

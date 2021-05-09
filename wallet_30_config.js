@@ -1,1 +1,1 @@
-var mnemonic = "want link inform destroy split evidence attract cousin lava acid bread diet";
+var mnemonic = "best reject know chapter peasant assault endless permit royal card raw trial";

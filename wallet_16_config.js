@@ -1,1 +1,1 @@
-var mnemonic = "card turn lounge multiply logic thing keen eight clog often wage loud";
+var mnemonic = "text law viable shift green wink garage drama bus loud network robot";

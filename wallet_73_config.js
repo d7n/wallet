@@ -1,1 +1,1 @@
-var mnemonic = "coffee tool panic bubble life stereo reason mean also ozone pulp vehicle";
+var mnemonic = "truly cheese drift involve modify ice interest stone spell inmate hair patient";

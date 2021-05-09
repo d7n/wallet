@@ -1,1 +1,1 @@
-var mnemonic = "thought safe comfort marble bike daughter glad resemble beauty female pet giraffe";
+var mnemonic = "twin magic lion chapter away please sense crisp idea wink kitten income";

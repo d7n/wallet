@@ -1,1 +1,1 @@
-var mnemonic = "limb later surround hamster all pig naive list conduct jeans model unusual";
+var mnemonic = "fatigue portion pipe slim seminar lady noble garment lamp wonder change multiply";

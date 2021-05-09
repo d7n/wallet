@@ -1,1 +1,1 @@
-var mnemonic = "royal volume enemy bottom shuffle parent affair pitch pudding butter true cradle";
+var mnemonic = "course rocket rescue sword fish absent crucial process day body wave zoo";
