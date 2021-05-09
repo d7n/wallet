@@ -1,1 +1,1 @@
-var mnemonic = "sick zero enrich badge casual machine slam outside latin slice hood exit";
+var mnemonic = "stove license arctic culture satisfy horn indicate tired shield trend coach day";

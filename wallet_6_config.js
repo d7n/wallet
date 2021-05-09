@@ -1,1 +1,1 @@
-var mnemonic = "wage wait emerge asset valley volcano mountain song excuse spread scatter soft";
+var mnemonic = "taxi stool month champion tattoo rude turn like maid expose razor wife";

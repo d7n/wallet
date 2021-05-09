@@ -1,1 +1,1 @@
-var mnemonic = "method patrol where deal dose knock mass negative room pistol brave inherit";
+var mnemonic = "provide near fruit echo blast pizza spend hello salon travel relief rival";

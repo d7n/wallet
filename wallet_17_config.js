@@ -1,1 +1,1 @@
-var mnemonic = "pear crunch animal can hawk alcohol symbol head yard estate desk label";
+var mnemonic = "velvet erode smart memory rescue sheriff decline twist exotic forget copy soccer";

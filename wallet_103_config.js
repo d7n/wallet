@@ -1,1 +1,1 @@
-var mnemonic = "sister skull ahead position orbit away snake weasel picnic veteran retreat width";
+var mnemonic = "poem tilt cactus song future ahead trigger tiny demise fever inner thunder";

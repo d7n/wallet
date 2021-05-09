@@ -1,1 +1,1 @@
-var mnemonic = "limb cool decorate vicious volcano baby small jeans stereo already diamond talent";
+var mnemonic = "cave tool nut river question cause absurd explain excuse across excite arm";

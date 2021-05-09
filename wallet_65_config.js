@@ -1,1 +1,1 @@
-var mnemonic = "depth unaware jar usual fog fat under ketchup upset discover please below";
+var mnemonic = "label leopard ranch slender pact bleak pulse laugh ridge base vocal allow";

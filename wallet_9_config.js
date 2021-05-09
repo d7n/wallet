@@ -1,1 +1,1 @@
-var mnemonic = "prepare assist episode powder menu duck minute enact scatter shoot sting shaft";
+var mnemonic = "twenty garbage fade small wonder siege dress parade tone guard giant divert";

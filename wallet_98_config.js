@@ -1,1 +1,1 @@
-var mnemonic = "grant human range repair aunt invest strike rigid ozone equal rotate bleak";
+var mnemonic = "expire range stay captain engage february example injury control agree target lend";

@@ -1,1 +1,1 @@
-var mnemonic = "fine assist modify gold approve seminar post awake merit south clarify empower";
+var mnemonic = "forward tone unaware chase similar gown bless soon clip civil adjust trend";

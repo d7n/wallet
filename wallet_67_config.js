@@ -1,1 +1,1 @@
-var mnemonic = "powder decrease bounce case unhappy inhale laptop office sudden cycle sleep flip";
+var mnemonic = "dilemma lesson guess problem rotate dress bacon mesh garlic job stove mixture";

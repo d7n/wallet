@@ -1,1 +1,1 @@
-var mnemonic = "law fiscal display calm coil trip disorder permit public trade awful horror";
+var mnemonic = "side amazing universe fault cushion apology leader monster reward bright mango derive";

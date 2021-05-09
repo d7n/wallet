@@ -1,1 +1,1 @@
-var mnemonic = "wife depend marble leave immune gauge wonder venue goddess junior pizza rib";
+var mnemonic = "lazy demise flower submit pistol ivory orbit trap hockey kite large leisure";

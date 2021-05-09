@@ -1,1 +1,1 @@
-var mnemonic = "audit lunch pride dwarf face describe adult capable detect affair solution burst";
+var mnemonic = "three ecology witness riot color core hazard neglect drift kiss require fame";

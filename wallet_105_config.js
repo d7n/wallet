@@ -1,1 +1,1 @@
-var mnemonic = "toe side hard net bunker educate render year auto cruise kite coast";
+var mnemonic = "require lucky indicate grain balance mention sponsor pencil satisfy kangaroo weather pony";

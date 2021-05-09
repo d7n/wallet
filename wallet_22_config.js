@@ -1,1 +1,1 @@
-var mnemonic = "ball course various favorite about frequent awkward bring disease donkey during before";
+var mnemonic = "toast evil sound movie exercise link reopen festival tilt flight answer because";

@@ -1,1 +1,1 @@
-var mnemonic = "audit hair wish shock object ridge survey onion spatial someone arena home";
+var mnemonic = "affair consider step whip quote front belt canyon silver office pet then";

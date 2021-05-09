@@ -1,1 +1,1 @@
-var mnemonic = "enemy frame raw rain catalog rug hospital random manual fiction forward valve";
+var mnemonic = "green home swarm marine clean squirrel era mind effort reunion alarm door";

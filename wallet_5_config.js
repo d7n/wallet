@@ -1,1 +1,1 @@
-var mnemonic = "property shell digital advice joke tomato scene curtain amused never oak oil";
+var mnemonic = "able elephant tissue flat evoke silk morning derive grocery hamster alien fee";

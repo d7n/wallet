@@ -1,1 +1,1 @@
-var mnemonic = "cage super rude impulse crime vault kiwi believe trash funny ivory liquid";
+var mnemonic = "loop local cycle step drum maid achieve glow decrease local hungry satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil shock silent donor soft shock adapt remain master fever assault clip";
+var mnemonic = "elegant ritual only trophy cool truck turkey rival style emerge split symptom";

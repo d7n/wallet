@@ -1,1 +1,1 @@
-var mnemonic = "indoor wedding fiction junk total evidence early calm wisdom engage scare imitate";
+var mnemonic = "describe depth merry admit extra snow chapter tomato broom insect bean ramp";

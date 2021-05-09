@@ -1,1 +1,1 @@
-var mnemonic = "coconut patch mind term spider copy dawn limb learn drop blue anchor";
+var mnemonic = "bless balance skate move until damage series crumble action document noise hub";

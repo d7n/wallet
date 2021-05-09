@@ -1,1 +1,1 @@
-var mnemonic = "panther fossil panther remember lazy broom review earth alley rifle absent nose";
+var mnemonic = "gasp night control garlic rail result balcony black jaguar cupboard pumpkin attend";

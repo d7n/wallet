@@ -1,1 +1,1 @@
-var mnemonic = "nerve call tool truth kite rich figure attract robust final large year";
+var mnemonic = "pepper proud bachelor teach remind cute fold burst inmate time monkey oppose";

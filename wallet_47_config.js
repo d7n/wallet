@@ -1,1 +1,1 @@
-var mnemonic = "head robust vital other stick emotion shove promote verb liar fall radio";
+var mnemonic = "toss good crumble violin sorry empty youth unaware shift cycle blouse parrot";

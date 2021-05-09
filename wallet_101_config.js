@@ -1,1 +1,1 @@
-var mnemonic = "carry target powder cave actress cake avocado crumble because artist core betray";
+var mnemonic = "diamond sun brush draw anxiety melt double muscle awkward hotel genuine woman";

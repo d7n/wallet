@@ -1,1 +1,1 @@
-var mnemonic = "water army squirrel tiny close spare cost result climb invite bind prize";
+var mnemonic = "denial spread pulse faint lazy original lunch can client actual always aim";

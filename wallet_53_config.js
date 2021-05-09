@@ -1,1 +1,1 @@
-var mnemonic = "speed spike patient feel music absent glass skull people armor make pitch";
+var mnemonic = "knock world talk alley tourist school fashion laugh devote miss assist token";

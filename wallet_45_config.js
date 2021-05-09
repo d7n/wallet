@@ -1,1 +1,1 @@
-var mnemonic = "chef prepare analyst real brass two congress screen sentence wife glare verify";
+var mnemonic = "group era bronze autumn benefit private cousin afraid verify family where pledge";

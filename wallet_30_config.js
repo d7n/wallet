@@ -1,1 +1,1 @@
-var mnemonic = "repeat become enhance tell urge want donate skull step bachelor dust cart";
+var mnemonic = "inform wreck pudding manage magic bonus brother cable always arctic embrace arctic";

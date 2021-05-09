@@ -1,1 +1,1 @@
-var mnemonic = "combine slide sleep access second nation list flame kit split reopen pipe";
+var mnemonic = "vital canoe meadow manage benefit much journey fall safe rotate powder lecture";

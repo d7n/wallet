@@ -1,1 +1,1 @@
-var mnemonic = "can chase round little trophy share pull pole health limit sea transfer";
+var mnemonic = "crack slab force repair cradle want obey uncle extend general brass fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble unknown remember glare same vocal kite permit occur sauce enhance weapon";
+var mnemonic = "misery habit twelve black love this solid fish banner panther hungry subway";

@@ -1,1 +1,1 @@
-var mnemonic = "soft region oblige occur city jar congress law arm melody orchard march";
+var mnemonic = "reform cheese emotion across noble salmon twice property minute used minor label";

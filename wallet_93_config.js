@@ -1,1 +1,1 @@
-var mnemonic = "annual cry kiwi snow opinion dutch chronic piece arch leopard mimic rough";
+var mnemonic = "sponsor much excite bonus midnight valve way tent mercy burger hero amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect pull success spice echo bike crawl royal name minor give thought";
+var mnemonic = "hello general today climb office belt salt foam there case carpet vapor";

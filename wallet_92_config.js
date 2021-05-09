@@ -1,1 +1,1 @@
-var mnemonic = "combine client actress quick same obey popular orphan patch kitchen sword tilt";
+var mnemonic = "frog action element tape poem dutch clown lift sniff goose school wonder";

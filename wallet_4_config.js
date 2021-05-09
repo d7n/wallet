@@ -1,1 +1,1 @@
-var mnemonic = "alarm minimum grid fancy indoor elegant phone castle hat punch all laundry";
+var mnemonic = "dizzy mosquito bonus angle acoustic slow neutral boy enjoy chase jacket derive";

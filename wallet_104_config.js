@@ -1,1 +1,1 @@
-var mnemonic = "company injury wheel answer bread tomorrow borrow harbor vivid force pitch pact";
+var mnemonic = "sting casual buzz injury goose shift link napkin swallow east pepper focus";

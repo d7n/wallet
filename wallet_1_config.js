@@ -1,1 +1,1 @@
-var mnemonic = "glass crazy goat priority market plunge dash fury hotel mixture coil find";
+var mnemonic = "taste expose success address piano wrist connect capital jar maple burst congress";

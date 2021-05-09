@@ -1,1 +1,1 @@
-var mnemonic = "label spice fruit anger cat universe ahead nothing hurdle aerobic video drill";
+var mnemonic = "vacant that fuel credit trigger comic color indicate sugar section sorry hollow";

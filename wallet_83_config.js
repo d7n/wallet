@@ -1,1 +1,1 @@
-var mnemonic = "host sibling report health ladder age soup bamboo thrive float consider boy";
+var mnemonic = "useful journey toe spot alarm false bicycle cake farm border sort unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub soldier stereo grocery comfort lounge profit swap garbage fresh else dinner";
+var mnemonic = "gesture misery verify lunar point believe alone tower green cause garlic army";

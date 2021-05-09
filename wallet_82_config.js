@@ -1,1 +1,1 @@
-var mnemonic = "gain robot once approve bulb exercise kiss shallow wool outside curious embody";
+var mnemonic = "off judge laundry razor ancient argue keep place ski holiday enemy rely";

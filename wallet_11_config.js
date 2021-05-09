@@ -1,1 +1,1 @@
-var mnemonic = "reopen coyote sound urge voyage panther melody craft try entire tank snack";
+var mnemonic = "decrease element nature negative cinnamon shrimp daring auction opera zone bike height";

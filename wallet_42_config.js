@@ -1,1 +1,1 @@
-var mnemonic = "color couch tragic ordinary harsh source box tube pioneer news floor trip";
+var mnemonic = "eye chapter brisk aunt cupboard air level shock rather copper seek blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "update toast mom review year stage submit bulk risk wage dignity flush";
+var mnemonic = "mistake beauty sister bid guitar jelly mushroom lesson tail word ramp snap";

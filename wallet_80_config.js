@@ -1,1 +1,1 @@
-var mnemonic = "chapter pond garlic surge owner maple novel maple armed broken loop shiver";
+var mnemonic = "shop network nerve wire fatal ticket session dream ethics exit butter blood";

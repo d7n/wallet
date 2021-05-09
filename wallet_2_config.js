@@ -1,1 +1,1 @@
-var mnemonic = "clarify follow size fall destroy right knife canvas story noble exercise hand";
+var mnemonic = "soldier pledge ecology render scale husband release brown loan trust sample pause";

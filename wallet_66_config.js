@@ -1,1 +1,1 @@
-var mnemonic = "toilet nose dutch grunt artwork inject present gold fall conduct truth civil";
+var mnemonic = "ocean throw position verify recall riot practice exhaust asthma pony cliff school";

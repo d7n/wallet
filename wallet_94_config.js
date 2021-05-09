@@ -1,1 +1,1 @@
-var mnemonic = "century best few yellow sample lyrics update subway lamp butter delay arrive";
+var mnemonic = "deer broom burger mail reflect bread blade dance wrap relax divide whale";

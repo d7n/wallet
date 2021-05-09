@@ -1,1 +1,1 @@
-var mnemonic = "gloom plug bargain cancel adult armed bring lawn smile deny husband leader";
+var mnemonic = "such blanket sock area champion air sibling either build merry wear vessel";

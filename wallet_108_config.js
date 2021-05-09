@@ -1,1 +1,1 @@
-var mnemonic = "broken drop gift praise swim business kitchen start cancel error steel three";
+var mnemonic = "venture layer moral predict wool remind quit glare quality embody nest into";

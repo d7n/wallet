@@ -1,1 +1,1 @@
-var mnemonic = "bird depart cheap gasp multiply shoot forum angry buffalo riot tourist history";
+var mnemonic = "cluster holiday derive keen height gossip cupboard voyage stove assault celery chat";

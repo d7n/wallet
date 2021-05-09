@@ -1,1 +1,1 @@
-var mnemonic = "rubber security soda wash fever breeze maze mistake annual always immune joke";
+var mnemonic = "cotton tomato biology permit manage drink flip warrior gate depth drill dream";

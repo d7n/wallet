@@ -1,1 +1,1 @@
-var mnemonic = "foam empower february gain amount brain foot car mercy feel baby oven";
+var mnemonic = "hotel horn hood fruit express cycle also advice post believe squirrel power";

@@ -1,1 +1,1 @@
-var mnemonic = "design question swarm push spawn entire laptop snack property bonus vintage approve";
+var mnemonic = "awful rent address consider buzz pill special document cram receive boil end";

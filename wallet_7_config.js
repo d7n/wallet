@@ -1,1 +1,1 @@
-var mnemonic = "curtain table describe vapor curious destroy crystal faint enforce frog settle giant";
+var mnemonic = "forward identify tonight motor clerk surface foil piece shrug spider destroy follow";

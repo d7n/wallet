@@ -1,1 +1,1 @@
-var mnemonic = "zoo region grocery party autumn broom pact settle steak direct shoot frost";
+var mnemonic = "phrase february imitate soup easy describe slender broken flower wire lucky diesel";

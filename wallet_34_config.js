@@ -1,1 +1,1 @@
-var mnemonic = "goose pulse differ crop hello situate biology wood half ticket critic match";
+var mnemonic = "void tell neither soda neck canvas emerge such odor soccer excess fade";

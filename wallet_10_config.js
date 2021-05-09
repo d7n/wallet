@@ -1,1 +1,1 @@
-var mnemonic = "humor inherit fatigue loud trip hockey rocket giraffe domain abuse huge digital";
+var mnemonic = "modify liquid primary safe radio save casino favorite crew confirm false since";

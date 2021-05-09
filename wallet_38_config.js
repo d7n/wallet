@@ -1,1 +1,1 @@
-var mnemonic = "garlic high into embark nurse crop pulp throw escape sun motor wrong";
+var mnemonic = "control glare uniform improve oppose reflect private panda expose main engine sign";

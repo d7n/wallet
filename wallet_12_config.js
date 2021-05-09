@@ -1,1 +1,1 @@
-var mnemonic = "present bring rather improve blouse fashion able together push simple index jungle";
+var mnemonic = "stand envelope section exist lazy mushroom bullet toss trial fix enforce sure";

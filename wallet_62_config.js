@@ -1,1 +1,1 @@
-var mnemonic = "immense juice stem interest system spell moment fish debris subject wool wrist";
+var mnemonic = "anchor fuel develop mammal horse brown fancy expect spring choose boring faith";

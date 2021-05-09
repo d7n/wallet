@@ -1,1 +1,1 @@
-var mnemonic = "tattoo burden cream movie permit antique ensure awkward sign move dinosaur hamster";
+var mnemonic = "forum popular tragic clever cover utility buddy tennis miracle suffer behave keep";

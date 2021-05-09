@@ -1,1 +1,1 @@
-var mnemonic = "quantum nephew slim fresh gather crunch bird float economy fall car drop";
+var mnemonic = "alley lizard inflict capable glow reunion wife usage glue broken antenna second";

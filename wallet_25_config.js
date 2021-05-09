@@ -1,1 +1,1 @@
-var mnemonic = "siren interest primary wrestle outer will guide suspect power accuse voyage reward";
+var mnemonic = "love coach mutual rival address frame drama mixture curve couple bitter process";

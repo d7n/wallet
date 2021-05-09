@@ -1,1 +1,1 @@
-var mnemonic = "banner lunar combine mirror abuse joy census where section powder vocal model";
+var mnemonic = "flower conduct dutch cycle average vicious exercise version lava dish eager people";

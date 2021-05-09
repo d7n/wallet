@@ -1,1 +1,1 @@
-var mnemonic = "photo into profit force disagree state rabbit ball vote visual much thumb";
+var mnemonic = "safe minimum dove demand soft retire gravity equal print ill wrist buffalo";

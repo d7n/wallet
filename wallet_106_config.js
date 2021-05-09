@@ -1,1 +1,1 @@
-var mnemonic = "essence flip visual wealth when target student grape supreme sausage charge naive";
+var mnemonic = "wink zero mandate carry jar chef soccer news predict inner tip guide";

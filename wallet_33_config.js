@@ -1,1 +1,1 @@
-var mnemonic = "humble energy retire rookie table enjoy prefer together aim clutch vanish silent";
+var mnemonic = "smooth farm pill soap current clerk treat major surge wink oval hold";

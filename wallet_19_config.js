@@ -1,1 +1,1 @@
-var mnemonic = "milk noise imitate merit float only sister end damage tail energy ice";
+var mnemonic = "review best thrive endless brown tornado exhaust drama need umbrella amazing into";

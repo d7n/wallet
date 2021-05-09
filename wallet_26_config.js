@@ -1,1 +1,1 @@
-var mnemonic = "captain motion dilemma balcony half neither weapon polar have gun invite average";
+var mnemonic = "dignity permit fee mobile stem joke battle kiss student solar afford circle";

@@ -1,1 +1,1 @@
-var mnemonic = "script inhale patrol surprise device enrich glory trade stumble fetch vacuum inherit";
+var mnemonic = "april cannon express turn arena educate endless unhappy dream cotton can snack";

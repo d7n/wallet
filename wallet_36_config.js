@@ -1,1 +1,1 @@
-var mnemonic = "century barrel object trophy valid pony dawn tissue surprise top rescue slush";
+var mnemonic = "rule tattoo hand dash install initial payment fix amount outer brass setup";

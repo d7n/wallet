@@ -1,1 +1,1 @@
-var mnemonic = "satisfy connect walk lava food vacant benefit group captain flame busy great";
+var mnemonic = "neck funny now rather frost tilt book double visit open destroy season";

@@ -1,1 +1,1 @@
-var mnemonic = "easily want crew rug notable demand sibling rubber clump unfair dish because";
+var mnemonic = "eternal bean invite power right where cause guide funny bench discover hedgehog";

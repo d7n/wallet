@@ -1,1 +1,1 @@
-var mnemonic = "away diesel party purpose decrease buzz left box ice gospel drum exotic";
+var mnemonic = "senior correct buffalo heavy elder begin rent entry morning wonder laptop minor";

@@ -1,1 +1,1 @@
-var mnemonic = "tail divide leg net title shallow gloom tennis whisper vault sentence dust";
+var mnemonic = "topic usual finger day matrix melt cousin kidney hero base cube eight";

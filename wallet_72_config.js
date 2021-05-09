@@ -1,1 +1,1 @@
-var mnemonic = "sign situate rocket matrix blind increase police faculty reward use into affair";
+var mnemonic = "click thrive nut talent salon water wet aunt income bitter skate rhythm";

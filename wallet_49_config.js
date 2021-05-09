@@ -1,1 +1,1 @@
-var mnemonic = "hockey pioneer fame grant cheese monitor outer autumn exclude mask talk motion";
+var mnemonic = "year cotton oblige today clog dry all wrong simple drive better absorb";

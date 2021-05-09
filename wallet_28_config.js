@@ -1,1 +1,1 @@
-var mnemonic = "strike sound goat leisure smoke other present detect pioneer flee credit tourist";
+var mnemonic = "diet strong woman recall pill legal fee this couch square already divide";

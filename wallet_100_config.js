@@ -1,1 +1,1 @@
-var mnemonic = "forget appear tumble flavor chief goat actual sure frame remove path belt";
+var mnemonic = "outdoor wrap seven current govern tuna fan timber hand silly frog return";

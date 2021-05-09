@@ -1,1 +1,1 @@
-var mnemonic = "neither fantasy olive worry eyebrow jaguar present alien lunar apple car sick";
+var mnemonic = "switch shield clip joke fat security vendor solution cool hammer expand inside";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror expire dentist unable tape labor law spirit evoke change lawsuit bless";
+var mnemonic = "couch ordinary stadium cushion round estate until swamp aisle menu extend sadness";

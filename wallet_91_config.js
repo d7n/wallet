@@ -1,1 +1,1 @@
-var mnemonic = "purity decrease frown century barely firm weather fame wide alpha stairs process";
+var mnemonic = "patrol veteran dignity govern error circle region wage fame film skate casual";

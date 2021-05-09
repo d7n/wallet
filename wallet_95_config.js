@@ -1,1 +1,1 @@
-var mnemonic = "drift reward keep unable buyer pumpkin apart worry glance stage hazard happy";
+var mnemonic = "search meadow believe erase gather echo grief gold desk slot pool kit";

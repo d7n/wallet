@@ -1,1 +1,1 @@
-var mnemonic = "shift disagree bag fish purse chapter useless issue scrap party august narrow";
+var mnemonic = "alley impulse raise oblige dove riot early round route price street curious";

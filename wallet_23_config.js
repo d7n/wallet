@@ -1,1 +1,1 @@
-var mnemonic = "arena game actual rhythm sauce rifle total voyage focus power palace motor";
+var mnemonic = "unfold protect decide math curious faculty country quit east snack glory inner";
