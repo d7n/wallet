@@ -1,1 +1,1 @@
-var mnemonic = "length rural crowd height payment wool split hamster chalk keen legal salon";
+var mnemonic = "buffalo find section voyage mutual side wink shoot other plunge square shrimp";

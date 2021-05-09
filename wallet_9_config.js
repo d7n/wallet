@@ -1,1 +1,1 @@
-var mnemonic = "exhaust all human about useless false snap company story group fringe spray";
+var mnemonic = "area lounge moon mesh pause pilot throw tomato remember rude rebuild scale";

@@ -1,1 +1,1 @@
-var mnemonic = "area attend true produce screen convince once before ill rich dash figure";
+var mnemonic = "rare unable notice glad author dawn gym price earn alien cheap legal";

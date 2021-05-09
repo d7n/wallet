@@ -1,1 +1,1 @@
-var mnemonic = "speed space play aerobic side extra flush combine spot gun retreat tooth";
+var mnemonic = "boil target foil jeans fish rail repeat hurry birth purity fiber crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan object dose cream job armed winner title guide neglect supreme diagram";
+var mnemonic = "muffin ranch leisure snap runway reflect shaft kind pill chicken panel change";

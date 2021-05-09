@@ -1,1 +1,1 @@
-var mnemonic = "vocal board subway dinosaur crumble more burger future minute jazz bamboo express";
+var mnemonic = "stairs enroll rural hobby define among coffee ship grow awful orient repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate alley bean tourist insane curve giggle sting toe clever lucky weekend";
+var mnemonic = "topple youth better foam decrease noble solve retire renew bonus common depend";

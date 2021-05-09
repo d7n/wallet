@@ -1,1 +1,1 @@
-var mnemonic = "just rather brave blur evil snack right stem draw road below sail";
+var mnemonic = "bacon dignity shine symbol shell interest solution beauty insect jaguar dignity eagle";

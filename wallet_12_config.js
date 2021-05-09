@@ -1,1 +1,1 @@
-var mnemonic = "client reflect push wonder eye neither middle actual verify frequent ability blush";
+var mnemonic = "vacuum abandon planet plastic fossil lazy daring awkward mirror science air plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "insane honey initial crash original drive repeat quiz page remain cube puppy";
+var mnemonic = "rather rigid infant avocado again domain confirm have actual fiscal galaxy aim";

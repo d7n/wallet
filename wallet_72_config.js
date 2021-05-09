@@ -1,1 +1,1 @@
-var mnemonic = "rough warrior filter jaguar blast soldier lyrics observe circle patrol fury dream";
+var mnemonic = "move cloud relax future tone orphan proud guitar elephant truly okay door";

@@ -1,1 +1,1 @@
-var mnemonic = "organ autumn lyrics rural uphold kitten recall fever tunnel group notice over";
+var mnemonic = "lazy okay end layer grief aisle globe glove gauge fee diary mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset lazy hero length combine horror empower educate still earth whale menu";
+var mnemonic = "manual syrup hair delay champion build pen until silly elder spy engine";

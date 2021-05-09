@@ -1,1 +1,1 @@
-var mnemonic = "road lecture feature hybrid draft proud label pumpkin plate rural sponsor dismiss";
+var mnemonic = "corn life fire arrive stand impose today elbow rabbit boy access scatter";

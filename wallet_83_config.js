@@ -1,1 +1,1 @@
-var mnemonic = "olympic unusual aware awful awkward lecture silk quantum lobster fit small pudding";
+var mnemonic = "chest sign brand use rubber ship phrase alpha floor gossip burst jump";

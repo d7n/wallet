@@ -1,1 +1,1 @@
-var mnemonic = "gauge sort oval forward ride pass margin ribbon infant scare result smooth";
+var mnemonic = "either when auto gift mesh put impact thank initial rival lobster aerobic";

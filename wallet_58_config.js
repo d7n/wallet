@@ -1,1 +1,1 @@
-var mnemonic = "suffer menu behind stock hair bubble again load material demand argue echo";
+var mnemonic = "regular vague sustain inspire local firm special subway reduce top kitchen logic";

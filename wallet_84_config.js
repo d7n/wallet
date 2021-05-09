@@ -1,1 +1,1 @@
-var mnemonic = "soldier kit enter bridge people spy magic pear setup keen mammal check";
+var mnemonic = "zebra blouse suspect hold place rapid observe someone soda across hold diet";

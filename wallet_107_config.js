@@ -1,1 +1,1 @@
-var mnemonic = "slush stadium scan credit kick drama success carpet bread ozone room connect";
+var mnemonic = "account gospel autumn process link toss gate resource spike area water width";

@@ -1,1 +1,1 @@
-var mnemonic = "disease zoo hospital asset waste spike enhance world course nephew frequent smart";
+var mnemonic = "embody vacant enjoy exact salt thing keen vintage swing adapt onion gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "month use six alert select turn grit damage rival educate polar profit";
+var mnemonic = "sight invest ethics force gift melody affair jewel vicious outside tank loop";

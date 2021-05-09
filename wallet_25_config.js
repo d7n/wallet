@@ -1,1 +1,1 @@
-var mnemonic = "lyrics tribe night decade mass liar agree next merit funny crater antique";
+var mnemonic = "toy segment gain raven kick match dumb team clip knee sudden video";

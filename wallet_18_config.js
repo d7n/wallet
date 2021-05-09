@@ -1,1 +1,1 @@
-var mnemonic = "matrix antique happy sword extra rifle whale post august bird page rain";
+var mnemonic = "celery vehicle prize black crew ahead margin filter announce reward sample grace";

@@ -1,1 +1,1 @@
-var mnemonic = "must narrow lawn gospel pretty cruel city eager release mesh solution thunder";
+var mnemonic = "slam perfect voice broccoli oyster legend find scrap sheriff swamp voice donate";

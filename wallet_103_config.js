@@ -1,1 +1,1 @@
-var mnemonic = "because stand observe earth color gesture beyond clerk rug armed envelope urge";
+var mnemonic = "wine right universe prize address alter ask will rocket easy essence strong";

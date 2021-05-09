@@ -1,1 +1,1 @@
-var mnemonic = "help equip lunar rose gas oppose holiday cake exotic weekend stem write";
+var mnemonic = "lady salad run online elbow rail pumpkin chunk renew awful exit host";

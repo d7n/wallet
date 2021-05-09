@@ -1,1 +1,1 @@
-var mnemonic = "kitchen forum neglect theory ecology mushroom city warrior lounge hair pair test";
+var mnemonic = "erosion snack pull betray air acid arrow rebuild math pen coach lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "sure owner wire zebra sail neck once meadow payment link cousin position";
+var mnemonic = "unfold isolate drink deliver swarm fortune night honey language beyond slide reform";

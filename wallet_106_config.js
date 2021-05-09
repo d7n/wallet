@@ -1,1 +1,1 @@
-var mnemonic = "plastic inspire ritual solve never report pyramid path promote quantum frog naive";
+var mnemonic = "spirit worry palm imitate veteran zone intact tilt tattoo silent below today";

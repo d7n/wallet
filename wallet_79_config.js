@@ -1,1 +1,1 @@
-var mnemonic = "token alpha inch moment birth still cash lake pull rigid return naive";
+var mnemonic = "rug soft basic goose main ghost proud brother resource luxury stock salad";

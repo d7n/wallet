@@ -1,1 +1,1 @@
-var mnemonic = "list uniform addict sound much omit decade fury ahead canoe quick moon";
+var mnemonic = "response giant rebel enroll almost day road tip buyer expose work company";

@@ -1,1 +1,1 @@
-var mnemonic = "medal annual fold giant another dizzy grain rural exercise same owner language";
+var mnemonic = "income company oil enter hill talk diesel spice lawsuit state key talent";

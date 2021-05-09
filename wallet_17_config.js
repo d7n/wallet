@@ -1,1 +1,1 @@
-var mnemonic = "job joy ugly comic dry split front pretty demand prize add ability";
+var mnemonic = "tonight mosquito upper fade spin race sunny guitar mouse material trend device";

@@ -1,1 +1,1 @@
-var mnemonic = "often artwork profit stuff outer bubble kingdom chest matrix device fatal light";
+var mnemonic = "supreme candy tell enable mesh vocal tape motion put raccoon portion mesh";

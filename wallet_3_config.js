@@ -1,1 +1,1 @@
-var mnemonic = "fetch couch cook weather price notable chat make fence infant sting quarter";
+var mnemonic = "vibrant shy forget range host oval conduct review erupt field attitude seed";

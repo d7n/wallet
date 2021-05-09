@@ -1,1 +1,1 @@
-var mnemonic = "bottom primary rate frog pudding spread end pigeon forget boss warm neutral";
+var mnemonic = "popular machine sea dwarf picture soda fog head control cricket pudding ethics";

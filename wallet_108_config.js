@@ -1,1 +1,1 @@
-var mnemonic = "universe response empower street install couch bacon bike neutral soft legend portion";
+var mnemonic = "boss cereal slow shell proof offer swift antenna pyramid toast rescue wrap";

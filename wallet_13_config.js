@@ -1,1 +1,1 @@
-var mnemonic = "insane midnight defense olympic parrot praise oil wise renew trash update toilet";
+var mnemonic = "exercise north jeans trigger key uncover link ordinary envelope amount know setup";

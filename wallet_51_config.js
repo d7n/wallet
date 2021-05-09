@@ -1,1 +1,1 @@
-var mnemonic = "betray rice scout tourist pet pupil quick still idea rebel size empty";
+var mnemonic = "above stable doctor example second engage manual solid marble onion ahead board";

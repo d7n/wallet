@@ -1,1 +1,1 @@
-var mnemonic = "night response radio pulse convince crater liberty oval civil ceiling replace guide";
+var mnemonic = "napkin airport height tourist fee please misery ride crystal first nuclear filter";

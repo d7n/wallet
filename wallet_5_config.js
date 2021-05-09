@@ -1,1 +1,1 @@
-var mnemonic = "razor shift arena wolf small royal east attract guitar canyon effort duck";
+var mnemonic = "thumb when siren venture emotion tomato doctor engage can travel lunar multiply";

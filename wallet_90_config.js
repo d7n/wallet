@@ -1,1 +1,1 @@
-var mnemonic = "swap trust summer dice nothing seed forward scorpion barrel wealth rigid skirt";
+var mnemonic = "young topple rubber frog shed casino victory verify unaware pottery behind sport";

@@ -1,1 +1,1 @@
-var mnemonic = "trip shrimp task run across basic initial tattoo coffee increase decorate tent";
+var mnemonic = "arrive require jewel demise giraffe blur program mean theory have rare senior";

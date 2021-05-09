@@ -1,1 +1,1 @@
-var mnemonic = "nest off long armed weasel shed horror impulse one exit update submit";
+var mnemonic = "neglect imitate olympic enforce orange armed eagle awful mutual glare transfer author";

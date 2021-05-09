@@ -1,1 +1,1 @@
-var mnemonic = "model fragile language donkey wool canvas idle stage injury opera shoe shuffle";
+var mnemonic = "hazard photo crawl excite fee lizard lottery grant range swift adjust gun";

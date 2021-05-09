@@ -1,1 +1,1 @@
-var mnemonic = "crouch nasty actor bean float feed island cricket super sun glare maid";
+var mnemonic = "better lecture team case rhythm similar fitness anxiety impulse opinion spoon bag";

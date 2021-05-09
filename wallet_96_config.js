@@ -1,1 +1,1 @@
-var mnemonic = "keen mother wonder obtain know hawk faint replace tattoo winter wolf record";
+var mnemonic = "neck identify deputy matrix unique amazing meat behave supreme marine envelope female";

@@ -1,1 +1,1 @@
-var mnemonic = "offer taxi remind crash document reason stone shoot genius hobby capital broom";
+var mnemonic = "kite define cake conduct access faint cat clump setup skull wear album";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon dice flash expect drama unfair give despair hungry inflict element day";
+var mnemonic = "candy airport harbor jaguar knife fringe outside surprise sail team onion cliff";

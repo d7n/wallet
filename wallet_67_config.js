@@ -1,1 +1,1 @@
-var mnemonic = "length edit affair tiger swamp addict lucky elite travel thing ribbon arm";
+var mnemonic = "soft napkin gadget review plunge rigid donor party mad galaxy volcano twice";

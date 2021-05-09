@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cancel harsh interest arch cattle fade alien upgrade rocket rail toilet";
+var mnemonic = "air task letter bid harvest come segment public term wise cousin embark";

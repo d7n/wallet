@@ -1,1 +1,1 @@
-var mnemonic = "hand blush tooth armed goose list inherit ill april pattern mixture awake";
+var mnemonic = "attract excess piece issue mango bitter disorder debris lunch glue dizzy width";

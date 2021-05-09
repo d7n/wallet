@@ -1,1 +1,1 @@
-var mnemonic = "obey similar step anchor early sun flip electric flee lawn smoke song";
+var mnemonic = "economy cherry trim also endorse slush surge used gorilla mind meat wage";

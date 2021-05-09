@@ -1,1 +1,1 @@
-var mnemonic = "champion buffalo assume very barely robust gas vacuum desk describe tortoise brown";
+var mnemonic = "bind matter patient kidney finger arrange jeans elder among agent cover twice";

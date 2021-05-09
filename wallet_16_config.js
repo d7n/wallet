@@ -1,1 +1,1 @@
-var mnemonic = "renew open shift poet vital reduce item dice vapor jelly claim curious";
+var mnemonic = "glide siren teach fortune onion broken thunder manual diet picture achieve target";

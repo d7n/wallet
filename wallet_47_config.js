@@ -1,1 +1,1 @@
-var mnemonic = "fiber cake display fruit bomb vivid zero muffin scout regular trip curious";
+var mnemonic = "purpose author cluster bone another embody evidence mind winter impulse soldier gain";

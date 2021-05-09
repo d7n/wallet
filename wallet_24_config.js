@@ -1,1 +1,1 @@
-var mnemonic = "type engage eye lumber curtain scissors relief pioneer grid tonight hat blast";
+var mnemonic = "regret code turkey profit myth promote disease club token romance fragile entry";

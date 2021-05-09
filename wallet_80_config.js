@@ -1,1 +1,1 @@
-var mnemonic = "adult rhythm depart sure decade high cinnamon acquire snap fly security purity";
+var mnemonic = "miss poem fold dad behave toddler divorce item frost sound various pass";

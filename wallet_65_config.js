@@ -1,1 +1,1 @@
-var mnemonic = "news seek health token more moon offer bonus water labor raw various";
+var mnemonic = "nest maid slight unhappy barely deputy renew small clerk yellow syrup glance";

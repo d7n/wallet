@@ -1,1 +1,1 @@
-var mnemonic = "hour swim help silk raven until hole online void argue wrist split";
+var mnemonic = "stone boost page federal deny cruise olive belt crazy bonus drum fly";

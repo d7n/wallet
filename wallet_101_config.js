@@ -1,1 +1,1 @@
-var mnemonic = "track warm right come paddle truth oblige afford velvet south empty panther";
+var mnemonic = "afraid make note small outdoor bottom identify fancy category badge memory cause";

@@ -1,1 +1,1 @@
-var mnemonic = "sport best spoon secret wall clarify tilt regular what pool brick ensure";
+var mnemonic = "sleep piano utility clarify wall goat circle ecology train nature lamp oil";

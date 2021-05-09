@@ -1,1 +1,1 @@
-var mnemonic = "inspire rigid bone police way build tilt few toward attitude rice dash";
+var mnemonic = "spike shallow hero erode decide frequent vivid orchard web valley pudding eagle";

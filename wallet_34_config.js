@@ -1,1 +1,1 @@
-var mnemonic = "sure shallow vocal develop amateur neck athlete gadget mango immune tube merry";
+var mnemonic = "reveal note stay all extend notable sick wait gain bacon legend now";

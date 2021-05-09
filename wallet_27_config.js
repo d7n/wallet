@@ -1,1 +1,1 @@
-var mnemonic = "sample code ripple curious join gap magic elevator middle fabric bunker pear";
+var mnemonic = "robot crop robot comfort ill submit vault prison sunny cook warfare twin";

@@ -1,1 +1,1 @@
-var mnemonic = "hold blossom input ripple cradle boil menu tape deer jacket hip diet";
+var mnemonic = "exchange exclude library merry phrase present three pass unknown pluck pupil citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "allow calm ladder earth boring canoe radar secret voyage change this orange";
+var mnemonic = "boy release bracket test reunion panther head dilemma crisp photo multiply frog";

@@ -1,1 +1,1 @@
-var mnemonic = "main else very feel jeans gift cliff desk trash grass effort garlic";
+var mnemonic = "salute asthma broccoli sorry pencil penalty fetch business domain warrior solve install";

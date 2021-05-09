@@ -1,1 +1,1 @@
-var mnemonic = "ensure morning good sign donor nut hobby horse cook dawn funny black";
+var mnemonic = "core execute grit hazard also clip soft erosion remind divide embody inject";

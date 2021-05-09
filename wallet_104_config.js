@@ -1,1 +1,1 @@
-var mnemonic = "report fall pitch below pipe satoshi neck peanut pave plastic eternal put";
+var mnemonic = "primary endorse foster cycle solve first motor already total setup churn away";

@@ -1,1 +1,1 @@
-var mnemonic = "final oblige final fury game west note benefit sadness page answer end";
+var mnemonic = "flat term option slender street walnut improve elevator sheriff swear attack put";

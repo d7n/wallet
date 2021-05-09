@@ -1,1 +1,1 @@
-var mnemonic = "assist school exact step enough hair father master ladder sugar drop cluster";
+var mnemonic = "relax tennis film trade swear obvious first horn actual aisle chicken load";

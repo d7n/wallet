@@ -1,1 +1,1 @@
-var mnemonic = "radio dial skin atom private scorpion poet gate age cradle movie detail";
+var mnemonic = "side beyond diary zero unveil zone family renew midnight occur evidence drip";

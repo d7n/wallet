@@ -1,1 +1,1 @@
-var mnemonic = "slush couple human analyst cactus ancient valve lock coyote current circle bean";
+var mnemonic = "garlic wedding bullet tower debate pave glare into game sock circle rotate";

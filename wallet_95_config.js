@@ -1,1 +1,1 @@
-var mnemonic = "grape diagram hat pulp wall spike noble law space prepare box dune";
+var mnemonic = "narrow nest heart write bleak mountain trick dog theory clay picnic unusual";

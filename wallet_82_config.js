@@ -1,1 +1,1 @@
-var mnemonic = "nurse eagle alpha inquiry boring uphold bid excuse display juice undo dizzy";
+var mnemonic = "switch real mosquito kid cave gun bronze estate then insane awake any";

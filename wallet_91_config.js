@@ -1,1 +1,1 @@
-var mnemonic = "march boat depend spend walk crop pepper jaguar filter artefact fish differ";
+var mnemonic = "puzzle swap degree moon pluck way march warm document syrup coral food";

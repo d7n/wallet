@@ -1,1 +1,1 @@
-var mnemonic = "path someone panic nominee neither marine custom galaxy drop maze sea rapid";
+var mnemonic = "jelly height left expand glove pluck virus relax dismiss donor broccoli affair";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny prosper pride seven ramp fish hurdle decade endless boy hedgehog uniform";
+var mnemonic = "guess door thing tip great shrimp shy season fly noodle law bench";

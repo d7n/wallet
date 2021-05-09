@@ -1,1 +1,1 @@
-var mnemonic = "pigeon stamp runway print amateur another derive buzz omit truck differ sugar";
+var mnemonic = "tackle fall able ball hollow section scrap horn keen stumble vicious road";

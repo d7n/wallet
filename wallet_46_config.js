@@ -1,1 +1,1 @@
-var mnemonic = "moral garlic brave cherry total post bitter man clap couch roast thank";
+var mnemonic = "jacket enrich vendor eight penalty trumpet road drip either inflict person hard";

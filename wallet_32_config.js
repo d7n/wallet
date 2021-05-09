@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow floor surround next baby flush damp shrug rally early laundry lend";
+var mnemonic = "coin ranch figure rookie wet witness album sweet casino monster crazy lumber";

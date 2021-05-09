@@ -1,1 +1,1 @@
-var mnemonic = "dynamic danger chair three near escape churn owner defense crowd divorce same";
+var mnemonic = "theme radar table danger weapon cruel tomato chest cement catalog fetch there";

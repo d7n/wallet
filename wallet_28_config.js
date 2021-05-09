@@ -1,1 +1,1 @@
-var mnemonic = "sorry donate brisk main finger hair rug observe wheel subject charge fiscal";
+var mnemonic = "bottom bag soldier calm middle crash palm wonder jelly road maple fold";

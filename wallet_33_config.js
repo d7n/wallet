@@ -1,1 +1,1 @@
-var mnemonic = "scheme spin diet adapt tray glance pear cactus empower door moment whale";
+var mnemonic = "oil method awesome horn dolphin spare vague cable make sheriff grunt rate";

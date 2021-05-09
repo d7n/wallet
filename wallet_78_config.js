@@ -1,1 +1,1 @@
-var mnemonic = "desert point hunt afraid nuclear banana hub prefer manual anxiety penalty dream";
+var mnemonic = "retreat inject trash range strategy today fatal pond fancy venue length flush";

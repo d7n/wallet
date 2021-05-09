@@ -1,1 +1,1 @@
-var mnemonic = "talent identify critic pair when burden early emotion aspect verb artist once";
+var mnemonic = "front minor sort leader cannon pilot vicious announce evidence month pledge assume";

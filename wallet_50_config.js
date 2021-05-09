@@ -1,1 +1,1 @@
-var mnemonic = "certain voyage rabbit cricket world require album wisdom absent ostrich lunar kiss";
+var mnemonic = "pretty magic order absent retire choice scrub jump exercise comic patrol retire";

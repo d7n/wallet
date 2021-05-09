@@ -1,1 +1,1 @@
-var mnemonic = "detect ancient easy upon team forward hip imitate worry since pluck alcohol";
+var mnemonic = "welcome number ready rebel attract myself truly aspect sleep great derive wagon";

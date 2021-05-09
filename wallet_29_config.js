@@ -1,1 +1,1 @@
-var mnemonic = "human siege into grief defy master awake song script lift trash unable";
+var mnemonic = "charge brass negative moral party predict review pulp fold fortune possible useful";

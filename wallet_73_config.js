@@ -1,1 +1,1 @@
-var mnemonic = "believe easy begin deposit feed leisure congress win obey prize indicate brain";
+var mnemonic = "release engine little quarter rib affair motor suggest mango virtual random game";

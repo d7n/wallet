@@ -1,1 +1,1 @@
-var mnemonic = "talk river buddy away brain giggle left merit clown illegal same air";
+var mnemonic = "bench flock settle hospital range apology current credit shrug sick major square";
