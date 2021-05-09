@@ -1,1 +1,1 @@
-var mnemonic = "comfort vibrant legal vault stand pigeon vendor soft usual robot offer exit";
+var mnemonic = "wave calm cargo begin amazing clever nephew require shaft trophy tumble suggest";

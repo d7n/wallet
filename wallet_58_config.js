@@ -1,1 +1,1 @@
-var mnemonic = "daughter stone canyon unfair cup asset pepper dog claim actual wage connect";
+var mnemonic = "maximum case what board text ready paper delay tortoise cancel segment disorder";

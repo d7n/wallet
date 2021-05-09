@@ -1,1 +1,1 @@
-var mnemonic = "else tooth bundle evoke climb arrive address know already physical junk dish";
+var mnemonic = "web trumpet laptop aunt warfare random razor extra walnut check marine word";

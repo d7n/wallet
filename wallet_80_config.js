@@ -1,1 +1,1 @@
-var mnemonic = "blue crouch tattoo erupt asthma host smooth pond false forum mimic easily";
+var mnemonic = "wedding gold release elder arm loud art tumble bicycle shock dish tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "panda panther skull path clutch half oven black crop hungry ready shiver";
+var mnemonic = "drift credit lawsuit hockey divorce vanish kitten violin large act blast hurdle";

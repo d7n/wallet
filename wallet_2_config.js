@@ -1,1 +1,1 @@
-var mnemonic = "pattern gate supply doctor raccoon occur leaf control loyal nephew carbon oxygen";
+var mnemonic = "hunt foster guess truth capital category type cash grid pattern gravity oblige";

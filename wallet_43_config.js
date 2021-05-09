@@ -1,1 +1,1 @@
-var mnemonic = "gown shrimp dwarf comic priority pyramid grocery holiday object slam give sun";
+var mnemonic = "property crime hire imitate attract common cement script sniff frame saddle resist";

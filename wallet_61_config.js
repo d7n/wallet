@@ -1,1 +1,1 @@
-var mnemonic = "short quote neglect awake various infant badge ready meadow kick cube express";
+var mnemonic = "hope cause lawsuit harbor guard subway table jacket express warrior tuna gravity";

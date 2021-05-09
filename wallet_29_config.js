@@ -1,1 +1,1 @@
-var mnemonic = "love crouch try dial float famous capable warfare endless spoon chief rather";
+var mnemonic = "armor lake measure kiss calm absurd super artwork benefit satoshi slow breeze";

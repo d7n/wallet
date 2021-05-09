@@ -1,1 +1,1 @@
-var mnemonic = "member dash patrol can initial club scene muffin rib try rescue unusual";
+var mnemonic = "slender stay dose area valid juice pig random air gravity foam segment";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi unable asset oval buffalo glance riot phrase match put soup poet";
+var mnemonic = "quarter chest diet squeeze fresh bike goose carbon lunar grape utility solar";

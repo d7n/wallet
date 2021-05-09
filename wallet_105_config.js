@@ -1,1 +1,1 @@
-var mnemonic = "gap quick across now harbor hope someone orbit vocal uncle love mean";
+var mnemonic = "quiz various happy chronic pizza giggle define merge trip lemon talent tent";

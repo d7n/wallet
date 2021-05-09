@@ -1,1 +1,1 @@
-var mnemonic = "dune knock sniff hawk adjust adjust tray acoustic rally episode clap bleak";
+var mnemonic = "scout guess attitude drip urge primary arena pole north retire quarter twelve";

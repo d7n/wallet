@@ -1,1 +1,1 @@
-var mnemonic = "slender tumble case guess water bridge lunch math act depart napkin afford";
+var mnemonic = "random vault plug glass fortune sight predict tone glare half exhaust labor";

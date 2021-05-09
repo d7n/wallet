@@ -1,1 +1,1 @@
-var mnemonic = "beauty rocket rabbit swear nice present deal kingdom hood night tape father";
+var mnemonic = "insane athlete odor grab blouse world try park sniff menu employ misery";

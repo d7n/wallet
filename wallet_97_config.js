@@ -1,1 +1,1 @@
-var mnemonic = "cloud side leave glare design victory avoid float close coconut winter jazz";
+var mnemonic = "ball idea bright maid casual define noble source coral beef fossil patch";

@@ -1,1 +1,1 @@
-var mnemonic = "rail elegant path lyrics slot sing consider barrel penalty away cruise weather";
+var mnemonic = "glow artwork drama annual fragile bag park kiwi judge wedding pool reform";

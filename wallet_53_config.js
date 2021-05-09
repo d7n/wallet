@@ -1,1 +1,1 @@
-var mnemonic = "thrive funny flip magic drift worth gesture price amount spike frozen price";
+var mnemonic = "hand catalog add pulse bacon screen taxi position awkward engage need simple";

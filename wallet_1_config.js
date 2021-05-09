@@ -1,1 +1,1 @@
-var mnemonic = "project unhappy notice walk toss episode supreme predict panel helmet rude foil";
+var mnemonic = "frog wise trust key skirt fiscal dentist news allow cage situate gossip";

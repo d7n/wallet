@@ -1,1 +1,1 @@
-var mnemonic = "reduce bubble fish hawk injury patch orchard oblige sibling gauge edge capable";
+var mnemonic = "steak click foil please giant execute local box water refuse upset supreme";

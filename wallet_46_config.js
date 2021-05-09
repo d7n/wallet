@@ -1,1 +1,1 @@
-var mnemonic = "history unable pretty slide enact ten anchor october method remove snap bread";
+var mnemonic = "dune machine inmate room sweet powder suspect year kitten police castle practice";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic comfort reveal media guess drink plate kingdom conduct brave turkey canvas";
+var mnemonic = "hold need original adapt deer over gospel coin humor spell have kite";

@@ -1,1 +1,1 @@
-var mnemonic = "faint pumpkin dynamic door remind prepare stamp write magic enhance prefer ginger";
+var mnemonic = "stand sadness scan fork hire illegal accuse lawsuit skin scene empower multiply";

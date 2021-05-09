@@ -1,1 +1,1 @@
-var mnemonic = "model economy rice dolphin absorb move romance solution dog goddess crater property";
+var mnemonic = "finger firm action rabbit source chunk sister muscle chair snack lemon margin";

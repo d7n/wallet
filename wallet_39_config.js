@@ -1,1 +1,1 @@
-var mnemonic = "flee wait version modify hedgehog false excite slow burst hint nation tower";
+var mnemonic = "mom wet nose salad bundle excite apple simple settle dress jump town";

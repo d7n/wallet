@@ -1,1 +1,1 @@
-var mnemonic = "surprise laptop tongue public true dream aim citizen inch snake heavy bulb";
+var mnemonic = "local anger trap trend round heavy guitar fluid antique attend cost firm";

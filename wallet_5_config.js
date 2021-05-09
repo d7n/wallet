@@ -1,1 +1,1 @@
-var mnemonic = "shine venture example doll violin lens jar carpet resist random spatial chief";
+var mnemonic = "fossil leopard surge decrease bar acid black evoke mistake cloud shadow master";

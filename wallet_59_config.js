@@ -1,1 +1,1 @@
-var mnemonic = "print profit erase brave duck giggle hospital expect sell cable economy wolf";
+var mnemonic = "retire pigeon spring valley hour inflict library first virus elite hunt talk";

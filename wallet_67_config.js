@@ -1,1 +1,1 @@
-var mnemonic = "unfair parrot rhythm weapon endless club pulp spatial north lyrics theory snack";
+var mnemonic = "riot guitar manual fire inner inquiry join buyer surface wealth time drum";

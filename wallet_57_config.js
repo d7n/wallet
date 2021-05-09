@@ -1,1 +1,1 @@
-var mnemonic = "forget dance web property pair improve angry strong holiday sniff gather place";
+var mnemonic = "know mask caution pave victory zoo spy strong cry celery rural degree";

@@ -1,1 +1,1 @@
-var mnemonic = "impact jump about gate thrive spread know estate wreck replace radar unaware";
+var mnemonic = "spy smart exact hurry piece wish absent danger october raw hip place";

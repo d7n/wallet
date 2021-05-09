@@ -1,1 +1,1 @@
-var mnemonic = "mean census they grocery polar punch shoe spot minute alien explain maid";
+var mnemonic = "abstract dolphin pony elevator salute debate defy ladder vast august stuff owner";

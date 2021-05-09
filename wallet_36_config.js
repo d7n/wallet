@@ -1,1 +1,1 @@
-var mnemonic = "orient donor reveal glove across universe someone pact clap surge broken rescue";
+var mnemonic = "crowd fade urban roof toast spray action forum actress field alpha fire";

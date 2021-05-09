@@ -1,1 +1,1 @@
-var mnemonic = "pyramid stairs fox gate cloth kid sleep custom situate ticket math march";
+var mnemonic = "garlic egg foam desert kingdom axis size sell scorpion process helmet normal";

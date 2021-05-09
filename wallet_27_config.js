@@ -1,1 +1,1 @@
-var mnemonic = "cattle bag post expire wise device unknown fancy cross ring life insane";
+var mnemonic = "term furnace borrow short become flee toilet flat sponsor inhale feel oppose";

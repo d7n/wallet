@@ -1,1 +1,1 @@
-var mnemonic = "one all electric swap earn enter wonder elbow close agree pole gym";
+var mnemonic = "marine humor exhaust still exit arrive midnight team lab fringe give park";

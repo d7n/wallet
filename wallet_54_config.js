@@ -1,1 +1,1 @@
-var mnemonic = "ice measure human indicate vapor sell symptom bless inside copy tomato battle";
+var mnemonic = "dwarf bar snow salad velvet sail make fall dolphin slush piano shy";

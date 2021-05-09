@@ -1,1 +1,1 @@
-var mnemonic = "easy soul clip bubble elite evil off element engine enrich rate helmet";
+var mnemonic = "wood forward twenty ramp ride gallery kite visual leisure enjoy version dilemma";

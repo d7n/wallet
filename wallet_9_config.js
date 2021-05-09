@@ -1,1 +1,1 @@
-var mnemonic = "category frost blossom quality quarter village inhale name run summer muscle relax";
+var mnemonic = "fiction tail bike trick salt analyst frost luxury night merge fringe match";

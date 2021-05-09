@@ -1,1 +1,1 @@
-var mnemonic = "echo journey holiday early cat kick raven inmate tomato reduce mimic animal";
+var mnemonic = "meat more oppose cinnamon screen pluck faint only rescue final spirit toast";

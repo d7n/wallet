@@ -1,1 +1,1 @@
-var mnemonic = "brisk glance match forward pole salute palm fall slight risk silent armor";
+var mnemonic = "parent chuckle human destroy hour hint absorb position extra damp oblige fever";

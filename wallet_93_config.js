@@ -1,1 +1,1 @@
-var mnemonic = "reduce fossil shoulder citizen flower shock celery amazing deal risk secret myself";
+var mnemonic = "rhythm comfort boring industry year couple cage kind nephew wire oblige fragile";

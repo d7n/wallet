@@ -1,1 +1,1 @@
-var mnemonic = "solid lesson ramp copy purchase harvest canoe medal general detail buyer rigid";
+var mnemonic = "chase toe country save limit check west emerge helmet coral dry farm";

@@ -1,1 +1,1 @@
-var mnemonic = "thing ensure box night foam deposit meadow demise address impact sorry pear";
+var mnemonic = "hello nature jungle find side dumb another genuine remove beyond tumble smile";

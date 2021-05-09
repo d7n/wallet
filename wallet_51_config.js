@@ -1,1 +1,1 @@
-var mnemonic = "ivory ticket together power lottery shield sound artist spice sponsor uniform meat";
+var mnemonic = "park leader banana camp valid toss spend post bridge fix silk abstract";

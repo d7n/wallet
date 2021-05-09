@@ -1,1 +1,1 @@
-var mnemonic = "actor this can service illness ice label island piano cotton photo scan";
+var mnemonic = "mosquito credit crew venue sort smooth relax staff chef absorb float fish";

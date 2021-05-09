@@ -1,1 +1,1 @@
-var mnemonic = "edit want style connect tuition party sail invite grace armor speed turtle";
+var mnemonic = "drastic pool frequent unfair empty camp produce economy lava supreme goose oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose submit enough card twist yellow bone imitate fault virus kitten elder";
+var mnemonic = "again snack until illegal coil cook suit artwork fancy cart wisdom loop";

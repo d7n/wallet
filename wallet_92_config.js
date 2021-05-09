@@ -1,1 +1,1 @@
-var mnemonic = "imitate warm allow planet hundred assault ask pipe material damage circle wisdom";
+var mnemonic = "episode face exile empty math onion medal behave dream immense super three";

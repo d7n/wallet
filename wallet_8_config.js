@@ -1,1 +1,1 @@
-var mnemonic = "symbol maximum service camp upset clever normal carbon truth pave laugh identify";
+var mnemonic = "maze engage side they quiz burst wrist cabin curious trust ready tongue";

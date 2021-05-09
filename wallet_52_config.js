@@ -1,1 +1,1 @@
-var mnemonic = "glass harbor source wave grace session message genius harbor jelly badge suspect";
+var mnemonic = "spy usage admit unhappy gate runway hero shallow clean because load keep";

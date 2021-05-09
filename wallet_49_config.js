@@ -1,1 +1,1 @@
-var mnemonic = "catalog mushroom talk idea sample pet match harsh embark short pear kitten";
+var mnemonic = "happy suffer decide laugh lemon into invest simple piece entire invite author";

@@ -1,1 +1,1 @@
-var mnemonic = "post elite lottery old brush blade twelve health crisp crunch chicken choice";
+var mnemonic = "siren game evolve clerk transfer genre live crisp afraid spoon hungry century";

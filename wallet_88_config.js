@@ -1,1 +1,1 @@
-var mnemonic = "zebra either chunk lens piece leader noodle own enter burden three embrace";
+var mnemonic = "price cream broken payment basic stem scene what cross wagon distance slush";

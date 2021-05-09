@@ -1,1 +1,1 @@
-var mnemonic = "wolf entire spread error unknown fortune kit bargain festival ecology whisper soda";
+var mnemonic = "off solution knock jeans picture keen breeze indicate siege symbol muffin anger";

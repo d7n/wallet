@@ -1,1 +1,1 @@
-var mnemonic = "result prefer scene flag say suspect sausage enroll because gauge choose recipe";
+var mnemonic = "bone skirt type motion luggage pitch fire alert candy magnet february satoshi";

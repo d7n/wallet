@@ -1,1 +1,1 @@
-var mnemonic = "student quarter attitude lottery moral kidney guitar second call prevent imitate humble";
+var mnemonic = "sausage wolf initial sing enemy sand ask toward bench print bullet elegant";

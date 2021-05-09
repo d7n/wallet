@@ -1,1 +1,1 @@
-var mnemonic = "fatal auction shell spirit hello awake list praise zebra quit essence music";
+var mnemonic = "eyebrow enable stereo process tornado jacket arctic kid black column increase method";

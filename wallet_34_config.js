@@ -1,1 +1,1 @@
-var mnemonic = "saddle jungle carry depart mind penalty mass rail element indoor boy soon";
+var mnemonic = "together zebra gauge sure wrong chunk joy mask matter mimic stumble gasp";

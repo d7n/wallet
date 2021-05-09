@@ -1,1 +1,1 @@
-var mnemonic = "flower force rather usage sail forum humble basket enforce cycle gospel they";
+var mnemonic = "decade note current snake check sudden custom favorite noodle learn clarify proud";

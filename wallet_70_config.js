@@ -1,1 +1,1 @@
-var mnemonic = "subject any proud churn motion crater frame supply sell spend inch burger";
+var mnemonic = "spoil hero accuse pulse summer arm typical promote promote day swift tray";

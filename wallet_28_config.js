@@ -1,1 +1,1 @@
-var mnemonic = "load goat absent about click liar cave table ethics refuse vapor museum";
+var mnemonic = "heavy increase dilemma false large gym trigger very inject twin congress blur";

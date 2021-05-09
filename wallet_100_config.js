@@ -1,1 +1,1 @@
-var mnemonic = "vital step melt road system enjoy impact slender prevent agree essence ranch";
+var mnemonic = "nerve virus dismiss abandon glide degree luggage gossip wage grace during limb";

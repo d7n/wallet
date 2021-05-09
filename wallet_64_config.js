@@ -1,1 +1,1 @@
-var mnemonic = "own dynamic govern cram sort scene depth media deputy chapter snack afford";
+var mnemonic = "illness together joke mixed salad orient scan merge donate glad gallery gift";

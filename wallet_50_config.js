@@ -1,1 +1,1 @@
-var mnemonic = "mountain segment false middle town gun hurt fuel banner accuse health ginger";
+var mnemonic = "inmate rent wreck illegal throw bunker bulb fiscal sound indoor worry icon";

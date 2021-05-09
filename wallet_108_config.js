@@ -1,1 +1,1 @@
-var mnemonic = "display stock image female inflict jacket empower season beach river slide like";
+var mnemonic = "famous correct leave woman excess addict second holiday flower cause baby connect";

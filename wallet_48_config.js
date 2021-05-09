@@ -1,1 +1,1 @@
-var mnemonic = "frown main leaf aerobic leaf oyster oak bachelor scrub universe attitude monitor";
+var mnemonic = "garlic kingdom expect dinner cute bid chapter pupil charge catch rubber reform";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard attitude sell dynamic maple earn design someone client element escape tooth";
+var mnemonic = "buffalo skill you custom company teach first water tide cable better carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety era cabin shadow plastic basket grace puppy fold arm oval road";
+var mnemonic = "summer post horror draft cage exact speed eager truth evoke true faith";

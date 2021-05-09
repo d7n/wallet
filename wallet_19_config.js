@@ -1,1 +1,1 @@
-var mnemonic = "suspect ill task recycle service leader certain imitate return zebra human vacant";
+var mnemonic = "noise jump present thumb impose walk gold account possible lamp oak catch";

@@ -1,1 +1,1 @@
-var mnemonic = "river bring tired pluck assist artwork maple cream cave shuffle also alcohol";
+var mnemonic = "ask mom rebel position garden ecology wave resist torch caution extend vehicle";

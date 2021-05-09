@@ -1,1 +1,1 @@
-var mnemonic = "can control chapter knee venture reject left razor battle excess desert near";
+var mnemonic = "cheese mass rural rent wool basket arrow decrease age neck flat noble";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect purse timber aware witness awful slide eyebrow scrap legal found release";
+var mnemonic = "kick accident secret unfold steak swing half table dish century notable cliff";

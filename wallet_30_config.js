@@ -1,1 +1,1 @@
-var mnemonic = "device disagree dwarf human mistake above type neither inform quiz great shy";
+var mnemonic = "night cattle process taxi casino pigeon pear caution film bag must people";

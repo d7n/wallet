@@ -1,1 +1,1 @@
-var mnemonic = "simple amused six solid plate gorilla fold maze disorder famous tent slide";
+var mnemonic = "effort wrestle dash humor endless they police receive glimpse action lady breeze";

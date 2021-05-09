@@ -1,1 +1,1 @@
-var mnemonic = "load melt combine depend neither april before odor oblige december evolve palm";
+var mnemonic = "vacuum bread spin critic light next nest during embody upon faint since";

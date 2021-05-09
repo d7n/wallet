@@ -1,1 +1,1 @@
-var mnemonic = "result song cargo rabbit flee crew sign debris erupt track palace cheap";
+var mnemonic = "plug stage favorite south robot arena popular remain sniff rich lift trial";

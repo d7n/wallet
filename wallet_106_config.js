@@ -1,1 +1,1 @@
-var mnemonic = "design auto beach bright shine wage green best symbol honey bean rely";
+var mnemonic = "copper brush odor shift jaguar matrix lift detect make grab sorry clay";

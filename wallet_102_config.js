@@ -1,1 +1,1 @@
-var mnemonic = "express basic rough flush physical cannon alert limit need lab weapon grid";
+var mnemonic = "census scene life faint exist travel prefer social oppose notice toddler weasel";

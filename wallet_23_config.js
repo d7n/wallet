@@ -1,1 +1,1 @@
-var mnemonic = "once scout atom catch sphere convince child wrist bleak carry edge maple";
+var mnemonic = "bubble change series spend hood arrow close aware glad wish opinion beyond";

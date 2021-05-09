@@ -1,1 +1,1 @@
-var mnemonic = "rival special glory buffalo limit aspect cover first increase special badge gold";
+var mnemonic = "spoil young universe approve program course metal entry depend tip vessel faint";

@@ -1,1 +1,1 @@
-var mnemonic = "kite gather diagram sadness volume basic blouse industry kiwi theory glow essay";
+var mnemonic = "chicken mad turtle buddy luggage online clay gospel announce during tumble angle";

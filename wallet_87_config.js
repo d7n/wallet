@@ -1,1 +1,1 @@
-var mnemonic = "answer camp glory valve load primary million royal oblige thumb ask museum";
+var mnemonic = "victory intact timber loop blast always bitter toward force option violin clinic";

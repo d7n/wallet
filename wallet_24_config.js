@@ -1,1 +1,1 @@
-var mnemonic = "hire pencil forum leisure inner fatal physical letter pear call crouch envelope";
+var mnemonic = "dad athlete gather comic cigar puppy credit digital carry lawsuit entire about";
