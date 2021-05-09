@@ -1,1 +1,1 @@
-var mnemonic = "trumpet witness congress fall page happy beyond gain south until between flag";
+var mnemonic = "spin story cram hill clinic day slim want toe stable slush weekend";

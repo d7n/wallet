@@ -1,1 +1,1 @@
-var mnemonic = "fame used canyon bright black there deny shop morning peanut guitar glass";
+var mnemonic = "ankle brass hunt exhibit rude bid vivid swear follow pond often refuse";

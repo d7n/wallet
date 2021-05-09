@@ -1,1 +1,1 @@
-var mnemonic = "kidney else stereo man dentist paddle will sorry rib account doctor wage";
+var mnemonic = "jeans wheat pen supreme develop siren burger chest face nut cause dish";

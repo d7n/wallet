@@ -1,1 +1,1 @@
-var mnemonic = "alarm drill army athlete remind convince hub weasel tragic tape angry invite";
+var mnemonic = "layer join arctic remove jazz ancient bicycle tattoo column hello retire century";

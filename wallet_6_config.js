@@ -1,1 +1,1 @@
-var mnemonic = "disorder party morning fruit bubble glare believe session divide join else laugh";
+var mnemonic = "rather april stick toward frequent catch enforce ethics liquid joke smile update";

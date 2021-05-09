@@ -1,1 +1,1 @@
-var mnemonic = "nasty amazing tissue glad boss resource odor connect shy joke cake swear";
+var mnemonic = "oyster find home scissors jungle crouch strike effort away expand script message";

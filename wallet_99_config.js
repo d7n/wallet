@@ -1,1 +1,1 @@
-var mnemonic = "innocent faith pitch creek saddle gentle lucky surprise eyebrow next physical glance";
+var mnemonic = "decorate gap jump someone affair exact spray dream trouble soap opera orphan";

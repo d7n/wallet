@@ -1,1 +1,1 @@
-var mnemonic = "judge curve test oxygen reason gossip apart marine blossom item man twin";
+var mnemonic = "balcony push put era hunt valve keen afraid canal decorate local candy";

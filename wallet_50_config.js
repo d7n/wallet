@@ -1,1 +1,1 @@
-var mnemonic = "describe roof layer element trial venue unfair protect document bargain often minute";
+var mnemonic = "pizza basic leopard gravity tiny delay diary sudden shrug lunch devote kit";

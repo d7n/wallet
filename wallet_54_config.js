@@ -1,1 +1,1 @@
-var mnemonic = "gift fine confirm hold knock oven curtain license type catalog foot vibrant";
+var mnemonic = "butter wrap worth alpha sauce improve empty strategy gadget select omit model";

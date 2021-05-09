@@ -1,1 +1,1 @@
-var mnemonic = "midnight awful trip bag camp gift reveal coil clever tank inherit night";
+var mnemonic = "such sight lava sauce oblige bronze jungle force idle dose pepper wasp";

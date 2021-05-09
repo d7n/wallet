@@ -1,1 +1,1 @@
-var mnemonic = "anger lawsuit make aspect mixed magic duck cigar surge bundle hello broom";
+var mnemonic = "endless race hair genuine glare soon violin quantum element trade yard skirt";

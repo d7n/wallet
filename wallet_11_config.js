@@ -1,1 +1,1 @@
-var mnemonic = "trial begin render turn phrase shaft improve ball bid lumber nature where";
+var mnemonic = "bamboo dinner modify tuition puzzle shrimp feed typical chest magic secret abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "motor buyer crater call stable pudding eager harbor snake chronic curve route";
+var mnemonic = "extra spike mirror other crash shoulder mansion apple kiss curious velvet step";

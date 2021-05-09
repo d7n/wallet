@@ -1,1 +1,1 @@
-var mnemonic = "twenty roast awful rabbit season depart hundred tube rib curtain lounge elder";
+var mnemonic = "insect hollow change now enough asthma reason quiz earth giant crush shiver";

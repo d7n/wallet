@@ -1,1 +1,1 @@
-var mnemonic = "tumble whip aware enough sister disagree salute front program fatigue metal absent";
+var mnemonic = "fall creek near tag leopard floor inherit shiver message ocean ridge jacket";

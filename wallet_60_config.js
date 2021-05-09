@@ -1,1 +1,1 @@
-var mnemonic = "enable city lens song mirror disagree donate visit hair lend suggest blade";
+var mnemonic = "dynamic clinic train coil police stairs witness web battle when bargain suit";

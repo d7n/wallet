@@ -1,1 +1,1 @@
-var mnemonic = "strong bamboo soul surround parent rather ritual cream monitor solve spy pause";
+var mnemonic = "umbrella strategy dress print rural pulp plug student cannon merry ceiling token";

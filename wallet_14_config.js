@@ -1,1 +1,1 @@
-var mnemonic = "mobile weasel method security twelve vintage tenant segment maid atom holiday often";
+var mnemonic = "category nose anxiety album reform oil rule edge cover ten bind tortoise";

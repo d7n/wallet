@@ -1,1 +1,1 @@
-var mnemonic = "female ivory script asset violin explain erupt tuna return north sea machine";
+var mnemonic = "stamp brand sister athlete other absurd visa sound runway pyramid negative pilot";

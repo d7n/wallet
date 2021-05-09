@@ -1,1 +1,1 @@
-var mnemonic = "reward bachelor pet damage weird happy assume company verb save stock ancient";
+var mnemonic = "project mango seek false theme boy remind stick make twin replace purity";

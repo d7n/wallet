@@ -1,1 +1,1 @@
-var mnemonic = "north initial muffin ankle bachelor actress anger train grain width ready refuse";
+var mnemonic = "cost that can imitate rich eye autumn nest neither denial thrive squeeze";

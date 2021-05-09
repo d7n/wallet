@@ -1,1 +1,1 @@
-var mnemonic = "bullet depth pilot unveil say curious dentist jelly cupboard about glad thank";
+var mnemonic = "crew lift option vault blanket bachelor stamp bright wise sudden vanish scatter";

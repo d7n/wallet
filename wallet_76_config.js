@@ -1,1 +1,1 @@
-var mnemonic = "scene disease era unveil health clip neither visual harvest power broccoli cabin";
+var mnemonic = "because celery junior repeat steel purchase assault wasp minute wheat company double";

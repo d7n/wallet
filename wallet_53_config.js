@@ -1,1 +1,1 @@
-var mnemonic = "mail keen question excuse gesture inherit exercise step unknown fire very problem";
+var mnemonic = "connect retreat evil spell noise urban grid agree vicious boost safe federal";

@@ -1,1 +1,1 @@
-var mnemonic = "private undo almost rocket evil road whale gift dinosaur color depend renew";
+var mnemonic = "remind album casino escape rifle top buddy adapt bottom jelly lab smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote magic budget ladder thrive piano pole draft scout north medal relief";
+var mnemonic = "muffin word child claim off horse path tissue ribbon sand tired base";

@@ -1,1 +1,1 @@
-var mnemonic = "answer orange average raw excite off solve imitate pigeon midnight battle seat";
+var mnemonic = "wire lens alone fatigue same mention rail lamp sword art trophy audit";

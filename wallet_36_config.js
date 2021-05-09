@@ -1,1 +1,1 @@
-var mnemonic = "apart allow era coyote paper rent forum pencil wedding cliff purse poverty";
+var mnemonic = "door setup twenty solar acoustic dutch dinner engine joke blush gorilla race";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion garbage wink super source because weird deputy roof clerk leisure estate";
+var mnemonic = "grab index give wide suffer enact decade casino poem file flag cover";

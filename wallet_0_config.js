@@ -1,1 +1,1 @@
-var mnemonic = "century fox usage metal farm one monitor promote uphold axis quit cinnamon";
+var mnemonic = "hello curious piece tooth visa seek buyer gap clean cool easy case";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi fame swing citizen double head skull slush biology trim lens season";
+var mnemonic = "wool moon message person between siren image supreme brush today canyon gap";

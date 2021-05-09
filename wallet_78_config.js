@@ -1,1 +1,1 @@
-var mnemonic = "fetch rural party bachelor acquire angry afford whisper depend mention valley guess";
+var mnemonic = "erupt can sample since swamp large student robot depart fatal luggage tired";

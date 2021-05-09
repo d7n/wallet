@@ -1,1 +1,1 @@
-var mnemonic = "whip human sniff ice slow quantum ahead kiwi keep scan strike number";
+var mnemonic = "strategy pass inflict umbrella clever poverty cart inside panther bachelor enroll fabric";

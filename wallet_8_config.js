@@ -1,1 +1,1 @@
-var mnemonic = "ugly pyramid dad stamp make detail donkey shop reject few coyote attract";
+var mnemonic = "dune foil crush explain left flush hungry solution toward course three talk";

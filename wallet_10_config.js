@@ -1,1 +1,1 @@
-var mnemonic = "cargo maximum member actor ranch actor myself obscure album twenty sheriff only";
+var mnemonic = "style traffic east fever ivory symptom aim useful mutual daring drive blush";

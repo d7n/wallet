@@ -1,1 +1,1 @@
-var mnemonic = "open myself nominee raw wasp truly fall entire syrup run thumb liar";
+var mnemonic = "punch gloom fortune sting disease bulb alien negative gospel jeans true bag";

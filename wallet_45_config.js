@@ -1,1 +1,1 @@
-var mnemonic = "blush warm jacket panel rubber second ill man various silly coral lottery";
+var mnemonic = "sing follow inform chapter female grass august apart enact midnight grow recycle";

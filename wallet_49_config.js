@@ -1,1 +1,1 @@
-var mnemonic = "genius display mandate multiply clerk vital worry excuse clarify device baby leopard";
+var mnemonic = "hip sock salmon combine slab silk surface face drastic call loud cannon";

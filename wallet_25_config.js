@@ -1,1 +1,1 @@
-var mnemonic = "cycle safe address squeeze genuine notice sorry alpha task lonely lunar boy";
+var mnemonic = "hotel replace cash parade small world duty door brain win burger sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk cheap payment twist mad domain visit switch cram bamboo knock record";
+var mnemonic = "nest cruise grunt mule gain cabbage clever banner logic earn leader lecture";

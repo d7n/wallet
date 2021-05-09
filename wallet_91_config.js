@@ -1,1 +1,1 @@
-var mnemonic = "outside name lucky embody gentle pave album people risk seminar priority guide";
+var mnemonic = "ice medal width buzz child erase essay such sight trap try index";

@@ -1,1 +1,1 @@
-var mnemonic = "use armor camera tattoo fine vapor sudden stand raise absent mosquito spatial";
+var mnemonic = "trumpet sure old portion razor exchange token coast craft have viable prosper";

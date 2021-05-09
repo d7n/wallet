@@ -1,1 +1,1 @@
-var mnemonic = "crater strategy slim write giant wage duck beach transfer zone august drink";
+var mnemonic = "police almost nature apart media flower idle into cherry rebuild acquire wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary fork tooth sudden dragon where toss tumble choice thunder bamboo response";
+var mnemonic = "asthma trap chat year pen cost mom hover illegal robust dwarf future";

@@ -1,1 +1,1 @@
-var mnemonic = "gate miss senior life shrug oxygen carbon clarify pluck cotton special chicken";
+var mnemonic = "junior profit glide spy mosquito erosion guitar submit armor token you crucial";

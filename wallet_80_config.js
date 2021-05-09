@@ -1,1 +1,1 @@
-var mnemonic = "lava chest confirm margin reason advice jealous ozone seek cliff you material";
+var mnemonic = "purity cart panel hold below start clarify quarter mix flame gorilla choice";

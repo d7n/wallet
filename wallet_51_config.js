@@ -1,1 +1,1 @@
-var mnemonic = "resist heavy april upper stove daring damp convince world light proof impact";
+var mnemonic = "helmet equal fame combine flat music aware sail floor skull time mass";

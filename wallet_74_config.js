@@ -1,1 +1,1 @@
-var mnemonic = "wreck mom ordinary section neither calm fog flight glare mercy bulb seat";
+var mnemonic = "lyrics life pair jungle soon tortoise melody cover often quality kidney track";

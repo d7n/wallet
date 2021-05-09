@@ -1,1 +1,1 @@
-var mnemonic = "quantum unknown emerge tomato absorb time depth sniff omit universe jungle dentist";
+var mnemonic = "will wet scale parent above clutch setup toast dance alert garbage unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal hero inside obtain science panel magnet excuse club menu improve sight";
+var mnemonic = "oil bench response guess deer mom note salad degree dentist reunion uncle";

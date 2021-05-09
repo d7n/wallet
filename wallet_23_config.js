@@ -1,1 +1,1 @@
-var mnemonic = "across ecology abuse predict usual tribe limit buffalo educate syrup will oak";
+var mnemonic = "banner girl film group link family use hire spike beauty reflect awful";

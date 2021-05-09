@@ -1,1 +1,1 @@
-var mnemonic = "comfort design small spy arrest squeeze typical voyage merge pride indicate school";
+var mnemonic = "media ocean raw prize swim join unit belt smart grit exit afraid";

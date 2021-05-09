@@ -1,1 +1,1 @@
-var mnemonic = "heart oyster luggage tennis need wine turtle usage remain review equip morning";
+var mnemonic = "perfect neutral staff squirrel enough long hand ritual bag fence donor usual";

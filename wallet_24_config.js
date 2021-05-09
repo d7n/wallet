@@ -1,1 +1,1 @@
-var mnemonic = "hello joy sword column dragon tennis nominee reward elder embrace equal prevent";
+var mnemonic = "three myself virtual useless express fruit spirit height pepper gallery unfair fringe";

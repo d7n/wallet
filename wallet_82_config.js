@@ -1,1 +1,1 @@
-var mnemonic = "helmet village wire direct live hundred often suffer excess lamp neglect cover";
+var mnemonic = "bachelor fly amused oyster foster bulk weird inner laugh pride enjoy cereal";

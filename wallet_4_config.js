@@ -1,1 +1,1 @@
-var mnemonic = "sad common meadow sword panic honey upgrade load exhaust vacant rival waste";
+var mnemonic = "daring fish mixed curious danger diary punch fix rice excess announce soap";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen error asthma rail buzz improve answer purity huge virtual assume cram";
+var mnemonic = "someone call object gesture remain denial century scan since raise clinic grief";

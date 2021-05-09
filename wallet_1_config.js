@@ -1,1 +1,1 @@
-var mnemonic = "achieve future pet casual select crucial devote dolphin use inhale fork pause";
+var mnemonic = "ship cycle unknown wage dad question guide total quality echo then security";

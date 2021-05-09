@@ -1,1 +1,1 @@
-var mnemonic = "damage memory film anxiety beach muffin degree auction chapter manual amazing walk";
+var mnemonic = "trigger happy body transfer pottery good ordinary jeans dwarf access soap margin";

@@ -1,1 +1,1 @@
-var mnemonic = "clap feel metal believe sponsor hour wrong sustain wall dragon laptop sport";
+var mnemonic = "attitude business glare utility impulse aim arch escape acquire peasant pupil frown";

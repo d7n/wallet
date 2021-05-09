@@ -1,1 +1,1 @@
-var mnemonic = "timber cousin work ostrich wedding else refuse lesson lunch clinic better farm";
+var mnemonic = "napkin boss nurse gadget ethics robust patrol few federal spider saddle cliff";

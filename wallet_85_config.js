@@ -1,1 +1,1 @@
-var mnemonic = "wife anxiety robot hub bid club boss cube desk tenant cart plunge";
+var mnemonic = "odor gap speak stem angry sentence issue globe canal endless doll inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh sunny point require loyal later snake real chaos essay kitten example";
+var mnemonic = "oppose clap toss weasel embark dove champion chat april stage pond amateur";

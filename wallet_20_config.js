@@ -1,1 +1,1 @@
-var mnemonic = "animal chuckle daring kingdom fold gym army tower name dilemma harsh canoe";
+var mnemonic = "pumpkin wool icon endless cute critic weather banner young fashion saddle tree";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest latin fiction tortoise taxi business fault mixed dismiss height cradle among";
+var mnemonic = "waste slot fuel match bag task dentist demand hope labor common vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth call cinnamon reject number dream diesel claw brass ocean alone flush";
+var mnemonic = "leg stairs pen possible broccoli ugly quick lawsuit eight couch clarify bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "measure edge mule demise satisfy blouse level daring property hair odor donor";
+var mnemonic = "talent omit energy simple fire apology pride black adult race old deposit";

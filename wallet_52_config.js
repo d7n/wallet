@@ -1,1 +1,1 @@
-var mnemonic = "jungle six scare abandon gun tool episode moment craft exile foil alert";
+var mnemonic = "bring school private soul adapt earth portion position syrup twice visit cube";

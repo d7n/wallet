@@ -1,1 +1,1 @@
-var mnemonic = "social nerve hill gift chicken census whisper sun honey fit wise crazy";
+var mnemonic = "involve duty trade off wait flower liquid raw traffic gravity clarify animal";

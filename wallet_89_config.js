@@ -1,1 +1,1 @@
-var mnemonic = "earth clerk small label toast sense question theme gaze embrace buffalo stereo";
+var mnemonic = "dutch video latin goose divorce rent tube umbrella rug sustain feature prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito symbol will receive item wait coconut argue suggest upper song filter";
+var mnemonic = "cross bench dawn mobile push exact horn casual refuse doctor diesel cat";

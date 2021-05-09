@@ -1,1 +1,1 @@
-var mnemonic = "chicken what elephant apple false property rural cave tomorrow blossom gentle wide";
+var mnemonic = "dynamic step quote silly metal rule call deposit chapter figure common lumber";

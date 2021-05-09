@@ -1,1 +1,1 @@
-var mnemonic = "camera garden mountain witness wagon desert laptop clay pond admit curve awful";
+var mnemonic = "track congress sand filter rate float pyramid diesel fire rhythm unfold vicious";

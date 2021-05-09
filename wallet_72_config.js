@@ -1,1 +1,1 @@
-var mnemonic = "resist fat nerve replace blur timber main song food plug neither express";
+var mnemonic = "answer feature mercy action salon tunnel autumn list ozone claim improve deposit";

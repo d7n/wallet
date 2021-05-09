@@ -1,1 +1,1 @@
-var mnemonic = "romance safe plate lumber price pony core actor tissue design fade property";
+var mnemonic = "nurse cruise dial best outdoor loyal dumb false name fluid knife total";

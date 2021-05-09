@@ -1,1 +1,1 @@
-var mnemonic = "treat pause visa cradle steel cost chief assume clog target adjust globe";
+var mnemonic = "cabbage agent worth clown pole slot meat appear object force circle blur";

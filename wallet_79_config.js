@@ -1,1 +1,1 @@
-var mnemonic = "brush snap bring ignore verify early student blade race loud cactus armor";
+var mnemonic = "race life myself snow embark modify into pull garbage spot ramp card";

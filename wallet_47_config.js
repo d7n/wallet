@@ -1,1 +1,1 @@
-var mnemonic = "web kit various increase cruise detail pen rhythm draft index often side";
+var mnemonic = "they welcome maple hire peanut drum until evidence fly work solve predict";

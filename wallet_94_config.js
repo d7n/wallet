@@ -1,1 +1,1 @@
-var mnemonic = "gesture rubber host truck critic cat predict advice weird potato other rotate";
+var mnemonic = "mule wash mango glow right bus select slice chat drink sort poverty";

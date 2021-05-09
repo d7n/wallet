@@ -1,1 +1,1 @@
-var mnemonic = "coral curtain produce because venture hammer nephew decade south high melody clinic";
+var mnemonic = "state error organ field suggest school pluck shoe raccoon general bronze hello";

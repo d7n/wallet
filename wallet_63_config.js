@@ -1,1 +1,1 @@
-var mnemonic = "clump size play lion grunt charge neck need almost rug evolve earth";
+var mnemonic = "across mango blur latin undo verify category rebuild fresh powder base alone";

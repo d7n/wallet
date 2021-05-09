@@ -1,1 +1,1 @@
-var mnemonic = "hundred result voyage exchange gown ranch drive common topic wolf loud okay";
+var mnemonic = "scheme coffee ugly issue buyer town main wise print crush stairs anger";

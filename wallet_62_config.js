@@ -1,1 +1,1 @@
-var mnemonic = "arrange clerk virtual subway state defy glimpse round dutch heavy where tenant";
+var mnemonic = "sand water dirt biology shallow step custom forum gadget raccoon patrol tennis";

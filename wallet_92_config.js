@@ -1,1 +1,1 @@
-var mnemonic = "change wear toy gas black dust despair aware month fat assist ceiling";
+var mnemonic = "suffer drum patch order assist depart home vote change spray rough reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge usage avoid comic paper weird attend deposit deposit swift ozone alarm";
+var mnemonic = "foster risk siege dove snap speed question elite will tissue all later";

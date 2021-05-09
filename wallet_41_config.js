@@ -1,1 +1,1 @@
-var mnemonic = "marine piano already remember oven book city carpet leg custom ketchup group";
+var mnemonic = "oak claim feel welcome kangaroo enjoy remain wine cactus stand click decade";

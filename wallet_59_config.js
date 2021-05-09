@@ -1,1 +1,1 @@
-var mnemonic = "acquire say clutch useless time popular diagram system about catch risk spend";
+var mnemonic = "estate green uniform elite trouble bacon supply gain erosion mix cruise carpet";

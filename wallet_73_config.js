@@ -1,1 +1,1 @@
-var mnemonic = "tonight blind bind photo faint east humor flight multiply measure mansion antenna";
+var mnemonic = "gospel object puppy chef kitchen stay unhappy leader hurdle fetch relax media";

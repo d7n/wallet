@@ -1,1 +1,1 @@
-var mnemonic = "crash slam code neither marriage innocent miracle stove aim diamond result bronze";
+var mnemonic = "cluster quote fantasy manage one chat lunch flat book half spirit swift";

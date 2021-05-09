@@ -1,1 +1,1 @@
-var mnemonic = "pioneer protect boss inhale skirt often bomb act december opera december debris";
+var mnemonic = "swamp lumber that dutch scale rhythm omit abstract soup begin borrow diamond";

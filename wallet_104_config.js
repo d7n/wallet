@@ -1,1 +1,1 @@
-var mnemonic = "industry match dice magic disease legal remind cloth useful beauty hint insect";
+var mnemonic = "express kiwi glimpse goat spoon pitch mansion peace fish evil trash spot";

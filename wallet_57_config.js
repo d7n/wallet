@@ -1,1 +1,1 @@
-var mnemonic = "rally gift prevent section enemy bounce post cliff loan bus settle recipe";
+var mnemonic = "flush rate total guess lunar alert novel tiny seven setup loud relax";

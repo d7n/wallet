@@ -1,1 +1,1 @@
-var mnemonic = "symbol weather unusual satoshi token gun table sugar invest bring vote food";
+var mnemonic = "million dog alpha moon inch into snack today knee pepper weird movie";

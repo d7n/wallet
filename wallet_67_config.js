@@ -1,1 +1,1 @@
-var mnemonic = "bomb mask shop grain office project spray mobile expire pipe tongue fantasy";
+var mnemonic = "myth comic credit dance humble shine stamp boost goose orchard aunt accident";

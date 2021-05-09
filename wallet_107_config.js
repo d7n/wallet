@@ -1,1 +1,1 @@
-var mnemonic = "model peace shuffle slogan among zone pretty confirm issue rice display same";
+var mnemonic = "merry hip online latin resist diet warrior fringe nephew joy zone length";
