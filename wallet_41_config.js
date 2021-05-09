@@ -1,1 +1,1 @@
-var mnemonic = "today thing lyrics dutch fancy depend strike item access rail visual original";
+var mnemonic = "cement core produce genius lion bridge outer member volcano blade torch dove";

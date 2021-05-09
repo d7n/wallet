@@ -1,1 +1,1 @@
-var mnemonic = "chef lamp hospital exhaust leopard crane coyote express gloom gym owner resource";
+var mnemonic = "connect silver valid drum render hunt hello tray glad disease near object";

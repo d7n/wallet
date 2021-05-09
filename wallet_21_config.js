@@ -1,1 +1,1 @@
-var mnemonic = "misery globe knock advice video blur phrase awake divorce gift ozone regret";
+var mnemonic = "what mention lens young napkin survey crumble great elegant switch stereo come";

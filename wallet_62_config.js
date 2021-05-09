@@ -1,1 +1,1 @@
-var mnemonic = "brave rack useless build weekend alien trumpet lunar super focus shrug fatigue";
+var mnemonic = "nice alarm series grocery clip write album special slim scorpion defense track";

@@ -1,1 +1,1 @@
-var mnemonic = "lion orchard speak wave rocket monkey economy desert dune name change indicate";
+var mnemonic = "despair bulb toddler mind over hotel squirrel increase winner empty peanut include";

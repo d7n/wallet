@@ -1,1 +1,1 @@
-var mnemonic = "pause welcome census agent oppose seminar phone emerge cover circle spike giant";
+var mnemonic = "frequent answer there recall gold amazing vapor bike response produce vast cancel";

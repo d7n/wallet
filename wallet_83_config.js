@@ -1,1 +1,1 @@
-var mnemonic = "gallery morning unfair close flame tongue wrong legal toilet will hurry eager";
+var mnemonic = "uncle goddess sheriff have clutch cat shiver buffalo enough crater edit opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "about wild famous apple author else proud work perfect bleak vapor submit";
+var mnemonic = "start giraffe leaf sponsor peanut hospital moral aisle phone heart shock apology";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble replace enforce saddle gather fury response leader access pepper start dolphin";
+var mnemonic = "require found excuse wave human tower sure junior buddy close penalty shell";

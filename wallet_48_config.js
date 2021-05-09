@@ -1,1 +1,1 @@
-var mnemonic = "property girl stable armor misery powder fun noodle brother client flash imitate";
+var mnemonic = "job annual burger unfold outside pact right ketchup middle when brush time";

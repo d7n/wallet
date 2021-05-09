@@ -1,1 +1,1 @@
-var mnemonic = "private bless gift sponsor bomb puppy economy motor entire bracket innocent fashion";
+var mnemonic = "hawk fix bonus pigeon core minute divorce buddy history blast badge second";

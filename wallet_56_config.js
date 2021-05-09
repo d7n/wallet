@@ -1,1 +1,1 @@
-var mnemonic = "shove anxiety fiction main copy maximum ridge wet lunar surface crater swing";
+var mnemonic = "ball toast exercise cupboard method wheel doctor draft decorate paddle property bubble";

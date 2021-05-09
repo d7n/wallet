@@ -1,1 +1,1 @@
-var mnemonic = "area stereo glove mad fun involve female swallow hope car salmon cave";
+var mnemonic = "gate quality slab beauty animal holiday aware note smoke cage learn estate";

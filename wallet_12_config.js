@@ -1,1 +1,1 @@
-var mnemonic = "enough peanut check topple payment walnut decline pill spy sail captain logic";
+var mnemonic = "lift earth finish vibrant airport web soap perfect exchange rib dove typical";

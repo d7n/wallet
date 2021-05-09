@@ -1,1 +1,1 @@
-var mnemonic = "such blind young couple donkey announce very version hair amazing coral chuckle";
+var mnemonic = "endorse stone enable mention style stem execute uphold dance energy play train";

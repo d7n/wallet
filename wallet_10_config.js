@@ -1,1 +1,1 @@
-var mnemonic = "transfer real parrot mail bird coach wood language give pond cover release";
+var mnemonic = "glow nature egg tissue blanket marriage radio deliver category state toy category";

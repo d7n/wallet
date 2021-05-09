@@ -1,1 +1,1 @@
-var mnemonic = "biology island million vintage almost result uniform monkey column reopen unique chest";
+var mnemonic = "tornado august keep tobacco misery leopard rotate document hidden report oval episode";

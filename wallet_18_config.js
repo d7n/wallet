@@ -1,1 +1,1 @@
-var mnemonic = "zone fall corn blur wheel future magnet tube accident walk symptom risk";
+var mnemonic = "carry glass citizen wash certain coffee pioneer unable liquid lucky surface shoe";

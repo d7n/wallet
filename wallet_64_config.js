@@ -1,1 +1,1 @@
-var mnemonic = "question feed empower hat digital worth shrimp vacant float prize survey first";
+var mnemonic = "lion pact into bundle novel remove tattoo output zone hockey canoe faith";

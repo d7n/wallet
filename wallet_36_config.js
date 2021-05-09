@@ -1,1 +1,1 @@
-var mnemonic = "mesh course defy raccoon bracket midnight symbol total fan female wheel issue";
+var mnemonic = "alcohol cushion plate tiny sense funny champion special broccoli fruit science result";

@@ -1,1 +1,1 @@
-var mnemonic = "focus aware amused cook almost flee honey brass wrap fiscal route glide";
+var mnemonic = "garment faculty hobby august alley cancel arena ensure uncover fatigue vanish holiday";

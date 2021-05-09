@@ -1,1 +1,1 @@
-var mnemonic = "young fragile chest ethics elder track little bridge broken produce coach crime";
+var mnemonic = "spider stove volume ancient ramp donor mystery similar mouse guitar ginger disagree";

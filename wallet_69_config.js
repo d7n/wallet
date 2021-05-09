@@ -1,1 +1,1 @@
-var mnemonic = "casino beach dawn start upgrade behind shrimp region section identify ensure favorite";
+var mnemonic = "balance slogan physical order web odor outdoor plastic vast glare kitchen engine";

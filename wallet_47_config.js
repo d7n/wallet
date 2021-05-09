@@ -1,1 +1,1 @@
-var mnemonic = "release creek expect wrestle hurdle letter relief fall draw scan duck rice";
+var mnemonic = "hire loud vague mesh glue sphere egg like above skull copy arrive";

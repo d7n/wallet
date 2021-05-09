@@ -1,1 +1,1 @@
-var mnemonic = "name quick vessel scrub check tribe guitar omit fossil gather foil detect";
+var mnemonic = "cattle obvious whip boring brisk recall inhale chalk steak way honey foil";

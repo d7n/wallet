@@ -1,1 +1,1 @@
-var mnemonic = "gift describe ugly clip shop zero stuff tobacco toy liquid grace chef";
+var mnemonic = "mango mirror call danger group report actual deal chat mushroom razor honey";

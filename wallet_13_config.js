@@ -1,1 +1,1 @@
-var mnemonic = "miss drip undo assume domain girl kick mimic over comic rude book";
+var mnemonic = "inflict note achieve timber live detect age common nice crouch wagon machine";

@@ -1,1 +1,1 @@
-var mnemonic = "degree denial excess yard soldier valid album eye nest easily unable sock";
+var mnemonic = "country reopen own coral secret head area world fitness shy visa ski";

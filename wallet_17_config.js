@@ -1,1 +1,1 @@
-var mnemonic = "rare clock upgrade virus exchange raccoon chief mammal rough staff situate celery";
+var mnemonic = "swift sugar orbit clay sorry vessel skirt cloud primary taxi furnace ramp";

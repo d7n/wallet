@@ -1,1 +1,1 @@
-var mnemonic = "sort shallow disorder update clever wrap giraffe topic clinic gadget cup motion";
+var mnemonic = "poet avocado priority sentence hazard water festival firm bone gossip copper mail";

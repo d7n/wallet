@@ -1,1 +1,1 @@
-var mnemonic = "riot pole sunset party parrot physical about across concert asset fall flag";
+var mnemonic = "rhythm pause sister goat speak rookie dinner wash visit unique pool melody";

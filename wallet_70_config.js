@@ -1,1 +1,1 @@
-var mnemonic = "sport shove attract video away glory choose pitch twice once shuffle dizzy";
+var mnemonic = "express truth humor empower sport blast enforce skirt bronze dilemma bronze prize";

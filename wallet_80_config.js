@@ -1,1 +1,1 @@
-var mnemonic = "hammer prison salon body water walk bargain false cram wire involve cargo";
+var mnemonic = "stock cheese tonight essay company treat ridge bridge usual wheat pepper usage";

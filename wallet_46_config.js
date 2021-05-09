@@ -1,1 +1,1 @@
-var mnemonic = "certain win cage mountain water surprise crumble frog share oblige stone stuff";
+var mnemonic = "tobacco spot enjoy evolve eager excite bench focus pitch wash slot best";

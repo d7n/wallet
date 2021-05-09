@@ -1,1 +1,1 @@
-var mnemonic = "butter bottom illegal coast conduct negative panic artist embark insane purse joke";
+var mnemonic = "clay cable deal float fly crawl boost muscle page master chaos stuff";

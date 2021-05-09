@@ -1,1 +1,1 @@
-var mnemonic = "bridge lesson govern suggest error stool supreme inflict rely hold canoe wave";
+var mnemonic = "stool assume hill polar sponsor habit pink spoil space action prize empty";

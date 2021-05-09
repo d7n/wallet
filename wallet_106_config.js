@@ -1,1 +1,1 @@
-var mnemonic = "timber check buffalo isolate shop cloud giant base arena dynamic hub soldier";
+var mnemonic = "human cool program kidney peace virus become inmate post identify code future";

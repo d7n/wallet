@@ -1,1 +1,1 @@
-var mnemonic = "palm pause bundle gadget cactus marriage bar lecture omit sail range upon";
+var mnemonic = "animal school film puppy spike maple floor cool fruit have false pet";

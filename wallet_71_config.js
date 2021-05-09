@@ -1,1 +1,1 @@
-var mnemonic = "apology creek sauce wing boring purchase despair brown enter opera opera crime";
+var mnemonic = "expire aisle forest camp furnace busy army opinion cannon gap shrimp edit";

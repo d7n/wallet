@@ -1,1 +1,1 @@
-var mnemonic = "virus peasant talent produce glad spray rough earth cash original reward expand";
+var mnemonic = "shed task twelve mad sting carry smile piano runway civil bacon knee";

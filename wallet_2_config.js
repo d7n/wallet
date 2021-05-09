@@ -1,1 +1,1 @@
-var mnemonic = "junk congress sound sight document female gun artefact stick enter news mention";
+var mnemonic = "sadness salute twice size correct barely rain danger approve finish phone debris";

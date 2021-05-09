@@ -1,1 +1,1 @@
-var mnemonic = "degree quiz slim radio fence shoot shaft coconut return property repeat subway";
+var mnemonic = "dream dress swap obey copper sail emotion vote hundred bicycle work indicate";

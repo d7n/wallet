@@ -1,1 +1,1 @@
-var mnemonic = "must virtual despair perfect bench adult embark click hold goose goose trap";
+var mnemonic = "devote inhale nature kid problem recycle abandon boring swallow security mercy walnut";

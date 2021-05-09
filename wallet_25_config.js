@@ -1,1 +1,1 @@
-var mnemonic = "field palace neutral matter wrong lamp balance document fury index primary rain";
+var mnemonic = "nice junk zoo card can patch carbon desert broccoli skin output tribe";

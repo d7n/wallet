@@ -1,1 +1,1 @@
-var mnemonic = "major private market donkey youth text smile country pair barrel phrase gadget";
+var mnemonic = "mesh minor thumb hint color gas remember reform balcony anger rally employ";

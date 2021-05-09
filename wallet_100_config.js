@@ -1,1 +1,1 @@
-var mnemonic = "size demand woman acid lucky attract view seek width there identify gauge";
+var mnemonic = "license when alcohol video pottery mixed slab arrive deputy nice labor neck";

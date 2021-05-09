@@ -1,1 +1,1 @@
-var mnemonic = "pond educate silver harsh frame palm between roof enact mean later goddess";
+var mnemonic = "loan damp sauce wonder fossil elephant good month blossom hire favorite long";

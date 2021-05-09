@@ -1,1 +1,1 @@
-var mnemonic = "small impact length test organ violin pitch indicate west ghost stable thought";
+var mnemonic = "outer gate animal market apart people clerk market usage gas crime flip";

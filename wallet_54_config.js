@@ -1,1 +1,1 @@
-var mnemonic = "guard right divert unfold chair anchor hire blade monster sign talk wide";
+var mnemonic = "inform donkey demand error two repair spirit hunt pact utility vendor sauce";

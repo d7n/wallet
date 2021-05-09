@@ -1,1 +1,1 @@
-var mnemonic = "ready husband rapid wide lemon east garbage excess rookie oyster bounce message";
+var mnemonic = "laugh stem frost reunion just fruit couch drastic ghost dove art spider";

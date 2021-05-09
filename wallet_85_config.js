@@ -1,1 +1,1 @@
-var mnemonic = "rabbit game impact habit fuel negative age volume hawk slice ability resource";
+var mnemonic = "alarm bird million evidence polar message success hard pole train torch vicious";

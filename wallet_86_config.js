@@ -1,1 +1,1 @@
-var mnemonic = "drop coral loyal near coil motor true language member dial victory tennis";
+var mnemonic = "announce purchase crumble leopard middle language youth owner crowd neck chapter slight";

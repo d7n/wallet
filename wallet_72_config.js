@@ -1,1 +1,1 @@
-var mnemonic = "wasp usage question since eye pitch motor dinner same endless dynamic wink";
+var mnemonic = "coin leaf universe leaf smoke wedding tube chunk process blood advance call";

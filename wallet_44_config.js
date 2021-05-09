@@ -1,1 +1,1 @@
-var mnemonic = "dolphin decrease hunt junk exist maid genuine group cage banana select aware";
+var mnemonic = "myself taste snack move battle club garment guard hammer flush awake claim";

@@ -1,1 +1,1 @@
-var mnemonic = "grass reward action detail exist seminar find safe meadow explain style electric";
+var mnemonic = "symbol flame error express laundry palace flag science sun lazy head accuse";

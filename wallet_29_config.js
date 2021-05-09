@@ -1,1 +1,1 @@
-var mnemonic = "oxygen witness chapter chase hello camp artwork online check lemon pulp rabbit";
+var mnemonic = "glory person match cereal space common wish ice under guess great cradle";

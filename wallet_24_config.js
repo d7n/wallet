@@ -1,1 +1,1 @@
-var mnemonic = "van rib margin tooth creek silent blossom success narrow trade ball opinion";
+var mnemonic = "debris shop cover outer glide crunch addict shop welcome cattle angry island";

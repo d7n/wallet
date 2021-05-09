@@ -1,1 +1,1 @@
-var mnemonic = "message matter hammer click sad hour rib essence possible injury subway repair";
+var mnemonic = "fashion acoustic expand arena bonus priority inflict narrow ask glance axis offer";

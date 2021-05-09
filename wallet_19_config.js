@@ -1,1 +1,1 @@
-var mnemonic = "crop pumpkin eyebrow disagree subway blanket salt solar stage mixture mass weird";
+var mnemonic = "inmate upon egg walnut era violin scrap manage finger balcony pipe faint";

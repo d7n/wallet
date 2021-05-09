@@ -1,1 +1,1 @@
-var mnemonic = "orient desert artist start script grain praise saddle absent actress advice crane";
+var mnemonic = "appear winner pizza sugar lake core silk autumn area dial market damage";

@@ -1,1 +1,1 @@
-var mnemonic = "rare soul humble skill tray record mail omit crucial often sock measure";
+var mnemonic = "layer helmet error sunset air sauce awesome judge board night tenant desk";

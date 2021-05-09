@@ -1,1 +1,1 @@
-var mnemonic = "ensure entry sock enact sausage spell wear town grace mechanic february assist";
+var mnemonic = "accuse drink negative two calm force inject impulse grid penalty quick episode";

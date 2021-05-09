@@ -1,1 +1,1 @@
-var mnemonic = "swear scrub primary hunt lava fortune sunset biology acoustic execute anger limit";
+var mnemonic = "bread margin glass cube draft veteran sword omit loud travel security ranch";

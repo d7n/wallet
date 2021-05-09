@@ -1,1 +1,1 @@
-var mnemonic = "coast radar silent frown account moral equal bonus situate suspect endorse gorilla";
+var mnemonic = "youth again invest bundle omit chaos panda pass portion office side make";

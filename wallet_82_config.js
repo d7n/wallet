@@ -1,1 +1,1 @@
-var mnemonic = "once range master roast gold grow bag bid slot this range budget";
+var mnemonic = "boil buyer neglect fold mean coil silk check help blood swim amazing";

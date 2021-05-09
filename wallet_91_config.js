@@ -1,1 +1,1 @@
-var mnemonic = "silk divert merry notice trigger evil prepare glass blood own base method";
+var mnemonic = "liquid donkey grab million hockey lens ostrich skin proof common fine wear";

@@ -1,1 +1,1 @@
-var mnemonic = "husband include decide layer gallery indoor kid pulse april kingdom cement always";
+var mnemonic = "saddle fish tiger mystery leisure bullet rain hazard three arrest diary siren";

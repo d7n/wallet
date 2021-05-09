@@ -1,1 +1,1 @@
-var mnemonic = "tape thrive where weasel cupboard toss trend demise position segment essence fly";
+var mnemonic = "fox shadow space frame keep mention vast lunch claw tank submit charge";

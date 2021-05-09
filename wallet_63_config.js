@@ -1,1 +1,1 @@
-var mnemonic = "game spy shield scheme resist twenty mountain soft local staff clarify life";
+var mnemonic = "shield oil harvest unlock ring right vicious tide raw flame express detect";

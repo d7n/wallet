@@ -1,1 +1,1 @@
-var mnemonic = "speed machine connect deny critic step matter peace diet swim laundry twenty";
+var mnemonic = "path ancient coconut tunnel glide party key frog friend metal boss road";

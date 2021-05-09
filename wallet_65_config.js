@@ -1,1 +1,1 @@
-var mnemonic = "plastic finger rebuild yellow disease pistol fly speed way convince margin raw";
+var mnemonic = "pigeon token leg measure aim recall canyon weird style angry blast party";

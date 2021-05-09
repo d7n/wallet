@@ -1,1 +1,1 @@
-var mnemonic = "isolate rare marine rice boost napkin skill buzz faculty pond romance pond";
+var mnemonic = "include fiction appear slice castle casino since coast ready follow legal address";

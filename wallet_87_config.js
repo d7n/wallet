@@ -1,1 +1,1 @@
-var mnemonic = "genre coconut harbor device leader enhance rotate corn churn trick audit property";
+var mnemonic = "turkey kangaroo airport forget very manage cycle garage quote village symbol grocery";

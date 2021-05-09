@@ -1,1 +1,1 @@
-var mnemonic = "size rent trust vital victory rack matter spin oyster arena come census";
+var mnemonic = "fragile practice excite beauty enter exist awful share expect depart swap veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "apple open relax hurry honey cloud bachelor return fade always bone series";
+var mnemonic = "celery hungry slot hire robust crane slogan afford side into meadow approve";

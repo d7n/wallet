@@ -1,1 +1,1 @@
-var mnemonic = "huge aunt purity lunar clever fossil hat story library journey shove glare";
+var mnemonic = "kiwi erode buyer crew coin pattern owner opera model kick chunk sauce";

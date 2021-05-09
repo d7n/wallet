@@ -1,1 +1,1 @@
-var mnemonic = "genius grit emerge like sad nice mistake ozone front seek usual what";
+var mnemonic = "muscle trap agent merit evidence huge onion turn seat rain remind attend";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect breeze double fog oppose later corn bounce mad bargain reduce shoot";
+var mnemonic = "shell toast lady myth foster renew sound catch mountain lemon arch promote";

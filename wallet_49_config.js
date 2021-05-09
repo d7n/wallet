@@ -1,1 +1,1 @@
-var mnemonic = "unlock lab woman impulse scheme emerge powder sketch number fox judge cloth";
+var mnemonic = "illegal math hollow cool define garbage river please hat bomb title day";

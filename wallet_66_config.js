@@ -1,1 +1,1 @@
-var mnemonic = "poet company retreat clean begin menu shoot purchase multiply harvest raccoon claim";
+var mnemonic = "emerge range century coffee dune draft young leisure color hedgehog wheel muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "explain lazy pledge game author still panel hour tower frozen crucial dragon";
+var mnemonic = "mass disagree blanket future badge upon valid gentle sea century gentle puzzle";

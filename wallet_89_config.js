@@ -1,1 +1,1 @@
-var mnemonic = "diagram pond radar luggage minute limit column middle ring plastic snake scheme";
+var mnemonic = "upset asthma deer census carbon mimic popular sheriff small two modify rocket";

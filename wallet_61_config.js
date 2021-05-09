@@ -1,1 +1,1 @@
-var mnemonic = "dynamic point identify spider super laundry author zoo jealous orchard risk mule";
+var mnemonic = "hint unusual tobacco issue print luggage advice act illness phone island vault";

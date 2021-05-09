@@ -1,1 +1,1 @@
-var mnemonic = "poverty remain typical side novel shrimp quality crane nature include unique speak";
+var mnemonic = "road symptom soon hunt they mixed kit cactus exist vocal crash vapor";

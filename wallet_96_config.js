@@ -1,1 +1,1 @@
-var mnemonic = "critic hover sad laugh exile gown fall slow glass item brush rely";
+var mnemonic = "sunny cabin magic where naive rhythm awkward sketch minute gown iron guide";

@@ -1,1 +1,1 @@
-var mnemonic = "digital friend defense bleak arena spray famous helmet august cheap season zero";
+var mnemonic = "office decorate useless peace safe chaos glove walnut afford mention company sphere";

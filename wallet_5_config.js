@@ -1,1 +1,1 @@
-var mnemonic = "desert swamp they mosquito clown other will round prison equal ride front";
+var mnemonic = "symptom beauty switch divorce judge venture gather armed exit lyrics derive visit";

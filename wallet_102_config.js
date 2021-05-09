@@ -1,1 +1,1 @@
-var mnemonic = "recipe ski balance poverty acquire glue rubber road blue mask repeat glass";
+var mnemonic = "session injury immune fan approve parent tell satoshi ball found ritual entire";

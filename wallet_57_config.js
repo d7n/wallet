@@ -1,1 +1,1 @@
-var mnemonic = "latin tide bunker anxiety mesh nothing cancel cup coach illness walnut thumb";
+var mnemonic = "envelope organ include loud clock pole tell material air tiger frog purse";

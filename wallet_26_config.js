@@ -1,1 +1,1 @@
-var mnemonic = "shock boy slush crazy globe they leaf giraffe rack access west select";
+var mnemonic = "aspect salon card chunk senior short ride season flame section lazy flight";
