@@ -1,1 +1,1 @@
-var mnemonic = "style traffic east fever ivory symptom aim useful mutual daring drive blush";
+var mnemonic = "soap only grape west test twenty under throw reward rabbit mean write";

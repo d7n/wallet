@@ -1,1 +1,1 @@
-var mnemonic = "oyster find home scissors jungle crouch strike effort away expand script message";
+var mnemonic = "owner manual sudden six change entire young pond betray dog cheap dish";

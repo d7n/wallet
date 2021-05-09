@@ -1,1 +1,1 @@
-var mnemonic = "trigger happy body transfer pottery good ordinary jeans dwarf access soap margin";
+var mnemonic = "destroy silent rose goat add patient snack miss taste name clean like";

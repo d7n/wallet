@@ -1,1 +1,1 @@
-var mnemonic = "gospel object puppy chef kitchen stay unhappy leader hurdle fetch relax media";
+var mnemonic = "code cost claw logic sick sphere bargain change service school change repeat";

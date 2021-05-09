@@ -1,1 +1,1 @@
-var mnemonic = "mule wash mango glow right bus select slice chat drink sort poverty";
+var mnemonic = "drop hotel stage emotion scheme marine gun almost govern shove speed album";

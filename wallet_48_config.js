@@ -1,1 +1,1 @@
-var mnemonic = "cross bench dawn mobile push exact horn casual refuse doctor diesel cat";
+var mnemonic = "double thumb trigger camera decline game version celery mosquito olympic hint this";

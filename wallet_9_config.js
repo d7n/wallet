@@ -1,1 +1,1 @@
-var mnemonic = "jeans wheat pen supreme develop siren burger chest face nut cause dish";
+var mnemonic = "leopard crazy armed true mind can throw what skill hockey balance focus";

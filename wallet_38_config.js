@@ -1,1 +1,1 @@
-var mnemonic = "insect hollow change now enough asthma reason quiz earth giant crush shiver";
+var mnemonic = "kitchen person stadium then junk clock walnut hundred better lava moment ankle";

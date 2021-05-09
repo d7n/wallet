@@ -1,1 +1,1 @@
-var mnemonic = "search genius long leader bitter power yellow catalog misery thunder echo zero";
+var mnemonic = "bargain cycle truth question bracket napkin check buyer craft patch fluid trend";

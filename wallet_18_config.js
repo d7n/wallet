@@ -1,1 +1,1 @@
-var mnemonic = "swamp lumber that dutch scale rhythm omit abstract soup begin borrow diamond";
+var mnemonic = "stereo uniform tooth salon entry mango throw series giant little dune fade";

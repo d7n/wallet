@@ -1,1 +1,1 @@
-var mnemonic = "purity cart panel hold below start clarify quarter mix flame gorilla choice";
+var mnemonic = "wage special february expand blur walnut melt awesome parade post harbor dose";

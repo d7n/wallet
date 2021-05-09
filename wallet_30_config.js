@@ -1,1 +1,1 @@
-var mnemonic = "layer join arctic remove jazz ancient bicycle tattoo column hello retire century";
+var mnemonic = "tray tragic simple cake cross vote cliff marble blouse two crouch brick";

@@ -1,1 +1,1 @@
-var mnemonic = "police almost nature apart media flower idle into cherry rebuild acquire wrestle";
+var mnemonic = "scatter box cannon debate job hat heavy just clever predict syrup material";

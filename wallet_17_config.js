@@ -1,1 +1,1 @@
-var mnemonic = "strategy pass inflict umbrella clever poverty cart inside panther bachelor enroll fabric";
+var mnemonic = "mean galaxy trim slush save execute burger behind element spray breeze hole";

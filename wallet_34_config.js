@@ -1,1 +1,1 @@
-var mnemonic = "wrong bachelor utility enrich call error bachelor goddess cup battle noble luggage";
+var mnemonic = "draft improve million grit wheel sense column source peanut apple milk exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "merry hip online latin resist diet warrior fringe nephew joy zone length";
+var mnemonic = "gap battle middle tobacco retreat domain actual lab diesel layer hat solve";

@@ -1,1 +1,1 @@
-var mnemonic = "they welcome maple hire peanut drum until evidence fly work solve predict";
+var mnemonic = "journey gun wrestle insect ritual brisk intact poet shrug okay inmate distance";

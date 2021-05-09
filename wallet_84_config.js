@@ -1,1 +1,1 @@
-var mnemonic = "someone call object gesture remain denial century scan since raise clinic grief";
+var mnemonic = "edge peace open nominee sell canal sample mushroom carbon dash transfer pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo dinner modify tuition puzzle shrimp feed typical chest magic secret abuse";
+var mnemonic = "oyster educate aunt valve plate liberty web rack poem awful fork merry";

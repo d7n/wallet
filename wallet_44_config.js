@@ -1,1 +1,1 @@
-var mnemonic = "state error organ field suggest school pluck shoe raccoon general bronze hello";
+var mnemonic = "attack divert gain still ozone insane visa trade damp season decade dose";

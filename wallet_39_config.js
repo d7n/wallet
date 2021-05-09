@@ -1,1 +1,1 @@
-var mnemonic = "muffin word child claim off horse path tissue ribbon sand tired base";
+var mnemonic = "soon tattoo piece cement frost flower demand length transfer fragile garment donate";

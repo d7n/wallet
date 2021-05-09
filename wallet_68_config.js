@@ -1,1 +1,1 @@
-var mnemonic = "umbrella strategy dress print rural pulp plug student cannon merry ceiling token";
+var mnemonic = "glare ready box model practice typical general dream practice cave solution sauce";

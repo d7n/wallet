@@ -1,1 +1,1 @@
-var mnemonic = "door setup twenty solar acoustic dutch dinner engine joke blush gorilla race";
+var mnemonic = "verb dash patch guilt plunge alpha bid destroy urge dove cute post";

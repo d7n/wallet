@@ -1,1 +1,1 @@
-var mnemonic = "banner girl film group link family use hire spike beauty reflect awful";
+var mnemonic = "combine mention plastic organ feel mechanic humor stereo produce remain fox spin";

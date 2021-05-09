@@ -1,1 +1,1 @@
-var mnemonic = "cost that can imitate rich eye autumn nest neither denial thrive squeeze";
+var mnemonic = "mouse polar fabric insect language you ability hour oblige actress permit fog";

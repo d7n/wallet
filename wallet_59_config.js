@@ -1,1 +1,1 @@
-var mnemonic = "estate green uniform elite trouble bacon supply gain erosion mix cruise carpet";
+var mnemonic = "balance real donor company invite lounge door visa argue rib gown inside";

@@ -1,1 +1,1 @@
-var mnemonic = "wool moon message person between siren image supreme brush today canyon gap";
+var mnemonic = "will bus remind hour orange capital world window disagree abstract domain chief";

@@ -1,1 +1,1 @@
-var mnemonic = "extra spike mirror other crash shoulder mansion apple kiss curious velvet step";
+var mnemonic = "pyramid fine notice inner deputy erupt doctor lumber north minor dizzy degree";

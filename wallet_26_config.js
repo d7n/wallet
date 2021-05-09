@@ -1,1 +1,1 @@
-var mnemonic = "oppose clap toss weasel embark dove champion chat april stage pond amateur";
+var mnemonic = "must sock industry call aunt pottery lemon curtain actress kidney lazy powder";

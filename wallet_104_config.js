@@ -1,1 +1,1 @@
-var mnemonic = "express kiwi glimpse goat spoon pitch mansion peace fish evil trash spot";
+var mnemonic = "crash verify shaft unknown fox silk outside actress poet cherry board coach";

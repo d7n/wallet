@@ -1,1 +1,1 @@
-var mnemonic = "hip sock salmon combine slab silk surface face drastic call loud cannon";
+var mnemonic = "over enforce feature gas reason hood connect woman fossil assault excite friend";

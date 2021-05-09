@@ -1,1 +1,1 @@
-var mnemonic = "asthma trap chat year pen cost mom hover illegal robust dwarf future";
+var mnemonic = "just broken easily open timber decline force expand mother uniform choose donate";

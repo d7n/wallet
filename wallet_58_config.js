@@ -1,1 +1,1 @@
-var mnemonic = "fall creek near tag leopard floor inherit shiver message ocean ridge jacket";
+var mnemonic = "echo indoor zero wet smile claim target job universe twenty surprise display";

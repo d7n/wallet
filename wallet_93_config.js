@@ -1,1 +1,1 @@
-var mnemonic = "tenant program forum rich typical response drink half mansion vendor betray critic";
+var mnemonic = "decline march zebra lazy wood flock hold plug game path spot analyst";

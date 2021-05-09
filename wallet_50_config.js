@@ -1,1 +1,1 @@
-var mnemonic = "pizza basic leopard gravity tiny delay diary sudden shrug lunch devote kit";
+var mnemonic = "bleak kidney noodle under pony fatal session chimney donkey hen element blind";

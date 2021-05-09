@@ -1,1 +1,1 @@
-var mnemonic = "foster risk siege dove snap speed question elite will tissue all later";
+var mnemonic = "endless eternal region since afraid escape any despair unfair wild renew unfold";

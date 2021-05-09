@@ -1,1 +1,1 @@
-var mnemonic = "option scissors hockey long upon kick initial awake chief swamp media twin";
+var mnemonic = "cover can siege any tonight rally artwork galaxy message liberty level winner";

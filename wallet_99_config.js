@@ -1,1 +1,1 @@
-var mnemonic = "decorate gap jump someone affair exact spray dream trouble soap opera orphan";
+var mnemonic = "behave maple fuel frequent danger copy box deal couple program various air";

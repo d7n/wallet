@@ -1,1 +1,1 @@
-var mnemonic = "junior profit glide spy mosquito erosion guitar submit armor token you crucial";
+var mnemonic = "weasel idle vague artwork tail group shrug dust color cheap drill option";

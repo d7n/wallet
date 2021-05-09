@@ -1,1 +1,1 @@
-var mnemonic = "project mango seek false theme boy remind stick make twin replace purity";
+var mnemonic = "extra fox logic tennis mutual come young subject upon grain edit okay";

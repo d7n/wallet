@@ -1,1 +1,1 @@
-var mnemonic = "flush rate total guess lunar alert novel tiny seven setup loud relax";
+var mnemonic = "oil zoo tube suit action connect loud owner coffee involve member return";

@@ -1,1 +1,1 @@
-var mnemonic = "butter wrap worth alpha sauce improve empty strategy gadget select omit model";
+var mnemonic = "develop dizzy floor slogan photo south drink team repeat input birth monkey";

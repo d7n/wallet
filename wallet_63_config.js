@@ -1,1 +1,1 @@
-var mnemonic = "across mango blur latin undo verify category rebuild fresh powder base alone";
+var mnemonic = "round castle have forest album frequent kiwi differ more tragic alarm demise";

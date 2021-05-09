@@ -1,1 +1,1 @@
-var mnemonic = "leg stairs pen possible broccoli ugly quick lawsuit eight couch clarify bronze";
+var mnemonic = "cube frequent tip risk sand palace sheriff culture order tuition pudding cabin";

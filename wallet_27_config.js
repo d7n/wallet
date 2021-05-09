@@ -1,1 +1,1 @@
-var mnemonic = "media ocean raw prize swim join unit belt smart grit exit afraid";
+var mnemonic = "rain deny stairs volume one fresh champion garlic school put cliff prevent";

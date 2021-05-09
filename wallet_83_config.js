@@ -1,1 +1,1 @@
-var mnemonic = "waste slot fuel match bag task dentist demand hope labor common vapor";
+var mnemonic = "can tooth recall help purse disagree mosquito before fitness typical carry shiver";

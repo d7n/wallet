@@ -1,1 +1,1 @@
-var mnemonic = "patient armed reopen sense phone private issue open post fortune odor animal";
+var mnemonic = "patrol reopen august struggle siren wisdom squeeze vast cereal paper order loan";

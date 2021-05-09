@@ -1,1 +1,1 @@
-var mnemonic = "track congress sand filter rate float pyramid diesel fire rhythm unfold vicious";
+var mnemonic = "excuse certain famous uphold target inherit priority menu sick tissue venture time";

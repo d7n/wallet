@@ -1,1 +1,1 @@
-var mnemonic = "punch gloom fortune sting disease bulb alien negative gospel jeans true bag";
+var mnemonic = "sniff quality indicate virtual bird forest true dizzy speed item update news";

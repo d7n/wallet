@@ -1,1 +1,1 @@
-var mnemonic = "sing follow inform chapter female grass august apart enact midnight grow recycle";
+var mnemonic = "color fatigue perfect fragile inject limb sign milk actress evoke acquire ahead";

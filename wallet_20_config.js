@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin wool icon endless cute critic weather banner young fashion saddle tree";
+var mnemonic = "whip winter spend fun stuff name remember salute clean left cement only";

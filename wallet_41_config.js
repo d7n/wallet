@@ -1,1 +1,1 @@
-var mnemonic = "oak claim feel welcome kangaroo enjoy remain wine cactus stand click decade";
+var mnemonic = "foster disagree album clog enjoy submit state aunt client ghost panda cool";

@@ -1,1 +1,1 @@
-var mnemonic = "endless race hair genuine glare soon violin quantum element trade yard skirt";
+var mnemonic = "whale erase crack rally clump thing opinion auction toddler hard spirit runway";

@@ -1,1 +1,1 @@
-var mnemonic = "connect retreat evil spell noise urban grid agree vicious boost safe federal";
+var mnemonic = "patrol fault divide acid gorilla coin spoon tiger soon dad chair hard";

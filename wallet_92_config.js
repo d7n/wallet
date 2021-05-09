@@ -1,1 +1,1 @@
-var mnemonic = "suffer drum patch order assist depart home vote change spray rough reunion";
+var mnemonic = "depth shield light soccer guitar tribe iron arrive lens slim fence planet";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin boss nurse gadget ethics robust patrol few federal spider saddle cliff";
+var mnemonic = "sleep dolphin veteran lounge attract breeze twist neck ketchup off tube usage";

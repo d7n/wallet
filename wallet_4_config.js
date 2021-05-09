@@ -1,1 +1,1 @@
-var mnemonic = "daring fish mixed curious danger diary punch fix rice excess announce soap";
+var mnemonic = "reopen label eternal dance rude advice lawn use random spirit vocal regular";

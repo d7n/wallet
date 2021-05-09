@@ -1,1 +1,1 @@
-var mnemonic = "cabbage agent worth clown pole slot meat appear object force circle blur";
+var mnemonic = "into express tattoo pig matter hamster isolate drink senior fit logic stool";

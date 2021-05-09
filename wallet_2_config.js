@@ -1,1 +1,1 @@
-var mnemonic = "dynamic step quote silly metal rule call deposit chapter figure common lumber";
+var mnemonic = "amount bind minor salt science plunge illness proud gather street load food";

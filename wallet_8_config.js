@@ -1,1 +1,1 @@
-var mnemonic = "dune foil crush explain left flush hungry solution toward course three talk";
+var mnemonic = "once harvest hazard sauce right swift express demand void have gas join";

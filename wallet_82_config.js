@@ -1,1 +1,1 @@
-var mnemonic = "bachelor fly amused oyster foster bulk weird inner laugh pride enjoy cereal";
+var mnemonic = "tourist scrap summer skate pond excite slim grant quality poem awkward fame";

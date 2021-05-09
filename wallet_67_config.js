@@ -1,1 +1,1 @@
-var mnemonic = "myth comic credit dance humble shine stamp boost goose orchard aunt accident";
+var mnemonic = "where dry vivid question invest drama primary night vacuum outdoor offer pizza";

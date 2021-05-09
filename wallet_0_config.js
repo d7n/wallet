@@ -1,1 +1,1 @@
-var mnemonic = "hello curious piece tooth visa seek buyer gap clean cool easy case";
+var mnemonic = "between stove again spice where various success arrange wrestle inner embrace trick";

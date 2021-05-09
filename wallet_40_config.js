@@ -1,1 +1,1 @@
-var mnemonic = "scheme coffee ugly issue buyer town main wise print crush stairs anger";
+var mnemonic = "scan thumb fury concert rapid magic better dish ceiling exercise butter member";

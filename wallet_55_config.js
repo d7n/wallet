@@ -1,1 +1,1 @@
-var mnemonic = "stamp brand sister athlete other absurd visa sound runway pyramid negative pilot";
+var mnemonic = "abuse tuition minimum brief debate property list laptop neglect tip receive enact";

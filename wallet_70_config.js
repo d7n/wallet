@@ -1,1 +1,1 @@
-var mnemonic = "spin story cram hill clinic day slim want toe stable slush weekend";
+var mnemonic = "spice fever sting happy wide civil one situate capable fiction delay since";

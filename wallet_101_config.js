@@ -1,1 +1,1 @@
-var mnemonic = "attitude business glare utility impulse aim arch escape acquire peasant pupil frown";
+var mnemonic = "gossip comfort pioneer system doctor corn spare trend address hub round enemy";

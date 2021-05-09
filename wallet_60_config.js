@@ -1,1 +1,1 @@
-var mnemonic = "dynamic clinic train coil police stairs witness web battle when bargain suit";
+var mnemonic = "olympic pigeon fuel wide long ghost account paper any hen candy drastic";

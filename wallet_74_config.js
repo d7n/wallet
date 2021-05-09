@@ -1,1 +1,1 @@
-var mnemonic = "lyrics life pair jungle soon tortoise melody cover often quality kidney track";
+var mnemonic = "fetch draw drink coast orange tooth angle crumble paddle excuse blue dwarf";

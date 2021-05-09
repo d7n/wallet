@@ -1,1 +1,1 @@
-var mnemonic = "category nose anxiety album reform oil rule edge cover ten bind tortoise";
+var mnemonic = "gossip mass pass fall kangaroo exchange anchor sort toward pond swift exotic";

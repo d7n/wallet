@@ -1,1 +1,1 @@
-var mnemonic = "talent omit energy simple fire apology pride black adult race old deposit";
+var mnemonic = "draft lift differ picture online custom kiss educate enable decrease require amused";

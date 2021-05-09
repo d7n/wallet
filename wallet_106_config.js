@@ -1,1 +1,1 @@
-var mnemonic = "tennis stool lunch manual segment actress love fox stumble shuffle ladder into";
+var mnemonic = "proof noodle spoon physical century demise fetch fork physical clarify over differ";

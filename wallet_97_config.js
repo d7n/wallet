@@ -1,1 +1,1 @@
-var mnemonic = "nurse cruise dial best outdoor loyal dumb false name fluid knife total";
+var mnemonic = "spirit sword saddle amateur blur oyster music spread bus column note guard";

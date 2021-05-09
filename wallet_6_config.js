@@ -1,1 +1,1 @@
-var mnemonic = "rather april stick toward frequent catch enforce ethics liquid joke smile update";
+var mnemonic = "flip wood sample captain sick kitten alley butter thunder amazing trend cheap";

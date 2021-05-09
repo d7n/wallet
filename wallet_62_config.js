@@ -1,1 +1,1 @@
-var mnemonic = "sand water dirt biology shallow step custom forum gadget raccoon patrol tennis";
+var mnemonic = "walnut move unit leaf sort drift forest whisper rally double modify civil";

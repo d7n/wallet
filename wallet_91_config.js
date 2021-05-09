@@ -1,1 +1,1 @@
-var mnemonic = "ice medal width buzz child erase essay such sight trap try index";
+var mnemonic = "spatial position express vicious busy depth flip allow topic fury trade arrow";

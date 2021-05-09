@@ -1,1 +1,1 @@
-var mnemonic = "balcony push put era hunt valve keen afraid canal decorate local candy";
+var mnemonic = "earth hybrid chimney cotton path vocal school gold solution imitate accident aspect";

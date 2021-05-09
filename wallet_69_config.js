@@ -1,1 +1,1 @@
-var mnemonic = "front absent brush glimpse elbow burden worry among lyrics floor protect harvest";
+var mnemonic = "execute swallow cruel angry radar hotel multiply truly velvet hotel fan promote";

@@ -1,1 +1,1 @@
-var mnemonic = "because celery junior repeat steel purchase assault wasp minute wheat company double";
+var mnemonic = "come dry junk recall capital absorb ranch wear bachelor good warrior legend";

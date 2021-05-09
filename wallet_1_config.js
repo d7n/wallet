@@ -1,1 +1,1 @@
-var mnemonic = "ship cycle unknown wage dad question guide total quality echo then security";
+var mnemonic = "scan few pyramid celery luxury asthma distance cancel grow horn about oven";

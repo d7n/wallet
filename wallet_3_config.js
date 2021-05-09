@@ -1,1 +1,1 @@
-var mnemonic = "sentence meadow model grief short bar card bottom mosquito canoe label claw";
+var mnemonic = "dinner fall civil camera child enact device rude club unusual mule stand";

@@ -1,1 +1,1 @@
-var mnemonic = "answer feature mercy action salon tunnel autumn list ozone claim improve deposit";
+var mnemonic = "clinic horn shaft spend estate height spatial ready security shadow horror predict";

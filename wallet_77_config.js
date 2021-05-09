@@ -1,1 +1,1 @@
-var mnemonic = "such sight lava sauce oblige bronze jungle force idle dose pepper wasp";
+var mnemonic = "page stone video vacant liberty across tribe pistol equip verb later million";

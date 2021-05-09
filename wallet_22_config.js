@@ -1,1 +1,1 @@
-var mnemonic = "crew lift option vault blanket bachelor stamp bright wise sudden vanish scatter";
+var mnemonic = "property uncover garment private junk turtle hole bless draw record monkey biology";

@@ -1,1 +1,1 @@
-var mnemonic = "two trust increase gown renew silk crunch subway call sweet electric scene";
+var mnemonic = "analyst ahead bitter trick impose drama pony fragile sword crisp devote dice";

@@ -1,1 +1,1 @@
-var mnemonic = "snap ride kitchen regular lawsuit duck type palace figure dutch secret educate";
+var mnemonic = "crisp peanut liberty enemy void aim powder echo demand miss flip settle";

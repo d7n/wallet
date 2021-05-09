@@ -1,1 +1,1 @@
-var mnemonic = "supreme april problem lava frog hotel entire nice perfect unhappy able vicious";
+var mnemonic = "arctic thunder cancel business mirror sustain leisure boss hero ripple topple only";

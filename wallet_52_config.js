@@ -1,1 +1,1 @@
-var mnemonic = "bring school private soul adapt earth portion position syrup twice visit cube";
+var mnemonic = "manage ostrich boring lobster shop ketchup west chunk helmet ancient street denial";

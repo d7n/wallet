@@ -1,1 +1,1 @@
-var mnemonic = "cluster quote fantasy manage one chat lunch flat book half spirit swift";
+var mnemonic = "change divert risk glow item develop horse fee project divorce surge shadow";

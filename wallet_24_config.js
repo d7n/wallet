@@ -1,1 +1,1 @@
-var mnemonic = "three myself virtual useless express fruit spirit height pepper gallery unfair fringe";
+var mnemonic = "truly bonus ostrich manage frost swamp sorry current base elder humor clump";

@@ -1,1 +1,1 @@
-var mnemonic = "involve duty trade off wait flower liquid raw traffic gravity clarify animal";
+var mnemonic = "surface pull trial hole avocado alpha tobacco size rubber bonus absorb measure";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle brass hunt exhibit rude bid vivid swear follow pond often refuse";
+var mnemonic = "wedding awake pill toy purse spice uncle friend motor goat grunt ordinary";

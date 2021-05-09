@@ -1,1 +1,1 @@
-var mnemonic = "wire lens alone fatigue same mention rail lamp sword art trophy audit";
+var mnemonic = "reveal south arrive skate scene gold horror bless option detail capital jazz";

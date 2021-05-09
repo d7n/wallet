@@ -1,1 +1,1 @@
-var mnemonic = "million dog alpha moon inch into snack today knee pepper weird movie";
+var mnemonic = "above game book soul museum under affair idea whale dream crack venture";

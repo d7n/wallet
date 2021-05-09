@@ -1,1 +1,1 @@
-var mnemonic = "perfect neutral staff squirrel enough long hand ritual bag fence donor usual";
+var mnemonic = "seek merit inherit want believe cool parade sponsor argue group immune dutch";
