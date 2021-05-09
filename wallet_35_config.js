@@ -1,1 +1,1 @@
-var mnemonic = "lecture inside base index lady place dizzy wisdom fork science quote impulse";
+var mnemonic = "satoshi vote width problem buddy wood army galaxy relief crawl come head";

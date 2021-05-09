@@ -1,1 +1,1 @@
-var mnemonic = "cereal auto because shed walnut claim all inch flight wire control crew";
+var mnemonic = "property unhappy focus found bar give combine wise clock swarm just brass";

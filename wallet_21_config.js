@@ -1,1 +1,1 @@
-var mnemonic = "athlete original present blouse suspect banana usual reform pudding noodle age tonight";
+var mnemonic = "poem pet across spirit all appear lizard example brisk domain select flight";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing property birth super service wage liar air whale guard now example";
+var mnemonic = "million witness electric citizen mad danger force punch grow between welcome age";

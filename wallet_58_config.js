@@ -1,1 +1,1 @@
-var mnemonic = "memory cook old that copy trick spray leave short upon where aisle";
+var mnemonic = "crack certain choice echo adult silly relief tube rice cancel bottom moon";

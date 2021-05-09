@@ -1,1 +1,1 @@
-var mnemonic = "army corn whisper situate tower hard village trim segment repeat pink cushion";
+var mnemonic = "aerobic brush describe prefer movie nasty verb rail gas afraid shy plug";

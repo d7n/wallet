@@ -1,1 +1,1 @@
-var mnemonic = "hill month host enhance notable note laptop rain wrist wagon grab wife";
+var mnemonic = "artwork joy romance cereal evidence push security rebel knife churn fiction gas";

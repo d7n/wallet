@@ -1,1 +1,1 @@
-var mnemonic = "carpet picnic boat small cattle paper razor chalk motor twenty design trumpet";
+var mnemonic = "expect honey accuse cloud right mistake ready rigid arena ketchup ritual theme";

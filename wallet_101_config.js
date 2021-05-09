@@ -1,1 +1,1 @@
-var mnemonic = "hour rocket solve main promote core brush upgrade tackle grow absurd grape";
+var mnemonic = "fly grocery rescue lonely pen vast illness cliff addict medal below into";

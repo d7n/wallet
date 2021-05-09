@@ -1,1 +1,1 @@
-var mnemonic = "olive fury kit enroll taxi guide charge dry engage reject wave sphere";
+var mnemonic = "decrease balance rain consider ignore warrior job opinion scan special sad attract";

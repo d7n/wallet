@@ -1,1 +1,1 @@
-var mnemonic = "girl bus about loan reveal alley clarify shield shrug sudden novel knife";
+var mnemonic = "frown cereal main chalk boost knock grape rhythm shove other robot frost";

@@ -1,1 +1,1 @@
-var mnemonic = "glass upper civil wide need minimum fire profit guess little gallery warm";
+var mnemonic = "crazy when monkey rather shaft process garbage prison ship twin romance flame";

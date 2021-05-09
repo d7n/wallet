@@ -1,1 +1,1 @@
-var mnemonic = "impose elegant inch cute cube oval exercise kiwi pulp double twin side";
+var mnemonic = "inmate inform hat three donkey music horn disorder phrase wave tornado vehicle";

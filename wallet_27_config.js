@@ -1,1 +1,1 @@
-var mnemonic = "twin alone swap machine name dragon example dwarf figure mouse lava record";
+var mnemonic = "payment chief fall evoke race cheese pepper corn stove floor ghost cake";

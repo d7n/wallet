@@ -1,1 +1,1 @@
-var mnemonic = "view oil swear submit degree smile merry skate depend proud solve exit";
+var mnemonic = "protect boost infant problem aisle sound useless enforce cube wheat cargo destroy";

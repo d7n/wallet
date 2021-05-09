@@ -1,1 +1,1 @@
-var mnemonic = "grid pig envelope mobile seek club gold miss display disease brave keen";
+var mnemonic = "mass blur depth breeze bench alcohol slam decline gravity another balcony gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "rely wash mixed happy elder universe rather sport rare melt damp trash";
+var mnemonic = "effort collect trend seat neglect phrase track learn dwarf sword fashion milk";

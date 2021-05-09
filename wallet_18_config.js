@@ -1,1 +1,1 @@
-var mnemonic = "journey select hour gaze sing domain chest trap skull wise tide task";
+var mnemonic = "share beyond vacuum endless dolphin bubble gasp hub stomach panel bunker false";

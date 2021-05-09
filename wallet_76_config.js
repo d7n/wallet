@@ -1,1 +1,1 @@
-var mnemonic = "benefit mercy jump layer dress switch neck rubber deal usual gesture keep";
+var mnemonic = "version moment sea smile damp popular alien cupboard flush ship spare slab";

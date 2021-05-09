@@ -1,1 +1,1 @@
-var mnemonic = "mammal gravity spring depart sudden cloud wolf pulp kid gadget dynamic owner";
+var mnemonic = "start love dune plunge claim stem nest bubble ability smart season verb";

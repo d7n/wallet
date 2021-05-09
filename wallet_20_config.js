@@ -1,1 +1,1 @@
-var mnemonic = "dress august there spray tooth cloth edit cross fossil piano nurse wave";
+var mnemonic = "eagle catch waste oil small tip peasant poet winter famous dawn absent";

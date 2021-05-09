@@ -1,1 +1,1 @@
-var mnemonic = "bomb promote bone arena shed hair twice doctor under artefact ring snow";
+var mnemonic = "gossip jealous cabin ready hospital notable spend leisure noise error together insane";

@@ -1,1 +1,1 @@
-var mnemonic = "front arrest require nephew brick hazard original transfer tribe trick aunt disease";
+var mnemonic = "camp unknown thank magic rough across east decrease relax eight menu creek";

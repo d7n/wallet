@@ -1,1 +1,1 @@
-var mnemonic = "love mesh stool party host habit tone patient midnight crowd stable rookie";
+var mnemonic = "route gorilla sail print jump elephant blanket remain crouch label sword merit";

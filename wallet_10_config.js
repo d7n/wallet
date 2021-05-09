@@ -1,1 +1,1 @@
-var mnemonic = "chat six neck ridge doctor degree able call mother matter cousin field";
+var mnemonic = "chicken knock cry joke toast soup toe gather reveal day shed farm";

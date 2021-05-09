@@ -1,1 +1,1 @@
-var mnemonic = "artist robust stereo close danger imitate crunch private grunt around enjoy canyon";
+var mnemonic = "arrow answer rail guide bean seven dignity near addict output emotion rail";

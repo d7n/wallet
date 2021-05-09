@@ -1,1 +1,1 @@
-var mnemonic = "snow subway camera donor win festival ghost entry north cart only split";
+var mnemonic = "furnace wood auto mass tired inquiry extend sleep chalk giraffe tragic category";

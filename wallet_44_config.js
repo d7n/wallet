@@ -1,1 +1,1 @@
-var mnemonic = "cushion animal aim shed tilt shoot patch van young repeat obscure lady";
+var mnemonic = "bubble dream prosper orbit check age piano trip tuition ordinary tobacco leisure";

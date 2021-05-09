@@ -1,1 +1,1 @@
-var mnemonic = "pigeon middle ski kind pave puzzle torch window jelly orbit chimney pony";
+var mnemonic = "history leg remain penalty anxiety rule wisdom flush coral lock skill reveal";

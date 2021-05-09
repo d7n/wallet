@@ -1,1 +1,1 @@
-var mnemonic = "state human spell matter dog power body elder jelly brass call chaos";
+var mnemonic = "million team flag brand general shed mechanic wife test rival pattern city";

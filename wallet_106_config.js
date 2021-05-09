@@ -1,1 +1,1 @@
-var mnemonic = "vendor vehicle happy tray enable inhale shop december rescue push segment eye";
+var mnemonic = "vacuum tone course orange double high roast mammal birth gain position hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "lift hard arena theme kangaroo october rabbit combine skate blind kitten uncle";
+var mnemonic = "depart child post hybrid deal sand atom test execute there silly caught";

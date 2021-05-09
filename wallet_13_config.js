@@ -1,1 +1,1 @@
-var mnemonic = "furnace else jazz sock brass cloud sentence hollow twist ship expire gas";
+var mnemonic = "gloom zero renew good creek stem forest recycle onion answer skate poet";

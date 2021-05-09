@@ -1,1 +1,1 @@
-var mnemonic = "turkey mask divert blur deputy auction horse castle horn manage soap capable";
+var mnemonic = "enrich wife forest crew swap reduce planet blade say sadness dumb metal";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel race fatigue peasant scan promote cushion tide bonus slot expire law";
+var mnemonic = "trial list flight panic tattoo piano endless away mesh ritual shield cigar";

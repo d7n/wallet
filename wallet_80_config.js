@@ -1,1 +1,1 @@
-var mnemonic = "fame ketchup quick rebuild celery comic tent book lesson regret salmon abstract";
+var mnemonic = "hand gain chef hair puppy voyage found arm quarter turkey segment gate";

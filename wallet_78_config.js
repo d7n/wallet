@@ -1,1 +1,1 @@
-var mnemonic = "coach canyon face thunder lizard lesson energy lonely banner purchase lesson paper";
+var mnemonic = "frown total nurse slice chuckle glow push pass floor above approve verify";

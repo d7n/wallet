@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon citizen rubber stove heavy attack gun more twin envelope hawk deliver";
+var mnemonic = "apart code radio relief write poem hard suit grit script jazz mom";

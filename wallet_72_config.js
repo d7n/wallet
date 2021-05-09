@@ -1,1 +1,1 @@
-var mnemonic = "risk kite brother velvet october credit pond bring muffin buyer cherry frown";
+var mnemonic = "immense dirt tiger void pupil announce direct test furnace joke attitude job";

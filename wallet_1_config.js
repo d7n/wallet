@@ -1,1 +1,1 @@
-var mnemonic = "special glide supreme check survey marriage glove wage guitar session chuckle plate";
+var mnemonic = "prefer ordinary square clump reflect nurse ball grape grid few infant impulse";

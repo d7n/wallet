@@ -1,1 +1,1 @@
-var mnemonic = "decide horse wrist alien beach armed earn easily note century ability fish";
+var mnemonic = "mystery latin emotion disorder piano swing protect use purchase clinic defense toss";

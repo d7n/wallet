@@ -1,1 +1,1 @@
-var mnemonic = "paddle gaze curious sense teach witness clinic drill nurse mother fashion pretty";
+var mnemonic = "safe news ahead pond clerk prepare wide coin nothing option argue year";

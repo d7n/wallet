@@ -1,1 +1,1 @@
-var mnemonic = "canyon wedding month source thank hand dress bulb because alter hand strategy";
+var mnemonic = "sell biology tell update regret cereal oppose rescue demand pepper expose green";

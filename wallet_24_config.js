@@ -1,1 +1,1 @@
-var mnemonic = "glare trend unit dog curious liberty silk bulb canoe digital forum stand";
+var mnemonic = "summer coconut royal entry mango recycle flavor gaze churn another fuel okay";

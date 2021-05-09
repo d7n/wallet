@@ -1,1 +1,1 @@
-var mnemonic = "vendor stool witness that because shine vivid social exist typical perfect vivid";
+var mnemonic = "timber fence always tragic vibrant artwork breeze execute hawk across garage north";

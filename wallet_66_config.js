@@ -1,1 +1,1 @@
-var mnemonic = "fire during borrow relax trial rapid deer collect road eager atom wing";
+var mnemonic = "task spirit orient hungry zero dinosaur treat rocket tumble steel loyal tired";

@@ -1,1 +1,1 @@
-var mnemonic = "document prize opera endorse manage speak olive pull canoe doctor coffee rose";
+var mnemonic = "divert prefer moon vapor sting also pony prepare wear weather arrive turtle";

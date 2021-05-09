@@ -1,1 +1,1 @@
-var mnemonic = "birth chest online table tiger dolphin play whip design fly voice kid";
+var mnemonic = "hospital express exclude item act group spin unlock place pull argue leopard";

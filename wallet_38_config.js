@@ -1,1 +1,1 @@
-var mnemonic = "critic worth daughter eye transfer major true market nephew salt toy exotic";
+var mnemonic = "art grid hollow jump change fox write payment history coral decade effort";

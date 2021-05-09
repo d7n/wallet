@@ -1,1 +1,1 @@
-var mnemonic = "sketch quick walk kick document toast guitar chuckle usual grab save visit";
+var mnemonic = "approve power quantum ozone rule amazing genre trumpet unknown fade float elbow";

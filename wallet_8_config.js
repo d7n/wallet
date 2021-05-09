@@ -1,1 +1,1 @@
-var mnemonic = "gaze attack nut hurdle action super abuse time above unfold slab try";
+var mnemonic = "original drift spoil various obvious evidence please extend found food make scene";

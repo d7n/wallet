@@ -1,1 +1,1 @@
-var mnemonic = "flock clinic prefer creek orphan member stable cinnamon mutual impact flame enforce";
+var mnemonic = "thought custom art team practice ill current crunch frequent melody clever high";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey cannon throw tag hurdle plate special hard amazing glass uncover ghost";
+var mnemonic = "excite assume ticket service coin appear royal step offer wash milk cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug news leave cook walnut mix pluck own wolf damp such goat";
+var mnemonic = "snow music adapt rapid amazing sell spike artefact bacon melody squirrel erode";

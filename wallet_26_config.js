@@ -1,1 +1,1 @@
-var mnemonic = "sad weird congress hybrid fold depart possible foster tongue glare tank game";
+var mnemonic = "motion nurse fee deputy title awesome math glue submit drink bamboo return";

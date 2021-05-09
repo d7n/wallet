@@ -1,1 +1,1 @@
-var mnemonic = "primary off best club nose cash spring penalty capital increase angle glance";
+var mnemonic = "paddle black west govern pond pencil spare river carry gossip expand culture";

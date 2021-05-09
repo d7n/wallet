@@ -1,1 +1,1 @@
-var mnemonic = "snow convince panel teach child frozen maid mixed egg frequent select luggage";
+var mnemonic = "peanut basket glance sausage predict roast bind exile curve anchor foil pill";

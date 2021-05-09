@@ -1,1 +1,1 @@
-var mnemonic = "prevent fork elder text garage open student neglect spell urge bar segment";
+var mnemonic = "rescue gap limit person muscle long change alter lunar side coffee crouch";

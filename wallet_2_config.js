@@ -1,1 +1,1 @@
-var mnemonic = "ride include escape window start omit once sport abuse undo timber adult";
+var mnemonic = "also person lamp captain grid add umbrella normal chunk whisper urban metal";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt venue lift protect truly harsh tuition mom spike census daring wage";
+var mnemonic = "chaos bike wrap crater nose uncover someone deputy action razor forest omit";

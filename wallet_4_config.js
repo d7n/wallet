@@ -1,1 +1,1 @@
-var mnemonic = "dutch sniff list fog witness elite source lottery burst wrong force helmet";
+var mnemonic = "reflect sudden day pelican resist alien limb destroy change lounge glance old";

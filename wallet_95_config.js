@@ -1,1 +1,1 @@
-var mnemonic = "lens distance worth decade hotel delay fault later arm blade punch ride";
+var mnemonic = "eternal turn maze virus race object gate drastic chapter much visual avoid";

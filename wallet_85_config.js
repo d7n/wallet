@@ -1,1 +1,1 @@
-var mnemonic = "real final smooth flock abstract mountain oven crane hobby dose genius unfold";
+var mnemonic = "pretty liberty victory top long limit slush diagram trial search tuna street";

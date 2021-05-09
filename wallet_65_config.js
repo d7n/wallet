@@ -1,1 +1,1 @@
-var mnemonic = "torch royal drill entire two marine october never under denial check hockey";
+var mnemonic = "second bulk account number enrich sick pass main disagree spell have size";

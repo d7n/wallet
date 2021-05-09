@@ -1,1 +1,1 @@
-var mnemonic = "sweet room twist bicycle camp orphan east burger board math erupt solid";
+var mnemonic = "plunge announce pepper peasant milk sound disease hurt immense season basic arctic";

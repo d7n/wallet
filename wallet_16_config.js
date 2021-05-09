@@ -1,1 +1,1 @@
-var mnemonic = "loan great crash rent banana voyage clarify thing exhaust swarm siren flower";
+var mnemonic = "patient true neutral useless crystal mystery brown purity aerobic depend hour brain";

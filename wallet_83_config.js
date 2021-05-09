@@ -1,1 +1,1 @@
-var mnemonic = "worth sphere brush burst orient inflict census blade squeeze ask fix relax";
+var mnemonic = "choose verb actual tuition arrive monster put disagree rocket correct cradle fashion";

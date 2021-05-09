@@ -1,1 +1,1 @@
-var mnemonic = "smile scale forest false stomach wool door wet join name unfold truth";
+var mnemonic = "toss despair boost father art outer peasant bring beauty ability pride afford";

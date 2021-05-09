@@ -1,1 +1,1 @@
-var mnemonic = "rely ship uniform dragon afford foil runway always garage behave improve nasty";
+var mnemonic = "oven immune stage wear course visual lumber stool equal steel school unit";

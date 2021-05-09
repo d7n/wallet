@@ -1,1 +1,1 @@
-var mnemonic = "disease now clay parade warrior next sort breeze juice path approve various";
+var mnemonic = "later hidden can mosquito impact dragon wreck carpet bottom dawn violin assist";

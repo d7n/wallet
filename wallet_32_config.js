@@ -1,1 +1,1 @@
-var mnemonic = "fruit eye goddess lizard depart grab coil post jealous junk slide tenant";
+var mnemonic = "state fortune famous nothing rail surface thing coffee rally case guide train";

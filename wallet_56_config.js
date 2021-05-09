@@ -1,1 +1,1 @@
-var mnemonic = "staff trouble smooth loyal man ancient lava magnet raven post fog balcony";
+var mnemonic = "naive rate thing tent mean wink apart kitten enemy load seek rice";

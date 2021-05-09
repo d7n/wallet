@@ -1,1 +1,1 @@
-var mnemonic = "slight giggle topic august blanket ring slot air pull canvas fork multiply";
+var mnemonic = "few outside neither salt stereo system setup loop cruel step pilot panic";

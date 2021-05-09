@@ -1,1 +1,1 @@
-var mnemonic = "enforce seek believe relief donkey amazing punch educate ugly injury glue extra";
+var mnemonic = "silent hub absurd obtain orange river drive team minor horn silent keep";

@@ -1,1 +1,1 @@
-var mnemonic = "habit forum bullet bottom tennis fame truck absent argue sheriff voyage decade";
+var mnemonic = "dove attack tower body hazard eager leave snake anger blanket example dice";

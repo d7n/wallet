@@ -1,1 +1,1 @@
-var mnemonic = "force renew duty various hub mechanic powder hammer spread glimpse grape dial";
+var mnemonic = "next step net velvet company run expect regular celery brown knock castle";

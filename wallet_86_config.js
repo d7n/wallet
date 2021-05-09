@@ -1,1 +1,1 @@
-var mnemonic = "bracket matrix report choice salon grass clarify picture climb close lava judge";
+var mnemonic = "cross penalty blouse change piece square suggest flight knee initial barely minute";

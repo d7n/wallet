@@ -1,1 +1,1 @@
-var mnemonic = "tank replace exist champion copy involve entire invest february misery mixed stove";
+var mnemonic = "cluster decide silent zone thank vibrant phone senior gossip six type invest";

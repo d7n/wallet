@@ -1,1 +1,1 @@
-var mnemonic = "quit mail sister coach margin feed submit put around step story pilot";
+var mnemonic = "race orbit flavor praise purchase vapor sketch together seven route toast inner";

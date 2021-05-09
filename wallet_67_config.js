@@ -1,1 +1,1 @@
-var mnemonic = "spike great grocery marriage lottery patrol grace merit aware gallery crop crop";
+var mnemonic = "citizen biology chuckle able prevent lab menu wool dune clump era current";

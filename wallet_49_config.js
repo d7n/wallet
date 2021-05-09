@@ -1,1 +1,1 @@
-var mnemonic = "junk reunion spray license motor enhance huge virus exact poem crumble meat";
+var mnemonic = "rival brand unhappy slide tomorrow blossom act piano torch elite cricket route";

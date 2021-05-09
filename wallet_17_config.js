@@ -1,1 +1,1 @@
-var mnemonic = "reward nuclear uncle manual horn day view addict machine only veteran erode";
+var mnemonic = "dream hub duty fiscal reason thrive virus behave seek raw shift barrel";

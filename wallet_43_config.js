@@ -1,1 +1,1 @@
-var mnemonic = "aspect boss foster drama wine recipe guilt raw leisure trim sight oppose";
+var mnemonic = "fox dilemma grant brown about defy famous million profit acquire auto clog";

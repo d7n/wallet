@@ -1,1 +1,1 @@
-var mnemonic = "bleak brass riot save around weasel burst suspect boss junk side session";
+var mnemonic = "solar canyon cotton skin below orient enforce trigger dice toddler census short";

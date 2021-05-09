@@ -1,1 +1,1 @@
-var mnemonic = "fossil security jazz road train dignity reduce element slim suggest front copper";
+var mnemonic = "cause bracket detail zero target mango borrow syrup because solve genre atom";

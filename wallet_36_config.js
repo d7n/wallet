@@ -1,1 +1,1 @@
-var mnemonic = "gap digital water notice universe envelope opinion radio train level used wing";
+var mnemonic = "mother accident left scissors essay cousin corn giraffe popular purse rich erode";

@@ -1,1 +1,1 @@
-var mnemonic = "tide twelve note discover venture elbow reward poem diagram elegant train vacuum";
+var mnemonic = "logic cotton bargain control ask notice mechanic dawn finger predict detail depart";

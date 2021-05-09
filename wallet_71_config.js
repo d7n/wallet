@@ -1,1 +1,1 @@
-var mnemonic = "shift february renew planet limb ancient soldier elephant hood skate twice hobby";
+var mnemonic = "appear jungle retire supreme blade fire oblige west view tobacco mechanic lab";

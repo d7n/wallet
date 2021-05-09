@@ -1,1 +1,1 @@
-var mnemonic = "clip best daring loop rural clown suit erode myself wing crucial ocean";
+var mnemonic = "wife purity blanket enact uniform orphan canyon pudding family bubble anxiety excuse";

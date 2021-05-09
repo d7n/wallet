@@ -1,1 +1,1 @@
-var mnemonic = "mirror disagree tired hand brisk false number rigid render sudden ugly floor";
+var mnemonic = "speed inflict parrot vast sister verify obey nest sure few inspire able";

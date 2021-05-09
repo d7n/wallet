@@ -1,1 +1,1 @@
-var mnemonic = "major expect item judge profit switch love material cherry canal magnet correct";
+var mnemonic = "obey misery filter east among emerge hybrid bless absent trick away stuff";

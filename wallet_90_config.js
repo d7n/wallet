@@ -1,1 +1,1 @@
-var mnemonic = "snake vacant erosion adjust derive topic exile pet farm man nothing scout";
+var mnemonic = "piece ankle punch around ankle beyond beyond illegal energy interest clog tip";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic host glass bid obscure digital solve approve cat pulse cup surface";
+var mnemonic = "cigar yard very finish pole crater lion pizza wagon island define project";

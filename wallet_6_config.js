@@ -1,1 +1,1 @@
-var mnemonic = "tool multiply scorpion exile include good glass faint oppose view solve figure";
+var mnemonic = "plate win wet spawn record sell walnut hunt system female farm name";

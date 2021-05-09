@@ -1,1 +1,1 @@
-var mnemonic = "enter there kitten must cute media spirit plate flower truly talent episode";
+var mnemonic = "abstract enact height fragile clever fatigue kitchen cabbage soft next noodle pulp";

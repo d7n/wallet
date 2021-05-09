@@ -1,1 +1,1 @@
-var mnemonic = "donor van absorb below match minute agent summer obscure goat ecology right";
+var mnemonic = "exit rain lab into rent nose street mother large friend dawn task";
