@@ -1,1 +1,1 @@
-var mnemonic = "wash endorse color usual catch day dress rival champion mansion saddle latin";
+var mnemonic = "enemy buzz hard concert swarm fabric distance country lucky type strategy endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar only roof advice cat cover turtle nasty fatal goose pledge guilt";
+var mnemonic = "buzz hub defense favorite grow put confirm street involve food field conduct";

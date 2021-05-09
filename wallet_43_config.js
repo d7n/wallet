@@ -1,1 +1,1 @@
-var mnemonic = "believe welcome bike mixed swift length garbage crumble rule cancel hero bitter";
+var mnemonic = "seek uphold noble betray ball slush away trigger plunge heavy swear depend";

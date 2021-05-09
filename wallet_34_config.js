@@ -1,1 +1,1 @@
-var mnemonic = "relax boring story tissue mule magic fancy mountain minimum error sausage try";
+var mnemonic = "enough plate arrange trust cream math draft interest into core snake recall";

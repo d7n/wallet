@@ -1,1 +1,1 @@
-var mnemonic = "image stomach gun genuine lunch myth pond fringe pencil pizza marble slender";
+var mnemonic = "alter margin indoor harsh consider vehicle devote dash kiss coral fence palace";

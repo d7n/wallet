@@ -1,1 +1,1 @@
-var mnemonic = "glance job tower dash knee gift absent marble more make wide secret";
+var mnemonic = "share crumble south shield mad wonder wage sort crouch example neutral victory";

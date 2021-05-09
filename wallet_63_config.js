@@ -1,1 +1,1 @@
-var mnemonic = "endorse forget three shrug derive vessel window benefit trigger aware retreat dwarf";
+var mnemonic = "cover loyal shiver churn dawn practice train miss early leave sister myth";

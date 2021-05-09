@@ -1,1 +1,1 @@
-var mnemonic = "material razor brave resemble cruel harvest fox blind advice debris obscure example";
+var mnemonic = "idle sail element hard index pave arrive fun blanket people reflect spell";

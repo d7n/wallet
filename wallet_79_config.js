@@ -1,1 +1,1 @@
-var mnemonic = "fold earn journey embrace language enjoy avoid pass private swing valve tortoise";
+var mnemonic = "school card diamond typical plunge cloud brave canvas bomb story sudden double";

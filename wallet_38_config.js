@@ -1,1 +1,1 @@
-var mnemonic = "legend transfer possible fox pyramid screen source drama rose goat faculty gorilla";
+var mnemonic = "evidence axis consider little code crack such diagram hungry uncle high clinic";

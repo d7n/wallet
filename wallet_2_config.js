@@ -1,1 +1,1 @@
-var mnemonic = "sing refuse symptom gadget net prepare elbow across dynamic budget liar captain";
+var mnemonic = "little life monster family slim lemon chunk banner gesture birth oven carbon";

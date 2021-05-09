@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit burger mirror unique under supreme thank dust guitar universe paper solve";
+var mnemonic = "direct party dune carbon finger addict tell beef license priority business town";

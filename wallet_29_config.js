@@ -1,1 +1,1 @@
-var mnemonic = "kitchen differ then pledge denial push party salon beauty snack reason flat";
+var mnemonic = "eight ginger faith easy spot entry release tip diet noble already thank";

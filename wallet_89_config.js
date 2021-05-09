@@ -1,1 +1,1 @@
-var mnemonic = "upgrade figure obey success between help account demand coconut object evidence ring";
+var mnemonic = "team humble credit vanish salute desert spare tape neutral note lift find";

@@ -1,1 +1,1 @@
-var mnemonic = "adult crunch two radar feel rare hip imitate group forum disagree duty";
+var mnemonic = "conduct draft cabbage debate royal unusual upon behave glove replace average asset";

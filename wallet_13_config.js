@@ -1,1 +1,1 @@
-var mnemonic = "suit destroy major miss bus above universe train embrace assist roast ostrich";
+var mnemonic = "slot renew drip debate economy purchase farm crew collect river pass image";

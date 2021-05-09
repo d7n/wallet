@@ -1,1 +1,1 @@
-var mnemonic = "grant worth print project pretty arm purchase detect boy jungle two trap";
+var mnemonic = "club isolate amused strike parrot bulb scout short long please retire arm";

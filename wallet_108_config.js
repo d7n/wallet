@@ -1,1 +1,1 @@
-var mnemonic = "equal differ jazz floor exchange dutch nose economy own wash quick reform";
+var mnemonic = "fringe code situate spend plate cushion true virtual industry neutral switch card";

@@ -1,1 +1,1 @@
-var mnemonic = "food walk cactus pond nose unhappy claim soda cry razor timber spike";
+var mnemonic = "include trial bright amused decline spider twin permit swift recycle analyst attack";

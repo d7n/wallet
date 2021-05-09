@@ -1,1 +1,1 @@
-var mnemonic = "sister average old hollow bulk nephew fringe tube vague scale duck sibling";
+var mnemonic = "oil piano mask surge moral citizen case road steak base begin wrong";

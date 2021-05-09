@@ -1,1 +1,1 @@
-var mnemonic = "explain want burger ride immense desk ribbon name exhaust install true finger";
+var mnemonic = "van item wrong crazy match check stock peanut short very deal alter";

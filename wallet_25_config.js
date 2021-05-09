@@ -1,1 +1,1 @@
-var mnemonic = "borrow amateur skull gasp case steel material furnace safe idle just question";
+var mnemonic = "announce disorder purity route wonder town arctic next must enlist address six";

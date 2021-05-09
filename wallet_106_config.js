@@ -1,1 +1,1 @@
-var mnemonic = "soap refuse income kitten nurse display deposit purity deal worry inmate unable";
+var mnemonic = "cupboard polar essence uphold goddess head ribbon sniff clinic garlic real tooth";

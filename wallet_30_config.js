@@ -1,1 +1,1 @@
-var mnemonic = "child position banana shove render rail news crater job news beef dog";
+var mnemonic = "whale stove daring antique fit canal april quiz digital arm candy science";

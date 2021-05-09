@@ -1,1 +1,1 @@
-var mnemonic = "dizzy monkey bean such pause fish sport pepper essence become mom pause";
+var mnemonic = "fresh sick day calm category basket combine match pact report lizard wrap";

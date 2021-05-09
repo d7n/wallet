@@ -1,1 +1,1 @@
-var mnemonic = "soap close wing travel parent copper drop mother science ahead slam picture";
+var mnemonic = "stage calm ski couple rotate chest knee flight nature arm birth add";

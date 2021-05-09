@@ -1,1 +1,1 @@
-var mnemonic = "special include ghost shift fragile world fortune jeans bamboo pumpkin scale recall";
+var mnemonic = "cannon hamster crumble train hungry road remind rhythm that wife youth junk";

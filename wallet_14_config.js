@@ -1,1 +1,1 @@
-var mnemonic = "gallery ordinary deal original canyon apology tattoo remember riot fantasy naive already";
+var mnemonic = "degree pear crane crazy huge village copper fury rug include vivid mad";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp enroll online skirt nature amount fat shoe scan rebel grid bean";
+var mnemonic = "second cart charge bunker course involve fit portion swamp else system repair";

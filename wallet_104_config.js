@@ -1,1 +1,1 @@
-var mnemonic = "drama payment aspect gown couple cousin major galaxy story reason swamp spirit";
+var mnemonic = "talent act helmet fantasy traffic swing cloth public sea gadget pet boss";

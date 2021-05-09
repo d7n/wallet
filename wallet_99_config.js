@@ -1,1 +1,1 @@
-var mnemonic = "main dry relax essence claw start chuckle pave foster brown board fox";
+var mnemonic = "shell alcohol joy already echo brown coin chief cactus orbit century pupil";

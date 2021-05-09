@@ -1,1 +1,1 @@
-var mnemonic = "aerobic glory animal property offer room naive together maze myself simple suspect";
+var mnemonic = "comfort heart sad bone life cereal act lava tool seed nerve pottery";

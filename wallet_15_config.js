@@ -1,1 +1,1 @@
-var mnemonic = "stereo annual neither ketchup task attack offer castle october domain author universe";
+var mnemonic = "record patient cruise impulse donor replace review indicate crawl flock security hole";

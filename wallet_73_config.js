@@ -1,1 +1,1 @@
-var mnemonic = "reform border purse hospital police ostrich lecture box social metal divorce cousin";
+var mnemonic = "buddy banana race release helmet utility gym judge burger creek group labor";

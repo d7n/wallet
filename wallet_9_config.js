@@ -1,1 +1,1 @@
-var mnemonic = "shock tool mean rough soup silver afraid frost leisure field swamp network";
+var mnemonic = "stand off inside clinic powder walk lonely base february welcome fitness sunset";

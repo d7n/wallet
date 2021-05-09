@@ -1,1 +1,1 @@
-var mnemonic = "bag video square hobby flush stove fun bid sheriff note satoshi crystal";
+var mnemonic = "crack identify wage else broken rib pulp detail cricket best picnic neither";

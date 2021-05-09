@@ -1,1 +1,1 @@
-var mnemonic = "retire man ancient eternal dutch garlic metal agree exchange suspect joy parrot";
+var mnemonic = "access switch mouse remove elder ugly rigid start wonder patch few fun";

@@ -1,1 +1,1 @@
-var mnemonic = "shift ahead picnic lottery rapid dizzy idle drift memory you inquiry army";
+var mnemonic = "crazy speak damp extend silent exercise flight hire illegal guess short bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "defense alter hold learn wear dismiss client gauge trick invest possible keep";
+var mnemonic = "doctor despair immense panther focus census express exhibit soap abandon bracket tourist";

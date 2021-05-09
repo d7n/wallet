@@ -1,1 +1,1 @@
-var mnemonic = "abandon hero trick mom dirt radio off roof into grow acquire lady";
+var mnemonic = "fix brain purchase service bunker ecology fabric portion quick ordinary dragon bring";

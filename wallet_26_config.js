@@ -1,1 +1,1 @@
-var mnemonic = "achieve title lens model brain visa profit sell hockey demand method artwork";
+var mnemonic = "diet thank census pride tiger cute sorry eyebrow sting charge flush elbow";

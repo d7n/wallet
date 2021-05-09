@@ -1,1 +1,1 @@
-var mnemonic = "grab make slot close mother raccoon ability dinosaur rookie below pupil tobacco";
+var mnemonic = "physical village vacant mother leopard kite wrist destroy sauce useful idle cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest degree chat sure upset hammer august job prepare hint betray around";
+var mnemonic = "announce shine improve tilt wall cross essence hub share payment swift suffer";

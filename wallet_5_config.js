@@ -1,1 +1,1 @@
-var mnemonic = "garlic social affair fiber bamboo snack print cup cross prepare timber mobile";
+var mnemonic = "gift green enforce side atom motion swear scrap local artist quote senior";

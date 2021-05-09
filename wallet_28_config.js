@@ -1,1 +1,1 @@
-var mnemonic = "october leisure chief original vast review mind party half muscle pitch year";
+var mnemonic = "viable all segment salon glance draw place struggle hard modify warm filter";

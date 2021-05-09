@@ -1,1 +1,1 @@
-var mnemonic = "fat bid cotton churn palm comfort scheme voice affair stomach perfect sustain";
+var mnemonic = "problem surface child wash quarter write scan smoke hurdle genuine record leopard";

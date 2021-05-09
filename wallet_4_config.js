@@ -1,1 +1,1 @@
-var mnemonic = "token session cloud doll curve lion copy bronze situate ethics garlic share";
+var mnemonic = "glad heavy fence garage primary field couple void benefit bind noodle world";

@@ -1,1 +1,1 @@
-var mnemonic = "race luggage dilemma october spice shuffle skull core clog reward mad turn";
+var mnemonic = "actor later middle material country daughter easy evil firm drama word develop";

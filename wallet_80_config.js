@@ -1,1 +1,1 @@
-var mnemonic = "work voyage home father soul real flip motion modify baby right street";
+var mnemonic = "cycle aisle grant disorder begin stamp weather crop hill town sheriff endless";

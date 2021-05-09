@@ -1,1 +1,1 @@
-var mnemonic = "august raise room wink type fire fee business render snap during office";
+var mnemonic = "tool dog dove unveil age pottery lemon super neglect insane inner text";

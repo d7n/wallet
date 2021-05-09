@@ -1,1 +1,1 @@
-var mnemonic = "middle convince funny brass slogan small sunset play brass fence describe limb";
+var mnemonic = "eternal ticket middle symptom tilt need tennis gown play impact spatial thought";

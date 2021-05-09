@@ -1,1 +1,1 @@
-var mnemonic = "blade velvet clutch price state drop present effort emerge catalog better term";
+var mnemonic = "benefit build witness rude fossil ice purpose old game custom brass cute";

@@ -1,1 +1,1 @@
-var mnemonic = "point icon silver fabric duck multiply brush question sniff woman also hill";
+var mnemonic = "green sudden ask spell blame balance total burger minor issue update travel";

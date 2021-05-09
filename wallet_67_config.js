@@ -1,1 +1,1 @@
-var mnemonic = "tumble waste cart shrug foil vibrant gospel blast flash hand image mom";
+var mnemonic = "mad jump inform pumpkin disagree exhibit arrest person observe shove humble knife";

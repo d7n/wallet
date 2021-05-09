@@ -1,1 +1,1 @@
-var mnemonic = "erosion melody refuse clog people ostrich economy tackle similar ill twenty history";
+var mnemonic = "position wish waste swear faculty roast sort dumb claim erosion knee follow";

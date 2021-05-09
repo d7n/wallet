@@ -1,1 +1,1 @@
-var mnemonic = "stuff first sweet ghost there traffic stuff mercy regular pair arrange pattern";
+var mnemonic = "stone verb over swing eternal surprise dilemma cereal mango wall skull decide";

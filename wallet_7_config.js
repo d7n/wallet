@@ -1,1 +1,1 @@
-var mnemonic = "reflect suspect range runway enroll danger volcano bring embody diagram pigeon finish";
+var mnemonic = "blush outdoor radio atom deal ahead margin cute pill divorce flower tower";

@@ -1,1 +1,1 @@
-var mnemonic = "wife tilt recycle critic error stock task merit initial erode sting bind";
+var mnemonic = "laugh input blade twelve heart genre wrap moment exile iron pumpkin struggle";

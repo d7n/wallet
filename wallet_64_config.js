@@ -1,1 +1,1 @@
-var mnemonic = "surface labor board spider allow quarter nest wife issue drama close slogan";
+var mnemonic = "double guilt october nuclear broom pony author chest victory sugar siren clerk";

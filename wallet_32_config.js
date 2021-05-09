@@ -1,1 +1,1 @@
-var mnemonic = "neck arrest potato meadow basket squeeze dismiss space extend antenna furnace sketch";
+var mnemonic = "mobile town aerobic tired verify mask neither luxury catch prefer pattern logic";

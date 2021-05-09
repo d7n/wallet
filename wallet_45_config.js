@@ -1,1 +1,1 @@
-var mnemonic = "crane lawsuit render purity pudding siege mushroom century stereo purse drastic loud";
+var mnemonic = "minute radar gloom aunt ethics neck enemy paddle chuckle worry found obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty over like help chuckle roof morning crane fantasy ensure rhythm sweet";
+var mnemonic = "kick salute release erase priority badge wise endorse move noise destroy isolate";

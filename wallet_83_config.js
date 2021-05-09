@@ -1,1 +1,1 @@
-var mnemonic = "clown foam donate cloth old bone total under gesture sword student fun";
+var mnemonic = "stomach usage bottom vapor social novel hold awake movie wait chaos behave";

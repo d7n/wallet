@@ -1,1 +1,1 @@
-var mnemonic = "legal bridge trouble stick forward milk genre mystery profit decorate earth water";
+var mnemonic = "south mobile wrestle purpose knife waste fashion afford monkey top cat transfer";

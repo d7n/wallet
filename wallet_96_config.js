@@ -1,1 +1,1 @@
-var mnemonic = "arrange useful account scrap link rubber build cargo mammal lesson erode wasp";
+var mnemonic = "pudding various movie imitate all glove mass useless solid wreck aunt deliver";

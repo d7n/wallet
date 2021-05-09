@@ -1,1 +1,1 @@
-var mnemonic = "foot stove public owner play face spoil noise chef okay wrist tool";
+var mnemonic = "blossom nut flee glove acquire silk have connect surround noble consider tenant";

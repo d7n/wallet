@@ -1,1 +1,1 @@
-var mnemonic = "drum response digital hurt run clog mail infant sure pride armed kitchen";
+var mnemonic = "short father phrase company trigger surprise armed wheel that point rely interest";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic apology cube sight across torch advance craft state deer smile wear";
+var mnemonic = "spy volcano spatial night solid dose couch hunt diamond alley purpose abuse";

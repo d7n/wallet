@@ -1,1 +1,1 @@
-var mnemonic = "forget grunt grain bulk century layer inch trend bacon tomorrow crime frozen";
+var mnemonic = "butter typical birth oven accident zoo record boy allow thunder draw zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "extend exhibit advice jaguar summer useless tell below exit muffin bronze night";
+var mnemonic = "fence vapor peanut session magic prefer crack equip dwarf wheel cat erode";

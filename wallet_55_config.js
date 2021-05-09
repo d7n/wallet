@@ -1,1 +1,1 @@
-var mnemonic = "beyond range small phone predict into quit mail cradle file script ramp";
+var mnemonic = "alone clever fiction drift auto wrap giraffe pause gate depend auction climb";

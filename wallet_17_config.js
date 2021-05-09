@@ -1,1 +1,1 @@
-var mnemonic = "lunar amused camera okay coffee wrestle boil arm guide shuffle original blanket";
+var mnemonic = "cluster bottom laptop deliver asset short struggle face install possible casino hotel";

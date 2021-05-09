@@ -1,1 +1,1 @@
-var mnemonic = "clinic lab grocery lift dinosaur noble game ivory model gaze sheriff ignore";
+var mnemonic = "cement gossip oyster cinnamon monitor element bread unaware glow cart snake muscle";

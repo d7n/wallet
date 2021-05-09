@@ -1,1 +1,1 @@
-var mnemonic = "walk height lamp act slice donate invest ability butter cloud flush novel";
+var mnemonic = "spell render someone obscure cluster bus minute toy clay manual program album";

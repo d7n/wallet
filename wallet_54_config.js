@@ -1,1 +1,1 @@
-var mnemonic = "shrug mask reflect foster filter system sand leisure perfect song wreck warm";
+var mnemonic = "market balance clever shiver diesel neutral submit always man muscle reject dove";

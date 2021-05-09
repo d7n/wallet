@@ -1,1 +1,1 @@
-var mnemonic = "priority evil warrior bind lunch hip balcony simple afraid lucky present loan";
+var mnemonic = "tragic arrive priority level stereo primary moment else pattern rhythm destroy torch";

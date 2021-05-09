@@ -1,1 +1,1 @@
-var mnemonic = "exact enforce busy cotton river obtain siren proof leaf drink opera unit";
+var mnemonic = "flip maximum awkward trash insect alarm maid myself choose oppose giggle wreck";

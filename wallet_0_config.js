@@ -1,1 +1,1 @@
-var mnemonic = "quality fetch unique gap chronic vibrant soda call puzzle you holiday drama";
+var mnemonic = "turtle romance genuine citizen ask bridge imitate grow like lumber banana hollow";

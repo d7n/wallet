@@ -1,1 +1,1 @@
-var mnemonic = "initial travel badge trap card crime tenant okay rhythm elephant normal mad";
+var mnemonic = "fantasy coil drip genuine impulse nephew master limb slight veteran month useful";

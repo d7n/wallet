@@ -1,1 +1,1 @@
-var mnemonic = "jacket service pink trend upset dolphin proud violin average fiscal ensure art";
+var mnemonic = "tell meadow spider minor quick peasant spoil tone awake attack ozone buyer";

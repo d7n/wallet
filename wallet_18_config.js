@@ -1,1 +1,1 @@
-var mnemonic = "sudden carry install arm machine jealous patrol client economy expose jealous evoke";
+var mnemonic = "mistake potato staff amateur forum opinion silly eager stone ensure candy syrup";

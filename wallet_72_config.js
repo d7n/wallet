@@ -1,1 +1,1 @@
-var mnemonic = "hood federal bacon draw grow amateur zoo theory young mask outdoor nature";
+var mnemonic = "inspire client erupt require walnut hat zero document dream tortoise region voyage";

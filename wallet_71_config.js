@@ -1,1 +1,1 @@
-var mnemonic = "unusual member stock dawn tip mom seek kitten east frozen town void";
+var mnemonic = "hurdle surprise occur try vocal honey copper safe stairs chicken upper rebuild";

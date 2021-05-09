@@ -1,1 +1,1 @@
-var mnemonic = "income couch behave clump shoulder dog vacuum bullet begin garage pupil swamp";
+var mnemonic = "hospital identify deny payment caught pen pole dismiss size sport citizen stove";

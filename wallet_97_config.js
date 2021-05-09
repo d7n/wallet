@@ -1,1 +1,1 @@
-var mnemonic = "smart dumb draft invite top scene latin comfort retire board suffer trend";
+var mnemonic = "sunset prevent secret month quick vacuum nation front custom stool candy critic";
