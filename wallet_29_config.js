@@ -1,1 +1,1 @@
-var mnemonic = "outside draft solar hockey hub token reopen cricket season comfort dose infant";
+var mnemonic = "tenant mix opera strong apart rubber federal demand again people truth divert";

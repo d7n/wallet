@@ -1,1 +1,1 @@
-var mnemonic = "sunset regret region view favorite purity barely cement right tackle ghost sound";
+var mnemonic = "mix talk ocean blossom regular wear cost pair worry custom frame kid";

@@ -1,1 +1,1 @@
-var mnemonic = "since frown verb quality dawn garage melt math knee virus lake baby";
+var mnemonic = "among enlist cancel announce taxi pluck mango final poem elder same donate";

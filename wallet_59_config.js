@@ -1,1 +1,1 @@
-var mnemonic = "deny net transfer meadow wide decade slam day shock ticket word crash";
+var mnemonic = "news category shift measure night enemy pulp fuel swear shop opinion steel";

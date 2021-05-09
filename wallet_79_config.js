@@ -1,1 +1,1 @@
-var mnemonic = "scare library tattoo tunnel milk erode wrong gasp habit loan eight swear";
+var mnemonic = "rule fog fun festival universe stone furnace control cigar pair oblige diesel";

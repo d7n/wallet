@@ -1,1 +1,1 @@
-var mnemonic = "guess hidden seek okay install pepper glide ceiling middle choice junior donate";
+var mnemonic = "list coin tape friend hamster veteran napkin company soup satoshi excite option";

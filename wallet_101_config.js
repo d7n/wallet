@@ -1,1 +1,1 @@
-var mnemonic = "lock cream odor breeze interest nurse invest core pelican mix boil cram";
+var mnemonic = "like million test cool secret fold spread matrix cool today question ghost";

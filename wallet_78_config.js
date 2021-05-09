@@ -1,1 +1,1 @@
-var mnemonic = "toward seat surface curve select gorilla brain trash goose victory bottom coil";
+var mnemonic = "useful play clinic kingdom image gaze dwarf hub toe demand health host";

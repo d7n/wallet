@@ -1,1 +1,1 @@
-var mnemonic = "cattle office black release smooth medal joke family whip vehicle puzzle expand";
+var mnemonic = "plunge apology west jaguar insane detect govern assume dice river next powder";

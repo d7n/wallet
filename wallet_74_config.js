@@ -1,1 +1,1 @@
-var mnemonic = "squeeze lawsuit blush donor powder wave security dash kiss glow average veteran";
+var mnemonic = "double pave olive jungle shoulder garage junior mosquito surge glove proof smoke";

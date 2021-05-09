@@ -1,1 +1,1 @@
-var mnemonic = "sad universe equip pole quality vintage join correct razor erode tape burst";
+var mnemonic = "valley online theory lunar cabbage glimpse champion chair filter invite echo glare";

@@ -1,1 +1,1 @@
-var mnemonic = "cross retreat mix acquire lend scan feed broom item donate thrive erupt";
+var mnemonic = "client index tuna course pattern gauge later tourist typical practice upon ship";

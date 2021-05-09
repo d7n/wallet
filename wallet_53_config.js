@@ -1,1 +1,1 @@
-var mnemonic = "utility wish legend truly divert cram swift coil exotic race kid luxury";
+var mnemonic = "glance proof milk donor crime capital rare also suspect plug quick divert";

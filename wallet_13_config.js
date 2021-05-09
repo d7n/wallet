@@ -1,1 +1,1 @@
-var mnemonic = "shoulder episode artwork science wife ripple move mesh oak cactus cactus smile";
+var mnemonic = "upon change wheel lock super primary skin ugly prize awkward ask girl";

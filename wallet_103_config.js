@@ -1,1 +1,1 @@
-var mnemonic = "feature mask again crop hidden sweet annual nut coin august conduct cupboard";
+var mnemonic = "echo squeeze bread owner urge common hard hat thrive increase upper relax";

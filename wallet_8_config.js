@@ -1,1 +1,1 @@
-var mnemonic = "wife owner liar mom defense pass biology fuel afraid arena grunt garage";
+var mnemonic = "chief nation rival belt clock soda melt throw dwarf enforce practice magic";

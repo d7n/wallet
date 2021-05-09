@@ -1,1 +1,1 @@
-var mnemonic = "wheel canoe evolve wood family game manual ask rescue oven pig cup";
+var mnemonic = "upon hero teach moon capable habit silk fix pioneer sick since scare";

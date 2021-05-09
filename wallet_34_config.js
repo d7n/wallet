@@ -1,1 +1,1 @@
-var mnemonic = "frown more talent menu pool token employ wrestle long shove patrol recall";
+var mnemonic = "whale rapid crack clever hawk access apple stable suspect hollow leopard basket";

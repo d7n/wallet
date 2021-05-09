@@ -1,1 +1,1 @@
-var mnemonic = "initial battle note palace mean express keen velvet disease guard waste proud";
+var mnemonic = "unfold coast hard develop asset small inhale picture dinosaur labor panic slim";

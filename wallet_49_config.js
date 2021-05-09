@@ -1,1 +1,1 @@
-var mnemonic = "hole rhythm antique miracle deer salad grain want awkward key embark exercise";
+var mnemonic = "cattle number claim open gallery coyote twelve upon warm taste mother hollow";

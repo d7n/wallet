@@ -1,1 +1,1 @@
-var mnemonic = "gas split gown please soccer climb recall ill position proof exchange economy";
+var mnemonic = "impact share height black nerve just enable drama already best acid prepare";

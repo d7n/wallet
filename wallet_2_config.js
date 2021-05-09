@@ -1,1 +1,1 @@
-var mnemonic = "squeeze race panic crazy type gloom neck assist deal wife swamp faint";
+var mnemonic = "waste wish kangaroo pencil various frequent creek shine open sure jaguar south";

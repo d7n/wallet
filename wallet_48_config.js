@@ -1,1 +1,1 @@
-var mnemonic = "attend point link practice trigger salad loyal remain survey borrow crop shop";
+var mnemonic = "deposit arch carry kite confirm chest bread shoot margin alpha erase goat";

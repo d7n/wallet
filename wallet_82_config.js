@@ -1,1 +1,1 @@
-var mnemonic = "beauty acid artist dawn device witness begin return taste twenty custom magic";
+var mnemonic = "coin toward enact junk nose crack bounce suit hedgehog online crack spawn";

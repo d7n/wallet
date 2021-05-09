@@ -1,1 +1,1 @@
-var mnemonic = "rhythm enter flash curtain rug reflect equal flower fortune strong latin divide";
+var mnemonic = "host actual bar material series muffin auction people video version heart clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen knife aerobic today float salon seven caught coil reunion follow swallow";
+var mnemonic = "plug aerobic possible feed rhythm pioneer clump fitness expect keep soul lady";

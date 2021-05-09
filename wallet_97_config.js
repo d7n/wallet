@@ -1,1 +1,1 @@
-var mnemonic = "fuel rate nuclear bright zebra master grant tail wasp sleep never anxiety";
+var mnemonic = "use play lyrics noble brown theme sheriff orient venue reward sure useful";

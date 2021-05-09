@@ -1,1 +1,1 @@
-var mnemonic = "decide gossip throw grow between ski scissors spray foster because where candy";
+var mnemonic = "unfair want mask very whip silent hotel initial easy slide vague second";

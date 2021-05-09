@@ -1,1 +1,1 @@
-var mnemonic = "solid discover hello help wrong world wink bomb old cause pass whale";
+var mnemonic = "blue rebuild urge physical market brisk woman wrist salute shoulder jeans front";

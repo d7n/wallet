@@ -1,1 +1,1 @@
-var mnemonic = "motor fiscal fresh chimney weird resemble payment energy main notable govern carry";
+var mnemonic = "wet glass catalog habit enter blanket summer unit enable dune fury index";

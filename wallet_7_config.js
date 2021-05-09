@@ -1,1 +1,1 @@
-var mnemonic = "bench sniff elbow bunker sting stumble unit december diesel tone chronic rookie";
+var mnemonic = "poet magnet point nominee seat bunker struggle height opera heart dolphin sheriff";

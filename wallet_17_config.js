@@ -1,1 +1,1 @@
-var mnemonic = "method random salt twice tragic census sense anchor dove claim poverty flight";
+var mnemonic = "poem twelve keep beyond home barely eagle great since arrange virtual outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "title kit abandon super gun nut light size drop property olive match";
+var mnemonic = "scrub nominee always approve token ensure inhale leg laundry someone inner advice";

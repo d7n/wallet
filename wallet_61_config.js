@@ -1,1 +1,1 @@
-var mnemonic = "wage dove wasp sun real hamster sail upgrade flag scheme hope auction";
+var mnemonic = "drastic trim matrix cry giant identify chimney session foil social sort walk";

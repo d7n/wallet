@@ -1,1 +1,1 @@
-var mnemonic = "valley broccoli vacuum wild gossip illegal rubber result mad another pair bomb";
+var mnemonic = "final bench island summer oppose quiz bench door exchange exhaust lonely merit";

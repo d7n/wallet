@@ -1,1 +1,1 @@
-var mnemonic = "present example sad album broken seed knee alarm board wing glory twin";
+var mnemonic = "crowd valid seven student test devote face wolf garage romance repeat cricket";

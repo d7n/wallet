@@ -1,1 +1,1 @@
-var mnemonic = "nose manual mechanic title claw medal cake eight there april match current";
+var mnemonic = "boy meat sniff galaxy erupt film disorder cradle insane flock hurt evoke";

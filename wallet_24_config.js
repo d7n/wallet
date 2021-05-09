@@ -1,1 +1,1 @@
-var mnemonic = "zone palace funny scene alert speed breeze become rapid velvet ethics flight";
+var mnemonic = "belt shoulder film execute tomorrow zebra either already audit frost year victory";

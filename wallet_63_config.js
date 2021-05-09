@@ -1,1 +1,1 @@
-var mnemonic = "amazing elevator answer report junior motion across program where body beyond avoid";
+var mnemonic = "host elbow fix ignore farm about arrow recall visual harbor picture pudding";

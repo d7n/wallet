@@ -1,1 +1,1 @@
-var mnemonic = "citizen siren crouch two purpose van method humor kick argue cave debate";
+var mnemonic = "mix neglect cabin vehicle case basket dutch super trumpet develop catalog electric";

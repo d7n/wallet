@@ -1,1 +1,1 @@
-var mnemonic = "recall maid purity bag behind drive trust strategy fee perfect rebel end";
+var mnemonic = "hill item tank physical broom repair novel weapon ignore huge exotic motion";

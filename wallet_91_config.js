@@ -1,1 +1,1 @@
-var mnemonic = "crazy ocean enrich say direct ill victory race praise pottery produce electric";
+var mnemonic = "program garlic few merit enough envelope clinic opinion second predict tag hero";

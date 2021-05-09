@@ -1,1 +1,1 @@
-var mnemonic = "culture peanut doctor crawl unhappy candy object spoon news throw swear fee";
+var mnemonic = "attract plate filter impose galaxy hurry tide gossip town dress sustain nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin scorpion flat damp plate yellow february topic ball describe mystery clutch";
+var mnemonic = "hammer love tuition decide ordinary skin drum gas elder caution runway cage";

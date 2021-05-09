@@ -1,1 +1,1 @@
-var mnemonic = "gossip inner entire decrease upgrade resist obscure husband gorilla december pipe frown";
+var mnemonic = "place float ability morning stomach bunker keen reject grape company globe naive";

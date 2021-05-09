@@ -1,1 +1,1 @@
-var mnemonic = "empty tiny coil ladder rebel electric maid degree space reflect rose invest";
+var mnemonic = "track notable feel few gallery join execute merge arm tourist sniff expand";

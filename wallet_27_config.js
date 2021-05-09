@@ -1,1 +1,1 @@
-var mnemonic = "height type illegal sock census hammer pet senior number pluck version risk";
+var mnemonic = "obey tower puzzle regular note more grunt extend couch senior clay receive";

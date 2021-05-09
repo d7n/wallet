@@ -1,1 +1,1 @@
-var mnemonic = "pelican sock loyal reduce much business decline nerve multiply master glimpse gym";
+var mnemonic = "devote scrap lyrics cliff symptom tackle exhibit pistol diamond girl moment follow";

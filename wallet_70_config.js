@@ -1,1 +1,1 @@
-var mnemonic = "disagree churn birth act pony else solution nice yellow equip demise enemy";
+var mnemonic = "harvest omit elbow dentist all attitude leopard opinion section win wrong husband";

@@ -1,1 +1,1 @@
-var mnemonic = "panther pottery kitchen heart enact foam step wild honey round review reflect";
+var mnemonic = "south arrest pupil chapter certain swear region category wish mango analyst stay";

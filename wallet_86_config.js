@@ -1,1 +1,1 @@
-var mnemonic = "member usage online target unveil major fork doctor absurd wear strike horse";
+var mnemonic = "flight marble gas estate hazard able purpose pig melt gown sausage burst";

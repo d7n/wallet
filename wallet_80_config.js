@@ -1,1 +1,1 @@
-var mnemonic = "burden dance property shadow educate orbit excess scrub scene entry control depart";
+var mnemonic = "tongue correct crunch near style slam verb good route forum bicycle hawk";

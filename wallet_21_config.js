@@ -1,1 +1,1 @@
-var mnemonic = "record dismiss shove then summer burst seed cook tree scare rich sadness";
+var mnemonic = "pepper spring fruit grace cry ready skin borrow blue obey appear sign";

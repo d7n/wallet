@@ -1,1 +1,1 @@
-var mnemonic = "lounge patch fresh under turn equal account twenty genre process olympic dish";
+var mnemonic = "curtain sure favorite onion apart click genuine welcome life grace galaxy advice";

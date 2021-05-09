@@ -1,1 +1,1 @@
-var mnemonic = "cave lonely balance code shoot vote reward ginger dose deny arena true";
+var mnemonic = "boat seat message attend metal quality acoustic left canoe another east surprise";

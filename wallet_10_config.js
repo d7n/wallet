@@ -1,1 +1,1 @@
-var mnemonic = "couch prevent orient begin resist biology domain napkin hair embrace used seed";
+var mnemonic = "hard mom salad broom give riot rent dance area energy card rose";

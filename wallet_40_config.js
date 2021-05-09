@@ -1,1 +1,1 @@
-var mnemonic = "display car pottery sweet cattle cause smoke alert potato smile goose animal";
+var mnemonic = "evoke grief baby orbit symbol purchase frozen matter mind favorite winner action";

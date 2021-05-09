@@ -1,1 +1,1 @@
-var mnemonic = "grape jacket hero butter duck domain physical happy melt intact ball post";
+var mnemonic = "hurry fiscal gossip clap rabbit general laundry promote wealth north riot unaware";

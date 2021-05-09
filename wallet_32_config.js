@@ -1,1 +1,1 @@
-var mnemonic = "good mail town actor father donkey early wink journey one outer negative";
+var mnemonic = "often quantum woman embark west envelope jeans rabbit excuse toss volcano nerve";

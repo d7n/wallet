@@ -1,1 +1,1 @@
-var mnemonic = "image original portion rely drill divide dizzy blush expect math salt gauge";
+var mnemonic = "faint virus crisp bright paddle abandon manage amused solid cream latin promote";

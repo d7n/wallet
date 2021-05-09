@@ -1,1 +1,1 @@
-var mnemonic = "horn beef inject oblige ahead detail rebel man drama congress dash chest";
+var mnemonic = "benefit model frost potato curious enough track carpet body gather hotel shadow";

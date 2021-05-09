@@ -1,1 +1,1 @@
-var mnemonic = "lens toilet dawn differ holiday maximum pulse drop boss only mansion sport";
+var mnemonic = "zoo wreck genius people used neck shoulder swamp apology feature engine utility";

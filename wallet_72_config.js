@@ -1,1 +1,1 @@
-var mnemonic = "occur jelly found clerk exhibit vacuum hockey face kiss badge correct beef";
+var mnemonic = "blur depend only spatial useful setup warm jungle mixture occur deal domain";

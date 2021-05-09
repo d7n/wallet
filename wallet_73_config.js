@@ -1,1 +1,1 @@
-var mnemonic = "conduct mirror genuine shiver desk spend author sugar law lock sorry spread";
+var mnemonic = "snap help gun update until detect vanish random riot clog trim mobile";

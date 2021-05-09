@@ -1,1 +1,1 @@
-var mnemonic = "pigeon buyer rescue salmon cover wood result apart trim return priority matter";
+var mnemonic = "normal public unknown buddy mercy try puppy lizard drink become lab unhappy";

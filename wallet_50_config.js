@@ -1,1 +1,1 @@
-var mnemonic = "enough dirt foam enter amazing time device limb appear ship token keen";
+var mnemonic = "bone ancient east art soup wheel segment lunar physical canvas harvest lizard";

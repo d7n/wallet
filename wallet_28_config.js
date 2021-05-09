@@ -1,1 +1,1 @@
-var mnemonic = "steak electric spoil legal major rather wisdom visit caution length foster zero";
+var mnemonic = "seminar round embark luxury borrow wood fresh write creek expect valley panel";

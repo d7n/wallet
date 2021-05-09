@@ -1,1 +1,1 @@
-var mnemonic = "seat sun range dwarf cake sure reunion consider later scale wrist elbow";
+var mnemonic = "cute faith easy then chimney genre bracket doctor yard orbit owner middle";

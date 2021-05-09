@@ -1,1 +1,1 @@
-var mnemonic = "ask protect collect polar organ pass lounge frequent adapt sight unfair pluck";
+var mnemonic = "image narrow juice dove camera behind execute industry weapon wash all open";

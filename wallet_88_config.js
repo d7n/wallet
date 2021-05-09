@@ -1,1 +1,1 @@
-var mnemonic = "cradle okay bar much angry drama farm party pumpkin benefit dust view";
+var mnemonic = "analyst maze quick soccer library envelope vacuum wreck spray add sleep hen";

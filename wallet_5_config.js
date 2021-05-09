@@ -1,1 +1,1 @@
-var mnemonic = "recycle decrease raven catalog leopard build rude level multiply humor fun fruit";
+var mnemonic = "kidney quarter solid wrestle transfer damage later gas ancient valid ring wheel";

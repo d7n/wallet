@@ -1,1 +1,1 @@
-var mnemonic = "link cherry shoulder hybrid culture track gaze puppy similar custom piano soda";
+var mnemonic = "rich find salmon access identify shaft stool gather water resemble monkey diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "heart lecture check marine hurt horse laundry always fantasy youth police stereo";
+var mnemonic = "gorilla spend void fuel hockey fitness index prosper key march kick awesome";

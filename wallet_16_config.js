@@ -1,1 +1,1 @@
-var mnemonic = "reason believe hero orchard swear churn peanut diesel share worry social barely";
+var mnemonic = "plastic blush furnace team unfair sadness motion mask fun fit denial impact";

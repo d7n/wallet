@@ -1,1 +1,1 @@
-var mnemonic = "tent under ticket finger economy false wife trigger book real token cake";
+var mnemonic = "fabric broom rule use actor still include notable age success camp stamp";

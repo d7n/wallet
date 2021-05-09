@@ -1,1 +1,1 @@
-var mnemonic = "hunt olympic fix reopen excess cancel sauce letter web luggage lemon test";
+var mnemonic = "kite debate caution first abuse glare harbor describe swing soft picture dice";

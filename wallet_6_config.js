@@ -1,1 +1,1 @@
-var mnemonic = "bomb blood direct cook quote pyramid bitter return tip twenty else glove";
+var mnemonic = "cram normal eager term level they glow know reject heavy short device";

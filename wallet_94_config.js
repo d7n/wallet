@@ -1,1 +1,1 @@
-var mnemonic = "crane fluid amount soon bubble novel ability sight pen favorite clean gown";
+var mnemonic = "choice boring include bean crouch ask kitchen demand arena involve absorb move";

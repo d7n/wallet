@@ -1,1 +1,1 @@
-var mnemonic = "model always nephew broccoli silver drift twin effort bean erosion lion insect";
+var mnemonic = "cluster fall clever rotate bachelor delay eager film swarm base obscure adapt";

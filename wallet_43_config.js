@@ -1,1 +1,1 @@
-var mnemonic = "border nest artwork tooth mercy museum destroy before drip tomato birth bring";
+var mnemonic = "defense grant lock manage journey erosion embody shield antenna shoe lounge fit";

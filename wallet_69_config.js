@@ -1,1 +1,1 @@
-var mnemonic = "grocery turn debris story merge hen talk yard team crater address trouble";
+var mnemonic = "describe chimney bike music core choose will erode rotate relief sweet grant";

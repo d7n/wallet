@@ -1,1 +1,1 @@
-var mnemonic = "still jeans solid economy struggle movie regret ship rude orchard bicycle nominee";
+var mnemonic = "pipe kid depart unknown toddler language easy bridge bridge near pair opera";

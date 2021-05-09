@@ -1,1 +1,1 @@
-var mnemonic = "height agent title retire fossil trouble include awesome use leave way urban";
+var mnemonic = "credit ripple staff analyst scrap grace hawk sun trip stomach object raven";

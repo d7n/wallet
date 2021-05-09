@@ -1,1 +1,1 @@
-var mnemonic = "rail van heart average swarm lift similar slim amateur village dilemma gesture";
+var mnemonic = "erase tortoise journey theme broken vague bulk argue pledge organ staff mesh";

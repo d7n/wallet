@@ -1,1 +1,1 @@
-var mnemonic = "dream play blood entire where struggle marine extend milk swift anxiety jelly";
+var mnemonic = "hover cause abandon grant boy uniform doll mind stairs lottery can truth";

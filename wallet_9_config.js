@@ -1,1 +1,1 @@
-var mnemonic = "glue kit sniff chief wave sketch chef attitude text spirit feel fatal";
+var mnemonic = "trumpet bless end hamster phrase gift small narrow extend flower toast harsh";

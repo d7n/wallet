@@ -1,1 +1,1 @@
-var mnemonic = "deliver vehicle shield movie orange aspect candy carry various mountain claim hybrid";
+var mnemonic = "fork dinosaur over hub wrong curve sniff leg deal proof budget vacuum";

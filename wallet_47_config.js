@@ -1,1 +1,1 @@
-var mnemonic = "gown dinosaur rally predict urban patient act atom senior doll exact twin";
+var mnemonic = "suspect twin weather tone actor bargain crack tortoise lawn frost lounge ginger";

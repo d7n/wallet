@@ -1,1 +1,1 @@
-var mnemonic = "annual general embark country blade anchor toss permit manual learn drip meadow";
+var mnemonic = "year priority daughter donate patient knee promote cave cream poet success good";

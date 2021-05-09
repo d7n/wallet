@@ -1,1 +1,1 @@
-var mnemonic = "describe pear wisdom snake potato polar seat embrace noble sport hero margin";
+var mnemonic = "arrest harvest people behind quote case pig truly elegant crack wild plug";

@@ -1,1 +1,1 @@
-var mnemonic = "door uniform panel consider shell meadow swallow choose anger march harvest elephant";
+var mnemonic = "emerge catch wave liquid month pepper snack pupil jelly veteran mule artwork";

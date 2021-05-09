@@ -1,1 +1,1 @@
-var mnemonic = "give mirror crumble leopard make long position frozen spike smooth vacant sauce";
+var mnemonic = "flat pig grab exercise embody human attract first drastic pretty recall scout";

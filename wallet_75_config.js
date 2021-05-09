@@ -1,1 +1,1 @@
-var mnemonic = "picnic swallow album process tongue virus cupboard pause guide tuna umbrella problem";
+var mnemonic = "indoor hold nest rug peace name analyst air tattoo weapon burst dinosaur";

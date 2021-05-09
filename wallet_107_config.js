@@ -1,1 +1,1 @@
-var mnemonic = "permit dolphin drill toast into chase onion wife inside note tilt detect";
+var mnemonic = "group shrimp flee audit wealth lock hurry sadness safe toe series speed";

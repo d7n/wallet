@@ -1,1 +1,1 @@
-var mnemonic = "mandate possible talk jump invest note idle arrange average crew crush wise";
+var mnemonic = "describe athlete notable emerge dinner antique spice search setup car wheat ghost";

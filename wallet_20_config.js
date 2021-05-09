@@ -1,1 +1,1 @@
-var mnemonic = "chuckle lawsuit tag wedding banner salon impose seed meadow enemy track lamp";
+var mnemonic = "bean slush strike shrimp middle gym guilt bone noble dynamic fragile lesson";

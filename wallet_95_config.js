@@ -1,1 +1,1 @@
-var mnemonic = "found knock sign guard athlete gown style swap thought federal alien need";
+var mnemonic = "matter debris behave student clog hello domain found join hazard seed immune";

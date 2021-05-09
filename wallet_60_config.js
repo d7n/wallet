@@ -1,1 +1,1 @@
-var mnemonic = "auto math size rhythm mass brown amazing jeans balance biology monitor uniform";
+var mnemonic = "outdoor essay enroll neither imitate museum pony shoulder human vacuum aisle devote";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle involve gasp staff rebuild voyage outside royal piano siren wheel oak";
+var mnemonic = "bachelor develop alter season agree hip empty garbage acquire cupboard tuition oil";
