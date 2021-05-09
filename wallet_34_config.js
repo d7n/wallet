@@ -1,1 +1,1 @@
-var mnemonic = "embrace drop entry obvious roof shell resist tourist draw sketch iron soup";
+var mnemonic = "amused amateur into scare goddess voyage simple attack skate biology kite decide";

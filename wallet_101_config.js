@@ -1,1 +1,1 @@
-var mnemonic = "eagle decline enforce token aim frost drop gas december motor slice attitude";
+var mnemonic = "craft sweet notice priority slow stomach throw chase imitate mouse work club";

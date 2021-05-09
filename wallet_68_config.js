@@ -1,1 +1,1 @@
-var mnemonic = "moral original member lunar cute approve october farm bread satisfy prosper pair";
+var mnemonic = "despair jump siege stairs fox misery parent photo mercy glimpse begin knife";

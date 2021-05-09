@@ -1,1 +1,1 @@
-var mnemonic = "jungle upgrade hidden wing sand wolf ready empower glide absent hint make";
+var mnemonic = "foil call already deal stuff sing valid feed episode police sand innocent";

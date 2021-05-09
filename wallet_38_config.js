@@ -1,1 +1,1 @@
-var mnemonic = "bracket subway donor library fade mango amateur carbon scrap enforce maze range";
+var mnemonic = "sadness arena space bomb pig refuse essay prefer powder couch glide bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "banner genre caution bargain switch humor bike guess later envelope cloth spoon";
+var mnemonic = "foil wife cross modify fork prison certain opera sense quit truly attract";

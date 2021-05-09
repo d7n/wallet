@@ -1,1 +1,1 @@
-var mnemonic = "kick huge need hazard address license sign strategy slender garlic among area";
+var mnemonic = "dose behave child tattoo salad upgrade siege crowd want expand case nut";

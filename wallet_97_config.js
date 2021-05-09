@@ -1,1 +1,1 @@
-var mnemonic = "lion predict ordinary provide monitor fitness rubber until option garment script crazy";
+var mnemonic = "hurt century trash enable advance exist hundred combine grant sentence monitor evolve";

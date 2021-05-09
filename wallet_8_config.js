@@ -1,1 +1,1 @@
-var mnemonic = "country fiscal blame bid glass market artefact play two alone huge analyst";
+var mnemonic = "man kingdom giggle dial mean process normal luxury profit youth manage nasty";

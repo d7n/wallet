@@ -1,1 +1,1 @@
-var mnemonic = "ten they toilet reveal pink swarm future group bag document regular crime";
+var mnemonic = "sketch apology vast vault upon bleak crouch walnut already estate bean wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant gate usage swim spy secret must muscle waste eyebrow harvest you";
+var mnemonic = "frequent strategy find smoke best lemon eagle fuel marble head chest dose";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor picnic doll flame lumber egg explain tumble middle victory clump resemble";
+var mnemonic = "tent wrestle decade defy use inflict dumb drink stay invest guide betray";

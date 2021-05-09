@@ -1,1 +1,1 @@
-var mnemonic = "blame execute prefer menu local cruise duty shadow okay side common cement";
+var mnemonic = "enforce material swallow thunder that final split matrix atom reveal normal rebuild";

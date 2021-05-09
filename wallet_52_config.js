@@ -1,1 +1,1 @@
-var mnemonic = "goose camp swear menu atom degree spawn basic diesel sight between grid";
+var mnemonic = "oyster eager stable mule cargo clown misery symbol flock small shield isolate";

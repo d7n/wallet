@@ -1,1 +1,1 @@
-var mnemonic = "era crash coast same pride recall frame sing can combine drop quantum";
+var mnemonic = "defense accident loop east brief awesome lab age crisp salad despair skull";

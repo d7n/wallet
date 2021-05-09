@@ -1,1 +1,1 @@
-var mnemonic = "month ankle middle find venue retire abuse force else fuel royal spy";
+var mnemonic = "pretty adult upon end stone repeat robot pull exercise web tent ahead";

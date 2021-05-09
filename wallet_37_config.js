@@ -1,1 +1,1 @@
-var mnemonic = "eight recipe gym rubber bid wisdom tunnel donkey side material daughter simple";
+var mnemonic = "crane punch wreck prize unique excess airport food rug water blouse page";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly ceiling ship burger surprise deer deputy acid unable knee room spell";
+var mnemonic = "early attack leopard frozen enforce aunt large rigid open axis element meat";

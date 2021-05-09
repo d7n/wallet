@@ -1,1 +1,1 @@
-var mnemonic = "acquire quit coyote insane gossip once either runway point neither social embody";
+var mnemonic = "radar lottery humor cloth pipe hospital tomato relax flush soup reopen clown";

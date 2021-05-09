@@ -1,1 +1,1 @@
-var mnemonic = "work urban fatigue figure claw hammer movie drum produce enforce sting thrive";
+var mnemonic = "olympic sort ladder odor snow animal tornado pond actual girl arctic fish";

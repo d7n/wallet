@@ -1,1 +1,1 @@
-var mnemonic = "notice squeeze pluck cable hollow cupboard effort affair tomorrow erupt parrot evil";
+var mnemonic = "fringe length bounce lemon strong tent afraid exercise radar permit boring accuse";

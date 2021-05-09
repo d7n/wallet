@@ -1,1 +1,1 @@
-var mnemonic = "provide neglect mango hand visa goddess usual fan loud coral horror bleak";
+var mnemonic = "comic develop motor rookie strong demise fancy term caution chat segment electric";

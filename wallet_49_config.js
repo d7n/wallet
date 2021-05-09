@@ -1,1 +1,1 @@
-var mnemonic = "keen island ozone bar still cake midnight fetch hope slab wish enter";
+var mnemonic = "update country twice uniform carbon parent appear cool kangaroo narrow rabbit seed";

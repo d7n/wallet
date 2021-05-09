@@ -1,1 +1,1 @@
-var mnemonic = "indicate correct mechanic rail lonely wine cage girl citizen chapter index run";
+var mnemonic = "sign service scan fantasy weather woman coral flag outside talent immense pilot";

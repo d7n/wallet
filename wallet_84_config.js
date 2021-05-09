@@ -1,1 +1,1 @@
-var mnemonic = "term multiply come wish bachelor slab sleep winner shallow enroll chapter tree";
+var mnemonic = "supply ivory above attract divorce tank kid slush empower dutch upon arm";

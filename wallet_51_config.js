@@ -1,1 +1,1 @@
-var mnemonic = "marine used abstract occur bamboo current equal easy aerobic hurry tired shuffle";
+var mnemonic = "leg inch evil speed fluid idle census robot wagon feel wheat fire";

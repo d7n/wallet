@@ -1,1 +1,1 @@
-var mnemonic = "toilet nurse half dose else beyond illegal write rate turtle fee fine";
+var mnemonic = "uphold wheat actress illness oxygen ride keen tuition benefit present also sweet";

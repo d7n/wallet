@@ -1,1 +1,1 @@
-var mnemonic = "oil peanut elegant glow long obvious public raven almost youth bar federal";
+var mnemonic = "insect appear indicate path goddess nose claw vendor razor option level ticket";

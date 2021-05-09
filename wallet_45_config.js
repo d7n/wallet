@@ -1,1 +1,1 @@
-var mnemonic = "city laptop spread current hover oak pet sustain approve bike female about";
+var mnemonic = "survey provide wise plate ring invest shop dignity shoe hospital blood enhance";

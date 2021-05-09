@@ -1,1 +1,1 @@
-var mnemonic = "razor arrest early bag brown cake acquire kitten input smoke universe tooth";
+var mnemonic = "ticket little fan dawn guilt fat ghost aunt denial acid aisle lion";

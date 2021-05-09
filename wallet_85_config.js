@@ -1,1 +1,1 @@
-var mnemonic = "radar scene arrange tool toddler car wasp car subway pattern any shy";
+var mnemonic = "bachelor visual drill useless news debate craft fix include body lawn asthma";

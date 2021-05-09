@@ -1,1 +1,1 @@
-var mnemonic = "monster civil gospel atom october since swing fold avoid car demand off";
+var mnemonic = "notable movie immune solution front chicken dinosaur tank three nephew draft morning";

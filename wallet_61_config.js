@@ -1,1 +1,1 @@
-var mnemonic = "burger bar drift pact tiny armed frog leave brief ghost tumble step";
+var mnemonic = "taxi dizzy hint barrel prize notice island stuff glue rice dial come";

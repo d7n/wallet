@@ -1,1 +1,1 @@
-var mnemonic = "large exile enemy hope ceiling shell novel morning victory drill buffalo aerobic";
+var mnemonic = "prepare antique option slot promote wool system uncle only fabric anxiety young";

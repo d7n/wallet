@@ -1,1 +1,1 @@
-var mnemonic = "snap label hospital tip smart host fee unknown enemy merit field shove";
+var mnemonic = "accident tortoise execute easy robust twist mandate initial discover spell hero brick";

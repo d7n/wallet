@@ -1,1 +1,1 @@
-var mnemonic = "phrase harvest buffalo couch black cabin rain plate innocent skill pistol marriage";
+var mnemonic = "chalk canyon result cube recipe field oval betray goddess need finish hello";

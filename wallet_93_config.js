@@ -1,1 +1,1 @@
-var mnemonic = "help parent puzzle enrich delay sheriff nation vast move thing camera despair";
+var mnemonic = "merge betray captain jewel hedgehog emerge window lawn brick lizard legal exclude";

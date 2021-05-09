@@ -1,1 +1,1 @@
-var mnemonic = "uniform battle dizzy because water dismiss trend heavy vacuum pistol alien nominee";
+var mnemonic = "diagram stadium capital exclude indoor host olive enhance sadness romance clump rely";

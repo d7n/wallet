@@ -1,1 +1,1 @@
-var mnemonic = "someone hip edge law fatal hunt nothing scale method garbage seven cake";
+var mnemonic = "group position raw raccoon tone icon praise danger kitchen exhibit brick bike";

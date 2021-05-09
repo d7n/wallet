@@ -1,1 +1,1 @@
-var mnemonic = "lobster cover crime cool issue trouble issue better weapon hire sunny domain";
+var mnemonic = "crystal relief medal seminar hamster scorpion motor expire fine pattern unaware rescue";

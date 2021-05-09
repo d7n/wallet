@@ -1,1 +1,1 @@
-var mnemonic = "speed bitter insect elbow language shadow viable hedgehog layer cost column vessel";
+var mnemonic = "banana someone claw mail ladder laundry today chimney popular lamp near hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "marine license bird secret project horror submit devote blossom develop lonely such";
+var mnemonic = "donor proud cage knee mandate endorse daring donor humor coast main unusual";

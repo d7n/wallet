@@ -1,1 +1,1 @@
-var mnemonic = "valid liquid day alone top detail slush bulk banana demand method siren";
+var mnemonic = "visit govern solution combine cable more awful later crowd solar pink add";

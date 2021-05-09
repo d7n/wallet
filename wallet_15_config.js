@@ -1,1 +1,1 @@
-var mnemonic = "shrimp poverty divorce spot cinnamon march party season meadow physical fancy gravity";
+var mnemonic = "loop tiny cancel city asthma system empty machine issue saddle wedding quote";

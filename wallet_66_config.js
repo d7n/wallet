@@ -1,1 +1,1 @@
-var mnemonic = "lunar bracket buffalo valid slot term benefit fringe lucky alarm return mobile";
+var mnemonic = "guess work tomorrow canvas mean sadness link view elephant name fade antique";

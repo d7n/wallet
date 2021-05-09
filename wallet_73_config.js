@@ -1,1 +1,1 @@
-var mnemonic = "plate license half depend budget affair find normal toy theme retreat opinion";
+var mnemonic = "opera person venue eager swim timber addict sort claim scorpion glad nephew";

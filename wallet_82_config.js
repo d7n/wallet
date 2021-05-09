@@ -1,1 +1,1 @@
-var mnemonic = "cool tourist dumb own couple shell blossom pig pepper quit aware nature";
+var mnemonic = "forward muffin dash milk sad law sea spread online dentist achieve riot";

@@ -1,1 +1,1 @@
-var mnemonic = "gain install acoustic keep raw bonus mesh sausage bottom squeeze daughter keep";
+var mnemonic = "media town maximum consider season spread comic same fitness verb bargain head";

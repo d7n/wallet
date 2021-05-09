@@ -1,1 +1,1 @@
-var mnemonic = "orient paper open boost meat service future resource end click excess seek";
+var mnemonic = "chair session any taste glad cage zone hungry thought lend define session";

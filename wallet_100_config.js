@@ -1,1 +1,1 @@
-var mnemonic = "crumble side length sad mule shoe can summer curve this oven weekend";
+var mnemonic = "choose enjoy hip tree shoe craft crush pretty borrow sister impact stove";

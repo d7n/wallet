@@ -1,1 +1,1 @@
-var mnemonic = "absurd ozone unveil dentist fitness current orchard swift panther genre wait double";
+var mnemonic = "dynamic favorite another ability assault size oxygen book fetch cake ten manual";

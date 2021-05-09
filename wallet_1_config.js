@@ -1,1 +1,1 @@
-var mnemonic = "lab chest marriage arrow enable cliff wood elder hurdle feed warrior seven";
+var mnemonic = "family omit hazard ability catalog degree enable surface join bachelor cancel pumpkin";

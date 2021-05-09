@@ -1,1 +1,1 @@
-var mnemonic = "valley dragon tip wrestle foam green umbrella tragic hub idle leg divert";
+var mnemonic = "easy mirror decorate team rely infant frozen plastic turtle peace social allow";

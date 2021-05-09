@@ -1,1 +1,1 @@
-var mnemonic = "sunset double aware clog lift key stone demand clap offer approve icon";
+var mnemonic = "swarm naive match obey seed beach crumble slab boring pottery require glass";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster bar all allow reflect alcohol path occur admit pause clump bachelor";
+var mnemonic = "alpha bean peace coast ahead this hollow define frown cash dutch funny";

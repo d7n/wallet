@@ -1,1 +1,1 @@
-var mnemonic = "gorilla country shallow rice air talk vintage grain myth royal exist blanket";
+var mnemonic = "order sting space fox trick what panic excite aspect weird forget use";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle organ opinion soap mobile wine neither state pipe tool mad club";
+var mnemonic = "buzz inherit salad front flag busy grief random blur lucky cinnamon slow";

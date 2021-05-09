@@ -1,1 +1,1 @@
-var mnemonic = "polar twice group net moon steel animal boring soda attitude require spatial";
+var mnemonic = "employ eternal fresh heavy wait month wrong talk cattle beach scissors tonight";

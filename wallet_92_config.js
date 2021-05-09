@@ -1,1 +1,1 @@
-var mnemonic = "thought round palace pistol afraid boring square draw rude empty purity destroy";
+var mnemonic = "jacket waste century unhappy quantum mix festival grocery correct business return clean";

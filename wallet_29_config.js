@@ -1,1 +1,1 @@
-var mnemonic = "require impact student spare coffee cheese extra only despair candy morning coach";
+var mnemonic = "federal giggle input solar luxury catalog mixture crazy palm leg fancy offer";

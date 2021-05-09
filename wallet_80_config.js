@@ -1,1 +1,1 @@
-var mnemonic = "deal inherit sorry camera amused puppy stereo belt skate margin divorce grid";
+var mnemonic = "aspect flag copy giraffe pelican patrol mom board various negative this gas";

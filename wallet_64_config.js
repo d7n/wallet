@@ -1,1 +1,1 @@
-var mnemonic = "riot screen detect uphold punch usual gentle long frequent evidence manual afraid";
+var mnemonic = "setup project trophy audit orange oak rain maple outer usual upset chief";

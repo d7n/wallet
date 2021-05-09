@@ -1,1 +1,1 @@
-var mnemonic = "orphan shrug liberty increase fix paper raccoon local guide swear glow million";
+var mnemonic = "option couch price diary lava rare better promote arctic uphold wrap craft";

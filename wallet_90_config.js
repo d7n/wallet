@@ -1,1 +1,1 @@
-var mnemonic = "throw hobby melt hen genuine gate kid gasp book usual menu category";
+var mnemonic = "swim enhance visa jungle pottery napkin dune civil problem brief danger mutual";

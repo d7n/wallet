@@ -1,1 +1,1 @@
-var mnemonic = "when silly fly bunker surprise census swamp wink stairs wrist intact mystery";
+var mnemonic = "train orbit romance image cotton horse certain daughter tennis wear oak wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "flame clump void improve chimney enroll never arch avocado crunch hurry achieve";
+var mnemonic = "hover dignity fiber acid snake mean author fat analyst diamond jewel barely";

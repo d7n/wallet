@@ -1,1 +1,1 @@
-var mnemonic = "element access detect unknown pipe peanut fork speed happy crumble pitch border";
+var mnemonic = "miss review avocado mention food sand thought tuna way shoulder ripple slender";

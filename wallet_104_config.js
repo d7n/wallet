@@ -1,1 +1,1 @@
-var mnemonic = "empower correct give ship there work file measure group shrug better dress";
+var mnemonic = "price corn industry another sphere frequent student praise game soda coast diesel";

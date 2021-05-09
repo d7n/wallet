@@ -1,1 +1,1 @@
-var mnemonic = "raw wrist shop client amused electric box have message later extra federal";
+var mnemonic = "vessel ecology unhappy lawsuit next load marriage winner digital undo script train";

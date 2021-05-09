@@ -1,1 +1,1 @@
-var mnemonic = "carbon shell donkey simple cherry valley swamp entire rocket license second steak";
+var mnemonic = "april bamboo icon antenna build dilemma enemy slice rhythm twist quantum file";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome duck six salt step erode ignore scare around prosper lunar rib";
+var mnemonic = "pupil mix jacket salute medal sing jelly biology heavy foot trial fire";

@@ -1,1 +1,1 @@
-var mnemonic = "floor bronze give safe barrel junior demise matrix please vocal want shell";
+var mnemonic = "normal start wave vital tone undo border fetch final rain price beach";

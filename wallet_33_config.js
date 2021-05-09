@@ -1,1 +1,1 @@
-var mnemonic = "rare diagram sentence raise funny simple poverty labor glare shallow become pill";
+var mnemonic = "knee enlist throw join wheel distance banner wave problem gesture split clay";

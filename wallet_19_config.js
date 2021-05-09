@@ -1,1 +1,1 @@
-var mnemonic = "cradle riot sugar vanish alpha miss confirm afford champion miss noodle where";
+var mnemonic = "tourist venture upper fever fork federal evil yard finger pear enforce middle";

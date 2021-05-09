@@ -1,1 +1,1 @@
-var mnemonic = "enable swing ice garlic guard orchard reason defy lecture sheriff clock sight";
+var mnemonic = "obey brief voice other prize shoulder magic unable pupil funny miss dolphin";

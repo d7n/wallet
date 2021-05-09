@@ -1,1 +1,1 @@
-var mnemonic = "bar occur over harbor bulb rather fee spoon process blossom half mechanic";
+var mnemonic = "present ostrich twin brief warm negative scorpion teach glance tumble alpha cause";

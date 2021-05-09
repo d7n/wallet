@@ -1,1 +1,1 @@
-var mnemonic = "summer learn language loyal pizza maximum device pool salad balance park punch";
+var mnemonic = "silly moment sad category coil spare path gorilla fold favorite square script";

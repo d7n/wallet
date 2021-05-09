@@ -1,1 +1,1 @@
-var mnemonic = "age pool polar visit anxiety use uncover spider excess worth rally odor";
+var mnemonic = "jazz combine fame doll devote veteran lumber tone win panda spike unable";

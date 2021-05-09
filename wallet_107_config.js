@@ -1,1 +1,1 @@
-var mnemonic = "when group very inhale kite divorce already vacuum rifle clean dismiss riot";
+var mnemonic = "actor peasant upset great draft height brief fire noise day visa fever";

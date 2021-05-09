@@ -1,1 +1,1 @@
-var mnemonic = "physical spot caution twice zone churn hazard expect ugly hollow bread popular";
+var mnemonic = "squeeze help little inform phone way mesh wet demise gas original window";

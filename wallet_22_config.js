@@ -1,1 +1,1 @@
-var mnemonic = "famous roast tilt shove scheme crush deal scan matter beauty arch fall";
+var mnemonic = "egg surge patch armed neglect claw once swift process tackle crew resist";

@@ -1,1 +1,1 @@
-var mnemonic = "educate paper burst inner useless practice endorse jaguar noble carry upper palm";
+var mnemonic = "illness cause canvas repair bacon address shrimp mutual abuse cousin wrist vibrant";

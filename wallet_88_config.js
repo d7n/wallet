@@ -1,1 +1,1 @@
-var mnemonic = "mom erosion rude weekend regret govern defy punch outer blouse give strong";
+var mnemonic = "yard taxi purpose person wolf poet obtain prefer skin wage clog manage";
