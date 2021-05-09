@@ -1,1 +1,1 @@
-var mnemonic = "price actor course barely female wave relief great year snap scrub copper";
+var mnemonic = "biology dance amount illegal trip liar element usage obvious milk draft forum";

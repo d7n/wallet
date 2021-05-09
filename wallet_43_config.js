@@ -1,1 +1,1 @@
-var mnemonic = "theme rookie warm come rival divert stuff speed banner report great sing";
+var mnemonic = "gasp enemy hospital inside february walk dose multiply birth shed control tide";

@@ -1,1 +1,1 @@
-var mnemonic = "seek clean palm purity rule field churn robust gap drum glimpse appear";
+var mnemonic = "need about mule vacuum trick faint help mistake witness march hotel interest";

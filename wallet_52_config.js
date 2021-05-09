@@ -1,1 +1,1 @@
-var mnemonic = "since train cousin switch company ribbon emotion sunny exact head sunny end";
+var mnemonic = "peanut topic oblige retire next asset stock reason lawsuit chicken attack tank";

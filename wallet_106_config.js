@@ -1,1 +1,1 @@
-var mnemonic = "tail great seat six electric affair donor toilet poem random shrimp extra";
+var mnemonic = "artist cannon march pistol celery another follow loan amateur loyal force little";

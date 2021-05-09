@@ -1,1 +1,1 @@
-var mnemonic = "across rapid pyramid world thunder rookie shock female gentle another art squirrel";
+var mnemonic = "banana wasp skill clinic wear hat spot stem veteran vanish salmon change";

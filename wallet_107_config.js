@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin key library beauty nephew prevent result orange carbon sunny cushion onion";
+var mnemonic = "jungle beauty property thought guilt room trade swing scout february rare cousin";

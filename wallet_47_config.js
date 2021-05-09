@@ -1,1 +1,1 @@
-var mnemonic = "awful version repeat useless still phrase glance erosion illegal nose script bracket";
+var mnemonic = "marble fiber maze before breeze rifle wash verify hamster sniff wet example";

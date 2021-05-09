@@ -1,1 +1,1 @@
-var mnemonic = "talk love clean wash play chimney ask shadow bicycle shiver effort diary";
+var mnemonic = "trouble march black witness must cram flash accuse unveil carbon embark hurdle";

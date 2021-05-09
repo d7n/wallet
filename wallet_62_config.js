@@ -1,1 +1,1 @@
-var mnemonic = "goose fee game border pole tobacco impact poverty reflect phrase unknown roast";
+var mnemonic = "refuse hard race fantasy document bar useful trap soldier item observe tomorrow";

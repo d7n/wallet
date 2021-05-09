@@ -1,1 +1,1 @@
-var mnemonic = "finish purchase bread cute diet first salon rhythm voyage sponsor spell gown";
+var mnemonic = "fashion exhibit bronze lift margin quote range bright step thunder soda miss";

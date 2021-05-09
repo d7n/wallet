@@ -1,1 +1,1 @@
-var mnemonic = "tuna symbol manage fresh fine snow town fall face cannon hotel leg";
+var mnemonic = "boss retreat curve garment father anchor medal jaguar detect bacon budget critic";

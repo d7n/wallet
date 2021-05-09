@@ -1,1 +1,1 @@
-var mnemonic = "correct tool pistol gospel tissue bright gun squeeze rare kitten muscle another";
+var mnemonic = "side patient wheat vacant close ten canvas sorry guess leg client hard";

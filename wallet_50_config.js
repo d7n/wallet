@@ -1,1 +1,1 @@
-var mnemonic = "exhibit maple prison ranch brand spell sell early mistake razor smooth tag";
+var mnemonic = "bulb cupboard lecture secret brisk theme horn trash ice fiscal symptom lab";

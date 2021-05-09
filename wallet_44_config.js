@@ -1,1 +1,1 @@
-var mnemonic = "legal web crucial until fancy pair arrow control method ginger grab find";
+var mnemonic = "tank twin organ gentle enroll aisle unfold polar mixture neglect elephant meadow";

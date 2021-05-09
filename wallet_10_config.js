@@ -1,1 +1,1 @@
-var mnemonic = "hold version chief prepare umbrella glad castle key object hover faint west";
+var mnemonic = "dial ring acoustic junior nice room engage drip define recall book chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit because flat doctor urban network churn orchard three buyer modify worth";
+var mnemonic = "occur beauty kangaroo vanish eager monitor mystery north toddler avocado net plate";

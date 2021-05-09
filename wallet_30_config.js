@@ -1,1 +1,1 @@
-var mnemonic = "menu first toast witness advance paddle heart material road next trophy evoke";
+var mnemonic = "inject case atom snap trend split mask barrel angry pave night come";

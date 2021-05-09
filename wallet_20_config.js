@@ -1,1 +1,1 @@
-var mnemonic = "when episode bread novel swamp people female isolate menu buddy forget usual";
+var mnemonic = "penalty blame mad damp nature film since mule bullet essence rally hope";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle cherry welcome devote tape forward dream earth exit frequent suspect column";
+var mnemonic = "party brother dash announce happy vapor jeans manual scare total buddy wear";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo vivid spend load tail view draft hurdle foil reform knife library";
+var mnemonic = "light breeze powder try lab agree vibrant jazz people copy accident sauce";

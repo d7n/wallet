@@ -1,1 +1,1 @@
-var mnemonic = "game tray author soda inquiry bind night pigeon kit range turtle lift";
+var mnemonic = "deny release act brass confirm bomb maid corn trash gospel race plunge";

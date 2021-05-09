@@ -1,1 +1,1 @@
-var mnemonic = "anchor word dynamic brick hurt learn depend access decade client ranch repeat";
+var mnemonic = "palm energy mesh approve radar document raccoon sound evidence wrestle clog mom";

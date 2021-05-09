@@ -1,1 +1,1 @@
-var mnemonic = "view cash donkey crew enhance flat train derive client blade moral doctor";
+var mnemonic = "couch work bottom pizza burst dutch thought spirit sing coffee twist capable";

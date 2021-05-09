@@ -1,1 +1,1 @@
-var mnemonic = "summer nurse pear acquire exile analyst upset glow student group guide master";
+var mnemonic = "bachelor south decline december joke alley discover pole will away april rich";

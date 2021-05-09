@@ -1,1 +1,1 @@
-var mnemonic = "grow diary innocent property cube special ketchup utility depart horror urban just";
+var mnemonic = "sheriff gloom news royal creek glory endless birth ritual come walnut hint";

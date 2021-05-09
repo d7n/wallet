@@ -1,1 +1,1 @@
-var mnemonic = "buddy common produce robust lion taste spatial cloth reason hidden mule flame";
+var mnemonic = "please decline canoe present fish because dwarf merge fuel cable crash animal";

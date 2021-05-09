@@ -1,1 +1,1 @@
-var mnemonic = "small brother climb cigar usual main wagon indicate blanket soft beach sphere";
+var mnemonic = "diet case castle explain insane another gauge heart inflict warm talk what";

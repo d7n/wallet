@@ -1,1 +1,1 @@
-var mnemonic = "glow unaware cycle sauce teach cupboard vocal move awesome pave flush menu";
+var mnemonic = "power choose pottery skull file exchange tank position weather satisfy grocery velvet";

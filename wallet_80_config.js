@@ -1,1 +1,1 @@
-var mnemonic = "corn spare mad mountain hidden quiz act rabbit wise own palm weekend";
+var mnemonic = "slush cupboard census citizen injury sudden tomato uncle govern brass supreme item";

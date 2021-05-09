@@ -1,1 +1,1 @@
-var mnemonic = "gravity valve green rapid culture salon salt mobile critic symbol ankle library";
+var mnemonic = "sustain delay decorate grace access easy detail super balance wrong happy finger";

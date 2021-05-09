@@ -1,1 +1,1 @@
-var mnemonic = "mansion smoke promote bitter game bag kiwi dog summer cloud miss mosquito";
+var mnemonic = "pact discover gift rival phone miss culture damage bone analyst tiger clutch";

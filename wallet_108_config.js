@@ -1,1 +1,1 @@
-var mnemonic = "digital visit crush nerve mansion clever reunion party wing fossil vendor fan";
+var mnemonic = "deal shock degree emotion method diamond reopen key sleep wool cheese spy";

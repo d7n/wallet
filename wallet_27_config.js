@@ -1,1 +1,1 @@
-var mnemonic = "grace betray desk clap offer insane holiday flat detail spray confirm cup";
+var mnemonic = "obey chef budget swarm prosper crisp situate come talent repair entry fine";

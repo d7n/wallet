@@ -1,1 +1,1 @@
-var mnemonic = "jaguar play buyer avoid mirror naive business fault cart caught pilot case";
+var mnemonic = "era shadow embark bitter romance seat avocado scare pretty magic mansion frog";

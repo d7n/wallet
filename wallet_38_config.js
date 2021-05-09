@@ -1,1 +1,1 @@
-var mnemonic = "culture dog account base sentence neglect sign vague message tomorrow brown timber";
+var mnemonic = "crack dress wheat lemon place various nuclear dog rigid rifle wrestle oil";

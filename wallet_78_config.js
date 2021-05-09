@@ -1,1 +1,1 @@
-var mnemonic = "horn piano learn best female grace used hello mixed cry analyst timber";
+var mnemonic = "gain eager sample about inspire joy replace civil group iron ketchup amount";

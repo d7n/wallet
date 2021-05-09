@@ -1,1 +1,1 @@
-var mnemonic = "hungry certain depend festival arm torch venture champion upset lobster install market";
+var mnemonic = "cross order frozen explain zero stem velvet couple clock account cannon wild";

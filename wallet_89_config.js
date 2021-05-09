@@ -1,1 +1,1 @@
-var mnemonic = "table december agent file immune recycle okay rebel elder auto alone glove";
+var mnemonic = "quarter hidden hazard juice coil always ridge calm uncle salute machine wet";

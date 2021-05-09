@@ -1,1 +1,1 @@
-var mnemonic = "convince truck entire pumpkin radio dial weasel ostrich volume rent tag surface";
+var mnemonic = "awake average burden wrestle symbol soda regular title deny online stadium grit";

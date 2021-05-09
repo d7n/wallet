@@ -1,1 +1,1 @@
-var mnemonic = "fire unique ordinary million curtain expect bird camera wild steak scatter teach";
+var mnemonic = "paper empty hedgehog when panda street unveil ecology slogan twelve achieve behind";

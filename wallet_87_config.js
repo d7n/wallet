@@ -1,1 +1,1 @@
-var mnemonic = "border warm fresh inside vacuum actual nation act crime novel length spike";
+var mnemonic = "angle prosper van object super amazing barrel fun proof clown stick quick";

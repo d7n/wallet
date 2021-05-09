@@ -1,1 +1,1 @@
-var mnemonic = "danger reduce scan morning island also city swear use upper lend meat";
+var mnemonic = "echo boil wear vapor romance curious family swarm piece basket utility champion";

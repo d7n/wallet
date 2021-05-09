@@ -1,1 +1,1 @@
-var mnemonic = "embark document trial frog face correct ranch ghost cool gentle surprise avocado";
+var mnemonic = "notice push kitten month board shadow media face physical hour kingdom cactus";

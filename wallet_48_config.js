@@ -1,1 +1,1 @@
-var mnemonic = "know latin miss exhibit caution develop saddle dismiss pistol accuse fragile gospel";
+var mnemonic = "visual boost verb inherit carry tree venture crouch fun call level crew";

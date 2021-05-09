@@ -1,1 +1,1 @@
-var mnemonic = "industry purse huge panic million mother cattle cherry job urge install wisdom";
+var mnemonic = "slush tilt student priority begin charge coast casual spread health ridge spice";

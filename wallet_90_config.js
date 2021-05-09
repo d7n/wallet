@@ -1,1 +1,1 @@
-var mnemonic = "hard page menu frozen pond consider sport extra edge cliff fluid involve";
+var mnemonic = "else scrub crazy traffic idea shiver blast fruit auction lumber orient aunt";

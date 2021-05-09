@@ -1,1 +1,1 @@
-var mnemonic = "wagon junior nerve patrol submit task balcony furnace soup snap wrap sense";
+var mnemonic = "quiz bicycle index board bargain dog nothing inhale ritual bicycle false need";

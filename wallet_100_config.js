@@ -1,1 +1,1 @@
-var mnemonic = "hospital kiwi core shield rival trial obvious absent fringe forest order spike";
+var mnemonic = "resemble pigeon quick quote chest zero crater wasp tree essence risk soul";

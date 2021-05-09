@@ -1,1 +1,1 @@
-var mnemonic = "spoil leaf sun enjoy select nothing pretty clump offer balance ancient marble";
+var mnemonic = "swear check scrap section half hand coral comfort kitchen shell kit napkin";

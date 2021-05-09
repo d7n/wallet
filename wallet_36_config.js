@@ -1,1 +1,1 @@
-var mnemonic = "together duty clutch use poverty confirm scorpion lemon bone pioneer toddler advance";
+var mnemonic = "know word client humor cash motor maid hidden soap apology confirm wedding";

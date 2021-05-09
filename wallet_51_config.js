@@ -1,1 +1,1 @@
-var mnemonic = "police cigar spend bird weapon shoe crop pigeon divorce bus soon arm";
+var mnemonic = "junk orchard vapor tiny egg bamboo lesson merge palace lemon setup winter";

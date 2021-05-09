@@ -1,1 +1,1 @@
-var mnemonic = "thunder refuse finish mimic rival garlic mix tray pass reduce hurry toddler";
+var mnemonic = "trim swap night piece kiss similar start lemon sun lawsuit pluck effort";

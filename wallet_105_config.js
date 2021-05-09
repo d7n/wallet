@@ -1,1 +1,1 @@
-var mnemonic = "razor marble border fury rug canyon quick hammer fetch pond life awake";
+var mnemonic = "snap first fancy century input rude hope bicycle fire lion orphan reduce";

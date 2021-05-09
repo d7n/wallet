@@ -1,1 +1,1 @@
-var mnemonic = "noble glance click denial swing bottom cloth desk tag asset voyage hello";
+var mnemonic = "stumble initial country ozone inhale advice lecture alley pupil devote butter fever";

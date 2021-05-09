@@ -1,1 +1,1 @@
-var mnemonic = "model joy joy street spike camera actress reflect knee gauge ketchup jacket";
+var mnemonic = "rotate add dumb oak toy stumble film casino dance age slow tenant";

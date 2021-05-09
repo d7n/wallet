@@ -1,1 +1,1 @@
-var mnemonic = "witness claw enough wagon cluster recipe meadow home perfect seed crime jar";
+var mnemonic = "donor clap bulb habit find logic buzz harbor voyage brain wise you";

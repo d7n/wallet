@@ -1,1 +1,1 @@
-var mnemonic = "tongue toss various very fitness capital tourist prefer wrestle curious street beach";
+var mnemonic = "man fatal morning reward space extend build clown film client bomb photo";

@@ -1,1 +1,1 @@
-var mnemonic = "goat script hub trash decade dinner kiss woman sail decline valid neutral";
+var mnemonic = "oppose account office buddy mouse normal cage open purpose cream photo actor";

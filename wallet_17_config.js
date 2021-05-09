@@ -1,1 +1,1 @@
-var mnemonic = "this response opera used grant spirit letter dawn voice price sustain click";
+var mnemonic = "oven step lift analyst truth receive dawn neutral six like legal large";

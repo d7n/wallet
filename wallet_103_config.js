@@ -1,1 +1,1 @@
-var mnemonic = "own sleep stamp hip holiday kangaroo finish spend attract resemble suspect bulk";
+var mnemonic = "nephew service sting below chief fix radio gold material course train oak";

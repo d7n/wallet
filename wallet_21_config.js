@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit improve mobile patch attend skull convince lock minute supply pact oyster";
+var mnemonic = "inmate average neglect august rotate trouble alien stage civil husband more axis";

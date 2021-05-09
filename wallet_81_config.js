@@ -1,1 +1,1 @@
-var mnemonic = "group rhythm maximum arm half echo boy post coast kit exercise merge";
+var mnemonic = "present settle bargain rifle cage toddler citizen urge unaware pumpkin squirrel recipe";

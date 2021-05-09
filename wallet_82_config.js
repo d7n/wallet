@@ -1,1 +1,1 @@
-var mnemonic = "slot negative basket stove virtual tool uniform garbage mother fame child minimum";
+var mnemonic = "judge moral when drill era gesture actor purity viable agent sing ticket";

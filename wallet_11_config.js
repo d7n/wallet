@@ -1,1 +1,1 @@
-var mnemonic = "crime winner explain unable traffic empty bracket spell jaguar blast dumb faculty";
+var mnemonic = "toddler afraid adult youth stamp coil hill eternal barrel endorse soon better";

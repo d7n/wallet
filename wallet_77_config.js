@@ -1,1 +1,1 @@
-var mnemonic = "rice grain express song trumpet track lake angle among plug life song";
+var mnemonic = "depart pledge affair duck topic fever market silver soft disagree festival girl";

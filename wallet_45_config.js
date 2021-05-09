@@ -1,1 +1,1 @@
-var mnemonic = "problem social poem nation clip there found creek iron kiwi scorpion humble";
+var mnemonic = "bubble ritual celery crystal used such capable merit soldier junior frequent away";

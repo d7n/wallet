@@ -1,1 +1,1 @@
-var mnemonic = "snap gasp gesture earth intact rule harvest grunt lunch genuine belt ski";
+var mnemonic = "trick write illness increase found brown sail fish notable congress curious dinosaur";

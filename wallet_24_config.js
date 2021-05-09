@@ -1,1 +1,1 @@
-var mnemonic = "tower have employ front almost glad clown hawk sibling bridge jacket flash";
+var mnemonic = "liberty omit subject matrix year tag fold gain tackle melt pepper elephant";

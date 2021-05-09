@@ -1,1 +1,1 @@
-var mnemonic = "cycle whisper thing fat fit open metal recall element ski pair thing";
+var mnemonic = "enforce faint attend police involve frequent kitten chicken ridge correct toy priority";

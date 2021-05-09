@@ -1,1 +1,1 @@
-var mnemonic = "layer foam laundry place miss essay beach volcano damp ripple flee horse";
+var mnemonic = "help glance violin eight oven sponsor dress balcony side pull satisfy among";

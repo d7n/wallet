@@ -1,1 +1,1 @@
-var mnemonic = "town hat earth summer decide around portion donate screen enrich enter latin";
+var mnemonic = "reward sort wheat spread suit plastic barrel afraid angle fragile guide matrix";

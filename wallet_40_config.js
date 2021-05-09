@@ -1,1 +1,1 @@
-var mnemonic = "choose museum panda true alert defense execute speak gaze round nasty inspire";
+var mnemonic = "range boring slender coast cruise window glass panel crawl next relax key";

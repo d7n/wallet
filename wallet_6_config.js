@@ -1,1 +1,1 @@
-var mnemonic = "diamond comic zoo morning cloth lend able choice output feature alley end";
+var mnemonic = "document slim farm nation practice knee amazing upgrade jump annual universe develop";

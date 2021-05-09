@@ -1,1 +1,1 @@
-var mnemonic = "hand fitness update prison flash mesh december horror crawl hen satisfy bamboo";
+var mnemonic = "base dynamic kite expand symbol hire subject super then fragile olive trumpet";

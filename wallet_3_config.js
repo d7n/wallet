@@ -1,1 +1,1 @@
-var mnemonic = "follow flame kind gym afford diamond nature differ jacket now lab skin";
+var mnemonic = "walk real try high either basket rifle change fence wife satisfy trim";

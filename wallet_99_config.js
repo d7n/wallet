@@ -1,1 +1,1 @@
-var mnemonic = "ghost half service device skirt portion gossip first another possible cement food";
+var mnemonic = "zoo kingdom olympic matter dose situate also praise easily garlic tag aisle";

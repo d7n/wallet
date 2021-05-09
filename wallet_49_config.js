@@ -1,1 +1,1 @@
-var mnemonic = "dose usual cash power patrol morning sister click sunset rule floor extend";
+var mnemonic = "observe harsh turtle clap zero shaft surround style forum labor goat wheat";

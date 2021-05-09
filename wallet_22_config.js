@@ -1,1 +1,1 @@
-var mnemonic = "session output happy rebuild author post toe drive submit flower state donor";
+var mnemonic = "pyramid lazy glide dial beyond taxi okay tired sense ride consider absorb";

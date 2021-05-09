@@ -1,1 +1,1 @@
-var mnemonic = "situate dish story sadness drip tired school canyon shy gesture dice mean";
+var mnemonic = "laptop detect core include south spoil runway uncle earth student tackle combine";

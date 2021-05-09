@@ -1,1 +1,1 @@
-var mnemonic = "deposit junk rifle result fit upper window immune wave fog jump galaxy";
+var mnemonic = "mass emotion receive viable own utility clip easily traffic rescue trouble exist";

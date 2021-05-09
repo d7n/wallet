@@ -1,1 +1,1 @@
-var mnemonic = "rifle umbrella same service swing relax income october merry engine neglect type";
+var mnemonic = "luggage slam ceiling raccoon cruise mouse more apology maximum zebra almost major";

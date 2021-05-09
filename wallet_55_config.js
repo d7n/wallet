@@ -1,1 +1,1 @@
-var mnemonic = "verify approve riot decorate gold lunch private nut sample laugh crop north";
+var mnemonic = "coast panic object symptom hair own round huge firm history retreat swing";

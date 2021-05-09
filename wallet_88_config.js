@@ -1,1 +1,1 @@
-var mnemonic = "siege wrestle scorpion loyal marine fit palace among nasty when garbage width";
+var mnemonic = "teach build rhythm conduct domain cabin thing track obey suspect flavor anchor";

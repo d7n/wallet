@@ -1,1 +1,1 @@
-var mnemonic = "brisk they slide ship banana bean pizza ticket wave have churn ketchup";
+var mnemonic = "civil atom bread cactus capital give company siren room spawn dignity good";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve all hazard divide trial level hour drink oxygen sorry erupt left";
+var mnemonic = "actor inquiry usage absorb museum dance tag soul length share stand sentence";

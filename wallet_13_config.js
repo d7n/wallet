@@ -1,1 +1,1 @@
-var mnemonic = "develop crawl purpose tiger output luxury flip dash pipe one rapid first";
+var mnemonic = "engage diamond element ginger total federal bridge clump crew hip ramp glimpse";

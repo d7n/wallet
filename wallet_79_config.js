@@ -1,1 +1,1 @@
-var mnemonic = "public asthma strike scene tortoise friend kiwi drip okay snap index cute";
+var mnemonic = "uncle foam chunk unfold sport science drink across arctic manage fold tent";

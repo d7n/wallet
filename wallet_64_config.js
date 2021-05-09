@@ -1,1 +1,1 @@
-var mnemonic = "book visit exercise dress afford bag frog bomb such bag march gospel";
+var mnemonic = "welcome voyage alpha front bid pottery address surprise pig exclude horse index";

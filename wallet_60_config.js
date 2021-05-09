@@ -1,1 +1,1 @@
-var mnemonic = "undo feel asset sorry cruel weather unaware gain penalty maple pet canyon";
+var mnemonic = "column banana hello faculty surround reopen never tail patch security siren produce";

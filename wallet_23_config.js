@@ -1,1 +1,1 @@
-var mnemonic = "uphold pluck market bamboo arm range supply coin vault update agent creek";
+var mnemonic = "empower flower arena little slogan come device tonight vague foster idea follow";
