@@ -1,1 +1,1 @@
-var mnemonic = "sorry child machine bunker spirit blame garment honey program cross save bike";
+var mnemonic = "maid regular know vital cheap town satoshi industry breeze bomb orchard holiday";

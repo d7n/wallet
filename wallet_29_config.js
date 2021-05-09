@@ -1,1 +1,1 @@
-var mnemonic = "advance vapor ankle surge motion toe recall friend ecology spider move funny";
+var mnemonic = "bracket chef point minute submit cheap picture icon drink wait play tip";

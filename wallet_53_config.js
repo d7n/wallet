@@ -1,1 +1,1 @@
-var mnemonic = "awake link pilot muscle phone stone they resemble play elite ball canoe";
+var mnemonic = "bone cost pitch pattern street crouch brush write token acquire suffer cart";

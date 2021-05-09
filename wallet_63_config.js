@@ -1,1 +1,1 @@
-var mnemonic = "wear live flame pill around animal fatigue seek dove paper spin antique";
+var mnemonic = "accident total school raven volcano gospel syrup arrange dizzy emerge myself awkward";

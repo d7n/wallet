@@ -1,1 +1,1 @@
-var mnemonic = "steak wheat pen midnight orbit shoot sell above voyage mushroom weekend hood";
+var mnemonic = "acoustic grit patrol sample inspire universe future recycle never spray hamster ski";

@@ -1,1 +1,1 @@
-var mnemonic = "tired scorpion erosion reflect zero daring fever valid feed during gallery flush";
+var mnemonic = "float salad glove breeze palace occur taste draft else select tissue version";

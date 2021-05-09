@@ -1,1 +1,1 @@
-var mnemonic = "engine stay staff cloud disorder swear couple combine swear wrestle soldier wrestle";
+var mnemonic = "enlist spice suit practice auction crater fashion lottery point universe castle fury";

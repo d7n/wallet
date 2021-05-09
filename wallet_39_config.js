@@ -1,1 +1,1 @@
-var mnemonic = "volcano owner wait error satisfy slim father area voyage struggle setup churn";
+var mnemonic = "response wrestle spend ivory off act roast sword absorb runway inflict blanket";

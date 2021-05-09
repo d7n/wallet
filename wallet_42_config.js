@@ -1,1 +1,1 @@
-var mnemonic = "barrel rice badge phone guide rely pottery bitter junk combine pudding asthma";
+var mnemonic = "donor cycle bless sight opera twice hundred foster solution lazy eternal lend";

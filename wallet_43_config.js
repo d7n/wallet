@@ -1,1 +1,1 @@
-var mnemonic = "journey toe surround paper deal merge hat flash canyon rabbit mirror warm";
+var mnemonic = "echo purchase call master put air box acid vote kangaroo addict clay";

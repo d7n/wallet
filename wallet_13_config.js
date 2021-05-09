@@ -1,1 +1,1 @@
-var mnemonic = "lobster suit recall unknown boil dance giggle deny nice cradle spot vendor";
+var mnemonic = "speak exhaust punch dad ceiling muscle sting neck slab chunk only leg";

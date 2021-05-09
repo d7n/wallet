@@ -1,1 +1,1 @@
-var mnemonic = "ugly chat spray recall improve kick miss gorilla height stove lawn raise";
+var mnemonic = "bulk stem loud electric place better alley saddle enjoy abandon social boost";

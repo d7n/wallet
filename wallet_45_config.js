@@ -1,1 +1,1 @@
-var mnemonic = "note student space impulse either sketch fluid card scan stuff profit obey";
+var mnemonic = "explain dream coyote trim name valid fork cloth core sport ostrich rough";

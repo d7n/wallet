@@ -1,1 +1,1 @@
-var mnemonic = "grace smoke wrong female wasp arena video lounge sausage merge name front";
+var mnemonic = "ticket border arena order toy sniff clock provide fine job muscle lock";

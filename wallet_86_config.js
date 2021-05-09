@@ -1,1 +1,1 @@
-var mnemonic = "adapt friend phrase eight soup sorry cup jaguar tip screen dream smooth";
+var mnemonic = "fiscal cotton virtual donkey midnight range meat gravity orient page believe bullet";

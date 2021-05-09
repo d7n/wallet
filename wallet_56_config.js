@@ -1,1 +1,1 @@
-var mnemonic = "wave glimpse amount ribbon primary drift sting remain scene wave swamp emotion";
+var mnemonic = "antenna hero between frog claim prize village card denial recipe drum attitude";

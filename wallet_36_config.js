@@ -1,1 +1,1 @@
-var mnemonic = "naive obtain arrive exotic forward merge extend detect fetch hero assist grit";
+var mnemonic = "force tip suspect allow guess wrestle cricket soccer equal joke sand pulp";

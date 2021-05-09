@@ -1,1 +1,1 @@
-var mnemonic = "turkey bundle reform play puppy stay build wheat slice trend crazy fly";
+var mnemonic = "figure taxi three welcome correct actual emotion simple clean round mutual fancy";

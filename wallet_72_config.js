@@ -1,1 +1,1 @@
-var mnemonic = "group tag danger vibrant update dragon kiwi hurry cross fatigue artist north";
+var mnemonic = "elevator panel rent inhale replace fever effort predict radar exchange among reason";

@@ -1,1 +1,1 @@
-var mnemonic = "recall art spike gasp setup step merry carry present observe foster explain";
+var mnemonic = "rookie must surround verify nasty head stool vast ozone token element spy";

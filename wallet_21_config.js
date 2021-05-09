@@ -1,1 +1,1 @@
-var mnemonic = "arrive velvet festival initial rough invite proof proof trap debris humor knock";
+var mnemonic = "journey glad equip thing skate frog silver joy artwork sugar rubber neither";

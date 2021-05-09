@@ -1,1 +1,1 @@
-var mnemonic = "treat zero snap common stable brass bridge year helmet suffer either mountain";
+var mnemonic = "cross display dismiss case police around boss jelly february adult siege avoid";

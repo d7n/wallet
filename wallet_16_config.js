@@ -1,1 +1,1 @@
-var mnemonic = "egg satisfy amount chase enact raccoon remove all unfair barely ride toe";
+var mnemonic = "fold able piece grace success board rib thrive crater despair consider quality";

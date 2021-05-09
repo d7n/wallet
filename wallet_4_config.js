@@ -1,1 +1,1 @@
-var mnemonic = "please license keep parade pond provide payment era transfer scissors deny left";
+var mnemonic = "nuclear trick sort feed intact pill base fitness ring explain episode size";

@@ -1,1 +1,1 @@
-var mnemonic = "place jeans card age humor top dizzy heavy gap eager awful antique";
+var mnemonic = "tennis success decade canal bamboo few soda exit physical movie wage pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal dose hazard floor spring sweet curve help sting chapter enlist pair";
+var mnemonic = "task strategy actress daring argue decorate repeat vapor orphan mountain dust since";

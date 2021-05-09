@@ -1,1 +1,1 @@
-var mnemonic = "armor top maze purity thing detail reason kick forest copy stumble history";
+var mnemonic = "develop banner unusual young rocket category web bronze cousin arm cheese second";

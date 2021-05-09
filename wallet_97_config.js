@@ -1,1 +1,1 @@
-var mnemonic = "subway gallery viable suspect prepare cricket girl oil leg calm choose final";
+var mnemonic = "say when endorse adult atom peace squirrel agent tortoise voyage aspect south";

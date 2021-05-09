@@ -1,1 +1,1 @@
-var mnemonic = "fan destroy uncover soft broccoli satisfy aspect goose need enable machine achieve";
+var mnemonic = "text bright wrist mystery mirror blood edit cry clutch shell anchor trigger";

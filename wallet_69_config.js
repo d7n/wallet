@@ -1,1 +1,1 @@
-var mnemonic = "enjoy course traffic fold lion gun exclude liar staff total moment all";
+var mnemonic = "rug wasp scheme enemy motion flame response leader fatigue divorce noise flavor";

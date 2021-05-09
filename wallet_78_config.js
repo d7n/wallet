@@ -1,1 +1,1 @@
-var mnemonic = "axis trade alter cool holiday round congress nuclear diet you frog fan";
+var mnemonic = "virtual tool civil ensure often bar two arm slush guilt lunch banner";

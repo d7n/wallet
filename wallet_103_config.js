@@ -1,1 +1,1 @@
-var mnemonic = "ritual same section express pause wolf truck milk trophy evoke under solve";
+var mnemonic = "spice wool monkey bag air black setup neither enjoy kingdom inflict little";

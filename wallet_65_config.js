@@ -1,1 +1,1 @@
-var mnemonic = "advice season clerk attitude amount remove champion quick wine myself sister chaos";
+var mnemonic = "pioneer omit strong giant swallow hedgehog tenant elephant post antique window clog";

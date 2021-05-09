@@ -1,1 +1,1 @@
-var mnemonic = "give screen only silk wheel repeat ball grief expand antique uniform question";
+var mnemonic = "photo warrior planet bicycle run delay cluster palace more identify door unit";

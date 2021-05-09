@@ -1,1 +1,1 @@
-var mnemonic = "book survey age seat intact letter army wolf robust nation galaxy rule";
+var mnemonic = "since review hero shrug screen help brown decide entire beach joy youth";

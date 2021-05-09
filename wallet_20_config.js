@@ -1,1 +1,1 @@
-var mnemonic = "ill cinnamon clutch employ foam wide report broom hub avocado myth flower";
+var mnemonic = "fantasy believe curve bleak antenna tissue plastic drip alley profit banana episode";

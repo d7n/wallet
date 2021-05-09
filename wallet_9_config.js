@@ -1,1 +1,1 @@
-var mnemonic = "almost ensure smooth advice oxygen invite mushroom globe erosion defy soda sauce";
+var mnemonic = "woman behave ensure pact pencil country helmet spoon street talk onion candy";

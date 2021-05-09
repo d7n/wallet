@@ -1,1 +1,1 @@
-var mnemonic = "chest dance saddle timber bridge people laugh zero dish gauge elder pen";
+var mnemonic = "grab live art okay ticket allow whip someone fix bubble return sample";

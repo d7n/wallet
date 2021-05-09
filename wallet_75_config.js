@@ -1,1 +1,1 @@
-var mnemonic = "valid word have spoon yard mass hole entire item autumn stable then";
+var mnemonic = "enhance artist slender adult plastic play blade dice habit tobacco vote nasty";

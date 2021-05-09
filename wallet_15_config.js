@@ -1,1 +1,1 @@
-var mnemonic = "cotton admit monkey cupboard apple daughter motor fossil salt humble smoke test";
+var mnemonic = "furnace convince hurt poet cash cost wild age address lava engage bounce";

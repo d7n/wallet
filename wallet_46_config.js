@@ -1,1 +1,1 @@
-var mnemonic = "bitter awake pole element cause cram obtain panel proof summer document wolf";
+var mnemonic = "among slim bus loan kidney mansion mule debris bottom have despair frog";

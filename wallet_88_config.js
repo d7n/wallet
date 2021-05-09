@@ -1,1 +1,1 @@
-var mnemonic = "spell wood way nuclear observe library unique ugly enable include feed illness";
+var mnemonic = "barrel muscle silver angry poverty track situate feature purpose above tiger mom";

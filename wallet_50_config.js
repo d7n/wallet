@@ -1,1 +1,1 @@
-var mnemonic = "rice inform deliver spray globe state toe pig glide hotel ribbon lion";
+var mnemonic = "aspect bar slight work sunset neither perfect figure mistake method toy install";

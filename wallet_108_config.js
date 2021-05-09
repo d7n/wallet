@@ -1,1 +1,1 @@
-var mnemonic = "upgrade broccoli leopard catch chapter liquid sister glad equip energy matter loud";
+var mnemonic = "crew thunder track nuclear caution slam work fire lonely stable wealth dune";

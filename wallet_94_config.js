@@ -1,1 +1,1 @@
-var mnemonic = "famous keen inflict clerk analyst option cover lumber sign what catch deposit";
+var mnemonic = "card candy travel stumble beyond shield sense penalty father limb art inhale";

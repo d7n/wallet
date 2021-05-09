@@ -1,1 +1,1 @@
-var mnemonic = "stone magnet sibling list enact bike excuse minute offer supreme army season";
+var mnemonic = "sister inner library volcano adapt alert amateur tunnel egg pool face finish";

@@ -1,1 +1,1 @@
-var mnemonic = "old impact exotic thumb flame then bus planet color dream fly various";
+var mnemonic = "fancy pistol gap van affair middle toy mind cook rice sibling pattern";

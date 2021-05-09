@@ -1,1 +1,1 @@
-var mnemonic = "good canal noble chat gesture blur globe scale neither valve wait sheriff";
+var mnemonic = "potato engage knock produce globe region can coral buzz corn because awful";

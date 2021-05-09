@@ -1,1 +1,1 @@
-var mnemonic = "circle illness boy birth entry flee special veteran skin own glue dial";
+var mnemonic = "end acoustic gorilla furnace machine rack subject inmate action identify minute party";

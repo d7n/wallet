@@ -1,1 +1,1 @@
-var mnemonic = "century frost any apart ivory panda stove believe render throw mind tackle";
+var mnemonic = "physical slot flame coffee enhance grace addict certain weird like quality next";

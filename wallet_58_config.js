@@ -1,1 +1,1 @@
-var mnemonic = "area caught perfect member young damage tiger right same movie strong peanut";
+var mnemonic = "giant elevator blush aunt dust casino people post soul melt orphan boat";

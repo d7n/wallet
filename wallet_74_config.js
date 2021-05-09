@@ -1,1 +1,1 @@
-var mnemonic = "wall strategy seat alert defense ski gauge beauty trust wire own slush";
+var mnemonic = "sun enemy suit motion kiss behave swamp follow neck flush figure slender";

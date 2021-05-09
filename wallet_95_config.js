@@ -1,1 +1,1 @@
-var mnemonic = "square patrol option entire neutral sense inside divide garlic split slight merit";
+var mnemonic = "clinic buddy accuse federal public near whip lounge ginger celery hospital grid";

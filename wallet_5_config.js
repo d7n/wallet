@@ -1,1 +1,1 @@
-var mnemonic = "tackle sleep quiz learn food exact method apple canal pledge chest spice";
+var mnemonic = "daughter suffer report rotate biology audit maple fence buddy segment smoke boil";

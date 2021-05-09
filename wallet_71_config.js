@@ -1,1 +1,1 @@
-var mnemonic = "brush blur roof now exhaust pumpkin tissue cry cup zone will taste";
+var mnemonic = "diesel genre surface frame insect burst exotic volume ceiling truth crunch slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup rigid depend begin range pistol execute evidence title chair arrest profit";
+var mnemonic = "execute crazy angle impact sausage task butter hero talk equip vivid isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "science accuse stomach screen tired fire two catalog dog skirt meat picnic";
+var mnemonic = "you invite cereal loan settle pause local human few news version riot";

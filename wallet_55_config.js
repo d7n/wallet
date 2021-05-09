@@ -1,1 +1,1 @@
-var mnemonic = "orbit scale riot able sport bench picnic toilet song globe biology goose";
+var mnemonic = "address cry flight ring legal liar deputy regret palace cave reject digital";

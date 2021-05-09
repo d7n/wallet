@@ -1,1 +1,1 @@
-var mnemonic = "congress ranch account regular ethics suspect gather language runway puppy basic excess";
+var mnemonic = "attract disorder people tree fun river better symptom hand canoe reason arctic";

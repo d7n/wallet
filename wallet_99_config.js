@@ -1,1 +1,1 @@
-var mnemonic = "chapter copy subject sure industry essence alarm electric number melody fiction faint";
+var mnemonic = "will grunt casual evolve fox settle harsh note permit coach spoon rhythm";

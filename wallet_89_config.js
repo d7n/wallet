@@ -1,1 +1,1 @@
-var mnemonic = "ankle long hockey unable sock achieve cash hover tuition board lock pottery";
+var mnemonic = "rare tape swift wear double setup unaware february chat gate mail pear";

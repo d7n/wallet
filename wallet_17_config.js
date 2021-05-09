@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin involve episode judge gain protect tree plate purchase smart round tomorrow";
+var mnemonic = "supreme drill stove able ritual trouble breeze vacuum sort board empower become";

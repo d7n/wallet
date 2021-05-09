@@ -1,1 +1,1 @@
-var mnemonic = "middle gain opinion candy face orphan gold guilt inflict fade turn milk";
+var mnemonic = "celery more hat whip nest crop hour width wage fun twin innocent";

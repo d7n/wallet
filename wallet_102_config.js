@@ -1,1 +1,1 @@
-var mnemonic = "hidden neither biology divorce curve upon upon dutch zoo hidden fragile pave";
+var mnemonic = "depart upgrade cram lens move hire adjust advice pass clean buddy spend";

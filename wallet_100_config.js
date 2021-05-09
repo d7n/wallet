@@ -1,1 +1,1 @@
-var mnemonic = "they letter focus much clown already arrow mansion property ahead boy green";
+var mnemonic = "else gather item neglect stumble orphan miss enough humor brief disease drop";

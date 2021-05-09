@@ -1,1 +1,1 @@
-var mnemonic = "spatial season regular accuse lounge behind hamster render trial van liquid core";
+var mnemonic = "youth hold require just inflict arch omit length pigeon blame tortoise pudding";

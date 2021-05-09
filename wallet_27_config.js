@@ -1,1 +1,1 @@
-var mnemonic = "cluster warrior senior mesh tuition rather nut mango result soda sentence dog";
+var mnemonic = "stay pudding meat dad project endless tray master slim cliff bring salon";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle neck march abandon decrease coast jump urge pigeon offer orbit cool";
+var mnemonic = "try wave velvet local favorite airport trap castle problem jaguar anchor region";

@@ -1,1 +1,1 @@
-var mnemonic = "eye twenty sister chair humor wheat into used letter loan unfold hero";
+var mnemonic = "reunion valid math panic garment safe monster camp estate knife rebel banner";

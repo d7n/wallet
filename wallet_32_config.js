@@ -1,1 +1,1 @@
-var mnemonic = "price razor foot stock joke alley scan pond tongue dial spice wise";
+var mnemonic = "shallow announce atom lake love carry catalog retreat swamp guard mad fish";

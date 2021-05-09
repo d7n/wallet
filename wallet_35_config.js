@@ -1,1 +1,1 @@
-var mnemonic = "rice olympic any bunker crack club true chat leader image hover hat";
+var mnemonic = "clock embark become visit chalk weird liberty desert faculty verb beach kite";

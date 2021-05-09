@@ -1,1 +1,1 @@
-var mnemonic = "maid vapor hockey pumpkin help embody slow song tip grunt cannon absorb";
+var mnemonic = "general kiwi sugar service parent helmet gown country crew energy snack bean";

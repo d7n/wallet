@@ -1,1 +1,1 @@
-var mnemonic = "glass ceiling frame knife april blur pulse follow marble copper spy sugar";
+var mnemonic = "drastic industry engage cupboard achieve sign lion camp kangaroo feature cancel bounce";

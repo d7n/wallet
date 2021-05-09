@@ -1,1 +1,1 @@
-var mnemonic = "supply atom mirror rookie link abuse basic usual holiday rapid viable stumble";
+var mnemonic = "husband soup universe toddler clever evoke shrimp provide urban whisper faint dolphin";

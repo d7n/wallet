@@ -1,1 +1,1 @@
-var mnemonic = "athlete rail property excite unfair doctor border hint image scout blame ivory";
+var mnemonic = "reveal garlic affair shove pioneer until answer wonder window coconut month argue";

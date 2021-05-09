@@ -1,1 +1,1 @@
-var mnemonic = "entry train until solve obey about jaguar alert pause old draw wreck";
+var mnemonic = "garment wolf arrange amused hotel negative leisure pool garage balcony sibling shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna home simple similar garlic night bamboo scout buffalo brave better correct";
+var mnemonic = "twelve author key garage dismiss planet swamp win lecture spike flavor again";

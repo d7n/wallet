@@ -1,1 +1,1 @@
-var mnemonic = "sunny outdoor check game tattoo artist slice proof success wish pretty length";
+var mnemonic = "harsh blossom real envelope wrong brain essence dry fruit danger rain tank";

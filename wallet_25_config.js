@@ -1,1 +1,1 @@
-var mnemonic = "scare cost glow melt behind energy bomb crazy magnet anchor utility garden";
+var mnemonic = "fluid enjoy ankle adjust garage identify blossom floor north tail slight bar";

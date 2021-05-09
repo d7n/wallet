@@ -1,1 +1,1 @@
-var mnemonic = "jewel board toast light cherry canoe fancy page runway topic bacon concert";
+var mnemonic = "cry slogan pyramid faith jacket tongue brain okay cigar tragic hollow memory";

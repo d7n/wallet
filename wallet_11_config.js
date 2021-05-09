@@ -1,1 +1,1 @@
-var mnemonic = "mention urge spell magnet gun talk hockey matrix word bleak public way";
+var mnemonic = "palace visual barely major end enact use often major dwarf jeans around";

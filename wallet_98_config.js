@@ -1,1 +1,1 @@
-var mnemonic = "term hybrid rocket own method material maid month pave perfect goddess uncover";
+var mnemonic = "ski retreat cluster vivid soldier ethics tool portion gesture pact scatter visa";

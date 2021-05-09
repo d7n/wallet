@@ -1,1 +1,1 @@
-var mnemonic = "degree whale behave brass various keep basic van power check next foam";
+var mnemonic = "neck next jar east october desk helmet leg pitch scout used permit";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic naive advice dirt stock marriage entire scare toward regret reason real";
+var mnemonic = "assist social crystal sing twin iron warrior device decorate sustain unfold smooth";

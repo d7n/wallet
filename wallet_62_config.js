@@ -1,1 +1,1 @@
-var mnemonic = "same empower unhappy auction wait quick blanket member hen path wheel stone";
+var mnemonic = "motor believe butter next practice educate arrest direct cotton protect zoo mystery";

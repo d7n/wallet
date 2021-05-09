@@ -1,1 +1,1 @@
-var mnemonic = "unfold column system gorilla chat seat indicate airport rate crane actual top";
+var mnemonic = "rule remove gold enact moral inhale night build second hunt step fitness";

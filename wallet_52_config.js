@@ -1,1 +1,1 @@
-var mnemonic = "glue mesh sheriff whisper vote super mystery cattle network stool merge warrior";
+var mnemonic = "surround glad battle broom endless yard cherry point craft indicate frog void";

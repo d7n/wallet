@@ -1,1 +1,1 @@
-var mnemonic = "leg dune switch over avocado eager yard zone atom say zone rescue";
+var mnemonic = "coin hope degree among carry rely remind seven nest clap derive flock";

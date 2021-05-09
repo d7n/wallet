@@ -1,1 +1,1 @@
-var mnemonic = "debris punch grape acid category family argue buyer loud early wire scheme";
+var mnemonic = "fabric choice start cage flee dice recipe loan surface aisle dash bus";

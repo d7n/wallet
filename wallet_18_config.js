@@ -1,1 +1,1 @@
-var mnemonic = "crystal wagon option lake waste you hope drive bicycle access fix exclude";
+var mnemonic = "invest spend talent head regular civil youth inside orbit flower security riot";

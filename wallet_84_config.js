@@ -1,1 +1,1 @@
-var mnemonic = "cheese tuition edge cycle spin inner rent chimney latin damp first little";
+var mnemonic = "math girl water tenant tail shuffle quarter duck issue slender rail transfer";
