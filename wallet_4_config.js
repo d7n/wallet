@@ -1,1 +1,1 @@
-var mnemonic = "oak bind dwarf letter lava grant female ski sunset wave bag weapon";
+var mnemonic = "process fall help bullet dolphin scrap weapon walk item spring nest purity";

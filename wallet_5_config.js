@@ -1,1 +1,1 @@
-var mnemonic = "police celery nose find famous first planet afford symptom soda foil panther";
+var mnemonic = "tunnel rigid again consider deputy tennis kit gun outer tissue feel elevator";

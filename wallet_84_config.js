@@ -1,1 +1,1 @@
-var mnemonic = "exchange patient slender custom level wolf chronic same pet gun style west";
+var mnemonic = "draw crouch install glue grain solution beef cannon soccer adapt charge auction";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup spoil thrive usual senior render rich mix luggage symbol mixture pair";
+var mnemonic = "master sock buyer vacant want speed subject agent athlete dolphin chest gospel";

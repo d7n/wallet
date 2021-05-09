@@ -1,1 +1,1 @@
-var mnemonic = "any oppose hawk jealous wise cupboard raw slim version fiscal omit salmon";
+var mnemonic = "detail correct round lunar fluid wrestle will tunnel tell palace tail scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "cement rebel pave breeze hair gesture age picnic occur artefact stairs vanish";
+var mnemonic = "dream thought alcohol food cluster neither memory lake client glimpse ensure tongue";

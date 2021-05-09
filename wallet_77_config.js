@@ -1,1 +1,1 @@
-var mnemonic = "bulk street know diary depart ripple offer stairs favorite good thank van";
+var mnemonic = "fantasy script act ceiling drift process shuffle peasant father toddler zone hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "where kick nest invite oil powder start casino you silver easily brass";
+var mnemonic = "survey plate family phrase keen bright broom plastic include lock hazard lawsuit";

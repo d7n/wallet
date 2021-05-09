@@ -1,1 +1,1 @@
-var mnemonic = "session shuffle nerve average three flock success lucky company cactus drastic erosion";
+var mnemonic = "dish industry country adult above injury body chimney world aerobic youth stove";

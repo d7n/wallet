@@ -1,1 +1,1 @@
-var mnemonic = "defy better upset arrest strong raccoon exchange shrug home anger virtual moon";
+var mnemonic = "bicycle add model ring medal bus catalog pitch three mandate caught shield";

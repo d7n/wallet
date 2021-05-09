@@ -1,1 +1,1 @@
-var mnemonic = "wave magic rail act error rally team manage mad tuna era witness";
+var mnemonic = "lottery water electric soon honey world lesson will citizen refuse token ocean";

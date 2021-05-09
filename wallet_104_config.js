@@ -1,1 +1,1 @@
-var mnemonic = "eternal usage fault side vicious boy orphan elbow talk bomb aware mail";
+var mnemonic = "piano search obvious table fashion high tape there acoustic december seat kit";

@@ -1,1 +1,1 @@
-var mnemonic = "silly crush approve cinnamon soon annual tobacco puzzle cup wet bunker power";
+var mnemonic = "false armor suspect yard chalk raise high wreck laugh uphold coin notice";

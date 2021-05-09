@@ -1,1 +1,1 @@
-var mnemonic = "betray brush glance need swap office youth jelly neglect episode crystal math";
+var mnemonic = "interest grab congress movie firm whip spread volume source anchor warrior clay";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen walk sniff veteran debate million furnace merry hope hole timber exit";
+var mnemonic = "trial genre saddle guide wine duck model treat armor casual apology season";

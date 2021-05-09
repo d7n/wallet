@@ -1,1 +1,1 @@
-var mnemonic = "brave response valid federal movie oppose swamp before extend chronic boring bounce";
+var mnemonic = "away town buffalo tell size hamster album flower predict now right zero";

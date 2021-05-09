@@ -1,1 +1,1 @@
-var mnemonic = "then physical movie era flush excite food guitar must advice dismiss ozone";
+var mnemonic = "situate supreme river usual legal fatal zero march favorite shoulder today repeat";

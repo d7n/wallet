@@ -1,1 +1,1 @@
-var mnemonic = "zoo arrest romance smile merry chunk hole comic half kit myth logic";
+var mnemonic = "size bone chalk owner juice defy harvest broom prevent common strong praise";

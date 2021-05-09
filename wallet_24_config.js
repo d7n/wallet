@@ -1,1 +1,1 @@
-var mnemonic = "surface fiber suit oil flash favorite drill vote clap exhaust put panel";
+var mnemonic = "buddy elbow galaxy feature cotton slim turkey saddle weapon sight robust cliff";

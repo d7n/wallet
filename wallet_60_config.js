@@ -1,1 +1,1 @@
-var mnemonic = "limit survey radio acquire manual trophy woman shield slogan word sister place";
+var mnemonic = "ball purity hockey liquid find clump august chuckle base museum opera still";

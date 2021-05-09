@@ -1,1 +1,1 @@
-var mnemonic = "wish marble alter swap spare trim episode ask farm stock pact girl";
+var mnemonic = "number few swallow replace fence busy spray nose net impose fabric crawl";

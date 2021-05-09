@@ -1,1 +1,1 @@
-var mnemonic = "ride warfare wet mixture latin staff flight wife diary rocket give cycle";
+var mnemonic = "cactus tomorrow portion make panel mother shrug fade process year assault section";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp stomach ticket message garbage couple grain admit equip auto forward remove";
+var mnemonic = "identify capable crowd limb defy sting flavor pretty top rough dog cancel";

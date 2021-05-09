@@ -1,1 +1,1 @@
-var mnemonic = "grow author inject dish switch entire alien soccer supply dismiss skirt vessel";
+var mnemonic = "faith monster dance wash damp must average vacant mandate embrace believe eternal";

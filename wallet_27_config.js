@@ -1,1 +1,1 @@
-var mnemonic = "bird tip metal monster coin heavy tiger rain circle cloth spatial own";
+var mnemonic = "leg puzzle engine parrot reward because produce language best siege vehicle recall";

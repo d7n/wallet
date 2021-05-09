@@ -1,1 +1,1 @@
-var mnemonic = "vast aspect into tube spirit purity enough gesture thank bless faith bus";
+var mnemonic = "march crop section awake market front library weather hint horror arm public";

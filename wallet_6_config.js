@@ -1,1 +1,1 @@
-var mnemonic = "diamond people lucky siege fitness prosper idle destroy episode august require business";
+var mnemonic = "final orphan destroy ring wild grain margin cargo old must gift essay";

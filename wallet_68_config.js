@@ -1,1 +1,1 @@
-var mnemonic = "ensure flock chicken idea clown aunt april sustain flock typical cannon remember";
+var mnemonic = "type sausage kangaroo obey mutual stand impulse pizza draw foil gain avoid";

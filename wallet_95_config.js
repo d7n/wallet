@@ -1,1 +1,1 @@
-var mnemonic = "year rib know patch limit notice later poem exact drive betray velvet";
+var mnemonic = "business one magnet regular quit shoe bounce crowd shuffle venue choose truth";

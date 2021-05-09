@@ -1,1 +1,1 @@
-var mnemonic = "evidence awkward knife uncle soft swing search floor sauce acquire spread fine";
+var mnemonic = "notice clown health honey mother orient shoulder emerge galaxy common already paper";

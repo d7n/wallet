@@ -1,1 +1,1 @@
-var mnemonic = "filter fatigue meadow wish shop globe veteran flee hold butter loyal disagree";
+var mnemonic = "object speed steak enact valid lesson abuse worth wife round distance try";

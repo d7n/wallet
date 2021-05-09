@@ -1,1 +1,1 @@
-var mnemonic = "cement feature luxury hybrid try grass census grace review crater nation vote";
+var mnemonic = "tone bean mind tissue survey across visa fancy pyramid galaxy atom penalty";

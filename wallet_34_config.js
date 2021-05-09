@@ -1,1 +1,1 @@
-var mnemonic = "garage close call powder melt link style common fall admit submit laundry";
+var mnemonic = "budget tribe popular frog stomach ensure runway decade crush music diary brush";

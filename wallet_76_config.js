@@ -1,1 +1,1 @@
-var mnemonic = "paddle people nation power bottom oval target sting solar judge essence brush";
+var mnemonic = "jeans car visual find asset excess family stairs rival upper urge visa";

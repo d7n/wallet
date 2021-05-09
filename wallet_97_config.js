@@ -1,1 +1,1 @@
-var mnemonic = "travel avoid scrap vintage wood illegal daughter child secret author spoil review";
+var mnemonic = "cable neck rather sadness anger donor radar whip world firm shock random";

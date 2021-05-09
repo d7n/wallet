@@ -1,1 +1,1 @@
-var mnemonic = "neutral comic bitter capital narrow frown repeat tenant clinic fuel sauce voice";
+var mnemonic = "fox hazard volume zone cause double simple disorder dry soda orchard theory";

@@ -1,1 +1,1 @@
-var mnemonic = "spike stove fantasy junior peanut broom exotic endless lobster infant machine merry";
+var mnemonic = "globe add spawn spoil library between tray mansion write goat swift nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella first excuse tennis shoe tackle agree real come earth coconut giraffe";
+var mnemonic = "note lock reunion used tube head hello zone shuffle shift sister foil";

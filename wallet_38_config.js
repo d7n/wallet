@@ -1,1 +1,1 @@
-var mnemonic = "pause primary switch breeze vessel pulse give primary title brass salt tribe";
+var mnemonic = "dirt swim attend giggle hire crash correct screen victory advice tiger cruise";

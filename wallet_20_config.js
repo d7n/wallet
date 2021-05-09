@@ -1,1 +1,1 @@
-var mnemonic = "group boy zoo drama crush alter system float host journey spread rather";
+var mnemonic = "permit daughter energy day spare magic problem wave win afford term trash";

@@ -1,1 +1,1 @@
-var mnemonic = "music very loyal silver december poet measure furnace debris million derive mother";
+var mnemonic = "weather celery voice damp trigger dawn indoor metal scare poet pattern add";

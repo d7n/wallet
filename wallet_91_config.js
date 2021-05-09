@@ -1,1 +1,1 @@
-var mnemonic = "lemon category flash collect lady excess drink burden scatter chapter glide trend";
+var mnemonic = "stadium sea display embark improve scare chase kingdom trigger desert frog rail";

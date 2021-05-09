@@ -1,1 +1,1 @@
-var mnemonic = "black drink bean fashion infant turtle size twenty theme depart clown math";
+var mnemonic = "couch village arrange festival yard sock adapt cupboard nest bacon powder matrix";

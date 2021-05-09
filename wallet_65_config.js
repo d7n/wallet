@@ -1,1 +1,1 @@
-var mnemonic = "spread day giant once love punch trade rebuild write present blast light";
+var mnemonic = "salmon bonus stuff pole merit captain entire apple attack lens payment seed";

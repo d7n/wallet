@@ -1,1 +1,1 @@
-var mnemonic = "debate scale risk icon slot always talent enemy hello phone name truth";
+var mnemonic = "client used knee invest shoe boil turkey action bargain zebra sunset educate";

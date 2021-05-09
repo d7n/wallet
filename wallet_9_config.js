@@ -1,1 +1,1 @@
-var mnemonic = "large render wonder liquid lazy segment betray make carbon inside lawn suggest";
+var mnemonic = "enact short element photo obtain tail gold embark wall below indoor foil";

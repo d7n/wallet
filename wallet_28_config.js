@@ -1,1 +1,1 @@
-var mnemonic = "reward coyote impose fee subway genuine host awesome loyal bring cruel diagram";
+var mnemonic = "donate other battle refuse elephant glory access pond legend ceiling response script";

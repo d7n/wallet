@@ -1,1 +1,1 @@
-var mnemonic = "repeat hope giraffe denial reveal pizza series roast consider august gate need";
+var mnemonic = "agree horn wool spell couple pair bag jeans fever nice tone kind";

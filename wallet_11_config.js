@@ -1,1 +1,1 @@
-var mnemonic = "census deposit gym among express gesture pistol later good try approve tool";
+var mnemonic = "urban food rotate region skin sustain camera liberty rescue turn business slide";

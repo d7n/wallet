@@ -1,1 +1,1 @@
-var mnemonic = "act judge stage dress liberty nuclear defense leisure animal vault magic duck";
+var mnemonic = "angry disease talk twin comic pear force increase solid interest shoulder luggage";

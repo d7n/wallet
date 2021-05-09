@@ -1,1 +1,1 @@
-var mnemonic = "onion allow auto abuse volume tourist forum fatal rookie mixed calm grape";
+var mnemonic = "boat swallow turtle autumn more youth dragon panda dynamic vintage bench embark";

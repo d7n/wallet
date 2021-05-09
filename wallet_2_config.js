@@ -1,1 +1,1 @@
-var mnemonic = "trial ceiling cruel coral pencil another trigger private protect guide spare what";
+var mnemonic = "ill income gift paper diary morning call sorry foil flee intact finish";

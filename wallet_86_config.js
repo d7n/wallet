@@ -1,1 +1,1 @@
-var mnemonic = "diesel today cereal aerobic vital buzz kitten window hurry miss hen section";
+var mnemonic = "this drive coyote service borrow height appear early include connect brass detail";

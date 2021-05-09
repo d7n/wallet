@@ -1,1 +1,1 @@
-var mnemonic = "belt crawl place illegal omit eye tennis angle valley elder sister girl";
+var mnemonic = "gentle hundred news drink ride glory vessel ski then awesome tortoise survey";

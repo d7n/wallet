@@ -1,1 +1,1 @@
-var mnemonic = "candy resist asset auction panther among shrug never glow seminar two scrub";
+var mnemonic = "name nasty citizen exchange symptom silly comfort cool artist renew maximum diary";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise option bonus uncover cost casino exit immense sight rose slide cook";
+var mnemonic = "escape fiber crop milk title oven circle act brain trial menu boost";

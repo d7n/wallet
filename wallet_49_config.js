@@ -1,1 +1,1 @@
-var mnemonic = "crawl imitate fog apple alien antique caution fiction fortune patrol limb auction";
+var mnemonic = "forward cluster love half glance anger cool sketch potato debris fragile toy";

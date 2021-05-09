@@ -1,1 +1,1 @@
-var mnemonic = "uncover comfort uphold exhaust uncle obvious one brave renew forget essay because";
+var mnemonic = "hospital ozone marriage brush panther barrel wink post velvet warm dust ignore";

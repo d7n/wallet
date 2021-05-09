@@ -1,1 +1,1 @@
-var mnemonic = "add shaft slush essence tonight clock chase gap call crucial salon light";
+var mnemonic = "primary leave farm gaze rebuild arm vapor foil smooth lift primary spray";

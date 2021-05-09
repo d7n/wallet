@@ -1,1 +1,1 @@
-var mnemonic = "knock expect swift gas alcohol drip grocery ride firm master village stem";
+var mnemonic = "raw funny often balcony nation ozone later spider hover submit shrimp elbow";

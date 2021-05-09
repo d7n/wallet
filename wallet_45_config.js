@@ -1,1 +1,1 @@
-var mnemonic = "bulb pause found minimum thumb final stool layer stairs slush power catalog";
+var mnemonic = "load robot shaft blast sting lamp arrest tackle private license foil renew";

@@ -1,1 +1,1 @@
-var mnemonic = "rich badge trial weird tribe kid unhappy mix glare access exile student";
+var mnemonic = "breeze neither ship salon empty easily erode wrong accuse adult okay sand";

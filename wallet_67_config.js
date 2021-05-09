@@ -1,1 +1,1 @@
-var mnemonic = "office digital palm water sleep cinnamon conduct various husband giraffe junior cherry";
+var mnemonic = "utility meadow dial drum before current dance catch valve include lizard bean";

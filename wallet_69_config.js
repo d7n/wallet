@@ -1,1 +1,1 @@
-var mnemonic = "guard blood left order point small any vapor odor surprise aisle potato";
+var mnemonic = "warfare slight category foster room rubber core large august favorite mind orange";

@@ -1,1 +1,1 @@
-var mnemonic = "lion transfer easily snake jar galaxy trust tray trick crazy staff claim";
+var mnemonic = "solid ill assist afraid object donkey usage start obtain coin offer spare";

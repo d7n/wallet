@@ -1,1 +1,1 @@
-var mnemonic = "hybrid region prepare cart gather digital lens vast equip scatter ready various";
+var mnemonic = "original plug message garment curious lunch balcony bag sing clip derive acid";

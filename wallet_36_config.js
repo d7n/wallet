@@ -1,1 +1,1 @@
-var mnemonic = "unit fringe person winter divide display erupt afford addict crane monitor excite";
+var mnemonic = "history zone resemble behave upper record stock decorate thrive energy addict loud";

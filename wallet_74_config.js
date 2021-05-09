@@ -1,1 +1,1 @@
-var mnemonic = "inhale riot civil mango civil tonight coin upon toddler worth capital bonus";
+var mnemonic = "empower february miss flee anxiety another royal general rival stable focus guard";

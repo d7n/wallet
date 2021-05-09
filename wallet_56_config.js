@@ -1,1 +1,1 @@
-var mnemonic = "layer lonely fashion thank tip boss trap middle across today series affair";
+var mnemonic = "scene hundred piano reform above author length hub virus endless isolate invest";

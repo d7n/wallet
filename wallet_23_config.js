@@ -1,1 +1,1 @@
-var mnemonic = "regret cage system cradle express shop human moral rack rude object fault";
+var mnemonic = "profit shy unit main good zero profit actual news stick alien glance";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle citizen pull about betray topic web trouble salute defy twin remove";
+var mnemonic = "master input true teach worry cushion fork book rely sword photo random";

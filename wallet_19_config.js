@@ -1,1 +1,1 @@
-var mnemonic = "athlete group feed fiction loop suffer capable noodle bleak limit leader sort";
+var mnemonic = "party grain peace zone news magnet photo describe cash penalty tent finish";

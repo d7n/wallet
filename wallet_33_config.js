@@ -1,1 +1,1 @@
-var mnemonic = "camera nominee follow chronic aisle autumn capable infant taste relief rapid ill";
+var mnemonic = "visa can check mosquito rule dinosaur absorb vanish meadow skirt kidney world";

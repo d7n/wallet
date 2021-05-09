@@ -1,1 +1,1 @@
-var mnemonic = "found valid auto doll few shaft coast eye fame style caution rescue";
+var mnemonic = "shop open economy upon fresh dizzy insect bleak home gym draft road";

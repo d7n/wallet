@@ -1,1 +1,1 @@
-var mnemonic = "photo eternal away argue balance pumpkin essay weasel deposit forget flee other";
+var mnemonic = "rent bonus balcony vanish hover coconut write symbol slender afford when club";

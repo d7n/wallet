@@ -1,1 +1,1 @@
-var mnemonic = "army galaxy shop alien shoulder tool urban town kit fiscal insane civil";
+var mnemonic = "estate foster rhythm spatial act bone grant inquiry name ivory travel spread";

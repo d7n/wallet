@@ -1,1 +1,1 @@
-var mnemonic = "bring goat system blast crunch salmon depend cook fine pyramid month barely";
+var mnemonic = "winner love legend morning inspire property above vintage rare amazing state office";

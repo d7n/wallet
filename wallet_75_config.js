@@ -1,1 +1,1 @@
-var mnemonic = "glass embrace blur eagle fortune two report fiscal sick welcome pilot citizen";
+var mnemonic = "have dune spider repair pioneer range crystal almost soul sword vital merit";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare unusual limit armor calm buffalo reunion estate rubber enroll essay trend";
+var mnemonic = "excite soda subject super medal select twelve remind slab clog ivory culture";

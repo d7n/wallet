@@ -1,1 +1,1 @@
-var mnemonic = "toward random smoke parade arrive pledge pigeon scale flee exhibit mammal jealous";
+var mnemonic = "olympic swear oppose mansion echo rely dismiss come grow black hazard ramp";

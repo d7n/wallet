@@ -1,1 +1,1 @@
-var mnemonic = "donate maple shrimp setup open phone shock jelly swim depart fix wing";
+var mnemonic = "token thing yard cinnamon soccer rotate salmon drip clump unlock blanket swamp";

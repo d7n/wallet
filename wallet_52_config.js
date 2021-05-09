@@ -1,1 +1,1 @@
-var mnemonic = "address green raccoon version base tone used spread damp endless adjust actress";
+var mnemonic = "burden impact canyon regular kitten stereo puppy fix runway anxiety ready pole";

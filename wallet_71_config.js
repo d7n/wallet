@@ -1,1 +1,1 @@
-var mnemonic = "refuse turtle diary provide forward marble ivory game excess all left advice";
+var mnemonic = "lawsuit addict blame speed mean okay item inch urban expand two collect";

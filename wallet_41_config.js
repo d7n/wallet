@@ -1,1 +1,1 @@
-var mnemonic = "soft toe critic must dove honey east dismiss effort stock lottery tail";
+var mnemonic = "child menu trigger menu couch color rib cupboard throw insect mountain write";

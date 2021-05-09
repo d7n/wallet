@@ -1,1 +1,1 @@
-var mnemonic = "sponsor trumpet ice collect proof relief garage fiber lonely sorry job mixture";
+var mnemonic = "suffer pen undo vicious mansion seed shift release wheel include mystery hammer";

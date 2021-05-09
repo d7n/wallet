@@ -1,1 +1,1 @@
-var mnemonic = "assault abuse process coach radar scale heart invest young oval birth trust";
+var mnemonic = "rhythm across door then figure pluck certain track cactus negative measure sport";

@@ -1,1 +1,1 @@
-var mnemonic = "census swing relief daring also parade pact wild crime obvious tunnel worry";
+var mnemonic = "hurdle sugar depart remain rose regret into half fuel fox divert corn";

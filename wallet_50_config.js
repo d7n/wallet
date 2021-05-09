@@ -1,1 +1,1 @@
-var mnemonic = "health chuckle aspect broom output dynamic novel sail media lawn top fiber";
+var mnemonic = "fix cruise physical trap harbor outdoor manage glide grain bunker bounce mouse";

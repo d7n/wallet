@@ -1,1 +1,1 @@
-var mnemonic = "tonight inside gospel bulk delay orange exact arrive leg hazard license theme";
+var mnemonic = "amount bench salute hold rack morning leisure jelly promote indoor later female";

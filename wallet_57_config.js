@@ -1,1 +1,1 @@
-var mnemonic = "menu pyramid sound humor ahead orphan portion alone soup truly rookie initial";
+var mnemonic = "lizard phrase item immense monitor scatter impulse wall screen danger like pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "table cereal devote deputy brisk unhappy rebel grief two judge fortune summer";
+var mnemonic = "debate tape quick stereo demise next blast leaf pigeon brown cinnamon soon";

@@ -1,1 +1,1 @@
-var mnemonic = "flight furnace harbor clump mushroom universe sausage receive stamp vendor rubber leaf";
+var mnemonic = "story shoe evidence champion team arctic diesel jelly elephant champion oyster equip";
