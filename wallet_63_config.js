@@ -1,1 +1,1 @@
-var mnemonic = "window inmate inherit vessel repair knee stadium olympic eager jaguar story coil";
+var mnemonic = "cram onion tennis achieve update fruit fire orbit mad hill room harvest";

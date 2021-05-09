@@ -1,1 +1,1 @@
-var mnemonic = "zebra zebra alert pistol unknown detail slam sign risk lamp ugly sea";
+var mnemonic = "dry uniform teach kingdom flight excess remain artefact demise size bubble body";

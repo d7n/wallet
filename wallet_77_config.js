@@ -1,1 +1,1 @@
-var mnemonic = "session search chat ginger jaguar script hammer sell finish frog adapt often";
+var mnemonic = "walk ozone eye neglect provide hood shield solar marriage canoe happy refuse";

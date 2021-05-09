@@ -1,1 +1,1 @@
-var mnemonic = "poet invite hedgehog balcony work alter ocean reunion regular twenty stay maid";
+var mnemonic = "volcano cliff mass enter wreck floor lucky rice degree wife decrease between";

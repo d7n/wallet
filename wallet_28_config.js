@@ -1,1 +1,1 @@
-var mnemonic = "space envelope sister fancy blast into feel educate surround text blush silent";
+var mnemonic = "outside slush depth clump fiscal canal riot leisure glimpse keen opera leave";

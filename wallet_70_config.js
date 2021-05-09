@@ -1,1 +1,1 @@
-var mnemonic = "badge include popular symbol oblige toss ride cabin bulk link mercy elephant";
+var mnemonic = "exchange distance pride chair ginger jazz undo heavy wing skirt view ivory";

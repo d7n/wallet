@@ -1,1 +1,1 @@
-var mnemonic = "wood crumble wide culture size much differ hawk wagon power reject canvas";
+var mnemonic = "road fit will spoil insect ethics admit remind expire valid story coral";

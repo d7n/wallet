@@ -1,1 +1,1 @@
-var mnemonic = "purpose village feed before power bridge twice angry trim slot decorate anger";
+var mnemonic = "blue satisfy sound stadium jaguar text habit swear print entry liquid scrub";

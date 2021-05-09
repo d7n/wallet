@@ -1,1 +1,1 @@
-var mnemonic = "whisper among ball capable near fiber toy planet sponsor extend tool term";
+var mnemonic = "pudding leader flat kind review adjust base suggest sort craft crime chest";

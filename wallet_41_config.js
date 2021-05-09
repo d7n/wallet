@@ -1,1 +1,1 @@
-var mnemonic = "forum hunt palace movie frost crawl middle universe ladder there minimum history";
+var mnemonic = "need next youth party lemon benefit skill carry soup betray attack author";

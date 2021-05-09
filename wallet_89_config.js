@@ -1,1 +1,1 @@
-var mnemonic = "chest usage alley wheat roast chuckle horn clap return abstract wisdom clarify";
+var mnemonic = "city team bottom travel laundry level cheap person track annual immune reject";

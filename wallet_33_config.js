@@ -1,1 +1,1 @@
-var mnemonic = "boss cart absent monster carry inner live roast clock exercise protect river";
+var mnemonic = "slam owner unit mean catch clarify trip absorb school quarter cook cup";

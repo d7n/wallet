@@ -1,1 +1,1 @@
-var mnemonic = "machine explain leaf cloth purpose sorry fringe mobile focus fly drill shield";
+var mnemonic = "maid news vocal figure pond inch gasp proof fortune online rug ginger";

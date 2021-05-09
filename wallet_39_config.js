@@ -1,1 +1,1 @@
-var mnemonic = "jaguar endless color evidence frequent panther throw must cupboard place mom oblige";
+var mnemonic = "win pink subway security cluster bunker access trophy butter pelican hazard ranch";

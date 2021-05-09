@@ -1,1 +1,1 @@
-var mnemonic = "labor prevent dignity bless raw drift verb start upon moral gaze exact";
+var mnemonic = "cactus cannon apology net toilet amused various patrol spray total unveil arena";

@@ -1,1 +1,1 @@
-var mnemonic = "foam identify wash cancel ladder angry stumble pelican tide garage surface blush";
+var mnemonic = "crowd dune box myself federal across endless behave hand action blue hockey";

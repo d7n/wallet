@@ -1,1 +1,1 @@
-var mnemonic = "ride desert prepare rifle void squirrel grit remind beef undo zebra book";
+var mnemonic = "fury never fortune system upper regret primary fork lazy scale actor garlic";

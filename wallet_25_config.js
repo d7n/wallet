@@ -1,1 +1,1 @@
-var mnemonic = "sunny tilt balance soul unfold diagram blouse dove dinner cable goose joy";
+var mnemonic = "soda cradle squeeze useful truth clock step unaware select caution tool fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "frog welcome road spend ten require blue proud traffic cancel humor bitter";
+var mnemonic = "flame casual govern toe clay property bronze few remember dismiss ceiling salon";

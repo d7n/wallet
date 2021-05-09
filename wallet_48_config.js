@@ -1,1 +1,1 @@
-var mnemonic = "simple alpha tell milk deposit double trick friend toast business robust reflect";
+var mnemonic = "stadium guilt bulb spell bonus upset divert sail volcano artist differ elegant";

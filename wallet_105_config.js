@@ -1,1 +1,1 @@
-var mnemonic = "vanish evil perfect before arch ivory task magic toy nose insect spawn";
+var mnemonic = "range pyramid express travel curious swallow carpet valid donkey second chaos concert";

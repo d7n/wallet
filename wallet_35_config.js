@@ -1,1 +1,1 @@
-var mnemonic = "front found fuel saddle hurt guess mango forum floor account describe leader";
+var mnemonic = "cat material song either twice carry shaft disagree anxiety recall cake just";

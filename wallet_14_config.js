@@ -1,1 +1,1 @@
-var mnemonic = "brisk sugar tattoo already muffin scrap used space smoke hedgehog hope screen";
+var mnemonic = "wife push give cute topple enemy sell peace blur rent mother arrive";

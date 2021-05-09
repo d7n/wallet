@@ -1,1 +1,1 @@
-var mnemonic = "risk fly foster crawl assault assume early where steel shrimp congress clump";
+var mnemonic = "lobster sponsor click filter venture virus gorilla away bubble flight assault cloth";

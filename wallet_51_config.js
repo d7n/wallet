@@ -1,1 +1,1 @@
-var mnemonic = "remove abstract gadget cargo vacant sell order armed frozen wonder market mind";
+var mnemonic = "alcohol smile gate ignore patch observe reduce goose royal awesome bonus square";

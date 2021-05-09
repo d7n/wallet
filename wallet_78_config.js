@@ -1,1 +1,1 @@
-var mnemonic = "acquire enemy retreat sausage consider answer clinic home seven hair protect ice";
+var mnemonic = "drift pulp coyote combine hole happy illness broom know you primary universe";

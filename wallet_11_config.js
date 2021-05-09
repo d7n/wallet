@@ -1,1 +1,1 @@
-var mnemonic = "spray phrase knee bulk system cement target congress photo oyster foot various";
+var mnemonic = "gas will detail robot wish govern warfare scene vintage debris current tomato";

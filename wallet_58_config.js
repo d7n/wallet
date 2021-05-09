@@ -1,1 +1,1 @@
-var mnemonic = "pony glove still topple cave swarm shoe frog orchard seek ladder trade";
+var mnemonic = "erosion twice term tongue taste crucial sure beauty fuel hurry yard foster";

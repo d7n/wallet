@@ -1,1 +1,1 @@
-var mnemonic = "flash knee chimney pistol card prison inject hold eternal abandon hedgehog nest";
+var mnemonic = "trim ordinary tree top gorilla adult scorpion depart excite arrow sweet relief";

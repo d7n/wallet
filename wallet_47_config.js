@@ -1,1 +1,1 @@
-var mnemonic = "dismiss intact change giant enhance stamp coffee margin daughter erupt once panda";
+var mnemonic = "dwarf boat canyon slim discover upon trim issue bag biology few unveil";

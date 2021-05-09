@@ -1,1 +1,1 @@
-var mnemonic = "join sorry horse alone message orbit female nasty bean nation cross column";
+var mnemonic = "confirm figure enrich rocket faculty outer rail rifle illness avoid host useless";

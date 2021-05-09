@@ -1,1 +1,1 @@
-var mnemonic = "maze hobby goose zero ugly wagon fade prison coffee camera owner mention";
+var mnemonic = "answer place frown range own anxiety exact deal degree stove require skill";

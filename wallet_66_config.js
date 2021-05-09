@@ -1,1 +1,1 @@
-var mnemonic = "voyage state name nuclear strategy typical wasp hold portion express cycle parrot";
+var mnemonic = "submit boat bus wrap journey together boil expose sheriff spirit grow clutch";

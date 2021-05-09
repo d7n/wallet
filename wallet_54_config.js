@@ -1,1 +1,1 @@
-var mnemonic = "earth switch farm fragile skill limb fabric ivory fatal surge nasty collect";
+var mnemonic = "twelve beauty envelope chuckle help minor future vital chuckle slab poverty enough";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel awake giggle buyer cement wave vicious ivory leave feel bone pause";
+var mnemonic = "patrol reform number horn roast balance jewel repeat area make judge oxygen";

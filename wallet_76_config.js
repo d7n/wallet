@@ -1,1 +1,1 @@
-var mnemonic = "shed section fee refuse misery object sign coconut brief intact leopard iron";
+var mnemonic = "learn poet layer soap faint jar soda pause erupt possible shift gym";

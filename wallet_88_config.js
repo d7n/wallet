@@ -1,1 +1,1 @@
-var mnemonic = "duck tomorrow harvest attend nut host bone lunch fury hammer poet pattern";
+var mnemonic = "culture swamp lucky guilt erase around fortune act diamond twelve news solar";

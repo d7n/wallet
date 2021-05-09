@@ -1,1 +1,1 @@
-var mnemonic = "enact salon satoshi net night tree video cheap hamster disease smile planet";
+var mnemonic = "hero lunar way curtain calm master scheme surprise twenty knife laptop energy";

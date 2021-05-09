@@ -1,1 +1,1 @@
-var mnemonic = "surprise repair leisure cart opera rent define lab over wink license artwork";
+var mnemonic = "only gravity very raccoon butter document journey nephew cave reflect thank vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "account mimic neither ginger tube essay seat stamp flush omit bacon update";
+var mnemonic = "act arrange crater rely box sorry chunk renew raise cliff witness change";

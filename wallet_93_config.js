@@ -1,1 +1,1 @@
-var mnemonic = "bring donate actual fly water spider favorite first punch rival rebel knife";
+var mnemonic = "excite cancel board belt soda dash satisfy vital truly lawn range alpha";

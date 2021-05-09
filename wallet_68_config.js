@@ -1,1 +1,1 @@
-var mnemonic = "police fall safe acquire bean garage finish anger render slide welcome dad";
+var mnemonic = "angle nasty bring miss truth blade hand bless garden profit winner sea";

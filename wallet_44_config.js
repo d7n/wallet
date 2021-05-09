@@ -1,1 +1,1 @@
-var mnemonic = "vacuum brain flame outdoor humor tornado desk coin ghost spin march tube";
+var mnemonic = "table feature icon blind youth bounce roast resemble there clap vacant seminar";

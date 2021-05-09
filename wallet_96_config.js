@@ -1,1 +1,1 @@
-var mnemonic = "wear whip cry kingdom fence mechanic cabbage atom puppy express install labor";
+var mnemonic = "weird agent goat slender version defense album eyebrow jacket mirror naive push";

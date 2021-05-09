@@ -1,1 +1,1 @@
-var mnemonic = "liar party spike tuition country leave narrow cute outside vapor wide priority";
+var mnemonic = "version accident neutral expose engine frost beauty intact marine palace shy enemy";

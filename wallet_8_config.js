@@ -1,1 +1,1 @@
-var mnemonic = "seat frozen tag absorb income obey mad license mule mesh session illegal";
+var mnemonic = "convince globe reunion visit result globe trip bring foam rate steel fetch";

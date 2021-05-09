@@ -1,1 +1,1 @@
-var mnemonic = "sense arena sense pole three carpet lounge danger nature raccoon appear alcohol";
+var mnemonic = "hurt silver ticket crawl obtain eyebrow dawn topic thing journey afraid december";

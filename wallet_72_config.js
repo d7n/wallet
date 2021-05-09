@@ -1,1 +1,1 @@
-var mnemonic = "couple news buddy hour scout expand supply purpose liquid stool comfort toy";
+var mnemonic = "eagle regular rebuild fade vocal silent dutch daring tray question dignity saddle";

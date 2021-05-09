@@ -1,1 +1,1 @@
-var mnemonic = "rapid body allow advance cause try snap defy news grief creek reform";
+var mnemonic = "uphold effort tackle loud idea pen slender depart turtle beauty useful shield";

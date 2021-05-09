@@ -1,1 +1,1 @@
-var mnemonic = "punch industry snow gravity delay illness region abstract express innocent hover host";
+var mnemonic = "hub describe shield alone around spirit first dynamic list afford tunnel ten";

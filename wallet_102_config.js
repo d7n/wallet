@@ -1,1 +1,1 @@
-var mnemonic = "toilet paper wheel alien rather figure laptop guitar later follow cage blush";
+var mnemonic = "tide trick remind stand caution toward ostrich energy dad afford liquid hidden";

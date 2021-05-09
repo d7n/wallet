@@ -1,1 +1,1 @@
-var mnemonic = "rate yellow cactus myth syrup purse lizard animal chief adapt dumb acoustic";
+var mnemonic = "room morning sport spoil draw hour add day swift wedding doctor polar";

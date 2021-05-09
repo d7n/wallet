@@ -1,1 +1,1 @@
-var mnemonic = "material view cook common column stuff issue today destroy arrest sadness design";
+var mnemonic = "air abandon moon scorpion concert year winter major volume market wedding cake";

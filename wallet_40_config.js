@@ -1,1 +1,1 @@
-var mnemonic = "caught solve oil crush prize rapid magic cycle symbol holiday reflect increase";
+var mnemonic = "price express inner ball iron weapon zero razor water era blood pact";

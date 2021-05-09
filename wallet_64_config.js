@@ -1,1 +1,1 @@
-var mnemonic = "input quantum oxygen wage coconut debris attend praise law antenna visa bullet";
+var mnemonic = "thought clean vendor glimpse middle venue together evil void parrot mistake recipe";

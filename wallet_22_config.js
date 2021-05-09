@@ -1,1 +1,1 @@
-var mnemonic = "educate act sadness suffer toe coin pride party wine shy child drama";
+var mnemonic = "tuna bundle churn version learn wild win question absent aspect stumble picnic";

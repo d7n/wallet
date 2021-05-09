@@ -1,1 +1,1 @@
-var mnemonic = "hurdle song melody pride jealous tower dial useless mountain vintage amateur crumble";
+var mnemonic = "spot destroy case pig piece reward young person sorry body dynamic ahead";

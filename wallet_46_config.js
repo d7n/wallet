@@ -1,1 +1,1 @@
-var mnemonic = "garment solve shallow fragile hybrid oyster lizard pupil slush edge heart buyer";
+var mnemonic = "eternal alpha decrease gentle paper great edge neck chronic example easily prefer";

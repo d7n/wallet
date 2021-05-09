@@ -1,1 +1,1 @@
-var mnemonic = "crime marine shine push lake charge film into gown clown park sunny";
+var mnemonic = "wool squirrel public capable document velvet artefact busy fringe shine eye among";

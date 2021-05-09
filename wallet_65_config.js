@@ -1,1 +1,1 @@
-var mnemonic = "bind priority motor echo identify include uniform tray virtual wrap happy doctor";
+var mnemonic = "visa tired mix ivory fence rebuild harsh defense crucial visit frog drink";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome youth clever spider addict icon hill fog isolate point fitness scrap";
+var mnemonic = "recall latin venue audit swallow glow fever plate guitar leaf sunny grocery";

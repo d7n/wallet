@@ -1,1 +1,1 @@
-var mnemonic = "aspect wrestle valid trust sustain master august glove puppy already box fire";
+var mnemonic = "parade replace right awesome cricket grow card citizen razor ticket story pause";

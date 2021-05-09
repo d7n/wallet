@@ -1,1 +1,1 @@
-var mnemonic = "slow hockey diary anxiety dilemma remind across awkward feel buyer february vacant";
+var mnemonic = "bright chaos check mixture must dilemma gaze quote insane angry right away";

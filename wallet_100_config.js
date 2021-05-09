@@ -1,1 +1,1 @@
-var mnemonic = "green cousin ecology fragile guess river celery gentle swamp flock resource result";
+var mnemonic = "unveil ticket drop sunset fluid similar shallow hamster foot about cupboard leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "rain boil toddler donate dwarf copper sister modify equip toward punch verb";
+var mnemonic = "question flight want subject salmon mother urge reflect angry fetch bulb comic";

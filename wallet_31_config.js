@@ -1,1 +1,1 @@
-var mnemonic = "belt critic volume phone invest moral system flush drive cook nothing lens";
+var mnemonic = "human rare crime photo similar derive resource tell excite spring client glove";

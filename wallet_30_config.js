@@ -1,1 +1,1 @@
-var mnemonic = "vanish blue scale card lazy category spare inquiry wolf absent eyebrow patrol";
+var mnemonic = "educate occur inch trap unable very ten attack silly floor core describe";

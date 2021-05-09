@@ -1,1 +1,1 @@
-var mnemonic = "sign message fly million topic account glory powder bomb length chunk turtle";
+var mnemonic = "bench ranch close mirror purchase garage margin solution discover sing horse bunker";

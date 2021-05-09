@@ -1,1 +1,1 @@
-var mnemonic = "syrup filter link fork episode olive game plastic option trouble behind ethics";
+var mnemonic = "surprise liar ozone olive jar dinosaur discover bone horror spring fatigue latin";

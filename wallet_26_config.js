@@ -1,1 +1,1 @@
-var mnemonic = "entry dizzy adapt daring bullet hamster badge surprise swarm silver jacket demise";
+var mnemonic = "chuckle symbol garden behind record mom squeeze travel diesel damage receive gas";

@@ -1,1 +1,1 @@
-var mnemonic = "predict benefit stamp diet typical once long august dove coral empower tool";
+var mnemonic = "note pulse sustain urge age black exile unaware nice jazz sketch weird";

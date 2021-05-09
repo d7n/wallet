@@ -1,1 +1,1 @@
-var mnemonic = "course veteran brief invest wolf rhythm crisp art medal enemy become once";
+var mnemonic = "victory also warrior false resource brain corn cash phone network winner place";

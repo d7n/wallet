@@ -1,1 +1,1 @@
-var mnemonic = "depth join keep toss rack bubble gift under wrestle enhance indoor hello";
+var mnemonic = "civil expose ramp remind connect hurt track salad help neglect stomach unfair";

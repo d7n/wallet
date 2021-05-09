@@ -1,1 +1,1 @@
-var mnemonic = "disease kit employ valve rain army easy priority remember output snap champion";
+var mnemonic = "umbrella undo deliver zoo sponsor fence tooth ecology capable double fault knee";

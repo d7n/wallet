@@ -1,1 +1,1 @@
-var mnemonic = "saddle want zoo hawk over special wagon kite enroll tuition powder lunar";
+var mnemonic = "announce chaos sleep april rule canvas grief girl keen oppose squeeze equip";

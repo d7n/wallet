@@ -1,1 +1,1 @@
-var mnemonic = "trick pulp ostrich laundry awake grit stuff type virtual rather atom visit";
+var mnemonic = "cake right near undo broom seat ski beyond drip mask nerve box";

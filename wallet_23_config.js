@@ -1,1 +1,1 @@
-var mnemonic = "armed dignity festival tennis smile wagon apart moral mobile end during copper";
+var mnemonic = "force matter century army sand rhythm dumb infant able tube omit eye";

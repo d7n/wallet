@@ -1,1 +1,1 @@
-var mnemonic = "payment mail museum solution area leisure lyrics bid habit history pyramid pill";
+var mnemonic = "venture element despair coral repair habit security silent exact middle such tray";

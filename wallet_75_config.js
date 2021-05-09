@@ -1,1 +1,1 @@
-var mnemonic = "devote neutral mountain flush merge demand visa trouble forum occur mango elder";
+var mnemonic = "wing glory lake course much assist sorry endless fatigue pelican grid bomb";

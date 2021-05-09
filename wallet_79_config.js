@@ -1,1 +1,1 @@
-var mnemonic = "jelly team impulse mesh plate angry fine pill version shrug rib smart";
+var mnemonic = "limit surprise gasp eager twice relax game west awake inspire pill protect";

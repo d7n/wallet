@@ -1,1 +1,1 @@
-var mnemonic = "urge obey gold tomorrow direct fuel cushion wedding tooth appear illegal father";
+var mnemonic = "room simple buddy sadness poet nut logic word bicycle quality frozen disagree";

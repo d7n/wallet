@@ -1,1 +1,1 @@
-var mnemonic = "rescue world until river wisdom glide orchard dawn cheap gadget reunion minimum";
+var mnemonic = "strong trade scrap mystery system coach inspire fine assume post object convince";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup belt orchard borrow torch toast cargo chest pattern tiger flag citizen";
+var mnemonic = "hybrid ramp surface measure vacant faint ripple memory vast cruise bamboo embark";

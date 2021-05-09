@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow address little tooth olympic steel laugh deer segment charge copper correct";
+var mnemonic = "final maze merge smoke settle brand farm solar manage obscure bottom follow";

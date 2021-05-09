@@ -1,1 +1,1 @@
-var mnemonic = "prepare okay shove robust knife pottery claim edge liquid faith orchard expose";
+var mnemonic = "shove senior review team junk peasant simple hood toddler math promote capable";

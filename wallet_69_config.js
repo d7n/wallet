@@ -1,1 +1,1 @@
-var mnemonic = "beach spoon actress kind alien arch upper wrap amount hello route betray";
+var mnemonic = "boat dog scale oval plug gadget inch grant volcano employ story outer";

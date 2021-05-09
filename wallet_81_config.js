@@ -1,1 +1,1 @@
-var mnemonic = "teach crash chronic metal mail song tortoise bottom hawk mountain romance chat";
+var mnemonic = "ecology moon review divorce belt setup dial hire between reunion grid rug";

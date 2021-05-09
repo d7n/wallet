@@ -1,1 +1,1 @@
-var mnemonic = "common flavor vault slight fire memory motor swear allow game rent knee";
+var mnemonic = "atom across chef feed seat river fiction trash embrace like clever risk";

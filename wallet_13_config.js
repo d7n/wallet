@@ -1,1 +1,1 @@
-var mnemonic = "guess melt clock smooth planet will doll senior globe ketchup damage fossil";
+var mnemonic = "hope observe hamster liberty action sample early salon grief opinion gallery arena";

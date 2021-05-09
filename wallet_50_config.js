@@ -1,1 +1,1 @@
-var mnemonic = "rifle benefit junior horn marriage issue picture until sun fabric recall gauge";
+var mnemonic = "you phrase vivid monkey fantasy wide curve pave sheriff liar curve token";

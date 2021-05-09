@@ -1,1 +1,1 @@
-var mnemonic = "zoo duck path dust cable atom open daring rice prepare monster camp";
+var mnemonic = "fortune add stick sand party expire smart output pond hidden ready wedding";

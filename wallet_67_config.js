@@ -1,1 +1,1 @@
-var mnemonic = "net asset pause park imitate roof punch frozen jacket fitness fossil kiss";
+var mnemonic = "turtle universe among decide gather above replace original draft genuine soon danger";

@@ -1,1 +1,1 @@
-var mnemonic = "effort mercy maid girl enroll supply primary insect love maximum turkey rely";
+var mnemonic = "spare swing magnet west submit scene ghost talent bamboo settle dutch melt";

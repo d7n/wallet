@@ -1,1 +1,1 @@
-var mnemonic = "bench bean level evidence frog kingdom laptop echo romance lyrics remind tape";
+var mnemonic = "race bless eyebrow ready helmet idle kick piano hero narrow guess plug";
