@@ -1,1 +1,1 @@
-var mnemonic = "potato engage knock produce globe region can coral buzz corn because awful";
+var mnemonic = "title lens outer toe luxury wool essay drastic moon wheat aware lens";

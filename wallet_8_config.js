@@ -1,1 +1,1 @@
-var mnemonic = "enlist spice suit practice auction crater fashion lottery point universe castle fury";
+var mnemonic = "earn buddy extend parent dutch tilt never fox caution warrior surface force";

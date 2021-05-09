@@ -1,1 +1,1 @@
-var mnemonic = "focus minimum arrest denial ordinary athlete drop squeeze donkey eye grief bright";
+var mnemonic = "era artefact convince erosion robot piano desk issue name junior actor tide";

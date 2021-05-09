@@ -1,1 +1,1 @@
-var mnemonic = "such hobby road horse echo output onion awful draft pact soft topple";
+var mnemonic = "bundle argue future truth diagram notable loop monster cute scare silk miracle";

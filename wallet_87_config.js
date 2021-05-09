@@ -1,1 +1,1 @@
-var mnemonic = "physical slot flame coffee enhance grace addict certain weird like quality next";
+var mnemonic = "slab live whale park cereal lunch morning sweet gospel roast fix list";

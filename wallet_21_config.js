@@ -1,1 +1,1 @@
-var mnemonic = "journey glad equip thing skate frog silver joy artwork sugar rubber neither";
+var mnemonic = "leaf radio retire type news jeans verb equal wear wasp expire area";

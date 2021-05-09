@@ -1,1 +1,1 @@
-var mnemonic = "eye message shock thunder peanut maximum flower target manual catalog awkward february";
+var mnemonic = "laugh prefer cheese fold dial slim narrow bronze primary exchange order identify";

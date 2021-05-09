@@ -1,1 +1,1 @@
-var mnemonic = "echo purchase call master put air box acid vote kangaroo addict clay";
+var mnemonic = "coffee assist grunt tourist surge sight joke mystery where kangaroo need fashion";

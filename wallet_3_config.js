@@ -1,1 +1,1 @@
-var mnemonic = "bulk stem loud electric place better alley saddle enjoy abandon social boost";
+var mnemonic = "dial desert roast space park false expose fine duck garbage mouse clever";

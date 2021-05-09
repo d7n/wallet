@@ -1,1 +1,1 @@
-var mnemonic = "furnace convince hurt poet cash cost wild age address lava engage bounce";
+var mnemonic = "purse around question about cross bone move setup legal early mercy deposit";

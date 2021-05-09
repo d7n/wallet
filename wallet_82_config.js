@@ -1,1 +1,1 @@
-var mnemonic = "float salad glove breeze palace occur taste draft else select tissue version";
+var mnemonic = "this only gesture nurse rigid family rare debate summer surge kid primary";

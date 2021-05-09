@@ -1,1 +1,1 @@
-var mnemonic = "drastic industry engage cupboard achieve sign lion camp kangaroo feature cancel bounce";
+var mnemonic = "quantum way length food inside light clutch buyer library offer august initial";

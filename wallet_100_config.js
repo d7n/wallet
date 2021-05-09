@@ -1,1 +1,1 @@
-var mnemonic = "else gather item neglect stumble orphan miss enough humor brief disease drop";
+var mnemonic = "tonight regret cotton wedding flight coin humble slot permit wagon vessel finish";

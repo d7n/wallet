@@ -1,1 +1,1 @@
-var mnemonic = "ski retreat cluster vivid soldier ethics tool portion gesture pact scatter visa";
+var mnemonic = "color exist biology clown hybrid clown release family retire risk crumble perfect";

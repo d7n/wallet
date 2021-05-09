@@ -1,1 +1,1 @@
-var mnemonic = "depart upgrade cram lens move hire adjust advice pass clean buddy spend";
+var mnemonic = "regret margin sustain grief permit basket during poverty card robust cradle ketchup";

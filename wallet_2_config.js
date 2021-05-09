@@ -1,1 +1,1 @@
-var mnemonic = "frost bone inmate prepare used render tissue canal drill month adapt bargain";
+var mnemonic = "road key hammer snake open amazing broken live good unfold boil inhale";

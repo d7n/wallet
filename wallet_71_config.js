@@ -1,1 +1,1 @@
-var mnemonic = "diesel genre surface frame insect burst exotic volume ceiling truth crunch slogan";
+var mnemonic = "trend verb primary brisk few supply walk snap acquire canal fiber section";

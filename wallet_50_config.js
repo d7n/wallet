@@ -1,1 +1,1 @@
-var mnemonic = "aspect bar slight work sunset neither perfect figure mistake method toy install";
+var mnemonic = "drop ready subway cancel render thrive absent almost tourist cannon second staff";

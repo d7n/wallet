@@ -1,1 +1,1 @@
-var mnemonic = "fancy pistol gap van affair middle toy mind cook rice sibling pattern";
+var mnemonic = "section dolphin spot judge loud tackle source raccoon demise noodle first proof";

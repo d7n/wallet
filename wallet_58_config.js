@@ -1,1 +1,1 @@
-var mnemonic = "giant elevator blush aunt dust casino people post soul melt orphan boat";
+var mnemonic = "royal olive degree kangaroo vocal under good legend square fantasy oxygen later";

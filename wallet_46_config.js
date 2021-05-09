@@ -1,1 +1,1 @@
-var mnemonic = "among slim bus loan kidney mansion mule debris bottom have despair frog";
+var mnemonic = "frost add figure color magic recipe clever total dash fly hobby kitten";

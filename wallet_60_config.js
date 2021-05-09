@@ -1,1 +1,1 @@
-var mnemonic = "bamboo seven review leaf practice hour disease negative leader rabbit drink coffee";
+var mnemonic = "edit home wage accident loud grant old arena fabric cave roof mountain";

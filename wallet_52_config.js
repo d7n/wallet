@@ -1,1 +1,1 @@
-var mnemonic = "surround glad battle broom endless yard cherry point craft indicate frog void";
+var mnemonic = "lend rose bird tunnel biology work margin ill voyage fashion alley rice";

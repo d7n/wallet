@@ -1,1 +1,1 @@
-var mnemonic = "bone cost pitch pattern street crouch brush write token acquire suffer cart";
+var mnemonic = "impose vital pink eight arctic neglect abandon unfair cover limit also cement";

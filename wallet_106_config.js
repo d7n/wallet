@@ -1,1 +1,1 @@
-var mnemonic = "develop banner unusual young rocket category web bronze cousin arm cheese second";
+var mnemonic = "toe blast tree galaxy arena table banana pottery lumber combine crime absent";

@@ -1,1 +1,1 @@
-var mnemonic = "attract disorder people tree fun river better symptom hand canoe reason arctic";
+var mnemonic = "yard require awful pass skirt kitchen uniform reunion require violin behave humor";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly rate buddy member again enlist virus swing utility message axis escape";
+var mnemonic = "spy toe level dinosaur decline force suspect convince patch net before hobby";

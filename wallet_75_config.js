@@ -1,1 +1,1 @@
-var mnemonic = "enhance artist slender adult plastic play blade dice habit tobacco vote nasty";
+var mnemonic = "build wire assault boost crisp vintage chuckle float flame bubble snow best";

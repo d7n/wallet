@@ -1,1 +1,1 @@
-var mnemonic = "clock embark become visit chalk weird liberty desert faculty verb beach kite";
+var mnemonic = "network trade only define history evil caught palm hour pudding course bubble";

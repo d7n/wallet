@@ -1,1 +1,1 @@
-var mnemonic = "fold able piece grace success board rib thrive crater despair consider quality";
+var mnemonic = "razor crunch series wreck salute twin wreck emerge exile robot any trumpet";

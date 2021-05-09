@@ -1,1 +1,1 @@
-var mnemonic = "shrimp figure mistake buffalo sword future paper pull degree bulk happy wrap";
+var mnemonic = "shadow vague direct immense smile pull okay tennis know hat network still";

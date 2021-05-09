@@ -1,1 +1,1 @@
-var mnemonic = "assist social crystal sing twin iron warrior device decorate sustain unfold smooth";
+var mnemonic = "yard royal simple stumble heavy hurry judge dentist bicycle sing fog chaos";

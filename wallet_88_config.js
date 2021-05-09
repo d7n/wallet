@@ -1,1 +1,1 @@
-var mnemonic = "barrel muscle silver angry poverty track situate feature purpose above tiger mom";
+var mnemonic = "please october tobacco february term regret search globe jeans seven blanket oval";

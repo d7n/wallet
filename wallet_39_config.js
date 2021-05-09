@@ -1,1 +1,1 @@
-var mnemonic = "response wrestle spend ivory off act roast sword absorb runway inflict blanket";
+var mnemonic = "denial despair render acquire elephant enter practice dash earn aunt live gift";

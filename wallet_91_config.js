@@ -1,1 +1,1 @@
-var mnemonic = "acoustic grit patrol sample inspire universe future recycle never spray hamster ski";
+var mnemonic = "width effort random bulk excite diagram satisfy settle oil lecture verb discover";

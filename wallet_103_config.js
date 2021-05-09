@@ -1,1 +1,1 @@
-var mnemonic = "spice wool monkey bag air black setup neither enjoy kingdom inflict little";
+var mnemonic = "genius pupil hurt fragile arctic cement fiction party kiss face wood spend";

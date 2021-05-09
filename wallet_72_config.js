@@ -1,1 +1,1 @@
-var mnemonic = "elevator panel rent inhale replace fever effort predict radar exchange among reason";
+var mnemonic = "ginger fancy garage legal cost tent flight client humble clap snack book";

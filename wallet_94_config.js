@@ -1,1 +1,1 @@
-var mnemonic = "card candy travel stumble beyond shield sense penalty father limb art inhale";
+var mnemonic = "initial pony flavor hungry gadget praise animal mountain share auction awkward scout";

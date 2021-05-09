@@ -1,1 +1,1 @@
-var mnemonic = "reveal garlic affair shove pioneer until answer wonder window coconut month argue";
+var mnemonic = "bamboo pig idea noodle stove nominee stove alter ask slush match civil";

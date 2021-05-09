@@ -1,1 +1,1 @@
-var mnemonic = "sun enemy suit motion kiss behave swamp follow neck flush figure slender";
+var mnemonic = "sail grape cram master unit below charge run sad silver topple cart";

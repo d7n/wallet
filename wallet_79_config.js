@@ -1,1 +1,1 @@
-var mnemonic = "sister inner library volcano adapt alert amateur tunnel egg pool face finish";
+var mnemonic = "wheel screen slush asset pattern behave train heavy immune royal noble century";

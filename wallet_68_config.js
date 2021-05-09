@@ -1,1 +1,1 @@
-var mnemonic = "twelve author key garage dismiss planet swamp win lecture spike flavor again";
+var mnemonic = "globe cruise use yellow suggest lesson key corn riot census term desert";

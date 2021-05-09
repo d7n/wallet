@@ -1,1 +1,1 @@
-var mnemonic = "you invite cereal loan settle pause local human few news version riot";
+var mnemonic = "enrich convince once gauge dizzy destroy bamboo gain sleep finish plate vacant";

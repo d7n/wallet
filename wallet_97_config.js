@@ -1,1 +1,1 @@
-var mnemonic = "say when endorse adult atom peace squirrel agent tortoise voyage aspect south";
+var mnemonic = "grab bag crucial stuff expire dress begin cousin toddler peanut rocket sad";

@@ -1,1 +1,1 @@
-var mnemonic = "girl run riot illness hand forward payment verify breeze nominee have dash";
+var mnemonic = "local tragic town spawn siege student bonus potato charge worry doctor defense";

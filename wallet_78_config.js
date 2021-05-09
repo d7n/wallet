@@ -1,1 +1,1 @@
-var mnemonic = "virtual tool civil ensure often bar two arm slush guilt lunch banner";
+var mnemonic = "elegant genuine bean tourist crop uphold market labor amused opera twice scrub";

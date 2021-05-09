@@ -1,1 +1,1 @@
-var mnemonic = "carry book bamboo drift suspect cigar horror network hip symptom negative collect";
+var mnemonic = "ski drum employ cannon salt person fragile dose outdoor gaze note bone";

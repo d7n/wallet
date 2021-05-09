@@ -1,1 +1,1 @@
-var mnemonic = "fluid enjoy ankle adjust garage identify blossom floor north tail slight bar";
+var mnemonic = "grief follow engage drastic ask lucky brown motion trap local brand hundred";

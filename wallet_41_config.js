@@ -1,1 +1,1 @@
-var mnemonic = "garment wolf arrange amused hotel negative leisure pool garage balcony sibling shadow";
+var mnemonic = "gas nose often wage layer fiber baby novel follow black marine rabbit";

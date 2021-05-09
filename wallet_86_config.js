@@ -1,1 +1,1 @@
-var mnemonic = "fiscal cotton virtual donkey midnight range meat gravity orient page believe bullet";
+var mnemonic = "trade fork alert false near piece split school skirt cabin joke lemon";

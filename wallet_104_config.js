@@ -1,1 +1,1 @@
-var mnemonic = "ticket border arena order toy sniff clock provide fine job muscle lock";
+var mnemonic = "asset unlock north garage antenna receive venture judge hundred squirrel arch claim";

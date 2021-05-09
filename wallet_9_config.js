@@ -1,1 +1,1 @@
-var mnemonic = "woman behave ensure pact pencil country helmet spoon street talk onion candy";
+var mnemonic = "cancel noise onion together coin evidence flock neglect elephant trigger exercise hip";

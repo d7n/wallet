@@ -1,1 +1,1 @@
-var mnemonic = "photo warrior planet bicycle run delay cluster palace more identify door unit";
+var mnemonic = "brush smooth obey trouble where reduce upper blur trouble right entry lady";

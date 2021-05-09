@@ -1,1 +1,1 @@
-var mnemonic = "clinic buddy accuse federal public near whip lounge ginger celery hospital grid";
+var mnemonic = "small runway kitchen flash match anger movie original improve cube add easy";

@@ -1,1 +1,1 @@
-var mnemonic = "text bright wrist mystery mirror blood edit cry clutch shell anchor trigger";
+var mnemonic = "derive crucial practice give sponsor jar rent layer faith winner scout main";

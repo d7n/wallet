@@ -1,1 +1,1 @@
-var mnemonic = "tool size model lab double focus true figure finish cabin rabbit border";
+var mnemonic = "immune announce latin bracket remember pumpkin exclude shy first large unaware sister";

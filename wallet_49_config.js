@@ -1,1 +1,1 @@
-var mnemonic = "blossom frozen bargain review common nice cage view duck polar work race";
+var mnemonic = "drama smooth enemy popular color enact cattle abuse permit street cool comic";

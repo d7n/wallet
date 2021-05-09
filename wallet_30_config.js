@@ -1,1 +1,1 @@
-var mnemonic = "rookie must surround verify nasty head stool vast ozone token element spy";
+var mnemonic = "salad verify sword pink fit excess runway delay upon off whisper midnight";

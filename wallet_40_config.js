@@ -1,1 +1,1 @@
-var mnemonic = "kitchen yellow wrist near laugh tower impose option change fitness head number";
+var mnemonic = "inside lift hurt then diamond armed amateur impose high pencil fancy globe";

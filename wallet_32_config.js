@@ -1,1 +1,1 @@
-var mnemonic = "shallow announce atom lake love carry catalog retreat swamp guard mad fish";
+var mnemonic = "curious file brick firm cupboard donate floor crawl draft market area capable";

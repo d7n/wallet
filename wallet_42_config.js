@@ -1,1 +1,1 @@
-var mnemonic = "donor cycle bless sight opera twice hundred foster solution lazy eternal lend";
+var mnemonic = "energy purse front dolphin water seed damage shiver one picture blush maximum";

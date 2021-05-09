@@ -1,1 +1,1 @@
-var mnemonic = "explain dream coyote trim name valid fork cloth core sport ostrich rough";
+var mnemonic = "grab shoot street castle hire circle sketch hair error tell joke private";

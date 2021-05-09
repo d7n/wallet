@@ -1,1 +1,1 @@
-var mnemonic = "rule remove gold enact moral inhale night build second hunt step fitness";
+var mnemonic = "about hello depend patrol victory chest display butter cancel scene train doll";

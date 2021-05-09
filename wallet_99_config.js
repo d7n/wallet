@@ -1,1 +1,1 @@
-var mnemonic = "will grunt casual evolve fox settle harsh note permit coach spoon rhythm";
+var mnemonic = "faith card leg sorry wish future oval love rally salmon system fluid";

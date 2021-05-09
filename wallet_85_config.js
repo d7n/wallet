@@ -1,1 +1,1 @@
-var mnemonic = "opera happy dance report symptom feed eight present note lecture style rabbit";
+var mnemonic = "panther element fatigue fold peanut blind outer labor canvas spatial club junior";

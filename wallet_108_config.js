@@ -1,1 +1,1 @@
-var mnemonic = "crew thunder track nuclear caution slam work fire lonely stable wealth dune";
+var mnemonic = "derive power illness rotate brass salute film razor click resemble scorpion recycle";

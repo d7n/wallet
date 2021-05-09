@@ -1,1 +1,1 @@
-var mnemonic = "cry slogan pyramid faith jacket tongue brain okay cigar tragic hollow memory";
+var mnemonic = "scrap project soft ripple brass tribe club trick disease kit sketch faint";

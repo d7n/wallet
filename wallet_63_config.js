@@ -1,1 +1,1 @@
-var mnemonic = "accident total school raven volcano gospel syrup arrange dizzy emerge myself awkward";
+var mnemonic = "define innocent owner south orient reflect fat antenna people rather frost place";

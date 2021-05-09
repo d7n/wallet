@@ -1,1 +1,1 @@
-var mnemonic = "supreme drill stove able ritual trouble breeze vacuum sort board empower become";
+var mnemonic = "modify milk involve catalog odor adult swear bunker unlock turkey zone unfair";

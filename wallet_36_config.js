@@ -1,1 +1,1 @@
-var mnemonic = "force tip suspect allow guess wrestle cricket soccer equal joke sand pulp";
+var mnemonic = "mango release illegal slim miss current filter pledge hammer burden tooth firm";

@@ -1,1 +1,1 @@
-var mnemonic = "maid regular know vital cheap town satoshi industry breeze bomb orchard holiday";
+var mnemonic = "member arch scrap stadium royal wage credit thank six ecology chronic screen";

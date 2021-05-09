@@ -1,1 +1,1 @@
-var mnemonic = "antenna hero between frog claim prize village card denial recipe drum attitude";
+var mnemonic = "chair gun gravity whisper kid time warfare session banana depth piece universe";

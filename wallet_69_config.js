@@ -1,1 +1,1 @@
-var mnemonic = "rug wasp scheme enemy motion flame response leader fatigue divorce noise flavor";
+var mnemonic = "kidney define trumpet team suit denial typical amount ready escape under hurdle";

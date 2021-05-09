@@ -1,1 +1,1 @@
-var mnemonic = "motor believe butter next practice educate arrest direct cotton protect zoo mystery";
+var mnemonic = "gadget lady visa seed need quantum doll switch century promote spread shrug";

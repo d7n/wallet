@@ -1,1 +1,1 @@
-var mnemonic = "math girl water tenant tail shuffle quarter duck issue slender rail transfer";
+var mnemonic = "legend festival outside deny size ecology staff vacant regular interest praise civil";

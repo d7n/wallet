@@ -1,1 +1,1 @@
-var mnemonic = "fantasy believe curve bleak antenna tissue plastic drip alley profit banana episode";
+var mnemonic = "exercise update hill culture resource remain hire board enemy loud onion general";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer omit strong giant swallow hedgehog tenant elephant post antique window clog";
+var mnemonic = "merit another initial disorder pony age split identify enemy rocket pride gun";

@@ -1,1 +1,1 @@
-var mnemonic = "stay pudding meat dad project endless tray master slim cliff bring salon";
+var mnemonic = "noble trap capital digital transfer guard lock ostrich summer staff gold square";

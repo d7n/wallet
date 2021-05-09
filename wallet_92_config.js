@@ -1,1 +1,1 @@
-var mnemonic = "fabric choice start cage flee dice recipe loan surface aisle dash bus";
+var mnemonic = "broken liar vendor crush drum worry apology wheel undo imitate kitten digital";

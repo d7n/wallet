@@ -1,1 +1,1 @@
-var mnemonic = "you rice chapter talk foster toast total rubber hollow abandon green antique";
+var mnemonic = "humor vast regret rigid ladder surround illness boost below display scissors window";

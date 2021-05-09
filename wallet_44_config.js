@@ -1,1 +1,1 @@
-var mnemonic = "cross display dismiss case police around boss jelly february adult siege avoid";
+var mnemonic = "ill tiger simple coffee public kick morning guess science right emotion flight";

@@ -1,1 +1,1 @@
-var mnemonic = "neck next jar east october desk helmet leg pitch scout used permit";
+var mnemonic = "balcony flag stereo they enhance vault loop seminar sort gentle tattoo carpet";

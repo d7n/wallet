@@ -1,1 +1,1 @@
-var mnemonic = "rare tape swift wear double setup unaware february chat gate mail pear";
+var mnemonic = "window smooth tuna appear raven disagree dry cause wage train average hire";

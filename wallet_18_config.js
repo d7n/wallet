@@ -1,1 +1,1 @@
-var mnemonic = "invest spend talent head regular civil youth inside orbit flower security riot";
+var mnemonic = "bomb wool quit master interest dilemma business fox call sting rural item";

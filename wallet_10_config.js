@@ -1,1 +1,1 @@
-var mnemonic = "grab live art okay ticket allow whip someone fix bubble return sample";
+var mnemonic = "able that jeans love rapid evidence enact narrow source casual craft kind";

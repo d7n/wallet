@@ -1,1 +1,1 @@
-var mnemonic = "general kiwi sugar service parent helmet gown country crew energy snack bean";
+var mnemonic = "impose mechanic educate helmet object layer enrich just evolve cloud puzzle merit";

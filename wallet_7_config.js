@@ -1,1 +1,1 @@
-var mnemonic = "try wave velvet local favorite airport trap castle problem jaguar anchor region";
+var mnemonic = "scan theory ship illegal inform caution wild risk dash attend craft gasp";

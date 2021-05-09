@@ -1,1 +1,1 @@
-var mnemonic = "reunion valid math panic garment safe monster camp estate knife rebel banner";
+var mnemonic = "electric appear buzz draft cousin you bench disorder angry two believe slow";

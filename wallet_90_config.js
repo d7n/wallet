@@ -1,1 +1,1 @@
-var mnemonic = "inspire pigeon busy inject pipe dolphin eager soon lottery ladder space else";
+var mnemonic = "toward repair snack update hero zone vault slogan ask annual car more";

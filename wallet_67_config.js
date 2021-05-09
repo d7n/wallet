@@ -1,1 +1,1 @@
-var mnemonic = "wood either recipe wreck rural adult husband agent stay salon answer reopen";
+var mnemonic = "boring crunch reunion balcony young attitude furnace pool layer fuel road color";

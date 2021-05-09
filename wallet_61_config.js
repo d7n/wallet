@@ -1,1 +1,1 @@
-var mnemonic = "coin hope degree among carry rely remind seven nest clap derive flock";
+var mnemonic = "property faith drill float action seminar crop energy tape sort rate own";
