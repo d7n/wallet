@@ -1,1 +1,1 @@
-var mnemonic = "blame wife increase gentle raccoon equip iron theme wheel secret dragon object";
+var mnemonic = "sing refuse symptom gadget net prepare elbow across dynamic budget liar captain";

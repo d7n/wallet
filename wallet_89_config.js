@@ -1,1 +1,1 @@
-var mnemonic = "fence arrest they aisle pass oyster issue recipe purchase hood ivory coyote";
+var mnemonic = "upgrade figure obey success between help account demand coconut object evidence ring";

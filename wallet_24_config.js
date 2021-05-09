@@ -1,1 +1,1 @@
-var mnemonic = "fringe cake brass strong purpose right romance joy cross imitate length general";
+var mnemonic = "arrow inspire dawn drink uniform purpose lyrics barely soon better answer trust";

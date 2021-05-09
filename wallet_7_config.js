@@ -1,1 +1,1 @@
-var mnemonic = "circle bike pencil depend hat tray claw nice crater assume duty rough";
+var mnemonic = "reflect suspect range runway enroll danger volcano bring embody diagram pigeon finish";

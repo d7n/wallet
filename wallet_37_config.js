@@ -1,1 +1,1 @@
-var mnemonic = "valve grocery furnace you stadium kid flame fee dust poem rich usage";
+var mnemonic = "food walk cactus pond nose unhappy claim soda cry razor timber spike";

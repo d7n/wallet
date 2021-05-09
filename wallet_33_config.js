@@ -1,1 +1,1 @@
-var mnemonic = "sauce law armor hurry certain friend fiscal title legend bar rough grant";
+var mnemonic = "adult crunch two radar feel rare hip imitate group forum disagree duty";

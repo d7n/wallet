@@ -1,1 +1,1 @@
-var mnemonic = "harsh steak horse poverty demand tent museum enjoy plug lyrics board bike";
+var mnemonic = "glance job tower dash knee gift absent marble more make wide secret";

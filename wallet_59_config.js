@@ -1,1 +1,1 @@
-var mnemonic = "now this fence reopen valve online useful inject scheme boss local arm";
+var mnemonic = "ramp enroll online skirt nature amount fat shoe scan rebel grid bean";

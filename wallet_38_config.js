@@ -1,1 +1,1 @@
-var mnemonic = "auto air clever gold again torch right since render reopen exhibit outer";
+var mnemonic = "legend transfer possible fox pyramid screen source drama rose goat faculty gorilla";

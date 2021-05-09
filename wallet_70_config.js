@@ -1,1 +1,1 @@
-var mnemonic = "gown student sunny near expose sorry trick lamp legend dash tool ski";
+var mnemonic = "point icon silver fabric duck multiply brush question sniff woman also hill";

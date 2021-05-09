@@ -1,1 +1,1 @@
-var mnemonic = "vivid december jar arrow butter refuse vast wine acoustic harsh saddle paddle";
+var mnemonic = "pause apology client shoot nice curious main second lobster romance repair seek";

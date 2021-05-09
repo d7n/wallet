@@ -1,1 +1,1 @@
-var mnemonic = "away crater list finish occur guilt inhale bomb element shaft saddle wear";
+var mnemonic = "smart dumb draft invite top scene latin comfort retire board suffer trend";

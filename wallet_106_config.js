@@ -1,1 +1,1 @@
-var mnemonic = "expose plastic chalk speed proof spice spice scene unknown anchor latin glimpse";
+var mnemonic = "soap refuse income kitten nurse display deposit purity deal worry inmate unable";

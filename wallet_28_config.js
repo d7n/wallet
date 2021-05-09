@@ -1,1 +1,1 @@
-var mnemonic = "roast quiz alter pink region master useless afraid spare legend receive window";
+var mnemonic = "october leisure chief original vast review mind party half muscle pitch year";

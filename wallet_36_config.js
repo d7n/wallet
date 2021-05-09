@@ -1,1 +1,1 @@
-var mnemonic = "bring shrimp witness chronic trim congress potato vintage salmon actual increase where";
+var mnemonic = "aerobic glory animal property offer room naive together maze myself simple suspect";

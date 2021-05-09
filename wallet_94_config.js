@@ -1,1 +1,1 @@
-var mnemonic = "filter begin beach devote pizza income disagree suspect stone rain enter hope";
+var mnemonic = "region february fluid casual sort churn actress marine elegant cake tongue evil";

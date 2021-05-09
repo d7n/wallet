@@ -1,1 +1,1 @@
-var mnemonic = "question bachelor error differ magnet antenna half supreme size scan kidney impulse";
+var mnemonic = "equal differ jazz floor exchange dutch nose economy own wash quick reform";

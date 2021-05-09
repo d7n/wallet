@@ -1,1 +1,1 @@
-var mnemonic = "doll hope balcony camera capital adjust chuckle clerk veteran drift rotate boy";
+var mnemonic = "calm bleak click focus usage unveil reject clever risk estate secret hidden";

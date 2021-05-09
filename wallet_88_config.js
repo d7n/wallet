@@ -1,1 +1,1 @@
-var mnemonic = "image unfair orchard warfare abuse stadium milk spoil teach price drip undo";
+var mnemonic = "squirrel dizzy ladder cook hotel domain message fiber poem cement galaxy brain";

@@ -1,1 +1,1 @@
-var mnemonic = "depend clutch casual humor sniff chair current chuckle toilet jungle banner avocado";
+var mnemonic = "gallery ordinary deal original canyon apology tattoo remember riot fantasy naive already";

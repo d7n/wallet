@@ -1,1 +1,1 @@
-var mnemonic = "original picture test foam enroll extra weird chief village jazz dad forget";
+var mnemonic = "lake kangaroo dirt impose joy caught champion learn sadness acquire cabbage amused";

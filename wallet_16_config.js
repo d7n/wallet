@@ -1,1 +1,1 @@
-var mnemonic = "fence divert runway strategy wedding sad page iron exclude ripple wish street";
+var mnemonic = "clinic lab grocery lift dinosaur noble game ivory model gaze sheriff ignore";

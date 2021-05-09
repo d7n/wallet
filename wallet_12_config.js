@@ -1,1 +1,1 @@
-var mnemonic = "flat live wheat fish pottery rate round lazy state craft shallow easy";
+var mnemonic = "jaguar only roof advice cat cover turtle nasty fatal goose pledge guilt";

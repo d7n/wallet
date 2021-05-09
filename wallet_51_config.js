@@ -1,1 +1,1 @@
-var mnemonic = "sell spend between embody security suspect theory gloom review debate rack girl";
+var mnemonic = "foot stove public owner play face spoil noise chef okay wrist tool";

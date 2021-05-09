@@ -1,1 +1,1 @@
-var mnemonic = "relief push float spider cherry bread erase alley open crew rubber option";
+var mnemonic = "race tip forget example asset penalty predict tone allow apology lonely glow";

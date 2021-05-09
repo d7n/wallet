@@ -1,1 +1,1 @@
-var mnemonic = "picnic matter alcohol cash repair artefact need approve busy flame want hidden";
+var mnemonic = "stereo annual neither ketchup task attack offer castle october domain author universe";

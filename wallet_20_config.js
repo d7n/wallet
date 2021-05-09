@@ -1,1 +1,1 @@
-var mnemonic = "math laundry couple into sell poverty rifle lava husband rookie tornado survey";
+var mnemonic = "office woman hero twenty account topic else virtual inflict slight car guard";

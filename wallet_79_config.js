@@ -1,1 +1,1 @@
-var mnemonic = "fury blade crumble spread aisle boy infant hint run truth know arrow";
+var mnemonic = "fold earn journey embrace language enjoy avoid pass private swing valve tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "together layer organ once cupboard body length shallow series comic blast neutral";
+var mnemonic = "fat bid cotton churn palm comfort scheme voice affair stomach perfect sustain";

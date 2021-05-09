@@ -1,1 +1,1 @@
-var mnemonic = "tray next core exile lyrics kiss gown myself grass across neutral vintage";
+var mnemonic = "lock bitter option pride invite front shrug tortoise inmate scene consider trial";

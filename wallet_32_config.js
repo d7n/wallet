@@ -1,1 +1,1 @@
-var mnemonic = "develop second smile tunnel pupil stereo speak possible air foot foster collect";
+var mnemonic = "neck arrest potato meadow basket squeeze dismiss space extend antenna furnace sketch";

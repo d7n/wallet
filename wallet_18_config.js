@@ -1,1 +1,1 @@
-var mnemonic = "knock magic state huge vacant bean country ability image vanish stereo dinosaur";
+var mnemonic = "sudden carry install arm machine jealous patrol client economy expose jealous evoke";

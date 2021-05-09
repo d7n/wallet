@@ -1,1 +1,1 @@
-var mnemonic = "crop purchase letter visual buyer job busy enemy night leg party bitter";
+var mnemonic = "material razor brave resemble cruel harvest fox blind advice debris obscure example";

@@ -1,1 +1,1 @@
-var mnemonic = "wave oblige expect veteran siren relax amount install approve lucky enable cradle";
+var mnemonic = "liberty over like help chuckle roof morning crane fantasy ensure rhythm sweet";

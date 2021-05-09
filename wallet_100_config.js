@@ -1,1 +1,1 @@
-var mnemonic = "come test surge eye lawn run escape energy file wedding paper math";
+var mnemonic = "extend exhibit advice jaguar summer useless tell below exit muffin bronze night";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap brand possible ripple relief liquid advice middle reform jaguar video inform";
+var mnemonic = "work voyage home father soul real flip motion modify baby right street";

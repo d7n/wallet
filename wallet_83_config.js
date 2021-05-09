@@ -1,1 +1,1 @@
-var mnemonic = "noodle almost kind comic castle rabbit strike dutch joy confirm hover sleep";
+var mnemonic = "clown foam donate cloth old bone total under gesture sword student fun";

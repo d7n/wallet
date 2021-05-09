@@ -1,1 +1,1 @@
-var mnemonic = "rare virtual amazing age oppose buyer combine own know about member waste";
+var mnemonic = "crane lawsuit render purity pudding siege mushroom century stereo purse drastic loud";

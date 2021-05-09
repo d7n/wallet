@@ -1,1 +1,1 @@
-var mnemonic = "actress lumber canyon fence scout arm elite square defense okay dice essay";
+var mnemonic = "relax boring story tissue mule magic fancy mountain minimum error sausage try";

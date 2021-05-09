@@ -1,1 +1,1 @@
-var mnemonic = "always math true lion rule final bargain view company mass seed doctor";
+var mnemonic = "ramp mention business ladder pet hair later hood duty shed organ snake";

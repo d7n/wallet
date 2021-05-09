@@ -1,1 +1,1 @@
-var mnemonic = "repeat cluster decade wheel assault sweet kitchen beyond amateur cause marble need";
+var mnemonic = "walk height lamp act slice donate invest ability butter cloud flush novel";

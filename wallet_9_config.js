@@ -1,1 +1,1 @@
-var mnemonic = "please forget ahead business hold logic secret denial hotel fine amazing load";
+var mnemonic = "shock tool mean rough soup silver afraid frost leisure field swamp network";

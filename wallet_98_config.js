@@ -1,1 +1,1 @@
-var mnemonic = "frost tunnel scare prevent ginger kiwi carbon left pottery punch behave ball";
+var mnemonic = "chronic apology cube sight across torch advance craft state deer smile wear";

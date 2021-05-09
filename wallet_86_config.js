@@ -1,1 +1,1 @@
-var mnemonic = "wrong street eagle undo visit parent join firm infant meadow rich above";
+var mnemonic = "exact enforce busy cotton river obtain siren proof leaf drink opera unit";

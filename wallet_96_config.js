@@ -1,1 +1,1 @@
-var mnemonic = "second civil garden october balance ill relief fall number myth vital lobster";
+var mnemonic = "arrange useful account scrap link rubber build cargo mammal lesson erode wasp";

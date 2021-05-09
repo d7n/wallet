@@ -1,1 +1,1 @@
-var mnemonic = "muffin own mixed ozone walnut toward wedding elite celery fluid swamp nice";
+var mnemonic = "forget grunt grain bulk century layer inch trend bacon tomorrow crime frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "rare machine figure canoe debris old oyster blanket casual creek gate egg";
+var mnemonic = "grant worth print project pretty arm purchase detect boy jungle two trap";

@@ -1,1 +1,1 @@
-var mnemonic = "twin chimney mutual crush crush attract silly mixture shoot sea stadium grocery";
+var mnemonic = "hood federal bacon draw grow amateur zoo theory young mask outdoor nature";

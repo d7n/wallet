@@ -1,1 +1,1 @@
-var mnemonic = "cycle force scene exile indicate crucial slight knife math pigeon hub card";
+var mnemonic = "upgrade chapter flag opinion deposit snake shine test dentist amazing today exile";

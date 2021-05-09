@@ -1,1 +1,1 @@
-var mnemonic = "sadness custom few perfect between orchard opinion spoon feel lyrics supply lake";
+var mnemonic = "wash endorse color usual catch day dress rival champion mansion saddle latin";

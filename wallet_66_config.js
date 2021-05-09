@@ -1,1 +1,1 @@
-var mnemonic = "hawk people work appear tornado refuse tape vocal bunker giggle spray random";
+var mnemonic = "lawsuit burger mirror unique under supreme thank dust guitar universe paper solve";

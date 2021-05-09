@@ -1,1 +1,1 @@
-var mnemonic = "verb message return breeze control diagram bird matter nut useless coil sketch";
+var mnemonic = "shift ahead picnic lottery rapid dizzy idle drift memory you inquiry army";

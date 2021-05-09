@@ -1,1 +1,1 @@
-var mnemonic = "top junior dentist couple near soap goat ask barrel range real spot";
+var mnemonic = "erosion melody refuse clog people ostrich economy tackle similar ill twenty history";

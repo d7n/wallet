@@ -1,1 +1,1 @@
-var mnemonic = "order anger useless glass lamp mimic region public vague decade sponsor fossil";
+var mnemonic = "child position banana shove render rail news crater job news beef dog";

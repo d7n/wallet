@@ -1,1 +1,1 @@
-var mnemonic = "economy curve oven search nice chalk dutch thing bleak ranch intact script";
+var mnemonic = "borrow amateur skull gasp case steel material furnace safe idle just question";

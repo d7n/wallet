@@ -1,1 +1,1 @@
-var mnemonic = "confirm obvious suit robust payment brand identify whale wish inner used grass";
+var mnemonic = "unusual member stock dawn tip mom seek kitten east frozen town void";

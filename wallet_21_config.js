@@ -1,1 +1,1 @@
-var mnemonic = "gravity stove blanket wide gown pyramid bamboo table soul rapid north nuclear";
+var mnemonic = "explain want burger ride immense desk ribbon name exhaust install true finger";

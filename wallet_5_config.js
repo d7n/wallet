@@ -1,1 +1,1 @@
-var mnemonic = "depart brief broom razor float lucky sting office erosion large motion sure";
+var mnemonic = "garlic social affair fiber bamboo snack print cup cross prepare timber mobile";

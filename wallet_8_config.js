@@ -1,1 +1,1 @@
-var mnemonic = "judge travel foster garage smile crumble few ball mother wine diary nice";
+var mnemonic = "race luggage dilemma october spice shuffle skull core clog reward mad turn";

@@ -1,1 +1,1 @@
-var mnemonic = "blame one gather erupt salmon extend rather harvest goat speed upper zero";
+var mnemonic = "never together use soon visa noise chair shoulder fee sphere solution sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "army tail column wheel end gun wonder warfare inform wisdom hip silent";
+var mnemonic = "beauty razor skull wood fog power photo team ghost dune finger wash";

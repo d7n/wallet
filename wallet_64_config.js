@@ -1,1 +1,1 @@
-var mnemonic = "depart river glimpse female sibling fancy trend roast maze rebel have punch";
+var mnemonic = "surface labor board spider allow quarter nest wife issue drama close slogan";

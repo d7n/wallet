@@ -1,1 +1,1 @@
-var mnemonic = "cattle long rabbit pause recipe feature tone issue property agree wood tornado";
+var mnemonic = "initial travel badge trap card crime tenant okay rhythm elephant normal mad";

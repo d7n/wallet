@@ -1,1 +1,1 @@
-var mnemonic = "basket bronze hamster secret meadow culture whale about acquire wood limit bracket";
+var mnemonic = "bag video square hobby flush stove fun bid sheriff note satoshi crystal";

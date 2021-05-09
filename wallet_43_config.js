@@ -1,1 +1,1 @@
-var mnemonic = "resist review burden ozone width decade zone grow icon nature virtual crane";
+var mnemonic = "believe welcome bike mixed swift length garbage crumble rule cancel hero bitter";

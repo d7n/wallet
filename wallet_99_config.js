@@ -1,1 +1,1 @@
-var mnemonic = "inflict pretty session chimney sense build grace wise pottery owner oblige minimum";
+var mnemonic = "main dry relax essence claw start chuckle pave foster brown board fox";

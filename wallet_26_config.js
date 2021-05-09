@@ -1,1 +1,1 @@
-var mnemonic = "table garlic you put toss moment satoshi until raven point cotton pumpkin";
+var mnemonic = "achieve title lens model brain visa profit sell hockey demand method artwork";

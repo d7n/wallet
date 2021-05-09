@@ -1,1 +1,1 @@
-var mnemonic = "armor iron still robust robot color become crop call ask review erase";
+var mnemonic = "income couch behave clump shoulder dog vacuum bullet begin garage pupil swamp";

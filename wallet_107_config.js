@@ -1,1 +1,1 @@
-var mnemonic = "fox foot actual carbon sketch image ceiling never place bronze letter course";
+var mnemonic = "what laugh before junk opera jazz royal fruit bid jump funny dwarf";

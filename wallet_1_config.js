@@ -1,1 +1,1 @@
-var mnemonic = "main infant toast unique lock decline ball shrug void make high person";
+var mnemonic = "cart lounge cost educate private congress top veteran know coach drop cushion";

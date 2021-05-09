@@ -1,1 +1,1 @@
-var mnemonic = "person spider pond siege amateur silver custom brass dream post eye run";
+var mnemonic = "subject secret bunker february vacuum prosper liquid cross risk laptop food strategy";

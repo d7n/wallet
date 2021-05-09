@@ -1,1 +1,1 @@
-var mnemonic = "clay absent polar vendor direct gravity peasant advice tell timber broccoli advance";
+var mnemonic = "talent dial record burden correct defy panic decline cry force swap truck";

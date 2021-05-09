@@ -1,1 +1,1 @@
-var mnemonic = "security glad recall time burden exercise kite sleep kite ostrich mask certain";
+var mnemonic = "embody squirrel mesh mutual exhaust remember range throw festival drastic object motor";

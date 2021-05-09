@@ -1,1 +1,1 @@
-var mnemonic = "narrow table loan crumble cargo curtain bone industry mule pistol erode between";
+var mnemonic = "token session cloud doll curve lion copy bronze situate ethics garlic share";

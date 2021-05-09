@@ -1,1 +1,1 @@
-var mnemonic = "ordinary snack advance steel sun emotion napkin beauty october test element control";
+var mnemonic = "soap close wing travel parent copper drop mother science ahead slam picture";

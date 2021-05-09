@@ -1,1 +1,1 @@
-var mnemonic = "later burden sick alien march unhappy organ warrior music organ sketch ready";
+var mnemonic = "defense alter hold learn wear dismiss client gauge trick invest possible keep";

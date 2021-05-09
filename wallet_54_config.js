@@ -1,1 +1,1 @@
-var mnemonic = "celery crouch profit glance panda pet report thank level chair police hockey";
+var mnemonic = "shrug mask reflect foster filter system sand leisure perfect song wreck warm";

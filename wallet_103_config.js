@@ -1,1 +1,1 @@
-var mnemonic = "budget spot home visual twelve worry zero run noodle venue pact act";
+var mnemonic = "wife tilt recycle critic error stock task merit initial erode sting bind";

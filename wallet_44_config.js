@@ -1,1 +1,1 @@
-var mnemonic = "purse mistake mean sleep uncle ensure meat welcome remove ride cause acid";
+var mnemonic = "abandon hero trick mom dirt radio off roof into grow acquire lady";

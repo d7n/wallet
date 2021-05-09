@@ -1,1 +1,1 @@
-var mnemonic = "zoo parent fame caution smoke frame sister plunge original salon notice hard";
+var mnemonic = "kitchen differ then pledge denial push party salon beauty snack reason flat";

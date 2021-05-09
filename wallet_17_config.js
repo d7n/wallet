@@ -1,1 +1,1 @@
-var mnemonic = "vessel melody frame lock question strategy century disagree exact select buyer hour";
+var mnemonic = "lunar amused camera okay coffee wrestle boil arm guide shuffle original blanket";

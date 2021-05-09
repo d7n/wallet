@@ -1,1 +1,1 @@
-var mnemonic = "library educate trumpet fat disagree thought girl wonder reject goat box rookie";
+var mnemonic = "retire man ancient eternal dutch garlic metal agree exchange suspect joy parrot";

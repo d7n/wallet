@@ -1,1 +1,1 @@
-var mnemonic = "surprise love beef lion cupboard melt possible print feel outer grab clay";
+var mnemonic = "reform border purse hospital police ostrich lecture box social metal divorce cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown autumn ice avocado season team tape twelve attract select depend soccer";
+var mnemonic = "beyond range small phone predict into quit mail cradle file script ramp";

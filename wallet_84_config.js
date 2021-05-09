@@ -1,1 +1,1 @@
-var mnemonic = "bar senior collect glue guess edit message knife jaguar aware spoil sting";
+var mnemonic = "image stomach gun genuine lunch myth pond fringe pencil pizza marble slender";

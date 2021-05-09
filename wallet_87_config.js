@@ -1,1 +1,1 @@
-var mnemonic = "cheap viable off olympic final belt mirror amazing before produce camera drastic";
+var mnemonic = "sister average old hollow bulk nephew fringe tube vague scale duck sibling";

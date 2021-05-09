@@ -1,1 +1,1 @@
-var mnemonic = "casual salon worry salad fever donate beauty vivid marine egg direct convince";
+var mnemonic = "dizzy monkey bean such pause fish sport pepper essence become mom pause";

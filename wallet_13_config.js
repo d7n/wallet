@@ -1,1 +1,1 @@
-var mnemonic = "faith gap hollow crazy atom struggle stone early lens biology work can";
+var mnemonic = "suit destroy major miss bus above universe train embrace assist roast ostrich";

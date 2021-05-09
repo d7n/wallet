@@ -1,1 +1,1 @@
-var mnemonic = "magnet vapor harsh interest flame leg salmon income arch anchor electric worth";
+var mnemonic = "grab make slot close mother raccoon ability dinosaur rookie below pupil tobacco";
