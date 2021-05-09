@@ -1,1 +1,1 @@
-var mnemonic = "alley impulse raise oblige dove riot early round route price street curious";
+var mnemonic = "resist hockey give cousin salon room girl tortoise garment penalty odor idea";

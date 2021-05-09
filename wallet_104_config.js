@@ -1,1 +1,1 @@
-var mnemonic = "sting casual buzz injury goose shift link napkin swallow east pepper focus";
+var mnemonic = "someone clock join fancy model amateur nation robot forward enable bacon damage";

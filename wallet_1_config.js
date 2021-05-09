@@ -1,1 +1,1 @@
-var mnemonic = "taste expose success address piano wrist connect capital jar maple burst congress";
+var mnemonic = "elephant release lunar zoo brave sauce mother effort tray father vapor normal";

@@ -1,1 +1,1 @@
-var mnemonic = "reform cheese emotion across noble salmon twice property minute used minor label";
+var mnemonic = "impulse speed merry lounge name focus spell explain wrestle brain breeze bird";

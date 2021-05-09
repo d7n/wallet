@@ -1,1 +1,1 @@
-var mnemonic = "safe minimum dove demand soft retire gravity equal print ill wrist buffalo";
+var mnemonic = "fortune february wing birth awesome scene example unknown scene that coach retreat";

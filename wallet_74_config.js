@@ -1,1 +1,1 @@
-var mnemonic = "must ball bicycle school panel wing gorilla blanket odor claim movie cloth";
+var mnemonic = "wheel upper kiss concert three theme make security valid grant jazz business";

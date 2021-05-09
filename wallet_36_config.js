@@ -1,1 +1,1 @@
-var mnemonic = "rule tattoo hand dash install initial payment fix amount outer brass setup";
+var mnemonic = "raw awkward elephant path pill yard crime radar earth kitchen evoke morning";

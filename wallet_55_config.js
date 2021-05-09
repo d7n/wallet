@@ -1,1 +1,1 @@
-var mnemonic = "april cannon express turn arena educate endless unhappy dream cotton can snack";
+var mnemonic = "stairs unlock cactus dismiss little bicycle family true hen slush laptop adult";

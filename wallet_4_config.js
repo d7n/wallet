@@ -1,1 +1,1 @@
-var mnemonic = "dizzy mosquito bonus angle acoustic slow neutral boy enjoy chase jacket derive";
+var mnemonic = "guard town patch jungle liquid will identify vacant cabin tragic pitch host";

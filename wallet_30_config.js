@@ -1,1 +1,1 @@
-var mnemonic = "inform wreck pudding manage magic bonus brother cable always arctic embrace arctic";
+var mnemonic = "balcony inflict scatter bicycle carry noise right ocean select hundred sell truth";

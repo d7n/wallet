@@ -1,1 +1,1 @@
-var mnemonic = "wink zero mandate carry jar chef soccer news predict inner tip guide";
+var mnemonic = "online image spread soul rival globe strong method session frost retreat early";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper proud bachelor teach remind cute fold burst inmate time monkey oppose";
+var mnemonic = "hybrid survey million erupt world special owner pigeon announce heart twelve culture";

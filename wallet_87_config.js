@@ -1,1 +1,1 @@
-var mnemonic = "affair consider step whip quote front belt canyon silver office pet then";
+var mnemonic = "diesel armed dust gap athlete army fruit obtain bright camp dune dumb";

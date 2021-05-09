@@ -1,1 +1,1 @@
-var mnemonic = "diet strong woman recall pill legal fee this couch square already divide";
+var mnemonic = "sentence dream master one vacant broccoli display icon replace require record remember";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity permit fee mobile stem joke battle kiss student solar afford circle";
+var mnemonic = "armor much twin skill column upset say open urge mix resource burden";

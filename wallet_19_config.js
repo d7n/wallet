@@ -1,1 +1,1 @@
-var mnemonic = "review best thrive endless brown tornado exhaust drama need umbrella amazing into";
+var mnemonic = "vessel regular runway indoor boil remember tenant top future true echo arrow";

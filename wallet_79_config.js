@@ -1,1 +1,1 @@
-var mnemonic = "cave tool nut river question cause absurd explain excuse across excite arm";
+var mnemonic = "quote sadness crystal decrease december problem figure infant scheme decade flower stand";

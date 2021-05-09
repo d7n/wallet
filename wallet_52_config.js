@@ -1,1 +1,1 @@
-var mnemonic = "gesture misery verify lunar point believe alone tower green cause garlic army";
+var mnemonic = "giggle good seed balance end festival turkey barely endorse cinnamon chief worth";

@@ -1,1 +1,1 @@
-var mnemonic = "love coach mutual rival address frame drama mixture curve couple bitter process";
+var mnemonic = "vessel volcano magnet please hollow february trust prepare interest hood brush leader";

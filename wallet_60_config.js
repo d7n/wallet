@@ -1,1 +1,1 @@
-var mnemonic = "vacant that fuel credit trigger comic color indicate sugar section sorry hollow";
+var mnemonic = "tray energy parent bitter ribbon cigar coconut assist supply bronze diet safe";

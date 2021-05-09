@@ -1,1 +1,1 @@
-var mnemonic = "taxi stool month champion tattoo rude turn like maid expose razor wife";
+var mnemonic = "noodle banner mystery hand face bread talent write asset around need glimpse";

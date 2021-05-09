@@ -1,1 +1,1 @@
-var mnemonic = "soldier pledge ecology render scale husband release brown loan trust sample pause";
+var mnemonic = "ridge home crowd minor casual traffic speed tilt famous hospital rabbit path";

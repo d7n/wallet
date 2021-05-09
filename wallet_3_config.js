@@ -1,1 +1,1 @@
-var mnemonic = "outdoor pole chapter initial eternal tuition rocket promote oil strike video bottom";
+var mnemonic = "flame utility cause super alcohol hello limit happy blood another crisp pizza";

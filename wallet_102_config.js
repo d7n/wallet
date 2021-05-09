@@ -1,1 +1,1 @@
-var mnemonic = "flower conduct dutch cycle average vicious exercise version lava dish eager people";
+var mnemonic = "spring gate lesson child coyote prosper grab pepper blanket practice park devote";

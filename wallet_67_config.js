@@ -1,1 +1,1 @@
-var mnemonic = "dilemma lesson guess problem rotate dress bacon mesh garlic job stove mixture";
+var mnemonic = "garage learn lyrics mutual radar add person remain gesture unknown fall task";

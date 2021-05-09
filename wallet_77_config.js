@@ -1,1 +1,1 @@
-var mnemonic = "side amazing universe fault cushion apology leader monster reward bright mango derive";
+var mnemonic = "wedding first visual apple shove wing erase rival clap negative airport include";

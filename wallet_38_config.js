@@ -1,1 +1,1 @@
-var mnemonic = "control glare uniform improve oppose reflect private panda expose main engine sign";
+var mnemonic = "fancy era core chronic pumpkin name rotate village improve boat pool practice";

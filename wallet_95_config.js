@@ -1,1 +1,1 @@
-var mnemonic = "search meadow believe erase gather echo grief gold desk slot pool kit";
+var mnemonic = "notice royal swear loan tired net sugar notice embrace pattern inside warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "forward tone unaware chase similar gown bless soon clip civil adjust trend";
+var mnemonic = "swap parrot high range identify tray fancy sure happy example stage zebra";

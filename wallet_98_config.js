@@ -1,1 +1,1 @@
-var mnemonic = "expire range stay captain engage february example injury control agree target lend";
+var mnemonic = "pool awake reduce eight tide uphold drip great concert silver youth calm";

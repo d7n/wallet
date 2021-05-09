@@ -1,1 +1,1 @@
-var mnemonic = "deer broom burger mail reflect bread blade dance wrap relax divide whale";
+var mnemonic = "elegant test one merge wrestle tip barely girl surface source badge praise";

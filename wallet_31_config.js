@@ -1,1 +1,1 @@
-var mnemonic = "labor panda oil edge crazy can describe habit wasp december soon distance";
+var mnemonic = "bicycle shoe swamp mechanic blast file alcohol fluid wisdom reason avocado just";

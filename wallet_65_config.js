@@ -1,1 +1,1 @@
-var mnemonic = "label leopard ranch slender pact bleak pulse laugh ridge base vocal allow";
+var mnemonic = "around column foster dolphin gym attend staff future unable river canoe chief";

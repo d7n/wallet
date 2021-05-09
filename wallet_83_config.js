@@ -1,1 +1,1 @@
-var mnemonic = "useful journey toe spot alarm false bicycle cake farm border sort unknown";
+var mnemonic = "exercise service renew school chat ginger snack next ahead high engage brush";

@@ -1,1 +1,1 @@
-var mnemonic = "describe depth merry admit extra snow chapter tomato broom insect bean ramp";
+var mnemonic = "various ability fatigue under keen amazing satisfy swamp design drip staff people";

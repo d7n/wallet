@@ -1,1 +1,1 @@
-var mnemonic = "topic usual finger day matrix melt cousin kidney hero base cube eight";
+var mnemonic = "remain merit sad mango aspect praise staff quote pizza panic battle mansion";

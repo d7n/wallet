@@ -1,1 +1,1 @@
-var mnemonic = "uncle stamp process defense enter history satisfy spirit announce split produce survey";
+var mnemonic = "outer entire shell behave frame oxygen birth year media vast wreck upset";

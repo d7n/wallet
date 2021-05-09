@@ -1,1 +1,1 @@
-var mnemonic = "shield deny exercise bone practice plate holiday gate now bus jump digital";
+var mnemonic = "rent purpose maximum palace learn copper science tube flame wide slight rug";

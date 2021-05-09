@@ -1,1 +1,1 @@
-var mnemonic = "outdoor wrap seven current govern tuna fan timber hand silly frog return";
+var mnemonic = "small bicycle carpet onion fringe warrior note hawk possible charge jazz lion";

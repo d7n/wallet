@@ -1,1 +1,1 @@
-var mnemonic = "forum popular tragic clever cover utility buddy tennis miracle suffer behave keep";
+var mnemonic = "vocal fade absorb envelope desert blood misery snack suspect direct glory suggest";

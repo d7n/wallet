@@ -1,1 +1,1 @@
-var mnemonic = "hello general today climb office belt salt foam there case carpet vapor";
+var mnemonic = "soul garment mushroom spring ride paper stove lunch ten miracle sudden faith";

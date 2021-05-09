@@ -1,1 +1,1 @@
-var mnemonic = "hotel horn hood fruit express cycle also advice post believe squirrel power";
+var mnemonic = "ensure spot empower lab slush table photo employ girl solar urban crouch";

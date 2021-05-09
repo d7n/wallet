@@ -1,1 +1,1 @@
-var mnemonic = "kite whale also bracket people delay release tube service music habit among";
+var mnemonic = "enhance wish attack dice unit angle grant actor decide human reunion menu";

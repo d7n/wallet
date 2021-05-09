@@ -1,1 +1,1 @@
-var mnemonic = "cup dumb ahead hair erosion barrel lounge address lend average need obey";
+var mnemonic = "blast interest find chapter double empty piece main milk pilot palm possible";

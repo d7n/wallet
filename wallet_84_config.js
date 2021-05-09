@@ -1,1 +1,1 @@
-var mnemonic = "tilt write venture crew coach weapon afraid tonight illegal bronze better salt";
+var mnemonic = "diesel keen divert coyote cool fork lemon inspire pepper bubble meadow question";

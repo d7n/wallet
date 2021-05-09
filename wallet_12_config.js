@@ -1,1 +1,1 @@
-var mnemonic = "stand envelope section exist lazy mushroom bullet toss trial fix enforce sure";
+var mnemonic = "bag walk pave entire gospel neutral garbage delay dry trim taste wife";

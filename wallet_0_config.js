@@ -1,1 +1,1 @@
-var mnemonic = "lazy demise flower submit pistol ivory orbit trap hockey kite large leisure";
+var mnemonic = "initial around rare middle group panel raccoon endorse recipe demise purpose state";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase february imitate soup easy describe slender broken flower wire lucky diesel";
+var mnemonic = "unique melody dignity rubber diagram teach six layer draft garment flag genre";

@@ -1,1 +1,1 @@
-var mnemonic = "modify liquid primary safe radio save casino favorite crew confirm false since";
+var mnemonic = "frown betray immense absent welcome action grid garment domain toilet express share";

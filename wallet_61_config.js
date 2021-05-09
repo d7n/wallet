@@ -1,1 +1,1 @@
-var mnemonic = "inner appear wire decline antique affair neck avoid try skirt proof zoo";
+var mnemonic = "aisle alert radio grab cigar verify pumpkin brick equal unlock save ladder";

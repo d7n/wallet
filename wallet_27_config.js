@@ -1,1 +1,1 @@
-var mnemonic = "loop local cycle step drum maid achieve glow decrease local hungry satoshi";
+var mnemonic = "snap domain twenty enforce sentence cake shrimp govern consider what rabbit sense";

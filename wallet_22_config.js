@@ -1,1 +1,1 @@
-var mnemonic = "toast evil sound movie exercise link reopen festival tilt flight answer because";
+var mnemonic = "mother mosquito behind news exclude subject burger token satisfy alien box spread";

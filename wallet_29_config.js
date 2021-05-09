@@ -1,1 +1,1 @@
-var mnemonic = "couch ordinary stadium cushion round estate until swamp aisle menu extend sadness";
+var mnemonic = "train chapter warfare focus process follow dune match explain render rhythm field";

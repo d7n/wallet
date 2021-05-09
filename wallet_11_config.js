@@ -1,1 +1,1 @@
-var mnemonic = "decrease element nature negative cinnamon shrimp daring auction opera zone bike height";
+var mnemonic = "file urban above flush choice foil burst snap detail sport weekend diet";

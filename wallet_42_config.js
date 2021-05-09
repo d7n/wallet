@@ -1,1 +1,1 @@
-var mnemonic = "eye chapter brisk aunt cupboard air level shock rather copper seek blouse";
+var mnemonic = "glow prepare swallow payment teach timber during retreat way usual giggle eagle";

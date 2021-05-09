@@ -1,1 +1,1 @@
-var mnemonic = "shop network nerve wire fatal ticket session dream ethics exit butter blood";
+var mnemonic = "vanish vivid stem spoon phone craft illness tired rate dice elder fashion";

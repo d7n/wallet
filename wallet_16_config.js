@@ -1,1 +1,1 @@
-var mnemonic = "eternal bean invite power right where cause guide funny bench discover hedgehog";
+var mnemonic = "response quit love liar ecology margin trip flower bounce gesture funny soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "toss good crumble violin sorry empty youth unaware shift cycle blouse parrot";
+var mnemonic = "mango impact alter taste nut walnut creek fork frequent year warm rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "green home swarm marine clean squirrel era mind effort reunion alarm door";
+var mnemonic = "cabin garden jacket owner average build bonus pupil jelly fault leisure cable";

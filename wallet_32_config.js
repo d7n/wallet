@@ -1,1 +1,1 @@
-var mnemonic = "vital canoe meadow manage benefit much journey fall safe rotate powder lecture";
+var mnemonic = "friend tower typical list borrow ball genius worth hospital ready embark meadow";

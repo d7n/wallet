@@ -1,1 +1,1 @@
-var mnemonic = "patrol veteran dignity govern error circle region wage fame film skate casual";
+var mnemonic = "morning kiwi amused stool gossip orphan tired modify endorse cattle upon quit";

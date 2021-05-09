@@ -1,1 +1,1 @@
-var mnemonic = "require lucky indicate grain balance mention sponsor pencil satisfy kangaroo weather pony";
+var mnemonic = "destroy reveal stomach pluck spring palace regular traffic sign wrong autumn treat";

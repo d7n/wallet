@@ -1,1 +1,1 @@
-var mnemonic = "frog action element tape poem dutch clown lift sniff goose school wonder";
+var mnemonic = "glove evoke gather festival note industry prevent dragon ask parrot embark capital";

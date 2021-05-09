@@ -1,1 +1,1 @@
-var mnemonic = "unfold protect decide math curious faculty country quit east snack glory inner";
+var mnemonic = "sleep engine very wise sauce crash they calm hybrid nuclear once connect";

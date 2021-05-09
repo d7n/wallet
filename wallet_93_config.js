@@ -1,1 +1,1 @@
-var mnemonic = "sponsor much excite bonus midnight valve way tent mercy burger hero amazing";
+var mnemonic = "chimney wash ridge deal lobster hybrid sword fine domain figure insane coral";

@@ -1,1 +1,1 @@
-var mnemonic = "alley lizard inflict capable glow reunion wife usage glue broken antenna second";
+var mnemonic = "marriage media help crack zebra violin donate soft unique purpose name govern";

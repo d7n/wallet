@@ -1,1 +1,1 @@
-var mnemonic = "switch shield clip joke fat security vendor solution cool hammer expand inside";
+var mnemonic = "thunder decade sun affair mixed there deny rain oblige crater choice fluid";

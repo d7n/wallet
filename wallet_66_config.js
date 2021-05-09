@@ -1,1 +1,1 @@
-var mnemonic = "ocean throw position verify recall riot practice exhaust asthma pony cliff school";
+var mnemonic = "attitude finish refuse mansion tilt demand just struggle dish skill dad judge";

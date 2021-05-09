@@ -1,1 +1,1 @@
-var mnemonic = "anchor fuel develop mammal horse brown fancy expect spring choose boring faith";
+var mnemonic = "push cross topic joke song fragile satisfy polar mom wide light gloom";

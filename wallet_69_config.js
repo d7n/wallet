@@ -1,1 +1,1 @@
-var mnemonic = "awful rent address consider buzz pill special document cram receive boil end";
+var mnemonic = "famous miracle improve east crack erosion weasel sibling away beach symbol luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "whale orphan plunge inflict urge accident master subway tunnel series right topple";
+var mnemonic = "angry finish mother coast guess faculty whale elevator panda vintage tiger help";

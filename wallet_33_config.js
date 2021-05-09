@@ -1,1 +1,1 @@
-var mnemonic = "smooth farm pill soap current clerk treat major surge wink oval hold";
+var mnemonic = "twelve wrong confirm month destroy learn faculty enable trend orchard shoe midnight";

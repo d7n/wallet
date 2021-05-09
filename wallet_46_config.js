@@ -1,1 +1,1 @@
-var mnemonic = "decrease strong tourist pole smart chest catalog expire enrich distance famous change";
+var mnemonic = "timber badge path stock black lend fall fog dentist journey margin sword";

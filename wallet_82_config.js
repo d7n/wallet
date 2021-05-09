@@ -1,1 +1,1 @@
-var mnemonic = "off judge laundry razor ancient argue keep place ski holiday enemy rely";
+var mnemonic = "float network slot sunny service hat later emerge romance run hand service";

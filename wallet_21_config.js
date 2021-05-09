@@ -1,1 +1,1 @@
-var mnemonic = "husband orange gather extra screen violin jacket hedgehog thank rough staff mechanic";
+var mnemonic = "wife outdoor today flock trim cloud blind town practice field blur immune";

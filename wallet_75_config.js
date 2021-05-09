@@ -1,1 +1,1 @@
-var mnemonic = "crack slab force repair cradle want obey uncle extend general brass fetch";
+var mnemonic = "produce potato case bulk knock ready deputy prize absurd smart coconut size";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist toy damage eyebrow oyster key comic buyer buddy glimpse wood inherit";
+var mnemonic = "arrive inherit run napkin toast earn wise seminar version suffer hard gasp";

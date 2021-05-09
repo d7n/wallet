@@ -1,1 +1,1 @@
-var mnemonic = "elegant ritual only trophy cool truck turkey rival style emerge split symptom";
+var mnemonic = "cereal blood crunch excuse key valid desk universe network cement blush clean";

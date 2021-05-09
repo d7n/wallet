@@ -1,1 +1,1 @@
-var mnemonic = "misery habit twelve black love this solid fish banner panther hungry subway";
+var mnemonic = "need hammer crush tribe peace afraid write pass music father put live";

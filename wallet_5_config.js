@@ -1,1 +1,1 @@
-var mnemonic = "able elephant tissue flat evoke silk morning derive grocery hamster alien fee";
+var mnemonic = "section slight such first parrot other useful puppy detect joy library ritual";

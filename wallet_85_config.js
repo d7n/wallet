@@ -1,1 +1,1 @@
-var mnemonic = "cluster holiday derive keen height gossip cupboard voyage stove assault celery chat";
+var mnemonic = "flag sponsor mosquito girl kite artefact maximum tuition dove wisdom market gate";

@@ -1,1 +1,1 @@
-var mnemonic = "venture layer moral predict wool remind quit glare quality embody nest into";
+var mnemonic = "quarter trap cup fossil small expand eager radio apology three rely glory";

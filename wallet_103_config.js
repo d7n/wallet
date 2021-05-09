@@ -1,1 +1,1 @@
-var mnemonic = "poem tilt cactus song future ahead trigger tiny demise fever inner thunder";
+var mnemonic = "spatial sword edge offer couch two high infant music regret sustain satisfy";

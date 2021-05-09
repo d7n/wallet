@@ -1,1 +1,1 @@
-var mnemonic = "advance pave pact exhibit nothing great scorpion exercise lemon celery mention cart";
+var mnemonic = "stone casual unit afraid display prize kid game tissue brother wedding all";

@@ -1,1 +1,1 @@
-var mnemonic = "denial spread pulse faint lazy original lunch can client actual always aim";
+var mnemonic = "able please mansion deal fringe fetch border boss retire large quote away";

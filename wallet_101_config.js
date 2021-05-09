@@ -1,1 +1,1 @@
-var mnemonic = "diamond sun brush draw anxiety melt double muscle awkward hotel genuine woman";
+var mnemonic = "absurd negative faint patient crystal youth tower another game health curious hope";

@@ -1,1 +1,1 @@
-var mnemonic = "knock world talk alley tourist school fashion laugh devote miss assist token";
+var mnemonic = "sauce find rough fantasy code gun notable ethics sell special example day";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty garbage fade small wonder siege dress parade tone guard giant divert";
+var mnemonic = "miracle opera thrive wonder cash job jazz old sing palace man fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "cross grass chest wing idea jacket bracket gain vicious pluck load lottery";
+var mnemonic = "mountain awake else bless exclude nuclear grunt twin gaze shove hundred arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "group era bronze autumn benefit private cousin afraid verify family where pledge";
+var mnemonic = "color trouble fuel random deny kiss imitate intact satoshi such check security";

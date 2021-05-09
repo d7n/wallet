@@ -1,1 +1,1 @@
-var mnemonic = "provide near fruit echo blast pizza spend hello salon travel relief rival";
+var mnemonic = "kidney wish patient swarm okay wet require bread ski limit label coach";
