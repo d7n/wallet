@@ -1,1 +1,1 @@
-var mnemonic = "absurd negative faint patient crystal youth tower another game health curious hope";
+var mnemonic = "erosion budget deny finger rail evil bitter awake finger combine deal fringe";

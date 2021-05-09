@@ -1,1 +1,1 @@
-var mnemonic = "notice royal swear loan tired net sugar notice embrace pattern inside warrior";
+var mnemonic = "one all electric swap earn enter wonder elbow close agree pole gym";

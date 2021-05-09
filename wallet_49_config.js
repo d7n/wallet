@@ -1,1 +1,1 @@
-var mnemonic = "diesel review conduct double pink dwarf library range noble resemble rigid orange";
+var mnemonic = "catalog mushroom talk idea sample pet match harsh embark short pear kitten";

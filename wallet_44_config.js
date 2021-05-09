@@ -1,1 +1,1 @@
-var mnemonic = "soul garment mushroom spring ride paper stove lunch ten miracle sudden faith";
+var mnemonic = "echo journey holiday early cat kick raven inmate tomato reduce mimic animal";

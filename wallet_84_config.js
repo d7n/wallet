@@ -1,1 +1,1 @@
-var mnemonic = "diesel keen divert coyote cool fork lemon inspire pepper bubble meadow question";
+var mnemonic = "future liberty nurse release height addict glance hill grid believe mutual rubber";

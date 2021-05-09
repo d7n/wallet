@@ -1,1 +1,1 @@
-var mnemonic = "tray energy parent bitter ribbon cigar coconut assist supply bronze diet safe";
+var mnemonic = "perfect purse timber aware witness awful slide eyebrow scrap legal found release";

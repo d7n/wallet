@@ -1,1 +1,1 @@
-var mnemonic = "exercise service renew school chat ginger snack next ahead high engage brush";
+var mnemonic = "flower force rather usage sail forum humble basket enforce cycle gospel they";

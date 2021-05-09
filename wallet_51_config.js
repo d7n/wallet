@@ -1,1 +1,1 @@
-var mnemonic = "various ability fatigue under keen amazing satisfy swamp design drip staff people";
+var mnemonic = "ivory ticket together power lottery shield sound artist spice sponsor uniform meat";

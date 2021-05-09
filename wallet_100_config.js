@@ -1,1 +1,1 @@
-var mnemonic = "small bicycle carpet onion fringe warrior note hawk possible charge jazz lion";
+var mnemonic = "vital step melt road system enjoy impact slender prevent agree essence ranch";

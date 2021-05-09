@@ -1,1 +1,1 @@
-var mnemonic = "armor much twin skill column upset say open urge mix resource burden";
+var mnemonic = "decline popular plate tongue arch jewel crowd evolve social cake leaf virus";

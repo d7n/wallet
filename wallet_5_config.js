@@ -1,1 +1,1 @@
-var mnemonic = "section slight such first parrot other useful puppy detect joy library ritual";
+var mnemonic = "shine venture example doll violin lens jar carpet resist random spatial chief";

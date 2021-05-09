@@ -1,1 +1,1 @@
-var mnemonic = "gas also toward because twelve ugly indoor horn firm recall lady interest";
+var mnemonic = "rival special glory buffalo limit aspect cover first increase special badge gold";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel upper kiss concert three theme make security valid grant jazz business";
+var mnemonic = "mean census they grocery polar punch shoe spot minute alien explain maid";

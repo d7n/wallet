@@ -1,1 +1,1 @@
-var mnemonic = "able please mansion deal fringe fetch border boss retire large quote away";
+var mnemonic = "slender tumble case guess water bridge lunch math act depart napkin afford";

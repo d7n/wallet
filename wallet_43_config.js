@@ -1,1 +1,1 @@
-var mnemonic = "kidney wish patient swarm okay wet require bread ski limit label coach";
+var mnemonic = "gown shrimp dwarf comic priority pyramid grocery holiday object slam give sun";

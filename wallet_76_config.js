@@ -1,1 +1,1 @@
-var mnemonic = "need hammer crush tribe peace afraid write pass music father put live";
+var mnemonic = "post elite lottery old brush blade twelve health crisp crunch chicken choice";

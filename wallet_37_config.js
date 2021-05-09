@@ -1,1 +1,1 @@
-var mnemonic = "point income guide green ticket ladder cousin slide slam brief truck confirm";
+var mnemonic = "picnic comfort reveal media guess drink plate kingdom conduct brave turkey canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "famous miracle improve east crack erosion weasel sibling away beach symbol luxury";
+var mnemonic = "stem clip mean render method punch sport cube hundred gym usage satoshi";

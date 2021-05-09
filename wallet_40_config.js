@@ -1,1 +1,1 @@
-var mnemonic = "scheme health vibrant twelve sign choice rotate absent connect spend donor dumb";
+var mnemonic = "sister trumpet sister drastic whip hurry delay advance process view twelve donate";

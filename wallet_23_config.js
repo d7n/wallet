@@ -1,1 +1,1 @@
-var mnemonic = "sleep engine very wise sauce crash they calm hybrid nuclear once connect";
+var mnemonic = "once scout atom catch sphere convince child wrist bleak carry edge maple";

@@ -1,1 +1,1 @@
-var mnemonic = "guard town patch jungle liquid will identify vacant cabin tragic pitch host";
+var mnemonic = "pyramid stairs fox gate cloth kid sleep custom situate ticket math march";

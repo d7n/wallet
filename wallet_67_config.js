@@ -1,1 +1,1 @@
-var mnemonic = "garage learn lyrics mutual radar add person remain gesture unknown fall task";
+var mnemonic = "unfair parrot rhythm weapon endless club pulp spatial north lyrics theory snack";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding first visual apple shove wing erase rival clap negative airport include";
+var mnemonic = "easy soul clip bubble elite evil off element engine enrich rate helmet";

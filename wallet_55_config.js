@@ -1,1 +1,1 @@
-var mnemonic = "stairs unlock cactus dismiss little bicycle family true hen slush laptop adult";
+var mnemonic = "actor this can service illness ice label island piano cotton photo scan";

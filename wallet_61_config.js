@@ -1,1 +1,1 @@
-var mnemonic = "aisle alert radio grab cigar verify pumpkin brick equal unlock save ladder";
+var mnemonic = "short quote neglect awake various infant badge ready meadow kick cube express";

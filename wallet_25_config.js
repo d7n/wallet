@@ -1,1 +1,1 @@
-var mnemonic = "vessel volcano magnet please hollow february trust prepare interest hood brush leader";
+var mnemonic = "oppose submit enough card twist yellow bone imitate fault virus kitten elder";

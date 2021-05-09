@@ -1,1 +1,1 @@
-var mnemonic = "giggle good seed balance end festival turkey barely endorse cinnamon chief worth";
+var mnemonic = "glass harbor source wave grace session message genius harbor jelly badge suspect";

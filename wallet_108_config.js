@@ -1,1 +1,1 @@
-var mnemonic = "quarter trap cup fossil small expand eager radio apology three rely glory";
+var mnemonic = "display stock image female inflict jacket empower season beach river slide like";

@@ -1,1 +1,1 @@
-var mnemonic = "flag sponsor mosquito girl kite artefact maximum tuition dove wisdom market gate";
+var mnemonic = "result prefer scene flag say suspect sausage enroll because gauge choose recipe";

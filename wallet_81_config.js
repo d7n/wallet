@@ -1,1 +1,1 @@
-var mnemonic = "seven lucky vacant consider mule catch hollow capable forum today sweet output";
+var mnemonic = "student quarter attitude lottery moral kidney guitar second call prevent imitate humble";

@@ -1,1 +1,1 @@
-var mnemonic = "business party age cube trap ripple into put tongue fit habit anchor";
+var mnemonic = "taxi unable asset oval buffalo glance riot phrase match put soup poet";

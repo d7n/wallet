@@ -1,1 +1,1 @@
-var mnemonic = "float network slot sunny service hat later emerge romance run hand service";
+var mnemonic = "else tooth bundle evoke climb arrive address know already physical junk dish";

@@ -1,1 +1,1 @@
-var mnemonic = "flame utility cause super alcohol hello limit happy blood another crisp pizza";
+var mnemonic = "result song cargo rabbit flee crew sign debris erupt track palace cheap";

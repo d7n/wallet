@@ -1,1 +1,1 @@
-var mnemonic = "bag walk pave entire gospel neutral garbage delay dry trim taste wife";
+var mnemonic = "simple amused six solid plate gorilla fold maze disorder famous tent slide";

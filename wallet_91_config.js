@@ -1,1 +1,1 @@
-var mnemonic = "morning kiwi amused stool gossip orphan tired modify endorse cattle upon quit";
+var mnemonic = "faint pumpkin dynamic door remind prepare stamp write magic enhance prefer ginger";

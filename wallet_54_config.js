@@ -1,1 +1,1 @@
-var mnemonic = "cereal blood crunch excuse key valid desk universe network cement blush clean";
+var mnemonic = "ice measure human indicate vapor sell symptom bless inside copy tomato battle";

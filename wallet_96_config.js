@@ -1,1 +1,1 @@
-var mnemonic = "angry finish mother coast guess faculty whale elevator panda vintage tiger help";
+var mnemonic = "slot insane kid detail provide happy chuckle tired guide ticket sick athlete";

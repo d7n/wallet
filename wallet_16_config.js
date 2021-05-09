@@ -1,1 +1,1 @@
-var mnemonic = "response quit love liar ecology margin trip flower bounce gesture funny soldier";
+var mnemonic = "people script below galaxy stage poet same dove very reunion tube spoil";

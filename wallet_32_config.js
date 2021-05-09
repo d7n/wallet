@@ -1,1 +1,1 @@
-var mnemonic = "friend tower typical list borrow ball genius worth hospital ready embark meadow";
+var mnemonic = "shadow depth inch shoe table ten merge planet eyebrow only capable duck";

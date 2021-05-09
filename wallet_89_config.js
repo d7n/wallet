@@ -1,1 +1,1 @@
-var mnemonic = "enhance wish attack dice unit angle grant actor decide human reunion menu";
+var mnemonic = "brisk glance match forward pole salute palm fall slight risk silent armor";

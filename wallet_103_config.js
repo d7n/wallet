@@ -1,1 +1,1 @@
-var mnemonic = "spatial sword edge offer couch two high infant music regret sustain satisfy";
+var mnemonic = "person glance party first cereal dose chapter universe gesture decorate grit leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish vivid stem spoon phone craft illness tired rate dice elder fashion";
+var mnemonic = "blue crouch tattoo erupt asthma host smooth pond false forum mimic easily";

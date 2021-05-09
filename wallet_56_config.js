@@ -1,1 +1,1 @@
-var mnemonic = "marriage media help crack zebra violin donate soft unique purpose name govern";
+var mnemonic = "ordinary clown afford know client pilot tooth slab bean away verb tortoise";

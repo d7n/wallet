@@ -1,1 +1,1 @@
-var mnemonic = "around column foster dolphin gym attend staff future unable river canoe chief";
+var mnemonic = "ostrich language hurry marriage poverty left fix mystery army pupil muscle increase";

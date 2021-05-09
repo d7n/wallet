@@ -1,1 +1,1 @@
-var mnemonic = "destroy reveal stomach pluck spring palace regular traffic sign wrong autumn treat";
+var mnemonic = "gap quick across now harbor hope someone orbit vocal uncle love mean";

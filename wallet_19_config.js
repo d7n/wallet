@@ -1,1 +1,1 @@
-var mnemonic = "vessel regular runway indoor boil remember tenant top future true echo arrow";
+var mnemonic = "suspect ill task recycle service leader certain imitate return zebra human vacant";

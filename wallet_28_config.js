@@ -1,1 +1,1 @@
-var mnemonic = "sentence dream master one vacant broccoli display icon replace require record remember";
+var mnemonic = "load goat absent about click liar cave table ethics refuse vapor museum";

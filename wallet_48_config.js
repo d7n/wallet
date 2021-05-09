@@ -1,1 +1,1 @@
-var mnemonic = "swap parrot high range identify tray fancy sure happy example stage zebra";
+var mnemonic = "frown main leaf aerobic leaf oyster oak bachelor scrub universe attitude monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve wrong confirm month destroy learn faculty enable trend orchard shoe midnight";
+var mnemonic = "load melt combine depend neither april before odor oblige december evolve palm";

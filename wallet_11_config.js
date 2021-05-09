@@ -1,1 +1,1 @@
-var mnemonic = "file urban above flush choice foil burst snap detail sport weekend diet";
+var mnemonic = "cupboard attitude sell dynamic maple earn design someone client element escape tooth";

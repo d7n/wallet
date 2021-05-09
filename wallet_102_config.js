@@ -1,1 +1,1 @@
-var mnemonic = "spring gate lesson child coyote prosper grab pepper blanket practice park devote";
+var mnemonic = "express basic rough flush physical cannon alert limit need lab weapon grid";

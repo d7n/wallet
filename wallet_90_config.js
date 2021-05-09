@@ -1,1 +1,1 @@
-var mnemonic = "rent purpose maximum palace learn copper science tube flame wide slight rug";
+var mnemonic = "circle spider bridge arrow kingdom repair cook strong level visual eagle firm";

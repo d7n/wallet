@@ -1,1 +1,1 @@
-var mnemonic = "initial around rare middle group panel raccoon endorse recipe demise purpose state";
+var mnemonic = "inside expose audit dream obtain rescue obtain wink twenty worth album pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "quote sadness crystal decrease december problem figure infant scheme decade flower stand";
+var mnemonic = "comfort vibrant legal vault stand pigeon vendor soft usual robot offer exit";

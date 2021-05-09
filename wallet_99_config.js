@@ -1,1 +1,1 @@
-var mnemonic = "silent detail electric fault cost near arrow vapor office obtain festival giggle";
+var mnemonic = "dune knock sniff hawk adjust adjust tray acoustic rally episode clap bleak";

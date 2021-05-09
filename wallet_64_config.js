@@ -1,1 +1,1 @@
-var mnemonic = "explain angry dutch ancient acid under cook security dial link addict cash";
+var mnemonic = "own dynamic govern cram sort scene depth media deputy chapter snack afford";

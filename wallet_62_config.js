@@ -1,1 +1,1 @@
-var mnemonic = "push cross topic joke song fragile satisfy polar mom wide light gloom";
+var mnemonic = "panda panther skull path clutch half oven black crop hungry ready shiver";

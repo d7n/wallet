@@ -1,1 +1,1 @@
-var mnemonic = "raw awkward elephant path pill yard crime radar earth kitchen evoke morning";
+var mnemonic = "orient donor reveal glove across universe someone pact clap surge broken rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant release lunar zoo brave sauce mother effort tray father vapor normal";
+var mnemonic = "project unhappy notice walk toss episode supreme predict panel helmet rude foil";

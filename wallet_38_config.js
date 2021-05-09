@@ -1,1 +1,1 @@
-var mnemonic = "fancy era core chronic pumpkin name rotate village improve boat pool practice";
+var mnemonic = "thing ensure box night foam deposit meadow demise address impact sorry pear";

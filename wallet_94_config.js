@@ -1,1 +1,1 @@
-var mnemonic = "elegant test one merge wrestle tip barely girl surface source badge praise";
+var mnemonic = "error gift learn gloom bottom verb age purity polar action birth invite";

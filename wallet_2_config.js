@@ -1,1 +1,1 @@
-var mnemonic = "ridge home crowd minor casual traffic speed tilt famous hospital rabbit path";
+var mnemonic = "pattern gate supply doctor raccoon occur leaf control loyal nephew carbon oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive inherit run napkin toast earn wise seminar version suffer hard gasp";
+var mnemonic = "symbol maximum service camp upset clever normal carbon truth pave laugh identify";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude finish refuse mansion tilt demand just struggle dish skill dad judge";
+var mnemonic = "moment tone brave width kiwi poverty water admit comfort riot quality rural";

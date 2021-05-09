@@ -1,1 +1,1 @@
-var mnemonic = "business welcome axis hair stuff athlete patrol solid crawl local oyster height";
+var mnemonic = "print profit erase brave duck giggle hospital expect sell cable economy wolf";

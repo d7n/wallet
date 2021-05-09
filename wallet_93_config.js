@@ -1,1 +1,1 @@
-var mnemonic = "chimney wash ridge deal lobster hybrid sword fine domain figure insane coral";
+var mnemonic = "reduce fossil shoulder citizen flower shock celery amazing deal risk secret myself";

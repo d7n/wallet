@@ -1,1 +1,1 @@
-var mnemonic = "off dice garden loop rice month garage express bachelor puppy garden check";
+var mnemonic = "opinion ring snack melody ski limb find host smile clutch oven peace";

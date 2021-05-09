@@ -1,1 +1,1 @@
-var mnemonic = "damage produce gasp alone rich west later harvest candy maid convince crane";
+var mnemonic = "saddle jungle carry depart mind penalty mass rail element indoor boy soon";

@@ -1,1 +1,1 @@
-var mnemonic = "general disorder label jacket any bulk dune pattern inch jewel finger night";
+var mnemonic = "subject any proud churn motion crater frame supply sell spend inch burger";

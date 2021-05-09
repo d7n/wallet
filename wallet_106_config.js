@@ -1,1 +1,1 @@
-var mnemonic = "online image spread soul rival globe strong method session frost retreat early";
+var mnemonic = "design auto beach bright shine wage green best symbol honey bean rely";

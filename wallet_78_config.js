@@ -1,1 +1,1 @@
-var mnemonic = "vocal fade absorb envelope desert blood misery snack suspect direct glory suggest";
+var mnemonic = "member dash patrol can initial club scene muffin rib try rescue unusual";

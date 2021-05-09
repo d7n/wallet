@@ -1,1 +1,1 @@
-var mnemonic = "mountain awake else bless exclude nuclear grunt twin gaze shove hundred arrow";
+var mnemonic = "report unveil ice achieve squeeze mango walk hammer melody rate cruise total";

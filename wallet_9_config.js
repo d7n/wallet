@@ -1,1 +1,1 @@
-var mnemonic = "miracle opera thrive wonder cash job jazz old sing palace man fringe";
+var mnemonic = "category frost blossom quality quarter village inhale name run summer muscle relax";

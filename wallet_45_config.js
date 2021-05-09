@@ -1,1 +1,1 @@
-var mnemonic = "color trouble fuel random deny kiss imitate intact satoshi such check security";
+var mnemonic = "tiny save panel bright panic gorilla garage label large umbrella render title";

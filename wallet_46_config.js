@@ -1,1 +1,1 @@
-var mnemonic = "timber badge path stock black lend fall fog dentist journey margin sword";
+var mnemonic = "history unable pretty slide enact ten anchor october method remove snap bread";

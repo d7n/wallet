@@ -1,1 +1,1 @@
-var mnemonic = "impulse speed merry lounge name focus spell explain wrestle brain breeze bird";
+var mnemonic = "beauty rocket rabbit swear nice present deal kingdom hood night tape father";

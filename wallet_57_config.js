@@ -1,1 +1,1 @@
-var mnemonic = "hybrid survey million erupt world special owner pigeon announce heart twelve culture";
+var mnemonic = "forget dance web property pair improve angry strong holiday sniff gather place";

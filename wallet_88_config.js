@@ -1,1 +1,1 @@
-var mnemonic = "resist hockey give cousin salon room girl tortoise garment penalty odor idea";
+var mnemonic = "zebra either chunk lens piece leader noodle own enter burden three embrace";

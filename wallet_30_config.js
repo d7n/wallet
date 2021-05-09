@@ -1,1 +1,1 @@
-var mnemonic = "balcony inflict scatter bicycle carry noise right ocean select hundred sell truth";
+var mnemonic = "device disagree dwarf human mistake above type neither inform quiz great shy";

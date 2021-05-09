@@ -1,1 +1,1 @@
-var mnemonic = "pool awake reduce eight tide uphold drip great concert silver youth calm";
+var mnemonic = "soup enough worth rescue frequent trophy garden lottery split appear dirt alert";

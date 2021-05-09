@@ -1,1 +1,1 @@
-var mnemonic = "sauce find rough fantasy code gun notable ethics sell special example day";
+var mnemonic = "thrive funny flip magic drift worth gesture price amount spike frozen price";

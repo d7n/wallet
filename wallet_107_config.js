@@ -1,1 +1,1 @@
-var mnemonic = "remain merit sad mango aspect praise staff quote pizza panic battle mansion";
+var mnemonic = "anxiety era cabin shadow plastic basket grace puppy fold arm oval road";

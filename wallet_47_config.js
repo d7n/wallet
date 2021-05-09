@@ -1,1 +1,1 @@
-var mnemonic = "mango impact alter taste nut walnut creek fork frequent year warm rifle";
+var mnemonic = "can control chapter knee venture reject left razor battle excess desert near";

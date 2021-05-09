@@ -1,1 +1,1 @@
-var mnemonic = "penalty mule law chapter grant bronze system van range tell educate group";
+var mnemonic = "science what boat lawsuit banner stage turkey flush shield radio pull silly";

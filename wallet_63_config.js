@@ -1,1 +1,1 @@
-var mnemonic = "parrot tray sick there vital fold express clean situate someone predict crop";
+var mnemonic = "reduce bubble fish hawk injury patch orchard oblige sibling gauge edge capable";
