@@ -1,1 +1,1 @@
-var mnemonic = "country reopen own coral secret head area world fitness shy visa ski";
+var mnemonic = "cluster warrior senior mesh tuition rather nut mango result soda sentence dog";

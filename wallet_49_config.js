@@ -1,1 +1,1 @@
-var mnemonic = "illegal math hollow cool define garbage river please hat bomb title day";
+var mnemonic = "excuse enact radio promote shove people blur piano vote like cousin cement";

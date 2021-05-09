@@ -1,1 +1,1 @@
-var mnemonic = "road symptom soon hunt they mixed kit cactus exist vocal crash vapor";
+var mnemonic = "valid word have spoon yard mass hole entire item autumn stable then";

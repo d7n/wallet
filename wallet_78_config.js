@@ -1,1 +1,1 @@
-var mnemonic = "mesh minor thumb hint color gas remember reform balcony anger rally employ";
+var mnemonic = "axis trade alter cool holiday round congress nuclear diet you frog fan";

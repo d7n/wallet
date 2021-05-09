@@ -1,1 +1,1 @@
-var mnemonic = "fashion acoustic expand arena bonus priority inflict narrow ask glance axis offer";
+var mnemonic = "term hybrid rocket own method material maid month pave perfect goddess uncover";

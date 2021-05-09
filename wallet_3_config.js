@@ -1,1 +1,1 @@
-var mnemonic = "animal school film puppy spike maple floor cool fruit have false pet";
+var mnemonic = "ugly chat spray recall improve kick miss gorilla height stove lawn raise";

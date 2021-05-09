@@ -1,1 +1,1 @@
-var mnemonic = "include fiction appear slice castle casino since coast ready follow legal address";
+var mnemonic = "famous keen inflict clerk analyst option cover lumber sign what catch deposit";

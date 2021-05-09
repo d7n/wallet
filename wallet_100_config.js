@@ -1,1 +1,1 @@
-var mnemonic = "license when alcohol video pottery mixed slab arrive deputy nice labor neck";
+var mnemonic = "they letter focus much clown already arrow mansion property ahead boy green";

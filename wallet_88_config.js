@@ -1,1 +1,1 @@
-var mnemonic = "devote inhale nature kid problem recycle abandon boring swallow security mercy walnut";
+var mnemonic = "spell wood way nuclear observe library unique ugly enable include feed illness";

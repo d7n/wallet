@@ -1,1 +1,1 @@
-var mnemonic = "layer helmet error sunset air sauce awesome judge board night tenant desk";
+var mnemonic = "awake link pilot muscle phone stone they resemble play elite ball canoe";

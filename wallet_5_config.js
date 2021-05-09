@@ -1,1 +1,1 @@
-var mnemonic = "symptom beauty switch divorce judge venture gather armed exit lyrics derive visit";
+var mnemonic = "tackle sleep quiz learn food exact method apple canal pledge chest spice";

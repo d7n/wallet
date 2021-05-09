@@ -1,1 +1,1 @@
-var mnemonic = "session injury immune fan approve parent tell satoshi ball found ritual entire";
+var mnemonic = "hidden neither biology divorce curve upon upon dutch zoo hidden fragile pave";

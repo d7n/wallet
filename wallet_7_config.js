@@ -1,1 +1,1 @@
-var mnemonic = "require found excuse wave human tower sure junior buddy close penalty shell";
+var mnemonic = "bundle neck march abandon decrease coast jump urge pigeon offer orbit cool";

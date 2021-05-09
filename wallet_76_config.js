@@ -1,1 +1,1 @@
-var mnemonic = "true legal quit violin smoke oblige vapor bind rain matter bright auto";
+var mnemonic = "eye twenty sister chair humor wheat into used letter loan unfold hero";

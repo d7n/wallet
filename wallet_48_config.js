@@ -1,1 +1,1 @@
-var mnemonic = "job annual burger unfold outside pact right ketchup middle when brush time";
+var mnemonic = "large tide awkward coin helmet process unknown orbit raven sentence crawl tomato";

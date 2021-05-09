@@ -1,1 +1,1 @@
-var mnemonic = "inflict note achieve timber live detect age common nice crouch wagon machine";
+var mnemonic = "lobster suit recall unknown boil dance giggle deny nice cradle spot vendor";

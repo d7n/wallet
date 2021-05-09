@@ -1,1 +1,1 @@
-var mnemonic = "expire aisle forest camp furnace busy army opinion cannon gap shrimp edit";
+var mnemonic = "brush blur roof now exhaust pumpkin tissue cry cup zone will taste";

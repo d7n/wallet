@@ -1,1 +1,1 @@
-var mnemonic = "despair bulb toddler mind over hotel squirrel increase winner empty peanut include";
+var mnemonic = "sorry child machine bunker spirit blame garment honey program cross save bike";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi erode buyer crew coin pattern owner opera model kick chunk sauce";
+var mnemonic = "eager calm gap tip before swallow crucial verb margin afraid sketch conduct";

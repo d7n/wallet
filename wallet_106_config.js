@@ -1,1 +1,1 @@
-var mnemonic = "human cool program kidney peace virus become inmate post identify code future";
+var mnemonic = "armor top maze purity thing detail reason kick forest copy stumble history";

@@ -1,1 +1,1 @@
-var mnemonic = "square coffee cactus pizza milk connect rate one planet decorate chief whisper";
+var mnemonic = "cheese tuition edge cycle spin inner rent chimney latin damp first little";

@@ -1,1 +1,1 @@
-var mnemonic = "spider stove volume ancient ramp donor mystery similar mouse guitar ginger disagree";
+var mnemonic = "spoon share current crop then warrior fat loan track hobby live knock";

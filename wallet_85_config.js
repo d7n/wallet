@@ -1,1 +1,1 @@
-var mnemonic = "alarm bird million evidence polar message success hard pole train torch vicious";
+var mnemonic = "dog outdoor market veteran saddle love develop element day increase ignore seven";

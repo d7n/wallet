@@ -1,1 +1,1 @@
-var mnemonic = "fragile practice excite beauty enter exist awful share expect depart swap veteran";
+var mnemonic = "forward zone borrow rubber very strike fit home system today sunny giggle";

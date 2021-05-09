@@ -1,1 +1,1 @@
-var mnemonic = "stool assume hill polar sponsor habit pink spoil space action prize empty";
+var mnemonic = "ill cinnamon clutch employ foam wide report broom hub avocado myth flower";

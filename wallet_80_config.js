@@ -1,1 +1,1 @@
-var mnemonic = "stock cheese tonight essay company treat ridge bridge usual wheat pepper usage";
+var mnemonic = "degree whale behave brass various keep basic van power check next foam";

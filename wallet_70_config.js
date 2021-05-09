@@ -1,1 +1,1 @@
-var mnemonic = "express truth humor empower sport blast enforce skirt bronze dilemma bronze prize";
+var mnemonic = "true lunch cloud undo palace favorite mutual clog salon airport parent floor";

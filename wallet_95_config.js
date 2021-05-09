@@ -1,1 +1,1 @@
-var mnemonic = "fox shadow space frame keep mention vast lunch claw tank submit charge";
+var mnemonic = "square patrol option entire neutral sense inside divide garlic split slight merit";

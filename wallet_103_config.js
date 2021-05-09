@@ -1,1 +1,1 @@
-var mnemonic = "garment faculty hobby august alley cancel arena ensure uncover fatigue vanish holiday";
+var mnemonic = "ritual same section express pause wolf truck milk trophy evoke under solve";

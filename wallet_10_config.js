@@ -1,1 +1,1 @@
-var mnemonic = "glow nature egg tissue blanket marriage radio deliver category state toy category";
+var mnemonic = "chest dance saddle timber bridge people laugh zero dish gauge elder pen";

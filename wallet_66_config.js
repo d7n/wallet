@@ -1,1 +1,1 @@
-var mnemonic = "emerge range century coffee dune draft young leisure color hedgehog wheel muffin";
+var mnemonic = "spatial season regular accuse lounge behind hamster render trial van liquid core";

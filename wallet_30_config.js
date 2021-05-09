@@ -1,1 +1,1 @@
-var mnemonic = "symbol flame error express laundry palace flag science sun lazy head accuse";
+var mnemonic = "recall art spike gasp setup step merry carry present observe foster explain";

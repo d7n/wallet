@@ -1,1 +1,1 @@
-var mnemonic = "youth again invest bundle omit chaos panda pass portion office side make";
+var mnemonic = "wall strategy seat alert defense ski gauge beauty trust wire own slush";

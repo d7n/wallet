@@ -1,1 +1,1 @@
-var mnemonic = "poet avocado priority sentence hazard water festival firm bone gossip copper mail";
+var mnemonic = "stone magnet sibling list enact bike excuse minute offer supreme army season";

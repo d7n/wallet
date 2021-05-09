@@ -1,1 +1,1 @@
-var mnemonic = "idle chapter virus stage boy embrace fruit page earth someone february vicious";
+var mnemonic = "circle illness boy birth entry flee special veteran skin own glue dial";

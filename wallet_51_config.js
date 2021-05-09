@@ -1,1 +1,1 @@
-var mnemonic = "innocent balance buffalo slot own junior tired angry leg style tortoise bubble";
+var mnemonic = "poet quality breeze poem athlete potato swim endorse fork economy flavor stairs";

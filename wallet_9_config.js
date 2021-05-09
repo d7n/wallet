@@ -1,1 +1,1 @@
-var mnemonic = "soon whip media congress avocado quantum pistol hover secret chimney arctic body";
+var mnemonic = "almost ensure smooth advice oxygen invite mushroom globe erosion defy soda sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "loan damp sauce wonder fossil elephant good month blossom hire favorite long";
+var mnemonic = "glue mesh sheriff whisper vote super mystery cattle network stool merge warrior";

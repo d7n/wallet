@@ -1,1 +1,1 @@
-var mnemonic = "inmate upon egg walnut era violin scrap manage finger balcony pipe faint";
+var mnemonic = "reveal dose hazard floor spring sweet curve help sting chapter enlist pair";

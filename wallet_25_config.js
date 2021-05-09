@@ -1,1 +1,1 @@
-var mnemonic = "nice junk zoo card can patch carbon desert broccoli skin output tribe";
+var mnemonic = "scare cost glow melt behind energy bomb crazy magnet anchor utility garden";

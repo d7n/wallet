@@ -1,1 +1,1 @@
-var mnemonic = "snack express inner sudden satisfy wink blanket lunar garbage object curve cry";
+var mnemonic = "upgrade broccoli leopard catch chapter liquid sister glad equip energy matter loud";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist true hole elder civil cube labor remember noise such text about";
+var mnemonic = "tuna home simple similar garlic night bamboo scout buffalo brave better correct";

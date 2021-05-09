@@ -1,1 +1,1 @@
-var mnemonic = "shell toast lady myth foster renew sound catch mountain lemon arch promote";
+var mnemonic = "cotton admit monkey cupboard apple daughter motor fossil salt humble smoke test";

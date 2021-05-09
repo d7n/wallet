@@ -1,1 +1,1 @@
-var mnemonic = "accuse drink negative two calm force inject impulse grid penalty quick episode";
+var mnemonic = "chapter copy subject sure industry essence alarm electric number melody fiction faint";

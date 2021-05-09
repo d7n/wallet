@@ -1,1 +1,1 @@
-var mnemonic = "laugh stem frost reunion just fruit couch drastic ghost dove art spider";
+var mnemonic = "egg satisfy amount chase enact raccoon remove all unfair barely ride toe";

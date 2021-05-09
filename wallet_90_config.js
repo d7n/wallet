@@ -1,1 +1,1 @@
-var mnemonic = "mass disagree blanket future badge upon valid gentle sea century gentle puzzle";
+var mnemonic = "oval add blossom cluster top faculty carry clap fringe glare logic vacant";

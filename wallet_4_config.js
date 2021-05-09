@@ -1,1 +1,1 @@
-var mnemonic = "forget layer emerge keep evil clerk orchard acoustic anxiety beyond pink twist";
+var mnemonic = "please license keep parade pond provide payment era transfer scissors deny left";

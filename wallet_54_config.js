@@ -1,1 +1,1 @@
-var mnemonic = "inform donkey demand error two repair spirit hunt pact utility vendor sauce";
+var mnemonic = "nominee object gas oyster rent race rubber forget humor sunny grief tragic";

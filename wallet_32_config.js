@@ -1,1 +1,1 @@
-var mnemonic = "energy equal idle mammal access proof fat this bulb put canvas evolve";
+var mnemonic = "price razor foot stock joke alley scan pond tongue dial spice wise";

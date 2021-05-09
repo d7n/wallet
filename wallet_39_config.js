@@ -1,1 +1,1 @@
-var mnemonic = "dish proud genius give ivory hurdle oak avoid square still runway neglect";
+var mnemonic = "volcano owner wait error satisfy slim father area voyage struggle setup churn";

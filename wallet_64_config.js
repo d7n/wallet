@@ -1,1 +1,1 @@
-var mnemonic = "lion pact into bundle novel remove tattoo output zone hockey canoe faith";
+var mnemonic = "mimic naive advice dirt stock marriage entire scare toward regret reason real";

@@ -1,1 +1,1 @@
-var mnemonic = "myself taste snack move battle club garment guard hammer flush awake claim";
+var mnemonic = "treat zero snap common stable brass bridge year helmet suffer either mountain";

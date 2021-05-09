@@ -1,1 +1,1 @@
-var mnemonic = "ball toast exercise cupboard method wheel doctor draft decorate paddle property bubble";
+var mnemonic = "wave glimpse amount ribbon primary drift sting remain scene wave swamp emotion";

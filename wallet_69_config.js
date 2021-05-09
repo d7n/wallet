@@ -1,1 +1,1 @@
-var mnemonic = "balance slogan physical order web odor outdoor plastic vast glare kitchen engine";
+var mnemonic = "enjoy course traffic fold lion gun exclude liar staff total moment all";

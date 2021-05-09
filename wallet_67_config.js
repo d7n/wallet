@@ -1,1 +1,1 @@
-var mnemonic = "cement tone crater lift country august museum harvest bundle mechanic train hundred";
+var mnemonic = "noble mirror frequent nerve divorce police carry fiber hurt web sing cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "nice alarm series grocery clip write album special slim scorpion defense track";
+var mnemonic = "same empower unhappy auction wait quick blanket member hen path wheel stone";

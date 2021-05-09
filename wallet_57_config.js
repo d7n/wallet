@@ -1,1 +1,1 @@
-var mnemonic = "envelope organ include loud clock pole tell material air tiger frog purse";
+var mnemonic = "athlete rail property excite unfair doctor border hint image scout blame ivory";

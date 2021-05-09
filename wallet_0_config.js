@@ -1,1 +1,1 @@
-var mnemonic = "picture cancel divert puppy kit degree decorate addict fringe enable display magic";
+var mnemonic = "ketchup rigid depend begin range pistol execute evidence title chair arrest profit";

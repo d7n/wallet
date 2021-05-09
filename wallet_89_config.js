@@ -1,1 +1,1 @@
-var mnemonic = "upset asthma deer census carbon mimic popular sheriff small two modify rocket";
+var mnemonic = "ankle long hockey unable sock achieve cash hover tuition board lock pottery";

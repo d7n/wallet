@@ -1,1 +1,1 @@
-var mnemonic = "endorse stone enable mention style stem execute uphold dance energy play train";
+var mnemonic = "turkey bundle reform play puppy stay build wheat slice trend crazy fly";

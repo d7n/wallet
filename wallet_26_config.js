@@ -1,1 +1,1 @@
-var mnemonic = "aspect salon card chunk senior short ride season flame section lazy flight";
+var mnemonic = "innocent fossil isolate chest spare sword rebel people later cigar sell control";

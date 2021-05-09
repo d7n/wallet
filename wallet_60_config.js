@@ -1,1 +1,1 @@
-var mnemonic = "connect silver valid drum render hunt hello tray glad disease near object";
+var mnemonic = "unaware annual holiday memory occur dice shove minor coyote wife much milk";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado august keep tobacco misery leopard rotate document hidden report oval episode";
+var mnemonic = "unfold column system gorilla chat seat indicate airport rate crane actual top";

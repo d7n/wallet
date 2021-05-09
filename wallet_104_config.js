@@ -1,1 +1,1 @@
-var mnemonic = "earn patient later model dirt catalog desk orange boat purity hidden race";
+var mnemonic = "grace smoke wrong female wasp arena video lounge sausage merge name front";

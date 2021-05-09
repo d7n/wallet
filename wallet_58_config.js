@@ -1,1 +1,1 @@
-var mnemonic = "office decorate useless peace safe chaos glove walnut afford mention company sphere";
+var mnemonic = "area caught perfect member young damage tiger right same movie strong peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "scene phrase skate plastic salad acid fix quote simple chicken thing spoon";
+var mnemonic = "supply atom mirror rookie link abuse basic usual holiday rapid viable stumble";

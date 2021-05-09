@@ -1,1 +1,1 @@
-var mnemonic = "shield oil harvest unlock ring right vicious tide raw flame express detect";
+var mnemonic = "wear live flame pill around animal fatigue seek dove paper spin antique";

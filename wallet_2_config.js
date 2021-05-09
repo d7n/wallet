@@ -1,1 +1,1 @@
-var mnemonic = "sadness salute twice size correct barely rain danger approve finish phone debris";
+var mnemonic = "hybrid post tool human finish garlic believe acoustic adapt swarm favorite birth";

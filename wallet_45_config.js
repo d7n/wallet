@@ -1,1 +1,1 @@
-var mnemonic = "govern shop december rocket bachelor project increase blast slow twist stock ball";
+var mnemonic = "note student space impulse either sketch fluid card scan stuff profit obey";

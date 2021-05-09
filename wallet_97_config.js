@@ -1,1 +1,1 @@
-var mnemonic = "clay cable deal float fly crawl boost muscle page master chaos stuff";
+var mnemonic = "subway gallery viable suspect prepare cricket girl oil leg calm choose final";

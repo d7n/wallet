@@ -1,1 +1,1 @@
-var mnemonic = "lift earth finish vibrant airport web soap perfect exchange rib dove typical";
+var mnemonic = "bike teach menu drive object essence reward assault purchase hazard portion embody";

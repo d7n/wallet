@@ -1,1 +1,1 @@
-var mnemonic = "swift sugar orbit clay sorry vessel skirt cloud primary taxi furnace ramp";
+var mnemonic = "pumpkin involve episode judge gain protect tree plate purchase smart round tomorrow";

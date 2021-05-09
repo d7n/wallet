@@ -1,1 +1,1 @@
-var mnemonic = "shed task twelve mad sting carry smile piano runway civil bacon knee";
+var mnemonic = "rice inform deliver spray globe state toe pig glide hotel ribbon lion";

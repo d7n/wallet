@@ -1,1 +1,1 @@
-var mnemonic = "dream dress swap obey copper sail emotion vote hundred bicycle work indicate";
+var mnemonic = "debris punch grape acid category family argue buyer loud early wire scheme";

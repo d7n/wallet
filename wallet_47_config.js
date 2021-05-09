@@ -1,1 +1,1 @@
-var mnemonic = "hire loud vague mesh glue sphere egg like above skull copy arrive";
+var mnemonic = "give screen only silk wheel repeat ball grief expand antique uniform question";

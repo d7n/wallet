@@ -1,1 +1,1 @@
-var mnemonic = "hint unusual tobacco issue print luggage advice act illness phone island vault";
+var mnemonic = "leg dune switch over avocado eager yard zone atom say zone rescue";

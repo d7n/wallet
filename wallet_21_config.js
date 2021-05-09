@@ -1,1 +1,1 @@
-var mnemonic = "what mention lens young napkin survey crumble great elegant switch stereo come";
+var mnemonic = "arrive velvet festival initial rough invite proof proof trap debris humor knock";

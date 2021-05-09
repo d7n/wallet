@@ -1,1 +1,1 @@
-var mnemonic = "tobacco spot enjoy evolve eager excite bench focus pitch wash slot best";
+var mnemonic = "bitter awake pole element cause cram obtain panel proof summer document wolf";

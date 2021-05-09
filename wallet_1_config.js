@@ -1,1 +1,1 @@
-var mnemonic = "bread margin glass cube draft veteran sword omit loud travel security ranch";
+var mnemonic = "place jeans card age humor top dizzy heavy gap eager awful antique";

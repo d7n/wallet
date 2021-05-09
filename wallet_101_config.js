@@ -1,1 +1,1 @@
-var mnemonic = "faith captain trial develop connect remain draft quantum soldier asthma tortoise version";
+var mnemonic = "old impact exotic thumb flame then bus planet color dream fly various";

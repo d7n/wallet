@@ -1,1 +1,1 @@
-var mnemonic = "sunny cabin magic where naive rhythm awkward sketch minute gown iron guide";
+var mnemonic = "fan destroy uncover soft broccoli satisfy aspect goose need enable machine achieve";

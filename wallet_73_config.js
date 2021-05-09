@@ -1,1 +1,1 @@
-var mnemonic = "appear winner pizza sugar lake core silk autumn area dial market damage";
+var mnemonic = "maid vapor hockey pumpkin help embody slow song tip grunt cannon absorb";

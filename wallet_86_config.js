@@ -1,1 +1,1 @@
-var mnemonic = "announce purchase crumble leopard middle language youth owner crowd neck chapter slight";
+var mnemonic = "adapt friend phrase eight soup sorry cup jaguar tip screen dream smooth";

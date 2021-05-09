@@ -1,1 +1,1 @@
-var mnemonic = "lucky hen frost scorpion meat announce melt mail pilot inject cabin unhappy";
+var mnemonic = "mention urge spell magnet gun talk hockey matrix word bleak public way";

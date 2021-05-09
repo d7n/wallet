@@ -1,1 +1,1 @@
-var mnemonic = "celery hungry slot hire robust crane slogan afford side into meadow approve";
+var mnemonic = "crazy reason inquiry romance wrong donkey crucial quote sell combine hub firm";

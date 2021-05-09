@@ -1,1 +1,1 @@
-var mnemonic = "start giraffe leaf sponsor peanut hospital moral aisle phone heart shock apology";
+var mnemonic = "science accuse stomach screen tired fire two catalog dog skirt meat picnic";

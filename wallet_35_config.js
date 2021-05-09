@@ -1,1 +1,1 @@
-var mnemonic = "path ancient coconut tunnel glide party key frog friend metal boss road";
+var mnemonic = "rice olympic any bunker crack club true chat leader image hover hat";

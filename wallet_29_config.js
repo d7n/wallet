@@ -1,1 +1,1 @@
-var mnemonic = "glory person match cereal space common wish ice under guess great cradle";
+var mnemonic = "advance vapor ankle surge motion toe recall friend ecology spider move funny";

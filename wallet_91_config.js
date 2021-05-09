@@ -1,1 +1,1 @@
-var mnemonic = "liquid donkey grab million hockey lens ostrich skin proof common fine wear";
+var mnemonic = "steak wheat pen midnight orbit shoot sell above voyage mushroom weekend hood";

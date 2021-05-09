@@ -1,1 +1,1 @@
-var mnemonic = "frequent answer there recall gold amazing vapor bike response produce vast cancel";
+var mnemonic = "engine stay staff cloud disorder swear couple combine swear wrestle soldier wrestle";
