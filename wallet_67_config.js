@@ -1,1 +1,1 @@
-var mnemonic = "throw wedding myth reopen patient rail regular brief picnic legal alien wall";
+var mnemonic = "awkward impose nominee inmate silk three patch quarter check city unfold busy";

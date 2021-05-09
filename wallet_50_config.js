@@ -1,1 +1,1 @@
-var mnemonic = "bulb cupboard lecture secret brisk theme horn trash ice fiscal symptom lab";
+var mnemonic = "inflict attack nothing spike guilt attend monitor suspect sure wealth series notable";

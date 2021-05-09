@@ -1,1 +1,1 @@
-var mnemonic = "banana wasp skill clinic wear hat spot stem veteran vanish salmon change";
+var mnemonic = "media hockey noodle desert hero charge special blame shift special resist hill";

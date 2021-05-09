@@ -1,1 +1,1 @@
-var mnemonic = "reward sort wheat spread suit plastic barrel afraid angle fragile guide matrix";
+var mnemonic = "motor stock blossom jaguar risk base develop soldier buffalo weird royal skirt";

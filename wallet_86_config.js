@@ -1,1 +1,1 @@
-var mnemonic = "swear check scrap section half hand coral comfort kitchen shell kit napkin";
+var mnemonic = "leave ozone trial twelve tail super animal piano recall maze initial hollow";

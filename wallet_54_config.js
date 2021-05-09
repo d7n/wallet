@@ -1,1 +1,1 @@
-var mnemonic = "party brother dash announce happy vapor jeans manual scare total buddy wear";
+var mnemonic = "regular easy olive hunt nature swallow develop path tray protect ceiling impose";

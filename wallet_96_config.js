@@ -1,1 +1,1 @@
-var mnemonic = "couch work bottom pizza burst dutch thought spirit sing coffee twist capable";
+var mnemonic = "maze luggage twin satisfy often this erupt spray process lobster park weird";

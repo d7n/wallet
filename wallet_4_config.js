@@ -1,1 +1,1 @@
-var mnemonic = "stumble initial country ozone inhale advice lecture alley pupil devote butter fever";
+var mnemonic = "pass enter odor shoe approve interest drum fence grocery leisure pelican play";

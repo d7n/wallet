@@ -1,1 +1,1 @@
-var mnemonic = "nephew service sting below chief fix radio gold material course train oak";
+var mnemonic = "sight pistol swamp crane barrel cliff dynamic film crack obey error soccer";

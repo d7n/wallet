@@ -1,1 +1,1 @@
-var mnemonic = "junk orchard vapor tiny egg bamboo lesson merge palace lemon setup winter";
+var mnemonic = "throw olive kite reform orbit also science bid spike awesome wedding virus";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp enemy hospital inside february walk dose multiply birth shed control tide";
+var mnemonic = "execute term zone gospel large guess inquiry pass music onion punch parrot";

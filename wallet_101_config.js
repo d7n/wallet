@@ -1,1 +1,1 @@
-var mnemonic = "actor inquiry usage absorb museum dance tag soul length share stand sentence";
+var mnemonic = "film medal business unique chalk bind rebel copper city project force weather";

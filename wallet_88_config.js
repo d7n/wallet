@@ -1,1 +1,1 @@
-var mnemonic = "teach build rhythm conduct domain cabin thing track obey suspect flavor anchor";
+var mnemonic = "turkey crazy visa hole elegant roof drastic gentle enter seek rich rather";

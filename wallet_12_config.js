@@ -1,1 +1,1 @@
-var mnemonic = "echo boil wear vapor romance curious family swarm piece basket utility champion";
+var mnemonic = "goose success smile early approve frog shoe diesel dynamic culture direct divert";

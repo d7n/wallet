@@ -1,1 +1,1 @@
-var mnemonic = "tank twin organ gentle enroll aisle unfold polar mixture neglect elephant meadow";
+var mnemonic = "desk exchange few owner peace settle museum fabric brother pet wise fork";

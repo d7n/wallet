@@ -1,1 +1,1 @@
-var mnemonic = "present settle bargain rifle cage toddler citizen urge unaware pumpkin squirrel recipe";
+var mnemonic = "cupboard dial elevator life visit witness merit mean purpose father option injury";

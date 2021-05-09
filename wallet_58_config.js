@@ -1,1 +1,1 @@
-var mnemonic = "quiz bicycle index board bargain dog nothing inhale ritual bicycle false need";
+var mnemonic = "dumb omit crush soft scrub family staff auto artist penalty dwarf chapter";

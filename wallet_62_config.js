@@ -1,1 +1,1 @@
-var mnemonic = "refuse hard race fantasy document bar useful trap soldier item observe tomorrow";
+var mnemonic = "voice health syrup banner legend hollow narrow climb finish vehicle thank outer";

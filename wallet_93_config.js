@@ -1,1 +1,1 @@
-var mnemonic = "occur beauty kangaroo vanish eager monitor mystery north toddler avocado net plate";
+var mnemonic = "salad movie discover general direct fruit tobacco muffin three nephew pizza purity";

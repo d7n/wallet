@@ -1,1 +1,1 @@
-var mnemonic = "inject case atom snap trend split mask barrel angry pave night come";
+var mnemonic = "dove lunch already insane dawn struggle cycle soul acoustic manage country lobster";

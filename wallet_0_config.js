@@ -1,1 +1,1 @@
-var mnemonic = "pact discover gift rival phone miss culture damage bone analyst tiger clutch";
+var mnemonic = "sting inside artist saddle local syrup pledge scrub worth tower conduct olympic";

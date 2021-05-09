@@ -1,1 +1,1 @@
-var mnemonic = "awake average burden wrestle symbol soda regular title deny online stadium grit";
+var mnemonic = "velvet mystery tray script envelope bamboo ridge tilt game lunar hobby push";

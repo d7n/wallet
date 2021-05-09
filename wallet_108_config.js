@@ -1,1 +1,1 @@
-var mnemonic = "deal shock degree emotion method diamond reopen key sleep wool cheese spy";
+var mnemonic = "response kind soup border symbol lawsuit dry style elephant middle inside simple";

@@ -1,1 +1,1 @@
-var mnemonic = "disease argue vanish glass cross target leisure laugh meadow cruel horror hungry";
+var mnemonic = "devote produce dose crawl october stay match citizen banana skate shiver tank";

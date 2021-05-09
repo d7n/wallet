@@ -1,1 +1,1 @@
-var mnemonic = "luggage slam ceiling raccoon cruise mouse more apology maximum zebra almost major";
+var mnemonic = "satoshi crucial strike gesture exit sudden second ill cabbage cook gym hungry";

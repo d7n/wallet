@@ -1,1 +1,1 @@
-var mnemonic = "angle prosper van object super amazing barrel fun proof clown stick quick";
+var mnemonic = "habit wire ability bread profit own island hint better describe shed ostrich";

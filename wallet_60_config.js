@@ -1,1 +1,1 @@
-var mnemonic = "column banana hello faculty surround reopen never tail patch security siren produce";
+var mnemonic = "come urban enhance bread certain priority reward walnut train antenna morning toilet";

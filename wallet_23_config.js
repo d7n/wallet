@@ -1,1 +1,1 @@
-var mnemonic = "empower flower arena little slogan come device tonight vague foster idea follow";
+var mnemonic = "summer useless room trick tool crop slush unveil meat month soul random";

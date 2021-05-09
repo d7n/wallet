@@ -1,1 +1,1 @@
-var mnemonic = "era shadow embark bitter romance seat avocado scare pretty magic mansion frog";
+var mnemonic = "boss moment fall under border tail pepper slice worth drip shed resource";

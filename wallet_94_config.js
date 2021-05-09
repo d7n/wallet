@@ -1,1 +1,1 @@
-var mnemonic = "tattoo image armed army okay innocent action note carbon color rough penalty";
+var mnemonic = "clap goat merry lawsuit size cart shock marine demand hawk eyebrow strong";

@@ -1,1 +1,1 @@
-var mnemonic = "marble fiber maze before breeze rifle wash verify hamster sniff wet example";
+var mnemonic = "current master scissors addict language cargo hire satisfy away coyote layer simple";

@@ -1,1 +1,1 @@
-var mnemonic = "spike tag dice nominee expose exhibit math polar joy manage hedgehog diagram";
+var mnemonic = "remain deny bamboo elite birth boat cream oven jungle glue crucial ghost";

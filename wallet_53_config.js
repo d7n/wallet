@@ -1,1 +1,1 @@
-var mnemonic = "need about mule vacuum trick faint help mistake witness march hotel interest";
+var mnemonic = "come garden world stamp entry zebra flash next color either opera annual";

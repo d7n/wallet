@@ -1,1 +1,1 @@
-var mnemonic = "bachelor south decline december joke alley discover pole will away april rich";
+var mnemonic = "sibling genre eight embark word hawk soccer caught decline truck track grace";

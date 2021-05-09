@@ -1,1 +1,1 @@
-var mnemonic = "biology dance amount illegal trip liar element usage obvious milk draft forum";
+var mnemonic = "penalty imitate slab work notice arch reopen biology wool flash second notable";

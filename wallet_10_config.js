@@ -1,1 +1,1 @@
-var mnemonic = "dial ring acoustic junior nice room engage drip define recall book chronic";
+var mnemonic = "weird hire pony feature gym weasel fabric garden stairs either flee crazy";

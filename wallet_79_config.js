@@ -1,1 +1,1 @@
-var mnemonic = "uncle foam chunk unfold sport science drink across arctic manage fold tent";
+var mnemonic = "force thank bus again door crawl admit day sheriff device peasant shine";

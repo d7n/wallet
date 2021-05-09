@@ -1,1 +1,1 @@
-var mnemonic = "help glance violin eight oven sponsor dress balcony side pull satisfy among";
+var mnemonic = "bacon panda hair can pulse breeze build motor theory manage age crowd";

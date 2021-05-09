@@ -1,1 +1,1 @@
-var mnemonic = "visual boost verb inherit carry tree venture crouch fun call level crew";
+var mnemonic = "robot together tower regret valley glory zero actor boy athlete squirrel tourist";

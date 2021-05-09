@@ -1,1 +1,1 @@
-var mnemonic = "aerobic come hat puppy physical dial enable trick giraffe place swap claim";
+var mnemonic = "alarm issue canal glue vote flock tennis equip explain session cloud aisle";

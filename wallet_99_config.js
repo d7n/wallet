@@ -1,1 +1,1 @@
-var mnemonic = "zoo kingdom olympic matter dose situate also praise easily garlic tag aisle";
+var mnemonic = "jewel art raw jelly basket also ahead bless affair skull shrug buddy";

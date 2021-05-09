@@ -1,1 +1,1 @@
-var mnemonic = "peanut topic oblige retire next asset stock reason lawsuit chicken attack tank";
+var mnemonic = "firm nerve access exhaust liar useful harbor spin trap certain near tuition";

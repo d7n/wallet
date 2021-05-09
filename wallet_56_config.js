@@ -1,1 +1,1 @@
-var mnemonic = "deny release act brass confirm bomb maid corn trash gospel race plunge";
+var mnemonic = "flower giggle payment spend decline trumpet leg electric spoil owner claw drip";

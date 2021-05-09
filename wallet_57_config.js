@@ -1,1 +1,1 @@
-var mnemonic = "sheriff gloom news royal creek glory endless birth ritual come walnut hint";
+var mnemonic = "fabric bag horn spawn grant eight load steel arrest story script curve";

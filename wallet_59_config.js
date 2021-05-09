@@ -1,1 +1,1 @@
-var mnemonic = "palm energy mesh approve radar document raccoon sound evidence wrestle clog mom";
+var mnemonic = "bounce host castle flat abandon blast drama real result emotion dynamic crime";

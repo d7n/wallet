@@ -1,1 +1,1 @@
-var mnemonic = "property destroy decorate service kitten general multiply impose toy chef accident glide";
+var mnemonic = "prepare waste tunnel robust talent runway home test anger type shallow episode";

@@ -1,1 +1,1 @@
-var mnemonic = "slush tilt student priority begin charge coast casual spread health ridge spice";
+var mnemonic = "soul oil country post mango dove pigeon magnet bridge expire silk robust";

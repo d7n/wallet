@@ -1,1 +1,1 @@
-var mnemonic = "donor clap bulb habit find logic buzz harbor voyage brain wise you";
+var mnemonic = "tornado patrol offer leave enact subway animal razor slim exit claw year";

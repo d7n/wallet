@@ -1,1 +1,1 @@
-var mnemonic = "boss retreat curve garment father anchor medal jaguar detect bacon budget critic";
+var mnemonic = "rule valid absorb kind supreme boat infant glad fish tree odor review";

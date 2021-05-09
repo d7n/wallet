@@ -1,1 +1,1 @@
-var mnemonic = "liberty omit subject matrix year tag fold gain tackle melt pepper elephant";
+var mnemonic = "fault venue tomorrow message away jeans job trouble length twist crop way";

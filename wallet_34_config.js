@@ -1,1 +1,1 @@
-var mnemonic = "mass emotion receive viable own utility clip easily traffic rescue trouble exist";
+var mnemonic = "nuclear mandate super wool wave tell problem empty taste follow sort plug";

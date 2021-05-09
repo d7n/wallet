@@ -1,1 +1,1 @@
-var mnemonic = "enforce faint attend police involve frequent kitten chicken ridge correct toy priority";
+var mnemonic = "example save eight network know orphan combine fat syrup bid stamp sponsor";

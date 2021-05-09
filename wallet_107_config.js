@@ -1,1 +1,1 @@
-var mnemonic = "jungle beauty property thought guilt room trade swing scout february rare cousin";
+var mnemonic = "thumb donkey lemon duty tumble vicious decline keen spare dune enact stem";

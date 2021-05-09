@@ -1,1 +1,1 @@
-var mnemonic = "light breeze powder try lab agree vibrant jazz people copy accident sauce";
+var mnemonic = "helmet collect correct nasty surge repeat smile lemon clever shock patch mix";

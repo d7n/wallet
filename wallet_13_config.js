@@ -1,1 +1,1 @@
-var mnemonic = "engage diamond element ginger total federal bridge clump crew hip ramp glimpse";
+var mnemonic = "dust pen winter drip move indicate appear table over hover stone dog";

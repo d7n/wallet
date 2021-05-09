@@ -1,1 +1,1 @@
-var mnemonic = "that proud practice fruit face diet call pool thank tail credit stick";
+var mnemonic = "neutral enhance street feed crystal rib unique notable alarm ethics river hundred";

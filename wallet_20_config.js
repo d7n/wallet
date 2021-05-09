@@ -1,1 +1,1 @@
-var mnemonic = "penalty blame mad damp nature film since mule bullet essence rally hope";
+var mnemonic = "cruise spell wheat turn boat course salon simple loop inquiry exhibit analyst";

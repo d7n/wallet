@@ -1,1 +1,1 @@
-var mnemonic = "judge moral when drill era gesture actor purity viable agent sing ticket";
+var mnemonic = "energy poverty moral rain promote fiction such sure reopen tribe hospital gym";

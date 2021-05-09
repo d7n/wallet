@@ -1,1 +1,1 @@
-var mnemonic = "walk real try high either basket rifle change fence wife satisfy trim";
+var mnemonic = "enact minimum alley attack oak vast way december slab baby identify chair";

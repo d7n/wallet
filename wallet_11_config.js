@@ -1,1 +1,1 @@
-var mnemonic = "toddler afraid adult youth stamp coil hill eternal barrel endorse soon better";
+var mnemonic = "coach measure hire convince army afraid unusual version verify uphold cannon wolf";

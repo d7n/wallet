@@ -1,1 +1,1 @@
-var mnemonic = "know word client humor cash motor maid hidden soap apology confirm wedding";
+var mnemonic = "alpha track entire three tribe cat twin december often stool wedding present";

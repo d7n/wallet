@@ -1,1 +1,1 @@
-var mnemonic = "artist cannon march pistol celery another follow loan amateur loyal force little";
+var mnemonic = "half chase picture arm ugly always help giggle monitor mercy chaos lens";

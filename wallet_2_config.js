@@ -1,1 +1,1 @@
-var mnemonic = "slice grit game nature goose myself version vote split between future wheat";
+var mnemonic = "diagram lobster tongue canoe swim have eight note giraffe inform mad smart";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome voyage alpha front bid pottery address surprise pig exclude horse index";
+var mnemonic = "fantasy history august long noise patient lady east test put age guitar";

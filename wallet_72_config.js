@@ -1,1 +1,1 @@
-var mnemonic = "priority enemy mutual shoe curious wagon baby other parade shove ancient purchase";
+var mnemonic = "valley usage yellow giggle strategy alert coach farm screen betray tobacco stool";

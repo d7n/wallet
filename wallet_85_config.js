@@ -1,1 +1,1 @@
-var mnemonic = "side patient wheat vacant close ten canvas sorry guess leg client hard";
+var mnemonic = "true explain indoor cotton confirm allow injury happy expect icon gossip day";

@@ -1,1 +1,1 @@
-var mnemonic = "document slim farm nation practice knee amazing upgrade jump annual universe develop";
+var mnemonic = "destroy play host shoulder shrimp bring rug blanket pull provide proof club";

@@ -1,1 +1,1 @@
-var mnemonic = "notice push kitten month board shadow media face physical hour kingdom cactus";
+var mnemonic = "digital spy drama symptom armed syrup any race parent poverty question panda";

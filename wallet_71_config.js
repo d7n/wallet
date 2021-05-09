@@ -1,1 +1,1 @@
-var mnemonic = "diet case castle explain insane another gauge heart inflict warm talk what";
+var mnemonic = "drum deer noise diesel tackle rival future pistol slow jungle cupboard usual";

@@ -1,1 +1,1 @@
-var mnemonic = "power choose pottery skull file exchange tank position weather satisfy grocery velvet";
+var mnemonic = "recall loyal core mind mixed industry garbage style wealth bachelor meadow try";

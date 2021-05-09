@@ -1,1 +1,1 @@
-var mnemonic = "oppose account office buddy mouse normal cage open purpose cream photo actor";
+var mnemonic = "puzzle eight matrix green below strike peasant mention present drastic involve black";

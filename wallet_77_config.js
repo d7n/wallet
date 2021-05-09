@@ -1,1 +1,1 @@
-var mnemonic = "depart pledge affair duck topic fever market silver soft disagree festival girl";
+var mnemonic = "ivory crumble funny faculty mask six frog venture sunset account onion visual";

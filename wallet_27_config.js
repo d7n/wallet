@@ -1,1 +1,1 @@
-var mnemonic = "obey chef budget swarm prosper crisp situate come talent repair entry fine";
+var mnemonic = "ice general arrest divert episode mixed opinion pear swift settle plunge rapid";

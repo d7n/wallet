@@ -1,1 +1,1 @@
-var mnemonic = "trick write illness increase found brown sail fish notable congress curious dinosaur";
+var mnemonic = "fabric business twin negative divert stairs pair ten egg hobby sock scorpion";

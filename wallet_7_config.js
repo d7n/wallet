@@ -1,1 +1,1 @@
-var mnemonic = "globe mean zoo wolf kitchen program genius novel cigar bind beach lock";
+var mnemonic = "depart sudden amazing cube love wife globe flip monkey lava lumber balcony";

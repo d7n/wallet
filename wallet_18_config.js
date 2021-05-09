@@ -1,1 +1,1 @@
-var mnemonic = "spike toss glow access glad gain aunt boat box trumpet now poverty";
+var mnemonic = "chief margin crash quick rescue surround left recall grass balance educate runway";

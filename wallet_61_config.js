@@ -1,1 +1,1 @@
-var mnemonic = "base dynamic kite expand symbol hire subject super then fragile olive trumpet";
+var mnemonic = "february reveal exhibit patch space unable code basket emotion grab ring memory";

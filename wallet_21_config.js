@@ -1,1 +1,1 @@
-var mnemonic = "inmate average neglect august rotate trouble alien stage civil husband more axis";
+var mnemonic = "clay gentle strike edge long sure quit access acid that push pride";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter hidden hazard juice coil always ridge calm uncle salute machine wet";
+var mnemonic = "apart obscure chef comfort mom civil toe carry drama cute total bike";

@@ -1,1 +1,1 @@
-var mnemonic = "double glow atom blur matter asset behind entire process east rhythm feature";
+var mnemonic = "merit sphere pulse enter gain forest call cube state clinic canvas basic";

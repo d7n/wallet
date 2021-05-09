@@ -1,1 +1,1 @@
-var mnemonic = "resemble pigeon quick quote chest zero crater wasp tree essence risk soul";
+var mnemonic = "away fiction excuse forward dish renew process kid enforce shed arena purchase";

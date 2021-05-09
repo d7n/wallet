@@ -1,1 +1,1 @@
-var mnemonic = "bubble ritual celery crystal used such capable merit soldier junior frequent away";
+var mnemonic = "panel panel sausage prize total head whale accident vote exchange orient rug";

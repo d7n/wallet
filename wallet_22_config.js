@@ -1,1 +1,1 @@
-var mnemonic = "pyramid lazy glide dial beyond taxi okay tired sense ride consider absorb";
+var mnemonic = "dial mix fitness cube increase second render degree memory below skill broken";

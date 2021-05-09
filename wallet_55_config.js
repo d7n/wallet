@@ -1,1 +1,1 @@
-var mnemonic = "coast panic object symptom hair own round huge firm history retreat swing";
+var mnemonic = "offer same uncover win rigid quick minor gold still vintage tail snake";

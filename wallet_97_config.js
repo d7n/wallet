@@ -1,1 +1,1 @@
-var mnemonic = "expect barrel book castle just great patient slow junk dove remind wrong";
+var mnemonic = "announce crucial oven leisure alpha above explain betray satisfy waste picnic always";

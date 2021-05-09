@@ -1,1 +1,1 @@
-var mnemonic = "trouble march black witness must cram flash accuse unveil carbon embark hurdle";
+var mnemonic = "owner mix resource airport cradle canoe card tower bulk wisdom kidney illness";

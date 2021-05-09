@@ -1,1 +1,1 @@
-var mnemonic = "oven step lift analyst truth receive dawn neutral six like legal large";
+var mnemonic = "rotate wrestle fish ancient vapor custom lady addict estate drip finish ivory";

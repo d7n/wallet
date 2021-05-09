@@ -1,1 +1,1 @@
-var mnemonic = "please decline canoe present fish because dwarf merge fuel cable crash animal";
+var mnemonic = "ancient soccer decide aspect maze switch kitchen truth ranch bounce congress dog";

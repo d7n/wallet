@@ -1,1 +1,1 @@
-var mnemonic = "man fatal morning reward space extend build clown film client bomb photo";
+var mnemonic = "property meadow still obtain fragile entry immense piano garage fresh session affair";

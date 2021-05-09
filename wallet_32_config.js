@@ -1,1 +1,1 @@
-var mnemonic = "civil atom bread cactus capital give company siren room spawn dignity good";
+var mnemonic = "rally wagon warrior bird daughter smoke hold game that shop obvious tumble";

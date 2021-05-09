@@ -1,1 +1,1 @@
-var mnemonic = "cross order frozen explain zero stem velvet couple clock account cannon wild";
+var mnemonic = "shop scrub prefer van guilt depth oven since drama patrol duty suggest";

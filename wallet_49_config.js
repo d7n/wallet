@@ -1,1 +1,1 @@
-var mnemonic = "observe harsh turtle clap zero shaft surround style forum labor goat wheat";
+var mnemonic = "member illness bus uphold icon slim yard woman pair cousin violin actor";
