@@ -1,1 +1,1 @@
-var mnemonic = "armor brother deputy path together beef verb wing lamp flock flight visual";
+var mnemonic = "worry guide payment angry garlic spin luxury grunt wonder barrel away final";

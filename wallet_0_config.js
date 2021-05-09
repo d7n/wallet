@@ -1,1 +1,1 @@
-var mnemonic = "merit slim muscle mule kid soldier error swift tornado chef vivid clay";
+var mnemonic = "test say mule power hazard math satoshi web south lion error tent";

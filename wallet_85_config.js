@@ -1,1 +1,1 @@
-var mnemonic = "elder company alpha panther jelly flash brother unhappy voice wedding fire robust";
+var mnemonic = "lawsuit science subject wash mandate simple cry nation health brave warm dismiss";

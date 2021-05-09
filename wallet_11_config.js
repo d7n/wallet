@@ -1,1 +1,1 @@
-var mnemonic = "flavor lyrics tag grow area crash liar token occur mom symbol monkey";
+var mnemonic = "essence leader idle diary grocery glass velvet denial glide guilt aware wall";

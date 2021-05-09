@@ -1,1 +1,1 @@
-var mnemonic = "grid risk donor tumble service symbol dove primary thumb empower omit mutual";
+var mnemonic = "twelve ask mystery trade please never lucky frame motor roast access holiday";

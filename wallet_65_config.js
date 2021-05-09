@@ -1,1 +1,1 @@
-var mnemonic = "transfer return horn cotton churn potato size winter slender update quote bench";
+var mnemonic = "salad bacon portion keep thank trim spray swamp coach trigger swamp impulse";

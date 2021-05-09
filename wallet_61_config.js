@@ -1,1 +1,1 @@
-var mnemonic = "whip blur sea exile network where original tiger share just width eternal";
+var mnemonic = "hurdle screen urge nominee arena swing empty volume seat atom degree city";

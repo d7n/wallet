@@ -1,1 +1,1 @@
-var mnemonic = "guess short dawn away bread rely angry crowd then priority receive fade";
+var mnemonic = "velvet quarter teach earn define immense scare argue jump record swap decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle error update ten federal brother drip today dress print elbow anxiety";
+var mnemonic = "adjust fruit blast wise potato quantum token welcome search base inject caught";

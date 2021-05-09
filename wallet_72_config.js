@@ -1,1 +1,1 @@
-var mnemonic = "cry need satoshi caution dynamic emerge concert sea narrow win outdoor awkward";
+var mnemonic = "climb two smoke east cute middle meat egg below long diamond cargo";

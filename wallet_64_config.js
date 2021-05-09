@@ -1,1 +1,1 @@
-var mnemonic = "adult duck funny into census present bulb please mechanic matrix material casual";
+var mnemonic = "jaguar sting desert mobile about gym donate essay cry orphan primary toilet";

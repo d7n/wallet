@@ -1,1 +1,1 @@
-var mnemonic = "film very home razor flame diary detail weapon future cricket witness dune";
+var mnemonic = "gown begin online display keen outer rescue wish raise pumpkin nephew swing";

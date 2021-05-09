@@ -1,1 +1,1 @@
-var mnemonic = "rather journey access slight frame design can cute neck saddle various road";
+var mnemonic = "stock track street ethics spare memory example patrol seat chuckle into saddle";

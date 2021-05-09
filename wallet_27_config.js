@@ -1,1 +1,1 @@
-var mnemonic = "laundry people spatial nose bullet popular faculty ridge ladder toward people auction";
+var mnemonic = "time visual recycle diesel unfair practice actor ancient reason height find impact";

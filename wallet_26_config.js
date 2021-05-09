@@ -1,1 +1,1 @@
-var mnemonic = "disagree cupboard cousin emerge dwarf pizza amazing produce patrol danger heavy shoot";
+var mnemonic = "divert dial coral sort dwarf loan frame chest trust enlist dial one";

@@ -1,1 +1,1 @@
-var mnemonic = "awful angle eternal remind border dry pulse forest faith machine mutual six";
+var mnemonic = "collect tobacco hurdle switch another above lens love aim cannon target tired";

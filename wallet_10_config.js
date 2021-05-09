@@ -1,1 +1,1 @@
-var mnemonic = "trouble cause echo black drill differ slide artefact forward more glass never";
+var mnemonic = "faith chuckle side laundry wheat script shift talent recycle push work tuition";

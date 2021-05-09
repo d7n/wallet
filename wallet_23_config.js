@@ -1,1 +1,1 @@
-var mnemonic = "slab team quit exhaust first goat fitness reflect small camera gown broccoli";
+var mnemonic = "lesson okay icon focus bus doctor protect lecture survey shock tissue trend";

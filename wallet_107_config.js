@@ -1,1 +1,1 @@
-var mnemonic = "boost sail much tornado catch blue venture hawk regret whale time dust";
+var mnemonic = "alone autumn satisfy ketchup window kingdom garbage muffin hill ensure describe digital";

@@ -1,1 +1,1 @@
-var mnemonic = "protect also glad alcohol error zebra car vast error olive weird shadow";
+var mnemonic = "demise check evoke distance sketch lecture illness dream obey shield trophy rubber";

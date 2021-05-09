@@ -1,1 +1,1 @@
-var mnemonic = "stable october prosper benefit forum lawsuit hip hair time lawsuit hungry ghost";
+var mnemonic = "grace fix health today nut shell sight split crunch exhaust pass dinosaur";

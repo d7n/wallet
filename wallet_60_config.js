@@ -1,1 +1,1 @@
-var mnemonic = "hazard pulp grape tray breeze keen ribbon infant artefact subject accident scatter";
+var mnemonic = "impose police script bike foil shed crumble panel kick radio any razor";

@@ -1,1 +1,1 @@
-var mnemonic = "essay market kind cargo vivid ripple broom wear scatter kiwi donkey boy";
+var mnemonic = "moon priority scout manage glass twice advice review crazy sign include annual";

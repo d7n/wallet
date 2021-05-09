@@ -1,1 +1,1 @@
-var mnemonic = "power only there spring bike goat foster punch refuse such nest wedding";
+var mnemonic = "sunny object replace claim company whale ball action version quick misery symbol";

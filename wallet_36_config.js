@@ -1,1 +1,1 @@
-var mnemonic = "differ close soccer throw primary fine dismiss awesome inside oval faint brief";
+var mnemonic = "nose blood local hedgehog inch roast trial guess group drift yellow humor";

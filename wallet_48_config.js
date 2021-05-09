@@ -1,1 +1,1 @@
-var mnemonic = "build have present symbol maid rose anchor observe soul client such script";
+var mnemonic = "draw load size fuel educate timber grace spoil meat social abuse bundle";

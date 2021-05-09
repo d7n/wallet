@@ -1,1 +1,1 @@
-var mnemonic = "foil hurt fetch culture impulse riot essence various picnic twelve soap club";
+var mnemonic = "obscure spring verify ability entry upper attack disease motor brisk solar someone";

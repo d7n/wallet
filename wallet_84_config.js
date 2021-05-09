@@ -1,1 +1,1 @@
-var mnemonic = "dilemma spirit juice dry nominee jump morning unit gauge swap property guard";
+var mnemonic = "feature fortune cheese scan patrol undo stuff viable extra envelope stove rotate";

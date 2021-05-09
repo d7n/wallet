@@ -1,1 +1,1 @@
-var mnemonic = "gloom expand flush broom risk royal whisper swap climb emerge umbrella omit";
+var mnemonic = "glove add area corn adapt season liquid degree chef clarify danger pact";

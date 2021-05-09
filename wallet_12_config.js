@@ -1,1 +1,1 @@
-var mnemonic = "club churn pattern foot tattoo rely mule phone fetch off gun shine";
+var mnemonic = "want quarter stadium ball dose tourist staff rough seed accident track inflict";

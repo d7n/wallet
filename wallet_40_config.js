@@ -1,1 +1,1 @@
-var mnemonic = "inhale wine lens ball update minute marine jewel gorilla buyer drink couch";
+var mnemonic = "swallow one remember hope vanish evil prefer blade market share caution because";

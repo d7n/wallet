@@ -1,1 +1,1 @@
-var mnemonic = "shadow faculty rose bounce magic stereo middle expire use shed mail dolphin";
+var mnemonic = "arrive reward cube april hospital hammer unlock mail cactus ready project ginger";

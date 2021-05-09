@@ -1,1 +1,1 @@
-var mnemonic = "step what song smoke dream develop sorry divorce resemble change rain invest";
+var mnemonic = "robot language velvet trick enact crater year upset marriage truck dinosaur matter";

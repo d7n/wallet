@@ -1,1 +1,1 @@
-var mnemonic = "key wheel bag large crack dream cliff genuine normal clean slot salute";
+var mnemonic = "despair cave around echo prevent point refuse real around raven vocal region";

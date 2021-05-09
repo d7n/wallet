@@ -1,1 +1,1 @@
-var mnemonic = "arrest few forward away misery busy swift have outside fancy enact cave";
+var mnemonic = "liquid crack illness sudden behind gas predict solid romance fatigue empower funny";

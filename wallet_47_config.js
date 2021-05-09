@@ -1,1 +1,1 @@
-var mnemonic = "double pulse lawn camera certain lizard march coral twist follow spoon food";
+var mnemonic = "penalty board conduct observe chase shield ripple rather job small carbon piece";

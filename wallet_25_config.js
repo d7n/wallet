@@ -1,1 +1,1 @@
-var mnemonic = "motion car lesson kingdom twin vast enough flat vague major brick resource";
+var mnemonic = "purpose curtain disorder select gravity cactus angle kitten trash cake hub hawk";

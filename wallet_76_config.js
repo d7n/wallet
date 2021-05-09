@@ -1,1 +1,1 @@
-var mnemonic = "mansion scare clutch flip trend staff uncover spice flavor spray divert slush";
+var mnemonic = "stomach side slender venture space trick during aunt hover trophy waste captain";

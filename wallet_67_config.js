@@ -1,1 +1,1 @@
-var mnemonic = "erosion vendor endless exact family payment bridge party mad marine eager ritual";
+var mnemonic = "opinion blanket moral section task blind scrap mutual moral skull arrest blast";

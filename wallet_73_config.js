@@ -1,1 +1,1 @@
-var mnemonic = "life act guilt bomb special edge punch cake average decline inner brown";
+var mnemonic = "husband dash release uniform topic story dune never enforce zoo crime method";

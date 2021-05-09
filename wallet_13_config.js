@@ -1,1 +1,1 @@
-var mnemonic = "summer border abandon grunt slow poem industry biology glue outside bottom night";
+var mnemonic = "battle tree dutch weekend company text match punch scan first tackle ahead";

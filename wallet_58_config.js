@@ -1,1 +1,1 @@
-var mnemonic = "panel spread lazy violin amateur deliver stay picnic brisk rain humble chaos";
+var mnemonic = "praise witness broken high audit auto marble jewel loud tattoo endless desk";

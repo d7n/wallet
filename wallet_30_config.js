@@ -1,1 +1,1 @@
-var mnemonic = "dynamic divide slide fancy novel umbrella humble boil obvious cloth clerk latin";
+var mnemonic = "route elegant join scheme stand whisper exact end inspire undo gloom scheme";

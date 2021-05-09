@@ -1,1 +1,1 @@
-var mnemonic = "bone vessel evolve bracket tennis change round sun drip route inflict organ";
+var mnemonic = "night tattoo style lend require two garbage fall script social topic hat";

@@ -1,1 +1,1 @@
-var mnemonic = "tower tackle glare start rib harsh nut monster spend humble vanish success";
+var mnemonic = "health misery pistol usage core aspect announce dad observe icon time struggle";

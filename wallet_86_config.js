@@ -1,1 +1,1 @@
-var mnemonic = "winner share imitate flight aisle seed maple torch coach rigid recall mansion";
+var mnemonic = "limit debate season luggage chuckle deny surface skin dad bomb female wall";

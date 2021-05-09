@@ -1,1 +1,1 @@
-var mnemonic = "normal base magnet chuckle enlist side soft lunar base aware donkey permit";
+var mnemonic = "cry garbage access kidney silent spend fold object immune response episode defy";

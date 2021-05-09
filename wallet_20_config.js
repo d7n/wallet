@@ -1,1 +1,1 @@
-var mnemonic = "index kiwi increase rug visit model bar wire typical steak reward plunge";
+var mnemonic = "crawl sad vacuum theory seminar office cancel define tower puppy rain sing";

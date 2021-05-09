@@ -1,1 +1,1 @@
-var mnemonic = "ocean owner pair orange innocent love kangaroo dog below magnet awkward burden";
+var mnemonic = "mechanic attack roast exhaust check nature copper stool gaze leopard promote city";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury venture adult furnace follow square concert vintage silly elephant dizzy nasty";
+var mnemonic = "aware abuse potato deputy paddle verify mobile dynamic blur balance shove title";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter seek helmet change account diary spin genre segment rail valley search";
+var mnemonic = "merge wink elegant brisk convince other bread fork gaze fury muffin case";

@@ -1,1 +1,1 @@
-var mnemonic = "victory visa assist paddle payment thing strike uniform wild nose antenna boy";
+var mnemonic = "setup same eager maze banner tribe derive rough fan improve flight recall";

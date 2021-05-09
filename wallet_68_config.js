@@ -1,1 +1,1 @@
-var mnemonic = "horse hybrid suit long age local digital damp improve audit opinion once";
+var mnemonic = "detect genius bless pink direct blood vague naive north deposit bonus car";

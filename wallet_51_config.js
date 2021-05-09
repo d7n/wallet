@@ -1,1 +1,1 @@
-var mnemonic = "physical afraid real proof witness caution tray cricket theory circle remember merry";
+var mnemonic = "vivid prosper opera hub exotic setup include pause naive spider pencil together";

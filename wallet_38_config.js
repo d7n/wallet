@@ -1,1 +1,1 @@
-var mnemonic = "gun modify right rebuild more senior enact orient length afraid leg sponsor";
+var mnemonic = "episode spirit winner spend bright lesson eager wink tenant lens priority industry";

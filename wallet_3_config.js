@@ -1,1 +1,1 @@
-var mnemonic = "keen meadow miss repeat direct attack fly fall shell mind neither cluster";
+var mnemonic = "desk child potato immune option tourist oblige awkward wonder ill grow comfort";

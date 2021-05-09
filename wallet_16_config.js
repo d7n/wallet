@@ -1,1 +1,1 @@
-var mnemonic = "around insect village crumble attract erosion gorilla scare glue luggage couch fatigue";
+var mnemonic = "trial today tragic cliff seed decrease lemon outdoor escape giraffe uncover suggest";

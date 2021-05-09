@@ -1,1 +1,1 @@
-var mnemonic = "aunt monitor because grab job original shoot please purity tuna right inherit";
+var mnemonic = "melt olive eager kitten cliff sea human leisure swamp kidney web weather";

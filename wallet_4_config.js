@@ -1,1 +1,1 @@
-var mnemonic = "despair vivid escape tank whip bag found embody dash list struggle there";
+var mnemonic = "kiwi switch sail nephew glimpse fiber grab office margin laugh tomato census";

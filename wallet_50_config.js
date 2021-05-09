@@ -1,1 +1,1 @@
-var mnemonic = "seminar mercy broken labor awake pull mass barely adjust unusual extra finish";
+var mnemonic = "middle engage smooth symbol jewel wait carpet critic father sail pupil buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "certain step era piece fantasy hybrid afford useless despair cradle dose agent";
+var mnemonic = "hobby cloud need couple october fall isolate sad cousin hurry weapon clean";

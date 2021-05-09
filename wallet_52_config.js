@@ -1,1 +1,1 @@
-var mnemonic = "flush because news detail mistake unique glide shoot various brass lesson rule";
+var mnemonic = "trust aerobic humor ozone you jealous habit clinic remain lawn yard hungry";

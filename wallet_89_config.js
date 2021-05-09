@@ -1,1 +1,1 @@
-var mnemonic = "sweet inflict gravity orbit word album enough company nation curtain news giggle";
+var mnemonic = "problem oil surprise volume olive extend task catalog fossil omit amount trash";

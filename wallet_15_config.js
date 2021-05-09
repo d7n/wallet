@@ -1,1 +1,1 @@
-var mnemonic = "response equal hammer pizza blind swing gold chimney nominee say draft suspect";
+var mnemonic = "stable decade acid punch party goddess settle record evoke edit bulk urge";

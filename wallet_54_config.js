@@ -1,1 +1,1 @@
-var mnemonic = "conduct shove flush blood remove voyage famous busy spawn lecture void civil";
+var mnemonic = "unhappy paper busy inch nature blue pilot radar urge machine price twenty";

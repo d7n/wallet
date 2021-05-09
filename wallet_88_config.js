@@ -1,1 +1,1 @@
-var mnemonic = "follow elegant whip vendor brave square radio tribe cigar cancel betray sound";
+var mnemonic = "orchard elder oval turtle suspect cart cereal session arrow armed voyage essence";

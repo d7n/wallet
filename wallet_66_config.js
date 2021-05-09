@@ -1,1 +1,1 @@
-var mnemonic = "already begin pet multiply buddy over wish initial awkward wet good couch";
+var mnemonic = "hunt egg explain crane purse artefact kiss guilt exit access eagle draw";

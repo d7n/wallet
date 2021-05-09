@@ -1,1 +1,1 @@
-var mnemonic = "popular steak retire piano crush suspect gather jeans cycle index clinic blouse";
+var mnemonic = "capital stem few unaware convince urge fame change cousin apart tornado vendor";

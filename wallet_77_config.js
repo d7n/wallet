@@ -1,1 +1,1 @@
-var mnemonic = "leave dilemma glance oil unable race road vicious save try mail naive";
+var mnemonic = "spring chuckle energy world pool try combine office poet lunch sure crunch";

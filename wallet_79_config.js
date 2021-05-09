@@ -1,1 +1,1 @@
-var mnemonic = "fruit old pottery december fine because humble bracket trouble industry know suggest";
+var mnemonic = "segment oxygen tuna good clay dial miracle era blood define life sort";

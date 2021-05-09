@@ -1,1 +1,1 @@
-var mnemonic = "library range brand fan smoke message conduct slot detail arena must sugar";
+var mnemonic = "install calm cargo raccoon review wreck enforce mimic series grow combine smart";

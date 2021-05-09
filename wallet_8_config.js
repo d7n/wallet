@@ -1,1 +1,1 @@
-var mnemonic = "winter mix mother canyon team stick soon thrive bounce surge lens erupt";
+var mnemonic = "emerge artefact potato order cotton inject various abstract trial entry mobile win";

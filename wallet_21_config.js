@@ -1,1 +1,1 @@
-var mnemonic = "eight casino oppose three pilot above lemon awful core report angle bird";
+var mnemonic = "develop palm speak chat piece balcony hero mimic potato bid almost farm";

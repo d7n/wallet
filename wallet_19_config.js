@@ -1,1 +1,1 @@
-var mnemonic = "achieve cannon fox velvet coach guide escape chat fence mistake bronze decline";
+var mnemonic = "anxiety solar rate apology funny dinosaur force confirm dune salt canyon adapt";

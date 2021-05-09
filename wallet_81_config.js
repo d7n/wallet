@@ -1,1 +1,1 @@
-var mnemonic = "either issue wink catalog latin divert girl account sponsor business carry ability";
+var mnemonic = "hidden identify female satoshi play isolate excite boy ocean recipe lamp online";

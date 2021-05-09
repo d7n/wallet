@@ -1,1 +1,1 @@
-var mnemonic = "winner extend joke hero wash midnight visual push enable rigid mass boost";
+var mnemonic = "enhance fade erode swallow pony ankle crazy miss wisdom angry salon strike";

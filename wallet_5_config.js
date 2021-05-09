@@ -1,1 +1,1 @@
-var mnemonic = "thing chuckle accident pulp fog double hollow across quarter laptop faculty skull";
+var mnemonic = "field impact warrior perfect advance consider youth draft bean prefer pet alley";

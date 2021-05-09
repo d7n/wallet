@@ -1,1 +1,1 @@
-var mnemonic = "opinion trial attitude stable entry claw half garden rebel volcano dose chimney";
+var mnemonic = "weekend staff laptop grocery cushion swarm rather west fat small ridge bread";

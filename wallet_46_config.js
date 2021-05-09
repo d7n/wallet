@@ -1,1 +1,1 @@
-var mnemonic = "advice sell tennis shoot innocent hair mirror hobby sand lady live book";
+var mnemonic = "foil strike spin order lend raccoon basic glue accuse goddess improve oak";

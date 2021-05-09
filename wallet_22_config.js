@@ -1,1 +1,1 @@
-var mnemonic = "because provide weekend cabbage crystal wreck easy idle cake kidney rookie scatter";
+var mnemonic = "subject furnace detail hockey dentist index recycle vessel skin wink vocal decorate";

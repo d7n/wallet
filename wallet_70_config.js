@@ -1,1 +1,1 @@
-var mnemonic = "scrub window trade fog pride jump forget never bounce lumber control usual";
+var mnemonic = "gossip february pond goat maximum payment mass seven guilt citizen yellow habit";

@@ -1,1 +1,1 @@
-var mnemonic = "usage endless potato kind goddess sugar strategy gun oblige there jaguar swear";
+var mnemonic = "truck coast stage quit bamboo intact skirt album will damp walk memory";

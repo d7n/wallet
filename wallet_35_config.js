@@ -1,1 +1,1 @@
-var mnemonic = "coil female fiber cabin advice begin matter basic ignore elegant dismiss quick";
+var mnemonic = "pizza steak below muffin much cricket panther very innocent true tunnel flush";

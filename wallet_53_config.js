@@ -1,1 +1,1 @@
-var mnemonic = "regular veteran around surprise evolve identify cluster nothing file afford slide second";
+var mnemonic = "virus spider critic elite tenant coyote unusual card stuff uncover abandon acid";

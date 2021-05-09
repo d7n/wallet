@@ -1,1 +1,1 @@
-var mnemonic = "fun choice over one oblige keep slender wire solve margin amount midnight";
+var mnemonic = "choice defense work prison bus vehicle chunk jump venue leg misery hero";

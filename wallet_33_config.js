@@ -1,1 +1,1 @@
-var mnemonic = "title aerobic world need auto rather tooth glide deposit gym tribe repair";
+var mnemonic = "cupboard path junior cradle antique skill smile hurdle faith cruel around genius";

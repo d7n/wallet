@@ -1,1 +1,1 @@
-var mnemonic = "option ill fun term danger insane furnace post govern field shop acoustic";
+var mnemonic = "police crack ignore flame month liar broom real recipe cart raven consider";

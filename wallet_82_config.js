@@ -1,1 +1,1 @@
-var mnemonic = "cloth brain unfair coil range safe high repeat food health abandon thunder";
+var mnemonic = "worry glide clever ramp egg curious reject sign bless wise come bracket";

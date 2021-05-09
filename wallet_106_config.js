@@ -1,1 +1,1 @@
-var mnemonic = "scrub scale life scissors paddle guess devote dune rebuild toilet robust focus";
+var mnemonic = "mushroom dinosaur purse index when broom smoke capable paper sauce account later";

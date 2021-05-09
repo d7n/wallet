@@ -1,1 +1,1 @@
-var mnemonic = "morning region undo soda share assume enter medal opinion coast delay talent";
+var mnemonic = "grant electric collect spatial couple join sadness depend glimpse soldier leader creek";
