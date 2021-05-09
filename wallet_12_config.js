@@ -1,1 +1,1 @@
-var mnemonic = "want quarter stadium ball dose tourist staff rough seed accident track inflict";
+var mnemonic = "client reflect push wonder eye neither middle actual verify frequent ability blush";

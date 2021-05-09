@@ -1,1 +1,1 @@
-var mnemonic = "asthma punch mistake harvest wrist dwarf wage butter tape remember turn pole";
+var mnemonic = "nest off long armed weasel shed horror impulse one exit update submit";

@@ -1,1 +1,1 @@
-var mnemonic = "aware abuse potato deputy paddle verify mobile dynamic blur balance shove title";
+var mnemonic = "month use six alert select turn grit damage rival educate polar profit";

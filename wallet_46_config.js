@@ -1,1 +1,1 @@
-var mnemonic = "foil strike spin order lend raccoon basic glue accuse goddess improve oak";
+var mnemonic = "moral garlic brave cherry total post bitter man clap couch roast thank";

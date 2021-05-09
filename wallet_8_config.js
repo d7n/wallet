@@ -1,1 +1,1 @@
-var mnemonic = "emerge artefact potato order cotton inject various abstract trial entry mobile win";
+var mnemonic = "list uniform addict sound much omit decade fury ahead canoe quick moon";

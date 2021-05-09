@@ -1,1 +1,1 @@
-var mnemonic = "casino color recall yard wait royal sunny tumble ocean crater near pool";
+var mnemonic = "sunset lazy hero length combine horror empower educate still earth whale menu";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy paper busy inch nature blue pilot radar urge machine price twenty";
+var mnemonic = "often artwork profit stuff outer bubble kingdom chest matrix device fatal light";

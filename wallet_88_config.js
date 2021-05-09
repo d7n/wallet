@@ -1,1 +1,1 @@
-var mnemonic = "orchard elder oval turtle suspect cart cereal session arrow armed voyage essence";
+var mnemonic = "orphan object dose cream job armed winner title guide neglect supreme diagram";

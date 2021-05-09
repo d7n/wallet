@@ -1,1 +1,1 @@
-var mnemonic = "buyer near slow chimney matter farm trim fat unfair ask very mango";
+var mnemonic = "vocal board subway dinosaur crumble more burger future minute jazz bamboo express";

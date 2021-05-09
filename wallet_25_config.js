@@ -1,1 +1,1 @@
-var mnemonic = "purpose curtain disorder select gravity cactus angle kitten trash cake hub hawk";
+var mnemonic = "lyrics tribe night decade mass liar agree next merit funny crater antique";

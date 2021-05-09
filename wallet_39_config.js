@@ -1,1 +1,1 @@
-var mnemonic = "friend congress merge boost match gain country anxiety rain arrest general body";
+var mnemonic = "road lecture feature hybrid draft proud label pumpkin plate rural sponsor dismiss";

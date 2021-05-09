@@ -1,1 +1,1 @@
-var mnemonic = "grace fix health today nut shell sight split crunch exhaust pass dinosaur";
+var mnemonic = "type engage eye lumber curtain scissors relief pioneer grid tonight hat blast";

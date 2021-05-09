@@ -1,1 +1,1 @@
-var mnemonic = "swallow one remember hope vanish evil prefer blade market share caution because";
+var mnemonic = "gauge sort oval forward ride pass margin ribbon infant scare result smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "police crack ignore flame month liar broom real recipe cart raven consider";
+var mnemonic = "confirm grab planet father unaware sight swarm favorite lady online aerobic buddy";

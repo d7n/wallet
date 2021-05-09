@@ -1,1 +1,1 @@
-var mnemonic = "salon rib struggle because stand keen lady screen paper month gate vehicle";
+var mnemonic = "report fall pitch below pipe satoshi neck peanut pave plastic eternal put";

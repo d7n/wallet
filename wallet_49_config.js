@@ -1,1 +1,1 @@
-var mnemonic = "demise check evoke distance sketch lecture illness dream obey shield trophy rubber";
+var mnemonic = "medal annual fold giant another dizzy grain rural exercise same owner language";

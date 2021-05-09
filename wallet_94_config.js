@@ -1,1 +1,1 @@
-var mnemonic = "melt olive eager kitten cliff sea human leisure swamp kidney web weather";
+var mnemonic = "trip shrimp task run across basic initial tattoo coffee increase decorate tent";

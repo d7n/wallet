@@ -1,1 +1,1 @@
-var mnemonic = "subject furnace detail hockey dentist index recycle vessel skin wink vocal decorate";
+var mnemonic = "sunny prosper pride seven ramp fish hurdle decade endless boy hedgehog uniform";

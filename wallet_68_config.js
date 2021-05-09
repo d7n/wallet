@@ -1,1 +1,1 @@
-var mnemonic = "detect genius bless pink direct blood vague naive north deposit bonus car";
+var mnemonic = "pupil pen plug apology sign sail aunt bus coil certain outer kid";

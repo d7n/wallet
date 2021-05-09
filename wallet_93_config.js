@@ -1,1 +1,1 @@
-var mnemonic = "capital stem few unaware convince urge fame change cousin apart tornado vendor";
+var mnemonic = "radio dial skin atom private scorpion poet gate age cradle movie detail";

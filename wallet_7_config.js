@@ -1,1 +1,1 @@
-var mnemonic = "rebuild age document eternal strong head hawk live pass harbor palm travel";
+var mnemonic = "sport best spoon secret wall clarify tilt regular what pool brick ensure";

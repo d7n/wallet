@@ -1,1 +1,1 @@
-var mnemonic = "nose blood local hedgehog inch roast trial guess group drift yellow humor";
+var mnemonic = "analyst olive upgrade define observe scare slice foil hint cloth tissue evolve";

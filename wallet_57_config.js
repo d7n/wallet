@@ -1,1 +1,1 @@
-var mnemonic = "adjust fruit blast wise potato quantum token welcome search base inject caught";
+var mnemonic = "talent identify critic pair when burden early emotion aspect verb artist once";

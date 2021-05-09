@@ -1,1 +1,1 @@
-var mnemonic = "divert dial coral sort dwarf loan frame chest trust enlist dial one";
+var mnemonic = "sure owner wire zebra sail neck once meadow payment link cousin position";

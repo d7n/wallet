@@ -1,1 +1,1 @@
-var mnemonic = "climb two smoke east cute middle meat egg below long diamond cargo";
+var mnemonic = "rough warrior filter jaguar blast soldier lyrics observe circle patrol fury dream";

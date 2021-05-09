@@ -1,1 +1,1 @@
-var mnemonic = "hidden identify female satoshi play isolate excite boy ocean recipe lamp online";
+var mnemonic = "help equip lunar rose gas oppose holiday cake exotic weekend stem write";

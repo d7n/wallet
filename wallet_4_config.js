@@ -1,1 +1,1 @@
-var mnemonic = "kiwi switch sail nephew glimpse fiber grab office margin laugh tomato census";
+var mnemonic = "must narrow lawn gospel pretty cruel city eager release mesh solution thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety solar rate apology funny dinosaur force confirm dune salt canyon adapt";
+var mnemonic = "ensure morning good sign donor nut hobby horse cook dawn funny black";

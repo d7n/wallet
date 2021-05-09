@@ -1,1 +1,1 @@
-var mnemonic = "filter below empty choose general when rebel accuse divert hospital embody pitch";
+var mnemonic = "cheap olive empower warrior vibrant cart tag hawk legal anchor make shed";

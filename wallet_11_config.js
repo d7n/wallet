@@ -1,1 +1,1 @@
-var mnemonic = "essence leader idle diary grocery glass velvet denial glide guilt aware wall";
+var mnemonic = "assist school exact step enough hair father master ladder sugar drop cluster";

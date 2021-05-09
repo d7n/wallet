@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit science subject wash mandate simple cry nation health brave warm dismiss";
+var mnemonic = "speed space play aerobic side extra flush combine spot gun retreat tooth";

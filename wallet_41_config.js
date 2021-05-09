@@ -1,1 +1,1 @@
-var mnemonic = "grant electric collect spatial couple join sadness depend glimpse soldier leader creek";
+var mnemonic = "model fragile language donkey wool canvas idle stage injury opera shoe shuffle";

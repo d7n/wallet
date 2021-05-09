@@ -1,1 +1,1 @@
-var mnemonic = "liquid crack illness sudden behind gas predict solid romance fatigue empower funny";
+var mnemonic = "hurdle cancel harsh interest arch cattle fade alien upgrade rocket rail toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "salad bacon portion keep thank trim spray swamp coach trigger swamp impulse";
+var mnemonic = "news seek health token more moon offer bonus water labor raw various";

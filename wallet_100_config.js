@@ -1,1 +1,1 @@
-var mnemonic = "soft moment unusual grape super fee tiny cat silk photo question cloth";
+var mnemonic = "decorate alley bean tourist insane curve giggle sting toe clever lucky weekend";

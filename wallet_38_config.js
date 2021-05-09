@@ -1,1 +1,1 @@
-var mnemonic = "episode spirit winner spend bright lesson eager wink tenant lens priority industry";
+var mnemonic = "offer taxi remind crash document reason stone shoot genius hobby capital broom";

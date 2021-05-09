@@ -1,1 +1,1 @@
-var mnemonic = "twelve ask mystery trade please never lucky frame motor roast access holiday";
+var mnemonic = "exhaust all human about useless false snap company story group fringe spray";

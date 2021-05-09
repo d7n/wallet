@@ -1,1 +1,1 @@
-var mnemonic = "hurdle screen urge nominee arena swing empty volume seat atom degree city";
+var mnemonic = "victory what trash soda episode trend foot you ladder logic inquiry before";

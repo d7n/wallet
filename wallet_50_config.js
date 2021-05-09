@@ -1,1 +1,1 @@
-var mnemonic = "middle engage smooth symbol jewel wait carpet critic father sail pupil buzz";
+var mnemonic = "certain voyage rabbit cricket world require album wisdom absent ostrich lunar kiss";

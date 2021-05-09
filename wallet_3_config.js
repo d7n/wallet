@@ -1,1 +1,1 @@
-var mnemonic = "desk child potato immune option tourist oblige awkward wonder ill grow comfort";
+var mnemonic = "fetch couch cook weather price notable chat make fence infant sting quarter";

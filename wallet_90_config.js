@@ -1,1 +1,1 @@
-var mnemonic = "despair cave around echo prevent point refuse real around raven vocal region";
+var mnemonic = "swap trust summer dice nothing seed forward scorpion barrel wealth rigid skirt";

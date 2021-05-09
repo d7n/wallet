@@ -1,1 +1,1 @@
-var mnemonic = "trial today tragic cliff seed decrease lemon outdoor escape giraffe uncover suggest";
+var mnemonic = "renew open shift poet vital reduce item dice vapor jelly claim curious";

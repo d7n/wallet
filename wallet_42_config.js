@@ -1,1 +1,1 @@
-var mnemonic = "setup same eager maze banner tribe derive rough fan improve flight recall";
+var mnemonic = "talk river buddy away brain giggle left merit clown illegal same air";

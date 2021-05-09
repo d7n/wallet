@@ -1,1 +1,1 @@
-var mnemonic = "time visual recycle diesel unfair practice actor ancient reason height find impact";
+var mnemonic = "sample code ripple curious join gap magic elevator middle fabric bunker pear";

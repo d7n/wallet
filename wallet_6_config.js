@@ -1,1 +1,1 @@
-var mnemonic = "cry garbage access kidney silent spend fold object immune response episode defy";
+var mnemonic = "legal palm melody auto exist palace human smart circle shed suit clip";

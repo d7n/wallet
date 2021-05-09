@@ -1,1 +1,1 @@
-var mnemonic = "turtle husband alcohol home solution okay seat empower lottery rescue source solid";
+var mnemonic = "sure shallow vocal develop amateur neck athlete gadget mango immune tube merry";

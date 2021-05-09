@@ -1,1 +1,1 @@
-var mnemonic = "faith chuckle side laundry wheat script shift talent recycle push work tuition";
+var mnemonic = "final oblige final fury game west note benefit sadness page answer end";

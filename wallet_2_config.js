@@ -1,1 +1,1 @@
-var mnemonic = "choice defense work prison bus vehicle chunk jump venue leg misery hero";
+var mnemonic = "jelly usual asset diet love season gentle cash embrace loud planet dizzy";

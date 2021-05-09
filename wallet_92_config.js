@@ -1,1 +1,1 @@
-var mnemonic = "donate across soup axis client segment main couch skate video vacuum okay";
+var mnemonic = "night response radio pulse convince crater liberty oval civil ceiling replace guide";

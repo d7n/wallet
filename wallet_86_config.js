@@ -1,1 +1,1 @@
-var mnemonic = "limit debate season luggage chuckle deny surface skin dad bomb female wall";
+var mnemonic = "main else very feel jeans gift cliff desk trash grass effort garlic";

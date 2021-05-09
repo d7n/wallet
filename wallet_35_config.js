@@ -1,1 +1,1 @@
-var mnemonic = "pizza steak below muffin much cricket panther very innocent true tunnel flush";
+var mnemonic = "pigeon stamp runway print amateur another derive buzz omit truck differ sugar";

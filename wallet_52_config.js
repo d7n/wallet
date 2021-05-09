@@ -1,1 +1,1 @@
-var mnemonic = "trust aerobic humor ozone you jealous habit clinic remain lawn yard hungry";
+var mnemonic = "organ autumn lyrics rural uphold kitten recall fever tunnel group notice over";

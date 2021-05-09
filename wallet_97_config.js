@@ -1,1 +1,1 @@
-var mnemonic = "install calm cargo raccoon review wreck enforce mimic series grow combine smart";
+var mnemonic = "allow calm ladder earth boring canoe radar secret voyage change this orange";

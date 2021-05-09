@@ -1,1 +1,1 @@
-var mnemonic = "problem oil surprise volume olive extend task catalog fossil omit amount trash";
+var mnemonic = "crouch nasty actor bean float feed island cricket super sun glare maid";

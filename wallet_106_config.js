@@ -1,1 +1,1 @@
-var mnemonic = "mushroom dinosaur purse index when broom smoke capable paper sauce account later";
+var mnemonic = "plastic inspire ritual solve never report pyramid path promote quantum frog naive";

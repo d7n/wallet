@@ -1,1 +1,1 @@
-var mnemonic = "draw load size fuel educate timber grace spoil meat social abuse bundle";
+var mnemonic = "bottom primary rate frog pudding spread end pigeon forget boss warm neutral";

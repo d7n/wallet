@@ -1,1 +1,1 @@
-var mnemonic = "feature fortune cheese scan patrol undo stuff viable extra envelope stove rotate";
+var mnemonic = "soldier kit enter bridge people spy magic pear setup keen mammal check";

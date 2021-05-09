@@ -1,1 +1,1 @@
-var mnemonic = "stable decade acid punch party goddess settle record evoke edit bulk urge";
+var mnemonic = "slush couple human analyst cactus ancient valve lock coyote current circle bean";

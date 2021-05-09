@@ -1,1 +1,1 @@
-var mnemonic = "velvet quarter teach earn define immense scare argue jump record swap decrease";
+var mnemonic = "inspire rigid bone police way build tilt few toward attitude rice dash";

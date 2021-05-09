@@ -1,1 +1,1 @@
-var mnemonic = "health misery pistol usage core aspect announce dad observe icon time struggle";
+var mnemonic = "olympic unusual aware awful awkward lecture silk quantum lobster fit small pudding";

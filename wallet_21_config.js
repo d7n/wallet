@@ -1,1 +1,1 @@
-var mnemonic = "develop palm speak chat piece balcony hero mimic potato bid almost farm";
+var mnemonic = "come leave desert impulse veteran solve moment abandon february involve crane alcohol";

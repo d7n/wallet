@@ -1,1 +1,1 @@
-var mnemonic = "segment oxygen tuna good clay dial miracle era blood define life sort";
+var mnemonic = "token alpha inch moment birth still cash lake pull rigid return naive";

@@ -1,1 +1,1 @@
-var mnemonic = "virus spider critic elite tenant coyote unusual card stuff uncover abandon acid";
+var mnemonic = "path someone panic nominee neither marine custom galaxy drop maze sea rapid";

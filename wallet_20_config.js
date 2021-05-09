@@ -1,1 +1,1 @@
-var mnemonic = "crawl sad vacuum theory seminar office cancel define tower puppy rain sing";
+var mnemonic = "hundred crowd square sad season wedding float stick bus sight wall fabric";

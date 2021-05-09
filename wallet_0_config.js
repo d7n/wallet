@@ -1,1 +1,1 @@
-var mnemonic = "test say mule power hazard math satoshi web south lion error tent";
+var mnemonic = "hand blush tooth armed goose list inherit ill april pattern mixture awake";

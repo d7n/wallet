@@ -1,1 +1,1 @@
-var mnemonic = "praise witness broken high audit auto marble jewel loud tattoo endless desk";
+var mnemonic = "suffer menu behind stock hair bubble again load material demand argue echo";

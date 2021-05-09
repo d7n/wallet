@@ -1,1 +1,1 @@
-var mnemonic = "worry guide payment angry garlic spin luxury grunt wonder barrel away final";
+var mnemonic = "sorry donate brisk main finger hair rug observe wheel subject charge fiscal";

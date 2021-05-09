@@ -1,1 +1,1 @@
-var mnemonic = "jaguar sting desert mobile about gym donate essay cry orphan primary toilet";
+var mnemonic = "detect ancient easy upon team forward hip imitate worry since pluck alcohol";

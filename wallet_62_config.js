@@ -1,1 +1,1 @@
-var mnemonic = "jungle scatter surround absorb elite dismiss betray twelve memory reduce attitude setup";
+var mnemonic = "bacon dice flash expect drama unfair give despair hungry inflict element day";

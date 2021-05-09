@@ -1,1 +1,1 @@
-var mnemonic = "gown begin online display keen outer rescue wish raise pumpkin nephew swing";
+var mnemonic = "march boat depend spend walk crop pepper jaguar filter artefact fish differ";

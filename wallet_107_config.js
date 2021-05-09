@@ -1,1 +1,1 @@
-var mnemonic = "alone autumn satisfy ketchup window kingdom garbage muffin hill ensure describe digital";
+var mnemonic = "slush stadium scan credit kick drama success carpet bread ozone room connect";

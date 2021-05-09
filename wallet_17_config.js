@@ -1,1 +1,1 @@
-var mnemonic = "truck coast stage quit bamboo intact skirt album will damp walk memory";
+var mnemonic = "job joy ugly comic dry split front pretty demand prize add ability";

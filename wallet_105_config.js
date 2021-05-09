@@ -1,1 +1,1 @@
-var mnemonic = "erase choose artefact beauty chase industry hobby midnight love fiscal swing grocery";
+var mnemonic = "boss correct long typical guard brand trophy evil diamond exhibit admit world";

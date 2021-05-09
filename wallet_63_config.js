@@ -1,1 +1,1 @@
-var mnemonic = "obscure spring verify ability entry upper attack disease motor brisk solar someone";
+var mnemonic = "disease zoo hospital asset waste spike enhance world course nephew frequent smart";

@@ -1,1 +1,1 @@
-var mnemonic = "close assault jump pencil fun glory wreck ginger car fringe student slam";
+var mnemonic = "pool develop judge transfer beach boost width adapt injury comfort trust hello";

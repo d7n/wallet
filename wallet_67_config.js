@@ -1,1 +1,1 @@
-var mnemonic = "opinion blanket moral section task blind scrap mutual moral skull arrest blast";
+var mnemonic = "length edit affair tiger swamp addict lucky elite travel thing ribbon arm";

@@ -1,1 +1,1 @@
-var mnemonic = "stock track street ethics spare memory example patrol seat chuckle into saddle";
+var mnemonic = "render spin stereo start family juice journey merge plastic happy blade arm";

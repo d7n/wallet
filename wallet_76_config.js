@@ -1,1 +1,1 @@
-var mnemonic = "stomach side slender venture space trick during aunt hover trophy waste captain";
+var mnemonic = "green junior resemble skin opinion real into maze crack tone time connect";

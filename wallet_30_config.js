@@ -1,1 +1,1 @@
-var mnemonic = "route elegant join scheme stand whisper exact end inspire undo gloom scheme";
+var mnemonic = "area attend true produce screen convince once before ill rich dash figure";

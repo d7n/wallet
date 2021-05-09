@@ -1,1 +1,1 @@
-var mnemonic = "hunt egg explain crane purse artefact kiss guilt exit access eagle draw";
+var mnemonic = "length rural crowd height payment wool split hamster chalk keen legal salon";

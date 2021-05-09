@@ -1,1 +1,1 @@
-var mnemonic = "night tattoo style lend require two garbage fall script social topic hat";
+var mnemonic = "matrix antique happy sword extra rifle whale post august bird page rain";

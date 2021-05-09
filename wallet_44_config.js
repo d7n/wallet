@@ -1,1 +1,1 @@
-var mnemonic = "sunny object replace claim company whale ball action version quick misery symbol";
+var mnemonic = "topple toy mom pioneer glimpse chair carbon extend soap tree insane fiction";

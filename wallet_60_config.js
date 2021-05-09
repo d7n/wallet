@@ -1,1 +1,1 @@
-var mnemonic = "impose police script bike foil shed crumble panel kick radio any razor";
+var mnemonic = "dynamic danger chair three near escape churn owner defense crowd divorce same";

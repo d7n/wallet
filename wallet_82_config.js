@@ -1,1 +1,1 @@
-var mnemonic = "worry glide clever ramp egg curious reject sign bless wise come bracket";
+var mnemonic = "nurse eagle alpha inquiry boring uphold bid excuse display juice undo dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance fade erode swallow pony ankle crazy miss wisdom angry salon strike";
+var mnemonic = "just rather brave blur evil snack right stem draw road below sail";

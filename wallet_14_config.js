@@ -1,1 +1,1 @@
-var mnemonic = "weekend staff laptop grocery cushion swarm rather west fat small ridge bread";
+var mnemonic = "champion buffalo assume very barely robust gas vacuum desk describe tortoise brown";
