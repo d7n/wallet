@@ -1,1 +1,1 @@
-var mnemonic = "surge easily soccer purity slow endorse topple stick pencil lizard venture select";
+var mnemonic = "motion stage garden certain pill luggage prevent share shine toddler affair fitness";

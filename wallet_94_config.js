@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow virus basket harsh peace shed expect digital pledge fancy maze alpha";
+var mnemonic = "grow coffee exist weasel attend tuition puzzle village outside marble into odor";

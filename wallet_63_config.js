@@ -1,1 +1,1 @@
-var mnemonic = "large engage negative hockey document fall system name segment stand pond top";
+var mnemonic = "cousin photo federal penalty material wrap blush want spin hockey able tell";

@@ -1,1 +1,1 @@
-var mnemonic = "approve summer crew term lottery second buzz symbol usage build wagon arrest";
+var mnemonic = "special olympic arch obvious ahead pizza always destroy poverty dawn scatter brain";

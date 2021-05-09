@@ -1,1 +1,1 @@
-var mnemonic = "hotel casual joy wing powder crouch account hawk february jelly pause slender";
+var mnemonic = "satisfy destroy work praise position wheat sort silent fix orphan actual damp";

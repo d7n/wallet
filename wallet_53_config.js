@@ -1,1 +1,1 @@
-var mnemonic = "empower eagle stone mechanic album canyon wide tumble cancel boost bread forget";
+var mnemonic = "unhappy rail siren sustain upper input erode lonely one patch timber hunt";

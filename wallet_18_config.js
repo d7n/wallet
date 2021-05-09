@@ -1,1 +1,1 @@
-var mnemonic = "sweet negative rapid snap view truly cool enact monster outer repeat token";
+var mnemonic = "swamp forget puzzle patrol wheat famous hen track slender mutual vanish belt";

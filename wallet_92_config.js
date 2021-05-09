@@ -1,1 +1,1 @@
-var mnemonic = "draw pole very lock design hint timber crawl segment viable auction say";
+var mnemonic = "mercy resource glove exchange receive veteran risk dragon interest cup bring you";

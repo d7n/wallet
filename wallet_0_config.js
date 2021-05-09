@@ -1,1 +1,1 @@
-var mnemonic = "cheese print benefit throw belt duck office magnet relax install include warrior";
+var mnemonic = "soon shuffle link basket tooth way crowd choose movie can insane face";

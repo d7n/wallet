@@ -1,1 +1,1 @@
-var mnemonic = "best spread april abuse clean unfair parrot position interest hold inject umbrella";
+var mnemonic = "dance direct jelly move puppy equal soda verify differ exclude connect tent";

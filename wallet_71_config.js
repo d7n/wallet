@@ -1,1 +1,1 @@
-var mnemonic = "math know believe exhibit detect team clever ostrich grain page book front";
+var mnemonic = "myself stone three leader tiny throw cover engage core half enact crane";

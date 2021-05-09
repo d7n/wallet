@@ -1,1 +1,1 @@
-var mnemonic = "fatigue whale armed spare bacon require parrot use wave purpose lemon catch";
+var mnemonic = "pet pair pretty dove sword merry skirt furnace fall host assault chef";

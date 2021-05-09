@@ -1,1 +1,1 @@
-var mnemonic = "unusual comic scrap come ring outside honey sauce neither nothing bike swing";
+var mnemonic = "female burden stomach mistake food clip neck wrap reform tooth clarify room";

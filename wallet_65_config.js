@@ -1,1 +1,1 @@
-var mnemonic = "casual flight grunt slide hedgehog vault volcano observe nut earth balcony chaos";
+var mnemonic = "worth suspect immune access hungry web plate deny rocket gaze friend minimum";

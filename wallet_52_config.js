@@ -1,1 +1,1 @@
-var mnemonic = "where sail pause innocent begin note screen spirit enhance wise muscle now";
+var mnemonic = "ball coast pitch toast initial blush start seat business bag target angry";

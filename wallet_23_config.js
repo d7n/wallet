@@ -1,1 +1,1 @@
-var mnemonic = "radar dial nominee drip pill soda guide bless skill clog tuna owner";
+var mnemonic = "imitate horn solid faint welcome soft code feel almost solid forward glass";

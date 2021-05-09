@@ -1,1 +1,1 @@
-var mnemonic = "fancy heavy cry mother pelican tone half awful pyramid stone rug globe";
+var mnemonic = "blade bar video soul company return tent blade art frequent ceiling mercy";

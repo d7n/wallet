@@ -1,1 +1,1 @@
-var mnemonic = "focus truck devote artwork dutch surprise talent first flag city run term";
+var mnemonic = "behave notice february boil ride clerk idle weasel right artwork cinnamon other";

@@ -1,1 +1,1 @@
-var mnemonic = "blur kangaroo expand barely lion exist piece bonus proud stock upset rebel";
+var mnemonic = "isolate sheriff stadium soccer cousin language quality relax pride weapon upon nerve";

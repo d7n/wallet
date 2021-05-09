@@ -1,1 +1,1 @@
-var mnemonic = "book board meadow coffee royal social motor mammal program occur animal movie";
+var mnemonic = "inner disease carbon lawn time final trend smart spatial text real lizard";

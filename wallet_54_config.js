@@ -1,1 +1,1 @@
-var mnemonic = "drill arctic action autumn layer okay awesome moon bread write outdoor immense";
+var mnemonic = "vacant blood cave fine lawn degree okay impose crack dream mind crane";

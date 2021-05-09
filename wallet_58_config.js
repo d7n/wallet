@@ -1,1 +1,1 @@
-var mnemonic = "cheap consider virtual awake poem slow swing old bundle verify essay gallery";
+var mnemonic = "multiply tail ivory armed multiply bless start pact brass pistol swim bike";

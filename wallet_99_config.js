@@ -1,1 +1,1 @@
-var mnemonic = "price ramp omit hunt mixture bargain school iron certain survey tuition solid";
+var mnemonic = "maid medal music purity fiscal snow despair super confirm this resist lake";

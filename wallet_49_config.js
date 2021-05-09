@@ -1,1 +1,1 @@
-var mnemonic = "pistol drama tape rally suspect rail phone chief best spice grant promote";
+var mnemonic = "dragon flame coral nerve walk wheel replace index umbrella lesson dentist crunch";

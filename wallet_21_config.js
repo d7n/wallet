@@ -1,1 +1,1 @@
-var mnemonic = "right pumpkin drum party make boat rival govern prefer carry dance bullet";
+var mnemonic = "gym charge spread harsh shoulder focus salon must undo panther pledge custom";

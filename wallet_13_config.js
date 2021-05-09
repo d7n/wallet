@@ -1,1 +1,1 @@
-var mnemonic = "ill idle ancient parrot attend open chaos okay battle robot pole choose";
+var mnemonic = "angle tourist glue vehicle honey bargain force crawl convince test merry motor";

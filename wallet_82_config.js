@@ -1,1 +1,1 @@
-var mnemonic = "elite medal blade bronze prize arm enact broccoli crime pool obvious tower";
+var mnemonic = "crash come interest symbol fold debris silk brush maple boat video lab";

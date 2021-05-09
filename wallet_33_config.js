@@ -1,1 +1,1 @@
-var mnemonic = "already glass finish bunker mule citizen history elbow fragile load concert mystery";
+var mnemonic = "long vault bunker smart memory deliver noise wet subject canoe observe rebuild";

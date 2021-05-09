@@ -1,1 +1,1 @@
-var mnemonic = "jealous submit start educate festival wolf garbage purity ocean basic eternal fade";
+var mnemonic = "side rival jewel brand harbor artist aspect maple panther review output harsh";

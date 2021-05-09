@@ -1,1 +1,1 @@
-var mnemonic = "life people surge curtain alter better brother gospel paper struggle warrior bonus";
+var mnemonic = "print balance imitate charge correct bring rookie furnace extra pencil bomb aware";

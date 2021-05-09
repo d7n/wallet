@@ -1,1 +1,1 @@
-var mnemonic = "water acquire taxi trip timber witness huge submit crouch demise festival chronic";
+var mnemonic = "duty rug awesome involve nurse doctor nest lemon analyst merge true subject";

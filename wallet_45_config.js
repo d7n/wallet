@@ -1,1 +1,1 @@
-var mnemonic = "process identify bird filter devote sketch cry silly park dice mango muscle";
+var mnemonic = "inherit image yellow filter quote kitten staff spot rubber virtual april demise";

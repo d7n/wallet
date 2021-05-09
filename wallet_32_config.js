@@ -1,1 +1,1 @@
-var mnemonic = "nominee alcohol novel valid rule silver toilet treat angry enlist educate desk";
+var mnemonic = "aim movie alien image puppy lounge cancel dismiss typical tenant obtain visit";

@@ -1,1 +1,1 @@
-var mnemonic = "easily fury electric violin coin quarter review list reward vehicle accident purchase";
+var mnemonic = "ride hello more tuna muscle hand fortune quarter myth mind cash else";

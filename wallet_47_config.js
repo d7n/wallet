@@ -1,1 +1,1 @@
-var mnemonic = "shy build mammal sing pottery solid service kidney napkin luxury faith battle";
+var mnemonic = "rally fame glow water spot bid caution clerk survey decade sell violin";

@@ -1,1 +1,1 @@
-var mnemonic = "range blanket scrap flavor drastic cricket rule dawn plug weapon crash giant";
+var mnemonic = "mistake slight ahead rain abandon faculty balcony around carry olive cry width";

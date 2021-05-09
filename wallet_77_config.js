@@ -1,1 +1,1 @@
-var mnemonic = "life nation occur they mention cook loan jaguar antenna garment model flag";
+var mnemonic = "rail nuclear oxygen flip category baby pencil speed apology basket mail rescue";

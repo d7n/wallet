@@ -1,1 +1,1 @@
-var mnemonic = "share chef excess travel base cluster dry era uniform unfold fiscal vault";
+var mnemonic = "physical mercy define ready mixture fury advice slow arm school inner ocean";

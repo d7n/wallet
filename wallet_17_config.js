@@ -1,1 +1,1 @@
-var mnemonic = "crucial transfer act core bring episode one stable size fiscal pistol urge";
+var mnemonic = "uncle rocket grocery thunder fix upper connect dolphin rebuild quality smooth today";

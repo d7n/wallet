@@ -1,1 +1,1 @@
-var mnemonic = "museum neutral truly lawn coil hamster west occur salon music warrior nominee";
+var mnemonic = "suit december project number below add person proud stove prepare journey oil";

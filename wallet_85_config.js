@@ -1,1 +1,1 @@
-var mnemonic = "resemble enough tackle split quantum circle item horse dignity mouse salt crop";
+var mnemonic = "arena fame idea alone cry poverty embark exclude badge erase pilot roof";

@@ -1,1 +1,1 @@
-var mnemonic = "craft stuff avocado blind seat stem joke trip empty fiber salt answer";
+var mnemonic = "loop indicate cart settle federal leg melt jungle swear return peanut blouse";

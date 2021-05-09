@@ -1,1 +1,1 @@
-var mnemonic = "mirror best much gospel oak horse bronze violin acoustic spread forward abstract";
+var mnemonic = "rabbit fold dignity album young deal replace interest immune patient sing asthma";

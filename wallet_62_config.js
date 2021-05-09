@@ -1,1 +1,1 @@
-var mnemonic = "tonight tragic roof manual cheap supreme wool merge enact orbit mouse fresh";
+var mnemonic = "leg fun duty divert cream gadget slush veteran settle boost crater plug";

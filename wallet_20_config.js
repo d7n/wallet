@@ -1,1 +1,1 @@
-var mnemonic = "doctor silver spell under make major airport reunion spend fault patch suspect";
+var mnemonic = "bronze surround river raise blame pole bring daughter surface knock jacket clown";

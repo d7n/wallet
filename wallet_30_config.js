@@ -1,1 +1,1 @@
-var mnemonic = "twice fantasy debate shoot identify orange century cabin whale business rival family";
+var mnemonic = "kiwi depart canyon security occur cloth slot chief sketch mammal scout coast";

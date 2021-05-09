@@ -1,1 +1,1 @@
-var mnemonic = "save flock radar wait gloom spike dinosaur mesh bright plastic magic pave";
+var mnemonic = "nominee remain involve quit cherry kingdom slight sun tiger prefer popular horn";

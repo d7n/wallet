@@ -1,1 +1,1 @@
-var mnemonic = "donkey dry hill divide embrace include recall panic hire mountain heavy example";
+var mnemonic = "phrase area naive lumber nose inherit practice mosquito deliver helmet iron flip";

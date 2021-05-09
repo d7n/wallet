@@ -1,1 +1,1 @@
-var mnemonic = "pact peanut pudding demand clever asset chimney symbol naive woman short rich";
+var mnemonic = "good spice canal police arrow give galaxy night race foot public glow";

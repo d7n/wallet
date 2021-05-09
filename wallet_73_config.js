@@ -1,1 +1,1 @@
-var mnemonic = "little clarify sorry wheel same useful when sign uncle super ball denial";
+var mnemonic = "airport erode illegal iron normal floor stereo rule weapon pull exit dumb";

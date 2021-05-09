@@ -1,1 +1,1 @@
-var mnemonic = "bird remember antique cute solution remember issue helmet pepper donor supreme width";
+var mnemonic = "inquiry hundred fashion web episode impose board scatter garlic fury reveal curve";

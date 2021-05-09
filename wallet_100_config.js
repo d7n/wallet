@@ -1,1 +1,1 @@
-var mnemonic = "save frame wrestle crater diesel notice farm repeat floor observe train oval";
+var mnemonic = "improve hobby now hobby suggest clever judge park radio square gather athlete";

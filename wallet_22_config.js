@@ -1,1 +1,1 @@
-var mnemonic = "nice throw reject marble boil say lend blood chuckle host track helmet";
+var mnemonic = "ketchup capital gravity banana senior shoulder script answer addict patrol truck rule";

@@ -1,1 +1,1 @@
-var mnemonic = "inch visual auto feel they offer clip van work lift deny goose";
+var mnemonic = "lesson smoke wish answer attend rescue eye steak wonder access category hammer";

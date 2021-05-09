@@ -1,1 +1,1 @@
-var mnemonic = "bracket stadium head vital guess moral alone oval keen floor icon fatigue";
+var mnemonic = "nuclear regret twin damp fabric climb harsh reform giggle duck detect garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange stick around bless project wheat inspire follow slow away chest deal";
+var mnemonic = "visa daring prosper bid harvest battle vast belt degree ozone seed left";

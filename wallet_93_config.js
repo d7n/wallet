@@ -1,1 +1,1 @@
-var mnemonic = "coin disagree world prevent shift plastic bird success victory mom fashion way";
+var mnemonic = "cruise sign express arena shrug setup under bounce hamster addict chest gloom";

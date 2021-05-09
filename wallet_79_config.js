@@ -1,1 +1,1 @@
-var mnemonic = "venue tank friend cereal put youth card elegant resist surge tunnel juice";
+var mnemonic = "glance toward frog pride eternal area comic matrix ahead trend holiday vintage";

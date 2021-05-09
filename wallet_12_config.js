@@ -1,1 +1,1 @@
-var mnemonic = "build sight arctic charge climb intact exclude good suggest sniff steel month";
+var mnemonic = "primary they region good lava brief average claw parade gown suggest dog";

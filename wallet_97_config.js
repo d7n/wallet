@@ -1,1 +1,1 @@
-var mnemonic = "size slim lizard use diamond web face magic tool obvious timber health";
+var mnemonic = "behave behave parade pelican brief target program mystery actor gun attitude urge";

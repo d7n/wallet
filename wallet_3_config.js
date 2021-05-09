@@ -1,1 +1,1 @@
-var mnemonic = "gold defy jealous cute ask equip seven derive diet increase glimpse level";
+var mnemonic = "friend salute garbage night brother option neck current layer clever unlock ripple";

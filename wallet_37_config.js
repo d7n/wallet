@@ -1,1 +1,1 @@
-var mnemonic = "this twelve glass system news network stomach seek bring assist air inhale";
+var mnemonic = "anger license current wide story agent radar kit juice shallow naive valid";

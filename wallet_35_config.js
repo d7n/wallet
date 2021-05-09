@@ -1,1 +1,1 @@
-var mnemonic = "sustain mutual swear monitor impact rely display answer mutual aunt busy fury";
+var mnemonic = "blood write burger hard kingdom list veteran hybrid castle goddess fashion chief";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme stamp width common program perfect possible bonus pizza bean obtain simple";
+var mnemonic = "profit swallow host breeze inch silent mule dignity account dutch shaft gossip";

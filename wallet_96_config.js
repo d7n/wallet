@@ -1,1 +1,1 @@
-var mnemonic = "spoon ship prize damp margin rival pioneer magic treat orient disorder silk";
+var mnemonic = "execute photo project core reject toward grit dad foil bomb sting peasant";

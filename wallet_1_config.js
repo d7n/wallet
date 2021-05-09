@@ -1,1 +1,1 @@
-var mnemonic = "upon also skin position expand also diamond cash melt jazz nest soft";
+var mnemonic = "garment biology doll fame attitude faculty spider girl rotate bright glue space";

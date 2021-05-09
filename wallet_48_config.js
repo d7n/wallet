@@ -1,1 +1,1 @@
-var mnemonic = "trend eternal strike claim bus bomb can fame able wealth crime alone";
+var mnemonic = "where cruise gauge gym review burst spoon please property rude sick such";

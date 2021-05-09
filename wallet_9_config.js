@@ -1,1 +1,1 @@
-var mnemonic = "run cousin inform inner arrow margin law essay oil stick else eight";
+var mnemonic = "forum pistol column reflect position argue betray apple apology index voyage struggle";

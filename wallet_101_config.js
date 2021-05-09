@@ -1,1 +1,1 @@
-var mnemonic = "auto distance legal hen mercy beauty glance fault skin denial tower chef";
+var mnemonic = "double topic donkey butter cloud material okay have loud chef test keep";

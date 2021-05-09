@@ -1,1 +1,1 @@
-var mnemonic = "valley start winter gauge dwarf cat wing toss relax excite say resist";
+var mnemonic = "arctic pumpkin habit holiday onion cigar opera leopard attract wrist palace still";

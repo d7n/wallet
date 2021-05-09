@@ -1,1 +1,1 @@
-var mnemonic = "front maximum bus crazy dizzy sense neutral vendor shaft nephew reject virus";
+var mnemonic = "lock month jelly bag law hawk attract friend pipe expect lucky mixture";

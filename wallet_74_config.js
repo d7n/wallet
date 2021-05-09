@@ -1,1 +1,1 @@
-var mnemonic = "you yellow crack apart proud eagle derive believe video boil whip husband";
+var mnemonic = "dial dentist cradle divide bag gate wear hurry session pill second pottery";

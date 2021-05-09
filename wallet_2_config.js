@@ -1,1 +1,1 @@
-var mnemonic = "canoe kite mixture festival monster broom random harsh boost stick frown birth";
+var mnemonic = "pave point pepper weekend allow gorilla wisdom toilet author pair strong rely";

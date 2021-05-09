@@ -1,1 +1,1 @@
-var mnemonic = "struggle wage metal maid agree thing swing claim party rubber hire obvious";
+var mnemonic = "sustain shrimp manage fabric tide horn result daughter admit oval shrimp cram";

@@ -1,1 +1,1 @@
-var mnemonic = "become goat divide ripple horror industry reform wrong earth liquid machine monkey";
+var mnemonic = "coast doctor argue weekend yard shoot knock merge fat great trumpet ridge";

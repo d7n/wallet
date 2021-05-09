@@ -1,1 +1,1 @@
-var mnemonic = "hurt upgrade often judge embrace salon begin must goddess fantasy unfair text";
+var mnemonic = "submit bus weasel submit grief word busy dial donkey fit diary beef";

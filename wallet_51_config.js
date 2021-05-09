@@ -1,1 +1,1 @@
-var mnemonic = "document glow apart act this upset waste giggle impulse artwork story dignity";
+var mnemonic = "surprise solid select unlock crowd zebra envelope select task seat swim genius";

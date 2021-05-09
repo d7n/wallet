@@ -1,1 +1,1 @@
-var mnemonic = "inflict demise alpha bonus wisdom alcohol sunset fan roast result curve choice";
+var mnemonic = "gather observe urge claim start fragile earn taste coast armed birth gown";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase note gown spell another exit unlock firm dice remain mercy seed";
+var mnemonic = "error execute talk health certain random welcome nothing divide vital lawsuit travel";

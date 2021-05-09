@@ -1,1 +1,1 @@
-var mnemonic = "axis hello sunny wise swift awake brief rail alley title spatial wrong";
+var mnemonic = "shove game clown uniform spatial battle dinner forest galaxy word crowd type";

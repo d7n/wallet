@@ -1,1 +1,1 @@
-var mnemonic = "jelly aerobic fine glow price solution way economy shoulder acid sport gold";
+var mnemonic = "job actress artist penalty judge agree cradle ten scrub weekend diagram satisfy";

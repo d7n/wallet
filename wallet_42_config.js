@@ -1,1 +1,1 @@
-var mnemonic = "often swear kiss scissors claim gentle cricket renew vessel diet clap live";
+var mnemonic = "viable boy forget viable noble start odor agent time powder escape proof";

@@ -1,1 +1,1 @@
-var mnemonic = "digital embrace notice echo swap marine east cart melt source trouble search";
+var mnemonic = "please typical love story bundle arrange cliff cliff cream bounce planet label";

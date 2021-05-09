@@ -1,1 +1,1 @@
-var mnemonic = "alone eagle board wide purchase ability behind elbow donate dumb industry fish";
+var mnemonic = "lunar myself wash margin ordinary tiny initial another embark defy smooth renew";

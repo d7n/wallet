@@ -1,1 +1,1 @@
-var mnemonic = "kick impact true mention laundry alpha gold have pair upper light apple";
+var mnemonic = "metal ethics grief poet wrong cactus popular exhibit unfold shallow suit divert";

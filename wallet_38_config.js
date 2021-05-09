@@ -1,1 +1,1 @@
-var mnemonic = "child fork evidence beef work category lake chef joy wire birth silly";
+var mnemonic = "tube wise hazard switch solve coach feed unknown dismiss flash online insane";

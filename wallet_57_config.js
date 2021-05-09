@@ -1,1 +1,1 @@
-var mnemonic = "stem hunt merry program limit chunk remind mechanic cube piano discover predict";
+var mnemonic = "vehicle task claw remove hurt weekend voice sunset now quantum swallow endless";

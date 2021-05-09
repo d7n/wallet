@@ -1,1 +1,1 @@
-var mnemonic = "ethics hope breeze main garment turtle pizza barely defense priority resemble apart";
+var mnemonic = "brave budget unit ring erosion inside sister south mirror wealth own burger";

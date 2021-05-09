@@ -1,1 +1,1 @@
-var mnemonic = "december sun galaxy liberty act barely cook version keep fall carbon shed";
+var mnemonic = "runway right believe office boost skate pet rely girl decline iron satoshi";

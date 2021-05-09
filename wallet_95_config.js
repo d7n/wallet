@@ -1,1 +1,1 @@
-var mnemonic = "fork detect board crawl detect history shoe arch grit arrive silent vacuum";
+var mnemonic = "capable avoid permit animal frog core ladder front grid critic culture fee";

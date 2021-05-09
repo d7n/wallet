@@ -1,1 +1,1 @@
-var mnemonic = "satisfy unable effort material blind debate cube gas list gate maze warm";
+var mnemonic = "damp flock solar office admit drop onion permit question winter three predict";
