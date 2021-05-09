@@ -1,1 +1,1 @@
-var mnemonic = "cost scare melt lonely ivory horror eye mix begin convince close flock";
+var mnemonic = "swallow crash hip valid wire angry slab spray either sort tooth river";

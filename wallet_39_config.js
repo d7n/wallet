@@ -1,1 +1,1 @@
-var mnemonic = "primary leave farm gaze rebuild arm vapor foil smooth lift primary spray";
+var mnemonic = "mixture universe gallery fine erosion snow shove relief animal myself need salad";

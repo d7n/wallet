@@ -1,1 +1,1 @@
-var mnemonic = "object speed steak enact valid lesson abuse worth wife round distance try";
+var mnemonic = "pluck virus trigger jelly improve uphold orange vivid reason beyond witness actress";

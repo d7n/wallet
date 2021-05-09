@@ -1,1 +1,1 @@
-var mnemonic = "giant canyon bone tiger render despair clean runway duck pulp double mimic";
+var mnemonic = "replace couple leisure garlic master vivid into knife toilet term change exhibit";

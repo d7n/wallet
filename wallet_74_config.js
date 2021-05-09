@@ -1,1 +1,1 @@
-var mnemonic = "empower february miss flee anxiety another royal general rival stable focus guard";
+var mnemonic = "digital always raccoon fish minor lend forget primary leisure sponsor cabbage barely";

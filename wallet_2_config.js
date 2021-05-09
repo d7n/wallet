@@ -1,1 +1,1 @@
-var mnemonic = "ill income gift paper diary morning call sorry foil flee intact finish";
+var mnemonic = "demise worry bundle silk angry spring useless cloth idle hybrid detect wasp";

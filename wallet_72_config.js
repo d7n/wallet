@@ -1,1 +1,1 @@
-var mnemonic = "escape fiber crop milk title oven circle act brain trial menu boost";
+var mnemonic = "casual vocal gravity stove torch word cloth regular eager rug tennis merge";

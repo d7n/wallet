@@ -1,1 +1,1 @@
-var mnemonic = "step scorpion lesson ship tilt liberty brick school market retreat dirt sugar";
+var mnemonic = "forward behind initial local champion cheese online right exist someone coyote era";

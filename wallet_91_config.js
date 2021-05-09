@@ -1,1 +1,1 @@
-var mnemonic = "stadium sea display embark improve scare chase kingdom trigger desert frog rail";
+var mnemonic = "motion live purity river husband stumble bicycle ride pet save property snake";

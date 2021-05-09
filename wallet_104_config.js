@@ -1,1 +1,1 @@
-var mnemonic = "piano search obvious table fashion high tape there acoustic december seat kit";
+var mnemonic = "west chat wood crush tenant suit sure hammer crop smooth scout rifle";

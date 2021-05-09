@@ -1,1 +1,1 @@
-var mnemonic = "old turtle pole outer about basket great apology balcony material payment kidney";
+var mnemonic = "route spider purchase foil include library repair super year peanut tray void";

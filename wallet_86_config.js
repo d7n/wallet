@@ -1,1 +1,1 @@
-var mnemonic = "this drive coyote service borrow height appear early include connect brass detail";
+var mnemonic = "repair design human economy manage volume inquiry orchard foster cabin mix solve";

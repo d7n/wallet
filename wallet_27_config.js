@@ -1,1 +1,1 @@
-var mnemonic = "leg puzzle engine parrot reward because produce language best siege vehicle recall";
+var mnemonic = "require tell pole nose gorilla joke install vague hip cute amount twin";

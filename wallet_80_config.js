@@ -1,1 +1,1 @@
-var mnemonic = "rent bonus balcony vanish hover coconut write symbol slender afford when club";
+var mnemonic = "illegal throw swing armed off wife rookie artefact soft own caught catalog";

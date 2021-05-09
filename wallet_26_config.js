@@ -1,1 +1,1 @@
-var mnemonic = "survey plate family phrase keen bright broom plastic include lock hazard lawsuit";
+var mnemonic = "trend charge fame doctor comic urban point average enter aisle puppy jacket";

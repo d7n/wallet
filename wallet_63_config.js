@@ -1,1 +1,1 @@
-var mnemonic = "bicycle add model ring medal bus catalog pitch three mandate caught shield";
+var mnemonic = "open involve moon giggle exact public nice grid mango merit mammal matrix";

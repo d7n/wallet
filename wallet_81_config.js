@@ -1,1 +1,1 @@
-var mnemonic = "note lock reunion used tube head hello zone shuffle shift sister foil";
+var mnemonic = "shadow tired camp wash world crucial clerk picture short child coconut mom";

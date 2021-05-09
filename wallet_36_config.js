@@ -1,1 +1,1 @@
-var mnemonic = "history zone resemble behave upper record stock decorate thrive energy addict loud";
+var mnemonic = "purchase prosper lumber solution lounge miracle bid just gun elephant rifle become";

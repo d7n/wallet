@@ -1,1 +1,1 @@
-var mnemonic = "budget tribe popular frog stomach ensure runway decade crush music diary brush";
+var mnemonic = "easy latin craft quiz keep tragic spy earn loop goddess crane develop";

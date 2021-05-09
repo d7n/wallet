@@ -1,1 +1,1 @@
-var mnemonic = "donate other battle refuse elephant glory access pond legend ceiling response script";
+var mnemonic = "group device bronze arrow future tourist page same destroy similar ship inform";

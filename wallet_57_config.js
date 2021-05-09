@@ -1,1 +1,1 @@
-var mnemonic = "lizard phrase item immense monitor scatter impulse wall screen danger like pottery";
+var mnemonic = "orange host female orchard armed syrup tank casual hedgehog two assist angle";

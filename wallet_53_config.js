@@ -1,1 +1,1 @@
-var mnemonic = "cactus tomorrow portion make panel mother shrug fade process year assault section";
+var mnemonic = "curve price heart genuine luxury inhale okay educate fame open myth base";

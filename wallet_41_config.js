@@ -1,1 +1,1 @@
-var mnemonic = "child menu trigger menu couch color rib cupboard throw insect mountain write";
+var mnemonic = "range rug web else drift cloud clay impose wild accident happy erosion";

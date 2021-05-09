@@ -1,1 +1,1 @@
-var mnemonic = "debate tape quick stereo demise next blast leaf pigeon brown cinnamon soon";
+var mnemonic = "talk timber verb morning venture language double addict best faculty again between";

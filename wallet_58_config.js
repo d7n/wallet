@@ -1,1 +1,1 @@
-var mnemonic = "hospital ozone marriage brush panther barrel wink post velvet warm dust ignore";
+var mnemonic = "unfold connect child law napkin fruit evil assist glass motor foil cry";

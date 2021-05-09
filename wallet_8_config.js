@@ -1,1 +1,1 @@
-var mnemonic = "hamster siege shield silk purse chapter cash butter quiz among sniff gesture";
+var mnemonic = "staff next phone patrol shed portion project about trash shine rent solar";

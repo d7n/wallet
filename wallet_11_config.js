@@ -1,1 +1,1 @@
-var mnemonic = "urban food rotate region skin sustain camera liberty rescue turn business slide";
+var mnemonic = "exercise pulse chicken abstract monitor verb crop mean fix job tonight pretty";

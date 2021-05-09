@@ -1,1 +1,1 @@
-var mnemonic = "solid ill assist afraid object donkey usage start obtain coin offer spare";
+var mnemonic = "novel dry moment vintage royal measure member betray basic machine bounce add";

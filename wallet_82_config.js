@@ -1,1 +1,1 @@
-var mnemonic = "false armor suspect yard chalk raise high wreck laugh uphold coin notice";
+var mnemonic = "swarm purity chicken bid flower budget kangaroo arm glance broom sniff slender";

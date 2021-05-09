@@ -1,1 +1,1 @@
-var mnemonic = "couch village arrange festival yard sock adapt cupboard nest bacon powder matrix";
+var mnemonic = "three wrap tragic barrel chronic useful inform guilt buzz era twist hand";

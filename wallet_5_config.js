@@ -1,1 +1,1 @@
-var mnemonic = "tunnel rigid again consider deputy tennis kit gun outer tissue feel elevator";
+var mnemonic = "amateur diamond elite sting then coin calm smooth cycle burden faculty improve";

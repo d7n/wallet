@@ -1,1 +1,1 @@
-var mnemonic = "wonder flower feed memory jungle winner hidden salt pistol fuel media lift";
+var mnemonic = "tomorrow fabric deliver tortoise foam pretty erode whisper feed chat coach slab";

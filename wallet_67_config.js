@@ -1,1 +1,1 @@
-var mnemonic = "utility meadow dial drum before current dance catch valve include lizard bean";
+var mnemonic = "ginger suffer later walnut test breeze record decorate hen next soup fold";

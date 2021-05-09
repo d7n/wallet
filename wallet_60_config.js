@@ -1,1 +1,1 @@
-var mnemonic = "ball purity hockey liquid find clump august chuckle base museum opera still";
+var mnemonic = "leader slice equip admit match tribe lecture exit script body action before";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon bonus stuff pole merit captain entire apple attack lens payment seed";
+var mnemonic = "evolve reward viable hint embody speed analyst desk hill faint run flame";

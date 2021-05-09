@@ -1,1 +1,1 @@
-var mnemonic = "dirt swim attend giggle hire crash correct screen victory advice tiger cruise";
+var mnemonic = "guess fence olympic group gospel scrap empower punch primary document piece poet";

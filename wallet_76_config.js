@@ -1,1 +1,1 @@
-var mnemonic = "jeans car visual find asset excess family stairs rival upper urge visa";
+var mnemonic = "employ junior blame song harbor target photo expect aunt bean scare awake";

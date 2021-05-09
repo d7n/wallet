@@ -1,1 +1,1 @@
-var mnemonic = "gentle hundred news drink ride glory vessel ski then awesome tortoise survey";
+var mnemonic = "lyrics diary sun black innocent barely arm skill potato drastic rare satoshi";

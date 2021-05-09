@@ -1,1 +1,1 @@
-var mnemonic = "story shoe evidence champion team arctic diesel jelly elephant champion oyster equip";
+var mnemonic = "aisle dash dash useless render lobster gentle adjust frame milk motor dove";

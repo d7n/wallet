@@ -1,1 +1,1 @@
-var mnemonic = "raw funny often balcony nation ozone later spider hover submit shrimp elbow";
+var mnemonic = "adult evoke vote organ brush slab mix arrest retire timber gun potato";

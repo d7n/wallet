@@ -1,1 +1,1 @@
-var mnemonic = "profit shy unit main good zero profit actual news stick alien glance";
+var mnemonic = "honey focus provide valley garden cattle dove lottery response toy wolf execute";

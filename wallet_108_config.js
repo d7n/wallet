@@ -1,1 +1,1 @@
-var mnemonic = "vapor slender idle tide jazz copy mouse price neglect ring garlic panel";
+var mnemonic = "dove wrestle spike acoustic zoo canvas clay describe hammer rural turtle modify";

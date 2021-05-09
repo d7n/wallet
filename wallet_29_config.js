@@ -1,1 +1,1 @@
-var mnemonic = "detail correct round lunar fluid wrestle will tunnel tell palace tail scheme";
+var mnemonic = "degree cost state topple online entry curtain verb help arena warrior museum";

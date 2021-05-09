@@ -1,1 +1,1 @@
-var mnemonic = "excite soda subject super medal select twelve remind slab clog ivory culture";
+var mnemonic = "lens term rough satoshi apart rib convince bleak return swim file taste";

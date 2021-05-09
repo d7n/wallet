@@ -1,1 +1,1 @@
-var mnemonic = "draw crouch install glue grain solution beef cannon soccer adapt charge auction";
+var mnemonic = "rice catalog aspect toilet able cinnamon steak voice charge stand market forward";

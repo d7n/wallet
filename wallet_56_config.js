@@ -1,1 +1,1 @@
-var mnemonic = "scene hundred piano reform above author length hub virus endless isolate invest";
+var mnemonic = "ticket scrap snow over thrive lens cup gas mutual mean chunk tank";

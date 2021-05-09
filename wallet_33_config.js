@@ -1,1 +1,1 @@
-var mnemonic = "visa can check mosquito rule dinosaur absorb vanish meadow skirt kidney world";
+var mnemonic = "praise clown husband denial delay report denial icon rubber hunt depth surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "type sausage kangaroo obey mutual stand impulse pizza draw foil gain avoid";
+var mnemonic = "link pulse fiscal first garment garbage alarm robot reward scheme blur winner";

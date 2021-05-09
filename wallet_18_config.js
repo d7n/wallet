@@ -1,1 +1,1 @@
-var mnemonic = "winner love legend morning inspire property above vintage rare amazing state office";
+var mnemonic = "crucial post cost cheese convince crowd moon spray sell catch rain banana";

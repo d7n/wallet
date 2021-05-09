@@ -1,1 +1,1 @@
-var mnemonic = "tone bean mind tissue survey across visa fancy pyramid galaxy atom penalty";
+var mnemonic = "crystal impose beef sun maple say ten basic giant swallow follow ball";

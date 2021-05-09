@@ -1,1 +1,1 @@
-var mnemonic = "token thing yard cinnamon soccer rotate salmon drip clump unlock blanket swamp";
+var mnemonic = "awesome olympic owner whisper enroll bronze crouch weather hen tent unusual tribe";

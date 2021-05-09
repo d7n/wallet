@@ -1,1 +1,1 @@
-var mnemonic = "dish industry country adult above injury body chimney world aerobic youth stove";
+var mnemonic = "wise intact staff speak come short erase budget slush abstract history hood";

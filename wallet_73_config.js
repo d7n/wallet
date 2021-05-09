@@ -1,1 +1,1 @@
-var mnemonic = "name nasty citizen exchange symptom silly comfort cool artist renew maximum diary";
+var mnemonic = "method galaxy mango connect scale fetch deer fall device brisk dinner badge";

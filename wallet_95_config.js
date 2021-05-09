@@ -1,1 +1,1 @@
-var mnemonic = "business one magnet regular quit shoe bounce crowd shuffle venue choose truth";
+var mnemonic = "toddler link still sadness song glare ozone isolate voice expect bounce reform";

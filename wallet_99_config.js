@@ -1,1 +1,1 @@
-var mnemonic = "globe add spawn spoil library between tray mansion write goat swift nasty";
+var mnemonic = "track cross denial omit tunnel pill cause purpose tomorrow mango drift question";

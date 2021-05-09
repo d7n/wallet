@@ -1,1 +1,1 @@
-var mnemonic = "dream thought alcohol food cluster neither memory lake client glimpse ensure tongue";
+var mnemonic = "drama cover swallow during jealous rookie equal worry push end mask often";

@@ -1,1 +1,1 @@
-var mnemonic = "merge lock warrior hello gap trap sleep short mystery excess mosquito camp";
+var mnemonic = "notable direct culture inhale occur bind gospel damp film tunnel spike baby";

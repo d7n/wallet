@@ -1,1 +1,1 @@
-var mnemonic = "forward cluster love half glance anger cool sketch potato debris fragile toy";
+var mnemonic = "prepare emerge trade student wagon artwork derive beauty depend tooth timber medal";

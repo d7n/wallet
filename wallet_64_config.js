@@ -1,1 +1,1 @@
-var mnemonic = "trend insect client spoil source quiz cradle visual tuition deputy measure credit";
+var mnemonic = "ketchup rescue agree quick junior fun multiply bag luggage broccoli then unlock";

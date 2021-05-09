@@ -1,1 +1,1 @@
-var mnemonic = "identify capable crowd limb defy sting flavor pretty top rough dog cancel";
+var mnemonic = "room result art vast tape margin vanish puzzle potato oval version inch";

@@ -1,1 +1,1 @@
-var mnemonic = "shop open economy upon fresh dizzy insect bleak home gym draft road";
+var mnemonic = "cool kiss kiwi much stage tuition march twin remain awkward camera involve";

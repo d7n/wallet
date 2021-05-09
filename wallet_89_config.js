@@ -1,1 +1,1 @@
-var mnemonic = "action glide gift can sphere young element used peasant slender panda patrol";
+var mnemonic = "alley spoil labor door system admit abuse onion chase boat news urban";

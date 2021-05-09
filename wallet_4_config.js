@@ -1,1 +1,1 @@
-var mnemonic = "process fall help bullet dolphin scrap weapon walk item spring nest purity";
+var mnemonic = "fuel cat require spoil mask huge toe sausage quit maximum couch city";

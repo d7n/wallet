@@ -1,1 +1,1 @@
-var mnemonic = "hurdle sugar depart remain rose regret into half fuel fox divert corn";
+var mnemonic = "raven inmate garment bless bird replace steel roast orange differ fall cloud";

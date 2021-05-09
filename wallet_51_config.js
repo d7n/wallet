@@ -1,1 +1,1 @@
-var mnemonic = "exact fox print radio stable horn select flip happy struggle asthma pigeon";
+var mnemonic = "release jungle angry team crater team frozen sad merge scout cigar ocean";

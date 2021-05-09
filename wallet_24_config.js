@@ -1,1 +1,1 @@
-var mnemonic = "buddy elbow galaxy feature cotton slim turkey saddle weapon sight robust cliff";
+var mnemonic = "plug region interest hub poet radar knock blame rather apple refuse paddle";

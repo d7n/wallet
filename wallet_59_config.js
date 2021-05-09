@@ -1,1 +1,1 @@
-var mnemonic = "lottery water electric soon honey world lesson will citizen refuse token ocean";
+var mnemonic = "device cactus critic fly device urge glad topple elite cannon question know";

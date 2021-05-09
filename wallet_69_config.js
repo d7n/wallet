@@ -1,1 +1,1 @@
-var mnemonic = "warfare slight category foster room rubber core large august favorite mind orange";
+var mnemonic = "squirrel speak leave taste gather grit mosquito sponsor scheme truly amateur novel";

@@ -1,1 +1,1 @@
-var mnemonic = "original plug message garment curious lunch balcony bag sing clip derive acid";
+var mnemonic = "cage bless scissors slab predict tray hen opera burden scrub submit mask";

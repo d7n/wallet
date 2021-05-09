@@ -1,1 +1,1 @@
-var mnemonic = "breeze neither ship salon empty easily erode wrong accuse adult okay sand";
+var mnemonic = "hello vibrant reopen one unusual swarm divert angle skin citizen sport first";

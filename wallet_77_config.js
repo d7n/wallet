@@ -1,1 +1,1 @@
-var mnemonic = "fantasy script act ceiling drift process shuffle peasant father toddler zone hospital";
+var mnemonic = "lottery repair brick bottom stay depend glimpse bone napkin peanut assault october";

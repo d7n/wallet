@@ -1,1 +1,1 @@
-var mnemonic = "olympic swear oppose mansion echo rely dismiss come grow black hazard ramp";
+var mnemonic = "method gadget minor broccoli one recipe second still island know velvet tunnel";

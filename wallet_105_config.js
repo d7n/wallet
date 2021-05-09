@@ -1,1 +1,1 @@
-var mnemonic = "angry disease talk twin comic pear force increase solid interest shoulder luggage";
+var mnemonic = "blanket alpha fury gift original setup month outdoor unable dismiss bag enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "estate foster rhythm spatial act bone grant inquiry name ivory travel spread";
+var mnemonic = "rug differ imitate lion attack card century train endorse frog hurdle profit";

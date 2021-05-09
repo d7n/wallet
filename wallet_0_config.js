@@ -1,1 +1,1 @@
-var mnemonic = "amount bench salute hold rack morning leisure jelly promote indoor later female";
+var mnemonic = "spring help swallow enter math century lucky feed keep fee bar trouble";

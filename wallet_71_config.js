@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit addict blame speed mean okay item inch urban expand two collect";
+var mnemonic = "lecture chat tennis put travel beauty jaguar tackle inmate divide slight hand";

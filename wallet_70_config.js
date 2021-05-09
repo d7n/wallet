@@ -1,1 +1,1 @@
-var mnemonic = "fox hazard volume zone cause double simple disorder dry soda orchard theory";
+var mnemonic = "artefact kiss account security lobster awake seed resemble agent father harsh exercise";

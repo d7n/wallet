@@ -1,1 +1,1 @@
-var mnemonic = "burden impact canyon regular kitten stereo puppy fix runway anxiety ready pole";
+var mnemonic = "desk train strike example you clerk abandon sweet muffin tape hockey primary";

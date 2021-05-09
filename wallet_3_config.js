@@ -1,1 +1,1 @@
-var mnemonic = "number few swallow replace fence busy spray nose net impose fabric crawl";
+var mnemonic = "build eagle rent goose frown trend obscure wagon must frequent rain total";

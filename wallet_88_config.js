@@ -1,1 +1,1 @@
-var mnemonic = "size bone chalk owner juice defy harvest broom prevent common strong praise";
+var mnemonic = "modify lyrics comfort winner legend grow motor rebel roast loud badge erase";

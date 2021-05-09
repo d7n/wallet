@@ -1,1 +1,1 @@
-var mnemonic = "situate supreme river usual legal fatal zero march favorite shoulder today repeat";
+var mnemonic = "coffee opera when very all control track shoot tell chase main album";

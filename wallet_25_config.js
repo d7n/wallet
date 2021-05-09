@@ -1,1 +1,1 @@
-var mnemonic = "notice clown health honey mother orient shoulder emerge galaxy common already paper";
+var mnemonic = "survey tiger apart spring adult permit surprise pencil acid task lend assist";

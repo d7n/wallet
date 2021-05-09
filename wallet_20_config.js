@@ -1,1 +1,1 @@
-var mnemonic = "permit daughter energy day spare magic problem wave win afford term trash";
+var mnemonic = "correct into model despair spoon buyer call suffer divorce clump finger school";

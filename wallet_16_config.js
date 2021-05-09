@@ -1,1 +1,1 @@
-var mnemonic = "away town buffalo tell size hamster album flower predict now right zero";
+var mnemonic = "lyrics tide puzzle media diary profit farm maid wheat shrug trumpet topple";

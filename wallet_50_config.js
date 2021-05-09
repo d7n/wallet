@@ -1,1 +1,1 @@
-var mnemonic = "fix cruise physical trap harbor outdoor manage glide grain bunker bounce mouse";
+var mnemonic = "industry elite chronic exchange client weather pig ripple juice fine air age";

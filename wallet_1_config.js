@@ -1,1 +1,1 @@
-var mnemonic = "march crop section awake market front library weather hint horror arm public";
+var mnemonic = "amused quote rug knife column hope tape cushion unfold flip prosper middle";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer pen undo vicious mansion seed shift release wheel include mystery hammer";
+var mnemonic = "glue impose pioneer amount thank clinic promote transfer rebuild maid inflict soup";

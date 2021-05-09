@@ -1,1 +1,1 @@
-var mnemonic = "master sock buyer vacant want speed subject agent athlete dolphin chest gospel";
+var mnemonic = "traffic van snake inner item often gift crew dolphin rose great away";

@@ -1,1 +1,1 @@
-var mnemonic = "hen eye curious blue motion subject treat share advice travel torch veteran";
+var mnemonic = "slogan scorpion era initial dinosaur run cereal allow few repeat sugar remember";

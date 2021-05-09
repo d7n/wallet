@@ -1,1 +1,1 @@
-var mnemonic = "faith monster dance wash damp must average vacant mandate embrace believe eternal";
+var mnemonic = "whisper three town jazz tiny local regret frequent armed embrace pupil maid";
