@@ -1,1 +1,1 @@
-var mnemonic = "group range refuse where elegant hero space jewel gold unlock define inside";
+var mnemonic = "staff home remind smoke shy sibling lecture spoon spot antique silver example";

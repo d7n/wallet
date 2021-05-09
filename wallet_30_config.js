@@ -1,1 +1,1 @@
-var mnemonic = "note butter museum hub gallery please extend luxury rack inhale seven culture";
+var mnemonic = "brush derive tattoo wisdom jump tissue wage beach stumble wrestle gather category";

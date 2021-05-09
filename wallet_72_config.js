@@ -1,1 +1,1 @@
-var mnemonic = "surprise fortune top task easily journey know purpose prevent upper reject wonder";
+var mnemonic = "version round staff blush list sunset waste bacon reflect orchard ten arch";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket replace wheel age view property cube verify early camp matter rule";
+var mnemonic = "barely speak venue run travel easily scan cruel rice moon talk hold";

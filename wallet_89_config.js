@@ -1,1 +1,1 @@
-var mnemonic = "they claim arrive youth guide fence marble strike silent river tattoo fantasy";
+var mnemonic = "wink theory scan okay code coconut attract shoot chicken minute slush pony";

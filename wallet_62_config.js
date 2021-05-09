@@ -1,1 +1,1 @@
-var mnemonic = "brief floor warm mom bridge undo furnace interest dance donate cart define";
+var mnemonic = "width rifle melt this tobacco magnet lamp truth work pelican citizen van";

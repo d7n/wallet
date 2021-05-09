@@ -1,1 +1,1 @@
-var mnemonic = "economy detect rail income sea worth novel again moon potato term situate";
+var mnemonic = "current fade final credit depend burst flavor change refuse enable ritual route";

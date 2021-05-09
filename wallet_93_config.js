@@ -1,1 +1,1 @@
-var mnemonic = "sustain same hub device chef canvas put scene place frost social excite";
+var mnemonic = "answer spare tomorrow silent such toss early spell pilot aunt zero nerve";

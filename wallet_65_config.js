@@ -1,1 +1,1 @@
-var mnemonic = "naive cargo tortoise abstract garbage apple slot raw stereo release edge fever";
+var mnemonic = "tip slide awful pepper route ability portion detect tone shrug such crater";

@@ -1,1 +1,1 @@
-var mnemonic = "shy forward vehicle undo follow hidden issue pumpkin coral ankle robot tooth";
+var mnemonic = "what harvest scene rain depend female adult shrimp impulse voice curious expose";

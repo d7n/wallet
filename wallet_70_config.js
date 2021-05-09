@@ -1,1 +1,1 @@
-var mnemonic = "siren trigger door keen modify random boat exotic large excess venue turtle";
+var mnemonic = "goddess custom electric tragic tilt budget cattle marine axis report used yard";

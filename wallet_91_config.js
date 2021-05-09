@@ -1,1 +1,1 @@
-var mnemonic = "snap wreck load unaware bomb remain gown duty cave merry elephant tunnel";
+var mnemonic = "vivid sound illness undo aim shoot ancient seed defense pluck pelican say";

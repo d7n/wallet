@@ -1,1 +1,1 @@
-var mnemonic = "ecology image cave tattoo film between true champion chest address solid train";
+var mnemonic = "apple vocal miracle wish razor gather message about trend climb original render";

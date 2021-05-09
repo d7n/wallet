@@ -1,1 +1,1 @@
-var mnemonic = "peanut burst flame wing access follow hero diary kite music fossil toddler";
+var mnemonic = "barrel rare approve diesel load ridge crazy review metal wool brain brief";

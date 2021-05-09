@@ -1,1 +1,1 @@
-var mnemonic = "scissors cricket series dismiss soon favorite opinion oak cross silly dog general";
+var mnemonic = "path glue chase school square job pet farm inspire cycle casual month";

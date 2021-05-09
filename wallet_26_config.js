@@ -1,1 +1,1 @@
-var mnemonic = "tribe mosquito spray barrel rocket digital length congress ancient spell ten anchor";
+var mnemonic = "worry knee purpose stove code involve clerk place payment bomb denial mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "until antique pluck pass grant trouble purse net comfort author olive mercy";
+var mnemonic = "yellow punch confirm carpet cereal gauge answer universe hour kiss naive loan";

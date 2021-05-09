@@ -1,1 +1,1 @@
-var mnemonic = "usual change wet once awful main tribe program fruit furnace ride setup";
+var mnemonic = "leg sell employ catch habit december floor claim stock organ logic add";

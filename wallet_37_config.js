@@ -1,1 +1,1 @@
-var mnemonic = "cry ticket animal leopard industry pave shiver soul symbol during chuckle fall";
+var mnemonic = "pony among inflict unfair inch october session demise lady size kiss squirrel";

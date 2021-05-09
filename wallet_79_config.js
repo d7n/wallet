@@ -1,1 +1,1 @@
-var mnemonic = "bottom quantum blind choose dynamic slab drift lift credit feature wash tiger";
+var mnemonic = "six eyebrow access coin find virtual current cruise vessel fury argue episode";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff try sunny warrior fire subject antique rule sheriff lizard believe onion";
+var mnemonic = "thank fault elegant lady junk hour worth siren brick poem engage object";

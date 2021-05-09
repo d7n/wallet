@@ -1,1 +1,1 @@
-var mnemonic = "stage distance chunk need stand gown alpha valid best knife grief tomorrow";
+var mnemonic = "either dose artist mail beach mango differ use waste program develop hill";

@@ -1,1 +1,1 @@
-var mnemonic = "rate denial wreck toast vague casino joke chase copper family relax juice";
+var mnemonic = "custom visa joke civil great vast animal misery ski device avoid solar";

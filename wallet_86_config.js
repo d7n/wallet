@@ -1,1 +1,1 @@
-var mnemonic = "what grace language plunge mechanic crunch badge receive predict scorpion clock machine";
+var mnemonic = "ghost benefit screen sign sudden napkin hungry image trigger sing crater rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "cable penalty rotate goose unlock kind total excess treat tired isolate please";
+var mnemonic = "crazy portion save ready puppy rough coffee wear silent also daughter fetch";

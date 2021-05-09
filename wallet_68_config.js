@@ -1,1 +1,1 @@
-var mnemonic = "legend shadow jaguar sign multiply chase vague security casual awful lend mandate";
+var mnemonic = "minute quality love radio visa maple prefer slender female cool flock price";

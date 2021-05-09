@@ -1,1 +1,1 @@
-var mnemonic = "mobile pride proud warm feed flush sure grid anchor mixed stay over";
+var mnemonic = "boring damp plug inmate arctic supreme rule soldier unaware borrow seat ankle";

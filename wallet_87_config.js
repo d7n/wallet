@@ -1,1 +1,1 @@
-var mnemonic = "action cute hockey release open exotic aware universe animal congress require awesome";
+var mnemonic = "sample control cash jump physical ancient rabbit ring grunt bomb intact donkey";

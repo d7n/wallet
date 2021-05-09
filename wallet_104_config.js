@@ -1,1 +1,1 @@
-var mnemonic = "permit depth bulk path shop scan gospel bunker ocean gather final coast";
+var mnemonic = "patient federal sure cat easy sight matrix blue oil federal portion boost";

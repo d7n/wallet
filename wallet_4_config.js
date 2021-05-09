@@ -1,1 +1,1 @@
-var mnemonic = "swing castle cause bus dose dolphin toss stove again estate mule scrap";
+var mnemonic = "decide world border enlist one resist arrest sunny obey control strong loan";

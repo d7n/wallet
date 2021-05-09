@@ -1,1 +1,1 @@
-var mnemonic = "radio such scheme asset glad type couple tribe submit omit weasel make";
+var mnemonic = "obey fever journey dove obvious magnet coral timber jeans payment claw choice";

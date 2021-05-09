@@ -1,1 +1,1 @@
-var mnemonic = "comic fabric napkin hidden wasp home economy walk truck list over lottery";
+var mnemonic = "rail lumber finish cruel art tuna wood during scene silent matrix keep";

@@ -1,1 +1,1 @@
-var mnemonic = "govern perfect like filter report custom obvious practice tobacco window permit waste";
+var mnemonic = "possible sadness exchange sleep cupboard pen enlist episode pause fluid urban creek";

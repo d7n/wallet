@@ -1,1 +1,1 @@
-var mnemonic = "when rapid risk typical cake apple manage color neutral ticket keen proof";
+var mnemonic = "badge flush elephant goat swift add balcony bag other throw ticket pencil";

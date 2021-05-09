@@ -1,1 +1,1 @@
-var mnemonic = "climb very grape clay monitor sting retire million join diagram repeat world";
+var mnemonic = "shift resemble record oil destroy tortoise can column decade divorce chicken goose";

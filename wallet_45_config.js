@@ -1,1 +1,1 @@
-var mnemonic = "soap soda ladder remember charge topic whisper whip pupil seat scrap soul";
+var mnemonic = "depth second such blind hero wing walk auction rail knock elder bullet";

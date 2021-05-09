@@ -1,1 +1,1 @@
-var mnemonic = "remove critic demise face capable pattern cook enact future crazy pilot guess";
+var mnemonic = "circle badge rookie still tackle again unhappy banana float found typical claim";

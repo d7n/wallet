@@ -1,1 +1,1 @@
-var mnemonic = "column gun kind month shuffle interest rival urban poverty risk blood steel";
+var mnemonic = "inmate gesture deposit guess climb mansion chuckle salute junk cute area high";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn slogan rally claim range ankle weasel bird auction boring agree desk";
+var mnemonic = "relief pause salmon verify naive detail adult cluster render obey chicken idle";

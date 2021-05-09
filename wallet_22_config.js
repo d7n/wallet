@@ -1,1 +1,1 @@
-var mnemonic = "design volume fire monitor athlete offer naive reveal flash document leaf proud";
+var mnemonic = "base economy super grass cherry because vintage melody ghost castle mosquito pony";

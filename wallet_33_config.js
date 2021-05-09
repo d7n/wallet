@@ -1,1 +1,1 @@
-var mnemonic = "fetch change vintage other salt unusual snack air strike axis blossom hedgehog";
+var mnemonic = "gadget output panther lawsuit ancient remove champion cheap another security palace seat";

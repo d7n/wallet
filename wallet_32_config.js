@@ -1,1 +1,1 @@
-var mnemonic = "fence myself harsh wide produce clay turkey super biology elder fancy olive";
+var mnemonic = "wife year betray escape matter pride garment senior razor worth ugly chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse laundry cool else audit welcome state target level logic off relax";
+var mnemonic = "fresh tired midnight quit beef style silent goat uniform patient deposit surprise";

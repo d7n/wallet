@@ -1,1 +1,1 @@
-var mnemonic = "raccoon unknown veteran attend chalk fluid street obvious source mechanic solve topic";
+var mnemonic = "awful radar depart tag cloth result dismiss wine marine blanket eager slush";

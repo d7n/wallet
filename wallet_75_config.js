@@ -1,1 +1,1 @@
-var mnemonic = "deal grit empty congress this raven profit voice scatter blouse fault belt";
+var mnemonic = "truly scissors service lawsuit vocal rain convince silly spot adjust word joke";

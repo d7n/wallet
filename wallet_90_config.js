@@ -1,1 +1,1 @@
-var mnemonic = "nest patch story crush across robot rail gather unit face usage impulse";
+var mnemonic = "into major game evidence clutch scout sweet disease public aerobic gallery crystal";

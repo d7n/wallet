@@ -1,1 +1,1 @@
-var mnemonic = "vicious tell jump citizen sun nice narrow author rubber radar danger sword";
+var mnemonic = "solution exact seek excite nature become shield lumber awkward power pass topic";

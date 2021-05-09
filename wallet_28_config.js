@@ -1,1 +1,1 @@
-var mnemonic = "lend siren evoke stable theory lawsuit survey surge barely mind antique resource";
+var mnemonic = "fun obtain public vacant eyebrow cover allow coral yellow axis tree casual";

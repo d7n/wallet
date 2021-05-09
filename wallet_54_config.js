@@ -1,1 +1,1 @@
-var mnemonic = "brisk bounce initial lobster crouch fuel lock patch tip paper exhibit dance";
+var mnemonic = "squeeze proud grant annual fiber shiver pizza close cancel tongue render enjoy";

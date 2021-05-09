@@ -1,1 +1,1 @@
-var mnemonic = "horror climb sustain enhance silent test evolve volcano tower afford have public";
+var mnemonic = "share tornado since badge write rare grid lawn regret jealous guitar lunar";

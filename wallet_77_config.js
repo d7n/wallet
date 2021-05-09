@@ -1,1 +1,1 @@
-var mnemonic = "video eight when clarify enrich gallery false clinic arrange purpose novel banana";
+var mnemonic = "ignore minimum cute win chaos debris pitch route jump neglect donkey panic";

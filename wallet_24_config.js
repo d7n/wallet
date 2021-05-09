@@ -1,1 +1,1 @@
-var mnemonic = "project spy buffalo tired over cost vague math lecture saddle person sample";
+var mnemonic = "gasp tent drive farm card seat cook hawk alarm club swarm office";

@@ -1,1 +1,1 @@
-var mnemonic = "stage bachelor execute audit mobile apple photo cup present fold abstract bike";
+var mnemonic = "nose wasp twenty unveil domain piece struggle razor glory ability suit enough";

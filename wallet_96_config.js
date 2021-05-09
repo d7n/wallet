@@ -1,1 +1,1 @@
-var mnemonic = "bid actress merry client hedgehog pulp happy winner digital dash source joy";
+var mnemonic = "film merge aisle crawl body element arm hotel sample mother car parrot";

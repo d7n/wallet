@@ -1,1 +1,1 @@
-var mnemonic = "only museum sing solid curious media inflict perfect swallow join idea armed";
+var mnemonic = "timber marriage clever mouse width tool sweet warm comfort uncle frog leg";

@@ -1,1 +1,1 @@
-var mnemonic = "tone evolve fall tourist volume swim wage between vessel famous return chaos";
+var mnemonic = "brisk scare burst quantum desk hen stomach much degree drill aspect raise";

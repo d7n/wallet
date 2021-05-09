@@ -1,1 +1,1 @@
-var mnemonic = "approve nothing pulp recall school federal disorder special swing poverty cube husband";
+var mnemonic = "rail fossil famous occur tip gown century rule luxury sell ring embark";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon trigger achieve also click cross lecture scene jar harbor noodle twice";
+var mnemonic = "fish sample fatal hedgehog planet fiber because act gauge suggest excess enrich";

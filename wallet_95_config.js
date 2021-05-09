@@ -1,1 +1,1 @@
-var mnemonic = "stone dash mandate dance sheriff learn lemon oyster will cream vintage venue";
+var mnemonic = "stamp alone output blood desert cup purpose vendor victory garage olive shadow";

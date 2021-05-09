@@ -1,1 +1,1 @@
-var mnemonic = "divide weasel electric you decide rare bind sing sausage road rack barely";
+var mnemonic = "rally next dynamic shell blade scatter trust glow sibling parade glide aunt";

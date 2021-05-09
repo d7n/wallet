@@ -1,1 +1,1 @@
-var mnemonic = "occur duty dinosaur behind want little aim east pigeon genre arch dragon";
+var mnemonic = "member circle found script uncover iron tiny fat abuse pudding monitor isolate";

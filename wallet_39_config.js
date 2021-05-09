@@ -1,1 +1,1 @@
-var mnemonic = "broom language cinnamon truck drastic foil width explain hill surround culture mom";
+var mnemonic = "earth audit unveil tumble supply hand group badge excess peace scrap solve";

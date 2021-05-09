@@ -1,1 +1,1 @@
-var mnemonic = "slow review park success swim shallow tunnel vital noise first visual response";
+var mnemonic = "fantasy unlock come elder distance hurt shed wrist tuna stay tag afraid";

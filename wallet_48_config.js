@@ -1,1 +1,1 @@
-var mnemonic = "junk axis muffin crucial open flush bottom credit cement eager convince fish";
+var mnemonic = "invest dinner call bullet kind rather toss nominee awkward used noise recall";

@@ -1,1 +1,1 @@
-var mnemonic = "leg grape energy tackle century silent lesson novel oblige fitness any desert";
+var mnemonic = "fat traffic off best exist humor destroy nothing person alley cage allow";

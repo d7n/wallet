@@ -1,1 +1,1 @@
-var mnemonic = "gaze unhappy airport siren skirt recall smoke stay staff staff lock candy";
+var mnemonic = "arrange angry leave permit print roast shallow cliff also replace traffic outer";

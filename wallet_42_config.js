@@ -1,1 +1,1 @@
-var mnemonic = "charge flight forest candy miss core immune chronic mimic frog drip miracle";
+var mnemonic = "bamboo audit hawk rifle hazard grit march carpet valid kid sample recipe";

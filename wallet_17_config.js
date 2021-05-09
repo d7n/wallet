@@ -1,1 +1,1 @@
-var mnemonic = "lake model water tennis possible husband library sweet alarm giggle clerk popular";
+var mnemonic = "pull cross weapon helmet destroy company love curtain clog raw wheel deliver";

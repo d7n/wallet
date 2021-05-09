@@ -1,1 +1,1 @@
-var mnemonic = "empty scan outdoor ice wall unit paddle pupil damage giraffe exist laundry";
+var mnemonic = "home code corn love street wave spawn fish live text reason swift";

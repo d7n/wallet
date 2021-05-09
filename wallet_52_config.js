@@ -1,1 +1,1 @@
-var mnemonic = "often nature cradle spawn fun capable come agent bone priority purchase virtual";
+var mnemonic = "december modify force music infant erosion tail domain prison access frost wave";

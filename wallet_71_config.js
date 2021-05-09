@@ -1,1 +1,1 @@
-var mnemonic = "warrior balcony exhibit mesh upper very opinion glory vapor wisdom deputy surge";
+var mnemonic = "palm sketch innocent gap ensure favorite prison surprise small rigid uniform ill";

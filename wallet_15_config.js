@@ -1,1 +1,1 @@
-var mnemonic = "isolate female maid foil mango increase giant broccoli fresh gain method document";
+var mnemonic = "region result barely lift invite cattle enough size fiscal fiber train ladder";

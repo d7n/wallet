@@ -1,1 +1,1 @@
-var mnemonic = "upper debris remind raccoon document torch junk easy path dice uphold caught";
+var mnemonic = "nature nation mechanic sleep lazy hazard liberty embark prosper melt purchase target";

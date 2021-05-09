@@ -1,1 +1,1 @@
-var mnemonic = "multiply hybrid glare erase supreme item access patch kingdom gun boat place";
+var mnemonic = "ask wrap rotate metal vault slam dragon merge garden over outer swim";

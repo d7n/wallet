@@ -1,1 +1,1 @@
-var mnemonic = "narrow strike jar middle ride sunny path sheriff dream tail swamp narrow";
+var mnemonic = "this draft speed destroy kid account connect february off prevent retire steak";

@@ -1,1 +1,1 @@
-var mnemonic = "jar hello seat tag come emerge number whip potato raise question cat";
+var mnemonic = "flock aerobic tag ivory patch clinic insane lion abstract among trust buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "bind sister excite smile dove jar example recall drive arch hedgehog plastic";
+var mnemonic = "lend fault say chuckle spider traffic injury hunt adapt bunker rookie infant";

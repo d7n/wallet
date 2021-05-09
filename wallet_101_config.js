@@ -1,1 +1,1 @@
-var mnemonic = "actor cheap radio copy pave flock top fetch crack note trap rescue";
+var mnemonic = "fortune garbage rubber yellow dignity brain skin squirrel trumpet account flat cake";

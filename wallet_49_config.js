@@ -1,1 +1,1 @@
-var mnemonic = "head north crime tide nest change duty wheel fade ticket dress soft";
+var mnemonic = "lady defense vintage pulse focus dismiss judge steel fee chat job mirror";

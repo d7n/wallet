@@ -1,1 +1,1 @@
-var mnemonic = "chase ability save book find ensure crisp kitchen item forum radio urge";
+var mnemonic = "beyond festival sword render tail blood slender cement use fix olympic warm";

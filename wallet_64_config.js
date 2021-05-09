@@ -1,1 +1,1 @@
-var mnemonic = "prepare dream tomorrow jelly corn essay bunker nominee gather order nurse salt";
+var mnemonic = "there embrace time betray point across turtle stand garbage illegal month gravity";

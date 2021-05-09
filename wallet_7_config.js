@@ -1,1 +1,1 @@
-var mnemonic = "account ready payment lesson crazy text kitten shadow ride flash upset fix";
+var mnemonic = "glue rough wall enable popular myth ocean average casino palace law wall";

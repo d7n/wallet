@@ -1,1 +1,1 @@
-var mnemonic = "afford scatter unfold you room desert swing poem fly text exit dumb";
+var mnemonic = "extend carbon echo rate fragile enjoy forget iron few edge artwork cabbage";

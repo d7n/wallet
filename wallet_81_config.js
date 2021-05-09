@@ -1,1 +1,1 @@
-var mnemonic = "roof camera where glimpse useful object evolve type replace convince pave buzz";
+var mnemonic = "ketchup tobacco fish wave vital real when beef deliver pull blast ripple";

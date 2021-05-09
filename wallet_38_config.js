@@ -1,1 +1,1 @@
-var mnemonic = "analyst clarify ready dial reveal rule turn force wood wheat sight enjoy";
+var mnemonic = "else enter bullet little hand average artefact script try swarm essay myth";

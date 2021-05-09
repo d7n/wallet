@@ -1,1 +1,1 @@
-var mnemonic = "behave walnut eagle glance brain weather noise state pet cruel demand hold";
+var mnemonic = "first cruise lesson grief solar wink mom truth usage traffic you harvest";

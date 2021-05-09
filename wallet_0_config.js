@@ -1,1 +1,1 @@
-var mnemonic = "eight young august sell olive treat large square churn train where now";
+var mnemonic = "subway include payment lock saddle scout wrist chronic couch elegant fantasy empty";

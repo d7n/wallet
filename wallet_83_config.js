@@ -1,1 +1,1 @@
-var mnemonic = "hazard pelican proof charge liquid laundry fan decade during hobby trip topple";
+var mnemonic = "sausage sausage grape kidney toward during baby heavy portion inmate bless machine";

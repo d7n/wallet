@@ -1,1 +1,1 @@
-var mnemonic = "culture they paper episode idea tongue slender child engine judge vicious valve";
+var mnemonic = "shoe grab entire scale cupboard cave push frost digital lounge pink list";
