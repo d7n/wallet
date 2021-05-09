@@ -1,1 +1,1 @@
-var mnemonic = "attract excess piece issue mango bitter disorder debris lunch glue dizzy width";
+var mnemonic = "wealth link fish dinner tortoise right mixed quiz face distance possible mesh";

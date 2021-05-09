@@ -1,1 +1,1 @@
-var mnemonic = "jelly height left expand glove pluck virus relax dismiss donor broccoli affair";
+var mnemonic = "purpose village feed before power bridge twice angry trim slot decorate anger";

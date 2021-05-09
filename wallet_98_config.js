@@ -1,1 +1,1 @@
-var mnemonic = "badge twenty area fever west punch jacket depend shock topic moon combine";
+var mnemonic = "predict benefit stamp diet typical once long august dove coral empower tool";

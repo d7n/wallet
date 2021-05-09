@@ -1,1 +1,1 @@
-var mnemonic = "young topple rubber frog shed casino victory verify unaware pottery behind sport";
+var mnemonic = "wide annual peace hope very flavor inside outside neck ketchup fork result";

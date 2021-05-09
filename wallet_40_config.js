@@ -1,1 +1,1 @@
-var mnemonic = "either when auto gift mesh put impact thank initial rival lobster aerobic";
+var mnemonic = "caught solve oil crush prize rapid magic cycle symbol holiday reflect increase";

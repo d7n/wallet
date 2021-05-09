@@ -1,1 +1,1 @@
-var mnemonic = "purpose author cluster bone another embody evidence mind winter impulse soldier gain";
+var mnemonic = "dismiss intact change giant enhance stamp coffee margin daughter erupt once panda";

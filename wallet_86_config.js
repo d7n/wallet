@@ -1,1 +1,1 @@
-var mnemonic = "salute asthma broccoli sorry pencil penalty fetch business domain warrior solve install";
+var mnemonic = "liar party spike tuition country leave narrow cute outside vapor wide priority";

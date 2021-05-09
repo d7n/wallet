@@ -1,1 +1,1 @@
-var mnemonic = "kite define cake conduct access faint cat clump setup skull wear album";
+var mnemonic = "rapid body allow advance cause try snap defy news grief creek reform";

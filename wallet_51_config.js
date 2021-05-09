@@ -1,1 +1,1 @@
-var mnemonic = "above stable doctor example second engage manual solid marble onion ahead board";
+var mnemonic = "remove abstract gadget cargo vacant sell order armed frozen wonder market mind";

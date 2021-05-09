@@ -1,1 +1,1 @@
-var mnemonic = "stairs enroll rural hobby define among coffee ship grow awful orient repeat";
+var mnemonic = "machine explain leaf cloth purpose sorry fringe mobile focus fly drill shield";

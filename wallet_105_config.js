@@ -1,1 +1,1 @@
-var mnemonic = "runway arena hockey light size divide yard hurry model boy display salute";
+var mnemonic = "vanish evil perfect before arch ivory task magic toy nose insect spawn";

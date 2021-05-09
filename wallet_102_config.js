@@ -1,1 +1,1 @@
-var mnemonic = "resist deliver cabbage balance garden hub remind tool couch evolve cereal twenty";
+var mnemonic = "toilet paper wheel alien rather figure laptop guitar later follow cage blush";

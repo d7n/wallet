@@ -1,1 +1,1 @@
-var mnemonic = "napkin airport height tourist fee please misery ride crystal first nuclear filter";
+var mnemonic = "welcome youth clever spider addict icon hill fog isolate point fitness scrap";

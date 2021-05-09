@@ -1,1 +1,1 @@
-var mnemonic = "soft napkin gadget review plunge rigid donor party mad galaxy volcano twice";
+var mnemonic = "net asset pause park imitate roof punch frozen jacket fitness fossil kiss";

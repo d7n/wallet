@@ -1,1 +1,1 @@
-var mnemonic = "theme radar table danger weapon cruel tomato chest cement catalog fetch there";
+var mnemonic = "state tonight hobby harbor all space attend misery wrist razor grit crop";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin ranch leisure snap runway reflect shaft kind pill chicken panel change";
+var mnemonic = "duck tomorrow harvest attend nut host bone lunch fury hammer poet pattern";

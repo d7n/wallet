@@ -1,1 +1,1 @@
-var mnemonic = "release engine little quarter rib affair motor suggest mango virtual random game";
+var mnemonic = "rate case dash ripple radar throw equip stable stadium genre ceiling bomb";

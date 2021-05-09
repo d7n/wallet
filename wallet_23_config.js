@@ -1,1 +1,1 @@
-var mnemonic = "trust ecology beef album merge bright alpha letter track one stem globe";
+var mnemonic = "armed dignity festival tennis smile wagon apart moral mobile end during copper";

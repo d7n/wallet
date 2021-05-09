@@ -1,1 +1,1 @@
-var mnemonic = "lady salad run online elbow rail pumpkin chunk renew awful exit host";
+var mnemonic = "teach crash chronic metal mail song tortoise bottom hawk mountain romance chat";

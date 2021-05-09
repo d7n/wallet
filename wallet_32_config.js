@@ -1,1 +1,1 @@
-var mnemonic = "coin ranch figure rookie wet witness album sweet casino monster crazy lumber";
+var mnemonic = "sense arena sense pole three carpet lounge danger nature raccoon appear alcohol";

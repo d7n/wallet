@@ -1,1 +1,1 @@
-var mnemonic = "switch real mosquito kid cave gun bronze estate then insane awake any";
+var mnemonic = "material view cook common column stuff issue today destroy arrest sadness design";

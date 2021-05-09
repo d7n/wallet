@@ -1,1 +1,1 @@
-var mnemonic = "sight invest ethics force gift melody affair jewel vicious outside tank loop";
+var mnemonic = "bean quote hobby staff drop have debate alone story weather slow metal";

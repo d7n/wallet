@@ -1,1 +1,1 @@
-var mnemonic = "bind matter patient kidney finger arrange jeans elder among agent cover twice";
+var mnemonic = "brisk sugar tattoo already muffin scrap used space smoke hedgehog hope screen";

@@ -1,1 +1,1 @@
-var mnemonic = "primary endorse foster cycle solve first motor already total setup churn away";
+var mnemonic = "extra almost uphold legend wheat choice brief eyebrow embark cactus polar reform";

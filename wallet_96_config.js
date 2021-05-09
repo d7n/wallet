@@ -1,1 +1,1 @@
-var mnemonic = "neck identify deputy matrix unique amazing meat behave supreme marine envelope female";
+var mnemonic = "wear whip cry kingdom fence mechanic cabbage atom puppy express install labor";

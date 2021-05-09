@@ -1,1 +1,1 @@
-var mnemonic = "love remain display dice shadow alert found select artefact glow educate neither";
+var mnemonic = "beach spoon actress kind alien arch upper wrap amount hello route betray";

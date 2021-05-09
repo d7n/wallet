@@ -1,1 +1,1 @@
-var mnemonic = "erosion snack pull betray air acid arrow rebuild math pen coach lunar";
+var mnemonic = "rate yellow cactus myth syrup purse lizard animal chief adapt dumb acoustic";

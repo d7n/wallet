@@ -1,1 +1,1 @@
-var mnemonic = "stone boost page federal deny cruise olive belt crazy bonus drum fly";
+var mnemonic = "bench bean level evidence frog kingdom laptop echo romance lyrics remind tape";

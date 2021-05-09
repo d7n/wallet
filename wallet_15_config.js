@@ -1,1 +1,1 @@
-var mnemonic = "garlic wedding bullet tower debate pave glare into game sock circle rotate";
+var mnemonic = "pause brown forget sponsor churn puppy clean muscle head elite myth zero";

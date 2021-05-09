@@ -1,1 +1,1 @@
-var mnemonic = "exchange exclude library merry phrase present three pass unknown pluck pupil citizen";
+var mnemonic = "account mimic neither ginger tube essay seat stamp flush omit bacon update";

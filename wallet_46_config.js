@@ -1,1 +1,1 @@
-var mnemonic = "jacket enrich vendor eight penalty trumpet road drip either inflict person hard";
+var mnemonic = "garment solve shallow fragile hybrid oyster lizard pupil slush edge heart buyer";

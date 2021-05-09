@@ -1,1 +1,1 @@
-var mnemonic = "retreat inject trash range strategy today fatal pond fancy venue length flush";
+var mnemonic = "acquire enemy retreat sausage consider answer clinic home seven hair protect ice";

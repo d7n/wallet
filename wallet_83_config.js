@@ -1,1 +1,1 @@
-var mnemonic = "chest sign brand use rubber ship phrase alpha floor gossip burst jump";
+var mnemonic = "effort mercy maid girl enroll supply primary insect love maximum turkey rely";

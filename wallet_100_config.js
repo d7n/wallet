@@ -1,1 +1,1 @@
-var mnemonic = "topple youth better foam decrease noble solve retire renew bonus common depend";
+var mnemonic = "green cousin ecology fragile guess river celery gentle swamp flock resource result";

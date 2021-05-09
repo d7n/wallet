@@ -1,1 +1,1 @@
-var mnemonic = "manual syrup hair delay champion build pen until silly elder spy engine";
+var mnemonic = "ride desert prepare rifle void squirrel grit remind beef undo zebra book";

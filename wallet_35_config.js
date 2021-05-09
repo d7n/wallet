@@ -1,1 +1,1 @@
-var mnemonic = "tackle fall able ball hollow section scrap horn keen stumble vicious road";
+var mnemonic = "front found fuel saddle hurt guess mango forum floor account describe leader";

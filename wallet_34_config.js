@@ -1,1 +1,1 @@
-var mnemonic = "reveal note stay all extend notable sick wait gain bacon legend now";
+var mnemonic = "depth join keep toss rack bubble gift under wrestle enhance indoor hello";

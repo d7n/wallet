@@ -1,1 +1,1 @@
-var mnemonic = "bench flock settle hospital range apology current credit shrug sick major square";
+var mnemonic = "crime marine shine push lake charge film into gown clown park sunny";

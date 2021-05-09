@@ -1,1 +1,1 @@
-var mnemonic = "glide siren teach fortune onion broken thunder manual diet picture achieve target";
+var mnemonic = "payment mail museum solution area leisure lyrics bid habit history pyramid pill";

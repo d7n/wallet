@@ -1,1 +1,1 @@
-var mnemonic = "economy cherry trim also endorse slush surge used gorilla mind meat wage";
+var mnemonic = "badge include popular symbol oblige toss ride cabin bulk link mercy elephant";

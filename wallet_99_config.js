@@ -1,1 +1,1 @@
-var mnemonic = "salmon trim gold swamp mesh regret human motion hood curious pear breeze";
+var mnemonic = "enact salon satoshi net night tree video cheap hamster disease smile planet";

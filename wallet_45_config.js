@@ -1,1 +1,1 @@
-var mnemonic = "neglect imitate olympic enforce orange armed eagle awful mutual glare transfer author";
+var mnemonic = "unhappy hobby fan morning figure side banner speed repair amateur equip toilet";

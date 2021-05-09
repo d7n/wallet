@@ -1,1 +1,1 @@
-var mnemonic = "response giant rebel enroll almost day road tip buyer expose work company";
+var mnemonic = "seat frozen tag absorb income obey mad license mule mesh session illegal";

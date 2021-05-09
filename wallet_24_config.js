@@ -1,1 +1,1 @@
-var mnemonic = "regret code turkey profit myth promote disease club token romance fragile entry";
+var mnemonic = "trick pulp ostrich laundry awake grit stuff type virtual rather atom visit";

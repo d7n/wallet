@@ -1,1 +1,1 @@
-var mnemonic = "spirit worry palm imitate veteran zone intact tilt tattoo silent below today";
+var mnemonic = "tomorrow address little tooth olympic steel laugh deer segment charge copper correct";

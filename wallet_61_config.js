@@ -1,1 +1,1 @@
-var mnemonic = "winter stand invest truth jazz property mention curve innocent powder eager brand";
+var mnemonic = "sign message fly million topic account glory powder bomb length chunk turtle";

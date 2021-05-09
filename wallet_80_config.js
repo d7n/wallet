@@ -1,1 +1,1 @@
-var mnemonic = "miss poem fold dad behave toddler divorce item frost sound various pass";
+var mnemonic = "surprise repair leisure cart opera rent define lab over wink license artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "income company oil enter hill talk diesel spice lawsuit state key talent";
+var mnemonic = "foam identify wash cancel ladder angry stumble pelican tide garage surface blush";

@@ -1,1 +1,1 @@
-var mnemonic = "popular machine sea dwarf picture soda fog head control cricket pudding ethics";
+var mnemonic = "simple alpha tell milk deposit double trick friend toast business robust reflect";

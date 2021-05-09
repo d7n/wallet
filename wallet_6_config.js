@@ -1,1 +1,1 @@
-var mnemonic = "sheriff promote fan crime jewel feed keep give flash snack story spoon";
+var mnemonic = "maze hobby goose zero ugly wagon fade prison coffee camera owner mention";

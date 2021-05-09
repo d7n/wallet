@@ -1,1 +1,1 @@
-var mnemonic = "bacon dignity shine symbol shell interest solution beauty insect jaguar dignity eagle";
+var mnemonic = "zoo duck path dust cable atom open daring rice prepare monster camp";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot depth general hub dune sign pigeon hint surprise aspect loud patrol";
+var mnemonic = "session search chat ginger jaguar script hammer sell finish frog adapt often";

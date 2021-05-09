@@ -1,1 +1,1 @@
-var mnemonic = "charge brass negative moral party predict review pulp fold fortune possible useful";
+var mnemonic = "disease kit employ valve rain army easy priority remember output snap champion";

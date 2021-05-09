@@ -1,1 +1,1 @@
-var mnemonic = "embody vacant enjoy exact salt thing keen vintage swing adapt onion gentle";
+var mnemonic = "window inmate inherit vessel repair knee stadium olympic eager jaguar story coil";

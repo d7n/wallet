@@ -1,1 +1,1 @@
-var mnemonic = "regular vague sustain inspire local firm special subway reduce top kitchen logic";
+var mnemonic = "pony glove still topple cave swarm shoe frog orchard seek ladder trade";

@@ -1,1 +1,1 @@
-var mnemonic = "corn life fire arrive stand impose today elbow rabbit boy access scatter";
+var mnemonic = "jaguar endless color evidence frequent panther throw must cupboard place mom oblige";

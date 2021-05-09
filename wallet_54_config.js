@@ -1,1 +1,1 @@
-var mnemonic = "supreme candy tell enable mesh vocal tape motion put raccoon portion mesh";
+var mnemonic = "earth switch farm fragile skill limb fabric ivory fatal surge nasty collect";

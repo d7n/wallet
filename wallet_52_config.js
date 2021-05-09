@@ -1,1 +1,1 @@
-var mnemonic = "lazy okay end layer grief aisle globe glove gauge fee diary mercy";
+var mnemonic = "opinion pluck horror energy hedgehog crush mobile gold square envelope mosquito aspect";

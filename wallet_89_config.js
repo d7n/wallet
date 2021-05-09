@@ -1,1 +1,1 @@
-var mnemonic = "better lecture team case rhythm similar fitness anxiety impulse opinion spoon bag";
+var mnemonic = "chest usage alley wheat roast chuckle horn clap return abstract wisdom clarify";

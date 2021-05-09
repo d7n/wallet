@@ -1,1 +1,1 @@
-var mnemonic = "core execute grit hazard also clip soft erosion remind divide embody inject";
+var mnemonic = "urge obey gold tomorrow direct fuel cushion wedding tooth appear illegal father";

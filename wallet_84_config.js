@@ -1,1 +1,1 @@
-var mnemonic = "zebra blouse suspect hold place rapid observe someone soda across hold diet";
+var mnemonic = "grow sibling dose rough gather alone inflict patch stand excess spoil sword";

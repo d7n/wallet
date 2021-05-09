@@ -1,1 +1,1 @@
-var mnemonic = "pretty magic order absent retire choice scrub jump exercise comic patrol retire";
+var mnemonic = "rifle benefit junior horn marriage issue picture until sun fabric recall gauge";

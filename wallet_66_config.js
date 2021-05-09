@@ -1,1 +1,1 @@
-var mnemonic = "buffalo find section voyage mutual side wink shoot other plunge square shrimp";
+var mnemonic = "voyage state name nuclear strategy typical wasp hold portion express cycle parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "elder whale card toilet session series flash fence gas grid fit dry";
+var mnemonic = "syrup filter link fork episode olive game plastic option trouble behind ethics";

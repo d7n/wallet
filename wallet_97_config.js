@@ -1,1 +1,1 @@
-var mnemonic = "boy release bracket test reunion panther head dilemma crisp photo multiply frog";
+var mnemonic = "flash knee chimney pistol card prison inject hold eternal abandon hedgehog nest";

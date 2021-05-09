@@ -1,1 +1,1 @@
-var mnemonic = "survey open coach century struggle oven bitter damp inflict father cricket dose";
+var mnemonic = "poet invite hedgehog balcony work alter ocean reunion regular twenty stay maid";

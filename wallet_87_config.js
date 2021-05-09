@@ -1,1 +1,1 @@
-var mnemonic = "rather rigid infant avocado again domain confirm have actual fiscal galaxy aim";
+var mnemonic = "wood crumble wide culture size much differ hawk wagon power reject canvas";

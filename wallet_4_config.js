@@ -1,1 +1,1 @@
-var mnemonic = "slam perfect voice broccoli oyster legend find scrap sheriff swamp voice donate";
+var mnemonic = "cliff enforce artwork belt caution isolate special seek gesture olive horn ginger";

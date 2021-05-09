@@ -1,1 +1,1 @@
-var mnemonic = "bottom bag soldier calm middle crash palm wonder jelly road maple fold";
+var mnemonic = "space envelope sister fancy blast into feel educate surround text blush silent";

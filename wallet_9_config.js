@@ -1,1 +1,1 @@
-var mnemonic = "area lounge moon mesh pause pilot throw tomato remember rude rebuild scale";
+var mnemonic = "frog welcome road spend ten require blue proud traffic cancel humor bitter";

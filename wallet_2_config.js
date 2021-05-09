@@ -1,1 +1,1 @@
-var mnemonic = "misery venture shuffle treat green spice ecology october best make unknown funny";
+var mnemonic = "source struggle spike planet umbrella analyst crowd six leader patrol fury napkin";

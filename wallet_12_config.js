@@ -1,1 +1,1 @@
-var mnemonic = "vacuum abandon planet plastic fossil lazy daring awkward mirror science air plastic";
+var mnemonic = "punch industry snow gravity delay illness region abstract express innocent hover host";

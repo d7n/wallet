@@ -1,1 +1,1 @@
-var mnemonic = "rug soft basic goose main ghost proud brother resource luxury stock salad";
+var mnemonic = "jelly team impulse mesh plate angry fine pill version shrug rib smart";

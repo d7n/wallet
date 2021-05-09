@@ -1,1 +1,1 @@
-var mnemonic = "rare unable notice glad author dawn gym price earn alien cheap legal";
+var mnemonic = "vanish blue scale card lazy category spare inquiry wolf absent eyebrow patrol";

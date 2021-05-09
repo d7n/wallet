@@ -1,1 +1,1 @@
-var mnemonic = "protect body code ranch friend era mercy fade leader quarter tennis word";
+var mnemonic = "hurdle song melody pride jealous tower dial useless mountain vintage amateur crumble";

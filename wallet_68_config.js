@@ -1,1 +1,1 @@
-var mnemonic = "seminar stadium syrup tackle float toilet gentle lounge actual person kitchen start";
+var mnemonic = "police fall safe acquire bean garage finish anger render slide welcome dad";

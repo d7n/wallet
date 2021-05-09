@@ -1,1 +1,1 @@
-var mnemonic = "sleep piano utility clarify wall goat circle ecology train nature lamp oil";
+var mnemonic = "course veteran brief invest wolf rhythm crisp art medal enemy become once";

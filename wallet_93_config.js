@@ -1,1 +1,1 @@
-var mnemonic = "side beyond diary zero unveil zone family renew midnight occur evidence drip";
+var mnemonic = "bring donate actual fly water spider favorite first punch rival rebel knife";

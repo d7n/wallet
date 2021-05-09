@@ -1,1 +1,1 @@
-var mnemonic = "front minor sort leader cannon pilot vicious announce evidence month pledge assume";
+var mnemonic = "saddle want zoo hawk over special wagon kite enroll tuition powder lunar";

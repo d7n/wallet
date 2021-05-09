@@ -1,1 +1,1 @@
-var mnemonic = "arrive require jewel demise giraffe blur program mean theory have rare senior";
+var mnemonic = "cancel awake giggle buyer cement wave vicious ivory leave feel bone pause";

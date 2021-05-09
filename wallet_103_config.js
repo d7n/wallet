@@ -1,1 +1,1 @@
-var mnemonic = "wine right universe prize address alter ask will rocket easy essence strong";
+var mnemonic = "aspect wrestle valid trust sustain master august glove puppy already box fire";

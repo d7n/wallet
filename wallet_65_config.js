@@ -1,1 +1,1 @@
-var mnemonic = "nest maid slight unhappy barely deputy renew small clerk yellow syrup glance";
+var mnemonic = "bind priority motor echo identify include uniform tray virtual wrap happy doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "oil method awesome horn dolphin spare vague cable make sheriff grunt rate";
+var mnemonic = "boss cart absent monster carry inner live roast clock exercise protect river";

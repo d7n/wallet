@@ -1,1 +1,1 @@
-var mnemonic = "welcome number ready rebel attract myself truly aspect sleep great derive wagon";
+var mnemonic = "input quantum oxygen wage coconut debris attend praise law antenna visa bullet";

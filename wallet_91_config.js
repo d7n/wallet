@@ -1,1 +1,1 @@
-var mnemonic = "puzzle swap degree moon pluck way march warm document syrup coral food";
+var mnemonic = "rain boil toddler donate dwarf copper sister modify equip toward punch verb";
