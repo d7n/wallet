@@ -1,1 +1,1 @@
-var mnemonic = "brisk area crush basket carpet address neck eager jewel expand cram cushion";
+var mnemonic = "strike sound goat leisure smoke other present detect pioneer flee credit tourist";

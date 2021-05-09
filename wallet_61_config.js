@@ -1,1 +1,1 @@
-var mnemonic = "fit fruit ketchup slow sand toy grief better indicate tunnel document tourist";
+var mnemonic = "cradle pledge antenna trip pulse gate daring range post dizzy inherit latin";

@@ -1,1 +1,1 @@
-var mnemonic = "coach husband crack ribbon fat knife leopard object jaguar sand amused police";
+var mnemonic = "sister skull ahead position orbit away snake weasel picnic veteran retreat width";

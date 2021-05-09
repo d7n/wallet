@@ -1,1 +1,1 @@
-var mnemonic = "direct yellow mercy fit gadget false amount leopard humble desert coast group";
+var mnemonic = "rubber security soda wash fever breeze maze mistake annual always immune joke";

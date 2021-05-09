@@ -1,1 +1,1 @@
-var mnemonic = "clerk soldier allow auction silent advice cargo purchase visit volume brush screen";
+var mnemonic = "nerve call tool truth kite rich figure attract robust final large year";

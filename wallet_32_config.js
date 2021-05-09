@@ -1,1 +1,1 @@
-var mnemonic = "song end melt soup rotate day crush ten reopen blossom story metal";
+var mnemonic = "combine slide sleep access second nation list flame kit split reopen pipe";

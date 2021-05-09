@@ -1,1 +1,1 @@
-var mnemonic = "relief release song only desk chunk orange giggle body harsh cushion film";
+var mnemonic = "humor inherit fatigue loud trip hockey rocket giraffe domain abuse huge digital";

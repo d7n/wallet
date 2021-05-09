@@ -1,1 +1,1 @@
-var mnemonic = "erase pink smart depth nominee dune cube burst canyon child young escape";
+var mnemonic = "script inhale patrol surprise device enrich glory trade stumble fetch vacuum inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato install stuff adapt now design obey drive gas sting column cancel";
+var mnemonic = "grant human range repair aunt invest strike rigid ozone equal rotate bleak";

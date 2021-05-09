@@ -1,1 +1,1 @@
-var mnemonic = "differ almost loud young silk weekend cage wave celery gospel permit conduct";
+var mnemonic = "gain robot once approve bulb exercise kiss shallow wool outside curious embody";

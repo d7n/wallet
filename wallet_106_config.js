@@ -1,1 +1,1 @@
-var mnemonic = "place hill usual host upset blur mom vault burden bachelor absent outdoor";
+var mnemonic = "essence flip visual wealth when target student grape supreme sausage charge naive";

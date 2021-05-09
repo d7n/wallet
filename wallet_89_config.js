@@ -1,1 +1,1 @@
-var mnemonic = "mass original limit accuse become neglect violin course assist toward mesh indicate";
+var mnemonic = "combine trick stairs lamp certain coil punch lonely agent upset mimic enemy";

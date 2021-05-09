@@ -1,1 +1,1 @@
-var mnemonic = "endless aware flower food video inner short fantasy long page similar knee";
+var mnemonic = "gossip return kind vault electric noble squirrel chuckle silly bonus rate smart";

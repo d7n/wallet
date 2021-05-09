@@ -1,1 +1,1 @@
-var mnemonic = "loyal admit drastic hungry path zone topic juice gallery before miracle inch";
+var mnemonic = "spoil shock silent donor soft shock adapt remain master fever assault clip";

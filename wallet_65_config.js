@@ -1,1 +1,1 @@
-var mnemonic = "web faint invite mountain enlist aware stage meat jungle taste beauty picnic";
+var mnemonic = "depth unaware jar usual fog fat under ketchup upset discover please below";

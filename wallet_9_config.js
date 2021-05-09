@@ -1,1 +1,1 @@
-var mnemonic = "muffin planet quick smoke unveil rally dwarf usual menu cupboard hamster youth";
+var mnemonic = "prepare assist episode powder menu duck minute enact scatter shoot sting shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "category type crucial company answer adult hotel bamboo skin sock embrace erosion";
+var mnemonic = "forget appear tumble flavor chief goat actual sure frame remove path belt";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna wrap educate basic party below frog judge canoe virtual lock trim";
+var mnemonic = "ball course various favorite about frequent awkward bring disease donkey during before";

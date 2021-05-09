@@ -1,1 +1,1 @@
-var mnemonic = "vehicle gas example tornado pact letter else ginger collect video pulp original";
+var mnemonic = "humble energy retire rookie table enjoy prefer together aim clutch vanish silent";

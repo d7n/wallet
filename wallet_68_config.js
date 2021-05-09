@@ -1,1 +1,1 @@
-var mnemonic = "list view carry private end sheriff earth omit easily sunset crisp fresh";
+var mnemonic = "foam empower february gain amount brain foot car mercy feel baby oven";

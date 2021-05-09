@@ -1,1 +1,1 @@
-var mnemonic = "hip bamboo chronic obtain used trend salt special crisp draw pottery resemble";
+var mnemonic = "drift reward keep unable buyer pumpkin apart worry glance stage hazard happy";

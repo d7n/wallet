@@ -1,1 +1,1 @@
-var mnemonic = "island base solar insane diesel hamster oxygen wait motor drill vacuum east";
+var mnemonic = "fine assist modify gold approve seminar post awake merit south clarify empower";

@@ -1,1 +1,1 @@
-var mnemonic = "tray void code little soldier voyage nation lottery frame order latin effort";
+var mnemonic = "law fiscal display calm coil trip disorder permit public trade awful horror";

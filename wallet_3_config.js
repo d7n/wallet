@@ -1,1 +1,1 @@
-var mnemonic = "soap bundle violin social invest sign orient wool month name coyote finger";
+var mnemonic = "utility shed tongue curtain warm cruise minor royal dwarf joke trial tongue";

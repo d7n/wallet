@@ -1,1 +1,1 @@
-var mnemonic = "tool slush undo wide advice boss icon elder dune chair fish blame";
+var mnemonic = "present bring rather improve blouse fashion able together push simple index jungle";

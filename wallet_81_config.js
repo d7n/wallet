@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo until document razor keep diagram develop bless sustain embody diet know";
+var mnemonic = "wrap category insane novel audit soda denial text volume shine add dragon";

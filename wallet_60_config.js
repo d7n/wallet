@@ -1,1 +1,1 @@
-var mnemonic = "shrimp open brown flip deal enter parent ahead globe media beef powder";
+var mnemonic = "label spice fruit anger cat universe ahead nothing hurdle aerobic video drill";

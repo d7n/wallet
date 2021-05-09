@@ -1,1 +1,1 @@
-var mnemonic = "remove cable goose harbor awkward soap velvet gap spirit grass pave upgrade";
+var mnemonic = "away diesel party purpose decrease buzz left box ice gospel drum exotic";

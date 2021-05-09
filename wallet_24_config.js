@@ -1,1 +1,1 @@
-var mnemonic = "rifle battle valley host plate utility gas dentist engage walnut core shine";
+var mnemonic = "photo into profit force disagree state rabbit ball vote visual much thumb";

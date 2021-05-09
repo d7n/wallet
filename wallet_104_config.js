@@ -1,1 +1,1 @@
-var mnemonic = "debate exist melt crawl addict fiscal afford kind glide infant warrior almost";
+var mnemonic = "company injury wheel answer bread tomorrow borrow harbor vivid force pitch pact";

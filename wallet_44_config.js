@@ -1,1 +1,1 @@
-var mnemonic = "comic admit vault lemon actual myth culture pear stay educate urge initial";
+var mnemonic = "neglect pull success spice echo bike crawl royal name minor give thought";

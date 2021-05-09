@@ -1,1 +1,1 @@
-var mnemonic = "boss potato casino nice reveal tribe siege woman manual neglect dream defense";
+var mnemonic = "banner lunar combine mirror abuse joy census where section powder vocal model";

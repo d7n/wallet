@@ -1,1 +1,1 @@
-var mnemonic = "raven pledge course palace club inner print purse report song venture excess";
+var mnemonic = "glass crazy goat priority market plunge dash fury hotel mixture coil find";

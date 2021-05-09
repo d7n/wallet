@@ -1,1 +1,1 @@
-var mnemonic = "smooth rabbit stock grow echo bike slender modify pattern dial group sell";
+var mnemonic = "goose pulse differ crop hello situate biology wood half ticket critic match";

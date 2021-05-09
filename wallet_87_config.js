@@ -1,1 +1,1 @@
-var mnemonic = "tide scorpion transfer shiver body mountain practice promote item echo upper kingdom";
+var mnemonic = "audit hair wish shock object ridge survey onion spatial someone arena home";

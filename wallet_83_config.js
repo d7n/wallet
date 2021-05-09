@@ -1,1 +1,1 @@
-var mnemonic = "kid scout evolve crawl trash affair maze ramp zero tackle govern radar";
+var mnemonic = "host sibling report health ladder age soup bamboo thrive float consider boy";

@@ -1,1 +1,1 @@
-var mnemonic = "equip cart minimum behind festival venue bamboo glove voyage million alcohol drink";
+var mnemonic = "zoo region grocery party autumn broom pact settle steak direct shoot frost";

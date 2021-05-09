@@ -1,1 +1,1 @@
-var mnemonic = "bike minimum such trouble truth win grass ridge nature nephew curious pluck";
+var mnemonic = "enemy frame raw rain catalog rug hospital random manual fiction forward valve";

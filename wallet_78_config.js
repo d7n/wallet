@@ -1,1 +1,1 @@
-var mnemonic = "sand dove oven muffin target odor keen repeat magic romance pipe theory";
+var mnemonic = "tattoo burden cream movie permit antique ensure awkward sign move dinosaur hamster";

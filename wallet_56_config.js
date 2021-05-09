@@ -1,1 +1,1 @@
-var mnemonic = "neutral forward digital winner laptop skate shove token twice frozen celery science";
+var mnemonic = "quantum nephew slim fresh gather crunch bird float economy fall car drop";

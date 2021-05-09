@@ -1,1 +1,1 @@
-var mnemonic = "enjoy equal convince puppy spread pretty robust doctor fatal bus defy dumb";
+var mnemonic = "resemble unknown remember glare same vocal kite permit occur sauce enhance weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal dilemma tape kiss soup toy crystal senior will eyebrow legal luxury";
+var mnemonic = "car disagree elevator video card federal legal struggle dust thunder mutual excite";

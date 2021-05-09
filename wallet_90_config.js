@@ -1,1 +1,1 @@
-var mnemonic = "famous power marble ethics involve raise armor sponsor leader olive drum science";
+var mnemonic = "soft major bracket prepare forward buffalo cost decline laugh swim property thumb";

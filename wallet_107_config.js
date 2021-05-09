@@ -1,1 +1,1 @@
-var mnemonic = "issue drip claim nurse salmon slot kind duty unaware sick fruit width";
+var mnemonic = "tail divide leg net title shallow gloom tennis whisper vault sentence dust";

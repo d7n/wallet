@@ -1,1 +1,1 @@
-var mnemonic = "people spoil copy blast tennis arrive biology cement universe drop regret mix";
+var mnemonic = "captain motion dilemma balcony half neither weapon polar have gun invite average";

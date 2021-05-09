@@ -1,1 +1,1 @@
-var mnemonic = "eternal betray pupil turtle grief canvas sunny private fragile diamond annual despair";
+var mnemonic = "garlic high into embark nurse crop pulp throw escape sun motor wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "mango excuse tuna gas craft trend bonus aspect solve setup tattoo sick";
+var mnemonic = "repeat become enhance tell urge want donate skull step bachelor dust cart";

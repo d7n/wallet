@@ -1,1 +1,1 @@
-var mnemonic = "seat enter dinosaur kitten whip time air weekend lottery cool protect animal";
+var mnemonic = "sentence expose space rose trouble thing flush hammer boring hundred field liberty";

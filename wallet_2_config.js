@@ -1,1 +1,1 @@
-var mnemonic = "gym impact slender slogan beyond busy gain word gap spider route visual";
+var mnemonic = "clarify follow size fall destroy right knife canvas story noble exercise hand";

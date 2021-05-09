@@ -1,1 +1,1 @@
-var mnemonic = "enough sting toss symbol vacuum siege orphan report corn ethics reject relief";
+var mnemonic = "panther fossil panther remember lazy broom review earth alley rifle absent nose";

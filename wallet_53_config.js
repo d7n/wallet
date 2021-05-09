@@ -1,1 +1,1 @@
-var mnemonic = "idle coach test provide anxiety whip myth brief army fame treat increase";
+var mnemonic = "speed spike patient feel music absent glass skull people armor make pitch";

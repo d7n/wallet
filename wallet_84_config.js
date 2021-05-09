@@ -1,1 +1,1 @@
-var mnemonic = "power case siege hope hunt license measure bench describe item jewel neutral";
+var mnemonic = "oak mosquito olympic device reflect net tell coin head family birth alone";

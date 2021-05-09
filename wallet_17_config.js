@@ -1,1 +1,1 @@
-var mnemonic = "certain street guide cradle snow face girl sunset ghost century fabric leaf";
+var mnemonic = "pear crunch animal can hawk alcohol symbol head yard estate desk label";

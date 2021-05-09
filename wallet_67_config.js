@@ -1,1 +1,1 @@
-var mnemonic = "prosper slogan catalog sand rail snow shuffle pepper roof cream talk trap";
+var mnemonic = "powder decrease bounce case unhappy inhale laptop office sudden cycle sleep flip";

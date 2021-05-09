@@ -1,1 +1,1 @@
-var mnemonic = "tumble dignity noble aisle shift little bonus fuel soldier afraid mother return";
+var mnemonic = "chapter pond garlic surge owner maple novel maple armed broken loop shiver";

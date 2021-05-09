@@ -1,1 +1,1 @@
-var mnemonic = "fatigue liquid receive parent drama sleep way unknown letter dial flush dog";
+var mnemonic = "purity decrease frown century barely firm weather fame wide alpha stairs process";

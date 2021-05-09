@@ -1,1 +1,1 @@
-var mnemonic = "pepper cheese wild season change any print guard found churn shoot punch";
+var mnemonic = "bottom upper blame night layer apology tackle snow divert cruel prevent maid";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle fall space frequent square peace hood logic eager road cluster shallow";
+var mnemonic = "hockey pioneer fame grant cheese monitor outer autumn exclude mask talk motion";

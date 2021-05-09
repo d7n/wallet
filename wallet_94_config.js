@@ -1,1 +1,1 @@
-var mnemonic = "another glance siege fuel bench stage stuff car diet panda crane model";
+var mnemonic = "century best few yellow sample lyrics update subway lamp butter delay arrive";

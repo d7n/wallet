@@ -1,1 +1,1 @@
-var mnemonic = "wet art program pulse bid ship exercise avoid drip journey when seat";
+var mnemonic = "rug surround squeeze lazy surprise notice need afford cactus crew immune electric";

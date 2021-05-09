@@ -1,1 +1,1 @@
-var mnemonic = "estate coach end leaf shield chapter corn return rubber method explain hotel";
+var mnemonic = "palace message settle doctor carry update shallow correct ivory story near process";

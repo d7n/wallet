@@ -1,1 +1,1 @@
-var mnemonic = "card maze conduct liar judge obtain tree gasp electric welcome lonely empower";
+var mnemonic = "annual cry kiwi snow opinion dutch chronic piece arch leopard mimic rough";

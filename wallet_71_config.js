@@ -1,1 +1,1 @@
-var mnemonic = "actual glare tell awful vintage forget stay mom boost best cannon sauce";
+var mnemonic = "gravity hero fury since audit seat lazy zone fame garbage general silver";

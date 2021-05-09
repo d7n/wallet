@@ -1,1 +1,1 @@
-var mnemonic = "style path fence middle flavor front clever panther sugar slender column grant";
+var mnemonic = "immense juice stem interest system spell moment fish debris subject wool wrist";

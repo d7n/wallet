@@ -1,1 +1,1 @@
-var mnemonic = "door apple blind erosion wasp taxi enjoy blame off chief sense tree";
+var mnemonic = "arena game actual rhythm sauce rifle total voyage focus power palace motor";

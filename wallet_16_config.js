@@ -1,1 +1,1 @@
-var mnemonic = "two oil slight box quality price spread measure vivid gauge faculty erosion";
+var mnemonic = "easily want crew rug notable demand sibling rubber clump unfair dish because";

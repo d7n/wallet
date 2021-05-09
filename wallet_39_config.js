@@ -1,1 +1,1 @@
-var mnemonic = "unhappy swing assume combine argue pause aware lady suffer amazing argue entry";
+var mnemonic = "basket impact warm width country clean alter charge order slide master twice";

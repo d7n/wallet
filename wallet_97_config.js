@@ -1,1 +1,1 @@
-var mnemonic = "cup marriage order supply kick release actress grab bacon element swarm involve";
+var mnemonic = "useless system fat inside original expire wear olympic allow used tourist submit";

@@ -1,1 +1,1 @@
-var mnemonic = "maid economy chair twist tissue result just blush must toy thank stem";
+var mnemonic = "page jewel diary milk trend trial grocery search elegant month people exile";

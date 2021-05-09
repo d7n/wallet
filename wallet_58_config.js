@@ -1,1 +1,1 @@
-var mnemonic = "rescue era little satisfy hazard spread lunch axis filter motor black behind";
+var mnemonic = "gloom plug bargain cancel adult armed bring lawn smile deny husband leader";

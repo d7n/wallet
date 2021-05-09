@@ -1,1 +1,1 @@
-var mnemonic = "cost theme increase muffin few curve erase access choose school guitar plunge";
+var mnemonic = "reopen coyote sound urge voyage panther melody craft try entire tank snack";

@@ -1,1 +1,1 @@
-var mnemonic = "olive liberty sausage lazy timber reform base village balance silver solve upper";
+var mnemonic = "combine client actress quick same obey popular orphan patch kitchen sword tilt";

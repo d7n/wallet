@@ -1,1 +1,1 @@
-var mnemonic = "ball fresh inform basket garage rubber what fix float december stone grab";
+var mnemonic = "sign situate rocket matrix blind increase police faculty reward use into affair";

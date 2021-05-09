@@ -1,1 +1,1 @@
-var mnemonic = "poem august sauce because addict lock gravity tent badge clutch royal time";
+var mnemonic = "audit lunch pride dwarf face describe adult capable detect affair solution burst";

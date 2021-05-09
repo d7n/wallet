@@ -1,1 +1,1 @@
-var mnemonic = "slot only curve remind script flag gospel dilemma ostrich much number few";
+var mnemonic = "chef prepare analyst real brass two congress screen sentence wife glare verify";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve chunk quantum suit sketch security carpet sand eager coyote brand weekend";
+var mnemonic = "siren interest primary wrestle outer will guide suspect power accuse voyage reward";

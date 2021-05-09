@@ -1,1 +1,1 @@
-var mnemonic = "liquid myth benefit keen opinion slim occur logic pill senior usage coin";
+var mnemonic = "garlic boy slide laptop much float major arrive nest hotel oval slight";

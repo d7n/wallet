@@ -1,1 +1,1 @@
-var mnemonic = "useless harsh peanut wash will crunch try motion whip surface hurdle mention";
+var mnemonic = "cage super rude impulse crime vault kiwi believe trash funny ivory liquid";

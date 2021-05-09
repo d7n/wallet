@@ -1,1 +1,1 @@
-var mnemonic = "print save include blast include weather gorilla hold zebra crater remove access";
+var mnemonic = "head robust vital other stick emotion shove promote verb liar fall radio";

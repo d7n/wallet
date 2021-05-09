@@ -1,1 +1,1 @@
-var mnemonic = "hazard sorry silk erosion sport thumb sun family point sunny fiscal notable";
+var mnemonic = "scrub soldier stereo grocery comfort lounge profit swap garbage fresh else dinner";

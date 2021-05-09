@@ -1,1 +1,1 @@
-var mnemonic = "parade seed lawn now shove response bomb force crash spider few hybrid";
+var mnemonic = "carry target powder cave actress cake avocado crumble because artist core betray";

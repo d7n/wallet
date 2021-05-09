@@ -1,1 +1,1 @@
-var mnemonic = "april because pupil buffalo art impose fragile argue good total salon sketch";
+var mnemonic = "soft region oblige occur city jar congress law arm melody orchard march";

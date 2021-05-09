@@ -1,1 +1,1 @@
-var mnemonic = "final despair bullet key absorb coral taxi demise inform piano violin glad";
+var mnemonic = "design question swarm push spawn entire laptop snack property bonus vintage approve";

@@ -1,1 +1,1 @@
-var mnemonic = "hip garden enforce uncle shove equal timber quick text crunch purpose flash";
+var mnemonic = "mirror expire dentist unable tape labor law spirit evoke change lawsuit bless";

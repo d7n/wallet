@@ -1,1 +1,1 @@
-var mnemonic = "winner simple surround visual wolf permit regret decline parent debris century cat";
+var mnemonic = "alarm minimum grid fancy indoor elegant phone castle hat punch all laundry";

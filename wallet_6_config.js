@@ -1,1 +1,1 @@
-var mnemonic = "brave stuff giant slab hen case that before ship joy bean fringe";
+var mnemonic = "wage wait emerge asset valley volcano mountain song excuse spread scatter soft";

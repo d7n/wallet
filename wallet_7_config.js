@@ -1,1 +1,1 @@
-var mnemonic = "maze cloud radio pulp tooth grab hip slogan endorse orient nature warrior";
+var mnemonic = "curtain table describe vapor curious destroy crystal faint enforce frog settle giant";

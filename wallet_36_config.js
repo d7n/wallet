@@ -1,1 +1,1 @@
-var mnemonic = "useful soldier thrive empower smile diesel assault wreck enemy title split dolphin";
+var mnemonic = "century barrel object trophy valid pony dawn tissue surprise top rescue slush";

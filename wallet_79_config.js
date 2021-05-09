@@ -1,1 +1,1 @@
-var mnemonic = "treat civil remind twist relax multiply rely inch rule concert keen arch";
+var mnemonic = "limb cool decorate vicious volcano baby small jeans stereo already diamond talent";

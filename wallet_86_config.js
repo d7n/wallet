@@ -1,1 +1,1 @@
-var mnemonic = "squeeze abuse almost add advice list online reward need south bag antique";
+var mnemonic = "neither fantasy olive worry eyebrow jaguar present alien lunar apple car sick";

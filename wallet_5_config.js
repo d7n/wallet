@@ -1,1 +1,1 @@
-var mnemonic = "have school drum cliff similar ring sister fan master dish mirror all";
+var mnemonic = "property shell digital advice joke tomato scene curtain amused never oak oil";

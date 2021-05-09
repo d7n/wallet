@@ -1,1 +1,1 @@
-var mnemonic = "cannon basic thumb divorce fault divert grain between twelve cotton cave exchange";
+var mnemonic = "method patrol where deal dose knock mass negative room pistol brave inherit";
