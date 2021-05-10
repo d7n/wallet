@@ -1,1 +1,1 @@
-var mnemonic = "hammer direct spawn icon tourist salmon already bomb company crouch tumble giraffe";
+var mnemonic = "decide chaos force govern switch promote choose govern earn expand trophy churn";

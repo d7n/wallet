@@ -1,1 +1,1 @@
-var mnemonic = "little chat eye smoke pulse bundle ugly left ramp utility agent wall";
+var mnemonic = "pond hard ankle plug blood very robust pretty dynamic elephant left crystal";

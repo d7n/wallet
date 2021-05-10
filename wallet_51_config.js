@@ -1,1 +1,1 @@
-var mnemonic = "paddle confirm lyrics unknown brain moon brand tell cereal window worry home";
+var mnemonic = "exact fresh outdoor oyster peace crime stay tunnel close earth silver ramp";

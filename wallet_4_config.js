@@ -1,1 +1,1 @@
-var mnemonic = "wool live siren fashion fatigue foot innocent solve marble cheese fiber measure";
+var mnemonic = "staff soda depend regret lucky token trade palm switch arrest long rifle";

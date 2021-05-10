@@ -1,1 +1,1 @@
-var mnemonic = "movie crush switch stove ice this start chimney okay later toss quiz";
+var mnemonic = "flame picnic double oven example tip project food ostrich tree sentence keen";

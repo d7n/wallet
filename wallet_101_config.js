@@ -1,1 +1,1 @@
-var mnemonic = "magic forward bone review buyer wolf ranch lucky vacant always ticket device";
+var mnemonic = "enlist pilot dwarf cabin fantasy one because latin stage tomorrow wear program";

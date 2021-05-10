@@ -1,1 +1,1 @@
-var mnemonic = "axis universe notice sample sunset coffee wonder jaguar plastic then coin great";
+var mnemonic = "skin shrimp vacuum remind negative truck jeans assist ivory edit relief dutch";

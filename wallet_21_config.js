@@ -1,1 +1,1 @@
-var mnemonic = "cross myth impact raw exact grape baby clarify pride place fat hard";
+var mnemonic = "regular shoulder fruit this deputy absent call path uncover hundred three light";

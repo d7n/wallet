@@ -1,1 +1,1 @@
-var mnemonic = "yard auto hope report agent dirt melt jungle catalog crazy poet mandate";
+var mnemonic = "metal say embody settle shoulder route behave debris stick pond learn muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "amount phrase climb iron tongue now quarter bargain raccoon inflict divert soul";
+var mnemonic = "page loud tip abuse food achieve aware warrior crisp blur fortune number";

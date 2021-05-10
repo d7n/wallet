@@ -1,1 +1,1 @@
-var mnemonic = "merge stand control scatter romance baby loud spawn mosquito leaf divorce orbit";
+var mnemonic = "climb damp pulp bleak either boring quality melt indicate main choose duck";

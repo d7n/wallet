@@ -1,1 +1,1 @@
-var mnemonic = "gold hire tray test matter short usage stomach valve surround coconut resemble";
+var mnemonic = "meat patrol service swing candy nice monster author trophy apple good drip";

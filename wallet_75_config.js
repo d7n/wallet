@@ -1,1 +1,1 @@
-var mnemonic = "federal music dilemma judge rebuild gather fun saddle chimney tag grocery raise";
+var mnemonic = "olympic advance guard cream lawn jar discover wife toy movie observe sleep";

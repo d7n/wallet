@@ -1,1 +1,1 @@
-var mnemonic = "auto ocean style just dinosaur catalog man stadium collect buyer elder label";
+var mnemonic = "genius green sea wood ripple claim park album suit drive paper choice";

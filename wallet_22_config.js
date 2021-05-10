@@ -1,1 +1,1 @@
-var mnemonic = "example border spawn gown cactus guilt view average artist rubber run left";
+var mnemonic = "know omit siege egg train fox bundle trial fiscal wealth bench joke";

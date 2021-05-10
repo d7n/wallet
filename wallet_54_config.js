@@ -1,1 +1,1 @@
-var mnemonic = "learn wheel fitness polar fence usage slot gold plunge maid leader payment";
+var mnemonic = "demise illegal jelly clap emotion universe wisdom replace alone resource focus fury";

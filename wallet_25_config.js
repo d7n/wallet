@@ -1,1 +1,1 @@
-var mnemonic = "canal post rack museum void cause inside rack casino candy master become";
+var mnemonic = "crisp coil clever frown sniff volcano divert endless thunder drop nation quit";

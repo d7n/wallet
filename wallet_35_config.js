@@ -1,1 +1,1 @@
-var mnemonic = "island ability drop scene notice few pioneer empower limb coyote critic machine";
+var mnemonic = "need custom senior turtle cruel annual lake acquire execute march still walnut";

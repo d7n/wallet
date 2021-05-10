@@ -1,1 +1,1 @@
-var mnemonic = "simple verify gallery balance favorite cancel true viable neck offer valid miss";
+var mnemonic = "vibrant cheap firm surge bracket nice scissors tape more medal birth margin";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny transfer culture lumber label orphan business cage assume syrup load assault";
+var mnemonic = "roof found baby method ride arctic boring mushroom dynamic need size cactus";

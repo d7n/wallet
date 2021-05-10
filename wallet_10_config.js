@@ -1,1 +1,1 @@
-var mnemonic = "powder aunt cabin pupil comic gadget flee birth country volcano fuel calm";
+var mnemonic = "ostrich evoke special frown fatal open abuse reduce round brush burger vague";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase day inspire grant fantasy phone awkward that win aisle giraffe juice";
+var mnemonic = "mutual weapon visit vendor unique prevent speak indoor tide safe excess setup";

@@ -1,1 +1,1 @@
-var mnemonic = "dog cube valid hunt right march bonus leave menu foster grab frog";
+var mnemonic = "toe often palace business dice female destroy walnut age sound decrease wisdom";

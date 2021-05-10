@@ -1,1 +1,1 @@
-var mnemonic = "must spoon prefer hungry detect effort usual story panther kingdom subject fly";
+var mnemonic = "family employ gentle room glimpse tomato future parade donor crack among govern";

@@ -1,1 +1,1 @@
-var mnemonic = "busy capital unlock lab harbor cool pretty zone enable hope mystery topic";
+var mnemonic = "fitness glove gather bamboo snow castle multiply tiger impact caution long useful";

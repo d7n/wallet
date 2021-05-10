@@ -1,1 +1,1 @@
-var mnemonic = "promote gauge old devote nest saddle boost luggage buddy car struggle modify";
+var mnemonic = "leisure river shuffle dignity joke feature juice present agree frozen nerve laugh";

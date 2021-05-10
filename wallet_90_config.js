@@ -1,1 +1,1 @@
-var mnemonic = "absorb chef inject cover strong damp shine motor grain cat loud squirrel";
+var mnemonic = "sunny pony razor volume sort segment once second glide deputy energy giggle";

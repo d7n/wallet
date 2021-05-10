@@ -1,1 +1,1 @@
-var mnemonic = "art gain dust dance cart food master pilot exercise lend half nature";
+var mnemonic = "ability course base crawl gun mesh device update tooth matrix tank laugh";

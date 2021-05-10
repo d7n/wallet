@@ -1,1 +1,1 @@
-var mnemonic = "session kite high polar stem credit time old wealth mansion rate picture";
+var mnemonic = "time fine rose hollow attitude learn bundle pilot cake shiver power color";

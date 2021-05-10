@@ -1,1 +1,1 @@
-var mnemonic = "clap alarm quarter before message rack powder sorry flame reveal violin romance";
+var mnemonic = "buyer friend century waste baby example during craft chase snap dune wheat";

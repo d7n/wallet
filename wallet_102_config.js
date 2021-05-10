@@ -1,1 +1,1 @@
-var mnemonic = "cement way admit glimpse basket stumble entire sun abuse involve hedgehog lion";
+var mnemonic = "donkey powder wealth client donor dash monster service enforce scout man issue";

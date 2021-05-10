@@ -1,1 +1,1 @@
-var mnemonic = "decide hold welcome shock chapter already shiver expand whale occur raise trumpet";
+var mnemonic = "fringe range ramp lyrics crazy sword bar cave knock lobster ride emotion";

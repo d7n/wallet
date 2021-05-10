@@ -1,1 +1,1 @@
-var mnemonic = "garment seminar worry clap document seek erosion horror main candy cube two";
+var mnemonic = "omit slim hunt cook ability drip music brave forum gesture dentist demand";

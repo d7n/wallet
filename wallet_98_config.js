@@ -1,1 +1,1 @@
-var mnemonic = "abstract act bind train game mix loan virtual above dwarf tuition exhibit";
+var mnemonic = "cricket remember twist tell addict honey helmet room renew motion bottom hawk";

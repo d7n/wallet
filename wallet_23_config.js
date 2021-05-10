@@ -1,1 +1,1 @@
-var mnemonic = "focus zoo mimic home crucial curve glimpse sustain cargo grief pelican egg";
+var mnemonic = "erosion thrive turn bronze scrap shadow cotton fold swap fatal sleep speed";

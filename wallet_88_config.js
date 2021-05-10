@@ -1,1 +1,1 @@
-var mnemonic = "leopard step number beauty raven pyramid cheap fortune era oppose pupil fluid";
+var mnemonic = "aim floor list guilt liquid eagle cabbage antique police rude peace check";

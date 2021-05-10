@@ -1,1 +1,1 @@
-var mnemonic = "piece sauce tongue popular sweet balcony hire supreme alcohol harsh health angle";
+var mnemonic = "plate legend neither chunk stomach crater actress harvest great fruit great mix";

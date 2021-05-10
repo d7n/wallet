@@ -1,1 +1,1 @@
-var mnemonic = "inmate endless skull immense honey install design pulp cry cereal wave capital";
+var mnemonic = "spare super paper pottery squeeze recall kick step galaxy double height fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual champion bronze open dentist glide make burden ceiling dolphin dice among";
+var mnemonic = "become pave rely insect armed extend satisfy buffalo joy fiction lounge uphold";

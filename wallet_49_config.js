@@ -1,1 +1,1 @@
-var mnemonic = "owner horse weapon crime twelve amazing oven object season citizen glance frozen";
+var mnemonic = "mesh exchange awake refuse stuff velvet cousin advice route deputy slow between";

@@ -1,1 +1,1 @@
-var mnemonic = "dice divorce globe crowd juice major latin soap another anchor cradle leader";
+var mnemonic = "eagle true ride virtual true cereal invite soap define steel quote purity";

@@ -1,1 +1,1 @@
-var mnemonic = "dice raise help exile castle brand traffic old mean stick suggest future";
+var mnemonic = "total dinner slush casual effort poet senior write state early mercy limit";

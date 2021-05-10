@@ -1,1 +1,1 @@
-var mnemonic = "color jazz cute ritual peanut impact spawn cancel vote behave soda pelican";
+var mnemonic = "glow hollow inmate phone ceiling social fade stadium cause prepare eager hole";

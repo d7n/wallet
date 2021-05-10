@@ -1,1 +1,1 @@
-var mnemonic = "have hub jelly planet often swarm tuna rather mosquito ugly choose ridge";
+var mnemonic = "velvet return unlock spoil bubble upgrade outer item nice cushion dentist field";

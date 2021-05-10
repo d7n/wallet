@@ -1,1 +1,1 @@
-var mnemonic = "margin museum shove penalty script attract real cabin panda humor spider wing";
+var mnemonic = "pave fat soda burger clown hundred desk lab mean toss response educate";

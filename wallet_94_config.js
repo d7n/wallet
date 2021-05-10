@@ -1,1 +1,1 @@
-var mnemonic = "boring harbor hand casual doctor day fatal bubble security harbor lift funny";
+var mnemonic = "abandon oppose enact cart season ski merry control uncle fatal monitor master";

@@ -1,1 +1,1 @@
-var mnemonic = "tree either almost collect cake cabin enforce physical symbol vacant fuel disagree";
+var mnemonic = "display rubber still monitor often agent sign combine stumble army wide join";

@@ -1,1 +1,1 @@
-var mnemonic = "catch carpet observe furnace jaguar police actor party auto civil rigid copy";
+var mnemonic = "bottom audit impact seat picnic similar knock tortoise wedding decide spot height";

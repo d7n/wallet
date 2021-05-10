@@ -1,1 +1,1 @@
-var mnemonic = "cheese dismiss cradle joke drink almost spike again night dignity art crush";
+var mnemonic = "clump palace disease fruit mango between ostrich seek weather cream anchor access";

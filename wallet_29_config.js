@@ -1,1 +1,1 @@
-var mnemonic = "diagram nerve use identify opinion two manage possible pride name defense century";
+var mnemonic = "weekend connect athlete morning ketchup seed session pave vacant coach people sibling";

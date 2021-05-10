@@ -1,1 +1,1 @@
-var mnemonic = "steak float despair bottom vendor oyster elegant ten gate shed impose trouble";
+var mnemonic = "decline run powder badge cliff yard large eternal sugar patrol charge bus";

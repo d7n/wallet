@@ -1,1 +1,1 @@
-var mnemonic = "charge month embark scene enforce tomato churn task shy island crawl office";
+var mnemonic = "drastic blast expire snow unit diary defense east soap pistol profit table";

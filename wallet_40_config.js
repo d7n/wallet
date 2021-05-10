@@ -1,1 +1,1 @@
-var mnemonic = "depend piece rifle decrease cruel brand scrub rude trust adapt index remind";
+var mnemonic = "oxygen regular visa repeat fabric they eager duty cat exile behave provide";

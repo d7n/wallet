@@ -1,1 +1,1 @@
-var mnemonic = "dignity prison bread wave winter jealous happy warrior scare wine certain crawl";
+var mnemonic = "slot method day mechanic prevent audit undo define curve snack merry mail";

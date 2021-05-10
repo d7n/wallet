@@ -1,1 +1,1 @@
-var mnemonic = "demand surface move duty convince alone food advance seven celery chase hub";
+var mnemonic = "mix monitor thunder under airport gain lunar collect party start regret swallow";

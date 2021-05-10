@@ -1,1 +1,1 @@
-var mnemonic = "orchard shallow analyst inner bacon balcony keen broccoli item pyramid certain zebra";
+var mnemonic = "december artefact priority atom glance aim cross just twelve trophy chuckle cotton";

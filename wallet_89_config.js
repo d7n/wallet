@@ -1,1 +1,1 @@
-var mnemonic = "idle long enroll world correct beyond glow mansion mind few teach original";
+var mnemonic = "curve arrest inflict deliver trim keen capital cattle badge coyote menu result";

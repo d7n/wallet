@@ -1,1 +1,1 @@
-var mnemonic = "frown proud load draw hill addict abandon yard bread team ill song";
+var mnemonic = "drink glare squirrel omit they raise injury crawl burst adult exit violin";

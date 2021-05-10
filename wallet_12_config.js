@@ -1,1 +1,1 @@
-var mnemonic = "tail flat pattern viable ketchup music weekend divide very expand improve minimum";
+var mnemonic = "torch bridge loan fruit reveal crew process must detail remove lyrics bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "stick social ordinary proud regular melt wedding enhance minute demise path fuel";
+var mnemonic = "fade nasty question taxi bag kit asset arch trouble chalk come pilot";

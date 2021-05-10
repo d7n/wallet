@@ -1,1 +1,1 @@
-var mnemonic = "door peanut thunder problem tribe game result escape woman vacant heavy scheme";
+var mnemonic = "decide crew west alter damage gadget mandate scan limb high sunset valve";

@@ -1,1 +1,1 @@
-var mnemonic = "resource duck attack bracket cup carpet material hospital recycle feed slow improve";
+var mnemonic = "exact salute giant action erupt answer sugar retire coast pulse knife scrub";

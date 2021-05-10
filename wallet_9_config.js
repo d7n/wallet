@@ -1,1 +1,1 @@
-var mnemonic = "clip able fold jacket fatigue ensure kite fabric trim remove venture grow";
+var mnemonic = "find umbrella scene cash donate genuine blind laundry end ask rare ask";

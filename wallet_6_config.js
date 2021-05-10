@@ -1,1 +1,1 @@
-var mnemonic = "team flag author scan wish disagree order version vanish soft leader silly";
+var mnemonic = "exact amused obscure myself tuna table husband exhibit real confirm tape diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "other ramp exact file inherit kangaroo earn grit grab economy leopard nominee";
+var mnemonic = "struggle curious shadow vote feature scissors satisfy disease sign endorse clutch praise";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp train explain vast check body damage kitchen dismiss inflict dove begin";
+var mnemonic = "photo aerobic vault pledge victory question odor guess crash bracket uniform entire";

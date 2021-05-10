@@ -1,1 +1,1 @@
-var mnemonic = "lava time lounge access beach essay dawn rival example age inject topple";
+var mnemonic = "hybrid ship organ permit mass sell blossom luxury toilet combine sell throw";

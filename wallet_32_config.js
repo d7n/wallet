@@ -1,1 +1,1 @@
-var mnemonic = "vote obtain safe wet vendor pride dash crane raven cruel slot maple";
+var mnemonic = "cake planet profit zero depart sheriff scene cradle text snap behave stand";

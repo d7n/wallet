@@ -1,1 +1,1 @@
-var mnemonic = "palm cricket romance unknown join coil puzzle nephew cube able squeeze caught";
+var mnemonic = "spot cancel library rug battle one renew swing trumpet choose cliff brave";

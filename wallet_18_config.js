@@ -1,1 +1,1 @@
-var mnemonic = "erase fade resemble replace traffic math patch fabric camp soccer clump danger";
+var mnemonic = "fancy vintage zone salon dad height dismiss case rather river cram autumn";

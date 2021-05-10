@@ -1,1 +1,1 @@
-var mnemonic = "few link noise stamp certain pitch pupil rifle twice truck coyote cry";
+var mnemonic = "reduce train vapor jaguar jelly tail duck bubble cricket sad mind toward";

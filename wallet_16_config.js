@@ -1,1 +1,1 @@
-var mnemonic = "vapor scare host favorite goat demise burger citizen december steel mule material";
+var mnemonic = "list network stem leisure nephew aunt exile project fitness crumble speak mail";

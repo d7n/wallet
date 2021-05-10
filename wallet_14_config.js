@@ -1,1 +1,1 @@
-var mnemonic = "clog thing window until eager calm lemon enemy kick all minimum alarm";
+var mnemonic = "ivory giant exercise draw hole ghost egg over minor treat snap kit";

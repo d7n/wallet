@@ -1,1 +1,1 @@
-var mnemonic = "truly mass solve student heavy split step soap tortoise coin arctic salon";
+var mnemonic = "picnic orange shrimp degree plastic price safe knee brass test behind maze";

@@ -1,1 +1,1 @@
-var mnemonic = "radar stairs yard alone silver often already focus cannon disease lend special";
+var mnemonic = "talent move hold fine real primary deliver item social box hobby sketch";

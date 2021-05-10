@@ -1,1 +1,1 @@
-var mnemonic = "play summer rapid affair decline circle eagle vacant genuine best similar fade";
+var mnemonic = "hello episode coin indoor sister fresh panther act hammer sunset damp spawn";

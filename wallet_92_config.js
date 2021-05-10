@@ -1,1 +1,1 @@
-var mnemonic = "calm future ride busy position punch series badge ancient traffic example cool";
+var mnemonic = "cloth over fun unveil bag double jacket cake gas kangaroo heart attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "exist stamp improve rose apology rib meadow observe uphold space grain change";
+var mnemonic = "document cabbage bonus peanut dinner wife leisure oil design make fuel sorry";

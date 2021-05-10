@@ -1,1 +1,1 @@
-var mnemonic = "oyster soda hood security afford actual attack own bronze client owner float";
+var mnemonic = "rescue regular spare spread pet armor dutch miracle april horror affair trim";

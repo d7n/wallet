@@ -1,1 +1,1 @@
-var mnemonic = "print topple crime media name couch enable indoor scale era absorb bullet";
+var mnemonic = "squeeze path weather option rhythm mixed parrot enhance rival recall rent position";

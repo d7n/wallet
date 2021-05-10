@@ -1,1 +1,1 @@
-var mnemonic = "balance winner hunt width mass naive shell poverty twin mammal envelope anger";
+var mnemonic = "sure unfold sense food net have sad capable strategy clinic typical glare";

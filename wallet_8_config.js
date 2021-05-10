@@ -1,1 +1,1 @@
-var mnemonic = "have slot blur vanish hope test dinner track merge cool business change";
+var mnemonic = "ocean lady favorite media online save pond tray account property sad dinosaur";

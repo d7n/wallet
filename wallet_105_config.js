@@ -1,1 +1,1 @@
-var mnemonic = "cage taxi chat exercise tell bottom certain jewel carpet love since fabric";
+var mnemonic = "monitor proud gossip baby elite purpose stairs alien tackle uncover original hat";

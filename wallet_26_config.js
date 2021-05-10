@@ -1,1 +1,1 @@
-var mnemonic = "demise real much riot pelican rescue breeze embrace scout head century glare";
+var mnemonic = "sentence crater mom unaware medal this model ecology genius insect length habit";

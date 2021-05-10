@@ -1,1 +1,1 @@
-var mnemonic = "harsh link right damp hood basket power same short unlock stay acid";
+var mnemonic = "message shift decade seek link ice text palm patrol puppy help sheriff";

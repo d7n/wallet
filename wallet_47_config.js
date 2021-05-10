@@ -1,1 +1,1 @@
-var mnemonic = "genre virus reason radio wing pass file denial category clean inject ocean";
+var mnemonic = "abstract spray silver vault ritual electric unaware tube farm forest exchange swallow";

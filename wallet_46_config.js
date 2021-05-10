@@ -1,1 +1,1 @@
-var mnemonic = "answer cable hip farm just whale next reject stick edge test tattoo";
+var mnemonic = "race lab nature mushroom vendor spy indicate power damp choose title ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd hero animal subject assume film october volume soft doll egg wagon";
+var mnemonic = "art atom tumble stock flight elder test sphere come opinion volume cream";
