@@ -1,1 +1,1 @@
-var mnemonic = "utility today then glare high else term hint depart truth crash lounge";
+var mnemonic = "orchard render novel vague sad cross canvas system regret scan harbor high";

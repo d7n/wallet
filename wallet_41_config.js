@@ -1,1 +1,1 @@
-var mnemonic = "shield jungle motion track island noble name jacket click crazy way strategy";
+var mnemonic = "cliff bronze emotion roast accident shadow keep oven they shadow joy desk";

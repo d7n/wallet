@@ -1,1 +1,1 @@
-var mnemonic = "truth cash mixed source trophy grid farm flower artist gas enough simple";
+var mnemonic = "never remove vibrant joy wife antenna review possible torch cool upset maze";

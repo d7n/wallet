@@ -1,1 +1,1 @@
-var mnemonic = "siren polar dinosaur cruise glass among bachelor butter innocent bridge celery anger";
+var mnemonic = "pulp pear unique flight normal wait receive nose typical pride crucial resist";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard promote mask board raven impulse length ladder flower post rubber ill";
+var mnemonic = "perfect faith space lizard blur field vehicle decline clever wool plug fatal";

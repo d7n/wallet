@@ -1,1 +1,1 @@
-var mnemonic = "notable risk seminar grow radar fresh comfort cream sample envelope train lamp";
+var mnemonic = "hammer neck supreme slot child fatal minute various type bitter lunar nephew";

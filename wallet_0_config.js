@@ -1,1 +1,1 @@
-var mnemonic = "shoulder blame hold video ranch cross afford warm basket high clerk pupil";
+var mnemonic = "stem remain clever squirrel crane three remember face check magic manual deliver";

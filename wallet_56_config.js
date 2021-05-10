@@ -1,1 +1,1 @@
-var mnemonic = "lamp cousin live join odor chicken vibrant cheap keen grain cube fragile";
+var mnemonic = "fitness illness nuclear place kite diary able zone output junior wisdom often";

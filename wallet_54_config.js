@@ -1,1 +1,1 @@
-var mnemonic = "magnet kitten science shoe slow list volcano magic rose ghost law cram";
+var mnemonic = "fossil floor nasty bargain cat horse virus jelly unfold mobile recipe impose";

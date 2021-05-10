@@ -1,1 +1,1 @@
-var mnemonic = "genuine image cheap liberty run peasant stick harbor bundle sword agent clarify";
+var mnemonic = "exit denial eight grocery uphold vapor cruel piano denial metal galaxy cruel";

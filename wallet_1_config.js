@@ -1,1 +1,1 @@
-var mnemonic = "twenty matrix ask outside satisfy hockey liberty awkward opinion lemon tree vintage";
+var mnemonic = "trial voyage reduce energy gospel guitar cross truck fan soul best ancient";

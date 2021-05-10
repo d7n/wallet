@@ -1,1 +1,1 @@
-var mnemonic = "churn family popular school situate sick fortune nature warm chair gain keen";
+var mnemonic = "system witness solve spread engage birth exercise luxury jazz despair tilt slender";

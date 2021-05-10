@@ -1,1 +1,1 @@
-var mnemonic = "rude nasty soda believe sense square cancel open weekend candy heavy group";
+var mnemonic = "vivid across kitchen trust want fit relief cousin follow hazard legend differ";

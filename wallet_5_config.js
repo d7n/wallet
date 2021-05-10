@@ -1,1 +1,1 @@
-var mnemonic = "jeans twist phone sport online forum excuse memory athlete rifle ritual place";
+var mnemonic = "little pretty danger celery fiscal smile blossom history banana material tornado merry";

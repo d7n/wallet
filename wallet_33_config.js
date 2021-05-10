@@ -1,1 +1,1 @@
-var mnemonic = "alpha wood animal twist one mask logic cricket toast slim happy torch";
+var mnemonic = "pulse genuine siren reduce require option infant fat vendor aerobic green danger";

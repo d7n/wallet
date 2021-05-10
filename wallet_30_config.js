@@ -1,1 +1,1 @@
-var mnemonic = "myth announce curtain across chair escape panther toast badge oak reopen shove";
+var mnemonic = "benefit above sail believe nose train borrow repair prosper length beauty lock";

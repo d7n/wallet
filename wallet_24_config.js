@@ -1,1 +1,1 @@
-var mnemonic = "stove liar fortune cat join shrug video jump first army belt outside";
+var mnemonic = "upper pattern random floor anxiety bone west pull trade viable proud album";

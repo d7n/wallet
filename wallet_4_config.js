@@ -1,1 +1,1 @@
-var mnemonic = "release squeeze trigger thing nation bonus energy shield voyage eye elbow nest";
+var mnemonic = "usage equal renew solar lounge wagon peace trust inner laugh maid tent";

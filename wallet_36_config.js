@@ -1,1 +1,1 @@
-var mnemonic = "left peanut meat garbage segment devote rate net expose audit screen shallow";
+var mnemonic = "chef elder art move crew praise flight slot trim chimney fly olive";

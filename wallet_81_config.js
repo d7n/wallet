@@ -1,1 +1,1 @@
-var mnemonic = "armed million lake hour lazy jump arrest actor rapid clutch muscle viable";
+var mnemonic = "uniform gown explain dream leisure aunt print account cousin hurdle jealous soda";

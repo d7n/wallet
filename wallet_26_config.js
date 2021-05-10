@@ -1,1 +1,1 @@
-var mnemonic = "drink nasty account surround mesh noodle parade thank again drastic sustain property";
+var mnemonic = "royal trend lizard kitten pact mutual outer tobacco vital disagree hidden since";

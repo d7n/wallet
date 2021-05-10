@@ -1,1 +1,1 @@
-var mnemonic = "boost seek vote order consider tackle winter begin flee neither undo grant";
+var mnemonic = "learn round curtain shine sphere purpose suspect gown finish effort attend push";

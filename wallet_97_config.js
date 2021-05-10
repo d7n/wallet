@@ -1,1 +1,1 @@
-var mnemonic = "maze slide vanish average approve next coconut left top pair gap truly";
+var mnemonic = "during pulp tribe expand exercise oven path gadget match plug donate wrap";

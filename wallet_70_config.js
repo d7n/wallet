@@ -1,1 +1,1 @@
-var mnemonic = "olympic now fee pepper super toast remove spin sure swallow feed episode";
+var mnemonic = "tumble reward catalog end enforce unveil ocean unveil upper wear decline grain";

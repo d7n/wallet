@@ -1,1 +1,1 @@
-var mnemonic = "culture idea crew core next lyrics open cry weasel aware lunch come";
+var mnemonic = "trash boat obvious fun version circle champion major close summer together nephew";

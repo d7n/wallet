@@ -1,1 +1,1 @@
-var mnemonic = "sadness basic wall excuse trophy idea route sausage burger destroy obscure badge";
+var mnemonic = "extra rebel oil shell daughter assist stove diary about word merit render";

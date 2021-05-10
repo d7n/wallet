@@ -1,1 +1,1 @@
-var mnemonic = "oblige story open peasant jazz case robust ghost song possible curious gift";
+var mnemonic = "nothing choice steak carry snack involve shoe vocal member sign since hollow";

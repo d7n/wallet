@@ -1,1 +1,1 @@
-var mnemonic = "snake join favorite tuna gaze tail sudden normal aspect sword proof vivid";
+var mnemonic = "insect soul nut used egg range cable fee dignity curve success cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "nice decline collect baby since smoke item theory beauty swallow ginger oxygen";
+var mnemonic = "crush mean pledge topple expect hair foam salmon cake immense cabbage glow";

@@ -1,1 +1,1 @@
-var mnemonic = "panic donkey imitate whisper myth season visit armed shine scrap cage eagle";
+var mnemonic = "resist cook else valve maze torch curve eager reduce wreck history rebuild";

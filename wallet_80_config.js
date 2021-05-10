@@ -1,1 +1,1 @@
-var mnemonic = "drill pair maid language end chicken oyster trust render alpha decorate barely";
+var mnemonic = "sick surround express winner nose pave extra siege grocery usual flavor front";

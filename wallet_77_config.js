@@ -1,1 +1,1 @@
-var mnemonic = "remind stuff letter project chunk finger scout chair ranch ketchup vehicle diet";
+var mnemonic = "friend layer gown purpose phone this wide people act beach silk dizzy";

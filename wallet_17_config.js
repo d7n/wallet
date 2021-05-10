@@ -1,1 +1,1 @@
-var mnemonic = "venture alley attract lady alert wife pen absurd estate smile alley maple";
+var mnemonic = "mosquito local penalty cry trial van deer merit song claim excuse noodle";

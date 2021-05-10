@@ -1,1 +1,1 @@
-var mnemonic = "black spy gold fog inmate vendor fade vote inner stay lake few";
+var mnemonic = "steak control unfold august grace enable annual sample blush guilt leaf caution";

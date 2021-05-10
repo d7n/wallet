@@ -1,1 +1,1 @@
-var mnemonic = "easy aerobic galaxy draft suffer deliver angle identify music away output acid";
+var mnemonic = "profit thumb attract spice hazard crash car prevent rude future wagon buffalo";

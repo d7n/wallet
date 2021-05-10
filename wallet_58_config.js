@@ -1,1 +1,1 @@
-var mnemonic = "source stage female flock reunion arctic submit traffic accuse series service arena";
+var mnemonic = "cable flash tourist thank goddess lonely first crush antique venture decline yard";

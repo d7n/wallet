@@ -1,1 +1,1 @@
-var mnemonic = "owner because gaze grit paddle video man hard know cycle prevent axis";
+var mnemonic = "make clump shoulder believe piano direct lounge depend body original flavor impose";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy act crunch curious thunder resist small allow lava dish squirrel motion";
+var mnemonic = "square battle exhaust rubber vote remind hint prison shine render wheat coil";

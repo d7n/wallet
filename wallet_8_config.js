@@ -1,1 +1,1 @@
-var mnemonic = "spider uncle dismiss tuition mail loud satoshi truth general melody treat state";
+var mnemonic = "scan wish suggest make casino own shield pluck glow fold say flip";

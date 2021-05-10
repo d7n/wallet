@@ -1,1 +1,1 @@
-var mnemonic = "column toy kid scan mixed path meadow carpet dice subway panic someone";
+var mnemonic = "cycle side strike item surprise bundle lyrics pudding dice mystery design rally";

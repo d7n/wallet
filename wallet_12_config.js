@@ -1,1 +1,1 @@
-var mnemonic = "seek orient together insane appear check apology holiday trade split citizen town";
+var mnemonic = "soup tongue glass green able warfare goddess exhibit diet shrug gossip roof";

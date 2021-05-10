@@ -1,1 +1,1 @@
-var mnemonic = "truly title rack price embrace lemon gold health wing antenna glow nephew";
+var mnemonic = "battle silly artist summer mirror saddle adult sugar metal stick exact lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "embody robust kid tumble exclude mind quote noodle glare click float sand";
+var mnemonic = "manage universe risk gather evil million wood capable offer vote train reason";

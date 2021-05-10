@@ -1,1 +1,1 @@
-var mnemonic = "crater toss latin buddy siege soup rural adjust trash mammal border lawn";
+var mnemonic = "awesome today under wrist sponsor ghost surround moral diamond answer dolphin boring";

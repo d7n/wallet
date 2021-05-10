@@ -1,1 +1,1 @@
-var mnemonic = "start biology famous page purpose road scatter cat skate olive asset crowd";
+var mnemonic = "hen shrimp valid stage track sausage taxi cancel frost mass quality foot";

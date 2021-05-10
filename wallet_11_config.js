@@ -1,1 +1,1 @@
-var mnemonic = "arrange summer language negative start tray sibling undo since march route supreme";
+var mnemonic = "era inside absurd powder cactus mad ski trophy brain exercise lazy destroy";

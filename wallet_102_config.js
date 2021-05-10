@@ -1,1 +1,1 @@
-var mnemonic = "sugar jealous pause industry surface appear wedding cement bench surface choose pull";
+var mnemonic = "bring gas wait pencil curtain control gun visa meadow garlic solution cannon";

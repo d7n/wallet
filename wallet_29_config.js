@@ -1,1 +1,1 @@
-var mnemonic = "used struggle symptom during seven soul mushroom main sport dance black word";
+var mnemonic = "setup idle correct seek fuel blue excuse ice marble armor injury embody";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet seven dry silly theory donkey exotic couch sting rabbit funny segment";
+var mnemonic = "tortoise whisper connect panic globe unhappy sustain pluck chase marriage artist essay";

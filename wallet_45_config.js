@@ -1,1 +1,1 @@
-var mnemonic = "rookie melody inquiry seven beach light position mistake velvet collect skull dream";
+var mnemonic = "physical better rabbit day design twin betray rescue mountain diesel grief sweet";

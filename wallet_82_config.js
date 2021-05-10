@@ -1,1 +1,1 @@
-var mnemonic = "opera weekend laundry grace plunge crazy diamond common field into amount hurdle";
+var mnemonic = "cash suspect mystery outside never order super zoo dust diamond connect payment";

@@ -1,1 +1,1 @@
-var mnemonic = "morning speed deputy lumber venture juice pride just bunker december extend will";
+var mnemonic = "eternal adapt only robot sorry clever coil disorder achieve slim security they";

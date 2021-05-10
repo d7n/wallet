@@ -1,1 +1,1 @@
-var mnemonic = "submit because that brisk idle honey subway crucial produce hard food cost";
+var mnemonic = "vast snap hurt rocket misery connect sibling kit aspect empty machine stove";

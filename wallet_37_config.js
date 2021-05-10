@@ -1,1 +1,1 @@
-var mnemonic = "oil cute retire dad chuckle midnight ability ripple goose gold reward behind";
+var mnemonic = "february trust absorb journey once crop wagon emerge deputy local tattoo wrap";

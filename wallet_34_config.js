@@ -1,1 +1,1 @@
-var mnemonic = "over oxygen safe expose behind energy mirror abandon dad slot dinner butter";
+var mnemonic = "arrow spatial raw short nominee vacuum silent minimum current success gravity fly";

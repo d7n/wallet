@@ -1,1 +1,1 @@
-var mnemonic = "iron shrimp apology huge employ pond fruit total humble cigar disease announce";
+var mnemonic = "bargain clerk actor entry cupboard capable parade exhaust stay eternal wall chaos";

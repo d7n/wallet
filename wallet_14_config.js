@@ -1,1 +1,1 @@
-var mnemonic = "relax dentist alcohol apart innocent unable pill entire analyst apart slogan cherry";
+var mnemonic = "retreat satoshi nose notice orphan vivid combine power lawsuit coral amateur erode";

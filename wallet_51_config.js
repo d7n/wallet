@@ -1,1 +1,1 @@
-var mnemonic = "armor wage sword brave rocket rude wise green future camera cradle exotic";
+var mnemonic = "unfold dust tattoo curious also dilemma quick axis always humble duck shoot";

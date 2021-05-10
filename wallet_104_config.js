@@ -1,1 +1,1 @@
-var mnemonic = "dragon tilt wheel text rocket gentle base property trigger sudden uncle blush";
+var mnemonic = "regret april vintage risk wealth climb tenant ensure crowd city hard elevator";

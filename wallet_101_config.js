@@ -1,1 +1,1 @@
-var mnemonic = "rebel cabbage snow edge notable caution taxi stable normal tragic choose share";
+var mnemonic = "avocado innocent clog figure dish drill brief federal sponsor hood unique garment";

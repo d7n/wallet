@@ -1,1 +1,1 @@
-var mnemonic = "submit color absorb meat tornado rent delay length recipe sheriff enemy like";
+var mnemonic = "wrong echo first jump another canal art lucky increase chair stumble child";

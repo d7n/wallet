@@ -1,1 +1,1 @@
-var mnemonic = "episode index flee tape arrow legend claw same brother green faint raccoon";
+var mnemonic = "artwork rigid nut defense warrior nut nephew illness silly carbon slam later";

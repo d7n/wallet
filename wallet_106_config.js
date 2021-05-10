@@ -1,1 +1,1 @@
-var mnemonic = "relax idea brown giggle twist output fragile corn screen abandon layer drill";
+var mnemonic = "exist indoor matter candy minor pretty around often mobile agree ginger powder";

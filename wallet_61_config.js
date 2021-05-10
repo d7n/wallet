@@ -1,1 +1,1 @@
-var mnemonic = "credit supply stove wall fortune scorpion draft inquiry device minute tortoise ketchup";
+var mnemonic = "angle ripple deliver win liberty install virtual junk job heavy repair feed";

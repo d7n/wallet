@@ -1,1 +1,1 @@
-var mnemonic = "sunset enforce title actor emotion whale blanket churn dog pig day near";
+var mnemonic = "bubble spend exhibit uniform broom orchard celery check daughter siren lottery curious";

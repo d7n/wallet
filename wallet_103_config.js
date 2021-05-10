@@ -1,1 +1,1 @@
-var mnemonic = "conduct fiction client coach orbit culture wing doll brave fox siege help";
+var mnemonic = "muffin seven thought weather notice mind type half admit excess pulse hub";

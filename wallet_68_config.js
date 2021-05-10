@@ -1,1 +1,1 @@
-var mnemonic = "museum secret blame escape dirt topple tip enforce blanket paddle viable snow";
+var mnemonic = "lake setup merry wish reunion enjoy define census atom enlist follow toy";

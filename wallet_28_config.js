@@ -1,1 +1,1 @@
-var mnemonic = "flush april slab mad cruel search organ open reveal divide key wear";
+var mnemonic = "fine august alone talent torch throw select invite pigeon tribe laundry hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "own error worry resemble slush maze style risk invite humor series dust";
+var mnemonic = "achieve patrol summer spoon reward steak orange seed diary utility arrive used";

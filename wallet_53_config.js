@@ -1,1 +1,1 @@
-var mnemonic = "inside opinion fuel scorpion fuel ride reform cry erupt smile hard ritual";
+var mnemonic = "cloth dumb skull swallow waste repair helmet change prevent february pause decide";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle citizen purse media filter pepper reduce tortoise depart change execute milk";
+var mnemonic = "rain chicken truth exchange knock front narrow spike horn salute meat rude";

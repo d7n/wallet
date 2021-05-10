@@ -1,1 +1,1 @@
-var mnemonic = "kid harsh shine wolf tower two rice soul dolphin life scrub tide";
+var mnemonic = "shed moon spend oak predict kidney pledge snap belt spider grow into";

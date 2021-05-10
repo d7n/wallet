@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dirt expand ugly tool feed under above fitness sand actress day";
+var mnemonic = "salute vessel deal elephant erode since defy token gain nothing food rough";

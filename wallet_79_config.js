@@ -1,1 +1,1 @@
-var mnemonic = "father sheriff field explain normal ivory recycle wave item race craft cook";
+var mnemonic = "various amazing enact warfare install choose urge correct cricket marine angry calm";

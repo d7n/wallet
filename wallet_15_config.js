@@ -1,1 +1,1 @@
-var mnemonic = "love tone world bronze term dumb denial dragon twist gauge law december";
+var mnemonic = "calm waste diary october bunker agent happy use paddle staff early fly";

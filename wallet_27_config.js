@@ -1,1 +1,1 @@
-var mnemonic = "duty tuition donor isolate reveal panel jacket stereo drift smart crater cradle";
+var mnemonic = "direct rose leader thumb gain hero phone blast electric ginger apple shallow";

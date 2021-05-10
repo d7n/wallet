@@ -1,1 +1,1 @@
-var mnemonic = "ring exchange pilot yellow grace scout want voice hub story plastic differ";
+var mnemonic = "bridge volume certain tackle orphan theory goddess fork across grocery lonely annual";

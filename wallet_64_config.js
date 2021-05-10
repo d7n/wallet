@@ -1,1 +1,1 @@
-var mnemonic = "shop vanish round fit abandon idle coconut camera life find account student";
+var mnemonic = "pencil output deposit egg habit misery horror belt crowd gorilla front thing";

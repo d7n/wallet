@@ -1,1 +1,1 @@
-var mnemonic = "range cram possible reopen flash muscle decrease door mutual morning side neutral";
+var mnemonic = "have stuff elevator miracle type movie six party into term steel buffalo";

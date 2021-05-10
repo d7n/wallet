@@ -1,1 +1,1 @@
-var mnemonic = "asset ramp chimney evil soft tag sentence pudding pig unfold minute voice";
+var mnemonic = "dumb remove multiply fee expect cruise verify fashion pave text member rely";

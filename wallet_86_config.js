@@ -1,1 +1,1 @@
-var mnemonic = "steak cat couch hub must stereo analyst attitude clinic squirrel token orient";
+var mnemonic = "sausage unknown broccoli cover couch chef gloom price spring thought afford match";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion logic wrap tennis board desert wise choice sight master aisle fury";
+var mnemonic = "trim stay want stable copper column kidney medal shadow make moon shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "tide hat limit minimum basic heavy rural fortune lucky flock stick truck";
+var mnemonic = "census toss pause brass cruel critic atom fatigue squeeze resemble pattern galaxy";

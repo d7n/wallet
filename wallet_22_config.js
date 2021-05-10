@@ -1,1 +1,1 @@
-var mnemonic = "pool harsh fringe deliver gas alpha display diary buyer fashion usage design";
+var mnemonic = "job vast crater pen pioneer autumn market pave frost tongue income beyond";

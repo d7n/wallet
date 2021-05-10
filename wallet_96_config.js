@@ -1,1 +1,1 @@
-var mnemonic = "sun diesel piece fruit sight try nose breeze sister ritual zone stage";
+var mnemonic = "actor stage math detect install penalty horror moment warm group benefit acquire";

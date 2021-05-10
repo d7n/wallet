@@ -1,1 +1,1 @@
-var mnemonic = "response joy close weasel spray miracle actress install normal jeans average upgrade";
+var mnemonic = "stereo scan fossil badge choose garden open inch ripple silly mountain vehicle";

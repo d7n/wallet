@@ -1,1 +1,1 @@
-var mnemonic = "put across mean donate solve sunset educate glance bomb make craft bridge";
+var mnemonic = "scrap erosion negative grape exit smart birth quarter ask join claim scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "hint east agree theme address raven nose plunge shrug pill render north";
+var mnemonic = "olive exact puzzle pipe gesture strike pride access slow trouble field citizen";

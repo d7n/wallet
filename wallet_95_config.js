@@ -1,1 +1,1 @@
-var mnemonic = "report say student prize bulb virus kite face vital analyst wave direct";
+var mnemonic = "exhibit unit cool health mistake below few erosion length flight usual song";

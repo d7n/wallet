@@ -1,1 +1,1 @@
-var mnemonic = "holiday clock autumn brick crisp member enter avocado robust shop divert noble";
+var mnemonic = "cash loop cigar minor brisk wasp vanish husband scissors three trim park";

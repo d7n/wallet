@@ -1,1 +1,1 @@
-var mnemonic = "ceiling total trial elbow mule capital this truly chair two napkin time";
+var mnemonic = "example volume goddess patrol liberty object clog primary strategy oblige scene language";
