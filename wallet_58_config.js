@@ -1,1 +1,1 @@
-var mnemonic = "crush unit roof pudding nurse child suggest spoil three vital seed curtain";
+var mnemonic = "luggage casual oven unfold theory cash midnight involve piece remember ready fix";

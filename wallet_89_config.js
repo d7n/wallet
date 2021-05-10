@@ -1,1 +1,1 @@
-var mnemonic = "barely path shock impulse fresh deny object crystal rabbit rebuild any please";
+var mnemonic = "enemy sign fabric parrot border expand peanut glide easily wolf bread north";

@@ -1,1 +1,1 @@
-var mnemonic = "present magic flee immune wrist place major hero absurd replace arrest usage";
+var mnemonic = "buffalo desert edge crash joy almost donate usual satoshi divorce onion vocal";

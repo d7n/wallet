@@ -1,1 +1,1 @@
-var mnemonic = "false lemon salon rule find wine cannon affair evolve double fabric myth";
+var mnemonic = "sustain useful once merit bind chunk forget elephant prevent vault draw erupt";

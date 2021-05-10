@@ -1,1 +1,1 @@
-var mnemonic = "involve jaguar lion chef crater hidden hope spare artefact beyond loop feed";
+var mnemonic = "glance glove casual video sword acid disagree enemy flash thunder size wagon";

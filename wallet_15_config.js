@@ -1,1 +1,1 @@
-var mnemonic = "coil shield palace unit access rhythm scheme alarm perfect admit choose brass";
+var mnemonic = "oppose mother soccer unit arctic inflict effort spray shop surface puzzle quick";

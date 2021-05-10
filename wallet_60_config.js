@@ -1,1 +1,1 @@
-var mnemonic = "middle claw sister where age tell renew erase seek settle pistol traffic";
+var mnemonic = "monster cereal muffin find month color pool stone crash renew home swarm";

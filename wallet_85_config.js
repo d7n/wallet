@@ -1,1 +1,1 @@
-var mnemonic = "illegal snake ask world spread face render slim divide car lobster level";
+var mnemonic = "effort where earn lake stove now transfer attract toilet tool notable prize";

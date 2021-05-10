@@ -1,1 +1,1 @@
-var mnemonic = "convince add link wear rhythm bamboo chair shrug hold actual hen essence";
+var mnemonic = "cram general jacket skull million story sign menu spirit gasp talk pigeon";

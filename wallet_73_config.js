@@ -1,1 +1,1 @@
-var mnemonic = "clown butter spoil where dentist asthma motor mail unfold birth pet repeat";
+var mnemonic = "say solar mango smile job feed monster today fence speed vehicle medal";

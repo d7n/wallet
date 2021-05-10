@@ -1,1 +1,1 @@
-var mnemonic = "achieve satoshi prison exercise sad judge similar robot cycle attract junk faculty";
+var mnemonic = "rare people mirror tone ten fabric divert warrior era climb column law";

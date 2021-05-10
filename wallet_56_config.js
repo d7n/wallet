@@ -1,1 +1,1 @@
-var mnemonic = "employ strike allow alpha say vacant panther master worth page derive dolphin";
+var mnemonic = "garden team square raise affair boss machine possible skate ask peace agree";

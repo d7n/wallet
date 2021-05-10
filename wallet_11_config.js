@@ -1,1 +1,1 @@
-var mnemonic = "eager unfair kind nasty fruit traffic street verify people casino glance unaware";
+var mnemonic = "recipe romance slot produce huge fold badge push unable envelope lyrics receive";

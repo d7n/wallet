@@ -1,1 +1,1 @@
-var mnemonic = "wrap bronze square shield shell portion current scorpion twist ghost ritual power";
+var mnemonic = "audit client mansion like vendor diamond oak pretty ancient laundry play frame";

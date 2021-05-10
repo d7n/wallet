@@ -1,1 +1,1 @@
-var mnemonic = "film call stable area violin phone found amount acquire hunt practice base";
+var mnemonic = "unlock involve fog double canyon burst used gaze happy merry tower winner";

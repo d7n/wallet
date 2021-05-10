@@ -1,1 +1,1 @@
-var mnemonic = "era error pledge uncle creek silly baby simple mechanic dice eyebrow depend";
+var mnemonic = "trust cage cotton lounge danger appear safe job rival coyote include present";

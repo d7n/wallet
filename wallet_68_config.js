@@ -1,1 +1,1 @@
-var mnemonic = "fame strike glance very stairs dad fold flush action seat rely shrimp";
+var mnemonic = "join surprise above math cram green case ripple hazard copy cave benefit";

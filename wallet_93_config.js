@@ -1,1 +1,1 @@
-var mnemonic = "public material barely asthma distance bridge absorb firm grid smile between among";
+var mnemonic = "rocket deer crime swap blossom human arm then cave fade salt body";

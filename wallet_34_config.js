@@ -1,1 +1,1 @@
-var mnemonic = "breeze solar wink type candy roof run myth lion minute dress moment";
+var mnemonic = "hobby cause slim network indoor real paddle meat author custom leaf fatigue";

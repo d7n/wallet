@@ -1,1 +1,1 @@
-var mnemonic = "gift roast general steel coral wheel tip people evidence need shoot hybrid";
+var mnemonic = "divert develop pond pizza fun curve filter still coconut other winner program";

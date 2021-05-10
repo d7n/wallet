@@ -1,1 +1,1 @@
-var mnemonic = "another clip angle vocal clap dragon honey assist zebra clarify when riot";
+var mnemonic = "age unhappy install ridge excess grab later wagon collect knock hunt sense";

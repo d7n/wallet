@@ -1,1 +1,1 @@
-var mnemonic = "fabric upon burst truck lend apple unit session spin twice celery hurt";
+var mnemonic = "federal calm fancy misery occur thought bomb coral fit wool cactus fall";

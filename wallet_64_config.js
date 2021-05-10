@@ -1,1 +1,1 @@
-var mnemonic = "since arrive label another sample reunion recipe excite they lens list fish";
+var mnemonic = "will suffer private series weird adjust rifle snap list tape gaze endless";

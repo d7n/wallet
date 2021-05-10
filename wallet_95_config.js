@@ -1,1 +1,1 @@
-var mnemonic = "nothing live envelope buddy acoustic invest phrase master diet genre giggle laptop";
+var mnemonic = "leopard blade deliver glove squeeze verb piece exact foam ostrich purse bleak";

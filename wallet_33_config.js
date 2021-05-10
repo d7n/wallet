@@ -1,1 +1,1 @@
-var mnemonic = "cliff slight wrong segment doctor moment glide peace miss awesome initial hunt";
+var mnemonic = "reform ignore hamster car service clump maid over icon talk flash sample";

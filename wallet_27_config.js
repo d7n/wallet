@@ -1,1 +1,1 @@
-var mnemonic = "primary elevator bunker supreme submit immense critic gadget riot rib prize buyer";
+var mnemonic = "depth mule umbrella polar faith sell front zero drip crop omit shallow";

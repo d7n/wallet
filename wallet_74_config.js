@@ -1,1 +1,1 @@
-var mnemonic = "upset addict satisfy chicken snack cart dynamic live behave wet merge drill";
+var mnemonic = "fee present present mystery wink sister jump impose occur ribbon aim switch";

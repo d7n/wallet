@@ -1,1 +1,1 @@
-var mnemonic = "volcano alien return mandate add frost immune tent cross cost memory measure";
+var mnemonic = "favorite female holiday trade clown bicycle bread maximum situate poet record youth";

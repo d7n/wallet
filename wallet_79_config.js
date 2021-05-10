@@ -1,1 +1,1 @@
-var mnemonic = "high paper blind appear gorilla session column slide busy year egg weekend";
+var mnemonic = "animal crack approve egg entry upgrade joke laptop music venue ski wife";

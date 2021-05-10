@@ -1,1 +1,1 @@
-var mnemonic = "stick net cricket choose accident able talent salute tomorrow fatal core ball";
+var mnemonic = "rather clump spread crouch roast glue million hurry raven pave off grace";

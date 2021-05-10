@@ -1,1 +1,1 @@
-var mnemonic = "silly dawn about mansion clarify purpose clerk bunker face void input reveal";
+var mnemonic = "vocal garbage cluster tennis clay bicycle cook april sick busy race royal";

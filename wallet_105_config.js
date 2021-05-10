@@ -1,1 +1,1 @@
-var mnemonic = "buffalo tail heavy oven balcony joke oval ready tooth urge man armed";
+var mnemonic = "already during hover error lemon rabbit tourist march team print mercy profit";

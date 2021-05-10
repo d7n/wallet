@@ -1,1 +1,1 @@
-var mnemonic = "rack agent practice tribe rifle reunion witness assist scare actual ranch devote";
+var mnemonic = "around ramp federal discover champion little convince fruit shuffle beauty meadow oak";

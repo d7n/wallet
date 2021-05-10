@@ -1,1 +1,1 @@
-var mnemonic = "voice that inhale city wink search mean client boat mosquito deliver jewel";
+var mnemonic = "cushion legal grocery festival cradle else check replace apart pupil dress cash";

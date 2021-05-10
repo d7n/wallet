@@ -1,1 +1,1 @@
-var mnemonic = "chaos powder canyon angle loop trumpet never hungry sugar estate tiny rude";
+var mnemonic = "green addict dust jaguar before private amount erosion auction define seminar engine";

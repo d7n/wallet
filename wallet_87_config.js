@@ -1,1 +1,1 @@
-var mnemonic = "hole soap clap honey strong scheme awake slab replace range notable endless";
+var mnemonic = "start good discover subject curtain upset aerobic snap broom camp prepare body";

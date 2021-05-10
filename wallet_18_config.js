@@ -1,1 +1,1 @@
-var mnemonic = "impact move universe near amateur awake submit voice gravity wage clock upper";
+var mnemonic = "script atom crane cactus mouse umbrella fruit twist junior refuse ordinary drive";

@@ -1,1 +1,1 @@
-var mnemonic = "brand photo swap jeans giraffe family security steak easy way slow animal";
+var mnemonic = "seven solve split hen never wrist shadow drip gesture hockey gun radar";

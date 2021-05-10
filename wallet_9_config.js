@@ -1,1 +1,1 @@
-var mnemonic = "napkin vital charge snake near impose arm minute scatter flame below tumble";
+var mnemonic = "quote swallow rubber hidden surround upper survey prevent apology remain ceiling police";

@@ -1,1 +1,1 @@
-var mnemonic = "time post focus loyal forward orchard air top exotic fix defy rich";
+var mnemonic = "arm nut lamp help matrix misery advice drink patrol tired fringe cycle";

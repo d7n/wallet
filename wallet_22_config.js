@@ -1,1 +1,1 @@
-var mnemonic = "there hip surround permit card transfer theme top best casual milk mention";
+var mnemonic = "lock collect cherry night since ankle achieve sad forum write fan nerve";

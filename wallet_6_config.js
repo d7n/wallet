@@ -1,1 +1,1 @@
-var mnemonic = "tired update brother present advance soccer lunar alley addict quiz visa neutral";
+var mnemonic = "connect devote enact turtle mesh suspect jazz cake refuse charge desk element";

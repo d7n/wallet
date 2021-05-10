@@ -1,1 +1,1 @@
-var mnemonic = "impact smooth speak prefer athlete rare someone pony budget giant crash couple";
+var mnemonic = "loud mutual soldier buffalo master cake above awesome mean gravity stomach work";

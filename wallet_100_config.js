@@ -1,1 +1,1 @@
-var mnemonic = "silk beef leg ring degree group assist response will penalty erode cannon";
+var mnemonic = "notice test large swear opinion average option hazard shield monkey one tag";

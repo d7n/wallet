@@ -1,1 +1,1 @@
-var mnemonic = "journey bench loud jaguar resemble corn defense rebuild attract base disease remove";
+var mnemonic = "body prepare supreme example swap spend fancy electric tongue luxury oblige balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm like lecture pen green stick power issue host remove dove link";
+var mnemonic = "pipe illegal upgrade glory prosper slush okay ice torch waste space border";

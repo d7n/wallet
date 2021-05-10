@@ -1,1 +1,1 @@
-var mnemonic = "wagon shallow carbon bulb duty memory body era marriage various worth tip";
+var mnemonic = "upgrade achieve shadow vehicle rely size midnight nation flower olive whale recall";

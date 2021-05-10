@@ -1,1 +1,1 @@
-var mnemonic = "law move caution wild shy indicate play beef diet soft shift divorce";
+var mnemonic = "original inch label fork desk accuse weapon twist rebuild slot dose deliver";

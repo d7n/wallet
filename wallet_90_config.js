@@ -1,1 +1,1 @@
-var mnemonic = "leader rare two delay group search cross appear banana knock daring wonder";
+var mnemonic = "nut tip sword valid powder column thought obtain receive pupil vote river";

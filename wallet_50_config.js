@@ -1,1 +1,1 @@
-var mnemonic = "kite industry shed tunnel intact bean snow degree page arrest plug elite";
+var mnemonic = "exchange top senior crouch laugh acid diesel oppose table world pet verify";

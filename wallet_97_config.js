@@ -1,1 +1,1 @@
-var mnemonic = "minute park document region margin tail later misery half direct style pen";
+var mnemonic = "shove marine attend pact rural meat step electric injury useful someone ocean";

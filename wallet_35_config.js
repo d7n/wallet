@@ -1,1 +1,1 @@
-var mnemonic = "evolve cheap skill hip term biology valley odor imitate real defy page";
+var mnemonic = "mechanic approve gravity earth gather sail convince possible valid acquire tooth twist";

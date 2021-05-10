@@ -1,1 +1,1 @@
-var mnemonic = "message gossip impact make liquid good luxury wish weird moon raven junior";
+var mnemonic = "immense spread annual cactus lumber life guess hat rain minimum excess vicious";

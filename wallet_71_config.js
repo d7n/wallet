@@ -1,1 +1,1 @@
-var mnemonic = "raise head nest legal normal good link fan horn wave soccer ability";
+var mnemonic = "stumble sibling balcony behind foster two vacuum square ocean visual lottery audit";

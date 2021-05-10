@@ -1,1 +1,1 @@
-var mnemonic = "valid balcony over omit make blame predict rib organ caution core phrase";
+var mnemonic = "antique cereal dinner peace multiply wing ask empty wood helmet age dirt";

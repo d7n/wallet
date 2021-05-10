@@ -1,1 +1,1 @@
-var mnemonic = "dentist kitten dentist popular cash toss crush extend mechanic today vanish fitness";
+var mnemonic = "ripple mountain reflect glue pelican mix harsh erode master time fee lizard";

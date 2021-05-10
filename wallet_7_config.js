@@ -1,1 +1,1 @@
-var mnemonic = "eye mouse glide inquiry enter mixed side result match riot upon obscure";
+var mnemonic = "main yard various suspect job joke know have evil decline clever noise";

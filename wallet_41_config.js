@@ -1,1 +1,1 @@
-var mnemonic = "ranch rival great invite match input afford slab soap rose shrimp motor";
+var mnemonic = "blossom immense wage garbage suspect video crater leader model stamp trap curve";

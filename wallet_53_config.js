@@ -1,1 +1,1 @@
-var mnemonic = "creek wagon apology fatigue move leopard owner tragic interest sadness benefit battle";
+var mnemonic = "scatter flag inmate shine defy decade future shoulder learn fun brush camera";

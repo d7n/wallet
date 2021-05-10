@@ -1,1 +1,1 @@
-var mnemonic = "century hope kiss tag gossip cream absurd comic sail animal clap animal";
+var mnemonic = "ill shaft bid balcony sudden cloud notable jungle chair fancy video maple";

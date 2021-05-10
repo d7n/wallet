@@ -1,1 +1,1 @@
-var mnemonic = "butter anchor blanket endless bounce mimic express still engage else addict other";
+var mnemonic = "travel explain sentence check recipe crunch cement razor divide essay bike margin";

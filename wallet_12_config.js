@@ -1,1 +1,1 @@
-var mnemonic = "become secret chronic team matter walnut agree immense cluster essence beach door";
+var mnemonic = "slot chief tooth thought enemy render result purchase feature universe chest trip";

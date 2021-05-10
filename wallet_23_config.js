@@ -1,1 +1,1 @@
-var mnemonic = "job west speak action stock mammal purse cousin beef suit behind idea";
+var mnemonic = "budget surprise note mix always prevent parent service super effort pen draw";

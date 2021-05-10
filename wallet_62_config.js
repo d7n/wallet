@@ -1,1 +1,1 @@
-var mnemonic = "car fee opinion guide victory laptop magnet key bacon kitchen deny erode";
+var mnemonic = "clutch ramp trim laptop panic bird mother baby lumber achieve govern connect";

@@ -1,1 +1,1 @@
-var mnemonic = "aim during emerge faint fancy battle film supply evolve waste size awkward";
+var mnemonic = "weasel section fabric echo idle steel rifle depth dumb awful drop path";

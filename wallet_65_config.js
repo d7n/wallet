@@ -1,1 +1,1 @@
-var mnemonic = "vote motor protect recycle coffee umbrella warm arrow focus giggle option amount";
+var mnemonic = "cross will spare similar dinner seat arrest morning season media lyrics program";

@@ -1,1 +1,1 @@
-var mnemonic = "empower phone elevator round deposit key more blame addict arena attitude tonight";
+var mnemonic = "foil chuckle harsh nation blouse brave picture unveil abuse bundle bar dance";

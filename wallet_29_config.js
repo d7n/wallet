@@ -1,1 +1,1 @@
-var mnemonic = "bag road render surprise knife always focus inmate allow nose dad banana";
+var mnemonic = "tonight obtain payment fish system link one audit oxygen print sword guitar";

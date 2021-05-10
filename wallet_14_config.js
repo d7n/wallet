@@ -1,1 +1,1 @@
-var mnemonic = "much sniff disease fit current spoon cruise rhythm distance slide grain soul";
+var mnemonic = "until leopard blue topic lunar adult pond industry mad evil clog crisp";

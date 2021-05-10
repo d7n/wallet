@@ -1,1 +1,1 @@
-var mnemonic = "village curtain reunion master radio luggage kick usage lava bunker strategy relax";
+var mnemonic = "man spatial sting kingdom leader crowd patrol disagree stereo thrive disagree drama";

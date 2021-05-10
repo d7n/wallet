@@ -1,1 +1,1 @@
-var mnemonic = "maid ignore sword video open reunion cotton canoe try pottery van found";
+var mnemonic = "dwarf write game abstract wall sausage run six empty name tag pupil";

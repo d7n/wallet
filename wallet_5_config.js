@@ -1,1 +1,1 @@
-var mnemonic = "defense birth thumb garage dry pudding jelly average choice fix script country";
+var mnemonic = "harsh marine dwarf advice dragon glide razor glide buyer fatal deliver cereal";

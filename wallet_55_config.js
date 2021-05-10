@@ -1,1 +1,1 @@
-var mnemonic = "submit other tennis gravity glance modify rule hen solve attract smile job";
+var mnemonic = "grocery else among coast divorce lounge canyon draw leisure run attend asthma";

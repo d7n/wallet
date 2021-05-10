@@ -1,1 +1,1 @@
-var mnemonic = "above bulb moon kangaroo spider quick vault concert right client power wagon";
+var mnemonic = "muscle ranch safe corn modify wait render legend cereal empower cruel shrimp";

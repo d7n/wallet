@@ -1,1 +1,1 @@
-var mnemonic = "august grid convince era sad female trim vivid battle job relax trigger";
+var mnemonic = "warrior warrior enhance level alcohol people hidden live napkin emerge grit holiday";

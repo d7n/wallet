@@ -1,1 +1,1 @@
-var mnemonic = "moment plug define intact near warrior hand distance arrest genre slush narrow";
+var mnemonic = "exotic gallery clock flag panel patient hub repeat bone iron wheat misery";

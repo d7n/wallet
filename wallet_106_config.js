@@ -1,1 +1,1 @@
-var mnemonic = "plate yard cycle people menu victory melody gun must man over champion";
+var mnemonic = "wonder slide burger assault ecology piano immune cement abuse abstract intact spider";

@@ -1,1 +1,1 @@
-var mnemonic = "replace energy ankle bid wheel cart scissors shoe slogan favorite rather before";
+var mnemonic = "spy rapid roof bone kind march brisk catalog water planet clay federal";

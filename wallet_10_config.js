@@ -1,1 +1,1 @@
-var mnemonic = "few online fresh salmon arrive radio meat hood loyal disagree job exclude";
+var mnemonic = "spray forum coral citizen rare seminar recall sense runway hazard drum strategy";

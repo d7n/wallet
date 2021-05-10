@@ -1,1 +1,1 @@
-var mnemonic = "prefer kitchen reform smile group have fabric scorpion credit special thrive rookie";
+var mnemonic = "face ahead high one involve dentist farm curtain grace acoustic rail vibrant";

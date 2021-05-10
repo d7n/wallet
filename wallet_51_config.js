@@ -1,1 +1,1 @@
-var mnemonic = "crawl photo grow usual between slam knock renew increase solid mimic ten";
+var mnemonic = "believe claim coconut silver sword forget hurt meat seminar woman inhale senior";

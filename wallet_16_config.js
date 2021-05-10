@@ -1,1 +1,1 @@
-var mnemonic = "before behave orphan ride seven apple domain valid miracle layer immune dune";
+var mnemonic = "field toast pig defense build nerve hedgehog pelican lemon ostrich acid year";

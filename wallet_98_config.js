@@ -1,1 +1,1 @@
-var mnemonic = "gate burger pool hazard avoid remember wrap track profit all absurd curtain";
+var mnemonic = "usage kind collect ready web trick salad guilt forward version double speed";

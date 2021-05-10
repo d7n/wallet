@@ -1,1 +1,1 @@
-var mnemonic = "kidney rapid topic truly control service useless exact pear confirm arch alone";
+var mnemonic = "such element grain run net rose child entire open foot strategy subway";

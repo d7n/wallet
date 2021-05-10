@@ -1,1 +1,1 @@
-var mnemonic = "hip decide husband gesture zero point setup attitude rebel merge digital canoe";
+var mnemonic = "refuse exercise west kind laundry chase pony funny cement refuse amount pluck";

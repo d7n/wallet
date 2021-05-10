@@ -1,1 +1,1 @@
-var mnemonic = "cruise chat print mixture grid census loan hurt gaze power treat note";
+var mnemonic = "dawn rude job flash merge senior decorate wealth short method surge gold";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo divide name frame hurt cover achieve chalk faith glide oyster always";
+var mnemonic = "powder end clump view year balcony entire elevator glide young empower sword";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum solar satoshi shy custom soda erupt traffic hope machine crisp large";
+var mnemonic = "diesel warfare risk stamp acoustic vintage auto theory logic flip muffin express";

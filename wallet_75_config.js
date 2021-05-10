@@ -1,1 +1,1 @@
-var mnemonic = "drift salad blossom bone glimpse walk flush inner render arrest payment soldier";
+var mnemonic = "giggle unknown ticket shift off faint direct forest dumb home weasel lawsuit";

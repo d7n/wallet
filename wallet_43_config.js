@@ -1,1 +1,1 @@
-var mnemonic = "arm thrive limb aim rookie wine lunar walnut narrow brave clarify battle";
+var mnemonic = "engage safe purpose net adapt use bird all side paper focus blood";

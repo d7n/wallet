@@ -1,1 +1,1 @@
-var mnemonic = "arch enter beyond spy trade giggle century almost bomb put improve mask";
+var mnemonic = "network erode select have virus oak budget unaware plunge follow payment tuna";
