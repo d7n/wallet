@@ -1,1 +1,1 @@
-var mnemonic = "auction advance exhaust remain style fault property festival napkin merry oak owner";
+var mnemonic = "resist sudden broom stock salon sell manual menu upon mention loud spot";

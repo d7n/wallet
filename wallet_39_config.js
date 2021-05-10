@@ -1,1 +1,1 @@
-var mnemonic = "rifle day scare myself hope box giggle notable text spoil focus sadness";
+var mnemonic = "scorpion skin other evolve alone cactus modify mean upgrade slide autumn tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "horse slab cancel uncover record try feed meadow assume blame mimic error";
+var mnemonic = "journey medal visa desert dream emotion bounce march ivory tomorrow myth tornado";

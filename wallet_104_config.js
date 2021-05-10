@@ -1,1 +1,1 @@
-var mnemonic = "plug fashion leave slice bulk foster clever spoon label govern tiny stuff";
+var mnemonic = "rural often wide skirt mesh real guitar inform suggest face prison daughter";

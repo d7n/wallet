@@ -1,1 +1,1 @@
-var mnemonic = "view early notable unusual borrow tissue cute leisure race brain engage alcohol";
+var mnemonic = "fringe chat slide have raw dumb school exist fresh curve recipe bubble";

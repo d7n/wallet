@@ -1,1 +1,1 @@
-var mnemonic = "return input fame stem teach kiwi provide length issue base rack spin";
+var mnemonic = "alpha nephew one unusual nephew mercy scatter reject ticket wave circle enhance";

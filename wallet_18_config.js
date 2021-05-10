@@ -1,1 +1,1 @@
-var mnemonic = "embody decrease loan army common bone soon avocado refuse chat blast step";
+var mnemonic = "know nest often hard cattle delay alley chimney spot initial beyond cigar";

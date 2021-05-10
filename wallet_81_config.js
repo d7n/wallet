@@ -1,1 +1,1 @@
-var mnemonic = "trick panic column similar shoot health pool rather squeeze mesh stone hobby";
+var mnemonic = "bounce taxi rabbit type unveil young miss enjoy inmate sniff page vessel";

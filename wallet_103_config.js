@@ -1,1 +1,1 @@
-var mnemonic = "pledge vehicle ski disease sustain author supreme grant lava rival stage train";
+var mnemonic = "nothing follow sample admit question twelve sugar impulse alone syrup opinion happy";

@@ -1,1 +1,1 @@
-var mnemonic = "embody maid clown ladder bid height sphere core strike urge valley toe";
+var mnemonic = "drum select naive pottery cigar level chalk ghost script track split token";

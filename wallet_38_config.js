@@ -1,1 +1,1 @@
-var mnemonic = "come treat stamp stuff suffer hospital degree crumble april heart open lady";
+var mnemonic = "hope wheat corn inquiry poet two proud couple juice tray edit large";

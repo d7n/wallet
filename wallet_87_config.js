@@ -1,1 +1,1 @@
-var mnemonic = "movie plug cycle typical hawk garden mass kitten ketchup lab alley world";
+var mnemonic = "tunnel exit click position february average island lunch box general hub weather";

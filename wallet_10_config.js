@@ -1,1 +1,1 @@
-var mnemonic = "digital obey afraid silent cinnamon column movie proud case wife history worth";
+var mnemonic = "mango lunch before pole cherry bronze common pair night dune divide cabin";

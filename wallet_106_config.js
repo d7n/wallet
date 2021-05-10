@@ -1,1 +1,1 @@
-var mnemonic = "october flock decrease odor hair owner keen lab ivory tongue such level";
+var mnemonic = "fragile seed federal topic hurdle manage piece square speak main stage barely";

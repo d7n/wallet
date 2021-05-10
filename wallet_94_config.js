@@ -1,1 +1,1 @@
-var mnemonic = "clown evolve sorry wet goddess admit write capital staff great fall reunion";
+var mnemonic = "north furnace illness toilet shoe express mule circle tank rare junk material";

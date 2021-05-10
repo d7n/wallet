@@ -1,1 +1,1 @@
-var mnemonic = "stage bundle border cruise pluck boil clean dumb wage disease weird sudden";
+var mnemonic = "front tourist proof script put steak wonder snake shine matter spend bread";

@@ -1,1 +1,1 @@
-var mnemonic = "useful ugly version improve report recall sister guitar tongue save gasp whip";
+var mnemonic = "silk shift lecture anger rifle smoke people whale volume matrix arrow media";

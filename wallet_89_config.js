@@ -1,1 +1,1 @@
-var mnemonic = "essay spoil soap exhaust salmon track margin square crazy minute call square";
+var mnemonic = "subject suspect grab night wire found smile safe love retire journey dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous depth various filter inquiry vapor mixture shock dinner initial train electric";
+var mnemonic = "agree poverty shed fence february kick alcohol recipe vacant endless walk joy";

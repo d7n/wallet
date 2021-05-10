@@ -1,1 +1,1 @@
-var mnemonic = "jaguar drum vacant ride until cannon hen alter maple uncle slam mule";
+var mnemonic = "grace risk mom save thunder track turn abuse equal master lesson endorse";

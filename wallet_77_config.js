@@ -1,1 +1,1 @@
-var mnemonic = "accuse error west giant neither cement urge stumble ivory dilemma blush left";
+var mnemonic = "rabbit always subject table art frozen rail final whip injury mushroom sister";

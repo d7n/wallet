@@ -1,1 +1,1 @@
-var mnemonic = "screen giraffe east accident delay vendor shoulder demand must pilot rhythm exit";
+var mnemonic = "exchange dawn muffin comfort faith okay cycle visa public dash unknown antique";

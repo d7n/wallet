@@ -1,1 +1,1 @@
-var mnemonic = "minor cool ugly flag hire ranch uncle view cinnamon sense simple space";
+var mnemonic = "river treat mansion person essay version note love toilet naive winner attack";

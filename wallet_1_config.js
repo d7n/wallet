@@ -1,1 +1,1 @@
-var mnemonic = "purpose embody unhappy upper diet between crane husband scheme champion october dwarf";
+var mnemonic = "spawn vocal duty column obey hair wood borrow treat betray robust wonder";

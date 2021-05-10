@@ -1,1 +1,1 @@
-var mnemonic = "tower caution syrup arrow equal topple abandon cinnamon earn mango enter boat";
+var mnemonic = "shoe chest organ solve gun hard super jungle wealth slogan total nose";

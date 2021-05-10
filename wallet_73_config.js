@@ -1,1 +1,1 @@
-var mnemonic = "decide estate arrange frog merge network supreme joke skill miracle drop couch";
+var mnemonic = "despair jealous diagram spawn neither august force heart usual bargain range bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive glove recipe hole marble assault match danger analyst muscle toward judge";
+var mnemonic = "fog solid party vault useful goose accuse buffalo never tower innocent deputy";

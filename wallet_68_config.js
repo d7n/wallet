@@ -1,1 +1,1 @@
-var mnemonic = "electric black bird cave aunt sword mandate fortune viable best blush purse";
+var mnemonic = "inch young suggest grab modify always alarm industry reject swim appear parrot";

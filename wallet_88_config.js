@@ -1,1 +1,1 @@
-var mnemonic = "sure satoshi aware attack music fatal final curve model thing raccoon anchor";
+var mnemonic = "achieve medal daring print tumble smart move dwarf badge across tray alpha";

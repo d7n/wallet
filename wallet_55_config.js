@@ -1,1 +1,1 @@
-var mnemonic = "chief cook vocal kitchen truth midnight walnut gate daring ugly resist twice";
+var mnemonic = "dove way rough loan buyer liquid response spin track test asthma insane";

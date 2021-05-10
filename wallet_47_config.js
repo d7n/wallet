@@ -1,1 +1,1 @@
-var mnemonic = "evolve tennis front addict prison grunt someone maid hawk nut tonight excuse";
+var mnemonic = "spy detail code connect bounce tennis scheme vendor drive crime father vivid";

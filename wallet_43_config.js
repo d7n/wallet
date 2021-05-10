@@ -1,1 +1,1 @@
-var mnemonic = "truth upset radio coast palace honey crater clean person media auto maple";
+var mnemonic = "tornado tragic mango success sniff absorb gesture board produce relief during traffic";

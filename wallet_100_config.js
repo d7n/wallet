@@ -1,1 +1,1 @@
-var mnemonic = "raven anger drama piano wing elbow weather frame panel hockey scare aim";
+var mnemonic = "record layer silk copper cactus physical cart spring code ribbon illness reason";

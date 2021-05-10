@@ -1,1 +1,1 @@
-var mnemonic = "buddy leave charge alert seminar devote exact antenna lesson few warm convince";
+var mnemonic = "dutch defense labor hub order know wisdom mesh same turn drink alcohol";

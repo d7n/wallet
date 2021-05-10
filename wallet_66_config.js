@@ -1,1 +1,1 @@
-var mnemonic = "rather usage purity bean spice garage child nut ocean stomach dinosaur attitude";
+var mnemonic = "fortune tiger entire grid boost until sleep series slab shoot horn deer";

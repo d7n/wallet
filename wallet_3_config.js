@@ -1,1 +1,1 @@
-var mnemonic = "dune sleep away update giant permit popular initial daughter festival alpha level";
+var mnemonic = "bless amateur decorate shoe hand title together engine scale crystal note runway";

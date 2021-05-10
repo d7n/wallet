@@ -1,1 +1,1 @@
-var mnemonic = "zebra lawn craft gauge type captain pig visit sad scale kitten service";
+var mnemonic = "frequent feel river choose tackle glare marriage ball ceiling crop satisfy field";

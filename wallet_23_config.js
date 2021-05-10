@@ -1,1 +1,1 @@
-var mnemonic = "enhance alert pulp destroy science diagram across search sister noodle cargo list";
+var mnemonic = "fantasy meadow fetch deliver spread vessel acoustic tenant sad amount sketch switch";

@@ -1,1 +1,1 @@
-var mnemonic = "math lounge client there patch glare save artwork speed ramp scatter sing";
+var mnemonic = "crime pilot treat satisfy ecology civil marble damp edit clock panda chimney";

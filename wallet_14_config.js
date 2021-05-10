@@ -1,1 +1,1 @@
-var mnemonic = "great web outside dutch finger main emerge rival later useless rebuild salon";
+var mnemonic = "normal satisfy harvest elite emerge funny depart feed body often swamp company";

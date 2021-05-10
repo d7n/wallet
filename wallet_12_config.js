@@ -1,1 +1,1 @@
-var mnemonic = "keep hill corn artwork urge rhythm judge erupt disagree blanket say report";
+var mnemonic = "state other language garden good torch early genuine other exchange bright assault";

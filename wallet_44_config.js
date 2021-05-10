@@ -1,1 +1,1 @@
-var mnemonic = "lawn erosion girl gym flock web until sample spin trumpet pilot attend";
+var mnemonic = "lonely elevator industry strike divert century mix dash expose ball disease little";

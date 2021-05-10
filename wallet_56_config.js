@@ -1,1 +1,1 @@
-var mnemonic = "climb twin ten work goddess sick firm chief garden blouse chalk route";
+var mnemonic = "route saddle gloom copper verb only obscure size tomato harsh wild nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "depart pole join mule genre ahead salute file pause airport furnace visa";
+var mnemonic = "almost have fringe copy innocent olympic ribbon fresh strategy taste flight gaze";

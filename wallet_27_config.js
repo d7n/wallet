@@ -1,1 +1,1 @@
-var mnemonic = "poet catch large concert final prison scout funny symbol mystery addict reject";
+var mnemonic = "good able cause mass next luxury ensure speak animal defy bird moral";

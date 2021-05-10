@@ -1,1 +1,1 @@
-var mnemonic = "hamster vendor result science easily any right describe sport pumpkin mobile chase";
+var mnemonic = "search cruise box derive tip search close chef walk join what ice";

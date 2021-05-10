@@ -1,1 +1,1 @@
-var mnemonic = "bounce carpet blouse hurdle accident team fox shuffle airport cannon accident focus";
+var mnemonic = "snow angry monster insane female hello one curtain middle divert marine maid";

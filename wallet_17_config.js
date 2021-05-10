@@ -1,1 +1,1 @@
-var mnemonic = "shy afraid fortune save sort armed hard gorilla gospel protect double trigger";
+var mnemonic = "debate wrist repeat valid fog chronic nothing bone destroy client nurse artist";

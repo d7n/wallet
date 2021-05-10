@@ -1,1 +1,1 @@
-var mnemonic = "merit cancel vicious toy tired stone calm cargo winter moon meadow visa";
+var mnemonic = "crucial mystery ugly forget mobile error amused curtain muffin arrange join truly";

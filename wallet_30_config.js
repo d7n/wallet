@@ -1,1 +1,1 @@
-var mnemonic = "chimney warm core dignity region become voice two resource fiscal oblige dragon";
+var mnemonic = "valid lesson million divorce enroll usage monitor worry faculty food episode scene";

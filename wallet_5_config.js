@@ -1,1 +1,1 @@
-var mnemonic = "actor insane appear must august employ glance sunset wealth joy unusual traffic";
+var mnemonic = "ramp pill lecture alter swear young obscure call also repeat maze cousin";

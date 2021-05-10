@@ -1,1 +1,1 @@
-var mnemonic = "grant taxi net silver square best betray cattle hero major plate vital";
+var mnemonic = "bar bulk sun baby purity trust bright talent host penalty top battle";

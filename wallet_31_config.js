@@ -1,1 +1,1 @@
-var mnemonic = "index anchor hero bid nut gaze post secret science track armor grace";
+var mnemonic = "cash explain truth worry shoe palm recall depth include steel raccoon rescue";

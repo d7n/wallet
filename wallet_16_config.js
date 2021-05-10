@@ -1,1 +1,1 @@
-var mnemonic = "rifle danger birth flame parrot flight exit super creek bracket junior wrap";
+var mnemonic = "program dinner banner orbit promote term fiction jungle supply blame advice danger";

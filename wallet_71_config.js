@@ -1,1 +1,1 @@
-var mnemonic = "armed jaguar monster ripple vehicle mango kid sauce banner mountain aware whip";
+var mnemonic = "rose spider gentle crouch sketch tube recipe alcohol film onion eager owner";

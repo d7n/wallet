@@ -1,1 +1,1 @@
-var mnemonic = "measure annual pear oppose vibrant slim kid weather reveal swallow issue hen";
+var mnemonic = "duty two bamboo soap outdoor price excess canal parent minimum genre orchard";

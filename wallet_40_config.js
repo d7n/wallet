@@ -1,1 +1,1 @@
-var mnemonic = "setup gun unusual name miracle say ensure can angle outdoor glory viable";
+var mnemonic = "cloth project silk dream judge jeans adapt pole order series permit cash";

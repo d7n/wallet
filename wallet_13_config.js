@@ -1,1 +1,1 @@
-var mnemonic = "leader move perfect jump cube guard truck desk renew fire fashion guitar";
+var mnemonic = "bar mention give goddess matrix veteran below regular fish repeat gentle between";

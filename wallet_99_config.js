@@ -1,1 +1,1 @@
-var mnemonic = "vanish private trade height scout stove vintage dawn soap trust crouch spoon";
+var mnemonic = "swallow limit desk cancel jazz crack scare step noble cupboard pelican angle";

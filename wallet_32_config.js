@@ -1,1 +1,1 @@
-var mnemonic = "milk phone honey trap rocket sound twenty quick eagle can tube pudding";
+var mnemonic = "pink extra decorate frost lamp culture evidence divorce visit rate today moral";

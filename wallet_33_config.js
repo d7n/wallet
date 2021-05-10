@@ -1,1 +1,1 @@
-var mnemonic = "keen toss custom code purchase snack iron protect rack cool awake vicious";
+var mnemonic = "silver syrup reflect decrease quote merge extend media nut crane grocery great";

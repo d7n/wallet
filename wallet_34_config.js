@@ -1,1 +1,1 @@
-var mnemonic = "grape social empower tail income rail fade vital spell collect crack weather";
+var mnemonic = "chalk avocado organ elegant raven giggle play lock quarter source electric oppose";

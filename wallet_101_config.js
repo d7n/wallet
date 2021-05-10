@@ -1,1 +1,1 @@
-var mnemonic = "lamp defy angry flavor winner gloom belt earth intact between apology lake";
+var mnemonic = "measure ahead ski payment digital trim ghost faculty want joke mouse mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "staff survey gaze health approve empower easily slim pair desk army gym";
+var mnemonic = "rare october category sadness gasp where immense doll ask shoulder ramp verify";

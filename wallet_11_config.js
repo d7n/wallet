@@ -1,1 +1,1 @@
-var mnemonic = "empty address goose turtle possible camera siren spray panel south shiver hour";
+var mnemonic = "horn uncover trigger offer double day seek sock hurt tool hen noise";

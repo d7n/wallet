@@ -1,1 +1,1 @@
-var mnemonic = "opera cash swallow impact winner physical praise require scheme apple virtual build";
+var mnemonic = "noodle net property nothing window rail fat stage fossil make ski feed";

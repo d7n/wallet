@@ -1,1 +1,1 @@
-var mnemonic = "hen phrase hint utility furnace father wash sphere ketchup small luggage allow";
+var mnemonic = "blush wisdom behave donkey opera deal wrong soldier blue meadow moon large";

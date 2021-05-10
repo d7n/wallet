@@ -1,1 +1,1 @@
-var mnemonic = "organ gate comfort suspect narrow throw ski hedgehog fit keen feature parrot";
+var mnemonic = "bullet spring use leader deal upon ketchup brave toilet identify keen smart";

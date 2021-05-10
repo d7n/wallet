@@ -1,1 +1,1 @@
-var mnemonic = "tape fun winter shed know angry rail speed gift occur ugly emotion";
+var mnemonic = "crew hamster middle enable network peace retreat asset despair jeans renew decline";

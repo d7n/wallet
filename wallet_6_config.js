@@ -1,1 +1,1 @@
-var mnemonic = "tent resource loyal sausage predict trigger betray question leg risk volcano screen";
+var mnemonic = "wear lounge antenna sleep priority search top since silk enforce area wait";

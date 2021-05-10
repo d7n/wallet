@@ -1,1 +1,1 @@
-var mnemonic = "vocal flag frame pact audit fetch kiwi final case frequent rice magic";
+var mnemonic = "shell fever assist fatal canoe need young airport popular box dragon uphold";

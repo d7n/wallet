@@ -1,1 +1,1 @@
-var mnemonic = "route palace lottery riot kangaroo legal wall viable orange dress eagle crucial";
+var mnemonic = "swallow bubble length bike noodle nature wise essence truly sea mesh mandate";

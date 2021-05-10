@@ -1,1 +1,1 @@
-var mnemonic = "lava super original reason moral palm manage knock horse slender sock easy";
+var mnemonic = "claw flower method coffee runway list cart across winner milk trumpet width";

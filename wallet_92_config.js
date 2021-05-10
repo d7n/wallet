@@ -1,1 +1,1 @@
-var mnemonic = "fossil night stock surface imitate viable maid tooth mail tenant bacon lonely";
+var mnemonic = "bean love memory rude person bike guitar main fluid pyramid erosion insane";

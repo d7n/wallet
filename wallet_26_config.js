@@ -1,1 +1,1 @@
-var mnemonic = "mom trash shoulder forum seek bench again total mutual derive avocado hockey";
+var mnemonic = "seven bridge olive fly scissors bus giant august life identify warm endless";

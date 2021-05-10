@@ -1,1 +1,1 @@
-var mnemonic = "disease version tennis message pull canvas pave swap shy picture head success";
+var mnemonic = "tape advance ugly bright fatal image never include want palace lens child";

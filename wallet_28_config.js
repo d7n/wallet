@@ -1,1 +1,1 @@
-var mnemonic = "enforce cave million motion fiction table area slice mixed hammer electric tourist";
+var mnemonic = "ivory crunch meadow sure sting good divorce hobby base fragile seek minute";

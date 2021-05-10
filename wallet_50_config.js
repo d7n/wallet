@@ -1,1 +1,1 @@
-var mnemonic = "safe addict three thumb weasel noise ridge hybrid purity shock body hobby";
+var mnemonic = "bullet sign dry roast over open found warfare egg rose phrase drift";

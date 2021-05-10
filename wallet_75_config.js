@@ -1,1 +1,1 @@
-var mnemonic = "copper father off example venue success mountain review spatial fabric picture comfort";
+var mnemonic = "advice unhappy champion uphold laugh undo column submit pencil area utility path";

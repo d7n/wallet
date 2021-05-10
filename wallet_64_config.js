@@ -1,1 +1,1 @@
-var mnemonic = "awkward double almost lunar visit help sock various stairs warm special twin";
+var mnemonic = "scissors daughter below wave lunar twelve day coil slogan write evoke program";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster enable click equal produce decline arch foot ugly evolve include pepper";
+var mnemonic = "cherry vendor before entry ostrich tragic polar century cost artefact draw horse";

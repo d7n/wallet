@@ -1,1 +1,1 @@
-var mnemonic = "curve liberty once inhale safe web recall pole unique lizard story canoe";
+var mnemonic = "slogan warm sibling alert assume weasel arm identify art valve error rebel";

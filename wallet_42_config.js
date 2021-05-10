@@ -1,1 +1,1 @@
-var mnemonic = "analyst scheme wink cost junk firm fame way famous balcony cupboard subject";
+var mnemonic = "jaguar goose volume acoustic deputy muscle mixture fitness key harsh canyon ivory";

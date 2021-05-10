@@ -1,1 +1,1 @@
-var mnemonic = "pupil build absurd era brave auction blood section arch trend mandate clever";
+var mnemonic = "normal share theme taxi supreme shoot pencil effort coil cake family myth";

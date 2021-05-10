@@ -1,1 +1,1 @@
-var mnemonic = "trumpet father company away stereo tobacco differ ten actual speak silk old";
+var mnemonic = "enemy drill parrot throw table vicious skate feature purse lumber excite turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow neglect together physical define huge confirm mechanic milk execute net primary";
+var mnemonic = "genre firm afford tennis credit hedgehog water biology motion crisp give ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "tail alert outside october find zero segment hole release buffalo recycle industry";
+var mnemonic = "asset daring walk scrap junior faculty dinner penalty midnight airport wolf frog";

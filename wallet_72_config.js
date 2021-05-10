@@ -1,1 +1,1 @@
-var mnemonic = "smoke pipe assist coconut casino inside rich twist duty youth simple leave";
+var mnemonic = "all paper humble acid man ready audit indoor gap clock glimpse cabbage";

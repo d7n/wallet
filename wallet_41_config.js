@@ -1,1 +1,1 @@
-var mnemonic = "ill cinnamon discover system metal twist flavor curve zone oven ask task";
+var mnemonic = "license oyster away luggage seminar carry arctic immense useful bring cheap various";

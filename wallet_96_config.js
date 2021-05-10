@@ -1,1 +1,1 @@
-var mnemonic = "funny awake seminar forward scan soldier grow exile hobby boy box federal";
+var mnemonic = "weasel hen deal two river miracle discover still decorate recall impulse suspect";

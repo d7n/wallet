@@ -1,1 +1,1 @@
-var mnemonic = "next flat hawk reject yard indicate upper weekend initial soon begin private";
+var mnemonic = "public urban company belt tenant team diesel yard card lemon arrange twin";
