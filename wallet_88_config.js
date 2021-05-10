@@ -1,1 +1,1 @@
-var mnemonic = "recall lava fruit hole scale sweet hood tribe action tank know rough";
+var mnemonic = "soldier tube amateur aspect medal scan early bench father midnight identify foot";

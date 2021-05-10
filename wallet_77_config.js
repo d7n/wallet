@@ -1,1 +1,1 @@
-var mnemonic = "milk length win rotate mad tree blouse describe member buzz stone virtual";
+var mnemonic = "dress world collect film nest embark float orient win magic hazard option";

@@ -1,1 +1,1 @@
-var mnemonic = "proof mandate heart present vessel tomorrow say pact climb unfold forward monster";
+var mnemonic = "electric promote agent ketchup noise lesson rabbit dice mirror critic casino reward";

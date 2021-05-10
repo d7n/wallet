@@ -1,1 +1,1 @@
-var mnemonic = "tunnel puzzle vacuum orange undo ripple soda unfair special meat cereal either";
+var mnemonic = "april jewel trust oak anger cactus range nasty kind width evoke cook";

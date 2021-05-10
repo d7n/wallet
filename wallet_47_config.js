@@ -1,1 +1,1 @@
-var mnemonic = "physical trust skull olympic depart female expire right drama collect indicate fresh";
+var mnemonic = "glimpse bounce wide runway comic control humble main vast lecture climb quick";

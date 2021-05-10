@@ -1,1 +1,1 @@
-var mnemonic = "wool undo injury special addict item average glow print universe problem topic";
+var mnemonic = "tattoo depend puppy random voice gold pause win hello jealous film spike";

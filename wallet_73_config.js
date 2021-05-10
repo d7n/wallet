@@ -1,1 +1,1 @@
-var mnemonic = "anger tortoise birth chicken ancient album spatial warfare embody problem museum immune";
+var mnemonic = "uphold parent hold canoe alpha bunker unfold wash major combine coffee anxiety";

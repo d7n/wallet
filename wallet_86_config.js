@@ -1,1 +1,1 @@
-var mnemonic = "include history hold cement want add auto survey build attend shadow topic";
+var mnemonic = "coach skull menu chunk hub wet endorse frog shine divorce invest trap";

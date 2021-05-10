@@ -1,1 +1,1 @@
-var mnemonic = "chimney rhythm jacket become work federal copy rare birth mother art holiday";
+var mnemonic = "service tumble text boring dwarf false prison deny swamp concert soap seek";

@@ -1,1 +1,1 @@
-var mnemonic = "math try proof rocket juice hope stereo describe tuition ski tank unique";
+var mnemonic = "pipe relief weasel oval fall borrow snap donate vote often tiny reveal";

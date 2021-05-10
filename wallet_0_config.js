@@ -1,1 +1,1 @@
-var mnemonic = "raw staff crop page tiny focus wear goose nasty danger filter ghost";
+var mnemonic = "clip update fresh canyon toddler example perfect early annual trap royal artwork";

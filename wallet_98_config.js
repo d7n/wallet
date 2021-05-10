@@ -1,1 +1,1 @@
-var mnemonic = "describe gate silver earn month lemon aisle faculty march load canal weapon";
+var mnemonic = "marine unhappy shy width infant shove install race novel okay eagle spawn";

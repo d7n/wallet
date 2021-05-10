@@ -1,1 +1,1 @@
-var mnemonic = "clinic quality debate develop slot region female cloud pyramid noodle pond magic";
+var mnemonic = "predict fetch ivory armor illegal elegant early hint media dirt room smart";

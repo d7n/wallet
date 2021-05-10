@@ -1,1 +1,1 @@
-var mnemonic = "assist spot camp gap sight cigar squeeze nuclear helmet wrong unusual deliver";
+var mnemonic = "ramp oil young pact dream twenty acid cake obey now offer emotion";

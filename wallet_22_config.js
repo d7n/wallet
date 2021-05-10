@@ -1,1 +1,1 @@
-var mnemonic = "remind crew must kick bronze category neither menu vivid flip situate mind";
+var mnemonic = "note false shove motor riot visit crawl search purse test garment someone";

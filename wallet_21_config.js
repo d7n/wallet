@@ -1,1 +1,1 @@
-var mnemonic = "notable symptom select rather unfair deposit blossom future close enact kid olympic";
+var mnemonic = "organ zero neither unhappy glimpse eye key uniform trip hawk civil tribe";

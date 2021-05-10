@@ -1,1 +1,1 @@
-var mnemonic = "inch crew settle hand machine silver print kitten during waste sail latin";
+var mnemonic = "indicate follow final olive cancel link ketchup boost reason decide bridge region";

@@ -1,1 +1,1 @@
-var mnemonic = "surge wide heavy large salad option thumb width volcano raccoon patrol sniff";
+var mnemonic = "suspect spread midnight note uphold wolf trust evil joke street aim describe";

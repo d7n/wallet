@@ -1,1 +1,1 @@
-var mnemonic = "hello gather chimney name basic expose sell surge noise expect suspect either";
+var mnemonic = "jaguar picture nothing horse kitchen sudden tide coach spider local hammer joy";

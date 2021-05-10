@@ -1,1 +1,1 @@
-var mnemonic = "slot enhance cushion denial decline rent mail cherry unique short hill grant";
+var mnemonic = "toy bubble absent inform choice food time demand simple swear cigar noble";

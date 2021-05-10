@@ -1,1 +1,1 @@
-var mnemonic = "title rose beef nature winter coffee two empower pride assault stove flip";
+var mnemonic = "canyon paddle chat major leisure agree drum inside inside payment scrub gentle";

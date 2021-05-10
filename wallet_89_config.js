@@ -1,1 +1,1 @@
-var mnemonic = "judge mix silk easy diary sausage clever arena inner wrap baby guide";
+var mnemonic = "horn tilt venture bronze logic review supreme cable smooth salmon melody alone";

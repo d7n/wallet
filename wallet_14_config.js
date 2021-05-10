@@ -1,1 +1,1 @@
-var mnemonic = "glare nut announce tenant run disorder business govern scale employ short slim";
+var mnemonic = "believe click penalty color minor injury human exchange tray seminar cheap penalty";

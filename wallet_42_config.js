@@ -1,1 +1,1 @@
-var mnemonic = "street bunker hazard patch join level true happy goddess fortune remain ski";
+var mnemonic = "supreme they gap fine first battle stone recipe lunch proof cushion crime";

@@ -1,1 +1,1 @@
-var mnemonic = "comic arrow stone digital easy erupt soap chronic cargo torch omit charge";
+var mnemonic = "exist stock local vast small town tourist dash announce second rather merit";

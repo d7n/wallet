@@ -1,1 +1,1 @@
-var mnemonic = "struggle family equal omit salmon wish sure tornado barrel leader glow ceiling";
+var mnemonic = "excite subject innocent odor cheap hover silk use blush payment sort rice";

@@ -1,1 +1,1 @@
-var mnemonic = "beef motion cube harvest plate manage enemy escape stomach dad reopen shuffle";
+var mnemonic = "tilt during dentist day wall donkey robust force matter story inject old";

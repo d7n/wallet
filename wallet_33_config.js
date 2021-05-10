@@ -1,1 +1,1 @@
-var mnemonic = "despair anger eager tissue work hungry spawn casino school base enroll fringe";
+var mnemonic = "quarter diagram reunion slam despair female hungry ancient love legend together junk";

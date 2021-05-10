@@ -1,1 +1,1 @@
-var mnemonic = "trade canoe couch before celery element route water winner party boil crime";
+var mnemonic = "envelope misery credit another december rack together evil brother balance beach welcome";

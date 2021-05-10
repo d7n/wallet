@@ -1,1 +1,1 @@
-var mnemonic = "crater clutch must crumble illness iron idle resist deal song local flag";
+var mnemonic = "bleak trash mobile book plate room bonus south april cover suggest drill";

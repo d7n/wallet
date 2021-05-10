@@ -1,1 +1,1 @@
-var mnemonic = "display marine gold athlete decorate film vibrant deputy unable seek caution rich";
+var mnemonic = "thrive shove maximum hockey brisk narrow choose master tip gorilla rubber idea";

@@ -1,1 +1,1 @@
-var mnemonic = "supply now immense helmet feed grocery glass excess giraffe future journey picture";
+var mnemonic = "require rhythm staff share man truck toddler siren tip become pole put";

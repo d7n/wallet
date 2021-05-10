@@ -1,1 +1,1 @@
-var mnemonic = "thing scheme isolate noise must ensure fatigue same elevator deliver where praise";
+var mnemonic = "glide false march check predict indicate hour position cool swing reason blouse";

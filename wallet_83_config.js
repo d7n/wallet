@@ -1,1 +1,1 @@
-var mnemonic = "attack bonus where together moment cherry soul seven motion capable magnet situate";
+var mnemonic = "ecology curve above match behave invite enough draft involve mosquito risk finger";

@@ -1,1 +1,1 @@
-var mnemonic = "junk weather ramp syrup bag wait flower rigid carry medal donor slam";
+var mnemonic = "amount enjoy voyage tent bean cry pool defense walk defense eye offer";

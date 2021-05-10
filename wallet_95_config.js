@@ -1,1 +1,1 @@
-var mnemonic = "clump happy page crumble chef urge poverty chat erosion recall toast put";
+var mnemonic = "badge pave ill refuse episode move team wise piano idle rabbit island";

@@ -1,1 +1,1 @@
-var mnemonic = "twist point baby depend rival venue above evidence sound assist arch accuse";
+var mnemonic = "man taxi deer wheat bargain rule mouse dismiss forest borrow genius slam";

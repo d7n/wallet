@@ -1,1 +1,1 @@
-var mnemonic = "auto reunion grass enhance quick damp mandate fatigue mean agree pulse stable";
+var mnemonic = "praise fiction engine usual barely toilet mesh sting monitor sibling goddess time";

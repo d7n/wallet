@@ -1,1 +1,1 @@
-var mnemonic = "wedding follow disease shop great stool choice friend wheel aim balance journey";
+var mnemonic = "then meat average own bridge result miss wild stay sell display setup";

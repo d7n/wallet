@@ -1,1 +1,1 @@
-var mnemonic = "peanut picnic smoke track change gasp polar trend will ozone run soda";
+var mnemonic = "luxury night cricket lift cycle alarm early gift black cinnamon afraid chronic";

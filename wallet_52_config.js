@@ -1,1 +1,1 @@
-var mnemonic = "phone pistol organ embody earth error jazz together style want crunch grow";
+var mnemonic = "great metal invest observe bring eager kit south chaos pair head install";

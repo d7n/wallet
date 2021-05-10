@@ -1,1 +1,1 @@
-var mnemonic = "minute syrup wash tray estate author negative age code vague square summer";
+var mnemonic = "attend weather transfer possible monitor renew tunnel six gap young soul sentence";

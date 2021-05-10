@@ -1,1 +1,1 @@
-var mnemonic = "fiscal supreme cable arch talent penalty deny gadget glass door enemy produce";
+var mnemonic = "label visual bus flame tribe crystal drive ask walk shy mirror you";

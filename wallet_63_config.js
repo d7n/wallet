@@ -1,1 +1,1 @@
-var mnemonic = "move volume tell bird boring weird visit kit engage stem hold dance";
+var mnemonic = "owner loud leaf chaos surprise judge base double inch diet trip enjoy";

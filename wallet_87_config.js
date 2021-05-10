@@ -1,1 +1,1 @@
-var mnemonic = "few inmate response evoke flock tip mix tissue fatal belt speak reopen";
+var mnemonic = "ozone salmon attitude fuel old term degree payment cage jaguar key input";

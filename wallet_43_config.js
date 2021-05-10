@@ -1,1 +1,1 @@
-var mnemonic = "roof flower brother discover broken modify modify scissors swap box master shop";
+var mnemonic = "segment solve rule setup actor cinnamon cash october section pact giggle claim";

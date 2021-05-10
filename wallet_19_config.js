@@ -1,1 +1,1 @@
-var mnemonic = "habit glove draw discover rifle recipe man keep exotic weird absurd salon";
+var mnemonic = "enrich high right vault anger client virtual ginger dwarf pass ketchup apart";

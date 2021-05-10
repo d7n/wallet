@@ -1,1 +1,1 @@
-var mnemonic = "cool sport fall animal little toddler depart anchor glass ahead genius benefit";
+var mnemonic = "orchard neutral borrow ocean pioneer lounge shadow talk turkey puzzle odor priority";

@@ -1,1 +1,1 @@
-var mnemonic = "noble inquiry will bulb topic peanut shoe mule around employ wedding laptop";
+var mnemonic = "fit social silver weird swear state police material undo hub upset basket";

@@ -1,1 +1,1 @@
-var mnemonic = "roast cave truck sphere hurry escape animal admit feature circle liberty aunt";
+var mnemonic = "torch harbor call easily leader fabric rib couch mushroom cover paddle trash";

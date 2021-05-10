@@ -1,1 +1,1 @@
-var mnemonic = "inquiry gorilla feed subway easily beauty usual margin orbit visual plug stay";
+var mnemonic = "arrange chef bounce bacon devote half social ahead rural initial dizzy grid";

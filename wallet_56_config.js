@@ -1,1 +1,1 @@
-var mnemonic = "quiz piece alcohol inquiry benefit despair ring grace spin volcano display sport";
+var mnemonic = "expose above cave nurse repair urban junk cliff flag circle fringe coral";

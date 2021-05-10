@@ -1,1 +1,1 @@
-var mnemonic = "moment report lady derive erupt frown print hold accuse paddle pool palm";
+var mnemonic = "wink coyote rookie female shrimp skirt charge miss cheese olive crucial swamp";

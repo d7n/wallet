@@ -1,1 +1,1 @@
-var mnemonic = "pink truck convince any peasant okay bacon double home element tiger hip";
+var mnemonic = "squirrel found suspect engage person candy aspect correct grief decorate before primary";

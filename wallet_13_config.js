@@ -1,1 +1,1 @@
-var mnemonic = "slab kiwi rough weasel bonus remain mistake zoo cover pen barely pumpkin";
+var mnemonic = "mobile delay search tower circle flat sorry move hybrid scorpion across suit";

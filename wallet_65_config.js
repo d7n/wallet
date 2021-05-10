@@ -1,1 +1,1 @@
-var mnemonic = "enforce vault defy review retreat appear permit drift combine nuclear domain example";
+var mnemonic = "exhibit right route meadow urban route improve foam scrub nice chase imitate";

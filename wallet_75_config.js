@@ -1,1 +1,1 @@
-var mnemonic = "earn crucial rice happy vicious donkey skin travel isolate office climb nothing";
+var mnemonic = "strategy often evoke nature nose soldier float item badge yard glue cement";

@@ -1,1 +1,1 @@
-var mnemonic = "dose despair deer save pencil inner throw siege crime know fire start";
+var mnemonic = "false bullet decorate tragic legal outdoor smoke enjoy size agree game sphere";

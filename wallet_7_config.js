@@ -1,1 +1,1 @@
-var mnemonic = "clutch visa syrup task wolf organ garbage spring seven congress vacuum final";
+var mnemonic = "marine dune typical spy analyst stadium knee prevent inspire scare charge enemy";

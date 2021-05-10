@@ -1,1 +1,1 @@
-var mnemonic = "reason eye aim buddy earth rice device dignity steel evoke tornado balcony";
+var mnemonic = "boost cupboard damp outer indoor test phrase comfort twin zero love pond";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic name minimum viable pipe whisper shuffle benefit dad blue battle either";
+var mnemonic = "stable knife wolf arrest fitness waste goddess blind zebra girl rice crop";

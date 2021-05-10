@@ -1,1 +1,1 @@
-var mnemonic = "nest diesel expire happy curve brand pink hurdle timber stumble mouse feature";
+var mnemonic = "twin current bicycle punch spread embody ritual abandon violin project trend you";

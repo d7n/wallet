@@ -1,1 +1,1 @@
-var mnemonic = "salt ancient armor idle nest sport unit blood short seat slam fat";
+var mnemonic = "sniff lonely truth wrist rail liberty aim hockey music decorate prosper tower";

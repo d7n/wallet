@@ -1,1 +1,1 @@
-var mnemonic = "cancel judge equip need pink empower check dove explain east soldier match";
+var mnemonic = "doll undo globe loan hundred layer early spice nerve vicious super else";

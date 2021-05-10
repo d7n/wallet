@@ -1,1 +1,1 @@
-var mnemonic = "minimum purpose meadow story accident grass marriage weird arrange vessel settle because";
+var mnemonic = "music mountain token feed security balance remain program grow purpose angle favorite";

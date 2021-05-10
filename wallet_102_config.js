@@ -1,1 +1,1 @@
-var mnemonic = "surround long risk more swarm such wolf tribe brisk spawn citizen retire";
+var mnemonic = "struggle dignity frown select strike pull margin network inch denial hazard front";

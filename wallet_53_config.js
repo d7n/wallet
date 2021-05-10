@@ -1,1 +1,1 @@
-var mnemonic = "liar width theory fitness scan private candy cruise replace grant timber ride";
+var mnemonic = "beef rail aerobic harsh guess rib tribe letter kid popular puppy surface";

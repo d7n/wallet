@@ -1,1 +1,1 @@
-var mnemonic = "banner stock differ glimpse common pepper timber hidden absent food middle peanut";
+var mnemonic = "topple taste nurse winner guitar cradle state unique detail live document early";

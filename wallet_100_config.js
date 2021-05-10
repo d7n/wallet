@@ -1,1 +1,1 @@
-var mnemonic = "gown plug horn then dance absorb right vast pass remove usual expire";
+var mnemonic = "two detect consider ladder judge solar across protect oppose short warrior wire";

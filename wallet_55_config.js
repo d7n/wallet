@@ -1,1 +1,1 @@
-var mnemonic = "used naive trip grief misery want margin calm thought amazing thumb consider";
+var mnemonic = "pull fit dream orient birth maze foster usage night pottery wasp enhance";

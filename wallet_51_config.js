@@ -1,1 +1,1 @@
-var mnemonic = "abandon celery alarm undo nice vibrant thank test develop museum ribbon bulb";
+var mnemonic = "now image injury distance glare man approve endorse punch country club buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "end pattern strike flower trend width word wasp adapt staff rent sand";
+var mnemonic = "bird appear blade casino stuff among promote diagram neutral trumpet symptom demise";

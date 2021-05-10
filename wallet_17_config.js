@@ -1,1 +1,1 @@
-var mnemonic = "dial sadness grid drastic blanket obey please shoot guide stool brass course";
+var mnemonic = "mouse cycle before soap fault physical belt exhibit push close medal outer";

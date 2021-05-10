@@ -1,1 +1,1 @@
-var mnemonic = "rib portion damp catalog agree scan hawk until dove cloud face strong";
+var mnemonic = "quit spread myth window middle run buzz seminar october blouse corn atom";

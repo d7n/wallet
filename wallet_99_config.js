@@ -1,1 +1,1 @@
-var mnemonic = "token rail decide bike undo number bonus aspect typical maximum since advice";
+var mnemonic = "battle amused public leisure skin isolate fancy exile benefit achieve same cry";

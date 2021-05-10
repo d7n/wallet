@@ -1,1 +1,1 @@
-var mnemonic = "possible profit huge spoon water remain volume traffic laundry divide weasel huge";
+var mnemonic = "clerk salute capital spell peace tomorrow start month ugly gloom method dilemma";

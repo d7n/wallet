@@ -1,1 +1,1 @@
-var mnemonic = "spawn know measure pact snake vast major wonder gauge lemon common pottery";
+var mnemonic = "blossom stone make grief flavor damp adapt mansion enable large slim road";

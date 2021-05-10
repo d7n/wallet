@@ -1,1 +1,1 @@
-var mnemonic = "sibling local monkey subway chunk team horn vintage kiwi head flavor finger";
+var mnemonic = "crew net spare denial kitchen luxury genuine tired autumn shoe bamboo uncle";

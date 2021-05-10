@@ -1,1 +1,1 @@
-var mnemonic = "spot riot dish pencil sleep reward home ghost lumber gorilla rule monitor";
+var mnemonic = "major medal bubble promote accuse clip light scrap lock chronic solve filter";

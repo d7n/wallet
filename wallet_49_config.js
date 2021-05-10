@@ -1,1 +1,1 @@
-var mnemonic = "jump treat apart observe wedding battle carbon fever health crucial illegal height";
+var mnemonic = "elder ridge ability humor nothing book bone direct memory dismiss whip roast";

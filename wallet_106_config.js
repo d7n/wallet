@@ -1,1 +1,1 @@
-var mnemonic = "allow garage argue venture divert panel fire ensure category screen fetch table";
+var mnemonic = "expand tiny chronic home example anger head buzz surprise boy offer click";

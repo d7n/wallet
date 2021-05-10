@@ -1,1 +1,1 @@
-var mnemonic = "violin brain space educate seek cliff neck cushion zebra ball pen same";
+var mnemonic = "pencil chuckle million tiny must category wrestle dune receive ice junk cabin";

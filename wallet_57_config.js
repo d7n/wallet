@@ -1,1 +1,1 @@
-var mnemonic = "urban genuine apple cage three people version time advice strategy educate fashion";
+var mnemonic = "pattern light smooth brave middle quiz cover thunder puppy inform thing crater";

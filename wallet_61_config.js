@@ -1,1 +1,1 @@
-var mnemonic = "fragile endless sudden wire help raw gadget sauce sleep ginger artwork want";
+var mnemonic = "clever wash silent prepare mistake pull talent jaguar nerve because nut dad";

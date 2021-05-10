@@ -1,1 +1,1 @@
-var mnemonic = "vintage science amazing garment sunny there hazard jewel explain organ auto runway";
+var mnemonic = "april release join flavor squirrel absent easy conduct improve lonely dismiss color";

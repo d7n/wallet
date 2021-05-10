@@ -1,1 +1,1 @@
-var mnemonic = "cook zoo vessel innocent hour glove regular sauce member bronze wool hire";
+var mnemonic = "mansion shy mistake around feed frown energy vehicle version roast blue toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "royal federal toward ticket rely still father asset wonder gauge grant voice";
+var mnemonic = "post crumble coffee extend interest million talk hobby employ crumble relax drum";

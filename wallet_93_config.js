@@ -1,1 +1,1 @@
-var mnemonic = "copy puppy link olive patient patient whisper pet silent junior final song";
+var mnemonic = "attitude pizza output patch year neck robust dance quit clump chapter pair";

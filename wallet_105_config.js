@@ -1,1 +1,1 @@
-var mnemonic = "little palace maid license anxiety situate breeze into sister kind spin saddle";
+var mnemonic = "merry dolphin soda violin salute level dumb solar buffalo custom fine one";

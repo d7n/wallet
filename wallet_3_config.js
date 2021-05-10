@@ -1,1 +1,1 @@
-var mnemonic = "tail combine choice build merit egg rally soda program merge tourist skull";
+var mnemonic = "ribbon observe wasp slot blood paddle verb park pyramid arrow depend brief";

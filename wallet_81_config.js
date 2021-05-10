@@ -1,1 +1,1 @@
-var mnemonic = "wild trouble powder size puppy trip tattoo abuse enrich famous vacant excess";
+var mnemonic = "brief transfer panel spoon blast lady expect wrap sadness horror muscle law";
