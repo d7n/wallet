@@ -1,1 +1,1 @@
-var mnemonic = "grain spare gain deal zoo feature clever trigger hospital win you pottery";
+var mnemonic = "critic water lemon south wire survey cook bus own nut property jeans";

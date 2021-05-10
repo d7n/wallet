@@ -1,1 +1,1 @@
-var mnemonic = "skate arrest umbrella immense pact struggle flower giraffe venue item snap copy";
+var mnemonic = "empower surround correct during nest year bring federal afford nation bleak universe";

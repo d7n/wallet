@@ -1,1 +1,1 @@
-var mnemonic = "equip maze minimum media recipe model girl song trim umbrella rug grab";
+var mnemonic = "joke stem airport crane diagram add flavor law zoo fever grace charge";

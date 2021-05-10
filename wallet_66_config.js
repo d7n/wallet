@@ -1,1 +1,1 @@
-var mnemonic = "version test fuel awful census pizza pyramid grow hair flee swing choose";
+var mnemonic = "tribe route language coast depart recall two liquid tube section crime meadow";

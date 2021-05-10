@@ -1,1 +1,1 @@
-var mnemonic = "rural myself typical discover armor globe mother nurse injury excess width clarify";
+var mnemonic = "hurdle fire base diet hobby wisdom pumpkin image crowd water chunk crystal";

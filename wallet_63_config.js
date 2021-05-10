@@ -1,1 +1,1 @@
-var mnemonic = "planet anchor pipe glimpse what discover harvest replace bread height enter step";
+var mnemonic = "topple dawn round drink exhaust lens salt engage shield proud paddle witness";

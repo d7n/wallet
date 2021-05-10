@@ -1,1 +1,1 @@
-var mnemonic = "host focus into light lazy journey achieve ladder skill certain cover happy";
+var mnemonic = "dice athlete pelican husband axis review tool monitor offer acid clay bind";

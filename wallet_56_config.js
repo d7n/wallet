@@ -1,1 +1,1 @@
-var mnemonic = "script vanish list giant diagram east orange crane point clap olive midnight";
+var mnemonic = "cinnamon scene pitch brain energy enact beef primary main mail wisdom broom";

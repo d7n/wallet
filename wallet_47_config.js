@@ -1,1 +1,1 @@
-var mnemonic = "divorce cannon cream kidney fruit saddle team machine robot frog keep gloom";
+var mnemonic = "pattern gospel scale choice joy scene price miracle dwarf credit weird oval";

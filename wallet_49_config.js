@@ -1,1 +1,1 @@
-var mnemonic = "divorce miracle gesture palm vehicle laugh glare regular bunker slow begin very";
+var mnemonic = "grow consider solid tornado village refuse sing define screen transfer enhance total";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer baby clip describe certain lottery exhaust logic essay wire film december";
+var mnemonic = "retire oyster retreat entire cricket message turtle fox desert resist fault option";

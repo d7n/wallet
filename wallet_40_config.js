@@ -1,1 +1,1 @@
-var mnemonic = "whisper crunch cost funny diamond gather valve dove mushroom silly slow hammer";
+var mnemonic = "can view outside digital fall cheese reveal iron edit loud captain angle";

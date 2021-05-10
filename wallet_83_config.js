@@ -1,1 +1,1 @@
-var mnemonic = "palace together either web alarm tip ice clap fury endless basket fatigue";
+var mnemonic = "shield assault jealous surprise bicycle follow stock liberty when flock dash help";

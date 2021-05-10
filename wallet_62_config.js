@@ -1,1 +1,1 @@
-var mnemonic = "perfect capital group connect gallery lazy priority lecture trade beauty trend endorse";
+var mnemonic = "smooth black guitar clean supply boring divorce impose speed found valve front";

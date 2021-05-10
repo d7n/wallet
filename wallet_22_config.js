@@ -1,1 +1,1 @@
-var mnemonic = "foam vocal prison liar case apology drill human leopard follow nuclear sponsor";
+var mnemonic = "ball moon chunk opera run nose siren guitar approve curtain cook very";

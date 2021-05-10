@@ -1,1 +1,1 @@
-var mnemonic = "relax thought until welcome village identify angry used cancel camp sauce opera";
+var mnemonic = "parent truck float december student fiction green burden roast match cloth brush";

@@ -1,1 +1,1 @@
-var mnemonic = "grit core dolphin world okay voice across oval unfair melt attack pause";
+var mnemonic = "slot cherry sunset wolf speak rare keen crash check blade shiver amateur";

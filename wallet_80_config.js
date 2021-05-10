@@ -1,1 +1,1 @@
-var mnemonic = "warm maze expose victory boss betray purity sentence shallow artist fatigue maid";
+var mnemonic = "hidden catalog eyebrow melody spell lab fever zoo tide initial wild host";

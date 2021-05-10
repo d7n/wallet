@@ -1,1 +1,1 @@
-var mnemonic = "brown divide portion benefit bench obscure layer exact raw relax useless toss";
+var mnemonic = "motion south window until leopard suspect father royal problem title snack hello";

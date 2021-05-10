@@ -1,1 +1,1 @@
-var mnemonic = "warfare year strong zebra excuse evoke wait key law web trophy couple";
+var mnemonic = "hover citizen drill fade van board turn trust bean picture achieve horn";

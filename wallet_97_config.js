@@ -1,1 +1,1 @@
-var mnemonic = "air evidence cart weird ship bar enable arch danger whale snake key";
+var mnemonic = "library number amazing sibling illness paper entry identify mechanic camp bright recall";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic clip hip essay mind man option legal lesson taxi below huge";
+var mnemonic = "deal hold bike discover capable birth proud rib cactus rate torch mystery";

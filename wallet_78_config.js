@@ -1,1 +1,1 @@
-var mnemonic = "spring prosper okay icon junior injury decide sea flag direct access venue";
+var mnemonic = "tiger easily total rural gun plunge plug spirit lawn flag industry strong";

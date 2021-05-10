@@ -1,1 +1,1 @@
-var mnemonic = "lake home grit pitch wage myself feel gossip wheel hour demise squeeze";
+var mnemonic = "vote inherit desk sense reopen field rhythm suffer phone mansion yellow useful";

@@ -1,1 +1,1 @@
-var mnemonic = "gym betray salt stereo cattle slide clinic stuff grant match oblige twelve";
+var mnemonic = "major cook always winner better prison ramp gold stamp play prepare fog";

@@ -1,1 +1,1 @@
-var mnemonic = "silver uphold enlist lunar stadium bronze tag merry tourist burden either few";
+var mnemonic = "symptom close trouble wide safe duty dance include minimum boil twin laptop";

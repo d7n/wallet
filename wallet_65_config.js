@@ -1,1 +1,1 @@
-var mnemonic = "castle heavy harvest drill wheel change roast project black combine snow skin";
+var mnemonic = "opera tongue slice pipe rally off sell fly topic blue guide amateur";

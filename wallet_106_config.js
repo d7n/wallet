@@ -1,1 +1,1 @@
-var mnemonic = "bag shrug tide jar begin field bridge crucial lonely case stadium menu";
+var mnemonic = "egg sort champion fortune enough hedgehog jealous immense mirror find permit outside";

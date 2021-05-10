@@ -1,1 +1,1 @@
-var mnemonic = "light height forest sail scare liar emotion catalog outdoor quality merry muffin";
+var mnemonic = "reveal trade crash inhale bright come dose duck engage swarm pig volcano";

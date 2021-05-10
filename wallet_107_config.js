@@ -1,1 +1,1 @@
-var mnemonic = "copper alcohol rescue useless coffee miss kiss cycle motion skull frame actor";
+var mnemonic = "fold desert assist glue hire globe prosper unfair core gold hospital bind";

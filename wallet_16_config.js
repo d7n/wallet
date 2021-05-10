@@ -1,1 +1,1 @@
-var mnemonic = "actual table goat soup interest pen slot speak climb patrol ecology hidden";
+var mnemonic = "couple thunder fog square goose zoo scale actor repeat ride melody hundred";

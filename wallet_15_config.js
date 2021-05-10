@@ -1,1 +1,1 @@
-var mnemonic = "prevent that just range express fee cost machine mule resource pledge fetch";
+var mnemonic = "warrior solid woman visual chaos wink pony route matrix someone jacket rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter corn desert grass detail maze trumpet color neutral mean range isolate";
+var mnemonic = "pig student uniform junior legal news celery wood decorate grain twenty stock";

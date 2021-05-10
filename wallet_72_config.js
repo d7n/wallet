@@ -1,1 +1,1 @@
-var mnemonic = "dove mix sad nothing web milk jar umbrella champion vanish artwork debris";
+var mnemonic = "honey foot fault found author equal element toilet police soap proud deputy";

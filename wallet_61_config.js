@@ -1,1 +1,1 @@
-var mnemonic = "seed giraffe acoustic vivid father exist select duck captain test hire early";
+var mnemonic = "surprise winter bid bulb siren source turtle excess predict remove pretty kitten";

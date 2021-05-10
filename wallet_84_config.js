@@ -1,1 +1,1 @@
-var mnemonic = "code mixed fresh baby casual stage under sand member churn symbol win";
+var mnemonic = "exhibit make chronic mom theme trash domain boat sound message meadow brother";

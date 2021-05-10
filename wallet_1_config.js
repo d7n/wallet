@@ -1,1 +1,1 @@
-var mnemonic = "imitate impose stomach delay absurd false retire mango sight tide degree range";
+var mnemonic = "screen slab document wonder guess derive all craft donkey follow critic century";

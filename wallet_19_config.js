@@ -1,1 +1,1 @@
-var mnemonic = "evolve shop pipe style street enrich pride expire report spread kit admit";
+var mnemonic = "social trick calm spawn grape push novel ginger cabin spend hundred pony";

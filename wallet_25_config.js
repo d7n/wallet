@@ -1,1 +1,1 @@
-var mnemonic = "avoid excite twenty gallery sea escape recall economy furnace neither cube story";
+var mnemonic = "ship bind dust oven car suggest mean private brisk coconut trap camera";

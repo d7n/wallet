@@ -1,1 +1,1 @@
-var mnemonic = "van service sell gown maple filter youth boy language pond half rather";
+var mnemonic = "notice margin dry wreck diary cat draw offer desert cake member lecture";

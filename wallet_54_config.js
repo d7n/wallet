@@ -1,1 +1,1 @@
-var mnemonic = "tip cruise agent harbor zoo mule manual control shell school extra topic";
+var mnemonic = "need credit curtain spatial motion mango bless lab gossip bless dose novel";

@@ -1,1 +1,1 @@
-var mnemonic = "route enrich despair emotion syrup ask tooth drop square tongue spare merit";
+var mnemonic = "comic frame update narrow embody potato cement mix company rapid tuna aim";

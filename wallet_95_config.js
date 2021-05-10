@@ -1,1 +1,1 @@
-var mnemonic = "uncover jealous tail arena brave mass fresh palm target visit volume border";
+var mnemonic = "true crime detect record poem strategy lamp parade roast crystal disagree museum";

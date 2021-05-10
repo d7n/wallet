@@ -1,1 +1,1 @@
-var mnemonic = "soft arrow assume ozone december sister athlete illegal extra tray outdoor clog";
+var mnemonic = "screen pulse rent hire orbit sight oxygen neglect wasp giraffe aim canoe";

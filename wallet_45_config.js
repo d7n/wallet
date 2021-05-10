@@ -1,1 +1,1 @@
-var mnemonic = "group feed slide edit nephew bamboo sample double chronic convince wet ladder";
+var mnemonic = "capital shoot trend category trim float appear wise peanut tenant cabbage build";

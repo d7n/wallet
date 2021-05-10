@@ -1,1 +1,1 @@
-var mnemonic = "interest oven onion social attitude range symptom copper breeze blood disagree ask";
+var mnemonic = "mention humble atom arctic minute fiscal jeans renew sorry protect gorilla cousin";

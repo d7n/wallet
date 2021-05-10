@@ -1,1 +1,1 @@
-var mnemonic = "bachelor youth marriage boat digital junior bright differ disorder quote permit behave";
+var mnemonic = "young cradle enough puppy burden make ugly poem cash today effort artefact";

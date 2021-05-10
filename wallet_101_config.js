@@ -1,1 +1,1 @@
-var mnemonic = "report human project private estate civil eight interest magnet despair hen current";
+var mnemonic = "large holiday update unit height radar fringe wrong episode ticket intact anchor";

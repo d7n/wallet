@@ -1,1 +1,1 @@
-var mnemonic = "pottery upon close ensure excuse scrap palace asset trend quantum snow must";
+var mnemonic = "rent rigid bone cannon urban credit satisfy gloom box nation magnet advice";

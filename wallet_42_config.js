@@ -1,1 +1,1 @@
-var mnemonic = "visit hurry circle omit sorry obey awful stock vapor laundry finger pledge";
+var mnemonic = "sand hollow praise dove innocent raise impose dad eagle captain treat news";

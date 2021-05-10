@@ -1,1 +1,1 @@
-var mnemonic = "muffin gold lecture cover lawsuit diet divide arrow private visit quarter lucky";
+var mnemonic = "idea shift medal chapter spy iron weapon warfare soul light beach casino";

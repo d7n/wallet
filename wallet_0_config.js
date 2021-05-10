@@ -1,1 +1,1 @@
-var mnemonic = "ketchup pet female sign exclude frequent matter slide exclude beach alcohol result";
+var mnemonic = "version helmet mail demise north soon sketch grant tape advance circle post";

@@ -1,1 +1,1 @@
-var mnemonic = "okay zero idea sunset argue garage music warfare skull talk permit march";
+var mnemonic = "purchase owner boost chaos apart juice spare rifle tree robot parrot tongue";

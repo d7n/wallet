@@ -1,1 +1,1 @@
-var mnemonic = "pelican nuclear neither during gaze curtain must now endorse attack swim shrug";
+var mnemonic = "tortoise rib burger disagree space maid error relief mystery quality develop ramp";

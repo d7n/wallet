@@ -1,1 +1,1 @@
-var mnemonic = "nasty diagram sort feature clog crunch increase forget high stable salmon disagree";
+var mnemonic = "club pipe logic orphan view sibling price opera angry toilet mean divert";

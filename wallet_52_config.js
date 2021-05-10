@@ -1,1 +1,1 @@
-var mnemonic = "satisfy trigger spice silver broom traffic tourist grace blast price deposit indoor";
+var mnemonic = "butter supreme nuclear jungle nephew spend punch alien spread ugly sad phrase";

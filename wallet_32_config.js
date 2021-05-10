@@ -1,1 +1,1 @@
-var mnemonic = "flock weasel square weapon theory blade spread cake crawl coast race fly";
+var mnemonic = "scrub melody ketchup skill inform indicate analyst middle type brand sock fresh";

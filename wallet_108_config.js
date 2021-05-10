@@ -1,1 +1,1 @@
-var mnemonic = "void pilot dune update book kidney similar helmet scare vacant month genuine";
+var mnemonic = "secret april voyage shrug science happy trim team address harsh blush dash";

@@ -1,1 +1,1 @@
-var mnemonic = "orient hamster conduct robot faint slab jazz skirt disagree short hurry garden";
+var mnemonic = "tornado adjust donkey affair panda pride sell sell opinion nest gown coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "sea rule wink happy cherry common flock ceiling answer champion range dignity";
+var mnemonic = "rookie tank champion jar health bless check response dilemma matter private exact";

@@ -1,1 +1,1 @@
-var mnemonic = "glue merit explain struggle fat also timber cost shove concert steel poem";
+var mnemonic = "panel clock squirrel giant guitar olive winter window keen canvas season valley";

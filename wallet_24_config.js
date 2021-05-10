@@ -1,1 +1,1 @@
-var mnemonic = "clip science session friend win message panther stable asset notice tiny course";
+var mnemonic = "mass foil another palm shoe such park jungle hawk mercy tail mouse";

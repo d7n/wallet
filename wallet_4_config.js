@@ -1,1 +1,1 @@
-var mnemonic = "layer leisure advice strategy cat grain citizen pulse tip train film injury";
+var mnemonic = "saddle client surge direct shove stuff squirrel siren clip betray poet husband";

@@ -1,1 +1,1 @@
-var mnemonic = "brain mango orange paddle search tiny tragic lottery enforce abuse eye mass";
+var mnemonic = "destroy mandate yellow such extend inner alarm garment floor clip awful add";

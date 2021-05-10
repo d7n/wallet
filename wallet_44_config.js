@@ -1,1 +1,1 @@
-var mnemonic = "require camp puppy medal rich labor tower program cherry advance design senior";
+var mnemonic = "jelly charge number stock exercise ancient change notable solar gospel gravity bread";

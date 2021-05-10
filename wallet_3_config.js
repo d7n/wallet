@@ -1,1 +1,1 @@
-var mnemonic = "plate sock party tuna labor fog tube cute window destroy sing elder";
+var mnemonic = "open salon margin portion gossip enemy decrease fat mouse approve spawn mix";

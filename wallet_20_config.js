@@ -1,1 +1,1 @@
-var mnemonic = "fan click stadium awful loan gesture shield smart hotel invest point inch";
+var mnemonic = "promote vacant relief panic unknown course fly few snap umbrella review bullet";

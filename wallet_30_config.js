@@ -1,1 +1,1 @@
-var mnemonic = "sort absorb movie brass control wood spoil mom sea finish idea flower";
+var mnemonic = "time satoshi soldier ladder knock consider tent bright royal ball rib runway";

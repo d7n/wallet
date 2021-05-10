@@ -1,1 +1,1 @@
-var mnemonic = "supply marble maximum ordinary service attend rain member act keen mother swarm";
+var mnemonic = "venue void near awesome gain panic what reveal core critic twenty local";

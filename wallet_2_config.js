@@ -1,1 +1,1 @@
-var mnemonic = "obscure bounce delay win trust earth sword bleak vault weekend wrist oval";
+var mnemonic = "intact river body vicious limb dolphin midnight lyrics burst already annual master";

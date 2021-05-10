@@ -1,1 +1,1 @@
-var mnemonic = "north achieve barrel daughter cross path shaft sunset human welcome resource sting";
+var mnemonic = "gold today dice place term throw square hotel lunar old brand few";

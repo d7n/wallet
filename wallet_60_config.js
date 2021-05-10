@@ -1,1 +1,1 @@
-var mnemonic = "bid among flight cluster process flush boost safe consider inherit extra divorce";
+var mnemonic = "guard stand mobile buddy patch frog together flight magic awake mean prepare";

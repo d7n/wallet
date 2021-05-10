@@ -1,1 +1,1 @@
-var mnemonic = "reason bacon flush silly frog wisdom hidden genre chalk divorce soup argue";
+var mnemonic = "april retreat notable grain pony analyst pepper cabbage panic circle favorite slogan";

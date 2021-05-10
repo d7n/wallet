@@ -1,1 +1,1 @@
-var mnemonic = "bone tackle behave goose shop napkin slush badge talent awake magic cross";
+var mnemonic = "play wheat normal daughter wrestle armor still attitude true wedding wealth found";

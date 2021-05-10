@@ -1,1 +1,1 @@
-var mnemonic = "there can ticket there maid vault soldier legal wagon scrap finish universe";
+var mnemonic = "punch fuel artist empty misery raise mom surprise bulb maple page menu";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss raven cousin riot learn kitchen table unit rain rescue number ice";
+var mnemonic = "surface fresh coconut steel chair modify attitude meat twenty author athlete ancient";

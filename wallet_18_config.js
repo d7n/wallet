@@ -1,1 +1,1 @@
-var mnemonic = "veteran trash lift correct pool list pudding vessel quiz enrich cup idle";
+var mnemonic = "exist void soft arctic twin veteran ability world good rival wrist become";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend innocent client filter damage turn train dish sword mercy unaware source";
+var mnemonic = "rapid cram strike help poem adult maid blush around breeze donor broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "regular fly index useless wolf hockey sudden skate afraid rug mule search";
+var mnemonic = "rebel stadium mistake twelve theme limb together sail stick ostrich foot version";

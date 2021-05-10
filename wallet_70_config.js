@@ -1,1 +1,1 @@
-var mnemonic = "region recall smooth ignore security strike hope silly income conduct lecture chuckle";
+var mnemonic = "time burst match say blood vapor focus armed wage uncover polar aim";

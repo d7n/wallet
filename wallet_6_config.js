@@ -1,1 +1,1 @@
-var mnemonic = "expand purpose element guess victory more teach stairs cannon small wool crew";
+var mnemonic = "sketch kiss model long belt possible add borrow mandate waste fantasy girl";

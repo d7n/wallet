@@ -1,1 +1,1 @@
-var mnemonic = "coil bike fence saddle air kind column skirt category clip broccoli police";
+var mnemonic = "rose hollow shield exist donkey boat genuine mom near adapt distance ready";

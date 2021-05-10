@@ -1,1 +1,1 @@
-var mnemonic = "rare stool basic school hurry okay version cream build way coin giggle";
+var mnemonic = "intact peasant tell issue paddle typical airport smoke chapter mango grunt cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "bind trend holiday sing merge pistol width glide ripple energy ready pear";
+var mnemonic = "carbon ladder bulb wait color cruel laundry smooth mass arrive few vacant";
