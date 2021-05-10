@@ -1,1 +1,1 @@
-var mnemonic = "camp property squeeze gravity bird feed pupil tiger seven ecology tuna south";
+var mnemonic = "point prefer pet rely wage fitness morning adapt column vivid deliver garden";

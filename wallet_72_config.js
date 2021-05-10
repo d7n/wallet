@@ -1,1 +1,1 @@
-var mnemonic = "used capable hope end frown connect rather inject lizard picture orchard radar";
+var mnemonic = "cover hunt month shadow hybrid staff august mango elite abuse embark senior";

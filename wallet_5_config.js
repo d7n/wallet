@@ -1,1 +1,1 @@
-var mnemonic = "source birth grab crouch awake rebel culture six cause olympic smooth blue";
+var mnemonic = "control volume crystal enemy hawk fix girl stereo destroy maximum twelve observe";

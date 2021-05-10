@@ -1,1 +1,1 @@
-var mnemonic = "couple tank hero business casino current way category unit exhibit recipe wrestle";
+var mnemonic = "craft cancel birth sense ritual cactus cabin crowd elevator rescue soup luxury";

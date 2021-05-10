@@ -1,1 +1,1 @@
-var mnemonic = "cream keep found dog bus topple eagle family use urban chest race";
+var mnemonic = "smart evolve pitch equal cage ivory forest sign napkin retreat range hard";

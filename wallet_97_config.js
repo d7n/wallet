@@ -1,1 +1,1 @@
-var mnemonic = "consider kitchen bitter awful enemy depart uncle bundle jar potato warfare shield";
+var mnemonic = "road deliver copper case play floor spot amount glad unable vanish advance";

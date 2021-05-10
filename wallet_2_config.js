@@ -1,1 +1,1 @@
-var mnemonic = "drill upon pretty uphold kidney middle cupboard cactus license sketch hedgehog case";
+var mnemonic = "bottom fold truck frozen inner card share hospital hold humble vault oval";

@@ -1,1 +1,1 @@
-var mnemonic = "edit wink year small hard marine visa long shoe civil giraffe obey";
+var mnemonic = "loop result local alter inject install vapor amount acquire room galaxy coyote";

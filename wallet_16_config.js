@@ -1,1 +1,1 @@
-var mnemonic = "whale arena husband collect cube boring cloth token mirror build donor liar";
+var mnemonic = "youth hybrid model happy day letter venue snow smoke sunny attack opera";

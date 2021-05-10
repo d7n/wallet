@@ -1,1 +1,1 @@
-var mnemonic = "goose pact annual danger art humble ladder host two hen rival square";
+var mnemonic = "excuse clip have boring blade club verb diet sound cupboard category word";

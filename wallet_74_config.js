@@ -1,1 +1,1 @@
-var mnemonic = "ten other sleep spend drill interest history rice question hello three labor";
+var mnemonic = "image junk hint patch traffic rude stamp copy sign wide such club";

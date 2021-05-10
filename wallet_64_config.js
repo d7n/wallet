@@ -1,1 +1,1 @@
-var mnemonic = "fortune globe axis tongue subject what thought theory ostrich pottery display unlock";
+var mnemonic = "fresh apart hip spend train team grunt ride palm abandon bulk extend";

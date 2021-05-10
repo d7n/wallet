@@ -1,1 +1,1 @@
-var mnemonic = "skin keep creek chef oblige cousin uphold super cream noise scatter cake";
+var mnemonic = "below question logic fragile reason stove subway aware safe clip salmon bean";

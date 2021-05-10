@@ -1,1 +1,1 @@
-var mnemonic = "boring salad great spare annual trigger outside gym couple embrace echo inhale";
+var mnemonic = "nut snake pear scout estate year lecture prison plastic soup agree trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor suffer power print step middle slide ginger squirrel soap table affair";
+var mnemonic = "wasp layer lonely eight slab script extra unit clock wedding dust tortoise";

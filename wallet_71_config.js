@@ -1,1 +1,1 @@
-var mnemonic = "put feel review scheme orchard engage pond embrace cluster gentle punch ticket";
+var mnemonic = "pull ceiling soccer tip thumb wall reunion economy palm holiday shrimp fine";

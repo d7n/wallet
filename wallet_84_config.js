@@ -1,1 +1,1 @@
-var mnemonic = "strategy mail idea orphan borrow concert rain stone there tiger unfair rough";
+var mnemonic = "finger desert join call under quarter rebel worth cousin siren shoulder step";

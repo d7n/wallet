@@ -1,1 +1,1 @@
-var mnemonic = "goose jump vessel observe latin strong unhappy patrol usual impose fix connect";
+var mnemonic = "kick seven decrease nurse payment wink census wire slide flag goose attract";

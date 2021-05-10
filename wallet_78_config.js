@@ -1,1 +1,1 @@
-var mnemonic = "control slot number asset truck best canoe tribe dress obey picture hen";
+var mnemonic = "shadow apart urban code person dress click tank under clip velvet differ";

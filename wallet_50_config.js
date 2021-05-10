@@ -1,1 +1,1 @@
-var mnemonic = "amount shrug develop endorse couple okay live black card bus flat category";
+var mnemonic = "seminar hockey figure such corn place hair insect aunt citizen bring picnic";

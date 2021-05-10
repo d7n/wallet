@@ -1,1 +1,1 @@
-var mnemonic = "month nephew area develop early chapter angle hero duck other blade table";
+var mnemonic = "local farm tattoo acoustic question detect local meat garden gas theory upper";

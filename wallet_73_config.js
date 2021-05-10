@@ -1,1 +1,1 @@
-var mnemonic = "pave smile home hotel simple sadness donor armor fine dirt before end";
+var mnemonic = "era vehicle explain similar sadness remind crisp vessel train display quit leg";

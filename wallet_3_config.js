@@ -1,1 +1,1 @@
-var mnemonic = "tray cloth reflect ranch coffee runway ranch better symbol trim clown box";
+var mnemonic = "joke border drop obscure fault toward rookie conduct teach neglect adult crucial";

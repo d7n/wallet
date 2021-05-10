@@ -1,1 +1,1 @@
-var mnemonic = "scare result cram force slender volcano dirt result chalk arrive fan bulk";
+var mnemonic = "ball hockey outer credit leaf any voice describe hidden quote diamond whisper";

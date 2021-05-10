@@ -1,1 +1,1 @@
-var mnemonic = "slush frozen never decade river myth phone nasty tail comic pitch ankle";
+var mnemonic = "bean domain beef cable favorite inside energy toast turtle again distance sheriff";

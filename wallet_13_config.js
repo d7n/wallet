@@ -1,1 +1,1 @@
-var mnemonic = "favorite toss service year phrase pave rally buffalo girl bundle crisp machine";
+var mnemonic = "wink depth harsh flavor upset zone return pink salad phone depend hotel";

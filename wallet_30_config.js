@@ -1,1 +1,1 @@
-var mnemonic = "wrap field ready harsh dilemma zero casual glass master cloud order bird";
+var mnemonic = "finish consider frame movie want innocent fox awkward aerobic math bronze kick";

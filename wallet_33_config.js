@@ -1,1 +1,1 @@
-var mnemonic = "absorb sheriff fatal media drive strike craft joy slice net disagree bounce";
+var mnemonic = "select call job mix earth box argue window glare odor blame save";

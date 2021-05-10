@@ -1,1 +1,1 @@
-var mnemonic = "theme era panic jewel chair witness wealth actor soup lemon trash february";
+var mnemonic = "vicious volume denial involve hidden diet fly jaguar trial pioneer utility code";

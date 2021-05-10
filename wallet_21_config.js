@@ -1,1 +1,1 @@
-var mnemonic = "aunt noodle siren worth offer donate pistol rebuild banana glove entire hidden";
+var mnemonic = "arrest lab hundred retreat half bridge coast mystery proof junior begin bless";

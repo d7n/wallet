@@ -1,1 +1,1 @@
-var mnemonic = "rabbit acoustic cricket fiber swift exclude panic fold water state pottery people";
+var mnemonic = "fence coach mask purpose replace ozone endorse quote connect expose bean diagram";

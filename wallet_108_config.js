@@ -1,1 +1,1 @@
-var mnemonic = "shoot man ice legal seminar divert castle soup carbon mouse bag zero";
+var mnemonic = "vocal clean bleak famous square garlic base initial token virus century husband";

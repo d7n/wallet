@@ -1,1 +1,1 @@
-var mnemonic = "chase choose lawn forward dream smoke fire street dutch picture talk beef";
+var mnemonic = "angle labor easy betray model announce ill ozone winner color twelve syrup";

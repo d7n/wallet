@@ -1,1 +1,1 @@
-var mnemonic = "burst borrow lava ensure maid harsh invest oppose zone motor useful float";
+var mnemonic = "eager dolphin draft aspect advice guard very salad damp luggage dentist cup";

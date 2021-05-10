@@ -1,1 +1,1 @@
-var mnemonic = "arrow silly apology broom jar better elbow habit hen scatter network drip";
+var mnemonic = "evidence mule glove thumb pole film begin leaf fish eye choose father";

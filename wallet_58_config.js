@@ -1,1 +1,1 @@
-var mnemonic = "acoustic curtain material elite imitate vapor amused know glance door chase flash";
+var mnemonic = "staff wait term rigid ski exit traffic tiny point sugar deal judge";

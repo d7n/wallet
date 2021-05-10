@@ -1,1 +1,1 @@
-var mnemonic = "crack have bring oxygen vivid hundred animal else clever half tell vibrant";
+var mnemonic = "thing wire color dinosaur choice clean expire lizard true swallow move burden";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap fault curve risk pulp mountain cupboard recipe urban entire valley vivid";
+var mnemonic = "trumpet matrix describe pool blind gravity scene wrap rude repeat window all";

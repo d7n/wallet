@@ -1,1 +1,1 @@
-var mnemonic = "trim laundry solve deal example flat shine raw glad expire creek method";
+var mnemonic = "clean prosper wedding shove success lawn brave umbrella slight talk shuffle mean";

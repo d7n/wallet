@@ -1,1 +1,1 @@
-var mnemonic = "captain marriage suggest panel orchard bread visual evoke flag middle ecology primary";
+var mnemonic = "path trash sibling myth jeans together boat resist crawl oppose ridge crouch";

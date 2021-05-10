@@ -1,1 +1,1 @@
-var mnemonic = "dizzy scissors village judge kangaroo discover ivory icon glance concert smooth meat";
+var mnemonic = "battle sting glare know village alcohol frozen patient valley emerge option reward";

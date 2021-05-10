@@ -1,1 +1,1 @@
-var mnemonic = "burger ripple waste nuclear nurse praise connect census security chase copper index";
+var mnemonic = "neglect scene laundry lion carpet buyer noise orphan demand thing unique ice";

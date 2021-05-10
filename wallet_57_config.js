@@ -1,1 +1,1 @@
-var mnemonic = "supreme cloth angle multiply situate guard awesome spray pair clog goat brain";
+var mnemonic = "text gift grain color surge seat sort hair observe job bubble verify";

@@ -1,1 +1,1 @@
-var mnemonic = "stock prosper valid pull divide keen morning govern rich group ramp atom";
+var mnemonic = "total card ladder success vocal risk second melt grain ripple modify control";

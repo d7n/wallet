@@ -1,1 +1,1 @@
-var mnemonic = "ensure aspect grow mandate butter breeze fat quality acoustic license short trip";
+var mnemonic = "clog potato coyote letter fury pond reflect boring begin morning cry index";

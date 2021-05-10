@@ -1,1 +1,1 @@
-var mnemonic = "chunk release term repeat garage speed ginger forget talent shoe hurt cable";
+var mnemonic = "industry empower spend again column cousin vessel excuse bargain harvest bounce hurt";

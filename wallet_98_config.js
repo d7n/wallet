@@ -1,1 +1,1 @@
-var mnemonic = "prison month village claw mystery echo beyond daughter shift test nuclear way";
+var mnemonic = "area kitchen stock hood member claim bread common job tag true rival";

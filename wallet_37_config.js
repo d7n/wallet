@@ -1,1 +1,1 @@
-var mnemonic = "tribe ticket harvest wife glow cloth patch office receive civil envelope volcano";
+var mnemonic = "harbor scare owner cook fashion describe win mixed clever spin permit cabbage";

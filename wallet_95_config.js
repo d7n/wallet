@@ -1,1 +1,1 @@
-var mnemonic = "twice delay cart enact harvest clog bus shuffle crater spirit lend trash";
+var mnemonic = "length canvas very radio walk end shy sport paddle monkey family pigeon";

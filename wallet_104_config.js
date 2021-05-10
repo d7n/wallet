@@ -1,1 +1,1 @@
-var mnemonic = "october enforce favorite science keen athlete duty cage favorite word credit naive";
+var mnemonic = "neglect travel spell bag glad melt write vague near lion man nuclear";

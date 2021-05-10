@@ -1,1 +1,1 @@
-var mnemonic = "quit mass amateur maid rain attend beach sport south another great sunny";
+var mnemonic = "law flee include large solve poet income caution frequent void stick shiver";

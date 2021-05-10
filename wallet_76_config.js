@@ -1,1 +1,1 @@
-var mnemonic = "horn trim danger chimney foot off disagree analyst grow sample pudding task";
+var mnemonic = "van glare roast submit typical gun charge ball attack slot distance amused";

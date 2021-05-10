@@ -1,1 +1,1 @@
-var mnemonic = "treat dress bronze name autumn base equip traffic member issue lawn nothing";
+var mnemonic = "insect plate ring general demand seminar possible jelly lamp slot stomach wonder";

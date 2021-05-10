@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow found ability minute fall hen orient auction sunny act motor crop";
+var mnemonic = "toy easily plastic parade average update trap cloth evil match antenna snap";

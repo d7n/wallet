@@ -1,1 +1,1 @@
-var mnemonic = "motion solar disagree blind cattle rival side rural perfect immune peasant help";
+var mnemonic = "shine exercise image file culture swing use second festival muscle gap volcano";

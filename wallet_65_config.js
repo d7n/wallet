@@ -1,1 +1,1 @@
-var mnemonic = "believe hobby monster camera battle later vicious industry boring mimic guide foot";
+var mnemonic = "addict cable equal scrap version lawsuit accuse blood reduce middle weather canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "erase creek moral suffer eyebrow stick menu grant extend average crime public";
+var mnemonic = "motion pencil solar vintage uncover mobile shuffle clerk deputy laptop dinosaur object";

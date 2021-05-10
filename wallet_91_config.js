@@ -1,1 +1,1 @@
-var mnemonic = "pet acoustic barrel quality genre fluid icon distance tired garbage digital similar";
+var mnemonic = "strike artwork smart bullet link race social kangaroo shed exercise mistake they";

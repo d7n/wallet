@@ -1,1 +1,1 @@
-var mnemonic = "cream decade palm snap mad celery battle inner nuclear series stove monkey";
+var mnemonic = "draft unveil urban shift mixed humble approve ketchup sadness order success slender";

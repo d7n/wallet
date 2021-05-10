@@ -1,1 +1,1 @@
-var mnemonic = "urban please false confirm bag plunge before meat claw tone ensure pet";
+var mnemonic = "brush side jaguar ceiling involve clog fashion direct luggage craft write diesel";

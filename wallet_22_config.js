@@ -1,1 +1,1 @@
-var mnemonic = "easily salt lens cancel million punch leg awake vanish slight saddle hazard";
+var mnemonic = "flag attend spin cute supply more token spice february total cherry else";

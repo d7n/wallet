@@ -1,1 +1,1 @@
-var mnemonic = "pizza reflect field access novel credit broom flame rate coral tackle reward";
+var mnemonic = "garage rose game dress place long strike salmon half nasty frozen stone";

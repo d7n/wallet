@@ -1,1 +1,1 @@
-var mnemonic = "erosion initial thunder truly filter similar this filter involve hill ranch anxiety";
+var mnemonic = "universe pulp royal margin banner swing sail foster account parade symptom copper";

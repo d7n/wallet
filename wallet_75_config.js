@@ -1,1 +1,1 @@
-var mnemonic = "captain jar swarm author tail goose trial rely agree glory tennis version";
+var mnemonic = "eternal science stuff poem oxygen method chunk fragile work tackle law chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "choose oxygen forget acquire skate old edge monitor lava concert core dinner";
+var mnemonic = "virus buzz awkward flight broccoli impose science join account concert potato space";

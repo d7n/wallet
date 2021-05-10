@@ -1,1 +1,1 @@
-var mnemonic = "east gold scatter shaft average copy major fall jelly panel quantum wreck";
+var mnemonic = "ecology position occur annual current equal whale pencil spoil unknown journey wealth";

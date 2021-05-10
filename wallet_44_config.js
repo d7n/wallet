@@ -1,1 +1,1 @@
-var mnemonic = "quiz chalk this tent dust coil nephew video vacant balcony coast enforce";
+var mnemonic = "capable suspect strike reopen page trade leave fan elevator side destroy student";

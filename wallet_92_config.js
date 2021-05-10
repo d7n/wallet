@@ -1,1 +1,1 @@
-var mnemonic = "whisper midnight kiss range card multiply industry issue acoustic joke coral drama";
+var mnemonic = "casino phrase metal evolve bean flat sound abuse absent end achieve addict";

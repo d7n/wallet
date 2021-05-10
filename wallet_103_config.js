@@ -1,1 +1,1 @@
-var mnemonic = "cradle dawn universe resist chuckle length trouble planet carpet walk survey soon";
+var mnemonic = "trend duck shadow gown olympic action soon ensure knife lemon wagon foil";

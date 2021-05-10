@@ -1,1 +1,1 @@
-var mnemonic = "nice fall horse hundred man receive harvest census goose palm math album";
+var mnemonic = "hammer useless runway walnut reopen split smooth coral mobile toddler someone edit";

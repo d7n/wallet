@@ -1,1 +1,1 @@
-var mnemonic = "raccoon matter patrol flash pizza fire sibling start feed fiction suspect alarm";
+var mnemonic = "bring dish category door plug explain material ski ship trophy cram exit";

@@ -1,1 +1,1 @@
-var mnemonic = "piece joy business assault broom candy sausage medal prosper half garage arrange";
+var mnemonic = "forget canoe key orchard state employ rebuild bone festival hip thrive myself";

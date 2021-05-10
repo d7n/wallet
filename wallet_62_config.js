@@ -1,1 +1,1 @@
-var mnemonic = "arrange canvas purpose update century oven attitude occur cable vapor cherry ring";
+var mnemonic = "wear debate remain frown outside chief salt april rather toast able quarter";

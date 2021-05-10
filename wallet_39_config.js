@@ -1,1 +1,1 @@
-var mnemonic = "soccer library scrub detect artist rich category repair canoe poet swarm front";
+var mnemonic = "pulse gallery tool pluck bulk pig jelly library motor used seven exit";

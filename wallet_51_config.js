@@ -1,1 +1,1 @@
-var mnemonic = "practice exercise draw share siege brave demise essay orphan discover exact jealous";
+var mnemonic = "thrive model hole maximum general elbow salute cheap fatigue fee soup what";

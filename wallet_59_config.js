@@ -1,1 +1,1 @@
-var mnemonic = "season distance ill stuff lava seven favorite mobile chase gold suit melody";
+var mnemonic = "side bind uniform absent sure nasty axis observe kiss snap reform hello";

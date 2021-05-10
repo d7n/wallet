@@ -1,1 +1,1 @@
-var mnemonic = "caution trip phone become airport cruel can vendor bring matter account typical";
+var mnemonic = "grocery evidence clog adjust worth bachelor client divide various copper velvet mistake";

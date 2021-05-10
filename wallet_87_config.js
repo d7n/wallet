@@ -1,1 +1,1 @@
-var mnemonic = "situate fever reward enrich cry decade edit talk just message combine mass";
+var mnemonic = "logic lens uphold glimpse click grape biology spirit provide sure brain matrix";

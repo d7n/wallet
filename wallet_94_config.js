@@ -1,1 +1,1 @@
-var mnemonic = "kick inform fold sausage barely powder wine language spring early amazing north";
+var mnemonic = "illness sibling farm process kitten position magnet blast pink pass west muffin";

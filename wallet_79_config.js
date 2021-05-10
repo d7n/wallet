@@ -1,1 +1,1 @@
-var mnemonic = "hollow income course pencil square awesome profit summer police surprise front winner";
+var mnemonic = "hobby coast risk glare runway kitchen slogan choice fresh share eye cat";

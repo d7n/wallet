@@ -1,1 +1,1 @@
-var mnemonic = "citizen cat strategy thank laugh sponsor season belt cargo fit tired struggle";
+var mnemonic = "shallow delay combine result arm evidence trouble income exist service rebel close";

@@ -1,1 +1,1 @@
-var mnemonic = "reform monster merry report region pride save average also neglect lady arrive";
+var mnemonic = "peanut culture cigar melt retire force amount program figure beauty economy outdoor";

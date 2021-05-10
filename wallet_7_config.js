@@ -1,1 +1,1 @@
-var mnemonic = "laptop mountain extend cry bar age seek suspect dinosaur slide grain father";
+var mnemonic = "clinic flee pull luxury chef attract turn embrace seven expire prize wedding";

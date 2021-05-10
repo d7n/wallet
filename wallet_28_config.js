@@ -1,1 +1,1 @@
-var mnemonic = "index soon matter parade crunch nut faculty peace illness day gravity nice";
+var mnemonic = "tone churn sauce dove edge issue during pear act goose there myself";

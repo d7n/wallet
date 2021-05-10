@@ -1,1 +1,1 @@
-var mnemonic = "industry shop derive minor front miracle path purse panel prefer damage time";
+var mnemonic = "sample decline guilt foil amount return music tiger permit tube assist tiny";

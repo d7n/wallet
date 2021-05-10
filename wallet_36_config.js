@@ -1,1 +1,1 @@
-var mnemonic = "answer bubble sort discover party tide trim patient custom tank caught smooth";
+var mnemonic = "fortune sheriff olympic hybrid wolf brand horn artist head chicken sick birth";

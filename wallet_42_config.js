@@ -1,1 +1,1 @@
-var mnemonic = "vacuum more mutual urban around corn skate legend luggage wedding cool together";
+var mnemonic = "session old switch shoulder tent mirror desert hidden hood expand earth glance";

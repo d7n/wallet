@@ -1,1 +1,1 @@
-var mnemonic = "crime else exist motor peanut zebra budget window immense section file topic";
+var mnemonic = "found game clay worry submit raise broken finish copy nephew size industry";

@@ -1,1 +1,1 @@
-var mnemonic = "frame utility quantum dance foot embrace size west pelican blur fitness question";
+var mnemonic = "leave rely room fly runway blossom fluid pepper draft welcome leg cement";

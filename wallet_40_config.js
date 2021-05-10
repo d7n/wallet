@@ -1,1 +1,1 @@
-var mnemonic = "test cloth girl bleak slab base reward embrace rifle key warfare victory";
+var mnemonic = "renew minor talk pigeon moon typical truth survey duck code leaf edit";

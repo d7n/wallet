@@ -1,1 +1,1 @@
-var mnemonic = "service garment base axis save maple crime drum resource film jealous squeeze";
+var mnemonic = "wait reform illegal token object wealth picture smile figure liquid vanish steak";

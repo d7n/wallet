@@ -1,1 +1,1 @@
-var mnemonic = "boy boring art split quiz typical bachelor charge common eight ostrich cigar";
+var mnemonic = "oxygen wage hawk include attend hat lizard away note swamp dune mention";

@@ -1,1 +1,1 @@
-var mnemonic = "gown birth crisp image rail city spare matrix goddess slush capable shell";
+var mnemonic = "enlist dirt scare novel accuse unfold suit grape screen cupboard resource ramp";

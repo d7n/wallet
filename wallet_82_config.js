@@ -1,1 +1,1 @@
-var mnemonic = "about buzz stable hill manage lamp push border angry mesh riot check";
+var mnemonic = "talent clean shine recipe exhibit poem crash inherit session asthma ready kangaroo";

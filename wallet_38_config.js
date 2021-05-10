@@ -1,1 +1,1 @@
-var mnemonic = "wreck short chunk panic pig time fun rich run humble wish split";
+var mnemonic = "carbon write rigid trigger cave bounce relief use popular youth plastic village";

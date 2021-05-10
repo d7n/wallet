@@ -1,1 +1,1 @@
-var mnemonic = "toddler educate key delay broken modify render resist hello draft mass blossom";
+var mnemonic = "ancient smoke angry crisp biology credit midnight brush kidney shift vivid person";
