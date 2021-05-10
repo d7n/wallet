@@ -1,1 +1,1 @@
-var mnemonic = "then meat average own bridge result miss wild stay sell display setup";
+var mnemonic = "keep hill corn artwork urge rhythm judge erupt disagree blanket say report";

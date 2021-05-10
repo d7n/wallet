@@ -1,1 +1,1 @@
-var mnemonic = "canyon paddle chat major leisure agree drum inside inside payment scrub gentle";
+var mnemonic = "vocal flag frame pact audit fetch kiwi final case frequent rice magic";

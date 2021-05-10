@@ -1,1 +1,1 @@
-var mnemonic = "suspect spread midnight note uphold wolf trust evil joke street aim describe";
+var mnemonic = "safe addict three thumb weasel noise ridge hybrid purity shock body hobby";

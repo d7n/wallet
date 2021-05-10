@@ -1,1 +1,1 @@
-var mnemonic = "marine dune typical spy analyst stadium knee prevent inspire scare charge enemy";
+var mnemonic = "tape fun winter shed know angry rail speed gift occur ugly emotion";

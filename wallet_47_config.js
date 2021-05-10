@@ -1,1 +1,1 @@
-var mnemonic = "glimpse bounce wide runway comic control humble main vast lecture climb quick";
+var mnemonic = "evolve tennis front addict prison grunt someone maid hawk nut tonight excuse";

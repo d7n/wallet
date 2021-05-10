@@ -1,1 +1,1 @@
-var mnemonic = "owner loud leaf chaos surprise judge base double inch diet trip enjoy";
+var mnemonic = "route palace lottery riot kangaroo legal wall viable orange dress eagle crucial";

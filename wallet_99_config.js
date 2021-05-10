@@ -1,1 +1,1 @@
-var mnemonic = "battle amused public leisure skin isolate fancy exile benefit achieve same cry";
+var mnemonic = "vanish private trade height scout stove vintage dawn soap trust crouch spoon";

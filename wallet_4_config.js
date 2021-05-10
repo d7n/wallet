@@ -1,1 +1,1 @@
-var mnemonic = "attend weather transfer possible monitor renew tunnel six gap young soul sentence";
+var mnemonic = "peanut power rug angle good exchange core volcano whisper green stay weapon";

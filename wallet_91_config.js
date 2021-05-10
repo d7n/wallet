@@ -1,1 +1,1 @@
-var mnemonic = "require rhythm staff share man truck toddler siren tip become pole put";
+var mnemonic = "potato marble gate predict mad flight wall mix dinosaur morning sibling trade";

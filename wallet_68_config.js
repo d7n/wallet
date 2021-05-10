@@ -1,1 +1,1 @@
-var mnemonic = "human power science yellow shy random seminar six share month century orange";
+var mnemonic = "electric black bird cave aunt sword mandate fortune viable best blush purse";

@@ -1,1 +1,1 @@
-var mnemonic = "siege ethics public celery yard atom avocado obtain cloth illness soup typical";
+var mnemonic = "funny awake seminar forward scan soldier grow exile hobby boy box federal";

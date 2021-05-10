@@ -1,1 +1,1 @@
-var mnemonic = "file worry mistake simple wagon sense pet repair portion exit still cigar";
+var mnemonic = "plug fashion leave slice bulk foster clever spoon label govern tiny stuff";

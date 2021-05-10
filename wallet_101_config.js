@@ -1,1 +1,1 @@
-var mnemonic = "wink coyote rookie female shrimp skirt charge miss cheese olive crucial swamp";
+var mnemonic = "lamp defy angry flavor winner gloom belt earth intact between apology lake";

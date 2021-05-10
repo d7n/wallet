@@ -1,1 +1,1 @@
-var mnemonic = "elder ridge ability humor nothing book bone direct memory dismiss whip roast";
+var mnemonic = "noble sponsor saddle chunk share shop glare rural layer federal timber future";

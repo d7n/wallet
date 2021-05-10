@@ -1,1 +1,1 @@
-var mnemonic = "sniff lonely truth wrist rail liberty aim hockey music decorate prosper tower";
+var mnemonic = "pupil build absurd era brave auction blood section arch trend mandate clever";

@@ -1,1 +1,1 @@
-var mnemonic = "expose above cave nurse repair urban junk cliff flag circle fringe coral";
+var mnemonic = "climb twin ten work goddess sick firm chief garden blouse chalk route";

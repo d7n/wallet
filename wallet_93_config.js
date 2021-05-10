@@ -1,1 +1,1 @@
-var mnemonic = "attitude pizza output patch year neck robust dance quit clump chapter pair";
+var mnemonic = "merit cancel vicious toy tired stone calm cargo winter moon meadow visa";

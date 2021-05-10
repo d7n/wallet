@@ -1,1 +1,1 @@
-var mnemonic = "crew net spare denial kitchen luxury genuine tired autumn shoe bamboo uncle";
+var mnemonic = "barrel ready jeans arch recipe split fortune save forget music build thunder";

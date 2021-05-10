@@ -1,1 +1,1 @@
-var mnemonic = "envelope misery credit another december rack together evil brother balance beach welcome";
+var mnemonic = "purpose embody unhappy upper diet between crane husband scheme champion october dwarf";

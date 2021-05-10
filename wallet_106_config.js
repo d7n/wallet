@@ -1,1 +1,1 @@
-var mnemonic = "expand tiny chronic home example anger head buzz surprise boy offer click";
+var mnemonic = "october flock decrease odor hair owner keen lab ivory tongue such level";

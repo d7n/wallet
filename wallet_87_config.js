@@ -1,1 +1,1 @@
-var mnemonic = "ozone salmon attitude fuel old term degree payment cage jaguar key input";
+var mnemonic = "movie plug cycle typical hawk garden mass kitten ketchup lab alley world";

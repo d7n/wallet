@@ -1,1 +1,1 @@
-var mnemonic = "jaguar picture nothing horse kitchen sudden tide coach spider local hammer joy";
+var mnemonic = "come treat stamp stuff suffer hospital degree crumble april heart open lady";

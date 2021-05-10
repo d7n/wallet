@@ -1,1 +1,1 @@
-var mnemonic = "jacket flip meat large unknown happy abandon toddler motor mask elbow clap";
+var mnemonic = "grape social empower tail income rail fade vital spell collect crack weather";

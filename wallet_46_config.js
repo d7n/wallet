@@ -1,1 +1,1 @@
-var mnemonic = "bleak trash mobile book plate room bonus south april cover suggest drill";
+var mnemonic = "tail alert outside october find zero segment hole release buffalo recycle industry";

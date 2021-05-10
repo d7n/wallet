@@ -1,1 +1,1 @@
-var mnemonic = "predict fetch ivory armor illegal elegant early hint media dirt room smart";
+var mnemonic = "staff survey gaze health approve empower easily slim pair desk army gym";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom tornado cruel flight salute way replace recall mushroom boy marble office";
+var mnemonic = "depart pole join mule genre ahead salute file pause airport furnace visa";

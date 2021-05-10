@@ -1,1 +1,1 @@
-var mnemonic = "note false shove motor riot visit crawl search purse test garment someone";
+var mnemonic = "hamster vendor result science easily any right describe sport pumpkin mobile chase";

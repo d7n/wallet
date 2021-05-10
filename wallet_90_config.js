@@ -1,1 +1,1 @@
-var mnemonic = "music mountain token feed security balance remain program grow purpose angle favorite";
+var mnemonic = "embody maid clown ladder bid height sphere core strike urge valley toe";

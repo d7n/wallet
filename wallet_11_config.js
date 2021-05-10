@@ -1,1 +1,1 @@
-var mnemonic = "orchard neutral borrow ocean pioneer lounge shadow talk turkey puzzle odor priority";
+var mnemonic = "empty address goose turtle possible camera siren spray panel south shiver hour";

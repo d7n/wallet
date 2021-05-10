@@ -1,1 +1,1 @@
-var mnemonic = "marine unhappy shy width infant shove install race novel okay eagle spawn";
+var mnemonic = "view early notable unusual borrow tissue cute leisure race brain engage alcohol";

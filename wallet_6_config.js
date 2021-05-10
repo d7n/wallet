@@ -1,1 +1,1 @@
-var mnemonic = "service tumble text boring dwarf false prison deny swamp concert soap seek";
+var mnemonic = "tent resource loyal sausage predict trigger betray question leg risk volcano screen";

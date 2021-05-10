@@ -1,1 +1,1 @@
-var mnemonic = "april jewel trust oak anger cactus range nasty kind width evoke cook";
+var mnemonic = "milk phone honey trap rocket sound twenty quick eagle can tube pudding";

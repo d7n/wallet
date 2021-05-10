@@ -1,1 +1,1 @@
-var mnemonic = "toy bubble absent inform choice food time demand simple swear cigar noble";
+var mnemonic = "auction advance exhaust remain style fault property festival napkin merry oak owner";

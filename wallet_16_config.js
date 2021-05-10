@@ -1,1 +1,1 @@
-var mnemonic = "pencil chuckle million tiny must category wrestle dune receive ice junk cabin";
+var mnemonic = "rifle danger birth flame parrot flight exit super creek bracket junior wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon observe wasp slot blood paddle verb park pyramid arrow depend brief";
+var mnemonic = "dune sleep away update giant permit popular initial daughter festival alpha level";

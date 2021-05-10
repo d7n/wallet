@@ -1,1 +1,1 @@
-var mnemonic = "exhibit right route meadow urban route improve foam scrub nice chase imitate";
+var mnemonic = "town twin stable jelly snack sound kingdom senior suspect depth during daring";

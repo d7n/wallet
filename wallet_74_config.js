@@ -1,1 +1,1 @@
-var mnemonic = "twin current bicycle punch spread embody ritual abandon violin project trend you";
+var mnemonic = "stage bundle border cruise pluck boil clean dumb wage disease weird sudden";

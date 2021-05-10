@@ -1,1 +1,1 @@
-var mnemonic = "now image injury distance glare man approve endorse punch country club buffalo";
+var mnemonic = "patient sauce program join slam kite confirm envelope awesome hybrid scissors giggle";

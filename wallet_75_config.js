@@ -1,1 +1,1 @@
-var mnemonic = "strategy often evoke nature nose soldier float item badge yard glue cement";
+var mnemonic = "copper father off example venue success mountain review spatial fabric picture comfort";

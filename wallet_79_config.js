@@ -1,1 +1,1 @@
-var mnemonic = "stable knife wolf arrest fitness waste goddess blind zebra girl rice crop";
+var mnemonic = "jealous depth various filter inquiry vapor mixture shock dinner initial train electric";

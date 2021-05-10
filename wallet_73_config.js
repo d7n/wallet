@@ -1,1 +1,1 @@
-var mnemonic = "uphold parent hold canoe alpha bunker unfold wash major combine coffee anxiety";
+var mnemonic = "decide estate arrange frog merge network supreme joke skill miracle drop couch";

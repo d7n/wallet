@@ -1,1 +1,1 @@
-var mnemonic = "pattern light smooth brave middle quiz cover thunder puppy inform thing crater";
+var mnemonic = "cluster enable click equal produce decline arch foot ugly evolve include pepper";

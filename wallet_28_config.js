@@ -1,1 +1,1 @@
-var mnemonic = "trend system track raise grit victory loud nurse advance flat afraid hawk";
+var mnemonic = "enforce cave million motion fiction table area slice mixed hammer electric tourist";

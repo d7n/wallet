@@ -1,1 +1,1 @@
-var mnemonic = "champion draft people boil absorb adjust struggle sleep grain glove style traffic";
+var mnemonic = "chimney warm core dignity region become voice two resource fiscal oblige dragon";

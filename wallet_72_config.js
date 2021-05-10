@@ -1,1 +1,1 @@
-var mnemonic = "nasty dry reform list valid genre load diamond learn rib stairs stamp";
+var mnemonic = "smoke pipe assist coconut casino inside rich twist duty youth simple leave";

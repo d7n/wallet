@@ -1,1 +1,1 @@
-var mnemonic = "bird appear blade casino stuff among promote diagram neutral trumpet symptom demise";
+var mnemonic = "buddy leave charge alert seminar devote exact antenna lesson few warm convince";

@@ -1,1 +1,1 @@
-var mnemonic = "beef rail aerobic harsh guess rib tribe letter kid popular puppy surface";
+var mnemonic = "opera cash swallow impact winner physical praise require scheme apple virtual build";

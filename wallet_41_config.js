@@ -1,1 +1,1 @@
-var mnemonic = "electric promote agent ketchup noise lesson rabbit dice mirror critic casino reward";
+var mnemonic = "ill cinnamon discover system metal twist flavor curve zone oven ask task";

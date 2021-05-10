@@ -1,1 +1,1 @@
-var mnemonic = "amount enjoy voyage tent bean cry pool defense walk defense eye offer";
+var mnemonic = "disease version tennis message pull canvas pave swap shy picture head success";

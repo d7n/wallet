@@ -1,1 +1,1 @@
-var mnemonic = "blossom stone make grief flavor damp adapt mansion enable large slim road";
+var mnemonic = "useful ugly version improve report recall sister guitar tongue save gasp whip";

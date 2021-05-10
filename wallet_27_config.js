@@ -1,1 +1,1 @@
-var mnemonic = "indicate follow final olive cancel link ketchup boost reason decide bridge region";
+var mnemonic = "poet catch large concert final prison scout funny symbol mystery addict reject";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange chef bounce bacon devote half social ahead rural initial dizzy grid";
+var mnemonic = "depend fox toilet trend total success walnut end color foam word mule";

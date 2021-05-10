@@ -1,1 +1,1 @@
-var mnemonic = "neither unfold left stairs fashion scheme vast knife canyon purpose mechanic palace";
+var mnemonic = "enhance alert pulp destroy science diagram across search sister noodle cargo list";

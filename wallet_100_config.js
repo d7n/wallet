@@ -1,1 +1,1 @@
-var mnemonic = "two detect consider ladder judge solar across protect oppose short warrior wire";
+var mnemonic = "raven anger drama piano wing elbow weather frame panel hockey scare aim";

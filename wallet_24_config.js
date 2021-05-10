@@ -1,1 +1,1 @@
-var mnemonic = "forward nature unaware whale draft round price clock remember success slot inside";
+var mnemonic = "hammer pledge effort canyon citizen century define beauty program tackle sweet advice";

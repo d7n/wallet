@@ -1,1 +1,1 @@
-var mnemonic = "doll undo globe loan hundred layer early spice nerve vicious super else";
+var mnemonic = "digital obey afraid silent cinnamon column movie proud case wife history worth";

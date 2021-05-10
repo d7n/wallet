@@ -1,1 +1,1 @@
-var mnemonic = "praise fiction engine usual barely toilet mesh sting monitor sibling goddess time";
+var mnemonic = "zebra lawn craft gauge type captain pig visit sad scale kitten service";

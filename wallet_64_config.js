@@ -1,1 +1,1 @@
-var mnemonic = "quit spread myth window middle run buzz seminar october blouse corn atom";
+var mnemonic = "awkward double almost lunar visit help sock various stairs warm special twin";

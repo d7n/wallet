@@ -1,1 +1,1 @@
-var mnemonic = "major medal bubble promote accuse clip light scrap lock chronic solve filter";
+var mnemonic = "setup gun unusual name miracle say ensure can angle outdoor glory viable";

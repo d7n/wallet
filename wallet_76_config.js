@@ -1,1 +1,1 @@
-var mnemonic = "exist stock local vast small town tourist dash announce second rather merit";
+var mnemonic = "curve liberty once inhale safe web recall pole unique lizard story canoe";

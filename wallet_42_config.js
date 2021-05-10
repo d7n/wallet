@@ -1,1 +1,1 @@
-var mnemonic = "supreme they gap fine first battle stone recipe lunch proof cushion crime";
+var mnemonic = "analyst scheme wink cost junk firm fame way famous balcony cupboard subject";

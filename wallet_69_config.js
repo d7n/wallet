@@ -1,1 +1,1 @@
-var mnemonic = "post crumble coffee extend interest million talk hobby employ crumble relax drum";
+var mnemonic = "next flat hawk reject yard indicate upper weekend initial soon begin private";

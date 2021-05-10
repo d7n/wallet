@@ -1,1 +1,1 @@
-var mnemonic = "believe click penalty color minor injury human exchange tray seminar cheap penalty";
+var mnemonic = "great web outside dutch finger main emerge rival later useless rebuild salon";

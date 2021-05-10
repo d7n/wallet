@@ -1,1 +1,1 @@
-var mnemonic = "clip update fresh canyon toddler example perfect early annual trap royal artwork";
+var mnemonic = "measure annual pear oppose vibrant slim kid weather reveal swallow issue hen";

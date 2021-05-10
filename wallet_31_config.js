@@ -1,1 +1,1 @@
-var mnemonic = "excite subject innocent odor cheap hover silk use blush payment sort rice";
+var mnemonic = "index anchor hero bid nut gaze post secret science track armor grace";

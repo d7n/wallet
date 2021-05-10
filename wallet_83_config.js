@@ -1,1 +1,1 @@
-var mnemonic = "ecology curve above match behave invite enough draft involve mosquito risk finger";
+var mnemonic = "zero village offer antique vital tray soldier winter text praise shaft wrist";

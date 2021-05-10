@@ -1,1 +1,1 @@
-var mnemonic = "glide false march check predict indicate hour position cool swing reason blouse";
+var mnemonic = "hen phrase hint utility furnace father wash sphere ketchup small luggage allow";

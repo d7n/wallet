@@ -1,1 +1,1 @@
-var mnemonic = "clerk salute capital spell peace tomorrow start month ugly gloom method dilemma";
+var mnemonic = "minor cool ugly flag hire ranch uncle view cinnamon sense simple space";

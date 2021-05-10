@@ -1,1 +1,1 @@
-var mnemonic = "mansion shy mistake around feed frown energy vehicle version roast blue toddler";
+var mnemonic = "actor insane appear must august employ glance sunset wealth joy unusual traffic";

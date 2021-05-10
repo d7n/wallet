@@ -1,1 +1,1 @@
-var mnemonic = "baby cloth valid census elevator glad endorse traffic degree citizen put fix";
+var mnemonic = "tomorrow gospel popular garbage spirit wagon sustain canal miss also tool blood";

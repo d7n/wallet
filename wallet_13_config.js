@@ -1,1 +1,1 @@
-var mnemonic = "mobile delay search tower circle flat sorry move hybrid scorpion across suit";
+var mnemonic = "leader move perfect jump cube guard truck desk renew fire fashion guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle dignity frown select strike pull margin network inch denial hazard front";
+var mnemonic = "bounce carpet blouse hurdle accident team fox shuffle airport cannon accident focus";

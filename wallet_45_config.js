@@ -1,1 +1,1 @@
-var mnemonic = "tattoo depend puppy random voice gold pause win hello jealous film spike";
+var mnemonic = "marble post fatal pumpkin situate device bean park arena unit spider blossom";

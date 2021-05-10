@@ -1,1 +1,1 @@
-var mnemonic = "man taxi deer wheat bargain rule mouse dismiss forest borrow genius slam";
+var mnemonic = "pledge vehicle ski disease sustain author supreme grant lava rival stage train";

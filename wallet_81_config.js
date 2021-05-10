@@ -1,1 +1,1 @@
-var mnemonic = "brief transfer panel spoon blast lady expect wrap sadness horror muscle law";
+var mnemonic = "trick panic column similar shoot health pool rather squeeze mesh stone hobby";

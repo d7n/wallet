@@ -1,1 +1,1 @@
-var mnemonic = "quarter diagram reunion slam despair female hungry ancient love legend together junk";
+var mnemonic = "keen toss custom code purchase snack iron protect rack cool awake vicious";

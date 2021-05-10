@@ -1,1 +1,1 @@
-var mnemonic = "pull fit dream orient birth maze foster usage night pottery wasp enhance";
+var mnemonic = "chief cook vocal kitchen truth midnight walnut gate daring ugly resist twice";

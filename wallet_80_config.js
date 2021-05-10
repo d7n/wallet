@@ -1,1 +1,1 @@
-var mnemonic = "pipe relief weasel oval fall borrow snap donate vote often tiny reveal";
+var mnemonic = "wrap final outdoor glory fetch stadium aunt assault fever uncle enhance blade";

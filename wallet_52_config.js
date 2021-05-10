@@ -1,1 +1,1 @@
-var mnemonic = "great metal invest observe bring eager kit south chaos pair head install";
+var mnemonic = "screen giraffe east accident delay vendor shoulder demand must pilot rhythm exit";

@@ -1,1 +1,1 @@
-var mnemonic = "false bullet decorate tragic legal outdoor smoke enjoy size agree game sphere";
+var mnemonic = "fossil night stock surface imitate viable maid tooth mail tenant bacon lonely";

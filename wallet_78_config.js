@@ -1,1 +1,1 @@
-var mnemonic = "tilt during dentist day wall donkey robust force matter story inject old";
+var mnemonic = "arrive glove recipe hole marble assault match danger analyst muscle toward judge";

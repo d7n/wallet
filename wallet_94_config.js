@@ -1,1 +1,1 @@
-var mnemonic = "guard caught cloud struggle march morning eagle discover beach vacant spawn brush";
+var mnemonic = "clown evolve sorry wet goddess admit write capital staff great fall reunion";

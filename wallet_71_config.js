@@ -1,1 +1,1 @@
-var mnemonic = "daring seek farm artefact symbol blanket feature genre only master home this";
+var mnemonic = "armed jaguar monster ripple vehicle mango kid sauce banner mountain aware whip";

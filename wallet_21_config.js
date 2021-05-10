@@ -1,1 +1,1 @@
-var mnemonic = "organ zero neither unhappy glimpse eye key uniform trip hawk civil tribe";
+var mnemonic = "tower caution syrup arrow equal topple abandon cinnamon earn mango enter boat";

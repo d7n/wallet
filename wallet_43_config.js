@@ -1,1 +1,1 @@
-var mnemonic = "segment solve rule setup actor cinnamon cash october section pact giggle claim";
+var mnemonic = "truth upset radio coast palace honey crater clean person media auto maple";

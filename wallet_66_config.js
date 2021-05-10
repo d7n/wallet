@@ -1,1 +1,1 @@
-var mnemonic = "torch harbor call easily leader fabric rib couch mushroom cover paddle trash";
+var mnemonic = "rather usage purity bean spice garage child nut ocean stomach dinosaur attitude";

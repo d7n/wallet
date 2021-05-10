@@ -1,1 +1,1 @@
-var mnemonic = "enrich high right vault anger client virtual ginger dwarf pass ketchup apart";
+var mnemonic = "math lounge client there patch glare save artwork speed ramp scatter sing";

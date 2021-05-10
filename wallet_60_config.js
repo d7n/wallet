@@ -1,1 +1,1 @@
-var mnemonic = "luxury night cricket lift cycle alarm early gift black cinnamon afraid chronic";
+var mnemonic = "receive post draft output never mobile excite stage team chalk wink divide";

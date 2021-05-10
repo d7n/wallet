@@ -1,1 +1,1 @@
-var mnemonic = "thrive shove maximum hockey brisk narrow choose master tip gorilla rubber idea";
+var mnemonic = "honey gasp nominee swap about unfold broccoli merry novel maze main month";
