@@ -1,1 +1,1 @@
-var mnemonic = "know reject cute duck earn history sure cannon donate super manual pause";
+var mnemonic = "suspect appear regular festival chaos document mechanic slow velvet crime thought column";

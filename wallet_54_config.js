@@ -1,1 +1,1 @@
-var mnemonic = "turkey attend you feel easily borrow salt pink tag impose medal lizard";
+var mnemonic = "night normal sort skate village bag fee wealth diagram mule harbor cancel";

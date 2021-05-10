@@ -1,1 +1,1 @@
-var mnemonic = "urge bronze frozen soda want inch retreat more siren young toast melt";
+var mnemonic = "night right idle apart street current erase impulse donate morning nation review";

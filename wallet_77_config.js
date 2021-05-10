@@ -1,1 +1,1 @@
-var mnemonic = "differ west excite cricket glory episode genuine denial grace stadium december sibling";
+var mnemonic = "give fever spend board fabric wide trigger film tattoo raw parrot weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl debate draft pony inflict lottery gaze staff pride organ habit heart";
+var mnemonic = "motion shield shrimp glad rib grain dilemma person sample little author door";

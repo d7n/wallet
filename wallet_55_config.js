@@ -1,1 +1,1 @@
-var mnemonic = "blush ship between lucky injury illness debate manual rigid grid spike twist";
+var mnemonic = "author kitten minor motor excuse keep alley fatal smile mobile essence vital";

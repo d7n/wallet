@@ -1,1 +1,1 @@
-var mnemonic = "gather hollow celery secret actual cabin depth expand purpose sweet visit bridge";
+var mnemonic = "furnace deposit pause around problem credit silly tornado board hammer job pigeon";

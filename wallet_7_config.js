@@ -1,1 +1,1 @@
-var mnemonic = "seminar heart output twist shoulder donate burden issue design water ball finger";
+var mnemonic = "increase stick script nurse swim bid advance salt noise agent candy february";

@@ -1,1 +1,1 @@
-var mnemonic = "twin magic lion chapter away please sense crisp idea wink kitten income";
+var mnemonic = "toddler tide coast kiwi image sponsor bunker foam whip brush equip trap";

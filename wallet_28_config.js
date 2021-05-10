@@ -1,1 +1,1 @@
-var mnemonic = "basic protect slush actor scale very stool bronze neither notice canyon shine";
+var mnemonic = "cargo uncle joke member plunge sausage kite desk gas forget color please";

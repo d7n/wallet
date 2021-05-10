@@ -1,1 +1,1 @@
-var mnemonic = "property rare ecology intact saddle wonder release matrix truth income awake width";
+var mnemonic = "sister stairs minute cream plunge sun elbow sport tackle kid brand craft";

@@ -1,1 +1,1 @@
-var mnemonic = "below stamp soul tip involve sell around repair kidney corn guess upon";
+var mnemonic = "kitten joke average empty jealous timber dune basket panda sunset next tray";

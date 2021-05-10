@@ -1,1 +1,1 @@
-var mnemonic = "trouble wire proof helmet object clap useless leopard resist error antenna coyote";
+var mnemonic = "fossil believe panic science ceiling say diamond tag fault tuna super brand";

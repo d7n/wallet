@@ -1,1 +1,1 @@
-var mnemonic = "teach layer erase body guide million daughter blur dream heart punch explain";
+var mnemonic = "boat fabric salt friend anger member piece distance admit frown between island";

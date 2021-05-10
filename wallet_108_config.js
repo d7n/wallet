@@ -1,1 +1,1 @@
-var mnemonic = "soap whip space region lecture youth bus inquiry blind stand add envelope";
+var mnemonic = "exotic scrub camp work typical robot shove muffin artefact slight soft top";

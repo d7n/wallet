@@ -1,1 +1,1 @@
-var mnemonic = "excite scheme skirt shoot innocent silk couch wolf panther half document labor";
+var mnemonic = "radio chimney gun pill sound recycle rookie coin library time vehicle bracket";

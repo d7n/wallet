@@ -1,1 +1,1 @@
-var mnemonic = "orchard junior slab high regular emotion inner degree december fringe lift bargain";
+var mnemonic = "answer myself glide fluid end quality retire lock art morning exotic filter";

@@ -1,1 +1,1 @@
-var mnemonic = "claim easily accident relax birth fragile retire fresh phone mirror stone novel";
+var mnemonic = "stumble inject best pen impose arena extra siren stuff company shell photo";

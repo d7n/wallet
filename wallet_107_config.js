@@ -1,1 +1,1 @@
-var mnemonic = "area letter butter neck floor toss letter grant trade check push lend";
+var mnemonic = "maple play husband ask canyon hero federal genuine rare royal fury salmon";

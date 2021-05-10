@@ -1,1 +1,1 @@
-var mnemonic = "hand fall harvest verify eternal toe kingdom lend unhappy dust caution legend";
+var mnemonic = "boy garbage oval apart wild boy vital glide check barrel fitness poet";

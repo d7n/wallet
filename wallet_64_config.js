@@ -1,1 +1,1 @@
-var mnemonic = "noble perfect hawk announce east fish kiss coffee click measure black alcohol";
+var mnemonic = "choose never leave harvest park early become matter relax ring cement table";

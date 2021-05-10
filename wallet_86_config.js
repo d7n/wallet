@@ -1,1 +1,1 @@
-var mnemonic = "crucial detail what guilt mammal soul private analyst normal sniff recall oppose";
+var mnemonic = "menu execute pudding harbor essence visit sister civil gate digital puzzle gate";

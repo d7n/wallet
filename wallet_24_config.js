@@ -1,1 +1,1 @@
-var mnemonic = "panda label unit camp vivid best salad fish blossom depend heavy pencil";
+var mnemonic = "news page sunset crater museum index until enrich vocal alter old social";

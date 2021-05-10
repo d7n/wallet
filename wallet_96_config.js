@@ -1,1 +1,1 @@
-var mnemonic = "aunt resist letter dignity honey roof endless awful extend flame advice dinosaur";
+var mnemonic = "item neglect empty owner blood broom risk join cabbage trade situate deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "actress author grant prison sudden idea bitter viable gravity winter tornado trick";
+var mnemonic = "inspire cram vanish text around chronic solid picture bachelor spread era photo";

@@ -1,1 +1,1 @@
-var mnemonic = "version lamp thank crouch oval game because popular unit trash profit quote";
+var mnemonic = "escape coin kit cousin coil symbol coach foot heavy receive local brave";

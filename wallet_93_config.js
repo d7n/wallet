@@ -1,1 +1,1 @@
-var mnemonic = "dust gravity equal clip reward game wise artwork chair air stadium final";
+var mnemonic = "cattle upon neglect comfort dentist exile round soon mammal warm else useful";

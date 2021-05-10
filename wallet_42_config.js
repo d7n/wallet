@@ -1,1 +1,1 @@
-var mnemonic = "puzzle fitness involve bench future insect duty point sell rifle chuckle assume";
+var mnemonic = "eye route carpet water shove before immense phrase magic predict segment vast";

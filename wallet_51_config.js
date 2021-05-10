@@ -1,1 +1,1 @@
-var mnemonic = "glimpse wide video ring slogan air frown problem tongue rain blush possible";
+var mnemonic = "trick stereo odor ripple anxiety below venture credit spoon train memory clay";

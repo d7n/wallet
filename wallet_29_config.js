@@ -1,1 +1,1 @@
-var mnemonic = "gallery dizzy air worth brown present neglect kiss lesson test six crater";
+var mnemonic = "air ugly sad junior embody modify shop police vague fatal prevent father";

@@ -1,1 +1,1 @@
-var mnemonic = "index please brain clean until volcano marriage wreck girl ignore kit insect";
+var mnemonic = "easily early notable bridge water legend design glove wisdom account more emerge";

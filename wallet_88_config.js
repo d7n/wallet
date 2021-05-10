@@ -1,1 +1,1 @@
-var mnemonic = "impose sibling truth curve indicate spawn boy life certain initial ranch reunion";
+var mnemonic = "solution mammal script rent duty census normal member fade length behave garbage";

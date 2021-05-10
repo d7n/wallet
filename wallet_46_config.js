@@ -1,1 +1,1 @@
-var mnemonic = "clever pair trouble useless ketchup frequent small wonder host start once cube";
+var mnemonic = "marriage truth enforce battle rule pizza walnut immune replace fatigue lottery throw";

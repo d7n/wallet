@@ -1,1 +1,1 @@
-var mnemonic = "cross inquiry jump undo squeeze chapter unlock duty stem cancel during ready";
+var mnemonic = "club coconut wet limb dumb search apart lazy spoil skull pear hockey";

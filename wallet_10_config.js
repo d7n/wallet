@@ -1,1 +1,1 @@
-var mnemonic = "squirrel away coil destroy suspect balance sting success filter patch annual feel";
+var mnemonic = "dose vapor mobile turtle fitness settle model december shrug tumble mother party";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz calm write dance proud fatigue accuse stand situate slight envelope arena";
+var mnemonic = "despair fruit switch rebel vague hello sister coconut way vacant inch purpose";

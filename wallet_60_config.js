@@ -1,1 +1,1 @@
-var mnemonic = "pig scatter volcano sand move figure sock life harvest snake logic short";
+var mnemonic = "drink plastic shell crystal similar curve cradle cigar connect bachelor horn plunge";

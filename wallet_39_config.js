@@ -1,1 +1,1 @@
-var mnemonic = "brief hotel wave track envelope tattoo master father husband dwarf bridge wing";
+var mnemonic = "insect avocado emerge chalk dash robust dynamic decline indicate cargo gospel bamboo";

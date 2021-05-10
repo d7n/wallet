@@ -1,1 +1,1 @@
-var mnemonic = "ready fancy lemon quiz person organ ceiling photo nose field vanish hamster";
+var mnemonic = "stay either shiver ski diet fetch fee afford forget shuffle fatigue clog";

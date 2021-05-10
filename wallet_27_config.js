@@ -1,1 +1,1 @@
-var mnemonic = "great cinnamon ugly enhance bean similar abuse woman spike metal hammer weekend";
+var mnemonic = "employ barrel clerk super bone jelly taste fabric donkey hen play clarify";

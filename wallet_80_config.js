@@ -1,1 +1,1 @@
-var mnemonic = "dove alert mail cargo ribbon hour proof response smoke basic pole advice";
+var mnemonic = "female bonus enrich decorate mystery anxiety senior project veteran garage movie exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "hat split quality swing desert monster steel term track caution promote property";
+var mnemonic = "sister duck juice clinic either unit address voyage entry solve snap quit";

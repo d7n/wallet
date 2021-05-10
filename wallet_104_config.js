@@ -1,1 +1,1 @@
-var mnemonic = "wash prize coast match husband infant comfort limb hire pond convince panel";
+var mnemonic = "oil present fly hole airport scene cart unique tumble brick promote mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "predict seminar garment frequent flame chief wreck pitch jazz road off opera";
+var mnemonic = "unable lawn donkey table must trophy enrich client expect drama advice faculty";

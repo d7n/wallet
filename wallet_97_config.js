@@ -1,1 +1,1 @@
-var mnemonic = "empower movie system mirror month tape like rug crouch legend sphere decline";
+var mnemonic = "satoshi omit intact figure sad farm skill quantum hard divert measure marble";

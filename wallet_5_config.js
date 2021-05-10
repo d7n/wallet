@@ -1,1 +1,1 @@
-var mnemonic = "axis mean raw breeze giant inform small relax focus dad circle scrap";
+var mnemonic = "unique edge evoke ghost special song lion spice balance belt genius olympic";

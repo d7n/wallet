@@ -1,1 +1,1 @@
-var mnemonic = "flock hard inquiry news buyer soda fix provide stock injury dragon misery";
+var mnemonic = "submit school biology churn abstract escape hazard system squirrel donkey announce retreat";

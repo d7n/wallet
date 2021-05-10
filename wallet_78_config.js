@@ -1,1 +1,1 @@
-var mnemonic = "ethics robot exile gloom tone front fork adapt parent bunker quality agree";
+var mnemonic = "weasel cook course parent idle lake ramp cereal skull dish detail wine";

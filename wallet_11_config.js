@@ -1,1 +1,1 @@
-var mnemonic = "talent conduct accident pitch draw brass shop between cattle lyrics slow leopard";
+var mnemonic = "debris grief enable battle dilemma kick response laugh disagree deliver effort book";

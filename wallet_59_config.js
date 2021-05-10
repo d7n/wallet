@@ -1,1 +1,1 @@
-var mnemonic = "example asthma mix always unusual life slot effort protect picture teach mixed";
+var mnemonic = "expect uncle habit proud fee cotton dolphin fan arrow decorate slice prize";

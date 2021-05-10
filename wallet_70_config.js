@@ -1,1 +1,1 @@
-var mnemonic = "tonight wrist force siege like sniff ancient arrive away steel top misery";
+var mnemonic = "sorry endless twice track phone weasel ticket process ill mail load mimic";

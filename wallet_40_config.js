@@ -1,1 +1,1 @@
-var mnemonic = "rural example wing also fury spray route sphere food rocket ridge two";
+var mnemonic = "brush tank parrot attack clock alter unfold umbrella donkey acid elegant all";

@@ -1,1 +1,1 @@
-var mnemonic = "quote wool vague trumpet silly husband green fatigue include danger army pill";
+var mnemonic = "junior pact elder maze garment wedding pen much write cry priority pigeon";

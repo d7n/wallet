@@ -1,1 +1,1 @@
-var mnemonic = "erode real ugly artwork famous track destroy order soft situate void uphold";
+var mnemonic = "glance script urban decade pitch toward tent minimum chat another casino focus";

@@ -1,1 +1,1 @@
-var mnemonic = "dial gap volcano argue phone blade bean comfort churn congress chaos shy";
+var mnemonic = "doll fault vast rent envelope bulk dwarf vehicle eager question dwarf camp";

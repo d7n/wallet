@@ -1,1 +1,1 @@
-var mnemonic = "teach voyage mistake stamp today leopard symptom game utility hollow fabric wrestle";
+var mnemonic = "cactus best yard success intact peanut issue chimney habit file victory trim";

@@ -1,1 +1,1 @@
-var mnemonic = "device dove test sugar twist exercise music early ski bachelor magnet general";
+var mnemonic = "clap pink rebel term remind almost purpose sick include moment vapor whisper";

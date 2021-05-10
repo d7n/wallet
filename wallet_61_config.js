@@ -1,1 +1,1 @@
-var mnemonic = "farm paddle frequent predict humor mercy scare flush ask appear subject tide";
+var mnemonic = "early hen antique current bar kite wife canvas final bus skate emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "original churn total angle loud journey fatal mind steel cement gift file";
+var mnemonic = "festival harsh popular promote toss vivid search capable either noble dice pause";

@@ -1,1 +1,1 @@
-var mnemonic = "need minor aim turkey decorate nuclear head spread awful error lizard coyote";
+var mnemonic = "various cage spread audit awake ticket patrol volume already better budget slab";

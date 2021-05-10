@@ -1,1 +1,1 @@
-var mnemonic = "pear violin stomach tired mirror hurdle once wasp uncover burger pole web";
+var mnemonic = "match film cherry sister soon armor female moral leisure lock turkey rose";

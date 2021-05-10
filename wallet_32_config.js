@@ -1,1 +1,1 @@
-var mnemonic = "present mix dentist announce advance spatial total valve file ill puzzle street";
+var mnemonic = "enjoy transfer morning celery warm drum panda employ evolve upon renew bamboo";

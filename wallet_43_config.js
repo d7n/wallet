@@ -1,1 +1,1 @@
-var mnemonic = "pride skin repair gift abstract bamboo spring swear knee buddy crane jealous";
+var mnemonic = "toss same sausage bottom bitter license boil bright sail exclude cube glide";

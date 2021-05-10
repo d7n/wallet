@@ -1,1 +1,1 @@
-var mnemonic = "until dinner quiz repeat erosion fall elevator lend ridge swap enforce crystal";
+var mnemonic = "awake hip scout smart air impact because august belt target gun hero";

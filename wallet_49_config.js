@@ -1,1 +1,1 @@
-var mnemonic = "quit chase gas song prepare fall average develop law replace achieve fall";
+var mnemonic = "average peanut damage fiscal enter melt service mutual second bench gain cream";

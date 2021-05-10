@@ -1,1 +1,1 @@
-var mnemonic = "text law viable shift green wink garage drama bus loud network robot";
+var mnemonic = "canyon remind pluck success identify truck feature lottery piano title sunny embody";

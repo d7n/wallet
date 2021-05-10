@@ -1,1 +1,1 @@
-var mnemonic = "garbage unusual good orange boss cheese gasp stick mixed all normal face";
+var mnemonic = "manual hen yellow mirror mix suffer farm address acid seminar patch almost";

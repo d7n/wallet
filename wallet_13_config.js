@@ -1,1 +1,1 @@
-var mnemonic = "settle pair eager stable region program regret magnet immense usage own track";
+var mnemonic = "slab marine lucky embrace twin mouse tuition drink sick hip hungry enact";

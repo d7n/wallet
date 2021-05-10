@@ -1,1 +1,1 @@
-var mnemonic = "weather combine under elite olympic adult when poem chair step future picnic";
+var mnemonic = "govern quality cave vehicle ginger fine fancy clay green elevator skirt snow";

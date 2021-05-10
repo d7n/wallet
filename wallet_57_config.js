@@ -1,1 +1,1 @@
-var mnemonic = "sight perfect strike shoulder seek assume adapt mountain expire rebel retreat price";
+var mnemonic = "crucial pond snap domain ridge hurt panther harsh floor poverty witness shoe";

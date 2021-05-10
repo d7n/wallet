@@ -1,1 +1,1 @@
-var mnemonic = "law ridge dinosaur property critic entry upon neutral thunder wrestle pyramid diamond";
+var mnemonic = "focus session attract chuckle scan lunar able tunnel green bicycle cabin wait";

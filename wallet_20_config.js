@@ -1,1 +1,1 @@
-var mnemonic = "cat tube matrix autumn hip buffalo loyal remain solution bunker suffer gloom";
+var mnemonic = "system flee dolphin smoke level join else best hour depth cheese section";

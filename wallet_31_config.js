@@ -1,1 +1,1 @@
-var mnemonic = "bacon final manage symptom shoot thought burger fine silk expose duck fix";
+var mnemonic = "nasty thunder luxury guard design snake prepare limb climb cargo weekend grape";

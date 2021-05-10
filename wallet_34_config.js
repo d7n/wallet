@@ -1,1 +1,1 @@
-var mnemonic = "fatigue portion pipe slim seminar lady noble garment lamp wonder change multiply";
+var mnemonic = "sugar slam invite siren noise clever crop walnut present ghost leg duty";

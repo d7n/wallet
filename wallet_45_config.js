@@ -1,1 +1,1 @@
-var mnemonic = "fatigue present promote cabbage elite sea style often unaware moral earn muscle";
+var mnemonic = "bone unable flat busy parent regret few certain subway figure horror squeeze";

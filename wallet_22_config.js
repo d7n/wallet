@@ -1,1 +1,1 @@
-var mnemonic = "draw space force hire lobster wheel frost pole obvious fat wait then";
+var mnemonic = "return path skate fire caught bind diary crawl fold lesson razor erosion";

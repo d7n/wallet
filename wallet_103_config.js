@@ -1,1 +1,1 @@
-var mnemonic = "view income battle cloud elbow ill two execute shield ship any health";
+var mnemonic = "gentle adult offer broken crunch bulb drift boy mango option today cruise";

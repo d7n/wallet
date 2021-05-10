@@ -1,1 +1,1 @@
-var mnemonic = "season tuna scene because hurt whale luxury cup inherit chimney brisk tank";
+var mnemonic = "you object pair carry left fog awkward tourist road bar level ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "outer hood health wrap feature black clinic blast awake gesture library diary";
+var mnemonic = "impose blanket train between file walk soldier couple dinosaur close mean tragic";

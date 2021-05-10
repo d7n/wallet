@@ -1,1 +1,1 @@
-var mnemonic = "welcome eager work spray welcome time actress squeeze flip six miracle over";
+var mnemonic = "harbor crouch awful glass goat wife toast work south lens cycle tiny";

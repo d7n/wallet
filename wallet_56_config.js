@@ -1,1 +1,1 @@
-var mnemonic = "loud release pulse crucial inform similar opinion ethics hub olive hamster hedgehog";
+var mnemonic = "ankle glance drastic detail account drastic boat thunder squeeze supreme cheese favorite";

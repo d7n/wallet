@@ -1,1 +1,1 @@
-var mnemonic = "truly cheese drift involve modify ice interest stone spell inmate hair patient";
+var mnemonic = "guide elevator east convince arrange jungle puzzle bike soul brave lunch test";

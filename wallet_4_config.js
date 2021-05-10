@@ -1,1 +1,1 @@
-var mnemonic = "tennis trap deliver enroll pudding protect kidney funny vessel photo scatter super";
+var mnemonic = "ski reflect initial dial lecture fault venue promote antique warm stick toy";

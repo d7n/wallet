@@ -1,1 +1,1 @@
-var mnemonic = "flight leaf swift swallow crew exercise just famous achieve emerge disorder chase";
+var mnemonic = "toe lobster present glimpse detail school cousin carry dinner over silk rare";

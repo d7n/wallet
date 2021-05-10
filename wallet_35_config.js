@@ -1,1 +1,1 @@
-var mnemonic = "leave tribe helmet raccoon enable mask speed canyon trigger claim extra alert";
+var mnemonic = "crack frog update fly bleak never frozen entire exit metal employ rich";

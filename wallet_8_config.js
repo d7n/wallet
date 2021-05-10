@@ -1,1 +1,1 @@
-var mnemonic = "course rocket rescue sword fish absent crucial process day body wave zoo";
+var mnemonic = "party discover trade reason noodle hungry tape lawn breeze awake major glory";
