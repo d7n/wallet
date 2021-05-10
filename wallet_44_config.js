@@ -1,1 +1,1 @@
-var mnemonic = "reason aisle regret invest detect father gesture bachelor sound spray pull people";
+var mnemonic = "asset ramp chimney evil soft tag sentence pudding pig unfold minute voice";

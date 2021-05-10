@@ -1,1 +1,1 @@
-var mnemonic = "clown ranch hold olympic fiber mass flush train bag pear web loud";
+var mnemonic = "left peanut meat garbage segment devote rate net expose audit screen shallow";

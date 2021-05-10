@@ -1,1 +1,1 @@
-var mnemonic = "drink autumn patch position monkey own float age fantasy solar canyon promote";
+var mnemonic = "lamp cousin live join odor chicken vibrant cheap keen grain cube fragile";

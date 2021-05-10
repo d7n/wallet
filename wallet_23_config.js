@@ -1,1 +1,1 @@
-var mnemonic = "panel phone hood drill flat banner grit great equal grass choice search";
+var mnemonic = "submit color absorb meat tornado rent delay length recipe sheriff enemy like";

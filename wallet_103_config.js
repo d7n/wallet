@@ -1,1 +1,1 @@
-var mnemonic = "puzzle rival melt payment differ truck alter salon weird worry pink trust";
+var mnemonic = "conduct fiction client coach orbit culture wing doll brave fox siege help";

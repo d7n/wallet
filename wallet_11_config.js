@@ -1,1 +1,1 @@
-var mnemonic = "cave tuition segment then shallow guard drink angry pool foot train cry";
+var mnemonic = "arrange summer language negative start tray sibling undo since march route supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "rural actor will birth romance echo random design giggle lesson dynamic wish";
+var mnemonic = "sunset enforce title actor emotion whale blanket churn dog pig day near";

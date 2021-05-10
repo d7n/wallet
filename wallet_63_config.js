@@ -1,1 +1,1 @@
-var mnemonic = "merit useless clown soul grain state okay hybrid carpet slide suffer post";
+var mnemonic = "snake join favorite tuna gaze tail sudden normal aspect sword proof vivid";

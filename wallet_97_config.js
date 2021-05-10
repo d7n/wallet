@@ -1,1 +1,1 @@
-var mnemonic = "unique situate glow square grocery staff become dream forum energy future foster";
+var mnemonic = "maze slide vanish average approve next coconut left top pair gap truly";

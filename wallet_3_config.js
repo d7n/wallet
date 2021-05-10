@@ -1,1 +1,1 @@
-var mnemonic = "grace hurt ten whip giggle state desk bubble music forum episode bachelor";
+var mnemonic = "easy aerobic galaxy draft suffer deliver angle identify music away output acid";

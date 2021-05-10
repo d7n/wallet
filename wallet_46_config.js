@@ -1,1 +1,1 @@
-var mnemonic = "furnace strike outer worth empower arctic ship nice bench like defense brick";
+var mnemonic = "crater toss latin buddy siege soup rural adjust trash mammal border lawn";

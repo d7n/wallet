@@ -1,1 +1,1 @@
-var mnemonic = "response animal emerge bless win quote catalog clump crystal intact unknown total";
+var mnemonic = "notable risk seminar grow radar fresh comfort cream sample envelope train lamp";

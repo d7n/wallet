@@ -1,1 +1,1 @@
-var mnemonic = "potato regret hidden little oblige industry laundry improve lizard fossil marble source";
+var mnemonic = "truth cash mixed source trophy grid farm flower artist gas enough simple";

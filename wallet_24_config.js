@@ -1,1 +1,1 @@
-var mnemonic = "approve long torch they spice local hawk volcano seed night ginger spare";
+var mnemonic = "stove liar fortune cat join shrug video jump first army belt outside";

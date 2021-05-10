@@ -1,1 +1,1 @@
-var mnemonic = "machine half size have immense awesome edge skull lemon build tobacco document";
+var mnemonic = "genuine image cheap liberty run peasant stick harbor bundle sword agent clarify";

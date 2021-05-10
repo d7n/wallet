@@ -1,1 +1,1 @@
-var mnemonic = "real choice jungle rifle verb worth dismiss fade front found team casual";
+var mnemonic = "trumpet dirt expand ugly tool feed under above fitness sand actress day";

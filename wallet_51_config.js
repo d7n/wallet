@@ -1,1 +1,1 @@
-var mnemonic = "strong mouse unhappy damage frost glad flock time mandate scissors cricket render";
+var mnemonic = "armor wage sword brave rocket rude wise green future camera cradle exotic";

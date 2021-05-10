@@ -1,1 +1,1 @@
-var mnemonic = "field fly solution mixed mosquito snow bag squeeze behave promote increase belt";
+var mnemonic = "nice decline collect baby since smoke item theory beauty swallow ginger oxygen";

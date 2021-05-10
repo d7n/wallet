@@ -1,1 +1,1 @@
-var mnemonic = "volume fatal tissue quarter relief boost ring indicate divide become amused glad";
+var mnemonic = "shield jungle motion track island noble name jacket click crazy way strategy";

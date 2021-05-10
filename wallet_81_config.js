@@ -1,1 +1,1 @@
-var mnemonic = "bulb alien stand bus warrior invite catch syrup margin rain olive machine";
+var mnemonic = "armed million lake hour lazy jump arrest actor rapid clutch muscle viable";

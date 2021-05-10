@@ -1,1 +1,1 @@
-var mnemonic = "guitar volume inject foot draw useful kick label festival relief move chimney";
+var mnemonic = "report say student prize bulb virus kite face vital analyst wave direct";

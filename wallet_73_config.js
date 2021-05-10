@@ -1,1 +1,1 @@
-var mnemonic = "exact blade napkin lounge soon bird when usage maid scorpion wife shop";
+var mnemonic = "culture idea crew core next lyrics open cry weasel aware lunch come";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit badge game click over bus elder pair resource depend area flash";
+var mnemonic = "goose okay fever method reject tone denial unfair level fan ugly grit";

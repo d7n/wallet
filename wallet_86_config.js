@@ -1,1 +1,1 @@
-var mnemonic = "waste absurd prosper wealth casual east wear senior anger useful swim make";
+var mnemonic = "steak cat couch hub must stereo analyst attitude clinic squirrel token orient";

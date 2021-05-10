@@ -1,1 +1,1 @@
-var mnemonic = "tobacco tiger cook thought metal input lock artefact region frozen explain bonus";
+var mnemonic = "sun diesel piece fruit sight try nose breeze sister ritual zone stage";

@@ -1,1 +1,1 @@
-var mnemonic = "dune first soft gift violin bless multiply cruel oyster copper denial rural";
+var mnemonic = "range cram possible reopen flash muscle decrease door mutual morning side neutral";

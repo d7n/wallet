@@ -1,1 +1,1 @@
-var mnemonic = "smoke decade nose base odor night nephew donate olive minute leaf oak";
+var mnemonic = "trumpet seven dry silly theory donkey exotic couch sting rabbit funny segment";

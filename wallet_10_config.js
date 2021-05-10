@@ -1,1 +1,1 @@
-var mnemonic = "judge blind movie human guilt page surge home primary marble regret shine";
+var mnemonic = "ceiling total trial elbow mule capital this truly chair two napkin time";

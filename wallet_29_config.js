@@ -1,1 +1,1 @@
-var mnemonic = "fly material sort share design tiger wasp pyramid siege style pear impact";
+var mnemonic = "used struggle symptom during seven soul mushroom main sport dance black word";

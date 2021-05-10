@@ -1,1 +1,1 @@
-var mnemonic = "boost exit blood fashion field polar trash plunge hello current luggage erosion";
+var mnemonic = "body install review crash fiber trust apart town retire identify device army";

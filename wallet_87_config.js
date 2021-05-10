@@ -1,1 +1,1 @@
-var mnemonic = "hurt solar diesel ride around below barely excuse apart lizard swap cycle";
+var mnemonic = "own error worry resemble slush maze style risk invite humor series dust";

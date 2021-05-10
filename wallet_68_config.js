@@ -1,1 +1,1 @@
-var mnemonic = "trophy execute drink focus angle tuna upgrade museum seminar either border six";
+var mnemonic = "museum secret blame escape dirt topple tip enforce blanket paddle viable snow";

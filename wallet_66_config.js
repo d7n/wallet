@@ -1,1 +1,1 @@
-var mnemonic = "permit void million aunt glove broom dove chaos life mesh throw guard";
+var mnemonic = "episode index flee tape arrow legend claw same brother green faint raccoon";

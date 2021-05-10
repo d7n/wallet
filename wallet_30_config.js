@@ -1,1 +1,1 @@
-var mnemonic = "piece head round angry camera patrol enough aspect almost measure crucial enroll";
+var mnemonic = "myth announce curtain across chair escape panther toast badge oak reopen shove";

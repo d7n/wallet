@@ -1,1 +1,1 @@
-var mnemonic = "vivid plate gospel hospital kite limit tissue perfect shield recycle reduce mandate";
+var mnemonic = "utility today then glare high else term hint depart truth crash lounge";

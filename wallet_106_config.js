@@ -1,1 +1,1 @@
-var mnemonic = "whip sudden breeze swing ticket unique oxygen suffer cloud impose firm link";
+var mnemonic = "relax idea brown giggle twist output fragile corn screen abandon layer drill";

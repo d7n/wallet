@@ -1,1 +1,1 @@
-var mnemonic = "camp jaguar target spot license ask gravity online riot actress wait govern";
+var mnemonic = "ring exchange pilot yellow grace scout want voice hub story plastic differ";

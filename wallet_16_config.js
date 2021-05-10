@@ -1,1 +1,1 @@
-var mnemonic = "century link typical devote fix figure tail dress people wage bachelor spatial";
+var mnemonic = "garlic marble tomorrow vocal twelve task margin luxury envelope insane okay employ";

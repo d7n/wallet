@@ -1,1 +1,1 @@
-var mnemonic = "vote manage sting valid benefit scatter inspire angry recycle trend weasel know";
+var mnemonic = "twenty matrix ask outside satisfy hockey liberty awkward opinion lemon tree vintage";

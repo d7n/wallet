@@ -1,1 +1,1 @@
-var mnemonic = "dynamic face leave combine put hub deer pizza tired vast spirit until";
+var mnemonic = "black spy gold fog inmate vendor fade vote inner stay lake few";

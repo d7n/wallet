@@ -1,1 +1,1 @@
-var mnemonic = "place exercise flame wonder cable spider turtle total elite cigar iron frog";
+var mnemonic = "oblige story open peasant jazz case robust ghost song possible curious gift";

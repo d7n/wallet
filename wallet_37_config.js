@@ -1,1 +1,1 @@
-var mnemonic = "rent dismiss festival element intact egg heavy train mammal add jeans paper";
+var mnemonic = "oil cute retire dad chuckle midnight ability ripple goose gold reward behind";

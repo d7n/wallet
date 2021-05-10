@@ -1,1 +1,1 @@
-var mnemonic = "flower innocent pilot cigar diary lawn chuckle vocal split supreme thank skin";
+var mnemonic = "alpha wood animal twist one mask logic cricket toast slim happy torch";

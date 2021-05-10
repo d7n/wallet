@@ -1,1 +1,1 @@
-var mnemonic = "chest comic degree liquid target income scan improve message permit engine rich";
+var mnemonic = "oppose fit regret indicate melt worth unknown know budget staff rubber venue";

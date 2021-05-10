@@ -1,1 +1,1 @@
-var mnemonic = "alter vanish fortune sadness parrot orchard behind february sausage omit exercise mushroom";
+var mnemonic = "crazy act crunch curious thunder resist small allow lava dish squirrel motion";

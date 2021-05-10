@@ -1,1 +1,1 @@
-var mnemonic = "tiger fuel found harbor main business spring aware mind drink blossom net";
+var mnemonic = "myth initial bean crazy acquire life cart stick sausage immune wolf cat";

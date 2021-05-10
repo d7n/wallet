@@ -1,1 +1,1 @@
-var mnemonic = "put relax sock angry two exile ship ship code club media engage";
+var mnemonic = "venture alley attract lady alert wife pen absurd estate smile alley maple";

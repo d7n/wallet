@@ -1,1 +1,1 @@
-var mnemonic = "afford body kingdom normal decline fame december arrive alpha reunion board stumble";
+var mnemonic = "opera weekend laundry grace plunge crazy diamond common field into amount hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt spy problem casual six never crop ball clinic peanut insane merit";
+var mnemonic = "over oxygen safe expose behind energy mirror abandon dad slot dinner butter";

@@ -1,1 +1,1 @@
-var mnemonic = "stove rifle dial lazy decrease enact kingdom oval survey floor bundle input";
+var mnemonic = "vivid prize name bind trophy empower course panther diesel scene update mansion";

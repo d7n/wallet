@@ -1,1 +1,1 @@
-var mnemonic = "submit sniff course worth tape orphan guide dumb cat square uphold early";
+var mnemonic = "giggle citizen purse media filter pepper reduce tortoise depart change execute milk";

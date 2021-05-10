@@ -1,1 +1,1 @@
-var mnemonic = "pledge spend barely bubble remind meat garage scale spread wool million round";
+var mnemonic = "embody robust kid tumble exclude mind quote noodle glare click float sand";

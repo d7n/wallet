@@ -1,1 +1,1 @@
-var mnemonic = "flock have face amazing december plastic strike dinosaur state moment reject hybrid";
+var mnemonic = "release squeeze trigger thing nation bonus energy shield voyage eye elbow nest";

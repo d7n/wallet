@@ -1,1 +1,1 @@
-var mnemonic = "make upset toilet rapid script foil view eye pig then quote either";
+var mnemonic = "drink nasty account surround mesh noodle parade thank again drastic sustain property";

@@ -1,1 +1,1 @@
-var mnemonic = "unit surface twin melt eye half hurdle coil tomorrow domain asset medal";
+var mnemonic = "inside opinion fuel scorpion fuel ride reform cry erupt smile hard ritual";

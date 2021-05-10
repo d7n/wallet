@@ -1,1 +1,1 @@
-var mnemonic = "hover awkward limit rebuild obtain one bind forum torch pluck drastic mirror";
+var mnemonic = "flush april slab mad cruel search organ open reveal divide key wear";

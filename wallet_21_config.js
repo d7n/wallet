@@ -1,1 +1,1 @@
-var mnemonic = "hundred bamboo wife skin raw coffee heart essence north false rail february";
+var mnemonic = "armed call scare impulse deny digital grow theory chimney cook detect rather";

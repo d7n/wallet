@@ -1,1 +1,1 @@
-var mnemonic = "bottom impact divide story borrow ski situate buzz patient thing angry hobby";
+var mnemonic = "rebel cabbage snow edge notable caution taxi stable normal tragic choose share";

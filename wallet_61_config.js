@@ -1,1 +1,1 @@
-var mnemonic = "earn forward loop swap ocean spin asset aim hunt portion term once";
+var mnemonic = "credit supply stove wall fortune scorpion draft inquiry device minute tortoise ketchup";

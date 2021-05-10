@@ -1,1 +1,1 @@
-var mnemonic = "raven march glance mom sea grunt blossom poverty knife leader where spray";
+var mnemonic = "rookie melody inquiry seven beach light position mistake velvet collect skull dream";

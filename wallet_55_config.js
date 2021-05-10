@@ -1,1 +1,1 @@
-var mnemonic = "better doll alone unfold object crew plug prosper minimum deputy nuclear alley";
+var mnemonic = "boost seek vote order consider tackle winter begin flee neither undo grant";

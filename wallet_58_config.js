@@ -1,1 +1,1 @@
-var mnemonic = "source ostrich insect elite maple truly public rival busy neither donor syrup";
+var mnemonic = "source stage female flock reunion arctic submit traffic accuse series service arena";

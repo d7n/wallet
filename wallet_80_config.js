@@ -1,1 +1,1 @@
-var mnemonic = "pulse place inform mad lend country accuse taste okay latin trouble bargain";
+var mnemonic = "drill pair maid language end chicken oyster trust render alpha decorate barely";

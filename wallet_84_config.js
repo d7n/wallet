@@ -1,1 +1,1 @@
-var mnemonic = "vapor frog cram clog swamp honey cinnamon topic coach medal hospital try";
+var mnemonic = "submit because that brisk idle honey subway crucial produce hard food cost";

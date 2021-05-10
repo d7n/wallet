@@ -1,1 +1,1 @@
-var mnemonic = "teach truck exit simple bike veteran carry finger there vague reject extend";
+var mnemonic = "magnet kitten science shoe slow list volcano magic rose ghost law cram";

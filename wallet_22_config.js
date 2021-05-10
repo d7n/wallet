@@ -1,1 +1,1 @@
-var mnemonic = "pledge maximum share kind toss paddle eyebrow virus year slender remember wedding";
+var mnemonic = "pool harsh fringe deliver gas alpha display diary buyer fashion usage design";

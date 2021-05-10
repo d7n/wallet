@@ -1,1 +1,1 @@
-var mnemonic = "true drum mind federal special spy crop health decline diamond drip jar";
+var mnemonic = "iron shrimp apology huge employ pond fruit total humble cigar disease announce";

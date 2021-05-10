@@ -1,1 +1,1 @@
-var mnemonic = "video swear grain monkey magnet until utility tube farm vanish tilt survey";
+var mnemonic = "response joy close weasel spray miracle actress install normal jeans average upgrade";

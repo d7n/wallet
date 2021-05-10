@@ -1,1 +1,1 @@
-var mnemonic = "beach sound mercy captain human word coin bid fitness mixed curious child";
+var mnemonic = "sudden excite hole better invest game account depart daring betray truly immune";

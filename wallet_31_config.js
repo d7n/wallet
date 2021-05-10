@@ -1,1 +1,1 @@
-var mnemonic = "twice system illness leaf then crazy coin giraffe meadow exhibit captain round";
+var mnemonic = "kid harsh shine wolf tower two rice soul dolphin life scrub tide";

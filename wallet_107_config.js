@@ -1,1 +1,1 @@
-var mnemonic = "degree basket broom shaft nose history face between alien mistake small pig";
+var mnemonic = "start biology famous page purpose road scatter cat skate olive asset crowd";

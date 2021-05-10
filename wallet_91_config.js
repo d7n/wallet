@@ -1,1 +1,1 @@
-var mnemonic = "warm small sleep own grass glove document design peace pupil garlic guess";
+var mnemonic = "hint east agree theme address raven nose plunge shrug pill render north";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle supply creek trouble chimney slender result coast pencil coil advance lemon";
+var mnemonic = "mosquito display lounge describe until one silent regret news wave unhappy bargain";

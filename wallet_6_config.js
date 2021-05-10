@@ -1,1 +1,1 @@
-var mnemonic = "assume viable evoke enemy jungle giggle age awesome roast orphan yard anchor";
+var mnemonic = "holiday clock autumn brick crisp member enter avocado robust shop divert noble";

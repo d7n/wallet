@@ -1,1 +1,1 @@
-var mnemonic = "real unaware sword inform shadow hybrid robot tumble alone hurry mixed accuse";
+var mnemonic = "narrow clutch raw shock stay resource stomach cereal sauce orbit audit blast";

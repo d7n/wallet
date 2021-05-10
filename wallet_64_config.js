@@ -1,1 +1,1 @@
-var mnemonic = "very analyst asset effort urban roof reduce embody rare upon detect point";
+var mnemonic = "shop vanish round fit abandon idle coconut camera life find account student";

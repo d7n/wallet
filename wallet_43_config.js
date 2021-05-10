@@ -1,1 +1,1 @@
-var mnemonic = "ribbon use ankle beef witness demise doll all differ asthma shove symptom";
+var mnemonic = "morning speed deputy lumber venture juice pride just bunker december extend will";

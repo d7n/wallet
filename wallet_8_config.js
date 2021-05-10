@@ -1,1 +1,1 @@
-var mnemonic = "use catalog busy cost kid gas jump eyebrow tail damp upset tool";
+var mnemonic = "spider uncle dismiss tuition mail loud satoshi truth general melody treat state";

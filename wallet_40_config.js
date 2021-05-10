@@ -1,1 +1,1 @@
-var mnemonic = "gaze slab illegal hub route tiny common early praise rhythm require matrix";
+var mnemonic = "fall hazard since output price blanket file jungle expect slim ride cable";

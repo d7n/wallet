@@ -1,1 +1,1 @@
-var mnemonic = "section eternal boss bunker wood recycle gate welcome guitar wasp social small";
+var mnemonic = "truly title rack price embrace lemon gold health wing antenna glow nephew";

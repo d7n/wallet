@@ -1,1 +1,1 @@
-var mnemonic = "glue quality fragile uncle absurd address crazy cube guide dizzy pitch gauge";
+var mnemonic = "jeans twist phone sport online forum excuse memory athlete rifle ritual place";

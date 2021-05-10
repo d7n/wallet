@@ -1,1 +1,1 @@
-var mnemonic = "involve summer resist duck celery praise flush orphan fee vital cage envelope";
+var mnemonic = "sadness basic wall excuse trophy idea route sausage burger destroy obscure badge";

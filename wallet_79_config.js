@@ -1,1 +1,1 @@
-var mnemonic = "include tail screen angle whip cannon anchor enter tool grunt peasant patrol";
+var mnemonic = "father sheriff field explain normal ivory recycle wave item race craft cook";

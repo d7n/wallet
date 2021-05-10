@@ -1,1 +1,1 @@
-var mnemonic = "walk drama still another sister normal enable else athlete tortoise turn quote";
+var mnemonic = "resemble setup zero wagon modify swarm thing someone slam flee win chuckle";

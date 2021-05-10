@@ -1,1 +1,1 @@
-var mnemonic = "home mass swing coconut absurd column obtain business pigeon borrow hamster illegal";
+var mnemonic = "shoulder blame hold video ranch cross afford warm basket high clerk pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "despair caution monitor then fiction gain wealth farm mouse fiscal dawn creek";
+var mnemonic = "dragon tilt wheel text rocket gentle base property trigger sudden uncle blush";

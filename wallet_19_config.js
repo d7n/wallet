@@ -1,1 +1,1 @@
-var mnemonic = "suit october federal route route badge sell equal notice weapon enter party";
+var mnemonic = "column toy kid scan mixed path meadow carpet dice subway panic someone";

@@ -1,1 +1,1 @@
-var mnemonic = "impact pig wire slot burst cabbage gold antique ranch lawn extra person";
+var mnemonic = "squirrel page boil luggage corn gas muffin horse carbon later wine choose";

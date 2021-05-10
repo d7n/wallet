@@ -1,1 +1,1 @@
-var mnemonic = "donor tobacco baby amateur weekend theme have pattern like alter peanut pass";
+var mnemonic = "relax dentist alcohol apart innocent unable pill entire analyst apart slogan cherry";

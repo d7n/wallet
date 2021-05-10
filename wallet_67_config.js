@@ -1,1 +1,1 @@
-var mnemonic = "novel crane person amazing beauty crisp grit ripple culture seed biology alley";
+var mnemonic = "summer business door simple middle sort champion then young arm random soul";

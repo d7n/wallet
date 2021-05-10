@@ -1,1 +1,1 @@
-var mnemonic = "thunder fatal bomb tape visual spike boost govern term affair heart hair";
+var mnemonic = "owner because gaze grit paddle video man hard know cycle prevent axis";

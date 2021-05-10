@@ -1,1 +1,1 @@
-var mnemonic = "end acoustic click pupil chunk dynamic finger weird person inside turn mobile";
+var mnemonic = "fresh coconut fee flip pool few primary one agent market toy blanket";

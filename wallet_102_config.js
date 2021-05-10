@@ -1,1 +1,1 @@
-var mnemonic = "faint addict change essence hill update raise awake pause unusual hero mosquito";
+var mnemonic = "sugar jealous pause industry surface appear wedding cement bench surface choose pull";

@@ -1,1 +1,1 @@
-var mnemonic = "battle flash ridge elbow what mountain drama human intact over stay supply";
+var mnemonic = "remind stuff letter project chunk finger scout chair ranch ketchup vehicle diet";

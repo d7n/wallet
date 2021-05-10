@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog island fiction stock bench collect tilt simple patrol radio topic unhappy";
+var mnemonic = "current radio kitten pepper favorite invite venture sorry crush song despair woman";

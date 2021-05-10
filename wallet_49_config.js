@@ -1,1 +1,1 @@
-var mnemonic = "dice satoshi differ oven potato remain mother neck nominee buzz bacon stereo";
+var mnemonic = "settle illness section quote host clog popular prize giggle airport venue crew";
