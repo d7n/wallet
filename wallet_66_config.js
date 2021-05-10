@@ -1,1 +1,1 @@
-var mnemonic = "student abandon since shrug flame attitude wagon bone shallow furnace also mandate";
+var mnemonic = "network flee gesture reward lens fetch solution power lamp token endless nerve";

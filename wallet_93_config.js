@@ -1,1 +1,1 @@
-var mnemonic = "pistol crouch junk sleep fun shift dog pear enough legal wish cruise";
+var mnemonic = "element spatial nut shove pitch open wrong galaxy royal useful dream ivory";

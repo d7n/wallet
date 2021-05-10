@@ -1,1 +1,1 @@
-var mnemonic = "sure edge this shadow spend danger rude spoil impulse next head clip";
+var mnemonic = "blade rotate lumber fashion warrior wheel deal true cabin fold sustain border";

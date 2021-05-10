@@ -1,1 +1,1 @@
-var mnemonic = "oyster crew this soap shallow write moon hammer wish desert army hunt";
+var mnemonic = "recycle shell friend frown grit nephew pupil elegant chunk atom identify census";

@@ -1,1 +1,1 @@
-var mnemonic = "enact stay urge hidden mother rebel next rain hen eager toilet unable";
+var mnemonic = "history floor custom dose edit this buffalo another boost dash suit wine";

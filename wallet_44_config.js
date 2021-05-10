@@ -1,1 +1,1 @@
-var mnemonic = "palace horse picnic ten hungry clutch attitude total topple prepare interest pool";
+var mnemonic = "narrow tunnel skull middle funny edge often upon chair erosion eager cycle";

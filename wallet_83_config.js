@@ -1,1 +1,1 @@
-var mnemonic = "buddy order cabbage hip cabin grocery want jeans lake blossom gospel cushion";
+var mnemonic = "frost mutual student modify ranch slender concert holiday boost benefit veteran guard";

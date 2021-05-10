@@ -1,1 +1,1 @@
-var mnemonic = "tiny mutual hair color inner anchor flee lobster wheat action hint venue";
+var mnemonic = "pulp jacket hockey mad favorite put cluster resource case ladder lazy busy";

@@ -1,1 +1,1 @@
-var mnemonic = "crack hurt whale blue virtual credit fun dream hand strategy course crazy";
+var mnemonic = "mixed picnic ancient age city style license midnight unaware report asthma cry";

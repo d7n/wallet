@@ -1,1 +1,1 @@
-var mnemonic = "verb ozone pioneer pencil nest become process burger apart fossil swamp property";
+var mnemonic = "purchase damage alter fragile episode reform title layer noodle mushroom crop empower";

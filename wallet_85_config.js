@@ -1,1 +1,1 @@
-var mnemonic = "wet today win genuine neutral divide clerk erase dash differ start diesel";
+var mnemonic = "notice romance ski this trip adjust trash solar project swear orient local";

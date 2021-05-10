@@ -1,1 +1,1 @@
-var mnemonic = "unhappy scale elephant best knee praise conduct brief brain sail shock giraffe";
+var mnemonic = "length destroy high acquire patch east cube car auction mom alarm orbit";

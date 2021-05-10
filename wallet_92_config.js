@@ -1,1 +1,1 @@
-var mnemonic = "rule combine group define start that reform solution harbor donkey joke album";
+var mnemonic = "accuse daring business cluster arch force drift erupt myself success comic exclude";

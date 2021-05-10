@@ -1,1 +1,1 @@
-var mnemonic = "arena slush sniff regret return mask bid heavy end curious skate remain";
+var mnemonic = "leg purity weekend issue domain scan core blanket rocket arctic tumble bone";

@@ -1,1 +1,1 @@
-var mnemonic = "merry adapt symptom claim seek captain try before track pulse sweet peace";
+var mnemonic = "bargain matter audit smooth park used soup assume audit boy sure mask";

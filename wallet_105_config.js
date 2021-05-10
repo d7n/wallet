@@ -1,1 +1,1 @@
-var mnemonic = "frozen raven position vote badge ask random language grain engage hip cotton";
+var mnemonic = "response claim skull polar crouch gentle loan path kiwi tuition equip erosion";

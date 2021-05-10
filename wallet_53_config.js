@@ -1,1 +1,1 @@
-var mnemonic = "trumpet protect alone husband guard tape biology this elbow crew diet chaos";
+var mnemonic = "arena upon pudding wrap trial arch learn frown lizard empower try hope";

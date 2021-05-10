@@ -1,1 +1,1 @@
-var mnemonic = "stable spy oppose stable pipe sphere thought retire enforce glide use chair";
+var mnemonic = "balance expire favorite core legend pluck lizard ecology myth jaguar metal awesome";

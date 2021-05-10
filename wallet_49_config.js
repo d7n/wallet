@@ -1,1 +1,1 @@
-var mnemonic = "dizzy humble vapor desk illegal vanish prepare shoulder sample grab board distance";
+var mnemonic = "level work brief seven fuel movie already ridge leaf civil noble horse";

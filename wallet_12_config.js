@@ -1,1 +1,1 @@
-var mnemonic = "two have vacuum reward drill stamp cart black rally label flush media";
+var mnemonic = "brisk deny chase episode bitter puzzle pizza shy bullet black acoustic twelve";

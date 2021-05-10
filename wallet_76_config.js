@@ -1,1 +1,1 @@
-var mnemonic = "hint round reopen utility route front world upgrade harvest drift large release";
+var mnemonic = "eagle session disagree wide elbow toilet wet design tent skirt raise try";

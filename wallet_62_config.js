@@ -1,1 +1,1 @@
-var mnemonic = "path lift pride lecture diary sick crouch sort decrease shiver capable thumb";
+var mnemonic = "stove stairs buffalo museum discover jelly seminar denial into tomato inspire capital";

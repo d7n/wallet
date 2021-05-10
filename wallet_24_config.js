@@ -1,1 +1,1 @@
-var mnemonic = "finger maximum caution improve power green leg essence can profit draw employ";
+var mnemonic = "divert mountain style coffee foster void powder idle basket loop devote coil";

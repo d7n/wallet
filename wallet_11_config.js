@@ -1,1 +1,1 @@
-var mnemonic = "armed leaf fee throw month myth crouch minor hurry surface usual stock";
+var mnemonic = "detect off hope position creek keep beyond fragile echo warrior pulse knock";

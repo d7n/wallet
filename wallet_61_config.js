@@ -1,1 +1,1 @@
-var mnemonic = "climb square print hat else process easy liar juice waste second return";
+var mnemonic = "attract suspect fat cover old start fan ancient material plunge hamster cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "only asset actual urge desk thunder planet reduce effort load gauge ketchup";
+var mnemonic = "powder hammer prefer unaware legal more host reflect hedgehog oil modify display";

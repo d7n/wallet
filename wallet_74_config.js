@@ -1,1 +1,1 @@
-var mnemonic = "habit math rough spider clutch acquire meat toss chapter screen pelican world";
+var mnemonic = "kingdom exchange evil sunset border minute brave lecture crater primary once warm";

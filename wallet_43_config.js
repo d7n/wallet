@@ -1,1 +1,1 @@
-var mnemonic = "scheme win say salad try essay desert journey move salon cheese result";
+var mnemonic = "together theory calm civil milk cousin cinnamon tumble fan announce face inflict";

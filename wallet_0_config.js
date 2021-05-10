@@ -1,1 +1,1 @@
-var mnemonic = "recycle destroy afford engage round offer like then age car hope resemble";
+var mnemonic = "outside cinnamon win disagree learn olive okay sleep bracket hen sweet season";

@@ -1,1 +1,1 @@
-var mnemonic = "drama immense exercise tiny olive skate glass talent broom neutral private guide";
+var mnemonic = "adult green bone famous venue control indoor vibrant pledge lunch dust fun";

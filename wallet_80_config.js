@@ -1,1 +1,1 @@
-var mnemonic = "remember unaware rural stomach quantum february agree twenty garbage layer reflect first";
+var mnemonic = "glare essay horse minimum abuse border erupt hammer sun execute apart anger";

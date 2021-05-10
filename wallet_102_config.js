@@ -1,1 +1,1 @@
-var mnemonic = "crush absent boat area now coconut coin derive unlock spy spray empty";
+var mnemonic = "pet spot oyster permit purse save panda keep leopard amateur more portion";

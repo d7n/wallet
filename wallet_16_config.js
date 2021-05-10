@@ -1,1 +1,1 @@
-var mnemonic = "toast obey share stand host whisper survey deny song walk exchange summer";
+var mnemonic = "stamp vote sustain radio fortune leopard grape immense tomorrow borrow view much";

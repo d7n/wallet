@@ -1,1 +1,1 @@
-var mnemonic = "metal pact prison embody delay viable onion token pepper sun unveil economy";
+var mnemonic = "van naive rich kangaroo people spend betray toss future sleep feed abandon";

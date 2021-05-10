@@ -1,1 +1,1 @@
-var mnemonic = "elevator want uncover near pizza destroy rabbit meadow group erupt concert code";
+var mnemonic = "smoke then will humor atom agree gate wonder addict orbit ridge tree";

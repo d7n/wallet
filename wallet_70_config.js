@@ -1,1 +1,1 @@
-var mnemonic = "review bleak ill clerk work nuclear turkey atom rent jungle regular unknown";
+var mnemonic = "luxury profit beauty bag bubble toward kite conduct ill practice wire pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "calm glide police cruel vote obtain render hip focus reunion stumble hundred";
+var mnemonic = "monitor snap absorb seek behave tobacco clever twin arrive stuff scorpion always";

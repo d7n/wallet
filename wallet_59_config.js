@@ -1,1 +1,1 @@
-var mnemonic = "bid pool device wide fire village between spring cool tooth planet curious";
+var mnemonic = "top vendor speed hair teach shaft renew acquire deer barrel image rack";

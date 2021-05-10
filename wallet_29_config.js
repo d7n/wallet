@@ -1,1 +1,1 @@
-var mnemonic = "bag sure ladder magic shell tent december pumpkin weapon whip update carbon";
+var mnemonic = "input ankle crucial trap lecture strike alpha save pioneer spirit sauce toast";

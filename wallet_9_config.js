@@ -1,1 +1,1 @@
-var mnemonic = "mystery wrap pair picture wife clown impact endless celery glimpse scene abandon";
+var mnemonic = "where tiny chair decorate useless rude doctor very describe fever license enrich";

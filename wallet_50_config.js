@@ -1,1 +1,1 @@
-var mnemonic = "destroy old stereo skate trick pumpkin laundry need punch vessel provide quote";
+var mnemonic = "squeeze enroll wedding shallow skull endless survey timber scene number foot crowd";

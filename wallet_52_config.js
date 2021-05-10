@@ -1,1 +1,1 @@
-var mnemonic = "valley forward cherry shop bachelor size accident attack adapt pottery love guess";
+var mnemonic = "staff anger garage ozone stage liberty relax reunion sign embrace exact girl";

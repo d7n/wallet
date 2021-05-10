@@ -1,1 +1,1 @@
-var mnemonic = "retire domain bench yellow emotion risk then must blouse table sun razor";
+var mnemonic = "leaf rude lake rude around nephew slush hello young life cram city";

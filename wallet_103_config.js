@@ -1,1 +1,1 @@
-var mnemonic = "improve lamp child green worth post aunt grace arch produce oxygen dune";
+var mnemonic = "nurse awesome device dad letter spare sick arrest kidney warm salon sister";

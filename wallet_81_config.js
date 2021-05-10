@@ -1,1 +1,1 @@
-var mnemonic = "sunset gain diet hair bulb treat local eight guitar foster need start";
+var mnemonic = "machine raise sure disagree labor supreme rule almost burden humble copper clerk";

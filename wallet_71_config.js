@@ -1,1 +1,1 @@
-var mnemonic = "vanish control prize frequent cement behind tiny cute gas pencil ability push";
+var mnemonic = "quit art neutral better fiscal tumble palm worry essay broccoli mimic pumpkin";

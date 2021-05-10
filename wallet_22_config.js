@@ -1,1 +1,1 @@
-var mnemonic = "suggest era fabric save knife obtain ensure sell range govern enough salute";
+var mnemonic = "donkey disease purity motor laundry noise opinion guide crucial evil puzzle know";

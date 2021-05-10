@@ -1,1 +1,1 @@
-var mnemonic = "hip dawn legend bus drift stool lazy bullet such country page vague";
+var mnemonic = "item switch liquid vacant lonely firm egg poem bachelor always lady sorry";

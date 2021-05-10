@@ -1,1 +1,1 @@
-var mnemonic = "family broccoli day slogan sentence attack smart gallery genius demise vast nature";
+var mnemonic = "ghost erode awesome rocket crumble blue nice pink during spare inform route";

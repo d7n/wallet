@@ -1,1 +1,1 @@
-var mnemonic = "divorce cherry stereo pigeon dose device solution smooth shine scare drama parent";
+var mnemonic = "column effort reward expect side ask lemon unaware chief quick special oven";

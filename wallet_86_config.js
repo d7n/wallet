@@ -1,1 +1,1 @@
-var mnemonic = "tornado broccoli weasel dragon bridge pole muscle dolphin police first time reopen";
+var mnemonic = "country pole carbon check ice bleak clinic total fancy brush evolve fold";

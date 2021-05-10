@@ -1,1 +1,1 @@
-var mnemonic = "dress runway device able panel organ catch renew hope zebra garment together";
+var mnemonic = "brown modify gain town energy green fringe result loan day twist ill";

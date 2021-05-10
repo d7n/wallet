@@ -1,1 +1,1 @@
-var mnemonic = "gesture useless web inflict release cricket frequent stereo furnace material claw genuine";
+var mnemonic = "news rough manage current room sail course bottom mail almost priority symptom";

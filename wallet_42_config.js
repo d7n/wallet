@@ -1,1 +1,1 @@
-var mnemonic = "dragon poverty supreme spawn mosquito warm enable review sibling market image fashion";
+var mnemonic = "path clip frost earth kiss sort season whisper century supply assist team";

@@ -1,1 +1,1 @@
-var mnemonic = "history ready lamp truly fossil timber elegant click twist make immense kit";
+var mnemonic = "moon drive anger gather speed tag carpet purity planet title agent calm";

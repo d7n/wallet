@@ -1,1 +1,1 @@
-var mnemonic = "plate bottom walk hand spoon flavor try primary slam tube tank horror";
+var mnemonic = "abandon narrow circle pyramid diesel increase govern night quarter into canvas boat";

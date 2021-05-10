@@ -1,1 +1,1 @@
-var mnemonic = "section crowd pole habit brick poet erupt small home unveil hamster crucial";
+var mnemonic = "foot first birth pact save nut cram anchor fever double merge viable";

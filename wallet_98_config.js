@@ -1,1 +1,1 @@
-var mnemonic = "despair border pass uncover receive canyon title roof skull other wet rebuild";
+var mnemonic = "buyer praise noodle desert alcohol end nut donate essence endorse employ super";

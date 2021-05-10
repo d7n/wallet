@@ -1,1 +1,1 @@
-var mnemonic = "maple use roast regular tourist wealth bulk outside bulb stick sort code";
+var mnemonic = "wise moral traffic bracket matter bitter grit diamond fiction swap come parent";

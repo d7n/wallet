@@ -1,1 +1,1 @@
-var mnemonic = "dirt rude exact exercise attack clever dune drink simple cable exhibit ivory";
+var mnemonic = "large mad search obvious bulb staff century assault gloom effort code element";

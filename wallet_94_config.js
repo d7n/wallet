@@ -1,1 +1,1 @@
-var mnemonic = "sister solution lamp topple nephew lucky valley primary rabbit crane acoustic club";
+var mnemonic = "alter coral mail trophy puppy critic actress guard hammer tape own mad";

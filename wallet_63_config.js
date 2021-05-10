@@ -1,1 +1,1 @@
-var mnemonic = "replace save report satoshi quote race control upset cereal debris lonely immense";
+var mnemonic = "burden joy glare loop fit mad supreme effort income planet also drive";

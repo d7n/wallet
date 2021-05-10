@@ -1,1 +1,1 @@
-var mnemonic = "devote junior town flag depend tip hole exist route pill put rent";
+var mnemonic = "kid reflect amateur combine useless nature frozen marriage total maximum supreme acid";

@@ -1,1 +1,1 @@
-var mnemonic = "glory pencil tube stadium average peanut device accuse warm search file gauge";
+var mnemonic = "ability drama churn cattle recall exhibit bag armor paper bacon pottery input";

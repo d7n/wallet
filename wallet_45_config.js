@@ -1,1 +1,1 @@
-var mnemonic = "tent wear electric stumble possible mirror august antique damp gloom slice test";
+var mnemonic = "slab gossip stool wrist knife begin animal marriage erode mother fault mercy";

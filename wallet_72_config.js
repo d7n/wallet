@@ -1,1 +1,1 @@
-var mnemonic = "average fatal blossom once ten away abstract orchard fade rather submit action";
+var mnemonic = "marriage eternal summer clarify point resource six meat quiz unaware history length";

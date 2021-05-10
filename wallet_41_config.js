@@ -1,1 +1,1 @@
-var mnemonic = "area gap shy divide organ boy claw elegant section dismiss end used";
+var mnemonic = "method rapid soft suffer announce reform verb latin close attitude sting lamp";

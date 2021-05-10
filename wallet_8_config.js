@@ -1,1 +1,1 @@
-var mnemonic = "input flip trick draft donor valley detail cram helmet spoil nation shoe";
+var mnemonic = "worth rifle enforce there rebel crisp soda amused zoo average nice rocket";

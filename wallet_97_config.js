@@ -1,1 +1,1 @@
-var mnemonic = "parade eagle float peasant galaxy duty balance foam stick focus whip tell";
+var mnemonic = "garlic rabbit hint staff check obtain seek robot used hamster guide gate";

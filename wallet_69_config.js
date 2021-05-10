@@ -1,1 +1,1 @@
-var mnemonic = "believe ribbon ghost pride capital calm net captain nuclear imitate typical nurse";
+var mnemonic = "object eternal coffee pave derive beyond inflict divide hero gain clump person";

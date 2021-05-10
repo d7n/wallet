@@ -1,1 +1,1 @@
-var mnemonic = "lonely exact enable finger industry cross antique mother spray diary train dry";
+var mnemonic = "sugar rhythm they muffin search duty awesome flush dentist swarm edit smile";

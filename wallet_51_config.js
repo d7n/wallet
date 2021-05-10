@@ -1,1 +1,1 @@
-var mnemonic = "animal place sibling essence advance magic file topic venue oven hammer phrase";
+var mnemonic = "canal mass unlock measure tooth two often vicious sign asthma clever come";

@@ -1,1 +1,1 @@
-var mnemonic = "roof sweet time robot west laundry budget mix wet effort thank long";
+var mnemonic = "laptop close autumn kingdom pear emotion include glare enjoy quick home kick";

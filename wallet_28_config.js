@@ -1,1 +1,1 @@
-var mnemonic = "focus close spend wine album suspect share lawsuit know pattern fringe juice";
+var mnemonic = "attitude crash popular coconut market soldier burst toast wine cup nature private";

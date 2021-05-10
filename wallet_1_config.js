@@ -1,1 +1,1 @@
-var mnemonic = "dress despair inmate peanut salute kitchen wall dial thank comic forest piece";
+var mnemonic = "payment cheese naive whip word loan helmet used mammal pumpkin method wear";

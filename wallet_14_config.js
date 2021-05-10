@@ -1,1 +1,1 @@
-var mnemonic = "february valid combine roof convince wine appear certain couch second fantasy tortoise";
+var mnemonic = "scan drink ice airport juice casino area body boost undo tomato measure";

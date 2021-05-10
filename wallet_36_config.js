@@ -1,1 +1,1 @@
-var mnemonic = "knock person audit sausage country bitter devote loyal theme tragic diary coil";
+var mnemonic = "arrange east just item move income point swap symbol major emotion mouse";

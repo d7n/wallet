@@ -1,1 +1,1 @@
-var mnemonic = "cute tumble stamp long few genuine green ski easy bottom twenty oak";
+var mnemonic = "under kiss endless badge happy place manual ready leg hammer blanket memory";

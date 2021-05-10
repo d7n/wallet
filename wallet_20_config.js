@@ -1,1 +1,1 @@
-var mnemonic = "leader toilet better toilet shock glimpse common miss runway category crater robot";
+var mnemonic = "rice foam utility weather silent taxi use series average shock run fix";

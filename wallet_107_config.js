@@ -1,1 +1,1 @@
-var mnemonic = "easily leopard govern trash special disease response vibrant service switch club before";
+var mnemonic = "output doctor capable review style father occur soda dose dial breeze junior";

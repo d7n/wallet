@@ -1,1 +1,1 @@
-var mnemonic = "core used exchange together damp alter pudding vacuum tired impact urban pull";
+var mnemonic = "run wet party bar crowd desert book deliver scorpion jeans priority reform";

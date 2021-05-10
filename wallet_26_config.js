@@ -1,1 +1,1 @@
-var mnemonic = "glide laugh squirrel skirt swing bunker vessel always skull exist minor birth";
+var mnemonic = "abandon banana satisfy weird junk pool okay beef cabbage what velvet join";

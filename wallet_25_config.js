@@ -1,1 +1,1 @@
-var mnemonic = "jeans claim night skill wish salmon confirm puppy wrist capable roof leaf";
+var mnemonic = "dry nice either few jealous wonder beef input beauty echo link valve";

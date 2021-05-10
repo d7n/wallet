@@ -1,1 +1,1 @@
-var mnemonic = "resemble become owner legend cluster wrap recipe visa tortoise message empower pill";
+var mnemonic = "crash midnight wide token rebuild elevator vacuum bicycle rain scare initial object";

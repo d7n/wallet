@@ -1,1 +1,1 @@
-var mnemonic = "wild hip raw label travel combine find toilet bench cement crack avocado";
+var mnemonic = "ripple icon decade buffalo old chat toss business goddess toilet clinic claim";

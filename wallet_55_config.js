@@ -1,1 +1,1 @@
-var mnemonic = "boil just collect kind else wheat modify void cube supreme swing good";
+var mnemonic = "put plate amused rubber board vintage amused move sting foot nest acoustic";

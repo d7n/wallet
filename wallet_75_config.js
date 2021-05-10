@@ -1,1 +1,1 @@
-var mnemonic = "bounce develop trophy birth equip ostrich eyebrow speed lonely diagram bike chuckle";
+var mnemonic = "dirt laptop memory remain father reveal sea kangaroo expand toe rural water";
