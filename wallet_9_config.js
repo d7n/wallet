@@ -1,1 +1,1 @@
-var mnemonic = "wedding arm ring play kidney tag panic club scene robot bean bargain";
+var mnemonic = "end acoustic click pupil chunk dynamic finger weird person inside turn mobile";

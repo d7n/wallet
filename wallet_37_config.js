@@ -1,1 +1,1 @@
-var mnemonic = "slim half more wonder become priority adapt false field air liar hazard";
+var mnemonic = "rent dismiss festival element intact egg heavy train mammal add jeans paper";

@@ -1,1 +1,1 @@
-var mnemonic = "robust you thought roast agent work purchase castle simple front modify horn";
+var mnemonic = "response animal emerge bless win quote catalog clump crystal intact unknown total";

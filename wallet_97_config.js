@@ -1,1 +1,1 @@
-var mnemonic = "upper push crush acquire suffer lizard acquire simple slide unit lens price";
+var mnemonic = "unique situate glow square grocery staff become dream forum energy future foster";

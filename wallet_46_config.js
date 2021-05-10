@@ -1,1 +1,1 @@
-var mnemonic = "jeans drama current vivid flee saddle biology tackle level clap stone trophy";
+var mnemonic = "furnace strike outer worth empower arctic ship nice bench like defense brick";

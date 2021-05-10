@@ -1,1 +1,1 @@
-var mnemonic = "citizen memory enter chimney canyon learn slam sadness other poem renew tide";
+var mnemonic = "cause view month tube garage educate pause fiction indicate voice clip skate";

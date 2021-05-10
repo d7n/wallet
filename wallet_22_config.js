@@ -1,1 +1,1 @@
-var mnemonic = "box that science rule alien federal transfer phone pyramid output soft purpose";
+var mnemonic = "pledge maximum share kind toss paddle eyebrow virus year slender remember wedding";

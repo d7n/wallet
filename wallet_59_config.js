@@ -1,1 +1,1 @@
-var mnemonic = "start finger same interest history market obey orphan goddess snap album mom";
+var mnemonic = "field fly solution mixed mosquito snow bag squeeze behave promote increase belt";

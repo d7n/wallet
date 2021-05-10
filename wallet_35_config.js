@@ -1,1 +1,1 @@
-var mnemonic = "major pass clever corn gravity roof panel carbon salt apple educate palace";
+var mnemonic = "machine half size have immense awesome edge skull lemon build tobacco document";

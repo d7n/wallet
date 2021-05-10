@@ -1,1 +1,1 @@
-var mnemonic = "mesh river gentle spray silver turn print demand gate lonely bus enlist";
+var mnemonic = "donor tobacco baby amateur weekend theme have pattern like alter peanut pass";

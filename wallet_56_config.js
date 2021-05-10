@@ -1,1 +1,1 @@
-var mnemonic = "wonder nest under west trouble jacket lesson vanish you flush disagree ensure";
+var mnemonic = "drink autumn patch position monkey own float age fantasy solar canyon promote";

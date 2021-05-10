@@ -1,1 +1,1 @@
-var mnemonic = "spike hero cement around lab expect garage follow rug sentence ensure disagree";
+var mnemonic = "beach sound mercy captain human word coin bid fitness mixed curious child";

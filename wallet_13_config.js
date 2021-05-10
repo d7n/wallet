@@ -1,1 +1,1 @@
-var mnemonic = "peanut fatal believe reunion garage orange task okay word scissors reason movie";
+var mnemonic = "real unaware sword inform shadow hybrid robot tumble alone hurry mixed accuse";

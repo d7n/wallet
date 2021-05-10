@@ -1,1 +1,1 @@
-var mnemonic = "material song pattern strong truck tell diet casual ancient donkey suit heart";
+var mnemonic = "hundred bamboo wife skin raw coffee heart essence north false rail february";

@@ -1,1 +1,1 @@
-var mnemonic = "mom foam couple token chair unhappy test catalog identify gravity secret fog";
+var mnemonic = "bulb alien stand bus warrior invite catch syrup margin rain olive machine";

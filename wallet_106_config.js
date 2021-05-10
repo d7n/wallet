@@ -1,1 +1,1 @@
-var mnemonic = "net blue feed copper eight economy child risk ribbon awkward cloth village";
+var mnemonic = "whip sudden breeze swing ticket unique oxygen suffer cloud impose firm link";

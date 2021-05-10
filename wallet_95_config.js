@@ -1,1 +1,1 @@
-var mnemonic = "liar runway crawl pink push text apology dance april live gown shield";
+var mnemonic = "guitar volume inject foot draw useful kick label festival relief move chimney";

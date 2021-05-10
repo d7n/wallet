@@ -1,1 +1,1 @@
-var mnemonic = "model mouse mad crush illness stock funny culture leg abstract nature dirt";
+var mnemonic = "twice system illness leaf then crazy coin giraffe meadow exhibit captain round";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace nominee hip vanish buzz magnet force mad chest rug pen test";
+var mnemonic = "ribbon use ankle beef witness demise doll all differ asthma shove symptom";

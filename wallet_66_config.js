@@ -1,1 +1,1 @@
-var mnemonic = "pitch edit honey history matrix fiber oppose spell example thought zone bind";
+var mnemonic = "permit void million aunt glove broom dove chaos life mesh throw guard";

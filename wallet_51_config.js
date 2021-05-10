@@ -1,1 +1,1 @@
-var mnemonic = "uncle excite rocket major imitate figure minor today spend gravity laundry stereo";
+var mnemonic = "strong mouse unhappy damage frost glad flock time mandate scissors cricket render";

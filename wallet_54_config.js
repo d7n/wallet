@@ -1,1 +1,1 @@
-var mnemonic = "escape cinnamon enrich decide fantasy duty valid sight gravity below throw abandon";
+var mnemonic = "teach truck exit simple bike veteran carry finger there vague reject extend";

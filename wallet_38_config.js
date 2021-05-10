@@ -1,1 +1,1 @@
-var mnemonic = "topic arrange snow hunt trouble smile used chimney police drum soft symptom";
+var mnemonic = "clean wheat dirt silk clinic feel almost circle burst short scare excuse";

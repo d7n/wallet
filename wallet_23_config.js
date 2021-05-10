@@ -1,1 +1,1 @@
-var mnemonic = "tool glue zoo sun door push marriage trick road brain ask heavy";
+var mnemonic = "panel phone hood drill flat banner grit great equal grass choice search";

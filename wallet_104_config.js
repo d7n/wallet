@@ -1,1 +1,1 @@
-var mnemonic = "gadget rare verb magnet media nominee fence decrease chest decrease close month";
+var mnemonic = "despair caution monitor then fiction gain wealth farm mouse fiscal dawn creek";

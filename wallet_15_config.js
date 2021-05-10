@@ -1,1 +1,1 @@
-var mnemonic = "april differ bargain float song wire case crouch tribe skull wood badge";
+var mnemonic = "differ seed soul abuse orient call album subway despair urge worry camera";

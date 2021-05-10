@@ -1,1 +1,1 @@
-var mnemonic = "glance unfold album cable cigar hundred episode subway salad universe under balcony";
+var mnemonic = "real choice jungle rifle verb worth dismiss fade front found team casual";

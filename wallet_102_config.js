@@ -1,1 +1,1 @@
-var mnemonic = "scare glass camp slender bone found addict window sadness hip south burst";
+var mnemonic = "faint addict change essence hill update raise awake pause unusual hero mosquito";

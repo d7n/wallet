@@ -1,1 +1,1 @@
-var mnemonic = "undo penalty sick room culture orchard empty harsh drill female among process";
+var mnemonic = "warm small sleep own grass glove document design peace pupil garlic guess";

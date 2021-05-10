@@ -1,1 +1,1 @@
-var mnemonic = "census fuel kick spell trust flame mobile medal valid access sense useful";
+var mnemonic = "skirt spy problem casual six never crop ball clinic peanut insane merit";

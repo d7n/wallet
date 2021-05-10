@@ -1,1 +1,1 @@
-var mnemonic = "record square master mercy genre solar exist earth require much gold okay";
+var mnemonic = "piece head round angry camera patrol enough aspect almost measure crucial enroll";

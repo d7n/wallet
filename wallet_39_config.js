@@ -1,1 +1,1 @@
-var mnemonic = "process sibling charge crowd throw amused giggle brother join cover borrow mandate";
+var mnemonic = "chest comic degree liquid target income scan improve message permit engine rich";

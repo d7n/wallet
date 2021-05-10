@@ -1,1 +1,1 @@
-var mnemonic = "expire winner tube arrange inflict venue suspect lift often forget link salad";
+var mnemonic = "make upset toilet rapid script foil view eye pig then quote either";

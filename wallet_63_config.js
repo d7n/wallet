@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow token someone salad insane ten bone screen glad plastic office abstract";
+var mnemonic = "merit useless clown soul grain state okay hybrid carpet slide suffer post";

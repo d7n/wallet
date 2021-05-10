@@ -1,1 +1,1 @@
-var mnemonic = "dice awful jacket prosper chief suffer surprise deposit guess foot fade fire";
+var mnemonic = "use catalog busy cost kid gas jump eyebrow tail damp upset tool";

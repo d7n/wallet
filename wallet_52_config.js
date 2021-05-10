@@ -1,1 +1,1 @@
-var mnemonic = "accuse piano wrist squeeze goddess knee girl snap ethics text shine bronze";
+var mnemonic = "tiger fuel found harbor main business spring aware mind drink blossom net";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit month empower teach sword speak bounce abandon spy renew tooth puzzle";
+var mnemonic = "grace hurt ten whip giggle state desk bubble music forum episode bachelor";

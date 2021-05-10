@@ -1,1 +1,1 @@
-var mnemonic = "narrow seed daughter wet leader kidney rapid fox bunker bag harsh situate";
+var mnemonic = "garden ordinary wage rapid this print west bring juice key mouse hard";

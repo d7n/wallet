@@ -1,1 +1,1 @@
-var mnemonic = "faith kitten water stock citizen craft auction tomato raven involve easily during";
+var mnemonic = "century link typical devote fix figure tail dress people wage bachelor spatial";

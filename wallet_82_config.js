@@ -1,1 +1,1 @@
-var mnemonic = "own outer end rural attack cabbage system grass casual lady remind assume";
+var mnemonic = "afford body kingdom normal decline fame december arrive alpha reunion board stumble";

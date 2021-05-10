@@ -1,1 +1,1 @@
-var mnemonic = "dune ketchup loyal truck defense motion mean left wreck child nurse acoustic";
+var mnemonic = "remove oppose style want gesture thunder elbow original year define upgrade consider";

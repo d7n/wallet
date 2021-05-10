@@ -1,1 +1,1 @@
-var mnemonic = "helmet discover strategy strong nest beyond buddy paddle win enrich boss unveil";
+var mnemonic = "reason aisle regret invest detect father gesture bachelor sound spray pull people";

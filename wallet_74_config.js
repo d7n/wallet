@@ -1,1 +1,1 @@
-var mnemonic = "say police man state increase bless normal tomorrow rain tail indoor end";
+var mnemonic = "stove rifle dial lazy decrease enact kingdom oval survey floor bundle input";

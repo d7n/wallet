@@ -1,1 +1,1 @@
-var mnemonic = "enhance flame inflict hamster slab glare goat cover brick animal stumble liar";
+var mnemonic = "giggle people clip gesture crew struggle satisfy napkin essay soup tuition approve";

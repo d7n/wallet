@@ -1,1 +1,1 @@
-var mnemonic = "staff genius connect that film tell discover ring student east wave ankle";
+var mnemonic = "front front sausage travel clock used verify light regular sleep huge apology";

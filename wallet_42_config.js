@@ -1,1 +1,1 @@
-var mnemonic = "evoke impose deputy monitor worry merry cheap sad crash churn august immune";
+var mnemonic = "dynamic face leave combine put hub deer pizza tired vast spirit until";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness citizen key skirt weapon develop atom energy happy hockey slim disagree";
+var mnemonic = "walk drama still another sister normal enable else athlete tortoise turn quote";

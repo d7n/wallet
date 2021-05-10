@@ -1,1 +1,1 @@
-var mnemonic = "plug burst race gun caught actor lawn daughter whale assist base spin";
+var mnemonic = "boost exit blood fashion field polar trash plunge hello current luggage erosion";

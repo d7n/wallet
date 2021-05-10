@@ -1,1 +1,1 @@
-var mnemonic = "trade sure track cricket trade quick truth priority blouse afford demand artwork";
+var mnemonic = "unit surface twin melt eye half hurdle coil tomorrow domain asset medal";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure pigeon dilemma rug family movie under robot long wing glory artist";
+var mnemonic = "section eternal boss bunker wood recycle gate welcome guitar wasp social small";

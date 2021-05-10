@@ -1,1 +1,1 @@
-var mnemonic = "smooth inspire pumpkin early action west electric sleep gorilla shell own blind";
+var mnemonic = "dice satoshi differ oven potato remain mother neck nominee buzz bacon stereo";

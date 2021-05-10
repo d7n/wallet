@@ -1,1 +1,1 @@
-var mnemonic = "canoe file noble ill reopen cube element omit bridge proud turkey expand";
+var mnemonic = "thunder fatal bomb tape visual spike boost govern term affair heart hair";

@@ -1,1 +1,1 @@
-var mnemonic = "mad sauce attend tape giggle rabbit silver liberty stand assault blush input";
+var mnemonic = "hurt solar diesel ride around below barely excuse apart lizard swap cycle";

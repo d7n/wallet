@@ -1,1 +1,1 @@
-var mnemonic = "syrup emotion kit tenant chicken repair metal hand sunny copy online slot";
+var mnemonic = "better doll alone unfold object crew plug prosper minimum deputy nuclear alley";

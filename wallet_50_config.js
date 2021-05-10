@@ -1,1 +1,1 @@
-var mnemonic = "need alpha around asset glass item oppose hockey apple circle lava furnace";
+var mnemonic = "impact pig wire slot burst cabbage gold antique ranch lawn extra person";

@@ -1,1 +1,1 @@
-var mnemonic = "order clip verify muscle fall symptom gate eyebrow tuition inform icon chicken";
+var mnemonic = "place exercise flame wonder cable spider turtle total elite cigar iron frog";

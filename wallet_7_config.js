@@ -1,1 +1,1 @@
-var mnemonic = "wide identify gas voyage clean rent solar click actress depart win dutch";
+var mnemonic = "accident quality wrestle derive cinnamon mutual parrot pigeon draw test final man";

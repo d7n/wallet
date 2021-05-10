@@ -1,1 +1,1 @@
-var mnemonic = "banner stove country outside short ozone very chicken sauce chase panic trigger";
+var mnemonic = "puzzle rival melt payment differ truck alter salon weird worry pink trust";

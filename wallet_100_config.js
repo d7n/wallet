@@ -1,1 +1,1 @@
-var mnemonic = "wire add torch swear upon album swallow mixture tuna iron spray fish";
+var mnemonic = "smoke decade nose base odor night nephew donate olive minute leaf oak";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover limb worry exclude walnut define toe index monkey slush leave render";
+var mnemonic = "source ostrich insect elite maple truly public rival busy neither donor syrup";

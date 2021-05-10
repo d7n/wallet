@@ -1,1 +1,1 @@
-var mnemonic = "treat party easily sheriff rare scrap tool lazy boost jelly truck degree";
+var mnemonic = "exact blade napkin lounge soon bird when usage maid scorpion wife shop";

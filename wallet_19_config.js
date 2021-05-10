@@ -1,1 +1,1 @@
-var mnemonic = "forward mixed solution honey zebra describe six regret load limb ride vivid";
+var mnemonic = "suit october federal route route badge sell equal notice weapon enter party";

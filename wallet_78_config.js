@@ -1,1 +1,1 @@
-var mnemonic = "report web sunset move immense trash scatter then magnet know donate trumpet";
+var mnemonic = "domain lion survey inmate lunch naive art annual hurry jaguar trim key";

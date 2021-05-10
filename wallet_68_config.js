@@ -1,1 +1,1 @@
-var mnemonic = "remember recycle burst armor right term glue student rabbit dentist metal drive";
+var mnemonic = "trophy execute drink focus angle tuna upgrade museum seminar either border six";

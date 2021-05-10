@@ -1,1 +1,1 @@
-var mnemonic = "roast profit hope work dignity path genre sense pipe benefit river miss";
+var mnemonic = "vote manage sting valid benefit scatter inspire angry recycle trend weasel know";

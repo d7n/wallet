@@ -1,1 +1,1 @@
-var mnemonic = "fury search card drift sign few unable sustain order essence best candy";
+var mnemonic = "submit sniff course worth tape orphan guide dumb cat square uphold early";

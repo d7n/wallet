@@ -1,1 +1,1 @@
-var mnemonic = "fury case brief will tag keen fat maid neglect know across nest";
+var mnemonic = "battle flash ridge elbow what mountain drama human intact over stay supply";

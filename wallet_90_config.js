@@ -1,1 +1,1 @@
-var mnemonic = "entry slow poverty cradle seat member march puzzle misery panther fabric core";
+var mnemonic = "bid latin robust please space review enable helmet blanket fiction lady dismiss";

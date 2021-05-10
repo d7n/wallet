@@ -1,1 +1,1 @@
-var mnemonic = "expose expose swallow impact flat must talent cinnamon dizzy limb have mother";
+var mnemonic = "video swear grain monkey magnet until utility tube farm vanish tilt survey";

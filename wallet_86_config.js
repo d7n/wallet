@@ -1,1 +1,1 @@
-var mnemonic = "junior tree auto relief banner suggest wait opera pelican luggage cinnamon heavy";
+var mnemonic = "waste absurd prosper wealth casual east wear senior anger useful swim make";

@@ -1,1 +1,1 @@
-var mnemonic = "stable toilet consider enroll ticket mechanic drift material gain ask suspect novel";
+var mnemonic = "tobacco tiger cook thought metal input lock artefact region frozen explain bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "brand health arrest idle scan slim another glad barrel foil erosion swear";
+var mnemonic = "vapor frog cram clog swamp honey cinnamon topic coach medal hospital try";

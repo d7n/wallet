@@ -1,1 +1,1 @@
-var mnemonic = "flat vacuum acid dance visa trend hood stadium gesture pact child woman";
+var mnemonic = "clown ranch hold olympic fiber mass flush train bag pear web loud";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot donor resist train weird gift armor permit bracket surround undo copper";
+var mnemonic = "drum fitness pattern decorate inherit must labor decorate summer garbage tuna lake";

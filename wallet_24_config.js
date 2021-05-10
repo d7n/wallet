@@ -1,1 +1,1 @@
-var mnemonic = "between garlic boss heavy evidence trash town duty cage taste exact run";
+var mnemonic = "approve long torch they spice local hawk volcano seed night ginger spare";

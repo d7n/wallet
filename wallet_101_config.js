@@ -1,1 +1,1 @@
-var mnemonic = "city lottery tone daughter net panther rural boss sing crumble panther note";
+var mnemonic = "bottom impact divide story borrow ski situate buzz patient thing angry hobby";

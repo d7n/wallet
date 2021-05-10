@@ -1,1 +1,1 @@
-var mnemonic = "axis jungle thought exotic uphold impose smooth entry brick depart toddler drill";
+var mnemonic = "raven march glance mom sea grunt blossom poverty knife leader where spray";

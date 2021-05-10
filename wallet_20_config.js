@@ -1,1 +1,1 @@
-var mnemonic = "primary approve blade garbage twelve century flower quantum gadget access awkward dove";
+var mnemonic = "true drum mind federal special spy crop health decline diamond drip jar";

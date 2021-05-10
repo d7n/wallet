@@ -1,1 +1,1 @@
-var mnemonic = "bag swallow wide shine eternal jewel pulp general fat stamp dog eight";
+var mnemonic = "potato regret hidden little oblige industry laundry improve lizard fossil marble source";

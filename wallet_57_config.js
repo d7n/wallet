@@ -1,1 +1,1 @@
-var mnemonic = "rich chair reflect parade cheese film vapor surge throw ring vivid possible";
+var mnemonic = "eagle supply creek trouble chimney slender result coast pencil coil advance lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "member utility taxi ticket where economy visual screen van crew increase elegant";
+var mnemonic = "rabbit badge game click over bus elder pair resource depend area flash";

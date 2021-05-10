@@ -1,1 +1,1 @@
-var mnemonic = "morning admit draw theory real oblige cement lock tumble lyrics expand pond";
+var mnemonic = "fly material sort share design tiger wasp pyramid siege style pear impact";

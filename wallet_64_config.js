@@ -1,1 +1,1 @@
-var mnemonic = "oxygen liar gravity dinosaur sing method elder key rebel play camp globe";
+var mnemonic = "very analyst asset effort urban roof reduce embody rare upon detect point";

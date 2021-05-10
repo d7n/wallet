@@ -1,1 +1,1 @@
-var mnemonic = "purse minute flush title clinic give coyote normal trend negative type give";
+var mnemonic = "involve summer resist duck celery praise flush orphan fee vital cage envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant swap benefit pact squeeze want summer question kite south list method";
+var mnemonic = "degree basket broom shaft nose history face between alien mistake small pig";

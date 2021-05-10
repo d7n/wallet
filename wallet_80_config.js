@@ -1,1 +1,1 @@
-var mnemonic = "brief wink repair sea vintage canyon wall spoon flip wreck clinic cricket";
+var mnemonic = "pulse place inform mad lend country accuse taste okay latin trouble bargain";

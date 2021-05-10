@@ -1,1 +1,1 @@
-var mnemonic = "empty uncle problem mix okay negative settle disorder club unusual abuse october";
+var mnemonic = "put relax sock angry two exile ship ship code club media engage";

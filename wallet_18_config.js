@@ -1,1 +1,1 @@
-var mnemonic = "tongue window jewel tide athlete behave news upgrade wink hope beach option";
+var mnemonic = "hedgehog island fiction stock bench collect tilt simple patrol radio topic unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm shift dilemma aspect public bronze account athlete hawk chat garbage brother";
+var mnemonic = "home mass swing coconut absurd column obtain business pigeon borrow hamster illegal";

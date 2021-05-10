@@ -1,1 +1,1 @@
-var mnemonic = "inquiry only arena wool claw excite monster zone turkey flee attend random";
+var mnemonic = "cave tuition segment then shallow guard drink angry pool foot train cry";
