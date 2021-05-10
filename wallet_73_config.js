@@ -1,1 +1,1 @@
-var mnemonic = "piano chase affair obtain trade sentence zebra false lobster slam obscure bus";
+var mnemonic = "upgrade together artwork usage shadow legend glass toy mango child bulk evidence";

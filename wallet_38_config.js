@@ -1,1 +1,1 @@
-var mnemonic = "female ridge letter coyote donor solid pistol icon silk alarm aerobic surge";
+var mnemonic = "bunker able toddler raise teach maze oyster ankle success youth struggle consider";

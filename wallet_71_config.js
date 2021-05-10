@@ -1,1 +1,1 @@
-var mnemonic = "pole shine promote cruel pony metal person season benefit volcano negative sunny";
+var mnemonic = "wait surprise border obtain pumpkin artwork flat imitate limit off build sauce";

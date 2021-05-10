@@ -1,1 +1,1 @@
-var mnemonic = "pool convince weird kangaroo captain gym female wire medal extra woman clinic";
+var mnemonic = "stool delay float merry chuckle float today sail emerge hamster caught kit";

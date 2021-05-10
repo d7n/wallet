@@ -1,1 +1,1 @@
-var mnemonic = "artefact blame business author budget either robot drink favorite common fine hint";
+var mnemonic = "rice garbage friend spice rally term fee impose hand core winner air";

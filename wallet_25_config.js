@@ -1,1 +1,1 @@
-var mnemonic = "cruel approve genius once dad width assault coconut ramp okay found romance";
+var mnemonic = "shy tip effort enact also merit turn fringe stand chair throw nature";

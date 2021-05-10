@@ -1,1 +1,1 @@
-var mnemonic = "artefact parrot dial damp future advice blast sphere idea live laundry spin";
+var mnemonic = "occur game fall media benefit okay medal aspect kiwi one nation exotic";

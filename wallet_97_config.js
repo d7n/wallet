@@ -1,1 +1,1 @@
-var mnemonic = "sphere fabric carpet oxygen latin gospel assault cool taste wrap gas fame";
+var mnemonic = "today indicate belt frog nature picture urge agree swift arrest sadness obey";

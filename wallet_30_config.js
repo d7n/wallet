@@ -1,1 +1,1 @@
-var mnemonic = "woman praise arctic ivory notable task web someone unique inquiry wood salute";
+var mnemonic = "sell luxury oven owner couple march more when potato boring hospital health";

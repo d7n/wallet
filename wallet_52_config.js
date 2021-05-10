@@ -1,1 +1,1 @@
-var mnemonic = "entire nut element magic silent then property slide motion garage exile pass";
+var mnemonic = "artist real edit chef spider key flight urban repeat skull oven puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "notable gauge conduct intact wheel milk news kitten clutch conduct erode vehicle";
+var mnemonic = "diet warfare mistake surround measure often screen ostrich resemble confirm arrange pink";

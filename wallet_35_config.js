@@ -1,1 +1,1 @@
-var mnemonic = "bag tunnel relax maple arrange throw retire gorilla begin special polar buddy";
+var mnemonic = "gauge bulb auction shrug divorce despair lawsuit pony birth minute main wink";

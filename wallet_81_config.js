@@ -1,1 +1,1 @@
-var mnemonic = "number near taste desert silent gown tourist divide pig stadium kingdom plate";
+var mnemonic = "filter oyster toe infant famous attitude size bleak federal height police pull";

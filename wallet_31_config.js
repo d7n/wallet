@@ -1,1 +1,1 @@
-var mnemonic = "error fruit extend slush physical joy two unusual wait over expire suggest";
+var mnemonic = "avocado radar cabin bacon clown suspect jeans season rose thunder concert absent";

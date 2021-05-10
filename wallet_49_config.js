@@ -1,1 +1,1 @@
-var mnemonic = "adult tortoise fluid nice custom develop approve indoor stuff ankle gesture point";
+var mnemonic = "brand gasp syrup start humble garment confirm mimic soft stumble siren faint";

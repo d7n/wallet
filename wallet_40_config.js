@@ -1,1 +1,1 @@
-var mnemonic = "local gate wheel pony embrace defy domain blood drama key saddle sunny";
+var mnemonic = "grain north salute chalk quote tank field process transfer force profit senior";

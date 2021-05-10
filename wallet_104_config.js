@@ -1,1 +1,1 @@
-var mnemonic = "aisle rude bleak hunt turkey scale drift knock wonder mule joy account";
+var mnemonic = "suffer crane country proud dwarf dignity maid genre black bunker erupt city";

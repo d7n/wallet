@@ -1,1 +1,1 @@
-var mnemonic = "auto great toddler pen trust uncover forget often float empower shrimp shaft";
+var mnemonic = "worry quote enrich motor inside song move any jar social stem dry";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy army elevator equal that faculty black mango pride neglect sample young";
+var mnemonic = "tunnel tooth slow base benefit negative holiday goose spot there luggage boring";

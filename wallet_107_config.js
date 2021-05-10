@@ -1,1 +1,1 @@
-var mnemonic = "meadow olympic fantasy load divide equal tide inject bird happy lucky wash";
+var mnemonic = "cool bless trim motor abandon six seven fly since meat tuition inflict";

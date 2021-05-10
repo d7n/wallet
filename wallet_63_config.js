@@ -1,1 +1,1 @@
-var mnemonic = "column tree bullet midnight survey soccer cruel special half vicious between filter";
+var mnemonic = "response nasty canyon fiber buddy apology spice squeeze impose south lunch reject";

@@ -1,1 +1,1 @@
-var mnemonic = "immune smart area gasp regret trend credit tackle twelve lounge subway fiscal";
+var mnemonic = "lunar energy slot youth peanut napkin long puzzle pottery true truth sign";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing trash retire faint share spare assault juice transfer bind valid isolate";
+var mnemonic = "case turtle seven become account rack element toddler damage tide traffic near";

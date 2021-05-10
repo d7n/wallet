@@ -1,1 +1,1 @@
-var mnemonic = "mad brown absurd expose nasty friend bind zone clinic fortune episode wolf";
+var mnemonic = "benefit inherit drift mask bulb ribbon drop vintage assault poverty birth ketchup";

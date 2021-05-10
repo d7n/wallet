@@ -1,1 +1,1 @@
-var mnemonic = "brief treat calm square pill century image able lottery satoshi flip drastic";
+var mnemonic = "action merit appear average twelve enter shaft square trap gaze pass actor";

@@ -1,1 +1,1 @@
-var mnemonic = "estate hurt furnace prize blanket purse hurdle army always very hotel hundred";
+var mnemonic = "spot mesh over thought segment rough behave water glory squirrel fade pudding";

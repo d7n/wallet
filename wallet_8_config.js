@@ -1,1 +1,1 @@
-var mnemonic = "tongue phone plug canal expire skirt oxygen film allow exhaust knee elite";
+var mnemonic = "seek behave girl fury aspect wine erupt close acquire suffer recall around";

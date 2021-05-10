@@ -1,1 +1,1 @@
-var mnemonic = "earn sunny group debris bunker salon dash dice seminar sleep kick toss";
+var mnemonic = "woman stadium possible stay thought worth use spread silver fiber title system";

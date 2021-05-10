@@ -1,1 +1,1 @@
-var mnemonic = "define claim material forest smile fold ivory baby title infant forget sort";
+var mnemonic = "episode memory prefer wrestle pretty bag attend forum shock shrimp tornado birth";

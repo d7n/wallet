@@ -1,1 +1,1 @@
-var mnemonic = "educate suffer suspect library initial crash excuse usual list retreat pretty acid";
+var mnemonic = "hub swim sting wheel produce hobby expect ranch labor buyer seminar symbol";

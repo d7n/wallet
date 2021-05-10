@@ -1,1 +1,1 @@
-var mnemonic = "horn worth defy salmon verb wagon shove obscure spend token puppy mansion";
+var mnemonic = "coast chalk remove name dentist orbit eager fence today space height alert";

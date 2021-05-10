@@ -1,1 +1,1 @@
-var mnemonic = "collect kangaroo atom volume amateur foot toe casual heavy creek garbage cream";
+var mnemonic = "affair behind file jacket patrol popular burden agree sauce security mimic reject";

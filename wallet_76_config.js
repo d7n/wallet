@@ -1,1 +1,1 @@
-var mnemonic = "embrace ivory siege turn snake embark nice trade assault loop tag range";
+var mnemonic = "angry shiver faith summer wedding mystery allow link tiger curious term eight";

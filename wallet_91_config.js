@@ -1,1 +1,1 @@
-var mnemonic = "minimum divorce pave law bounce design divert oven garment inner someone glow";
+var mnemonic = "raise elephant cream unveil minimum copy brass legend jacket little sustain flash";

@@ -1,1 +1,1 @@
-var mnemonic = "bean cover endorse alone solid exclude ancient size repeat creek social attend";
+var mnemonic = "method helmet example pyramid attract promote globe crack cat often search endless";

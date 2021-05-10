@@ -1,1 +1,1 @@
-var mnemonic = "vocal stadium child sword another jaguar doctor display erosion rhythm horror hour";
+var mnemonic = "artist plunge mind reflect message raw clump door immune still vendor embody";

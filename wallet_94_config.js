@@ -1,1 +1,1 @@
-var mnemonic = "depart similar series okay mountain cloud switch lady garment sail blanket napkin";
+var mnemonic = "hazard modify actor cry dignity help design legal grief breeze salon scout";

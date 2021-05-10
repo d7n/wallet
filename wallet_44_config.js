@@ -1,1 +1,1 @@
-var mnemonic = "clerk discover cause police wise hunt sugar twin betray little useful slide";
+var mnemonic = "stem inner wasp isolate whale north vanish result develop bar such sword";

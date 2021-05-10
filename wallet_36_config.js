@@ -1,1 +1,1 @@
-var mnemonic = "apple tell tiger hundred blast nuclear planet menu menu work lesson iron";
+var mnemonic = "brother math avocado hospital assume glue cloud orbit science velvet sunset modify";

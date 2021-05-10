@@ -1,1 +1,1 @@
-var mnemonic = "intact lazy cup flower trip gadget dignity radio pelican curtain grain wrist";
+var mnemonic = "attack amateur toss chalk volume inch guard capital toy uncover entire catalog";

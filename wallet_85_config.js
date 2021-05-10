@@ -1,1 +1,1 @@
-var mnemonic = "wild train start huge note rural bamboo mirror shiver invest denial rely";
+var mnemonic = "gorilla gloom elephant crunch enrich blame topic equip damp waste lock worth";

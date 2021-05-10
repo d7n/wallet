@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow name juice inject bargain seminar library fluid drastic finish trim judge";
+var mnemonic = "scale blur stock hat general island razor ocean antique attend kit until";

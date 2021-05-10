@@ -1,1 +1,1 @@
-var mnemonic = "miracle proud govern omit sponsor recall spice meadow pen affair bitter candy";
+var mnemonic = "club cupboard thank source pink argue lottery right result basket fetch history";

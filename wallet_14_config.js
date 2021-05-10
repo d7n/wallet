@@ -1,1 +1,1 @@
-var mnemonic = "hat speak lab side rice common tone lunar decide board small actor";
+var mnemonic = "public core roast arrange lion exile any assist cargo pole pond front";

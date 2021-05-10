@@ -1,1 +1,1 @@
-var mnemonic = "noble obvious city toilet glance rare ramp stem effort axis unknown indoor";
+var mnemonic = "gorilla magnet sick evolve sister hover husband route stick pencil marriage yard";

@@ -1,1 +1,1 @@
-var mnemonic = "position silk know primary embark inject debris valley cage three turkey clinic";
+var mnemonic = "loop prosper lemon source broken ten economy transfer orient rate wet phrase";

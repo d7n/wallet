@@ -1,1 +1,1 @@
-var mnemonic = "lunar empty fly month sing all obvious jungle dumb opinion truth property";
+var mnemonic = "seminar cushion taxi maximum bounce gasp sun angry vivid scatter pelican turkey";

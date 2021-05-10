@@ -1,1 +1,1 @@
-var mnemonic = "december abstract special tonight alpha female pudding alert cushion dumb glow margin";
+var mnemonic = "because stamp elegant comic beef rapid foam wedding burst finger degree know";

@@ -1,1 +1,1 @@
-var mnemonic = "glory cricket crazy aware express witness ahead write enrich gravity enforce slice";
+var mnemonic = "enjoy switch gallery lucky gloom move cost differ ceiling doctor absorb acid";

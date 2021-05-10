@@ -1,1 +1,1 @@
-var mnemonic = "agree liar crawl twist rabbit spot water fabric popular depth idea penalty";
+var mnemonic = "brisk convince want metal sick celery slab cruel upgrade fine armed trust";

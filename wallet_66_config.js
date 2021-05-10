@@ -1,1 +1,1 @@
-var mnemonic = "potato quarter wave require industry wife mixture immune dress minute music athlete";
+var mnemonic = "join defy flame merit kite maid reveal empower debris accuse bargain bike";

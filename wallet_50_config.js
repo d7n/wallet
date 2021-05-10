@@ -1,1 +1,1 @@
-var mnemonic = "glory empty young earn garage plastic corn warfare track juice bonus merge";
+var mnemonic = "unaware brass analyst deal basic genuine another scout state steel toward man";

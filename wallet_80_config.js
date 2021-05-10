@@ -1,1 +1,1 @@
-var mnemonic = "immense cattle spin dynamic dash voyage maid whale bulb giraffe army sauce";
+var mnemonic = "seat ethics view bird wine army curve finish chef fatigue reveal recall";

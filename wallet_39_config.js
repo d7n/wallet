@@ -1,1 +1,1 @@
-var mnemonic = "favorite cigar mom either knock diagram bulk hello surprise attend say refuse";
+var mnemonic = "coffee weather frog average mosquito wheel aunt hybrid gift diamond abstract steel";

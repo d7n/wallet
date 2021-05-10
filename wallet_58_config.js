@@ -1,1 +1,1 @@
-var mnemonic = "squeeze puzzle spoon pear leisure face sentence laundry jaguar ahead labor consider";
+var mnemonic = "weapon fiction embody crop night toast letter inject club enrich song alien";

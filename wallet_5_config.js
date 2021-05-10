@@ -1,1 +1,1 @@
-var mnemonic = "valve proof often frequent text mistake ice chuckle angle car panel gaze";
+var mnemonic = "bar erosion rare calm lucky special hope immense slot excess ski strategy";

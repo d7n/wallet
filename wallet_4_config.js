@@ -1,1 +1,1 @@
-var mnemonic = "please gather warm room exclude walk orphan furnace boat guitar image approve";
+var mnemonic = "maximum coil rubber lobster lobster scorpion glory crouch almost spy balcony betray";

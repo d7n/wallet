@@ -1,1 +1,1 @@
-var mnemonic = "loan vague gossip debris sentence sad spawn skate obscure drink rare unit";
+var mnemonic = "episode scale race gorilla ginger blush provide deal visit desert twelve elbow";

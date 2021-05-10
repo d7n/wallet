@@ -1,1 +1,1 @@
-var mnemonic = "bright suggest swarm broom job gasp smooth boat tower hour empty cherry";
+var mnemonic = "discover salute fan guilt flash elbow brother delay boil consider call recall";

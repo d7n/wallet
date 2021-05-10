@@ -1,1 +1,1 @@
-var mnemonic = "sword jazz injury process owner curve obey narrow mule elegant father naive";
+var mnemonic = "cactus time snow correct move security black system once canal surround beef";

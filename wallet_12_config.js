@@ -1,1 +1,1 @@
-var mnemonic = "enable space artefact top seat main syrup praise frown vintage child nephew";
+var mnemonic = "fancy mosquito toast measure swap absurd behind carry educate online stove orange";

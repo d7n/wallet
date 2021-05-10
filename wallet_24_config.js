@@ -1,1 +1,1 @@
-var mnemonic = "wheat dinosaur hill extend deposit gossip hover picnic vessel such suspect bundle";
+var mnemonic = "peasant cry syrup exercise invest route flock limit identify used fat ride";

@@ -1,1 +1,1 @@
-var mnemonic = "tone device steel must another view friend jealous intact evoke bread trade";
+var mnemonic = "clerk lonely genius culture what flame siren bacon face turtle derive wage";

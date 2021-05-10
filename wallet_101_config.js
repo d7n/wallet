@@ -1,1 +1,1 @@
-var mnemonic = "tomato action mandate cart warm purchase task evolve kiss leg now predict";
+var mnemonic = "sunny evoke give grace garment circle uphold patrol amazing one also shell";

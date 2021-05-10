@@ -1,1 +1,1 @@
-var mnemonic = "dry enable guide galaxy uphold cart method hospital whip kiss point hedgehog";
+var mnemonic = "orient october unusual present orbit luxury slab crucial shoe alter broccoli inject";

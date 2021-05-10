@@ -1,1 +1,1 @@
-var mnemonic = "mirror can firm pyramid used copy square artwork game nothing enjoy trigger";
+var mnemonic = "husband cube boss helmet shrimp weather smoke nuclear shine clap bacon forget";

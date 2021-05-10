@@ -1,1 +1,1 @@
-var mnemonic = "bone quantum they appear escape stereo imitate put promote bring this shiver";
+var mnemonic = "slogan argue bachelor tone trick riot recycle cart profit struggle learn find";

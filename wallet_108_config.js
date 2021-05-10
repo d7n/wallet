@@ -1,1 +1,1 @@
-var mnemonic = "receive diesel honey boil black awake north segment web result chaos trial";
+var mnemonic = "amazing october pigeon parrot wrist online kiss eyebrow race lawsuit tattoo crystal";

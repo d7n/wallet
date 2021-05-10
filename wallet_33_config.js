@@ -1,1 +1,1 @@
-var mnemonic = "find oak walk broom scout approve come below imitate wool air foil";
+var mnemonic = "observe road saddle coconut sure venue pattern warm minimum stuff rival return";

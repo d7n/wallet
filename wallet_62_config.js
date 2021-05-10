@@ -1,1 +1,1 @@
-var mnemonic = "trigger bamboo add endorse cruel dawn practice again pattern security remove dry";
+var mnemonic = "detail speed hospital reason among stereo answer picnic predict skill decrease setup";

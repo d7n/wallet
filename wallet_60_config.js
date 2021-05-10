@@ -1,1 +1,1 @@
-var mnemonic = "lab home owner zoo length vacuum athlete accuse jungle suggest gaze thing";
+var mnemonic = "lemon crop trade camp side horror easily beach banner dial found cradle";

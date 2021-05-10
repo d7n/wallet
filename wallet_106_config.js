@@ -1,1 +1,1 @@
-var mnemonic = "doctor move awake olive candy tail hybrid parent bench divide laptop yard";
+var mnemonic = "child impose quote dish holiday session receive crowd dinosaur copper carry woman";

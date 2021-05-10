@@ -1,1 +1,1 @@
-var mnemonic = "junior expose arrest correct loyal brass anxiety lecture hobby tide act crawl";
+var mnemonic = "romance dawn lesson six crack joke sure verify fuel march throw chest";

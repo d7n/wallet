@@ -1,1 +1,1 @@
-var mnemonic = "stage mercy claim nephew heart swamp print marriage era best aware occur";
+var mnemonic = "depend insane you castle venue vague pyramid cart beach until gather giraffe";

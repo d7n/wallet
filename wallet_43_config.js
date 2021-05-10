@@ -1,1 +1,1 @@
-var mnemonic = "rose force fit angle public fashion season ring wire during pond impose";
+var mnemonic = "crane strong clump clean essay cage document powder suggest wild exercise high";

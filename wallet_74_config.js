@@ -1,1 +1,1 @@
-var mnemonic = "seminar slender love carpet toilet share fat arch sand average uncover juice";
+var mnemonic = "belt behave tunnel outside morning harvest moral mutual afraid sail turkey actual";

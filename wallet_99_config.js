@@ -1,1 +1,1 @@
-var mnemonic = "horn jelly obvious calm menu february always direct police degree corn skin";
+var mnemonic = "fly chapter increase divorce bring home kangaroo foot debate bulk limb mosquito";

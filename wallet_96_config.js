@@ -1,1 +1,1 @@
-var mnemonic = "proof now warrior crush always middle margin assume owner satisfy hello robust";
+var mnemonic = "unable bamboo jewel raise icon else whale donor street spoil engine only";

@@ -1,1 +1,1 @@
-var mnemonic = "rare author effort olive armed solution oak rail clown coil abuse copy";
+var mnemonic = "craft text artefact hub zoo thumb pony minimum deputy away pulse air";

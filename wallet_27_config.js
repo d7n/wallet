@@ -1,1 +1,1 @@
-var mnemonic = "curious source legal meadow any pave barrel load boil cigar decline satisfy";
+var mnemonic = "trust tattoo announce weapon cherry nerve whisper develop cotton essence smooth leisure";

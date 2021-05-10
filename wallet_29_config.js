@@ -1,1 +1,1 @@
-var mnemonic = "always athlete differ winner palm right tank rocket soon ceiling hurt organ";
+var mnemonic = "man estate bleak expect setup romance detail inner demand october sorry local";

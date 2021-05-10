@@ -1,1 +1,1 @@
-var mnemonic = "trigger rebuild economy silver okay mercy disease current gym uphold easy extra";
+var mnemonic = "vanish crime midnight online cost black stuff urge resemble sorry live tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor ladder enforce effort crystal stumble wool deal dizzy hollow type various";
+var mnemonic = "adult speak lounge deputy wedding argue filter essay elegant cigar husband mobile";

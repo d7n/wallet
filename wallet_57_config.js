@@ -1,1 +1,1 @@
-var mnemonic = "portion blur sweet artist toward siren round tattoo canal coach bullet kite";
+var mnemonic = "act mule milk raw truly wing glimpse crystal hair oak forget harbor";

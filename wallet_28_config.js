@@ -1,1 +1,1 @@
-var mnemonic = "word couple mind train nose wreck sting tree federal attend express deal";
+var mnemonic = "someone orange lock frequent choice lesson woman shallow income broccoli man cliff";

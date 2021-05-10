@@ -1,1 +1,1 @@
-var mnemonic = "adapt gauge crystal unveil guess source gown obey print fog hurt exclude";
+var mnemonic = "twice dog neglect pole cattle decline album lion song erase actress patient";

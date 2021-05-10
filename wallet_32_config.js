@@ -1,1 +1,1 @@
-var mnemonic = "mystery mimic merit sleep erase unusual try eagle help grant sword ginger";
+var mnemonic = "silver theme night pupil cross wish relief sure sister until mammal install";

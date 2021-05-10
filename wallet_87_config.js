@@ -1,1 +1,1 @@
-var mnemonic = "announce twist drum timber oxygen process pact adapt share execute flat pupil";
+var mnemonic = "safe make zoo involve crop thought group vendor foot engage minimum million";
