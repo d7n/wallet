@@ -1,1 +1,1 @@
-var mnemonic = "monster cereal muffin find month color pool stone crash renew home swarm";
+var mnemonic = "wedding festival amount visit sugar furnace license pause person number lazy industry";

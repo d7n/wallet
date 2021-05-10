@@ -1,1 +1,1 @@
-var mnemonic = "already during hover error lemon rabbit tourist march team print mercy profit";
+var mnemonic = "cargo hamster fashion already exact speed blur knock soup cash sheriff income";

@@ -1,1 +1,1 @@
-var mnemonic = "will suffer private series weird adjust rifle snap list tape gaze endless";
+var mnemonic = "note float humor disorder weird athlete divorce such ball kidney habit wage";

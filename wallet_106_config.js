@@ -1,1 +1,1 @@
-var mnemonic = "wonder slide burger assault ecology piano immune cement abuse abstract intact spider";
+var mnemonic = "sleep mimic snack bundle upon taxi power useless half celery consider glare";

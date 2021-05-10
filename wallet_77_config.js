@@ -1,1 +1,1 @@
-var mnemonic = "travel explain sentence check recipe crunch cement razor divide essay bike margin";
+var mnemonic = "track price lawsuit live student peasant stick soul improve river oval govern";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn distance upper reflect pond remember annual gun during across assist glove";
+var mnemonic = "model exhaust banner scrap lake truth bike hair glass quit toy expose";

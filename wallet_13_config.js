@@ -1,1 +1,1 @@
-var mnemonic = "face ahead high one involve dentist farm curtain grace acoustic rail vibrant";
+var mnemonic = "behind wedding film orchard pumpkin force ivory manual soccer laundry border frame";

@@ -1,1 +1,1 @@
-var mnemonic = "quote swallow rubber hidden surround upper survey prevent apology remain ceiling police";
+var mnemonic = "supply couple gloom pink citizen theory wasp people once term pumpkin tobacco";

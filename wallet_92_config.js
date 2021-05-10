@@ -1,1 +1,1 @@
-var mnemonic = "income reopen hedgehog curve weather together garden flash list parent melt twice";
+var mnemonic = "surprise transfer remember topple master honey census divert shoulder approve dress suit";

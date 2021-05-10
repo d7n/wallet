@@ -1,1 +1,1 @@
-var mnemonic = "fee present present mystery wink sister jump impose occur ribbon aim switch";
+var mnemonic = "clock when clerk garlic winner chest leopard trade carry acquire daughter session";

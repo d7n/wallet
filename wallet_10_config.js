@@ -1,1 +1,1 @@
-var mnemonic = "spray forum coral citizen rare seminar recall sense runway hazard drum strategy";
+var mnemonic = "rare sad goat various faith dose pyramid shrug film kid lemon omit";

@@ -1,1 +1,1 @@
-var mnemonic = "network erode select have virus oak budget unaware plunge follow payment tuna";
+var mnemonic = "check robot route age client balcony laugh nurse attitude ancient sock broom";

@@ -1,1 +1,1 @@
-var mnemonic = "spy rapid roof bone kind march brisk catalog water planet clay federal";
+var mnemonic = "wild right mandate echo say orange rose purpose middle write fly rail";

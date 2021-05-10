@@ -1,1 +1,1 @@
-var mnemonic = "budget surprise note mix always prevent parent service super effort pen draw";
+var mnemonic = "expect decide kind diary foam hen mercy unit catch dad mind mountain";

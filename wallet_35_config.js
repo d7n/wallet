@@ -1,1 +1,1 @@
-var mnemonic = "mechanic approve gravity earth gather sail convince possible valid acquire tooth twist";
+var mnemonic = "accuse wolf soda enter pet spring hedgehog charge truly express present arctic";

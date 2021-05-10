@@ -1,1 +1,1 @@
-var mnemonic = "arm nut lamp help matrix misery advice drink patrol tired fringe cycle";
+var mnemonic = "hammer affair addict spare hold road turkey forget nature witness connect useful";

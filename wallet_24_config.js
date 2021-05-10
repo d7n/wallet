@@ -1,1 +1,1 @@
-var mnemonic = "audit client mansion like vendor diamond oak pretty ancient laundry play frame";
+var mnemonic = "deposit chair involve soldier recycle divert wise domain cricket slot begin scale";

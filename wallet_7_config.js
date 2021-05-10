@@ -1,1 +1,1 @@
-var mnemonic = "main yard various suspect job joke know have evil decline clever noise";
+var mnemonic = "laundry silver exhaust wrap desk habit sugar secret defy assume year clay";

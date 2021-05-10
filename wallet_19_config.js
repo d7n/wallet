@@ -1,1 +1,1 @@
-var mnemonic = "age unhappy install ridge excess grab later wagon collect knock hunt sense";
+var mnemonic = "absorb tired bid connect alcohol mushroom throw acoustic canoe autumn soul dream";

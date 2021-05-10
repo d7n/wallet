@@ -1,1 +1,1 @@
-var mnemonic = "harsh marine dwarf advice dragon glide razor glide buyer fatal deliver cereal";
+var mnemonic = "keep denial beyond involve town water emotion festival video amateur fuel sorry";

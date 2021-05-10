@@ -1,1 +1,1 @@
-var mnemonic = "stay dose glow nation fine trend sand private beef clever snow unfold";
+var mnemonic = "whisper virus express boring belt act play genuine flower rug legal sniff";

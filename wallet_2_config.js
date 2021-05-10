@@ -1,1 +1,1 @@
-var mnemonic = "pilot detect camp miss tonight unique enjoy piano velvet budget found fury";
+var mnemonic = "ensure sunny detect traffic divert vendor response budget warrior twelve lab leave";

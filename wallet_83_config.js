@@ -1,1 +1,1 @@
-var mnemonic = "merry public pride balcony leaf surge wisdom escape feature exhaust science alcohol";
+var mnemonic = "width motor final seminar host device chuckle pistol father light hand float";

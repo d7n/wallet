@@ -1,1 +1,1 @@
-var mnemonic = "field toast pig defense build nerve hedgehog pelican lemon ostrich acid year";
+var mnemonic = "wrist evolve swift era hundred time super juice market market legend swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "core october hurt river master exist guilt dinner satisfy sting slim consider";
+var mnemonic = "exile hazard neither grape mushroom cradle attract load cost mass grace address";

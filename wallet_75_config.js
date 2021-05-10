@@ -1,1 +1,1 @@
-var mnemonic = "giggle unknown ticket shift off faint direct forest dumb home weasel lawsuit";
+var mnemonic = "ignore salute fiscal hero local rhythm animal step nation friend click legend";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel section fabric echo idle steel rifle depth dumb awful drop path";
+var mnemonic = "evolve cruel machine reform lift message spray save shock scan elite upon";

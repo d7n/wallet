@@ -1,1 +1,1 @@
-var mnemonic = "dawn rude job flash merge senior decorate wealth short method surge gold";
+var mnemonic = "lamp keep illegal trophy unknown depend drum spawn fall devote priority talent";

@@ -1,1 +1,1 @@
-var mnemonic = "around ramp federal discover champion little convince fruit shuffle beauty meadow oak";
+var mnemonic = "spare undo mixed dolphin panther furnace couch fashion cotton mass drip verify";

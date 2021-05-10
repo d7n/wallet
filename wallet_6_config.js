@@ -1,1 +1,1 @@
-var mnemonic = "connect devote enact turtle mesh suspect jazz cake refuse charge desk element";
+var mnemonic = "diesel surface mercy ridge file square sheriff live lion crystal govern copper";

@@ -1,1 +1,1 @@
-var mnemonic = "foil chuckle harsh nation blouse brave picture unveil abuse bundle bar dance";
+var mnemonic = "twist wall giant false diagram soda junior industry brush vessel tortoise tongue";

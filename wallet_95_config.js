@@ -1,1 +1,1 @@
-var mnemonic = "leopard blade deliver glove squeeze verb piece exact foam ostrich purse bleak";
+var mnemonic = "enable stay pact famous lock visual normal skirt alter path hair vendor";

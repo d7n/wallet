@@ -1,1 +1,1 @@
-var mnemonic = "unlock involve fog double canyon burst used gaze happy merry tower winner";
+var mnemonic = "canal board live joke frame loop emerge busy nephew still nation void";

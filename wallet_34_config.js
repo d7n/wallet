@@ -1,1 +1,1 @@
-var mnemonic = "hobby cause slim network indoor real paddle meat author custom leaf fatigue";
+var mnemonic = "eternal hip angle cement vessel duck damp scale scene trip obscure trap";

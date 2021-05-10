@@ -1,1 +1,1 @@
-var mnemonic = "lock collect cherry night since ankle achieve sad forum write fan nerve";
+var mnemonic = "park rail essay more lucky popular spike else cool cross resist violin";

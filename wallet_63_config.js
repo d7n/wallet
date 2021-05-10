@@ -1,1 +1,1 @@
-var mnemonic = "divert develop pond pizza fun curve filter still coconut other winner program";
+var mnemonic = "creek skirt local help puppy click aerobic provide orange drastic helmet ripple";

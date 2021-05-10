@@ -1,1 +1,1 @@
-var mnemonic = "slot chief tooth thought enemy render result purchase feature universe chest trip";
+var mnemonic = "dragon glimpse finger nominee other glove armed squeeze decide crop prevent black";

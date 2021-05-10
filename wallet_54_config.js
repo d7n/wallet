@@ -1,1 +1,1 @@
-var mnemonic = "resist all good lemon slam derive praise bring denial virtual kitchen erosion";
+var mnemonic = "paddle badge laptop planet couch jazz dose budget wheat husband funny urban";

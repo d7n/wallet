@@ -1,1 +1,1 @@
-var mnemonic = "exchange top senior crouch laugh acid diesel oppose table world pet verify";
+var mnemonic = "scorpion ecology refuse pilot doctor robust evidence witness until damage inner knife";

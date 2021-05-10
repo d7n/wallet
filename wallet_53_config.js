@@ -1,1 +1,1 @@
-var mnemonic = "scatter flag inmate shine defy decade future shoulder learn fun brush camera";
+var mnemonic = "amount insect sweet fat pave switch steak hope mountain exile clip note";

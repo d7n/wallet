@@ -1,1 +1,1 @@
-var mnemonic = "diesel warfare risk stamp acoustic vintage auto theory logic flip muffin express";
+var mnemonic = "labor nature connect insane gauge lyrics useless evidence west soft rapid name";

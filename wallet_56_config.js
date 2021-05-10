@@ -1,1 +1,1 @@
-var mnemonic = "garden team square raise affair boss machine possible skate ask peace agree";
+var mnemonic = "screen tourist major town move episode captain tongue actress pear shiver neither";

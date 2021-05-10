@@ -1,1 +1,1 @@
-var mnemonic = "powder end clump view year balcony entire elevator glide young empower sword";
+var mnemonic = "laptop length scout estate shadow gasp salt box wedding recipe treat evolve";

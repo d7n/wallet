@@ -1,1 +1,1 @@
-var mnemonic = "trust cage cotton lounge danger appear safe job rival coyote include present";
+var mnemonic = "hazard soccer cross neither aim nest issue vital danger describe away luggage";

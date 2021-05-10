@@ -1,1 +1,1 @@
-var mnemonic = "place edit refuse antenna arrange spider keen input stove window apart kind";
+var mnemonic = "believe weapon violin arch mixture start torch toe ripple reveal today between";

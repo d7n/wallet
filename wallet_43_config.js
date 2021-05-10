@@ -1,1 +1,1 @@
-var mnemonic = "engage safe purpose net adapt use bird all side paper focus blood";
+var mnemonic = "year citizen course attitude focus wreck loan diagram govern segment govern dragon";

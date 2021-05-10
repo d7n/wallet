@@ -1,1 +1,1 @@
-var mnemonic = "shove marine attend pact rural meat step electric injury useful someone ocean";
+var mnemonic = "region fatal mind buyer avoid success swallow sponsor health oxygen swear exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "script atom crane cactus mouse umbrella fruit twist junior refuse ordinary drive";
+var mnemonic = "iron mass marine lucky cactus cruise almost abuse leisure ugly person piano";

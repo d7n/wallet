@@ -1,1 +1,1 @@
-var mnemonic = "animal crack approve egg entry upgrade joke laptop music venue ski wife";
+var mnemonic = "search cushion output trend lunch sick cushion olive cherry fruit tiger uncover";

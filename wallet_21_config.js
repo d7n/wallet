@@ -1,1 +1,1 @@
-var mnemonic = "sustain useful once merit bind chunk forget elephant prevent vault draw erupt";
+var mnemonic = "jelly enlist pioneer nephew tobacco pause execute want sail brass refuse apart";

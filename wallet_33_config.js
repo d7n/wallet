@@ -1,1 +1,1 @@
-var mnemonic = "reform ignore hamster car service clump maid over icon talk flash sample";
+var mnemonic = "actress fossil spirit setup increase order nose birth square car fiber isolate";

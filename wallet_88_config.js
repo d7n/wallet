@@ -1,1 +1,1 @@
-var mnemonic = "cram general jacket skull million story sign menu spirit gasp talk pigeon";
+var mnemonic = "concert gasp slight hundred faith depart force february hurdle rigid panic calm";

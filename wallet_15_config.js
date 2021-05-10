@@ -1,1 +1,1 @@
-var mnemonic = "oppose mother soccer unit arctic inflict effort spray shop surface puzzle quick";
+var mnemonic = "grid dentist glimpse series logic gap ghost sea inject soul walk ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "rather clump spread crouch roast glue million hurry raven pave off grace";
+var mnemonic = "amused kangaroo soccer hold front fury occur prevent begin raw artist fever";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite female holiday trade clown bicycle bread maximum situate poet record youth";
+var mnemonic = "grain aerobic girl lend open awake jump ski hurry lift intact sock";

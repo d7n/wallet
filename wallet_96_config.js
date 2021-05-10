@@ -1,1 +1,1 @@
-var mnemonic = "body prepare supreme example swap spend fancy electric tongue luxury oblige balcony";
+var mnemonic = "satisfy patient piano inside corn galaxy mixed burst label repeat state brush";

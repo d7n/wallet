@@ -1,1 +1,1 @@
-var mnemonic = "join surprise above math cram green case ripple hazard copy cave benefit";
+var mnemonic = "critic debate movie shadow enlist fade result scatter simple merge reopen music";

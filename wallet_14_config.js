@@ -1,1 +1,1 @@
-var mnemonic = "until leopard blue topic lunar adult pond industry mad evil clog crisp";
+var mnemonic = "bottom huge obtain initial cradle chicken knife wage accuse trend valley custom";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo desert edge crash joy almost donate usual satoshi divorce onion vocal";
+var mnemonic = "recipe swallow life magic heart heavy sausage post bullet promote company bubble";

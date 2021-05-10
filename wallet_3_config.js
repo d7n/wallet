@@ -1,1 +1,1 @@
-var mnemonic = "federal calm fancy misery occur thought bomb coral fit wool cactus fall";
+var mnemonic = "bag bid clinic theme oak round toast field boil inject behind mushroom";

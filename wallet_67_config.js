@@ -1,1 +1,1 @@
-var mnemonic = "wonder excite sword concert owner tiger merry mixed hope sentence portion exact";
+var mnemonic = "grit thank jar road noise wonder defy original pulse crazy movie drill";

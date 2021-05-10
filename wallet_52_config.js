@@ -1,1 +1,1 @@
-var mnemonic = "upgrade achieve shadow vehicle rely size midnight nation flower olive whale recall";
+var mnemonic = "toddler soda raise wild rent trial fog hard over lazy exercise orchard";

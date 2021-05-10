@@ -1,1 +1,1 @@
-var mnemonic = "exotic gallery clock flag panel patient hub repeat bone iron wheat misery";
+var mnemonic = "liar spoil vessel mimic suffer duck sting all bundle burger avocado minimum";

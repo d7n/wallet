@@ -1,1 +1,1 @@
-var mnemonic = "vocal garbage cluster tennis clay bicycle cook april sick busy race royal";
+var mnemonic = "deny final market spice sound hour relax perfect cruise flower feature rather";

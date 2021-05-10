@@ -1,1 +1,1 @@
-var mnemonic = "dwarf write game abstract wall sausage run six empty name tag pupil";
+var mnemonic = "rubber step pause youth whip company rib van can scorpion near census";

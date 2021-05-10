@@ -1,1 +1,1 @@
-var mnemonic = "seven solve split hen never wrist shadow drip gesture hockey gun radar";
+var mnemonic = "resist pig canal power save head music race remember ugly basket venue";

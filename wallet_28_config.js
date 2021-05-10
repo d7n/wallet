@@ -1,1 +1,1 @@
-var mnemonic = "remind climb flight deer subject reduce initial inch correct prison hawk usage";
+var mnemonic = "audit maid ramp usual patch also there ostrich humor clock lab build";

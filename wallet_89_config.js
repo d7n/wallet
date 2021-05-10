@@ -1,1 +1,1 @@
-var mnemonic = "enemy sign fabric parrot border expand peanut glide easily wolf bread north";
+var mnemonic = "beef hair winter evolve label shadow limit spell swing flee steel raven";

@@ -1,1 +1,1 @@
-var mnemonic = "ill shaft bid balcony sudden cloud notable jungle chair fancy video maple";
+var mnemonic = "submit black lobster burst render shift grief bundle female south menu lake";

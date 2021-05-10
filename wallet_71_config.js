@@ -1,1 +1,1 @@
-var mnemonic = "stumble sibling balcony behind foster two vacuum square ocean visual lottery audit";
+var mnemonic = "knock rice gentle pluck carry police boss leisure fault laptop shop just";

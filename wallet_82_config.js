@@ -1,1 +1,1 @@
-var mnemonic = "refuse exercise west kind laundry chase pony funny cement refuse amount pluck";
+var mnemonic = "struggle turtle tower lemon raven require liar toilet legend filter rebuild lottery";

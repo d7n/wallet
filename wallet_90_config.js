@@ -1,1 +1,1 @@
-var mnemonic = "nut tip sword valid powder column thought obtain receive pupil vote river";
+var mnemonic = "plunge design energy grass surface cradle split comfort beef autumn delay chair";

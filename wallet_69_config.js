@@ -1,1 +1,1 @@
-var mnemonic = "ill wool butter top female evoke lonely exact mask siege atom hood";
+var mnemonic = "above warrior tongue there online all success globe visa mimic legal person";

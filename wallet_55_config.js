@@ -1,1 +1,1 @@
-var mnemonic = "grocery else among coast divorce lounge canyon draw leisure run attend asthma";
+var mnemonic = "amazing dress act appear settle cattle expire transfer pilot silent stand mask";

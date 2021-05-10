@@ -1,1 +1,1 @@
-var mnemonic = "antique cereal dinner peace multiply wing ask empty wood helmet age dirt";
+var mnemonic = "air flash dry typical jelly swallow win degree calm tent doll giraffe";

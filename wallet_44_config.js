@@ -1,1 +1,1 @@
-var mnemonic = "fun feature away unique hint grace biology immune twin banner risk notable";
+var mnemonic = "route hill unaware robot story goose angry drill parent move soon peasant";

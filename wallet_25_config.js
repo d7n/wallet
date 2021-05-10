@@ -1,1 +1,1 @@
-var mnemonic = "glance glove casual video sword acid disagree enemy flash thunder size wagon";
+var mnemonic = "comic there gym under foot ten good material unfold quarter off city";

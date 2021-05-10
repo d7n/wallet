@@ -1,1 +1,1 @@
-var mnemonic = "effort where earn lake stove now transfer attract toilet tool notable prize";
+var mnemonic = "always wear debate misery survey elevator biology apology endless tower foam derive";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight obtain payment fish system link one audit oxygen print sword guitar";
+var mnemonic = "night repeat gas keen volcano coconut language volume scheme gym effort leopard";

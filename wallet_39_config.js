@@ -1,1 +1,1 @@
-var mnemonic = "ripple mountain reflect glue pelican mix harsh erode master time fee lizard";
+var mnemonic = "cactus fossil pyramid surround faith aerobic sudden express gasp elbow bird decide";
