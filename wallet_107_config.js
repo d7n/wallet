@@ -1,1 +1,1 @@
-var mnemonic = "garden inside reopen risk connect index limb bring bubble clog cage vacant";
+var mnemonic = "answer one dash cactus major aisle club topic border mimic half gas";

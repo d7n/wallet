@@ -1,1 +1,1 @@
-var mnemonic = "library throw strategy crane bright sample upon oxygen either elephant nuclear vessel";
+var mnemonic = "gadget moment shift you voice ankle figure october deliver amazing grass monitor";

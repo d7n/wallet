@@ -1,1 +1,1 @@
-var mnemonic = "globe citizen behave monkey step lounge wasp save staff code laundry assault";
+var mnemonic = "tone hip spell melt abuse rug better sense suffer problem demise area";

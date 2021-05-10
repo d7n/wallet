@@ -1,1 +1,1 @@
-var mnemonic = "vintage exist same trap add color pair soap sausage arm bind mesh";
+var mnemonic = "better air comic permit gadget captain cinnamon flip ceiling measure inject ten";

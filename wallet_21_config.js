@@ -1,1 +1,1 @@
-var mnemonic = "crime wagon enforce twin regular retire maple silk system jungle tree insect";
+var mnemonic = "fortune design swear swim stumble car melt end globe clay obscure palm";

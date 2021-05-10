@@ -1,1 +1,1 @@
-var mnemonic = "annual barrel negative gym doctor mule expire real sister furnace bird pole";
+var mnemonic = "return cruise dash truly inform wool delay inside unable offer degree mass";

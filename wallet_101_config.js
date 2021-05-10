@@ -1,1 +1,1 @@
-var mnemonic = "blast rough tennis foil stamp school valve agree dad dash forget orchard";
+var mnemonic = "acquire soldier spin wire stadium odor feature stable perfect fall usage suffer";

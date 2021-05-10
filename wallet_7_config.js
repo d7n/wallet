@@ -1,1 +1,1 @@
-var mnemonic = "desert found industry shed planet amazing delay burst day ribbon please gather";
+var mnemonic = "load illegal lounge foam knife pole sort bracket review pact fragile poem";

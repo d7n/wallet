@@ -1,1 +1,1 @@
-var mnemonic = "approve inhale toast west knife grant remove give idea loyal elite step";
+var mnemonic = "price oval grocery library hybrid require remove amused hundred twice reduce staff";

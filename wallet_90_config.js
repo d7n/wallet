@@ -1,1 +1,1 @@
-var mnemonic = "atom spoon insect yard rug suffer secret since swim admit sun welcome";
+var mnemonic = "boil journey frown belt limb cat dance general upon moment orange youth";

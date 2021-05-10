@@ -1,1 +1,1 @@
-var mnemonic = "spare pave yard provide pole hood happy finish exotic reunion mystery trick";
+var mnemonic = "sadness width input woman discover craft mule now grid twelve wasp visa";

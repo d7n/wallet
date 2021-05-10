@@ -1,1 +1,1 @@
-var mnemonic = "never push mix promote chat deal life legal pigeon devote keep monkey";
+var mnemonic = "neither slam auto liquid grit old nephew delay treat gentle inherit apple";

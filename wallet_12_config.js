@@ -1,1 +1,1 @@
-var mnemonic = "rural tower simple wrap gift milk skirt slight bounce benefit mean social";
+var mnemonic = "pizza year middle share network bid fury wire early foster clock zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "host modify lobster parade truly fan crouch strategy spatial favorite opera muscle";
+var mnemonic = "require bag shallow fitness patrol cause fury depend true sick hamster symptom";

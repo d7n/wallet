@@ -1,1 +1,1 @@
-var mnemonic = "flag bracket alter soccer interest model siren hood rely board smooth sure";
+var mnemonic = "sad rather arrow scrap can enlist liar zone artwork crop process weapon";

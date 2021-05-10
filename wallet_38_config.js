@@ -1,1 +1,1 @@
-var mnemonic = "uncle law skin canvas culture feed excuse pretty alien ankle dutch attack";
+var mnemonic = "carbon page section random mirror silver dove embody warm shine long mixed";

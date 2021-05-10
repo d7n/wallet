@@ -1,1 +1,1 @@
-var mnemonic = "rival match supply stomach bright toddler genre believe cup pole under pony";
+var mnemonic = "radio olive lemon feed palm abandon false search diesel spider ribbon during";

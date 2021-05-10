@@ -1,1 +1,1 @@
-var mnemonic = "pond advice camera kit scale loan usual school west ship more group";
+var mnemonic = "engine barely milk symptom section depend barrel member ecology matter circle win";

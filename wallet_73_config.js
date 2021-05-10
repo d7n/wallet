@@ -1,1 +1,1 @@
-var mnemonic = "sudden brick tiger scorpion era worth north april teach increase parent sphere";
+var mnemonic = "cable believe conduct boat stable hair grace sister uniform asthma tiger color";

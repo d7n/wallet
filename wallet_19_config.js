@@ -1,1 +1,1 @@
-var mnemonic = "because arrow camera tip elbow cousin fade frozen tennis super chuckle prepare";
+var mnemonic = "cry please feature chat palm shield glove vocal tray clump emotion chief";

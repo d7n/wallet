@@ -1,1 +1,1 @@
-var mnemonic = "kit swallow fetch mechanic bus identify faint once evoke drill hero proof";
+var mnemonic = "helmet boy climb coil vibrant tail menu amount tiger adjust onion cloud";

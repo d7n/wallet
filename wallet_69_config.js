@@ -1,1 +1,1 @@
-var mnemonic = "connect neck genuine struggle vessel dwarf federal silver broom wrong swamp apart";
+var mnemonic = "imitate correct reject habit size pool idea various occur company picnic math";

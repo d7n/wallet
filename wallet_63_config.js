@@ -1,1 +1,1 @@
-var mnemonic = "mimic army erupt battle hungry limit slide window credit measure toe blush";
+var mnemonic = "uniform venue good give kitchen air sport wing saddle slam winner labor";

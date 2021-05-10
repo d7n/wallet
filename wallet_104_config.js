@@ -1,1 +1,1 @@
-var mnemonic = "earn tilt virtual pioneer pencil kitten attitude allow define rebuild theory share";
+var mnemonic = "market habit memory orient pulse note tray web matrix joke size believe";

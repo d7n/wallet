@@ -1,1 +1,1 @@
-var mnemonic = "daring vacant state bike private young exotic session surge divert chase when";
+var mnemonic = "wool nation ivory hair mail logic silk relax love evoke exchange frog";

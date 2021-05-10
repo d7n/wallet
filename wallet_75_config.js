@@ -1,1 +1,1 @@
-var mnemonic = "segment tortoise size hurdle guess betray obscure flash pretty over reward dumb";
+var mnemonic = "gloom hurdle gun display oval finish camp wine settle run blood hour";

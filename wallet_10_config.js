@@ -1,1 +1,1 @@
-var mnemonic = "bitter garage west boost upper fall panel woman amazing asset bronze negative";
+var mnemonic = "toddler drop penalty invest knock primary later bean hat rescue adapt slender";

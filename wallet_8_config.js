@@ -1,1 +1,1 @@
-var mnemonic = "thunder satoshi ethics dash student spring dad accuse turkey cabin wrist retire";
+var mnemonic = "pepper vote rookie wait nest kid feature initial excite bulb dinosaur snap";

@@ -1,1 +1,1 @@
-var mnemonic = "skin plastic mushroom scatter person injury margin come rapid final myself tackle";
+var mnemonic = "zoo keen fluid very rival orchard caught media breeze captain guilt attack";

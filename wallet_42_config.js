@@ -1,1 +1,1 @@
-var mnemonic = "tobacco discover universe wood strike silent sunny east problem jacket essence wool";
+var mnemonic = "plunge velvet task viable busy effort fabric salad oxygen museum combine beauty";

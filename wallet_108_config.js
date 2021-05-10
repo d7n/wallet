@@ -1,1 +1,1 @@
-var mnemonic = "tenant false horror woman miss raw minimum indicate when card season trend";
+var mnemonic = "east board nerve twin crisp indicate leopard fossil blind meat release fashion";

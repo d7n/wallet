@@ -1,1 +1,1 @@
-var mnemonic = "ankle grocery also peace okay warrior tenant buffalo tiger object pony change";
+var mnemonic = "alien boat abandon have enter save chest journey senior cabbage expire confirm";

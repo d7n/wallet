@@ -1,1 +1,1 @@
-var mnemonic = "crowd rabbit vibrant march busy insane health crisp outdoor federal price click";
+var mnemonic = "sunny cement trade call page nasty fatigue release peanut icon lens pudding";

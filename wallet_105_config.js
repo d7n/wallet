@@ -1,1 +1,1 @@
-var mnemonic = "vicious enhance key force clown battle require borrow social fiscal same skirt";
+var mnemonic = "network infant blade found maze always equal december hidden belt border anchor";

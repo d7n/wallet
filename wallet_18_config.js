@@ -1,1 +1,1 @@
-var mnemonic = "electric pear deny right misery type image foam right phone lecture tree";
+var mnemonic = "phrase pumpkin embody rain gift dolphin useful allow mansion proud huge leisure";

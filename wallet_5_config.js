@@ -1,1 +1,1 @@
-var mnemonic = "grief toe tail cabin crane eagle napkin goddess sustain lecture hidden grant";
+var mnemonic = "crawl salon toast define same lion alone lazy pizza unfair access fade";

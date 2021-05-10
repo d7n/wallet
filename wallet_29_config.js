@@ -1,1 +1,1 @@
-var mnemonic = "myth better laugh water smooth ahead observe noodle story gentle brother creek";
+var mnemonic = "spot rival taxi faculty material guard source chronic sunset tired gravity vendor";

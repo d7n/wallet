@@ -1,1 +1,1 @@
-var mnemonic = "practice slide decline happy mercy salute harsh faith prosper make stable strike";
+var mnemonic = "flip angry inform speed coral review antique limb melody grain leaf deer";

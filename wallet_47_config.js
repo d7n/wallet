@@ -1,1 +1,1 @@
-var mnemonic = "seed either grain wage catch often distance fancy clutch add zone debate";
+var mnemonic = "raccoon expand rifle half payment love forum helmet fabric obvious axis category";

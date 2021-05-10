@@ -1,1 +1,1 @@
-var mnemonic = "decrease exhibit potato repeat wool olympic bamboo ugly consider wide host outdoor";
+var mnemonic = "force tennis want start tonight uncover effort smile always shine delay coffee";

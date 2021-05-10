@@ -1,1 +1,1 @@
-var mnemonic = "elevator abuse safe educate soap awful pitch economy feel salt pelican wine";
+var mnemonic = "abandon barely pride key law rate move also creek orange fish street";

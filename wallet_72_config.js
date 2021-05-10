@@ -1,1 +1,1 @@
-var mnemonic = "broccoli top invest vast gym hat grace blur excess clean pizza response";
+var mnemonic = "black squeeze hunt frown pupil poem devote time awkward two thing phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol west bus over quality ginger admit upset boss craft grain picture";
+var mnemonic = "injury donkey link spread coil dust high misery holiday craft actual labor";

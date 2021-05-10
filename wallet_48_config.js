@@ -1,1 +1,1 @@
-var mnemonic = "power alter usage involve aerobic start float above guess clay army peace";
+var mnemonic = "verify goddess hub coast wheel couple chaos museum method cereal rubber myth";

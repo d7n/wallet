@@ -1,1 +1,1 @@
-var mnemonic = "depth kidney evolve aisle equal chief snow observe lemon kite mean interest";
+var mnemonic = "material light affair canal merit buzz south gesture anchor area bullet mind";

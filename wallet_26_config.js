@@ -1,1 +1,1 @@
-var mnemonic = "always letter reunion elegant still soccer lonely cannon differ execute follow safe";
+var mnemonic = "become crawl garden asset army aspect document math minute sadness leave crane";

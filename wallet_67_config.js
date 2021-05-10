@@ -1,1 +1,1 @@
-var mnemonic = "creek work print tenant sock armor emotion palace dress eyebrow chef panther";
+var mnemonic = "hotel clarify transfer together make shrug illegal laptop east fold limb relax";

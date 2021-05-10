@@ -1,1 +1,1 @@
-var mnemonic = "visit tuna deer asthma trip disagree park cradle have loyal lens review";
+var mnemonic = "kite say series general crunch minor vital moment mention rather drop social";

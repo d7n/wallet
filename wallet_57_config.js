@@ -1,1 +1,1 @@
-var mnemonic = "dove together pause magnet belt topic rival frost frog excite wish lion";
+var mnemonic = "hobby attitude topple scrub blush erode despair legend cloth apology pistol worth";

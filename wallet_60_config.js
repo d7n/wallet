@@ -1,1 +1,1 @@
-var mnemonic = "retreat interest poet bind walnut clutch resist tail affair label text swamp";
+var mnemonic = "ship laptop park speed trigger sibling choose consider chest cook liar egg";

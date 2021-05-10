@@ -1,1 +1,1 @@
-var mnemonic = "rain lottery gadget album awkward guard atom timber dignity hill silly destroy";
+var mnemonic = "face frequent neutral route cushion idle occur replace jaguar tent kitchen canoe";

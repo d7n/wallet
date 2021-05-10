@@ -1,1 +1,1 @@
-var mnemonic = "shield limit like neither obtain delay next decade bronze holiday pelican end";
+var mnemonic = "belt glide unveil piano original library dune scrap jelly hope dentist net";

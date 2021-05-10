@@ -1,1 +1,1 @@
-var mnemonic = "lend narrow menu fiber school weather balance slogan echo fat soldier illness";
+var mnemonic = "select myself pass used economy bachelor supply split spider unable filter proud";

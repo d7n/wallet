@@ -1,1 +1,1 @@
-var mnemonic = "cruel true hair sword filter race mass wrong first visual seminar trial";
+var mnemonic = "basket inflict bubble danger total law embody vanish skirt plunge wine perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "trend lumber useless quantum noise proud profit jeans exist coconut any eye";
+var mnemonic = "puppy hold frost exit fantasy version toe company river volume cake matter";

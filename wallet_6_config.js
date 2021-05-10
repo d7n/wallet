@@ -1,1 +1,1 @@
-var mnemonic = "boy bitter raise three arrange post action vicious maximum banana orange rotate";
+var mnemonic = "tell focus know aisle blur violin guitar hungry basket armed shed roast";

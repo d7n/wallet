@@ -1,1 +1,1 @@
-var mnemonic = "army omit exist hope square differ fuel erode almost crouch wise health";
+var mnemonic = "weather another hotel endless region typical tobacco jar lizard panda disagree child";

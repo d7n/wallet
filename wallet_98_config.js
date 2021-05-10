@@ -1,1 +1,1 @@
-var mnemonic = "family slim initial rice champion robust course doctor address draw rubber replace";
+var mnemonic = "hurry remain century fitness voyage obey elder give door seat enrich scorpion";

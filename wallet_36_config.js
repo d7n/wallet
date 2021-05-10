@@ -1,1 +1,1 @@
-var mnemonic = "dilemma lottery calm issue slogan hurry sauce mosquito prosper scale flame fresh";
+var mnemonic = "purse resource mystery wing jeans echo you exact depend bar message suit";

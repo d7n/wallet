@@ -1,1 +1,1 @@
-var mnemonic = "deer shop tomato secret eight crazy dutch crush iron consider sock summer";
+var mnemonic = "kid across rent soccer square chaos ankle surprise chair fault nut glide";

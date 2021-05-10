@@ -1,1 +1,1 @@
-var mnemonic = "truly stereo truth people arrive estate hood betray consider mad title divert";
+var mnemonic = "various shove strong segment eternal cargo nose bamboo jump enlist roast remember";

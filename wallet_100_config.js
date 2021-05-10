@@ -1,1 +1,1 @@
-var mnemonic = "thumb ginger diesel cactus hundred arch exhaust practice desert pact mix damage";
+var mnemonic = "coach liberty solid matter this erode alter ladder connect talent left divide";

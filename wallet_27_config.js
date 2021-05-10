@@ -1,1 +1,1 @@
-var mnemonic = "amount image repair shock club fatal depend garlic second salt curve pool";
+var mnemonic = "foster siege accident feature stem insect obvious find issue taxi volume tail";

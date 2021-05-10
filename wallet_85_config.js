@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow lunch remind rich primary address pudding robust helmet attack under carbon";
+var mnemonic = "post defense ice flush taxi vanish language case chalk idle flight voyage";

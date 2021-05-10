@@ -1,1 +1,1 @@
-var mnemonic = "bullet route pause oblige arrest whisper enact argue wing short clutch winner";
+var mnemonic = "candy glide hip sight diesel saddle give rate rose seminar author solid";

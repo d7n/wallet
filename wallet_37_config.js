@@ -1,1 +1,1 @@
-var mnemonic = "stereo minimum drastic van ladder lottery story way impulse humor age husband";
+var mnemonic = "argue know stick other lounge private actor ability monster rib buzz orphan";

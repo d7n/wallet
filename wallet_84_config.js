@@ -1,1 +1,1 @@
-var mnemonic = "weather weird swear forward chair multiply runway boss fatal lonely together garden";
+var mnemonic = "mind month snap engine relief stool boil hole journey actress open eager";

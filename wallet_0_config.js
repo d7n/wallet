@@ -1,1 +1,1 @@
-var mnemonic = "celery voyage video sound obvious theory divert audit promote essence chef silly";
+var mnemonic = "pupil diary there spring thrive decline today toddler hello boat elegant alien";

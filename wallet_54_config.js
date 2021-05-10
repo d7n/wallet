@@ -1,1 +1,1 @@
-var mnemonic = "exercise witness monitor guitar ski banner elevator settle assist soft vessel company";
+var mnemonic = "empty wage hard phrase quiz burst friend measure bronze fence action admit";

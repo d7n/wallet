@@ -1,1 +1,1 @@
-var mnemonic = "home artwork cake purpose champion napkin relax hero dinner tiny topic include";
+var mnemonic = "trumpet radio next duty climb input section impose sweet excess crawl goat";

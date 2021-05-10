@@ -1,1 +1,1 @@
-var mnemonic = "obscure become upon jungle wagon ecology weekend deer plunge panther hand weather";
+var mnemonic = "naive need vessel page sock scare display merge view hospital december shoot";

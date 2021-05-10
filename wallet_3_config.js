@@ -1,1 +1,1 @@
-var mnemonic = "bulb garlic october swim version tourist turn impose pudding emerge mechanic scare";
+var mnemonic = "pyramid blood lion thing correct border volume hand interest bullet mountain acoustic";

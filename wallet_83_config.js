@@ -1,1 +1,1 @@
-var mnemonic = "biology ignore symptom thunder meat stick steel chapter ice gorilla purse glare";
+var mnemonic = "famous collect benefit link luggage bubble relax venue lesson earth impulse eager";

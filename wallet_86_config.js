@@ -1,1 +1,1 @@
-var mnemonic = "flip quote sudden belt guitar scheme long category cute rival pen fame";
+var mnemonic = "disorder opinion aim ski leg corn brass gospel sport base brand current";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard sphere dream spawn lock park doctor decide mutual element wise kiss";
+var mnemonic = "solution crime cancel song slice cream drastic what once umbrella illness dish";

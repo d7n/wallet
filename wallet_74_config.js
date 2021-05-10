@@ -1,1 +1,1 @@
-var mnemonic = "struggle bonus sock thing fitness escape over chalk vote party lift vanish";
+var mnemonic = "mad ankle denial employ wash sound core antique electric caught juice unknown";

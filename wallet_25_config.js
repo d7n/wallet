@@ -1,1 +1,1 @@
-var mnemonic = "roof drip oblige rib cram certain waste pull poet relax helmet august";
+var mnemonic = "broken teach rookie scene upgrade top session arctic early profit turn usage";

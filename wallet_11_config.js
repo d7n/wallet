@@ -1,1 +1,1 @@
-var mnemonic = "initial ask rude high excite fox ribbon because winter edge mouse series";
+var mnemonic = "bomb gift comic giggle cancel morning manage burden hedgehog anxiety drip pencil";

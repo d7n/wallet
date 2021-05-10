@@ -1,1 +1,1 @@
-var mnemonic = "culture chunk dinner future sketch coach trial letter book poem media prison";
+var mnemonic = "diesel fatigue famous math prefer boost mesh mom world black drama velvet";

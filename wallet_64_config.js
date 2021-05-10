@@ -1,1 +1,1 @@
-var mnemonic = "uniform paper despair junk category ring broken panda swing describe artist series";
+var mnemonic = "brain silk science any reduce luxury shallow elephant hill mandate lawsuit travel";

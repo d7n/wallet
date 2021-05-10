@@ -1,1 +1,1 @@
-var mnemonic = "satisfy ridge uphold clinic tail garage amount chair agree quiz basic make";
+var mnemonic = "affair corn dwarf explain green zebra upon busy cage volume park carpet";

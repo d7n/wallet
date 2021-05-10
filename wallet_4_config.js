@@ -1,1 +1,1 @@
-var mnemonic = "urge amused will mass width chunk person develop magic senior weapon soul";
+var mnemonic = "crawl bright advance unhappy romance three busy assault rapid fluid blast round";

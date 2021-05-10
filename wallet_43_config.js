@@ -1,1 +1,1 @@
-var mnemonic = "jungle dream army camera service ladder casino chair mistake gain hub rhythm";
+var mnemonic = "else slush rotate pledge mail pipe fold ginger media small ritual below";

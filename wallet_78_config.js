@@ -1,1 +1,1 @@
-var mnemonic = "various regret reopen resemble return monitor wood solution crew rhythm castle insect";
+var mnemonic = "lawn supply daughter item win glory intact view junk dolphin luggage just";

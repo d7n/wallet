@@ -1,1 +1,1 @@
-var mnemonic = "orbit shift useful pass annual sting save grow canvas chest arrow photo";
+var mnemonic = "slab help universe giant chef mother faculty dismiss six poem banana elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy bus sea comfort also like sing curious fuel illness system excess";
+var mnemonic = "hold cement judge venue chapter tooth tomorrow dune guilt devote eager despair";

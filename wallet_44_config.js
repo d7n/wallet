@@ -1,1 +1,1 @@
-var mnemonic = "tent snake submit manual example cool rebel tell elite card load super";
+var mnemonic = "twin jungle ticket flame run shrug sweet gospel start win wrist region";

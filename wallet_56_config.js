@@ -1,1 +1,1 @@
-var mnemonic = "nut juice boat coconut film tongue satisfy stove jump enrich improve disagree";
+var mnemonic = "pitch odor ignore scissors weapon unlock chicken chair uncover whisper great lift";

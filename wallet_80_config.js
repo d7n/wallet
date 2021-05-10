@@ -1,1 +1,1 @@
-var mnemonic = "grief fun message delay green insect math vacuum taste text decrease skull";
+var mnemonic = "refuse limb random salon hurry swallow seed swing tortoise disease only ethics";

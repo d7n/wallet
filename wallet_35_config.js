@@ -1,1 +1,1 @@
-var mnemonic = "choose skate cash loop mule tuition void mutual popular diet flavor rural";
+var mnemonic = "abandon stage upgrade garden gauge expose clip base artwork item choice empower";
