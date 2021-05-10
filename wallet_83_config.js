@@ -1,1 +1,1 @@
-var mnemonic = "artist know advice document material juice quick climb fine page coast dignity";
+var mnemonic = "attack bonus where together moment cherry soul seven motion capable magnet situate";

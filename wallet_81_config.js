@@ -1,1 +1,1 @@
-var mnemonic = "that venue velvet estate accident powder chunk destroy arrow myth carbon common";
+var mnemonic = "wild trouble powder size puppy trip tattoo abuse enrich famous vacant excess";

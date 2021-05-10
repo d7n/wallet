@@ -1,1 +1,1 @@
-var mnemonic = "sound weasel toilet replace tail arctic help during speak immune trap black";
+var mnemonic = "liar width theory fitness scan private candy cruise replace grant timber ride";

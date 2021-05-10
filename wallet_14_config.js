@@ -1,1 +1,1 @@
-var mnemonic = "wasp laugh type coconut limb depend wood shed magnet judge deliver search";
+var mnemonic = "glare nut announce tenant run disorder business govern scale employ short slim";

@@ -1,1 +1,1 @@
-var mnemonic = "sad garbage say elite alcohol twenty forest surface female advance during sausage";
+var mnemonic = "leg genius double resource shoulder cable scout salt believe want shallow tomato";

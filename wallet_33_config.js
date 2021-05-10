@@ -1,1 +1,1 @@
-var mnemonic = "pepper benefit around heavy chase neck tooth pyramid cup fat tribe endorse";
+var mnemonic = "despair anger eager tissue work hungry spawn casino school base enroll fringe";

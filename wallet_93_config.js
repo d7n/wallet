@@ -1,1 +1,1 @@
-var mnemonic = "army cute own turkey away alley slow clever thunder garage flame term";
+var mnemonic = "copy puppy link olive patient patient whisper pet silent junior final song";

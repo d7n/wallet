@@ -1,1 +1,1 @@
-var mnemonic = "voice private tiny aunt junior rice skate injury obscure run maple photo";
+var mnemonic = "spot riot dish pencil sleep reward home ghost lumber gorilla rule monitor";

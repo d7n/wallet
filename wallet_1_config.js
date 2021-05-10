@@ -1,1 +1,1 @@
-var mnemonic = "edit unfold struggle sword dream chapter junior jelly chief satisfy method tourist";
+var mnemonic = "trade canoe couch before celery element route water winner party boil crime";

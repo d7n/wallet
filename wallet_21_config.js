@@ -1,1 +1,1 @@
-var mnemonic = "attitude diesel chunk liquid story course that race vote debris hold around";
+var mnemonic = "notable symptom select rather unfair deposit blossom future close enact kid olympic";

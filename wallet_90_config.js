@@ -1,1 +1,1 @@
-var mnemonic = "defense mosquito settle swarm clay cost margin candy pitch pizza short slab";
+var mnemonic = "minimum purpose meadow story accident grass marriage weird arrange vessel settle because";

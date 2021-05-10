@@ -1,1 +1,1 @@
-var mnemonic = "attack south soul cement leg jealous number wish party excess vicious music";
+var mnemonic = "thing scheme isolate noise must ensure fatigue same elevator deliver where praise";

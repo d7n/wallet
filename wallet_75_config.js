@@ -1,1 +1,1 @@
-var mnemonic = "dismiss modify peasant lounge rather shy patient grass report immense filter scene";
+var mnemonic = "earn crucial rice happy vicious donkey skin travel isolate office climb nothing";

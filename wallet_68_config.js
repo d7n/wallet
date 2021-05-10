@@ -1,1 +1,1 @@
-var mnemonic = "drum session speed opera toddler gadget bulk sauce can grit six during";
+var mnemonic = "victory govern tomorrow fragile vendor good drum game security diagram recall spike";

@@ -1,1 +1,1 @@
-var mnemonic = "make exact fold nest large simple open badge twist notice fiscal dumb";
+var mnemonic = "remove blue chicken online run strike venue festival bomb vivid praise code";

@@ -1,1 +1,1 @@
-var mnemonic = "stone lazy region sign round tape hand trim fall isolate subway derive";
+var mnemonic = "vintage science amazing garment sunny there hazard jewel explain organ auto runway";

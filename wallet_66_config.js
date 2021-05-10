@@ -1,1 +1,1 @@
-var mnemonic = "shell measure frown brisk velvet member silver divide adjust bean shy require";
+var mnemonic = "roast cave truck sphere hurry escape animal admit feature circle liberty aunt";

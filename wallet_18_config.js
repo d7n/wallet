@@ -1,1 +1,1 @@
-var mnemonic = "segment wrist year cage range unknown frog field erase steak rebel guitar";
+var mnemonic = "picture cat prevent control person put unique inner fuel ahead airport polar";

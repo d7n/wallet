@@ -1,1 +1,1 @@
-var mnemonic = "fix crisp idle trick arrow anxiety dismiss certain rubber wreck ignore depend";
+var mnemonic = "cook zoo vessel innocent hour glove regular sauce member bronze wool hire";

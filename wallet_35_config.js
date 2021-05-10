@@ -1,1 +1,1 @@
-var mnemonic = "daring polar tower jazz rather perfect couch foil huge inquiry farm leader";
+var mnemonic = "auto reunion grass enhance quick damp mandate fatigue mean agree pulse stable";

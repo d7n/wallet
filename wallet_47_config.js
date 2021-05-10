@@ -1,1 +1,1 @@
-var mnemonic = "kit warfare joy hungry case drip stable pact frame void palm merry";
+var mnemonic = "physical trust skull olympic depart female expire right drama collect indicate fresh";

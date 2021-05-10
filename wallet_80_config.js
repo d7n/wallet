@@ -1,1 +1,1 @@
-var mnemonic = "become diamond snap cook language media expose lawsuit gospel dismiss theory luggage";
+var mnemonic = "math try proof rocket juice hope stereo describe tuition ski tank unique";

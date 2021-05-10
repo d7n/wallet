@@ -1,1 +1,1 @@
-var mnemonic = "retreat victory sausage magic vintage once symptom insect secret consider fantasy dolphin";
+var mnemonic = "roof flower brother discover broken modify modify scissors swap box master shop";

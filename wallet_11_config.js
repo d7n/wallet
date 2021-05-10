@@ -1,1 +1,1 @@
-var mnemonic = "electric size version science coconut fury dust current adjust spy charge tongue";
+var mnemonic = "cool sport fall animal little toddler depart anchor glass ahead genius benefit";

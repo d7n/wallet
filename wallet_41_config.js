@@ -1,1 +1,1 @@
-var mnemonic = "slam benefit cabin vocal shuffle life dawn bunker blast cash happy cancel";
+var mnemonic = "proof mandate heart present vessel tomorrow say pact climb unfold forward monster";

@@ -1,1 +1,1 @@
-var mnemonic = "infant direct excess reward monkey neutral summer rhythm industry stay liar wage";
+var mnemonic = "crater clutch must crumble illness iron idle resist deal song local flag";

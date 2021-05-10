@@ -1,1 +1,1 @@
-var mnemonic = "despair dream curve camera scheme cloud interest yard confirm earn pair other";
+var mnemonic = "cancel judge equip need pink empower check dove explain east soldier match";

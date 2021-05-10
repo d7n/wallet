@@ -1,1 +1,1 @@
-var mnemonic = "resist lens sunset lottery way dinner laptop plate electric lemon damage order";
+var mnemonic = "when script seek benefit drop museum frequent knee knife eternal hawk fatigue";

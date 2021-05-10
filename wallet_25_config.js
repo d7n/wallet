@@ -1,1 +1,1 @@
-var mnemonic = "awful aim carry oval shy destroy drastic fly grace debris vanish stage";
+var mnemonic = "stumble pepper wool tag seed parent innocent arena mirror room spend zebra";

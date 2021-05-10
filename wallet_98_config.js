@@ -1,1 +1,1 @@
-var mnemonic = "analyst mistake series expose buzz balcony coach hungry next better model salad";
+var mnemonic = "describe gate silver earn month lemon aisle faculty march load canal weapon";

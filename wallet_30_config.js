@@ -1,1 +1,1 @@
-var mnemonic = "dune recall idle family moral calm fat banana enrich clutch poem dog";
+var mnemonic = "plastic convince live antenna dinner praise damp lyrics mass fatal warm segment";

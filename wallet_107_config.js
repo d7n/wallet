@@ -1,1 +1,1 @@
-var mnemonic = "frozen reflect beauty chest expose any radar upset spare emerge laundry conduct";
+var mnemonic = "inquiry gorilla feed subway easily beauty usual margin orbit visual plug stay";

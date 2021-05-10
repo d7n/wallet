@@ -1,1 +1,1 @@
-var mnemonic = "leader person pyramid fine away steak private pretty series replace trip spoon";
+var mnemonic = "banner stock differ glimpse common pepper timber hidden absent food middle peanut";

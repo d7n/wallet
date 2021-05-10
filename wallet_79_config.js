@@ -1,1 +1,1 @@
-var mnemonic = "possible timber elevator rabbit noodle paper erase person ugly jazz veteran exact";
+var mnemonic = "mechanic name minimum viable pipe whisper shuffle benefit dad blue battle either";

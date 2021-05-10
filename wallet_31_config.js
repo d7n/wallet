@@ -1,1 +1,1 @@
-var mnemonic = "option sentence shift razor sweet keen movie pistol kangaroo hunt holiday wolf";
+var mnemonic = "struggle family equal omit salmon wish sure tornado barrel leader glow ceiling";

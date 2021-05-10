@@ -1,1 +1,1 @@
-var mnemonic = "shrimp help dance dolphin coyote joy girl also window february jelly canyon";
+var mnemonic = "abandon celery alarm undo nice vibrant thank test develop museum ribbon bulb";

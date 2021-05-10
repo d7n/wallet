@@ -1,1 +1,1 @@
-var mnemonic = "case syrup interest number neutral lend evil combine tissue select soul club";
+var mnemonic = "remind crew must kick bronze category neither menu vivid flip situate mind";

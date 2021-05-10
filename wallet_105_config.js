@@ -1,1 +1,1 @@
-var mnemonic = "actual vehicle flee say social brick damage mass fringe bread fun treat";
+var mnemonic = "little palace maid license anxiety situate breeze into sister kind spin saddle";

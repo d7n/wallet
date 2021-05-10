@@ -1,1 +1,1 @@
-var mnemonic = "total state twin ensure stadium world soap surge rebel immense rigid solar";
+var mnemonic = "violin brain space educate seek cliff neck cushion zebra ball pen same";

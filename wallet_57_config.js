@@ -1,1 +1,1 @@
-var mnemonic = "relief runway tortoise glide skill gate ancient cup switch cactus inside yellow";
+var mnemonic = "urban genuine apple cage three people version time advice strategy educate fashion";

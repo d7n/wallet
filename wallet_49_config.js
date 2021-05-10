@@ -1,1 +1,1 @@
-var mnemonic = "pear fiscal session gather april unfair actor napkin funny learn charge unknown";
+var mnemonic = "jump treat apart observe wedding battle carbon fever health crucial illegal height";

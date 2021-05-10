@@ -1,1 +1,1 @@
-var mnemonic = "shuffle rescue clap hurdle east broken chicken fragile dose cluster reduce matrix";
+var mnemonic = "peanut picnic smoke track change gasp polar trend will ozone run soda";

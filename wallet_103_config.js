@@ -1,1 +1,1 @@
-var mnemonic = "ripple trip fade two wealth brush lens describe shallow you dizzy nut";
+var mnemonic = "twist point baby depend rival venue above evidence sound assist arch accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "pride festival arrange venture rail steak else party focus pride warm animal";
+var mnemonic = "allow garage argue venture divert panel fire ensure category screen fetch table";

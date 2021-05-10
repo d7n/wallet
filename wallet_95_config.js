@@ -1,1 +1,1 @@
-var mnemonic = "uphold utility liquid keep purchase survey pencil post ill six tobacco lock";
+var mnemonic = "clump happy page crumble chef urge poverty chat erosion recall toast put";

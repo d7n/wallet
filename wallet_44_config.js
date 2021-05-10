@@ -1,1 +1,1 @@
-var mnemonic = "promote travel cry neutral beauty genuine cube scatter harvest below ritual snap";
+var mnemonic = "noble inquiry will bulb topic peanut shoe mule around employ wedding laptop";

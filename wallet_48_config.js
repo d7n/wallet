@@ -1,1 +1,1 @@
-var mnemonic = "pride rail couple organ process account scan hair metal all transfer accuse";
+var mnemonic = "display marine gold athlete decorate film vibrant deputy unable seek caution rich";

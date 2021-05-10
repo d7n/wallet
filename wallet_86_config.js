@@ -1,1 +1,1 @@
-var mnemonic = "pair output tomato napkin nerve harvest forget apology season glass sail voyage";
+var mnemonic = "include history hold cement want add auto survey build attend shadow topic";

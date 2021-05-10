@@ -1,1 +1,1 @@
-var mnemonic = "lunar aim holiday thumb deal craft consider client toe provide embrace boat";
+var mnemonic = "actress heavy coconut risk coral move pepper friend cliff diamond office clap";

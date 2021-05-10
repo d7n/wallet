@@ -1,1 +1,1 @@
-var mnemonic = "into bleak sauce fringe time caution forget situate head advance web there";
+var mnemonic = "visual rib omit involve enact celery lawsuit bridge found joke depth cycle";

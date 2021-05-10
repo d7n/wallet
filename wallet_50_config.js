@@ -1,1 +1,1 @@
-var mnemonic = "undo unveil must soldier assault net faculty fury moment lumber stem orange";
+var mnemonic = "surge wide heavy large salad option thumb width volcano raccoon patrol sniff";

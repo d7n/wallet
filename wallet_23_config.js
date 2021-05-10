@@ -1,1 +1,1 @@
-var mnemonic = "cash hurt drift feature amused vendor cement month cabbage dizzy day win";
+var mnemonic = "company spend science soft record prepare century bunker cup moment tomorrow grid";

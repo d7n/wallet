@@ -1,1 +1,1 @@
-var mnemonic = "olive impose impulse seven puzzle health saddle ride access guess cream coral";
+var mnemonic = "slab kiwi rough weasel bonus remain mistake zoo cover pen barely pumpkin";

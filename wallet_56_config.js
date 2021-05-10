@@ -1,1 +1,1 @@
-var mnemonic = "deer assist rate before kingdom cool swim deputy domain era six master";
+var mnemonic = "quiz piece alcohol inquiry benefit despair ring grace spin volcano display sport";

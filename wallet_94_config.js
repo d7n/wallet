@@ -1,1 +1,1 @@
-var mnemonic = "debris seed clump wide sniff visual debris dose sniff easy culture satoshi";
+var mnemonic = "borrow barely become panda exhibit issue collect toe actress divorce license top";

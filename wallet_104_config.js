@@ -1,1 +1,1 @@
-var mnemonic = "core print cupboard morning detail absorb tower float horse develop ginger ivory";
+var mnemonic = "buffalo balance lumber glad use rocket dolphin recipe inherit beauty resist calm";

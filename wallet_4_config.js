@@ -1,1 +1,1 @@
-var mnemonic = "distance side attack spray ski wagon idea trade mind mesh faith vicious";
+var mnemonic = "minute syrup wash tray estate author negative age code vague square summer";

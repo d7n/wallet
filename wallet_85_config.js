@@ -1,1 +1,1 @@
-var mnemonic = "birth retreat gown globe foot torch ivory wrestle shield road reform hen";
+var mnemonic = "slot enhance cushion denial decline rent mail cherry unique short hill grant";

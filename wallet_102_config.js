@@ -1,1 +1,1 @@
-var mnemonic = "alpha east speed always clock insect buyer title run sand chat tiger";
+var mnemonic = "surround long risk more swarm such wolf tribe brisk spawn citizen retire";

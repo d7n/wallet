@@ -1,1 +1,1 @@
-var mnemonic = "cube street first reward original master various impose train focus trophy humble";
+var mnemonic = "wool undo injury special addict item average glow print universe problem topic";

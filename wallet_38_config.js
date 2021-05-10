@@ -1,1 +1,1 @@
-var mnemonic = "remain profit morning tooth defy ability parrot nest age asthma dust gold";
+var mnemonic = "hello gather chimney name basic expose sell surge noise expect suspect either";

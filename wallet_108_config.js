@@ -1,1 +1,1 @@
-var mnemonic = "process desert antenna radar media sudden indicate game away blur injury dismiss";
+var mnemonic = "myself pulse boss elbow shop erupt awkward ability analyst side wrap region";

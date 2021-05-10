@@ -1,1 +1,1 @@
-var mnemonic = "acquire lend trigger sample bubble ginger luxury nut gauge submit diagram reform";
+var mnemonic = "raw staff crop page tiny focus wear goose nasty danger filter ghost";

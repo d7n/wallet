@@ -1,1 +1,1 @@
-var mnemonic = "shrimp cheese pepper winner path twin used rebuild emerge alert hunt lunch";
+var mnemonic = "dwarf elephant plate icon long six fine item salmon present canal canoe";

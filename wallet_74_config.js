@@ -1,1 +1,1 @@
-var mnemonic = "uncover doll laugh long foil brain curious lawn basic envelope peace aware";
+var mnemonic = "nest diesel expire happy curve brand pink hurdle timber stumble mouse feature";

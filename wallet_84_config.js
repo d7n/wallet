@@ -1,1 +1,1 @@
-var mnemonic = "lock flock need siren bright clean cloth undo deputy capital above royal";
+var mnemonic = "reason eye aim buddy earth rice device dignity steel evoke tornado balcony";

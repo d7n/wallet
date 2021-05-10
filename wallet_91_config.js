@@ -1,1 +1,1 @@
-var mnemonic = "raise pioneer whisper impose achieve menu parent true wonder goddess party script";
+var mnemonic = "supply now immense helmet feed grocery glass excess giraffe future journey picture";

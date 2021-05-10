@@ -1,1 +1,1 @@
-var mnemonic = "harsh cherry auto host improve pear damage label quit photo hurt episode";
+var mnemonic = "move volume tell bird boring weird visit kit engage stem hold dance";

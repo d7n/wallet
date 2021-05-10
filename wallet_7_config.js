@@ -1,1 +1,1 @@
-var mnemonic = "notable next lift primary key tag occur welcome else magic leaf kit";
+var mnemonic = "clutch visa syrup task wolf organ garbage spring seven congress vacuum final";

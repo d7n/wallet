@@ -1,1 +1,1 @@
-var mnemonic = "unknown oval hero sun shine broom embody mercy slide smile orange case";
+var mnemonic = "street bunker hazard patch join level true happy goddess fortune remain ski";

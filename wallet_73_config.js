@@ -1,1 +1,1 @@
-var mnemonic = "crew appear poet broom gain august inflict force color citizen stove winner";
+var mnemonic = "anger tortoise birth chicken ancient album spatial warfare embody problem museum immune";

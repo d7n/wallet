@@ -1,1 +1,1 @@
-var mnemonic = "dwarf ghost maximum under ghost still wink ski describe breeze success return";
+var mnemonic = "sibling local monkey subway chunk team horn vintage kiwi head flavor finger";

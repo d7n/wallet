@@ -1,1 +1,1 @@
-var mnemonic = "turkey labor slush nurse enact hat virtual gap album zero wear push";
+var mnemonic = "used naive trip grief misery want margin calm thought amazing thumb consider";

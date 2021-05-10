@@ -1,1 +1,1 @@
-var mnemonic = "museum throw shock boat village divert truck lava syrup clarify feel convince";
+var mnemonic = "few inmate response evoke flock tip mix tissue fatal belt speak reopen";

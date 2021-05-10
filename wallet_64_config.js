@@ -1,1 +1,1 @@
-var mnemonic = "marine burger balance cash total side observe caution foster garment decade flee";
+var mnemonic = "rib portion damp catalog agree scan hawk until dove cloud face strong";

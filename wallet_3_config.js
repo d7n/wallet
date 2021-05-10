@@ -1,1 +1,1 @@
-var mnemonic = "tissue help stairs melt genre ethics patient enrich card gauge shadow casino";
+var mnemonic = "tail combine choice build merit egg rally soda program merge tourist skull";

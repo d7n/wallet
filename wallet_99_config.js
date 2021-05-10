@@ -1,1 +1,1 @@
-var mnemonic = "tube congress letter quantum cousin tobacco congress trial blanket cruise manual enlist";
+var mnemonic = "token rail decide bike undo number bonus aspect typical maximum since advice";

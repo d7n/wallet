@@ -1,1 +1,1 @@
-var mnemonic = "matrix deer prepare orphan close debate first switch nuclear tray prefer game";
+var mnemonic = "dose despair deer save pencil inner throw siege crime know fire start";

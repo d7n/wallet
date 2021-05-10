@@ -1,1 +1,1 @@
-var mnemonic = "gift follow early lazy emerge another amused side enrich become ramp fire";
+var mnemonic = "junk weather ramp syrup bag wait flower rigid carry medal donor slam";

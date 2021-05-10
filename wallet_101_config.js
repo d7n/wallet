@@ -1,1 +1,1 @@
-var mnemonic = "choice service toilet today idea actor turtle jelly rebuild scene shell tortoise";
+var mnemonic = "moment report lady derive erupt frown print hold accuse paddle pool palm";

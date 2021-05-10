@@ -1,1 +1,1 @@
-var mnemonic = "spatial object dragon wrist embody opinion destroy neutral what brisk river upon";
+var mnemonic = "spawn know measure pact snake vast major wonder gauge lemon common pottery";

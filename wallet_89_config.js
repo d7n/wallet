@@ -1,1 +1,1 @@
-var mnemonic = "answer cross expire spend assault near alarm table sustain explain good march";
+var mnemonic = "judge mix silk easy diary sausage clever arena inner wrap baby guide";

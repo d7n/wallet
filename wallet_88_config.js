@@ -1,1 +1,1 @@
-var mnemonic = "expand cube magnet worry inform hero layer pudding vehicle must become city";
+var mnemonic = "recall lava fruit hole scale sweet hood tribe action tank know rough";

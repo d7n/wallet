@@ -1,1 +1,1 @@
-var mnemonic = "shell huge cycle load lift voice simple input thing base muffin typical";
+var mnemonic = "milk length win rotate mad tree blouse describe member buzz stone virtual";

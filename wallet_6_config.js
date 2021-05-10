@@ -1,1 +1,1 @@
-var mnemonic = "runway index next hotel apology similar similar hockey memory unhappy will ranch";
+var mnemonic = "chimney rhythm jacket become work federal copy rare birth mother art holiday";

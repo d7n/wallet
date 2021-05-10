@@ -1,1 +1,1 @@
-var mnemonic = "dragon coral latin decrease print giant story burden mistake capable fold drill";
+var mnemonic = "clinic quality debate develop slot region female cloud pyramid noodle pond magic";

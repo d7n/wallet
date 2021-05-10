@@ -1,1 +1,1 @@
-var mnemonic = "scare volcano tomato source brass arrange remind capable mango demand glad cart";
+var mnemonic = "dial sadness grid drastic blanket obey please shoot guide stool brass course";

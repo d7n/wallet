@@ -1,1 +1,1 @@
-var mnemonic = "trap around couch traffic cable refuse cup method design ghost hello galaxy";
+var mnemonic = "habit glove draw discover rifle recipe man keep exotic weird absurd salon";

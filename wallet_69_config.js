@@ -1,1 +1,1 @@
-var mnemonic = "nation current dial inhale dish spend pudding knock unlock visual vacuum oblige";
+var mnemonic = "royal federal toward ticket rely still father asset wonder gauge grant voice";
