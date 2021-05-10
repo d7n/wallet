@@ -1,1 +1,1 @@
-var mnemonic = "sister sign wife fox hole maze ahead project inherit sheriff surprise total";
+var mnemonic = "any next twin name bargain two soup guide quiz smart clerk vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "initial decade afford kidney they state logic alert frog recycle rigid music";
+var mnemonic = "cry chuckle vicious tool similar know hood produce feed where abstract crash";

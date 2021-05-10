@@ -1,1 +1,1 @@
-var mnemonic = "fatigue afford model such split coyote boil sauce punch action cloud chicken";
+var mnemonic = "pretty when day wish act bean ignore twin enable term ostrich dad";

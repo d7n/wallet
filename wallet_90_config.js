@@ -1,1 +1,1 @@
-var mnemonic = "basket flock more glimpse pride say convince eager pig priority switch boat";
+var mnemonic = "cargo unique old pull panda quarter claim course vicious discover today season";

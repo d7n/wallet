@@ -1,1 +1,1 @@
-var mnemonic = "trial talk canal dust retreat essay soldier purchase outdoor anchor web violin";
+var mnemonic = "jelly usual master spend good auction bread extra poverty minor trouble void";

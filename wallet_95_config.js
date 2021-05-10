@@ -1,1 +1,1 @@
-var mnemonic = "coral marine bunker dry tragic invest tennis umbrella click recycle current pledge";
+var mnemonic = "turtle fury surge man game connect direct bamboo toast cake nominee uniform";

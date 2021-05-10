@@ -1,1 +1,1 @@
-var mnemonic = "suspect flag peasant apology embrace whisper demand champion roast spatial fitness anxiety";
+var mnemonic = "public identify mimic man slab student poverty assault bullet copper mom display";

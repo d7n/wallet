@@ -1,1 +1,1 @@
-var mnemonic = "wealth tumble left mechanic wolf bus honey hour seat feed cup deliver";
+var mnemonic = "hat evolve noise client vehicle pear present roast embody time spell mountain";

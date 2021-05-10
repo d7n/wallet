@@ -1,1 +1,1 @@
-var mnemonic = "bacon area maid strategy ghost honey fun deliver message shiver saddle cycle";
+var mnemonic = "spring cricket much fiction drift hello artwork pink erode lens load orbit";

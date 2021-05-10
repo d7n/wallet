@@ -1,1 +1,1 @@
-var mnemonic = "wheel iron awesome chalk vault loud piano core sentence eager circle call";
+var mnemonic = "yellow zone expand soap boat cash grab hurt doctor click brief bacon";

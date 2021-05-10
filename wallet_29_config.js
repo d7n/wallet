@@ -1,1 +1,1 @@
-var mnemonic = "crawl rally disagree raccoon cage stereo relax such grass nice holiday agree";
+var mnemonic = "pulse surprise night laptop client alley same frog sun file cement reunion";

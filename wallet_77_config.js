@@ -1,1 +1,1 @@
-var mnemonic = "memory remove paper piano omit knee gloom lunch post enemy paddle betray";
+var mnemonic = "seminar payment opera slot suggest render giggle carbon system rocket raven castle";

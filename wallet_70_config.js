@@ -1,1 +1,1 @@
-var mnemonic = "stumble neutral naive oxygen master divert march team call insane hint approve";
+var mnemonic = "inquiry fluid width bubble awesome liquid twice tent destroy naive gallery capital";

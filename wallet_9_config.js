@@ -1,1 +1,1 @@
-var mnemonic = "fence mask sweet prize journey cloud disease sniff depart pond entire stay";
+var mnemonic = "better ritual alley blossom answer segment bottom cute smart boy release volume";

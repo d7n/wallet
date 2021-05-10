@@ -1,1 +1,1 @@
-var mnemonic = "differ subject draft start dash abandon abandon burst goat coach arch recycle";
+var mnemonic = "toss whale notable evil theory vague report cream symbol junk print monitor";

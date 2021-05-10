@@ -1,1 +1,1 @@
-var mnemonic = "zone mother casino humor basket settle buddy charge absurd cube survey invest";
+var mnemonic = "hold menu job culture family edit dish menu rubber cry nice sorry";

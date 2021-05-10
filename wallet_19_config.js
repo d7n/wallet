@@ -1,1 +1,1 @@
-var mnemonic = "helmet anxiety miracle frozen rural quit solid behave page glory rebel tiger";
+var mnemonic = "wagon dog magic fiber secret kitchen alter lake dry stick conduct clinic";

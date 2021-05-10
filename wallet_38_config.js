@@ -1,1 +1,1 @@
-var mnemonic = "flower fancy midnight athlete assist people fence cruise clever fury curious midnight";
+var mnemonic = "submit prize thrive black ill lobster layer wash wealth night like lawsuit";

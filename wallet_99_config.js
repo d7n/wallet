@@ -1,1 +1,1 @@
-var mnemonic = "grant shoulder box floor repeat analyst shoe silk talk bus raise robust";
+var mnemonic = "shoot vintage easy word tackle ecology trip song vote roast bachelor sentence";

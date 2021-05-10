@@ -1,1 +1,1 @@
-var mnemonic = "advice virtual puppy minute island offer any build whip august mango exact";
+var mnemonic = "toilet surround coffee cash fan food board celery promote face angry bring";

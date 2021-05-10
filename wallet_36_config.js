@@ -1,1 +1,1 @@
-var mnemonic = "title flat twist lion unfair crumble load skull poverty expect soft puzzle";
+var mnemonic = "vivid output depend race summer clerk stool wolf clown green riot fiction";

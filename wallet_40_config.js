@@ -1,1 +1,1 @@
-var mnemonic = "glove abandon file spoil canyon agree report pen abandon live six mansion";
+var mnemonic = "era raccoon genre mountain erosion calm cluster spawn husband gospel outer pencil";

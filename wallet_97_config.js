@@ -1,1 +1,1 @@
-var mnemonic = "stem puzzle tide welcome tornado quarter roof toast hero trade skirt absorb";
+var mnemonic = "auto off reduce armed luggage few neither cactus hard small stem bike";

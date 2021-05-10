@@ -1,1 +1,1 @@
-var mnemonic = "dust dash width hip feed monster mouse permit hero car trim hurry";
+var mnemonic = "cluster cluster proof year noodle dignity maple airport butter brass kite congress";

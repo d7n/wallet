@@ -1,1 +1,1 @@
-var mnemonic = "upgrade pig install toward crush opera payment scatter brush they head ancient";
+var mnemonic = "just figure firm shine garment grid piece alarm eyebrow clay clutch nasty";

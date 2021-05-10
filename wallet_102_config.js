@@ -1,1 +1,1 @@
-var mnemonic = "few cliff squirrel problem anchor coyote cradle quantum balcony raven wire vicious";
+var mnemonic = "idea bright motor couch unable inquiry trial judge strong twenty fiscal retire";

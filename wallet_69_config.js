@@ -1,1 +1,1 @@
-var mnemonic = "rather census mosquito hub enlist above alien mimic cattle short castle jewel";
+var mnemonic = "chalk crisp dream long fox fresh jazz rabbit tobacco vehicle chief route";

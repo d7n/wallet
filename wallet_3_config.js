@@ -1,1 +1,1 @@
-var mnemonic = "old whale humble blame cube month beef real raise barrel secret flag";
+var mnemonic = "six essence unveil coyote effort mother pupil coast ozone dial use draft";

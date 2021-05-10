@@ -1,1 +1,1 @@
-var mnemonic = "sweet spoil blush sell travel inherit exercise minute juice order hello embrace";
+var mnemonic = "spice figure tank lock dragon napkin list print dilemma furnace time midnight";

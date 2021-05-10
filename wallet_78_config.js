@@ -1,1 +1,1 @@
-var mnemonic = "hollow lawn dog private barrel sunny artefact genuine denial twin metal garage";
+var mnemonic = "real organ gas food hand dizzy stay siren bless thank minute athlete";

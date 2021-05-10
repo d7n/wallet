@@ -1,1 +1,1 @@
-var mnemonic = "always mouse ill chase inject load leopard fetch trade large kick broom";
+var mnemonic = "other aim oxygen half project number fish cup shield snake tennis decrease";

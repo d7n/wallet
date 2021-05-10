@@ -1,1 +1,1 @@
-var mnemonic = "romance vacant mad leg endorse taxi acoustic deliver indicate duck vacant diamond";
+var mnemonic = "erupt armed ski expire smart permit narrow miracle benefit ahead blood salon";

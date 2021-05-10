@@ -1,1 +1,1 @@
-var mnemonic = "type rough remind trade pizza oppose dry drill boost small horror river";
+var mnemonic = "fame custom diagram foam please review coach load door picture rifle fruit";

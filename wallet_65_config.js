@@ -1,1 +1,1 @@
-var mnemonic = "hole give track echo goose pole radio upset rotate pyramid intact critic";
+var mnemonic = "beach scan purpose point success powder earn wrap nominee keen venture dumb";

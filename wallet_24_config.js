@@ -1,1 +1,1 @@
-var mnemonic = "disorder mistake category neither uniform ceiling cricket zone term order outdoor sustain";
+var mnemonic = "flip lemon fence rude pigeon upon skull shoot marble thunder tattoo lazy";

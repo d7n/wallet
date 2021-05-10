@@ -1,1 +1,1 @@
-var mnemonic = "clap fetch bubble card slender tonight mean card fan metal blame sing";
+var mnemonic = "monkey shallow trick melt item oyster post payment concert inspire glance steak";

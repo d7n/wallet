@@ -1,1 +1,1 @@
-var mnemonic = "ceiling language square key agent wet choose goddess kid degree rigid boy";
+var mnemonic = "success animal manual relief clarify evidence carbon toilet music satoshi endless undo";

@@ -1,1 +1,1 @@
-var mnemonic = "brain whale resemble hedgehog gauge mesh cluster push voice job relief seat";
+var mnemonic = "cover turn around express index wide toilet evolve have era daring future";

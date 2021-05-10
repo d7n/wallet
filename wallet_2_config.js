@@ -1,1 +1,1 @@
-var mnemonic = "then load false actual clean remove shuffle wash under reward shrimp vacuum";
+var mnemonic = "build basic march exotic remind refuse easy alarm output glare any time";

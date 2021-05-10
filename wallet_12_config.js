@@ -1,1 +1,1 @@
-var mnemonic = "depth chase submit submit among camera display floor hat fatigue rigid hospital";
+var mnemonic = "toddler brush chase gaze glow blast deny fall laugh grow poet ball";

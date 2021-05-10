@@ -1,1 +1,1 @@
-var mnemonic = "idea wonder weasel chest diary token they inhale theme tumble idea spin";
+var mnemonic = "valley method smoke garment position symbol blade dragon mirror enlist tattoo resemble";

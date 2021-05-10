@@ -1,1 +1,1 @@
-var mnemonic = "noodle weasel virtual drink pig nominee smooth excess beyond capital apple priority";
+var mnemonic = "devote diet essay six nephew possible luxury wasp toast correct army snack";

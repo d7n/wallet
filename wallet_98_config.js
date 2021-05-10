@@ -1,1 +1,1 @@
-var mnemonic = "front select twin umbrella weasel success detail absorb become tube focus six";
+var mnemonic = "rice another cousin wise school funny connect tray first poet zone kidney";

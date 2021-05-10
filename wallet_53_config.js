@@ -1,1 +1,1 @@
-var mnemonic = "text glue smile crucial rifle large stumble cup inside faint jacket start";
+var mnemonic = "bleak parent since fence front detect inform razor zebra fever juice again";

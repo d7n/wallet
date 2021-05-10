@@ -1,1 +1,1 @@
-var mnemonic = "smile rail spray throw misery wide sword sample simple uniform safe quarter";
+var mnemonic = "reduce comic man strike estate drill mammal fantasy pony consider soup control";

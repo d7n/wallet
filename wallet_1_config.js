@@ -1,1 +1,1 @@
-var mnemonic = "oyster column live train record tool axis repeat repeat goose key weekend";
+var mnemonic = "garage cluster tourist supply vague live century desert crack boat planet rack";

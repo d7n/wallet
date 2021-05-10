@@ -1,1 +1,1 @@
-var mnemonic = "dilemma canyon define rail win weekend few glad pool label walk all";
+var mnemonic = "away profit party speak arrest major meadow eager swallow neck save genre";

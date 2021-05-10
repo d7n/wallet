@@ -1,1 +1,1 @@
-var mnemonic = "dizzy purchase hour feel nest armed calm music seminar loyal young orient";
+var mnemonic = "advance kiwi job kidney inform symptom wisdom eagle pledge digital illegal patient";

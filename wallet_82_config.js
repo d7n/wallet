@@ -1,1 +1,1 @@
-var mnemonic = "circle setup rug junk kiwi pistol alpha culture please pet toward any";
+var mnemonic = "broccoli palace gospel disease inflict wish episode foam develop before rice olive";

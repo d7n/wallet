@@ -1,1 +1,1 @@
-var mnemonic = "soon car verb aim void soup mountain metal swift kangaroo blame output";
+var mnemonic = "pigeon glove please maximum unit boring action below friend kitten way dizzy";

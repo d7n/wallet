@@ -1,1 +1,1 @@
-var mnemonic = "twenty castle cloth manual thank banner exercise absorb paper ask network robot";
+var mnemonic = "spray session lazy upset leg turkey gasp smoke select ghost credit daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely theory task brother muscle skill about ride settle spider behind fence";
+var mnemonic = "work sign cluster lucky spawn wine apple eye dismiss rapid later noble";

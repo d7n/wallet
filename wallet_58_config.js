@@ -1,1 +1,1 @@
-var mnemonic = "roast scrap monster easy current tide cactus broken bargain swear knock frown";
+var mnemonic = "ivory bone dawn tube clip example dad mobile gift palm door original";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid throw clap cruel icon turtle flag ceiling neither gesture flower unveil";
+var mnemonic = "mirror endless student margin depend glue wine exotic film area worry cover";

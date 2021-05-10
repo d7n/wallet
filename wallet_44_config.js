@@ -1,1 +1,1 @@
-var mnemonic = "brush else mosquito original still vote original exit tube sight inherit dinner";
+var mnemonic = "fit involve visual oblige dynamic april gentle panda flip fitness rifle grape";

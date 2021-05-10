@@ -1,1 +1,1 @@
-var mnemonic = "biology diamond estate wife trumpet elbow roof walnut creek pattern keep onion";
+var mnemonic = "penalty twin chunk mad steel width awesome soul frown caught measure fortune";

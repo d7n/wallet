@@ -1,1 +1,1 @@
-var mnemonic = "lucky deal erupt glare despair cave salute ring chaos wisdom pig hint";
+var mnemonic = "attend second charge bench giraffe field grant afraid front stay lobster source";

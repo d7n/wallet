@@ -1,1 +1,1 @@
-var mnemonic = "luxury come feature donate business rack stick february valve faith resource fossil";
+var mnemonic = "dress play parrot video ghost dust arrange artwork fortune wealth truth blur";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo fall caution gallery shadow govern material exclude pipe unfair climb miracle";
+var mnemonic = "resist news supply inform surface express moral future tourist tell kitten airport";

@@ -1,1 +1,1 @@
-var mnemonic = "final umbrella miracle have laundry trust acquire cause ill clinic divide movie";
+var mnemonic = "nerve hospital tackle hero monitor relax potato victory ten coin theme warrior";

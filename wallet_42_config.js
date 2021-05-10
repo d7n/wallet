@@ -1,1 +1,1 @@
-var mnemonic = "manage measure color wealth rookie perfect scare recycle become leaf that menu";
+var mnemonic = "talent sock era oven object season eager sheriff mind reject speed crucial";

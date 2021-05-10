@@ -1,1 +1,1 @@
-var mnemonic = "bunker crucial tragic inmate busy wrist point toddler pause cabin bachelor dream";
+var mnemonic = "harvest assist duck capital monkey clarify sadness load follow rescue history baby";

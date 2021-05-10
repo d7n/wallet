@@ -1,1 +1,1 @@
-var mnemonic = "liquid auction tomato fever hybrid velvet void all miracle siege climb away";
+var mnemonic = "tired state prison hollow pet sauce emerge soccer soccer control gain concert";

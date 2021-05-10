@@ -1,1 +1,1 @@
-var mnemonic = "income retire treat unusual jacket false cabbage submit amazing canal gesture nest";
+var mnemonic = "possible annual action announce submit prize ginger february until excite wheat uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy waste chunk happy gesture cushion vocal south day behave gloom custom";
+var mnemonic = "must fringe plug device car august insect oval piano learn object donate";

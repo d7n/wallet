@@ -1,1 +1,1 @@
-var mnemonic = "spoon music wonder critic mixture hill horn wagon office rug sunset call";
+var mnemonic = "thumb expect army vacant donate foil verify creek manual aunt universe coral";

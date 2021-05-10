@@ -1,1 +1,1 @@
-var mnemonic = "anxiety enjoy index dismiss brown feel more wrestle confirm crush inhale tip";
+var mnemonic = "stone country junior dune window abandon dragon must trophy simple elevator neck";

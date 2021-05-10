@@ -1,1 +1,1 @@
-var mnemonic = "produce resource head stadium metal pass identify pool basket alone okay burst";
+var mnemonic = "mammal hungry grit slush smoke inside amateur victory federal team romance promote";

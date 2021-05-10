@@ -1,1 +1,1 @@
-var mnemonic = "rifle slam panel frown judge senior address hair ignore mechanic junk fluid";
+var mnemonic = "proof purity sense spend suggest field base grain human shuffle dream faith";

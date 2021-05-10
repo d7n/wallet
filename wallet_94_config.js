@@ -1,1 +1,1 @@
-var mnemonic = "mango will craft silly upon cargo topic other oven duty leopard below";
+var mnemonic = "avoid bullet conduct grid debate boat bacon wheel upgrade fantasy offer side";

@@ -1,1 +1,1 @@
-var mnemonic = "human crisp axis grape plug rubber pitch leisure first monitor bridge sponsor";
+var mnemonic = "broccoli major simple feature next state pass scrub must next illness spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury tilt elbow manual music boring negative into word initial soup alley";
+var mnemonic = "angry organ amateur capital paddle lava ugly flight flight glove patrol convince";

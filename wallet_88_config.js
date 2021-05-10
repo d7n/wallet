@@ -1,1 +1,1 @@
-var mnemonic = "hint barely metal clean traffic quantum page gift divorce festival object junk";
+var mnemonic = "leisure legend february book lend sock rural strong again flee ripple loyal";

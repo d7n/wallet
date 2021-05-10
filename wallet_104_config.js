@@ -1,1 +1,1 @@
-var mnemonic = "account dinner cup east village hint enrich evoke want zebra ensure canoe";
+var mnemonic = "outside park where people depth final cabbage tobacco joy morning ramp subway";

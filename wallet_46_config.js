@@ -1,1 +1,1 @@
-var mnemonic = "pulp famous edge pupil animal wolf buddy gravity someone property caught occur";
+var mnemonic = "slice scout host repair casino pink spatial glance junior waste team whisper";

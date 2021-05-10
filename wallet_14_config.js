@@ -1,1 +1,1 @@
-var mnemonic = "lizard scheme cliff climb tuna gift color meat barely forward tennis type";
+var mnemonic = "group also walk present reform bind mystery galaxy utility monster smoke cave";

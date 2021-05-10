@@ -1,1 +1,1 @@
-var mnemonic = "expect mention runway text smooth thunder need steak firm engage example crumble";
+var mnemonic = "loop deny record fossil wink zero vehicle lumber public sister echo chat";

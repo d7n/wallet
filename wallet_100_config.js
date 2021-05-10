@@ -1,1 +1,1 @@
-var mnemonic = "degree finish hope force era bless soccer sustain seven lock drop liberty";
+var mnemonic = "require finger drip name panel hurry credit soda globe raw push flight";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke tiger soul detect burst monster fly quote water sponsor tool ozone";
+var mnemonic = "fix wire sort swim nephew false torch obvious chat muscle health sun";

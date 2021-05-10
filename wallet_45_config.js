@@ -1,1 +1,1 @@
-var mnemonic = "faith doll joke poem sight actor tobacco problem buyer only celery rate";
+var mnemonic = "grab chapter lens shoe later rude fabric plug process hip occur recall";

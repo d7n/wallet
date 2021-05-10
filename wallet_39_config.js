@@ -1,1 +1,1 @@
-var mnemonic = "honey raw woman fire mean lounge creek finger again skate spread renew";
+var mnemonic = "hospital lyrics toilet devote glide cart drip hobby play galaxy remain flag";

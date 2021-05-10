@@ -1,1 +1,1 @@
-var mnemonic = "flavor canal depend swift raise clarify whale analyst replace squeeze butter hour";
+var mnemonic = "stadium bitter range chapter extend true sell guard output fit ranch fade";

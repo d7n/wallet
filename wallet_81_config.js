@@ -1,1 +1,1 @@
-var mnemonic = "reunion youth cave october multiply senior feel hub year notable raise steak";
+var mnemonic = "lyrics ordinary offer dismiss debris gentle cushion popular family aunt certain equal";

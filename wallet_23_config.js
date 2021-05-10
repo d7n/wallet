@@ -1,1 +1,1 @@
-var mnemonic = "brief blame gather cute gloom gun drift consider evoke paddle fetch glimpse";
+var mnemonic = "nuclear style voice measure pipe muscle clutch bike olympic try cry solution";

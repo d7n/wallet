@@ -1,1 +1,1 @@
-var mnemonic = "text sail improve sunset pudding prevent inspire merge square version grant slush";
+var mnemonic = "swap neck convince hover dream flag render photo dry ladder genius soup";

@@ -1,1 +1,1 @@
-var mnemonic = "book heavy side session wife juice other crawl discover prosper limit general";
+var mnemonic = "crop bring just track mail weapon matter faint keen cute ahead universe";

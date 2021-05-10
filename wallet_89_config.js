@@ -1,1 +1,1 @@
-var mnemonic = "ill robot cannon space same gaze catalog water legal during wild company";
+var mnemonic = "phrase way achieve setup okay green mention wrist frozen over sunset brain";

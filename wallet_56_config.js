@@ -1,1 +1,1 @@
-var mnemonic = "tilt melody protect frame resist day helmet emerge usage whale castle among";
+var mnemonic = "anxiety plastic equal alert judge pet rent spawn judge risk blouse coach";

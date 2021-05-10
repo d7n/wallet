@@ -1,1 +1,1 @@
-var mnemonic = "claw nothing spider dutch jewel pool vicious trip parent actress occur security";
+var mnemonic = "rate trash involve near armed coach begin car forest attract tape machine";

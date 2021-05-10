@@ -1,1 +1,1 @@
-var mnemonic = "open deputy blade spread pause awesome develop light stock champion clown math";
+var mnemonic = "winner torch piano exclude north praise siren tube sauce tool image announce";
