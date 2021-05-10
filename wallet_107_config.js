@@ -1,1 +1,1 @@
-var mnemonic = "output doctor capable review style father occur soda dose dial breeze junior";
+var mnemonic = "envelope cinnamon deer nest mosquito bag castle waste kind soft twenty tell";

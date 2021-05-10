@@ -1,1 +1,1 @@
-var mnemonic = "eagle session disagree wide elbow toilet wet design tent skirt raise try";
+var mnemonic = "hard damp extend hen oxygen inherit orchard perfect wave inner struggle trigger";

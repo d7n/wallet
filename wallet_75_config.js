@@ -1,1 +1,1 @@
-var mnemonic = "dirt laptop memory remain father reveal sea kangaroo expand toe rural water";
+var mnemonic = "enough allow board portion snow ranch phrase palm monster sadness wish impact";

@@ -1,1 +1,1 @@
-var mnemonic = "history floor custom dose edit this buffalo another boost dash suit wine";
+var mnemonic = "live hunt smart assume lawsuit office wedding goddess shoulder color zebra border";

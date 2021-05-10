@@ -1,1 +1,1 @@
-var mnemonic = "object eternal coffee pave derive beyond inflict divide hero gain clump person";
+var mnemonic = "buffalo foil account fold ask exile source aware gather horse train aspect";

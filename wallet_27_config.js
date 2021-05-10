@@ -1,1 +1,1 @@
-var mnemonic = "accuse define aerobic fall priority gather drill gravity stand right major motor";
+var mnemonic = "replace reunion gas sad crop good alarm width car artefact clog effort";

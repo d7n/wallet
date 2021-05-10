@@ -1,1 +1,1 @@
-var mnemonic = "bargain matter audit smooth park used soup assume audit boy sure mask";
+var mnemonic = "bleak wing lamp crush wedding peace brain husband say magic busy box";

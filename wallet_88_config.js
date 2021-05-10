@@ -1,1 +1,1 @@
-var mnemonic = "item switch liquid vacant lonely firm egg poem bachelor always lady sorry";
+var mnemonic = "flame love wasp spike recipe garbage discover thing fade again glad ancient";

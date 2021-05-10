@@ -1,1 +1,1 @@
-var mnemonic = "garlic rabbit hint staff check obtain seek robot used hamster guide gate";
+var mnemonic = "stage gorilla cover deliver royal mirror muffin spatial hip dentist exhibit practice";

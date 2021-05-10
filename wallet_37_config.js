@@ -1,1 +1,1 @@
-var mnemonic = "powder hammer prefer unaware legal more host reflect hedgehog oil modify display";
+var mnemonic = "cabin profit erase marine vague wreck consider congress bamboo rescue sell detect";

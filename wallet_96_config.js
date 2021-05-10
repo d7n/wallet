@@ -1,1 +1,1 @@
-var mnemonic = "scrub require dove wide object provide vanish rigid rent dog citizen clinic";
+var mnemonic = "turtle craft time wine leaf multiply sauce trap eagle century tank timber";

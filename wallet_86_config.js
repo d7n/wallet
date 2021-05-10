@@ -1,1 +1,1 @@
-var mnemonic = "country pole carbon check ice bleak clinic total fancy brush evolve fold";
+var mnemonic = "usage stock scrub host acquire exclude heart dinosaur sister fury crumble grant";

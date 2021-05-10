@@ -1,1 +1,1 @@
-var mnemonic = "moon drive anger gather speed tag carpet purity planet title agent calm";
+var mnemonic = "process dust grace cash bind rigid oblige pact hill mountain stem forest";

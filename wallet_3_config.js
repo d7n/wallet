@@ -1,1 +1,1 @@
-var mnemonic = "ability drama churn cattle recall exhibit bag armor paper bacon pottery input";
+var mnemonic = "pill omit eyebrow wash resemble decide silly vibrant nasty thunder stable luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse awesome device dad letter spare sick arrest kidney warm salon sister";
+var mnemonic = "wrap february peanut connect flag office later unveil seminar front state happy";

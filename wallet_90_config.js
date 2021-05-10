@@ -1,1 +1,1 @@
-var mnemonic = "wise moral traffic bracket matter bitter grit diamond fiction swap come parent";
+var mnemonic = "radio clinic first tray hint letter horn comic program spider make giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "estate wagon film deputy welcome awake south defense document cage atom wild";
+var mnemonic = "soup grace sauce flock barrel flip clog advice annual much wrist pyramid";

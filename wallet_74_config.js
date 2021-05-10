@@ -1,1 +1,1 @@
-var mnemonic = "kingdom exchange evil sunset border minute brave lecture crater primary once warm";
+var mnemonic = "cover lake tooth hockey manual balance switch infant item object leaf model";

@@ -1,1 +1,1 @@
-var mnemonic = "under kiss endless badge happy place manual ready leg hammer blanket memory";
+var mnemonic = "tourist holiday thought hip federal ozone normal crouch install furnace fossil matrix";

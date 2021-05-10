@@ -1,1 +1,1 @@
-var mnemonic = "notice romance ski this trip adjust trash solar project swear orient local";
+var mnemonic = "range cry trip tube raise sentence roast civil balcony moon fire pave";

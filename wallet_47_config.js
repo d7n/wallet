@@ -1,1 +1,1 @@
-var mnemonic = "adult green bone famous venue control indoor vibrant pledge lunch dust fun";
+var mnemonic = "grain wink basic invest basket party scrub roof scene galaxy suffer transfer";

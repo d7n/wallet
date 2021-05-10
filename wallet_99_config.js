@@ -1,1 +1,1 @@
-var mnemonic = "leaf rude lake rude around nephew slush hello young life cram city";
+var mnemonic = "awkward track minor kidney usual miss aim perfect treat phrase luxury orphan";

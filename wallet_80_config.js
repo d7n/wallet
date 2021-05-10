@@ -1,1 +1,1 @@
-var mnemonic = "glare essay horse minimum abuse border erupt hammer sun execute apart anger";
+var mnemonic = "tape hand analyst nest pitch artwork hedgehog bulb ribbon clean mixed shrimp";

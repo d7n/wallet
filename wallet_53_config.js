@@ -1,1 +1,1 @@
-var mnemonic = "arena upon pudding wrap trial arch learn frown lizard empower try hope";
+var mnemonic = "segment rail hard tank shock injury bench afford trigger boat pull top";

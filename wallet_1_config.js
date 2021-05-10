@@ -1,1 +1,1 @@
-var mnemonic = "payment cheese naive whip word loan helmet used mammal pumpkin method wear";
+var mnemonic = "zoo guess cluster bar trick verb grid wise great junk panther unable";

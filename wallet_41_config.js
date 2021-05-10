@@ -1,1 +1,1 @@
-var mnemonic = "method rapid soft suffer announce reform verb latin close attitude sting lamp";
+var mnemonic = "raw convince stable during curve proof solid one hood loop explain throw";

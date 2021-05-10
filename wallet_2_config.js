@@ -1,1 +1,1 @@
-var mnemonic = "manage vacant dad pact ecology harsh piano used slush display hope saddle";
+var mnemonic = "lecture method either assume fluid estate barely olympic print season wreck push";

@@ -1,1 +1,1 @@
-var mnemonic = "news rough manage current room sail course bottom mail almost priority symptom";
+var mnemonic = "sport inmate target amount toilet neck control happy young glide leopard exit";

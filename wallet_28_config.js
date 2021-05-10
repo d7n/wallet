@@ -1,1 +1,1 @@
-var mnemonic = "attitude crash popular coconut market soldier burst toast wine cup nature private";
+var mnemonic = "kitchen copy excite burden welcome vintage artwork dismiss stomach steel fortune section";

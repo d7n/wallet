@@ -1,1 +1,1 @@
-var mnemonic = "large mad search obvious bulb staff century assault gloom effort code element";
+var mnemonic = "busy vintage eyebrow extra undo leave blast air interest grab fade above";

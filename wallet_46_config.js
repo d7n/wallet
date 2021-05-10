@@ -1,1 +1,1 @@
-var mnemonic = "defy slogan airport immense tooth actor avoid pulse catch extend dance powder";
+var mnemonic = "raw super mesh today stomach under flame tell donate grab lunar worry";

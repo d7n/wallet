@@ -1,1 +1,1 @@
-var mnemonic = "canal mass unlock measure tooth two often vicious sign asthma clever come";
+var mnemonic = "weapon figure give decade surprise because margin satisfy market stuff pole profit";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk deny chase episode bitter puzzle pizza shy bullet black acoustic twelve";
+var mnemonic = "tone wagon toe bundle parrot dolphin balcony mother bronze phone much eager";

@@ -1,1 +1,1 @@
-var mnemonic = "input ankle crucial trap lecture strike alpha save pioneer spirit sauce toast";
+var mnemonic = "attitude example flush town math enough final style better modify weird wrap";

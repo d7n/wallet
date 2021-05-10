@@ -1,1 +1,1 @@
-var mnemonic = "slab gossip stool wrist knife begin animal marriage erode mother fault mercy";
+var mnemonic = "mask any accident wise fame valid island truly spray exercise august title";

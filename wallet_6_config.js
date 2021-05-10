@@ -1,1 +1,1 @@
-var mnemonic = "leg purity weekend issue domain scan core blanket rocket arctic tumble bone";
+var mnemonic = "cabbage debris absorb hazard real glue poem horse easy merge throw hawk";

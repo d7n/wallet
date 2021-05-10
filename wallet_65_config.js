@@ -1,1 +1,1 @@
-var mnemonic = "sample magnet document ostrich bronze borrow crop sheriff nose gift walnut tip";
+var mnemonic = "strong hockey trust elevator olive lawn fox surge north accident tiger vacant";

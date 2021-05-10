@@ -1,1 +1,1 @@
-var mnemonic = "purchase damage alter fragile episode reform title layer noodle mushroom crop empower";
+var mnemonic = "honey famous volcano grain mirror relax word primary domain general grass loud";

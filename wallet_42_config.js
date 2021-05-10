@@ -1,1 +1,1 @@
-var mnemonic = "path clip frost earth kiss sort season whisper century supply assist team";
+var mnemonic = "differ snake struggle divorce rich wheat analyst save insane uniform acoustic gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "network flee gesture reward lens fetch solution power lamp token endless nerve";
+var mnemonic = "chimney resource interest ten wet cash common soft fortune hip time citizen";

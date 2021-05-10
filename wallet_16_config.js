@@ -1,1 +1,1 @@
-var mnemonic = "stamp vote sustain radio fortune leopard grape immense tomorrow borrow view much";
+var mnemonic = "exchange man lift math dragon cat mom middle hope tackle cactus pet";

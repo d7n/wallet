@@ -1,1 +1,1 @@
-var mnemonic = "scene plastic local length awesome energy stage ice render velvet pause nasty";
+var mnemonic = "slot parrot pause spring apart agree spot silk meat lounge soft car";

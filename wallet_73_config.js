@@ -1,1 +1,1 @@
-var mnemonic = "soda coffee assume tissue song favorite village race dad derive void general";
+var mnemonic = "hungry message hello gain obtain design dust scale figure yellow idea chat";

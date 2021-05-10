@@ -1,1 +1,1 @@
-var mnemonic = "attract suspect fat cover old start fan ancient material plunge hamster cluster";
+var mnemonic = "then shrimp gloom crouch salt ritual shell alarm rib economy cement knock";

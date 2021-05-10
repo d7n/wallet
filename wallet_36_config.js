@@ -1,1 +1,1 @@
-var mnemonic = "arrange east just item move income point swap symbol major emotion mouse";
+var mnemonic = "ship fine noodle dry father earn anchor shiver ripple calm speed daughter";

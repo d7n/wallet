@@ -1,1 +1,1 @@
-var mnemonic = "level work brief seven fuel movie already ridge leaf civil noble horse";
+var mnemonic = "inner tent liar print educate angle tattoo blouse snow burden flight pipe";

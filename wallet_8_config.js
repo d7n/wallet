@@ -1,1 +1,1 @@
-var mnemonic = "worth rifle enforce there rebel crisp soda amused zoo average nice rocket";
+var mnemonic = "twenty mandate danger snow outside crunch file inmate bike photo asset behind";

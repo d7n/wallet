@@ -1,1 +1,1 @@
-var mnemonic = "accuse daring business cluster arch force drift erupt myself success comic exclude";
+var mnemonic = "twin enroll achieve midnight loyal payment two media forum afraid act income";

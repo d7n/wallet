@@ -1,1 +1,1 @@
-var mnemonic = "rice foam utility weather silent taxi use series average shock run fix";
+var mnemonic = "giraffe cover drop divorce emerge cabin stadium broom crop short hamster acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "pet spot oyster permit purse save panda keep leopard amateur more portion";
+var mnemonic = "habit panic chair ripple dawn citizen switch cram ozone mistake april dolphin";

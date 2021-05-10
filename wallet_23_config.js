@@ -1,1 +1,1 @@
-var mnemonic = "smoke then will humor atom agree gate wonder addict orbit ridge tree";
+var mnemonic = "myself initial entire enhance thought render annual south cluster patch robot citizen";

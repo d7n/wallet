@@ -1,1 +1,1 @@
-var mnemonic = "abandon narrow circle pyramid diesel increase govern night quarter into canvas boat";
+var mnemonic = "relax wheel cost dizzy talk close pledge brave noble vibrant dog angry";

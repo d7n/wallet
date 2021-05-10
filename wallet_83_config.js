@@ -1,1 +1,1 @@
-var mnemonic = "frost mutual student modify ranch slender concert holiday boost benefit veteran guard";
+var mnemonic = "sick record artist impose more double fix piano rule chronic heavy fluid";

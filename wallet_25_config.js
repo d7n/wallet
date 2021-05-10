@@ -1,1 +1,1 @@
-var mnemonic = "dry nice either few jealous wonder beef input beauty echo link valve";
+var mnemonic = "knee quarter noise soup trial session detail fault host educate ribbon supply";

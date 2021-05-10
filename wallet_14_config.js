@@ -1,1 +1,1 @@
-var mnemonic = "scan drink ice airport juice casino area body boost undo tomato measure";
+var mnemonic = "rice disease retire fortune whip habit bamboo club embrace priority lounge army";

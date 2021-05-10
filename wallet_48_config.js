@@ -1,1 +1,1 @@
-var mnemonic = "column effort reward expect side ask lemon unaware chief quick special oven";
+var mnemonic = "odor corn sort glove pioneer wire simple torch law scheme rent bridge";

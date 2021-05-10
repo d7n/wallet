@@ -1,1 +1,1 @@
-var mnemonic = "van naive rich kangaroo people spend betray toss future sleep feed abandon";
+var mnemonic = "jaguar couch purse canvas thought voice excite labor mind negative increase flight";

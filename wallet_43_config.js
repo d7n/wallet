@@ -1,1 +1,1 @@
-var mnemonic = "together theory calm civil milk cousin cinnamon tumble fan announce face inflict";
+var mnemonic = "brush approve twice latin screen few real version snow civil west balance";

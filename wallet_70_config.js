@@ -1,1 +1,1 @@
-var mnemonic = "luxury profit beauty bag bubble toward kite conduct ill practice wire pumpkin";
+var mnemonic = "swallow upgrade pioneer mansion because tennis neither word fresh solution alley muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze enroll wedding shallow skull endless survey timber scene number foot crowd";
+var mnemonic = "valid demand blanket devote left people inhale cushion quote diagram color employ";

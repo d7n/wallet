@@ -1,1 +1,1 @@
-var mnemonic = "element spatial nut shove pitch open wrong galaxy royal useful dream ivory";
+var mnemonic = "penalty strategy artist blade special donate federal cabin disease gown oven best";

@@ -1,1 +1,1 @@
-var mnemonic = "top vendor speed hair teach shaft renew acquire deer barrel image rack";
+var mnemonic = "behave knock artist offer sound will robust draw wine verb spend craft";

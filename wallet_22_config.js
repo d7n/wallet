@@ -1,1 +1,1 @@
-var mnemonic = "donkey disease purity motor laundry noise opinion guide crucial evil puzzle know";
+var mnemonic = "bid require analyst machine ketchup excite attitude icon crucial aspect attitude chief";

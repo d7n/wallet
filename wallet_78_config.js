@@ -1,1 +1,1 @@
-var mnemonic = "mixed picnic ancient age city style license midnight unaware report asthma cry";
+var mnemonic = "laptop boat digital swallow ginger usage tag nurse meadow credit museum orbit";

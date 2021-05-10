@@ -1,1 +1,1 @@
-var mnemonic = "alter coral mail trophy puppy critic actress guard hammer tape own mad";
+var mnemonic = "step erosion estate virus proof know divert monster ramp explain chimney year";

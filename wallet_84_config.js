@@ -1,1 +1,1 @@
-var mnemonic = "pulp jacket hockey mad favorite put cluster resource case ladder lazy busy";
+var mnemonic = "indicate penalty smooth wise shield bottom tank cup patch similar clip absent";

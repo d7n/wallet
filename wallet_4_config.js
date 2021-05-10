@@ -1,1 +1,1 @@
-var mnemonic = "resemble rebuild seek unhappy peanut key siren agent grid advice cage warrior";
+var mnemonic = "cliff crawl hope donkey flame reveal pistol dance margin that trust owner";

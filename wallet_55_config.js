@@ -1,1 +1,1 @@
-var mnemonic = "put plate amused rubber board vintage amused move sting foot nest acoustic";
+var mnemonic = "fitness grab own tuna dignity bubble proof moral oyster tourist pigeon lizard";

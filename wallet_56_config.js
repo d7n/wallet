@@ -1,1 +1,1 @@
-var mnemonic = "brown modify gain town energy green fringe result loan day twist ill";
+var mnemonic = "custom sustain inner fold insane course civil mimic green chalk evolve degree";

@@ -1,1 +1,1 @@
-var mnemonic = "idea jeans smooth sad mutual rotate pact monkey catch erode gaze nice";
+var mnemonic = "turtle hint common behind suit robot vague luggage connect retreat place announce";

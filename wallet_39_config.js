@@ -1,1 +1,1 @@
-var mnemonic = "ripple icon decade buffalo old chat toss business goddess toilet clinic claim";
+var mnemonic = "awful lunch ordinary potato spike electric genuine gain damage gravity olympic table";

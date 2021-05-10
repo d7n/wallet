@@ -1,1 +1,1 @@
-var mnemonic = "monitor snap absorb seek behave tobacco clever twin arrive stuff scorpion always";
+var mnemonic = "casino tenant spawn crater hobby grab joke exclude section license reopen expect";

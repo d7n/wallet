@@ -1,1 +1,1 @@
-var mnemonic = "crash midnight wide token rebuild elevator vacuum bicycle rain scare initial object";
+var mnemonic = "slush dolphin sting faint own hour rather satisfy talk broom buyer fish";

@@ -1,1 +1,1 @@
-var mnemonic = "where tiny chair decorate useless rude doctor very describe fever license enrich";
+var mnemonic = "style usual reflect gather arrange garbage sport pole leg year toss earn";

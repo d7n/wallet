@@ -1,1 +1,1 @@
-var mnemonic = "quit art neutral better fiscal tumble palm worry essay broccoli mimic pumpkin";
+var mnemonic = "pulp ice adult girl beauty zoo gauge bench input song inner orient";

@@ -1,1 +1,1 @@
-var mnemonic = "outside cinnamon win disagree learn olive okay sleep bracket hen sweet season";
+var mnemonic = "property pelican crunch error toe someone argue impulse fit episode chimney obvious";

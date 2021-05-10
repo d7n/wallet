@@ -1,1 +1,1 @@
-var mnemonic = "stove stairs buffalo museum discover jelly seminar denial into tomato inspire capital";
+var mnemonic = "hover evoke chase notable tuition quick acoustic film jungle balance damage globe";

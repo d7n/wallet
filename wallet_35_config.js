@@ -1,1 +1,1 @@
-var mnemonic = "blade rotate lumber fashion warrior wheel deal true cabin fold sustain border";
+var mnemonic = "pulp vote much stem denial symbol deposit cement jazz vessel shield light";

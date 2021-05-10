@@ -1,1 +1,1 @@
-var mnemonic = "abandon banana satisfy weird junk pool okay beef cabbage what velvet join";
+var mnemonic = "raven neglect flavor cluster neutral floor print dove pigeon purse student opinion";

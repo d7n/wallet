@@ -1,1 +1,1 @@
-var mnemonic = "staff anger garage ozone stage liberty relax reunion sign embrace exact girl";
+var mnemonic = "math chicken guitar humble puzzle reform seek scrap sphere hair squeeze where";

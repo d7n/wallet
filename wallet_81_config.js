@@ -1,1 +1,1 @@
-var mnemonic = "machine raise sure disagree labor supreme rule almost burden humble copper clerk";
+var mnemonic = "palm hobby dinner jeans budget relief climb middle demise thumb fork current";

@@ -1,1 +1,1 @@
-var mnemonic = "divert mountain style coffee foster void powder idle basket loop devote coil";
+var mnemonic = "cupboard monkey random return blast basket fitness puppy another mule minute canyon";

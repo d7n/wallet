@@ -1,1 +1,1 @@
-var mnemonic = "length destroy high acquire patch east cube car auction mom alarm orbit";
+var mnemonic = "pencil easily already aerobic galaxy boost price another submit someone shadow strike";

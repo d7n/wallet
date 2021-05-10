@@ -1,1 +1,1 @@
-var mnemonic = "burden joy glare loop fit mad supreme effort income planet also drive";
+var mnemonic = "cruise attend jump brisk student degree human journey host absurd note live";

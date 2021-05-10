@@ -1,1 +1,1 @@
-var mnemonic = "supply thing mountain boost ramp save urban favorite dance damage various pond";
+var mnemonic = "motion chalk tree gate next turkey hamster maid kangaroo weird broom spray";

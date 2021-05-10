@@ -1,1 +1,1 @@
-var mnemonic = "recycle shell friend frown grit nephew pupil elegant chunk atom identify census";
+var mnemonic = "hospital real enjoy brick inquiry topple rifle armor replace entry either ribbon";
