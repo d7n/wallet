@@ -1,1 +1,1 @@
-var mnemonic = "voyage okay scatter lake matrix brain absent crane dutch spike soul wife";
+var mnemonic = "poet swamp latin snake fatal damage panel smooth harvest tank flip chef";

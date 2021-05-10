@@ -1,1 +1,1 @@
-var mnemonic = "glove ribbon never cake predict above myself peasant leisure discover mom flight";
+var mnemonic = "cluster river oppose obscure gossip gaze include play drill tunnel leisure theme";

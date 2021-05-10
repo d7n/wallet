@@ -1,1 +1,1 @@
-var mnemonic = "core multiply patch level together squeeze crane awful fly review cause humble";
+var mnemonic = "govern alone gadget weekend quarter border erode universe write ginger master history";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile velvet stereo great symbol project twist control install clown order eternal";
+var mnemonic = "dust hello pudding angle hospital multiply nerve boring loop kitten behind small";

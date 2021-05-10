@@ -1,1 +1,1 @@
-var mnemonic = "celery today borrow sudden nose health cancel lock excuse melt grace travel";
+var mnemonic = "mechanic amazing spell slight hint speak scissors clog helmet steel race puppy";

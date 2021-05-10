@@ -1,1 +1,1 @@
-var mnemonic = "strike inflict auto crucial tunnel media silver smoke toilet mimic execute trigger";
+var mnemonic = "left machine glimpse regret suspect mosquito slim pledge grit stone swap sleep";

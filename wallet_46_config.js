@@ -1,1 +1,1 @@
-var mnemonic = "rubber leopard lens actress swap reason into apology benefit rice wealth fat";
+var mnemonic = "monster toast library harvest add powder leader argue adult tortoise magic certain";

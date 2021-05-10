@@ -1,1 +1,1 @@
-var mnemonic = "talk sugar paper twelve crater bachelor pioneer genre crack junk mandate frame";
+var mnemonic = "split insect style gravity brass crisp domain canoe voyage permit family genius";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff admit frequent lake ozone waste pelican arrive theory steel syrup foot";
+var mnemonic = "ensure cup always issue person matrix chest solution prepare anxiety round device";

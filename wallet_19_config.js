@@ -1,1 +1,1 @@
-var mnemonic = "canoe zone wedding nothing color toe cover pupil prepare offer check river";
+var mnemonic = "surface office fringe hurt person hour mercy mosquito human blouse sweet grief";

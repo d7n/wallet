@@ -1,1 +1,1 @@
-var mnemonic = "setup wet prison bean curve urge label grit average gauge world absorb";
+var mnemonic = "wagon item kiwi bring order split pave position path soup cart thrive";

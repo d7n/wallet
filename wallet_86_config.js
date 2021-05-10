@@ -1,1 +1,1 @@
-var mnemonic = "blur crystal curtain adapt infant fancy wear staff canvas kit clip figure";
+var mnemonic = "deposit ice blue run mom axis banner alley arrow oyster float shed";

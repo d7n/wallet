@@ -1,1 +1,1 @@
-var mnemonic = "hand arrange weird situate flower cloth galaxy pen grunt strong myth wolf";
+var mnemonic = "shop arrive gloom emerge trim fence void bitter sunset aware cupboard kiss";

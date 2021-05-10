@@ -1,1 +1,1 @@
-var mnemonic = "online alert wrist narrow okay cruise slow glide ski settle order drill";
+var mnemonic = "fantasy barely siren wide bullet soul mean quote basket close pottery genuine";

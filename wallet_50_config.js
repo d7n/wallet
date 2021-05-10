@@ -1,1 +1,1 @@
-var mnemonic = "farm license warm yard silk mean fortune father apart tomato lamp always";
+var mnemonic = "bleak extend globe fine refuse vague stamp gravity biology drill short impact";

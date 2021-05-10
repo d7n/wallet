@@ -1,1 +1,1 @@
-var mnemonic = "slow balance lamp funny wrist rule mobile today pistol pair elephant relax";
+var mnemonic = "boat reopen churn slam weapon palm farm dynamic mouse annual describe humor";

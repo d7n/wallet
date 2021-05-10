@@ -1,1 +1,1 @@
-var mnemonic = "area exact camp solve select tomato valid idle prepare oyster install weather";
+var mnemonic = "unable device chest arrive night tumble dilemma ticket rib pull attitude world";

@@ -1,1 +1,1 @@
-var mnemonic = "chef spatial fire dismiss off photo detail wait physical spot basic blossom";
+var mnemonic = "hood original monitor theme sugar squeeze cricket laugh youth thought dawn tragic";

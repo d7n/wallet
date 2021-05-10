@@ -1,1 +1,1 @@
-var mnemonic = "hawk shock lend better limb reform dad gym sorry day clutch spirit";
+var mnemonic = "abandon sun cactus long between ankle evil draft float upset dove double";

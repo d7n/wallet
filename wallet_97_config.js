@@ -1,1 +1,1 @@
-var mnemonic = "plug duck unfold two dwarf wealth uncover grief virtual sweet awful vanish";
+var mnemonic = "weather gallery response eager wool clay verify decide express shoe member hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "couple silk wonder empty decline dismiss era walk car swift atom typical";
+var mnemonic = "armed leave social laptop until broom false grab caution where apple entry";

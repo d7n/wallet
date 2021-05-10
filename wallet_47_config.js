@@ -1,1 +1,1 @@
-var mnemonic = "stand calm rich please voice rubber victory what swear base boy master";
+var mnemonic = "urban blame unit predict winner marble erase service alert husband fresh brush";

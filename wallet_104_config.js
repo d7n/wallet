@@ -1,1 +1,1 @@
-var mnemonic = "orchard release gate east avoid wing robust acquire foster deposit ahead phone";
+var mnemonic = "pet merry runway damp forward march maple midnight slight vote wise cube";

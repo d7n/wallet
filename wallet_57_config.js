@@ -1,1 +1,1 @@
-var mnemonic = "answer shine glow fish equal dilemma chunk harsh robot picnic potato mimic";
+var mnemonic = "theme trophy cabin client gaze adult biology guitar remain vanish blue convince";

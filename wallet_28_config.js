@@ -1,1 +1,1 @@
-var mnemonic = "fossil dog private ozone thing prosper insect monitor climb desert people night";
+var mnemonic = "dragon volume consider state valley moon assume mutual prosper heavy seven invite";

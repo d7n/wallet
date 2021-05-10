@@ -1,1 +1,1 @@
-var mnemonic = "ignore emerge retreat apology dilemma grunt grid bacon flash special insect breeze";
+var mnemonic = "girl race joy laugh strike clinic raise custom ivory wonder solution whip";

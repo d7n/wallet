@@ -1,1 +1,1 @@
-var mnemonic = "rose produce tumble quit merry bridge minimum popular soap old seek add";
+var mnemonic = "firm annual wisdom north ceiling suit insect vacuum truly exhaust image gadget";

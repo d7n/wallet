@@ -1,1 +1,1 @@
-var mnemonic = "endorse north dumb long depart choose fade genre evidence flash little tree";
+var mnemonic = "question escape biology satoshi sail creek erosion field regular dad permit call";

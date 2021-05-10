@@ -1,1 +1,1 @@
-var mnemonic = "aware scorpion prepare copper predict chest large awkward never swim airport mystery";
+var mnemonic = "rough hollow inform rabbit win drama merge weekend visa inquiry differ economy";

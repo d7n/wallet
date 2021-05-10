@@ -1,1 +1,1 @@
-var mnemonic = "fossil observe powder token benefit scare hat hen bottom time ankle next";
+var mnemonic = "tree vivid brass raw clarify worth eagle punch sword pudding hamster pistol";

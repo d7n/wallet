@@ -1,1 +1,1 @@
-var mnemonic = "bamboo miracle actor trash pigeon drink just shaft oven enforce refuse about";
+var mnemonic = "eyebrow ranch chase warfare pill royal maple twenty audit little private kidney";

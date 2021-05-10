@@ -1,1 +1,1 @@
-var mnemonic = "leader drink lyrics obey journey depth arm rain hurdle strategy exercise glory";
+var mnemonic = "usage execute climb dose phrase attack pink style energy parade huge oblige";

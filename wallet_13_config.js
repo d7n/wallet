@@ -1,1 +1,1 @@
-var mnemonic = "square frame tortoise vapor napkin snake surge puppy mixture celery bounce bulk";
+var mnemonic = "myself snow shove unlock ordinary physical ring dizzy enter outer vicious dial";

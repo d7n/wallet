@@ -1,1 +1,1 @@
-var mnemonic = "rebuild media lend skull unit toy please emotion ketchup slogan solid pass";
+var mnemonic = "dizzy muffin humble corn almost spend road chronic amateur essence daughter universe";

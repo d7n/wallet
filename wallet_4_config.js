@@ -1,1 +1,1 @@
-var mnemonic = "divert tent gasp balcony cook royal puppy accident cool drum great crucial";
+var mnemonic = "great depend theme menu memory icon lottery stuff hurdle method vacant despair";

@@ -1,1 +1,1 @@
-var mnemonic = "clap side soft attack deliver feel office feed whip verb key stamp";
+var mnemonic = "dumb still shield bone bonus call sock recipe rotate claim joy fashion";

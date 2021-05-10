@@ -1,1 +1,1 @@
-var mnemonic = "fossil easy when deal host wisdom faint amateur guide worry roof tide";
+var mnemonic = "maze city feel garment adapt flash cheap bid dress ill text ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "step quantum define retire buddy orange release mesh road foam stadium room";
+var mnemonic = "scissors worry unveil screen door maple siege dismiss pave quick weasel connect";

@@ -1,1 +1,1 @@
-var mnemonic = "deny profit punch dilemma hair rare wonder behind angry infant valid drop";
+var mnemonic = "indoor senior liar pledge hobby fuel list random anchor camera ozone clap";

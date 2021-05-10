@@ -1,1 +1,1 @@
-var mnemonic = "usage laugh shed subject heart level toy salt adapt million about toe";
+var mnemonic = "brisk blame neither trigger stove science detect almost sand because ribbon boring";

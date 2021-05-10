@@ -1,1 +1,1 @@
-var mnemonic = "advice appear bounce glow glove climb arrow soul radio trigger shrug fire";
+var mnemonic = "attack silk supply coral lava bike wool master pair step sniff depth";

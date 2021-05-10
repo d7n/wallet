@@ -1,1 +1,1 @@
-var mnemonic = "tribe olympic future armor purse little cloth panda fringe buyer mule canyon";
+var mnemonic = "web wear educate immune remember keep tuna slogan violin control raise cattle";

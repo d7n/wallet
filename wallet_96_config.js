@@ -1,1 +1,1 @@
-var mnemonic = "message lamp smooth rent entry slide soap number enroll inherit twist choice";
+var mnemonic = "praise jump evidence alley blanket mom gate sure blind recipe friend decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "magic deny account result repair detail blind mother derive help this rose";
+var mnemonic = "advance pipe subway pledge cup zebra quality column core ceiling opinion busy";

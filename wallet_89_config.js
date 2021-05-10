@@ -1,1 +1,1 @@
-var mnemonic = "split loud various stairs jungle permit uniform very hover grain similar portion";
+var mnemonic = "antique impact goat cable air soup tribe simple settle direct elite enemy";

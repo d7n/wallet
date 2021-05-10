@@ -1,1 +1,1 @@
-var mnemonic = "slush bless bomb leaf alien word silly sister vapor glove this wheel";
+var mnemonic = "six senior patch model tomorrow blast lake face trigger echo delay illness";

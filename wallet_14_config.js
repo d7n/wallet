@@ -1,1 +1,1 @@
-var mnemonic = "movie corn borrow bomb tide treat latin author burden this impact galaxy";
+var mnemonic = "trigger limit actor cigar master narrow also beef egg system super share";

@@ -1,1 +1,1 @@
-var mnemonic = "measure photo banner grab web joke quiz case shoe slim eight skull";
+var mnemonic = "brown scout penalty candy abuse tired glance series merge aware census pipe";

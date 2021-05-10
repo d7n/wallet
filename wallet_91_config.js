@@ -1,1 +1,1 @@
-var mnemonic = "maid immune cheese balance moon equal fiber word furnace spread ask matrix";
+var mnemonic = "ripple enroll stand picture market rich draw assume record fiscal nation jaguar";

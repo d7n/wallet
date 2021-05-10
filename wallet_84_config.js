@@ -1,1 +1,1 @@
-var mnemonic = "hold wage base entire mind shrimp stem twice offer fan labor depart";
+var mnemonic = "diary team front distance promote ensure fuel miracle fringe end coconut plate";

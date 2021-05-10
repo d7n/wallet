@@ -1,1 +1,1 @@
-var mnemonic = "coach vessel apart mention mushroom hip clay churn never pledge polar horn";
+var mnemonic = "daring regret matrix aisle grocery cigar scout exact merit property certain arch";

@@ -1,1 +1,1 @@
-var mnemonic = "dream walk hollow oil adjust connect suggest brick funny street icon effort";
+var mnemonic = "fine cloth leaf milk couple scare review receive flavor wolf quick able";

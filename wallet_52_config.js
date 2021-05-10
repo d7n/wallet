@@ -1,1 +1,1 @@
-var mnemonic = "connect modify exile diesel damp dilemma limb tobacco fresh jar manage mule";
+var mnemonic = "crumble method fan lecture lyrics daughter gain funny category half glass violin";

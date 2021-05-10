@@ -1,1 +1,1 @@
-var mnemonic = "notice offer whip prosper deer crash arm web scout shy spoon nose";
+var mnemonic = "area dumb bunker wrist dentist anger hold trust traffic universe possible mesh";

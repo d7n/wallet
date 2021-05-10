@@ -1,1 +1,1 @@
-var mnemonic = "coffee animal hood divorce permit update eight oblige match truly crazy claim";
+var mnemonic = "quality enough syrup pink impulse charge twin predict bitter flip concert steak";

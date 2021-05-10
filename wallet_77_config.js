@@ -1,1 +1,1 @@
-var mnemonic = "pony endorse one run moment poet mention assume sound great trial skate";
+var mnemonic = "garment smoke motion label crew pattern boat solid inner sadness snake critic";

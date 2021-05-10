@@ -1,1 +1,1 @@
-var mnemonic = "involve decide purity holiday trumpet spoon peasant only cram raise cargo risk";
+var mnemonic = "galaxy noise outer chat tray film cradle civil shoe shy main another";

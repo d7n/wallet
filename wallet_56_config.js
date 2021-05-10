@@ -1,1 +1,1 @@
-var mnemonic = "basic abuse orange invest unfold laundry term session mask minor hint almost";
+var mnemonic = "icon genius flock ordinary zero have off pride gorilla stuff occur insane";

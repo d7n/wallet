@@ -1,1 +1,1 @@
-var mnemonic = "will ability connect paper acquire hollow sausage venture melody aerobic paper warfare";
+var mnemonic = "mouse alone cradle raw excuse grid cute kind miracle select brain pause";

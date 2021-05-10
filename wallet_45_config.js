@@ -1,1 +1,1 @@
-var mnemonic = "liberty artefact gap allow phrase matrix february deer reopen wedding scissors jewel";
+var mnemonic = "recall wire attitude shock cherry vicious magnet valve civil shield wide nuclear";

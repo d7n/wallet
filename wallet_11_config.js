@@ -1,1 +1,1 @@
-var mnemonic = "avoid south attract spatial sunny hope zoo tell meat mushroom style grant";
+var mnemonic = "habit tail pyramid usual axis start abstract demise impose drink skirt loan";

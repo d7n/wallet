@@ -1,1 +1,1 @@
-var mnemonic = "weapon rain acoustic excess fame razor family display erupt three twelve near";
+var mnemonic = "divorce powder away page salmon gauge vault tide want glance fall mad";

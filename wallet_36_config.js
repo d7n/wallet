@@ -1,1 +1,1 @@
-var mnemonic = "effort rather tiger client point point stairs foil sister great hobby actress";
+var mnemonic = "antenna crowd surround knee gift seminar myth chicken middle monitor office wage";

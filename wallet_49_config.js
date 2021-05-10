@@ -1,1 +1,1 @@
-var mnemonic = "primary dinosaur slide pair photo sleep artist bright define glass faint art";
+var mnemonic = "chalk tumble index vintage mixture maximum base acid theory ready flock peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "boy lumber palace olympic trial weather sponsor hotel adapt office bacon credit";
+var mnemonic = "tattoo denial leopard virus trash manage angle sea bright person choice phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "title horse eyebrow dolphin unlock mistake office castle add that valve survey";
+var mnemonic = "stomach buyer proof decline wish still afford perfect giggle core unfold meat";

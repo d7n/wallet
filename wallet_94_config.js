@@ -1,1 +1,1 @@
-var mnemonic = "jungle tank already bulb similar spider salad say august enforce famous midnight";
+var mnemonic = "weird cheese desert donate abstract hunt puzzle pigeon advice junk nuclear order";

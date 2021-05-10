@@ -1,1 +1,1 @@
-var mnemonic = "egg useless wagon extra film lizard today squeeze truth know illness cancel";
+var mnemonic = "left accident alien erosion lock child arena girl drum guard mind dignity";

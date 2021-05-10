@@ -1,1 +1,1 @@
-var mnemonic = "person wealth damage group venue only depart fantasy trumpet elegant surface you";
+var mnemonic = "change business improve humble typical lizard arrest brass harsh neglect mesh frame";

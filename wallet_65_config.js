@@ -1,1 +1,1 @@
-var mnemonic = "bicycle write cash village excess buyer category frozen advice express stamp stadium";
+var mnemonic = "whisper grape model cancel clean glance lesson tenant diary wise ridge pair";

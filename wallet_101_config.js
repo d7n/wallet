@@ -1,1 +1,1 @@
-var mnemonic = "sick mule either immune tunnel travel recipe flag issue effort never track";
+var mnemonic = "strong immune amused change today shallow shoe leader must valve tank city";

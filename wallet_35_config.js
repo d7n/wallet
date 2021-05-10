@@ -1,1 +1,1 @@
-var mnemonic = "twelve level tenant oblige blade razor gap unlock cream salmon between opera";
+var mnemonic = "laptop hunt okay derive typical circle chimney swear link dial faculty pulse";

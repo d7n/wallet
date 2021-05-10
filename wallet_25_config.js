@@ -1,1 +1,1 @@
-var mnemonic = "chunk ball festival habit peanut left topic oxygen region cram sting lawn";
+var mnemonic = "aunt excuse dinosaur section asset engine kid crumble inflict average truly rookie";

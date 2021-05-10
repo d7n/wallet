@@ -1,1 +1,1 @@
-var mnemonic = "liar resource boring lift arrive extra wise sponsor armor copy swear toward";
+var mnemonic = "jungle crane find economy worry broccoli loud bike shoulder own vital luggage";

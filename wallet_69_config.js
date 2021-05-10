@@ -1,1 +1,1 @@
-var mnemonic = "praise birth easily donor claim glad rhythm impulse hollow useful tell dry";
+var mnemonic = "task orient argue symbol sausage swamp frequent jealous three bubble notable nest";

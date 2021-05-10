@@ -1,1 +1,1 @@
-var mnemonic = "often illness enter teach soda live denial any nuclear poet yellow drip";
+var mnemonic = "intact practice design space point joy finger elbow main rookie usual cream";

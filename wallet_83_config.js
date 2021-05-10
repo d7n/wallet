@@ -1,1 +1,1 @@
-var mnemonic = "surprise ozone fun fault limb purpose cannon state cash bright digital exclude";
+var mnemonic = "arrive below walnut rebel vague suffer umbrella detect emotion nominee awake betray";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup result property grant demise forward pear divorce sample spawn mutual bracket";
+var mnemonic = "brisk vast still detail rough wool crisp eager retire yellow dose stay";

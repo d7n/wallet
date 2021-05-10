@@ -1,1 +1,1 @@
-var mnemonic = "clerk urge catalog bread pluck kick merry tonight usual brother scatter artwork";
+var mnemonic = "sick champion math boost remember gorilla effort search pelican identify item height";

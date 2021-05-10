@@ -1,1 +1,1 @@
-var mnemonic = "minimum huge noodle enter never onion thought skirt route digital fancy vacant";
+var mnemonic = "chef wasp theory giant sadness jazz love rug water total text wet";

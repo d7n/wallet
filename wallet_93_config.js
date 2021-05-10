@@ -1,1 +1,1 @@
-var mnemonic = "flat wrestle victory mansion visual wing okay pair come layer false toward";
+var mnemonic = "knock onion border rescue elite balcony mention cube garden mix undo disagree";

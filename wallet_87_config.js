@@ -1,1 +1,1 @@
-var mnemonic = "comfort sleep pelican found shift custom joke differ job panel random tank";
+var mnemonic = "suggest rough bridge work stay icon issue twelve box tennis tonight gift";

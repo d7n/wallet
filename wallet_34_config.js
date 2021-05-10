@@ -1,1 +1,1 @@
-var mnemonic = "wall route deputy weasel coil black require poem tool dog art assume";
+var mnemonic = "afford recycle latin slam sponsor thrive puzzle size pass stereo muffin forget";

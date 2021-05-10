@@ -1,1 +1,1 @@
-var mnemonic = "night spy material leaf ring wreck powder swallow peanut wash visual globe";
+var mnemonic = "struggle hood regular link stem river snake system absorb victory abuse embark";

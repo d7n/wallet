@@ -1,1 +1,1 @@
-var mnemonic = "expect spin tail battle extend defy goose valve decorate orbit pledge sustain";
+var mnemonic = "gown acoustic half trip goose aerobic donate way student flip vacant burst";

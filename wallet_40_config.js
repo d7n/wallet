@@ -1,1 +1,1 @@
-var mnemonic = "food clarify enough disease tape cruise affair endorse network betray almost ahead";
+var mnemonic = "breeze entry disease fragile nuclear harbor put eagle critic bullet guilt resist";

@@ -1,1 +1,1 @@
-var mnemonic = "lift script merry list crisp call water similar envelope tooth knife glimpse";
+var mnemonic = "casino window goat atom dad enough inherit pact jar arrest enhance another";
