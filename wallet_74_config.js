@@ -1,1 +1,1 @@
-var mnemonic = "pig student uniform junior legal news celery wood decorate grain twenty stock";
+var mnemonic = "ten other sleep spend drill interest history rice question hello three labor";

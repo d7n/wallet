@@ -1,1 +1,1 @@
-var mnemonic = "open salon margin portion gossip enemy decrease fat mouse approve spawn mix";
+var mnemonic = "tray cloth reflect ranch coffee runway ranch better symbol trim clown box";

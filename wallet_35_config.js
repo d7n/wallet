@@ -1,1 +1,1 @@
-var mnemonic = "retire oyster retreat entire cricket message turtle fox desert resist fault option";
+var mnemonic = "chase choose lawn forward dream smoke fire street dutch picture talk beef";

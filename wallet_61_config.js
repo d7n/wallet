@@ -1,1 +1,1 @@
-var mnemonic = "surprise winter bid bulb siren source turtle excess predict remove pretty kitten";
+var mnemonic = "industry shop derive minor front miracle path purse panel prefer damage time";

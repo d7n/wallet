@@ -1,1 +1,1 @@
-var mnemonic = "critic water lemon south wire survey cook bus own nut property jeans";
+var mnemonic = "goose jump vessel observe latin strong unhappy patrol usual impose fix connect";

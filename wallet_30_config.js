@@ -1,1 +1,1 @@
-var mnemonic = "time satoshi soldier ladder knock consider tent bright royal ball rib runway";
+var mnemonic = "wrap field ready harsh dilemma zero casual glass master cloud order bird";

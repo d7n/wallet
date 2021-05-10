@@ -1,1 +1,1 @@
-var mnemonic = "april retreat notable grain pony analyst pepper cabbage panic circle favorite slogan";
+var mnemonic = "laptop mountain extend cry bar age seek suspect dinosaur slide grain father";

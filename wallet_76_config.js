@@ -1,1 +1,1 @@
-var mnemonic = "parent truck float december student fiction green burden roast match cloth brush";
+var mnemonic = "horn trim danger chimney foot off disagree analyst grow sample pudding task";

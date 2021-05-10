@@ -1,1 +1,1 @@
-var mnemonic = "tiger easily total rural gun plunge plug spirit lawn flag industry strong";
+var mnemonic = "control slot number asset truck best canoe tribe dress obey picture hen";

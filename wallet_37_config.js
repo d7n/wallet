@@ -1,1 +1,1 @@
-var mnemonic = "hammer until cherry matter cabbage ten kind bike review evoke knee chuckle";
+var mnemonic = "tribe ticket harvest wife glow cloth patch office receive civil envelope volcano";

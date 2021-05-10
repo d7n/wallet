@@ -1,1 +1,1 @@
-var mnemonic = "ball moon chunk opera run nose siren guitar approve curtain cook very";
+var mnemonic = "easily salt lens cancel million punch leg awake vanish slight saddle hazard";

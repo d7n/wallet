@@ -1,1 +1,1 @@
-var mnemonic = "force economy unhappy cram develop vacuum rug stuff behave story bike pool";
+var mnemonic = "chunk release term repeat garage speed ginger forget talent shoe hurt cable";

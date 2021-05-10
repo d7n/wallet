@@ -1,1 +1,1 @@
-var mnemonic = "need credit curtain spatial motion mango bless lab gossip bless dose novel";
+var mnemonic = "month nephew area develop early chapter angle hero duck other blade table";

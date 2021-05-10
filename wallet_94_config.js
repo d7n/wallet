@@ -1,1 +1,1 @@
-var mnemonic = "mention humble atom arctic minute fiscal jeans renew sorry protect gorilla cousin";
+var mnemonic = "kick inform fold sausage barely powder wine language spring early amazing north";

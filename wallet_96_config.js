@@ -1,1 +1,1 @@
-var mnemonic = "canyon convince come off pull rude gas east renew bulb sail diary";
+var mnemonic = "motion solar disagree blind cattle rival side rural perfect immune peasant help";

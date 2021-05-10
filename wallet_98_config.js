@@ -1,1 +1,1 @@
-var mnemonic = "deal hold bike discover capable birth proud rib cactus rate torch mystery";
+var mnemonic = "prison month village claw mystery echo beyond daughter shift test nuclear way";

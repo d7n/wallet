@@ -1,1 +1,1 @@
-var mnemonic = "joke stem airport crane diagram add flavor law zoo fever grace charge";
+var mnemonic = "season distance ill stuff lava seven favorite mobile chase gold suit melody";

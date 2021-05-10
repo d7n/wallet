@@ -1,1 +1,1 @@
-var mnemonic = "correct labor rice soccer hurdle reduce high add dash odor client helmet";
+var mnemonic = "amount shrug develop endorse couple okay live black card bus flat category";

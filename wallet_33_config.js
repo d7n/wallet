@@ -1,1 +1,1 @@
-var mnemonic = "rent rigid bone cannon urban credit satisfy gloom box nation magnet advice";
+var mnemonic = "absorb sheriff fatal media drive strike craft joy slice net disagree bounce";

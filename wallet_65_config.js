@@ -1,1 +1,1 @@
-var mnemonic = "opera tongue slice pipe rally off sell fly topic blue guide amateur";
+var mnemonic = "believe hobby monster camera battle later vicious industry boring mimic guide foot";

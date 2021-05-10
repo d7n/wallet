@@ -1,1 +1,1 @@
-var mnemonic = "large holiday update unit height radar fringe wrong episode ticket intact anchor";
+var mnemonic = "love donor test brass average short sausage cook slot between scrap fuel";

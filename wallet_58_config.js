@@ -1,1 +1,1 @@
-var mnemonic = "crawl humble guilt orbit under lecture goat parent coin what relax fabric";
+var mnemonic = "acoustic curtain material elite imitate vapor amused know glance door chase flash";

@@ -1,1 +1,1 @@
-var mnemonic = "comic frame update narrow embody potato cement mix company rapid tuna aim";
+var mnemonic = "hollow income course pencil square awesome profit summer police surprise front winner";

@@ -1,1 +1,1 @@
-var mnemonic = "library number amazing sibling illness paper entry identify mechanic camp bright recall";
+var mnemonic = "consider kitchen bitter awful enemy depart uncle bundle jar potato warfare shield";

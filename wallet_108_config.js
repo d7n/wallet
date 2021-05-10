@@ -1,1 +1,1 @@
-var mnemonic = "secret april voyage shrug science happy trim team address harsh blush dash";
+var mnemonic = "shoot man ice legal seminar divert castle soup carbon mouse bag zero";

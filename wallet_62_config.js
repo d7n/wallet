@@ -1,1 +1,1 @@
-var mnemonic = "smooth black guitar clean supply boring divorce impose speed found valve front";
+var mnemonic = "arrange canvas purpose update century oven attitude occur cable vapor cherry ring";

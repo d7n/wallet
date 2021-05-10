@@ -1,1 +1,1 @@
-var mnemonic = "empower surround correct during nest year bring federal afford nation bleak universe";
+var mnemonic = "razor project post cushion spike first lazy obscure thumb fantasy skirt repair";

@@ -1,1 +1,1 @@
-var mnemonic = "truly aware above will country horse butter dust menu clown envelope alcohol";
+var mnemonic = "service garment base axis save maple crime drum resource film jealous squeeze";

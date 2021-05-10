@@ -1,1 +1,1 @@
-var mnemonic = "time burst match say blood vapor focus armed wage uncover polar aim";
+var mnemonic = "grace possible treat near helmet stuff fiber logic curtain minimum august decide";

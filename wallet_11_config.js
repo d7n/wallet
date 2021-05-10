@@ -1,1 +1,1 @@
-var mnemonic = "hurdle fire base diet hobby wisdom pumpkin image crowd water chunk crystal";
+var mnemonic = "citizen cat strategy thank laugh sponsor season belt cargo fit tired struggle";

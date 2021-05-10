@@ -1,1 +1,1 @@
-var mnemonic = "fresh woman effort input immune winner pause reflect catalog second tool staff";
+var mnemonic = "index soon matter parade crunch nut faculty peace illness day gravity nice";

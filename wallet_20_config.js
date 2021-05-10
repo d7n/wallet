@@ -1,1 +1,1 @@
-var mnemonic = "promote vacant relief panic unknown course fly few snap umbrella review bullet";
+var mnemonic = "slush frozen never decade river myth phone nasty tail comic pitch ankle";

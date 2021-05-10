@@ -1,1 +1,1 @@
-var mnemonic = "height cupboard mushroom truth orange mutual sign essence joke mind ahead alter";
+var mnemonic = "whisper midnight kiss range card multiply industry issue acoustic joke coral drama";

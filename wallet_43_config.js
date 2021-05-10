@@ -1,1 +1,1 @@
-var mnemonic = "leaf possible filter ketchup light athlete race lunch excuse bunker valve lock";
+var mnemonic = "frame utility quantum dance foot embrace size west pelican blur fitness question";

@@ -1,1 +1,1 @@
-var mnemonic = "slot cherry sunset wolf speak rare keen crash check blade shiver amateur";
+var mnemonic = "camp property squeeze gravity bird feed pupil tiger seven ecology tuna south";

@@ -1,1 +1,1 @@
-var mnemonic = "couple thunder fog square goose zoo scale actor repeat ride melody hundred";
+var mnemonic = "whale arena husband collect cube boring cloth token mirror build donor liar";

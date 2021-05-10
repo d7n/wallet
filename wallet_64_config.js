@@ -1,1 +1,1 @@
-var mnemonic = "major cook always winner better prison ramp gold stamp play prepare fog";
+var mnemonic = "fortune globe axis tongue subject what thought theory ostrich pottery display unlock";

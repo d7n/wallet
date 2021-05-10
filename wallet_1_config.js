@@ -1,1 +1,1 @@
-var mnemonic = "screen slab document wonder guess derive all craft donkey follow critic century";
+var mnemonic = "steel disagree sword range invest clip visit lazy attitude kitchen decorate tribe";

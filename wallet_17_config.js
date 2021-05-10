@@ -1,1 +1,1 @@
-var mnemonic = "play wheat normal daughter wrestle armor still attitude true wedding wealth found";
+var mnemonic = "ensure aspect grow mandate butter breeze fat quality acoustic license short trip";

@@ -1,1 +1,1 @@
-var mnemonic = "rate depart minor flock anger cloth short rate smoke furnace foil armed";
+var mnemonic = "burst borrow lava ensure maid harsh invest oppose zone motor useful float";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel poverty impact metal slide ahead regret work ship chicken meat resource";
+var mnemonic = "tomorrow found ability minute fall hen orient auction sunny act motor crop";

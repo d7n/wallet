@@ -1,1 +1,1 @@
-var mnemonic = "scrub melody ketchup skill inform indicate analyst middle type brand sock fresh";
+var mnemonic = "boring salad great spare annual trigger outside gym couple embrace echo inhale";

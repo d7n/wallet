@@ -1,1 +1,1 @@
-var mnemonic = "rose hollow shield exist donkey boat genuine mom near adapt distance ready";
+var mnemonic = "aunt noodle siren worth offer donate pistol rebuild banana glove entire hidden";

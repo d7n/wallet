@@ -1,1 +1,1 @@
-var mnemonic = "punch fuel artist empty misery raise mom surprise bulb maple page menu";
+var mnemonic = "edit wink year small hard marine visa long shoe civil giraffe obey";

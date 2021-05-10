@@ -1,1 +1,1 @@
-var mnemonic = "snap manage slam meat dinner wasp staff pole hollow theme disease theory";
+var mnemonic = "captain marriage suggest panel orchard bread visual evoke flag middle ecology primary";

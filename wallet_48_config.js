@@ -1,1 +1,1 @@
-var mnemonic = "robust vessel subject phone shiver horror base thunder crop submit now wagon";
+var mnemonic = "cream decade palm snap mad celery battle inner nuclear series stove monkey";

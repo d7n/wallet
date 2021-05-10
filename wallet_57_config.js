@@ -1,1 +1,1 @@
-var mnemonic = "rebel stadium mistake twelve theme limb together sail stick ostrich foot version";
+var mnemonic = "supreme cloth angle multiply situate guard awesome spray pair clog goat brain";

@@ -1,1 +1,1 @@
-var mnemonic = "reject post conduct room about pulp vehicle decade reveal critic occur burden";
+var mnemonic = "quit mass amateur maid rain attend beach sport south another great sunny";

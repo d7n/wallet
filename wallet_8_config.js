@@ -1,1 +1,1 @@
-var mnemonic = "venue void near awesome gain panic what reveal core critic twenty local";
+var mnemonic = "choose oxygen forget acquire skate old edge monitor lava concert core dinner";

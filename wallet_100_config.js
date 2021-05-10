@@ -1,1 +1,1 @@
-var mnemonic = "enact olive fringe zone clerk trim boy else truck matrix hammer total";
+var mnemonic = "gown birth crisp image rail city spare matrix goddess slush capable shell";

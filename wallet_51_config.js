@@ -1,1 +1,1 @@
-var mnemonic = "dice athlete pelican husband axis review tool monitor offer acid clay bind";
+var mnemonic = "practice exercise draw share siege brave demise essay orphan discover exact jealous";

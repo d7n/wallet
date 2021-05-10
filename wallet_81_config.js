@@ -1,1 +1,1 @@
-var mnemonic = "gold today dice place term throw square hotel lunar old brand few";
+var mnemonic = "mask hockey swallow say sign this fork multiply neither change patch under";

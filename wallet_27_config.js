@@ -1,1 +1,1 @@
-var mnemonic = "rookie tank champion jar health bless check response dilemma matter private exact";
+var mnemonic = "put receive below forest suit canoe tumble east silk anxiety book heavy";

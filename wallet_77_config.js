@@ -1,1 +1,1 @@
-var mnemonic = "idea shift medal chapter spy iron weapon warfare soul light beach casino";
+var mnemonic = "wrap fault curve risk pulp mountain cupboard recipe urban entire valley vivid";

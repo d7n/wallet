@@ -1,1 +1,1 @@
-var mnemonic = "tortoise rib burger disagree space maid error relief mystery quality develop ramp";
+var mnemonic = "soccer library scrub detect artist rich category repair canoe poet swarm front";

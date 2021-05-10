@@ -1,1 +1,1 @@
-var mnemonic = "true crime detect record poem strategy lamp parade roast crystal disagree museum";
+var mnemonic = "twice delay cart enact harvest clog bus shuffle crater spirit lend trash";

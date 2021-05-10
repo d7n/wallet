@@ -1,1 +1,1 @@
-var mnemonic = "sand hollow praise dove innocent raise impose dad eagle captain treat news";
+var mnemonic = "vacuum more mutual urban around corn skate legend luggage wedding cool together";

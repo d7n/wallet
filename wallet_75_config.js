@@ -1,1 +1,1 @@
-var mnemonic = "intact peasant tell issue paddle typical airport smoke chapter mango grunt cheap";
+var mnemonic = "captain jar swarm author tail goose trial rely agree glory tennis version";

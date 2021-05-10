@@ -1,1 +1,1 @@
-var mnemonic = "pattern gospel scale choice joy scene price miracle dwarf credit weird oval";
+var mnemonic = "crime else exist motor peanut zebra budget window immense section file topic";

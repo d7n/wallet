@@ -1,1 +1,1 @@
-var mnemonic = "capital shoot trend category trim float appear wise peanut tenant cabbage build";
+var mnemonic = "dizzy scissors village judge kangaroo discover ivory icon glance concert smooth meat";

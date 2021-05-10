@@ -1,1 +1,1 @@
-var mnemonic = "egg sort champion fortune enough hedgehog jealous immense mirror find permit outside";
+var mnemonic = "rabbit acoustic cricket fiber swift exclude panic fold water state pottery people";

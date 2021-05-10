@@ -1,1 +1,1 @@
-var mnemonic = "topple dawn round drink exhaust lens salt engage shield proud paddle witness";
+var mnemonic = "east gold scatter shaft average copy major fall jelly panel quantum wreck";

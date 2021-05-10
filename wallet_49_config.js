@@ -1,1 +1,1 @@
-var mnemonic = "grow consider solid tornado village refuse sing define screen transfer enhance total";
+var mnemonic = "father leopard chunk duck hamster tragic industry clog kit success anchor shy";

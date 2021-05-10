@@ -1,1 +1,1 @@
-var mnemonic = "tornado adjust donkey affair panda pride sell sell opinion nest gown coffee";
+var mnemonic = "skin keep creek chef oblige cousin uphold super cream noise scatter cake";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon scene pitch brain energy enact beef primary main mail wisdom broom";
+var mnemonic = "reform monster merry report region pride save average also neglect lady arrive";

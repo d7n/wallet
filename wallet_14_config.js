@@ -1,1 +1,1 @@
-var mnemonic = "scatter session key usage worry smooth danger list hollow cash tumble armor";
+var mnemonic = "urban please false confirm bag plunge before meat claw tone ensure pet";

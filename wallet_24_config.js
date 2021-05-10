@@ -1,1 +1,1 @@
-var mnemonic = "mass foil another palm shoe such park jungle hawk mercy tail mouse";
+var mnemonic = "wheat pact impact stamp balance transfer nature write genuine tomorrow strike slot";

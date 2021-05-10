@@ -1,1 +1,1 @@
-var mnemonic = "notice margin dry wreck diary cat draw offer desert cake member lecture";
+var mnemonic = "piece joy business assault broom candy sausage medal prosper half garage arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid cram strike help poem adult maid blush around breeze donor broccoli";
+var mnemonic = "pet acoustic barrel quality genre fluid icon distance tired garbage digital similar";

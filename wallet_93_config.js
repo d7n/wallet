@@ -1,1 +1,1 @@
-var mnemonic = "crane near whisper again gather oval father trust liquid plastic bless laugh";
+var mnemonic = "toddler educate key delay broken modify render resist hello draft mass blossom";

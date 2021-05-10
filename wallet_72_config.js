@@ -1,1 +1,1 @@
-var mnemonic = "honey foot fault found author equal element toilet police soap proud deputy";
+var mnemonic = "used capable hope end frown connect rather inject lizard picture orchard radar";

@@ -1,1 +1,1 @@
-var mnemonic = "loud kiwi banana mandate sugar decline sadness mixture human common fetch festival";
+var mnemonic = "boy boring art split quiz typical bachelor charge common eight ostrich cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit make chronic mom theme trash domain boat sound message meadow brother";
+var mnemonic = "strategy mail idea orphan borrow concert rain stone there tiger unfair rough";

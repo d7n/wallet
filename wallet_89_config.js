@@ -1,1 +1,1 @@
-var mnemonic = "left shell into chimney end budget cliff east hold toss wash kingdom";
+var mnemonic = "bachelor suffer power print step middle slide ginger squirrel soap table affair";

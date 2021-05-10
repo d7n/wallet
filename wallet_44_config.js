@@ -1,1 +1,1 @@
-var mnemonic = "jelly charge number stock exercise ancient change notable solar gospel gravity bread";
+var mnemonic = "quiz chalk this tent dust coil nephew video vacant balcony coast enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "motion south window until leopard suspect father royal problem title snack hello";
+var mnemonic = "crack have bring oxygen vivid hundred animal else clever half tell vibrant";

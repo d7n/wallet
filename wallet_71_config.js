@@ -1,1 +1,1 @@
-var mnemonic = "vote inherit desk sense reopen field rhythm suffer phone mansion yellow useful";
+var mnemonic = "put feel review scheme orchard engage pond embrace cluster gentle punch ticket";

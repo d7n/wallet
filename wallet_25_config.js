@@ -1,1 +1,1 @@
-var mnemonic = "ship bind dust oven car suggest mean private brisk coconut trap camera";
+var mnemonic = "goose pact annual danger art humble ladder host two hen rival square";

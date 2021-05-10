@@ -1,1 +1,1 @@
-var mnemonic = "carbon ladder bulb wait color cruel laundry smooth mass arrive few vacant";
+var mnemonic = "situate fever reward enrich cry decade edit talk just message combine mass";

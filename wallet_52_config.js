@@ -1,1 +1,1 @@
-var mnemonic = "butter supreme nuclear jungle nephew spend punch alien spread ugly sad phrase";
+var mnemonic = "palm october leaf gasp check ordinary defy boy clinic rocket gospel donor";

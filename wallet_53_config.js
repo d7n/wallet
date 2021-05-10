@@ -1,1 +1,1 @@
-var mnemonic = "raise palace injury demise bundle chimney small opera coil abandon age rigid";
+var mnemonic = "faint ostrich joke notable mixture wasp flavor angle add worry ozone chase";

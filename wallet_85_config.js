@@ -1,1 +1,1 @@
-var mnemonic = "dash width atom elder buffalo drink drink blanket rubber wink sample gather";
+var mnemonic = "treat dress bronze name autumn base equip traffic member issue lawn nothing";

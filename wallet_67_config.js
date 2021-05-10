@@ -1,1 +1,1 @@
-var mnemonic = "young cradle enough puppy burden make ugly poem cash today effort artefact";
+var mnemonic = "couple tank hero business casino current way category unit exhibit recipe wrestle";

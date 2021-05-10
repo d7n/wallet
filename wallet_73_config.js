@@ -1,1 +1,1 @@
-var mnemonic = "destroy mandate yellow such extend inner alarm garment floor clip awful add";
+var mnemonic = "pave smile home hotel simple sadness donor armor fine dirt before end";

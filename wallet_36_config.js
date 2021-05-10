@@ -1,1 +1,1 @@
-var mnemonic = "claim trip depart drill advice people total legend again butter resemble dust";
+var mnemonic = "answer bubble sort discover party tide trim patient custom tank caught smooth";

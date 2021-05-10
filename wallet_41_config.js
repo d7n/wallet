@@ -1,1 +1,1 @@
-var mnemonic = "panel clock squirrel giant guitar olive winter window keen canvas season valley";
+var mnemonic = "divorce addict lamp provide various skate annual close force session office school";

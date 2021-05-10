@@ -1,1 +1,1 @@
-var mnemonic = "guard stand mobile buddy patch frog together flight magic awake mean prepare";
+var mnemonic = "burger ripple waste nuclear nurse praise connect census security chase copper index";

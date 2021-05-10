@@ -1,1 +1,1 @@
-var mnemonic = "club pipe logic orphan view sibling price opera angry toilet mean divert";
+var mnemonic = "cradle dawn universe resist chuckle length trouble planet carpet walk survey soon";

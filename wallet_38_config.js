@@ -1,1 +1,1 @@
-var mnemonic = "human answer social floor cause swear time blast soldier forget west stadium";
+var mnemonic = "wreck short chunk panic pig time fun rich run humble wish split";
