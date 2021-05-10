@@ -1,1 +1,1 @@
-var mnemonic = "damp sight unit slab embrace rely book cattle gap network pelican pudding";
+var mnemonic = "lock tortoise seven mercy spawn brave divide flock write rain badge hunt";

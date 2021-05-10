@@ -1,1 +1,1 @@
-var mnemonic = "whisper rent student motion orient ankle raw license vast sad total guide";
+var mnemonic = "swarm zero rule ethics duck capital sniff rifle shiver quit absurd whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle brush issue vast sad segment into cricket rigid dinner dinner hidden";
+var mnemonic = "conduct fun blossom struggle bleak cause envelope parent ozone wild police abuse";

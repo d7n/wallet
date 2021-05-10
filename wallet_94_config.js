@@ -1,1 +1,1 @@
-var mnemonic = "clump width toe educate clean female antenna document deliver liar ball business";
+var mnemonic = "assume kiss fitness wave recall pave outside champion obey hole normal rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "steak control unfold august grace enable annual sample blush guilt leaf caution";
+var mnemonic = "have pottery until they anchor park canoe media network coconut toss ship";

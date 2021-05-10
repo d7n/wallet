@@ -1,1 +1,1 @@
-var mnemonic = "vast snap hurt rocket misery connect sibling kit aspect empty machine stove";
+var mnemonic = "logic behave web index hole canyon puppy discover throw chicken enact awesome";

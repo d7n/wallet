@@ -1,1 +1,1 @@
-var mnemonic = "fossil floor nasty bargain cat horse virus jelly unfold mobile recipe impose";
+var mnemonic = "connect second couple spice teach enforce defense jelly daughter sentence winter minute";

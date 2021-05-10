@@ -1,1 +1,1 @@
-var mnemonic = "perfect faith space lizard blur field vehicle decline clever wool plug fatal";
+var mnemonic = "artist clerk truck mule switch young forward prefer leaf menu final blouse";

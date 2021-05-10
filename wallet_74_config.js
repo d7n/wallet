@@ -1,1 +1,1 @@
-var mnemonic = "sail arrange marble pipe want access furnace dad erosion razor duty finish";
+var mnemonic = "stuff plastic mom august ozone comfort glad predict crew normal require play";

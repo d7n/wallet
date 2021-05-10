@@ -1,1 +1,1 @@
-var mnemonic = "cycle side strike item surprise bundle lyrics pudding dice mystery design rally";
+var mnemonic = "suffer good battle burden bean negative egg year option certain soccer beyond";

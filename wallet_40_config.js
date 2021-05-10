@@ -1,1 +1,1 @@
-var mnemonic = "cricket viable whip assist conduct fatal achieve mix into miracle small fiction";
+var mnemonic = "scatter reform slight absent beyond bird shoulder blossom mountain assault observe drastic";

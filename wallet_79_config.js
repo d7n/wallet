@@ -1,1 +1,1 @@
-var mnemonic = "various amazing enact warfare install choose urge correct cricket marine angry calm";
+var mnemonic = "scheme bomb poem amazing bargain wheel layer zoo camera lottery express park";

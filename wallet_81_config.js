@@ -1,1 +1,1 @@
-var mnemonic = "uniform gown explain dream leisure aunt print account cousin hurdle jealous soda";
+var mnemonic = "spider advance jewel silk infant clap mother vote income design rigid segment";

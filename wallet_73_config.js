@@ -1,1 +1,1 @@
-var mnemonic = "trash boat obvious fun version circle champion major close summer together nephew";
+var mnemonic = "assist nature army decade sauce woman spice neither voice wait gather order";

@@ -1,1 +1,1 @@
-var mnemonic = "stem remain clever squirrel crane three remember face check magic manual deliver";
+var mnemonic = "fetch core obey rabbit benefit remember wolf path impact vital clerk tent";

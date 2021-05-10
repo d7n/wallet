@@ -1,1 +1,1 @@
-var mnemonic = "play input other decline ostrich chef observe pudding drive repeat armor close";
+var mnemonic = "final mirror dawn flight explain normal dawn bamboo view turn salon patient";

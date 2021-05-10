@@ -1,1 +1,1 @@
-var mnemonic = "benefit above sail believe nose train borrow repair prosper length beauty lock";
+var mnemonic = "black busy speed ordinary casino flat observe swamp quote deal already subway";

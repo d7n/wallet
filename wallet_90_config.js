@@ -1,1 +1,1 @@
-var mnemonic = "pulp pear unique flight normal wait receive nose typical pride crucial resist";
+var mnemonic = "palace advice upon photo rally toe road chef play dentist choose ketchup";

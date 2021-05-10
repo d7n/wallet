@@ -1,1 +1,1 @@
-var mnemonic = "shed moon spend oak predict kidney pledge snap belt spider grow into";
+var mnemonic = "pen auction cattle initial liberty latin clock force phone rack method junior";

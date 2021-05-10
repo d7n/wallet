@@ -1,1 +1,1 @@
-var mnemonic = "friend layer gown purpose phone this wide people act beach silk dizzy";
+var mnemonic = "real dice hospital chalk wool target impact myth rubber hat age person";

@@ -1,1 +1,1 @@
-var mnemonic = "manage universe risk gather evil million wood capable offer vote train reason";
+var mnemonic = "topple token doll purse stomach echo when photo shaft gospel limit depend";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff bronze emotion roast accident shadow keep oven they shadow joy desk";
+var mnemonic = "pluck task feel draw script coast inhale chief output shoot amazing note";

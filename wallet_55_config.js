@@ -1,1 +1,1 @@
-var mnemonic = "learn round curtain shine sphere purpose suspect gown finish effort attend push";
+var mnemonic = "course subway armed kit swing surround visa morning pulse pink lens crawl";

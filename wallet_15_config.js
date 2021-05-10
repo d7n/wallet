@@ -1,1 +1,1 @@
-var mnemonic = "calm waste diary october bunker agent happy use paddle staff early fly";
+var mnemonic = "thunder bus relief unit crouch link jealous mistake train jazz lizard fruit";

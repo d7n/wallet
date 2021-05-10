@@ -1,1 +1,1 @@
-var mnemonic = "live crazy program twenty buzz gospel volume gym water woman squirrel brown";
+var mnemonic = "business earth dove south absurd odor clown void expire crane camp repeat";

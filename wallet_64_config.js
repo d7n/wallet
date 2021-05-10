@@ -1,1 +1,1 @@
-var mnemonic = "pencil output deposit egg habit misery horror belt crowd gorilla front thing";
+var mnemonic = "travel broom edit brisk banana dinner van grief soup verb fee give";

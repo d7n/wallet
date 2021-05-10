@@ -1,1 +1,1 @@
-var mnemonic = "salute vessel deal elephant erode since defy token gain nothing food rough";
+var mnemonic = "raven poem example gossip alpha just melt upset panda hope hover romance";

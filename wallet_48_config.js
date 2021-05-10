@@ -1,1 +1,1 @@
-var mnemonic = "square battle exhaust rubber vote remind hint prison shine render wheat coil";
+var mnemonic = "glance giant stomach report sorry ostrich scrub nice lunch coyote nasty vivid";

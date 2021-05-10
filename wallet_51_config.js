@@ -1,1 +1,1 @@
-var mnemonic = "unfold dust tattoo curious also dilemma quick axis always humble duck shoot";
+var mnemonic = "awful fragile number giraffe install bounce knock color tell primary infant oak";

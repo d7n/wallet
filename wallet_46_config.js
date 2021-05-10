@@ -1,1 +1,1 @@
-var mnemonic = "awesome today under wrist sponsor ghost surround moral diamond answer dolphin boring";
+var mnemonic = "galaxy corn trash rival slam obtain antenna bright cool attack accuse topic";

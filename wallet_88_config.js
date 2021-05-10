@@ -1,1 +1,1 @@
-var mnemonic = "stereo scan fossil badge choose garden open inch ripple silly mountain vehicle";
+var mnemonic = "current early ring chalk alarm crater ankle aunt rubber flee desk sunset";

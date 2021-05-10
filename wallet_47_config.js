@@ -1,1 +1,1 @@
-var mnemonic = "scrap erosion negative grape exit smart birth quarter ask join claim scheme";
+var mnemonic = "unfold kite fortune renew gift eagle enroll front exotic swap cloud glass";

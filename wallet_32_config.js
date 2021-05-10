@@ -1,1 +1,1 @@
-var mnemonic = "make clump shoulder believe piano direct lounge depend body original flavor impose";
+var mnemonic = "smooth often toast boss cream slim cannon must display planet faculty warrior";

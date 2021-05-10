@@ -1,1 +1,1 @@
-var mnemonic = "cash suspect mystery outside never order super zoo dust diamond connect payment";
+var mnemonic = "history carry wrong creek canoe hamster peanut acoustic busy hammer gravity south";

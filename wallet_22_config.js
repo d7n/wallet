@@ -1,1 +1,1 @@
-var mnemonic = "job vast crater pen pioneer autumn market pave frost tongue income beyond";
+var mnemonic = "theory cruel decline mammal cross hood enter task original movie believe please";

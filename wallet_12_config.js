@@ -1,1 +1,1 @@
-var mnemonic = "soup tongue glass green able warfare goddess exhibit diet shrug gossip roof";
+var mnemonic = "install crawl amount used tube van cable champion wife seminar try family";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble spend exhibit uniform broom orchard celery check daughter siren lottery curious";
+var mnemonic = "enable text target index height eyebrow elevator faint mean flavor jaguar differ";

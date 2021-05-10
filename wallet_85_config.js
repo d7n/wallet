@@ -1,1 +1,1 @@
-var mnemonic = "rain chicken truth exchange knock front narrow spike horn salute meat rude";
+var mnemonic = "police pond crunch regret blood pole hip leopard give twenty recycle lumber";

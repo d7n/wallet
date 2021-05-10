@@ -1,1 +1,1 @@
-var mnemonic = "exhibit unit cool health mistake below few erosion length flight usual song";
+var mnemonic = "bag tent asthma cushion hero dawn bullet describe nurse room name wreck";

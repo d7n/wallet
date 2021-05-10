@@ -1,1 +1,1 @@
-var mnemonic = "candy foam boat inch birth ghost during thing voice increase spare garment";
+var mnemonic = "popular vast stool guide denial coil view thank excess tape horn purchase";

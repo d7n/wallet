@@ -1,1 +1,1 @@
-var mnemonic = "february trust absorb journey once crop wagon emerge deputy local tattoo wrap";
+var mnemonic = "kind search polar craft mountain two roof minor unusual tortoise swim gain";

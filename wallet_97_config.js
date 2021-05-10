@@ -1,1 +1,1 @@
-var mnemonic = "during pulp tribe expand exercise oven path gadget match plug donate wrap";
+var mnemonic = "elevator bitter hood survey sick mixed ready anger skill strong uncover pair";

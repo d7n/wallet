@@ -1,1 +1,1 @@
-var mnemonic = "census toss pause brass cruel critic atom fatigue squeeze resemble pattern galaxy";
+var mnemonic = "rifle tuition risk raccoon dune asset student element matter cool dog able";

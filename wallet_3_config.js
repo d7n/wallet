@@ -1,1 +1,1 @@
-var mnemonic = "profit thumb attract spice hazard crash car prevent rude future wagon buffalo";
+var mnemonic = "okay barrel tomorrow adult cinnamon mixed bike web round disorder blossom fashion";

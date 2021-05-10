@@ -1,1 +1,1 @@
-var mnemonic = "wrong echo first jump another canal art lucky increase chair stumble child";
+var mnemonic = "once unhappy divert path angry holiday soccer staff axis they food gate";

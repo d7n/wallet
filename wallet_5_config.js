@@ -1,1 +1,1 @@
-var mnemonic = "little pretty danger celery fiscal smile blossom history banana material tornado merry";
+var mnemonic = "concert merit once olympic december make vote short strategy churn lecture wage";

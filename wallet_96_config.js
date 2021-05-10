@@ -1,1 +1,1 @@
-var mnemonic = "actor stage math detect install penalty horror moment warm group benefit acquire";
+var mnemonic = "elder winter tortoise news dragon action uncle joy mule auto describe furnace";

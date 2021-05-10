@@ -1,1 +1,1 @@
-var mnemonic = "retreat satoshi nose notice orphan vivid combine power lawsuit coral amateur erode";
+var mnemonic = "dress ripple push assault maid carry client bunker correct depth veteran stay";

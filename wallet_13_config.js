@@ -1,1 +1,1 @@
-var mnemonic = "expand method fuel exotic country coast brass judge rival pattern emotion inflict";
+var mnemonic = "pencil return melody used general sketch saddle collect oyster news sand trial";

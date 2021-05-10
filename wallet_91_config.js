@@ -1,1 +1,1 @@
-var mnemonic = "olive exact puzzle pipe gesture strike pride access slow trouble field citizen";
+var mnemonic = "suit turn civil mesh favorite punch general fringe hard axis hire build";

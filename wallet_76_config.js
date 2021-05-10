@@ -1,1 +1,1 @@
-var mnemonic = "have stuff elevator miracle type movie six party into term steel buffalo";
+var mnemonic = "extend describe rug lonely remain puzzle solar aunt oblige achieve click place";

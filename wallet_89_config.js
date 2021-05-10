@@ -1,1 +1,1 @@
-var mnemonic = "nothing choice steak carry snack involve shoe vocal member sign since hollow";
+var mnemonic = "manual tiger odor unusual load board predict payment already fluid advance fluid";

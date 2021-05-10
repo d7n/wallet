@@ -1,1 +1,1 @@
-var mnemonic = "fitness illness nuclear place kite diary able zone output junior wisdom often";
+var mnemonic = "moment sock divorce energy autumn combine term popular negative garage clock drum";

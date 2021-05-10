@@ -1,1 +1,1 @@
-var mnemonic = "tumble reward catalog end enforce unveil ocean unveil upper wear decline grain";
+var mnemonic = "among trust prize ask chair tumble bachelor whisper tunnel found balance battle";

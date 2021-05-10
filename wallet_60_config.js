@@ -1,1 +1,1 @@
-var mnemonic = "never remove vibrant joy wife antenna review possible torch cool upset maze";
+var mnemonic = "smile old group grief lens jazz breeze donor duty okay arch cake";

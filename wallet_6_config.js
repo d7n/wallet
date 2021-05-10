@@ -1,1 +1,1 @@
-var mnemonic = "cash loop cigar minor brisk wasp vanish husband scissors three trim park";
+var mnemonic = "camp guard heart hour cloud globe add hold series future beef mammal";

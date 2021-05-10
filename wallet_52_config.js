@@ -1,1 +1,1 @@
-var mnemonic = "act scare bachelor local tenant fall chest stomach receive afraid say argue";
+var mnemonic = "inhale cinnamon rely burger giraffe tragic problem pill climb exist fruit solid";

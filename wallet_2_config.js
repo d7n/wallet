@@ -1,1 +1,1 @@
-var mnemonic = "orchard render novel vague sad cross canvas system regret scan harbor high";
+var mnemonic = "future leisure dial icon giraffe vacuum canyon trim trash amateur honey apple";

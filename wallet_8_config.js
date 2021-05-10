@@ -1,1 +1,1 @@
-var mnemonic = "scan wish suggest make casino own shield pluck glow fold say flip";
+var mnemonic = "salute toe gown metal special cargo mind panther when dinosaur easily load";

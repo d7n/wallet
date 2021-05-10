@@ -1,1 +1,1 @@
-var mnemonic = "pulse genuine siren reduce require option infant fat vendor aerobic green danger";
+var mnemonic = "bid cart language gym water patient excuse daring walnut board reflect mouse";

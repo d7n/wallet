@@ -1,1 +1,1 @@
-var mnemonic = "example volume goddess patrol liberty object clog primary strategy oblige scene language";
+var mnemonic = "around chair peace myself punch rocket media bag measure juice major burden";

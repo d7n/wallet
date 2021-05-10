@@ -1,1 +1,1 @@
-var mnemonic = "fine august alone talent torch throw select invite pigeon tribe laundry hazard";
+var mnemonic = "dry laptop dust diary danger system bind item undo real crush mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow spatial raw short nominee vacuum silent minimum current success gravity fly";
+var mnemonic = "kiwi chef patch say frame orient bench embrace unveil blast enough attend";

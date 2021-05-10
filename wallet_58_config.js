@@ -1,1 +1,1 @@
-var mnemonic = "cable flash tourist thank goddess lonely first crush antique venture decline yard";
+var mnemonic = "original caution unhappy dance phone space ketchup girl wolf trim mixture eye";

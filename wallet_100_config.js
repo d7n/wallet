@@ -1,1 +1,1 @@
-var mnemonic = "tortoise whisper connect panic globe unhappy sustain pluck chase marriage artist essay";
+var mnemonic = "mimic toddler hold purity olympic result again track legend topple slot ketchup";

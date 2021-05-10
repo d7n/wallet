@@ -1,1 +1,1 @@
-var mnemonic = "usage equal renew solar lounge wagon peace trust inner laugh maid tent";
+var mnemonic = "unfair promote punch slush total carpet box burger connect fault salute luxury";

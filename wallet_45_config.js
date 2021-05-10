@@ -1,1 +1,1 @@
-var mnemonic = "physical better rabbit day design twin betray rescue mountain diesel grief sweet";
+var mnemonic = "phone kangaroo tobacco refuse dash jar film yard brand ozone acoustic avocado";

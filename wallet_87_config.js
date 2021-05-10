@@ -1,1 +1,1 @@
-var mnemonic = "achieve patrol summer spoon reward steak orange seed diary utility arrive used";
+var mnemonic = "radio shiver voyage behave pet onion harsh excite burger save detail double";

@@ -1,1 +1,1 @@
-var mnemonic = "exit denial eight grocery uphold vapor cruel piano denial metal galaxy cruel";
+var mnemonic = "sell come elephant suggest switch nothing nest cigar alcohol frequent eagle kidney";

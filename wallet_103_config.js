@@ -1,1 +1,1 @@
-var mnemonic = "muffin seven thought weather notice mind type half admit excess pulse hub";
+var mnemonic = "cart test move ship inmate better resist best such iron account bulb";

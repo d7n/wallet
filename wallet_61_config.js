@@ -1,1 +1,1 @@
-var mnemonic = "angle ripple deliver win liberty install virtual junk job heavy repair feed";
+var mnemonic = "carpet account copy kitchen favorite soul clarify east breeze nothing jungle useful";

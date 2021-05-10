@@ -1,1 +1,1 @@
-var mnemonic = "hen shrimp valid stage track sausage taxi cancel frost mass quality foot";
+var mnemonic = "elbow cause wrap cable picture attitude piece abuse happy gym order hire";

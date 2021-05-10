@@ -1,1 +1,1 @@
-var mnemonic = "bargain clerk actor entry cupboard capable parade exhaust stay eternal wall chaos";
+var mnemonic = "ketchup jealous swear erase tennis oxygen draw ignore misery door stay case";

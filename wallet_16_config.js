@@ -1,1 +1,1 @@
-var mnemonic = "range ship expose bread slam head force cheap vehicle broken maze matrix";
+var mnemonic = "panda correct crucial blossom weasel match much purchase zoo person dune club";

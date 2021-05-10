@@ -1,1 +1,1 @@
-var mnemonic = "vivid across kitchen trust want fit relief cousin follow hazard legend differ";
+var mnemonic = "local during note worry page afford arrest valley stove truly capital penalty";

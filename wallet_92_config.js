@@ -1,1 +1,1 @@
-var mnemonic = "system witness solve spread engage birth exercise luxury jazz despair tilt slender";
+var mnemonic = "craft mango gym high quarter network label burden hungry coin weapon six";

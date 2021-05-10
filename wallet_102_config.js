@@ -1,1 +1,1 @@
-var mnemonic = "bring gas wait pencil curtain control gun visa meadow garlic solution cannon";
+var mnemonic = "noble knock soap old chicken trouble trigger later unaware use hurt banner";

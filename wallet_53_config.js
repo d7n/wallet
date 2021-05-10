@@ -1,1 +1,1 @@
-var mnemonic = "cloth dumb skull swallow waste repair helmet change prevent february pause decide";
+var mnemonic = "net marine message century idea drink casino name employ iron rich lion";

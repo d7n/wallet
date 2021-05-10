@@ -1,1 +1,1 @@
-var mnemonic = "dumb remove multiply fee expect cruise verify fashion pave text member rely";
+var mnemonic = "awful enrich absurd lab confirm gesture gold thought goat thank imitate clog";

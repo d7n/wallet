@@ -1,1 +1,1 @@
-var mnemonic = "trim stay want stable copper column kidney medal shadow make moon shoulder";
+var mnemonic = "found render gasp october royal gas sphere dash baby radio shy window";

@@ -1,1 +1,1 @@
-var mnemonic = "sick surround express winner nose pave extra siege grocery usual flavor front";
+var mnemonic = "gadget want ladder hunt neck poet glare meat shock alone now arrange";

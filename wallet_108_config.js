@@ -1,1 +1,1 @@
-var mnemonic = "extra rebel oil shell daughter assist stove diary about word merit render";
+var mnemonic = "shallow infant tiny couple current train initial fossil shy soon already upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "message recycle stage half misery kidney hint naive warm else daughter unaware";
+var mnemonic = "hope next street second rival erase shrimp gorilla move cloud unfair dinner";

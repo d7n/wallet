@@ -1,1 +1,1 @@
-var mnemonic = "must option sun love moment ugly minor guide pretty during cigar eyebrow";
+var mnemonic = "mutual olive unfold virus exercise power reward slide swift rib journey attract";

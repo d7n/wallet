@@ -1,1 +1,1 @@
-var mnemonic = "resist cook else valve maze torch curve eager reduce wreck history rebuild";
+var mnemonic = "leave brown tag mammal opera horse warm blade require barrel payment absurd";

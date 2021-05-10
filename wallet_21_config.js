@@ -1,1 +1,1 @@
-var mnemonic = "rubber ability success hover hungry monster climb organ accident holiday mixture vessel";
+var mnemonic = "carbon virus loan fork this rebel tackle floor grunt brain early push";

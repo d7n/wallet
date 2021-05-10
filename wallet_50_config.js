@@ -1,1 +1,1 @@
-var mnemonic = "minute together derive scene blush kangaroo month brave wealth vintage eight achieve";
+var mnemonic = "tunnel sad perfect tongue gate jacket host very divorce unfair head pet";

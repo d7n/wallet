@@ -1,1 +1,1 @@
-var mnemonic = "lake setup merry wish reunion enjoy define census atom enlist follow toy";
+var mnemonic = "artefact purchase shock escape subject common bunker laugh copy fog shuffle fuel";

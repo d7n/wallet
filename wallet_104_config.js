@@ -1,1 +1,1 @@
-var mnemonic = "regret april vintage risk wealth climb tenant ensure crowd city hard elevator";
+var mnemonic = "say spice cannon main armor divert fever farm lounge female used feature";

@@ -1,1 +1,1 @@
-var mnemonic = "exist indoor matter candy minor pretty around often mobile agree ginger powder";
+var mnemonic = "girl curtain gold cram gas cinnamon denial oil marriage banana during journey";

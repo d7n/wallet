@@ -1,1 +1,1 @@
-var mnemonic = "chef elder art move crew praise flight slot trim chimney fly olive";
+var mnemonic = "abandon tortoise dice merit cannon find still garage real organ spice weird";

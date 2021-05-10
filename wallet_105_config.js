@@ -1,1 +1,1 @@
-var mnemonic = "battle silly artist summer mirror saddle adult sugar metal stick exact lunch";
+var mnemonic = "green frequent mixture uniform act route fiction toss voice spice galaxy travel";

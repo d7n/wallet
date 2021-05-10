@@ -1,1 +1,1 @@
-var mnemonic = "avocado innocent clog figure dish drill brief federal sponsor hood unique garment";
+var mnemonic = "dawn keep inhale oak load edge notice latin mobile side comfort enough";
