@@ -1,1 +1,1 @@
-var mnemonic = "concert glory banana anxiety anger math excess super bundle gallery film protect";
+var mnemonic = "cash cram rule minimum creek panther island wall time glimpse save series";

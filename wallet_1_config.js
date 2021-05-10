@@ -1,1 +1,1 @@
-var mnemonic = "advice ribbon design media broken now salt vapor prosper yard trip urge";
+var mnemonic = "capital another cross trade love cross smile before multiply bid major onion";

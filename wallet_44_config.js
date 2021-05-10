@@ -1,1 +1,1 @@
-var mnemonic = "cushion kind life scatter school shallow debris guitar furnace actual catch stereo";
+var mnemonic = "depth convince umbrella license oil chronic worry gate puzzle tooth salon month";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange burst profit breeze sniff acquire romance famous hundred alpha length memory";
+var mnemonic = "hybrid whisper cup doctor left settle emotion nominee dolphin tube lawn settle";

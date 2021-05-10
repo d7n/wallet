@@ -1,1 +1,1 @@
-var mnemonic = "inner come spot scale fame mouse team spray more inquiry story void";
+var mnemonic = "resemble theme accident slice skin luxury wave yellow prize chicken dance lady";

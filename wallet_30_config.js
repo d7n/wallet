@@ -1,1 +1,1 @@
-var mnemonic = "copy noise mirror blanket term resist benefit monitor jewel erase survey tip";
+var mnemonic = "never provide elevator essay offer express shift expand document fantasy nuclear mind";

@@ -1,1 +1,1 @@
-var mnemonic = "access increase pumpkin proof fetch like neutral clay skate scare slice trophy";
+var mnemonic = "approve diagram glad sea top man soup proof someone miss eagle found";

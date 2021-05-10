@@ -1,1 +1,1 @@
-var mnemonic = "chef impulse craft purpose mind disagree push tissue benefit start nothing patch";
+var mnemonic = "public rent desk merit grow toward outside choose disorder argue vague alert";

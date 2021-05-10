@@ -1,1 +1,1 @@
-var mnemonic = "cabbage genius position review snow possible document combine purse host about erode";
+var mnemonic = "various height upon shock fault stereo sword bridge cliff elegant debate process";

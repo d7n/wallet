@@ -1,1 +1,1 @@
-var mnemonic = "muffin work sponsor depend book knee obscure kitchen crush lava gym shell";
+var mnemonic = "recycle price possible enjoy very exit economy device magic defy ice execute";

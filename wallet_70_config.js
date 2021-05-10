@@ -1,1 +1,1 @@
-var mnemonic = "isolate arm scale pupil acquire echo ostrich nuclear drill vintage crater chat";
+var mnemonic = "better screen unusual easy luggage month gorilla chicken asthma aware enter adapt";

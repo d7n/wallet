@@ -1,1 +1,1 @@
-var mnemonic = "wave brave major music inquiry crime devote fire tourist silly palm genius";
+var mnemonic = "siege august average mobile animal forward stable winter improve peace belt second";

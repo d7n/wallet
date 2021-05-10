@@ -1,1 +1,1 @@
-var mnemonic = "caught raise random defense blossom layer shell piece acquire thumb shy scrub";
+var mnemonic = "skate happy acoustic expire round public crowd august daring bean choice pretty";

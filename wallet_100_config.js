@@ -1,1 +1,1 @@
-var mnemonic = "pole bamboo erosion sentence mobile swing decline insane odor legal wheel breeze";
+var mnemonic = "project all chuckle lend tower melt mad region accident happy lion reform";

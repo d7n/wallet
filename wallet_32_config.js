@@ -1,1 +1,1 @@
-var mnemonic = "such embody only caution certain ivory vessel adapt sun invite creek robot";
+var mnemonic = "bargain vast veteran parade window ahead bacon album copper two sausage permit";

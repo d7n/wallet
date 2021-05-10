@@ -1,1 +1,1 @@
-var mnemonic = "cat bird quote must much monster afraid soap work surround copper engage";
+var mnemonic = "manual tragic rural wheat never cover minimum bring pass dumb spice grief";

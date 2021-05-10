@@ -1,1 +1,1 @@
-var mnemonic = "ice exit save chimney swap core vehicle carry trim future property wood";
+var mnemonic = "travel drip hollow school habit away avocado snake path keep exhibit eye";

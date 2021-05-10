@@ -1,1 +1,1 @@
-var mnemonic = "girl blood swift quote stage beyond trophy monkey they blanket jealous squirrel";
+var mnemonic = "resist pond cannon feature major sadness eagle kind deputy permit carpet top";

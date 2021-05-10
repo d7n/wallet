@@ -1,1 +1,1 @@
-var mnemonic = "sample cave guard vibrant scrub web camp buyer ahead grunt business tomato";
+var mnemonic = "earth asset vapor skull kind master boil recycle artist denial story stone";

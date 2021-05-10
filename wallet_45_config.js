@@ -1,1 +1,1 @@
-var mnemonic = "famous hamster glad ritual tackle outer pelican culture wolf frozen come gaze";
+var mnemonic = "shove carry six impact other dad camera way dad flush tent earth";

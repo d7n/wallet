@@ -1,1 +1,1 @@
-var mnemonic = "cube laundry harbor squeeze indoor rice sorry basket leave glue model follow";
+var mnemonic = "female target shoulder enhance social quiz enter visit clock distance chalk spice";

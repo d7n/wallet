@@ -1,1 +1,1 @@
-var mnemonic = "badge tail garlic oval grain glove field shy casual audit flock session";
+var mnemonic = "result enhance useless hobby beach broken clutch stick elephant brief pattern lend";

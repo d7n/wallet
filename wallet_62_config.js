@@ -1,1 +1,1 @@
-var mnemonic = "bomb hidden cheap solution stomach attitude aisle sing slogan height kit need";
+var mnemonic = "submit list post settle vintage student print render cushion recycle hover toe";

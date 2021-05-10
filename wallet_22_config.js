@@ -1,1 +1,1 @@
-var mnemonic = "possible weekend school whisper light kind retreat property piece tiny toast large";
+var mnemonic = "tomato ignore treat lizard cat tunnel high gospel stable enhance glimpse rough";

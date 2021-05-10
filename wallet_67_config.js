@@ -1,1 +1,1 @@
-var mnemonic = "amount lift boil anxiety sunny castle cost top multiply almost marine denial";
+var mnemonic = "wood mercy ticket brain ozone mushroom bitter chimney soldier analyst april lunar";

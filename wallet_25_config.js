@@ -1,1 +1,1 @@
-var mnemonic = "fossil alcohol spirit armor fish lady twist radar window era afford actual";
+var mnemonic = "hour garden crowd lady kit pitch seminar brother aim front attitude copper";

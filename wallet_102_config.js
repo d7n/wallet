@@ -1,1 +1,1 @@
-var mnemonic = "buyer hint dinosaur gown nest chalk globe screen rifle funny elite blue";
+var mnemonic = "ignore noodle cool patch rice horn opera chase episode nose toddler upgrade";

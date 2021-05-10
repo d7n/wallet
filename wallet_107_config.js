@@ -1,1 +1,1 @@
-var mnemonic = "marble milk merge spider display cliff denial rocket cake iron muscle time";
+var mnemonic = "sell myself eyebrow cigar arrange piece exit high fiction film aisle gather";

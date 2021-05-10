@@ -1,1 +1,1 @@
-var mnemonic = "spare fiction enough limb priority toast maze reform excess leader mad zebra";
+var mnemonic = "narrow build lawn major goose tell become boy glare winner dignity suit";

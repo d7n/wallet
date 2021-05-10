@@ -1,1 +1,1 @@
-var mnemonic = "benefit client glance later mimic valid snow manage media mistake clay aunt";
+var mnemonic = "album limb aspect oven antique height surface piano prize expire express raise";

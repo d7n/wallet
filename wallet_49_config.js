@@ -1,1 +1,1 @@
-var mnemonic = "initial concert useless sweet brave stove inhale merry latin lecture leader pudding";
+var mnemonic = "symptom satoshi hip forget valid chapter alcohol person caution copy donate whale";

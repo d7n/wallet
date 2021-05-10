@@ -1,1 +1,1 @@
-var mnemonic = "foil category exile actual gaze flush pistol wish visa assault dilemma shove";
+var mnemonic = "impose require beauty any kick tourist barely opinion example region float observe";

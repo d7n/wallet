@@ -1,1 +1,1 @@
-var mnemonic = "cube prison veteran mandate negative adjust subway credit abstract please below fun";
+var mnemonic = "thrive merit erase away analyst disease fetch shy capable toast tuna tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "car throw order daring critic coconut hard medal young shove oil apple";
+var mnemonic = "still upper fade motor wash doll blouse gravity rice cousin reflect grid";

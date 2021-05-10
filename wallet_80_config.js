@@ -1,1 +1,1 @@
-var mnemonic = "camp there finger syrup real test shell dinner link spatial alley rib";
+var mnemonic = "useless win mystery ridge force similar rescue much casual keep army usual";

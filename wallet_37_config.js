@@ -1,1 +1,1 @@
-var mnemonic = "banner hurdle defense chef dune copper anxiety beach misery note buffalo knock";
+var mnemonic = "net garbage require merge okay program hand dwarf detect depth simple area";

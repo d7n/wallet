@@ -1,1 +1,1 @@
-var mnemonic = "butter armor winter ecology control punch hurt foster west matrix coral boost";
+var mnemonic = "shove balance figure monster faint giraffe multiply rude police quit captain faculty";

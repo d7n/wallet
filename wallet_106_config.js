@@ -1,1 +1,1 @@
-var mnemonic = "decrease unable tortoise brown museum electric erode staff alpha crop nothing humor";
+var mnemonic = "bubble rescue rate bargain exotic situate catalog spy wisdom spring street picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "eager survey foil parent amount bar illness expand universe exchange calm thing";
+var mnemonic = "blame budget leg vocal curious switch clarify attack account squirrel scheme egg";

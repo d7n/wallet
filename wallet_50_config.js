@@ -1,1 +1,1 @@
-var mnemonic = "equip gate potato test post drive sweet good chunk toe perfect squeeze";
+var mnemonic = "woman soldier sick song maple able champion trim canal obey anchor foam";

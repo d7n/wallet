@@ -1,1 +1,1 @@
-var mnemonic = "correct illness obscure wreck oyster culture sniff secret fan crouch blouse local";
+var mnemonic = "achieve illegal rubber maid addict lift entry purity bone arch child walk";

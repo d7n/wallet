@@ -1,1 +1,1 @@
-var mnemonic = "absorb nest simple claim exile orchard liquid scale frozen mother swing saddle";
+var mnemonic = "inject funny plate cruel barrel lend allow laptop skill diagram learn fold";

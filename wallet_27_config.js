@@ -1,1 +1,1 @@
-var mnemonic = "spin chuckle exile gorilla top quit occur bean food weapon neutral crop";
+var mnemonic = "uncle forum possible define chuckle right involve clog barrel minor glass fade";

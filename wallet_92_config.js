@@ -1,1 +1,1 @@
-var mnemonic = "immense source stage park supreme bone often shy favorite reopen swear primary";
+var mnemonic = "blood trick cost fiber add interest affair cool castle nut symbol make";

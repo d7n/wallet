@@ -1,1 +1,1 @@
-var mnemonic = "pitch dance allow income answer scout orient plastic science bind adjust client";
+var mnemonic = "oppose wedding wrist strong glass must trap rain turn mobile legend anxiety";

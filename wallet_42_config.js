@@ -1,1 +1,1 @@
-var mnemonic = "enjoy add mask current sibling photo expect any afraid dove slice lesson";
+var mnemonic = "race issue pottery aim vague faint width forest junior vacant method cat";

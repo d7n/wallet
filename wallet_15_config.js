@@ -1,1 +1,1 @@
-var mnemonic = "tuna patient invite replace dilemma pencil script random market scatter thank mammal";
+var mnemonic = "pledge victory version private belt film crazy adapt dinosaur subject stuff impact";

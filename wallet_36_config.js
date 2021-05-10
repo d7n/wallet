@@ -1,1 +1,1 @@
-var mnemonic = "drive globe thank desk thrive elder heart celery add steel actress unveil";
+var mnemonic = "equal become suggest bargain kitten guide elite smooth issue tilt foot vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap sauce south jaguar science deliver wing glad blade cover ostrich alarm";
+var mnemonic = "symptom vicious inflict very arch wedding frost birth captain ability anxiety woman";

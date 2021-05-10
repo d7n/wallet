@@ -1,1 +1,1 @@
-var mnemonic = "team spy direct mountain embody shift west ozone term roast clap cross";
+var mnemonic = "web useless galaxy banner input silk camp air genuine tortoise decline end";

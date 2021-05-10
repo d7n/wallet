@@ -1,1 +1,1 @@
-var mnemonic = "pink annual tuna bomb polar limb cloth scare enrich when monitor whale";
+var mnemonic = "marine offer where layer mercy hurdle bamboo asset clay guess parade cactus";

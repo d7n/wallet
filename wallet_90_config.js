@@ -1,1 +1,1 @@
-var mnemonic = "stuff frost actor maid mandate coin bleak tissue stamp cave zero hurt";
+var mnemonic = "creek dynamic message crawl broccoli room size march hazard approve this rely";

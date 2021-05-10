@@ -1,1 +1,1 @@
-var mnemonic = "below foil trip crawl genre man fiscal giant jealous swift innocent pluck";
+var mnemonic = "all consider trouble travel myself great place drop glass sponsor lion february";

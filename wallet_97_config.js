@@ -1,1 +1,1 @@
-var mnemonic = "pistol base cross pumpkin mushroom cool glare under blue radio room reflect";
+var mnemonic = "actual dash saddle pool grant ramp olive amount rookie pole cement fold";

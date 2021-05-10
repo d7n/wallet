@@ -1,1 +1,1 @@
-var mnemonic = "stove left galaxy copper height fish panther debate scorpion almost issue replace";
+var mnemonic = "silly unfold sun mail proof marine still exhaust deny inside veteran spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "gas razor talent tennis olympic hero frequent laundry palm chicken field lake";
+var mnemonic = "glare wait town buyer announce sing car pioneer double utility liar raccoon";

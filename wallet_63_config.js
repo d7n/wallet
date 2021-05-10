@@ -1,1 +1,1 @@
-var mnemonic = "soft choose nerve click motor current casual unfair cousin forward update woman";
+var mnemonic = "opinion return voice fashion brief that smooth orchard special silver marble alcohol";

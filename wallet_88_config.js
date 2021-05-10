@@ -1,1 +1,1 @@
-var mnemonic = "vibrant very color salt welcome inject pattern sun interest chase alpha ugly";
+var mnemonic = "limit client wheat reflect disagree repeat helmet monkey surge diesel army nest";

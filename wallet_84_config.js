@@ -1,1 +1,1 @@
-var mnemonic = "joke sister render comic joke plastic fabric outside square axis scorpion stand";
+var mnemonic = "addict hawk merry message travel end peanut figure plate toward stock arrange";

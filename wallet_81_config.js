@@ -1,1 +1,1 @@
-var mnemonic = "cry combine gasp oil auto syrup wear suggest stomach wrap quality kit";
+var mnemonic = "afford vendor couple uncover escape surge female two puppy allow express quick";

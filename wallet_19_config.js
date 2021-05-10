@@ -1,1 +1,1 @@
-var mnemonic = "envelope cram excess ramp top wife obtain rabbit desert spring addict master";
+var mnemonic = "firm ketchup lens coffee heart sheriff diesel focus there trend fragile diagram";

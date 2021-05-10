@@ -1,1 +1,1 @@
-var mnemonic = "castle grow day kitten town brief velvet denial moon devote prepare daughter";
+var mnemonic = "galaxy garment pause cream parent burden afraid walnut hamster blood index cherry";

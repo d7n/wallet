@@ -1,1 +1,1 @@
-var mnemonic = "elevator write thunder omit often bid blur flat oil claw rabbit business";
+var mnemonic = "intact mercy order page mean police damage suit win candy country unknown";

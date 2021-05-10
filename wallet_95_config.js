@@ -1,1 +1,1 @@
-var mnemonic = "snake december invest crew draw glove general basic valve kidney cream fault";
+var mnemonic = "ordinary sketch cable warm pair common item talk heavy soup tuition grass";

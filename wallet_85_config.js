@@ -1,1 +1,1 @@
-var mnemonic = "power normal truth donkey vital song road unhappy round nasty virtual zero";
+var mnemonic = "carpet glow horse merit work brown young when enact gauge dune aspect";

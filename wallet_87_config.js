@@ -1,1 +1,1 @@
-var mnemonic = "surface virus spoil dog soon trick pool worry dinner tomorrow manual sorry";
+var mnemonic = "train school vicious text tennis bronze badge arena hint arrow quiz liberty";

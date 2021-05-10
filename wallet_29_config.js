@@ -1,1 +1,1 @@
-var mnemonic = "card seven thing vapor capital curtain hold produce analyst muffin decade ticket";
+var mnemonic = "hurry enjoy inmate narrow dilemma spy dune hill spread author process toy";

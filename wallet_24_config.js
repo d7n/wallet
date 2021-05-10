@@ -1,1 +1,1 @@
-var mnemonic = "base coil shadow crouch funny west among inject crazy pitch thrive afraid";
+var mnemonic = "legend remember buzz fruit add top envelope load guilt company easy ticket";

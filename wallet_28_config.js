@@ -1,1 +1,1 @@
-var mnemonic = "glove ladder truck book embody subway illness solid type mule caution patient";
+var mnemonic = "flip pride help sudden night solve blush zoo kidney pumpkin scale protect";

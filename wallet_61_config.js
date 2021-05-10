@@ -1,1 +1,1 @@
-var mnemonic = "prosper useful acoustic isolate flight purchase bulb burst force capable ceiling eager";
+var mnemonic = "uncle pyramid hotel document place educate exact develop basic jeans piano hunt";

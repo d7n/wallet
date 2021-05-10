@@ -1,1 +1,1 @@
-var mnemonic = "solution robust palace reopen lounge eye kitchen echo talent clown defense flip";
+var mnemonic = "essay accuse blood use helmet magic range puzzle potato typical wool review";

@@ -1,1 +1,1 @@
-var mnemonic = "repair rocket caught horror flame mystery identify inner venue maple arrange lucky";
+var mnemonic = "zone wheat alley egg cricket twin rely ostrich kitchen panda grain arctic";

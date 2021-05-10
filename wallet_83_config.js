@@ -1,1 +1,1 @@
-var mnemonic = "web print energy where medal actual shoot trash foster float rocket square";
+var mnemonic = "garden duck sadness settle harsh rifle slice above wage guess actress knock";

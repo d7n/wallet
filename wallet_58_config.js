@@ -1,1 +1,1 @@
-var mnemonic = "share sound ready question neutral fog estate this evidence swap check symptom";
+var mnemonic = "quit action glory rabbit raccoon chaos royal owner wedding illness parrot fame";

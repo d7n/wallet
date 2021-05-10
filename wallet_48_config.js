@@ -1,1 +1,1 @@
-var mnemonic = "fever glance gravity virtual rely planet seminar panel slot drift surprise fog";
+var mnemonic = "dawn capital solar hunt twenty coach body mansion sadness carbon match solve";

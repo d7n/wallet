@@ -1,1 +1,1 @@
-var mnemonic = "repair twenty permit dash shoulder omit custom below jar subject access fury";
+var mnemonic = "width eagle anchor almost blast kind design entry fluid tip dash toilet";

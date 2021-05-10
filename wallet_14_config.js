@@ -1,1 +1,1 @@
-var mnemonic = "coach ride guilt gym will absent enact arctic retreat thumb title absurd";
+var mnemonic = "trumpet abuse crew panda rally build naive vehicle shy wink rug option";

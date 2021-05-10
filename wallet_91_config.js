@@ -1,1 +1,1 @@
-var mnemonic = "rule bless solve chase decade crystal chair turtle enroll dose great width";
+var mnemonic = "scrub tribe clinic position little furnace abuse friend very father swing survey";

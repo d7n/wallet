@@ -1,1 +1,1 @@
-var mnemonic = "gallery dismiss bean whale inhale ghost evoke patch volume capable about leave";
+var mnemonic = "ridge blade spatial ancient yellow fire mandate repeat ostrich fury hood render";

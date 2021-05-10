@@ -1,1 +1,1 @@
-var mnemonic = "collect deputy symptom wall derive tail worth usual noise seek limb stumble";
+var mnemonic = "refuse wave emerge dune fan crucial typical exit marriage elbow check pepper";

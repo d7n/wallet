@@ -1,1 +1,1 @@
-var mnemonic = "unknown concert general gun void tree rival gift dish depend nominee hint";
+var mnemonic = "road all tiny heart hard ripple piece occur dentist success minimum flame";

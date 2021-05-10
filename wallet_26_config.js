@@ -1,1 +1,1 @@
-var mnemonic = "smile buzz isolate voyage few asset candy stem illegal hurdle upper book";
+var mnemonic = "meadow spin mixed suit catch tragic member paper spoon dilemma raccoon quit";

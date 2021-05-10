@@ -1,1 +1,1 @@
-var mnemonic = "real practice venue rely cannon rose clip peanut stay car glare video";
+var mnemonic = "scatter wasp jaguar endless debris they lyrics knee extend toy knee offer";

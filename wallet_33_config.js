@@ -1,1 +1,1 @@
-var mnemonic = "design yard iron diagram coffee borrow spread sudden visit salad evoke misery";
+var mnemonic = "dragon spatial diary intact measure later brave brisk whip scatter weapon segment";

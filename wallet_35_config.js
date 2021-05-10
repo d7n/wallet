@@ -1,1 +1,1 @@
-var mnemonic = "logic family oil bread item odor story topple depart dove smile base";
+var mnemonic = "recipe assault symbol grace vessel cool correct before mobile stage radar little";

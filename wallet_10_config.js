@@ -1,1 +1,1 @@
-var mnemonic = "bracket tiny obvious scan tackle romance flavor either foil equal devote canyon";
+var mnemonic = "mercy shoe virtual relief tortoise plastic report grunt must tone used diary";

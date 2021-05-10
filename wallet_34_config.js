@@ -1,1 +1,1 @@
-var mnemonic = "damp undo surge lizard blind best force wait camp sweet deal stomach";
+var mnemonic = "oppose build veteran atom adjust middle curtain carbon appear wild dog copy";

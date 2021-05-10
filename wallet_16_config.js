@@ -1,1 +1,1 @@
-var mnemonic = "crush increase raw glass strategy elbow elder program holiday enrich impose test";
+var mnemonic = "company flame siege cross father resource review tongue injury provide scare exotic";

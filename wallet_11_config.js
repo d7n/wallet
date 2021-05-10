@@ -1,1 +1,1 @@
-var mnemonic = "ability open seed solar balcony bitter catalog pear fun orchard seed scorpion";
+var mnemonic = "alley salmon begin limit crowd biology minute sunny sound all rate outer";

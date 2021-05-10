@@ -1,1 +1,1 @@
-var mnemonic = "position forum risk acquire vehicle become sight rib cry weather business skill";
+var mnemonic = "tail much silly wolf month lemon track amateur observe hood congress wave";

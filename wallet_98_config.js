@@ -1,1 +1,1 @@
-var mnemonic = "capable ginger draft pond sustain bitter ankle balance nature hidden basic victory";
+var mnemonic = "audit critic friend achieve clever again snack illness belt clarify yellow inner";

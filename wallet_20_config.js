@@ -1,1 +1,1 @@
-var mnemonic = "say elite solar can switch unfold behave regular talk level helmet home";
+var mnemonic = "exotic source appear evoke able please talk relax vendor traffic hurt harbor";
