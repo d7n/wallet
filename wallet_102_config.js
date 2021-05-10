@@ -1,1 +1,1 @@
-var mnemonic = "apart recall tuition cover steel dress guide liquid have wear easy average";
+var mnemonic = "lucky journey garlic jaguar pattern govern winter ripple bounce novel artefact girl";

@@ -1,1 +1,1 @@
-var mnemonic = "speed tired move goat gown stock session outer angle about rate twenty";
+var mnemonic = "doll foot liberty hungry slogan usual claim west slab pottery fatigue remain";

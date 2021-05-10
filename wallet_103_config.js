@@ -1,1 +1,1 @@
-var mnemonic = "pill room brand inmate picture host course buzz cruel fence tornado neglect";
+var mnemonic = "basic industry gym truly scatter kit youth reduce clay story omit hotel";

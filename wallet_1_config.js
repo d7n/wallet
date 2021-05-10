@@ -1,1 +1,1 @@
-var mnemonic = "deer cool light nothing accident social strategy fault spread bargain ahead trend";
+var mnemonic = "sketch help fish rescue west embark mean review salmon fun merit evidence";

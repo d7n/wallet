@@ -1,1 +1,1 @@
-var mnemonic = "sheriff knife sound wear health arctic spoil toy draw valve soda keen";
+var mnemonic = "thrive mask toilet exotic upon drum fork extra rescue solid gun afraid";

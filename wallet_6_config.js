@@ -1,1 +1,1 @@
-var mnemonic = "middle pelican segment festival window shell loop smile leave butter aunt jealous";
+var mnemonic = "polar scrap bean benefit elite census narrow wasp surprise long seek basket";

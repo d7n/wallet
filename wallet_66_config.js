@@ -1,1 +1,1 @@
-var mnemonic = "surge misery old mountain network skill trigger smart awkward pioneer very shuffle";
+var mnemonic = "alone side throw admit sadness stem hybrid thunder chicken bring census cheap";

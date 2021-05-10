@@ -1,1 +1,1 @@
-var mnemonic = "demise month angle vague copy chapter stem buyer culture left lawsuit provide";
+var mnemonic = "repeat split gauge mention prevent toast print prepare convince diary man normal";

@@ -1,1 +1,1 @@
-var mnemonic = "illness lucky cram mom tissue loop flash collect sick six coin voyage";
+var mnemonic = "segment husband accident provide sentence clock chef stamp position obscure route quit";

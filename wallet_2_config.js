@@ -1,1 +1,1 @@
-var mnemonic = "menu gain stone innocent frog domain trust share base east best priority";
+var mnemonic = "silver young tower mix hour team ivory galaxy action insane tattoo guard";

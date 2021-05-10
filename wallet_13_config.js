@@ -1,1 +1,1 @@
-var mnemonic = "thing way sting flip rather ranch history stadium minimum caution estate extra";
+var mnemonic = "spoil okay myth slab census betray vapor client lion craft satisfy begin";

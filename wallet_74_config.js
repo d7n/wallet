@@ -1,1 +1,1 @@
-var mnemonic = "machine robot shift shrug canyon spin loud despair smart mad sock arrest";
+var mnemonic = "behind move wool suggest dragon bonus jacket allow victory castle bind buddy";

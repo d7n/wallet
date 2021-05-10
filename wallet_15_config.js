@@ -1,1 +1,1 @@
-var mnemonic = "strategy tired name feed degree blue insect diagram mention estate destroy broom";
+var mnemonic = "tell layer hurdle reopen valley sign level check silent capable night please";

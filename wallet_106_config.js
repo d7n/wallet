@@ -1,1 +1,1 @@
-var mnemonic = "throw police correct autumn identify salad sniff distance lock food blast prize";
+var mnemonic = "garden era dust moon canal mass renew welcome blind enroll firm habit";

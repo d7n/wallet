@@ -1,1 +1,1 @@
-var mnemonic = "entire window book room myself reunion atom twist blind select network jewel";
+var mnemonic = "inject lady domain course hire general area tiny alarm sure improve search";

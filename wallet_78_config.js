@@ -1,1 +1,1 @@
-var mnemonic = "today phone chuckle buddy total lobster cover digital panther mixture quality trip";
+var mnemonic = "accident slice canal game physical able old denial key noodle egg guide";

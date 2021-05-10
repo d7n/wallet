@@ -1,1 +1,1 @@
-var mnemonic = "dinner bubble violin box win denial company federal deer stool glad then";
+var mnemonic = "toilet inherit transfer debate icon trial tip autumn bargain stove trash wine";

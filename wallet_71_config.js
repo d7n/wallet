@@ -1,1 +1,1 @@
-var mnemonic = "art cancel fury three find glory stay obvious horse banana picnic charge";
+var mnemonic = "truck alter tissue arrest giraffe neglect action able wrap author riot smooth";

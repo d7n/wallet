@@ -1,1 +1,1 @@
-var mnemonic = "police okay blood long deal result evidence brave agent invite goose fame";
+var mnemonic = "embark below envelope bring boat violin focus better enrich stove venue mansion";

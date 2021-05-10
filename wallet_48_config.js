@@ -1,1 +1,1 @@
-var mnemonic = "reject lucky rebel recall omit scatter tragic judge accuse add enroll october";
+var mnemonic = "major annual since drift reform issue kitchen aware cost dose october siren";

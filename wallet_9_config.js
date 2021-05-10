@@ -1,1 +1,1 @@
-var mnemonic = "leopard ivory trend pigeon test model phrase daughter march math link raw";
+var mnemonic = "token trip spatial sudden salt craft jewel fine law secret sock giant";

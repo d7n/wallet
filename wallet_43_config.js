@@ -1,1 +1,1 @@
-var mnemonic = "shift biology step clutch canoe delay glove design cage planet gift clerk";
+var mnemonic = "hold level dawn pave virus invite absorb broken garlic cross tiny wire";

@@ -1,1 +1,1 @@
-var mnemonic = "skill under hollow screen match eye valley test ritual torch ancient snack";
+var mnemonic = "grow venture luggage cruise energy relief domain wash cook enforce dawn forum";

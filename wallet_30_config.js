@@ -1,1 +1,1 @@
-var mnemonic = "plug usual excess multiply boss assist hero nice casino feed inch kite";
+var mnemonic = "announce bind escape behave crystal few deal session tongue boss actress pink";

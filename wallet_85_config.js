@@ -1,1 +1,1 @@
-var mnemonic = "memory eight mom siren recipe dignity combine stable bitter explain frequent quit";
+var mnemonic = "fortune copy sail fever flash increase blood review swarm bless fashion pupil";

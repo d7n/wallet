@@ -1,1 +1,1 @@
-var mnemonic = "below giant horror loop brother exchange cruise begin profit cotton clutch current";
+var mnemonic = "wrap pole easy solid present wagon year subway pen swim device wine";

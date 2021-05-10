@@ -1,1 +1,1 @@
-var mnemonic = "because kick market maid club example labor produce manual sweet click salt";
+var mnemonic = "mechanic desk tumble define grocery expand update ivory bicycle monkey vapor annual";

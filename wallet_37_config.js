@@ -1,1 +1,1 @@
-var mnemonic = "debate only abandon auto window fly ahead purchase enter torch hero miss";
+var mnemonic = "design forget doll ten drop mushroom captain merry explain alert twenty deliver";

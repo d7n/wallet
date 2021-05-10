@@ -1,1 +1,1 @@
-var mnemonic = "valid must police sunny version fade topple excuse jeans deal reject acquire";
+var mnemonic = "local empty tennis avoid prevent exclude common recipe vapor goat auction weasel";

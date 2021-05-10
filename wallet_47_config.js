@@ -1,1 +1,1 @@
-var mnemonic = "trial banner bus lava segment differ surround tennis reflect style kid cluster";
+var mnemonic = "bag menu parade prison report earn danger tent load uncover bullet twenty";

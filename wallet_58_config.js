@@ -1,1 +1,1 @@
-var mnemonic = "green people rhythm olympic sun spray silly pottery clutch canoe horse history";
+var mnemonic = "mango net drop spot captain runway convince sleep game tiny goddess bone";

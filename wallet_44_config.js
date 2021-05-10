@@ -1,1 +1,1 @@
-var mnemonic = "news rent script more curve audit tent mother lock little shock shove";
+var mnemonic = "agent mouse allow snake fame search cabbage boost genre kitten shoe gossip";

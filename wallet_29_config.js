@@ -1,1 +1,1 @@
-var mnemonic = "menu adapt expose sweet solution coast chunk oil onion question submit agree";
+var mnemonic = "multiply forest annual loop recipe gym employ void panel visit virus visual";

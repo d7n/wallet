@@ -1,1 +1,1 @@
-var mnemonic = "depth balance uncle this access leisure angle topic grain screen goddess smart";
+var mnemonic = "woman catalog gather vendor negative judge timber major detect either hobby exclude";

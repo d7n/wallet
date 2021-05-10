@@ -1,1 +1,1 @@
-var mnemonic = "solar street again seven recipe life surround level knee modify minute badge";
+var mnemonic = "pluck law minute arrange price viable exercise erosion develop sample hurdle solid";

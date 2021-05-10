@@ -1,1 +1,1 @@
-var mnemonic = "stuff usual derive favorite seat move pair demise divert drink potato vague";
+var mnemonic = "enough robust come hire alpha miss amazing sketch essay lamp remember fork";

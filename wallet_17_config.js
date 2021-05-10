@@ -1,1 +1,1 @@
-var mnemonic = "still exile permit island process master opinion skill theme mother walnut core";
+var mnemonic = "chronic mandate opera that depart oyster puppy dress action short mansion clump";

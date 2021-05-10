@@ -1,1 +1,1 @@
-var mnemonic = "together nurse burden vital cause report card all bacon agent decorate doctor";
+var mnemonic = "phrase syrup remember air tourist manage boss sword admit unit tongue forget";

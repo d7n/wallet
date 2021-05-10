@@ -1,1 +1,1 @@
-var mnemonic = "category lava fame mobile next amused neutral enable task kitchen ordinary blanket";
+var mnemonic = "dry powder enjoy diet universe regret use run spawn pet city now";

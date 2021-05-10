@@ -1,1 +1,1 @@
-var mnemonic = "suspect dove inch excuse limb artwork render adult cousin blush month cloud";
+var mnemonic = "mean spend garage pipe similar over switch chicken lift online enact pilot";

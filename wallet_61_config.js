@@ -1,1 +1,1 @@
-var mnemonic = "deal human cause enact problem promote front stairs purpose laugh silent ceiling";
+var mnemonic = "demand track stem crisp outer picture shift retreat elevator general tackle key";

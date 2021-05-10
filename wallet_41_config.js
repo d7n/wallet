@@ -1,1 +1,1 @@
-var mnemonic = "company cram desert supply whisper ribbon verify miracle crack top render tool";
+var mnemonic = "guard limit hand aware summer remove enable phrase metal doctor voice police";

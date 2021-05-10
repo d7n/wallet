@@ -1,1 +1,1 @@
-var mnemonic = "bounce flat unusual satisfy achieve before syrup measure cannon scare egg bronze";
+var mnemonic = "boost ring oven sphere drill awkward flock dismiss interest rifle clip fault";

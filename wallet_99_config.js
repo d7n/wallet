@@ -1,1 +1,1 @@
-var mnemonic = "crop gadget settle chicken valve dwarf already observe borrow squeeze hood scene";
+var mnemonic = "dolphin journey erosion ketchup spice chef flash armed awful aerobic soul surface";

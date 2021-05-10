@@ -1,1 +1,1 @@
-var mnemonic = "radio praise relief nerve grit auction narrow behave neck rib wife arm";
+var mnemonic = "play because just clerk gap cave volcano dizzy heart mechanic dilemma swallow";

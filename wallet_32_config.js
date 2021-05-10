@@ -1,1 +1,1 @@
-var mnemonic = "ritual scorpion buyer invite surface install crouch enough zone dismiss live width";
+var mnemonic = "erase wedding try butter phrase rescue fee dad electric cup inhale donkey";

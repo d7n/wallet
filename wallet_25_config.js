@@ -1,1 +1,1 @@
-var mnemonic = "mix such rude enforce chaos digital economy humble people weekend move weekend";
+var mnemonic = "fitness fix grow famous feel enemy other witness fossil illness below vital";

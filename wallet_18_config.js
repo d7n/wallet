@@ -1,1 +1,1 @@
-var mnemonic = "reason total acquire airport lonely short express climb speak salad unhappy bitter";
+var mnemonic = "top girl rival shield human hard dress horror laugh fault reason drift";

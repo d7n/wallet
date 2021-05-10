@@ -1,1 +1,1 @@
-var mnemonic = "lizard flame swallow fire net deny pond divert gorilla alley practice portion";
+var mnemonic = "permit enjoy debate total apple minute outdoor soap rich page blood exotic";

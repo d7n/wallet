@@ -1,1 +1,1 @@
-var mnemonic = "elbow flock slam sting kind cash lizard sick vicious cable ivory clerk";
+var mnemonic = "boat fitness reveal slight spend major chronic nasty mosquito dog cook case";

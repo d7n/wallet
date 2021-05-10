@@ -1,1 +1,1 @@
-var mnemonic = "luggage angry copy grape cart kitten analyst laugh lounge inject trouble promote";
+var mnemonic = "stove elephant mule behind funny scene speed dragon eyebrow toilet bicycle course";

@@ -1,1 +1,1 @@
-var mnemonic = "notice drum fog blood escape receive mirror crane then sudden define emerge";
+var mnemonic = "network ethics tomorrow juice else bomb dance spatial fault dance heart width";

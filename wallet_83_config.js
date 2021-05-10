@@ -1,1 +1,1 @@
-var mnemonic = "comic cry make inherit nose logic label taxi universe depart topple parade";
+var mnemonic = "awkward mention sunny often affair tell paper soon garment audit trigger spice";

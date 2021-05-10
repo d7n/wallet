@@ -1,1 +1,1 @@
-var mnemonic = "turn believe perfect supply truth duty together cancel jelly pony abandon science";
+var mnemonic = "vocal snack dentist evolve receive final corn you siren exist struggle space";

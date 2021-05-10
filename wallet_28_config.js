@@ -1,1 +1,1 @@
-var mnemonic = "ski indicate dad now soldier carpet opera cake ill guess renew skin";
+var mnemonic = "piece dress beyond gospel gather float version general panel spawn only weapon";

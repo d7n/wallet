@@ -1,1 +1,1 @@
-var mnemonic = "fossil bullet prize critic lazy fatigue actor pencil situate neither reward slogan";
+var mnemonic = "pass flame vault skull magnet outdoor comic task remember odor mean hold";

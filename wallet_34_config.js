@@ -1,1 +1,1 @@
-var mnemonic = "sudden blade middle food foil defense rabbit during flag lend melt track";
+var mnemonic = "march know drip stuff clip fun rib quarter sudden battle thing attitude";

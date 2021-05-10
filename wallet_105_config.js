@@ -1,1 +1,1 @@
-var mnemonic = "govern drift rule ten render good creek neither sort kiss athlete enact";
+var mnemonic = "injury fitness observe few luxury exhibit marble scissors short fall six culture";

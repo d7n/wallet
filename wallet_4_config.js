@@ -1,1 +1,1 @@
-var mnemonic = "bread design foil item black token essence price boss seven crawl choice";
+var mnemonic = "poet around spread human chronic sleep brisk reason year stairs shoe list";

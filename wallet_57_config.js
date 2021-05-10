@@ -1,1 +1,1 @@
-var mnemonic = "icon wet lens jazz rug capable advance betray danger already finger tape";
+var mnemonic = "ahead left also whisper ice wire common frame rookie depth pizza dragon";

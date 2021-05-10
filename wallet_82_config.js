@@ -1,1 +1,1 @@
-var mnemonic = "hollow chest rail kiss rapid stick proof point dress know harsh false";
+var mnemonic = "donkey agree record garage draft gasp push genre plate globe april talk";

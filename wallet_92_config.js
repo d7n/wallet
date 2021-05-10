@@ -1,1 +1,1 @@
-var mnemonic = "army hedgehog become endless stock opera option pizza endless rubber salad liberty";
+var mnemonic = "orchard swear dry ten green pulse joke man lunch govern sibling winner";

@@ -1,1 +1,1 @@
-var mnemonic = "always mansion abuse plate rival toward lizard alert radio current trend settle";
+var mnemonic = "vendor text critic control spatial east human burden tiny fragile unaware abuse";

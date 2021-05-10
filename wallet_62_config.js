@@ -1,1 +1,1 @@
-var mnemonic = "sort cool move army patient ranch magic cushion jeans sense tobacco gloom";
+var mnemonic = "rich concert cherry this slush slogan blue trouble beyond adjust reason reward";

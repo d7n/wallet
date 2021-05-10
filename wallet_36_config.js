@@ -1,1 +1,1 @@
-var mnemonic = "lend frozen setup ghost quiz carry catalog give nephew father voice scrap";
+var mnemonic = "enjoy poem orchard west muscle wasp inhale twice style taste iron cloud";

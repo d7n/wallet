@@ -1,1 +1,1 @@
-var mnemonic = "gauge rookie kite age inflict slam gather gym bean swim unique van";
+var mnemonic = "twice fly width surround genius draw obey jeans owner pelican metal recycle";

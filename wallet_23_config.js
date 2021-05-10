@@ -1,1 +1,1 @@
-var mnemonic = "flash duck canvas airport meat replace legend half coast excess witness dress";
+var mnemonic = "mechanic soldier dry frequent knee idle woman affair rhythm tobacco recall reason";

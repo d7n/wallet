@@ -1,1 +1,1 @@
-var mnemonic = "vast day dolphin pioneer flock square badge sheriff retreat kingdom chapter joy";
+var mnemonic = "assist fly hamster marble try clip demand april become setup lecture table";

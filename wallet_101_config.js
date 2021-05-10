@@ -1,1 +1,1 @@
-var mnemonic = "picnic birth broom repair regular fossil quick captain able prison pause entire";
+var mnemonic = "history short road copper flush popular invite seek cigar online holiday quantum";

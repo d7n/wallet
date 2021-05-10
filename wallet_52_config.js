@@ -1,1 +1,1 @@
-var mnemonic = "cloth know country click rubber flavor order fabric toss lonely globe exercise";
+var mnemonic = "topple tunnel burger fish erupt ginger assault alcohol combine ticket stool away";

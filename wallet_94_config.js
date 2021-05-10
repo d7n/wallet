@@ -1,1 +1,1 @@
-var mnemonic = "suit runway angle slender like drastic rare dinner tattoo planet poem write";
+var mnemonic = "sand ridge scissors identify conduct bicycle search acoustic bacon victory warfare crack";

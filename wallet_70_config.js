@@ -1,1 +1,1 @@
-var mnemonic = "strike onion prevent purity autumn interest pencil range spider screen fork inch";
+var mnemonic = "estate world finish dial emotion note melt aerobic either click scatter spoon";

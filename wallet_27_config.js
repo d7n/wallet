@@ -1,1 +1,1 @@
-var mnemonic = "orbit coast when still thought ramp what polar puppy mansion vessel picnic";
+var mnemonic = "fee sugar alcohol stone island feed place sketch force wise focus rose";

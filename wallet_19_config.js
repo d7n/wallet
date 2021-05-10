@@ -1,1 +1,1 @@
-var mnemonic = "deer sketch expose powder staff develop hold quick topic region cattle patrol";
+var mnemonic = "camera then sentence end sniff boat hamster lawsuit egg soup mad sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz canoe immense kiwi visit relax try very flavor jacket scrub used";
+var mnemonic = "neutral biology armor nut visit shield text dance gossip barely interest adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "flock thing system invest toast knife matrix hole rookie reduce title mail";
+var mnemonic = "fog waste focus smooth young renew yard edit immense hub stool alpha";

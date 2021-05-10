@@ -1,1 +1,1 @@
-var mnemonic = "eternal advance busy route curve empty ceiling magic fever grow tennis history";
+var mnemonic = "tide bacon burst glory chapter file strategy capable midnight apart track absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "develop fork garlic auto pull vintage drink rose era blind suggest denial";
+var mnemonic = "space dynamic crush protect inner small penalty tool own engage mom embody";

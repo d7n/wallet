@@ -1,1 +1,1 @@
-var mnemonic = "main impulse sunset chicken argue yellow spin cliff debris brush off loan";
+var mnemonic = "brisk also illness cereal dismiss use action income misery tomorrow depart balance";

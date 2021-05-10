@@ -1,1 +1,1 @@
-var mnemonic = "gorilla neck enforce torch buyer slim rural borrow grief year bind void";
+var mnemonic = "solar coin fossil detect raven depth flower method canal romance belt depend";

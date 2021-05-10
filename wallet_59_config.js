@@ -1,1 +1,1 @@
-var mnemonic = "invite radar magnet raise beauty mystery recipe enough blade silly nut tide";
+var mnemonic = "recycle balance reunion valley dutch wave shiver toddler digital pink huge omit";

@@ -1,1 +1,1 @@
-var mnemonic = "desert congress strike drastic blouse melt auto muffin idle science region slam";
+var mnemonic = "boy tube horror mother large ridge since gossip wedding code other doll";

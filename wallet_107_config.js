@@ -1,1 +1,1 @@
-var mnemonic = "debate joy sphere core guitar orbit exclude border useful achieve machine alert";
+var mnemonic = "border balcony diagram art vessel among tiny sock absurd oxygen entire evil";

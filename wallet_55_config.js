@@ -1,1 +1,1 @@
-var mnemonic = "category weather ethics village diagram jealous laundry fantasy glove pig use kitten";
+var mnemonic = "opera parade waste pepper law alcohol crisp flush toast kind copy describe";

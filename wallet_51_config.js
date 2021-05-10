@@ -1,1 +1,1 @@
-var mnemonic = "dove amused talk habit render rural seven unlock vivid save tobacco sniff";
+var mnemonic = "drive super gentle cage siege dutch dress raise title dune gap mixed";

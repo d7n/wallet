@@ -1,1 +1,1 @@
-var mnemonic = "stick ride core maple topic power sick parade trouble barely spread join";
+var mnemonic = "pulp impose ripple edge swim cushion glue balance green wool parent super";

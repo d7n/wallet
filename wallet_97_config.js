@@ -1,1 +1,1 @@
-var mnemonic = "foot purchase rule soccer pear lecture install ranch crouch pill sheriff subway";
+var mnemonic = "holiday earn debris inherit wall insect erase space december engage slot business";
