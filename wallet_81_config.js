@@ -1,1 +1,1 @@
-var mnemonic = "rubber step pause youth whip company rib van can scorpion near census";
+var mnemonic = "observe jealous dust question figure lamp orbit ask member host genius wise";

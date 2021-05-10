@@ -1,1 +1,1 @@
-var mnemonic = "surprise transfer remember topple master honey census divert shoulder approve dress suit";
+var mnemonic = "pelican onion feature lion pumpkin basic ostrich album base favorite panel team";

@@ -1,1 +1,1 @@
-var mnemonic = "concert gasp slight hundred faith depart force february hurdle rigid panic calm";
+var mnemonic = "leader drink lyrics obey journey depth arm rain hurdle strategy exercise glory";

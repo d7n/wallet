@@ -1,1 +1,1 @@
-var mnemonic = "check robot route age client balcony laugh nurse attitude ancient sock broom";
+var mnemonic = "endorse north dumb long depart choose fade genre evidence flash little tree";

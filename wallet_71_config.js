@@ -1,1 +1,1 @@
-var mnemonic = "knock rice gentle pluck carry police boss leisure fault laptop shop just";
+var mnemonic = "talk sugar paper twelve crater bachelor pioneer genre crack junk mandate frame";

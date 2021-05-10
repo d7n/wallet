@@ -1,1 +1,1 @@
-var mnemonic = "punch year attitude summer fiber long seven spell obtain buzz road patrol";
+var mnemonic = "clerk urge catalog bread pluck kick merry tonight usual brother scatter artwork";

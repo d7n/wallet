@@ -1,1 +1,1 @@
-var mnemonic = "always wear debate misery survey elevator biology apology endless tower foam derive";
+var mnemonic = "will ability connect paper acquire hollow sausage venture melody aerobic paper warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic divorce glow odor brown inquiry option truck crisp viable floor dilemma";
+var mnemonic = "core multiply patch level together squeeze crane awful fly review cause humble";

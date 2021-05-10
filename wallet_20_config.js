@@ -1,1 +1,1 @@
-var mnemonic = "bread menu test medal witness lawn trust output dust expand scrap claim";
+var mnemonic = "game uphold ketchup common grape east exchange palace arrange kitten supply outdoor";

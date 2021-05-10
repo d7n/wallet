@@ -1,1 +1,1 @@
-var mnemonic = "eternal hip angle cement vessel duck damp scale scene trip obscure trap";
+var mnemonic = "wall route deputy weasel coil black require poem tool dog art assume";

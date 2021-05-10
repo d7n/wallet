@@ -1,1 +1,1 @@
-var mnemonic = "west beef ask oven shine where limit exhibit sad trap stem veteran";
+var mnemonic = "rose produce tumble quit merry bridge minimum popular soap old seek add";

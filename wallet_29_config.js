@@ -1,1 +1,1 @@
-var mnemonic = "night repeat gas keen volcano coconut language volume scheme gym effort leopard";
+var mnemonic = "coffee animal hood divorce permit update eight oblige match truly crazy claim";

@@ -1,1 +1,1 @@
-var mnemonic = "bag bid clinic theme oak round toast field boil inject behind mushroom";
+var mnemonic = "boy lumber palace olympic trial weather sponsor hotel adapt office bacon credit";

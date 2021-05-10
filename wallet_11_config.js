@@ -1,1 +1,1 @@
-var mnemonic = "drink rare sister frequent notable pole pioneer gravity sister dilemma notice only";
+var mnemonic = "avoid south attract spatial sunny hope zoo tell meat mushroom style grant";

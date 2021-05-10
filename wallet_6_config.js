@@ -1,1 +1,1 @@
-var mnemonic = "diesel surface mercy ridge file square sheriff live lion crystal govern copper";
+var mnemonic = "rebuild media lend skull unit toy please emotion ketchup slogan solid pass";

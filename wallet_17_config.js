@@ -1,1 +1,1 @@
-var mnemonic = "height inspire rack unique acquire tag wine base online desert scene rich";
+var mnemonic = "online alert wrist narrow okay cruise slow glide ski settle order drill";

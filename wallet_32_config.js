@@ -1,1 +1,1 @@
-var mnemonic = "model exhaust banner scrap lake truth bike hair glass quit toy expose";
+var mnemonic = "welcome knife fashion enact opera foil deny want return six column honey";

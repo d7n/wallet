@@ -1,1 +1,1 @@
-var mnemonic = "amused kangaroo soccer hold front fury occur prevent begin raw artist fever";
+var mnemonic = "food clarify enough disease tape cruise affair endorse network betray almost ahead";

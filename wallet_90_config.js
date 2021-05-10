@@ -1,1 +1,1 @@
-var mnemonic = "plunge design energy grass surface cradle split comfort beef autumn delay chair";
+var mnemonic = "lawn cheese dance woman uncover because gospel turtle wing ladder aspect net";

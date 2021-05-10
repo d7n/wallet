@@ -1,1 +1,1 @@
-var mnemonic = "labor nature connect insane gauge lyrics useless evidence west soft rapid name";
+var mnemonic = "liberty artefact gap allow phrase matrix february deer reopen wedding scissors jewel";

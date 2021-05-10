@@ -1,1 +1,1 @@
-var mnemonic = "deny final market spice sound hour relax perfect cruise flower feature rather";
+var mnemonic = "bacon crouch concert over bullet capital regret test eye trend wreck defy";

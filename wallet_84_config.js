@@ -1,1 +1,1 @@
-var mnemonic = "recipe swallow life magic heart heavy sausage post bullet promote company bubble";
+var mnemonic = "hold wage base entire mind shrimp stem twice offer fan labor depart";

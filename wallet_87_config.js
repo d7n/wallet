@@ -1,1 +1,1 @@
-var mnemonic = "fantasy congress under elevator dinner scrap deputy nation unusual salad cover core";
+var mnemonic = "comfort sleep pelican found shift custom joke differ job panel random tank";

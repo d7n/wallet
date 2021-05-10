@@ -1,1 +1,1 @@
-var mnemonic = "laptop length scout estate shadow gasp salt box wedding recipe treat evolve";
+var mnemonic = "mushroom fly above actual panther attract arrest spatial reform spawn open panel";

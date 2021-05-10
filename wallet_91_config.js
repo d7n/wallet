@@ -1,1 +1,1 @@
-var mnemonic = "wild right mandate echo say orange rose purpose middle write fly rail";
+var mnemonic = "maid immune cheese balance moon equal fiber word furnace spread ask matrix";

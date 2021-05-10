@@ -1,1 +1,1 @@
-var mnemonic = "maze lunch rally category cotton tumble coach flame fault speed excite replace";
+var mnemonic = "sick mule either immune tunnel travel recipe flag issue effort never track";

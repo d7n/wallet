@@ -1,1 +1,1 @@
-var mnemonic = "behind wedding film orchard pumpkin force ivory manual soccer laundry border frame";
+var mnemonic = "square frame tortoise vapor napkin snake surge puppy mixture celery bounce bulk";

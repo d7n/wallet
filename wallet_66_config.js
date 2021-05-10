@@ -1,1 +1,1 @@
-var mnemonic = "twist wall giant false diagram soda junior industry brush vessel tortoise tongue";
+var mnemonic = "bamboo miracle actor trash pigeon drink just shaft oven enforce refuse about";

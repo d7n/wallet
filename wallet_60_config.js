@@ -1,1 +1,1 @@
-var mnemonic = "wedding festival amount visit sugar furnace license pause person number lazy industry";
+var mnemonic = "hawk shock lend better limb reform dad gym sorry day clutch spirit";

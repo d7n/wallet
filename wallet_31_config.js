@@ -1,1 +1,1 @@
-var mnemonic = "sleep angle people detail source enemy liar urban confirm arch wool mass";
+var mnemonic = "weapon rain acoustic excess fame razor family display erupt three twelve near";

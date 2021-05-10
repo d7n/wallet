@@ -1,1 +1,1 @@
-var mnemonic = "acoustic animal mistake stomach dish bitter boss boost ramp eye moon ripple";
+var mnemonic = "effort rather tiger client point point stairs foil sister great hobby actress";

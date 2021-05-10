@@ -1,1 +1,1 @@
-var mnemonic = "width motor final seminar host device chuckle pistol father light hand float";
+var mnemonic = "surprise ozone fun fault limb purpose cannon state cash bright digital exclude";

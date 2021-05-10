@@ -1,1 +1,1 @@
-var mnemonic = "believe weapon violin arch mixture start torch toe ripple reveal today between";
+var mnemonic = "stand calm rich please voice rubber victory what swear base boy master";

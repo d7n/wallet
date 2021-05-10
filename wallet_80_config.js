@@ -1,1 +1,1 @@
-var mnemonic = "critic mirror resist toe breeze that wish visa useless twin february alert";
+var mnemonic = "drum anger taxi merge inflict dose swear negative ozone people lesson tattoo";

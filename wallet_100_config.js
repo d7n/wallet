@@ -1,1 +1,1 @@
-var mnemonic = "churn spawn fix huge alley able nurse notable uniform worth acid sibling";
+var mnemonic = "title horse eyebrow dolphin unlock mistake office castle add that valve survey";

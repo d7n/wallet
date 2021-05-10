@@ -1,1 +1,1 @@
-var mnemonic = "final engine immune sword neither dose innocent veteran wear tent gather snow";
+var mnemonic = "hand arrange weird situate flower cloth galaxy pen grunt strong myth wolf";

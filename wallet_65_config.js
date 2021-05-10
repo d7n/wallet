@@ -1,1 +1,1 @@
-var mnemonic = "nerve correct good receive artefact nasty today glory acquire depart garbage banner";
+var mnemonic = "bicycle write cash village excess buyer category frozen advice express stamp stadium";

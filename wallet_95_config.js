@@ -1,1 +1,1 @@
-var mnemonic = "enable stay pact famous lock visual normal skirt alter path hair vendor";
+var mnemonic = "slow balance lamp funny wrist rule mobile today pistol pair elephant relax";

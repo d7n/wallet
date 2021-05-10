@@ -1,1 +1,1 @@
-var mnemonic = "liar spoil vessel mimic suffer duck sting all bundle burger avocado minimum";
+var mnemonic = "notice offer whip prosper deer crash arm web scout shy spoon nose";

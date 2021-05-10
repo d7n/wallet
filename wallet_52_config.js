@@ -1,1 +1,1 @@
-var mnemonic = "toddler soda raise wild rent trial fog hard over lazy exercise orchard";
+var mnemonic = "connect modify exile diesel damp dilemma limb tobacco fresh jar manage mule";

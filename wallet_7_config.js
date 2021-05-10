@@ -1,1 +1,1 @@
-var mnemonic = "laundry silver exhaust wrap desk habit sugar secret defy assume year clay";
+var mnemonic = "fossil easy when deal host wisdom faint amateur guide worry roof tide";

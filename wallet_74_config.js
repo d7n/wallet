@@ -1,1 +1,1 @@
-var mnemonic = "clock when clerk garlic winner chest leopard trade carry acquire daughter session";
+var mnemonic = "liar resource boring lift arrive extra wise sponsor armor copy swear toward";

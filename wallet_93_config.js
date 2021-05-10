@@ -1,1 +1,1 @@
-var mnemonic = "traffic absent announce rice hover town comfort alien sell ticket bulb mandate";
+var mnemonic = "flat wrestle victory mansion visual wing okay pair come layer false toward";

@@ -1,1 +1,1 @@
-var mnemonic = "topic marine novel stem odor youth swift situate decade horror witness seminar";
+var mnemonic = "orchard release gate east avoid wing robust acquire foster deposit ahead phone";

@@ -1,1 +1,1 @@
-var mnemonic = "expect decide kind diary foam hen mercy unit catch dad mind mountain";
+var mnemonic = "night spy material leaf ring wreck powder swallow peanut wash visual globe";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon glimpse finger nominee other glove armed squeeze decide crop prevent black";
+var mnemonic = "aware scorpion prepare copper predict chest large awkward never swim airport mystery";

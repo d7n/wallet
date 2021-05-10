@@ -1,1 +1,1 @@
-var mnemonic = "bottom huge obtain initial cradle chicken knife wage accuse trend valley custom";
+var mnemonic = "movie corn borrow bomb tide treat latin author burden this impact galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "comic there gym under foot ten good material unfold quarter off city";
+var mnemonic = "chunk ball festival habit peanut left topic oxygen region cram sting lawn";

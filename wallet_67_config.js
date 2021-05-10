@@ -1,1 +1,1 @@
-var mnemonic = "grit thank jar road noise wonder defy original pulse crazy movie drill";
+var mnemonic = "involve decide purity holiday trumpet spoon peasant only cram raise cargo risk";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus fossil pyramid surround faith aerobic sudden express gasp elbow bird decide";
+var mnemonic = "glove ribbon never cake predict above myself peasant leisure discover mom flight";

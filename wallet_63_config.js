@@ -1,1 +1,1 @@
-var mnemonic = "creek skirt local help puppy click aerobic provide orange drastic helmet ripple";
+var mnemonic = "fossil observe powder token benefit scare hat hen bottom time ankle next";

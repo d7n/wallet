@@ -1,1 +1,1 @@
-var mnemonic = "park rail essay more lucky popular spike else cool cross resist violin";
+var mnemonic = "earth gaze gospel hawk million kit this oven group shuffle thunder about";

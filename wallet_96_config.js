@@ -1,1 +1,1 @@
-var mnemonic = "satisfy patient piano inside corn galaxy mixed burst label repeat state brush";
+var mnemonic = "message lamp smooth rent entry slide soap number enroll inherit twist choice";

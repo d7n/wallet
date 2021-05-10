@@ -1,1 +1,1 @@
-var mnemonic = "amazing dress act appear settle cattle expire transfer pilot silent stand mask";
+var mnemonic = "cliff admit frequent lake ozone waste pelican arrive theory steel syrup foot";

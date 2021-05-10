@@ -1,1 +1,1 @@
-var mnemonic = "beef hair winter evolve label shadow limit spell swing flee steel raven";
+var mnemonic = "split loud various stairs jungle permit uniform very hover grain similar portion";

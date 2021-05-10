@@ -1,1 +1,1 @@
-var mnemonic = "alley dress short close combine science install crime mandate vehicle hole retreat";
+var mnemonic = "coach vessel apart mention mushroom hip clay churn never pledge polar horn";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo hamster fashion already exact speed blur knock soup cash sheriff income";
+var mnemonic = "salon cross tone tomorrow post almost asset hotel walnut stand swamp strategy";

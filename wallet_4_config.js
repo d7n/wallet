@@ -1,1 +1,1 @@
-var mnemonic = "welcome ketchup guide desert clean absent flee breeze chronic faculty shed used";
+var mnemonic = "divert tent gasp balcony cook royal puppy accident cool drum great crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "amount insect sweet fat pave switch steak hope mountain exile clip note";
+var mnemonic = "combine zebra loyal wreck ocean sweet open hip menu waste rain outer";

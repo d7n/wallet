@@ -1,1 +1,1 @@
-var mnemonic = "note float humor disorder weird athlete divorce such ball kidney habit wage";
+var mnemonic = "minimum huge noodle enter never onion thought skirt route digital fancy vacant";

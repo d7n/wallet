@@ -1,1 +1,1 @@
-var mnemonic = "absorb tired bid connect alcohol mushroom throw acoustic canoe autumn soul dream";
+var mnemonic = "canoe zone wedding nothing color toe cover pupil prepare offer check river";

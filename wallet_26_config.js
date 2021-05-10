@@ -1,1 +1,1 @@
-var mnemonic = "scale dog hamster program manage spoon lounge poverty label figure shove rack";
+var mnemonic = "tribe olympic future armor purse little cloth panda fringe buyer mule canyon";

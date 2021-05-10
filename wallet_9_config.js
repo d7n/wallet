@@ -1,1 +1,1 @@
-var mnemonic = "supply couple gloom pink citizen theory wasp people once term pumpkin tobacco";
+var mnemonic = "egg useless wagon extra film lizard today squeeze truth know illness cancel";

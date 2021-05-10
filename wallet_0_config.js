@@ -1,1 +1,1 @@
-var mnemonic = "avoid cliff leg memory weird kiwi inspire control blouse rebuild media stand";
+var mnemonic = "dream walk hollow oil adjust connect suggest brick funny street icon effort";

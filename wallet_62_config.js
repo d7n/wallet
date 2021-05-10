@@ -1,1 +1,1 @@
-var mnemonic = "alien scout camp girl effort reward green rabbit copy fatigue flush ball";
+var mnemonic = "chef spatial fire dismiss off photo detail wait physical spot basic blossom";

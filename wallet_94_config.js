@@ -1,1 +1,1 @@
-var mnemonic = "whisper virus express boring belt act play genuine flower rug legal sniff";
+var mnemonic = "jungle tank already bulb similar spider salad say august enforce famous midnight";

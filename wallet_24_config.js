@@ -1,1 +1,1 @@
-var mnemonic = "deposit chair involve soldier recycle divert wise domain cricket slot begin scale";
+var mnemonic = "attack peanut grape outer multiply shock razor correct wisdom drastic village that";

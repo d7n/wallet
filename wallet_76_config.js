@@ -1,1 +1,1 @@
-var mnemonic = "air flash dry typical jelly swallow win degree calm tent doll giraffe";
+var mnemonic = "act since alter immense chaos column gloom program purchase ozone obey outer";

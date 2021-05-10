@@ -1,1 +1,1 @@
-var mnemonic = "actress fossil spirit setup increase order nose birth square car fiber isolate";
+var mnemonic = "voyage junior coffee agree text fringe visual hybrid glass dolphin column farm";

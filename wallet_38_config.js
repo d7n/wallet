@@ -1,1 +1,1 @@
-var mnemonic = "canal board live joke frame loop emerge busy nephew still nation void";
+var mnemonic = "step quantum define retire buddy orange release mesh road foam stadium room";

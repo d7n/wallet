@@ -1,1 +1,1 @@
-var mnemonic = "scorpion ecology refuse pilot doctor robust evidence witness until damage inner knife";
+var mnemonic = "farm license warm yard silk mean fortune father apart tomato lamp always";

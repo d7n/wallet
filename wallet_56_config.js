@@ -1,1 +1,1 @@
-var mnemonic = "screen tourist major town move episode captain tongue actress pear shiver neither";
+var mnemonic = "basic abuse orange invest unfold laundry term session mask minor hint almost";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol beauty gym rain cousin canvas guide treat involve ranch boat cotton";
+var mnemonic = "antenna save antenna fringe spread toward flat come obtain chaos moment stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "exile hazard neither grape mushroom cradle attract load cost mass grace address";
+var mnemonic = "ignore emerge retreat apology dilemma grunt grid bacon flash special insect breeze";

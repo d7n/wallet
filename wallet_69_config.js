@@ -1,1 +1,1 @@
-var mnemonic = "above warrior tongue there online all success globe visa mimic legal person";
+var mnemonic = "praise birth easily donor claim glad rhythm impulse hollow useful tell dry";

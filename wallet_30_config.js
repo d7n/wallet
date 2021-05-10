@@ -1,1 +1,1 @@
-var mnemonic = "grain aerobic girl lend open awake jump ski hurry lift intact sock";
+var mnemonic = "area exact camp solve select tomato valid idle prepare oyster install weather";

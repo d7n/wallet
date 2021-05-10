@@ -1,1 +1,1 @@
-var mnemonic = "struggle turtle tower lemon raven require liar toilet legend filter rebuild lottery";
+var mnemonic = "celery today borrow sudden nose health cancel lock excuse melt grace travel";

@@ -1,1 +1,1 @@
-var mnemonic = "submit black lobster burst render shift grief bundle female south menu lake";
+var mnemonic = "rubber leopard lens actress swap reason into apology benefit rice wealth fat";

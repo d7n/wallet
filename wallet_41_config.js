@@ -1,1 +1,1 @@
-var mnemonic = "fantasy zebra burger wait luggage ketchup toilet assault actor report clock provide";
+var mnemonic = "often illness enter teach soda live denial any nuclear poet yellow drip";

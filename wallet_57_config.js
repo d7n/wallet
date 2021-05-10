@@ -1,1 +1,1 @@
-var mnemonic = "hammer affair addict spare hold road turkey forget nature witness connect useful";
+var mnemonic = "answer shine glow fish equal dilemma chunk harsh robot picnic potato mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure sunny detect traffic divert vendor response budget warrior twelve lab leave";
+var mnemonic = "voyage okay scatter lake matrix brain absent crane dutch spike soul wife";

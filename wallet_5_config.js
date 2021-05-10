@@ -1,1 +1,1 @@
-var mnemonic = "keep denial beyond involve town water emotion festival video amateur fuel sorry";
+var mnemonic = "warm dune farm armed strong decorate forest acquire mask decade meat island";

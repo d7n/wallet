@@ -1,1 +1,1 @@
-var mnemonic = "catch surface cigar panda suspect garbage second yard toddler asthma month success";
+var mnemonic = "mobile velvet stereo great symbol project twist control install clown order eternal";

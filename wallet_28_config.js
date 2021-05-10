@@ -1,1 +1,1 @@
-var mnemonic = "audit maid ramp usual patch also there ostrich humor clock lab build";
+var mnemonic = "fossil dog private ozone thing prosper insect monitor climb desert people night";

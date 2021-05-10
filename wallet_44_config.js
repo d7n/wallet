@@ -1,1 +1,1 @@
-var mnemonic = "route hill unaware robot story goose angry drill parent move soon peasant";
+var mnemonic = "strike inflict auto crucial tunnel media silver smoke toilet mimic execute trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "search cushion output trend lunch sick cushion olive cherry fruit tiger uncover";
+var mnemonic = "deny profit punch dilemma hair rare wonder behind angry infant valid drop";

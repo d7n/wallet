@@ -1,1 +1,1 @@
-var mnemonic = "grid dentist glimpse series logic gap ghost sea inject soul walk ridge";
+var mnemonic = "slush bless bomb leaf alien word silly sister vapor glove this wheel";

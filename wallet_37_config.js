@@ -1,1 +1,1 @@
-var mnemonic = "reform pretty silent leaf artefact explain mouse shoot dance hammer there warrior";
+var mnemonic = "lift script merry list crisp call water similar envelope tooth knife glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "iron mass marine lucky cactus cruise almost abuse leisure ugly person piano";
+var mnemonic = "magic deny account result repair detail blind mother derive help this rose";

@@ -1,1 +1,1 @@
-var mnemonic = "spare undo mixed dolphin panther furnace couch fashion cotton mass drip verify";
+var mnemonic = "primary dinosaur slide pair photo sleep artist bright define glass faint art";

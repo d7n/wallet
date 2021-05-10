@@ -1,1 +1,1 @@
-var mnemonic = "ignore salute fiscal hero local rhythm animal step nation friend click legend";
+var mnemonic = "fiction ribbon asthma stamp pumpkin nasty celery when kitchen between motor find";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist evolve swift era hundred time super juice market market legend swarm";
+var mnemonic = "foam earn uphold wagon review coast panther salad absurd thunder city scene";
