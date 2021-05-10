@@ -1,1 +1,1 @@
-var mnemonic = "shuffle spray achieve slab delay index middle feature gym boss device silent";
+var mnemonic = "spatial know festival matrix lens donkey amused birth digital island prefer heart";

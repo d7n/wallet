@@ -1,1 +1,1 @@
-var mnemonic = "pretty member slogan prevent thrive lunch exile letter loud spell swarm language";
+var mnemonic = "only crane satisfy agree route situate lawn curtain rescue chat brief outdoor";

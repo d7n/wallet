@@ -1,1 +1,1 @@
-var mnemonic = "soon miss tomato curve jewel robust century cancel corn blush accident mix";
+var mnemonic = "when bean trim mango try prison cycle young captain birth increase start";

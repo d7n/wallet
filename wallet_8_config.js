@@ -1,1 +1,1 @@
-var mnemonic = "disease deny praise useless proof tiger canyon tuition ten fork under juice";
+var mnemonic = "worth huge crash mesh coyote head invite gesture area kitten monitor clock";

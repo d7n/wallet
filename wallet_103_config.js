@@ -1,1 +1,1 @@
-var mnemonic = "heart okay stuff recall shuffle ill observe light orient insect spoon time";
+var mnemonic = "fish turn zoo just size radar mobile east used car garage plug";

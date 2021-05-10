@@ -1,1 +1,1 @@
-var mnemonic = "embrace farm chair bright reunion merry issue minimum embark athlete before predict";
+var mnemonic = "palm door swim mom sadness loan chair battle direct age feel close";

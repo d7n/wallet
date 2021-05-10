@@ -1,1 +1,1 @@
-var mnemonic = "they drive acoustic dose hire phone hamster hand range elevator episode noble";
+var mnemonic = "artist forest art zone approve benefit coral cable steel theme tower bubble";

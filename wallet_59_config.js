@@ -1,1 +1,1 @@
-var mnemonic = "margin patient guess idle horse caught crisp maid nut romance notice liar";
+var mnemonic = "measure pet group damp collect behave message minor manual height vintage consider";

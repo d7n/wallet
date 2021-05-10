@@ -1,1 +1,1 @@
-var mnemonic = "expose second end silent crisp diamond cloth differ session juice mention inherit";
+var mnemonic = "vocal cherry suit license object stomach fortune viable quote rapid cigar nature";

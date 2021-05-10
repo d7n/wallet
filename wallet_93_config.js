@@ -1,1 +1,1 @@
-var mnemonic = "sport domain enjoy bright avocado shoulder drive excess skate genre decrease cattle";
+var mnemonic = "fresh rib neutral erupt sail ginger unlock region advance viable dignity festival";

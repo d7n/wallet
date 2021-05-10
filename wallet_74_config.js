@@ -1,1 +1,1 @@
-var mnemonic = "size zebra slight orange daughter useful will debate slide cable unusual crisp";
+var mnemonic = "case actual eyebrow arrow credit bunker solve same knock squirrel sponsor quality";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer source begin either tooth tornado deer hour earth kiss pig artwork";
+var mnemonic = "mixture quote aunt glide toddler great dinner unusual latin hair badge punch";

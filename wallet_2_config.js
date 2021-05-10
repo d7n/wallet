@@ -1,1 +1,1 @@
-var mnemonic = "under hockey coconut explain ability stage annual habit title width cushion decorate";
+var mnemonic = "address excuse wrong glove weasel weasel useful grace sibling agent isolate artwork";

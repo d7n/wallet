@@ -1,1 +1,1 @@
-var mnemonic = "mouse hobby property nature oil identify rack apple supply now dumb text";
+var mnemonic = "timber better bicycle concert model river breeze basket crucial mango drink seed";

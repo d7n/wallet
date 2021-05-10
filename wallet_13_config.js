@@ -1,1 +1,1 @@
-var mnemonic = "bunker critic walk castle gap metal fantasy control rebuild grunt vacuum brush";
+var mnemonic = "patrol unlock gentle genuine vast raise basket scissors rebuild check private era";

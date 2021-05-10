@@ -1,1 +1,1 @@
-var mnemonic = "service despair hint session frequent eternal misery erosion say awake come creek";
+var mnemonic = "nut lawsuit sadness rapid tomorrow myth grit bench lecture practice bus route";

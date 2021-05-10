@@ -1,1 +1,1 @@
-var mnemonic = "nasty connect gesture auto filter frequent cruel crew sausage rail expose suit";
+var mnemonic = "pioneer tumble mobile jacket gym skull input library room fragile course marriage";

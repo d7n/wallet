@@ -1,1 +1,1 @@
-var mnemonic = "polar young victory ride universe general swamp glide scatter survey upgrade kid";
+var mnemonic = "regret antique bargain midnight end entry brisk miracle mercy legend ivory merge";

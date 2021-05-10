@@ -1,1 +1,1 @@
-var mnemonic = "destroy ready afford speak zero advice scene myself filter soup fiction subway";
+var mnemonic = "matter inherit safe drill diary mixture acid metal punch section bunker veteran";

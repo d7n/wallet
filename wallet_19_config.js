@@ -1,1 +1,1 @@
-var mnemonic = "wear robust enforce lizard near rebel decide unique spray frost coach outdoor";
+var mnemonic = "wolf pact museum rotate company hire rapid enemy mention flock girl that";

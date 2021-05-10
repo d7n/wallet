@@ -1,1 +1,1 @@
-var mnemonic = "owner frog smart sword stuff asthma visual palm fog injury tool bachelor";
+var mnemonic = "foot salt crumble flock tail design birth odor agree monitor seat repeat";

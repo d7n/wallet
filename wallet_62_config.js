@@ -1,1 +1,1 @@
-var mnemonic = "beauty yellow morning truth hedgehog sell input dust milk entire permit hurry";
+var mnemonic = "hover pulse lottery ask glide oxygen envelope oblige flee turn job plastic";

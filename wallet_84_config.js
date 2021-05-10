@@ -1,1 +1,1 @@
-var mnemonic = "street prevent friend wheat tomorrow spirit clean kiss make lock lonely modify";
+var mnemonic = "beauty ability detail involve panda canyon ankle wealth hobby shallow mention cloud";

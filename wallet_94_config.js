@@ -1,1 +1,1 @@
-var mnemonic = "gold spare same mother comic barrel index talk seed hip obscure theory";
+var mnemonic = "cactus spring arctic jazz cheap logic glimpse enter rich donor correct edit";

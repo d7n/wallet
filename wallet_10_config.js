@@ -1,1 +1,1 @@
-var mnemonic = "topple morning sight waste plug tunnel cause organ scan used obey short";
+var mnemonic = "forget olive cash until hotel beauty riot truly beach deal cotton menu";

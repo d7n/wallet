@@ -1,1 +1,1 @@
-var mnemonic = "oak inner sheriff girl junk noise goat matrix feel destroy wash cannon";
+var mnemonic = "wagon orphan nose glad human airport bag flight lucky layer various defense";

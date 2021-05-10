@@ -1,1 +1,1 @@
-var mnemonic = "cancel soldier horror rabbit draft broken jeans melt together riot viable electric";
+var mnemonic = "team put great enroll around liar text swamp also noodle horn before";

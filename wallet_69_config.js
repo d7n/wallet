@@ -1,1 +1,1 @@
-var mnemonic = "taste celery easily hand universe kid toe pencil leg wisdom charge climb";
+var mnemonic = "ball wild couch thunder jeans half brave trumpet jar electric notable arrive";

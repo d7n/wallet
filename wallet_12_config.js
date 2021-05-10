@@ -1,1 +1,1 @@
-var mnemonic = "spider robot sausage corn rhythm swear grain mixed ring pudding tumble room";
+var mnemonic = "net print mushroom inside latin volcano genius sibling explain dizzy cabin load";

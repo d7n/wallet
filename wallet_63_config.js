@@ -1,1 +1,1 @@
-var mnemonic = "science tiny usage bulb gospel host festival output cloth valid alpha wool";
+var mnemonic = "between foster finish liar win hip gaze embody skull umbrella inherit divorce";

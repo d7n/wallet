@@ -1,1 +1,1 @@
-var mnemonic = "gentle skin slot trial used tool narrow success rally paddle happy eight";
+var mnemonic = "remind saddle culture dad theme arena dinosaur jacket mountain student attract about";

@@ -1,1 +1,1 @@
-var mnemonic = "party gallery earn project cigar accident wink exhaust mesh right grid clean";
+var mnemonic = "quiz biology unveil shove aunt ahead company similar annual session draft fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "long fee deposit meat apart guilt monkey drop derive combine tribe double";
+var mnemonic = "come magnet rally curve debate ladder lab canal online elder excuse vapor";

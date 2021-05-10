@@ -1,1 +1,1 @@
-var mnemonic = "atom surge mammal ridge tongue list focus regret festival invest mouse aware";
+var mnemonic = "luxury castle orange people human ostrich hockey rabbit screen enrich trap poet";

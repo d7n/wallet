@@ -1,1 +1,1 @@
-var mnemonic = "vessel defense account transfer enlist host creek own ensure sheriff erosion paddle";
+var mnemonic = "roof brain silent soul stomach warfare couple stick pear orphan pool sword";

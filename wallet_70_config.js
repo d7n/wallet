@@ -1,1 +1,1 @@
-var mnemonic = "pair connect humor blush pencil hammer make spice ten soon prepare unusual";
+var mnemonic = "wagon present plug real huge case point fame give toe puppy letter";

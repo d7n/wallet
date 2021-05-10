@@ -1,1 +1,1 @@
-var mnemonic = "antique inhale figure iron erosion fault mammal cream tide spend quality congress";
+var mnemonic = "satoshi decade sick social eagle swift beyond practice mix soap wedding baby";

@@ -1,1 +1,1 @@
-var mnemonic = "march sure pair fantasy give faith timber rain upgrade lab other pet";
+var mnemonic = "mixture eager inform soft enough umbrella keen bridge climb test imitate gown";

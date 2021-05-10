@@ -1,1 +1,1 @@
-var mnemonic = "vast maid flush flight permit town wide execute garden lunch treat net";
+var mnemonic = "cliff manage panic recipe almost extend agent congress damp essay refuse common";

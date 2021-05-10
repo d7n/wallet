@@ -1,1 +1,1 @@
-var mnemonic = "rigid detect convince tunnel owner retire mother swallow private catch insane little";
+var mnemonic = "peanut gain slam amazing rack bulk airport laundry frost foil visa magic";

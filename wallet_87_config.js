@@ -1,1 +1,1 @@
-var mnemonic = "glass age weapon fall beauty swim rocket thumb danger pact coach cactus";
+var mnemonic = "flush salon network desert seed regret swing ticket robot debate tag wheat";

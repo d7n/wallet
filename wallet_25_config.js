@@ -1,1 +1,1 @@
-var mnemonic = "wave legal link number wet theme correct wasp area check dentist exhibit";
+var mnemonic = "uncover pole pool garbage pair grunt expose roof program slush end swarm";

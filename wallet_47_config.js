@@ -1,1 +1,1 @@
-var mnemonic = "pride relief online egg tackle echo young soldier size claw cargo champion";
+var mnemonic = "truck visa divide tree husband foster velvet powder mountain invest winner solar";

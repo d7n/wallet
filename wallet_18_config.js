@@ -1,1 +1,1 @@
-var mnemonic = "credit upper bring ozone sheriff economy blind soup click arm negative test";
+var mnemonic = "surprise crane recipe gadget proof angle panic desert survey search spoon ancient";

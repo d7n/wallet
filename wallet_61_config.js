@@ -1,1 +1,1 @@
-var mnemonic = "ocean circle level exercise sand network rent become doctor wasp valid nurse";
+var mnemonic = "weasel crouch into gown nurse scout avoid today clog scale input leg";

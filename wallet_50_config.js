@@ -1,1 +1,1 @@
-var mnemonic = "day museum zone cross shed print pistol claim inmate library pig cargo";
+var mnemonic = "position into box oval walnut typical stereo cave real force march nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "truck angle tuition trust earth cart cricket vague industry mechanic actor sense";
+var mnemonic = "project argue silver tag word season tobacco spirit task crawl wear student";

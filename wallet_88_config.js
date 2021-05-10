@@ -1,1 +1,1 @@
-var mnemonic = "below enable elevator fragile token valid race divorce mule vessel stay avocado";
+var mnemonic = "fly champion meadow section prize reopen nominee harsh gloom balance wreck layer";

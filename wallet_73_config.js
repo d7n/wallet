@@ -1,1 +1,1 @@
-var mnemonic = "rent maze vessel night detect crop cross thrive quote early dizzy search";
+var mnemonic = "ability bread damage trip jar true plate oven sure fly mask purse";

@@ -1,1 +1,1 @@
-var mnemonic = "alley party nuclear peanut peasant picnic multiply cause salon sweet return punch";
+var mnemonic = "grocery glance major gesture comfort bike scissors prize smoke all sniff simple";

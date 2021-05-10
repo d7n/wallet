@@ -1,1 +1,1 @@
-var mnemonic = "funny fit smooth portion symptom moon eight pelican voyage sure rapid pink";
+var mnemonic = "twin slush crouch guitar duty box lady distance danger sick excess mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "person tired arm unusual decline account supreme neglect they enter unique track";
+var mnemonic = "zone pledge autumn voyage country spot village say usage artist turtle knee";

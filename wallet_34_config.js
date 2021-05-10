@@ -1,1 +1,1 @@
-var mnemonic = "velvet scale copy sort tissue latin deer lonely topple copy pencil pretty";
+var mnemonic = "online scissors auction smart phrase fog flat purse race fence empty diet";

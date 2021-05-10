@@ -1,1 +1,1 @@
-var mnemonic = "ridge staff rally escape great attitude tunnel exist spider skin asthma screen";
+var mnemonic = "pink oval biology fortune dismiss brown hand leg great enlist core advice";

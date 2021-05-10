@@ -1,1 +1,1 @@
-var mnemonic = "vacant chief grain toe certain sheriff repeat cabin suspect bread festival grunt";
+var mnemonic = "repeat input ensure smart dance wisdom inject secret utility benefit surge camp";

@@ -1,1 +1,1 @@
-var mnemonic = "century robot seat rice shine dice avocado age poet close copy cause";
+var mnemonic = "tomorrow build wife mammal dog fence across birth kingdom science trumpet goddess";

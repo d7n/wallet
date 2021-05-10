@@ -1,1 +1,1 @@
-var mnemonic = "solid onion era squeeze dynamic action exercise pill shove regret flat mind";
+var mnemonic = "club stairs stereo cable paddle predict tree click shoot require skirt demand";

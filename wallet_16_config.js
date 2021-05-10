@@ -1,1 +1,1 @@
-var mnemonic = "once aspect suit rapid pluck vague scheme feel cart virus flag zoo";
+var mnemonic = "globe choice bring alley token decade peace calm useless replace enemy tank";

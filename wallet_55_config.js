@@ -1,1 +1,1 @@
-var mnemonic = "upset pave income egg always cabin stuff grab pipe home eager lucky";
+var mnemonic = "round account milk stage before gossip give mother scheme father thought usual";

@@ -1,1 +1,1 @@
-var mnemonic = "slush alcohol sibling swarm strong parade delay slogan milk attitude neither way";
+var mnemonic = "token shield bicycle victory champion agent grape unfair agent depart jungle furnace";

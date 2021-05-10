@@ -1,1 +1,1 @@
-var mnemonic = "mix rule trigger basic fault lobster upgrade panel visa flock gas pull";
+var mnemonic = "cruel myself nest sentence pulse tortoise fuel shop mistake mammal awful tilt";

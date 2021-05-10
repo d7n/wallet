@@ -1,1 +1,1 @@
-var mnemonic = "camera gentle relief raise risk tissue print galaxy country control bamboo retire";
+var mnemonic = "carpet casino milk story swing pet fit horror casino circle code hill";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito wedding eight state plug find sheriff neglect twelve bottom deliver kitten";
+var mnemonic = "roof rain clown wage under soft wonder enlist agent brain tail wave";

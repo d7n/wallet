@@ -1,1 +1,1 @@
-var mnemonic = "marriage elite kind lake abuse pact entry over admit upgrade axis void";
+var mnemonic = "bachelor laptop day story lava memory acquire host salmon donor fatal fortune";

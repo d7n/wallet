@@ -1,1 +1,1 @@
-var mnemonic = "hard scissors moment dash guard furnace abstract gravity sort door scorpion group";
+var mnemonic = "refuse clown elite virus absurd shell month gasp copy mechanic suspect gadget";

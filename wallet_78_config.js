@@ -1,1 +1,1 @@
-var mnemonic = "know opera defense wood body slab organ trash flame sense water spray";
+var mnemonic = "guess valley egg travel siege ask ghost taxi kitten abstract gun income";

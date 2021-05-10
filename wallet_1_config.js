@@ -1,1 +1,1 @@
-var mnemonic = "special praise satisfy ask spawn prevent deal snow month salon robot this";
+var mnemonic = "flower actress hip aerobic roof bird heart grow nose hedgehog insect barrel";

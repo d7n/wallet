@@ -1,1 +1,1 @@
-var mnemonic = "anger media unaware ancient siege surround oxygen trend physical caught blossom ceiling";
+var mnemonic = "fever angle rifle heart drive wing torch drama soda goat profit mirror";

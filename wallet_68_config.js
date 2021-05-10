@@ -1,1 +1,1 @@
-var mnemonic = "evolve champion deer wolf attitude garden glide enrich churn ignore toy head";
+var mnemonic = "puppy wheat awful marriage orphan abandon dog crazy ginger borrow mechanic box";

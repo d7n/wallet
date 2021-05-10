@@ -1,1 +1,1 @@
-var mnemonic = "february allow icon giraffe unusual gaze capital party tiny sword solid tissue";
+var mnemonic = "acid must butter buffalo photo chimney element fluid glory october glove truly";

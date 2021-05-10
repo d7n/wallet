@@ -1,1 +1,1 @@
-var mnemonic = "squirrel glow cricket glove slender olympic stable cave bench ancient torch ostrich";
+var mnemonic = "settle flush taste latin hint wet comfort wagon route lamp wood collect";

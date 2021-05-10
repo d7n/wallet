@@ -1,1 +1,1 @@
-var mnemonic = "hidden bunker snow divert lock obvious forget wisdom expire nose error dawn";
+var mnemonic = "beyond flip human boil flag same grocery reopen boss pig strike team";

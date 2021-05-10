@@ -1,1 +1,1 @@
-var mnemonic = "icon cause mask cabin blue initial borrow caution holiday raise heavy inch";
+var mnemonic = "drum live weather frost super silent honey lesson universe allow snap neck";

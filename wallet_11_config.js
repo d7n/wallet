@@ -1,1 +1,1 @@
-var mnemonic = "fatigue subway punch analyst secret paper car cricket swap output saddle roast";
+var mnemonic = "same sustain beauty carpet nasty embrace outer holiday multiply chalk monkey black";

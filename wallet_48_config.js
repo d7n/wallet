@@ -1,1 +1,1 @@
-var mnemonic = "donor suffer alert smart onion salt remove attract become hat trick desert";
+var mnemonic = "chuckle album fuel reduce humor illegal weekend tenant foil favorite boy require";

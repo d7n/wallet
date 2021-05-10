@@ -1,1 +1,1 @@
-var mnemonic = "vacuum axis bridge walk squirrel afraid net excess snow animal globe bomb";
+var mnemonic = "excuse animal tuna derive bundle guilt cement nest dumb adult invite what";

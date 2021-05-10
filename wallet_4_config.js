@@ -1,1 +1,1 @@
-var mnemonic = "twenty galaxy brick solar buyer banana sure entire category appear term cheese";
+var mnemonic = "example calm history biology soap tail danger fatal you situate estate head";

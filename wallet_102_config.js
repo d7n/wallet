@@ -1,1 +1,1 @@
-var mnemonic = "pluck pepper credit enforce accuse find abandon hair mouse permit install rabbit";
+var mnemonic = "twenty pen orbit average toss fee hidden dragon still ability addict reject";

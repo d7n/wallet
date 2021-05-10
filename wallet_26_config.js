@@ -1,1 +1,1 @@
-var mnemonic = "goose describe jewel story lazy flower bounce swim dynamic wage option half";
+var mnemonic = "nuclear evil road thrive agree master endorse guess grab trash sunny cluster";

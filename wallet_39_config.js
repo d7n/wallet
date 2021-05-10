@@ -1,1 +1,1 @@
-var mnemonic = "element decorate banana aisle traffic design retire critic define exclude sentence fault";
+var mnemonic = "fantasy stock trip damage evolve unveil better weapon another enable wrestle curtain";

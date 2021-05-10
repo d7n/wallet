@@ -1,1 +1,1 @@
-var mnemonic = "prosper job question real hen vast bread voyage early list elephant fossil";
+var mnemonic = "merry sick eagle manual slogan spawn panic caution awkward outdoor design expire";

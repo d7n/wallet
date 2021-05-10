@@ -1,1 +1,1 @@
-var mnemonic = "shoulder chest height mimic awful buffalo fury slow hollow illness chimney aim";
+var mnemonic = "prosper strike trust celery float wrestle dial frequent shine coin sight month";

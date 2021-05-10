@@ -1,1 +1,1 @@
-var mnemonic = "dirt token term bicycle uncle salt finish example buddy wise auction track";
+var mnemonic = "fat soccer indoor attitude sense narrow spice wink bright behind disease laundry";

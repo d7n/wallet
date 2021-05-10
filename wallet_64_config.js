@@ -1,1 +1,1 @@
-var mnemonic = "govern other please mother gossip kitten envelope upgrade salmon team initial bacon";
+var mnemonic = "slam skirt material below soldier raven claim unaware candy defense belt require";

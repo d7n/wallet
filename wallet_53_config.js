@@ -1,1 +1,1 @@
-var mnemonic = "heavy scissors subject dose spoil original cannon emotion entire mother extra lady";
+var mnemonic = "front degree action kangaroo fortune rice popular angry dentist dream unlock van";

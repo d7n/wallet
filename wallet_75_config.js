@@ -1,1 +1,1 @@
-var mnemonic = "frost inherit this hockey dial notice enable weird initial fit tissue curve";
+var mnemonic = "awkward beach view huge pet syrup wasp inch surface blind van ozone";

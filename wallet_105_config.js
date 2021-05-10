@@ -1,1 +1,1 @@
-var mnemonic = "any defy absent pole client rug own common paddle pact siege staff";
+var mnemonic = "beef rough flight expire stable treat general patrol scale link check portion";
