@@ -1,1 +1,1 @@
-var mnemonic = "need custom senior turtle cruel annual lake acquire execute march still walnut";
+var mnemonic = "logic family oil bread item odor story topple depart dove smile base";

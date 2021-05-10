@@ -1,1 +1,1 @@
-var mnemonic = "bottom audit impact seat picnic similar knock tortoise wedding decide spot height";
+var mnemonic = "stove left galaxy copper height fish panther debate scorpion almost issue replace";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant cheap firm surge bracket nice scissors tape more medal birth margin";
+var mnemonic = "call plate city enemy eager drastic exit click edge endorse apology stove";

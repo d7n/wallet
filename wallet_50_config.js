@@ -1,1 +1,1 @@
-var mnemonic = "eagle true ride virtual true cereal invite soap define steel quote purity";
+var mnemonic = "equip gate potato test post drive sweet good chunk toe perfect squeeze";

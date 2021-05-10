@@ -1,1 +1,1 @@
-var mnemonic = "become pave rely insect armed extend satisfy buffalo joy fiction lounge uphold";
+var mnemonic = "girl blood swift quote stage beyond trophy monkey they blanket jealous squirrel";

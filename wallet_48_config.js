@@ -1,1 +1,1 @@
-var mnemonic = "team custom palace shoulder green police space smooth warrior travel deputy early";
+var mnemonic = "fever glance gravity virtual rely planet seminar panel slot drift surprise fog";

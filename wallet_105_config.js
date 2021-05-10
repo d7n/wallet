@@ -1,1 +1,1 @@
-var mnemonic = "monitor proud gossip baby elite purpose stairs alien tackle uncover original hat";
+var mnemonic = "sort plug wood eyebrow oven collect horror disagree rib cry polar roast";

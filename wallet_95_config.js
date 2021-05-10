@@ -1,1 +1,1 @@
-var mnemonic = "mix monitor thunder under airport gain lunar collect party start regret swallow";
+var mnemonic = "snake december invest crew draw glove general basic valve kidney cream fault";

@@ -1,1 +1,1 @@
-var mnemonic = "birth fitness fossil music sugar town inject mechanic exotic urge style relief";
+var mnemonic = "decide fury room seven sing witness bounce mass aisle cool venue lizard";

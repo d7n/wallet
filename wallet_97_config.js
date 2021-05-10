@@ -1,1 +1,1 @@
-var mnemonic = "pioneer blind ordinary mad table harsh project aware few void strategy join";
+var mnemonic = "pistol base cross pumpkin mushroom cool glare under blue radio room reflect";

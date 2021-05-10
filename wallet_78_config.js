@@ -1,1 +1,1 @@
-var mnemonic = "armor diagram science canyon trend cradle math leaf wink penalty twist catalog";
+var mnemonic = "badge tail garlic oval grain glove field shy casual audit flock session";

@@ -1,1 +1,1 @@
-var mnemonic = "climb damp pulp bleak either boring quality melt indicate main choose duck";
+var mnemonic = "foil category exile actual gaze flush pistol wish visa assault dilemma shove";

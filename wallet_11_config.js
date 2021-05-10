@@ -1,1 +1,1 @@
-var mnemonic = "picnic orange shrimp degree plastic price safe knee brass test behind maze";
+var mnemonic = "ability open seed solar balcony bitter catalog pear fun orchard seed scorpion";

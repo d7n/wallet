@@ -1,1 +1,1 @@
-var mnemonic = "plate legend neither chunk stomach crater actress harvest great fruit great mix";
+var mnemonic = "drive globe thank desk thrive elder heart celery add steel actress unveil";

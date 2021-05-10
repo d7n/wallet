@@ -1,1 +1,1 @@
-var mnemonic = "photo aerobic vault pledge victory question odor guess crash bracket uniform entire";
+var mnemonic = "caught raise random defense blossom layer shell piece acquire thumb shy scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue regular spare spread pet armor dutch miracle april horror affair trim";
+var mnemonic = "enjoy add mask current sibling photo expect any afraid dove slice lesson";

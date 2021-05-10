@@ -1,1 +1,1 @@
-var mnemonic = "clump palace disease fruit mango between ostrich seek weather cream anchor access";
+var mnemonic = "position forum risk acquire vehicle become sight rib cry weather business skill";

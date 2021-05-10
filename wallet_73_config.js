@@ -1,1 +1,1 @@
-var mnemonic = "business orphan vehicle universe police ordinary embark then vote rose lake dice";
+var mnemonic = "exchange burst profit breeze sniff acquire romance famous hundred alpha length memory";

@@ -1,1 +1,1 @@
-var mnemonic = "torch bridge loan fruit reveal crew process must detail remove lyrics bundle";
+var mnemonic = "group junk nation grocery either hawk lake auto bike sort nice glance";

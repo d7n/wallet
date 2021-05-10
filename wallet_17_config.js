@@ -1,1 +1,1 @@
-var mnemonic = "toe often palace business dice female destroy walnut age sound decrease wisdom";
+var mnemonic = "endless chest shallow palm suffer electric kangaroo shed engage ghost practice speak";

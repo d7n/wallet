@@ -1,1 +1,1 @@
-var mnemonic = "reduce train vapor jaguar jelly tail duck bubble cricket sad mind toward";
+var mnemonic = "team spy direct mountain embody shift west ozone term roast clap cross";

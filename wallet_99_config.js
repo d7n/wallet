@@ -1,1 +1,1 @@
-var mnemonic = "roof found baby method ride arctic boring mushroom dynamic need size cactus";
+var mnemonic = "pink annual tuna bomb polar limb cloth scare enrich when monitor whale";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket remember twist tell addict honey helmet room renew motion bottom hawk";
+var mnemonic = "capable ginger draft pond sustain bitter ankle balance nature hidden basic victory";

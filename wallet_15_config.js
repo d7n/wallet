@@ -1,1 +1,1 @@
-var mnemonic = "flame picnic double oven example tip project food ostrich tree sentence keen";
+var mnemonic = "tuna patient invite replace dilemma pencil script random market scatter thank mammal";

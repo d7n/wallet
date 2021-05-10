@@ -1,1 +1,1 @@
-var mnemonic = "velvet return unlock spoil bubble upgrade outer item nice cushion dentist field";
+var mnemonic = "inner come spot scale fame mouse team spray more inquiry story void";

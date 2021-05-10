@@ -1,1 +1,1 @@
-var mnemonic = "often history duty mistake girl gift grace route chimney drum service cinnamon";
+var mnemonic = "famous hamster glad ritual tackle outer pelican culture wolf frozen come gaze";

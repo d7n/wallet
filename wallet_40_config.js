@@ -1,1 +1,1 @@
-var mnemonic = "oxygen regular visa repeat fabric they eager duty cat exile behave provide";
+var mnemonic = "agent harvest biology artist repeat tank rotate bitter calm shield rocket obscure";

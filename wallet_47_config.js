@@ -1,1 +1,1 @@
-var mnemonic = "abstract spray silver vault ritual electric unaware tube farm forest exchange swallow";
+var mnemonic = "repair twenty permit dash shoulder omit custom below jar subject access fury";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper forum photo outer awake seek number theory useful unlock kangaroo title";
+var mnemonic = "wave brave major music inquiry crime devote fire tourist silly palm genius";

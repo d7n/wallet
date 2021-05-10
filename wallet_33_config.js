@@ -1,1 +1,1 @@
-var mnemonic = "all still sunset trophy garment barrel palace bulb abuse kind doll symptom";
+var mnemonic = "design yard iron diagram coffee borrow spread sudden visit salad evoke misery";

@@ -1,1 +1,1 @@
-var mnemonic = "family employ gentle room glimpse tomato future parade donor crack among govern";
+var mnemonic = "pitch dance allow income answer scout orient plastic science bind adjust client";

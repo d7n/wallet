@@ -1,1 +1,1 @@
-var mnemonic = "candy burst dice siege rent grief elder tumble gauge wave attack upper";
+var mnemonic = "moral cage tourist marriage page industry genius ticket cloud leaf another tool";

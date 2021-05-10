@@ -1,1 +1,1 @@
-var mnemonic = "cake planet profit zero depart sheriff scene cradle text snap behave stand";
+var mnemonic = "such embody only caution certain ivory vessel adapt sun invite creek robot";

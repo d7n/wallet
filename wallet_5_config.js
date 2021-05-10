@@ -1,1 +1,1 @@
-var mnemonic = "stove fresh doll sphere soap stable gift alpha latin avoid seed sunny";
+var mnemonic = "surprise salon double spike raccoon flush angry around very fiber super congress";

@@ -1,1 +1,1 @@
-var mnemonic = "curve arrest inflict deliver trim keen capital cattle badge coyote menu result";
+var mnemonic = "phone guide rookie collect connect core hidden now jewel tribe doctor dutch";

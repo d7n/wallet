@@ -1,1 +1,1 @@
-var mnemonic = "abandon oppose enact cart season ski merry control uncle fatal monitor master";
+var mnemonic = "cube laundry harbor squeeze indoor rice sorry basket leave glue model follow";

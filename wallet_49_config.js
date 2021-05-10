@@ -1,1 +1,1 @@
-var mnemonic = "mesh exchange awake refuse stuff velvet cousin advice route deputy slow between";
+var mnemonic = "initial concert useless sweet brave stove inhale merry latin lecture leader pudding";

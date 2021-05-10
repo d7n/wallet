@@ -1,1 +1,1 @@
-var mnemonic = "ability course base crawl gun mesh device update tooth matrix tank laugh";
+var mnemonic = "surface virus spoil dog soon trick pool worry dinner tomorrow manual sorry";

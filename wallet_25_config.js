@@ -1,1 +1,1 @@
-var mnemonic = "crisp coil clever frown sniff volcano divert endless thunder drop nation quit";
+var mnemonic = "fossil alcohol spirit armor fish lady twist radar window era afford actual";

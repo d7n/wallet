@@ -1,1 +1,1 @@
-var mnemonic = "fade nasty question taxi bag kit asset arch trouble chalk come pilot";
+var mnemonic = "ketchup shy later shiver elevator obvious aunt course pair meat adapt busy";

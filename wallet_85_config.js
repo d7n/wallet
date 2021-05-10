@@ -1,1 +1,1 @@
-var mnemonic = "display rubber still monitor often agent sign combine stumble army wide join";
+var mnemonic = "power normal truth donkey vital song road unhappy round nasty virtual zero";

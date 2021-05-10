@@ -1,1 +1,1 @@
-var mnemonic = "hello episode coin indoor sister fresh panther act hammer sunset damp spawn";
+var mnemonic = "base coil shadow crouch funny west among inject crazy pitch thrive afraid";

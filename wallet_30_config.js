@@ -1,1 +1,1 @@
-var mnemonic = "glow hollow inmate phone ceiling social fade stadium cause prepare eager hole";
+var mnemonic = "copy noise mirror blanket term resist benefit monitor jewel erase survey tip";

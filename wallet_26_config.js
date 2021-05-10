@@ -1,1 +1,1 @@
-var mnemonic = "sentence crater mom unaware medal this model ecology genius insect length habit";
+var mnemonic = "smile buzz isolate voyage few asset candy stem illegal hurdle upper book";

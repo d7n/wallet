@@ -1,1 +1,1 @@
-var mnemonic = "list network stem leisure nephew aunt exile project fitness crumble speak mail";
+var mnemonic = "crush increase raw glass strategy elbow elder program holiday enrich impose test";

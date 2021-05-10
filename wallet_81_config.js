@@ -1,1 +1,1 @@
-var mnemonic = "skin shrimp vacuum remind negative truck jeans assist ivory edit relief dutch";
+var mnemonic = "cry combine gasp oil auto syrup wear suggest stomach wrap quality kit";

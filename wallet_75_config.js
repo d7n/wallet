@@ -1,1 +1,1 @@
-var mnemonic = "olympic advance guard cream lawn jar discover wife toy movie observe sleep";
+var mnemonic = "repair rocket caught horror flame mystery identify inner venue maple arrange lucky";

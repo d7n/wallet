@@ -1,1 +1,1 @@
-var mnemonic = "omit slim hunt cook ability drip music brave forum gesture dentist demand";
+var mnemonic = "sample cave guard vibrant scrub web camp buyer ahead grunt business tomato";

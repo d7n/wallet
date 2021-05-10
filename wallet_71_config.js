@@ -1,1 +1,1 @@
-var mnemonic = "meat patrol service swing candy nice monster author trophy apple good drip";
+var mnemonic = "scrap sauce south jaguar science deliver wing glad blade cover ostrich alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "regular shoulder fruit this deputy absent call path uncover hundred three light";
+var mnemonic = "buffalo abandon orange solid choice talk adapt minimum together torch ready obtain";

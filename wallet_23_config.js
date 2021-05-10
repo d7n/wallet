@@ -1,1 +1,1 @@
-var mnemonic = "erosion thrive turn bronze scrap shadow cotton fold swap fatal sleep speed";
+var mnemonic = "real practice venue rely cannon rose clip peanut stay car glare video";

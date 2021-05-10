@@ -1,1 +1,1 @@
-var mnemonic = "december artefact priority atom glance aim cross just twelve trophy chuckle cotton";
+var mnemonic = "love giggle clump silent earth frequent duck ship six lobster humor ribbon";

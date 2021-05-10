@@ -1,1 +1,1 @@
-var mnemonic = "squeeze path weather option rhythm mixed parrot enhance rival recall rent position";
+var mnemonic = "share sound ready question neutral fog estate this evidence swap check symptom";

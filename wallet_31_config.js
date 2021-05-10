@@ -1,1 +1,1 @@
-var mnemonic = "message shift decade seek link ice text palm patrol puppy help sheriff";
+var mnemonic = "butter armor winter ecology control punch hurt foster west matrix coral boost";

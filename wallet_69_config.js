@@ -1,1 +1,1 @@
-var mnemonic = "genius green sea wood ripple claim park album suit drive paper choice";
+var mnemonic = "car throw order daring critic coconut hard medal young shove oil apple";

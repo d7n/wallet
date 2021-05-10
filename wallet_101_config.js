@@ -1,1 +1,1 @@
-var mnemonic = "enlist pilot dwarf cabin fantasy one because latin stage tomorrow wear program";
+var mnemonic = "concert glory banana anxiety anger math excess super bundle gallery film protect";

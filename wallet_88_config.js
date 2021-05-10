@@ -1,1 +1,1 @@
-var mnemonic = "aim floor list guilt liquid eagle cabbage antique police rude peace check";
+var mnemonic = "vibrant very color salt welcome inject pattern sun interest chase alpha ugly";

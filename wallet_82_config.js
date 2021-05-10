@@ -1,1 +1,1 @@
-var mnemonic = "struggle curious shadow vote feature scissors satisfy disease sign endorse clutch praise";
+var mnemonic = "below foil trip crawl genre man fiscal giant jealous swift innocent pluck";

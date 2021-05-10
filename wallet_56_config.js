@@ -1,1 +1,1 @@
-var mnemonic = "stuff adult correct rule often excuse august tilt infant then situate tent";
+var mnemonic = "collect deputy symptom wall derive tail worth usual noise seek limb stumble";

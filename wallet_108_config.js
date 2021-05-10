@@ -1,1 +1,1 @@
-var mnemonic = "time fine rose hollow attitude learn bundle pilot cake shiver power color";
+var mnemonic = "cube prison veteran mandate negative adjust subway credit abstract please below fun";

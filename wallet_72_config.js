@@ -1,1 +1,1 @@
-var mnemonic = "document cabbage bonus peanut dinner wife leisure oil design make fuel sorry";
+var mnemonic = "spare fiction enough limb priority toast maze reform excess leader mad zebra";

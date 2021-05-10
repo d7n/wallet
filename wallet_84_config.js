@@ -1,1 +1,1 @@
-var mnemonic = "slot method day mechanic prevent audit undo define curve snack merry mail";
+var mnemonic = "joke sister render comic joke plastic fabric outside square axis scorpion stand";

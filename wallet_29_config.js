@@ -1,1 +1,1 @@
-var mnemonic = "weekend connect athlete morning ketchup seed session pave vacant coach people sibling";
+var mnemonic = "card seven thing vapor capital curtain hold produce analyst muffin decade ticket";

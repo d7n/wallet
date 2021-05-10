@@ -1,1 +1,1 @@
-var mnemonic = "pond hard ankle plug blood very robust pretty dynamic elephant left crystal";
+var mnemonic = "pole bamboo erosion sentence mobile swing decline insane odor legal wheel breeze";

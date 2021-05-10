@@ -1,1 +1,1 @@
-var mnemonic = "exact salute giant action erupt answer sugar retire coast pulse knife scrub";
+var mnemonic = "advice ribbon design media broken now salt vapor prosper yard trip urge";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic blast expire snow unit diary defense east soap pistol profit table";
+var mnemonic = "rule bless solve chase decade crystal chair turtle enroll dose great width";

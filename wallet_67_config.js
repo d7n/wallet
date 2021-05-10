@@ -1,1 +1,1 @@
-var mnemonic = "dutch nasty nuclear bleak inside extra about trouble win swarm robust nature";
+var mnemonic = "amount lift boil anxiety sunny castle cost top multiply almost marine denial";

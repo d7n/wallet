@@ -1,1 +1,1 @@
-var mnemonic = "ocean lady favorite media online save pond tray account property sad dinosaur";
+var mnemonic = "chef impulse craft purpose mind disagree push tissue benefit start nothing patch";

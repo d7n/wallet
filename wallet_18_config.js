@@ -1,1 +1,1 @@
-var mnemonic = "fancy vintage zone salon dad height dismiss case rather river cram autumn";
+var mnemonic = "gallery dismiss bean whale inhale ghost evoke patch volume capable about leave";

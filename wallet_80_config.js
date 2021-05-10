@@ -1,1 +1,1 @@
-var mnemonic = "metal say embody settle shoulder route behave debris stick pond learn muffin";
+var mnemonic = "camp there finger syrup real test shell dinner link spatial alley rib";

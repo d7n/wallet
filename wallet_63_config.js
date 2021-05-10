@@ -1,1 +1,1 @@
-var mnemonic = "immense piece buzz zebra length athlete asset define make throw field dove";
+var mnemonic = "soft choose nerve click motor current casual unfair cousin forward update woman";

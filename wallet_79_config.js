@@ -1,1 +1,1 @@
-var mnemonic = "pave fat soda burger clown hundred desk lab mean toss response educate";
+var mnemonic = "quantum tide erode author normal shrug change device slice put ceiling ski";

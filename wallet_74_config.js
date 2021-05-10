@@ -1,1 +1,1 @@
-var mnemonic = "page loud tip abuse food achieve aware warrior crisp blur fortune number";
+var mnemonic = "absorb nest simple claim exile orchard liquid scale frozen mother swing saddle";

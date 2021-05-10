@@ -1,1 +1,1 @@
-var mnemonic = "sunny pony razor volume sort segment once second glide deputy energy giggle";
+var mnemonic = "stuff frost actor maid mandate coin bleak tissue stamp cave zero hurt";

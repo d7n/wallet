@@ -1,1 +1,1 @@
-var mnemonic = "sure unfold sense food net have sad capable strategy clinic typical glare";
+var mnemonic = "mammal grow nuclear cook plunge either sphere benefit cube mimic flock nuclear";

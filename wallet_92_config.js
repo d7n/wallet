@@ -1,1 +1,1 @@
-var mnemonic = "cloth over fun unveil bag double jacket cake gas kangaroo heart attitude";
+var mnemonic = "immense source stage park supreme bone often shy favorite reopen swear primary";

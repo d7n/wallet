@@ -1,1 +1,1 @@
-var mnemonic = "find umbrella scene cash donate genuine blind laundry end ask rare ask";
+var mnemonic = "benefit client glance later mimic valid snow manage media mistake clay aunt";

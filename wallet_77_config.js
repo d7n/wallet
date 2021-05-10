@@ -1,1 +1,1 @@
-var mnemonic = "talent move hold fine real primary deliver item social box hobby sketch";
+var mnemonic = "cat bird quote must much monster afraid soap work surround copper engage";

@@ -1,1 +1,1 @@
-var mnemonic = "staff soda depend regret lucky token trade palm switch arrest long rifle";
+var mnemonic = "muffin work sponsor depend book knee obscure kitchen crush lava gym shell";

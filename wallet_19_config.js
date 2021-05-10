@@ -1,1 +1,1 @@
-var mnemonic = "spot cancel library rug battle one renew swing trumpet choose cliff brave";
+var mnemonic = "envelope cram excess ramp top wife obtain rabbit desert spring addict master";

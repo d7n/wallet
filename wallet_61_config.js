@@ -1,1 +1,1 @@
-var mnemonic = "spare super paper pottery squeeze recall kick step galaxy double height fragile";
+var mnemonic = "prosper useful acoustic isolate flight purchase bulb burst force capable ceiling eager";

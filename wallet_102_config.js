@@ -1,1 +1,1 @@
-var mnemonic = "donkey powder wealth client donor dash monster service enforce scout man issue";
+var mnemonic = "buyer hint dinosaur gown nest chalk globe screen rifle funny elite blue";

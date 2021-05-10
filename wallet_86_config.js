@@ -1,1 +1,1 @@
-var mnemonic = "fitness glove gather bamboo snow castle multiply tiger impact caution long useful";
+var mnemonic = "stay garden goose neck wage meat announce siren little rib rib grocery";

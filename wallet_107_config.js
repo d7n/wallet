@@ -1,1 +1,1 @@
-var mnemonic = "feature bread sign install clown tackle mansion position exhibit carbon fix grunt";
+var mnemonic = "marble milk merge spider display cliff denial rocket cake iron muscle time";

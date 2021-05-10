@@ -1,1 +1,1 @@
-var mnemonic = "cave retire auction feed scrub caught fun series cycle system laundry abstract";
+var mnemonic = "castle grow day kitten town brief velvet denial moon devote prepare daughter";

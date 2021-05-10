@@ -1,1 +1,1 @@
-var mnemonic = "trophy slab square three farm forum type margin intact fold cabbage two";
+var mnemonic = "cushion kind life scatter school shallow debris guitar furnace actual catch stereo";

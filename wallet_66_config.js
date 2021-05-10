@@ -1,1 +1,1 @@
-var mnemonic = "total dinner slush casual effort poet senior write state early mercy limit";
+var mnemonic = "elevator write thunder omit often bid blur flat oil claw rabbit business";

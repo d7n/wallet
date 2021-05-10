@@ -1,1 +1,1 @@
-var mnemonic = "buyer friend century waste baby example during craft chase snap dune wheat";
+var mnemonic = "eager survey foil parent amount bar illness expand universe exchange calm thing";

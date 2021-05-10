@@ -1,1 +1,1 @@
-var mnemonic = "fringe range ramp lyrics crazy sword bar cave knock lobster ride emotion";
+var mnemonic = "solution robust palace reopen lounge eye kitchen echo talent clown defense flip";

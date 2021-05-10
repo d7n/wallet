@@ -1,1 +1,1 @@
-var mnemonic = "bless economy civil pudding cabin ivory tuna arena odor flame oil arrow";
+var mnemonic = "say elite solar can switch unfold behave regular talk level helmet home";

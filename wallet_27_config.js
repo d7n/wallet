@@ -1,1 +1,1 @@
-var mnemonic = "decide crew west alter damage gadget mandate scan limb high sunset valve";
+var mnemonic = "spin chuckle exile gorilla top quit occur bean food weapon neutral crop";

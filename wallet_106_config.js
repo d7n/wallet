@@ -1,1 +1,1 @@
-var mnemonic = "hybrid ship organ permit mass sell blossom luxury toilet combine sell throw";
+var mnemonic = "decrease unable tortoise brown museum electric erode staff alpha crop nothing humor";

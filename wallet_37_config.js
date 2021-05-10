@@ -1,1 +1,1 @@
-var mnemonic = "one link park clock tribe adjust sniff retreat media check social gate";
+var mnemonic = "banner hurdle defense chef dune copper anxiety beach misery note buffalo knock";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure river shuffle dignity joke feature juice present agree frozen nerve laugh";
+var mnemonic = "glove ladder truck book embody subway illness solid type mule caution patient";

@@ -1,1 +1,1 @@
-var mnemonic = "comic liquid pizza seminar mention salmon insane fabric deer doll craft delay";
+var mnemonic = "bomb hidden cheap solution stomach attitude aisle sing slogan height kit need";

@@ -1,1 +1,1 @@
-var mnemonic = "defy praise say again surge coffee number stay labor twist vessel bleak";
+var mnemonic = "snap gun cinnamon favorite raccoon awake glad open luxury live sentence cool";
