@@ -1,1 +1,1 @@
-var mnemonic = "patient high airport ready cabin enhance water base lawsuit lake rug monitor";
+var mnemonic = "country tide nothing hair blush sort protect plate fun arm ocean obtain";

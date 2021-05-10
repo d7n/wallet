@@ -1,1 +1,1 @@
-var mnemonic = "diesel ritual patient egg twist involve liar system toss brave brown dwarf";
+var mnemonic = "donate cycle rebuild monitor symptom abandon canvas fan bunker yard dream film";

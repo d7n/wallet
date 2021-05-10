@@ -1,1 +1,1 @@
-var mnemonic = "kiwi rough rely differ water okay input bean chief zero salad tissue";
+var mnemonic = "industry wealth gym avoid panic stem phone pride gap turtle fatal uniform";

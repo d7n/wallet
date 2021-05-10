@@ -1,1 +1,1 @@
-var mnemonic = "wish manage expect neglect sword tree bus flash stage feel explain pen";
+var mnemonic = "just rubber erosion hamster section broccoli dignity junk aisle off rent grab";

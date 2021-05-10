@@ -1,1 +1,1 @@
-var mnemonic = "network charge loan forward sound myself nose valley idea direct modify coast";
+var mnemonic = "relax chair stuff spare size swallow palace miss mask zoo park visa";

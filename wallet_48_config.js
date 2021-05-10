@@ -1,1 +1,1 @@
-var mnemonic = "hint river improve hotel victory sight where enable track october dismiss risk";
+var mnemonic = "wet round top stem gun shine unveil donor palace chalk vast manual";

@@ -1,1 +1,1 @@
-var mnemonic = "fan one rail obscure rose woman stick nut garment sphere tooth grab";
+var mnemonic = "unhappy bacon mouse caution ripple label rice awful pitch can illegal pride";

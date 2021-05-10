@@ -1,1 +1,1 @@
-var mnemonic = "owner spin brush burst oppose quarter hope tennis another rabbit disorder apart";
+var mnemonic = "juice magnet sand airport ready recall picture donor sunny benefit basket flush";

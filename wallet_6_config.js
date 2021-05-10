@@ -1,1 +1,1 @@
-var mnemonic = "injury snap speak theme cost fee palace assault roast hammer letter morning";
+var mnemonic = "river swamp stick frozen flip clever magic track seat trouble match boil";

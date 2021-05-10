@@ -1,1 +1,1 @@
-var mnemonic = "myself resemble address cream trumpet thrive slight behave slim matrix build quarter";
+var mnemonic = "fan woman menu wool cousin satoshi large manual liar punch ketchup actress";

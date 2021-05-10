@@ -1,1 +1,1 @@
-var mnemonic = "arch saddle luggage cook all later fossil inch minimum monkey student script";
+var mnemonic = "sword congress boat gentle fee tide quiz capable predict keep stand aunt";

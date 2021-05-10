@@ -1,1 +1,1 @@
-var mnemonic = "scissors heart snake hamster since decade panther embrace artist siege copper salon";
+var mnemonic = "base media alarm ostrich cinnamon common mistake imitate knee isolate salon uphold";

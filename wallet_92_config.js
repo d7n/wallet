@@ -1,1 +1,1 @@
-var mnemonic = "guard phrase civil civil hurt web taste awake hood budget egg mammal";
+var mnemonic = "smooth pull usage abstract column pipe regret seven increase burden term devote";

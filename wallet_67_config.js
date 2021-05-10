@@ -1,1 +1,1 @@
-var mnemonic = "sleep network jealous unfold burden suggest return erupt skin prize gadget attack";
+var mnemonic = "december law eternal drip derive echo tape potato solid diamond horror west";

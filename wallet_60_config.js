@@ -1,1 +1,1 @@
-var mnemonic = "plunge wash prison museum run entire wrist approve gauge scissors share must";
+var mnemonic = "warfare must word spray month feature ship bird adjust bulk wheat cube";

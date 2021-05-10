@@ -1,1 +1,1 @@
-var mnemonic = "garbage pair skate attend key broken basket zero village goose slender thrive";
+var mnemonic = "rain usage pond lunar quality confirm intact mutual hole arm broken hour";

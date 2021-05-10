@@ -1,1 +1,1 @@
-var mnemonic = "unaware color melody athlete media bird wear shy attend heavy wagon public";
+var mnemonic = "brain corn endless shrug lion grid into buyer decade floor drip dinosaur";

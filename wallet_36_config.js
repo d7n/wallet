@@ -1,1 +1,1 @@
-var mnemonic = "sand steak pattern alter tomato shiver decrease enemy patch profit fame refuse";
+var mnemonic = "essence upset borrow unique pipe below salmon dog rebuild dose palm zebra";

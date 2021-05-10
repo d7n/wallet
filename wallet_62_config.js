@@ -1,1 +1,1 @@
-var mnemonic = "volume replace dance sphere chunk other cable industry venue town object basket";
+var mnemonic = "scan circle where pipe reduce mouse female make breeze gift negative public";

@@ -1,1 +1,1 @@
-var mnemonic = "legend range smart vehicle math anger total wink position absent catch match";
+var mnemonic = "allow cereal machine cross kit truly defense dolphin talent like loan gym";

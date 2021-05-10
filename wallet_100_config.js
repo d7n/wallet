@@ -1,1 +1,1 @@
-var mnemonic = "club chunk planet about balcony amount dust tape electric spell valve giggle";
+var mnemonic = "poem wolf copy tilt bundle flat document glory rate humor pave elbow";

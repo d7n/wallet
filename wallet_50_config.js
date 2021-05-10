@@ -1,1 +1,1 @@
-var mnemonic = "input gasp buddy acquire old kind resist shop reunion sadness awkward injury";
+var mnemonic = "chat fold oil into endorse appear churn front motion minimum arena cross";

@@ -1,1 +1,1 @@
-var mnemonic = "present aerobic use say degree spell chair control response sister mail head";
+var mnemonic = "essay argue country wisdom abuse bunker diagram cause receive believe daring mixed";

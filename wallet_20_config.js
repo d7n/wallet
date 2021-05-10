@@ -1,1 +1,1 @@
-var mnemonic = "remain diesel chapter frozen angle fiscal claim retreat stuff picture sibling seek";
+var mnemonic = "genuine hurt door faint level cargo consider dash oppose view jeans still";

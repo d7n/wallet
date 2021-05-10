@@ -1,1 +1,1 @@
-var mnemonic = "grid van detect pair tunnel engage enact cat wish shield mistake aerobic";
+var mnemonic = "short record armor east art student right invite have skirt hour stock";

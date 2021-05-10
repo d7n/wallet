@@ -1,1 +1,1 @@
-var mnemonic = "grain nut easy almost young advance six swap earth tenant borrow organ";
+var mnemonic = "sock width audit rule equal leave mention dinner crater rifle spare enjoy";

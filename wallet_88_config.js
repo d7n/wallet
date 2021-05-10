@@ -1,1 +1,1 @@
-var mnemonic = "defense merit defy chase wisdom hollow unique axis sure point grit funny";
+var mnemonic = "pottery puppy sphere cheese maple oblige pledge crunch fitness link adult annual";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt fault bamboo fan cancel roof dust wreck obvious hybrid genius happy";
+var mnemonic = "safe opera manual friend boost shoot seminar ocean media caution rocket produce";

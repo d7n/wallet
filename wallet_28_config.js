@@ -1,1 +1,1 @@
-var mnemonic = "minute divorce minimum soon easy lesson skill net similar rate choice off";
+var mnemonic = "cart thunder smooth place cute mother layer visa earn supply brush glare";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper cake volcano brass whisper aware valid burst lunar purse fault capable";
+var mnemonic = "devote state action worry push rug burden surround quote wear there cinnamon";

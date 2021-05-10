@@ -1,1 +1,1 @@
-var mnemonic = "fresh fiction sustain script inside someone talk ice target method install acoustic";
+var mnemonic = "flag skin ethics ostrich loyal toy mention client success patrol meadow suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange giraffe miss human congress excuse bicycle depend spoil despair release slow";
+var mnemonic = "lizard peasant throw amazing minute penalty finger lesson surprise ancient coach perfect";

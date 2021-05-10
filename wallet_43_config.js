@@ -1,1 +1,1 @@
-var mnemonic = "tuition foot light picture rival gaze treat round student coil ritual check";
+var mnemonic = "slow emerge voyage sure happy roof radar omit lobster liar social avoid";

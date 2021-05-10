@@ -1,1 +1,1 @@
-var mnemonic = "museum sponsor protect top advice lottery burger embark public brand cradle tribe";
+var mnemonic = "soda public mouse fold inspire response romance frequent broken era mind emerge";

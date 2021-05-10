@@ -1,1 +1,1 @@
-var mnemonic = "jeans exchange matter lumber twice alert debris search canyon route audit surprise";
+var mnemonic = "badge veteran fade across differ regret army yard imitate raw carry screen";

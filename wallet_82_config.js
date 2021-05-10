@@ -1,1 +1,1 @@
-var mnemonic = "sure flash correct stomach never imitate pencil burst peace raccoon oxygen salmon";
+var mnemonic = "often napkin reform tragic office amount genuine clean flat spike pact liar";

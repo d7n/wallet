@@ -1,1 +1,1 @@
-var mnemonic = "celery kangaroo depend affair empty road place vague spice test giraffe sibling";
+var mnemonic = "achieve hunt pull design leave purpose type fossil square puzzle sauce august";

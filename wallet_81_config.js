@@ -1,1 +1,1 @@
-var mnemonic = "amount stem quality disagree exhaust quality manage away another diesel raw cement";
+var mnemonic = "picture earth photo promote army smile hurt possible pigeon below sure unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "train enrich laptop orchard crumble opera cart person cigar broccoli produce file";
+var mnemonic = "canyon dish sudden chunk diet group royal aisle between sail prefer twelve";

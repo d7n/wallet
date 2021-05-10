@@ -1,1 +1,1 @@
-var mnemonic = "cotton close super danger carpet arctic inject card eagle crowd tool robust";
+var mnemonic = "seek smooth scorpion plate mention guard equal sell own diesel pudding flag";

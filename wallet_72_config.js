@@ -1,1 +1,1 @@
-var mnemonic = "render fee school own release when obvious consider praise bean two lake";
+var mnemonic = "horse board tennis amused couch come talk head client shock nature whale";

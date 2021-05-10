@@ -1,1 +1,1 @@
-var mnemonic = "wear vacuum pilot night teach impact define chase grace minor noodle square";
+var mnemonic = "bleak proof jungle custom kid gym oxygen mushroom knock quarter pelican foot";

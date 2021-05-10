@@ -1,1 +1,1 @@
-var mnemonic = "helmet rate stuff draft render okay exhaust negative shield lawsuit despair merge";
+var mnemonic = "sound choose airport retreat old odor fantasy dad pumpkin fan borrow popular";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet slot soap trend hockey casual noise six market police usage bone";
+var mnemonic = "toy kiss love thunder flash crime sing pelican call call ask tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest frost strategy nephew glow lecture holiday wagon toilet must oxygen soul";
+var mnemonic = "width announce dice tool black plastic robot ask pony involve silent matter";

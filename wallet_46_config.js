@@ -1,1 +1,1 @@
-var mnemonic = "mule sing law traffic drop tent chef vacant jewel assume open define";
+var mnemonic = "fence solar net doll immune notable hotel talk zone cricket swamp menu";

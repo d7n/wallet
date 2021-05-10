@@ -1,1 +1,1 @@
-var mnemonic = "update fresh spot piano elephant tragic milk control seven among dance pudding";
+var mnemonic = "seek luggage penalty visa cement tilt era chunk paddle double solution whale";

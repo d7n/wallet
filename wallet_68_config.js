@@ -1,1 +1,1 @@
-var mnemonic = "illness lift gesture false upset runway dice echo curious owner ten glass";
+var mnemonic = "obey grunt pond surge half essence soap absent blouse tongue defense mango";

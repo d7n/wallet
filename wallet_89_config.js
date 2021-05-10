@@ -1,1 +1,1 @@
-var mnemonic = "knee account joke shine note leave intact decrease grocery sea lizard strategy";
+var mnemonic = "copper mother junk small gentle coyote machine follow blossom mesh strategy kite";

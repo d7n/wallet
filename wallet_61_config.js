@@ -1,1 +1,1 @@
-var mnemonic = "custom invest interest jaguar bench skill lock mixed critic apology worth during";
+var mnemonic = "cliff raise cruel rail steak bone jacket kitten fog mention inject rapid";

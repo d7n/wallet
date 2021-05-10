@@ -1,1 +1,1 @@
-var mnemonic = "assist found hour satoshi beyond energy toy solar abstract useless beauty nose";
+var mnemonic = "veteran vote trim effort couple word skirt huge maple mixture bitter silver";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate oyster athlete try tide life egg panel quantum jeans eye install";
+var mnemonic = "people quiz holiday blanket wear pulp icon clog dilemma recall kid ready";

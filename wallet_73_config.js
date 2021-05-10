@@ -1,1 +1,1 @@
-var mnemonic = "famous phone price time soda federal since yard blur toast goose entry";
+var mnemonic = "inquiry history range edit again public occur shoot seat major knife obey";

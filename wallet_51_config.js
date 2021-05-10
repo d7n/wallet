@@ -1,1 +1,1 @@
-var mnemonic = "good tourist length december kit column nut crunch phone situate oxygen broken";
+var mnemonic = "pretty together blur sphere search globe film erase myself flavor grow neutral";

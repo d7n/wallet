@@ -1,1 +1,1 @@
-var mnemonic = "rib season choice battle bread creek witness divide auto stick misery mercy";
+var mnemonic = "tower raise laugh paddle fire ignore dial true seed deputy nest skate";

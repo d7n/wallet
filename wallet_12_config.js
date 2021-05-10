@@ -1,1 +1,1 @@
-var mnemonic = "pair trend tired ability forward couch car lottery piece gate blast south";
+var mnemonic = "lion bargain gentle fuel panther shoulder festival scheme volcano tide aisle same";

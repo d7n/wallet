@@ -1,1 +1,1 @@
-var mnemonic = "mansion capital expect equal dove derive wink fame genius hero finish carbon";
+var mnemonic = "alter twenty someone breeze exclude west decade orchard monkey stool december tuition";

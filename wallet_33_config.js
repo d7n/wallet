@@ -1,1 +1,1 @@
-var mnemonic = "spatial animal eternal enlist crop fly recall extend donor dog cake secret";
+var mnemonic = "frog fat trip ripple canyon please warrior inmate open holiday collect carry";

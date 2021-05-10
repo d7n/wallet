@@ -1,1 +1,1 @@
-var mnemonic = "glad behind inmate weather host health dolphin atom talk among chase hold";
+var mnemonic = "fox arm swarm between pencil sound party door lizard any minute afraid";

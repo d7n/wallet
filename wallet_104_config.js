@@ -1,1 +1,1 @@
-var mnemonic = "figure thank adjust minute skate viable soft ignore trip open minimum push";
+var mnemonic = "uniform dream work tent accuse ensure renew squirrel spot bronze tackle sure";

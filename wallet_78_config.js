@@ -1,1 +1,1 @@
-var mnemonic = "acoustic write energy risk scatter slide grocery climb vague business soda blind";
+var mnemonic = "issue much tennis elder diagram ridge neck seed chest forum senior rookie";

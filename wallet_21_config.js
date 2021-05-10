@@ -1,1 +1,1 @@
-var mnemonic = "airport armed tonight deer mandate brief lunch hockey park vocal post style";
+var mnemonic = "among lizard evoke culture range forward few pioneer fatal cabbage series doll";

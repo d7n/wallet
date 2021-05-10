@@ -1,1 +1,1 @@
-var mnemonic = "diary public input evolve recycle street artwork saddle gossip weather hedgehog novel";
+var mnemonic = "wet work gasp fringe swing faith expect husband also occur when slush";

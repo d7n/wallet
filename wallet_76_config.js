@@ -1,1 +1,1 @@
-var mnemonic = "put capable clay runway dad meat syrup robust elephant belt devote hood";
+var mnemonic = "fury frost trigger great leg quick deny worry border winter vehicle cheese";

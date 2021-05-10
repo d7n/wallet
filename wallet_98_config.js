@@ -1,1 +1,1 @@
-var mnemonic = "lyrics result network blossom goat library stay town area soccer shaft now";
+var mnemonic = "fatigue ocean correct fashion ability jar fabric high spray ranch divide mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "save dirt symbol catch matrix fury cave bird mobile off access acid";
+var mnemonic = "fine bridge empty park rack physical hire rain term repair nephew soldier";

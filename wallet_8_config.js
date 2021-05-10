@@ -1,1 +1,1 @@
-var mnemonic = "describe rain degree caution neck inform derive powder item napkin spy twist";
+var mnemonic = "gain quote any pudding pistol return property tree tennis evoke render version";

@@ -1,1 +1,1 @@
-var mnemonic = "wide mammal judge bulk else lens rule slight quantum train citizen injury";
+var mnemonic = "almost trophy empower clock name amateur kiss sustain announce episode solid pelican";

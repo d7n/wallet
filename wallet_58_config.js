@@ -1,1 +1,1 @@
-var mnemonic = "screen casino sketch razor hen shallow million provide wisdom mask duck high";
+var mnemonic = "dignity carry ranch mystery face midnight twenty room skate mad east movie";

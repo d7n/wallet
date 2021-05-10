@@ -1,1 +1,1 @@
-var mnemonic = "motor liar relief chest voyage bird animal rural water jar echo practice";
+var mnemonic = "they ball insect bless history across caution fossil salmon above oak palace";

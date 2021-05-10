@@ -1,1 +1,1 @@
-var mnemonic = "advice word crime weekend essence journey arm coach leader worth cycle leave";
+var mnemonic = "steel mouse income duty loyal acquire hand first pattern motor year virtual";

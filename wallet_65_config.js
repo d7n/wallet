@@ -1,1 +1,1 @@
-var mnemonic = "bounce budget hood reduce hand matrix one genius film bind uphold movie";
+var mnemonic = "foil flat pool bargain business drum shy orange share flat flush brick";

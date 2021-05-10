@@ -1,1 +1,1 @@
-var mnemonic = "hospital raccoon keep cage analyst phrase quiz issue insane address culture tape";
+var mnemonic = "word spoon social imitate absorb penalty need divert raw mad donate mix";

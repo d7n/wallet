@@ -1,1 +1,1 @@
-var mnemonic = "consider spend castle gasp river differ naive gauge bar student case hill";
+var mnemonic = "caution ocean govern toss exercise depart antique indoor cushion found wish argue";

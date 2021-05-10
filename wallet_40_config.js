@@ -1,1 +1,1 @@
-var mnemonic = "reason poem remove bless ozone motor run salon horse digital deny side";
+var mnemonic = "blouse swift prepare tube lounge coffee copper happy race bullet always recycle";

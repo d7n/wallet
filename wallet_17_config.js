@@ -1,1 +1,1 @@
-var mnemonic = "notable beef among oppose toddler bamboo brief slide giggle valve horror crime";
+var mnemonic = "anxiety like trial warm pole venue age beach ecology fan traffic large";

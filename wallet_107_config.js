@@ -1,1 +1,1 @@
-var mnemonic = "coil rule collect elbow street walk people satoshi lion bubble ceiling drastic";
+var mnemonic = "skirt spray hat siege rubber crystal tell increase crash canal luxury satisfy";

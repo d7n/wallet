@@ -1,1 +1,1 @@
-var mnemonic = "online draw repair slight minute occur kiwi exit perfect harvest organ orphan";
+var mnemonic = "kit text invite rail broom blur trend balance robust viable almost plunge";

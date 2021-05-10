@@ -1,1 +1,1 @@
-var mnemonic = "lunar display today bench bunker ugly absent divorce penalty useful vital enemy";
+var mnemonic = "fine soft noodle image stand soup avoid coach valid diet glory timber";

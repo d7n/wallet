@@ -1,1 +1,1 @@
-var mnemonic = "divorce degree soap traffic embark desert note evolve chapter flush paper collect";
+var mnemonic = "because denial noble evoke blast unfair need document trash wire marriage funny";

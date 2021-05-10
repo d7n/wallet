@@ -1,1 +1,1 @@
-var mnemonic = "wood cabbage blossom tip sort basket pencil divide apple ill blur drink";
+var mnemonic = "usage vessel girl spider sting else true attack bind episode umbrella course";

@@ -1,1 +1,1 @@
-var mnemonic = "motion spin ghost awesome drama pumpkin stove stove bone curtain tool produce";
+var mnemonic = "arrest sock fire grocery nice plunge april salt recall dry online tree";

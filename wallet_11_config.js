@@ -1,1 +1,1 @@
-var mnemonic = "spatial wrist elite cloth cluster nature stairs town erode question smart shoe";
+var mnemonic = "custom vibrant excite address idle say sure trust source develop yard empty";

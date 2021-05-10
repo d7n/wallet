@@ -1,1 +1,1 @@
-var mnemonic = "exit rice midnight gate describe school about direct exchange frost pepper husband";
+var mnemonic = "equal mirror pond typical people clock basic bounce sample bike cover effort";

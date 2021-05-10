@@ -1,1 +1,1 @@
-var mnemonic = "worry wife garlic doctor rug corn vault dash hope host piece chest";
+var mnemonic = "cave trip vanish clutch special fringe border remain public vapor vague tobacco";

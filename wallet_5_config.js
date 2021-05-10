@@ -1,1 +1,1 @@
-var mnemonic = "spy erase twelve gospel toddler notice axis paper impact crumble angry insect";
+var mnemonic = "hurdle mirror fresh wrong symbol squirrel tray frog margin mechanic obscure sock";

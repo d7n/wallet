@@ -1,1 +1,1 @@
-var mnemonic = "oblige miracle minor response heavy height still main swing train arena impulse";
+var mnemonic = "gun oblige slab guard wild inquiry end cinnamon base still bullet address";
