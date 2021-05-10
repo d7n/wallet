@@ -1,1 +1,1 @@
-var mnemonic = "rice garbage friend spice rally term fee impose hand core winner air";
+var mnemonic = "axis jungle thought exotic uphold impose smooth entry brick depart toddler drill";

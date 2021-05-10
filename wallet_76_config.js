@@ -1,1 +1,1 @@
-var mnemonic = "angry shiver faith summer wedding mystery allow link tiger curious term eight";
+var mnemonic = "love body bone limb champion potato diagram normal code gossip rate success";

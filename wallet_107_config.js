@@ -1,1 +1,1 @@
-var mnemonic = "cool bless trim motor abandon six seven fly since meat tuition inflict";
+var mnemonic = "elephant swap benefit pact squeeze want summer question kite south list method";

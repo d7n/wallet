@@ -1,1 +1,1 @@
-var mnemonic = "worry quote enrich motor inside song move any jar social stem dry";
+var mnemonic = "order clip verify muscle fall symptom gate eyebrow tuition inform icon chicken";

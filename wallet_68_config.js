@@ -1,1 +1,1 @@
-var mnemonic = "orient october unusual present orbit luxury slab crucial shoe alter broccoli inject";
+var mnemonic = "remember recycle burst armor right term glue student rabbit dentist metal drive";

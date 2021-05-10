@@ -1,1 +1,1 @@
-var mnemonic = "lunar energy slot youth peanut napkin long puzzle pottery true truth sign";
+var mnemonic = "slim half more wonder become priority adapt false field air liar hazard";

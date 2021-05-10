@@ -1,1 +1,1 @@
-var mnemonic = "public core roast arrange lion exile any assist cargo pole pond front";
+var mnemonic = "mesh river gentle spray silver turn print demand gate lonely bus enlist";

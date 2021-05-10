@@ -1,1 +1,1 @@
-var mnemonic = "today indicate belt frog nature picture urge agree swift arrest sadness obey";
+var mnemonic = "upper push crush acquire suffer lizard acquire simple slide unit lens price";

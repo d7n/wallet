@@ -1,1 +1,1 @@
-var mnemonic = "act mule milk raw truly wing glimpse crystal hair oak forget harbor";
+var mnemonic = "rich chair reflect parade cheese film vapor surge throw ring vivid possible";

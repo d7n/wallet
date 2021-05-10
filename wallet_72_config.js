@@ -1,1 +1,1 @@
-var mnemonic = "tunnel tooth slow base benefit negative holiday goose spot there luggage boring";
+var mnemonic = "taxi monster risk local turn rival soda clock spice parade lesson unaware";

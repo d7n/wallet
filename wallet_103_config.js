@@ -1,1 +1,1 @@
-var mnemonic = "coast chalk remove name dentist orbit eager fence today space height alert";
+var mnemonic = "banner stove country outside short ozone very chicken sauce chase panic trigger";

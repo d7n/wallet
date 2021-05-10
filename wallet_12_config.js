@@ -1,1 +1,1 @@
-var mnemonic = "fancy mosquito toast measure swap absurd behind carry educate online stove orange";
+var mnemonic = "enhance flame inflict hamster slab glare goat cover brick animal stumble liar";

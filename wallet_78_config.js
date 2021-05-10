@@ -1,1 +1,1 @@
-var mnemonic = "stool delay float merry chuckle float today sail emerge hamster caught kit";
+var mnemonic = "report web sunset move immense trash scatter then magnet know donate trumpet";

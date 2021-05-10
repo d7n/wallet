@@ -1,1 +1,1 @@
-var mnemonic = "stem inner wasp isolate whale north vanish result develop bar such sword";
+var mnemonic = "helmet discover strategy strong nest beyond buddy paddle win enrich boss unveil";

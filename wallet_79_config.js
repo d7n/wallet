@@ -1,1 +1,1 @@
-var mnemonic = "message slice you exercise kid zebra panel actress rubber shop legend shallow";
+var mnemonic = "skin click edit code expose lift arrest brisk crystal symbol note wild";

@@ -1,1 +1,1 @@
-var mnemonic = "discover salute fan guilt flash elbow brother delay boil consider call recall";
+var mnemonic = "liar runway crawl pink push text apology dance april live gown shield";

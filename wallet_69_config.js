@@ -1,1 +1,1 @@
-var mnemonic = "hub swim sting wheel produce hobby expect ranch labor buyer seminar symbol";
+var mnemonic = "plug burst race gun caught actor lawn daughter whale assist base spin";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla gloom elephant crunch enrich blame topic equip damp waste lock worth";
+var mnemonic = "fury search card drift sign few unable sustain order essence best candy";

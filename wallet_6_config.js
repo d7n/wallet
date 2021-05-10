@@ -1,1 +1,1 @@
-var mnemonic = "woman stadium possible stay thought worth use spread silver fiber title system";
+var mnemonic = "grant payment anchor govern craft they defy jewel equip return valley horn";

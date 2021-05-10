@@ -1,1 +1,1 @@
-var mnemonic = "club cupboard thank source pink argue lottery right result basket fetch history";
+var mnemonic = "roast profit hope work dignity path genre sense pipe benefit river miss";

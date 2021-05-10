@@ -1,1 +1,1 @@
-var mnemonic = "crane strong clump clean essay cage document powder suggest wild exercise high";
+var mnemonic = "embrace nominee hip vanish buzz magnet force mad chest rug pen test";

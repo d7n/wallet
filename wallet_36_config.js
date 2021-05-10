@@ -1,1 +1,1 @@
-var mnemonic = "brother math avocado hospital assume glue cloud orbit science velvet sunset modify";
+var mnemonic = "flat vacuum acid dance visa trend hood stadium gesture pact child woman";

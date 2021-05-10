@@ -1,1 +1,1 @@
-var mnemonic = "raise elephant cream unveil minimum copy brass legend jacket little sustain flash";
+var mnemonic = "undo penalty sick room culture orchard empty harsh drill female among process";

@@ -1,1 +1,1 @@
-var mnemonic = "spot mesh over thought segment rough behave water glory squirrel fade pudding";
+var mnemonic = "junior tree auto relief banner suggest wait opera pelican luggage cinnamon heavy";

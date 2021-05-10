@@ -1,1 +1,1 @@
-var mnemonic = "brisk convince want metal sick celery slab cruel upgrade fine armed trust";
+var mnemonic = "material song pattern strong truck tell diet casual ancient donkey suit heart";

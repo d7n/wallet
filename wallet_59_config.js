@@ -1,1 +1,1 @@
-var mnemonic = "artist plunge mind reflect message raw clump door immune still vendor embody";
+var mnemonic = "start finger same interest history market obey orphan goddess snap album mom";

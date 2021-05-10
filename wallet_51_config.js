@@ -1,1 +1,1 @@
-var mnemonic = "achieve ability mimic oppose ability clown maze pigeon jaguar junk wrestle gun";
+var mnemonic = "uncle excite rocket major imitate figure minor today spend gravity laundry stereo";

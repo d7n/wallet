@@ -1,1 +1,1 @@
-var mnemonic = "avocado radar cabin bacon clown suspect jeans season rose thunder concert absent";
+var mnemonic = "model mouse mad crush illness stock funny culture leg abstract nature dirt";

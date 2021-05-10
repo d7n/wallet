@@ -1,1 +1,1 @@
-var mnemonic = "husband cube boss helmet shrimp weather smoke nuclear shine clap bacon forget";
+var mnemonic = "salt rigid gauge review property snack local absorb brush ice garden spell";

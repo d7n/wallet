@@ -1,1 +1,1 @@
-var mnemonic = "someone orange lock frequent choice lesson woman shallow income broccoli man cliff";
+var mnemonic = "theme ignore meat pool gorilla grocery right fragile wire endless raise funny";

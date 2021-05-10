@@ -1,1 +1,1 @@
-var mnemonic = "seat ethics view bird wine army curve finish chef fatigue reveal recall";
+var mnemonic = "brief wink repair sea vintage canyon wall spoon flip wreck clinic cricket";

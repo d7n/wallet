@@ -1,1 +1,1 @@
-var mnemonic = "affair behind file jacket patrol popular burden agree sauce security mimic reject";
+var mnemonic = "night chuckle laptop clinic spell heavy soap soul increase unveil company day";

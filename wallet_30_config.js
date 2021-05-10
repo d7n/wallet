@@ -1,1 +1,1 @@
-var mnemonic = "sell luxury oven owner couple march more when potato boring hospital health";
+var mnemonic = "record square master mercy genre solar exist earth require much gold okay";

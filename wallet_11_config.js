@@ -1,1 +1,1 @@
-var mnemonic = "craft text artefact hub zoo thumb pony minimum deputy away pulse air";
+var mnemonic = "inquiry only arena wool claw excite monster zone turkey flee attend random";

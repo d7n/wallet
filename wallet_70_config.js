@@ -1,1 +1,1 @@
-var mnemonic = "benefit inherit drift mask bulb ribbon drop vintage assault poverty birth ketchup";
+var mnemonic = "hour update oppose obtain grocery apple village flame step pepper supreme know";

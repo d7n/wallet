@@ -1,1 +1,1 @@
-var mnemonic = "amazing october pigeon parrot wrist online kiss eyebrow race lawsuit tattoo crystal";
+var mnemonic = "purse minute flush title clinic give coyote normal trend negative type give";

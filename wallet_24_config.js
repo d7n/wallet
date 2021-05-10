@@ -1,1 +1,1 @@
-var mnemonic = "peasant cry syrup exercise invest route flock limit identify used fat ride";
+var mnemonic = "between garlic boss heavy evidence trash town duty cage taste exact run";

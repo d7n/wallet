@@ -1,1 +1,1 @@
-var mnemonic = "seek behave girl fury aspect wine erupt close acquire suffer recall around";
+var mnemonic = "dice awful jacket prosper chief suffer surprise deposit guess foot fade fire";

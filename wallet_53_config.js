@@ -1,1 +1,1 @@
-var mnemonic = "gorilla magnet sick evolve sister hover husband route stick pencil marriage yard";
+var mnemonic = "trade sure track cricket trade quick truth priority blouse afford demand artwork";

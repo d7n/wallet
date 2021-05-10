@@ -1,1 +1,1 @@
-var mnemonic = "depend insane you castle venue vague pyramid cart beach until gather giraffe";
+var mnemonic = "primary approve blade garbage twelve century flower quantum gadget access awkward dove";

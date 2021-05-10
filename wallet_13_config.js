@@ -1,1 +1,1 @@
-var mnemonic = "episode scale race gorilla ginger blush provide deal visit desert twelve elbow";
+var mnemonic = "peanut fatal believe reunion garage orange task okay word scissors reason movie";

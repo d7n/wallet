@@ -1,1 +1,1 @@
-var mnemonic = "wait surprise border obtain pumpkin artwork flat imitate limit off build sauce";
+var mnemonic = "lemon word refuse infant hub silent erase traffic vital diary welcome live";

@@ -1,1 +1,1 @@
-var mnemonic = "detail speed hospital reason among stereo answer picnic predict skill decrease setup";
+var mnemonic = "staff genius connect that film tell discover ring student east wave ankle";

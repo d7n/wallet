@@ -1,1 +1,1 @@
-var mnemonic = "hazard modify actor cry dignity help design legal grief breeze salon scout";
+var mnemonic = "sadness citizen key skirt weapon develop atom energy happy hockey slim disagree";

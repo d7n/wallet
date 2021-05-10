@@ -1,1 +1,1 @@
-var mnemonic = "silver theme night pupil cross wish relief sure sister until mammal install";
+var mnemonic = "canoe file noble ill reopen cube element omit bridge proud turkey expand";

@@ -1,1 +1,1 @@
-var mnemonic = "twice dog neglect pole cattle decline album lion song erase actress patient";
+var mnemonic = "mother plate link unable glue depth dwarf elbow cotton hurry asset urban";

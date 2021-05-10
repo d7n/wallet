@@ -1,1 +1,1 @@
-var mnemonic = "action merit appear average twelve enter shaft square trap gaze pass actor";
+var mnemonic = "wonder nest under west trouble jacket lesson vanish you flush disagree ensure";

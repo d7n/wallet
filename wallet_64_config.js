@@ -1,1 +1,1 @@
-var mnemonic = "case turtle seven become account rack element toddler damage tide traffic near";
+var mnemonic = "oxygen liar gravity dinosaur sing method elder key rebel play camp globe";

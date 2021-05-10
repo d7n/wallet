@@ -1,1 +1,1 @@
-var mnemonic = "loop prosper lemon source broken ten economy transfer orient rate wet phrase";
+var mnemonic = "wedding arm ring play kidney tag panic club scene robot bean bargain";

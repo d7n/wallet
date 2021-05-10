@@ -1,1 +1,1 @@
-var mnemonic = "bulk gentle woman dignity obey canoe country autumn rural nice harsh maximum";
+var mnemonic = "syrup emotion kit tenant chicken repair metal hand sunny copy online slot";

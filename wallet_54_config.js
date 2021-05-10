@@ -1,1 +1,1 @@
-var mnemonic = "camp fury priority parrot exercise own marble menu film helmet brand enter";
+var mnemonic = "escape cinnamon enrich decide fantasy duty valid sight gravity below throw abandon";

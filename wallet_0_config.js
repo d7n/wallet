@@ -1,1 +1,1 @@
-var mnemonic = "attack amateur toss chalk volume inch guard capital toy uncover entire catalog";
+var mnemonic = "confirm shift dilemma aspect public bronze account athlete hawk chat garbage brother";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle brick imitate knock leaf roast mule level trick gain three assault";
+var mnemonic = "scare glass camp slender bone found addict window sadness hip south burst";

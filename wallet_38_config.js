@@ -1,1 +1,1 @@
-var mnemonic = "bunker able toddler raise teach maze oyster ankle success youth struggle consider";
+var mnemonic = "topic arrange snow hunt trouble smile used chimney police drum soft symptom";

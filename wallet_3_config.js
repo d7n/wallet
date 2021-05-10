@@ -1,1 +1,1 @@
-var mnemonic = "control target satoshi vapor gas lecture casual curious bubble guitar knee license";
+var mnemonic = "benefit month empower teach sword speak bounce abandon spy renew tooth puzzle";

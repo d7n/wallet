@@ -1,1 +1,1 @@
-var mnemonic = "lemon crop trade camp side horror easily beach banner dial found cradle";
+var mnemonic = "bag swallow wide shine eternal jewel pulp general fat stamp dog eight";

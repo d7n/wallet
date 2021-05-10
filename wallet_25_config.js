@@ -1,1 +1,1 @@
-var mnemonic = "shy tip effort enact also merit turn fringe stand chair throw nature";
+var mnemonic = "citizen memory enter chimney canyon learn slam sadness other poem renew tide";

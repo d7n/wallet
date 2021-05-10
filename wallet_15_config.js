@@ -1,1 +1,1 @@
-var mnemonic = "usage powder riot pattern pledge then cruise bronze because scene win match";
+var mnemonic = "april differ bargain float song wire case crouch tribe skull wood badge";

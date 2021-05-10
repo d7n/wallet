@@ -1,1 +1,1 @@
-var mnemonic = "maximum coil rubber lobster lobster scorpion glory crouch almost spy balcony betray";
+var mnemonic = "basket fabric physical club enemy impulse note frozen venue submit knock time";

@@ -1,1 +1,1 @@
-var mnemonic = "fly chapter increase divorce bring home kangaroo foot debate bulk limb mosquito";
+var mnemonic = "dumb like drastic river father vehicle army funny sheriff divorce blur day";

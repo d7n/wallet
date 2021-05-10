@@ -1,1 +1,1 @@
-var mnemonic = "response nasty canyon fiber buddy apology spice squeeze impose south lunch reject";
+var mnemonic = "eyebrow token someone salad insane ten bone screen glad plastic office abstract";

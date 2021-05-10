@@ -1,1 +1,1 @@
-var mnemonic = "brand gasp syrup start humble garment confirm mimic soft stumble siren faint";
+var mnemonic = "smooth inspire pumpkin early action west electric sleep gorilla shell own blind";

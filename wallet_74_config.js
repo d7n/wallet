@@ -1,1 +1,1 @@
-var mnemonic = "belt behave tunnel outside morning harvest moral mutual afraid sail turkey actual";
+var mnemonic = "say police man state increase bless normal tomorrow rain tail indoor end";

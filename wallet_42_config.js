@@ -1,1 +1,1 @@
-var mnemonic = "episode memory prefer wrestle pretty bag attend forum shock shrimp tornado birth";
+var mnemonic = "evoke impose deputy monitor worry merry cheap sad crash churn august immune";

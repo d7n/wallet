@@ -1,1 +1,1 @@
-var mnemonic = "artist real edit chef spider key flight urban repeat skull oven puzzle";
+var mnemonic = "accuse piano wrist squeeze goddess knee girl snap ethics text shine bronze";

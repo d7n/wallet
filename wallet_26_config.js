@@ -1,1 +1,1 @@
-var mnemonic = "occur game fall media benefit okay medal aspect kiwi one nation exotic";
+var mnemonic = "expire winner tube arrange inflict venue suspect lift often forget link salad";

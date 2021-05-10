@@ -1,1 +1,1 @@
-var mnemonic = "method helmet example pyramid attract promote globe crack cat often search endless";
+var mnemonic = "expose expose swallow impact flat must talent cinnamon dizzy limb have mother";

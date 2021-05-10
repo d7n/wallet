@@ -1,1 +1,1 @@
-var mnemonic = "clerk lonely genius culture what flame siren bacon face turtle derive wage";
+var mnemonic = "forward mixed solution honey zebra describe six regret load limb ride vivid";

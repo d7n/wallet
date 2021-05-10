@@ -1,1 +1,1 @@
-var mnemonic = "slogan argue bachelor tone trick riot recycle cart profit struggle learn find";
+var mnemonic = "tongue window jewel tide athlete behave news upgrade wink hope beach option";

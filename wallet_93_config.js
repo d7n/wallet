@@ -1,1 +1,1 @@
-var mnemonic = "because stamp elegant comic beef rapid foam wedding burst finger degree know";
+var mnemonic = "glance unfold album cable cigar hundred episode subway salad universe under balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "unable bamboo jewel raise icon else whale donor street spoil engine only";
+var mnemonic = "stable toilet consider enroll ticket mechanic drift material gain ask suspect novel";

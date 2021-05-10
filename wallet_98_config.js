@@ -1,1 +1,1 @@
-var mnemonic = "dwarf advice bachelor stamp label usual leaf genuine infant clown invest spawn";
+var mnemonic = "robust you thought roast agent work purchase castle simple front modify horn";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade together artwork usage shadow legend glass toy mango child bulk evidence";
+var mnemonic = "treat party easily sheriff rare scrap tool lazy boost jelly truck degree";

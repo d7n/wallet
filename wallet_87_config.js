@@ -1,1 +1,1 @@
-var mnemonic = "safe make zoo involve crop thought group vendor foot engage minimum million";
+var mnemonic = "mad sauce attend tape giggle rabbit silver liberty stand assault blush input";

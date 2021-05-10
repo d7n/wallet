@@ -1,1 +1,1 @@
-var mnemonic = "shuffle scout asthma welcome rescue december system gadget burger slab upgrade common";
+var mnemonic = "own outer end rural attack cabbage system grass casual lady remind assume";

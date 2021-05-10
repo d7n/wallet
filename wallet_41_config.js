@@ -1,1 +1,1 @@
-var mnemonic = "master rich arctic rebuild myself pledge myself van allow hip fox winner";
+var mnemonic = "acquire lesson hen together cram photo flee genius minute roast demand update";

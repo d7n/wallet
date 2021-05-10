@@ -1,1 +1,1 @@
-var mnemonic = "bar erosion rare calm lucky special hope immense slot excess ski strategy";
+var mnemonic = "lava afford matrix sword coconut mass saddle arrange garden consider rubber garden";

@@ -1,1 +1,1 @@
-var mnemonic = "romance dawn lesson six crack joke sure verify fuel march throw chest";
+var mnemonic = "narrow seed daughter wet leader kidney rapid fox bunker bag harsh situate";

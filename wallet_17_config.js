@@ -1,1 +1,1 @@
-var mnemonic = "theory disorder asset option icon autumn vessel loan misery huge worry height";
+var mnemonic = "empty uncle problem mix okay negative settle disorder club unusual abuse october";

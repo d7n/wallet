@@ -1,1 +1,1 @@
-var mnemonic = "vessel dismiss armed hint own execute kiss trash note amused grow prize";
+var mnemonic = "jeans drama current vivid flee saddle biology tackle level clap stone trophy";

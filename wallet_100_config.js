@@ -1,1 +1,1 @@
-var mnemonic = "adult speak lounge deputy wedding argue filter essay elegant cigar husband mobile";
+var mnemonic = "wire add torch swear upon album swallow mixture tuna iron spray fish";

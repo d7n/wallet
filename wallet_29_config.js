@@ -1,1 +1,1 @@
-var mnemonic = "man estate bleak expect setup romance detail inner demand october sorry local";
+var mnemonic = "morning admit draw theory real oblige cement lock tumble lyrics expand pond";

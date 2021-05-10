@@ -1,1 +1,1 @@
-var mnemonic = "coffee weather frog average mosquito wheel aunt hybrid gift diamond abstract steel";
+var mnemonic = "process sibling charge crowd throw amused giggle brother join cover borrow mandate";

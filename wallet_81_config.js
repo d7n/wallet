@@ -1,1 +1,1 @@
-var mnemonic = "filter oyster toe infant famous attitude size bleak federal height police pull";
+var mnemonic = "mom foam couple token chair unhappy test catalog identify gravity secret fog";

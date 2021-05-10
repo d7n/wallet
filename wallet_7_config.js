@@ -1,1 +1,1 @@
-var mnemonic = "seminar cushion taxi maximum bounce gasp sun angry vivid scatter pelican turkey";
+var mnemonic = "wide identify gas voyage clean rent solar click actress depart win dutch";

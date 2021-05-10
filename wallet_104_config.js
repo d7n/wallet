@@ -1,1 +1,1 @@
-var mnemonic = "suffer crane country proud dwarf dignity maid genre black bunker erupt city";
+var mnemonic = "gadget rare verb magnet media nominee fence decrease chest decrease close month";

@@ -1,1 +1,1 @@
-var mnemonic = "observe road saddle coconut sure venue pattern warm minimum stuff rival return";
+var mnemonic = "knock spice fun earth amount electric tank come anchor frog bonus diesel";

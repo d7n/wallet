@@ -1,1 +1,1 @@
-var mnemonic = "roast gown transfer pass leg pioneer whisper junk orchard sponsor patrol benefit";
+var mnemonic = "tool glue zoo sun door push marriage trick road brain ask heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe virtual stove flower detail cross loop mango december lumber rude color";
+var mnemonic = "member utility taxi ticket where economy visual screen van crew increase elegant";
