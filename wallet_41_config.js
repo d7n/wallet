@@ -1,1 +1,1 @@
-var mnemonic = "pluck task feel draw script coast inhale chief output shoot amazing note";
+var mnemonic = "dwarf west garlic cinnamon you setup amused notable cheap update dinner forward";

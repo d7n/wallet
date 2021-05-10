@@ -1,1 +1,1 @@
-var mnemonic = "install crawl amount used tube van cable champion wife seminar try family";
+var mnemonic = "dynamic walk guard boat capital mad bone zone clean armed wear senior";

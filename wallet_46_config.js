@@ -1,1 +1,1 @@
-var mnemonic = "galaxy corn trash rival slam obtain antenna bright cool attack accuse topic";
+var mnemonic = "order basic left autumn stable lend choose weird file oil skill pulse";

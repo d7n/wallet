@@ -1,1 +1,1 @@
-var mnemonic = "radio shiver voyage behave pet onion harsh excite burger save detail double";
+var mnemonic = "patrol cluster hollow alone ripple ranch express nurse damage power mutual invest";

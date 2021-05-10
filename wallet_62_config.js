@@ -1,1 +1,1 @@
-var mnemonic = "rifle tuition risk raccoon dune asset student element matter cool dog able";
+var mnemonic = "scrap boring broom analyst hire blame calm cart silk skirt ticket tattoo";

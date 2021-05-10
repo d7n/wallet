@@ -1,1 +1,1 @@
-var mnemonic = "local during note worry page afford arrest valley stove truly capital penalty";
+var mnemonic = "course fork afraid assume dentist conduct planet column satisfy tenant possible fatal";

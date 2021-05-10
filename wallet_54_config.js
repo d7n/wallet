@@ -1,1 +1,1 @@
-var mnemonic = "connect second couple spice teach enforce defense jelly daughter sentence winter minute";
+var mnemonic = "agent notable much shield will cause trim urban burden strong rival clean";

@@ -1,1 +1,1 @@
-var mnemonic = "craft mango gym high quarter network label burden hungry coin weapon six";
+var mnemonic = "walk human unique frequent strike inherit deposit minor owner stomach second crater";

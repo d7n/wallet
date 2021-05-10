@@ -1,1 +1,1 @@
-var mnemonic = "assist nature army decade sauce woman spice neither voice wait gather order";
+var mnemonic = "local drastic glove mechanic vacant annual shadow round october shop tackle else";

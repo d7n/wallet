@@ -1,1 +1,1 @@
-var mnemonic = "artefact purchase shock escape subject common bunker laugh copy fog shuffle fuel";
+var mnemonic = "kitten clip crazy any chair fork love slam draw thank liar diet";

@@ -1,1 +1,1 @@
-var mnemonic = "police pond crunch regret blood pole hip leopard give twenty recycle lumber";
+var mnemonic = "vanish traffic sibling rude razor idle damage plate match armed city welcome";

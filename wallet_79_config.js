@@ -1,1 +1,1 @@
-var mnemonic = "scheme bomb poem amazing bargain wheel layer zoo camera lottery express park";
+var mnemonic = "animal shrug film obey advice choose resemble feed orphan return dice route";

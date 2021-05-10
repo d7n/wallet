@@ -1,1 +1,1 @@
-var mnemonic = "curve mistake valid exit love system music melody ethics pact rude escape";
+var mnemonic = "squirrel stomach laundry victory toe extra upgrade spot script december awesome hidden";

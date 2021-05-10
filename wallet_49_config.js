@@ -1,1 +1,1 @@
-var mnemonic = "business earth dove south absurd odor clown void expire crane camp repeat";
+var mnemonic = "unable nerve absent buyer absurd move consider method square seminar hold thought";

@@ -1,1 +1,1 @@
-var mnemonic = "cart test move ship inmate better resist best such iron account bulb";
+var mnemonic = "vacuum truly day smoke debris depart orchard elder beyond annual check rice";

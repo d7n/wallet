@@ -1,1 +1,1 @@
-var mnemonic = "dry laptop dust diary danger system bind item undo real crush mimic";
+var mnemonic = "impact tongue abandon goat fabric lottery lift together sand debate poverty turn";

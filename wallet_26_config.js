@@ -1,1 +1,1 @@
-var mnemonic = "merit month nasty fabric problem analyst brave design misery angry abandon wink";
+var mnemonic = "current fantasy lake diagram leisure stuff person three story around spider october";

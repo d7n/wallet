@@ -1,1 +1,1 @@
-var mnemonic = "mutual olive unfold virus exercise power reward slide swift rib journey attract";
+var mnemonic = "monster scene pride response ask sight race nothing stereo claim fatigue rent";

@@ -1,1 +1,1 @@
-var mnemonic = "net marine message century idea drink casino name employ iron rich lion";
+var mnemonic = "fog indicate switch job slogan guard round mimic lemon submit drop aisle";

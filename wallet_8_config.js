@@ -1,1 +1,1 @@
-var mnemonic = "salute toe gown metal special cargo mind panther when dinosaur easily load";
+var mnemonic = "enjoy aisle idle bridge bottom wet thought rapid diagram surround avoid hub";

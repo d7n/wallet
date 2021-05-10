@@ -1,1 +1,1 @@
-var mnemonic = "awful enrich absurd lab confirm gesture gold thought goat thank imitate clog";
+var mnemonic = "permit swift trade traffic abuse travel devote scan legal pass armor honey";

@@ -1,1 +1,1 @@
-var mnemonic = "spider advance jewel silk infant clap mother vote income design rigid segment";
+var mnemonic = "daring main chef force response lens soda marble crisp slot gorilla hybrid";

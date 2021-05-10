@@ -1,1 +1,1 @@
-var mnemonic = "smile old group grief lens jazz breeze donor duty okay arch cake";
+var mnemonic = "load canyon awesome lens flavor awkward popular man capital bridge input scene";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget want ladder hunt neck poet glare meat shock alone now arrange";
+var mnemonic = "dirt crop slot joy visual rotate blade buffalo tired carpet deputy bitter";

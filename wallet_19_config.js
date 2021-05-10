@@ -1,1 +1,1 @@
-var mnemonic = "suffer good battle burden bean negative egg year option certain soccer beyond";
+var mnemonic = "large position warrior bean artist silver hurry brick topple around lyrics laptop";

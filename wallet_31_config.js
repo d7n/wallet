@@ -1,1 +1,1 @@
-var mnemonic = "pen auction cattle initial liberty latin clock force phone rack method junior";
+var mnemonic = "route poet fatigue loyal dilemma lend anxiety find afraid permit shrimp rural";

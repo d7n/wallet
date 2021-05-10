@@ -1,1 +1,1 @@
-var mnemonic = "mimic toddler hold purity olympic result again track legend topple slot ketchup";
+var mnemonic = "coach country liquid affair tired office code social broken whale into journey";

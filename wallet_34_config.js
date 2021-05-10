@@ -1,1 +1,1 @@
-var mnemonic = "kiwi chef patch say frame orient bench embrace unveil blast enough attend";
+var mnemonic = "dutch around they glue toast width woman maple zone rely boil entire";

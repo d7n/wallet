@@ -1,1 +1,1 @@
-var mnemonic = "girl curtain gold cram gas cinnamon denial oil marriage banana during journey";
+var mnemonic = "cable equal tape glance grid toast tennis burst mistake action easily gasp";

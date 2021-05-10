@@ -1,1 +1,1 @@
-var mnemonic = "scatter reform slight absent beyond bird shoulder blossom mountain assault observe drastic";
+var mnemonic = "tooth defy brand ramp crouch announce layer autumn pill emerge meat inform";

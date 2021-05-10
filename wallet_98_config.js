@@ -1,1 +1,1 @@
-var mnemonic = "tooth fiscal wing hand fan bamboo flee shiver intact boil trouble giant";
+var mnemonic = "net chair fix tip stock roof network humor solar artefact bunker purity";

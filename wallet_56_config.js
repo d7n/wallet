@@ -1,1 +1,1 @@
-var mnemonic = "moment sock divorce energy autumn combine term popular negative garage clock drum";
+var mnemonic = "false forget pond escape toilet lobster exchange frame buddy foil render borrow";

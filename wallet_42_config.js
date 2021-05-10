@@ -1,1 +1,1 @@
-var mnemonic = "have pottery until they anchor park canoe media network coconut toss ship";
+var mnemonic = "liar mass monitor stereo silly force burden mixed unfair only unaware hip";

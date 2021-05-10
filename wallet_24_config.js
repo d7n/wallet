@@ -1,1 +1,1 @@
-var mnemonic = "poverty weapon movie rent target fortune flavor damage try advice lottery kite";
+var mnemonic = "before tonight firm help lottery victory congress wisdom visa traffic swallow someone";

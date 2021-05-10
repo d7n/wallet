@@ -1,1 +1,1 @@
-var mnemonic = "phone kangaroo tobacco refuse dash jar film yard brand ozone acoustic avocado";
+var mnemonic = "cereal damp tiny video three gym fancy junk topic wine club often";

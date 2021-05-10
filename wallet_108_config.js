@@ -1,1 +1,1 @@
-var mnemonic = "shallow infant tiny couple current train initial fossil shy soon already upgrade";
+var mnemonic = "beauty staff slight turkey hotel real plug clean enroll pledge fit learn";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel sad perfect tongue gate jacket host very divorce unfair head pet";
+var mnemonic = "clock because boring amused fever squeeze inform lady analyst have order crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "hope next street second rival erase shrimp gorilla move cloud unfair dinner";
+var mnemonic = "immense scrub rocket main tone tail capital drop drop express mushroom hip";

@@ -1,1 +1,1 @@
-var mnemonic = "dress ripple push assault maid carry client bunker correct depth veteran stay";
+var mnemonic = "arctic combine super gate educate muscle volcano begin interest dirt fresh magic";

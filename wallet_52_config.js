@@ -1,1 +1,1 @@
-var mnemonic = "inhale cinnamon rely burger giraffe tragic problem pill climb exist fruit solid";
+var mnemonic = "rebuild shaft taxi ask thing mammal between cement silly paper vote promote";

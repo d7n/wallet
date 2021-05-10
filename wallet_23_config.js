@@ -1,1 +1,1 @@
-var mnemonic = "once unhappy divert path angry holiday soccer staff axis they food gate";
+var mnemonic = "boost shock awful physical struggle deliver stage index design derive lobster alley";

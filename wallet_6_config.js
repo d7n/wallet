@@ -1,1 +1,1 @@
-var mnemonic = "camp guard heart hour cloud globe add hold series future beef mammal";
+var mnemonic = "fragile regret glide fluid parent nominee syrup mango comic video love toward";

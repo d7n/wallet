@@ -1,1 +1,1 @@
-var mnemonic = "abandon tortoise dice merit cannon find still garage real organ spice weird";
+var mnemonic = "announce dragon little decline harbor exhibit bonus beauty oak essay skill unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "black busy speed ordinary casino flat observe swamp quote deal already subway";
+var mnemonic = "pencil major blind ride zebra minimum green sport install maximum palm stool";

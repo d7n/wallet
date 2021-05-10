@@ -1,1 +1,1 @@
-var mnemonic = "original caution unhappy dance phone space ketchup girl wolf trim mixture eye";
+var mnemonic = "company sugar fury lawsuit valley always onion better happy divorce purity pudding";

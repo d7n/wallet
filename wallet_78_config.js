@@ -1,1 +1,1 @@
-var mnemonic = "leave brown tag mammal opera horse warm blade require barrel payment absurd";
+var mnemonic = "pigeon job hammer leg clinic beef client lesson olive there faculty casino";

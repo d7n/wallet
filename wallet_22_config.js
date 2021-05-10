@@ -1,1 +1,1 @@
-var mnemonic = "theory cruel decline mammal cross hood enter task original movie believe please";
+var mnemonic = "bundle venue attend nest mouse alcohol script lend yellow rifle anxiety message";

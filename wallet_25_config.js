@@ -1,1 +1,1 @@
-var mnemonic = "artist clerk truck mule switch young forward prefer leaf menu final blouse";
+var mnemonic = "involve round maximum age glory auto eight pluck shoulder shiver rice rough";

@@ -1,1 +1,1 @@
-var mnemonic = "current early ring chalk alarm crater ankle aunt rubber flee desk sunset";
+var mnemonic = "material sting hundred where upon room coast response smart drive drill protect";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup jealous swear erase tennis oxygen draw ignore misery door stay case";
+var mnemonic = "slide burger raven polar captain broccoli dutch orchard soda analyst clump staff";

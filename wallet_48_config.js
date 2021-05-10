@@ -1,1 +1,1 @@
-var mnemonic = "glance giant stomach report sorry ostrich scrub nice lunch coyote nasty vivid";
+var mnemonic = "dinosaur sister typical job holiday stove tape shaft erase laundry tooth elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch core obey rabbit benefit remember wolf path impact vital clerk tent";
+var mnemonic = "index float gather crime lake vibrant notice pilot evoke punch cannon young";

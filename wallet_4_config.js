@@ -1,1 +1,1 @@
-var mnemonic = "unfair promote punch slush total carpet box burger connect fault salute luxury";
+var mnemonic = "pond awake tone crush deputy fantasy sunny civil page pupil lesson task";

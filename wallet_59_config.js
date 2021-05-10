@@ -1,1 +1,1 @@
-var mnemonic = "hair lend slow catch cereal apple acquire have hockey lizard ill media";
+var mnemonic = "health jump once trade crack base royal useful planet divorce afford put";

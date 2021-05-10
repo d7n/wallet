@@ -1,1 +1,1 @@
-var mnemonic = "lock tortoise seven mercy spawn brave divide flock write rain badge hunt";
+var mnemonic = "city copy lawn jazz wire brisk entry bullet waste spring more attend";

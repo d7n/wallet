@@ -1,1 +1,1 @@
-var mnemonic = "okay barrel tomorrow adult cinnamon mixed bike web round disorder blossom fashion";
+var mnemonic = "race hub ramp regular turtle paper sick slice chair worth flee debris";

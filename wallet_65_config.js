@@ -1,1 +1,1 @@
-var mnemonic = "topple token doll purse stomach echo when photo shaft gospel limit depend";
+var mnemonic = "universe owner release mixture kangaroo science network random mule hip scout badge";

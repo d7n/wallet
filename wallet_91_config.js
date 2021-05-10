@@ -1,1 +1,1 @@
-var mnemonic = "suit turn civil mesh favorite punch general fringe hard axis hire build";
+var mnemonic = "shrug insect caution dream pitch point achieve finish crawl lottery divide syrup";

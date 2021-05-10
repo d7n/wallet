@@ -1,1 +1,1 @@
-var mnemonic = "panda correct crucial blossom weasel match much purchase zoo person dune club";
+var mnemonic = "member vibrant arrest ranch thing potato inch horror giraffe proof summer code";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil return melody used general sketch saddle collect oyster news sand trial";
+var mnemonic = "sick awkward one alien mind tomato system coral web injury sound oval";

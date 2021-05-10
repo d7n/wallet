@@ -1,1 +1,1 @@
-var mnemonic = "smooth often toast boss cream slim cannon must display planet faculty warrior";
+var mnemonic = "mansion basic quantum upset trip cereal reveal unfair shield laugh window size";

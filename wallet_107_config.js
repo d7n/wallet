@@ -1,1 +1,1 @@
-var mnemonic = "elbow cause wrap cable picture attitude piece abuse happy gym order hire";
+var mnemonic = "logic speak step rare canyon curtain brief skate subway equal force luxury";

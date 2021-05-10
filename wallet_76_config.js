@@ -1,1 +1,1 @@
-var mnemonic = "extend describe rug lonely remain puzzle solar aunt oblige achieve click place";
+var mnemonic = "grow route reflect find dwarf broken street fall wife quarter cigar fluid";

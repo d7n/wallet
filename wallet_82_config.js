@@ -1,1 +1,1 @@
-var mnemonic = "history carry wrong creek canoe hamster peanut acoustic busy hammer gravity south";
+var mnemonic = "raise insect small ask issue comfort oval erode violin rebuild grab slab";

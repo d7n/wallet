@@ -1,1 +1,1 @@
-var mnemonic = "inflict adjust bracket flat donkey opera civil blue rail gentle split autumn";
+var mnemonic = "profit output stadium crew first daring photo idle chef increase time input";

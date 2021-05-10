@@ -1,1 +1,1 @@
-var mnemonic = "future leisure dial icon giraffe vacuum canyon trim trash amateur honey apple";
+var mnemonic = "deliver violin useful bleak beyond science trust skirt quantum mix twenty kit";

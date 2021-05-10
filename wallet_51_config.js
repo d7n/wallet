@@ -1,1 +1,1 @@
-var mnemonic = "awful fragile number giraffe install bounce knock color tell primary infant oak";
+var mnemonic = "pass similar exit adapt peace also opera ticket century sport grid they";

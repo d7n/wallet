@@ -1,1 +1,1 @@
-var mnemonic = "loop stand one dinosaur adult olympic obey roof resist sauce virus cable";
+var mnemonic = "federal excess type beauty setup era color clerk deliver animal genre round";

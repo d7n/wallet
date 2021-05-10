@@ -1,1 +1,1 @@
-var mnemonic = "enable text target index height eyebrow elevator faint mean flavor jaguar differ";
+var mnemonic = "boost will tilt shaft artwork vibrant region loud shrimp senior mirror crack";

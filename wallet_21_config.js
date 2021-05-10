@@ -1,1 +1,1 @@
-var mnemonic = "carbon virus loan fork this rebel tackle floor grunt brain early push";
+var mnemonic = "gift horn sample concert rack cage paddle umbrella pole fan video grape";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar danger flash basket flame sugar notable party team praise action adapt";
+var mnemonic = "barely plate truck north hamster answer album six engine broccoli cash pilot";

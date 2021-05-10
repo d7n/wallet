@@ -1,1 +1,1 @@
-var mnemonic = "travel broom edit brisk banana dinner van grief soup verb fee give";
+var mnemonic = "cream maple access surprise depart can pilot basic athlete junior lemon silly";

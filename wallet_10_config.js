@@ -1,1 +1,1 @@
-var mnemonic = "around chair peace myself punch rocket media bag measure juice major burden";
+var mnemonic = "describe version clock club employ betray news asset truly charge forward coconut";

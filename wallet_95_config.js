@@ -1,1 +1,1 @@
-var mnemonic = "bag tent asthma cushion hero dawn bullet describe nurse room name wreck";
+var mnemonic = "grape now replace estate gentle pride noise pottery gate swarm beef lab";

@@ -1,1 +1,1 @@
-var mnemonic = "concert merit once olympic december make vote short strategy churn lecture wage";
+var mnemonic = "whip enrich across expire sting smooth boy bread share shell egg employ";

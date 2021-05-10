@@ -1,1 +1,1 @@
-var mnemonic = "dawn keep inhale oak load edge notice latin mobile side comfort enough";
+var mnemonic = "ugly century jeans title wheel april task category sniff despair about scout";

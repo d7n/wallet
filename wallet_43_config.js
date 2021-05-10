@@ -1,1 +1,1 @@
-var mnemonic = "wife art host solve manual shop harbor antenna people any unusual task";
+var mnemonic = "later spin broken acquire jar blanket bicycle carbon reform quality want adjust";

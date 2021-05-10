@@ -1,1 +1,1 @@
-var mnemonic = "remind theory trend middle friend sleep yellow cereal mercy wisdom example holiday";
+var mnemonic = "easily focus heart rifle eager bring bacon innocent lobster identify legal glare";

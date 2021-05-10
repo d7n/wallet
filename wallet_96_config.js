@@ -1,1 +1,1 @@
-var mnemonic = "elder winter tortoise news dragon action uncle joy mule auto describe furnace";
+var mnemonic = "erode pause monster injury plastic dirt office patrol daring lesson tomato iron";

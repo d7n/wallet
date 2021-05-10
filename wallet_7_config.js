@@ -1,1 +1,1 @@
-var mnemonic = "found render gasp october royal gas sphere dash baby radio shy window";
+var mnemonic = "vague prevent error imitate health ride girl fragile bulk boat skill ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "logic behave web index hole canyon puppy discover throw chicken enact awesome";
+var mnemonic = "goat army mean imitate afraid keen hard amused very across keep review";

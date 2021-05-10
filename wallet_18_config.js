@@ -1,1 +1,1 @@
-var mnemonic = "swarm zero rule ethics duck capital sniff rifle shiver quit absurd whisper";
+var mnemonic = "fragile legal bargain dwarf side equal sail horse dutch repair hat juice";

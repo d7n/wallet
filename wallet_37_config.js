@@ -1,1 +1,1 @@
-var mnemonic = "kind search polar craft mountain two roof minor unusual tortoise swim gain";
+var mnemonic = "off blur winner detect useless layer eye trim guard harvest drum sunny";

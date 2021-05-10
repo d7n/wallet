@@ -1,1 +1,1 @@
-var mnemonic = "among trust prize ask chair tumble bachelor whisper tunnel found balance battle";
+var mnemonic = "deputy work bid enrich exclude alley blade tool age party clog advance";

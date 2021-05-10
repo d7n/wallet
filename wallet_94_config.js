@@ -1,1 +1,1 @@
-var mnemonic = "assume kiss fitness wave recall pave outside champion obey hole normal rookie";
+var mnemonic = "impulse machine wreck diary behave valid okay goose exchange guide avoid armed";

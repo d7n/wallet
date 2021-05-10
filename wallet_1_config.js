@@ -1,1 +1,1 @@
-var mnemonic = "essence carbon tonight shove reflect cat answer peace exist survey forum thumb";
+var mnemonic = "evidence satoshi suggest easily vivid person certain vapor meat scout into food";

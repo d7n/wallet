@@ -1,1 +1,1 @@
-var mnemonic = "sorry alley stuff green scout grow mercy escape dignity purpose zebra squeeze";
+var mnemonic = "job edge rally portion ordinary draw talk gravity tortoise remind insect peace";

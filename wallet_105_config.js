@@ -1,1 +1,1 @@
-var mnemonic = "green frequent mixture uniform act route fiction toss voice spice galaxy travel";
+var mnemonic = "angry feed kitchen arrest embark stone erase major enemy movie expire prefer";

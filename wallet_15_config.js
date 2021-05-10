@@ -1,1 +1,1 @@
-var mnemonic = "thunder bus relief unit crouch link jealous mistake train jazz lizard fruit";
+var mnemonic = "amazing region steak imitate bronze suggest eye side aisle grant excess rapid";

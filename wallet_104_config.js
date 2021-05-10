@@ -1,1 +1,1 @@
-var mnemonic = "say spice cannon main armor divert fever farm lounge female used feature";
+var mnemonic = "enrich little age trial trash fat salad family patient own curious abuse";

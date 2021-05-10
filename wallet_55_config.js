@@ -1,1 +1,1 @@
-var mnemonic = "course subway armed kit swing surround visa morning pulse pink lens crawl";
+var mnemonic = "grocery erode cage flee scorpion cage claim among absurd already reject hurt";

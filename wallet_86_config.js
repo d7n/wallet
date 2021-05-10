@@ -1,1 +1,1 @@
-var mnemonic = "avoid punch view often cool innocent evoke other reward mad unable timber";
+var mnemonic = "office bracket size enforce trumpet ozone fluid evidence fiscal firm crawl program";
