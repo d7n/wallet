@@ -1,1 +1,1 @@
-var mnemonic = "increase stick script nurse swim bid advance salt noise agent candy february";
+var mnemonic = "notable next lift primary key tag occur welcome else magic leaf kit";

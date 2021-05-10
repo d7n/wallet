@@ -1,1 +1,1 @@
-var mnemonic = "major aspect damage quality game cement session arrow gap shove vapor bunker";
+var mnemonic = "nation current dial inhale dish spend pudding knock unlock visual vacuum oblige";

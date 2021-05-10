@@ -1,1 +1,1 @@
-var mnemonic = "bone unable flat busy parent regret few certain subway figure horror squeeze";
+var mnemonic = "cube street first reward original master various impose train focus trophy humble";

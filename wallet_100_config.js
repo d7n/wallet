@@ -1,1 +1,1 @@
-var mnemonic = "govern quality cave vehicle ginger fine fancy clay green elevator skirt snow";
+var mnemonic = "wife catalog ceiling approve tower awful six into issue naive upset scrub";

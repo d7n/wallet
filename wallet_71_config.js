@@ -1,1 +1,1 @@
-var mnemonic = "sister stairs minute cream plunge sun elbow sport tackle kid brand craft";
+var mnemonic = "into bleak sauce fringe time caution forget situate head advance web there";

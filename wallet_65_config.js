@@ -1,1 +1,1 @@
-var mnemonic = "cactus best yard success intact peanut issue chimney habit file victory trim";
+var mnemonic = "crew meat leave truth slogan insane idea lounge cave divorce roast unfair";

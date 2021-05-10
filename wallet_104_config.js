@@ -1,1 +1,1 @@
-var mnemonic = "oil present fly hole airport scene cart unique tumble brick promote mixed";
+var mnemonic = "core print cupboard morning detail absorb tower float horse develop ginger ivory";

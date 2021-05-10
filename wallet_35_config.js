@@ -1,1 +1,1 @@
-var mnemonic = "crack frog update fly bleak never frozen entire exit metal employ rich";
+var mnemonic = "daring polar tower jazz rather perfect couch foil huge inquiry farm leader";

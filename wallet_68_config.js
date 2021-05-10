@@ -1,1 +1,1 @@
-var mnemonic = "unable lawn donkey table must trophy enrich client expect drama advice faculty";
+var mnemonic = "drum session speed opera toddler gadget bulk sauce can grit six during";

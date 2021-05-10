@@ -1,1 +1,1 @@
-var mnemonic = "night normal sort skate village bag fee wealth diagram mule harbor cancel";
+var mnemonic = "leader person pyramid fine away steak private pretty series replace trip spoon";

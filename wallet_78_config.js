@@ -1,1 +1,1 @@
-var mnemonic = "weasel cook course parent idle lake ramp cereal skull dish detail wine";
+var mnemonic = "jazz wide truth analyst armor diagram blossom pool state hungry dash situate";

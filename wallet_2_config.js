@@ -1,1 +1,1 @@
-var mnemonic = "manual hen yellow mirror mix suffer farm address acid seminar patch almost";
+var mnemonic = "attack south soul cement leg jealous number wish party excess vicious music";

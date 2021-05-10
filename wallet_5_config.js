@@ -1,1 +1,1 @@
-var mnemonic = "unique edge evoke ghost special song lion spice balance belt genius olympic";
+var mnemonic = "fix crisp idle trick arrow anxiety dismiss certain rubber wreck ignore depend";

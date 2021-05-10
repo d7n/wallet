@@ -1,1 +1,1 @@
-var mnemonic = "motion shield shrimp glad rib grain dilemma person sample little author door";
+var mnemonic = "artist know advice document material juice quick climb fine page coast dignity";

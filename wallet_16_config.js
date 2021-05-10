@@ -1,1 +1,1 @@
-var mnemonic = "canyon remind pluck success identify truck feature lottery piano title sunny embody";
+var mnemonic = "total state twin ensure stadium world soap surge rebel immense rigid solar";

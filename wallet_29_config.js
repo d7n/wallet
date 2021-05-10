@@ -1,1 +1,1 @@
-var mnemonic = "air ugly sad junior embody modify shop police vague fatal prevent father";
+var mnemonic = "dragon coral latin decrease print giant story burden mistake capable fold drill";

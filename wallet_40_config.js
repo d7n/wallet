@@ -1,1 +1,1 @@
-var mnemonic = "brush tank parrot attack clock alter unfold umbrella donkey acid elegant all";
+var mnemonic = "voice private tiny aunt junior rice skate injury obscure run maple photo";

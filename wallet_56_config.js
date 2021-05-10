@@ -1,1 +1,1 @@
-var mnemonic = "ankle glance drastic detail account drastic boat thunder squeeze supreme cheese favorite";
+var mnemonic = "deer assist rate before kingdom cool swim deputy domain era six master";

@@ -1,1 +1,1 @@
-var mnemonic = "choose never leave harvest park early become matter relax ring cement table";
+var mnemonic = "marine burger balance cash total side observe caution foster garment decade flee";

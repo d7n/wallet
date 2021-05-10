@@ -1,1 +1,1 @@
-var mnemonic = "boost heart mother century cook knock iron radar table cash panel argue";
+var mnemonic = "stone lazy region sign round tape hand trim fall isolate subway derive";

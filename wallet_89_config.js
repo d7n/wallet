@@ -1,1 +1,1 @@
-var mnemonic = "charge fall other whisper blouse river flee sheriff broken rough waste video";
+var mnemonic = "answer cross expire spend assault near alarm table sustain explain good march";

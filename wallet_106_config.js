@@ -1,1 +1,1 @@
-var mnemonic = "fortune then indicate remove hurt gym gather angle island surge pet disagree";
+var mnemonic = "pride festival arrange venture rail steak else party focus pride warm animal";

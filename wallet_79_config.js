@@ -1,1 +1,1 @@
-var mnemonic = "submit school biology churn abstract escape hazard system squirrel donkey announce retreat";
+var mnemonic = "possible timber elevator rabbit noodle paper erase person ugly jazz veteran exact";

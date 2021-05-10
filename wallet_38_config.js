@@ -1,1 +1,1 @@
-var mnemonic = "doll fault vast rent envelope bulk dwarf vehicle eager question dwarf camp";
+var mnemonic = "remain profit morning tooth defy ability parrot nest age asthma dust gold";

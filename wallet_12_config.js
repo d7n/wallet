@@ -1,1 +1,1 @@
-var mnemonic = "answer myself glide fluid end quality retire lock art morning exotic filter";
+var mnemonic = "people scout please region awesome win coil life step piano six sort";

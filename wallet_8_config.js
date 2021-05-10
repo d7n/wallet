@@ -1,1 +1,1 @@
-var mnemonic = "party discover trade reason noodle hungry tape lawn breeze awake major glory";
+var mnemonic = "protect illegal useless step occur kidney trick speed jeans later smooth accident";

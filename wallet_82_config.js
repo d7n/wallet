@@ -1,1 +1,1 @@
-var mnemonic = "glance script urban decade pitch toward tent minimum chat another casino focus";
+var mnemonic = "chase open narrow help lizard correct author fashion tube urge plate destroy";

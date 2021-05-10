@@ -1,1 +1,1 @@
-var mnemonic = "expect uncle habit proud fee cotton dolphin fan arrow decorate slice prize";
+var mnemonic = "spatial object dragon wrist embody opinion destroy neutral what brisk river upon";

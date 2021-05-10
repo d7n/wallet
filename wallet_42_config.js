@@ -1,1 +1,1 @@
-var mnemonic = "eye route carpet water shove before immense phrase magic predict segment vast";
+var mnemonic = "unknown oval hero sun shine broom embody mercy slide smile orange case";

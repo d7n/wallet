@@ -1,1 +1,1 @@
-var mnemonic = "night right idle apart street current erase impulse donate morning nation review";
+var mnemonic = "gift follow early lazy emerge another amused side enrich become ramp fire";

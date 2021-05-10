@@ -1,1 +1,1 @@
-var mnemonic = "toss same sausage bottom bitter license boil bright sail exclude cube glide";
+var mnemonic = "retreat victory sausage magic vintage once symptom insect secret consider fantasy dolphin";

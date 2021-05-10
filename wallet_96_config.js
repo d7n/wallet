@@ -1,1 +1,1 @@
-var mnemonic = "item neglect empty owner blood broom risk join cabbage trade situate deposit";
+var mnemonic = "reform border lawsuit exchange assist switch gallery feel copper uphold differ just";

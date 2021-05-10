@@ -1,1 +1,1 @@
-var mnemonic = "drink plastic shell crystal similar curve cradle cigar connect bachelor horn plunge";
+var mnemonic = "shuffle rescue clap hurdle east broken chicken fragile dose cluster reduce matrix";

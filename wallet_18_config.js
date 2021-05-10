@@ -1,1 +1,1 @@
-var mnemonic = "kitten joke average empty jealous timber dune basket panda sunset next tray";
+var mnemonic = "segment wrist year cage range unknown frog field erase steak rebel guitar";

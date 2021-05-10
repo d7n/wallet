@@ -1,1 +1,1 @@
-var mnemonic = "toddler tide coast kiwi image sponsor bunker foam whip brush equip trap";
+var mnemonic = "trap around couch traffic cable refuse cup method design ghost hello galaxy";

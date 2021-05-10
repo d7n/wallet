@@ -1,1 +1,1 @@
-var mnemonic = "various cage spread audit awake ticket patrol volume already better budget slab";
+var mnemonic = "sound weasel toilet replace tail arctic help during speak immune trap black";

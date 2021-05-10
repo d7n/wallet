@@ -1,1 +1,1 @@
-var mnemonic = "despair fruit switch rebel vague hello sister coconut way vacant inch purpose";
+var mnemonic = "scare volcano tomato source brass arrange remind capable mango demand glad cart";

@@ -1,1 +1,1 @@
-var mnemonic = "awake hip scout smart air impact because august belt target gun hero";
+var mnemonic = "seminar pipe chuckle cube wrap plunge memory hub pull tank what jar";

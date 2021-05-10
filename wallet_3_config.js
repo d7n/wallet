@@ -1,1 +1,1 @@
-var mnemonic = "harbor crouch awful glass goat wife toast work south lens cycle tiny";
+var mnemonic = "tissue help stairs melt genre ethics patient enrich card gauge shadow casino";

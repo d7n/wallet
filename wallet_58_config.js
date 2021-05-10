@@ -1,1 +1,1 @@
-var mnemonic = "jar decrease dentist total please rely aunt spring wave round major mail";
+var mnemonic = "wink observe glove leopard tank assault group magic crazy potato swing prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire cram vanish text around chronic solid picture bachelor spread era photo";
+var mnemonic = "shrimp cheese pepper winner path twin used rebuild emerge alert hunt lunch";

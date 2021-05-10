@@ -1,1 +1,1 @@
-var mnemonic = "trick stereo odor ripple anxiety below venture credit spoon train memory clay";
+var mnemonic = "shrimp help dance dolphin coyote joy girl also window february jelly canyon";

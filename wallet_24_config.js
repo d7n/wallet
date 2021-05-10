@@ -1,1 +1,1 @@
-var mnemonic = "news page sunset crater museum index until enrich vocal alter old social";
+var mnemonic = "make exact fold nest large simple open badge twist notice fiscal dumb";

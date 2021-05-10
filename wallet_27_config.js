@@ -1,1 +1,1 @@
-var mnemonic = "employ barrel clerk super bone jelly taste fabric donkey hen play clarify";
+var mnemonic = "army gap escape crouch lounge equal maid stock valley across feature age";

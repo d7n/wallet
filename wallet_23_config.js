@@ -1,1 +1,1 @@
-var mnemonic = "pattern castle dad toilet kitten office food ski bamboo naive patient quality";
+var mnemonic = "cash hurt drift feature amused vendor cement month cabbage dizzy day win";

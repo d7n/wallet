@@ -1,1 +1,1 @@
-var mnemonic = "toe lobster present glimpse detail school cousin carry dinner over silk rare";
+var mnemonic = "uphold utility liquid keep purchase survey pencil post ill six tobacco lock";

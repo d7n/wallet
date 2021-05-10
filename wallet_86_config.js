@@ -1,1 +1,1 @@
-var mnemonic = "menu execute pudding harbor essence visit sister civil gate digital puzzle gate";
+var mnemonic = "pair output tomato napkin nerve harvest forget apology season glass sail voyage";

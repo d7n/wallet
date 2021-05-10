@@ -1,1 +1,1 @@
-var mnemonic = "slab marine lucky embrace twin mouse tuition drink sick hip hungry enact";
+var mnemonic = "olive impose impulse seven puzzle health saddle ride access guess cream coral";

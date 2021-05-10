@@ -1,1 +1,1 @@
-var mnemonic = "satoshi omit intact figure sad farm skill quantum hard divert measure marble";
+var mnemonic = "resist lens sunset lottery way dinner laptop plate electric lemon damage order";

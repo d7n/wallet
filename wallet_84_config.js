@@ -1,1 +1,1 @@
-var mnemonic = "junior pact elder maze garment wedding pen much write cry priority pigeon";
+var mnemonic = "lock flock need siren bright clean cloth undo deputy capital above royal";

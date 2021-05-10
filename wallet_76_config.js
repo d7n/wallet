@@ -1,1 +1,1 @@
-var mnemonic = "stumble inject best pen impose arena extra siren stuff company shell photo";
+var mnemonic = "pottery over pigeon mushroom resource hungry acoustic earn flight unfold mercy black";

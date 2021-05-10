@@ -1,1 +1,1 @@
-var mnemonic = "village piece shrimp piece gasp doll trust uncover general eagle aim borrow";
+var mnemonic = "actual vehicle flee say social brick damage mass fringe bread fun treat";

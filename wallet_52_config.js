@@ -1,1 +1,1 @@
-var mnemonic = "suspect appear regular festival chaos document mechanic slow velvet crime thought column";
+var mnemonic = "hawk artefact salt team desert vault initial mutual leader explain cancel charge";

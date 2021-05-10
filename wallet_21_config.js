@@ -1,1 +1,1 @@
-var mnemonic = "razor dentist play flat add decorate rely tonight fence pledge brisk talent";
+var mnemonic = "attitude diesel chunk liquid story course that race vote debris hold around";

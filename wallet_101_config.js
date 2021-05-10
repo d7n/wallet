@@ -1,1 +1,1 @@
-var mnemonic = "fossil believe panic science ceiling say diamond tag fault tuna super brand";
+var mnemonic = "choice service toilet today idea actor turtle jelly rebuild scene shell tortoise";

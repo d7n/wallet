@@ -1,1 +1,1 @@
-var mnemonic = "solution mammal script rent duty census normal member fade length behave garbage";
+var mnemonic = "expand cube magnet worry inform hero layer pudding vehicle must become city";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage truth enforce battle rule pizza walnut immune replace fatigue lottery throw";
+var mnemonic = "infant direct excess reward monkey neutral summer rhythm industry stay liar wage";

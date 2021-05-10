@@ -1,1 +1,1 @@
-var mnemonic = "hobby river rose tribe talent basic crumble anchor very engine summer saddle";
+var mnemonic = "dune recall idle family moral calm fat banana enrich clutch poem dog";

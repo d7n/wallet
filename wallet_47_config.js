@@ -1,1 +1,1 @@
-var mnemonic = "stay either shiver ski diet fetch fee afford forget shuffle fatigue clog";
+var mnemonic = "kit warfare joy hungry case drip stable pact frame void palm merry";

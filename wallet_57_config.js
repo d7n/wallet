@@ -1,1 +1,1 @@
-var mnemonic = "crucial pond snap domain ridge hurt panther harsh floor poverty witness shoe";
+var mnemonic = "relief runway tortoise glide skill gate ancient cup switch cactus inside yellow";

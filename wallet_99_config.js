@@ -1,1 +1,1 @@
-var mnemonic = "beyond join bounce ranch color charge two quarter alarm lamp alpha useful";
+var mnemonic = "tube congress letter quantum cousin tobacco congress trial blanket cruise manual enlist";

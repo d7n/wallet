@@ -1,1 +1,1 @@
-var mnemonic = "van stereo satoshi history seminar aisle vault cargo limit ivory zoo accuse";
+var mnemonic = "matrix deer prepare orphan close debate first switch nuclear tray prefer game";

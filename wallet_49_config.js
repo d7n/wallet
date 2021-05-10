@@ -1,1 +1,1 @@
-var mnemonic = "average peanut damage fiscal enter melt service mutual second bench gain cream";
+var mnemonic = "pear fiscal session gather april unfair actor napkin funny learn charge unknown";

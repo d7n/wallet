@@ -1,1 +1,1 @@
-var mnemonic = "boat fabric salt friend anger member piece distance admit frown between island";
+var mnemonic = "dismiss modify peasant lounge rather shy patient grass report immense filter scene";

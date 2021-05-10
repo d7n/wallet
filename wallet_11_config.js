@@ -1,1 +1,1 @@
-var mnemonic = "debris grief enable battle dilemma kick response laugh disagree deliver effort book";
+var mnemonic = "electric size version science coconut fury dust current adjust spy charge tongue";

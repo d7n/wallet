@@ -1,1 +1,1 @@
-var mnemonic = "focus session attract chuckle scan lunar able tunnel green bicycle cabin wait";
+var mnemonic = "harsh cherry auto host improve pear damage label quit photo hurt episode";

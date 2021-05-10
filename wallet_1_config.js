@@ -1,1 +1,1 @@
-var mnemonic = "then elephant recycle audit thought bomb betray uniform afford inherit weekend cannon";
+var mnemonic = "edit unfold struggle sword dream chapter junior jelly chief satisfy method tourist";

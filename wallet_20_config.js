@@ -1,1 +1,1 @@
-var mnemonic = "system flee dolphin smoke level join else best hour depth cheese section";
+var mnemonic = "dwarf ghost maximum under ghost still wink ski describe breeze success return";

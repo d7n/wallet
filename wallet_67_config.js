@@ -1,1 +1,1 @@
-var mnemonic = "boy garbage oval apart wild boy vital glide check barrel fitness poet";
+var mnemonic = "salad picture wild upgrade faith ghost wisdom fiber link scissors baby mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "castle shield extra elbow swap smoke together damage insane bus govern elegant";
+var mnemonic = "alpha east speed always clock insect buyer title run sand chat tiger";

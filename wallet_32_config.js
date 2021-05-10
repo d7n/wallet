@@ -1,1 +1,1 @@
-var mnemonic = "enjoy transfer morning celery warm drum panda employ evolve upon renew bamboo";
+var mnemonic = "wish toy roof toast federal hour zebra school relief elegant canvas worry";

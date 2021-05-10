@@ -1,1 +1,1 @@
-var mnemonic = "club coconut wet limb dumb search apart lazy spoil skull pear hockey";
+var mnemonic = "that venue velvet estate accident powder chunk destroy arrow myth carbon common";

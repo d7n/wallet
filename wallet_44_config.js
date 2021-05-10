@@ -1,1 +1,1 @@
-var mnemonic = "secret section catalog level basic goat acoustic devote visual finger onion marine";
+var mnemonic = "promote travel cry neutral beauty genuine cube scatter harvest below ritual snap";

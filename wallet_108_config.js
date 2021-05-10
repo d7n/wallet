@@ -1,1 +1,1 @@
-var mnemonic = "exotic scrub camp work typical robot shove muffin artefact slight soft top";
+var mnemonic = "process desert antenna radar media sudden indicate game away blur injury dismiss";

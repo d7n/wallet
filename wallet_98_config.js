@@ -1,1 +1,1 @@
-var mnemonic = "match film cherry sister soon armor female moral leisure lock turkey rose";
+var mnemonic = "analyst mistake series expose buzz balcony coach hungry next better model salad";

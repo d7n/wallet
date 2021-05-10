@@ -1,1 +1,1 @@
-var mnemonic = "practice laptop punch pen day style device review dragon luggage success melt";
+var mnemonic = "tooth predict feature decline define cancel file shop come hurt salad artefact";

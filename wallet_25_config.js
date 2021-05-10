@@ -1,1 +1,1 @@
-var mnemonic = "loyal hobby course choose setup unaware cliff vote load reason uniform long";
+var mnemonic = "awful aim carry oval shy destroy drastic fly grace debris vanish stage";

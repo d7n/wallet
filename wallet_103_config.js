@@ -1,1 +1,1 @@
-var mnemonic = "gentle adult offer broken crunch bulb drift boy mango option today cruise";
+var mnemonic = "ripple trip fade two wealth brush lens describe shallow you dizzy nut";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry endless twice track phone weasel ticket process ill mail load mimic";
+var mnemonic = "struggle suggest youth deal push equal script apart season depend energy puzzle";

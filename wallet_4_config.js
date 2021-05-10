@@ -1,1 +1,1 @@
-var mnemonic = "ski reflect initial dial lecture fault venue promote antique warm stick toy";
+var mnemonic = "distance side attack spray ski wagon idea trade mind mesh faith vicious";

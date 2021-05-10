@@ -1,1 +1,1 @@
-var mnemonic = "give fever spend board fabric wide trigger film tattoo raw parrot weasel";
+var mnemonic = "shell huge cycle load lift voice simple input thing base muffin typical";

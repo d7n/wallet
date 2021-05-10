@@ -1,1 +1,1 @@
-var mnemonic = "female bonus enrich decorate mystery anxiety senior project veteran garage movie exhaust";
+var mnemonic = "become diamond snap cook language media expose lawsuit gospel dismiss theory luggage";

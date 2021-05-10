@@ -1,1 +1,1 @@
-var mnemonic = "alert rebuild swim mosquito amazing oppose student wage cactus decade keen tone";
+var mnemonic = "defense mosquito settle swarm clay cost margin candy pitch pizza short slab";

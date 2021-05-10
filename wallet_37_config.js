@@ -1,1 +1,1 @@
-var mnemonic = "enforce hero enable erupt mansion hill gauge option helmet dress skin human";
+var mnemonic = "lunar aim holiday thumb deal craft consider client toe provide embrace boat";
