@@ -1,1 +1,1 @@
-var mnemonic = "sound secret income net gaze tattoo powder fancy square session weather claw";
+var mnemonic = "hip dawn legend bus drift stool lazy bullet such country page vague";

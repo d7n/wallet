@@ -1,1 +1,1 @@
-var mnemonic = "doll split cash three obscure eager hope city that capable enrich use";
+var mnemonic = "average fatal blossom once ten away abstract orchard fade rather submit action";

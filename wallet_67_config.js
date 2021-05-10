@@ -1,1 +1,1 @@
-var mnemonic = "forum autumn strike kind video swift festival weasel poverty adult story pistol";
+var mnemonic = "gesture useless web inflict release cricket frequent stereo furnace material claw genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "alone dress ostrich oyster discover fortune gown gift flavor faculty rural satoshi";
+var mnemonic = "metal pact prison embody delay viable onion token pepper sun unveil economy";

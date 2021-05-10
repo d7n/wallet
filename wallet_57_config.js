@@ -1,1 +1,1 @@
-var mnemonic = "trash poet basic siren laundry price response shift lift dizzy around snap";
+var mnemonic = "expect fiction portion egg erosion someone business unfold warfare discover ladder heart";

@@ -1,1 +1,1 @@
-var mnemonic = "enable stem core volcano face trick violin alarm drive away kingdom wave";
+var mnemonic = "retire domain bench yellow emotion risk then must blouse table sun razor";

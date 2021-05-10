@@ -1,1 +1,1 @@
-var mnemonic = "craft finish gap tunnel dose argue sad auction gate live palace obscure";
+var mnemonic = "profit drastic twelve clerk inflict snack sad debate minimum novel satoshi pilot";

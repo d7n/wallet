@@ -1,1 +1,1 @@
-var mnemonic = "spider learn torch turn plate subway waste grass link try rabbit elbow";
+var mnemonic = "input flip trick draft donor valley detail cram helmet spoil nation shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "agent begin pattern share argue orbit perfect raven chef march note brand";
+var mnemonic = "believe ribbon ghost pride capital calm net captain nuclear imitate typical nurse";

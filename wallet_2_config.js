@@ -1,1 +1,1 @@
-var mnemonic = "paddle unlock anger shiver afraid tool run brisk tooth provide corn crumble";
+var mnemonic = "divorce wire firm hill park tornado dutch tissue gloom sun odor depend";

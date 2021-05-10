@@ -1,1 +1,1 @@
-var mnemonic = "alien knock swim enemy rack add dial symptom hidden wild leisure gather";
+var mnemonic = "despair border pass uncover receive canyon title roof skull other wet rebuild";

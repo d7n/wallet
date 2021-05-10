@@ -1,1 +1,1 @@
-var mnemonic = "finish people series flush frequent senior immense sign orchard exhaust guilt excess";
+var mnemonic = "glory pencil tube stadium average peanut device accuse warm search file gauge";

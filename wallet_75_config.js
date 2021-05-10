@@ -1,1 +1,1 @@
-var mnemonic = "surge tag choose flock jazz since skin any sister tackle bulk firm";
+var mnemonic = "bounce develop trophy birth equip ostrich eyebrow speed lonely diagram bike chuckle";

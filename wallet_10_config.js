@@ -1,1 +1,1 @@
-var mnemonic = "host agree small nothing employ sunset window flip label raw omit simple";
+var mnemonic = "spare share few foam spoil permit nurse ceiling mushroom hold nation fever";

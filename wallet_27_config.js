@@ -1,1 +1,1 @@
-var mnemonic = "vacuum reward about absorb found under kingdom police base sound rebel cement";
+var mnemonic = "bomb copy island wink mandate toddler bargain street symptom correct antique weekend";

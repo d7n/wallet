@@ -1,1 +1,1 @@
-var mnemonic = "size cruise text earth tumble live cloth sign bicycle athlete chair wrap";
+var mnemonic = "knock person audit sausage country bitter devote loyal theme tragic diary coil";

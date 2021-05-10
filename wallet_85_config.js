@@ -1,1 +1,1 @@
-var mnemonic = "dream mixture magnet artwork only weather man intact garlic garden prepare train";
+var mnemonic = "wet today win genuine neutral divide clerk erase dash differ start diesel";

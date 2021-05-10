@@ -1,1 +1,1 @@
-var mnemonic = "hill system spawn actor moment account away into satisfy federal student quote";
+var mnemonic = "buddy order cabbage hip cabin grocery want jeans lake blossom gospel cushion";

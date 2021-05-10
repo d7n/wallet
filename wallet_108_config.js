@@ -1,1 +1,1 @@
-var mnemonic = "awkward place slow put panther sting main usual dwarf sure help blossom";
+var mnemonic = "plate bottom walk hand spoon flavor try primary slam tube tank horror";

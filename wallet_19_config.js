@@ -1,1 +1,1 @@
-var mnemonic = "clinic what build begin unique hurry slush deliver cabbage height stereo detail";
+var mnemonic = "core used exchange together damp alter pudding vacuum tired impact urban pull";

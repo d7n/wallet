@@ -1,1 +1,1 @@
-var mnemonic = "cause only train tilt mosquito machine vital art between kick boil doll";
+var mnemonic = "devote junior town flag depend tip hole exist route pill put rent";

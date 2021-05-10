@@ -1,1 +1,1 @@
-var mnemonic = "skirt fragile citizen property gate shoot car situate voyage web anger symptom";
+var mnemonic = "trumpet protect alone husband guard tape biology this elbow crew diet chaos";

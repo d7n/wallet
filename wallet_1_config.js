@@ -1,1 +1,1 @@
-var mnemonic = "army lawn bamboo gorilla upset appear sugar predict same until dust emotion";
+var mnemonic = "dress despair inmate peanut salute kitchen wall dial thank comic forest piece";

@@ -1,1 +1,1 @@
-var mnemonic = "require able often envelope door motor pitch comfort true pulse prefer carry";
+var mnemonic = "finger maximum caution improve power green leg essence can profit draw employ";

@@ -1,1 +1,1 @@
-var mnemonic = "bean toast gaze buzz talent piano letter sting bean sun jump verify";
+var mnemonic = "rain diary success toast lift sketch dance stomach basket stage sock blade";

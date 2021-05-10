@@ -1,1 +1,1 @@
-var mnemonic = "turn draft pen evidence number canvas cube stadium remove virtual cherry barely";
+var mnemonic = "dirt rude exact exercise attack clever dune drink simple cable exhibit ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "sure shallow version thing survey lonely frog hire jacket man document rocket";
+var mnemonic = "cute tumble stamp long few genuine green ski easy bottom twenty oak";

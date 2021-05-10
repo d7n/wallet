@@ -1,1 +1,1 @@
-var mnemonic = "season tilt hint tip canoe chief muscle shove absorb snake guide citizen";
+var mnemonic = "leader toilet better toilet shock glimpse common miss runway category crater robot";

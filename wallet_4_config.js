@@ -1,1 +1,1 @@
-var mnemonic = "olive gauge jelly remove balcony winter mansion ritual surge dolphin over giggle";
+var mnemonic = "mosquito runway provide meat kiss mean dream bundle improve spring impose decline";

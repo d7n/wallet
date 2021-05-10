@@ -1,1 +1,1 @@
-var mnemonic = "useless palm once lumber sample leader youth ribbon degree dog great patrol";
+var mnemonic = "stable spy oppose stable pipe sphere thought retire enforce glide use chair";

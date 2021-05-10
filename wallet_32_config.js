@@ -1,1 +1,1 @@
-var mnemonic = "save accuse person finish crawl digital thunder brand someone end adapt human";
+var mnemonic = "section crowd pole habit brick poet erupt small home unveil hamster crucial";

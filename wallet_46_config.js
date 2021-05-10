@@ -1,1 +1,1 @@
-var mnemonic = "manage fan heavy holiday middle trust lunar utility clip fold benefit chest";
+var mnemonic = "disagree flower surface century wheel document diamond situate list link camera cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "below into absorb yard about deal unique between dance dune endorse ship";
+var mnemonic = "path lift pride lecture diary sick crouch sort decrease shiver capable thumb";

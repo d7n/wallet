@@ -1,1 +1,1 @@
-var mnemonic = "forum shrug humble weather announce arena away account round lounge police spin";
+var mnemonic = "sister solution lamp topple nephew lucky valley primary rabbit crane acoustic club";

@@ -1,1 +1,1 @@
-var mnemonic = "place pond wheel smile snack exclude awesome army oyster train recipe exchange";
+var mnemonic = "rule combine group define start that reform solution harbor donkey joke album";

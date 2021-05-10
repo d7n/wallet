@@ -1,1 +1,1 @@
-var mnemonic = "protect melt chuckle tongue category repair man abuse false concert sun stem";
+var mnemonic = "bottom one seek recipe hero tilt inflict model father ostrich blood twist";

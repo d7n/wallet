@@ -1,1 +1,1 @@
-var mnemonic = "answer sing evidence satoshi small require hand open maple loan ring ripple";
+var mnemonic = "jeans claim night skill wish salmon confirm puppy wrist capable roof leaf";

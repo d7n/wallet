@@ -1,1 +1,1 @@
-var mnemonic = "defense kitten track nature reunion bamboo general prepare fan improve liberty antenna";
+var mnemonic = "vanish control prize frequent cement behind tiny cute gas pencil ability push";

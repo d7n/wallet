@@ -1,1 +1,1 @@
-var mnemonic = "enable ketchup harsh giraffe public joy strong claim van arch worth ripple";
+var mnemonic = "arena slush sniff regret return mask bid heavy end curious skate remain";

@@ -1,1 +1,1 @@
-var mnemonic = "then grant order diesel ocean saddle seven attract boil govern bubble measure";
+var mnemonic = "climb square print hat else process easy liar juice waste second return";

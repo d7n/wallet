@@ -1,1 +1,1 @@
-var mnemonic = "spy ahead wet point novel culture little clip soap easy travel festival";
+var mnemonic = "dragon poverty supreme spawn mosquito warm enable review sibling market image fashion";

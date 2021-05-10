@@ -1,1 +1,1 @@
-var mnemonic = "tissue limit ecology fruit palace doctor expect relax quality useless business soldier";
+var mnemonic = "remember unaware rural stomach quantum february agree twenty garbage layer reflect first";

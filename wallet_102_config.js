@@ -1,1 +1,1 @@
-var mnemonic = "narrow bubble income leisure romance damage castle around noble obtain essay warm";
+var mnemonic = "crush absent boat area now coconut coin derive unlock spy spray empty";

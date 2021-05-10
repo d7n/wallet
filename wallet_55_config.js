@@ -1,1 +1,1 @@
-var mnemonic = "off salon vicious balance inhale fiscal rack draft what tortoise enter exotic";
+var mnemonic = "boil just collect kind else wheat modify void cube supreme swing good";

@@ -1,1 +1,1 @@
-var mnemonic = "affair muscle wrist planet eagle rural dumb harvest drive render merry exhibit";
+var mnemonic = "tornado broccoli weasel dragon bridge pole muscle dolphin police first time reopen";

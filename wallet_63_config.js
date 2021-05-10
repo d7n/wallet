@@ -1,1 +1,1 @@
-var mnemonic = "taste picnic inquiry census acoustic glue resemble grab suffer height cherry network";
+var mnemonic = "replace save report satoshi quote race control upset cereal debris lonely immense";

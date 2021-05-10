@@ -1,1 +1,1 @@
-var mnemonic = "measure test guitar dial since matrix derive reflect drop avocado tool comfort";
+var mnemonic = "elevator want uncover near pizza destroy rabbit meadow group erupt concert code";

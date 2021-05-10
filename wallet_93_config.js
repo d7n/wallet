@@ -1,1 +1,1 @@
-var mnemonic = "dream choose hundred feed deliver power harbor soldier almost duty reopen tank";
+var mnemonic = "pistol crouch junk sleep fun shift dog pear enough legal wish cruise";

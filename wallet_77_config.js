@@ -1,1 +1,1 @@
-var mnemonic = "acoustic amused beyond glow spoon question desk excess exist grow panel lift";
+var mnemonic = "roof sweet time robot west laundry budget mix wet effort thank long";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious imitate stable session track gaze zone squeeze warfare evidence hub normal";
+var mnemonic = "merry adapt symptom claim seek captain try before track pulse sweet peace";

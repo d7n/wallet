@@ -1,1 +1,1 @@
-var mnemonic = "bird current deliver dinner crazy tape permit creek diet program grid worth";
+var mnemonic = "thing harbor supply hotel frog pet cabbage immune box scatter adapt pilot";

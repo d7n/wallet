@@ -1,1 +1,1 @@
-var mnemonic = "fresh you stairs lamp discover pretty odor say dream depart clock dinner";
+var mnemonic = "crack hurt whale blue virtual credit fun dream hand strategy course crazy";

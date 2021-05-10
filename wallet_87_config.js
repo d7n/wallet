@@ -1,1 +1,1 @@
-var mnemonic = "adapt liquid fire symbol reveal cram call company nose wage young blame";
+var mnemonic = "verb ozone pioneer pencil nest become process burger apart fossil swamp property";

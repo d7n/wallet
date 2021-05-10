@@ -1,1 +1,1 @@
-var mnemonic = "nut orchard razor input front zoo hidden horse lemon mystery chest dune";
+var mnemonic = "sibling category long siren chat legend advance enemy minor member long dose";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon blanket connect knock boss rely gossip cushion timber alley estate hazard";
+var mnemonic = "razor ridge cabbage enable salute claim quick illness chuckle couch foster pig";

@@ -1,1 +1,1 @@
-var mnemonic = "thing border churn recipe flat curtain disease popular churn limb goat fence";
+var mnemonic = "drama immense exercise tiny olive skate glass talent broom neutral private guide";

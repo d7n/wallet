@@ -1,1 +1,1 @@
-var mnemonic = "kingdom talent saddle stairs point shrug glimpse network snap blossom trash marble";
+var mnemonic = "frozen raven position vote badge ask random language grain engage hip cotton";

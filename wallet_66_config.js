@@ -1,1 +1,1 @@
-var mnemonic = "leaf sudden home lawn avoid resist recall truth hint pull essence total";
+var mnemonic = "student abandon since shrug flame attitude wagon bone shallow furnace also mandate";

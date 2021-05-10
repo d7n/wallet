@@ -1,1 +1,1 @@
-var mnemonic = "know only illegal vocal myth fragile rough south bounce program harsh short";
+var mnemonic = "mystery wrap pair picture wife clown impact endless celery glimpse scene abandon";

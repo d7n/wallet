@@ -1,1 +1,1 @@
-var mnemonic = "deal stone middle off potato matrix slight immense spin total service toy";
+var mnemonic = "dog device recipe heart swear follow glue slab click arch subway shuffle";

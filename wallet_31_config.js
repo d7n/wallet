@@ -1,1 +1,1 @@
-var mnemonic = "taste pulp vocal worth seek blind rifle expect salon anxiety inflict bleak";
+var mnemonic = "calm glide police cruel vote obtain render hip focus reunion stumble hundred";

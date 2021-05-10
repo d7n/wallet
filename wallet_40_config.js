@@ -1,1 +1,1 @@
-var mnemonic = "now more repair random welcome oblige purchase total accident corn collect clog";
+var mnemonic = "history ready lamp truly fossil timber elegant click twist make immense kit";

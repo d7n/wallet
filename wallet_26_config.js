@@ -1,1 +1,1 @@
-var mnemonic = "taste despair pony bottom lecture stay gentle choose phrase interest sample waste";
+var mnemonic = "glide laugh squirrel skirt swing bunker vessel always skull exist minor birth";

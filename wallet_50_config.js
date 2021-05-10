@@ -1,1 +1,1 @@
-var mnemonic = "alert stage legal foster outside electric shy cigar soul scene twenty baby";
+var mnemonic = "destroy old stereo skate trick pumpkin laundry need punch vessel provide quote";

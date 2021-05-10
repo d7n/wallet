@@ -1,1 +1,1 @@
-var mnemonic = "poverty dice push blame jump together tragic vague joke defense draw nerve";
+var mnemonic = "dizzy humble vapor desk illegal vanish prepare shoulder sample grab board distance";

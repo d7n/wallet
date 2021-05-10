@@ -1,1 +1,1 @@
-var mnemonic = "keen lab vacuum flat service fancy imitate inmate want travel vague tattoo";
+var mnemonic = "they fine deposit pool tank during early topple service leg mule flower";

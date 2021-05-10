@@ -1,1 +1,1 @@
-var mnemonic = "increase spike decline remember crunch park museum roast leopard ability belt ridge";
+var mnemonic = "hint round reopen utility route front world upgrade harvest drift large release";

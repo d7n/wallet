@@ -1,1 +1,1 @@
-var mnemonic = "bench frown frog dignity exist squeeze resist insect blur warm muffin achieve";
+var mnemonic = "two have vacuum reward drill stamp cart black rally label flush media";

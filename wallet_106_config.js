@@ -1,1 +1,1 @@
-var mnemonic = "frog define valley about media clerk exile pyramid boss fog armed crush";
+var mnemonic = "share fish era kiss decrease oxygen conduct weekend leg fork proof loyal";

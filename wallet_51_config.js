@@ -1,1 +1,1 @@
-var mnemonic = "betray arrest agree more fortune drink truck select entry talk hill evidence";
+var mnemonic = "animal place sibling essence advance magic file topic venue oven hammer phrase";

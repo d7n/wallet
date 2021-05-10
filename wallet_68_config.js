@@ -1,1 +1,1 @@
-var mnemonic = "crater impose void dignity pledge vocal race merry ill cactus cloud urge";
+var mnemonic = "umbrella topple bless near kiwi please collect puppy urge cabin genre cotton";

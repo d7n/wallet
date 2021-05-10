@@ -1,1 +1,1 @@
-var mnemonic = "electric bounce grit wedding silent prison receive foot raven gap circle scheme";
+var mnemonic = "resemble become owner legend cluster wrap recipe visa tortoise message empower pill";

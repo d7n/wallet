@@ -1,1 +1,1 @@
-var mnemonic = "delay drastic garbage city bus violin frog image slender client glove security";
+var mnemonic = "credit nose real crew industry food shock session home bag suggest echo";

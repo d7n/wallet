@@ -1,1 +1,1 @@
-var mnemonic = "siege matter motor embark frequent spy long crater hill tool bean pink";
+var mnemonic = "bid pool device wide fire village between spring cool tooth planet curious";

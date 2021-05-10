@@ -1,1 +1,1 @@
-var mnemonic = "please neck advance range script exercise verify female unique amateur ordinary exchange";
+var mnemonic = "february valid combine roof convince wine appear certain couch second fantasy tortoise";

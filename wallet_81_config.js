@@ -1,1 +1,1 @@
-var mnemonic = "then creek retreat lottery knee flee outdoor couple debris barrel trouble over";
+var mnemonic = "sunset gain diet hair bulb treat local eight guitar foster need start";

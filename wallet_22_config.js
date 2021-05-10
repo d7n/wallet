@@ -1,1 +1,1 @@
-var mnemonic = "monkey toy spider crop venue spice oxygen old base radar zoo gaze";
+var mnemonic = "suggest era fabric save knife obtain ensure sell range govern enough salute";

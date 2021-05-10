@@ -1,1 +1,1 @@
-var mnemonic = "core party symbol agent bomb large language animal advance hungry unlock pond";
+var mnemonic = "sure edge this shadow spend danger rude spoil impulse next head clip";

@@ -1,1 +1,1 @@
-var mnemonic = "soon attend afford area trip syrup void rigid furnace amused guilt lamp";
+var mnemonic = "maple use roast regular tourist wealth bulk outside bulb stick sort code";

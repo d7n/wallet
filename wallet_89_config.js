@@ -1,1 +1,1 @@
-var mnemonic = "hero write wool surge brown tackle topple citizen elevator spy since climb";
+var mnemonic = "explain damp badge verify talk fossil mountain main truth entry amused toast";

@@ -1,1 +1,1 @@
-var mnemonic = "crash drive excuse envelope cruel winner south best balcony sleep tongue mix";
+var mnemonic = "scheme win say salad try essay desert journey move salon cheese result";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans wash beach october pipe second tobacco good fetch isolate ready erosion";
+var mnemonic = "focus close spend wine album suspect share lawsuit know pattern fringe juice";

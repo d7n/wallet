@@ -1,1 +1,1 @@
-var mnemonic = "sure eagle metal diesel industry elegant scatter mesh fix cancel share silver";
+var mnemonic = "dress runway device able panel organ catch renew hope zebra garment together";

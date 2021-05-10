@@ -1,1 +1,1 @@
-var mnemonic = "wasp pride subject fiscal average school include consider shiver cotton lounge radar";
+var mnemonic = "toast obey share stand host whisper survey deny song walk exchange summer";

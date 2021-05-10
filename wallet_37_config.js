@@ -1,1 +1,1 @@
-var mnemonic = "poem joy foil differ fever view valid foot bacon glance ready timber";
+var mnemonic = "only asset actual urge desk thunder planet reduce effort load gauge ketchup";

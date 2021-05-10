@@ -1,1 +1,1 @@
-var mnemonic = "head trust blanket sleep wagon drastic yard buyer brief tired portion afford";
+var mnemonic = "habit math rough spider clutch acquire meat toss chapter screen pelican world";

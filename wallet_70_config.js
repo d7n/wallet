@@ -1,1 +1,1 @@
-var mnemonic = "aspect crack thumb access glove orange sure author evolve correct mirror deliver";
+var mnemonic = "review bleak ill clerk work nuclear turkey atom rent jungle regular unknown";

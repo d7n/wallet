@@ -1,1 +1,1 @@
-var mnemonic = "derive bike sell tunnel movie example vote person puzzle assume alert arena";
+var mnemonic = "family broccoli day slogan sentence attack smart gallery genius demise vast nature";

@@ -1,1 +1,1 @@
-var mnemonic = "net retreat loan calm other fever kingdom field crucial deal prison mutual";
+var mnemonic = "area gap shy divide organ boy claw elegant section dismiss end used";

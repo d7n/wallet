@@ -1,1 +1,1 @@
-var mnemonic = "social machine picture empower long steel process build apology collect scan target";
+var mnemonic = "oyster crew this soap shallow write moon hammer wish desert army hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "visit inflict gift husband chase afford forward chef voyage tired flag drive";
+var mnemonic = "unhappy scale elephant best knee praise conduct brief brain sail shock giraffe";

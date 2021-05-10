@@ -1,1 +1,1 @@
-var mnemonic = "evidence asthma faith inform hurt daughter disagree little gasp shield humble easily";
+var mnemonic = "lonely exact enable finger industry cross antique mother spray diary train dry";
