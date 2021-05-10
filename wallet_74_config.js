@@ -1,1 +1,1 @@
-var mnemonic = "ready screen fox solar burst sting guitar radar fever river strategy road";
+var mnemonic = "machine robot shift shrug canyon spin loud despair smart mad sock arrest";

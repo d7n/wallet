@@ -1,1 +1,1 @@
-var mnemonic = "then day diet jar gate trip code circle achieve follow chimney awful";
+var mnemonic = "demise month angle vague copy chapter stem buyer culture left lawsuit provide";

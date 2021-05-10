@@ -1,1 +1,1 @@
-var mnemonic = "stereo hazard glass vintage local hammer despair lizard useless universe head favorite";
+var mnemonic = "foot purchase rule soccer pear lecture install ranch crouch pill sheriff subway";

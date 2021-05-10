@@ -1,1 +1,1 @@
-var mnemonic = "amateur level thumb sadness absorb one appear idea key gain exhaust immense";
+var mnemonic = "turn believe perfect supply truth duty together cancel jelly pony abandon science";

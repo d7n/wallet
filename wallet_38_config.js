@@ -1,1 +1,1 @@
-var mnemonic = "glory mimic shock state injury concert game sister point fault lecture weasel";
+var mnemonic = "toy under evolve gloom garden thunder error disorder virus gate ride father";

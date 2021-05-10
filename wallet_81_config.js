@@ -1,1 +1,1 @@
-var mnemonic = "pause fiscal kiwi undo tube alter cable author garlic prepare margin worry";
+var mnemonic = "eternal advance busy route curve empty ceiling magic fever grow tennis history";

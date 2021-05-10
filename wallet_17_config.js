@@ -1,1 +1,1 @@
-var mnemonic = "size wreck embody record item napkin orphan six nuclear zone sun vivid";
+var mnemonic = "still exile permit island process master opinion skill theme mother walnut core";

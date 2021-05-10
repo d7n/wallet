@@ -1,1 +1,1 @@
-var mnemonic = "pilot next ceiling behave fence scare size sting spin verb curtain tag";
+var mnemonic = "stuff usual derive favorite seat move pair demise divert drink potato vague";

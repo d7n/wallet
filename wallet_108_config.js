@@ -1,1 +1,1 @@
-var mnemonic = "jeans husband hurdle jelly argue language pyramid quiz critic skull egg release";
+var mnemonic = "uncle despair sing degree aim lift book nest appear mushroom slice whale";

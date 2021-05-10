@@ -1,1 +1,1 @@
-var mnemonic = "stand smart mammal fence vast output analyst risk couple drift eager renew";
+var mnemonic = "dove amused talk habit render rural seven unlock vivid save tobacco sniff";

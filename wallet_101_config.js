@@ -1,1 +1,1 @@
-var mnemonic = "distance depth enforce average dune luxury good object creek board convince forward";
+var mnemonic = "picnic birth broom repair regular fossil quick captain able prison pause entire";

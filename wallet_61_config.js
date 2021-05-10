@@ -1,1 +1,1 @@
-var mnemonic = "ivory strike bitter guard border predict border cushion vote rebuild raccoon glimpse";
+var mnemonic = "deal human cause enact problem promote front stairs purpose laugh silent ceiling";

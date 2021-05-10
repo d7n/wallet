@@ -1,1 +1,1 @@
-var mnemonic = "critic crisp crane skin noise neck type eternal humor travel dinner gaze";
+var mnemonic = "mix lamp erode make solution model found have nasty hold deny swear";

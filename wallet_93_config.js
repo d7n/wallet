@@ -1,1 +1,1 @@
-var mnemonic = "decorate away truly boost unhappy oil panda subject collect iron vote proof";
+var mnemonic = "skill under hollow screen match eye valley test ritual torch ancient snack";

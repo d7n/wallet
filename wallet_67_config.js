@@ -1,1 +1,1 @@
-var mnemonic = "ladder sport march void midnight correct urban party sock smile pink pepper";
+var mnemonic = "wheel tilt pet appear reduce dial winner excite transfer cry narrow sting";

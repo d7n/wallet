@@ -1,1 +1,1 @@
-var mnemonic = "eternal void sure blossom reduce level ivory brother invest assume ball family";
+var mnemonic = "notice drum fog blood escape receive mirror crane then sudden define emerge";

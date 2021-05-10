@@ -1,1 +1,1 @@
-var mnemonic = "tired wear lesson garden donor diary kiss obtain inhale unfold crucial mom";
+var mnemonic = "crop gadget settle chicken valve dwarf already observe borrow squeeze hood scene";

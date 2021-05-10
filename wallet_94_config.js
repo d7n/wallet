@@ -1,1 +1,1 @@
-var mnemonic = "danger judge comfort hybrid parent problem raw soccer unique monkey sure fruit";
+var mnemonic = "suit runway angle slender like drastic rare dinner tattoo planet poem write";

@@ -1,1 +1,1 @@
-var mnemonic = "together finger swift desk oven enjoy royal lab retreat mother hint vanish";
+var mnemonic = "pizza shift nephew comic ill liar either spike possible gaze sunset below";

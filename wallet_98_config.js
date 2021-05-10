@@ -1,1 +1,1 @@
-var mnemonic = "electric elephant moment people vote figure hunt grape east proud pass track";
+var mnemonic = "vast day dolphin pioneer flock square badge sheriff retreat kingdom chapter joy";

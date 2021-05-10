@@ -1,1 +1,1 @@
-var mnemonic = "anchor voice transfer science smoke host merit civil odor invest merge season";
+var mnemonic = "main impulse sunset chicken argue yellow spin cliff debris brush off loan";

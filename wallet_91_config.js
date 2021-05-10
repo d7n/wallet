@@ -1,1 +1,1 @@
-var mnemonic = "diesel pupil pottery seek tunnel prison pulse garbage survey food fresh truth";
+var mnemonic = "valid must police sunny version fade topple excuse jeans deal reject acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "useful vacant now reflect zebra trust crucial arrow egg young energy hunt";
+var mnemonic = "orbit coast when still thought ramp what polar puppy mansion vessel picnic";

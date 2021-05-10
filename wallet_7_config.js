@@ -1,1 +1,1 @@
-var mnemonic = "glance belt orbit six feed when assist twin display dish room shock";
+var mnemonic = "depth balance uncle this access leisure angle topic grain screen goddess smart";

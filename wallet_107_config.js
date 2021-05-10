@@ -1,1 +1,1 @@
-var mnemonic = "volcano disease drive manual romance federal occur frog orient among champion under";
+var mnemonic = "debate joy sphere core guitar orbit exclude border useful achieve machine alert";

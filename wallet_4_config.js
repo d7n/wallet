@@ -1,1 +1,1 @@
-var mnemonic = "cost flavor possible toss promote mystery ride million eight gold account hurdle";
+var mnemonic = "bread design foil item black token essence price boss seven crawl choice";

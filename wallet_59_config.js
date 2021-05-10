@@ -1,1 +1,1 @@
-var mnemonic = "lens finger soup section nominee casual canyon whip critic survey undo august";
+var mnemonic = "invite radar magnet raise beauty mystery recipe enough blade silly nut tide";

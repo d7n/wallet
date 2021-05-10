@@ -1,1 +1,1 @@
-var mnemonic = "alert minimum label inspire lawn hip battle fossil glimpse patient bike minor";
+var mnemonic = "gauge rookie kite age inflict slam gather gym bean swim unique van";

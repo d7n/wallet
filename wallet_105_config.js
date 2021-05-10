@@ -1,1 +1,1 @@
-var mnemonic = "much confirm horn thank damage lazy ugly seek cotton half obtain rifle";
+var mnemonic = "govern drift rule ten render good creek neither sort kiss athlete enact";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward surge sting wrong squirrel quit fault gym donkey cotton exercise monkey";
+var mnemonic = "luggage angry copy grape cart kitten analyst laugh lounge inject trouble promote";

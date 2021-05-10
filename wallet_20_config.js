@@ -1,1 +1,1 @@
-var mnemonic = "illness cluster access bronze pluck limb laundry rice sing roof syrup pattern";
+var mnemonic = "march then uncover cat shift quarter slender hub alter number abuse wine";

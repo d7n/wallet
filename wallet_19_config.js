@@ -1,1 +1,1 @@
-var mnemonic = "frost twice clarify sentence social organ pelican raw ginger uniform admit push";
+var mnemonic = "deer sketch expose powder staff develop hold quick topic region cattle patrol";

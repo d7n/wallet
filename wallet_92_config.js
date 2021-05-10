@@ -1,1 +1,1 @@
-var mnemonic = "screen patient assist moon rose robot tenant develop century sweet expect wool";
+var mnemonic = "army hedgehog become endless stock opera option pizza endless rubber salad liberty";

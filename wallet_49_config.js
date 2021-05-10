@@ -1,1 +1,1 @@
-var mnemonic = "draft vital actual total slogan bachelor tenant tumble scheme congress narrow today";
+var mnemonic = "suspect dove inch excuse limb artwork render adult cousin blush month cloud";

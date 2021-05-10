@@ -1,1 +1,1 @@
-var mnemonic = "there deal such major file slow spend capable bus matrix genius tide";
+var mnemonic = "boy inner food account diamond peasant melt patient milk cabin proud size";

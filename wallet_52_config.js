@@ -1,1 +1,1 @@
-var mnemonic = "champion know control position husband dirt upset dog term enough advice rifle";
+var mnemonic = "cloth know country click rubber flavor order fabric toss lonely globe exercise";

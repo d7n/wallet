@@ -1,1 +1,1 @@
-var mnemonic = "resist dune chuckle illness connect video absurd vibrant various cook wasp patient";
+var mnemonic = "lend frozen setup ghost quiz carry catalog give nephew father voice scrap";

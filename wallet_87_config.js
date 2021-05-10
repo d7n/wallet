@@ -1,1 +1,1 @@
-var mnemonic = "during pluck series rubber victory donkey nuclear play diesel salmon repair punch";
+var mnemonic = "speed tired move goat gown stock session outer angle about rate twenty";

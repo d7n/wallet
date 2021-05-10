@@ -1,1 +1,1 @@
-var mnemonic = "census soon defense give cycle left promote chase inner piece bag village";
+var mnemonic = "thing way sting flip rather ranch history stadium minimum caution estate extra";

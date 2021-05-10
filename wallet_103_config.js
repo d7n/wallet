@@ -1,1 +1,1 @@
-var mnemonic = "poverty dice reform deny brave tomorrow save ten conduct jacket pony double";
+var mnemonic = "pill room brand inmate picture host course buzz cruel fence tornado neglect";

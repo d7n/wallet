@@ -1,1 +1,1 @@
-var mnemonic = "effort soccer involve reform advance gate umbrella trip rack mobile sock quarter";
+var mnemonic = "flock thing system invest toast knife matrix hole rookie reduce title mail";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy shuffle improve dune team actor soap length riot aerobic govern custom";
+var mnemonic = "debate only abandon auto window fly ahead purchase enter torch hero miss";

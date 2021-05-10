@@ -1,1 +1,1 @@
-var mnemonic = "tornado dog cram badge bread assume physical angle unfold office able electric";
+var mnemonic = "trial banner bus lava segment differ surround tennis reflect style kid cluster";

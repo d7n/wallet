@@ -1,1 +1,1 @@
-var mnemonic = "fabric spray enemy crisp arm stove puzzle coffee unknown leg stamp magnet";
+var mnemonic = "educate boil inhale hand barrel sense brisk exist opinion asthma actor language";

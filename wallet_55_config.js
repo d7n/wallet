@@ -1,1 +1,1 @@
-var mnemonic = "economy insane parrot sell rare fame dwarf height fringe sugar trial crack";
+var mnemonic = "category weather ethics village diagram jealous laundry fantasy glove pig use kitten";

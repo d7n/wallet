@@ -1,1 +1,1 @@
-var mnemonic = "squirrel chunk chase borrow gas spread open melt banner pumpkin fury syrup";
+var mnemonic = "because kick market maid club example labor produce manual sweet click salt";

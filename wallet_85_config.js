@@ -1,1 +1,1 @@
-var mnemonic = "method pottery struggle auction slice transfer lesson tape bundle burden shoot chimney";
+var mnemonic = "memory eight mom siren recipe dignity combine stable bitter explain frequent quit";

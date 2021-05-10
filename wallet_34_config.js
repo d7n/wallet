@@ -1,1 +1,1 @@
-var mnemonic = "measure ozone quality parade limb tube twelve cotton region asthma lunch security";
+var mnemonic = "sudden blade middle food foil defense rabbit during flag lend melt track";

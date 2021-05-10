@@ -1,1 +1,1 @@
-var mnemonic = "lottery ripple neglect fantasy immense satisfy ridge vital leaf issue patrol eternal";
+var mnemonic = "news rent script more curve audit tent mother lock little shock shove";

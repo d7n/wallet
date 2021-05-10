@@ -1,1 +1,1 @@
-var mnemonic = "twice inside kite tank model chaos joy cannon vital dwarf fly ancient";
+var mnemonic = "plug usual excess multiply boss assist hero nice casino feed inch kite";

@@ -1,1 +1,1 @@
-var mnemonic = "road purse top valley random club proud person invite release delay kit";
+var mnemonic = "leaf alone harvest enemy neglect pulse lunch gym task shell tourist cage";

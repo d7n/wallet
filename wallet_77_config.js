@@ -1,1 +1,1 @@
-var mnemonic = "uphold broom sister affair wasp season fatigue menu dolphin bone grab prison";
+var mnemonic = "police okay blood long deal result evidence brave agent invite goose fame";

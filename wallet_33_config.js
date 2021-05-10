@@ -1,1 +1,1 @@
-var mnemonic = "payment gadget defense catalog burger initial grow ship stereo trigger garment amount";
+var mnemonic = "below giant horror loop brother exchange cruise begin profit cotton clutch current";

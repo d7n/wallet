@@ -1,1 +1,1 @@
-var mnemonic = "narrow modify margin crime rice skin situate sunset erode subway captain slot";
+var mnemonic = "add knock curtain umbrella trophy junk another outdoor slim resource merry spy";

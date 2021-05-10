@@ -1,1 +1,1 @@
-var mnemonic = "certain spoon major bulb online chaos magnet remember left foot uncover shoot";
+var mnemonic = "flash duck canvas airport meat replace legend half coast excess witness dress";

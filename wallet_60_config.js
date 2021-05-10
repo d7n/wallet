@@ -1,1 +1,1 @@
-var mnemonic = "profit credit body call casual ghost relief supply december jaguar cradle cart";
+var mnemonic = "floor radar food cute blast today gown already swing winter gauge view";

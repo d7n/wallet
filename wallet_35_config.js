@@ -1,1 +1,1 @@
-var mnemonic = "armed picture immune slot wing ability invite impulse yellow myself noodle impulse";
+var mnemonic = "later stick sand release police argue elbow hawk worry load escape knock";

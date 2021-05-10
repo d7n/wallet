@@ -1,1 +1,1 @@
-var mnemonic = "laugh pink dwarf page vicious lava clog pencil discover nothing usual force";
+var mnemonic = "today phone chuckle buddy total lobster cover digital panther mixture quality trip";

@@ -1,1 +1,1 @@
-var mnemonic = "other piece pupil bicycle congress fitness public anchor achieve rude famous monkey";
+var mnemonic = "bounce flat unusual satisfy achieve before syrup measure cannon scare egg bronze";

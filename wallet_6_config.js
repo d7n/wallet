@@ -1,1 +1,1 @@
-var mnemonic = "real dance track favorite cash injury few rescue scale catalog latin share";
+var mnemonic = "middle pelican segment festival window shell loop smile leave butter aunt jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "cook faint concert sauce inherit organ arm flavor tourist turkey truck chat";
+var mnemonic = "green people rhythm olympic sun spray silly pottery clutch canoe horse history";

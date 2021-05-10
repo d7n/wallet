@@ -1,1 +1,1 @@
-var mnemonic = "render result labor robot clog meat photo patrol cement page danger vital";
+var mnemonic = "leopard ivory trend pigeon test model phrase daughter march math link raw";

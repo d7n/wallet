@@ -1,1 +1,1 @@
-var mnemonic = "multiply total sadness dawn voice length thing tape grid jazz humor dose";
+var mnemonic = "cute brother feature quiz usual funny census quit shoe adult mixture hover";

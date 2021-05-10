@@ -1,1 +1,1 @@
-var mnemonic = "fabric surround clap since gesture leader scheme medal twelve sting when fire";
+var mnemonic = "sort cool move army patient ranch magic cushion jeans sense tobacco gloom";

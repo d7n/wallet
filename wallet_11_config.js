@@ -1,1 +1,1 @@
-var mnemonic = "cupboard muscle aerobic okay tomorrow fan learn alert police search ahead auto";
+var mnemonic = "regular sudden future index mass habit return clap vital control drink fetch";

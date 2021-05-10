@@ -1,1 +1,1 @@
-var mnemonic = "seminar addict taste few axis heart whale check nephew method lend use";
+var mnemonic = "gorilla neck enforce torch buyer slim rural borrow grief year bind void";

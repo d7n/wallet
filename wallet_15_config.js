@@ -1,1 +1,1 @@
-var mnemonic = "earth proud holiday ocean raven arrow oxygen palm where fine urge antique";
+var mnemonic = "strategy tired name feed degree blue insect diagram mention estate destroy broom";

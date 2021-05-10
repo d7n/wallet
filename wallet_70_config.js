@@ -1,1 +1,1 @@
-var mnemonic = "pull isolate observe rescue donate rather dizzy fossil whip insane tired rain";
+var mnemonic = "strike onion prevent purity autumn interest pencil range spider screen fork inch";

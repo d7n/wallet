@@ -1,1 +1,1 @@
-var mnemonic = "file day mercy cash awful tip eagle child impact fortune stay mechanic";
+var mnemonic = "comic cry make inherit nose logic label taxi universe depart topple parade";

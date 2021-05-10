@@ -1,1 +1,1 @@
-var mnemonic = "alert laptop abandon sauce aerobic forget draw hamster midnight spoil leaf stem";
+var mnemonic = "throw police correct autumn identify salad sniff distance lock food blast prize";

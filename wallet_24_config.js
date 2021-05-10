@@ -1,1 +1,1 @@
-var mnemonic = "stand sun another culture ocean disease patch civil patient element goose net";
+var mnemonic = "category lava fame mobile next amused neutral enable task kitchen ordinary blanket";

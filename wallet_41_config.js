@@ -1,1 +1,1 @@
-var mnemonic = "fade degree winter tissue ozone toilet slow slight noodle wheel dragon say";
+var mnemonic = "company cram desert supply whisper ribbon verify miracle crack top render tool";

@@ -1,1 +1,1 @@
-var mnemonic = "slim fashion success broom three opera east tribe permit total assist wagon";
+var mnemonic = "bubble account copy also crystal analyst fold affair gadget shadow void lend";

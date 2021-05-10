@@ -1,1 +1,1 @@
-var mnemonic = "emotion fish result verify relax suspect grain flag gun alone first wolf";
+var mnemonic = "illness lucky cram mom tissue loop flash collect sick six coin voyage";

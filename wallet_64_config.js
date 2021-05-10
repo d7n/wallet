@@ -1,1 +1,1 @@
-var mnemonic = "bulk friend kitchen sample club income twist steel attack sail solar unfold";
+var mnemonic = "always mansion abuse plate rival toward lizard alert radio current trend settle";

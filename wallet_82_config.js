@@ -1,1 +1,1 @@
-var mnemonic = "quick gasp strong habit smoke trick toward choose end ugly runway adjust";
+var mnemonic = "hollow chest rail kiss rapid stick proof point dress know harsh false";

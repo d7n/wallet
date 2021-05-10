@@ -1,1 +1,1 @@
-var mnemonic = "shiver nice learn vibrant margin derive list twin coral pig mystery maximum";
+var mnemonic = "upset primary message spice jelly foam loyal mountain hood goose squeeze replace";

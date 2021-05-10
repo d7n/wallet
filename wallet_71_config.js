@@ -1,1 +1,1 @@
-var mnemonic = "swamp dinosaur milk thunder nest dwarf figure victory average age sting entire";
+var mnemonic = "art cancel fury three find glory stay obvious horse banana picnic charge";

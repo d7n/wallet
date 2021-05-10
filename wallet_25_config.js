@@ -1,1 +1,1 @@
-var mnemonic = "volcano patient thing unknown style lounge sketch below cube problem yard chat";
+var mnemonic = "mix such rude enforce chaos digital economy humble people weekend move weekend";

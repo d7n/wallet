@@ -1,1 +1,1 @@
-var mnemonic = "emerge renew pottery time visit evidence slight fix pact pull solar exotic";
+var mnemonic = "desert congress strike drastic blouse melt auto muffin idle science region slam";

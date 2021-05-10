@@ -1,1 +1,1 @@
-var mnemonic = "indicate heart tide crush retire gaze earth boil cattle spend sight treat";
+var mnemonic = "solar street again seven recipe life surround level knee modify minute badge";

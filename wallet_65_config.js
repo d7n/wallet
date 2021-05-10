@@ -1,1 +1,1 @@
-var mnemonic = "viable canal right crane thank nation quarter latin phrase dust welcome rubber";
+var mnemonic = "elbow flock slam sting kind cash lizard sick vicious cable ivory clerk";

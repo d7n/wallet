@@ -1,1 +1,1 @@
-var mnemonic = "welcome project simple enter hazard hollow multiply brick worry chaos cheese soldier";
+var mnemonic = "dinner bubble violin box win denial company federal deer stool glad then";

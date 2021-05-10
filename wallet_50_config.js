@@ -1,1 +1,1 @@
-var mnemonic = "enact present traffic wide raw shy glimpse dumb account remind book report";
+var mnemonic = "together nurse burden vital cause report card all bacon agent decorate doctor";

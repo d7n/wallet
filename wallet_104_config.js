@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur tunnel wool path advice wolf fitness exhibit wrist valve taste result";
+var mnemonic = "lizard flame swallow fire net deny pond divert gorilla alley practice portion";

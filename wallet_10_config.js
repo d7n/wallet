@@ -1,1 +1,1 @@
-var mnemonic = "between area gentle victory height stem final company core fork asset leaf";
+var mnemonic = "public thought thunder oven before club again face buyer radar maple barrel";

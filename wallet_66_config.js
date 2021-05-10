@@ -1,1 +1,1 @@
-var mnemonic = "gold cereal pigeon pumpkin acid people tunnel number camera raccoon choose emerge";
+var mnemonic = "surge misery old mountain network skill trigger smart awkward pioneer very shuffle";

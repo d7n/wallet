@@ -1,1 +1,1 @@
-var mnemonic = "supreme hospital absent tag sustain scorpion arch steel elder van multiply better";
+var mnemonic = "reject lucky rebel recall omit scatter tragic judge accuse add enroll october";

@@ -1,1 +1,1 @@
-var mnemonic = "receive utility roof paddle search glow solar immense across pave couple cherry";
+var mnemonic = "ski indicate dad now soldier carpet opera cake ill guess renew skin";

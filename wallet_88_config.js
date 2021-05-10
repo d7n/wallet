@@ -1,1 +1,1 @@
-var mnemonic = "forget jar please rocket develop safe blur anchor pool dumb crystal card";
+var mnemonic = "develop fork garlic auto pull vintage drink rose era blind suggest denial";

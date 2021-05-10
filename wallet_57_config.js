@@ -1,1 +1,1 @@
-var mnemonic = "ten install bamboo ridge license mandate hedgehog mixed link clip aspect uphold";
+var mnemonic = "icon wet lens jazz rug capable advance betray danger already finger tape";

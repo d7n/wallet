@@ -1,1 +1,1 @@
-var mnemonic = "hover pioneer retreat cereal still ability tiny time demise stick all borrow";
+var mnemonic = "risk surface shop short worth logic shuffle stereo merry axis fiction oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter slender direct script decorate grid man remain innocent license mother dune";
+var mnemonic = "speed slam series genius crush wire cancel mix seminar one alarm fit";

@@ -1,1 +1,1 @@
-var mnemonic = "giant enhance garment fame bless rude spy dune enlist camp during fortune";
+var mnemonic = "reason total acquire airport lonely short express climb speak salad unhappy bitter";
