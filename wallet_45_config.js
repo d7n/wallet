@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin suit fancy equip corn post interest novel marine sustain consider shove";
+var mnemonic = "physical prison popular grab much offer spike saddle this couch kangaroo amateur";

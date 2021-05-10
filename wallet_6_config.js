@@ -1,1 +1,1 @@
-var mnemonic = "hood loan sight senior diamond sorry jaguar company fuel spoil unusual empower";
+var mnemonic = "lens effort neck oyster valley agent hire ridge mask hint change round";

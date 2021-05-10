@@ -1,1 +1,1 @@
-var mnemonic = "hill canal busy foam decide model scissors fuel now media search draft";
+var mnemonic = "prevent cake pony blast calm denial pink scare depart stone deposit media";

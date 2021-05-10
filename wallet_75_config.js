@@ -1,1 +1,1 @@
-var mnemonic = "ketchup grab picnic please hour gather morning snap absent visual erode perfect";
+var mnemonic = "receive garment chicken foot pistol pony wonder divert enter program candy bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "soon crucial guess setup shift thank harsh october traffic brand ice return";
+var mnemonic = "vintage gym dentist curtain dawn accuse topple occur column inherit season switch";

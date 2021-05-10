@@ -1,1 +1,1 @@
-var mnemonic = "possible cry hat one thank skill chalk pass give robot burger butter";
+var mnemonic = "margin tone choose tragic pole divert remain sign advice lounge security lumber";

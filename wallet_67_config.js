@@ -1,1 +1,1 @@
-var mnemonic = "forum sausage lava jar relief enemy tell accuse mobile throw vital theory";
+var mnemonic = "alien dune that enough vicious sweet impact inmate note shine weird food";

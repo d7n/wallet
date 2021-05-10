@@ -1,1 +1,1 @@
-var mnemonic = "perfect setup section layer educate eight offer social pledge panda slow bless";
+var mnemonic = "attend curious reward liquid force year caught proud general suit park square";

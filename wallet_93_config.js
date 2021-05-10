@@ -1,1 +1,1 @@
-var mnemonic = "renew return report juice roast ripple draft finish obey inner clump city";
+var mnemonic = "scout immune purity frozen urge broom axis lab october embrace rice blast";

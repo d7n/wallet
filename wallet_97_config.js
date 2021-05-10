@@ -1,1 +1,1 @@
-var mnemonic = "pull crime accuse dog call dilemma reflect note anxiety song creek engage";
+var mnemonic = "smoke camera faint language island two leg ankle cart ginger fork predict";

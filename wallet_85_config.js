@@ -1,1 +1,1 @@
-var mnemonic = "angry habit trumpet report announce document shift topple devote system axis engage";
+var mnemonic = "field echo guide primary spike pulp awake toddler real under orient put";

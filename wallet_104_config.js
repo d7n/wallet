@@ -1,1 +1,1 @@
-var mnemonic = "divorce night afford raven trophy quantum point surprise arm soccer age jar";
+var mnemonic = "quote bench hover fault appear smile talent daughter sting shift boring amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery bunker spend update cupboard live banana wonder destroy side creek lunch";
+var mnemonic = "flag bind acquire expand deputy elite cricket pulse destroy toward vivid discover";

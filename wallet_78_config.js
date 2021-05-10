@@ -1,1 +1,1 @@
-var mnemonic = "gate police endless escape primary mule portion effort course social wise couple";
+var mnemonic = "across marine when nice laugh crazy cross wagon fine mountain bring tomato";

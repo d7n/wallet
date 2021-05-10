@@ -1,1 +1,1 @@
-var mnemonic = "build spare practice panther voice genre paper jaguar crunch treat slender word";
+var mnemonic = "jacket lens anchor inner pave bring decade chalk lonely embody put switch";

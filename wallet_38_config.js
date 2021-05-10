@@ -1,1 +1,1 @@
-var mnemonic = "rival cheap crime assault pencil cousin pulp move current buzz notable hazard";
+var mnemonic = "nation guilt camera rude exhaust chef miss loan talk page slide blur";

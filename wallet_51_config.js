@@ -1,1 +1,1 @@
-var mnemonic = "culture unhappy hair badge nephew home setup sand fluid wire close pet";
+var mnemonic = "nephew cushion vote hint collect caution expect kit onion genuine nerve car";

@@ -1,1 +1,1 @@
-var mnemonic = "pony face today nuclear destroy clutch chef design frog theme reveal minor";
+var mnemonic = "absorb slow acid major bulk parade coconut magnet steel struggle best dose";

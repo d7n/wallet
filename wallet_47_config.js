@@ -1,1 +1,1 @@
-var mnemonic = "thank behave identify donor crime lake scorpion satoshi noise dune army trick";
+var mnemonic = "poem lunar song sweet grief usage cheap aerobic chief prepare choice fold";

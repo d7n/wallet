@@ -1,1 +1,1 @@
-var mnemonic = "shed source special affair spider latin endorse human render opinion across antenna";
+var mnemonic = "hair virtual easy drill orbit nice fire smooth warrior weather dish twice";

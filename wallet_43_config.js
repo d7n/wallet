@@ -1,1 +1,1 @@
-var mnemonic = "talent ivory behind obey turn rack bullet soldier collect boil pattern tongue";
+var mnemonic = "hurdle able twelve local keep elder gorilla impulse orphan planet siege atom";

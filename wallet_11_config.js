@@ -1,1 +1,1 @@
-var mnemonic = "eagle leave tiny kingdom deny another nephew cat another various dial protect";
+var mnemonic = "clump guilt gaze rail box range lucky arena mail siege network token";

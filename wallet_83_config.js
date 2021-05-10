@@ -1,1 +1,1 @@
-var mnemonic = "online afraid hire staff slush abstract weird mango floor drip minimum travel";
+var mnemonic = "kidney leave velvet under key butter dust like ketchup letter iron before";

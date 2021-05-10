@@ -1,1 +1,1 @@
-var mnemonic = "jungle harbor wreck silent gravity cloth aunt choice roast lend mixed test";
+var mnemonic = "luggage swamp educate ticket tenant canal movie chief creek dance blue wear";

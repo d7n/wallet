@@ -1,1 +1,1 @@
-var mnemonic = "radio occur exile height miracle surprise sudden flush toy lab organ pool";
+var mnemonic = "clog top frame crew engage parent obscure runway genius retire become inherit";

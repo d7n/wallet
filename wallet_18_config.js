@@ -1,1 +1,1 @@
-var mnemonic = "service law display solve spider never panic chat invite loud position faith";
+var mnemonic = "click one drama erosion horror maple race pretty pave bring cabin gun";

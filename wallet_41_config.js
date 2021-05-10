@@ -1,1 +1,1 @@
-var mnemonic = "drastic want border bid city panther minute story anger manual give mad";
+var mnemonic = "space torch rocket practice draw announce blouse exhibit creek fault angry doctor";

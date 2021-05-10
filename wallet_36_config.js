@@ -1,1 +1,1 @@
-var mnemonic = "phone green apart siren federal pause box pigeon rate topple start crush";
+var mnemonic = "they agent worry retire correct sun crawl swallow provide moon enhance chimney";

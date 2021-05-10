@@ -1,1 +1,1 @@
-var mnemonic = "mixed job void because ship toss mushroom silly crawl science kick visa";
+var mnemonic = "daughter sword donkey piano dry together danger drill level speak push measure";

@@ -1,1 +1,1 @@
-var mnemonic = "simple steak receive guilt lawn nut machine nuclear chat quiz live brush";
+var mnemonic = "valve inside face fruit strong series script object just echo head nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "process crew hundred arena avocado enforce mom dove midnight ridge physical canvas";
+var mnemonic = "ordinary wear month game side spider gesture tide pizza leopard silent quantum";

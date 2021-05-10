@@ -1,1 +1,1 @@
-var mnemonic = "battle design near blush extend base diamond identify version tourist dolphin eager";
+var mnemonic = "simple crisp glory harsh six argue athlete tank fade cinnamon wine hover";

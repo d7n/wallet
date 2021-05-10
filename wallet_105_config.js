@@ -1,1 +1,1 @@
-var mnemonic = "please output favorite light genre option casino evolve machine neglect capital clean";
+var mnemonic = "they stomach image normal tennis place ketchup problem truck robust street business";

@@ -1,1 +1,1 @@
-var mnemonic = "grass decrease man cactus spike attack actress transfer cart tent lion utility";
+var mnemonic = "grass prosper toilet usage elegant abstract dragon various air account believe juice";

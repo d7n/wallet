@@ -1,1 +1,1 @@
-var mnemonic = "nose border cable human thunder bonus unable visit toy proud forum relief";
+var mnemonic = "maid lion peanut copy female vehicle thrive vapor budget battle area unfair";

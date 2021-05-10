@@ -1,1 +1,1 @@
-var mnemonic = "exhaust mention plate announce ketchup lock adapt venture bright want sign walnut";
+var mnemonic = "acquire wool trial school torch sponsor settle empower cable learn advance stairs";

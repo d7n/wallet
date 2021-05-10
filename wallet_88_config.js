@@ -1,1 +1,1 @@
-var mnemonic = "repair dune glide give nature edit brown visual option tiger satoshi member";
+var mnemonic = "topic veteran cinnamon table dizzy notice iron panel fork radio blush trumpet";

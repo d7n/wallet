@@ -1,1 +1,1 @@
-var mnemonic = "affair leg crucial inner donate pet govern wheat toward install mad gorilla";
+var mnemonic = "alarm text sleep organ sort dress stadium staff fly meat buyer giggle";

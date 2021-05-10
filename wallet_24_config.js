@@ -1,1 +1,1 @@
-var mnemonic = "earth parent laugh fuel hen ask require neglect bar finger square neglect";
+var mnemonic = "ghost cheese below blade certain security manage cheese gentle diagram inspire alley";

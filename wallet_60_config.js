@@ -1,1 +1,1 @@
-var mnemonic = "service wine fame copy trial era slender travel will heart govern history";
+var mnemonic = "swarm sad magnet labor vanish okay interest mean dove regret notable error";

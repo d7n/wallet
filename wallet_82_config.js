@@ -1,1 +1,1 @@
-var mnemonic = "crack ethics vacant mutual shed verify monitor unfold world lamp because core";
+var mnemonic = "skill space aerobic beach inform bus ancient chalk sample anxiety become clean";

@@ -1,1 +1,1 @@
-var mnemonic = "post quiz audit rib foster option lake search deliver behind camp hurry";
+var mnemonic = "among powder pilot mouse husband fall axis robust agree unknown dress match";

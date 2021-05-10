@@ -1,1 +1,1 @@
-var mnemonic = "eternal carry harsh weapon math zero ridge snow drip type gaze planet";
+var mnemonic = "clap barrel just climb supreme snap explain door lesson beauty general lyrics";

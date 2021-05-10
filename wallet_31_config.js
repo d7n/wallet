@@ -1,1 +1,1 @@
-var mnemonic = "put green hip net treat horror december wild loyal essay stem flower";
+var mnemonic = "calm riot nest auto aware birth agree life distance poem canyon first";

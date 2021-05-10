@@ -1,1 +1,1 @@
-var mnemonic = "false science cube mango devote current rapid jeans unlock evil clap chaos";
+var mnemonic = "raise fat moment stick venue vacuum comic amateur captain lab shuffle yard";

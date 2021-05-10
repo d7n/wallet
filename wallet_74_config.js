@@ -1,1 +1,1 @@
-var mnemonic = "bag runway online pulse plate cigar pig jar purity jaguar dawn flame";
+var mnemonic = "token bicycle loyal giggle double mad enforce busy found when damp gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "that cabbage fashion puzzle find script cabin social punch slight someone answer";
+var mnemonic = "deny sound custom because talent original online pulp smooth security reopen angry";

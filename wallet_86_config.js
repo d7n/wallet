@@ -1,1 +1,1 @@
-var mnemonic = "cushion clutch weasel close switch effort legal vicious mean only people scrap";
+var mnemonic = "improve auto cargo lion crop neglect toss cruise panther donor flash purse";

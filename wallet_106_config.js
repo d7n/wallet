@@ -1,1 +1,1 @@
-var mnemonic = "hospital outdoor virus carbon key donkey anger escape potato spice heavy order";
+var mnemonic = "improve account opera forward heart napkin planet veteran brief cushion case wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "trust tiger motion antique inform bubble excite behave recall icon swear pass";
+var mnemonic = "embark similar tongue lumber maple crisp supply express want rule salmon access";

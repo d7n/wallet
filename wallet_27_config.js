@@ -1,1 +1,1 @@
-var mnemonic = "sort approve speak box supreme rude space hen asset buffalo wild asset";
+var mnemonic = "traffic air zebra paper book latin game cotton install monitor chief final";

@@ -1,1 +1,1 @@
-var mnemonic = "kid clump gravity wash doctor way explain visual such sponsor edge dirt";
+var mnemonic = "enable galaxy found result must tip indoor whale salute renew sentence detail";

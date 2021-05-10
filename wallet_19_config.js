@@ -1,1 +1,1 @@
-var mnemonic = "secret cost lawn beach loop raise firm wreck anxiety position chair dragon";
+var mnemonic = "balance token forward bullet please state mountain scale gain unusual clever obscure";

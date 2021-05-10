@@ -1,1 +1,1 @@
-var mnemonic = "double orient critic bubble ecology amount judge dress cargo angle ball glass";
+var mnemonic = "idea install doctor frog eight ribbon among now end couple wide quiz";

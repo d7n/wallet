@@ -1,1 +1,1 @@
-var mnemonic = "decide cycle trust drum ecology draw pass level raccoon blade trap elephant";
+var mnemonic = "bring benefit edge decorate piece verb giraffe verify purse resist match buzz";

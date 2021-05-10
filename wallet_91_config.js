@@ -1,1 +1,1 @@
-var mnemonic = "rescue saddle morning detect garment special evolve genius rally daughter tape mango";
+var mnemonic = "because priority you unique cross clump future twenty wisdom lava fade body";

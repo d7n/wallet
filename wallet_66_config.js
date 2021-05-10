@@ -1,1 +1,1 @@
-var mnemonic = "accident worry path unlock spread vendor term essence cluster smoke dentist spy";
+var mnemonic = "forum crazy dilemma sausage success snow inherit drastic lava hungry shrug family";

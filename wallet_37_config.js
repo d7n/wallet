@@ -1,1 +1,1 @@
-var mnemonic = "cruise this list tobacco decide vacuum work wasp often fresh degree among";
+var mnemonic = "kingdom hotel outdoor setup angry art skirt speak father open puppy wrist";

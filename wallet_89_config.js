@@ -1,1 +1,1 @@
-var mnemonic = "garbage leave list drink entire space dog bottom spider mountain detect imitate";
+var mnemonic = "join bridge alien plug enlist say basic inspire put twist pause want";

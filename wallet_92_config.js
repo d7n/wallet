@@ -1,1 +1,1 @@
-var mnemonic = "sheriff clever surprise adapt wild drink surface slim gasp rural vehicle estate";
+var mnemonic = "private cage butter extra swap sentence below when fitness huge decrease setup";

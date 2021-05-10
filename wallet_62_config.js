@@ -1,1 +1,1 @@
-var mnemonic = "alien brief mountain journey decide reflect jeans security pool wolf ankle admit";
+var mnemonic = "balcony arm pride sugar opinion artefact chaos decline solution consider daring stick";

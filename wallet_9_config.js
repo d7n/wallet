@@ -1,1 +1,1 @@
-var mnemonic = "dignity local friend size foil stove bulk wheel key arrive fossil curve";
+var mnemonic = "example nuclear correct bike cabbage fade project source high tide fiscal govern";

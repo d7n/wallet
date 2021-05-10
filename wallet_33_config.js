@@ -1,1 +1,1 @@
-var mnemonic = "ensure child half antenna defense judge amateur nut slim note chapter notable";
+var mnemonic = "series auction intact whisper seminar moral clever disagree taxi news noble hockey";

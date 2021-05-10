@@ -1,1 +1,1 @@
-var mnemonic = "leisure moon erase clutch bulb purse warfare town gossip mention first safe";
+var mnemonic = "cigar road capital eternal rose direct expire snow claim hint use alcohol";

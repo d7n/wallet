@@ -1,1 +1,1 @@
-var mnemonic = "pony armed afraid resist forest art monitor arrow tissue tortoise tennis dismiss";
+var mnemonic = "clean ten six nothing recall wrap renew appear tube swap slender final";

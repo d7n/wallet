@@ -1,1 +1,1 @@
-var mnemonic = "decade genre pool behave nothing file join owner lucky plate circle happy";
+var mnemonic = "behind kiwi bunker bubble shuffle yard gate judge boat amount tiger hello";

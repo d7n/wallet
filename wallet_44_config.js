@@ -1,1 +1,1 @@
-var mnemonic = "cruise food illegal school bicycle always fragile rocket use pigeon shrug among";
+var mnemonic = "mind smooth flame daughter guess social squirrel sun inch shoe split more";

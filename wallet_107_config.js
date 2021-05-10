@@ -1,1 +1,1 @@
-var mnemonic = "basic nasty hand grid upgrade tiger cigar inflict crush onion giant moon";
+var mnemonic = "crush guess cactus math foot pretty submit disorder border slide cluster audit";

@@ -1,1 +1,1 @@
-var mnemonic = "omit cheese lamp one assume scissors rug seat female virus olive flower";
+var mnemonic = "gym example divorce trick fluid cradle resist flag degree tenant morning tooth";

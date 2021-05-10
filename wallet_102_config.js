@@ -1,1 +1,1 @@
-var mnemonic = "doctor vast dawn round order damp explain focus buddy sugar drop robot";
+var mnemonic = "quick wagon open mad soccer buyer key hub call wall unique chunk";

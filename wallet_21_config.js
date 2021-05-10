@@ -1,1 +1,1 @@
-var mnemonic = "father scene virus floor differ alley beauty paddle earth school output muscle";
+var mnemonic = "physical marble portion hybrid lens month breeze decrease inject civil detect become";

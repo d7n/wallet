@@ -1,1 +1,1 @@
-var mnemonic = "enhance dove stem voice proud urge frown leg can hint require author";
+var mnemonic = "carry volcano wild egg into crime crunch mean panel rate hole stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "valve old crane jungle source once gas surface ankle become common urban";
+var mnemonic = "paddle dove know receive rookie chunk eyebrow canoe season life teach guard";

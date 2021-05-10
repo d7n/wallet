@@ -1,1 +1,1 @@
-var mnemonic = "total dizzy battle carbon swallow glue parent throw fancy raccoon helmet kind";
+var mnemonic = "length quote company guide delay flavor green agent eagle exact oxygen grid";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp addict envelope thumb volcano group gun risk arrive worry venture various";
+var mnemonic = "certain open exotic across hurdle inside purse accident helmet huge kiss february";

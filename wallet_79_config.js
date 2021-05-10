@@ -1,1 +1,1 @@
-var mnemonic = "ranch team distance bicycle angle more cook concert differ solve either vacant";
+var mnemonic = "bitter virus mail bacon faculty reason cable milk juice mind bronze fit";

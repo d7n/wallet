@@ -1,1 +1,1 @@
-var mnemonic = "orchard neither party start scrap attend brisk theme palm soda dumb combine";
+var mnemonic = "blush nurse learn eye parent insect same virtual follow lunar opinion spirit";

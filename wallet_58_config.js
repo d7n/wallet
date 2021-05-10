@@ -1,1 +1,1 @@
-var mnemonic = "powder hotel diamond shove original melody aisle dust athlete ramp fruit slush";
+var mnemonic = "absorb reform laptop mix license gown festival shoulder half neck ice risk";

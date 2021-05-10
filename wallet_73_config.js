@@ -1,1 +1,1 @@
-var mnemonic = "sadness culture immense mosquito lucky concert attract knock silent raise maze version";
+var mnemonic = "very stand pride remove voyage fabric magnet exit comic misery upset buddy";

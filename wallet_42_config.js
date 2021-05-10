@@ -1,1 +1,1 @@
-var mnemonic = "squeeze auto insane atom jeans cart limit farm country climb razor cave";
+var mnemonic = "demand wrong napkin hamster noble thrive bright old meadow stumble runway fork";

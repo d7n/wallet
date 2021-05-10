@@ -1,1 +1,1 @@
-var mnemonic = "toddler shoulder escape lazy couch into limit immense business cloth picnic flip";
+var mnemonic = "item purchase disagree pear absent add doctor anger wet game illegal under";

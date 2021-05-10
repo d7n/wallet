@@ -1,1 +1,1 @@
-var mnemonic = "olive check mosquito reward sound icon execute wide route shaft wisdom shield";
+var mnemonic = "entry lock hub long broken arch major nephew bread moral rubber sugar";

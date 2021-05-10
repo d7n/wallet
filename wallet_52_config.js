@@ -1,1 +1,1 @@
-var mnemonic = "kick already holiday robot combine butter document major fever stem vault clean";
+var mnemonic = "swing yard egg sort drip wheat potato entry bid athlete real off";

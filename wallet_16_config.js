@@ -1,1 +1,1 @@
-var mnemonic = "also render iron budget verb unveil leopard bacon often festival slab cupboard";
+var mnemonic = "kit lesson cluster broom move tennis grief hockey agree scale toddler regret";

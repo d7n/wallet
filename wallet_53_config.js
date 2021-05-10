@@ -1,1 +1,1 @@
-var mnemonic = "mixture inch maze light moral observe edit ethics top zero jeans trend";
+var mnemonic = "shine often family key remember style try jewel leave pigeon shuffle beyond";

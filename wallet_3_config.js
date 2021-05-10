@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo edit sheriff equip lend affair blind expose sign toast bench eyebrow";
+var mnemonic = "icon combine stamp pony quick cliff column baby develop square voyage biology";

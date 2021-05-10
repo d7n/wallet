@@ -1,1 +1,1 @@
-var mnemonic = "matter link dance ribbon sort wisdom kiwi small charge decorate room level";
+var mnemonic = "easily flavor layer joy humor gap brisk list random timber mean hero";

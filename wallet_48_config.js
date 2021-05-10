@@ -1,1 +1,1 @@
-var mnemonic = "aunt dirt setup draft giggle scorpion vital kangaroo cost lunar limit shrug";
+var mnemonic = "east alpha vault regular win concert door sign lobster broken glare smile";

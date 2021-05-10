@@ -1,1 +1,1 @@
-var mnemonic = "suspect pull crisp error sound banner process athlete around rent mail source";
+var mnemonic = "much parade powder first latin fantasy lucky book enact museum royal initial";
