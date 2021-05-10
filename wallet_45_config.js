@@ -1,1 +1,1 @@
-var mnemonic = "recall wire attitude shock cherry vicious magnet valve civil shield wide nuclear";
+var mnemonic = "pumpkin suit fancy equip corn post interest novel marine sustain consider shove";

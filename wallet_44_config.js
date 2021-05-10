@@ -1,1 +1,1 @@
-var mnemonic = "left machine glimpse regret suspect mosquito slim pledge grit stone swap sleep";
+var mnemonic = "cruise food illegal school bicycle always fragile rocket use pigeon shrug among";

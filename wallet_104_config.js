@@ -1,1 +1,1 @@
-var mnemonic = "pet merry runway damp forward march maple midnight slight vote wise cube";
+var mnemonic = "divorce night afford raven trophy quantum point surprise arm soccer age jar";

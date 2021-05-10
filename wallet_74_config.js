@@ -1,1 +1,1 @@
-var mnemonic = "jungle crane find economy worry broccoli loud bike shoulder own vital luggage";
+var mnemonic = "bag runway online pulse plate cigar pig jar purity jaguar dawn flame";

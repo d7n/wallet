@@ -1,1 +1,1 @@
-var mnemonic = "gown acoustic half trip goose aerobic donate way student flip vacant burst";
+var mnemonic = "gate police endless escape primary mule portion effort course social wise couple";

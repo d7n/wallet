@@ -1,1 +1,1 @@
-var mnemonic = "bleak extend globe fine refuse vague stamp gravity biology drill short impact";
+var mnemonic = "olive check mosquito reward sound icon execute wide route shaft wisdom shield";

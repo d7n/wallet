@@ -1,1 +1,1 @@
-var mnemonic = "present okay catch swing finger fatigue move chase rain elder patient slight";
+var mnemonic = "sheriff clever surprise adapt wild drink surface slim gasp rural vehicle estate";

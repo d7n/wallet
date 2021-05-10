@@ -1,1 +1,1 @@
-var mnemonic = "web wear educate immune remember keep tuna slogan violin control raise cattle";
+var mnemonic = "perfect setup section layer educate eight offer social pledge panda slow bless";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy noise outer chat tray film cradle civil shoe shy main another";
+var mnemonic = "forum sausage lava jar relief enemy tell accuse mobile throw vital theory";

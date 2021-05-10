@@ -1,1 +1,1 @@
-var mnemonic = "window sand alter slide crash belt host profit host estate fringe price";
+var mnemonic = "pony face today nuclear destroy clutch chef design frog theme reveal minor";

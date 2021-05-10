@@ -1,1 +1,1 @@
-var mnemonic = "grunt alert pair blue all solution rival segment horn maximum rice salute";
+var mnemonic = "nation swarm allow atom cool awake minimum purity lawsuit clump trip hat";

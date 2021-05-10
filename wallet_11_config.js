@@ -1,1 +1,1 @@
-var mnemonic = "habit tail pyramid usual axis start abstract demise impose drink skirt loan";
+var mnemonic = "eagle leave tiny kingdom deny another nephew cat another various dial protect";

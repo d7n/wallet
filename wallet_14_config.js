@@ -1,1 +1,1 @@
-var mnemonic = "trigger limit actor cigar master narrow also beef egg system super share";
+var mnemonic = "radio occur exile height miracle surprise sudden flush toy lab organ pool";

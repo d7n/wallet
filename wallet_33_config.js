@@ -1,1 +1,1 @@
-var mnemonic = "dirt plunge ice speed security credit chair lady hour give luggage own";
+var mnemonic = "ensure child half antenna defense judge amateur nut slim note chapter notable";

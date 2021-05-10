@@ -1,1 +1,1 @@
-var mnemonic = "scissors worry unveil screen door maple siege dismiss pave quick weasel connect";
+var mnemonic = "rival cheap crime assault pencil cousin pulp move current buzz notable hazard";

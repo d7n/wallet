@@ -1,1 +1,1 @@
-var mnemonic = "theme trophy cabin client gaze adult biology guitar remain vanish blue convince";
+var mnemonic = "affair leg crucial inner donate pet govern wheat toward install mad gorilla";

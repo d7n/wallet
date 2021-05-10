@@ -1,1 +1,1 @@
-var mnemonic = "antique impact goat cable air soup tribe simple settle direct elite enemy";
+var mnemonic = "garbage leave list drink entire space dog bottom spider mountain detect imitate";

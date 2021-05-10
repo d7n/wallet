@@ -1,1 +1,1 @@
-var mnemonic = "wisdom garage improve endorse hurry limit twelve diesel scissors pony pave flee";
+var mnemonic = "earth parent laugh fuel hen ask require neglect bar finger square neglect";

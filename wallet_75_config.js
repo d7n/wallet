@@ -1,1 +1,1 @@
-var mnemonic = "wine warfare coast quality monkey mosquito lyrics miracle knee coffee best tuition";
+var mnemonic = "ketchup grab picnic please hour gather morning snap absent visual erode perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "left accident alien erosion lock child arena girl drum guard mind dignity";
+var mnemonic = "dignity local friend size foil stove bulk wheel key arrive fossil curve";

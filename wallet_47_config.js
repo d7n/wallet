@@ -1,1 +1,1 @@
-var mnemonic = "urban blame unit predict winner marble erase service alert husband fresh brush";
+var mnemonic = "thank behave identify donor crime lake scorpion satoshi noise dune army trick";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble method fan lecture lyrics daughter gain funny category half glass violin";
+var mnemonic = "kick already holiday robot combine butter document major fever stem vault clean";

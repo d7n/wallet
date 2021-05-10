@@ -1,1 +1,1 @@
-var mnemonic = "chef wasp theory giant sadness jazz love rug water total text wet";
+var mnemonic = "busy draw cross book shop tiny obscure neck that rival mobile weird";

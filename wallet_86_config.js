@@ -1,1 +1,1 @@
-var mnemonic = "deposit ice blue run mom axis banner alley arrow oyster float shed";
+var mnemonic = "cushion clutch weasel close switch effort legal vicious mean only people scrap";

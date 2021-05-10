@@ -1,1 +1,1 @@
-var mnemonic = "behind coconut wrist photo switch shed script eager forget skill minute law";
+var mnemonic = "sort approve speak box supreme rude space hen asset buffalo wild asset";

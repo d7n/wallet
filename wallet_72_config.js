@@ -1,1 +1,1 @@
-var mnemonic = "firm annual wisdom north ceiling suit insect vacuum truly exhaust image gadget";
+var mnemonic = "pony armed afraid resist forest art monitor arrow tissue tortoise tennis dismiss";

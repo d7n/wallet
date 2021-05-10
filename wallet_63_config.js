@@ -1,1 +1,1 @@
-var mnemonic = "tree vivid brass raw clarify worth eagle punch sword pudding hamster pistol";
+var mnemonic = "cabin deny pact suspect pair code because guide mirror wonder ask garage";

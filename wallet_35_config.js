@@ -1,1 +1,1 @@
-var mnemonic = "laptop hunt okay derive typical circle chimney swear link dial faculty pulse";
+var mnemonic = "picnic actress demise juice pause solution siege tenant razor decide ripple edge";

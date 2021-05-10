@@ -1,1 +1,1 @@
-var mnemonic = "split insect style gravity brass crisp domain canoe voyage permit family genius";
+var mnemonic = "orchard neither party start scrap attend brisk theme palm soda dumb combine";

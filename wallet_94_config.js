@@ -1,1 +1,1 @@
-var mnemonic = "weird cheese desert donate abstract hunt puzzle pigeon advice junk nuclear order";
+var mnemonic = "odor fence caught before film view lonely prepare warrior recipe card security";

@@ -1,1 +1,1 @@
-var mnemonic = "advance pipe subway pledge cup zebra quality column core ceiling opinion busy";
+var mnemonic = "service law display solve spider never panic chat invite loud position faith";

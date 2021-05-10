@@ -1,1 +1,1 @@
-var mnemonic = "shop arrive gloom emerge trim fence void bitter sunset aware cupboard kiss";
+var mnemonic = "sadness culture immense mosquito lucky concert attract knock silent raise maze version";

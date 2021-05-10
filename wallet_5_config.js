@@ -1,1 +1,1 @@
-var mnemonic = "guilt wood obscure meadow cactus giraffe jealous vocal best destroy family cement";
+var mnemonic = "surprise forest split math mosquito element grid old rain talent raven obscure";

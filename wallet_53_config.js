@@ -1,1 +1,1 @@
-var mnemonic = "process furnace prefer awesome step forward grass despair ramp fall shadow mercy";
+var mnemonic = "mixture inch maze light moral observe edit ethics top zero jeans trend";

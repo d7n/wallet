@@ -1,1 +1,1 @@
-var mnemonic = "dizzy muffin humble corn almost spend road chronic amateur essence daughter universe";
+var mnemonic = "hood loan sight senior diamond sorry jaguar company fuel spoil unusual empower";

@@ -1,1 +1,1 @@
-var mnemonic = "task orient argue symbol sausage swamp frequent jealous three bubble notable nest";
+var mnemonic = "omit cheese lamp one assume scissors rug seat female virus olive flower";

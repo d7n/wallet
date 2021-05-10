@@ -1,1 +1,1 @@
-var mnemonic = "intact practice design space point joy finger elbow main rookie usual cream";
+var mnemonic = "drastic want border bid city panther minute story anger manual give mad";

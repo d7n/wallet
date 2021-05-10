@@ -1,1 +1,1 @@
-var mnemonic = "knife choose settle crucial auto bachelor unable balcony depth hunt oven buffalo";
+var mnemonic = "soon crucial guess setup shift thank harsh october traffic brand ice return";

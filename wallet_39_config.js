@@ -1,1 +1,1 @@
-var mnemonic = "cluster river oppose obscure gossip gaze include play drill tunnel leisure theme";
+var mnemonic = "that cabbage fashion puzzle find script cabin social punch slight someone answer";

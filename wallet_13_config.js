@@ -1,1 +1,1 @@
-var mnemonic = "myself snow shove unlock ordinary physical ring dizzy enter outer vicious dial";
+var mnemonic = "nose border cable human thunder bonus unable visit toy proud forum relief";

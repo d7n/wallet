@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow ranch chase warfare pill royal maple twenty audit little private kidney";
+var mnemonic = "accident worry path unlock spread vendor term essence cluster smoke dentist spy";

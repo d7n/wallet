@@ -1,1 +1,1 @@
-var mnemonic = "strong immune amused change today shallow shoe leader must valve tank city";
+var mnemonic = "possible cry hat one thank skill chalk pass give robot burger butter";

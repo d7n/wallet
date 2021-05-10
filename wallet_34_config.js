@@ -1,1 +1,1 @@
-var mnemonic = "afford recycle latin slam sponsor thrive puzzle size pass stereo muffin forget";
+var mnemonic = "rival wisdom improve report spirit ethics worth anchor fish warfare reject toe";

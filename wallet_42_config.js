@@ -1,1 +1,1 @@
-var mnemonic = "question escape biology satoshi sail creek erosion field regular dad permit call";
+var mnemonic = "squeeze auto insane atom jeans cart limit farm country climb razor cave";

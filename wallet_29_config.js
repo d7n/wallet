@@ -1,1 +1,1 @@
-var mnemonic = "quality enough syrup pink impulse charge twin predict bitter flip concert steak";
+var mnemonic = "toddler shoulder escape lazy couch into limit immense business cloth picnic flip";

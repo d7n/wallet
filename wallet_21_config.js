@@ -1,1 +1,1 @@
-var mnemonic = "armed leave social laptop until broom false grab caution where apple entry";
+var mnemonic = "father scene virus floor differ alley beauty paddle earth school output muscle";

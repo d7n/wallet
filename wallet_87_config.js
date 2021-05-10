@@ -1,1 +1,1 @@
-var mnemonic = "suggest rough bridge work stay icon issue twelve box tennis tonight gift";
+var mnemonic = "eternal carry harsh weapon math zero ridge snow drip type gaze planet";

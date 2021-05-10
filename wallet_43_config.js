@@ -1,1 +1,1 @@
-var mnemonic = "wagon item kiwi bring order split pave position path soup cart thrive";
+var mnemonic = "talent ivory behind obey turn rack bullet soldier collect boil pattern tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze entry disease fragile nuclear harbor put eagle critic bullet guilt resist";
+var mnemonic = "process crew hundred arena avocado enforce mom dove midnight ridge physical canvas";

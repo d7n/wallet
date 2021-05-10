@@ -1,1 +1,1 @@
-var mnemonic = "icon genius flock ordinary zero have off pride gorilla stuff occur insane";
+var mnemonic = "thunder unable timber enemy maple legend assume sell twenty glad bench super";

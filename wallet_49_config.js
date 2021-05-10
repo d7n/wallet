@@ -1,1 +1,1 @@
-var mnemonic = "chalk tumble index vintage mixture maximum base acid theory ready flock peasant";
+var mnemonic = "hill canal busy foam decide model scissors fuel now media search draft";

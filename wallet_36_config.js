@@ -1,1 +1,1 @@
-var mnemonic = "antenna crowd surround knee gift seminar myth chicken middle monitor office wage";
+var mnemonic = "phone green apart siren federal pause box pigeon rate topple start crush";

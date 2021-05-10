@@ -1,1 +1,1 @@
-var mnemonic = "struggle hood regular link stem river snake system absorb victory abuse embark";
+var mnemonic = "pipe stay system draw reason drill guitar spray that powder develop early";

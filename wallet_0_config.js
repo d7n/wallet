@@ -1,1 +1,1 @@
-var mnemonic = "fine cloth leaf milk couple scare review receive flavor wolf quick able";
+var mnemonic = "member opinion clever autumn army spy cause staff caught fatal slice have";

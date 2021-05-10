@@ -1,1 +1,1 @@
-var mnemonic = "endorse wheat flip cream curtain aware primary item citizen setup cable squirrel";
+var mnemonic = "false science cube mango devote current rapid jeans unlock evil clap chaos";

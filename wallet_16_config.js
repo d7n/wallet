@@ -1,1 +1,1 @@
-var mnemonic = "avocado ten govern rug reopen stem crop utility vacuum outside yard expose";
+var mnemonic = "also render iron budget verb unveil leopard bacon often festival slab cupboard";

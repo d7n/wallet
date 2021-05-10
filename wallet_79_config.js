@@ -1,1 +1,1 @@
-var mnemonic = "indoor senior liar pledge hobby fuel list random anchor camera ozone clap";
+var mnemonic = "ranch team distance bicycle angle more cook concert differ solve either vacant";

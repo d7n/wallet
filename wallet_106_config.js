@@ -1,1 +1,1 @@
-var mnemonic = "brisk vast still detail rough wool crisp eager retire yellow dose stay";
+var mnemonic = "hospital outdoor virus carbon key donkey anger escape potato spice heavy order";

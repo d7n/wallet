@@ -1,1 +1,1 @@
-var mnemonic = "diary team front distance promote ensure fuel miracle fringe end coconut plate";
+var mnemonic = "post quiz audit rib foster option lake search deliver behind camp hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "daring regret matrix aisle grocery cigar scout exact merit property certain arch";
+var mnemonic = "decade genre pool behave nothing file join owner lucky plate circle happy";

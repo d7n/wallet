@@ -1,1 +1,1 @@
-var mnemonic = "fantasy barely siren wide bullet soul mean quote basket close pottery genuine";
+var mnemonic = "snake problem cram unfair any pulp else edit energy arrow verb business";

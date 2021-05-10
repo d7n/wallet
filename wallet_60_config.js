@@ -1,1 +1,1 @@
-var mnemonic = "abandon sun cactus long between ankle evil draft float upset dove double";
+var mnemonic = "service wine fame copy trial era slender travel will heart govern history";

@@ -1,1 +1,1 @@
-var mnemonic = "sick champion math boost remember gorilla effort search pelican identify item height";
+var mnemonic = "matter link dance ribbon sort wisdom kiwi small charge decorate room level";

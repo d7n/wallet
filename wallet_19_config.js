@@ -1,1 +1,1 @@
-var mnemonic = "surface office fringe hurt person hour mercy mosquito human blouse sweet grief";
+var mnemonic = "secret cost lawn beach loop raise firm wreck anxiety position chair dragon";

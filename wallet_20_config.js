@@ -1,1 +1,1 @@
-var mnemonic = "tonight link pave walnut december one long grace useful kiwi upon neutral";
+var mnemonic = "mixed job void because ship toss mushroom silly crawl science kick visa";

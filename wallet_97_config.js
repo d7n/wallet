@@ -1,1 +1,1 @@
-var mnemonic = "weather gallery response eager wool clay verify decide express shoe member hurt";
+var mnemonic = "pull crime accuse dog call dilemma reflect note anxiety song creek engage";

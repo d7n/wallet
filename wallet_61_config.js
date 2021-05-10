@@ -1,1 +1,1 @@
-var mnemonic = "dust hello pudding angle hospital multiply nerve boring loop kitten behind small";
+var mnemonic = "total dizzy battle carbon swallow glue parent throw fancy raccoon helmet kind";

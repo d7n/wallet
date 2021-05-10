@@ -1,1 +1,1 @@
-var mnemonic = "garment smoke motion label crew pattern boat solid inner sadness snake critic";
+var mnemonic = "regret surprise gesture bicycle happy dismiss innocent chief noble eager giant primary";

@@ -1,1 +1,1 @@
-var mnemonic = "girl race joy laugh strike clinic raise custom ivory wonder solution whip";
+var mnemonic = "doctor vast dawn round order damp explain focus buddy sugar drop robot";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon volume consider state valley moon assume mutual prosper heavy seven invite";
+var mnemonic = "shed source special affair spider latin endorse human render opinion across antenna";

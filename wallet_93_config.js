@@ -1,1 +1,1 @@
-var mnemonic = "knock onion border rescue elite balcony mention cube garden mix undo disagree";
+var mnemonic = "renew return report juice roast ripple draft finish obey inner clump city";

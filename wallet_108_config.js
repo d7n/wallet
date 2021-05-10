@@ -1,1 +1,1 @@
-var mnemonic = "area dumb bunker wrist dentist anger hold trust traffic universe possible mesh";
+var mnemonic = "enhance dove stem voice proud urge frown leg can hint require author";

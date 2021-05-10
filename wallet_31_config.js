@@ -1,1 +1,1 @@
-var mnemonic = "divorce powder away page salmon gauge vault tide want glance fall mad";
+var mnemonic = "put green hip net treat horror december wild loyal essay stem flower";

@@ -1,1 +1,1 @@
-var mnemonic = "excess comic evoke waste clown swap august lady pipe frame wait neither";
+var mnemonic = "about rather motion note usual argue bread scrap drop feed gas trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "any journey time hint situate rice have unhappy produce uncover maze merit";
+var mnemonic = "unhappy knife valley laptop moral artefact north turkey lucky kitchen title pigeon";

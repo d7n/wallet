@@ -1,1 +1,1 @@
-var mnemonic = "change business improve humble typical lizard arrest brass harsh neglect mesh frame";
+var mnemonic = "basic nasty hand grid upgrade tiger cigar inflict crush onion giant moon";

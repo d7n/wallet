@@ -1,1 +1,1 @@
-var mnemonic = "pass scatter wet knee hurdle shock either ready talk once chuckle camera";
+var mnemonic = "decide cycle trust drum ecology draw pass level raccoon blade trap elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "monster toast library harvest add powder leader argue adult tortoise magic certain";
+var mnemonic = "grass decrease man cactus spike attack actress transfer cart tent lion utility";

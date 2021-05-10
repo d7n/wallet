@@ -1,1 +1,1 @@
-var mnemonic = "boat reopen churn slam weapon palm farm dynamic mouse annual describe humor";
+var mnemonic = "medal country secret color valid zone motion member any option despair six";

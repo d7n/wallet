@@ -1,1 +1,1 @@
-var mnemonic = "paddle donkey vague circle wheat marriage arrange raw brown weekend drink excite";
+var mnemonic = "exhaust mention plate announce ketchup lock adapt venture bright want sign walnut";

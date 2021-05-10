@@ -1,1 +1,1 @@
-var mnemonic = "casino window goat atom dad enough inherit pact jar arrest enhance another";
+var mnemonic = "cruise this list tobacco decide vacuum work wasp often fresh degree among";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse alone cradle raw excuse grid cute kind miracle select brain pause";
+var mnemonic = "angry habit trumpet report announce document shift topple devote system axis engage";

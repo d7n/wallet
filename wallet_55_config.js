@@ -1,1 +1,1 @@
-var mnemonic = "ensure cup always issue person matrix chest solution prepare anxiety round device";
+var mnemonic = "kid clump gravity wash doctor way explain visual such sponsor edge dirt";

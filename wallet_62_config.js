@@ -1,1 +1,1 @@
-var mnemonic = "hood original monitor theme sugar squeeze cricket laugh youth thought dawn tragic";
+var mnemonic = "alien brief mountain journey decide reflect jeans security pool wolf ankle admit";

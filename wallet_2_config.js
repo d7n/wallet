@@ -1,1 +1,1 @@
-var mnemonic = "poet swamp latin snake fatal damage panel smooth harvest tank flip chef";
+var mnemonic = "jungle harbor wreck silent gravity cloth aunt choice roast lend mixed test";

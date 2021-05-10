@@ -1,1 +1,1 @@
-var mnemonic = "tattoo denial leopard virus trash manage angle sea bright person choice phrase";
+var mnemonic = "kangaroo edit sheriff equip lend affair blind expose sign toast bench eyebrow";

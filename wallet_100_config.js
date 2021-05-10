@@ -1,1 +1,1 @@
-var mnemonic = "stomach buyer proof decline wish still afford perfect giggle core unfold meat";
+var mnemonic = "build spare practice panther voice genre paper jaguar crunch treat slender word";

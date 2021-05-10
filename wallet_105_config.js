@@ -1,1 +1,1 @@
-var mnemonic = "goose maze consider pizza energy fire kidney bitter dilemma knock edit weapon";
+var mnemonic = "please output favorite light genre option casino evolve machine neglect capital clean";
