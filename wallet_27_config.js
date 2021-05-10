@@ -1,1 +1,1 @@
-var mnemonic = "juice pizza moment hip renew satoshi neutral promote figure wet chief horse";
+var mnemonic = "useful vacant now reflect zebra trust crucial arrow egg young energy hunt";

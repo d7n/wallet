@@ -1,1 +1,1 @@
-var mnemonic = "car donate cancel three balcony knock ethics among fan normal elbow behave";
+var mnemonic = "file day mercy cash awful tip eagle child impact fortune stay mechanic";

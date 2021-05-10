@@ -1,1 +1,1 @@
-var mnemonic = "siege riot announce original peasant under congress miss green delay ball pony";
+var mnemonic = "pact frost recipe flash display tired soon cluster uphold original purse regret";

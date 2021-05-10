@@ -1,1 +1,1 @@
-var mnemonic = "draft target equip dry rely jelly turtle okay toss tone rain toddler";
+var mnemonic = "glance belt orbit six feed when assist twin display dish room shock";

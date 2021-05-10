@@ -1,1 +1,1 @@
-var mnemonic = "pair tilt hint maid machine reunion digital science portion please fiber bright";
+var mnemonic = "screen patient assist moon rose robot tenant develop century sweet expect wool";

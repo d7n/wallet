@@ -1,1 +1,1 @@
-var mnemonic = "gold identify tortoise special jacket always divorce spell dismiss clutch able blush";
+var mnemonic = "measure ozone quality parade limb tube twelve cotton region asthma lunch security";

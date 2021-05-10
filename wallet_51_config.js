@@ -1,1 +1,1 @@
-var mnemonic = "gloom gravity album side fiction faith brief rate slab scrap course wrist";
+var mnemonic = "stand smart mammal fence vast output analyst risk couple drift eager renew";

@@ -1,1 +1,1 @@
-var mnemonic = "copper tube oxygen kingdom ticket either large music team matrix grain gospel";
+var mnemonic = "slam admit crane brief buddy grunt document crystal virtual able afford wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree crew fall twist soccer hamster era peace tragic six magic road";
+var mnemonic = "stand sun another culture ocean disease patch civil patient element goose net";

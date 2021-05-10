@@ -1,1 +1,1 @@
-var mnemonic = "expand assist crew target ability useless video cross merge deliver start rack";
+var mnemonic = "ready screen fox solar burst sting guitar radar fever river strategy road";

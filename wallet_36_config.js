@@ -1,1 +1,1 @@
-var mnemonic = "rely lava math layer genius ignore animal crazy excuse assault key general";
+var mnemonic = "resist dune chuckle illness connect video absurd vibrant various cook wasp patient";

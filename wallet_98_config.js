@@ -1,1 +1,1 @@
-var mnemonic = "crisp fee fork maximum river only true shadow social obey flag power";
+var mnemonic = "electric elephant moment people vote figure hunt grape east proud pass track";

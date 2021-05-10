@@ -1,1 +1,1 @@
-var mnemonic = "notice key holiday grief truth flat twenty vicious supply ready rubber morning";
+var mnemonic = "monitor dynamic slab invest rose beef chalk match such movie essay glide";

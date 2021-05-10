@@ -1,1 +1,1 @@
-var mnemonic = "reject parent borrow portion lonely motor maid erosion rebel carpet sand buffalo";
+var mnemonic = "twice inside kite tank model chaos joy cannon vital dwarf fly ancient";

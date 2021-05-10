@@ -1,1 +1,1 @@
-var mnemonic = "earn river adult mirror occur half muscle evil flush intact dry thunder";
+var mnemonic = "shiver nice learn vibrant margin derive list twin coral pig mystery maximum";

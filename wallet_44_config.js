@@ -1,1 +1,1 @@
-var mnemonic = "rhythm green neutral slim dinner cliff stadium weasel all fan unknown damage";
+var mnemonic = "lottery ripple neglect fantasy immense satisfy ridge vital leaf issue patrol eternal";

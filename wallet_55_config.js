@@ -1,1 +1,1 @@
-var mnemonic = "soccer gate case dumb rate time cave crawl today stand source primary";
+var mnemonic = "economy insane parrot sell rare fame dwarf height fringe sugar trial crack";

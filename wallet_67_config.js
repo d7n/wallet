@@ -1,1 +1,1 @@
-var mnemonic = "glove ivory paddle evoke cart weird toss trial couch legend nasty nature";
+var mnemonic = "ladder sport march void midnight correct urban party sock smile pink pepper";

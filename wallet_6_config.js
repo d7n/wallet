@@ -1,1 +1,1 @@
-var mnemonic = "pottery phone square poet wrist prevent auto zero frame noble legend employ";
+var mnemonic = "real dance track favorite cash injury few rescue scale catalog latin share";

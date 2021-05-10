@@ -1,1 +1,1 @@
-var mnemonic = "truly flavor dice task brass lawn gospel matrix topple metal dinosaur season";
+var mnemonic = "illness cluster access bronze pluck limb laundry rice sing roof syrup pattern";

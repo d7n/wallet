@@ -1,1 +1,1 @@
-var mnemonic = "vacant number decade open horn flash glory pledge feel lamp defy island";
+var mnemonic = "uphold broom sister affair wasp season fatigue menu dolphin bone grab prison";

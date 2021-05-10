@@ -1,1 +1,1 @@
-var mnemonic = "ethics planet kid weather girl economy green obtain ticket bounce pelican surface";
+var mnemonic = "squirrel chunk chase borrow gas spread open melt banner pumpkin fury syrup";

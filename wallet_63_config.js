@@ -1,1 +1,1 @@
-var mnemonic = "theory father amazing lend palm struggle lawn crumble paddle solid nothing unlock";
+var mnemonic = "multiply total sadness dawn voice length thing tape grid jazz humor dose";

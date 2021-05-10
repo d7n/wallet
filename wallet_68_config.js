@@ -1,1 +1,1 @@
-var mnemonic = "glance fluid galaxy angle bacon daughter market receive cloud clown endless typical";
+var mnemonic = "other piece pupil bicycle congress fitness public anchor achieve rude famous monkey";

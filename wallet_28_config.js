@@ -1,1 +1,1 @@
-var mnemonic = "vessel sugar thrive mansion junior inside project under miracle notable assault slim";
+var mnemonic = "receive utility roof paddle search glow solar immense across pave couple cherry";

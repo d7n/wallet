@@ -1,1 +1,1 @@
-var mnemonic = "lucky divide dinosaur accident portion one number absurd gesture donor shield people";
+var mnemonic = "pull isolate observe rescue donate rather dizzy fossil whip insane tired rain";

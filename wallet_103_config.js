@@ -1,1 +1,1 @@
-var mnemonic = "split gadget utility leaf demand december rifle debate click wheat service gate";
+var mnemonic = "poverty dice reform deny brave tomorrow save ten conduct jacket pony double";

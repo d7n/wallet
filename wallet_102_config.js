@@ -1,1 +1,1 @@
-var mnemonic = "stomach police little try clump intact cactus exotic helmet caught horror width";
+var mnemonic = "child hover penalty organ weird rather network manage carpet blouse vital wish";

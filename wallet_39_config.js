@@ -1,1 +1,1 @@
-var mnemonic = "eight master that busy frost galaxy swear lemon minimum finish green defy";
+var mnemonic = "ill napkin regret giraffe december enrich miracle media bounce upper dream later";

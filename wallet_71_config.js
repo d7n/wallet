@@ -1,1 +1,1 @@
-var mnemonic = "pole borrow clutch access correct syrup together throw announce luxury physical flavor";
+var mnemonic = "swamp dinosaur milk thunder nest dwarf figure victory average age sting entire";

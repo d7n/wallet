@@ -1,1 +1,1 @@
-var mnemonic = "drive scatter dilemma weather race cloud wing author organ love follow detect";
+var mnemonic = "pilot next ceiling behave fence scare size sting spin verb curtain tag";

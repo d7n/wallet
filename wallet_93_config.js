@@ -1,1 +1,1 @@
-var mnemonic = "love fault daughter apart sister hundred infant steak dog use hip once";
+var mnemonic = "decorate away truly boost unhappy oil panda subject collect iron vote proof";

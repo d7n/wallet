@@ -1,1 +1,1 @@
-var mnemonic = "text style benefit exhibit black bless eager predict clutch wine gym pact";
+var mnemonic = "earth proud holiday ocean raven arrow oxygen palm where fine urge antique";

@@ -1,1 +1,1 @@
-var mnemonic = "promote interest summer there foot debris meat vault idea kiss curious blanket";
+var mnemonic = "volcano patient thing unknown style lounge sketch below cube problem yard chat";

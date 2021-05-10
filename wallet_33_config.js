@@ -1,1 +1,1 @@
-var mnemonic = "speak fade cupboard rural vanish core there rug piano gravity design thunder";
+var mnemonic = "payment gadget defense catalog burger initial grow ship stereo trigger garment amount";

@@ -1,1 +1,1 @@
-var mnemonic = "earth smooth rhythm hospital include antenna window crash lion cook half enforce";
+var mnemonic = "then day diet jar gate trip code circle achieve follow chimney awful";

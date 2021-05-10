@@ -1,1 +1,1 @@
-var mnemonic = "holiday grow path bomb soon purchase trigger kit present enrich alley across";
+var mnemonic = "there deal such major file slow spend capable bus matrix genius tide";

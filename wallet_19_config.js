@@ -1,1 +1,1 @@
-var mnemonic = "problem deputy scatter erase enrich soap apple volcano race bench cousin drastic";
+var mnemonic = "frost twice clarify sentence social organ pelican raw ginger uniform admit push";

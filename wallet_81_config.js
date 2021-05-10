@@ -1,1 +1,1 @@
-var mnemonic = "dune vital winner gravity brand become orbit script bone crawl medal hub";
+var mnemonic = "pause fiscal kiwi undo tube alter cable author garlic prepare margin worry";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe sugar entry faint between ensure guitar flower lottery crop broccoli discover";
+var mnemonic = "during pluck series rubber victory donkey nuclear play diesel salmon repair punch";

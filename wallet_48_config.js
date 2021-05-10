@@ -1,1 +1,1 @@
-var mnemonic = "walk fit liberty south fuel sing prize sorry glimpse route puppy rich";
+var mnemonic = "supreme hospital absent tag sustain scorpion arch steel elder van multiply better";

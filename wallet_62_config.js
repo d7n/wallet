@@ -1,1 +1,1 @@
-var mnemonic = "camp mobile rack usual pink release oppose law fly law pride endless";
+var mnemonic = "fabric surround clap since gesture leader scheme medal twelve sting when fire";

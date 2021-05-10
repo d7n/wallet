@@ -1,1 +1,1 @@
-var mnemonic = "permit glimpse judge stand school fish assume dirt buyer goddess shift local";
+var mnemonic = "tornado dog cram badge bread assume physical angle unfold office able electric";

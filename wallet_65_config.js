@@ -1,1 +1,1 @@
-var mnemonic = "link unknown rail gesture proud middle virtual skill flush cube sibling story";
+var mnemonic = "viable canal right crane thank nation quarter latin phrase dust welcome rubber";

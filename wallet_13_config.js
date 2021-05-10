@@ -1,1 +1,1 @@
-var mnemonic = "bubble hole table burden reduce crisp also joke team void bamboo logic";
+var mnemonic = "census soon defense give cycle left promote chase inner piece bag village";

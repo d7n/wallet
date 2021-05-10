@@ -1,1 +1,1 @@
-var mnemonic = "water lyrics lottery device undo monkey horn initial excite alone library pigeon";
+var mnemonic = "effort soccer involve reform advance gate umbrella trip rack mobile sock quarter";

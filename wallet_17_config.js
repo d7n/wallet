@@ -1,1 +1,1 @@
-var mnemonic = "leaf burden okay buyer ghost gauge green enact index else drill crazy";
+var mnemonic = "size wreck embody record item napkin orphan six nuclear zone sun vivid";

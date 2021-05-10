@@ -1,1 +1,1 @@
-var mnemonic = "cotton license circle cruise canoe engine emotion any fame amused judge you";
+var mnemonic = "glory mimic shock state injury concert game sister point fault lecture weasel";

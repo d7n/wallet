@@ -1,1 +1,1 @@
-var mnemonic = "scissors bounce siren topple market acid visit average mass net tuna lobster";
+var mnemonic = "equip double apart lunch insect dinosaur indoor palm pen glass question solve";

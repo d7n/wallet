@@ -1,1 +1,1 @@
-var mnemonic = "cost web crowd imitate twist turn follow panther tourist enter twenty field";
+var mnemonic = "giant enhance garment fame bless rude spy dune enlist camp during fortune";

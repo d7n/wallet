@@ -1,1 +1,1 @@
-var mnemonic = "uncle parent sort mechanic text crew flight result shrug blur bind end";
+var mnemonic = "bulk friend kitchen sample club income twist steel attack sail solar unfold";

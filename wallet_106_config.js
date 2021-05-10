@@ -1,1 +1,1 @@
-var mnemonic = "present tonight harbor steel slight bind affair notice rocket horse story exhaust";
+var mnemonic = "alert laptop abandon sauce aerobic forget draw hamster midnight spoil leaf stem";

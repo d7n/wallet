@@ -1,1 +1,1 @@
-var mnemonic = "total one immune grant around river accuse flee file gown fog unaware";
+var mnemonic = "dinosaur tunnel wool path advice wolf fitness exhibit wrist valve taste result";

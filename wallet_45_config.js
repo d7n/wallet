@@ -1,1 +1,1 @@
-var mnemonic = "spoon hockey session culture medal dog twist cook click odor opera luxury";
+var mnemonic = "civil priority aisle oblige stone crucial banner cherry spread bag recipe jar";

@@ -1,1 +1,1 @@
-var mnemonic = "owner deny viable index year penalty shed old gift unknown spread exhibit";
+var mnemonic = "hover pioneer retreat cereal still ability tiny time demise stick all borrow";

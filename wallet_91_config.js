@@ -1,1 +1,1 @@
-var mnemonic = "camera observe position reveal legend forget wall excite coach mix large siren";
+var mnemonic = "diesel pupil pottery seek tunnel prison pulse garbage survey food fresh truth";

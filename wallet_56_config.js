@@ -1,1 +1,1 @@
-var mnemonic = "tool sphere home scorpion mechanic plastic illegal bargain session board drift cannon";
+var mnemonic = "anchor voice transfer science smoke host merit civil odor invest merge season";

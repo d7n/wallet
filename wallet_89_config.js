@@ -1,1 +1,1 @@
-var mnemonic = "six start obey patient right since special host cycle month axis arrange";
+var mnemonic = "emotion fish result verify relax suspect grain flag gun alone first wolf";

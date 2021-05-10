@@ -1,1 +1,1 @@
-var mnemonic = "broom beyond rare thought interest absorb divert cancel supply fruit endless still";
+var mnemonic = "slim fashion success broom three opera east tribe permit total assist wagon";

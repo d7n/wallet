@@ -1,1 +1,1 @@
-var mnemonic = "hotel donkey outer deer basket carry machine mule echo rubber pizza clinic";
+var mnemonic = "ten install bamboo ridge license mandate hedgehog mixed link clip aspect uphold";

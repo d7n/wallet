@@ -1,1 +1,1 @@
-var mnemonic = "dentist client summer base trial exotic soccer basket vast slide story result";
+var mnemonic = "seminar addict taste few axis heart whale check nephew method lend use";

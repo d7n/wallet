@@ -1,1 +1,1 @@
-var mnemonic = "dress chicken casino bundle spray coyote camp food fame radar drift treat";
+var mnemonic = "stereo hazard glass vintage local hammer despair lizard useless universe head favorite";

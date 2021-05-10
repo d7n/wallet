@@ -1,1 +1,1 @@
-var mnemonic = "bamboo reject fiscal glad amount tennis high color comic yard retreat spatial";
+var mnemonic = "alert minimum label inspire lawn hip battle fossil glimpse patient bike minor";

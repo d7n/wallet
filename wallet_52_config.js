@@ -1,1 +1,1 @@
-var mnemonic = "there tank they acquire around crush point chaos pottery emotion truly decade";
+var mnemonic = "champion know control position husband dirt upset dog term enough advice rifle";

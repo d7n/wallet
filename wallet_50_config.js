@@ -1,1 +1,1 @@
-var mnemonic = "city nuclear orient asset bicycle project captain alley combine edge flat clown";
+var mnemonic = "enact present traffic wide raw shy glimpse dumb account remind book report";

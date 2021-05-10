@@ -1,1 +1,1 @@
-var mnemonic = "happy velvet sniff shallow heavy laptop parent margin end curve stumble opinion";
+var mnemonic = "critic crisp crane skin noise neck type eternal humor travel dinner gaze";

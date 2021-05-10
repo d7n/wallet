@@ -1,1 +1,1 @@
-var mnemonic = "oyster wise peanut remain seat tornado toss address lake gloom clap easily";
+var mnemonic = "angle civil option order crystal critic roof heavy cherry couple business quote";

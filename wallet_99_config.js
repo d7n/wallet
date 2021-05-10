@@ -1,1 +1,1 @@
-var mnemonic = "ramp umbrella frown blind arrow cotton advance gap firm prevent grape universe";
+var mnemonic = "tired wear lesson garden donor diary kiss obtain inhale unfold crucial mom";

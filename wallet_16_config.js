@@ -1,1 +1,1 @@
-var mnemonic = "spare device legal wing term about hybrid distance chimney peace decline predict";
+var mnemonic = "amateur level thumb sadness absorb one appear idea key gain exhaust immense";

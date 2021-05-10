@@ -1,1 +1,1 @@
-var mnemonic = "now sausage animal ecology shallow cargo advance deposit bounce risk save wise";
+var mnemonic = "fade degree winter tissue ozone toilet slow slight noodle wheel dragon say";

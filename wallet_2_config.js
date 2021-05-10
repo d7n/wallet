@@ -1,1 +1,1 @@
-var mnemonic = "garlic account survey setup faculty icon lonely hidden slice off pride random";
+var mnemonic = "pig tackle whale head pact raven collect sunset require buddy gap aisle";

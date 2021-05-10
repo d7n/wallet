@@ -1,1 +1,1 @@
-var mnemonic = "exit obscure wish weather favorite visit pony crucial barely minor mom word";
+var mnemonic = "laugh pink dwarf page vicious lava clog pencil discover nothing usual force";

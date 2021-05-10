@@ -1,1 +1,1 @@
-var mnemonic = "drama turn arena rely salute grape giraffe menu cabin spread dismiss boil";
+var mnemonic = "dizzy shuffle improve dune team actor soap length riot aerobic govern custom";

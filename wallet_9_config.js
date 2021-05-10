@@ -1,1 +1,1 @@
-var mnemonic = "cave alone fault spider morning street duck current subway wedding unfold gospel";
+var mnemonic = "render result labor robot clog meat photo patrol cement page danger vital";

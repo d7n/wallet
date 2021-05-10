@@ -1,1 +1,1 @@
-var mnemonic = "eternal person bonus couple cube prefer woman second reason caution crazy forum";
+var mnemonic = "hat cinnamon talk exist exist swamp sand sleep mansion level smile sting";

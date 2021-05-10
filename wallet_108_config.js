@@ -1,1 +1,1 @@
-var mnemonic = "wrong surprise stumble gorilla rain credit best sketch glimpse seven protect shoe";
+var mnemonic = "jeans husband hurdle jelly argue language pyramid quiz critic skull egg release";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify lake salute parent leg wing wood uphold grant echo door dust";
+var mnemonic = "fabric spray enemy crisp arm stove puzzle coffee unknown leg stamp magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "rack appear album antique input blood obscure maximum elephant squeeze orange thumb";
+var mnemonic = "cupboard muscle aerobic okay tomorrow fan learn alert police search ahead auto";

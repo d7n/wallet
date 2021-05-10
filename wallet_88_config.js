@@ -1,1 +1,1 @@
-var mnemonic = "drop alert heavy tail fetch palace alone glimpse vehicle bracket favorite proud";
+var mnemonic = "forget jar please rocket develop safe blur anchor pool dumb crystal card";

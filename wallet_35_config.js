@@ -1,1 +1,1 @@
-var mnemonic = "bridge envelope addict you baby winter salmon blind analyst nothing auto wisdom";
+var mnemonic = "armed picture immune slot wing ability invite impulse yellow myself noodle impulse";

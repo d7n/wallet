@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog pool swamp essay exhibit pencil wet whale pluck neither click old";
+var mnemonic = "emerge renew pottery time visit evidence slight fix pact pull solar exotic";

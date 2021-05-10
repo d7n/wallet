@@ -1,1 +1,1 @@
-var mnemonic = "provide sight coconut inherit refuse surprise junk sort topic example wagon winner";
+var mnemonic = "indicate heart tide crush retire gaze earth boil cattle spend sight treat";

@@ -1,1 +1,1 @@
-var mnemonic = "tape toe bounce increase better avocado wine box horse camp west creek";
+var mnemonic = "between area gentle victory height stem final company core fork asset leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "acid drift belt alarm goat monster coil uncover crowd shaft video warm";
+var mnemonic = "welcome project simple enter hazard hollow multiply brick worry chaos cheese soldier";

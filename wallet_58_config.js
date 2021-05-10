@@ -1,1 +1,1 @@
-var mnemonic = "crater alert fossil what tower chat card mercy second purity juice similar";
+var mnemonic = "cook faint concert sauce inherit organ arm flavor tourist turkey truck chat";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut license all detail letter security afford train race shoot pipe ability";
+var mnemonic = "abuse correct wheel fat ribbon bag account rule tortoise blur artwork square";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow length flip decrease zone green often smart grief purpose cream finger";
+var mnemonic = "cost flavor possible toss promote mystery ride million eight gold account hurdle";

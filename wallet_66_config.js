@@ -1,1 +1,1 @@
-var mnemonic = "arrive badge summer hole loan stool test round cattle solid deputy acquire";
+var mnemonic = "gold cereal pigeon pumpkin acid people tunnel number camera raccoon choose emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "steel pave fury slow poem immense ostrich junior seat basic autumn milk";
+var mnemonic = "volcano disease drive manual romance federal occur frog orient among champion under";

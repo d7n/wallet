@@ -1,1 +1,1 @@
-var mnemonic = "silk verify treat decrease nut crack prize shoot pistol call name become";
+var mnemonic = "chapter slender direct script decorate grid man remain innocent license mother dune";

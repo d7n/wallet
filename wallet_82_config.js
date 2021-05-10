@@ -1,1 +1,1 @@
-var mnemonic = "ketchup fault pencil dish multiply shallow hip arch quick depend rhythm head";
+var mnemonic = "quick gasp strong habit smoke trick toward choose end ugly runway adjust";

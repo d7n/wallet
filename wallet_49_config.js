@@ -1,1 +1,1 @@
-var mnemonic = "electric utility stick barrel tiny ladder alone ritual they panther twelve bulk";
+var mnemonic = "draft vital actual total slogan bachelor tenant tumble scheme congress narrow today";

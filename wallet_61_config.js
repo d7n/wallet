@@ -1,1 +1,1 @@
-var mnemonic = "quantum swim distance pencil sheriff ramp bronze snake pipe message camp review";
+var mnemonic = "ivory strike bitter guard border predict border cushion vote rebuild raccoon glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "amused remember heart leaf pupil exist floor inspire expire release involve rookie";
+var mnemonic = "together finger swift desk oven enjoy royal lab retreat mother hint vanish";
