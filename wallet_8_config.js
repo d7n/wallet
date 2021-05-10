@@ -1,1 +1,1 @@
-var mnemonic = "public identify mimic man slab student poverty assault bullet copper mom display";
+var mnemonic = "spider learn torch turn plate subway waste grass link try rabbit elbow";

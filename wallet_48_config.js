@@ -1,1 +1,1 @@
-var mnemonic = "harvest assist duck capital monkey clarify sadness load follow rescue history baby";
+var mnemonic = "galaxy various board orphan evidence blush edge ten build near broken swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "devote diet essay six nephew possible luxury wasp toast correct army snack";
+var mnemonic = "forum autumn strike kind video swift festival weasel poverty adult story pistol";

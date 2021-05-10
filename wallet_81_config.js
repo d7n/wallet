@@ -1,1 +1,1 @@
-var mnemonic = "lyrics ordinary offer dismiss debris gentle cushion popular family aunt certain equal";
+var mnemonic = "then creek retreat lottery knee flee outdoor couple debris barrel trouble over";

@@ -1,1 +1,1 @@
-var mnemonic = "talent sock era oven object season eager sheriff mind reject speed crucial";
+var mnemonic = "spy ahead wet point novel culture little clip soap easy travel festival";

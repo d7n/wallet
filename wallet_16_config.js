@@ -1,1 +1,1 @@
-var mnemonic = "critic fix brother food protect sorry lucky crystal liar apple feed text";
+var mnemonic = "wasp pride subject fiscal average school include consider shiver cotton lounge radar";

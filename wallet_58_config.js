@@ -1,1 +1,1 @@
-var mnemonic = "ivory bone dawn tube clip example dad mobile gift palm door original";
+var mnemonic = "electric bounce grit wedding silent prison receive foot raven gap circle scheme";

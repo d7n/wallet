@@ -1,1 +1,1 @@
-var mnemonic = "hotel bomb gain concert online swamp legal fly patrol science alpha market";
+var mnemonic = "draw siren canvas culture gorilla age news roast liquid smooth notice brush";

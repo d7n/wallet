@@ -1,1 +1,1 @@
-var mnemonic = "build basic march exotic remind refuse easy alarm output glare any time";
+var mnemonic = "paddle unlock anger shiver afraid tool run brisk tooth provide corn crumble";

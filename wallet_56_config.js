@@ -1,1 +1,1 @@
-var mnemonic = "anxiety plastic equal alert judge pet rent spawn judge risk blouse coach";
+var mnemonic = "sure eagle metal diesel industry elegant scatter mesh fix cancel share silver";

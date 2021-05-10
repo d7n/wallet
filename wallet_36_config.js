@@ -1,1 +1,1 @@
-var mnemonic = "vivid output depend race summer clerk stool wolf clown green riot fiction";
+var mnemonic = "size cruise text earth tumble live cloth sign bicycle athlete chair wrap";

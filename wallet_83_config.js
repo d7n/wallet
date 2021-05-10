@@ -1,1 +1,1 @@
-var mnemonic = "yellow zone expand soap boat cash grab hurt doctor click brief bacon";
+var mnemonic = "hill system spawn actor moment account away into satisfy federal student quote";

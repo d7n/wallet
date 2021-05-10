@@ -1,1 +1,1 @@
-var mnemonic = "rice another cousin wise school funny connect tray first poet zone kidney";
+var mnemonic = "alien knock swim enemy rack add dial symptom hidden wild leisure gather";

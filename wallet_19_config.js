@@ -1,1 +1,1 @@
-var mnemonic = "wagon dog magic fiber secret kitchen alter lake dry stick conduct clinic";
+var mnemonic = "clinic what build begin unique hurry slush deliver cabbage height stereo detail";

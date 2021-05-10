@@ -1,1 +1,1 @@
-var mnemonic = "flip lemon fence rude pigeon upon skull shoot marble thunder tattoo lazy";
+var mnemonic = "require able often envelope door motor pitch comfort true pulse prefer carry";

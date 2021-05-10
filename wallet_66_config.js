@@ -1,1 +1,1 @@
-var mnemonic = "hat evolve noise client vehicle pear present roast embody time spell mountain";
+var mnemonic = "leaf sudden home lawn avoid resist recall truth hint pull essence total";

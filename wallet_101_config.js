@@ -1,1 +1,1 @@
-var mnemonic = "other aim oxygen half project number fish cup shield snake tennis decrease";
+var mnemonic = "useless palm once lumber sample leader youth ribbon degree dog great patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "address favorite inside bridge boost gallery purchase lizard spare donkey squirrel salmon";
+var mnemonic = "vacuum reward about absorb found under kingdom police base sound rebel cement";

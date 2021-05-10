@@ -1,1 +1,1 @@
-var mnemonic = "spring cricket much fiction drift hello artwork pink erode lens load orbit";
+var mnemonic = "increase spike decline remember crunch park museum roast leopard ability belt ridge";

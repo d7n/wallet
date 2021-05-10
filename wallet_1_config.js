@@ -1,1 +1,1 @@
-var mnemonic = "garage cluster tourist supply vague live century desert crack boat planet rack";
+var mnemonic = "army lawn bamboo gorilla upset appear sugar predict same until dust emotion";

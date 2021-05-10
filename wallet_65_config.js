@@ -1,1 +1,1 @@
-var mnemonic = "beach scan purpose point success powder earn wrap nominee keen venture dumb";
+var mnemonic = "protect melt chuckle tongue category repair man abuse false concert sun stem";

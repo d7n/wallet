@@ -1,1 +1,1 @@
-var mnemonic = "spice figure tank lock dragon napkin list print dilemma furnace time midnight";
+var mnemonic = "deal stone middle off potato matrix slight immense spin total service toy";

@@ -1,1 +1,1 @@
-var mnemonic = "tired state prison hollow pet sauce emerge soccer soccer control gain concert";
+var mnemonic = "poverty dice push blame jump together tragic vague joke defense draw nerve";

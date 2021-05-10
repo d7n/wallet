@@ -1,1 +1,1 @@
-var mnemonic = "nuclear style voice measure pipe muscle clutch bike olympic try cry solution";
+var mnemonic = "measure test guitar dial since matrix derive reflect drop avocado tool comfort";

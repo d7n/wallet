@@ -1,1 +1,1 @@
-var mnemonic = "turtle fury surge man game connect direct bamboo toast cake nominee uniform";
+var mnemonic = "blossom bracket valve gather pioneer hen rib recipe river visit wise width";

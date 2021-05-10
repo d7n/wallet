@@ -1,1 +1,1 @@
-var mnemonic = "cover turn around express index wide toilet evolve have era daring future";
+var mnemonic = "alert stage legal foster outside electric shy cigar soul scene twenty baby";

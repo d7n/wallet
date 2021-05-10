@@ -1,1 +1,1 @@
-var mnemonic = "stadium bitter range chapter extend true sell guard output fit ranch fade";
+var mnemonic = "save accuse person finish crawl digital thunder brand someone end adapt human";

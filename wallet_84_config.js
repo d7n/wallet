@@ -1,1 +1,1 @@
-var mnemonic = "jelly usual master spend good auction bread extra poverty minor trouble void";
+var mnemonic = "there silent inner under will garlic entire film dinosaur fatal swim frozen";

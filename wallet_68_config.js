@@ -1,1 +1,1 @@
-var mnemonic = "advance kiwi job kidney inform symptom wisdom eagle pledge digital illegal patient";
+var mnemonic = "crater impose void dignity pledge vocal race merry ill cactus cloud urge";

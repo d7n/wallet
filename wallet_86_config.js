@@ -1,1 +1,1 @@
-var mnemonic = "stove scale rude cream evil first achieve mask husband congress cute visit";
+var mnemonic = "affair muscle wrist planet eagle rural dumb harvest drive render merry exhibit";

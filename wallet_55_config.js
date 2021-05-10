@@ -1,1 +1,1 @@
-var mnemonic = "spray session lazy upset leg turkey gasp smoke select ghost credit daughter";
+var mnemonic = "off salon vicious balance inhale fiscal rack draft what tortoise enter exotic";

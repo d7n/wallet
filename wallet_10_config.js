@@ -1,1 +1,1 @@
-var mnemonic = "cluster cluster proof year noodle dignity maple airport butter brass kite congress";
+var mnemonic = "host agree small nothing employ sunset window flip label raw omit simple";

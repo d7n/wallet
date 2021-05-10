@@ -1,1 +1,1 @@
-var mnemonic = "inquiry fluid width bubble awesome liquid twice tent destroy naive gallery capital";
+var mnemonic = "aspect crack thumb access glove orange sure author evolve correct mirror deliver";

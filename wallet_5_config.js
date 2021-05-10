@@ -1,1 +1,1 @@
-var mnemonic = "just figure firm shine garment grid piece alarm eyebrow clay clutch nasty";
+var mnemonic = "delay drastic garbage city bus violin frog image slender client glove security";

@@ -1,1 +1,1 @@
-var mnemonic = "honey cram orient beauty argue govern ostrich bus roast wink wear satisfy";
+var mnemonic = "place pond wheel smile snack exclude awesome army oyster train recipe exchange";

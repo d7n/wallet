@@ -1,1 +1,1 @@
-var mnemonic = "fruit sand chimney artefact orchard daring friend believe muscle puzzle naive tornado";
+var mnemonic = "doll split cash three obscure eager hope city that capable enrich use";

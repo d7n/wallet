@@ -1,1 +1,1 @@
-var mnemonic = "seminar payment opera slot suggest render giggle carbon system rocket raven castle";
+var mnemonic = "acoustic amused beyond glow spoon question desk excess exist grow panel lift";

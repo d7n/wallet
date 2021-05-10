@@ -1,1 +1,1 @@
-var mnemonic = "proof purity sense spend suggest field base grain human shuffle dream faith";
+var mnemonic = "cause only train tilt mosquito machine vital art between kick boil doll";

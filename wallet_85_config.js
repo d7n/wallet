@@ -1,1 +1,1 @@
-var mnemonic = "correct suffer head taxi essay tourist act kit notable ship virtual enemy";
+var mnemonic = "dream mixture magnet artwork only weather man intact garlic garden prepare train";

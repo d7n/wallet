@@ -1,1 +1,1 @@
-var mnemonic = "churn scrap wait current buyer final about wool august gun practice stage";
+var mnemonic = "giant name clean market typical matter resource leisure win fashion vendor riot";

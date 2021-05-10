@@ -1,1 +1,1 @@
-var mnemonic = "any next twin name bargain two soup guide quiz smart clerk vapor";
+var mnemonic = "adapt liquid fire symbol reveal cram call company nose wage young blame";

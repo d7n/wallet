@@ -1,1 +1,1 @@
-var mnemonic = "penalty twin chunk mad steel width awesome soul frown caught measure fortune";
+var mnemonic = "nut orchard razor input front zoo hidden horse lemon mystery chest dune";

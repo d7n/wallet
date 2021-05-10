@@ -1,1 +1,1 @@
-var mnemonic = "erupt armed ski expire smart permit narrow miracle benefit ahead blood salon";
+var mnemonic = "vicious imitate stable session track gaze zone squeeze warfare evidence hub normal";

@@ -1,1 +1,1 @@
-var mnemonic = "stone country junior dune window abandon dragon must trophy simple elevator neck";
+var mnemonic = "betray arrest agree more fortune drink truck select entry talk hill evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "slice scout host repair casino pink spatial glance junior waste team whisper";
+var mnemonic = "manage fan heavy holiday middle trust lunar utility clip fold benefit chest";

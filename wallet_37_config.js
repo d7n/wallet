@@ -1,1 +1,1 @@
-var mnemonic = "valley method smoke garment position symbol blade dragon mirror enlist tattoo resemble";
+var mnemonic = "poem joy foil differ fever view valid foot bacon glance ready timber";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak parent since fence front detect inform razor zebra fever juice again";
+var mnemonic = "skirt fragile citizen property gate shoot car situate voyage web anger symptom";

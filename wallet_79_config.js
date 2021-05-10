@@ -1,1 +1,1 @@
-var mnemonic = "toss whale notable evil theory vague report cream symbol junk print monitor";
+var mnemonic = "bean toast gaze buzz talent piano letter sting bean sun jump verify";

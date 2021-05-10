@@ -1,1 +1,1 @@
-var mnemonic = "require finger drip name panel hurry credit soda globe raw push flight";
+var mnemonic = "social machine picture empower long steel process build apology collect scan target";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler brush chase gaze glow blast deny fall laugh grow poet ball";
+var mnemonic = "bench frown frog dignity exist squeeze resist insect blur warm muffin achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "era raccoon genre mountain erosion calm cluster spawn husband gospel outer pencil";
+var mnemonic = "now more repair random welcome oblige purchase total accident corn collect clog";

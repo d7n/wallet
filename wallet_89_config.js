@@ -1,1 +1,1 @@
-var mnemonic = "phrase way achieve setup okay green mention wrist frozen over sunset brain";
+var mnemonic = "hero write wool surge brown tackle topple citizen elevator spy since climb";

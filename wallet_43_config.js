@@ -1,1 +1,1 @@
-var mnemonic = "dress play parrot video ghost dust arrange artwork fortune wealth truth blur";
+var mnemonic = "crash drive excuse envelope cruel winner south best balcony sleep tongue mix";

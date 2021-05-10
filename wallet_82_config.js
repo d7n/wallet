@@ -1,1 +1,1 @@
-var mnemonic = "broccoli palace gospel disease inflict wish episode foam develop before rice olive";
+var mnemonic = "sure shallow version thing survey lonely frog hire jacket man document rocket";

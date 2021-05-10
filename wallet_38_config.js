@@ -1,1 +1,1 @@
-var mnemonic = "submit prize thrive black ill lobster layer wash wealth night like lawsuit";
+var mnemonic = "evidence asthma faith inform hurt daughter disagree little gasp shield humble easily";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve hospital tackle hero monitor relax potato victory ten coin theme warrior";
+var mnemonic = "kingdom talent saddle stairs point shrug glimpse network snap blossom trash marble";

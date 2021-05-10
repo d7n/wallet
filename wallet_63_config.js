@@ -1,1 +1,1 @@
-var mnemonic = "fix wire sort swim nephew false torch obvious chat muscle health sun";
+var mnemonic = "taste picnic inquiry census acoustic glue resemble grab suffer height cherry network";

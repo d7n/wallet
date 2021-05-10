@@ -1,1 +1,1 @@
-var mnemonic = "winner torch piano exclude north praise siren tube sauce tool image announce";
+var mnemonic = "trash poet basic siren laundry price response shift lift dizzy around snap";

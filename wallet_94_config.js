@@ -1,1 +1,1 @@
-var mnemonic = "avoid bullet conduct grid debate boat bacon wheel upgrade fantasy offer side";
+var mnemonic = "forum shrug humble weather announce arena away account round lounge police spin";

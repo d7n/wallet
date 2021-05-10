@@ -1,1 +1,1 @@
-var mnemonic = "real organ gas food hand dizzy stay siren bless thank minute athlete";
+var mnemonic = "fresh you stairs lamp discover pretty odor say dream depart clock dinner";

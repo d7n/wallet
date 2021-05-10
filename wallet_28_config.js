@@ -1,1 +1,1 @@
-var mnemonic = "ethics smile wreck raw spider father book issue cheap credit now pass";
+var mnemonic = "jeans wash beach october pipe second tobacco good fetch isolate ready erosion";

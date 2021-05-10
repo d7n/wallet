@@ -1,1 +1,1 @@
-var mnemonic = "chalk crisp dream long fox fresh jazz rabbit tobacco vehicle chief route";
+var mnemonic = "agent begin pattern share argue orbit perfect raven chef march note brand";

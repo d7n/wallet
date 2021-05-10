@@ -1,1 +1,1 @@
-var mnemonic = "away profit party speak arrest major meadow eager swallow neck save genre";
+var mnemonic = "surge tag choose flock jazz since skin any sister tackle bulk firm";

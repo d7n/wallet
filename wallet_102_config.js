@@ -1,1 +1,1 @@
-var mnemonic = "idea bright motor couch unable inquiry trial judge strong twenty fiscal retire";
+var mnemonic = "narrow bubble income leisure romance damage castle around noble obtain essay warm";

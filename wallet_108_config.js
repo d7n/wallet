@@ -1,1 +1,1 @@
-var mnemonic = "monkey shallow trick melt item oyster post payment concert inspire glance steak";
+var mnemonic = "awkward place slow put panther sting main usual dwarf sure help blossom";

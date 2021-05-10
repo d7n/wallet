@@ -1,1 +1,1 @@
-var mnemonic = "must fringe plug device car august insect oval piano learn object donate";
+var mnemonic = "enable ketchup harsh giraffe public joy strong claim van arch worth ripple";

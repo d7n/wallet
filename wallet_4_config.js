@@ -1,1 +1,1 @@
-var mnemonic = "rate trash involve near armed coach begin car forest attract tape machine";
+var mnemonic = "olive gauge jelly remove balcony winter mansion ritual surge dolphin over giggle";

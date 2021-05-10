@@ -1,1 +1,1 @@
-var mnemonic = "cargo unique old pull panda quarter claim course vicious discover today season";
+var mnemonic = "soon attend afford area trip syrup void rigid furnace amused guilt lamp";

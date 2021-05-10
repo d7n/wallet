@@ -1,1 +1,1 @@
-var mnemonic = "grab chapter lens shoe later rude fabric plug process hip occur recall";
+var mnemonic = "master actress cereal drip tackle luggage view lottery hole filter convince canal";

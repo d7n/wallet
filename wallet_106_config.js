@@ -1,1 +1,1 @@
-var mnemonic = "reduce comic man strike estate drill mammal fantasy pony consider soup control";
+var mnemonic = "frog define valley about media clerk exile pyramid boss fog armed crush";

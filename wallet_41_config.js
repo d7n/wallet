@@ -1,1 +1,1 @@
-var mnemonic = "toilet surround coffee cash fan food board celery promote face angry bring";
+var mnemonic = "net retreat loan calm other fever kingdom field crucial deal prison mutual";

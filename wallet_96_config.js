@@ -1,1 +1,1 @@
-var mnemonic = "resist news supply inform surface express moral future tourist tell kitten airport";
+var mnemonic = "hope grid mushroom ancient insane electric omit april ship oven sleep prison";

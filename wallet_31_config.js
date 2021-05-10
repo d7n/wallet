@@ -1,1 +1,1 @@
-var mnemonic = "hair crowd van injury unit entire coconut original exit bargain ladder clerk";
+var mnemonic = "taste pulp vocal worth seek blind rifle expect salon anxiety inflict bleak";

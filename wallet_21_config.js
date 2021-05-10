@@ -1,1 +1,1 @@
-var mnemonic = "fame custom diagram foam please review coach load door picture rifle fruit";
+var mnemonic = "alone dress ostrich oyster discover fortune gown gift flavor faculty rural satoshi";

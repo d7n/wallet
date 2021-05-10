@@ -1,1 +1,1 @@
-var mnemonic = "dress custom certain knock unveil casino calm course evoke they pull fold";
+var mnemonic = "siege matter motor embark frequent spy long crater hill tool bean pink";

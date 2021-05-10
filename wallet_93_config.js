@@ -1,1 +1,1 @@
-var mnemonic = "mirror endless student margin depend glue wine exotic film area worry cover";
+var mnemonic = "dream choose hundred feed deliver power harbor soldier almost duty reopen tank";

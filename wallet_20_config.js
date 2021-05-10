@@ -1,1 +1,1 @@
-var mnemonic = "uncle sight medal used treat marble miracle brush fancy grief burden push";
+var mnemonic = "season tilt hint tip canoe chief muscle shove absorb snake guide citizen";

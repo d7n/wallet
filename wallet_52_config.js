@@ -1,1 +1,1 @@
-var mnemonic = "crop bring just track mail weapon matter faint keen cute ahead universe";
+var mnemonic = "small view shy alpha cousin year dwarf market bitter bulb oyster portion";

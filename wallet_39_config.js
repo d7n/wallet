@@ -1,1 +1,1 @@
-var mnemonic = "hospital lyrics toilet devote glide cart drip hobby play galaxy remain flag";
+var mnemonic = "creek cheap hole tuition vehicle avocado blood impose wide fade refuse stool";

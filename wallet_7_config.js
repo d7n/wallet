@@ -1,1 +1,1 @@
-var mnemonic = "pigeon glove please maximum unit boring action below friend kitten way dizzy";
+var mnemonic = "visit inflict gift husband chase afford forward chef voyage tired flag drive";

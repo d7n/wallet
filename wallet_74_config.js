@@ -1,1 +1,1 @@
-var mnemonic = "loop deny record fossil wink zero vehicle lumber public sister echo chat";
+var mnemonic = "head trust blanket sleep wagon drastic yard buyer brief tired portion afford";

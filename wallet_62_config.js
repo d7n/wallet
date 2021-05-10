@@ -1,1 +1,1 @@
-var mnemonic = "cry chuckle vicious tool similar know hood produce feed where abstract crash";
+var mnemonic = "below into absorb yard about deal unique between dance dune endorse ship";

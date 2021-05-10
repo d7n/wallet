@@ -1,1 +1,1 @@
-var mnemonic = "success animal manual relief clarify evidence carbon toilet music satoshi endless undo";
+var mnemonic = "tissue limit ecology fruit palace doctor expect relax quality useless business soldier";

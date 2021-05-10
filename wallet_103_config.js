@@ -1,1 +1,1 @@
-var mnemonic = "box mimic noise vocal paddle food upgrade develop tunnel casino scheme climb";
+var mnemonic = "together help wreck loud wrap discover arctic lemon stock shiver man roast";

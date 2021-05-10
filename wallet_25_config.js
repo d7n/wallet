@@ -1,1 +1,1 @@
-var mnemonic = "mammal hungry grit slush smoke inside amateur victory federal team romance promote";
+var mnemonic = "answer sing evidence satoshi small require hand open maple loan ring ripple";

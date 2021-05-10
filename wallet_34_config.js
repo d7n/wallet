@@ -1,1 +1,1 @@
-var mnemonic = "angry organ amateur capital paddle lava ugly flight flight glove patrol convince";
+var mnemonic = "bird current deliver dinner crazy tape permit creek diet program grid worth";

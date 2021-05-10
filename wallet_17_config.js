@@ -1,1 +1,1 @@
-var mnemonic = "pretty when day wish act bean ignore twin enable term ostrich dad";
+var mnemonic = "craft finish gap tunnel dose argue sad auction gate live palace obscure";

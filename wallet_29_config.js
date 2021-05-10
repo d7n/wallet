@@ -1,1 +1,1 @@
-var mnemonic = "pulse surprise night laptop client alley same frog sun file cement reunion";
+var mnemonic = "dumb labor avocado giant angry damage devote cover truck device circle hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb expect army vacant donate foil verify creek manual aunt universe coral";
+var mnemonic = "derive bike sell tunnel movie example vote person puzzle assume alert arena";
