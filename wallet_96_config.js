@@ -1,1 +1,1 @@
-var mnemonic = "allow entry orient prison lamp under uncle display fragile skate always elite";
+var mnemonic = "setup expect belt jungle fade icon sad index suggest truly document clog";

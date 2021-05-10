@@ -1,1 +1,1 @@
-var mnemonic = "flock jar cost frequent neglect jungle agree magnet track victory quote puppy";
+var mnemonic = "bind trend holiday sing merge pistol width glide ripple energy ready pear";

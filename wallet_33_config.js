@@ -1,1 +1,1 @@
-var mnemonic = "birth fish bulk guitar square praise ladder true eight lounge oak insane";
+var mnemonic = "pottery upon close ensure excuse scrap palace asset trend quantum snow must";

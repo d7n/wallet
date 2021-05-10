@@ -1,1 +1,1 @@
-var mnemonic = "alley copy benefit raccoon clock basket dragon enemy plunge expect secret promote";
+var mnemonic = "relax thought until welcome village identify angry used cancel camp sauce opera";

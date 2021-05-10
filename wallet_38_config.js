@@ -1,1 +1,1 @@
-var mnemonic = "proud oil annual then round dismiss affair critic message tumble empty exist";
+var mnemonic = "guilt grunt bargain minor retreat gospel actress motor purse slam voyage major";

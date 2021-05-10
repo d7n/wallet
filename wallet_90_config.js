@@ -1,1 +1,1 @@
-var mnemonic = "globe struggle desk return grant potato claw divide recall crew squeeze problem";
+var mnemonic = "skate arrest umbrella immense pact struggle flower giraffe venue item snap copy";

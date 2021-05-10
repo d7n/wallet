@@ -1,1 +1,1 @@
-var mnemonic = "describe domain balcony mail cram little human thunder vault draft cushion dish";
+var mnemonic = "food lamp siege exact elbow century staff ball left what hedgehog orbit";

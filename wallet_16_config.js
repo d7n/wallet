@@ -1,1 +1,1 @@
-var mnemonic = "glue joke problem food trumpet earth use enforce major addict era dress";
+var mnemonic = "actual table goat soup interest pen slot speak climb patrol ecology hidden";

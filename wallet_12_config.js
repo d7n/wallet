@@ -1,1 +1,1 @@
-var mnemonic = "extend announce call bridge furnace trial link upper surge pool scheme syrup";
+var mnemonic = "excite reunion memory canal cup work crater caught move spatial boring weekend";

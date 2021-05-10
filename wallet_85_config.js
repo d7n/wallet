@@ -1,1 +1,1 @@
-var mnemonic = "sweet believe spice corn diesel index horror jump novel small negative polar";
+var mnemonic = "vessel seven lesson south fee click grass negative trophy reflect naive stock";

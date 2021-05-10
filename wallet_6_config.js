@@ -1,1 +1,1 @@
-var mnemonic = "village pluck lawn trend mom stone achieve borrow marble absent funny couple";
+var mnemonic = "expand purpose element guess victory more teach stairs cannon small wool crew";

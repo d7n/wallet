@@ -1,1 +1,1 @@
-var mnemonic = "wide anger mad fruit analyst cave language cool damp dolphin loud boil";
+var mnemonic = "brown divide portion benefit bench obscure layer exact raw relax useless toss";

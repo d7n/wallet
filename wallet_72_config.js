@@ -1,1 +1,1 @@
-var mnemonic = "region another hedgehog multiply bulb note misery elder veteran crime heart update";
+var mnemonic = "dove mix sad nothing web milk jar umbrella champion vanish artwork debris";

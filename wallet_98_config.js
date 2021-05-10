@@ -1,1 +1,1 @@
-var mnemonic = "truck upon jaguar either together twelve erosion profit thunder amazing brand wave";
+var mnemonic = "traffic clip hip essay mind man option legal lesson taxi below huge";

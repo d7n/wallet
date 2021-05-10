@@ -1,1 +1,1 @@
-var mnemonic = "galaxy impulse invest name reunion walnut explain message hover credit call toast";
+var mnemonic = "donate auction judge bid devote ketchup access soft rose invite demand lawn";

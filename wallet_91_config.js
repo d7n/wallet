@@ -1,1 +1,1 @@
-var mnemonic = "sea blanket pulp source acid pool view note hunt focus boy nation";
+var mnemonic = "weekend innocent client filter damage turn train dish sword mercy unaware source";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt fragile sorry peasant path blur uncover sail lyrics define apart pill";
+var mnemonic = "uncover jealous tail arena brave mass fresh palm target visit volume border";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak pistol under burger wish captain attend balcony swing arrange demise trend";
+var mnemonic = "veteran trash lift correct pool list pudding vessel quiz enrich cup idle";

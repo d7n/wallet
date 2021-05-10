@@ -1,1 +1,1 @@
-var mnemonic = "salad solve front sport develop coconut solve mask track offer risk arrest";
+var mnemonic = "reason bacon flush silly frog wisdom hidden genre chalk divorce soup argue";

@@ -1,1 +1,1 @@
-var mnemonic = "empty trip grab staff desk arctic depend thing special work virtual wedding";
+var mnemonic = "perfect capital group connect gallery lazy priority lecture trade beauty trend endorse";

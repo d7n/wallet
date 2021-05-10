@@ -1,1 +1,1 @@
-var mnemonic = "bid defense chalk latin swear dish silly announce make cheap town film";
+var mnemonic = "okay zero idea sunset argue garage music warfare skull talk permit march";

@@ -1,1 +1,1 @@
-var mnemonic = "process riot refuse volume faculty loop orient decade scare enough claim derive";
+var mnemonic = "region recall smooth ignore security strike hope silly income conduct lecture chuckle";

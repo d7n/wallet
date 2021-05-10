@@ -1,1 +1,1 @@
-var mnemonic = "luggage tortoise thank fancy exhibit story head water stand exclude simple stand";
+var mnemonic = "brain mango orange paddle search tiny tragic lottery enforce abuse eye mass";

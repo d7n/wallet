@@ -1,1 +1,1 @@
-var mnemonic = "tooth shield loud option chase clutch addict transfer bread false stand visa";
+var mnemonic = "divorce miracle gesture palm vehicle laugh glare regular bunker slow begin very";

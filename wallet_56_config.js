@@ -1,1 +1,1 @@
-var mnemonic = "large sleep wrap pull skirt moral drop melt drip profit pulse team";
+var mnemonic = "script vanish list giant diagram east orange crane point clap olive midnight";

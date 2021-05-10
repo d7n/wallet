@@ -1,1 +1,1 @@
-var mnemonic = "diagram endless much crew hurdle inject toast chunk belt half caution fetch";
+var mnemonic = "north achieve barrel daughter cross path shaft sunset human welcome resource sting";

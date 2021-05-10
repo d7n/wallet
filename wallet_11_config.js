@@ -1,1 +1,1 @@
-var mnemonic = "machine tunnel goat seminar attack warfare genuine firm pony panic swift asset";
+var mnemonic = "rural myself typical discover armor globe mother nurse injury excess width clarify";

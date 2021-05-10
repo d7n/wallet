@@ -1,1 +1,1 @@
-var mnemonic = "ozone toast bundle dove smart hidden smoke cabin garlic strong word myth";
+var mnemonic = "air evidence cart weird ship bar enable arch danger whale snake key";

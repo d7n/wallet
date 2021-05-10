@@ -1,1 +1,1 @@
-var mnemonic = "stumble collect sustain artefact urge damp net tired cable spike dizzy stove";
+var mnemonic = "visit hurry circle omit sorry obey awful stock vapor laundry finger pledge";

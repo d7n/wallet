@@ -1,1 +1,1 @@
-var mnemonic = "suit sort phrase popular home walk vapor poverty connect game cabin walnut";
+var mnemonic = "report human project private estate civil eight interest magnet despair hen current";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse hazard honey service evoke animal smoke rack shove elephant awful vehicle";
+var mnemonic = "code mixed fresh baby casual stage under sand member churn symbol win";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk coffee pigeon laundry south magic describe slice tooth paper width cross";
+var mnemonic = "flock weasel square weapon theory blade spread cake crawl coast race fly";

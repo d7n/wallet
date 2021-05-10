@@ -1,1 +1,1 @@
-var mnemonic = "into tennis onion lesson sting rice time attend box ostrich novel roast";
+var mnemonic = "prevent that just range express fee cost machine mule resource pledge fetch";

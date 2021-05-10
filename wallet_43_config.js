@@ -1,1 +1,1 @@
-var mnemonic = "gown grocery arch spread myself wash model session rice gap safe trash";
+var mnemonic = "lonely carry skate pear isolate path peanut include film victory palace text";

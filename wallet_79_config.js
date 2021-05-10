@@ -1,1 +1,1 @@
-var mnemonic = "caught group feed canvas legend truck broccoli follow erase legal casual hurry";
+var mnemonic = "route enrich despair emotion syrup ask tooth drop square tongue spare merit";

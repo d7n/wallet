@@ -1,1 +1,1 @@
-var mnemonic = "giant assume indicate resource owner unique flame wait moon focus render another";
+var mnemonic = "light height forest sail scare liar emotion catalog outdoor quality merry muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "view accident embody chronic cricket good ankle flash thought tube neglect include";
+var mnemonic = "sea rule wink happy cherry common flock ceiling answer champion range dignity";

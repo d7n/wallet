@@ -1,1 +1,1 @@
-var mnemonic = "tribe tube speak worth check bulb rib coach assault pet robot defy";
+var mnemonic = "interest oven onion social attitude range symptom copper breeze blood disagree ask";

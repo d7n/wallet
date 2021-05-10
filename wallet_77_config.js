@@ -1,1 +1,1 @@
-var mnemonic = "circle split fluid hollow into unfair street business follow weird history barrel";
+var mnemonic = "muffin gold lecture cover lawsuit diet divide arrow private visit quarter lucky";

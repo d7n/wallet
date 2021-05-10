@@ -1,1 +1,1 @@
-var mnemonic = "vocal casino metal blur all similar van aisle toward cover happy midnight";
+var mnemonic = "dismiss raven cousin riot learn kitchen table unit rain rescue number ice";

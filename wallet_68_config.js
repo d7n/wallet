@@ -1,1 +1,1 @@
-var mnemonic = "area chicken fine spawn foster sauce stool gaze shrug drift mobile click";
+var mnemonic = "orient hamster conduct robot faint slab jazz skirt disagree short hurry garden";

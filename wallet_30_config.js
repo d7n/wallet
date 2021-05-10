@@ -1,1 +1,1 @@
-var mnemonic = "sweet initial initial company glove essence link split opera reunion initial easy";
+var mnemonic = "sort absorb movie brass control wood spoil mom sea finish idea flower";

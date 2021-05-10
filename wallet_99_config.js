@@ -1,1 +1,1 @@
-var mnemonic = "exit soldier moment bench afford violin odor sock stone whip approve alone";
+var mnemonic = "sort machine until father antenna achieve polar double rose digital laptop solve";

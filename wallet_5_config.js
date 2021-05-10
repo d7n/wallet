@@ -1,1 +1,1 @@
-var mnemonic = "special butter lunch scatter skin spray exile strategy useless hamster blur naive";
+var mnemonic = "task force cannon noise visa all stone answer venue flash habit answer";

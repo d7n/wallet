@@ -1,1 +1,1 @@
-var mnemonic = "field develop exit ghost gasp exchange swift intact gorilla aware puppy gift";
+var mnemonic = "spring prosper okay icon junior injury decide sea flag direct access venue";

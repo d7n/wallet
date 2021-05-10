@@ -1,1 +1,1 @@
-var mnemonic = "ability pepper pave clinic oblige nephew fee tunnel frozen capital raise main";
+var mnemonic = "avoid excite twenty gallery sea escape recall economy furnace neither cube story";

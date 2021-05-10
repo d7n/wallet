@@ -1,1 +1,1 @@
-var mnemonic = "angle increase relief allow usual island slogan ghost man cube clown boost";
+var mnemonic = "ketchup pet female sign exclude frequent matter slide exclude beach alcohol result";

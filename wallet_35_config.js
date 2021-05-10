@@ -1,1 +1,1 @@
-var mnemonic = "air rib believe slot verify bar patient fox pass village trend city";
+var mnemonic = "hammer baby clip describe certain lottery exhaust logic essay wire film december";

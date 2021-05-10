@@ -1,1 +1,1 @@
-var mnemonic = "segment mean cement shaft repeat fragile wool rebuild road column fine design";
+var mnemonic = "bone tackle behave goose shop napkin slush badge talent awake magic cross";

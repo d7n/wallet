@@ -1,1 +1,1 @@
-var mnemonic = "tackle price trick jeans embrace cloth forward almost gift label pride prefer";
+var mnemonic = "host focus into light lazy journey achieve ladder skill certain cover happy";

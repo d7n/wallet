@@ -1,1 +1,1 @@
-var mnemonic = "tenant mansion gloom arctic silent receive fun stick reward multiply window observe";
+var mnemonic = "there can ticket there maid vault soldier legal wagon scrap finish universe";

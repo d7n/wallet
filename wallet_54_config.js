@@ -1,1 +1,1 @@
-var mnemonic = "danger cherry north pig laugh tired topic bomb true skirt dynamic congress";
+var mnemonic = "tip cruise agent harbor zoo mule manual control shell school extra topic";

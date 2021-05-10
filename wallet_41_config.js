@@ -1,1 +1,1 @@
-var mnemonic = "dragon ivory group rhythm human rookie ability odor diagram bonus marriage remove";
+var mnemonic = "glue merit explain struggle fat also timber cost shove concert steel poem";

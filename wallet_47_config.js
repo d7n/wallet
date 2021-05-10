@@ -1,1 +1,1 @@
-var mnemonic = "cycle index wait envelope they marine fringe giggle danger cream spoil build";
+var mnemonic = "divorce cannon cream kidney fruit saddle team machine robot frog keep gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "churn nuclear quiz jump object usage guitar abuse crack kit city okay";
+var mnemonic = "put series ability wage present narrow slam tenant seat into worth worry";

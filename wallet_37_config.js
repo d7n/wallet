@@ -1,1 +1,1 @@
-var mnemonic = "build cereal invest cost patient glare into tribe vacuum near canal conduct";
+var mnemonic = "pyramid material donor hurry space catalog library inside spatial invite cloth invest";

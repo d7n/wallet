@@ -1,1 +1,1 @@
-var mnemonic = "awesome opera renew helmet give wrist smoke work enough junk ask bid";
+var mnemonic = "silver uphold enlist lunar stadium bronze tag merry tourist burden either few";

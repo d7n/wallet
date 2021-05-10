@@ -1,1 +1,1 @@
-var mnemonic = "portion collect deputy fringe moment latin divert dragon swift kitten infant spread";
+var mnemonic = "equip maze minimum media recipe model girl song trim umbrella rug grab";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury test need carbon resource economy wave flock afraid monkey layer leaf";
+var mnemonic = "obscure bounce delay win trust earth sword bleak vault weekend wrist oval";

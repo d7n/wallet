@@ -1,1 +1,1 @@
-var mnemonic = "patient erode chuckle guess struggle gun fatal duck erase frame clean bless";
+var mnemonic = "supply marble maximum ordinary service attend rain member act keen mother swarm";

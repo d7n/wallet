@@ -1,1 +1,1 @@
-var mnemonic = "office bottom treat fork whale melody glimpse runway embody clay fetch health";
+var mnemonic = "plate sock party tuna labor fog tube cute window destroy sing elder";

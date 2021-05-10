@@ -1,1 +1,1 @@
-var mnemonic = "thumb person busy cost foam celery dream solve ten adult funny snack";
+var mnemonic = "coil bike fence saddle air kind column skirt category clip broccoli police";

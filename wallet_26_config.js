@@ -1,1 +1,1 @@
-var mnemonic = "physical brief fine pelican aunt cook brief bacon across unfair sound female";
+var mnemonic = "van service sell gown maple filter youth boy language pond half rather";

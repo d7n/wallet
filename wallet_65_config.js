@@ -1,1 +1,1 @@
-var mnemonic = "orphan jump submit fatigue side modify act ship output unveil trouble reduce";
+var mnemonic = "castle heavy harvest drill wheel change roast project black combine snow skin";

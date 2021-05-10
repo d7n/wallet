@@ -1,1 +1,1 @@
-var mnemonic = "mammal vote parent debate age satisfy cotton feel valley flock gallery anchor";
+var mnemonic = "clip science session friend win message panther stable asset notice tiny course";

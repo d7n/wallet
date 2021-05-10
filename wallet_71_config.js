@@ -1,1 +1,1 @@
-var mnemonic = "purse sting expect interest grief alarm garment dress life obvious panda more";
+var mnemonic = "lake home grit pitch wage myself feel gossip wheel hour demise squeeze";

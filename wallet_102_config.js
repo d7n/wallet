@@ -1,1 +1,1 @@
-var mnemonic = "student only base tonight switch shoulder type clean imitate phrase beef route";
+var mnemonic = "excite divide above pet speed silver urge bag cook ethics awful lottery";

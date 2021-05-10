@@ -1,1 +1,1 @@
-var mnemonic = "energy hub equip knee rude cargo carry impose mimic scissors rally bronze";
+var mnemonic = "chapter corn desert grass detail maze trumpet color neutral mean range isolate";

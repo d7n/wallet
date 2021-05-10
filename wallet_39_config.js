@@ -1,1 +1,1 @@
-var mnemonic = "street magnet hockey above infant mule bulk oil donor buyer gadget crush";
+var mnemonic = "pelican nuclear neither during gaze curtain must now endorse attack swim shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "immense mobile capital unaware away filter chimney electric visual behave walnut arm";
+var mnemonic = "evolve shop pipe style street enrich pride expire report spread kit admit";

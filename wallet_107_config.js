@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit rapid wealth priority list ethics make travel clip quit earth today";
+var mnemonic = "copper alcohol rescue useless coffee miss kiss cycle motion skull frame actor";

@@ -1,1 +1,1 @@
-var mnemonic = "diet control bunker tent foot breeze enter ill grain sniff swim subject";
+var mnemonic = "palace together either web alarm tip ice clap fury endless basket fatigue";

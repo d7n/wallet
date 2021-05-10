@@ -1,1 +1,1 @@
-var mnemonic = "famous airport rhythm emerge arch change kite swarm debris heavy cinnamon lonely";
+var mnemonic = "grit core dolphin world okay voice across oval unfair melt attack pause";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet portion enjoy cage feed clarify finish illness visa rhythm embrace hobby";
+var mnemonic = "bamboo wagon umbrella stove resemble opinion gloom mad wagon gossip nest spatial";

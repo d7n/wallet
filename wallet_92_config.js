@@ -1,1 +1,1 @@
-var mnemonic = "differ aspect viable force throw elephant flavor glue sibling length drop flavor";
+var mnemonic = "place imitate history surround minimum page party yard want affair reveal success";

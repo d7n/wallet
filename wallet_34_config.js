@@ -1,1 +1,1 @@
-var mnemonic = "protect nose very useless ski sustain mix library chaos acquire car stable";
+var mnemonic = "voice weasel robust protect culture rigid champion effort ability embrace mind oppose";

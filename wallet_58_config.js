@@ -1,1 +1,1 @@
-var mnemonic = "dove place mean sword liar kitten cart stable cruel cargo push sustain";
+var mnemonic = "accident humor night faith bulk flame skirt require output smooth address clarify";

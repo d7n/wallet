@@ -1,1 +1,1 @@
-var mnemonic = "solve mixed broom thrive view day approve coral moon clock quality dust";
+var mnemonic = "immense caution romance into doll blush situate cage palace state cheap despair";

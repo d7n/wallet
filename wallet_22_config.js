@@ -1,1 +1,1 @@
-var mnemonic = "car guilt cycle siren empty give winter because limb bomb august deal";
+var mnemonic = "foam vocal prison liar case apology drill human leopard follow nuclear sponsor";

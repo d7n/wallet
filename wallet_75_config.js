@@ -1,1 +1,1 @@
-var mnemonic = "head electric aspect strong jacket alter wedding actual dumb frame assist mirror";
+var mnemonic = "rare stool basic school hurry okay version cream build way coin giggle";

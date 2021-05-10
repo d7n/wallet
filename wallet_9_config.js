@@ -1,1 +1,1 @@
-var mnemonic = "hair dentist try later good exclude junk suspect wisdom subway doctor inform";
+var mnemonic = "grain spare gain deal zoo feature clever trigger hospital win you pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "flip ride video manual follow vast month toast carpet remove group video";
+var mnemonic = "record offer apology milk praise barrel brass other giraffe desk nuclear evolve";

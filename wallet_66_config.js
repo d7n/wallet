@@ -1,1 +1,1 @@
-var mnemonic = "marriage submit witness spot shoot hair pelican script property venture adapt step";
+var mnemonic = "version test fuel awful census pizza pyramid grow hair flee swing choose";

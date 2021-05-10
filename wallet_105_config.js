@@ -1,1 +1,1 @@
-var mnemonic = "dice number toe toward nasty seat similar walk list cube balcony lonely";
+var mnemonic = "drum era long year sea spoil hospital cloud young leader weather cry";

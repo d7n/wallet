@@ -1,1 +1,1 @@
-var mnemonic = "make seven upgrade sense solid wrestle below unveil foam aware cinnamon soon";
+var mnemonic = "planet anchor pipe glimpse what discover harvest replace bread height enter step";

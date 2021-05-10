@@ -1,1 +1,1 @@
-var mnemonic = "fitness note slide vacant pelican whisper cradle ancient total income leaf reason";
+var mnemonic = "bid among flight cluster process flush boost safe consider inherit extra divorce";

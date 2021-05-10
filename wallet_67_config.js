@@ -1,1 +1,1 @@
-var mnemonic = "firm police swear clerk zero weasel any erode ridge head middle ahead";
+var mnemonic = "bachelor youth marriage boat digital junior bright differ disorder quote permit behave";

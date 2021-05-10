@@ -1,1 +1,1 @@
-var mnemonic = "stick finish risk waste then state ritual hospital close dwarf fine nothing";
+var mnemonic = "fan click stadium awful loan gesture shield smart hotel invest point inch";

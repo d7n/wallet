@@ -1,1 +1,1 @@
-var mnemonic = "profit notable review february upper alone cram place shaft stay hamster suspect";
+var mnemonic = "giant mimic undo tooth find reject spirit include melt walk ecology city";
