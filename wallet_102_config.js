@@ -1,1 +1,1 @@
-var mnemonic = "cheese harbor hour wise royal joy check physical point habit pattern enact";
+var mnemonic = "pluck pepper credit enforce accuse find abandon hair mouse permit install rabbit";

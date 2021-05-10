@@ -1,1 +1,1 @@
-var mnemonic = "pigeon job hammer leg clinic beef client lesson olive there faculty casino";
+var mnemonic = "know opera defense wood body slab organ trash flame sense water spray";

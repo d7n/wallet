@@ -1,1 +1,1 @@
-var mnemonic = "vacuum truly day smoke debris depart orchard elder beyond annual check rice";
+var mnemonic = "heart okay stuff recall shuffle ill observe light orient insect spoon time";

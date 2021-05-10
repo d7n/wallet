@@ -1,1 +1,1 @@
-var mnemonic = "raise insect small ask issue comfort oval erode violin rebuild grab slab";
+var mnemonic = "mouse hobby property nature oil identify rack apple supply now dumb text";

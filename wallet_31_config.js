@@ -1,1 +1,1 @@
-var mnemonic = "route poet fatigue loyal dilemma lend anxiety find afraid permit shrimp rural";
+var mnemonic = "squirrel glow cricket glove slender olympic stable cave bench ancient torch ostrich";

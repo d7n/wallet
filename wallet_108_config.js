@@ -1,1 +1,1 @@
-var mnemonic = "beauty staff slight turkey hotel real plug clean enroll pledge fit learn";
+var mnemonic = "fury warfare salute check book park sibling second between cloud child sausage";

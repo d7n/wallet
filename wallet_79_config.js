@@ -1,1 +1,1 @@
-var mnemonic = "animal shrug film obey advice choose resemble feed orphan return dice route";
+var mnemonic = "truck angle tuition trust earth cart cricket vague industry mechanic actor sense";

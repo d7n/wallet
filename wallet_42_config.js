@@ -1,1 +1,1 @@
-var mnemonic = "liar mass monitor stereo silly force burden mixed unfair only unaware hip";
+var mnemonic = "rigid detect convince tunnel owner retire mother swallow private catch insane little";

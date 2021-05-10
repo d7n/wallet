@@ -1,1 +1,1 @@
-var mnemonic = "rebuild shaft taxi ask thing mammal between cement silly paper vote promote";
+var mnemonic = "anger media unaware ancient siege surround oxygen trend physical caught blossom ceiling";

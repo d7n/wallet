@@ -1,1 +1,1 @@
-var mnemonic = "daring main chef force response lens soda marble crisp slot gorilla hybrid";
+var mnemonic = "destroy ready afford speak zero advice scene myself filter soup fiction subway";

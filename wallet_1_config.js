@@ -1,1 +1,1 @@
-var mnemonic = "evidence satoshi suggest easily vivid person certain vapor meat scout into food";
+var mnemonic = "special praise satisfy ask spawn prevent deal snow month salon robot this";

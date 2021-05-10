@@ -1,1 +1,1 @@
-var mnemonic = "load canyon awesome lens flavor awkward popular man capital bridge input scene";
+var mnemonic = "lawn language purchase move glue carpet nation mutual doll pluck sign miss";

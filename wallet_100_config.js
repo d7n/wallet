@@ -1,1 +1,1 @@
-var mnemonic = "coach country liquid affair tired office code social broken whale into journey";
+var mnemonic = "february allow icon giraffe unusual gaze capital party tiny sword solid tissue";

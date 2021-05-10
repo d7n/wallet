@@ -1,1 +1,1 @@
-var mnemonic = "arctic combine super gate educate muscle volcano begin interest dirt fresh magic";
+var mnemonic = "atom surge mammal ridge tongue list focus regret festival invest mouse aware";

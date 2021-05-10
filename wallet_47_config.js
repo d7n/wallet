@@ -1,1 +1,1 @@
-var mnemonic = "narrow village kind floor seek utility hollow ticket tuna harbor history envelope";
+var mnemonic = "pride relief online egg tackle echo young soldier size claw cargo champion";

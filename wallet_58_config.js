@@ -1,1 +1,1 @@
-var mnemonic = "company sugar fury lawsuit valley always onion better happy divorce purity pudding";
+var mnemonic = "camera gentle relief raise risk tissue print galaxy country control bamboo retire";

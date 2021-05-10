@@ -1,1 +1,1 @@
-var mnemonic = "vague prevent error imitate health ride girl fragile bulk boat skill ritual";
+var mnemonic = "question eyebrow festival traffic rifle universe magnet guilt quote lend gold globe";

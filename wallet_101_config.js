@@ -1,1 +1,1 @@
-var mnemonic = "ugly century jeans title wheel april task category sniff despair about scout";
+var mnemonic = "peace wise group timber wrong issue series silver february recycle worry bench";

@@ -1,1 +1,1 @@
-var mnemonic = "impact tongue abandon goat fabric lottery lift together sand debate poverty turn";
+var mnemonic = "charge injury wisdom gossip whisper market improve dad magnet stone barely balance";

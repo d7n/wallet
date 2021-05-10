@@ -1,1 +1,1 @@
-var mnemonic = "hurdle universe exile test life catalog gossip bacon child element rich stand";
+var mnemonic = "vacant chief grain toe certain sheriff repeat cabin suspect bread festival grunt";

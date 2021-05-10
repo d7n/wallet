@@ -1,1 +1,1 @@
-var mnemonic = "squirrel stomach laundry victory toe extra upgrade spot script december awesome hidden";
+var mnemonic = "taste celery easily hand universe kid toe pencil leg wisdom charge climb";

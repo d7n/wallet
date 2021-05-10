@@ -1,1 +1,1 @@
-var mnemonic = "shrug subway insane tuna indoor upgrade drama guitar shine knee fragile soup";
+var mnemonic = "slush alcohol sibling swarm strong parade delay slogan milk attitude neither way";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse machine wreck diary behave valid okay goose exchange guide avoid armed";
+var mnemonic = "gold spare same mother comic barrel index talk seed hip obscure theory";

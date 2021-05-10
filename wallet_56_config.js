@@ -1,1 +1,1 @@
-var mnemonic = "false forget pond escape toilet lobster exchange frame buddy foil render borrow";
+var mnemonic = "method thrive labor fat obscure black alcohol bird shiver radar scissors city";

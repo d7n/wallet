@@ -1,1 +1,1 @@
-var mnemonic = "sick awkward one alien mind tomato system coral web injury sound oval";
+var mnemonic = "bunker critic walk castle gap metal fantasy control rebuild grunt vacuum brush";

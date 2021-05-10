@@ -1,1 +1,1 @@
-var mnemonic = "city copy lawn jazz wire brisk entry bullet waste spring more attend";
+var mnemonic = "hidden bunker snow divert lock obvious forget wisdom expire nose error dawn";

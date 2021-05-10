@@ -1,1 +1,1 @@
-var mnemonic = "profit output stadium crew first daring photo idle chef increase time input";
+var mnemonic = "long fee deposit meat apart guilt monkey drop derive combine tribe double";

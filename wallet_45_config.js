@@ -1,1 +1,1 @@
-var mnemonic = "cereal damp tiny video three gym fancy junk topic wine club often";
+var mnemonic = "alley party nuclear peanut peasant picnic multiply cause salon sweet return punch";

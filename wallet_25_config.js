@@ -1,1 +1,1 @@
-var mnemonic = "involve round maximum age glory auto eight pluck shoulder shiver rice rough";
+var mnemonic = "wave legal link number wet theme correct wasp area check dentist exhibit";

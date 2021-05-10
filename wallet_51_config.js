@@ -1,1 +1,1 @@
-var mnemonic = "pass similar exit adapt peace also opera ticket century sport grid they";
+var mnemonic = "they drive acoustic dose hire phone hamster hand range elevator episode noble";

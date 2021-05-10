@@ -1,1 +1,1 @@
-var mnemonic = "mansion basic quantum upset trip cereal reveal unfair shield laugh window size";
+var mnemonic = "vital economy have episode hidden light gorilla ostrich pipe gentle diamond essence";

@@ -1,1 +1,1 @@
-var mnemonic = "easily spike drop divide vault bubble forest improve mushroom kite trouble heavy";
+var mnemonic = "shell critic wild behave stem parent narrow credit mixture announce fame eagle";

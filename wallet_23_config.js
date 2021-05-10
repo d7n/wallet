@@ -1,1 +1,1 @@
-var mnemonic = "boost shock awful physical struggle deliver stage index design derive lobster alley";
+var mnemonic = "marriage elite kind lake abuse pact entry over admit upgrade axis void";

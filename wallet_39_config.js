@@ -1,1 +1,1 @@
-var mnemonic = "achieve camera observe fire van enlist hire keen slide wink lonely eyebrow";
+var mnemonic = "element decorate banana aisle traffic design retire critic define exclude sentence fault";

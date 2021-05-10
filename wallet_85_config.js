@@ -1,1 +1,1 @@
-var mnemonic = "vanish traffic sibling rude razor idle damage plate match armed city welcome";
+var mnemonic = "motor crawl decrease strike latin yard kite volume object remind gauge peanut";

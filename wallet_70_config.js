@@ -1,1 +1,1 @@
-var mnemonic = "deputy work bid enrich exclude alley blade tool age party clog advance";
+var mnemonic = "pair connect humor blush pencil hammer make spice ten soon prepare unusual";

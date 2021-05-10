@@ -1,1 +1,1 @@
-var mnemonic = "gift horn sample concert rack cage paddle umbrella pole fan video grape";
+var mnemonic = "prosper job question real hen vast bread voyage early list elephant fossil";

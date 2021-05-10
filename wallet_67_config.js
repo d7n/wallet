@@ -1,1 +1,1 @@
-var mnemonic = "immense scrub rocket main tone tail capital drop drop express mushroom hip";
+var mnemonic = "embrace farm chair bright reunion merry issue minimum embark athlete before predict";

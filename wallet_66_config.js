@@ -1,1 +1,1 @@
-var mnemonic = "supply park swift citizen flame cycle sword side plug text evil despair";
+var mnemonic = "veteran what tray wine cool engine food kiss skin corn reopen cotton";

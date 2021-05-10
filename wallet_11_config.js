@@ -1,1 +1,1 @@
-var mnemonic = "barely plate truck north hamster answer album six engine broccoli cash pilot";
+var mnemonic = "fatigue subway punch analyst secret paper car cricket swap output saddle roast";

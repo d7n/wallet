@@ -1,1 +1,1 @@
-var mnemonic = "cream maple access surprise depart can pilot basic athlete junior lemon silly";
+var mnemonic = "govern other please mother gossip kitten envelope upgrade salmon team initial bacon";

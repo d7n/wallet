@@ -1,1 +1,1 @@
-var mnemonic = "enrich little age trial trash fat salad family patient own curious abuse";
+var mnemonic = "cancel soldier horror rabbit draft broken jeans melt together riot viable electric";

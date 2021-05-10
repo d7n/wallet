@@ -1,1 +1,1 @@
-var mnemonic = "office bracket size enforce trumpet ozone fluid evidence fiscal firm crawl program";
+var mnemonic = "name outdoor print annual grab crime glide spirit light drive bottom language";

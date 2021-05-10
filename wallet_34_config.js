@@ -1,1 +1,1 @@
-var mnemonic = "dutch around they glue toast width woman maple zone rely boil entire";
+var mnemonic = "velvet scale copy sort tissue latin deer lonely topple copy pencil pretty";

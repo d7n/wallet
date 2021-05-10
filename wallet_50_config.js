@@ -1,1 +1,1 @@
-var mnemonic = "clock because boring amused fever squeeze inform lady analyst have order crouch";
+var mnemonic = "day museum zone cross shed print pistol claim inmate library pig cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "goat army mean imitate afraid keen hard amused very across keep review";
+var mnemonic = "street prevent friend wheat tomorrow spirit clean kiss make lock lonely modify";

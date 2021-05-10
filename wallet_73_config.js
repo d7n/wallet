@@ -1,1 +1,1 @@
-var mnemonic = "local drastic glove mechanic vacant annual shadow round october shop tackle else";
+var mnemonic = "rent maze vessel night detect crop cross thrive quote early dizzy search";

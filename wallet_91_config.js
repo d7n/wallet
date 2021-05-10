@@ -1,1 +1,1 @@
-var mnemonic = "shrug insect caution dream pitch point achieve finish crawl lottery divide syrup";
+var mnemonic = "ridge staff rally escape great attitude tunnel exist spider skin asthma screen";

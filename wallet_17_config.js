@@ -1,1 +1,1 @@
-var mnemonic = "easily focus heart rifle eager bring bacon innocent lobster identify legal glare";
+var mnemonic = "vast maid flush flight permit town wide execute garden lunch treat net";

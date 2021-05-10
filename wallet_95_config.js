@@ -1,1 +1,1 @@
-var mnemonic = "grape now replace estate gentle pride noise pottery gate swarm beef lab";
+var mnemonic = "hard scissors moment dash guard furnace abstract gravity sort door scorpion group";

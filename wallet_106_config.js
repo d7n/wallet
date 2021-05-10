@@ -1,1 +1,1 @@
-var mnemonic = "cable equal tape glance grid toast tennis burst mistake action easily gasp";
+var mnemonic = "awesome old venue panel caution hello person tunnel genius merry vicious jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "peace swing sort robot apology interest nurse panel luggage tool brush sudden";
+var mnemonic = "science tiny usage bulb gospel host festival output cloth valid alpha wool";

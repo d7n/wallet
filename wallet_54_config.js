@@ -1,1 +1,1 @@
-var mnemonic = "agent notable much shield will cause trim urban burden strong rival clean";
+var mnemonic = "century robot seat rice shine dice avocado age poet close copy cause";

@@ -1,1 +1,1 @@
-var mnemonic = "garage wait dutch improve inmate safe friend will drive outdoor armor fiction";
+var mnemonic = "toast track plastic film company student memory hole race trouble uniform chimney";

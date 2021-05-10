@@ -1,1 +1,1 @@
-var mnemonic = "grow route reflect find dwarf broken street fall wife quarter cigar fluid";
+var mnemonic = "tone verb tell distance series surprise hood airport curious health family oyster";

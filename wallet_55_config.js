@@ -1,1 +1,1 @@
-var mnemonic = "grocery erode cage flee scorpion cage claim among absurd already reject hurt";
+var mnemonic = "upset pave income egg always cabin stuff grab pipe home eager lucky";

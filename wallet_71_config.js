@@ -1,1 +1,1 @@
-var mnemonic = "course fork afraid assume dentist conduct planet column satisfy tenant possible fatal";
+var mnemonic = "expose second end silent crisp diamond cloth differ session juice mention inherit";

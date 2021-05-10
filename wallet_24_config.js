@@ -1,1 +1,1 @@
-var mnemonic = "before tonight firm help lottery victory congress wisdom visa traffic swallow someone";
+var mnemonic = "gentle skin slot trial used tool narrow success rally paddle happy eight";

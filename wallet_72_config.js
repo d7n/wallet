@@ -1,1 +1,1 @@
-var mnemonic = "job edge rally portion ordinary draw talk gravity tortoise remind insect peace";
+var mnemonic = "hill assault coral resist demise save simple elder census horn addict law";

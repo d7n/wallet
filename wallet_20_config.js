@@ -1,1 +1,1 @@
-var mnemonic = "slide burger raven polar captain broccoli dutch orchard soda analyst clump staff";
+var mnemonic = "soccer source begin either tooth tornado deer hour earth kiss pig artwork";

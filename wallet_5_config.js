@@ -1,1 +1,1 @@
-var mnemonic = "whip enrich across expire sting smooth boy bread share shell egg employ";
+var mnemonic = "party gallery earn project cigar accident wink exhaust mesh right grid clean";

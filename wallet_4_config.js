@@ -1,1 +1,1 @@
-var mnemonic = "pond awake tone crush deputy fantasy sunny civil page pupil lesson task";
+var mnemonic = "twenty galaxy brick solar buyer banana sure entire category appear term cheese";

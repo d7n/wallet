@@ -1,1 +1,1 @@
-var mnemonic = "fragile legal bargain dwarf side equal sail horse dutch repair hat juice";
+var mnemonic = "credit upper bring ozone sheriff economy blind soup click arm negative test";

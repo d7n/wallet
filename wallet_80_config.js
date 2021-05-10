@@ -1,1 +1,1 @@
-var mnemonic = "dirt crop slot joy visual rotate blade buffalo tired carpet deputy bitter";
+var mnemonic = "solve chief during sail neither negative lecture clarify ahead injury theory comic";

@@ -1,1 +1,1 @@
-var mnemonic = "universe owner release mixture kangaroo science network random mule hip scout badge";
+var mnemonic = "food city card jungle cry verb misery taxi weird country tortoise present";

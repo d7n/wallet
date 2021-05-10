@@ -1,1 +1,1 @@
-var mnemonic = "scrap boring broom analyst hire blame calm cart silk skirt ticket tattoo";
+var mnemonic = "beauty yellow morning truth hedgehog sell input dust milk entire permit hurry";

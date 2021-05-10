@@ -1,1 +1,1 @@
-var mnemonic = "permit swift trade traffic abuse travel devote scan legal pass armor honey";
+var mnemonic = "nasty connect gesture auto filter frequent cruel crew sausage rail expose suit";

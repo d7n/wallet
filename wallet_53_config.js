@@ -1,1 +1,1 @@
-var mnemonic = "fog indicate switch job slogan guard round mimic lemon submit drop aisle";
+var mnemonic = "heavy scissors subject dose spoil original cannon emotion entire mother extra lady";

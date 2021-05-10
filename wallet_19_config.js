@@ -1,1 +1,1 @@
-var mnemonic = "large position warrior bean artist silver hurry brick topple around lyrics laptop";
+var mnemonic = "wear robust enforce lizard near rebel decide unique spray frost coach outdoor";

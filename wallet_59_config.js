@@ -1,1 +1,1 @@
-var mnemonic = "health jump once trade crack base royal useful planet divorce afford put";
+var mnemonic = "margin patient guess idle horse caught crisp maid nut romance notice liar";

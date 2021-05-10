@@ -1,1 +1,1 @@
-var mnemonic = "amazing region steak imitate bronze suggest eye side aisle grant excess rapid";
+var mnemonic = "march sure pair fantasy give faith timber rain upgrade lab other pet";

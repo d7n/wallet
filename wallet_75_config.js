@@ -1,1 +1,1 @@
-var mnemonic = "monster scene pride response ask sight race nothing stereo claim fatigue rent";
+var mnemonic = "frost inherit this hockey dial notice enable weird initial fit tissue curve";

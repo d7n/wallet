@@ -1,1 +1,1 @@
-var mnemonic = "pencil major blind ride zebra minimum green sport install maximum palm stool";
+var mnemonic = "soon miss tomato curve jewel robust century cancel corn blush accident mix";

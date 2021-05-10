@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur sister typical job holiday stove tape shaft erase laundry tooth elegant";
+var mnemonic = "donor suffer alert smart onion salt remove attract become hat trick desert";

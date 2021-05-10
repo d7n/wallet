@@ -1,1 +1,1 @@
-var mnemonic = "enjoy aisle idle bridge bottom wet thought rapid diagram surround avoid hub";
+var mnemonic = "disease deny praise useless proof tiger canyon tuition ten fork under juice";

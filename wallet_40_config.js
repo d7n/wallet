@@ -1,1 +1,1 @@
-var mnemonic = "tooth defy brand ramp crouch announce layer autumn pill emerge meat inform";
+var mnemonic = "funny fit smooth portion symptom moon eight pelican voyage sure rapid pink";

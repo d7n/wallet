@@ -1,1 +1,1 @@
-var mnemonic = "later spin broken acquire jar blanket bicycle carbon reform quality want adjust";
+var mnemonic = "tip rail mixture security raise pink exhibit safe crumble win plunge crawl";

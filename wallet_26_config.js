@@ -1,1 +1,1 @@
-var mnemonic = "current fantasy lake diagram leisure stuff person three story around spider october";
+var mnemonic = "goose describe jewel story lazy flower bounce swim dynamic wage option half";

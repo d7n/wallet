@@ -1,1 +1,1 @@
-var mnemonic = "material sting hundred where upon room coast response smart drive drill protect";
+var mnemonic = "below enable elevator fragile token valid race divorce mule vessel stay avocado";

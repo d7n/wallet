@@ -1,1 +1,1 @@
-var mnemonic = "bundle venue attend nest mouse alcohol script lend yellow rifle anxiety message";
+var mnemonic = "shoulder chest height mimic awful buffalo fury slow hollow illness chimney aim";

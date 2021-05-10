@@ -1,1 +1,1 @@
-var mnemonic = "angry feed kitchen arrest embark stone erase major enemy movie expire prefer";
+var mnemonic = "any defy absent pole client rug own common paddle pact siege staff";

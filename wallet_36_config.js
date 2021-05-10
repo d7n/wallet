@@ -1,1 +1,1 @@
-var mnemonic = "announce dragon little decline harbor exhibit bonus beauty oak essay skill unfair";
+var mnemonic = "pretty member slogan prevent thrive lunch exile letter loud spell swarm language";

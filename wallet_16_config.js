@@ -1,1 +1,1 @@
-var mnemonic = "member vibrant arrest ranch thing potato inch horror giraffe proof summer code";
+var mnemonic = "once aspect suit rapid pluck vague scheme feel cart virus flag zoo";

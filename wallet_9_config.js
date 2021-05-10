@@ -1,1 +1,1 @@
-var mnemonic = "enroll vacuum vivid panda during remember sunset gate symptom random child repeat";
+var mnemonic = "shuffle spray achieve slab delay index middle feature gym boss device silent";

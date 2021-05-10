@@ -1,1 +1,1 @@
-var mnemonic = "race hub ramp regular turtle paper sick slice chair worth flee debris";
+var mnemonic = "exclude october soap lottery property evoke save license fade leisure mutual short";

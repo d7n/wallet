@@ -1,1 +1,1 @@
-var mnemonic = "off blur winner detect useless layer eye trim guard harvest drum sunny";
+var mnemonic = "service despair hint session frequent eternal misery erosion say awake come creek";

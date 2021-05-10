@@ -1,1 +1,1 @@
-var mnemonic = "sure speak avocado forum wing hint noise vast riot race repair arrive";
+var mnemonic = "sport domain enjoy bright avocado shoulder drive excess skate genre decrease cattle";

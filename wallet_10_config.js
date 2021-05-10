@@ -1,1 +1,1 @@
-var mnemonic = "describe version clock club employ betray news asset truly charge forward coconut";
+var mnemonic = "topple morning sight waste plug tunnel cause organ scan used obey short";

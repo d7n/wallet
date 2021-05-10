@@ -1,1 +1,1 @@
-var mnemonic = "patrol cluster hollow alone ripple ranch express nurse damage power mutual invest";
+var mnemonic = "glass age weapon fall beauty swim rocket thumb danger pact coach cactus";
