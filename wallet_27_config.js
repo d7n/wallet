@@ -1,1 +1,1 @@
-var mnemonic = "fine soft noodle image stand soup avoid coach valid diet glory timber";
+var mnemonic = "primary elevator bunker supreme submit immense critic gadget riot rib prize buyer";

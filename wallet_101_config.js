@@ -1,1 +1,1 @@
-var mnemonic = "safe sound glimpse risk reform argue ocean remove item asthma party blush";
+var mnemonic = "bulb air depend effort park pole tonight cycle column earth lady fly";

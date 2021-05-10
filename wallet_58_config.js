@@ -1,1 +1,1 @@
-var mnemonic = "dignity carry ranch mystery face midnight twenty room skate mad east movie";
+var mnemonic = "crush unit roof pudding nurse child suggest spoil three vital seed curtain";

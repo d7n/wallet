@@ -1,1 +1,1 @@
-var mnemonic = "wet work gasp fringe swing faith expect husband also occur when slush";
+var mnemonic = "submit other tennis gravity glance modify rule hen solve attract smile job";

@@ -1,1 +1,1 @@
-var mnemonic = "fan woman menu wool cousin satoshi large manual liar punch ketchup actress";
+var mnemonic = "slogan disease grain tongue orphan crumble leaf vague chase accident tongue solar";

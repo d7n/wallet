@@ -1,1 +1,1 @@
-var mnemonic = "fatigue ocean correct fashion ability jar fabric high spray ranch divide mixture";
+var mnemonic = "gate burger pool hazard avoid remember wrap track profit all absurd curtain";

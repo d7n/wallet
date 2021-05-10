@@ -1,1 +1,1 @@
-var mnemonic = "unhappy bacon mouse caution ripple label rice awful pitch can illegal pride";
+var mnemonic = "replace energy ankle bid wheel cart scissors shoe slogan favorite rather before";

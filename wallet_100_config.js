@@ -1,1 +1,1 @@
-var mnemonic = "poem wolf copy tilt bundle flat document glory rate humor pave elbow";
+var mnemonic = "silk beef leg ring degree group assist response will penalty erode cannon";

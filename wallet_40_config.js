@@ -1,1 +1,1 @@
-var mnemonic = "blouse swift prepare tube lounge coffee copper happy race bullet always recycle";
+var mnemonic = "stick net cricket choose accident able talent salute tomorrow fatal core ball";

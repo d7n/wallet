@@ -1,1 +1,1 @@
-var mnemonic = "river swamp stick frozen flip clever magic track seat trouble match boil";
+var mnemonic = "tired update brother present advance soccer lunar alley addict quiz visa neutral";

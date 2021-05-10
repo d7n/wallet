@@ -1,1 +1,1 @@
-var mnemonic = "seek luggage penalty visa cement tilt era chunk paddle double solution whale";
+var mnemonic = "bag road render surprise knife always focus inmate allow nose dad banana";

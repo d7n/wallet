@@ -1,1 +1,1 @@
-var mnemonic = "tower raise laugh paddle fire ignore dial true seed deputy nest skate";
+var mnemonic = "lend ankle interest depth warm pole orient giggle twin anger like lottery";

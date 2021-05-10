@@ -1,1 +1,1 @@
-var mnemonic = "warfare must word spray month feature ship bird adjust bulk wheat cube";
+var mnemonic = "middle claw sister where age tell renew erase seek settle pistol traffic";

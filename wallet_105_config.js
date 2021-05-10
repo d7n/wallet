@@ -1,1 +1,1 @@
-var mnemonic = "away wait please cigar jeans insane media asthma wide shuffle evil drop";
+var mnemonic = "buffalo tail heavy oven balcony joke oval ready tooth urge man armed";

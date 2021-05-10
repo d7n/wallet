@@ -1,1 +1,1 @@
-var mnemonic = "pretty together blur sphere search globe film erase myself flavor grow neutral";
+var mnemonic = "crawl photo grow usual between slam knock renew increase solid mimic ten";

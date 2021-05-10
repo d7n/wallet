@@ -1,1 +1,1 @@
-var mnemonic = "essay argue country wisdom abuse bunker diagram cause receive believe daring mixed";
+var mnemonic = "job west speak action stock mammal purse cousin beef suit behind idea";

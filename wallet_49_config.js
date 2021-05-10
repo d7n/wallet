@@ -1,1 +1,1 @@
-var mnemonic = "country tide nothing hair blush sort protect plate fun arm ocean obtain";
+var mnemonic = "rack agent practice tribe rifle reunion witness assist scare actual ranch devote";

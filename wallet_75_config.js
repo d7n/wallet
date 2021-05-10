@@ -1,1 +1,1 @@
-var mnemonic = "sword congress boat gentle fee tide quiz capable predict keep stand aunt";
+var mnemonic = "drift salad blossom bone glimpse walk flush inner render arrest payment soldier";

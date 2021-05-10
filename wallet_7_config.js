@@ -1,1 +1,1 @@
-var mnemonic = "width announce dice tool black plastic robot ask pony involve silent matter";
+var mnemonic = "eye mouse glide inquiry enter mixed side result match riot upon obscure";

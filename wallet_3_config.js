@@ -1,1 +1,1 @@
-var mnemonic = "achieve hunt pull design leave purpose type fossil square puzzle sauce august";
+var mnemonic = "fabric upon burst truck lend apple unit session spin twice celery hurt";

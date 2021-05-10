@@ -1,1 +1,1 @@
-var mnemonic = "anxiety like trial warm pole venue age beach ecology fan traffic large";
+var mnemonic = "above bulb moon kangaroo spider quick vault concert right client power wagon";

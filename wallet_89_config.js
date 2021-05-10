@@ -1,1 +1,1 @@
-var mnemonic = "copper mother junk small gentle coyote machine follow blossom mesh strategy kite";
+var mnemonic = "barely path shock impulse fresh deny object crystal rabbit rebuild any please";

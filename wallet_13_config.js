@@ -1,1 +1,1 @@
-var mnemonic = "laundry original bacon employ found bag vague achieve yellow rifle shoe bamboo";
+var mnemonic = "prefer kitchen reform smile group have fabric scorpion credit special thrive rookie";

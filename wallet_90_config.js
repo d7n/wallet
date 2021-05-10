@@ -1,1 +1,1 @@
-var mnemonic = "badge veteran fade across differ regret army yard imitate raw carry screen";
+var mnemonic = "leader rare two delay group search cross appear banana knock daring wonder";

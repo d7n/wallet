@@ -1,1 +1,1 @@
-var mnemonic = "toy kiss love thunder flash crime sing pelican call call ask tiger";
+var mnemonic = "plate yard cycle people menu victory melody gun must man over champion";

@@ -1,1 +1,1 @@
-var mnemonic = "picture earth photo promote army smile hurt possible pigeon below sure unaware";
+var mnemonic = "maid ignore sword video open reunion cotton canoe try pottery van found";

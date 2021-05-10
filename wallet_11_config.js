@@ -1,1 +1,1 @@
-var mnemonic = "custom vibrant excite address idle say sure trust source develop yard empty";
+var mnemonic = "eager unfair kind nasty fruit traffic street verify people casino glance unaware";

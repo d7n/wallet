@@ -1,1 +1,1 @@
-var mnemonic = "often napkin reform tragic office amount genuine clean flat spike pact liar";
+var mnemonic = "hip decide husband gesture zero point setup attitude rebel merge digital canoe";

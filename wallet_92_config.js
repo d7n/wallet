@@ -1,1 +1,1 @@
-var mnemonic = "smooth pull usage abstract column pipe regret seven increase burden term devote";
+var mnemonic = "chief ostrich mail moment turkey uphold rigid typical scene emerge sort wire";

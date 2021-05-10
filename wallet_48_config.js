@@ -1,1 +1,1 @@
-var mnemonic = "wet round top stem gun shine unveil donor palace chalk vast manual";
+var mnemonic = "silly dawn about mansion clarify purpose clerk bunker face void input reveal";

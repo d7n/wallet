@@ -1,1 +1,1 @@
-var mnemonic = "shrimp brand below rice online process kiwi solve post volcano target evoke";
+var mnemonic = "ranch rival great invite match input afford slab soap rose shrimp motor";

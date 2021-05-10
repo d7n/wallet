@@ -1,1 +1,1 @@
-var mnemonic = "essence upset borrow unique pipe below salmon dog rebuild dose palm zebra";
+var mnemonic = "message gossip impact make liquid good luxury wish weird moon raven junior";

@@ -1,1 +1,1 @@
-var mnemonic = "food goddess bar enough crystal solar basic tiny carry faith donate patient";
+var mnemonic = "dentist kitten dentist popular cash toss crush extend mechanic today vanish fitness";

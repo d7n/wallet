@@ -1,1 +1,1 @@
-var mnemonic = "rain usage pond lunar quality confirm intact mutual hole arm broken hour";
+var mnemonic = "napkin vital charge snake near impose arm minute scatter flame below tumble";

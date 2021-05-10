@@ -1,1 +1,1 @@
-var mnemonic = "entry innocent witness frog door speak palm satoshi goat shed airport dwarf";
+var mnemonic = "raise head nest legal normal good link fan horn wave soccer ability";

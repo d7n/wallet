@@ -1,1 +1,1 @@
-var mnemonic = "safe opera manual friend boost shoot seminar ocean media caution rocket produce";
+var mnemonic = "employ strike allow alpha say vacant panther master worth page derive dolphin";

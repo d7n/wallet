@@ -1,1 +1,1 @@
-var mnemonic = "embody across into finish cement swift slide ostrich denial panic scare tent";
+var mnemonic = "slide purchase gain open polar copy short wild cart ghost cricket claw";

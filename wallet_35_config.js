@@ -1,1 +1,1 @@
-var mnemonic = "fine bridge empty park rack physical hire rain term repair nephew soldier";
+var mnemonic = "evolve cheap skill hip term biology valley odor imitate real defy page";

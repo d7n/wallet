@@ -1,1 +1,1 @@
-var mnemonic = "knife explain cargo already bean gasp maze twist sing car palm knock";
+var mnemonic = "mesh axis carry expose wild basic flag hover zoo okay segment labor";

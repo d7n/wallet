@@ -1,1 +1,1 @@
-var mnemonic = "skirt spray hat siege rubber crystal tell increase crash canal luxury satisfy";
+var mnemonic = "cruise chat print mixture grid census loan hurt gaze power treat note";

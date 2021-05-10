@@ -1,1 +1,1 @@
-var mnemonic = "among lizard evoke culture range forward few pioneer fatal cabbage series doll";
+var mnemonic = "false lemon salon rule find wine cannon affair evolve double fabric myth";

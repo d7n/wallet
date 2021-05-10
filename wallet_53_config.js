@@ -1,1 +1,1 @@
-var mnemonic = "they ball insect bless history across caution fossil salmon above oak palace";
+var mnemonic = "creek wagon apology fatigue move leopard owner tragic interest sadness benefit battle";

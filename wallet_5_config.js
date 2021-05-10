@@ -1,1 +1,1 @@
-var mnemonic = "hurdle mirror fresh wrong symbol squirrel tray frog margin mechanic obscure sock";
+var mnemonic = "defense birth thumb garage dry pudding jelly average choice fix script country";

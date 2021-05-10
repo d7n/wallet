@@ -1,1 +1,1 @@
-var mnemonic = "practice duty pill myself air annual resource order range layer trumpet ivory";
+var mnemonic = "voice that inhale city wink search mean client boat mosquito deliver jewel";

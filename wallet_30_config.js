@@ -1,1 +1,1 @@
-var mnemonic = "ladder fox crane open pepper brother veteran whale already soldier payment service";
+var mnemonic = "volcano alien return mandate add frost immune tent cross cost memory measure";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese hundred collect fuel evoke evidence song prevent powder like salt artwork";
+var mnemonic = "eternal jazz over suffer man tent video segment certain excite correct prize";

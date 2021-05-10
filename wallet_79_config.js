@@ -1,1 +1,1 @@
-var mnemonic = "just rubber erosion hamster section broccoli dignity junk aisle off rent grab";
+var mnemonic = "high paper blind appear gorilla session column slide busy year egg weekend";

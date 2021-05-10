@@ -1,1 +1,1 @@
-var mnemonic = "issue much tennis elder diagram ridge neck seed chest forum senior rookie";
+var mnemonic = "brand photo swap jeans giraffe family security steak easy way slow animal";

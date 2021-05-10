@@ -1,1 +1,1 @@
-var mnemonic = "equal mirror pond typical people clock basic bounce sample bike cover effort";
+var mnemonic = "since arrive label another sample reunion recipe excite they lens list fish";

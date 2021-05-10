@@ -1,1 +1,1 @@
-var mnemonic = "devote state action worry push rug burden surround quote wear there cinnamon";
+var mnemonic = "chaos powder canyon angle loop trumpet never hungry sugar estate tiny rude";

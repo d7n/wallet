@@ -1,1 +1,1 @@
-var mnemonic = "caution ocean govern toss exercise depart antique indoor cushion found wish argue";
+var mnemonic = "hole soap clap honey strong scheme awake slab replace range notable endless";

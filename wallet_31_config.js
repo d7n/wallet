@@ -1,1 +1,1 @@
-var mnemonic = "relax chair stuff spare size swallow palace miss mask zoo park visa";
+var mnemonic = "series embody during raven garbage farm december worry bicycle flash beach notable";

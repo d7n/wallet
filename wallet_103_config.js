@@ -1,1 +1,1 @@
-var mnemonic = "hurt height boil case feature quick vast tiny upper smart travel dilemma";
+var mnemonic = "impact smooth speak prefer athlete rare someone pony budget giant crash couple";

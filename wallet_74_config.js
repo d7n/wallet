@@ -1,1 +1,1 @@
-var mnemonic = "fox arm swarm between pencil sound party door lizard any minute afraid";
+var mnemonic = "upset addict satisfy chicken snack cart dynamic live behave wet merge drill";

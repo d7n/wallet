@@ -1,1 +1,1 @@
-var mnemonic = "crawl fossil gentle street client depend brief bitter shock future bike sunny";
+var mnemonic = "another clip angle vocal clap dragon honey assist zebra clarify when riot";

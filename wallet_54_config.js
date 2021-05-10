@@ -1,1 +1,1 @@
-var mnemonic = "people quiz holiday blanket wear pulp icon clog dilemma recall kid ready";
+var mnemonic = "fall nerve protect pledge spray primary action gap flush usual dice nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "gain quote any pudding pistol return property tree tennis evoke render version";
+var mnemonic = "era error pledge uncle creek silly baby simple mechanic dice eyebrow depend";

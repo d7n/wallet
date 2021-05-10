@@ -1,1 +1,1 @@
-var mnemonic = "frog fat trip ripple canyon please warrior inmate open holiday collect carry";
+var mnemonic = "cliff slight wrong segment doctor moment glide peace miss awesome initial hunt";

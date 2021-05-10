@@ -1,1 +1,1 @@
-var mnemonic = "brain corn endless shrug lion grid into buyer decade floor drip dinosaur";
+var mnemonic = "nothing live envelope buddy acoustic invest phrase master diet genre giggle laptop";

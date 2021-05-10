@@ -1,1 +1,1 @@
-var mnemonic = "sound choose airport retreat old odor fantasy dad pumpkin fan borrow popular";
+var mnemonic = "manage gospel educate ready renew rather upgrade patch company record fabric answer";

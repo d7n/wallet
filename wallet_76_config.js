@@ -1,1 +1,1 @@
-var mnemonic = "fury frost trigger great leg quick deny worry border winter vehicle cheese";
+var mnemonic = "valid balcony over omit make blame predict rib organ caution core phrase";

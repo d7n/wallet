@@ -1,1 +1,1 @@
-var mnemonic = "donate cycle rebuild monitor symptom abandon canvas fan bunker yard dream film";
+var mnemonic = "law move caution wild shy indicate play beef diet soft shift divorce";

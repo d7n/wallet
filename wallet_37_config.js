@@ -1,1 +1,1 @@
-var mnemonic = "upper maple usage bridge antique bonus delay vanish harbor width install feed";
+var mnemonic = "swarm like lecture pen green stick power issue host remove dove link";

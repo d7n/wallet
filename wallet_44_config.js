@@ -1,1 +1,1 @@
-var mnemonic = "steel mouse income duty loyal acquire hand first pattern motor year virtual";
+var mnemonic = "polar able pudding royal evidence fence siren apart note fantasy afraid that";

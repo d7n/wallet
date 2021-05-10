@@ -1,1 +1,1 @@
-var mnemonic = "path trend spawn fire camera beach rather come split praise carbon candy";
+var mnemonic = "pitch hunt number mountain movie black neutral fog that festival remove daughter";

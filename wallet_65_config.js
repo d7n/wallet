@@ -1,1 +1,1 @@
-var mnemonic = "foil flat pool bargain business drum shy orange share flat flush brick";
+var mnemonic = "vote motor protect recycle coffee umbrella warm arrow focus giggle option amount";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine hurt door faint level cargo consider dash oppose view jeans still";
+var mnemonic = "together dignity piece cart spring number height west legal judge unveil suit";

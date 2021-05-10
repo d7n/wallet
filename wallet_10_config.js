@@ -1,1 +1,1 @@
-var mnemonic = "base media alarm ostrich cinnamon common mistake imitate knee isolate salon uphold";
+var mnemonic = "few online fresh salmon arrive radio meat hood loyal disagree job exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "usage vessel girl spider sting else true attack bind episode umbrella course";
+var mnemonic = "illegal snake ask world spread face render slim divide car lobster level";

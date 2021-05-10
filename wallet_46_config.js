@@ -1,1 +1,1 @@
-var mnemonic = "fence solar net doll immune notable hotel talk zone cricket swamp menu";
+var mnemonic = "century hope kiss tag gossip cream absurd comic sail animal clap animal";

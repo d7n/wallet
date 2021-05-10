@@ -1,1 +1,1 @@
-var mnemonic = "lion bargain gentle fuel panther shoulder festival scheme volcano tide aisle same";
+var mnemonic = "become secret chronic team matter walnut agree immense cluster essence beach door";

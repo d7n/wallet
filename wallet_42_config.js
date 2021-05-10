@@ -1,1 +1,1 @@
-var mnemonic = "short record armor east art student right invite have skirt hour stock";
+var mnemonic = "arch enter beyond spy trade giggle century almost bomb put improve mask";

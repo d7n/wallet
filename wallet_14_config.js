@@ -1,1 +1,1 @@
-var mnemonic = "lizard peasant throw amazing minute penalty finger lesson surprise ancient coach perfect";
+var mnemonic = "much sniff disease fit current spoon cruise rhythm distance slide grain soul";

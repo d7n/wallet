@@ -1,1 +1,1 @@
-var mnemonic = "dumb radio post pass plug solid gap gym blur topic raw pattern";
+var mnemonic = "present magic flee immune wrist place major hero absurd replace arrest usage";

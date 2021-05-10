@@ -1,1 +1,1 @@
-var mnemonic = "seek smooth scorpion plate mention guard equal sell own diesel pudding flag";
+var mnemonic = "involve jaguar lion chef crater hidden hope spare artefact beyond loop feed";

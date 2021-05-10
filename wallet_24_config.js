@@ -1,1 +1,1 @@
-var mnemonic = "veteran vote trim effort couple word skirt huge maple mixture bitter silver";
+var mnemonic = "wrap bronze square shield shell portion current scorpion twist ghost ritual power";

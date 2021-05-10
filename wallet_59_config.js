@@ -1,1 +1,1 @@
-var mnemonic = "job off nature chicken trend debate cash van damage citizen wool quit";
+var mnemonic = "zoo divide name frame hurt cover achieve chalk faith glide oyster always";

@@ -1,1 +1,1 @@
-var mnemonic = "joy sick donate fossil style sound patch expand abuse unhappy denial cigar";
+var mnemonic = "impact move universe near amateur awake submit voice gravity wage clock upper";

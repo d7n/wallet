@@ -1,1 +1,1 @@
-var mnemonic = "scan circle where pipe reduce mouse female make breeze gift negative public";
+var mnemonic = "car fee opinion guide victory laptop magnet key bacon kitchen deny erode";

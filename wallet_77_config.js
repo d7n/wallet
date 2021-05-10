@@ -1,1 +1,1 @@
-var mnemonic = "arrest sock fire grocery nice plunge april salt recall dry online tree";
+var mnemonic = "butter anchor blanket endless bounce mimic express still engage else addict other";

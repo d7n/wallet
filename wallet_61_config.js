@@ -1,1 +1,1 @@
-var mnemonic = "cliff raise cruel rail steak bone jacket kitten fog mention inject rapid";
+var mnemonic = "kidney rapid topic truly control service useless exact pear confirm arch alone";

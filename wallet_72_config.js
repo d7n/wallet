@@ -1,1 +1,1 @@
-var mnemonic = "horse board tennis amused couch come talk head client shock nature whale";
+var mnemonic = "village curtain reunion master radio luggage kick usage lava bunker strategy relax";

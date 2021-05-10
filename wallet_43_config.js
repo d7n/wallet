@@ -1,1 +1,1 @@
-var mnemonic = "slow emerge voyage sure happy roof radar omit lobster liar social avoid";
+var mnemonic = "arm thrive limb aim rookie wine lunar walnut narrow brave clarify battle";

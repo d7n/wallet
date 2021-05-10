@@ -1,1 +1,1 @@
-var mnemonic = "canyon dish sudden chunk diet group royal aisle between sail prefer twelve";
+var mnemonic = "clinic boil chuckle document sign immense public nasty butter wear artefact dish";

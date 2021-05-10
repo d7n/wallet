@@ -1,1 +1,1 @@
-var mnemonic = "cave trip vanish clutch special fringe border remain public vapor vague tobacco";
+var mnemonic = "canoe hybrid office scrub slow cloth require world coil endorse seed pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "mango display cancel unable ask fire weasel wolf sport debate world illness";
+var mnemonic = "there hip surround permit card transfer theme top best casual milk mention";

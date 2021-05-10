@@ -1,1 +1,1 @@
-var mnemonic = "gun oblige slab guard wild inquiry end cinnamon base still bullet address";
+var mnemonic = "journey bench loud jaguar resemble corn defense rebuild attract base disease remove";

@@ -1,1 +1,1 @@
-var mnemonic = "kit text invite rail broom blur trend balance robust viable almost plunge";
+var mnemonic = "maximum solar satoshi shy custom soda erupt traffic hope machine crisp large";

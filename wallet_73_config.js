@@ -1,1 +1,1 @@
-var mnemonic = "inquiry history range edit again public occur shoot seat major knife obey";
+var mnemonic = "clown butter spoil where dentist asthma motor mail unfold birth pet repeat";
