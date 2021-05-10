@@ -1,1 +1,1 @@
-var mnemonic = "barrel carbon concert uncover eternal surface buffalo deliver post alone slab gossip";
+var mnemonic = "drive scatter dilemma weather race cloud wing author organ love follow detect";

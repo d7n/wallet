@@ -1,1 +1,1 @@
-var mnemonic = "olympic whale survey birth inflict rocket report ladder cactus barely nerve drill";
+var mnemonic = "eight master that busy frost galaxy swear lemon minimum finish green defy";

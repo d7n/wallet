@@ -1,1 +1,1 @@
-var mnemonic = "list rebel acquire gift olive found copper father measure cabin job segment";
+var mnemonic = "draft target equip dry rely jelly turtle okay toss tone rain toddler";

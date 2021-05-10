@@ -1,1 +1,1 @@
-var mnemonic = "hip bring boring tank deputy improve slam chalk manual series phone pride";
+var mnemonic = "disagree crew fall twist soccer hamster era peace tragic six magic road";

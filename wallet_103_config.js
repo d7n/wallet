@@ -1,1 +1,1 @@
-var mnemonic = "bridge fit ensure material ostrich current spray damage forum pizza produce humor";
+var mnemonic = "split gadget utility leaf demand december rifle debate click wheat service gate";

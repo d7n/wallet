@@ -1,1 +1,1 @@
-var mnemonic = "picnic indoor monitor milk pony wrestle exercise sick seven garbage fun poem";
+var mnemonic = "wrong surprise stumble gorilla rain credit best sketch glimpse seven protect shoe";

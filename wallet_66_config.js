@@ -1,1 +1,1 @@
-var mnemonic = "hollow book true top arrange cause poet master shaft moral water abuse";
+var mnemonic = "arrive badge summer hole loan stool test round cattle solid deputy acquire";

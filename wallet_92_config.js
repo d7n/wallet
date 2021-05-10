@@ -1,1 +1,1 @@
-var mnemonic = "ramp lawsuit broccoli sand harsh include mad during taste brand foot plug";
+var mnemonic = "pair tilt hint maid machine reunion digital science portion please fiber bright";

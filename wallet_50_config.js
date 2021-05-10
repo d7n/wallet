@@ -1,1 +1,1 @@
-var mnemonic = "quality broccoli autumn vote yard clinic aisle monitor camera undo mirror sport";
+var mnemonic = "city nuclear orient asset bicycle project captain alley combine edge flat clown";

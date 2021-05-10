@@ -1,1 +1,1 @@
-var mnemonic = "upset shell sail path absent ball debate during prison laugh rack glass";
+var mnemonic = "stomach police little try clump intact cactus exotic helmet caught horror width";

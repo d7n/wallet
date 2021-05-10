@@ -1,1 +1,1 @@
-var mnemonic = "rare jacket legal below winter daughter adapt piano comfort visit call judge";
+var mnemonic = "there tank they acquire around crush point chaos pottery emotion truly decade";

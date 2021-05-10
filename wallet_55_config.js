@@ -1,1 +1,1 @@
-var mnemonic = "evil board ancient discover autumn prefer mom already comic steak clip comfort";
+var mnemonic = "soccer gate case dumb rate time cave crawl today stand source primary";

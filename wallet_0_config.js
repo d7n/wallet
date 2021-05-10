@@ -1,1 +1,1 @@
-var mnemonic = "axis net require hand garlic cry dragon alert good hazard sponsor grace";
+var mnemonic = "owner deny viable index year penalty shed old gift unknown spread exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "jar income own limb deny payment fancy shoot alpha goose course twelve";
+var mnemonic = "vessel sugar thrive mansion junior inside project under miracle notable assault slim";

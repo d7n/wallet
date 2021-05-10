@@ -1,1 +1,1 @@
-var mnemonic = "pride twice sunset kit mutual term glide patient wine tattoo year entire";
+var mnemonic = "dune vital winner gravity brand become orbit script bone crawl medal hub";

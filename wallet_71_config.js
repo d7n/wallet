@@ -1,1 +1,1 @@
-var mnemonic = "vapor father move hip subway art hurry melt slim sick wage kitten";
+var mnemonic = "pole borrow clutch access correct syrup together throw announce luxury physical flavor";

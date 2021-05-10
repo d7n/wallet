@@ -1,1 +1,1 @@
-var mnemonic = "walnut foster gorilla vacant umbrella ceiling submit hello gas neck expand ignore";
+var mnemonic = "diagram demise discover ivory car kit hint degree night pave join account";

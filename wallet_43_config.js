@@ -1,1 +1,1 @@
-var mnemonic = "seat voice forward recycle lady gloom oyster friend track choose denial raise";
+var mnemonic = "notice key holiday grief truth flat twenty vicious supply ready rubber morning";

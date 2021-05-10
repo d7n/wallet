@@ -1,1 +1,1 @@
-var mnemonic = "machine security bomb electric boring poet liquid glad side onion govern bacon";
+var mnemonic = "electric utility stick barrel tiny ladder alone ritual they panther twelve bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "document captain silver across they rival normal exhibit elephant daring bubble luxury";
+var mnemonic = "bridge envelope addict you baby winter salmon blind analyst nothing auto wisdom";

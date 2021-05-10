@@ -1,1 +1,1 @@
-var mnemonic = "ugly tell oven cigar circle medal name blossom miss vessel afraid coast";
+var mnemonic = "stone raven scrap pulp vacant deputy decline lobster suggest oval vicious picnic";

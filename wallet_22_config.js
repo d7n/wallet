@@ -1,1 +1,1 @@
-var mnemonic = "wish drum prevent noise rare episode swift nasty toy note sight weapon";
+var mnemonic = "eternal person bonus couple cube prefer woman second reason caution crazy forum";

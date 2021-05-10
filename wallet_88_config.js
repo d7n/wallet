@@ -1,1 +1,1 @@
-var mnemonic = "lake project child patrol symbol element mean satisfy output cable balance once";
+var mnemonic = "drop alert heavy tail fetch palace alone glimpse vehicle bracket favorite proud";

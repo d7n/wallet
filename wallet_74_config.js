@@ -1,1 +1,1 @@
-var mnemonic = "medal swamp wreck palm close card kidney later elephant bone chalk museum";
+var mnemonic = "expand assist crew target ability useless video cross merge deliver start rack";

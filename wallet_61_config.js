@@ -1,1 +1,1 @@
-var mnemonic = "velvet scissors typical vintage model salute bless bonus reflect harbor inhale soft";
+var mnemonic = "quantum swim distance pencil sheriff ramp bronze snake pipe message camp review";

@@ -1,1 +1,1 @@
-var mnemonic = "boss answer label shine upon saddle digital fancy gasp course faculty sorry";
+var mnemonic = "still loop member job present drastic kangaroo body pupil provide found until";

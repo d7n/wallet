@@ -1,1 +1,1 @@
-var mnemonic = "damp hair mask ripple uphold another choice charge venue identify lava frown";
+var mnemonic = "tape toe bounce increase better avocado wine box horse camp west creek";

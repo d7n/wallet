@@ -1,1 +1,1 @@
-var mnemonic = "crunch boost gift erase frozen length report grab photo device mosquito say";
+var mnemonic = "amused remember heart leaf pupil exist floor inspire expire release involve rookie";

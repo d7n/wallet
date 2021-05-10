@@ -1,1 +1,1 @@
-var mnemonic = "gold service caught country pyramid ahead capital capable soup cricket term call";
+var mnemonic = "among bamboo eight forward feel march wrestle grid shrimp crucial stock involve";

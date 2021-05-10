@@ -1,1 +1,1 @@
-var mnemonic = "detect brain miracle achieve hundred curious hub drift dance piece pause pizza";
+var mnemonic = "gloom gravity album side fiction faith brief rate slab scrap course wrist";

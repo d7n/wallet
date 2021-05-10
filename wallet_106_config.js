@@ -1,1 +1,1 @@
-var mnemonic = "ice short brain exile clutch funny faint prize tenant tomato badge glare";
+var mnemonic = "present tonight harbor steel slight bind affair notice rocket horse story exhaust";

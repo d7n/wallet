@@ -1,1 +1,1 @@
-var mnemonic = "notice help replace prosper faith orphan coil smoke rebel promote tuition reopen";
+var mnemonic = "copper tube oxygen kingdom ticket either large music team matrix grain gospel";

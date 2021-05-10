@@ -1,1 +1,1 @@
-var mnemonic = "problem weekend update exit letter fossil render cruel note blue health million";
+var mnemonic = "gold identify tortoise special jacket always divorce spell dismiss clutch able blush";

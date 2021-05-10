@@ -1,1 +1,1 @@
-var mnemonic = "disorder example improve dream secret symptom repeat scheme burden cushion napkin human";
+var mnemonic = "piano fancy potato stock salad panther sense siege inspire lend stable gallery";

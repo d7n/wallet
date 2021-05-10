@@ -1,1 +1,1 @@
-var mnemonic = "frost illness goose minimum purity affair duck suspect nerve flush hunt hamster";
+var mnemonic = "gym option tumble apart gasp museum receive air spread profit depend canvas";

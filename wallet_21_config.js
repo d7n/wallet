@@ -1,1 +1,1 @@
-var mnemonic = "wood opera loop used solve arrow vague cancel dry clay grunt energy";
+var mnemonic = "happy velvet sniff shallow heavy laptop parent margin end curve stumble opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "attract same book brief dilemma galaxy never stereo problem struggle elephant voyage";
+var mnemonic = "camp mobile rack usual pink release oppose law fly law pride endless";

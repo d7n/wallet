@@ -1,1 +1,1 @@
-var mnemonic = "audit lemon curve hole panda lawn ripple sentence other text stomach senior";
+var mnemonic = "hotel donkey outer deer basket carry machine mule echo rubber pizza clinic";

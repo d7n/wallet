@@ -1,1 +1,1 @@
-var mnemonic = "badge soap diet decade coconut harbor faith reopen consider rule matter staff";
+var mnemonic = "bamboo reject fiscal glad amount tennis high color comic yard retreat spatial";

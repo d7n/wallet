@@ -1,1 +1,1 @@
-var mnemonic = "purse upset clip surprise sea unique rule siren rely pet general renew";
+var mnemonic = "theory father amazing lend palm struggle lawn crumble paddle solid nothing unlock";

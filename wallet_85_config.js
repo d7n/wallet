@@ -1,1 +1,1 @@
-var mnemonic = "program asthma soap cheese author scatter roof human describe ship divide permit";
+var mnemonic = "moral test large glass glue blood spray enrich merry chunk catch valve";

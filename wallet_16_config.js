@@ -1,1 +1,1 @@
-var mnemonic = "mind brisk tone question world leopard tilt visit catch later poet grace";
+var mnemonic = "spare device legal wing term about hybrid distance chimney peace decline predict";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery script devote figure marriage distance muscle south expose hint huge depend";
+var mnemonic = "drama turn arena rely salute grape giraffe menu cabin spread dismiss boil";

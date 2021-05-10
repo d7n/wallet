@@ -1,1 +1,1 @@
-var mnemonic = "utility ivory liquid expect evolve gallery toast skirt exchange seminar kid inner";
+var mnemonic = "uncle parent sort mechanic text crew flight result shrug blur bind end";

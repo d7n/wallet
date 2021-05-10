@@ -1,1 +1,1 @@
-var mnemonic = "into oxygen topple kid field play sadness lesson mean rent bullet gather";
+var mnemonic = "cotton license circle cruise canoe engine emotion any fame amused judge you";

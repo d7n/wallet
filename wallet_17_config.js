@@ -1,1 +1,1 @@
-var mnemonic = "myself fetch just congress elegant mind drop pelican drama warm trouble avoid";
+var mnemonic = "leaf burden okay buyer ghost gauge green enact index else drill crazy";

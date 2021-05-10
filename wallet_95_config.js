@@ -1,1 +1,1 @@
-var mnemonic = "debris jump task match finish mechanic virus nest embrace adapt wedding kangaroo";
+var mnemonic = "broom beyond rare thought interest absorb divert cancel supply fruit endless still";

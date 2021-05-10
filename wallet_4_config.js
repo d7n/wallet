@@ -1,1 +1,1 @@
-var mnemonic = "ask defense action spoon reveal orbit opinion priority wear end tornado paper";
+var mnemonic = "tomorrow length flip decrease zone green often smart grief purpose cream finger";

@@ -1,1 +1,1 @@
-var mnemonic = "domain slab fetch casual boring decorate mad country win world stay stool";
+var mnemonic = "neck radar phrase sport replace hospital bomb lunar sing bubble pumpkin example";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy banana empower try easy rather entry game spend valid hello razor";
+var mnemonic = "ketchup fault pencil dish multiply shallow hip arch quick depend rhythm head";

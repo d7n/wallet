@@ -1,1 +1,1 @@
-var mnemonic = "math crush chicken want sight vocal smoke thought cycle innocent they minimum";
+var mnemonic = "earn river adult mirror occur half muscle evil flush intact dry thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "slow woman boost address survey exhibit usual author club alley scare burst";
+var mnemonic = "crisp fee fork maximum river only true shadow social obey flag power";

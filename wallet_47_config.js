@@ -1,1 +1,1 @@
-var mnemonic = "warrior tower play embrace true end quantum label spell unusual where cousin";
+var mnemonic = "permit glimpse judge stand school fish assume dirt buyer goddess shift local";

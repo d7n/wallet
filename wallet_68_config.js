@@ -1,1 +1,1 @@
-var mnemonic = "pattern art monster toe casino pistol attitude relief document insect three chuckle";
+var mnemonic = "glance fluid galaxy angle bacon daughter market receive cloud clown endless typical";

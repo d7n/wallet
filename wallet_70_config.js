@@ -1,1 +1,1 @@
-var mnemonic = "online culture stool water long employ catalog scissors foot book unhappy lamp";
+var mnemonic = "lucky divide dinosaur accident portion one number absurd gesture donor shield people";

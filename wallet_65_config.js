@@ -1,1 +1,1 @@
-var mnemonic = "sibling ticket office frog fitness public marble couch antenna vague happy tool";
+var mnemonic = "link unknown rail gesture proud middle virtual skill flush cube sibling story";

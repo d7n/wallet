@@ -1,1 +1,1 @@
-var mnemonic = "diamond tray tiger utility helmet mule tobacco worry cushion danger giggle warfare";
+var mnemonic = "holiday grow path bomb soon purchase trigger kit present enrich alley across";

@@ -1,1 +1,1 @@
-var mnemonic = "join sibling regular clinic clean inside twelve fiber invest author sell initial";
+var mnemonic = "oyster wise peanut remain seat tornado toss address lake gloom clap easily";

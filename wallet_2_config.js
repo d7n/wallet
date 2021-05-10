@@ -1,1 +1,1 @@
-var mnemonic = "cheese current smoke fun miracle crew deny forget maid wheat hero enter";
+var mnemonic = "garlic account survey setup faculty icon lonely hidden slice off pride random";

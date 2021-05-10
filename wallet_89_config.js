@@ -1,1 +1,1 @@
-var mnemonic = "venue behind submit page nut employ three track language flame gate exchange";
+var mnemonic = "six start obey patient right since special host cycle month axis arrange";

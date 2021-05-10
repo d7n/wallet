@@ -1,1 +1,1 @@
-var mnemonic = "divorce output knock stamp swarm actress ring hello visual mother wear valley";
+var mnemonic = "pottery phone square poet wrist prevent auto zero frame noble legend employ";

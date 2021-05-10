@@ -1,1 +1,1 @@
-var mnemonic = "guilt impulse rotate drink whisper tank sheriff tell lift mass fabric obtain";
+var mnemonic = "provide sight coconut inherit refuse surprise junk sort topic example wagon winner";

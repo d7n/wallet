@@ -1,1 +1,1 @@
-var mnemonic = "quarter embark blind october tongue depart blush wedding truth couple letter merge";
+var mnemonic = "arrange window rate tiger update victory warm twist cup water poverty remind";

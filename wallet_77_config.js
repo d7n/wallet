@@ -1,1 +1,1 @@
-var mnemonic = "twist grid sudden labor order teach coral also pill olympic craft between";
+var mnemonic = "vacant number decade open horn flash glory pledge feel lamp defy island";

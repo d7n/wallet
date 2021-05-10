@@ -1,1 +1,1 @@
-var mnemonic = "title velvet adjust prepare nice casino lecture medal cruise book wrestle crumble";
+var mnemonic = "bubble hole table burden reduce crisp also joke team void bamboo logic";

@@ -1,1 +1,1 @@
-var mnemonic = "solid method tornado error candy sausage end truly prize ozone crater power";
+var mnemonic = "siege riot announce original peasant under congress miss green delay ball pony";

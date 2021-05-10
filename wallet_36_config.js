@@ -1,1 +1,1 @@
-var mnemonic = "tomato speak cry tenant tool royal crash film chimney file wink tide";
+var mnemonic = "rely lava math layer genius ignore animal crazy excuse assault key general";

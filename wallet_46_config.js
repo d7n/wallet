@@ -1,1 +1,1 @@
-var mnemonic = "news kiwi used adult loyal clip crumble strong laptop typical caught refuse";
+var mnemonic = "salad divorce patient proud canoe boring amused evolve chronic major jewel manual";

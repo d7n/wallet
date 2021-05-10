@@ -1,1 +1,1 @@
-var mnemonic = "green clarify rebel empower illegal trouble labor clutch mom sausage twenty scan";
+var mnemonic = "scissors bounce siren topple market acid visit average mass net tuna lobster";

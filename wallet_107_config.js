@@ -1,1 +1,1 @@
-var mnemonic = "clock sauce solid crystal grid title leave fuel project define step elbow";
+var mnemonic = "steel pave fury slow poem immense ostrich junior seat basic autumn milk";

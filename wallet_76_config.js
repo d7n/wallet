@@ -1,1 +1,1 @@
-var mnemonic = "topple broken dragon enemy wife food film spatial twice coral cash exercise";
+var mnemonic = "hedgehog pool swamp essay exhibit pencil wet whale pluck neither click old";

@@ -1,1 +1,1 @@
-var mnemonic = "cost route pluck belt three cabin forget aim churn relief body source";
+var mnemonic = "now sausage animal ecology shallow cargo advance deposit bounce risk save wise";

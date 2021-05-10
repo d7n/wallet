@@ -1,1 +1,1 @@
-var mnemonic = "math often affair bonus float pledge rebuild doctor between marine vapor enhance";
+var mnemonic = "mistake catch planet visit industry second deal vacant visual hood whip around";

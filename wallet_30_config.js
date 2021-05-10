@@ -1,1 +1,1 @@
-var mnemonic = "song clerk pencil better put mosquito analyst board wedding oblige magic nice";
+var mnemonic = "reject parent borrow portion lonely motor maid erosion rebel carpet sand buffalo";

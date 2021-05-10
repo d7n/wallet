@@ -1,1 +1,1 @@
-var mnemonic = "alley execute flavor clap hospital banner slice thank drastic diesel flat pact";
+var mnemonic = "tool sphere home scorpion mechanic plastic illegal bargain session board drift cannon";

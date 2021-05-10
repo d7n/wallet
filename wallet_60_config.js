@@ -1,1 +1,1 @@
-var mnemonic = "lake advice recall chicken board elder dune avoid marble love smoke parent";
+var mnemonic = "tower human face hard elephant light history van smooth bid blind pipe";

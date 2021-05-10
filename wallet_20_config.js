@@ -1,1 +1,1 @@
-var mnemonic = "gadget monster until snap close anger dune alter turtle sunset supreme recall";
+var mnemonic = "truly flavor dice task brass lawn gospel matrix topple metal dinosaur season";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday icon casual match element basic humor modify dwarf carpet label middle";
+var mnemonic = "total one immune grant around river accuse flee file gown fog unaware";

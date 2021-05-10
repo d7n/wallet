@@ -1,1 +1,1 @@
-var mnemonic = "fan soda average cable move lizard whip unhappy valid opinion december wage";
+var mnemonic = "earth smooth rhythm hospital include antenna window crash lion cook half enforce";

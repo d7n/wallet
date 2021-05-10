@@ -1,1 +1,1 @@
-var mnemonic = "credit ivory damage blue divide spice violin melt wage gossip fiber trash";
+var mnemonic = "lemon laptop fun pond auto element curtain liar clutch garment chimney access";

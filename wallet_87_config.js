@@ -1,1 +1,1 @@
-var mnemonic = "matrix flavor buddy camera demise note advance giant return left urban lunch";
+var mnemonic = "fringe sugar entry faint between ensure guitar flower lottery crop broccoli discover";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber museum napkin scatter mixed icon suspect join plug reason rude wave";
+var mnemonic = "camera observe position reveal legend forget wall excite coach mix large siren";

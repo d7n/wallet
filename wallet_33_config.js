@@ -1,1 +1,1 @@
-var mnemonic = "tape quiz eager embrace bullet immune mountain enroll circle magic pencil wool";
+var mnemonic = "speak fade cupboard rural vanish core there rug piano gravity design thunder";

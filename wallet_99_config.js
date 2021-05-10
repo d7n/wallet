@@ -1,1 +1,1 @@
-var mnemonic = "dial mix tunnel sustain base second skirt struggle stone inform valley strategy";
+var mnemonic = "ramp umbrella frown blind arrow cotton advance gap firm prevent grape universe";

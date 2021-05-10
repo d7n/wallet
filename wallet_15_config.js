@@ -1,1 +1,1 @@
-var mnemonic = "reject spread into void double elegant tattoo citizen rigid never chicken weather";
+var mnemonic = "text style benefit exhibit black bless eager predict clutch wine gym pact";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse lab legend enrich oxygen goose peace language response copy donor seven";
+var mnemonic = "juice pizza moment hip renew satoshi neutral promote figure wet chief horse";

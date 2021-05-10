@@ -1,1 +1,1 @@
-var mnemonic = "census assist brick cheap nature exhibit describe favorite try update envelope powder";
+var mnemonic = "peanut license all detail letter security afford train race shoot pipe ability";

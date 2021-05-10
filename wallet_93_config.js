@@ -1,1 +1,1 @@
-var mnemonic = "capable aisle space away love hungry expose poem pole long cousin trend";
+var mnemonic = "love fault daughter apart sister hundred infant steak dog use hip once";

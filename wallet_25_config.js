@@ -1,1 +1,1 @@
-var mnemonic = "endless agree detail uncle raise turn girl dance illegal bubble powder unique";
+var mnemonic = "promote interest summer there foot debris meat vault idea kiss curious blanket";

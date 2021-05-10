@@ -1,1 +1,1 @@
-var mnemonic = "bless caught silk unfold lizard figure sunset talk affair calm blood expand";
+var mnemonic = "acid drift belt alarm goat monster coil uncover crowd shaft video warm";

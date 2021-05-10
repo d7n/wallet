@@ -1,1 +1,1 @@
-var mnemonic = "jazz betray breeze embrace display sister labor hedgehog tray notice sick sketch";
+var mnemonic = "ethics planet kid weather girl economy green obtain ticket bounce pelican surface";

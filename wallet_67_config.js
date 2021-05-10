@@ -1,1 +1,1 @@
-var mnemonic = "peanut chimney dice autumn journey aisle issue alpha domain doctor apple satisfy";
+var mnemonic = "glove ivory paddle evoke cart weird toss trial couch legend nasty nature";

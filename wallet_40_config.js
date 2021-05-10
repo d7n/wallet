@@ -1,1 +1,1 @@
-var mnemonic = "enemy sample plunge mom entry female list fit tortoise arctic segment image";
+var mnemonic = "dentist client summer base trial exotic soccer basket vast slide story result";

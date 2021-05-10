@@ -1,1 +1,1 @@
-var mnemonic = "sun glad this dilemma kind alert boost immense fame negative arm elder";
+var mnemonic = "funny spoil crawl cube plastic exist live bless chicken brown token write";
