@@ -1,1 +1,1 @@
-var mnemonic = "vicious chase steak lens arrest option thunder waste solid cross pulp thumb";
+var mnemonic = "pattern art monster toe casino pistol attitude relief document insect three chuckle";

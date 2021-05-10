@@ -1,1 +1,1 @@
-var mnemonic = "genius post section rug expect post calm initial twice make noodle service";
+var mnemonic = "detect brain miracle achieve hundred curious hub drift dance piece pause pizza";

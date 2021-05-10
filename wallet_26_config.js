@@ -1,1 +1,1 @@
-var mnemonic = "gorilla domain major corn thought describe latin property chuckle chicken vivid boring";
+var mnemonic = "credit ivory damage blue divide spice violin melt wage gossip fiber trash";

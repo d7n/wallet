@@ -1,1 +1,1 @@
-var mnemonic = "decade melt early brush pig sick gadget road size risk asthma voice";
+var mnemonic = "utility ivory liquid expect evolve gallery toast skirt exchange seminar kid inner";

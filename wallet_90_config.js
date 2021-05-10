@@ -1,1 +1,1 @@
-var mnemonic = "cancel item before inner orient hungry admit glue design live minimum anger";
+var mnemonic = "bless caught silk unfold lizard figure sunset talk affair calm blood expand";

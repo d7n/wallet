@@ -1,1 +1,1 @@
-var mnemonic = "muscle apology empower waste cement top forest people hire search silly device";
+var mnemonic = "upset shell sail path absent ball debate during prison laugh rack glass";

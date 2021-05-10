@@ -1,1 +1,1 @@
-var mnemonic = "minimum garlic sleep either recipe snap purchase tool ritual tragic soldier excite";
+var mnemonic = "clock sauce solid crystal grid title leave fuel project define step elbow";

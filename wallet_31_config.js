@@ -1,1 +1,1 @@
-var mnemonic = "attract skate space embrace zero hair pluck post use mixture then just";
+var mnemonic = "math crush chicken want sight vocal smoke thought cycle innocent they minimum";

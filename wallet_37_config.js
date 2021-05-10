@@ -1,1 +1,1 @@
-var mnemonic = "fashion final all argue right quarter world proud ocean output elevator paper";
+var mnemonic = "gallery script devote figure marriage distance muscle south expose hint huge depend";

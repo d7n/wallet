@@ -1,1 +1,1 @@
-var mnemonic = "wise virtual inherit silent exit cook brief negative guess tooth risk early";
+var mnemonic = "rookie glass absurd front salad blast pulse extend donor acquire elevator include";

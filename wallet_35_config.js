@@ -1,1 +1,1 @@
-var mnemonic = "female diary tomato alter relief scrub cotton bridge glow chicken scissors climb";
+var mnemonic = "document captain silver across they rival normal exhibit elephant daring bubble luxury";

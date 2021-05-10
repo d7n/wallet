@@ -1,1 +1,1 @@
-var mnemonic = "tribe trial alter ten cave air fatigue relief oil upgrade practice despair";
+var mnemonic = "velvet scissors typical vintage model salute bless bonus reflect harbor inhale soft";

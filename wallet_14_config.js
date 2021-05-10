@@ -1,1 +1,1 @@
-var mnemonic = "green boil unit pilot frame kick spell remind update labor feed box";
+var mnemonic = "debris nice leaf lady loop favorite exhaust job worth blur unfair space";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture clean someone scatter fresh cake wheel someone vault apology arena range";
+var mnemonic = "endless agree detail uncle raise turn girl dance illegal bubble powder unique";

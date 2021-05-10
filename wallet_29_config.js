@@ -1,1 +1,1 @@
-var mnemonic = "parrot other fold soap father swear myth enhance snap pony bronze height";
+var mnemonic = "green clarify rebel empower illegal trouble labor clutch mom sausage twenty scan";

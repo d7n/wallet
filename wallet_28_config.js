@@ -1,1 +1,1 @@
-var mnemonic = "material number buyer index produce insect senior speed recipe gravity question journey";
+var mnemonic = "jar income own limb deny payment fancy shoot alpha goose course twelve";

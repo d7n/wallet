@@ -1,1 +1,1 @@
-var mnemonic = "omit reopen once rival raise session hundred phone clutch three divorce sunset";
+var mnemonic = "bridge fit ensure material ostrich current spray damage forum pizza produce humor";

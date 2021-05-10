@@ -1,1 +1,1 @@
-var mnemonic = "front rapid wave wait airport cute panel blade music creek snap laptop";
+var mnemonic = "title velvet adjust prepare nice casino lecture medal cruise book wrestle crumble";

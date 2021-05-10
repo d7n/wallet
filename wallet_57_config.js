@@ -1,1 +1,1 @@
-var mnemonic = "possible note unfold annual you jazz talk whale rapid unfold exist woman";
+var mnemonic = "audit lemon curve hole panda lawn ripple sentence other text stomach senior";

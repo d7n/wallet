@@ -1,1 +1,1 @@
-var mnemonic = "voyage possible brass volume trade appear share wild reduce crouch ranch inner";
+var mnemonic = "quarter embark blind october tongue depart blush wedding truth couple letter merge";

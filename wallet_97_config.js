@@ -1,1 +1,1 @@
-var mnemonic = "asset blue burst wild crush promote box maid solar quantum void okay";
+var mnemonic = "reduce guitar flush upper surround false rubber silly pave collect ship lab";

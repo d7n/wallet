@@ -1,1 +1,1 @@
-var mnemonic = "table error sport echo random add fox side lobster tennis area option";
+var mnemonic = "debris jump task match finish mechanic virus nest embrace adapt wedding kangaroo";

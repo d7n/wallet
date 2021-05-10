@@ -1,1 +1,1 @@
-var mnemonic = "banana stool tilt merry sleep alcohol defy useless zone minor street cluster";
+var mnemonic = "purse upset clip surprise sea unique rule siren rely pet general renew";

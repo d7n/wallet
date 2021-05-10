@@ -1,1 +1,1 @@
-var mnemonic = "vanish general visa supreme illness poem shoot valid gym ignore brick dutch";
+var mnemonic = "april shift live note fold grid fat state tower must push scorpion";

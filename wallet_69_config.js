@@ -1,1 +1,1 @@
-var mnemonic = "exercise clump manual bright cover rebuild fashion crumble indoor museum globe bag";
+var mnemonic = "guilt impulse rotate drink whisper tank sheriff tell lift mass fabric obtain";

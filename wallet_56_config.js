@@ -1,1 +1,1 @@
-var mnemonic = "flavor rookie solid enrich jealous aim lemon bacon virus nation item eagle";
+var mnemonic = "alley execute flavor clap hospital banner slice thank drastic diesel flat pact";

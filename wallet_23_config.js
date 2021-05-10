@@ -1,1 +1,1 @@
-var mnemonic = "mammal humor produce volcano train mango miracle idea boat asthma flock margin";
+var mnemonic = "math often affair bonus float pledge rebuild doctor between marine vapor enhance";

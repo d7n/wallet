@@ -1,1 +1,1 @@
-var mnemonic = "mad frost blind snake group urge grow help can chicken message thumb";
+var mnemonic = "connect envelope fury cause today cover mansion interest exhibit pigeon whisper cool";

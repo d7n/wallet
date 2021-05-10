@@ -1,1 +1,1 @@
-var mnemonic = "sunny cage time detect slab metal garage across badge tool pass floor";
+var mnemonic = "boss answer label shine upon saddle digital fancy gasp course faculty sorry";

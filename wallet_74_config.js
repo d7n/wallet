@@ -1,1 +1,1 @@
-var mnemonic = "stuff pyramid bridge kidney weapon style school book century robust artist enemy";
+var mnemonic = "medal swamp wreck palm close card kidney later elephant bone chalk museum";

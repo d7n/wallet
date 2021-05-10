@@ -1,1 +1,1 @@
-var mnemonic = "equip unknown relax digital gold garage soul embrace friend settle file produce";
+var mnemonic = "warm mask scare other crouch cricket food limb sleep silver rocket lens";

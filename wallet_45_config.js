@@ -1,1 +1,1 @@
-var mnemonic = "hole lizard route alcohol vehicle author field leopard ecology exclude plug fun";
+var mnemonic = "lottery goat remind club trial clutch neglect barely giggle measure float burst";

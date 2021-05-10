@@ -1,1 +1,1 @@
-var mnemonic = "turn march symptom curious mind kite idle pet early grab company pizza";
+var mnemonic = "holiday icon casual match element basic humor modify dwarf carpet label middle";

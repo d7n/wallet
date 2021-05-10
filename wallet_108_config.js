@@ -1,1 +1,1 @@
-var mnemonic = "silk twelve clarify giant visual grow asthma vocal giant sudden session eye";
+var mnemonic = "picnic indoor monitor milk pony wrestle exercise sick seven garbage fun poem";

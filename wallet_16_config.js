@@ -1,1 +1,1 @@
-var mnemonic = "initial what force obey hobby thumb prevent unaware helmet nice liberty task";
+var mnemonic = "mind brisk tone question world leopard tilt visit catch later poet grace";

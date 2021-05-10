@@ -1,1 +1,1 @@
-var mnemonic = "tired afford stool very water leaf inherit critic siege shaft cousin bamboo";
+var mnemonic = "evil board ancient discover autumn prefer mom already comic steak clip comfort";

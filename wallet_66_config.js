@@ -1,1 +1,1 @@
-var mnemonic = "island pause canal lawsuit basket term dynamic come outer ordinary bonus mention";
+var mnemonic = "hollow book true top arrange cause poet master shaft moral water abuse";

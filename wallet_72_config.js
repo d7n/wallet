@@ -1,1 +1,1 @@
-var mnemonic = "come cruise motion also dance link ladder swim soda gasp welcome art";
+var mnemonic = "sun glad this dilemma kind alert boost immense fame negative arm elder";

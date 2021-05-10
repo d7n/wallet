@@ -1,1 +1,1 @@
-var mnemonic = "core aisle rough ketchup sentence lab virus inner picture water hire fabric";
+var mnemonic = "quality broccoli autumn vote yard clinic aisle monitor camera undo mirror sport";

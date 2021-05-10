@@ -1,1 +1,1 @@
-var mnemonic = "method armed race pill lamp coral lunar point case injury salute artefact";
+var mnemonic = "ice short brain exile clutch funny faint prize tenant tomato badge glare";

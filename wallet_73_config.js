@@ -1,1 +1,1 @@
-var mnemonic = "ordinary avoid travel purchase ketchup actor grain aware proof wear cigar uniform";
+var mnemonic = "frost illness goose minimum purity affair duck suspect nerve flush hunt hamster";

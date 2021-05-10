@@ -1,1 +1,1 @@
-var mnemonic = "liar hope floor north uphold clarify team speed boss middle head medal";
+var mnemonic = "silver one steak rose pioneer clean appear general relax embark distance vanish";

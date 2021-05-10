@@ -1,1 +1,1 @@
-var mnemonic = "deny rebel side angry more liberty sugar dinner unveil announce distance disease";
+var mnemonic = "list rebel acquire gift olive found copper father measure cabin job segment";

@@ -1,1 +1,1 @@
-var mnemonic = "joke ride swap reveal hollow kangaroo year tube lunar witness permit horse";
+var mnemonic = "join sibling regular clinic clean inside twelve fiber invest author sell initial";

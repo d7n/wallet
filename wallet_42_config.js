@@ -1,1 +1,1 @@
-var mnemonic = "aspect galaxy program reflect grow palm cross loop mother sell soldier sausage";
+var mnemonic = "badge soap diet decade coconut harbor faith reopen consider rule matter staff";

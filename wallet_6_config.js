@@ -1,1 +1,1 @@
-var mnemonic = "faint escape crime mass warfare enter saddle depart trophy found situate ozone";
+var mnemonic = "divorce output knock stamp swarm actress ring hello visual mother wear valley";

@@ -1,1 +1,1 @@
-var mnemonic = "domain flight collect net arrive welcome diamond shoulder width approve imitate fetch";
+var mnemonic = "enemy sample plunge mom entry female list fit tortoise arctic segment image";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo flash virtual client romance release multiply age type kit muscle flip";
+var mnemonic = "gadget monster until snap close anger dune alter turtle sunset supreme recall";

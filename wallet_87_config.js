@@ -1,1 +1,1 @@
-var mnemonic = "blood inch call mask buffalo rather unfair skull expire city guilt provide";
+var mnemonic = "matrix flavor buddy camera demise note advance giant return left urban lunch";

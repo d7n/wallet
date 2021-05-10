@@ -1,1 +1,1 @@
-var mnemonic = "purchase excuse exile glad quantum grunt turkey annual tackle either service comfort";
+var mnemonic = "reject spread into void double elegant tattoo citizen rigid never chicken weather";

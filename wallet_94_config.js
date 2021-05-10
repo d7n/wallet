@@ -1,1 +1,1 @@
-var mnemonic = "helmet mask share subway code burger hotel banana strong toast rude please";
+var mnemonic = "walnut foster gorilla vacant umbrella ceiling submit hello gas neck expand ignore";

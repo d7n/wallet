@@ -1,1 +1,1 @@
-var mnemonic = "joke axis creek rare crop end mouse chair volcano tattoo rocket slam";
+var mnemonic = "seat voice forward recycle lady gloom oyster friend track choose denial raise";

@@ -1,1 +1,1 @@
-var mnemonic = "embody lesson rabbit angry rely faint wood smoke edit feed recall off";
+var mnemonic = "tape quiz eager embrace bullet immune mountain enroll circle magic pencil wool";

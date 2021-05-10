@@ -1,1 +1,1 @@
-var mnemonic = "worry vehicle strong cousin arctic erupt guess fall hockey boil shoulder emerge";
+var mnemonic = "barrel carbon concert uncover eternal surface buffalo deliver post alone slab gossip";

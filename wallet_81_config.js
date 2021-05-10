@@ -1,1 +1,1 @@
-var mnemonic = "black reason song pretty later choose obscure print gas tourist canal card";
+var mnemonic = "pride twice sunset kit mutual term glide patient wine tattoo year entire";

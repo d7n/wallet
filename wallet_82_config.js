@@ -1,1 +1,1 @@
-var mnemonic = "canal prepare exchange describe pill angry giraffe move state conduct express online";
+var mnemonic = "galaxy banana empower try easy rather entry game spend valid hello razor";

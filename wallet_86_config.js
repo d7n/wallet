@@ -1,1 +1,1 @@
-var mnemonic = "slow dumb garment seat public settle point phrase ride measure physical orient";
+var mnemonic = "pepper float item caution unhappy powder country artist gas august reject tide";

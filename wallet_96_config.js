@@ -1,1 +1,1 @@
-var mnemonic = "submit gospel cheese meadow van orchard naive creek warfare few dish episode";
+var mnemonic = "diamond tray tiger utility helmet mule tobacco worry cushion danger giggle warfare";

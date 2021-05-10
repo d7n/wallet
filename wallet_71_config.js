@@ -1,1 +1,1 @@
-var mnemonic = "scorpion nation supreme tattoo reward quote burger joke dirt describe pyramid boat";
+var mnemonic = "vapor father move hip subway art hurry melt slim sick wage kitten";

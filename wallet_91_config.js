@@ -1,1 +1,1 @@
-var mnemonic = "call color chaos scale purpose chair discover entry acoustic slide road mixed";
+var mnemonic = "fiber museum napkin scatter mixed icon suspect join plug reason rude wave";

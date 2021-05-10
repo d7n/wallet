@@ -1,1 +1,1 @@
-var mnemonic = "merit nation tonight attend toast feature already patient island avoid demise unaware";
+var mnemonic = "ramp lawsuit broccoli sand harsh include mad during taste brand foot plug";

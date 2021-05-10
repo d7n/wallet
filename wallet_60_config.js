@@ -1,1 +1,1 @@
-var mnemonic = "seminar current lemon vicious group ski write cage finish consider find just";
+var mnemonic = "lake advice recall chicken board elder dune avoid marble love smoke parent";

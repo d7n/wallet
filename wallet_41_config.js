@@ -1,1 +1,1 @@
-var mnemonic = "raise sea source silly stock humble page eight dismiss duty when cereal";
+var mnemonic = "cost route pluck belt three cabin forget aim churn relief body source";

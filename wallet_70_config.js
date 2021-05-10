@@ -1,1 +1,1 @@
-var mnemonic = "toward cabin recall dawn toward spider situate thumb forum desert neutral lab";
+var mnemonic = "online culture stool water long employ catalog scissors foot book unhappy lamp";

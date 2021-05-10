@@ -1,1 +1,1 @@
-var mnemonic = "effort blur fee food daughter pitch gossip struggle ensure amazing coach rotate";
+var mnemonic = "program asthma soap cheese author scatter roof human describe ship divide permit";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh elbow brand physical inquiry bottom interest antique curious fever tortoise office";
+var mnemonic = "disorder example improve dream secret symptom repeat scheme burden cushion napkin human";

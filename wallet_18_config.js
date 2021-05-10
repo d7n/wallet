@@ -1,1 +1,1 @@
-var mnemonic = "choice squirrel guitar brown chicken chair win urban penalty usage slush vital";
+var mnemonic = "tag family noise sun frost bird accident waste just plug ceiling close";

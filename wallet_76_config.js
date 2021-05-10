@@ -1,1 +1,1 @@
-var mnemonic = "immune three wool barrel exhibit dolphin broccoli teach insect clock teach confirm";
+var mnemonic = "topple broken dragon enemy wife food film spatial twice coral cash exercise";

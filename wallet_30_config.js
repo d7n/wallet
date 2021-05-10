@@ -1,1 +1,1 @@
-var mnemonic = "scale horn vast fly slam include sweet skill direct angle obtain extend";
+var mnemonic = "song clerk pencil better put mosquito analyst board wedding oblige magic nice";

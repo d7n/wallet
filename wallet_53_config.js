@@ -1,1 +1,1 @@
-var mnemonic = "myself menu replace robust police glance globe media magic hurt alley royal";
+var mnemonic = "jazz betray breeze embrace display sister labor hedgehog tray notice sick sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "width accident now medal solid install wage time point powder maze update";
+var mnemonic = "myself fetch just congress elegant mind drop pelican drama warm trouble avoid";

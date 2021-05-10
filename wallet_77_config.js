@@ -1,1 +1,1 @@
-var mnemonic = "rib olive engine feature error loud maze wedding excuse reduce icon bike";
+var mnemonic = "twist grid sudden labor order teach coral also pill olympic craft between";

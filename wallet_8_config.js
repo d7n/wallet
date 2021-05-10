@@ -1,1 +1,1 @@
-var mnemonic = "drama topic delay long second jump change eight emerge innocent taxi fiction";
+var mnemonic = "solid method tornado error candy sausage end truly prize ozone crater power";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit betray gather wreck smoke under praise ahead plunge hill canyon huge";
+var mnemonic = "rare jacket legal below winter daughter adapt piano comfort visit call judge";

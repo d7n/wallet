@@ -1,1 +1,1 @@
-var mnemonic = "glance owner bonus volume crime split into rice drill night unfold amount";
+var mnemonic = "warrior tower play embrace true end quantum label spell unusual where cousin";

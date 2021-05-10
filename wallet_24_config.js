@@ -1,1 +1,1 @@
-var mnemonic = "elder eye present donor pudding twin mistake mango next honey transfer tilt";
+var mnemonic = "hip bring boring tank deputy improve slam chalk manual series phone pride";

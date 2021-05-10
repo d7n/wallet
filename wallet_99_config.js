@@ -1,1 +1,1 @@
-var mnemonic = "glance fatigue middle require output thrive oblige moon ivory broken admit camp";
+var mnemonic = "dial mix tunnel sustain base second skirt struggle stone inform valley strategy";

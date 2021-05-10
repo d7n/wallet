@@ -1,1 +1,1 @@
-var mnemonic = "upset voice head transfer area fly cause aware summer mix estate beauty";
+var mnemonic = "peanut chimney dice autumn journey aisle issue alpha domain doctor apple satisfy";

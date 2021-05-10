@@ -1,1 +1,1 @@
-var mnemonic = "work blush zoo penalty favorite sausage domain option chair defense furnace vicious";
+var mnemonic = "slow woman boost address survey exhibit usual author club alley scare burst";

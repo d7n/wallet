@@ -1,1 +1,1 @@
-var mnemonic = "pole rare ketchup kick print saddle behind shaft hen adjust scale plunge";
+var mnemonic = "axis net require hand garlic cry dragon alert good hazard sponsor grace";

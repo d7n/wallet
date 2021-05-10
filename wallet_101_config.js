@@ -1,1 +1,1 @@
-var mnemonic = "fee shed turkey borrow satisfy fine wool test mix cradle seat fan";
+var mnemonic = "gold service caught country pyramid ahead capital capable soup cricket term call";

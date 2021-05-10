@@ -1,1 +1,1 @@
-var mnemonic = "cable float satoshi coach little author super dad decade shrug then method";
+var mnemonic = "domain slab fetch casual boring decorate mad country win world stay stool";
