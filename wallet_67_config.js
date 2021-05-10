@@ -1,1 +1,1 @@
-var mnemonic = "wood mercy ticket brain ozone mushroom bitter chimney soldier analyst april lunar";
+var mnemonic = "upset voice head transfer area fly cause aware summer mix estate beauty";

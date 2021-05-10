@@ -1,1 +1,1 @@
-var mnemonic = "trumpet abuse crew panda rally build naive vehicle shy wink rug option";
+var mnemonic = "green boil unit pilot frame kick spell remind update labor feed box";

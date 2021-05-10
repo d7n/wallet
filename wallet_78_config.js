@@ -1,1 +1,1 @@
-var mnemonic = "result enhance useless hobby beach broken clutch stick elephant brief pattern lend";
+var mnemonic = "during wild sketch gap try dilemma walnut add garlic crush knife time";

@@ -1,1 +1,1 @@
-var mnemonic = "public rent desk merit grow toward outside choose disorder argue vague alert";
+var mnemonic = "drama topic delay long second jump change eight emerge innocent taxi fiction";

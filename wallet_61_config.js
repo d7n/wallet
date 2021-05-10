@@ -1,1 +1,1 @@
-var mnemonic = "uncle pyramid hotel document place educate exact develop basic jeans piano hunt";
+var mnemonic = "tribe trial alter ten cave air fatigue relief oil upgrade practice despair";

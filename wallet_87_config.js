@@ -1,1 +1,1 @@
-var mnemonic = "train school vicious text tennis bronze badge arena hint arrow quiz liberty";
+var mnemonic = "blood inch call mask buffalo rather unfair skull expire city guilt provide";

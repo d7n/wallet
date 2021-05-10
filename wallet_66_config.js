@@ -1,1 +1,1 @@
-var mnemonic = "intact mercy order page mean police damage suit win candy country unknown";
+var mnemonic = "island pause canal lawsuit basket term dynamic come outer ordinary bonus mention";

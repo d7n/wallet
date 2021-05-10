@@ -1,1 +1,1 @@
-var mnemonic = "never provide elevator essay offer express shift expand document fantasy nuclear mind";
+var mnemonic = "scale horn vast fly slam include sweet skill direct angle obtain extend";

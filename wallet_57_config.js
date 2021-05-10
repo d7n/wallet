@@ -1,1 +1,1 @@
-var mnemonic = "plug then egg tomorrow tail dismiss combine ritual seat once coyote very";
+var mnemonic = "possible note unfold annual you jazz talk whale rapid unfold exist woman";

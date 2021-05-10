@@ -1,1 +1,1 @@
-var mnemonic = "scrub tribe clinic position little furnace abuse friend very father swing survey";
+var mnemonic = "call color chaos scale purpose chair discover entry acoustic slide road mixed";

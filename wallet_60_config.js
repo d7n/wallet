@@ -1,1 +1,1 @@
-var mnemonic = "arch test sock endorse speak burger door feed wrestle half reward orphan";
+var mnemonic = "seminar current lemon vicious group ski write cage finish consider find just";

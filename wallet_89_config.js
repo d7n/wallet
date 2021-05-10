@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin gauge vote resource merge liquid cactus wood rich oven table myth";
+var mnemonic = "motor degree endless sheriff bread enrich coil nice increase noodle tag pink";

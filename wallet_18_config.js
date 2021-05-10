@@ -1,1 +1,1 @@
-var mnemonic = "ridge blade spatial ancient yellow fire mandate repeat ostrich fury hood render";
+var mnemonic = "choice squirrel guitar brown chicken chair win urban penalty usage slush vital";

@@ -1,1 +1,1 @@
-var mnemonic = "profit light kiwi become keen round assist wisdom unlock vacant forest garment";
+var mnemonic = "genius post section rug expect post calm initial twice make noodle service";

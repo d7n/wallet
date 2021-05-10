@@ -1,1 +1,1 @@
-var mnemonic = "clinic harsh hawk adjust sting level rally loyal physical creek dinosaur roast";
+var mnemonic = "reveal behind top case half bread beyond chalk offer success lemon spread";

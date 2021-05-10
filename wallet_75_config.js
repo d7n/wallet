@@ -1,1 +1,1 @@
-var mnemonic = "zone wheat alley egg cricket twin rely ostrich kitchen panda grain arctic";
+var mnemonic = "shine impulse casino cube expand urge logic robot symbol impose body infant";

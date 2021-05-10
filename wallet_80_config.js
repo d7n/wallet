@@ -1,1 +1,1 @@
-var mnemonic = "useless win mystery ridge force similar rescue much casual keep army usual";
+var mnemonic = "worry vehicle strong cousin arctic erupt guess fall hockey boil shoulder emerge";

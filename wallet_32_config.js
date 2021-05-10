@@ -1,1 +1,1 @@
-var mnemonic = "bargain vast veteran parade window ahead bacon album copper two sausage permit";
+var mnemonic = "joke ride swap reveal hollow kangaroo year tube lunar witness permit horse";

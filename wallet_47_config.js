@@ -1,1 +1,1 @@
-var mnemonic = "width eagle anchor almost blast kind design entry fluid tip dash toilet";
+var mnemonic = "glance owner bonus volume crime split into rice drill night unfold amount";

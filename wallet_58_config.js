@@ -1,1 +1,1 @@
-var mnemonic = "quit action glory rabbit raccoon chaos royal owner wedding illness parrot fame";
+var mnemonic = "equip unknown relax digital gold garage soul embrace friend settle file produce";

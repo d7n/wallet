@@ -1,1 +1,1 @@
-var mnemonic = "symptom vicious inflict very arch wedding frost birth captain ability anxiety woman";
+var mnemonic = "scorpion nation supreme tattoo reward quote burger joke dirt describe pyramid boat";

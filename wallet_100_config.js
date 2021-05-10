@@ -1,1 +1,1 @@
-var mnemonic = "project all chuckle lend tower melt mad region accident happy lion reform";
+var mnemonic = "marriage course survey connect canyon life before trophy pear speak author strong";

@@ -1,1 +1,1 @@
-var mnemonic = "travel drip hollow school habit away avocado snake path keep exhibit eye";
+var mnemonic = "lock vocal pilot video second cherry tag theory trade panel fine man";

@@ -1,1 +1,1 @@
-var mnemonic = "afford vendor couple uncover escape surge female two puppy allow express quick";
+var mnemonic = "black reason song pretty later choose obscure print gas tourist canal card";

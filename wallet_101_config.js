@@ -1,1 +1,1 @@
-var mnemonic = "cash cram rule minimum creek panther island wall time glimpse save series";
+var mnemonic = "fee shed turkey borrow satisfy fine wool test mix cradle seat fan";

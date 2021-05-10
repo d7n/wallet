@@ -1,1 +1,1 @@
-var mnemonic = "cousin taste unique slim swear motor rate trim bleak hawk tissue clerk";
+var mnemonic = "beyond raise subway visual fossil another traffic fee ten finger gravity noodle";

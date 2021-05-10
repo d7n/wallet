@@ -1,1 +1,1 @@
-var mnemonic = "depth convince umbrella license oil chronic worry gate puzzle tooth salon month";
+var mnemonic = "topic welcome syrup invite clarify license salt entire found behave youth hill";

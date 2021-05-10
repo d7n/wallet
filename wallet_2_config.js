@@ -1,1 +1,1 @@
-var mnemonic = "glare wait town buyer announce sing car pioneer double utility liar raccoon";
+var mnemonic = "talent east rough august huge wash must unknown deposit island orient lawn";

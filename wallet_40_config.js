@@ -1,1 +1,1 @@
-var mnemonic = "crew little offer ghost involve multiply glide smart goddess mutual west narrow";
+var mnemonic = "domain flight collect net arrive welcome diamond shoulder width approve imitate fetch";

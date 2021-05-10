@@ -1,1 +1,1 @@
-var mnemonic = "tomato ignore treat lizard cat tunnel high gospel stable enhance glimpse rough";
+var mnemonic = "code blanket report glimpse bonus subway wink brisk able spoil spawn word";

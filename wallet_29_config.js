@@ -1,1 +1,1 @@
-var mnemonic = "hurry enjoy inmate narrow dilemma spy dune hill spread author process toy";
+var mnemonic = "parrot other fold soap father swear myth enhance snap pony bronze height";

@@ -1,1 +1,1 @@
-var mnemonic = "alley salmon begin limit crowd biology minute sunny sound all rate outer";
+var mnemonic = "vanish general visa supreme illness poem shoot valid gym ignore brick dutch";

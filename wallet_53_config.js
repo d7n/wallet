@@ -1,1 +1,1 @@
-var mnemonic = "essay accuse blood use helmet magic range puzzle potato typical wool review";
+var mnemonic = "myself menu replace robust police glance globe media magic hurt alley royal";

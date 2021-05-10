@@ -1,1 +1,1 @@
-var mnemonic = "oppose wedding wrist strong glass must trap rain turn mobile legend anxiety";
+var mnemonic = "pole rare ketchup kick print saddle behind shaft hen adjust scale plunge";

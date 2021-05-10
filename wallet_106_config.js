@@ -1,1 +1,1 @@
-var mnemonic = "bubble rescue rate bargain exotic situate catalog spy wisdom spring street picnic";
+var mnemonic = "method armed race pill lamp coral lunar point case injury salute artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe assault symbol grace vessel cool correct before mobile stage radar little";
+var mnemonic = "female diary tomato alter relief scrub cotton bridge glow chicken scissors climb";

@@ -1,1 +1,1 @@
-var mnemonic = "sell myself eyebrow cigar arrange piece exit high fiction film aisle gather";
+var mnemonic = "minimum garlic sleep either recipe snap purchase tool ritual tragic soldier excite";

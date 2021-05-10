@@ -1,1 +1,1 @@
-var mnemonic = "silly unfold sun mail proof marine still exhaust deny inside veteran spawn";
+var mnemonic = "raise sea source silly stock humble page eight dismiss duty when cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "still upper fade motor wash doll blouse gravity rice cousin reflect grid";
+var mnemonic = "exercise clump manual bright cover rebuild fashion crumble indoor museum globe bag";

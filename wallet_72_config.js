@@ -1,1 +1,1 @@
-var mnemonic = "narrow build lawn major goose tell become boy glare winner dignity suit";
+var mnemonic = "come cruise motion also dance link ladder swim soda gasp welcome art";

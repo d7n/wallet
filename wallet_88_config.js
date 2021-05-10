@@ -1,1 +1,1 @@
-var mnemonic = "limit client wheat reflect disagree repeat helmet monkey surge diesel army nest";
+var mnemonic = "ceiling change puppy boy gold marine render fee green alter script mystery";

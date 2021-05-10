@@ -1,1 +1,1 @@
-var mnemonic = "approve diagram glad sea top man soup proof someone miss eagle found";
+var mnemonic = "faint escape crime mass warfare enter saddle depart trophy found situate ozone";

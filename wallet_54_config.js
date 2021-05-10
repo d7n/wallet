@@ -1,1 +1,1 @@
-var mnemonic = "road all tiny heart hard ripple piece occur dentist success minimum flame";
+var mnemonic = "wise virtual inherit silent exit cook brief negative guess tooth risk early";

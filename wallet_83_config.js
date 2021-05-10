@@ -1,1 +1,1 @@
-var mnemonic = "garden duck sadness settle harsh rifle slice above wage guess actress knock";
+var mnemonic = "enemy salute busy unit wagon case powder language enhance clarify whip high";

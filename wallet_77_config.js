@@ -1,1 +1,1 @@
-var mnemonic = "manual tragic rural wheat never cover minimum bring pass dumb spice grief";
+var mnemonic = "rib olive engine feature error loud maze wedding excuse reduce icon bike";

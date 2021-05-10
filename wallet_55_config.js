@@ -1,1 +1,1 @@
-var mnemonic = "various height upon shock fault stereo sword bridge cliff elegant debate process";
+var mnemonic = "tired afford stool very water leaf inherit critic siege shaft cousin bamboo";

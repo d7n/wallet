@@ -1,1 +1,1 @@
-var mnemonic = "galaxy garment pause cream parent burden afraid walnut hamster blood index cherry";
+var mnemonic = "deny rebel side angry more liberty sugar dinner unveil announce distance disease";

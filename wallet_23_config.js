@@ -1,1 +1,1 @@
-var mnemonic = "scatter wasp jaguar endless debris they lyrics knee extend toy knee offer";
+var mnemonic = "mammal humor produce volcano train mango miracle idea boat asthma flock margin";

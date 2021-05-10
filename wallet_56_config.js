@@ -1,1 +1,1 @@
-var mnemonic = "refuse wave emerge dune fan crucial typical exit marriage elbow check pepper";
+var mnemonic = "flavor rookie solid enrich jealous aim lemon bacon virus nation item eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom satoshi hip forget valid chapter alcohol person caution copy donate whale";
+var mnemonic = "code elephant suspect now unfold expect marble veteran street unknown web memory";

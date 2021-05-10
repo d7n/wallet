@@ -1,1 +1,1 @@
-var mnemonic = "vanish impulse merge laptop dutch cable cry foil duty code frequent like";
+var mnemonic = "sunny cage time detect slab metal garage across badge tool pass floor";

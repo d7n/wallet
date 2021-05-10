@@ -1,1 +1,1 @@
-var mnemonic = "load bid borrow render laptop icon off detail lazy decide rapid mail";
+var mnemonic = "head common sleep alert shrug thrive crawl script reopen vehicle spring cupboard";

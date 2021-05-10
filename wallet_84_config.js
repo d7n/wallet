@@ -1,1 +1,1 @@
-var mnemonic = "addict hawk merry message travel end peanut figure plate toward stock arrange";
+var mnemonic = "supply rocket catch cereal worth rough bunker lizard push airport marriage sniff";

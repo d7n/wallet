@@ -1,1 +1,1 @@
-var mnemonic = "resemble theme accident slice skin luxury wave yellow prize chicken dance lady";
+var mnemonic = "immune three wool barrel exhibit dolphin broccoli teach insect clock teach confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "inject funny plate cruel barrel lend allow laptop skill diagram learn fold";
+var mnemonic = "stuff pyramid bridge kidney weapon style school book century robust artist enemy";

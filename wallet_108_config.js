@@ -1,1 +1,1 @@
-var mnemonic = "thrive merit erase away analyst disease fetch shy capable toast tuna tilt";
+var mnemonic = "silk twelve clarify giant visual grow asthma vocal giant sudden session eye";

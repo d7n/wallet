@@ -1,1 +1,1 @@
-var mnemonic = "company flame siege cross father resource review tongue injury provide scare exotic";
+var mnemonic = "initial what force obey hobby thumb prevent unaware helmet nice liberty task";

@@ -1,1 +1,1 @@
-var mnemonic = "marine offer where layer mercy hurdle bamboo asset clay guess parade cactus";
+var mnemonic = "glance fatigue middle require output thrive oblige moon ivory broken admit camp";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle price possible enjoy very exit economy device magic defy ice execute";
+var mnemonic = "seminar social maze dutch duty reveal capital risk load dentist hedgehog rally";

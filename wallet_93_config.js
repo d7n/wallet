@@ -1,1 +1,1 @@
-var mnemonic = "future behave toward unhappy shrimp ankle awesome cash bubble joy prison thank";
+var mnemonic = "tray mean hire autumn shoe toss disease draw market economy echo frequent";

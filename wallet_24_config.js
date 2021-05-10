@@ -1,1 +1,1 @@
-var mnemonic = "legend remember buzz fruit add top envelope load guilt company easy ticket";
+var mnemonic = "elder eye present donor pudding twin mistake mango next honey transfer tilt";

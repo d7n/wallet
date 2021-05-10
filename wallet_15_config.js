@@ -1,1 +1,1 @@
-var mnemonic = "pledge victory version private belt film crazy adapt dinosaur subject stuff impact";
+var mnemonic = "purchase excuse exile glad quantum grunt turkey annual tackle either service comfort";

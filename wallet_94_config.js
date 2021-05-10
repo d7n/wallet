@@ -1,1 +1,1 @@
-var mnemonic = "female target shoulder enhance social quiz enter visit clock distance chalk spice";
+var mnemonic = "helmet mask share subway code burger hotel banana strong toast rude please";

@@ -1,1 +1,1 @@
-var mnemonic = "discover output combine wagon twist ask shiver ball banner desert gasp shed";
+var mnemonic = "cable float satoshi coach little author super dad decade shrug then method";

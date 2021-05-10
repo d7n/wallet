@@ -1,1 +1,1 @@
-var mnemonic = "skate happy acoustic expire round public crowd august daring bean choice pretty";
+var mnemonic = "input hurt else report swim polar lend bomb chronic mandate jewel despair";

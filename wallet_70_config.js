@@ -1,1 +1,1 @@
-var mnemonic = "better screen unusual easy luggage month gorilla chicken asthma aware enter adapt";
+var mnemonic = "toward cabin recall dawn toward spider situate thumb forum desert neutral lab";

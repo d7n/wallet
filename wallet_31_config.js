@@ -1,1 +1,1 @@
-var mnemonic = "shove balance figure monster faint giraffe multiply rude police quit captain faculty";
+var mnemonic = "attract skate space embrace zero hair pluck post use mixture then just";

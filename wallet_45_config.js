@@ -1,1 +1,1 @@
-var mnemonic = "shove carry six impact other dad camera way dad flush tent earth";
+var mnemonic = "hole lizard route alcohol vehicle author field leopard ecology exclude plug fun";

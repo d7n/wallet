@@ -1,1 +1,1 @@
-var mnemonic = "creek dynamic message crawl broccoli room size march hazard approve this rely";
+var mnemonic = "cancel item before inner orient hungry admit glue design live minimum anger";

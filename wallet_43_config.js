@@ -1,1 +1,1 @@
-var mnemonic = "achieve illegal rubber maid addict lift entry purity bone arch child walk";
+var mnemonic = "joke axis creek rare crop end mouse chair volcano tattoo rocket slam";

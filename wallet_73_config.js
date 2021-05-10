@@ -1,1 +1,1 @@
-var mnemonic = "hybrid whisper cup doctor left settle emotion nominee dolphin tube lawn settle";
+var mnemonic = "ordinary avoid travel purchase ketchup actor grain aware proof wear cigar uniform";

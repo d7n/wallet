@@ -1,1 +1,1 @@
-var mnemonic = "dragon spatial diary intact measure later brave brisk whip scatter weapon segment";
+var mnemonic = "embody lesson rabbit angry rely faint wood smoke edit feed recall off";

@@ -1,1 +1,1 @@
-var mnemonic = "term donkey region mushroom exact diet undo enough enable same lunar trick";
+var mnemonic = "width accident now medal solid install wage time point powder maze update";

@@ -1,1 +1,1 @@
-var mnemonic = "web useless galaxy banner input silk camp air genuine tortoise decline end";
+var mnemonic = "panda century spring marble cousin royal rail cover rescue gift wild duck";

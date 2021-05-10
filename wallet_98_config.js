@@ -1,1 +1,1 @@
-var mnemonic = "audit critic friend achieve clever again snack illness belt clarify yellow inner";
+var mnemonic = "work blush zoo penalty favorite sausage domain option chair defense furnace vicious";

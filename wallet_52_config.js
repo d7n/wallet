@@ -1,1 +1,1 @@
-var mnemonic = "earth asset vapor skull kind master boil recycle artist denial story stone";
+var mnemonic = "orbit betray gather wreck smoke under praise ahead plunge hill canyon huge";

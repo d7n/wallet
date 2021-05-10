@@ -1,1 +1,1 @@
-var mnemonic = "all consider trouble travel myself great place drop glass sponsor lion february";
+var mnemonic = "canal prepare exchange describe pill angry giraffe move state conduct express online";

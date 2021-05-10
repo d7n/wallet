@@ -1,1 +1,1 @@
-var mnemonic = "flip pride help sudden night solve blush zoo kidney pumpkin scale protect";
+var mnemonic = "material number buyer index produce insect senior speed recipe gravity question journey";

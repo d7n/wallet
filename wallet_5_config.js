@@ -1,1 +1,1 @@
-var mnemonic = "glare perfect nerve adult tip fragile kitten hundred casual drip magic million";
+var mnemonic = "belt envelope furnace vivid avocado drift announce deliver budget say slab mountain";

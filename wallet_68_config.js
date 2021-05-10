@@ -1,1 +1,1 @@
-var mnemonic = "resist pond cannon feature major sadness eagle kind deputy permit carpet top";
+var mnemonic = "vicious chase steak lens arrest option thunder waste solid cross pulp thumb";

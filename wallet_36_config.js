@@ -1,1 +1,1 @@
-var mnemonic = "equal become suggest bargain kitten guide elite smooth issue tilt foot vacant";
+var mnemonic = "zero peasant remember advance amused enter swear evidence machine grab enable people";

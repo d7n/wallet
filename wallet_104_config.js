@@ -1,1 +1,1 @@
-var mnemonic = "spoon mind edge sunny harbor chalk neck zero suspect wrestle broom punch";
+var mnemonic = "turn march symptom curious mind kite idle pet early grab company pizza";

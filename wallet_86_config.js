@@ -1,1 +1,1 @@
-var mnemonic = "thing detail goddess awkward above trip panda educate cute clarify three swear";
+var mnemonic = "slow dumb garment seat public settle point phrase ride measure physical orient";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion return voice fashion brief that smooth orchard special silver marble alcohol";
+var mnemonic = "banana stool tilt merry sleep alcohol defy useless zone minor street cluster";

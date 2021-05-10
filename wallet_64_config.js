@@ -1,1 +1,1 @@
-var mnemonic = "impose require beauty any kick tourist barely opinion example region float observe";
+var mnemonic = "decade melt early brush pig sick gadget road size risk asthma voice";

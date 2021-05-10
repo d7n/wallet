@@ -1,1 +1,1 @@
-var mnemonic = "net garbage require merge okay program hand dwarf detect depth simple area";
+var mnemonic = "fashion final all argue right quarter world proud ocean output elevator paper";

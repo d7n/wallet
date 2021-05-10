@@ -1,1 +1,1 @@
-var mnemonic = "race issue pottery aim vague faint width forest junior vacant method cat";
+var mnemonic = "aspect galaxy program reflect grow palm cross loop mother sell soldier sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle forum possible define chuckle right involve clog barrel minor glass fade";
+var mnemonic = "cloth timber palm kind cradle race hundred option install peace achieve evil";

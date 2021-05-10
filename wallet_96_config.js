@@ -1,1 +1,1 @@
-var mnemonic = "tail much silly wolf month lemon track amateur observe hood congress wave";
+var mnemonic = "submit gospel cheese meadow van orchard naive creek warfare few dish episode";

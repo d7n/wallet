@@ -1,1 +1,1 @@
-var mnemonic = "hour garden crowd lady kit pitch seminar brother aim front attitude copper";
+var mnemonic = "lecture clean someone scatter fresh cake wheel someone vault apology arena range";

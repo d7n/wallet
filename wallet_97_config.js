@@ -1,1 +1,1 @@
-var mnemonic = "actual dash saddle pool grant ramp olive amount rookie pole cement fold";
+var mnemonic = "asset blue burst wild crush promote box maid solar quantum void okay";

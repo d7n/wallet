@@ -1,1 +1,1 @@
-var mnemonic = "mercy shoe virtual relief tortoise plastic report grunt must tone used diary";
+var mnemonic = "coconut dwarf suit settle clutch room theory member tree reflect curious uncle";
