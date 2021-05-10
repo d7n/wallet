@@ -1,1 +1,1 @@
-var mnemonic = "motion chalk tree gate next turkey hamster maid kangaroo weird broom spray";
+var mnemonic = "find oak walk broom scout approve come below imitate wool air foil";

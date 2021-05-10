@@ -1,1 +1,1 @@
-var mnemonic = "pupil glue target bicycle pencil arrow resist guilt acid body vapor despair";
+var mnemonic = "clerk discover cause police wise hunt sugar twin betray little useful slide";

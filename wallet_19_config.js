@@ -1,1 +1,1 @@
-var mnemonic = "spot old occur play silk fossil shoe make base fall curious another";
+var mnemonic = "tone device steel must another view friend jealous intact evoke bread trade";

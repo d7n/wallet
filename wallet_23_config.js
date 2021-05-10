@@ -1,1 +1,1 @@
-var mnemonic = "myself initial entire enhance thought render annual south cluster patch robot citizen";
+var mnemonic = "manual property exclude myself audit lab language lizard confirm blue forward robust";

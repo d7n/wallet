@@ -1,1 +1,1 @@
-var mnemonic = "odor corn sort glove pioneer wire simple torch law scheme rent bridge";
+var mnemonic = "panther climb flower ranch surge possible current device dirt put hill adult";

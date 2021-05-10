@@ -1,1 +1,1 @@
-var mnemonic = "palm hobby dinner jeans budget relief climb middle demise thumb fork current";
+var mnemonic = "number near taste desert silent gown tourist divide pig stadium kingdom plate";

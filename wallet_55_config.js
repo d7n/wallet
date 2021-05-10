@@ -1,1 +1,1 @@
-var mnemonic = "fitness grab own tuna dignity bubble proof moral oyster tourist pigeon lizard";
+var mnemonic = "cattle hospital school polar soup legend swamp admit trade unveil punch tool";

@@ -1,1 +1,1 @@
-var mnemonic = "casino tenant spawn crater hobby grab joke exclude section license reopen expect";
+var mnemonic = "error fruit extend slush physical joy two unusual wait over expire suggest";

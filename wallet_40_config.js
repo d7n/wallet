@@ -1,1 +1,1 @@
-var mnemonic = "process dust grace cash bind rigid oblige pact hill mountain stem forest";
+var mnemonic = "local gate wheel pony embrace defy domain blood drama key saddle sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp oval napkin physical whisper into kid invite unveil entry fun defy";
+var mnemonic = "portion blur sweet artist toward siren round tattoo canal coach bullet kite";

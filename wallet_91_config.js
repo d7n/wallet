@@ -1,1 +1,1 @@
-var mnemonic = "lobster manage income merry agree wish sibling panther isolate foam close boring";
+var mnemonic = "minimum divorce pave law bounce design divert oven garment inner someone glow";

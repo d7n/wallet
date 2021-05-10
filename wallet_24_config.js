@@ -1,1 +1,1 @@
-var mnemonic = "cupboard monkey random return blast basket fitness puppy another mule minute canyon";
+var mnemonic = "wheat dinosaur hill extend deposit gossip hover picnic vessel such suspect bundle";

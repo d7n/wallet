@@ -1,1 +1,1 @@
-var mnemonic = "stage gorilla cover deliver royal mirror muffin spatial hip dentist exhibit practice";
+var mnemonic = "sphere fabric carpet oxygen latin gospel assault cool taste wrap gas fame";

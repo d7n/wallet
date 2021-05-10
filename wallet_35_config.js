@@ -1,1 +1,1 @@
-var mnemonic = "pulp vote much stem denial symbol deposit cement jazz vessel shield light";
+var mnemonic = "bag tunnel relax maple arrange throw retire gorilla begin special polar buddy";

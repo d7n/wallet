@@ -1,1 +1,1 @@
-var mnemonic = "soup grace sauce flock barrel flip clog advice annual much wrist pyramid";
+var mnemonic = "sphere clarify kick choice civil catch hidden hungry length screen engine equip";

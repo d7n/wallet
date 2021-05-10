@@ -1,1 +1,1 @@
-var mnemonic = "raw convince stable during curve proof solid one hood loop explain throw";
+var mnemonic = "eyebrow old leaf smile prevent cancel parent find idea until shift manage";

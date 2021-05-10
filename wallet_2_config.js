@@ -1,1 +1,1 @@
-var mnemonic = "lecture method either assume fluid estate barely olympic print season wreck push";
+var mnemonic = "collect kangaroo atom volume amateur foot toe casual heavy creek garbage cream";

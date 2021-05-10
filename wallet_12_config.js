@@ -1,1 +1,1 @@
-var mnemonic = "tone wagon toe bundle parrot dolphin balcony mother bronze phone much eager";
+var mnemonic = "enable space artefact top seat main syrup praise frown vintage child nephew";

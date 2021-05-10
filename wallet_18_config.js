@@ -1,1 +1,1 @@
-var mnemonic = "video alpha equal evil leopard secret actor decide average proud find edit";
+var mnemonic = "bone quantum they appear escape stereo imitate put promote bring this shiver";

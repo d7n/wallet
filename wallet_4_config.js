@@ -1,1 +1,1 @@
-var mnemonic = "cliff crawl hope donkey flame reveal pistol dance margin that trust owner";
+var mnemonic = "please gather warm room exclude walk orphan furnace boat guitar image approve";

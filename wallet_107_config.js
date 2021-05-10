@@ -1,1 +1,1 @@
-var mnemonic = "envelope cinnamon deer nest mosquito bag castle waste kind soft twenty tell";
+var mnemonic = "meadow olympic fantasy load divide equal tide inject bird happy lucky wash";

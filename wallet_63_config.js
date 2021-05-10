@@ -1,1 +1,1 @@
-var mnemonic = "cruise attend jump brisk student degree human journey host absurd note live";
+var mnemonic = "column tree bullet midnight survey soccer cruel special half vicious between filter";

@@ -1,1 +1,1 @@
-var mnemonic = "slot parrot pause spring apart agree spot silk meat lounge soft car";
+var mnemonic = "grunt monkey inquiry relax defy december humor ginger luggage initial giant truly";

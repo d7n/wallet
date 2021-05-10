@@ -1,1 +1,1 @@
-var mnemonic = "hard damp extend hen oxygen inherit orchard perfect wave inner struggle trigger";
+var mnemonic = "embrace ivory siege turn snake embark nice trade assault loop tag range";

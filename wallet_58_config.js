@@ -1,1 +1,1 @@
-var mnemonic = "slush dolphin sting faint own hour rather satisfy talk broom buyer fish";
+var mnemonic = "squeeze puzzle spoon pear leisure face sentence laundry jaguar ahead labor consider";

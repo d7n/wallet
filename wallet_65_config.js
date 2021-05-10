@@ -1,1 +1,1 @@
-var mnemonic = "strong hockey trust elevator olive lawn fox surge north accident tiger vacant";
+var mnemonic = "mirror can firm pyramid used copy square artwork game nothing enjoy trigger";

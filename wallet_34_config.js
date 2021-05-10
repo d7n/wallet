@@ -1,1 +1,1 @@
-var mnemonic = "style decrease zero drive wait actor stick brisk muscle antenna peanut bargain";
+var mnemonic = "swear truth upset grocery milk fault almost nerve broken chaos then boy";

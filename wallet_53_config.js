@@ -1,1 +1,1 @@
-var mnemonic = "segment rail hard tank shock injury bench afford trigger boat pull top";
+var mnemonic = "noble obvious city toilet glance rare ramp stem effort axis unknown indoor";

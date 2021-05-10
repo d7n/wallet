@@ -1,1 +1,1 @@
-var mnemonic = "laptop boat digital swallow ginger usage tag nurse meadow credit museum orbit";
+var mnemonic = "pool convince weird kangaroo captain gym female wire medal extra woman clinic";

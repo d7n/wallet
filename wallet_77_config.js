@@ -1,1 +1,1 @@
-var mnemonic = "trash pen nasty refuse avocado vehicle artefact category bubble sponsor ceiling coyote";
+var mnemonic = "hockey split ethics dial spoon clean mechanic attack sure chief flag auction";

@@ -1,1 +1,1 @@
-var mnemonic = "sick record artist impose more double fix piano rule chronic heavy fluid";
+var mnemonic = "notable gauge conduct intact wheel milk news kitten clutch conduct erode vehicle";

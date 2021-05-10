@@ -1,1 +1,1 @@
-var mnemonic = "live hunt smart assume lawsuit office wedding goddess shoulder color zebra border";
+var mnemonic = "hub park very wet upgrade acquire october fault group frog swap please";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo guess cluster bar trick verb grid wise great junk panther unable";
+var mnemonic = "miracle proud govern omit sponsor recall spice meadow pen affair bitter candy";

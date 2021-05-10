@@ -1,1 +1,1 @@
-var mnemonic = "pelican gossip damage surface steak alien wheat man birth october cement then";
+var mnemonic = "female ridge letter coyote donor solid pistol icon silk alarm aerobic surge";

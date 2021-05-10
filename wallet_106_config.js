@@ -1,1 +1,1 @@
-var mnemonic = "donate explain vendor garlic size offer wire okay portion estate survey outer";
+var mnemonic = "doctor move awake olive candy tail hybrid parent bench divide laptop yard";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil easily already aerobic galaxy boost price another submit someone shadow strike";
+var mnemonic = "lunar empty fly month sing all obvious jungle dumb opinion truth property";

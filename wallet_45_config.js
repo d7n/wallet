@@ -1,1 +1,1 @@
-var mnemonic = "mask any accident wise fame valid island truly spray exercise august title";
+var mnemonic = "artefact blame business author budget either robot drink favorite common fine hint";

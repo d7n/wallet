@@ -1,1 +1,1 @@
-var mnemonic = "awkward track minor kidney usual miss aim perfect treat phrase luxury orphan";
+var mnemonic = "horn jelly obvious calm menu february always direct police degree corn skin";

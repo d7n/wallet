@@ -1,1 +1,1 @@
-var mnemonic = "step erosion estate virus proof know divert monster ramp explain chimney year";
+var mnemonic = "depart similar series okay mountain cloud switch lady garment sail blanket napkin";

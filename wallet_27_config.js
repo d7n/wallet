@@ -1,1 +1,1 @@
-var mnemonic = "replace reunion gas sad crop good alarm width car artefact clog effort";
+var mnemonic = "curious source legal meadow any pave barrel load boil cigar decline satisfy";

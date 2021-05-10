@@ -1,1 +1,1 @@
-var mnemonic = "wrap february peanut connect flag office later unveil seminar front state happy";
+var mnemonic = "horn worth defy salmon verb wagon shove obscure spend token puppy mansion";

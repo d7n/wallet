@@ -1,1 +1,1 @@
-var mnemonic = "lab rubber thrive hard key fall rookie struggle stock tribe vault captain";
+var mnemonic = "lazy army elevator equal that faculty black mango pride neglect sample young";

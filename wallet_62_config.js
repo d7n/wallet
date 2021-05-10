@@ -1,1 +1,1 @@
-var mnemonic = "hover evoke chase notable tuition quick acoustic film jungle balance damage globe";
+var mnemonic = "trigger bamboo add endorse cruel dawn practice again pattern security remove dry";

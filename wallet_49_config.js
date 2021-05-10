@@ -1,1 +1,1 @@
-var mnemonic = "inner tent liar print educate angle tattoo blouse snow burden flight pipe";
+var mnemonic = "adult tortoise fluid nice custom develop approve indoor stuff ankle gesture point";

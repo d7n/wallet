@@ -1,1 +1,1 @@
-var mnemonic = "bid require analyst machine ketchup excite attitude icon crucial aspect attitude chief";
+var mnemonic = "rival custom excess later weird confirm stand issue lend endless chief wrong";

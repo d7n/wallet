@@ -1,1 +1,1 @@
-var mnemonic = "exchange man lift math dragon cat mom middle hope tackle cactus pet";
+var mnemonic = "what pen south pretty aerobic rack arrest bird limb size answer between";

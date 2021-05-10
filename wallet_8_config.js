@@ -1,1 +1,1 @@
-var mnemonic = "twenty mandate danger snow outside crunch file inmate bike photo asset behind";
+var mnemonic = "tongue phone plug canal expire skirt oxygen film allow exhaust knee elite";

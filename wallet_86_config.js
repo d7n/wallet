@@ -1,1 +1,1 @@
-var mnemonic = "usage stock scrub host acquire exclude heart dinosaur sister fury crumble grant";
+var mnemonic = "estate hurt furnace prize blanket purse hurdle army always very hotel hundred";

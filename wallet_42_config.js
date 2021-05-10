@@ -1,1 +1,1 @@
-var mnemonic = "differ snake struggle divorce rich wheat analyst save insane uniform acoustic gallery";
+var mnemonic = "define claim material forest smile fold ivory baby title infant forget sort";

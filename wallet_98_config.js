@@ -1,1 +1,1 @@
-var mnemonic = "route cannon flush sand catalog inquiry kiwi spread desk before program civil";
+var mnemonic = "afford panther rebel gold level skin crowd employ duty width audit plate";

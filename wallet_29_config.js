@@ -1,1 +1,1 @@
-var mnemonic = "attitude example flush town math enough final style better modify weird wrap";
+var mnemonic = "always athlete differ winner palm right tank rocket soon ceiling hurt organ";

@@ -1,1 +1,1 @@
-var mnemonic = "pill omit eyebrow wash resemble decide silly vibrant nasty thunder stable luggage";
+var mnemonic = "word grape right reject shuffle roof jungle inherit ghost gesture faint aisle";

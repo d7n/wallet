@@ -1,1 +1,1 @@
-var mnemonic = "then shrimp gloom crouch salt ritual shell alarm rib economy cement knock";
+var mnemonic = "adapt gauge crystal unveil guess source gown obey print fog hurt exclude";

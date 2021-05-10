@@ -1,1 +1,1 @@
-var mnemonic = "quick prevent misery notable shove wasp poem science ozone salt taste maximum";
+var mnemonic = "mystery mimic merit sleep erase unusual try eagle help grant sword ginger";

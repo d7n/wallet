@@ -1,1 +1,1 @@
-var mnemonic = "autumn general crazy hint collect lobster science what digital total fork solid";
+var mnemonic = "nothing trash retire faint share spare assault juice transfer bind valid isolate";

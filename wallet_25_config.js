@@ -1,1 +1,1 @@
-var mnemonic = "knee quarter noise soup trial session detail fault host educate ribbon supply";
+var mnemonic = "cruel approve genius once dad width assault coconut ramp okay found romance";

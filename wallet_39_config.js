@@ -1,1 +1,1 @@
-var mnemonic = "awful lunch ordinary potato spike electric genuine gain damage gravity olympic table";
+var mnemonic = "favorite cigar mom either knock diagram bulk hello surprise attend say refuse";

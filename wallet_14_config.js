@@ -1,1 +1,1 @@
-var mnemonic = "rice disease retire fortune whip habit bamboo club embrace priority lounge army";
+var mnemonic = "hat speak lab side rice common tone lunar decide board small actor";

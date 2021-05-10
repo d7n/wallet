@@ -1,1 +1,1 @@
-var mnemonic = "grain wink basic invest basket party scrub roof scene galaxy suffer transfer";
+var mnemonic = "glory cricket crazy aware express witness ahead write enrich gravity enforce slice";

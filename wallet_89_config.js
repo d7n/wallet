@@ -1,1 +1,1 @@
-var mnemonic = "oven supreme write wave gas chase rookie gap work silly frost host";
+var mnemonic = "auto great toddler pen trust uncover forget often float empower shrimp shaft";

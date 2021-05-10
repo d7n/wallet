@@ -1,1 +1,1 @@
-var mnemonic = "sport inmate target amount toilet neck control happy young glide leopard exit";
+var mnemonic = "eyebrow name juice inject bargain seminar library fluid drastic finish trim judge";

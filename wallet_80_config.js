@@ -1,1 +1,1 @@
-var mnemonic = "tape hand analyst nest pitch artwork hedgehog bulb ribbon clean mixed shrimp";
+var mnemonic = "immense cattle spin dynamic dash voyage maid whale bulb giraffe army sauce";

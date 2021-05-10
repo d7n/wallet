@@ -1,1 +1,1 @@
-var mnemonic = "throw blast office birth select salon bid essay tape either ill fame";
+var mnemonic = "tomato action mandate cart warm purchase task evolve kiss leg now predict";

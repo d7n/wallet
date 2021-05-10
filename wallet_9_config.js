@@ -1,1 +1,1 @@
-var mnemonic = "style usual reflect gather arrange garbage sport pole leg year toss earn";
+var mnemonic = "position silk know primary embark inject debris valley cage three turkey clinic";

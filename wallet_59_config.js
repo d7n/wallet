@@ -1,1 +1,1 @@
-var mnemonic = "behave knock artist offer sound will robust draw wine verb spend craft";
+var mnemonic = "vocal stadium child sword another jaguar doctor display erosion rhythm horror hour";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow upgrade pioneer mansion because tennis neither word fresh solution alley muscle";
+var mnemonic = "mad brown absurd expose nasty friend bind zone clinic fortune episode wolf";

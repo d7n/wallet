@@ -1,1 +1,1 @@
-var mnemonic = "cover lake tooth hockey manual balance switch infant item object leaf model";
+var mnemonic = "seminar slender love carpet toilet share fat arch sand average uncover juice";

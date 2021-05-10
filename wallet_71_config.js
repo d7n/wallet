@@ -1,1 +1,1 @@
-var mnemonic = "pulp ice adult girl beauty zoo gauge bench input song inner orient";
+var mnemonic = "pole shine promote cruel pony metal person season benefit volcano negative sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle hint common behind suit robot vague luggage connect retreat place announce";
+var mnemonic = "bright suggest swarm broom job gasp smooth boat tower hour empty cherry";

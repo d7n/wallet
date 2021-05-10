@@ -1,1 +1,1 @@
-var mnemonic = "ship fine noodle dry father earn anchor shiver ripple calm speed daughter";
+var mnemonic = "apple tell tiger hundred blast nuclear planet menu menu work lesson iron";

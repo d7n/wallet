@@ -1,1 +1,1 @@
-var mnemonic = "people region income slow aunt raven student runway tennis crash proof cover";
+var mnemonic = "accident ramp release fault bring final flee tree differ timber local theory";

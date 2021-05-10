@@ -1,1 +1,1 @@
-var mnemonic = "math chicken guitar humble puzzle reform seek scrap sphere hair squeeze where";
+var mnemonic = "entire nut element magic silent then property slide motion garage exile pass";

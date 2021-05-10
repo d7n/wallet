@@ -1,1 +1,1 @@
-var mnemonic = "visual soft smooth maple assault doctor outside gift filter step taxi vintage";
+var mnemonic = "man seven relief oblige bar miracle height test cancel scrap bid tissue";

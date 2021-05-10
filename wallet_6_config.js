@@ -1,1 +1,1 @@
-var mnemonic = "cabbage debris absorb hazard real glue poem horse easy merge throw hawk";
+var mnemonic = "earn sunny group debris bunker salon dash dice seminar sleep kick toss";

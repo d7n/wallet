@@ -1,1 +1,1 @@
-var mnemonic = "topic humor public solid sure famous public trap shoot derive service gauge";
+var mnemonic = "valve proof often frequent text mistake ice chuckle angle car panel gaze";

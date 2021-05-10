@@ -1,1 +1,1 @@
-var mnemonic = "upset bonus dish liar poverty palace wage assume tube real favorite elbow";
+var mnemonic = "loan vague gossip debris sentence sad spawn skate obscure drink rare unit";

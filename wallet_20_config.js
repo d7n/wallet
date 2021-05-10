@@ -1,1 +1,1 @@
-var mnemonic = "giraffe cover drop divorce emerge cabin stadium broom crop short hamster acoustic";
+var mnemonic = "stage mercy claim nephew heart swamp print marriage era best aware occur";

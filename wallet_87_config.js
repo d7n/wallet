@@ -1,1 +1,1 @@
-var mnemonic = "honey famous volcano grain mirror relax word primary domain general grass loud";
+var mnemonic = "announce twist drum timber oxygen process pact adapt share execute flat pupil";

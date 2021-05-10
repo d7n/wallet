@@ -1,1 +1,1 @@
-var mnemonic = "tourist holiday thought hip federal ozone normal crouch install furnace fossil matrix";
+var mnemonic = "era clutch delay undo song coral pact cricket unique jelly slender retreat";

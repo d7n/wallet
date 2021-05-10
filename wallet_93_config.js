@@ -1,1 +1,1 @@
-var mnemonic = "penalty strategy artist blade special donate federal cabin disease gown oven best";
+var mnemonic = "december abstract special tonight alpha female pudding alert cushion dumb glow margin";

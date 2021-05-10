@@ -1,1 +1,1 @@
-var mnemonic = "radio clinic first tray hint letter horn comic program spider make giggle";
+var mnemonic = "citizen chair manual stay remain course gorilla near camera good cart job";

@@ -1,1 +1,1 @@
-var mnemonic = "ready primary judge hold egg spider promote obscure thunder prefer melody emotion";
+var mnemonic = "dry enable guide galaxy uphold cart method hospital whip kiss point hedgehog";

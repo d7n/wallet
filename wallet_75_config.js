@@ -1,1 +1,1 @@
-var mnemonic = "enough allow board portion snow ranch phrase palm monster sadness wish impact";
+var mnemonic = "best adjust false exile prefer piece advice drip december system enter survey";

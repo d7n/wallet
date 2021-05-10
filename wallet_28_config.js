@@ -1,1 +1,1 @@
-var mnemonic = "kitchen copy excite burden welcome vintage artwork dismiss stomach steel fortune section";
+var mnemonic = "word couple mind train nose wreck sting tree federal attend express deal";

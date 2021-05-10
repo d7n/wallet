@@ -1,1 +1,1 @@
-var mnemonic = "age obey success cruel side drip nose pair angle loyal script awkward";
+var mnemonic = "woman praise arctic ivory notable task web someone unique inquiry wood salute";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate penalty smooth wise shield bottom tank cup patch similar clip absent";
+var mnemonic = "trigger rebuild economy silver okay mercy disease current gym uphold easy extra";

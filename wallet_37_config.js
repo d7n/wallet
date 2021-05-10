@@ -1,1 +1,1 @@
-var mnemonic = "cabin profit erase marine vague wreck consider congress bamboo rescue sell detect";
+var mnemonic = "immune smart area gasp regret trend credit tackle twelve lounge subway fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar couch purse canvas thought voice excite labor mind negative increase flight";
+var mnemonic = "agree liar crawl twist rabbit spot water fabric popular depth idea penalty";

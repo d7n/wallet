@@ -1,1 +1,1 @@
-var mnemonic = "habit panic chair ripple dawn citizen switch cram ozone mistake april dolphin";
+var mnemonic = "multiply demise say cream trigger bamboo funny marriage ticket subject monkey rely";

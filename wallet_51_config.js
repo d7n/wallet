@@ -1,1 +1,1 @@
-var mnemonic = "weapon figure give decade surprise because margin satisfy market stuff pole profit";
+var mnemonic = "away state degree box distance chronic box seed hero paddle safe wave";

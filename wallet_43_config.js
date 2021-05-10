@@ -1,1 +1,1 @@
-var mnemonic = "brush approve twice latin screen few real version snow civil west balance";
+var mnemonic = "rose force fit angle public fashion season ring wire during pond impose";

@@ -1,1 +1,1 @@
-var mnemonic = "relax wheel cost dizzy talk close pledge brave noble vibrant dog angry";
+var mnemonic = "receive diesel honey boil black awake north segment web result chaos trial";
