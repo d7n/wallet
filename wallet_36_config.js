@@ -1,1 +1,1 @@
-var mnemonic = "only crane satisfy agree route situate lawn curtain rescue chat brief outdoor";
+var mnemonic = "rely medal kite aware follow divert inherit napkin stove example coast soup";

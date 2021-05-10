@@ -1,1 +1,1 @@
-var mnemonic = "puppy wheat awful marriage orphan abandon dog crazy ginger borrow mechanic box";
+var mnemonic = "area chicken fine spawn foster sauce stool gaze shrug drift mobile click";

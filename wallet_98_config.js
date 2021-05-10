@@ -1,1 +1,1 @@
-var mnemonic = "excuse animal tuna derive bundle guilt cement nest dumb adult invite what";
+var mnemonic = "truck upon jaguar either together twelve erosion profit thunder amazing brand wave";

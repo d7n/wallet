@@ -1,1 +1,1 @@
-var mnemonic = "uncover pole pool garbage pair grunt expose roof program slush end swarm";
+var mnemonic = "ability pepper pave clinic oblige nephew fee tunnel frozen capital raise main";

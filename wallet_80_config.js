@@ -1,1 +1,1 @@
-var mnemonic = "away gap such face hope water offer silk hospital switch fault ancient";
+var mnemonic = "spirit isolate cable clever black upon frost draft cabin shove faculty there";

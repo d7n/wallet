@@ -1,1 +1,1 @@
-var mnemonic = "couch autumn indicate spatial share arrest envelope praise toward idle novel power";
+var mnemonic = "brother hello cabin duty right owner scan action pulp bleak original chase";

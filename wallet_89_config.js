@@ -1,1 +1,1 @@
-var mnemonic = "repeat input ensure smart dance wisdom inject secret utility benefit surge camp";
+var mnemonic = "chalk gloom blame detect idea inflict acquire feel crystal ridge access miracle";

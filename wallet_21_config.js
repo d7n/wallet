@@ -1,1 +1,1 @@
-var mnemonic = "merry sick eagle manual slogan spawn panic caution awkward outdoor design expire";
+var mnemonic = "thumb person busy cost foam celery dream solve ten adult funny snack";

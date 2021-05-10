@@ -1,1 +1,1 @@
-var mnemonic = "pink oval biology fortune dismiss brown hand leg great enlist core advice";
+var mnemonic = "sea blanket pulp source acid pool view note hunt focus boy nation";

@@ -1,1 +1,1 @@
-var mnemonic = "zone pledge autumn voyage country spot village say usage artist turtle knee";
+var mnemonic = "allow entry orient prison lamp under uncle display fragile skate always elite";

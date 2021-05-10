@@ -1,1 +1,1 @@
-var mnemonic = "round account milk stage before gossip give mother scheme father thought usual";
+var mnemonic = "awesome opera renew helmet give wrist smoke work enough junk ask bid";

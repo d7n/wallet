@@ -1,1 +1,1 @@
-var mnemonic = "cliff manage panic recipe almost extend agent congress damp essay refuse common";
+var mnemonic = "segment mean cement shaft repeat fragile wool rebuild road column fine design";

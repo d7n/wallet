@@ -1,1 +1,1 @@
-var mnemonic = "fever angle rifle heart drive wing torch drama soda goat profit mirror";
+var mnemonic = "electric drum timber sphere leader issue goddess company chest ancient lava stage";

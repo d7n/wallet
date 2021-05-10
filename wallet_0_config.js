@@ -1,1 +1,1 @@
-var mnemonic = "sing tip list swift sea glove pumpkin asthma coin waste wise left";
+var mnemonic = "angle increase relief allow usual island slogan ghost man cube clown boost";

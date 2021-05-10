@@ -1,1 +1,1 @@
-var mnemonic = "surprise crane recipe gadget proof angle panic desert survey search spoon ancient";
+var mnemonic = "bleak pistol under burger wish captain attend balcony swing arrange demise trend";

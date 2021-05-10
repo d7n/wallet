@@ -1,1 +1,1 @@
-var mnemonic = "beach lesson false elevator fury remain exist puzzle drive mercy arena provide";
+var mnemonic = "age shove setup audit result cricket champion adapt tuna human trumpet company";

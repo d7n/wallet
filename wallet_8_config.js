@@ -1,1 +1,1 @@
-var mnemonic = "worth huge crash mesh coyote head invite gesture area kitten monitor clock";
+var mnemonic = "patient erode chuckle guess struggle gun fatal duck erase frame clean bless";

@@ -1,1 +1,1 @@
-var mnemonic = "truck visa divide tree husband foster velvet powder mountain invest winner solar";
+var mnemonic = "cycle index wait envelope they marine fringe giggle danger cream spoil build";

@@ -1,1 +1,1 @@
-var mnemonic = "forget olive cash until hotel beauty riot truly beach deal cotton menu";
+var mnemonic = "bid defense chalk latin swear dish silly announce make cheap town film";

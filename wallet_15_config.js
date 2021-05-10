@@ -1,1 +1,1 @@
-var mnemonic = "mixture eager inform soft enough umbrella keen bridge climb test imitate gown";
+var mnemonic = "into tennis onion lesson sting rice time attend box ostrich novel roast";

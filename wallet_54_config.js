@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow build wife mammal dog fence across birth kingdom science trumpet goddess";
+var mnemonic = "danger cherry north pig laugh tired topic bomb true skirt dynamic congress";

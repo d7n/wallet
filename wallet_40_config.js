@@ -1,1 +1,1 @@
-var mnemonic = "twin slush crouch guitar duty box lady distance danger sick excess mimic";
+var mnemonic = "attack scissors theory alone gap expand answer range banner hedgehog wave blanket";

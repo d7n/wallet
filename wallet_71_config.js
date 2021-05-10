@@ -1,1 +1,1 @@
-var mnemonic = "vocal cherry suit license object stomach fortune viable quote rapid cigar nature";
+var mnemonic = "purse sting expect interest grief alarm garment dress life obvious panda more";

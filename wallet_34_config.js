@@ -1,1 +1,1 @@
-var mnemonic = "online scissors auction smart phrase fog flat purse race fence empty diet";
+var mnemonic = "protect nose very useless ski sustain mix library chaos acquire car stable";

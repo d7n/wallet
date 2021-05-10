@@ -1,1 +1,1 @@
-var mnemonic = "indicate tribe copper elephant midnight they language fossil wrap will pride travel";
+var mnemonic = "large sleep wrap pull skirt moral drop melt drip profit pulse team";

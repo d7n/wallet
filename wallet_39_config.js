@@ -1,1 +1,1 @@
-var mnemonic = "fantasy stock trip damage evolve unveil better weapon another enable wrestle curtain";
+var mnemonic = "street magnet hockey above infant mule bulk oil donor buyer gadget crush";

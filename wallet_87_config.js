@@ -1,1 +1,1 @@
-var mnemonic = "flush salon network desert seed regret swing ticket robot debate tag wheat";
+var mnemonic = "flock jar cost frequent neglect jungle agree magnet track victory quote puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi decade sick social eagle swift beyond practice mix soap wedding baby";
+var mnemonic = "birth fish bulk guitar square praise ladder true eight lounge oak insane";

@@ -1,1 +1,1 @@
-var mnemonic = "remind saddle culture dad theme arena dinosaur jacket mountain student attract about";
+var mnemonic = "mammal vote parent debate age satisfy cotton feel valley flock gallery anchor";

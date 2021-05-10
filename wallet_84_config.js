@@ -1,1 +1,1 @@
-var mnemonic = "beauty ability detail involve panda canyon ankle wealth hobby shallow mention cloud";
+var mnemonic = "mouse hazard honey service evoke animal smoke rack shove elephant awful vehicle";

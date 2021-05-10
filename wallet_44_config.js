@@ -1,1 +1,1 @@
-var mnemonic = "pioneer tumble mobile jacket gym skull input library room fragile course marriage";
+var mnemonic = "romance visa stable battle absent someone cover sort hat nerve object relax";

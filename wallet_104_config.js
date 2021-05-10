@@ -1,1 +1,1 @@
-var mnemonic = "team put great enroll around liar text swamp also noodle horn before";
+var mnemonic = "vocal casino metal blur all similar van aisle toward cover happy midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "token shield bicycle victory champion agent grape unfair agent depart jungle furnace";
+var mnemonic = "tenant mansion gloom arctic silent receive fun stick reward multiply window observe";

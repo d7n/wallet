@@ -1,1 +1,1 @@
-var mnemonic = "settle flush taste latin hint wet comfort wagon route lamp wood collect";
+var mnemonic = "involve lizard waste credit caution shadow worry fall accident design kiss flip";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel myself nest sentence pulse tortoise fuel shop mistake mammal awful tilt";
+var mnemonic = "tooth shield loud option chase clutch addict transfer bread false stand visa";

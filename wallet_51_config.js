@@ -1,1 +1,1 @@
-var mnemonic = "artist forest art zone approve benefit coral cable steel theme tower bubble";
+var mnemonic = "tackle price trick jeans embrace cloth forward almost gift label pride prefer";

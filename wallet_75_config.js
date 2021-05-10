@@ -1,1 +1,1 @@
-var mnemonic = "awkward beach view huge pet syrup wasp inch surface blind van ozone";
+var mnemonic = "head electric aspect strong jacket alter wedding actual dumb frame assist mirror";

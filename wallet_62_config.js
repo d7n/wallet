@@ -1,1 +1,1 @@
-var mnemonic = "hover pulse lottery ask glide oxygen envelope oblige flee turn job plastic";
+var mnemonic = "empty trip grab staff desk arctic depend thing special work virtual wedding";

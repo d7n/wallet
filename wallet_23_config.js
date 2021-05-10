@@ -1,1 +1,1 @@
-var mnemonic = "bachelor laptop day story lava memory acquire host salmon donor fatal fortune";
+var mnemonic = "wide anger mad fruit analyst cave language cool damp dolphin loud boil";

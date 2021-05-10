@@ -1,1 +1,1 @@
-var mnemonic = "build check loud vendor approve stumble transfer rent cart prevent walnut public";
+var mnemonic = "salad solve front sport develop coconut solve mask track offer risk arrest";

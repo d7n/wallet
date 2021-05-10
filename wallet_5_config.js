@@ -1,1 +1,1 @@
-var mnemonic = "quiz biology unveil shove aunt ahead company similar annual session draft fitness";
+var mnemonic = "special butter lunch scatter skin spray exile strategy useless hamster blur naive";

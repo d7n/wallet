@@ -1,1 +1,1 @@
-var mnemonic = "cactus spring arctic jazz cheap logic glimpse enter rich donor correct edit";
+var mnemonic = "tribe tube speak worth check bulb rib coach assault pet robot defy";

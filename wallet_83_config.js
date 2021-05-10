@@ -1,1 +1,1 @@
-var mnemonic = "come magnet rally curve debate ladder lab canal online elder excuse vapor";
+var mnemonic = "diet control bunker tent foot breeze enter ill grain sniff swim subject";

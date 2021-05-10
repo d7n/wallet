@@ -1,1 +1,1 @@
-var mnemonic = "fresh rib neutral erupt sail ginger unlock region advance viable dignity festival";
+var mnemonic = "solve mixed broom thrive view day approve coral moon clock quality dust";

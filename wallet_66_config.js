@@ -1,1 +1,1 @@
-var mnemonic = "moment retire account scene review amused trap achieve always electric hover robust";
+var mnemonic = "marriage submit witness spot shoot hair pelican script property venture adapt step";

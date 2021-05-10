@@ -1,1 +1,1 @@
-var mnemonic = "net print mushroom inside latin volcano genius sibling explain dizzy cabin load";
+var mnemonic = "extend announce call bridge furnace trial link upper surge pool scheme syrup";

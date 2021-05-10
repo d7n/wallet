@@ -1,1 +1,1 @@
-var mnemonic = "mixture quote aunt glide toddler great dinner unusual latin hair badge punch";
+var mnemonic = "stick finish risk waste then state ritual hospital close dwarf fine nothing";

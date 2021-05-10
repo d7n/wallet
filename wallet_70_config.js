@@ -1,1 +1,1 @@
-var mnemonic = "wagon present plug real huge case point fame give toe puppy letter";
+var mnemonic = "process riot refuse volume faculty loop orient decade scare enough claim derive";

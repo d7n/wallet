@@ -1,1 +1,1 @@
-var mnemonic = "energy group organ field cheap wheel oval axis pistol abandon scan vehicle";
+var mnemonic = "fitness note slide vacant pelican whisper cradle ancient total income leaf reason";

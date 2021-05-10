@@ -1,1 +1,1 @@
-var mnemonic = "between foster finish liar win hip gaze embody skull umbrella inherit divorce";
+var mnemonic = "make seven upgrade sense solid wrestle below unveil foam aware cinnamon soon";

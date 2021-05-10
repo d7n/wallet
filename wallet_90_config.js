@@ -1,1 +1,1 @@
-var mnemonic = "club stairs stereo cable paddle predict tree click shoot require skirt demand";
+var mnemonic = "globe struggle desk return grant potato claw divide recall crew squeeze problem";

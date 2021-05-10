@@ -1,1 +1,1 @@
-var mnemonic = "globe choice bring alley token decade peace calm useless replace enemy tank";
+var mnemonic = "glue joke problem food trumpet earth use enforce major addict era dress";

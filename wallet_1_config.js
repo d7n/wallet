@@ -1,1 +1,1 @@
-var mnemonic = "flower actress hip aerobic roof bird heart grow nose hedgehog insect barrel";
+var mnemonic = "clump online later detail settle chalk file travel lobster lunch hole season";

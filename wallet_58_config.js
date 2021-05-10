@@ -1,1 +1,1 @@
-var mnemonic = "carpet casino milk story swing pet fit horror casino circle code hill";
+var mnemonic = "dove place mean sword liar kitten cart stable cruel cargo push sustain";

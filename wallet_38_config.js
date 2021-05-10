@@ -1,1 +1,1 @@
-var mnemonic = "beyond flip human boil flag same grocery reopen boss pig strike team";
+var mnemonic = "proud oil annual then round dismiss affair critic message tumble empty exist";

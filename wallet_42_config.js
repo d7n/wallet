@@ -1,1 +1,1 @@
-var mnemonic = "peanut gain slam amazing rack bulk airport laundry frost foil visa magic";
+var mnemonic = "stumble collect sustain artefact urge damp net tired cable spike dizzy stove";

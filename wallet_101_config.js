@@ -1,1 +1,1 @@
-var mnemonic = "test remind curve defy urban glove such captain borrow inch start zoo";
+var mnemonic = "suit sort phrase popular home walk vapor poverty connect game cabin walnut";

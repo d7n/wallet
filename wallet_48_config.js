@@ -1,1 +1,1 @@
-var mnemonic = "chuckle album fuel reduce humor illegal weekend tenant foil favorite boy require";
+var mnemonic = "fan sunset foot fish nurse real gauge dilemma fabric urge okay fix";

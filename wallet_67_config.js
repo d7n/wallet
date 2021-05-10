@@ -1,1 +1,1 @@
-var mnemonic = "palm door swim mom sadness loan chair battle direct age feel close";
+var mnemonic = "firm police swear clerk zero weasel any erode ridge head middle ahead";

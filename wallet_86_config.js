@@ -1,1 +1,1 @@
-var mnemonic = "door chase elbow pitch tooth private august strategy eyebrow mandate hard beach";
+var mnemonic = "churn nuclear quiz jump object usage guitar abuse crack kit city okay";

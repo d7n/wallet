@@ -1,1 +1,1 @@
-var mnemonic = "beef rough flight expire stable treat general patrol scale link check portion";
+var mnemonic = "dice number toe toward nasty seat similar walk list cube balcony lonely";

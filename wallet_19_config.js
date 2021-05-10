@@ -1,1 +1,1 @@
-var mnemonic = "wolf pact museum rotate company hire rapid enemy mention flock girl that";
+var mnemonic = "immense mobile capital unaware away filter chimney electric visual behave walnut arm";

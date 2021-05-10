@@ -1,1 +1,1 @@
-var mnemonic = "luxury castle orange people human ostrich hockey rabbit screen enrich trap poet";
+var mnemonic = "describe domain balcony mail cram little human thunder vault draft cushion dish";

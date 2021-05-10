@@ -1,1 +1,1 @@
-var mnemonic = "twenty pen orbit average toss fee hidden dragon still ability addict reject";
+var mnemonic = "student only base tonight switch shoulder type clean imitate phrase beef route";

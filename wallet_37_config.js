@@ -1,1 +1,1 @@
-var mnemonic = "nut lawsuit sadness rapid tomorrow myth grit bench lecture practice bus route";
+var mnemonic = "build cereal invest cost patient glare into tribe vacuum near canal conduct";

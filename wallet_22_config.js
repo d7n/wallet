@@ -1,1 +1,1 @@
-var mnemonic = "prosper strike trust celery float wrestle dial frequent shine coin sight month";
+var mnemonic = "car guilt cycle siren empty give winter because limb bomb august deal";

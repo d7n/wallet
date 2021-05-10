@@ -1,1 +1,1 @@
-var mnemonic = "address excuse wrong glove weasel weasel useful grace sibling agent isolate artwork";
+var mnemonic = "luxury test need carbon resource economy wave flock afraid monkey layer leaf";

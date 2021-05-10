@@ -1,1 +1,1 @@
-var mnemonic = "spatial know festival matrix lens donkey amused birth digital island prefer heart";
+var mnemonic = "hair dentist try later good exclude junk suspect wisdom subway doctor inform";

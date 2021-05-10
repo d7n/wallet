@@ -1,1 +1,1 @@
-var mnemonic = "fly champion meadow section prize reopen nominee harsh gloom balance wreck layer";
+var mnemonic = "giant assume indicate resource owner unique flame wait moon focus render another";

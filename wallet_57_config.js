@@ -1,1 +1,1 @@
-var mnemonic = "stumble furnace ginger dilemma lottery guide butter blind gravity group evolve price";
+var mnemonic = "front level winter fame clutch excuse resemble aim swing sphere car protect";

@@ -1,1 +1,1 @@
-var mnemonic = "acid must butter buffalo photo chimney element fluid glory october glove truly";
+var mnemonic = "profit notable review february upper alone cram place shaft stay hamster suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "same sustain beauty carpet nasty embrace outer holiday multiply chalk monkey black";
+var mnemonic = "machine tunnel goat seminar attack warfare genuine firm pony panic swift asset";

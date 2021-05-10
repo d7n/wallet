@@ -1,1 +1,1 @@
-var mnemonic = "refuse clown elite virus absurd shell month gasp copy mechanic suspect gadget";
+var mnemonic = "erupt fragile sorry peasant path blur uncover sail lyrics define apart pill";

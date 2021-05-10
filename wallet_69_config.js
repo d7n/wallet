@@ -1,1 +1,1 @@
-var mnemonic = "ball wild couch thunder jeans half brave trumpet jar electric notable arrive";
+var mnemonic = "galaxy impulse invest name reunion walnut explain message hover credit call toast";

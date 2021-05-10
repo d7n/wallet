@@ -1,1 +1,1 @@
-var mnemonic = "similar calm champion potato alter clap dilemma there swift average hedgehog glove";
+var mnemonic = "famous airport rhythm emerge arch change kite swarm debris heavy cinnamon lonely";

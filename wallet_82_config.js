@@ -1,1 +1,1 @@
-var mnemonic = "timber better bicycle concert model river breeze basket crucial mango drink seed";
+var mnemonic = "foster stay draft wrap cross coil laundry staff wool thrive fortune sign";

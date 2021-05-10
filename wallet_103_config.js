@@ -1,1 +1,1 @@
-var mnemonic = "fish turn zoo just size radar mobile east used car garage plug";
+var mnemonic = "typical few chuckle leader shrimp true interest juice drastic jar rice seat";

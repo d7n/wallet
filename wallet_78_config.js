@@ -1,1 +1,1 @@
-var mnemonic = "guess valley egg travel siege ask ghost taxi kitten abstract gun income";
+var mnemonic = "field develop exit ghost gasp exchange swift intact gorilla aware puppy gift";

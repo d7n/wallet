@@ -1,1 +1,1 @@
-var mnemonic = "foot salt crumble flock tail design birth odor agree monitor seat repeat";
+var mnemonic = "circle split fluid hollow into unfair street business follow weird history barrel";

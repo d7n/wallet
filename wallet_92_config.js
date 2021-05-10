@@ -1,1 +1,1 @@
-var mnemonic = "fat soccer indoor attitude sense narrow spice wink bright behind disease laundry";
+var mnemonic = "differ aspect viable force throw elephant flavor glue sibling length drop flavor";

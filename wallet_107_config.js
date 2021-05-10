@@ -1,1 +1,1 @@
-var mnemonic = "wagon orphan nose glad human airport bag flight lucky layer various defense";
+var mnemonic = "lawsuit rapid wealth priority list ethics make travel clip quit earth today";

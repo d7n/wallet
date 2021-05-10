@@ -1,1 +1,1 @@
-var mnemonic = "front degree action kangaroo fortune rice popular angry dentist dream unlock van";
+var mnemonic = "velvet portion enjoy cage feed clarify finish illness visa rhythm embrace hobby";

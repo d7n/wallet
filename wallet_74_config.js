@@ -1,1 +1,1 @@
-var mnemonic = "case actual eyebrow arrow credit bunker solve same knock squirrel sponsor quality";
+var mnemonic = "energy hub equip knee rude cargo carry impose mimic scissors rally bronze";

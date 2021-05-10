@@ -1,1 +1,1 @@
-var mnemonic = "weasel crouch into gown nurse scout avoid today clog scale input leg";
+var mnemonic = "element ten faint olive maid swamp asthma boy curve bulb trumpet manage";

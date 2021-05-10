@@ -1,1 +1,1 @@
-var mnemonic = "slam skirt material below soldier raven claim unaware candy defense belt require";
+var mnemonic = "business indoor minimum park fragile jelly mention spirit wait neck rough sight";
