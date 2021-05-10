@@ -1,1 +1,1 @@
-var mnemonic = "kidney leave velvet under key butter dust like ketchup letter iron before";
+var mnemonic = "wheel iron awesome chalk vault loud piano core sentence eager circle call";

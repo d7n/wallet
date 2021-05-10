@@ -1,1 +1,1 @@
-var mnemonic = "easily flavor layer joy humor gap brisk list random timber mean hero";
+var mnemonic = "debris employ armed belt useless hire mercy rebuild give copy trap gallery";

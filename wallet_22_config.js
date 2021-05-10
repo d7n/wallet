@@ -1,1 +1,1 @@
-var mnemonic = "pony afraid infant wait mention sketch file hip subway scheme squeeze nurse";
+var mnemonic = "lonely control gap grape planet stone rubber cup happy bargain cousin sting";

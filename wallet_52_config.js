@@ -1,1 +1,1 @@
-var mnemonic = "swing yard egg sort drip wheat potato entry bid athlete real off";
+var mnemonic = "book heavy side session wife juice other crawl discover prosper limit general";

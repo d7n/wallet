@@ -1,1 +1,1 @@
-var mnemonic = "physical prison popular grab much offer spike saddle this couch kangaroo amateur";
+var mnemonic = "faith doll joke poem sight actor tobacco problem buyer only celery rate";

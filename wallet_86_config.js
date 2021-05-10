@@ -1,1 +1,1 @@
-var mnemonic = "improve auto cargo lion crop neglect toss cruise panther donor flash purse";
+var mnemonic = "flavor narrow own final wood crouch track decade picture tube slender hurdle";

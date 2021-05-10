@@ -1,1 +1,1 @@
-var mnemonic = "lens effort neck oyster valley agent hire ridge mask hint change round";
+var mnemonic = "satisfy waste chunk happy gesture cushion vocal south day behave gloom custom";

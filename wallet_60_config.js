@@ -1,1 +1,1 @@
-var mnemonic = "swarm sad magnet labor vanish okay interest mean dove regret notable error";
+var mnemonic = "romance vacant mad leg endorse taxi acoustic deliver indicate duck vacant diamond";

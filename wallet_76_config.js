@@ -1,1 +1,1 @@
-var mnemonic = "defy fatigue right crunch lift quote option adapt boy cage task gaze";
+var mnemonic = "bacon area maid strategy ghost honey fun deliver message shiver saddle cycle";

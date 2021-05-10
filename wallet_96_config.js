@@ -1,1 +1,1 @@
-var mnemonic = "paddle dove know receive rookie chunk eyebrow canoe season life teach guard";
+var mnemonic = "cargo fall caution gallery shadow govern material exclude pipe unfair climb miracle";

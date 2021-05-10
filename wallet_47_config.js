@@ -1,1 +1,1 @@
-var mnemonic = "poem lunar song sweet grief usage cheap aerobic chief prepare choice fold";
+var mnemonic = "human crisp axis grape plug rubber pitch leisure first monitor bridge sponsor";

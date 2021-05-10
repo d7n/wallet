@@ -1,1 +1,1 @@
-var mnemonic = "luggage swamp educate ticket tenant canal movie chief creek dance blue wear";
+var mnemonic = "then load false actual clean remove shuffle wash under reward shrimp vacuum";

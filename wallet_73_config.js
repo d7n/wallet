@@ -1,1 +1,1 @@
-var mnemonic = "very stand pride remove voyage fabric magnet exit comic misery upset buddy";
+var mnemonic = "income retire treat unusual jacket false cabbage submit amazing canal gesture nest";

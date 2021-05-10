@@ -1,1 +1,1 @@
-var mnemonic = "traffic air zebra paper book latin game cotton install monitor chief final";
+var mnemonic = "dance try spatial hospital inch labor silver wonder giant dream repair million";

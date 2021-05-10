@@ -1,1 +1,1 @@
-var mnemonic = "join bridge alien plug enlist say basic inspire put twist pause want";
+var mnemonic = "ill robot cannon space same gaze catalog water legal during wild company";

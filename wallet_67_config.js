@@ -1,1 +1,1 @@
-var mnemonic = "alien dune that enough vicious sweet impact inmate note shine weird food";
+var mnemonic = "noodle weasel virtual drink pig nominee smooth excess beyond capital apple priority";

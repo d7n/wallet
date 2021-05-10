@@ -1,1 +1,1 @@
-var mnemonic = "margin tone choose tragic pole divert remain sign advice lounge security lumber";
+var mnemonic = "always mouse ill chase inject load leopard fetch trade large kick broom";

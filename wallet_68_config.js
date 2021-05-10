@@ -1,1 +1,1 @@
-var mnemonic = "cigar road capital eternal rose direct expire snow claim hint use alcohol";
+var mnemonic = "dizzy purchase hour feel nest armed calm music seminar loyal young orient";

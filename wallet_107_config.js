@@ -1,1 +1,1 @@
-var mnemonic = "crush guess cactus math foot pretty submit disorder border slide cluster audit";
+var mnemonic = "mass dismiss note deposit mammal slice hidden another material prevent once mutual";

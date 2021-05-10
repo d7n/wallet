@@ -1,1 +1,1 @@
-var mnemonic = "simple crisp glory harsh six argue athlete tank fade cinnamon wine hover";
+var mnemonic = "stumble neutral naive oxygen master divert march team call insane hint approve";

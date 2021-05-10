@@ -1,1 +1,1 @@
-var mnemonic = "deny sound custom because talent original online pulp smooth security reopen angry";
+var mnemonic = "honey raw woman fire mean lounge creek finger again skate spread renew";

@@ -1,1 +1,1 @@
-var mnemonic = "skill space aerobic beach inform bus ancient chalk sample anxiety become clean";
+var mnemonic = "circle setup rug junk kiwi pistol alpha culture please pet toward any";

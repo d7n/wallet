@@ -1,1 +1,1 @@
-var mnemonic = "trip shiver pen nominee vocal chronic frame tennis wealth combine item pave";
+var mnemonic = "fatigue afford model such split coyote boil sauce punch action cloud chicken";

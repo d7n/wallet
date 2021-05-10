@@ -1,1 +1,1 @@
-var mnemonic = "hurdle able twelve local keep elder gorilla impulse orphan planet siege atom";
+var mnemonic = "luxury come feature donate business rack stick february valve faith resource fossil";

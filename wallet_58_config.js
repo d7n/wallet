@@ -1,1 +1,1 @@
-var mnemonic = "absorb reform laptop mix license gown festival shoulder half neck ice risk";
+var mnemonic = "roast scrap monster easy current tide cactus broken bargain swear knock frown";

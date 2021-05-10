@@ -1,1 +1,1 @@
-var mnemonic = "entry lock hub long broken arch major nephew bread moral rubber sugar";
+var mnemonic = "brain whale resemble hedgehog gauge mesh cluster push voice job relief seat";

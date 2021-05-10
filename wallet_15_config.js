@@ -1,1 +1,1 @@
-var mnemonic = "fruit under already dash silly wall they clump huge orchard chunk accuse";
+var mnemonic = "ramp exit offer destroy spoil purchase globe order insect visit puzzle naive";

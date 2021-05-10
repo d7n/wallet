@@ -1,1 +1,1 @@
-var mnemonic = "kit lesson cluster broom move tennis grief hockey agree scale toddler regret";
+var mnemonic = "shrimp cream grain insect lucky cook cute caught gospel afraid pitch valve";

@@ -1,1 +1,1 @@
-var mnemonic = "trap depend breeze december seat involve catch misery since column grape laundry";
+var mnemonic = "tilt melody protect frame resist day helmet emerge usage whale castle among";

@@ -1,1 +1,1 @@
-var mnemonic = "carry volcano wild egg into crime crunch mean panel rate hole stairs";
+var mnemonic = "clap fetch bubble card slender tonight mean card fan metal blame sing";

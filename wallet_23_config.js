@@ -1,1 +1,1 @@
-var mnemonic = "ship slender salon destroy clip weasel gloom try credit enroll lunar lab";
+var mnemonic = "brief blame gather cute gloom gun drift consider evoke paddle fetch glimpse";

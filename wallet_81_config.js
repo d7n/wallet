@@ -1,1 +1,1 @@
-var mnemonic = "shoulder borrow lottery canvas promote pyramid wonder wolf hurry table multiply illness";
+var mnemonic = "reunion youth cave october multiply senior feel hub year notable raise steak";

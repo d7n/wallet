@@ -1,1 +1,1 @@
-var mnemonic = "among powder pilot mouse husband fall axis robust agree unknown dress match";
+var mnemonic = "trial talk canal dust retreat essay soldier purchase outdoor anchor web violin";

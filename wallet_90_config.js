@@ -1,1 +1,1 @@
-var mnemonic = "raise fat moment stick venue vacuum comic amateur captain lab shuffle yard";
+var mnemonic = "basket flock more glimpse pride say convince eager pig priority switch boat";

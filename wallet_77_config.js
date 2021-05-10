@@ -1,1 +1,1 @@
-var mnemonic = "labor atom vague victory dove citizen worth allow dentist wool police cluster";
+var mnemonic = "memory remove paper piano omit knee gloom lunch post enemy paddle betray";

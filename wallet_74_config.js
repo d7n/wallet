@@ -1,1 +1,1 @@
-var mnemonic = "token bicycle loyal giggle double mad enforce busy found when damp gauge";
+var mnemonic = "expect mention runway text smooth thunder need steak firm engage example crumble";

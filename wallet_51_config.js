@@ -1,1 +1,1 @@
-var mnemonic = "nephew cushion vote hint collect caution expect kit onion genuine nerve car";
+var mnemonic = "anxiety enjoy index dismiss brown feel more wrestle confirm crush inhale tip";

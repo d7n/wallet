@@ -1,1 +1,1 @@
-var mnemonic = "much parade powder first latin fantasy lucky book enact museum royal initial";
+var mnemonic = "oyster column live train record tool axis repeat repeat goose key weekend";

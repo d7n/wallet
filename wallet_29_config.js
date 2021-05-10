@@ -1,1 +1,1 @@
-var mnemonic = "item purchase disagree pear absent add doctor anger wet game illegal under";
+var mnemonic = "crawl rally disagree raccoon cage stereo relax such grass nice holiday agree";

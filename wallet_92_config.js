@@ -1,1 +1,1 @@
-var mnemonic = "private cage butter extra swap sentence below when fitness huge decrease setup";
+var mnemonic = "author soft boost detail avoid forum umbrella room clip carpet hint illness";

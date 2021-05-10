@@ -1,1 +1,1 @@
-var mnemonic = "forum crazy dilemma sausage success snow inherit drastic lava hungry shrug family";
+var mnemonic = "wealth tumble left mechanic wolf bus honey hour seat feed cup deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "turn blanket cement victory pond spin torch same envelope candy fix humor";
+var mnemonic = "coral marine bunker dry tragic invest tennis umbrella click recycle current pledge";

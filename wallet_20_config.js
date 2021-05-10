@@ -1,1 +1,1 @@
-var mnemonic = "daughter sword donkey piano dry together danger drill level speak push measure";
+var mnemonic = "shield horse horse waste fix extra cook horror custom wife pen wink";

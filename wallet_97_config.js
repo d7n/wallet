@@ -1,1 +1,1 @@
-var mnemonic = "smoke camera faint language island two leg ankle cart ginger fork predict";
+var mnemonic = "stem puzzle tide welcome tornado quarter roof toast hero trade skirt absorb";

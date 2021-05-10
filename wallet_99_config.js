@@ -1,1 +1,1 @@
-var mnemonic = "behind kiwi bunker bubble shuffle yard gate judge boat amount tiger hello";
+var mnemonic = "grant shoulder box floor repeat analyst shoe silk talk bus raise robust";

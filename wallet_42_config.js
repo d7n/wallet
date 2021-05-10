@@ -1,1 +1,1 @@
-var mnemonic = "demand wrong napkin hamster noble thrive bright old meadow stumble runway fork";
+var mnemonic = "manage measure color wealth rookie perfect scare recycle become leaf that menu";

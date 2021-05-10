@@ -1,1 +1,1 @@
-var mnemonic = "ball impact swamp slender forward subway uncle bonus idle floor awake point";
+var mnemonic = "tuition crew joy faculty okay powder defense wave museum alert banana during";

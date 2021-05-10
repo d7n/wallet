@@ -1,1 +1,1 @@
-var mnemonic = "scout immune purity frozen urge broom axis lab october embrace rice blast";
+var mnemonic = "rigid throw clap cruel icon turtle flag ceiling neither gesture flower unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom change blouse bunker harvest water fix tired vague bus cinnamon satoshi";
+var mnemonic = "smoke tiger soul detect burst monster fly quote water sponsor tool ozone";

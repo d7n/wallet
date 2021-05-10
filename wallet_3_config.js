@@ -1,1 +1,1 @@
-var mnemonic = "icon combine stamp pony quick cliff column baby develop square voyage biology";
+var mnemonic = "old whale humble blame cube month beef real raise barrel secret flag";

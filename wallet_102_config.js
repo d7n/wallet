@@ -1,1 +1,1 @@
-var mnemonic = "quick wagon open mad soccer buyer key hub call wall unique chunk";
+var mnemonic = "few cliff squirrel problem anchor coyote cradle quantum balcony raven wire vicious";

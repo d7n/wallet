@@ -1,1 +1,1 @@
-var mnemonic = "east alpha vault regular win concert door sign lobster broken glare smile";
+var mnemonic = "bunker crucial tragic inmate busy wrist point toddler pause cabin bachelor dream";

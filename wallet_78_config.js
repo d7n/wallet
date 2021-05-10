@@ -1,1 +1,1 @@
-var mnemonic = "across marine when nice laugh crazy cross wagon fine mountain bring tomato";
+var mnemonic = "hollow lawn dog private barrel sunny artefact genuine denial twin metal garage";

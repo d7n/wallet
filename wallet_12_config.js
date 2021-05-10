@@ -1,1 +1,1 @@
-var mnemonic = "badge tissue inside box cover female cricket such shove express sock hill";
+var mnemonic = "depth chase submit submit among camera display floor hat fatigue rigid hospital";

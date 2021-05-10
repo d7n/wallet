@@ -1,1 +1,1 @@
-var mnemonic = "topic veteran cinnamon table dizzy notice iron panel fork radio blush trumpet";
+var mnemonic = "hint barely metal clean traffic quantum page gift divorce festival object junk";

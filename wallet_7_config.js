@@ -1,1 +1,1 @@
-var mnemonic = "idea install doctor frog eight ribbon among now end couple wide quiz";
+var mnemonic = "soon car verb aim void soup mountain metal swift kangaroo blame output";

@@ -1,1 +1,1 @@
-var mnemonic = "nation guilt camera rude exhaust chef miss loan talk page slide blur";
+var mnemonic = "flower fancy midnight athlete assist people fence cruise clever fury curious midnight";

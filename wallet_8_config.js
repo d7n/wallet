@@ -1,1 +1,1 @@
-var mnemonic = "vintage gym dentist curtain dawn accuse topple occur column inherit season switch";
+var mnemonic = "suspect flag peasant apology embrace whisper demand champion roast spatial fitness anxiety";

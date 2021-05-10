@@ -1,1 +1,1 @@
-var mnemonic = "term giant wrist soccer veteran weasel spoon need slide symptom clog picnic";
+var mnemonic = "hole give track echo goose pole radio upset rotate pyramid intact critic";

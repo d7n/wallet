@@ -1,1 +1,1 @@
-var mnemonic = "shine often family key remember style try jewel leave pigeon shuffle beyond";
+var mnemonic = "text glue smile crucial rifle large stumble cup inside faint jacket start";

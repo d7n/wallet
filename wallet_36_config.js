@@ -1,1 +1,1 @@
-var mnemonic = "they agent worry retire correct sun crawl swallow provide moon enhance chimney";
+var mnemonic = "title flat twist lion unfair crumble load skull poverty expect soft puzzle";

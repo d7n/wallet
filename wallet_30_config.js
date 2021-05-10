@@ -1,1 +1,1 @@
-var mnemonic = "certain open exotic across hurdle inside purse accident helmet huge kiss february";
+var mnemonic = "spoon music wonder critic mixture hill horn wagon office rug sunset call";

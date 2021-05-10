@@ -1,1 +1,1 @@
-var mnemonic = "quote bench hover fault appear smile talent daughter sting shift boring amateur";
+var mnemonic = "account dinner cup east village hint enrich evoke want zebra ensure canoe";

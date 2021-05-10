@@ -1,1 +1,1 @@
-var mnemonic = "attend curious reward liquid force year caught proud general suit park square";
+var mnemonic = "also unfair spoon egg palace fence more price below candy call dizzy";

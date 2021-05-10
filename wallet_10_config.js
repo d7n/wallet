@@ -1,1 +1,1 @@
-var mnemonic = "flag bind acquire expand deputy elite cricket pulse destroy toward vivid discover";
+var mnemonic = "dust dash width hip feed monster mouse permit hero car trim hurry";

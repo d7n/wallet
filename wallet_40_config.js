@@ -1,1 +1,1 @@
-var mnemonic = "ordinary wear month game side spider gesture tide pizza leopard silent quantum";
+var mnemonic = "glove abandon file spoil canyon agree report pen abandon live six mansion";

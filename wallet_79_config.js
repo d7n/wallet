@@ -1,1 +1,1 @@
-var mnemonic = "bitter virus mail bacon faculty reason cable milk juice mind bronze fit";
+var mnemonic = "differ subject draft start dash abandon abandon burst goat coach arch recycle";

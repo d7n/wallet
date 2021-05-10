@@ -1,1 +1,1 @@
-var mnemonic = "gym example divorce trick fluid cradle resist flag degree tenant morning tooth";
+var mnemonic = "rather census mosquito hub enlist above alien mimic cattle short castle jewel";

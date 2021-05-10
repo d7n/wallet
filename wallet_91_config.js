@@ -1,1 +1,1 @@
-var mnemonic = "because priority you unique cross clump future twenty wisdom lava fade body";
+var mnemonic = "lucky deal erupt glare despair cave salute ring chaos wisdom pig hint";

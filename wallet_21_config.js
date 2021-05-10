@@ -1,1 +1,1 @@
-var mnemonic = "physical marble portion hybrid lens month breeze decrease inject civil detect become";
+var mnemonic = "type rough remind trade pizza oppose dry drill boost small horror river";

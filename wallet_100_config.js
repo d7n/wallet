@@ -1,1 +1,1 @@
-var mnemonic = "jacket lens anchor inner pave bring decade chalk lonely embody put switch";
+var mnemonic = "degree finish hope force era bless soccer sustain seven lock drop liberty";

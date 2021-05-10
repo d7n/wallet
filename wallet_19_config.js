@@ -1,1 +1,1 @@
-var mnemonic = "balance token forward bullet please state mountain scale gain unusual clever obscure";
+var mnemonic = "helmet anxiety miracle frozen rural quit solid behave page glory rebel tiger";

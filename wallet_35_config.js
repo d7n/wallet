@@ -1,1 +1,1 @@
-var mnemonic = "outside advance pulse suit clutch symptom planet spray breeze eye among zone";
+var mnemonic = "snow hobby galaxy clay cricket remove pause total fatal emerge squeeze twenty";

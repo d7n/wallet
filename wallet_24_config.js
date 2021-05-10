@@ -1,1 +1,1 @@
-var mnemonic = "ghost cheese below blade certain security manage cheese gentle diagram inspire alley";
+var mnemonic = "disorder mistake category neither uniform ceiling cricket zone term order outdoor sustain";

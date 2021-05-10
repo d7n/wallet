@@ -1,1 +1,1 @@
-var mnemonic = "acquire wool trial school torch sponsor settle empower cable learn advance stairs";
+var mnemonic = "ceiling language square key agent wet choose goddess kid degree rigid boy";

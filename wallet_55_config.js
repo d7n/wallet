@@ -1,1 +1,1 @@
-var mnemonic = "enable galaxy found result must tip indoor whale salute renew sentence detail";
+var mnemonic = "twenty castle cloth manual thank banner exercise absorb paper ask network robot";

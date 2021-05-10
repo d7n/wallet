@@ -1,1 +1,1 @@
-var mnemonic = "absorb slow acid major bulk parade coconut magnet steel struggle best dose";
+var mnemonic = "firm share drink hill dutch eight spirit broom into panic trophy crunch";

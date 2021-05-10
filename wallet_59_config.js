@@ -1,1 +1,1 @@
-var mnemonic = "file replace grow cattle weather position settle hair detail mango culture rapid";
+var mnemonic = "woman aisle visit inquiry stand climb genius cereal stay lumber twist extend";

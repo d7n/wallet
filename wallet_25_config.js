@@ -1,1 +1,1 @@
-var mnemonic = "embark similar tongue lumber maple crisp supply express want rule salmon access";
+var mnemonic = "produce resource head stadium metal pass identify pool basket alone okay burst";

@@ -1,1 +1,1 @@
-var mnemonic = "clump guilt gaze rail box range lucky arena mail siege network token";
+var mnemonic = "rotate play appear pink pull flat neither spell cup hurry there appear";

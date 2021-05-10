@@ -1,1 +1,1 @@
-var mnemonic = "clog top frame crew engage parent obscure runway genius retire become inherit";
+var mnemonic = "lizard scheme cliff climb tuna gift color meat barely forward tennis type";

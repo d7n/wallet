@@ -1,1 +1,1 @@
-var mnemonic = "example nuclear correct bike cabbage fade project source high tide fiscal govern";
+var mnemonic = "fence mask sweet prize journey cloud disease sniff depart pond entire stay";

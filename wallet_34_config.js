@@ -1,1 +1,1 @@
-var mnemonic = "engine large sail that wide marble mask alcohol sand network melt cake";
+var mnemonic = "luxury tilt elbow manual music boring negative into word initial soup alley";

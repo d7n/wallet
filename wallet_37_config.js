@@ -1,1 +1,1 @@
-var mnemonic = "kingdom hotel outdoor setup angry art skirt speak father open puppy wrist";
+var mnemonic = "idea wonder weasel chest diary token they inhale theme tumble idea spin";

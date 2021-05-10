@@ -1,1 +1,1 @@
-var mnemonic = "hair virtual easy drill orbit nice fire smooth warrior weather dish twice";
+var mnemonic = "economy person little tank train walk habit shrimp throw stone found stand";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm text sleep organ sort dress stadium staff fly meat buyer giggle";
+var mnemonic = "open deputy blade spread pause awesome develop light stock champion clown math";

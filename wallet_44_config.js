@@ -1,1 +1,1 @@
-var mnemonic = "mind smooth flame daughter guess social squirrel sun inch shoe split more";
+var mnemonic = "brush else mosquito original still vote original exit tube sight inherit dinner";

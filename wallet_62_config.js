@@ -1,1 +1,1 @@
-var mnemonic = "balcony arm pride sugar opinion artefact chaos decline solution consider daring stick";
+var mnemonic = "initial decade afford kidney they state logic alert frog recycle rigid music";

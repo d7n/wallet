@@ -1,1 +1,1 @@
-var mnemonic = "they stomach image normal tennis place ketchup problem truck robust street business";
+var mnemonic = "final umbrella miracle have laundry trust acquire cause ill clinic divide movie";

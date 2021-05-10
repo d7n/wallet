@@ -1,1 +1,1 @@
-var mnemonic = "prevent cake pony blast calm denial pink scare depart stone deposit media";
+var mnemonic = "liquid auction tomato fever hybrid velvet void all miracle siege climb away";
