@@ -1,1 +1,1 @@
-var mnemonic = "woman catalog gather vendor negative judge timber major detect either hobby exclude";
+var mnemonic = "desert found industry shed planet amazing delay burst day ribbon please gather";

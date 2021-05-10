@@ -1,1 +1,1 @@
-var mnemonic = "segment husband accident provide sentence clock chef stamp position obscure route quit";
+var mnemonic = "ranch move buddy tunnel entire man analyst cluster seat enhance arctic village";

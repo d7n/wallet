@@ -1,1 +1,1 @@
-var mnemonic = "elbow barrel shine horror annual whisper search pipe lucky smoke armor arrive";
+var mnemonic = "celery voyage video sound obvious theory divert audit promote essence chef silly";

@@ -1,1 +1,1 @@
-var mnemonic = "design forget doll ten drop mushroom captain merry explain alert twenty deliver";
+var mnemonic = "stereo minimum drastic van ladder lottery story way impulse humor age husband";

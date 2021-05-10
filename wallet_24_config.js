@@ -1,1 +1,1 @@
-var mnemonic = "dry powder enjoy diet universe regret use run spawn pet city now";
+var mnemonic = "cruel true hair sword filter race mass wrong first visual seminar trial";

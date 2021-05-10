@@ -1,1 +1,1 @@
-var mnemonic = "space dynamic crush protect inner small penalty tool own engage mom embody";
+var mnemonic = "large month number excuse claw series note bullet head kit winner excuse";

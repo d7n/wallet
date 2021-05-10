@@ -1,1 +1,1 @@
-var mnemonic = "ahead left also whisper ice wire common frame rookie depth pizza dragon";
+var mnemonic = "dove together pause magnet belt topic rival frost frog excite wish lion";

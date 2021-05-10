@@ -1,1 +1,1 @@
-var mnemonic = "mango net drop spot captain runway convince sleep game tiny goddess bone";
+var mnemonic = "decrease exhibit potato repeat wool olympic bamboo ugly consider wide host outdoor";

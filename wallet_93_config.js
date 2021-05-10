@@ -1,1 +1,1 @@
-var mnemonic = "grow venture luggage cruise energy relief domain wash cook enforce dawn forum";
+var mnemonic = "bullet route pause oblige arrest whisper enact argue wing short clutch winner";

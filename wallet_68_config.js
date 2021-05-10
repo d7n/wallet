@@ -1,1 +1,1 @@
-var mnemonic = "boost ring oven sphere drill awkward flock dismiss interest rifle clip fault";
+var mnemonic = "rival match supply stomach bright toddler genre believe cup pole under pony";

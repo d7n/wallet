@@ -1,1 +1,1 @@
-var mnemonic = "wage series correct frame client feel act banner category party hollow trigger";
+var mnemonic = "bitter garage west boost upper fall panel woman amazing asset bronze negative";

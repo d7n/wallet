@@ -1,1 +1,1 @@
-var mnemonic = "embark below envelope bring boat violin focus better enrich stove venue mansion";
+var mnemonic = "rain lottery gadget album awkward guard atom timber dignity hill silly destroy";

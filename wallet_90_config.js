@@ -1,1 +1,1 @@
-var mnemonic = "toilet inherit transfer debate icon trial tip autumn bargain stove trash wine";
+var mnemonic = "atom spoon insect yard rug suffer secret since swim admit sun welcome";

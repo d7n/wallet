@@ -1,1 +1,1 @@
-var mnemonic = "umbrella bid cupboard design path impact horn height earth banana pole income";
+var mnemonic = "cupboard sphere dream spawn lock park doctor decide mutual element wise kiss";

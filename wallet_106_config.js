@@ -1,1 +1,1 @@
-var mnemonic = "garden era dust moon canal mass renew welcome blind enroll firm habit";
+var mnemonic = "bronze lunar afraid unhappy hero hurt case prize curious blossom brush corn";

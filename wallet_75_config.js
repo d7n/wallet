@@ -1,1 +1,1 @@
-var mnemonic = "belt knock business aim next crane copy sea foot cruel material kitten";
+var mnemonic = "segment tortoise size hurdle guess betray obscure flash pretty over reward dumb";

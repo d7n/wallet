@@ -1,1 +1,1 @@
-var mnemonic = "opera parade waste pepper law alcohol crisp flush toast kind copy describe";
+var mnemonic = "annual barrel negative gym doctor mule expire real sister furnace bird pole";

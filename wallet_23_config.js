@@ -1,1 +1,1 @@
-var mnemonic = "mechanic soldier dry frequent knee idle woman affair rhythm tobacco recall reason";
+var mnemonic = "obscure become upon jungle wagon ecology weekend deer plunge panther hand weather";

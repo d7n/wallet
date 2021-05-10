@@ -1,1 +1,1 @@
-var mnemonic = "solar coin fossil detect raven depth flower method canal romance belt depend";
+var mnemonic = "satisfy ridge uphold clinic tail garage amount chair agree quiz basic make";

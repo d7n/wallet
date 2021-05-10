@@ -1,1 +1,1 @@
-var mnemonic = "horse riot cruise stereo sustain insect twin december tonight amazing woman wire";
+var mnemonic = "orchard trick trash trap salmon odor torch segment limit wasp because trial";

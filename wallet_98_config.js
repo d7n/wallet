@@ -1,1 +1,1 @@
-var mnemonic = "assist fly hamster marble try clip demand april become setup lecture table";
+var mnemonic = "family slim initial rice champion robust course doctor address draw rubber replace";

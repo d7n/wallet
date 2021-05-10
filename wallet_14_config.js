@@ -1,1 +1,1 @@
-var mnemonic = "exercise romance vast zoo trouble tired prosper into negative teach sniff illness";
+var mnemonic = "boss token feel slab athlete shadow almost announce member chest describe duck";

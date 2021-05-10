@@ -1,1 +1,1 @@
-var mnemonic = "vocal snack dentist evolve receive final corn you siren exist struggle space";
+var mnemonic = "jump oval rice defense medal baby base fade bicycle flight seed collect";

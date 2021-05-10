@@ -1,1 +1,1 @@
-var mnemonic = "enough robust come hire alpha miss amazing sketch essay lamp remember fork";
+var mnemonic = "grief fun message delay green insect math vacuum taste text decrease skull";

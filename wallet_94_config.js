@@ -1,1 +1,1 @@
-var mnemonic = "sand ridge scissors identify conduct bicycle search acoustic bacon victory warfare crack";
+var mnemonic = "critic prize chair idea dune proof saddle cup length invest monster dinosaur";

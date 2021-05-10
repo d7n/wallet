@@ -1,1 +1,1 @@
-var mnemonic = "poet around spread human chronic sleep brisk reason year stairs shoe list";
+var mnemonic = "urge amused will mass width chunk person develop magic senior weapon soul";

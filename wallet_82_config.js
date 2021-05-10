@@ -1,1 +1,1 @@
-var mnemonic = "donkey agree record garage draft gasp push genre plate globe april talk";
+var mnemonic = "submit dream sight alpha hour kitchen edit fiction parade admit amused rack";

@@ -1,1 +1,1 @@
-var mnemonic = "under like fragile patch hire nature expire draw congress response giant fetch";
+var mnemonic = "trade buyer level drum injury manual truly grit puppy dash unusual future";

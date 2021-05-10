@@ -1,1 +1,1 @@
-var mnemonic = "defy universe name embody habit manual vacant fruit anger unlock shrug home";
+var mnemonic = "flip quote sudden belt guitar scheme long category cute rival pen fame";

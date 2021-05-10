@@ -1,1 +1,1 @@
-var mnemonic = "truck alter tissue arrest giraffe neglect action able wrap author riot smooth";
+var mnemonic = "alcohol west bus over quality ginger admit upset boss craft grain picture";

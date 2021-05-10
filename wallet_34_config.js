@@ -1,1 +1,1 @@
-var mnemonic = "march know drip stuff clip fun rib quarter sudden battle thing attitude";
+var mnemonic = "trend lumber useless quantum noise proud profit jeans exist coconut any eye";

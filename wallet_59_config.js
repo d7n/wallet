@@ -1,1 +1,1 @@
-var mnemonic = "recycle balance reunion valley dutch wave shiver toddler digital pink huge omit";
+var mnemonic = "output wire wish face debate safe rail bike wreck belt depend trip";

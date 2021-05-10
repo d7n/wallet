@@ -1,1 +1,1 @@
-var mnemonic = "sketch help fish rescue west embark mean review salmon fun merit evidence";
+var mnemonic = "shield limit like neither obtain delay next decade bronze holiday pelican end";

@@ -1,1 +1,1 @@
-var mnemonic = "accident slice canal game physical able old denial key noodle egg guide";
+var mnemonic = "various regret reopen resemble return monitor wood solution crew rhythm castle insect";

@@ -1,1 +1,1 @@
-var mnemonic = "fan noodle album book clever sausage plate water filter best air dizzy";
+var mnemonic = "weather weird swear forward chair multiply runway boss fatal lonely together garden";

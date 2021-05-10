@@ -1,1 +1,1 @@
-var mnemonic = "token trip spatial sudden salt craft jewel fine law secret sock giant";
+var mnemonic = "crowd rabbit vibrant march busy insane health crisp outdoor federal price click";

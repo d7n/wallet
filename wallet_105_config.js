@@ -1,1 +1,1 @@
-var mnemonic = "injury fitness observe few luxury exhibit marble scissors short fall six culture";
+var mnemonic = "vicious enhance key force clown battle require borrow social fiscal same skirt";

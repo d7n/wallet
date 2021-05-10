@@ -1,1 +1,1 @@
-var mnemonic = "holiday earn debris inherit wall insect erase space december engage slot business";
+var mnemonic = "mammal skate chef someone brick traffic wise about stand oven ladder world";

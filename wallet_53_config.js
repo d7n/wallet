@@ -1,1 +1,1 @@
-var mnemonic = "mechanic desk tumble define grocery expand update ivory bicycle monkey vapor annual";
+var mnemonic = "deer shop tomato secret eight crazy dutch crush iron consider sock summer";

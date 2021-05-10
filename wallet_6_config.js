@@ -1,1 +1,1 @@
-var mnemonic = "polar scrap bean benefit elite census narrow wasp surprise long seek basket";
+var mnemonic = "boy bitter raise three arrange post action vicious maximum banana orange rotate";

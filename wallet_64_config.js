@@ -1,1 +1,1 @@
-var mnemonic = "vendor text critic control spatial east human burden tiny fragile unaware abuse";
+var mnemonic = "uniform paper despair junk category ring broken panda swing describe artist series";

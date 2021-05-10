@@ -1,1 +1,1 @@
-var mnemonic = "fog waste focus smooth young renew yard edit immense hub stool alpha";
+var mnemonic = "exercise witness monitor guitar ski banner elevator settle assist soft vessel company";

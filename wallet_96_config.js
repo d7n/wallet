@@ -1,1 +1,1 @@
-var mnemonic = "crystal dish track carpet man sister actor siege effort hundred stuff innocent";
+var mnemonic = "approve inhale toast west knife grant remove give idea loyal elite step";

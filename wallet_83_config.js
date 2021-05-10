@@ -1,1 +1,1 @@
-var mnemonic = "awkward mention sunny often affair tell paper soon garment audit trigger spice";
+var mnemonic = "biology ignore symptom thunder meat stick steel chapter ice gorilla purse glare";

@@ -1,1 +1,1 @@
-var mnemonic = "network ethics tomorrow juice else bomb dance spatial fault dance heart width";
+var mnemonic = "autumn alert cruise gallery crop reward field host know junior steak around";

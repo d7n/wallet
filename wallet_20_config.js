@@ -1,1 +1,1 @@
-var mnemonic = "busy post clinic champion index upset regret scrub trouble amount aerobic vehicle";
+var mnemonic = "orbit shift useful pass annual sting save grow canvas chest arrow photo";

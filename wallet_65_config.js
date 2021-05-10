@@ -1,1 +1,1 @@
-var mnemonic = "boat fitness reveal slight spend major chronic nasty mosquito dog cook case";
+var mnemonic = "spare pave yard provide pole hood happy finish exotic reunion mystery trick";

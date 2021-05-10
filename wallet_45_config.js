@@ -1,1 +1,1 @@
-var mnemonic = "neutral biology armor nut visit shield text dance gossip barely interest adjust";
+var mnemonic = "skin plastic mushroom scatter person injury margin come rapid final myself tackle";

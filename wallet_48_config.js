@@ -1,1 +1,1 @@
-var mnemonic = "major annual since drift reform issue kitchen aware cost dose october siren";
+var mnemonic = "power alter usage involve aerobic start float above guess clay army peace";

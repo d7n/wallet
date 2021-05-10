@@ -1,1 +1,1 @@
-var mnemonic = "hold level dawn pave virus invite absorb broken garlic cross tiny wire";
+var mnemonic = "jungle dream army camera service ladder casino chair mistake gain hub rhythm";

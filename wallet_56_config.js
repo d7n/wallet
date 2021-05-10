@@ -1,1 +1,1 @@
-var mnemonic = "brisk also illness cereal dismiss use action income misery tomorrow depart balance";
+var mnemonic = "nut juice boat coconut film tongue satisfy stove jump enrich improve disagree";

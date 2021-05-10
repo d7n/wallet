@@ -1,1 +1,1 @@
-var mnemonic = "fee sugar alcohol stone island feed place sketch force wise focus rose";
+var mnemonic = "amount image repair shock club fatal depend garlic second salt curve pool";

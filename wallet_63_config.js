@@ -1,1 +1,1 @@
-var mnemonic = "accuse home outside upon visa decide stock square found bounce artefact fence";
+var mnemonic = "mimic army erupt battle hungry limit slide window credit measure toe blush";

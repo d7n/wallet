@@ -1,1 +1,1 @@
-var mnemonic = "announce bind escape behave crystal few deal session tongue boss actress pink";
+var mnemonic = "flat subway volcano ecology bench remain train afraid boss alone steak divert";

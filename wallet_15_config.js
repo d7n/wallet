@@ -1,1 +1,1 @@
-var mnemonic = "tell layer hurdle reopen valley sign level check silent capable night please";
+var mnemonic = "elevator abuse safe educate soap awful pitch economy feel salt pelican wine";

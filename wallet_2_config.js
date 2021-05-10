@@ -1,1 +1,1 @@
-var mnemonic = "silver young tower mix hour team ivory galaxy action insane tattoo guard";
+var mnemonic = "host modify lobster parade truly fan crouch strategy spatial favorite opera muscle";

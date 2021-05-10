@@ -1,1 +1,1 @@
-var mnemonic = "agent mouse allow snake fame search cabbage boost genre kitten shoe gossip";
+var mnemonic = "tent snake submit manual example cool rebel tell elite card load super";

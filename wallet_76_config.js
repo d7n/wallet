@@ -1,1 +1,1 @@
-var mnemonic = "boy tube horror mother large ridge since gossip wedding code other doll";
+var mnemonic = "globe citizen behave monkey step lounge wasp save staff code laundry assault";

@@ -1,1 +1,1 @@
-var mnemonic = "erase wedding try butter phrase rescue fee dad electric cup inhale donkey";
+var mnemonic = "unique seed text mercy paper loud rib thought amateur try damage slush";

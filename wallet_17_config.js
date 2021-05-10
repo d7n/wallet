@@ -1,1 +1,1 @@
-var mnemonic = "chronic mandate opera that depart oyster puppy dress action short mansion clump";
+var mnemonic = "culture chunk dinner future sketch coach trial letter book poem media prison";

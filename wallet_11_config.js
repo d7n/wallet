@@ -1,1 +1,1 @@
-var mnemonic = "roast cabin label absorb raven eye coin afford update scissors zone pond";
+var mnemonic = "initial ask rude high excite fox ribbon because winter edge mouse series";

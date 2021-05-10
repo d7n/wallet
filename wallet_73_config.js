@@ -1,1 +1,1 @@
-var mnemonic = "endorse stool flag remind tip still bulb mistake rich wait grid angry";
+var mnemonic = "sudden brick tiger scorpion era worth north april teach increase parent sphere";

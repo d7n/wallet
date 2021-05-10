@@ -1,1 +1,1 @@
-var mnemonic = "guard limit hand aware summer remove enable phrase metal doctor voice police";
+var mnemonic = "deputy bus sea comfort also like sing curious fuel illness system excess";

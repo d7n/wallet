@@ -1,1 +1,1 @@
-var mnemonic = "repeat split gauge mention prevent toast print prepare convince diary man normal";
+var mnemonic = "grief toe tail cabin crane eagle napkin goddess sustain lecture hidden grant";

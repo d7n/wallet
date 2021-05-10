@@ -1,1 +1,1 @@
-var mnemonic = "pulp impose ripple edge swim cushion glue balance green wool parent super";
+var mnemonic = "bulb garlic october swim version tourist turn impose pudding emerge mechanic scare";

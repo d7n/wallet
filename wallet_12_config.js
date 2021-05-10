@@ -1,1 +1,1 @@
-var mnemonic = "foam company reduce economy sleep amused mind survey mother dog feature maximum";
+var mnemonic = "rural tower simple wrap gift milk skirt slight bounce benefit mean social";

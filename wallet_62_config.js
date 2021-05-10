@@ -1,1 +1,1 @@
-var mnemonic = "rich concert cherry this slush slogan blue trouble beyond adjust reason reward";
+var mnemonic = "depth kidney evolve aisle equal chief snow observe lemon kite mean interest";

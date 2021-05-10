@@ -1,1 +1,1 @@
-var mnemonic = "lucky journey garlic jaguar pattern govern winter ripple bounce novel artefact girl";
+var mnemonic = "disorder violin world solve benefit alcohol alley normal hurry immense exile only";

@@ -1,1 +1,1 @@
-var mnemonic = "twice fly width surround genius draw obey jeans owner pelican metal recycle";
+var mnemonic = "tobacco discover universe wood strike silent sunny east problem jacket essence wool";

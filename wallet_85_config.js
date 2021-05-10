@@ -1,1 +1,1 @@
-var mnemonic = "fortune copy sail fever flash increase blood review swarm bless fashion pupil";
+var mnemonic = "eyebrow lunch remind rich primary address pudding robust helmet attack under carbon";

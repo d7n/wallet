@@ -1,1 +1,1 @@
-var mnemonic = "history short road copper flush popular invite seek cigar online holiday quantum";
+var mnemonic = "blast rough tennis foil stamp school valve agree dad dash forget orchard";

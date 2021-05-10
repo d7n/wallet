@@ -1,1 +1,1 @@
-var mnemonic = "either together two robot seek glue hire display purity educate wool warrior";
+var mnemonic = "uncle law skin canvas culture feed excuse pretty alien ankle dutch attack";

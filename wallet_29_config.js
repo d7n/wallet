@@ -1,1 +1,1 @@
-var mnemonic = "multiply forest annual loop recipe gym employ void panel visit virus visual";
+var mnemonic = "myth better laugh water smooth ahead observe noodle story gentle brother creek";

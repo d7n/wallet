@@ -1,1 +1,1 @@
-var mnemonic = "estate world finish dial emotion note melt aerobic either click scatter spoon";
+var mnemonic = "practice slide decline happy mercy salute harsh faith prosper make stable strike";

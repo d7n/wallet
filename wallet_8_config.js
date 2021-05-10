@@ -1,1 +1,1 @@
-var mnemonic = "thrive mask toilet exotic upon drum fork extra rescue solid gun afraid";
+var mnemonic = "thunder satoshi ethics dash student spring dad accuse turkey cabin wrist retire";

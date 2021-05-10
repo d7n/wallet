@@ -1,1 +1,1 @@
-var mnemonic = "bag menu parade prison report earn danger tent load uncover bullet twenty";
+var mnemonic = "seed either grain wage catch often distance fancy clutch add zone debate";

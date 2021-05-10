@@ -1,1 +1,1 @@
-var mnemonic = "doll foot liberty hungry slogan usual claim west slab pottery fatigue remain";
+var mnemonic = "army omit exist hope square differ fuel erode almost crouch wise health";

@@ -1,1 +1,1 @@
-var mnemonic = "behind move wool suggest dragon bonus jacket allow victory castle bind buddy";
+var mnemonic = "struggle bonus sock thing fitness escape over chalk vote party lift vanish";

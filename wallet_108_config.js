@@ -1,1 +1,1 @@
-var mnemonic = "plate crush soup point filter skull culture present quote supply record above";
+var mnemonic = "tenant false horror woman miss raw minimum indicate when card season trend";

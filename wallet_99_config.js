@@ -1,1 +1,1 @@
-var mnemonic = "dolphin journey erosion ketchup spice chef flash armed awful aerobic soul surface";
+var mnemonic = "pond advice camera kit scale loan usual school west ship more group";

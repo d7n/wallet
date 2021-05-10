@@ -1,1 +1,1 @@
-var mnemonic = "enjoy poem orchard west muscle wasp inhale twice style taste iron cloud";
+var mnemonic = "dilemma lottery calm issue slogan hurry sauce mosquito prosper scale flame fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "tide bacon burst glory chapter file strategy capable midnight apart track absurd";
+var mnemonic = "august step exit squeeze depth give forum gown fever angry top unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "pass flame vault skull magnet outdoor comic task remember odor mean hold";
+var mnemonic = "broccoli top invest vast gym hat grace blur excess clean pizza response";

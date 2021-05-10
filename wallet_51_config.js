@@ -1,1 +1,1 @@
-var mnemonic = "drive super gentle cage siege dutch dress raise title dune gap mixed";
+var mnemonic = "visit tuna deer asthma trip disagree park cradle have loyal lens review";

@@ -1,1 +1,1 @@
-var mnemonic = "local empty tennis avoid prevent exclude common recipe vapor goat auction weasel";
+var mnemonic = "library throw strategy crane bright sample upon oxygen either elephant nuclear vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap pole easy solid present wagon year subway pen swim device wine";
+var mnemonic = "lend narrow menu fiber school weather balance slogan echo fat soldier illness";

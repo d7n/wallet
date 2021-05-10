@@ -1,1 +1,1 @@
-var mnemonic = "topple tunnel burger fish erupt ginger assault alcohol combine ticket stool away";
+var mnemonic = "success almost youth exist come chapter slim pattern hundred idle transfer club";

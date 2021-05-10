@@ -1,1 +1,1 @@
-var mnemonic = "demand track stem crisp outer picture shift retreat elevator general tackle key";
+var mnemonic = "curious cup eye pipe wrong repair oven panther ivory prison swap broken";

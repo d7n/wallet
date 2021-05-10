@@ -1,1 +1,1 @@
-var mnemonic = "mean spend garage pipe similar over switch chicken lift online enact pilot";
+var mnemonic = "truly stereo truth people arrive estate hood betray consider mad title divert";

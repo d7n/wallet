@@ -1,1 +1,1 @@
-var mnemonic = "intact absorb spike roof waste scorpion cake fashion copper icon matrix foam";
+var mnemonic = "choose skate cash loop mule tuition void mutual popular diet flavor rural";

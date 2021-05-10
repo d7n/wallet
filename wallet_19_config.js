@@ -1,1 +1,1 @@
-var mnemonic = "camera then sentence end sniff boat hamster lawsuit egg soup mad sugar";
+var mnemonic = "because arrow camera tip elbow cousin fade frozen tennis super chuckle prepare";

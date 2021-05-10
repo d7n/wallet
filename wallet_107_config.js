@@ -1,1 +1,1 @@
-var mnemonic = "border balcony diagram art vessel among tiny sock absurd oxygen entire evil";
+var mnemonic = "garden inside reopen risk connect index limb bring bubble clog cage vacant";
