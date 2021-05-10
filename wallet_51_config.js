@@ -1,1 +1,1 @@
-var mnemonic = "thrive model hole maximum general elbow salute cheap fatigue fee soup what";
+var mnemonic = "paddle confirm lyrics unknown brain moon brand tell cereal window worry home";

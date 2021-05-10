@@ -1,1 +1,1 @@
-var mnemonic = "shine exercise image file culture swing use second festival muscle gap volcano";
+var mnemonic = "cheese dismiss cradle joke drink almost spike again night dignity art crush";

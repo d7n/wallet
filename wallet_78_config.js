@@ -1,1 +1,1 @@
-var mnemonic = "shadow apart urban code person dress click tank under clip velvet differ";
+var mnemonic = "edit evolve furnace injury march horror stomach border enemy cable panda submit";

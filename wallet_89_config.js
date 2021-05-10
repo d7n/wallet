@@ -1,1 +1,1 @@
-var mnemonic = "wasp layer lonely eight slab script extra unit clock wedding dust tortoise";
+var mnemonic = "idle long enroll world correct beyond glow mansion mind few teach original";

@@ -1,1 +1,1 @@
-var mnemonic = "bean domain beef cable favorite inside energy toast turtle again distance sheriff";
+var mnemonic = "cloth kidney huge sheriff unfair auction father zoo catalog forget unknown strong";

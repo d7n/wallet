@@ -1,1 +1,1 @@
-var mnemonic = "clean prosper wedding shove success lawn brave umbrella slight talk shuffle mean";
+var mnemonic = "steak float despair bottom vendor oyster elegant ten gate shed impose trouble";

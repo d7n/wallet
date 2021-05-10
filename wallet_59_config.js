@@ -1,1 +1,1 @@
-var mnemonic = "side bind uniform absent sure nasty axis observe kiss snap reform hello";
+var mnemonic = "stick social ordinary proud regular melt wedding enhance minute demise path fuel";

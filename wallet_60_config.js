@@ -1,1 +1,1 @@
-var mnemonic = "neglect scene laundry lion carpet buyer noise orphan demand thing unique ice";
+var mnemonic = "bitter afraid bubble hawk island elder music custom cable jaguar trim name";

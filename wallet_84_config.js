@@ -1,1 +1,1 @@
-var mnemonic = "finger desert join call under quarter rebel worth cousin siren shoulder step";
+var mnemonic = "dignity prison bread wave winter jealous happy warrior scare wine certain crawl";

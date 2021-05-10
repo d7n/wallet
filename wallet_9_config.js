@@ -1,1 +1,1 @@
-var mnemonic = "kick seven decrease nurse payment wink census wire slide flag goose attract";
+var mnemonic = "clip able fold jacket fatigue ensure kite fabric trim remove venture grow";

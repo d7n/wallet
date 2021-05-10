@@ -1,1 +1,1 @@
-var mnemonic = "shallow delay combine result arm evidence trouble income exist service rebel close";
+var mnemonic = "truly mass solve student heavy split step soap tortoise coin arctic salon";

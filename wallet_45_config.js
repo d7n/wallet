@@ -1,1 +1,1 @@
-var mnemonic = "battle sting glare know village alcohol frozen patient valley emerge option reward";
+var mnemonic = "glue uncover student nephew ill tooth pelican review bind believe mountain grow";

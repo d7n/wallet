@@ -1,1 +1,1 @@
-var mnemonic = "pull ceiling soccer tip thumb wall reunion economy palm holiday shrimp fine";
+var mnemonic = "gold hire tray test matter short usage stomach valve surround coconut resemble";

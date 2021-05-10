@@ -1,1 +1,1 @@
-var mnemonic = "vacant misery relax assist claim lyrics glad chair rice chair gown pumpkin";
+var mnemonic = "play summer rapid affair decline circle eagle vacant genuine best similar fade";

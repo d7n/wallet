@@ -1,1 +1,1 @@
-var mnemonic = "length canvas very radio walk end shy sport paddle monkey family pigeon";
+var mnemonic = "demand surface move duty convince alone food advance seven celery chase hub";

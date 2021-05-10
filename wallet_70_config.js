@@ -1,1 +1,1 @@
-var mnemonic = "utility cloud holiday comic bundle can cargo mother crop thumb window clever";
+var mnemonic = "essay crystal clap mercy donor collect pulse original naive unable during shoulder";

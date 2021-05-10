@@ -1,1 +1,1 @@
-var mnemonic = "ball hockey outer credit leaf any voice describe hidden quote diamond whisper";
+var mnemonic = "must spoon prefer hungry detect effort usual story panther kingdom subject fly";

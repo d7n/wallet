@@ -1,1 +1,1 @@
-var mnemonic = "point prefer pet rely wage fitness morning adapt column vivid deliver garden";
+var mnemonic = "answer cable hip farm just whale next reject stick edge test tattoo";

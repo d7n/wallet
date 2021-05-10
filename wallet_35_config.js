@@ -1,1 +1,1 @@
-var mnemonic = "angle labor easy betray model announce ill ozone winner color twelve syrup";
+var mnemonic = "island ability drop scene notice few pioneer empower limb coyote critic machine";

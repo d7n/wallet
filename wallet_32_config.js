@@ -1,1 +1,1 @@
-var mnemonic = "nut snake pear scout estate year lecture prison plastic soup agree trouble";
+var mnemonic = "vote obtain safe wet vendor pride dash crane raven cruel slot maple";

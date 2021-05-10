@@ -1,1 +1,1 @@
-var mnemonic = "excuse clip have boring blade club verb diet sound cupboard category word";
+var mnemonic = "canal post rack museum void cause inside rack casino candy master become";

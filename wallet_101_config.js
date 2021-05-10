@@ -1,1 +1,1 @@
-var mnemonic = "north start unique shy loyal dance illness broccoli outer powder drop priority";
+var mnemonic = "magic forward bone review buyer wolf ranch lucky vacant always ticket device";

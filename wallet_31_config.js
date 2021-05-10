@@ -1,1 +1,1 @@
-var mnemonic = "hammer useless runway walnut reopen split smooth coral mobile toddler someone edit";
+var mnemonic = "harsh link right damp hood basket power same short unlock stay acid";

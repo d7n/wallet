@@ -1,1 +1,1 @@
-var mnemonic = "strike artwork smart bullet link race social kangaroo shed exercise mistake they";
+var mnemonic = "charge month embark scene enforce tomato churn task shy island crawl office";

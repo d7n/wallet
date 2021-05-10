@@ -1,1 +1,1 @@
-var mnemonic = "capable suspect strike reopen page trade leave fan elevator side destroy student";
+var mnemonic = "lumber trouble type glad pluck cinnamon venue series mom garment coconut sauce";

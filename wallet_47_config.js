@@ -1,1 +1,1 @@
-var mnemonic = "found game clay worry submit raise broken finish copy nephew size industry";
+var mnemonic = "genre virus reason radio wing pass file denial category clean inject ocean";

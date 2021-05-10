@@ -1,1 +1,1 @@
-var mnemonic = "oxygen wage hawk include attend hat lizard away note swamp dune mention";
+var mnemonic = "auto ocean style just dinosaur catalog man stadium collect buyer elder label";

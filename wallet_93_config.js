@@ -1,1 +1,1 @@
-var mnemonic = "ancient smoke angry crisp biology credit midnight brush kidney shift vivid person";
+var mnemonic = "grass join trophy quote dynamic slogan attack panther number mutual coach renew";

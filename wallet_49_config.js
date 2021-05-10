@@ -1,1 +1,1 @@
-var mnemonic = "silk galaxy plug crew pill audit rate they vacuum ritual few letter";
+var mnemonic = "owner horse weapon crime twelve amazing oven object season citizen glance frozen";

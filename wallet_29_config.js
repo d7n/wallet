@@ -1,1 +1,1 @@
-var mnemonic = "loop result local alter inject install vapor amount acquire room galaxy coyote";
+var mnemonic = "diagram nerve use identify opinion two manage possible pride name defense century";

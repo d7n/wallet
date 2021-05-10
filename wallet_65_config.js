@@ -1,1 +1,1 @@
-var mnemonic = "addict cable equal scrap version lawsuit accuse blood reduce middle weather canvas";
+var mnemonic = "stamp train explain vast check body damage kitchen dismiss inflict dove begin";

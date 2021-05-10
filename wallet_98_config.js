@@ -1,1 +1,1 @@
-var mnemonic = "area kitchen stock hood member claim bread common job tag true rival";
+var mnemonic = "abstract act bind train game mix loan virtual above dwarf tuition exhibit";

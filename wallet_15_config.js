@@ -1,1 +1,1 @@
-var mnemonic = "afraid scrap ghost jelly crater female dumb little hotel jazz behind shrimp";
+var mnemonic = "movie crush switch stove ice this start chimney okay later toss quiz";

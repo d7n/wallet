@@ -1,1 +1,1 @@
-var mnemonic = "bottom fold truck frozen inner card share hospital hold humble vault oval";
+var mnemonic = "frown proud load draw hill addict abandon yard bread team ill song";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist dirt scare novel accuse unfold suit grape screen cupboard resource ramp";
+var mnemonic = "little chat eye smoke pulse bundle ugly left ramp utility agent wall";

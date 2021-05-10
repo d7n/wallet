@@ -1,1 +1,1 @@
-var mnemonic = "era vehicle explain similar sadness remind crisp vessel train display quit leg";
+var mnemonic = "burger limb invite grocery inhale job brisk marine smart liquid skill infant";

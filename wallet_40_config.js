@@ -1,1 +1,1 @@
-var mnemonic = "renew minor talk pigeon moon typical truth survey duck code leaf edit";
+var mnemonic = "depend piece rifle decrease cruel brand scrub rude trust adapt index remind";

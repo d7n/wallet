@@ -1,1 +1,1 @@
-var mnemonic = "clog potato coyote letter fury pond reflect boring begin morning cry index";
+var mnemonic = "dog cube valid hunt right march bonus leave menu foster grab frog";

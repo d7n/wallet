@@ -1,1 +1,1 @@
-var mnemonic = "draft unveil urban shift mixed humble approve ketchup sadness order success slender";
+var mnemonic = "jaguar surface sign attract glow deny cram solar captain dilemma sick outside";

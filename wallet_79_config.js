@@ -1,1 +1,1 @@
-var mnemonic = "hobby coast risk glare runway kitchen slogan choice fresh share eye cat";
+var mnemonic = "margin museum shove penalty script attract real cabin panda humor spider wing";

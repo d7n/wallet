@@ -1,1 +1,1 @@
-var mnemonic = "industry empower spend again column cousin vessel excuse bargain harvest bounce hurt";
+var mnemonic = "hammer direct spawn icon tourist salmon already bomb company crouch tumble giraffe";

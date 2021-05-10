@@ -1,1 +1,1 @@
-var mnemonic = "leave rely room fly runway blossom fluid pepper draft welcome leg cement";
+var mnemonic = "crowd hero animal subject assume film october volume soft doll egg wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "sample decline guilt foil amount return music tiger permit tube assist tiny";
+var mnemonic = "inmate endless skull immense honey install design pulp cry cereal wave capital";

@@ -1,1 +1,1 @@
-var mnemonic = "violin alone bird believe knock mad mad broom head lady common box";
+var mnemonic = "door peanut thunder problem tribe game result escape woman vacant heavy scheme";

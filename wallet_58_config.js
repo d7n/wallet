@@ -1,1 +1,1 @@
-var mnemonic = "staff wait term rigid ski exit traffic tiny point sugar deal judge";
+var mnemonic = "print topple crime media name couch enable indoor scale era absorb bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "craft cancel birth sense ritual cactus cabin crowd elevator rescue soup luxury";
+var mnemonic = "general medal power foam warrior guard wagon federal tired soul tomato increase";

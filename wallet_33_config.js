@@ -1,1 +1,1 @@
-var mnemonic = "select call job mix earth box argue window glare odor blame save";
+var mnemonic = "pride level ceiling mammal outdoor flat because execute island boss place cycle";

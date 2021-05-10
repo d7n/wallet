@@ -1,1 +1,1 @@
-var mnemonic = "image junk hint patch traffic rude stamp copy sign wide such club";
+var mnemonic = "amount phrase climb iron tongue now quarter bargain raccoon inflict divert soul";

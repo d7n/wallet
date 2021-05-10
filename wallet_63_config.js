@@ -1,1 +1,1 @@
-var mnemonic = "ecology position occur annual current equal whale pencil spoil unknown journey wealth";
+var mnemonic = "stomach track ahead tumble change cement ranch utility vote mixture disagree winner";

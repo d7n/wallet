@@ -1,1 +1,1 @@
-var mnemonic = "finish consider frame movie want innocent fox awkward aerobic math bronze kick";
+var mnemonic = "color jazz cute ritual peanut impact spawn cancel vote behave soda pelican";

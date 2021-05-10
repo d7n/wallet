@@ -1,1 +1,1 @@
-var mnemonic = "grocery evidence clog adjust worth bachelor client divide various copper velvet mistake";
+var mnemonic = "team flag author scan wish disagree order version vanish soft leader silly";

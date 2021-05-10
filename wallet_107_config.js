@@ -1,1 +1,1 @@
-var mnemonic = "total card ladder success vocal risk second melt grain ripple modify control";
+var mnemonic = "tackle bundle appear catalog village use nothing mask syrup atom rich act";

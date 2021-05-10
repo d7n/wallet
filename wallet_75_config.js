@@ -1,1 +1,1 @@
-var mnemonic = "eternal science stuff poem oxygen method chunk fragile work tackle law chicken";
+var mnemonic = "federal music dilemma judge rebuild gather fun saddle chimney tag grocery raise";

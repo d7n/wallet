@@ -1,1 +1,1 @@
-var mnemonic = "fresh apart hip spend train team grunt ride palm abandon bulk extend";
+var mnemonic = "merge stand control scatter romance baby loud spawn mosquito leaf divorce orbit";

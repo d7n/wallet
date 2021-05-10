@@ -1,1 +1,1 @@
-var mnemonic = "trumpet matrix describe pool blind gravity scene wrap rude repeat window all";
+var mnemonic = "radar stairs yard alone silver often already focus cannon disease lend special";

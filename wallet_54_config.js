@@ -1,1 +1,1 @@
-var mnemonic = "local farm tattoo acoustic question detect local meat garden gas theory upper";
+var mnemonic = "learn wheel fitness polar fence usage slot gold plunge maid leader payment";

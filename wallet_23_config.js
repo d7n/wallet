@@ -1,1 +1,1 @@
-var mnemonic = "thing wire color dinosaur choice clean expire lizard true swallow move burden";
+var mnemonic = "focus zoo mimic home crucial curve glimpse sustain cargo grief pelican egg";

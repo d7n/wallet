@@ -1,1 +1,1 @@
-var mnemonic = "wait reform illegal token object wealth picture smile figure liquid vanish steak";
+var mnemonic = "cement way admit glimpse basket stumble entire sun abuse involve hedgehog lion";

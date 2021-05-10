@@ -1,1 +1,1 @@
-var mnemonic = "seminar hockey figure such corn place hair insect aunt citizen bring picnic";
+var mnemonic = "dice divorce globe crowd juice major latin soap another anchor cradle leader";

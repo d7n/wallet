@@ -1,1 +1,1 @@
-var mnemonic = "universe pulp royal margin banner swing sail foster account parade symptom copper";
+var mnemonic = "leopard step number beauty raven pyramid cheap fortune era oppose pupil fluid";

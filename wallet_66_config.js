@@ -1,1 +1,1 @@
-var mnemonic = "vicious volume denial involve hidden diet fly jaguar trial pioneer utility code";
+var mnemonic = "dice raise help exile castle brand traffic old mean stick suggest future";

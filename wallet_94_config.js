@@ -1,1 +1,1 @@
-var mnemonic = "illness sibling farm process kitten position magnet blast pink pass west muffin";
+var mnemonic = "boring harbor hand casual doctor day fatal bubble security harbor lift funny";

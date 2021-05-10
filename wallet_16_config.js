@@ -1,1 +1,1 @@
-var mnemonic = "youth hybrid model happy day letter venue snow smoke sunny attack opera";
+var mnemonic = "vapor scare host favorite goat demise burger citizen december steel mule material";

@@ -1,1 +1,1 @@
-var mnemonic = "toy easily plastic parade average update trap cloth evil match antenna snap";
+var mnemonic = "sunny transfer culture lumber label orphan business cage assume syrup load assault";

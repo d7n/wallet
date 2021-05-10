@@ -1,1 +1,1 @@
-var mnemonic = "logic lens uphold glimpse click grape biology spirit provide sure brain matrix";
+var mnemonic = "art gain dust dance cart food master pilot exercise lend half nature";

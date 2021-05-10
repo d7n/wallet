@@ -1,1 +1,1 @@
-var mnemonic = "neglect travel spell bag glad melt write vague near lion man nuclear";
+var mnemonic = "alert item wage between retire super script address believe great push document";

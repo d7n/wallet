@@ -1,1 +1,1 @@
-var mnemonic = "wear debate remain frown outside chief salt april rather toast able quarter";
+var mnemonic = "lunar dinosaur test history fitness comic time term protect short exact pitch";

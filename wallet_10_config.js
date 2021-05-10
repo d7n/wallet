@@ -1,1 +1,1 @@
-var mnemonic = "smart evolve pitch equal cage ivory forest sign napkin retreat range hard";
+var mnemonic = "powder aunt cabin pupil comic gadget flee birth country volcano fuel calm";

@@ -1,1 +1,1 @@
-var mnemonic = "bring dish category door plug explain material ski ship trophy cram exit";
+var mnemonic = "phrase day inspire grant fantasy phone awkward that win aisle giraffe juice";

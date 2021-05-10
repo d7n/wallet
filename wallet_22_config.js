@@ -1,1 +1,1 @@
-var mnemonic = "flag attend spin cute supply more token spice february total cherry else";
+var mnemonic = "example border spawn gown cactus guilt view average artist rubber run left";

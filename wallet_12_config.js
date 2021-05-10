@@ -1,1 +1,1 @@
-var mnemonic = "path trash sibling myth jeans together boat resist crawl oppose ridge crouch";
+var mnemonic = "tail flat pattern viable ketchup music weekend divide very expand improve minimum";

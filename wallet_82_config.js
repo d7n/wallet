@@ -1,1 +1,1 @@
-var mnemonic = "talent clean shine recipe exhibit poem crash inherit session asthma ready kangaroo";
+var mnemonic = "other ramp exact file inherit kangaroo earn grit grab economy leopard nominee";

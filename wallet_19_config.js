@@ -1,1 +1,1 @@
-var mnemonic = "alpha view crumble banana april right present history reopen hollow surface label";
+var mnemonic = "palm cricket romance unknown join coil puzzle nephew cube able squeeze caught";

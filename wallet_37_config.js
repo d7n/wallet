@@ -1,1 +1,1 @@
-var mnemonic = "harbor scare owner cook fashion describe win mixed clever spin permit cabbage";
+var mnemonic = "couch buffalo silly girl unveil lumber twenty curve marriage light special retire";

@@ -1,1 +1,1 @@
-var mnemonic = "garage rose game dress place long strike salmon half nasty frozen stone";
+var mnemonic = "wool live siren fashion fatigue foot innocent solve marble cheese fiber measure";

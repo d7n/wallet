@@ -1,1 +1,1 @@
-var mnemonic = "casino phrase metal evolve bean flat sound abuse absent end achieve addict";
+var mnemonic = "calm future ride busy position punch series badge ancient traffic example cool";

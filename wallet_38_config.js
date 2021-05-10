@@ -1,1 +1,1 @@
-var mnemonic = "carbon write rigid trigger cave bounce relief use popular youth plastic village";
+var mnemonic = "simple verify gallery balance favorite cancel true viable neck offer valid miss";

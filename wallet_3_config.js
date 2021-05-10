@@ -1,1 +1,1 @@
-var mnemonic = "joke border drop obscure fault toward rookie conduct teach neglect adult crucial";
+var mnemonic = "orchard shallow analyst inner bacon balcony keen broccoli item pyramid certain zebra";

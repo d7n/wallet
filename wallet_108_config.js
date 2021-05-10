@@ -1,1 +1,1 @@
-var mnemonic = "vocal clean bleak famous square garlic base initial token virus century husband";
+var mnemonic = "session kite high polar stem credit time old wealth mansion rate picture";

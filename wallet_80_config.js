@@ -1,1 +1,1 @@
-var mnemonic = "motion pencil solar vintage uncover mobile shuffle clerk deputy laptop dinosaur object";
+var mnemonic = "yard auto hope report agent dirt melt jungle catalog crazy poet mandate";

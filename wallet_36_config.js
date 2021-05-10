@@ -1,1 +1,1 @@
-var mnemonic = "fortune sheriff olympic hybrid wolf brand horn artist head chicken sick birth";
+var mnemonic = "piece sauce tongue popular sweet balcony hire supreme alcohol harsh health angle";

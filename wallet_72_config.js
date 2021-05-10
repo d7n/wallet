@@ -1,1 +1,1 @@
-var mnemonic = "cover hunt month shadow hybrid staff august mango elite abuse embark senior";
+var mnemonic = "exist stamp improve rose apology rib meadow observe uphold space grain change";

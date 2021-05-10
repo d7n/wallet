@@ -1,1 +1,1 @@
-var mnemonic = "pulse gallery tool pluck bulk pig jelly library motor used seven exit";
+var mnemonic = "few link noise stamp certain pitch pupil rifle twice truck coyote cry";

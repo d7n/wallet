@@ -1,1 +1,1 @@
-var mnemonic = "road deliver copper case play floor spot amount glad unable vanish advance";
+var mnemonic = "deposit nerve casual armed feature middle section trophy valve spot gun brown";

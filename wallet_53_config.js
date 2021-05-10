@@ -1,1 +1,1 @@
-var mnemonic = "cannon prevent rack sketch away agree room warm replace drastic assault media";
+var mnemonic = "decide hold welcome shock chapter already shiver expand whale occur raise trumpet";

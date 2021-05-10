@@ -1,1 +1,1 @@
-var mnemonic = "van glare roast submit typical gun charge ball attack slot distance amused";
+var mnemonic = "have hub jelly planet often swarm tuna rather mosquito ugly choose ridge";

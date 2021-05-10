@@ -1,1 +1,1 @@
-var mnemonic = "board local vibrant asset vacuum segment benefit term frozen train squeeze claim";
+var mnemonic = "garment seminar worry clap document seek erosion horror main candy cube two";

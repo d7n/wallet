@@ -1,1 +1,1 @@
-var mnemonic = "fence coach mask purpose replace ozone endorse quote connect expose bean diagram";
+var mnemonic = "lava time lounge access beach essay dawn rival example age inject topple";

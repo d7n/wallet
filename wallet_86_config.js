@@ -1,1 +1,1 @@
-var mnemonic = "eager dolphin draft aspect advice guard very salad damp luggage dentist cup";
+var mnemonic = "busy capital unlock lab harbor cool pretty zone enable hope mystery topic";
