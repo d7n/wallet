@@ -1,1 +1,1 @@
-var mnemonic = "weasel hen deal two river miracle discover still decorate recall impulse suspect";
+var mnemonic = "oblige miracle minor response heavy height still main swing train arena impulse";

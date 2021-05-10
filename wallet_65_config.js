@@ -1,1 +1,1 @@
-var mnemonic = "task earth spice order moral avocado horse mule sentence random sugar outside";
+var mnemonic = "bounce budget hood reduce hand matrix one genius film bind uphold movie";

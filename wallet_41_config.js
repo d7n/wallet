@@ -1,1 +1,1 @@
-var mnemonic = "license oyster away luggage seminar carry arctic immense useful bring cheap various";
+var mnemonic = "library unable tide mad object kid region marble climb pair concert hammer";

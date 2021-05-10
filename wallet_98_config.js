@@ -1,1 +1,1 @@
-var mnemonic = "fringe chat slide have raw dumb school exist fresh curve recipe bubble";
+var mnemonic = "lyrics result network blossom goat library stay town area soccer shaft now";

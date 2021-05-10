@@ -1,1 +1,1 @@
-var mnemonic = "asset daring walk scrap junior faculty dinner penalty midnight airport wolf frog";
+var mnemonic = "mule sing law traffic drop tent chef vacant jewel assume open define";

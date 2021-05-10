@@ -1,1 +1,1 @@
-var mnemonic = "record layer silk copper cactus physical cart spring code ribbon illness reason";
+var mnemonic = "club chunk planet about balcony amount dust tape electric spell valve giggle";

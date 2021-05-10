@@ -1,1 +1,1 @@
-var mnemonic = "bean love memory rude person bike guitar main fluid pyramid erosion insane";
+var mnemonic = "guard phrase civil civil hurt web taste awake hood budget egg mammal";

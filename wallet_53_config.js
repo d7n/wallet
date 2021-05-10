@@ -1,1 +1,1 @@
-var mnemonic = "noodle net property nothing window rail fat stage fossil make ski feed";
+var mnemonic = "motor liar relief chest voyage bird animal rural water jar echo practice";

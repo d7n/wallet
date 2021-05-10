@@ -1,1 +1,1 @@
-var mnemonic = "rabbit always subject table art frozen rail final whip injury mushroom sister";
+var mnemonic = "motion spin ghost awesome drama pumpkin stove stove bone curtain tool produce";

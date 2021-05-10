@@ -1,1 +1,1 @@
-var mnemonic = "pigeon wave armor custom learn jewel ankle voice high what actor twenty";
+var mnemonic = "fan one rail obscure rose woman stick nut garment sphere tooth grab";

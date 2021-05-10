@@ -1,1 +1,1 @@
-var mnemonic = "nothing follow sample admit question twelve sugar impulse alone syrup opinion happy";
+var mnemonic = "ill category afford inner gaze lab kitchen learn scan canal romance battle";

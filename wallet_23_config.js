@@ -1,1 +1,1 @@
-var mnemonic = "fantasy meadow fetch deliver spread vessel acoustic tenant sad amount sketch switch";
+var mnemonic = "present aerobic use say degree spell chair control response sister mail head";

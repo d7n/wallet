@@ -1,1 +1,1 @@
-var mnemonic = "bullet spring use leader deal upon ketchup brave toilet identify keen smart";
+var mnemonic = "garbage pair skate attend key broken basket zero village goose slender thrive";

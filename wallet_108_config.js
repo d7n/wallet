@@ -1,1 +1,1 @@
-var mnemonic = "loyal cruel enter hollow half canoe abandon diet glow decade auto latin";
+var mnemonic = "divorce degree soap traffic embark desert note evolve chapter flush paper collect";

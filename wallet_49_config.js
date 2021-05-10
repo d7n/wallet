@@ -1,1 +1,1 @@
-var mnemonic = "element pond mammal trap figure health gospel team index life sword hungry";
+var mnemonic = "patient high airport ready cabin enhance water base lawsuit lake rug monitor";

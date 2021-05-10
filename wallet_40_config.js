@@ -1,1 +1,1 @@
-var mnemonic = "cloth project silk dream judge jeans adapt pole order series permit cash";
+var mnemonic = "reason poem remove bless ozone motor run salon horse digital deny side";

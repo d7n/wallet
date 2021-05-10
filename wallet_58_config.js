@@ -1,1 +1,1 @@
-var mnemonic = "dutch defense labor hub order know wisdom mesh same turn drink alcohol";
+var mnemonic = "screen casino sketch razor hen shallow million provide wisdom mask duck high";

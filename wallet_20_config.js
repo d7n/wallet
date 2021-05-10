@@ -1,1 +1,1 @@
-var mnemonic = "autumn tiger senior custom detect fiber adjust solve wink lobster junk clinic";
+var mnemonic = "remain diesel chapter frozen angle fiscal claim retreat stuff picture sibling seek";

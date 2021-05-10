@@ -1,1 +1,1 @@
-var mnemonic = "crime pilot treat satisfy ecology civil marble damp edit clock panda chimney";
+var mnemonic = "advice choose village sample video engine ordinary young salad breeze guide extra";

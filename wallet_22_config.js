@@ -1,1 +1,1 @@
-var mnemonic = "search cruise box derive tip search close chef walk join what ice";
+var mnemonic = "warfare material wonder two rubber turkey grain upgrade exit area inflict bind";

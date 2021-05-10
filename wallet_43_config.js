@@ -1,1 +1,1 @@
-var mnemonic = "tornado tragic mango success sniff absorb gesture board produce relief during traffic";
+var mnemonic = "tuition foot light picture rival gaze treat round student coil ritual check";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune tiger entire grid boost until sleep series slab shoot horn deer";
+var mnemonic = "legend range smart vehicle math anger total wink position absent catch match";

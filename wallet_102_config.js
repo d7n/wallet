@@ -1,1 +1,1 @@
-var mnemonic = "snow angry monster insane female hello one curtain middle divert marine maid";
+var mnemonic = "helmet rate stuff draft render okay exhaust negative shield lawsuit despair merge";

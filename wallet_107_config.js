@@ -1,1 +1,1 @@
-var mnemonic = "piece vintage sign crane spice myself traffic mirror gym margin bean color";
+var mnemonic = "coil rule collect elbow street walk people satoshi lion bubble ceiling drastic";

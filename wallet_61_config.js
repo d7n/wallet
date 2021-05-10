@@ -1,1 +1,1 @@
-var mnemonic = "journey medal visa desert dream emotion bounce march ivory tomorrow myth tornado";
+var mnemonic = "custom invest interest jaguar bench skill lock mixed critic apology worth during";

@@ -1,1 +1,1 @@
-var mnemonic = "agree poverty shed fence february kick alcohol recipe vacant endless walk joy";
+var mnemonic = "wish manage expect neglect sword tree bus flash stage feel explain pen";

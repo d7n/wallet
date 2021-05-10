@@ -1,1 +1,1 @@
-var mnemonic = "public urban company belt tenant team diesel yard card lemon arrange twin";
+var mnemonic = "acquire talk senior layer donor patrol animal liberty much palm tribe badge";

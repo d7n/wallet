@@ -1,1 +1,1 @@
-var mnemonic = "walk abuse pudding fence child extend yard meadow owner silver ecology point";
+var mnemonic = "plunge wash prison museum run entire wrist approve gauge scissors share must";

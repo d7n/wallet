@@ -1,1 +1,1 @@
-var mnemonic = "blush wisdom behave donkey opera deal wrong soldier blue meadow moon large";
+var mnemonic = "south brain chunk demand hollow rookie appear virtual bracket truly gym live";

@@ -1,1 +1,1 @@
-var mnemonic = "subject suspect grab night wire found smile safe love retire journey dinosaur";
+var mnemonic = "knee account joke shine note leave intact decrease grocery sea lizard strategy";

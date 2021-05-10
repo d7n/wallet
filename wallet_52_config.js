@@ -1,1 +1,1 @@
-var mnemonic = "exchange dawn muffin comfort faith okay cycle visa public dash unknown antique";
+var mnemonic = "gospel puppy ivory lazy crop rich exclude fossil cargo grant police shed";

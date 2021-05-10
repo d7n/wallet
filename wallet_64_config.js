@@ -1,1 +1,1 @@
-var mnemonic = "scissors daughter below wave lunar twelve day coil slogan write evoke program";
+var mnemonic = "exit rice midnight gate describe school about direct exchange frost pepper husband";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve medal daring print tumble smart move dwarf badge across tray alpha";
+var mnemonic = "defense merit defy chase wisdom hollow unique axis sure point grit funny";

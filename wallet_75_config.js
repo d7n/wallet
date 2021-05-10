@@ -1,1 +1,1 @@
-var mnemonic = "advice unhappy champion uphold laugh undo column submit pencil area utility path";
+var mnemonic = "arch saddle luggage cook all later fossil inch minimum monkey student script";

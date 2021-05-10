@@ -1,1 +1,1 @@
-var mnemonic = "bounce taxi rabbit type unveil young miss enjoy inmate sniff page vessel";
+var mnemonic = "amount stem quality disagree exhaust quality manage away another diesel raw cement";

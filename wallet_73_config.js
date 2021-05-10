@@ -1,1 +1,1 @@
-var mnemonic = "despair jealous diagram spawn neither august force heart usual bargain range bomb";
+var mnemonic = "famous phone price time soda federal since yard blur toast goose entry";

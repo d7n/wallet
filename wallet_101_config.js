@@ -1,1 +1,1 @@
-var mnemonic = "measure ahead ski payment digital trim ghost faculty want joke mouse mushroom";
+var mnemonic = "story edit rural rural heavy empower strategy antique online pear bicycle earn";

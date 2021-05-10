@@ -1,1 +1,1 @@
-var mnemonic = "wear lounge antenna sleep priority search top since silk enforce area wait";
+var mnemonic = "injury snap speak theme cost fee palace assault roast hammer letter morning";

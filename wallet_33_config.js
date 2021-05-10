@@ -1,1 +1,1 @@
-var mnemonic = "silver syrup reflect decrease quote merge extend media nut crane grocery great";
+var mnemonic = "spatial animal eternal enlist crop fly recall extend donor dog cake secret";

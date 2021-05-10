@@ -1,1 +1,1 @@
-var mnemonic = "silk shift lecture anger rifle smoke people whale volume matrix arrow media";
+var mnemonic = "park grocery jealous gate speak require phrase change spice combine dose ball";

@@ -1,1 +1,1 @@
-var mnemonic = "inch young suggest grab modify always alarm industry reject swim appear parrot";
+var mnemonic = "illness lift gesture false upset runway dice echo curious owner ten glass";

@@ -1,1 +1,1 @@
-var mnemonic = "allow carbon execute already noble addict ripple nose law squirrel exist female";
+var mnemonic = "kiwi rough rely differ water okay input bean chief zero salad tissue";

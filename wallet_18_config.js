@@ -1,1 +1,1 @@
-var mnemonic = "know nest often hard cattle delay alley chimney spot initial beyond cigar";
+var mnemonic = "mule acquire clump turn clean virus bronze merry much subject aerobic angry";

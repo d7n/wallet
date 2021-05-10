@@ -1,1 +1,1 @@
-var mnemonic = "ramp pill lecture alter swear young obscure call also repeat maze cousin";
+var mnemonic = "spy erase twelve gospel toddler notice axis paper impact crumble angry insect";

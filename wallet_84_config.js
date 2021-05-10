@@ -1,1 +1,1 @@
-var mnemonic = "alpha nephew one unusual nephew mercy scatter reject ticket wave circle enhance";
+var mnemonic = "stove rule hard spoon human lecture grace slam goddess mix giant donkey";

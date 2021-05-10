@@ -1,1 +1,1 @@
-var mnemonic = "odor region transfer member repair slender unveil talent elevator saddle pizza shell";
+var mnemonic = "volume replace dance sphere chunk other cable industry venue town object basket";

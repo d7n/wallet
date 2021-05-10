@@ -1,1 +1,1 @@
-var mnemonic = "domain rate shift mosquito tumble tumble tumble pledge sadness super rigid scout";
+var mnemonic = "assist found hour satoshi beyond energy toy solar abstract useless beauty nose";

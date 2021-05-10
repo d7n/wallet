@@ -1,1 +1,1 @@
-var mnemonic = "bullet sign dry roast over open found warfare egg rose phrase drift";
+var mnemonic = "input gasp buddy acquire old kind resist shop reunion sadness awkward injury";

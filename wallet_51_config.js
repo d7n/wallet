@@ -1,1 +1,1 @@
-var mnemonic = "buyer win toe small subway lion super punch mystery company bunker lamp";
+var mnemonic = "good tourist length december kit column nut crunch phone situate oxygen broken";

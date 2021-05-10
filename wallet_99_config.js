@@ -1,1 +1,1 @@
-var mnemonic = "swallow limit desk cancel jazz crack scare step noble cupboard pelican angle";
+var mnemonic = "diesel ritual patient egg twist involve liar system toss brave brown dwarf";

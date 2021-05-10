@@ -1,1 +1,1 @@
-var mnemonic = "route saddle gloom copper verb only obscure size tomato harsh wild nothing";
+var mnemonic = "guilt fault bamboo fan cancel roof dust wreck obvious hybrid genius happy";

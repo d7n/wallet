@@ -1,1 +1,1 @@
-var mnemonic = "resist sudden broom stock salon sell manual menu upon mention loud spot";
+var mnemonic = "wood cabbage blossom tip sort basket pencil divide apple ill blur drink";

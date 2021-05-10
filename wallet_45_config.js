@@ -1,1 +1,1 @@
-var mnemonic = "pair because faith minimum enrich job charge blue east electric tattoo destroy";
+var mnemonic = "online draw repair slight minute occur kiwi exit perfect harvest organ orphan";

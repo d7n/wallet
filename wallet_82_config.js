@@ -1,1 +1,1 @@
-var mnemonic = "grace risk mom save thunder track turn abuse equal master lesson endorse";
+var mnemonic = "sure flash correct stomach never imitate pencil burst peace raccoon oxygen salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "rare october category sadness gasp where immense doll ask shoulder ramp verify";
+var mnemonic = "update fresh spot piano elephant tragic milk control seven among dance pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe chest organ solve gun hard super jungle wealth slogan total nose";
+var mnemonic = "airport armed tonight deer mandate brief lunch hockey park vocal post style";

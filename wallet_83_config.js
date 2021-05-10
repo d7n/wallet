@@ -1,1 +1,1 @@
-var mnemonic = "tortoise train strong balance share bomb erosion agent seek travel together assume";
+var mnemonic = "worry wife garlic doctor rug corn vault dash hope host piece chest";

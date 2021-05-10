@@ -1,1 +1,1 @@
-var mnemonic = "genre firm afford tennis credit hedgehog water biology motion crisp give ticket";
+var mnemonic = "indicate oyster athlete try tide life egg panel quantum jeans eye install";

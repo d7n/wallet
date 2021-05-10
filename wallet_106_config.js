@@ -1,1 +1,1 @@
-var mnemonic = "fragile seed federal topic hurdle manage piece square speak main stage barely";
+var mnemonic = "velvet slot soap trend hockey casual noise six market police usage bone";

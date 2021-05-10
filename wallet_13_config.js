@@ -1,1 +1,1 @@
-var mnemonic = "bar mention give goddess matrix veteran below regular fish repeat gentle between";
+var mnemonic = "dawn mansion left indoor wood violin amount vague survey gossip hollow hidden";

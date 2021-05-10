@@ -1,1 +1,1 @@
-var mnemonic = "all paper humble acid man ready audit indoor gap clock glimpse cabbage";
+var mnemonic = "render fee school own release when obvious consider praise bean two lake";

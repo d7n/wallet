@@ -1,1 +1,1 @@
-var mnemonic = "bless amateur decorate shoe hand title together engine scale crystal note runway";
+var mnemonic = "celery kangaroo depend affair empty road place vague spice test giraffe sibling";

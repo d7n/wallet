@@ -1,1 +1,1 @@
-var mnemonic = "chalk avocado organ elegant raven giggle play lock quarter source electric oppose";
+var mnemonic = "wear vacuum pilot night teach impact define chase grace minor noodle square";

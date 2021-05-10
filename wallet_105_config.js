@@ -1,1 +1,1 @@
-var mnemonic = "paddle bicycle soldier decrease pond sentence green orbit letter virus foil beef";
+var mnemonic = "green real perfect renew era stem report cabin humor save attack various";

@@ -1,1 +1,1 @@
-var mnemonic = "program dinner banner orbit promote term fiction jungle supply blame advice danger";
+var mnemonic = "mansion capital expect equal dove derive wink fame genius hero finish carbon";

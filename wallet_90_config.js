@@ -1,1 +1,1 @@
-var mnemonic = "drum select naive pottery cigar level chalk ghost script track split token";
+var mnemonic = "jeans exchange matter lumber twice alert debris search canyon route audit surprise";

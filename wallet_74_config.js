@@ -1,1 +1,1 @@
-var mnemonic = "front tourist proof script put steak wonder snake shine matter spend bread";
+var mnemonic = "glad behind inmate weather host health dolphin atom talk among chase hold";

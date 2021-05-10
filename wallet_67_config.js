@@ -1,1 +1,1 @@
-var mnemonic = "claw flower method coffee runway list cart across winner milk trumpet width";
+var mnemonic = "sleep network jealous unfold burden suggest return erupt skin prize gadget attack";

@@ -1,1 +1,1 @@
-var mnemonic = "hope wheat corn inquiry poet two proud couple juice tray edit large";
+var mnemonic = "beyond same gasp appear task black rhythm program cinnamon dash party edge";

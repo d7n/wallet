@@ -1,1 +1,1 @@
-var mnemonic = "valid lesson million divorce enroll usage monitor worry faculty food episode scene";
+var mnemonic = "antenna cable ignore three cute else town copper farm comic illness power";

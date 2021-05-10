@@ -1,1 +1,1 @@
-var mnemonic = "scorpion skin other evolve alone cactus modify mean upgrade slide autumn tuition";
+var mnemonic = "prize squeeze later raise apology quantum banner kit monster garage prison shell";

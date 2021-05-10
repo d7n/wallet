@@ -1,1 +1,1 @@
-var mnemonic = "frequent feel river choose tackle glare marriage ball ceiling crop satisfy field";
+var mnemonic = "save dirt symbol catch matrix fury cave bird mobile off access acid";

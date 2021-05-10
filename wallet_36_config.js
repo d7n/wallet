@@ -1,1 +1,1 @@
-var mnemonic = "river treat mansion person essay version note love toilet naive winner attack";
+var mnemonic = "sand steak pattern alter tomato shiver decrease enemy patch profit fame refuse";

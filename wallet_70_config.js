@@ -1,1 +1,1 @@
-var mnemonic = "normal share theme taxi supreme shoot pencil effort coil cake family myth";
+var mnemonic = "museum sponsor protect top advice lottery burger embark public brand cradle tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "fog solid party vault useful goose accuse buffalo never tower innocent deputy";
+var mnemonic = "acoustic write energy risk scatter slide grocery climb vague business soda blind";

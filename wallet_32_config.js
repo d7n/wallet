@@ -1,1 +1,1 @@
-var mnemonic = "pink extra decorate frost lamp culture evidence divorce visit rate today moral";
+var mnemonic = "train enrich laptop orchard crumble opera cart person cigar broccoli produce file";

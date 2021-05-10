@@ -1,1 +1,1 @@
-var mnemonic = "analyst voyage drip rack crane cage hunt when mosquito happy fly virus";
+var mnemonic = "process pipe invest seed family exchange lounge erosion become work duck celery";

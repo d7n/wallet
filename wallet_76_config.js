@@ -1,1 +1,1 @@
-var mnemonic = "slogan warm sibling alert assume weasel arm identify art valve error rebel";
+var mnemonic = "put capable clay runway dad meat syrup robust elephant belt devote hood";

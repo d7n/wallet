@@ -1,1 +1,1 @@
-var mnemonic = "dove way rough loan buyer liquid response spin track test asthma insane";
+var mnemonic = "diary public input evolve recycle street artwork saddle gossip weather hedgehog novel";

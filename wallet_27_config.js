@@ -1,1 +1,1 @@
-var mnemonic = "good able cause mass next luxury ensure speak animal defy bird moral";
+var mnemonic = "lunar display today bench bunker ugly absent divorce penalty useful vital enemy";

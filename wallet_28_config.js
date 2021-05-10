@@ -1,1 +1,1 @@
-var mnemonic = "ivory crunch meadow sure sting good divorce hobby base fragile seek minute";
+var mnemonic = "minute divorce minimum soon easy lesson skill net similar rate choice off";

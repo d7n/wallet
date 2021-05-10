@@ -1,1 +1,1 @@
-var mnemonic = "spawn vocal duty column obey hair wood borrow treat betray robust wonder";
+var mnemonic = "rib season choice battle bread creek witness divide auto stick misery mercy";

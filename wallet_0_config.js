@@ -1,1 +1,1 @@
-var mnemonic = "duty two bamboo soap outdoor price excess canal parent minimum genre orchard";
+var mnemonic = "stand diary december mass liberty leisure lens tragic loop rent pretty solar";

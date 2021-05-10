@@ -1,1 +1,1 @@
-var mnemonic = "crater effort hint seed small differ grape october potato again trigger town";
+var mnemonic = "myself resemble address cream trumpet thrive slight behave slim matrix build quarter";

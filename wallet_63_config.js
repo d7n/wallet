@@ -1,1 +1,1 @@
-var mnemonic = "swallow bubble length bike noodle nature wise essence truly sea mesh mandate";
+var mnemonic = "grain nut easy almost young advance six swap earth tenant borrow organ";

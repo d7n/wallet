@@ -1,1 +1,1 @@
-var mnemonic = "lonely elevator industry strike divert century mix dash expose ball disease little";
+var mnemonic = "advice word crime weekend essence journey arm coach leader worth cycle leave";

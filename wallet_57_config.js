@@ -1,1 +1,1 @@
-var mnemonic = "cherry vendor before entry ostrich tragic polar century cost artefact draw horse";
+var mnemonic = "owner spin brush burst oppose quarter hope tennis another rabbit disorder apart";

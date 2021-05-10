@@ -1,1 +1,1 @@
-var mnemonic = "almost have fringe copy innocent olympic ribbon fresh strategy taste flight gaze";
+var mnemonic = "cotton close super danger carpet arctic inject card eagle crowd tool robust";

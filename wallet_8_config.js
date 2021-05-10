@@ -1,1 +1,1 @@
-var mnemonic = "shell fever assist fatal canoe need young airport popular box dragon uphold";
+var mnemonic = "describe rain degree caution neck inform derive powder item napkin spy twist";

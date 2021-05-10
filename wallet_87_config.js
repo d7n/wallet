@@ -1,1 +1,1 @@
-var mnemonic = "tunnel exit click position february average island lunch box general hub weather";
+var mnemonic = "consider spend castle gasp river differ naive gauge bar student case hill";

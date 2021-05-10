@@ -1,1 +1,1 @@
-var mnemonic = "rural often wide skirt mesh real guitar inform suggest face prison daughter";
+var mnemonic = "figure thank adjust minute skate viable soft ignore trip open minimum push";

@@ -1,1 +1,1 @@
-var mnemonic = "north furnace illness toilet shoe express mule circle tank rare junk material";
+var mnemonic = "goose crane book citizen athlete pole trophy normal student imitate charge cloud";

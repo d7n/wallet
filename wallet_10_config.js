@@ -1,1 +1,1 @@
-var mnemonic = "mango lunch before pole cherry bronze common pair night dune divide cabin";
+var mnemonic = "scissors heart snake hamster since decade panther embrace artist siege copper salon";

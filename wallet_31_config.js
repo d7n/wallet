@@ -1,1 +1,1 @@
-var mnemonic = "cash explain truth worry shoe palm recall depth include steel raccoon rescue";
+var mnemonic = "network charge loan forward sound myself nose valley idea direct modify coast";
