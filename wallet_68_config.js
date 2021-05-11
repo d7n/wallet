@@ -1,1 +1,1 @@
-var mnemonic = "unique exit detect float pyramid still inherit knee cotton uphold employ purity";
+var mnemonic = "wear great replace topple another size sadness mixture skin tube napkin room";

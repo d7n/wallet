@@ -1,1 +1,1 @@
-var mnemonic = "estate melody still tattoo actual speed essay youth wear kiwi produce expect";
+var mnemonic = "marble unfold heart stage guitar glass best theory civil faculty pride corn";

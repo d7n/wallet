@@ -1,1 +1,1 @@
-var mnemonic = "rich dance equip ice unlock flat link assault tell maid notice rebuild";
+var mnemonic = "boat atom trust mountain purse busy hill immune rubber saddle sketch layer";

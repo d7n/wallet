@@ -1,1 +1,1 @@
-var mnemonic = "nest voice kind lemon quantum glad crime achieve repeat device finish call";
+var mnemonic = "tribe drip slide bargain issue vacant curtain wink daughter gossip try puzzle";

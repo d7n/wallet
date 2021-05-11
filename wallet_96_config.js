@@ -1,1 +1,1 @@
-var mnemonic = "virus track punch blue hollow dismiss round slide garden uniform reveal frost";
+var mnemonic = "already fame gym fox orient candy exchange quality orange link rough stay";

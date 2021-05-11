@@ -1,1 +1,1 @@
-var mnemonic = "gather vocal orphan abstract notable stomach good inside liquid core pyramid fame";
+var mnemonic = "assist hammer slender dress decorate holiday bird first apology maple embark consider";

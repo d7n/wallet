@@ -1,1 +1,1 @@
-var mnemonic = "swift entire denial hole obey blanket advance click curve slow token floor";
+var mnemonic = "poet rose drift park select finish kite hawk lyrics upgrade trial notice";

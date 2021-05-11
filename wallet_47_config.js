@@ -1,1 +1,1 @@
-var mnemonic = "stamp object truth always settle dice void report material gown run chuckle";
+var mnemonic = "light tuna forest shield life enlist olympic sniff tray panel copy cricket";

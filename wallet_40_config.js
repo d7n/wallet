@@ -1,1 +1,1 @@
-var mnemonic = "hamster pen parent tackle ship reveal slight pause vibrant van useful snap";
+var mnemonic = "lunar vibrant drum love video rigid mammal unique evolve tattoo fold evil";

@@ -1,1 +1,1 @@
-var mnemonic = "vault asthma case hint tribe story fun kidney boost certain outside pudding";
+var mnemonic = "lock float journey master sting club daring girl purpose tree tree loop";

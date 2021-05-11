@@ -1,1 +1,1 @@
-var mnemonic = "pair awake rebel cigar allow like brave found alien vessel minor limb";
+var mnemonic = "effort bulk grunt used expand quick check drip cricket pledge remind firm";

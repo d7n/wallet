@@ -1,1 +1,1 @@
-var mnemonic = "cancel napkin misery record grief raw fabric ugly future fade hazard fence";
+var mnemonic = "notice boil theory always vault tackle high roast gloom ordinary dynamic august";

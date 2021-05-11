@@ -1,1 +1,1 @@
-var mnemonic = "naive pink sentence before border urge boil armed rival echo asthma much";
+var mnemonic = "segment wheel dad mean metal frog trouble provide donkey pizza favorite airport";

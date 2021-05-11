@@ -1,1 +1,1 @@
-var mnemonic = "trim negative sure used undo scale dust smoke chaos where blood fire";
+var mnemonic = "stamp prepare shed someone repair hungry royal unit area december want used";

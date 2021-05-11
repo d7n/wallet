@@ -1,1 +1,1 @@
-var mnemonic = "cash price badge curtain dust embark happy home sunny reason dwarf engage";
+var mnemonic = "accuse more main claim kidney child only cherry conduct live main health";

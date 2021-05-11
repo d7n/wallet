@@ -1,1 +1,1 @@
-var mnemonic = "penalty pear decorate parent grant kid jelly scout equip decade front harvest";
+var mnemonic = "job initial ecology meat audit kiss car hope exist senior raven lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "wide sun what slogan wood fashion mechanic ivory spice interest wine relax";
+var mnemonic = "symbol filter shield notice school entire matrix worry lecture kind make security";

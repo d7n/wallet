@@ -1,1 +1,1 @@
-var mnemonic = "argue toilet shoe genuine impact legend extend cricket body uncle ribbon file";
+var mnemonic = "plug slender apple rotate swift sport protect okay relax daughter pelican walk";

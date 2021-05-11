@@ -1,1 +1,1 @@
-var mnemonic = "accuse smart minor extend spy lift sheriff share lend dignity size duck";
+var mnemonic = "wave copy trophy punch rocket deposit air toilet supply truth lunch battle";

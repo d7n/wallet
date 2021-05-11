@@ -1,1 +1,1 @@
-var mnemonic = "measure disagree more carpet bundle comfort divert crystal usage rude truck hello";
+var mnemonic = "unhappy embrace theory peasant dumb jacket crop steak renew ketchup elegant bridge";

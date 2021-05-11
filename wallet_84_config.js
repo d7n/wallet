@@ -1,1 +1,1 @@
-var mnemonic = "street below dial symptom universe island address shield ignore gold also pole";
+var mnemonic = "sure elbow hover senior loop lizard trim phrase catch wall true filter";

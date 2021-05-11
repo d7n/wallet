@@ -1,1 +1,1 @@
-var mnemonic = "offer damp sample height depart donate joy warrior snap mosquito shuffle anchor";
+var mnemonic = "filter basket aware pony own agree nephew bronze spell style program leaf";

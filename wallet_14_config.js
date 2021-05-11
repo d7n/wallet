@@ -1,1 +1,1 @@
-var mnemonic = "foil dad what business soda side resemble large parade pet puzzle harvest";
+var mnemonic = "board health cram beef cabin erupt noise snake smooth avocado catalog crush";

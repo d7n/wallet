@@ -1,1 +1,1 @@
-var mnemonic = "atom clutch logic ancient much laptop analyst anchor circle man dad small";
+var mnemonic = "icon motor move upon magic also use clean image midnight crisp little";

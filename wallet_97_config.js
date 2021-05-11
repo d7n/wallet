@@ -1,1 +1,1 @@
-var mnemonic = "accident insane copper allow museum there glance warfare current antique throw duty";
+var mnemonic = "mirror jeans renew solve monkey enhance topic awesome remind master prepare tree";

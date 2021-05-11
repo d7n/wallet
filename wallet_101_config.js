@@ -1,1 +1,1 @@
-var mnemonic = "session lobster mind remove parent surge spy name any seminar increase flower";
+var mnemonic = "scrap crucial argue woman motor wrist hurry over daring speed amount mistake";

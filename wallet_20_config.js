@@ -1,1 +1,1 @@
-var mnemonic = "rural bacon argue glow grab horse budget limit dirt confirm mad ordinary";
+var mnemonic = "mother insane level position pass town enjoy ten extend roof exile receive";

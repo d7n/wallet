@@ -1,1 +1,1 @@
-var mnemonic = "vehicle acid member nation coil region iron undo battle neglect valley demise";
+var mnemonic = "coffee topic mandate flat total assault lake reopen taste ugly doll carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium steel mind usage bright cradle thrive upset cover magic husband push";
+var mnemonic = "turn stadium abandon inflict rude enrich escape game sense scale verify have";

@@ -1,1 +1,1 @@
-var mnemonic = "call casual river pistol conduct timber whale trigger festival egg liar rotate";
+var mnemonic = "cook pet drastic chronic shiver goose satisfy hold crunch own age fringe";

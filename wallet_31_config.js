@@ -1,1 +1,1 @@
-var mnemonic = "extra figure huge badge jewel movie organ custom review access drastic build";
+var mnemonic = "page length across foil law street seven great close adult helmet lift";

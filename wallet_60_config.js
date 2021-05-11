@@ -1,1 +1,1 @@
-var mnemonic = "range loud young deliver swing wreck strategy teach also expect health any";
+var mnemonic = "west olympic system web enough mercy find million other fly veteran napkin";

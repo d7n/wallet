@@ -1,1 +1,1 @@
-var mnemonic = "fence chest wood drink black snake belt law lawn scheme fiscal fog";
+var mnemonic = "absorb circle chest shiver uphold coyote shiver jeans swear settle garage notable";

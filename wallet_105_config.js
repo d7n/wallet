@@ -1,1 +1,1 @@
-var mnemonic = "water like dial system slice soda bronze enlist cave craft alter gas";
+var mnemonic = "liar again net faculty tooth retire involve where tilt derive sight grow";

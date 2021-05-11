@@ -1,1 +1,1 @@
-var mnemonic = "monster permit rice avocado sentence chef leisure corn negative raven salad mind";
+var mnemonic = "magic raven vast donate chaos trial crawl hurry child burden warfare jeans";

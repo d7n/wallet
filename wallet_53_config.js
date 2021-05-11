@@ -1,1 +1,1 @@
-var mnemonic = "gallery artist erupt sauce invite trouble person east pattern maid dash bread";
+var mnemonic = "hawk delay oxygen denial liquid inspire slush mean quick dolphin false mix";

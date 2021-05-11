@@ -1,1 +1,1 @@
-var mnemonic = "rigid subject wave ramp century female pride envelope grain frog proof health";
+var mnemonic = "romance weasel daring truth roast mask fix liberty faint salad web lyrics";

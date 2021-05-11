@@ -1,1 +1,1 @@
-var mnemonic = "yellow limb rifle time camera disagree two assault aim album valve judge";
+var mnemonic = "reopen canvas swamp always siege word meat cheap boat case soup ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "summer fancy alcohol letter slight clarify grit more satoshi betray increase wrong";
+var mnemonic = "cube vivid dizzy puzzle fog palace reject urge vault clarify wagon habit";

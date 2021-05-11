@@ -1,1 +1,1 @@
-var mnemonic = "switch dismiss oblige ozone about maple tower ability render sail glide nurse";
+var mnemonic = "easy electric subject travel fashion myth merge job hollow absent repeat setup";

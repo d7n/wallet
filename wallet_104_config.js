@@ -1,1 +1,1 @@
-var mnemonic = "glow december merit journey degree diagram echo naive market like infant now";
+var mnemonic = "paper scissors tribe arch trumpet observe mail issue club fish evolve alpha";

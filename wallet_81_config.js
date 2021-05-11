@@ -1,1 +1,1 @@
-var mnemonic = "rail income fatal curtain where elephant picture hunt proof shallow liar curve";
+var mnemonic = "relax again miss edit occur remove stick wire narrow exit clutch open";

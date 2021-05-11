@@ -1,1 +1,1 @@
-var mnemonic = "mercy elite canoe setup robust mystery skill crush position man casual museum";
+var mnemonic = "minimum mango dog symptom sketch novel bar security web welcome soda any";

@@ -1,1 +1,1 @@
-var mnemonic = "blade illness scale appear elevator example collect clean trash year charge kiss";
+var mnemonic = "kick green antique pony force either donkey minimum badge believe mechanic snap";

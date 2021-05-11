@@ -1,1 +1,1 @@
-var mnemonic = "above crack spot tissue then shrimp stick work taste gun clutch fence";
+var mnemonic = "harbor future clown venue version transfer neutral wife inmate acid benefit cat";

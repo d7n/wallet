@@ -1,1 +1,1 @@
-var mnemonic = "harsh accuse first wet broccoli shrug slab wink bullet step rack uphold";
+var mnemonic = "spin various entry rose have online aspect build witness dinner resource negative";

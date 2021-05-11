@@ -1,1 +1,1 @@
-var mnemonic = "hybrid adjust verify van obvious squeeze shy kite left memory credit lemon";
+var mnemonic = "fee knock maple unfold clutch genius wool skill target feel dolphin dance";

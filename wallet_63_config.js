@@ -1,1 +1,1 @@
-var mnemonic = "quarter exhaust hill expire bargain slice mushroom avocado patch lounge crouch unique";
+var mnemonic = "ketchup flight elbow surface range account type like outer afraid then boat";

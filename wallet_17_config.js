@@ -1,1 +1,1 @@
-var mnemonic = "science catalog rifle stool million property energy token recycle oven embody matter";
+var mnemonic = "soul helmet fan mansion promote return bubble burst wood athlete void neck";

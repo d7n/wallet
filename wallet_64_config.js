@@ -1,1 +1,1 @@
-var mnemonic = "taste embody carry noodle helmet great spider nothing grass unknown fee baby";
+var mnemonic = "team toddler lottery text thought appear grape length valid civil laundry describe";

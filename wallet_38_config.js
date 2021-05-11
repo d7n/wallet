@@ -1,1 +1,1 @@
-var mnemonic = "unhappy home pet chase ugly human grab flower outdoor exhaust cycle survey";
+var mnemonic = "rapid try dinosaur vapor helmet between flavor borrow since secret siren trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage answer minute reason large mutual tray scout kid warfare illegal sorry";
+var mnemonic = "fine cotton chronic border visit visa intact umbrella invite menu zoo sound";

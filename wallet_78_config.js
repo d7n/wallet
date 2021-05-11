@@ -1,1 +1,1 @@
-var mnemonic = "whale can enough pool february drum hire cattle wing order clog topple";
+var mnemonic = "sock all purchase any romance forward forward tower fee oven glance ketchup";

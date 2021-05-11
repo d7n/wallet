@@ -1,1 +1,1 @@
-var mnemonic = "script short subway derive more scare general canoe later legal estate easily";
+var mnemonic = "force fantasy capable crew runway gasp wrap cook two lucky skull flight";

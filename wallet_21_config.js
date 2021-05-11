@@ -1,1 +1,1 @@
-var mnemonic = "this room day dash follow minimum enroll oil arena clever student broken";
+var mnemonic = "toward token dust degree country tunnel village catch explain main alley pelican";

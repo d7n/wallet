@@ -1,1 +1,1 @@
-var mnemonic = "flip nothing claw true vintage runway taxi soda super once tackle parrot";
+var mnemonic = "include thank few ugly actor soap behind crack voyage beach sustain crime";

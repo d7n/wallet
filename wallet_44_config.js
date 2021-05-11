@@ -1,1 +1,1 @@
-var mnemonic = "enhance enter nation era treat system peasant entire spoil athlete toward scissors";
+var mnemonic = "trick excite fortune original boost health field unique pink comfort stadium steak";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan rather pool capable edge muscle siege feed front notice save zebra";
+var mnemonic = "peace equal company trim lend boring diet snow tongue jump holiday twice";

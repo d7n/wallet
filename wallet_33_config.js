@@ -1,1 +1,1 @@
-var mnemonic = "also among garbage glimpse brief used cup ozone force empower ring century";
+var mnemonic = "impose goose bench frozen banana swarm liar predict olympic unit fatal abstract";

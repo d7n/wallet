@@ -1,1 +1,1 @@
-var mnemonic = "mammal daughter elephant cricket crack coast lizard master admit smart quantum rug";
+var mnemonic = "gospel trumpet scout rival seminar guitar crazy biology ride chef bracket melt";

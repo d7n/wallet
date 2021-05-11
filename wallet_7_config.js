@@ -1,1 +1,1 @@
-var mnemonic = "guitar patrol cruise screen stage act shy economy cruise carpet proof antique";
+var mnemonic = "vehicle often economy focus catch deputy version slide happy estate minimum pulse";

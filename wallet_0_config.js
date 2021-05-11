@@ -1,1 +1,1 @@
-var mnemonic = "sport foam legal wing deliver coil empower wet catalog lobster cement mercy";
+var mnemonic = "proof regret question predict trim update country economy elder wild quote level";

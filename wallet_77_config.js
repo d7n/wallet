@@ -1,1 +1,1 @@
-var mnemonic = "tube sibling luxury flock fit educate surge hollow old absorb never begin";
+var mnemonic = "sketch monitor student mixed offer april glare other long onion blouse slogan";

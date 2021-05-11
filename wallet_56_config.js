@@ -1,1 +1,1 @@
-var mnemonic = "tired bright relax dismiss relief palace tube exclude tobacco apart agent timber";
+var mnemonic = "elbow spray traffic dad wagon patient eight walk distance daring raise borrow";

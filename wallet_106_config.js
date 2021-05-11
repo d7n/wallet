@@ -1,1 +1,1 @@
-var mnemonic = "muscle auto celery outdoor slab notice exact weekend sand tool outdoor pledge";
+var mnemonic = "same food blind travel engine dose govern until rate fuel practice spring";

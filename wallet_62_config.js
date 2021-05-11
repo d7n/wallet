@@ -1,1 +1,1 @@
-var mnemonic = "door much sketch already tank quantum knife post flower beauty obtain element";
+var mnemonic = "now member direct flush satisfy water soldier office cake large way town";

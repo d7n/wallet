@@ -1,1 +1,1 @@
-var mnemonic = "way action segment drum gasp inform stick hand hip update phone panda";
+var mnemonic = "glory other hollow demand pride curious brass flee settle trend syrup blossom";

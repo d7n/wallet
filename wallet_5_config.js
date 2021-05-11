@@ -1,1 +1,1 @@
-var mnemonic = "unaware toast plate quarter dash whale dial debris young chief health insect";
+var mnemonic = "boat dash loud become situate paddle patient nut estate bachelor anchor arctic";

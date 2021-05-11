@@ -1,1 +1,1 @@
-var mnemonic = "leaf half castle excite glide embrace arch praise daring whip edge item";
+var mnemonic = "ankle hedgehog dog yard stamp capital minimum potato inflict wood vote search";

@@ -1,1 +1,1 @@
-var mnemonic = "discover trigger sunset rifle salt worry mass gasp pattern long fatal mutual";
+var mnemonic = "surprise citizen you fantasy motor tuition chat rebuild tonight crash flash book";

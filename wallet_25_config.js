@@ -1,1 +1,1 @@
-var mnemonic = "glance become manage index garlic grain ripple drop art soccer head quit";
+var mnemonic = "combine broken rose finger session addict fruit blind afford nominee sorry exotic";

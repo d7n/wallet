@@ -1,1 +1,1 @@
-var mnemonic = "cabbage wild pizza rude smile pottery often voyage afford rich loud switch";
+var mnemonic = "magic drama warrior baby gravity version garlic culture surround thunder beyond burden";

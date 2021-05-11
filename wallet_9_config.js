@@ -1,1 +1,1 @@
-var mnemonic = "hammer ostrich identify snow veteran differ cactus hawk addict change dress drip";
+var mnemonic = "dinner normal enhance insect slush system forget dentist enjoy foam trim obvious";

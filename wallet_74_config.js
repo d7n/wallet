@@ -1,1 +1,1 @@
-var mnemonic = "weapon letter trophy brief frog creek inquiry canal oval fruit board meat";
+var mnemonic = "chapter zero stock boost cat student cook jaguar steel earth clown actress";

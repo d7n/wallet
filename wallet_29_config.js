@@ -1,1 +1,1 @@
-var mnemonic = "canoe they spoil defy solid tenant bridge dragon limit pioneer wisdom steel";
+var mnemonic = "warrior smile fan south nice solve disease kind rescue govern exercise comfort";

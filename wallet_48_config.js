@@ -1,1 +1,1 @@
-var mnemonic = "topic chalk acoustic weasel size pair trade bachelor thing explain rocket people";
+var mnemonic = "swing badge scene alter escape illegal address deny amused pink answer alien";

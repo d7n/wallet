@@ -1,1 +1,1 @@
-var mnemonic = "crawl satisfy muscle then awful save equip brand index rain company disagree";
+var mnemonic = "chimney tell consider leaf thought oval beauty taxi slow town seat flame";

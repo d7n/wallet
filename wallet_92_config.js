@@ -1,1 +1,1 @@
-var mnemonic = "guitar crisp lend faith above parrot puppy term beach truck goat need";
+var mnemonic = "uncle diesel onion violin maple lava north erode truth drum outer envelope";

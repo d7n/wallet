@@ -1,1 +1,1 @@
-var mnemonic = "icon icon winner such exotic net divide crime mesh wet carpet post";
+var mnemonic = "pilot march sentence miss boat spell mansion pact empower burger dumb boost";

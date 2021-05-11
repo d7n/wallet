@@ -1,1 +1,1 @@
-var mnemonic = "guitar boy vendor repeat humble owner hurt drastic cup merit wrong lend";
+var mnemonic = "index open collect nominee one merry lesson fitness issue explain raven holiday";

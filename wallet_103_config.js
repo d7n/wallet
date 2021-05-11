@@ -1,1 +1,1 @@
-var mnemonic = "fine kiwi team beyond shop clog gain merge switch recall mix subway";
+var mnemonic = "risk basket puzzle have glove proof between grunt ripple rotate inhale oyster";

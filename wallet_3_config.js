@@ -1,1 +1,1 @@
-var mnemonic = "seed initial cushion sketch large mechanic future verb smile search special crucial";
+var mnemonic = "alcohol someone boat position feel pioneer hedgehog offer album earth surface firm";

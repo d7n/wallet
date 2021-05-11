@@ -1,1 +1,1 @@
-var mnemonic = "water lens nerve release feature cram ten blind throw practice toward thing";
+var mnemonic = "neither hamster deer scale donor chuckle dawn person earth patient year buffalo";

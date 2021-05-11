@@ -1,1 +1,1 @@
-var mnemonic = "guard caution motion pull thrive unfair else system silk excuse clown spy";
+var mnemonic = "wink father blind ivory nut actress lock desk until absent dizzy sauce";

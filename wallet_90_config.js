@@ -1,1 +1,1 @@
-var mnemonic = "gift memory neck lonely guide rice this nothing square indicate forward casino";
+var mnemonic = "inherit define mosquito brush oxygen gift quiz enjoy brave return blouse panel";

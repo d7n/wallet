@@ -1,1 +1,1 @@
-var mnemonic = "wrestle smile possible aware away vanish seat lucky hidden aunt derive atom";
+var mnemonic = "north guilt hurt heavy wife harbor nest match witness option odor fit";

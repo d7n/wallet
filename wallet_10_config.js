@@ -1,1 +1,1 @@
-var mnemonic = "subject chapter away wise boss alter weasel noble blossom inform candy divide";
+var mnemonic = "silk until virus margin wink emotion average day cabin brain dream base";

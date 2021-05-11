@@ -1,1 +1,1 @@
-var mnemonic = "bargain magnet brand paper scrub payment limit earn snake child symbol teach";
+var mnemonic = "choose riot project parent badge ship twice foot proof stereo heavy result";
