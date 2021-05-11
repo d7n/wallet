@@ -1,1 +1,1 @@
-var mnemonic = "visit gloom powder canal dust dose fiber action armor delay faculty outside";
+var mnemonic = "impulse solution patch crush antenna embark spare multiply coach puppy tone shy";

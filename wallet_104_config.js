@@ -1,1 +1,1 @@
-var mnemonic = "never myth pen lunch disorder fame circle subway toddler spread swift pudding";
+var mnemonic = "seat unit keen crush regular reform marine above joke excuse repeat vintage";

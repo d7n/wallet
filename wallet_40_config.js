@@ -1,1 +1,1 @@
-var mnemonic = "arrest chalk melt drama only slide tuition round arch motion wait pumpkin";
+var mnemonic = "garlic name taste human raw horse skill index castle addict endless consider";

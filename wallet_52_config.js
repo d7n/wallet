@@ -1,1 +1,1 @@
-var mnemonic = "symbol card vapor kite payment fence ridge indicate over segment clump tone";
+var mnemonic = "twin evidence box invest between equal shadow chimney purity pear shield setup";

@@ -1,1 +1,1 @@
-var mnemonic = "sense health door sight draw cover person hub direct similar toilet sweet";
+var mnemonic = "youth obvious jazz report pole solution alpha luggage canal describe glove giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic later knock drastic rely avocado change mind tourist second raven borrow";
+var mnemonic = "arctic edit army cheap civil knife firm hen bless symptom spice wet";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty total maple grain best point hover sell dose marine sail pond";
+var mnemonic = "keep divert plunge mail maximum wink arena equip tuna scrub finger table";

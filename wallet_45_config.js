@@ -1,1 +1,1 @@
-var mnemonic = "meadow travel crumble soap rabbit mirror useless silk despair seat rural arm";
+var mnemonic = "release bleak field hammer theme wasp air decline ecology earn goddess distance";

@@ -1,1 +1,1 @@
-var mnemonic = "course august loop chair meadow crumble predict velvet afraid unique stem resist";
+var mnemonic = "virus angle gossip trim ring observe collect endless near young tool arctic";

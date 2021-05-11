@@ -1,1 +1,1 @@
-var mnemonic = "climb rescue test jazz ritual radio mean walnut three artefact busy plastic";
+var mnemonic = "task tool click woman glare faint illegal nerve rally deputy aisle discover";

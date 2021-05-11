@@ -1,1 +1,1 @@
-var mnemonic = "juice remain plunge enact wrong strong result bicycle shrimp crop spring whip";
+var mnemonic = "around ocean hen sentence disagree sell turtle patient access coil deputy still";

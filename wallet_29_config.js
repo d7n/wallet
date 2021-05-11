@@ -1,1 +1,1 @@
-var mnemonic = "female any monkey utility junk wheat abuse invest fatal language disagree else";
+var mnemonic = "horse vintage bone claim turtle leg steak cushion all decade fun address";

@@ -1,1 +1,1 @@
-var mnemonic = "lava series west talent indicate merry giggle inmate bless decade convince vast";
+var mnemonic = "rebel elite eyebrow goose select road convince celery pave mountain pony cross";

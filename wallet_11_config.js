@@ -1,1 +1,1 @@
-var mnemonic = "nut sign excuse away drum off reject bunker cloth essence try web";
+var mnemonic = "year snake dilemma shock crisp talk meadow change ripple slim bonus eight";

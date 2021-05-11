@@ -1,1 +1,1 @@
-var mnemonic = "cluster average essay hammer climb muscle trap sentence profit kingdom grunt pigeon";
+var mnemonic = "mango prefer train color wagon gentle timber abandon search fee have donate";

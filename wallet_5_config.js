@@ -1,1 +1,1 @@
-var mnemonic = "suspect collect observe abuse kite undo divert toe hurry extra develop fish";
+var mnemonic = "lyrics guess orange cherry swap city resource south enable ill wrap phone";

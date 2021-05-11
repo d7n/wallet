@@ -1,1 +1,1 @@
-var mnemonic = "spray main scissors age document diagram school spin congress actress reform cabbage";
+var mnemonic = "venture size test snow hand blood tobacco reform flock car inmate demand";

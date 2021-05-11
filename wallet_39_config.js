@@ -1,1 +1,1 @@
-var mnemonic = "team choice cliff own sign gadget will liquid next action captain beauty";
+var mnemonic = "right middle tray soul street excess fury bitter height again uncle buffalo";

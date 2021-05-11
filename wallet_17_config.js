@@ -1,1 +1,1 @@
-var mnemonic = "mystery achieve sting update wrong spice toast lounge fury rich limb express";
+var mnemonic = "puzzle hire mix garden guitar disagree unlock scrub merit behave impulse often";

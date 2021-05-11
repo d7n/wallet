@@ -1,1 +1,1 @@
-var mnemonic = "laugh early moment timber gap armed black burden axis inflict bird caught";
+var mnemonic = "dad narrow rose magic fall child misery battle nominee soon picnic plunge";

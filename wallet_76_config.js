@@ -1,1 +1,1 @@
-var mnemonic = "indicate steak inspire coil lizard choose lesson warm rapid width festival kid";
+var mnemonic = "enlist hollow lab invest wash suggest action this match portion say tail";

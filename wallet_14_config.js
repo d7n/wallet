@@ -1,1 +1,1 @@
-var mnemonic = "dance bulb dizzy sting prefer merry arrange poem cool illegal athlete renew";
+var mnemonic = "include humor rack sister blade there gather rice debris coach better kitten";

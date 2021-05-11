@@ -1,1 +1,1 @@
-var mnemonic = "patient narrow disagree lumber vivid position avocado spirit brisk habit decide captain";
+var mnemonic = "glue fork horror nasty upper wise goddess chat lady pigeon coil behind";

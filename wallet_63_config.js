@@ -1,1 +1,1 @@
-var mnemonic = "carbon foot pistol luggage cross cattle tape kite number sick kingdom tip";
+var mnemonic = "actress sight slender three mixed check area staff essence shock update grab";

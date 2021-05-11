@@ -1,1 +1,1 @@
-var mnemonic = "idle gym orphan tortoise shove attack save admit pluck fork dragon buddy";
+var mnemonic = "become feel confirm dice runway remain grunt waste snack reveal copy code";

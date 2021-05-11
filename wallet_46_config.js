@@ -1,1 +1,1 @@
-var mnemonic = "youth edge pepper machine cat orbit frequent stone category chimney easily dream";
+var mnemonic = "icon athlete sustain mushroom main tomato enact swallow depend start slim screen";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon range ill stand shy again smooth laptop sphere original wheat stove";
+var mnemonic = "notice round matrix object dawn catch math shift lunch begin today snow";

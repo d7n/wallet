@@ -1,1 +1,1 @@
-var mnemonic = "meat glue expand dinosaur decorate fog accident interest senior olympic vapor cat";
+var mnemonic = "peanut plastic meadow wonder peace pink finish fame outer humor sample snake";

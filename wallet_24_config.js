@@ -1,1 +1,1 @@
-var mnemonic = "tunnel twist inch word bench disagree vocal habit fork siege bridge reflect";
+var mnemonic = "shed knife climb circle various grief people dignity oblige pattern great intact";

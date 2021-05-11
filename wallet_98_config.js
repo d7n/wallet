@@ -1,1 +1,1 @@
-var mnemonic = "news bullet visual energy finger imitate orchard gasp fat prepare trip license";
+var mnemonic = "rate sleep cute pencil square square wonder upgrade direct tent grit innocent";

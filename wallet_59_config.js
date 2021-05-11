@@ -1,1 +1,1 @@
-var mnemonic = "exclude forum grid wide actress bitter purchase library cram gentle sad bargain";
+var mnemonic = "miss cook arena shoulder tornado grab knife twice artist demand level must";

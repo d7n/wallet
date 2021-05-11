@@ -1,1 +1,1 @@
-var mnemonic = "nice cause pudding extra addict goat palm fun ancient hello used gap";
+var mnemonic = "patrol liar core dream lawn social dream valve buzz ugly check silly";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage trim electric protect resemble injury witness victory exact proof essence figure";
+var mnemonic = "depend bless squeeze forget stomach tag fragile blur setup lend trash couple";

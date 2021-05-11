@@ -1,1 +1,1 @@
-var mnemonic = "misery gloom travel party remember affair grace much essence patient dish pole";
+var mnemonic = "salmon pudding banner giggle torch voyage salute swallow film session inherit special";

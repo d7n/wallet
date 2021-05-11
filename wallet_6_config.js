@@ -1,1 +1,1 @@
-var mnemonic = "matter hospital fold hen media glimpse horn lawsuit usage hub style behind";
+var mnemonic = "feature orange track curtain giraffe ranch morning depend label buzz borrow version";

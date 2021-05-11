@@ -1,1 +1,1 @@
-var mnemonic = "model anchor young toward volcano uphold hotel scrap future town scatter gain";
+var mnemonic = "kit face vintage merit core try planet nasty neutral fix ramp ladder";

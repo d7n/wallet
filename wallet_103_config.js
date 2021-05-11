@@ -1,1 +1,1 @@
-var mnemonic = "drop frown evil discover silver orange immune illness example gain quick cancel";
+var mnemonic = "outdoor chief head avocado exact oxygen apart frog reunion battle rapid series";

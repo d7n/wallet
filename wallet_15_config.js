@@ -1,1 +1,1 @@
-var mnemonic = "surface use stamp zoo stick put response unique resemble venture train sauce";
+var mnemonic = "hurdle december friend scrap spring between cricket glove local soda piano keep";

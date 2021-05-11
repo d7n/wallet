@@ -1,1 +1,1 @@
-var mnemonic = "various eager crucial limb meat type jar curtain issue pulse chef carpet";
+var mnemonic = "fury absent weather canyon moment extend usage cliff repeat stuff omit dog";

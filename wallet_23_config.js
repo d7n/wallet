@@ -1,1 +1,1 @@
-var mnemonic = "earth appear fade toilet during inspire pelican stand hazard injury dance purchase";
+var mnemonic = "cloud flip rain enforce never useful tomorrow baby describe neither deliver weird";

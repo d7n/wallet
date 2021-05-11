@@ -1,1 +1,1 @@
-var mnemonic = "vocal elegant evoke wolf patrol avocado clap admit grid dinosaur one switch";
+var mnemonic = "total apple roast trophy garbage gadget state economy name vehicle reason neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "rug reduce trick fix tent shy account satisfy bracket dice slogan response";
+var mnemonic = "fancy girl theme ice coil excess physical tackle abuse steel hidden nose";

@@ -1,1 +1,1 @@
-var mnemonic = "situate inner sudden fault answer marriage lonely transfer nominee spike abandon public";
+var mnemonic = "snap rubber hint close task fortune erosion illness shed buzz wing minimum";

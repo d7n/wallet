@@ -1,1 +1,1 @@
-var mnemonic = "negative sword expose balcony drum since used broken meat risk review lucky";
+var mnemonic = "vacuum okay pet loyal turkey truck firm east basic bar have coil";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss sweet message teach cluster bomb flower quantum fortune toward fresh human";
+var mnemonic = "drop fiscal obscure green length mystery crouch inmate clutch slogan humble clown";

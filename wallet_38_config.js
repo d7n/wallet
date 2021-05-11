@@ -1,1 +1,1 @@
-var mnemonic = "fresh rescue rare lottery innocent unable wrestle addict blur rose distance sweet";
+var mnemonic = "tide food tower arch inner wool vacant leaf save museum glue wife";

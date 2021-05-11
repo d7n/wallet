@@ -1,1 +1,1 @@
-var mnemonic = "choice alpha plug sunny shuffle health bronze orbit ahead ranch bronze census";
+var mnemonic = "nephew turkey edit slab wrong just wish convince gun switch absurd key";

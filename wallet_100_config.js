@@ -1,1 +1,1 @@
-var mnemonic = "pen twelve march drastic cash forest goose adult chase infant document immense";
+var mnemonic = "unfair upgrade catch oven symbol pair record number antenna skull tray bomb";

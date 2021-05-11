@@ -1,1 +1,1 @@
-var mnemonic = "copper west false they observe leaf attract rib economy salad rent midnight";
+var mnemonic = "gauge arm because tornado above brisk off ten excuse valid car pledge";

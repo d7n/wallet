@@ -1,1 +1,1 @@
-var mnemonic = "short frozen forest auction summer only inflict loan cash bracket consider team";
+var mnemonic = "bus now hamster open crisp steel afford skin crumble shoulder wonder leave";

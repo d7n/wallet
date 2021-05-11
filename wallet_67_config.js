@@ -1,1 +1,1 @@
-var mnemonic = "scare organ erupt prefer chase occur legend immune cube genuine cherry candy";
+var mnemonic = "dune master word mystery reveal type canyon gold swap curve glove cargo";

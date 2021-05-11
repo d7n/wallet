@@ -1,1 +1,1 @@
-var mnemonic = "truth amazing view assault potato salute game midnight oxygen keen master town";
+var mnemonic = "beauty vintage release wrong neither tortoise vocal ceiling slogan library month side";

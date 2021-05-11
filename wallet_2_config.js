@@ -1,1 +1,1 @@
-var mnemonic = "visa palace random company index submit gossip bird push view wasp recall";
+var mnemonic = "sure same crime utility garlic muscle fog elite sail fox joke melt";

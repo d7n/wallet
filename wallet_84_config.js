@@ -1,1 +1,1 @@
-var mnemonic = "use pride hunt catch sing sure pilot festival zoo fly truck drop";
+var mnemonic = "level wood warm payment document stay wink tackle engage fit kidney type";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover sniff fabric toward dream hard uncle helmet tribe quiz mixture flame";
+var mnemonic = "midnight tank infant orange salute horn riot delay capable uncover bag swallow";

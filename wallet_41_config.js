@@ -1,1 +1,1 @@
-var mnemonic = "option panda anger absorb team chronic eight design wide uncover name tuition";
+var mnemonic = "impact venture powder cook myth despair gospel rich expose announce tray fantasy";

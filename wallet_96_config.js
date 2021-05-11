@@ -1,1 +1,1 @@
-var mnemonic = "cash dress cushion friend race harbor hockey dream drive unique picture digital";
+var mnemonic = "decade unknown inhale indicate flame business any whip believe crisp regret regular";

@@ -1,1 +1,1 @@
-var mnemonic = "soul emerge pottery reveal sample soldier whale machine angle glow aspect peace";
+var mnemonic = "spot gravity property recycle clip pudding romance borrow fabric post moral vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "easy response source ritual occur bonus sad amount cash degree capable similar";
+var mnemonic = "away usage regret mimic noble erode arm elite banner rifle exhibit inside";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf wood boil vacant arrest train assault attack draw abuse magnet limit";
+var mnemonic = "final various nothing virtual image weapon kiss enforce embark jeans beach tuna";

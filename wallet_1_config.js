@@ -1,1 +1,1 @@
-var mnemonic = "smoke market meat mom medal swamp clock clean strike sign orphan fence";
+var mnemonic = "pilot govern term rebuild kite major rain bird expire scheme faculty print";

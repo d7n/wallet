@@ -1,1 +1,1 @@
-var mnemonic = "art peasant tuition hotel chair security actual onion alone inside basket zero";
+var mnemonic = "dolphin quote nominee also olympic behave vault drip initial salad trap erode";

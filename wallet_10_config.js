@@ -1,1 +1,1 @@
-var mnemonic = "nest width mask erase canoe fatigue token expose immune alpha delay cargo";
+var mnemonic = "frog reason chief senior guide engine combine virtual museum oil news tonight";

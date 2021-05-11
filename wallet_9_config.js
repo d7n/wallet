@@ -1,1 +1,1 @@
-var mnemonic = "benefit snap memory mushroom network define rack damp uncover argue casino ordinary";
+var mnemonic = "release mammal raw crime clock attract carpet review grass better ribbon original";

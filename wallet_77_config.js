@@ -1,1 +1,1 @@
-var mnemonic = "glide culture vendor gorilla angle venue various secret acoustic clarify panel sense";
+var mnemonic = "jar royal bridge render attract mix ecology inflict leopard satisfy palm local";

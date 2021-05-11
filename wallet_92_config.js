@@ -1,1 +1,1 @@
-var mnemonic = "cousin boost reduce nasty tattoo cruise spoil claw one about lonely person";
+var mnemonic = "spell step slight horn pill tourist brief scatter cabin female nose left";

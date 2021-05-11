@@ -1,1 +1,1 @@
-var mnemonic = "immense transfer buyer label fortune puzzle plastic ethics glance analyst elephant arch";
+var mnemonic = "gift twelve swamp still brief human vast talent shallow liquid enroll trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "forward slush hint plastic vocal brother holiday hazard aim avoid cram wood";
+var mnemonic = "giraffe quote puzzle lunar cycle teach photo butter fragile thing second prevent";

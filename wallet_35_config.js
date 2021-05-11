@@ -1,1 +1,1 @@
-var mnemonic = "insect credit stay toss hidden rice update right clerk magnet fire resemble";
+var mnemonic = "hip prize pony point note what legal jungle emotion rabbit initial power";

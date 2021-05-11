@@ -1,1 +1,1 @@
-var mnemonic = "fan ozone pull swamp purse holiday child cherry stairs plunge payment jazz";
+var mnemonic = "enjoy duck win rate proof beach rich pigeon job outside chronic seminar";

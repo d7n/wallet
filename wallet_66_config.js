@@ -1,1 +1,1 @@
-var mnemonic = "autumn wave entry hood tree hurt harsh sell diary blush swim mountain";
+var mnemonic = "social over solution device credit keen host bench later ginger blouse expand";

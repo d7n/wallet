@@ -1,1 +1,1 @@
-var mnemonic = "velvet radar pool best notable tunnel evil sugar toss squirrel eye mechanic";
+var mnemonic = "square review cable portion swamp brass fox document enter able doll harvest";

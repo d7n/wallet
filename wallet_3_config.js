@@ -1,1 +1,1 @@
-var mnemonic = "wish artefact sibling vote all adapt curve jeans faculty because leg slow";
+var mnemonic = "add oval mouse like circle obtain angle butter health lizard chest shed";

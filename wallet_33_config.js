@@ -1,1 +1,1 @@
-var mnemonic = "small fish before between toss ask pull hurdle ribbon faith erode beyond";
+var mnemonic = "disagree fire develop element turn bottom curve ready true assume endless someone";

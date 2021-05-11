@@ -1,1 +1,1 @@
-var mnemonic = "echo label hub thank obtain mammal mix oven physical chimney slush script";
+var mnemonic = "spend walk glory jeans ghost illegal roast unit orange grab liar vendor";

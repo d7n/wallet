@@ -1,1 +1,1 @@
-var mnemonic = "subway cloth dynamic vanish afford fringe casino garlic menu injury flip donkey";
+var mnemonic = "satoshi initial hidden unaware patch size permit furnace curtain art urban tongue";

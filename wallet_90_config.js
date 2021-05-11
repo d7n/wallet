@@ -1,1 +1,1 @@
-var mnemonic = "example defense half noise slender able satisfy coral hazard unknown capital link";
+var mnemonic = "obscure noodle toast execute forum satoshi rice odor conduct bar scout belt";

@@ -1,1 +1,1 @@
-var mnemonic = "secret fix current shove ecology thing into defy humble inquiry erase maze";
+var mnemonic = "gorilla mixture enhance illness knife immune oxygen come course dawn random tell";

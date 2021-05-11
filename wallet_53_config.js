@@ -1,1 +1,1 @@
-var mnemonic = "bag love table attack wash easily glimpse giant tumble pupil exchange title";
+var mnemonic = "lonely glue limit sun damp detect zone labor allow creek engage between";

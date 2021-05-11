@@ -1,1 +1,1 @@
-var mnemonic = "cash melt rich oak exchange point found supply foster vehicle explain assume";
+var mnemonic = "attitude month lawsuit only muscle middle just desert science search cloud ahead";

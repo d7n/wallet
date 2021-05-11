@@ -1,1 +1,1 @@
-var mnemonic = "push weekend gauge small suggest anchor true ranch update grant between suggest";
+var mnemonic = "divorce accuse trick carbon usage close clerk flat daughter saddle inhale around";

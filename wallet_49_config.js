@@ -1,1 +1,1 @@
-var mnemonic = "help chalk museum tiger flower castle broken tag lady cry general anchor";
+var mnemonic = "taste orbit rescue much raw fever tuition receive exhaust useful half burst";

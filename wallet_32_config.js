@@ -1,1 +1,1 @@
-var mnemonic = "ancient typical success diamond shadow annual little south voice remain embark utility";
+var mnemonic = "room street midnight luggage fault input immune daughter jeans panther empty hazard";

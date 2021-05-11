@@ -1,1 +1,1 @@
-var mnemonic = "result dial swing vault stuff amount trigger magnet elegant depth essence stove";
+var mnemonic = "junior indicate horn carry crash tomorrow verify version gorilla captain nation witness";

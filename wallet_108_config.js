@@ -1,1 +1,1 @@
-var mnemonic = "aspect transfer want bone betray torch series attract rubber coconut burst decorate";
+var mnemonic = "excess spatial sustain basket scorpion slow mail opera kite title neglect pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "junk broken betray visit review plastic menu pulp rapid inside degree right";
+var mnemonic = "suspect build accuse august present retreat hotel box illegal neutral nose mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "fly stairs crawl coach robust man opinion bomb spoon become image file";
+var mnemonic = "find shop father two engage shed endless invest vast emerge follow timber";

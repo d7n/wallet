@@ -1,1 +1,1 @@
-var mnemonic = "stamp grain pencil syrup hover spice field again problem mad burger various";
+var mnemonic = "adjust rule bone erosion coach arrange reason spy wagon hope submit peanut";

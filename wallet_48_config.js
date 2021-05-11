@@ -1,1 +1,1 @@
-var mnemonic = "gasp please zoo shove seek witness lift habit traffic genuine taste come";
+var mnemonic = "sunset inform someone lunar immune tent domain nephew sustain media vocal fun";

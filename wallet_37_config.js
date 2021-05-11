@@ -1,1 +1,1 @@
-var mnemonic = "dial effort level museum exit swallow tiny olympic absurd tornado olympic tobacco";
+var mnemonic = "very admit zone coin above trigger major bronze quote elite wait vapor";

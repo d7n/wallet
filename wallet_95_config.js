@@ -1,1 +1,1 @@
-var mnemonic = "right ten alcohol burst abandon zoo icon latin another advice gain sunset";
+var mnemonic = "mushroom bridge peanut dolphin farm turkey arm story gauge fun sell sauce";

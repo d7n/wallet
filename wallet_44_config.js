@@ -1,1 +1,1 @@
-var mnemonic = "tray tag parrot melody board fiscal crucial situate scale satisfy exotic marble";
+var mnemonic = "mind sugar curve open dutch fury mountain dune brass decorate among seat";

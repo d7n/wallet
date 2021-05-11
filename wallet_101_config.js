@@ -1,1 +1,1 @@
-var mnemonic = "setup mansion luggage breeze cherry depth borrow light disease elite memory prefer";
+var mnemonic = "guard split dial tobacco melody steak skill daring make you path cake";
