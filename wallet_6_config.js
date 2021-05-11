@@ -1,1 +1,1 @@
-var mnemonic = "orphan client window exclude report surface gift girl carpet pluck record ginger";
+var mnemonic = "provide acquire rich foot cereal dinner service cube high bullet thrive sea";

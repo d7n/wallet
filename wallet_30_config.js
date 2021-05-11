@@ -1,1 +1,1 @@
-var mnemonic = "shadow web say sphere man unfold head bind hundred around hunt turtle";
+var mnemonic = "remove only fall oven liquid pizza wisdom pipe emerge cement enlist spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "forum hire almost affair scale toward ill excuse upper eagle smooth visa";
+var mnemonic = "dove vocal hawk rebel face arrow energy polar rebuild session scatter brown";

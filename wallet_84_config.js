@@ -1,1 +1,1 @@
-var mnemonic = "dismiss use patient sense route act crew crush chaos report hat guitar";
+var mnemonic = "portion mammal main toast affair bounce master public attack there pyramid similar";

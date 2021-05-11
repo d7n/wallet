@@ -1,1 +1,1 @@
-var mnemonic = "nerve summer soap scrub peanut make coast dawn throw dignity demand mandate";
+var mnemonic = "day bargain repeat office police glove kick pole say fiction jacket pen";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock cross cluster harbor often double convince process endless worry warfare hour";
+var mnemonic = "panda vendor menu resist message intact leader hurt dinner vapor umbrella use";

@@ -1,1 +1,1 @@
-var mnemonic = "type output six amazing finish magic high solar appear staff mushroom sing";
+var mnemonic = "people large list rookie clarify tuna dynamic fan finger skin interest blanket";

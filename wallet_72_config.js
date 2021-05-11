@@ -1,1 +1,1 @@
-var mnemonic = "lift electric slogan because wrong equip merit distance thing uphold detect garage";
+var mnemonic = "corn prepare detect basket cry ankle memory combine elevator claim talk boss";

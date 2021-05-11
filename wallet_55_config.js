@@ -1,1 +1,1 @@
-var mnemonic = "slab loyal front apart rifle enough impose flock cargo consider cradle toast";
+var mnemonic = "artwork loan tide win trophy slim friend dash throw saddle tone gain";

@@ -1,1 +1,1 @@
-var mnemonic = "only side midnight thrive cable steel parent onion fantasy cheap airport term";
+var mnemonic = "faith year raccoon elite fault glare merit ripple genius cattle moon proud";

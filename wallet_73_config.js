@@ -1,1 +1,1 @@
-var mnemonic = "cram warm muscle chicken bullet inside hybrid giant state ordinary frame joke";
+var mnemonic = "escape waste just blame real slight wisdom robust scatter shed onion modify";

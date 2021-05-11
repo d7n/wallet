@@ -1,1 +1,1 @@
-var mnemonic = "wait damage rival upset rabbit sting pony world belt chicken describe dwarf";
+var mnemonic = "destroy shoe truth elephant lyrics song cash arrive frozen zoo gown file";

@@ -1,1 +1,1 @@
-var mnemonic = "media couple crew mesh hobby beef silent hunt couch jar depart burger";
+var mnemonic = "spice winner vacant follow home pledge dice cream party anchor sword bird";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive jaguar guilt country admit embrace bind glow shock bus afraid blood";
+var mnemonic = "measure comic sorry struggle cluster snack distance cube spice desk provide dizzy";

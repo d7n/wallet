@@ -1,1 +1,1 @@
-var mnemonic = "move position language wave hungry can history medal right amused name lobster";
+var mnemonic = "morning mouse essence narrow turkey trade open again blame race march response";

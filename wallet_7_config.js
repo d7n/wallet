@@ -1,1 +1,1 @@
-var mnemonic = "wine voyage busy coffee thrive cinnamon camp endorse clay print nerve find";
+var mnemonic = "circle ride sense amateur shine pill vacant emerge enroll tobacco school brick";

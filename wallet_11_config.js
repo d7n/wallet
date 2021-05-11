@@ -1,1 +1,1 @@
-var mnemonic = "leopard lonely credit rib hollow nation icon this hood blood siren solve";
+var mnemonic = "fatigue knock hotel swarm abuse silver ask card sense walk camp catalog";

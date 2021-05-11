@@ -1,1 +1,1 @@
-var mnemonic = "wheel home canvas caught dutch couple rebel dose thank mask begin explain";
+var mnemonic = "pyramid junior frozen matter parent empower team exchange talent civil behind nation";

@@ -1,1 +1,1 @@
-var mnemonic = "scale spatial want finish dynamic pill siren nut spare zero shuffle bomb";
+var mnemonic = "member fire alcohol goddess measure penalty desk aerobic simple square one obtain";

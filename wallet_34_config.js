@@ -1,1 +1,1 @@
-var mnemonic = "undo north image among bulk make similar limb choice eye note office";
+var mnemonic = "cargo circle exhibit day profit current basket margin today print engage swap";

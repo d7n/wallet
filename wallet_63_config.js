@@ -1,1 +1,1 @@
-var mnemonic = "admit toe ship nest heart bonus issue special denial eager purchase draft";
+var mnemonic = "fire actor enter escape pitch episode endorse tuna duty return oblige example";

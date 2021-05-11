@@ -1,1 +1,1 @@
-var mnemonic = "kitten increase farm window enable strategy relief office foil ethics debate penalty";
+var mnemonic = "erupt devote profit grunt attend jump bring brain empty purchase sniff oak";

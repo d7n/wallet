@@ -1,1 +1,1 @@
-var mnemonic = "east hire try holiday nerve ridge shy seat used ostrich level carpet";
+var mnemonic = "invest kingdom grape physical uphold zebra town pulse snap course laptop innocent";

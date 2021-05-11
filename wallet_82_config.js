@@ -1,1 +1,1 @@
-var mnemonic = "answer yellow protect movie occur pistol trick thank joke jaguar attack possible";
+var mnemonic = "input author diary coconut figure scheme switch woman pulp bind advice veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist color click brush gesture awesome plug rain high neglect device umbrella";
+var mnemonic = "property cake error empty someone fog lawn oven foil great urge humble";

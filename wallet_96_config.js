@@ -1,1 +1,1 @@
-var mnemonic = "skin crop proud grass dad oxygen response pluck drink wear chuckle apology";
+var mnemonic = "gym general return catch deer apart wonder scare prize garlic clean retreat";

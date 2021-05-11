@@ -1,1 +1,1 @@
-var mnemonic = "process town run key skull bid purpose napkin only cruise curious blame";
+var mnemonic = "vocal whip cake sunny essay song ill dentist west forum put powder";

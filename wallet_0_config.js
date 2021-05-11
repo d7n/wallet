@@ -1,1 +1,1 @@
-var mnemonic = "copy reopen save crawl liberty zebra have pink blossom strategy garbage gauge";
+var mnemonic = "mesh shed total between debris found worry skull core vital symbol surge";

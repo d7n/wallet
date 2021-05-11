@@ -1,1 +1,1 @@
-var mnemonic = "holiday tribe capital frame winter stone jaguar kit assault swift erase bunker";
+var mnemonic = "rapid drift fitness unfair smile sphere grab shallow kitchen assume exhaust farm";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity beach vibrant load gossip bar ball boat planet survey index slice";
+var mnemonic = "dice portion forest become adult blossom meadow soda economy ability prepare taste";

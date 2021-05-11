@@ -1,1 +1,1 @@
-var mnemonic = "virus phrase cabbage fatal hint ketchup antique lizard salute royal ranch puppy";
+var mnemonic = "primary ugly release enhance trouble slam plastic middle clip scissors electric aerobic";

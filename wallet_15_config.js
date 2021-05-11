@@ -1,1 +1,1 @@
-var mnemonic = "wise habit category jelly fat waste cube chief west joke home proud";
+var mnemonic = "joy license hen clerk chef fragile cruel gather service bulb lucky sniff";

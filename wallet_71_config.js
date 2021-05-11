@@ -1,1 +1,1 @@
-var mnemonic = "useful enact genuine mammal cattle relax sunny city switch clump jar party";
+var mnemonic = "mutual nuclear opera struggle decrease crawl extra neck discover garlic turtle hour";

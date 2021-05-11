@@ -1,1 +1,1 @@
-var mnemonic = "sphere hint hungry exchange drift tower aisle blame picnic army bomb destroy";
+var mnemonic = "repeat wheel fit organ bunker absorb fine then theory under pottery myth";

@@ -1,1 +1,1 @@
-var mnemonic = "equip warfare boy merit adapt suffer volcano silver wool stand run clown";
+var mnemonic = "actual ready torch innocent repeat fitness level attitude decrease hub welcome quantum";

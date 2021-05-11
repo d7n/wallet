@@ -1,1 +1,1 @@
-var mnemonic = "want near pumpkin goddess popular evolve pride indicate slush host tilt market";
+var mnemonic = "evolve pause hockey sheriff garden power trade speed seat wonder salt eye";

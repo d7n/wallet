@@ -1,1 +1,1 @@
-var mnemonic = "angle subject sponsor hawk pencil hint plug sentence life venture submit game";
+var mnemonic = "six wall rather huge dizzy catch age raven add latin badge funny";

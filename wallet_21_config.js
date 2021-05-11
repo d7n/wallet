@@ -1,1 +1,1 @@
-var mnemonic = "empty oval firm wagon deer boss engine verify unhappy tool link chief";
+var mnemonic = "choose wait caution possible truth soul ten garbage churn remind quit merit";

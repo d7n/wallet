@@ -1,1 +1,1 @@
-var mnemonic = "clarify news unable inside short another proud winner purity mix alcohol wonder";
+var mnemonic = "winter dove bag bubble sadness omit feed girl unit hotel length slight";

@@ -1,1 +1,1 @@
-var mnemonic = "gap budget grant broken worry tobacco master antique pilot flock mistake review";
+var mnemonic = "artwork sibling cream truly purse case actor love film relax lonely sport";

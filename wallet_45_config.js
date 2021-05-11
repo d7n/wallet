@@ -1,1 +1,1 @@
-var mnemonic = "plate false expire decrease stamp moon manage allow used comic onion lesson";
+var mnemonic = "swear village obscure grass arrow solve cigar mad celery expire relief potato";

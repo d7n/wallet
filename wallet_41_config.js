@@ -1,1 +1,1 @@
-var mnemonic = "wall cake fun library alert blouse harvest wheat fit tonight solve average";
+var mnemonic = "mistake differ sunset enforce title danger nurse caution rotate fork satoshi dynamic";

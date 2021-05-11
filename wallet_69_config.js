@@ -1,1 +1,1 @@
-var mnemonic = "exercise humble angle ozone slab couch secret expire enrich brick fan glare";
+var mnemonic = "install gold news trap crazy pepper helmet endless battle glass bleak truck";

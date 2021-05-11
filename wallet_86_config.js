@@ -1,1 +1,1 @@
-var mnemonic = "pioneer soda matrix early total cigar arch distance cinnamon only access rocket";
+var mnemonic = "leader pipe egg anger believe citizen tuna siege note stable length salute";

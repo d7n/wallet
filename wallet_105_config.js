@@ -1,1 +1,1 @@
-var mnemonic = "aspect black style rack release cruise behave invite robust venture tumble ship";
+var mnemonic = "wear desert poverty shrug mirror dove enact guide strong slim stay fluid";

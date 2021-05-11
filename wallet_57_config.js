@@ -1,1 +1,1 @@
-var mnemonic = "predict tennis crouch jewel table picnic when nerve case dish need this";
+var mnemonic = "deposit height race resist all lazy rotate tuition evolve outdoor eager survey";

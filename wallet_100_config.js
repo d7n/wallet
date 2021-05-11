@@ -1,1 +1,1 @@
-var mnemonic = "love scorpion divide safe advice guitar love other unlock reunion stool wrong";
+var mnemonic = "glow damp say ugly slice balcony web toilet recall raw minor orchard";

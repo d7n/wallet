@@ -1,1 +1,1 @@
-var mnemonic = "master solar design artefact mixture stairs shuffle child practice salute soul victory";
+var mnemonic = "claim cigar absurd dirt tuition wood board napkin track lottery wrist point";

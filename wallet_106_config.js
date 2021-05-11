@@ -1,1 +1,1 @@
-var mnemonic = "space museum egg beef nuclear sentence cover zero dash sadness escape lobster";
+var mnemonic = "tomato neutral brand camera magnet range mixture nice coin person crystal cash";

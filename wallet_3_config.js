@@ -1,1 +1,1 @@
-var mnemonic = "dolphin chief oyster address saddle cloth assault tower neglect code repeat shell";
+var mnemonic = "urban border candy mixture used punch essence rare cloth twenty rude shed";

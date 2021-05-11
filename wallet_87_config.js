@@ -1,1 +1,1 @@
-var mnemonic = "minute theory pen just invest label loyal despair element emotion betray under";
+var mnemonic = "slim caution remind cage soccer control dial dust thing hunt analyst minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "possible alert noodle manual craft zebra trust vapor master gesture true song";
+var mnemonic = "industry weapon science vanish know broccoli sign urge wolf school produce father";

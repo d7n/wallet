@@ -1,1 +1,1 @@
-var mnemonic = "receive relief antique east aerobic wine pony drastic unveil innocent swap amateur";
+var mnemonic = "bargain scorpion crew filter ethics exotic ill label piano lava fence rare";

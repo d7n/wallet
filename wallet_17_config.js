@@ -1,1 +1,1 @@
-var mnemonic = "drop adjust fluid laundry found raven cause celery obtain act obvious sun";
+var mnemonic = "silk answer april axis song enter panel item spawn decide artwork chair";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery call resource lonely horn power patient innocent weather gravity grid volume";
+var mnemonic = "churn build bounce wish believe sock gate disease space labor laugh tone";

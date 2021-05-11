@@ -1,1 +1,1 @@
-var mnemonic = "crash mad town blouse quit ethics ostrich unlock play quarter lab husband";
+var mnemonic = "absent culture milk category body question melody wheat list length cruel outer";

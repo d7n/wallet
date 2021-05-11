@@ -1,1 +1,1 @@
-var mnemonic = "lamp network remove spoil leader tide crawl front enforce invest sense cat";
+var mnemonic = "evolve steel dance pistol deny claw wash cover kiwi bless hurdle soup";

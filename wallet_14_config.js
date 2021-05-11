@@ -1,1 +1,1 @@
-var mnemonic = "wheat royal tray enrich prepare winner oxygen online nut velvet real crumble";
+var mnemonic = "sight apology success silly offer piano snap direct velvet gentle deliver virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "thing mix draft skate spare fiction buffalo speak start lucky dune question";
+var mnemonic = "license that disorder flock horse armed execute reason surge olympic asthma achieve";

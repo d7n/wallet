@@ -1,1 +1,1 @@
-var mnemonic = "drip feel twelve crop welcome dash twist strike pumpkin hidden coconut talk";
+var mnemonic = "crystal mosquito village enjoy teach library fever program another parrot bright urban";

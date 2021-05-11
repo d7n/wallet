@@ -1,1 +1,1 @@
-var mnemonic = "alley mystery wonder pilot clinic merge olive top rocket cool liquid nominee";
+var mnemonic = "thumb proof effort large stone type humble second fresh drip gain refuse";

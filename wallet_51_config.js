@@ -1,1 +1,1 @@
-var mnemonic = "dose air pattern exercise multiply obtain gown wrist keen about hold argue";
+var mnemonic = "stuff primary member hurt february toward journey crunch east domain oxygen rival";

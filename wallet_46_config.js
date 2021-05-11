@@ -1,1 +1,1 @@
-var mnemonic = "useful spare tooth mansion already innocent alley century begin garage corn carpet";
+var mnemonic = "indoor steel wide liquid now weird sphere dust buffalo float device cabbage";

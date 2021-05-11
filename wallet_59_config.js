@@ -1,1 +1,1 @@
-var mnemonic = "other wear emerge cute area learn hospital course pave seed split source";
+var mnemonic = "grass glue wide library office rapid hobby three help bleak utility busy";

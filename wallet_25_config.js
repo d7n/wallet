@@ -1,1 +1,1 @@
-var mnemonic = "mechanic join shrimp defy tiger plastic flavor valid hurt another virtual employ";
+var mnemonic = "square dutch maze three begin tennis cabbage maximum wet grab torch hollow";

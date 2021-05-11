@@ -1,1 +1,1 @@
-var mnemonic = "update reject consider night safe ship funny summer fruit pigeon rebel butter";
+var mnemonic = "feel medal ceiling spatial hat heavy crowd soft galaxy way tribe nuclear";

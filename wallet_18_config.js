@@ -1,1 +1,1 @@
-var mnemonic = "prison drift month frown loud judge theme salute science impact exit fan";
+var mnemonic = "display fat toilet vault ostrich broom accuse sun limit vote mix legend";

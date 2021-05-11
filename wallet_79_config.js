@@ -1,1 +1,1 @@
-var mnemonic = "fitness ramp talk month style since common boat orient roof sponsor own";
+var mnemonic = "violin speed country accuse sunset give tiger hair major hybrid fatigue attract";

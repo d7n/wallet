@@ -1,1 +1,1 @@
-var mnemonic = "damp clay pottery medal dose endless trigger auction eagle apart common apple";
+var mnemonic = "dad expose rate often diamond muscle salon correct insane public have warm";

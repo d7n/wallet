@@ -1,1 +1,1 @@
-var mnemonic = "ancient flavor mammal monkey suspect secret hybrid bus episode pair symbol foil";
+var mnemonic = "cat tooth border tragic coast carry save food another edge life ask";

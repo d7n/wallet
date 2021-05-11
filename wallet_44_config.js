@@ -1,1 +1,1 @@
-var mnemonic = "dwarf decorate mutual hold mad clap endorse hover mimic follow hello useful";
+var mnemonic = "column narrow frown foam tide rival renew patient column peanut nothing old";

@@ -1,1 +1,1 @@
-var mnemonic = "sense afraid obey agent control fortune trumpet hover help pretty home rough";
+var mnemonic = "age robust cluster blame debate buddy beef anger reason rent copper garlic";

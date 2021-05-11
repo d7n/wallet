@@ -1,1 +1,1 @@
-var mnemonic = "rubber gospel fault trial coffee stereo cheap clock claim isolate museum cloth";
+var mnemonic = "belt word share miracle task into deer winter trial venue window list";

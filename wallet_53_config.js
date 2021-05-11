@@ -1,1 +1,1 @@
-var mnemonic = "more library supply climb post rigid vintage mansion output eye phone good";
+var mnemonic = "mom lounge pattern kit athlete people hold tomato antique fade defy coffee";

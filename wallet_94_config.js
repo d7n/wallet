@@ -1,1 +1,1 @@
-var mnemonic = "fee pole popular chat tissue pink before word limit genius radar settle";
+var mnemonic = "coach canyon wealth very exchange chronic sniff dress foster source danger twist";

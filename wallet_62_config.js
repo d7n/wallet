@@ -1,1 +1,1 @@
-var mnemonic = "glass chronic decline ball expand suggest diet long dumb sad giraffe hour";
+var mnemonic = "blur exile survey joy maid protect mother axis cannon sample sheriff flat";

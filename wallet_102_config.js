@@ -1,1 +1,1 @@
-var mnemonic = "forest come nerve miss town amazing employ always gallery purse seven frame";
+var mnemonic = "camera allow express jacket battle quantum ribbon ladder umbrella shy emotion celery";

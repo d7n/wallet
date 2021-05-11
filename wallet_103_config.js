@@ -1,1 +1,1 @@
-var mnemonic = "grunt pitch demise alpha promote broom void sound wisdom deny trigger orchard";
+var mnemonic = "happy avoid foil broom advice snack begin age inflict sweet knee pig";

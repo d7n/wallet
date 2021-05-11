@@ -1,1 +1,1 @@
-var mnemonic = "viable evil blur bar clog void novel long ice puzzle zone patient";
+var mnemonic = "tomato trim avocado chronic true pyramid minimum glow blanket cushion dice mesh";

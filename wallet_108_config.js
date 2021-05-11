@@ -1,1 +1,1 @@
-var mnemonic = "gadget range budget have box solar embody razor above crop hub divide";
+var mnemonic = "sign shed text three novel december idle joke sphere fuel offer vessel";

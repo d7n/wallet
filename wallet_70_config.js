@@ -1,1 +1,1 @@
-var mnemonic = "twin gasp wrist sand since cinnamon borrow manage genius giggle maze remember";
+var mnemonic = "priority toss friend public key lamp green gate limit actor early brick";

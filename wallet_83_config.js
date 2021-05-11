@@ -1,1 +1,1 @@
-var mnemonic = "audit orchard carry book piece snake any grow hard close snake claw";
+var mnemonic = "this polar lend combine slender sea pilot mutual amount confirm display quit";

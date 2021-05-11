@@ -1,1 +1,1 @@
-var mnemonic = "fold vast supply shuffle theory nothing brush minute twist company teach diamond";
+var mnemonic = "exit skull asset empower project property awful priority inch auto pulse fan";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow elder series render country topple taxi exercise era invite wall cool";
+var mnemonic = "cradle broccoli boil scrub siege thought method nuclear dinner air inside sketch";

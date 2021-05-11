@@ -1,1 +1,1 @@
-var mnemonic = "artwork umbrella empty best antenna increase pride talk very armed wage attract";
+var mnemonic = "wish merge reject measure inflict happy enforce hungry allow gravity rude appear";

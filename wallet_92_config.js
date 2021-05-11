@@ -1,1 +1,1 @@
-var mnemonic = "daughter road hamster dumb hawk goose network update rare potato cheap morning";
+var mnemonic = "oxygen fitness squeeze spider flee shrug march limb glass circle castle menu";

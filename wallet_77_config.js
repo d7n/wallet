@@ -1,1 +1,1 @@
-var mnemonic = "flight exchange slot monster soda adjust flash unit hybrid kiwi beauty spy";
+var mnemonic = "track crater priority fan crumble brick vast kit firm rude grit hedgehog";

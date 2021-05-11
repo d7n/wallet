@@ -1,1 +1,1 @@
-var mnemonic = "talk rebel canoe prosper penalty replace click decline crumble update alone battle";
+var mnemonic = "multiply gas offer judge fade math prepare minor sword frequent chaos volume";
