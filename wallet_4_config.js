@@ -1,1 +1,1 @@
-var mnemonic = "brain account silly neglect jeans arena vacant check divorce soccer forget rotate";
+var mnemonic = "sword fringe stone crowd immune ill famous broccoli assault analyst rail jungle";

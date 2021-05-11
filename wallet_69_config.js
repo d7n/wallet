@@ -1,1 +1,1 @@
-var mnemonic = "apology follow more option seed foster address obvious poet verify illness tackle";
+var mnemonic = "venue course fatal cable blade jaguar piano gym april summer rate salt";

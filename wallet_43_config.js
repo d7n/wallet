@@ -1,1 +1,1 @@
-var mnemonic = "oven orange similar update real elbow lamp slot desert pull like life";
+var mnemonic = "rate grass input curve cliff speak danger cause color element vault hurry";

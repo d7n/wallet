@@ -1,1 +1,1 @@
-var mnemonic = "farm filter sponsor wrist title blade fall peace will pistol ordinary have";
+var mnemonic = "topple absent strategy size visual lesson jealous voyage federal scorpion food method";

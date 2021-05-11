@@ -1,1 +1,1 @@
-var mnemonic = "nothing leg piece spend lock stairs myth hub elevator bulb garage job";
+var mnemonic = "argue veteran civil undo isolate much corn avoid final step bacon fragile";

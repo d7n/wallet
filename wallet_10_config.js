@@ -1,1 +1,1 @@
-var mnemonic = "balance inject suit upon food van solve snap position tiger cactus tank";
+var mnemonic = "trick beef nurse coin transfer dawn happy enemy way grow inflict donor";

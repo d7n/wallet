@@ -1,1 +1,1 @@
-var mnemonic = "hand elegant clap print all tomorrow pottery negative want ability angle speed";
+var mnemonic = "solar explain print trade need melt borrow lawsuit green daring powder rain";

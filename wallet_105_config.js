@@ -1,1 +1,1 @@
-var mnemonic = "health equal march obscure cave add sheriff flag identify bridge horn manage";
+var mnemonic = "umbrella device toss argue cloud dog siege pencil add blouse engine click";

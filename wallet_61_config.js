@@ -1,1 +1,1 @@
-var mnemonic = "witness detail shadow buzz armor fury mail place melody distance club student";
+var mnemonic = "turn below laundry nice jaguar lecture crush keep east bar sorry baby";

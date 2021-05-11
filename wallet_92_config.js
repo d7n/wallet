@@ -1,1 +1,1 @@
-var mnemonic = "laundry dinosaur novel chair obscure govern fringe glass photo head helmet describe";
+var mnemonic = "sauce jacket liar coin river usual split valve wolf link steak awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper grant bundle payment gym cup then weekend buffalo near turn column";
+var mnemonic = "velvet super increase tell prefer clever unfold glad process question pencil next";

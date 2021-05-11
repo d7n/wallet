@@ -1,1 +1,1 @@
-var mnemonic = "video pigeon jeans digital share dance craft shine obtain device budget hole";
+var mnemonic = "major gate narrow brief edit rescue regret steel idea over million salt";

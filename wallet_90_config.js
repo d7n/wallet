@@ -1,1 +1,1 @@
-var mnemonic = "cruise hockey egg vivid grant slush shock sail antique illegal bunker nice";
+var mnemonic = "escape random unveil dinosaur heart sing capable exact rare resemble more lift";

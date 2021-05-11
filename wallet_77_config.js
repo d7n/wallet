@@ -1,1 +1,1 @@
-var mnemonic = "secret laugh bench spatial wagon fitness ensure attend sorry police hub slogan";
+var mnemonic = "vendor marble screen energy make nice budget combine napkin rotate fun day";

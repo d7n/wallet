@@ -1,1 +1,1 @@
-var mnemonic = "minimum educate inquiry open chaos drift spend help explain canoe water emerge";
+var mnemonic = "cradle away detail day couch fish circle permit sustain marriage slender hero";

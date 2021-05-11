@@ -1,1 +1,1 @@
-var mnemonic = "very render oval choice ramp team shed bounce pause select skill around";
+var mnemonic = "coast divorce orient cram finger lyrics major bargain switch title cluster debris";

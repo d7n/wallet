@@ -1,1 +1,1 @@
-var mnemonic = "door globe above mask forum club camera trim tool asthma soon trust";
+var mnemonic = "reform spare negative oppose melody world misery execute energy happy indoor universe";

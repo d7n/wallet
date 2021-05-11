@@ -1,1 +1,1 @@
-var mnemonic = "awful fancy town fold someone sting deal space order scorpion snake quiz";
+var mnemonic = "enhance abstract soft orphan liberty govern gloom soda trend industry exhibit message";

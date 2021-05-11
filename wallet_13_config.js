@@ -1,1 +1,1 @@
-var mnemonic = "tortoise half quantum three wage helmet remind fog pass whale eight news";
+var mnemonic = "just solution prize hood actor spirit scissors thunder minute achieve play pause";

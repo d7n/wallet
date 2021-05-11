@@ -1,1 +1,1 @@
-var mnemonic = "timber soon mosquito bright ridge buddy lobster suspect town hedgehog multiply fan";
+var mnemonic = "high corn suspect disorder clarify portion theme concert make bomb step sentence";

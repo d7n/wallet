@@ -1,1 +1,1 @@
-var mnemonic = "venue twist off cradle elbow grief join resemble hundred border derive myth";
+var mnemonic = "unit outside still circle spoil desk alone payment drama asset two spare";

@@ -1,1 +1,1 @@
-var mnemonic = "paper engine outside nature account supply proof unfair category thought smoke kitten";
+var mnemonic = "trip oil birth motor much ivory emerge assume purity shed chimney volcano";

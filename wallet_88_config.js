@@ -1,1 +1,1 @@
-var mnemonic = "type apple neither mosquito range unable topic rack pencil trade twin sheriff";
+var mnemonic = "march theory alien basic nature alarm battle skull master main design orphan";

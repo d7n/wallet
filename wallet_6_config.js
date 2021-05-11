@@ -1,1 +1,1 @@
-var mnemonic = "mad lens rose ramp claw amused solar general rabbit identify update tone";
+var mnemonic = "crouch barrel ball cube ozone such left squirrel sand kitten afford wolf";

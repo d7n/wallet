@@ -1,1 +1,1 @@
-var mnemonic = "either almost opera uncle giant neither rose perfect scan seminar lonely witness";
+var mnemonic = "romance vehicle gasp turtle fix outdoor aim dumb deputy general aspect divide";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor demand invest salt august valve tenant gym young foam put night";
+var mnemonic = "churn episode firm problem liquid ridge cousin swallow hobby fragile topic engine";

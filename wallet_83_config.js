@@ -1,1 +1,1 @@
-var mnemonic = "spoon bundle split kangaroo actual wood priority noodle inquiry draft fault tree";
+var mnemonic = "fork witness border among enhance utility bar relax never govern drastic west";

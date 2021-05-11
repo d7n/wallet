@@ -1,1 +1,1 @@
-var mnemonic = "doctor employ concert sail era degree add fatigue alter draw harvest ready";
+var mnemonic = "safe client demise obey finger quick stone armed blood around fabric sample";

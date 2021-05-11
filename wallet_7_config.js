@@ -1,1 +1,1 @@
-var mnemonic = "equal uniform key point spike receive lyrics garage charge worth ten around";
+var mnemonic = "year burger foil auction claw battle dry still leader despair couple cat";

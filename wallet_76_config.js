@@ -1,1 +1,1 @@
-var mnemonic = "pelican include fiscal detect nest script vacant embody accuse room morning mirror";
+var mnemonic = "few quality insane usage salt proof note tilt panel depend clarify law";

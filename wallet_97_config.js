@@ -1,1 +1,1 @@
-var mnemonic = "raven tilt direct mansion easy accuse game squeeze leader knife divert eyebrow";
+var mnemonic = "sibling else taste when awake decade ritual trophy fire donor paper present";

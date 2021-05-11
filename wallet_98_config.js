@@ -1,1 +1,1 @@
-var mnemonic = "elegant glue require slam year cancel duck battle jacket neglect lab room";
+var mnemonic = "patient area always concert guess organ soon neither help early segment region";

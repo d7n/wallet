@@ -1,1 +1,1 @@
-var mnemonic = "bless scatter region grocery manage addict exclude rent eager royal antique surge";
+var mnemonic = "color recall foam weekend warm jeans helmet weekend safe song eight monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "stage pony office bacon hazard bundle second try venture always busy video";
+var mnemonic = "dignity carry stadium brother wood castle inherit diet cup delay gown please";

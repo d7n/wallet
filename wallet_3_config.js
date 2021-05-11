@@ -1,1 +1,1 @@
-var mnemonic = "chief valley enlist hurt cannon one health know cave oblige nose table";
+var mnemonic = "thunder silly donate finish diet oblige deer couch foot laundry finish lock";

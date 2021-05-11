@@ -1,1 +1,1 @@
-var mnemonic = "bonus word wash arctic company vacant convince swap hazard slab truck deposit";
+var mnemonic = "powder love switch melt word athlete pottery pumpkin mesh find orbit trend";

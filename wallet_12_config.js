@@ -1,1 +1,1 @@
-var mnemonic = "furnace slice asthma unfold choose equal total chunk segment add brave scare";
+var mnemonic = "suit mule point cherry laundry quote analyst fossil beyond begin power pond";

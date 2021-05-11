@@ -1,1 +1,1 @@
-var mnemonic = "top glad cover dirt index avoid minor tooth sweet ill hazard buzz";
+var mnemonic = "purchase smoke material elevator material salon trap staff stool door heart axis";

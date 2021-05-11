@@ -1,1 +1,1 @@
-var mnemonic = "put fall evil step satisfy flat rapid game fury guitar shoulder various";
+var mnemonic = "seven piece excess awake vacant quality tone act sheriff special pulp pair";

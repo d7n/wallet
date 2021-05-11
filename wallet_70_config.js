@@ -1,1 +1,1 @@
-var mnemonic = "feed hundred squeeze soon acoustic patient primary survey robust drill glue divide";
+var mnemonic = "reflect move axis base add rent produce city science token tilt roast";

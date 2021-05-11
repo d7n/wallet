@@ -1,1 +1,1 @@
-var mnemonic = "galaxy video steel neck length decade burger blanket fold thank athlete coyote";
+var mnemonic = "brand inherit document keen midnight replace need buzz vast alert eyebrow tone";

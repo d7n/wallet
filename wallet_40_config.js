@@ -1,1 +1,1 @@
-var mnemonic = "draft unlock scare employ monkey promote core carry baby spice vague inside";
+var mnemonic = "cart dragon execute guard brick dilemma purpose old double drive space faith";

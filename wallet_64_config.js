@@ -1,1 +1,1 @@
-var mnemonic = "song feel crack oven spray size habit reflect define enrich before hub";
+var mnemonic = "crane devote memory lazy horn relax taste scrub calm review critic abuse";

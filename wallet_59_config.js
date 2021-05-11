@@ -1,1 +1,1 @@
-var mnemonic = "unfold cage solution tail ankle cake more boy knee sister dizzy steel";
+var mnemonic = "marine army there also history amazing shove actual debate purity erupt inch";

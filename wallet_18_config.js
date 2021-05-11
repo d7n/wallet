@@ -1,1 +1,1 @@
-var mnemonic = "two marriage seat march version double embrace churn alpha office detail subway";
+var mnemonic = "patch resist marine whip until mule process hover upgrade reveal hen ankle";

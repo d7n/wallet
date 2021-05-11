@@ -1,1 +1,1 @@
-var mnemonic = "curve swamp reduce version friend witness side fantasy tiger illegal reunion control";
+var mnemonic = "venture tackle emerge frame ceiling curve pitch into cannon atom business symbol";

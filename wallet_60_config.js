@@ -1,1 +1,1 @@
-var mnemonic = "maid night salmon sweet era random theory round moral combine stay light";
+var mnemonic = "claim sword invite myself blame supreme brief settle right start juice woman";

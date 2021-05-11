@@ -1,1 +1,1 @@
-var mnemonic = "any sentence feature frost claw leopard poverty patrol baby fine cup magnet";
+var mnemonic = "draw one alter clutch chuckle circle juice regret negative cliff stable jar";

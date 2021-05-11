@@ -1,1 +1,1 @@
-var mnemonic = "relief control small race kiss buddy guide champion dash now repeat shoot";
+var mnemonic = "drift breeze dose sort upset master thumb patrol emerge rare staff tired";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence brand sign eyebrow humble ask turtle drip shiver taxi will car";
+var mnemonic = "polar treat injury buffalo remain disorder peasant coconut naive stage hire fork";

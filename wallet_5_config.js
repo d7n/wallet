@@ -1,1 +1,1 @@
-var mnemonic = "dirt push public vacuum brain sweet margin illness jewel cargo gauge occur";
+var mnemonic = "hungry wife degree welcome purse bread wait work climb huge shop load";

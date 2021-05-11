@@ -1,1 +1,1 @@
-var mnemonic = "system speak feel over lemon receive erode model wish absent little dawn";
+var mnemonic = "voice way build matrix option grant supply deposit original grass metal better";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper danger degree april resemble camp abuse donate hamster cigar cabbage mask";
+var mnemonic = "axis pepper nephew mix frown type figure diagram shiver door basket frequent";

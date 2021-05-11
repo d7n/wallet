@@ -1,1 +1,1 @@
-var mnemonic = "pear gesture ahead runway volcano slide target syrup again found flat destroy";
+var mnemonic = "bottom valid element slogan execute board gallery forget leaf version kidney now";

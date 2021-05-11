@@ -1,1 +1,1 @@
-var mnemonic = "glare popular farm more small can fox viable ski join machine fix";
+var mnemonic = "assault pencil dial twist quality great crunch fortune resist faint enhance hundred";

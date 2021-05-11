@@ -1,1 +1,1 @@
-var mnemonic = "juice math bronze anger core salon hammer toe toe champion have math";
+var mnemonic = "route zoo together quote olympic dad comfort sell cram umbrella welcome plug";

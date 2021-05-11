@@ -1,1 +1,1 @@
-var mnemonic = "skin retire deal bird giant caught margin infant pride enjoy salt aim";
+var mnemonic = "dose arrive pattern split push peasant advice gorilla traffic flash worth lecture";

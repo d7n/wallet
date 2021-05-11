@@ -1,1 +1,1 @@
-var mnemonic = "shock endless prison spy leisure mansion choose attract path trigger cake spice";
+var mnemonic = "decide capital fatigue sort lock barrel scan warm camp lottery pyramid ladder";

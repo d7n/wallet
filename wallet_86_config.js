@@ -1,1 +1,1 @@
-var mnemonic = "glory sunny narrow health drum flavor trophy goddess auction melody welcome buddy";
+var mnemonic = "stable envelope material media know layer useful gospel steak birth dial interest";

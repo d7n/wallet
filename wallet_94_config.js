@@ -1,1 +1,1 @@
-var mnemonic = "accident blade manual prepare hover matter provide segment mixture control city suffer";
+var mnemonic = "option cool carpet jacket today input clarify cousin promote toy abuse option";

@@ -1,1 +1,1 @@
-var mnemonic = "skill lift abstract other neglect black color scare era mutual photo kick";
+var mnemonic = "youth spawn depend arctic potato devote lazy replace pitch common infant sock";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza diesel rubber float road cheese chest daughter stereo alpha divide hammer";
+var mnemonic = "mimic smooth farm burst lesson gas remember squirrel hurdle time rally army";

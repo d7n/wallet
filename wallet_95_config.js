@@ -1,1 +1,1 @@
-var mnemonic = "sleep auto drive grace floor shock near inspire index seed surround tank";
+var mnemonic = "already lady knife honey curve jungle enemy client survey rib matrix load";

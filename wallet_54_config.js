@@ -1,1 +1,1 @@
-var mnemonic = "salt slight burst crucial thought segment clog gesture artist since cram room";
+var mnemonic = "pet donate century myth control fruit custom thing other either kitchen range";

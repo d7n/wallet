@@ -1,1 +1,1 @@
-var mnemonic = "aerobic maple pilot trip visa harvest hair traffic kangaroo wreck organ animal";
+var mnemonic = "onion plunge snake audit figure account ill shoe curious inflict coil result";

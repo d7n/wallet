@@ -1,1 +1,1 @@
-var mnemonic = "panel impose spy valve claw matter tomato inflict cause craft mouse scrub";
+var mnemonic = "sea grit quote vast require scout citizen century swift flash body want";

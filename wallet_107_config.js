@@ -1,1 +1,1 @@
-var mnemonic = "hotel wine main mean token become around black spirit object artwork memory";
+var mnemonic = "small wheel hundred neutral crisp end govern movie total obtain guilt mask";

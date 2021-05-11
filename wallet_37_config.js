@@ -1,1 +1,1 @@
-var mnemonic = "priority cluster verify athlete drum taxi canal great jewel garment monkey hello";
+var mnemonic = "tissue match abstract sauce attend shell asset divide agree swallow among radar";

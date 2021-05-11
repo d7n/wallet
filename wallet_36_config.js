@@ -1,1 +1,1 @@
-var mnemonic = "talk course cheese race ostrich major neglect hope menu come scan culture";
+var mnemonic = "skill soap deny regular citizen kick skirt catch cotton matter exhibit era";

@@ -1,1 +1,1 @@
-var mnemonic = "organ dress glass cover bounce polar cycle crazy mass until fog tunnel";
+var mnemonic = "horn furnace confirm room siege glue mercy plastic animal impulse stem fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "pave bitter surround pottery level all media blur tag fork cry absorb";
+var mnemonic = "early found strategy lonely sting parrot eight lake start movie consider alone";

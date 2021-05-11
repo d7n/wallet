@@ -1,1 +1,1 @@
-var mnemonic = "salute need citizen muffin dish hat motor either retreat rookie fan human";
+var mnemonic = "alpha garlic axis split rhythm exact kick include someone wonder body educate";

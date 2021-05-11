@@ -1,1 +1,1 @@
-var mnemonic = "strike minimum rebel middle spring minor casual citizen dove lonely stage match";
+var mnemonic = "island sure ready chunk skirt canal flash depend number truth when pulse";

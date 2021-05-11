@@ -1,1 +1,1 @@
-var mnemonic = "between remind day fantasy approve pretty similar typical sight gain glass media";
+var mnemonic = "skill give road practice trigger pitch spy notice moon ribbon lazy uncover";

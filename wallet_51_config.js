@@ -1,1 +1,1 @@
-var mnemonic = "promote blame hedgehog copy jar scissors brick scheme sponsor deal display slide";
+var mnemonic = "reflect final cycle stereo grass donor act donate over credit deposit minor";

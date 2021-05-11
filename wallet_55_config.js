@@ -1,1 +1,1 @@
-var mnemonic = "weekend oak donor fiction beach mechanic latin smart firm apology north choice";
+var mnemonic = "same turtle merry amount drill autumn language model room mimic angry flight";

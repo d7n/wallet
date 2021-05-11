@@ -1,1 +1,1 @@
-var mnemonic = "elevator hunt rural cable warm icon hurry eye pyramid essay tone rabbit";
+var mnemonic = "lift rude culture enlist payment essence nest purity settle neither guitar endless";

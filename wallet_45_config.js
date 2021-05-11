@@ -1,1 +1,1 @@
-var mnemonic = "sea answer napkin flip clarify liquid monitor jungle miss gaze vessel seven";
+var mnemonic = "check stuff swallow rhythm abuse dash lemon sight wing coyote vote stage";

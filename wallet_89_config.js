@@ -1,1 +1,1 @@
-var mnemonic = "invite wonder bird evidence dizzy donkey reflect pony sail attend mention pass";
+var mnemonic = "thing basket risk mesh crisp duck combine dawn oxygen salon bicycle save";

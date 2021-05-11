@@ -1,1 +1,1 @@
-var mnemonic = "suggest laundry museum fat tide orient luxury episode shallow cream crawl coin";
+var mnemonic = "exercise dance quiz ceiling crucial sweet naive wall banana equip universe until";

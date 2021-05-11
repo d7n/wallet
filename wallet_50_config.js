@@ -1,1 +1,1 @@
-var mnemonic = "frame egg garment rack regular arch cancel rather cover little victory elephant";
+var mnemonic = "cabin sure near cheap arrow critic wrap drill mimic step surge zone";

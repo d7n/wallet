@@ -1,1 +1,1 @@
-var mnemonic = "rotate jealous matter subway fiber minute defense mixture blanket blade device image";
+var mnemonic = "sound midnight brother attract oak average pass area cupboard lend vintage whip";

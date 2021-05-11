@@ -1,1 +1,1 @@
-var mnemonic = "destroy dragon buffalo tunnel lend illness nothing forget draft lake silent daring";
+var mnemonic = "guess misery wedding bag width misery custom coil yard build staff chief";

@@ -1,1 +1,1 @@
-var mnemonic = "vault prepare lonely cherry online still gift enough crime donor twenty boost";
+var mnemonic = "emotion juice soft shuffle canoe fantasy twice curve chef dumb wear miracle";

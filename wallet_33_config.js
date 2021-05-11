@@ -1,1 +1,1 @@
-var mnemonic = "step pave penalty diet gesture please improve drive alone foam inch tape";
+var mnemonic = "second bike burger mammal wage spirit two whale safe squeeze like venture";

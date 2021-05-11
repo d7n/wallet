@@ -1,1 +1,1 @@
-var mnemonic = "place wish cause actor prosper world attack urban oven venture stable lawn";
+var mnemonic = "load asset cry milk tomorrow shuffle dawn april ship shy melody marble";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage sock knee allow kind talk canvas decline panel color crater addict";
+var mnemonic = "drum current earth liquid moon goat leaf genius lunar fossil artwork cruise";

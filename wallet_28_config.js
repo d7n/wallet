@@ -1,1 +1,1 @@
-var mnemonic = "motion fame robot never manual range arrow okay square taste napkin notice";
+var mnemonic = "genius news guilt clutch negative pitch uphold denial final gentle valve result";

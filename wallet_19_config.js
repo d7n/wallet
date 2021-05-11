@@ -1,1 +1,1 @@
-var mnemonic = "pink raw wasp carry worth hand weather inspire photo web cupboard satoshi";
+var mnemonic = "pause summer blood speak unfold dance found hair whale close twice vapor";

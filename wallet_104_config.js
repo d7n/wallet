@@ -1,1 +1,1 @@
-var mnemonic = "sail chef better feel glove congress anxiety time tonight bundle glass area";
+var mnemonic = "affair cannon decade this minute differ brown found vague dash wrestle excess";

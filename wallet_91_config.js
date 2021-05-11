@@ -1,1 +1,1 @@
-var mnemonic = "island exact rich wrestle knife library host nuclear diamond deposit throw coffee";
+var mnemonic = "pledge dice zoo ticket cycle time repeat better test stem suspect empty";

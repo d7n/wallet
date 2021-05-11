@@ -1,1 +1,1 @@
-var mnemonic = "question drift speed domain wagon success army mountain shift city state much";
+var mnemonic = "inspire vibrant trust argue enforce busy turn process mixture forget indicate recipe";

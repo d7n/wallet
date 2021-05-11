@@ -1,1 +1,1 @@
-var mnemonic = "live sing cabbage spare abstract slab stairs movie feel first crunch load";
+var mnemonic = "sing bird hero spice cream hotel sail athlete mountain ensure decide rich";

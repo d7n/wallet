@@ -1,1 +1,1 @@
-var mnemonic = "clarify boss hunt smooth choice seed claw put solar pond valve state";
+var mnemonic = "nephew fiscal evolve distance bonus apart pupil bronze subway virtual wheel piece";
