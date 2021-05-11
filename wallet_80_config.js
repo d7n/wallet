@@ -1,1 +1,1 @@
-var mnemonic = "category cabbage warm parade volcano slender goat arena whale punch host system";
+var mnemonic = "hybrid river equip view panther plastic betray success broken flat elegant dove";

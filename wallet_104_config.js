@@ -1,1 +1,1 @@
-var mnemonic = "urban rely mistake license sad pet fortune pottery now ready refuse jeans";
+var mnemonic = "gallery drift witness token false address fossil rural oval capable coyote stock";

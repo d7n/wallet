@@ -1,1 +1,1 @@
-var mnemonic = "news luggage orphan moral happy never imitate surface private tiny there feel";
+var mnemonic = "absurd exhaust deputy butter pulse slender chaos pudding angle emotion caught scan";

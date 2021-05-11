@@ -1,1 +1,1 @@
-var mnemonic = "salad ability economy jump original useless gossip census spider amateur naive legend";
+var mnemonic = "story quit muffin oven loyal pulp inquiry say goose loop sustain only";

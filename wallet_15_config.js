@@ -1,1 +1,1 @@
-var mnemonic = "job round powder yard submit hole wife toy aim shock buzz inflict";
+var mnemonic = "hub black able sea biology salmon travel cement under apple sauce pluck";

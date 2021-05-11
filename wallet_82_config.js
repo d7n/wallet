@@ -1,1 +1,1 @@
-var mnemonic = "outdoor online fluid world lava stereo toss news knife salmon fire bottom";
+var mnemonic = "oyster safe trend juice admit room symptom cause canyon label episode purpose";

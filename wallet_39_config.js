@@ -1,1 +1,1 @@
-var mnemonic = "myth horn thunder swallow settle above hen impose matrix crumble license nephew";
+var mnemonic = "replace only cream gasp autumn hope crunch tent frost rule climb area";

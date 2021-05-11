@@ -1,1 +1,1 @@
-var mnemonic = "vivid kind father error account eyebrow hat rail term trust purity impulse";
+var mnemonic = "window angry blade pumpkin warm interest away unit poverty ahead swear erosion";

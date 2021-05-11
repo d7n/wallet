@@ -1,1 +1,1 @@
-var mnemonic = "true shadow aerobic nuclear mix jar lucky puzzle win hand pudding check";
+var mnemonic = "easily festival elephant sheriff employ right frost attend pencil cattle orange acquire";

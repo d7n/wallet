@@ -1,1 +1,1 @@
-var mnemonic = "receive silver agent wash agent supreme thought awful yard crawl evoke oven";
+var mnemonic = "nut kitten educate eternal stay tool sketch immune sugar normal figure planet";

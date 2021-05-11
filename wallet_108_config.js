@@ -1,1 +1,1 @@
-var mnemonic = "sphere sick vacant melt refuse voyage foster cannon royal baby lumber corn";
+var mnemonic = "harbor odor lake remind equip sponsor citizen spatial master toe change rule";

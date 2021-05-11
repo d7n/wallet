@@ -1,1 +1,1 @@
-var mnemonic = "cool field cannon will juice harvest eyebrow argue blossom dignity lumber toe";
+var mnemonic = "narrow young other tourist width enable glue vote square crush employ firm";

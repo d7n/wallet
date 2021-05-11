@@ -1,1 +1,1 @@
-var mnemonic = "lift nice dwarf inhale size day metal rib fabric analyst insane bullet";
+var mnemonic = "enhance help search truck eternal gauge razor scrap object cute train oil";

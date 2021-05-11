@@ -1,1 +1,1 @@
-var mnemonic = "autumn group fiscal misery clip matter practice just pride bag husband yellow";
+var mnemonic = "minor nest message black heavy junk supply physical find deer blind attract";

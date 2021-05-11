@@ -1,1 +1,1 @@
-var mnemonic = "glory lucky field minimum flag frown inform frequent whip sad goose route";
+var mnemonic = "pole rebel robot miracle oil crater sauce effort pool relax mule lens";

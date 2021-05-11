@@ -1,1 +1,1 @@
-var mnemonic = "organ torch glance obtain anxiety begin enjoy level thunder rose shrug owner";
+var mnemonic = "wagon club divert soon duty defy kingdom invite flower erupt model reject";

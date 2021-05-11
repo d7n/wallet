@@ -1,1 +1,1 @@
-var mnemonic = "grab mutual decorate fragile either voyage syrup icon color physical path gravity";
+var mnemonic = "mountain drip bonus pulp hockey arch you kangaroo idle lobster strategy hub";

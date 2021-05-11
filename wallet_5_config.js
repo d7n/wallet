@@ -1,1 +1,1 @@
-var mnemonic = "month join amazing holiday labor rather clean unaware upon discover install exchange";
+var mnemonic = "guitar copper follow peasant express cable misery sting random baby symbol orient";

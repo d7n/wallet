@@ -1,1 +1,1 @@
-var mnemonic = "admit fossil pencil artist deny flavor idle garbage dumb aunt receive write";
+var mnemonic = "catalog alter merge index seven civil hero sing confirm eagle quote enforce";

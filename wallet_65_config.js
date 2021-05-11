@@ -1,1 +1,1 @@
-var mnemonic = "chaos nice owner second genius remain embody concert much easy intact bring";
+var mnemonic = "census warfare average idle solid leaf mom wash asthma kind right salon";

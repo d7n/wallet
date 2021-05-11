@@ -1,1 +1,1 @@
-var mnemonic = "grit oven region chef hammer title person hold wrist buyer mixture mammal";
+var mnemonic = "stem mistake address attitude broom involve mandate arrest vault hour want lobster";

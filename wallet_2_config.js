@@ -1,1 +1,1 @@
-var mnemonic = "force enact together gallery another stamp fault opera sad faint already box";
+var mnemonic = "gospel risk tornado divorce honey margin egg wife occur door conduct atom";

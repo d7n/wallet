@@ -1,1 +1,1 @@
-var mnemonic = "fragile replace belt hunt reflect duty report between live powder exact coconut";
+var mnemonic = "upset sudden silent tissue athlete jungle update lady kind green latin wine";

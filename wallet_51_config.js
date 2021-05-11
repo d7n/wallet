@@ -1,1 +1,1 @@
-var mnemonic = "search fury dish weasel style measure jaguar soldier despair stay drift vacuum";
+var mnemonic = "wreck dish impose siren upon hold nuclear crystal mercy entry lobster original";

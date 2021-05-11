@@ -1,1 +1,1 @@
-var mnemonic = "goddess ignore decade scale rain provide dance evidence rival guitar silly common";
+var mnemonic = "village nephew foam thing ugly obscure into paper thunder goose cup clog";

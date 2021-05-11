@@ -1,1 +1,1 @@
-var mnemonic = "love bone must nasty brain list puppy input slogan right fatigue cargo";
+var mnemonic = "brown accident install bitter save milk spare poet left slam boss floor";

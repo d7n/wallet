@@ -1,1 +1,1 @@
-var mnemonic = "web angry upset digital express south smart pipe shift share napkin judge";
+var mnemonic = "real joy fly twin universe two business example comic fruit ancient rack";

@@ -1,1 +1,1 @@
-var mnemonic = "essay sad genuine knee bus soft rescue piece depend swap better panel";
+var mnemonic = "crucial scan lesson duck crouch simple click amateur tuition worry autumn badge";

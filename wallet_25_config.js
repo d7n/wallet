@@ -1,1 +1,1 @@
-var mnemonic = "earn found junk ordinary tenant salon twenty arch access twenty describe razor";
+var mnemonic = "level sustain grow intact lemon brush ocean labor pet era stock goddess";

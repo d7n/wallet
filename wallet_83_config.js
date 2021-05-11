@@ -1,1 +1,1 @@
-var mnemonic = "aerobic jealous lobster bullet sponsor enjoy flower obvious scale hobby float spin";
+var mnemonic = "craft boring soldier certain dad verb visa word subway lens buzz family";

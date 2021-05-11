@@ -1,1 +1,1 @@
-var mnemonic = "employ season collect wear mango option business robust riot enter swim capable";
+var mnemonic = "actor bacon similar relief meadow pumpkin impulse advice toast banana kite hover";

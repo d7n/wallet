@@ -1,1 +1,1 @@
-var mnemonic = "myself essay stick broccoli rude maze onion program more twice distance faith";
+var mnemonic = "announce dismiss ship aerobic expire negative rapid shock network quick snake liquid";

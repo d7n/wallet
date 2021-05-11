@@ -1,1 +1,1 @@
-var mnemonic = "width supreme concert echo chef absorb kangaroo light result shaft wire glory";
+var mnemonic = "lock pretty husband cross vague disorder debate syrup dutch cushion burden arrange";

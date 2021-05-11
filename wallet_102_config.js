@@ -1,1 +1,1 @@
-var mnemonic = "cool setup grass rely wolf silk provide domain future hard grit task";
+var mnemonic = "prevent demand normal bachelor slender moral cotton regular tooth crazy color similar";

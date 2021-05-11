@@ -1,1 +1,1 @@
-var mnemonic = "spirit jewel garment stumble eight industry method liberty indoor arrange smile pistol";
+var mnemonic = "biology depth slice damage setup wolf champion shallow race adapt confirm mesh";

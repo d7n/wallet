@@ -1,1 +1,1 @@
-var mnemonic = "win feed when exit record brave enhance raccoon nerve town giggle later";
+var mnemonic = "mansion feel bid scale reform tell neck skull easy service limit electric";

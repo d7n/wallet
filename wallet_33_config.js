@@ -1,1 +1,1 @@
-var mnemonic = "deputy seven blanket that demand yard gravity solve lava rescue orange leaf";
+var mnemonic = "raise list hood decade scrub make buyer kid friend report idea lucky";

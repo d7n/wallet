@@ -1,1 +1,1 @@
-var mnemonic = "feed remind absorb lyrics soap divorce train item glare swear vacuum employ";
+var mnemonic = "boring live hour celery tobacco cake harbor urge cradle during enemy curve";

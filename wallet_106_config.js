@@ -1,1 +1,1 @@
-var mnemonic = "essence decade basic bomb illness blue slab spin sport limb warm couch";
+var mnemonic = "oval excess source walk hotel repair sun put chat enemy draft warrior";

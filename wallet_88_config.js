@@ -1,1 +1,1 @@
-var mnemonic = "among seat enemy depart little suggest mango parrot advice lounge level two";
+var mnemonic = "village food cloud common kite birth worry giraffe robot soft very often";

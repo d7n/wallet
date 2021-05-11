@@ -1,1 +1,1 @@
-var mnemonic = "mountain arm monkey able amount hero spice perfect error spin warrior robust";
+var mnemonic = "hamster connect unaware island citizen amateur stone item depth turtle donor rescue";

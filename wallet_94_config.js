@@ -1,1 +1,1 @@
-var mnemonic = "capable sudden eternal puzzle dial ketchup state knock giggle solution soup random";
+var mnemonic = "control win measure among panther cruel tiny neutral intact source scissors media";

@@ -1,1 +1,1 @@
-var mnemonic = "more hand labor ginger intact snow swift crew february choose book voyage";
+var mnemonic = "citizen wrestle know habit spawn heart math stairs vapor team stuff accuse";

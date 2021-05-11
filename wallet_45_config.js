@@ -1,1 +1,1 @@
-var mnemonic = "exist fiction local minute report object work fetch breeze orphan cave detail";
+var mnemonic = "civil delay auction explain hedgehog spring miss body disagree cousin trick assist";

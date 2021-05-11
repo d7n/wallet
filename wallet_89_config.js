@@ -1,1 +1,1 @@
-var mnemonic = "loud describe giggle plug opinion country float enlist mushroom cereal finish dumb";
+var mnemonic = "social feature desk icon artist wool turtle mosquito suspect slender expand input";

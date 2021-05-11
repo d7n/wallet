@@ -1,1 +1,1 @@
-var mnemonic = "crumble setup volume broken kite say select model canvas hammer shiver frown";
+var mnemonic = "frequent chat obscure undo exhibit bean crunch winner result client garlic fine";

@@ -1,1 +1,1 @@
-var mnemonic = "document during eagle mix fashion rabbit impact misery dismiss execute shaft snack";
+var mnemonic = "method climb moral anxiety pass keen amused lawn athlete crush rough exhaust";

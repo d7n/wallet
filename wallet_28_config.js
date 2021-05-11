@@ -1,1 +1,1 @@
-var mnemonic = "dune capable pluck seed such ceiling tuition praise order violin dinosaur potato";
+var mnemonic = "cool rent morning west enlist post hurdle visit candy pepper tomato image";

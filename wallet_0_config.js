@@ -1,1 +1,1 @@
-var mnemonic = "pizza inquiry raccoon image glimpse human pink novel link message pitch unlock";
+var mnemonic = "assault cube round fatal token decade clutch fetch comfort shiver choice stuff";

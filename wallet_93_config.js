@@ -1,1 +1,1 @@
-var mnemonic = "screen toy stick void tortoise ozone boring rhythm holiday junior subway bone";
+var mnemonic = "farm turn bid reunion embark end music life tumble spread emotion cute";

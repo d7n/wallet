@@ -1,1 +1,1 @@
-var mnemonic = "effort assume awful shove tree antenna corn alone rail bless drastic galaxy";
+var mnemonic = "power column media violin rough split draw kangaroo car head sunset stick";

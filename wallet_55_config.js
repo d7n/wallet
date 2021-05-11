@@ -1,1 +1,1 @@
-var mnemonic = "rain wait lend game tourist tenant oyster puzzle safe patrol before spy";
+var mnemonic = "tag clutch slow bird raw law tornado nature bomb hybrid security grid";

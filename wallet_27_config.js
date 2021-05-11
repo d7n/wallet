@@ -1,1 +1,1 @@
-var mnemonic = "toe attract clump poet document guitar acquire three heavy brother silent horn";
+var mnemonic = "art sponsor fence cheese miracle ask web uncover cool before ozone excite";

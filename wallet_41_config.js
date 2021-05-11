@@ -1,1 +1,1 @@
-var mnemonic = "injury ready elegant actor expire medal foil scan usual hidden space exist";
+var mnemonic = "mercy laundry onion clump borrow tattoo smoke sure faculty before album dismiss";

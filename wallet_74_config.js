@@ -1,1 +1,1 @@
-var mnemonic = "tongue upper try solar armor scissors name tree hand shop asthma whale";
+var mnemonic = "quote crowd multiply morning popular remove ignore ten stamp kiwi level skin";

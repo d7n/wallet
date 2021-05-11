@@ -1,1 +1,1 @@
-var mnemonic = "ginger wrap dismiss caution oxygen cry ritual clean clutch weird glass donkey";
+var mnemonic = "session worry marine siren green auto toe symbol shoulder decade piece fog";

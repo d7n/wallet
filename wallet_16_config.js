@@ -1,1 +1,1 @@
-var mnemonic = "analyst poem great police indoor ice fix truth garden rapid capable announce";
+var mnemonic = "country solve engine matrix gift clog setup knock nuclear ability physical legend";

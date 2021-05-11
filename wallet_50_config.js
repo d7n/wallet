@@ -1,1 +1,1 @@
-var mnemonic = "century lift length monster toss inform obvious crowd matter mobile train play";
+var mnemonic = "deal key begin exile subway notable patch core flush found economy exotic";

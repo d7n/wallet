@@ -1,1 +1,1 @@
-var mnemonic = "chief zone pistol bag antique street age soul clog coast boost grass";
+var mnemonic = "steak daughter devote tag chronic million car square smoke orient reform cover";

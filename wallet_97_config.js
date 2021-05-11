@@ -1,1 +1,1 @@
-var mnemonic = "run agent foil permit indoor usage regret tiny north nice salute second";
+var mnemonic = "rival magic camp wish rough chimney moral trade defy frame sing portion";

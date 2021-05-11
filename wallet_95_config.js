@@ -1,1 +1,1 @@
-var mnemonic = "upset deliver goose labor lava disease expire mean warm wink pretty exchange";
+var mnemonic = "approve emotion various level soda involve yellow faith consider pink click canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty harsh fox wolf merry ill table still mimic thing breeze cloth";
+var mnemonic = "below huge canvas brief fun prefer moment divorce item feature cliff future";

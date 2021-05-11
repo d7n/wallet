@@ -1,1 +1,1 @@
-var mnemonic = "sure blossom mom blade pig lava barely position dry spawn isolate subway";
+var mnemonic = "pass video response robot milk key broken space frog else enjoy great";

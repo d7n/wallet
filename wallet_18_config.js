@@ -1,1 +1,1 @@
-var mnemonic = "elbow sweet glue tube day cushion aim master leaf man demise detect";
+var mnemonic = "isolate regular desk category leopard muffin sibling radio major famous normal creek";

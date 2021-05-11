@@ -1,1 +1,1 @@
-var mnemonic = "buffalo risk drum pact venue photo vague cat gauge dolphin pear space";
+var mnemonic = "enable essence tube slender voice drop interest taste minimum loop click sure";

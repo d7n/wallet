@@ -1,1 +1,1 @@
-var mnemonic = "present chest mistake once outside typical tower joke release primary voyage glass";
+var mnemonic = "radar bus brick bus firm cube mention album canoe jar embody acquire";

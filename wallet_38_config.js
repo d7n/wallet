@@ -1,1 +1,1 @@
-var mnemonic = "raw ranch orchard daring hybrid churn banana casual merit casual poem slot";
+var mnemonic = "often claw attack rack scare notice spy cabbage silver sick uphold long";

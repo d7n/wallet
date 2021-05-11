@@ -1,1 +1,1 @@
-var mnemonic = "suspect cycle oyster sample melody never enlist destroy genuine second giggle sail";
+var mnemonic = "purchase fish okay initial pill struggle orphan design length federal poverty soon";

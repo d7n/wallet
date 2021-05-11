@@ -1,1 +1,1 @@
-var mnemonic = "razor arrest youth main bunker atom dress item expose patch merit mule";
+var mnemonic = "valid captain typical simple discover rotate civil put jelly can client number";

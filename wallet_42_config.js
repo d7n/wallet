@@ -1,1 +1,1 @@
-var mnemonic = "dog kid among rival consider above canal goat among punch antenna desert";
+var mnemonic = "real liar chapter recipe track sister loan equip swarm churn salad raccoon";

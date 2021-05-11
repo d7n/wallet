@@ -1,1 +1,1 @@
-var mnemonic = "depart practice amount fade enlist age ceiling neglect pave pudding summer month";
+var mnemonic = "example above sound middle sentence wedding panther fork leaf announce violin remain";

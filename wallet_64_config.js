@@ -1,1 +1,1 @@
-var mnemonic = "title unlock sea credit box castle resemble wheat rack finger slow token";
+var mnemonic = "sick keen video vessel lawn thunder civil melt repeat neutral shrimp future";

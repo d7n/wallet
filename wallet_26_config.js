@@ -1,1 +1,1 @@
-var mnemonic = "during tongue combine snack pipe moment salon maple spray coffee meadow hub";
+var mnemonic = "connect surprise reason mushroom announce wealth grace invest swamp carbon flash usual";

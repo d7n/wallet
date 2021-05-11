@@ -1,1 +1,1 @@
-var mnemonic = "fall fossil avoid fiscal inform fit proud sheriff must lion ginger father";
+var mnemonic = "fragile peanut sudden shrug shy honey prosper lamp pledge nothing usual project";

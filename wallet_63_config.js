@@ -1,1 +1,1 @@
-var mnemonic = "seed crucial device alter negative tornado wood teach ugly solve between deposit";
+var mnemonic = "thumb carry brown luggage protect atom accident bunker decorate jungle poet inch";

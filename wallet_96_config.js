@@ -1,1 +1,1 @@
-var mnemonic = "cage fault october return original material miracle wise funny merry novel surprise";
+var mnemonic = "tree mixed sword employ dice use danger devote puzzle glow forget artist";

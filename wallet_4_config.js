@@ -1,1 +1,1 @@
-var mnemonic = "genre hair evoke need journey adult gold lamp layer canal squeeze sound";
+var mnemonic = "surround mouse replace right term utility yard manual return border faint present";

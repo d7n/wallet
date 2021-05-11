@@ -1,1 +1,1 @@
-var mnemonic = "milk sister drop modify stuff village voice amount marine predict entire direct";
+var mnemonic = "scatter seven fly rail giggle require price fashion also tiger energy sheriff";

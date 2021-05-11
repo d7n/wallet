@@ -1,1 +1,1 @@
-var mnemonic = "crouch gadget travel monitor clip surface horn verb tomorrow list gas model";
+var mnemonic = "cruel pizza armed rapid answer cinnamon collect hedgehog define idle jewel host";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant record nice monitor below genre outdoor below turn note camera insect";
+var mnemonic = "lizard shop soccer arena belt spell festival pottery secret immense whisper magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate outer usage mention refuse across topple hope struggle breeze capable way";
+var mnemonic = "estate screen reflect cricket holiday solar issue glance stereo fault ready chicken";

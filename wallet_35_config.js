@@ -1,1 +1,1 @@
-var mnemonic = "result practice seed autumn away alone warfare off farm observe monitor candy";
+var mnemonic = "fox diamond dolphin ugly net ticket worth distance upon whisper inspire glide";

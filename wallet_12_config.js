@@ -1,1 +1,1 @@
-var mnemonic = "skin mammal judge patch estate charge outer peasant arena rail small gravity";
+var mnemonic = "cliff gallery iron dolphin cause nurse task good have dumb negative gym";

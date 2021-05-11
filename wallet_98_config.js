@@ -1,1 +1,1 @@
-var mnemonic = "float engage risk bid practice agree phone online weasel peasant guilt pull";
+var mnemonic = "bracket flag option half firm initial float foster hybrid main festival ready";

@@ -1,1 +1,1 @@
-var mnemonic = "robot certain pizza pretty myself grass observe chuckle pair boat vehicle know";
+var mnemonic = "neck april danger garden mass absurd brand move tiny fury sick view";

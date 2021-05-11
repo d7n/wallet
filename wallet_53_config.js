@@ -1,1 +1,1 @@
-var mnemonic = "manage kangaroo buyer income umbrella adjust flock waste black poverty together intact";
+var mnemonic = "hammer dad actress saddle game whale crater spend subject sustain capital margin";

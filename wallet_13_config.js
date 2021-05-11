@@ -1,1 +1,1 @@
-var mnemonic = "version source stand prize smile suggest addict join sweet light clip negative";
+var mnemonic = "joke resemble remind drip tower oyster rigid radio impulse bonus antique reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber expect bike giggle century artist melt injury wreck burst toe expire";
+var mnemonic = "soccer clap hero input walk theme home pipe upgrade loop extra give";

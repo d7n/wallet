@@ -1,1 +1,1 @@
-var mnemonic = "simple beach bright session rabbit tornado earn icon pepper grid staff gravity";
+var mnemonic = "right obtain sad quiz strike delay solution clutch cat engage slight small";

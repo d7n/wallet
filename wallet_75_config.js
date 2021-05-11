@@ -1,1 +1,1 @@
-var mnemonic = "hip modify depth expand energy absorb that artwork walnut tilt gauge spike";
+var mnemonic = "soap armed drip joy gate twin high stadium brand exhaust exercise shrimp";

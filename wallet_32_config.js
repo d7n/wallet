@@ -1,1 +1,1 @@
-var mnemonic = "bronze detail bike mobile aisle present impulse horn shy add exercise evoke";
+var mnemonic = "order nasty left mango tissue flower earn thing tooth narrow barrel merry";

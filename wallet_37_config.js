@@ -1,1 +1,1 @@
-var mnemonic = "comic coach whip pudding old stairs wealth blame police fruit dinosaur desk";
+var mnemonic = "vacant bicycle relax fire feature zebra report vocal crime slam beauty light";

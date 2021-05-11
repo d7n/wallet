@@ -1,1 +1,1 @@
-var mnemonic = "payment sauce elder call merge target view moral begin symptom actor aisle";
+var mnemonic = "deer glare purchase apple behind license amazing goose few push cable camera";

@@ -1,1 +1,1 @@
-var mnemonic = "atom wasp weasel fury timber region suffer traffic neutral million social wonder";
+var mnemonic = "correct local snake brave armed bike present inflict resemble squirrel lobster raw";

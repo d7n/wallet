@@ -1,1 +1,1 @@
-var mnemonic = "aisle recall inhale lock imitate few farm animal excess visual seven spray";
+var mnemonic = "discover mother unveil erode human lazy nuclear wise clinic lake vacuum churn";

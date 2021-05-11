@@ -1,1 +1,1 @@
-var mnemonic = "wife ancient light trouble bargain slot future kidney exhibit inhale pistol trick";
+var mnemonic = "guard resemble expire rare throw easily immune skate jungle lock call venture";
