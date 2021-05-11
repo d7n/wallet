@@ -1,1 +1,1 @@
-var mnemonic = "keep victory ask cycle strong opinion neither pulse acoustic peanut talent uncle";
+var mnemonic = "guilt fire wonder chapter sunny usage gossip story genre sing town puppy";

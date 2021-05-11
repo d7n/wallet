@@ -1,1 +1,1 @@
-var mnemonic = "jelly captain suit stairs famous sponsor ill corn chimney puppy civil allow";
+var mnemonic = "sunset genuine rookie trophy capital frost seminar run blood table arm thank";

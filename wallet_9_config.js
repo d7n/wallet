@@ -1,1 +1,1 @@
-var mnemonic = "alert hen open nation face train excess access monkey belt fiscal raven";
+var mnemonic = "party diesel victory unfold enough horror payment federal wave protect practice update";

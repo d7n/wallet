@@ -1,1 +1,1 @@
-var mnemonic = "ugly view iron speak below gown option rent good brain cotton law";
+var mnemonic = "ridge fruit session tiger antique beef tube verb regret slush hood type";

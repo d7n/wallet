@@ -1,1 +1,1 @@
-var mnemonic = "gadget magnet paddle focus kidney insane tank bronze opinion wealth use own";
+var mnemonic = "sail wrist derive parade mother offer orphan oyster nut bargain churn play";

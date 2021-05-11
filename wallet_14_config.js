@@ -1,1 +1,1 @@
-var mnemonic = "wink canvas wasp stage unfair build vacant answer gap network gadget pistol";
+var mnemonic = "supply credit goat often issue used pilot deputy tiny uncover pact canyon";

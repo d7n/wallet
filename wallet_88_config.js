@@ -1,1 +1,1 @@
-var mnemonic = "season cruel flag sword action wing stadium enroll ozone zero vintage angry";
+var mnemonic = "monitor guide knife path improve rebel sing trip proud deer hawk recipe";

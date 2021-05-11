@@ -1,1 +1,1 @@
-var mnemonic = "captain year half pony soldier flee abstract misery gentle pond brain border";
+var mnemonic = "permit offer puzzle wheel gospel mule trap answer aisle craft rubber bright";

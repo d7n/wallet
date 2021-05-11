@@ -1,1 +1,1 @@
-var mnemonic = "middle place entire drastic cat sing pet orbit card ring sleep dance";
+var mnemonic = "wink husband august vocal sweet donate transfer arm cream rough payment lucky";

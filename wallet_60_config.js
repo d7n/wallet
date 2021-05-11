@@ -1,1 +1,1 @@
-var mnemonic = "segment deputy physical deliver utility milk scene actual lobster never where crack";
+var mnemonic = "menu evolve clinic turtle decide upgrade early surge lyrics art gown message";

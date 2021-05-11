@@ -1,1 +1,1 @@
-var mnemonic = "hawk dutch hurdle sadness absent inside notable biology royal arm hero fury";
+var mnemonic = "proof series early label property boil urban gown aerobic mention dawn design";

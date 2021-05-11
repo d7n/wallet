@@ -1,1 +1,1 @@
-var mnemonic = "vintage art domain cluster envelope theory frame stand north silly file coast";
+var mnemonic = "corn matrix tennis season puppy album sort fiction install novel morning better";

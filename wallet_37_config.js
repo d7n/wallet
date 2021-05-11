@@ -1,1 +1,1 @@
-var mnemonic = "pistol hidden rapid strong depth employ civil pause castle talent remove era";
+var mnemonic = "dumb return announce author man range merge trade clog flag boring small";

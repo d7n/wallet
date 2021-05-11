@@ -1,1 +1,1 @@
-var mnemonic = "girl timber carpet uncover usage cloth victory duck uniform zebra salute release";
+var mnemonic = "own garage tell rent pen cradle violin casual cake divert session panel";

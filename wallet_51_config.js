@@ -1,1 +1,1 @@
-var mnemonic = "hint slush traffic glass rose lock pill invest noble shuffle sword local";
+var mnemonic = "jazz inhale index dose clip melody mechanic glimpse wheel exile story lizard";

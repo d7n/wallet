@@ -1,1 +1,1 @@
-var mnemonic = "judge space shoulder illness zero rural tag capital season uncle chalk knife";
+var mnemonic = "wall gown boss trick jewel youth merit party twist strike easily ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "extend dinosaur rib note flight spin mistake taxi segment bottom defense shove";
+var mnemonic = "lumber crunch lazy diary cabbage spice absurd ability gown lemon era omit";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp proud cargo shove link duck isolate organ manage case armed drip";
+var mnemonic = "job cash fee jewel crawl provide sail nut denial agent window bullet";

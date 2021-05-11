@@ -1,1 +1,1 @@
-var mnemonic = "provide decorate arm benefit volume cool deal poem resource survey mixed mutual";
+var mnemonic = "giant delay together course infant endorse equal nuclear bonus stairs glory burger";

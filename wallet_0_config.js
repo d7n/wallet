@@ -1,1 +1,1 @@
-var mnemonic = "shell fine foster ugly quit lunch ugly rich maple spell behind range";
+var mnemonic = "cheese together rail admit grass below soda urban trash welcome ripple valid";

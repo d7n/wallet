@@ -1,1 +1,1 @@
-var mnemonic = "swing isolate ignore like all village gadget correct act minor side useless";
+var mnemonic = "income minor fold stamp slender exercise toast border old ivory rice have";

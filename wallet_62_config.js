@@ -1,1 +1,1 @@
-var mnemonic = "expect broom rapid movie remain armed merry pretty vintage then neglect share";
+var mnemonic = "chair cousin cousin captain used wrestle scout panel wisdom rug foam iron";

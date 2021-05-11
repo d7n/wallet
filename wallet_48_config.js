@@ -1,1 +1,1 @@
-var mnemonic = "immense fuel normal artist intact member host abuse spirit educate sentence sibling";
+var mnemonic = "ginger correct hurt case hero safe tunnel release atom recall awkward auction";

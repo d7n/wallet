@@ -1,1 +1,1 @@
-var mnemonic = "year skull fame benefit episode project away spice alien strategy vapor lady";
+var mnemonic = "motor swallow empower hundred toddler season only wide evolve bean vital ancient";

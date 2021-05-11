@@ -1,1 +1,1 @@
-var mnemonic = "click like nerve swift album expand always noble spatial about use bicycle";
+var mnemonic = "list list bind smooth dinner ski sister flower champion together kangaroo element";

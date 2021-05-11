@@ -1,1 +1,1 @@
-var mnemonic = "simple aerobic outdoor truck shallow pave raccoon warfare orbit hover material room";
+var mnemonic = "volume focus one crowd arrange lumber crowd tourist bottom engine clock news";

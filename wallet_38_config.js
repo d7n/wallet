@@ -1,1 +1,1 @@
-var mnemonic = "hip praise pulse excess analyst reunion yellow window barrel swamp lesson evolve";
+var mnemonic = "labor april move figure taxi dwarf mix rough room voice alley spin";

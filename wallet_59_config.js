@@ -1,1 +1,1 @@
-var mnemonic = "unit arena allow latin rice enter crowd desk resource captain initial bright";
+var mnemonic = "suspect globe child ability noble rain team solar arrive resource grab attend";

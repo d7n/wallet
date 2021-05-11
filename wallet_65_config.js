@@ -1,1 +1,1 @@
-var mnemonic = "smoke neutral supply camera public cheese kiwi faint clip result produce release";
+var mnemonic = "focus indoor chair return army define laptop give vault artist repair achieve";

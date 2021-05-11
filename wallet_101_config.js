@@ -1,1 +1,1 @@
-var mnemonic = "extra frog monkey tree maze beauty engage runway harsh chalk fossil biology";
+var mnemonic = "air kit alpha comic ticket good boost empty license frost art ride";

@@ -1,1 +1,1 @@
-var mnemonic = "employ sister satisfy uniform oven snack stadium best squeeze range dial oyster";
+var mnemonic = "draw predict select list hard local hidden ball like cover draft very";

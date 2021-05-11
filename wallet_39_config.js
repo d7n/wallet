@@ -1,1 +1,1 @@
-var mnemonic = "replace label settle exhaust woman mom shy cushion embrace lock useless boring";
+var mnemonic = "endorse deal pluck allow flash aisle sunset truck raw notable fiscal ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "hold athlete buddy jewel puzzle nephew warm venue paper woman before artist";
+var mnemonic = "profit impulse keen rocket hard trade other couch guilt crouch extend blast";

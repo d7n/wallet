@@ -1,1 +1,1 @@
-var mnemonic = "day little door march crash you west pride rough menu decide blind";
+var mnemonic = "asset spot oyster ecology tip lamp scan hungry output harbor mixed garage";

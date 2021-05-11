@@ -1,1 +1,1 @@
-var mnemonic = "original glare flee tongue fever asthma treat receive furnace odor game luggage";
+var mnemonic = "goat evoke amused acquire zone oven faint school peace bike dice birth";

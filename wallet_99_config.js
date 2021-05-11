@@ -1,1 +1,1 @@
-var mnemonic = "keen island joke face clutch empty brass luggage seminar keen develop science";
+var mnemonic = "insane olive system solve hundred define candy own season upgrade fury profit";

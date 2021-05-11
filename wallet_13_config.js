@@ -1,1 +1,1 @@
-var mnemonic = "lonely wrist repair universe all mother broken position print face orbit purpose";
+var mnemonic = "pistol banner text bronze hawk circle sphere great tiny bright wrong thing";

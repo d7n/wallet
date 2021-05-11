@@ -1,1 +1,1 @@
-var mnemonic = "lottery uncover kite leader slot capable cement final rival boring aerobic rubber";
+var mnemonic = "absurd wool glare tonight ramp endless stock pledge tube gadget run same";

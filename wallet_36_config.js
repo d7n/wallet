@@ -1,1 +1,1 @@
-var mnemonic = "live kid amateur correct vendor oak screen exact resemble chronic actor insane";
+var mnemonic = "blue either between exact rice tumble inner rice argue orphan jaguar stand";

@@ -1,1 +1,1 @@
-var mnemonic = "exile leopard youth situate outdoor again fox window again spell gas chair";
+var mnemonic = "wish bomb public surprise camera alarm woman census reject shed put long";

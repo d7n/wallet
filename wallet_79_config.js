@@ -1,1 +1,1 @@
-var mnemonic = "final tape stable oil biology scare again soldier again farm sense detect";
+var mnemonic = "kitten cart range high young advice dress sweet denial cat find ginger";

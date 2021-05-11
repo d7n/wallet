@@ -1,1 +1,1 @@
-var mnemonic = "survey merit route smooth glare scene isolate good priority flip bunker trigger";
+var mnemonic = "act dog absent screen crouch typical fee various dignity combine work cute";

@@ -1,1 +1,1 @@
-var mnemonic = "fame hold sing add aware above taxi ribbon detect lab lawn roast";
+var mnemonic = "shoe denial cost reunion cart assume try circle black degree tiny tribe";

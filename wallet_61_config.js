@@ -1,1 +1,1 @@
-var mnemonic = "satisfy cause wrong bundle delay bottom public today rough swap female salmon";
+var mnemonic = "glory spoon immune like hole burger trumpet spoon about weapon junk blood";

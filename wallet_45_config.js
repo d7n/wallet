@@ -1,1 +1,1 @@
-var mnemonic = "dizzy team zone speed faint reason daring accident shy answer predict carbon";
+var mnemonic = "sustain traffic piano erode swallow invest thumb adult retreat rate cool left";

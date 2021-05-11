@@ -1,1 +1,1 @@
-var mnemonic = "hundred unaware blouse winter rather mirror minute item mimic grab twin female";
+var mnemonic = "bright tomato curve napkin extra city protect deny lemon neither loop club";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cabbage dumb mouse case require review crunch sad unveil rubber upgrade";
+var mnemonic = "history curve laugh claim surge tooth razor carpet shuffle electric staff tennis";

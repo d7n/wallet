@@ -1,1 +1,1 @@
-var mnemonic = "they galaxy depth soup blame bean city wrap bulk corn muffin asset";
+var mnemonic = "power loyal book attitude tunnel abstract misery tomorrow infant miss lift toilet";

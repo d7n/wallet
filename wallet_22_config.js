@@ -1,1 +1,1 @@
-var mnemonic = "dune lobster earth seed decade produce stomach someone obey verb life shock";
+var mnemonic = "solve fresh picnic grunt install myth assume apology wrist ceiling marine cactus";

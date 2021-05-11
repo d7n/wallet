@@ -1,1 +1,1 @@
-var mnemonic = "spread dice awful source prevent curious frame airport baby grocery pull main";
+var mnemonic = "used giggle hidden resource arctic sample example fabric vehicle twice region share";

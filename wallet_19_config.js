@@ -1,1 +1,1 @@
-var mnemonic = "judge breeze spice ensure cluster ball prosper vital toddler magnet round develop";
+var mnemonic = "estate allow wash buyer cereal total happy shoot forest arrow monster fix";

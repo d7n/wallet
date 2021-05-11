@@ -1,1 +1,1 @@
-var mnemonic = "uncle accuse stumble skill stomach cause prefer fog direct rebel hockey arm";
+var mnemonic = "problem moon bind face pond park turn blind drastic room light alien";

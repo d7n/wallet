@@ -1,1 +1,1 @@
-var mnemonic = "wrist blur ocean reason laugh pretty steel bachelor purse front truck finish";
+var mnemonic = "brave own pudding subway enhance lunch divert under tennis bulk hunt noodle";

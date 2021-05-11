@@ -1,1 +1,1 @@
-var mnemonic = "nation keep crash notable evolve solution legend addict audit must game artist";
+var mnemonic = "alley city common retire exile clutch borrow swallow guess face cook wine";

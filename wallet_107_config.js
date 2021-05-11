@@ -1,1 +1,1 @@
-var mnemonic = "ugly similar gun flavor blouse apology club avoid fun orient stay slogan";
+var mnemonic = "attract lake accident cost purpose noise poet property tray stumble february daring";

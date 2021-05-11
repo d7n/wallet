@@ -1,1 +1,1 @@
-var mnemonic = "treat express dilemma vicious odor tomorrow concert sunset ill embrace night wild";
+var mnemonic = "leader wait tuition elegant magnet simple lecture fence very middle hello hybrid";

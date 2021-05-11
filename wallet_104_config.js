@@ -1,1 +1,1 @@
-var mnemonic = "enact giraffe rate laptop only light nominee parrot loyal kid position staff";
+var mnemonic = "dynamic skin harvest place swear boring unaware census accuse purpose like elite";

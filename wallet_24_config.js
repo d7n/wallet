@@ -1,1 +1,1 @@
-var mnemonic = "afford craft little endorse bind relief tool pair network jump prosper slot";
+var mnemonic = "silver provide practice eagle response vapor rescue trick gentle gap salt bag";

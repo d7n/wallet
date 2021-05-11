@@ -1,1 +1,1 @@
-var mnemonic = "smooth hurdle achieve foster outdoor foil mansion day ready machine survey whale";
+var mnemonic = "industry globe acquire mom opinion response kit remind island shine omit grid";

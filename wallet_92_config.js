@@ -1,1 +1,1 @@
-var mnemonic = "budget road bamboo north rigid impose slush film fluid corn tomato cancel";
+var mnemonic = "speed beyond elephant also sketch afford square buyer boy hole lava marriage";

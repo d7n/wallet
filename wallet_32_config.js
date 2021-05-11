@@ -1,1 +1,1 @@
-var mnemonic = "gift bean suit essay raccoon barely title material junior awesome rookie arctic";
+var mnemonic = "keep high taxi output chase drift lava holiday nerve mule friend erase";

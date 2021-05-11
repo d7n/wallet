@@ -1,1 +1,1 @@
-var mnemonic = "ticket pottery tube match august scheme ill hotel put bring exact torch";
+var mnemonic = "wedding tobacco engage gallery invite bracket alcohol alarm neck together walk prize";

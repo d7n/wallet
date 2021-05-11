@@ -1,1 +1,1 @@
-var mnemonic = "food print genuine pluck day pepper smart garden kingdom remember donor drop";
+var mnemonic = "unit soon profit rotate chief oak humble aisle spring weekend coyote gun";

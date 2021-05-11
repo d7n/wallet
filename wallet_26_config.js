@@ -1,1 +1,1 @@
-var mnemonic = "hidden license dilemma build brown carbon stable park science clever brisk pear";
+var mnemonic = "liberty valve reveal interest scare exercise meadow claw priority jazz village start";

@@ -1,1 +1,1 @@
-var mnemonic = "amount delay stem begin opera valid bean real alien moon expose roast";
+var mnemonic = "bring rifle kite creek alter cousin real scorpion humble label sign barrel";

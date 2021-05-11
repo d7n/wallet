@@ -1,1 +1,1 @@
-var mnemonic = "arrest twenty glare basket negative own bone prepare invite taxi better energy";
+var mnemonic = "drip crew final punch bench group success craft unfold brain crunch earth";

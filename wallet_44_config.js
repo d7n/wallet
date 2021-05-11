@@ -1,1 +1,1 @@
-var mnemonic = "magnet cool wet crisp quick security green build diary bless region section";
+var mnemonic = "soup machine tree list shift daughter catch home ignore used praise runway";

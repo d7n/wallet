@@ -1,1 +1,1 @@
-var mnemonic = "flash mind term turkey inflict wish coin about shoulder amazing hammer canoe";
+var mnemonic = "exhaust tumble game million truly orbit illegal hill more series jump rival";

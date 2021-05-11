@@ -1,1 +1,1 @@
-var mnemonic = "coffee heavy strike useless banana swap trip brave immense miracle dinner pen";
+var mnemonic = "tower skin habit chaos hungry hunt blood picture animal derive sauce outside";

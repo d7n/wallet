@@ -1,1 +1,1 @@
-var mnemonic = "digital profit plate upset wild drive south cupboard castle sound possible receive";
+var mnemonic = "egg ice entry during spring sauce smooth conduct banner issue hollow dismiss";

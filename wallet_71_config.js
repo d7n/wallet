@@ -1,1 +1,1 @@
-var mnemonic = "neutral tiny grape tool belt champion unable switch visit matrix royal diagram";
+var mnemonic = "portion fish soldier pen alone language miracle winner night actual cloth blind";

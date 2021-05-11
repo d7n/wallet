@@ -1,1 +1,1 @@
-var mnemonic = "diamond tilt maid ostrich stuff near soda release raise casino eyebrow cute";
+var mnemonic = "good swarm various faint sing submit opera equal nest thumb scheme film";

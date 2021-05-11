@@ -1,1 +1,1 @@
-var mnemonic = "young orbit few favorite again wealth logic trust goddess state mimic camera";
+var mnemonic = "desert fork coffee power start engage inch country blanket rare reason turkey";

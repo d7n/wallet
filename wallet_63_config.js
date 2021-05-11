@@ -1,1 +1,1 @@
-var mnemonic = "piano infant gadget remain apology stone thought aspect thought runway cargo race";
+var mnemonic = "piano pupil entry sting stay gadget claim puzzle daughter fault rigid smoke";

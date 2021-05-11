@@ -1,1 +1,1 @@
-var mnemonic = "coral sketch furnace into grit run army chuckle ice kick learn twenty";
+var mnemonic = "circle timber alien blame skull project effort pitch token alley avocado into";

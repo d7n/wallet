@@ -1,1 +1,1 @@
-var mnemonic = "save agent marriage finish marriage helmet glance trip design combine someone path";
+var mnemonic = "virtual explain multiply brick art turtle donate ritual disagree label soup phone";

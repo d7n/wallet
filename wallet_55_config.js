@@ -1,1 +1,1 @@
-var mnemonic = "desert fancy speed easy trust sail blouse security then cactus expect host";
+var mnemonic = "undo prevent canal traffic diagram cancel echo addict own mix pizza cash";

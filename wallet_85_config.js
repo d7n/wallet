@@ -1,1 +1,1 @@
-var mnemonic = "post harbor advance glare letter know sphere evil slush raccoon draft dutch";
+var mnemonic = "december bonus confirm matter merge lounge winter road crazy injury airport tourist";

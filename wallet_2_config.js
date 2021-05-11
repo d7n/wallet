@@ -1,1 +1,1 @@
-var mnemonic = "sell empty report rival neglect spot math inquiry sphere injury judge anchor";
+var mnemonic = "plunge drastic source tuition wagon old coil flat bachelor one alarm eyebrow";

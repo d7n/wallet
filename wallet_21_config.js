@@ -1,1 +1,1 @@
-var mnemonic = "chapter away mixture secret urge attitude torch job sketch movie switch fatigue";
+var mnemonic = "original science save note review accuse clip rib adjust rocket silly gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "affair addict pattern license move gift fossil category pass sleep tomorrow vast";
+var mnemonic = "wood stamp relax because century cup sing bright helmet satisfy case general";

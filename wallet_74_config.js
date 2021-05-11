@@ -1,1 +1,1 @@
-var mnemonic = "poverty ginger junk law love quiz rebuild gaze inhale reason drive coach";
+var mnemonic = "vote latin diamond once discover home inspire tag churn siege minute food";

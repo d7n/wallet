@@ -1,1 +1,1 @@
-var mnemonic = "language require match dwarf actress buddy income regret evil cool estate gesture";
+var mnemonic = "dial light blossom toddler web reveal script snap school main rail bleak";

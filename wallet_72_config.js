@@ -1,1 +1,1 @@
-var mnemonic = "frost helmet broccoli once limit horn pizza bicycle fade style initial smile";
+var mnemonic = "explain sword soap toy that hen pepper expose code coconut abuse trust";

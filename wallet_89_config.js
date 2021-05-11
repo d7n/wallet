@@ -1,1 +1,1 @@
-var mnemonic = "moon artwork evolve omit record cram maid friend devote shy equal galaxy";
+var mnemonic = "trap hurry author copper news benefit chief powder surprise obvious fault dutch";

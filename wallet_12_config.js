@@ -1,1 +1,1 @@
-var mnemonic = "verify armor race stay wife sister process screen glad sleep ivory erase";
+var mnemonic = "hold luxury blade stamp play busy supreme gravity quick easily benefit matrix";

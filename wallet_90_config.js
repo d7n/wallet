@@ -1,1 +1,1 @@
-var mnemonic = "impact torch gauge assist adjust together length march analyst can sport source";
+var mnemonic = "link work rocket remember fault include pattern embark social cart secret amateur";

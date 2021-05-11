@@ -1,1 +1,1 @@
-var mnemonic = "notice exclude oven horror quiz elbow people invest bracket possible throw require";
+var mnemonic = "chimney yellow joke habit vital trust predict wage vault spice city early";

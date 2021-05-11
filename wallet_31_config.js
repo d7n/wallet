@@ -1,1 +1,1 @@
-var mnemonic = "raccoon gasp mercy spray palm tackle uniform visit find erase jeans search";
+var mnemonic = "uncover forum kind library solid hurdle crawl help category twin bounce gadget";

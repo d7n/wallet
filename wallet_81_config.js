@@ -1,1 +1,1 @@
-var mnemonic = "canoe jelly define consider program vacant drift very bottom project attack sniff";
+var mnemonic = "slot demise canvas forest knife powder soon cotton diary grocery time satoshi";

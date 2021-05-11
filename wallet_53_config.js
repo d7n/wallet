@@ -1,1 +1,1 @@
-var mnemonic = "public cool cube lock limb love key trophy balcony razor laugh cloud";
+var mnemonic = "soft income jewel orbit relax network first scare dilemma season mosquito scissors";
