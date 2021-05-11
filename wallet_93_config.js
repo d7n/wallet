@@ -1,1 +1,1 @@
-var mnemonic = "solar arrow parent across ritual timber fix gaze above mobile area obscure";
+var mnemonic = "home imitate deal gain novel kick apology manual bench cable eagle welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous hope brisk joy pledge company bracket license relax twist device dinosaur";
+var mnemonic = "media curious talk dwarf eagle meadow woman drip month census figure course";

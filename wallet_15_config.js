@@ -1,1 +1,1 @@
-var mnemonic = "vacuum inflict million spend catalog edge page donate wood under elevator urge";
+var mnemonic = "shoot position heart party section eagle blast device impact federal cram method";

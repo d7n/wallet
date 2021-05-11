@@ -1,1 +1,1 @@
-var mnemonic = "eye ski worth try swamp blade woman balance inquiry beyond apple fatigue";
+var mnemonic = "patient narrow nerve audit fabric tilt sketch casual rival useful kite behave";

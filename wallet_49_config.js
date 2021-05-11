@@ -1,1 +1,1 @@
-var mnemonic = "siege melt fury help income teach crawl flavor lonely panic indoor claim";
+var mnemonic = "grain shrimp govern drastic between manage picture club chuckle alarm taxi little";

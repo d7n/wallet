@@ -1,1 +1,1 @@
-var mnemonic = "hobby mixture century inside veteran floor middle wedding universe thank open shine";
+var mnemonic = "finger power slush eternal marble meadow skate sense mirror hard chef need";

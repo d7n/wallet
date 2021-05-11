@@ -1,1 +1,1 @@
-var mnemonic = "state unhappy jacket penalty horse tenant act you blur tell trumpet carry";
+var mnemonic = "crush outside impulse cruise panda attack kick december naive combine tragic man";

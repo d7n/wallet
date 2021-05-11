@@ -1,1 +1,1 @@
-var mnemonic = "bench bracket throw defy relax regular pipe vault guard company more attract";
+var mnemonic = "disorder draw visa sauce vast special desert print fall nature fossil false";

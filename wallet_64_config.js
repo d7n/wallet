@@ -1,1 +1,1 @@
-var mnemonic = "divorce wing sketch badge bench orient sentence chicken have month anger worth";
+var mnemonic = "alter cliff pole mesh waste stage crop double index debate mad ghost";

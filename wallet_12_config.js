@@ -1,1 +1,1 @@
-var mnemonic = "distance river hybrid radar purse curve deny tired hurry attitude team museum";
+var mnemonic = "develop clap cabin please live calm stereo split flash cram artefact property";

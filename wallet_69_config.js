@@ -1,1 +1,1 @@
-var mnemonic = "cluster space gate wheat target similar fence more panther barrel ranch diamond";
+var mnemonic = "shell never inspire hello bicycle capital fragile agree squeeze token online someone";

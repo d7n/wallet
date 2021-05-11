@@ -1,1 +1,1 @@
-var mnemonic = "column gun surge paper survey midnight clip rebel axis mobile gift twice";
+var mnemonic = "congress couch rude meat then mango crime thumb arrest pioneer execute movie";

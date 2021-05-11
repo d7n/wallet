@@ -1,1 +1,1 @@
-var mnemonic = "crime leisure napkin combine awesome frog farm picture school rough prison car";
+var mnemonic = "truly easy deposit tape involve skirt imitate genuine mandate blush prosper total";

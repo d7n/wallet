@@ -1,1 +1,1 @@
-var mnemonic = "wide heavy quiz canal latin brother bus can fence check enroll series";
+var mnemonic = "elbow region chimney monster pistol divert curious adjust daring october trick during";

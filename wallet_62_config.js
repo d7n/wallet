@@ -1,1 +1,1 @@
-var mnemonic = "job object property update rival tool occur age account father ring cinnamon";
+var mnemonic = "album ready among drift rifle pull impact error slide moon senior simple";

@@ -1,1 +1,1 @@
-var mnemonic = "detail wait deposit there concert ocean innocent transfer trouble uphold morning drum";
+var mnemonic = "marble rabbit already mad shadow cigar shove skate catch health crystal switch";

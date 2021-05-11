@@ -1,1 +1,1 @@
-var mnemonic = "soda screen second stereo coil head box street defense dwarf orphan shadow";
+var mnemonic = "diary rich just rent floor husband blur hammer witness person year animal";

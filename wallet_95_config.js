@@ -1,1 +1,1 @@
-var mnemonic = "shrug fan few village reduce mind echo basket unfold fun own canoe";
+var mnemonic = "shaft smile vicious travel dignity upon toy noodle magnet rate seven aspect";

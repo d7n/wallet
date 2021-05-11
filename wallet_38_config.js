@@ -1,1 +1,1 @@
-var mnemonic = "pig rely coral absent dice today come wage poem snake way sniff";
+var mnemonic = "web peace fashion equal step spirit since calm hunt seat spice tunnel";

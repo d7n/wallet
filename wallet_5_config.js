@@ -1,1 +1,1 @@
-var mnemonic = "truth simple stamp balance about mushroom exact cluster improve fluid false art";
+var mnemonic = "draw garbage claw ivory prison chicken banner someone exercise grass clump long";

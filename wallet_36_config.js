@@ -1,1 +1,1 @@
-var mnemonic = "split frost dragon invest foam piece cancel inject axis train bar rebel";
+var mnemonic = "exhibit arctic calm sausage peanut scrap distance loyal rate fog twist school";

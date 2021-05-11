@@ -1,1 +1,1 @@
-var mnemonic = "elevator refuse federal artefact license pact frequent body stadium wait vehicle joy";
+var mnemonic = "tattoo sketch food lens depth cradle title foil tag satisfy world school";

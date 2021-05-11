@@ -1,1 +1,1 @@
-var mnemonic = "bag silver act metal wheat gesture update spawn poet race bitter bridge";
+var mnemonic = "demise sleep kick tide sibling arrow excuse guide page erase into laptop";

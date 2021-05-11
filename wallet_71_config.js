@@ -1,1 +1,1 @@
-var mnemonic = "make west hat fantasy attract mask acid what zoo night saddle boat";
+var mnemonic = "element gorilla enhance cotton able fortune apart turtle sell undo reflect write";

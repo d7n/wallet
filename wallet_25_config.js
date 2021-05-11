@@ -1,1 +1,1 @@
-var mnemonic = "solution video guitar grant rain session rival switch suspect feature fiber sunny";
+var mnemonic = "kingdom almost smoke orbit sample humble can token kitten call ship chase";

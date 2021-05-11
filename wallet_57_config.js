@@ -1,1 +1,1 @@
-var mnemonic = "urban essay crunch wide merry same ring bunker size unaware stable industry";
+var mnemonic = "whip taste require near speak stumble globe energy balcony guide gaze river";

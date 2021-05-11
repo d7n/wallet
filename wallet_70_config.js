@@ -1,1 +1,1 @@
-var mnemonic = "strike close fine stove expand cousin evil crouch eye garlic mountain render";
+var mnemonic = "turtle long gauge inch start true orient agree neglect absent frog sleep";

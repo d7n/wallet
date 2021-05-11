@@ -1,1 +1,1 @@
-var mnemonic = "ship address tennis plunge decade team process maze nasty escape worth chief";
+var mnemonic = "diagram bamboo document mixed shadow resemble napkin hint forget floor asset laundry";

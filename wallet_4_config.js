@@ -1,1 +1,1 @@
-var mnemonic = "grid various leave eagle inherit roof clever pole sight scissors adjust paper";
+var mnemonic = "cruel labor evil square poem bottom disease critic patrol marine iron swing";

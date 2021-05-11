@@ -1,1 +1,1 @@
-var mnemonic = "pencil order perfect repair shrimp supply thing silly forward move merge spot";
+var mnemonic = "job pupil live cherry final love purity viable search since rifle stem";

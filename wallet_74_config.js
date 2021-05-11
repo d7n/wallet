@@ -1,1 +1,1 @@
-var mnemonic = "room average super detail expire spirit festival mesh original nephew direct sniff";
+var mnemonic = "myself gain wage balcony pass they sing brisk gasp fox draw achieve";

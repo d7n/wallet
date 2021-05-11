@@ -1,1 +1,1 @@
-var mnemonic = "fury south spray slice notice cream capital photo split frozen seat shoulder";
+var mnemonic = "raise dial cupboard matter grass sense agent modify course road weather turtle";

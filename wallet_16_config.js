@@ -1,1 +1,1 @@
-var mnemonic = "drastic begin giggle oak dizzy congress equip prosper horse undo noodle people";
+var mnemonic = "path note strong gain mix pool wink catch desert swallow age purity";

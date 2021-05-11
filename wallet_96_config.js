@@ -1,1 +1,1 @@
-var mnemonic = "hungry benefit success bike flip legal spend intact rhythm tortoise practice card";
+var mnemonic = "exhibit silver urge sorry moral super echo valley world very flat cry";

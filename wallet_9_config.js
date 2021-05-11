@@ -1,1 +1,1 @@
-var mnemonic = "artwork unknown open symptom lab cage phone catalog clump pigeon muscle issue";
+var mnemonic = "layer bamboo craft engage ill inmate limb call month display nurse total";

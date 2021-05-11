@@ -1,1 +1,1 @@
-var mnemonic = "knock traffic hint message kind symbol pencil little winter trumpet thought search";
+var mnemonic = "learn field vendor stadium cry example deny hamster bicycle wink wife shift";

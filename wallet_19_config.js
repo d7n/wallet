@@ -1,1 +1,1 @@
-var mnemonic = "like follow deliver mixed true adjust clip million hunt enhance news inject";
+var mnemonic = "brother below stuff pipe badge flag icon change giggle way define ivory";

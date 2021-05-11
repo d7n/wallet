@@ -1,1 +1,1 @@
-var mnemonic = "rally develop view blast dumb acquire demand cable gravity ill bid okay";
+var mnemonic = "proof entry mammal knife response try flock turkey double invest zone govern";

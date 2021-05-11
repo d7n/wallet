@@ -1,1 +1,1 @@
-var mnemonic = "good zebra friend help lizard onion shine beef boring swing very student";
+var mnemonic = "game thrive impact help shield nest vessel rather tumble forward elder present";

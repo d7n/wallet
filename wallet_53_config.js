@@ -1,1 +1,1 @@
-var mnemonic = "kidney assault rhythm immune category salmon require easily matrix suggest affair solution";
+var mnemonic = "federal mechanic lounge token wedding update injury sphere replace despair box naive";

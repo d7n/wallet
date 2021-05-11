@@ -1,1 +1,1 @@
-var mnemonic = "width liar trophy tobacco mention marine praise hockey asthma obvious grunt front";
+var mnemonic = "network trophy neutral jaguar body bone myself cable blast portion grab long";

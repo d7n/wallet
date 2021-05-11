@@ -1,1 +1,1 @@
-var mnemonic = "dirt pony physical silver panther smile permit emerge shrug meat idle cruel";
+var mnemonic = "insect frog apology crack accuse violin they usage save bench state paddle";

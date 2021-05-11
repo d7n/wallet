@@ -1,1 +1,1 @@
-var mnemonic = "hello hawk extra candy divide road autumn load orchard purse asset exclude";
+var mnemonic = "humor intact idea arrange love olive glass system grow primary garlic invest";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble swim body barrel case talk judge put abandon object blue daughter";
+var mnemonic = "penalty metal cinnamon cash screen pen figure luggage luggage start multiply motor";

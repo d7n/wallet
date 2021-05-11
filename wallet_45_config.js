@@ -1,1 +1,1 @@
-var mnemonic = "price decade rely view enact feel tornado side erase grass bread priority";
+var mnemonic = "fossil brass marriage spider life duty brave rabbit client light accuse antenna";

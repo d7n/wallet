@@ -1,1 +1,1 @@
-var mnemonic = "egg second grain doctor burst same hen list illness input uniform loyal";
+var mnemonic = "lawsuit shell fame luxury scrub assume stadium pair uncle inch truth path";

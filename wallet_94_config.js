@@ -1,1 +1,1 @@
-var mnemonic = "solution dry relax enter canyon capable leaf monster topic crane destroy usage";
+var mnemonic = "destroy bonus shadow three include sense rate match post grape same assault";

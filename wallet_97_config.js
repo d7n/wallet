@@ -1,1 +1,1 @@
-var mnemonic = "chef novel ivory wet glance six ahead bitter proud symbol autumn large";
+var mnemonic = "river erupt onion outside chase world soft refuse balcony sock silent chapter";

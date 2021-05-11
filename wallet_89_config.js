@@ -1,1 +1,1 @@
-var mnemonic = "peasant able replace wolf path napkin pear balance shoe deposit jaguar penalty";
+var mnemonic = "label typical expect skate neglect penalty boy forget harsh amount wave chest";

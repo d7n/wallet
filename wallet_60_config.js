@@ -1,1 +1,1 @@
-var mnemonic = "artist trigger collect cause labor provide lottery acquire nerve leave rail all";
+var mnemonic = "gun fog wise core weasel away execute myth extra food cheese bulk";

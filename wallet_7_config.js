@@ -1,1 +1,1 @@
-var mnemonic = "keep cannon image police syrup excess atom rose excess amused federal enemy";
+var mnemonic = "expect pill kitten exile lady process shaft remove snack outside proud anxiety";

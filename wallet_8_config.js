@@ -1,1 +1,1 @@
-var mnemonic = "quarter toe segment mixed keen eight cage glue physical rural video advance";
+var mnemonic = "tragic elder trade omit ancient equip oblige solar bid cereal mean trust";

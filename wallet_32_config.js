@@ -1,1 +1,1 @@
-var mnemonic = "employ media crash retire strategy other obey search air bottom boy day";
+var mnemonic = "pause garment unfair exile elegant dilemma outdoor panther hole deny theme glove";

@@ -1,1 +1,1 @@
-var mnemonic = "reform federal notice trust tennis zebra desk genuine table mean orbit promote";
+var mnemonic = "cancel point toilet base shoulder armor post correct ball ridge tilt scale";

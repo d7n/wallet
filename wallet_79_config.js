@@ -1,1 +1,1 @@
-var mnemonic = "comic build high sort never biology earth earth addict angle unaware swamp";
+var mnemonic = "sadness gate rent step march cargo amateur nose grocery hawk rely oxygen";

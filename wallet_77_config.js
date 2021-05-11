@@ -1,1 +1,1 @@
-var mnemonic = "involve shoe job pact pink quarter nature affair limb sail use august";
+var mnemonic = "hen embody vivid dismiss team steak clock need travel case tornado idea";

@@ -1,1 +1,1 @@
-var mnemonic = "flush empty wolf talent attack dial gravity where urge insect skull struggle";
+var mnemonic = "airport round mammal merge adjust conduct sudden bundle design fault pumpkin drop";

@@ -1,1 +1,1 @@
-var mnemonic = "calm either soldier virus profit avoid trial fan add great south window";
+var mnemonic = "juice during tenant satisfy water cube apart only minute drift lesson twenty";

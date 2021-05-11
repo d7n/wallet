@@ -1,1 +1,1 @@
-var mnemonic = "obvious pilot brush same ketchup tiger mask pill junk bread ozone payment";
+var mnemonic = "emotion lady endless fame luggage reopen merge hole print access pioneer blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt sign garage want happy wrong snow excess like inch shield clarify";
+var mnemonic = "roast print detect biology where battle place blush access spy inflict price";

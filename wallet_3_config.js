@@ -1,1 +1,1 @@
-var mnemonic = "together announce sibling clinic room basic lemon into prevent unlock skirt few";
+var mnemonic = "relief judge pilot month blind word leg inherit firm finger settle shed";

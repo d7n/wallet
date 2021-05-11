@@ -1,1 +1,1 @@
-var mnemonic = "rent history end eagle accuse slam nation tree because gas romance fish";
+var mnemonic = "rather ignore enroll habit infant around model ramp program naive box erosion";

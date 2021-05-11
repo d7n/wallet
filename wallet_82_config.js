@@ -1,1 +1,1 @@
-var mnemonic = "skate mobile also else baby senior crazy spice rule fish can actual";
+var mnemonic = "egg jump bottom reform purse glove want enact suggest room pepper benefit";

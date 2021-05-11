@@ -1,1 +1,1 @@
-var mnemonic = "frown measure latin amount squeeze candy insect acoustic illness item antenna supply";
+var mnemonic = "alarm tail category process typical unlock raccoon predict exclude axis someone globe";

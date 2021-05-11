@@ -1,1 +1,1 @@
-var mnemonic = "seek face vivid narrow tube minimum goat indoor aunt you once regret";
+var mnemonic = "involve able race purity leisure beef spatial cabin coin food feature green";

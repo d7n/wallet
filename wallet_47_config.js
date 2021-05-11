@@ -1,1 +1,1 @@
-var mnemonic = "outdoor civil park explain solar slice fox dry invest language jazz slight";
+var mnemonic = "sad mystery citizen system lake alarm devote until universe dune stock notice";

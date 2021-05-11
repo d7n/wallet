@@ -1,1 +1,1 @@
-var mnemonic = "suffer miracle valley public avocado mother spin oyster worry gain sick hero";
+var mnemonic = "squeeze wine bunker six unfair leader other borrow hat cage edge goose";

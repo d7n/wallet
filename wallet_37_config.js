@@ -1,1 +1,1 @@
-var mnemonic = "social day mistake slush fame simple neck twist erode trigger inside eight";
+var mnemonic = "east meat era drum december ancient scare family busy music air banner";

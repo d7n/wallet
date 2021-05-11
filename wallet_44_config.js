@@ -1,1 +1,1 @@
-var mnemonic = "able floor marriage attitude crane crumble kid document defense enlist aerobic object";
+var mnemonic = "future oxygen that glow spy flee hard woman direct menu confirm cute";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure enjoy hotel analyst dice valid acoustic crime bachelor industry gate blossom";
+var mnemonic = "sustain video shield author sugar claw food fringe admit ghost stove suffer";

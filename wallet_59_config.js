@@ -1,1 +1,1 @@
-var mnemonic = "across spell bonus hungry drift monitor practice tell dice daring awesome split";
+var mnemonic = "fade either anger seed economy weasel focus leopard dust dentist sheriff barely";

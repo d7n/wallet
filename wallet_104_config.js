@@ -1,1 +1,1 @@
-var mnemonic = "dust slot denial glove victory void sign clock reflect bamboo pool unlock";
+var mnemonic = "release differ absurd festival combine inch foil offer gas symbol stamp gorilla";

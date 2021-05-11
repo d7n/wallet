@@ -1,1 +1,1 @@
-var mnemonic = "thought resource shuffle dutch rose illness flush february stadium agent glove shrimp";
+var mnemonic = "garlic guilt inhale piece list position push leopard option garden visa laundry";

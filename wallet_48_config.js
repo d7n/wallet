@@ -1,1 +1,1 @@
-var mnemonic = "era hidden boat jealous ring space wire upgrade spawn velvet limb expose";
+var mnemonic = "couch verify infant spoil crater hockey child below track globe seat embrace";

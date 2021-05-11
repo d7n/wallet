@@ -1,1 +1,1 @@
-var mnemonic = "degree bamboo remove elder sort phone bubble bulb wine symptom second myself";
+var mnemonic = "quote merit absorb special person cushion slight maple siege cube honey output";

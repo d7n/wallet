@@ -1,1 +1,1 @@
-var mnemonic = "wait disagree prepare whale radar place nuclear knock mule observe ignore exhibit";
+var mnemonic = "family eyebrow leave upon main divorce stairs catalog adapt spell baby party";

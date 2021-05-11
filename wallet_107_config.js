@@ -1,1 +1,1 @@
-var mnemonic = "unveil clutch only concert convince size pen inmate book knife shell poem";
+var mnemonic = "fatigue burger ordinary vintage end away key race keen display surprise virus";

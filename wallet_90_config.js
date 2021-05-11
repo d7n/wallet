@@ -1,1 +1,1 @@
-var mnemonic = "galaxy distance museum melody slim surface matter they drink loud grunt alien";
+var mnemonic = "erase expand shy unlock library shield unusual student thing reward rebuild trumpet";

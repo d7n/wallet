@@ -1,1 +1,1 @@
-var mnemonic = "solar equip steak monster spray amused river kite fence exist flag hard";
+var mnemonic = "young dwarf angry pencil theme exercise oak cry wink people jacket school";

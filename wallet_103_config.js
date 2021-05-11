@@ -1,1 +1,1 @@
-var mnemonic = "kingdom garment economy mesh ginger hazard media exchange property truth bird film";
+var mnemonic = "usual crumble wonder erosion happy license hotel skin era sort multiply surprise";

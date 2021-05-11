@@ -1,1 +1,1 @@
-var mnemonic = "slight local rebel brown forest cancel impose wealth run retire unable blur";
+var mnemonic = "kitten tide layer grab roof episode fish crack valve stamp member choose";

@@ -1,1 +1,1 @@
-var mnemonic = "water electric under genius crash surround kid actor zone use poverty sausage";
+var mnemonic = "over coyote diagram produce try limit north rubber depart bean exit rough";

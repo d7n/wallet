@@ -1,1 +1,1 @@
-var mnemonic = "sing online sleep lawsuit frequent gasp vague final rude mind deposit happy";
+var mnemonic = "letter heavy summer veteran true spawn bulb swing ball limit rough elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "play area actor middle enforce emotion half trash reveal same nature expand";
+var mnemonic = "number biology tell mention horror member reflect mouse debate seat exercise master";

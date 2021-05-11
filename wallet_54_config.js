@@ -1,1 +1,1 @@
-var mnemonic = "neutral scrub reason hybrid weasel biology cactus beach rubber gain ceiling marble";
+var mnemonic = "unaware horn chief please tomato group resist accident fade betray hockey renew";

@@ -1,1 +1,1 @@
-var mnemonic = "grant liquid canal honey enroll spice warm say call squeeze barrel shock";
+var mnemonic = "what crunch doctor fine credit hard high beach stick elder van rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "fold size style cool bamboo embody figure myself punch love fury normal";
+var mnemonic = "scale evoke poet ball old police phrase sing abuse ethics giggle agent";
