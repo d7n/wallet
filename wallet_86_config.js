@@ -1,1 +1,1 @@
-var mnemonic = "museum tired mountain yellow issue churn elder pact nest select deputy razor";
+var mnemonic = "glow human crazy learn genre trap equal risk zone shoulder legal stage";

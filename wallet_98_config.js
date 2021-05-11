@@ -1,1 +1,1 @@
-var mnemonic = "exact change analyst open destroy vintage script jar quiz grant scrub punch";
+var mnemonic = "spread short reason tilt glass melt eager general wage measure option umbrella";

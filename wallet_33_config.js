@@ -1,1 +1,1 @@
-var mnemonic = "invest flat still soul describe economy win mushroom traffic produce usual gun";
+var mnemonic = "adult iron flee squeeze problem goat prepare transfer into popular model excite";

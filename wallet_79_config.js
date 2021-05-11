@@ -1,1 +1,1 @@
-var mnemonic = "jungle hurt real blind innocent until shift curve smile about bring judge";
+var mnemonic = "depend boil beef oyster obscure jacket lyrics draw grant furnace ivory garden";

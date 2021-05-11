@@ -1,1 +1,1 @@
-var mnemonic = "afford little image crop equip hamster focus never raw air omit stick";
+var mnemonic = "drastic answer token sister coast truly accuse tail left piece symptom disorder";

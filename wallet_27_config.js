@@ -1,1 +1,1 @@
-var mnemonic = "category scale net park space shed ice skin patrol symbol marble code";
+var mnemonic = "nothing rain right company section pretty number soon version parade mixed tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "rare copy quit hold upgrade invest device uncle friend panel ginger jealous";
+var mnemonic = "bomb calm century top mimic detect endless enroll visit horn basic course";

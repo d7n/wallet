@@ -1,1 +1,1 @@
-var mnemonic = "pill orange produce swamp drastic convince trial shine input excite talent rotate";
+var mnemonic = "improve usage goat custom bomb garden design fat grocery admit chronic you";

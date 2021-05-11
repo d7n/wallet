@@ -1,1 +1,1 @@
-var mnemonic = "know pill circle reopen budget admit soon exercise theory shift monkey crisp";
+var mnemonic = "code piece negative return lecture minute label crunch task enlist prepare spoil";

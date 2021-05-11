@@ -1,1 +1,1 @@
-var mnemonic = "misery rug service galaxy blind electric bread fatal imitate hood mystery wealth";
+var mnemonic = "receive barely fringe van casual dynamic nature luggage grape plunge math subway";

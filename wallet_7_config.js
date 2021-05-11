@@ -1,1 +1,1 @@
-var mnemonic = "devote surround ribbon admit lion spin scrap unaware miracle gentle razor immense";
+var mnemonic = "remain menu virus enrich cook hope solution ignore speed hero remind gift";

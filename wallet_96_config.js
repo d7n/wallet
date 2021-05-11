@@ -1,1 +1,1 @@
-var mnemonic = "oval satoshi expand unable project beach civil word float couch deposit festival";
+var mnemonic = "story car art jar shaft daughter below unlock funny fossil spare nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy feed label sea treat lift short cluster tired verb six box";
+var mnemonic = "popular finger achieve angry other wrong account family august vague oxygen grief";

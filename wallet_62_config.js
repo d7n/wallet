@@ -1,1 +1,1 @@
-var mnemonic = "virtual supply loan devote first only flush weekend december gadget volume expose";
+var mnemonic = "gap isolate coast live panic among license ignore video hammer piano inhale";

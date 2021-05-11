@@ -1,1 +1,1 @@
-var mnemonic = "clerk truth merge border submit predict input flat punch market world august";
+var mnemonic = "cart coffee glow pill off gap unit music emerge special vast design";

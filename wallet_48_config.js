@@ -1,1 +1,1 @@
-var mnemonic = "fortune glass record foil include rally raven magnet punch fatigue rhythm diesel";
+var mnemonic = "evidence mail mechanic edge moment green merry execute loan twice ecology city";

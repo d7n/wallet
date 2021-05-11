@@ -1,1 +1,1 @@
-var mnemonic = "test angle fatigue grunt carpet clutch fog volcano cliff horror mystery toss";
+var mnemonic = "scare burden sad antique reason head virus sustain general extra peace marine";

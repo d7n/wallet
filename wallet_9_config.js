@@ -1,1 +1,1 @@
-var mnemonic = "arctic eagle force bless program inherit oxygen acid alter bachelor tuition sustain";
+var mnemonic = "layer old heavy empty fiber toward install front ghost speak kingdom film";

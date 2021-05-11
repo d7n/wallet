@@ -1,1 +1,1 @@
-var mnemonic = "clown wing home science brass asset praise strategy jump vivid beach common";
+var mnemonic = "cloud obscure creek dynamic vote arctic rely deer actress crash embark mirror";

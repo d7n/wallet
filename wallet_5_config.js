@@ -1,1 +1,1 @@
-var mnemonic = "order waste choose pattern disagree panel retreat tuna loop wave depend light";
+var mnemonic = "name badge unfair cruise cannon snow wire junior already early tennis become";

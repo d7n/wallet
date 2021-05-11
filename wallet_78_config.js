@@ -1,1 +1,1 @@
-var mnemonic = "gentle material inhale caution enable genre faith street fence rabbit review dutch";
+var mnemonic = "actor bracket advance oval tennis version long voyage laugh lady please twelve";

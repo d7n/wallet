@@ -1,1 +1,1 @@
-var mnemonic = "grid bean giggle puppy error market mountain level garbage transfer spike blur";
+var mnemonic = "deal link diesel run volume pact crawl doll option junior hello pig";

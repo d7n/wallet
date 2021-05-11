@@ -1,1 +1,1 @@
-var mnemonic = "wasp clerk grid dust mail diary upset badge ghost load egg truck";
+var mnemonic = "pluck swallow spring sponsor pelican cycle sadness siren barrel deal shallow uncover";

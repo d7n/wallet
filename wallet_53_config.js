@@ -1,1 +1,1 @@
-var mnemonic = "depart range wage buzz usage bottom match entire gun impose hub brand";
+var mnemonic = "glow arctic stem person accuse hungry bind blush various donkey sleep ten";

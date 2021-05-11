@@ -1,1 +1,1 @@
-var mnemonic = "dolphin method earth interest clap cereal punch left agree topple steak trigger";
+var mnemonic = "main all turtle burden device strategy valid road certain reveal strong thank";

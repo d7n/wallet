@@ -1,1 +1,1 @@
-var mnemonic = "rate canoe blade angle milk lyrics memory pyramid argue head random south";
+var mnemonic = "keen news plunge sentence inject lift service scale mountain cage note favorite";

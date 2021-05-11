@@ -1,1 +1,1 @@
-var mnemonic = "response congress urge repair grief arena staff deliver cake throw wave addict";
+var mnemonic = "elite blade recall alert snap wrong charge side road pumpkin perfect rug";

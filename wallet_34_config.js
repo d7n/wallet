@@ -1,1 +1,1 @@
-var mnemonic = "sheriff feature blade math hundred muscle magic hospital nurse maid unusual soon";
+var mnemonic = "venue laundry animal vessel fetch profit modify furnace myth mistake skin rival";

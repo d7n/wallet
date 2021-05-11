@@ -1,1 +1,1 @@
-var mnemonic = "trim include tonight cake nation market stand around design tornado judge trumpet";
+var mnemonic = "oppose bargain video struggle road someone ramp jungle blossom weapon lyrics already";

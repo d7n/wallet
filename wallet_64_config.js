@@ -1,1 +1,1 @@
-var mnemonic = "stuff today gaze donor arm camera chair assault palace museum neither water";
+var mnemonic = "exact crystal object unhappy oak prize law abstract slab expose surprise gather";

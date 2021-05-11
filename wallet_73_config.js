@@ -1,1 +1,1 @@
-var mnemonic = "already liberty practice eagle hawk olympic ridge fluid cream legend crazy potato";
+var mnemonic = "quote involve fly fish they walnut faculty problem wolf adapt match forward";

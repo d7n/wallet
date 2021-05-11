@@ -1,1 +1,1 @@
-var mnemonic = "asset sand turn use pulp lumber ten before industry sight fuel cycle";
+var mnemonic = "current special else minor believe kiwi dragon winter mask faint clump nature";

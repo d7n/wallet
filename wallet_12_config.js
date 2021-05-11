@@ -1,1 +1,1 @@
-var mnemonic = "bus oxygen engage quality choose burger style ghost output forget venue this";
+var mnemonic = "virus error enhance valid flush topple kangaroo hidden anger team mesh day";

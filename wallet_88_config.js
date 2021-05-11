@@ -1,1 +1,1 @@
-var mnemonic = "curve hand home enjoy twin deliver fortune rural price tired cigar fox";
+var mnemonic = "glimpse stuff armed float project endorse media stay holiday utility fringe smile";

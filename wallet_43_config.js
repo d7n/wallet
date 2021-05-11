@@ -1,1 +1,1 @@
-var mnemonic = "obey live gossip dizzy devote husband permit goat method fence couple pyramid";
+var mnemonic = "silk code detail cousin zebra warm furnace float man timber expand letter";

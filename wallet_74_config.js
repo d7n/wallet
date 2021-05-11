@@ -1,1 +1,1 @@
-var mnemonic = "obtain always comfort fine riot mirror useless evoke glance simple risk submit";
+var mnemonic = "melt repair uncover elevator butter talk cushion immune toilet spoon true knee";

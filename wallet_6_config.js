@@ -1,1 +1,1 @@
-var mnemonic = "before tattoo until panic tomato radar cigar pink muffin stereo later hood";
+var mnemonic = "sauce chef occur general second distance parade boost element cinnamon nasty garden";

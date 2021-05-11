@@ -1,1 +1,1 @@
-var mnemonic = "dice mixture shift mandate dog shock physical monkey labor mosquito jacket gorilla";
+var mnemonic = "topple jelly hollow clip scheme host bright fish member brain trust spatial";

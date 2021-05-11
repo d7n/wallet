@@ -1,1 +1,1 @@
-var mnemonic = "loud flock exit away sugar edge silver plug tray craft marble toss";
+var mnemonic = "term thought unfold cream under sight rally write total bunker speak glove";

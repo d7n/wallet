@@ -1,1 +1,1 @@
-var mnemonic = "arrow exact ill gauge enforce swing obscure violin scissors rail poverty ladder";
+var mnemonic = "cliff autumn degree tent endorse surge this pretty evil someone screen sword";

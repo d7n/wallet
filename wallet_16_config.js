@@ -1,1 +1,1 @@
-var mnemonic = "throw provide foil risk boss sketch suspect hamster right shiver asset cover";
+var mnemonic = "electric wrap predict provide chair rigid sign choice vague unusual monster napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "shift wool close cigar when muffin corn rent robot feature patch cigar";
+var mnemonic = "napkin oval tube produce correct bicycle sniff civil display entire write rabbit";

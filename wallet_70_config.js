@@ -1,1 +1,1 @@
-var mnemonic = "behave manage used attitude young equal cabin jeans volume pelican confirm alien";
+var mnemonic = "burger say ecology portion feed version miss bridge keen giggle fence neither";

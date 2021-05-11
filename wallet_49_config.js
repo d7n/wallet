@@ -1,1 +1,1 @@
-var mnemonic = "glow cage flower crawl huge wet cup maple parade example remind direct";
+var mnemonic = "yard bike brass feature frozen tank matter laundry dynamic spice slush symptom";

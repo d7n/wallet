@@ -1,1 +1,1 @@
-var mnemonic = "utility father top avocado bag party practice matrix meat bamboo inhale knee";
+var mnemonic = "avocado assist jewel menu window silver giant photo orbit another render crime";

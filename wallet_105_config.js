@@ -1,1 +1,1 @@
-var mnemonic = "garment veteran enhance immense cancel squirrel october cluster height logic pledge level";
+var mnemonic = "swarm act action decline venture void napkin random little album hospital humble";

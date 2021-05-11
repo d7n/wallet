@@ -1,1 +1,1 @@
-var mnemonic = "effort salad heart park salmon debate armed error reason genre certain inside";
+var mnemonic = "fall camera pluck finger wage diary blur raw weather south place skill";

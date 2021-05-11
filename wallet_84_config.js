@@ -1,1 +1,1 @@
-var mnemonic = "detail evil end tattoo elegant orange useful afford cross van high spider";
+var mnemonic = "uphold soldier sure interest method buyer flee when smart usual moral damp";

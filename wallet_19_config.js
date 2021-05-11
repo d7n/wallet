@@ -1,1 +1,1 @@
-var mnemonic = "spare before left identify digital reopen input grace fiction lecture song drama";
+var mnemonic = "dismiss woman cover visit initial crack gas ahead crumble warrior stamp bag";

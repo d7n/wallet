@@ -1,1 +1,1 @@
-var mnemonic = "angry shop tube country east sugar turtle update lonely book helmet brother";
+var mnemonic = "aspect machine hello speak report science crew protect scare remain clap van";

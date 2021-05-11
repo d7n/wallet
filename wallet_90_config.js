@@ -1,1 +1,1 @@
-var mnemonic = "ship steel fringe sunny stumble chapter bean ring puppy advance parent wedding";
+var mnemonic = "vintage perfect jar damage intact sunset witness water inject purchase leaf magnet";

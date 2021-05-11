@@ -1,1 +1,1 @@
-var mnemonic = "bounce please coin stadium helmet puzzle minute breeze response now twelve clip";
+var mnemonic = "bottom noodle surround unique roast south kid virus asset moon prize thing";

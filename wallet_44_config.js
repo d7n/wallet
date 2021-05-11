@@ -1,1 +1,1 @@
-var mnemonic = "actress catch cloth defy mandate castle frown crew shift enlist wheat clown";
+var mnemonic = "soft stamp welcome ball olive admit tragic arrive such cool mom gift";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid foil december series hello room dad panda east bench ostrich steel";
+var mnemonic = "choice immune brown upgrade anchor scheme leader vendor injury simple boring cave";

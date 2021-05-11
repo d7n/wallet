@@ -1,1 +1,1 @@
-var mnemonic = "state economy mountain galaxy camp false music obvious dynamic garden sheriff rug";
+var mnemonic = "rhythm crater clip repair embrace fitness toss flame weather elite butter exchange";

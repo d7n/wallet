@@ -1,1 +1,1 @@
-var mnemonic = "speed size sudden nation income vapor involve uphold else pink twin alone";
+var mnemonic = "tourist hero target nature liar into silent spring success voyage swear shallow";

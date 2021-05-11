@@ -1,1 +1,1 @@
-var mnemonic = "place famous intact sphere speed bargain curious bike sing attract describe view";
+var mnemonic = "solve evoke twelve effort sort physical dust ritual reopen pill buyer penalty";

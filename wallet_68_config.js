@@ -1,1 +1,1 @@
-var mnemonic = "supply fade setup pottery task panic airport private history vicious buddy august";
+var mnemonic = "health reflect neither sample easy knock anger mistake series example empower bless";

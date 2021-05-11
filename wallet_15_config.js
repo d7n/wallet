@@ -1,1 +1,1 @@
-var mnemonic = "bus quality north forum above federal era teach buffalo roast index harsh";
+var mnemonic = "tuna world access obey wish act brave lawsuit news weekend tornado plug";

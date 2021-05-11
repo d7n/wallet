@@ -1,1 +1,1 @@
-var mnemonic = "faculty bid humor sunset giraffe foil waste page waste mix vivid risk";
+var mnemonic = "infant eagle uphold deposit zero lemon jump eye lesson inform fun gap";

@@ -1,1 +1,1 @@
-var mnemonic = "chat vessel garage useless jealous usage answer potato gorilla lizard scare resist";
+var mnemonic = "cry couple duck drive divorce safe bulb tag genuine crucial eyebrow potato";

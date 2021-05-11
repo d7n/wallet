@@ -1,1 +1,1 @@
-var mnemonic = "measure trim glide tray horror dish normal robot venue horror hole electric";
+var mnemonic = "swap select clump three shrug dolphin token sketch weird method brisk trade";

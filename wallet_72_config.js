@@ -1,1 +1,1 @@
-var mnemonic = "bonus cement initial pair riot art online marriage angle post inhale beach";
+var mnemonic = "quiz wife rough write cement fine bacon weekend hood design act chaos";

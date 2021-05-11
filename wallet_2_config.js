@@ -1,1 +1,1 @@
-var mnemonic = "muffin saddle spirit tank build neutral solution weather connect write attitude hazard";
+var mnemonic = "grocery move penalty final mule alien canal bundle middle upset where between";

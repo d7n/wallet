@@ -1,1 +1,1 @@
-var mnemonic = "load genuine promote song forum try window wedding injury scheme license lunar";
+var mnemonic = "scrub tornado poverty humor blouse casino burst expand never squirrel gym rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "apple dance south butter forward erupt notable noodle toast canoe village afford";
+var mnemonic = "check real such napkin client giraffe cattle pen ancient lonely patient expand";

@@ -1,1 +1,1 @@
-var mnemonic = "noise jazz grab supreme jump clarify leaf talent reason fury report gauge";
+var mnemonic = "episode blood athlete rival face gate goat ribbon join diet loyal infant";

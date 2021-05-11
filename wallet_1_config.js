@@ -1,1 +1,1 @@
-var mnemonic = "clock such jeans void clump open cup swamp hurdle unique expand tail";
+var mnemonic = "ignore quote broom crucial real wine prize hire stereo laptop window behind";

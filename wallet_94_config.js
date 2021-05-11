@@ -1,1 +1,1 @@
-var mnemonic = "grit clap sibling limb arrest second guide select opinion monster account upper";
+var mnemonic = "immense drum supply palm junior pipe between hunt awake shop extend couple";

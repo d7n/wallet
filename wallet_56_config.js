@@ -1,1 +1,1 @@
-var mnemonic = "betray lonely fantasy boost boil add excess couch rib coconut loud chat";
+var mnemonic = "symptom scissors innocent welcome link search penalty mushroom december ship toast surge";

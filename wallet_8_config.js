@@ -1,1 +1,1 @@
-var mnemonic = "where office foil educate remember daring public unfair manage awkward suit season";
+var mnemonic = "lens spend field waste sniff wrestle liberty stable adapt grit trouble shiver";

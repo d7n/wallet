@@ -1,1 +1,1 @@
-var mnemonic = "seven rifle found latin office region retreat armed pact second cattle voyage";
+var mnemonic = "orbit famous anchor garden domain foil myth box immune sense depart spoil";

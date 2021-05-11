@@ -1,1 +1,1 @@
-var mnemonic = "merry summer pepper merge ozone injury casual weather push horror jelly pause";
+var mnemonic = "dream consider inner such amazing lazy describe success win minimum mail cradle";

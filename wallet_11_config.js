@@ -1,1 +1,1 @@
-var mnemonic = "doctor session wage occur spare fury sibling casual choice swap oval erase";
+var mnemonic = "payment undo print genuine know else depart party dust tone fun position";

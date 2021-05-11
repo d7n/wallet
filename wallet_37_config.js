@@ -1,1 +1,1 @@
-var mnemonic = "turn knee hundred quiz sentence filter truth deny path kite affair strong";
+var mnemonic = "test process awesome ability hope quality discover burger dance scorpion onion minor";

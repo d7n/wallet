@@ -1,1 +1,1 @@
-var mnemonic = "meadow embrace warm want torch force laundry become clever crop execute excuse";
+var mnemonic = "adapt crisp riot saddle web adapt ozone diary stage knock velvet penalty";

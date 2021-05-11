@@ -1,1 +1,1 @@
-var mnemonic = "build better assault sponsor unfair space funny problem garlic cost collect envelope";
+var mnemonic = "bridge never onion humor strong nothing twist garage whip script judge census";

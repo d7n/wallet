@@ -1,1 +1,1 @@
-var mnemonic = "sample identify bounce shove resource twist film deliver gloom tooth scout high";
+var mnemonic = "multiply degree inquiry consider mail shine submit gallery tourist profit raise flame";

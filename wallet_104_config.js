@@ -1,1 +1,1 @@
-var mnemonic = "cargo soup describe innocent ritual cup rather anxiety hill aerobic anxiety approve";
+var mnemonic = "half shiver depend square globe fiscal void million pioneer stone volcano comic";

@@ -1,1 +1,1 @@
-var mnemonic = "chef tone manual aim elder honey swarm universe hard impulse perfect floor";
+var mnemonic = "credit ask peasant like recycle year coil interest scale theme release domain";

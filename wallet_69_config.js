@@ -1,1 +1,1 @@
-var mnemonic = "dial burst torch proof canyon urge scale cluster rally essay immense barely";
+var mnemonic = "caution express range cricket carbon text century legend garment play practice private";

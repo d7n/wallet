@@ -1,1 +1,1 @@
-var mnemonic = "hair pipe lamp scout spice arrest guide conduct price valley shuffle hurdle";
+var mnemonic = "pear inmate man sport face gather voyage tragic lava fever filter holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi junior equip quiz taste key sign select romance clap hamster citizen";
+var mnemonic = "beef stand woman pluck snap crush profit dream trial rack cat tower";

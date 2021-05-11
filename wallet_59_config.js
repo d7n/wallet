@@ -1,1 +1,1 @@
-var mnemonic = "vivid hire west figure seat picnic jaguar soda million vicious employ paper";
+var mnemonic = "noise wise fetch clutch sphere rebuild glow corn mother sudden cool fold";

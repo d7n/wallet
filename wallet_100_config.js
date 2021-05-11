@@ -1,1 +1,1 @@
-var mnemonic = "tongue message buddy outdoor canoe maximum machine resist leader shrug lesson poet";
+var mnemonic = "flag run olive current broken engine sunny acid february shift dune gadget";

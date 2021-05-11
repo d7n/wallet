@@ -1,1 +1,1 @@
-var mnemonic = "average tuna thrive unfold saddle crisp once oyster only post because chapter";
+var mnemonic = "list couple corn surprise friend oven creek notable toward door panther dream";

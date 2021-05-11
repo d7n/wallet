@@ -1,1 +1,1 @@
-var mnemonic = "flight warrior dune theme sleep mixture drive choice ridge vault bullet parade";
+var mnemonic = "tunnel taxi venue dentist damp behind sick police saddle rail science clock";

@@ -1,1 +1,1 @@
-var mnemonic = "such rug trash air supply small warrior genius lesson dust dream flag";
+var mnemonic = "couch arrest ill couch alien issue off dinner cream lens craft tattoo";

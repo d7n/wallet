@@ -1,1 +1,1 @@
-var mnemonic = "upon hip diesel purchase weekend remain raise undo display bone setup moment";
+var mnemonic = "grass bulb flat security panda result card write museum imitate brass kiwi";

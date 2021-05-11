@@ -1,1 +1,1 @@
-var mnemonic = "style water course grape dress arrange train blade hole find sock farm";
+var mnemonic = "basket fashion length reject humor game smart ski duty demise simple rice";

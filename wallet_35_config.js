@@ -1,1 +1,1 @@
-var mnemonic = "yellow village prize digital another genius degree clip clean level hour cactus";
+var mnemonic = "bitter place suggest space power point will chalk artwork clever host mercy";

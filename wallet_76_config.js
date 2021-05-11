@@ -1,1 +1,1 @@
-var mnemonic = "pig gather inside inflict weather claw dune sort attract issue lizard portion";
+var mnemonic = "disorder adult flee account cage ticket rule core slot bird seven inmate";

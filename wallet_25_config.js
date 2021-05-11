@@ -1,1 +1,1 @@
-var mnemonic = "illegal exclude fragile armed bulb soccer harvest delay detail dismiss syrup chase";
+var mnemonic = "change shed skin blur bonus logic oak nasty skirt pause alley ask";
