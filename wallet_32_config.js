@@ -1,1 +1,1 @@
-var mnemonic = "earth brief able dilemma grace level motion relief sugar apple awkward chat";
+var mnemonic = "dish siege kitchen rough vendor meadow unknown add prevent stumble patient bike";

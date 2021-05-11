@@ -1,1 +1,1 @@
-var mnemonic = "happy once dynamic pig public attack cycle camp biology wish work fiction";
+var mnemonic = "gap reflect execute ignore clock skirt forget hover rebuild inhale base current";

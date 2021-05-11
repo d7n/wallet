@@ -1,1 +1,1 @@
-var mnemonic = "cricket allow regret jewel test ostrich obscure insect dinner reunion doctor type";
+var mnemonic = "bamboo promote satoshi park elder gap decade fun leader toddler add calm";

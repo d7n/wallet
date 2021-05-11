@@ -1,1 +1,1 @@
-var mnemonic = "frost brick bargain churn east glue cycle left tomato fantasy beauty snow";
+var mnemonic = "shoe rubber stereo seven bean useful inflict swap harsh ramp phone rain";

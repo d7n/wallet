@@ -1,1 +1,1 @@
-var mnemonic = "flat forward divorce thing hospital adult project rotate tattoo polar together comfort";
+var mnemonic = "angry sponsor divorce donkey color place exile flock rent deputy protect segment";

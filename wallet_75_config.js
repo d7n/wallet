@@ -1,1 +1,1 @@
-var mnemonic = "fence begin produce corn often midnight science day ordinary shed fan corn";
+var mnemonic = "jazz copy total assume baby forum clever cable reflect work law duck";

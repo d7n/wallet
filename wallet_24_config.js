@@ -1,1 +1,1 @@
-var mnemonic = "tent belt asset claw install retreat model attitude truly awesome farm clay";
+var mnemonic = "sustain toilet real axis visit sleep love clinic return off order coyote";

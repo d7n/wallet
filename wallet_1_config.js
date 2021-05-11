@@ -1,1 +1,1 @@
-var mnemonic = "blush cup either attitude afford any junior spell oil outside pony school";
+var mnemonic = "lift solar hazard simple enact north topple live pact series poet know";

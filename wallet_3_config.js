@@ -1,1 +1,1 @@
-var mnemonic = "great rare action follow spy wonder wrist trophy capital chalk easily amount";
+var mnemonic = "warm shuffle coconut become vapor guitar creek fresh meadow deer gospel goose";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow calm pattern stand acoustic solution miss either vacant body sheriff strategy";
+var mnemonic = "mutual cycle outside eyebrow ribbon bicycle desk prepare brand mad census spatial";

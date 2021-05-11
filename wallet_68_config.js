@@ -1,1 +1,1 @@
-var mnemonic = "original execute toilet sun similar soft people fun trust vibrant energy output";
+var mnemonic = "crash helmet teach poverty weasel pole conduct barrel noise old lamp craft";

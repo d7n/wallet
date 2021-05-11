@@ -1,1 +1,1 @@
-var mnemonic = "correct flat trumpet evidence panther tiny garbage movie crane void clump jump";
+var mnemonic = "weekend spoil evoke file wrestle pond airport chair fiber rural spoil spatial";

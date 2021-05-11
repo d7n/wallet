@@ -1,1 +1,1 @@
-var mnemonic = "that own slim where nurse result depend humor perfect mail blossom nephew";
+var mnemonic = "tail release wide egg space spot canvas arrest risk door head canal";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt problem day enable cluster anxiety awesome kingdom fatal debate birth soccer";
+var mnemonic = "over wedding father excite street sadness wrestle relief furnace start kind since";

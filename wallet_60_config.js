@@ -1,1 +1,1 @@
-var mnemonic = "tomato diesel detect truly food three gap message caught congress device winner";
+var mnemonic = "sugar margin gaze ski shock garbage glad whip great lumber hold miracle";

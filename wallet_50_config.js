@@ -1,1 +1,1 @@
-var mnemonic = "volume girl excuse drill neglect leader answer weekend present gesture retire usual";
+var mnemonic = "spatial economy wide monkey spin object jewel virus barrel match absurd uncover";

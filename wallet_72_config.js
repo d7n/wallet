@@ -1,1 +1,1 @@
-var mnemonic = "cattle venue cross offer person initial eye lunch garlic organ primary curve";
+var mnemonic = "roof gate father taste better female strike spoil open chaos assault bridge";

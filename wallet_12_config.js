@@ -1,1 +1,1 @@
-var mnemonic = "elephant hover early payment scare bachelor sting media arrow bunker walnut energy";
+var mnemonic = "grid carpet spice giggle supply swap evil wreck fix hotel rely worth";

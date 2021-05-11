@@ -1,1 +1,1 @@
-var mnemonic = "bid then wool since find saddle acid achieve quote tongue hand axis";
+var mnemonic = "obtain observe chat want marine art midnight thought scheme flash maze eyebrow";

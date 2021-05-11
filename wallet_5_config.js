@@ -1,1 +1,1 @@
-var mnemonic = "defy wing paddle fiction pumpkin fiscal purpose service dentist grant cool upset";
+var mnemonic = "pledge disagree cream already oak december portion doctor matrix vendor dove filter";

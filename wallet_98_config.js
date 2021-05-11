@@ -1,1 +1,1 @@
-var mnemonic = "cake ship valve little bone margin torch series warrior sausage robust manual";
+var mnemonic = "spike boil bomb turn clarify gloom online improve like black tree engine";

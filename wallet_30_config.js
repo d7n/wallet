@@ -1,1 +1,1 @@
-var mnemonic = "observe ready buzz jar erase mansion paddle squeeze plunge helmet amount junk";
+var mnemonic = "salad resist oppose cactus grab trust sleep gym dial bid common case";

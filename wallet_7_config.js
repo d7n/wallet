@@ -1,1 +1,1 @@
-var mnemonic = "more intact danger salt gravity trust hold ethics tongue merry satoshi expose";
+var mnemonic = "portion surface all sun tide bitter small float please gloom sweet achieve";

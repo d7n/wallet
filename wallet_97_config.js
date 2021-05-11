@@ -1,1 +1,1 @@
-var mnemonic = "logic employ picnic brisk barrel erosion rigid token expect merge urban arch";
+var mnemonic = "salad advice point kind ghost member glare tissue junior slide credit safe";

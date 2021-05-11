@@ -1,1 +1,1 @@
-var mnemonic = "journey amazing tunnel dentist roast eight actress buzz entire alpha item allow";
+var mnemonic = "autumn off spike globe couple ancient blood crash flee state own stove";

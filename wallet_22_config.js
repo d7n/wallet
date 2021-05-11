@@ -1,1 +1,1 @@
-var mnemonic = "flock remain ecology actress depend organ upon approve thank cargo gadget wear";
+var mnemonic = "noble fence script trumpet connect enforce wheel jazz muscle receive turn follow";

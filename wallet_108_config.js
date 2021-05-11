@@ -1,1 +1,1 @@
-var mnemonic = "kick cash gift gaze arrow orange across aware grid vessel predict olive";
+var mnemonic = "arrive exist trip chase decade zero soon plunge hole sister fever tower";

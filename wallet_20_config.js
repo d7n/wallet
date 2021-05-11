@@ -1,1 +1,1 @@
-var mnemonic = "odor gate tattoo property fame basket canoe remove radar little legal edit";
+var mnemonic = "doll maze always love flame draft hurry excite chair onion own invite";

@@ -1,1 +1,1 @@
-var mnemonic = "human diary saddle basket cross benefit quality capable great spoil blood slot";
+var mnemonic = "exist sphere spy gun sweet battle legal prosper another replace release still";

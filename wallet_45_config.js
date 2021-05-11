@@ -1,1 +1,1 @@
-var mnemonic = "elbow copy again cruise despair love struggle normal lemon rebuild bulk radar";
+var mnemonic = "blur hunt spend favorite provide top exit surround drip grain car alarm";

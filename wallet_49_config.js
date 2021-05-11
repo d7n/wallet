@@ -1,1 +1,1 @@
-var mnemonic = "stage hedgehog decide rain donkey sunny solid oven adult spoil pelican fork";
+var mnemonic = "focus orchard balance prosper figure provide deliver blind unusual trigger kangaroo ivory";

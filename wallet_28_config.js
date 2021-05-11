@@ -1,1 +1,1 @@
-var mnemonic = "core upper suffer rally neither pupil sketch drill garden amused mean social";
+var mnemonic = "odor exotic refuse urban grid weasel enable believe kangaroo report agree choice";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger swap cube forest squeeze join private domain siren vivid exile spare";
+var mnemonic = "correct forum stadium fame alley region vocal lecture flag edge shrimp visual";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella enroll unit wolf defense prevent boy enough humble draw relax sing";
+var mnemonic = "sell blouse alone blade setup feel eagle creek assault unique cross security";

@@ -1,1 +1,1 @@
-var mnemonic = "nest sea exile between company action theory nuclear smoke destroy tribe reflect";
+var mnemonic = "romance foot urge force couple smoke air bamboo debate wheat nation bid";

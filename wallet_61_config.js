@@ -1,1 +1,1 @@
-var mnemonic = "funny tell fault afraid prefer again color travel thrive taxi umbrella invest";
+var mnemonic = "bitter sustain kitten jump access member property first gauge zone depart oval";

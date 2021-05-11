@@ -1,1 +1,1 @@
-var mnemonic = "update six swear random flower moment budget artist evoke kingdom disagree spy";
+var mnemonic = "gather floor drive fashion only track since abstract gate ladder ocean announce";

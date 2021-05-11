@@ -1,1 +1,1 @@
-var mnemonic = "lizard outside awkward grocery adapt brass vicious catch also cram verify expose";
+var mnemonic = "shuffle buzz rail assist crop funny beach way object chuckle under account";

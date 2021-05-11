@@ -1,1 +1,1 @@
-var mnemonic = "mosquito spare cereal shock wise glad salt unveil remember defy fence elegant";
+var mnemonic = "zebra column diamond version way badge couple fit margin defy midnight float";

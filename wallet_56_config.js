@@ -1,1 +1,1 @@
-var mnemonic = "pill main payment silver script license arch language region debris job apart";
+var mnemonic = "extra habit unfair cat sound better local change puppy enroll team rough";

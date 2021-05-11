@@ -1,1 +1,1 @@
-var mnemonic = "badge stock decline check typical over hobby jelly hybrid token habit stuff";
+var mnemonic = "ranch scale basket avoid immune slam foot position cable hand blind slide";

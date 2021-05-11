@@ -1,1 +1,1 @@
-var mnemonic = "media punch shell virtual drama forest youth box napkin hip pilot swing";
+var mnemonic = "prison swap chuckle much cabbage mosquito bid comic music drum message critic";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic radar castle require month flip merry material force diet route outdoor";
+var mnemonic = "network expect coil mix dutch poverty tuna brisk force balance option dirt";

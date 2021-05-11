@@ -1,1 +1,1 @@
-var mnemonic = "crumble point illegal tribe wait motion future flavor project remove belt armed";
+var mnemonic = "science attack betray sand artwork lazy pencil spread chef pull link prefer";

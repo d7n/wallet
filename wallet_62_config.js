@@ -1,1 +1,1 @@
-var mnemonic = "elder hurt silk like leave auction away gravity caution blanket diesel happy";
+var mnemonic = "sand inch above stone random stand valid plate cream fever jelly detect";

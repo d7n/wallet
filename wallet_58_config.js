@@ -1,1 +1,1 @@
-var mnemonic = "unknown color tribe banner art fruit diamond purpose calm giggle express oppose";
+var mnemonic = "super wall sound decrease enable favorite kidney staff disagree spell skate essence";

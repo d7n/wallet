@@ -1,1 +1,1 @@
-var mnemonic = "rely quick era foam nose bid excess setup draw palace borrow nothing";
+var mnemonic = "orbit favorite fetch assume duck surface cat awake order parrot concert term";

@@ -1,1 +1,1 @@
-var mnemonic = "today uniform essence industry dragon payment impose innocent strike idle neck scene";
+var mnemonic = "cinnamon ring soccer proof brief scan imitate forward simple tattoo help festival";

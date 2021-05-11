@@ -1,1 +1,1 @@
-var mnemonic = "throw daring solution atom aunt prize chicken truly game area start close";
+var mnemonic = "diagram brown razor crowd absent rigid horror patrol ride grief domain erosion";

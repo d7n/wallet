@@ -1,1 +1,1 @@
-var mnemonic = "napkin rally tray obey million someone hen return raccoon uncover together gun";
+var mnemonic = "uncle tag educate salad ride riot bring basket napkin next sea flee";

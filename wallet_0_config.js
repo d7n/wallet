@@ -1,1 +1,1 @@
-var mnemonic = "vacuum just leaf moment monster flame video prosper crisp lion dose into";
+var mnemonic = "until lucky work broom utility coast case common hat symbol produce torch";

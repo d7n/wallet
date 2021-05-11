@@ -1,1 +1,1 @@
-var mnemonic = "intact kangaroo keep coral spare normal task arena taxi unique aunt survey";
+var mnemonic = "include artefact mushroom vivid only pyramid ugly phone retreat lazy palm display";

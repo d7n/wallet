@@ -1,1 +1,1 @@
-var mnemonic = "moral ready token genius outer distance lizard shoot check chair surround control";
+var mnemonic = "stumble liquid hour predict finger surprise normal size coast used suffer timber";

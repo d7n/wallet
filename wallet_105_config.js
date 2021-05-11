@@ -1,1 +1,1 @@
-var mnemonic = "clever pupil pretty shoe prepare gauge brand rally dry nut giraffe narrow";
+var mnemonic = "thumb accuse slim chase finish clock demise borrow oxygen reflect face beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "photo amount ask tiny shop dial limit grit win orphan sell tunnel";
+var mnemonic = "manual pet chunk intact camp water display remain curious vague conduct business";

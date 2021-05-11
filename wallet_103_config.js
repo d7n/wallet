@@ -1,1 +1,1 @@
-var mnemonic = "gadget advance soccer scorpion top reduce glory quarter roast mean place neck";
+var mnemonic = "desk trip ensure bachelor congress soft shy scrap stand item vacuum combine";

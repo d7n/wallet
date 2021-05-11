@@ -1,1 +1,1 @@
-var mnemonic = "adapt bottom hurdle law entire width corn palm plate monitor fortune auto";
+var mnemonic = "slogan lottery bargain muffin clock cause almost skirt evoke achieve gain rebuild";

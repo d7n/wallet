@@ -1,1 +1,1 @@
-var mnemonic = "police seat fiscal update mansion unable wood cute tenant control glory describe";
+var mnemonic = "glue canyon suggest outdoor ensure liberty pumpkin awesome vibrant better violin arrow";

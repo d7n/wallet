@@ -1,1 +1,1 @@
-var mnemonic = "helmet mixed fuel fame muscle merry foster find benefit vapor paddle mix";
+var mnemonic = "gap feed soap museum simple divide lab shift dirt lake grab easily";

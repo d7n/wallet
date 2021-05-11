@@ -1,1 +1,1 @@
-var mnemonic = "ready chunk trip awesome gorilla riot dune cycle motion wrong ignore average";
+var mnemonic = "much banner provide crime burger rebuild reflect rapid cloud pear unit never";

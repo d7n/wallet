@@ -1,1 +1,1 @@
-var mnemonic = "rich vehicle card milk tunnel voice almost thought color talent sick online";
+var mnemonic = "monitor alarm kick spike ask grace disagree inquiry spin nuclear where erase";

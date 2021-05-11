@@ -1,1 +1,1 @@
-var mnemonic = "naive photo helmet achieve season topic embrace scrap blur tube menu dream";
+var mnemonic = "nerve kiss orbit course tape explain tomorrow chaos gentle gentle armor tiny";

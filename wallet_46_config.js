@@ -1,1 +1,1 @@
-var mnemonic = "salute express punch body runway swamp slot bicycle then punch enter junk";
+var mnemonic = "custom crop boil filter earth submit pole found economy decorate tornado elevator";

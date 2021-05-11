@@ -1,1 +1,1 @@
-var mnemonic = "hero fetch spider word isolate shaft point allow blouse blue three crucial";
+var mnemonic = "bullet buddy wet exclude please glance detect melody fantasy broccoli sword shop";

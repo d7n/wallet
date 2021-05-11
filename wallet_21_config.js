@@ -1,1 +1,1 @@
-var mnemonic = "box unusual lamp acoustic coyote arrive grow copy cat develop kind practice";
+var mnemonic = "clog squeeze steel book blur length laugh river hope echo session title";

@@ -1,1 +1,1 @@
-var mnemonic = "concert author baby derive photo ritual lazy tower hope exotic punch organ";
+var mnemonic = "trap blood hope sweet candy citizen time clock note six actress wife";

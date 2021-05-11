@@ -1,1 +1,1 @@
-var mnemonic = "drill shoe gesture renew neither sail front drum crime face sort kit";
+var mnemonic = "pottery cigar grant crush august glue metal planet save thunder double behind";

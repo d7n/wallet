@@ -1,1 +1,1 @@
-var mnemonic = "eagle friend gorilla exist vapor desert talent misery original oxygen disorder royal";
+var mnemonic = "exist rubber save match price true duck near retire six obtain copper";

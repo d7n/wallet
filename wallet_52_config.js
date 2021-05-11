@@ -1,1 +1,1 @@
-var mnemonic = "range nut bamboo alpha ritual ancient disagree wink festival belt air clown";
+var mnemonic = "bonus orchard vital hammer keep chalk reason present jungle arctic mobile avocado";

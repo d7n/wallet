@@ -1,1 +1,1 @@
-var mnemonic = "desert spray country salmon fossil garage keen vote resemble ginger virtual destroy";
+var mnemonic = "extend amazing urban material tip february relax resource renew assume express cherry";

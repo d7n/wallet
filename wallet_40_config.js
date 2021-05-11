@@ -1,1 +1,1 @@
-var mnemonic = "symbol tonight turtle expose such safe table proud slide awkward weasel shrug";
+var mnemonic = "cost belt intact gadget agent exhaust brisk you protect thumb empower hurry";

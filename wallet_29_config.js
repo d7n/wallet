@@ -1,1 +1,1 @@
-var mnemonic = "hill ice lens chapter scale glass layer afraid local label demand monitor";
+var mnemonic = "hire demand palm sphere kitten ten nerve forest west ticket squeeze report";

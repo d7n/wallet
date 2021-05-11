@@ -1,1 +1,1 @@
-var mnemonic = "curious notice update prevent tone cash orange simple few invest express museum";
+var mnemonic = "double shrimp frown object rescue kit spare rival inject humble govern program";

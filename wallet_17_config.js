@@ -1,1 +1,1 @@
-var mnemonic = "siege recipe soap pottery hawk flash voyage flock find dwarf mushroom scrap";
+var mnemonic = "stock limb involve south wood beauty safe record among ugly comfort sauce";

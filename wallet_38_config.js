@@ -1,1 +1,1 @@
-var mnemonic = "emerge hazard soft crunch myself idea update machine region poverty stool view";
+var mnemonic = "day detect crucial plastic wait wave party reject hour trip name urban";

@@ -1,1 +1,1 @@
-var mnemonic = "pet shrug dress loud upgrade song scissors innocent clerk eagle warfare open";
+var mnemonic = "because spider way weather tip hair secret country magic oxygen hurt pipe";

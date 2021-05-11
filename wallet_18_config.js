@@ -1,1 +1,1 @@
-var mnemonic = "luggage demise phrase once behind tuna sorry size nice quit genius spot";
+var mnemonic = "exhaust unique behave chuckle help host acoustic state blush shiver rebel argue";

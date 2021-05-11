@@ -1,1 +1,1 @@
-var mnemonic = "pipe pact reward fantasy negative airport weasel oak consider walk track gate";
+var mnemonic = "used vicious hidden mother illegal word meadow humble program one wire unfold";

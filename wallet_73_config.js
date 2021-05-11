@@ -1,1 +1,1 @@
-var mnemonic = "maid stem arrest marine latin hood scrub head sound document ginger column";
+var mnemonic = "rifle dolphin rain scale maid thought appear trophy culture boss soft cotton";

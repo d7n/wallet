@@ -1,1 +1,1 @@
-var mnemonic = "tip puzzle trophy brass range onion drive corn loud scan chicken that";
+var mnemonic = "tank jaguar pioneer bundle harvest feature script quit agent afford oak clinic";

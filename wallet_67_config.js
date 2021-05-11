@@ -1,1 +1,1 @@
-var mnemonic = "symptom warfare blanket wagon wise project fresh copy hover they setup wool";
+var mnemonic = "hurdle sleep furnace grant furnace culture snake note sign noise lemon axis";

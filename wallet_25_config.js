@@ -1,1 +1,1 @@
-var mnemonic = "pole country confirm anchor imitate toast sauce inherit kitchen add victory hat";
+var mnemonic = "empower poem ceiling second banana artwork gold rich rare woman genuine truck";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant system welcome audit wheat lottery black onion access fortune emotion beauty";
+var mnemonic = "mother advice fetch swarm cotton grant fence flavor skirt intact evoke grit";

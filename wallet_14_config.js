@@ -1,1 +1,1 @@
-var mnemonic = "tag before confirm genius service ozone cousin patch unaware chuckle gasp refuse";
+var mnemonic = "comfort egg during popular float myself industry eight present giggle book oblige";

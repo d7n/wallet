@@ -1,1 +1,1 @@
-var mnemonic = "avoid kit umbrella token lift habit across shield layer truly report mixture";
+var mnemonic = "solve hold near mesh front turn fame axis crucial split film wrestle";

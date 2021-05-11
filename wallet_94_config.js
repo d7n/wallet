@@ -1,1 +1,1 @@
-var mnemonic = "uphold top clock inspire until nothing disagree ability embody number mouse tourist";
+var mnemonic = "stadium wagon cabin brown educate screen retire crystal essay moment write trap";

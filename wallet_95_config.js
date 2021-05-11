@@ -1,1 +1,1 @@
-var mnemonic = "jeans gown bring deposit stamp grit volume kitten prosper question category goddess";
+var mnemonic = "design ask fury song pretty kiss switch tumble juice rabbit shell people";

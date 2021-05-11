@@ -1,1 +1,1 @@
-var mnemonic = "accident clarify moral violin tree laptop shuffle claim jump zebra fatal fan";
+var mnemonic = "soldier need sick volcano follow pig marriage plug flip chronic card scorpion";

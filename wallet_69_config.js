@@ -1,1 +1,1 @@
-var mnemonic = "soccer organ goat blouse proud illness write riot fatal few labor illness";
+var mnemonic = "notice virtual major market all foam visual depend home doctor then bless";
