@@ -1,1 +1,1 @@
-var mnemonic = "attract swallow beach leader keep deputy blur affair accident little wreck breeze";
+var mnemonic = "sick imitate foster engine enroll give horse width vessel public funny cross";

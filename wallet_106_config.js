@@ -1,1 +1,1 @@
-var mnemonic = "hotel tuna used boost garbage divert marine deposit brisk wage language photo";
+var mnemonic = "planet permit viable lady awkward crunch fancy scene skate drop asthma borrow";

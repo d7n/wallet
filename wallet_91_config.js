@@ -1,1 +1,1 @@
-var mnemonic = "shy cave pilot solar elevator provide original south model verb agent erosion";
+var mnemonic = "tooth practice scheme music vote wrist roof cereal tumble injury that ocean";

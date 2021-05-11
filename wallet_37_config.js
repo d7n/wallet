@@ -1,1 +1,1 @@
-var mnemonic = "syrup dumb glue first auto proof olive proud title edge advance random";
+var mnemonic = "use sense hole acoustic ceiling shuffle shuffle ankle pistol badge hobby case";

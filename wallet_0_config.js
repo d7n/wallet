@@ -1,1 +1,1 @@
-var mnemonic = "army miracle purpose release weather assist fold rigid tray either laundry stage";
+var mnemonic = "rocket dad lens vendor demand year anxiety knock inspire result spin erase";

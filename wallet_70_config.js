@@ -1,1 +1,1 @@
-var mnemonic = "tip agent pistol figure fine doctor dentist crime then rib antenna amateur";
+var mnemonic = "member embark future phrase slab trigger ring crazy ocean silly health lake";

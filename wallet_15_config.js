@@ -1,1 +1,1 @@
-var mnemonic = "angry fresh pepper between online trend visa faculty ankle early blush accident";
+var mnemonic = "bench trial visual heavy faculty acquire marriage police raw wood tennis aerobic";

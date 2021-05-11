@@ -1,1 +1,1 @@
-var mnemonic = "fitness wire ceiling olympic barely pioneer icon first hover amazing process unveil";
+var mnemonic = "region attitude solve nice ready traffic screen flag usual inform hello possible";

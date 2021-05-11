@@ -1,1 +1,1 @@
-var mnemonic = "nasty bright enlist chuckle credit cricket bring alone also mother clerk demand";
+var mnemonic = "glare cage dwarf afraid ill census rescue tonight slight kind explain broom";

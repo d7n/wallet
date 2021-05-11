@@ -1,1 +1,1 @@
-var mnemonic = "inform canoe divert reason goose monitor fence unfold spare motor buddy model";
+var mnemonic = "warfare square bus cargo business ozone skate pretty cradle swear ignore neither";

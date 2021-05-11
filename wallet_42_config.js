@@ -1,1 +1,1 @@
-var mnemonic = "famous coach consider rigid tribe occur rich pride lawsuit key venue eagle";
+var mnemonic = "potato valid obvious thunder jewel soldier budget uniform sweet extend donor habit";

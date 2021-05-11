@@ -1,1 +1,1 @@
-var mnemonic = "false kiss found sunset field jealous sand avoid survey spatial spell electric";
+var mnemonic = "monitor wing rebuild wing spot curve candy extend typical hello rent oblige";

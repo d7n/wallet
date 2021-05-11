@@ -1,1 +1,1 @@
-var mnemonic = "mystery truly adult diamond river guilt bleak achieve eight stone company raccoon";
+var mnemonic = "reopen solid lamp month milk flag pencil arrow pull angle violin crunch";

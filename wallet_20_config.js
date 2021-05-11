@@ -1,1 +1,1 @@
-var mnemonic = "sock field gym soul soccer easy bid insect error setup shrug mountain";
+var mnemonic = "month topic dilemma virus promote unfair cradle volcano entire business brick post";

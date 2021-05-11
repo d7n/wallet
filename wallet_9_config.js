@@ -1,1 +1,1 @@
-var mnemonic = "yard shrug bitter same analyst riot print portion situate dutch attract trouble";
+var mnemonic = "sadness magic romance spawn weekend skirt fringe impact mushroom fit punch battle";

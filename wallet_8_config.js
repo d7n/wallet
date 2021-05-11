@@ -1,1 +1,1 @@
-var mnemonic = "health wrist scatter effort similar embark crunch office include glory winner leopard";
+var mnemonic = "bamboo action cage pride area artefact animal symbol candy tip plate chronic";

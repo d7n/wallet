@@ -1,1 +1,1 @@
-var mnemonic = "output eager plastic drop together art code palace shoe feed anger quote";
+var mnemonic = "rescue patient usual evolve oyster riot detect whale empower exercise enter margin";

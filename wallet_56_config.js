@@ -1,1 +1,1 @@
-var mnemonic = "finish night object vicious bunker mammal hood call train morning jaguar basket";
+var mnemonic = "explain retire pupil text three invest supply hunt object amused equal agree";

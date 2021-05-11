@@ -1,1 +1,1 @@
-var mnemonic = "owner modify taste love omit solve caution boring ecology afraid convince screen";
+var mnemonic = "piano carry then salon barely able business erode book siren color brick";

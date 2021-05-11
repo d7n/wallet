@@ -1,1 +1,1 @@
-var mnemonic = "random pond dawn receive unable rabbit adapt novel pluck hockey gorilla gown";
+var mnemonic = "work muffin slight public able drill denial minimum enrich laugh series margin";

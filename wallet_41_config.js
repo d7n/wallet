@@ -1,1 +1,1 @@
-var mnemonic = "frown loan embody illness blush you grid vendor heart flash cram host";
+var mnemonic = "joy wheel absorb shine delay region annual render slot resist exact merry";

@@ -1,1 +1,1 @@
-var mnemonic = "science can kiwi logic crazy advance slice dignity theme bachelor subject tragic";
+var mnemonic = "hat series assume there quick endless fence glass fetch reveal office stool";

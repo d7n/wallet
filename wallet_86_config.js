@@ -1,1 +1,1 @@
-var mnemonic = "salmon custom expect relax stable topple tortoise main fabric exile oppose turn";
+var mnemonic = "pear tonight march fortune license super nut clip dinner tree employ flush";

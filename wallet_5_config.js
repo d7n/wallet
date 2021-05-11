@@ -1,1 +1,1 @@
-var mnemonic = "link pupil sweet best scene history analyst cancel minute parent connect inflict";
+var mnemonic = "animal citizen siege over dry unit cycle arrive ability resist bargain inside";

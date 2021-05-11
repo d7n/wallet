@@ -1,1 +1,1 @@
-var mnemonic = "friend unfair member peasant shell boss island hub drive truly extend couch";
+var mnemonic = "coconut destroy minimum term parent faculty hollow hover crane diesel sentence creek";

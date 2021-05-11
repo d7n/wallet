@@ -1,1 +1,1 @@
-var mnemonic = "evidence suspect confirm away embrace stumble kitchen hawk episode assault jungle bonus";
+var mnemonic = "object remember demand bus loyal alien ranch child token web slender equal";

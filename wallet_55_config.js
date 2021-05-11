@@ -1,1 +1,1 @@
-var mnemonic = "smoke vessel script guide banner skull viable injury lock roast under limb";
+var mnemonic = "bubble unusual bubble injury gym battle sock involve artefact wrestle picture actual";

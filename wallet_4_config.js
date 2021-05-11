@@ -1,1 +1,1 @@
-var mnemonic = "young powder waste wrestle elegant glide thing describe copy casino hint just";
+var mnemonic = "observe message source what tiger pulp airport later glad lemon curtain tourist";

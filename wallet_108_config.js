@@ -1,1 +1,1 @@
-var mnemonic = "law sample glass include rose what taxi destroy gossip hollow agent mosquito";
+var mnemonic = "elevator clarify stuff chuckle affair knife awkward hurdle like latin siren steak";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon strategy mother dress evoke board feed twin shoot stay convince sister";
+var mnemonic = "duty pyramid urge popular april uncover pencil echo local ancient ivory peasant";

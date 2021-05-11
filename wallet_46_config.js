@@ -1,1 +1,1 @@
-var mnemonic = "glimpse fantasy evil element flash witness feature garage woman pause scene away";
+var mnemonic = "sight vehicle board net coin pill nice near sure large choose voyage";

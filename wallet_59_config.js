@@ -1,1 +1,1 @@
-var mnemonic = "sphere jump earth wire cinnamon cliff brass stone betray sphere banner yard";
+var mnemonic = "cereal gown arm load suspect shiver oblige ski stomach find coil mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "nice bone vacuum saddle nurse inmate parrot orchard wide era grace gallery";
+var mnemonic = "size dune pledge skin detail erupt happy decide pulp disease hire sick";

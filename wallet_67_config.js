@@ -1,1 +1,1 @@
-var mnemonic = "lens memory home inmate reform uncover nominee away never choice develop whip";
+var mnemonic = "snack nice payment cancel often stadium oxygen cannon duty clinic moral fat";

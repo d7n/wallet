@@ -1,1 +1,1 @@
-var mnemonic = "catch trash evil banana raise album address beach heart distance flame local";
+var mnemonic = "guide riot entry cactus rude journey stadium conduct reunion garment denial penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "defense unfair square pair pill gravity twice option satisfy proud shed verify";
+var mnemonic = "canoe kitten expire hold island project pass together shock gold mammal holiday";

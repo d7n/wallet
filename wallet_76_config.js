@@ -1,1 +1,1 @@
-var mnemonic = "surge priority device cliff spoon tiger indicate park fog settle cotton need";
+var mnemonic = "drive seed lizard window resource cupboard foster grape situate property lava hobby";

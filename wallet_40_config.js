@@ -1,1 +1,1 @@
-var mnemonic = "chalk struggle suspect lazy elbow force bottom rhythm hollow ticket prison rely";
+var mnemonic = "oval sample client essence fix crush pool patrol fatigue unaware match motor";

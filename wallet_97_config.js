@@ -1,1 +1,1 @@
-var mnemonic = "nothing safe follow abstract gorilla night hover symptom step globe soldier essay";
+var mnemonic = "insane original bomb solid tail stove embark device office quick lemon casual";

@@ -1,1 +1,1 @@
-var mnemonic = "garment half there there gold holiday scrap tomorrow bring clutch warrior divert";
+var mnemonic = "blood theory switch search soup digital episode moment secret float prosper tuition";

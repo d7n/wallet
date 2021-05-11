@@ -1,1 +1,1 @@
-var mnemonic = "eagle west basket eager fish crisp craft topple current ice fat expect";
+var mnemonic = "hair system drift void strong holiday fold expect chest soul never galaxy";

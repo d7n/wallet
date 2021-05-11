@@ -1,1 +1,1 @@
-var mnemonic = "leopard science lemon ozone fade gospel concert teach baby behave illegal possible";
+var mnemonic = "verify silver trust capable bachelor elder urban basic option laundry giggle eye";

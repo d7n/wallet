@@ -1,1 +1,1 @@
-var mnemonic = "fork rapid month torch erode walk east shrimp front scout board category";
+var mnemonic = "derive diet salmon spoil blind glue vendor thing exhibit merry neutral gift";

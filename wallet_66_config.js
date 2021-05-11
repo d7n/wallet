@@ -1,1 +1,1 @@
-var mnemonic = "bring flavor pizza dolphin photo master milk brother topple domain illness audit";
+var mnemonic = "donor elephant father rule brand plug tube soccer cross unknown symbol donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb anxiety used damage prepare afraid milk ginger canvas fiscal peace income";
+var mnemonic = "coach refuse mirror evolve sell base reject female long muscle sword keen";

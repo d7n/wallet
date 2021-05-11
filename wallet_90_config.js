@@ -1,1 +1,1 @@
-var mnemonic = "phrase hip matter bullet potato margin pudding east orbit street novel slim";
+var mnemonic = "angry sunny air dizzy sunny add tribe tuna gown tiny leg soda";

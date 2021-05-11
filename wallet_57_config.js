@@ -1,1 +1,1 @@
-var mnemonic = "thrive whip random purity scrap repair strike rotate tent finish hurt fatigue";
+var mnemonic = "aerobic display noise marriage ski face duck crop future program absurd chapter";

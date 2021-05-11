@@ -1,1 +1,1 @@
-var mnemonic = "auction number blade behave recall oil world farm across chef tackle property";
+var mnemonic = "snow lend asset desk powder silver inside cigar chimney echo evoke attract";

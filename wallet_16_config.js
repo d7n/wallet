@@ -1,1 +1,1 @@
-var mnemonic = "two atom question tent aunt birth canoe dry pig wasp woman appear";
+var mnemonic = "salt churn material riot whisper puppy pudding door episode below trim pattern";

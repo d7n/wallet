@@ -1,1 +1,1 @@
-var mnemonic = "bitter robust release pet feature assault liquid cute blouse alone bulk upper";
+var mnemonic = "congress behave belt approve chest dentist boss void armed void marble relax";

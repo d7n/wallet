@@ -1,1 +1,1 @@
-var mnemonic = "cake rail reward brisk media leaf game expire fashion orient comic faith";
+var mnemonic = "surge text patrol cash save exchange lock shiver swarm deputy wing degree";

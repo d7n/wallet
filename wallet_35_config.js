@@ -1,1 +1,1 @@
-var mnemonic = "dose weasel sorry end base hill book wisdom toward barrel used milk";
+var mnemonic = "cement define palm jazz often hospital budget coin earn canyon project color";

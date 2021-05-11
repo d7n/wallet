@@ -1,1 +1,1 @@
-var mnemonic = "ugly illness pond tell bounce man cross record humble orient version ostrich";
+var mnemonic = "flip sound mirror avocado clerk almost flip steel wreck often rapid illegal";

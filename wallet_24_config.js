@@ -1,1 +1,1 @@
-var mnemonic = "blouse race obtain dinner churn craft pony fit melt quantum curve put";
+var mnemonic = "shiver cheese swamp blast soon chronic lunch custom behind exile pledge cannon";

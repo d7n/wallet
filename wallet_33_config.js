@@ -1,1 +1,1 @@
-var mnemonic = "crouch subway cycle wagon opinion scorpion glimpse shed flavor market gain annual";
+var mnemonic = "maximum health hybrid cloud tunnel air brand despair diesel face fault find";

@@ -1,1 +1,1 @@
-var mnemonic = "health manual tunnel hurt bachelor match model addict clever excess today convince";
+var mnemonic = "cycle mixture lonely sad toilet purity detail syrup tell matter manual lizard";

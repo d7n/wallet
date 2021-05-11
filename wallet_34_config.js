@@ -1,1 +1,1 @@
-var mnemonic = "tragic car shop cancel oppose impose general stuff shove such spawn since";
+var mnemonic = "when airport worry stand country eager response rapid crane devote disagree million";

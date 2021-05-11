@@ -1,1 +1,1 @@
-var mnemonic = "acoustic antenna purse pride swear pave path people stand shy blur siege";
+var mnemonic = "cradle deposit tribe fruit card shadow garage donor idea steel cement enjoy";

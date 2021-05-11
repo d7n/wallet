@@ -1,1 +1,1 @@
-var mnemonic = "rebel street tobacco point hello lazy omit gasp near reflect under draw";
+var mnemonic = "enhance shuffle hockey unknown captain actor exact will rally immense rich damp";

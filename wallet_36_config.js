@@ -1,1 +1,1 @@
-var mnemonic = "gap blouse ride nominee case virus merit harbor menu blade spike corn";
+var mnemonic = "walnut palm loop alone ghost ramp grow bottom plug earn fuel sport";

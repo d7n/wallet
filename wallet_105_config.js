@@ -1,1 +1,1 @@
-var mnemonic = "pistol tent audit sorry ball rail best wisdom okay garment suit they";
+var mnemonic = "mistake wasp meat foot already thought acoustic speed aunt area math analyst";

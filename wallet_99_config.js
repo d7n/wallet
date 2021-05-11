@@ -1,1 +1,1 @@
-var mnemonic = "answer run aware hybrid future keen hurt bottom mind veteran fade magnet";
+var mnemonic = "warfare corn push tornado hood next pelican eagle frost inject memory move";

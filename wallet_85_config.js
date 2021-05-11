@@ -1,1 +1,1 @@
-var mnemonic = "tenant grape gesture senior empty token army already siege asthma ivory distance";
+var mnemonic = "spider dial stem stadium useful combine doctor helmet rocket price picture response";

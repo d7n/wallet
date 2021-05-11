@@ -1,1 +1,1 @@
-var mnemonic = "frame wreck army either close lizard virus opinion one call tortoise spread";
+var mnemonic = "two layer shove enable glass nut female embrace table derive deny broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight mixed alter absurd juice frozen proud call panda receive enemy energy";
+var mnemonic = "sock absorb cattle shell solve fire review recall slab industry print express";

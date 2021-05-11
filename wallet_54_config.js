@@ -1,1 +1,1 @@
-var mnemonic = "energy uncle hazard swear scout best jungle brand jelly grain expose ten";
+var mnemonic = "illegal extend faith name garment aspect vacant behave vehicle fee turn ecology";

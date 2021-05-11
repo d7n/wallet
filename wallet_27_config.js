@@ -1,1 +1,1 @@
-var mnemonic = "idea asset pluck vast beauty arrive slam spike adapt ten sketch art";
+var mnemonic = "struggle patch fine into safe author minute render park what gasp urge";

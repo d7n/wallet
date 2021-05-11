@@ -1,1 +1,1 @@
-var mnemonic = "short siren cost script vague boil what figure unveil office media slot";
+var mnemonic = "like ugly emerge zone cloud pyramid error trend dust reveal practice lemon";

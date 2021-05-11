@@ -1,1 +1,1 @@
-var mnemonic = "angle patrol output assault live furnace mistake candy network weasel sniff hat";
+var mnemonic = "sail manage add embody guess wife course worry index special bulk hub";

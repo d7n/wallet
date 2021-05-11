@@ -1,1 +1,1 @@
-var mnemonic = "boy inhale satoshi town boat auction join clock electric youth giraffe empty";
+var mnemonic = "empower wash require stay small desk liberty kingdom please green way differ";

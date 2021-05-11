@@ -1,1 +1,1 @@
-var mnemonic = "toilet melt nation because warrior session bounce ridge dove luxury amused sunset";
+var mnemonic = "pool cat hip bind climb ritual soon sand weird wrestle kind leave";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote animal opinion visual cloth always angle toss shed cattle subject swim";
+var mnemonic = "hood marriage canal equip connect tuna swamp rough sting cricket trend lift";

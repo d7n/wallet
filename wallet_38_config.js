@@ -1,1 +1,1 @@
-var mnemonic = "cart floor fire funny salmon artwork affair ozone punch argue valid banana";
+var mnemonic = "multiply stereo sell false weather will champion adjust region fatal twice naive";

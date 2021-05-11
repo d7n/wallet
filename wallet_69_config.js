@@ -1,1 +1,1 @@
-var mnemonic = "mind pause ankle strong collect select gaze decade upset limb position private";
+var mnemonic = "scrub close prevent renew hospital duck dragon reflect bacon price kidney angle";

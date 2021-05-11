@@ -1,1 +1,1 @@
-var mnemonic = "inquiry doctor fiscal indoor real obey month spice bacon liar since master";
+var mnemonic = "patrol essay digital student real soup vacuum beach ocean museum match solid";

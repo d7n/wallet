@@ -1,1 +1,1 @@
-var mnemonic = "domain elephant delay quick update lunch credit multiply crystal earth hurt truth";
+var mnemonic = "wrap belt diamond chat slot genuine upon primary north home child pill";

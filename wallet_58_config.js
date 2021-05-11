@@ -1,1 +1,1 @@
-var mnemonic = "lens tag space sentence crystal because adapt language about resource ordinary pencil";
+var mnemonic = "furnace ripple cherry online glance arrange roof spin exercise airport dice tiny";

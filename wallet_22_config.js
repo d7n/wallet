@@ -1,1 +1,1 @@
-var mnemonic = "abandon dynamic round myself core identify range lake diary quality private pact";
+var mnemonic = "insect toddler pelican then modify daring vast bird tourist noise soul cook";

@@ -1,1 +1,1 @@
-var mnemonic = "exile decade bulk found snap endless involve notice idea large problem ladder";
+var mnemonic = "before palm rigid armed fluid sketch weasel reject border replace target sibling";

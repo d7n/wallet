@@ -1,1 +1,1 @@
-var mnemonic = "comfort phone gaze nephew resist parade fashion gospel village canvas sugar rapid";
+var mnemonic = "sauce rookie history dose era corn nest also shrimp confirm arrange paddle";

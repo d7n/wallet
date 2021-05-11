@@ -1,1 +1,1 @@
-var mnemonic = "cloud plug kite venue divide voyage behave gloom scare pledge lesson gadget";
+var mnemonic = "loan swamp neglect identify gospel loyal clap hedgehog virus old wet alert";

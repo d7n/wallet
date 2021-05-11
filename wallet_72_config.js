@@ -1,1 +1,1 @@
-var mnemonic = "fetch time gym banner fox name rival wink pumpkin poem grant provide";
+var mnemonic = "bless grief mechanic fox setup manage swarm pulp retire enhance across comfort";

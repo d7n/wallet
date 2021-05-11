@@ -1,1 +1,1 @@
-var mnemonic = "december dutch pony honey crop horse arrow drive pottery pave health isolate";
+var mnemonic = "balcony ski romance write vicious organ silly valley reduce bean omit uniform";

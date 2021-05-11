@@ -1,1 +1,1 @@
-var mnemonic = "notice popular tray ceiling supply fatigue area jar position inquiry ramp ladder";
+var mnemonic = "burst happy stadium spy child effort brass cup depth song click enable";

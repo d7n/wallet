@@ -1,1 +1,1 @@
-var mnemonic = "hover blur over fringe shop tobacco switch choice amazing famous twelve claw";
+var mnemonic = "inherit oyster miracle fiscal kangaroo spider choose alter visual inquiry spice scale";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty wish choice cliff beauty street vital column carry raise engine rhythm";
+var mnemonic = "fiber abandon item strike demise pluck visit insane luxury nature infant simple";

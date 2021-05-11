@@ -1,1 +1,1 @@
-var mnemonic = "leaf portion picnic kingdom pencil ankle awful first grit burst subway real";
+var mnemonic = "engine chronic recycle crush differ enrich negative spider payment ice way series";

@@ -1,1 +1,1 @@
-var mnemonic = "celery useful type rifle answer talk often father coral enough priority flower";
+var mnemonic = "crouch betray close leader deer frog crew kick alcohol bamboo humor actor";

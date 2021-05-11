@@ -1,1 +1,1 @@
-var mnemonic = "century wreck gallery choice gather fitness still clay slam spawn project addict";
+var mnemonic = "egg actual scorpion vapor cannon mad defense pond auction emerge friend stool";
