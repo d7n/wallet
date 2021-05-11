@@ -1,1 +1,1 @@
-var mnemonic = "deputy describe age method gravity history cry mom neutral giggle rebuild sustain";
+var mnemonic = "project draw fortune danger flag auction inject shine bomb true gauge oven";

@@ -1,1 +1,1 @@
-var mnemonic = "invest barely waste try gate design demise sketch used report portion there";
+var mnemonic = "suit deal surface sport art piece earth gravity acquire mansion airport desert";

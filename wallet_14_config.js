@@ -1,1 +1,1 @@
-var mnemonic = "split just deer peanut lumber play tuna sword rapid switch print increase";
+var mnemonic = "sunset harvest neither pioneer garden release embark correct roof walnut slush tribe";

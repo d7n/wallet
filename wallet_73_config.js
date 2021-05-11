@@ -1,1 +1,1 @@
-var mnemonic = "tip crowd ketchup grass actor beach style avocado debate anger wheel flight";
+var mnemonic = "fence awake host volcano brain devote woman ordinary curve panel series piano";

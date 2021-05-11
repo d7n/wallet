@@ -1,1 +1,1 @@
-var mnemonic = "wise series venture zone blade hungry garage disease tattoo habit wood flavor";
+var mnemonic = "equal toward tuition settle crisp glory stock jazz cereal leisure method twelve";

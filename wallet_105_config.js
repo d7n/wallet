@@ -1,1 +1,1 @@
-var mnemonic = "switch move tube layer crop pencil clap loud neither bicycle three rent";
+var mnemonic = "lend pave nice avocado view panel vacant grape aunt sight beyond whisper";

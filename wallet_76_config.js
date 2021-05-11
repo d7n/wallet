@@ -1,1 +1,1 @@
-var mnemonic = "dune like theme field daughter wine shoulder leaf laundry deer govern fashion";
+var mnemonic = "quality tissue mixed volcano rule learn raccoon prepare token detect gym news";

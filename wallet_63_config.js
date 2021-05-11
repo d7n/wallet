@@ -1,1 +1,1 @@
-var mnemonic = "bitter hurdle ready minimum ceiling good runway tunnel way easy blame swap";
+var mnemonic = "defy muscle rate spirit turtle enjoy injury miss sunny click fame hurry";

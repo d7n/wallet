@@ -1,1 +1,1 @@
-var mnemonic = "acquire elite skirt shuffle miracle arrange else cook boy glow fish happy";
+var mnemonic = "great dad jaguar switch bulk volume execute original print bonus exhibit magic";

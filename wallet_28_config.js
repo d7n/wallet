@@ -1,1 +1,1 @@
-var mnemonic = "sign october female erupt borrow turtle strategy script this mesh lock clutch";
+var mnemonic = "unfold mutual wink hour exhaust usual river innocent mom reunion simple top";

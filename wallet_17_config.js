@@ -1,1 +1,1 @@
-var mnemonic = "alley stay hand holiday exile dice gasp roof pulse mean shove meadow";
+var mnemonic = "team quit dial normal fall mosquito topic congress exist harsh swift outer";

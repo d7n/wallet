@@ -1,1 +1,1 @@
-var mnemonic = "secret release breeze prepare fantasy half crane pilot disorder movie orbit biology";
+var mnemonic = "off diamond mean tuition angry auction can yard reward update depth obey";

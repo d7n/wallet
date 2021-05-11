@@ -1,1 +1,1 @@
-var mnemonic = "student angle energy year elephant review april oyster anchor cake camera vicious";
+var mnemonic = "swing main metal issue verify flight glow spoon two lounge runway asset";

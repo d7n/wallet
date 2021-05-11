@@ -1,1 +1,1 @@
-var mnemonic = "near sphere flock sail blossom engage tray leopard situate spot smooth kid";
+var mnemonic = "use lucky trust hire gift twice sand author pattern nasty mirror excess";

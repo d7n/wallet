@@ -1,1 +1,1 @@
-var mnemonic = "grape dune pig erase exchange usual gentle muscle cage essence cry wage";
+var mnemonic = "vehicle dinosaur search fold miracle grit breeze assault eager subway truck basket";

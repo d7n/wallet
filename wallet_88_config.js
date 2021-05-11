@@ -1,1 +1,1 @@
-var mnemonic = "tooth fork female destroy erode harvest submit guard once quote rib badge";
+var mnemonic = "online govern used burger unique picnic state reform huge life swim song";

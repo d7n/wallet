@@ -1,1 +1,1 @@
-var mnemonic = "mushroom dinner wolf ready legal search galaxy gather mosquito client chunk symptom";
+var mnemonic = "flat buffalo multiply rule worth travel portion poem candy custom huge exchange";

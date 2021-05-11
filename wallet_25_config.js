@@ -1,1 +1,1 @@
-var mnemonic = "voyage faint enforce paper vocal family hawk orbit picnic fat floor enhance";
+var mnemonic = "social farm any replace foot mimic lend girl hospital clerk wasp ridge";

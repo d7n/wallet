@@ -1,1 +1,1 @@
-var mnemonic = "home evil amused negative episode room cattle review improve chase toy install";
+var mnemonic = "size loan escape ostrich pig tiny panda cloud crash story gain legend";

@@ -1,1 +1,1 @@
-var mnemonic = "deer legal helmet skin walk ceiling bundle height stay true spoil broom";
+var mnemonic = "love calm diary great believe squirrel payment sense whip become talent foil";

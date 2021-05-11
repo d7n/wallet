@@ -1,1 +1,1 @@
-var mnemonic = "agent yellow various traffic organ dwarf question seat vocal scare glimpse mistake";
+var mnemonic = "guess easy glide lazy collect filter lava cancel enjoy mobile cabin foam";

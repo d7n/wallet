@@ -1,1 +1,1 @@
-var mnemonic = "region pool voice liquid either minor news keen strike nasty twenty make";
+var mnemonic = "tide tumble curious interest pizza amazing rookie cradle song jacket owner use";

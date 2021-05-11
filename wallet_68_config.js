@@ -1,1 +1,1 @@
-var mnemonic = "decade must potato magic salute palace valve enter owner daring dutch apology";
+var mnemonic = "affair naive garbage despair olympic deer civil salon immense symbol start victory";

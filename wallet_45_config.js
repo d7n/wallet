@@ -1,1 +1,1 @@
-var mnemonic = "also loud album trash brave beyond laugh naive combine human floor champion";
+var mnemonic = "august explain album hint diary all lawsuit move private trouble valid enforce";

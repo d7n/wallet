@@ -1,1 +1,1 @@
-var mnemonic = "slush dinner boost error wrestle weird strategy lion anchor bulb original thought";
+var mnemonic = "ostrich add height ask prevent soap inherit eyebrow arrive snake legal defy";

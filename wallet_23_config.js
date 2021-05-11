@@ -1,1 +1,1 @@
-var mnemonic = "stick bike cancel curtain lion angry fatigue input subject toy weasel conduct";
+var mnemonic = "collect suspect baby follow exit track obey cinnamon wall walnut moral about";

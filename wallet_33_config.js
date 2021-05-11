@@ -1,1 +1,1 @@
-var mnemonic = "piece utility laundry derive tool primary amateur junk crime claw jump until";
+var mnemonic = "pyramid involve second topple edge proof wish want art dinner wife today";

@@ -1,1 +1,1 @@
-var mnemonic = "popular wise abstract soda stem heavy chaos fence taste live domain acoustic";
+var mnemonic = "tumble loop umbrella follow fever wisdom betray drill ugly coach hotel always";

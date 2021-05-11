@@ -1,1 +1,1 @@
-var mnemonic = "program critic anchor twist beyond strong balance bargain denial gospel enlist mango";
+var mnemonic = "clown theory select tonight margin basic gym auto fine zoo universe expand";

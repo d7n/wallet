@@ -1,1 +1,1 @@
-var mnemonic = "carbon few convince aunt eagle seek empty naive old slight busy web";
+var mnemonic = "velvet exotic lamp victory sleep tumble airport position forget seven hospital bench";

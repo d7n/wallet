@@ -1,1 +1,1 @@
-var mnemonic = "three regular harbor office track dinner clown crash stand burden way world";
+var mnemonic = "sell divorce trophy tennis funny lucky essence myth member cruise gate carry";

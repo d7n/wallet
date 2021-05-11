@@ -1,1 +1,1 @@
-var mnemonic = "interest paddle grab caught bar female able expand theory gather fade ecology";
+var mnemonic = "hour boss void make fragile cousin begin jaguar tag absent quality immune";

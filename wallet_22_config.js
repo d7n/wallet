@@ -1,1 +1,1 @@
-var mnemonic = "sunset december jar swim penalty ride have shy enrich fun flush strong";
+var mnemonic = "dwarf phone effort lava list oyster midnight gate rely desk vault staff";

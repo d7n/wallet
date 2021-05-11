@@ -1,1 +1,1 @@
-var mnemonic = "cupboard fetch rubber second battle view focus rhythm cross tattoo nurse purpose";
+var mnemonic = "text flame portion social hood spatial saddle average fiber neck note castle";

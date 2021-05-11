@@ -1,1 +1,1 @@
-var mnemonic = "uphold picnic window first also short praise fatigue item square evoke onion";
+var mnemonic = "monkey rare attack salmon install horse soda flag plug drill cliff alert";

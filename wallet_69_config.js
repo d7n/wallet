@@ -1,1 +1,1 @@
-var mnemonic = "cram fruit allow game say rally patch easy coral spy pave magnet";
+var mnemonic = "panther indicate solution dawn finish expire mouse believe friend neutral electric click";

@@ -1,1 +1,1 @@
-var mnemonic = "hero address fire canyon right animal notable truly chaos useless correct current";
+var mnemonic = "aspect park manage vapor typical version use toward torch before mule disorder";

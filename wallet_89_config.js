@@ -1,1 +1,1 @@
-var mnemonic = "neck cash gesture pipe mixed hold since snow sense margin barrel turn";
+var mnemonic = "stand huge woman cram slim hip mosquito hurry bulb when muffin subway";

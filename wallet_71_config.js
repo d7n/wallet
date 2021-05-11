@@ -1,1 +1,1 @@
-var mnemonic = "aware husband brown cement hazard kingdom chest truck funny food cruise element";
+var mnemonic = "entry report oil tribe leisure fade grid diagram cross cinnamon payment member";

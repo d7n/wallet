@@ -1,1 +1,1 @@
-var mnemonic = "tank develop square smile siege carry battle camp alter olive example drama";
+var mnemonic = "truly good clap arm traffic dirt hen middle sister what armor front";

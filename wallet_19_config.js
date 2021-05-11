@@ -1,1 +1,1 @@
-var mnemonic = "street theory again benefit fluid essay vacuum story unfold injury rail situate";
+var mnemonic = "pear casino clown neutral inflict field help trouble still lunch wife humor";

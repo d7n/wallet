@@ -1,1 +1,1 @@
-var mnemonic = "flame coast harsh only frozen vital cliff live impact shrimp wisdom echo";
+var mnemonic = "write security flower dolphin index truck ridge have merry school expect case";

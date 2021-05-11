@@ -1,1 +1,1 @@
-var mnemonic = "elevator sleep demand demand garage group steak valid top museum gospel door";
+var mnemonic = "draw eight confirm smile grass side piano hidden series oil fun year";

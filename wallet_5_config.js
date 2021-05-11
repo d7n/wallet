@@ -1,1 +1,1 @@
-var mnemonic = "base clock globe dynamic chief mandate scene frame teach huge wedding draft";
+var mnemonic = "damp jungle hundred faith picnic penalty door taste shaft mixture aware best";

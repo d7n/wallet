@@ -1,1 +1,1 @@
-var mnemonic = "liar dentist lion nasty acoustic file soda trap canoe thank talk endorse";
+var mnemonic = "knock simple bread wasp tiny glad risk enhance offer ramp method mention";

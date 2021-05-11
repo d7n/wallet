@@ -1,1 +1,1 @@
-var mnemonic = "scan negative cram wire deal secret public task praise away hint network";
+var mnemonic = "pyramid snow grace fruit mutual they life cattle attract street elder copper";

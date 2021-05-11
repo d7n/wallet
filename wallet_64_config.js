@@ -1,1 +1,1 @@
-var mnemonic = "turkey chronic uphold arrow axis north truth spatial diamond print chest raw";
+var mnemonic = "bonus ability mansion husband rally heart absorb document post connect lucky order";

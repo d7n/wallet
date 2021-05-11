@@ -1,1 +1,1 @@
-var mnemonic = "carbon crystal custom hollow dune decide kite rifle tag daring six skull";
+var mnemonic = "veteran pass horror peasant output tunnel mixture buddy message bacon term make";

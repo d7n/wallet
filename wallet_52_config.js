@@ -1,1 +1,1 @@
-var mnemonic = "upper stock impulse atom bargain benefit family view reduce mammal goose identify";
+var mnemonic = "risk festival fat zone broom forget paddle curtain blue snake hen olive";

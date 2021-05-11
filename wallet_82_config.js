@@ -1,1 +1,1 @@
-var mnemonic = "cat bacon task frown awake quarter obtain stairs salmon grape equip situate";
+var mnemonic = "border brand blur broccoli farm acquire shell rug trophy still marine below";

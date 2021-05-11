@@ -1,1 +1,1 @@
-var mnemonic = "cause few price strike gadget lemon tornado claw lamp phrase slim together";
+var mnemonic = "bounce recall hawk major armed source divert add since pill mixed habit";

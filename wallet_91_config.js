@@ -1,1 +1,1 @@
-var mnemonic = "final toddler relax reopen decade faculty swarm neglect sport educate thumb artefact";
+var mnemonic = "speak film enact patch machine vacuum course please kite crater next dutch";

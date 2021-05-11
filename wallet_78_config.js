@@ -1,1 +1,1 @@
-var mnemonic = "estate only engage grief cause worth basket quiz edge business fancy mesh";
+var mnemonic = "lab matter stuff number spot first exercise screen tip vague discover february";

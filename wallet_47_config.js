@@ -1,1 +1,1 @@
-var mnemonic = "dash mass evidence funny bridge capital cherry table situate monkey before resist";
+var mnemonic = "gaze health squeeze finish tobacco draft flat napkin account frown wide bulk";

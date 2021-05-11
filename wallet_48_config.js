@@ -1,1 +1,1 @@
-var mnemonic = "unaware pigeon regret tape wonder edge buddy galaxy mistake fox tower interest";
+var mnemonic = "pact acquire apple negative glare fossil sample slender worry old force jazz";

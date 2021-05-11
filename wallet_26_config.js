@@ -1,1 +1,1 @@
-var mnemonic = "scorpion couch stem best stem swarm window stick solid pulse elite nothing";
+var mnemonic = "rebel soap resource apple fix general include organ dune despair spike spell";

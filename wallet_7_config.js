@@ -1,1 +1,1 @@
-var mnemonic = "rapid purity beef consider swift over health smile beyond scout suspect canyon";
+var mnemonic = "quarter item split vast vibrant foil kick dismiss decide clerk project quote";

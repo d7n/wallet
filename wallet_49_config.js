@@ -1,1 +1,1 @@
-var mnemonic = "siren wink blossom sentence monkey erode banner please promote become pluck visit";
+var mnemonic = "endless pond leopard insane marine pudding dice tourist source name comfort swing";

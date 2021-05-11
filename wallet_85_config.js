@@ -1,1 +1,1 @@
-var mnemonic = "crash peasant stumble wife combine stomach fine noodle snow enact aisle stick";
+var mnemonic = "feel transfer useless voice chief solid vessel festival predict barrel debate viable";

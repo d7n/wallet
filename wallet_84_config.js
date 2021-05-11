@@ -1,1 +1,1 @@
-var mnemonic = "scissors favorite awake knock safe light antique canal feature garage horse wood";
+var mnemonic = "achieve lobster bulb host desk mushroom pass shaft review midnight damp shoe";

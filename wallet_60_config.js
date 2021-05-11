@@ -1,1 +1,1 @@
-var mnemonic = "ice divide float huge upper moon impact price nasty demand manage exclude";
+var mnemonic = "tiny vessel olive truck welcome depend calm distance sail jungle boy rescue";

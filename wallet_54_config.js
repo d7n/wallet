@@ -1,1 +1,1 @@
-var mnemonic = "absent fee always glad excess dust cotton remember bitter relax craft funny";
+var mnemonic = "rural suggest couple feel card edit solve ring push sadness cupboard wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "whip fall electric auto kitchen search rescue silent fiber journey tomorrow caught";
+var mnemonic = "unfair hazard analyst brand urban chat invest tide climb ethics execute romance";

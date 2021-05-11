@@ -1,1 +1,1 @@
-var mnemonic = "learn hard welcome aisle liberty win ahead draw nation level convince group";
+var mnemonic = "page fabric human afford stadium damage weekend flat blue opinion sea talk";

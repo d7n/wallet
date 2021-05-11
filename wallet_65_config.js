@@ -1,1 +1,1 @@
-var mnemonic = "supply tag fish sell betray celery cloud license screen right rice kangaroo";
+var mnemonic = "eight blue manage advice destroy inquiry rare next identify curtain awake hint";

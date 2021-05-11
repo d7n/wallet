@@ -1,1 +1,1 @@
-var mnemonic = "average extra agree injury swear hurt rail flee glory horse spot try";
+var mnemonic = "pluck property inform quit donkey nephew ranch autumn upon spare always wife";

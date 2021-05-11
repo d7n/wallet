@@ -1,1 +1,1 @@
-var mnemonic = "just either antique yard pistol dose fabric feature sign call mistake someone";
+var mnemonic = "more bullet discover village focus vague enrich prepare captain gather system lesson";

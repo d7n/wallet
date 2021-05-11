@@ -1,1 +1,1 @@
-var mnemonic = "wise trophy immune salt wealth fold citizen input cube girl bleak autumn";
+var mnemonic = "baby carpet bounce warm either crystal breeze play verb visa program spy";

@@ -1,1 +1,1 @@
-var mnemonic = "note dismiss define fault fun exist little coin congress curtain school icon";
+var mnemonic = "trade salon item bird seed mean behave special wasp excite hunt bargain";

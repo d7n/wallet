@@ -1,1 +1,1 @@
-var mnemonic = "joy list chat busy insane apology flat anxiety seminar invite warm elder";
+var mnemonic = "dismiss circle perfect dad welcome daughter brush clever avocado car disorder spy";

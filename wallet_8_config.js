@@ -1,1 +1,1 @@
-var mnemonic = "popular domain either deny desert silent south chapter remember memory cream crunch";
+var mnemonic = "strike silk fog december worry tourist drill tip elder boss tobacco elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "three flock tornado busy evolve evil virtual install dumb echo example goose";
+var mnemonic = "course modify city aisle indicate gaze text limit fantasy term portion bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage myself liberty media obey kit nothing screen deny wave normal pet";
+var mnemonic = "energy mask add arrest giggle fame wrist kick cliff rigid pause loan";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge debate devote innocent plastic gentle pet embrace margin dry gravity reduce";
+var mnemonic = "render vintage motion pistol idle card matter hover valid heavy version renew";

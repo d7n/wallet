@@ -1,1 +1,1 @@
-var mnemonic = "mirror key teach olive edit cage future field mystery local sunset spread";
+var mnemonic = "pair describe gym concert involve outdoor plunge image author license spatial dismiss";

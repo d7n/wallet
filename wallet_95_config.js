@@ -1,1 +1,1 @@
-var mnemonic = "spy six year clog sight setup giggle ranch snap clog casual during";
+var mnemonic = "figure energy bonus pretty miracle benefit upon broccoli raw hurry define physical";

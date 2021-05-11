@@ -1,1 +1,1 @@
-var mnemonic = "host cover sample skin cake shop mass body biology casual carbon lobster";
+var mnemonic = "busy balcony spider strike sample secret swim target quote top often jeans";

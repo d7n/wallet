@@ -1,1 +1,1 @@
-var mnemonic = "strike board relief lamp glory caution business venture cradle scrub short layer";
+var mnemonic = "claw burger pizza long capital mixed okay end sense pizza casual position";

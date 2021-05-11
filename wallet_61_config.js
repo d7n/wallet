@@ -1,1 +1,1 @@
-var mnemonic = "prize toe trash episode zero travel hockey cliff afraid sound report side";
+var mnemonic = "mammal casino puzzle kit claim gain insect roast relax observe wish spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "script worth pumpkin ride toss movie stage run slice shaft waste vast";
+var mnemonic = "same concert float month speak suspect excuse modify year caught ahead step";

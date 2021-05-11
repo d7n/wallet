@@ -1,1 +1,1 @@
-var mnemonic = "bleak switch bar clerk surprise when canoe manage dream isolate ozone explain";
+var mnemonic = "aisle corn sunny talk cost bulb dumb size vote glance finger submit";

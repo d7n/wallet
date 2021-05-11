@@ -1,1 +1,1 @@
-var mnemonic = "legend rude excite sight fee alien infant foam market income kitten resource";
+var mnemonic = "cotton common banner dust chicken lazy load one useless concert crack crime";

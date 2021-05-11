@@ -1,1 +1,1 @@
-var mnemonic = "rabbit senior truly knee arena twin people impose dumb you door room";
+var mnemonic = "flower elder prize found crucial cruise horse goddess glide office craft kid";

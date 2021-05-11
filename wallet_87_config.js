@@ -1,1 +1,1 @@
-var mnemonic = "alone pretty embody guess sort coral pass twice shock parrot kangaroo claim";
+var mnemonic = "practice husband charge journey donate struggle plastic area sister portion plug purse";

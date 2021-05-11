@@ -1,1 +1,1 @@
-var mnemonic = "slight raise purchase initial bamboo drastic chimney clutch stadium neglect silly job";
+var mnemonic = "head vicious level burger maid satoshi more outer air nephew useless melt";

@@ -1,1 +1,1 @@
-var mnemonic = "side sauce enroll speed gown owner drum apart thrive total suspect upper";
+var mnemonic = "utility cluster route suggest joke public approve swim large couple settle energy";

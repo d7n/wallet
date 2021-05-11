@@ -1,1 +1,1 @@
-var mnemonic = "seminar bread canal wheat satoshi inmate drift extend silver rotate behave duck";
+var mnemonic = "dumb lock rib olive wise silver urge chuckle oven kitchen hope venture";

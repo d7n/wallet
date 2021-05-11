@@ -1,1 +1,1 @@
-var mnemonic = "broken margin disagree text series pig alert glance proof regular farm conduct";
+var mnemonic = "daughter chair impulse anchor close kangaroo blanket tonight mix radio chat vapor";
