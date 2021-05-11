@@ -1,1 +1,1 @@
-var mnemonic = "skill north blouse cruise hybrid amount organ private nuclear security inch before";
+var mnemonic = "orient found flame material business social valid cool vault shock awesome involve";

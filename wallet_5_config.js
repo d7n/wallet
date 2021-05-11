@@ -1,1 +1,1 @@
-var mnemonic = "side slight mean salad gloom dash february emerge cage resist sick syrup";
+var mnemonic = "hybrid permit faith claim poet grace collect diagram action drink town pumpkin";

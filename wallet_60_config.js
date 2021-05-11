@@ -1,1 +1,1 @@
-var mnemonic = "about swallow turkey shed pipe pass rebuild kid symptom cherry delay blouse";
+var mnemonic = "chaos hold squeeze tired magnet island leader weasel urban silent ostrich resist";

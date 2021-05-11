@@ -1,1 +1,1 @@
-var mnemonic = "warrior soccer resemble thrive disorder goose borrow salute appear bonus whale warfare";
+var mnemonic = "pool alcohol boring penalty repair unhappy bunker hazard certain increase vessel hood";

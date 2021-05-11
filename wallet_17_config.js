@@ -1,1 +1,1 @@
-var mnemonic = "green pass style embark exclude logic brain tragic rule film napkin better";
+var mnemonic = "profit mimic churn street square sheriff profit surge talent lion protect visit";

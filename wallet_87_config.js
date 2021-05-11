@@ -1,1 +1,1 @@
-var mnemonic = "success hero horror behave spin true kitten crucial era all fault husband";
+var mnemonic = "fall elephant universe blush oxygen oyster jaguar badge jar fever record expire";

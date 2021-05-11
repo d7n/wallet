@@ -1,1 +1,1 @@
-var mnemonic = "weird foam tortoise diary enrich gadget grass nephew life grain feed when";
+var mnemonic = "addict expire evolve acoustic ivory cute boy pony exhibit smoke message project";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant limb tumble ranch limit trade scheme power prison village van pill";
+var mnemonic = "age milk cry humble photo fish plate vital conduct install hand cube";

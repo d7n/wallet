@@ -1,1 +1,1 @@
-var mnemonic = "laundry garlic teach crane slush elevator lab glare plunge enact order order";
+var mnemonic = "miracle core mass close gorilla remain light window notable anchor disease deny";

@@ -1,1 +1,1 @@
-var mnemonic = "fine slide measure celery snake before labor early often switch zero hurdle";
+var mnemonic = "uncover acoustic clarify chat just stand reject trust address window inmate shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer lab uniform love purse tomato nothing cave best weekend size main";
+var mnemonic = "tail clap cat palace cheese hero turn ghost tenant thrive flip daring";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy essay spray charge clarify neutral riot blanket barely fetch major aim";
+var mnemonic = "seven machine swap monkey that spread liberty sample flip among hotel shoe";

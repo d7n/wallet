@@ -1,1 +1,1 @@
-var mnemonic = "grace tiger quantum daring random language bid sketch oil much debris fly";
+var mnemonic = "ozone pepper worry rare identify convince struggle trouble change gaze fury language";

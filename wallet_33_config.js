@@ -1,1 +1,1 @@
-var mnemonic = "remind quote ceiling stay weekend obey notable business april please moral donate";
+var mnemonic = "smooth work now pyramid humble warm level today tail jump bunker lawn";

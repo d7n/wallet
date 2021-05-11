@@ -1,1 +1,1 @@
-var mnemonic = "genre eager nest quality duck blind stick month cancel member smile nuclear";
+var mnemonic = "garden obscure crew tilt walnut shallow adult kiwi lunar prize sight plate";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess hospital decade injury crazy hamster connect math home bless reopen arrow";
+var mnemonic = "onion charge obscure mansion utility own border public skin myth mobile swallow";

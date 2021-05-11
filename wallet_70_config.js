@@ -1,1 +1,1 @@
-var mnemonic = "unfair glow admit wrong noble dolphin antique cargo real lucky system certain";
+var mnemonic = "habit ghost vacuum media polar diagram forum hamster destroy fancy head wet";

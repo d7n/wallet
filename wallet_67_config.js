@@ -1,1 +1,1 @@
-var mnemonic = "capable violin work orange island dwarf jaguar butter celery athlete language twin";
+var mnemonic = "middle tube baby company claim people alarm extend order unhappy siren wave";

@@ -1,1 +1,1 @@
-var mnemonic = "segment display pudding infant relief version main size earn bread gorilla soda";
+var mnemonic = "manual switch enough swear broccoli east rather between sing long across orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "column urge oxygen soup erupt image sheriff awful expose resist urge payment";
+var mnemonic = "cable donkey gold improve puppy debris girl survey capital miracle ridge hunt";

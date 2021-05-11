@@ -1,1 +1,1 @@
-var mnemonic = "shove merit jacket say fog regret upper eagle uphold annual coyote goddess";
+var mnemonic = "minute doctor visa museum gap copper critic sleep nice gadget fame rug";

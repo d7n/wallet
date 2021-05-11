@@ -1,1 +1,1 @@
-var mnemonic = "window apology lift then lumber possible riot company level smooth insane level";
+var mnemonic = "risk online liquid beach need easily cook despair opera monitor monkey huge";

@@ -1,1 +1,1 @@
-var mnemonic = "glue child ring dawn celery defy voyage proof crater cook roof answer";
+var mnemonic = "blanket illegal business deer pigeon evoke metal gift raw melt cart poet";

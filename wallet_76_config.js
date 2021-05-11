@@ -1,1 +1,1 @@
-var mnemonic = "local hurry pistol then remember deposit radar resist gasp chicken identify uniform";
+var mnemonic = "stumble share tiny purchase senior total tuna airport lunar blood actress lobster";

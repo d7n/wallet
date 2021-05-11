@@ -1,1 +1,1 @@
-var mnemonic = "hunt tissue come pistol patrol scare crop abstract table gain celery soda";
+var mnemonic = "tumble toast unveil margin equal diamond gain number lunch index spread sorry";

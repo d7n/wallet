@@ -1,1 +1,1 @@
-var mnemonic = "piano page motor clap rather move other suspect assume gloom abstract worth";
+var mnemonic = "final museum fee draft merit stadium wave sense champion side organ hockey";

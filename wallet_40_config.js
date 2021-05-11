@@ -1,1 +1,1 @@
-var mnemonic = "hunt thunder project badge card rough sibling remain update daughter pipe oval";
+var mnemonic = "path merge situate expire raise curtain august brain buffalo predict box cheese";

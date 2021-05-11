@@ -1,1 +1,1 @@
-var mnemonic = "believe couple control skirt zebra gloom tribe cross execute rude reunion glow";
+var mnemonic = "picnic figure cannon dish quick employ alien organ spice knock price away";

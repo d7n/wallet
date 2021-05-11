@@ -1,1 +1,1 @@
-var mnemonic = "chicken slow tattoo kit inch upgrade vague hurdle when rebel sail cream";
+var mnemonic = "shiver tragic security dune outer chicken train reduce trial error mercy rubber";

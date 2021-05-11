@@ -1,1 +1,1 @@
-var mnemonic = "capable wing gorilla repeat photo input sudden frame miracle harbor stage eagle";
+var mnemonic = "donor input guard settle scare test note siege resemble warm remember trim";

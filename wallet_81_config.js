@@ -1,1 +1,1 @@
-var mnemonic = "fold protect boil useless faint rent foot limb card harbor scale direct";
+var mnemonic = "reunion betray coconut pledge hungry spider patch capable forest phone you fruit";

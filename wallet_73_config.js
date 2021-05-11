@@ -1,1 +1,1 @@
-var mnemonic = "grace globe six interest thumb fitness page best phrase forum runway impose";
+var mnemonic = "ethics sustain shoot behind rural fresh merit harvest music episode process argue";

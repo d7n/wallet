@@ -1,1 +1,1 @@
-var mnemonic = "insane head panda fox banana couple alter diamond afford carry valve august";
+var mnemonic = "wise mandate prosper crazy predict kiwi bargain expand exhaust culture space cradle";

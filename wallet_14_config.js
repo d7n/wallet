@@ -1,1 +1,1 @@
-var mnemonic = "usual strategy can leader spot pause chimney dash butter suggest hub protect";
+var mnemonic = "frown goat put improve wish skill cigar stone screen gossip original bleak";

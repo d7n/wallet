@@ -1,1 +1,1 @@
-var mnemonic = "duck dove express trip pumpkin curtain deny chaos trip danger paddle dumb";
+var mnemonic = "sing library onion away crane flight destroy rural absent stick bind reunion";

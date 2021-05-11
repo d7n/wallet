@@ -1,1 +1,1 @@
-var mnemonic = "monkey village humor rate neither cause tomato chief awesome inch unfair twist";
+var mnemonic = "unknown harvest culture ribbon hold siege snap size chase valley couple piano";

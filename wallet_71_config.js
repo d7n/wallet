@@ -1,1 +1,1 @@
-var mnemonic = "glad high pony buyer pudding moon about snap glare satisfy hamster bike";
+var mnemonic = "iron all earth require ramp grow shallow ceiling uniform claw curve drink";

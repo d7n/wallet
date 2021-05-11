@@ -1,1 +1,1 @@
-var mnemonic = "ski word name market tongue visa spring palm season boat toward illness";
+var mnemonic = "child mechanic require cat drastic coconut duck dolphin joy tackle warrior actress";

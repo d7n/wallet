@@ -1,1 +1,1 @@
-var mnemonic = "eye sniff innocent hope cabin trip hill settle pledge yellow scorpion romance";
+var mnemonic = "glue flower viable pen company feature burst bracket arrive dragon risk dune";

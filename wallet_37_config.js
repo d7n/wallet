@@ -1,1 +1,1 @@
-var mnemonic = "snack glad sting yard sibling hover among despair mean grass owner enforce";
+var mnemonic = "suggest amount hurt ahead tuition menu egg gift video century salad awkward";

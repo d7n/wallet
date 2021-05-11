@@ -1,1 +1,1 @@
-var mnemonic = "egg table neglect delay visa pond carpet piece opera gloom much chicken";
+var mnemonic = "will carry wreck excuse search sword gauge venue lab pact blouse skate";

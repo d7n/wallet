@@ -1,1 +1,1 @@
-var mnemonic = "elegant skin link ecology argue arrow tooth identify plate gown sound armed";
+var mnemonic = "wedding ostrich core trim naive rather law filter reveal inch parade any";

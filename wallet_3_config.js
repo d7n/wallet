@@ -1,1 +1,1 @@
-var mnemonic = "rocket alpha worth face awesome dawn desk wink seminar chief orchard best";
+var mnemonic = "ability ugly ship camp online sure lift invest simple corn weather release";

@@ -1,1 +1,1 @@
-var mnemonic = "piano vehicle love express census please fitness saddle civil win analyst unknown";
+var mnemonic = "ring mutual question pink square thing trap believe fancy consider chimney shadow";

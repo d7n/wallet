@@ -1,1 +1,1 @@
-var mnemonic = "act recall motion erosion youth floor dinosaur comic mercy pledge vintage upset";
+var mnemonic = "pulp hurt correct icon sphere rival attitude insect amused begin rhythm skin";

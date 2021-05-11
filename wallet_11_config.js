@@ -1,1 +1,1 @@
-var mnemonic = "audit latin damp age middle school worth cost chuckle ghost apart dynamic";
+var mnemonic = "input local nominee sense turn riot hockey member cannon track first govern";

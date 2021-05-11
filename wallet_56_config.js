@@ -1,1 +1,1 @@
-var mnemonic = "theme viable track range axis grow lady spoon divide pupil globe obscure";
+var mnemonic = "poverty discover shoulder smart avocado useless require menu song media mutual organ";

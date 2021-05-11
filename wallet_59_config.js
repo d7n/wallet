@@ -1,1 +1,1 @@
-var mnemonic = "horn shift virtual frequent agent figure elite business woman tattoo position trap";
+var mnemonic = "loan person dismiss bundle detail despair organ flash fatal snap taste nurse";

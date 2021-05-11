@@ -1,1 +1,1 @@
-var mnemonic = "march century traffic youth weird course drift kiwi company nation track sight";
+var mnemonic = "exit spirit believe seminar pair series burden tenant august put nothing survey";

@@ -1,1 +1,1 @@
-var mnemonic = "kit cause race portion gossip jealous nerve staff can buffalo grocery soon";
+var mnemonic = "gift woman position describe brand project still alcohol rubber rude opera issue";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic shallow capital tooth vacuum salmon meadow verify save violin wrist crane";
+var mnemonic = "next sniff gospel already will turkey analyst lift occur naive sponsor sibling";

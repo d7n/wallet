@@ -1,1 +1,1 @@
-var mnemonic = "bitter borrow rotate barrel cushion spot minute tissue tiger flat agent school";
+var mnemonic = "talent bridge endorse success cram neither woman phone palace until coast peace";

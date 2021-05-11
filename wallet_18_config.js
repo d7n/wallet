@@ -1,1 +1,1 @@
-var mnemonic = "giraffe because kid erase caught attract behave glove cattle naive access credit";
+var mnemonic = "run crew word fat humble hero situate arctic walk trumpet buffalo tortoise";

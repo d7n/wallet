@@ -1,1 +1,1 @@
-var mnemonic = "deny across cat bind kit margin kidney doctor shadow stable adapt shrimp";
+var mnemonic = "wall follow park giggle useful candy health pull raccoon nerve faint dawn";

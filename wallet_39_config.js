@@ -1,1 +1,1 @@
-var mnemonic = "receive annual survey crash keen delay shed badge click wolf unit trend";
+var mnemonic = "three toss vicious then vehicle spider club museum neglect alpha order property";

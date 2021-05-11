@@ -1,1 +1,1 @@
-var mnemonic = "sun wise average anger minor vast wealth hidden become milk dog step";
+var mnemonic = "leopard judge quantum stay basket business whisper civil glide match level wet";

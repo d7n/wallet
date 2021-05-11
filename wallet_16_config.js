@@ -1,1 +1,1 @@
-var mnemonic = "game sand tongue during accident concert taxi hint list human initial wasp";
+var mnemonic = "super fine ready relief fox lens catalog ecology service become trip paper";

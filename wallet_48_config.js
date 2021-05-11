@@ -1,1 +1,1 @@
-var mnemonic = "guitar snake random tone own stairs fame ecology logic fuel theory nation";
+var mnemonic = "strike myth bounce dizzy awake pretty ten palace cannon cluster cactus digital";

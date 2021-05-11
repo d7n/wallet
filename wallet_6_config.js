@@ -1,1 +1,1 @@
-var mnemonic = "fitness birth hour betray angry arrow devote rare snow prosper lake run";
+var mnemonic = "zoo debris fee trust unable sure hotel require prefer tool appear grow";

@@ -1,1 +1,1 @@
-var mnemonic = "celery victory hole cattle seed spike sign current eternal leaf vast bus";
+var mnemonic = "borrow jar style spider noble narrow giraffe vacant mango awake depth stick";

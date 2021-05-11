@@ -1,1 +1,1 @@
-var mnemonic = "ethics abandon silk wet cave team athlete talent unaware skirt skin build";
+var mnemonic = "lava online endless scrub danger turtle sister false hen symptom admit trick";

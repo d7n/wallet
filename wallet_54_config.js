@@ -1,1 +1,1 @@
-var mnemonic = "zero roast replace decide unit edit media salad nature basic shrug pupil";
+var mnemonic = "window accident brick kangaroo oppose lady pepper brain forget blame offer advice";

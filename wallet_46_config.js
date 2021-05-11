@@ -1,1 +1,1 @@
-var mnemonic = "position source wasp upgrade prosper hope income achieve caution envelope scare stove";
+var mnemonic = "wait food butter among knee radio crime clip setup consider pluck connect";

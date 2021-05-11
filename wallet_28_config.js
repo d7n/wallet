@@ -1,1 +1,1 @@
-var mnemonic = "obtain trophy gesture silent ranch vivid random ring isolate tank cover edit";
+var mnemonic = "prize season charge goddess impulse sing refuse rack smart main near jewel";

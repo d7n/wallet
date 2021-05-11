@@ -1,1 +1,1 @@
-var mnemonic = "minimum float cage gun gossip scheme rabbit brother anger crazy fancy chicken";
+var mnemonic = "engage memory early enter bullet heart plunge ready rely under divide state";

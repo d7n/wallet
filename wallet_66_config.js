@@ -1,1 +1,1 @@
-var mnemonic = "math six height supreme practice success dinner action abstract search garlic final";
+var mnemonic = "nominee define shadow penalty cause awful fringe zero spread jelly gentle pen";

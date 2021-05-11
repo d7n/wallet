@@ -1,1 +1,1 @@
-var mnemonic = "claim october minute snake steak maze thunder math metal across maximum one";
+var mnemonic = "indicate between city boost cable trend south rifle title year double pioneer";

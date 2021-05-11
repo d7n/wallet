@@ -1,1 +1,1 @@
-var mnemonic = "floor virtual adult eye spoil april rapid survey divide knee game affair";
+var mnemonic = "chaos forget elbow demise room jump someone target burden cluster fun merit";

@@ -1,1 +1,1 @@
-var mnemonic = "ship naive inject tissue toddler hood goose cause kiss title smoke cricket";
+var mnemonic = "laugh gift inquiry ask mule reopen army control original sun secret abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "close act sample plug deputy fancy knife life soldier bamboo burger lady";
+var mnemonic = "twice grab worry initial bonus session fiscal heavy forest all grit oven";

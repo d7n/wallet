@@ -1,1 +1,1 @@
-var mnemonic = "dish brand prepare sauce unusual dish amateur boost slide jacket gauge rib";
+var mnemonic = "assist prison live broken sense curious paper drive burger brand eager gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "unit proud praise episode juice behind auction paddle title sock still fire";
+var mnemonic = "wrist awesome child exhaust stereo tooth kitchen scene learn theme fame extra";

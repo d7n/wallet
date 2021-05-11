@@ -1,1 +1,1 @@
-var mnemonic = "tragic stand great ghost call bulb state lonely ride receive cup brass";
+var mnemonic = "head local wink trap reason scissors boring unfold chuckle news excite club";

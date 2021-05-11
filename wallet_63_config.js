@@ -1,1 +1,1 @@
-var mnemonic = "brown purity junior remove husband moment sadness wrist dolphin inhale two erase";
+var mnemonic = "bind cheese kid favorite edge text decorate buyer above veteran kick duty";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal violin silk usual north goddess loan model shine thought lumber pigeon";
+var mnemonic = "tornado use carbon way sausage broken lens attitude keep miracle grocery broccoli";

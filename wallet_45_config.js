@@ -1,1 +1,1 @@
-var mnemonic = "grow budget alley sun rent aerobic grocery isolate craft young rescue weird";
+var mnemonic = "kidney cigar close hat amazing gaze panda refuse claim build consider mix";

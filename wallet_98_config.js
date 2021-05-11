@@ -1,1 +1,1 @@
-var mnemonic = "busy upon budget winner enable repair various owner village quiz rule comfort";
+var mnemonic = "coffee claw lens pledge frame ugly amazing step stock turkey thing paddle";

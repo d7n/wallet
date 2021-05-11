@@ -1,1 +1,1 @@
-var mnemonic = "lumber puppy genuine alter depart wheat green soccer salon spring option world";
+var mnemonic = "virtual outdoor appear obtain insect window faint kitten affair elite nuclear short";

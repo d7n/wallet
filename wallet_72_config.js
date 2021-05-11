@@ -1,1 +1,1 @@
-var mnemonic = "aware repair gesture trash arrest arrest verb client aim fragile jacket thrive";
+var mnemonic = "blind friend sustain bring hungry eye squeeze meadow raw electric save inquiry";

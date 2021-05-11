@@ -1,1 +1,1 @@
-var mnemonic = "drama arch before settle eight hobby make hire extra wrong black fix";
+var mnemonic = "exchange rare aunt ordinary debate boss elevator figure stuff define horse force";

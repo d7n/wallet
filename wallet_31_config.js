@@ -1,1 +1,1 @@
-var mnemonic = "runway opinion patch alert forward unique horse antenna bundle blush glide oven";
+var mnemonic = "high cost witness stairs follow space solid first curve sunny raise three";

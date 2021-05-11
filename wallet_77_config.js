@@ -1,1 +1,1 @@
-var mnemonic = "horror wasp mutual model oxygen hill copy happy crucial water buffalo april";
+var mnemonic = "north hotel horn scrub life nuclear subject confirm sport flash either school";

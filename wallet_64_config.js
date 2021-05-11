@@ -1,1 +1,1 @@
-var mnemonic = "reunion unusual husband thank bunker dawn ahead cross arrest nerve limb submit";
+var mnemonic = "roast avoid modify ankle daring west fly script hand mouse axis spot";

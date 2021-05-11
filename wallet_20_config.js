@@ -1,1 +1,1 @@
-var mnemonic = "tell drop video depth dinosaur response quantum flight timber patch differ hip";
+var mnemonic = "slam lamp damp ahead muscle note favorite index top belt forest exile";

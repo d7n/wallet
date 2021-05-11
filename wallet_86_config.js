@@ -1,1 +1,1 @@
-var mnemonic = "refuse pride isolate fluid puppy link exhibit manual screen cattle release visa";
+var mnemonic = "grow live drama patch icon very machine smooth noise useless galaxy cherry";

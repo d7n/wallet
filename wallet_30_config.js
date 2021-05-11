@@ -1,1 +1,1 @@
-var mnemonic = "speak now govern split coin knee scheme keep grocery dolphin car diary";
+var mnemonic = "pottery cream across truly close expect law supreme neck surprise plastic pyramid";

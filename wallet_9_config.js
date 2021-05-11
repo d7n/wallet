@@ -1,1 +1,1 @@
-var mnemonic = "labor give pupil present solid snake subway unfair harbor army find orange";
+var mnemonic = "alarm thought slow fluid bid pudding harbor anxiety sea rigid cable sort";
