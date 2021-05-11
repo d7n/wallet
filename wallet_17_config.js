@@ -1,1 +1,1 @@
-var mnemonic = "found return uphold pride prevent east hybrid liberty distance man early awful";
+var mnemonic = "clever pledge pulse finish trumpet unit grace unhappy bottom crash laptop cram";

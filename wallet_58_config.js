@@ -1,1 +1,1 @@
-var mnemonic = "flush maple kiss badge squirrel primary toilet mango sting film margin wrist";
+var mnemonic = "ticket pact sketch run stamp visit cloud under top donate verb copper";

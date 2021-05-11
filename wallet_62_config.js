@@ -1,1 +1,1 @@
-var mnemonic = "hawk venue pottery desert tone wait hint text total legal mandate crater";
+var mnemonic = "final arrive goat decide bubble this artwork sand siren hazard exhaust law";

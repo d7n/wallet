@@ -1,1 +1,1 @@
-var mnemonic = "capable upgrade potato session bid distance decrease cupboard acoustic olive chef kangaroo";
+var mnemonic = "wreck throw access smooth jungle cover exotic guitar fetch kingdom square orient";

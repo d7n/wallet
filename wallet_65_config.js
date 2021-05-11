@@ -1,1 +1,1 @@
-var mnemonic = "illegal wire cotton rail biology parrot various gallery panic cinnamon bar flock";
+var mnemonic = "dial speed lunch learn jelly kick become auto range custom royal fish";

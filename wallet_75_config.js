@@ -1,1 +1,1 @@
-var mnemonic = "camera false weapon entire bridge primary milk drip income picnic arrow actress";
+var mnemonic = "gap weird above faculty alley spatial unhappy palm lamp uncover provide type";

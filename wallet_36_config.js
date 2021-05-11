@@ -1,1 +1,1 @@
-var mnemonic = "exchange author mix unlock affair very very refuse useless toe typical nothing";
+var mnemonic = "candy raven rack top anger coach loan flame photo river okay vocal";

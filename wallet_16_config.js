@@ -1,1 +1,1 @@
-var mnemonic = "scrap story damage sign april mixed use sure spatial carry fork state";
+var mnemonic = "use unfold unable conduct nothing filter prosper maid custom sudden federal foam";

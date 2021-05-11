@@ -1,1 +1,1 @@
-var mnemonic = "solid peanut air mule actual unhappy fabric warm exercise butter know transfer";
+var mnemonic = "speed fiction quit basic waste toss suspect youth wheat evolve adapt subject";

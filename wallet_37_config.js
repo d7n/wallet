@@ -1,1 +1,1 @@
-var mnemonic = "flame purity hurdle mad brush film iron try glide primary grit subway";
+var mnemonic = "install fiber decorate trade world judge bike high worth pear heavy despair";

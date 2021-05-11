@@ -1,1 +1,1 @@
-var mnemonic = "broken shock lion pluck approve exit brain feature battle soda simple position";
+var mnemonic = "runway boost rather bus two magic pitch envelope run fitness border ability";

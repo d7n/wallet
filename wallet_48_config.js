@@ -1,1 +1,1 @@
-var mnemonic = "seed brush lyrics fade trial cable orient dry sausage leaf organ category";
+var mnemonic = "ability thumb image office myth april float spray involve record kit shrug";

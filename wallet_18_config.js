@@ -1,1 +1,1 @@
-var mnemonic = "beauty museum unfair click unlock enforce walk comic fame purpose fun error";
+var mnemonic = "install express tiny two rice pole clog kingdom scatter switch aware satisfy";

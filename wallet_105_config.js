@@ -1,1 +1,1 @@
-var mnemonic = "marble upset olympic demand shrug neglect crowd only health year balance neck";
+var mnemonic = "session cradle neck indicate lawn city hurdle moral island action wedding yellow";

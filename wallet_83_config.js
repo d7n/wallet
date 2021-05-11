@@ -1,1 +1,1 @@
-var mnemonic = "bulb raccoon mom dry cabbage peasant problem perfect quarter lens throw sentence";
+var mnemonic = "unknown rabbit butter hotel end arctic decline tent trick pizza lunch surface";

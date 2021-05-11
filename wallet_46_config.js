@@ -1,1 +1,1 @@
-var mnemonic = "web insect noise charge kitten media what hurry flip galaxy funny ranch";
+var mnemonic = "casino universe pact promote essay number property betray crystal pyramid chicken square";

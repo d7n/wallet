@@ -1,1 +1,1 @@
-var mnemonic = "neck shrug twice enjoy core teach rapid scissors knife damage hard flower";
+var mnemonic = "rain error tomato draft crisp task voyage interest exile quote hollow rifle";

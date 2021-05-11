@@ -1,1 +1,1 @@
-var mnemonic = "peace garment welcome gallery invite task media goose celery cabbage youth save";
+var mnemonic = "raccoon budget invest know flat enable wish suffer mom neither talent ketchup";

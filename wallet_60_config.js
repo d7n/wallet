@@ -1,1 +1,1 @@
-var mnemonic = "lesson mixed wine mango update rapid actor forward bread kit aunt opera";
+var mnemonic = "immune gown lesson tired eye journey hybrid fancy sport fiction obscure useful";

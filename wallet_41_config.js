@@ -1,1 +1,1 @@
-var mnemonic = "evil capable romance cost resource quarter unfair master they amateur they real";
+var mnemonic = "truck abuse grocery hunt inmate cream level jazz hen trigger olive motion";

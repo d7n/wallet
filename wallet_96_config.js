@@ -1,1 +1,1 @@
-var mnemonic = "crowd chaos peasant monkey install denial behind huge river alter push amateur";
+var mnemonic = "arrive parade grace income hospital hen main cousin filter jazz priority door";

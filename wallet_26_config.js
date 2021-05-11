@@ -1,1 +1,1 @@
-var mnemonic = "proof work like weapon field sponsor series learn usual inject cargo become";
+var mnemonic = "across merge crop lottery garment quit antique rigid panther road soft shift";

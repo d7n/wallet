@@ -1,1 +1,1 @@
-var mnemonic = "admit bid bag know possible magnet blouse photo reform pond ecology either";
+var mnemonic = "amateur waste cake custom slender vintage hybrid loop caution honey debate illness";

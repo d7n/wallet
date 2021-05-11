@@ -1,1 +1,1 @@
-var mnemonic = "danger sheriff lion stumble there picture fit pupil mechanic execute milk brand";
+var mnemonic = "organ car charge ensure season ugly forget dutch vicious luggage power wish";

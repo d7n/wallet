@@ -1,1 +1,1 @@
-var mnemonic = "begin lecture fence prize virtual better polar lake window cliff survey change";
+var mnemonic = "army movie guard produce apple change castle service observe hawk wedding capable";

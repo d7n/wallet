@@ -1,1 +1,1 @@
-var mnemonic = "urban brother young nominee learn inner soldier exit peanut sort harsh minimum";
+var mnemonic = "flush prison only always number escape grit yard main share reform simple";

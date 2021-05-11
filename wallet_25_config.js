@@ -1,1 +1,1 @@
-var mnemonic = "cake humor deliver degree draft material stairs between mimic front smart skill";
+var mnemonic = "traffic fluid anger blast connect exile stable hire ceiling carry hood private";

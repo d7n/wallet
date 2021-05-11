@@ -1,1 +1,1 @@
-var mnemonic = "remind sphere exotic artefact foster soon essay access crop butter equal immune";
+var mnemonic = "inner tonight concert foster human fault gadget doll method iron survey venue";

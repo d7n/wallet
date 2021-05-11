@@ -1,1 +1,1 @@
-var mnemonic = "vanish friend goat moon castle bullet siege section maze vote stock brass";
+var mnemonic = "globe around solar friend dignity volume meadow innocent frost forget morning portion";

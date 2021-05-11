@@ -1,1 +1,1 @@
-var mnemonic = "wood double announce wait alter unfair zebra mango wash exercise obscure draft";
+var mnemonic = "often auto dumb duck draw gate fantasy rural cool craft length silver";

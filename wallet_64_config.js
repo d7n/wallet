@@ -1,1 +1,1 @@
-var mnemonic = "icon decline boss labor noble certain candy alarm trouble fringe grit unable";
+var mnemonic = "absurd renew dinner library carbon black name grab vibrant alpha tag salt";

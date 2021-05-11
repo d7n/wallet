@@ -1,1 +1,1 @@
-var mnemonic = "off anger river penalty alarm indoor system beyond life victory smile absurd";
+var mnemonic = "already smoke length decorate curtain host palm chicken broccoli fan rigid area";

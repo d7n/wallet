@@ -1,1 +1,1 @@
-var mnemonic = "steak rain doctor loop job pipe verify property fragile army inspire glad";
+var mnemonic = "choice crush pigeon meadow appear mention fame stool engine scatter insect cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble worry grain pull fan refuse tuna machine stage buddy boat increase";
+var mnemonic = "year reveal design code leave august orange false perfect fan foster gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "deer view action honey victory ozone scan display garage major foil seek";
+var mnemonic = "glance exercise fetch notable analyst wear argue above olive neither guilt faith";

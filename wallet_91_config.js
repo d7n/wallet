@@ -1,1 +1,1 @@
-var mnemonic = "apart toss armor wife accuse burden chapter attract wine chuckle oven despair";
+var mnemonic = "dune skull zero love bracket sleep coconut lucky learn gun tool hub";

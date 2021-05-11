@@ -1,1 +1,1 @@
-var mnemonic = "where jealous item advance faint illness wrist sword sea swamp quality fancy";
+var mnemonic = "change banner nest crawl donor federal olympic problem shop actual slender antenna";

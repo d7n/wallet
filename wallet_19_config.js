@@ -1,1 +1,1 @@
-var mnemonic = "transfer cloth only water swim analyst youth tongue region loyal anchor play";
+var mnemonic = "legal weird easy mix fork brand betray cricket cram adult vocal tissue";

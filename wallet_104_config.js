@@ -1,1 +1,1 @@
-var mnemonic = "boost shift attack argue dish flee huge soap chair march call secret";
+var mnemonic = "shed sport artwork never ring drum ladder welcome grace cook icon icon";

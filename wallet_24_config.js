@@ -1,1 +1,1 @@
-var mnemonic = "bike all fame unhappy timber across crunch stage mad cream twist produce";
+var mnemonic = "glory switch forum clerk hurry plunge online fun tattoo world unable mistake";

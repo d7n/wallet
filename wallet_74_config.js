@@ -1,1 +1,1 @@
-var mnemonic = "purpose provide sweet fox phone volume ridge foot million figure tip lift";
+var mnemonic = "whip world banner hammer jewel extend top unfold tattoo gaze zone aerobic";

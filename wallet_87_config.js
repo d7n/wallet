@@ -1,1 +1,1 @@
-var mnemonic = "sad inform speed useless consider evolve ridge answer spoil chase skill fabric";
+var mnemonic = "then purse urban trial often puzzle tank card mention myth digital crazy";

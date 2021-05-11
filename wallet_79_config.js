@@ -1,1 +1,1 @@
-var mnemonic = "subject group rich tomato virtual wrist cradle route express maze agree believe";
+var mnemonic = "kit moral tired boost tired offer orchard humor patient bread dumb soon";

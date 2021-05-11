@@ -1,1 +1,1 @@
-var mnemonic = "result pink youth zebra fragile silly ranch glory leopard shine because enough";
+var mnemonic = "fiction quit recipe load earth client seek logic father bind oven arrange";

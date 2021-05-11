@@ -1,1 +1,1 @@
-var mnemonic = "smile purity gesture agent sound vapor shrimp gap solid couch cabin shallow";
+var mnemonic = "bachelor marriage quantum scheme warfare lemon joke plunge cushion change teach sleep";

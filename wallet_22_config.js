@@ -1,1 +1,1 @@
-var mnemonic = "debate virtual curious result room certain suspect govern annual increase erode holiday";
+var mnemonic = "taste payment dirt decline awake daring blue aware narrow debris magic allow";

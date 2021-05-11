@@ -1,1 +1,1 @@
-var mnemonic = "vanish question frame endless history buzz method clock helmet ball rate such";
+var mnemonic = "make kind bacon student symbol phone relax setup opinion retreat employ light";

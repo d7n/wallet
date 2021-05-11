@@ -1,1 +1,1 @@
-var mnemonic = "hat blast screen swift boil life family keen all leave wrestle burger";
+var mnemonic = "boil wrestle opera artefact need whip region gallery rookie girl reunion trumpet";

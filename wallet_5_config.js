@@ -1,1 +1,1 @@
-var mnemonic = "cream tired foot cradle vast category future antique wild wolf also involve";
+var mnemonic = "mule cream mad maple mosquito differ master coral crouch wrong crane story";

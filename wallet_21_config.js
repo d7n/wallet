@@ -1,1 +1,1 @@
-var mnemonic = "jazz end since measure write patch universe hurdle fame tent level evidence";
+var mnemonic = "improve hint change raise depth vacuum merit use noble jealous room anger";

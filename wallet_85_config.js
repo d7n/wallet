@@ -1,1 +1,1 @@
-var mnemonic = "soon caution device tragic bird nest design marble minute busy setup credit";
+var mnemonic = "wheat rule there romance like slogan depend drum undo switch refuse tomorrow";

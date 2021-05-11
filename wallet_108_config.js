@@ -1,1 +1,1 @@
-var mnemonic = "major cabbage image act frame mandate knife junk drama soldier rack fault";
+var mnemonic = "this fatal march wreck donor debris jungle corn right street erupt craft";

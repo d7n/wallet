@@ -1,1 +1,1 @@
-var mnemonic = "area echo monitor square achieve vault situate grit fashion soldier aware cost";
+var mnemonic = "lawn odor flip leader traffic legend this food fiction release rose yellow";

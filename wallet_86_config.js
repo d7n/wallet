@@ -1,1 +1,1 @@
-var mnemonic = "kiss control effort sight mind couch anxiety eyebrow easily town decline famous";
+var mnemonic = "else verify ostrich march base stuff dog bounce color wedding good barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "film joy trip chair magnet afford prosper budget hand sponsor child travel";
+var mnemonic = "rain million school myth blanket demand menu fork zebra first napkin coach";

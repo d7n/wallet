@@ -1,1 +1,1 @@
-var mnemonic = "tortoise sauce wise moment length shallow render actor churn busy ghost river";
+var mnemonic = "joy potato either require exit alarm ginger march fabric torch morning diet";

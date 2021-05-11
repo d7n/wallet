@@ -1,1 +1,1 @@
-var mnemonic = "sentence asthma maze vessel three security tent faint cry pulp pass walk";
+var mnemonic = "scrub easy fruit net stick kiwi air grief heart ceiling liberty bean";

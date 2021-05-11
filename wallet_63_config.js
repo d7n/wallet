@@ -1,1 +1,1 @@
-var mnemonic = "page chicken document jelly kit habit save test empty design rose lonely";
+var mnemonic = "lady sweet design barrel feed bomb hazard cliff because debris frame drip";

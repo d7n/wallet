@@ -1,1 +1,1 @@
-var mnemonic = "group supreme robust matrix voice gift obvious elbow trick knee scale green";
+var mnemonic = "twenty sting blade cloud bicycle inquiry organ arm census word inner attitude";

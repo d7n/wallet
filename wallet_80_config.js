@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo hood quantum notable another quick yellow bright engage boy absorb chaos";
+var mnemonic = "scrub ecology elephant maid erupt lion beyond width front trick team quiz";

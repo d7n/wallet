@@ -1,1 +1,1 @@
-var mnemonic = "achieve fresh annual essay gather abuse flower hill uniform oak genuine camera";
+var mnemonic = "apple leopard festival dentist trim car blood virus omit uncover actress cloth";

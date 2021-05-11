@@ -1,1 +1,1 @@
-var mnemonic = "improve aspect purity detail salt capital feature drip goose mobile gym cable";
+var mnemonic = "hospital trophy minute top remove exit december reunion vapor lottery cactus around";

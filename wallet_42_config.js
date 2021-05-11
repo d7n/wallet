@@ -1,1 +1,1 @@
-var mnemonic = "scorpion glory ski staff roast spawn famous crowd fire pill never alone";
+var mnemonic = "fresh meadow then wide estate cry nature describe six problem accuse action";

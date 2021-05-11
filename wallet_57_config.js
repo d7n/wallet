@@ -1,1 +1,1 @@
-var mnemonic = "hockey library boost hire blade miss rhythm squirrel cotton chest impose palace";
+var mnemonic = "wire carry pulse pelican letter rifle wave slide audit urge work occur";

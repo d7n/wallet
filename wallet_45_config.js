@@ -1,1 +1,1 @@
-var mnemonic = "build suspect usual rough human review you more sense burst trick dumb";
+var mnemonic = "toward device popular chunk reflect aim giggle rhythm equip window dynamic door";

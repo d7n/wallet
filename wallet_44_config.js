@@ -1,1 +1,1 @@
-var mnemonic = "gallery boring eternal wire joy box plate bullet message manual fat insane";
+var mnemonic = "slot kingdom engine matter amazing people base hospital sleep minute wide spoil";

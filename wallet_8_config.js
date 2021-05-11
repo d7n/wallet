@@ -1,1 +1,1 @@
-var mnemonic = "naive melody smile vintage type picture where ivory march replace burden early";
+var mnemonic = "toilet april budget warfare matter situate equip wise sauce recipe couple bleak";

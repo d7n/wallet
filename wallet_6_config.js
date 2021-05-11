@@ -1,1 +1,1 @@
-var mnemonic = "crater soft hold urge muffin relax achieve manual brown remove crawl exercise";
+var mnemonic = "amateur april desk bomb lazy quarter gym heart dove gold deputy utility";

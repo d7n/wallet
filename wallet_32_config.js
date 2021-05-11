@@ -1,1 +1,1 @@
-var mnemonic = "funny tip error eternal vault chase perfect ring task cherry notice reflect";
+var mnemonic = "certain choice van welcome govern meat fade process rib fish donor record";

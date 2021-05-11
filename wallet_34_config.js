@@ -1,1 +1,1 @@
-var mnemonic = "travel web much rookie grow crash chunk throw hurdle dutch forward romance";
+var mnemonic = "lecture useful fiber lesson large pottery essence belt kit kitten drip fog";

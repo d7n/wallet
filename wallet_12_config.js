@@ -1,1 +1,1 @@
-var mnemonic = "cage detail stamp inherit involve angle metal vague crucial pull then much";
+var mnemonic = "custom green dash door beach brick thing front wet claim above pony";

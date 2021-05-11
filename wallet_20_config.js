@@ -1,1 +1,1 @@
-var mnemonic = "aim obtain trust swift half course sister equal lizard brick artwork pig";
+var mnemonic = "predict unusual orange approve venture rigid vessel inflict cushion cheese security trial";

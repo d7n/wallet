@@ -1,1 +1,1 @@
-var mnemonic = "royal shoulder scan detail oak average burden trophy milk ladder track rally";
+var mnemonic = "humble skirt choose stamp pet husband term aspect shiver consider custom length";

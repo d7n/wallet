@@ -1,1 +1,1 @@
-var mnemonic = "turtle burden silent ozone razor crunch plastic morning page educate firm coffee";
+var mnemonic = "concert consider unit blind blossom pave park fever under occur measure route";

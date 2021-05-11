@@ -1,1 +1,1 @@
-var mnemonic = "favorite image name frown invite park front popular industry include kick link";
+var mnemonic = "cute suspect accident armed push maple burst property modify capable peanut energy";

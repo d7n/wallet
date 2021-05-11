@@ -1,1 +1,1 @@
-var mnemonic = "call neutral report leopard tomorrow broken wet hurdle car obscure normal purse";
+var mnemonic = "airport setup valid jewel special loyal change manual response common broken skate";

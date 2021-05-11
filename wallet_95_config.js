@@ -1,1 +1,1 @@
-var mnemonic = "island garage zebra tape phrase trophy pen hire suffer trigger result small";
+var mnemonic = "kangaroo cave employ govern limit nest frog burst fashion middle focus crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "neither metal olympic wife you famous gown neither bunker life open rate";
+var mnemonic = "nation erupt token type proof album fatigue palace vendor talk shadow already";

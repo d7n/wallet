@@ -1,1 +1,1 @@
-var mnemonic = "letter segment oblige rice clap symptom rich near danger spend song cable";
+var mnemonic = "pottery deputy sick bullet among twice level speed virtual mail miss floor";

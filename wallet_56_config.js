@@ -1,1 +1,1 @@
-var mnemonic = "talent galaxy vague reform orient chuckle tomorrow duty undo bargain cool produce";
+var mnemonic = "evidence involve addict allow news elephant artefact eager involve report unique waste";

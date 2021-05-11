@@ -1,1 +1,1 @@
-var mnemonic = "capable demise scheme desert property lobster sample swamp grace engage mother mimic";
+var mnemonic = "suffer nut winner diesel isolate neither spend often sugar east orange elephant";

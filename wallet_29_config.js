@@ -1,1 +1,1 @@
-var mnemonic = "penalty surround blood supreme credit south blue unveil possible hand thing else";
+var mnemonic = "clutch bid rich correct cream deposit rich nephew frozen clinic echo custom";

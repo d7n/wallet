@@ -1,1 +1,1 @@
-var mnemonic = "pony slice wave plastic stereo cactus burst guitar social forum gravity stool";
+var mnemonic = "ketchup final retreat almost grab valid never loan rhythm bicycle twist opera";

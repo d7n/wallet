@@ -1,1 +1,1 @@
-var mnemonic = "resource diary bundle broom once album network explain toward motor filter erosion";
+var mnemonic = "palm fossil tobacco enjoy ride faint film frost entire apple much mesh";

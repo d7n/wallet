@@ -1,1 +1,1 @@
-var mnemonic = "another song ignore review staff absorb express ship wood valley slide dice";
+var mnemonic = "okay latin adjust just nurse february sauce also nephew amount inmate sorry";
