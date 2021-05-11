@@ -1,1 +1,1 @@
-var mnemonic = "afraid bread beach save reflect travel walk soup shock amused fruit copy";
+var mnemonic = "bitter donkey cinnamon school adapt until unable amateur drum innocent kitchen expect";

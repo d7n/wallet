@@ -1,1 +1,1 @@
-var mnemonic = "ignore dismiss hybrid mystery govern engage evil avocado all improve remind much";
+var mnemonic = "foam quality hello steak whisper liquid shove good gown regret veteran battle";

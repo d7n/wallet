@@ -1,1 +1,1 @@
-var mnemonic = "collect suspect baby follow exit track obey cinnamon wall walnut moral about";
+var mnemonic = "erode zone story member adult alert error bird refuse such frozen garment";

@@ -1,1 +1,1 @@
-var mnemonic = "claw burger pizza long capital mixed okay end sense pizza casual position";
+var mnemonic = "assault remind right salad route zone notice fuel box remind regret license";

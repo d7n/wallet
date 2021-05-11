@@ -1,1 +1,1 @@
-var mnemonic = "sell divorce trophy tennis funny lucky essence myth member cruise gate carry";
+var mnemonic = "concert size blind column wave language derive juice alarm shy lava limit";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter chair impulse anchor close kangaroo blanket tonight mix radio chat vapor";
+var mnemonic = "put arctic jar busy roast indicate wall puzzle license fault immune palace";

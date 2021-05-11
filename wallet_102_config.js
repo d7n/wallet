@@ -1,1 +1,1 @@
-var mnemonic = "aim affair fog fee loud gun elegant average gas seek motor little";
+var mnemonic = "potato tank economy pepper vast arrive entire execute crawl melody cash local";

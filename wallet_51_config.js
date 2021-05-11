@@ -1,1 +1,1 @@
-var mnemonic = "better prefer quit occur throw pill fiber pink tackle replace captain gift";
+var mnemonic = "clinic palace super crater smoke demise able bonus there inch parrot between";

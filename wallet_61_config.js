@@ -1,1 +1,1 @@
-var mnemonic = "mammal casino puzzle kit claim gain insect roast relax observe wish spirit";
+var mnemonic = "match valley bundle truck inquiry twin drastic jaguar gorilla regret code horror";

@@ -1,1 +1,1 @@
-var mnemonic = "loud govern view note car amazing hover hundred sick about scheme eagle";
+var mnemonic = "fitness dignity journey damp race all cart atom lunar dust upgrade rival";

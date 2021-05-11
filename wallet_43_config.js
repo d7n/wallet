@@ -1,1 +1,1 @@
-var mnemonic = "flat buffalo multiply rule worth travel portion poem candy custom huge exchange";
+var mnemonic = "faint pumpkin fatigue call turtle season soup champion truck drastic east message";

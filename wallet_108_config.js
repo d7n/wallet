@@ -1,1 +1,1 @@
-var mnemonic = "page fabric human afford stadium damage weekend flat blue opinion sea talk";
+var mnemonic = "exile seminar stuff school deliver blue sheriff goat base clean remind seed";

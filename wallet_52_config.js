@@ -1,1 +1,1 @@
-var mnemonic = "risk festival fat zone broom forget paddle curtain blue snake hen olive";
+var mnemonic = "leisure broom food glad hybrid member aerobic female oyster degree math shy";

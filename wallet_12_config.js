@@ -1,1 +1,1 @@
-var mnemonic = "dumb lock rib olive wise silver urge chuckle oven kitchen hope venture";
+var mnemonic = "under sad lunch divorce mutual tonight hammer truck mandate hockey real chalk";

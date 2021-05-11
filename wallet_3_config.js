@@ -1,1 +1,1 @@
-var mnemonic = "utility cluster route suggest joke public approve swim large couple settle energy";
+var mnemonic = "inform early always athlete supply envelope comic seat owner fix bag dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "defy muscle rate spirit turtle enjoy injury miss sunny click fame hurry";
+var mnemonic = "pig nut unlock between satisfy tomato early seek ripple penalty cancel arena";

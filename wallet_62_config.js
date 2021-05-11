@@ -1,1 +1,1 @@
-var mnemonic = "essay reveal hood just slight topple devote panel moon little diet pepper";
+var mnemonic = "real giggle ordinary fresh monkey thank renew large nasty frame wisdom winter";

@@ -1,1 +1,1 @@
-var mnemonic = "august explain album hint diary all lawsuit move private trouble valid enforce";
+var mnemonic = "lava silly ivory board pencil venue usual smile train crunch spawn news";

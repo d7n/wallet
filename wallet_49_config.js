@@ -1,1 +1,1 @@
-var mnemonic = "endless pond leopard insane marine pudding dice tourist source name comfort swing";
+var mnemonic = "machine dress farm hamster beyond reward ill nephew educate song piano oxygen";

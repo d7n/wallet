@@ -1,1 +1,1 @@
-var mnemonic = "pair describe gym concert involve outdoor plunge image author license spatial dismiss";
+var mnemonic = "width rabbit fly brown mutual scene list unlock position cloud exercise vapor";

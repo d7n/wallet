@@ -1,1 +1,1 @@
-var mnemonic = "tiny vessel olive truck welcome depend calm distance sail jungle boy rescue";
+var mnemonic = "drive bus street remind piece whisper critic client present bullet powder order";

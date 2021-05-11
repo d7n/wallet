@@ -1,1 +1,1 @@
-var mnemonic = "aspect park manage vapor typical version use toward torch before mule disorder";
+var mnemonic = "anger warrior tag wolf comic address fire enter away fresh nature burst";

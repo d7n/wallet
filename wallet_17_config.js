@@ -1,1 +1,1 @@
-var mnemonic = "team quit dial normal fall mosquito topic congress exist harsh swift outer";
+var mnemonic = "nut enemy video trigger comfort air loan mouse october depend position depth";

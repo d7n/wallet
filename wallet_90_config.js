@@ -1,1 +1,1 @@
-var mnemonic = "great dad jaguar switch bulk volume execute original print bonus exhibit magic";
+var mnemonic = "tube author void home reopen swarm primary unknown zero rifle replace purse";

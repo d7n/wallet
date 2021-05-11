@@ -1,1 +1,1 @@
-var mnemonic = "vehicle dinosaur search fold miracle grit breeze assault eager subway truck basket";
+var mnemonic = "ethics energy cousin office when focus shallow nominee unique useful bar inquiry";

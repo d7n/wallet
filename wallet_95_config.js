@@ -1,1 +1,1 @@
-var mnemonic = "figure energy bonus pretty miracle benefit upon broccoli raw hurry define physical";
+var mnemonic = "over report flight beyond live please siege result asthma party jaguar six";

@@ -1,1 +1,1 @@
-var mnemonic = "solar company gift hospital jewel spread volume chicken forum hub rule extra";
+var mnemonic = "another season squirrel rare garbage dilemma flavor sound ticket embrace ethics tuition";

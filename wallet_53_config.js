@@ -1,1 +1,1 @@
-var mnemonic = "baby carpet bounce warm either crystal breeze play verb visa program spy";
+var mnemonic = "wrestle laundry piano warfare squeeze situate approve member powder express story visa";

@@ -1,1 +1,1 @@
-var mnemonic = "online govern used burger unique picnic state reform huge life swim song";
+var mnemonic = "key reflect various phone coyote east ship ecology orient stove october lyrics";

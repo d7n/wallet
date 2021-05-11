@@ -1,1 +1,1 @@
-var mnemonic = "appear nothing learn urban profit crime way media wave senior sentence eight";
+var mnemonic = "gather diamond secret easy salmon lake lemon student oyster hand wisdom retreat";

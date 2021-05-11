@@ -1,1 +1,1 @@
-var mnemonic = "social farm any replace foot mimic lend girl hospital clerk wasp ridge";
+var mnemonic = "crunch soon call maple problem cat assist alert portion roast dice street";

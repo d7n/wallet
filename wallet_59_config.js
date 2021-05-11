@@ -1,1 +1,1 @@
-var mnemonic = "cotton common banner dust chicken lazy load one useless concert crack crime";
+var mnemonic = "bus priority disagree foot acoustic snap letter resource case donate firm above";

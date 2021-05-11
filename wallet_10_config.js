@@ -1,1 +1,1 @@
-var mnemonic = "erode all modify skate view hybrid patient enough arm raven pass quality";
+var mnemonic = "south organ rent merit easy bleak lucky upon creek ripple bridge put";

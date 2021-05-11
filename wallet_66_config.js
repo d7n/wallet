@@ -1,1 +1,1 @@
-var mnemonic = "angle actor tent tourist clinic midnight pause plate near bring mistake edit";
+var mnemonic = "build bottom survey output search foster measure ancient spider surprise shoe problem";

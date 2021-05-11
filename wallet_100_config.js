@@ -1,1 +1,1 @@
-var mnemonic = "guess easy glide lazy collect filter lava cancel enjoy mobile cabin foam";
+var mnemonic = "web people what supreme great rice canoe price family keep purse cloud";

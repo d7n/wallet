@@ -1,1 +1,1 @@
-var mnemonic = "pact acquire apple negative glare fossil sample slender worry old force jazz";
+var mnemonic = "minimum brave attack assist wine can buyer cousin rate crash walnut hover";

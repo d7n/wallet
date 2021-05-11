@@ -1,1 +1,1 @@
-var mnemonic = "clown theory select tonight margin basic gym auto fine zoo universe expand";
+var mnemonic = "shove elevator soup cage obvious wise candy phrase hold brisk laundry left";

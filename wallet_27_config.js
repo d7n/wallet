@@ -1,1 +1,1 @@
-var mnemonic = "energy mask add arrest giggle fame wrist kick cliff rigid pause loan";
+var mnemonic = "cheap life unveil rigid hill syrup tornado hip diagram tower simple always";

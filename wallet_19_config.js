@@ -1,1 +1,1 @@
-var mnemonic = "pear casino clown neutral inflict field help trouble still lunch wife humor";
+var mnemonic = "crater equip extend nasty humble scare segment toward cost grocery oppose vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "project draw fortune danger flag auction inject shine bomb true gauge oven";
+var mnemonic = "sausage club gesture quality hope keen crime photo rally ribbon vault sausage";

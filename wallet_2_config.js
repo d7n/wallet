@@ -1,1 +1,1 @@
-var mnemonic = "dismiss circle perfect dad welcome daughter brush clever avocado car disorder spy";
+var mnemonic = "lesson story opinion warrior three raw little clinic diamond over army museum";

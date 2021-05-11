@@ -1,1 +1,1 @@
-var mnemonic = "write security flower dolphin index truck ridge have merry school expect case";
+var mnemonic = "neither renew broom stadium history fresh decline belt focus tiny announce earn";

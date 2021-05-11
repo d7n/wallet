@@ -1,1 +1,1 @@
-var mnemonic = "present fix once another amount tiny boring tourist shop chapter faculty reward";
+var mnemonic = "two evolve surge frost trip tiny apple drum vault clump canyon tomorrow";

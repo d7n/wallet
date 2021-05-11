@@ -1,1 +1,1 @@
-var mnemonic = "pyramid snow grace fruit mutual they life cattle attract street elder copper";
+var mnemonic = "subway snap rack disease waste cool fix wrist tourist include wear flame";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle corn sunny talk cost bulb dumb size vote glance finger submit";
+var mnemonic = "citizen know notice abstract bag stomach photo nominee parent what crater ribbon";

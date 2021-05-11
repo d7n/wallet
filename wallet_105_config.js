@@ -1,1 +1,1 @@
-var mnemonic = "lend pave nice avocado view panel vacant grape aunt sight beyond whisper";
+var mnemonic = "wrap much oil net ask fish aunt acquire cousin end embody wonder";

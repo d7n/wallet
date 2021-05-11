@@ -1,1 +1,1 @@
-var mnemonic = "quarter item split vast vibrant foil kick dismiss decide clerk project quote";
+var mnemonic = "shoot zone silver filter stone second work suggest buffalo increase quick bar";

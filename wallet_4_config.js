@@ -1,1 +1,1 @@
-var mnemonic = "tumble loop umbrella follow fever wisdom betray drill ugly coach hotel always";
+var mnemonic = "depart pyramid judge mansion allow shove concert debate genuine acquire hint health";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset harvest neither pioneer garden release embark correct roof walnut slush tribe";
+var mnemonic = "symbol direct attitude popular pull lake teach damage film soccer abandon volume";

@@ -1,1 +1,1 @@
-var mnemonic = "equal toward tuition settle crisp glory stock jazz cereal leisure method twelve";
+var mnemonic = "final connect weasel fat alien furnace mistake accuse cook abstract citizen lift";

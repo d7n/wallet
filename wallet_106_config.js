@@ -1,1 +1,1 @@
-var mnemonic = "system easily ball cube safe actual snap drink hazard uphold rely bargain";
+var mnemonic = "high junior remember rail zero frost chapter napkin assume infant space family";

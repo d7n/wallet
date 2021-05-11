@@ -1,1 +1,1 @@
-var mnemonic = "render vintage motion pistol idle card matter hover valid heavy version renew";
+var mnemonic = "point accident gather flight renew bargain leisure mistake that pitch shaft increase";

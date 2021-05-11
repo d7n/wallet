@@ -1,1 +1,1 @@
-var mnemonic = "panther indicate solution dawn finish expire mouse believe friend neutral electric click";
+var mnemonic = "heavy oppose artefact rice crazy hurt angle faculty grant leisure occur impose";

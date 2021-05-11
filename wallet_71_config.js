@@ -1,1 +1,1 @@
-var mnemonic = "entry report oil tribe leisure fade grid diagram cross cinnamon payment member";
+var mnemonic = "total idle usual virus swallow brush sick intact brave adapt join gesture";

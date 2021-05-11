@@ -1,1 +1,1 @@
-var mnemonic = "lab matter stuff number spot first exercise screen tip vague discover february";
+var mnemonic = "lion divide universe oyster lottery noise ecology lion document regular gauge auction";

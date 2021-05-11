@@ -1,1 +1,1 @@
-var mnemonic = "vital mountain behave blood alley reason candy artefact interest observe glove patch";
+var mnemonic = "cradle expect wait vessel erupt foster trick shoe ride menu cattle table";

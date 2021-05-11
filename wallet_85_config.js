@@ -1,1 +1,1 @@
-var mnemonic = "feel transfer useless voice chief solid vessel festival predict barrel debate viable";
+var mnemonic = "aim shuffle trick reopen venue liberty expand organ already basic noble honey";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel soap resource apple fix general include organ dune despair spike spell";
+var mnemonic = "cup alert clip attract safe thunder antique virus laptop host resource enhance";

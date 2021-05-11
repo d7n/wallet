@@ -1,1 +1,1 @@
-var mnemonic = "damp jungle hundred faith picnic penalty door taste shaft mixture aware best";
+var mnemonic = "flash tag work purity few between kite clerk thought pumpkin interest pupil";

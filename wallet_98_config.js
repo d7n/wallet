@@ -1,1 +1,1 @@
-var mnemonic = "swing main metal issue verify flight glow spoon two lounge runway asset";
+var mnemonic = "wall best razor catalog wide calm patrol gold sand remind obscure walnut";

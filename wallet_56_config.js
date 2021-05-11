@@ -1,1 +1,1 @@
-var mnemonic = "unfair hazard analyst brand urban chat invest tide climb ethics execute romance";
+var mnemonic = "silk derive eight write focus pipe traffic tool lottery elegant feature lawsuit";

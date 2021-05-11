@@ -1,1 +1,1 @@
-var mnemonic = "pluck property inform quit donkey nephew ranch autumn upon spare always wife";
+var mnemonic = "garage oyster human inherit life reveal oblige virtual protect economy edge room";

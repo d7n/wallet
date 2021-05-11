@@ -1,1 +1,1 @@
-var mnemonic = "monkey rare attack salmon install horse soda flag plug drill cliff alert";
+var mnemonic = "mimic afford outer firm expect isolate heavy method rabbit reject enough sweet";

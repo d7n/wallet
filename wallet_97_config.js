@@ -1,1 +1,1 @@
-var mnemonic = "velvet exotic lamp victory sleep tumble airport position forget seven hospital bench";
+var mnemonic = "group zone lens choice verify fit inherit category corn cake hybrid project";

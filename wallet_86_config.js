@@ -1,1 +1,1 @@
-var mnemonic = "ostrich add height ask prevent soap inherit eyebrow arrive snake legal defy";
+var mnemonic = "stock patient penalty witness salon consider already kidney rate desert spirit settle";

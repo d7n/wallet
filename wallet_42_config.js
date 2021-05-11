@@ -1,1 +1,1 @@
-var mnemonic = "love calm diary great believe squirrel payment sense whip become talent foil";
+var mnemonic = "tide thunder sheriff deer collect install crumble minimum trouble gap addict zone";

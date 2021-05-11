@@ -1,1 +1,1 @@
-var mnemonic = "hour boss void make fragile cousin begin jaguar tag absent quality immune";
+var mnemonic = "hybrid autumn crazy pulse use silly immense south off satoshi sleep afford";

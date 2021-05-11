@@ -1,1 +1,1 @@
-var mnemonic = "bonus ability mansion husband rally heart absorb document post connect lucky order";
+var mnemonic = "tornado treat long square spy citizen treat elite lecture lesson vast level";

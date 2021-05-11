@@ -1,1 +1,1 @@
-var mnemonic = "knock simple bread wasp tiny glad risk enhance offer ramp method mention";
+var mnemonic = "pride finish oven badge work elephant ginger input real often kiwi neglect";

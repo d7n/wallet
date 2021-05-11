@@ -1,1 +1,1 @@
-var mnemonic = "margin violin wash embrace tray palm left twist tumble crater ten net";
+var mnemonic = "dentist boost phrase zoo fun ten gauge describe adult awake shoe reward";

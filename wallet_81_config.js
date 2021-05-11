@@ -1,1 +1,1 @@
-var mnemonic = "suit deal surface sport art piece earth gravity acquire mansion airport desert";
+var mnemonic = "damp tank busy open cute actor draft middle twist kitten safe silk";

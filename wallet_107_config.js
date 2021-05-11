@@ -1,1 +1,1 @@
-var mnemonic = "truly good clap arm traffic dirt hen middle sister what armor front";
+var mnemonic = "speed until latin used sunny execute verify rare cycle feed exit elite";

@@ -1,1 +1,1 @@
-var mnemonic = "course modify city aisle indicate gaze text limit fantasy term portion bacon";
+var mnemonic = "correct hen laptop sail fee manage bottom okay kidney mass artwork believe";

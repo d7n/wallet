@@ -1,1 +1,1 @@
-var mnemonic = "head vicious level burger maid satoshi more outer air nephew useless melt";
+var mnemonic = "brick rabbit kit furnace blanket ill cousin bunker end wild dignity upon";

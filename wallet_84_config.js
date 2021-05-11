@@ -1,1 +1,1 @@
-var mnemonic = "achieve lobster bulb host desk mushroom pass shaft review midnight damp shoe";
+var mnemonic = "weasel casual crop segment print mechanic sponsor insect space extend this apology";

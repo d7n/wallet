@@ -1,1 +1,1 @@
-var mnemonic = "eight blue manage advice destroy inquiry rare next identify curtain awake hint";
+var mnemonic = "next tooth teach cram obtain invest bronze success bar direct enemy defense";

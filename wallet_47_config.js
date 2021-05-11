@@ -1,1 +1,1 @@
-var mnemonic = "gaze health squeeze finish tobacco draft flat napkin account frown wide bulk";
+var mnemonic = "sand lock leopard cloud acoustic web dry myth tumble argue column mad";

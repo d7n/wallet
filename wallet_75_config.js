@@ -1,1 +1,1 @@
-var mnemonic = "veteran pass horror peasant output tunnel mixture buddy message bacon term make";
+var mnemonic = "hammer umbrella harvest aunt quote work neglect cloth supreme good claim rhythm";

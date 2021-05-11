@@ -1,1 +1,1 @@
-var mnemonic = "busy balcony spider strike sample secret swim target quote top often jeans";
+var mnemonic = "happy dignity gorilla hurt genuine network remember spike spirit skull mail suit";

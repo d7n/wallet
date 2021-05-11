@@ -1,1 +1,1 @@
-var mnemonic = "same concert float month speak suspect excuse modify year caught ahead step";
+var mnemonic = "lottery eternal tube make heart excite salute rather adapt board anger arrow";

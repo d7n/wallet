@@ -1,1 +1,1 @@
-var mnemonic = "enemy garlic december race student vicious seminar never omit smooth flavor purpose";
+var mnemonic = "floor flush reward chase dutch duty elephant mail vocal puzzle detail ice";

@@ -1,1 +1,1 @@
-var mnemonic = "stand huge woman cram slim hip mosquito hurry bulb when muffin subway";
+var mnemonic = "chalk desk round candy throw identify square else wreck mystery cinnamon brown";

@@ -1,1 +1,1 @@
-var mnemonic = "tide tumble curious interest pizza amazing rookie cradle song jacket owner use";
+var mnemonic = "strategy rubber ethics monkey reject destroy maid reform snow giggle harsh horn";

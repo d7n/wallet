@@ -1,1 +1,1 @@
-var mnemonic = "use lucky trust hire gift twice sand author pattern nasty mirror excess";
+var mnemonic = "antique install earn truck crew involve affair bounce cupboard portion surge beef";

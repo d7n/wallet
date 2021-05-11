@@ -1,1 +1,1 @@
-var mnemonic = "dwarf phone effort lava list oyster midnight gate rely desk vault staff";
+var mnemonic = "crazy misery cage decide bean vast income idle drift weekend fiscal gorilla";

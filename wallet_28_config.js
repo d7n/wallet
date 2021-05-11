@@ -1,1 +1,1 @@
-var mnemonic = "unfold mutual wink hour exhaust usual river innocent mom reunion simple top";
+var mnemonic = "spice essence tribe other rival balance matter craft immune cloud royal motor";

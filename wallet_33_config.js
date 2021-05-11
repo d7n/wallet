@@ -1,1 +1,1 @@
-var mnemonic = "pyramid involve second topple edge proof wish want art dinner wife today";
+var mnemonic = "eight fence canvas inquiry saddle skull attend mistake word stable soldier zero";

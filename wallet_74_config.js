@@ -1,1 +1,1 @@
-var mnemonic = "bright south major announce sunny negative sign human join sustain subject that";
+var mnemonic = "sunset toe birth brief setup grunt calm movie sausage cherry fashion defense";

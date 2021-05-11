@@ -1,1 +1,1 @@
-var mnemonic = "rural suggest couple feel card edit solve ring push sadness cupboard wrestle";
+var mnemonic = "laugh price genre clay dynamic gallery shock economy fortune exhaust another spike";

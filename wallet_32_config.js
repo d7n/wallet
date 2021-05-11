@@ -1,1 +1,1 @@
-var mnemonic = "more bullet discover village focus vague enrich prepare captain gather system lesson";
+var mnemonic = "frozen bright add right dust couch youth consider ripple fat home coil";

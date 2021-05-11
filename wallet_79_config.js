@@ -1,1 +1,1 @@
-var mnemonic = "harbor denial chunk wasp scan warrior endorse arm ignore fiscal solve alien";
+var mnemonic = "problem head pulp south arrange usual praise rifle certain blur salad crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "border brand blur broccoli farm acquire shell rug trophy still marine below";
+var mnemonic = "damp ridge bundle nuclear era fever system decorate expand remind sort hero";

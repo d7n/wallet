@@ -1,1 +1,1 @@
-var mnemonic = "load imitate mosquito polar thought guess subject color glare napkin adapt diamond";
+var mnemonic = "essay laptop either belt mixed wall inject town gas honey absent twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "text flame portion social hood spatial saddle average fiber neck note castle";
+var mnemonic = "lunar argue also print provide wheel impose clutch pioneer uphold pass squeeze";

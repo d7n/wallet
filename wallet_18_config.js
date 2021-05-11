@@ -1,1 +1,1 @@
-var mnemonic = "vast trigger round remove warfare brush ride unhappy raise equip rocket cube";
+var mnemonic = "wasp panther whisper price maid quality defense under truck century thought crime";

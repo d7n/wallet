@@ -1,1 +1,1 @@
-var mnemonic = "quality tissue mixed volcano rule learn raccoon prepare token detect gym news";
+var mnemonic = "dash immune humor captain damage bamboo best average galaxy way accident detect";

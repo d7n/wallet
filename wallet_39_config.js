@@ -1,1 +1,1 @@
-var mnemonic = "trade salon item bird seed mean behave special wasp excite hunt bargain";
+var mnemonic = "report frost burst later accident quality cotton rule predict grief inmate menu";

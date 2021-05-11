@@ -1,1 +1,1 @@
-var mnemonic = "affair naive garbage despair olympic deer civil salon immense symbol start victory";
+var mnemonic = "sock raven trash guilt thunder lecture cabin fee lucky knock unhappy deal";

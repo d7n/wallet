@@ -1,1 +1,1 @@
-var mnemonic = "fence awake host volcano brain devote woman ordinary curve panel series piano";
+var mnemonic = "knife enhance enhance use decline evoke camp naive turkey lemon gentle concert";

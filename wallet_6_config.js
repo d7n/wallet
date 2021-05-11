@@ -1,1 +1,1 @@
-var mnemonic = "draw eight confirm smile grass side piano hidden series oil fun year";
+var mnemonic = "lift ivory annual fortune coin false lunar test secret fabric very interest";

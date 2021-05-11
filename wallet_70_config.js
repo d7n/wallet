@@ -1,1 +1,1 @@
-var mnemonic = "flower elder prize found crucial cruise horse goddess glide office craft kid";
+var mnemonic = "lion cheese toast junk stay steel elbow luggage nominee route dust typical";

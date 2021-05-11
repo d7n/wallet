@@ -1,1 +1,1 @@
-var mnemonic = "addict asthma short august rack will seed modify section favorite bright ladder";
+var mnemonic = "nothing use swift eight scheme long write math sister split wrist dumb";
