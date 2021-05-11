@@ -1,1 +1,1 @@
-var mnemonic = "deposit tank physical churn asset diet hawk expire august common rib deliver";
+var mnemonic = "position horror shop flip color zoo disease volume winner weekend execute gorilla";

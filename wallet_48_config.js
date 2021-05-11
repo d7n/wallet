@@ -1,1 +1,1 @@
-var mnemonic = "increase solid hello rare shoulder allow simple gift recycle tilt chase green";
+var mnemonic = "estate tattoo cradle dentist staff tiger inquiry iron garlic zebra left caught";

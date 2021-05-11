@@ -1,1 +1,1 @@
-var mnemonic = "before hybrid evil pool winter this inside collect hybrid liquid park reduce";
+var mnemonic = "turkey negative critic super protect indicate ocean spice pepper liar hand sketch";

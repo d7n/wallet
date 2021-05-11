@@ -1,1 +1,1 @@
-var mnemonic = "fancy soccer wire buddy entire return joke agent boss actress indicate dance";
+var mnemonic = "dignity disorder unit mixed prevent web spring expand plug below tired liar";

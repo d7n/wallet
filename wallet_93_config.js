@@ -1,1 +1,1 @@
-var mnemonic = "quiz hotel speed lesson bar payment sister night excuse route dumb receive";
+var mnemonic = "doctor amazing result culture wreck tired weasel lazy popular slim day climb";

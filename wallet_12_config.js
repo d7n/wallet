@@ -1,1 +1,1 @@
-var mnemonic = "warfare mask smile mean carpet pottery supreme danger skin festival face click";
+var mnemonic = "thumb civil boil coffee few together hurry mosquito dress tourist intact woman";

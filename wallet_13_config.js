@@ -1,1 +1,1 @@
-var mnemonic = "disorder frequent pudding width unusual hood mirror art utility egg assault sand";
+var mnemonic = "soon input phrase toss inject noble axis similar inner half pill kidney";

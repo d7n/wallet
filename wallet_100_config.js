@@ -1,1 +1,1 @@
-var mnemonic = "palace horn lift okay fence vicious ankle knock across say artefact jealous";
+var mnemonic = "depart month find clever march february urge chase question mesh foil result";

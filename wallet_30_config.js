@@ -1,1 +1,1 @@
-var mnemonic = "enter olive like allow bundle sting galaxy wish reopen tomorrow bird bus";
+var mnemonic = "bless resemble van echo teach strategy ramp window silent artwork erode transfer";

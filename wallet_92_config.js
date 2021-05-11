@@ -1,1 +1,1 @@
-var mnemonic = "away north mix wait focus engage vicious adapt obscure game final dream";
+var mnemonic = "clerk divorce mesh pudding office peace vote crawl enter stumble finger gain";

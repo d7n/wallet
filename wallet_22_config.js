@@ -1,1 +1,1 @@
-var mnemonic = "luggage common rich slender shop april sibling divorce move bargain practice capital";
+var mnemonic = "error style oppose rocket rifle wasp budget blur island action village suffer";

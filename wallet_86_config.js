@@ -1,1 +1,1 @@
-var mnemonic = "advance dog uniform treat mask tunnel slogan east poverty cake patient special";
+var mnemonic = "topic physical toddler warfare father nose denial bulb capable eight bid sorry";

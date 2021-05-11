@@ -1,1 +1,1 @@
-var mnemonic = "syrup abstract change shoe close state broken senior science yellow cube autumn";
+var mnemonic = "music negative valve secret help nose trust carry chimney tomorrow shiver text";

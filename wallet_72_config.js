@@ -1,1 +1,1 @@
-var mnemonic = "you invest device ribbon shy frozen begin replace ranch surge lab action";
+var mnemonic = "magnet shiver pride consider airport plunge news index erosion gym lumber sad";

@@ -1,1 +1,1 @@
-var mnemonic = "essence stem into medal blanket grow common iron charge fly deal deal";
+var mnemonic = "picture emotion alpha remain other layer pony oppose mule license host aerobic";

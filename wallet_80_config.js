@@ -1,1 +1,1 @@
-var mnemonic = "fog prefer speak stuff wreck forward hockey image pill ladder exclude bike";
+var mnemonic = "genuine elbow coyote reason deputy melody awake hero easily sentence face near";

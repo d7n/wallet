@@ -1,1 +1,1 @@
-var mnemonic = "modify issue initial front punch fade orchard hurry sight process office lawsuit";
+var mnemonic = "search joke unit rebuild naive busy rain bitter demise tunnel matter vague";

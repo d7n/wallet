@@ -1,1 +1,1 @@
-var mnemonic = "guilt screen message coin omit doll must author history alpha project news";
+var mnemonic = "mansion train heavy deliver once element reveal movie exit annual mule bracket";

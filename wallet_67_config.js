@@ -1,1 +1,1 @@
-var mnemonic = "burden liar rice stereo drip milk visa army humor soon win drift";
+var mnemonic = "enhance powder elder gravity what garbage close tissue stem welcome elite level";

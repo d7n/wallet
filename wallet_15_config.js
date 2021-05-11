@@ -1,1 +1,1 @@
-var mnemonic = "satisfy steel attend dune book earn jaguar skull fence fabric fade tomorrow";
+var mnemonic = "tongue fruit around ten property wrist hungry vendor load volcano wealth fiscal";

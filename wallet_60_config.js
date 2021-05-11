@@ -1,1 +1,1 @@
-var mnemonic = "box rare display cover false couple breeze jeans festival arena love sock";
+var mnemonic = "normal thumb reunion group face invest device hero matter steak wet age";

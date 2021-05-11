@@ -1,1 +1,1 @@
-var mnemonic = "uncle talk coach edit gate wheel exit settle disease fault lizard wife";
+var mnemonic = "friend pulp fiction gym choice over lottery people runway hammer poverty shop";

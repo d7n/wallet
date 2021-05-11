@@ -1,1 +1,1 @@
-var mnemonic = "tiny grocery razor baby length drop verb fat home swarm cup wide";
+var mnemonic = "saddle name swap network picnic replace fine olive foster mind garlic coast";

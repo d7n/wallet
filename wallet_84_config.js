@@ -1,1 +1,1 @@
-var mnemonic = "legal foot faculty install quit fog blur copper advice diesel impact furnace";
+var mnemonic = "creek gossip dinner because shiver ball maple broken praise ensure uphold fantasy";

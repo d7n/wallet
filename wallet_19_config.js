@@ -1,1 +1,1 @@
-var mnemonic = "sock slender shell elbow artwork allow confirm wheel satoshi orbit child jazz";
+var mnemonic = "endorse high cute flower empower provide ugly antique frame kingdom degree parent";

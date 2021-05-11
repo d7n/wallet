@@ -1,1 +1,1 @@
-var mnemonic = "goose muffin detect grape diet bounce copper usual target farm arena dinner";
+var mnemonic = "kiss exhaust magnet oil person when text valve review pause fault dune";

@@ -1,1 +1,1 @@
-var mnemonic = "when general message finger slush bubble snake seed nature crane spell file";
+var mnemonic = "light noodle quantum gloom glory sad grant remove hidden frog fuel obvious";

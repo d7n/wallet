@@ -1,1 +1,1 @@
-var mnemonic = "you oblige junior duty peace strong goddess beach knife isolate earn gown";
+var mnemonic = "aspect clerk indicate nation flame execute engage poem where battle slide oil";

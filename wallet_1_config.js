@@ -1,1 +1,1 @@
-var mnemonic = "submit salad stage chronic gun useless zoo rail swift cry much citizen";
+var mnemonic = "arrest dry region empty tip ready husband rough cannon settle fiscal game";

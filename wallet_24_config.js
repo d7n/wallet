@@ -1,1 +1,1 @@
-var mnemonic = "powder child resource tell maze hybrid bubble people slim labor harvest stay";
+var mnemonic = "primary attitude silent middle still check off tooth mixed attack boss width";

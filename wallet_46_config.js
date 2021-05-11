@@ -1,1 +1,1 @@
-var mnemonic = "ethics apology jewel advice polar gaze sudden fee inherit clown depend achieve";
+var mnemonic = "cream media syrup please attract cargo loyal fury sample offer true yard";

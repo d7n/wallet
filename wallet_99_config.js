@@ -1,1 +1,1 @@
-var mnemonic = "room cricket skin will ketchup solid album humor math sugar future stock";
+var mnemonic = "duck label morning impulse payment hover kick couple elder brave slab place";

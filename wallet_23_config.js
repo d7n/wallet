@@ -1,1 +1,1 @@
-var mnemonic = "diesel moon provide fever purse cart goat stay runway unfold surge rail";
+var mnemonic = "cheese era because profit diet alcohol shoe group unfold until left trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "window sight kit pluck love cloud tribe laptop team fancy now ozone";
+var mnemonic = "memory little soda velvet evidence delay arrest rain waste fatal city exhibit";

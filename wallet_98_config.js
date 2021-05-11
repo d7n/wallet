@@ -1,1 +1,1 @@
-var mnemonic = "dragon portion tooth help finish glad label level spot close credit fault";
+var mnemonic = "dress grocery future oak tail asset hedgehog edge slot beach debate claim";

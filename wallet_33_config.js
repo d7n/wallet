@@ -1,1 +1,1 @@
-var mnemonic = "spoon stomach impulse sadness pupil avoid practice castle label album script vague";
+var mnemonic = "exact certain lemon nasty dolphin forward tent lunar punch edit when flee";

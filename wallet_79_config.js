@@ -1,1 +1,1 @@
-var mnemonic = "velvet fitness escape pair layer crumble regular story degree price leopard absorb";
+var mnemonic = "enhance cinnamon sick noble else brother friend layer ladder royal nation trick";

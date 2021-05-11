@@ -1,1 +1,1 @@
-var mnemonic = "truck ecology flat impact wreck about melt cute unfold amateur member put";
+var mnemonic = "lift scare slogan latin dignity mammal garage grass can loyal behind glance";

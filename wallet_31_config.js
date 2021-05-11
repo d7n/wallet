@@ -1,1 +1,1 @@
-var mnemonic = "basic law bar bless select sniff waste idle license iron velvet anchor";
+var mnemonic = "omit injury sugar slab mountain dune hard total pact nose shy safe";

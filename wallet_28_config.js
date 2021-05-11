@@ -1,1 +1,1 @@
-var mnemonic = "rookie learn swarm creek dignity raise melt animal donor you symptom cream";
+var mnemonic = "can chronic verb hello sword lyrics brave wool parrot hint toe eye";

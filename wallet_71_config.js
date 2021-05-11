@@ -1,1 +1,1 @@
-var mnemonic = "capable visit please above shaft embrace sauce rib business bind quality mystery";
+var mnemonic = "pill bind draft pair shell wish crunch like panel poet figure safe";

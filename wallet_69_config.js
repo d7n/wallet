@@ -1,1 +1,1 @@
-var mnemonic = "aunt improve permit humor marine speed science develop victory volcano spray december";
+var mnemonic = "banner fee cabin glare spray arrange raven craft hurdle pepper coast burden";

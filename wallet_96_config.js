@@ -1,1 +1,1 @@
-var mnemonic = "fruit ski enlist churn tumble arrest crunch weapon apology joke quote neutral";
+var mnemonic = "planet slice rude shoe fan alter glove fluid verify spot dish because";

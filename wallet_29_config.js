@@ -1,1 +1,1 @@
-var mnemonic = "minimum alley height wheat police kind common zebra gospel fetch erupt asthma";
+var mnemonic = "elephant prevent submit bulk domain clay purchase key cat orange puzzle bullet";

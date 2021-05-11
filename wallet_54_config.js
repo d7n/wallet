@@ -1,1 +1,1 @@
-var mnemonic = "boat blade edge aim orbit license diesel student live seed orbit prepare";
+var mnemonic = "razor govern point rabbit endless talent sauce humble bottom fee bachelor tower";

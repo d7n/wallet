@@ -1,1 +1,1 @@
-var mnemonic = "shaft situate talent glass rookie stadium electric crisp hollow fat lake faint";
+var mnemonic = "parent orphan way old canoe super search recycle scorpion clutch midnight morning";

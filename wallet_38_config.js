@@ -1,1 +1,1 @@
-var mnemonic = "shell before tattoo differ version entire cover armed burst dynamic village they";
+var mnemonic = "world strong sheriff true brand install merit lion grit local stick caught";

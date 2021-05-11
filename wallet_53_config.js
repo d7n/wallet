@@ -1,1 +1,1 @@
-var mnemonic = "twist story peanut hurdle police frost palm table melt river torch equal";
+var mnemonic = "success noodle winner protect custom bench fine legend above indoor picture grow";

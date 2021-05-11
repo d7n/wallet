@@ -1,1 +1,1 @@
-var mnemonic = "merit stay cream amount scene attack wonder rate dune early wire size";
+var mnemonic = "teach primary reduce whisper traffic large saddle famous split portion kiwi ability";

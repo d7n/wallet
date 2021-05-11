@@ -1,1 +1,1 @@
-var mnemonic = "state token frame chronic horror message since social festival early number cement";
+var mnemonic = "drop between reunion mail among comic spread sock inherit grunt lawsuit cool";

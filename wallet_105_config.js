@@ -1,1 +1,1 @@
-var mnemonic = "roof drift mouse walk soccer pattern dentist weather viable scatter gap correct";
+var mnemonic = "canvas improve rookie tunnel wood laptop faculty horror cheap tank vibrant solid";

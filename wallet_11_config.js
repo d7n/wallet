@@ -1,1 +1,1 @@
-var mnemonic = "asset prize pear spice swap scatter shiver market give sting gadget palace";
+var mnemonic = "report help usage vivid era patch nation decide entire immune note river";

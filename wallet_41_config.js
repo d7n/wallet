@@ -1,1 +1,1 @@
-var mnemonic = "advice cost cave segment pattern quality alley sketch kiwi capable tornado swallow";
+var mnemonic = "click young material local hazard enlist pill laugh illness student once later";

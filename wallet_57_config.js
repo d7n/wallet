@@ -1,1 +1,1 @@
-var mnemonic = "occur trouble kitchen any month frozen pottery control very ethics wet little";
+var mnemonic = "dance admit confirm improve gap wheel life unique sustain actor harsh seminar";

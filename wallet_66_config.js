@@ -1,1 +1,1 @@
-var mnemonic = "rose prison pupil frozen pole engine park bulb security cliff danger champion";
+var mnemonic = "cheap floor orbit pelican series tackle weasel mimic swift person agent beach";

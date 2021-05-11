@@ -1,1 +1,1 @@
-var mnemonic = "document father remember riot artist deposit summer couple scrap anger actor silent";
+var mnemonic = "park repeat eager destroy stem joy stone harsh sight page chat also";

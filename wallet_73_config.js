@@ -1,1 +1,1 @@
-var mnemonic = "leisure subject rain metal seek satoshi force holiday usual purity people lawn";
+var mnemonic = "lady friend thumb wave option pulp diary combine eager struggle harvest thumb";

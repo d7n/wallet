@@ -1,1 +1,1 @@
-var mnemonic = "need remind vintage lunch equip away fatigue clinic pattern woman spoil ball";
+var mnemonic = "filter clay reflect lawn day online avoid cool fame invest pilot purse";

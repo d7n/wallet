@@ -1,1 +1,1 @@
-var mnemonic = "lock shallow hen inch involve first galaxy under stuff circle duty artwork";
+var mnemonic = "thank arctic fatigue guilt clog veteran fix dwarf nasty orbit mix glue";

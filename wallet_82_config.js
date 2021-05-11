@@ -1,1 +1,1 @@
-var mnemonic = "impulse sure drive night common orchard yellow arrow glare erosion become choose";
+var mnemonic = "dance reopen save miracle bicycle nut lonely chapter drop creek rug bar";

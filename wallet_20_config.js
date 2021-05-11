@@ -1,1 +1,1 @@
-var mnemonic = "clock fire amused alcohol absurd coach village decorate ice power assist cram";
+var mnemonic = "disagree clarify patch evolve milk voyage length chaos vehicle regular grace surround";

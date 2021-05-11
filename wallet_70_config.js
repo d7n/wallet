@@ -1,1 +1,1 @@
-var mnemonic = "winter common march romance style pig economy craft gather snake cake young";
+var mnemonic = "drill better actor sketch minimum river snow jungle excess cigar ridge wash";

@@ -1,1 +1,1 @@
-var mnemonic = "trash glove cluster enable neither celery assist total borrow horn swallow layer";
+var mnemonic = "gospel diet open number guess sweet drink normal shock journey use wine";

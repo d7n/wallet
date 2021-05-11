@@ -1,1 +1,1 @@
-var mnemonic = "lunar fix erosion coach excite people bottom local connect silver female lab";
+var mnemonic = "december adapt table camp allow segment tattoo ski bargain defy odor ankle";

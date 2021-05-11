@@ -1,1 +1,1 @@
-var mnemonic = "craft evolve undo country someone quality wink speed april magnet what ski";
+var mnemonic = "discover royal pony solar creek shed grab gold armor cup thumb void";

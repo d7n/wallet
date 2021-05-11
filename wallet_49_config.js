@@ -1,1 +1,1 @@
-var mnemonic = "endorse lemon glass someone myself umbrella prize stomach deny oppose female disagree";
+var mnemonic = "random marriage future burden hybrid divorce hat sibling trade recycle traffic mix";

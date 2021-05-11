@@ -1,1 +1,1 @@
-var mnemonic = "net rebuild color upon cushion frog company sick kit harvest hen goat";
+var mnemonic = "domain clip digital rally march grace apology private trip amount hard plug";

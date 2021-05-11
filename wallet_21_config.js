@@ -1,1 +1,1 @@
-var mnemonic = "glass rural knock clay scout uncover prepare topic destroy garden jewel hurdle";
+var mnemonic = "thunder glue sustain recipe fat vehicle desk lottery bonus wasp permit leader";

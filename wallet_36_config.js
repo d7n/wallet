@@ -1,1 +1,1 @@
-var mnemonic = "rather decline suspect final outside ramp grow elder sad phone student filter";
+var mnemonic = "tool comfort good decorate siege cycle half observe entire dance luggage task";

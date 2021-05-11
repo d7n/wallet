@@ -1,1 +1,1 @@
-var mnemonic = "ice permit female trade upset grass drum size elegant charge wine appear";
+var mnemonic = "erupt funny city rookie little holiday gas law scissors ordinary idea food";

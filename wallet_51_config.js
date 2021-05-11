@@ -1,1 +1,1 @@
-var mnemonic = "bundle tired odor journey private speed envelope please junior auto coyote harbor";
+var mnemonic = "earn record letter imitate garment erode bean enjoy gravity obvious duck snap";

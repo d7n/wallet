@@ -1,1 +1,1 @@
-var mnemonic = "gift puppy better bronze cage swim cover lab foam swim cheap duck";
+var mnemonic = "cargo mother charge picnic member rally false ring skull blur nation utility";

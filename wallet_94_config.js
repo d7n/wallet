@@ -1,1 +1,1 @@
-var mnemonic = "boil title method skull tiger apple buffalo frozen story fruit lobster hen";
+var mnemonic = "bleak only indoor such dawn tennis spare public inquiry cattle grain gossip";

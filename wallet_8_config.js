@@ -1,1 +1,1 @@
-var mnemonic = "height define seminar company oven reveal pledge float simple census clown axis";
+var mnemonic = "style frown toy distance outdoor nose north path erase entry enhance exchange";

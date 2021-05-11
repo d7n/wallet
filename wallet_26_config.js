@@ -1,1 +1,1 @@
-var mnemonic = "affair increase scrub kiss reunion dentist enforce love ahead exchange tail buffalo";
+var mnemonic = "still rice fish typical decrease cabin hover width noble escape then lazy";

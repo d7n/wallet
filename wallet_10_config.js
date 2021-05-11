@@ -1,1 +1,1 @@
-var mnemonic = "swallow inquiry gate flower toward output fatigue gentle cherry leader music uniform";
+var mnemonic = "stay judge deliver inside attract menu various knee report crack seed observe";

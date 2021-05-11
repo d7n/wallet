@@ -1,1 +1,1 @@
-var mnemonic = "ivory remove betray cable chair truth middle flip truth sunset minor wing";
+var mnemonic = "since dune source chuckle absent fatigue garment educate media matter similar east";

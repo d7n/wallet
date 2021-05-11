@@ -1,1 +1,1 @@
-var mnemonic = "extend usage civil pond hello crisp tuna can cinnamon brick picnic maid";
+var mnemonic = "round certain peace dwarf purchase caught menu addict amazing eagle march weird";

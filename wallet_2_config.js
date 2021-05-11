@@ -1,1 +1,1 @@
-var mnemonic = "upper praise lumber vacant rough catch where bomb chapter conduct asthma dial";
+var mnemonic = "much myth auction found security powder soul during entire tray remind scout";

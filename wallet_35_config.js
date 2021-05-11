@@ -1,1 +1,1 @@
-var mnemonic = "hip circle tired tower buyer artwork able first dish lake paddle cattle";
+var mnemonic = "enrich tumble ignore circle timber ocean soup chronic tomato margin tongue napkin";

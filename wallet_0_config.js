@@ -1,1 +1,1 @@
-var mnemonic = "maze camp prison weird machine wool hurt wife suit bunker defy purity";
+var mnemonic = "drill sorry guide rookie script army monkey few wheel salmon text paper";

@@ -1,1 +1,1 @@
-var mnemonic = "average fall extra daughter veteran rocket run craft meat dog path goat";
+var mnemonic = "crunch bamboo unfair sail open similar trade trumpet parrot ankle increase tiger";

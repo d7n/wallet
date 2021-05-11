@@ -1,1 +1,1 @@
-var mnemonic = "screen boss bonus angle about fatigue best desert language engage volcano endless";
+var mnemonic = "grape mix story eager rescue perfect idea effort joy midnight eternal pet";

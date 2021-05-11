@@ -1,1 +1,1 @@
-var mnemonic = "index mix build include there belt swear already absurd film number abandon";
+var mnemonic = "pulp wagon cave normal lab letter arrow cat twelve between silk jeans";

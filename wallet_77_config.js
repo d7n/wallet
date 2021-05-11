@@ -1,1 +1,1 @@
-var mnemonic = "poem hood submit image drink jazz cousin sample prosper slot actress average";
+var mnemonic = "climb boss city spoil circle symbol hurt select history moon cross liberty";

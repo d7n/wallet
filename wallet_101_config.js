@@ -1,1 +1,1 @@
-var mnemonic = "master pear joke response frost alert dinosaur need keep position sister deliver";
+var mnemonic = "lion finish require glide better lazy sadness poet reward uphold human park";

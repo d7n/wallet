@@ -1,1 +1,1 @@
-var mnemonic = "inflict valley live family magnet search develop follow spawn blue monkey brave";
+var mnemonic = "sentence wrap margin first argue apple prevent enter vivid struggle clarify absorb";

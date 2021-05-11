@@ -1,1 +1,1 @@
-var mnemonic = "analyst trade hurry cluster pupil iron screen surface banana permit velvet aim";
+var mnemonic = "casual correct capable check notice gloom hour shed animal gloom range word";

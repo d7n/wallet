@@ -1,1 +1,1 @@
-var mnemonic = "mosquito island pupil order rocket birth inflict erase antique admit off arrow";
+var mnemonic = "slam shy path brother cereal blouse illness eagle hint audit super vague";

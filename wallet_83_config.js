@@ -1,1 +1,1 @@
-var mnemonic = "life gate check source trophy diary purse diagram barrel lake cigar prepare";
+var mnemonic = "sense zone echo hammer alert festival arena old option snack shine major";

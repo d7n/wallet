@@ -1,1 +1,1 @@
-var mnemonic = "exhaust attend develop tomorrow comic essence absurd special slender sponsor merit will";
+var mnemonic = "client deny cycle average input giggle orient play view pass month visual";

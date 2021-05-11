@@ -1,1 +1,1 @@
-var mnemonic = "always glide vague number middle lonely oil phrase width earth motor wing";
+var mnemonic = "cliff intact margin march pave draw crawl decline meadow axis bridge plunge";

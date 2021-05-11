@@ -1,1 +1,1 @@
-var mnemonic = "village someone bar topic walk mixed drill wool physical refuse stone robot";
+var mnemonic = "leave permit fever jungle champion sponsor base latin mutual civil slab tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt solution cycle joke chalk diagram edit material fish play crouch cruise";
+var mnemonic = "weekend river faculty race pretty clarify ahead slim oppose buyer afraid exhibit";

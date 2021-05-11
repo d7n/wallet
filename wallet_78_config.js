@@ -1,1 +1,1 @@
-var mnemonic = "soda board vapor mother flight army cargo wagon garage path hobby leave";
+var mnemonic = "ethics visa doctor picture must seat hill into answer acquire marble again";

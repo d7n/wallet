@@ -1,1 +1,1 @@
-var mnemonic = "slender play baby interest act child spatial project love unit because awful";
+var mnemonic = "shaft crack joy accident roof silent story lab announce clay twist belt";
