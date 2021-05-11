@@ -1,1 +1,1 @@
-var mnemonic = "dress clarify guilt proof express science hammer exercise august hospital school clutch";
+var mnemonic = "youth edge pepper machine cat orbit frequent stone category chimney easily dream";

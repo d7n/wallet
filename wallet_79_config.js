@@ -1,1 +1,1 @@
-var mnemonic = "able upset caution whip afraid empower movie vague lock bring lecture switch";
+var mnemonic = "easy response source ritual occur bonus sad amount cash degree capable similar";

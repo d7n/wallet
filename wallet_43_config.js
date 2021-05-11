@@ -1,1 +1,1 @@
-var mnemonic = "render ignore eager split wire loan tunnel gesture noodle switch shed ladder";
+var mnemonic = "bundle cactus isolate economy become crystal razor pulp vote noise youth surge";

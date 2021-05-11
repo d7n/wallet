@@ -1,1 +1,1 @@
-var mnemonic = "decade leaf clerk solid private novel patient entire half own skate royal";
+var mnemonic = "carbon foot pistol luggage cross cattle tape kite number sick kingdom tip";

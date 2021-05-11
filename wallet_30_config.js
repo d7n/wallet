@@ -1,1 +1,1 @@
-var mnemonic = "home column harvest next gesture sudden indicate mystery gesture primary space hover";
+var mnemonic = "subway cloth dynamic vanish afford fringe casino garlic menu injury flip donkey";

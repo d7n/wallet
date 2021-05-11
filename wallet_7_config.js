@@ -1,1 +1,1 @@
-var mnemonic = "message carbon myself vibrant doctor sport clown bubble lucky behave champion exit";
+var mnemonic = "fan ozone pull swamp purse holiday child cherry stairs plunge payment jazz";

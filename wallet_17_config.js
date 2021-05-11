@@ -1,1 +1,1 @@
-var mnemonic = "travel result estate wall flee web meat metal impulse capital fall burst";
+var mnemonic = "mystery achieve sting update wrong spice toast lounge fury rich limb express";

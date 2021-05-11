@@ -1,1 +1,1 @@
-var mnemonic = "organ afraid attract mind cup pupil economy mixture join gossip embody add";
+var mnemonic = "cash melt rich oak exchange point found supply foster vehicle explain assume";

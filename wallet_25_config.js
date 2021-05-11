@@ -1,1 +1,1 @@
-var mnemonic = "quick gadget govern frame wear evil rubber legend ill coach nut obscure";
+var mnemonic = "velvet radar pool best notable tunnel evil sugar toss squirrel eye mechanic";

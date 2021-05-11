@@ -1,1 +1,1 @@
-var mnemonic = "weekend oak spirit art spider evolve crawl keen absurd left snow copper";
+var mnemonic = "muffin relax plug chair copper situate endorse meat speak wisdom detect glimpse";

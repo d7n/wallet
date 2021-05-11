@@ -1,1 +1,1 @@
-var mnemonic = "two benefit normal start expand mammal panda will holiday hurry notice fatal";
+var mnemonic = "right ten alcohol burst abandon zoo icon latin another advice gain sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "door gravity time tone repair hello race trophy open swift entire thumb";
+var mnemonic = "visa palace random company index submit gossip bird push view wasp recall";

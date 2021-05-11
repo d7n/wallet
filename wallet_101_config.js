@@ -1,1 +1,1 @@
-var mnemonic = "adapt vast survey neither neglect welcome peanut pencil wagon sorry include height";
+var mnemonic = "setup mansion luggage breeze cherry depth borrow light disease elite memory prefer";

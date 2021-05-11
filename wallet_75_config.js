@@ -1,1 +1,1 @@
-var mnemonic = "glimpse lunch black resemble wing cram ill lock company island moral include";
+var mnemonic = "vocal elegant evoke wolf patrol avocado clap admit grid dinosaur one switch";

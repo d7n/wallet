@@ -1,1 +1,1 @@
-var mnemonic = "powder cream laptop organ allow play beyond couple vintage funny audit hover";
+var mnemonic = "patient narrow disagree lumber vivid position avocado spirit brisk habit decide captain";

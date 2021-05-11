@@ -1,1 +1,1 @@
-var mnemonic = "slim sunset empty arena flavor food taste victory zone frown habit remind";
+var mnemonic = "misery gloom travel party remember affair grace much essence patient dish pole";

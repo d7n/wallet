@@ -1,1 +1,1 @@
-var mnemonic = "regular capital mirror clever wait six keep paper humble suffer hello kid";
+var mnemonic = "dismiss sweet message teach cluster bomb flower quantum fortune toward fresh human";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog system goose garage review snap pumpkin vivid engage rail future unit";
+var mnemonic = "truth amazing view assault potato salute game midnight oxygen keen master town";

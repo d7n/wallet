@@ -1,1 +1,1 @@
-var mnemonic = "lazy push uncover vibrant occur cause column pig inhale bench light february";
+var mnemonic = "pen twelve march drastic cash forest goose adult chase infant document immense";

@@ -1,1 +1,1 @@
-var mnemonic = "thank invite tag elegant castle loyal sheriff moment beyond bid bicycle clock";
+var mnemonic = "smoke market meat mom medal swamp clock clean strike sign orphan fence";

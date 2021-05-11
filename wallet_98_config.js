@@ -1,1 +1,1 @@
-var mnemonic = "icon volcano immune lend plate hero neither corn couch fruit morning vanish";
+var mnemonic = "news bullet visual energy finger imitate orchard gasp fat prepare trip license";

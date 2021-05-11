@@ -1,1 +1,1 @@
-var mnemonic = "clever enroll differ limit trust casino employ foil top lens slush slender";
+var mnemonic = "pig enrich equal hill kitten sadness evil muscle happy cycle another taste";

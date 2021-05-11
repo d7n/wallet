@@ -1,1 +1,1 @@
-var mnemonic = "aim laptop pelican beach fabric tuna usage matter deliver antique rotate deposit";
+var mnemonic = "meadow travel crumble soap rabbit mirror useless silk despair seat rural arm";

@@ -1,1 +1,1 @@
-var mnemonic = "stay kitchen monster sausage sting valve drastic case twin surprise dial comic";
+var mnemonic = "drop frown evil discover silver orange immune illness example gain quick cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "goat frozen history lamp use forget beyond collect kid chronic engage learn";
+var mnemonic = "never myth pen lunch disorder fame circle subway toddler spread swift pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "merit kitten ring ocean high left jaguar buyer choice hundred warm job";
+var mnemonic = "result dial swing vault stuff amount trigger magnet elegant depth essence stove";

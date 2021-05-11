@@ -1,1 +1,1 @@
-var mnemonic = "opinion wheel result fade lonely legend whip test year scan cruise accuse";
+var mnemonic = "push weekend gauge small suggest anchor true ranch update grant between suggest";

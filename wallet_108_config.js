@@ -1,1 +1,1 @@
-var mnemonic = "problem foot ocean subway hedgehog birth monster pelican angry crew camp wash";
+var mnemonic = "aspect transfer want bone betray torch series attract rubber coconut burst decorate";

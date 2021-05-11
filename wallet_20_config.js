@@ -1,1 +1,1 @@
-var mnemonic = "cave innocent print worry thrive zoo display input melody dilemma census purpose";
+var mnemonic = "stamp grain pencil syrup hover spice field again problem mad burger various";

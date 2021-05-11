@@ -1,1 +1,1 @@
-var mnemonic = "outside orange evidence benefit axis misery deputy intact property blanket couch lion";
+var mnemonic = "lava series west talent indicate merry giggle inmate bless decade convince vast";

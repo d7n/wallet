@@ -1,1 +1,1 @@
-var mnemonic = "rude nut buzz gaze card caution kangaroo general unlock leopard economy main";
+var mnemonic = "symbol card vapor kite payment fence ridge indicate over segment clump tone";

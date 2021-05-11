@@ -1,1 +1,1 @@
-var mnemonic = "gesture quantum scrub student science crouch boy cloud symbol hockey negative analyst";
+var mnemonic = "glide culture vendor gorilla angle venue various secret acoustic clarify panel sense";

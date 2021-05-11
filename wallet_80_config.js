@@ -1,1 +1,1 @@
-var mnemonic = "side scrub like firm naive spike black scout point decrease hire junk";
+var mnemonic = "camp rug undo lemon anchor stone box forward leisure original calm arctic";

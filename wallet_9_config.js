@@ -1,1 +1,1 @@
-var mnemonic = "nation chest capable puppy burden scout emerge potato nose suffer fat surface";
+var mnemonic = "benefit snap memory mushroom network define rack damp uncover argue casino ordinary";

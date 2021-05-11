@@ -1,1 +1,1 @@
-var mnemonic = "gauge entire picnic dust assume tribe flat leg shell copy knock measure";
+var mnemonic = "peasant hole romance dice benefit opinion mother method ribbon tide owner chicken";

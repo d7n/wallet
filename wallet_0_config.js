@@ -1,1 +1,1 @@
-var mnemonic = "include disease celery rotate dawn glue that harsh oppose strike frame top";
+var mnemonic = "rug reduce trick fix tent shy account satisfy bracket dice slogan response";

@@ -1,1 +1,1 @@
-var mnemonic = "odor name tongue forget hunt mention smile develop print hope yellow busy";
+var mnemonic = "uncover sniff fabric toward dream hard uncle helmet tribe quiz mixture flame";

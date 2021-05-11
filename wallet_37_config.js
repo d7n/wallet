@@ -1,1 +1,1 @@
-var mnemonic = "solution cushion reopen legal truly proof purchase fashion asthma predict dad dog";
+var mnemonic = "dial effort level museum exit swallow tiny olympic absurd tornado olympic tobacco";

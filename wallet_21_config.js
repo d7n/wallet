@@ -1,1 +1,1 @@
-var mnemonic = "fit switch width miss search prepare balance fiber remember ski velvet clinic";
+var mnemonic = "wedding jacket pave diet symbol chief keep antenna nurse evoke movie flat";

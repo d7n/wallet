@@ -1,1 +1,1 @@
-var mnemonic = "wisdom lemon lend mean stamp own scan luggage ring horn citizen deal";
+var mnemonic = "wish artefact sibling vote all adapt curve jeans faculty because leg slow";

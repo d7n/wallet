@@ -1,1 +1,1 @@
-var mnemonic = "end general grit super onion dose square fan occur equip grain olive";
+var mnemonic = "cash dress cushion friend race harbor hockey dream drive unique picture digital";

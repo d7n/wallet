@@ -1,1 +1,1 @@
-var mnemonic = "helmet paddle fuel donkey stove dawn ship lottery embrace unlock grid agent";
+var mnemonic = "various eager crucial limb meat type jar curtain issue pulse chef carpet";

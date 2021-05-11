@@ -1,1 +1,1 @@
-var mnemonic = "cook talent choose marriage unlock clerk volume tissue chapter predict bounce saddle";
+var mnemonic = "copper west false they observe leaf attract rib economy salad rent midnight";

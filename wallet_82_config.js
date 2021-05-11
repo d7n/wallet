@@ -1,1 +1,1 @@
-var mnemonic = "route battle verb advance buyer short pull auction canal romance pull tag";
+var mnemonic = "junk broken betray visit review plastic menu pulp rapid inside degree right";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh crystal area sock today leisure one plunge lunar sell margin summer";
+var mnemonic = "sense health door sight draw cover person hub direct similar toilet sweet";

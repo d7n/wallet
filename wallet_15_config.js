@@ -1,1 +1,1 @@
-var mnemonic = "company wasp business seed guess era grow shrimp axis amazing track weasel";
+var mnemonic = "surface use stamp zoo stick put response unique resemble venture train sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "century seek during biology regret notice census door globe liar patch awkward";
+var mnemonic = "earth appear fade toilet during inspire pelican stand hazard injury dance purchase";

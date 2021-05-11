@@ -1,1 +1,1 @@
-var mnemonic = "galaxy parrot scatter unlock play voice penalty candy pioneer same struggle jeans";
+var mnemonic = "tunnel twist inch word bench disagree vocal habit fork siege bridge reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid regret shine grape require casual arena mother theme like eyebrow include";
+var mnemonic = "art peasant tuition hotel chair security actual onion alone inside basket zero";

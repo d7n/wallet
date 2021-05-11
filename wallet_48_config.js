@@ -1,1 +1,1 @@
-var mnemonic = "also prepare shell attract problem repeat remind victory social pottery confirm genuine";
+var mnemonic = "gasp please zoo shove seek witness lift habit traffic genuine taste come";

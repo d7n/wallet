@@ -1,1 +1,1 @@
-var mnemonic = "junk merit dirt force hospital guide detail slice miracle great attract captain";
+var mnemonic = "female any monkey utility junk wheat abuse invest fatal language disagree else";

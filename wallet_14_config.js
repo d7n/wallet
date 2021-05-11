@@ -1,1 +1,1 @@
-var mnemonic = "doll end outdoor six key copper ball whale rebel search film enter";
+var mnemonic = "dance bulb dizzy sting prefer merry arrange poem cool illegal athlete renew";

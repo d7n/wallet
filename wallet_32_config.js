@@ -1,1 +1,1 @@
-var mnemonic = "address meat rail gasp sausage firm assume hurdle success bright bike obey";
+var mnemonic = "ancient typical success diamond shadow annual little south voice remain embark utility";

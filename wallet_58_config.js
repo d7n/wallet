@@ -1,1 +1,1 @@
-var mnemonic = "able wear desk evoke people bacon name clog cannon elephant local perfect";
+var mnemonic = "leaf gas seek merit camera rabbit design purpose dawn genre define fall";

@@ -1,1 +1,1 @@
-var mnemonic = "popular rely custom lamp audit damage lava bicycle dignity silk smoke bridge";
+var mnemonic = "idle gym orphan tortoise shove attack save admit pluck fork dragon buddy";

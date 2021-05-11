@@ -1,1 +1,1 @@
-var mnemonic = "betray appear shove bar ball entire plate flash elevator roof width sight";
+var mnemonic = "lady number hair hint family rare torch phrase injury calm coach hotel";

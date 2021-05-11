@@ -1,1 +1,1 @@
-var mnemonic = "argue try lazy hope oxygen wet during pear first dog away display";
+var mnemonic = "sausage trim electric protect resemble injury witness victory exact proof essence figure";

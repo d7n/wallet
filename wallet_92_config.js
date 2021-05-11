@@ -1,1 +1,1 @@
-var mnemonic = "crater situate jungle guide owner grunt survey degree enemy floor pledge canoe";
+var mnemonic = "cousin boost reduce nasty tattoo cruise spoil claw one about lonely person";

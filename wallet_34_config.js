@@ -1,1 +1,1 @@
-var mnemonic = "token sausage army curtain wife protect crew they truth notable mule material";
+var mnemonic = "visit gloom powder canal dust dose fiber action armor delay faculty outside";

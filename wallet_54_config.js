@@ -1,1 +1,1 @@
-var mnemonic = "neither voice divorce board expose evil kangaroo debris script blast random engage";
+var mnemonic = "forward slush hint plastic vocal brother holiday hazard aim avoid cram wood";

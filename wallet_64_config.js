@@ -1,1 +1,1 @@
-var mnemonic = "hen brick forum letter jar picnic actual begin bike trumpet bread habit";
+var mnemonic = "spray main scissors age document diagram school spin congress actress reform cabbage";

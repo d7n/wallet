@@ -1,1 +1,1 @@
-var mnemonic = "inside carry journey cement board lonely skirt indoor blur busy bacon moment";
+var mnemonic = "nice cause pudding extra addict goat palm fun ancient hello used gap";

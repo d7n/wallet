@@ -1,1 +1,1 @@
-var mnemonic = "arctic inquiry scrub smoke voyage divide family step return shoe poverty exercise";
+var mnemonic = "nest width mask erase canoe fatigue token expose immune alpha delay cargo";

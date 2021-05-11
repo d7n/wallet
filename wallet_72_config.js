@@ -1,1 +1,1 @@
-var mnemonic = "doll stem demise weekend script balance neck adult army jealous moon coral";
+var mnemonic = "short frozen forest auction summer only inflict loan cash bracket consider team";

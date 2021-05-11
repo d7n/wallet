@@ -1,1 +1,1 @@
-var mnemonic = "cradle document stock riot hair rebuild script stove heart pledge upper sausage";
+var mnemonic = "twin comic wire disagree news dust swap need bus tide tired mad";

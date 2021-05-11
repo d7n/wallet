@@ -1,1 +1,1 @@
-var mnemonic = "beach tiger swear lady mechanic cheap universe apology genre eye situate course";
+var mnemonic = "eight artist science pony lock labor tired glare margin service surround lounge";

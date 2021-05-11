@@ -1,1 +1,1 @@
-var mnemonic = "catch face soda toddler dream unhappy hammer velvet head remember tomorrow buffalo";
+var mnemonic = "team choice cliff own sign gadget will liquid next action captain beauty";

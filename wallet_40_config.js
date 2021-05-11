@@ -1,1 +1,1 @@
-var mnemonic = "mango market inner market thunder foil horse boring huge garbage spoil list";
+var mnemonic = "arrest chalk melt drama only slide tuition round arch motion wait pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "robot fork local practice nature snap crazy figure confirm infant capital spoon";
+var mnemonic = "bag love table attack wash easily glimpse giant tumble pupil exchange title";

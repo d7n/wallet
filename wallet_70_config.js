@@ -1,1 +1,1 @@
-var mnemonic = "express motor kiwi embody inject light resist such pistol proud delay girl";
+var mnemonic = "search unusual oblige gold rail loan blood myth scare gym rib process";

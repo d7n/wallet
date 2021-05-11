@@ -1,1 +1,1 @@
-var mnemonic = "action price rough key bike ribbon vault found patrol reject custom action";
+var mnemonic = "course august loop chair meadow crumble predict velvet afraid unique stem resist";

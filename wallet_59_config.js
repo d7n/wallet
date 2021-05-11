@@ -1,1 +1,1 @@
-var mnemonic = "dish expand capital love special recipe region leaf scout ceiling sweet crop";
+var mnemonic = "exclude forum grid wide actress bitter purchase library cram gentle sad bargain";

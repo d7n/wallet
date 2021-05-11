@@ -1,1 +1,1 @@
-var mnemonic = "lonely hand giant walnut fiction save rotate whale squeeze staff develop person";
+var mnemonic = "autumn wave entry hood tree hurt harsh sell diary blush swim mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore apart all proud voyage dumb cram decline scale angle squeeze flight";
+var mnemonic = "matter hospital fold hen media glimpse horn lawsuit usage hub style behind";

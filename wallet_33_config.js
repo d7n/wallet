@@ -1,1 +1,1 @@
-var mnemonic = "custom kangaroo lucky dish security gauge globe correct lesson evil nature jacket";
+var mnemonic = "small fish before between toss ask pull hurdle ribbon faith erode beyond";

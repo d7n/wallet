@@ -1,1 +1,1 @@
-var mnemonic = "brave brisk ecology flee decade legal hope near hero ride crazy sauce";
+var mnemonic = "suspect collect observe abuse kite undo divert toe hurry extra develop fish";

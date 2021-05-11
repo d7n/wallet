@@ -1,1 +1,1 @@
-var mnemonic = "science lava session special crop excuse orbit focus walk pull involve erupt";
+var mnemonic = "juice remain plunge enact wrong strong result bicycle shrimp crop spring whip";

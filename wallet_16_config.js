@@ -1,1 +1,1 @@
-var mnemonic = "drum hint unaware empty century luggage system rate person return grape expire";
+var mnemonic = "creek erupt wolf own sudden ethics expect wedding secret bubble gentle idle";

@@ -1,1 +1,1 @@
-var mnemonic = "since butter butter mother wood expire hunt material report edit bubble tree";
+var mnemonic = "meat glue expand dinosaur decorate fog accident interest senior olympic vapor cat";

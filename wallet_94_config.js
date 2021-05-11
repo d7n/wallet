@@ -1,1 +1,1 @@
-var mnemonic = "size song differ extend grab survey broom cook pen retire ride wool";
+var mnemonic = "cannon range ill stand shy again smooth laptop sphere original wheat stove";

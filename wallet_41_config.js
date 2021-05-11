@@ -1,1 +1,1 @@
-var mnemonic = "auto lemon swamp vapor evolve flash whale defy faint account bleak fiscal";
+var mnemonic = "option panda anger absorb team chronic eight design wide uncover name tuition";

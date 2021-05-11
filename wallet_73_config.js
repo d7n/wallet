@@ -1,1 +1,1 @@
-var mnemonic = "brisk link abstract wait remember edit flag unveil require gain guard basic";
+var mnemonic = "choice alpha plug sunny shuffle health bronze orbit ahead ranch bronze census";
