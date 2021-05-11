@@ -1,1 +1,1 @@
-var mnemonic = "egg ice entry during spring sauce smooth conduct banner issue hollow dismiss";
+var mnemonic = "lend fitness civil power clock turn will mind mutual yard pole rough";

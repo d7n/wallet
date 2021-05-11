@@ -1,1 +1,1 @@
-var mnemonic = "monkey guilt charge sponsor common flip lottery ability trip leader live reward";
+var mnemonic = "bitter runway club domain slow flash slice nasty harbor forward scout kiwi";

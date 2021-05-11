@@ -1,1 +1,1 @@
-var mnemonic = "portion fish soldier pen alone language miracle winner night actual cloth blind";
+var mnemonic = "lizard audit okay piece clinic pill step catch opera clever leave vital";

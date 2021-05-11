@@ -1,1 +1,1 @@
-var mnemonic = "soft income jewel orbit relax network first scare dilemma season mosquito scissors";
+var mnemonic = "fall champion elevator thrive network mind chaos lawsuit bean shoe pen humor";

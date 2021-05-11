@@ -1,1 +1,1 @@
-var mnemonic = "dynamic skin harvest place swear boring unaware census accuse purpose like elite";
+var mnemonic = "wage hand left north control beauty rocket provide off humor marine shoe";

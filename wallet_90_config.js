@@ -1,1 +1,1 @@
-var mnemonic = "link work rocket remember fault include pattern embark social cart secret amateur";
+var mnemonic = "feed mesh episode pipe match consider tragic bacon fluid luxury choice jacket";

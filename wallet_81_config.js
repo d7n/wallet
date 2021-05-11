@@ -1,1 +1,1 @@
-var mnemonic = "slot demise canvas forest knife powder soon cotton diary grocery time satoshi";
+var mnemonic = "helmet wedding flat seven country upon use want nerve horn cloud casino";

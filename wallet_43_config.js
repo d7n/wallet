@@ -1,1 +1,1 @@
-var mnemonic = "spoil gloom improve fog swap deliver adult scatter skill clerk join pony";
+var mnemonic = "there defy purse napkin shock ketchup forest dismiss foam coil hill jazz";

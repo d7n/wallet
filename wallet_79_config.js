@@ -1,1 +1,1 @@
-var mnemonic = "kitten cart range high young advice dress sweet denial cat find ginger";
+var mnemonic = "trash awful barrel crop prefer robust patch salt reason still ability during";

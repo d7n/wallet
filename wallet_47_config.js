@@ -1,1 +1,1 @@
-var mnemonic = "february gather cliff park dinosaur gas immune shaft orchard stomach very question";
+var mnemonic = "common either marriage bread ecology wagon digital battle certain morning nice lumber";

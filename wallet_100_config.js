@@ -1,1 +1,1 @@
-var mnemonic = "alley city common retire exile clutch borrow swallow guess face cook wine";
+var mnemonic = "gasp skate enhance cradle manage later uniform ensure train just lottery nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "silver provide practice eagle response vapor rescue trick gentle gap salt bag";
+var mnemonic = "impulse high infant nose senior box sail diamond myth orient venture eight";

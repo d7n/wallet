@@ -1,1 +1,1 @@
-var mnemonic = "corn matrix tennis season puppy album sort fiction install novel morning better";
+var mnemonic = "hungry shoulder chicken mom bullet daughter leg nut social liquid decide fruit";

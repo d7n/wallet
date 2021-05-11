@@ -1,1 +1,1 @@
-var mnemonic = "piano pupil entry sting stay gadget claim puzzle daughter fault rigid smoke";
+var mnemonic = "cry layer wonder flame burger toddler census reason raven enlist unfair system";

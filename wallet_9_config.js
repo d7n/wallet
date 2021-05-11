@@ -1,1 +1,1 @@
-var mnemonic = "party diesel victory unfold enough horror payment federal wave protect practice update";
+var mnemonic = "wrist bleak ethics equip weasel orient primary wrap grow prevent crumble emerge";

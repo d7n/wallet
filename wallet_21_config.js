@@ -1,1 +1,1 @@
-var mnemonic = "original science save note review accuse clip rib adjust rocket silly gravity";
+var mnemonic = "female able valve abuse occur kiwi bleak fan uncle shrug simple inch";

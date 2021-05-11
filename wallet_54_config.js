@@ -1,1 +1,1 @@
-var mnemonic = "anger diesel creek ugly process napkin hair mandate change chat renew mandate";
+var mnemonic = "bar please cup gorilla exact ten solve size fatal misery gift trumpet";

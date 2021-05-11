@@ -1,1 +1,1 @@
-var mnemonic = "drip crew final punch bench group success craft unfold brain crunch earth";
+var mnemonic = "lamp guilt awkward critic lemon exile divert place park occur mistake kidney";

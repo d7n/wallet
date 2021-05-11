@@ -1,1 +1,1 @@
-var mnemonic = "job cash fee jewel crawl provide sail nut denial agent window bullet";
+var mnemonic = "disagree crater ignore inmate nut patch strike gallery unfair penalty unable pause";

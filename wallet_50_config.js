@@ -1,1 +1,1 @@
-var mnemonic = "permit offer puzzle wheel gospel mule trap answer aisle craft rubber bright";
+var mnemonic = "message ski frog crucial beach trial day edge never envelope jar spider";

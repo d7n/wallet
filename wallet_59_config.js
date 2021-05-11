@@ -1,1 +1,1 @@
-var mnemonic = "suspect globe child ability noble rain team solar arrive resource grab attend";
+var mnemonic = "achieve rifle quarter slab matrix soft mystery bleak lobster crime atom cute";

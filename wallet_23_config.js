@@ -1,1 +1,1 @@
-var mnemonic = "manage kangaroo evoke obscure room violin inspire enter gravity jeans morning anchor";
+var mnemonic = "ranch sibling era feature vehicle snow kiss debate pear venture try latin";

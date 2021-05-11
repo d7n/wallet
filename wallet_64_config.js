@@ -1,1 +1,1 @@
-var mnemonic = "benefit salute waste genuine shed couple announce hidden tag whisper broom multiply";
+var mnemonic = "arrange boil sun bitter apart own address dawn swim oak shy weather";

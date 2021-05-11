@@ -1,1 +1,1 @@
-var mnemonic = "middle track muscle still match spread object lamp antique adjust balance still";
+var mnemonic = "crater deny butter sustain liar can bring resource joy claim author humor";

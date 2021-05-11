@@ -1,1 +1,1 @@
-var mnemonic = "motor swallow empower hundred toddler season only wide evolve bean vital ancient";
+var mnemonic = "wet zero universe poverty ketchup sock escape stone inquiry cross letter lizard";

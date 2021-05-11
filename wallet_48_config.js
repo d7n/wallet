@@ -1,1 +1,1 @@
-var mnemonic = "ginger correct hurt case hero safe tunnel release atom recall awkward auction";
+var mnemonic = "alert noble wire bunker stairs river extra vacuum turn crane usage pause";

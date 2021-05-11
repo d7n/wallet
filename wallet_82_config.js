@@ -1,1 +1,1 @@
-var mnemonic = "own garage tell rent pen cradle violin casual cake divert session panel";
+var mnemonic = "exhaust equal point excess foster lemon expect machine clarify lava hungry rice";

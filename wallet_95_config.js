@@ -1,1 +1,1 @@
-var mnemonic = "estate awake game undo bracket they bag obscure bag exchange they adjust";
+var mnemonic = "scheme attract hurt worry sunny visit find stable asset stove later hurdle";

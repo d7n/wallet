@@ -1,1 +1,1 @@
-var mnemonic = "undo prevent canal traffic diagram cancel echo addict own mix pizza cash";
+var mnemonic = "ghost hover organ relax open moral badge inform sheriff nation when because";

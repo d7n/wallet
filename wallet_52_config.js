@@ -1,1 +1,1 @@
-var mnemonic = "history curve laugh claim surge tooth razor carpet shuffle electric staff tennis";
+var mnemonic = "zero device coconut left light obscure essay unique invest energy pill exercise";

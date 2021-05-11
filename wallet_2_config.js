@@ -1,1 +1,1 @@
-var mnemonic = "plunge drastic source tuition wagon old coil flat bachelor one alarm eyebrow";
+var mnemonic = "consider ostrich domain snap example orchard pencil stool escape come satisfy skin";

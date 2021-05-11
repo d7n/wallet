@@ -1,1 +1,1 @@
-var mnemonic = "bench awkward explain tide blur submit pioneer also curious purity vapor series";
+var mnemonic = "image wolf toilet moon collect country grab blur slight exercise evil punch";

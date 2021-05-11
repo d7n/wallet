@@ -1,1 +1,1 @@
-var mnemonic = "attract lake accident cost purpose noise poet property tray stumble february daring";
+var mnemonic = "flight region organ arm company sword treat toss mystery chef top clever";

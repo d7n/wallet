@@ -1,1 +1,1 @@
-var mnemonic = "chair cousin cousin captain used wrestle scout panel wisdom rug foam iron";
+var mnemonic = "actress urge smile diamond design inch hungry another volume neither olympic make";

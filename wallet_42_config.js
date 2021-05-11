@@ -1,1 +1,1 @@
-var mnemonic = "industry globe acquire mom opinion response kit remind island shine omit grid";
+var mnemonic = "cat remove ceiling lesson beef object adapt wage roof point sample switch";

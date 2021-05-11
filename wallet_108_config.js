@@ -1,1 +1,1 @@
-var mnemonic = "power loyal book attitude tunnel abstract misery tomorrow infant miss lift toilet";
+var mnemonic = "escape shrimp apple keen slogan text dinosaur divert relief walk weather tray";

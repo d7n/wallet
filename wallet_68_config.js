@@ -1,1 +1,1 @@
-var mnemonic = "virtual explain multiply brick art turtle donate ritual disagree label soup phone";
+var mnemonic = "satisfy coast stereo refuse finger item horn image abuse leader bulb sustain";

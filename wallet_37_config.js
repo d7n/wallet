@@ -1,1 +1,1 @@
-var mnemonic = "dumb return announce author man range merge trade clog flag boring small";
+var mnemonic = "guard carbon denial license retreat two when rely refuse rocket family thing";

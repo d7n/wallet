@@ -1,1 +1,1 @@
-var mnemonic = "margin mix salmon immune case inflict media tenant child divert valve practice";
+var mnemonic = "fluid peanut sort fine margin squirrel focus stone steel absent prevent bone";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain traffic piano erode swallow invest thumb adult retreat rate cool left";
+var mnemonic = "rude lift crash clever extend child announce walnut clever cause flight monitor";

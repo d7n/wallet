@@ -1,1 +1,1 @@
-var mnemonic = "leader wait tuition elegant magnet simple lecture fence very middle hello hybrid";
+var mnemonic = "drift glide desert possible arrest front guess labor mad oxygen oak subway";

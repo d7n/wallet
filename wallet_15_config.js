@@ -1,1 +1,1 @@
-var mnemonic = "good swarm various faint sing submit opera equal nest thumb scheme film";
+var mnemonic = "near mom lobster pill budget dentist cinnamon online rival menu arrow same";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol banner text bronze hawk circle sphere great tiny bright wrong thing";
+var mnemonic = "receive art secret until satisfy scissors property solar letter six connect spread";

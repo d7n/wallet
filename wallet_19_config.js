@@ -1,1 +1,1 @@
-var mnemonic = "estate allow wash buyer cereal total happy shoot forest arrow monster fix";
+var mnemonic = "name behind voice twin crumble cycle consider buzz marine mammal leader rent";

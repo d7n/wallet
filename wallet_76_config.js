@@ -1,1 +1,1 @@
-var mnemonic = "absurd wool glare tonight ramp endless stock pledge tube gadget run same";
+var mnemonic = "capable above ginger tent art elevator wrist visit hub clump physical venue";

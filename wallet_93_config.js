@@ -1,1 +1,1 @@
-var mnemonic = "dial light blossom toddler web reveal script snap school main rail bleak";
+var mnemonic = "huge survey series upon express vendor layer announce gather square public library";

@@ -1,1 +1,1 @@
-var mnemonic = "idle sick hollow skin sound seek dance sight broom private session destroy";
+var mnemonic = "media vehicle beyond absurd evolve reopen father knee venture amused answer miss";

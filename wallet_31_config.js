@@ -1,1 +1,1 @@
-var mnemonic = "uncover forum kind library solid hurdle crawl help category twin bounce gadget";
+var mnemonic = "mother pipe cry combine peanut media waste fruit leopard rigid floor pelican";

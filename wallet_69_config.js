@@ -1,1 +1,1 @@
-var mnemonic = "bright tomato curve napkin extra city protect deny lemon neither loop club";
+var mnemonic = "bring lunar game banner board chat hawk real share move used icon";

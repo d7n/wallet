@@ -1,1 +1,1 @@
-var mnemonic = "proof series early label property boil urban gown aerobic mention dawn design";
+var mnemonic = "mango stove doll settle talk describe dial ahead memory pilot horn enter";

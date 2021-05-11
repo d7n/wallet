@@ -1,1 +1,1 @@
-var mnemonic = "speed beyond elephant also sketch afford square buyer boy hole lava marriage";
+var mnemonic = "vivid boss trial illegal proof crop inner world multiply release off legend";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding tobacco engage gallery invite bracket alcohol alarm neck together walk prize";
+var mnemonic = "glass inch water verb naive cram exhibit minimum deal spirit buffalo fork";

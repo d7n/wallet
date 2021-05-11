@@ -1,1 +1,1 @@
-var mnemonic = "tower skin habit chaos hungry hunt blood picture animal derive sauce outside";
+var mnemonic = "opera immune kiss payment moon warm vacuum mass aerobic paper balance during";

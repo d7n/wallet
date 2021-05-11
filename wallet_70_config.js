@@ -1,1 +1,1 @@
-var mnemonic = "wall gown boss trick jewel youth merit party twist strike easily ecology";
+var mnemonic = "cost fog bus traffic mandate sponsor outer image page profit chase margin";

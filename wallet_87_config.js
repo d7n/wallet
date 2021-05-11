@@ -1,1 +1,1 @@
-var mnemonic = "list list bind smooth dinner ski sister flower champion together kangaroo element";
+var mnemonic = "guitar pilot beauty off cricket proud trumpet usage lottery ice budget blue";

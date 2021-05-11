@@ -1,1 +1,1 @@
-var mnemonic = "liberty valve reveal interest scare exercise meadow claw priority jazz village start";
+var mnemonic = "valve deer rack senior choose equal ready apart ivory orchard volume practice";

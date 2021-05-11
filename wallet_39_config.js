@@ -1,1 +1,1 @@
-var mnemonic = "endorse deal pluck allow flash aisle sunset truck raw notable fiscal ramp";
+var mnemonic = "miss imitate mechanic sing wire select excess obscure original teach execute bag";

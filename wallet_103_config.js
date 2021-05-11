@@ -1,1 +1,1 @@
-var mnemonic = "act dog absent screen crouch typical fee various dignity combine work cute";
+var mnemonic = "accuse unusual enter style outside recall flight oil allow sense track catch";

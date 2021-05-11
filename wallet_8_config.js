@@ -1,1 +1,1 @@
-var mnemonic = "goat evoke amused acquire zone oven faint school peace bike dice birth";
+var mnemonic = "alley mind credit blind pattern cliff forest tree wise shallow enroll unaware";

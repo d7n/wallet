@@ -1,1 +1,1 @@
-var mnemonic = "insane olive system solve hundred define candy own season upgrade fury profit";
+var mnemonic = "powder exhaust differ miss wave during section rain above crop voice biology";

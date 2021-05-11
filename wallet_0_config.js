@@ -1,1 +1,1 @@
-var mnemonic = "cheese together rail admit grass below soda urban trash welcome ripple valid";
+var mnemonic = "advance tenant shine badge key heart label noise usage brush solve crush";

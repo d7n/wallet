@@ -1,1 +1,1 @@
-var mnemonic = "volume focus one crowd arrange lumber crowd tourist bottom engine clock news";
+var mnemonic = "soup reject great quarter exhibit wool insect guard common scheme unique apart";

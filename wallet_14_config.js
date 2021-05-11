@@ -1,1 +1,1 @@
-var mnemonic = "supply credit goat often issue used pilot deputy tiny uncover pact canyon";
+var mnemonic = "vague rapid analyst measure circle oven age item agree charge program unfair";

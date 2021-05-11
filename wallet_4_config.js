@@ -1,1 +1,1 @@
-var mnemonic = "asset spot oyster ecology tip lamp scan hungry output harbor mixed garage";
+var mnemonic = "idea level gospel suggest guard interest absurd pond gallery nurse alone useless";

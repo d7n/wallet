@@ -1,1 +1,1 @@
-var mnemonic = "monitor guide knife path improve rebel sing trip proud deer hawk recipe";
+var mnemonic = "bulk swarm raccoon expose memory oblige calm gold ranch sense diary join";

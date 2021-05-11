@@ -1,1 +1,1 @@
-var mnemonic = "used giggle hidden resource arctic sample example fabric vehicle twice region share";
+var mnemonic = "ordinary fault script camp olympic dragon cash quote dove erupt portion bird";

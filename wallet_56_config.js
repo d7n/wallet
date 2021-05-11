@@ -1,1 +1,1 @@
-var mnemonic = "sunset genuine rookie trophy capital frost seminar run blood table arm thank";
+var mnemonic = "ahead hybrid garage help once plastic seed join agree wheel blur offer";

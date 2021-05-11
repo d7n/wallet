@@ -1,1 +1,1 @@
-var mnemonic = "unit soon profit rotate chief oak humble aisle spring weekend coyote gun";
+var mnemonic = "cricket climb sudden income inform candy page sight economy damage judge major";

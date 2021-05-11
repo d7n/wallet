@@ -1,1 +1,1 @@
-var mnemonic = "guilt fire wonder chapter sunny usage gossip story genre sing town puppy";
+var mnemonic = "hood issue snack siren sword pipe silk shuffle lesson auction basket index";

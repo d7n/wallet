@@ -1,1 +1,1 @@
-var mnemonic = "sail wrist derive parade mother offer orphan oyster nut bargain churn play";
+var mnemonic = "retreat topic door often spawn exist purpose ride amateur shine supply poem";

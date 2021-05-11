@@ -1,1 +1,1 @@
-var mnemonic = "bring rifle kite creek alter cousin real scorpion humble label sign barrel";
+var mnemonic = "huge useless off soup behind speak strategy alcohol champion upon resource again";

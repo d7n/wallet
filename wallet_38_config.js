@@ -1,1 +1,1 @@
-var mnemonic = "labor april move figure taxi dwarf mix rough room voice alley spin";
+var mnemonic = "uncover laptop use imitate canyon require galaxy pulp expect diesel bring pumpkin";

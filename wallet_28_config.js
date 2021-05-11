@@ -1,1 +1,1 @@
-var mnemonic = "real detect nose twin found increase sustain reflect cat miracle brain axis";
+var mnemonic = "borrow attitude door steak whip cancel round help ostrich fantasy bring catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "focus indoor chair return army define laptop give vault artist repair achieve";
+var mnemonic = "treat anchor proof open document hundred clip pool adult awake wear fluid";

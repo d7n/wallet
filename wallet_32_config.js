@@ -1,1 +1,1 @@
-var mnemonic = "keep high taxi output chase drift lava holiday nerve mule friend erase";
+var mnemonic = "panda oblige zebra fancy badge anger dentist foil hair view secret gift";

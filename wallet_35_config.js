@@ -1,1 +1,1 @@
-var mnemonic = "shoe denial cost reunion cart assume try circle black degree tiny tribe";
+var mnemonic = "survey west reward party flower ski among theme focus basic rail diesel";

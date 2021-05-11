@@ -1,1 +1,1 @@
-var mnemonic = "trap hurry author copper news benefit chief powder surprise obvious fault dutch";
+var mnemonic = "catch flock kid much budget annual month piece doll ribbon invest shoe";

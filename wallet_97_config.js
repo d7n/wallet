@@ -1,1 +1,1 @@
-var mnemonic = "draw predict select list hard local hidden ball like cover draft very";
+var mnemonic = "veteran rifle ankle require spend next fancy urge boring soda insect chef";

@@ -1,1 +1,1 @@
-var mnemonic = "spider special family cause match region what snow host average smoke same";
+var mnemonic = "tackle rival wood beef toss kangaroo place glass liquid just impact language";

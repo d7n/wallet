@@ -1,1 +1,1 @@
-var mnemonic = "giant delay together course infant endorse equal nuclear bonus stairs glory burger";
+var mnemonic = "thumb slogan current vital trim catalog creek liar laptop claim grid sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz inhale index dose clip melody mechanic glimpse wheel exile story lizard";
+var mnemonic = "desk world bamboo sunset island click arm impact snack stomach clutch media";

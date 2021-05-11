@@ -1,1 +1,1 @@
-var mnemonic = "wink husband august vocal sweet donate transfer arm cream rough payment lucky";
+var mnemonic = "total pass ahead reflect sound vehicle body prize practice asthma actor plastic";

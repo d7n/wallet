@@ -1,1 +1,1 @@
-var mnemonic = "glory spoon immune like hole burger trumpet spoon about weapon junk blood";
+var mnemonic = "play amateur word chapter market timber cave escape bike lyrics deputy usual";

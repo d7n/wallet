@@ -1,1 +1,1 @@
-var mnemonic = "solve fresh picnic grunt install myth assume apology wrist ceiling marine cactus";
+var mnemonic = "repair want dinosaur add acid question digital question recall blade canal repeat";

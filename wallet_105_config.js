@@ -1,1 +1,1 @@
-var mnemonic = "circle timber alien blame skull project effort pitch token alley avocado into";
+var mnemonic = "ripple social slim monkey blame wash predict control visa entire student kiwi";

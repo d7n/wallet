@@ -1,1 +1,1 @@
-var mnemonic = "chimney yellow joke habit vital trust predict wage vault spice city early";
+var mnemonic = "improve phrase begin main review mystery satoshi tomato city wash domain young";

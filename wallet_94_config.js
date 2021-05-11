@@ -1,1 +1,1 @@
-var mnemonic = "income minor fold stamp slender exercise toast border old ivory rice have";
+var mnemonic = "hub insect exotic legend galaxy flip tuition review plunge truth three possible";

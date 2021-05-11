@@ -1,1 +1,1 @@
-var mnemonic = "soup machine tree list shift daughter catch home ignore used praise runway";
+var mnemonic = "annual frog shy course muscle anger flash panic program motor sniff alien";

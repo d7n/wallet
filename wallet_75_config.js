@@ -1,1 +1,1 @@
-var mnemonic = "profit impulse keen rocket hard trade other couch guilt crouch extend blast";
+var mnemonic = "soda snap any estate critic reduce stadium park salute tonight accuse math";

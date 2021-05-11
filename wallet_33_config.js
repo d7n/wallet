@@ -1,1 +1,1 @@
-var mnemonic = "cement equal casual omit celery latin trumpet same hybrid ritual scan mad";
+var mnemonic = "walnut arrow foam tourist sense winter swallow tonight cattle giant wrestle submit";
