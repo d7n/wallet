@@ -1,1 +1,1 @@
-var mnemonic = "tonight milk hover hero adjust neglect supply sword arch bid habit early";
+var mnemonic = "million scissors race female hour chef small absent spider number ready satisfy";

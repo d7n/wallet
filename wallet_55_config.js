@@ -1,1 +1,1 @@
-var mnemonic = "deliver lawn suspect taste cricket excuse kick chicken coffee public lift round";
+var mnemonic = "thought kite slogan image deposit inform wire vote zero camera word oyster";

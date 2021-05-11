@@ -1,1 +1,1 @@
-var mnemonic = "night trash mesh canvas eyebrow prize frame use salad monkey end model";
+var mnemonic = "cover purity wait cross ready mean jazz near drop floor drop talent";

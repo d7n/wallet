@@ -1,1 +1,1 @@
-var mnemonic = "win wave roof music chronic silk tuition tuna confirm special typical element";
+var mnemonic = "title talent poet welcome unknown this barely position between minimum baby gold";

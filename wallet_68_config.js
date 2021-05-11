@@ -1,1 +1,1 @@
-var mnemonic = "era whisper sing top pudding soap deposit enter cheese caution neck glow";
+var mnemonic = "crop resemble write rich empty pencil south glimpse retreat history fault impact";

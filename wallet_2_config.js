@@ -1,1 +1,1 @@
-var mnemonic = "mixture save beef tomato heart mechanic tourist pepper fence fever unusual wild";
+var mnemonic = "cricket cost differ diary bone august apple other pool early lens borrow";

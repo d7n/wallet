@@ -1,1 +1,1 @@
-var mnemonic = "lottery credit drive mind modify liquid donkey allow cup ethics rose pipe";
+var mnemonic = "fix caught execute medal winter ankle immune choice current grab canoe icon";

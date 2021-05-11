@@ -1,1 +1,1 @@
-var mnemonic = "program ill middle collect prefer slice divert veteran crash hurt window approve";
+var mnemonic = "cushion dirt crawl acoustic capable wink bachelor dentist tunnel sauce calm genuine";

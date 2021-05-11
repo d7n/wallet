@@ -1,1 +1,1 @@
-var mnemonic = "piano wing reform tuna expect jump leader aunt cousin about frozen caution";
+var mnemonic = "one tone begin flame ozone multiply unknown under myth modify language raccoon";

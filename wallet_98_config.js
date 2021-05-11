@@ -1,1 +1,1 @@
-var mnemonic = "eager endless rocket inject foot when bird high session property check act";
+var mnemonic = "indoor electric uncle hospital kingdom destroy steak involve valley file drip mesh";

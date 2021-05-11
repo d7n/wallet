@@ -1,1 +1,1 @@
-var mnemonic = "salt radar involve what route earn vast resist dumb divorce teach upset";
+var mnemonic = "monster work opera fence wealth aim cool guard bring fragile canvas quantum";

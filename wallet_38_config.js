@@ -1,1 +1,1 @@
-var mnemonic = "autumn summer month robot screen cabin warfare fancy lift siren crawl helmet";
+var mnemonic = "february solid artist file puppy garbage stamp depth brain that enlist steel";

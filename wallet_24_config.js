@@ -1,1 +1,1 @@
-var mnemonic = "clap execute wire range goddess verb tongue dragon seek add trophy number";
+var mnemonic = "orange please fire shoe season inquiry company clutch blur table gift neither";

@@ -1,1 +1,1 @@
-var mnemonic = "coach private galaxy kiwi slush rocket identify cruel cancel team soul target";
+var mnemonic = "air puppy endorse planet prepare anchor differ zebra under garbage carry wire";

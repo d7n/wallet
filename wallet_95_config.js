@@ -1,1 +1,1 @@
-var mnemonic = "elbow wrong miracle current pink reunion hammer draft setup advance concert poem";
+var mnemonic = "merit wet hollow slush roast route forward shop ugly miracle bracket dry";

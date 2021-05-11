@@ -1,1 +1,1 @@
-var mnemonic = "dust remember crack opinion town stage very page ticket garment swing metal";
+var mnemonic = "mushroom emerge dismiss bean train document build tackle mixture nature group lazy";

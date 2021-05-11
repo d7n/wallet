@@ -1,1 +1,1 @@
-var mnemonic = "demand disagree capital defy bring come ensure shadow round earth nature recall";
+var mnemonic = "useless leg thing gold honey case fix traffic steel theory front smart";

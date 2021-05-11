@@ -1,1 +1,1 @@
-var mnemonic = "caught peace enforce segment across lumber food talent flag salute object kit";
+var mnemonic = "hungry amateur brave involve ghost lyrics mad viable renew mass erosion jar";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt tragic daughter crime inspire loop derive property what surge tackle mind";
+var mnemonic = "supreme coyote evoke reopen taste domain flat soap tragic detail sentence square";

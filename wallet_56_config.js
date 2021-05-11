@@ -1,1 +1,1 @@
-var mnemonic = "fury aware shiver rose desert slow spike loud melody become bus vital";
+var mnemonic = "pencil yard snake almost ginger flower spy rare talk coyote around heart";

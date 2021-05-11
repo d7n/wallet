@@ -1,1 +1,1 @@
-var mnemonic = "pony relief pizza goddess clog scorpion expire walnut hard month unknown sort";
+var mnemonic = "magnet gym flock wrist goat warrior play vocal bone wealth choose vote";

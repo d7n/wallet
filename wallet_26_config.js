@@ -1,1 +1,1 @@
-var mnemonic = "wife cherry group weird ivory renew render vintage shell advance damage want";
+var mnemonic = "vendor scare sentence silk seven cherry design know dwarf oxygen urban enroll";

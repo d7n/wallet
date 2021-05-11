@@ -1,1 +1,1 @@
-var mnemonic = "cattle worth chalk menu ten health fatigue announce uncover couch affair usage";
+var mnemonic = "empty scheme amazing snake kitchen curtain isolate zoo enrich muffin kitchen viable";

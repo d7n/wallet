@@ -1,1 +1,1 @@
-var mnemonic = "runway style ugly attract sport fun busy way mail west upset health";
+var mnemonic = "win venture horse laptop what buyer crunch corn solution more mobile spring";

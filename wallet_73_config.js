@@ -1,1 +1,1 @@
-var mnemonic = "donor inside void hat two slender stool sustain help blanket timber salt";
+var mnemonic = "shaft sting bright genuine frog leisure core stage sunny turkey rebuild skate";

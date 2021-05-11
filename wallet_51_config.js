@@ -1,1 +1,1 @@
-var mnemonic = "tell barrel rabbit genius carry vacant face slender pelican burst conduct detail";
+var mnemonic = "trim symbol language bleak glove witness pioneer clever below manage slight allow";

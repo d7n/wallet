@@ -1,1 +1,1 @@
-var mnemonic = "seminar rescue umbrella boy office timber exercise chef episode primary between border";
+var mnemonic = "repeat feature uphold noodle senior bright among session funny problem woman have";

@@ -1,1 +1,1 @@
-var mnemonic = "hole scrub wool rent grit run dawn trumpet rebuild rely fire couch";
+var mnemonic = "genius slim special toy sweet social pulse tube egg actual farm online";

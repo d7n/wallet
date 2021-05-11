@@ -1,1 +1,1 @@
-var mnemonic = "rookie stay echo dirt turn comic captain dentist spider behind flush benefit";
+var mnemonic = "wear siren embody boy face meat blanket unhappy baby hold wide vendor";

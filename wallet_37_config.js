@@ -1,1 +1,1 @@
-var mnemonic = "title marble dice pond offer source ride crouch menu civil sustain employ";
+var mnemonic = "connect behind small update quit tunnel popular illegal prison crop swap size";

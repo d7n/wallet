@@ -1,1 +1,1 @@
-var mnemonic = "outside include fish spot struggle affair soda logic escape snap valid ten";
+var mnemonic = "will lottery warfare thing split arrange mail menu pony unique nut drift";

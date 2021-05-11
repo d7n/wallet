@@ -1,1 +1,1 @@
-var mnemonic = "rail erode fire vivid artefact bonus sheriff trend search popular lady retire";
+var mnemonic = "arrive green reason sting stem kiwi armor detect enact lady cinnamon large";

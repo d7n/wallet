@@ -1,1 +1,1 @@
-var mnemonic = "post sun sadness lift olympic island payment duty nasty mom scrub sleep";
+var mnemonic = "pitch level october steel birth parade shiver party absent negative predict icon";

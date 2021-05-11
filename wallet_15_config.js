@@ -1,1 +1,1 @@
-var mnemonic = "winter dove subway fall buyer divide theme sister marine typical busy process";
+var mnemonic = "whip liberty ribbon whip boil chase rigid slow torch provide earn stone";

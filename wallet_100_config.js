@@ -1,1 +1,1 @@
-var mnemonic = "blush kitchen physical gasp another they subway fluid blind assume tooth junior";
+var mnemonic = "unusual moment tourist salt tone pilot echo erase obey behave random outer";

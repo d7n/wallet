@@ -1,1 +1,1 @@
-var mnemonic = "dose misery crisp awesome nest future shuffle clerk sugar august sport fox";
+var mnemonic = "key misery dutch plunge speed legal wet paddle style robot typical seminar";

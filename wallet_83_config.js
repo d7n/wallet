@@ -1,1 +1,1 @@
-var mnemonic = "mad today hen mosquito whisper prosper payment shed visit awake addict scatter";
+var mnemonic = "civil improve vocal female flavor tobacco enhance chef social stem lobster sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "bread cram rally page first medal morning fiction decorate blur treat guide";
+var mnemonic = "update old suit rough same hybrid jar exact state cousin betray concert";

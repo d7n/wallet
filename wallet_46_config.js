@@ -1,1 +1,1 @@
-var mnemonic = "adult flip tragic crisp sport dinner ribbon knock sadness what guess shove";
+var mnemonic = "stand angry short replace bless erode attitude front involve swing hat motion";

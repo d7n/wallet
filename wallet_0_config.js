@@ -1,1 +1,1 @@
-var mnemonic = "sunny frame celery fix drink exact jungle apple result debris century neck";
+var mnemonic = "bring march kingdom combine dust awake pass wing human best pull curtain";

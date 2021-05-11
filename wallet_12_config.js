@@ -1,1 +1,1 @@
-var mnemonic = "insane fashion floor puzzle evidence market essence craft skill sail harvest please";
+var mnemonic = "crack that cute execute proud bubble coast refuse near finger jaguar box";

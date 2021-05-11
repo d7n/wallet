@@ -1,1 +1,1 @@
-var mnemonic = "carpet twelve frown grab demise glad column pudding never ankle mechanic reduce";
+var mnemonic = "awesome scheme oxygen try analyst chuckle joy pigeon confirm monitor blush ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "drum drop mail security auto slogan increase rough thunder alert better stool";
+var mnemonic = "supply nose scrub virus denial erode eye proud task breeze actor street";

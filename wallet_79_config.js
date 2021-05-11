@@ -1,1 +1,1 @@
-var mnemonic = "mountain equal math loop duck valid rich disagree detail grape you regret";
+var mnemonic = "tank anxiety skirt this canoe shield you rapid market mad punch toe";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon gap upgrade rabbit dial stem mixed silly decorate hero suffer tiny";
+var mnemonic = "casual van velvet breeze carbon know wear unhappy around kidney barrel decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus trash affair craft uncover spin extra oblige inquiry scare lion furnace";
+var mnemonic = "aerobic powder smile naive topic venture eye social hunt prize ten afford";

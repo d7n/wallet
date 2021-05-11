@@ -1,1 +1,1 @@
-var mnemonic = "cash cannon fruit silly effort setup sorry cross only identify awful knock";
+var mnemonic = "often better symbol horse duck floor foam risk ocean match obtain public";

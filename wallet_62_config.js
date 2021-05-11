@@ -1,1 +1,1 @@
-var mnemonic = "release enforce foam task forum quit strike pool nasty boy merge camera";
+var mnemonic = "chuckle friend quiz depart axis innocent whip name loop wreck soon fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "treat wisdom heart random achieve busy peanut bleak slam tank yard switch";
+var mnemonic = "edge scare inquiry fix slender mosquito dismiss useless judge copper differ window";

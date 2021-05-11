@@ -1,1 +1,1 @@
-var mnemonic = "spawn enable crush share degree near thumb evolve void bottom program hour";
+var mnemonic = "total token salute frog knock staff dizzy again bid best coffee duck";

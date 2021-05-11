@@ -1,1 +1,1 @@
-var mnemonic = "scare lock roof shiver welcome differ during combine resist mercy health year";
+var mnemonic = "sphere design resource voyage drum salad addict tomato system simple unknown gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt voyage slight charge dash renew sweet hobby melt parade demand lava";
+var mnemonic = "rural spot wife choice concert shoot box tuition limb blood main trend";

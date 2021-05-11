@@ -1,1 +1,1 @@
-var mnemonic = "federal guess vicious top derive obey abuse transfer witness wear matrix taxi";
+var mnemonic = "short canvas eagle taste observe adapt nuclear claim episode sustain menu animal";

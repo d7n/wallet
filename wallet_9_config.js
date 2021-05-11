@@ -1,1 +1,1 @@
-var mnemonic = "twice inside victory already noodle coyote volcano spin glad lemon squirrel pumpkin";
+var mnemonic = "industry betray over resemble employ civil hold weather pencil ski wool grocery";

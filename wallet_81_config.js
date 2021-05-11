@@ -1,1 +1,1 @@
-var mnemonic = "intact business autumn skin broccoli ranch develop arrange tone sniff zone choose";
+var mnemonic = "now cousin favorite dress fox zoo mad unable next wagon delay hard";

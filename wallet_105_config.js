@@ -1,1 +1,1 @@
-var mnemonic = "bean calm admit first you cotton cash awkward neither pill member valve";
+var mnemonic = "episode danger climb grunt wing away solution fee strategy oxygen evil hidden";

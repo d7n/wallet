@@ -1,1 +1,1 @@
-var mnemonic = "wisdom diesel tiny detect inmate soccer mistake arctic rice reopen expire weapon";
+var mnemonic = "firm desert squirrel verify insect glove father cabbage stereo ozone sand success";

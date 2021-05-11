@@ -1,1 +1,1 @@
-var mnemonic = "quantum omit ten observe park fossil guilt hockey sausage soup patrol plug";
+var mnemonic = "cover merit pretty among credit grunt car near embrace weapon vessel area";

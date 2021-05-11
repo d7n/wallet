@@ -1,1 +1,1 @@
-var mnemonic = "diesel sound joke food promote glue hockey park pudding wave moon pole";
+var mnemonic = "curve ethics alarm boil wood garbage chapter design accuse eager draw job";

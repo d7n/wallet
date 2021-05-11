@@ -1,1 +1,1 @@
-var mnemonic = "shock foot stove middle soup title grace suffer truth balcony lava mammal";
+var mnemonic = "include matrix forget pencil okay balcony obey foster company crucial drive slender";

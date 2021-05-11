@@ -1,1 +1,1 @@
-var mnemonic = "fan fish twist sick giant hard struggle cry recycle differ advice connect";
+var mnemonic = "clip safe ball axis front grace sadness unveil fine never flame twin";

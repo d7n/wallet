@@ -1,1 +1,1 @@
-var mnemonic = "scrap detect oil arrest change bag smooth cycle solid emerge chat wide";
+var mnemonic = "gate large valve spatial stomach voyage arctic antenna beyond bacon absorb prison";

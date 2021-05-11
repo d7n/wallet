@@ -1,1 +1,1 @@
-var mnemonic = "fault piano client wreck monkey demise urban slim edit gold coyote expand";
+var mnemonic = "desk swap favorite nest thumb wire cabin neck rapid drastic syrup light";

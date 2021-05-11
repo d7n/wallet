@@ -1,1 +1,1 @@
-var mnemonic = "soup come typical order festival exile original shock rifle night clay focus";
+var mnemonic = "vacant area prevent age fox column size parrot flip evoke solid wheat";

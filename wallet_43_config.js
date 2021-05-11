@@ -1,1 +1,1 @@
-var mnemonic = "world glory minute anchor exclude dilemma puzzle settle maid verb seven artist";
+var mnemonic = "turkey guard science light relief fox acquire room spell beyond gym special";

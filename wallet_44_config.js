@@ -1,1 +1,1 @@
-var mnemonic = "margin own illness need coach blind culture sibling pool menu reveal disorder";
+var mnemonic = "immense there knock palm dinner family bridge vibrant bullet model inflict lunar";

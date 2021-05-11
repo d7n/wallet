@@ -1,1 +1,1 @@
-var mnemonic = "nation boost bundle palm divide enjoy patch bitter size elite script client";
+var mnemonic = "ski steel crush lecture scare picture begin answer clown curious combine ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "error health erode kingdom age uphold accident asthma note actress recipe half";
+var mnemonic = "obey tool seven much put news boat entire floor wood october walk";

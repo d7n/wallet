@@ -1,1 +1,1 @@
-var mnemonic = "brave purchase promote toddler island total desert beyond umbrella achieve charge hope";
+var mnemonic = "mention clinic deliver credit elephant crowd banner wheat absorb escape chief reopen";

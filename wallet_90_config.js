@@ -1,1 +1,1 @@
-var mnemonic = "cute valley input pencil income fork disagree kitchen winner draft purity master";
+var mnemonic = "patient exit duty laptop topple ankle aunt dismiss youth dream faith pet";

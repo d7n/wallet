@@ -1,1 +1,1 @@
-var mnemonic = "salt giggle derive joy cart outdoor owner memory gauge trip biology gas";
+var mnemonic = "foam noise slender isolate focus blanket dynamic color begin honey lock door";

@@ -1,1 +1,1 @@
-var mnemonic = "garment alley supply screen eagle angry grass jazz undo fashion december unfair";
+var mnemonic = "void tone evolve leopard juice cloth destroy castle bind ramp arena frozen";

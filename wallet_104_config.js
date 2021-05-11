@@ -1,1 +1,1 @@
-var mnemonic = "salt join acid mule badge custom chest snow wife comic funny long";
+var mnemonic = "olive tobacco vacuum leisure obey square tenant load knee nice tide notice";

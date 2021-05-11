@@ -1,1 +1,1 @@
-var mnemonic = "spot enough record escape tissue oven aim reason actual client spot hotel";
+var mnemonic = "roast detail sphere milk rigid flight message ripple hood thunder heart zero";

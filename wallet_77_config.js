@@ -1,1 +1,1 @@
-var mnemonic = "moment plug require poverty kind wall problem find slow family toast aerobic";
+var mnemonic = "tenant penalty fetch hen sponsor display receive nurse wrist march decorate work";

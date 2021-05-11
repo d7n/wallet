@@ -1,1 +1,1 @@
-var mnemonic = "payment exchange journey left fruit swim noble ketchup fragile match lend inject";
+var mnemonic = "meadow post pattern mobile brisk try asset viable apple brush climb typical";

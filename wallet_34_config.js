@@ -1,1 +1,1 @@
-var mnemonic = "lecture blast sister gas quick cable frequent monkey smoke share taste toe";
+var mnemonic = "clutch also warrior air similar version narrow nephew menu siren dance sick";

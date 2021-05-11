@@ -1,1 +1,1 @@
-var mnemonic = "shoulder person wreck own choose intact plug dentist around curtain brief valley";
+var mnemonic = "soft surround acoustic shell absorb produce vast filter floor notable inmate broccoli";

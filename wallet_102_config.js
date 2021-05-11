@@ -1,1 +1,1 @@
-var mnemonic = "suspect either celery lend rapid audit gap still ecology burden sadness weasel";
+var mnemonic = "shoe junk thank pepper beyond speak cabbage globe electric transfer option danger";

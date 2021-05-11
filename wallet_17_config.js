@@ -1,1 +1,1 @@
-var mnemonic = "wage infant weather wall junior basic inquiry enlist hero travel model symptom";
+var mnemonic = "yellow oxygen cabin walnut gun ticket damp path dry wet ill grab";

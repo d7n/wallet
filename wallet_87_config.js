@@ -1,1 +1,1 @@
-var mnemonic = "street secret rail tiny general ice ship still rubber coach lottery hill";
+var mnemonic = "over only punch burden eye puzzle beauty sponsor have artist cable chat";

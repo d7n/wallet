@@ -1,1 +1,1 @@
-var mnemonic = "chronic raven stomach true jeans cake apart foil fog initial custom easily";
+var mnemonic = "trade mom peasant beyond vibrant purchase pride spring foam burger extend bag";

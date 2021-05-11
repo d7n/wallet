@@ -1,1 +1,1 @@
-var mnemonic = "elegant atom lamp wait fire visual monitor clown shadow solar lyrics hazard";
+var mnemonic = "auction quote increase juice panda empty stereo memory wisdom knock segment grace";

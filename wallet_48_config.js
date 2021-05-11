@@ -1,1 +1,1 @@
-var mnemonic = "damage tuition eyebrow leave glow fault code mutual frame giggle lawn fix";
+var mnemonic = "enable crisp uncover crucial loud wreck excite gate west timber trap voice";

@@ -1,1 +1,1 @@
-var mnemonic = "wash garden put shine letter couple canoe gun frozen oxygen sort perfect";
+var mnemonic = "brand taste warm enemy laugh bamboo bubble cube announce file oval ethics";

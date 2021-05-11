@@ -1,1 +1,1 @@
-var mnemonic = "media honey make rate other trash void combine velvet language jelly cause";
+var mnemonic = "axis avoid man float place ready frequent hunt kid royal sand inner";

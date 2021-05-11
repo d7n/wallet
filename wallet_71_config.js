@@ -1,1 +1,1 @@
-var mnemonic = "person denial north outer magic lazy corn joy tiny series squeeze vague";
+var mnemonic = "before negative noodle reopen sleep cheese slam jeans boost drill artefact voice";

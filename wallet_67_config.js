@@ -1,1 +1,1 @@
-var mnemonic = "rigid friend gravity sense mom angle organ intact shoe panther neither loyal";
+var mnemonic = "nut slow custom diamond clerk hammer car fade visa pitch rely bar";

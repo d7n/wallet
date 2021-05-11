@@ -1,1 +1,1 @@
-var mnemonic = "vault ring agree piano mistake dog sketch hundred jeans avoid dutch student";
+var mnemonic = "manual rubber real bench brick chronic divorce toast noise into rule recycle";

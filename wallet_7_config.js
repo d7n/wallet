@@ -1,1 +1,1 @@
-var mnemonic = "fitness black solve clutch exclude wage expire submit enjoy kid mind guide";
+var mnemonic = "sorry already apart fringe sudden powder agent close call tonight fiber way";

@@ -1,1 +1,1 @@
-var mnemonic = "turn primary soda peanut pudding security fog work rival nerve stamp link";
+var mnemonic = "sweet guard quote blush rice try dilemma wedding corn carry bring oblige";

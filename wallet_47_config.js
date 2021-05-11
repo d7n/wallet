@@ -1,1 +1,1 @@
-var mnemonic = "object merry member fiber crime allow manual lawsuit stove also retire envelope";
+var mnemonic = "lonely mango essence diagram parrot play now burst void ozone defense hello";
