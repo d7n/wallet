@@ -1,1 +1,1 @@
-var mnemonic = "dentist boost phrase zoo fun ten gauge describe adult awake shoe reward";
+var mnemonic = "wealth refuse effort brick anger awesome friend catalog album spider image job";

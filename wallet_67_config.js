@@ -1,1 +1,1 @@
-var mnemonic = "concert size blind column wave language derive juice alarm shy lava limit";
+var mnemonic = "seven obvious large wood vibrant ship update affair maximum cinnamon word hybrid";

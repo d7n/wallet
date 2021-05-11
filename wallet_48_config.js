@@ -1,1 +1,1 @@
-var mnemonic = "minimum brave attack assist wine can buyer cousin rate crash walnut hover";
+var mnemonic = "south ball story capital monster void response question pluck excess start bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "pig nut unlock between satisfy tomato early seek ripple penalty cancel arena";
+var mnemonic = "yard silly supreme rate leopard copper tilt visit between trap midnight blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics energy cousin office when focus shallow nominee unique useful bar inquiry";
+var mnemonic = "machine glide math plate proud step ask fox core next quiz lady";

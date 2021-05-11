@@ -1,1 +1,1 @@
-var mnemonic = "potato tank economy pepper vast arrive entire execute crawl melody cash local";
+var mnemonic = "arm exercise chunk embrace cushion approve birth organ wisdom purchase curve jar";

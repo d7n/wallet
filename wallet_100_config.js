@@ -1,1 +1,1 @@
-var mnemonic = "web people what supreme great rice canoe price family keep purse cloud";
+var mnemonic = "pioneer donate end dose jealous wonder limb parent ring winter excite gloom";

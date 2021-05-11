@@ -1,1 +1,1 @@
-var mnemonic = "weasel casual crop segment print mechanic sponsor insect space extend this apology";
+var mnemonic = "maid unable cactus print remove away turkey sell attitude sell rice list";

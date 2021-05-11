@@ -1,1 +1,1 @@
-var mnemonic = "south organ rent merit easy bleak lucky upon creek ripple bridge put";
+var mnemonic = "rug galaxy harsh rare screen panic brain edge shed soup gold beyond";

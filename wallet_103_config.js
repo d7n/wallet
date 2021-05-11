@@ -1,1 +1,1 @@
-var mnemonic = "cradle expect wait vessel erupt foster trick shoe ride menu cattle table";
+var mnemonic = "casual spin voice evoke list hockey voice off margin bus remember mouse";

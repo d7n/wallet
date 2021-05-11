@@ -1,1 +1,1 @@
-var mnemonic = "wrestle laundry piano warfare squeeze situate approve member powder express story visa";
+var mnemonic = "reveal truck entire thank aisle upgrade meadow clerk stock broken guilt motor";

@@ -1,1 +1,1 @@
-var mnemonic = "lion cheese toast junk stay steel elbow luggage nominee route dust typical";
+var mnemonic = "there march age pudding kiwi pizza practice lecture erupt sound puppy badge";

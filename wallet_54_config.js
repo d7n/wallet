@@ -1,1 +1,1 @@
-var mnemonic = "laugh price genre clay dynamic gallery shock economy fortune exhaust another spike";
+var mnemonic = "nation lazy glove sad work deliver lamp elite guess actor wedding gloom";

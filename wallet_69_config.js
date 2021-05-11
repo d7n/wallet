@@ -1,1 +1,1 @@
-var mnemonic = "heavy oppose artefact rice crazy hurt angle faculty grant leisure occur impose";
+var mnemonic = "rose first dilemma human adapt evoke day ivory guitar crowd surprise inherit";

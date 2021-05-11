@@ -1,1 +1,1 @@
-var mnemonic = "lottery eternal tube make heart excite salute rather adapt board anger arrow";
+var mnemonic = "camp session delay alcohol manage order injury useful matrix scissors bronze grid";

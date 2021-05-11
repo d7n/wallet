@@ -1,1 +1,1 @@
-var mnemonic = "crunch soon call maple problem cat assist alert portion roast dice street";
+var mnemonic = "order category emotion syrup goddess reject cement spoon throw relax vivid giraffe";

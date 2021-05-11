@@ -1,1 +1,1 @@
-var mnemonic = "leisure broom food glad hybrid member aerobic female oyster degree math shy";
+var mnemonic = "butter interest enhance van special tourist black visit economy skull message cage";

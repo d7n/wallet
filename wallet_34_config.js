@@ -1,1 +1,1 @@
-var mnemonic = "two evolve surge frost trip tiny apple drum vault clump canyon tomorrow";
+var mnemonic = "anxiety absent asset virtual clerk tail height era immune pudding screen dinner";

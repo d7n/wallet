@@ -1,1 +1,1 @@
-var mnemonic = "lion divide universe oyster lottery noise ecology lion document regular gauge auction";
+var mnemonic = "border liar turkey paper sheriff approve winter grief lawn leopard remove kick";

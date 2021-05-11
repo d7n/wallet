@@ -1,1 +1,1 @@
-var mnemonic = "flash tag work purity few between kite clerk thought pumpkin interest pupil";
+var mnemonic = "behave lobster stay twin priority hat engine section velvet fall desert sausage";

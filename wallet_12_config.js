@@ -1,1 +1,1 @@
-var mnemonic = "under sad lunch divorce mutual tonight hammer truck mandate hockey real chalk";
+var mnemonic = "visa dose useful poet defense butter electric avocado phone delay nominee involve";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap much oil net ask fish aunt acquire cousin end embody wonder";
+var mnemonic = "lift lesson thank express punch planet credit execute ramp daring exit eyebrow";

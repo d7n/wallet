@@ -1,1 +1,1 @@
-var mnemonic = "nut enemy video trigger comfort air loan mouse october depend position depth";
+var mnemonic = "wagon raise labor require fan obtain yard palace blade you seven destroy";

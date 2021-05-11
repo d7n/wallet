@@ -1,1 +1,1 @@
-var mnemonic = "essay laptop either belt mixed wall inject town gas honey absent twelve";
+var mnemonic = "silent chapter obtain tribe please special sound cliff dose unusual silly alter";

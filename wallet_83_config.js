@@ -1,1 +1,1 @@
-var mnemonic = "happy dignity gorilla hurt genuine network remember spike spirit skull mail suit";
+var mnemonic = "dumb since mean stick picnic normal minute planet parent garbage voice acoustic";

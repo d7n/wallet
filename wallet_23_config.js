@@ -1,1 +1,1 @@
-var mnemonic = "erode zone story member adult alert error bird refuse such frozen garment";
+var mnemonic = "plate sort follow october try goose stomach clerk luxury hidden pill mechanic";

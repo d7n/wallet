@@ -1,1 +1,1 @@
-var mnemonic = "crater equip extend nasty humble scare segment toward cost grocery oppose vibrant";
+var mnemonic = "address sheriff ready still invite ball reopen sister action security shell depart";

@@ -1,1 +1,1 @@
-var mnemonic = "final connect weasel fat alien furnace mistake accuse cook abstract citizen lift";
+var mnemonic = "involve crop timber below mandate mix typical grief various marine athlete love";

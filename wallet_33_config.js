@@ -1,1 +1,1 @@
-var mnemonic = "eight fence canvas inquiry saddle skull attend mistake word stable soldier zero";
+var mnemonic = "valve genius sad material peace huge section hire room zero body deal";

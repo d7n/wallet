@@ -1,1 +1,1 @@
-var mnemonic = "lava silly ivory board pencil venue usual smile train crunch spawn news";
+var mnemonic = "assume genuine limit embody often lucky team stage high duck jealous include";

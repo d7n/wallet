@@ -1,1 +1,1 @@
-var mnemonic = "foam quality hello steak whisper liquid shove good gown regret veteran battle";
+var mnemonic = "april turkey unknown tornado rail grid equal involve scatter disorder arrive post";

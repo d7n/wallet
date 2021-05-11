@@ -1,1 +1,1 @@
-var mnemonic = "key reflect various phone coyote east ship ecology orient stove october lyrics";
+var mnemonic = "tooth crash plug minute swim shoulder hen pluck hover require ripple door";

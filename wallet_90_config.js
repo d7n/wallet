@@ -1,1 +1,1 @@
-var mnemonic = "tube author void home reopen swarm primary unknown zero rifle replace purse";
+var mnemonic = "sauce animal keen decorate ticket magnet vanish again mixture essay ribbon interest";

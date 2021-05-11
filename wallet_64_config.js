@@ -1,1 +1,1 @@
-var mnemonic = "tornado treat long square spy citizen treat elite lecture lesson vast level";
+var mnemonic = "edge blush estate arrow profit auction crunch acquire define job blame govern";

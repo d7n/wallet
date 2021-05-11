@@ -1,1 +1,1 @@
-var mnemonic = "sausage club gesture quality hope keen crime photo rally ribbon vault sausage";
+var mnemonic = "control exact bubble omit balcony never nose person vault below obscure knee";

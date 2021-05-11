@@ -1,1 +1,1 @@
-var mnemonic = "damp tank busy open cute actor draft middle twist kitten safe silk";
+var mnemonic = "afraid concert that invest sunny ball timber job suspect below quick famous";

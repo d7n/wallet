@@ -1,1 +1,1 @@
-var mnemonic = "faint pumpkin fatigue call turtle season soup champion truck drastic east message";
+var mnemonic = "assist notice solar hawk candy sea uniform tackle dentist amazing olympic hamster";

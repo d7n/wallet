@@ -1,1 +1,1 @@
-var mnemonic = "tide thunder sheriff deer collect install crumble minimum trouble gap addict zone";
+var mnemonic = "service romance brand gallery trend local timber rather elite enact vibrant list";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy rubber ethics monkey reject destroy maid reform snow giggle harsh horn";
+var mnemonic = "palace lottery orbit latin effort lesson erosion raw derive youth dial replace";

@@ -1,1 +1,1 @@
-var mnemonic = "silk derive eight write focus pipe traffic tool lottery elegant feature lawsuit";
+var mnemonic = "payment teach wash route west universe rabbit lunch sport feed walk lunar";

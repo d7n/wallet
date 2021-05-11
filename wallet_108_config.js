@@ -1,1 +1,1 @@
-var mnemonic = "exile seminar stuff school deliver blue sheriff goat base clean remind seed";
+var mnemonic = "pepper humor catch cinnamon vendor patient virus maze depend keen absurd praise";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp panther whisper price maid quality defense under truck century thought crime";
+var mnemonic = "kite science hurry miracle planet square ginger elevator crumble upset fruit situate";

@@ -1,1 +1,1 @@
-var mnemonic = "speed until latin used sunny execute verify rare cycle feed exit elite";
+var mnemonic = "degree shove gospel aim arena bicycle hospital quiz behind credit gate onion";

@@ -1,1 +1,1 @@
-var mnemonic = "assault remind right salad route zone notice fuel box remind regret license";
+var mnemonic = "captain glad write special illness category enjoy blade yellow close hockey leg";

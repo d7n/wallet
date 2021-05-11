@@ -1,1 +1,1 @@
-var mnemonic = "sunset toe birth brief setup grunt calm movie sausage cherry fashion defense";
+var mnemonic = "trend fork car sadness memory ridge often ripple drop bronze ketchup spy";

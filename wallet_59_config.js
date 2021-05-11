@@ -1,1 +1,1 @@
-var mnemonic = "bus priority disagree foot acoustic snap letter resource case donate firm above";
+var mnemonic = "valid boring century burger couch inject inject income rubber impose intact bird";

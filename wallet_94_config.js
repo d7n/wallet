@@ -1,1 +1,1 @@
-var mnemonic = "rally anchor raccoon add tower primary measure imitate found hover few trend";
+var mnemonic = "lucky sort seek build wink pupil october manual silent upgrade resource disease";

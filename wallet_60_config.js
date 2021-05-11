@@ -1,1 +1,1 @@
-var mnemonic = "drive bus street remind piece whisper critic client present bullet powder order";
+var mnemonic = "stay enact sight pond appear average tiger leave heart laundry wagon flush";

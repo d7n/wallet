@@ -1,1 +1,1 @@
-var mnemonic = "inform early always athlete supply envelope comic seat owner fix bag dilemma";
+var mnemonic = "ordinary size aspect enable bacon option slogan mobile brush property liquid multiply";

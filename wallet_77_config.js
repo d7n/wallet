@@ -1,1 +1,1 @@
-var mnemonic = "point accident gather flight renew bargain leisure mistake that pitch shaft increase";
+var mnemonic = "art member embody predict wood frequent sketch universe space mimic sport keen";

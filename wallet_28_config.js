@@ -1,1 +1,1 @@
-var mnemonic = "spice essence tribe other rival balance matter craft immune cloud royal motor";
+var mnemonic = "foil pride theory road card naive sell mutual card aware board ancient";

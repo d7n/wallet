@@ -1,1 +1,1 @@
-var mnemonic = "damp ridge bundle nuclear era fever system decorate expand remind sort hero";
+var mnemonic = "cube venture cook glory core net fit various flight obscure road bubble";

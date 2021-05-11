@@ -1,1 +1,1 @@
-var mnemonic = "lift ivory annual fortune coin false lunar test secret fabric very interest";
+var mnemonic = "attitude mule hobby junior salute hope auto dinner accuse hockey woman album";

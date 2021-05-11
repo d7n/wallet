@@ -1,1 +1,1 @@
-var mnemonic = "next tooth teach cram obtain invest bronze success bar direct enemy defense";
+var mnemonic = "high moon arm doctor rabbit van hamster artist cricket delay tackle assist";

@@ -1,1 +1,1 @@
-var mnemonic = "flock frozen foster icon bulb short excess hockey ritual talk install fun";
+var mnemonic = "fluid retreat junior radio glow dog label rebuild dance blue candy urban";

@@ -1,1 +1,1 @@
-var mnemonic = "cup alert clip attract safe thunder antique virus laptop host resource enhance";
+var mnemonic = "talent attract fold change music ostrich hip alien seek sausage pride actor";

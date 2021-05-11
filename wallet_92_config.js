@@ -1,1 +1,1 @@
-var mnemonic = "bitter donkey cinnamon school adapt until unable amateur drum innocent kitchen expect";
+var mnemonic = "limit tennis citizen valid intact verb rely welcome luggage dawn impose metal";

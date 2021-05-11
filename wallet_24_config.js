@@ -1,1 +1,1 @@
-var mnemonic = "garage oyster human inherit life reveal oblige virtual protect economy edge room";
+var mnemonic = "room shop early cycle original rescue wait link spike main allow swap";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson story opinion warrior three raw little clinic diamond over army museum";
+var mnemonic = "divert silent tobacco mushroom busy gas angry strong digital cheap royal police";

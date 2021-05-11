@@ -1,1 +1,1 @@
-var mnemonic = "machine dress farm hamster beyond reward ill nephew educate song piano oxygen";
+var mnemonic = "embody rack leader alone hurdle know stadium gym father engine gospel foil";

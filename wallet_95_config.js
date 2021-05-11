@@ -1,1 +1,1 @@
-var mnemonic = "over report flight beyond live please siege result asthma party jaguar six";
+var mnemonic = "trap install fury belt dune marine rough innocent bean gold toss doll";

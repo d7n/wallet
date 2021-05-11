@@ -1,1 +1,1 @@
-var mnemonic = "neither renew broom stadium history fresh decline belt focus tiny announce earn";
+var mnemonic = "knock hope palace pupil embody help panther resemble close odor floor alcohol";

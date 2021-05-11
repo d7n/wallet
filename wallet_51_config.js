@@ -1,1 +1,1 @@
-var mnemonic = "clinic palace super crater smoke demise able bonus there inch parrot between";
+var mnemonic = "pole kite ginger enough citizen unaware carbon chicken draw input gospel limb";

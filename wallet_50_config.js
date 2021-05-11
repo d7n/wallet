@@ -1,1 +1,1 @@
-var mnemonic = "hybrid autumn crazy pulse use silly immense south off satoshi sleep afford";
+var mnemonic = "outside situate bracket mention tumble powder bounce vacant account learn slim kiwi";

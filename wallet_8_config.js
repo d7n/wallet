@@ -1,1 +1,1 @@
-var mnemonic = "track cruel state poem iron property produce school reunion float anger casual";
+var mnemonic = "silly immense bag measure depend eternal earn faculty clog way town today";

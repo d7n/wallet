@@ -1,1 +1,1 @@
-var mnemonic = "put arctic jar busy roast indicate wall puzzle license fault immune palace";
+var mnemonic = "injury cabbage canal swamp diesel rebel harvest company episode prevent dog flag";

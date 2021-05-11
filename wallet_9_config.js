@@ -1,1 +1,1 @@
-var mnemonic = "another season squirrel rare garbage dilemma flavor sound ticket embrace ethics tuition";
+var mnemonic = "object limb gun panic erupt million rose narrow surprise shield crunch employ";

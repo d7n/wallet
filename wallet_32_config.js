@@ -1,1 +1,1 @@
-var mnemonic = "frozen bright add right dust couch youth consider ripple fat home coil";
+var mnemonic = "exercise alpha mom marble recall behind leopard fresh quote boring rifle appear";

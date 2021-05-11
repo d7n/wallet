@@ -1,1 +1,1 @@
-var mnemonic = "hammer umbrella harvest aunt quote work neglect cloth supreme good claim rhythm";
+var mnemonic = "october private piano spell waste anxiety vanish reward rough web occur chalk";

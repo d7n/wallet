@@ -1,1 +1,1 @@
-var mnemonic = "chalk desk round candy throw identify square else wreck mystery cinnamon brown";
+var mnemonic = "nose ignore frozen solid journey middle swift health auto clarify truly zero";

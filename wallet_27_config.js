@@ -1,1 +1,1 @@
-var mnemonic = "cheap life unveil rigid hill syrup tornado hip diagram tower simple always";
+var mnemonic = "segment south insane crush flower attitude print stomach hunt mixed genuine neglect";

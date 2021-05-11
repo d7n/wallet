@@ -1,1 +1,1 @@
-var mnemonic = "antique install earn truck crew involve affair bounce cupboard portion surge beef";
+var mnemonic = "leisure much rail rebuild stamp rapid rescue hope match mirror across whip";

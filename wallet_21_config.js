@@ -1,1 +1,1 @@
-var mnemonic = "floor flush reward chase dutch duty elephant mail vocal puzzle detail ice";
+var mnemonic = "suggest century luxury mask puzzle copper forum oak feel season filter small";

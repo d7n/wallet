@@ -1,1 +1,1 @@
-var mnemonic = "brick rabbit kit furnace blanket ill cousin bunker end wild dignity upon";
+var mnemonic = "happy inner destroy agent item pottery design stick alcohol gentle crew release";

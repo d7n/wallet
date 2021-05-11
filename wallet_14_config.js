@@ -1,1 +1,1 @@
-var mnemonic = "symbol direct attitude popular pull lake teach damage film soccer abandon volume";
+var mnemonic = "gospel nice hurt elite illness same slow hurdle fiscal brush grain cat";

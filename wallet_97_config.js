@@ -1,1 +1,1 @@
-var mnemonic = "group zone lens choice verify fit inherit category corn cake hybrid project";
+var mnemonic = "ski hint copy canvas silent minor window term trap update vote blind";

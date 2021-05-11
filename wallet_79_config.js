@@ -1,1 +1,1 @@
-var mnemonic = "problem head pulp south arrange usual praise rifle certain blur salad crystal";
+var mnemonic = "valid alley develop royal amazing safe choose erode garden position infant cattle";

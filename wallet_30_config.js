@@ -1,1 +1,1 @@
-var mnemonic = "nothing use swift eight scheme long write math sister split wrist dumb";
+var mnemonic = "sponsor impose spoon retire label vault core divorce monkey ocean fiscal arctic";

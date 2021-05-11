@@ -1,1 +1,1 @@
-var mnemonic = "lounge embrace couple lab pill soda excite original faith wheel female hotel";
+var mnemonic = "depart pair pony horn measure amateur glance ready expect wave sand index";

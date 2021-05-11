@@ -1,1 +1,1 @@
-var mnemonic = "depart pyramid judge mansion allow shove concert debate genuine acquire hint health";
+var mnemonic = "tuna civil brain merit neither flower small convince provide cinnamon master box";

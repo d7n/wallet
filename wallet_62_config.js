@@ -1,1 +1,1 @@
-var mnemonic = "real giggle ordinary fresh monkey thank renew large nasty frame wisdom winter";
+var mnemonic = "sport horn father report recipe bachelor chat loan inside mesh shove parade";

@@ -1,1 +1,1 @@
-var mnemonic = "build bottom survey output search foster measure ancient spider surprise shoe problem";
+var mnemonic = "riot cram exist wisdom raise friend traffic pilot include tuition hidden episode";

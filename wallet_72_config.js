@@ -1,1 +1,1 @@
-var mnemonic = "width rabbit fly brown mutual scene list unlock position cloud exercise vapor";
+var mnemonic = "section salmon local purse able dog bottom paper skill avocado leave pelican";

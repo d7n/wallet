@@ -1,1 +1,1 @@
-var mnemonic = "high junior remember rail zero frost chapter napkin assume infant space family";
+var mnemonic = "coffee comfort injury rifle leave later session expect bar false emerge palm";

@@ -1,1 +1,1 @@
-var mnemonic = "report frost burst later accident quality cotton rule predict grief inmate menu";
+var mnemonic = "ancient deer motion chest wet current salute chair stool virus stomach angry";

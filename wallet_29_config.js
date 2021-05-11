@@ -1,1 +1,1 @@
-var mnemonic = "fitness dignity journey damp race all cart atom lunar dust upgrade rival";
+var mnemonic = "screen awful horse harsh tribe squirrel broom mixture humble fantasy column critic";

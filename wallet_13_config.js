@@ -1,1 +1,1 @@
-var mnemonic = "citizen know notice abstract bag stomach photo nominee parent what crater ribbon";
+var mnemonic = "slow exclude sword uncle come online jelly conduct stock chair camp picnic";

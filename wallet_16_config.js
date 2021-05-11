@@ -1,1 +1,1 @@
-var mnemonic = "pride finish oven badge work elephant ginger input real often kiwi neglect";
+var mnemonic = "document riot pipe nature elder flip slight other assault orange sick reform";

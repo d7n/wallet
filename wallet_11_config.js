@@ -1,1 +1,1 @@
-var mnemonic = "lunar argue also print provide wheel impose clutch pioneer uphold pass squeeze";
+var mnemonic = "december abstract gospel ankle curtain gadget pull kid unfold animal remain convince";
