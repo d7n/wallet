@@ -1,1 +1,1 @@
-var mnemonic = "ancient deer motion chest wet current salute chair stool virus stomach angry";
+var mnemonic = "coach october hope tag shove donkey filter master sorry flock saddle pen";

@@ -1,1 +1,1 @@
-var mnemonic = "weather popular skirt often transfer lady hat syrup flame million vintage sweet";
+var mnemonic = "stuff front budget assist source guide two earth kit before item improve";

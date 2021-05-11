@@ -1,1 +1,1 @@
-var mnemonic = "border liar turkey paper sheriff approve winter grief lawn leopard remove kick";
+var mnemonic = "push flush quarter sound indicate exhaust panther kiwi fiction aerobic beef travel";

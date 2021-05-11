@@ -1,1 +1,1 @@
-var mnemonic = "room shop early cycle original rescue wait link spike main allow swap";
+var mnemonic = "mad excuse roof merge glow sudden rely math legend inmate wine mean";

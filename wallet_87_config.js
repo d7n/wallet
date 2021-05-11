@@ -1,1 +1,1 @@
-var mnemonic = "depart pair pony horn measure amateur glance ready expect wave sand index";
+var mnemonic = "great prepare ability mention tomorrow front news play they over window region";

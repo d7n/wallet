@@ -1,1 +1,1 @@
-var mnemonic = "short dust brave kitten inch leave swear water pill cry cotton question";
+var mnemonic = "salad throw rent vicious rough person clean rhythm urge carbon school stumble";

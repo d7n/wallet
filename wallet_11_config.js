@@ -1,1 +1,1 @@
-var mnemonic = "december abstract gospel ankle curtain gadget pull kid unfold animal remain convince";
+var mnemonic = "cake party area bottom tooth enrich tobacco into wink village twelve marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "slow exclude sword uncle come online jelly conduct stock chair camp picnic";
+var mnemonic = "speed voice fresh add rain drip body trumpet gown lesson dry expect";

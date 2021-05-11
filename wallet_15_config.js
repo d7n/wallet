@@ -1,1 +1,1 @@
-var mnemonic = "machine glide math plate proud step ask fox core next quiz lady";
+var mnemonic = "virus dash device tower weather action issue rude hello glimpse quiz tag";

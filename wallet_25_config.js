@@ -1,1 +1,1 @@
-var mnemonic = "order category emotion syrup goddess reject cement spoon throw relax vivid giraffe";
+var mnemonic = "swallow worry warrior town brain sauce fancy appear height split skull chest";

@@ -1,1 +1,1 @@
-var mnemonic = "nation lazy glove sad work deliver lamp elite guess actor wedding gloom";
+var mnemonic = "opera tape office dose chef stick same erase please media ride carry";

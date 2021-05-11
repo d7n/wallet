@@ -1,1 +1,1 @@
-var mnemonic = "fluid retreat junior radio glow dog label rebuild dance blue candy urban";
+var mnemonic = "heavy twenty reject learn alpha spawn tenant tackle rare canoe patch foam";

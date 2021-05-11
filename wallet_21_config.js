@@ -1,1 +1,1 @@
-var mnemonic = "suggest century luxury mask puzzle copper forum oak feel season filter small";
+var mnemonic = "zoo transfer peace bitter note spike awake energy goat tattoo bid black";

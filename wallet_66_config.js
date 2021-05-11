@@ -1,1 +1,1 @@
-var mnemonic = "riot cram exist wisdom raise friend traffic pilot include tuition hidden episode";
+var mnemonic = "almost strategy bar humble mind dignity outer extra crew manage carry sustain";

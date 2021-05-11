@@ -1,1 +1,1 @@
-var mnemonic = "yard silly supreme rate leopard copper tilt visit between trap midnight blossom";
+var mnemonic = "pulp couch normal castle theme level decade oil axis cage stand follow";

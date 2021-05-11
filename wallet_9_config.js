@@ -1,1 +1,1 @@
-var mnemonic = "object limb gun panic erupt million rose narrow surprise shield crunch employ";
+var mnemonic = "novel submit bitter artefact unfair trend palm hawk chicken cousin symptom stove";

@@ -1,1 +1,1 @@
-var mnemonic = "maid unable cactus print remove away turkey sell attitude sell rice list";
+var mnemonic = "dish claw fortune bracket humor question consider build answer uncle balance tower";

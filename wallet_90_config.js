@@ -1,1 +1,1 @@
-var mnemonic = "sauce animal keen decorate ticket magnet vanish again mixture essay ribbon interest";
+var mnemonic = "life slice orchard eight render famous lucky frame anxiety false vapor approve";

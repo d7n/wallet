@@ -1,1 +1,1 @@
-var mnemonic = "seven obvious large wood vibrant ship update affair maximum cinnamon word hybrid";
+var mnemonic = "easily mistake vehicle solid stage picture collect vicious kid reveal panel trial";

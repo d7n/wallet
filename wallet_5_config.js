@@ -1,1 +1,1 @@
-var mnemonic = "behave lobster stay twin priority hat engine section velvet fall desert sausage";
+var mnemonic = "rule brush rent club wait session bundle fit bulb gather female friend";

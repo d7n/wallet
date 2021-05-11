@@ -1,1 +1,1 @@
-var mnemonic = "bullet kitten happy hard victory when broom enrich element ship universe disorder";
+var mnemonic = "turtle traffic truly dose adapt club science rocket accident result use fork";

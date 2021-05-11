@@ -1,1 +1,1 @@
-var mnemonic = "camp session delay alcohol manage order injury useful matrix scissors bronze grid";
+var mnemonic = "tomorrow field loan inch genre trap coral talent fortune gospel ordinary battle";

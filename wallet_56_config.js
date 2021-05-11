@@ -1,1 +1,1 @@
-var mnemonic = "payment teach wash route west universe rabbit lunch sport feed walk lunar";
+var mnemonic = "school buddy spy proof mountain follow remind sick hurdle lawn doctor symbol";

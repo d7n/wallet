@@ -1,1 +1,1 @@
-var mnemonic = "silent chapter obtain tribe please special sound cliff dose unusual silly alter";
+var mnemonic = "twenty word leg spoon engine wear wrestle spread collect found doctor time";

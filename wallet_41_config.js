@@ -1,1 +1,1 @@
-var mnemonic = "control exact bubble omit balcony never nose person vault below obscure knee";
+var mnemonic = "symbol reduce impose enough original yard soft vote lunch security planet snap";

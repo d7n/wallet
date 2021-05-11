@@ -1,1 +1,1 @@
-var mnemonic = "divert silent tobacco mushroom busy gas angry strong digital cheap royal police";
+var mnemonic = "breeze length universe cushion music hockey craft warfare easy toy online nature";

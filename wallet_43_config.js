@@ -1,1 +1,1 @@
-var mnemonic = "assist notice solar hawk candy sea uniform tackle dentist amazing olympic hamster";
+var mnemonic = "fish ribbon setup parade wrap cycle worth mad elephant siren curve require";

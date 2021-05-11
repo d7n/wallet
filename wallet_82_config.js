@@ -1,1 +1,1 @@
-var mnemonic = "cube venture cook glory core net fit various flight obscure road bubble";
+var mnemonic = "camp differ path receive hospital age remind valve element genre token enforce";

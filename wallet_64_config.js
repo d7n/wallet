@@ -1,1 +1,1 @@
-var mnemonic = "edge blush estate arrow profit auction crunch acquire define job blame govern";
+var mnemonic = "own bronze luxury minor cactus trend price include wide horn behind vacuum";

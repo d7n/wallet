@@ -1,1 +1,1 @@
-var mnemonic = "degree shove gospel aim arena bicycle hospital quiz behind credit gate onion";
+var mnemonic = "stereo blame caught diamond carpet diagram jelly destroy license cancel describe guide";

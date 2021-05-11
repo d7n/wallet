@@ -1,1 +1,1 @@
-var mnemonic = "lift lesson thank express punch planet credit execute ramp daring exit eyebrow";
+var mnemonic = "sick van puppy duck rent spell divorce across pattern child blood room";

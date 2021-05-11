@@ -1,1 +1,1 @@
-var mnemonic = "lucky sort seek build wink pupil october manual silent upgrade resource disease";
+var mnemonic = "trophy sibling dentist toast flash toe magnet giggle fat mind bike assault";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude mule hobby junior salute hope auto dinner accuse hockey woman album";
+var mnemonic = "suffer either person palace toast rubber stock arrive mandate indicate twist balcony";

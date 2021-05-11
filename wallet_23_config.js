@@ -1,1 +1,1 @@
-var mnemonic = "plate sort follow october try goose stomach clerk luxury hidden pill mechanic";
+var mnemonic = "under wheel inflict height depth what lift goose fly surround elephant jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "segment south insane crush flower attitude print stomach hunt mixed genuine neglect";
+var mnemonic = "tennis metal once meadow happy orient when peanut pair base jar occur";

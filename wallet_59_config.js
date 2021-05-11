@@ -1,1 +1,1 @@
-var mnemonic = "valid boring century burger couch inject inject income rubber impose intact bird";
+var mnemonic = "egg pigeon bullet draft burst choice shoulder mention slide bundle wave asthma";

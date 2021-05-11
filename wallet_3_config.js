@@ -1,1 +1,1 @@
-var mnemonic = "ordinary size aspect enable bacon option slogan mobile brush property liquid multiply";
+var mnemonic = "already foster agree room caution must unusual magnet visual siren crumble eyebrow";

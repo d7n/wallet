@@ -1,1 +1,1 @@
-var mnemonic = "wagon raise labor require fan obtain yard palace blade you seven destroy";
+var mnemonic = "tower tourist fire title gather comfort vast barrel habit indicate worry vacuum";

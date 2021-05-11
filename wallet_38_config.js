@@ -1,1 +1,1 @@
-var mnemonic = "wealth refuse effort brick anger awesome friend catalog album spider image job";
+var mnemonic = "paper property blind letter office shift thumb early fluid tell raven vacuum";

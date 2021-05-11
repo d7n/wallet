@@ -1,1 +1,1 @@
-var mnemonic = "limit tennis citizen valid intact verb rely welcome luggage dawn impose metal";
+var mnemonic = "casual abuse erosion absorb act timber damp will ribbon space syrup mystery";

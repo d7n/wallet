@@ -1,1 +1,1 @@
-var mnemonic = "glory next barrel best spring riot stamp forum spend move distance stick";
+var mnemonic = "patch wealth normal burger cute razor garden rack erupt inquiry soon latin";

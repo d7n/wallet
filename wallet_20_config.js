@@ -1,1 +1,1 @@
-var mnemonic = "leisure much rail rebuild stamp rapid rescue hope match mirror across whip";
+var mnemonic = "draft retire hungry glad tube only element rotate traffic humble sick thumb";

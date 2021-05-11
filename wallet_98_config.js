@@ -1,1 +1,1 @@
-var mnemonic = "fresh sing company erupt album robust eight accident focus popular enjoy special";
+var mnemonic = "trade rug addict glide fetch between canoe pink three huge angle blast";

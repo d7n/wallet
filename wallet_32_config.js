@@ -1,1 +1,1 @@
-var mnemonic = "exercise alpha mom marble recall behind leopard fresh quote boring rifle appear";
+var mnemonic = "track nose slice fee girl indoor feature empty lady ill guess taste";

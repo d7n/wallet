@@ -1,1 +1,1 @@
-var mnemonic = "valid alley develop royal amazing safe choose erode garden position infant cattle";
+var mnemonic = "van famous ten letter card surge dance tray flip rigid kitten wheat";

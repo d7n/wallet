@@ -1,1 +1,1 @@
-var mnemonic = "foil pride theory road card naive sell mutual card aware board ancient";
+var mnemonic = "able kit actor erupt type feel tiny target mix maid meat nephew";

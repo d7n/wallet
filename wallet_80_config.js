@@ -1,1 +1,1 @@
-var mnemonic = "happy inner destroy agent item pottery design stick alcohol gentle crew release";
+var mnemonic = "melody broom erode food message adapt void grape walk inquiry loud file";

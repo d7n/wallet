@@ -1,1 +1,1 @@
-var mnemonic = "twist someone earth laundry ranch voice return ability brother beef stadium blouse";
+var mnemonic = "result silk penalty penalty arena utility clown robot nation horror tongue dog";

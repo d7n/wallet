@@ -1,1 +1,1 @@
-var mnemonic = "reveal truck entire thank aisle upgrade meadow clerk stock broken guilt motor";
+var mnemonic = "short glad orphan warm radio lava carpet juice height donkey forest slender";

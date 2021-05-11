@@ -1,1 +1,1 @@
-var mnemonic = "knock hope palace pupil embody help panther resemble close odor floor alcohol";
+var mnemonic = "write year awake certain shadow drama cash before turtle space margin brass";

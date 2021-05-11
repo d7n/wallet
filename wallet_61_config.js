@@ -1,1 +1,1 @@
-var mnemonic = "lyrics merit border rural mean now tunnel sail install lucky scissors dish";
+var mnemonic = "ignore arena exist pledge cruise feel include mule wrong sausage cricket together";

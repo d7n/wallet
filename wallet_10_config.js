@@ -1,1 +1,1 @@
-var mnemonic = "rug galaxy harsh rare screen panic brain edge shed soup gold beyond";
+var mnemonic = "tourist girl life soda palace vote split ridge blood issue you always";

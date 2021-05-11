@@ -1,1 +1,1 @@
-var mnemonic = "rose first dilemma human adapt evoke day ivory guitar crowd surprise inherit";
+var mnemonic = "only lobster canvas clay toward oven party range nerve bamboo twice join";

@@ -1,1 +1,1 @@
-var mnemonic = "silly immense bag measure depend eternal earn faculty clog way town today";
+var mnemonic = "guitar visit run example scrap celery cash close bicycle crater myth position";

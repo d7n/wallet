@@ -1,1 +1,1 @@
-var mnemonic = "art member embody predict wood frequent sketch universe space mimic sport keen";
+var mnemonic = "off aisle fruit kiss scatter loan phrase connect zero head only amateur";

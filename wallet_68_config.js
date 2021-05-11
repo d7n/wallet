@@ -1,1 +1,1 @@
-var mnemonic = "journey diary deputy neutral gym ostrich slogan neutral hazard day nest mention";
+var mnemonic = "ready action alert cradle property grab fragile adult mandate round image dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer donate end dose jealous wonder limb parent ring winter excite gloom";
+var mnemonic = "special rely denial lunar floor amazing sport rebuild fee situate pig flower";

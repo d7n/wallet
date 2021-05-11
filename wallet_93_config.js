@@ -1,1 +1,1 @@
-var mnemonic = "diary slow illegal void item retire dolphin cluster path own north key";
+var mnemonic = "defy amount edge august play caution tennis scissors identify noble hunt sock";

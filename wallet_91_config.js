@@ -1,1 +1,1 @@
-var mnemonic = "ring juice autumn before danger when people still hip bread lava blur";
+var mnemonic = "hire length rose cool service awkward talk taxi mystery fever face album";

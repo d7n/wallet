@@ -1,1 +1,1 @@
-var mnemonic = "tooth crash plug minute swim shoulder hen pluck hover require ripple door";
+var mnemonic = "faith check dance picture spice fame kiwi manual pipe swarm arm cry";

@@ -1,1 +1,1 @@
-var mnemonic = "talent attract fold change music ostrich hip alien seek sausage pride actor";
+var mnemonic = "bean junk judge meat catch under gossip aisle raise scrap clerk labor";

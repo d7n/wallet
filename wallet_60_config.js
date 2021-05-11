@@ -1,1 +1,1 @@
-var mnemonic = "stay enact sight pond appear average tiger leave heart laundry wagon flush";
+var mnemonic = "display nation dream mirror spoon upgrade asset light foster stage track infant";

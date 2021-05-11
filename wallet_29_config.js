@@ -1,1 +1,1 @@
-var mnemonic = "screen awful horse harsh tribe squirrel broom mixture humble fantasy column critic";
+var mnemonic = "purchase foil child hair miss rather anxiety timber misery distance venture behave";

@@ -1,1 +1,1 @@
-var mnemonic = "south ball story capital monster void response question pluck excess start bounce";
+var mnemonic = "timber monitor cave engine mobile frost soup company raven play type myth";

@@ -1,1 +1,1 @@
-var mnemonic = "visa dose useful poet defense butter electric avocado phone delay nominee involve";
+var mnemonic = "sauce exit exotic gospel punch discover piano head mandate position curtain already";

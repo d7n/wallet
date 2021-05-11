@@ -1,1 +1,1 @@
-var mnemonic = "arm exercise chunk embrace cushion approve birth organ wisdom purchase curve jar";
+var mnemonic = "reflect dial please blame observe library glory hair spatial thunder slush immense";

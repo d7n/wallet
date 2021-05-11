@@ -1,1 +1,1 @@
-var mnemonic = "service romance brand gallery trend local timber rather elite enact vibrant list";
+var mnemonic = "nice argue crystal toy senior mouse cradle fabric decrease truth suspect spray";

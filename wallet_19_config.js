@@ -1,1 +1,1 @@
-var mnemonic = "address sheriff ready still invite ball reopen sister action security shell depart";
+var mnemonic = "swing proud ripple actress unable spot action dash remember depth salmon scissors";

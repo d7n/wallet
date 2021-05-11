@@ -1,1 +1,1 @@
-var mnemonic = "butter interest enhance van special tourist black visit economy skull message cage";
+var mnemonic = "put wrestle limb annual canal wrong hobby knee perfect they key clock";

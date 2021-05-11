@@ -1,1 +1,1 @@
-var mnemonic = "assume genuine limit embody often lucky team stage high duck jealous include";
+var mnemonic = "evolve monitor vessel arm invite foam popular range scare fatigue hub loud";

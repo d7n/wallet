@@ -1,1 +1,1 @@
-var mnemonic = "document riot pipe nature elder flip slight other assault orange sick reform";
+var mnemonic = "upon metal mother next lunch option elder warrior drum roast drill pull";

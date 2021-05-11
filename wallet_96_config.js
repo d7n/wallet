@@ -1,1 +1,1 @@
-var mnemonic = "slab divorce swarm crater hole skill expand hover exact antenna verify two";
+var mnemonic = "beauty until journey swear chaos grid hole impulse poem flash six run";

@@ -1,1 +1,1 @@
-var mnemonic = "rude length absorb hour wedding captain wine lady east marine major puzzle";
+var mnemonic = "gate zebra achieve pave rather six old hotel grunt act ready brown";

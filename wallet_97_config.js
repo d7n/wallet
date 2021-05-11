@@ -1,1 +1,1 @@
-var mnemonic = "ski hint copy canvas silent minor window term trap update vote blind";
+var mnemonic = "mistake degree culture dust behave table journey music shoulder install major moment";

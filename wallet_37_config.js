@@ -1,1 +1,1 @@
-var mnemonic = "involve crop timber below mandate mix typical grief various marine athlete love";
+var mnemonic = "plastic judge symbol usual useless ice energy situate reward permit hold phrase";

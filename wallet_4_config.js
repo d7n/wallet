@@ -1,1 +1,1 @@
-var mnemonic = "tuna civil brain merit neither flower small convince provide cinnamon master box";
+var mnemonic = "shoulder crane supreme address advance room humble pact spider vanish soft trade";

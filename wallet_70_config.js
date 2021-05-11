@@ -1,1 +1,1 @@
-var mnemonic = "there march age pudding kiwi pizza practice lecture erupt sound puppy badge";
+var mnemonic = "join pipe face mad save defy penalty marine elite pass until blur";

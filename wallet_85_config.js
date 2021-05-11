@@ -1,1 +1,1 @@
-var mnemonic = "tool unfold claim inject spell taxi eight canoe income oval detect replace";
+var mnemonic = "paper genuine shuffle answer humble viable depart advance hero auto path make";

@@ -1,1 +1,1 @@
-var mnemonic = "october private piano spell waste anxiety vanish reward rough web occur chalk";
+var mnemonic = "supply silly stone regret maximum federal clog mango giraffe weather protect hello";

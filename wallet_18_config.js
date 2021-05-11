@@ -1,1 +1,1 @@
-var mnemonic = "kite science hurry miracle planet square ginger elevator crumble upset fruit situate";
+var mnemonic = "ability arctic apology sad blade print venue start limit want barrel remove";

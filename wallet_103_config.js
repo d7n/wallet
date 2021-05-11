@@ -1,1 +1,1 @@
-var mnemonic = "casual spin voice evoke list hockey voice off margin bus remember mouse";
+var mnemonic = "mammal memory absurd venue minimum rain kitten knock that saddle couch follow";

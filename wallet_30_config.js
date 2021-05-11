@@ -1,1 +1,1 @@
-var mnemonic = "sponsor impose spoon retire label vault core divorce monkey ocean fiscal arctic";
+var mnemonic = "arctic gold elbow lumber safe discover before ten delay letter task tone";

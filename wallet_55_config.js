@@ -1,1 +1,1 @@
-var mnemonic = "private blue cat weekend arrest toe pair paper carry abstract claim jacket";
+var mnemonic = "shoot arrow tone pioneer sting firm inhale journey jelly expose trap pave";

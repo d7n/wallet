@@ -1,1 +1,1 @@
-var mnemonic = "dumb since mean stick picnic normal minute planet parent garbage voice acoustic";
+var mnemonic = "rookie fat fold grace possible antenna enable hobby protect young will rhythm";

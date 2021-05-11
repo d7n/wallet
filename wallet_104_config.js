@@ -1,1 +1,1 @@
-var mnemonic = "palace lottery orbit latin effort lesson erosion raw derive youth dial replace";
+var mnemonic = "auto total ten all host strategy mistake hope diesel utility sea cycle";

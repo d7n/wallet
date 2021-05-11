@@ -1,1 +1,1 @@
-var mnemonic = "also winter fortune bind truck crater tired canyon upset cactus change enable";
+var mnemonic = "leader evoke monster panel unaware occur thought ancient become stick beyond focus";

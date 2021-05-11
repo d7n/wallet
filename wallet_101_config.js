@@ -1,1 +1,1 @@
-var mnemonic = "april turkey unknown tornado rail grid equal involve scatter disorder arrive post";
+var mnemonic = "ghost still area dragon toe swarm boy quiz tiger aware hole pair";

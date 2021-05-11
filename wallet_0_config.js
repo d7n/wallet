@@ -1,1 +1,1 @@
-var mnemonic = "style climb exact seek dog problem patch pass impose arctic elegant panel";
+var mnemonic = "vast special garlic hover uncover fatal age blush bike soda connect enrich";

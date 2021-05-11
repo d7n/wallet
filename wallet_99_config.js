@@ -1,1 +1,1 @@
-var mnemonic = "cigar sad audit opera chronic visit you discover build caught dismiss edge";
+var mnemonic = "exist panda top panda mass hurt frozen first grief vast begin review";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper humor catch cinnamon vendor patient virus maze depend keen absurd praise";
+var mnemonic = "party sort cliff cute consider mandate lawn eternal all eager marriage shaft";

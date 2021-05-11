@@ -1,1 +1,1 @@
-var mnemonic = "pole kite ginger enough citizen unaware carbon chicken draw input gospel limb";
+var mnemonic = "ticket elevator salad orange funny plastic arrest tip cable disease shoulder weekend";
