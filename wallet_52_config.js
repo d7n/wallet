@@ -1,1 +1,1 @@
-var mnemonic = "pool cat hip bind climb ritual soon sand weird wrestle kind leave";
+var mnemonic = "better oven snap bacon option artwork hospital obtain struggle broom fetch youth";

@@ -1,1 +1,1 @@
-var mnemonic = "check figure shrug keep soup fish leader video success ripple copy shell";
+var mnemonic = "jazz basket sentence afraid list negative satisfy tree crunch extend text vital";

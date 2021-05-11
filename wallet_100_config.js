@@ -1,1 +1,1 @@
-var mnemonic = "alarm cry draw shallow salad chimney road perfect wild nurse again stereo";
+var mnemonic = "dream safe silk common sand believe any energy silly guard until climb";

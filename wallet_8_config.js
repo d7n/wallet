@@ -1,1 +1,1 @@
-var mnemonic = "bamboo action cage pride area artefact animal symbol candy tip plate chronic";
+var mnemonic = "wear insect win magic kit reject stove grocery image ginger vague husband";

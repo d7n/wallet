@@ -1,1 +1,1 @@
-var mnemonic = "empower wash require stay small desk liberty kingdom please green way differ";
+var mnemonic = "oppose forum swamp feed side marble digital hen robot project envelope depend";

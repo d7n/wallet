@@ -1,1 +1,1 @@
-var mnemonic = "special bounce famous wine knife toilet stick any awesome panda play mirror";
+var mnemonic = "fold approve seek purpose air fat there lecture health eagle relax prepare";

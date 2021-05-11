@@ -1,1 +1,1 @@
-var mnemonic = "maximum health hybrid cloud tunnel air brand despair diesel face fault find";
+var mnemonic = "good mosquito coast yard dash junior rifle sudden patrol comfort open stairs";

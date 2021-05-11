@@ -1,1 +1,1 @@
-var mnemonic = "potato valid obvious thunder jewel soldier budget uniform sweet extend donor habit";
+var mnemonic = "wagon resemble almost jaguar intact unveil broccoli rude witness sword notable half";

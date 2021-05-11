@@ -1,1 +1,1 @@
-var mnemonic = "two layer shove enable glass nut female embrace table derive deny broccoli";
+var mnemonic = "hurdle volcano actor resource among spell harvest patient shy surprise pizza clump";

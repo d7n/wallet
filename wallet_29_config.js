@@ -1,1 +1,1 @@
-var mnemonic = "sail manage add embody guess wife course worry index special bulk hub";
+var mnemonic = "fabric ball sting celery banner runway subject simple wrap fresh deliver drastic";

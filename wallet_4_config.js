@@ -1,1 +1,1 @@
-var mnemonic = "observe message source what tiger pulp airport later glad lemon curtain tourist";
+var mnemonic = "wheel above primary plate music walk sadness pause arrange clean economy thank";

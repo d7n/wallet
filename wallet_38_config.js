@@ -1,1 +1,1 @@
-var mnemonic = "multiply stereo sell false weather will champion adjust region fatal twice naive";
+var mnemonic = "hurdle century park biology define maid tobacco lumber drip rally guitar term";

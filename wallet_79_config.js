@@ -1,1 +1,1 @@
-var mnemonic = "film neck regret plate garage eye already myth alter notice little song";
+var mnemonic = "stem mouse labor fuel jazz sniff general release nut amount pen drift";

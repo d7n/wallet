@@ -1,1 +1,1 @@
-var mnemonic = "scrub close prevent renew hospital duck dragon reflect bacon price kidney angle";
+var mnemonic = "lamp tip toward essence spray candy more blind gallery robot slogan arrest";

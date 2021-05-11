@@ -1,1 +1,1 @@
-var mnemonic = "hood marriage canal equip connect tuna swamp rough sting cricket trend lift";
+var mnemonic = "puzzle prosper sorry stone castle pretty retire trumpet grass make frog transfer";

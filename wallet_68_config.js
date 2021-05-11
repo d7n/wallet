@@ -1,1 +1,1 @@
-var mnemonic = "crumble awake fabric produce elite bread demand input law concert mansion stamp";
+var mnemonic = "recipe spatial steak swallow resist scissors pioneer country wrist shine wall garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "when airport worry stand country eager response rapid crane devote disagree million";
+var mnemonic = "swear genius grass chat next family final receive victory just desk assist";

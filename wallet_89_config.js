@@ -1,1 +1,1 @@
-var mnemonic = "flip sound mirror avocado clerk almost flip steel wreck often rapid illegal";
+var mnemonic = "gospel order input nasty arrow fit unaware expose chunk cigar kind leave";

@@ -1,1 +1,1 @@
-var mnemonic = "spider dial stem stadium useful combine doctor helmet rocket price picture response";
+var mnemonic = "salute palm capable pony flight candy admit organ close lawsuit token steel";

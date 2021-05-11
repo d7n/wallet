@@ -1,1 +1,1 @@
-var mnemonic = "walnut palm loop alone ghost ramp grow bottom plug earn fuel sport";
+var mnemonic = "short mobile blouse lecture kiwi coast cost fun cup uncover fever tree";

@@ -1,1 +1,1 @@
-var mnemonic = "angry sunny air dizzy sunny add tribe tuna gown tiny leg soda";
+var mnemonic = "weapon dress minor iron dress primary rescue define priority display sugar craft";

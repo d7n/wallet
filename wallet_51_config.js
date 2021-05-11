@@ -1,1 +1,1 @@
-var mnemonic = "cycle mixture lonely sad toilet purity detail syrup tell matter manual lizard";
+var mnemonic = "ability true monster equip old cigar glue police rack ghost route parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "congress behave belt approve chest dentist boss void armed void marble relax";
+var mnemonic = "crowd mammal choose arrange clutch cricket offer rubber journey inner bonus tribe";

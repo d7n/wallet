@@ -1,1 +1,1 @@
-var mnemonic = "hat series assume there quick endless fence glass fetch reveal office stool";
+var mnemonic = "salon result atom engage must round pole doll local good fox second";

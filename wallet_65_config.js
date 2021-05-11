@@ -1,1 +1,1 @@
-var mnemonic = "glare cage dwarf afraid ill census rescue tonight slight kind explain broom";
+var mnemonic = "parent wrestle enemy hybrid infant client negative priority welcome diesel face result";

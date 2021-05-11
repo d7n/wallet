@@ -1,1 +1,1 @@
-var mnemonic = "member embark future phrase slab trigger ring crazy ocean silly health lake";
+var mnemonic = "science excite step expose diamond science anger second scan head property animal";

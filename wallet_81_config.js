@@ -1,1 +1,1 @@
-var mnemonic = "sock absorb cattle shell solve fire review recall slab industry print express";
+var mnemonic = "pig february drop round write room yellow injury garment tunnel august fan";

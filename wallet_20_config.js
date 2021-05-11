@@ -1,1 +1,1 @@
-var mnemonic = "month topic dilemma virus promote unfair cradle volcano entire business brick post";
+var mnemonic = "enemy avoid patch bunker timber deny field milk pair bulk glide horror";

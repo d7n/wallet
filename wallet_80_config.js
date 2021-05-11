@@ -1,1 +1,1 @@
-var mnemonic = "patrol essay digital student real soup vacuum beach ocean museum match solid";
+var mnemonic = "forum couch trim net bargain parade elite become march monitor great twice";

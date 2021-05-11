@@ -1,1 +1,1 @@
-var mnemonic = "engine chronic recycle crush differ enrich negative spider payment ice way series";
+var mnemonic = "pole soda notice car rent weasel praise awkward obvious soon guide patch";

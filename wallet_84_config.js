@@ -1,1 +1,1 @@
-var mnemonic = "broccoli like worth heavy hold main gown abandon sample web toss ramp";
+var mnemonic = "height measure broom rent luxury cattle virtual ignore mask bleak burger wing";

@@ -1,1 +1,1 @@
-var mnemonic = "before palm rigid armed fluid sketch weasel reject border replace target sibling";
+var mnemonic = "pledge lamp ancient path slice sad dad ritual lift prefer person end";

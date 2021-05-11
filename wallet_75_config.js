@@ -1,1 +1,1 @@
-var mnemonic = "garlic point panda bless inflict humor bulk salt razor brain blush six";
+var mnemonic = "belt dismiss photo boss world supreme infant achieve fortune volume bottom sick";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe kitten expire hold island project pass together shock gold mammal holiday";
+var mnemonic = "actress normal hungry scan more tuna park husband alcohol flag direct coyote";

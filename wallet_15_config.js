@@ -1,1 +1,1 @@
-var mnemonic = "bench trial visual heavy faculty acquire marriage police raw wood tennis aerobic";
+var mnemonic = "bag art inch tongue guitar immune school grain melody grant vessel slide";

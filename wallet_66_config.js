@@ -1,1 +1,1 @@
-var mnemonic = "donor elephant father rule brand plug tube soccer cross unknown symbol donkey";
+var mnemonic = "correct brain school utility alone round foot across pioneer gentle dignity spawn";

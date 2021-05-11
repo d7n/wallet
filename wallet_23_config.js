@@ -1,1 +1,1 @@
-var mnemonic = "like ugly emerge zone cloud pyramid error trend dust reveal practice lemon";
+var mnemonic = "slow flip dress brush crush wife lyrics elite slight ivory mercy exchange";

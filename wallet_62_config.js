@@ -1,1 +1,1 @@
-var mnemonic = "surge text patrol cash save exchange lock shiver swarm deputy wing degree";
+var mnemonic = "initial thrive bean pudding bachelor people cover together mix view fetch faculty";

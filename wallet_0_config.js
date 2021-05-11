@@ -1,1 +1,1 @@
-var mnemonic = "rocket dad lens vendor demand year anxiety knock inspire result spin erase";
+var mnemonic = "debate bar dentist erase auto refuse cake remind essence speak desert giant";

@@ -1,1 +1,1 @@
-var mnemonic = "bless grief mechanic fox setup manage swarm pulp retire enhance across comfort";
+var mnemonic = "ozone diary young arrest quick clip drift sell mule learn wine coach";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance shuffle hockey unknown captain actor exact will rally immense rich damp";
+var mnemonic = "wife lazy angry leaf gate dismiss unlock frog mountain grit admit avocado";

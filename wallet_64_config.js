@@ -1,1 +1,1 @@
-var mnemonic = "inherit oyster miracle fiscal kangaroo spider choose alter visual inquiry spice scale";
+var mnemonic = "news garlic miracle final next end approve curtain desert solution tube chicken";

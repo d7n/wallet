@@ -1,1 +1,1 @@
-var mnemonic = "balcony ski romance write vicious organ silly valley reduce bean omit uniform";
+var mnemonic = "close destroy blossom volume manual pond country horror tower stove lobster beyond";

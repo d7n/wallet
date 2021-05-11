@@ -1,1 +1,1 @@
-var mnemonic = "explain retire pupil text three invest supply hunt object amused equal agree";
+var mnemonic = "mix burden stay clean picnic cactus honey spoon cage bracket high clarify";

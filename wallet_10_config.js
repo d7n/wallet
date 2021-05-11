@@ -1,1 +1,1 @@
-var mnemonic = "steak diary sketch camp effort arm sock cement useless heavy lemon metal";
+var mnemonic = "offer hope scene crack river bonus supply develop crowd catch excite join";

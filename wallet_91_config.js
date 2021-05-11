@@ -1,1 +1,1 @@
-var mnemonic = "tooth practice scheme music vote wrist roof cereal tumble injury that ocean";
+var mnemonic = "taste case pyramid pool hand master agent security surface pupil collect gain";

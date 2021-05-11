@@ -1,1 +1,1 @@
-var mnemonic = "insect toddler pelican then modify daring vast bird tourist noise soul cook";
+var mnemonic = "topple price bamboo isolate priority stable honey game team access merit cash";

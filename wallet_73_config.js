@@ -1,1 +1,1 @@
-var mnemonic = "size dune pledge skin detail erupt happy decide pulp disease hire sick";
+var mnemonic = "menu door dash anchor wrong thrive zoo topic eye hen fence steel";

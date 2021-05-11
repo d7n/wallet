@@ -1,1 +1,1 @@
-var mnemonic = "elevator clarify stuff chuckle affair knife awkward hurdle like latin siren steak";
+var mnemonic = "surface universe female silk viable bean cactus grit amount autumn glance leisure";

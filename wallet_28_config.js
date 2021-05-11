@@ -1,1 +1,1 @@
-var mnemonic = "snow lend asset desk powder silver inside cigar chimney echo evoke attract";
+var mnemonic = "degree illness blood medal above dirt radio library high faith sock endorse";

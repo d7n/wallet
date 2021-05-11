@@ -1,1 +1,1 @@
-var mnemonic = "cement define palm jazz often hospital budget coin earn canyon project color";
+var mnemonic = "knee humble bronze assist ostrich swap cheese twin soccer disagree resource net";

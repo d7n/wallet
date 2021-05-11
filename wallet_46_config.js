@@ -1,1 +1,1 @@
-var mnemonic = "sight vehicle board net coin pill nice near sure large choose voyage";
+var mnemonic = "duck clump ozone lab hammer nasty slush write case rebel floor creek";

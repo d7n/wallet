@@ -1,1 +1,1 @@
-var mnemonic = "joy wheel absorb shine delay region annual render slot resist exact merry";
+var mnemonic = "cook junk stock behind brain remove hunt suffer scan saddle detail work";

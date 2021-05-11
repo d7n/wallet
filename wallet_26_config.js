@@ -1,1 +1,1 @@
-var mnemonic = "object remember demand bus loyal alien ranch child token web slender equal";
+var mnemonic = "float invite such poem crater relief armor paper dynamic fever aerobic cluster";

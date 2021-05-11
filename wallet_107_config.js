@@ -1,1 +1,1 @@
-var mnemonic = "work muffin slight public able drill denial minimum enrich laugh series margin";
+var mnemonic = "champion tribe desert elephant cloth network sun casual silly dose feature apple";

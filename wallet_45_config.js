@@ -1,1 +1,1 @@
-var mnemonic = "coach refuse mirror evolve sell base reject female long muscle sword keen";
+var mnemonic = "grape dumb cinnamon tell broken slide path gauge image fit burst wave";

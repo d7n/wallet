@@ -1,1 +1,1 @@
-var mnemonic = "use sense hole acoustic ceiling shuffle shuffle ankle pistol badge hobby case";
+var mnemonic = "energy skate icon birth burst juice girl gate attend seminar opera view";

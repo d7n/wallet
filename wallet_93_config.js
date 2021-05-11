@@ -1,1 +1,1 @@
-var mnemonic = "loan swamp neglect identify gospel loyal clap hedgehog virus old wet alert";
+var mnemonic = "embark grape boil agree school same muffin taxi empty eternal cover trend";

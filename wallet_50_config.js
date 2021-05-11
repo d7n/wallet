@@ -1,1 +1,1 @@
-var mnemonic = "royal steak flat deny exile rebuild spread moral twin kingdom decrease hair";
+var mnemonic = "aspect flower size churn unique purchase chimney false elbow predict flock armed";

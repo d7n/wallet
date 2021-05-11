@@ -1,1 +1,1 @@
-var mnemonic = "fiber abandon item strike demise pluck visit insane luxury nature infant simple";
+var mnemonic = "lab what mushroom juice forest witness actual plunge column lucky cactus enlist";

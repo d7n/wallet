@@ -1,1 +1,1 @@
-var mnemonic = "warfare square bus cargo business ozone skate pretty cradle swear ignore neither";
+var mnemonic = "okay seminar end loud shoe jazz lucky news alpha father fiscal coral";

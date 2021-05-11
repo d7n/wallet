@@ -1,1 +1,1 @@
-var mnemonic = "burst happy stadium spy child effort brass cup depth song click enable";
+var mnemonic = "mother duck chef festival glare toast fresh blind relax member choice element";

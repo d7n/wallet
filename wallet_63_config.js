@@ -1,1 +1,1 @@
-var mnemonic = "blood theory switch search soup digital episode moment secret float prosper tuition";
+var mnemonic = "base ticket glide artwork adult fat innocent oil amateur alone leader section";

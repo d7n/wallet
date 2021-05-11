@@ -1,1 +1,1 @@
-var mnemonic = "shiver cheese swamp blast soon chronic lunch custom behind exile pledge cannon";
+var mnemonic = "rabbit security upon oven object caution mix seminar patch supply very accuse";

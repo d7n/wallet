@@ -1,1 +1,1 @@
-var mnemonic = "sick imitate foster engine enroll give horse width vessel public funny cross";
+var mnemonic = "bunker jump floor cargo code fantasy rural actual slice segment unable thumb";

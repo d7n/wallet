@@ -1,1 +1,1 @@
-var mnemonic = "furnace ripple cherry online glance arrange roof spin exercise airport dice tiny";
+var mnemonic = "traffic gain feed ivory hungry foot host spell off fever stable wild";

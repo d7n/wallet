@@ -1,1 +1,1 @@
-var mnemonic = "comic thumb black talent visit raw apology soccer lazy clap whip retreat";
+var mnemonic = "nephew elevator interest saddle endorse tower witness cement festival carry view illegal";

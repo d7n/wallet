@@ -1,1 +1,1 @@
-var mnemonic = "crouch betray close leader deer frog crew kick alcohol bamboo humor actor";
+var mnemonic = "learn solve force lecture fee rely topple stick stomach skin giant hazard";

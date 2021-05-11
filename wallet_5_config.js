@@ -1,1 +1,1 @@
-var mnemonic = "animal citizen siege over dry unit cycle arrive ability resist bargain inside";
+var mnemonic = "parrot head hurry capital kitchen theme arrow auction target basic caught bench";

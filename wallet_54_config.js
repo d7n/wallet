@@ -1,1 +1,1 @@
-var mnemonic = "illegal extend faith name garment aspect vacant behave vehicle fee turn ecology";
+var mnemonic = "host poem vault sorry unable link elder marriage spring arrow adult tube";

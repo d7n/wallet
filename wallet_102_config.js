@@ -1,1 +1,1 @@
-var mnemonic = "derive diet salmon spoil blind glue vendor thing exhibit merry neutral gift";
+var mnemonic = "buzz fetch provide minute marble rigid end cupboard ketchup excite vague excuse";

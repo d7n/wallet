@@ -1,1 +1,1 @@
-var mnemonic = "rescue patient usual evolve oyster riot detect whale empower exercise enter margin";
+var mnemonic = "ugly urban arctic travel train word north inch enough scale bulk hen";

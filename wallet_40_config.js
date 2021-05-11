@@ -1,1 +1,1 @@
-var mnemonic = "oval sample client essence fix crush pool patrol fatigue unaware match motor";
+var mnemonic = "smoke scan chest rival month daring atom hero film bid lawsuit acoustic";

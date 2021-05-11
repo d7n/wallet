@@ -1,1 +1,1 @@
-var mnemonic = "cereal gown arm load suspect shiver oblige ski stomach find coil mesh";
+var mnemonic = "travel viable wisdom private prevent wine work fix stem clean advice vacant";

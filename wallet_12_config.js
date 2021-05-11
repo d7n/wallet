@@ -1,1 +1,1 @@
-var mnemonic = "monitor wing rebuild wing spot curve candy extend typical hello rent oblige";
+var mnemonic = "fury permit pitch two either concert social build furnace verb borrow casino";

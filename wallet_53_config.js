@@ -1,1 +1,1 @@
-var mnemonic = "ride run kiwi machine educate flight unveil caution toast always glow duty";
+var mnemonic = "wealth orient audit almost embrace split blanket rebuild defense rebel awesome later";

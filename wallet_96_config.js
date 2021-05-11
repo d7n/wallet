@@ -1,1 +1,1 @@
-var mnemonic = "reopen solid lamp month milk flag pencil arrow pull angle violin crunch";
+var mnemonic = "burden beyond bicycle dolphin ski heavy essence digital explain sleep permit kick";

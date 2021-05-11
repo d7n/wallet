@@ -1,1 +1,1 @@
-var mnemonic = "planet permit viable lady awkward crunch fancy scene skate drop asthma borrow";
+var mnemonic = "fantasy intact try valley thrive again kangaroo heavy tribe quiz member duck";

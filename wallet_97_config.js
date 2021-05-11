@@ -1,1 +1,1 @@
-var mnemonic = "insane original bomb solid tail stove embark device office quick lemon casual";
+var mnemonic = "bean evidence frozen orphan identify own own police bridge rally butter roof";

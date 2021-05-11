@@ -1,1 +1,1 @@
-var mnemonic = "mistake wasp meat foot already thought acoustic speed aunt area math analyst";
+var mnemonic = "dumb aisle monster hint woman entry company segment solve grace rapid always";

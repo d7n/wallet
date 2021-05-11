@@ -1,1 +1,1 @@
-var mnemonic = "sadness magic romance spawn weekend skirt fringe impact mushroom fit punch battle";
+var mnemonic = "knee glow tomorrow between tray busy pony method around soap source caution";

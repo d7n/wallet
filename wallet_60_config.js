@@ -1,1 +1,1 @@
-var mnemonic = "hair system drift void strong holiday fold expect chest soul never galaxy";
+var mnemonic = "veteran across cat gasp athlete faint tongue ginger repeat salute foot fever";

@@ -1,1 +1,1 @@
-var mnemonic = "deal forget file someone smart infant pelican yellow dirt humble similar cube";
+var mnemonic = "lounge laugh friend access typical hobby utility bench van fever absurd tape";

@@ -1,1 +1,1 @@
-var mnemonic = "guide riot entry cactus rude journey stadium conduct reunion garment denial penalty";
+var mnemonic = "stage minute favorite pipe rocket base loyal stereo beauty spread baby fee";
