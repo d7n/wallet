@@ -1,1 +1,1 @@
-var mnemonic = "attend cream elder pride run danger express subject cigar ring throw spawn";
+var mnemonic = "loop flag almost giraffe scrub ticket decade where popular main glass ginger";

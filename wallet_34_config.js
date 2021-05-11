@@ -1,1 +1,1 @@
-var mnemonic = "lumber busy human then cat sheriff pill jump today escape bean manage";
+var mnemonic = "lecture blast sister gas quick cable frequent monkey smoke share taste toe";

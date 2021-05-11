@@ -1,1 +1,1 @@
-var mnemonic = "face soldier sample day miracle surprise add wine tape slow pear shoe";
+var mnemonic = "cash cannon fruit silly effort setup sorry cross only identify awful knock";

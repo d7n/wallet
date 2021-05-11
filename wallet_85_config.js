@@ -1,1 +1,1 @@
-var mnemonic = "inspire uniform dwarf duck alley abandon canal error ticket clinic speed vibrant";
+var mnemonic = "demand disagree capital defy bring come ensure shadow round earth nature recall";

@@ -1,1 +1,1 @@
-var mnemonic = "today flip kit shaft valley tomato happy nurse decrease lawn awkward flavor";
+var mnemonic = "mountain equal math loop duck valid rich disagree detail grape you regret";

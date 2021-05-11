@@ -1,1 +1,1 @@
-var mnemonic = "obscure say doll ramp copy nut detect chief civil fault wise doctor";
+var mnemonic = "brave purchase promote toddler island total desert beyond umbrella achieve charge hope";

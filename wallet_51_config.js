@@ -1,1 +1,1 @@
-var mnemonic = "rocket small model hat common lumber fog mean exile renew olive spirit";
+var mnemonic = "tell barrel rabbit genius carry vacant face slender pelican burst conduct detail";

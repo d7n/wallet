@@ -1,1 +1,1 @@
-var mnemonic = "prosper this squirrel elevator peasant spawn despair kiss pond dad surge mean";
+var mnemonic = "finger release toe innocent sorry fall skirt social juice sustain vocal express";

@@ -1,1 +1,1 @@
-var mnemonic = "race assault into genre advice balance make describe rebuild strike tree size";
+var mnemonic = "rookie stay echo dirt turn comic captain dentist spider behind flush benefit";

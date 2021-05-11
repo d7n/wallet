@@ -1,1 +1,1 @@
-var mnemonic = "beach play loan staff garbage ski fury sniff ridge nominee custom slot";
+var mnemonic = "night trash mesh canvas eyebrow prize frame use salad monkey end model";

@@ -1,1 +1,1 @@
-var mnemonic = "history jar spider hobby damage rabbit either friend rare carbon network hood";
+var mnemonic = "mad today hen mosquito whisper prosper payment shed visit awake addict scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "insane question model catalog define crater kitchen random crumble list travel champion";
+var mnemonic = "symbol wave add craft lottery market february wheel turn annual push sphere";

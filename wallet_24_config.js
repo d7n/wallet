@@ -1,1 +1,1 @@
-var mnemonic = "collect cross giraffe because series hockey extra snap promote success unknown scene";
+var mnemonic = "clap execute wire range goddess verb tongue dragon seek add trophy number";

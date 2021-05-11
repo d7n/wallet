@@ -1,1 +1,1 @@
-var mnemonic = "rally slush shoot neither vicious lawn recall sentence mouse resource logic old";
+var mnemonic = "garment alley supply screen eagle angry grass jazz undo fashion december unfair";

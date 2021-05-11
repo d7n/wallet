@@ -1,1 +1,1 @@
-var mnemonic = "soccer wasp borrow race chronic nature surge various tornado hawk fold three";
+var mnemonic = "black skin broken script robust crunch magic phrase rookie learn almost resource";

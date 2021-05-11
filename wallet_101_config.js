@@ -1,1 +1,1 @@
-var mnemonic = "nasty match public system strike base first tornado cute possible dove galaxy";
+var mnemonic = "hole scrub wool rent grit run dawn trumpet rebuild rely fire couch";

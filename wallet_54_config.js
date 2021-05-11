@@ -1,1 +1,1 @@
-var mnemonic = "repair main green dirt amused joy float require muscle glass sing fever";
+var mnemonic = "error health erode kingdom age uphold accident asthma note actress recipe half";

@@ -1,1 +1,1 @@
-var mnemonic = "impose ride script fantasy panic easily sugar filter document print machine amateur";
+var mnemonic = "wage infant weather wall junior basic inquiry enlist hero travel model symptom";

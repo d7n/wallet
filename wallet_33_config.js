@@ -1,1 +1,1 @@
-var mnemonic = "more better always twelve stadium prefer stadium drill shoot frozen wink address";
+var mnemonic = "salt giggle derive joy cart outdoor owner memory gauge trip biology gas";

@@ -1,1 +1,1 @@
-var mnemonic = "magic travel bench nephew monster such impact call chicken despair panther jaguar";
+var mnemonic = "rail erode fire vivid artefact bonus sheriff trend search popular lady retire";

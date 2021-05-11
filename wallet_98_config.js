@@ -1,1 +1,1 @@
-var mnemonic = "damage fiber drum auction liar opera finger heavy practice company ancient glue";
+var mnemonic = "eager endless rocket inject foot when bird high session property check act";

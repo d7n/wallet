@@ -1,1 +1,1 @@
-var mnemonic = "vague print foot fit drill any code utility assume script defy lonely";
+var mnemonic = "bread cram rally page first medal morning fiction decorate blur treat guide";

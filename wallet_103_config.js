@@ -1,1 +1,1 @@
-var mnemonic = "sock detect spike head link property film hawk planet add olive tissue";
+var mnemonic = "coach private galaxy kiwi slush rocket identify cruel cancel team soul target";

@@ -1,1 +1,1 @@
-var mnemonic = "moment defense iron bullet between song where observe path black carbon hold";
+var mnemonic = "cattle worth chalk menu ten health fatigue announce uncover couch affair usage";

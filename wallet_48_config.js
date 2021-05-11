@@ -1,1 +1,1 @@
-var mnemonic = "chunk west exhaust start fabric analyst minor inherit knife token wink invite";
+var mnemonic = "damage tuition eyebrow leave glow fault code mutual frame giggle lawn fix";

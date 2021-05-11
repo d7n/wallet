@@ -1,1 +1,1 @@
-var mnemonic = "tone truth learn fresh clip lazy sadness muscle wise upgrade style absent";
+var mnemonic = "drum drop mail security auto slogan increase rough thunder alert better stool";

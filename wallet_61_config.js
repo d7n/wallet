@@ -1,1 +1,1 @@
-var mnemonic = "scrap smooth music yellow cover kiwi flag raven grocery enough decline impulse";
+var mnemonic = "wisdom diesel tiny detect inmate soccer mistake arctic rice reopen expire weapon";

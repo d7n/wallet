@@ -1,1 +1,1 @@
-var mnemonic = "legend group brush index connect salmon soda slide truck winner lottery else";
+var mnemonic = "intact business autumn skin broccoli ranch develop arrange tone sniff zone choose";

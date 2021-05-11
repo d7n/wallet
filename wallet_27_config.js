@@ -1,1 +1,1 @@
-var mnemonic = "toilet private order head video decide wear wage possible fury vacuum fog";
+var mnemonic = "shed divorce tattoo thrive mean useless immune describe option transfer endless claim";

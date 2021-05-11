@@ -1,1 +1,1 @@
-var mnemonic = "defy soup educate blanket acquire rely pear slim call father journey trash";
+var mnemonic = "dose misery crisp awesome nest future shuffle clerk sugar august sport fox";

@@ -1,1 +1,1 @@
-var mnemonic = "siren scan police extend shed relief near slice bracket shine border fabric";
+var mnemonic = "carpet twelve frown grab demise glad column pudding never ankle mechanic reduce";

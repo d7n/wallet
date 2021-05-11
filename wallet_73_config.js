@@ -1,1 +1,1 @@
-var mnemonic = "select kitten coast edit maximum dilemma term traffic describe million frown diet";
+var mnemonic = "donor inside void hat two slender stool sustain help blanket timber salt";

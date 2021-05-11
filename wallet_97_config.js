@@ -1,1 +1,1 @@
-var mnemonic = "inquiry beef evidence icon sheriff mouse unknown chalk breeze eye lunch green";
+var mnemonic = "pony relief pizza goddess clog scorpion expire walnut hard month unknown sort";

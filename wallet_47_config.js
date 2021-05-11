@@ -1,1 +1,1 @@
-var mnemonic = "demise swim window rug dentist claw slice reunion promote unusual finger deal";
+var mnemonic = "object merry member fiber crime allow manual lawsuit stove also retire envelope";

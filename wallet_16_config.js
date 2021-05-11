@@ -1,1 +1,1 @@
-var mnemonic = "creek width syrup mystery august tone report arrest nest power liberty keen";
+var mnemonic = "treat wisdom heart random achieve busy peanut bleak slam tank yard switch";

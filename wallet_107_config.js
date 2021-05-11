@@ -1,1 +1,1 @@
-var mnemonic = "wrist glove during where zone inherit chief ghost able term exit trash";
+var mnemonic = "piano wing reform tuna expect jump leader aunt cousin about frozen caution";

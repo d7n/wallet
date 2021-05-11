@@ -1,1 +1,1 @@
-var mnemonic = "tunnel strategy gasp jar siren transfer school sudden ramp domain cube cool";
+var mnemonic = "spawn enable crush share degree near thumb evolve void bottom program hour";

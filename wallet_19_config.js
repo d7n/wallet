@@ -1,1 +1,1 @@
-var mnemonic = "disorder topic wife fresh grace agent hunt resist inner exhibit charge half";
+var mnemonic = "shoulder person wreck own choose intact plug dentist around curtain brief valley";

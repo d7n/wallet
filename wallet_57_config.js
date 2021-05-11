@@ -1,1 +1,1 @@
-var mnemonic = "birth rabbit palace own salad chaos defense fruit frown fault pet rebuild";
+var mnemonic = "spot enough record escape tissue oven aim reason actual client spot hotel";

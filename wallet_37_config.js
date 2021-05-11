@@ -1,1 +1,1 @@
-var mnemonic = "mosquito quit valley ridge under loud salad kitten shoot choice hub pulp";
+var mnemonic = "title marble dice pond offer source ride crouch menu civil sustain employ";

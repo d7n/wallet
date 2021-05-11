@@ -1,1 +1,1 @@
-var mnemonic = "text stock hire empower draw pretty orient history random dragon world glass";
+var mnemonic = "era whisper sing top pudding soap deposit enter cheese caution neck glow";

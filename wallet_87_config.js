@@ -1,1 +1,1 @@
-var mnemonic = "image ecology exist horn clever predict ill tiny frequent fine range inner";
+var mnemonic = "street secret rail tiny general ice ship still rubber coach lottery hill";

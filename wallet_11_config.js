@@ -1,1 +1,1 @@
-var mnemonic = "below feature mix combine puzzle carbon popular drive police burger curtain early";
+var mnemonic = "blouse useful sense emotion apple traffic pipe mosquito credit very depart oxygen";

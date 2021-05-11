@@ -1,1 +1,1 @@
-var mnemonic = "already obvious leisure scale apple junk real decline bargain lemon travel intact";
+var mnemonic = "adapt tragic daughter crime inspire loop derive property what surge tackle mind";

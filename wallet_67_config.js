@@ -1,1 +1,1 @@
-var mnemonic = "yellow month improve upset concert ski execute noise culture expand solid ostrich";
+var mnemonic = "rigid friend gravity sense mom angle organ intact shoe panther neither loyal";

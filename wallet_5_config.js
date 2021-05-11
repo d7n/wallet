@@ -1,1 +1,1 @@
-var mnemonic = "slender mother health arch invest dutch you salt sight arrive bronze design";
+var mnemonic = "salt radar involve what route earn vast resist dumb divorce teach upset";

@@ -1,1 +1,1 @@
-var mnemonic = "random hungry renew must suspect already answer kidney good abstract jeans measure";
+var mnemonic = "runway style ugly attract sport fun busy way mail west upset health";

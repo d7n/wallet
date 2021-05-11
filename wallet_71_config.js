@@ -1,1 +1,1 @@
-var mnemonic = "main unit stereo pet trim empty coffee lock degree victory breeze limit";
+var mnemonic = "person denial north outer magic lazy corn joy tiny series squeeze vague";

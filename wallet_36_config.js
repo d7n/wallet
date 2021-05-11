@@ -1,1 +1,1 @@
-var mnemonic = "kite crunch sudden athlete protect catch logic army oxygen rain reduce tattoo";
+var mnemonic = "fan fish twist sick giant hard struggle cry recycle differ advice connect";

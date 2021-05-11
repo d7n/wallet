@@ -1,1 +1,1 @@
-var mnemonic = "surprise impulse clinic guitar truly spell youth fuel height awake industry indoor";
+var mnemonic = "diesel sound joke food promote glue hockey park pudding wave moon pole";

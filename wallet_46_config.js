@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit alley grunt balcony inform polar auction still visual pitch vapor clean";
+var mnemonic = "adult flip tragic crisp sport dinner ribbon knock sadness what guess shove";

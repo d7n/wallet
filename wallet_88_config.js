@@ -1,1 +1,1 @@
-var mnemonic = "prison cross vehicle morning estate repeat all guess script electric glue bamboo";
+var mnemonic = "nation boost bundle palm divide enjoy patch bitter size elite script client";

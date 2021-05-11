@@ -1,1 +1,1 @@
-var mnemonic = "nut rocket frequent virus reform order artwork right grit animal purchase cloth";
+var mnemonic = "height regular proof task window timber matter bottom spring panel iron gaze";

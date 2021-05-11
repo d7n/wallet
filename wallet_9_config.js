@@ -1,1 +1,1 @@
-var mnemonic = "feed glide anchor climb coyote mansion hello garden shine coyote feature diary";
+var mnemonic = "twice inside victory already noodle coyote volcano spin glad lemon squirrel pumpkin";

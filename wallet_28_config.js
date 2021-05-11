@@ -1,1 +1,1 @@
-var mnemonic = "worth valley fortune direct critic push runway capital deputy act bridge mixed";
+var mnemonic = "tonight milk hover hero adjust neglect supply sword arch bid habit early";

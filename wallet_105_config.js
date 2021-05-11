@@ -1,1 +1,1 @@
-var mnemonic = "onion pause brand obey find fatal wasp cage coin inject error hint";
+var mnemonic = "bean calm admit first you cotton cash awkward neither pill member valve";

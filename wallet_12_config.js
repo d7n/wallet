@@ -1,1 +1,1 @@
-var mnemonic = "surprise fish apology wheat menu desert setup hard large jeans typical differ";
+var mnemonic = "insane fashion floor puzzle evidence market essence craft skill sail harvest please";

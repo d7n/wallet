@@ -1,1 +1,1 @@
-var mnemonic = "exhaust dry bid observe surround public expect general hurt output fossil main";
+var mnemonic = "turn primary soda peanut pudding security fog work rival nerve stamp link";

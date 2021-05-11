@@ -1,1 +1,1 @@
-var mnemonic = "acid element subject lecture sister open believe busy foot april focus buddy";
+var mnemonic = "payment exchange journey left fruit swim noble ketchup fragile match lend inject";

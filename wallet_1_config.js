@@ -1,1 +1,1 @@
-var mnemonic = "sugar long enact property youth enlist fatigue car cause beach hammer orbit";
+var mnemonic = "lottery credit drive mind modify liquid donkey allow cup ethics rose pipe";

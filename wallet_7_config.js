@@ -1,1 +1,1 @@
-var mnemonic = "toast news process coach element fall trim diary dog maze celery awkward";
+var mnemonic = "fitness black solve clutch exclude wage expire submit enjoy kid mind guide";

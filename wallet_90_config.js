@@ -1,1 +1,1 @@
-var mnemonic = "subway mammal flavor sense fade bonus maid illness act kitchen indicate physical";
+var mnemonic = "cute valley input pencil income fork disagree kitchen winner draft purity master";

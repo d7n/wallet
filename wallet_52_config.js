@@ -1,1 +1,1 @@
-var mnemonic = "wet uncle local razor donor tattoo gym any table venture couple jewel";
+var mnemonic = "caught peace enforce segment across lumber food talent flag salute object kit";

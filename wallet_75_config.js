@@ -1,1 +1,1 @@
-var mnemonic = "auction rule mountain abandon love thing rate same disease crane fame beef";
+var mnemonic = "dust remember crack opinion town stage very page ticket garment swing metal";

@@ -1,1 +1,1 @@
-var mnemonic = "industry donkey tragic juice thumb hero ceiling unhappy february nut coffee cherry";
+var mnemonic = "bonus trash affair craft uncover spin extra oblige inquiry scare lion furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist picture intact slide range property love winner sleep private lesson skirt";
+var mnemonic = "scare lock roof shiver welcome differ during combine resist mercy health year";

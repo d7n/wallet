@@ -1,1 +1,1 @@
-var mnemonic = "coil lawsuit relax cave pyramid panda grab fine wink digital maze win";
+var mnemonic = "elbow wrong miracle current pink reunion hammer draft setup advance concert poem";

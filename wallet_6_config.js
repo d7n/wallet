@@ -1,1 +1,1 @@
-var mnemonic = "system child recipe invest nice pact young over brick woman finish eager";
+var mnemonic = "quantum omit ten observe park fossil guilt hockey sausage soup patrol plug";

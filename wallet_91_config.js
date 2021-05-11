@@ -1,1 +1,1 @@
-var mnemonic = "throw rough version eagle stereo need discover noodle vibrant dog wide gravity";
+var mnemonic = "post sun sadness lift olympic island payment duty nasty mom scrub sleep";

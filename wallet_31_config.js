@@ -1,1 +1,1 @@
-var mnemonic = "develop cram normal step climb lounge similar cake usual spot very ritual";
+var mnemonic = "abandon gap upgrade rabbit dial stem mixed silly decorate hero suffer tiny";

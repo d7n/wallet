@@ -1,1 +1,1 @@
-var mnemonic = "lend aisle reason ticket lobster doctor donkey glad film betray suit make";
+var mnemonic = "vault ring agree piano mistake dog sketch hundred jeans avoid dutch student";

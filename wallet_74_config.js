@@ -1,1 +1,1 @@
-var mnemonic = "check accident critic mercy tribe fade kiss birth couch device coffee predict";
+var mnemonic = "wash garden put shine letter couple canoe gun frozen oxygen sort perfect";

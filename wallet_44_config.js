@@ -1,1 +1,1 @@
-var mnemonic = "matrix silent average spoil bone jacket major reduce punch delay tape pull";
+var mnemonic = "margin own illness need coach blind culture sibling pool menu reveal disorder";

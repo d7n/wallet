@@ -1,1 +1,1 @@
-var mnemonic = "ritual stay grief raven they penalty grass toast cloud exile gossip reopen";
+var mnemonic = "mixture save beef tomato heart mechanic tourist pepper fence fever unusual wild";

@@ -1,1 +1,1 @@
-var mnemonic = "flame romance clay wink country flower entire able circle valve media alley";
+var mnemonic = "program ill middle collect prefer slice divert veteran crash hurt window approve";

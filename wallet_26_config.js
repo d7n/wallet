@@ -1,1 +1,1 @@
-var mnemonic = "bamboo tennis gravity horse lamp bless acid uncle soup orient glue opinion";
+var mnemonic = "wife cherry group weird ivory renew render vintage shell advance damage want";

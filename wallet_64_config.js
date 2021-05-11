@@ -1,1 +1,1 @@
-var mnemonic = "stable champion consider insane crumble ice metal myself fly girl dwarf brick";
+var mnemonic = "soup come typical order festival exile original shock rifle night clay focus";

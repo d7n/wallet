@@ -1,1 +1,1 @@
-var mnemonic = "ivory legend dizzy blame despair sniff tumble fog tragic close output open";
+var mnemonic = "fantasy fresh ring release message kingdom flush option jazz dance retreat glory";

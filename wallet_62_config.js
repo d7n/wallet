@@ -1,1 +1,1 @@
-var mnemonic = "increase select young coast search lend follow country tag solve dune scheme";
+var mnemonic = "release enforce foam task forum quit strike pool nasty boy merge camera";

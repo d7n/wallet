@@ -1,1 +1,1 @@
-var mnemonic = "board inform drill gold weather fit census drip spring crucial sight skate";
+var mnemonic = "sunny frame celery fix drink exact jungle apple result debris century neck";

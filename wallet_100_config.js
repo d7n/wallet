@@ -1,1 +1,1 @@
-var mnemonic = "antique original subway ugly fever foster below coin spider census barely top";
+var mnemonic = "blush kitchen physical gasp another they subway fluid blind assume tooth junior";

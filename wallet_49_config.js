@@ -1,1 +1,1 @@
-var mnemonic = "border usual ancient more approve know embrace admit urge discover fiction tobacco";
+var mnemonic = "seminar rescue umbrella boy office timber exercise chef episode primary between border";

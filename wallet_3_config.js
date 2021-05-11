@@ -1,1 +1,1 @@
-var mnemonic = "lunch surface sentence stadium april brisk box bless erode isolate host city";
+var mnemonic = "shock foot stove middle soup title grace suffer truth balcony lava mammal";

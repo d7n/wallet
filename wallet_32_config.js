@@ -1,1 +1,1 @@
-var mnemonic = "drill amateur hope twice noise problem art track soul delay credit skull";
+var mnemonic = "strategy tobacco small advice rather miss dress sauce breeze congress name occur";

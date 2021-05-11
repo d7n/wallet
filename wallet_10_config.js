@@ -1,1 +1,1 @@
-var mnemonic = "gallery welcome rocket artwork piano chat bean woman thunder kingdom rocket soda";
+var mnemonic = "outside include fish spot struggle affair soda logic escape snap valid ten";
