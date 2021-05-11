@@ -1,1 +1,1 @@
-var mnemonic = "already fame gym fox orient candy exchange quality orange link rough stay";
+var mnemonic = "hungry benefit success bike flip legal spend intact rhythm tortoise practice card";

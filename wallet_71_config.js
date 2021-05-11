@@ -1,1 +1,1 @@
-var mnemonic = "reopen canvas swamp always siege word meat cheap boat case soup ketchup";
+var mnemonic = "make west hat fantasy attract mask acid what zoo night saddle boat";

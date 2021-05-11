@@ -1,1 +1,1 @@
-var mnemonic = "hammer confirm stairs lion squirrel stool exotic hope nerve gain place umbrella";
+var mnemonic = "solar arrow parent across ritual timber fix gaze above mobile area obscure";

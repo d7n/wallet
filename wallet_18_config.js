@@ -1,1 +1,1 @@
-var mnemonic = "approve bus middle circle level travel undo bring okay target swift wing";
+var mnemonic = "all rifle cash idle know eternal rude violin prosper trend purpose shift";

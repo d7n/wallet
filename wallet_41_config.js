@@ -1,1 +1,1 @@
-var mnemonic = "harsh stomach pulp people rice twist decrease edit bubble amazing size liquid";
+var mnemonic = "strategy key bread coffee noodle cross ordinary acid spawn turn ignore wagon";

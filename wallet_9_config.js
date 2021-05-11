@@ -1,1 +1,1 @@
-var mnemonic = "dinner normal enhance insect slush system forget dentist enjoy foam trim obvious";
+var mnemonic = "artwork unknown open symptom lab cage phone catalog clump pigeon muscle issue";

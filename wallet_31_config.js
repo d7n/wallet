@@ -1,1 +1,1 @@
-var mnemonic = "page length across foil law street seven great close adult helmet lift";
+var mnemonic = "boat valley siren between broken album taxi throw text refuse leisure truth";

@@ -1,1 +1,1 @@
-var mnemonic = "board health cram beef cabin erupt noise snake smooth avocado catalog crush";
+var mnemonic = "hobby mixture century inside veteran floor middle wedding universe thank open shine";

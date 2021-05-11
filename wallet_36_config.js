@@ -1,1 +1,1 @@
-var mnemonic = "human bullet repair march drum badge tag company settle potato inch manage";
+var mnemonic = "split frost dragon invest foam piece cancel inject axis train bar rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "scan script manage spirit unaware alley illegal asthma modify clay gentle young";
+var mnemonic = "degree bamboo remove elder sort phone bubble bulb wine symptom second myself";

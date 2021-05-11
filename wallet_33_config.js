@@ -1,1 +1,1 @@
-var mnemonic = "impose goose bench frozen banana swarm liar predict olympic unit fatal abstract";
+var mnemonic = "sing online sleep lawsuit frequent gasp vague final rude mind deposit happy";

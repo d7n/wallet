@@ -1,1 +1,1 @@
-var mnemonic = "soul helmet fan mansion promote return bubble burst wood athlete void neck";
+var mnemonic = "obvious pilot brush same ketchup tiger mask pill junk bread ozone payment";

@@ -1,1 +1,1 @@
-var mnemonic = "plug slender apple rotate swift sport protect okay relax daughter pelican walk";
+var mnemonic = "fury south spray slice notice cream capital photo split frozen seat shoulder";

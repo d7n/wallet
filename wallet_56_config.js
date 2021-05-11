@@ -1,1 +1,1 @@
-var mnemonic = "elbow spray traffic dad wagon patient eight walk distance daring raise borrow";
+var mnemonic = "eye ski worth try swamp blade woman balance inquiry beyond apple fatigue";

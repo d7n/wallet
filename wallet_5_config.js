@@ -1,1 +1,1 @@
-var mnemonic = "boat dash loud become situate paddle patient nut estate bachelor anchor arctic";
+var mnemonic = "truth simple stamp balance about mushroom exact cluster improve fluid false art";

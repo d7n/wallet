@@ -1,1 +1,1 @@
-var mnemonic = "filter basket aware pony own agree nephew bronze spell style program leaf";
+var mnemonic = "curve innocent special trash anger pelican scare panda explain trash average trial";

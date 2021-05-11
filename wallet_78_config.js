@@ -1,1 +1,1 @@
-var mnemonic = "sock all purchase any romance forward forward tower fee oven glance ketchup";
+var mnemonic = "super decide another calm hamster evidence nature shy judge plastic alien half";

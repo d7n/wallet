@@ -1,1 +1,1 @@
-var mnemonic = "force fantasy capable crew runway gasp wrap cook two lucky skull flight";
+var mnemonic = "wedding fluid divide this hybrid tenant tray jewel alert praise route caught";

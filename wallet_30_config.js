@@ -1,1 +1,1 @@
-var mnemonic = "symbol filter shield notice school entire matrix worry lecture kind make security";
+var mnemonic = "erupt sign garage want happy wrong snow excess like inch shield clarify";

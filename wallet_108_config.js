@@ -1,1 +1,1 @@
-var mnemonic = "magic drama warrior baby gravity version garlic culture surround thunder beyond burden";
+var mnemonic = "elevator refuse federal artefact license pact frequent body stadium wait vehicle joy";

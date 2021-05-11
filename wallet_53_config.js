@@ -1,1 +1,1 @@
-var mnemonic = "hawk delay oxygen denial liquid inspire slush mean quick dolphin false mix";
+var mnemonic = "kidney assault rhythm immune category salmon require easily matrix suggest affair solution";

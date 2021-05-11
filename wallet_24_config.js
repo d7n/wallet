@@ -1,1 +1,1 @@
-var mnemonic = "place small narrow parade try such fitness over mammal pool shell mixed";
+var mnemonic = "knock traffic hint message kind symbol pencil little winter trumpet thought search";

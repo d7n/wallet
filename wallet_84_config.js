@@ -1,1 +1,1 @@
-var mnemonic = "sure elbow hover senior loop lizard trim phrase catch wall true filter";
+var mnemonic = "join horn shift direct heavy punch elephant matrix ugly please fun orbit";

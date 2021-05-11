@@ -1,1 +1,1 @@
-var mnemonic = "silk until virus margin wink emotion average day cabin brain dream base";
+var mnemonic = "truck middle winner elder soft addict key grit resist gas resemble thank";

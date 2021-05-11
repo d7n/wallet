@@ -1,1 +1,1 @@
-var mnemonic = "glory other hollow demand pride curious brass flee settle trend syrup blossom";
+var mnemonic = "grant liquid canal honey enroll spice warm say call squeeze barrel shock";

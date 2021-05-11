@@ -1,1 +1,1 @@
-var mnemonic = "stem check involve rubber jungle hungry sell shuffle forest curious chase seed";
+var mnemonic = "crime leisure napkin combine awesome frog farm picture school rough prison car";

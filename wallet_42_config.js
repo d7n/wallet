@@ -1,1 +1,1 @@
-var mnemonic = "fee knock maple unfold clutch genius wool skill target feel dolphin dance";
+var mnemonic = "state unhappy jacket penalty horse tenant act you blur tell trumpet carry";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle diesel onion violin maple lava north erode truth drum outer envelope";
+var mnemonic = "fantasy creek perfect swing input comic situate onion artist slice feel inner";

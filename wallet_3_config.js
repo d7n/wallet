@@ -1,1 +1,1 @@
-var mnemonic = "alcohol someone boat position feel pioneer hedgehog offer album earth surface firm";
+var mnemonic = "together announce sibling clinic room basic lemon into prevent unlock skirt few";

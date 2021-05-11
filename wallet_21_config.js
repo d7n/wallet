@@ -1,1 +1,1 @@
-var mnemonic = "toward token dust degree country tunnel village catch explain main alley pelican";
+var mnemonic = "over desk stomach quarter ostrich universe task famous train patrol tissue suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "net talk poet effort noise green city crawl diet butter kite turn";
+var mnemonic = "frown measure latin amount squeeze candy insect acoustic illness item antenna supply";

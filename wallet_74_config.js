@@ -1,1 +1,1 @@
-var mnemonic = "chapter zero stock boost cat student cook jaguar steel earth clown actress";
+var mnemonic = "room average super detail expire spirit festival mesh original nephew direct sniff";

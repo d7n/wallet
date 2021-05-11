@@ -1,1 +1,1 @@
-var mnemonic = "scrap crucial argue woman motor wrist hurry over daring speed amount mistake";
+var mnemonic = "thought resource shuffle dutch rose illness flush february stadium agent glove shrimp";

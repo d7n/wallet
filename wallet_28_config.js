@@ -1,1 +1,1 @@
-var mnemonic = "peace equal company trim lend boring diet snow tongue jump holiday twice";
+var mnemonic = "suffer miracle valley public avocado mother spin oyster worry gain sick hero";

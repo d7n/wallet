@@ -1,1 +1,1 @@
-var mnemonic = "icon motor move upon magic also use clean image midnight crisp little";
+var mnemonic = "film tennis always extra walk reject reform salute wood spring divorce focus";

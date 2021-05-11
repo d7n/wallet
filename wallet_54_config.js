@@ -1,1 +1,1 @@
-var mnemonic = "piece build twice person switch final climb stumble trade favorite express apology";
+var mnemonic = "neutral scrub reason hybrid weasel biology cactus beach rubber gain ceiling marble";

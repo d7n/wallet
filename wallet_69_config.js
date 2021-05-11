@@ -1,1 +1,1 @@
-var mnemonic = "assist hammer slender dress decorate holiday bird first apology maple embark consider";
+var mnemonic = "cluster space gate wheat target similar fence more panther barrel ranch diamond";

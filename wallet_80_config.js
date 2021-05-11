@@ -1,1 +1,1 @@
-var mnemonic = "easy electric subject travel fashion myth merge job hollow absent repeat setup";
+var mnemonic = "play area actor middle enforce emotion half trash reveal same nature expand";

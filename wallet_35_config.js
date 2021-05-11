@@ -1,1 +1,1 @@
-var mnemonic = "boat atom trust mountain purse busy hill immune rubber saddle sketch layer";
+var mnemonic = "invite educate say upset manual alert wise lecture ignore know warfare mule";

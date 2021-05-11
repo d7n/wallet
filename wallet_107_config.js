@@ -1,1 +1,1 @@
-var mnemonic = "choose riot project parent badge ship twice foot proof stereo heavy result";
+var mnemonic = "unveil clutch only concert convince size pen inmate book knife shell poem";

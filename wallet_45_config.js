@@ -1,1 +1,1 @@
-var mnemonic = "notice boil theory always vault tackle high roast gloom ordinary dynamic august";
+var mnemonic = "price decade rely view enact feel tornado side erase grass bread priority";

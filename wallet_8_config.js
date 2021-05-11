@@ -1,1 +1,1 @@
-var mnemonic = "blade recipe notable upset drift among wool life elegant cereal danger sunny";
+var mnemonic = "quarter toe segment mixed keen eight cage glue physical rural video advance";

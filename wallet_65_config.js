@@ -1,1 +1,1 @@
-var mnemonic = "august plug they velvet prefer satisfy open tomorrow cupboard traffic lizard example";
+var mnemonic = "ensure enjoy hotel analyst dice valid acoustic crime bachelor industry gate blossom";

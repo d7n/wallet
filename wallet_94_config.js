@@ -1,1 +1,1 @@
-var mnemonic = "poet rose drift park select finish kite hawk lyrics upgrade trial notice";
+var mnemonic = "solution dry relax enter canyon capable leaf monster topic crane destroy usage";

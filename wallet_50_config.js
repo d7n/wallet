@@ -1,1 +1,1 @@
-var mnemonic = "magic raven vast donate chaos trial crawl hurry child burden warfare jeans";
+var mnemonic = "final slight lava rare dignity diamond desert erupt wage alcohol rack lake";

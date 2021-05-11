@@ -1,1 +1,1 @@
-var mnemonic = "tribe drip slide bargain issue vacant curtain wink daughter gossip try puzzle";
+var mnemonic = "bench bracket throw defy relax regular pipe vault guard company more attract";

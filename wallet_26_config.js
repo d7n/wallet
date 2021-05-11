@@ -1,1 +1,1 @@
-var mnemonic = "segment wheel dad mean metal frog trouble provide donkey pizza favorite airport";
+var mnemonic = "egg second grain doctor burst same hen list illness input uniform loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy embrace theory peasant dumb jacket crop steak renew ketchup elegant bridge";
+var mnemonic = "across spell bonus hungry drift monitor practice tell dice daring awesome split";

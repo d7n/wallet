@@ -1,1 +1,1 @@
-var mnemonic = "coffee topic mandate flat total assault lake reopen taste ugly doll carbon";
+var mnemonic = "employ media crash retire strategy other obey search air bottom boy day";

@@ -1,1 +1,1 @@
-var mnemonic = "wink father blind ivory nut actress lock desk until absent dizzy sauce";
+var mnemonic = "mechanic mother maximum insane middle stadium right maximum stadium thunder spider ginger";

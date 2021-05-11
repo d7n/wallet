@@ -1,1 +1,1 @@
-var mnemonic = "turn stadium abandon inflict rude enrich escape game sense scale verify have";
+var mnemonic = "strike close fine stove expand cousin evil crouch eye garlic mountain render";

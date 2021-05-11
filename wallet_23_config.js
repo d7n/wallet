@@ -1,1 +1,1 @@
-var mnemonic = "absorb circle chest shiver uphold coyote shiver jeans swear settle garage notable";
+var mnemonic = "fold size style cool bamboo embody figure myself punch love fury normal";

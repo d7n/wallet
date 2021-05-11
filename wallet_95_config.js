@@ -1,1 +1,1 @@
-var mnemonic = "kick green antique pony force either donkey minimum badge believe mechanic snap";
+var mnemonic = "shrug fan few village reduce mind echo basket unfold fun own canoe";

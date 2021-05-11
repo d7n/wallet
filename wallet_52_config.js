@@ -1,1 +1,1 @@
-var mnemonic = "fine cotton chronic border visit visa intact umbrella invite menu zoo sound";
+var mnemonic = "off burden spot brass tackle panda decorate rug fan brick audit slogan";

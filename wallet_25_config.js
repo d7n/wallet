@@ -1,1 +1,1 @@
-var mnemonic = "combine broken rose finger session addict fruit blind afford nominee sorry exotic";
+var mnemonic = "solution video guitar grant rain session rival switch suspect feature fiber sunny";

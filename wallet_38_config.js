@@ -1,1 +1,1 @@
-var mnemonic = "rapid try dinosaur vapor helmet between flavor borrow since secret siren trigger";
+var mnemonic = "pig rely coral absent dice today come wage poem snake way sniff";

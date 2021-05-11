@@ -1,1 +1,1 @@
-var mnemonic = "neither hamster deer scale donor chuckle dawn person earth patient year buffalo";
+var mnemonic = "detail wait deposit there concert ocean innocent transfer trouble uphold morning drum";

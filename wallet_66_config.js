@@ -1,1 +1,1 @@
-var mnemonic = "resource elephant settle crush true material useless argue joy arrow dawn actor";
+var mnemonic = "wide heavy quiz canal latin brother bus can fence check enroll series";

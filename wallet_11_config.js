@@ -1,1 +1,1 @@
-var mnemonic = "wave copy trophy punch rocket deposit air toilet supply truth lunch battle";
+var mnemonic = "pencil order perfect repair shrimp supply thing silly forward move merge spot";

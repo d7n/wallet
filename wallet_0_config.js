@@ -1,1 +1,1 @@
-var mnemonic = "proof regret question predict trim update country economy elder wild quote level";
+var mnemonic = "pass situate burger defy end silver clump system connect select error auto";

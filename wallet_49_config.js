@@ -1,1 +1,1 @@
-var mnemonic = "pilot march sentence miss boat spell mansion pact empower burger dumb boost";
+var mnemonic = "siege melt fury help income teach crawl flavor lonely panic indoor claim";

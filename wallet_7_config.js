@@ -1,1 +1,1 @@
-var mnemonic = "vehicle often economy focus catch deputy version slide happy estate minimum pulse";
+var mnemonic = "keep cannon image police syrup excess atom rose excess amused federal enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "spin various entry rose have online aspect build witness dinner resource negative";
+var mnemonic = "like follow deliver mixed true adjust clip million hunt enhance news inject";

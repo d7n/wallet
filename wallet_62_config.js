@@ -1,1 +1,1 @@
-var mnemonic = "now member direct flush satisfy water soldier office cake large way town";
+var mnemonic = "job object property update rival tool occur age account father ring cinnamon";

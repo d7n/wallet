@@ -1,1 +1,1 @@
-var mnemonic = "project dolphin paddle candy harvest blast brush curious fault sure captain iron";
+var mnemonic = "water electric under genius crash surround kid actor zone use poverty sausage";

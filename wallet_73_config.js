@@ -1,1 +1,1 @@
-var mnemonic = "job initial ecology meat audit kiss car hope exist senior raven lottery";
+var mnemonic = "good zebra friend help lizard onion shine beef boring swing very student";

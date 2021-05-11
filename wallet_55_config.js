@@ -1,1 +1,1 @@
-var mnemonic = "chronic firm coin capital private cotton matter skin gap spin giant payment";
+var mnemonic = "width liar trophy tobacco mention marine praise hockey asthma obvious grunt front";

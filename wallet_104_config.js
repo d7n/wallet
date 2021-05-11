@@ -1,1 +1,1 @@
-var mnemonic = "paper scissors tribe arch trumpet observe mail issue club fish evolve alpha";
+var mnemonic = "dust slot denial glove victory void sign clock reflect bamboo pool unlock";

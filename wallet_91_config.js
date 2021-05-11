@@ -1,1 +1,1 @@
-var mnemonic = "index open collect nominee one merry lesson fitness issue explain raven holiday";
+var mnemonic = "seek face vivid narrow tube minimum goat indoor aunt you once regret";

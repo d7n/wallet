@@ -1,1 +1,1 @@
-var mnemonic = "mirror jeans renew solve monkey enhance topic awesome remind master prepare tree";
+var mnemonic = "chef novel ivory wet glance six ahead bitter proud symbol autumn large";

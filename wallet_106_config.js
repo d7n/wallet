@@ -1,1 +1,1 @@
-var mnemonic = "same food blind travel engine dose govern until rate fuel practice spring";
+var mnemonic = "hello hawk extra candy divide road autumn load orchard purse asset exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "mother insane level position pass town enjoy ten extend roof exile receive";
+var mnemonic = "flush empty wolf talent attack dial gravity where urge insect skull struggle";

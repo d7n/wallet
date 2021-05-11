@@ -1,1 +1,1 @@
-var mnemonic = "sketch monitor student mixed offer april glare other long onion blouse slogan";
+var mnemonic = "involve shoe job pact pink quarter nature affair limb sail use august";

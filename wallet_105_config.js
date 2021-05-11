@@ -1,1 +1,1 @@
-var mnemonic = "liar again net faculty tooth retire involve where tilt derive sight grow";
+var mnemonic = "dirt pony physical silver panther smile permit emerge shrug meat idle cruel";

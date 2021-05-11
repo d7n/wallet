@@ -1,1 +1,1 @@
-var mnemonic = "west olympic system web enough mercy find million other fly veteran napkin";
+var mnemonic = "artist trigger collect cause labor provide lottery acquire nerve leave rail all";

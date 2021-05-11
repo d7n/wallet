@@ -1,1 +1,1 @@
-var mnemonic = "accuse more main claim kidney child only cherry conduct live main health";
+var mnemonic = "skate mobile also else baby senior crazy spice rule fish can actual";

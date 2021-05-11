@@ -1,1 +1,1 @@
-var mnemonic = "surprise citizen you fantasy motor tuition chat rebuild tonight crash flash book";
+var mnemonic = "reform federal notice trust tennis zebra desk genuine table mean orbit promote";

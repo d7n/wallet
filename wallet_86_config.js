@@ -1,1 +1,1 @@
-var mnemonic = "match mouse pupil negative success enable cram bunker shallow casino mix pass";
+var mnemonic = "rent history end eagle accuse slam nation tree because gas romance fish";

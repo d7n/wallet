@@ -1,1 +1,1 @@
-var mnemonic = "stamp prepare shed someone repair hungry royal unit area december want used";
+var mnemonic = "slight local rebel brown forest cancel impose wealth run retire unable blur";

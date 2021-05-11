@@ -1,1 +1,1 @@
-var mnemonic = "minimum mango dog symptom sketch novel bar security web welcome soda any";
+var mnemonic = "drastic begin giggle oak dizzy congress equip prosper horse undo noodle people";

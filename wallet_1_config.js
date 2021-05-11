@@ -1,1 +1,1 @@
-var mnemonic = "chimney tell consider leaf thought oval beauty taxi slow town seat flame";
+var mnemonic = "wait disagree prepare whale radar place nuclear knock mule observe ignore exhibit";

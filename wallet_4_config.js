@@ -1,1 +1,1 @@
-var mnemonic = "oxygen change plug idle utility melt human two remain suffer dinner bullet";
+var mnemonic = "grid various leave eagle inherit roof clever pole sight scissors adjust paper";

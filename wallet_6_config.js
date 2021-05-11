@@ -1,1 +1,1 @@
-var mnemonic = "include thank few ugly actor soap behind crack voyage beach sustain crime";
+var mnemonic = "option cool ordinary off soda antenna sister custom guilt advice tennis bachelor";

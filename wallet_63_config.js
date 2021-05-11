@@ -1,1 +1,1 @@
-var mnemonic = "ketchup flight elbow surface range account type like outer afraid then boat";
+var mnemonic = "cattle awful trophy parrot frost bottom depart believe around such twice crowd";

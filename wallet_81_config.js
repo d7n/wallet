@@ -1,1 +1,1 @@
-var mnemonic = "relax again miss edit occur remove stick wire narrow exit clutch open";
+var mnemonic = "number minute style click fetch april gasp aisle arrow high fever ramp";

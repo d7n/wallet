@@ -1,1 +1,1 @@
-var mnemonic = "marble unfold heart stage guitar glass best theory civil faculty pride corn";
+var mnemonic = "bag silver act metal wheat gesture update spawn poet race bitter bridge";

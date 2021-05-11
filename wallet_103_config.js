@@ -1,1 +1,1 @@
-var mnemonic = "risk basket puzzle have glove proof between grunt ripple rotate inhale oyster";
+var mnemonic = "kingdom garment economy mesh ginger hazard media exchange property truth bird film";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel trumpet scout rival seminar guitar crazy biology ride chef bracket melt";
+var mnemonic = "urban essay crunch wide merry same ring bunker size unaware stable industry";

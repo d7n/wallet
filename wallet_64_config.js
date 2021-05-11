@@ -1,1 +1,1 @@
-var mnemonic = "team toddler lottery text thought appear grape length valid civil laundry describe";
+var mnemonic = "divorce wing sketch badge bench orient sentence chicken have month anger worth";

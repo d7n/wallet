@@ -1,1 +1,1 @@
-var mnemonic = "harbor future clown venue version transfer neutral wife inmate acid benefit cat";
+var mnemonic = "rally develop view blast dumb acquire demand cable gravity ill bid okay";

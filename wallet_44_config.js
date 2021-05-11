@@ -1,1 +1,1 @@
-var mnemonic = "trick excite fortune original boost health field unique pink comfort stadium steak";
+var mnemonic = "able floor marriage attitude crane crumble kid document defense enlist aerobic object";

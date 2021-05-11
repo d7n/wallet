@@ -1,1 +1,1 @@
-var mnemonic = "label jewel easy diesel volume cluster say denial balance trade sail flag";
+var mnemonic = "soda screen second stereo coil head box street defense dwarf orphan shadow";

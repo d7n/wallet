@@ -1,1 +1,1 @@
-var mnemonic = "shy timber boss material grass gather flat very short agent screen kit";
+var mnemonic = "ship address tennis plunge decade team process maze nasty escape worth chief";

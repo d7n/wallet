@@ -1,1 +1,1 @@
-var mnemonic = "wear great replace topple another size sadness mixture skin tube napkin room";
+var mnemonic = "sick wire describe pear venture end hamster turtle miss dumb sound nurse";

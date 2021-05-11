@@ -1,1 +1,1 @@
-var mnemonic = "north guilt hurt heavy wife harbor nest match witness option odor fit";
+var mnemonic = "distance river hybrid radar purse curve deny tired hurry attitude team museum";
