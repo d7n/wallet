@@ -1,1 +1,1 @@
-var mnemonic = "gospel risk tornado divorce honey margin egg wife occur door conduct atom";
+var mnemonic = "siren tower board client hill boil moral come hole entire air soda";

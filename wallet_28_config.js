@@ -1,1 +1,1 @@
-var mnemonic = "cool rent morning west enlist post hurdle visit candy pepper tomato image";
+var mnemonic = "achieve absorb always zone process despair turtle vapor focus matrix later hub";

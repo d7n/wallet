@@ -1,1 +1,1 @@
-var mnemonic = "lock pretty husband cross vague disorder debate syrup dutch cushion burden arrange";
+var mnemonic = "unfold clump alone dream bird suffer grow cable mechanic concert year nasty";

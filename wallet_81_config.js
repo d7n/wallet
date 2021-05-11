@@ -1,1 +1,1 @@
-var mnemonic = "fragile peanut sudden shrug shy honey prosper lamp pledge nothing usual project";
+var mnemonic = "carpet crack vacant seminar improve pledge rotate ring drastic across merry goose";

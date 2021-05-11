@@ -1,1 +1,1 @@
-var mnemonic = "lizard shop soccer arena belt spell festival pottery secret immense whisper magnet";
+var mnemonic = "bleak rare utility yellow above number cat cinnamon stuff great vapor unveil";

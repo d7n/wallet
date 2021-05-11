@@ -1,1 +1,1 @@
-var mnemonic = "purity test aim lunar door stool track divorce defy lend gasp world";
+var mnemonic = "reveal lock apart wreck retreat rent junior drift force loyal child limb";

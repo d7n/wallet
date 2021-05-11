@@ -1,1 +1,1 @@
-var mnemonic = "order nasty left mango tissue flower earn thing tooth narrow barrel merry";
+var mnemonic = "bicycle market reject sight harvest wonder trial grid increase unusual shoe orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster connect unaware island citizen amateur stone item depth turtle donor rescue";
+var mnemonic = "virtual web auto left sustain inhale bid legend laptop salad skull student";

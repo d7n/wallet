@@ -1,1 +1,1 @@
-var mnemonic = "assault cube round fatal token decade clutch fetch comfort shiver choice stuff";
+var mnemonic = "garlic tent couple rule slab field proof luxury current asthma script venue";

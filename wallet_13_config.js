@@ -1,1 +1,1 @@
-var mnemonic = "joke resemble remind drip tower oyster rigid radio impulse bonus antique reveal";
+var mnemonic = "pigeon weather invite deposit heavy sugar stomach unique energy space tunnel injury";

@@ -1,1 +1,1 @@
-var mnemonic = "nut kitten educate eternal stay tool sketch immune sugar normal figure planet";
+var mnemonic = "coral fluid drum tomato upgrade exhibit artefact ribbon sleep veteran wine sadness";

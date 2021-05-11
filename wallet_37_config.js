@@ -1,1 +1,1 @@
-var mnemonic = "vacant bicycle relax fire feature zebra report vocal crime slam beauty light";
+var mnemonic = "harsh camp dumb dove anger glass spoon market tree rate nest lock";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey debate sell drip inch upper mouse vibrant emotion daughter kitten since";
+var mnemonic = "actress mix material woman february boy wrong rotate broken final thunder dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy laundry onion clump borrow tattoo smoke sure faculty before album dismiss";
+var mnemonic = "panther asthma robust swift ordinary recipe fire food reject bean olive vicious";

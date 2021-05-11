@@ -1,1 +1,1 @@
-var mnemonic = "monster dragon disagree tell resource return fortune spirit mirror dirt tumble uncle";
+var mnemonic = "injury broken opera crucial someone garbage gasp climb situate effort bullet horse";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel pizza armed rapid answer cinnamon collect hedgehog define idle jewel host";
+var mnemonic = "forum burden deer seven crunch return frog select labor page when virtual";

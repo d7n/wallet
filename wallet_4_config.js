@@ -1,1 +1,1 @@
-var mnemonic = "surround mouse replace right term utility yard manual return border faint present";
+var mnemonic = "elegant scale head spin bar bubble title steel orbit supreme fence crucial";

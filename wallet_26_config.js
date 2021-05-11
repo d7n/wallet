@@ -1,1 +1,1 @@
-var mnemonic = "connect surprise reason mushroom announce wealth grace invest swamp carbon flash usual";
+var mnemonic = "cup drop retreat route when festival song old hover cart hire praise";

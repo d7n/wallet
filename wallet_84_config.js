@@ -1,1 +1,1 @@
-var mnemonic = "enhance help search truck eternal gauge razor scrap object cute train oil";
+var mnemonic = "chest grit city super arrow broken position stock artefact unknown subway pioneer";

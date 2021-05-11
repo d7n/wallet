@@ -1,1 +1,1 @@
-var mnemonic = "pole rebel robot miracle oil crater sauce effort pool relax mule lens";
+var mnemonic = "daring long soon allow speak town only alley hair series zone feel";

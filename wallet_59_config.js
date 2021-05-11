@@ -1,1 +1,1 @@
-var mnemonic = "biology depth slice damage setup wolf champion shallow race adapt confirm mesh";
+var mnemonic = "juice afford round illness sister soap enemy spoil army beyond ice clog";

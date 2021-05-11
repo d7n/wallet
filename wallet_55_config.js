@@ -1,1 +1,1 @@
-var mnemonic = "tag clutch slow bird raw law tornado nature bomb hybrid security grid";
+var mnemonic = "one lesson dignity remind oppose trigger piano master judge regular market april";

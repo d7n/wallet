@@ -1,1 +1,1 @@
-var mnemonic = "lesson chunk divert curious toast drastic own alien whisper trick twelve teach";
+var mnemonic = "clown teach series install assault nasty surprise fade crisp dumb project degree";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd exhaust deputy butter pulse slender chaos pudding angle emotion caught scan";
+var mnemonic = "wisdom sheriff fragile planet multiply today cloud congress tissue fat extra shoe";

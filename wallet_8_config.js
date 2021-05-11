@@ -1,1 +1,1 @@
-var mnemonic = "guard resemble expire rare throw easily immune skate jungle lock call venture";
+var mnemonic = "combine cloth truth shell mirror situate style sorry dwarf business that permit";

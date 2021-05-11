@@ -1,1 +1,1 @@
-var mnemonic = "oval excess source walk hotel repair sun put chat enemy draft warrior";
+var mnemonic = "forest throw scorpion organ toy pave vault net salad truly chief guard";

@@ -1,1 +1,1 @@
-var mnemonic = "sick keen video vessel lawn thunder civil melt repeat neutral shrimp future";
+var mnemonic = "gather slam curious young pledge curtain endless remind rural horse rely snow";

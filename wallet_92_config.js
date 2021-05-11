@@ -1,1 +1,1 @@
-var mnemonic = "easily festival elephant sheriff employ right frost attend pencil cattle orange acquire";
+var mnemonic = "access express garlic casual school sausage bubble bamboo artist knife album glide";

@@ -1,1 +1,1 @@
-var mnemonic = "tree mixed sword employ dice use danger devote puzzle glow forget artist";
+var mnemonic = "degree fog grunt behind dice credit claim boring prison thank shoot unit";

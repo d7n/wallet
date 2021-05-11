@@ -1,1 +1,1 @@
-var mnemonic = "harbor odor lake remind equip sponsor citizen spatial master toe change rule";
+var mnemonic = "twist process inmate pill whale fiction funny walnut anxiety army also fabric";

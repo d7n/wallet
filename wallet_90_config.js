@@ -1,1 +1,1 @@
-var mnemonic = "story quit muffin oven loyal pulp inquiry say goose loop sustain only";
+var mnemonic = "reflect sense shiver quote erode garage execute range argue tomorrow unit rotate";

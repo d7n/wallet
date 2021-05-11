@@ -1,1 +1,1 @@
-var mnemonic = "rival magic camp wish rough chimney moral trade defy frame sing portion";
+var mnemonic = "general grain impulse chest voice much decorate output saddle analyst pull source";

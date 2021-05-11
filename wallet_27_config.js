@@ -1,1 +1,1 @@
-var mnemonic = "art sponsor fence cheese miracle ask web uncover cool before ozone excite";
+var mnemonic = "fashion help tube session gate universe three myth rubber sun endorse rack";

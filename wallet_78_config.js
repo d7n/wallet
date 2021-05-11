@@ -1,1 +1,1 @@
-var mnemonic = "mansion feel bid scale reform tell neck skull easy service limit electric";
+var mnemonic = "coil draw just tragic either educate busy castle tribe brand virtual oppose";

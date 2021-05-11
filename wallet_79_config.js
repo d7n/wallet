@@ -1,1 +1,1 @@
-var mnemonic = "uncle often cheap hidden rib spread then furnace lab actress property timber";
+var mnemonic = "like pottery range cattle modify kiwi street ginger hundred team lab tribe";

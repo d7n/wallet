@@ -1,1 +1,1 @@
-var mnemonic = "right obtain sad quiz strike delay solution clutch cat engage slight small";
+var mnemonic = "cigar network twin lounge ready force apart pilot tragic holiday target satisfy";

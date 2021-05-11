@@ -1,1 +1,1 @@
-var mnemonic = "raise list hood decade scrub make buyer kid friend report idea lucky";
+var mnemonic = "perfect laptop color loan cause unfold cause ugly melt indicate mouse rely";

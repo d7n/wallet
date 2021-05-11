@@ -1,1 +1,1 @@
-var mnemonic = "craft boring soldier certain dad verb visa word subway lens buzz family";
+var mnemonic = "inspire poverty inherit goddess maple ticket educate fence pass fiber miracle predict";

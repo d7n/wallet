@@ -1,1 +1,1 @@
-var mnemonic = "neck april danger garden mass absurd brand move tiny fury sick view";
+var mnemonic = "guide roast friend unaware plate smart island movie ready coach tool twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "quote crowd multiply morning popular remove ignore ten stamp kiwi level skin";
+var mnemonic = "pledge filter orbit person walk pitch ripple arrest panther mention oven pass";

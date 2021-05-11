@@ -1,1 +1,1 @@
-var mnemonic = "real liar chapter recipe track sister loan equip swarm churn salad raccoon";
+var mnemonic = "doctor comfort aware treat world ghost earth blade elephant include bag intact";

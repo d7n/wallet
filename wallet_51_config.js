@@ -1,1 +1,1 @@
-var mnemonic = "wreck dish impose siren upon hold nuclear crystal mercy entry lobster original";
+var mnemonic = "mansion size cliff grass ensure move series name quiz guess laptop glad";

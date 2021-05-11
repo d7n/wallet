@@ -1,1 +1,1 @@
-var mnemonic = "isolate regular desk category leopard muffin sibling radio major famous normal creek";
+var mnemonic = "few cabbage change fetch lava gasp ancient joy weird follow allow syrup";

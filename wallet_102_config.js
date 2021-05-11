@@ -1,1 +1,1 @@
-var mnemonic = "prevent demand normal bachelor slender moral cotton regular tooth crazy color similar";
+var mnemonic = "wealth witness fortune all blanket chase universe north rack decide blood simple";

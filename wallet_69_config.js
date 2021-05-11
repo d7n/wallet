@@ -1,1 +1,1 @@
-var mnemonic = "method climb moral anxiety pass keen amused lawn athlete crush rough exhaust";
+var mnemonic = "few infant hill code weapon ginger crouch business advance enact hockey knock";

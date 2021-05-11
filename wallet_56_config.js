@@ -1,1 +1,1 @@
-var mnemonic = "upset sudden silent tissue athlete jungle update lady kind green latin wine";
+var mnemonic = "analyst hard relax theme mandate vibrant code please category subway faculty easy";

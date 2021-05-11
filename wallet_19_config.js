@@ -1,1 +1,1 @@
-var mnemonic = "soccer clap hero input walk theme home pipe upgrade loop extra give";
+var mnemonic = "dish hard nut vacuum cannon lazy oxygen sting dress decline announce gravity";

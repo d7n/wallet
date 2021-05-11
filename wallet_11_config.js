@@ -1,1 +1,1 @@
-var mnemonic = "youth current upgrade imitate cricket pact logic aspect require practice infant copper";
+var mnemonic = "parade fever diagram wagon discover course pigeon canvas artwork birth inflict human";

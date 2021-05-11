@@ -1,1 +1,1 @@
-var mnemonic = "soap armed drip joy gate twin high stadium brand exhaust exercise shrimp";
+var mnemonic = "cabin dirt soda slow blur company spray safe ecology heavy miracle climb";

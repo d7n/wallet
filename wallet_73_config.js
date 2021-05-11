@@ -1,1 +1,1 @@
-var mnemonic = "catalog alter merge index seven civil hero sing confirm eagle quote enforce";
+var mnemonic = "siege super arrange input private garage rebel disagree tuition indicate purity snow";

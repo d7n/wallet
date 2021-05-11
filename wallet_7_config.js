@@ -1,1 +1,1 @@
-var mnemonic = "deer glare purchase apple behind license amazing goose few push cable camera";
+var mnemonic = "often journey lock treat panic scale enhance doctor glare crack poverty now";

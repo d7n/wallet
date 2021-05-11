@@ -1,1 +1,1 @@
-var mnemonic = "window angry blade pumpkin warm interest away unit poverty ahead swear erosion";
+var mnemonic = "trouble camp prevent gun rebuild cup boss armor promote execute tower side";

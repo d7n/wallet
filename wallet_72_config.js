@@ -1,1 +1,1 @@
-var mnemonic = "minor nest message black heavy junk supply physical find deer blind attract";
+var mnemonic = "either faith goddess victory recipe click tail pig shallow prevent charge fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "approve emotion various level soda involve yellow faith consider pink click canvas";
+var mnemonic = "during ritual tattoo crumble expire air include blame spike leopard leopard core";

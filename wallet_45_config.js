@@ -1,1 +1,1 @@
-var mnemonic = "civil delay auction explain hedgehog spring miss body disagree cousin trick assist";
+var mnemonic = "upon wait budget unfold claim void later wagon turkey grocery hood bounce";

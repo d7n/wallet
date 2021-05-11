@@ -1,1 +1,1 @@
-var mnemonic = "announce dismiss ship aerobic expire negative rapid shock network quick snake liquid";
+var mnemonic = "provide execute cement angry exact urban slender balance infant hope egg kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "useful bargain tree divide gas tube spell brother wasp prefer imitate swift";
+var mnemonic = "weather giraffe flower random doll birth such ramp enough trash allow soldier";

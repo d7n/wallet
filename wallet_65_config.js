@@ -1,1 +1,1 @@
-var mnemonic = "census warfare average idle solid leaf mom wash asthma kind right salon";
+var mnemonic = "excite audit danger reduce shadow beach discover liberty tiger announce flame bomb";

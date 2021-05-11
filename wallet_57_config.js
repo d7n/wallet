@@ -1,1 +1,1 @@
-var mnemonic = "correct local snake brave armed bike present inflict resemble squirrel lobster raw";
+var mnemonic = "glide team giant eight total bleak rice add magnet symbol judge boost";

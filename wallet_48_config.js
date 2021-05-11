@@ -1,1 +1,1 @@
-var mnemonic = "valid captain typical simple discover rotate civil put jelly can client number";
+var mnemonic = "waste mango always sight street permit rival diagram brush kit churn secret";

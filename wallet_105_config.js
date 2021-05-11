@@ -1,1 +1,1 @@
-var mnemonic = "brown accident install bitter save milk spare poet left slam boss floor";
+var mnemonic = "embrace come asthma boring vacuum hobby prize patient anchor strategy report timber";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket busy city quality shop vicious review waste author margin enroll clutch";
+var mnemonic = "cushion plate polar tobacco imitate valid cart minimum canvas oak craft pool";

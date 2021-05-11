@@ -1,1 +1,1 @@
-var mnemonic = "wagon club divert soon duty defy kingdom invite flower erupt model reject";
+var mnemonic = "person gasp pave stadium face caution disease ignore act review vanish trigger";

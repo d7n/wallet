@@ -1,1 +1,1 @@
-var mnemonic = "crucial scan lesson duck crouch simple click amateur tuition worry autumn badge";
+var mnemonic = "october view into ceiling buyer again ride aerobic dune spot fetch unlock";

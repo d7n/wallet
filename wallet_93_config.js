@@ -1,1 +1,1 @@
-var mnemonic = "farm turn bid reunion embark end music life tumble spread emotion cute";
+var mnemonic = "hurdle appear test gown wide exotic endless swim worry that plug number";

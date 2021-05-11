@@ -1,1 +1,1 @@
-var mnemonic = "thumb carry brown luggage protect atom accident bunker decorate jungle poet inch";
+var mnemonic = "proud topple glue economy inside decline ketchup clog employ skin shoot poverty";

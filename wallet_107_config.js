@@ -1,1 +1,1 @@
-var mnemonic = "arena raven vital fog ahead weird yellow cook wreck fluid try describe";
+var mnemonic = "loud layer bubble open click health ceiling forget actress subject sport elegant";

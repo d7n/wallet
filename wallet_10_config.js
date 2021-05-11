@@ -1,1 +1,1 @@
-var mnemonic = "ripple biology wing net honey arctic excess pulse wisdom jaguar stage achieve";
+var mnemonic = "belt fetch insect snow strategy grocery royal melt fall crystal toy minimum";

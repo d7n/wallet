@@ -1,1 +1,1 @@
-var mnemonic = "hub black able sea biology salmon travel cement under apple sauce pluck";
+var mnemonic = "muscle quarter before globe wet weasel limit click beauty first security talk";

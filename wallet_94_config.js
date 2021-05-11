@@ -1,1 +1,1 @@
-var mnemonic = "control win measure among panther cruel tiny neutral intact source scissors media";
+var mnemonic = "conduct mom urban file bulk federal brave faith swear obey oyster program";

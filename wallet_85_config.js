@@ -1,1 +1,1 @@
-var mnemonic = "example above sound middle sentence wedding panther fork leaf announce violin remain";
+var mnemonic = "lunar second robot kangaroo planet huge error glass pumpkin hybrid echo catch";

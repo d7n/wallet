@@ -1,1 +1,1 @@
-var mnemonic = "citizen wrestle know habit spawn heart math stairs vapor team stuff accuse";
+var mnemonic = "safe envelope bulb mention improve uphold hollow wild diet bag hundred wood";

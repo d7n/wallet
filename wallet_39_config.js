@@ -1,1 +1,1 @@
-var mnemonic = "replace only cream gasp autumn hope crunch tent frost rule climb area";
+var mnemonic = "goose sweet seed dragon select vacuum will dose dolphin pottery ranch suit";

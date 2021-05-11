@@ -1,1 +1,1 @@
-var mnemonic = "power column media violin rough split draw kangaroo car head sunset stick";
+var mnemonic = "canvas private evidence soda actual three online cluster fade bench fresh bus";

@@ -1,1 +1,1 @@
-var mnemonic = "below huge canvas brief fun prefer moment divorce item feature cliff future";
+var mnemonic = "strategy disorder report clog lens start double dutch mistake harvest immense code";

@@ -1,1 +1,1 @@
-var mnemonic = "dash slim ginger cigar movie cream tumble near soccer raw dilemma minor";
+var mnemonic = "napkin arrest mail vendor prefer minute side few cruise process kit skull";

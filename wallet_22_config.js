@@ -1,1 +1,1 @@
-var mnemonic = "pass video response robot milk key broken space frog else enjoy great";
+var mnemonic = "canal analyst arrange switch problem layer very ski task address dizzy sibling";

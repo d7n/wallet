@@ -1,1 +1,1 @@
-var mnemonic = "scatter seven fly rail giggle require price fashion also tiger energy sheriff";
+var mnemonic = "empty focus borrow save stumble pond nurse gun disorder clutch barrel asthma";

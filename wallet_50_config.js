@@ -1,1 +1,1 @@
-var mnemonic = "deal key begin exile subway notable patch core flush found economy exotic";
+var mnemonic = "youth material master river excuse real enable sentence where wrestle mosquito basic";

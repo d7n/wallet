@@ -1,1 +1,1 @@
-var mnemonic = "steak daughter devote tag chronic million car square smoke orient reform cover";
+var mnemonic = "napkin ring truth juice fame artwork guess demand say math entire broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "enable essence tube slender voice drop interest taste minimum loop click sure";
+var mnemonic = "patch pledge abuse wrestle hour caught scare sadness rack grab tape embark";

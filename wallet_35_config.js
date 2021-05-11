@@ -1,1 +1,1 @@
-var mnemonic = "fox diamond dolphin ugly net ticket worth distance upon whisper inspire glide";
+var mnemonic = "spoon direct grant ugly used universe brush farm drama divide item crime";
