@@ -1,1 +1,1 @@
-var mnemonic = "zoo debris fee trust unable sure hotel require prefer tool appear grow";
+var mnemonic = "grunt moral expire balance craft marine super curve skate flip host hurry";

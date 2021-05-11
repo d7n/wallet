@@ -1,1 +1,1 @@
-var mnemonic = "three toss vicious then vehicle spider club museum neglect alpha order property";
+var mnemonic = "harvest hat breeze six faculty punch armed inspire embody lake cigar judge";

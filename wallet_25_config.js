@@ -1,1 +1,1 @@
-var mnemonic = "will carry wreck excuse search sword gauge venue lab pact blouse skate";
+var mnemonic = "slight magic stairs cart fit embrace water chair another loop crowd hill";

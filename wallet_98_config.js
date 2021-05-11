@@ -1,1 +1,1 @@
-var mnemonic = "coffee claw lens pledge frame ugly amazing step stock turkey thing paddle";
+var mnemonic = "sponsor monitor upgrade simple remind draft convince pride never canal detect mixed";

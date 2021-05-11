@@ -1,1 +1,1 @@
-var mnemonic = "month task shed flame time fever kiwi mimic erode reduce infant choice";
+var mnemonic = "child chaos drill guard panther pyramid panel response other ozone wide wonder";

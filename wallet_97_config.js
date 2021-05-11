@@ -1,1 +1,1 @@
-var mnemonic = "pool alcohol boring penalty repair unhappy bunker hazard certain increase vessel hood";
+var mnemonic = "coconut manual original hole steak loud report expand prevent pizza sock latin";

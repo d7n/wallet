@@ -1,1 +1,1 @@
-var mnemonic = "lava online endless scrub danger turtle sister false hen symptom admit trick";
+var mnemonic = "stage proud risk joy brisk coin dinosaur harsh online visa lamp stand";

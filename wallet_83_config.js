@@ -1,1 +1,1 @@
-var mnemonic = "seven machine swap monkey that spread liberty sample flip among hotel shoe";
+var mnemonic = "spin attack sound bag giggle series cancel cool left source avoid mosquito";

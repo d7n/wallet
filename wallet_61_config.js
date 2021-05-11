@@ -1,1 +1,1 @@
-var mnemonic = "child mechanic require cat drastic coconut duck dolphin joy tackle warrior actress";
+var mnemonic = "lamp oak kitchen orchard select earn margin wash eye saddle meat surge";

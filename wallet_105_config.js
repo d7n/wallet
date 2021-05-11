@@ -1,1 +1,1 @@
-var mnemonic = "garden become shiver amused ramp labor match once pulp tribe basket apple";
+var mnemonic = "property wait hurry congress rely buddy census merry maid thank buzz front";

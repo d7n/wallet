@@ -1,1 +1,1 @@
-var mnemonic = "vehicle asset error lunar midnight effort plug obscure zebra foot insect wisdom";
+var mnemonic = "stairs soldier banner window jaguar enter anchor story avocado search wink property";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate between city boost cable trend south rifle title year double pioneer";
+var mnemonic = "priority forward gaze blade key easy cliff hen rule announce parade nurse";

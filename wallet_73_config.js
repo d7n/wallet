@@ -1,1 +1,1 @@
-var mnemonic = "ethics sustain shoot behind rural fresh merit harvest music episode process argue";
+var mnemonic = "disagree limit pave kitchen limb fossil you leg width kidney identify eagle";

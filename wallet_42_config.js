@@ -1,1 +1,1 @@
-var mnemonic = "glue flower viable pen company feature burst bracket arrive dragon risk dune";
+var mnemonic = "silver leopard potato fish system ancient cancel horror similar enable doctor airport";

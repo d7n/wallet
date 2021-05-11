@@ -1,1 +1,1 @@
-var mnemonic = "miracle core mass close gorilla remain light window notable anchor disease deny";
+var mnemonic = "salon submit adult need refuse physical input puzzle usual layer budget glory";

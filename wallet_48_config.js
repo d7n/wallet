@@ -1,1 +1,1 @@
-var mnemonic = "strike myth bounce dizzy awake pretty ten palace cannon cluster cactus digital";
+var mnemonic = "lawn today catch claw symptom march oyster film woman measure idle galaxy";

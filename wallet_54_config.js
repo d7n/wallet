@@ -1,1 +1,1 @@
-var mnemonic = "window accident brick kangaroo oppose lady pepper brain forget blame offer advice";
+var mnemonic = "minor arm occur risk pet arrange quiz crash any ostrich draw fabric";

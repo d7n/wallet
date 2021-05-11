@@ -1,1 +1,1 @@
-var mnemonic = "input local nominee sense turn riot hockey member cannon track first govern";
+var mnemonic = "dream ride august regular wall grid feel vague setup empower quantum follow";

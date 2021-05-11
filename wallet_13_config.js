@@ -1,1 +1,1 @@
-var mnemonic = "cable donkey gold improve puppy debris girl survey capital miracle ridge hunt";
+var mnemonic = "fiber cost pink general inquiry desert churn column elite figure lecture peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "garden obscure crew tilt walnut shallow adult kiwi lunar prize sight plate";
+var mnemonic = "carbon hello leg reduce boat draft real barely economy manual arm smooth";

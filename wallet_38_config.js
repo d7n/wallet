@@ -1,1 +1,1 @@
-var mnemonic = "ring mutual question pink square thing trap believe fancy consider chimney shadow";
+var mnemonic = "alien document result oppose face swift outside grunt account hero despair bitter";

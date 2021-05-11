@@ -1,1 +1,1 @@
-var mnemonic = "blanket illegal business deer pigeon evoke metal gift raw melt cart poet";
+var mnemonic = "cause inner family rely clinic advice design pulse news rice spider school";

@@ -1,1 +1,1 @@
-var mnemonic = "super fine ready relief fox lens catalog ecology service become trip paper";
+var mnemonic = "salon right pride cheese soft bomb dash winter ginger sight height hockey";

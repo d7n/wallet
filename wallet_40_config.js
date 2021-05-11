@@ -1,1 +1,1 @@
-var mnemonic = "path merge situate expire raise curtain august brain buffalo predict box cheese";
+var mnemonic = "achieve meat entire spare brand leg surface trade there friend hungry leaf";

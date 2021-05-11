@@ -1,1 +1,1 @@
-var mnemonic = "reunion betray coconut pledge hungry spider patch capable forest phone you fruit";
+var mnemonic = "arena skate tube cousin have three throw century note brass drink output";

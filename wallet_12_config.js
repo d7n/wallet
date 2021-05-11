@@ -1,1 +1,1 @@
-var mnemonic = "chaos forget elbow demise room jump someone target burden cluster fun merit";
+var mnemonic = "cloud verify share material balance wealth cash police uncover expect verb flee";

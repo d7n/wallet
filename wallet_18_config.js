@@ -1,1 +1,1 @@
-var mnemonic = "run crew word fat humble hero situate arctic walk trumpet buffalo tortoise";
+var mnemonic = "since chronic wasp birth high awesome fold tackle exotic boring spoil endless";

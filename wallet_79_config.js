@@ -1,1 +1,1 @@
-var mnemonic = "example finger language cross elevator basket weird upgrade trade social use camera";
+var mnemonic = "cigar safe sell truck member scorpion tennis cycle shrug evoke furnace clever";

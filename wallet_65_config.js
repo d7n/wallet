@@ -1,1 +1,1 @@
-var mnemonic = "rack runway bridge shoulder frost deal reject couple reward gauge leave region";
+var mnemonic = "angry meat emerge next engage can daughter picnic admit degree repair better";

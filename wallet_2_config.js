@@ -1,1 +1,1 @@
-var mnemonic = "pistol express dice husband shed joy swamp slush song slush absorb spread";
+var mnemonic = "zebra tattoo century mesh song ignore wonder chat wall offer isolate easily";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh gift inquiry ask mule reopen army control original sun secret abstract";
+var mnemonic = "addict laptop dice govern old tragic celery syrup sunny hope play year";

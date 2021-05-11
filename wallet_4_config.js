@@ -1,1 +1,1 @@
-var mnemonic = "assist prison live broken sense curious paper drive burger brand eager gravity";
+var mnemonic = "innocent absurd oxygen squeeze rent soft ribbon cover trim employ habit endorse";

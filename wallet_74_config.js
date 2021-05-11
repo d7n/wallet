@@ -1,1 +1,1 @@
-var mnemonic = "twice grab worry initial bonus session fiscal heavy forest all grit oven";
+var mnemonic = "increase never movie taxi caught range model wise finger eyebrow example corn";

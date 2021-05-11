@@ -1,1 +1,1 @@
-var mnemonic = "habit ghost vacuum media polar diagram forum hamster destroy fancy head wet";
+var mnemonic = "vast sport alien blood method connect onion outside arrest half bid horn";

@@ -1,1 +1,1 @@
-var mnemonic = "slam lamp damp ahead muscle note favorite index top belt forest exile";
+var mnemonic = "chase twenty ripple wolf relax scrub crystal village burger nature swallow frog";

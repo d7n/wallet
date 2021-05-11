@@ -1,1 +1,1 @@
-var mnemonic = "onion charge obscure mansion utility own border public skin myth mobile swallow";
+var mnemonic = "pledge trap denial release ball scissors soldier eternal hair include ecology tag";

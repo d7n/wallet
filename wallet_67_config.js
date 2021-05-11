@@ -1,1 +1,1 @@
-var mnemonic = "middle tube baby company claim people alarm extend order unhappy siren wave";
+var mnemonic = "time omit rebuild pipe fall marine wink remove eagle glide wage evil";

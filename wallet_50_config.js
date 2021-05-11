@@ -1,1 +1,1 @@
-var mnemonic = "tumble toast unveil margin equal diamond gain number lunch index spread sorry";
+var mnemonic = "shock dilemma sorry off athlete suspect wink caught fine nuclear drink snow";

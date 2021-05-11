@@ -1,1 +1,1 @@
-var mnemonic = "head local wink trap reason scissors boring unfold chuckle news excite club";
+var mnemonic = "nation blossom noise cute decline castle fix sense use assault clutch supply";

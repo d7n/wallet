@@ -1,1 +1,1 @@
-var mnemonic = "alarm thought slow fluid bid pudding harbor anxiety sea rigid cable sort";
+var mnemonic = "cook guard security humor gas meat damage credit equal six cave motor";

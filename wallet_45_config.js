@@ -1,1 +1,1 @@
-var mnemonic = "kidney cigar close hat amazing gaze panda refuse claim build consider mix";
+var mnemonic = "gain visa uncover electric anger escape dawn space sight evil path cage";

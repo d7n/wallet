@@ -1,1 +1,1 @@
-var mnemonic = "foster ritual flavor quit worth reveal upset speed swap drive galaxy radio";
+var mnemonic = "physical another issue diamond combine steel stay panda toddler venue okay hero";

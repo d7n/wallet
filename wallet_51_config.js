@@ -1,1 +1,1 @@
-var mnemonic = "electric alter cargo ethics teach open outdoor combine orphan grocery body fan";
+var mnemonic = "busy cabin second length barrel tortoise diesel eagle wedding thrive have summer";

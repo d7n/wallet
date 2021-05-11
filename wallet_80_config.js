@@ -1,1 +1,1 @@
-var mnemonic = "tail clap cat palace cheese hero turn ghost tenant thrive flip daring";
+var mnemonic = "tongue image disagree spice sorry electric vicious flock night cupboard worth loyal";

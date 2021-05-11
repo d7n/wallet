@@ -1,1 +1,1 @@
-var mnemonic = "split buffalo hurdle owner huge ice cancel unhappy join bottom used pause";
+var mnemonic = "intact detect fury girl hold wood dinner dinner pear party use castle";

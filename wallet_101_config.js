@@ -1,1 +1,1 @@
-var mnemonic = "exchange rare aunt ordinary debate boss elevator figure stuff define horse force";
+var mnemonic = "stove scheme welcome arrange twice suggest glass job pink term ship kit";

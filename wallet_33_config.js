@@ -1,1 +1,1 @@
-var mnemonic = "smooth work now pyramid humble warm level today tail jump bunker lawn";
+var mnemonic = "recall carbon oven aisle route tired nature wet crouch marriage salute parrot";

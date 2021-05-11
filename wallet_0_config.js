@@ -1,1 +1,1 @@
-var mnemonic = "wedding ostrich core trim naive rather law filter reveal inch parade any";
+var mnemonic = "fish hub please put vast situate awake remain galaxy easily west wash";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty discover shoulder smart avocado useless require menu song media mutual organ";
+var mnemonic = "disease script rocket output success brick where miss wrestle maid reform manage";

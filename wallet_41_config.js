@@ -1,1 +1,1 @@
-var mnemonic = "kitchen bunker disagree setup stereo dash title onion clap roof chair estate";
+var mnemonic = "country snow liar affair erase ramp upgrade window logic cruise excuse place";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest amount hurt ahead tuition menu egg gift video century salad awkward";
+var mnemonic = "myth very radar museum stand ripple fan involve two inherit confirm brief";

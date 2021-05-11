@@ -1,1 +1,1 @@
-var mnemonic = "unknown harvest culture ribbon hold siege snap size chase valley couple piano";
+var mnemonic = "hood pact talent ritual neutral daughter robot wage friend slice churn olympic";

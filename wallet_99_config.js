@@ -1,1 +1,1 @@
-var mnemonic = "exit spirit believe seminar pair series burden tenant august put nothing survey";
+var mnemonic = "live news cost room junior lady spice knife follow virtual notable adjust";

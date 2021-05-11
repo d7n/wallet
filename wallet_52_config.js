@@ -1,1 +1,1 @@
-var mnemonic = "tornado use carbon way sausage broken lens attitude keep miracle grocery broccoli";
+var mnemonic = "purpose february meadow say sail unable engage best orange lava stuff armed";

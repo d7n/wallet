@@ -1,1 +1,1 @@
-var mnemonic = "pulp hurt correct icon sphere rival attitude insect amused begin rhythm skin";
+var mnemonic = "notable hat make execute vault pet gasp jacket pyramid baby spray credit";

@@ -1,1 +1,1 @@
-var mnemonic = "loan person dismiss bundle detail despair organ flash fatal snap taste nurse";
+var mnemonic = "rice cash denial enhance possible quick draft return trend thing royal cruise";

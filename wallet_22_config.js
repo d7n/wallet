@@ -1,1 +1,1 @@
-var mnemonic = "addict expire evolve acoustic ivory cute boy pony exhibit smoke message project";
+var mnemonic = "horn clock someone close adapt glide budget estate cotton coconut impose silent";

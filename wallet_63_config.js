@@ -1,1 +1,1 @@
-var mnemonic = "bind cheese kid favorite edge text decorate buyer above veteran kick duty";
+var mnemonic = "digital figure health despair effort phone lemon cube fly snack weapon letter";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster ranch consider melt stool orphan betray dinosaur funny boss wreck green";
+var mnemonic = "magnet glad search tackle cargo wild priority spin romance settle iron border";

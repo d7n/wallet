@@ -1,1 +1,1 @@
-var mnemonic = "frown goat put improve wish skill cigar stone screen gossip original bleak";
+var mnemonic = "inform fashion upset weather forest stand drink father lumber prosper evolve mystery";

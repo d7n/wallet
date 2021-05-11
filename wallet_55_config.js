@@ -1,1 +1,1 @@
-var mnemonic = "custom word gather liberty trouble weapon biology click ivory empower diet walk";
+var mnemonic = "scan pottery special flock beef video assume other nation car payment abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "wait food butter among knee radio crime clip setup consider pluck connect";
+var mnemonic = "audit marine agent input hand child valid oak any other lunch mean";

@@ -1,1 +1,1 @@
-var mnemonic = "minute doctor visa museum gap copper critic sleep nice gadget fame rug";
+var mnemonic = "inform ladder wolf grain state birth spare volume scan steak resource betray";

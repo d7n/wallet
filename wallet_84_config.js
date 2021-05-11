@@ -1,1 +1,1 @@
-var mnemonic = "age milk cry humble photo fish plate vital conduct install hand cube";
+var mnemonic = "sauce hamster foam deliver puzzle tower gown capable bone ugly disagree card";

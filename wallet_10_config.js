@@ -1,1 +1,1 @@
-var mnemonic = "wise mandate prosper crazy predict kiwi bargain expand exhaust culture space cradle";
+var mnemonic = "flavor prefer excuse tumble labor hedgehog flash disagree clap salad pattern deal";

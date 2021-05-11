@@ -1,1 +1,1 @@
-var mnemonic = "siege cannon truck inmate case alter daughter glide almost copper endorse alcohol";
+var mnemonic = "toward visit antenna come dust fame notice tattoo infant glide fee power";

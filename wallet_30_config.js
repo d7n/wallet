@@ -1,1 +1,1 @@
-var mnemonic = "pottery cream across truly close expect law supreme neck surprise plastic pyramid";
+var mnemonic = "sibling movie cash badge tip vacant negative fly rose spread piano gloom";

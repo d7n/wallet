@@ -1,1 +1,1 @@
-var mnemonic = "wall follow park giggle useful candy health pull raccoon nerve faint dawn";
+var mnemonic = "acoustic spoon mix tackle couch boring blame sea alone proud neck swim";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos hold squeeze tired magnet island leader weasel urban silent ostrich resist";
+var mnemonic = "road need scheme father shuffle muscle jewel slow between average eye rather";

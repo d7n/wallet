@@ -1,1 +1,1 @@
-var mnemonic = "sing library onion away crane flight destroy rural absent stick bind reunion";
+var mnemonic = "fog gold team hint chase exercise beauty stairs horse color beyond basket";

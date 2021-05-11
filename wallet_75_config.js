@@ -1,1 +1,1 @@
-var mnemonic = "muffin auction eight pioneer silly proof sort bag obtain general clerk hello";
+var mnemonic = "clerk mercy ladder roast ramp resist taste spider screen length frozen sign";

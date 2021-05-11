@@ -1,1 +1,1 @@
-var mnemonic = "soap toast kit vehicle shuffle pottery that glue enrich judge twist fantasy";
+var mnemonic = "mouse biology trend office fossil danger wisdom couple rabbit blossom coconut concert";

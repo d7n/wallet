@@ -1,1 +1,1 @@
-var mnemonic = "fan style crime load woman grunt rebuild witness shed shoot borrow nose";
+var mnemonic = "must forget search silk butter aisle bright media cream bargain fiscal shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver tragic security dune outer chicken train reduce trial error mercy rubber";
+var mnemonic = "skirt merge verify bike still rose settle funny gorilla office fiscal stove";

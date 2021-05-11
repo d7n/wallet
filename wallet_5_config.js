@@ -1,1 +1,1 @@
-var mnemonic = "hybrid permit faith claim poet grace collect diagram action drink town pumpkin";
+var mnemonic = "delay into exercise tag jungle hungry soccer praise cool proof horror enough";

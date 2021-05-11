@@ -1,1 +1,1 @@
-var mnemonic = "blind friend sustain bring hungry eye squeeze meadow raw electric save inquiry";
+var mnemonic = "brisk you deputy rib empty proof thought track canal hobby version object";

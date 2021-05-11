@@ -1,1 +1,1 @@
-var mnemonic = "stumble share tiny purchase senior total tuna airport lunar blood actress lobster";
+var mnemonic = "dentist dream provide flip miss achieve input simple pitch misery bag broken";

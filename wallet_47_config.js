@@ -1,1 +1,1 @@
-var mnemonic = "ozone pepper worry rare identify convince struggle trouble change gaze fury language";
+var mnemonic = "uncover lock hover popular mystery staff trade victory people click borrow valve";

@@ -1,1 +1,1 @@
-var mnemonic = "orient found flame material business social valid cool vault shock awesome involve";
+var mnemonic = "story wing tobacco little buyer pupil tube rapid warrior later unaware ramp";

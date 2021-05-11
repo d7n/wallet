@@ -1,1 +1,1 @@
-var mnemonic = "purse fragile public plug athlete once coach service frequent battle grape frame";
+var mnemonic = "reunion waste alpha syrup boat planet cycle text gorilla prepare thunder across";

@@ -1,1 +1,1 @@
-var mnemonic = "donor input guard settle scare test note siege resemble warm remember trim";
+var mnemonic = "rent depth reform cube upgrade rose under width improve vocal situate sibling";

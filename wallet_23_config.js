@@ -1,1 +1,1 @@
-var mnemonic = "truck rabbit wrist crowd genre cluster review small pause dizzy grant purchase";
+var mnemonic = "survey use grief tragic slide equip punch snack bronze bar patient all";

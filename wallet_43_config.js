@@ -1,1 +1,1 @@
-var mnemonic = "leopard judge quantum stay basket business whisper civil glide match level wet";
+var mnemonic = "drip mention arctic chicken inform boil hope across tip turkey waste push";

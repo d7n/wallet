@@ -1,1 +1,1 @@
-var mnemonic = "nominee define shadow penalty cause awful fringe zero spread jelly gentle pen";
+var mnemonic = "dinosaur kidney trim jelly noodle head enforce spatial wife clap grab warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "risk online liquid beach need easily cook despair opera monitor monkey huge";
+var mnemonic = "lock warfare bubble cycle fan moon toward retreat scissors void hero jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "high cost witness stairs follow space solid first curve sunny raise three";
+var mnemonic = "addict bag apple brain laundry seed census private cry castle manage car";

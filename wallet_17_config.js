@@ -1,1 +1,1 @@
-var mnemonic = "profit mimic churn street square sheriff profit surge talent lion protect visit";
+var mnemonic = "trip fancy fiction coast metal junk quantum spawn casino pelican twenty flight";

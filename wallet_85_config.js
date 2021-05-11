@@ -1,1 +1,1 @@
-var mnemonic = "gift woman position describe brand project still alcohol rubber rude opera issue";
+var mnemonic = "unlock scrap pioneer jaguar file copper maple example fox soda success soon";

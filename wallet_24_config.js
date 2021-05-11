@@ -1,1 +1,1 @@
-var mnemonic = "wonder uncover slush faint fragile trim lock civil neck volume dirt tooth";
+var mnemonic = "tired wood grid hand island like open army label allow cargo economy";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual outdoor appear obtain insect window faint kitten affair elite nuclear short";
+var mnemonic = "proof flee panda fantasy alarm cluster sudden salad spray long hint desert";

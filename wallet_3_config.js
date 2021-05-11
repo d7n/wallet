@@ -1,1 +1,1 @@
-var mnemonic = "ability ugly ship camp online sure lift invest simple corn weather release";
+var mnemonic = "alone pluck custom where tone jazz donate mom zone paddle habit liquid";

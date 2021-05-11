@@ -1,1 +1,1 @@
-var mnemonic = "final museum fee draft merit stadium wave sense champion side organ hockey";
+var mnemonic = "rich square meat idea open radio giant cabin panther original grief tray";

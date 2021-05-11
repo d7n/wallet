@@ -1,1 +1,1 @@
-var mnemonic = "prize season charge goddess impulse sing refuse rack smart main near jewel";
+var mnemonic = "icon link potato rhythm reward cereal expire celery arrive arrow couple use";

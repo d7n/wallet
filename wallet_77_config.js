@@ -1,1 +1,1 @@
-var mnemonic = "north hotel horn scrub life nuclear subject confirm sport flash either school";
+var mnemonic = "clerk hope receive foil web exile ensure coffee crucial feed anxiety move";

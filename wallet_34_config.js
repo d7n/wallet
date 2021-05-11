@@ -1,1 +1,1 @@
-var mnemonic = "minute leaf climb coyote smart radio wait misery shine click west trust";
+var mnemonic = "dream light talk critic couch earn prize toe wrap cricket giggle time";

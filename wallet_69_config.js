@@ -1,1 +1,1 @@
-var mnemonic = "water dose clarify false flip few merge acoustic accident worth involve evoke";
+var mnemonic = "zebra sock pact pigeon govern dizzy solution wide pact skirt genius daring";
