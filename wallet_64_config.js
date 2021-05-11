@@ -1,1 +1,1 @@
-var mnemonic = "acoustic capital glimpse patch lobster hollow creek soldier cry lunar decade camp";
+var mnemonic = "syrup abstract change shoe close state broken senior science yellow cube autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "thing afford velvet air december sock inner bike already pigeon key payment";
+var mnemonic = "average fall extra daughter veteran rocket run craft meat dog path goat";

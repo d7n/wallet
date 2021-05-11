@@ -1,1 +1,1 @@
-var mnemonic = "street jacket egg document various wealth skate robust solution meat april divide";
+var mnemonic = "slender play baby interest act child spatial project love unit because awful";

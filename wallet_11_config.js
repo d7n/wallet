@@ -1,1 +1,1 @@
-var mnemonic = "vibrant arrive cement essence rocket tennis upper perfect patrol material rhythm arrange";
+var mnemonic = "asset prize pear spice swap scatter shiver market give sting gadget palace";

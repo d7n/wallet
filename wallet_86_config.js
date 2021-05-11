@@ -1,1 +1,1 @@
-var mnemonic = "box patient digital clinic perfect smart monster saddle dad great nominee this";
+var mnemonic = "advance dog uniform treat mask tunnel slogan east poverty cake patient special";

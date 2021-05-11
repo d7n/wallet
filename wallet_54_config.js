@@ -1,1 +1,1 @@
-var mnemonic = "salon bind under save neglect couch blush artefact sample allow ketchup common";
+var mnemonic = "boat blade edge aim orbit license diesel student live seed orbit prepare";

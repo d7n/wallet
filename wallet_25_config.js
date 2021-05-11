@@ -1,1 +1,1 @@
-var mnemonic = "mosquito ripple renew half pride symbol raccoon fitness strong learn neglect satoshi";
+var mnemonic = "deposit tank physical churn asset diet hawk expire august common rib deliver";

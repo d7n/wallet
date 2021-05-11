@@ -1,1 +1,1 @@
-var mnemonic = "boy try pig record favorite erupt tooth wolf member saddle between island";
+var mnemonic = "extend usage civil pond hello crisp tuna can cinnamon brick picnic maid";

@@ -1,1 +1,1 @@
-var mnemonic = "firm picture join fan quiz misery wild liquid project wife balance cloud";
+var mnemonic = "powder child resource tell maze hybrid bubble people slim labor harvest stay";

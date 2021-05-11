@@ -1,1 +1,1 @@
-var mnemonic = "divide real disease shadow barrel nominee apology lift fire private very vibrant";
+var mnemonic = "twist story peanut hurdle police frost palm table melt river torch equal";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit company feel benefit initial avoid turn orange paper lion move rate";
+var mnemonic = "lunar fix erosion coach excite people bottom local connect silver female lab";

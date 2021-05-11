@@ -1,1 +1,1 @@
-var mnemonic = "either kite leopard illegal october burst power tool decrease ceiling unfair actual";
+var mnemonic = "soda board vapor mother flight army cargo wagon garage path hobby leave";

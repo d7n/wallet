@@ -1,1 +1,1 @@
-var mnemonic = "auction cover ugly avoid nest today post animal diary lazy rookie velvet";
+var mnemonic = "burden liar rice stereo drip milk visa army humor soon win drift";

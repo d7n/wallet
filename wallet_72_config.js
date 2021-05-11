@@ -1,1 +1,1 @@
-var mnemonic = "wine forget romance under remove weather move laugh beauty trash churn forward";
+var mnemonic = "you invest device ribbon shy frozen begin replace ranch surge lab action";

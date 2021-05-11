@@ -1,1 +1,1 @@
-var mnemonic = "post fitness drip garage key tilt lab hospital vital wait stomach code";
+var mnemonic = "affair increase scrub kiss reunion dentist enforce love ahead exchange tail buffalo";

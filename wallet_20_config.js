@@ -1,1 +1,1 @@
-var mnemonic = "soft modify matter episode twenty cancel bone child lamp quality tool used";
+var mnemonic = "clock fire amused alcohol absurd coach village decorate ice power assist cram";

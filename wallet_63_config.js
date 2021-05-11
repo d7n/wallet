@@ -1,1 +1,1 @@
-var mnemonic = "road slide ridge amazing leaf puzzle jelly secret burden treat toss brave";
+var mnemonic = "ice permit female trade upset grass drum size elegant charge wine appear";

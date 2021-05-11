@@ -1,1 +1,1 @@
-var mnemonic = "crouch order service bring fragile gravity earth banana snow cloth fat hammer";
+var mnemonic = "analyst trade hurry cluster pupil iron screen surface banana permit velvet aim";

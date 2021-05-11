@@ -1,1 +1,1 @@
-var mnemonic = "journey prize depth behind mountain liar isolate game trick task visit urge";
+var mnemonic = "action together total trim essay beach defense assist curious great odor review";

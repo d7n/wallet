@@ -1,1 +1,1 @@
-var mnemonic = "negative decide double control awesome winter blanket grant estate flower advice length";
+var mnemonic = "need remind vintage lunch equip away fatigue clinic pattern woman spoil ball";

@@ -1,1 +1,1 @@
-var mnemonic = "boring foot forest fault diamond clinic note history debate fatigue sentence hockey";
+var mnemonic = "when general message finger slush bubble snake seed nature crane spell file";

@@ -1,1 +1,1 @@
-var mnemonic = "once eight craft improve damage quarter diamond own sister magic lawsuit pledge";
+var mnemonic = "palace horn lift okay fence vicious ankle knock across say artefact jealous";

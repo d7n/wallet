@@ -1,1 +1,1 @@
-var mnemonic = "senior cause wife grunt humor gate happy repair symptom earn toddler dream";
+var mnemonic = "fog prefer speak stuff wreck forward hockey image pill ladder exclude bike";

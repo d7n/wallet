@@ -1,1 +1,1 @@
-var mnemonic = "brush record assault divide meat surround rally patch vacant stable federal aspect";
+var mnemonic = "shaft situate talent glass rookie stadium electric crisp hollow fat lake faint";

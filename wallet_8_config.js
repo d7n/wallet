@@ -1,1 +1,1 @@
-var mnemonic = "assist pass sad eight short gloom pilot dizzy sunny half meat video";
+var mnemonic = "height define seminar company oven reveal pledge float simple census clown axis";

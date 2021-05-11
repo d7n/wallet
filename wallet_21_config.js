@@ -1,1 +1,1 @@
-var mnemonic = "swim learn cheap oyster almost above parade inquiry husband seat shock quarter";
+var mnemonic = "glass rural knock clay scout uncover prepare topic destroy garden jewel hurdle";

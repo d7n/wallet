@@ -1,1 +1,1 @@
-var mnemonic = "tray dad normal suffer sail spike tiger charge task easy garage flash";
+var mnemonic = "damp bottom dance endless orange spend blood trigger leopard damp address mail";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster verb pyramid glide steak cruise wisdom security only involve human earn";
+var mnemonic = "warfare mask smile mean carpet pottery supreme danger skin festival face click";

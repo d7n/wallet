@@ -1,1 +1,1 @@
-var mnemonic = "kind casino main lava unusual vast muffin hint annual essay bacon bleak";
+var mnemonic = "diesel moon provide fever purse cart goat stay runway unfold surge rail";

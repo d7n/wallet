@@ -1,1 +1,1 @@
-var mnemonic = "disagree state height debate equal canyon useful giant theme chunk speak club";
+var mnemonic = "impulse sure drive night common orchard yellow arrow glare erosion become choose";

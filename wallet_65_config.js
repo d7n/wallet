@@ -1,1 +1,1 @@
-var mnemonic = "tower believe spin stand table cloth script mansion black replace damage tiny";
+var mnemonic = "goose muffin detect grape diet bounce copper usual target farm arena dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "way faith hockey limb dose earn rule genre army brother race predict";
+var mnemonic = "legal foot faculty install quit fog blur copper advice diesel impact furnace";

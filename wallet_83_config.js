@@ -1,1 +1,1 @@
-var mnemonic = "film extra need trick plunge hockey quick pumpkin demand super unique feed";
+var mnemonic = "life gate check source trophy diary purse diagram barrel lake cigar prepare";

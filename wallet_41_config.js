@@ -1,1 +1,1 @@
-var mnemonic = "property hidden orient village close enter index jazz major neither gym junior";
+var mnemonic = "advice cost cave segment pattern quality alley sketch kiwi capable tornado swallow";

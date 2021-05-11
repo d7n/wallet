@@ -1,1 +1,1 @@
-var mnemonic = "blue exotic deal gown bicycle fine strategy meat chronic clay motion engine";
+var mnemonic = "window sight kit pluck love cloud tribe laptop team fancy now ozone";

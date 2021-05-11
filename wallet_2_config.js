@@ -1,1 +1,1 @@
-var mnemonic = "tape cruise timber flock sphere ten script much impact drip volcano gossip";
+var mnemonic = "upper praise lumber vacant rough catch where bomb chapter conduct asthma dial";

@@ -1,1 +1,1 @@
-var mnemonic = "split receive ostrich sunset select renew radio vivid muscle average salute slight";
+var mnemonic = "road never despair remember mystery square render siege moral faculty tenant return";

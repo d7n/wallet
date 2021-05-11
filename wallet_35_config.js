@@ -1,1 +1,1 @@
-var mnemonic = "vibrant bunker pelican clever razor duck tackle virus use token bunker mushroom";
+var mnemonic = "hip circle tired tower buyer artwork able first dish lake paddle cattle";

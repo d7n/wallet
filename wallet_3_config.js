@@ -1,1 +1,1 @@
-var mnemonic = "chief crowd soup original glow apology ask enact dignity now curious shadow";
+var mnemonic = "lock shallow hen inch involve first galaxy under stuff circle duty artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "rug grab position tag space devote skin phone robust stem rail toast";
+var mnemonic = "craft evolve undo country someone quality wink speed april magnet what ski";

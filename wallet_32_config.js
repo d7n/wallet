@@ -1,1 +1,1 @@
-var mnemonic = "lens face dismiss erosion mansion first nuclear volcano legal random flock kidney";
+var mnemonic = "census face cage deputy you glove nut service holiday youth cute deer";

@@ -1,1 +1,1 @@
-var mnemonic = "accident answer thing alien cannon two pudding stone energy north wagon judge";
+var mnemonic = "room cricket skin will ketchup solid album humor math sugar future stock";

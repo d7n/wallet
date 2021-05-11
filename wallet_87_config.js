@@ -1,1 +1,1 @@
-var mnemonic = "armor woman humble people above acid explain kiwi average matrix buyer panda";
+var mnemonic = "mosquito island pupil order rocket birth inflict erase antique admit off arrow";

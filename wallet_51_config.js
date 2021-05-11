@@ -1,1 +1,1 @@
-var mnemonic = "always lobster off achieve endorse smart transfer post exhaust script wool coil";
+var mnemonic = "bundle tired odor journey private speed envelope please junior auto coyote harbor";

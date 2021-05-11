@@ -1,1 +1,1 @@
-var mnemonic = "small journey cave rug length donkey eagle only wisdom reopen coach olive";
+var mnemonic = "lens web setup grant skirt someone kitten there feed pass pulp horror";

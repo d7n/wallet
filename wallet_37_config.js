@@ -1,1 +1,1 @@
-var mnemonic = "poet tackle arctic mail train inquiry giggle actor moral volume grit rapid";
+var mnemonic = "magic grit state reward put embody build rely cereal profit dove zoo";

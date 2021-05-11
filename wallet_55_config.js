@@ -1,1 +1,1 @@
-var mnemonic = "fashion speed gospel music science iron such charge join fetch hello force";
+var mnemonic = "always glide vague number middle lonely oil phrase width earth motor wing";

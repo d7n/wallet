@@ -1,1 +1,1 @@
-var mnemonic = "crisp purpose dish rigid mom observe march donate build diary attend swarm";
+var mnemonic = "minimum alley height wheat police kind common zebra gospel fetch erupt asthma";

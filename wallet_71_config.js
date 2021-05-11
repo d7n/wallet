@@ -1,1 +1,1 @@
-var mnemonic = "actress hunt hello evidence grid giraffe control photo program raccoon fatigue rotate";
+var mnemonic = "capable visit please above shaft embrace sauce rib business bind quality mystery";

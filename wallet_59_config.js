@@ -1,1 +1,1 @@
-var mnemonic = "midnight step goddess column scrap ski weekend garage floor sad project spoon";
+var mnemonic = "inflict valley live family magnet search develop follow spawn blue monkey brave";

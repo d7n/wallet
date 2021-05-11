@@ -1,1 +1,1 @@
-var mnemonic = "high neutral pause rotate midnight return now slight large road lens walk";
+var mnemonic = "dragon portion tooth help finish glad label level spot close credit fault";

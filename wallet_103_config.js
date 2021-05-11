@@ -1,1 +1,1 @@
-var mnemonic = "laptop scout eyebrow case rule puzzle typical nurse recycle universe angry town";
+var mnemonic = "uncle talk coach edit gate wheel exit settle disease fault lizard wife";

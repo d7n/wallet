@@ -1,1 +1,1 @@
-var mnemonic = "miss rather cousin heart meadow special kidney hollow raven ethics size estate";
+var mnemonic = "fruit ski enlist churn tumble arrest crunch weapon apology joke quote neutral";

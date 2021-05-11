@@ -1,1 +1,1 @@
-var mnemonic = "ostrich inform speak body blade wage flock swallow shoot width uniform firm";
+var mnemonic = "increase solid hello rare shoulder allow simple gift recycle tilt chase green";

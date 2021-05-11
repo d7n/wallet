@@ -1,1 +1,1 @@
-var mnemonic = "enemy fit zebra video off eye relax raven people coach note security";
+var mnemonic = "velvet fitness escape pair layer crumble regular story degree price leopard absorb";

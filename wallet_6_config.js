@@ -1,1 +1,1 @@
-var mnemonic = "benefit repair amount gift purse grace fantasy concert consider prosper magic alarm";
+var mnemonic = "trash glove cluster enable neither celery assist total borrow horn swallow layer";

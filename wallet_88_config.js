@@ -1,1 +1,1 @@
-var mnemonic = "price employ absent resemble fade upset rich web process chapter harbor stool";
+var mnemonic = "modify issue initial front punch fade orchard hurry sight process office lawsuit";

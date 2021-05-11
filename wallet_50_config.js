@@ -1,1 +1,1 @@
-var mnemonic = "rotate venture lonely answer wasp remember surface month ladder current call pipe";
+var mnemonic = "essence stem into medal blanket grow common iron charge fly deal deal";

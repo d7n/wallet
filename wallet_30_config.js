@@ -1,1 +1,1 @@
-var mnemonic = "enact vault ill steel meadow ability reflect deny describe rare animal abandon";
+var mnemonic = "enter olive like allow bundle sting galaxy wish reopen tomorrow bird bus";

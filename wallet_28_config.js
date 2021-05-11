@@ -1,1 +1,1 @@
-var mnemonic = "web fortune limb flock whip must amused rent glass stamp follow permit";
+var mnemonic = "rookie learn swarm creek dignity raise melt animal donor you symptom cream";

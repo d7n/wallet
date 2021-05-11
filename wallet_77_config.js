@@ -1,1 +1,1 @@
-var mnemonic = "garment slogan episode mammal found giraffe crisp brass expand cannon syrup fancy";
+var mnemonic = "poem hood submit image drink jazz cousin sample prosper slot actress average";

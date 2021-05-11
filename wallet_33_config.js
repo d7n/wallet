@@ -1,1 +1,1 @@
-var mnemonic = "innocent loop clutch cluster pistol friend route neither lady immune salt junior";
+var mnemonic = "spoon stomach impulse sadness pupil avoid practice castle label album script vague";

@@ -1,1 +1,1 @@
-var mnemonic = "fall dolphin junior problem vocal tube post fade gas carbon abstract often";
+var mnemonic = "shy oven bitter often tower chair cotton disagree slot dog air immune";

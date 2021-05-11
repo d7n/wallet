@@ -1,1 +1,1 @@
-var mnemonic = "ability forget term post saddle village nothing art cube test maple sword";
+var mnemonic = "satisfy steel attend dune book earn jaguar skull fence fabric fade tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "gap staff thunder damage penalty bless length chalk false sure finger hair";
+var mnemonic = "fancy soccer wire buddy entire return joke agent boss actress indicate dance";

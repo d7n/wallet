@@ -1,1 +1,1 @@
-var mnemonic = "budget clinic match switch banana arch neutral luxury consider gold stairs congress";
+var mnemonic = "net rebuild color upon cushion frog company sick kit harvest hen goat";

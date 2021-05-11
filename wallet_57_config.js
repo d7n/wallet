@@ -1,1 +1,1 @@
-var mnemonic = "rough angle awake arctic satoshi feel crop proof maple picnic garlic audit";
+var mnemonic = "occur trouble kitchen any month frozen pottery control very ethics wet little";

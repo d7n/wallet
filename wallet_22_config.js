@@ -1,1 +1,1 @@
-var mnemonic = "fit equip regret artefact hockey front inspire tuna over glare trial frog";
+var mnemonic = "luggage common rich slender shop april sibling divorce move bargain practice capital";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset kid coach okay opera album rice fever above weapon misery nerve";
+var mnemonic = "merit stay cream amount scene attack wonder rate dune early wire size";

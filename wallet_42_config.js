@@ -1,1 +1,1 @@
-var mnemonic = "army code oven fuel idle dutch knock protect cement potato twenty valve";
+var mnemonic = "you oblige junior duty peace strong goddess beach knife isolate earn gown";

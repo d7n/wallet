@@ -1,1 +1,1 @@
-var mnemonic = "story teach movie tobacco student wrestle weather noble eye muffin stone viable";
+var mnemonic = "screen boss bonus angle about fatigue best desert language engage volcano endless";

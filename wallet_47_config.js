@@ -1,1 +1,1 @@
-var mnemonic = "invest unaware distance barrel found hybrid remove whisper gravity resemble program differ";
+var mnemonic = "guilt screen message coin omit doll must author history alpha project news";

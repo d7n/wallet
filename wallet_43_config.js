@@ -1,1 +1,1 @@
-var mnemonic = "argue casino vote orient digital shoulder smoke try program wonder admit salad";
+var mnemonic = "truck ecology flat impact wreck about melt cute unfold amateur member put";

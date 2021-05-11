@@ -1,1 +1,1 @@
-var mnemonic = "drop glass awful fever text silly orbit exist resist license use also";
+var mnemonic = "roof drift mouse walk soccer pattern dentist weather viable scatter gap correct";

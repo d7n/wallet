@@ -1,1 +1,1 @@
-var mnemonic = "reveal unaware pioneer distance mask boat they brother cruel grab learn decrease";
+var mnemonic = "endorse lemon glass someone myself umbrella prize stomach deny oppose female disagree";

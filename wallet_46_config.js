@@ -1,1 +1,1 @@
-var mnemonic = "normal negative social victory mule program unusual appear awful couch kid exclude";
+var mnemonic = "ethics apology jewel advice polar gaze sudden fee inherit clown depend achieve";

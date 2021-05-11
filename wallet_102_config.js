@@ -1,1 +1,1 @@
-var mnemonic = "wear argue must enough miracle bless pottery hood miss furnace abandon grain";
+var mnemonic = "state token frame chronic horror message since social festival early number cement";

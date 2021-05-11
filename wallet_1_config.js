@@ -1,1 +1,1 @@
-var mnemonic = "teach when possible hazard oval carry link warrior business jacket carbon mixed";
+var mnemonic = "submit salad stage chronic gun useless zoo rail swift cry much citizen";

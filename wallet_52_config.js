@@ -1,1 +1,1 @@
-var mnemonic = "actress attend clutch ribbon exercise keep oppose initial assist say clown used";
+var mnemonic = "gift puppy better bronze cage swim cover lab foam swim cheap duck";

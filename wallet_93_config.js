@@ -1,1 +1,1 @@
-var mnemonic = "august extend very olympic rubber about this warfare provide spider target seminar";
+var mnemonic = "quiz hotel speed lesson bar payment sister night excuse route dumb receive";

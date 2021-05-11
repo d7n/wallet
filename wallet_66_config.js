@@ -1,1 +1,1 @@
-var mnemonic = "main rather regret cabbage lawsuit prepare chief achieve key lend uncover steak";
+var mnemonic = "rose prison pupil frozen pole engine park bulb security cliff danger champion";

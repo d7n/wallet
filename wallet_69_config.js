@@ -1,1 +1,1 @@
-var mnemonic = "rival island travel kiss timber person deny inflict talk soul major safe";
+var mnemonic = "aunt improve permit humor marine speed science develop victory volcano spray december";

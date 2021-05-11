@@ -1,1 +1,1 @@
-var mnemonic = "cup drum real board ahead essay belt trim buffalo uncle black also";
+var mnemonic = "shell before tattoo differ version entire cover armed burst dynamic village they";

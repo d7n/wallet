@@ -1,1 +1,1 @@
-var mnemonic = "skirt spider pride loan file extend baby chef safe grief oyster mixed";
+var mnemonic = "sock slender shell elbow artwork allow confirm wheel satoshi orbit child jazz";

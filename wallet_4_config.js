@@ -1,1 +1,1 @@
-var mnemonic = "split swing catch aware hour they clog vital grid train stomach kidney";
+var mnemonic = "hunt solution cycle joke chalk diagram edit material fish play crouch cruise";
