@@ -1,1 +1,1 @@
-var mnemonic = "cargo mother charge picnic member rally false ring skull blur nation utility";
+var mnemonic = "note parade pony blue elite weapon page paper quality truck unfair globe";

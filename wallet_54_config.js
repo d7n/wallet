@@ -1,1 +1,1 @@
-var mnemonic = "razor govern point rabbit endless talent sauce humble bottom fee bachelor tower";
+var mnemonic = "buzz scene rebuild meadow also bicycle observe decade okay travel thunder squeeze";

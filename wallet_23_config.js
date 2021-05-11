@@ -1,1 +1,1 @@
-var mnemonic = "cheese era because profit diet alcohol shoe group unfold until left trophy";
+var mnemonic = "deny cereal mutual walnut volume vacuum radar club fancy appear cup lecture";

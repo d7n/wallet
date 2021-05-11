@@ -1,1 +1,1 @@
-var mnemonic = "want burst exact valley fun cage harsh drop rain fury purchase purpose";
+var mnemonic = "primary oval zebra woman general catalog chuckle buzz saddle long safe entire";

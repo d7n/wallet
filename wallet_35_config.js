@@ -1,1 +1,1 @@
-var mnemonic = "enrich tumble ignore circle timber ocean soup chronic tomato margin tongue napkin";
+var mnemonic = "course cricket essence shuffle space grape group fringe equip meat object pass";

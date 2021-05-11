@@ -1,1 +1,1 @@
-var mnemonic = "disagree clarify patch evolve milk voyage length chaos vehicle regular grace surround";
+var mnemonic = "pen pelican viable common permit sheriff intact couple bird sight olive shove";

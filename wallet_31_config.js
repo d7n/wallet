@@ -1,1 +1,1 @@
-var mnemonic = "omit injury sugar slab mountain dune hard total pact nose shy safe";
+var mnemonic = "adjust void turn olive human aspect head pigeon pull eight wing saddle";

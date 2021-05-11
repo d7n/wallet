@@ -1,1 +1,1 @@
-var mnemonic = "drill sorry guide rookie script army monkey few wheel salmon text paper";
+var mnemonic = "across barrel hover day forum rug surface ready absorb stock case exile";

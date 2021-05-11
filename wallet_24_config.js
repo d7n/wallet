@@ -1,1 +1,1 @@
-var mnemonic = "primary attitude silent middle still check off tooth mixed attack boss width";
+var mnemonic = "bring sketch response three employ dynamic enjoy nephew maximum success differ clutch";

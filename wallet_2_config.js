@@ -1,1 +1,1 @@
-var mnemonic = "much myth auction found security powder soul during entire tray remind scout";
+var mnemonic = "legal achieve layer satisfy vocal metal sustain chest tobacco zebra affair build";

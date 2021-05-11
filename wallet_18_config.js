@@ -1,1 +1,1 @@
-var mnemonic = "bronze subway have olive another shallow maple extra fury mom license diagram";
+var mnemonic = "disorder ensure disagree section lady mistake sure knife approve front decrease destroy";

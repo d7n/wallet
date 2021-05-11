@@ -1,1 +1,1 @@
-var mnemonic = "picture emotion alpha remain other layer pony oppose mule license host aerobic";
+var mnemonic = "whip giraffe fantasy base basic planet clutch job double float modify judge";

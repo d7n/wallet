@@ -1,1 +1,1 @@
-var mnemonic = "casual correct capable check notice gloom hour shed animal gloom range word";
+var mnemonic = "predict hammer exile ripple wear brisk spatial upon symbol dutch sting toss";

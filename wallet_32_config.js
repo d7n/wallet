@@ -1,1 +1,1 @@
-var mnemonic = "hire domain stool clown blossom seminar sponsor half worth east protect city";
+var mnemonic = "summer build grant heavy north battle idea mobile save rather trash old";

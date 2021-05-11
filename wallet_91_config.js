@@ -1,1 +1,1 @@
-var mnemonic = "grape mix story eager rescue perfect idea effort joy midnight eternal pet";
+var mnemonic = "artist room describe various lucky face upset relax shoe mouse canal glow";

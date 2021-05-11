@@ -1,1 +1,1 @@
-var mnemonic = "safe ability brass suggest noodle help never suspect piece tail fabric arrive";
+var mnemonic = "dentist brief patient oil satoshi solution cannon meadow venture olympic purity salute";

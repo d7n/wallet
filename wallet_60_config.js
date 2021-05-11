@@ -1,1 +1,1 @@
-var mnemonic = "normal thumb reunion group face invest device hero matter steak wet age";
+var mnemonic = "manage mountain dismiss solution bus thumb increase dune time ecology erode diary";

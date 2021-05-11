@@ -1,1 +1,1 @@
-var mnemonic = "drop between reunion mail among comic spread sock inherit grunt lawsuit cool";
+var mnemonic = "bridge version dice slow sand delay fitness same grow rent safe pigeon";

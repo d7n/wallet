@@ -1,1 +1,1 @@
-var mnemonic = "sentence wrap margin first argue apple prevent enter vivid struggle clarify absorb";
+var mnemonic = "lesson hood retire exist annual surprise layer pen result cliff grab spike";

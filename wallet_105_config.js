@@ -1,1 +1,1 @@
-var mnemonic = "canvas improve rookie tunnel wood laptop faculty horror cheap tank vibrant solid";
+var mnemonic = "nephew predict surround reunion able deposit marine lawsuit already oval orphan label";

@@ -1,1 +1,1 @@
-var mnemonic = "slam shy path brother cereal blouse illness eagle hint audit super vague";
+var mnemonic = "canal whale exclude police subway price eyebrow response goose blade brush door";

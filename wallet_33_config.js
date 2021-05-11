@@ -1,1 +1,1 @@
-var mnemonic = "exact certain lemon nasty dolphin forward tent lunar punch edit when flee";
+var mnemonic = "defy ceiling entire asset bronze gorilla fatal depend clown beyond doctor wear";

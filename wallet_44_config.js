@@ -1,1 +1,1 @@
-var mnemonic = "round certain peace dwarf purchase caught menu addict amazing eagle march weird";
+var mnemonic = "erosion capital cool acquire swamp aspect sting jelly awake coffee rare outdoor";

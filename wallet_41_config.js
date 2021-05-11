@@ -1,1 +1,1 @@
-var mnemonic = "click young material local hazard enlist pill laugh illness student once later";
+var mnemonic = "popular slim wise ship total frown estate open muscle aim bulb scout";

@@ -1,1 +1,1 @@
-var mnemonic = "cream media syrup please attract cargo loyal fury sample offer true yard";
+var mnemonic = "grit such patch humor arrow local have flash meat current power movie";

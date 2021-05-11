@@ -1,1 +1,1 @@
-var mnemonic = "estate tattoo cradle dentist staff tiger inquiry iron garlic zebra left caught";
+var mnemonic = "impose still caught section envelope rigid trigger skate render wealth ignore census";

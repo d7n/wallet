@@ -1,1 +1,1 @@
-var mnemonic = "pill bind draft pair shell wish crunch like panel poet figure safe";
+var mnemonic = "dolphin can tone exhibit screen wife chat erase absurd suit beyond coffee";

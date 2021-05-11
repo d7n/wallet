@@ -1,1 +1,1 @@
-var mnemonic = "cliff intact margin march pave draw crawl decline meadow axis bridge plunge";
+var mnemonic = "struggle fancy large exotic sniff card slide lunar shift mass law inherit";

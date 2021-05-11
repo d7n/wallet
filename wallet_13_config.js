@@ -1,1 +1,1 @@
-var mnemonic = "soon input phrase toss inject noble axis similar inner half pill kidney";
+var mnemonic = "supply grab rabbit wire attend list fiction despair steak silent radar brass";

@@ -1,1 +1,1 @@
-var mnemonic = "bless resemble van echo teach strategy ramp window silent artwork erode transfer";
+var mnemonic = "shy lucky business day panel tank universe waste beach view donkey fly";

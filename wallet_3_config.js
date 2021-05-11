@@ -1,1 +1,1 @@
-var mnemonic = "thank arctic fatigue guilt clog veteran fix dwarf nasty orbit mix glue";
+var mnemonic = "divide degree nerve shy base flip embody orange lab wood review hold";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp wagon cave normal lab letter arrow cat twelve between silk jeans";
+var mnemonic = "renew father damp average cabbage cupboard reject access good vacuum joke tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue fruit around ten property wrist hungry vendor load volcano wealth fiscal";
+var mnemonic = "kingdom outdoor blade tobacco favorite myth fat ice enrich title napkin soldier";

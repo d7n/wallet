@@ -1,1 +1,1 @@
-var mnemonic = "expire verb acid idea rib admit balance mango silent spread indoor round";
+var mnemonic = "cream quality wonder core rely myth all judge mimic reveal chunk patrol";

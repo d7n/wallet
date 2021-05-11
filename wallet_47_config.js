@@ -1,1 +1,1 @@
-var mnemonic = "mansion train heavy deliver once element reveal movie exit annual mule bracket";
+var mnemonic = "private below hurry track swear chimney finger parade expire tree small witness";

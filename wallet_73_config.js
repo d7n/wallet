@@ -1,1 +1,1 @@
-var mnemonic = "lady friend thumb wave option pulp diary combine eager struggle harvest thumb";
+var mnemonic = "average situate correct father moment grocery reveal genius hole frost wine panther";

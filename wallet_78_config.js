@@ -1,1 +1,1 @@
-var mnemonic = "ethics visa doctor picture must seat hill into answer acquire marble again";
+var mnemonic = "impulse calm renew suspect beach jacket rebel horn drama lock define window";

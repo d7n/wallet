@@ -1,1 +1,1 @@
-var mnemonic = "tool comfort good decorate siege cycle half observe entire dance luggage task";
+var mnemonic = "organ clever capable road mutual supply solve minute erosion strong proud fun";

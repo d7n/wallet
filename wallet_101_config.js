@@ -1,1 +1,1 @@
-var mnemonic = "lion finish require glide better lazy sadness poet reward uphold human park";
+var mnemonic = "cliff bubble goat arm clever taste addict tobacco garment able height enhance";

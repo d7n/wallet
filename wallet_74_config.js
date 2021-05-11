@@ -1,1 +1,1 @@
-var mnemonic = "memory little soda velvet evidence delay arrest rain waste fatal city exhibit";
+var mnemonic = "regular draft destroy measure auto maple escape caught later run orphan hedgehog";

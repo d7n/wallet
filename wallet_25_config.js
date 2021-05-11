@@ -1,1 +1,1 @@
-var mnemonic = "position horror shop flip color zoo disease volume winner weekend execute gorilla";
+var mnemonic = "truly decide ridge laptop wave economy fan daughter inhale window outer wrestle";

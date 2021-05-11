@@ -1,1 +1,1 @@
-var mnemonic = "earn record letter imitate garment erode bean enjoy gravity obvious duck snap";
+var mnemonic = "involve upset page man arrow wear someone civil fog rhythm parrot dinner";

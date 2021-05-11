@@ -1,1 +1,1 @@
-var mnemonic = "success noodle winner protect custom bench fine legend above indoor picture grow";
+var mnemonic = "neither tattoo bitter pigeon section father town bright claw lunar barely excess";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft crack joy accident roof silent story lab announce clay twist belt";
+var mnemonic = "shrimp embark thought shadow collect what festival unaware burger trial cliff wave";

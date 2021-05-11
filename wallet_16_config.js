@@ -1,1 +1,1 @@
-var mnemonic = "drop rude whip stable purity abuse gauge gospel busy wink unfold all";
+var mnemonic = "secret deliver better coffee average amateur identify moral all glass lesson fever";

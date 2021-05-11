@@ -1,1 +1,1 @@
-var mnemonic = "dance admit confirm improve gap wheel life unique sustain actor harsh seminar";
+var mnemonic = "wet over primary snake frozen secret panther stereo situate what time oxygen";

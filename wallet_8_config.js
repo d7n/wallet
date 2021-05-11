@@ -1,1 +1,1 @@
-var mnemonic = "style frown toy distance outdoor nose north path erase entry enhance exchange";
+var mnemonic = "such duck unusual cluster inform spawn travel more carry lend fence century";

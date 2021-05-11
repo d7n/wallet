@@ -1,1 +1,1 @@
-var mnemonic = "friend pulp fiction gym choice over lottery people runway hammer poverty shop";
+var mnemonic = "stay wasp illness still asthma mechanic evil rival fever like nurse shed";

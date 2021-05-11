@@ -1,1 +1,1 @@
-var mnemonic = "still rice fish typical decrease cabin hover width noble escape then lazy";
+var mnemonic = "useless flame evidence unfold kit math bracket dog hope tool stand art";

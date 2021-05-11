@@ -1,1 +1,1 @@
-var mnemonic = "thunder glue sustain recipe fat vehicle desk lottery bonus wasp permit leader";
+var mnemonic = "slide right token amount sister purchase manual absent speak couch layer quiz";

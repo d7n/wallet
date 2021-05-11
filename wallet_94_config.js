@@ -1,1 +1,1 @@
-var mnemonic = "bleak only indoor such dawn tennis spare public inquiry cattle grain gossip";
+var mnemonic = "boss double pond attitude scout hard decade grass cupboard hazard glare dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant prevent submit bulk domain clay purchase key cat orange puzzle bullet";
+var mnemonic = "under cloud movie then scare target tent fun blood able sustain excite";

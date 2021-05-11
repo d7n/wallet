@@ -1,1 +1,1 @@
-var mnemonic = "aspect clerk indicate nation flame execute engage poem where battle slide oil";
+var mnemonic = "alien fiscal labor front ball ankle comic lady vintage clutch armor lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "sense zone echo hammer alert festival arena old option snack shine major";
+var mnemonic = "surround welcome father thunder poem glass shoot great either join phrase armed";

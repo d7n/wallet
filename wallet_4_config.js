@@ -1,1 +1,1 @@
-var mnemonic = "weekend river faculty race pretty clarify ahead slim oppose buyer afraid exhibit";
+var mnemonic = "swap express aspect planet amateur parent nephew leopard slam gossip learn maid";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey negative critic super protect indicate ocean spice pepper liar hand sketch";
+var mnemonic = "reform keep current assume plug portion good horn video inquiry slight bike";

@@ -1,1 +1,1 @@
-var mnemonic = "filter clay reflect lawn day online avoid cool fame invest pilot purse";
+var mnemonic = "yard century spoon chief climb submit mother liquid time cradle flame type";

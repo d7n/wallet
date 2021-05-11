@@ -1,1 +1,1 @@
-var mnemonic = "topic physical toddler warfare father nose denial bulb capable eight bid sorry";
+var mnemonic = "stand habit elephant fuel verify vibrant census bless lyrics choice meadow used";

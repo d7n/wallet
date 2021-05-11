@@ -1,1 +1,1 @@
-var mnemonic = "ski grape job announce vocal grace virtual aunt hire brave grid setup";
+var mnemonic = "flat blouse pumpkin ten keen dignity vanish boost lemon silk poverty sign";

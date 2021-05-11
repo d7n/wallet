@@ -1,1 +1,1 @@
-var mnemonic = "dignity disorder unit mixed prevent web spring expand plug below tired liar";
+var mnemonic = "enemy wear laundry dawn bachelor key paddle between work baby rigid license";

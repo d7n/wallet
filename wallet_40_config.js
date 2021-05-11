@@ -1,1 +1,1 @@
-var mnemonic = "december adapt table camp allow segment tattoo ski bargain defy odor ankle";
+var mnemonic = "satoshi dial fall flame myself move inmate about amateur pool spot sport";

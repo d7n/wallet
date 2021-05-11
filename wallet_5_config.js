@@ -1,1 +1,1 @@
-var mnemonic = "unable human dismiss shadow noble ill coast rubber lobster office build comic";
+var mnemonic = "evolve paper dilemma transfer token decide asthma axis kind sing entry stove";

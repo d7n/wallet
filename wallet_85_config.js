@@ -1,1 +1,1 @@
-var mnemonic = "light noodle quantum gloom glory sad grant remove hidden frog fuel obvious";
+var mnemonic = "accuse fire gallery ball erupt mimic daughter cricket raise rigid stool other";

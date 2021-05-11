@@ -1,1 +1,1 @@
-var mnemonic = "major special skirt toe obey possible genre pottery swamp lonely train mouse";
+var mnemonic = "awake rare voice gap someone fee arrange develop denial demand card smart";

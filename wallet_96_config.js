@@ -1,1 +1,1 @@
-var mnemonic = "planet slice rude shoe fan alter glove fluid verify spot dish because";
+var mnemonic = "unlock random cool fragile resource drastic evoke alley joy night pizza gown";

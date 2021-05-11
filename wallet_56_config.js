@@ -1,1 +1,1 @@
-var mnemonic = "duck retreat tree dice media never ramp boring have cycle era inform";
+var mnemonic = "critic elbow kangaroo magic increase curious rather best light quit police couple";

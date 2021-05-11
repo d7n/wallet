@@ -1,1 +1,1 @@
-var mnemonic = "cheap floor orbit pelican series tackle weasel mimic swift person agent beach";
+var mnemonic = "brick idea spend surface bus tuna bench enjoy service ordinary rib salmon";

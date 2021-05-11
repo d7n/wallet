@@ -1,1 +1,1 @@
-var mnemonic = "saddle name swap network picnic replace fine olive foster mind garlic coast";
+var mnemonic = "venue trophy cancel adapt isolate skill ranch alert dice shoulder just actress";

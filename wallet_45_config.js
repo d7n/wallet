@@ -1,1 +1,1 @@
-var mnemonic = "domain clip digital rally march grace apology private trip amount hard plug";
+var mnemonic = "believe fancy boost urge fade tube execute wine unusual aim cement absent";

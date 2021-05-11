@@ -1,1 +1,1 @@
-var mnemonic = "doctor amazing result culture wreck tired weasel lazy popular slim day climb";
+var mnemonic = "interest ahead plug pause busy wink horse situate elite book almost meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance cinnamon sick noble else brother friend layer ladder royal nation trick";
+var mnemonic = "just shove alarm razor length pioneer simple equip harbor prefer erode fancy";

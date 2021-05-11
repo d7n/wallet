@@ -1,1 +1,1 @@
-var mnemonic = "duck label morning impulse payment hover kick couple elder brave slab place";
+var mnemonic = "silk august violin bubble vibrant neutral else bus horror boost divide hour";

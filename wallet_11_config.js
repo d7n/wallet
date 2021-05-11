@@ -1,1 +1,1 @@
-var mnemonic = "report help usage vivid era patch nation decide entire immune note river";
+var mnemonic = "seminar alcohol trade sport destroy seminar secret rigid oxygen afraid section aware";

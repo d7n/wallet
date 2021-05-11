@@ -1,1 +1,1 @@
-var mnemonic = "random marriage future burden hybrid divorce hat sibling trade recycle traffic mix";
+var mnemonic = "doctor vivid federal ticket marriage iron oil add bench envelope weapon volume";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance powder elder gravity what garbage close tissue stem welcome elite level";
+var mnemonic = "unveil trash finish pudding music index twenty knee salon decrease flame spike";

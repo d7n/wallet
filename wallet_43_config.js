@@ -1,1 +1,1 @@
-var mnemonic = "lift scare slogan latin dignity mammal garage grass can loyal behind glance";
+var mnemonic = "couch copper flag coral tonight chaos acid final knife random middle beauty";

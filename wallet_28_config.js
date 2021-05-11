@@ -1,1 +1,1 @@
-var mnemonic = "can chronic verb hello sword lyrics brave wool parrot hint toe eye";
+var mnemonic = "spatial giggle reopen furnace legal shrimp ride pioneer guide hero drill sport";

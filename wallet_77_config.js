@@ -1,1 +1,1 @@
-var mnemonic = "climb boss city spoil circle symbol hurt select history moon cross liberty";
+var mnemonic = "abandon stamp gesture level cheese chase settle bright fiscal scrap egg roast";

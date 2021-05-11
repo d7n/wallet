@@ -1,1 +1,1 @@
-var mnemonic = "stay judge deliver inside attract menu various knee report crack seed observe";
+var mnemonic = "slide tomorrow legal large silent film belt safe opera lizard civil claw";

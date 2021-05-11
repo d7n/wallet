@@ -1,1 +1,1 @@
-var mnemonic = "erupt funny city rookie little holiday gas law scissors ordinary idea food";
+var mnemonic = "economy renew sunny credit attend erase movie note shrug major link dolphin";

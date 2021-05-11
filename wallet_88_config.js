@@ -1,1 +1,1 @@
-var mnemonic = "search joke unit rebuild naive busy rain bitter demise tunnel matter vague";
+var mnemonic = "eager ordinary tool good assault spin capable crane erode toilet mix fire";

@@ -1,1 +1,1 @@
-var mnemonic = "dress grocery future oak tail asset hedgehog edge slot beach debate claim";
+var mnemonic = "village cattle post impose review rule eagle canoe fetch rug diamond joy";

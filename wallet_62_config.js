@@ -1,1 +1,1 @@
-var mnemonic = "discover royal pony solar creek shed grab gold armor cup thumb void";
+var mnemonic = "rural prosper pole sure spawn soul chat reason brain pupil language help";

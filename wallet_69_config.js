@@ -1,1 +1,1 @@
-var mnemonic = "banner fee cabin glare spray arrange raven craft hurdle pepper coast burden";
+var mnemonic = "select layer rain core swing vault train bitter similar table hospital fine";

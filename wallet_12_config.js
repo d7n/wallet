@@ -1,1 +1,1 @@
-var mnemonic = "thumb civil boil coffee few together hurry mosquito dress tourist intact woman";
+var mnemonic = "reunion uniform sudden cable orchard rate neither course mirror parent provide west";

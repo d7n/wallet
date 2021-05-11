@@ -1,1 +1,1 @@
-var mnemonic = "magnet shiver pride consider airport plunge news index erosion gym lumber sad";
+var mnemonic = "salon infant carpet shuffle squeeze east sniff vapor also soup invite monkey";

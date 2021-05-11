@@ -1,1 +1,1 @@
-var mnemonic = "kiss exhaust magnet oil person when text valve review pause fault dune";
+var mnemonic = "easily north release jaguar imitate gadget aim foot cart second control museum";

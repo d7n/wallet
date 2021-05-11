@@ -1,1 +1,1 @@
-var mnemonic = "soft bid air fuel lava symptom grow east museum feed blossom destroy";
+var mnemonic = "expire clinic trial letter history good race solve dash hen soon pen";

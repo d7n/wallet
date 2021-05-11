@@ -1,1 +1,1 @@
-var mnemonic = "creek gossip dinner because shiver ball maple broken praise ensure uphold fantasy";
+var mnemonic = "siren powder student blue wheat exclude emotion yellow expose deer vibrant finish";

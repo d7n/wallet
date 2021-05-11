@@ -1,1 +1,1 @@
-var mnemonic = "gospel diet open number guess sweet drink normal shock journey use wine";
+var mnemonic = "season junk betray embody huge raise ancient initial decline milk despair lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "depart month find clever march february urge chase question mesh foil result";
+var mnemonic = "seek left rural before act perfect february various swap merit funny nice";

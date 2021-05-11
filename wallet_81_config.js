@@ -1,1 +1,1 @@
-var mnemonic = "park repeat eager destroy stem joy stone harsh sight page chat also";
+var mnemonic = "crop sing road reject exit bronze solid absent crumble wage cause vote";

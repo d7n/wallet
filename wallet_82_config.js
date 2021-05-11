@@ -1,1 +1,1 @@
-var mnemonic = "dance reopen save miracle bicycle nut lonely chapter drop creek rug bar";
+var mnemonic = "pretty effort budget clip lady spare lawsuit warm learn adapt aware fade";
