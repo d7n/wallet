@@ -1,1 +1,1 @@
-var mnemonic = "recall carbon oven aisle route tired nature wet crouch marriage salute parrot";
+var mnemonic = "innocent loop clutch cluster pistol friend route neither lady immune salt junior";

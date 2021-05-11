@@ -1,1 +1,1 @@
-var mnemonic = "clerk mercy ladder roast ramp resist taste spider screen length frozen sign";
+var mnemonic = "twin echo joy charge smile pill seed stadium baby amazing predict nut";

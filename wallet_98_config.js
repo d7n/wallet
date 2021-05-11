@@ -1,1 +1,1 @@
-var mnemonic = "sponsor monitor upgrade simple remind draft convince pride never canal detect mixed";
+var mnemonic = "high neutral pause rotate midnight return now slight large road lens walk";

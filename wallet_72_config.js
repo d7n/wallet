@@ -1,1 +1,1 @@
-var mnemonic = "brisk you deputy rib empty proof thought track canal hobby version object";
+var mnemonic = "wine forget romance under remove weather move laugh beauty trash churn forward";

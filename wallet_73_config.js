@@ -1,1 +1,1 @@
-var mnemonic = "disagree limit pave kitchen limb fossil you leg width kidney identify eagle";
+var mnemonic = "maid enact badge timber hazard spice half spoon hammer grass near symbol";

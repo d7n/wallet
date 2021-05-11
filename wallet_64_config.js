@@ -1,1 +1,1 @@
-var mnemonic = "aim foster left globe canal tourist culture later snow tragic soldier enough";
+var mnemonic = "acoustic capital glimpse patch lobster hollow creek soldier cry lunar decade camp";

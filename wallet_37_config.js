@@ -1,1 +1,1 @@
-var mnemonic = "myth very radar museum stand ripple fan involve two inherit confirm brief";
+var mnemonic = "poet tackle arctic mail train inquiry giggle actor moral volume grit rapid";

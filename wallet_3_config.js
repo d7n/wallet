@@ -1,1 +1,1 @@
-var mnemonic = "alone pluck custom where tone jazz donate mom zone paddle habit liquid";
+var mnemonic = "chief crowd soup original glow apology ask enact dignity now curious shadow";

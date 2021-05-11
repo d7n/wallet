@@ -1,1 +1,1 @@
-var mnemonic = "parrot drum nice brass misery quiz story glue dune arctic crystal bean";
+var mnemonic = "entry sand author panther bicycle grain twelve diary govern paper capable main";

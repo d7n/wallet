@@ -1,1 +1,1 @@
-var mnemonic = "icon link potato rhythm reward cereal expire celery arrive arrow couple use";
+var mnemonic = "web fortune limb flock whip must amused rent glass stamp follow permit";

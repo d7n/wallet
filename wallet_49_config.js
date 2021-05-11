@@ -1,1 +1,1 @@
-var mnemonic = "stage proud risk joy brisk coin dinosaur harsh online visa lamp stand";
+var mnemonic = "reveal unaware pioneer distance mask boat they brother cruel grab learn decrease";

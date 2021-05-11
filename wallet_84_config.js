@@ -1,1 +1,1 @@
-var mnemonic = "sauce hamster foam deliver puzzle tower gown capable bone ugly disagree card";
+var mnemonic = "way faith hockey limb dose earn rule genre army brother race predict";

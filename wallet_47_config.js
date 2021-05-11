@@ -1,1 +1,1 @@
-var mnemonic = "uncover lock hover popular mystery staff trade victory people click borrow valve";
+var mnemonic = "invest unaware distance barrel found hybrid remove whisper gravity resemble program differ";

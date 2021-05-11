@@ -1,1 +1,1 @@
-var mnemonic = "tide transfer casino edge uncle couch fence dilemma buffalo program same text";
+var mnemonic = "typical metal soul margin across pupil paper hope obvious auction exact lumber";

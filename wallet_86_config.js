@@ -1,1 +1,1 @@
-var mnemonic = "inch library section bright debris fix drop token organ obey cave logic";
+var mnemonic = "box patient digital clinic perfect smart monster saddle dad great nominee this";

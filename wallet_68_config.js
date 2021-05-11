@@ -1,1 +1,1 @@
-var mnemonic = "rent depth reform cube upgrade rose under width improve vocal situate sibling";
+var mnemonic = "rocket text deny zebra media current rival fix humble fury solve alcohol";

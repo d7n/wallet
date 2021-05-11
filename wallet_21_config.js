@@ -1,1 +1,1 @@
-var mnemonic = "cause inner family rely clinic advice design pulse news rice spider school";
+var mnemonic = "swim learn cheap oyster almost above parade inquiry husband seat shock quarter";

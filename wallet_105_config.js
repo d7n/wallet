@@ -1,1 +1,1 @@
-var mnemonic = "property wait hurry congress rely buddy census merry maid thank buzz front";
+var mnemonic = "drop glass awful fever text silly orbit exist resist license use also";

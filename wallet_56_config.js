@@ -1,1 +1,1 @@
-var mnemonic = "disease script rocket output success brick where miss wrestle maid reform manage";
+var mnemonic = "journey prize depth behind mountain liar isolate game trick task visit urge";

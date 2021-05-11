@@ -1,1 +1,1 @@
-var mnemonic = "sibling movie cash badge tip vacant negative fly rose spread piano gloom";
+var mnemonic = "enact vault ill steel meadow ability reflect deny describe rare animal abandon";

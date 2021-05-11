@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur kidney trim jelly noodle head enforce spatial wife clap grab warfare";
+var mnemonic = "main rather regret cabbage lawsuit prepare chief achieve key lend uncover steak";

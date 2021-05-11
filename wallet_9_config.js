@@ -1,1 +1,1 @@
-var mnemonic = "cook guard security humor gas meat damage credit equal six cave motor";
+var mnemonic = "march wise hazard segment join elbow creek own smooth sleep rocket topple";

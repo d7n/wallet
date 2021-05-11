@@ -1,1 +1,1 @@
-var mnemonic = "cigar safe sell truck member scorpion tennis cycle shrug evoke furnace clever";
+var mnemonic = "enemy fit zebra video off eye relax raven people coach note security";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon hello leg reduce boat draft real barely economy manual arm smooth";
+var mnemonic = "story teach movie tobacco student wrestle weather noble eye muffin stone viable";

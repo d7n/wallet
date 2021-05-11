@@ -1,1 +1,1 @@
-var mnemonic = "magnet glad search tackle cargo wild priority spin romance settle iron border";
+var mnemonic = "boy try pig record favorite erupt tooth wolf member saddle between island";

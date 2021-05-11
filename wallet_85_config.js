@@ -1,1 +1,1 @@
-var mnemonic = "unlock scrap pioneer jaguar file copper maple example fox soda success soon";
+var mnemonic = "boring foot forest fault diamond clinic note history debate fatigue sentence hockey";

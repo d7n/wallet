@@ -1,1 +1,1 @@
-var mnemonic = "scan pottery special flock beef video assume other nation car payment abandon";
+var mnemonic = "fashion speed gospel music science iron such charge join fetch hello force";

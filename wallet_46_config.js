@@ -1,1 +1,1 @@
-var mnemonic = "audit marine agent input hand child valid oak any other lunch mean";
+var mnemonic = "normal negative social victory mule program unusual appear awful couch kid exclude";

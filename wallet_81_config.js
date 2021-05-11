@@ -1,1 +1,1 @@
-var mnemonic = "arena skate tube cousin have three throw century note brass drink output";
+var mnemonic = "spoil enroll bar huge wide case alpha cable auction truth jaguar glad";

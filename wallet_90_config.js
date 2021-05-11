@@ -1,1 +1,1 @@
-var mnemonic = "notable hat make execute vault pet gasp jacket pyramid baby spray credit";
+var mnemonic = "small journey cave rug length donkey eagle only wisdom reopen coach olive";

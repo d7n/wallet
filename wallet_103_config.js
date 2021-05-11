@@ -1,1 +1,1 @@
-var mnemonic = "reunion waste alpha syrup boat planet cycle text gorilla prepare thunder across";
+var mnemonic = "laptop scout eyebrow case rule puzzle typical nurse recycle universe angry town";

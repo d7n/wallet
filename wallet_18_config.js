@@ -1,1 +1,1 @@
-var mnemonic = "since chronic wasp birth high awesome fold tackle exotic boring spoil endless";
+var mnemonic = "fall dolphin junior problem vocal tube post fade gas carbon abstract often";

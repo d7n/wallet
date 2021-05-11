@@ -1,1 +1,1 @@
-var mnemonic = "drip mention arctic chicken inform boil hope across tip turkey waste push";
+var mnemonic = "argue casino vote orient digital shoulder smoke try program wonder admit salad";

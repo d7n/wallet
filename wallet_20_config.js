@@ -1,1 +1,1 @@
-var mnemonic = "chase twenty ripple wolf relax scrub crystal village burger nature swallow frog";
+var mnemonic = "soft modify matter episode twenty cancel bone child lamp quality tool used";

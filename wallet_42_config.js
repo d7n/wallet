@@ -1,1 +1,1 @@
-var mnemonic = "silver leopard potato fish system ancient cancel horror similar enable doctor airport";
+var mnemonic = "army code oven fuel idle dutch knock protect cement potato twenty valve";

@@ -1,1 +1,1 @@
-var mnemonic = "hood pact talent ritual neutral daughter robot wage friend slice churn olympic";
+var mnemonic = "rug grab position tag space devote skin phone robust stem rail toast";

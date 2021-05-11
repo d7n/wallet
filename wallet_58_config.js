@@ -1,1 +1,1 @@
-var mnemonic = "mouse biology trend office fossil danger wisdom couple rabbit blossom coconut concert";
+var mnemonic = "split receive ostrich sunset select renew radio vivid muscle average salute slight";

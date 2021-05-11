@@ -1,1 +1,1 @@
-var mnemonic = "stove scheme welcome arrange twice suggest glass job pink term ship kit";
+var mnemonic = "blame bread skull ecology oval virus job chapter drink this glad west";

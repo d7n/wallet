@@ -1,1 +1,1 @@
-var mnemonic = "phone pioneer hero drift tape raw title bottom spray eyebrow jazz still";
+var mnemonic = "armor woman humble people above acid explain kiwi average matrix buyer panda";

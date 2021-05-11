@@ -1,1 +1,1 @@
-var mnemonic = "tongue image disagree spice sorry electric vicious flock night cupboard worth loyal";
+var mnemonic = "senior cause wife grunt humor gate happy repair symptom earn toddler dream";

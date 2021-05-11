@@ -1,1 +1,1 @@
-var mnemonic = "zebra sock pact pigeon govern dizzy solution wide pact skirt genius daring";
+var mnemonic = "rival island travel kiss timber person deny inflict talk soul major safe";

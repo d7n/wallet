@@ -1,1 +1,1 @@
-var mnemonic = "spin attack sound bag giggle series cancel cool left source avoid mosquito";
+var mnemonic = "film extra need trick plunge hockey quick pumpkin demand super unique feed";

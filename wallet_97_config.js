@@ -1,1 +1,1 @@
-var mnemonic = "coconut manual original hole steak loud report expand prevent pizza sock latin";
+var mnemonic = "sunset kid coach okay opera album rice fever above weapon misery nerve";

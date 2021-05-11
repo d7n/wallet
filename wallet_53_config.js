@@ -1,1 +1,1 @@
-var mnemonic = "lock warfare bubble cycle fan moon toward retreat scissors void hero jewel";
+var mnemonic = "divide real disease shadow barrel nominee apology lift fire private very vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist dream provide flip miss achieve input simple pitch misery bag broken";
+var mnemonic = "gap staff thunder damage penalty bless length chalk false sure finger hair";

@@ -1,1 +1,1 @@
-var mnemonic = "alien document result oppose face swift outside grunt account hero despair bitter";
+var mnemonic = "cup drum real board ahead essay belt trim buffalo uncle black also";

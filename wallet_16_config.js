@@ -1,1 +1,1 @@
-var mnemonic = "salon right pride cheese soft bomb dash winter ginger sight height hockey";
+var mnemonic = "mom flag senior sunny capital farm budget talk invite brush attract mean";

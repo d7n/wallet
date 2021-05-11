@@ -1,1 +1,1 @@
-var mnemonic = "harvest hat breeze six faculty punch armed inspire embody lake cigar judge";
+var mnemonic = "genuine collect middle ginger now live december brick lumber swarm dice beach";

@@ -1,1 +1,1 @@
-var mnemonic = "gain visa uncover electric anger escape dawn space sight evil path cage";
+var mnemonic = "budget clinic match switch banana arch neutral luxury consider gold stairs congress";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor prefer excuse tumble labor hedgehog flash disagree clap salad pattern deal";
+var mnemonic = "just enlist always citizen uncle effort confirm scrub fall paper shadow transfer";

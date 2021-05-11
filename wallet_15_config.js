@@ -1,1 +1,1 @@
-var mnemonic = "story wing tobacco little buyer pupil tube rapid warrior later unaware ramp";
+var mnemonic = "ability forget term post saddle village nothing art cube test maple sword";

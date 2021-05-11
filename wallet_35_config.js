@@ -1,1 +1,1 @@
-var mnemonic = "physical another issue diamond combine steel stay panda toddler venue okay hero";
+var mnemonic = "vibrant bunker pelican clever razor duck tackle virus use token bunker mushroom";

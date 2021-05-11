@@ -1,1 +1,1 @@
-var mnemonic = "rice cash denial enhance possible quick draft return trend thing royal cruise";
+var mnemonic = "midnight step goddess column scrap ski weekend garage floor sad project spoon";

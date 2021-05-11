@@ -1,1 +1,1 @@
-var mnemonic = "time omit rebuild pipe fall marine wink remove eagle glide wage evil";
+var mnemonic = "auction cover ugly avoid nest today post animal diary lazy rookie velvet";

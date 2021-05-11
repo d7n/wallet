@@ -1,1 +1,1 @@
-var mnemonic = "slight magic stairs cart fit embrace water chair another loop crowd hill";
+var mnemonic = "mosquito ripple renew half pride symbol raccoon fitness strong learn neglect satoshi";

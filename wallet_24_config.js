@@ -1,1 +1,1 @@
-var mnemonic = "tired wood grid hand island like open army label allow cargo economy";
+var mnemonic = "firm picture join fan quiz misery wild liquid project wife balance cloud";

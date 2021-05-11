@@ -1,1 +1,1 @@
-var mnemonic = "acoustic spoon mix tackle couch boring blame sea alone proud neck swim";
+var mnemonic = "disagree state height debate equal canyon useful giant theme chunk speak club";

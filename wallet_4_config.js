@@ -1,1 +1,1 @@
-var mnemonic = "innocent absurd oxygen squeeze rent soft ribbon cover trim employ habit endorse";
+var mnemonic = "split swing catch aware hour they clog vital grid train stomach kidney";

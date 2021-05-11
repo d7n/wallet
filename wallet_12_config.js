@@ -1,1 +1,1 @@
-var mnemonic = "cloud verify share material balance wealth cash police uncover expect verb flee";
+var mnemonic = "oyster verb pyramid glide steak cruise wisdom security only involve human earn";

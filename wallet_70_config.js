@@ -1,1 +1,1 @@
-var mnemonic = "vast sport alien blood method connect onion outside arrest half bid horn";
+var mnemonic = "alien parade agent tuna episode lunch game help loan hair excess message";

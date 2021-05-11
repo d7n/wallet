@@ -1,1 +1,1 @@
-var mnemonic = "there horse sun bargain guide remove want boring bridge dress nation emerge";
+var mnemonic = "price employ absent resemble fade upset rich web process chapter harbor stool";

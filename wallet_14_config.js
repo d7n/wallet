@@ -1,1 +1,1 @@
-var mnemonic = "inform fashion upset weather forest stand drink father lumber prosper evolve mystery";
+var mnemonic = "crouch order service bring fragile gravity earth banana snow cloth fat hammer";

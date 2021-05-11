@@ -1,1 +1,1 @@
-var mnemonic = "rich square meat idea open radio giant cabin panther original grief tray";
+var mnemonic = "wear argue must enough miracle bless pottery hood miss furnace abandon grain";

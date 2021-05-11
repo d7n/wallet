@@ -1,1 +1,1 @@
-var mnemonic = "road need scheme father shuffle muscle jewel slow between average eye rather";
+var mnemonic = "unknown point view pepper train minor arctic weasel tag prison early spy";

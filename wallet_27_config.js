@@ -1,1 +1,1 @@
-var mnemonic = "tennis purchase prosper notice flock stone begin junior century pave organ soul";
+var mnemonic = "negative decide double control awesome winter blanket grant estate flower advice length";

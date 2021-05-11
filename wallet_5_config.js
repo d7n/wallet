@@ -1,1 +1,1 @@
-var mnemonic = "delay into exercise tag jungle hungry soccer praise cool proof horror enough";
+var mnemonic = "random snow track carbon polar allow flush almost transfer happy arrange climb";

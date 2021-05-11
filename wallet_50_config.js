@@ -1,1 +1,1 @@
-var mnemonic = "shock dilemma sorry off athlete suspect wink caught fine nuclear drink snow";
+var mnemonic = "rotate venture lonely answer wasp remember surface month ladder current call pipe";

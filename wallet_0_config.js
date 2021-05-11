@@ -1,1 +1,1 @@
-var mnemonic = "fish hub please put vast situate awake remain galaxy easily west wash";
+var mnemonic = "retreat cigar correct add token assume final model animal endless donate marble";

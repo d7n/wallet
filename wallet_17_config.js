@@ -1,1 +1,1 @@
-var mnemonic = "trip fancy fiction coast metal junk quantum spawn casino pelican twenty flight";
+var mnemonic = "woman label interest laugh sister aisle achieve flavor sound hole flip ensure";

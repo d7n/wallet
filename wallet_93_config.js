@@ -1,1 +1,1 @@
-var mnemonic = "child chaos drill guard panther pyramid panel response other ozone wide wonder";
+var mnemonic = "august extend very olympic rubber about this warfare provide spider target seminar";

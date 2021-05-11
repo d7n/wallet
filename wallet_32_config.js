@@ -1,1 +1,1 @@
-var mnemonic = "stairs soldier banner window jaguar enter anchor story avocado search wink property";
+var mnemonic = "lens face dismiss erosion mansion first nuclear volcano legal random flock kidney";

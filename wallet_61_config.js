@@ -1,1 +1,1 @@
-var mnemonic = "lamp oak kitchen orchard select earn margin wash eye saddle meat surge";
+var mnemonic = "brush record assault divide meat surround rally patch vacant stable federal aspect";

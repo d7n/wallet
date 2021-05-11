@@ -1,1 +1,1 @@
-var mnemonic = "inform ladder wolf grain state birth spare volume scan steak resource betray";
+var mnemonic = "street jacket egg document various wealth skate robust solution meat april divide";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt merge verify bike still rose settle funny gorilla office fiscal stove";
+var mnemonic = "skirt spider pride loan file extend baby chef safe grief oyster mixed";

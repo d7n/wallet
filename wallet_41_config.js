@@ -1,1 +1,1 @@
-var mnemonic = "country snow liar affair erase ramp upgrade window logic cruise excuse place";
+var mnemonic = "property hidden orient village close enter index jazz major neither gym junior";

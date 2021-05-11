@@ -1,1 +1,1 @@
-var mnemonic = "frog stove copper deer plate camp ritual account giraffe earn ride motor";
+var mnemonic = "spell describe begin buyer gift tuna exchange life case garlic width advice";

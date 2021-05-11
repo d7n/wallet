@@ -1,1 +1,1 @@
-var mnemonic = "fog gold team hint chase exercise beauty stairs horse color beyond basket";
+var mnemonic = "teach when possible hazard oval carry link warrior business jacket carbon mixed";

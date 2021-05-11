@@ -1,1 +1,1 @@
-var mnemonic = "uniform lawn dumb funny opinion traffic swear flat riot merit wave manage";
+var mnemonic = "rough angle awake arctic satoshi feel crop proof maple picnic garlic audit";

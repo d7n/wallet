@@ -1,1 +1,1 @@
-var mnemonic = "uncle name river bid travel guard seek capital rich bus hope bench";
+var mnemonic = "assist pass sad eight short gloom pilot dizzy sunny half meat video";

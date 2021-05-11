@@ -1,1 +1,1 @@
-var mnemonic = "priority forward gaze blade key easy cliff hen rule announce parade nurse";
+var mnemonic = "thing afford velvet air december sock inner bike already pigeon key payment";

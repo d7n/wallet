@@ -1,1 +1,1 @@
-var mnemonic = "addict bag apple brain laundry seed census private cry castle manage car";
+var mnemonic = "lizard plug price unable sea pattern kangaroo stable predict rate scene end";

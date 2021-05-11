@@ -1,1 +1,1 @@
-var mnemonic = "nation blossom noise cute decline castle fix sense use assault clutch supply";
+var mnemonic = "once eight craft improve damage quarter diamond own sister magic lawsuit pledge";

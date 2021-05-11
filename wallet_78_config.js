@@ -1,1 +1,1 @@
-var mnemonic = "salon submit adult need refuse physical input puzzle usual layer budget glory";
+var mnemonic = "either kite leopard illegal october burst power tool decrease ceiling unfair actual";

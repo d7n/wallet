@@ -1,1 +1,1 @@
-var mnemonic = "grunt moral expire balance craft marine super curve skate flip host hurry";
+var mnemonic = "benefit repair amount gift purse grace fantasy concert consider prosper magic alarm";

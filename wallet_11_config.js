@@ -1,1 +1,1 @@
-var mnemonic = "dream ride august regular wall grid feel vague setup empower quantum follow";
+var mnemonic = "vibrant arrive cement essence rocket tennis upper perfect patrol material rhythm arrange";

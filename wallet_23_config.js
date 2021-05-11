@@ -1,1 +1,1 @@
-var mnemonic = "survey use grief tragic slide equip punch snack bronze bar patient all";
+var mnemonic = "kind casino main lava unusual vast muffin hint annual essay bacon bleak";

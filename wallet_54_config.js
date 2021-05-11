@@ -1,1 +1,1 @@
-var mnemonic = "minor arm occur risk pet arrange quiz crash any ostrich draw fabric";
+var mnemonic = "salon bind under save neglect couch blush artefact sample allow ketchup common";

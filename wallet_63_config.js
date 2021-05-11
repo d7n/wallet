@@ -1,1 +1,1 @@
-var mnemonic = "digital figure health despair effort phone lemon cube fly snack weapon letter";
+var mnemonic = "road slide ridge amazing leaf puzzle jelly secret burden treat toss brave";

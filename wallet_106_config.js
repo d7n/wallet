@@ -1,1 +1,1 @@
-var mnemonic = "car reduce square staff napkin drip key day slice usual slight subject";
+var mnemonic = "jungle trend pigeon divert swear hat fire hedgehog second answer island club";

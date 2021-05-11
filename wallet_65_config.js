@@ -1,1 +1,1 @@
-var mnemonic = "angry meat emerge next engage can daughter picnic admit degree repair better";
+var mnemonic = "tower believe spin stand table cloth script mansion black replace damage tiny";

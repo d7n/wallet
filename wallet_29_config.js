@@ -1,1 +1,1 @@
-var mnemonic = "must forget search silk butter aisle bright media cream bargain fiscal shrug";
+var mnemonic = "crisp purpose dish rigid mom observe march donate build diary attend swarm";

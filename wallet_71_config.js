@@ -1,1 +1,1 @@
-var mnemonic = "apart voice siege reduce slow tape debate draft athlete actress hero life";
+var mnemonic = "actress hunt hello evidence grid giraffe control photo program raccoon fatigue rotate";

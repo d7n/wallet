@@ -1,1 +1,1 @@
-var mnemonic = "toward visit antenna come dust fame notice tattoo infant glide fee power";
+var mnemonic = "dove moon hurdle ensure rent enhance decrease scare effort tennis celery stem";

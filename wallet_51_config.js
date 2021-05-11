@@ -1,1 +1,1 @@
-var mnemonic = "busy cabin second length barrel tortoise diesel eagle wedding thrive have summer";
+var mnemonic = "always lobster off achieve endorse smart transfer post exhaust script wool coil";

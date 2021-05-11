@@ -1,1 +1,1 @@
-var mnemonic = "pledge trap denial release ball scissors soldier eternal hair include ecology tag";
+var mnemonic = "post fitness drip garage key tilt lab hospital vital wait stomach code";

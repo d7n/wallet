@@ -1,1 +1,1 @@
-var mnemonic = "intact detect fury girl hold wood dinner dinner pear party use castle";
+var mnemonic = "tray dad normal suffer sail spike tiger charge task easy garage flash";
