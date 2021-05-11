@@ -1,1 +1,1 @@
-var mnemonic = "logic border payment clown pink ensure profit bonus monster skull lonely agent";
+var mnemonic = "near sphere flock sail blossom engage tray leopard situate spot smooth kid";

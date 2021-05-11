@@ -1,1 +1,1 @@
-var mnemonic = "range solution ticket second grab vacant glide marble kind business panda inject";
+var mnemonic = "cause few price strike gadget lemon tornado claw lamp phrase slim together";

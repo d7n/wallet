@@ -1,1 +1,1 @@
-var mnemonic = "fade pudding laptop awesome tent certain tomato donor van various cram ethics";
+var mnemonic = "gasp file interest dad rubber guess display result broken weapon helmet depth";

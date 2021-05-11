@@ -1,1 +1,1 @@
-var mnemonic = "harbor wasp bench bulb draft retreat bracket cushion credit lucky rapid theme";
+var mnemonic = "broken margin disagree text series pig alert glance proof regular farm conduct";

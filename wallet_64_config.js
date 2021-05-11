@@ -1,1 +1,1 @@
-var mnemonic = "web toe link pipe duty total okay tool wild leg dragon innocent";
+var mnemonic = "turkey chronic uphold arrow axis north truth spatial diamond print chest raw";

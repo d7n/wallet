@@ -1,1 +1,1 @@
-var mnemonic = "scout soup near alone pumpkin drastic multiply indoor wealth poem depart dirt";
+var mnemonic = "ice divide float huge upper moon impact price nasty demand manage exclude";

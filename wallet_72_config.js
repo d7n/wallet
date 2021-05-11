@@ -1,1 +1,1 @@
-var mnemonic = "version post cage enrich pretty upset tape surge simple poet west skate";
+var mnemonic = "mirror key teach olive edit cage future field mystery local sunset spread";

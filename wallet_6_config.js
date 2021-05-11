@@ -1,1 +1,1 @@
-var mnemonic = "tourist exile cram tongue arrive slight easily mention render virus sure layer";
+var mnemonic = "elevator sleep demand demand garage group steak valid top museum gospel door";

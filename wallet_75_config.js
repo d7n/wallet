@@ -1,1 +1,1 @@
-var mnemonic = "fit reform traffic boat universe truck arch gain over skirt pet agent";
+var mnemonic = "carbon crystal custom hollow dune decide kite rifle tag daring six skull";

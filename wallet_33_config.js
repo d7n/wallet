@@ -1,1 +1,1 @@
-var mnemonic = "weekend purse lab mistake total cricket great item prison mouse census mule";
+var mnemonic = "piece utility laundry derive tool primary amateur junk crime claw jump until";

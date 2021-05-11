@@ -1,1 +1,1 @@
-var mnemonic = "frequent grief cross urban hero right crane smart hour potato ship magic";
+var mnemonic = "cupboard fetch rubber second battle view focus rhythm cross tattoo nurse purpose";

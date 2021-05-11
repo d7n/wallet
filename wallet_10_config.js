@@ -1,1 +1,1 @@
-var mnemonic = "popular arch unit biology access sister photo setup assume habit bacon immense";
+var mnemonic = "excess supply funny small report truck lake glimpse mandate occur casino distance";

@@ -1,1 +1,1 @@
-var mnemonic = "away sorry van slender stable tray elite panic skirt empower cliff bomb";
+var mnemonic = "interest paddle grab caught bar female able expand theory gather fade ecology";

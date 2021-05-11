@@ -1,1 +1,1 @@
-var mnemonic = "special pink virtual trouble eight strong ridge hello resource pen travel usual";
+var mnemonic = "just either antique yard pistol dose fabric feature sign call mistake someone";

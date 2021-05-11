@@ -1,1 +1,1 @@
-var mnemonic = "hamster diagram dragon economy cereal flee deputy know slim quick slam unique";
+var mnemonic = "base clock globe dynamic chief mandate scene frame teach huge wedding draft";

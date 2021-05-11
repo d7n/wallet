@@ -1,1 +1,1 @@
-var mnemonic = "broom sketch afraid high isolate permit puzzle common vessel meat slam movie";
+var mnemonic = "correct music jungle lava alien fruit head noodle dawn drum clutch attack";

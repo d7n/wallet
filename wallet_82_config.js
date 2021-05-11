@@ -1,1 +1,1 @@
-var mnemonic = "police cactus illness hip modify convince tone second vibrant detect snake elbow";
+var mnemonic = "cat bacon task frown awake quarter obtain stairs salmon grape equip situate";

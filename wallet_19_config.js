@@ -1,1 +1,1 @@
-var mnemonic = "harvest art pelican collect permit shaft feel vital fox canal reflect slice";
+var mnemonic = "street theory again benefit fluid essay vacuum story unfold injury rail situate";

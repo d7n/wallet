@@ -1,1 +1,1 @@
-var mnemonic = "exile layer thing toe book creek rain hybrid ranch range fat hero";
+var mnemonic = "average extra agree injury swear hurt rail flee glory horse spot try";

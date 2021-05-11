@@ -1,1 +1,1 @@
-var mnemonic = "quantum blood palm flock stairs fantasy fine toilet bulk task work cloth";
+var mnemonic = "tag moment miss ill debris kiwi hurt today bicycle romance mimic present";

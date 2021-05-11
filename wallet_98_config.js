@@ -1,1 +1,1 @@
-var mnemonic = "stairs strategy detect orbit record wait carbon thought melody lunar across sister";
+var mnemonic = "student angle energy year elephant review april oyster anchor cake camera vicious";

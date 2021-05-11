@@ -1,1 +1,1 @@
-var mnemonic = "canal grain rug bonus scatter ability clay century sword canoe bronze wonder";
+var mnemonic = "whip fall electric auto kitchen search rescue silent fiber journey tomorrow caught";

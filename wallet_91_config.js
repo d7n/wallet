@@ -1,1 +1,1 @@
-var mnemonic = "curve warrior dose mammal avoid lava swim funny observe random ritual garage";
+var mnemonic = "final toddler relax reopen decade faculty swarm neglect sport educate thumb artefact";

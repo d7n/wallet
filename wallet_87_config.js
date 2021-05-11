@@ -1,1 +1,1 @@
-var mnemonic = "strong cool excite mansion soda clever what drastic town cotton system grab";
+var mnemonic = "alone pretty embody guess sort coral pass twice shock parrot kangaroo claim";

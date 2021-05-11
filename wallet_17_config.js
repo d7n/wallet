@@ -1,1 +1,1 @@
-var mnemonic = "miss bracket try edge globe genuine decline glimpse poet sphere aim absent";
+var mnemonic = "alley stay hand holiday exile dice gasp roof pulse mean shove meadow";

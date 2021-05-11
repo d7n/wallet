@@ -1,1 +1,1 @@
-var mnemonic = "hood paddle valid limit cloth agree border rural bulb uphold average program";
+var mnemonic = "mouse quality dose draw bicycle outdoor talent retreat oven result snack mask";

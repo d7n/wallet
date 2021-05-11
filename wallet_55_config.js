@@ -1,1 +1,1 @@
-var mnemonic = "grocery divert lizard ribbon duty manage ship tooth trouble action fluid account";
+var mnemonic = "three flock tornado busy evolve evil virtual install dumb echo example goose";

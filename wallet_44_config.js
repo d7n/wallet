@@ -1,1 +1,1 @@
-var mnemonic = "faith twenty doctor pulse rubber brass action lyrics define horn judge junk";
+var mnemonic = "scan negative cram wire deal secret public task praise away hint network";

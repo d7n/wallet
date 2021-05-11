@@ -1,1 +1,1 @@
-var mnemonic = "ritual know casino method mail forest say fix echo tomorrow plug pelican";
+var mnemonic = "wise trophy immune salt wealth fold citizen input cube girl bleak autumn";

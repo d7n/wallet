@@ -1,1 +1,1 @@
-var mnemonic = "stand fox noise water drama resist oak nothing that acid mobile mosquito";
+var mnemonic = "seminar bread canal wheat satoshi inmate drift extend silver rotate behave duck";

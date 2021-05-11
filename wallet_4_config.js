@@ -1,1 +1,1 @@
-var mnemonic = "truck sock popular drip negative grit child borrow impact resemble social mosquito";
+var mnemonic = "popular wise abstract soda stem heavy chaos fence taste live domain acoustic";

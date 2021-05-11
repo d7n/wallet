@@ -1,1 +1,1 @@
-var mnemonic = "main mixed pact dwarf subway food west laugh trade used town february";
+var mnemonic = "agent yellow various traffic organ dwarf question seat vocal scare glimpse mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "record tonight shoulder method jar pilot chuckle second blind leave solve find";
+var mnemonic = "pig taxi guilt suggest imitate dolphin airport gasp month write nasty warm";

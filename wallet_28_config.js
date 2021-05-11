@@ -1,1 +1,1 @@
-var mnemonic = "endorse waste smoke fiber behave upgrade kingdom obscure suffer gap visual stereo";
+var mnemonic = "sign october female erupt borrow turtle strategy script this mesh lock clutch";

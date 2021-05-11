@@ -1,1 +1,1 @@
-var mnemonic = "pudding airport question tide object kangaroo into laptop moral lazy easy screen";
+var mnemonic = "absent fee always glad excess dust cotton remember bitter relax craft funny";

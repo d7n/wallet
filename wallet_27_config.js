@@ -1,1 +1,1 @@
-var mnemonic = "kind fan thing pupil taxi foster tuition abandon century expire cage dwarf";
+var mnemonic = "garbage myself liberty media obey kit nothing screen deny wave normal pet";

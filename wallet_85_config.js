@@ -1,1 +1,1 @@
-var mnemonic = "tunnel forward exchange seat venture argue good palace ten steak veteran include";
+var mnemonic = "crash peasant stumble wife combine stomach fine noodle snow enact aisle stick";

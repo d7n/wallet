@@ -1,1 +1,1 @@
-var mnemonic = "scale snow loop punch dignity another mobile wood twin quantum jump hazard";
+var mnemonic = "grape dune pig erase exchange usual gentle muscle cage essence cry wage";

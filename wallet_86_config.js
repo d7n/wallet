@@ -1,1 +1,1 @@
-var mnemonic = "salmon resist orphan inmate scene hard elegant blame select conduct process deny";
+var mnemonic = "slush dinner boost error wrestle weird strategy lion anchor bulb original thought";

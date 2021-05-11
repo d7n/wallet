@@ -1,1 +1,1 @@
-var mnemonic = "quit result sad party rotate girl attract cross find faint course photo";
+var mnemonic = "scorpion couch stem best stem swarm window stick solid pulse elite nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel wisdom prevent chase express effort useful immense depend account stairs wire";
+var mnemonic = "bitter hurdle ready minimum ceiling good runway tunnel way easy blame swap";

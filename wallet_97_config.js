@@ -1,1 +1,1 @@
-var mnemonic = "kiwi broken normal praise knee faint ginger double gym room leave hundred";
+var mnemonic = "carbon few convince aunt eagle seek empty naive old slight busy web";

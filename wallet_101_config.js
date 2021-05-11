@@ -1,1 +1,1 @@
-var mnemonic = "scale dignity unit gift library clever edge steel boat luxury ugly misery";
+var mnemonic = "pistol sentence grab anger unaware large float domain stool actor rug mouse";

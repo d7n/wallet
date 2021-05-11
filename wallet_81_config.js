@@ -1,1 +1,1 @@
-var mnemonic = "coin net brown smooth genre patient hero corn belt champion wrestle curve";
+var mnemonic = "invest barely waste try gate design demise sketch used report portion there";

@@ -1,1 +1,1 @@
-var mnemonic = "soap ensure banner fix tragic annual grid decide design divorce poverty there";
+var mnemonic = "tank develop square smile siege carry battle camp alter olive example drama";

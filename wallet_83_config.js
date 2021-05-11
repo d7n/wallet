@@ -1,1 +1,1 @@
-var mnemonic = "prefer page special gather carry air team topic better canvas pink wonder";
+var mnemonic = "host cover sample skin cake shop mass body biology casual carbon lobster";

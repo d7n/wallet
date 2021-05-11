@@ -1,1 +1,1 @@
-var mnemonic = "genius inflict border always wood track economy river belt dune mouse left";
+var mnemonic = "tip crowd ketchup grass actor beach style avocado debate anger wheel flight";

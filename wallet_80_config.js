@@ -1,1 +1,1 @@
-var mnemonic = "all million twin happy sun shadow wasp supply farm river gold weird";
+var mnemonic = "slight raise purchase initial bamboo drastic chimney clutch stadium neglect silly job";

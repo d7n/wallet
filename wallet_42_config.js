@@ -1,1 +1,1 @@
-var mnemonic = "mixed urge drive uncle prevent client ugly police hello kid panther uncover";
+var mnemonic = "deer legal helmet skin walk ceiling bundle height stay true spoil broom";

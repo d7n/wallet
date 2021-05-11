@@ -1,1 +1,1 @@
-var mnemonic = "loyal despair sentence negative funny nuclear universe puppy marine gun velvet blur";
+var mnemonic = "mix cinnamon noise price melody patient cattle amount found choose cherry scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn begin narrow mass hole fantasy pigeon ten obey village segment armor";
+var mnemonic = "note dismiss define fault fun exist little coin congress curtain school icon";

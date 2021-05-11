@@ -1,1 +1,1 @@
-var mnemonic = "sentence gadget ball snap use ghost seek capable buffalo mother acquire boost";
+var mnemonic = "cram fruit allow game say rally patch easy coral spy pave magnet";

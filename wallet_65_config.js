@@ -1,1 +1,1 @@
-var mnemonic = "search kiwi lawn gas pair rally dinosaur grab tribe absurd town together";
+var mnemonic = "supply tag fish sell betray celery cloud license screen right rice kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "skate spread army endless move scene cup elder party volcano venture city";
+var mnemonic = "mutual trend tool around custom roast cigar victory gather copper sell inject";

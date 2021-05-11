@@ -1,1 +1,1 @@
-var mnemonic = "merry daughter pretty security original fit shaft crunch coast scatter quick response";
+var mnemonic = "unaware pigeon regret tape wonder edge buddy galaxy mistake fox tower interest";

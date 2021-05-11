@@ -1,1 +1,1 @@
-var mnemonic = "valid stove fee broccoli front select drip candy cruise fire parade tuna";
+var mnemonic = "voyage faint enforce paper vocal family hawk orbit picnic fat floor enhance";

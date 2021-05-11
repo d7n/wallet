@@ -1,1 +1,1 @@
-var mnemonic = "brick net pelican census column space axis equal write cash grape patient";
+var mnemonic = "jar convince aerobic begin help glory taxi giraffe hammer air harbor soldier";

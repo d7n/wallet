@@ -1,1 +1,1 @@
-var mnemonic = "defense utility life town sample father brass fog forum issue ecology kiwi";
+var mnemonic = "maze fiber opinion toddler balance memory celery tank apple horse receive frog";

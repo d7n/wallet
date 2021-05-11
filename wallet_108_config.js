@@ -1,1 +1,1 @@
-var mnemonic = "kit become type vocal rice squeeze online image myself express seed rug";
+var mnemonic = "learn hard welcome aisle liberty win ahead draw nation level convince group";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff marine draw stumble refuse card table crush ripple wise apology fly";
+var mnemonic = "upper stock impulse atom bargain benefit family view reduce mammal goose identify";

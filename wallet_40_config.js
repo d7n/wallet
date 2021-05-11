@@ -1,1 +1,1 @@
-var mnemonic = "exile march vital autumn employ employ mask river lava enrich wait grit";
+var mnemonic = "flame coast harsh only frozen vital cliff live impact shrimp wisdom echo";

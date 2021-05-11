@@ -1,1 +1,1 @@
-var mnemonic = "someone runway sing okay turtle mad kidney service science giant betray master";
+var mnemonic = "side sauce enroll speed gown owner drum apart thrive total suspect upper";

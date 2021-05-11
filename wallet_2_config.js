@@ -1,1 +1,1 @@
-var mnemonic = "error raw copy fabric arm wheel govern random movie major seat you";
+var mnemonic = "joy list chat busy insane apology flat anxiety seminar invite warm elder";

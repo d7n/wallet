@@ -1,1 +1,1 @@
-var mnemonic = "return crew hour crumble inch size index basket use dust sting stable";
+var mnemonic = "uphold picnic window first also short praise fatigue item square evoke onion";

@@ -1,1 +1,1 @@
-var mnemonic = "aware atom pigeon empty express page predict sibling carbon okay success ability";
+var mnemonic = "base gown story corn breeze author innocent coach purchase vivid myself also";

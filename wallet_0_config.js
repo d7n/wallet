@@ -1,1 +1,1 @@
-var mnemonic = "tissue payment limb club lecture scare hub pony tonight phrase mushroom trial";
+var mnemonic = "hero address fire canyon right animal notable truly chaos useless correct current";

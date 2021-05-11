@@ -1,1 +1,1 @@
-var mnemonic = "bulb fade reveal twice invest perfect blood force access ahead tired picture";
+var mnemonic = "scissors favorite awake knock safe light antique canal feature garage horse wood";

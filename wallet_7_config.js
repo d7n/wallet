@@ -1,1 +1,1 @@
-var mnemonic = "village skate boy horn exhibit produce quiz salad slight chief proof never";
+var mnemonic = "rapid purity beef consider swift over health smile beyond scout suspect canyon";

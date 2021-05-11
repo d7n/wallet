@@ -1,1 +1,1 @@
-var mnemonic = "share banner material comfort jungle connect hurt ensure venture hill weasel easy";
+var mnemonic = "popular domain either deny desert silent south chapter remember memory cream crunch";

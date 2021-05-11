@@ -1,1 +1,1 @@
-var mnemonic = "praise breeze grain crop system west satisfy world spawn pigeon ten snake";
+var mnemonic = "dune like theme field daughter wine shoulder leaf laundry deer govern fashion";

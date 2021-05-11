@@ -1,1 +1,1 @@
-var mnemonic = "slam open slice alarm okay student soccer disorder sibling refuse nurse kitchen";
+var mnemonic = "bridge debate devote innocent plastic gentle pet embrace margin dry gravity reduce";

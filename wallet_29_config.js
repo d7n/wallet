@@ -1,1 +1,1 @@
-var mnemonic = "minor smooth fluid wagon badge crew depth capable absorb record force era";
+var mnemonic = "diary uncover swing utility try hospital canoe photo sing head barrel fat";

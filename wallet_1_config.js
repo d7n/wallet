@@ -1,1 +1,1 @@
-var mnemonic = "alley tornado sketch shield this invest lion insect zone about panda spider";
+var mnemonic = "program critic anchor twist beyond strong balance bargain denial gospel enlist mango";

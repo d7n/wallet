@@ -1,1 +1,1 @@
-var mnemonic = "audit output tobacco ocean afraid version merry double reason recycle ability sick";
+var mnemonic = "spy six year clog sight setup giggle ranch snap clog casual during";

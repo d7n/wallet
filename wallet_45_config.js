@@ -1,1 +1,1 @@
-var mnemonic = "cream field artist pole chapter remain inherit once oak year urge model";
+var mnemonic = "also loud album trash brave beyond laugh naive combine human floor champion";

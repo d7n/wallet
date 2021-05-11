@@ -1,1 +1,1 @@
-var mnemonic = "prison transfer segment speed mercy taste display brave fancy peasant private spin";
+var mnemonic = "neck cash gesture pipe mixed hold since snow sense margin barrel turn";

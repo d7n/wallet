@@ -1,1 +1,1 @@
-var mnemonic = "swing crowd give kite naive column funny close smart void energy dismiss";
+var mnemonic = "tooth fork female destroy erode harvest submit guard once quote rib badge";

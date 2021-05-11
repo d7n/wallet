@@ -1,1 +1,1 @@
-var mnemonic = "immense outdoor song again cancel coast oxygen unique cry renew novel silent";
+var mnemonic = "stick bike cancel curtain lion angry fatigue input subject toy weasel conduct";

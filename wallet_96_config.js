@@ -1,1 +1,1 @@
-var mnemonic = "identify immune smile ring weapon gap they join future east outside mixed";
+var mnemonic = "home evil amused negative episode room cattle review improve chase toy install";

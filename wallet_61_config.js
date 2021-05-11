@@ -1,1 +1,1 @@
-var mnemonic = "version novel sudden sadness oak rare biology bar chunk monster cram poverty";
+var mnemonic = "prize toe trash episode zero travel hockey cliff afraid sound report side";

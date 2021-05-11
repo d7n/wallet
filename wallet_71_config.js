@@ -1,1 +1,1 @@
-var mnemonic = "base model chalk search carry large team illegal current random divide process";
+var mnemonic = "aware husband brown cement hazard kingdom chest truck funny food cruise element";

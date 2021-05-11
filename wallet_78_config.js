@@ -1,1 +1,1 @@
-var mnemonic = "organ pyramid organ access flush glide post hire ticket bargain rubber sugar";
+var mnemonic = "estate only engage grief cause worth basket quiz edge business fancy mesh";

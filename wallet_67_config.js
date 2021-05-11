@@ -1,1 +1,1 @@
-var mnemonic = "venue acoustic screen motor bar expire dynamic have still hint rail shoulder";
+var mnemonic = "three regular harbor office track dinner clown crash stand burden way world";

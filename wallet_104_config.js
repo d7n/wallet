@@ -1,1 +1,1 @@
-var mnemonic = "pet vintage resource dose lucky fluid sign believe sign maid car fiction";
+var mnemonic = "region pool voice liquid either minor news keen strike nasty twenty make";

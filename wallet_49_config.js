@@ -1,1 +1,1 @@
-var mnemonic = "amazing aunt fitness announce banana chunk twist tower match boost member now";
+var mnemonic = "siren wink blossom sentence monkey erode banner please promote become pluck visit";

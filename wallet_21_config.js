@@ -1,1 +1,1 @@
-var mnemonic = "voice prevent spoil area afford cousin armor version trick quantum shoot pipe";
+var mnemonic = "hurdle hotel fence present bridge ecology horse captain parade voyage across piano";

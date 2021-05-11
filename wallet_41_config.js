@@ -1,1 +1,1 @@
-var mnemonic = "lady inch sample identify color digital eternal street awake smoke better judge";
+var mnemonic = "deputy describe age method gravity history cry mom neutral giggle rebuild sustain";

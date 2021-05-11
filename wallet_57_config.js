@@ -1,1 +1,1 @@
-var mnemonic = "dwarf jar gun taxi swarm above exile lottery receive story acid fix";
+var mnemonic = "secret release breeze prepare fantasy half crane pilot disorder movie orbit biology";

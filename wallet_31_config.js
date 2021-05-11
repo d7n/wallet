@@ -1,1 +1,1 @@
-var mnemonic = "language wreck bamboo reunion heavy address other quarter nasty subway soup lady";
+var mnemonic = "script worth pumpkin ride toss movie stage run slice shaft waste vast";

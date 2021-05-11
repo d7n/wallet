@@ -1,1 +1,1 @@
-var mnemonic = "hill all net diagram release electric perfect dizzy palace nut load kitchen";
+var mnemonic = "wise series venture zone blade hungry garage disease tattoo habit wood flavor";

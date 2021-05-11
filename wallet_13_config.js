@@ -1,1 +1,1 @@
-var mnemonic = "torch tape sad reduce sick boy poem dog child clean moral fish";
+var mnemonic = "bleak switch bar clerk surprise when canoe manage dream isolate ozone explain";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel rebel toe emerge update middle return rather organ script clip lock";
+var mnemonic = "strike board relief lamp glory caution business venture cradle scrub short layer";

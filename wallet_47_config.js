@@ -1,1 +1,1 @@
-var mnemonic = "social outer budget illness victory salad gesture alcohol kitchen bundle salmon model";
+var mnemonic = "dash mass evidence funny bridge capital cherry table situate monkey before resist";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep peasant token leisure balance buyer fabric weird powder exist doll reason";
+var mnemonic = "mushroom dinner wolf ready legal search galaxy gather mosquito client chunk symptom";

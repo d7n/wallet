@@ -1,1 +1,1 @@
-var mnemonic = "cushion narrow salmon shoe surprise best protect where position crew relief devote";
+var mnemonic = "sunset december jar swim penalty ride have shy enrich fun flush strong";
