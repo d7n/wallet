@@ -1,1 +1,1 @@
-var mnemonic = "roast print detect biology where battle place blush access spy inflict price";
+var mnemonic = "major exhaust harvest fun scheme myth napkin discover surge swarm uphold music";

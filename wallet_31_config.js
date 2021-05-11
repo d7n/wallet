@@ -1,1 +1,1 @@
-var mnemonic = "obscure kit cricket ice diamond express field engine usual possible mind nurse";
+var mnemonic = "language wreck bamboo reunion heavy address other quarter nasty subway soup lady";

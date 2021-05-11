@@ -1,1 +1,1 @@
-var mnemonic = "draw garbage claw ivory prison chicken banner someone exercise grass clump long";
+var mnemonic = "hamster diagram dragon economy cereal flee deputy know slim quick slam unique";

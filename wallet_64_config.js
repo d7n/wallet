@@ -1,1 +1,1 @@
-var mnemonic = "alter cliff pole mesh waste stage crop double index debate mad ghost";
+var mnemonic = "web toe link pipe duty total okay tool wild leg dragon innocent";

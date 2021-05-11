@@ -1,1 +1,1 @@
-var mnemonic = "element gorilla enhance cotton able fortune apart turtle sell undo reflect write";
+var mnemonic = "base model chalk search carry large team illegal current random divide process";

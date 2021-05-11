@@ -1,1 +1,1 @@
-var mnemonic = "shaft smile vicious travel dignity upon toy noodle magnet rate seven aspect";
+var mnemonic = "audit output tobacco ocean afraid version merry double reason recycle ability sick";

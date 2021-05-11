@@ -1,1 +1,1 @@
-var mnemonic = "crush outside impulse cruise panda attack kick december naive combine tragic man";
+var mnemonic = "mixed urge drive uncle prevent client ugly police hello kid panther uncover";

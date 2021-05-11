@@ -1,1 +1,1 @@
-var mnemonic = "family eyebrow leave upon main divorce stairs catalog adapt spell baby party";
+var mnemonic = "alley tornado sketch shield this invest lion insect zone about panda spider";

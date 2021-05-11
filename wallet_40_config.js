@@ -1,1 +1,1 @@
-var mnemonic = "just verify jungle ribbon analyst track client clump first olive pass brain";
+var mnemonic = "exile march vital autumn employ employ mask river lava enrich wait grit";

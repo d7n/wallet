@@ -1,1 +1,1 @@
-var mnemonic = "subway utility corn chef box faith silly blush popular oval turtle power";
+var mnemonic = "torch tape sad reduce sick boy poem dog child clean moral fish";

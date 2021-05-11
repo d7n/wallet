@@ -1,1 +1,1 @@
-var mnemonic = "sausage vintage satoshi border viable today burden catch trick immense ecology sustain";
+var mnemonic = "version novel sudden sadness oak rare biology bar chunk monster cram poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "develop clap cabin please live calm stereo split flash cram artefact property";
+var mnemonic = "stand fox noise water drama resist oak nothing that acid mobile mosquito";

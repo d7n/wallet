@@ -1,1 +1,1 @@
-var mnemonic = "myself bullet occur swear sentence option cousin false bright royal stone piano";
+var mnemonic = "sniff marine draw stumble refuse card table crush ripple wise apology fly";

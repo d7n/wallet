@@ -1,1 +1,1 @@
-var mnemonic = "sad mystery citizen system lake alarm devote until universe dune stock notice";
+var mnemonic = "social outer budget illness victory salad gesture alcohol kitchen bundle salmon model";

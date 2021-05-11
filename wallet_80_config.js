@@ -1,1 +1,1 @@
-var mnemonic = "number biology tell mention horror member reflect mouse debate seat exercise master";
+var mnemonic = "all million twin happy sun shadow wasp supply farm river gold weird";

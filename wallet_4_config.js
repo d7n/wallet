@@ -1,1 +1,1 @@
-var mnemonic = "cruel labor evil square poem bottom disease critic patrol marine iron swing";
+var mnemonic = "truck sock popular drip negative grit child borrow impact resemble social mosquito";

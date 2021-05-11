@@ -1,1 +1,1 @@
-var mnemonic = "disorder draw visa sauce vast special desert print fall nature fossil false";
+var mnemonic = "swing crowd give kite naive column funny close smart void energy dismiss";

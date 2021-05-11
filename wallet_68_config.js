@@ -1,1 +1,1 @@
-var mnemonic = "amount kitchen accuse remain danger urge inform token talk boat business goat";
+var mnemonic = "kick bright fatal offer spice long bachelor abandon man jelly wood phrase";

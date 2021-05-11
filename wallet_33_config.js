@@ -1,1 +1,1 @@
-var mnemonic = "letter heavy summer veteran true spawn bulb swing ball limit rough elegant";
+var mnemonic = "weekend purse lab mistake total cricket great item prison mouse census mule";

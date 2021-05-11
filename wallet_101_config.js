@@ -1,1 +1,1 @@
-var mnemonic = "garlic guilt inhale piece list position push leopard option garden visa laundry";
+var mnemonic = "scale dignity unit gift library clever edge steel boat luxury ugly misery";

@@ -1,1 +1,1 @@
-var mnemonic = "pause garment unfair exile elegant dilemma outdoor panther hole deny theme glove";
+var mnemonic = "special pink virtual trouble eight strong ridge hello resource pen travel usual";

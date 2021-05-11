@@ -1,1 +1,1 @@
-var mnemonic = "involve able race purity leisure beef spatial cabin coin food feature green";
+var mnemonic = "curve warrior dose mammal avoid lava swim funny observe random ritual garage";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot position heart party section eagle blast device impact federal cram method";
+var mnemonic = "scale snow loop punch dignity another mobile wood twin quantum jump hazard";

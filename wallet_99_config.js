@@ -1,1 +1,1 @@
-var mnemonic = "cancel point toilet base shoulder armor post correct ball ridge tilt scale";
+var mnemonic = "return crew hour crumble inch size index basket use dust sting stable";

@@ -1,1 +1,1 @@
-var mnemonic = "finger power slush eternal marble meadow skate sense mirror hard chef need";
+var mnemonic = "rule skin adapt tell popular uncover hamster axis simple prepare tennis response";

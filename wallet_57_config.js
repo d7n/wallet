@@ -1,1 +1,1 @@
-var mnemonic = "whip taste require near speak stumble globe energy balcony guide gaze river";
+var mnemonic = "dwarf jar gun taxi swarm above exile lottery receive story acid fix";

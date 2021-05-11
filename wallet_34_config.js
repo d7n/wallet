@@ -1,1 +1,1 @@
-var mnemonic = "congress couch rude meat then mango crime thumb arrest pioneer execute movie";
+var mnemonic = "record tonight shoulder method jar pilot chuckle second blind leave solve find";

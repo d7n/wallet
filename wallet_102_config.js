@@ -1,1 +1,1 @@
-var mnemonic = "truly easy deposit tape involve skirt imitate genuine mandate blush prosper total";
+var mnemonic = "hood paddle valid limit cloth agree border rural bulb uphold average program";

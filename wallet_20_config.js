@@ -1,1 +1,1 @@
-var mnemonic = "airport round mammal merge adjust conduct sudden bundle design fault pumpkin drop";
+var mnemonic = "logic border payment clown pink ensure profit bonus monster skull lonely agent";

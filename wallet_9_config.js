@@ -1,1 +1,1 @@
-var mnemonic = "layer bamboo craft engage ill inmate limb call month display nurse total";
+var mnemonic = "defense utility life town sample father brass fog forum issue ecology kiwi";

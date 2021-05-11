@@ -1,1 +1,1 @@
-var mnemonic = "destroy bonus shadow three include sense rate match post grape same assault";
+var mnemonic = "torch filter foil comic zone reward region burst repair vintage snow world";

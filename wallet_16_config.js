@@ -1,1 +1,1 @@
-var mnemonic = "path note strong gain mix pool wink catch desert swallow age purity";
+var mnemonic = "stereo coil light peace position eager chase inspire next occur evidence cup";

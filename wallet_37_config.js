@@ -1,1 +1,1 @@
-var mnemonic = "east meat era drum december ancient scare family busy music air banner";
+var mnemonic = "hill all net diagram release electric perfect dizzy palace nut load kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten tide layer grab roof episode fish crack valve stamp member choose";
+var mnemonic = "main mixed pact dwarf subway food west laugh trade used town february";

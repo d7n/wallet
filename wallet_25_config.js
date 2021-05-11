@@ -1,1 +1,1 @@
-var mnemonic = "kingdom almost smoke orbit sample humble can token kitten call ship chase";
+var mnemonic = "valid stove fee broccoli front select drip candy cruise fire parade tuna";

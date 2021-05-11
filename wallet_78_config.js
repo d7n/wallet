@@ -1,1 +1,1 @@
-var mnemonic = "cat hammer horror inner acoustic pull frown this expire fossil cross arrow";
+var mnemonic = "organ pyramid organ access flush glide post hire ticket bargain rubber sugar";

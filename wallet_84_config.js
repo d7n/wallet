@@ -1,1 +1,1 @@
-var mnemonic = "bracket wise maximum mom ritual hidden bounce squeeze debris nephew alcohol guard";
+var mnemonic = "bulb fade reveal twice invest perfect blood force access ahead tired picture";

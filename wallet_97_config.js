@@ -1,1 +1,1 @@
-var mnemonic = "river erupt onion outside chase world soft refuse balcony sock silent chapter";
+var mnemonic = "kiwi broken normal praise knee faint ginger double gym room leave hundred";

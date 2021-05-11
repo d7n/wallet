@@ -1,1 +1,1 @@
-var mnemonic = "fatigue burger ordinary vintage end away key race keen display surprise virus";
+var mnemonic = "soap ensure banner fix tragic annual grid decide design divorce poverty there";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain video shield author sugar claw food fringe admit ghost stove suffer";
+var mnemonic = "search kiwi lawn gas pair rally dinosaur grab tribe absurd town together";

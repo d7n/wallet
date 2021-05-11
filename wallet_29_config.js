@@ -1,1 +1,1 @@
-var mnemonic = "penalty metal cinnamon cash screen pen figure luggage luggage start multiply motor";
+var mnemonic = "minor smooth fluid wagon badge crew depth capable absorb record force era";

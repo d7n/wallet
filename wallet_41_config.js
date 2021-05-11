@@ -1,1 +1,1 @@
-var mnemonic = "neutral camp sniff casino loan consider genre smile warm update jacket ivory";
+var mnemonic = "lady inch sample identify color digital eternal street awake smoke better judge";

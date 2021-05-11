@@ -1,1 +1,1 @@
-var mnemonic = "relief judge pilot month blind word leg inherit firm finger settle shed";
+var mnemonic = "someone runway sing okay turtle mad kidney service science giant betray master";

@@ -1,1 +1,1 @@
-var mnemonic = "scale evoke poet ball old police phrase sing abuse ethics giggle agent";
+var mnemonic = "immense outdoor song again cancel coast oxygen unique cry renew novel silent";

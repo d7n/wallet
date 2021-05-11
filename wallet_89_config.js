@@ -1,1 +1,1 @@
-var mnemonic = "label typical expect skate neglect penalty boy forget harsh amount wave chest";
+var mnemonic = "prison transfer segment speed mercy taste display brave fancy peasant private spin";

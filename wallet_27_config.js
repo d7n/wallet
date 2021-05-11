@@ -1,1 +1,1 @@
-var mnemonic = "what crunch doctor fine credit hard high beach stick elder van rabbit";
+var mnemonic = "kind fan thing pupil taxi foster tuition abandon century expire cage dwarf";

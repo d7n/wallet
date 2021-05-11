@@ -1,1 +1,1 @@
-var mnemonic = "release differ absurd festival combine inch foil offer gas symbol stamp gorilla";
+var mnemonic = "pet vintage resource dose lucky fluid sign believe sign maid car fiction";

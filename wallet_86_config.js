@@ -1,1 +1,1 @@
-var mnemonic = "rather ignore enroll habit infant around model ramp program naive box erosion";
+var mnemonic = "salmon resist orphan inmate scene hard elegant blame select conduct process deny";

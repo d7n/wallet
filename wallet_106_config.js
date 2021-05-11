@@ -1,1 +1,1 @@
-var mnemonic = "humor intact idea arrange love olive glass system grow primary garlic invest";
+var mnemonic = "loyal despair sentence negative funny nuclear universe puppy marine gun velvet blur";

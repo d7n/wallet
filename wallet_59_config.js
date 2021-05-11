@@ -1,1 +1,1 @@
-var mnemonic = "fade either anger seed economy weasel focus leopard dust dentist sheriff barely";
+var mnemonic = "cage decrease dance robust run trigger thumb captain ramp hello agree input";

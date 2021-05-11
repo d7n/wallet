@@ -1,1 +1,1 @@
-var mnemonic = "game thrive impact help shield nest vessel rather tumble forward elder present";
+var mnemonic = "genius inflict border always wood track economy river belt dune mouse left";

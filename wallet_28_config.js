@@ -1,1 +1,1 @@
-var mnemonic = "squeeze wine bunker six unfair leader other borrow hat cage edge goose";
+var mnemonic = "endorse waste smoke fiber behave upgrade kingdom obscure suffer gap visual stereo";

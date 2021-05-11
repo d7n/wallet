@@ -1,1 +1,1 @@
-var mnemonic = "effort actual correct dog autumn surface october puzzle bottom clog trophy siren";
+var mnemonic = "stairs strategy detect orbit record wait carbon thought melody lunar across sister";

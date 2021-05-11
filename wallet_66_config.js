@@ -1,1 +1,1 @@
-var mnemonic = "elbow region chimney monster pistol divert curious adjust daring october trick during";
+var mnemonic = "hello victory swear diamond wool garbage poverty embark luggage sweet bind universe";

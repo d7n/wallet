@@ -1,1 +1,1 @@
-var mnemonic = "patient narrow nerve audit fabric tilt sketch casual rival useful kite behave";
+var mnemonic = "canal grain rug bonus scatter ability clay century sword canoe bronze wonder";

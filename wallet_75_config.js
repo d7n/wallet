@@ -1,1 +1,1 @@
-var mnemonic = "quote merit absorb special person cushion slight maple siege cube honey output";
+var mnemonic = "fit reform traffic boat universe truck arch gain over skirt pet agent";

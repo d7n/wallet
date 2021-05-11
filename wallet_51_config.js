@@ -1,1 +1,1 @@
-var mnemonic = "raise dial cupboard matter grass sense agent modify course road weather turtle";
+var mnemonic = "october escape earn poverty medal finish boil you leg know protect dad";

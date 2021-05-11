@@ -1,1 +1,1 @@
-var mnemonic = "brother below stuff pipe badge flag icon change giggle way define ivory";
+var mnemonic = "harvest art pelican collect permit shaft feel vital fox canal reflect slice";

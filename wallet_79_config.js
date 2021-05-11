@@ -1,1 +1,1 @@
-var mnemonic = "sadness gate rent step march cargo amateur nose grocery hawk rely oxygen";
+var mnemonic = "quantum blood palm flock stairs fantasy fine toilet bulk task work cloth";

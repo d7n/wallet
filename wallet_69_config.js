@@ -1,1 +1,1 @@
-var mnemonic = "shell never inspire hello bicycle capital fragile agree squeeze token online someone";
+var mnemonic = "sentence gadget ball snap use ghost seek capable buffalo mother acquire boost";

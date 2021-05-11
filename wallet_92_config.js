@@ -1,1 +1,1 @@
-var mnemonic = "fat basic own badge way shallow husband final grit couple deputy viable";
+var mnemonic = "skate spread army endless move scene cup elder party volcano venture city";

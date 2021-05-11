@@ -1,1 +1,1 @@
-var mnemonic = "grain shrimp govern drastic between manage picture club chuckle alarm taxi little";
+var mnemonic = "amazing aunt fitness announce banana chunk twist tower match boost member now";

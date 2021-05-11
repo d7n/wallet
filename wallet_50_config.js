@@ -1,1 +1,1 @@
-var mnemonic = "april flame champion output lecture arrange wage shuffle burst later ecology detail";
+var mnemonic = "away sorry van slender stable tray elite panic skirt empower cliff bomb";

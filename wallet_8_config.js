@@ -1,1 +1,1 @@
-var mnemonic = "tragic elder trade omit ancient equip oblige solar bid cereal mean trust";
+var mnemonic = "share banner material comfort jungle connect hurt ensure venture hill weasel easy";

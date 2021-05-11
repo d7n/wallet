@@ -1,1 +1,1 @@
-var mnemonic = "juice during tenant satisfy water cube apart only minute drift lesson twenty";
+var mnemonic = "tunnel forward exchange seat venture argue good palace ten steak veteran include";

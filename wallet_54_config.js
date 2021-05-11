@@ -1,1 +1,1 @@
-var mnemonic = "unaware horn chief please tomato group resist accident fade betray hockey renew";
+var mnemonic = "pudding airport question tide object kangaroo into laptop moral lazy easy screen";

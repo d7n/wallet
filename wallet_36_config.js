@@ -1,1 +1,1 @@
-var mnemonic = "exhibit arctic calm sausage peanut scrap distance loyal rate fog twist school";
+var mnemonic = "fade pudding laptop awesome tent certain tomato donor van various cram ethics";

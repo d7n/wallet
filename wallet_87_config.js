@@ -1,1 +1,1 @@
-var mnemonic = "proof entry mammal knife response try flock turkey double invest zone govern";
+var mnemonic = "strong cool excite mansion soda clever what drastic town cotton system grab";

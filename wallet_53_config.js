@@ -1,1 +1,1 @@
-var mnemonic = "federal mechanic lounge token wedding update injury sphere replace despair box naive";
+var mnemonic = "ritual know casino method mail forest say fix echo tomorrow plug pelican";

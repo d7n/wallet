@@ -1,1 +1,1 @@
-var mnemonic = "scout feature rich own three jelly lawsuit amused horror turkey drama daring";
+var mnemonic = "gospel wisdom prevent chase express effort useful immense depend account stairs wire";

@@ -1,1 +1,1 @@
-var mnemonic = "myself gain wage balcony pass they sing brisk gasp fox draw achieve";
+var mnemonic = "aware atom pigeon empty express page predict sibling carbon okay success ability";

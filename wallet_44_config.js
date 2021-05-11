@@ -1,1 +1,1 @@
-var mnemonic = "future oxygen that glow spy flee hard woman direct menu confirm cute";
+var mnemonic = "faith twenty doctor pulse rubber brass action lyrics define horn judge junk";

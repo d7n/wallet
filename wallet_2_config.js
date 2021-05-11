@@ -1,1 +1,1 @@
-var mnemonic = "alarm tail category process typical unlock raccoon predict exclude axis someone globe";
+var mnemonic = "error raw copy fabric arm wheel govern random movie major seat you";

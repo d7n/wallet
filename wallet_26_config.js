@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit shell fame luxury scrub assume stadium pair uncle inch truth path";
+var mnemonic = "quit result sad party rotate girl attract cross find faint course photo";

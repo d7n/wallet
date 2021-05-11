@@ -1,1 +1,1 @@
-var mnemonic = "web peace fashion equal step spirit since calm hunt seat spice tunnel";
+var mnemonic = "broom sketch afraid high isolate permit puzzle common vessel meat slam movie";

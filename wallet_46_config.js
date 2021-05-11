@@ -1,1 +1,1 @@
-var mnemonic = "diary rich just rent floor husband blur hammer witness person year animal";
+var mnemonic = "harbor wasp bench bulb draft retreat bracket cushion credit lucky rapid theme";

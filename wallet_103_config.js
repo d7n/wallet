@@ -1,1 +1,1 @@
-var mnemonic = "usual crumble wonder erosion happy license hotel skin era sort multiply surprise";
+var mnemonic = "evoke health country legend skin virus alone diet ski cave shaft section";

@@ -1,1 +1,1 @@
-var mnemonic = "hen embody vivid dismiss team steak clock need travel case tornado idea";
+var mnemonic = "slam open slice alarm okay student soccer disorder sibling refuse nurse kitchen";

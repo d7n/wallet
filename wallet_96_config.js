@@ -1,1 +1,1 @@
-var mnemonic = "exhibit silver urge sorry moral super echo valley world very flat cry";
+var mnemonic = "identify immune smile ring weapon gap they join future east outside mixed";

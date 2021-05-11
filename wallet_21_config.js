@@ -1,1 +1,1 @@
-var mnemonic = "museum isolate slide duty eternal creek run onion basket swift snack social";
+var mnemonic = "voice prevent spoil area afford cousin armor version trick quantum shoot pipe";

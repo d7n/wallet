@@ -1,1 +1,1 @@
-var mnemonic = "home imitate deal gain novel kick apology manual bench cable eagle welcome";
+var mnemonic = "tonight misery acoustic skirt truly muscle again cattle sort smoke crew post";

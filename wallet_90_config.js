@@ -1,1 +1,1 @@
-var mnemonic = "erase expand shy unlock library shield unusual student thing reward rebuild trumpet";
+var mnemonic = "olive weasel pluck topic code ancient monkey wrong long across success mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "material yellow model essence trumpet diagram write distance rich that traffic food";
+var mnemonic = "range solution ticket second grab vacant glide marble kind business panda inject";

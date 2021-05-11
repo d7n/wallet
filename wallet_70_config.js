@@ -1,1 +1,1 @@
-var mnemonic = "turtle long gauge inch start true orient agree neglect absent frog sleep";
+var mnemonic = "silly wood pact year wedding flight begin body concert kite dawn aware";

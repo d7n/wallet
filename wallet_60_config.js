@@ -1,1 +1,1 @@
-var mnemonic = "gun fog wise core weasel away execute myth extra food cheese bulk";
+var mnemonic = "scout soup near alone pumpkin drastic multiply indoor wealth poem depart dirt";

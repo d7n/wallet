@@ -1,1 +1,1 @@
-var mnemonic = "emotion lady endless fame luggage reopen merge hole print access pioneer blanket";
+var mnemonic = "miss bracket try edge globe genuine decline glimpse poet sphere aim absent";

@@ -1,1 +1,1 @@
-var mnemonic = "home cradle left spawn ensure repair umbrella glare hard order crystal myself";
+var mnemonic = "coin net brown smooth genre patient hero corn belt champion wrestle curve";

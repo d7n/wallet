@@ -1,1 +1,1 @@
-var mnemonic = "job pupil live cherry final love purity viable search since rifle stem";
+var mnemonic = "frequent grief cross urban hero right crane smart hour potato ship magic";

@@ -1,1 +1,1 @@
-var mnemonic = "media curious talk dwarf eagle meadow woman drip month census figure course";
+var mnemonic = "venue acoustic screen motor bar expire dynamic have still hint rail shoulder";

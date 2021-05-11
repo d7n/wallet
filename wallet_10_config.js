@@ -1,1 +1,1 @@
-var mnemonic = "home trade face mammal evil borrow tourist oven color combine wrestle mixture";
+var mnemonic = "popular arch unit biology access sister photo setup assume habit bacon immense";
