@@ -1,1 +1,1 @@
-var mnemonic = "alien boat abandon have enter save chest journey senior cabbage expire confirm";
+var mnemonic = "offer damp sample height depart donate joy warrior snap mosquito shuffle anchor";

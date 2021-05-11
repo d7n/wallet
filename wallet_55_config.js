@@ -1,1 +1,1 @@
-var mnemonic = "return cruise dash truly inform wool delay inside unable offer degree mass";
+var mnemonic = "message medal angle organ cash olympic parade earth away chronic web weird";

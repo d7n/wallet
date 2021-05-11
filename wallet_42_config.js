@@ -1,1 +1,1 @@
-var mnemonic = "plunge velvet task viable busy effort fabric salad oxygen museum combine beauty";
+var mnemonic = "hybrid adjust verify van obvious squeeze shy kite left memory credit lemon";

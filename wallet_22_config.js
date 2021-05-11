@@ -1,1 +1,1 @@
-var mnemonic = "trumpet radio next duty climb input section impose sweet excess crawl goat";
+var mnemonic = "atom clutch logic ancient much laptop analyst anchor circle man dad small";

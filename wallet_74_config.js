@@ -1,1 +1,1 @@
-var mnemonic = "mad ankle denial employ wash sound core antique electric caught juice unknown";
+var mnemonic = "weapon letter trophy brief frog creek inquiry canal oval fruit board meat";

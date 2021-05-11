@@ -1,1 +1,1 @@
-var mnemonic = "pizza year middle share network bid fury wire early foster clock zoo";
+var mnemonic = "wrestle smile possible aware away vanish seat lucky hidden aunt derive atom";

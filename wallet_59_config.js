@@ -1,1 +1,1 @@
-var mnemonic = "visa that okay narrow start way merit dress relax suspect prison public";
+var mnemonic = "measure disagree more carpet bundle comfort divert crystal usage rude truck hello";

@@ -1,1 +1,1 @@
-var mnemonic = "foster siege accident feature stem insect obvious find issue taxi volume tail";
+var mnemonic = "way action segment drum gasp inform stick hand hip update phone panda";

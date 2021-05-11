@@ -1,1 +1,1 @@
-var mnemonic = "skirt bonus disagree angry aim journey rail rhythm defy educate problem parent";
+var mnemonic = "hurt language palace oblige arrange behind mandate glove supply into hen aisle";

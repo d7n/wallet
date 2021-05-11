@@ -1,1 +1,1 @@
-var mnemonic = "select myself pass used economy bachelor supply split spider unable filter proud";
+var mnemonic = "also among garbage glimpse brief used cup ozone force empower ring century";

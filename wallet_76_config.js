@@ -1,1 +1,1 @@
-var mnemonic = "tone hip spell melt abuse rug better sense suffer problem demise area";
+var mnemonic = "script short subway derive more scare general canoe later legal estate easily";

@@ -1,1 +1,1 @@
-var mnemonic = "weather another hotel endless region typical tobacco jar lizard panda disagree child";
+var mnemonic = "above crack spot tissue then shrimp stick work taste gun clutch fence";

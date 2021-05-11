@@ -1,1 +1,1 @@
-var mnemonic = "puppy hold frost exit fantasy version toe company river volume cake matter";
+var mnemonic = "bounce patrol slam near gown match obey forum finger organ wasp october";

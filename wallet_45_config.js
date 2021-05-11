@@ -1,1 +1,1 @@
-var mnemonic = "zoo keen fluid very rival orchard caught media breeze captain guilt attack";
+var mnemonic = "cancel napkin misery record grief raw fabric ugly future fade hazard fence";

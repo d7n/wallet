@@ -1,1 +1,1 @@
-var mnemonic = "disorder opinion aim ski leg corn brass gospel sport base brand current";
+var mnemonic = "give decrease tank news wise pitch execute own dizzy evil dish toy";

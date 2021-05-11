@@ -1,1 +1,1 @@
-var mnemonic = "purse resource mystery wing jeans echo you exact depend bar message suit";
+var mnemonic = "turn fade buffalo dust milk group elevator crouch side artefact common scene";

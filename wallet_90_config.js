@@ -1,1 +1,1 @@
-var mnemonic = "boil journey frown belt limb cat dance general upon moment orange youth";
+var mnemonic = "gift memory neck lonely guide rice this nothing square indicate forward casino";

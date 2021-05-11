@@ -1,1 +1,1 @@
-var mnemonic = "wife weasel mandate blanket toast carbon lion animal what chaos silk idle";
+var mnemonic = "wide sun what slogan wood fashion mechanic ivory spice interest wine relax";

@@ -1,1 +1,1 @@
-var mnemonic = "ship laptop park speed trigger sibling choose consider chest cook liar egg";
+var mnemonic = "range loud young deliver swing wreck strategy teach also expect health any";

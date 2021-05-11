@@ -1,1 +1,1 @@
-var mnemonic = "hobby attitude topple scrub blush erode despair legend cloth apology pistol worth";
+var mnemonic = "mammal daughter elephant cricket crack coast lizard master admit smart quantum rug";

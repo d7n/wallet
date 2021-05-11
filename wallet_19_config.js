@@ -1,1 +1,1 @@
-var mnemonic = "cry please feature chat palm shield glove vocal tray clump emotion chief";
+var mnemonic = "harsh accuse first wet broccoli shrug slab wink bullet step rack uphold";

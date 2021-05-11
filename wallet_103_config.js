@@ -1,1 +1,1 @@
-var mnemonic = "helmet boy climb coil vibrant tail menu amount tiger adjust onion cloud";
+var mnemonic = "fine kiwi team beyond shop clog gain merge switch recall mix subway";

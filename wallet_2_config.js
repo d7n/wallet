@@ -1,1 +1,1 @@
-var mnemonic = "require bag shallow fitness patrol cause fury depend true sick hamster symptom";
+var mnemonic = "color journey catch tenant supply stable safe jump ecology web boat run";

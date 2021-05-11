@@ -1,1 +1,1 @@
-var mnemonic = "abandon stage upgrade garden gauge expose clip base artwork item choice empower";
+var mnemonic = "rich dance equip ice unlock flat link assault tell maid notice rebuild";

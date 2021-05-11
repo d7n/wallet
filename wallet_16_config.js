@@ -1,1 +1,1 @@
-var mnemonic = "vanish tobacco notice stadium light climb talent garbage potato old certain ranch";
+var mnemonic = "mercy elite canoe setup robust mystery skill crush position man casual museum";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate correct reject habit size pool idea various occur company picnic math";
+var mnemonic = "gather vocal orphan abstract notable stomach good inside liquid core pyramid fame";

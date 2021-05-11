@@ -1,1 +1,1 @@
-var mnemonic = "acquire soldier spin wire stadium odor feature stable perfect fall usage suffer";
+var mnemonic = "session lobster mind remove parent surge spy name any seminar increase flower";

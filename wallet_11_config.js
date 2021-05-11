@@ -1,1 +1,1 @@
-var mnemonic = "bomb gift comic giggle cancel morning manage burden hedgehog anxiety drip pencil";
+var mnemonic = "accuse smart minor extend spy lift sheriff share lend dignity size duck";

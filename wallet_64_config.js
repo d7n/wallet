@@ -1,1 +1,1 @@
-var mnemonic = "brain silk science any reduce luxury shallow elephant hill mandate lawsuit travel";
+var mnemonic = "taste embody carry noodle helmet great spider nothing grass unknown fee baby";

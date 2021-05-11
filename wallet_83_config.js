@@ -1,1 +1,1 @@
-var mnemonic = "famous collect benefit link luggage bubble relax venue lesson earth impulse eager";
+var mnemonic = "frost taste slogan foil lizard spatial couple trick local lottery balcony absent";

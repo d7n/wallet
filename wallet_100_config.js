@@ -1,1 +1,1 @@
-var mnemonic = "coach liberty solid matter this erode alter ladder connect talent left divide";
+var mnemonic = "trim negative sure used undo scale dust smoke chaos where blood fire";

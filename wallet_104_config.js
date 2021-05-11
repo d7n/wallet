@@ -1,1 +1,1 @@
-var mnemonic = "market habit memory orient pulse note tray web matrix joke size believe";
+var mnemonic = "glow december merit journey degree diagram echo naive market like infant now";

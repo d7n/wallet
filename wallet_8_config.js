@@ -1,1 +1,1 @@
-var mnemonic = "pepper vote rookie wait nest kid feature initial excite bulb dinosaur snap";
+var mnemonic = "swim chuckle swap soft cloud fat gesture quote doll scorpion ginger brisk";

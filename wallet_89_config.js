@@ -1,1 +1,1 @@
-var mnemonic = "alcohol dinosaur crop comic august ahead have arrow goat daughter crime wealth";
+var mnemonic = "summer fancy alcohol letter slight clarify grit more satoshi betray increase wrong";

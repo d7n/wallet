@@ -1,1 +1,1 @@
-var mnemonic = "story cattle claw muscle lunch provide blanket forest feature shield spoil relax";
+var mnemonic = "true version coral cinnamon market ride combine plate scan until hospital letter";

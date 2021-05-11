@@ -1,1 +1,1 @@
-var mnemonic = "carbon page section random mirror silver dove embody warm shine long mixed";
+var mnemonic = "unhappy home pet chase ugly human grab flower outdoor exhaust cycle survey";

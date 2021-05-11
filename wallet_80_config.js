@@ -1,1 +1,1 @@
-var mnemonic = "refuse limb random salon hurry swallow seed swing tortoise disease only ethics";
+var mnemonic = "switch dismiss oblige ozone about maple tower ability render sail glide nurse";

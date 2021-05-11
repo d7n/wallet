@@ -1,1 +1,1 @@
-var mnemonic = "basket inflict bubble danger total law embody vanish skirt plunge wine perfect";
+var mnemonic = "scrap leopard square spider surround oak clarify all exist scissors alien hover";

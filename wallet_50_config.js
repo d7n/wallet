@@ -1,1 +1,1 @@
-var mnemonic = "explain story burger sibling dignity before ripple permit century laptop velvet unaware";
+var mnemonic = "monster permit rice avocado sentence chef leisure corn negative raven salad mind";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry remain century fitness voyage obey elder give door seat enrich scorpion";
+var mnemonic = "guard caution motion pull thrive unfair else system silk excuse clown spy";

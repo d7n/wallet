@@ -1,1 +1,1 @@
-var mnemonic = "material light affair canal merit buzz south gesture anchor area bullet mind";
+var mnemonic = "door much sketch already tank quantum knife post flower beauty obtain element";

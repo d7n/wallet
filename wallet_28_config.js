@@ -1,1 +1,1 @@
-var mnemonic = "wool nation ivory hair mail logic silk relax love evoke exchange frog";
+var mnemonic = "orphan rather pool capable edge muscle siege feed front notice save zebra";

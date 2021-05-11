@@ -1,1 +1,1 @@
-var mnemonic = "toddler drop penalty invest knock primary later bean hat rescue adapt slender";
+var mnemonic = "subject chapter away wise boss alter weasel noble blossom inform candy divide";

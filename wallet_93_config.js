@@ -1,1 +1,1 @@
-var mnemonic = "candy glide hip sight diesel saddle give rate rose seminar author solid";
+var mnemonic = "lock brush position donate frequent supreme exercise early display raise school guilt";

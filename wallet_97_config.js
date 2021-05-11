@@ -1,1 +1,1 @@
-var mnemonic = "device addict fabric middle cactus when attract kidney lab else change blanket";
+var mnemonic = "accident insane copper allow museum there glance warfare current antique throw duty";

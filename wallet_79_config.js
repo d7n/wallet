@@ -1,1 +1,1 @@
-var mnemonic = "fortune winter proof hawk shove sphere trust drill all spot purity seminar";
+var mnemonic = "vault asthma case hint tribe story fun kidney boost certain outside pudding";

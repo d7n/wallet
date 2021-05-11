@@ -1,1 +1,1 @@
-var mnemonic = "sad rather arrow scrap can enlist liar zone artwork crop process weapon";
+var mnemonic = "blade illness scale appear elevator example collect clean trash year charge kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "naive need vessel page sock scare display merge view hospital december shoot";
+var mnemonic = "fence chest wood drink black snake belt law lawn scheme fiscal fog";

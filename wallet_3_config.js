@@ -1,1 +1,1 @@
-var mnemonic = "pyramid blood lion thing correct border volume hand interest bullet mountain acoustic";
+var mnemonic = "seed initial cushion sketch large mechanic future verb smile search special crucial";

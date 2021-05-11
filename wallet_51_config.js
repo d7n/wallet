@@ -1,1 +1,1 @@
-var mnemonic = "kite say series general crunch minor vital moment mention rather drop social";
+var mnemonic = "argue toilet shoe genuine impact legend extend cricket body uncle ribbon file";

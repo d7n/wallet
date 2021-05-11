@@ -1,1 +1,1 @@
-var mnemonic = "raccoon erode can real spider lecture defense poverty cloud giant blouse chicken";
+var mnemonic = "vehicle acid member nation coil region iron undo battle neglect valley demise";

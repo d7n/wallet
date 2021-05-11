@@ -1,1 +1,1 @@
-var mnemonic = "post defense ice flush taxi vanish language case chalk idle flight voyage";
+var mnemonic = "pair awake rebel cigar allow like brave found alien vessel minor limb";

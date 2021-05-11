@@ -1,1 +1,1 @@
-var mnemonic = "fade try mutual need project hundred merit repair argue thunder wreck ship";
+var mnemonic = "muscle auto celery outdoor slab notice exact weekend sand tool outdoor pledge";

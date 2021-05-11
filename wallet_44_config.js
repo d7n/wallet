@@ -1,1 +1,1 @@
-var mnemonic = "twin jungle ticket flame run shrug sweet gospel start win wrist region";
+var mnemonic = "enhance enter nation era treat system peasant entire spoil athlete toward scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "else slush rotate pledge mail pipe fold ginger media small ritual below";
+var mnemonic = "estate melody still tattoo actual speed essay youth wear kiwi produce expect";

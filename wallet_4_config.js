@@ -1,1 +1,1 @@
-var mnemonic = "crawl bright advance unhappy romance three busy assault rapid fluid blast round";
+var mnemonic = "impulse tuition situate clinic pigeon toast critic enhance hedgehog turkey letter noble";

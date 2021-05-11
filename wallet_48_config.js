@@ -1,1 +1,1 @@
-var mnemonic = "verify goddess hub coast wheel couple chaos museum method cereal rubber myth";
+var mnemonic = "topic chalk acoustic weasel size pair trade bachelor thing explain rocket people";

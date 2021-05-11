@@ -1,1 +1,1 @@
-var mnemonic = "phrase pumpkin embody rain gift dolphin useful allow mansion proud huge leisure";
+var mnemonic = "omit number erase apology summer tank about smile mosquito first genre soda";

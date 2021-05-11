@@ -1,1 +1,1 @@
-var mnemonic = "diesel fatigue famous math prefer boost mesh mom world black drama velvet";
+var mnemonic = "science catalog rifle stool million property energy token recycle oven embody matter";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon expand rifle half payment love forum helmet fabric obvious axis category";
+var mnemonic = "stamp object truth always settle dice void report material gown run chuckle";

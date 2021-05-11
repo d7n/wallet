@@ -1,1 +1,1 @@
-var mnemonic = "kid across rent soccer square chaos ankle surprise chair fault nut glide";
+var mnemonic = "gallery artist erupt sauce invite trouble person east pattern maid dash bread";

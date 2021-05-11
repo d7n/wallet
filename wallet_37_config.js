@@ -1,1 +1,1 @@
-var mnemonic = "argue know stick other lounge private actor ability monster rib buzz orphan";
+var mnemonic = "term bullet farm safe universe push tonight vanish exile kiwi sound cook";

@@ -1,1 +1,1 @@
-var mnemonic = "price oval grocery library hybrid require remove amused hundred twice reduce staff";
+var mnemonic = "virus track punch blue hollow dismiss round slide garden uniform reveal frost";

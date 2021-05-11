@@ -1,1 +1,1 @@
-var mnemonic = "ride report fork ship dove pact garden fee orient identify under pizza";
+var mnemonic = "swift entire denial hole obey blanket advance click curve slow token floor";

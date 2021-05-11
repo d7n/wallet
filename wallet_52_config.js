@@ -1,1 +1,1 @@
-var mnemonic = "flat device jump walk blame twelve fish chef quality neutral regular repeat";
+var mnemonic = "garbage answer minute reason large mutual tray scout kid warfare illegal sorry";

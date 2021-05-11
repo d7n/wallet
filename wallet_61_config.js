@@ -1,1 +1,1 @@
-var mnemonic = "quote merit slight pear under together pond funny pumpkin apart crystal gain";
+var mnemonic = "leaf half castle excite glide embrace arch praise daring whip edge item";

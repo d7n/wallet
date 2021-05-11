@@ -1,1 +1,1 @@
-var mnemonic = "hotel clarify transfer together make shrug illegal laptop east fold limb relax";
+var mnemonic = "large pact actress napkin shiver mother mobile hurdle around midnight suspect giggle";

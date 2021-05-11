@@ -1,1 +1,1 @@
-var mnemonic = "various shove strong segment eternal cargo nose bamboo jump enlist roast remember";
+var mnemonic = "icon icon winner such exotic net divide crime mesh wet carpet post";

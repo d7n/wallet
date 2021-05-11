@@ -1,1 +1,1 @@
-var mnemonic = "better air comic permit gadget captain cinnamon flip ceiling measure inject ten";
+var mnemonic = "guitar crisp lend faith above parrot puppy term beach truck goat need";

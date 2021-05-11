@@ -1,1 +1,1 @@
-var mnemonic = "lawn supply daughter item win glory intact view junk dolphin luggage just";
+var mnemonic = "whale can enough pool february drum hire cattle wing order clog topple";

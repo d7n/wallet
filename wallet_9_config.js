@@ -1,1 +1,1 @@
-var mnemonic = "sunny cement trade call page nasty fatigue release peanut icon lens pudding";
+var mnemonic = "hammer ostrich identify snow veteran differ cactus hawk addict change dress drip";

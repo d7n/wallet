@@ -1,1 +1,1 @@
-var mnemonic = "hold cement judge venue chapter tooth tomorrow dune guilt devote eager despair";
+var mnemonic = "violin swarm floor rain entire sweet medal prefer vacuum fee problem input";

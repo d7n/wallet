@@ -1,1 +1,1 @@
-var mnemonic = "observe ocean learn orange fold chaos glare crouch word grit naive clown";
+var mnemonic = "foil dad what business soda side resemble large parade pet puzzle harvest";

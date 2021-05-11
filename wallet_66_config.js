@@ -1,1 +1,1 @@
-var mnemonic = "neither slam auto liquid grit old nephew delay treat gentle inherit apple";
+var mnemonic = "call song report miracle cruise regret piece grape what web crystal tumble";

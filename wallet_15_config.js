@@ -1,1 +1,1 @@
-var mnemonic = "abandon barely pride key law rate move also creek orange fish street";
+var mnemonic = "call casual river pistol conduct timber whale trigger festival egg liar rotate";

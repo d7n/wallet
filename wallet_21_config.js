@@ -1,1 +1,1 @@
-var mnemonic = "fortune design swear swim stumble car melt end globe clay obscure palm";
+var mnemonic = "this room day dash follow minimum enroll oil arena clever student broken";

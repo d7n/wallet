@@ -1,1 +1,1 @@
-var mnemonic = "black squeeze hunt frown pupil poem devote time awkward two thing phrase";
+var mnemonic = "rigid subject wave ramp century female pride envelope grain frog proof health";

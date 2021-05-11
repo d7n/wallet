@@ -1,1 +1,1 @@
-var mnemonic = "tell focus know aisle blur violin guitar hungry basket armed shed roast";
+var mnemonic = "flip nothing claw true vintage runway taxi soda super once tackle parrot";

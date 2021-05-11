@@ -1,1 +1,1 @@
-var mnemonic = "broken teach rookie scene upgrade top session arctic early profit turn usage";
+var mnemonic = "glance become manage index garlic grain ripple drop art soccer head quit";

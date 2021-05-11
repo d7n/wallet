@@ -1,1 +1,1 @@
-var mnemonic = "pitch odor ignore scissors weapon unlock chicken chair uncover whisper great lift";
+var mnemonic = "tired bright relax dismiss relief palace tube exclude tobacco apart agent timber";

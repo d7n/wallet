@@ -1,1 +1,1 @@
-var mnemonic = "gloom hurdle gun display oval finish camp wine settle run blood hour";
+var mnemonic = "stuff develop wild zone route disorder peasant renew already nice still great";

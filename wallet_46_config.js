@@ -1,1 +1,1 @@
-var mnemonic = "nasty drive damp razor gift comfort easily honey stairs whale plastic glass";
+var mnemonic = "second kind bone wheat ski enrich extend ostrich false impulse weather wife";

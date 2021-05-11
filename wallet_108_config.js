@@ -1,1 +1,1 @@
-var mnemonic = "east board nerve twin crisp indicate leopard fossil blind meat release fashion";
+var mnemonic = "cabbage wild pizza rude smile pottery often voyage afford rich loud switch";

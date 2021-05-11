@@ -1,1 +1,1 @@
-var mnemonic = "radio olive lemon feed palm abandon false search diesel spider ribbon during";
+var mnemonic = "unique exit detect float pyramid still inherit knee cotton uphold employ purity";

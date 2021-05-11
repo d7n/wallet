@@ -1,1 +1,1 @@
-var mnemonic = "engine barely milk symptom section depend barrel member ecology matter circle win";
+var mnemonic = "discover trigger sunset rifle salt worry mass gasp pattern long fatal mutual";

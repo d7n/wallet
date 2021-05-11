@@ -1,1 +1,1 @@
-var mnemonic = "spot rival taxi faculty material guard source chronic sunset tired gravity vendor";
+var mnemonic = "canoe they spoil defy solid tenant bridge dragon limit pioneer wisdom steel";

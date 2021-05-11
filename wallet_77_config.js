@@ -1,1 +1,1 @@
-var mnemonic = "face frequent neutral route cushion idle occur replace jaguar tent kitchen canoe";
+var mnemonic = "tube sibling luxury flock fit educate surge hollow old absorb never begin";

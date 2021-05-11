@@ -1,1 +1,1 @@
-var mnemonic = "belt glide unveil piano original library dune scrap jelly hope dentist net";
+var mnemonic = "crawl satisfy muscle then awful save equip brand index rain company disagree";

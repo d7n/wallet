@@ -1,1 +1,1 @@
-var mnemonic = "slab help universe giant chef mother faculty dismiss six poem banana elevator";
+var mnemonic = "rural bacon argue glow grab horse budget limit dirt confirm mad ordinary";

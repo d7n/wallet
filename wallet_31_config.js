@@ -1,1 +1,1 @@
-var mnemonic = "solution crime cancel song slice cream drastic what once umbrella illness dish";
+var mnemonic = "extra figure huge badge jewel movie organ custom review access drastic build";

@@ -1,1 +1,1 @@
-var mnemonic = "answer one dash cactus major aisle club topic border mimic half gas";
+var mnemonic = "bargain magnet brand paper scrub payment limit earn snake child symbol teach";
