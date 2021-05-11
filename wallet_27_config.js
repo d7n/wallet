@@ -1,1 +1,1 @@
-var mnemonic = "tennis metal once meadow happy orient when peanut pair base jar occur";
+var mnemonic = "dignity beach vibrant load gossip bar ball boat planet survey index slice";

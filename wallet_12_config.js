@@ -1,1 +1,1 @@
-var mnemonic = "sauce exit exotic gospel punch discover piano head mandate position curtain already";
+var mnemonic = "possible alert noodle manual craft zebra trust vapor master gesture true song";

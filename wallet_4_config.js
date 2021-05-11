@@ -1,1 +1,1 @@
-var mnemonic = "shoulder crane supreme address advance room humble pact spider vanish soft trade";
+var mnemonic = "street wish chimney water basket doll lend notice shift fat organ divorce";

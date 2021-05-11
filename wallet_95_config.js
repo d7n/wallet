@@ -1,1 +1,1 @@
-var mnemonic = "fatal hybrid twelve width outside wish inch phrase bright setup alert bread";
+var mnemonic = "artwork umbrella empty best antenna increase pride talk very armed wage attract";

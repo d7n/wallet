@@ -1,1 +1,1 @@
-var mnemonic = "cost party crowd imitate party exile first cupboard bottom today captain worth";
+var mnemonic = "undo north image among bulk make similar limb choice eye note office";

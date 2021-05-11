@@ -1,1 +1,1 @@
-var mnemonic = "turtle traffic truly dose adapt club science rocket accident result use fork";
+var mnemonic = "useful enact genuine mammal cattle relax sunny city switch clump jar party";

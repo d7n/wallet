@@ -1,1 +1,1 @@
-var mnemonic = "timber monitor cave engine mobile frost soup company raven play type myth";
+var mnemonic = "damp clay pottery medal dose endless trigger auction eagle apart common apple";

@@ -1,1 +1,1 @@
-var mnemonic = "party sort cliff cute consider mandate lawn eternal all eager marriage shaft";
+var mnemonic = "gadget range budget have box solar embody razor above crop hub divide";

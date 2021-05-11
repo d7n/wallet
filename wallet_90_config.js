@@ -1,1 +1,1 @@
-var mnemonic = "life slice orchard eight render famous lucky frame anxiety false vapor approve";
+var mnemonic = "master solar design artefact mixture stairs shuffle child practice salute soul victory";

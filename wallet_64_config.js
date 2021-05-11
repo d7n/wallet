@@ -1,1 +1,1 @@
-var mnemonic = "own bronze luxury minor cactus trend price include wide horn behind vacuum";
+var mnemonic = "lamp network remove spoil leader tide crawl front enforce invest sense cat";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture convince furnace fatigue mixed bottom damage distance cover trend labor toy";
+var mnemonic = "venue pave artist rescue force amazing carbon mango end beyond fit tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty word leg spoon engine wear wrestle spread collect found doctor time";
+var mnemonic = "black biology frame coral jewel weapon kit bacon onion desk cute negative";

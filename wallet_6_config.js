@@ -1,1 +1,1 @@
-var mnemonic = "suffer either person palace toast rubber stock arrive mandate indicate twist balcony";
+var mnemonic = "orphan client window exclude report surface gift girl carpet pluck record ginger";

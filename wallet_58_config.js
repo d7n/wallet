@@ -1,1 +1,1 @@
-var mnemonic = "minute audit all insect ride maze affair napkin dose upgrade orphan police";
+var mnemonic = "drip feel twelve crop welcome dash twist strike pumpkin hidden coconut talk";

@@ -1,1 +1,1 @@
-var mnemonic = "paper genuine shuffle answer humble viable depart advance hero auto path make";
+var mnemonic = "wrist color click brush gesture awesome plug rain high neglect device umbrella";

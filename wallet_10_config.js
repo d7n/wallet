@@ -1,1 +1,1 @@
-var mnemonic = "tourist girl life soda palace vote split ridge blood issue you always";
+var mnemonic = "sphere hint hungry exchange drift tower aisle blame picnic army bomb destroy";

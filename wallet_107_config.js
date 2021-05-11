@@ -1,1 +1,1 @@
-var mnemonic = "stereo blame caught diamond carpet diagram jelly destroy license cancel describe guide";
+var mnemonic = "poet park hand impulse history runway cry ecology safe relax wait east";

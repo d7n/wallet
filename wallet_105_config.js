@@ -1,1 +1,1 @@
-var mnemonic = "sick van puppy duck rent spell divorce across pattern child blood room";
+var mnemonic = "aspect black style rack release cruise behave invite robust venture tumble ship";

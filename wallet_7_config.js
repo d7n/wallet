@@ -1,1 +1,1 @@
-var mnemonic = "anxiety hour vibrant donkey traffic area ozone diary hole any ski hurdle";
+var mnemonic = "wine voyage busy coffee thrive cinnamon camp endorse clay print nerve find";

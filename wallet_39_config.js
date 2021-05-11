@@ -1,1 +1,1 @@
-var mnemonic = "coach october hope tag shove donkey filter master sorry flock saddle pen";
+var mnemonic = "horror lecture victory nerve diamond risk cute liquid hammer across artefact core";

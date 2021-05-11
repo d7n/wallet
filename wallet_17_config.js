@@ -1,1 +1,1 @@
-var mnemonic = "tower tourist fire title gather comfort vast barrel habit indicate worry vacuum";
+var mnemonic = "drop adjust fluid laundry found raven cause celery obtain act obvious sun";

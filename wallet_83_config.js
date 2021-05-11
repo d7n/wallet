@@ -1,1 +1,1 @@
-var mnemonic = "rookie fat fold grace possible antenna enable hobby protect young will rhythm";
+var mnemonic = "audit orchard carry book piece snake any grow hard close snake claw";

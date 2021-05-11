@@ -1,1 +1,1 @@
-var mnemonic = "pulp couch normal castle theme level decade oil axis cage stand follow";
+var mnemonic = "admit toe ship nest heart bonus issue special denial eager purchase draft";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve monitor vessel arm invite foam popular range scare fatigue hub loud";
+var mnemonic = "plate false expire decrease stamp moon manage allow used comic onion lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "van famous ten letter card surge dance tray flip rigid kitten wheat";
+var mnemonic = "fitness ramp talk month style since common boat orient roof sponsor own";

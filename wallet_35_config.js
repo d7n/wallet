@@ -1,1 +1,1 @@
-var mnemonic = "heavy twenty reject learn alpha spawn tenant tackle rare canoe patch foam";
+var mnemonic = "thrive jaguar guilt country admit embrace bind glow shock bus afraid blood";

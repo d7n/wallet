@@ -1,1 +1,1 @@
-var mnemonic = "leader evoke monster panel unaware occur thought ancient become stick beyond focus";
+var mnemonic = "virus phrase cabbage fatal hint ketchup antique lizard salute royal ranch puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "camp differ path receive hospital age remind valve element genre token enforce";
+var mnemonic = "answer yellow protect movie occur pistol trick thank joke jaguar attack possible";

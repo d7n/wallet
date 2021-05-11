@@ -1,1 +1,1 @@
-var mnemonic = "rule brush rent club wait session bundle fit bulb gather female friend";
+var mnemonic = "type output six amazing finish magic high solar appear staff mushroom sing";

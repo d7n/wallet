@@ -1,1 +1,1 @@
-var mnemonic = "pyramid curve cupboard soup various first ten drama forum joy night indoor";
+var mnemonic = "equip warfare boy merit adapt suffer volcano silver wool stand run clown";

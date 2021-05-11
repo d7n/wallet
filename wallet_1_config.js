@@ -1,1 +1,1 @@
-var mnemonic = "flush off near spin fluid company clerk cram fortune answer library day";
+var mnemonic = "receive relief antique east aerobic wine pony drastic unveil innocent swap amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow worry warrior town brain sauce fancy appear height split skull chest";
+var mnemonic = "mechanic join shrimp defy tiger plastic flavor valid hurt another virtual employ";

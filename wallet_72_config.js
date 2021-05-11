@@ -1,1 +1,1 @@
-var mnemonic = "lunch report spare broccoli name crouch beauty adjust own logic ozone female";
+var mnemonic = "lift electric slogan because wrong equip merit distance thing uphold detect garage";

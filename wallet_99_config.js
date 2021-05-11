@@ -1,1 +1,1 @@
-var mnemonic = "exist panda top panda mass hurt frozen first grief vast begin review";
+var mnemonic = "spare frost expire earth treat joke swear mother toast stock milk unfair";

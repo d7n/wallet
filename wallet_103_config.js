@@ -1,1 +1,1 @@
-var mnemonic = "mammal memory absurd venue minimum rain kitten knock that saddle couch follow";
+var mnemonic = "grunt pitch demise alpha promote broom void sound wisdom deny trigger orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "melody broom erode food message adapt void grape walk inquiry loud file";
+var mnemonic = "target human type voyage avocado space candy soup clarify humble solid mutual";

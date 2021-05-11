@@ -1,1 +1,1 @@
-var mnemonic = "gate zebra achieve pave rather six old hotel grunt act ready brown";
+var mnemonic = "gap budget grant broken worry tobacco master antique pilot flock mistake review";

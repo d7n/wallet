@@ -1,1 +1,1 @@
-var mnemonic = "cake party area bottom tooth enrich tobacco into wink village twelve marriage";
+var mnemonic = "leopard lonely credit rib hollow nation icon this hood blood siren solve";

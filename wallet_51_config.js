@@ -1,1 +1,1 @@
-var mnemonic = "ticket elevator salad orange funny plastic arrest tip cable disease shoulder weekend";
+var mnemonic = "dose air pattern exercise multiply obtain gown wrist keen about hold argue";

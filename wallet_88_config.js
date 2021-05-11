@@ -1,1 +1,1 @@
-var mnemonic = "faith check dance picture spice fame kiwi manual pipe swarm arm cry";
+var mnemonic = "baby betray lunch soccer segment mistake test aim wood rule powder reform";

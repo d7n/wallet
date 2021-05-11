@@ -1,1 +1,1 @@
-var mnemonic = "able kit actor erupt type feel tiny target mix maid meat nephew";
+var mnemonic = "angle subject sponsor hawk pencil hint plug sentence life venture submit game";

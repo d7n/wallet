@@ -1,1 +1,1 @@
-var mnemonic = "reflect dial please blame observe library glory hair spatial thunder slush immense";
+var mnemonic = "forest come nerve miss town amazing employ always gallery purse seven frame";

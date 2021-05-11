@@ -1,1 +1,1 @@
-var mnemonic = "owner situate office slow session obtain ethics arrow bread rebel retreat end";
+var mnemonic = "cram warm muscle chicken bullet inside hybrid giant state ordinary frame joke";

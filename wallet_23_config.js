@@ -1,1 +1,1 @@
-var mnemonic = "under wheel inflict height depth what lift goose fly surround elephant jaguar";
+var mnemonic = "process town run key skull bid purpose napkin only cruise curious blame";

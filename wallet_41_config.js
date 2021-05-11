@@ -1,1 +1,1 @@
-var mnemonic = "symbol reduce impose enough original yard soft vote lunch security planet snap";
+var mnemonic = "wall cake fun library alert blouse harvest wheat fit tonight solve average";

@@ -1,1 +1,1 @@
-var mnemonic = "off aisle fruit kiss scatter loan phrase connect zero head only amateur";
+var mnemonic = "flight exchange slot monster soda adjust flash unit hybrid kiwi beauty spy";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore arena exist pledge cruise feel include mule wrong sausage cricket together";
+var mnemonic = "mixed over mountain deputy mosquito jealous actress foil chronic voice bomb stumble";

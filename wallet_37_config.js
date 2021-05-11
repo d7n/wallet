@@ -1,1 +1,1 @@
-var mnemonic = "plastic judge symbol usual useless ice energy situate reward permit hold phrase";
+var mnemonic = "valid fog clinic pumpkin inform avoid spawn runway trip want chest sentence";

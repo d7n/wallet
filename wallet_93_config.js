@@ -1,1 +1,1 @@
-var mnemonic = "defy amount edge august play caution tennis scissors identify noble hunt sock";
+var mnemonic = "thing mix draft skate spare fiction buffalo speak start lucky dune question";

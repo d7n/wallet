@@ -1,1 +1,1 @@
-var mnemonic = "fiscal stone train salmon wonder moment mountain harbor case million absurd hand";
+var mnemonic = "glass chronic decline ball expand suggest diet long dumb sad giraffe hour";

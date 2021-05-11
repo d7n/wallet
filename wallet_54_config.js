@@ -1,1 +1,1 @@
-var mnemonic = "opera tape office dose chef stick same erase please media ride carry";
+var mnemonic = "wheel home canvas caught dutch couple rebel dose thank mask begin explain";

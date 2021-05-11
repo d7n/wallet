@@ -1,1 +1,1 @@
-var mnemonic = "upon metal mother next lunch option elder warrior drum roast drill pull";
+var mnemonic = "viable evil blur bar clog void novel long ice puzzle zone patient";

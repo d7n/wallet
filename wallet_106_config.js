@@ -1,1 +1,1 @@
-var mnemonic = "library loan trap scatter safe laugh village hungry sleep victory vessel loyal";
+var mnemonic = "space museum egg beef nuclear sentence cover zero dash sadness escape lobster";

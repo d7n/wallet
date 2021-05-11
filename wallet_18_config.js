@@ -1,1 +1,1 @@
-var mnemonic = "ability arctic apology sad blade print venue start limit want barrel remove";
+var mnemonic = "prison drift month frown loud judge theme salute science impact exit fan";

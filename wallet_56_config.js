@@ -1,1 +1,1 @@
-var mnemonic = "school buddy spy proof mountain follow remind sick hurdle lawn doctor symbol";
+var mnemonic = "alley mystery wonder pilot clinic merge olive top rocket cool liquid nominee";

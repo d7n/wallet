@@ -1,1 +1,1 @@
-var mnemonic = "put wrestle limb annual canal wrong hobby knee perfect they key clock";
+var mnemonic = "only side midnight thrive cable steel parent onion fantasy cheap airport term";

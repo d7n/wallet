@@ -1,1 +1,1 @@
-var mnemonic = "join pipe face mad save defy penalty marine elite pass until blur";
+var mnemonic = "twin gasp wrist sand since cinnamon borrow manage genius giggle maze remember";

@@ -1,1 +1,1 @@
-var mnemonic = "paper property blind letter office shift thumb early fluid tell raven vacuum";
+var mnemonic = "soup hold amazing person innocent economy series leader agent mixed nephew mass";

@@ -1,1 +1,1 @@
-var mnemonic = "panel tumble valve mountain faith aisle bench tobacco slab color range double";
+var mnemonic = "useful spare tooth mansion already innocent alley century begin garage corn carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "exile sister local panther property portion boy bright lend child harsh city";
+var mnemonic = "ancient flavor mammal monkey suspect secret hybrid bus episode pair symbol foil";

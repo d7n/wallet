@@ -1,1 +1,1 @@
-var mnemonic = "nice argue crystal toy senior mouse cradle fabric decrease truth suspect spray";
+var mnemonic = "gallery outside bench high example fault hurry awesome blossom forward invest setup";

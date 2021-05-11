@@ -1,1 +1,1 @@
-var mnemonic = "speed voice fresh add rain drip body trumpet gown lesson dry expect";
+var mnemonic = "luggage perfect any twice advice pond swamp crater promote inch light manual";

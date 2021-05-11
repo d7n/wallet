@@ -1,1 +1,1 @@
-var mnemonic = "salad throw rent vicious rough person clean rhythm urge carbon school stumble";
+var mnemonic = "dwarf decorate mutual hold mad clap endorse hover mimic follow hello useful";

@@ -1,1 +1,1 @@
-var mnemonic = "trade rug addict glide fetch between canoe pink three huge angle blast";
+var mnemonic = "blame riot once stem worry hospital together either truck fan spare mom";

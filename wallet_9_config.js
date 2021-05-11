@@ -1,1 +1,1 @@
-var mnemonic = "novel submit bitter artefact unfair trend palm hawk chicken cousin symptom stove";
+var mnemonic = "try buyer abandon mind race atom impose pride life sad poverty cement";

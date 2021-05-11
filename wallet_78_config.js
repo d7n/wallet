@@ -1,1 +1,1 @@
-var mnemonic = "push flush quarter sound indicate exhaust panther kiwi fiction aerobic beef travel";
+var mnemonic = "chimney kiss coffee orbit antique refuse language foil library lock only palm";

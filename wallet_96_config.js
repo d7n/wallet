@@ -1,1 +1,1 @@
-var mnemonic = "beauty until journey swear chaos grid hole impulse poem flash six run";
+var mnemonic = "skin crop proud grass dad oxygen response pluck drink wear chuckle apology";

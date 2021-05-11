@@ -1,1 +1,1 @@
-var mnemonic = "guitar visit run example scrap celery cash close bicycle crater myth position";
+var mnemonic = "forum hire almost affair scale toward ill excuse upper eagle smooth visa";

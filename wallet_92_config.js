@@ -1,1 +1,1 @@
-var mnemonic = "casual abuse erosion absorb act timber damp will ribbon space syrup mystery";
+var mnemonic = "daughter road hamster dumb hawk goose network update rare potato cheap morning";

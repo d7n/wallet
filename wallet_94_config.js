@@ -1,1 +1,1 @@
-var mnemonic = "trophy sibling dentist toast flash toe magnet giggle fat mind bike assault";
+var mnemonic = "fee pole popular chat tissue pink before word limit genius radar settle";

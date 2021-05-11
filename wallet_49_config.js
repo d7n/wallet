@@ -1,1 +1,1 @@
-var mnemonic = "hard diary awkward polar random march senior lazy trap crack borrow ticket";
+var mnemonic = "sense afraid obey agent control fortune trumpet hover help pretty home rough";

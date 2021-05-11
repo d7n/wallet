@@ -1,1 +1,1 @@
-var mnemonic = "auto total ten all host strategy mistake hope diesel utility sea cycle";
+var mnemonic = "crash mad town blouse quit ethics ostrich unlock play quarter lab husband";

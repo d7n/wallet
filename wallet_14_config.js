@@ -1,1 +1,1 @@
-var mnemonic = "mutual episode describe mixed chapter surface face broom neck tongue exhibit oppose";
+var mnemonic = "wheat royal tray enrich prepare winner oxygen online nut velvet real crumble";

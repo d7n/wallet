@@ -1,1 +1,1 @@
-var mnemonic = "special rely denial lunar floor amazing sport rebuild fee situate pig flower";
+var mnemonic = "love scorpion divide safe advice guitar love other unlock reunion stool wrong";

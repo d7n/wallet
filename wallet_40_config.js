@@ -1,1 +1,1 @@
-var mnemonic = "write year awake certain shadow drama cash before turtle space margin brass";
+var mnemonic = "scale spatial want finish dynamic pill siren nut spare zero shuffle bomb";

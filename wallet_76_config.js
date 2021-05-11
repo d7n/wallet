@@ -1,1 +1,1 @@
-var mnemonic = "patch wealth normal burger cute razor garden rack erupt inquiry soon latin";
+var mnemonic = "eyebrow elder series render country topple taxi exercise era invite wall cool";

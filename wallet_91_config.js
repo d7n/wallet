@@ -1,1 +1,1 @@
-var mnemonic = "hire length rose cool service awkward talk taxi mystery fever face album";
+var mnemonic = "update reject consider night safe ship funny summer fruit pigeon rebel butter";

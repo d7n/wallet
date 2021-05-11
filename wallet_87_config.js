@@ -1,1 +1,1 @@
-var mnemonic = "great prepare ability mention tomorrow front news play they over window region";
+var mnemonic = "minute theory pen just invest label loyal despair element emotion betray under";

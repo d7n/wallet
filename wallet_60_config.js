@@ -1,1 +1,1 @@
-var mnemonic = "display nation dream mirror spoon upgrade asset light foster stage track infant";
+var mnemonic = "nerve summer soap scrub peanut make coast dawn throw dignity demand mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "virus dash device tower weather action issue rude hello glimpse quiz tag";
+var mnemonic = "wise habit category jelly fat waste cube chief west joke home proud";

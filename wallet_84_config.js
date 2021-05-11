@@ -1,1 +1,1 @@
-var mnemonic = "dish claw fortune bracket humor question consider build answer uncle balance tower";
+var mnemonic = "dismiss use patient sense route act crew crush chaos report hat guitar";

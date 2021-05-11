@@ -1,1 +1,1 @@
-var mnemonic = "purchase foil child hair miss rather anxiety timber misery distance venture behave";
+var mnemonic = "clarify news unable inside short another proud winner purity mix alcohol wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "draft retire hungry glad tube only element rotate traffic humble sick thumb";
+var mnemonic = "wait damage rival upset rabbit sting pony world belt chicken describe dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "supply silly stone regret maximum federal clog mango giraffe weather protect hello";
+var mnemonic = "surge orange what give hand text talent portion lawsuit explain prize stuff";

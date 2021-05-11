@@ -1,1 +1,1 @@
-var mnemonic = "shoot arrow tone pioneer sting firm inhale journey jelly expose trap pave";
+var mnemonic = "slab loyal front apart rifle enough impose flock cargo consider cradle toast";

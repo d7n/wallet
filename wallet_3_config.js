@@ -1,1 +1,1 @@
-var mnemonic = "already foster agree room caution must unusual magnet visual siren crumble eyebrow";
+var mnemonic = "dolphin chief oyster address saddle cloth assault tower neglect code repeat shell";

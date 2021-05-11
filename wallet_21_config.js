@@ -1,1 +1,1 @@
-var mnemonic = "zoo transfer peace bitter note spike awake energy goat tattoo bid black";
+var mnemonic = "empty oval firm wagon deer boss engine verify unhappy tool link chief";

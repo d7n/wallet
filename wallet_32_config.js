@@ -1,1 +1,1 @@
-var mnemonic = "track nose slice fee girl indoor feature empty lady ill guess taste";
+var mnemonic = "kitten increase farm window enable strategy relief office foil ethics debate penalty";

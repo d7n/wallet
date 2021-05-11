@@ -1,1 +1,1 @@
-var mnemonic = "mandate essay slice body mean march marriage fox fan hire once reveal";
+var mnemonic = "struggle segment brother twist cloth credit rhythm able squirrel stand pull baby";

@@ -1,1 +1,1 @@
-var mnemonic = "address dinosaur flat fish dance group wrong buyer year leg beef bench";
+var mnemonic = "talk rebel canoe prosper penalty replace click decline crumble update alone battle";

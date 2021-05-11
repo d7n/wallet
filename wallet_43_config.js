@@ -1,1 +1,1 @@
-var mnemonic = "fish ribbon setup parade wrap cycle worth mad elephant siren curve require";
+var mnemonic = "east hire try holiday nerve ridge shy seat used ostrich level carpet";

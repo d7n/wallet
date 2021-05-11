@@ -1,1 +1,1 @@
-var mnemonic = "mistake degree culture dust behave table journey music shoulder install major moment";
+var mnemonic = "pottery call resource lonely horn power patient innocent weather gravity grid volume";

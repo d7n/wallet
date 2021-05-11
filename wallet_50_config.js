@@ -1,1 +1,1 @@
-var mnemonic = "sustain lab clarify dash taste mystery uniform clutch prison put crime arrange";
+var mnemonic = "time throw motion quick attack vital kidney whip frozen repeat quit grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "almost strategy bar humble mind dignity outer extra crew manage carry sustain";
+var mnemonic = "holiday tribe capital frame winter stone jaguar kit assault swift erase bunker";

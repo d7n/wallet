@@ -1,1 +1,1 @@
-var mnemonic = "result silk penalty penalty arena utility clown robot nation horror tongue dog";
+var mnemonic = "predict tennis crouch jewel table picnic when nerve case dish need this";
