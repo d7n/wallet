@@ -1,1 +1,1 @@
-var mnemonic = "menu lounge diary blood oval organ trophy shift shove describe crew hand";
+var mnemonic = "feed glide anchor climb coyote mansion hello garden shine coyote feature diary";

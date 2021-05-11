@@ -1,1 +1,1 @@
-var mnemonic = "deny cereal mutual walnut volume vacuum radar club fancy appear cup lecture";
+var mnemonic = "race assault into genre advice balance make describe rebuild strike tree size";

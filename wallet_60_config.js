@@ -1,1 +1,1 @@
-var mnemonic = "manage mountain dismiss solution bus thumb increase dune time ecology erode diary";
+var mnemonic = "setup weapon spare october wedding glue grass vacant secret angle render bring";

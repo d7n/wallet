@@ -1,1 +1,1 @@
-var mnemonic = "doctor vivid federal ticket marriage iron oil add bench envelope weapon volume";
+var mnemonic = "border usual ancient more approve know embrace admit urge discover fiction tobacco";

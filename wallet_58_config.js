@@ -1,1 +1,1 @@
-var mnemonic = "dentist brief patient oil satoshi solution cannon meadow venture olympic purity salute";
+var mnemonic = "ivory legend dizzy blame despair sniff tumble fog tragic close output open";

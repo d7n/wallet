@@ -1,1 +1,1 @@
-var mnemonic = "wet over primary snake frozen secret panther stereo situate what time oxygen";
+var mnemonic = "birth rabbit palace own salad chaos defense fruit frown fault pet rebuild";

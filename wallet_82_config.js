@@ -1,1 +1,1 @@
-var mnemonic = "pretty effort budget clip lady spare lawsuit warm learn adapt aware fade";
+var mnemonic = "moment defense iron bullet between song where observe path black carbon hold";

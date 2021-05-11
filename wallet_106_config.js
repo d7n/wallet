@@ -1,1 +1,1 @@
-var mnemonic = "flat blouse pumpkin ten keen dignity vanish boost lemon silk poverty sign";
+var mnemonic = "sword argue venue region multiply volcano hammer extend comic gorilla assault tonight";

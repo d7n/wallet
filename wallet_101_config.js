@@ -1,1 +1,1 @@
-var mnemonic = "cliff bubble goat arm clever taste addict tobacco garment able height enhance";
+var mnemonic = "nasty match public system strike base first tornado cute possible dove galaxy";

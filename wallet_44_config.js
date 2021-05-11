@@ -1,1 +1,1 @@
-var mnemonic = "erosion capital cool acquire swamp aspect sting jelly awake coffee rare outdoor";
+var mnemonic = "matrix silent average spoil bone jacket major reduce punch delay tape pull";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar alcohol trade sport destroy seminar secret rigid oxygen afraid section aware";
+var mnemonic = "below feature mix combine puzzle carbon popular drive police burger curtain early";

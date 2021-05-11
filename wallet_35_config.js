@@ -1,1 +1,1 @@
-var mnemonic = "course cricket essence shuffle space grape group fringe equip meat object pass";
+var mnemonic = "tone truth learn fresh clip lazy sadness muscle wise upgrade style absent";

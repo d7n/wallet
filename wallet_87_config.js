@@ -1,1 +1,1 @@
-var mnemonic = "canal whale exclude police subway price eyebrow response goose blade brush door";
+var mnemonic = "image ecology exist horn clever predict ill tiny frequent fine range inner";

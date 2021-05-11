@@ -1,1 +1,1 @@
-var mnemonic = "kick gallery inspire any assume easily patch bronze legend citizen net visual";
+var mnemonic = "inquiry beef evidence icon sheriff mouse unknown chalk breeze eye lunch green";

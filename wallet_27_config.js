@@ -1,1 +1,1 @@
-var mnemonic = "yard century spoon chief climb submit mother liquid time cradle flame type";
+var mnemonic = "toilet private order head video decide wear wage possible fury vacuum fog";

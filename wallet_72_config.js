@@ -1,1 +1,1 @@
-var mnemonic = "salon infant carpet shuffle squeeze east sniff vapor also soup invite monkey";
+var mnemonic = "nut rocket frequent virus reform order artwork right grit animal purchase cloth";

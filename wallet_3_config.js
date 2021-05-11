@@ -1,1 +1,1 @@
-var mnemonic = "divide degree nerve shy base flip embody orange lab wood review hold";
+var mnemonic = "lunch surface sentence stadium april brisk box bless erode isolate host city";

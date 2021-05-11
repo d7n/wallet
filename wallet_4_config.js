@@ -1,1 +1,1 @@
-var mnemonic = "swap express aspect planet amateur parent nephew leopard slam gossip learn maid";
+var mnemonic = "easy label tray pipe draft system check review simple lift frozen fish";

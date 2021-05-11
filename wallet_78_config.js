@@ -1,1 +1,1 @@
-var mnemonic = "impulse calm renew suspect beach jacket rebel horn drama lock define window";
+var mnemonic = "vague print foot fit drill any code utility assume script defy lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust void turn olive human aspect head pigeon pull eight wing saddle";
+var mnemonic = "develop cram normal step climb lounge similar cake usual spot very ritual";

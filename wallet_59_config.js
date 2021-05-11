@@ -1,1 +1,1 @@
-var mnemonic = "lesson hood retire exist annual surprise layer pen result cliff grab spike";
+var mnemonic = "casual spare refuse control seek chat never awesome amazing such sadness toilet";

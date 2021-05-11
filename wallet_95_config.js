@@ -1,1 +1,1 @@
-var mnemonic = "shrimp embark thought shadow collect what festival unaware burger trial cliff wave";
+var mnemonic = "coil lawsuit relax cave pyramid panda grab fine wink digital maze win";

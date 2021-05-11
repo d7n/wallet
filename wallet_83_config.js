@@ -1,1 +1,1 @@
-var mnemonic = "surround welcome father thunder poem glass shoot great either join phrase armed";
+var mnemonic = "history jar spider hobby damage rabbit either friend rare carbon network hood";

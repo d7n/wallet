@@ -1,1 +1,1 @@
-var mnemonic = "spatial giggle reopen furnace legal shrimp ride pioneer guide hero drill sport";
+var mnemonic = "worth valley fortune direct critic push runway capital deputy act bridge mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "defy ceiling entire asset bronze gorilla fatal depend clown beyond doctor wear";
+var mnemonic = "more better always twelve stadium prefer stadium drill shoot frozen wink address";

@@ -1,1 +1,1 @@
-var mnemonic = "summer build grant heavy north battle idea mobile save rather trash old";
+var mnemonic = "drill amateur hope twice noise problem art track soul delay credit skull";

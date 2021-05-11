@@ -1,1 +1,1 @@
-var mnemonic = "crop sing road reject exit bronze solid absent crumble wage cause vote";
+var mnemonic = "legend group brush index connect salmon soda slide truck winner lottery else";

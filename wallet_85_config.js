@@ -1,1 +1,1 @@
-var mnemonic = "accuse fire gallery ball erupt mimic daughter cricket raise rigid stool other";
+var mnemonic = "inspire uniform dwarf duck alley abandon canal error ticket clinic speed vibrant";

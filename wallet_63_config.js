@@ -1,1 +1,1 @@
-var mnemonic = "economy renew sunny credit attend erase movie note shrug major link dolphin";
+var mnemonic = "route feature document garment urban couch output lunch february day tired lottery";

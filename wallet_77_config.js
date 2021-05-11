@@ -1,1 +1,1 @@
-var mnemonic = "abandon stamp gesture level cheese chase settle bright fiscal scrap egg roast";
+var mnemonic = "lumber gloom club group quit medal hazard bicycle buzz royal expect used";

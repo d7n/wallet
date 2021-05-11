@@ -1,1 +1,1 @@
-var mnemonic = "seek left rural before act perfect february various swap merit funny nice";
+var mnemonic = "antique original subway ugly fever foster below coin spider census barely top";

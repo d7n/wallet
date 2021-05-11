@@ -1,1 +1,1 @@
-var mnemonic = "nephew predict surround reunion able deposit marine lawsuit already oval orphan label";
+var mnemonic = "onion pause brand obey find fatal wasp cage coin inject error hint";

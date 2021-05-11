@@ -1,1 +1,1 @@
-var mnemonic = "agree auction cement giant beach leg ski wool index acoustic circle curve";
+var mnemonic = "shift unaware false harbor sweet seed analyst edit trick slot legal require";

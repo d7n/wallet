@@ -1,1 +1,1 @@
-var mnemonic = "property device amount predict skin rotate wasp oblige sand stereo caught dust";
+var mnemonic = "stone absurd pupil angle divide hub topple woman kick plug neck praise";

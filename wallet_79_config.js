@@ -1,1 +1,1 @@
-var mnemonic = "just shove alarm razor length pioneer simple equip harbor prefer erode fancy";
+var mnemonic = "today flip kit shaft valley tomato happy nurse decrease lawn awkward flavor";

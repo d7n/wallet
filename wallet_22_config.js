@@ -1,1 +1,1 @@
-var mnemonic = "science toss blossom eager piano immense impact stool admit bless burst topple";
+var mnemonic = "energy breeze wisdom size tragic cereal exhibit husband various fatal glow grow";

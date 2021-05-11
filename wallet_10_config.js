@@ -1,1 +1,1 @@
-var mnemonic = "slide tomorrow legal large silent film belt safe opera lizard civil claw";
+var mnemonic = "gallery welcome rocket artwork piano chat bean woman thunder kingdom rocket soda";

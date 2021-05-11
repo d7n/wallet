@@ -1,1 +1,1 @@
-var mnemonic = "kingdom outdoor blade tobacco favorite myth fat ice enrich title napkin soldier";
+var mnemonic = "pink day box burden woman science script peace walnut rookie exist fork";

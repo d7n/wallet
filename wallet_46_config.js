@@ -1,1 +1,1 @@
-var mnemonic = "grit such patch humor arrow local have flash meat current power movie";
+var mnemonic = "lawsuit alley grunt balcony inform polar auction still visual pitch vapor clean";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz scene rebuild meadow also bicycle observe decade okay travel thunder squeeze";
+var mnemonic = "repair main green dirt amused joy float require muscle glass sing fever";

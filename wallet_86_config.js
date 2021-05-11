@@ -1,1 +1,1 @@
-var mnemonic = "stand habit elephant fuel verify vibrant census bless lyrics choice meadow used";
+var mnemonic = "auction burden employ save sample fiscal certain recall evidence endless blade easy";

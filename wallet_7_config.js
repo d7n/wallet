@@ -1,1 +1,1 @@
-var mnemonic = "primary oval zebra woman general catalog chuckle buzz saddle long safe entire";
+var mnemonic = "toast news process coach element fall trim diary dog maze celery awkward";

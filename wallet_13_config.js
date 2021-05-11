@@ -1,1 +1,1 @@
-var mnemonic = "supply grab rabbit wire attend list fiction despair steak silent radar brass";
+var mnemonic = "display boil size supreme unfair globe cousin bus design ethics spot ship";

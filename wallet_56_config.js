@@ -1,1 +1,1 @@
-var mnemonic = "critic elbow kangaroo magic increase curious rather best light quit police couple";
+var mnemonic = "acoustic pill remain deer situate minimum talent sphere east usual attract dwarf";

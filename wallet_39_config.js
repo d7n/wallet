@@ -1,1 +1,1 @@
-var mnemonic = "final raven trumpet index grit valid scale cement orange tackle bunker token";
+var mnemonic = "beach play loan staff garbage ski fury sniff ridge nominee custom slot";

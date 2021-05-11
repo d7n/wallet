@@ -1,1 +1,1 @@
-var mnemonic = "neither tattoo bitter pigeon section father town bright claw lunar barely excess";
+var mnemonic = "siren scan police extend shed relief near slice bracket shine border fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "venue trophy cancel adapt isolate skill ranch alert dice shoulder just actress";
+var mnemonic = "auction rule mountain abandon love thing rate same disease crane fame beef";

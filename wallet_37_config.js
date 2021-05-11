@@ -1,1 +1,1 @@
-var mnemonic = "cream quality wonder core rely myth all judge mimic reveal chunk patrol";
+var mnemonic = "mosquito quit valley ridge under loud salad kitten shoot choice hub pulp";

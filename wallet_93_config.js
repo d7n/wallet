@@ -1,1 +1,1 @@
-var mnemonic = "interest ahead plug pause busy wink horse situate elite book almost meadow";
+var mnemonic = "rally slush shoot neither vicious lawn recall sentence mouse resource logic old";

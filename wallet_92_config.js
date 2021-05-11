@@ -1,1 +1,1 @@
-var mnemonic = "vacuum volume curve retire ordinary door found culture blouse border warfare mosquito";
+var mnemonic = "robust off pact pepper manage coil east blind elite cheese rate melody";

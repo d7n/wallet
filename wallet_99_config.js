@@ -1,1 +1,1 @@
-var mnemonic = "silk august violin bubble vibrant neutral else bus horror boost divide hour";
+var mnemonic = "tunnel strategy gasp jar siren transfer school sudden ramp domain cube cool";

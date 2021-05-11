@@ -1,1 +1,1 @@
-var mnemonic = "useless flame evidence unfold kit math bracket dog hope tool stand art";
+var mnemonic = "bamboo tennis gravity horse lamp bless acid uncle soup orient glue opinion";

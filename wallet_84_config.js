@@ -1,1 +1,1 @@
-var mnemonic = "siren powder student blue wheat exclude emotion yellow expose deer vibrant finish";
+var mnemonic = "industry donkey tragic juice thumb hero ceiling unhappy february nut coffee cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "season junk betray embody huge raise ancient initial decline milk despair lobster";
+var mnemonic = "system child recipe invest nice pact young over brick woman finish eager";

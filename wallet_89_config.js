@@ -1,1 +1,1 @@
-var mnemonic = "awake rare voice gap someone fee arrange develop denial demand card smart";
+var mnemonic = "already obvious leisure scale apple junk real decline bargain lemon travel intact";

@@ -1,1 +1,1 @@
-var mnemonic = "predict hammer exile ripple wear brisk spatial upon symbol dutch sting toss";
+var mnemonic = "obscure say doll ramp copy nut detect chief civil fault wise doctor";

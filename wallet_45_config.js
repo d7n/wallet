@@ -1,1 +1,1 @@
-var mnemonic = "believe fancy boost urge fade tube execute wine unusual aim cement absent";
+var mnemonic = "soccer wasp borrow race chronic nature surge various tornado hawk fold three";

@@ -1,1 +1,1 @@
-var mnemonic = "across barrel hover day forum rug surface ready absorb stock case exile";
+var mnemonic = "board inform drill gold weather fit census drip spring crucial sight skate";

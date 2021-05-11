@@ -1,1 +1,1 @@
-var mnemonic = "unlock random cool fragile resource drastic evoke alley joy night pizza gown";
+var mnemonic = "cost taxi sight try favorite slab soft cover party advance ancient other";

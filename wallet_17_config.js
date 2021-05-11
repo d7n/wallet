@@ -1,1 +1,1 @@
-var mnemonic = "reform keep current assume plug portion good horn video inquiry slight bike";
+var mnemonic = "impose ride script fantasy panic easily sugar filter document print machine amateur";

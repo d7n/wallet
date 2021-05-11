@@ -1,1 +1,1 @@
-var mnemonic = "slab cake series valve scare meat behave absurd dash liquid purity family";
+var mnemonic = "blush rent sun bone cement inquiry elder crawl icon conduct spell chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "alien fiscal labor front ball ankle comic lady vintage clutch armor lawn";
+var mnemonic = "enlist picture intact slide range property love winner sleep private lesson skirt";

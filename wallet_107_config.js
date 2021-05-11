@@ -1,1 +1,1 @@
-var mnemonic = "silver arctic tide connect rapid noble baby legal sing box eyebrow satoshi";
+var mnemonic = "wrist glove during where zone inherit chief ghost able term exit trash";

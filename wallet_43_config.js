@@ -1,1 +1,1 @@
-var mnemonic = "couch copper flag coral tonight chaos acid final knife random middle beauty";
+var mnemonic = "slow uncover pull enemy hazard common fantasy pitch cousin object boss awesome";

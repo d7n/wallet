@@ -1,1 +1,1 @@
-var mnemonic = "struggle fancy large exotic sniff card slide lunar shift mass law inherit";
+var mnemonic = "reunion boost fly elbow miracle desert want squirrel type wave exit slab";

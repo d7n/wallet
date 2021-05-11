@@ -1,1 +1,1 @@
-var mnemonic = "village cattle post impose review rule eagle canoe fetch rug diamond joy";
+var mnemonic = "damage fiber drum auction liar opera finger heavy practice company ancient glue";

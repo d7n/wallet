@@ -1,1 +1,1 @@
-var mnemonic = "private below hurry track swear chimney finger parade expire tree small witness";
+var mnemonic = "demise swim window rug dentist claw slice reunion promote unusual finger deal";

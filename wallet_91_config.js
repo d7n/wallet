@@ -1,1 +1,1 @@
-var mnemonic = "artist room describe various lucky face upset relax shoe mouse canal glow";
+var mnemonic = "throw rough version eagle stereo need discover noodle vibrant dog wide gravity";

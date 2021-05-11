@@ -1,1 +1,1 @@
-var mnemonic = "rural prosper pole sure spawn soul chat reason brain pupil language help";
+var mnemonic = "increase select young coast search lend follow country tag solve dune scheme";

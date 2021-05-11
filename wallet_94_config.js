@@ -1,1 +1,1 @@
-var mnemonic = "boss double pond attitude scout hard decade grass cupboard hazard glare dawn";
+var mnemonic = "defy soup educate blanket acquire rely pear slim call father journey trash";

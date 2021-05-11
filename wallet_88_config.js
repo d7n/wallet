@@ -1,1 +1,1 @@
-var mnemonic = "eager ordinary tool good assault spin capable crane erode toilet mix fire";
+var mnemonic = "prison cross vehicle morning estate repeat all guess script electric glue bamboo";

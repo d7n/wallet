@@ -1,1 +1,1 @@
-var mnemonic = "bridge version dice slow sand delay fitness same grow rent safe pigeon";
+var mnemonic = "enough pledge pigeon harsh scout era source bonus obtain wheel click cluster";

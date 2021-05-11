@@ -1,1 +1,1 @@
-var mnemonic = "shift fringe drink stone soldier blur ostrich pave round search bounce worry";
+var mnemonic = "scrap smooth music yellow cover kiwi flag raven grocery enough decline impulse";

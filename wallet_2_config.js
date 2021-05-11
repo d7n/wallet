@@ -1,1 +1,1 @@
-var mnemonic = "legal achieve layer satisfy vocal metal sustain chest tobacco zebra affair build";
+var mnemonic = "ritual stay grief raven they penalty grass toast cloud exile gossip reopen";

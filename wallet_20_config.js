@@ -1,1 +1,1 @@
-var mnemonic = "pen pelican viable common permit sheriff intact couple bird sight olive shove";
+var mnemonic = "style foil garage easy middle you access resemble gesture crunch possible slow";

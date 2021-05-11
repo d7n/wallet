@@ -1,1 +1,1 @@
-var mnemonic = "future grass suit start morning protect vibrant foil wonder nuclear excuse slogan";
+var mnemonic = "lumber busy human then cat sheriff pill jump today escape bean manage";

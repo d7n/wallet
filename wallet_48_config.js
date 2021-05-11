@@ -1,1 +1,1 @@
-var mnemonic = "impose still caught section envelope rigid trigger skate render wealth ignore census";
+var mnemonic = "chunk west exhaust start fabric analyst minor inherit knife token wink invite";

@@ -1,1 +1,1 @@
-var mnemonic = "easily north release jaguar imitate gadget aim foot cart second control museum";
+var mnemonic = "cycle moment jewel gadget north tube fog category battle bid grace guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "average situate correct father moment grocery reveal genius hole frost wine panther";
+var mnemonic = "select kitten coast edit maximum dilemma term traffic describe million frown diet";

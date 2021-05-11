@@ -1,1 +1,1 @@
-var mnemonic = "unveil trash finish pudding music index twenty knee salon decrease flame spike";
+var mnemonic = "yellow month improve upset concert ski execute noise culture expand solid ostrich";

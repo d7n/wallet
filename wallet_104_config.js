@@ -1,1 +1,1 @@
-var mnemonic = "undo defy cool fatigue stuff bronze tuna erase report moment pass stuff";
+var mnemonic = "vibrant erupt staff result once best stuff annual clown erase vote analyst";

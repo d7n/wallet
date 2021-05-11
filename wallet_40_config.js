@@ -1,1 +1,1 @@
-var mnemonic = "satoshi dial fall flame myself move inmate about amateur pool spot sport";
+var mnemonic = "flame romance clay wink country flower entire able circle valve media alley";

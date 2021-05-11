@@ -1,1 +1,1 @@
-var mnemonic = "involve upset page man arrow wear someone civil fog rhythm parrot dinner";
+var mnemonic = "rocket small model hat common lumber fog mean exile renew olive spirit";

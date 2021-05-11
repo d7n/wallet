@@ -1,1 +1,1 @@
-var mnemonic = "truly decide ridge laptop wave economy fan daughter inhale window outer wrestle";
+var mnemonic = "exhaust dry bid observe surround public expect general hurt output fossil main";

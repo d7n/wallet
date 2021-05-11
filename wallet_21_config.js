@@ -1,1 +1,1 @@
-var mnemonic = "slide right token amount sister purchase manual absent speak couch layer quiz";
+var mnemonic = "insane question model catalog define crater kitchen random crumble list travel champion";

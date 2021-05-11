@@ -1,1 +1,1 @@
-var mnemonic = "dolphin can tone exhibit screen wife chat erase absurd suit beyond coffee";
+var mnemonic = "main unit stereo pet trim empty coffee lock degree victory breeze limit";

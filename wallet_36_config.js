@@ -1,1 +1,1 @@
-var mnemonic = "organ clever capable road mutual supply solve minute erosion strong proud fun";
+var mnemonic = "kite crunch sudden athlete protect catch logic army oxygen rain reduce tattoo";

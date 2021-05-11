@@ -1,1 +1,1 @@
-var mnemonic = "evolve paper dilemma transfer token decide asthma axis kind sing entry stove";
+var mnemonic = "slender mother health arch invest dutch you salt sight arrive bronze design";

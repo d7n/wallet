@@ -1,1 +1,1 @@
-var mnemonic = "whip giraffe fantasy base basic planet clutch job double float modify judge";
+var mnemonic = "face soldier sample day miracle surprise add wine tape slow pear shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "worry either about else unable document hip pitch appear during conduct fruit";
+var mnemonic = "magic travel bench nephew monster such impact call chicken despair panther jaguar";

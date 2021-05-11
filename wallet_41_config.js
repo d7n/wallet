@@ -1,1 +1,1 @@
-var mnemonic = "popular slim wise ship total frown estate open muscle aim bulb scout";
+var mnemonic = "prosper this squirrel elevator peasant spawn despair kiss pond dad surge mean";

@@ -1,1 +1,1 @@
-var mnemonic = "brick idea spend surface bus tuna bench enjoy service ordinary rib salmon";
+var mnemonic = "surprise impulse clinic guitar truly spell youth fuel height awake industry indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "bring sketch response three employ dynamic enjoy nephew maximum success differ clutch";
+var mnemonic = "collect cross giraffe because series hockey extra snap promote success unknown scene";

@@ -1,1 +1,1 @@
-var mnemonic = "together catch work scrub twelve gallery earn dolphin unlock satoshi vehicle dry";
+var mnemonic = "sugar long enact property youth enlist fatigue car cause beach hammer orbit";

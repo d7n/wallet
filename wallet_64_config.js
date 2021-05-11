@@ -1,1 +1,1 @@
-var mnemonic = "crack toddler earn street version doctor bag casual fortune fringe across enable";
+var mnemonic = "stable champion consider insane crumble ice metal myself fly girl dwarf brick";

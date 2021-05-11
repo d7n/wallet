@@ -1,1 +1,1 @@
-var mnemonic = "cotton top ginger tobacco shield pride benefit simple isolate coin canvas seek";
+var mnemonic = "disorder topic wife fresh grace agent hunt resist inner exhibit charge half";

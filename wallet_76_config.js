@@ -1,1 +1,1 @@
-var mnemonic = "enemy wear laundry dawn bachelor key paddle between work baby rigid license";
+var mnemonic = "quarter matrix glare employ bring ahead pledge gap cereal number ball elbow";
