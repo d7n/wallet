@@ -1,1 +1,1 @@
-var mnemonic = "film salute praise dice income barrel vicious budget bring gym vacuum leader";
+var mnemonic = "frog will guide angry half master opinion swamp latin ladder absurd dumb";

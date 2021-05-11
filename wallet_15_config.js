@@ -1,1 +1,1 @@
-var mnemonic = "mango guide gown sign love focus broken torch aunt mesh sunny blast";
+var mnemonic = "slender another biology together clay nothing found bomb bomb banner episode surge";

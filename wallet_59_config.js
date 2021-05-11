@@ -1,1 +1,1 @@
-var mnemonic = "runway promote inherit display document camp tongue father control pottery knock funny";
+var mnemonic = "stomach flush major syrup income sing gravity carbon zebra cook rally mask";

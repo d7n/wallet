@@ -1,1 +1,1 @@
-var mnemonic = "convince donkey spy mean hollow adult suspect pigeon proud rather grab spell";
+var mnemonic = "pact drill doll latin shift suspect hole thank pupil battle picnic success";

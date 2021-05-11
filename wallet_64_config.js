@@ -1,1 +1,1 @@
-var mnemonic = "resist medal kiwi gravity target silver bone infant use desk rain stuff";
+var mnemonic = "nuclear roast surface asthma meadow unlock duty arrive case seat major expand";

@@ -1,1 +1,1 @@
-var mnemonic = "mother license bomb tone frame vessel bounce journey depth middle book robust";
+var mnemonic = "festival memory rare reject cousin smart alien genuine coach gaze warrior raven";

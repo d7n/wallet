@@ -1,1 +1,1 @@
-var mnemonic = "orbit flock when manage kiwi increase crop teach fly rigid expire silly";
+var mnemonic = "stay boat fish emerge stomach divorce wish talent salmon day loud fantasy";

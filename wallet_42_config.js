@@ -1,1 +1,1 @@
-var mnemonic = "mistake situate skull hover hawk wedding amused dizzy use nut aspect august";
+var mnemonic = "defense demand give differ click now horror jar you mammal juice dune";

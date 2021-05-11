@@ -1,1 +1,1 @@
-var mnemonic = "puppy orphan express one match pupil tumble movie reunion address any inside";
+var mnemonic = "woman build easy volcano label urban connect scheme light explain endorse equal";

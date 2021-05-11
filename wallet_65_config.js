@@ -1,1 +1,1 @@
-var mnemonic = "common update pulp monkey mirror wall aisle limb step wheat rebuild congress";
+var mnemonic = "goose ladder know weird sponsor coconut tribe poet glide canvas hurt best";

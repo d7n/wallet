@@ -1,1 +1,1 @@
-var mnemonic = "federal appear retreat wait proof void exact task cruel rotate armed tilt";
+var mnemonic = "long erase dawn glass deny spoil dream black awful same exchange iron";

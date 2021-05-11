@@ -1,1 +1,1 @@
-var mnemonic = "forget shield various access firm achieve into avoid vehicle similar clock slab";
+var mnemonic = "design common celery maximum grief acoustic female wheel work nephew clarify snap";

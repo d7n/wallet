@@ -1,1 +1,1 @@
-var mnemonic = "private toy wheat tattoo deer hire plug pull damage false shock until";
+var mnemonic = "body alley object much return denial luggage arrow nation swear boy pepper";

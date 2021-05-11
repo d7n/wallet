@@ -1,1 +1,1 @@
-var mnemonic = "option luxury fortune payment curious obscure drum smart banana opinion seat proof";
+var mnemonic = "blue quality often layer wasp enter wrist child erode high owner apart";

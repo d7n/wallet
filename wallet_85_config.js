@@ -1,1 +1,1 @@
-var mnemonic = "input cart tree income can syrup awake you dutch flee ride giggle";
+var mnemonic = "nothing napkin cluster reopen work abstract girl mixture depth zone slice glue";

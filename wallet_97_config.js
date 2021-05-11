@@ -1,1 +1,1 @@
-var mnemonic = "expose tired ritual announce hair immune bachelor patch video coast connect human";
+var mnemonic = "slot grape exile verb wide upset debris pass change medal piece fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "fire aerobic valid satoshi pair party royal trend style birth fix valley";
+var mnemonic = "embark engage hurt exclude hill angle pill royal naive horror eye doctor";

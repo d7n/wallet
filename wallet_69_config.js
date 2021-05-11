@@ -1,1 +1,1 @@
-var mnemonic = "balance daughter now mixed west only jacket tray lonely course actual future";
+var mnemonic = "capable enforce pluck donor carry noble coil solar switch view exile olympic";

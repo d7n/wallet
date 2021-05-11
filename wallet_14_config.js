@@ -1,1 +1,1 @@
-var mnemonic = "silly forget child street inquiry fiber box library empty ball seminar pigeon";
+var mnemonic = "nominee unknown assume boss happy convince hedgehog prosper eyebrow vocal portion dutch";

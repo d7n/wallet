@@ -1,1 +1,1 @@
-var mnemonic = "news mammal slice shock divorce often matter tissue lazy frown require smart";
+var mnemonic = "unfair cheap dream battle train box catalog airport noise lesson stereo muffin";

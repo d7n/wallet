@@ -1,1 +1,1 @@
-var mnemonic = "hobby deputy lift phone rotate gain mean various digital nice ocean pigeon";
+var mnemonic = "burst doll stuff travel illness coffee health gentle basic force snap hybrid";

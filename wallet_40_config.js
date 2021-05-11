@@ -1,1 +1,1 @@
-var mnemonic = "element evolve excuse south soft hood logic matrix cupboard front apology remain";
+var mnemonic = "father frog obscure soccer actor goddess load script smooth inner dice digital";

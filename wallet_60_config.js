@@ -1,1 +1,1 @@
-var mnemonic = "morning despair side peanut three rabbit october lunar spatial gym minor wash";
+var mnemonic = "bonus wisdom artefact employ wisdom clock nephew review still syrup scan meadow";

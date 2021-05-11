@@ -1,1 +1,1 @@
-var mnemonic = "assist secret lake lumber gather midnight nominee pool spoil impulse accuse supreme";
+var mnemonic = "sleep trade shoot mansion nut must unfair unknown rate spy october leg";

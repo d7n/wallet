@@ -1,1 +1,1 @@
-var mnemonic = "grunt witness marble sweet whisper start sleep tone vacant insane trouble belt";
+var mnemonic = "buyer economy oak proud hurry dish drop sad junior sugar rival useful";

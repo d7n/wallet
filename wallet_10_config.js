@@ -1,1 +1,1 @@
-var mnemonic = "borrow predict pottery suspect half fire expect sweet sleep pause travel pluck";
+var mnemonic = "echo find quit rather about flavor immune camp jealous myself smile outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "valid merry license patrol satisfy wolf bird flight giggle weird finish audit";
+var mnemonic = "ready unknown thunder trip wrong diamond fish lock install glory dizzy mean";

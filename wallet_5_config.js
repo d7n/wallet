@@ -1,1 +1,1 @@
-var mnemonic = "orphan drop wrist notice banana clip pony security test uncover property churn";
+var mnemonic = "radar lecture image excuse another display tobacco breeze lottery future answer steak";

@@ -1,1 +1,1 @@
-var mnemonic = "black dilemma autumn silent must bind sugar cereal mad machine tree trim";
+var mnemonic = "border similar ketchup prosper roof twist badge pumpkin lake general nasty believe";

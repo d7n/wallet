@@ -1,1 +1,1 @@
-var mnemonic = "pact door undo example issue identify pulse push genius reform select useless";
+var mnemonic = "swear run entire verb color pudding disease nephew miss fault radar trap";

@@ -1,1 +1,1 @@
-var mnemonic = "young visual dice eye select shuffle myself join arrive mix guess glimpse";
+var mnemonic = "notice file angle bird ostrich toast sun ozone poem offer quit mandate";

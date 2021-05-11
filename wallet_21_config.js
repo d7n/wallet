@@ -1,1 +1,1 @@
-var mnemonic = "symbol dial mix short aim fold cube about hidden blouse ring curious";
+var mnemonic = "sibling guitar unable wasp upon flag nominee drip patient mention welcome margin";

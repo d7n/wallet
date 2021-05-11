@@ -1,1 +1,1 @@
-var mnemonic = "spider uncover portion canyon alcohol human find eight celery glass decline kitten";
+var mnemonic = "menu credit glare park mixed donate warfare ceiling bitter own phone gold";

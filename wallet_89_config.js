@@ -1,1 +1,1 @@
-var mnemonic = "spot body ship expire wrong veteran liberty pull oyster foster degree weapon";
+var mnemonic = "anger deposit cabin laptop axis design famous strike swim mushroom cloth empty";

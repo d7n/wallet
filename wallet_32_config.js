@@ -1,1 +1,1 @@
-var mnemonic = "oven catch artwork royal burger usual brown stool test blast bread spoil";
+var mnemonic = "inner antique correct theme fabric become actor risk enough have goat tribe";

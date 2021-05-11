@@ -1,1 +1,1 @@
-var mnemonic = "adjust guide erupt demise butter machine derive recall race crop then reform";
+var mnemonic = "very perfect episode green lottery visit ugly cupboard grape piece fetch prison";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado fiscal announce ski mutual task punch abuse amateur arctic neglect near";
+var mnemonic = "argue clog upset kid kid ripple genre crater butter setup bean frozen";

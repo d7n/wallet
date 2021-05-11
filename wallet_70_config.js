@@ -1,1 +1,1 @@
-var mnemonic = "base income cause rocket cement thing jump drip coast border height approve";
+var mnemonic = "occur negative clown affair blood analyst immune open fresh staff ugly click";

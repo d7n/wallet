@@ -1,1 +1,1 @@
-var mnemonic = "trumpet blind grow brick tiger skate abandon demand scorpion biology bird welcome";
+var mnemonic = "word milk twice main scout domain quick school stadium adjust fragile market";

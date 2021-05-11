@@ -1,1 +1,1 @@
-var mnemonic = "speak armed pulse nephew guard message march digital escape brain venture beauty";
+var mnemonic = "keen usage ride lock riot join cute private rigid sight hour cram";

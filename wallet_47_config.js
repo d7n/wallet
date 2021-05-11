@@ -1,1 +1,1 @@
-var mnemonic = "proof feature kit fitness follow crumble check color develop guard bulk detail";
+var mnemonic = "helmet parade pistol craft tomorrow notable six depart demise slot warrior blossom";

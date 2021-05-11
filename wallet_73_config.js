@@ -1,1 +1,1 @@
-var mnemonic = "gesture immune bean naive layer weather lunch goose spot popular unhappy maid";
+var mnemonic = "media senior company pool harsh faint beyond surround layer rich knee barely";

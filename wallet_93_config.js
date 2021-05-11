@@ -1,1 +1,1 @@
-var mnemonic = "abstract such have wife kid guilt edge velvet oil permit perfect soft";
+var mnemonic = "strategy share private tourist gift cloud item desk cake razor pattern theory";

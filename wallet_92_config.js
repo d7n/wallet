@@ -1,1 +1,1 @@
-var mnemonic = "engage simple carry sword grit observe reflect honey phone goat fabric add";
+var mnemonic = "file leg pyramid make sea degree vault end knee lobster viable battle";

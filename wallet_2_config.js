@@ -1,1 +1,1 @@
-var mnemonic = "emotion lottery smoke noodle scare penalty diesel mad genre primary snake milk";
+var mnemonic = "slight wasp comfort equal mule long evil burger material tissue float mouse";

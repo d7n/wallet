@@ -1,1 +1,1 @@
-var mnemonic = "control circle sniff verify borrow portion slim indicate magnet question goddess accident";
+var mnemonic = "barrel patient royal job page oblige marine sock salt angry dune iron";

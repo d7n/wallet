@@ -1,1 +1,1 @@
-var mnemonic = "champion detail board ginger prosper risk clever vault pink lottery shrimp achieve";
+var mnemonic = "three cliff wild stem exist group across twenty night hospital comic snow";

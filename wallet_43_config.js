@@ -1,1 +1,1 @@
-var mnemonic = "phone say angry glad mansion heart tuition cigar sniff during biology shell";
+var mnemonic = "custom vague humble select theory sauce image trust tag doctor impose identify";

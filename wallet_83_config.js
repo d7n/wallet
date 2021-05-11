@@ -1,1 +1,1 @@
-var mnemonic = "mind potato view group benefit muffin canal modify hard draft penalty unfold";
+var mnemonic = "vapor flock thought marriage dismiss tumble add disease advance clarify veteran wood";

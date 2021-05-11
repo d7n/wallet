@@ -1,1 +1,1 @@
-var mnemonic = "media second ramp rug token ball false another match demand cook clown";
+var mnemonic = "initial brain prosper gain unaware narrow during hunt rally upon rug puzzle";

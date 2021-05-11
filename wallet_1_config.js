@@ -1,1 +1,1 @@
-var mnemonic = "drip sample piece evil shove anger shaft remind journey rural collect drop";
+var mnemonic = "glimpse gesture under consider door conduct defy betray high dose vintage debris";

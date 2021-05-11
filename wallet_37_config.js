@@ -1,1 +1,1 @@
-var mnemonic = "cigar woman eager topic chat sing swift bunker tumble merge mimic easily";
+var mnemonic = "bullet coconut almost demise treat lecture gain twice front soup reward involve";

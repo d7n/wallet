@@ -1,1 +1,1 @@
-var mnemonic = "unfold regular submit unfair before main sentence drink page second model spider";
+var mnemonic = "adjust soft crush armor company width lion ten filter develop spy pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion guitar name unknown spray bless alcohol add stock still stairs neutral";
+var mnemonic = "bullet aisle avoid range mind silk blossom near quantum million quantum aim";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny bundle boost wash inspire frown cup door loud swarm neutral misery";
+var mnemonic = "describe supply job aunt vicious cotton town often subway model marine ankle";

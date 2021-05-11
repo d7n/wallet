@@ -1,1 +1,1 @@
-var mnemonic = "eagle strike garlic guilt ignore hidden ginger exit gentle blue detail response";
+var mnemonic = "feed cinnamon balcony velvet rug method end sea century famous siege inflict";

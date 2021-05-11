@@ -1,1 +1,1 @@
-var mnemonic = "define lend case happy pig agent sight floor exercise avoid scheme lottery";
+var mnemonic = "lend orchard lock hire ride custom fade rival fetch math equip donor";

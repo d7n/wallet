@@ -1,1 +1,1 @@
-var mnemonic = "amount sadness arrive service vessel staff cake close brass ignore phrase mule";
+var mnemonic = "auction sponsor version oven among sentence cherry category strong lake yellow grow";

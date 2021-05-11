@@ -1,1 +1,1 @@
-var mnemonic = "dice chronic where aerobic travel basket tide nominee feel calm floor twenty";
+var mnemonic = "velvet march trick mother basic bullet common alarm proud buddy husband today";

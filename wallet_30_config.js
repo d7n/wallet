@@ -1,1 +1,1 @@
-var mnemonic = "always palace bright under shuffle grid damage velvet chief fresh street vocal";
+var mnemonic = "travel fog assume sort purse security minimum skirt car custom pioneer pelican";

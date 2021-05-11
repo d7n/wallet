@@ -1,1 +1,1 @@
-var mnemonic = "elite ball stomach spread yard consider lava silver sail spirit spell coast";
+var mnemonic = "chief still rifle useful dash cup bitter bean fit describe unique sun";

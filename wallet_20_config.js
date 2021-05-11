@@ -1,1 +1,1 @@
-var mnemonic = "erupt champion addict praise produce dad abandon neither toast spot nest modify";
+var mnemonic = "differ hint wild service raise penalty taste check diagram wear lady hidden";

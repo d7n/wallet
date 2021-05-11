@@ -1,1 +1,1 @@
-var mnemonic = "real honey transfer uncle whale swift crater sentence vapor north coyote mystery";
+var mnemonic = "rapid flight walk upgrade hospital gaze wood spy case rally hole vacant";

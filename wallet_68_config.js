@@ -1,1 +1,1 @@
-var mnemonic = "kiss spice neutral vibrant impact urge jump divorce then heavy simple liquid";
+var mnemonic = "visa law inspire payment ostrich load lamp knife play fix viable obscure";

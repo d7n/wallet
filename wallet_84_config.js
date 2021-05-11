@@ -1,1 +1,1 @@
-var mnemonic = "lawn two jar enrich marriage ship cluster vehicle jacket defense dove skin";
+var mnemonic = "gap caught shaft army void enrich prepare income fee crop battle useless";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer glimpse mandate clever steel estate farm cheap violin sad blood lemon";
+var mnemonic = "swear famous argue useful maze dash often luxury first feature permit rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic split target man child flag need layer strike label image devote";
+var mnemonic = "shoot habit develop bean mask expect report enforce audit pen total attend";

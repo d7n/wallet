@@ -1,1 +1,1 @@
-var mnemonic = "beauty organ poem plastic inmate cloud layer cause remove head involve spawn";
+var mnemonic = "pipe mobile ice law fringe during rain deer unit system spray dynamic";

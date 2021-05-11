@@ -1,1 +1,1 @@
-var mnemonic = "tourist hammer have nerve crop review oyster crush mammal empower zero puzzle";
+var mnemonic = "six search box ahead moral cake chaos liberty innocent round kangaroo luxury";

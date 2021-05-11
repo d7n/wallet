@@ -1,1 +1,1 @@
-var mnemonic = "wall patch brief chef chef math crunch brain tilt differ garbage rhythm";
+var mnemonic = "attend picture text clarify desk image fire need album sail flag elevator";

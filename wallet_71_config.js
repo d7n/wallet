@@ -1,1 +1,1 @@
-var mnemonic = "strike trumpet shoot window twelve catalog current curious rocket evoke tragic pilot";
+var mnemonic = "forum cannon truck pitch enough sweet diary protect used belt put reason";

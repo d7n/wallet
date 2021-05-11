@@ -1,1 +1,1 @@
-var mnemonic = "similar attitude cannon edge forest write buzz outside cube couple sheriff park";
+var mnemonic = "struggle friend lock rent cheese tone usage penalty tunnel few release soldier";

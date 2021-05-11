@@ -1,1 +1,1 @@
-var mnemonic = "divorce embrace vacuum more oblige talent sport latin maximum diary august middle";
+var mnemonic = "smoke lottery razor humor target logic brass clip giggle vocal deliver atom";

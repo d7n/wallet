@@ -1,1 +1,1 @@
-var mnemonic = "obvious travel flock harvest ginger lucky talent silk fragile task welcome sock";
+var mnemonic = "melody isolate dynamic wonder spoil identify hedgehog current all despair disagree champion";

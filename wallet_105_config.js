@@ -1,1 +1,1 @@
-var mnemonic = "join best claim ill early lottery problem pledge usual beyond crouch text";
+var mnemonic = "undo pelican person pigeon surface example uniform sure grace obtain forest dust";

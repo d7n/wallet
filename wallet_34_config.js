@@ -1,1 +1,1 @@
-var mnemonic = "adjust mom palm brisk plate diet urge firm pepper upper garment steel";
+var mnemonic = "balcony nephew whisper key route indoor discover trade worry cross lab scrub";

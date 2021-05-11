@@ -1,1 +1,1 @@
-var mnemonic = "dress pass bachelor waste mosquito impact flush curtain people injury stereo erosion";
+var mnemonic = "whale shove wheel sunny task spice shop focus insane naive crisp omit";

@@ -1,1 +1,1 @@
-var mnemonic = "minute blame forget trial assist uniform original enact notice hybrid waste smoke";
+var mnemonic = "vessel birth harvest copper brisk crew legend inquiry relief rather admit pattern";

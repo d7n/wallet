@@ -1,1 +1,1 @@
-var mnemonic = "spirit gift wagon mobile music pilot luxury vehicle open speak essence ready";
+var mnemonic = "isolate turkey spare venture expose depend morning tissue mule nothing payment attack";

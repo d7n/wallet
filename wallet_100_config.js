@@ -1,1 +1,1 @@
-var mnemonic = "inflict gain own vast artefact verb always pride menu thunder rude total";
+var mnemonic = "phone broccoli sunny lunch craft source quote answer wealth grit ready during";

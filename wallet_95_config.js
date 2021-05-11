@@ -1,1 +1,1 @@
-var mnemonic = "hollow stairs camp wet filter light place turtle help exist solution ankle";
+var mnemonic = "trigger marine various prepare bronze cliff spell top obey hobby tennis safe";

@@ -1,1 +1,1 @@
-var mnemonic = "shine barely train steel endless empower melt coconut grape other labor strong";
+var mnemonic = "team fork differ theme valley stamp broom stamp kangaroo silver cloud useful";

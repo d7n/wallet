@@ -1,1 +1,1 @@
-var mnemonic = "video monitor craft sight bench balcony vacuum rug panel hockey cushion practice";
+var mnemonic = "elephant sibling index fluid process sponsor hero invest radio enter canyon slab";

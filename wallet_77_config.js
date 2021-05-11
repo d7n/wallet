@@ -1,1 +1,1 @@
-var mnemonic = "neither letter indicate squirrel deer provide cabin actor wait divert change labor";
+var mnemonic = "spice spoon property property eagle outdoor trap laundry execute stairs drop lesson";

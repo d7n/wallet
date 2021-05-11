@@ -1,1 +1,1 @@
-var mnemonic = "analyst sorry type club asset raw hollow orchard normal index make able";
+var mnemonic = "language sick sword wood boost brain call wash chat raccoon else aisle";

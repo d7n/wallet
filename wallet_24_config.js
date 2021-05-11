@@ -1,1 +1,1 @@
-var mnemonic = "journey body multiply pair clerk orphan autumn muffin potato sing spider love";
+var mnemonic = "glue merit artefact isolate flower cancel horse patrol squirrel news host margin";

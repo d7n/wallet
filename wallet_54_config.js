@@ -1,1 +1,1 @@
-var mnemonic = "wise fee giraffe father spend village lizard pledge current glad favorite sight";
+var mnemonic = "parade link wage vicious hat predict inside flee cry green maze moon";

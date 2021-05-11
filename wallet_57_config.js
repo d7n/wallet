@@ -1,1 +1,1 @@
-var mnemonic = "antenna daring verify sound hotel rebel pole route sail sun pig absorb";
+var mnemonic = "silent scout asthma pride bounce leave song dune patient decade surround army";

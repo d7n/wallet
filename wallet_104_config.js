@@ -1,1 +1,1 @@
-var mnemonic = "label flee staff shoulder family size senior mosquito inform tank wisdom core";
+var mnemonic = "cricket unlock damage govern van pool possible hour dinner faith airport razor";

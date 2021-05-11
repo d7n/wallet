@@ -1,1 +1,1 @@
-var mnemonic = "silly insane dinosaur winner myself bulk parade negative smoke frost slide fiber";
+var mnemonic = "piano misery rent orphan cruel gate deliver rapid horror grocery barrel capital";
