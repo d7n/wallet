@@ -1,1 +1,1 @@
-var mnemonic = "climb bench slight cloth already hard mention switch maple column dust throw";
+var mnemonic = "chapter away mixture secret urge attitude torch job sketch movie switch fatigue";

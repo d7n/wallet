@@ -1,1 +1,1 @@
-var mnemonic = "soft surround acoustic shell absorb produce vast filter floor notable inmate broccoli";
+var mnemonic = "judge breeze spice ensure cluster ball prosper vital toddler magnet round develop";

@@ -1,1 +1,1 @@
-var mnemonic = "orange please fire shoe season inquiry company clutch blur table gift neither";
+var mnemonic = "afford craft little endorse bind relief tool pair network jump prosper slot";

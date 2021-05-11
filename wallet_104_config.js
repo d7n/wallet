@@ -1,1 +1,1 @@
-var mnemonic = "olive tobacco vacuum leisure obey square tenant load knee nice tide notice";
+var mnemonic = "enact giraffe rate laptop only light nominee parrot loyal kid position staff";

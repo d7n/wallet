@@ -1,1 +1,1 @@
-var mnemonic = "supreme coyote evoke reopen taste domain flat soap tragic detail sentence square";
+var mnemonic = "moon artwork evolve omit record cram maid friend devote shy equal galaxy";

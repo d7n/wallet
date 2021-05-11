@@ -1,1 +1,1 @@
-var mnemonic = "crop resemble write rich empty pencil south glimpse retreat history fault impact";
+var mnemonic = "save agent marriage finish marriage helmet glance trip design combine someone path";

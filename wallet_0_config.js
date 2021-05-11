@@ -1,1 +1,1 @@
-var mnemonic = "bring march kingdom combine dust awake pass wing human best pull curtain";
+var mnemonic = "shell fine foster ugly quit lunch ugly rich maple spell behind range";

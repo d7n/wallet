@@ -1,1 +1,1 @@
-var mnemonic = "now cousin favorite dress fox zoo mad unable next wagon delay hard";
+var mnemonic = "canoe jelly define consider program vacant drift very bottom project attack sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "brass lamp movie penalty announce cable curtain actual catch face illness people";
+var mnemonic = "smoke neutral supply camera public cheese kiwi faint clip result produce release";

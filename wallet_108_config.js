@@ -1,1 +1,1 @@
-var mnemonic = "arrive green reason sting stem kiwi armor detect enact lady cinnamon large";
+var mnemonic = "they galaxy depth soup blame bean city wrap bulk corn muffin asset";

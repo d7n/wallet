@@ -1,1 +1,1 @@
-var mnemonic = "mushroom emerge dismiss bean train document build tackle mixture nature group lazy";
+var mnemonic = "hold athlete buddy jewel puzzle nephew warm venue paper woman before artist";

@@ -1,1 +1,1 @@
-var mnemonic = "speak door toast ill exact frown risk basic diet current wine double";
+var mnemonic = "ugly view iron speak below gown option rent good brain cotton law";

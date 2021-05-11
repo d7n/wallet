@@ -1,1 +1,1 @@
-var mnemonic = "gate large valve spatial stomach voyage arctic antenna beyond bacon absorb prison";
+var mnemonic = "keep victory ask cycle strong opinion neither pulse acoustic peanut talent uncle";

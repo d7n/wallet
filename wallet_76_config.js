@@ -1,1 +1,1 @@
-var mnemonic = "trade mom peasant beyond vibrant purchase pride spring foam burger extend bag";
+var mnemonic = "lottery uncover kite leader slot capable cement final rival boring aerobic rubber";

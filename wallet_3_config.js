@@ -1,1 +1,1 @@
-var mnemonic = "include matrix forget pencil okay balcony obey foster company crucial drive slender";
+var mnemonic = "year skull fame benefit episode project away spice alien strategy vapor lady";

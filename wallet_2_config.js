@@ -1,1 +1,1 @@
-var mnemonic = "cricket cost differ diary bone august apple other pool early lens borrow";
+var mnemonic = "sell empty report rival neglect spot math inquiry sphere injury judge anchor";

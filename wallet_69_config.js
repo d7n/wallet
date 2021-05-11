@@ -1,1 +1,1 @@
-var mnemonic = "auction quote increase juice panda empty stereo memory wisdom knock segment grace";
+var mnemonic = "hundred unaware blouse winter rather mirror minute item mimic grab twin female";

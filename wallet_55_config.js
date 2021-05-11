@@ -1,1 +1,1 @@
-var mnemonic = "thought kite slogan image deposit inform wire vote zero camera word oyster";
+var mnemonic = "desert fancy speed easy trust sail blouse security then cactus expect host";

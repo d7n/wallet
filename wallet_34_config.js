@@ -1,1 +1,1 @@
-var mnemonic = "clutch also warrior air similar version narrow nephew menu siren dance sick";
+var mnemonic = "treat express dilemma vicious odor tomorrow concert sunset ill embrace night wild";

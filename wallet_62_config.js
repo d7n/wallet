@@ -1,1 +1,1 @@
-var mnemonic = "chuckle friend quiz depart axis innocent whip name loop wreck soon fringe";
+var mnemonic = "expect broom rapid movie remain armed merry pretty vintage then neglect share";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft sting bright genuine frog leisure core stage sunny turkey rebuild skate";
+var mnemonic = "ticket pottery tube match august scheme ill hotel put bring exact torch";

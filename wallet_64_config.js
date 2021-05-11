@@ -1,1 +1,1 @@
-var mnemonic = "vacant area prevent age fox column size parrot flip evoke solid wheat";
+var mnemonic = "refuse arctic account arrow average desk cost grace twenty exotic odor ranch";

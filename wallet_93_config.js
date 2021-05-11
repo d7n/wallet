@@ -1,1 +1,1 @@
-var mnemonic = "void tone evolve leopard juice cloth destroy castle bind ramp arena frozen";
+var mnemonic = "language require match dwarf actress buddy income regret evil cool estate gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "mention clinic deliver credit elephant crowd banner wheat absorb escape chief reopen";
+var mnemonic = "wink canvas wasp stage unfair build vacant answer gap network gadget pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "connect behind small update quit tunnel popular illegal prison crop swap size";
+var mnemonic = "pistol hidden rapid strong depth employ civil pause castle talent remove era";

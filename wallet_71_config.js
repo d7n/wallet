@@ -1,1 +1,1 @@
-var mnemonic = "before negative noodle reopen sleep cheese slam jeans boost drill artefact voice";
+var mnemonic = "neutral tiny grape tool belt champion unable switch visit matrix royal diagram";

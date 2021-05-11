@@ -1,1 +1,1 @@
-var mnemonic = "whip liberty ribbon whip boil chase rigid slow torch provide earn stone";
+var mnemonic = "diamond tilt maid ostrich stuff near soda release raise casino eyebrow cute";

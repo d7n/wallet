@@ -1,1 +1,1 @@
-var mnemonic = "exchange layer lady people crazy prefer edge icon noodle victory scatter culture";
+var mnemonic = "young orbit few favorite again wealth logic trust goddess state mimic camera";

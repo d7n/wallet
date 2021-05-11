@@ -1,1 +1,1 @@
-var mnemonic = "yellow oxygen cabin walnut gun ticket damp path dry wet ill grab";
+var mnemonic = "hawk dutch hurdle sadness absent inside notable biology royal arm hero fury";

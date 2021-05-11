@@ -1,1 +1,1 @@
-var mnemonic = "will lottery warfare thing split arrange mail menu pony unique nut drift";
+var mnemonic = "provide decorate arm benefit volume cool deal poem resource survey mixed mutual";

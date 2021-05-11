@@ -1,1 +1,1 @@
-var mnemonic = "indoor electric uncle hospital kingdom destroy steak involve valley file drip mesh";
+var mnemonic = "amount delay stem begin opera valid bean real alien moon expose roast";

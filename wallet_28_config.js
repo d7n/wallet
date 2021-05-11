@@ -1,1 +1,1 @@
-var mnemonic = "million scissors race female hour chef small absent spider number ready satisfy";
+var mnemonic = "success lyrics glue long ring ecology hospital nest wall cage theme clump";

@@ -1,1 +1,1 @@
-var mnemonic = "often better symbol horse duck floor foam risk ocean match obtain public";
+var mnemonic = "captain year half pony soldier flee abstract misery gentle pond brain border";

@@ -1,1 +1,1 @@
-var mnemonic = "bus wall valley guide dinosaur celery manual mistake ankle flame three maple";
+var mnemonic = "since try speed detect you because engine bachelor cry concert blue chalk";

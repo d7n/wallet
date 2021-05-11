@@ -1,1 +1,1 @@
-var mnemonic = "fix caught execute medal winter ankle immune choice current grab canoe icon";
+var mnemonic = "gadget magnet paddle focus kidney insane tank bronze opinion wealth use own";

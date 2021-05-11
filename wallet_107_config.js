@@ -1,1 +1,1 @@
-var mnemonic = "one tone begin flame ozone multiply unknown under myth modify language raccoon";
+var mnemonic = "ugly similar gun flavor blouse apology club avoid fun orient stay slogan";

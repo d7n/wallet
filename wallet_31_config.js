@@ -1,1 +1,1 @@
-var mnemonic = "casual van velvet breeze carbon know wear unhappy around kidney barrel decorate";
+var mnemonic = "raccoon gasp mercy spray palm tackle uniform visit find erase jeans search";

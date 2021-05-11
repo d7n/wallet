@@ -1,1 +1,1 @@
-var mnemonic = "tenant penalty fetch hen sponsor display receive nurse wrist march decorate work";
+var mnemonic = "vintage art domain cluster envelope theory frame stand north silly file coast";

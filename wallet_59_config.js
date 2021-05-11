@@ -1,1 +1,1 @@
-var mnemonic = "title talent poet welcome unknown this barely position between minimum baby gold";
+var mnemonic = "unit arena allow latin rice enter crowd desk resource captain initial bright";

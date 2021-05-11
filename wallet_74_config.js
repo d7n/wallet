@@ -1,1 +1,1 @@
-var mnemonic = "brand taste warm enemy laugh bamboo bubble cube announce file oval ethics";
+var mnemonic = "poverty ginger junk law love quiz rebuild gaze inhale reason drive coach";

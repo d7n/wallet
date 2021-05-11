@@ -1,1 +1,1 @@
-var mnemonic = "awesome scheme oxygen try analyst chuckle joy pigeon confirm monitor blush ceiling";
+var mnemonic = "public cool cube lock limb love key trophy balcony razor laugh cloud";

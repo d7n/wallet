@@ -1,1 +1,1 @@
-var mnemonic = "useless leg thing gold honey case fix traffic steel theory front smart";
+var mnemonic = "post harbor advance glare letter know sphere evil slush raccoon draft dutch";

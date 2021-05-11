@@ -1,1 +1,1 @@
-var mnemonic = "civil improve vocal female flavor tobacco enhance chef social stem lobster sweet";
+var mnemonic = "glue despair wave team define fresh garden lens void blast duty assume";

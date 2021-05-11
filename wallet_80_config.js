@@ -1,1 +1,1 @@
-var mnemonic = "gospel bridge piano else humble consider motor settle assault squirrel divert wrist";
+var mnemonic = "affair addict pattern license move gift fossil category pass sleep tomorrow vast";

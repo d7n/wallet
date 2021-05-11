@@ -1,1 +1,1 @@
-var mnemonic = "over only punch burden eye puzzle beauty sponsor have artist cable chat";
+var mnemonic = "click like nerve swift album expand always noble spatial about use bicycle";

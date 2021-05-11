@@ -1,1 +1,1 @@
-var mnemonic = "desk swap favorite nest thumb wire cabin neck rapid drastic syrup light";
+var mnemonic = "budget road bamboo north rigid impose slush film fluid corn tomato cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "foam noise slender isolate focus blanket dynamic color begin honey lock door";
+var mnemonic = "hospital warfare canyon pill abandon hospital spread damage reveal fuel lock chef";

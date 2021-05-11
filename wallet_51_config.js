@@ -1,1 +1,1 @@
-var mnemonic = "trim symbol language bleak glove witness pioneer clever below manage slight allow";
+var mnemonic = "hint slush traffic glass rose lock pill invest noble shuffle sword local";

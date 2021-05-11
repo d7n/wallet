@@ -1,1 +1,1 @@
-var mnemonic = "stand angry short replace bless erode attitude front involve swing hat motion";
+var mnemonic = "arrest twenty glare basket negative own bone prepare invite taxi better energy";

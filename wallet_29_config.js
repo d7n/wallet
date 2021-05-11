@@ -1,1 +1,1 @@
-var mnemonic = "win venture horse laptop what buyer crunch corn solution more mobile spring";
+var mnemonic = "push enforce episode unlock hybrid behave bitter delay million riot oval small";

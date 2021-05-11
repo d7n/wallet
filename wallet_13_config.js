@@ -1,1 +1,1 @@
-var mnemonic = "axis avoid man float place ready frequent hunt kid royal sand inner";
+var mnemonic = "lonely wrist repair universe all mother broken position print face orbit purpose";

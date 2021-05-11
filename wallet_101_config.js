@@ -1,1 +1,1 @@
-var mnemonic = "genius slim special toy sweet social pulse tube egg actual farm online";
+var mnemonic = "extra frog monkey tree maze beauty engage runway harsh chalk fossil biology";

@@ -1,1 +1,1 @@
-var mnemonic = "game stairs cover cause noodle term napkin fashion shoulder month traffic oblige";
+var mnemonic = "piano infant gadget remain apology stone thought aspect thought runway cargo race";

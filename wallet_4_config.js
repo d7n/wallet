@@ -1,1 +1,1 @@
-var mnemonic = "like grant vacuum ribbon adapt boss choose aisle cry prison border bullet";
+var mnemonic = "day little door march crash you west pride rough menu decide blind";

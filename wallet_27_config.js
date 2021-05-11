@@ -1,1 +1,1 @@
-var mnemonic = "increase actress resemble arrest exchange humor task stomach sketch juice concert actor";
+var mnemonic = "sad month fun curious route garden claim execute maze hard tenant harvest";

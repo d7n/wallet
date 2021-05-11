@@ -1,1 +1,1 @@
-var mnemonic = "ski steel crush lecture scare picture begin answer clown curious combine ramp";
+var mnemonic = "season cruel flag sword action wing stadium enroll ozone zero vintage angry";

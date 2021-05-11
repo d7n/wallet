@@ -1,1 +1,1 @@
-var mnemonic = "obey tool seven much put news boat entire floor wood october walk";
+var mnemonic = "dawn enough leopard adapt glare payment shrug farm vapor cargo clarify torch";

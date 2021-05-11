@@ -1,1 +1,1 @@
-var mnemonic = "cushion dirt crawl acoustic capable wink bachelor dentist tunnel sauce calm genuine";
+var mnemonic = "suffer radio reform pluck left taxi tower flame page blade trophy donate";

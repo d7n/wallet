@@ -1,1 +1,1 @@
-var mnemonic = "cover merit pretty among credit grunt car near embrace weapon vessel area";
+var mnemonic = "digital profit plate upset wild drive south cupboard castle sound possible receive";

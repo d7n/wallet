@@ -1,1 +1,1 @@
-var mnemonic = "sphere design resource voyage drum salad addict tomato system simple unknown gasp";
+var mnemonic = "smooth hurdle achieve foster outdoor foil mansion day ready machine survey whale";

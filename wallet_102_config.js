@@ -1,1 +1,1 @@
-var mnemonic = "shoe junk thank pepper beyond speak cabbage globe electric transfer option danger";
+var mnemonic = "middle place entire drastic cat sing pet orbit card ring sleep dance";

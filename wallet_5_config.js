@@ -1,1 +1,1 @@
-var mnemonic = "monster work opera fence wealth aim cool guard bring fragile canvas quantum";
+var mnemonic = "lawn talent plate weasel humble purse push early during morning copper shadow";

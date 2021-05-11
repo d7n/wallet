@@ -1,1 +1,1 @@
-var mnemonic = "manual rubber real bench brick chronic divorce toast noise into rule recycle";
+var mnemonic = "original glare flee tongue fever asthma treat receive furnace odor game luggage";

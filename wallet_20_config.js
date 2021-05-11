@@ -1,1 +1,1 @@
-var mnemonic = "switch addict execute cabbage tooth dolphin bird name catalog habit unlock sugar";
+var mnemonic = "flash mind term turkey inflict wish coin about shoulder amazing hammer canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "total token salute frog knock staff dizzy again bid best coffee duck";
+var mnemonic = "keen island joke face clutch empty brass luggage seminar keen develop science";

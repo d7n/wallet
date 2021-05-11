@@ -1,1 +1,1 @@
-var mnemonic = "turkey guard science light relief fox acquire room spell beyond gym special";
+var mnemonic = "inhale deposit mail sword dove suspect news hello recycle ball denial north";

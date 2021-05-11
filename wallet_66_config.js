@@ -1,1 +1,1 @@
-var mnemonic = "curve ethics alarm boil wood garbage chapter design accuse eager draw job";
+var mnemonic = "stamp proud cargo shove link duck isolate organ manage case armed drip";

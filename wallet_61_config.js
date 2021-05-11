@@ -1,1 +1,1 @@
-var mnemonic = "firm desert squirrel verify insect glove father cabbage stereo ozone sand success";
+var mnemonic = "satisfy cause wrong bundle delay bottom public today rough swap female salmon";

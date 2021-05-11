@@ -1,1 +1,1 @@
-var mnemonic = "short canvas eagle taste observe adapt nuclear claim episode sustain menu animal";
+var mnemonic = "dune lobster earth seed decade produce stomach someone obey verb life shock";

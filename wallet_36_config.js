@@ -1,1 +1,1 @@
-var mnemonic = "clip safe ball axis front grace sadness unveil fine never flame twin";
+var mnemonic = "live kid amateur correct vendor oak screen exact resemble chronic actor insane";

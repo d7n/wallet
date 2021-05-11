@@ -1,1 +1,1 @@
-var mnemonic = "meadow learn siege valid risk cycle scorpion happy earth right basket tree";
+var mnemonic = "wrist blur ocean reason laugh pretty steel bachelor purse front truck finish";

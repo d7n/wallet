@@ -1,1 +1,1 @@
-var mnemonic = "meadow post pattern mobile brisk try asset viable apple brush climb typical";
+var mnemonic = "coffee heavy strike useless banana swap trip brave immense miracle dinner pen";

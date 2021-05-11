@@ -1,1 +1,1 @@
-var mnemonic = "immense there knock palm dinner family bridge vibrant bullet model inflict lunar";
+var mnemonic = "magnet cool wet crisp quick security green build diary bless region section";

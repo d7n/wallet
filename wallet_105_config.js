@@ -1,1 +1,1 @@
-var mnemonic = "episode danger climb grunt wing away solution fee strategy oxygen evil hidden";
+var mnemonic = "coral sketch furnace into grit run army chuckle ice kick learn twenty";

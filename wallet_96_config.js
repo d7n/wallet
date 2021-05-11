@@ -1,1 +1,1 @@
-var mnemonic = "rural spot wife choice concert shoot box tuition limb blood main trend";
+var mnemonic = "notice exclude oven horror quiz elbow people invest bracket possible throw require";

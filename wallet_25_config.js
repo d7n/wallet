@@ -1,1 +1,1 @@
-var mnemonic = "sweet guard quote blush rice try dilemma wedding corn carry bring oblige";
+var mnemonic = "dash review swing car machine climb wonder make truth romance river salute";

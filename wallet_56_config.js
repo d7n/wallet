@@ -1,1 +1,1 @@
-var mnemonic = "pencil yard snake almost ginger flower spy rare talk coyote around heart";
+var mnemonic = "jelly captain suit stairs famous sponsor ill corn chimney puppy civil allow";

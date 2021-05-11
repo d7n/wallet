@@ -1,1 +1,1 @@
-var mnemonic = "uniform render flee flame mass pulp already chef tobacco pistol north genre";
+var mnemonic = "judge space shoulder illness zero rural tag capital season uncle chalk knife";

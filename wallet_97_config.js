@@ -1,1 +1,1 @@
-var mnemonic = "magnet gym flock wrist goat warrior play vocal bone wealth choose vote";
+var mnemonic = "employ sister satisfy uniform oven snack stadium best squeeze range dial oyster";

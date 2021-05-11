@@ -1,1 +1,1 @@
-var mnemonic = "enable crisp uncover crucial loud wreck excite gate west timber trap voice";
+var mnemonic = "immense fuel normal artist intact member host abuse spirit educate sentence sibling";

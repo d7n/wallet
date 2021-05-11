@@ -1,1 +1,1 @@
-var mnemonic = "merit wet hollow slush roast route forward shop ugly miracle bracket dry";
+var mnemonic = "turtle violin spoon tooth series year expect grape echo card sail agree";

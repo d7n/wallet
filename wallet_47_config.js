@@ -1,1 +1,1 @@
-var mnemonic = "lonely mango essence diagram parrot play now burst void ozone defense hello";
+var mnemonic = "fan coil depend gift boring negative flash select snap puppy public issue";

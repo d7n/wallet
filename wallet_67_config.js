@@ -1,1 +1,1 @@
-var mnemonic = "nut slow custom diamond clerk hammer car fade visa pitch rely bar";
+var mnemonic = "loop myth just legal street build mistake plastic saddle ranch ancient remind";

@@ -1,1 +1,1 @@
-var mnemonic = "crack that cute execute proud bubble coast refuse near finger jaguar box";
+var mnemonic = "verify armor race stay wife sister process screen glad sleep ivory erase";

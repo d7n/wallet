@@ -1,1 +1,1 @@
-var mnemonic = "cover purity wait cross ready mean jazz near drop floor drop talent";
+var mnemonic = "replace label settle exhaust woman mom shy cushion embrace lock useless boring";

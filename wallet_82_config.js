@@ -1,1 +1,1 @@
-var mnemonic = "empty scheme amazing snake kitchen curtain isolate zoo enrich muffin kitchen viable";
+var mnemonic = "girl timber carpet uncover usage cloth victory duck uniform zebra salute release";

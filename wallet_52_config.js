@@ -1,1 +1,1 @@
-var mnemonic = "hungry amateur brave involve ghost lyrics mad viable renew mass erosion jar";
+var mnemonic = "dynamic cabbage dumb mouse case require review crunch sad unveil rubber upgrade";

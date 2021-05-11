@@ -1,1 +1,1 @@
-var mnemonic = "february solid artist file puppy garbage stamp depth brain that enlist steel";
+var mnemonic = "hip praise pulse excess analyst reunion yellow window barrel swamp lesson evolve";

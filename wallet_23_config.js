@@ -1,1 +1,1 @@
-var mnemonic = "wear siren embody boy face meat blanket unhappy baby hold wide vendor";
+var mnemonic = "asthma manual pudding denial boat false country resource neutral prevent talk burger";

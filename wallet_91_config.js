@@ -1,1 +1,1 @@
-var mnemonic = "pitch level october steel birth parade shiver party absent negative predict icon";
+var mnemonic = "follow pretty blood please fox depart dress problem minimum season capital cupboard";

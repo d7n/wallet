@@ -1,1 +1,1 @@
-var mnemonic = "air puppy endorse planet prepare anchor differ zebra under garbage carry wire";
+var mnemonic = "survey merit route smooth glare scene isolate good priority flip bunker trigger";

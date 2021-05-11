@@ -1,1 +1,1 @@
-var mnemonic = "roast detail sphere milk rigid flight message ripple hood thunder heart zero";
+var mnemonic = "food print genuine pluck day pepper smart garden kingdom remember donor drop";

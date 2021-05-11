@@ -1,1 +1,1 @@
-var mnemonic = "key misery dutch plunge speed legal wet paddle style robot typical seminar";
+var mnemonic = "swing isolate ignore like all village gadget correct act minor side useless";

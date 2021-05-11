@@ -1,1 +1,1 @@
-var mnemonic = "edge scare inquiry fix slender mosquito dismiss useless judge copper differ window";
+var mnemonic = "simple aerobic outdoor truck shallow pave raccoon warfare orbit hover material room";

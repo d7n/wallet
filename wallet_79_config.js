@@ -1,1 +1,1 @@
-var mnemonic = "tank anxiety skirt this canoe shield you rapid market mad punch toe";
+var mnemonic = "final tape stable oil biology scare again soldier again farm sense detect";
