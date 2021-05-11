@@ -1,1 +1,1 @@
-var mnemonic = "nominee unknown assume boss happy convince hedgehog prosper eyebrow vocal portion dutch";
+var mnemonic = "live sing cabbage spare abstract slab stairs movie feel first crunch load";

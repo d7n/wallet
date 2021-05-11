@@ -1,1 +1,1 @@
-var mnemonic = "slice round into lesson tunnel dignity mechanic awful corn index because cheese";
+var mnemonic = "frame egg garment rack regular arch cancel rather cover little victory elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "spice spoon property property eagle outdoor trap laundry execute stairs drop lesson";
+var mnemonic = "secret laugh bench spatial wagon fitness ensure attend sorry police hub slogan";

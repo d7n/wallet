@@ -1,1 +1,1 @@
-var mnemonic = "visa law inspire payment ostrich load lamp knife play fix viable obscure";
+var mnemonic = "whisper danger degree april resemble camp abuse donate hamster cigar cabbage mask";

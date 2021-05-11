@@ -1,1 +1,1 @@
-var mnemonic = "media senior company pool harsh faint beyond surround layer rich knee barely";
+var mnemonic = "evidence brand sign eyebrow humble ask turtle drip shiver taxi will car";

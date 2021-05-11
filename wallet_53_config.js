@@ -1,1 +1,1 @@
-var mnemonic = "page west verb blood version poverty survey people index give main robot";
+var mnemonic = "idle stem marriage spider expose dilemma nest ring deal advance exact bachelor";

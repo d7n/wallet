@@ -1,1 +1,1 @@
-var mnemonic = "language sick sword wood boost brain call wash chat raccoon else aisle";
+var mnemonic = "panel impose spy valve claw matter tomato inflict cause craft mouse scrub";

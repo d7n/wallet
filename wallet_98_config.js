@@ -1,1 +1,1 @@
-var mnemonic = "body cover cousin roof pioneer video undo wet file pitch slot tell";
+var mnemonic = "elegant glue require slam year cancel duck battle jacket neglect lab room";

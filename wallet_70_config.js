@@ -1,1 +1,1 @@
-var mnemonic = "occur negative clown affair blood analyst immune open fresh staff ugly click";
+var mnemonic = "feed hundred squeeze soon acoustic patient primary survey robust drill glue divide";

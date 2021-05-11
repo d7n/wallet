@@ -1,1 +1,1 @@
-var mnemonic = "forum cannon truck pitch enough sweet diary protect used belt put reason";
+var mnemonic = "farm filter sponsor wrist title blade fall peace will pistol ordinary have";

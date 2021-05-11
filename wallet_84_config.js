@@ -1,1 +1,1 @@
-var mnemonic = "gap caught shaft army void enrich prepare income fee crop battle useless";
+var mnemonic = "shock endless prison spy leisure mansion choose attract path trigger cake spice";

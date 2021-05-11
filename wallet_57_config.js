@@ -1,1 +1,1 @@
-var mnemonic = "silent scout asthma pride bounce leave song dune patient decade surround army";
+var mnemonic = "organ dress glass cover bounce polar cycle crazy mass until fog tunnel";

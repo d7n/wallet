@@ -1,1 +1,1 @@
-var mnemonic = "glue merit artefact isolate flower cancel horse patrol squirrel news host margin";
+var mnemonic = "timber soon mosquito bright ridge buddy lobster suspect town hedgehog multiply fan";

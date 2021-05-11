@@ -1,1 +1,1 @@
-var mnemonic = "ready unknown thunder trip wrong diamond fish lock install glory dizzy mean";
+var mnemonic = "suggest laundry museum fat tide orient luxury episode shallow cream crawl coin";

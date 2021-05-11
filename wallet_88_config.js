@@ -1,1 +1,1 @@
-var mnemonic = "festival memory rare reject cousin smart alien genuine coach gaze warrior raven";
+var mnemonic = "type apple neither mosquito range unable topic rack pencil trade twin sheriff";

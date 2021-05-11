@@ -1,1 +1,1 @@
-var mnemonic = "bullet aisle avoid range mind silk blossom near quantum million quantum aim";
+var mnemonic = "fresh smile cousin physical video escape sudden shuffle view display nephew dish";

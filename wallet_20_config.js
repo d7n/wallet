@@ -1,1 +1,1 @@
-var mnemonic = "differ hint wild service raise penalty taste check diagram wear lady hidden";
+var mnemonic = "hand elegant clap print all tomorrow pottery negative want ability angle speed";

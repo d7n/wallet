@@ -1,1 +1,1 @@
-var mnemonic = "design common celery maximum grief acoustic female wheel work nephew clarify snap";
+var mnemonic = "nothing leg piece spend lock stairs myth hub elevator bulb garage job";

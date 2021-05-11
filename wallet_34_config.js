@@ -1,1 +1,1 @@
-var mnemonic = "balcony nephew whisper key route indoor discover trade worry cross lab scrub";
+var mnemonic = "bless scatter region grocery manage addict exclude rent eager royal antique surge";

@@ -1,1 +1,1 @@
-var mnemonic = "quality leaf potato forum hip just shuffle double mix swear whale rug";
+var mnemonic = "mad lens rose ramp claw amused solar general rabbit identify update tone";

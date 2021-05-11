@@ -1,1 +1,1 @@
-var mnemonic = "vapor flock thought marriage dismiss tumble add disease advance clarify veteran wood";
+var mnemonic = "spoon bundle split kangaroo actual wood priority noodle inquiry draft fault tree";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach flush major syrup income sing gravity carbon zebra cook rally mask";
+var mnemonic = "unfold cage solution tail ankle cake more boy knee sister dizzy steel";

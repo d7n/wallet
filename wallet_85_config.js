@@ -1,1 +1,1 @@
-var mnemonic = "nothing napkin cluster reopen work abstract girl mixture depth zone slice glue";
+var mnemonic = "depth dust axis silent defense crowd spoil misery beef walnut system level";

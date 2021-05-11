@@ -1,1 +1,1 @@
-var mnemonic = "pipe mobile ice law fringe during rain deer unit system spray dynamic";
+var mnemonic = "furnace slice asthma unfold choose equal total chunk segment add brave scare";

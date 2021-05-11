@@ -1,1 +1,1 @@
-var mnemonic = "very perfect episode green lottery visit ugly cupboard grape piece fetch prison";
+var mnemonic = "slogan argue palm margin alpha sea fortune bean impulse pencil foot top";

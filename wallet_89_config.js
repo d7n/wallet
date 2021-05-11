@@ -1,1 +1,1 @@
-var mnemonic = "anger deposit cabin laptop axis design famous strike swim mushroom cloth empty";
+var mnemonic = "invite wonder bird evidence dizzy donkey reflect pony sail attend mention pass";

@@ -1,1 +1,1 @@
-var mnemonic = "slot grape exile verb wide upset debris pass change medal piece fantasy";
+var mnemonic = "raven tilt direct mansion easy accuse game squeeze leader knife divert eyebrow";

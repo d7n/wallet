@@ -1,1 +1,1 @@
-var mnemonic = "radar lecture image excuse another display tobacco breeze lottery future answer steak";
+var mnemonic = "dirt push public vacuum brain sweet margin illness jewel cargo gauge occur";

@@ -1,1 +1,1 @@
-var mnemonic = "defense demand give differ click now horror jar you mammal juice dune";
+var mnemonic = "menu that movie citizen blood laptop guide clog want draft pink lava";

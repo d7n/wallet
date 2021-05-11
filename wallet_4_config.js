@@ -1,1 +1,1 @@
-var mnemonic = "frog will guide angry half master opinion swamp latin ladder absurd dumb";
+var mnemonic = "brain account silly neglect jeans arena vacant check divorce soccer forget rotate";

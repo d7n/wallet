@@ -1,1 +1,1 @@
-var mnemonic = "behave chief afraid attack that angle shoot cement search draw wise price";
+var mnemonic = "glare popular farm more small can fox viable ski join machine fix";

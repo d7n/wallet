@@ -1,1 +1,1 @@
-var mnemonic = "lend orchard lock hire ride custom fade rival fetch math equip donor";
+var mnemonic = "civil nature path surge digital any focus dice clean pride degree lift";

@@ -1,1 +1,1 @@
-var mnemonic = "parade link wage vicious hat predict inside flee cry green maze moon";
+var mnemonic = "salt slight burst crucial thought segment clog gesture artist since cram room";

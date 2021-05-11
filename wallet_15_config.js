@@ -1,1 +1,1 @@
-var mnemonic = "slender another biology together clay nothing found bomb bomb banner episode surge";
+var mnemonic = "harbor demand invest salt august valve tenant gym young foam put night";

@@ -1,1 +1,1 @@
-var mnemonic = "body alley object much return denial luggage arrow nation swear boy pepper";
+var mnemonic = "top glad cover dirt index avoid minor tooth sweet ill hazard buzz";

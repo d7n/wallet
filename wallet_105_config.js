@@ -1,1 +1,1 @@
-var mnemonic = "undo pelican person pigeon surface example uniform sure grace obtain forest dust";
+var mnemonic = "health equal march obscure cave add sheriff flag identify bridge horn manage";

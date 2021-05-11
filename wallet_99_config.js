@@ -1,1 +1,1 @@
-var mnemonic = "team fork differ theme valley stamp broom stamp kangaroo silver cloud useful";
+var mnemonic = "strike minimum rebel middle spring minor casual citizen dove lonely stage match";

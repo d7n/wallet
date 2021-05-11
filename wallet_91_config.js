@@ -1,1 +1,1 @@
-var mnemonic = "whale shove wheel sunny task spice shop focus insane naive crisp omit";
+var mnemonic = "island exact rich wrestle knife library host nuclear diamond deposit throw coffee";

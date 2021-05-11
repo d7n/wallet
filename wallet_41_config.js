@@ -1,1 +1,1 @@
-var mnemonic = "shoot habit develop bean mask expect report enforce audit pen total attend";
+var mnemonic = "minimum educate inquiry open chaos drift spend help explain canoe water emerge";

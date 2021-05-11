@@ -1,1 +1,1 @@
-var mnemonic = "struggle friend lock rent cheese tone usage penalty tunnel few release soldier";
+var mnemonic = "weekend oak donor fiction beach mechanic latin smart firm apology north choice";

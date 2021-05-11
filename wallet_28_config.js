@@ -1,1 +1,1 @@
-var mnemonic = "border similar ketchup prosper roof twist badge pumpkin lake general nasty believe";
+var mnemonic = "motion fame robot never manual range arrow okay square taste napkin notice";

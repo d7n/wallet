@@ -1,1 +1,1 @@
-var mnemonic = "echo find quit rather about flavor immune camp jealous myself smile outdoor";
+var mnemonic = "balance inject suit upon food van solve snap position tiger cactus tank";

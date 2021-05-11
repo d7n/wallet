@@ -1,1 +1,1 @@
-var mnemonic = "word milk twice main scout domain quick school stadium adjust fragile market";
+var mnemonic = "aerobic maple pilot trip visa harvest hair traffic kangaroo wreck organ animal";

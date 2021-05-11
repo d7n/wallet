@@ -1,1 +1,1 @@
-var mnemonic = "keen usage ride lock riot join cute private rigid sight hour cram";
+var mnemonic = "venue twist off cradle elbow grief join resemble hundred border derive myth";

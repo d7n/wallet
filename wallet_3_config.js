@@ -1,1 +1,1 @@
-var mnemonic = "swear run entire verb color pudding disease nephew miss fault radar trap";
+var mnemonic = "chief valley enlist hurt cannon one health know cave oblige nose table";

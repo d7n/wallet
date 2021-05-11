@@ -1,1 +1,1 @@
-var mnemonic = "vessel birth harvest copper brisk crew legend inquiry relief rather admit pattern";
+var mnemonic = "female tackle witness ranch orphan bulb render enlist affair burger reveal viable";

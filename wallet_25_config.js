@@ -1,1 +1,1 @@
-var mnemonic = "stay boat fish emerge stomach divorce wish talent salmon day loud fantasy";
+var mnemonic = "door globe above mask forum club camera trim tool asthma soon trust";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket unlock damage govern van pool possible hour dinner faith airport razor";
+var mnemonic = "sail chef better feel glove congress anxiety time tonight bundle glass area";

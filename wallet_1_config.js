@@ -1,1 +1,1 @@
-var mnemonic = "glimpse gesture under consider door conduct defy betray high dose vintage debris";
+var mnemonic = "between remind day fantasy approve pretty similar typical sight gain glass media";

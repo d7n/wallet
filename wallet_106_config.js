@@ -1,1 +1,1 @@
-var mnemonic = "length medal garment join consider remind rose arch miracle produce what favorite";
+var mnemonic = "pave bitter surround pottery level all media blur tag fork cry absorb";

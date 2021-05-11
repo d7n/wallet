@@ -1,1 +1,1 @@
-var mnemonic = "inner antique correct theme fabric become actor risk enough have goat tribe";
+var mnemonic = "prosper grant bundle payment gym cup then weekend buffalo near turn column";

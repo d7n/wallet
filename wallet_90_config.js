@@ -1,1 +1,1 @@
-var mnemonic = "feed cinnamon balcony velvet rug method end sea century famous siege inflict";
+var mnemonic = "cruise hockey egg vivid grant slush shock sail antique illegal bunker nice";

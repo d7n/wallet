@@ -1,1 +1,1 @@
-var mnemonic = "grid bronze affair amazing build snake afford food funny jewel unit panel";
+var mnemonic = "clarify boss hunt smooth choice seed claw put solar pond valve state";

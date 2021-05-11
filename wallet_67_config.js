@@ -1,1 +1,1 @@
-var mnemonic = "menu credit glare park mixed donate warfare ceiling bitter own phone gold";
+var mnemonic = "float snap impose possible next expire abstract zone oppose speed post theme";

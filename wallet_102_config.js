@@ -1,1 +1,1 @@
-var mnemonic = "afford average accuse table buyer allow embrace sign whale celery rabbit peasant";
+var mnemonic = "either almost opera uncle giant neither rose perfect scan seminar lonely witness";

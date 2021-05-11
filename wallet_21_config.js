@@ -1,1 +1,1 @@
-var mnemonic = "sibling guitar unable wasp upon flag nominee drip patient mention welcome margin";
+var mnemonic = "system speak feel over lemon receive erode model wish absent little dawn";

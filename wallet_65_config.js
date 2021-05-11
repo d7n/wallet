@@ -1,1 +1,1 @@
-var mnemonic = "goose ladder know weird sponsor coconut tribe poet glide canvas hurt best";
+var mnemonic = "bean much beef media brass gift ill comic system surround skull lava";

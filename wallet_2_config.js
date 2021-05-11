@@ -1,1 +1,1 @@
-var mnemonic = "slight wasp comfort equal mule long evil burger material tissue float mouse";
+var mnemonic = "elevator hunt rural cable warm icon hurry eye pyramid essay tone rabbit";

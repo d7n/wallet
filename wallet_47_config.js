@@ -1,1 +1,1 @@
-var mnemonic = "helmet parade pistol craft tomorrow notable six depart demise slot warrior blossom";
+var mnemonic = "place wish cause actor prosper world attack urban oven venture stable lawn";

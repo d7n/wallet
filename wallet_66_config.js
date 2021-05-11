@@ -1,1 +1,1 @@
-var mnemonic = "chief still rifle useful dash cup bitter bean fit describe unique sun";
+var mnemonic = "marriage sock knee allow kind talk canvas decline panel color crater addict";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear roast surface asthma meadow unlock duty arrive case seat major expand";
+var mnemonic = "song feel crack oven spray size habit reflect define enrich before hub";

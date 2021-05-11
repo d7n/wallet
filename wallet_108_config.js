@@ -1,1 +1,1 @@
-var mnemonic = "attend picture text clarify desk image fire need album sail flag elevator";
+var mnemonic = "paper engine outside nature account supply proof unfair category thought smoke kitten";

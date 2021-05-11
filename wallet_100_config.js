@@ -1,1 +1,1 @@
-var mnemonic = "phone broccoli sunny lunch craft source quote answer wealth grit ready during";
+var mnemonic = "afraid bitter taste labor magic know state token cool shine range apart";

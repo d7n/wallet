@@ -1,1 +1,1 @@
-var mnemonic = "blue quality often layer wasp enter wrist child erode high owner apart";
+var mnemonic = "galaxy video steel neck length decade burger blanket fold thank athlete coyote";

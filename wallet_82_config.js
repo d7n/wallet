@@ -1,1 +1,1 @@
-var mnemonic = "isolate turkey spare venture expose depend morning tissue mule nothing payment attack";
+var mnemonic = "skill lift abstract other neglect black color scare era mutual photo kick";

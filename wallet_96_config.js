@@ -1,1 +1,1 @@
-var mnemonic = "video remind water submit smile love utility category position logic inch torch";
+var mnemonic = "gold pink cry limit decorate wheat throw rebuild rival boring essay butter";

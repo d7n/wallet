@@ -1,1 +1,1 @@
-var mnemonic = "merry glad total romance skate surface street wrong forward strike furnace away";
+var mnemonic = "doctor employ concert sail era degree add fatigue alter draw harvest ready";

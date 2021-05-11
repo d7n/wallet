@@ -1,1 +1,1 @@
-var mnemonic = "bonus wisdom artefact employ wisdom clock nephew review still syrup scan meadow";
+var mnemonic = "maid night salmon sweet era random theory round moral combine stay light";

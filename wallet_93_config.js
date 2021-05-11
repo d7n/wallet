@@ -1,1 +1,1 @@
-var mnemonic = "strategy share private tourist gift cloud item desk cake razor pattern theory";
+var mnemonic = "curve swamp reduce version friend witness side fantasy tiger illegal reunion control";

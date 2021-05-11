@@ -1,1 +1,1 @@
-var mnemonic = "pact drill doll latin shift suspect hole thank pupil battle picnic success";
+var mnemonic = "witness detail shadow buzz armor fury mail place melody distance club student";

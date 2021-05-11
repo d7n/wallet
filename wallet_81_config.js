@@ -1,1 +1,1 @@
-var mnemonic = "cradle novel flip cheese practice trade start advice still supply deny rocket";
+var mnemonic = "put fall evil step satisfy flat rapid game fury guitar shoulder various";

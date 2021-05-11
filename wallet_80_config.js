@@ -1,1 +1,1 @@
-var mnemonic = "velvet march trick mother basic bullet common alarm proud buddy husband today";
+var mnemonic = "very render oval choice ramp team shed bounce pause select skill around";

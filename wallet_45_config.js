@@ -1,1 +1,1 @@
-var mnemonic = "auction sponsor version oven among sentence cherry category strong lake yellow grow";
+var mnemonic = "sea answer napkin flip clarify liquid monitor jungle miss gaze vessel seven";

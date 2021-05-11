@@ -1,1 +1,1 @@
-var mnemonic = "swear famous argue useful maze dash often luxury first feature permit rebuild";
+var mnemonic = "two marriage seat march version double embrace churn alpha office detail subway";

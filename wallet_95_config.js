@@ -1,1 +1,1 @@
-var mnemonic = "trigger marine various prepare bronze cliff spell top obey hobby tennis safe";
+var mnemonic = "sleep auto drive grace floor shock near inspire index seed surround tank";

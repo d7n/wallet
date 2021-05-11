@@ -1,1 +1,1 @@
-var mnemonic = "buyer economy oak proud hurry dish drop sad junior sugar rival useful";
+var mnemonic = "age curtain ivory ostrich long fatigue patch sell patrol liberty pond above";

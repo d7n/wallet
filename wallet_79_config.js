@@ -1,1 +1,1 @@
-var mnemonic = "three cliff wild stem exist group across twenty night hospital comic snow";
+var mnemonic = "bonus word wash arctic company vacant convince swap hazard slab truck deposit";

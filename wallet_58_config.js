@@ -1,1 +1,1 @@
-var mnemonic = "woman build easy volcano label urban connect scheme light explain endorse equal";
+var mnemonic = "any sentence feature frost claw leopard poverty patrol baby fine cup magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "capable enforce pluck donor carry noble coil solar switch view exile olympic";
+var mnemonic = "apology follow more option seed foster address obvious poet verify illness tackle";

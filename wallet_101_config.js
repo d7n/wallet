@@ -1,1 +1,1 @@
-var mnemonic = "argue clog upset kid kid ripple genre crater butter setup bean frozen";
+var mnemonic = "stage pony office bacon hazard bundle second try venture always busy video";

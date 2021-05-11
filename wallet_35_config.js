@@ -1,1 +1,1 @@
-var mnemonic = "rapid flight walk upgrade hospital gaze wood spy case rally hole vacant";
+var mnemonic = "pear gesture ahead runway volcano slide target syrup again found flat destroy";

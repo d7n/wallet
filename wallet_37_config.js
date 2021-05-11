@@ -1,1 +1,1 @@
-var mnemonic = "bullet coconut almost demise treat lecture gain twice front soup reward involve";
+var mnemonic = "priority cluster verify athlete drum taxi canal great jewel garment monkey hello";

@@ -1,1 +1,1 @@
-var mnemonic = "father frog obscure soccer actor goddess load script smooth inner dice digital";
+var mnemonic = "draft unlock scare employ monkey promote core carry baby spice vague inside";

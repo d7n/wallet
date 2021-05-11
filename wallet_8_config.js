@@ -1,1 +1,1 @@
-var mnemonic = "piano misery rent orphan cruel gate deliver rapid horror grocery barrel capital";
+var mnemonic = "relief control small race kiss buddy guide champion dash now repeat shoot";

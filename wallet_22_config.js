@@ -1,1 +1,1 @@
-var mnemonic = "switch cotton cereal wire maid leg fruit regret monitor caution milk remember";
+var mnemonic = "concert rule coil museum piano genre priority legal decrease tiger couch quiz";

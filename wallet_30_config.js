@@ -1,1 +1,1 @@
-var mnemonic = "travel fog assume sort purse security minimum skirt car custom pioneer pelican";
+var mnemonic = "skin retire deal bird giant caught margin infant pride enjoy salt aim";

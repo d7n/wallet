@@ -1,1 +1,1 @@
-var mnemonic = "melody isolate dynamic wonder spoil identify hedgehog current all despair disagree champion";
+var mnemonic = "talk course cheese race ostrich major neglect hope menu come scan culture";

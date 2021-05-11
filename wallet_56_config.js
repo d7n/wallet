@@ -1,1 +1,1 @@
-var mnemonic = "smoke lottery razor humor target logic brass clip giggle vocal deliver atom";
+var mnemonic = "govern lyrics vanish please option powder retreat calm farm wink couple very";

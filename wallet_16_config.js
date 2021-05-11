@@ -1,1 +1,1 @@
-var mnemonic = "unfair cheap dream battle train box catalog airport noise lesson stereo muffin";
+var mnemonic = "question drift speed domain wagon success army mountain shift city state much";

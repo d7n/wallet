@@ -1,1 +1,1 @@
-var mnemonic = "six search box ahead moral cake chaos liberty innocent round kangaroo luxury";
+var mnemonic = "awful fancy town fold someone sting deal space order scorpion snake quiz";

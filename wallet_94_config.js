@@ -1,1 +1,1 @@
-var mnemonic = "please brick rocket huge night install armor visual goddess able surface sheriff";
+var mnemonic = "accident blade manual prepare hover matter provide segment mixture control city suffer";

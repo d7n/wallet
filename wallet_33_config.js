@@ -1,1 +1,1 @@
-var mnemonic = "demand yard impulse symptom target salmon online reason dune enable tape solid";
+var mnemonic = "step pave penalty diet gesture please improve drive alone foam inch tape";

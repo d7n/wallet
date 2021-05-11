@@ -1,1 +1,1 @@
-var mnemonic = "embark engage hurt exclude hill angle pill royal naive horror eye doctor";
+var mnemonic = "tortoise half quantum three wage helmet remind fog pass whale eight news";

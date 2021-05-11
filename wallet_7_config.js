@@ -1,1 +1,1 @@
-var mnemonic = "second volume stairs crunch radar inherit rule two stairs east stumble gesture";
+var mnemonic = "equal uniform key point spike receive lyrics garage charge worth ten around";

@@ -1,1 +1,1 @@
-var mnemonic = "long erase dawn glass deny spoil dream black awful same exchange iron";
+var mnemonic = "promote blame hedgehog copy jar scissors brick scheme sponsor deal display slide";

@@ -1,1 +1,1 @@
-var mnemonic = "initial brain prosper gain unaware narrow during hunt rally upon rug puzzle";
+var mnemonic = "glory sunny narrow health drum flavor trophy goddess auction melody welcome buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn icon firm ahead punch neutral lawsuit damp gloom custom sustain flat";
+var mnemonic = "pizza diesel rubber float road cheese chest daughter stereo alpha divide hammer";

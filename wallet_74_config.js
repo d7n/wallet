@@ -1,1 +1,1 @@
-var mnemonic = "flip razor fence galaxy claw spawn mercy alert night roast desk tone";
+var mnemonic = "salute need citizen muffin dish hat motor either retreat rookie fan human";

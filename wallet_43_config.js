@@ -1,1 +1,1 @@
-var mnemonic = "custom vague humble select theory sauce image trust tag doctor impose identify";
+var mnemonic = "oven orange similar update real elbow lamp slot desert pull like life";

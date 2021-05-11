@@ -1,1 +1,1 @@
-var mnemonic = "crash dust lumber color sand figure canal render kitten nation debris jelly";
+var mnemonic = "video pigeon jeans digital share dance craft shine obtain device budget hole";
