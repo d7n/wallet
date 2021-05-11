@@ -1,1 +1,1 @@
-var mnemonic = "survey west reward party flower ski among theme focus basic rail diesel";
+var mnemonic = "over front issue love benefit ticket lobster comfort dance yellow crystal disease";

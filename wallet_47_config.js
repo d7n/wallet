@@ -1,1 +1,1 @@
-var mnemonic = "common either marriage bread ecology wagon digital battle certain morning nice lumber";
+var mnemonic = "drop champion enroll ocean dirt use human bamboo magnet lunar water upgrade";

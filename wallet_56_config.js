@@ -1,1 +1,1 @@
-var mnemonic = "ahead hybrid garage help once plastic seed join agree wheel blur offer";
+var mnemonic = "infant swap cart gadget need focus garment cluster nephew estate often scale";

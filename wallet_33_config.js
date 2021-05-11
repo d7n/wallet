@@ -1,1 +1,1 @@
-var mnemonic = "walnut arrow foam tourist sense winter swallow tonight cattle giant wrestle submit";
+var mnemonic = "pole eager subject cluster wreck force sausage jeans estate travel leg render";

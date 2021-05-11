@@ -1,1 +1,1 @@
-var mnemonic = "push oil educate flip toilet remind submit detail social squirrel frozen income";
+var mnemonic = "device side already glad blue balcony very they element strategy actor post";

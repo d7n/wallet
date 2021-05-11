@@ -1,1 +1,1 @@
-var mnemonic = "guard carbon denial license retreat two when rely refuse rocket family thing";
+var mnemonic = "hungry flower company mosquito scheme glove deputy doctor spray fame kite erase";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid peanut sort fine margin squirrel focus stone steel absent prevent bone";
+var mnemonic = "rely thumb scorpion phrase fashion aspect stamp south churn age great dutch";

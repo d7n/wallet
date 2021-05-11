@@ -1,1 +1,1 @@
-var mnemonic = "alert noble wire bunker stairs river extra vacuum turn crane usage pause";
+var mnemonic = "income give depend foam oak laundry stomach awful short world wash uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "rude lift crash clever extend child announce walnut clever cause flight monitor";
+var mnemonic = "welcome play later snap high solution improve lawn material drop bargain library";

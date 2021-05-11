@@ -1,1 +1,1 @@
-var mnemonic = "borrow attitude door steak whip cancel round help ostrich fantasy bring catalog";
+var mnemonic = "fringe leader knife chronic blanket hen onion utility rebuild neck century crawl";

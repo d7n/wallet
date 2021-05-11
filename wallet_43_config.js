@@ -1,1 +1,1 @@
-var mnemonic = "there defy purse napkin shock ketchup forest dismiss foam coil hill jazz";
+var mnemonic = "lounge escape avoid benefit about broccoli endorse purity jewel tennis bulb note";

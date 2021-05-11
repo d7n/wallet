@@ -1,1 +1,1 @@
-var mnemonic = "marriage piece salad rally build that little kiwi disease craft morning volcano";
+var mnemonic = "depend donate luggage test destroy guard casino process approve kingdom pledge clay";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse unusual enter style outside recall flight oil allow sense track catch";
+var mnemonic = "then boy use cargo soda siren despair horror conduct deal clip sense";

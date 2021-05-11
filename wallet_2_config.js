@@ -1,1 +1,1 @@
-var mnemonic = "consider ostrich domain snap example orchard pencil stool escape come satisfy skin";
+var mnemonic = "badge suspect rent sea pair view humor risk elite hungry pelican alert";

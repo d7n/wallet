@@ -1,1 +1,1 @@
-var mnemonic = "capable above ginger tent art elevator wrist visit hub clump physical venue";
+var mnemonic = "bread include paper combine myself during style final cave swim narrow ride";

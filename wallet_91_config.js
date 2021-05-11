@@ -1,1 +1,1 @@
-var mnemonic = "please try win position sentence defy verb civil surround cliff avoid lion";
+var mnemonic = "discover antenna exact injury fringe milk anger notable subway april budget spend";

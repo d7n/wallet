@@ -1,1 +1,1 @@
-var mnemonic = "pulp anger kingdom huge toe slogan earn health income borrow empower melody";
+var mnemonic = "unfold planet steel struggle vocal spread sibling supreme hotel host fog equal";

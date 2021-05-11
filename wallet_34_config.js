@@ -1,1 +1,1 @@
-var mnemonic = "drift glide desert possible arrest front guess labor mad oxygen oak subway";
+var mnemonic = "bicycle hunt useful reject math rubber horn drama throw palm foster lab";

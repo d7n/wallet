@@ -1,1 +1,1 @@
-var mnemonic = "lizard audit okay piece clinic pill step catch opera clever leave vital";
+var mnemonic = "artwork prevent dance pigeon conduct violin food echo modify misery entry trim";

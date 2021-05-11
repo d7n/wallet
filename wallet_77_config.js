@@ -1,1 +1,1 @@
-var mnemonic = "hungry shoulder chicken mom bullet daughter leg nut social liquid decide fruit";
+var mnemonic = "fiction spy symptom icon affair menu breeze excite edit exact join during";

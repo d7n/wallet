@@ -1,1 +1,1 @@
-var mnemonic = "total pass ahead reflect sound vehicle body prize practice asthma actor plastic";
+var mnemonic = "flag expire rapid song shoot lesson room adapt citizen forget crane common";

@@ -1,1 +1,1 @@
-var mnemonic = "huge useless off soup behind speak strategy alcohol champion upon resource again";
+var mnemonic = "loyal foot beyond census plate frog spare water frog affair olive during";

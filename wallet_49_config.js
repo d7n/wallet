@@ -1,1 +1,1 @@
-var mnemonic = "excuse evidence social also canyon twenty myself tonight heart laugh scale job";
+var mnemonic = "pet soup cram cloth year actress dry capable better valid settle enforce";

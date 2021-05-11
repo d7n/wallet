@@ -1,1 +1,1 @@
-var mnemonic = "improve phrase begin main review mystery satoshi tomato city wash domain young";
+var mnemonic = "exercise couch say review inject odor meadow input leaf dinner pizza luggage";

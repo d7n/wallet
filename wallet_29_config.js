@@ -1,1 +1,1 @@
-var mnemonic = "media vehicle beyond absurd evolve reopen father knee venture amused answer miss";
+var mnemonic = "virus reform lumber tail sample movie field jaguar pink misery welcome armed";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt focus chronic inch room uncover soon sentence organ coral cherry file";
+var mnemonic = "below gold outdoor away zoo room razor snap gold once supply treat";

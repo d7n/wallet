@@ -1,1 +1,1 @@
-var mnemonic = "lamp guilt awkward critic lemon exile divert place park occur mistake kidney";
+var mnemonic = "school because cargo muscle west moral seven donate lava guide mixture error";

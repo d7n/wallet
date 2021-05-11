@@ -1,1 +1,1 @@
-var mnemonic = "scheme attract hurt worry sunny visit find stable asset stove later hurdle";
+var mnemonic = "like august cherry rather enlist cave cactus rack service destroy lunch chat";

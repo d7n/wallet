@@ -1,1 +1,1 @@
-var mnemonic = "ripple social slim monkey blame wash predict control visa entire student kiwi";
+var mnemonic = "odor sing cute bracket kidney mountain dice love memory dilemma cloud exit";

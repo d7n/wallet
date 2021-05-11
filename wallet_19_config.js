@@ -1,1 +1,1 @@
-var mnemonic = "name behind voice twin crumble cycle consider buzz marine mammal leader rent";
+var mnemonic = "disagree success title also nasty envelope destroy fox same scheme exist drill";

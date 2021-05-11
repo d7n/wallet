@@ -1,1 +1,1 @@
-var mnemonic = "thumb slogan current vital trim catalog creek liar laptop claim grid sunset";
+var mnemonic = "exchange genuine orient task begin balance acoustic talent bid fence unhappy police";

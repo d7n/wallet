@@ -1,1 +1,1 @@
-var mnemonic = "ordinary fault script camp olympic dragon cash quote dove erupt portion bird";
+var mnemonic = "net chronic hidden polar fatal amount true apple evil october dad arch";

@@ -1,1 +1,1 @@
-var mnemonic = "kite myth jungle sport maid can rival tank tragic analyst mango connect";
+var mnemonic = "beach drive gap fine receive bone bracket december security distance window scorpion";

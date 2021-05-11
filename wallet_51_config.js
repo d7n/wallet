@@ -1,1 +1,1 @@
-var mnemonic = "desk world bamboo sunset island click arm impact snack stomach clutch media";
+var mnemonic = "sick drop rough business member music warm connect dog spatial march noble";

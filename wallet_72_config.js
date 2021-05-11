@@ -1,1 +1,1 @@
-var mnemonic = "size govern night embark odor bench abuse bright kind possible pet radio";
+var mnemonic = "human define tuna valley liquid about fatal cupboard february machine detail ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp skate enhance cradle manage later uniform ensure train just lottery nominee";
+var mnemonic = "rifle pretty miss cart claim rate dune decide tuna toward whisper differ";

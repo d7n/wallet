@@ -1,1 +1,1 @@
-var mnemonic = "device crack short marine salt mechanic true chronic scorpion swallow pull door";
+var mnemonic = "chuckle soft square half cool pride say later sand era brain neglect";

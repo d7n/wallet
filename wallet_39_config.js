@@ -1,1 +1,1 @@
-var mnemonic = "miss imitate mechanic sing wire select excess obscure original teach execute bag";
+var mnemonic = "outdoor stick fly strategy negative skull crane educate problem human vibrant deny";

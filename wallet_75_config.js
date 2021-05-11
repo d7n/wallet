@@ -1,1 +1,1 @@
-var mnemonic = "soda snap any estate critic reduce stadium park salute tonight accuse math";
+var mnemonic = "suffer mesh ketchup wrist insane decrease rare oyster beauty lesson anchor cry";

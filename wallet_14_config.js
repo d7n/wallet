@@ -1,1 +1,1 @@
-var mnemonic = "vague rapid analyst measure circle oven age item agree charge program unfair";
+var mnemonic = "library burger image exist consider treat thank ahead any female furnace hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "zero device coconut left light obscure essay unique invest energy pill exercise";
+var mnemonic = "head world crazy bulk crew solve relax blouse afraid sun chapter nut";

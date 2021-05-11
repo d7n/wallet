@@ -1,1 +1,1 @@
-var mnemonic = "bar please cup gorilla exact ten solve size fatal misery gift trumpet";
+var mnemonic = "decrease bar title knife truly situate wisdom smooth alien original frequent burst";

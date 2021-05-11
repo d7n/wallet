@@ -1,1 +1,1 @@
-var mnemonic = "mother pipe cry combine peanut media waste fruit leopard rigid floor pelican";
+var mnemonic = "easy urge gossip clock wrong expire cliff huge awesome into buddy design";

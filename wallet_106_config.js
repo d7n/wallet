@@ -1,1 +1,1 @@
-var mnemonic = "hood issue snack siren sword pipe silk shuffle lesson auction basket index";
+var mnemonic = "series traffic shuffle spice tool dress season network beyond try accuse produce";

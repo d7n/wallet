@@ -1,1 +1,1 @@
-var mnemonic = "message ski frog crucial beach trial day edge never envelope jar spider";
+var mnemonic = "zoo elevator brisk noise sing gold cliff work breeze quote proud vocal";

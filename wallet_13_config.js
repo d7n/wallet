@@ -1,1 +1,1 @@
-var mnemonic = "receive art secret until satisfy scissors property solar letter six connect spread";
+var mnemonic = "error reject custom twist inform lobster wood poem pupil grow analyst session";

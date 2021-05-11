@@ -1,1 +1,1 @@
-var mnemonic = "retreat topic door often spawn exist purpose ride amateur shine supply poem";
+var mnemonic = "auction future excuse atom guess veteran beach volume robust walk circle orphan";

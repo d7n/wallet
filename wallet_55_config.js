@@ -1,1 +1,1 @@
-var mnemonic = "ghost hover organ relax open moral badge inform sheriff nation when because";
+var mnemonic = "usage muffin pen hire stuff vault maid inquiry satisfy urban kite about";

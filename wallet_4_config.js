@@ -1,1 +1,1 @@
-var mnemonic = "idea level gospel suggest guard interest absurd pond gallery nurse alone useless";
+var mnemonic = "situate net remain web two broken luggage mandate organ siren silly banner";

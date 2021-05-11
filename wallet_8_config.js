@@ -1,1 +1,1 @@
-var mnemonic = "alley mind credit blind pattern cliff forest tree wise shallow enroll unaware";
+var mnemonic = "pyramid never jump among sustain scatter devote crane inch kite neither want";

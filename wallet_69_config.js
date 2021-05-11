@@ -1,1 +1,1 @@
-var mnemonic = "bring lunar game banner board chat hawk real share move used icon";
+var mnemonic = "parrot tumble wrestle rubber bronze alert soul three elder dish accuse battle";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid boss trial illegal proof crop inner world multiply release off legend";
+var mnemonic = "hybrid grit battle east wife plunge rotate speak reform regular describe myth";

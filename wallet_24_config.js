@@ -1,1 +1,1 @@
-var mnemonic = "impulse high infant nose senior box sail diamond myth orient venture eight";
+var mnemonic = "few solar axis choice mimic stove fashion salad monkey sound banana lazy";

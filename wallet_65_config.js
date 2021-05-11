@@ -1,1 +1,1 @@
-var mnemonic = "treat anchor proof open document hundred clip pool adult awake wear fluid";
+var mnemonic = "topple drill mother heavy chapter length alarm fee index genius artwork vintage";

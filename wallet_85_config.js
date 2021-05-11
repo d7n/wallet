@@ -1,1 +1,1 @@
-var mnemonic = "whale leisure document pattern whip chest bus month fury joy acoustic regret";
+var mnemonic = "jealous jump couple earth just valley public below child humor style tent";

@@ -1,1 +1,1 @@
-var mnemonic = "lend fitness civil power clock turn will mind mutual yard pole rough";
+var mnemonic = "cup giggle screen wonder sketch stadium art isolate leopard abuse again buyer";

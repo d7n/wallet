@@ -1,1 +1,1 @@
-var mnemonic = "ranch sibling era feature vehicle snow kiss debate pear venture try latin";
+var mnemonic = "knife soul host life unaware want ghost remain video defy furnace twelve";

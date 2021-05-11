@@ -1,1 +1,1 @@
-var mnemonic = "near mom lobster pill budget dentist cinnamon online rival menu arrow same";
+var mnemonic = "barely knee void sun august layer jaguar inspire logic fiscal suspect absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist bleak ethics equip weasel orient primary wrap grow prevent crumble emerge";
+var mnemonic = "apple youth swim boil large pass define pretty slogan avoid van item";

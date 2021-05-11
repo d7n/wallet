@@ -1,1 +1,1 @@
-var mnemonic = "wage hand left north control beauty rocket provide off humor marine shoe";
+var mnemonic = "soft chair library negative lazy reopen seek agent drama attract hair ship";

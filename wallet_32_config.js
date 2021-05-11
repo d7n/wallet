@@ -1,1 +1,1 @@
-var mnemonic = "panda oblige zebra fancy badge anger dentist foil hair view secret gift";
+var mnemonic = "wet picture pink horse torch crawl gate ugly pizza burden output simple";

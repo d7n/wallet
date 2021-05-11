@@ -1,1 +1,1 @@
-var mnemonic = "play amateur word chapter market timber cave escape bike lyrics deputy usual";
+var mnemonic = "mechanic squeeze video desk dirt twin traffic cycle armed sign oblige similar";

@@ -1,1 +1,1 @@
-var mnemonic = "cat remove ceiling lesson beef object adapt wage roof point sample switch";
+var mnemonic = "door famous industry level happy scout sort metal royal divert still chat";

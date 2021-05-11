@@ -1,1 +1,1 @@
-var mnemonic = "bulk swarm raccoon expose memory oblige calm gold ranch sense diary join";
+var mnemonic = "harvest volcano section high swap stomach seat help antenna pattern exotic long";

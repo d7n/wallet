@@ -1,1 +1,1 @@
-var mnemonic = "mango stove doll settle talk describe dial ahead memory pilot horn enter";
+var mnemonic = "nose buyer truly early never gorilla forum rifle rally orphan people cost";

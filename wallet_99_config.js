@@ -1,1 +1,1 @@
-var mnemonic = "powder exhaust differ miss wave during section rain above crop voice biology";
+var mnemonic = "genius dumb depth pig mutual drama artist happy oven year bird anxiety";

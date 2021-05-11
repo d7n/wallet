@@ -1,1 +1,1 @@
-var mnemonic = "trash awful barrel crop prefer robust patch salt reason still ability during";
+var mnemonic = "quarter wrap mosquito deer clown wire person seed airport plug charge raise";

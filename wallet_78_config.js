@@ -1,1 +1,1 @@
-var mnemonic = "series salon loyal picnic chef employ sleep any drama title police wing";
+var mnemonic = "sausage practice during food choose trend fringe access steel bulk deer ripple";

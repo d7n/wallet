@@ -1,1 +1,1 @@
-var mnemonic = "hub insect exotic legend galaxy flip tuition review plunge truth three possible";
+var mnemonic = "mirror woman prevent wild fault frog steel bus jungle age aspect stadium";

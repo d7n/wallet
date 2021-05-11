@@ -1,1 +1,1 @@
-var mnemonic = "veteran rifle ankle require spend next fancy urge boring soda insect chef";
+var mnemonic = "kitchen pride music garment banner scan quit brick beach project obscure equal";

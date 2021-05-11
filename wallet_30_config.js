@@ -1,1 +1,1 @@
-var mnemonic = "opera immune kiss payment moon warm vacuum mass aerobic paper balance during";
+var mnemonic = "raven devote camp drift across problem elbow car demise crop top captain";

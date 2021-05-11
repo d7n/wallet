@@ -1,1 +1,1 @@
-var mnemonic = "actress urge smile diamond design inch hungry another volume neither olympic make";
+var mnemonic = "since trial ancient repeat put snack mimic avoid lunar banana source puzzle";

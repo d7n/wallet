@@ -1,1 +1,1 @@
-var mnemonic = "guitar pilot beauty off cricket proud trumpet usage lottery ice budget blue";
+var mnemonic = "target insect sign swim unfold kiwi hood any impose that siren struggle";

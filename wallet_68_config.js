@@ -1,1 +1,1 @@
-var mnemonic = "satisfy coast stereo refuse finger item horn image abuse leader bulb sustain";
+var mnemonic = "top release fashion bundle pyramid oxygen cereal armor crisp brick swallow melt";

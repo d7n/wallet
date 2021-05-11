@@ -1,1 +1,1 @@
-var mnemonic = "cost fog bus traffic mandate sponsor outer image page profit chase margin";
+var mnemonic = "capable ten unusual soldier blame please flip family cupboard rather fox crumble";

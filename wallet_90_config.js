@@ -1,1 +1,1 @@
-var mnemonic = "feed mesh episode pipe match consider tragic bacon fluid luxury choice jacket";
+var mnemonic = "cool dignity face body boring defy farm upper smoke zebra spray ship";

@@ -1,1 +1,1 @@
-var mnemonic = "glass inch water verb naive cram exhibit minimum deal spirit buffalo fork";
+var mnemonic = "apart suffer force typical either syrup ring citizen scout dinosaur divide raw";

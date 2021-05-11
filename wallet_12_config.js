@@ -1,1 +1,1 @@
-var mnemonic = "cancel exist problem oak pride panel castle carbon inflict angry silly nominee";
+var mnemonic = "rival middle child cruel paddle vocal doctor peanut never nerve curtain physical";

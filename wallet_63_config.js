@@ -1,1 +1,1 @@
-var mnemonic = "cry layer wonder flame burger toddler census reason raven enlist unfair system";
+var mnemonic = "divide suffer modify dragon spoil engine push satisfy thumb catch local fork";

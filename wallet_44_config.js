@@ -1,1 +1,1 @@
-var mnemonic = "annual frog shy course muscle anger flash panic program motor sniff alien";
+var mnemonic = "coil search nut undo turkey enter host advance diamond wealth cherry couple";

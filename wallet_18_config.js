@@ -1,1 +1,1 @@
-var mnemonic = "alley impulse catch label evolve slender ancient ready exotic answer very argue";
+var mnemonic = "exclude wet increase birth virus dirt lock solve answer ripple cry current";

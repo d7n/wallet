@@ -1,1 +1,1 @@
-var mnemonic = "exhaust equal point excess foster lemon expect machine clarify lava hungry rice";
+var mnemonic = "feature outdoor afford limb method winter fossil hammer unable good note love";

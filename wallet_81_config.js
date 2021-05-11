@@ -1,1 +1,1 @@
-var mnemonic = "helmet wedding flat seven country upon use want nerve horn cloud casino";
+var mnemonic = "leave clinic judge favorite husband speak thought kingdom noble coyote talk predict";

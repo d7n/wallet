@@ -1,1 +1,1 @@
-var mnemonic = "repair want dinosaur add acid question digital question recall blade canal repeat";
+var mnemonic = "model mechanic furnace scheme obey buyer clever chef announce pretty egg summer";
