@@ -1,1 +1,1 @@
-var mnemonic = "frog reason chief senior guide engine combine virtual museum oil news tonight";
+var mnemonic = "simple swear pattern leisure wet cattle exist alien afford horror school sister";

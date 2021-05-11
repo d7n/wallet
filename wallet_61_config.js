@@ -1,1 +1,1 @@
-var mnemonic = "snap rubber hint close task fortune erosion illness shed buzz wing minimum";
+var mnemonic = "brown attend keep step fashion round merit afford clog song hero turn";

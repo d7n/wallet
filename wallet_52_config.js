@@ -1,1 +1,1 @@
-var mnemonic = "twin evidence box invest between equal shadow chimney purity pear shield setup";
+var mnemonic = "age trust luxury song army robust account mansion iron sister cactus brown";

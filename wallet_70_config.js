@@ -1,1 +1,1 @@
-var mnemonic = "rocket glad rich post demise soldier entire velvet negative verb frost ball";
+var mnemonic = "lunar lottery nerve notice pretty logic decline wonder open cluster affair oblige";

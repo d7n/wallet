@@ -1,1 +1,1 @@
-var mnemonic = "keep divert plunge mail maximum wink arena equip tuna scrub finger table";
+var mnemonic = "oak exact table armor flock solution citizen bid custom marble always bus";

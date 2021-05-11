@@ -1,1 +1,1 @@
-var mnemonic = "hip prize pony point note what legal jungle emotion rabbit initial power";
+var mnemonic = "proof man country timber draft survey lawsuit devote monitor junior door belt";

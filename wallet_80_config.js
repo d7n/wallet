@@ -1,1 +1,1 @@
-var mnemonic = "struggle toilet okay happy surround obscure funny they way offer poet powder";
+var mnemonic = "supply artist heart occur update road myth spatial rack total doll artefact";

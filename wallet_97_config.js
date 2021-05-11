@@ -1,1 +1,1 @@
-var mnemonic = "gauge arm because tornado above brisk off ten excuse valid car pledge";
+var mnemonic = "hill stem month fat predict mixture enemy boil rice across busy real";

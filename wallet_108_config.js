@@ -1,1 +1,1 @@
-var mnemonic = "excess spatial sustain basket scorpion slow mail opera kite title neglect pottery";
+var mnemonic = "soda winner author radar rival black mention guard voyage olive combine can";

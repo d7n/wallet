@@ -1,1 +1,1 @@
-var mnemonic = "hurdle december friend scrap spring between cricket glove local soda piano keep";
+var mnemonic = "depend diary protect never junior bench color barrel parent sort decline cereal";

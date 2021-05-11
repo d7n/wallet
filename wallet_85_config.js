@@ -1,1 +1,1 @@
-var mnemonic = "air plastic cruel vintage kiss trophy spawn aunt practice belt banana must";
+var mnemonic = "empower advice world toilet assume dolphin february pattern ketchup narrow assist good";

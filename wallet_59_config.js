@@ -1,1 +1,1 @@
-var mnemonic = "miss cook arena shoulder tornado grab knife twice artist demand level must";
+var mnemonic = "bridge body loyal wet clarify uncle lab creek fetch weapon habit feel";

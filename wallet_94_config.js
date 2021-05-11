@@ -1,1 +1,1 @@
-var mnemonic = "notice round matrix object dawn catch math shift lunch begin today snow";
+var mnemonic = "verify pizza spider quantum around virtual cloud motion jealous trick announce range";

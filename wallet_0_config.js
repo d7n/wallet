@@ -1,1 +1,1 @@
-var mnemonic = "fancy girl theme ice coil excess physical tackle abuse steel hidden nose";
+var mnemonic = "skate pretty version sell demise agent three hint flash hazard tide stamp";

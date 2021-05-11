@@ -1,1 +1,1 @@
-var mnemonic = "level wood warm payment document stay wink tackle engage fit kidney type";
+var mnemonic = "solid vocal trap gold that crush tenant danger meat forget crater scare";

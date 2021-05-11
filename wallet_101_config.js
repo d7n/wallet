@@ -1,1 +1,1 @@
-var mnemonic = "guard split dial tobacco melody steak skill daring make you path cake";
+var mnemonic = "same turtle final rate truth common analyst stereo toward pizza rally miracle";

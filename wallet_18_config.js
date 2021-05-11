@@ -1,1 +1,1 @@
-var mnemonic = "sort observe can settle diesel between still air angry blame raven steel";
+var mnemonic = "room labor luxury embark enlist quarter push cupboard prefer awesome wear monster";

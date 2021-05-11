@@ -1,1 +1,1 @@
-var mnemonic = "become feel confirm dice runway remain grunt waste snack reveal copy code";
+var mnemonic = "sniff weekend better embrace symptom noble atom patch lab jazz gain lens";

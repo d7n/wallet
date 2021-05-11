@@ -1,1 +1,1 @@
-var mnemonic = "loop insane april budget slender blade because waste answer used illegal jar";
+var mnemonic = "tunnel hotel mind pumpkin outside oven promote scout under drop base neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude month lawsuit only muscle middle just desert science search cloud ahead";
+var mnemonic = "mechanic barely spread drift congress snap region tennis coast dismiss believe drop";

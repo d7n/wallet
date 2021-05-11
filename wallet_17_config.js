@@ -1,1 +1,1 @@
-var mnemonic = "puzzle hire mix garden guitar disagree unlock scrub merit behave impulse often";
+var mnemonic = "sail large staff rocket eight fit strategy twin salad mean snap pattern";

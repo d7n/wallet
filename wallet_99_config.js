@@ -1,1 +1,1 @@
-var mnemonic = "around ocean hen sentence disagree sell turtle patient access coil deputy still";
+var mnemonic = "imitate what better movie input hope stick enjoy iron shoot pill rebel";

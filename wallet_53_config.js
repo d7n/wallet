@@ -1,1 +1,1 @@
-var mnemonic = "lonely glue limit sun damp detect zone labor allow creek engage between";
+var mnemonic = "meadow grid wire journey fade wheat decrease tower dirt argue net fantasy";

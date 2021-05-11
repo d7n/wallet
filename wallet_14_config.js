@@ -1,1 +1,1 @@
-var mnemonic = "include humor rack sister blade there gather rice debris coach better kitten";
+var mnemonic = "december water congress caution breeze symptom size eye weekend lucky hold december";

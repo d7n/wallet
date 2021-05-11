@@ -1,1 +1,1 @@
-var mnemonic = "satoshi initial hidden unaware patch size permit furnace curtain art urban tongue";
+var mnemonic = "student soul gentle lizard purse push hat shift salad acoustic acid attend";

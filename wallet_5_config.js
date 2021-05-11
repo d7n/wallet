@@ -1,1 +1,1 @@
-var mnemonic = "lyrics guess orange cherry swap city resource south enable ill wrap phone";
+var mnemonic = "whale window inquiry boring two danger twice drama excuse energy catalog delay";

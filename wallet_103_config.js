@@ -1,1 +1,1 @@
-var mnemonic = "outdoor chief head avocado exact oxygen apart frog reunion battle rapid series";
+var mnemonic = "oyster speak step grain blast young write orange power wolf essay bus";

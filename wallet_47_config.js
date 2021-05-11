@@ -1,1 +1,1 @@
-var mnemonic = "midnight tank infant orange salute horn riot delay capable uncover bag swallow";
+var mnemonic = "outdoor hollow tag cheap surge insane easily creek another tiger diamond can";

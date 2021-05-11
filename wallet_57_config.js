@@ -1,1 +1,1 @@
-var mnemonic = "cement drip empower doll wedding bring sample box bitter roof become security";
+var mnemonic = "kingdom digital change pizza hungry moment fog tattoo ask eyebrow stand olive";

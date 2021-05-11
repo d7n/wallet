@@ -1,1 +1,1 @@
-var mnemonic = "very admit zone coin above trigger major bronze quote elite wait vapor";
+var mnemonic = "boat relief people company help balcony keen pottery series sudden team disease";

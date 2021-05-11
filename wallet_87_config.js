@@ -1,1 +1,1 @@
-var mnemonic = "peanut plastic meadow wonder peace pink finish fame outer humor sample snake";
+var mnemonic = "ocean much output breeze unaware surge hurry rib devote border lab wash";

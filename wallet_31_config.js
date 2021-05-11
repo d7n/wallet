@@ -1,1 +1,1 @@
-var mnemonic = "brave body cool milk collect material teach pair capable nuclear pause impact";
+var mnemonic = "pumpkin hope judge child reward cute toss sausage bone evoke nephew runway";

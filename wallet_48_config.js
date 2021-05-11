@@ -1,1 +1,1 @@
-var mnemonic = "sunset inform someone lunar immune tent domain nephew sustain media vocal fun";
+var mnemonic = "often blue hawk job toast parent seven junior vacuum essay lawsuit cream";

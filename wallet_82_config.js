@@ -1,1 +1,1 @@
-var mnemonic = "suspect build accuse august present retreat hotel box illegal neutral nose mystery";
+var mnemonic = "element board neck honey hurt airport behave jungle waste sample print fluid";

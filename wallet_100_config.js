@@ -1,1 +1,1 @@
-var mnemonic = "unfair upgrade catch oven symbol pair record number antenna skull tray bomb";
+var mnemonic = "design beyond glove rug goat infant kingdom comfort shine fetch bundle afraid";

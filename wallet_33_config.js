@@ -1,1 +1,1 @@
-var mnemonic = "disagree fire develop element turn bottom curve ready true assume endless someone";
+var mnemonic = "vessel talent one sun write rapid wool room vacuum army dawn child";

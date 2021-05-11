@@ -1,1 +1,1 @@
-var mnemonic = "fury absent weather canyon moment extend usage cliff repeat stuff omit dog";
+var mnemonic = "detail company squirrel buddy add later correct right coin fan cube jar";

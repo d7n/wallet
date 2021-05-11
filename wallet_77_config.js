@@ -1,1 +1,1 @@
-var mnemonic = "jar royal bridge render attract mix ecology inflict leopard satisfy palm local";
+var mnemonic = "enact surprise pet dirt local cable capital maid entry cotton guilt palace";

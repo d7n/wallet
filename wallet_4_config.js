@@ -1,1 +1,1 @@
-var mnemonic = "junior indicate horn carry crash tomorrow verify version gorilla captain nation witness";
+var mnemonic = "shrimp category absorb hollow hover future prepare spring wagon crowd enact beach";

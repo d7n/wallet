@@ -1,1 +1,1 @@
-var mnemonic = "glue fork horror nasty upper wise goddess chat lady pigeon coil behind";
+var mnemonic = "chat cliff sign future dad slush reopen exhibit aware sock pigeon flee";

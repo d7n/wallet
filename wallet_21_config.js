@@ -1,1 +1,1 @@
-var mnemonic = "exercise nose practice yard trim fluid level isolate way bracket brave yellow";
+var mnemonic = "apple shine walnut auction drum faith figure picture risk nature space choose";

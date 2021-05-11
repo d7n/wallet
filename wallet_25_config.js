@@ -1,1 +1,1 @@
-var mnemonic = "square review cable portion swamp brass fox document enter able doll harvest";
+var mnemonic = "entry amount pause sketch club slush until absurd traffic disease wave ability";

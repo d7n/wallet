@@ -1,1 +1,1 @@
-var mnemonic = "garlic name taste human raw horse skill index castle addict endless consider";
+var mnemonic = "when angry reveal wish stadium card flower rebuild impose dinosaur risk runway";

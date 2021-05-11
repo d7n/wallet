@@ -1,1 +1,1 @@
-var mnemonic = "dad narrow rose magic fall child misery battle nominee soon picnic plunge";
+var mnemonic = "stay gorilla spend resemble record fold wealth notable casino obvious loan deposit";

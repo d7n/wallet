@@ -1,1 +1,1 @@
-var mnemonic = "shed knife climb circle various grief people dignity oblige pattern great intact";
+var mnemonic = "crane surface boil ugly parent piano door stick property scene twin outdoor";

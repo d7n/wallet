@@ -1,1 +1,1 @@
-var mnemonic = "away usage regret mimic noble erode arm elite banner rifle exhibit inside";
+var mnemonic = "crime romance poem seven side column unit pond shove tool invest confirm";

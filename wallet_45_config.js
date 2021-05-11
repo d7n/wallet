@@ -1,1 +1,1 @@
-var mnemonic = "release bleak field hammer theme wasp air decline ecology earn goddess distance";
+var mnemonic = "eyebrow life vibrant horse clown way small lens jump robot melt dove";

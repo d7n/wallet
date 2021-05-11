@@ -1,1 +1,1 @@
-var mnemonic = "venture size test snow hand blood tobacco reform flock car inmate demand";
+var mnemonic = "dolphin foster divorce derive brain strike kind devote spread parade busy column";

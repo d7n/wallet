@@ -1,1 +1,1 @@
-var mnemonic = "enlist hollow lab invest wash suggest action this match portion say tail";
+var mnemonic = "replace exhaust million marriage inquiry journey grape ankle choose share town sorry";

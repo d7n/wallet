@@ -1,1 +1,1 @@
-var mnemonic = "actress sight slender three mixed check area staff essence shock update grab";
+var mnemonic = "mobile supply near later what quiz submit spray deer street initial remember";

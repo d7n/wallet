@@ -1,1 +1,1 @@
-var mnemonic = "mango prefer train color wagon gentle timber abandon search fee have donate";
+var mnemonic = "spoil jaguar meat kitten volume rude execute dolphin flight faint pulse donate";

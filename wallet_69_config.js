@@ -1,1 +1,1 @@
-var mnemonic = "patrol liar core dream lawn social dream valve buzz ugly check silly";
+var mnemonic = "render nice cool blur mom ramp hair disagree attend zero acoustic sick";

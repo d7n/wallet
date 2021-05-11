@@ -1,1 +1,1 @@
-var mnemonic = "medal general draft next icon enroll basket best demise hover team domain";
+var mnemonic = "bus tower south view circle afford retire history license near laugh jacket";

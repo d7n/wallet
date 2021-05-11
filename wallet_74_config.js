@@ -1,1 +1,1 @@
-var mnemonic = "divorce accuse trick carbon usage close clerk flat daughter saddle inhale around";
+var mnemonic = "notice parent chuckle pulse loop girl power chronic work essay holiday gentle";

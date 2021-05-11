@@ -1,1 +1,1 @@
-var mnemonic = "cloud flip rain enforce never useful tomorrow baby describe neither deliver weird";
+var mnemonic = "label december matter tobacco boat scale walk strategy wait bomb social fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew turkey edit slab wrong just wish convince gun switch absurd key";
+var mnemonic = "renew isolate involve avoid decrease oil scare junk glue build viable nuclear";

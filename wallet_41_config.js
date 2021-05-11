@@ -1,1 +1,1 @@
-var mnemonic = "impact venture powder cook myth despair gospel rich expose announce tray fantasy";
+var mnemonic = "video code cricket subject bridge midnight game mail great inherit trend produce";

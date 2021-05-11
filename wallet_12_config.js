@@ -1,1 +1,1 @@
-var mnemonic = "gift twelve swamp still brief human vast talent shallow liquid enroll trophy";
+var mnemonic = "flee one tell work pluck bright hedgehog glow traffic select fresh horror";

@@ -1,1 +1,1 @@
-var mnemonic = "release mammal raw crime clock attract carpet review grass better ribbon original";
+var mnemonic = "flag name seminar spy remember athlete slight coffee flip income tilt basket";

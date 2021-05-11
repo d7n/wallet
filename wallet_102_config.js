@@ -1,1 +1,1 @@
-var mnemonic = "ordinary price muscle sleep fox just humble rose galaxy chair arena warrior";
+var mnemonic = "choose rude seek connect weather core lyrics escape purchase foil fat spider";

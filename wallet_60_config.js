@@ -1,1 +1,1 @@
-var mnemonic = "sell trap garden agree custom laptop punch because smoke repeat scrap glue";
+var mnemonic = "disorder supreme stem auto resource purchase board priority path rookie coach guilt";

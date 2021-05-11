@@ -1,1 +1,1 @@
-var mnemonic = "rate sleep cute pencil square square wonder upgrade direct tent grit innocent";
+var mnemonic = "recipe electric giraffe host tail lonely village since swarm click party brick";

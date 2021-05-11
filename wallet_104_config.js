@@ -1,1 +1,1 @@
-var mnemonic = "seat unit keen crush regular reform marine above joke excuse repeat vintage";
+var mnemonic = "receive oven wolf prevent chef group artist oyster member multiply dentist zone";

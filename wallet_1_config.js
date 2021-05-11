@@ -1,1 +1,1 @@
-var mnemonic = "pilot govern term rebuild kite major rain bird expire scheme faculty print";
+var mnemonic = "eye final visit social butter mimic blouse garbage diagram tell glass crop";

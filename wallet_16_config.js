@@ -1,1 +1,1 @@
-var mnemonic = "sugar knife coconut oblige actual differ era marine private wise unfair glue";
+var mnemonic = "hunt wall cricket decide evil monster remain impact where anger enforce crop";

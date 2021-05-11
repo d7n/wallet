@@ -1,1 +1,1 @@
-var mnemonic = "horse vintage bone claim turtle leg steak cushion all decade fun address";
+var mnemonic = "cry caught south expose end pilot embark person piece foam tide kid";

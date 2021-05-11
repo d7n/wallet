@@ -1,1 +1,1 @@
-var mnemonic = "sure same crime utility garlic muscle fog elite sail fox joke melt";
+var mnemonic = "cliff diamond human multiply foot viable furnace warm endless crack misery left";

@@ -1,1 +1,1 @@
-var mnemonic = "find shop father two engage shed endless invest vast emerge follow timber";
+var mnemonic = "major ride idea entry fantasy obey destroy drastic whale attack wisdom book";

@@ -1,1 +1,1 @@
-var mnemonic = "spot gravity property recycle clip pudding romance borrow fabric post moral vacant";
+var mnemonic = "chief mobile asthma crop lend check inherit tower excess banner lesson hello";

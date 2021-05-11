@@ -1,1 +1,1 @@
-var mnemonic = "impulse solution patch crush antenna embark spare multiply coach puppy tone shy";
+var mnemonic = "carbon festival rib devote veteran culture humble series say pause road imitate";

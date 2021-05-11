@@ -1,1 +1,1 @@
-var mnemonic = "youth obvious jazz report pole solution alpha luggage canal describe glove giraffe";
+var mnemonic = "broccoli cluster property issue give neglect inch hammer check rate jelly dirt";

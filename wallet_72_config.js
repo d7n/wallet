@@ -1,1 +1,1 @@
-var mnemonic = "bus now hamster open crisp steel afford skin crumble shoulder wonder leave";
+var mnemonic = "apart surprise ladder cement movie stamp switch tomato priority notice source emerge";

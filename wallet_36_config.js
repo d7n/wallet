@@ -1,1 +1,1 @@
-var mnemonic = "vacuum okay pet loyal turkey truck firm east basic bar have coil";
+var mnemonic = "excite route target solar basic deliver nature nest aerobic appear file finger";

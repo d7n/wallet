@@ -1,1 +1,1 @@
-var mnemonic = "decade unknown inhale indicate flame business any whip believe crisp regret regular";
+var mnemonic = "much awesome enjoy steak same wood mixed crop warm sample vanish derive";

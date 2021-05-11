@@ -1,1 +1,1 @@
-var mnemonic = "couple term modify amused enough depart excuse affair ten sheriff palm giraffe";
+var mnemonic = "crunch genuine kangaroo announce uniform number sense lazy layer resource idea material";

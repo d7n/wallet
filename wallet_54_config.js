@@ -1,1 +1,1 @@
-var mnemonic = "giraffe quote puzzle lunar cycle teach photo butter fragile thing second prevent";
+var mnemonic = "tilt then another vivid large reopen busy empty angle today someone grab";

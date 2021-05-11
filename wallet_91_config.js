@@ -1,1 +1,1 @@
-var mnemonic = "gorilla mixture enhance illness knife immune oxygen come course dawn random tell";
+var mnemonic = "fiscal message offer calm mountain topple custom express library long fantasy file";

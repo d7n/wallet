@@ -1,1 +1,1 @@
-var mnemonic = "adjust rule bone erosion coach arrange reason spy wagon hope submit peanut";
+var mnemonic = "require pilot banana route woman cement autumn pretty embark mixture broccoli spawn";

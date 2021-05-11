@@ -1,1 +1,1 @@
-var mnemonic = "mushroom bridge peanut dolphin farm turkey arm story gauge fun sell sauce";
+var mnemonic = "actual tissue sea exercise coffee man plastic shoulder amused child fork august";

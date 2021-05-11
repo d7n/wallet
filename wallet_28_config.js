@@ -1,1 +1,1 @@
-var mnemonic = "task tool click woman glare faint illegal nerve rally deputy aisle discover";
+var mnemonic = "result blur nice pole quote cup divide legal begin rather alarm relief";

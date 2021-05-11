@@ -1,1 +1,1 @@
-var mnemonic = "spell step slight horn pill tourist brief scatter cabin female nose left";
+var mnemonic = "saddle tooth beef family course tiger fury minimum patrol that detect artwork";

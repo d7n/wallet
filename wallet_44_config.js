@@ -1,1 +1,1 @@
-var mnemonic = "mind sugar curve open dutch fury mountain dune brass decorate among seat";
+var mnemonic = "tackle swallow alpha flash fox relief rice drill return salad onion able";

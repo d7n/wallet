@@ -1,1 +1,1 @@
-var mnemonic = "taste orbit rescue much raw fever tuition receive exhaust useful half burst";
+var mnemonic = "rule just surface limb they toddler wash purchase salmon glass fold sheriff";

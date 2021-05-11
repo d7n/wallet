@@ -1,1 +1,1 @@
-var mnemonic = "spend walk glory jeans ghost illegal roast unit orange grab liar vendor";
+var mnemonic = "lesson coffee ship mask arrow dirt aim baby boring task best violin";

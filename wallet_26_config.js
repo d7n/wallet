@@ -1,1 +1,1 @@
-var mnemonic = "virus angle gossip trim ring observe collect endless near young tool arctic";
+var mnemonic = "fog arrow stumble salute minimum kiss token trumpet bridge winter clever airport";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel elite eyebrow goose select road convince celery pave mountain pony cross";
+var mnemonic = "fruit balance ticket whale buyer afraid power cycle size shoe math festival";

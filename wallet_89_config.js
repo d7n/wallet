@@ -1,1 +1,1 @@
-var mnemonic = "beauty vintage release wrong neither tortoise vocal ceiling slogan library month side";
+var mnemonic = "thrive budget dizzy action mosquito sure museum wrestle pudding buddy weasel laugh";

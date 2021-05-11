@@ -1,1 +1,1 @@
-var mnemonic = "advance cool pumpkin witness pumpkin fever retire cruise noodle book slow scale";
+var mnemonic = "jazz foot rookie orbit sponsor noise attract answer head solve fly person";

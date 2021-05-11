@@ -1,1 +1,1 @@
-var mnemonic = "arctic edit army cheap civil knife firm hen bless symptom spice wet";
+var mnemonic = "motion uphold mail suit drama cruise firm toe bottom able furnace boring";

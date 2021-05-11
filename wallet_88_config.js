@@ -1,1 +1,1 @@
-var mnemonic = "dolphin quote nominee also olympic behave vault drip initial salad trap erode";
+var mnemonic = "spy slam chunk silly laugh nurse solid vessel height duty medal salon";
