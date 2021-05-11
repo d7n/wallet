@@ -1,1 +1,1 @@
-var mnemonic = "sleep zebra snow spike harbor route renew faith impact team pigeon false";
+var mnemonic = "island bean sand enemy such shy surface usual ghost believe turtle eye";

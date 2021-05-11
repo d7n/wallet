@@ -1,1 +1,1 @@
-var mnemonic = "buyer convince catch mammal gold degree gas camera dad legend duty arena";
+var mnemonic = "book oak one squeeze kangaroo clay monster hole diesel transfer rival gallery";

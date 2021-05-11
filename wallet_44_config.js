@@ -1,1 +1,1 @@
-var mnemonic = "thunder giggle color demise luxury average silent wood curious reward verify alley";
+var mnemonic = "bargain screen reform just ecology demand exchange peasant soon panel okay frog";

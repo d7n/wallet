@@ -1,1 +1,1 @@
-var mnemonic = "shield weird abstract lounge purse shell busy author recycle wisdom execute lock";
+var mnemonic = "autumn bitter fall champion token produce lock liberty electric rebel interest gate";

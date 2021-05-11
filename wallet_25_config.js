@@ -1,1 +1,1 @@
-var mnemonic = "end wheel daughter wolf hunt orchard manual adapt uncover fit type skin";
+var mnemonic = "view pledge curious priority crime area test breeze earth glide arctic track";

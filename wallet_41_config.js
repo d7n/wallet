@@ -1,1 +1,1 @@
-var mnemonic = "claw card hotel portion glide dizzy antique chief champion salmon text prefer";
+var mnemonic = "board success fruit silk tourist saddle test tilt expire kingdom correct dance";

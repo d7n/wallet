@@ -1,1 +1,1 @@
-var mnemonic = "will senior detect hollow lemon auto mail slogan nation spawn destroy frog";
+var mnemonic = "erase hub sell prevent payment viable old marine skirt gospel venue salt";

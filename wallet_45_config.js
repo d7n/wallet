@@ -1,1 +1,1 @@
-var mnemonic = "sibling sauce famous exile rain culture source able easy enroll assume outside";
+var mnemonic = "solution kid chunk punch yellow appear idea capital slab alert budget fat";

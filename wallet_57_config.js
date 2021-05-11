@@ -1,1 +1,1 @@
-var mnemonic = "neck solution destroy giggle lava toast excess person load provide true youth";
+var mnemonic = "patch broken much possible scrap stone picnic scissors glass day cigar suffer";

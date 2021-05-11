@@ -1,1 +1,1 @@
-var mnemonic = "reward option season kind bronze girl any radar sport wrist ritual must";
+var mnemonic = "movie manage fringe column rally rack vocal weapon frozen now brown finger";

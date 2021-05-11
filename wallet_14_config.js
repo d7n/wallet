@@ -1,1 +1,1 @@
-var mnemonic = "rack village meat fish agent bright cage entire reduce riot relief swing";
+var mnemonic = "license unveil rabbit frequent knife amused wave super life civil hammer else";

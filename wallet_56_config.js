@@ -1,1 +1,1 @@
-var mnemonic = "glide evidence slam neck calm grain blade despair among effort spot brown";
+var mnemonic = "digital direct own common salon basic play shift speak mouse lock diary";

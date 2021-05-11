@@ -1,1 +1,1 @@
-var mnemonic = "tiger sauce argue elder drum rug sweet clock scare unit inch cool";
+var mnemonic = "blade domain isolate orchard possible actor turkey solid garage excuse school dismiss";

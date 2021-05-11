@@ -1,1 +1,1 @@
-var mnemonic = "rent woman ocean spell benefit amateur year joke verb rain drama fatigue";
+var mnemonic = "luxury phone knock lion rare mistake rotate update speak message effort art";

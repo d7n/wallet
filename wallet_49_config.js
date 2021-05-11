@@ -1,1 +1,1 @@
-var mnemonic = "ugly erase liar lucky cash cactus dust system youth remain exile best";
+var mnemonic = "dish effort label happy sponsor arena dentist term provide gain stay bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "name fame lizard pulse minute monkey document save express air better hub";
+var mnemonic = "kick unable front staff soldier idea sort lamp unaware vapor soccer tray";

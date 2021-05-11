@@ -1,1 +1,1 @@
-var mnemonic = "lonely absurd else bicycle photo aunt away upgrade welcome door sell illness";
+var mnemonic = "barely staff major uncle soul author panel library jacket bubble cereal junk";

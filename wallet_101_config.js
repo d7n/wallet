@@ -1,1 +1,1 @@
-var mnemonic = "indoor fly goddess foam industry double aspect manual opinion world vapor east";
+var mnemonic = "tragic salute antenna return system extra scare crack visa avocado race kitchen";

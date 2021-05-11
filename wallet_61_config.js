@@ -1,1 +1,1 @@
-var mnemonic = "chief tuna defense crime gaze edge accident private robot congress violin brisk";
+var mnemonic = "trap obtain alert apple web shadow poem border parrot profit cotton fabric";

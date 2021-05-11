@@ -1,1 +1,1 @@
-var mnemonic = "affair goose spray huge syrup prefer total during artwork rabbit mix because";
+var mnemonic = "umbrella nothing replace address pyramid boil room goose give guess senior lounge";

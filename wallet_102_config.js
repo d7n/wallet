@@ -1,1 +1,1 @@
-var mnemonic = "require lion rather struggle hollow solar phrase virtual strike audit security wing";
+var mnemonic = "pull potato denial evil regret inner broccoli find stuff follow giggle inquiry";

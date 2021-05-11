@@ -1,1 +1,1 @@
-var mnemonic = "scrap energy palace clutch angry mesh first silver federal forget clip embody";
+var mnemonic = "young symptom ticket lion razor vendor wrong situate shell speak layer spin";

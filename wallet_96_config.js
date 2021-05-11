@@ -1,1 +1,1 @@
-var mnemonic = "enforce disease school child pupil alcohol drip glance injury tool same awake";
+var mnemonic = "ramp tip mass enjoy turkey carpet despair mushroom lobster vanish skate shallow";

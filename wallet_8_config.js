@@ -1,1 +1,1 @@
-var mnemonic = "foster garden real cotton ankle license novel future layer tree hurry risk";
+var mnemonic = "still square general void actual welcome above polar expand garment praise tourist";

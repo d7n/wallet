@@ -1,1 +1,1 @@
-var mnemonic = "fork render miracle relax ketchup enroll foam nest clown mind lift young";
+var mnemonic = "hold throw cattle glue congress clean sun cat surround fade scheme expect";

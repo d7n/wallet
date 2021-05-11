@@ -1,1 +1,1 @@
-var mnemonic = "girl flag divert rude state sunny auction salad metal beach decrease lecture";
+var mnemonic = "drop planet same toss wash frown husband close gallery habit position loyal";

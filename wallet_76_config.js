@@ -1,1 +1,1 @@
-var mnemonic = "float phrase salt panic table extend found replace select hood device prosper";
+var mnemonic = "trash tragic choose dice noodle awful basket quote liquid title come pioneer";

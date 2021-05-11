@@ -1,1 +1,1 @@
-var mnemonic = "core smart that rival mistake wool series yellow pony cup actor judge";
+var mnemonic = "pear west defense gain combine choose sea chalk parade baby manage thrive";

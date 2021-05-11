@@ -1,1 +1,1 @@
-var mnemonic = "valid rude spin nest peasant outer blast vast sibling era spike charge";
+var mnemonic = "answer year pill blush sell pill anchor street blossom that diary merry";

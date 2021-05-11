@@ -1,1 +1,1 @@
-var mnemonic = "satoshi word bunker tragic awesome mass brisk spy arctic mesh assault evolve";
+var mnemonic = "rotate cinnamon boat wood apology crucial book upper disease act lesson board";

@@ -1,1 +1,1 @@
-var mnemonic = "useful orbit husband party exile legend shrimp portion grace deal require chimney";
+var mnemonic = "unveil celery remember clay useful unfold subway hotel state twin result trophy";

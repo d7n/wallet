@@ -1,1 +1,1 @@
-var mnemonic = "endless betray spawn rail crucial pulp praise deputy pyramid output biology course";
+var mnemonic = "skill harsh mandate mule keep crack fiber media bus napkin fire agent";

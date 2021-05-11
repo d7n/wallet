@@ -1,1 +1,1 @@
-var mnemonic = "pave tattoo crop pipe mail cherry approve ankle fabric prosper leaf term";
+var mnemonic = "match wealth holiday used feel shine ivory under guilt quit now fancy";

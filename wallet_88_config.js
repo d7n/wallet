@@ -1,1 +1,1 @@
-var mnemonic = "okay metal echo scare fault drastic crouch giggle chunk van put wash";
+var mnemonic = "hour rigid super eyebrow vault weekend elevator meat glare robust used mouse";

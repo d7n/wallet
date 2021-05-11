@@ -1,1 +1,1 @@
-var mnemonic = "vital diagram find reduce foot little hour warm can raccoon trip leave";
+var mnemonic = "glad cage symptom firm brass bind figure stem lucky neutral fuel scatter";

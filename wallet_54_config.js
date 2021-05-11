@@ -1,1 +1,1 @@
-var mnemonic = "security team twenty swamp either kid arrange sense fluid brother total seat";
+var mnemonic = "avocado rely raise foot cage clarify swallow dice ostrich chapter lawsuit sense";

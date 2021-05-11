@@ -1,1 +1,1 @@
-var mnemonic = "armor key umbrella boost swim category left page manual sleep embody marriage";
+var mnemonic = "bus top express wink warm exist lemon fever banner primary humble boy";

@@ -1,1 +1,1 @@
-var mnemonic = "profit flock attack fortune error funny runway scorpion bamboo pink obscure stay";
+var mnemonic = "avocado proud lounge sword any funny great grass code receive identify worry";

@@ -1,1 +1,1 @@
-var mnemonic = "pen divide gain keep bicycle door civil blame hawk eyebrow rather notice";
+var mnemonic = "garden wrap spoon sudden column borrow gadget risk festival drop tragic relax";

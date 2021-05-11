@@ -1,1 +1,1 @@
-var mnemonic = "artwork heavy rebel win vehicle chimney spoon minute scatter prize empower moral";
+var mnemonic = "pet this direct gorilla vocal like notable hundred hurt slender state olympic";

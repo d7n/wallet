@@ -1,1 +1,1 @@
-var mnemonic = "detail sting saddle awesome pretty analyst party edit give impose hobby lucky";
+var mnemonic = "damage name analyst awake analyst carbon cushion tree illness absurd tattoo wish";

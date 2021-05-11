@@ -1,1 +1,1 @@
-var mnemonic = "jewel inherit yellow eye happy during valley cargo evoke diamond join artist";
+var mnemonic = "drastic gauge space little odor poverty never west boy heavy endless addict";

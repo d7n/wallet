@@ -1,1 +1,1 @@
-var mnemonic = "buffalo home predict child device program bless traffic cargo number whisper screen";
+var mnemonic = "host okay brick baby before core step feature useless kit ordinary double";

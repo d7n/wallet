@@ -1,1 +1,1 @@
-var mnemonic = "remain fix bridge hamster solve skirt fetch donkey music addict between dilemma";
+var mnemonic = "rack kid parent matrix grow mule tooth royal leaf crater mobile slam";

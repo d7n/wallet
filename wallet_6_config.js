@@ -1,1 +1,1 @@
-var mnemonic = "doll furnace duck ahead above obvious speed rubber ability stamp dad spoon";
+var mnemonic = "give cook cage aunt quit hawk kitchen outside dawn symptom frog rebel";

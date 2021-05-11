@@ -1,1 +1,1 @@
-var mnemonic = "raven diet garment toward swim giant glove express access explain popular size";
+var mnemonic = "panther kangaroo judge middle fossil shoulder auto body super oyster salt erupt";

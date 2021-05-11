@@ -1,1 +1,1 @@
-var mnemonic = "cage check manual bicycle unfold because fee casino buddy debris fresh witness";
+var mnemonic = "shop excuse cluster mammal moment motor project economy regret nature accuse cat";

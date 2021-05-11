@@ -1,1 +1,1 @@
-var mnemonic = "armed sure approve monster casino amateur auction crawl twice sight loud once";
+var mnemonic = "clump device annual electric crew install unable brass usage oven mammal warrior";

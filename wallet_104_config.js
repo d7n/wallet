@@ -1,1 +1,1 @@
-var mnemonic = "service core sing total when monkey man profit inform slab swift rug";
+var mnemonic = "industry hold bright sing satoshi logic fault senior jelly gain useless rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny sphere noise grow spring suspect install zoo year where easy venture";
+var mnemonic = "entire impulse help achieve denial wink age debris acid dizzy river physical";

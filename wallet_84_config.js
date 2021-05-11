@@ -1,1 +1,1 @@
-var mnemonic = "cereal taxi swing happy dignity zero hint urge visit legend congress nasty";
+var mnemonic = "rotate praise test below among whisper inspire bronze above half identify stamp";

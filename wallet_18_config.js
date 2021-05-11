@@ -1,1 +1,1 @@
-var mnemonic = "erase bike vanish tongue hero obtain remind quantum dog initial hedgehog kid";
+var mnemonic = "project prosper load brown embody pigeon famous come pulp inner chat sand";

@@ -1,1 +1,1 @@
-var mnemonic = "grit flat cycle census half angle depend case produce people green sample";
+var mnemonic = "finger luggage venue stand debris begin unable floor banana item gauge exist";

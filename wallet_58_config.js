@@ -1,1 +1,1 @@
-var mnemonic = "wage mimic spring tonight promote latin audit cat move cruise space flavor";
+var mnemonic = "change improve almost provide speak van mother sudden spare picnic fall mistake";

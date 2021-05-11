@@ -1,1 +1,1 @@
-var mnemonic = "praise earth eternal mouse math assault same fever jungle blossom aim door";
+var mnemonic = "stumble bitter ivory alter embrace forget much shadow fatal code hamster swift";

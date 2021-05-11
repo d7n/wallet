@@ -1,1 +1,1 @@
-var mnemonic = "hollow nephew crunch inner mutual absent risk asthma toilet hint siege museum";
+var mnemonic = "knife basket page bitter pitch deliver twenty alien ten thought eye keen";

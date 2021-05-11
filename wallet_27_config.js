@@ -1,1 +1,1 @@
-var mnemonic = "globe smart ramp drink fame chimney tool dress similar length work rural";
+var mnemonic = "sunset ethics light syrup gorilla renew fresh badge youth trust winter dragon";

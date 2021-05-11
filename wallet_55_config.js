@@ -1,1 +1,1 @@
-var mnemonic = "dirt luggage acquire sort latin hidden grid where photo climb three become";
+var mnemonic = "tennis jungle uncle catch kind lunar begin like soccer slogan chaos client";

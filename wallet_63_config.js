@@ -1,1 +1,1 @@
-var mnemonic = "cattle blush sadness program crunch radio story super canvas flush solution relief";
+var mnemonic = "scan pig assume announce tag bring nation multiply artist thumb guard donor";

@@ -1,1 +1,1 @@
-var mnemonic = "able forum number early among swear awful mouse approve alter now need";
+var mnemonic = "spice gospel conduct solid version mix grass budget unit end clog near";

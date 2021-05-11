@@ -1,1 +1,1 @@
-var mnemonic = "side kit plug south chair still rich small custom minor engine birth";
+var mnemonic = "first allow fix input sail someone atom casual display lazy habit album";

@@ -1,1 +1,1 @@
-var mnemonic = "pond glide resist cage true donor spy nice salon auction tape what";
+var mnemonic = "output custom just doctor exchange life tonight that scare bundle hawk inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "permit ramp click phone garage author father custom ladder base fatigue they";
+var mnemonic = "tilt extend label mad segment upgrade coconut misery amount around shine flat";

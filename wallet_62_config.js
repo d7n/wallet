@@ -1,1 +1,1 @@
-var mnemonic = "gadget mechanic expose mimic sudden cabin flee boil moral room sentence weekend";
+var mnemonic = "term venture sauce bread fuel hurdle steel output fatal farm cart garage";

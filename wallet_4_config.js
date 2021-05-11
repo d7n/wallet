@@ -1,1 +1,1 @@
-var mnemonic = "emotion armor hard place indicate near uncle wife hill meat crane depart";
+var mnemonic = "hour cat soccer trend mimic master spread category credit genius offer taxi";

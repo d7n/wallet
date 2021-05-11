@@ -1,1 +1,1 @@
-var mnemonic = "smooth unknown long network issue nominee face physical axis sure divide cement";
+var mnemonic = "jacket lounge tomorrow object table kit shoe edge layer guide host small";

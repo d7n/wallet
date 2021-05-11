@@ -1,1 +1,1 @@
-var mnemonic = "river salon steel carry north number comic ripple core outside devote case";
+var mnemonic = "bless donor buzz mom soft wait mistake ten memory web clump truly";

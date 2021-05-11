@@ -1,1 +1,1 @@
-var mnemonic = "youth improve report tobacco average negative jaguar carry repair battle fit grace";
+var mnemonic = "bunker sound spike tired this wise duck index utility exotic ice blossom";

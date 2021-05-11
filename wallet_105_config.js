@@ -1,1 +1,1 @@
-var mnemonic = "fall hen clock meat great wrestle energy surface history project faith sail";
+var mnemonic = "monster sheriff uniform merit join start review depend siren stomach clock nature";

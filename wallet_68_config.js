@@ -1,1 +1,1 @@
-var mnemonic = "amount ceiling truth hedgehog monitor pen mix poet blouse adult banana reform";
+var mnemonic = "avocado frown admit flight seek wait morning devote unique nature tumble latin";

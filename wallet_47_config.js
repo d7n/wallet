@@ -1,1 +1,1 @@
-var mnemonic = "mosquito flock seek nose claim doll tiger tourist affair material cannon wrap";
+var mnemonic = "arrive pond mesh solution mixed cake bleak birth ripple vessel version olive";

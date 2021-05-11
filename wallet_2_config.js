@@ -1,1 +1,1 @@
-var mnemonic = "doll butter unable oak retreat garden group sing jelly today axis economy";
+var mnemonic = "soccer way image rescue leave total salute tourist achieve mixed dream dog";

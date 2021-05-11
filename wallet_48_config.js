@@ -1,1 +1,1 @@
-var mnemonic = "girl topple power door panel crunch duty net silent mom combine city";
+var mnemonic = "flag squeeze path payment valve sausage aisle marine dish promote grace airport";

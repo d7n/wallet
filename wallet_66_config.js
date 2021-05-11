@@ -1,1 +1,1 @@
-var mnemonic = "luxury joy oxygen raccoon window maximum kite possible employ path vault tuition";
+var mnemonic = "eagle gentle orchard leg oak symbol dinner budget practice sign layer onion";

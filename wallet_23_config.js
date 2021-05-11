@@ -1,1 +1,1 @@
-var mnemonic = "boss print sock hole require tourist fall engine jazz open happy cloth";
+var mnemonic = "subject kingdom drastic profit sound lobster weasel expect whip sign legal cool";

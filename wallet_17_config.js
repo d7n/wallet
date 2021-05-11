@@ -1,1 +1,1 @@
-var mnemonic = "holiday ostrich deny human mother sign manage flame spend pledge police calm";
+var mnemonic = "female brand give violin knee build artefact provide job service stem mimic";

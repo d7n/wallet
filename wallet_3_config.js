@@ -1,1 +1,1 @@
-var mnemonic = "funny feature amount caution must bar spice beach usual sample announce faint";
+var mnemonic = "ski history outdoor maple banana deer dizzy swamp aspect comfort open castle";

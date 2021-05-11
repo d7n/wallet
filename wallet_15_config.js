@@ -1,1 +1,1 @@
-var mnemonic = "race day sudden chair deposit basic lounge bulb island combine carry horn";
+var mnemonic = "giant spin analyst aspect journey flight write capable hover lawn hedgehog stumble";

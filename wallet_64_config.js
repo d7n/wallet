@@ -1,1 +1,1 @@
-var mnemonic = "phone target elder ocean manual easily excite rigid special source bottom gadget";
+var mnemonic = "venue plate common dog large wheel replace you unveil like village nest";

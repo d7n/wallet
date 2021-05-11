@@ -1,1 +1,1 @@
-var mnemonic = "make kingdom fossil ankle mimic loyal night feel utility album stable still";
+var mnemonic = "century genuine easy crop six nut often economy erase pear scorpion crunch";

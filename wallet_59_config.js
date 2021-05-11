@@ -1,1 +1,1 @@
-var mnemonic = "thumb kid excess buzz iron maze salute trick blanket siege order wagon";
+var mnemonic = "false patrol lecture roof mind fashion canyon express odor nose jump rib";

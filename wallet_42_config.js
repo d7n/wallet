@@ -1,1 +1,1 @@
-var mnemonic = "exit future artist favorite legend saddle exclude service alcohol reflect pulp smooth";
+var mnemonic = "phone require comic punch soccer invite myself bacon busy cheap agent furnace";

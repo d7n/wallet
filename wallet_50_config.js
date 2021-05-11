@@ -1,1 +1,1 @@
-var mnemonic = "sunny elder travel sense latin steel potato ecology horror pioneer clap shadow";
+var mnemonic = "gorilla lumber remind elegant spread popular push only label hub mesh tree";

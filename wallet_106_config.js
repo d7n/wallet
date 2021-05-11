@@ -1,1 +1,1 @@
-var mnemonic = "say cook ritual tonight trade host buyer crew staff dress script man";
+var mnemonic = "muscle speed depend benefit forum warrior into mango famous creek between diagram";

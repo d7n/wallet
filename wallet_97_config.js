@@ -1,1 +1,1 @@
-var mnemonic = "opinion copy project length nominee meadow volcano polar before nose blind attitude";
+var mnemonic = "salmon wing alpha drama inside letter pipe scheme clever collect forget system";

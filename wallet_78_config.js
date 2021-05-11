@@ -1,1 +1,1 @@
-var mnemonic = "denial road permit faculty digital festival can ensure manage essence oxygen witness";
+var mnemonic = "wonder vicious forest hard liberty people fury mammal try tuition habit industry";

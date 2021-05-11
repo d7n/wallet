@@ -1,1 +1,1 @@
-var mnemonic = "brother hat winter hub minimum depart cupboard mesh sunny struggle clerk charge";
+var mnemonic = "vast frown plunge crack bar permit myth fault swear pool judge brave";

@@ -1,1 +1,1 @@
-var mnemonic = "menu knife spy ahead work during sister object canal rubber thing argue";
+var mnemonic = "between wide time escape raven retreat flush lunch toy buddy bike sausage";

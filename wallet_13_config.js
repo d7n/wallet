@@ -1,1 +1,1 @@
-var mnemonic = "zoo fiction lyrics illness level sunny robust party trend protect rice you";
+var mnemonic = "alley hammer monitor oven wage emerge engage twelve leisure first popular obscure";

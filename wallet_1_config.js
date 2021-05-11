@@ -1,1 +1,1 @@
-var mnemonic = "dilemma shrimp logic clap unknown shadow glad buffalo word later fury cook";
+var mnemonic = "infant cabbage junior oyster differ bleak wise whale sadness decade benefit win";

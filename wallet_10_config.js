@@ -1,1 +1,1 @@
-var mnemonic = "gas six muffin vital explain shy cup stomach style door list gaze";
+var mnemonic = "comic clog spell minor hope faith garden slogan allow fossil slim twice";

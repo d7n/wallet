@@ -1,1 +1,1 @@
-var mnemonic = "bike learn present remain buyer fluid lounge useful exit lamp settle again";
+var mnemonic = "theme lumber grab chronic industry spider outdoor wheel myself step suggest price";
