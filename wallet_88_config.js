@@ -1,1 +1,1 @@
-var mnemonic = "mother duck chef festival glare toast fresh blind relax member choice element";
+var mnemonic = "foil eternal knock lady stuff indicate voice large vacuum hill opera brush";

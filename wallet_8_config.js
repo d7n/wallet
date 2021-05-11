@@ -1,1 +1,1 @@
-var mnemonic = "wear insect win magic kit reject stove grocery image ginger vague husband";
+var mnemonic = "naive melody smile vintage type picture where ivory march replace burden early";

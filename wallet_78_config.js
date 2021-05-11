@@ -1,1 +1,1 @@
-var mnemonic = "close destroy blossom volume manual pond country horror tower stove lobster beyond";
+var mnemonic = "off anger river penalty alarm indoor system beyond life victory smile absurd";

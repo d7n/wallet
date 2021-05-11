@@ -1,1 +1,1 @@
-var mnemonic = "knee glow tomorrow between tray busy pony method around soap source caution";
+var mnemonic = "robust position rail tired sea congress include sniff sample that victory lens";

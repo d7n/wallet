@@ -1,1 +1,1 @@
-var mnemonic = "buzz fetch provide minute marble rigid end cupboard ketchup excite vague excuse";
+var mnemonic = "broken shock lion pluck approve exit brain feature battle soda simple position";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel above primary plate music walk sadness pause arrange clean economy thank";
+var mnemonic = "film joy trip chair magnet afford prosper budget hand sponsor child travel";

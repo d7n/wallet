@@ -1,1 +1,1 @@
-var mnemonic = "embark grape boil agree school same muffin taxi empty eternal cover trend";
+var mnemonic = "pumpkin square cluster modify vintage wrong market jaguar doll industry defense announce";

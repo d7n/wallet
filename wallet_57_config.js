@@ -1,1 +1,1 @@
-var mnemonic = "gun meadow drip debate win eager burden defense rose mushroom heart mother";
+var mnemonic = "hockey library boost hire blade miss rhythm squirrel cotton chest impose palace";

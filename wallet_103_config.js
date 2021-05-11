@@ -1,1 +1,1 @@
-var mnemonic = "mammal cherry size fault wolf among hedgehog caught ancient degree board above";
+var mnemonic = "peace garment welcome gallery invite task media goose celery cabbage youth save";

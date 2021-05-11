@@ -1,1 +1,1 @@
-var mnemonic = "surface universe female silk viable bean cactus grit amount autumn glance leisure";
+var mnemonic = "major cabbage image act frame mandate knife junk drama soldier rack fault";

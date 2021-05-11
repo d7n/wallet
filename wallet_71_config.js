@@ -1,1 +1,1 @@
-var mnemonic = "device exile bone blossom wine beyond mask trophy sustain palace ribbon swear";
+var mnemonic = "design debris original shy area seat future enact clinic over grace bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth orient audit almost embrace split blanket rebuild defense rebel awesome later";
+var mnemonic = "admit bid bag know possible magnet blouse photo reform pond ecology either";

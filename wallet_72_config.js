@@ -1,1 +1,1 @@
-var mnemonic = "ozone diary young arrest quick clip drift sell mule learn wine coach";
+var mnemonic = "obvious shine hundred smart trend pencil pepper scan crew purchase plate vital";

@@ -1,1 +1,1 @@
-var mnemonic = "wife lazy angry leaf gate dismiss unlock frog mountain grit admit avocado";
+var mnemonic = "deer view action honey victory ozone scan display garage major foil seek";

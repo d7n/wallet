@@ -1,1 +1,1 @@
-var mnemonic = "belt dismiss photo boss world supreme infant achieve fortune volume bottom sick";
+var mnemonic = "camera false weapon entire bridge primary milk drip income picnic arrow actress";

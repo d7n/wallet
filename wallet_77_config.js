@@ -1,1 +1,1 @@
-var mnemonic = "bunker jump floor cargo code fantasy rural actual slice segment unable thumb";
+var mnemonic = "vanish question frame endless history buzz method clock helmet ball rate such";

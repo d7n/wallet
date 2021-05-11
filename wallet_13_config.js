@@ -1,1 +1,1 @@
-var mnemonic = "crowd mammal choose arrange clutch cricket offer rubber journey inner bonus tribe";
+var mnemonic = "capable upgrade potato session bid distance decrease cupboard acoustic olive chef kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "float fall typical dynamic snake bench diagram next divorce palace useless sleep";
+var mnemonic = "remind sphere exotic artefact foster soon essay access crop butter equal immune";

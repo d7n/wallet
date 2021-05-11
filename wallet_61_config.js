@@ -1,1 +1,1 @@
-var mnemonic = "warfare session cloud noodle margin sweet hockey aisle infant together into color";
+var mnemonic = "aspect message priority mean step yellow leopard need strong live age private";

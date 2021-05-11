@@ -1,1 +1,1 @@
-var mnemonic = "energy skate icon birth burst juice girl gate attend seminar opera view";
+var mnemonic = "flame purity hurdle mad brush film iron try glide primary grit subway";

@@ -1,1 +1,1 @@
-var mnemonic = "pig february drop round write room yellow injury garment tunnel august fan";
+var mnemonic = "wood double announce wait alter unfair zebra mango wash exercise obscure draft";

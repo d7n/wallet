@@ -1,1 +1,1 @@
-var mnemonic = "traffic gain feed ivory hungry foot host spell off fever stable wild";
+var mnemonic = "flush maple kiss badge squirrel primary toilet mango sting film margin wrist";

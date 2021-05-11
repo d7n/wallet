@@ -1,1 +1,1 @@
-var mnemonic = "salute palm capable pony flight candy admit organ close lawsuit token steel";
+var mnemonic = "soon caution device tragic bird nest design marble minute busy setup credit";

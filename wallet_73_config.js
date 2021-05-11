@@ -1,1 +1,1 @@
-var mnemonic = "menu door dash anchor wrong thrive zoo topic eye hen fence steel";
+var mnemonic = "fox correct inhale monitor cage nominee evolve afford also save certain heart";

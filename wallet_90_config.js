@@ -1,1 +1,1 @@
-var mnemonic = "weapon dress minor iron dress primary rescue define priority display sugar craft";
+var mnemonic = "where jealous item advance faint illness wrist sword sea swamp quality fancy";

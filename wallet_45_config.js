@@ -1,1 +1,1 @@
-var mnemonic = "grape dumb cinnamon tell broken slide path gauge image fit burst wave";
+var mnemonic = "build suspect usual rough human review you more sense burst trick dumb";

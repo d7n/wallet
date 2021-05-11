@@ -1,1 +1,1 @@
-var mnemonic = "debate bar dentist erase auto refuse cake remind essence speak desert giant";
+var mnemonic = "vanish friend goat moon castle bullet siege section maze vote stock brass";

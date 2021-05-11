@@ -1,1 +1,1 @@
-var mnemonic = "science excite step expose diamond science anger second scan head property animal";
+var mnemonic = "impulse opera winter damp valid mom garbage crater piano task tiger turn";

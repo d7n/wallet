@@ -1,1 +1,1 @@
-var mnemonic = "skirt end hurdle suspect dizzy crisp jewel misery waste door mean release";
+var mnemonic = "envelope hill punch air coral brave sun draft blush target educate glance";

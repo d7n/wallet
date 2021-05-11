@@ -1,1 +1,1 @@
-var mnemonic = "duck clump ozone lab hammer nasty slush write case rebel floor creek";
+var mnemonic = "web insect noise charge kitten media what hurry flip galaxy funny ranch";

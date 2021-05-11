@@ -1,1 +1,1 @@
-var mnemonic = "gospel order input nasty arrow fit unaware expose chunk cigar kind leave";
+var mnemonic = "royal shoulder scan detail oak average burden trophy milk ladder track rally";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge lamp ancient path slice sad dad ritual lift prefer person end";
+var mnemonic = "seed brush lyrics fade trial cable orient dry sausage leaf organ category";

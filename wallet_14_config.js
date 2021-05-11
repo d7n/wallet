@@ -1,1 +1,1 @@
-var mnemonic = "pole soda notice car rent weasel praise awkward obvious soon guide patch";
+var mnemonic = "sun admit analyst swim noble need follow glance sword behave across common";

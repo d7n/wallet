@@ -1,1 +1,1 @@
-var mnemonic = "easy situate right cat stage banana aware mercy ball minimum fat lock";
+var mnemonic = "hotel helmet type drink inquiry bench capital mercy forget nerve surge tobacco";

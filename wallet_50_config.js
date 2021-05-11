@@ -1,1 +1,1 @@
-var mnemonic = "aspect flower size churn unique purchase chimney false elbow predict flock armed";
+var mnemonic = "keen trap round again occur catch globe rookie idea kit appear prison";

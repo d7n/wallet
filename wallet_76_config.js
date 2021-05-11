@@ -1,1 +1,1 @@
-var mnemonic = "save youth hole language eternal reform tone protect hundred adapt lemon short";
+var mnemonic = "achieve fresh annual essay gather abuse flower hill uniform oak genuine camera";

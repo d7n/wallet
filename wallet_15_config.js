@@ -1,1 +1,1 @@
-var mnemonic = "bag art inch tongue guitar immune school grain melody grant vessel slide";
+var mnemonic = "sentence asthma maze vessel three security tent faint cry pulp pass walk";

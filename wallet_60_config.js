@@ -1,1 +1,1 @@
-var mnemonic = "veteran across cat gasp athlete faint tongue ginger repeat salute foot fever";
+var mnemonic = "lesson mixed wine mango update rapid actor forward bread kit aunt opera";

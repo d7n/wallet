@@ -1,1 +1,1 @@
-var mnemonic = "material dress sunset boil heart exhaust grid black curve misery better decorate";
+var mnemonic = "cake humor deliver degree draft material stairs between mimic front smart skill";

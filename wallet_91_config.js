@@ -1,1 +1,1 @@
-var mnemonic = "taste case pyramid pool hand master agent security surface pupil collect gain";
+var mnemonic = "apart toss armor wife accuse burden chapter attract wine chuckle oven despair";

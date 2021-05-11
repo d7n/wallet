@@ -1,1 +1,1 @@
-var mnemonic = "search glide reveal sphere sad earn supreme oven orchard cave vague swallow";
+var mnemonic = "funny tip error eternal vault chase perfect ring task cherry notice reflect";

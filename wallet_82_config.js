@@ -1,1 +1,1 @@
-var mnemonic = "nephew elevator interest saddle endorse tower witness cement festival carry view illegal";
+var mnemonic = "solid peanut air mule actual unhappy fabric warm exercise butter know transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "actress normal hungry scan more tuna park husband alcohol flag direct coyote";
+var mnemonic = "topic coconut afford slice sand verb spin blouse globe material news mad";

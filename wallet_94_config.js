@@ -1,1 +1,1 @@
-var mnemonic = "lab what mushroom juice forest witness actual plunge column lucky cactus enlist";
+var mnemonic = "resemble worry grain pull fan refuse tuna machine stage buddy boat increase";

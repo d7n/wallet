@@ -1,1 +1,1 @@
-var mnemonic = "exile consider enter alcohol type net egg tilt forum taxi rescue range";
+var mnemonic = "neck shrug twice enjoy core teach rapid scissors knife damage hard flower";

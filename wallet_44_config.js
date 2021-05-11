@@ -1,1 +1,1 @@
-var mnemonic = "label cream female already post near stem entire harvest juice either once";
+var mnemonic = "gallery boring eternal wire joy box plate bullet message manual fat insane";

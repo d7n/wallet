@@ -1,1 +1,1 @@
-var mnemonic = "float invite such poem crater relief armor paper dynamic fever aerobic cluster";
+var mnemonic = "proof work like weapon field sponsor series learn usual inject cargo become";

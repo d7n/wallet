@@ -1,1 +1,1 @@
-var mnemonic = "guess sorry pioneer warm voyage hunt plastic radio lens color torch order";
+var mnemonic = "island garage zebra tape phrase trophy pen hire suffer trigger result small";

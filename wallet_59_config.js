@@ -1,1 +1,1 @@
-var mnemonic = "travel viable wisdom private prevent wine work fix stem clean advice vacant";
+var mnemonic = "capable demise scheme desert property lobster sample swamp grace engage mother mimic";

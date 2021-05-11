@@ -1,1 +1,1 @@
-var mnemonic = "post egg cheese staff skull gown primary flight chapter obey hover route";
+var mnemonic = "dawn limit alcohol abuse rebuild away couch crater future warrior vapor cousin";

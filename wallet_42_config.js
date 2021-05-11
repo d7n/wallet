@@ -1,1 +1,1 @@
-var mnemonic = "wagon resemble almost jaguar intact unveil broccoli rude witness sword notable half";
+var mnemonic = "scorpion glory ski staff roast spawn famous crowd fire pill never alone";

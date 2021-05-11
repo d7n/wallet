@@ -1,1 +1,1 @@
-var mnemonic = "degree illness blood medal above dirt radio library high faith sock endorse";
+var mnemonic = "hat blast screen swift boil life family keen all leave wrestle burger";

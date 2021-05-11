@@ -1,1 +1,1 @@
-var mnemonic = "parrot head hurry capital kitchen theme arrow auction target basic caught bench";
+var mnemonic = "cream tired foot cradle vast category future antique wild wolf also involve";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle century park biology define maid tobacco lumber drip rally guitar term";
+var mnemonic = "female sell voyage supreme reform logic midnight reject rail ankle body lake";

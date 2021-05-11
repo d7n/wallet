@@ -1,1 +1,1 @@
-var mnemonic = "short mobile blouse lecture kiwi coast cost fun cup uncover fever tree";
+var mnemonic = "exchange author mix unlock affair very very refuse useless toe typical nothing";

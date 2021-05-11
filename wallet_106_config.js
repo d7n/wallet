@@ -1,1 +1,1 @@
-var mnemonic = "fantasy intact try valley thrive again kangaroo heavy tribe quiz member duck";
+var mnemonic = "neither metal olympic wife you famous gown neither bunker life open rate";

@@ -1,1 +1,1 @@
-var mnemonic = "parent wrestle enemy hybrid infant client negative priority welcome diesel face result";
+var mnemonic = "illegal wire cotton rail biology parrot various gallery panic cinnamon bar flock";

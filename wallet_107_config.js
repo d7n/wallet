@@ -1,1 +1,1 @@
-var mnemonic = "champion tribe desert elephant cloth network sun casual silly dose feature apple";
+var mnemonic = "resource diary bundle broom once album network explain toward motor filter erosion";

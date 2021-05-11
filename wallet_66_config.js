@@ -1,1 +1,1 @@
-var mnemonic = "correct brain school utility alone round foot across pioneer gentle dignity spawn";
+var mnemonic = "tortoise sauce wise moment length shallow render actor churn busy ghost river";

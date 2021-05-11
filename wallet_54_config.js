@@ -1,1 +1,1 @@
-var mnemonic = "host poem vault sorry unable link elder marriage spring arrow adult tube";
+var mnemonic = "reunion february nephew apple enhance symbol bridge album theme fantasy ocean isolate";

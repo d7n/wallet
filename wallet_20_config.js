@@ -1,1 +1,1 @@
-var mnemonic = "enemy avoid patch bunker timber deny field milk pair bulk glide horror";
+var mnemonic = "aim obtain trust swift half course sister equal lizard brick artwork pig";

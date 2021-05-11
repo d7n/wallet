@@ -1,1 +1,1 @@
-var mnemonic = "slow flip dress brush crush wife lyrics elite slight ivory mercy exchange";
+var mnemonic = "smile purity gesture agent sound vapor shrimp gap solid couch cabin shallow";

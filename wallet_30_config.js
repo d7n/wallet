@@ -1,1 +1,1 @@
-var mnemonic = "hurdle volcano actor resource among spell harvest patient shy surprise pizza clump";
+var mnemonic = "call neutral report leopard tomorrow broken wet hurdle car obscure normal purse";

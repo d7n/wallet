@@ -1,1 +1,1 @@
-var mnemonic = "rabbit security upon oven object caution mix seminar patch supply very accuse";
+var mnemonic = "bike all fame unhappy timber across crunch stage mad cream twist produce";

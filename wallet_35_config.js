@@ -1,1 +1,1 @@
-var mnemonic = "knee humble bronze assist ostrich swap cheese twin soccer disagree resource net";
+var mnemonic = "panel escape element capable spoon butter remove sunset resist country giraffe palace";

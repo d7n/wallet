@@ -1,1 +1,1 @@
-var mnemonic = "screen music tattoo pilot aspect purity cram discover mind issue again front";
+var mnemonic = "swear bronze reunion ridge sibling habit state melody comfort notable dove kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "offer hope scene crack river bonus supply develop crowd catch excite join";
+var mnemonic = "panel caution famous cradle raven tooth planet beef seek play seat cluster";

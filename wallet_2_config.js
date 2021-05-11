@@ -1,1 +1,1 @@
-var mnemonic = "fold approve seek purpose air fat there lecture health eagle relax prepare";
+var mnemonic = "begin lecture fence prize virtual better polar lake window cliff survey change";

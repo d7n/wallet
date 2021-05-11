@@ -1,1 +1,1 @@
-var mnemonic = "chase fitness surprise shed brisk asthma slush oyster resemble special right crucial";
+var mnemonic = "behave animal supreme royal pass swap error video pet glass there nothing";

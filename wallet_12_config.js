@@ -1,1 +1,1 @@
-var mnemonic = "fury permit pitch two either concert social build furnace verb borrow casino";
+var mnemonic = "cage detail stamp inherit involve angle metal vague crucial pull then much";

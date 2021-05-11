@@ -1,1 +1,1 @@
-var mnemonic = "jazz basket sentence afraid list negative satisfy tree crunch extend text vital";
+var mnemonic = "sad inform speed useless consider evolve ridge answer spoil chase skill fabric";

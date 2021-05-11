@@ -1,1 +1,1 @@
-var mnemonic = "topple price bamboo isolate priority stable honey game team access merit cash";
+var mnemonic = "debate virtual curious result room certain suspect govern annual increase erode holiday";

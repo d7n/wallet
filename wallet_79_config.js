@@ -1,1 +1,1 @@
-var mnemonic = "stem mouse labor fuel jazz sniff general release nut amount pen drift";
+var mnemonic = "subject group rich tomato virtual wrist cradle route express maze agree believe";

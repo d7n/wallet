@@ -1,1 +1,1 @@
-var mnemonic = "good mosquito coast yard dash junior rifle sudden patrol comfort open stairs";
+var mnemonic = "steak rain doctor loop job pipe verify property fragile army inspire glad";

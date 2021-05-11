@@ -1,1 +1,1 @@
-var mnemonic = "source interest detect steak exit repeat ship what spider butter clutch other";
+var mnemonic = "pony slice wave plastic stereo cactus burst guitar social forum gravity stool";

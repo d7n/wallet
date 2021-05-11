@@ -1,1 +1,1 @@
-var mnemonic = "dumb aisle monster hint woman entry company segment solve grace rapid always";
+var mnemonic = "marble upset olympic demand shrug neglect crowd only health year balance neck";

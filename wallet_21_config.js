@@ -1,1 +1,1 @@
-var mnemonic = "void shoe cage blood salon gasp maid enable adapt nature stumble enemy";
+var mnemonic = "jazz end since measure write patch universe hurdle fame tent level evidence";

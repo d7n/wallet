@@ -1,1 +1,1 @@
-var mnemonic = "puzzle prosper sorry stone castle pretty retire trumpet grass make frog transfer";
+var mnemonic = "found return uphold pride prevent east hybrid liberty distance man early awful";

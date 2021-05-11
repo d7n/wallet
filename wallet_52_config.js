@@ -1,1 +1,1 @@
-var mnemonic = "better oven snap bacon option artwork hospital obtain struggle broom fetch youth";
+var mnemonic = "interest bargain giant retire betray rookie warfare venture price ensure seat owner";

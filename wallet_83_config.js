@@ -1,1 +1,1 @@
-var mnemonic = "oppose forum swamp feed side marble digital hen robot project envelope depend";
+var mnemonic = "bulb raccoon mom dry cabbage peasant problem perfect quarter lens throw sentence";

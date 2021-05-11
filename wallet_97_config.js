@@ -1,1 +1,1 @@
-var mnemonic = "bean evidence frozen orphan identify own own police bridge rally butter roof";
+var mnemonic = "turtle burden silent ozone razor crunch plastic morning page educate firm coffee";

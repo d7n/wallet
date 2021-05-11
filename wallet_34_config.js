@@ -1,1 +1,1 @@
-var mnemonic = "swear genius grass chat next family final receive victory just desk assist";
+var mnemonic = "travel web much rookie grow crash chunk throw hurdle dutch forward romance";

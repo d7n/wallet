@@ -1,1 +1,1 @@
-var mnemonic = "recipe spatial steak swallow resist scissors pioneer country wrist shine wall garlic";
+var mnemonic = "area echo monitor square achieve vault situate grit fashion soldier aware cost";

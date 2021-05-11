@@ -1,1 +1,1 @@
-var mnemonic = "mercy school way second dilemma palm vibrant embody diesel fantasy tree letter";
+var mnemonic = "purpose provide sweet fox phone volume ridge foot million figure tip lift";

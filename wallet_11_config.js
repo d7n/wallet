@@ -1,1 +1,1 @@
-var mnemonic = "memory fit milk myth audit hundred diary keep review scene head jacket";
+var mnemonic = "another song ignore review staff absorb express ship wood valley slide dice";

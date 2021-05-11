@@ -1,1 +1,1 @@
-var mnemonic = "ability true monster equip old cigar glue police rack ghost route parrot";
+var mnemonic = "result pink youth zebra fragile silly ranch glory leopard shine because enough";

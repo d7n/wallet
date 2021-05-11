@@ -1,1 +1,1 @@
-var mnemonic = "news garlic miracle final next end approve curtain desert solution tube chicken";
+var mnemonic = "icon decline boss labor noble certain candy alarm trouble fringe grit unable";

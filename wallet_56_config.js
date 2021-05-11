@@ -1,1 +1,1 @@
-var mnemonic = "mix burden stay clean picnic cactus honey spoon cage bracket high clarify";
+var mnemonic = "talent galaxy vague reform orient chuckle tomorrow duty undo bargain cool produce";

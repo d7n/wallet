@@ -1,1 +1,1 @@
-var mnemonic = "dream safe silk common sand believe any energy silly guard until climb";
+var mnemonic = "group supreme robust matrix voice gift obvious elbow trick knee scale green";

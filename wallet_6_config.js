@@ -1,1 +1,1 @@
-var mnemonic = "ugly urban arctic travel train word north inch enough scale bulk hen";
+var mnemonic = "crater soft hold urge muffin relax achieve manual brown remove crawl exercise";

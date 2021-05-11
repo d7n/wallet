@@ -1,1 +1,1 @@
-var mnemonic = "learn solve force lecture fee rely topple stick stomach skin giant hazard";
+var mnemonic = "beauty museum unfair click unlock enforce walk comic fame purpose fun error";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol list staff orbit shield nuclear wing demand fury method apology cluster";
+var mnemonic = "scrap story damage sign april mixed use sure spatial carry fork state";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp tip toward essence spray candy more blind gallery robot slogan arrest";
+var mnemonic = "fire foot until sunny bottom snow comfort reform vendor focus car dash";
