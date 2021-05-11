@@ -1,1 +1,1 @@
-var mnemonic = "sniff weekend better embrace symptom noble atom patch lab jazz gain lens";
+var mnemonic = "sunny elder travel sense latin steel potato ecology horror pioneer clap shadow";

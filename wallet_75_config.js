@@ -1,1 +1,1 @@
-var mnemonic = "seven next position legend snap media skull maze town buffalo bomb option";
+var mnemonic = "youth improve report tobacco average negative jaguar carry repair battle fit grace";

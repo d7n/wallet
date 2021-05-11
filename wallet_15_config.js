@@ -1,1 +1,1 @@
-var mnemonic = "depend diary protect never junior bench color barrel parent sort decline cereal";
+var mnemonic = "race day sudden chair deposit basic lounge bulb island combine carry horn";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin foster divorce derive brain strike kind devote spread parade busy column";
+var mnemonic = "phone target elder ocean manual easily excite rigid special source bottom gadget";

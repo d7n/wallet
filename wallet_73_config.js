@@ -1,1 +1,1 @@
-var mnemonic = "renew isolate involve avoid decrease oil scare junk glue build viable nuclear";
+var mnemonic = "valid rude spin nest peasant outer blast vast sibling era spike charge";

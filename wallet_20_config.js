@@ -1,1 +1,1 @@
-var mnemonic = "require pilot banana route woman cement autumn pretty embark mixture broccoli spawn";
+var mnemonic = "core smart that rival mistake wool series yellow pony cup actor judge";

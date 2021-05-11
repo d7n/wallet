@@ -1,1 +1,1 @@
-var mnemonic = "outdoor hollow tag cheap surge insane easily creek another tiger diamond can";
+var mnemonic = "mosquito flock seek nose claim doll tiger tourist affair material cannon wrap";

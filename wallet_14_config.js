@@ -1,1 +1,1 @@
-var mnemonic = "december water congress caution breeze symptom size eye weekend lucky hold december";
+var mnemonic = "rack village meat fish agent bright cage entire reduce riot relief swing";

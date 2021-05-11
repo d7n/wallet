@@ -1,1 +1,1 @@
-var mnemonic = "same turtle final rate truth common analyst stereo toward pizza rally miracle";
+var mnemonic = "indoor fly goddess foam industry double aspect manual opinion world vapor east";

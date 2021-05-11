@@ -1,1 +1,1 @@
-var mnemonic = "proof man country timber draft survey lawsuit devote monitor junior door belt";
+var mnemonic = "buddy pride below side bean lunar swarm lion paper kite future resist";

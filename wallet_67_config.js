@@ -1,1 +1,1 @@
-var mnemonic = "coin child episode animal bubble laundry chalk direct address dog invest budget";
+var mnemonic = "buffalo home predict child device program bless traffic cargo number whisper screen";

@@ -1,1 +1,1 @@
-var mnemonic = "element board neck honey hurt airport behave jungle waste sample print fluid";
+var mnemonic = "reward option season kind bronze girl any radar sport wrist ritual must";

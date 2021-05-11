@@ -1,1 +1,1 @@
-var mnemonic = "apart surprise ladder cement movie stamp switch tomato priority notice source emerge";
+var mnemonic = "bike learn present remain buyer fluid lounge useful exit lamp settle again";

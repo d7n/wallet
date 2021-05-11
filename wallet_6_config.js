@@ -1,1 +1,1 @@
-var mnemonic = "dry asthma law city boss hand vocal music case tower rent develop";
+var mnemonic = "doll furnace duck ahead above obvious speed rubber ability stamp dad spoon";

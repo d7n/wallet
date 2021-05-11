@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow life vibrant horse clown way small lens jump robot melt dove";
+var mnemonic = "sibling sauce famous exile rain culture source able easy enroll assume outside";

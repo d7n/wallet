@@ -1,1 +1,1 @@
-var mnemonic = "actual tissue sea exercise coffee man plastic shoulder amused child fork august";
+var mnemonic = "menu knife spy ahead work during sister object canal rubber thing argue";

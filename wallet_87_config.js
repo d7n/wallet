@@ -1,1 +1,1 @@
-var mnemonic = "ocean much output breeze unaware surge hurry rib devote border lab wash";
+var mnemonic = "load hedgehog long faculty border harbor process bounce icon fold slice maple";

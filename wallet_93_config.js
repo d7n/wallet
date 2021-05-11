@@ -1,1 +1,1 @@
-var mnemonic = "ribbon loan invite system miss number ceiling stove person country cute copy";
+var mnemonic = "action swap supply course bargain twin inform chaos coil echo banana accuse";

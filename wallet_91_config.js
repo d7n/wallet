@@ -1,1 +1,1 @@
-var mnemonic = "fiscal message offer calm mountain topple custom express library long fantasy file";
+var mnemonic = "affair goose spray huge syrup prefer total during artwork rabbit mix because";

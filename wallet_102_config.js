@@ -1,1 +1,1 @@
-var mnemonic = "choose rude seek connect weather core lyrics escape purchase foil fat spider";
+var mnemonic = "require lion rather struggle hollow solar phrase virtual strike audit security wing";

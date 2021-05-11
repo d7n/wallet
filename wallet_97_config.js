@@ -1,1 +1,1 @@
-var mnemonic = "hill stem month fat predict mixture enemy boil rice across busy real";
+var mnemonic = "opinion copy project length nominee meadow volcano polar before nose blind attitude";

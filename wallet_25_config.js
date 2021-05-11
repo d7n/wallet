@@ -1,1 +1,1 @@
-var mnemonic = "entry amount pause sketch club slush until absurd traffic disease wave ability";
+var mnemonic = "end wheel daughter wolf hunt orchard manual adapt uncover fit type skin";

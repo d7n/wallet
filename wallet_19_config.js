@@ -1,1 +1,1 @@
-var mnemonic = "spoil jaguar meat kitten volume rude execute dolphin flight faint pulse donate";
+var mnemonic = "grit flat cycle census half angle depend case produce people green sample";

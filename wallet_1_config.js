@@ -1,1 +1,1 @@
-var mnemonic = "eye final visit social butter mimic blouse garbage diagram tell glass crop";
+var mnemonic = "dilemma shrimp logic clap unknown shadow glad buffalo word later fury cook";

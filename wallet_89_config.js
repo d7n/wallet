@@ -1,1 +1,1 @@
-var mnemonic = "thrive budget dizzy action mosquito sure museum wrestle pudding buddy weasel laugh";
+var mnemonic = "profit flock attack fortune error funny runway scorpion bamboo pink obscure stay";

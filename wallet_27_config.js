@@ -1,1 +1,1 @@
-var mnemonic = "oak exact table armor flock solution citizen bid custom marble always bus";
+var mnemonic = "globe smart ramp drink fame chimney tool dress similar length work rural";

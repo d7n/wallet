@@ -1,1 +1,1 @@
-var mnemonic = "solid vocal trap gold that crush tenant danger meat forget crater scare";
+var mnemonic = "cereal taxi swing happy dignity zero hint urge visit legend congress nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "sport cigar present rapid castle perfect expand stool garlic hope evoke sheriff";
+var mnemonic = "wage mimic spring tonight promote latin audit cat move cruise space flavor";

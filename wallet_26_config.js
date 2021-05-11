@@ -1,1 +1,1 @@
-var mnemonic = "fog arrow stumble salute minimum kiss token trumpet bridge winter clever airport";
+var mnemonic = "tiger fee couple trade private bike wave garment square small bacon script";

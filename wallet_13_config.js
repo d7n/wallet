@@ -1,1 +1,1 @@
-var mnemonic = "dismiss crumble skin case traffic analyst puppy paper pig labor system census";
+var mnemonic = "zoo fiction lyrics illness level sunny robust party trend protect rice you";

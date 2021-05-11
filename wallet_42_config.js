@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cluster property issue give neglect inch hammer check rate jelly dirt";
+var mnemonic = "exit future artist favorite legend saddle exclude service alcohol reflect pulp smooth";

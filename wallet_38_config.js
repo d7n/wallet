@@ -1,1 +1,1 @@
-var mnemonic = "question popular lumber figure keen silent veteran short buddy plug crucial awesome";
+var mnemonic = "girl flag divert rude state sunny auction salad metal beach decrease lecture";

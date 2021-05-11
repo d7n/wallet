@@ -1,1 +1,1 @@
-var mnemonic = "result blur nice pole quote cup divide legal begin rather alarm relief";
+var mnemonic = "alien elbow leave under pudding become alert wall cream fence speed enforce";

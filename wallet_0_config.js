@@ -1,1 +1,1 @@
-var mnemonic = "skate pretty version sell demise agent three hint flash hazard tide stamp";
+var mnemonic = "shield weird abstract lounge purse shell busy author recycle wisdom execute lock";

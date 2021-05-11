@@ -1,1 +1,1 @@
-var mnemonic = "mechanic barely spread drift congress snap region tennis coast dismiss believe drop";
+var mnemonic = "say cook ritual tonight trade host buyer crew staff dress script man";

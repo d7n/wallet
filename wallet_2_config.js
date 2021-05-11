@@ -1,1 +1,1 @@
-var mnemonic = "cliff diamond human multiply foot viable furnace warm endless crack misery left";
+var mnemonic = "doll butter unable oak retreat garden group sing jelly today axis economy";

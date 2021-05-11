@@ -1,1 +1,1 @@
-var mnemonic = "behave suggest random agree wink inside access wait chest evil leopard inner";
+var mnemonic = "praise earth eternal mouse math assault same fever jungle blossom aim door";

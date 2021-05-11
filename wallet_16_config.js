@@ -1,1 +1,1 @@
-var mnemonic = "hunt wall cricket decide evil monster remain impact where anger enforce crop";
+var mnemonic = "brother hat winter hub minimum depart cupboard mesh sunny struggle clerk charge";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt unknown midnight version sport attitude green renew eyebrow debris bulk volume";
+var mnemonic = "pond glide resist cage true donor spy nice salon auction tape what";

@@ -1,1 +1,1 @@
-var mnemonic = "motion uphold mail suit drama cruise firm toe bottom able furnace boring";
+var mnemonic = "fall hen clock meat great wrestle energy surface history project faith sail";

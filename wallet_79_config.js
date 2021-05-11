@@ -1,1 +1,1 @@
-var mnemonic = "crime romance poem seven side column unit pond shove tool invest confirm";
+var mnemonic = "scrap energy palace clutch angry mesh first silver federal forget clip embody";

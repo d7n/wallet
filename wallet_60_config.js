@@ -1,1 +1,1 @@
-var mnemonic = "disorder supreme stem auto resource purchase board priority path rookie coach guilt";
+var mnemonic = "cage check manual bicycle unfold because fee casino buddy debris fresh witness";

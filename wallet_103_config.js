@@ -1,1 +1,1 @@
-var mnemonic = "oyster speak step grain blast young write orange power wolf essay bus";
+var mnemonic = "alcohol patrol quarter turn deer foil begin imitate believe wish tongue skin";

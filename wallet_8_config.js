@@ -1,1 +1,1 @@
-var mnemonic = "major ride idea entry fantasy obey destroy drastic whale attack wisdom book";
+var mnemonic = "foster garden real cotton ankle license novel future layer tree hurry risk";

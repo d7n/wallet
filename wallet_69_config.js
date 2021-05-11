@@ -1,1 +1,1 @@
-var mnemonic = "render nice cool blur mom ramp hair disagree attend zero acoustic sick";
+var mnemonic = "miracle defense cycle sport swim silent lens crash caught carpet gossip kick";

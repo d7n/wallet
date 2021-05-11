@@ -1,1 +1,1 @@
-var mnemonic = "room labor luxury embark enlist quarter push cupboard prefer awesome wear monster";
+var mnemonic = "erase bike vanish tongue hero obtain remind quantum dog initial hedgehog kid";

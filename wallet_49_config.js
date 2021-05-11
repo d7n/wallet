@@ -1,1 +1,1 @@
-var mnemonic = "rule just surface limb they toddler wash purchase salmon glass fold sheriff";
+var mnemonic = "ugly erase liar lucky cash cactus dust system youth remain exile best";

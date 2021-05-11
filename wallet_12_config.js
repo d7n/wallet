@@ -1,1 +1,1 @@
-var mnemonic = "flee one tell work pluck bright hedgehog glow traffic select fresh horror";
+var mnemonic = "lonely absurd else bicycle photo aunt away upgrade welcome door sell illness";

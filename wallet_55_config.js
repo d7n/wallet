@@ -1,1 +1,1 @@
-var mnemonic = "lesson coffee ship mask arrow dirt aim baby boring task best violin";
+var mnemonic = "dirt luggage acquire sort latin hidden grid where photo climb three become";

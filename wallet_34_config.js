@@ -1,1 +1,1 @@
-var mnemonic = "carbon festival rib devote veteran culture humble series say pause road imitate";
+var mnemonic = "fun hill resist mobile that camp height burden liquid friend inside muffin";

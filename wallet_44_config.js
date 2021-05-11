@@ -1,1 +1,1 @@
-var mnemonic = "tackle swallow alpha flash fox relief rice drill return salad onion able";
+var mnemonic = "thunder giggle color demise luxury average silent wood curious reward verify alley";

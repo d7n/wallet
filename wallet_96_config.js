@@ -1,1 +1,1 @@
-var mnemonic = "much awesome enjoy steak same wood mixed crop warm sample vanish derive";
+var mnemonic = "enforce disease school child pupil alcohol drip glance injury tool same awake";

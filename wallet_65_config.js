@@ -1,1 +1,1 @@
-var mnemonic = "raw cash giant bus gauge wreck decline learn person wet topple surround";
+var mnemonic = "vital diagram find reduce foot little hour warm can raccoon trip leave";

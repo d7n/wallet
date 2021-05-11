@@ -1,1 +1,1 @@
-var mnemonic = "notice parent chuckle pulse loop girl power chronic work essay holiday gentle";
+var mnemonic = "tiny sphere noise grow spring suspect install zoo year where easy venture";

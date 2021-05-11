@@ -1,1 +1,1 @@
-var mnemonic = "receive oven wolf prevent chef group artist oyster member multiply dentist zone";
+var mnemonic = "service core sing total when monkey man profit inform slab swift rug";

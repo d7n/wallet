@@ -1,1 +1,1 @@
-var mnemonic = "recipe electric giraffe host tail lonely village since swarm click party brick";
+var mnemonic = "coin elephant scrap model famous quick civil pledge secret eye fruit eyebrow";

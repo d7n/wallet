@@ -1,1 +1,1 @@
-var mnemonic = "supply artist heart occur update road myth spatial rack total doll artefact";
+var mnemonic = "pen divide gain keep bicycle door civil blame hawk eyebrow rather notice";

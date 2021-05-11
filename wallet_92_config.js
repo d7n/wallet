@@ -1,1 +1,1 @@
-var mnemonic = "saddle tooth beef family course tiger fury minimum patrol that detect artwork";
+var mnemonic = "pave tattoo crop pipe mail cherry approve ankle fabric prosper leaf term";

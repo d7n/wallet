@@ -1,1 +1,1 @@
-var mnemonic = "video code cricket subject bridge midnight game mail great inherit trend produce";
+var mnemonic = "claw card hotel portion glide dizzy antique chief champion salmon text prefer";

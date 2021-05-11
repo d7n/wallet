@@ -1,1 +1,1 @@
-var mnemonic = "age trust luxury song army robust account mansion iron sister cactus brown";
+var mnemonic = "remain fix bridge hamster solve skirt fetch donkey music addict between dilemma";

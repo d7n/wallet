@@ -1,1 +1,1 @@
-var mnemonic = "mobile supply near later what quiz submit spray deer street initial remember";
+var mnemonic = "cattle blush sadness program crunch radio story super canvas flush solution relief";

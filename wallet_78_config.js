@@ -1,1 +1,1 @@
-var mnemonic = "tunnel hotel mind pumpkin outside oven promote scout under drop base neglect";
+var mnemonic = "denial road permit faculty digital festival can ensure manage essence oxygen witness";

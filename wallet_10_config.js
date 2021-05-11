@@ -1,1 +1,1 @@
-var mnemonic = "simple swear pattern leisure wet cattle exist alien afford horror school sister";
+var mnemonic = "gas six muffin vital explain shy cup stomach style door list gaze";

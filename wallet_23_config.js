@@ -1,1 +1,1 @@
-var mnemonic = "label december matter tobacco boat scale walk strategy wait bomb social fortune";
+var mnemonic = "boss print sock hole require tourist fall engine jazz open happy cloth";

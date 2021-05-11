@@ -1,1 +1,1 @@
-var mnemonic = "bamboo vital whip style obey vital silver buzz image cigar armor smile";
+var mnemonic = "make kingdom fossil ankle mimic loyal night feel utility album stable still";

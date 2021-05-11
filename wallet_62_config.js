@@ -1,1 +1,1 @@
-var mnemonic = "detail company squirrel buddy add later correct right coin fan cube jar";
+var mnemonic = "gadget mechanic expose mimic sudden cabin flee boil moral room sentence weekend";

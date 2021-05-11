@@ -1,1 +1,1 @@
-var mnemonic = "cry caught south expose end pilot embark person piece foam tide kid";
+var mnemonic = "useful orbit husband party exile legend shrimp portion grace deal require chimney";

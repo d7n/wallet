@@ -1,1 +1,1 @@
-var mnemonic = "soda winner author radar rival black mention guard voyage olive combine can";
+var mnemonic = "caution fatigue try sauce opinion mule task toy rude radio immense flee";

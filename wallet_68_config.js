@@ -1,1 +1,1 @@
-var mnemonic = "bus tower south view circle afford retire history license near laugh jacket";
+var mnemonic = "amount ceiling truth hedgehog monitor pen mix poet blouse adult banana reform";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz foot rookie orbit sponsor noise attract answer head solve fly person";
+var mnemonic = "tobacco zoo awesome youth bamboo swamp stuff devote useless misery obtain off";

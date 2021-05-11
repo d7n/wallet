@@ -1,1 +1,1 @@
-var mnemonic = "excite route target solar basic deliver nature nest aerobic appear file finger";
+var mnemonic = "submit once host cool dance grow clinic meat weasel fog gravity flat";

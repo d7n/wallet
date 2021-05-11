@@ -1,1 +1,1 @@
-var mnemonic = "student soul gentle lizard purse push hat shift salad acoustic acid attend";
+var mnemonic = "river salon steel carry north number comic ripple core outside devote case";

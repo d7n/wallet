@@ -1,1 +1,1 @@
-var mnemonic = "crane surface boil ugly parent piano door stick property scene twin outdoor";
+var mnemonic = "detail sting saddle awesome pretty analyst party edit give impose hobby lucky";

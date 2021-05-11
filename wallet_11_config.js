@@ -1,1 +1,1 @@
-var mnemonic = "saddle gift flip inflict snake host grief buzz sentence category shuffle wonder";
+var mnemonic = "raven diet garment toward swim giant glove express access explain popular size";

@@ -1,1 +1,1 @@
-var mnemonic = "whale window inquiry boring two danger twice drama excuse energy catalog delay";
+var mnemonic = "name fame lizard pulse minute monkey document save express air better hub";

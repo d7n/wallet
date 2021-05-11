@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin hope judge child reward cute toss sausage bone evoke nephew runway";
+var mnemonic = "armor key umbrella boost swim category left page manual sleep embody marriage";

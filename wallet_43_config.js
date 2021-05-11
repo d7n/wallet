@@ -1,1 +1,1 @@
-var mnemonic = "crunch genuine kangaroo announce uniform number sense lazy layer resource idea material";
+var mnemonic = "able forum number early among swear awful mouse approve alter now need";

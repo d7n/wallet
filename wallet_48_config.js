@@ -1,1 +1,1 @@
-var mnemonic = "often blue hawk job toast parent seven junior vacuum essay lawsuit cream";
+var mnemonic = "girl topple power door panel crunch duty net silent mom combine city";

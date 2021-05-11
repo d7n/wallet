@@ -1,1 +1,1 @@
-var mnemonic = "fruit balance ticket whale buyer afraid power cycle size shoe math festival";
+var mnemonic = "fork render miracle relax ketchup enroll foam nest clown mind lift young";

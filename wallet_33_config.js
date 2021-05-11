@@ -1,1 +1,1 @@
-var mnemonic = "vessel talent one sun write rapid wool room vacuum army dawn child";
+var mnemonic = "rent woman ocean spell benefit amateur year joke verb rain drama fatigue";

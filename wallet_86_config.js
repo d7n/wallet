@@ -1,1 +1,1 @@
-var mnemonic = "stay gorilla spend resemble record fold wealth notable casino obvious loan deposit";
+var mnemonic = "endless betray spawn rail crucial pulp praise deputy pyramid output biology course";

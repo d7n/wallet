@@ -1,1 +1,1 @@
-var mnemonic = "replace exhaust million marriage inquiry journey grape ankle choose share town sorry";
+var mnemonic = "float phrase salt panic table extend found replace select hood device prosper";

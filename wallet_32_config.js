@@ -1,1 +1,1 @@
-var mnemonic = "ankle fever mistake donkey drift annual marble clean mail salt space cloud";
+var mnemonic = "sleep zebra snow spike harbor route renew faith impact team pigeon false";

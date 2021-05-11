@@ -1,1 +1,1 @@
-var mnemonic = "meadow grid wire journey fade wheat decrease tower dirt argue net fantasy";
+var mnemonic = "clerk secret struggle hurt expose fashion hollow pudding impose fun more rose";

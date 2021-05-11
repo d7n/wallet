@@ -1,1 +1,1 @@
-var mnemonic = "flag name seminar spy remember athlete slight coffee flip income tilt basket";
+var mnemonic = "tiger sauce argue elder drum rug sweet clock scare unit inch cool";

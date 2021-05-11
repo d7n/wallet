@@ -1,1 +1,1 @@
-var mnemonic = "lunar lottery nerve notice pretty logic decline wonder open cluster affair oblige";
+var mnemonic = "pull mammal group economy cargo renew grape crowd mail suggest bubble govern";

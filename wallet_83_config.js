@@ -1,1 +1,1 @@
-var mnemonic = "chat cliff sign future dad slush reopen exhibit aware sock pigeon flee";
+var mnemonic = "jewel inherit yellow eye happy during valley cargo evoke diamond join artist";

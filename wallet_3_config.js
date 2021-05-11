@@ -1,1 +1,1 @@
-var mnemonic = "calm motion electric marine forum large critic bridge pipe squirrel mom exit";
+var mnemonic = "funny feature amount caution must bar spice beach usual sample announce faint";

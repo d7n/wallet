@@ -1,1 +1,1 @@
-var mnemonic = "imitate what better movie input hope stick enjoy iron shoot pill rebel";
+var mnemonic = "snow head seed visual buffalo rapid wide item omit core zebra slender";

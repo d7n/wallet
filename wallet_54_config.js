@@ -1,1 +1,1 @@
-var mnemonic = "tilt then another vivid large reopen busy empty angle today someone grab";
+var mnemonic = "security team twenty swamp either kid arrange sense fluid brother total seat";

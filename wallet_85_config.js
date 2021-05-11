@@ -1,1 +1,1 @@
-var mnemonic = "empower advice world toilet assume dolphin february pattern ketchup narrow assist good";
+var mnemonic = "will senior detect hollow lemon auto mail slogan nation spawn destroy frog";

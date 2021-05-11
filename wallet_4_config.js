@@ -1,1 +1,1 @@
-var mnemonic = "shrimp category absorb hollow hover future prepare spring wagon crowd enact beach";
+var mnemonic = "emotion armor hard place indicate near uncle wife hill meat crane depart";

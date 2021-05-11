@@ -1,1 +1,1 @@
-var mnemonic = "chief mobile asthma crop lend check inherit tower excess banner lesson hello";
+var mnemonic = "buyer convince catch mammal gold degree gas camera dad legend duty arena";

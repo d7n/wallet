@@ -1,1 +1,1 @@
-var mnemonic = "sail large staff rocket eight fit strategy twin salad mean snap pattern";
+var mnemonic = "holiday ostrich deny human mother sign manage flame spend pledge police calm";

@@ -1,1 +1,1 @@
-var mnemonic = "pull electric arrange venture tuna lift harvest pen upper describe media mystery";
+var mnemonic = "luxury joy oxygen raccoon window maximum kite possible employ path vault tuition";
