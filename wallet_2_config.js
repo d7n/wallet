@@ -1,1 +1,1 @@
-var mnemonic = "badge suspect rent sea pair view humor risk elite hungry pelican alert";
+var mnemonic = "force enact together gallery another stamp fault opera sad faint already box";

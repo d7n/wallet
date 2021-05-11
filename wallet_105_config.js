@@ -1,1 +1,1 @@
-var mnemonic = "odor sing cute bracket kidney mountain dice love memory dilemma cloud exit";
+var mnemonic = "love bone must nasty brain list puppy input slogan right fatigue cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "wet picture pink horse torch crawl gate ugly pizza burden output simple";
+var mnemonic = "bronze detail bike mobile aisle present impulse horn shy add exercise evoke";

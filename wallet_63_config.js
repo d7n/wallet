@@ -1,1 +1,1 @@
-var mnemonic = "divide suffer modify dragon spoil engine push satisfy thumb catch local fork";
+var mnemonic = "seed crucial device alter negative tornado wood teach ugly solve between deposit";

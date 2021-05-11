@@ -1,1 +1,1 @@
-var mnemonic = "kitchen pride music garment banner scan quit brick beach project obscure equal";
+var mnemonic = "run agent foil permit indoor usage regret tiny north nice salute second";

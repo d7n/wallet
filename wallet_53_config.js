@@ -1,1 +1,1 @@
-var mnemonic = "banner unique supply popular tooth angry trigger evolve desert exclude aerobic foster";
+var mnemonic = "manage kangaroo buyer income umbrella adjust flock waste black poverty together intact";

@@ -1,1 +1,1 @@
-var mnemonic = "topple drill mother heavy chapter length alarm fee index genius artwork vintage";
+var mnemonic = "chaos nice owner second genius remain embody concert much easy intact bring";

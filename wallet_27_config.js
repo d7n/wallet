@@ -1,1 +1,1 @@
-var mnemonic = "rely thumb scorpion phrase fashion aspect stamp south churn age great dutch";
+var mnemonic = "toe attract clump poet document guitar acquire three heavy brother silent horn";

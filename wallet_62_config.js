@@ -1,1 +1,1 @@
-var mnemonic = "since trial ancient repeat put snack mimic avoid lunar banana source puzzle";
+var mnemonic = "effort assume awful shove tree antenna corn alone rail bless drastic galaxy";

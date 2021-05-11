@@ -1,1 +1,1 @@
-var mnemonic = "exclude wet increase birth virus dirt lock solve answer ripple cry current";
+var mnemonic = "elbow sweet glue tube day cushion aim master leaf man demise detect";

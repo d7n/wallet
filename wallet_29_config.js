@@ -1,1 +1,1 @@
-var mnemonic = "virus reform lumber tail sample movie field jaguar pink misery welcome armed";
+var mnemonic = "present chest mistake once outside typical tower joke release primary voyage glass";

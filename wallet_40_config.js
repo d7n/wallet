@@ -1,1 +1,1 @@
-var mnemonic = "depend donate luggage test destroy guard casino process approve kingdom pledge clay";
+var mnemonic = "garage cement forget garbage false long subject all involve race bundle inquiry";

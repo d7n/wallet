@@ -1,1 +1,1 @@
-var mnemonic = "apple youth swim boil large pass define pretty slogan avoid van item";
+var mnemonic = "simple beach bright session rabbit tornado earn icon pepper grid staff gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid never jump among sustain scatter devote crane inch kite neither want";
+var mnemonic = "wife ancient light trouble bargain slot future kidney exhibit inhale pistol trick";

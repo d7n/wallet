@@ -1,1 +1,1 @@
-var mnemonic = "target insect sign swim unfold kiwi hood any impose that siren struggle";
+var mnemonic = "again human tower audit sword brisk dust distance movie comfort public credit";

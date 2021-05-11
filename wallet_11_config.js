@@ -1,1 +1,1 @@
-var mnemonic = "toddler erupt song level carry doll mountain ecology year finish target warrior";
+var mnemonic = "marble sand ivory museum obscure black hope mistake maple one lounge brown";

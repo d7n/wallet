@@ -1,1 +1,1 @@
-var mnemonic = "boy story photo casino mandate shadow flag lonely develop noise hub penalty";
+var mnemonic = "injury ready elegant actor expire medal foil scan usual hidden space exist";

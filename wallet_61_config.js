@@ -1,1 +1,1 @@
-var mnemonic = "mechanic squeeze video desk dirt twin traffic cycle armed sign oblige similar";
+var mnemonic = "more hand labor ginger intact snow swift crew february choose book voyage";

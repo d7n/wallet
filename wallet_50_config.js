@@ -1,1 +1,1 @@
-var mnemonic = "zoo elevator brisk noise sing gold cliff work breeze quote proud vocal";
+var mnemonic = "century lift length monster toss inform obvious crowd matter mobile train play";

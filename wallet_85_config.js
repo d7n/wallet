@@ -1,1 +1,1 @@
-var mnemonic = "jealous jump couple earth just valley public below child humor style tent";
+var mnemonic = "depart practice amount fade enlist age ceiling neglect pave pudding summer month";

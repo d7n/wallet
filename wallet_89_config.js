@@ -1,1 +1,1 @@
-var mnemonic = "village horror cheap umbrella arrange spatial drama room brief siren family grunt";
+var mnemonic = "loud describe giggle plug opinion country float enlist mushroom cereal finish dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest volcano section high swap stomach seat help antenna pattern exotic long";
+var mnemonic = "among seat enemy depart little suggest mango parrot advice lounge level two";

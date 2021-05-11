@@ -1,1 +1,1 @@
-var mnemonic = "loyal foot beyond census plate frog spare water frog affair olive during";
+var mnemonic = "float engage risk bid practice agree phone online weasel peasant guilt pull";

@@ -1,1 +1,1 @@
-var mnemonic = "actor winner egg word buyer fantasy prosper know just chase indicate access";
+var mnemonic = "tongue upper try solar armor scissors name tree hand shop asthma whale";

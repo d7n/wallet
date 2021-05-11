@@ -1,1 +1,1 @@
-var mnemonic = "ability sun bless coil sun elite wool frown broom flee harbor car";
+var mnemonic = "elephant record nice monitor below genre outdoor below turn note camera insect";

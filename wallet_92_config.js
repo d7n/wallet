@@ -1,1 +1,1 @@
-var mnemonic = "hybrid grit battle east wife plunge rotate speak reform regular describe myth";
+var mnemonic = "true shadow aerobic nuclear mix jar lucky puzzle win hand pudding check";

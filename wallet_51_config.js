@@ -1,1 +1,1 @@
-var mnemonic = "sick drop rough business member music warm connect dog spatial march noble";
+var mnemonic = "search fury dish weasel style measure jaguar soldier despair stay drift vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "flag expire rapid song shoot lesson room adapt citizen forget crane common";
+var mnemonic = "cool setup grass rely wolf silk provide domain future hard grit task";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover guitar guess tent primary million habit cement culture live blue coast";
+var mnemonic = "feed remind absorb lyrics soap divorce train item glare swear vacuum employ";

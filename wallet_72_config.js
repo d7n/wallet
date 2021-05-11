@@ -1,1 +1,1 @@
-var mnemonic = "human define tuna valley liquid about fatal cupboard february machine detail ankle";
+var mnemonic = "autumn group fiscal misery clip matter practice just pride bag husband yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage practice during food choose trend fringe access steel bulk deer ripple";
+var mnemonic = "win feed when exit record brave enhance raccoon nerve town giggle later";

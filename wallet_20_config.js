@@ -1,1 +1,1 @@
-var mnemonic = "amused weekend punch joke arrive frost stool argue lawsuit forest mistake song";
+var mnemonic = "goddess ignore decade scale rain provide dance evidence rival guitar silly common";

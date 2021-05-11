@@ -1,1 +1,1 @@
-var mnemonic = "identify uncle road execute session unveil another secret obscure journey melody vintage";
+var mnemonic = "atom wasp weasel fury timber region suffer traffic neutral million social wonder";

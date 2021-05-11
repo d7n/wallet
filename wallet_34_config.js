@@ -1,1 +1,1 @@
-var mnemonic = "bicycle hunt useful reject math rubber horn drama throw palm foster lab";
+var mnemonic = "inmate outer usage mention refuse across topple hope struggle breeze capable way";

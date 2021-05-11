@@ -1,1 +1,1 @@
-var mnemonic = "cup giggle screen wonder sketch stadium art isolate leopard abuse again buyer";
+var mnemonic = "suspect cycle oyster sample melody never enlist destroy genuine second giggle sail";

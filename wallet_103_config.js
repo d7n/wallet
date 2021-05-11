@@ -1,1 +1,1 @@
-var mnemonic = "then boy use cargo soda siren despair horror conduct deal clip sense";
+var mnemonic = "width supreme concert echo chef absorb kangaroo light result shaft wire glory";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge escape avoid benefit about broccoli endorse purity jewel tennis bulb note";
+var mnemonic = "mountain arm monkey able amount hero spice perfect error spin warrior robust";

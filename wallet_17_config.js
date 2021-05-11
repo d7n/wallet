@@ -1,1 +1,1 @@
-var mnemonic = "nose buyer truly early never gorilla forum rifle rally orphan people cost";
+var mnemonic = "robot certain pizza pretty myself grass observe chuckle pair boat vehicle know";

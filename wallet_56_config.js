@@ -1,1 +1,1 @@
-var mnemonic = "infant swap cart gadget need focus garment cluster nephew estate often scale";
+var mnemonic = "fragile replace belt hunt reflect duty report between live powder exact coconut";

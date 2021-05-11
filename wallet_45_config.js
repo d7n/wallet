@@ -1,1 +1,1 @@
-var mnemonic = "welcome play later snap high solution improve lawn material drop bargain library";
+var mnemonic = "exist fiction local minute report object work fetch breeze orphan cave detail";

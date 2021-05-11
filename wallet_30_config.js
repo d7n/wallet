@@ -1,1 +1,1 @@
-var mnemonic = "raven devote camp drift across problem elbow car demise crop top captain";
+var mnemonic = "glory lucky field minimum flag frown inform frequent whip sad goose route";

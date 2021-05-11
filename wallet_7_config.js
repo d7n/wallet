@@ -1,1 +1,1 @@
-var mnemonic = "repeat wear puppy door borrow replace employ weekend tissue owner wolf panda";
+var mnemonic = "payment sauce elder call merge target view moral begin symptom actor aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror woman prevent wild fault frog steel bus jungle age aspect stadium";
+var mnemonic = "capable sudden eternal puzzle dial ketchup state knock giggle solution soup random";

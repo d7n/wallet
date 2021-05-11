@@ -1,1 +1,1 @@
-var mnemonic = "genius dumb depth pig mutual drama artist happy oven year bird anxiety";
+var mnemonic = "crumble setup volume broken kite say select model canvas hammer shiver frown";

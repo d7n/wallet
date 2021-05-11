@@ -1,1 +1,1 @@
-var mnemonic = "beach drive gap fine receive bone bracket december security distance window scorpion";
+var mnemonic = "month join amazing holiday labor rather clean unaware upon discover install exchange";

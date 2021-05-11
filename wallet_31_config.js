@@ -1,1 +1,1 @@
-var mnemonic = "easy urge gossip clock wrong expire cliff huge awesome into buddy design";
+var mnemonic = "grit oven region chef hammer title person hold wrist buyer mixture mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor stick fly strategy negative skull crane educate problem human vibrant deny";
+var mnemonic = "myth horn thunder swallow settle above hen impose matrix crumble license nephew";

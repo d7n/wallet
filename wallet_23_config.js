@@ -1,1 +1,1 @@
-var mnemonic = "knife soul host life unaware want ghost remain video defy furnace twelve";
+var mnemonic = "organ torch glance obtain anxiety begin enjoy level thunder rose shrug owner";

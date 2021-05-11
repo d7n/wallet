@@ -1,1 +1,1 @@
-var mnemonic = "capable ten unusual soldier blame please flip family cupboard rather fox crumble";
+var mnemonic = "receive silver agent wash agent supreme thought awful yard crawl evoke oven";

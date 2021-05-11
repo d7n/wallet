@@ -1,1 +1,1 @@
-var mnemonic = "hungry flower company mosquito scheme glove deputy doctor spray fame kite erase";
+var mnemonic = "comic coach whip pudding old stairs wealth blame police fruit dinosaur desk";

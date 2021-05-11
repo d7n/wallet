@@ -1,1 +1,1 @@
-var mnemonic = "drop champion enroll ocean dirt use human bamboo magnet lunar water upgrade";
+var mnemonic = "gentle tone gospel outdoor deal exile borrow omit hand vicious problem ball";

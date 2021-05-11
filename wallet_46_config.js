@@ -1,1 +1,1 @@
-var mnemonic = "school because cargo muscle west moral seven donate lava guide mixture error";
+var mnemonic = "cool field cannon will juice harvest eyebrow argue blossom dignity lumber toe";

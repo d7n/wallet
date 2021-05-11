@@ -1,1 +1,1 @@
-var mnemonic = "income give depend foam oak laundry stomach awful short world wash uncover";
+var mnemonic = "razor arrest youth main bunker atom dress item expose patch merit mule";

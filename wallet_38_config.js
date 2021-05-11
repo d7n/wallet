@@ -1,1 +1,1 @@
-var mnemonic = "appear inject very jump famous fury already scene news fiction assist slab";
+var mnemonic = "raw ranch orchard daring hybrid churn banana casual merit casual poem slot";

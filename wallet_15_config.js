@@ -1,1 +1,1 @@
-var mnemonic = "barely knee void sun august layer jaguar inspire logic fiscal suspect absorb";
+var mnemonic = "job round powder yard submit hole wife toy aim shock buzz inflict";

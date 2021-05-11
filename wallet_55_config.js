@@ -1,1 +1,1 @@
-var mnemonic = "usage muffin pen hire stuff vault maid inquiry satisfy urban kite about";
+var mnemonic = "rain wait lend game tourist tenant oyster puzzle safe patrol before spy";

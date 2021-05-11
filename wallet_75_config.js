@@ -1,1 +1,1 @@
-var mnemonic = "suffer mesh ketchup wrist insane decrease rare oyster beauty lesson anchor cry";
+var mnemonic = "hip modify depth expand energy absorb that artwork walnut tilt gauge spike";

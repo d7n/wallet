@@ -1,1 +1,1 @@
-var mnemonic = "door famous industry level happy scout sort metal royal divert still chat";
+var mnemonic = "dog kid among rival consider above canal goat among punch antenna desert";

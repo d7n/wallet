@@ -1,1 +1,1 @@
-var mnemonic = "top release fashion bundle pyramid oxygen cereal armor crisp brick swallow melt";
+var mnemonic = "ginger wrap dismiss caution oxygen cry ritual clean clutch weird glass donkey";

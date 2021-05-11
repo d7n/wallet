@@ -1,1 +1,1 @@
-var mnemonic = "below gold outdoor away zoo room razor snap gold once supply treat";
+var mnemonic = "myself essay stick broccoli rude maze onion program more twice distance faith";

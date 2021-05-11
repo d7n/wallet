@@ -1,1 +1,1 @@
-var mnemonic = "feature outdoor afford limb method winter fossil hammer unable good note love";
+var mnemonic = "outdoor online fluid world lava stereo toss news knife salmon fire bottom";

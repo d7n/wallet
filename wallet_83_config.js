@@ -1,1 +1,1 @@
-var mnemonic = "chuckle soft square half cool pride say later sand era brain neglect";
+var mnemonic = "aerobic jealous lobster bullet sponsor enjoy flower obvious scale hobby float spin";

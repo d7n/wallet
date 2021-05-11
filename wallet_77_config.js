@@ -1,1 +1,1 @@
-var mnemonic = "fiction spy symptom icon affair menu breeze excite edit exact join during";
+var mnemonic = "pull screen month hammer trust dish magnet diagram flight assault snake shine";

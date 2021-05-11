@@ -1,1 +1,1 @@
-var mnemonic = "announce embark priority weekend physical benefit chapter embark kingdom sunny high picture";
+var mnemonic = "pizza inquiry raccoon image glimpse human pink novel link message pitch unlock";

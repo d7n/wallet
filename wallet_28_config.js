@@ -1,1 +1,1 @@
-var mnemonic = "fringe leader knife chronic blanket hen onion utility rebuild neck century crawl";
+var mnemonic = "dune capable pluck seed such ceiling tuition praise order violin dinosaur potato";

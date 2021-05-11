@@ -1,1 +1,1 @@
-var mnemonic = "chaos clip few sense entry innocent setup cinnamon radar choice marine thought";
+var mnemonic = "spirit jewel garment stumble eight industry method liberty indoor arrange smile pistol";

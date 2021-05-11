@@ -1,1 +1,1 @@
-var mnemonic = "discover antenna exact injury fringe milk anger notable subway april budget spend";
+var mnemonic = "praise chat pen undo you wheel joy royal casino thing symbol piano";

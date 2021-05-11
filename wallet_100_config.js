@@ -1,1 +1,1 @@
-var mnemonic = "rifle pretty miss cart claim rate dune decide tuna toward whisper differ";
+var mnemonic = "essay sad genuine knee bus soft rescue piece depend swap better panel";

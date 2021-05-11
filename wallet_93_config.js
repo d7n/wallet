@@ -1,1 +1,1 @@
-var mnemonic = "country fault spin blur chunk rain estate address double whale inject merit";
+var mnemonic = "screen toy stick void tortoise ozone boring rhythm holiday junior subway bone";

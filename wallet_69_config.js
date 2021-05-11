@@ -1,1 +1,1 @@
-var mnemonic = "parrot tumble wrestle rubber bronze alert soul three elder dish accuse battle";
+var mnemonic = "document during eagle mix fashion rabbit impact misery dismiss execute shaft snack";

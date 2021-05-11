@@ -1,1 +1,1 @@
-var mnemonic = "bounce human unhappy battle friend scare economy media occur tower force dash";
+var mnemonic = "news luggage orphan moral happy never imitate surface private tiny there feel";

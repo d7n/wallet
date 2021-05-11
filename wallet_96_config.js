@@ -1,1 +1,1 @@
-var mnemonic = "exercise couch say review inject odor meadow input leaf dinner pizza luggage";
+var mnemonic = "cage fault october return original material miracle wise funny merry novel surprise";

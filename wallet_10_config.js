@@ -1,1 +1,1 @@
-var mnemonic = "exchange genuine orient task begin balance acoustic talent bid fence unhappy police";
+var mnemonic = "fit pencil eternal crime income combine glow antique enable century bounce mercy";

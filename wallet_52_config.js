@@ -1,1 +1,1 @@
-var mnemonic = "head world crazy bulk crew solve relax blouse afraid sun chapter nut";
+var mnemonic = "aisle recall inhale lock imitate few farm animal excess visual seven spray";

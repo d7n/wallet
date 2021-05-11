@@ -1,1 +1,1 @@
-var mnemonic = "black onion call goddess divert reduce essence damage slide furnace tornado giant";
+var mnemonic = "buffalo risk drum pact venue photo vague cat gauge dolphin pear space";

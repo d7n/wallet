@@ -1,1 +1,1 @@
-var mnemonic = "rival middle child cruel paddle vocal doctor peanut never nerve curtain physical";
+var mnemonic = "skin mammal judge patch estate charge outer peasant arena rail small gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "soft chair library negative lazy reopen seek agent drama attract hair ship";
+var mnemonic = "urban rely mistake license sad pet fortune pottery now ready refuse jeans";

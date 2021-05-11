@@ -1,1 +1,1 @@
-var mnemonic = "cool dignity face body boring defy farm upper smoke zebra spray ship";
+var mnemonic = "salad ability economy jump original useless gossip census spider amateur naive legend";

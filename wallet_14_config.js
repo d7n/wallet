@@ -1,1 +1,1 @@
-var mnemonic = "library burger image exist consider treat thank ahead any female furnace hollow";
+var mnemonic = "penalty harsh fox wolf merry ill table still mimic thing breeze cloth";
