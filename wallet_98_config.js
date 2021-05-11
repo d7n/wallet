@@ -1,1 +1,1 @@
-var mnemonic = "spike boil bomb turn clarify gloom online improve like black tree engine";
+var mnemonic = "hole ocean chest ride setup sight cluster wet cheese dance egg forget";

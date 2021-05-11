@@ -1,1 +1,1 @@
-var mnemonic = "blur hunt spend favorite provide top exit surround drip grain car alarm";
+var mnemonic = "amount sadness arrive service vessel staff cake close brass ignore phrase mule";

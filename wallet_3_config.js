@@ -1,1 +1,1 @@
-var mnemonic = "warm shuffle coconut become vapor guitar creek fresh meadow deer gospel goose";
+var mnemonic = "pact door undo example issue identify pulse push genius reform select useless";

@@ -1,1 +1,1 @@
-var mnemonic = "super wall sound decrease enable favorite kidney staff disagree spell skate essence";
+var mnemonic = "puppy orphan express one match pupil tumble movie reunion address any inside";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble liquid hour predict finger surprise normal size coast used suffer timber";
+var mnemonic = "used arena deputy original forest vast bunker innocent juice neutral noble gentle";

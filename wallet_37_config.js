@@ -1,1 +1,1 @@
-var mnemonic = "dove clarify abandon excess exile solar favorite fashion tape safe firm area";
+var mnemonic = "cigar woman eager topic chat sing swift bunker tumble merge mimic easily";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic ball exact bounce husband crop midnight east side maple sort child";
+var mnemonic = "mistake situate skull hover hawk wedding amused dizzy use nut aspect august";

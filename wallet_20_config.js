@@ -1,1 +1,1 @@
-var mnemonic = "doll maze always love flame draft hurry excite chair onion own invite";
+var mnemonic = "erupt champion addict praise produce dad abandon neither toast spot nest modify";

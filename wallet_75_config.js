@@ -1,1 +1,1 @@
-var mnemonic = "jazz copy total assume baby forum clever cable reflect work law duck";
+var mnemonic = "private toy wheat tattoo deer hire plug pull damage false shock until";

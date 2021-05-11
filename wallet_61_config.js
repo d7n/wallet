@@ -1,1 +1,1 @@
-var mnemonic = "bitter sustain kitten jump access member property first gauge zone depart oval";
+var mnemonic = "convince donkey spy mean hollow adult suspect pigeon proud rather grab spell";

@@ -1,1 +1,1 @@
-var mnemonic = "used vicious hidden mother illegal word meadow humble program one wire unfold";
+var mnemonic = "spot body ship expire wrong veteran liberty pull oyster foster degree weapon";

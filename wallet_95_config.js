@@ -1,1 +1,1 @@
-var mnemonic = "design ask fury song pretty kiss switch tumble juice rabbit shell people";
+var mnemonic = "hollow stairs camp wet filter light place turtle help exist solution ankle";

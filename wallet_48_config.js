@@ -1,1 +1,1 @@
-var mnemonic = "phrase size obvious crisp toddler toilet elbow open wide street click topic";
+var mnemonic = "adjust guide erupt demise butter machine derive recall race crop then reform";

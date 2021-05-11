@@ -1,1 +1,1 @@
-var mnemonic = "science attack betray sand artwork lazy pencil spread chef pull link prefer";
+var mnemonic = "resist medal kiwi gravity target silver bone infant use desk rain stuff";

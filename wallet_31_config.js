@@ -1,1 +1,1 @@
-var mnemonic = "solve hold near mesh front turn fame axis crucial split film wrestle";
+var mnemonic = "speak armed pulse nephew guard message march digital escape brain venture beauty";

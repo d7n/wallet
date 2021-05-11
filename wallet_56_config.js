@@ -1,1 +1,1 @@
-var mnemonic = "extra habit unfair cat sound better local change puppy enroll team rough";
+var mnemonic = "divorce embrace vacuum more oblige talent sport latin maximum diary august middle";

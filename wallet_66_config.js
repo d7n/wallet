@@ -1,1 +1,1 @@
-var mnemonic = "tail release wide egg space spot canvas arrest risk door head canal";
+var mnemonic = "elite ball stomach spread yard consider lava silver sail spirit spell coast";

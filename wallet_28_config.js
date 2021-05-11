@@ -1,1 +1,1 @@
-var mnemonic = "odor exotic refuse urban grid weasel enable believe kangaroo report agree choice";
+var mnemonic = "black dilemma autumn silent must bind sugar cereal mad machine tree trim";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort egg during popular float myself industry eight present giggle book oblige";
+var mnemonic = "silly forget child street inquiry fiber box library empty ball seminar pigeon";

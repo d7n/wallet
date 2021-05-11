@@ -1,1 +1,1 @@
-var mnemonic = "glue canyon suggest outdoor ensure liberty pumpkin awesome vibrant better violin arrow";
+var mnemonic = "donkey learn draft result ketchup news hair absent kitten stairs square elite";

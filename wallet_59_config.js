@@ -1,1 +1,1 @@
-var mnemonic = "ranch scale basket avoid immune slam foot position cable hand blind slide";
+var mnemonic = "runway promote inherit display document camp tongue father control pottery knock funny";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit favorite fetch assume duck surface cat awake order parrot concert term";
+var mnemonic = "label flee staff shoulder family size senior mosquito inform tank wisdom core";

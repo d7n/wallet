@@ -1,1 +1,1 @@
-var mnemonic = "include artefact mushroom vivid only pyramid ugly phone retreat lazy palm display";
+var mnemonic = "mind potato view group benefit muffin canal modify hard draft penalty unfold";

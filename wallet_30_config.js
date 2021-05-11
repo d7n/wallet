@@ -1,1 +1,1 @@
-var mnemonic = "salad resist oppose cactus grab trust sleep gym dial bid common case";
+var mnemonic = "always palace bright under shuffle grid damage velvet chief fresh street vocal";

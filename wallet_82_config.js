@@ -1,1 +1,1 @@
-var mnemonic = "mutual cycle outside eyebrow ribbon bicycle desk prepare brand mad census spatial";
+var mnemonic = "spirit gift wagon mobile music pilot luxury vehicle open speak essence ready";

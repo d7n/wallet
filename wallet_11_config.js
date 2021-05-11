@@ -1,1 +1,1 @@
-var mnemonic = "fade warm business health asset stay decrease loud furnace wealth ethics arctic";
+var mnemonic = "valid merry license patrol satisfy wolf bird flight giggle weird finish audit";

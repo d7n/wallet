@@ -1,1 +1,1 @@
-var mnemonic = "roof gate father taste better female strike spoil open chaos assault bridge";
+var mnemonic = "young visual dice eye select shuffle myself join arrive mix guess glimpse";

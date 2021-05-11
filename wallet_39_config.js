@@ -1,1 +1,1 @@
-var mnemonic = "prison swap chuckle much cabbage mosquito bid comic music drum message critic";
+var mnemonic = "define lend case happy pig agent sight floor exercise avoid scheme lottery";

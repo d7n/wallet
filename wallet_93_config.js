@@ -1,1 +1,1 @@
-var mnemonic = "real thumb style amount nut poverty joke note brass wreck omit reason";
+var mnemonic = "abstract such have wife kid guilt edge velvet oil permit perfect soft";

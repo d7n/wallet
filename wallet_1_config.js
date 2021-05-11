@@ -1,1 +1,1 @@
-var mnemonic = "lift solar hazard simple enact north topple live pact series poet know";
+var mnemonic = "drip sample piece evil shove anger shaft remind journey rural collect drop";

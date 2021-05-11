@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon ring soccer proof brief scan imitate forward simple tattoo help festival";
+var mnemonic = "news mammal slice shock divorce often matter tissue lazy frown require smart";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery cigar grant crush august glue metal planet save thunder double behind";
+var mnemonic = "video monitor craft sight bench balcony vacuum rug panel hockey cushion practice";

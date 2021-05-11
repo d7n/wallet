@@ -1,1 +1,1 @@
-var mnemonic = "spatial economy wide monkey spin object jewel virus barrel match absurd uncover";
+var mnemonic = "dress patrol program arrive hazard replace garment appear subject race ask decline";

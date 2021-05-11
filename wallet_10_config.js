@@ -1,1 +1,1 @@
-var mnemonic = "much banner provide crime burger rebuild reflect rapid cloud pear unit never";
+var mnemonic = "borrow predict pottery suspect half fire expect sweet sleep pause travel pluck";

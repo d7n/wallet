@@ -1,1 +1,1 @@
-var mnemonic = "autumn off spike globe couple ancient blood crash flee state own stove";
+var mnemonic = "wise fee giraffe father spend village lizard pledge current glad favorite sight";

@@ -1,1 +1,1 @@
-var mnemonic = "portion surface all sun tide bitter small float please gloom sweet achieve";
+var mnemonic = "rare device century educate artwork crunch knee craft impact update use balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend spoil evoke file wrestle pond airport chair fiber rural spoil spatial";
+var mnemonic = "engage simple carry sword grit observe reflect honey phone goat fabric add";

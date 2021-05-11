@@ -1,1 +1,1 @@
-var mnemonic = "mother advice fetch swarm cotton grant fence flavor skirt intact evoke grit";
+var mnemonic = "dress pass bachelor waste mosquito impact flush curtain people injury stereo erosion";

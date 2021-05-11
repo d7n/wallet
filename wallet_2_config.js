@@ -1,1 +1,1 @@
-var mnemonic = "double shrimp frown object rescue kit spare rival inject humble govern program";
+var mnemonic = "emotion lottery smoke noodle scare penalty diesel mad genre primary snake milk";

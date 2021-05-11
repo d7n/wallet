@@ -1,1 +1,1 @@
-var mnemonic = "sustain toilet real axis visit sleep love clinic return off order coyote";
+var mnemonic = "journey body multiply pair clerk orphan autumn muffin potato sing spider love";

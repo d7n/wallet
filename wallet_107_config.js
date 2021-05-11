@@ -1,1 +1,1 @@
-var mnemonic = "devote million hybrid extra twelve execute approve approve become cover narrow drip";
+var mnemonic = "sunny bundle boost wash inspire frown cup door loud swarm neutral misery";

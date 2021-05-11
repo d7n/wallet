@@ -1,1 +1,1 @@
-var mnemonic = "hire demand palm sphere kitten ten nerve forest west ticket squeeze report";
+var mnemonic = "hobby deputy lift phone rotate gain mean various digital nice ocean pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor alarm kick spike ask grace disagree inquiry spin nuclear where erase";
+var mnemonic = "lawn two jar enrich marriage ship cluster vehicle jacket defense dove skin";

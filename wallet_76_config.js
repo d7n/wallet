@@ -1,1 +1,1 @@
-var mnemonic = "three soft dynamic remember tobacco skull glimpse soon response clap drama game";
+var mnemonic = "trash isolate borrow true student found spring write law fall garage elder";

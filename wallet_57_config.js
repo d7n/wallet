@@ -1,1 +1,1 @@
-var mnemonic = "because spider way weather tip hair secret country magic oxygen hurt pipe";
+var mnemonic = "antenna daring verify sound hotel rebel pole route sail sun pig absorb";

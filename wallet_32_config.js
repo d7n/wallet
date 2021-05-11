@@ -1,1 +1,1 @@
-var mnemonic = "dish siege kitchen rough vendor meadow unknown add prevent stumble patient bike";
+var mnemonic = "oven catch artwork royal burger usual brown stool test blast bread spoil";

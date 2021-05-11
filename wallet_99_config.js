@@ -1,1 +1,1 @@
-var mnemonic = "obtain observe chat want marine art midnight thought scheme flash maze eyebrow";
+var mnemonic = "shine barely train steel endless empower melt coconut grape other labor strong";

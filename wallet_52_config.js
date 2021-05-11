@@ -1,1 +1,1 @@
-var mnemonic = "bonus orchard vital hammer keep chalk reason present jungle arctic mobile avocado";
+var mnemonic = "grunt witness marble sweet whisper start sleep tone vacant insane trouble belt";

@@ -1,1 +1,1 @@
-var mnemonic = "day detect crucial plastic wait wave party reject hour trip name urban";
+var mnemonic = "crane shield expire myth hire leader direct deputy plastic tag grid drip";

@@ -1,1 +1,1 @@
-var mnemonic = "salad advice point kind ghost member glare tissue junior slide credit safe";
+var mnemonic = "expose tired ritual announce hair immune bachelor patch video coast connect human";

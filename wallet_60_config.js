@@ -1,1 +1,1 @@
-var mnemonic = "sugar margin gaze ski shock garbage glad whip great lumber hold miracle";
+var mnemonic = "morning despair side peanut three rabbit october lunar spatial gym minor wash";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive exist trip chase decade zero soon plunge hole sister fever tower";
+var mnemonic = "wall patch brief chef chef math crunch brain tilt differ garbage rhythm";

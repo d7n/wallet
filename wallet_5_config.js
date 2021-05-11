@@ -1,1 +1,1 @@
-var mnemonic = "pledge disagree cream already oak december portion doctor matrix vendor dove filter";
+var mnemonic = "orphan drop wrist notice banana clip pony security test uncover property churn";

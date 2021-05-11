@@ -1,1 +1,1 @@
-var mnemonic = "rifle dolphin rain scale maid thought appear trophy culture boss soft cotton";
+var mnemonic = "gesture immune bean naive layer weather lunch goose spot popular unhappy maid";

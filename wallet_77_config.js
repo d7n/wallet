@@ -1,1 +1,1 @@
-var mnemonic = "exist rubber save match price true duck near retire six obtain copper";
+var mnemonic = "neither letter indicate squirrel deer provide cabin actor wait divert change labor";

@@ -1,1 +1,1 @@
-var mnemonic = "cost belt intact gadget agent exhaust brisk you protect thumb empower hurry";
+var mnemonic = "element evolve excuse south soft hood logic matrix cupboard front apology remain";

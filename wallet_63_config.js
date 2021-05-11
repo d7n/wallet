@@ -1,1 +1,1 @@
-var mnemonic = "burger happy ticket refuse casual romance client dentist august cream evolve glide";
+var mnemonic = "forget shield various access firm achieve into avoid vehicle similar clock slab";

@@ -1,1 +1,1 @@
-var mnemonic = "tank jaguar pioneer bundle harvest feature script quit agent afford oak clinic";
+var mnemonic = "guess assault kick giant cliff top address warfare mechanic tragic client maximum";

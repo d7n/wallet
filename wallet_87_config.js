@@ -1,1 +1,1 @@
-var mnemonic = "receive alley notable sustain shine toddler peace supply view polar crime suit";
+var mnemonic = "unfold regular submit unfair before main sentence drink page second model spider";

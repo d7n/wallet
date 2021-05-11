@@ -1,1 +1,1 @@
-var mnemonic = "gather floor drive fashion only track since abstract gate ladder ocean announce";
+var mnemonic = "circle sustain brush pluck accuse steak edit time among stick rival unfair";

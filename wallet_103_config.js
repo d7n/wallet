@@ -1,1 +1,1 @@
-var mnemonic = "desk trip ensure bachelor congress soft shy scrap stand item vacuum combine";
+var mnemonic = "option luxury fortune payment curious obscure drum smart banana opinion seat proof";

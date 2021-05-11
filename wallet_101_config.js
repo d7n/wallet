@@ -1,1 +1,1 @@
-var mnemonic = "exist sphere spy gun sweet battle legal prosper another replace release still";
+var mnemonic = "avocado fiscal announce ski mutual task punch abuse amateur arctic neglect near";

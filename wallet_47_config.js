@@ -1,1 +1,1 @@
-var mnemonic = "correct forum stadium fame alley region vocal lecture flag edge shrimp visual";
+var mnemonic = "proof feature kit fitness follow crumble check color develop guard bulk detail";

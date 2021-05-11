@@ -1,1 +1,1 @@
-var mnemonic = "custom crop boil filter earth submit pole found economy decorate tornado elevator";
+var mnemonic = "bachelor loan meadow remember gesture similar thrive wage amused shine actor frame";

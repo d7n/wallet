@@ -1,1 +1,1 @@
-var mnemonic = "salmon real myth sport alien jaguar tired seat burden illness deny pool";
+var mnemonic = "trumpet blind grow brick tiger skate abandon demand scorpion biology bird welcome";

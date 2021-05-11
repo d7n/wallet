@@ -1,1 +1,1 @@
-var mnemonic = "nerve kiss orbit course tape explain tomorrow chaos gentle gentle armor tiny";
+var mnemonic = "strike trumpet shoot window twelve catalog current curious rocket evoke tragic pilot";

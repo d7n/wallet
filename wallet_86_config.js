@@ -1,1 +1,1 @@
-var mnemonic = "foil cactus eager any battle notable dune egg measure drama update swap";
+var mnemonic = "media second ramp rug token ball false another match demand cook clown";

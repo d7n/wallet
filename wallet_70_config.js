@@ -1,1 +1,1 @@
-var mnemonic = "manual pet chunk intact camp water display remain curious vague conduct business";
+var mnemonic = "base income cause rocket cement thing jump drip coast border height approve";

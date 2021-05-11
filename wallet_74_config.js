@@ -1,1 +1,1 @@
-var mnemonic = "extend amazing urban material tip february relax resource renew assume express cherry";
+var mnemonic = "cliff follow give strike tray salute enforce such wealth enjoy flight hour";

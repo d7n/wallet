@@ -1,1 +1,1 @@
-var mnemonic = "earn exact duck wrist witness soccer head work observe carry fish clip";
+var mnemonic = "dice chronic where aerobic travel basket tide nominee feel calm floor twenty";

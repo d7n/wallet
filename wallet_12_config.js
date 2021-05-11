@@ -1,1 +1,1 @@
-var mnemonic = "grid carpet spice giggle supply swap evil wreck fix hotel rely worth";
+var mnemonic = "beauty organ poem plastic inmate cloud layer cause remove head involve spawn";

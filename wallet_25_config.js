@@ -1,1 +1,1 @@
-var mnemonic = "empower poem ceiling second banana artwork gold rich rare woman genuine truck";
+var mnemonic = "orbit flock when manage kiwi increase crop teach fly rigid expire silly";

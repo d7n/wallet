@@ -1,1 +1,1 @@
-var mnemonic = "crash helmet teach poverty weasel pole conduct barrel noise old lamp craft";
+var mnemonic = "kiss spice neutral vibrant impact urge jump divorce then heavy simple liquid";

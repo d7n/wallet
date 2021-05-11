@@ -1,1 +1,1 @@
-var mnemonic = "waste between suspect addict visual repair chair negative anchor weasel buzz duty";
+var mnemonic = "share tag crunch tilt label sand magic ritual organ neither abandon dry";

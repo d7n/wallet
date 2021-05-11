@@ -1,1 +1,1 @@
-var mnemonic = "cannon artist upset vehicle spawn rather snow heavy trouble peasant floor satoshi";
+var mnemonic = "coral exercise panel fragile glow output fox change fluid just cause embark";

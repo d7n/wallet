@@ -1,1 +1,1 @@
-var mnemonic = "item width three ugly submit wasp what involve shell garden tube lumber";
+var mnemonic = "control circle sniff verify borrow portion slim indicate magnet question goddess accident";

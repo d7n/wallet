@@ -1,1 +1,1 @@
-var mnemonic = "until lucky work broom utility coast case common hat symbol produce torch";
+var mnemonic = "scorpion guitar name unknown spray bless alcohol add stock still stairs neutral";

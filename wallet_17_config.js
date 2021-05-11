@@ -1,1 +1,1 @@
-var mnemonic = "stock limb involve south wood beauty safe record among ugly comfort sauce";
+var mnemonic = "entire ten able crawl man bus defy window inspire discover thought clerk";

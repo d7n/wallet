@@ -1,1 +1,1 @@
-var mnemonic = "angry sponsor divorce donkey color place exile flock rent deputy protect segment";
+var mnemonic = "silly insane dinosaur winner myself bulk parade negative smoke frost slide fiber";

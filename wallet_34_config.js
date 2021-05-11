@@ -1,1 +1,1 @@
-var mnemonic = "network expect coil mix dutch poverty tuna brisk force balance option dirt";
+var mnemonic = "adjust mom palm brisk plate diet urge firm pepper upper garment steel";

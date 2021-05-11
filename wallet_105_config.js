@@ -1,1 +1,1 @@
-var mnemonic = "thumb accuse slim chase finish clock demise borrow oxygen reflect face beyond";
+var mnemonic = "join best claim ill early lottery problem pledge usual beyond crouch text";

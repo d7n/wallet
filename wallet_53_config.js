@@ -1,1 +1,1 @@
-var mnemonic = "bullet buddy wet exclude please glance detect melody fantasy broccoli sword shop";
+var mnemonic = "fence stay purpose actor shed squeeze salmon girl trash habit enact oppose";

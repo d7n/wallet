@@ -1,1 +1,1 @@
-var mnemonic = "major pet art plug case cannon snack breeze hold february young squeeze";
+var mnemonic = "inflict gain own vast artefact verb always pride menu thunder rude total";

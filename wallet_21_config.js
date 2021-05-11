@@ -1,1 +1,1 @@
-var mnemonic = "clog squeeze steel book blur length laugh river hope echo session title";
+var mnemonic = "symbol dial mix short aim fold cube about hidden blouse ring curious";

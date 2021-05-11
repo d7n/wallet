@@ -1,1 +1,1 @@
-var mnemonic = "exhaust unique behave chuckle help host acoustic state blush shiver rebel argue";
+var mnemonic = "pioneer glimpse mandate clever steel estate farm cheap violin sad blood lemon";

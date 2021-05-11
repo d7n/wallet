@@ -1,1 +1,1 @@
-var mnemonic = "diagram brown razor crowd absent rigid horror patrol ride grief domain erosion";
+var mnemonic = "real honey transfer uncle whale swift crater sentence vapor north coyote mystery";

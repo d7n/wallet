@@ -1,1 +1,1 @@
-var mnemonic = "draw song soldier beach mention multiply thought room mimic clump interest snack";
+var mnemonic = "mango guide gown sign love focus broken torch aunt mesh sunny blast";

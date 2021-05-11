@@ -1,1 +1,1 @@
-var mnemonic = "slogan lottery bargain muffin clock cause almost skirt evoke achieve gain rebuild";
+var mnemonic = "input cart tree income can syrup awake you dutch flee ride giggle";

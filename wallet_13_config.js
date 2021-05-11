@@ -1,1 +1,1 @@
-var mnemonic = "bamboo promote satoshi park elder gap decade fun leader toddler add calm";
+var mnemonic = "fire aerobic valid satoshi pair party royal trend style birth fix valley";
