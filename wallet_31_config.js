@@ -1,1 +1,1 @@
-var mnemonic = "bus top express wink warm exist lemon fever banner primary humble boy";
+var mnemonic = "avoid kit umbrella token lift habit across shield layer truly report mixture";

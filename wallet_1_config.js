@@ -1,1 +1,1 @@
-var mnemonic = "infant cabbage junior oyster differ bleak wise whale sadness decade benefit win";
+var mnemonic = "blush cup either attitude afford any junior spell oil outside pony school";

@@ -1,1 +1,1 @@
-var mnemonic = "glad cage symptom firm brass bind figure stem lucky neutral fuel scatter";
+var mnemonic = "mosquito spare cereal shock wise glad salt unveil remember defy fence elegant";

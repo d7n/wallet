@@ -1,1 +1,1 @@
-var mnemonic = "erase hub sell prevent payment viable old marine skirt gospel venue salt";
+var mnemonic = "adapt bottom hurdle law entire width corn palm plate monitor fortune auto";

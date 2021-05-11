@@ -1,1 +1,1 @@
-var mnemonic = "rotate praise test below among whisper inspire bronze above half identify stamp";
+var mnemonic = "rich vehicle card milk tunnel voice almost thought color talent sick online";

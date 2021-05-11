@@ -1,1 +1,1 @@
-var mnemonic = "false patrol lecture roof mind fashion canyon express odor nose jump rib";
+var mnemonic = "badge stock decline check typical over hobby jelly hybrid token habit stuff";

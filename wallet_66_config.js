@@ -1,1 +1,1 @@
-var mnemonic = "eagle gentle orchard leg oak symbol dinner budget practice sign layer onion";
+var mnemonic = "that own slim where nurse result depend humor perfect mail blossom nephew";

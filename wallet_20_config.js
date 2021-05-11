@@ -1,1 +1,1 @@
-var mnemonic = "pear west defense gain combine choose sea chalk parade baby manage thrive";
+var mnemonic = "odor gate tattoo property fame basket canoe remove radar little legal edit";

@@ -1,1 +1,1 @@
-var mnemonic = "barely staff major uncle soul author panel library jacket bubble cereal junk";
+var mnemonic = "elephant hover early payment scare bachelor sting media arrow bunker walnut energy";

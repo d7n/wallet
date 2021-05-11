@@ -1,1 +1,1 @@
-var mnemonic = "wonder vicious forest hard liberty people fury mammal try tuition habit industry";
+var mnemonic = "disorder poet innocent refuse erupt situate hello exotic sample tape ask stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle speed depend benefit forum warrior into mango famous creek between diagram";
+var mnemonic = "tip puzzle trophy brass range onion drive corn loud scan chicken that";

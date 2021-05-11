@@ -1,1 +1,1 @@
-var mnemonic = "luxury phone knock lion rare mistake rotate update speak message effort art";
+var mnemonic = "lizard outside awkward grocery adapt brass vicious catch also cram verify expose";

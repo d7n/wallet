@@ -1,1 +1,1 @@
-var mnemonic = "book oak one squeeze kangaroo clay monster hole diesel transfer rival gallery";
+var mnemonic = "flock remain ecology actress depend organ upon approve thank cargo gadget wear";

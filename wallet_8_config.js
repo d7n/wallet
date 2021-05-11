@@ -1,1 +1,1 @@
-var mnemonic = "still square general void actual welcome above polar expand garment praise tourist";
+var mnemonic = "flat forward divorce thing hospital adult project rotate tattoo polar together comfort";

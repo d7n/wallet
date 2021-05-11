@@ -1,1 +1,1 @@
-var mnemonic = "stumble bitter ivory alter embrace forget much shadow fatal code hamster swift";
+var mnemonic = "umbrella enroll unit wolf defense prevent boy enough humble draw relax sing";

@@ -1,1 +1,1 @@
-var mnemonic = "license unveil rabbit frequent knife amused wave super life civil hammer else";
+var mnemonic = "tag before confirm genius service ozone cousin patch unaware chuckle gasp refuse";

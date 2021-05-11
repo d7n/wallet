@@ -1,1 +1,1 @@
-var mnemonic = "gorilla lumber remind elegant spread popular push only label hub mesh tree";
+var mnemonic = "volume girl excuse drill neglect leader answer weekend present gesture retire usual";

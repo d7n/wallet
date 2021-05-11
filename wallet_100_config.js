@@ -1,1 +1,1 @@
-var mnemonic = "rotate cinnamon boat wood apology crucial book upper disease act lesson board";
+var mnemonic = "carpet erupt noodle render hotel crush foster remind crime battle dune insect";

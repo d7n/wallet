@@ -1,1 +1,1 @@
-var mnemonic = "trash tragic choose dice noodle awful basket quote liquid title come pioneer";
+var mnemonic = "teach fault discover furnace gown pizza injury blossom normal demise jaguar lens";

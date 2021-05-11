@@ -1,1 +1,1 @@
-var mnemonic = "permit oil vessel polar coconut grace diesel bag expand waste input similar";
+var mnemonic = "hero fetch spider word isolate shaft point allow blouse blue three crucial";

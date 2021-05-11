@@ -1,1 +1,1 @@
-var mnemonic = "spice gospel conduct solid version mix grass budget unit end clog near";
+var mnemonic = "happy once dynamic pig public attack cycle camp biology wish work fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate hip power crop upset fever wisdom fruit insane glow mobile health";
+var mnemonic = "garlic radar castle require month flip merry material force diet route outdoor";

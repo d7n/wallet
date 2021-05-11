@@ -1,1 +1,1 @@
-var mnemonic = "shop excuse cluster mammal moment motor project economy regret nature accuse cat";
+var mnemonic = "tomato diesel detect truly food three gap message caught congress device winner";

@@ -1,1 +1,1 @@
-var mnemonic = "pull potato denial evil regret inner broccoli find stuff follow giggle inquiry";
+var mnemonic = "moral ready token genius outer distance lizard shoot check chair surround control";

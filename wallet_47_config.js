@@ -1,1 +1,1 @@
-var mnemonic = "arrive pond mesh solution mixed cake bleak birth ripple vessel version olive";
+var mnemonic = "tiger swap cube forest squeeze join private domain siren vivid exile spare";

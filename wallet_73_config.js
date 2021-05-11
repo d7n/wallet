@@ -1,1 +1,1 @@
-var mnemonic = "answer year pill blush sell pill anchor street blossom that diary merry";
+var mnemonic = "maid stem arrest marine latin hood scrub head sound document ginger column";

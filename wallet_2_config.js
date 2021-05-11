@@ -1,1 +1,1 @@
-var mnemonic = "soccer way image rescue leave total salute tourist achieve mixed dream dog";
+var mnemonic = "curious notice update prevent tone cash orange simple few invest express museum";

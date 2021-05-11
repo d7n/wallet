@@ -1,1 +1,1 @@
-var mnemonic = "avocado proud lounge sword any funny great grass code receive identify worry";
+var mnemonic = "pipe pact reward fantasy negative airport weasel oak consider walk track gate";

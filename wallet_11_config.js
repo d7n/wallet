@@ -1,1 +1,1 @@
-var mnemonic = "panther kangaroo judge middle fossil shoulder auto body super oyster salt erupt";
+var mnemonic = "evoke earn there author chest reject dwarf flight average liquid present pear";

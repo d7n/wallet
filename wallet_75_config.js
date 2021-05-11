@@ -1,1 +1,1 @@
-var mnemonic = "bunker sound spike tired this wise duck index utility exotic ice blossom";
+var mnemonic = "fence begin produce corn often midnight science day ordinary shed fan corn";

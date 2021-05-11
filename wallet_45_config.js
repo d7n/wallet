@@ -1,1 +1,1 @@
-var mnemonic = "solution kid chunk punch yellow appear idea capital slab alert budget fat";
+var mnemonic = "elbow copy again cruise despair love struggle normal lemon rebuild bulk radar";

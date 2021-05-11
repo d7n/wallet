@@ -1,1 +1,1 @@
-var mnemonic = "hour rigid super eyebrow vault weekend elevator meat glare robust used mouse";
+var mnemonic = "concert author baby derive photo ritual lazy tower hope exotic punch organ";

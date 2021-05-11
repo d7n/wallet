@@ -1,1 +1,1 @@
-var mnemonic = "garden wrap spoon sudden column borrow gadget risk festival drop tragic relax";
+var mnemonic = "athlete lion trend fragile subway flip remove involve asset coach solution purse";

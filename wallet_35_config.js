@@ -1,1 +1,1 @@
-var mnemonic = "garden luggage basic junior disagree orbit portion mention army gossip erode major";
+var mnemonic = "throw daring solution atom aunt prize chicken truly game area start close";

@@ -1,1 +1,1 @@
-var mnemonic = "trap obtain alert apple web shadow poem border parrot profit cotton fabric";
+var mnemonic = "funny tell fault afraid prefer again color travel thrive taxi umbrella invest";

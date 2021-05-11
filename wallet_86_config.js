@@ -1,1 +1,1 @@
-var mnemonic = "skill harsh mandate mule keep crack fiber media bus napkin fire agent";
+var mnemonic = "traffic estate gap again lawsuit behind ask hip quality cream hospital bunker";

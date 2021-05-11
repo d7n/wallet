@@ -1,1 +1,1 @@
-var mnemonic = "drop planet same toss wash frown husband close gallery habit position loyal";
+var mnemonic = "emerge hazard soft crunch myself idea update machine region poverty stool view";

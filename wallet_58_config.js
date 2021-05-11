@@ -1,1 +1,1 @@
-var mnemonic = "change improve almost provide speak van mother sudden spare picnic fall mistake";
+var mnemonic = "unknown color tribe banner art fruit diamond purpose calm giggle express oppose";

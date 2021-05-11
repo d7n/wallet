@@ -1,1 +1,1 @@
-var mnemonic = "match wealth holiday used feel shine ivory under guilt quit now fancy";
+var mnemonic = "correct flat trumpet evidence panther tiny garbage movie crane void clump jump";

@@ -1,1 +1,1 @@
-var mnemonic = "between wide time escape raven retreat flush lunch toy buddy bike sausage";
+var mnemonic = "jeans gown bring deposit stamp grit volume kitten prosper question category goddess";

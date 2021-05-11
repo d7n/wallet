@@ -1,1 +1,1 @@
-var mnemonic = "sunset ethics light syrup gorilla renew fresh badge youth trust winter dragon";
+var mnemonic = "napkin rally tray obey million someone hen return raccoon uncover together gun";

@@ -1,1 +1,1 @@
-var mnemonic = "venue plate common dog large wheel replace you unveil like village nest";
+var mnemonic = "crumble point illegal tribe wait motion future flavor project remove belt armed";

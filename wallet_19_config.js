@@ -1,1 +1,1 @@
-var mnemonic = "finger luggage venue stand debris begin unable floor banana item gauge exist";
+var mnemonic = "drill shoe gesture renew neither sail front drum crime face sort kit";

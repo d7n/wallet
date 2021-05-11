@@ -1,1 +1,1 @@
-var mnemonic = "alley hammer monitor oven wage emerge engage twelve leisure first popular obscure";
+var mnemonic = "cricket allow regret jewel test ostrich obscure insect dinner reunion doctor type";

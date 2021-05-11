@@ -1,1 +1,1 @@
-var mnemonic = "board success fruit silk tourist saddle test tilt expire kingdom correct dance";
+var mnemonic = "frost brick bargain churn east glue cycle left tomato fantasy beauty snow";

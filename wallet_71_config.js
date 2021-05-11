@@ -1,1 +1,1 @@
-var mnemonic = "lady opinion bacon ankle trick swallow piece wage elegant coast grid repair";
+var mnemonic = "naive photo helmet achieve season topic embrace scrap blur tube menu dream";

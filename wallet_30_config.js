@@ -1,1 +1,1 @@
-var mnemonic = "bless donor buzz mom soft wait mistake ten memory web clump truly";
+var mnemonic = "observe ready buzz jar erase mansion paddle squeeze plunge helmet amount junk";

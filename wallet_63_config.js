@@ -1,1 +1,1 @@
-var mnemonic = "scan pig assume announce tag bring nation multiply artist thumb guard donor";
+var mnemonic = "question pact creek emerge affair reunion actual surround track bronze mercy banner";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket lounge tomorrow object table kit shoe edge layer guide host small";
+var mnemonic = "symbol tonight turtle expose such safe table proud slide awkward weasel shrug";

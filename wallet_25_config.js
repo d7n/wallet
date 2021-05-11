@@ -1,1 +1,1 @@
-var mnemonic = "view pledge curious priority crime area test breeze earth glide arctic track";
+var mnemonic = "pole country confirm anchor imitate toast sauce inherit kitchen add victory hat";

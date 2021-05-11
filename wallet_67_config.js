@@ -1,1 +1,1 @@
-var mnemonic = "host okay brick baby before core step feature useless kit ordinary double";
+var mnemonic = "symptom warfare blanket wagon wise project fresh copy hover they setup wool";

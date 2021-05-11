@@ -1,1 +1,1 @@
-var mnemonic = "digital direct own common salon basic play shift speak mouse lock diary";
+var mnemonic = "pill main payment silver script license arch language region debris job apart";

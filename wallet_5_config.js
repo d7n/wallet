@@ -1,1 +1,1 @@
-var mnemonic = "kick unable front staff soldier idea sort lamp unaware vapor soccer tray";
+var mnemonic = "defy wing paddle fiction pumpkin fiscal purpose service dentist grant cool upset";

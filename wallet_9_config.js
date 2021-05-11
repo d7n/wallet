@@ -1,1 +1,1 @@
-var mnemonic = "blade domain isolate orchard possible actor turkey solid garage excuse school dismiss";
+var mnemonic = "helmet mixed fuel fame muscle merry foster find benefit vapor paddle mix";

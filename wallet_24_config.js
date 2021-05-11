@@ -1,1 +1,1 @@
-var mnemonic = "damage name analyst awake analyst carbon cushion tree illness absurd tattoo wish";
+var mnemonic = "tent belt asset claw install retreat model attitude truly awesome farm clay";

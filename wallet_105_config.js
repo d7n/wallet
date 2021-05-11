@@ -1,1 +1,1 @@
-var mnemonic = "monster sheriff uniform merit join start review depend siren stomach clock nature";
+var mnemonic = "clever pupil pretty shoe prepare gauge brand rally dry nut giraffe narrow";

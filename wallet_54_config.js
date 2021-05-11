@@ -1,1 +1,1 @@
-var mnemonic = "avocado rely raise foot cage clarify swallow dice ostrich chapter lawsuit sense";
+var mnemonic = "journey amazing tunnel dentist roast eight actress buzz entire alpha item allow";

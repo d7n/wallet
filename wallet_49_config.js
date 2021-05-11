@@ -1,1 +1,1 @@
-var mnemonic = "dish effort label happy sponsor arena dentist term provide gain stay bonus";
+var mnemonic = "stage hedgehog decide rain donkey sunny solid oven adult spoil pelican fork";

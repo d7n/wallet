@@ -1,1 +1,1 @@
-var mnemonic = "ability minor home argue antique marine often someone royal rough second bonus";
+var mnemonic = "soccer organ goat blouse proud illness write riot fatal few labor illness";

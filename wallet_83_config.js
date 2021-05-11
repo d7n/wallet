@@ -1,1 +1,1 @@
-var mnemonic = "drastic gauge space little odor poverty never west boy heavy endless addict";
+var mnemonic = "intact kangaroo keep coral spare normal task arena taxi unique aunt survey";

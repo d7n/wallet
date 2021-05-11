@@ -1,1 +1,1 @@
-var mnemonic = "movie manage fringe column rally rack vocal weapon frozen now brown finger";
+var mnemonic = "yellow calm pattern stand acoustic solution miss either vacant body sheriff strategy";

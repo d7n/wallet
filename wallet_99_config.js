@@ -1,1 +1,1 @@
-var mnemonic = "lift blush fit guard famous fish square busy educate shoot uphold fame";
+var mnemonic = "bid then wool since find saddle acid achieve quote tongue hand axis";

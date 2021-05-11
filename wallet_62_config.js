@@ -1,1 +1,1 @@
-var mnemonic = "term venture sauce bread fuel hurdle steel output fatal farm cart garage";
+var mnemonic = "elder hurt silk like leave auction away gravity caution blanket diesel happy";

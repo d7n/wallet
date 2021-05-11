@@ -1,1 +1,1 @@
-var mnemonic = "tragic salute antenna return system extra scare crack visa avocado race kitchen";
+var mnemonic = "human diary saddle basket cross benefit quality capable great spoil blood slot";

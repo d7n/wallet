@@ -1,1 +1,1 @@
-var mnemonic = "veteran broccoli bag post fabric approve piano valid paddle bamboo clinic girl";
+var mnemonic = "photo amount ask tiny shop dial limit grit win orphan sell tunnel";

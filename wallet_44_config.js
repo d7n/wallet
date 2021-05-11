@@ -1,1 +1,1 @@
-var mnemonic = "bargain screen reform just ecology demand exchange peasant soon panel okay frog";
+var mnemonic = "similar wedding neutral pluck frown desk traffic sample swarm plate patrol tired";

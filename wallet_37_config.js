@@ -1,1 +1,1 @@
-var mnemonic = "knife basket page bitter pitch deliver twenty alien ten thought eye keen";
+var mnemonic = "legal squirrel odor puppy wrong enrich horror unaware venue myself craft device";

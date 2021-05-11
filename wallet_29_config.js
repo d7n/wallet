@@ -1,1 +1,1 @@
-var mnemonic = "unveil celery remember clay useful unfold subway hotel state twin result trophy";
+var mnemonic = "hill ice lens chapter scale glass layer afraid local label demand monitor";

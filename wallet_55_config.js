@@ -1,1 +1,1 @@
-var mnemonic = "tennis jungle uncle catch kind lunar begin like soccer slogan chaos client";
+var mnemonic = "accident clarify moral violin tree laptop shuffle claim jump zebra fatal fan";

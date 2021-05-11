@@ -1,1 +1,1 @@
-var mnemonic = "vast frown plunge crack bar permit myth fault swear pool judge brave";
+var mnemonic = "today uniform essence industry dragon payment impose innocent strike idle neck scene";

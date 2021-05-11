@@ -1,1 +1,1 @@
-var mnemonic = "give cook cage aunt quit hawk kitchen outside dawn symptom frog rebel";
+var mnemonic = "update six swear random flower moment budget artist evoke kingdom disagree spy";

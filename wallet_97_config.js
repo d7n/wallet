@@ -1,1 +1,1 @@
-var mnemonic = "salmon wing alpha drama inside letter pipe scheme clever collect forget system";
+var mnemonic = "logic employ picnic brisk barrel erosion rigid token expect merge urban arch";

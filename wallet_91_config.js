@@ -1,1 +1,1 @@
-var mnemonic = "umbrella nothing replace address pyramid boil room goose give guess senior lounge";
+var mnemonic = "vibrant system welcome audit wheat lottery black onion access fortune emotion beauty";

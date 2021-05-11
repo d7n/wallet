@@ -1,1 +1,1 @@
-var mnemonic = "ramp tip mass enjoy turkey carpet despair mushroom lobster vanish skate shallow";
+var mnemonic = "police seat fiscal update mansion unable wood cute tenant control glory describe";

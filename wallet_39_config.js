@@ -1,1 +1,1 @@
-var mnemonic = "output custom just doctor exchange life tonight that scare bundle hawk inherit";
+var mnemonic = "media punch shell virtual drama forest youth box napkin hip pilot swing";

@@ -1,1 +1,1 @@
-var mnemonic = "giant spin analyst aspect journey flight write capable hover lawn hedgehog stumble";
+var mnemonic = "expect muscle drop ocean raise course disagree stumble attack raven already stay";

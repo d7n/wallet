@@ -1,1 +1,1 @@
-var mnemonic = "tilt extend label mad segment upgrade coconut misery amount around shine flat";
+var mnemonic = "more intact danger salt gravity trust hold ethics tongue merry satoshi expose";

@@ -1,1 +1,1 @@
-var mnemonic = "hold throw cattle glue congress clean sun cat surround fade scheme expect";
+var mnemonic = "feature awful student rich trim frown sister pistol accuse dutch kitchen patient";

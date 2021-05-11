@@ -1,1 +1,1 @@
-var mnemonic = "online setup dignity evidence damage hospital gain apple vivid spot load such";
+var mnemonic = "cake ship valve little bone margin torch series warrior sausage robust manual";

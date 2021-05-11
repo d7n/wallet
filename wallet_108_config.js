@@ -1,1 +1,1 @@
-var mnemonic = "state chunk pyramid soup assist tackle myth struggle arrest nature bargain business";
+var mnemonic = "kick cash gift gaze arrow orange across aware grid vessel predict olive";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn bitter fall champion token produce lock liberty electric rebel interest gate";
+var mnemonic = "vacuum just leaf moment monster flame video prosper crisp lion dose into";

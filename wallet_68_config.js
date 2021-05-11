@@ -1,1 +1,1 @@
-var mnemonic = "avocado frown admit flight seek wait morning devote unique nature tumble latin";
+var mnemonic = "original execute toilet sun similar soft people fun trust vibrant energy output";

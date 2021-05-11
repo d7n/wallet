@@ -1,1 +1,1 @@
-var mnemonic = "patch broken much possible scrap stone picnic scissors glass day cigar suffer";
+var mnemonic = "pet shrug dress loud upgrade song scissors innocent clerk eagle warfare open";

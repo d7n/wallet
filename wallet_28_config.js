@@ -1,1 +1,1 @@
-var mnemonic = "borrow copy doll sight session random gadget bridge buzz photo prosper party";
+var mnemonic = "core upper suffer rally neither pupil sketch drill garden amused mean social";

@@ -1,1 +1,1 @@
-var mnemonic = "drink wait garment essay right poet appear title wire endless elevator candy";
+var mnemonic = "salute express punch body runway swamp slot bicycle then punch enter junk";
