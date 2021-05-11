@@ -1,1 +1,1 @@
-var mnemonic = "rate grass input curve cliff speak danger cause color element vault hurry";
+var mnemonic = "sun wise average anger minor vast wealth hidden become milk dog step";

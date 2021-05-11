@@ -1,1 +1,1 @@
-var mnemonic = "genius news guilt clutch negative pitch uphold denial final gentle valve result";
+var mnemonic = "obtain trophy gesture silent ranch vivid random ring isolate tank cover edit";

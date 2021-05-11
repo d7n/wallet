@@ -1,1 +1,1 @@
-var mnemonic = "brand inherit document keen midnight replace need buzz vast alert eyebrow tone";
+var mnemonic = "can audit protect vague head inside bike forward snake surge spread merry";

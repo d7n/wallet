@@ -1,1 +1,1 @@
-var mnemonic = "hungry wife degree welcome purse bread wait work climb huge shop load";
+var mnemonic = "side slight mean salad gloom dash february emerge cage resist sick syrup";

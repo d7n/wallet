@@ -1,1 +1,1 @@
-var mnemonic = "route zoo together quote olympic dad comfort sell cram umbrella welcome plug";
+var mnemonic = "fine slide measure celery snake before labor early often switch zero hurdle";

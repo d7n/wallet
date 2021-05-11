@@ -1,1 +1,1 @@
-var mnemonic = "major gate narrow brief edit rescue regret steel idea over million salt";
+var mnemonic = "exist alpha any predict turn giggle isolate harvest typical ritual assume teach";

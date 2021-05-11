@@ -1,1 +1,1 @@
-var mnemonic = "churn episode firm problem liquid ridge cousin swallow hobby fragile topic engine";
+var mnemonic = "skill north blouse cruise hybrid amount organ private nuclear security inch before";

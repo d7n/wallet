@@ -1,1 +1,1 @@
-var mnemonic = "drift breeze dose sort upset master thumb patrol emerge rare staff tired";
+var mnemonic = "unit proud praise episode juice behind auction paddle title sock still fire";

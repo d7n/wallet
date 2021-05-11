@@ -1,1 +1,1 @@
-var mnemonic = "sword fringe stone crowd immune ill famous broccoli assault analyst rail jungle";
+var mnemonic = "dish brand prepare sauce unusual dish amateur boost slide jacket gauge rib";

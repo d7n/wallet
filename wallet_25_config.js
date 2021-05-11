@@ -1,1 +1,1 @@
-var mnemonic = "reform spare negative oppose melody world misery execute energy happy indoor universe";
+var mnemonic = "egg table neglect delay visa pond carpet piece opera gloom much chicken";

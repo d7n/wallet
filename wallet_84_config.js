@@ -1,1 +1,1 @@
-var mnemonic = "decide capital fatigue sort lock barrel scan warm camp lottery pyramid ladder";
+var mnemonic = "elephant limb tumble ranch limit trade scheme power prison village van pill";

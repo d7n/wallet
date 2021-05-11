@@ -1,1 +1,1 @@
-var mnemonic = "inherit scatter extend provide rug huge melody prison clog vast rigid peace";
+var mnemonic = "capable violin work orange island dwarf jaguar butter celery athlete language twin";

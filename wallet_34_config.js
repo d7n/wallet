@@ -1,1 +1,1 @@
-var mnemonic = "color recall foam weekend warm jeans helmet weekend safe song eight monitor";
+var mnemonic = "noise little skin despair air build sting must sphere fault dream fragile";

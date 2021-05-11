@@ -1,1 +1,1 @@
-var mnemonic = "stable envelope material media know layer useful gospel steak birth dial interest";
+var mnemonic = "refuse pride isolate fluid puppy link exhibit manual screen cattle release visa";

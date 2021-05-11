@@ -1,1 +1,1 @@
-var mnemonic = "few quality insane usage salt proof note tilt panel depend clarify law";
+var mnemonic = "local hurry pistol then remember deposit radar resist gasp chicken identify uniform";

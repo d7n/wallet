@@ -1,1 +1,1 @@
-var mnemonic = "draw one alter clutch chuckle circle juice regret negative cliff stable jar";
+var mnemonic = "boat fold hundred divert lizard hidden plug off glare play crew junk";

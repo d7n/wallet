@@ -1,1 +1,1 @@
-var mnemonic = "sibling else taste when awake decade ritual trophy fire donor paper present";
+var mnemonic = "warrior soccer resemble thrive disorder goose borrow salute appear bonus whale warfare";

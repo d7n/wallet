@@ -1,1 +1,1 @@
-var mnemonic = "small wheel hundred neutral crisp end govern movie total obtain guilt mask";
+var mnemonic = "celery victory hole cattle seed spike sign current eternal leaf vast bus";

@@ -1,1 +1,1 @@
-var mnemonic = "skill give road practice trigger pitch spy notice moon ribbon lazy uncover";
+var mnemonic = "duck dove express trip pumpkin curtain deny chaos trip danger paddle dumb";

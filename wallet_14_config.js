@@ -1,1 +1,1 @@
-var mnemonic = "sing bird hero spice cream hotel sail athlete mountain ensure decide rich";
+var mnemonic = "usual strategy can leader spot pause chimney dash butter suggest hub protect";

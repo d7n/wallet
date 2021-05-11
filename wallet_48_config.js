@@ -1,1 +1,1 @@
-var mnemonic = "nominee view negative knock black frown basket loud evil rely front duck";
+var mnemonic = "guitar snake random tone own stairs fame ecology logic fuel theory nation";

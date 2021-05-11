@@ -1,1 +1,1 @@
-var mnemonic = "marine army there also history amazing shove actual debate purity erupt inch";
+var mnemonic = "horn shift virtual frequent agent figure elite business woman tattoo position trap";

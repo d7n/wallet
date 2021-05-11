@@ -1,1 +1,1 @@
-var mnemonic = "bottom valid element slogan execute board gallery forget leaf version kidney now";
+var mnemonic = "illegal balance cube lazy cushion sword bike garment common ethics robot motion";

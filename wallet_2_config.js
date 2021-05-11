@@ -1,1 +1,1 @@
-var mnemonic = "lift rude culture enlist payment essence nest purity settle neither guitar endless";
+var mnemonic = "around huge rotate ceiling mandate special slide time nest fine can female";

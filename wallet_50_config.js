@@ -1,1 +1,1 @@
-var mnemonic = "cabin sure near cheap arrow critic wrap drill mimic step surge zone";
+var mnemonic = "hunt tissue come pistol patrol scare crop abstract table gain celery soda";

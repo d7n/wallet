@@ -1,1 +1,1 @@
-var mnemonic = "skill soap deny regular citizen kick skirt catch cotton matter exhibit era";
+var mnemonic = "segment display pudding infant relief version main size earn bread gorilla soda";

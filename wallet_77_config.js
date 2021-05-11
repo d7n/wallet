@@ -1,1 +1,1 @@
-var mnemonic = "vendor marble screen energy make nice budget combine napkin rotate fun day";
+var mnemonic = "horror wasp mutual model oxygen hill copy happy crucial water buffalo april";

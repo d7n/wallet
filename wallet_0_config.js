@@ -1,1 +1,1 @@
-var mnemonic = "praise ignore neither whisper admit ability rally garden veteran cable romance fever";
+var mnemonic = "elegant skin link ecology argue arrow tooth identify plate gown sound armed";

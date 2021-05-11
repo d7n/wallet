@@ -1,1 +1,1 @@
-var mnemonic = "pause summer blood speak unfold dance found hair whale close twice vapor";
+var mnemonic = "chicken slow tattoo kit inch upgrade vague hurdle when rebel sail cream";

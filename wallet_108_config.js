@@ -1,1 +1,1 @@
-var mnemonic = "trip oil birth motor much ivory emerge assume purity shed chimney volcano";
+var mnemonic = "claim october minute snake steak maze thunder math metal across maximum one";

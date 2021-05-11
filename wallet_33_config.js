@@ -1,1 +1,1 @@
-var mnemonic = "second bike burger mammal wage spirit two whale safe squeeze like venture";
+var mnemonic = "remind quote ceiling stay weekend obey notable business april please moral donate";

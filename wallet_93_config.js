@@ -1,1 +1,1 @@
-var mnemonic = "venture tackle emerge frame ceiling curve pitch into cannon atom business symbol";
+var mnemonic = "onion peace cause suggest spawn blouse tongue room act bid digital chef";

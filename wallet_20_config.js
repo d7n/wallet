@@ -1,1 +1,1 @@
-var mnemonic = "solar explain print trade need melt borrow lawsuit green daring powder rain";
+var mnemonic = "tell drop video depth dinosaur response quantum flight timber patch differ hip";

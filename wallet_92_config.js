@@ -1,1 +1,1 @@
-var mnemonic = "sauce jacket liar coin river usual split valve wolf link steak awkward";
+var mnemonic = "solution plunge make tiger mass access twin loyal silent increase forest simple";

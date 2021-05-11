@@ -1,1 +1,1 @@
-var mnemonic = "patient area always concert guess organ soon neither help early segment region";
+var mnemonic = "busy upon budget winner enable repair various owner village quiz rule comfort";

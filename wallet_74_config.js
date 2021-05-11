@@ -1,1 +1,1 @@
-var mnemonic = "alpha garlic axis split rhythm exact kick include someone wonder body educate";
+var mnemonic = "close act sample plug deputy fancy knife life soldier bamboo burger lady";

@@ -1,1 +1,1 @@
-var mnemonic = "same turtle merry amount drill autumn language model room mimic angry flight";
+var mnemonic = "direct still spoil agree suit face ozone wish flock stage aerobic very";

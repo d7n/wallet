@@ -1,1 +1,1 @@
-var mnemonic = "shift master nurse oval law result clinic laundry conduct primary horse eye";
+var mnemonic = "monkey village humor rate neither cause tomato chief awesome inch unfair twist";

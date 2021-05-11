@@ -1,1 +1,1 @@
-var mnemonic = "youth spawn depend arctic potato devote lazy replace pitch common infant sock";
+var mnemonic = "deny across cat bind kit margin kidney doctor shadow stable adapt shrimp";

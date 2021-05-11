@@ -1,1 +1,1 @@
-var mnemonic = "account filter stairs language desk argue labor improve model law desert damp";
+var mnemonic = "theme viable track range axis grow lady spoon divide pupil globe obscure";

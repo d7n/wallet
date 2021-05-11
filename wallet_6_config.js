@@ -1,1 +1,1 @@
-var mnemonic = "crouch barrel ball cube ozone such left squirrel sand kitten afford wolf";
+var mnemonic = "fitness birth hour betray angry arrow devote rare snow prosper lake run";

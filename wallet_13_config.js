@@ -1,1 +1,1 @@
-var mnemonic = "just solution prize hood actor spirit scissors thunder minute achieve play pause";
+var mnemonic = "column urge oxygen soup erupt image sheriff awful expose resist urge payment";

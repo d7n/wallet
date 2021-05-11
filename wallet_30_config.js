@@ -1,1 +1,1 @@
-var mnemonic = "dose arrive pattern split push peasant advice gorilla traffic flash worth lecture";
+var mnemonic = "speak now govern split coin knee scheme keep grocery dolphin car diary";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss dune guard always prevent depend arctic fresh crowd vessel view begin";
+var mnemonic = "blanket welcome marble used notice penalty oxygen tilt tattoo pave father discover";

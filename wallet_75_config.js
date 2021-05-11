@@ -1,1 +1,1 @@
-var mnemonic = "purchase smoke material elevator material salon trap staff stool door heart axis";
+var mnemonic = "lift now current hospital pupil bright ski adjust offer unfair mom fame";

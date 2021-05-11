@@ -1,1 +1,1 @@
-var mnemonic = "axis pepper nephew mix frown type figure diagram shiver door basket frequent";
+var mnemonic = "capable wing gorilla repeat photo input sudden frame miracle harbor stage eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry shiver donkey glass neutral polar trumpet island icon nothing pool dynamic";
+var mnemonic = "receive annual survey crash keen delay shed badge click wolf unit trend";

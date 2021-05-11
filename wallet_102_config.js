@@ -1,1 +1,1 @@
-var mnemonic = "romance vehicle gasp turtle fix outdoor aim dumb deputy general aspect divide";
+var mnemonic = "piano page motor clap rather move other suspect assume gloom abstract worth";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge dice zoo ticket cycle time repeat better test stem suspect empty";
+var mnemonic = "genre eager nest quality duck blind stick month cancel member smile nuclear";

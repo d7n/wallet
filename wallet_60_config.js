@@ -1,1 +1,1 @@
-var mnemonic = "claim sword invite myself blame supreme brief settle right start juice woman";
+var mnemonic = "about swallow turkey shed pipe pass rebuild kid symptom cherry delay blouse";

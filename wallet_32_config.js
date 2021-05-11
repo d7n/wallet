@@ -1,1 +1,1 @@
-var mnemonic = "velvet super increase tell prefer clever unfold glad process question pencil next";
+var mnemonic = "ankle motor menu poem illegal mobile long where jelly dash pottery anxiety";

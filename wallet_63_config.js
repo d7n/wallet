@@ -1,1 +1,1 @@
-var mnemonic = "argue veteran civil undo isolate much corn avoid final step bacon fragile";
+var mnemonic = "brown purity junior remove husband moment sadness wrist dolphin inhale two erase";

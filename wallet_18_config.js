@@ -1,1 +1,1 @@
-var mnemonic = "patch resist marine whip until mule process hover upgrade reveal hen ankle";
+var mnemonic = "giraffe because kid erase caught attract behave glove cattle naive access credit";

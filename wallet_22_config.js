@@ -1,1 +1,1 @@
-var mnemonic = "noble mom lab quick urban inhale faculty miracle amount bargain patient exile";
+var mnemonic = "weird foam tortoise diary enrich gadget grass nephew life grain feed when";

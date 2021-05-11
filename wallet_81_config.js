@@ -1,1 +1,1 @@
-var mnemonic = "seven piece excess awake vacant quality tone act sheriff special pulp pair";
+var mnemonic = "fold protect boil useless faint rent foot limb card harbor scale direct";

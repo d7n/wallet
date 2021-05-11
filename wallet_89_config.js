@@ -1,1 +1,1 @@
-var mnemonic = "thing basket risk mesh crisp duck combine dawn oxygen salon bicycle save";
+var mnemonic = "lumber puppy genuine alter depart wheat green soccer salon spring option world";

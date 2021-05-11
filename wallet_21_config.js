@@ -1,1 +1,1 @@
-var mnemonic = "voice way build matrix option grant supply deposit original grass metal better";
+var mnemonic = "glue child ring dawn celery defy voyage proof crater cook roof answer";

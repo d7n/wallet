@@ -1,1 +1,1 @@
-var mnemonic = "credit settle auction six census quit broom very box already flee burden";
+var mnemonic = "kit cause race portion gossip jealous nerve staff can buffalo grocery soon";

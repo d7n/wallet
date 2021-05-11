@@ -1,1 +1,1 @@
-var mnemonic = "tissue match abstract sauce attend shell asset divide agree swallow among radar";
+var mnemonic = "snack glad sting yard sibling hover among despair mean grass owner enforce";

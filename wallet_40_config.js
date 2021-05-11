@@ -1,1 +1,1 @@
-var mnemonic = "cart dragon execute guard brick dilemma purpose old double drive space faith";
+var mnemonic = "hunt thunder project badge card rough sibling remain update daughter pipe oval";

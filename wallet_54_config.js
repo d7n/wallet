@@ -1,1 +1,1 @@
-var mnemonic = "pet donate century myth control fruit custom thing other either kitchen range";
+var mnemonic = "zero roast replace decide unit edit media salad nature basic shrug pupil";

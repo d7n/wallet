@@ -1,1 +1,1 @@
-var mnemonic = "nephew fiscal evolve distance bonus apart pupil bronze subway virtual wheel piece";
+var mnemonic = "position source wasp upgrade prosper hope income achieve caution envelope scare stove";

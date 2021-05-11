@@ -1,1 +1,1 @@
-var mnemonic = "unit outside still circle spoil desk alone payment drama asset two spare";
+var mnemonic = "runway opinion patch alert forward unique horse antenna bundle blush glide oven";

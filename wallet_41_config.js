@@ -1,1 +1,1 @@
-var mnemonic = "cradle away detail day couch fish circle permit sustain marriage slender hero";
+var mnemonic = "puzzle chuckle rate result runway lobster possible blue flash escape foster forest";

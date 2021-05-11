@@ -1,1 +1,1 @@
-var mnemonic = "thunder silly donate finish diet oblige deer couch foot laundry finish lock";
+var mnemonic = "rocket alpha worth face awesome dawn desk wink seminar chief orchard best";

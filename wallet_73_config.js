@@ -1,1 +1,1 @@
-var mnemonic = "polar treat injury buffalo remain disorder peasant coconut naive stage hire fork";
+var mnemonic = "grace globe six interest thumb fitness page best phrase forum runway impose";

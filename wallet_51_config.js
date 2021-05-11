@@ -1,1 +1,1 @@
-var mnemonic = "reflect final cycle stereo grass donor act donate over credit deposit minor";
+var mnemonic = "ski tide submit gas orange marble spread mistake frequent urban ketchup select";

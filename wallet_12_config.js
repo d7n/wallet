@@ -1,1 +1,1 @@
-var mnemonic = "suit mule point cherry laundry quote analyst fossil beyond begin power pond";
+var mnemonic = "floor virtual adult eye spoil april rapid survey divide knee game affair";

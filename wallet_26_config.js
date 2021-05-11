@@ -1,1 +1,1 @@
-var mnemonic = "sound midnight brother attract oak average pass area cupboard lend vintage whip";
+var mnemonic = "goddess hospital decade injury crazy hamster connect math home bless reopen arrow";

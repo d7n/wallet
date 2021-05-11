@@ -1,1 +1,1 @@
-var mnemonic = "enhance abstract soft orphan liberty govern gloom soda trend industry exhibit message";
+var mnemonic = "labor give pupil present solid snake subway unfair harbor army find orange";

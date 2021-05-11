@@ -1,1 +1,1 @@
-var mnemonic = "cover catalog volcano library scene talent six lucky genre fringe enough walnut";
+var mnemonic = "eye sniff innocent hope cabin trip hill settle pledge yellow scorpion romance";

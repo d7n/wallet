@@ -1,1 +1,1 @@
-var mnemonic = "check stuff swallow rhythm abuse dash lemon sight wing coyote vote stage";
+var mnemonic = "grow budget alley sun rent aerobic grocery isolate craft young rescue weird";

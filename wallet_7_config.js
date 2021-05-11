@@ -1,1 +1,1 @@
-var mnemonic = "year burger foil auction claw battle dry still leader despair couple cat";
+var mnemonic = "scale cook ketchup useless category pistol grunt unhappy doll front win seminar";

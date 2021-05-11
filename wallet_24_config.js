@@ -1,1 +1,1 @@
-var mnemonic = "high corn suspect disorder clarify portion theme concert make bomb step sentence";
+var mnemonic = "blade list symbol pepper advance alarm enrich observe defense curve twice rapid";

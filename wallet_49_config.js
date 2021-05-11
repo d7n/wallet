@@ -1,1 +1,1 @@
-var mnemonic = "safe client demise obey finger quick stone armed blood around fabric sample";
+var mnemonic = "ethics abandon silk wet cave team athlete talent unaware skirt skin build";

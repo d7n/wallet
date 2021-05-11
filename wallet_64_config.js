@@ -1,1 +1,1 @@
-var mnemonic = "crane devote memory lazy horn relax taste scrub calm review critic abuse";
+var mnemonic = "reunion unusual husband thank bunker dawn ahead cross arrest nerve limb submit";

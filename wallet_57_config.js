@@ -1,1 +1,1 @@
-var mnemonic = "horn furnace confirm room siege glue mercy plastic animal impulse stem fringe";
+var mnemonic = "minimum float cage gun gossip scheme rabbit brother anger crazy fancy chicken";

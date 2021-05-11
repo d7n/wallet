@@ -1,1 +1,1 @@
-var mnemonic = "turn below laundry nice jaguar lecture crush keep east bar sorry baby";
+var mnemonic = "ski word name market tongue visa spring palm season boat toward illness";

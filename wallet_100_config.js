@@ -1,1 +1,1 @@
-var mnemonic = "rebel leaf scare curious tattoo vivid virtual limb bid impose motion wisdom";
+var mnemonic = "tragic stand great ghost call bulb state lonely ride receive cup brass";

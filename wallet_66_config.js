@@ -1,1 +1,1 @@
-var mnemonic = "drum current earth liquid moon goat leaf genius lunar fossil artwork cruise";
+var mnemonic = "math six height supreme practice success dinner action abstract search garlic final";

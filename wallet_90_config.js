@@ -1,1 +1,1 @@
-var mnemonic = "escape random unveil dinosaur heart sing capable exact rare resemble more lift";
+var mnemonic = "act recall motion erosion youth floor dinosaur comic mercy pledge vintage upset";

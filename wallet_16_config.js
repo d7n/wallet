@@ -1,1 +1,1 @@
-var mnemonic = "inspire vibrant trust argue enforce busy turn process mixture forget indicate recipe";
+var mnemonic = "game sand tongue during accident concert taxi hint list human initial wasp";

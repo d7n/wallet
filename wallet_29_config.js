@@ -1,1 +1,1 @@
-var mnemonic = "emotion juice soft shuffle canoe fantasy twice curve chef dumb wear miracle";
+var mnemonic = "machine broom visa regret mimic leader tomorrow april amount stairs try text";

@@ -1,1 +1,1 @@
-var mnemonic = "produce lyrics ankle destroy layer diary clap elite club reason final gold";
+var mnemonic = "reveal violin silk usual north goddess loan model shine thought lumber pigeon";

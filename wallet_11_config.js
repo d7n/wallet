@@ -1,1 +1,1 @@
-var mnemonic = "exercise dance quiz ceiling crucial sweet naive wall banana equip universe until";
+var mnemonic = "audit latin damp age middle school worth cost chuckle ghost apart dynamic";

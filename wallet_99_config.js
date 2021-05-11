@@ -1,1 +1,1 @@
-var mnemonic = "island sure ready chunk skirt canal flash depend number truth when pulse";
+var mnemonic = "march century traffic youth weird course drift kiwi company nation track sight";

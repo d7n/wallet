@@ -1,1 +1,1 @@
-var mnemonic = "affair cannon decade this minute differ brown found vague dash wrestle excess";
+var mnemonic = "believe couple control skirt zebra gloom tribe cross execute rude reunion glow";

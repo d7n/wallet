@@ -1,1 +1,1 @@
-var mnemonic = "powder love switch melt word athlete pottery pumpkin mesh find orbit trend";
+var mnemonic = "furnace save vivid wife employ company toilet cabbage refuse genius injury misery";

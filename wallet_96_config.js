@@ -1,1 +1,1 @@
-var mnemonic = "bonus total seek canyon draft depend border flame bachelor once roof choice";
+var mnemonic = "ship naive inject tissue toddler hood goose cause kiss title smoke cricket";

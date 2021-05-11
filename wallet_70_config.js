@@ -1,1 +1,1 @@
-var mnemonic = "reflect move axis base add rent produce city science token tilt roast";
+var mnemonic = "unfair glow admit wrong noble dolphin antique cargo real lucky system certain";

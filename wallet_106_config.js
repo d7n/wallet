@@ -1,1 +1,1 @@
-var mnemonic = "early found strategy lonely sting parrot eight lake start movie consider alone";
+var mnemonic = "coach strike switch convince shock ring buddy fold addict civil miss round";

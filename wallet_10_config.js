@@ -1,1 +1,1 @@
-var mnemonic = "trick beef nurse coin transfer dawn happy enemy way grow inflict donor";
+var mnemonic = "insane head panda fox banana couple alter diamond afford carry valve august";

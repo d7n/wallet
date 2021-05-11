@@ -1,1 +1,1 @@
-var mnemonic = "umbrella device toss argue cloud dog siege pencil add blouse engine click";
+var mnemonic = "change slice loud version all pony year man master pistol enough replace";

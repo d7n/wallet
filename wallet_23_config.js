@@ -1,1 +1,1 @@
-var mnemonic = "sea grit quote vast require scout citizen century swift flash body want";
+var mnemonic = "couch asset lizard dizzy exercise obscure round crisp power load trick rare";

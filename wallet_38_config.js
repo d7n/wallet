@@ -1,1 +1,1 @@
-var mnemonic = "assault pencil dial twist quality great crunch fortune resist faint enhance hundred";
+var mnemonic = "piano vehicle love express census please fitness saddle civil win analyst unknown";

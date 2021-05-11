@@ -1,1 +1,1 @@
-var mnemonic = "castle future scheme level bid height unhappy side bounce also access ritual";
+var mnemonic = "success hero horror behave spin true kitten crucial era all fault husband";

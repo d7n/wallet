@@ -1,1 +1,1 @@
-var mnemonic = "already lady knife honey curve jungle enemy client survey rib matrix load";
+var mnemonic = "shove merit jacket say fog regret upper eagle uphold annual coyote goddess";

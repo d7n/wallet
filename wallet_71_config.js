@@ -1,1 +1,1 @@
-var mnemonic = "topple absent strategy size visual lesson jealous voyage federal scorpion food method";
+var mnemonic = "glad high pony buyer pudding moon about snap glare satisfy hamster bike";

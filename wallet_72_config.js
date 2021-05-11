@@ -1,1 +1,1 @@
-var mnemonic = "guess misery wedding bag width misery custom coil yard build staff chief";
+var mnemonic = "aware repair gesture trash arrest arrest verb client aim fragile jacket thrive";

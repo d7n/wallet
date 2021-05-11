@@ -1,1 +1,1 @@
-var mnemonic = "venue course fatal cable blade jaguar piano gym april summer rate salt";
+var mnemonic = "brother cram speak matrix error embody aunt lend news bacon amazing supreme";
