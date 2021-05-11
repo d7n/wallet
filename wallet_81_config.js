@@ -1,1 +1,1 @@
-var mnemonic = "carpet crack vacant seminar improve pledge rotate ring drastic across merry goose";
+var mnemonic = "tonight mixed alter absurd juice frozen proud call panda receive enemy energy";

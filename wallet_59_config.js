@@ -1,1 +1,1 @@
-var mnemonic = "juice afford round illness sister soap enemy spoil army beyond ice clog";
+var mnemonic = "sphere jump earth wire cinnamon cliff brass stone betray sphere banner yard";

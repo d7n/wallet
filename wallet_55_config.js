@@ -1,1 +1,1 @@
-var mnemonic = "one lesson dignity remind oppose trigger piano master judge regular market april";
+var mnemonic = "smoke vessel script guide banner skull viable injury lock roast under limb";

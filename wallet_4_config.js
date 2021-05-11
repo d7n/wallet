@@ -1,1 +1,1 @@
-var mnemonic = "elegant scale head spin bar bubble title steel orbit supreme fence crucial";
+var mnemonic = "young powder waste wrestle elegant glide thing describe copy casino hint just";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion size cliff grass ensure move series name quiz guess laptop glad";
+var mnemonic = "health manual tunnel hurt bachelor match model addict clever excess today convince";

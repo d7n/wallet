@@ -1,1 +1,1 @@
-var mnemonic = "assist tide inquiry icon body valve make soap swamp garment garage cup";
+var mnemonic = "link pupil sweet best scene history analyst cancel minute parent connect inflict";

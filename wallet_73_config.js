@@ -1,1 +1,1 @@
-var mnemonic = "siege super arrange input private garage rebel disagree tuition indicate purity snow";
+var mnemonic = "nice bone vacuum saddle nurse inmate parrot orchard wide era grace gallery";

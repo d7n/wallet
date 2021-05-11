@@ -1,1 +1,1 @@
-var mnemonic = "waste mango always sight street permit rival diagram brush kit churn secret";
+var mnemonic = "exile decade bulk found snap endless involve notice idea large problem ladder";

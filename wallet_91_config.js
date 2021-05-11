@@ -1,1 +1,1 @@
-var mnemonic = "reveal lock apart wreck retreat rent junior drift force loyal child limb";
+var mnemonic = "shy cave pilot solar elevator provide original south model verb agent erosion";

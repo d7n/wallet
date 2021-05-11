@@ -1,1 +1,1 @@
-var mnemonic = "trouble camp prevent gun rebuild cup boss armor promote execute tower side";
+var mnemonic = "energy uncle hazard swear scout best jungle brand jelly grain expose ten";

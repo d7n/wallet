@@ -1,1 +1,1 @@
-var mnemonic = "cushion plate polar tobacco imitate valid cart minimum canvas oak craft pool";
+var mnemonic = "blouse race obtain dinner churn craft pony fit melt quantum curve put";

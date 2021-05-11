@@ -1,1 +1,1 @@
-var mnemonic = "parade fever diagram wagon discover course pigeon canvas artwork birth inflict human";
+var mnemonic = "strike eager situate change depend mask same shoe thunder mom long evil";

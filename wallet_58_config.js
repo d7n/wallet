@@ -1,1 +1,1 @@
-var mnemonic = "clown teach series install assault nasty surprise fade crisp dumb project degree";
+var mnemonic = "lens tag space sentence crystal because adapt language about resource ordinary pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter boring harvest meat drama eager coin pole mother ripple stairs give";
+var mnemonic = "two atom question tent aunt birth canoe dry pig wasp woman appear";

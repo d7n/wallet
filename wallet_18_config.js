@@ -1,1 +1,1 @@
-var mnemonic = "few cabbage change fetch lava gasp ancient joy weird follow allow syrup";
+var mnemonic = "celery useful type rifle answer talk often father coral enough priority flower";

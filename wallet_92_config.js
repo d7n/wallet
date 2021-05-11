@@ -1,1 +1,1 @@
-var mnemonic = "access express garlic casual school sausage bubble bamboo artist knife album glide";
+var mnemonic = "unable must enable suspect polar pilot recall multiply gravity short knee food";

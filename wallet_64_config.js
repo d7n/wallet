@@ -1,1 +1,1 @@
-var mnemonic = "gather slam curious young pledge curtain endless remind rural horse rely snow";
+var mnemonic = "hover blur over fringe shop tobacco switch choice amazing famous twelve claw";

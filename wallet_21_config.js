@@ -1,1 +1,1 @@
-var mnemonic = "patch pledge abuse wrestle hour caught scare sadness rack grab tape embark";
+var mnemonic = "flash debate easy voice memory goddess increase argue exile magnet wheel jewel";

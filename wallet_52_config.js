@@ -1,1 +1,1 @@
-var mnemonic = "fun render situate weird outdoor anxiety voice impulse business gadget exhibit lyrics";
+var mnemonic = "toilet melt nation because warrior session bounce ridge dove luxury amused sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "craft deny clap pool palm burden slim display adapt quiz brick harvest";
+var mnemonic = "leopard science lemon ozone fade gospel concert teach baby behave illegal possible";

@@ -1,1 +1,1 @@
-var mnemonic = "during ritual tattoo crumble expire air include blame spike leopard leopard core";
+var mnemonic = "bitter vivid absent battle interest together ski note leisure hood pear leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "goose sweet seed dragon select vacuum will dose dolphin pottery ranch suit";
+var mnemonic = "badge drive wreck orbit include auction squeeze start cactus enhance crystal favorite";

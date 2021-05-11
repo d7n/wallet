@@ -1,1 +1,1 @@
-var mnemonic = "forest throw scorpion organ toy pave vault net salad truly chief guard";
+var mnemonic = "hotel tuna used boost garbage divert marine deposit brisk wage language photo";

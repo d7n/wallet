@@ -1,1 +1,1 @@
-var mnemonic = "ski device bitter mansion miss wrestle garbage extra border giggle craft until";
+var mnemonic = "output eager plastic drop together art code palace shoe feed anger quote";

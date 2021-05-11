@@ -1,1 +1,1 @@
-var mnemonic = "wisdom sheriff fragile planet multiply today cloud congress tissue fat extra shoe";
+var mnemonic = "science can kiwi logic crazy advance slice dignity theme bachelor subject tragic";

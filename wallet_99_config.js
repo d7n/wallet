@@ -1,1 +1,1 @@
-var mnemonic = "glance saddle list matter piano bundle peanut price dose pair process obvious";
+var mnemonic = "answer run aware hybrid future keen hurt bottom mind veteran fade magnet";

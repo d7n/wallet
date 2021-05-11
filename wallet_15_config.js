@@ -1,1 +1,1 @@
-var mnemonic = "muscle quarter before globe wet weasel limit click beauty first security talk";
+var mnemonic = "angry fresh pepper between online trend visa faculty ankle early blush accident";

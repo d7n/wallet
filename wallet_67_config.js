@@ -1,1 +1,1 @@
-var mnemonic = "bleak rare utility yellow above number cat cinnamon stuff great vapor unveil";
+var mnemonic = "lens memory home inmate reform uncover nominee away never choice develop whip";

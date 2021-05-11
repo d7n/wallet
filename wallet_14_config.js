@@ -1,1 +1,1 @@
-var mnemonic = "strategy disorder report clog lens start double dutch mistake harvest immense code";
+var mnemonic = "leaf portion picnic kingdom pencil ankle awful first grit burst subway real";

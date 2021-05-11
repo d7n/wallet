@@ -1,1 +1,1 @@
-var mnemonic = "inspire poverty inherit goddess maple ticket educate fence pass fiber miracle predict";
+var mnemonic = "boy inhale satoshi town boat auction join clock electric youth giraffe empty";

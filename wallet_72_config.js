@@ -1,1 +1,1 @@
-var mnemonic = "either faith goddess victory recipe click tail pig shallow prevent charge fresh";
+var mnemonic = "fetch time gym banner fox name rival wink pumpkin poem grant provide";

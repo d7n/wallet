@@ -1,1 +1,1 @@
-var mnemonic = "excite audit danger reduce shadow beach discover liberty tiger announce flame bomb";
+var mnemonic = "nasty bright enlist chuckle credit cricket bring alone also mother clerk demand";

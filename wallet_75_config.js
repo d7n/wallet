@@ -1,1 +1,1 @@
-var mnemonic = "cabin dirt soda slow blur company spray safe ecology heavy miracle climb";
+var mnemonic = "course interest excite coil minimum mom wink hurt air above panda duty";

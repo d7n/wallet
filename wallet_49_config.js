@@ -1,1 +1,1 @@
-var mnemonic = "weather giraffe flower random doll birth such ramp enough trash allow soldier";
+var mnemonic = "welcome such come unknown print offer puppy truck video oppose document very";

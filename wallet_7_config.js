@@ -1,1 +1,1 @@
-var mnemonic = "often journey lock treat panic scale enhance doctor glare crack poverty now";
+var mnemonic = "rebel street tobacco point hello lazy omit gasp near reflect under draw";

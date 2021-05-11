@@ -1,1 +1,1 @@
-var mnemonic = "dish hard nut vacuum cannon lazy oxygen sting dress decline announce gravity";
+var mnemonic = "catch trash evil banana raise album address beach heart distance flame local";

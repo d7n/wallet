@@ -1,1 +1,1 @@
-var mnemonic = "search nasty front seminar problem ghost fatigue spring process obtain comfort damp";
+var mnemonic = "inquiry doctor fiscal indoor real obey month spice bacon liar since master";

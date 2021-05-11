@@ -1,1 +1,1 @@
-var mnemonic = "area kid school border fault party unhappy fence foam divorce vocal rib";
+var mnemonic = "sock field gym soul soccer easy bid insect error setup shrug mountain";

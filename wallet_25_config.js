@@ -1,1 +1,1 @@
-var mnemonic = "cry kind door tree embark quality slow twin cloth stairs blush city";
+var mnemonic = "fitness wire ceiling olympic barely pioneer icon first hover amazing process unveil";

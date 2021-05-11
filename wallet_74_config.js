@@ -1,1 +1,1 @@
-var mnemonic = "pledge filter orbit person walk pitch ripple arrest panther mention oven pass";
+var mnemonic = "cinnamon strategy mother dress evoke board feed twin shoot stay convince sister";

@@ -1,1 +1,1 @@
-var mnemonic = "young own shell alter silly library habit snap tail below critic artefact";
+var mnemonic = "angle patrol output assault live furnace mistake candy network weasel sniff hat";

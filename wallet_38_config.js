@@ -1,1 +1,1 @@
-var mnemonic = "public diesel eyebrow latin shuffle flee switch wash shed harbor rack dress";
+var mnemonic = "cart floor fire funny salmon artwork affair ozone punch argue valid banana";

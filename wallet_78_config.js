@@ -1,1 +1,1 @@
-var mnemonic = "coil draw just tragic either educate busy castle tribe brand virtual oppose";
+var mnemonic = "december dutch pony honey crop horse arrow drive pottery pave health isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "guide roast friend unaware plate smart island movie ready coach tool twenty";
+var mnemonic = "coyote animal opinion visual cloth always angle toss shed cattle subject swim";

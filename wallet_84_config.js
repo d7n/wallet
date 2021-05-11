@@ -1,1 +1,1 @@
-var mnemonic = "chest grit city super arrow broken position stock artefact unknown subway pioneer";
+var mnemonic = "local behind police hazard earth pumpkin wonder oblige coyote peasant always admit";

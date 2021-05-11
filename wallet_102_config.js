@@ -1,1 +1,1 @@
-var mnemonic = "wealth witness fortune all blanket chase universe north rack decide blood simple";
+var mnemonic = "fork rapid month torch erode walk east shrimp front scout board category";

@@ -1,1 +1,1 @@
-var mnemonic = "small idea popular monkey awesome they plug puppy mandate glass blur arena";
+var mnemonic = "grunt bitter spot tag dinosaur scale solar snow night chunk pull design";

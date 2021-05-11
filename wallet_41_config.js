@@ -1,1 +1,1 @@
-var mnemonic = "panther asthma robust swift ordinary recipe fire food reject bean olive vicious";
+var mnemonic = "frown loan embody illness blush you grid vendor heart flash cram host";

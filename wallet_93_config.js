@@ -1,1 +1,1 @@
-var mnemonic = "hurdle appear test gown wide exotic endless swim worry that plug number";
+var mnemonic = "cloud plug kite venue divide voyage behave gloom scare pledge lesson gadget";

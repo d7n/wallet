@@ -1,1 +1,1 @@
-var mnemonic = "sad address ankle pistol enroll middle squirrel lake select gloom tourist notable";
+var mnemonic = "owner modify taste love omit solve caution boring ecology afraid convince screen";

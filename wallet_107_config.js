@@ -1,1 +1,1 @@
-var mnemonic = "loud layer bubble open click health ceiling forget actress subject sport elegant";
+var mnemonic = "random pond dawn receive unable rabbit adapt novel pluck hockey gorilla gown";

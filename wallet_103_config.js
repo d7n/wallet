@@ -1,1 +1,1 @@
-var mnemonic = "unfold clump alone dream bird suffer grow cable mechanic concert year nasty";
+var mnemonic = "friend unfair member peasant shell boss island hub drive truly extend couch";

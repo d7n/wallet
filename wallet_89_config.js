@@ -1,1 +1,1 @@
-var mnemonic = "loyal rubber must chronic develop rookie equal mammal uncover brick robot foam";
+var mnemonic = "ugly illness pond tell bounce man cross record humble orient version ostrich";

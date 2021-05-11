@@ -1,1 +1,1 @@
-var mnemonic = "combine cloth truth shell mirror situate style sorry dwarf business that permit";
+var mnemonic = "health wrist scatter effort similar embark crunch office include glory winner leopard";

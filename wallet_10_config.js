@@ -1,1 +1,1 @@
-var mnemonic = "belt fetch insect snow strategy grocery royal melt fall crystal toy minimum";
+var mnemonic = "current stone road all milk person depth anxiety used surround goose sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor comfort aware treat world ghost earth blade elephant include bag intact";
+var mnemonic = "famous coach consider rigid tribe occur rich pride lawsuit key venue eagle";

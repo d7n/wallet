@@ -1,1 +1,1 @@
-var mnemonic = "analyst hard relax theme mandate vibrant code please category subway faculty easy";
+var mnemonic = "finish night object vicious bunker mammal hood call train morning jaguar basket";

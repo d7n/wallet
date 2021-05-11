@@ -1,1 +1,1 @@
-var mnemonic = "lunar second robot kangaroo planet huge error glass pumpkin hybrid echo catch";
+var mnemonic = "tenant grape gesture senior empty token army already siege asthma ivory distance";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin arrest mail vendor prefer minute side few cruise process kit skull";
+var mnemonic = "attract swallow beach leader keep deputy blur affair accident little wreck breeze";

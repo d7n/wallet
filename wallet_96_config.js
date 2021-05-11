@@ -1,1 +1,1 @@
-var mnemonic = "degree fog grunt behind dice credit claim boring prison thank shoot unit";
+var mnemonic = "mystery truly adult diamond river guilt bleak achieve eight stone company raccoon";

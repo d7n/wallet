@@ -1,1 +1,1 @@
-var mnemonic = "slogan split choose spring future ship egg scissors pottery whisper chef black";
+var mnemonic = "false kiss found sunset field jealous sand avoid survey spatial spell electric";

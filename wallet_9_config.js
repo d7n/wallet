@@ -1,1 +1,1 @@
-var mnemonic = "cigar network twin lounge ready force apart pilot tragic holiday target satisfy";
+var mnemonic = "yard shrug bitter same analyst riot print portion situate dutch attract trouble";

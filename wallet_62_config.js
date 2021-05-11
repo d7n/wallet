@@ -1,1 +1,1 @@
-var mnemonic = "canvas private evidence soda actual three online cluster fade bench fresh bus";
+var mnemonic = "cake rail reward brisk media leaf game expire fashion orient comic faith";

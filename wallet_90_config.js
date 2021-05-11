@@ -1,1 +1,1 @@
-var mnemonic = "reflect sense shiver quote erode garage execute range argue tomorrow unit rotate";
+var mnemonic = "phrase hip matter bullet potato margin pudding east orbit street novel slim";

@@ -1,1 +1,1 @@
-var mnemonic = "provide execute cement angry exact urban slender balance infant hope egg kiss";
+var mnemonic = "salmon custom expect relax stable topple tortoise main fabric exile oppose turn";

@@ -1,1 +1,1 @@
-var mnemonic = "actress mix material woman february boy wrong rotate broken final thunder dynamic";
+var mnemonic = "acoustic antenna purse pride swear pave path people stand shy blur siege";

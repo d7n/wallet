@@ -1,1 +1,1 @@
-var mnemonic = "slender opera impose fiber black space refuse round crack slice table orange";
+var mnemonic = "eagle west basket eager fish crisp craft topple current ice fat expect";

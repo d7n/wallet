@@ -1,1 +1,1 @@
-var mnemonic = "vast refuse close eagle wedding dad deer rare history female flock meadow";
+var mnemonic = "notice popular tray ceiling supply fatigue area jar position inquiry ramp ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon direct grant ugly used universe brush farm drama divide item crime";
+var mnemonic = "dose weasel sorry end base hill book wisdom toward barrel used milk";

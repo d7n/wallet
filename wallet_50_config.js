@@ -1,1 +1,1 @@
-var mnemonic = "youth material master river excuse real enable sentence where wrestle mosquito basic";
+var mnemonic = "alarm wife nominee rival vapor define stairs pluck gym hair kidney fire";

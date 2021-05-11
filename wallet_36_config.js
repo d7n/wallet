@@ -1,1 +1,1 @@
-var mnemonic = "napkin ring truth juice fame artwork guess demand say math entire broccoli";
+var mnemonic = "gap blouse ride nominee case virus merit harbor menu blade spike corn";

@@ -1,1 +1,1 @@
-var mnemonic = "injury broken opera crucial someone garbage gasp climb situate effort bullet horse";
+var mnemonic = "chalk struggle suspect lazy elbow force bottom rhythm hollow ticket prison rely";

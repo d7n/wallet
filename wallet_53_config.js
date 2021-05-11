@@ -1,1 +1,1 @@
-var mnemonic = "dune antenna sting lobster milk deposit retreat toilet engage air auction device";
+var mnemonic = "duck vote receive lobster tragic scheme pull stumble history knee defy head";

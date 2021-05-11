@@ -1,1 +1,1 @@
-var mnemonic = "achieve absorb always zone process despair turtle vapor focus matrix later hub";
+var mnemonic = "auction number blade behave recall oil world farm across chef tackle property";

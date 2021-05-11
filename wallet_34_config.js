@@ -1,1 +1,1 @@
-var mnemonic = "argue embrace leopard hen refuse bomb state bachelor wisdom fancy cross kingdom";
+var mnemonic = "tragic car shop cancel oppose impose general stuff shove such spawn since";

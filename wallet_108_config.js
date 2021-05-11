@@ -1,1 +1,1 @@
-var mnemonic = "twist process inmate pill whale fiction funny walnut anxiety army also fabric";
+var mnemonic = "law sample glass include rose what taxi destroy gossip hollow agent mosquito";

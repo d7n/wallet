@@ -1,1 +1,1 @@
-var mnemonic = "person gasp pave stadium face caution disease ignore act review vanish trigger";
+var mnemonic = "short siren cost script vague boil what figure unveil office media slot";

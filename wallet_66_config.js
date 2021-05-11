@@ -1,1 +1,1 @@
-var mnemonic = "forum burden deer seven crunch return frog select labor page when virtual";
+var mnemonic = "bring flavor pizza dolphin photo master milk brother topple domain illness audit";

@@ -1,1 +1,1 @@
-var mnemonic = "project text rose canal gentle document coach asthma happy gain pole employ";
+var mnemonic = "glimpse fantasy evil element flash witness feature garage woman pause scene away";

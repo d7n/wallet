@@ -1,1 +1,1 @@
-var mnemonic = "proud topple glue economy inside decline ketchup clog employ skin shoot poverty";
+var mnemonic = "garment half there there gold holiday scrap tomorrow bring clutch warrior divert";

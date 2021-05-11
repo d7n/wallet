@@ -1,1 +1,1 @@
-var mnemonic = "appear time zoo steel bulk claw piece purchase galaxy grunt typical someone";
+var mnemonic = "hole tribe patrol outside blur divorce decrease choice critic kiwi depend chest";

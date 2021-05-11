@@ -1,1 +1,1 @@
-var mnemonic = "daring long soon allow speak town only alley hair series zone feel";
+var mnemonic = "frame wreck army either close lizard virus opinion one call tortoise spread";

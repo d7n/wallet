@@ -1,1 +1,1 @@
-var mnemonic = "like pottery range cattle modify kiwi street ginger hundred team lab tribe";
+var mnemonic = "escape space balance raise advice hour improve chalk stand burger abstract time";

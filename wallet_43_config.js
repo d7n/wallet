@@ -1,1 +1,1 @@
-var mnemonic = "virtual web auto left sustain inhale bid legend laptop salad skull student";
+var mnemonic = "defense unfair square pair pill gravity twice option satisfy proud shed verify";

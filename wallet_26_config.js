@@ -1,1 +1,1 @@
-var mnemonic = "cup drop retreat route when festival song old hover cart hire praise";
+var mnemonic = "evidence suspect confirm away embrace stumble kitchen hawk episode assault jungle bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "october view into ceiling buyer again ride aerobic dune spot fetch unlock";
+var mnemonic = "math sword tape jazz peace holiday hover pipe bullet absorb city battle";

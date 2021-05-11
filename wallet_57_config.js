@@ -1,1 +1,1 @@
-var mnemonic = "glide team giant eight total bleak rice add magnet symbol judge boost";
+var mnemonic = "thrive whip random purity scrap repair strike rotate tent finish hurt fatigue";

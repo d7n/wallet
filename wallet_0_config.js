@@ -1,1 +1,1 @@
-var mnemonic = "garlic tent couple rule slab field proof luxury current asthma script venue";
+var mnemonic = "army miracle purpose release weather assist fold rigid tray either laundry stage";

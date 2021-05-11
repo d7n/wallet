@@ -1,1 +1,1 @@
-var mnemonic = "general grain impulse chest voice much decorate output saddle analyst pull source";
+var mnemonic = "nothing safe follow abstract gorilla night hover symptom step globe soldier essay";

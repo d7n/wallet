@@ -1,1 +1,1 @@
-var mnemonic = "harsh camp dumb dove anger glass spoon market tree rate nest lock";
+var mnemonic = "syrup dumb glue first auto proof olive proud title edge advance random";
