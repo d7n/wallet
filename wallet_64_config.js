@@ -1,1 +1,1 @@
-var mnemonic = "absurd renew dinner library carbon black name grab vibrant alpha tag salt";
+var mnemonic = "stuff today gaze donor arm camera chair assault palace museum neither water";

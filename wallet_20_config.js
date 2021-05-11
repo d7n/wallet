@@ -1,1 +1,1 @@
-var mnemonic = "predict unusual orange approve venture rigid vessel inflict cushion cheese security trial";
+var mnemonic = "state economy mountain galaxy camp false music obvious dynamic garden sheriff rug";

@@ -1,1 +1,1 @@
-var mnemonic = "rain error tomato draft crisp task voyage interest exile quote hollow rifle";
+var mnemonic = "sample identify bounce shove resource twist film deliver gloom tooth scout high";

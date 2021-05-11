@@ -1,1 +1,1 @@
-var mnemonic = "unfair thing hill element screen burst false noodle online allow deputy thank";
+var mnemonic = "pill orange produce swamp drastic convince trial shine input excite talent rotate";

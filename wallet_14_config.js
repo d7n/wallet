@@ -1,1 +1,1 @@
-var mnemonic = "bacon pool force parade lady cushion teach length wing dove amateur motion";
+var mnemonic = "lucky pioneer future essence cream tuition crop dentist cover lounge audit beauty";

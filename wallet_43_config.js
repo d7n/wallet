@@ -1,1 +1,1 @@
-var mnemonic = "purity olympic fox fatal pulse vanish crumble live view balance pony pole";
+var mnemonic = "obey live gossip dizzy devote husband permit goat method fence couple pyramid";

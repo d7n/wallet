@@ -1,1 +1,1 @@
-var mnemonic = "often auto dumb duck draw gate fantasy rural cool craft length silver";
+var mnemonic = "clown wing home science brass asset praise strategy jump vivid beach common";

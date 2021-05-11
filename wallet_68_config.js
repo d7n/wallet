@@ -1,1 +1,1 @@
-var mnemonic = "lawn odor flip leader traffic legend this food fiction release rose yellow";
+var mnemonic = "supply fade setup pottery task panic airport private history vicious buddy august";

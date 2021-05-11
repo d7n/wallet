@@ -1,1 +1,1 @@
-var mnemonic = "glance exercise fetch notable analyst wear argue above olive neither guilt faith";
+var mnemonic = "devote surround ribbon admit lion spin scrap unaware miracle gentle razor immense";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch bid rich correct cream deposit rich nephew frozen clinic echo custom";
+var mnemonic = "wasp clerk grid dust mail diary upset badge ghost load egg truck";

@@ -1,1 +1,1 @@
-var mnemonic = "kit moral tired boost tired offer orchard humor patient bread dumb soon";
+var mnemonic = "jungle hurt real blind innocent until shift curve smile about bring judge";

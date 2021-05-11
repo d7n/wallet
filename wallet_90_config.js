@@ -1,1 +1,1 @@
-var mnemonic = "change banner nest crawl donor federal olympic problem shop actual slender antenna";
+var mnemonic = "ship steel fringe sunny stumble chapter bean ring puppy advance parent wedding";

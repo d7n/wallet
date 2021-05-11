@@ -1,1 +1,1 @@
-var mnemonic = "rotate term luggage live solution great fresh sphere border bottom bamboo rebuild";
+var mnemonic = "exact change analyst open destroy vintage script jar quiz grant scrub punch";

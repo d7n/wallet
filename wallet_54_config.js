@@ -1,1 +1,1 @@
-var mnemonic = "able tray surround airport sorry bonus extend gate noise script police leopard";
+var mnemonic = "test angle fatigue grunt carpet clutch fog volcano cliff horror mystery toss";

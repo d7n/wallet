@@ -1,1 +1,1 @@
-var mnemonic = "thumb call cash mouse toss luxury maximum run ethics produce awkward brush";
+var mnemonic = "measure trim glide tray horror dish normal robot venue horror hole electric";

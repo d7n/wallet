@@ -1,1 +1,1 @@
-var mnemonic = "joy potato either require exit alarm ginger march fabric torch morning diet";
+var mnemonic = "duck woman truth jump student help shock control street unusual pair gasp";

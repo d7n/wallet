@@ -1,1 +1,1 @@
-var mnemonic = "shed sport artwork never ring drum ladder welcome grace cook icon icon";
+var mnemonic = "cargo soup describe innocent ritual cup rather anxiety hill aerobic anxiety approve";

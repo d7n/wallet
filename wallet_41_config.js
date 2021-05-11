@@ -1,1 +1,1 @@
-var mnemonic = "truck abuse grocery hunt inmate cream level jazz hen trigger olive motion";
+var mnemonic = "style water course grape dress arrange train blade hole find sock farm";

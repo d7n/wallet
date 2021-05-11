@@ -1,1 +1,1 @@
-var mnemonic = "ketchup final retreat almost grab valid never loan rhythm bicycle twist opera";
+var mnemonic = "rare copy quit hold upgrade invest device uncle friend panel ginger jealous";

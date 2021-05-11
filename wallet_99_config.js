@@ -1,1 +1,1 @@
-var mnemonic = "diary remind good vote cheap amused during liar play lock level erosion";
+var mnemonic = "loud flock exit away sugar edge silver plug tray craft marble toss";

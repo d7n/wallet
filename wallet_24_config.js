@@ -1,1 +1,1 @@
-var mnemonic = "glory switch forum clerk hurry plunge online fun tattoo world unable mistake";
+var mnemonic = "elite seat sock model repeat face grab lady crazy laundry easy base";

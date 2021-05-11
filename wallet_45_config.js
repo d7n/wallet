@@ -1,1 +1,1 @@
-var mnemonic = "toward device popular chunk reflect aim giggle rhythm equip window dynamic door";
+var mnemonic = "know pill circle reopen budget admit soon exercise theory shift monkey crisp";

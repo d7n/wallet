@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo cave employ govern limit nest frog burst fashion middle focus crouch";
+var mnemonic = "bounce please coin stadium helmet puzzle minute breeze response now twelve clip";

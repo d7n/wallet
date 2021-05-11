@@ -1,1 +1,1 @@
-var mnemonic = "candy raven rack top anger coach loan flame photo river okay vocal";
+var mnemonic = "file patch various assist cruise diamond huge unveil trap recipe mistake donate";

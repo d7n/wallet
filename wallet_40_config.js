@@ -1,1 +1,1 @@
-var mnemonic = "hospital trophy minute top remove exit december reunion vapor lottery cactus around";
+var mnemonic = "chef tone manual aim elder honey swarm universe hard impulse perfect floor";

@@ -1,1 +1,1 @@
-var mnemonic = "session cradle neck indicate lawn city hurdle moral island action wedding yellow";
+var mnemonic = "garment veteran enhance immense cancel squirrel october cluster height logic pledge level";

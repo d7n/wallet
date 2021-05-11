@@ -1,1 +1,1 @@
-var mnemonic = "pave picture buddy swap speak thumb million share transfer volume pencil fox";
+var mnemonic = "place famous intact sphere speed bargain curious bike sing attract describe view";

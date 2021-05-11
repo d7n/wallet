@@ -1,1 +1,1 @@
-var mnemonic = "choice crush pigeon meadow appear mention fame stool engine scatter insect cloth";
+var mnemonic = "invest flat still soul describe economy win mushroom traffic produce usual gun";

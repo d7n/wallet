@@ -1,1 +1,1 @@
-var mnemonic = "certain choice van welcome govern meat fade process rib fish donor record";
+var mnemonic = "trim include tonight cake nation market stand around design tornado judge trumpet";

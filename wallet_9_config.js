@@ -1,1 +1,1 @@
-var mnemonic = "trial debris where climb weapon only report mosquito direct dune library arctic";
+var mnemonic = "arctic eagle force bless program inherit oxygen acid alter bachelor tuition sustain";

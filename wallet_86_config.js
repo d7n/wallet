@@ -1,1 +1,1 @@
-var mnemonic = "else verify ostrich march base stuff dog bounce color wedding good barrel";
+var mnemonic = "museum tired mountain yellow issue churn elder pact nest select deputy razor";

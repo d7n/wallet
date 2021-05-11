@@ -1,1 +1,1 @@
-var mnemonic = "bachelor marriage quantum scheme warfare lemon joke plunge cushion change teach sleep";
+var mnemonic = "upon hip diesel purchase weekend remain raise undo display bone setup moment";

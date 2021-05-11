@@ -1,1 +1,1 @@
-var mnemonic = "wreck throw access smooth jungle cover exotic guitar fetch kingdom square orient";
+var mnemonic = "margin easy control aim move enroll clarify monkey hold race library dose";

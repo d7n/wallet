@@ -1,1 +1,1 @@
-var mnemonic = "nation erupt token type proof album fatigue palace vendor talk shadow already";
+var mnemonic = "deputy feed label sea treat lift short cluster tired verb six box";

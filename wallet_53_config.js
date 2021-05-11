@@ -1,1 +1,1 @@
-var mnemonic = "amateur waste cake custom slender vintage hybrid loop caution honey debate illness";
+var mnemonic = "depart range wage buzz usage bottom match entire gun impose hub brand";

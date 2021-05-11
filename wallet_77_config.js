@@ -1,1 +1,1 @@
-var mnemonic = "make kind bacon student symbol phone relax setup opinion retreat employ light";
+var mnemonic = "drop pyramid finish safe slide crouch smooth chase glow fat snack uncle";

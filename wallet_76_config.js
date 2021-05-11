@@ -1,1 +1,1 @@
-var mnemonic = "apple leopard festival dentist trim car blood virus omit uncover actress cloth";
+var mnemonic = "pig gather inside inflict weather claw dune sort attract issue lizard portion";

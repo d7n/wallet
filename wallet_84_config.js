@@ -1,1 +1,1 @@
-var mnemonic = "cute suspect accident armed push maple burst property modify capable peanut energy";
+var mnemonic = "detail evil end tattoo elegant orange useful afford cross van high spider";

@@ -1,1 +1,1 @@
-var mnemonic = "runway boost rather bus two magic pitch envelope run fitness border ability";
+var mnemonic = "effort salad heart park salmon debate armed error reason genre certain inside";

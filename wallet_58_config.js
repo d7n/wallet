@@ -1,1 +1,1 @@
-var mnemonic = "ticket pact sketch run stamp visit cloud under top donate verb copper";
+var mnemonic = "faculty bid humor sunset giraffe foil waste page waste mix vivid risk";

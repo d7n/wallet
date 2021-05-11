@@ -1,1 +1,1 @@
-var mnemonic = "concert consider unit blind blossom pave park fever under occur measure route";
+var mnemonic = "misery rug service galaxy blind electric bread fatal imitate hood mystery wealth";

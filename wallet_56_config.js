@@ -1,1 +1,1 @@
-var mnemonic = "evidence involve addict allow news elephant artefact eager involve report unique waste";
+var mnemonic = "betray lonely fantasy boost boil add excess couch rib coconut loud chat";

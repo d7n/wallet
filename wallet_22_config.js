@@ -1,1 +1,1 @@
-var mnemonic = "taste payment dirt decline awake daring blue aware narrow debris magic allow";
+var mnemonic = "merry summer pepper merge ozone injury casual weather push horror jelly pause";

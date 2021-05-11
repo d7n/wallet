@@ -1,1 +1,1 @@
-var mnemonic = "amateur april desk bomb lazy quarter gym heart dove gold deputy utility";
+var mnemonic = "before tattoo until panic tomato radar cigar pink muffin stereo later hood";

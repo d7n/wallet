@@ -1,1 +1,1 @@
-var mnemonic = "raccoon budget invest know flat enable wish suffer mom neither talent ketchup";
+var mnemonic = "dolphin method earth interest clap cereal punch left agree topple steak trigger";

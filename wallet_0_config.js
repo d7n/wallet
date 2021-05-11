@@ -1,1 +1,1 @@
-var mnemonic = "globe around solar friend dignity volume meadow innocent frost forget morning portion";
+var mnemonic = "dice mixture shift mandate dog shock physical monkey labor mosquito jacket gorilla";

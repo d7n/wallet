@@ -1,1 +1,1 @@
-var mnemonic = "anxiety deal story rib piano raw drum cheap balance claim pistol grab";
+var mnemonic = "response congress urge repair grief arena staff deliver cake throw wave addict";

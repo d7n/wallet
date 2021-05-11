@@ -1,1 +1,1 @@
-var mnemonic = "final arrive goat decide bubble this artwork sand siren hazard exhaust law";
+var mnemonic = "virtual supply loan devote first only flush weekend december gadget volume expose";

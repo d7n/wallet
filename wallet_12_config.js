@@ -1,1 +1,1 @@
-var mnemonic = "custom green dash door beach brick thing front wet claim above pony";
+var mnemonic = "bus oxygen engage quality choose burger style ghost output forget venue this";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat rule there romance like slogan depend drum undo switch refuse tomorrow";
+var mnemonic = "arrest suspect feed bus chapter repeat ride hollow short sight frost stable";

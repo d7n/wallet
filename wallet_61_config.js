@@ -1,1 +1,1 @@
-var mnemonic = "waste donkey sauce surface brown swarm habit wing chief sister track sail";
+var mnemonic = "asset sand turn use pulp lumber ten before industry sight fuel cycle";

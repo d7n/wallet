@@ -1,1 +1,1 @@
-var mnemonic = "year reveal design code leave august orange false perfect fan foster gospel";
+var mnemonic = "grit clap sibling limb arrest second guide select opinion monster account upper";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub easy fruit net stick kiwi air grief heart ceiling liberty bean";
+var mnemonic = "bus quality north forum above federal era teach buffalo roast index harsh";

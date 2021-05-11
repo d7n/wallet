@@ -1,1 +1,1 @@
-var mnemonic = "speed fiction quit basic waste toss suspect youth wheat evolve adapt subject";
+var mnemonic = "avoid foil december series hello room dad panda east bench ostrich steel";

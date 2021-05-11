@@ -1,1 +1,1 @@
-var mnemonic = "yellow chimney question sketch industry pave sea express upon piece wisdom rifle";
+var mnemonic = "behave manage used attitude young equal cabin jeans volume pelican confirm alien";

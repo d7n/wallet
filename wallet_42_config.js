@@ -1,1 +1,1 @@
-var mnemonic = "fresh meadow then wide estate cry nature describe six problem accuse action";
+var mnemonic = "noise jazz grab supreme jump clarify leaf talent reason fury report gauge";

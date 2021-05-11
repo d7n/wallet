@@ -1,1 +1,1 @@
-var mnemonic = "scrub ecology elephant maid erupt lion beyond width front trick team quiz";
+var mnemonic = "seven rifle found latin office region retreat armed pact second cattle voyage";

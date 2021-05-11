@@ -1,1 +1,1 @@
-var mnemonic = "clever pledge pulse finish trumpet unit grace unhappy bottom crash laptop cram";
+var mnemonic = "kiwi junior equip quiz taste key sign select romance clap hamster citizen";

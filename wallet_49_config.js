@@ -1,1 +1,1 @@
-var mnemonic = "sister omit catch joke embrace prefer final myth goddess web elevator theme";
+var mnemonic = "glow cage flower crawl huge wet cup maple parade example remind direct";

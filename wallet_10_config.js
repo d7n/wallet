@@ -1,1 +1,1 @@
-var mnemonic = "antique vast major festival year vanish blame hero defense jaguar civil tree";
+var mnemonic = "meadow embrace warm want torch force laundry become clever crop execute excuse";

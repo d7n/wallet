@@ -1,1 +1,1 @@
-var mnemonic = "unknown rabbit butter hotel end arctic decline tent trick pizza lunch surface";
+var mnemonic = "slight vapor reveal moral firm fabric consider top priority captain access roof";

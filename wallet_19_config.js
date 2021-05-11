@@ -1,1 +1,1 @@
-var mnemonic = "legal weird easy mix fork brand betray cricket cram adult vocal tissue";
+var mnemonic = "spare before left identify digital reopen input grace fiction lecture song drama";

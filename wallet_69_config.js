@@ -1,1 +1,1 @@
-var mnemonic = "glad special employ bench boil effort claw purpose shoe length betray renew";
+var mnemonic = "dial burst torch proof canyon urge scale cluster rally essay immense barely";

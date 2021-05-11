@@ -1,1 +1,1 @@
-var mnemonic = "wise loyal portion shoot dinosaur forward quiz crop project satoshi tumble false";
+var mnemonic = "blood soul cushion loop also plastic pitch spot sustain month visual pair";

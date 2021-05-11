@@ -1,1 +1,1 @@
-var mnemonic = "west kidney company cricket fog rescue forum any client myself very input";
+var mnemonic = "angry shop tube country east sugar turtle update lonely book helmet brother";

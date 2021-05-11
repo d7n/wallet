@@ -1,1 +1,1 @@
-var mnemonic = "vacant acid menu blossom cool token sport farm broom garlic silk error";
+var mnemonic = "yellow village prize digital another genius degree clip clean level hour cactus";

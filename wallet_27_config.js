@@ -1,1 +1,1 @@
-var mnemonic = "flush prison only always number escape grit yard main share reform simple";
+var mnemonic = "category scale net park space shed ice skin patrol symbol marble code";

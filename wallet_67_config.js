@@ -1,1 +1,1 @@
-var mnemonic = "organ car charge ensure season ugly forget dutch vicious luggage power wish";
+var mnemonic = "rate canoe blade angle milk lyrics memory pyramid argue head random south";

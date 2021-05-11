@@ -1,1 +1,1 @@
-var mnemonic = "across merge crop lottery garment quit antique rigid panther road soft shift";
+var mnemonic = "shift wool close cigar when muffin corn rent robot feature patch cigar";

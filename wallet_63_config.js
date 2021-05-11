@@ -1,1 +1,1 @@
-var mnemonic = "lady sweet design barrel feed bomb hazard cliff because debris frame drip";
+var mnemonic = "speak wrestle glue design mansion economy kingdom link timber bind sand salon";

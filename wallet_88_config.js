@@ -1,1 +1,1 @@
-var mnemonic = "party vague dirt swim grid eyebrow vault valley crush badge tell lion";
+var mnemonic = "curve hand home enjoy twin deliver fortune rural price tired cigar fox";

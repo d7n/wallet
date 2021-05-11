@@ -1,1 +1,1 @@
-var mnemonic = "lecture useful fiber lesson large pottery essence belt kit kitten drip fog";
+var mnemonic = "sheriff feature blade math hundred muscle magic hospital nurse maid unusual soon";

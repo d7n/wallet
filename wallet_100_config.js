@@ -1,1 +1,1 @@
-var mnemonic = "twenty sting blade cloud bicycle inquiry organ arm census word inner attitude";
+var mnemonic = "tongue message buddy outdoor canoe maximum machine resist leader shrug lesson poet";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer nut winner diesel isolate neither spend often sugar east orange elephant";
+var mnemonic = "vivid hire west figure seat picnic jaguar soda million vicious employ paper";

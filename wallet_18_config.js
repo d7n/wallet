@@ -1,1 +1,1 @@
-var mnemonic = "install express tiny two rice pole clog kingdom scatter switch aware satisfy";
+var mnemonic = "flight warrior dune theme sleep mixture drive choice ridge vault bullet parade";

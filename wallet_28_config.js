@@ -1,1 +1,1 @@
-var mnemonic = "boil wrestle opera artefact need whip region gallery rookie girl reunion trumpet";
+var mnemonic = "gate measure size crouch busy six trigger matrix picnic era card increase";

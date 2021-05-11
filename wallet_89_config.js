@@ -1,1 +1,1 @@
-var mnemonic = "humble skirt choose stamp pet husband term aspect shiver consider custom length";
+var mnemonic = "arrow exact ill gauge enforce swing obscure violin scissors rail poverty ladder";

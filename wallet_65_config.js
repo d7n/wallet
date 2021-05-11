@@ -1,1 +1,1 @@
-var mnemonic = "dial speed lunch learn jelly kick become auto range custom royal fish";
+var mnemonic = "utility father top avocado bag party practice matrix meat bamboo inhale knee";

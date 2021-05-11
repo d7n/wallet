@@ -1,1 +1,1 @@
-var mnemonic = "palm fossil tobacco enjoy ride faint film frost entire apple much mesh";
+var mnemonic = "furnace jacket delay veteran belt they argue drive palace arena employ cash";

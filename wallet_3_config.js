@@ -1,1 +1,1 @@
-var mnemonic = "vibrant kitten universe cloud pudding insect into smoke short between doctor mask";
+var mnemonic = "load genuine promote song forum try window wedding injury scheme license lunar";

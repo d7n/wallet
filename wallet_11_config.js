@@ -1,1 +1,1 @@
-var mnemonic = "okay latin adjust just nurse february sauce also nephew amount inmate sorry";
+var mnemonic = "doctor session wage occur spare fury sibling casual choice swap oval erase";

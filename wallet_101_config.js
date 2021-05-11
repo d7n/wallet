@@ -1,1 +1,1 @@
-var mnemonic = "trend spawn board behave debris hammer example admit inmate syrup beauty foam";
+var mnemonic = "afford little image crop equip hamster focus never raw air omit stick";

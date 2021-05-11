@@ -1,1 +1,1 @@
-var mnemonic = "improve hint change raise depth vacuum merit use noble jealous room anger";
+var mnemonic = "speed size sudden nation income vapor involve uphold else pink twin alone";

@@ -1,1 +1,1 @@
-var mnemonic = "whip world banner hammer jewel extend top unfold tattoo gaze zone aerobic";
+var mnemonic = "obtain always comfort fine riot mirror useless evoke glance simple risk submit";

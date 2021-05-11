@@ -1,1 +1,1 @@
-var mnemonic = "fiction quit recipe load earth client seek logic father bind oven arrange";
+var mnemonic = "gallery valve menu target shoe crack secret silly brass metal mirror moral";

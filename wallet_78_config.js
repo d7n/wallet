@@ -1,1 +1,1 @@
-var mnemonic = "already smoke length decorate curtain host palm chicken broccoli fan rigid area";
+var mnemonic = "gentle material inhale caution enable genre faith street fence rabbit review dutch";

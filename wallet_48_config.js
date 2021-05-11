@@ -1,1 +1,1 @@
-var mnemonic = "ability thumb image office myth april float spray involve record kit shrug";
+var mnemonic = "fortune glass record foil include rally raven magnet punch fatigue rhythm diesel";

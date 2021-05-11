@@ -1,1 +1,1 @@
-var mnemonic = "dune skull zero love bracket sleep coconut lucky learn gun tool hub";
+var mnemonic = "such rug trash air supply small warrior genius lesson dust dream flag";

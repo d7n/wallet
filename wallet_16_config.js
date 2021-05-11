@@ -1,1 +1,1 @@
-var mnemonic = "use unfold unable conduct nothing filter prosper maid custom sudden federal foam";
+var mnemonic = "throw provide foil risk boss sketch suspect hamster right shiver asset cover";

@@ -1,1 +1,1 @@
-var mnemonic = "rain million school myth blanket demand menu fork zebra first napkin coach";
+var mnemonic = "chat vessel garage useless jealous usage answer potato gorilla lizard scare resist";

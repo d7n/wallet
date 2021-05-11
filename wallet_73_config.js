@@ -1,1 +1,1 @@
-var mnemonic = "surface cannon coast remember hour ridge brain wrist pulse deny emotion during";
+var mnemonic = "already liberty practice eagle hawk olympic ridge fluid cream legend crazy potato";

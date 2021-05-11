@@ -1,1 +1,1 @@
-var mnemonic = "airport setup valid jewel special loyal change manual response common broken skate";
+var mnemonic = "clerk truth merge border submit predict input flat punch market world august";

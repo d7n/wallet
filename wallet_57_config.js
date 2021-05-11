@@ -1,1 +1,1 @@
-var mnemonic = "wire carry pulse pelican letter rifle wave slide audit urge work occur";
+var mnemonic = "hair pipe lamp scout spice arrest guide conduct price valley shuffle hurdle";
