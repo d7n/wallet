@@ -1,1 +1,1 @@
-var mnemonic = "science master cage worry amazing pattern nuclear attitude slow brown ridge lens";
+var mnemonic = "icon volcano immune lend plate hero neither corn couch fruit morning vanish";

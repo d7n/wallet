@@ -1,1 +1,1 @@
-var mnemonic = "people large list rookie clarify tuna dynamic fan finger skin interest blanket";
+var mnemonic = "brave brisk ecology flee decade legal hope near hero ride crazy sauce";

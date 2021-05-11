@@ -1,1 +1,1 @@
-var mnemonic = "indicate call kidney mouse dismiss dash pact demand dove work safe goose";
+var mnemonic = "action price rough key bike ribbon vault found patrol reject custom action";

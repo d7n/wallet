@@ -1,1 +1,1 @@
-var mnemonic = "gym general return catch deer apart wonder scare prize garlic clean retreat";
+var mnemonic = "end general grit super onion dose square fan occur equip grain olive";

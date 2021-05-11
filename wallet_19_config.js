@@ -1,1 +1,1 @@
-var mnemonic = "belt word share miracle task into deer winter trial venue window list";
+var mnemonic = "layer arrow board answer brush smoke gate solve okay deal peace bring";

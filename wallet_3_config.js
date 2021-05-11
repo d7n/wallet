@@ -1,1 +1,1 @@
-var mnemonic = "urban border candy mixture used punch essence rare cloth twenty rude shed";
+var mnemonic = "wisdom lemon lend mean stamp own scan luggage ring horn citizen deal";

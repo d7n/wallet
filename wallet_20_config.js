@@ -1,1 +1,1 @@
-var mnemonic = "destroy shoe truth elephant lyrics song cash arrive frozen zoo gown file";
+var mnemonic = "cave innocent print worry thrive zoo display input melody dilemma census purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen fitness squeeze spider flee shrug march limb glass circle castle menu";
+var mnemonic = "crater situate jungle guide owner grunt survey degree enemy floor pledge canoe";

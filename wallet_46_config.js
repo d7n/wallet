@@ -1,1 +1,1 @@
-var mnemonic = "indoor steel wide liquid now weird sphere dust buffalo float device cabbage";
+var mnemonic = "dress clarify guilt proof express science hammer exercise august hospital school clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal mosquito village enjoy teach library fever program another parrot bright urban";
+var mnemonic = "able wear desk evoke people bacon name clog cannon elephant local perfect";

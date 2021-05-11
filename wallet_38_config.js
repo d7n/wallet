@@ -1,1 +1,1 @@
-var mnemonic = "match verb quote scout shy length green rough half scatter machine local";
+var mnemonic = "away walnut secret proud swing love garage whip mouse olympic distance ugly";

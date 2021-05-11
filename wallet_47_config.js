@@ -1,1 +1,1 @@
-var mnemonic = "artwork sibling cream truly purse case actor love film relax lonely sport";
+var mnemonic = "odor name tongue forget hunt mention smile develop print hope yellow busy";

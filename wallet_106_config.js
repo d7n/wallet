@@ -1,1 +1,1 @@
-var mnemonic = "tomato neutral brand camera magnet range mixture nice coin person crystal cash";
+var mnemonic = "organ afraid attract mind cup pupil economy mixture join gossip embody add";

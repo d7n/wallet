@@ -1,1 +1,1 @@
-var mnemonic = "live box hope burst feed mystery indicate gospel debris lift mammal cement";
+var mnemonic = "merit kitten ring ocean high left jaguar buyer choice hundred warm job";

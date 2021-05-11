@@ -1,1 +1,1 @@
-var mnemonic = "winter dove bag bubble sadness omit feed girl unit hotel length slight";
+var mnemonic = "junk merit dirt force hospital guide detail slice miracle great attract captain";

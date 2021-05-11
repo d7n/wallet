@@ -1,1 +1,1 @@
-var mnemonic = "choose wait caution possible truth soul ten garbage churn remind quit merit";
+var mnemonic = "fit switch width miss search prepare balance fiber remember ski velvet clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "fire actor enter escape pitch episode endorse tuna duty return oblige example";
+var mnemonic = "decade leaf clerk solid private novel patient entire half own skate royal";

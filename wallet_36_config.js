@@ -1,1 +1,1 @@
-var mnemonic = "tube invite upper lava movie awesome soap charge solution pyramid cargo wealth";
+var mnemonic = "spatial chef short civil eternal ripple program will often whale nation until";

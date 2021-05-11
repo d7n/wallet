@@ -1,1 +1,1 @@
-var mnemonic = "sign shed text three novel december idle joke sphere fuel offer vessel";
+var mnemonic = "problem foot ocean subway hedgehog birth monster pelican angry crew camp wash";

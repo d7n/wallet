@@ -1,1 +1,1 @@
-var mnemonic = "invest kingdom grape physical uphold zebra town pulse snap course laptop innocent";
+var mnemonic = "render ignore eager split wire loan tunnel gesture noodle switch shed ladder";

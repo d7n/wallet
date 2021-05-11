@@ -1,1 +1,1 @@
-var mnemonic = "morning mouse essence narrow turkey trade open again blame race march response";
+var mnemonic = "door gravity time tone repair hello race trophy open swift entire thumb";

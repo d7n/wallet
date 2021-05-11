@@ -1,1 +1,1 @@
-var mnemonic = "this polar lend combine slender sea pilot mutual amount confirm display quit";
+var mnemonic = "powder cream laptop organ allow play beyond couple vintage funny audit hover";

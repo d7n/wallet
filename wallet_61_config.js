@@ -1,1 +1,1 @@
-var mnemonic = "left mail liquid forward another between damp smooth error fatigue shift gorilla";
+var mnemonic = "trim expire visual myself stove junk bottom chief side basic soon ride";

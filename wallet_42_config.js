@@ -1,1 +1,1 @@
-var mnemonic = "weird cheese boost rely gap fire manage rain token best jungle lawsuit";
+var mnemonic = "laugh crystal area sock today leisure one plunge lunar sell margin summer";

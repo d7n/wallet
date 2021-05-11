@@ -1,1 +1,1 @@
-var mnemonic = "income tissue section walk sketch van all true elite alley enact pistol";
+var mnemonic = "side scrub like firm naive spike black scout point decrease hire junk";

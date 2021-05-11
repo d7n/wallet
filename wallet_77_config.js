@@ -1,1 +1,1 @@
-var mnemonic = "track crater priority fan crumble brick vast kit firm rude grit hedgehog";
+var mnemonic = "gesture quantum scrub student science crouch boy cloud symbol hockey negative analyst";

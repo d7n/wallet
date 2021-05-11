@@ -1,1 +1,1 @@
-var mnemonic = "wear desert poverty shrug mirror dove enact guide strong slim stay fluid";
+var mnemonic = "elegant moon wild fancy dance pledge horror relax rebel hunt deposit permit";

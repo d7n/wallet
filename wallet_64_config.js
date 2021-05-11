@@ -1,1 +1,1 @@
-var mnemonic = "evolve steel dance pistol deny claw wash cover kiwi bless hurdle soup";
+var mnemonic = "hen brick forum letter jar picnic actual begin bike trumpet bread habit";

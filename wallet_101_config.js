@@ -1,1 +1,1 @@
-var mnemonic = "evolve pause hockey sheriff garden power trade speed seat wonder salt eye";
+var mnemonic = "adapt vast survey neither neglect welcome peanut pencil wagon sorry include height";

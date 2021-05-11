@@ -1,1 +1,1 @@
-var mnemonic = "rain token message ahead multiply word school search labor marine rival chalk";
+var mnemonic = "slim sunset empty arena flavor food taste victory zone frown habit remind";

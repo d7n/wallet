@@ -1,1 +1,1 @@
-var mnemonic = "coach canyon wealth very exchange chronic sniff dress foster source danger twist";
+var mnemonic = "size song differ extend grab survey broom cook pen retire ride wool";

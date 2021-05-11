@@ -1,1 +1,1 @@
-var mnemonic = "primary ugly release enhance trouble slam plastic middle clip scissors electric aerobic";
+var mnemonic = "model educate deputy update later punch cliff love bike hill liquid blade";

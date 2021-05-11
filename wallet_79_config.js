@@ -1,1 +1,1 @@
-var mnemonic = "violin speed country accuse sunset give tiger hair major hybrid fatigue attract";
+var mnemonic = "able upset caution whip afraid empower movie vague lock bring lecture switch";

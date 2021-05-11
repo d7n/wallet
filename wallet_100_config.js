@@ -1,1 +1,1 @@
-var mnemonic = "glow damp say ugly slice balcony web toilet recall raw minor orchard";
+var mnemonic = "lazy push uncover vibrant occur cause column pig inhale bench light february";

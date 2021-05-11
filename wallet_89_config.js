@@ -1,1 +1,1 @@
-var mnemonic = "brief slush pen later book pluck feel cushion reunion concert actual feed";
+var mnemonic = "catalog system goose garage review snap pumpkin vivid engage rail future unit";

@@ -1,1 +1,1 @@
-var mnemonic = "never swear forget setup fluid scrub physical picture document pear father tip";
+var mnemonic = "avoid regret shine grape require casual arena mother theme like eyebrow include";

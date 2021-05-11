@@ -1,1 +1,1 @@
-var mnemonic = "escape waste just blame real slight wisdom robust scatter shed onion modify";
+var mnemonic = "brisk link abstract wait remember edit flag unveil require gain guard basic";

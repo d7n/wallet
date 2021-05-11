@@ -1,1 +1,1 @@
-var mnemonic = "spice winner vacant follow home pledge dice cream party anchor sword bird";
+var mnemonic = "prosper whip bid width motion record essence scheme fence crunch inquiry west";

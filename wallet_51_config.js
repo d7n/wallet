@@ -1,1 +1,1 @@
-var mnemonic = "stuff primary member hurt february toward journey crunch east domain oxygen rival";
+var mnemonic = "rule clean agree follow tube verify alley twenty cousin early child cross";

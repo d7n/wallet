@@ -1,1 +1,1 @@
-var mnemonic = "member fire alcohol goddess measure penalty desk aerobic simple square one obtain";
+var mnemonic = "mango market inner market thunder foil horse boring huge garbage spoil list";

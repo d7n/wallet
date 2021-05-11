@@ -1,1 +1,1 @@
-var mnemonic = "portion mammal main toast affair bounce master public attack there pyramid similar";
+var mnemonic = "ostrich moon drastic action point slow hope race trim fine engine upper";

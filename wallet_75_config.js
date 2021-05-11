@@ -1,1 +1,1 @@
-var mnemonic = "shadow anchor mountain stable doctor speak change wait below marine ridge topic";
+var mnemonic = "glimpse lunch black resemble wing cram ill lock company island moral include";

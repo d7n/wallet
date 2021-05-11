@@ -1,1 +1,1 @@
-var mnemonic = "cat tooth border tragic coast carry save food another edge life ask";
+var mnemonic = "custom kangaroo lucky dish security gauge globe correct lesson evil nature jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease pole bright brain demise winner card team often era dolphin yard";
+var mnemonic = "nation chest capable puppy burden scout emerge potato nose suffer fat surface";

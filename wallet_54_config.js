@@ -1,1 +1,1 @@
-var mnemonic = "pyramid junior frozen matter parent empower team exchange talent civil behind nation";
+var mnemonic = "neither voice divorce board expose evil kangaroo debris script blast random engage";

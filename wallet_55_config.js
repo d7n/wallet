@@ -1,1 +1,1 @@
-var mnemonic = "artwork loan tide win trophy slim friend dash throw saddle tone gain";
+var mnemonic = "wife smooth talent rare joke evolve coyote early lock engage spray tower";

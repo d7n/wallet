@@ -1,1 +1,1 @@
-var mnemonic = "blur exile survey joy maid protect mother axis cannon sample sheriff flat";
+var mnemonic = "helmet paddle fuel donkey stove dawn ship lottery embrace unlock grid agent";

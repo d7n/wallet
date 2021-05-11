@@ -1,1 +1,1 @@
-var mnemonic = "provide acquire rich foot cereal dinner service cube high bullet thrive sea";
+var mnemonic = "ignore apart all proud voyage dumb cram decline scale angle squeeze flight";

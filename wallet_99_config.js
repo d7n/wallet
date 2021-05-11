@@ -1,1 +1,1 @@
-var mnemonic = "love wage hint blur globe bread donkey impulse twelve odor chapter voice";
+var mnemonic = "science lava session special crop excuse orbit focus walk pull involve erupt";

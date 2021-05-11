@@ -1,1 +1,1 @@
-var mnemonic = "bargain scorpion crew filter ethics exotic ill label piano lava fence rare";
+var mnemonic = "thank invite tag elegant castle loyal sheriff moment beyond bid bicycle clock";

@@ -1,1 +1,1 @@
-var mnemonic = "sight apology success silly offer piano snap direct velvet gentle deliver virtual";
+var mnemonic = "doll end outdoor six key copper ball whale rebel search film enter";

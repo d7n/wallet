@@ -1,1 +1,1 @@
-var mnemonic = "age robust cluster blame debate buddy beef anger reason rent copper garlic";
+var mnemonic = "limb ginger around long cherry own sadness cube jacket meadow ostrich bid";

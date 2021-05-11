@@ -1,1 +1,1 @@
-var mnemonic = "leader pipe egg anger believe citizen tuna siege note stable length salute";
+var mnemonic = "beach wear lock inject hollow dolphin execute kid twin pupil biology future";

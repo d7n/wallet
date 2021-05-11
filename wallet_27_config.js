@@ -1,1 +1,1 @@
-var mnemonic = "dice portion forest become adult blossom meadow soda economy ability prepare taste";
+var mnemonic = "chat outer render payment dice kid manage alone dose aware vessel exercise";

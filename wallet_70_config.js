@@ -1,1 +1,1 @@
-var mnemonic = "priority toss friend public key lamp green gate limit actor early brick";
+var mnemonic = "express motor kiwi embody inject light resist such pistol proud delay girl";

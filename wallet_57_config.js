@@ -1,1 +1,1 @@
-var mnemonic = "deposit height race resist all lazy rotate tuition evolve outdoor eager survey";
+var mnemonic = "betray appear shove bar ball entire plate flash elevator roof width sight";

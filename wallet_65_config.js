@@ -1,1 +1,1 @@
-var mnemonic = "multiply gas offer judge fade math prepare minor sword frequent chaos volume";
+var mnemonic = "argue try lazy hope oxygen wet during pear first dog away display";

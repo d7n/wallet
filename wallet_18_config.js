@@ -1,1 +1,1 @@
-var mnemonic = "display fat toilet vault ostrich broom accuse sun limit vote mix legend";
+var mnemonic = "cradle document stock riot hair rebuild script stove heart pledge upper sausage";

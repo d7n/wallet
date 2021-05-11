@@ -1,1 +1,1 @@
-var mnemonic = "mom lounge pattern kit athlete people hold tomato antique fade defy coffee";
+var mnemonic = "robot fork local practice nature snap crazy figure confirm infant capital spoon";

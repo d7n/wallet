@@ -1,1 +1,1 @@
-var mnemonic = "measure comic sorry struggle cluster snack distance cube spice desk provide dizzy";
+var mnemonic = "clarify oxygen lawsuit thrive clean taste fox crop then brain draft kind";

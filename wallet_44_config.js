@@ -1,1 +1,1 @@
-var mnemonic = "column narrow frown foam tide rival renew patient column peanut nothing old";
+var mnemonic = "crazy pave oppose dove book amazing mule dynamic math humor vocal common";

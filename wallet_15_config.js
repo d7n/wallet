@@ -1,1 +1,1 @@
-var mnemonic = "joy license hen clerk chef fragile cruel gather service bulb lucky sniff";
+var mnemonic = "company wasp business seed guess era grow shrimp axis amazing track weasel";

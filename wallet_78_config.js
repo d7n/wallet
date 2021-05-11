@@ -1,1 +1,1 @@
-var mnemonic = "choose jump daring useless common worth rich rare identify drip exercise walk";
+var mnemonic = "beach tiger swear lady mechanic cheap universe apology genre eye situate course";

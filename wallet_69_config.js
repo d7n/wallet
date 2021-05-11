@@ -1,1 +1,1 @@
-var mnemonic = "install gold news trap crazy pepper helmet endless battle glass bleak truck";
+var mnemonic = "inside carry journey cement board lonely skirt indoor blur busy bacon moment";

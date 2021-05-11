@@ -1,1 +1,1 @@
-var mnemonic = "corn prepare detect basket cry ankle memory combine elevator claim talk boss";
+var mnemonic = "doll stem demise weekend script balance neck adult army jealous moon coral";

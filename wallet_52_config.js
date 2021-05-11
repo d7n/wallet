@@ -1,1 +1,1 @@
-var mnemonic = "faith year raccoon elite fault glare merit ripple genius cattle moon proud";
+var mnemonic = "rude nut buzz gaze card caution kangaroo general unlock leopard economy main";

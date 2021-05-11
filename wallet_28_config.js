@@ -1,1 +1,1 @@
-var mnemonic = "six wall rather huge dizzy catch age raven add latin badge funny";
+var mnemonic = "horror mean improve patrol basic setup couple horn lion enlist more cradle";

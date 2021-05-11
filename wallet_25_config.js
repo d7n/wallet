@@ -1,1 +1,1 @@
-var mnemonic = "square dutch maze three begin tennis cabbage maximum wet grab torch hollow";
+var mnemonic = "quick gadget govern frame wear evil rubber legend ill coach nut obscure";

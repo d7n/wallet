@@ -1,1 +1,1 @@
-var mnemonic = "day bargain repeat office police glove kick pole say fiction jacket pen";
+var mnemonic = "clever enroll differ limit trust casino employ foil top lens slush slender";

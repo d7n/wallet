@@ -1,1 +1,1 @@
-var mnemonic = "industry weapon science vanish know broccoli sign urge wolf school produce father";
+var mnemonic = "save news they clog nuclear bench switch angle clay road rookie sponsor";

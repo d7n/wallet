@@ -1,1 +1,1 @@
-var mnemonic = "tomato trim avocado chronic true pyramid minimum glow blanket cushion dice mesh";
+var mnemonic = "drum hint unaware empty century luggage system rate person return grape expire";

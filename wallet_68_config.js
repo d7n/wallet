@@ -1,1 +1,1 @@
-var mnemonic = "panda vendor menu resist message intact leader hurt dinner vapor umbrella use";
+var mnemonic = "rent laundry fall exotic trick odor average world enter carbon manage adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "churn build bounce wish believe sock gate disease space labor laugh tone";
+var mnemonic = "cook talent choose marriage unlock clerk volume tissue chapter predict bounce saddle";

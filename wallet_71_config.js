@@ -1,1 +1,1 @@
-var mnemonic = "mutual nuclear opera struggle decrease crawl extra neck discover garlic turtle hour";
+var mnemonic = "decrease expire road admit adapt live liquid trigger surface ivory dial peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "actual ready torch innocent repeat fitness level attitude decrease hub welcome quantum";
+var mnemonic = "outside orange evidence benefit axis misery deputy intact property blanket couch lion";

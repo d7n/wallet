@@ -1,1 +1,1 @@
-var mnemonic = "grass glue wide library office rapid hobby three help bleak utility busy";
+var mnemonic = "dish expand capital love special recipe region leaf scout ceiling sweet crop";

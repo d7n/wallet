@@ -1,1 +1,1 @@
-var mnemonic = "property cake error empty someone fog lawn oven foil great urge humble";
+var mnemonic = "supply job cinnamon small horse alley kitten leg insane design mixture essence";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt devote profit grunt attend jump bring brain empty purchase sniff oak";
+var mnemonic = "address meat rail gasp sausage firm assume hurdle success bright bike obey";

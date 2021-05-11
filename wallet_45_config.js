@@ -1,1 +1,1 @@
-var mnemonic = "swear village obscure grass arrow solve cigar mad celery expire relief potato";
+var mnemonic = "aim laptop pelican beach fabric tuna usage matter deliver antique rotate deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "move film educate version income tube assume obey inspire author rebel dress";
+var mnemonic = "popular rely custom lamp audit damage lava bicycle dignity silk smoke bridge";

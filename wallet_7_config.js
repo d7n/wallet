@@ -1,1 +1,1 @@
-var mnemonic = "circle ride sense amateur shine pill vacant emerge enroll tobacco school brick";
+var mnemonic = "message carbon myself vibrant doctor sport clown bubble lucky behave champion exit";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle broccoli boil scrub siege thought method nuclear dinner air inside sketch";
+var mnemonic = "slot enjoy knock various polar toast ice fee endless please bitter dolphin";

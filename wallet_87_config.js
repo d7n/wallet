@@ -1,1 +1,1 @@
-var mnemonic = "slim caution remind cage soccer control dial dust thing hunt analyst minimum";
+var mnemonic = "since butter butter mother wood expire hunt material report edit bubble tree";

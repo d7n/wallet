@@ -1,1 +1,1 @@
-var mnemonic = "thumb proof effort large stone type humble second fresh drip gain refuse";
+var mnemonic = "toast wisdom insect trip bar retreat future affair list mobile addict speak";

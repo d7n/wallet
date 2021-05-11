@@ -1,1 +1,1 @@
-var mnemonic = "dad expose rate often diamond muscle salon correct insane public have warm";
+var mnemonic = "also prepare shell attract problem repeat remind victory social pottery confirm genuine";

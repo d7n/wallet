@@ -1,1 +1,1 @@
-var mnemonic = "cargo circle exhibit day profit current basket margin today print engage swap";
+var mnemonic = "token sausage army curtain wife protect crew they truth notable mule material";

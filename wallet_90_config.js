@@ -1,1 +1,1 @@
-var mnemonic = "claim cigar absurd dirt tuition wood board napkin track lottery wrist point";
+var mnemonic = "effort lunar glory invest release actual abuse work garage hockey iron play";

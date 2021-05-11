@@ -1,1 +1,1 @@
-var mnemonic = "camera allow express jacket battle quantum ribbon ladder umbrella shy emotion celery";
+var mnemonic = "weekend oak spirit art spider evolve crawl keen absurd left snow copper";

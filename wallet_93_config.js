@@ -1,1 +1,1 @@
-var mnemonic = "license that disorder flock horse armed execute reason surge olympic asthma achieve";
+var mnemonic = "regular capital mirror clever wait six keep paper humble suffer hello kid";
