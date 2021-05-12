@@ -1,1 +1,1 @@
-var mnemonic = "human come mean trial grid abuse trouble country grit draw volcano quit";
+var mnemonic = "layer bind rich slow open salute mule shy topple very draft dizzy";

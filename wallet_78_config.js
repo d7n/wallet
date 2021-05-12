@@ -1,1 +1,1 @@
-var mnemonic = "smile like already course scare logic marble guide dune foot cinnamon chunk";
+var mnemonic = "during latin thank divorce exclude style foot frame panda cruise idea coral";

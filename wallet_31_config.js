@@ -1,1 +1,1 @@
-var mnemonic = "moral shoulder program swift pony audit hope warm plate latin grit token";
+var mnemonic = "couch century possible elegant twin seek ozone file own hope lazy shell";

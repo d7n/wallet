@@ -1,1 +1,1 @@
-var mnemonic = "mushroom tiny legend physical face column devote baby vicious refuse easy garment";
+var mnemonic = "burst online acoustic diesel lab creek crane good trial turtle fuel assault";

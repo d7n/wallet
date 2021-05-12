@@ -1,1 +1,1 @@
-var mnemonic = "gather rely tiger load country athlete shuffle lobster labor theme what soul";
+var mnemonic = "almost trim clip wedding achieve slam thing blush reject nation mandate dust";

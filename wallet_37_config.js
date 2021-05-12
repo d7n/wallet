@@ -1,1 +1,1 @@
-var mnemonic = "crunch drill album drive sign apart galaxy scene perfect door attract square";
+var mnemonic = "tennis climb shallow ancient heart beef brave joke catch offer palace orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "grant border fog toddler paper crew topple attract together degree mixed answer";
+var mnemonic = "fortune tank palm ahead vehicle absurd price wool square size slender piano";

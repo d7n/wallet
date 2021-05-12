@@ -1,1 +1,1 @@
-var mnemonic = "nut divorce aware girl opera gravity snow damage echo toddler enable abandon";
+var mnemonic = "crop acid beauty cook stereo situate push dizzy model print noble such";

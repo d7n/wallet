@@ -1,1 +1,1 @@
-var mnemonic = "wreck stage soul tomato logic soft crouch there pulse duty farm polar";
+var mnemonic = "real spawn staff satoshi swim check purity wave aim school second tilt";

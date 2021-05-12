@@ -1,1 +1,1 @@
-var mnemonic = "skull blast reject point night design tuition sight suspect rare clutch desk";
+var mnemonic = "moral actor swing vintage sweet dynamic outdoor volume else emotion spare sun";

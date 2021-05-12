@@ -1,1 +1,1 @@
-var mnemonic = "blade stock edit about friend maze birth stand knife photo junk arctic";
+var mnemonic = "text link settle biology grit off void pond slow fruit mandate kite";

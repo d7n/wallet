@@ -1,1 +1,1 @@
-var mnemonic = "half pause congress fog safe ostrich fix sugar regular tackle absurd action";
+var mnemonic = "horse embody fork solar journey mutual light wall palm wait prize unique";

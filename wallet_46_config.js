@@ -1,1 +1,1 @@
-var mnemonic = "will minimum good final involve attend early plug onion make wagon order";
+var mnemonic = "brisk foam company under text garbage shift render word hello game music";

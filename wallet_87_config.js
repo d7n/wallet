@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow market tired priority fat drive palace kingdom decorate toast true claw";
+var mnemonic = "sphere endorse salute month eyebrow during dismiss forest dilemma bundle daring pottery";

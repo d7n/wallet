@@ -1,1 +1,1 @@
-var mnemonic = "correct neither margin transfer cigar hawk patrol level vague glide book save";
+var mnemonic = "number frequent asthma team nurse afraid dune ahead robot guess ticket beef";

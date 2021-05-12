@@ -1,1 +1,1 @@
-var mnemonic = "lizard under prefer alarm silent valid culture embrace address hub paper old";
+var mnemonic = "gadget try eyebrow awesome select shrimp ripple repeat north tent gate point";

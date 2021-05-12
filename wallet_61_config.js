@@ -1,1 +1,1 @@
-var mnemonic = "pigeon question horror tunnel gap hurt crisp bring wink repeat profit inject";
+var mnemonic = "asthma summer benefit border wheat apology travel skirt blouse view puzzle exclude";

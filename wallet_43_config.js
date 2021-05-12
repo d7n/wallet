@@ -1,1 +1,1 @@
-var mnemonic = "goddess drive sell fancy retire script crouch inject call grit exhibit wall";
+var mnemonic = "fat earth learn history come rough earn occur baby hospital turtle dog";

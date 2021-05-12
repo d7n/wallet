@@ -1,1 +1,1 @@
-var mnemonic = "extra saddle wave love alter indoor height have noise appear move pupil";
+var mnemonic = "apart question guilt balcony there term arena whale grunt assume web left";

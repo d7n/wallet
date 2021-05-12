@@ -1,1 +1,1 @@
-var mnemonic = "practice husband era century silver lecture estate type split wrap sphere remove";
+var mnemonic = "main tonight minimum alter primary oven hello actor virtual hedgehog same cruel";

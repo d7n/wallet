@@ -1,1 +1,1 @@
-var mnemonic = "resource enrich dinner better genuine safe random theory vehicle material rotate bachelor";
+var mnemonic = "roast catch tattoo vintage vault gaze artwork motion orient embrace hour chronic";

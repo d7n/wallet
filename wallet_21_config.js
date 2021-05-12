@@ -1,1 +1,1 @@
-var mnemonic = "certain erase uniform tower mix illness soon warfare side general path derive";
+var mnemonic = "pause actual flee night sting input symbol olive forget science physical use";

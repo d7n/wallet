@@ -1,1 +1,1 @@
-var mnemonic = "circle such crazy squeeze pause possible economy sound brown bottom olympic sweet";
+var mnemonic = "analyst modify spatial unfold grit enrich run clog example list stool early";

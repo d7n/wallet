@@ -1,1 +1,1 @@
-var mnemonic = "leisure raise surround echo series where better candy produce upper youth loop";
+var mnemonic = "danger mention provide unfair worry gain favorite gas smile latin resist rule";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage hunt hint alter list agent portion spice swarm monkey jar box";
+var mnemonic = "garment razor season hotel wait opera fat unable maximum actual assume fog";

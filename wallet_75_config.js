@@ -1,1 +1,1 @@
-var mnemonic = "play fat acquire slender fish valve stove summer hover jealous paper uncover";
+var mnemonic = "furnace year garbage equip task warrior jewel vast blush shell top animal";

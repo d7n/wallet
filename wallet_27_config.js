@@ -1,1 +1,1 @@
-var mnemonic = "dismiss split zero brisk spare keep elephant aim bird dinosaur mobile security";
+var mnemonic = "keen level stick purchase oven goose wrist split innocent strategy lumber glad";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade tape client luggage calm hammer system other labor wild defense rocket";
+var mnemonic = "impulse crunch vendor crawl prosper heavy annual trend upgrade job material host";

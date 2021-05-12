@@ -1,1 +1,1 @@
-var mnemonic = "address album present grunt garden matter fade caught midnight damage camera throw";
+var mnemonic = "equip glimpse leaf palace album fox need wild rain jump soldier tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle sock ocean friend you section certain moon rabbit toe eyebrow identify";
+var mnemonic = "spell dial bone entire knee infant blossom age vacant mercy biology glad";

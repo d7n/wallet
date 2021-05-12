@@ -1,1 +1,1 @@
-var mnemonic = "merit neglect roof school bicycle book shift provide erosion clerk convince life";
+var mnemonic = "airport quiz broken wrist blur actor hire uncle wage employ leaf feed";

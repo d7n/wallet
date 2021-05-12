@@ -1,1 +1,1 @@
-var mnemonic = "bargain skin orphan region lesson bright owner opera notice verb learn cover";
+var mnemonic = "main spend vital guide vocal elephant side word initial lawn average hard";

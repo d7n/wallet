@@ -1,1 +1,1 @@
-var mnemonic = "damp coconut delay judge warm culture topic about black recipe express august";
+var mnemonic = "sugar thrive dog coach benefit despair length tired idea bird split dash";

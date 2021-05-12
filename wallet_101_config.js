@@ -1,1 +1,1 @@
-var mnemonic = "oyster thumb innocent twist alter claw chapter pyramid law clown aspect distance";
+var mnemonic = "frog begin inflict armed below magic pulse relax doll virtual tunnel try";

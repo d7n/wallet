@@ -1,1 +1,1 @@
-var mnemonic = "panther waste leopard year humble wild adjust exotic armed smoke skill vault";
+var mnemonic = "ancient inner include slab loud hint size climb sound illegal jazz fiction";

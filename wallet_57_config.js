@@ -1,1 +1,1 @@
-var mnemonic = "online indicate affair work apology leaf fetch ankle shoulder basket chest actor";
+var mnemonic = "manual state bicycle capital abuse never cost inner badge cancel vacant later";

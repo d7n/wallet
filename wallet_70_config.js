@@ -1,1 +1,1 @@
-var mnemonic = "people exhibit spin occur fly firm season orphan garage equal bonus civil";
+var mnemonic = "exclude rural trim huge wash whale journey program clinic loud sense carbon";

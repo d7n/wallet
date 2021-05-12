@@ -1,1 +1,1 @@
-var mnemonic = "season combine empty judge mango discover symbol drop book brick spin neutral";
+var mnemonic = "twin ramp disagree better ski else rare elephant elite void giraffe object";

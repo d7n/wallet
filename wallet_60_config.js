@@ -1,1 +1,1 @@
-var mnemonic = "flower zone boil mom city naive frame album garage observe upon jewel";
+var mnemonic = "champion labor news apology math crop sand victory attract antenna feel sing";

@@ -1,1 +1,1 @@
-var mnemonic = "host alarm dirt put finish gallery voice follow month reason fat ill";
+var mnemonic = "elbow always require limb brisk final divorce gate estate much attract song";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel become license sentence leopard wash paddle clay tongue shop erosion unknown";
+var mnemonic = "salon palm gown toast giant catch orient opinion echo tumble dry resource";

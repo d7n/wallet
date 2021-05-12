@@ -1,1 +1,1 @@
-var mnemonic = "topple tray scorpion artwork shadow fire where spawn tail capital agent source";
+var mnemonic = "beyond penalty embrace digital express poverty inspire injury danger divorce slim sausage";

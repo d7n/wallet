@@ -1,1 +1,1 @@
-var mnemonic = "album actor used panel kitten faint satoshi rebuild mistake chaos menu boat";
+var mnemonic = "write pill lion rug alpha stage about square arena scan kitchen egg";

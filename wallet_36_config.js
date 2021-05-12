@@ -1,1 +1,1 @@
-var mnemonic = "attitude stool enact wrong neither enlist practice sort exhaust yellow excess earn";
+var mnemonic = "wish dinner despair calm napkin soap upon virus metal crack car swim";

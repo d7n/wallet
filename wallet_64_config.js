@@ -1,1 +1,1 @@
-var mnemonic = "net pole avocado pistol kingdom cancel nothing add enroll fish exotic limit";
+var mnemonic = "hidden brother describe core cement essay solar ridge shadow quote cupboard giraffe";

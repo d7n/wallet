@@ -1,1 +1,1 @@
-var mnemonic = "hint door capital mammal poet audit file over brisk absent merit style";
+var mnemonic = "blame goose awful hair genius borrow arrive shift humble food fold effort";

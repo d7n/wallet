@@ -1,1 +1,1 @@
-var mnemonic = "muscle cram company critic unlock file base olympic awkward cruel taxi hole";
+var mnemonic = "junk twist edge hammer patch deposit lake melt seven island flee detail";

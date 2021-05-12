@@ -1,1 +1,1 @@
-var mnemonic = "rebuild sudden acoustic upset document zero print notice once cabin fly knee";
+var mnemonic = "oblige dignity curious october crouch space sight nerve nominee two midnight agent";

@@ -1,1 +1,1 @@
-var mnemonic = "text board enlist ivory flash season direct useful train nominee inner tomato";
+var mnemonic = "lunch envelope step keen math traffic force farm fish announce torch again";

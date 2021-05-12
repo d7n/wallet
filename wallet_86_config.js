@@ -1,1 +1,1 @@
-var mnemonic = "possible crisp cause force lobster alter spirit pledge garden maze youth scan";
+var mnemonic = "artefact again garment dismiss law clump enforce enough lab tortoise cat butter";

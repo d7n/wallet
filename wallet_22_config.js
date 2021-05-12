@@ -1,1 +1,1 @@
-var mnemonic = "thing edit wreck galaxy now boss design nominee library kid expand run";
+var mnemonic = "icon wife cat attract muscle beef route enough tuition have wet daughter";

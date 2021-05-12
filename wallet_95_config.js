@@ -1,1 +1,1 @@
-var mnemonic = "firm parade trumpet catalog goat sphere height lunar twelve consider pig pumpkin";
+var mnemonic = "idea hotel rocket access legal meat marble thank zoo verb start volcano";

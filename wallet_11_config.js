@@ -1,1 +1,1 @@
-var mnemonic = "own hurdle parrot laugh team year discover unlock today major miss raw";
+var mnemonic = "fix wealth warm maple garment style hat impact carry proud lobster bench";

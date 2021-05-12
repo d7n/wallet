@@ -1,1 +1,1 @@
-var mnemonic = "drop viable thumb cake panda payment swing defense response host indoor salon";
+var mnemonic = "before three behave wealth warrior suffer helmet into crystal remove clip behave";

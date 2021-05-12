@@ -1,1 +1,1 @@
-var mnemonic = "space outer ritual fat term champion dog nothing appear scissors diet ordinary";
+var mnemonic = "volume logic minimum enrich cage noise upper unusual tennis measure mirror tell";

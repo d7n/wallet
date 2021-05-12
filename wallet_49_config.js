@@ -1,1 +1,1 @@
-var mnemonic = "fire reunion country beauty rent bunker actress then swing tonight chaos evidence";
+var mnemonic = "crowd organ pulp cotton same correct polar mass physical soft long shine";

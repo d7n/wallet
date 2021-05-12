@@ -1,1 +1,1 @@
-var mnemonic = "stool divorce mammal weapon execute decorate planet scrub claw beef expose thank";
+var mnemonic = "fault saddle second issue ring piece syrup cage lesson kick shove keen";

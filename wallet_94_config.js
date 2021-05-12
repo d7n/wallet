@@ -1,1 +1,1 @@
-var mnemonic = "insane will gorilla debate wife stock loud hungry explain spell pumpkin all";
+var mnemonic = "celery hint attend fun pause claim second tennis bamboo follow misery track";

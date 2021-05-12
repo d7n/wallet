@@ -1,1 +1,1 @@
-var mnemonic = "slow miss plunge ignore bachelor execute shield wire bunker prison reform guard";
+var mnemonic = "file armor float artwork unfold slow taste neglect sleep addict coin music";

@@ -1,1 +1,1 @@
-var mnemonic = "suit dinner ignore next pass image scan chair dirt mix march popular";
+var mnemonic = "pencil area pipe chapter armed leaf book call ghost harvest butter retreat";

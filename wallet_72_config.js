@@ -1,1 +1,1 @@
-var mnemonic = "various chronic middle census best armed weather clay across sugar vault mansion";
+var mnemonic = "require dawn miracle amount diary pulp fluid exchange step enjoy bunker scout";

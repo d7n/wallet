@@ -1,1 +1,1 @@
-var mnemonic = "nest warm allow occur meadow also diet material expire cabin frog use";
+var mnemonic = "myth poet absorb sausage stumble funny join jaguar merit put garbage sphere";

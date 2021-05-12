@@ -1,1 +1,1 @@
-var mnemonic = "afraid prevent time bamboo clog fee eight problem swear drama exotic actor";
+var mnemonic = "sauce hazard arrest ocean elbow door disagree icon october federal sword voyage";

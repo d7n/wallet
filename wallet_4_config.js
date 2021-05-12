@@ -1,1 +1,1 @@
-var mnemonic = "inch enact post correct nut clump this home tower tone hub abandon";
+var mnemonic = "butter imitate affair better water spot network win flavor destroy project absorb";

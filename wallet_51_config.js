@@ -1,1 +1,1 @@
-var mnemonic = "improve library staff air hobby huge cycle citizen screen video team victory";
+var mnemonic = "page intact ocean bomb travel deer private number plate sure vicious expand";

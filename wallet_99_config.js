@@ -1,1 +1,1 @@
-var mnemonic = "volume render solve crawl nephew punch shy angry blouse diary rocket mango";
+var mnemonic = "outside hint drink orbit achieve give symbol return funny early stool economy";

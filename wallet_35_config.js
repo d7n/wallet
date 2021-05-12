@@ -1,1 +1,1 @@
-var mnemonic = "dad reason turkey want soup swing scrap stairs skill castle large escape";
+var mnemonic = "drop achieve rely job matter example light black valley step age tuna";

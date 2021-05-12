@@ -1,1 +1,1 @@
-var mnemonic = "february pudding rescue question north series panda poem equip author scan powder";
+var mnemonic = "derive napkin change arena wolf vocal renew merit tribe veteran creek provide";

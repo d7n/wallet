@@ -1,1 +1,1 @@
-var mnemonic = "fatigue fatal good coffee stem long simple draft sample father equal frame";
+var mnemonic = "venue employ beach drama opinion order hazard magnet primary bitter heart reward";

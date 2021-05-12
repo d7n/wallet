@@ -1,1 +1,1 @@
-var mnemonic = "sorry adult sustain melt west book blast tribe behave mad grain mom";
+var mnemonic = "sweet april carpet hero birth maximum layer round describe ride wisdom tell";

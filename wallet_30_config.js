@@ -1,1 +1,1 @@
-var mnemonic = "wedding piano farm gift staff drama couch eight inform topple three above";
+var mnemonic = "symptom profit blood until high method effort ocean million dinosaur hello chief";

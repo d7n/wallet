@@ -1,1 +1,1 @@
-var mnemonic = "duck exotic hair sniff defy high antenna able bridge catch plug mouse";
+var mnemonic = "uncover purchase notable hole work road better install review zoo barrel cause";

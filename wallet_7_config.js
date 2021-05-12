@@ -1,1 +1,1 @@
-var mnemonic = "wing decrease below room simple wing minute crawl slow double fame bike";
+var mnemonic = "kiwi school rural win ready unaware any floor predict patch caution since";

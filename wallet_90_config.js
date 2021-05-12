@@ -1,1 +1,1 @@
-var mnemonic = "monkey man legend clap huge ship blade own write weekend drink dinner";
+var mnemonic = "advice outdoor calm load reveal dial patrol where gain romance local gravity";

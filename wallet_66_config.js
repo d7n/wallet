@@ -1,1 +1,1 @@
-var mnemonic = "abandon age champion earn payment icon garbage good enter disease spin nominee";
+var mnemonic = "potato hotel valley execute engage gold pelican mango theory flavor skin figure";

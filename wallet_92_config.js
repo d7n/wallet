@@ -1,1 +1,1 @@
-var mnemonic = "they young relief orchard pyramid black type oppose sheriff suggest nature talent";
+var mnemonic = "key tunnel poverty defy door quantum divorce include seminar stone squirrel donkey";

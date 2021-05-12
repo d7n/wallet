@@ -1,1 +1,1 @@
-var mnemonic = "music baby whip vote indoor one title wheel danger into raven test";
+var mnemonic = "federal slot capable famous host arrow chair fish index limit group mountain";

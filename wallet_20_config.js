@@ -1,1 +1,1 @@
-var mnemonic = "door onion arctic plastic curve brush home disagree congress then noise boss";
+var mnemonic = "leader away auction design security depth elevator near alter vote wreck produce";

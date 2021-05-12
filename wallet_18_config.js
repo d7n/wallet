@@ -1,1 +1,1 @@
-var mnemonic = "park refuse tackle airport brick mesh skirt crumble venture kite marble drink";
+var mnemonic = "weapon noodle smoke wrong giant inhale wheat board cheap health salute chicken";

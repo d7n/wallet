@@ -1,1 +1,1 @@
-var mnemonic = "coyote earn table sponsor acid tomato bone turn boss fetch orbit ship";
+var mnemonic = "exotic ocean april work ten cushion tourist size woman quote ecology hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "educate near mixed common bacon voice cart simple ask because shoe country";
+var mnemonic = "advance boss bulb circle excite come scorpion glory tomato cat sheriff lumber";

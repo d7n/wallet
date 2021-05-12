@@ -1,1 +1,1 @@
-var mnemonic = "chest soda kitten kingdom grace uncle turn lesson kite razor promote security";
+var mnemonic = "festival sun resist govern volume join diet truck crouch right scene crucial";

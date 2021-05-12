@@ -1,1 +1,1 @@
-var mnemonic = "sorry settle essence retreat man course pioneer army tribe cinnamon fiction symptom";
+var mnemonic = "auto predict cheap snack upset fence stem pen ticket dwarf bronze topple";

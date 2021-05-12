@@ -1,1 +1,1 @@
-var mnemonic = "family walnut fringe snap ladder position order allow possible year shove quality";
+var mnemonic = "miss shoe dice pigeon flower caution fossil assist theme carpet spawn title";

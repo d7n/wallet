@@ -1,1 +1,1 @@
-var mnemonic = "solar include creek series involve gasp drum thumb solar jealous ball auto";
+var mnemonic = "visual love jazz best scare grow ability express diamond shed undo wall";

@@ -1,1 +1,1 @@
-var mnemonic = "runway minute lake chimney flight obvious power evoke usage expire height dance";
+var mnemonic = "cable often neck amazing iron rubber issue rigid puppy alcohol trophy common";

@@ -1,1 +1,1 @@
-var mnemonic = "truck vibrant gold ask base provide meadow hedgehog later input fancy indoor";
+var mnemonic = "either legend point distance trip more curious more need leg name series";

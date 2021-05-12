@@ -1,1 +1,1 @@
-var mnemonic = "casual maple indicate lobster muffin bargain depart ask hidden place drama genre";
+var mnemonic = "happy laptop organ place tortoise estate wise fetch include ivory usual problem";

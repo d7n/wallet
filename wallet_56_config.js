@@ -1,1 +1,1 @@
-var mnemonic = "often skate wheel embody animal tank marine foil happy insect depth waste";
+var mnemonic = "opera glory try depart kitchen height advance father hidden thing social capable";

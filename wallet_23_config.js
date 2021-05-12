@@ -1,1 +1,1 @@
-var mnemonic = "leopard brain prevent impact armor damp upset universe bamboo taxi know enrich";
+var mnemonic = "obscure possible charge voice rescue scorpion mouse use gold toss arrive tumble";

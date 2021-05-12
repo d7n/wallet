@@ -1,1 +1,1 @@
-var mnemonic = "spin run elite business glide carry access fire yard seed grid can";
+var mnemonic = "trophy soda front stairs sibling sketch castle pink before thrive shove invite";

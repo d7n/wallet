@@ -1,1 +1,1 @@
-var mnemonic = "pink liquid bounce industry myself virtual bridge lunar naive wheat solution lemon";
+var mnemonic = "brass parade appear wall burden sing flame panther seek inmate window film";

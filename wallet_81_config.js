@@ -1,1 +1,1 @@
-var mnemonic = "raw crystal erupt spare happy kangaroo enemy arrest vacant spell dignity rich";
+var mnemonic = "light between coyote neither illegal mesh awake turn opera memory glare journey";
