@@ -1,1 +1,1 @@
-var mnemonic = "else naive warm spray wall stable pattern credit dash enforce monkey organ";
+var mnemonic = "embark rifle pet robot twenty humble fringe bamboo strike certain nephew talent";

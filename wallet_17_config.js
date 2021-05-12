@@ -1,1 +1,1 @@
-var mnemonic = "tongue priority rough mountain practice coffee height prefer tuition fetch whisper cloth";
+var mnemonic = "whale sister patch knock night sheriff float dynamic window borrow shrimp special";

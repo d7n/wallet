@@ -1,1 +1,1 @@
-var mnemonic = "erosion bronze crawl weasel save beauty axis hold fiber tape snap maid";
+var mnemonic = "easy gesture armor number behave nut medal survey exhaust bulk raise only";

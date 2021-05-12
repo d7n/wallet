@@ -1,1 +1,1 @@
-var mnemonic = "broccoli still alpha age cigar sock spirit brief region fold gorilla crack";
+var mnemonic = "swear enemy labor roof hair naive bulk metal leave menu file birth";

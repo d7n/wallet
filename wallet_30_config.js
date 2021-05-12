@@ -1,1 +1,1 @@
-var mnemonic = "bamboo network family critic lamp repeat fashion ability still cruel action crane";
+var mnemonic = "verify summer repair retreat liar blind dove anger there stairs isolate doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "level together common bundle marriage until emotion meat spring choose lens typical";
+var mnemonic = "account worth goddess medal ghost zebra scrub rigid pass filter jeans route";

@@ -1,1 +1,1 @@
-var mnemonic = "fan kiss vital neglect fringe popular laundry muscle knock allow material fitness";
+var mnemonic = "debris story door access tongue travel hockey affair shoot gravity magnet paddle";

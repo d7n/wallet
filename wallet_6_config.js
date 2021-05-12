@@ -1,1 +1,1 @@
-var mnemonic = "forward cancel tired eager lizard south vocal marine deny organ twin start";
+var mnemonic = "amazing smooth taste repair betray century what stamp soul marble already scare";

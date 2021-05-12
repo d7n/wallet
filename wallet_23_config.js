@@ -1,1 +1,1 @@
-var mnemonic = "hurdle tape illness audit pilot tortoise trip wisdom misery badge right palace";
+var mnemonic = "extra thought desk review habit casual cabin become poem frost either unlock";

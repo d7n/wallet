@@ -1,1 +1,1 @@
-var mnemonic = "mass unfair stomach despair small caught reopen recall frequent plug vicious space";
+var mnemonic = "sugar fade give drift define bachelor march exercise mean obvious scan gas";

@@ -1,1 +1,1 @@
-var mnemonic = "clock fee genre concert alone label still coin live length normal update";
+var mnemonic = "zoo filter sausage meat wise input earn river approve target never obey";

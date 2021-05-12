@@ -1,1 +1,1 @@
-var mnemonic = "eye pet rug victory job leader connect aerobic boat six dumb grab";
+var mnemonic = "royal jealous tumble brass toss void tide dog culture trade secret warrior";

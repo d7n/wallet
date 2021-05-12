@@ -1,1 +1,1 @@
-var mnemonic = "enact stool rhythm mouse produce own father vacant life twin satoshi axis";
+var mnemonic = "mansion amused fatal airport focus flip private whale scorpion canvas estate cancel";

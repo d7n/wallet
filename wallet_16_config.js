@@ -1,1 +1,1 @@
-var mnemonic = "say acid exact cart meat talent copy athlete script manage satisfy awful";
+var mnemonic = "upon retire loan camp clip scan during argue brother genuine potato dolphin";

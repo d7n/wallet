@@ -1,1 +1,1 @@
-var mnemonic = "assault keen shiver congress brush excite video winner inch dinner finish hood";
+var mnemonic = "tired cute morning aerobic kiwi left tape neither robust asset claw forward";

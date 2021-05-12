@@ -1,1 +1,1 @@
-var mnemonic = "provide split taxi canoe fresh palm key sell giant long entry example";
+var mnemonic = "moon manage fat script bone disagree elder barrel thought swim surface sight";

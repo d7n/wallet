@@ -1,1 +1,1 @@
-var mnemonic = "expire erase patrol glory ill round enemy office word snack blur garden";
+var mnemonic = "flavor pizza delay patient symbol own radio sweet allow violin then charge";

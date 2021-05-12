@@ -1,1 +1,1 @@
-var mnemonic = "seek cave hollow frame media among aware rebel alter message right fragile";
+var mnemonic = "fever attract brother congress foil mimic attend bicycle humor valley tube concert";

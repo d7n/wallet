@@ -1,1 +1,1 @@
-var mnemonic = "submit become quote local prosper drink switch inhale fabric artist maximum symptom";
+var mnemonic = "prevent hollow chief scan hotel goose raccoon innocent kid brown chicken must";

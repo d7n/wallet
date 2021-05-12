@@ -1,1 +1,1 @@
-var mnemonic = "puppy vacuum rich cupboard innocent nothing insect bonus chunk loan exchange mutual";
+var mnemonic = "kid tilt desert weird ramp evil feed sketch setup beach ancient pupil";

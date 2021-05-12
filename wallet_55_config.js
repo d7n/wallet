@@ -1,1 +1,1 @@
-var mnemonic = "candy daughter click grocery worry olive exact material torch guess pool erosion";
+var mnemonic = "retire call artefact toddler ripple negative simple despair rotate answer muffin shoulder";

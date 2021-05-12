@@ -1,1 +1,1 @@
-var mnemonic = "solid topple vicious dust arch interest squirrel good repeat side silent farm";
+var mnemonic = "wife whisper keep pass cook worry stone apology veteran system judge crack";

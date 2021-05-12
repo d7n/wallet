@@ -1,1 +1,1 @@
-var mnemonic = "alert silk truck hood absorb parade case wing mansion unlock pig jealous";
+var mnemonic = "notice rain cruise pledge file swap trust betray surprise dwarf silent host";

@@ -1,1 +1,1 @@
-var mnemonic = "side gauge day turkey enough impact potato range enemy pull romance artist";
+var mnemonic = "patient scale usage same dog plunge bronze hint exile during bean fringe";

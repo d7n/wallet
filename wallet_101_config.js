@@ -1,1 +1,1 @@
-var mnemonic = "derive panic gym imitate near race giant evil alarm limit flip book";
+var mnemonic = "pact sign dizzy catch opera heart glory liberty crumble planet inside firm";

@@ -1,1 +1,1 @@
-var mnemonic = "wash answer element stock village happy advance regular budget display horror affair";
+var mnemonic = "public oppose series waste grid enrich city cushion liquid hunt engage famous";

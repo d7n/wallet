@@ -1,1 +1,1 @@
-var mnemonic = "crumble hint tomorrow joke hope naive shop burden rude slush meadow final";
+var mnemonic = "edit focus snack scissors deer detail exact assault exist current mouse moon";

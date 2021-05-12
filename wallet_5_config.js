@@ -1,1 +1,1 @@
-var mnemonic = "school pet bulb dance chair siege clever lucky riot surge fix sell";
+var mnemonic = "toddler theory leader bulb deposit trash virus maple pitch cargo cattle december";

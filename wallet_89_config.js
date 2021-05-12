@@ -1,1 +1,1 @@
-var mnemonic = "plunge gather immense elegant across strategy wisdom cook palace present leave win";
+var mnemonic = "merge liquid extra domain grit fragile february opera lucky crystal adjust bright";

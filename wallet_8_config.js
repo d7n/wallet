@@ -1,1 +1,1 @@
-var mnemonic = "mobile museum chimney swarm mean draft way congress lift pretty upgrade gather";
+var mnemonic = "force glory simple shaft grid scan donor endless shuffle scene settle duty";

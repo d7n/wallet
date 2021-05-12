@@ -1,1 +1,1 @@
-var mnemonic = "gentle prize lonely mad humble gun tilt embody away snow detail wave";
+var mnemonic = "onion stumble poet wedding goddess response hill private visit citizen cricket dutch";

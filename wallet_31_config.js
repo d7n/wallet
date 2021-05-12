@@ -1,1 +1,1 @@
-var mnemonic = "grief arrive humor stove little aisle century siege cream art behind ranch";
+var mnemonic = "mouse tattoo copper antique december nothing legal meat suspect lift toward whip";

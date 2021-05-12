@@ -1,1 +1,1 @@
-var mnemonic = "stand advance believe donate try human gasp mosquito parrot talk amateur wage";
+var mnemonic = "flame brief foot resist tumble spray boring face surface habit pulp opinion";

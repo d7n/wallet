@@ -1,1 +1,1 @@
-var mnemonic = "voice gaze minor alone anger rent poet spoil slice word control guard";
+var mnemonic = "orbit segment rain awful alien side young can girl brain before uphold";

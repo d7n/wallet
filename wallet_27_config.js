@@ -1,1 +1,1 @@
-var mnemonic = "ketchup toast still grace bounce picnic comic limb top logic eagle loop";
+var mnemonic = "provide tonight track habit torch cheese truth box blue stand stereo penalty";

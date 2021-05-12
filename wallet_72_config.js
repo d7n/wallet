@@ -1,1 +1,1 @@
-var mnemonic = "push fortune tilt all pretty ancient connect young under illness uncle farm";
+var mnemonic = "inch animal maximum assault attitude absorb flag lounge floor solar rapid addict";

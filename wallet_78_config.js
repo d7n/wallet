@@ -1,1 +1,1 @@
-var mnemonic = "cement excite clip dinner recipe elder profit amused zero side hobby agent";
+var mnemonic = "desk able future high idea damage aunt uphold blush roof honey chunk";

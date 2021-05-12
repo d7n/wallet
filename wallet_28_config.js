@@ -1,1 +1,1 @@
-var mnemonic = "item reason flavor tuna style diesel silk leaf ribbon cradle base angry";
+var mnemonic = "thing tomorrow process bamboo cabbage give injury shadow remind summer erosion trigger";

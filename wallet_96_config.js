@@ -1,1 +1,1 @@
-var mnemonic = "diary slide other album energy mix pair cheese loop stomach flat fly";
+var mnemonic = "humble oil puppy what impact sudden witness vivid festival allow upper organ";

@@ -1,1 +1,1 @@
-var mnemonic = "silver muffin impact wood cable ranch hen hungry dish clean simple tribe";
+var mnemonic = "question famous concert open catch book payment pelican only farm quality glance";

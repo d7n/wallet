@@ -1,1 +1,1 @@
-var mnemonic = "clean hard armor various prison west hello undo leave unit humor fog";
+var mnemonic = "employ antenna kitchen pact ability mask coyote receive mail erosion fiscal volcano";

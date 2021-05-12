@@ -1,1 +1,1 @@
-var mnemonic = "try unlock initial horn gauge area multiply age modify since feature pudding";
+var mnemonic = "settle bean blouse level sweet grace stay age mistake earn whale elite";

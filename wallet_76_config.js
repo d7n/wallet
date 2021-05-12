@@ -1,1 +1,1 @@
-var mnemonic = "special refuse quarter antique burden habit squirrel click level quick enact shift";
+var mnemonic = "sad social mountain metal horn code iron casual scheme promote skirt shallow";

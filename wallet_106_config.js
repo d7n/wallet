@@ -1,1 +1,1 @@
-var mnemonic = "child soup satoshi social shiver enact nut unveil alpha weapon erase wide";
+var mnemonic = "asset hub asthma bleak focus plug gasp glue ranch speed stumble excess";

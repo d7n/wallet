@@ -1,1 +1,1 @@
-var mnemonic = "visit version chaos seminar travel wish turn eternal spider basic leg green";
+var mnemonic = "any puppy left empty recall absorb window fun flee satisfy road trial";

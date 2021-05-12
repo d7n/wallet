@@ -1,1 +1,1 @@
-var mnemonic = "brother subway witness follow news veteran fine find relax input blush position";
+var mnemonic = "flip level concert eight valve undo cage coral gloom survey coach waste";

@@ -1,1 +1,1 @@
-var mnemonic = "urban youth verb accuse rude alley slim body shrimp faint describe reopen";
+var mnemonic = "ketchup ill sting buzz ancient cement various life because paper baby stick";

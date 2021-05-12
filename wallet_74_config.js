@@ -1,1 +1,1 @@
-var mnemonic = "scare magic oblige license dream legend dinosaur happy someone rabbit flavor suit";
+var mnemonic = "ginger dog mutual gym unfair claw phone daring punch coast trip pill";

@@ -1,1 +1,1 @@
-var mnemonic = "dust short gauge window ahead census sheriff shine cost private rural gossip";
+var mnemonic = "drill utility bone burden fossil foot music endorse ask fit marble buddy";

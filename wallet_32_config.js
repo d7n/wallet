@@ -1,1 +1,1 @@
-var mnemonic = "chat suspect metal rug maple actual abandon agent medal shoe omit bulb";
+var mnemonic = "hen inner into noble seat flee discover audit mix depend blanket like";

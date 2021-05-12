@@ -1,1 +1,1 @@
-var mnemonic = "treat entire crater wheel rain unusual pioneer repair fiction bring food bone";
+var mnemonic = "mango useful business pill robust birth season century chaos clock broom hungry";

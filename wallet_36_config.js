@@ -1,1 +1,1 @@
-var mnemonic = "side rule lend swift nut crew flip quantum once marble perfect squirrel";
+var mnemonic = "obscure wrist hurdle later deer tumble miss loan door wide viable wet";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker kitchen vibrant movie describe unlock prize board special bounce month mammal";
+var mnemonic = "describe fee foot tattoo bomb hen morning dinosaur taxi menu number rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "menu tumble output air hundred marble tray evil coil remember save avocado";
+var mnemonic = "mechanic width acoustic magnet lounge expect foster source evoke fox bundle distance";

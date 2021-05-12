@@ -1,1 +1,1 @@
-var mnemonic = "ordinary mean immense denial diet hour ankle require antique loud deal poet";
+var mnemonic = "method inside tail exercise dry speak soda bullet feature atom another tornado";

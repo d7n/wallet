@@ -1,1 +1,1 @@
-var mnemonic = "monitor rabbit radio soap cram cool little twist panda still online swim";
+var mnemonic = "bread response salt multiply copper lemon rather object mind inhale eye engage";

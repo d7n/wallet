@@ -1,1 +1,1 @@
-var mnemonic = "private paper captain kitchen sustain report define where sign smoke decade surprise";
+var mnemonic = "suggest return vacuum inner wrist quit waste zero ship sketch mention brick";

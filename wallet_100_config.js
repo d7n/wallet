@@ -1,1 +1,1 @@
-var mnemonic = "guilt path afraid famous prevent addict lend answer agent sadness erosion mosquito";
+var mnemonic = "rug grab exile curtain fence horn refuse century into car dwarf lift";

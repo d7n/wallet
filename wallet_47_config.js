@@ -1,1 +1,1 @@
-var mnemonic = "sustain animal salmon room uphold scrap mechanic assist swing panel olympic model";
+var mnemonic = "divorce display aim during fitness coffee then breeze heart brush caught south";

@@ -1,1 +1,1 @@
-var mnemonic = "february treat olive soap staff supreme prevent base song gather middle abandon";
+var mnemonic = "hollow dial mechanic pulse youth direct age heavy capital choose panic tattoo";

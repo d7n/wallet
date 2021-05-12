@@ -1,1 +1,1 @@
-var mnemonic = "vault ride betray tornado during island tide chair ostrich judge raw razor";
+var mnemonic = "illegal erupt butter short sense define goose height rug receive critic kiss";

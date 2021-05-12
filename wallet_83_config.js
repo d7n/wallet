@@ -1,1 +1,1 @@
-var mnemonic = "surround load eager shine filter foot physical return blue fever shy champion";
+var mnemonic = "turkey moral riot spice tattoo trial husband wagon prize injury net left";

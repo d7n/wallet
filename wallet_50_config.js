@@ -1,1 +1,1 @@
-var mnemonic = "brave guide bike web unit relax avoid office bright analyst execute mammal";
+var mnemonic = "hair mansion forum stove fiction travel junk angle bus define van estate";

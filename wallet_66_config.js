@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon icon few carpet tomorrow ahead life sausage suspect sheriff latin subway";
+var mnemonic = "more hurt own age thunder kidney candy fade arch sausage social rebuild";

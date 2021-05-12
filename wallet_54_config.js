@@ -1,1 +1,1 @@
-var mnemonic = "flee wedding tag neutral swamp congress turtle price sun exhaust wise cannon";
+var mnemonic = "level size tonight cross soda mom private upset twice monitor short damp";

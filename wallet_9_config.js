@@ -1,1 +1,1 @@
-var mnemonic = "decide note swallow absent rail acquire bar cactus end fun apart glue";
+var mnemonic = "balance galaxy awkward window machine grit light sell tennis guitar leave nurse";

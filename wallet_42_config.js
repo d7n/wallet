@@ -1,1 +1,1 @@
-var mnemonic = "over impact gap issue glimpse faith teach able eagle claw heart mind";
+var mnemonic = "valid border say tell model fabric web two borrow copper orange unique";

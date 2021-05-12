@@ -1,1 +1,1 @@
-var mnemonic = "dune grief bag double order figure all equal seven lucky urban cable";
+var mnemonic = "shuffle excess immune view raw burst rubber cream major salad anchor tired";

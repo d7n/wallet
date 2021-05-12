@@ -1,1 +1,1 @@
-var mnemonic = "box skirt public crazy sound peace swarm nephew report donor phone cave";
+var mnemonic = "accident scare visa lock success steak second season zebra fly detect ten";

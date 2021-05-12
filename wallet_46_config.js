@@ -1,1 +1,1 @@
-var mnemonic = "above march reflect swallow spirit ring charge measure learn coil hood milk";
+var mnemonic = "rail scissors baby surround idea wedding entry impulse poverty creek lottery ski";

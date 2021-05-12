@@ -1,1 +1,1 @@
-var mnemonic = "very season mule popular session anger loan gallery motion trophy depend menu";
+var mnemonic = "flee twin stuff attack image scheme clump april wine option club little";

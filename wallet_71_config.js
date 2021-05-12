@@ -1,1 +1,1 @@
-var mnemonic = "bring visit reform organ sting foster congress boil charge bus tenant sugar";
+var mnemonic = "afford scorpion hundred body render tortoise hotel gate invite season around alert";

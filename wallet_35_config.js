@@ -1,1 +1,1 @@
-var mnemonic = "cool debris under try family grab much pilot neutral attract side depart";
+var mnemonic = "finish quote vibrant group extra annual amateur figure deal amused attack disease";

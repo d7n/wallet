@@ -1,1 +1,1 @@
-var mnemonic = "choice embody ridge kiss primary gesture misery remind head avoid alpha tribe";
+var mnemonic = "chronic dial budget inflict unusual amount bright cover assault scout found garbage";

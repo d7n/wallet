@@ -1,1 +1,1 @@
-var mnemonic = "walk wild hotel yellow code diet pig canvas coil glass brave market";
+var mnemonic = "shoe fat quick planet doctor cover purpose venture razor pink setup million";

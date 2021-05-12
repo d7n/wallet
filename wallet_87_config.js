@@ -1,1 +1,1 @@
-var mnemonic = "silver owner debris task unit enter exit tumble tool assist kangaroo sample";
+var mnemonic = "puppy innocent share limit accident bicycle divide immune utility purchase december ice";

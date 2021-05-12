@@ -1,1 +1,1 @@
-var mnemonic = "resist kick ridge world inflict kind trophy mad clip ask credit ankle";
+var mnemonic = "lend fantasy host early library action chimney praise palace fever pottery friend";

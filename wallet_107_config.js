@@ -1,1 +1,1 @@
-var mnemonic = "insect silent language wrist ready update pass flower eight kiwi moment program";
+var mnemonic = "feed step outer primary plate atom drip evolve size minute marriage glue";

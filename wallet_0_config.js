@@ -1,1 +1,1 @@
-var mnemonic = "winner truth art shield eye dove pause convince surprise best auto payment";
+var mnemonic = "velvet choose mechanic expire disease pitch negative disagree swim convince valley uniform";

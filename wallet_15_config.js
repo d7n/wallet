@@ -1,1 +1,1 @@
-var mnemonic = "blouse misery ketchup book rigid cement choose final palm verb lucky ugly";
+var mnemonic = "volcano canvas diary pattern danger trial clay retire twenty neglect spare behind";

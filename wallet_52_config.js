@@ -1,1 +1,1 @@
-var mnemonic = "rival skate universe amused alarm best arrest pulp fetch arrange tunnel river";
+var mnemonic = "fiber april team banana arena position vault atom conduct crystal genuine grocery";

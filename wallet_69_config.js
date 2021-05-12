@@ -1,1 +1,1 @@
-var mnemonic = "lady chimney silly ecology tissue drill vibrant cricket vague smile floor fog";
+var mnemonic = "recipe light text soldier friend major knife fold model rigid gorilla baby";

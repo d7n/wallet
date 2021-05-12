@@ -1,1 +1,1 @@
-var mnemonic = "yellow round discover sight cloud come useful stairs mouse song pencil design";
+var mnemonic = "width pear pattern federal call response mechanic cruel number orient clump trade";

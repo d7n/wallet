@@ -1,1 +1,1 @@
-var mnemonic = "veteran soup winter color climb swear bomb leader sunny have orient record";
+var mnemonic = "cry grant welcome fortune sea stem chief nominee bubble cage spread spring";

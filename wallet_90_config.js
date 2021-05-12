@@ -1,1 +1,1 @@
-var mnemonic = "lamp gaze response warrior more speed strategy proud defy pen outer eternal";
+var mnemonic = "popular cabin disorder same venture elder security plastic park fine frequent anchor";

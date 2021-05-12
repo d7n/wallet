@@ -1,1 +1,1 @@
-var mnemonic = "move chalk syrup position erosion wage hard hold alpha beauty multiply punch";
+var mnemonic = "cash banana badge lyrics news trick eye glad improve task ski useful";

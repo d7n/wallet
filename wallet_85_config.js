@@ -1,1 +1,1 @@
-var mnemonic = "ticket october guide shove brisk clean width embark pride left vapor mention";
+var mnemonic = "uncover heart issue diagram what satisfy border sea anxiety eye split helmet";
