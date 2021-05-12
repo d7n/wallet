@@ -1,1 +1,1 @@
-var mnemonic = "admit giggle version mechanic differ wonder receive rose ball castle dragon gospel";
+var mnemonic = "neck neutral sibling work family scare narrow badge round universe subway route";

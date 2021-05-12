@@ -1,1 +1,1 @@
-var mnemonic = "tray office suspect cannon street final orient salon lucky outside ridge match";
+var mnemonic = "level escape arctic force injury below limit moment sphere cage input water";

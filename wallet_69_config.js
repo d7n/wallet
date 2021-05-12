@@ -1,1 +1,1 @@
-var mnemonic = "guitar grant actress mango cactus valley radio jungle arrow off buyer middle";
+var mnemonic = "edge recipe script decade switch cause open lend uniform ripple flat long";

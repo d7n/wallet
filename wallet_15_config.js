@@ -1,1 +1,1 @@
-var mnemonic = "inspire script say hand car prison pelican copper pull snap host dutch";
+var mnemonic = "unhappy edge manage desert sting melody cradle neck stock kind cart blanket";

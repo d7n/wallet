@@ -1,1 +1,1 @@
-var mnemonic = "gossip close physical small post figure dismiss echo offer cliff west immune";
+var mnemonic = "scout capital museum fame fruit equip unaware pair trash love profit dress";

@@ -1,1 +1,1 @@
-var mnemonic = "alien snake blouse tuna fiber jewel unit visual potato author maze wing";
+var mnemonic = "keen owner consider web dizzy sausage panther upset spawn stick zebra chimney";

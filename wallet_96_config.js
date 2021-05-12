@@ -1,1 +1,1 @@
-var mnemonic = "casual supreme excuse tip minimum chief rifle alone spray labor trophy pumpkin";
+var mnemonic = "drift vague impose snow slot top green melt plug water asthma super";

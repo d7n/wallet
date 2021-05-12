@@ -1,1 +1,1 @@
-var mnemonic = "this bid ribbon monkey angry lazy nature under jaguar click sure episode";
+var mnemonic = "poem slight dizzy spoon believe brave parade gold video wait concert unhappy";

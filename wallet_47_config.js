@@ -1,1 +1,1 @@
-var mnemonic = "anxiety unknown certain wear lumber hamster guilt buyer park real garlic eyebrow";
+var mnemonic = "muscle tonight resource observe catalog pluck bulk place whip country today hub";

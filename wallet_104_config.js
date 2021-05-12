@@ -1,1 +1,1 @@
-var mnemonic = "february hint connect sound option future brick lens exchange table swap select";
+var mnemonic = "jump quantum velvet truth rubber hybrid stomach unfold slim grace what mushroom";

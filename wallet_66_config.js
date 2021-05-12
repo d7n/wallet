@@ -1,1 +1,1 @@
-var mnemonic = "cheese write omit final song fade feel cloud glare runway sadness speed";
+var mnemonic = "slight scissors mosquito access divide crumble bone all play face intact knife";

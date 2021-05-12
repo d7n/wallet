@@ -1,1 +1,1 @@
-var mnemonic = "about uncover rich lizard change saddle report pencil drop believe imitate tennis";
+var mnemonic = "arena twenty certain urban naive marine pepper cruise news arrange essence basic";

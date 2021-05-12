@@ -1,1 +1,1 @@
-var mnemonic = "soup question repeat wink fall bless moral lyrics risk random dumb identify";
+var mnemonic = "vocal method story coach battle trick refuse used oval clever fancy observe";

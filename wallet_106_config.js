@@ -1,1 +1,1 @@
-var mnemonic = "upon remember still such once sea journey provide scale once tip gun";
+var mnemonic = "volcano arrow bleak weasel route task glance expire discover gesture scheme paddle";

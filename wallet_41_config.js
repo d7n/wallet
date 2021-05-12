@@ -1,1 +1,1 @@
-var mnemonic = "gap accident bunker hybrid report real resemble vault exhaust dad sadness monkey";
+var mnemonic = "fly where nephew toss noodle concert response hip acid bean april acquire";

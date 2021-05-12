@@ -1,1 +1,1 @@
-var mnemonic = "rain monster vintage fault sort situate term lemon account multiply any poet";
+var mnemonic = "find harvest snack bind dumb nominee camp cycle nothing loyal story holiday";

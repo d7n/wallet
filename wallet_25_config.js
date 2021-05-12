@@ -1,1 +1,1 @@
-var mnemonic = "organ sure piano lemon rocket liquid toe acoustic despair pink engage neither";
+var mnemonic = "holiday ridge curve ostrich aunt sound shop twice faculty control course cram";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp silk route skin excite mention village shaft tribe picture clever dignity";
+var mnemonic = "dutch once act relief metal ugly crack napkin frame feed oil rule";

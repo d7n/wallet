@@ -1,1 +1,1 @@
-var mnemonic = "tornado critic filter hunt hill below idea casino obtain seek opinion picture";
+var mnemonic = "inspire mind detect cheese merry gather wing sun mass lemon orbit day";

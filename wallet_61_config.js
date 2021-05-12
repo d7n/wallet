@@ -1,1 +1,1 @@
-var mnemonic = "inspire card sheriff dismiss shoe sock enemy merry brown again seven fun";
+var mnemonic = "sponsor cruel trophy neutral grow bench cruise bicycle neglect error green brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "alter situate unique assault obvious benefit cook abuse gallery fold hair doll";
+var mnemonic = "insect lesson crane aunt rotate october shine angry energy shuffle napkin remove";

@@ -1,1 +1,1 @@
-var mnemonic = "witness float churn coast job bring buffalo round sentence describe upgrade drift";
+var mnemonic = "recall away topic slab valley upper mention jazz merry pole mansion any";

@@ -1,1 +1,1 @@
-var mnemonic = "talent lizard spy collect cereal parent now cycle saddle rotate waste vital";
+var mnemonic = "civil sure upgrade scan witness about situate virtual gift impulse rival flower";

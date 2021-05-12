@@ -1,1 +1,1 @@
-var mnemonic = "fetch muffin tomorrow thunder unfair meadow method chair venture chuckle reform normal";
+var mnemonic = "awake brown bright alien enroll misery boss pave decade erase bomb drift";

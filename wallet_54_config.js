@@ -1,1 +1,1 @@
-var mnemonic = "please typical sea rate remind busy power tobacco thing need frame undo";
+var mnemonic = "letter joy help clean reform cash business estate pilot expire awesome yard";

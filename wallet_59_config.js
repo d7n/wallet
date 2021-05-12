@@ -1,1 +1,1 @@
-var mnemonic = "own danger glance chimney bullet luxury glue vicious aerobic eagle fence plate";
+var mnemonic = "echo day forest labor exit power cereal diamond expand price fatal tomorrow";

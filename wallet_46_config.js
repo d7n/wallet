@@ -1,1 +1,1 @@
-var mnemonic = "radar style animal gallery cinnamon outside tank luggage cute various fruit unknown";
+var mnemonic = "immense mansion admit rotate response pool wheat express slide sorry helmet rich";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight congress eight trigger radar nation because elevator again slide pudding exile";
+var mnemonic = "say give twist exile hybrid click park twelve when gesture recall life";

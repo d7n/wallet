@@ -1,1 +1,1 @@
-var mnemonic = "inside divide rate voyage quantum donor crane detail corn dry hire naive";
+var mnemonic = "canyon culture dad parrot render super anxiety mirror ramp sister ghost path";

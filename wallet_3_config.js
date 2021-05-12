@@ -1,1 +1,1 @@
-var mnemonic = "stage dentist enable stomach garlic few coast transfer december member large misery";
+var mnemonic = "oxygen include smile obvious flight ordinary smoke motion blouse gift hover verify";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese sight melt sing return cotton december they version relief often voyage";
+var mnemonic = "spot divide happy wash join submit pause blind venue snack clever bracket";

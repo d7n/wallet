@@ -1,1 +1,1 @@
-var mnemonic = "hello empty solid wisdom demand hill copy interest bamboo north carry silk";
+var mnemonic = "deposit that pond ice swing minute follow lesson broken cactus gadget involve";

@@ -1,1 +1,1 @@
-var mnemonic = "measure seat gate clog among gloom code main eyebrow butter tobacco trouble";
+var mnemonic = "poet little refuse street lady fury nominee chimney scorpion cement lucky because";

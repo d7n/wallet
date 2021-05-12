@@ -1,1 +1,1 @@
-var mnemonic = "lemon claw picnic tube dance disagree daring spirit until uncover manual subway";
+var mnemonic = "verify child armed asthma hub action maximum spirit impose glove right more";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe dirt quarter cheap flat silk arrive amazing hen leg dismiss student";
+var mnemonic = "decorate tourist toe push museum afraid leopard series fever elbow recipe dignity";

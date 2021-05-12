@@ -1,1 +1,1 @@
-var mnemonic = "mercy pull siege midnight enhance daring velvet melody affair jump ranch length";
+var mnemonic = "connect limb else when dutch endless project mushroom useless head slogan excuse";

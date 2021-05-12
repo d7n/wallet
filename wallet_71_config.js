@@ -1,1 +1,1 @@
-var mnemonic = "kind trash snack unknown fresh stick fluid blur erosion various because hurry";
+var mnemonic = "crumble glue quick surge pattern tunnel art fish rough biology cash thought";

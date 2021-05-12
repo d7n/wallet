@@ -1,1 +1,1 @@
-var mnemonic = "current approve rare scene obvious until travel stem front strong citizen prosper";
+var mnemonic = "sure praise kind father feel pride core waste bicycle lawn industry one";

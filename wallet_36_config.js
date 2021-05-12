@@ -1,1 +1,1 @@
-var mnemonic = "exist front flame auto pumpkin conduct peace mean clarify casual oil left";
+var mnemonic = "cement detect sister art ceiling alley stay ill price task tenant chaos";

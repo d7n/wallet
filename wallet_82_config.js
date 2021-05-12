@@ -1,1 +1,1 @@
-var mnemonic = "hidden consider giggle must claim valley long number illegal symptom stamp question";
+var mnemonic = "suit party please boring hurdle lemon answer style battle bulk sad seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "onion kitten soup wrap guide parrot front cliff beach rib anger recycle";
+var mnemonic = "daughter perfect lottery reflect dinner reason ranch secret insect frog sunset first";

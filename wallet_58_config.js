@@ -1,1 +1,1 @@
-var mnemonic = "collect spell peasant sausage avoid rally alley finish bag seminar pelican apple";
+var mnemonic = "cactus boost balance spare spend nest sight exist purity pool uncover figure";

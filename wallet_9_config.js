@@ -1,1 +1,1 @@
-var mnemonic = "curtain spatial scale absorb nerve off armor apology memory design squeeze mix";
+var mnemonic = "pave talent confirm caught pave lobster thought pigeon light film glide digital";

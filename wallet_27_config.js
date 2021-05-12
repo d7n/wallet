@@ -1,1 +1,1 @@
-var mnemonic = "key music choose circle remain call cactus exhibit garden carpet start patrol";
+var mnemonic = "whisper scissors excite melody depend earth shallow purse hand review uncover upon";

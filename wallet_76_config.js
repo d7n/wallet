@@ -1,1 +1,1 @@
-var mnemonic = "alcohol neither mouse grit test grass follow trumpet year legal ecology piece";
+var mnemonic = "wedding jar want quality obey home lock bracket popular hawk cycle expand";

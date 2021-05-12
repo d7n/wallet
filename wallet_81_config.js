@@ -1,1 +1,1 @@
-var mnemonic = "lottery inquiry fringe off sustain palace across curve erase throw source hover";
+var mnemonic = "museum hidden north dream naive divorce pulp excess reduce wolf gallery side";

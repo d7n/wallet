@@ -1,1 +1,1 @@
-var mnemonic = "tray head foster foot giggle impulse toddler tattoo gap arrive valley frog";
+var mnemonic = "trial subway submit same client coach pulse address layer vanish embark potato";

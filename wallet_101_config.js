@@ -1,1 +1,1 @@
-var mnemonic = "tongue transfer tragic stadium crazy helmet abstract noise nose loud negative orbit";
+var mnemonic = "surprise lift record able female lesson stay ready more ethics enlist pause";

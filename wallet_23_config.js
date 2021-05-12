@@ -1,1 +1,1 @@
-var mnemonic = "orphan coffee rifle panic goddess actor silk danger disease measure silly tooth";
+var mnemonic = "program enter anger leaf custom orbit scrub olive discover sail snack inherit";

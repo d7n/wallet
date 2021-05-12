@@ -1,1 +1,1 @@
-var mnemonic = "head mushroom ten sound wheat lesson citizen crowd list denial regular eight";
+var mnemonic = "satisfy notable short cradle strike kiwi neck unique stadium mail sun sure";

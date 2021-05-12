@@ -1,1 +1,1 @@
-var mnemonic = "woman notable video arch absorb impact crew genre foot roast total olympic";
+var mnemonic = "liar hurry humble patch guard remember purse peace shock spawn scout private";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious ordinary immense jump number salmon pond begin flip planet tilt travel";
+var mnemonic = "shop crowd amount shadow captain auto allow raven scan mix trust tired";

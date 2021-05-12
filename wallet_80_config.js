@@ -1,1 +1,1 @@
-var mnemonic = "lonely riot behind cup finger worth execute input shadow dream weapon measure";
+var mnemonic = "midnight oil cluster secret primary barrel mix around evolve clutch soap upgrade";

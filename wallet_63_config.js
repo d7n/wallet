@@ -1,1 +1,1 @@
-var mnemonic = "law obscure entry debate muscle priority person ridge because canoe extend industry";
+var mnemonic = "immune horn weasel around tired element champion manual erosion evolve aunt jewel";

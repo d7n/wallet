@@ -1,1 +1,1 @@
-var mnemonic = "enforce bench sudden crystal palm behind guide rule alone boil siren sudden";
+var mnemonic = "increase kick embody brisk clean pattern tone sister metal protect avocado recycle";

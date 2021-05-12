@@ -1,1 +1,1 @@
-var mnemonic = "spin absent grass swamp tattoo fade among milk strike wedding conduct ritual";
+var mnemonic = "pyramid taxi there coral dumb double divorce never celery pelican laugh balance";

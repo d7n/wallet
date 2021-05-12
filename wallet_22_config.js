@@ -1,1 +1,1 @@
-var mnemonic = "mammal magnet casual display voyage parent flower own dad sausage bargain lottery";
+var mnemonic = "inflict absorb soda soul snack van senior lake flower calm garlic glory";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant slogan hunt exact ritual nasty sadness later another cage piece jaguar";
+var mnemonic = "supply acquire lyrics twelve salad coast deny measure burger describe index rigid";

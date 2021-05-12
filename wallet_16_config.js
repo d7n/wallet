@@ -1,1 +1,1 @@
-var mnemonic = "police violin rotate tip impose kidney tuna bottom use maple mesh drastic";
+var mnemonic = "dignity ring valid gain chicken struggle disorder glance lock guard glory twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "eager exchange park dentist dumb actress release across kitchen neutral dice unable";
+var mnemonic = "sound attitude own stadium august athlete zebra dynamic flavor baby subway such";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic practice grape tilt receive pupil coral picture erase rabbit occur mass";
+var mnemonic = "detail two game disease film base fiction keen when bone always shallow";

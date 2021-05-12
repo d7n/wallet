@@ -1,1 +1,1 @@
-var mnemonic = "because address pond vast grape mystery ramp beauty prepare program vault umbrella";
+var mnemonic = "push apology abuse surprise hard remember buzz cargo outer torch trumpet drill";

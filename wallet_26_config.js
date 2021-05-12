@@ -1,1 +1,1 @@
-var mnemonic = "oven reason crew board elegant draft bag earth offer canyon wink note";
+var mnemonic = "pole shiver skill limit evoke seek omit whisper decline boring flash wool";

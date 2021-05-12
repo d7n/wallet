@@ -1,1 +1,1 @@
-var mnemonic = "uncle mushroom elbow hurry year vibrant ahead paddle egg length enable bulb";
+var mnemonic = "path chief skirt column kingdom bulk leopard hurt order unique ball level";

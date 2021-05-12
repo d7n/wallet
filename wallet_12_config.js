@@ -1,1 +1,1 @@
-var mnemonic = "cancel seat annual circle glass high target delay way concert dinosaur spy";
+var mnemonic = "scatter village raven actual ankle bean strong priority forest foam valid phone";

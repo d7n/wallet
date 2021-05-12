@@ -1,1 +1,1 @@
-var mnemonic = "nuclear base leave shrimp smile region merry item measure immense disorder noise";
+var mnemonic = "budget voyage rescue destroy quiz select spoil require old super vital supply";

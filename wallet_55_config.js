@@ -1,1 +1,1 @@
-var mnemonic = "crouch giraffe kingdom season unhappy health gold tuition rule annual private possible";
+var mnemonic = "piece proof mountain bridge vicious crowd exchange mean ivory banner ethics phrase";

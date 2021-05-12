@@ -1,1 +1,1 @@
-var mnemonic = "sister rug much police enemy able success nut find pyramid length opinion";
+var mnemonic = "giant merge health kitchen stamp beauty negative warrior eight swarm add market";

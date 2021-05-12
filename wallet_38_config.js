@@ -1,1 +1,1 @@
-var mnemonic = "sister check gospel syrup couch muffin camp galaxy during there more umbrella";
+var mnemonic = "normal regret carbon like fine special label market theory attract old drive";

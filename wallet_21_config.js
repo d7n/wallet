@@ -1,1 +1,1 @@
-var mnemonic = "heart another vendor exact title crazy soldier identify pencil decade rebuild satisfy";
+var mnemonic = "cheap bulk swap jelly shoot glance diet dose pipe profit task know";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug cherry pitch render afford emotion supply ice please decide rubber van";
+var mnemonic = "alien echo average time hollow image scale rookie child road gasp gate";

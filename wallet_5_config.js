@@ -1,1 +1,1 @@
-var mnemonic = "ankle grit above barely obvious anger garbage then chase erode margin own";
+var mnemonic = "place response island torch rate memory biology lunar wedding organ pond light";

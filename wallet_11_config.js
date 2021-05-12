@@ -1,1 +1,1 @@
-var mnemonic = "danger design choose stove lucky banana scale twelve dutch imitate family forest";
+var mnemonic = "enroll enemy special art you uniform someone title festival camera outer tent";

@@ -1,1 +1,1 @@
-var mnemonic = "service goat special cook stone text oxygen glare train letter pen sweet";
+var mnemonic = "path laundry elbow over cover guilt estate under stand abstract rug electric";

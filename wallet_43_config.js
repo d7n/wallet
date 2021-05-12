@@ -1,1 +1,1 @@
-var mnemonic = "deny rice salad worth fall job skate tilt kid program meat palm";
+var mnemonic = "gaze place since resist black mean enough penalty capital card sudden resource";

@@ -1,1 +1,1 @@
-var mnemonic = "focus panther upper bird brisk flash marine club awkward portion cupboard pattern";
+var mnemonic = "mean pluck crew repair return olive song teach twist client favorite disease";

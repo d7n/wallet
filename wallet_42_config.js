@@ -1,1 +1,1 @@
-var mnemonic = "blade orphan zone february thumb sphere cannon category photo laugh believe void";
+var mnemonic = "index language frown alien sunset actress until cable brave pill junior skull";

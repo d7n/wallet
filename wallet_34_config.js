@@ -1,1 +1,1 @@
-var mnemonic = "street congress urge someone goat biology equal hammer bid fossil mixed master";
+var mnemonic = "bacon use cereal day another avocado proud trend wait legend vapor viable";

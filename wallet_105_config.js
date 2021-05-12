@@ -1,1 +1,1 @@
-var mnemonic = "gas march match clever fever orbit gold film spell car slide angry";
+var mnemonic = "tomato window cool arch nurse jelly cup wrestle sense exotic paddle vital";

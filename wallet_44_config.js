@@ -1,1 +1,1 @@
-var mnemonic = "horn act senior vague cousin card hello silent pottery link venue duty";
+var mnemonic = "update early glimpse clean journey thrive dress color quarter cattle reward know";

@@ -1,1 +1,1 @@
-var mnemonic = "region hotel tape hover large village real dune rule fall reason sound";
+var mnemonic = "little truly fresh uphold lobster prize bleak note erupt dust loyal slab";

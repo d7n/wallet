@@ -1,1 +1,1 @@
-var mnemonic = "shock target record fatigue armed fatigue fluid reduce embrace cloth interest card";
+var mnemonic = "around top impulse group crawl capital slice flash unlock plunge stuff chief";

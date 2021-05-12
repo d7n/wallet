@@ -1,1 +1,1 @@
-var mnemonic = "text image human castle uncover talk tag beach penalty soda gadget accident";
+var mnemonic = "this adult lumber truth can daring foil pretty magic yellow arrow awkward";

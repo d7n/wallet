@@ -1,1 +1,1 @@
-var mnemonic = "dish equal toddler crucial find fragile april awful mass enough rate crystal";
+var mnemonic = "lift public honey present modify gain solar picture decline render song pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby tooth daughter solid junior orphan future prize motion recycle used project";
+var mnemonic = "thunder survey unable shock ranch spend spell burst oak pulp palace shell";

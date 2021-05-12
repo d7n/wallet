@@ -1,1 +1,1 @@
-var mnemonic = "shell viable matrix quote lock keep iron federal kiwi canoe bench auto";
+var mnemonic = "remember someone minor depth crouch december inmate history menu grocery inject version";

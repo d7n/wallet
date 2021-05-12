@@ -1,1 +1,1 @@
-var mnemonic = "tail resemble trouble pair accident wage win execute vague blush below violin";
+var mnemonic = "account cave solar oppose fatigue siren whip gossip rabbit alien soft object";

@@ -1,1 +1,1 @@
-var mnemonic = "south math mixture control tornado december nice essence long hard soft noble";
+var mnemonic = "hunt surprise sea vault unknown dirt shy apart physical fancy problem category";
