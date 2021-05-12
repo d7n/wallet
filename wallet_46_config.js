@@ -1,1 +1,1 @@
-var mnemonic = "common brick when rebel degree token science muscle moral saddle crater flee";
+var mnemonic = "voyage human post pretty floor siege marriage rebel butter idea asset media";

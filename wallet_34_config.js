@@ -1,1 +1,1 @@
-var mnemonic = "kiwi fashion catalog couple neglect battle start funny endorse rate hungry laptop";
+var mnemonic = "pretty report domain test fiber final iron length gasp deal ridge base";

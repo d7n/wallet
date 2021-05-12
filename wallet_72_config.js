@@ -1,1 +1,1 @@
-var mnemonic = "point jewel topic salad profit order language hero planet deny display couple";
+var mnemonic = "glad morning claim shaft alpha short inflict idea promote strong alone swing";

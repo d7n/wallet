@@ -1,1 +1,1 @@
-var mnemonic = "viable pumpkin flight faith host skill mule sheriff online symbol direct panel";
+var mnemonic = "token scrub wage bid sun soup dizzy garment believe iron fat smooth";

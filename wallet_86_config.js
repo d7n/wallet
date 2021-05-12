@@ -1,1 +1,1 @@
-var mnemonic = "vehicle vibrant sweet solve retire gym alien three goat muffin verb cost";
+var mnemonic = "awkward damp give field toddler half random ostrich polar head border garment";

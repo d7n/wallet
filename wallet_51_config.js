@@ -1,1 +1,1 @@
-var mnemonic = "sunset muffin crane sport innocent basket hard amount eternal airport toy peasant";
+var mnemonic = "among behave census dawn chimney swap thumb such tower kind put work";

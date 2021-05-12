@@ -1,1 +1,1 @@
-var mnemonic = "interest attend suggest fiction thumb gloom logic destroy aerobic fatal tube fury";
+var mnemonic = "ring quote reveal need good path night elite price forward column choice";

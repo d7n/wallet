@@ -1,1 +1,1 @@
-var mnemonic = "blush ill deposit almost sweet claw rough used march cancel embark siege";
+var mnemonic = "target decrease where toilet chat desert wise tomato razor clarify math inform";

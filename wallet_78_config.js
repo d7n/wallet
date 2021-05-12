@@ -1,1 +1,1 @@
-var mnemonic = "torch measure action muscle mistake east alarm risk exact teach custom maple";
+var mnemonic = "marble between follow benefit prepare despair cart scene oxygen target range wire";

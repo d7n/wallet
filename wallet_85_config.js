@@ -1,1 +1,1 @@
-var mnemonic = "ask wrap afford angle rifle rich cycle divorce museum sorry giant dream";
+var mnemonic = "original expect learn answer betray grunt goose harbor penalty cable hen trust";

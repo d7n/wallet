@@ -1,1 +1,1 @@
-var mnemonic = "patrol man sniff trophy input smart grace dove else page skull lock";
+var mnemonic = "pledge tag stadium gown marriage receive foil good frequent step bridge chair";

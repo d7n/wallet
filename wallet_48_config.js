@@ -1,1 +1,1 @@
-var mnemonic = "faint leisure benefit legal case bachelor fury denial wagon execute social rifle";
+var mnemonic = "asset grape kite bitter test illegal feed grocery enroll whip cube once";

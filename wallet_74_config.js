@@ -1,1 +1,1 @@
-var mnemonic = "whip long snow industry destroy wait atom park fruit motion zoo hazard";
+var mnemonic = "ecology figure left actor scorpion wasp brass dinner build adult kitchen security";

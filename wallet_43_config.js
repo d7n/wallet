@@ -1,1 +1,1 @@
-var mnemonic = "people nuclear spray uphold toast soap dash depth human envelope dance panic";
+var mnemonic = "name project charge game option hollow inch element marble during attend false";

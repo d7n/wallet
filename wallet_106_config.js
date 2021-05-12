@@ -1,1 +1,1 @@
-var mnemonic = "truth flame barrel bargain hammer found pioneer shine monkey reject water sure";
+var mnemonic = "decorate dress casual valve great review brain finger flat pulp penalty option";

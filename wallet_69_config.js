@@ -1,1 +1,1 @@
-var mnemonic = "innocent vapor sleep scheme olympic help slush payment afford tragic shuffle pluck";
+var mnemonic = "great burger insect stick enjoy apology annual remove math rent note auto";

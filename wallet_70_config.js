@@ -1,1 +1,1 @@
-var mnemonic = "crowd hair march museum hammer depend roof diesel coach series dune wrist";
+var mnemonic = "leaf say situate trip bring orphan fetch keep clever debate abuse pig";

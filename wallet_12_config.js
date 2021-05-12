@@ -1,1 +1,1 @@
-var mnemonic = "crash use will surprise motion accuse sword nice this mouse state daring";
+var mnemonic = "hybrid time project spirit diet merit hundred glow banner scare rapid lamp";

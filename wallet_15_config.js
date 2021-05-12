@@ -1,1 +1,1 @@
-var mnemonic = "junior sunset flush episode decade since garment where slice unaware wreck merit";
+var mnemonic = "spike gentle mad mountain earn flat erase crisp child light unique owner";

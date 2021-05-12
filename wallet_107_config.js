@@ -1,1 +1,1 @@
-var mnemonic = "awkward bulb loan rebel curve little side fault corn loud check lyrics";
+var mnemonic = "gun knock witness park clerk whip fame collect fold april turn tilt";

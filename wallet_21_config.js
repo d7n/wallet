@@ -1,1 +1,1 @@
-var mnemonic = "segment ghost device topic mango hammer ranch fork quote pole attack seminar";
+var mnemonic = "cinnamon garment budget edit absorb ramp candy giraffe cool sketch ribbon flock";

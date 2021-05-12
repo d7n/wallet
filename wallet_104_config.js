@@ -1,1 +1,1 @@
-var mnemonic = "island useless innocent main inflict sun alpha laugh crumble such reveal inherit";
+var mnemonic = "fitness embody believe danger celery ocean person arrive kit dismiss surface gauge";

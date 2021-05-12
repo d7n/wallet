@@ -1,1 +1,1 @@
-var mnemonic = "taxi fox awkward typical portion symbol glue surround fish boat oval bench";
+var mnemonic = "trophy visa plastic egg math evidence gift blur asthma chunk team decrease";

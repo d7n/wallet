@@ -1,1 +1,1 @@
-var mnemonic = "often extend dignity potato upper between woman roast quote embody churn lottery";
+var mnemonic = "verb satisfy digital ask input sport sea armed shoot main since find";

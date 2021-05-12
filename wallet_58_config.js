@@ -1,1 +1,1 @@
-var mnemonic = "rough liar cradle double shield theory buzz pluck indoor morning venue diesel";
+var mnemonic = "castle sphere knee orchard strategy truly track neither cement since labor beef";

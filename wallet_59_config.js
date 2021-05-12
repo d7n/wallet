@@ -1,1 +1,1 @@
-var mnemonic = "fire faith negative omit extend rely leopard maximum wisdom powder eagle squeeze";
+var mnemonic = "install gentle question height atom estate decorate clock rose blossom angle apple";

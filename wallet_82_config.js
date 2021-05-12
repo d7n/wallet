@@ -1,1 +1,1 @@
-var mnemonic = "feed soldier pass season submit junior destroy champion lend heavy same rifle";
+var mnemonic = "fetch just real hip blanket inch engage example range carpet man vessel";

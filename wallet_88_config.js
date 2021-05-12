@@ -1,1 +1,1 @@
-var mnemonic = "document gasp above acoustic under enrich strategy jacket topic member galaxy bounce";
+var mnemonic = "ring corn battle angry deal cargo month tobacco struggle stamp network trouble";

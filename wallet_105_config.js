@@ -1,1 +1,1 @@
-var mnemonic = "raccoon drink sentence rally gesture inside scene retreat salad pave crazy waste";
+var mnemonic = "comic design cloth travel speak custom stock laptop material chapter muscle federal";

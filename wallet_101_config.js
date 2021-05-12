@@ -1,1 +1,1 @@
-var mnemonic = "expect glance place ask tomato recall library frame nothing history ranch pass";
+var mnemonic = "edit fall poet senior stick tide idea produce evil brick muscle prefer";

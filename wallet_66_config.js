@@ -1,1 +1,1 @@
-var mnemonic = "wedding soccer clean syrup raven life document grief base record harsh front";
+var mnemonic = "hire cram render car steak clerk erode hurdle violin cream camp shuffle";

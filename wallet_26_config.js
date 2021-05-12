@@ -1,1 +1,1 @@
-var mnemonic = "access head useless hover primary syrup silent income snow small sausage member";
+var mnemonic = "immune brisk sing smoke time retreat gasp visit ask burger glare zone";

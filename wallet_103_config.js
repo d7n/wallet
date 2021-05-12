@@ -1,1 +1,1 @@
-var mnemonic = "alcohol dismiss suspect motor pride injury middle sick stone aisle rough drastic";
+var mnemonic = "solar coach unknown crisp hat bus early ignore emerge wrestle hard entry";

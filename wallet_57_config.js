@@ -1,1 +1,1 @@
-var mnemonic = "cement artwork brand liberty issue staff urge roast fragile road art rival";
+var mnemonic = "kite feature oppose crystal tube provide carbon start hood admit update have";

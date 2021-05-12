@@ -1,1 +1,1 @@
-var mnemonic = "employ father tip awake pumpkin piece sure odor scissors field switch music";
+var mnemonic = "butter expire arm fork bamboo luxury step repeat cheap before proof cruel";

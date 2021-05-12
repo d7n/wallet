@@ -1,1 +1,1 @@
-var mnemonic = "pyramid disease bomb census love trigger family grant label rocket reunion same";
+var mnemonic = "cancel inside dune jaguar laundry talent giggle electric reward fine artist family";

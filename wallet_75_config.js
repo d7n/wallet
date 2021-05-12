@@ -1,1 +1,1 @@
-var mnemonic = "jump knock pepper cabbage lift emerge grit wonder panda wisdom leaf carry";
+var mnemonic = "forum loyal wise exile into detail rookie imitate patrol master gravity decide";

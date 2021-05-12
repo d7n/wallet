@@ -1,1 +1,1 @@
-var mnemonic = "word ahead kangaroo label abuse organ hospital split actual try keen nice";
+var mnemonic = "hip genre ugly sign next rifle alarm inmate wink thought truly turn";

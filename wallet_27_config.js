@@ -1,1 +1,1 @@
-var mnemonic = "shed wrestle omit stand spider brain traffic remember genre chapter canyon half";
+var mnemonic = "solar drama source try talk bean fan vanish donkey brief sadness wagon";

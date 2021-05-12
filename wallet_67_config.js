@@ -1,1 +1,1 @@
-var mnemonic = "push employ angle brass discover tomato water inject clutch wait double defy";
+var mnemonic = "rice logic volcano dutch avocado flash spend wish lawsuit sister put couch";

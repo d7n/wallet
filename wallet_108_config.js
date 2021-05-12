@@ -1,1 +1,1 @@
-var mnemonic = "radar camp grape middle quit gospel unit picnic empty about ticket ancient";
+var mnemonic = "faint lake asset wish better velvet void absurd arctic pluck smooth increase";

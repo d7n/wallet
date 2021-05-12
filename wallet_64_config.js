@@ -1,1 +1,1 @@
-var mnemonic = "dose sentence album crouch razor height genuine gossip buffalo chapter pupil frozen";
+var mnemonic = "pupil letter drum trigger tumble earth ability siren small thunder orient lava";

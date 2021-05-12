@@ -1,1 +1,1 @@
-var mnemonic = "conduct topic quote alcohol cement admit title stove kid east run suit";
+var mnemonic = "list holiday ozone century assume screen business lawn maid stone sign collect";

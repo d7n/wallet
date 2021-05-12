@@ -1,1 +1,1 @@
-var mnemonic = "tooth exile evolve pet nation thumb ramp boy push best magic bitter";
+var mnemonic = "monitor other meat put siege grain unfair magic easy whisper inherit rubber";

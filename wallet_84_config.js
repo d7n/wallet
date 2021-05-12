@@ -1,1 +1,1 @@
-var mnemonic = "jacket thing upgrade example vague surface foot occur spatial shuffle top sight";
+var mnemonic = "burden sock erupt blanket steak jelly obvious core cost test can mind";

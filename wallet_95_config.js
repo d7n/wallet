@@ -1,1 +1,1 @@
-var mnemonic = "unit task radio service usual adult bracket tone panel budget athlete upon";
+var mnemonic = "engine menu notice acoustic goose bench soul gold solution damp vacuum rain";

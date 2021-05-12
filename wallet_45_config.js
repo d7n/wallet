@@ -1,1 +1,1 @@
-var mnemonic = "suffer drill kit shift sugar maze oven regular stamp scheme dumb autumn";
+var mnemonic = "oblige goddess useful gather spatial enact eight syrup expose ancient kingdom earth";

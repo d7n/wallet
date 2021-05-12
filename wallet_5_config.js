@@ -1,1 +1,1 @@
-var mnemonic = "forum lady dune lamp doctor outer genre toy lawn invest bike wonder";
+var mnemonic = "torch obtain logic leaf castle idle ignore column tide vapor crack margin";

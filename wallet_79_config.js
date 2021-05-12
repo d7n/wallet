@@ -1,1 +1,1 @@
-var mnemonic = "earth salad skin language speed naive lobster retreat spirit mandate destroy ghost";
+var mnemonic = "hawk lady biology theory dismiss idea pretty garment okay random win cruel";

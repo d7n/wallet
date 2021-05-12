@@ -1,1 +1,1 @@
-var mnemonic = "over hurdle enjoy urban useless cannon better dove industry produce early debate";
+var mnemonic = "pony twin domain erode repeat rack speak sauce they undo divide believe";

@@ -1,1 +1,1 @@
-var mnemonic = "column rain decline toddler mushroom absorb avocado duck ancient witness surprise van";
+var mnemonic = "way jungle area hunt speak muffin embark napkin resource infant inner drink";

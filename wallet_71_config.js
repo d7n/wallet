@@ -1,1 +1,1 @@
-var mnemonic = "cube stamp snap wreck vote elbow airport wear bitter tattoo clever expire";
+var mnemonic = "harsh unhappy empty popular note wrestle laundry wonder neck soft staff tenant";

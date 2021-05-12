@@ -1,1 +1,1 @@
-var mnemonic = "grass milk hawk bring normal you vehicle enable mimic shoe box bracket";
+var mnemonic = "book cruel sense version orphan hamster april prevent broken escape odor begin";

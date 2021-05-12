@@ -1,1 +1,1 @@
-var mnemonic = "admit tragic plate version hip tower spike split sail crawl pencil birth";
+var mnemonic = "mystery change shallow royal october suggest snack arrest under nice laundry sport";

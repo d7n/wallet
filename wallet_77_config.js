@@ -1,1 +1,1 @@
-var mnemonic = "disease flip average inmate sea test hundred learn job opinion frost hand";
+var mnemonic = "tongue echo general elbow chalk goddess scrub behave argue turtle learn food";

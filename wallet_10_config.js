@@ -1,1 +1,1 @@
-var mnemonic = "enlist bless clock scrub magic daring among blush build rocket useful nut";
+var mnemonic = "century slide canvas alert parade physical trophy whisper resemble cable save match";

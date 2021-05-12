@@ -1,1 +1,1 @@
-var mnemonic = "catch hammer social call coast husband cruel charge motion paddle hour false";
+var mnemonic = "museum enforce ginger shallow cloth hill initial cloth aspect spawn craft popular";

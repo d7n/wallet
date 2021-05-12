@@ -1,1 +1,1 @@
-var mnemonic = "unveil detail still box nothing charge trick scout cotton poet insect path";
+var mnemonic = "crack menu practice verify decline friend must subject between butter rack wealth";

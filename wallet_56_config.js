@@ -1,1 +1,1 @@
-var mnemonic = "opinion mutual winter excite smile earth live wait rescue jazz fork spend";
+var mnemonic = "develop upgrade youth vivid wash shaft duck differ place retire nuclear circle";

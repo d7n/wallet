@@ -1,1 +1,1 @@
-var mnemonic = "scan jeans track edge time expose educate crane blanket ski agent grocery";
+var mnemonic = "attend shine drive cloud luggage auction admit chef best pistol sauce basic";

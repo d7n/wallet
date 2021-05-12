@@ -1,1 +1,1 @@
-var mnemonic = "stereo table link dress there hurry feed race casino chimney chest trophy";
+var mnemonic = "hub pigeon guitar egg search paper brisk cradle dog live collect bicycle";

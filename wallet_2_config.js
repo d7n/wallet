@@ -1,1 +1,1 @@
-var mnemonic = "woman bean bean tissue foam punch buddy pottery ramp fox face cement";
+var mnemonic = "right infant vessel desk laugh turkey bag misery belt enable monkey valid";

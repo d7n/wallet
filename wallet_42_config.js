@@ -1,1 +1,1 @@
-var mnemonic = "margin edit hat legal tail deny brass pair describe rose rude milk";
+var mnemonic = "topple guilt upper install organ kind spring capital maid right apology apology";

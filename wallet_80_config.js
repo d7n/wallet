@@ -1,1 +1,1 @@
-var mnemonic = "sense senior economy illegal base mom scene radio fuel tobacco path lawsuit";
+var mnemonic = "abandon chair enter frozen mountain adapt album soccer civil tunnel orphan hover";

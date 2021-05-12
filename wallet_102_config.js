@@ -1,1 +1,1 @@
-var mnemonic = "diagram spare index human match insane process pass ensure sugar festival notable";
+var mnemonic = "ankle void present party toilet glue chuckle involve surprise taste tower online";

@@ -1,1 +1,1 @@
-var mnemonic = "document indoor fortune earth kid history pair share soft eagle donor lift";
+var mnemonic = "gun secret boost chaos couch public cannon exercise legend smoke toddler faint";

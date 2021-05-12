@@ -1,1 +1,1 @@
-var mnemonic = "captain error dirt educate right pilot possible dilemma tuition violin cake length";
+var mnemonic = "victory emotion rice hawk nothing wear pencil forest will rival balance rival";

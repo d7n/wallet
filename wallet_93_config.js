@@ -1,1 +1,1 @@
-var mnemonic = "deny chapter lemon skirt way combine must cheese scrap column vacant high";
+var mnemonic = "long fee assist ketchup between move surface coast maid keep ice ask";

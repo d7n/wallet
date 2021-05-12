@@ -1,1 +1,1 @@
-var mnemonic = "crew notice market heavy solar six search trick tent happy owner crowd";
+var mnemonic = "mechanic plastic square vicious sand hood clap rubber giant resist public laundry";

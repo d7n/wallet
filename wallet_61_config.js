@@ -1,1 +1,1 @@
-var mnemonic = "bubble trash peace neck element try result dirt occur possible useless absent";
+var mnemonic = "bubble scissors senior obey uncover element shift more spare utility winter proud";

@@ -1,1 +1,1 @@
-var mnemonic = "curious lemon burger access age next hotel person tray multiply follow witness";
+var mnemonic = "salon account thrive mansion shrimp time piano rifle luggage stomach glare negative";

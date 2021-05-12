@@ -1,1 +1,1 @@
-var mnemonic = "wrap master canal scheme flat parent address athlete effort amazing inform vicious";
+var mnemonic = "oyster smile clinic minimum slush flat ship firm switch text ramp initial";

@@ -1,1 +1,1 @@
-var mnemonic = "seat nation ridge goddess debris useful special fresh artist people swamp buzz";
+var mnemonic = "jump bright link oven student sweet flock absurd artwork code welcome include";

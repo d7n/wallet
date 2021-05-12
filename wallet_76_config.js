@@ -1,1 +1,1 @@
-var mnemonic = "bracket annual gun ask wood vapor fashion two fame liquid drop amount";
+var mnemonic = "stand engine report rival scatter episode crater mansion require differ message hill";

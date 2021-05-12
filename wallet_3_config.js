@@ -1,1 +1,1 @@
-var mnemonic = "near level stamp flip cruise risk flush burst shadow hint field crawl";
+var mnemonic = "cloud junk harsh steak favorite glow reopen sponsor special surface mercy glow";

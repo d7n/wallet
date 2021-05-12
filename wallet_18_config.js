@@ -1,1 +1,1 @@
-var mnemonic = "island okay cloth code this attack east ritual provide float pill fluid";
+var mnemonic = "evil pudding arm render kidney field estate dignity first original violin mutual";

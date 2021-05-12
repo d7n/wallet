@@ -1,1 +1,1 @@
-var mnemonic = "impose october know black junk wrist size assume veteran twenty vague thing";
+var mnemonic = "elder liquid struggle dilemma near moral hat sun post close swift despair";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb panther goddess usual wrap insect item ring submit clump develop math";
+var mnemonic = "rebuild honey never course grape core ancient involve culture grace require panda";

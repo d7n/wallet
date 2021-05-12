@@ -1,1 +1,1 @@
-var mnemonic = "main addict cake rubber leader fatigue seed pizza concert build great until";
+var mnemonic = "ginger network install resemble possible man portion catch maple exhaust strike leisure";

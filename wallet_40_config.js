@@ -1,1 +1,1 @@
-var mnemonic = "choice galaxy dragon noble summer color gym seven giraffe used behind slot";
+var mnemonic = "border tennis display winter canoe census setup reduce delay swarm margin always";

@@ -1,1 +1,1 @@
-var mnemonic = "upper giraffe clip blood veteran color early escape draft rain pride eight";
+var mnemonic = "core picture help renew pioneer own tower police birth grit kingdom work";

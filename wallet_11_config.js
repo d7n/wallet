@@ -1,1 +1,1 @@
-var mnemonic = "collect pass laptop pupil suit hurry dream air fiction blast frog response";
+var mnemonic = "public engine fringe apart finger say evolve offer source stairs essay olympic";

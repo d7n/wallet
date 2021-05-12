@@ -1,1 +1,1 @@
-var mnemonic = "jar can rug business time scout sword eagle flash utility assume submit";
+var mnemonic = "wine claim response local sausage huge sail shift elbow visa blue dynamic";

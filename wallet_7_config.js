@@ -1,1 +1,1 @@
-var mnemonic = "expand until fog famous educate relief cupboard umbrella admit toward salad nest";
+var mnemonic = "nephew rich ghost tell retreat also vault become buddy empower jar dynamic";

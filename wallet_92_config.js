@@ -1,1 +1,1 @@
-var mnemonic = "infant dismiss patrol vote bargain degree design result deputy wood expand kind";
+var mnemonic = "party always icon range strategy network daring buyer hope young blame truth";

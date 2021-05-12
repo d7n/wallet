@@ -1,1 +1,1 @@
-var mnemonic = "song search ceiling want nature hello action finger become woman soul sugar";
+var mnemonic = "sheriff federal drift ensure whisper afraid best marriage assist all stove toss";

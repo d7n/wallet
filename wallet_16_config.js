@@ -1,1 +1,1 @@
-var mnemonic = "fancy slim swing diamond promote knee major canoe suspect section coil inmate";
+var mnemonic = "swarm bench flight bonus easy vacuum core cactus side sense pulse decade";

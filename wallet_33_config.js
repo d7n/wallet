@@ -1,1 +1,1 @@
-var mnemonic = "start mention enlist nice buffalo major else torch net wage favorite mean";
+var mnemonic = "fluid say hurry deal alien scrap buddy frame acid bamboo seek ice";

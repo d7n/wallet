@@ -1,1 +1,1 @@
-var mnemonic = "wine negative width identify cricket verb call toddler diagram off cube dune";
+var mnemonic = "subject remain snake acid about connect distance park wisdom note mushroom strong";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle buzz upon camp because fan love erupt animal visa woman sound";
+var mnemonic = "rent actress busy thumb become equal rabbit elephant avocado element duck menu";

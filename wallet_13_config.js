@@ -1,1 +1,1 @@
-var mnemonic = "mushroom bamboo weasel melt manual size wild cream maximum dash slam inner";
+var mnemonic = "tackle approve trap income glow size radio coil buddy able police next";

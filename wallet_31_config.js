@@ -1,1 +1,1 @@
-var mnemonic = "coast apology excuse fuel census cheap truck shallow health valve economy mass";
+var mnemonic = "absorb face zone project topic scout engine favorite silver cost slice model";

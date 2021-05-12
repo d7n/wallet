@@ -1,1 +1,1 @@
-var mnemonic = "brave enemy olive raven fever ski traffic anger mixed sample tooth quote";
+var mnemonic = "resemble major client group flight room oxygen pride daughter smile mother economy";
