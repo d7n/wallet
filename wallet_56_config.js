@@ -1,1 +1,1 @@
-var mnemonic = "ring install bring approve comfort pill surround retreat timber unique cricket enable";
+var mnemonic = "suit merge waste forward unfold yellow outer swift more vault tone sword";

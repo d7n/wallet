@@ -1,1 +1,1 @@
-var mnemonic = "stone bottom manual monitor vehicle uncover portion effort soccer federal ritual company";
+var mnemonic = "doll glide refuse visa orphan ride winner spot vault health sing napkin";

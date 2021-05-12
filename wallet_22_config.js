@@ -1,1 +1,1 @@
-var mnemonic = "sock eye trash urge ketchup inhale dignity dove turkey scheme curious tribe";
+var mnemonic = "possible theory staff fire try custom humor plunge fix demise toss baby";

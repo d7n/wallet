@@ -1,1 +1,1 @@
-var mnemonic = "that whisper index brother frown negative impose basic kangaroo iron latin project";
+var mnemonic = "beauty rug butter survey mask tortoise toward pact blush wet squirrel crush";

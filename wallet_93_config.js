@@ -1,1 +1,1 @@
-var mnemonic = "country organ have champion error multiply opinion meadow table develop mercy census";
+var mnemonic = "among inspire canoe prefer agent leaf travel ozone cushion pause lawsuit owner";

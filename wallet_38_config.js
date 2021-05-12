@@ -1,1 +1,1 @@
-var mnemonic = "office hour fame clay method rigid face skin entire world border tourist";
+var mnemonic = "home cherry twenty project mesh promote mansion front charge grid grow away";

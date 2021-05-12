@@ -1,1 +1,1 @@
-var mnemonic = "potato vague wisdom bright gravity float defy sun soldier submit speak rapid";
+var mnemonic = "secret ripple sleep clay bulk screen since yard clinic hole blossom pig";

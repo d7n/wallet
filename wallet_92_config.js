@@ -1,1 +1,1 @@
-var mnemonic = "maximum face reflect stadium profit return claw cart secret orphan bird imitate";
+var mnemonic = "elephant marine jealous patient sea wage equip earth result average spread tail";

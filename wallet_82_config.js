@@ -1,1 +1,1 @@
-var mnemonic = "narrow fantasy buffalo pet will vendor wisdom congress write excess amount duck";
+var mnemonic = "orchard visa crash sketch describe demand atom peasant hotel pattern silk deal";

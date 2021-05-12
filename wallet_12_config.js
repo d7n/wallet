@@ -1,1 +1,1 @@
-var mnemonic = "inject choose daring task ride slide mesh airport solve seed seed shield";
+var mnemonic = "grocery idea option despair now identify december danger post lizard capital festival";

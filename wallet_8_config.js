@@ -1,1 +1,1 @@
-var mnemonic = "regret material end urge lounge law vicious avoid plate poem salute quit";
+var mnemonic = "require monitor mosquito perfect donor dignity carry elbow misery fossil boat snap";

@@ -1,1 +1,1 @@
-var mnemonic = "direct slice ready cook present spray practice cool program surface aware danger";
+var mnemonic = "alcohol test fox hen dove lecture combine ethics fan inhale service metal";

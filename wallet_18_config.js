@@ -1,1 +1,1 @@
-var mnemonic = "magnet vehicle way dirt loan pretty now cradle panic glad mother stable";
+var mnemonic = "wire valley wreck fault canyon cake twist snack improve protect rifle exhibit";

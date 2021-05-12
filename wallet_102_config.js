@@ -1,1 +1,1 @@
-var mnemonic = "hazard scatter entry keen favorite monkey hamster squirrel talk stage false update";
+var mnemonic = "steak scout dutch canal stove wrist cloud muscle fluid total session jump";

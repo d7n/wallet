@@ -1,1 +1,1 @@
-var mnemonic = "witness naive eternal wild normal question sweet film slight upon empty merit";
+var mnemonic = "often account erase suffer youth ordinary action word drive amused leopard permit";

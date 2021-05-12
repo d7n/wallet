@@ -1,1 +1,1 @@
-var mnemonic = "person twist brown happy will exercise occur advice trumpet patient option other";
+var mnemonic = "dinner item priority into review meadow ghost garment safe occur joy amateur";

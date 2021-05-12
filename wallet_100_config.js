@@ -1,1 +1,1 @@
-var mnemonic = "unveil can long stay session true agree carry mad toy velvet believe";
+var mnemonic = "drift extend envelope bomb awake judge fit indoor silver toss behind girl";

@@ -1,1 +1,1 @@
-var mnemonic = "minor doctor access exit picture march lunar theory slice grab magnet switch";
+var mnemonic = "net electric dilemma entry agent side ozone carbon special crush borrow mesh";

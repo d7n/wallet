@@ -1,1 +1,1 @@
-var mnemonic = "among moment satoshi rude sand spoon auto figure buddy wish supply fatal";
+var mnemonic = "sample drop maple tortoise convince donkey loud cabin dirt blame add grain";

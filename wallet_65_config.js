@@ -1,1 +1,1 @@
-var mnemonic = "october rent reveal flag small volume exotic response fiction game awesome hawk";
+var mnemonic = "prefer wish room wink honey embody report donate mule bronze acquire cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "good celery dad tone close penalty pottery ankle noble puzzle recycle weapon";
+var mnemonic = "input banana increase pretty digital swim level blast edge chase lucky practice";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor husband bean print exit resemble neglect resist domain debate false man";
+var mnemonic = "net tomato taste swim fall electric iron message mushroom topic local debris";

@@ -1,1 +1,1 @@
-var mnemonic = "include stable adjust merit tower lab scatter brush green town find pull";
+var mnemonic = "predict anxiety critic start future stumble horn habit feature sun dirt fabric";

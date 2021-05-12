@@ -1,1 +1,1 @@
-var mnemonic = "mechanic switch scheme inform harsh enforce vanish decide output tiny relief garden";
+var mnemonic = "rather spirit amateur vocal tired corn river fan table spread artefact earn";

@@ -1,1 +1,1 @@
-var mnemonic = "spy talent wrist zero fog rival into crouch present fragile demand beef";
+var mnemonic = "all sustain coffee bacon scale casino smooth focus list coast adjust degree";

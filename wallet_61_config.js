@@ -1,1 +1,1 @@
-var mnemonic = "family green ridge bicycle vanish bounce observe hotel shed member moral amount";
+var mnemonic = "bundle swallow canyon crystal business drive autumn melt veteran skill chuckle peanut";

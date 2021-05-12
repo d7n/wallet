@@ -1,1 +1,1 @@
-var mnemonic = "nothing double foam table disorder human range bring deal palm happy upper";
+var mnemonic = "farm ship brother time milk pass mimic motion swamp faith lady deal";

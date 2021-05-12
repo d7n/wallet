@@ -1,1 +1,1 @@
-var mnemonic = "chicken chase pizza attend update notable adjust mind special employ oil gap";
+var mnemonic = "annual skin hungry pond open limb parrot ride urban copy fat window";

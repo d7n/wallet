@@ -1,1 +1,1 @@
-var mnemonic = "sleep ready kite enrich conduct segment shiver crash lottery tumble tool tennis";
+var mnemonic = "hurdle dance leg clerk cricket exhaust cluster deny bike icon balance art";

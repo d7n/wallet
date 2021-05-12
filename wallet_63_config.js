@@ -1,1 +1,1 @@
-var mnemonic = "cloth skin seven follow clock crane saddle answer gate lend range extend";
+var mnemonic = "nose north miracle pill essence slow jacket smart canyon goose also liar";

@@ -1,1 +1,1 @@
-var mnemonic = "animal artefact toddler regular artefact mail hair kidney armed skin flush arm";
+var mnemonic = "stay oblige crack gown impact mystery enforce forward away local style dust";

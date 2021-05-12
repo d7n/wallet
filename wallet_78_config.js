@@ -1,1 +1,1 @@
-var mnemonic = "dolphin moral collect coyote electric seek tennis gym dial resemble paper muscle";
+var mnemonic = "arrive stool where wealth trade army supply canoe whale message lumber until";

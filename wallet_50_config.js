@@ -1,1 +1,1 @@
-var mnemonic = "victory cake suggest account clock tuna sauce always swap betray educate october";
+var mnemonic = "turn tiny oblige payment unknown pigeon door diesel emotion fabric true vivid";

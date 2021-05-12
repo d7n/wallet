@@ -1,1 +1,1 @@
-var mnemonic = "follow rail parrot harbor bid material ignore tragic cactus toilet shadow desert";
+var mnemonic = "pool bench lumber letter tobacco advice laugh index lunch curtain company someone";

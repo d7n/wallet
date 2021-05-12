@@ -1,1 +1,1 @@
-var mnemonic = "decorate until sock excite seven identify sugar area borrow credit sponsor history";
+var mnemonic = "veteran learn depart protect mix tone bacon around genuine fashion neutral sentence";

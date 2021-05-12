@@ -1,1 +1,1 @@
-var mnemonic = "sure bubble heavy plate average cereal bulb blossom remember stairs ocean matrix";
+var mnemonic = "noodle primary guide pause cabbage repeat public smart company west gas scatter";

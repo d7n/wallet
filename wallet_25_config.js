@@ -1,1 +1,1 @@
-var mnemonic = "leopard couch grocery orient merry dash eye actual kidney urban false expose";
+var mnemonic = "crystal add supreme payment swear person amount that dumb spoil boat mountain";

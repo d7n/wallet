@@ -1,1 +1,1 @@
-var mnemonic = "observe decade town collect into barrel one public congress inmate zone broken";
+var mnemonic = "soul never pond amused divorce already reopen bargain wire width wide whale";

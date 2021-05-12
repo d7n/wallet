@@ -1,1 +1,1 @@
-var mnemonic = "speak number congress example cradle coral dawn garage casino spray oval orphan";
+var mnemonic = "surprise lobster drill swap hover coconut strategy permit doll second stomach merge";

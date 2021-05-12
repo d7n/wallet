@@ -1,1 +1,1 @@
-var mnemonic = "trial donate beef mutual glove east office note copper master pole mask";
+var mnemonic = "finger risk cliff shrug hair poet leave elevator amused disease person brisk";

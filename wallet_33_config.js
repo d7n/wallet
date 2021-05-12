@@ -1,1 +1,1 @@
-var mnemonic = "rate enemy social rookie write face ancient still catalog ship tilt today";
+var mnemonic = "special exhibit tooth bottom vital toward host faith canal next frog floor";

@@ -1,1 +1,1 @@
-var mnemonic = "width liar caught seminar someone citizen reopen just gravity try kit gallery";
+var mnemonic = "close surface praise pony express excuse bus sorry portion sponsor remove indicate";

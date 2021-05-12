@@ -1,1 +1,1 @@
-var mnemonic = "differ great jelly wonder cup summer brave file elder absorb zone worth";
+var mnemonic = "fabric portion share delay basic margin story puzzle tag gown silent funny";

@@ -1,1 +1,1 @@
-var mnemonic = "heart valley bean retreat armor cannon average assist anchor spatial shaft glue";
+var mnemonic = "ready trip coconut usage undo senior harbor moral truth oven duty fee";

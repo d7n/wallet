@@ -1,1 +1,1 @@
-var mnemonic = "sick decide please frame emerge august fortune fruit cargo occur animal access";
+var mnemonic = "type bright hotel brain refuse table ticket genre elite swarm meat sun";

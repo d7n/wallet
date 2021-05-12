@@ -1,1 +1,1 @@
-var mnemonic = "own main cherry carbon poet attack spider squeeze split survey barrel hurry";
+var mnemonic = "lumber entry bus network ketchup lucky announce split cat kitchen filter jacket";

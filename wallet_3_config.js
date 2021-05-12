@@ -1,1 +1,1 @@
-var mnemonic = "smile wife heavy enforce attend already stamp into trumpet express worth pass";
+var mnemonic = "domain issue patient resemble south unable wise exile picture fold cotton domain";

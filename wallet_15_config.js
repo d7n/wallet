@@ -1,1 +1,1 @@
-var mnemonic = "core lawsuit travel gown buddy oppose useful all humor verb shock wise";
+var mnemonic = "mind theme grow mountain situate earn grant cruise bright feed rain spot";

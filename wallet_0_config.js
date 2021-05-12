@@ -1,1 +1,1 @@
-var mnemonic = "empower artefact ski rescue acid day length avoid host hurdle chief tennis";
+var mnemonic = "slogan manual buffalo remember father awake weekend crunch school fence leaf again";

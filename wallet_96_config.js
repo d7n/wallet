@@ -1,1 +1,1 @@
-var mnemonic = "inquiry egg polar tilt increase stand expect anxiety route dice spare bachelor";
+var mnemonic = "ridge often episode cave supply park eager arrest region soul mixed banana";

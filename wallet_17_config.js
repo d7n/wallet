@@ -1,1 +1,1 @@
-var mnemonic = "piano apple seek enable present offer fine invest cigar idle awesome eight";
+var mnemonic = "rotate dance eyebrow below goose evolve glimpse cave below modify alpha during";

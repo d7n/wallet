@@ -1,1 +1,1 @@
-var mnemonic = "eager radar hazard any frequent alert crawl orbit breeze reward vote shoulder";
+var mnemonic = "drift amount artist bicycle chase inhale reject stereo raw find version waste";

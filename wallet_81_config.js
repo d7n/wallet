@@ -1,1 +1,1 @@
-var mnemonic = "mirror way crumble nephew must book marble puppy rice miss young garlic";
+var mnemonic = "chair kiwi pet perfect duck among useless bench place special glare nurse";

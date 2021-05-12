@@ -1,1 +1,1 @@
-var mnemonic = "sphere mention route army employ autumn autumn fortune ridge boring rigid raccoon";
+var mnemonic = "ancient era point unusual prepare gaze powder derive syrup account unusual patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin daring tribe hello grain pizza device inhale crowd learn canyon spell";
+var mnemonic = "already miss clarify prize mixture manage umbrella shield young action logic love";

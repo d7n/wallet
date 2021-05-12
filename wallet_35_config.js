@@ -1,1 +1,1 @@
-var mnemonic = "mass steel collect fox wreck elder lawsuit choice office mass north theory";
+var mnemonic = "attitude sweet unable spirit funny alert rough ketchup twenty clever pony card";

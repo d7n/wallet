@@ -1,1 +1,1 @@
-var mnemonic = "finish shell tuition dawn history rule wish wheat grace liberty ramp mass";
+var mnemonic = "error nuclear salad walnut egg slogan purity flavor sniff soul immense guess";

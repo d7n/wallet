@@ -1,1 +1,1 @@
-var mnemonic = "license flame kidney surface erase bundle deal slide now subway pencil focus";
+var mnemonic = "omit reunion grow cluster mammal donkey elite female armed reward cabbage minute";

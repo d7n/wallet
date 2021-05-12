@@ -1,1 +1,1 @@
-var mnemonic = "sketch steel metal clap quality oppose element long apology wild unable virtual";
+var mnemonic = "abstract tumble warrior right castle later domain ocean venue sight abuse comfort";

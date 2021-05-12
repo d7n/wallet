@@ -1,1 +1,1 @@
-var mnemonic = "peasant dawn arrange then shed dish unusual breeze favorite flavor mind prepare";
+var mnemonic = "crane arrow mobile autumn tiny crumble decade face resist gown spread chapter";

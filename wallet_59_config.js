@@ -1,1 +1,1 @@
-var mnemonic = "illness soccer extend buffalo width actress embody laundry hub render another original";
+var mnemonic = "finger cave educate adapt rib field fatigue impose bring salmon crop ethics";

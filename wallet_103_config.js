@@ -1,1 +1,1 @@
-var mnemonic = "improve energy sketch wire island evoke shine goat taxi mixed advice rate";
+var mnemonic = "ginger degree label segment summer patch crisp permit door purse nature hollow";

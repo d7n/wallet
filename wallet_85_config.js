@@ -1,1 +1,1 @@
-var mnemonic = "rude slam correct glimpse frame student first swallow awake stomach among armor";
+var mnemonic = "drip outside gown must chef state enable pitch essence cheap brush exhibit";

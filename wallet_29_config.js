@@ -1,1 +1,1 @@
-var mnemonic = "try trial tenant local grid calm inflict rib island hammer flash dutch";
+var mnemonic = "fire coil scorpion differ glove become game trap jazz april better bridge";

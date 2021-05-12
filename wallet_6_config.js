@@ -1,1 +1,1 @@
-var mnemonic = "inherit private guard frost arrive text length decrease hunt fire game parrot";
+var mnemonic = "model subway onion potato cause present ranch apology session job exchange human";

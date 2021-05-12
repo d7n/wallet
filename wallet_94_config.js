@@ -1,1 +1,1 @@
-var mnemonic = "check vanish witness fire parrot group thank guide survey frost salon key";
+var mnemonic = "rhythm trip wide orphan gain velvet toast friend moment marble grace fever";

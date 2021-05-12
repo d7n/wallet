@@ -1,1 +1,1 @@
-var mnemonic = "mouse theme tape aim menu lyrics rebuild arrive doctor dizzy atom polar";
+var mnemonic = "foil win tuition hand egg festival chalk phrase measure acid mean forget";

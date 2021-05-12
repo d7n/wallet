@@ -1,1 +1,1 @@
-var mnemonic = "join same guitar false umbrella blood power vehicle assume time secret clap";
+var mnemonic = "stable surface hold song know monitor pattern target awesome vehicle tribe away";

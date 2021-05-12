@@ -1,1 +1,1 @@
-var mnemonic = "truly nominee matter train answer illegal half snake picnic wear barrel pony";
+var mnemonic = "west guitar scatter immune grocery immense autumn humble donate destroy differ dumb";

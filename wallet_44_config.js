@@ -1,1 +1,1 @@
-var mnemonic = "silk vital intact bamboo school creek spread awful canyon ribbon tag crazy";
+var mnemonic = "enroll vessel smile left fire clean antenna arrest cycle emotion banana miracle";

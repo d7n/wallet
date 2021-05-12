@@ -1,1 +1,1 @@
-var mnemonic = "speak moon invite shoe render lucky wheat abuse diary scale elevator attract";
+var mnemonic = "twice ridge under warfare upgrade bulk home forum canoe special return sniff";

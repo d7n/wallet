@@ -1,1 +1,1 @@
-var mnemonic = "earn work panic urge duck refuse afraid current grow oxygen approve employ";
+var mnemonic = "inner club blade entire nation adjust legal type boost essay sail same";

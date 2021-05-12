@@ -1,1 +1,1 @@
-var mnemonic = "output cover bullet goddess few ignore immune toilet bomb fruit verify end";
+var mnemonic = "beef try retire soft obtain front toward essence feel grain palace trial";

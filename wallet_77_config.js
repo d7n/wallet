@@ -1,1 +1,1 @@
-var mnemonic = "border bleak zebra follow clock force cinnamon reward rent you dream much";
+var mnemonic = "muscle cup math club fun cruise duty caught flip dolphin stock forward";

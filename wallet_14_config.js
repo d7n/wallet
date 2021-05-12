@@ -1,1 +1,1 @@
-var mnemonic = "scheme mobile switch limit minute control video wide law tube pole frog";
+var mnemonic = "doll retreat possible tide find leave appear hair sibling fetch alpha pilot";

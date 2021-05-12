@@ -1,1 +1,1 @@
-var mnemonic = "deny feel earn payment enable pony move lawsuit produce miracle tool govern";
+var mnemonic = "cricket bulk hint filter spring chief fame unveil depart become carbon leader";

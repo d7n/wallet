@@ -1,1 +1,1 @@
-var mnemonic = "fame goddess degree sure still panic pluck canal viable collect barely prepare";
+var mnemonic = "expand pull maximum lift march zone senior shadow guitar horse toward bless";

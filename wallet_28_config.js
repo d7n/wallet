@@ -1,1 +1,1 @@
-var mnemonic = "flip prevent decrease spider mask smile buzz chase carry rapid custom property";
+var mnemonic = "crack talent idle minimum coconut struggle clog camera another hand salon decade";

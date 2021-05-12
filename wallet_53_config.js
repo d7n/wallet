@@ -1,1 +1,1 @@
-var mnemonic = "network anxiety aunt reopen nasty garbage onion apart bid final real auto";
+var mnemonic = "crumble basic source gauge loan priority model dentist payment mix vapor robot";

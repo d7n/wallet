@@ -1,1 +1,1 @@
-var mnemonic = "amateur globe hair jelly hamster north among sweet frame fault run blast";
+var mnemonic = "early journey exile era display similar balance sorry kitten document unlock rude";

@@ -1,1 +1,1 @@
-var mnemonic = "express battle gun meadow social hedgehog guess defense antenna various cream suspect";
+var mnemonic = "lesson net settle garden demise stable sock gift square impose fragile pretty";

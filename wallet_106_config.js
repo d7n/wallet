@@ -1,1 +1,1 @@
-var mnemonic = "random topic bridge olive project sight join scene issue obscure small skull";
+var mnemonic = "dust track heavy baby lens upon wear harbor smooth urge flush purity";

@@ -1,1 +1,1 @@
-var mnemonic = "nut crop craft law credit mother case evidence cactus summer list bargain";
+var mnemonic = "project era invite churn pattern depart gate sweet mystery large trend chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "key patrol shove stool select edge tray spring famous power lawsuit bleak";
+var mnemonic = "toast audit winner script category mixture enhance embody whisper picture tissue road";

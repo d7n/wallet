@@ -1,1 +1,1 @@
-var mnemonic = "wage tobacco sail actress old chief armor tobacco box gaze sister clog";
+var mnemonic = "brother page blood room tiny river census novel bean hurry stomach human";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange provide ill upon wreck cement kingdom shrug color dash unable grab";
+var mnemonic = "oak museum media gorilla seven control amateur giggle exhibit right cheese any";

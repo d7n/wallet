@@ -1,1 +1,1 @@
-var mnemonic = "warrior fork right carry hero snap bench canal jewel garlic master bright";
+var mnemonic = "mutual chapter body brand brief umbrella away ginger quote egg dust arrest";

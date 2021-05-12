@@ -1,1 +1,1 @@
-var mnemonic = "ivory hollow shaft image pistol beyond lemon jungle vendor paper govern home";
+var mnemonic = "crystal obvious prepare maze moral drift rice foam invite mosquito snack keep";

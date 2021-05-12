@@ -1,1 +1,1 @@
-var mnemonic = "hold mean snake idea glue box virus gentle cement level eager razor";
+var mnemonic = "swarm pudding apple supreme exhibit kitten viable record vintage shove switch ship";

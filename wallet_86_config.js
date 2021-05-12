@@ -1,1 +1,1 @@
-var mnemonic = "mule offer soup motion scorpion accident bag aerobic hurt grocery effort advance";
+var mnemonic = "mixed equal coast million split coil school control vault earn second install";

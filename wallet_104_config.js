@@ -1,1 +1,1 @@
-var mnemonic = "penalty describe voyage chunk loan smooth bachelor garbage million truth this network";
+var mnemonic = "bargain battle mandate prize blouse chuckle spice box fault patrol degree image";

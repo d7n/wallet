@@ -1,1 +1,1 @@
-var mnemonic = "ordinary bicycle duck fault cradle swim welcome crunch scan keep cannon insect";
+var mnemonic = "focus used ridge place grunt garden goddess pole airport minute peace script";

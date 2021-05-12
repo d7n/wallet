@@ -1,1 +1,1 @@
-var mnemonic = "farm remind expect start cross forward hurry payment apple ribbon unlock table";
+var mnemonic = "around orphan word light syrup soap dinner jazz step lecture humble chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "frown bunker language eagle session bag use matter great galaxy float obey";
+var mnemonic = "enter arrange scare run six welcome direct draft skate curtain craft oblige";

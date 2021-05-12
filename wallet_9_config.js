@@ -1,1 +1,1 @@
-var mnemonic = "prosper thought increase ranch add want bench license grass enjoy senior burst";
+var mnemonic = "slot resource cake bounce flee avocado mystery tower cement access throw menu";
