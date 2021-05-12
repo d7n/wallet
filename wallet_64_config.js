@@ -1,1 +1,1 @@
-var mnemonic = "fitness easily weapon leave bag maximum rhythm empty rail reopen address cream";
+var mnemonic = "race deal catalog chalk heart busy crazy answer more scene ensure earth";

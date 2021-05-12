@@ -1,1 +1,1 @@
-var mnemonic = "expect define gym length vehicle youth cost multiply shrimp scene credit rescue";
+var mnemonic = "immense wool make improve pole mask stumble empower tennis toe jaguar balance";

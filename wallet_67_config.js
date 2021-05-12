@@ -1,1 +1,1 @@
-var mnemonic = "reveal bleak rely visa dance present autumn page cliff isolate record wall";
+var mnemonic = "cannon lab taxi capable weird spray autumn science excuse march stock zebra";

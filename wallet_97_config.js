@@ -1,1 +1,1 @@
-var mnemonic = "figure turn region age stadium dial youth glance install common include engine";
+var mnemonic = "reopen good roof situate lab creek pumpkin stove tornado giant ice loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "habit become defense crunch easily hunt chuckle aspect amount believe hurry tip";
+var mnemonic = "icon asset enrich allow ostrich rebel avocado scare antique gossip grab country";

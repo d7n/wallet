@@ -1,1 +1,1 @@
-var mnemonic = "pool object lyrics donor run ask similar hold keep sight choice turkey";
+var mnemonic = "account pull session purse carry kit tone injury involve cousin skin knee";

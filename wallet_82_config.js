@@ -1,1 +1,1 @@
-var mnemonic = "post seminar drastic volume base filter dress scheme broom female lobster stock";
+var mnemonic = "subject venture mosquito very board during evolve scissors arrest gather loan lounge";

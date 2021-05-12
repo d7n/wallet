@@ -1,1 +1,1 @@
-var mnemonic = "antique net dove intact lend leisure tonight basic raw stove field twelve";
+var mnemonic = "burger chest vintage solar lab zebra loan large person nut stool pride";

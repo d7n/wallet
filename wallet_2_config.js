@@ -1,1 +1,1 @@
-var mnemonic = "suit speak armed episode festival rib adult present act cheap initial ancient";
+var mnemonic = "fringe skull rotate dog barrel focus display elephant alpha despair year enhance";

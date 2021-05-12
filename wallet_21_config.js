@@ -1,1 +1,1 @@
-var mnemonic = "music ugly relief surprise nerve angle fatal famous elder faculty buzz scissors";
+var mnemonic = "feature patch slim pottery canvas gym space pottery analyst fantasy novel pluck";

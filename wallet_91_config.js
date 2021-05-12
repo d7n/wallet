@@ -1,1 +1,1 @@
-var mnemonic = "actual afford talk eagle pencil measure oblige emerge symbol during fold blue";
+var mnemonic = "one excess brave minute donor say way menu nominee resource december media";

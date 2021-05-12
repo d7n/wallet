@@ -1,1 +1,1 @@
-var mnemonic = "enable topple evolve canvas basket normal thing gauge bubble melt apology focus";
+var mnemonic = "opinion reduce nation trip film average chalk stomach comfort stuff ring solar";

@@ -1,1 +1,1 @@
-var mnemonic = "source owner friend file law noble gain conduct deliver hello tenant antique";
+var mnemonic = "month pluck gesture apart deal critic riot goose pulse chest average rib";

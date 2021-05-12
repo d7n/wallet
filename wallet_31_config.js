@@ -1,1 +1,1 @@
-var mnemonic = "afraid kitten fantasy hold muscle lemon easily bounce horror home country improve";
+var mnemonic = "language pink wrong kite retreat board tube search door pumpkin scare defense";

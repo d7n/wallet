@@ -1,1 +1,1 @@
-var mnemonic = "glory cloud honey cat velvet interest wise suspect green pave soft reveal";
+var mnemonic = "pumpkin poem chronic expand grab bean repair announce crack balcony slim venue";

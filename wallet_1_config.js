@@ -1,1 +1,1 @@
-var mnemonic = "round emerge alone anger unlock pudding target moment perfect umbrella huge erupt";
+var mnemonic = "eternal motor crime pull tunnel sound grace stove belt wisdom warm hello";

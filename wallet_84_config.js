@@ -1,1 +1,1 @@
-var mnemonic = "hamster security cube wear bacon intact jungle ghost wool young vast walk";
+var mnemonic = "fall will garment moral stairs desk nurse pistol chest velvet border lobster";

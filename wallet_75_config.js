@@ -1,1 +1,1 @@
-var mnemonic = "embrace enlist mansion man expect story borrow august render trust media month";
+var mnemonic = "canoe broken motion tackle bright castle viable ritual legal quarter retire conduct";

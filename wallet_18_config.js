@@ -1,1 +1,1 @@
-var mnemonic = "illegal earn elegant exotic couch mask believe belt nation burden core access";
+var mnemonic = "step siege tool friend absorb live pyramid guide segment engine metal slush";

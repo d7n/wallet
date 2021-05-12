@@ -1,1 +1,1 @@
-var mnemonic = "slush hover sell twelve cricket gown vivid arctic chuckle original fatigue radio";
+var mnemonic = "rocket midnight wolf expire holiday wash owner rapid wine happy spoil judge";

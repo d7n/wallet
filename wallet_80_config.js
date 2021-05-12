@@ -1,1 +1,1 @@
-var mnemonic = "delay return hazard polar choose need dress session brief twice gauge learn";
+var mnemonic = "art lend idea green extend antique into proud grant prosper exclude tiger";

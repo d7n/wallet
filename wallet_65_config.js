@@ -1,1 +1,1 @@
-var mnemonic = "garlic deal umbrella usage laundry thank chalk spatial eternal outer elder cream";
+var mnemonic = "latin hobby card pole gun fantasy cute problem frame timber address drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "draft gauge heavy frozen phone useful time review mixture remove then prize";
+var mnemonic = "margin casino biology mansion fuel found pole promote square finish way myself";

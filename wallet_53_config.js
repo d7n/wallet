@@ -1,1 +1,1 @@
-var mnemonic = "glass round parent upset antenna tuition purchase vacuum asset sniff merit thing";
+var mnemonic = "agent vacuum still loud time opinion river kiss someone love airport saddle";

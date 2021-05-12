@@ -1,1 +1,1 @@
-var mnemonic = "soon hungry cube alone index ginger turtle camera rally mystery laundry maximum";
+var mnemonic = "ankle surface please deer antenna ritual brown gate witness menu alter general";

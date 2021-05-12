@@ -1,1 +1,1 @@
-var mnemonic = "spider razor shoulder laptop endless hobby rich flight rabbit divorce duty perfect";
+var mnemonic = "denial chase clay hole kidney rubber eagle laptop must rotate all whisper";

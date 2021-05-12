@@ -1,1 +1,1 @@
-var mnemonic = "vintage ugly trick what village girl weasel hair section icon feed shiver";
+var mnemonic = "van wolf neglect make ability grit unhappy second say hire blouse shoulder";

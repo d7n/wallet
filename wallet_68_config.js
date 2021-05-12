@@ -1,1 +1,1 @@
-var mnemonic = "common discover parrot solar drill online repeat curve pledge until indicate mention";
+var mnemonic = "jump orphan response present expire become quarter master pact mask extend loyal";

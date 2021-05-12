@@ -1,1 +1,1 @@
-var mnemonic = "cage hair extra miss trade pride step tornado law candy result insane";
+var mnemonic = "nasty record tourist agent local program fall regret nasty siren dinosaur issue";

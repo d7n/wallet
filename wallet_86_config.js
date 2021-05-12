@@ -1,1 +1,1 @@
-var mnemonic = "satoshi belt sun cushion guide bottom leopard only glory security maze pizza";
+var mnemonic = "expand best subject region happy raw reduce affair swarm salt square other";

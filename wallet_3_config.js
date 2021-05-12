@@ -1,1 +1,1 @@
-var mnemonic = "mistake come angle gun invite borrow book surprise shell village unit enable";
+var mnemonic = "wealth girl produce garden glory casual match output damage spring regular chef";

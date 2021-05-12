@@ -1,1 +1,1 @@
-var mnemonic = "author field wonder sense raw age crop bind enforce response junior note";
+var mnemonic = "bachelor monkey bronze limit owner section damage crumble more gas inner forward";

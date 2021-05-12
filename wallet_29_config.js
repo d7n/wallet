@@ -1,1 +1,1 @@
-var mnemonic = "wisdom artefact alley poet pig liar dignity twice other valve turn sphere";
+var mnemonic = "school torch defense option live hurdle engage toddler circle horror orient arena";

@@ -1,1 +1,1 @@
-var mnemonic = "addict ride chase slot error object ice squirrel tag toy air movie";
+var mnemonic = "dial push impulse brisk model same try paper frequent analyst local split";

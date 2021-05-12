@@ -1,1 +1,1 @@
-var mnemonic = "nature flag judge letter relief any primary cherry dilemma drop tone symptom";
+var mnemonic = "easy flock jazz empower hat antenna snow giggle nature obtain scene account";

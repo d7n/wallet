@@ -1,1 +1,1 @@
-var mnemonic = "nothing rocket skull force math model street battle stable false same goddess";
+var mnemonic = "secret capable dad include sponsor lens juice enjoy light online tent sock";

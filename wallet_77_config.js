@@ -1,1 +1,1 @@
-var mnemonic = "head kite orbit staff slender rude attend apple spin public damage tooth";
+var mnemonic = "negative cost hill wasp neutral piece garment forget ridge improve vague honey";

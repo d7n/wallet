@@ -1,1 +1,1 @@
-var mnemonic = "unusual camp chuckle trash step large can thank interest soon soap trigger";
+var mnemonic = "figure voyage hospital because bean anchor west blind improve amused open moon";

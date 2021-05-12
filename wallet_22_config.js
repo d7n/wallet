@@ -1,1 +1,1 @@
-var mnemonic = "caught rural victory dash maid school layer rival symptom immense person crash";
+var mnemonic = "buzz blur vapor flag drama math canyon circle add come spend surface";

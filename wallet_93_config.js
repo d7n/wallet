@@ -1,1 +1,1 @@
-var mnemonic = "manage minute nasty artefact bomb gain knock dentist early color jealous feature";
+var mnemonic = "movie impulse what camera essay joy grow submit gadget ethics worry edit";

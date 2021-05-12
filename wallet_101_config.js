@@ -1,1 +1,1 @@
-var mnemonic = "autumn curtain twelve lemon egg arctic forest alcohol auction favorite wish cup";
+var mnemonic = "extend apology put deer measure proud chicken remind shoe because sphere despair";

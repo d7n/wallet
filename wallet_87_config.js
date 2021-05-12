@@ -1,1 +1,1 @@
-var mnemonic = "brand check coast tonight math oil another fix minimum recall alert south";
+var mnemonic = "mixture blouse two shell flower derive brick snap swamp fit prevent shoot";

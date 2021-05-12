@@ -1,1 +1,1 @@
-var mnemonic = "open almost icon bring jeans vocal scare scare toast gorilla media kidney";
+var mnemonic = "have latin depend era boat sadness secret innocent they border violin unable";

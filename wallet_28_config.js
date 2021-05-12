@@ -1,1 +1,1 @@
-var mnemonic = "orchard venture chaos sport chase wash extend kitchen morning faint elevator camp";
+var mnemonic = "aisle pistol speed economy robot rapid stumble private slice case cereal scene";

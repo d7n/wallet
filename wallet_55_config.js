@@ -1,1 +1,1 @@
-var mnemonic = "river brick filter entire donor close home else question hawk dish analyst";
+var mnemonic = "quiz pottery camp have pluck bus unlock patient table best someone trip";

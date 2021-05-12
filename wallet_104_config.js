@@ -1,1 +1,1 @@
-var mnemonic = "quarter relax between flip just clay leader boil page asthma wish come";
+var mnemonic = "say vast fame mutual slender desert picnic ribbon pottery spawn black leaf";

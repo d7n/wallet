@@ -1,1 +1,1 @@
-var mnemonic = "trend miss edge six burst wolf stage pottery ribbon motion clarify nut";
+var mnemonic = "bone obscure asthma party opinion great drum nice rib eager fox perfect";

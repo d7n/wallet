@@ -1,1 +1,1 @@
-var mnemonic = "parrot plate huge canoe sausage scare lecture fringe cruise donkey solid worth";
+var mnemonic = "bright potato tongue just slogan source news share when client lion defense";

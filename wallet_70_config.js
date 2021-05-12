@@ -1,1 +1,1 @@
-var mnemonic = "fall gospel tip happy token candy release december palm bounce pelican initial";
+var mnemonic = "twist kangaroo wonder tree party suffer notable logic slide volume dune hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "remove expect cliff stove place marriage mutual pony pupil liberty romance network";
+var mnemonic = "glance spread edit cake eagle merge badge menu wrestle other level huge";

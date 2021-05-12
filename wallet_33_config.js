@@ -1,1 +1,1 @@
-var mnemonic = "census dash ordinary curtain march gaze element enrich width work verb initial";
+var mnemonic = "olive cinnamon turn race gossip dragon step desk dance jewel chronic patient";

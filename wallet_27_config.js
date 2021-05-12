@@ -1,1 +1,1 @@
-var mnemonic = "liberty tooth loop summer roast april home heavy endorse force upset stage";
+var mnemonic = "arrange great brave live verb simple vote jelly repair discover sing primary";

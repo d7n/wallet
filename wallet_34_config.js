@@ -1,1 +1,1 @@
-var mnemonic = "drop erosion gossip gorilla casino snake write client pause venture front smoke";
+var mnemonic = "claim artefact brave bird choose invest someone crater surface jacket destroy stove";

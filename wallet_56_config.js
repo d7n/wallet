@@ -1,1 +1,1 @@
-var mnemonic = "beach spawn actress roast page small settle play eight input proud theory";
+var mnemonic = "destroy base route job magic cycle crunch squirrel employ rug include clutch";

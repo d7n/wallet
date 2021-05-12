@@ -1,1 +1,1 @@
-var mnemonic = "twelve clarify once hold roast prize endorse error grab ill wife coil";
+var mnemonic = "calm whale amateur curious flush daring family brief guitar truly book filter";

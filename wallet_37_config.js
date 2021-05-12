@@ -1,1 +1,1 @@
-var mnemonic = "deputy filter grab dish wasp armor unfair problem discover wheat tissue run";
+var mnemonic = "index waste win quality custom cook swamp kangaroo fringe forward erosion library";

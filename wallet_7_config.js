@@ -1,1 +1,1 @@
-var mnemonic = "obvious island balance file reduce brain illness ticket disease stable jeans rich";
+var mnemonic = "teach foot crowd fitness pioneer tackle toy donkey pilot decorate wealth action";

@@ -1,1 +1,1 @@
-var mnemonic = "despair economy fall rule feed vast point chapter report account apology slight";
+var mnemonic = "spider three thrive kitten buyer egg fog miracle broccoli embrace kite give";

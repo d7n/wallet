@@ -1,1 +1,1 @@
-var mnemonic = "rain mesh bleak glow glide quiz assist taste coyote want genuine affair";
+var mnemonic = "half menu smart chaos scare either trend uncle bike example slim brown";

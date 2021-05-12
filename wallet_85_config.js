@@ -1,1 +1,1 @@
-var mnemonic = "lumber repair rhythm pond sketch aspect add illegal pond exhaust punch era";
+var mnemonic = "sword odor table cool shed despair race enjoy vague interest plastic bird";

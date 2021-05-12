@@ -1,1 +1,1 @@
-var mnemonic = "credit absurd famous any shallow upset major icon borrow army skin brush";
+var mnemonic = "planet daughter slow iron case hood eagle suggest twenty scrub crystal priority";

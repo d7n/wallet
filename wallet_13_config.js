@@ -1,1 +1,1 @@
-var mnemonic = "friend course honey toddler ancient book school shove giant midnight journey field";
+var mnemonic = "purpose trip sadness hat all patch develop tackle medal carry shell eternal";

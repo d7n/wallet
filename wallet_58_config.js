@@ -1,1 +1,1 @@
-var mnemonic = "brief account attack slice rude recall exit attitude critic word edit modify";
+var mnemonic = "shell claw plate case water popular apple sell fitness design pattern life";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic champion letter vapor elder scorpion sniff surface salon chest lunar exhaust";
+var mnemonic = "army stick pretty radio excuse sentence misery wise process minute spoon typical";

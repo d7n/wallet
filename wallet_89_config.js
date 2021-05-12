@@ -1,1 +1,1 @@
-var mnemonic = "victory garage joy shallow then walk deliver age divert stairs owner century";
+var mnemonic = "what local grape dove swallow mosquito employ pig hungry abandon knock reopen";

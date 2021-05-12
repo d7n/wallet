@@ -1,1 +1,1 @@
-var mnemonic = "size genre capital license result decade display fantasy winter reunion uphold clay";
+var mnemonic = "heart leopard hobby pyramid crumble adjust empower marble drastic join sort announce";

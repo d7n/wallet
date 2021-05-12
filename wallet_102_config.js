@@ -1,1 +1,1 @@
-var mnemonic = "awkward okay creek fine arctic purchase okay nice flame kind panther neglect";
+var mnemonic = "phrase change vault must warfare example surface usual super slab give round";

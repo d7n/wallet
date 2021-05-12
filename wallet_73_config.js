@@ -1,1 +1,1 @@
-var mnemonic = "tragic casual casino speed annual truck swift ill alert argue safe leisure";
+var mnemonic = "inspire plunge drill suffer sausage lunar blue mouse inherit unlock amazing account";

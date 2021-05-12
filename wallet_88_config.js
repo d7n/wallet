@@ -1,1 +1,1 @@
-var mnemonic = "feature census high unaware snow crop tiny oyster brief act drastic manual";
+var mnemonic = "major buzz utility flight creek manage subject record sunset wide bird fog";

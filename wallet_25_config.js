@@ -1,1 +1,1 @@
-var mnemonic = "ritual gadget head home any marble use athlete rubber wrap giant negative";
+var mnemonic = "allow spend drastic junior result quantum blanket step cloud skin deal saddle";

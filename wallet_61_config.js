@@ -1,1 +1,1 @@
-var mnemonic = "gesture grunt thing tail carpet sustain cruise bulk ill myth win credit";
+var mnemonic = "reunion crime phrase barrel share snake issue survey follow reason devote junk";

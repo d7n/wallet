@@ -1,1 +1,1 @@
-var mnemonic = "vote divide energy inject power fine hope advance flush raise gentle battle";
+var mnemonic = "mountain blind sentence sibling surge endless world coffee surface wage wolf dish";

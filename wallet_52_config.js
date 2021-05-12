@@ -1,1 +1,1 @@
-var mnemonic = "trash bundle brand among man dismiss layer regular pill shrimp harvest guitar";
+var mnemonic = "lounge best guess mass cash middle stove tool coral engage feed across";

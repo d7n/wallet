@@ -1,1 +1,1 @@
-var mnemonic = "liquid smooth source kick leg laugh avoid ability earn depart edit daring";
+var mnemonic = "army front goat electric once holiday limb soda gas scatter grant client";

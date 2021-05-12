@@ -1,1 +1,1 @@
-var mnemonic = "night quick struggle opera viable index harsh buyer vibrant special receive able";
+var mnemonic = "zero cable coffee uncover matter lobster anger family leopard hurry effort future";

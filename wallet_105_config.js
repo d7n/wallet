@@ -1,1 +1,1 @@
-var mnemonic = "film deliver biology spell stone dutch furnace meadow rib nuclear radio atom";
+var mnemonic = "photo admit lady digital easily fix skull fold lazy hold supply census";

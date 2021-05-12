@@ -1,1 +1,1 @@
-var mnemonic = "steak ill soldier decrease about secret stamp fiscal brown approve wink inquiry";
+var mnemonic = "hill usage grief snap learn rescue donkey cradle damp taxi entire double";

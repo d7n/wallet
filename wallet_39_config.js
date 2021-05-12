@@ -1,1 +1,1 @@
-var mnemonic = "critic ankle bridge snack shrimp muffin coil helmet improve adapt lunch dignity";
+var mnemonic = "illegal suffer alpha toy regular much gorilla marriage addict wood cradle okay";

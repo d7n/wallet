@@ -1,1 +1,1 @@
-var mnemonic = "flight plate rail marble job hawk universe clip planet more course behind";
+var mnemonic = "winner olympic fun find predict torch bubble region actress infant sword almost";

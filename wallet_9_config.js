@@ -1,1 +1,1 @@
-var mnemonic = "fit bless bike shift success weather burst frame august worth surprise renew";
+var mnemonic = "capable arena december basket woman will negative crack slot oppose diesel end";

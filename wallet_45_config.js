@@ -1,1 +1,1 @@
-var mnemonic = "moon possible viable under box grief devote pumpkin fox maze submit resource";
+var mnemonic = "buzz rival useless siren elder deer police option cram movie dog transfer";

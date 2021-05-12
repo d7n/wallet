@@ -1,1 +1,1 @@
-var mnemonic = "defy february door topic april seven alien solve obscure rough estate glide";
+var mnemonic = "execute believe exile flash umbrella melt thing length reunion loud piece impact";

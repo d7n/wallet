@@ -1,1 +1,1 @@
-var mnemonic = "joke side coconut virtual brisk dwarf iron wave night mule play whale";
+var mnemonic = "panic lift cotton current rug just risk sell ritual company ticket cart";

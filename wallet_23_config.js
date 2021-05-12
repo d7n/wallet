@@ -1,1 +1,1 @@
-var mnemonic = "punch tragic curve toward guess planet mail fade attract machine much wonder";
+var mnemonic = "assume goddess cattle crater hint chronic flight extra chunk guitar hip dizzy";

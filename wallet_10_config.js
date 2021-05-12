@@ -1,1 +1,1 @@
-var mnemonic = "elevator wrist tragic thought resemble total spring attack runway trick sick exercise";
+var mnemonic = "deer enforce company unable fun doctor spirit plug urban make buzz bleak";

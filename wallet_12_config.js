@@ -1,1 +1,1 @@
-var mnemonic = "whip call pair entry scale now leader prison song answer hint time";
+var mnemonic = "music parade ensure album valid picnic ask survey wool trouble gun amateur";

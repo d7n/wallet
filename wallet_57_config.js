@@ -1,1 +1,1 @@
-var mnemonic = "sustain tongue creek shallow leopard chronic clarify dismiss service welcome craft blade";
+var mnemonic = "forum entire spice tenant clown mixed push cousin budget retire album wedding";

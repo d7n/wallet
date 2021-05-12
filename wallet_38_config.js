@@ -1,1 +1,1 @@
-var mnemonic = "orbit seed gather exist foster sunny couple rifle avoid diary velvet joke";
+var mnemonic = "hospital similar weekend roast swing primary zebra blossom weasel mimic head owner";

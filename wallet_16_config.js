@@ -1,1 +1,1 @@
-var mnemonic = "loud senior allow just sail foster paper lion quantum wheel become horn";
+var mnemonic = "lend manual bonus trash moment tuition version story forget range hello field";

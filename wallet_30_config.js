@@ -1,1 +1,1 @@
-var mnemonic = "flat casino citizen please mango slim beef cabbage buzz help tuna beach";
+var mnemonic = "airport truth retreat scatter life bird skate caution amount payment chase web";

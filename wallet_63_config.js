@@ -1,1 +1,1 @@
-var mnemonic = "glance couple sadness pledge question bleak iron arctic add public toe grain";
+var mnemonic = "pride guide crucial ensure rude crop life crawl equip joy apology abuse";

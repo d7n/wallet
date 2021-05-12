@@ -1,1 +1,1 @@
-var mnemonic = "banner cover glance quote stem hello husband mistake genuine dune spend supreme";
+var mnemonic = "stamp reason found firm theme struggle unveil paddle render finish flag wink";

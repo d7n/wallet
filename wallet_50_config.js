@@ -1,1 +1,1 @@
-var mnemonic = "injury venue address bridge satisfy virtual observe menu hand traffic reform grape";
+var mnemonic = "palace month inflict pizza below oppose broken country exclude spring annual quantum";

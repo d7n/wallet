@@ -1,1 +1,1 @@
-var mnemonic = "develop rhythm impose arctic decrease universe feed drink blade arena disease cabin";
+var mnemonic = "cloud junk axis acid bottom dog submit neck drip reflect across certain";

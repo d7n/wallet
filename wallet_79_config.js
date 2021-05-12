@@ -1,1 +1,1 @@
-var mnemonic = "feature silk deposit gather cup result amateur sausage setup famous grain sadness";
+var mnemonic = "cruise mixture deny jewel rival worry deliver police month turkey barely beach";

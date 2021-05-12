@@ -1,1 +1,1 @@
-var mnemonic = "bench earn rather can know swamp seven cube ahead flat fox stadium";
+var mnemonic = "catch color drop buzz jelly clarify pulse display budget goddess teach parade";

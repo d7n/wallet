@@ -1,1 +1,1 @@
-var mnemonic = "spawn young drum music nut axis rely donkey spring lake opera aim";
+var mnemonic = "dust tunnel true letter fiction cupboard entire rice chalk ball clog view";

@@ -1,1 +1,1 @@
-var mnemonic = "wide pulp inject breeze camp volume hub drop alarm hurt draft fork";
+var mnemonic = "column dinner lecture jeans unlock grid hard frequent steak wreck tape sunny";

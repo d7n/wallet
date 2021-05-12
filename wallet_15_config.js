@@ -1,1 +1,1 @@
-var mnemonic = "deputy fashion lunch soul dial lift battle lobster mask hood giant little";
+var mnemonic = "arctic august raw smooth scatter snap label risk betray artefact initial space";
