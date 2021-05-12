@@ -1,1 +1,1 @@
-var mnemonic = "fossil number club december express garment wisdom later tape under rug mystery";
+var mnemonic = "marble upper luxury kangaroo maid glad craft survey alert riot also pipe";

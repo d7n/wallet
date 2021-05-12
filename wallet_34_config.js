@@ -1,1 +1,1 @@
-var mnemonic = "outdoor intact dinosaur river into doll worth rookie today father term surge";
+var mnemonic = "share anxiety like forward vicious kingdom exclude account joy crumble wild athlete";

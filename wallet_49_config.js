@@ -1,1 +1,1 @@
-var mnemonic = "glove machine fox upset view monitor index beach sudden oppose sudden journey";
+var mnemonic = "snack guitar three gold smile outside gossip health risk expose lecture endless";

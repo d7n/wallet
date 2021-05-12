@@ -1,1 +1,1 @@
-var mnemonic = "nest clip divide include length lunch pizza bring village leopard another cave";
+var mnemonic = "random panel upgrade gospel warm feel wage relax alert execute fringe teach";

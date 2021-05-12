@@ -1,1 +1,1 @@
-var mnemonic = "program wine matrix monkey drama lens animal hurt correct mass alert negative";
+var mnemonic = "turtle gaze axis venue season expand try fringe tongue marine east fitness";

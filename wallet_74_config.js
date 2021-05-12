@@ -1,1 +1,1 @@
-var mnemonic = "light depth stumble keep sugar toilet belt across cram despair judge ridge";
+var mnemonic = "minor tragic inmate actual almost alcohol blush broom horse gym surprise cushion";

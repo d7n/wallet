@@ -1,1 +1,1 @@
-var mnemonic = "hood torch script catch conduct thunder element web february tray absurd siege";
+var mnemonic = "brush day forum figure grief achieve sorry garment parrot side favorite pyramid";

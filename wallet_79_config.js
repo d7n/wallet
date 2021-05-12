@@ -1,1 +1,1 @@
-var mnemonic = "modify fitness enemy ability replace shiver gentle effort acoustic split exchange moon";
+var mnemonic = "army gas harbor focus dad six ability outside icon truth blush oyster";

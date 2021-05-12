@@ -1,1 +1,1 @@
-var mnemonic = "grain kiss engine accident rather police doctor panther damage issue switch useful";
+var mnemonic = "comic razor among ugly describe one advance happy ladder student tail truth";

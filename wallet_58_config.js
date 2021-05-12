@@ -1,1 +1,1 @@
-var mnemonic = "capable wet tackle brand dry agree stand success pond flavor robot echo";
+var mnemonic = "dose bamboo permit mango frozen drama humble pave tell giant mail farm";

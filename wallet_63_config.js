@@ -1,1 +1,1 @@
-var mnemonic = "public mercy muscle moment update border accuse cat client celery enforce allow";
+var mnemonic = "worry van text payment shove injury heavy seed harvest unusual section make";

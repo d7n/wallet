@@ -1,1 +1,1 @@
-var mnemonic = "payment turn coffee mobile can iron february practice canyon portion ribbon cousin";
+var mnemonic = "fire settle property lecture guitar fringe jeans canvas box erupt skull false";

@@ -1,1 +1,1 @@
-var mnemonic = "exile advice always odor bomb pledge simple math gold grunt prefer rocket";
+var mnemonic = "stand filter left lesson raven fork brown movie siege derive shed price";

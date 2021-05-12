@@ -1,1 +1,1 @@
-var mnemonic = "edit arrange language tattoo chef glide army fog traffic culture label assume";
+var mnemonic = "tissue guitar opera abuse clock school decline dad man rhythm scan unaware";

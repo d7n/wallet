@@ -1,1 +1,1 @@
-var mnemonic = "clever parrot visual flight grocery decide dad diagram step disagree machine regular";
+var mnemonic = "donor arctic bullet humor evil festival core height miracle false energy slender";

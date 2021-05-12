@@ -1,1 +1,1 @@
-var mnemonic = "describe bone gallery grant plug grace deal fault ocean boat elder slim";
+var mnemonic = "trade pear early item thrive umbrella ring tent expose admit easy say";

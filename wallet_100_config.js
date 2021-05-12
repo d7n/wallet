@@ -1,1 +1,1 @@
-var mnemonic = "common flip recipe spoon patch license describe school gather pony cargo usual";
+var mnemonic = "man glue edge submit opinion giggle dress steak wheat release goddess guilt";

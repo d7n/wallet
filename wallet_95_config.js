@@ -1,1 +1,1 @@
-var mnemonic = "black skull room age crazy word mansion keep private sick desert capable";
+var mnemonic = "fortune cabin industry believe motor despair magnet draw tiger mutual van usage";

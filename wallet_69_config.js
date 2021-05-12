@@ -1,1 +1,1 @@
-var mnemonic = "wrestle quick nasty afraid already luxury snack memory armed tube infant phone";
+var mnemonic = "rebuild purity remind thrive involve system enroll crowd bomb opinion job next";

@@ -1,1 +1,1 @@
-var mnemonic = "later immune live grid fragile pink useless disease toward rose squirrel practice";
+var mnemonic = "income rifle observe tell update olympic tuition marriage bargain edge produce garbage";

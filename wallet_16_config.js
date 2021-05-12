@@ -1,1 +1,1 @@
-var mnemonic = "crater remind ethics lake logic exhibit mimic hunt assist immune forward milk";
+var mnemonic = "photo disagree control plate column sword mechanic gym gaze tent legend habit";

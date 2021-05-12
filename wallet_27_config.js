@@ -1,1 +1,1 @@
-var mnemonic = "wild ostrich piece tuition source add boil rose breeze rare arctic zone";
+var mnemonic = "liquid vessel version amazing boost pupil lawn sponsor guide story usage satoshi";

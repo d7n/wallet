@@ -1,1 +1,1 @@
-var mnemonic = "apology disease sentence only hedgehog consider icon depend element enforce man ecology";
+var mnemonic = "denial test little sea truth vast target boss enforce bacon useless jeans";

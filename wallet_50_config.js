@@ -1,1 +1,1 @@
-var mnemonic = "member index amount exact various process reveal tourist office awake cabin rack";
+var mnemonic = "wrist round liquid artefact pass waste trial resemble total garbage ocean input";

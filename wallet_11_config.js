@@ -1,1 +1,1 @@
-var mnemonic = "emerge umbrella chest fat coin outdoor urge animal jar dry hazard velvet";
+var mnemonic = "melt glue inhale update march sheriff author fruit supreme layer genius caution";

@@ -1,1 +1,1 @@
-var mnemonic = "country saddle brave acoustic wood pizza inhale output aisle cliff tourist rare";
+var mnemonic = "sudden ketchup wait topic install captain foot another desert shell sun twice";

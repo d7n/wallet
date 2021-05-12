@@ -1,1 +1,1 @@
-var mnemonic = "slush equip scrub direct baby detail invite mistake ugly west hole kangaroo";
+var mnemonic = "gather potato ozone acid measure exact budget vivid maze lounge frown setup";

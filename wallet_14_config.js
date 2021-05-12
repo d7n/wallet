@@ -1,1 +1,1 @@
-var mnemonic = "toward silk job jeans actual victory flash okay bright solution correct impact";
+var mnemonic = "brick west light pill liberty party dance dust manage unfold sun retire";

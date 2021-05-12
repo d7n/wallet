@@ -1,1 +1,1 @@
-var mnemonic = "clutch enroll village gaze dentist audit sorry feature face slot staff gap";
+var mnemonic = "elephant taste peace shock execute ready bright lottery novel marble proud twenty";

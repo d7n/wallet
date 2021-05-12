@@ -1,1 +1,1 @@
-var mnemonic = "artwork imitate echo course strategy another must into sponsor license option resource";
+var mnemonic = "banner they auction mad hawk main poverty fossil guard author often math";

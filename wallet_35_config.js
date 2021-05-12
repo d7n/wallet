@@ -1,1 +1,1 @@
-var mnemonic = "timber always fantasy obvious nose unit sunset labor accident general mushroom solar";
+var mnemonic = "canal paddle adjust intact dress edge catch expose fan gasp crunch velvet";

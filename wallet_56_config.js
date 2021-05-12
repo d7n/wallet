@@ -1,1 +1,1 @@
-var mnemonic = "clump order marble sail olive soon stomach bubble find thing wave luggage";
+var mnemonic = "estate asthma estate install toilet winter message bonus chronic debate twenty expect";

@@ -1,1 +1,1 @@
-var mnemonic = "secret size dizzy drift buffalo argue envelope dash expand artefact there cereal";
+var mnemonic = "fat afraid bar cancel patrol reduce quantum depart wage ceiling road moon";

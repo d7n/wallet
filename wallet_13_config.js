@@ -1,1 +1,1 @@
-var mnemonic = "mandate arrow slight machine price dignity nurse labor future valid length fitness";
+var mnemonic = "large surface saddle ridge skill have window smooth flat violin share patch";

@@ -1,1 +1,1 @@
-var mnemonic = "answer trust cupboard guide blanket atom satoshi limb evidence win hungry pony";
+var mnemonic = "stumble season enter fence crawl bonus mimic summer purchase affair oval jealous";

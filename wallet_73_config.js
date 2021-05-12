@@ -1,1 +1,1 @@
-var mnemonic = "pass quarter liquid absent faculty mosquito chalk chief change energy review debris";
+var mnemonic = "breeze clap accident gaze primary hen speed visa hungry fantasy later stock";

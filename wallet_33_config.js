@@ -1,1 +1,1 @@
-var mnemonic = "tourist august fix inherit wrong bunker front tribe talent want grit daughter";
+var mnemonic = "amazing unaware feed cream equip witness eye tired cash else tonight reduce";

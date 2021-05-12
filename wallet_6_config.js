@@ -1,1 +1,1 @@
-var mnemonic = "enjoy vivid dog section bounce afford rare series steel category shiver side";
+var mnemonic = "dish table bonus assault fox coral river blood citizen library legal alert";

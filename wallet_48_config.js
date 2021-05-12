@@ -1,1 +1,1 @@
-var mnemonic = "tragic safe derive hen labor question spirit chronic acquire spin best night";
+var mnemonic = "ten warm fish when access rely motion circle craft piano mention diesel";

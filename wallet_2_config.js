@@ -1,1 +1,1 @@
-var mnemonic = "open october come upgrade victory position relax sketch shoot length outer hurdle";
+var mnemonic = "enjoy cram decide slot pyramid fatigue need guide analyst paddle horror caught";

@@ -1,1 +1,1 @@
-var mnemonic = "card aunt talent amazing purity floor cliff parent mistake cake nose radio";
+var mnemonic = "copy across piece harvest coach antique penalty diet rubber pass wrong duty";

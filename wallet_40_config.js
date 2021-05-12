@@ -1,1 +1,1 @@
-var mnemonic = "witness tornado poet acoustic amateur bird essay believe lemon original adult album";
+var mnemonic = "deputy enforce siege engage just link slush expose rival stomach volcano cry";

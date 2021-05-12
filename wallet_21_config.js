@@ -1,1 +1,1 @@
-var mnemonic = "talent brother link print yellow brick empower diary border sand demise february";
+var mnemonic = "home library grow radio model dry observe tattoo fresh bachelor cheese onion";

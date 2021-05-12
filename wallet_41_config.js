@@ -1,1 +1,1 @@
-var mnemonic = "small injury toast unaware bronze example require poet purchase ride inhale father";
+var mnemonic = "dilemma hurt celery winter find cave genius marriage claim gold horn crash";

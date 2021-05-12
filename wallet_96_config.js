@@ -1,1 +1,1 @@
-var mnemonic = "width crop speak day iron width tank want note river twin swift";
+var mnemonic = "doctor oval perfect illegal heart merry engage junior pumpkin spike shallow scare";

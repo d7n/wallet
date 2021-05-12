@@ -1,1 +1,1 @@
-var mnemonic = "kiwi wine ocean dream blanket near armed eye dove offer zero chair";
+var mnemonic = "morning climb present orchard silent large bronze walk upon miss boy bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "act crumble prefer liberty swarm nasty mammal park fit myself velvet connect";
+var mnemonic = "year horse snap drive shield destroy copper weather embrace struggle pig mansion";

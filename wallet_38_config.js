@@ -1,1 +1,1 @@
-var mnemonic = "winter car middle awake catalog forum coffee rate language area must supreme";
+var mnemonic = "gorilla female possible pottery recycle stomach buffalo purse antique great raven search";

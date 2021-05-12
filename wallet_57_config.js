@@ -1,1 +1,1 @@
-var mnemonic = "dust unknown jazz hen history action hunt bread coral flush shoulder capital";
+var mnemonic = "offer print steak business dash exchange before exotic level duty primary scan";

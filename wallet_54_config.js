@@ -1,1 +1,1 @@
-var mnemonic = "couch conduct absurd peace photo tiny east kind life clean pretty west";
+var mnemonic = "quit scale fold around tribe dice fantasy mammal unveil fresh page myth";

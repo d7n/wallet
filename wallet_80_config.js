@@ -1,1 +1,1 @@
-var mnemonic = "explain license pudding canvas bean alpha piece alert pulse other narrow brick";
+var mnemonic = "barrel earth gas embrace spread actual club trade federal member monster remind";

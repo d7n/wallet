@@ -1,1 +1,1 @@
-var mnemonic = "bind flee brush cousin equal husband armor fabric click main liberty neutral";
+var mnemonic = "kidney host clinic wrap syrup upon desert globe road extra accident shield";

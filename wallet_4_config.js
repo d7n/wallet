@@ -1,1 +1,1 @@
-var mnemonic = "burger click slide wish bone cancel absorb dose wall resist work physical";
+var mnemonic = "narrow chef space fortune gym base obey resist chronic slot poverty genius";

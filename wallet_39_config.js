@@ -1,1 +1,1 @@
-var mnemonic = "upper enlist crop shiver aunt organ alarm order marine exhaust marriage property";
+var mnemonic = "marriage awake caught royal caught celery brown habit settle secret produce faculty";

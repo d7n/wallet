@@ -1,1 +1,1 @@
-var mnemonic = "lyrics daring need inspire inform lounge liquid stereo moment escape siege midnight";
+var mnemonic = "swear vendor insect tribe amount acquire attitude behave misery return slide spoon";

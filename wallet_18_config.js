@@ -1,1 +1,1 @@
-var mnemonic = "cruel add admit dynamic blame unique cradle street come parade add alley";
+var mnemonic = "notice supply spring penalty note other bind hour vital subject nominee vanish";

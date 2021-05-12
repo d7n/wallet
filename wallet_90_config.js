@@ -1,1 +1,1 @@
-var mnemonic = "consider truck trim face abstract certain october chronic mandate olympic beef mammal";
+var mnemonic = "air crucial slight online drastic random pole gentle drip cancel slice sea";

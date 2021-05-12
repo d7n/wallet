@@ -1,1 +1,1 @@
-var mnemonic = "year you resist force away elite industry similar such whale unaware nasty";
+var mnemonic = "benefit win right rhythm wrap advance habit stable black work either exist";

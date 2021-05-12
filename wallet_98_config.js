@@ -1,1 +1,1 @@
-var mnemonic = "nature warfare pear welcome jacket gaze second office few nose body mango";
+var mnemonic = "can glow device derive sibling dutch fitness federal enrich tent uniform where";

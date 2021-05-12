@@ -1,1 +1,1 @@
-var mnemonic = "plug unveil merge chapter float veteran equip february cigar butter display face";
+var mnemonic = "pole escape lesson chronic want pet sugar cricket sound task way assume";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope kitchen end scrub mansion onion mesh olive engage balance humor scissors";
+var mnemonic = "penalty coyote deny deny divert swap melt object glow lens diagram heavy";

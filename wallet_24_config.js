@@ -1,1 +1,1 @@
-var mnemonic = "forest afford brown brush antenna october tongue labor sauce comfort food arctic";
+var mnemonic = "short card husband seed swarm pave west sail cry rapid yellow matter";

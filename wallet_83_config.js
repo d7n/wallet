@@ -1,1 +1,1 @@
-var mnemonic = "dolphin word slow model valve execute boost safe icon source rose piano";
+var mnemonic = "floor sail weekend visa duck govern kick attack reflect bridge sort whale";

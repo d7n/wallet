@@ -1,1 +1,1 @@
-var mnemonic = "level problem twist spin cave butter stereo kiss cram used kiss volume";
+var mnemonic = "first review honey impose business floor health inform swift black key castle";

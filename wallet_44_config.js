@@ -1,1 +1,1 @@
-var mnemonic = "sample brush coffee unable grape cherry legend frown bomb despair security grow";
+var mnemonic = "length cruel surge about empty able donkey hero arctic surge expose gas";

@@ -1,1 +1,1 @@
-var mnemonic = "absent quit kitten film green category muscle certain cancel shoe help negative";
+var mnemonic = "genius suspect goose cabbage slogan guide vanish resist seminar prosper course embrace";

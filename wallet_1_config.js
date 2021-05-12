@@ -1,1 +1,1 @@
-var mnemonic = "clog foil endorse result wisdom urge danger silent weird autumn umbrella secret";
+var mnemonic = "ticket fantasy audit mail cotton oblige view reveal isolate glance canyon wolf";

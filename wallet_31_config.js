@@ -1,1 +1,1 @@
-var mnemonic = "topple embark hover floor razor actor bless finger swarm feature pool drama";
+var mnemonic = "kid fever frame leopard curtain safe woman boss shiver crash same sail";

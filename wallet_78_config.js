@@ -1,1 +1,1 @@
-var mnemonic = "enlist grocery people advice found hold sight odor suspect napkin meat vanish";
+var mnemonic = "wheel erase melt pitch gadget fix near wealth advice fog minor embark";

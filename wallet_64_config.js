@@ -1,1 +1,1 @@
-var mnemonic = "utility outer just original borrow clap elbow plastic coyote style bone remain";
+var mnemonic = "virus urban yellow donor ramp jazz art about melody squirrel connect nature";

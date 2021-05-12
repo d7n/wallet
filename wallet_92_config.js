@@ -1,1 +1,1 @@
-var mnemonic = "demand gauge exile excess oblige staff army throw gift close arrive electric";
+var mnemonic = "horn emerge current proud program seven rookie journey size tortoise gravity bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade problem faith mouse dose kitchen bunker tide mind diary occur bleak";
+var mnemonic = "spare thing fee sudden more august sister food exit daughter heart daughter";

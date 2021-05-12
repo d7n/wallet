@@ -1,1 +1,1 @@
-var mnemonic = "rug cute convince party helmet retreat garden target error train tooth light";
+var mnemonic = "seven race just grape disagree hat main initial major medal advance huge";

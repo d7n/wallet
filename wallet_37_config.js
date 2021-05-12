@@ -1,1 +1,1 @@
-var mnemonic = "stumble above tip analyst giggle idea genius keep roast mimic winter else";
+var mnemonic = "riot amateur exhibit almost ankle shuffle decline own renew brush slender under";

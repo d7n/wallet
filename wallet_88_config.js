@@ -1,1 +1,1 @@
-var mnemonic = "pulse useless sport energy finish three price employ dignity improve rich help";
+var mnemonic = "museum eternal total shine prosper latin logic cliff adapt return twenty plastic";

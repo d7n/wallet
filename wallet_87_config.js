@@ -1,1 +1,1 @@
-var mnemonic = "gym awesome divert invest fiction envelope blouse talk vivid suit large wool";
+var mnemonic = "love short distance sword chef kitchen jaguar replace artefact monitor bronze announce";

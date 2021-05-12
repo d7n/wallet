@@ -1,1 +1,1 @@
-var mnemonic = "insane spawn warfare suggest movie universe strike into dog august liquid plastic";
+var mnemonic = "country dynamic tomorrow ready erupt clog series coral tell lend repair series";

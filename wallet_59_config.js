@@ -1,1 +1,1 @@
-var mnemonic = "knock quit sense tomorrow task hard eagle curtain kiwi walnut pet anger";
+var mnemonic = "famous miracle scissors rabbit lesson face proud lift van hospital anchor bar";

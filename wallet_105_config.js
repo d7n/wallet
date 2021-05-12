@@ -1,1 +1,1 @@
-var mnemonic = "soccer kiss prosper total entry van ride tragic net social delay fatal";
+var mnemonic = "champion tree antenna minor panic then enroll able crater ride guitar thing";

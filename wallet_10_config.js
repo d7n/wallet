@@ -1,1 +1,1 @@
-var mnemonic = "parade industry endless person legend example put parade type age utility addict";
+var mnemonic = "matter average bundle hurt envelope legal soldier sketch liberty ranch patrol spare";

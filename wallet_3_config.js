@@ -1,1 +1,1 @@
-var mnemonic = "coast quote announce immense artist material family run grow soft win vapor";
+var mnemonic = "maple mule manage video total force rich motor magic prize jealous victory";

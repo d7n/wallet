@@ -1,1 +1,1 @@
-var mnemonic = "immense circle million pizza invite flush leave impose boost foam divide soda";
+var mnemonic = "flush close evoke sketch shadow choice voice soul renew prosper ski ritual";

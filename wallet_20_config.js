@@ -1,1 +1,1 @@
-var mnemonic = "craft outer keep timber beauty option tonight few off tribe cheese guilt";
+var mnemonic = "kiwi ready south electric car segment asset olive farm deer length ten";

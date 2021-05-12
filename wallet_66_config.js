@@ -1,1 +1,1 @@
-var mnemonic = "client civil bird patient pupil lamp alone ramp salt lemon size buzz";
+var mnemonic = "cattle gesture frozen collect escape strong foam impose sponsor regret indoor screen";

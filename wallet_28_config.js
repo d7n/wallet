@@ -1,1 +1,1 @@
-var mnemonic = "resemble myself robust talent animal canvas release bright village version soccer erode";
+var mnemonic = "unaware dune follow season bundle cabbage affair milk seed boost indicate palm";

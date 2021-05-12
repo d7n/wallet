@@ -1,1 +1,1 @@
-var mnemonic = "phone fat edit minor avoid act glide charge dune ability puzzle height";
+var mnemonic = "behind rack attract stove airport taxi blush remind ethics ski wear clog";

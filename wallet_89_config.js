@@ -1,1 +1,1 @@
-var mnemonic = "skill force catch forget stay cross odor chronic taste page sign food";
+var mnemonic = "chuckle liar noodle present poem off disagree pepper capital exile couple begin";

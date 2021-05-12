@@ -1,1 +1,1 @@
-var mnemonic = "believe flag absorb spell artist hundred panda october barely door ladder resource";
+var mnemonic = "satoshi involve submit engine balance ginger wink comfort lake swarm nothing undo";

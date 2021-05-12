@@ -1,1 +1,1 @@
-var mnemonic = "camp cash stone cupboard race walk average meadow urge comfort pudding civil";
+var mnemonic = "rice glow stem spin addict blast general shoe lawn brief rent bind";

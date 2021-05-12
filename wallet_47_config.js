@@ -1,1 +1,1 @@
-var mnemonic = "siege basket maple sheriff above buddy sport pair father twelve seven exhibit";
+var mnemonic = "prefer elevator elite wagon during police fever tortoise robust tool mail absent";

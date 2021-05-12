@@ -1,1 +1,1 @@
-var mnemonic = "reward combine quote rely asset rude run gloom nation dwarf bulb champion";
+var mnemonic = "utility grocery film thought copy mosquito access sail open walnut glance letter";
