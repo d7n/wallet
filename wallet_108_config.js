@@ -1,1 +1,1 @@
-var mnemonic = "analyst modify spatial unfold grit enrich run clog example list stool early";
+var mnemonic = "pave orange like scout rescue blast join elephant december practice nest mimic";

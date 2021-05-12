@@ -1,1 +1,1 @@
-var mnemonic = "sphere endorse salute month eyebrow during dismiss forest dilemma bundle daring pottery";
+var mnemonic = "win attitude cloud agent acquire left huge demise spawn where civil warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "potato hotel valley execute engage gold pelican mango theory flavor skin figure";
+var mnemonic = "apple hen rely arm dismiss animal decline tuition seven shine tired lamp";

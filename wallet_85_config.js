@@ -1,1 +1,1 @@
-var mnemonic = "equip glimpse leaf palace album fox need wild rain jump soldier tuition";
+var mnemonic = "cloud bench jelly indicate laugh unfold tuna clown tragic mixture pull thrive";

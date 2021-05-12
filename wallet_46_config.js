@@ -1,1 +1,1 @@
-var mnemonic = "brisk foam company under text garbage shift render word hello game music";
+var mnemonic = "across okay work alien laundry genre negative mystery truly fade afraid canvas";

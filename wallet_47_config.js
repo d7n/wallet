@@ -1,1 +1,1 @@
-var mnemonic = "edit timber dragon budget lucky hollow eager trust dad apology skin vintage";
+var mnemonic = "legend notable ginger canyon round cousin verb draw loyal pottery later alley";

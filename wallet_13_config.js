@@ -1,1 +1,1 @@
-var mnemonic = "glue mad direct blast aunt clap child mask plastic hazard illegal combine";
+var mnemonic = "caught drastic monster alter object prosper bird fresh agent tongue catalog define";

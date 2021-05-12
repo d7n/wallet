@@ -1,1 +1,1 @@
-var mnemonic = "layer bind rich slow open salute mule shy topple very draft dizzy";
+var mnemonic = "friend battle ankle cram board cannon awesome pumpkin ensure agree monitor can";

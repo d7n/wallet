@@ -1,1 +1,1 @@
-var mnemonic = "recycle topple since blue verify alarm energy join benefit afford just lunch";
+var mnemonic = "blind aspect wool doctor visa carbon churn hen coyote accident funny enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "page intact ocean bomb travel deer private number plate sure vicious expand";
+var mnemonic = "census avoid dilemma file cabin pet stove brick execute october tragic drive";

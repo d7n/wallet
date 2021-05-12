@@ -1,1 +1,1 @@
-var mnemonic = "require dawn miracle amount diary pulp fluid exchange step enjoy bunker scout";
+var mnemonic = "useless yellow face exile perfect picture cube appear tape scale cushion tiger";

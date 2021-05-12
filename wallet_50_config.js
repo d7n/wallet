@@ -1,1 +1,1 @@
-var mnemonic = "burst online acoustic diesel lab creek crane good trial turtle fuel assault";
+var mnemonic = "try change duck error scale old number cat seminar creek chapter usual";

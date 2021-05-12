@@ -1,1 +1,1 @@
-var mnemonic = "volume logic minimum enrich cage noise upper unusual tennis measure mirror tell";
+var mnemonic = "stumble ticket nice ghost bicycle scale coast run board nurse vote trap";

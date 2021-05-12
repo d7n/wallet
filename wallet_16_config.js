@@ -1,1 +1,1 @@
-var mnemonic = "elbow always require limb brisk final divorce gate estate much attract song";
+var mnemonic = "convince area this exclude any oblige average about sheriff under height panic";

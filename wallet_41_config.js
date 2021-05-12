@@ -1,1 +1,1 @@
-var mnemonic = "hire shadow fade canyon stuff hedgehog glass vital duck lecture make melody";
+var mnemonic = "seed mercy elegant clarify heart coach taxi gown upset crane property sunset";

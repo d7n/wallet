@@ -1,1 +1,1 @@
-var mnemonic = "advance boss bulb circle excite come scorpion glory tomato cat sheriff lumber";
+var mnemonic = "enforce elephant wreck renew man market arrange recipe copy afford private bundle";

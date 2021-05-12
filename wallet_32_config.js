@@ -1,1 +1,1 @@
-var mnemonic = "happy laptop organ place tortoise estate wise fetch include ivory usual problem";
+var mnemonic = "board ignore distance achieve episode kidney bulb execute seek grocery vanish around";

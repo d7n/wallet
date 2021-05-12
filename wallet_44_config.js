@@ -1,1 +1,1 @@
-var mnemonic = "beyond penalty embrace digital express poverty inspire injury danger divorce slim sausage";
+var mnemonic = "cloth damp sausage soccer home birth claim huge hunt afraid notable canal";

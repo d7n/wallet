@@ -1,1 +1,1 @@
-var mnemonic = "idea hotel rocket access legal meat marble thank zoo verb start volcano";
+var mnemonic = "win connect deliver regular shed exotic betray bleak obvious pitch affair awful";

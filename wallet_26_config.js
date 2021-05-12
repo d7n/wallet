@@ -1,1 +1,1 @@
-var mnemonic = "social run lab universe bridge hip monster butter claw quiz next fine";
+var mnemonic = "vault shock climb topic addict device pottery enrich door select hover world";

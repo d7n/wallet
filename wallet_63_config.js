@@ -1,1 +1,1 @@
-var mnemonic = "roast catch tattoo vintage vault gaze artwork motion orient embrace hour chronic";
+var mnemonic = "ahead theme muffin abandon latin envelope reason minute basket increase current fee";

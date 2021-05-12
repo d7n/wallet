@@ -1,1 +1,1 @@
-var mnemonic = "blame goose awful hair genius borrow arrive shift humble food fold effort";
+var mnemonic = "ready resemble arena jealous dynamic clean grunt puzzle remove claim finger garden";

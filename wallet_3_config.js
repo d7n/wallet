@@ -1,1 +1,1 @@
-var mnemonic = "venue employ beach drama opinion order hazard magnet primary bitter heart reward";
+var mnemonic = "quality satoshi connect ribbon comfort private short keen picture later letter taste";

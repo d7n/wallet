@@ -1,1 +1,1 @@
-var mnemonic = "fault saddle second issue ring piece syrup cage lesson kick shove keen";
+var mnemonic = "remember promote paddle oxygen harvest kingdom hobby wife flush napkin young cave";

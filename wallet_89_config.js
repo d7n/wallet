@@ -1,1 +1,1 @@
-var mnemonic = "fortune tank palm ahead vehicle absurd price wool square size slender piano";
+var mnemonic = "dry unveil depend fancy wall dismiss search badge cheese rude kick pilot";

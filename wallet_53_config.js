@@ -1,1 +1,1 @@
-var mnemonic = "salon palm gown toast giant catch orient opinion echo tumble dry resource";
+var mnemonic = "fury reflect blame will nasty kingdom region valid firm wreck problem champion";

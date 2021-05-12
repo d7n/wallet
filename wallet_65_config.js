@@ -1,1 +1,1 @@
-var mnemonic = "real spawn staff satoshi swim check purity wave aim school second tilt";
+var mnemonic = "debate usage aware point hammer guard transfer wire tenant side matter evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "federal distance letter congress winner kidney rural fossil liquid furnace eyebrow pact";
+var mnemonic = "oppose budget square method tumble favorite ribbon april usage void ocean enhance";

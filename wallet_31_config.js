@@ -1,1 +1,1 @@
-var mnemonic = "couch century possible elegant twin seek ozone file own hope lazy shell";
+var mnemonic = "real grab foil silk kite snack divorce same alpha draft canoe result";

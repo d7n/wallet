@@ -1,1 +1,1 @@
-var mnemonic = "uncover purchase notable hole work road better install review zoo barrel cause";
+var mnemonic = "ethics bronze caution tell quarter cost fish believe someone nice inject height";

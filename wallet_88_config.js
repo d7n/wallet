@@ -1,1 +1,1 @@
-var mnemonic = "bridge slogan twist dream gravity dose sun false use cinnamon hope hub";
+var mnemonic = "fly worry initial over erode almost reflect runway tree ranch verify punch";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis climb shallow ancient heart beef brave joke catch offer palace orphan";
+var mnemonic = "cliff spy sister hundred party sudden flock snap journey almost defy angle";

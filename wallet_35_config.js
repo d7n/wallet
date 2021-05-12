@@ -1,1 +1,1 @@
-var mnemonic = "drop achieve rely job matter example light black valley step age tuna";
+var mnemonic = "infant rescue smooth lounge beyond inmate argue body cause primary noise worth";

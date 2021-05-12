@@ -1,1 +1,1 @@
-var mnemonic = "opera glory try depart kitchen height advance father hidden thing social capable";
+var mnemonic = "wink hundred feature angle develop afraid claw miss slot token ordinary lunch";

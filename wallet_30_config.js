@@ -1,1 +1,1 @@
-var mnemonic = "symptom profit blood until high method effort ocean million dinosaur hello chief";
+var mnemonic = "capital silly room draw sausage double fish forum salmon domain mix segment";

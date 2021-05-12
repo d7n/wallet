@@ -1,1 +1,1 @@
-var mnemonic = "exotic ocean april work ten cushion tourist size woman quote ecology hundred";
+var mnemonic = "protect magnet shock spy dilemma romance bar arctic drink direct head bounce";

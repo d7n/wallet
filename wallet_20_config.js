@@ -1,1 +1,1 @@
-var mnemonic = "leader away auction design security depth elevator near alter vote wreck produce";
+var mnemonic = "slender journey woman crash solution exit state license envelope file senior cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "advice outdoor calm load reveal dial patrol where gain romance local gravity";
+var mnemonic = "warm party puppy fox develop anchor resist mix defy ghost sustain outer";

@@ -1,1 +1,1 @@
-var mnemonic = "cable often neck amazing iron rubber issue rigid puppy alcohol trophy common";
+var mnemonic = "buffalo trim wrong wild erode erode achieve rival please elevator expire purpose";

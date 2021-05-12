@@ -1,1 +1,1 @@
-var mnemonic = "airport quiz broken wrist blur actor hire uncle wage employ leaf feed";
+var mnemonic = "dynamic army inherit budget valid left demand pool catch hedgehog muscle actress";

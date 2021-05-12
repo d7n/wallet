@@ -1,1 +1,1 @@
-var mnemonic = "sugar thrive dog coach benefit despair length tired idea bird split dash";
+var mnemonic = "define assault fall bus inspire daring drive acid voice hundred rate start";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace year garbage equip task warrior jewel vast blush shell top animal";
+var mnemonic = "seven universe pizza model foil rapid empower crime visit pig history piece";

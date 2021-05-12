@@ -1,1 +1,1 @@
-var mnemonic = "apart question guilt balcony there term arena whale grunt assume web left";
+var mnemonic = "pig victory crack tired payment enroll fossil hurry episode capital speed unhappy";

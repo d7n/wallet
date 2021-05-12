@@ -1,1 +1,1 @@
-var mnemonic = "kiwi school rural win ready unaware any floor predict patch caution since";
+var mnemonic = "time keep father excuse athlete print biology process biology exercise law whip";

@@ -1,1 +1,1 @@
-var mnemonic = "light between coyote neither illegal mesh awake turn opera memory glare journey";
+var mnemonic = "leader soccer follow chase payment melt pizza behind canyon blind motion all";

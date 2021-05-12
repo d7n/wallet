@@ -1,1 +1,1 @@
-var mnemonic = "champion labor news apology math crop sand victory attract antenna feel sing";
+var mnemonic = "visit napkin gown fee maid brother enough scorpion exile voyage engine rebuild";

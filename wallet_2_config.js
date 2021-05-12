@@ -1,1 +1,1 @@
-var mnemonic = "main tonight minimum alter primary oven hello actor virtual hedgehog same cruel";
+var mnemonic = "pride artist scare movie mirror sphere detail correct monitor fever quote fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil area pipe chapter armed leaf book call ghost harvest butter retreat";
+var mnemonic = "speak prepare debris place explain garlic knife effort leopard clown embody blind";

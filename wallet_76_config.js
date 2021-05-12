@@ -1,1 +1,1 @@
-var mnemonic = "visual love jazz best scare grow ability express diamond shed undo wall";
+var mnemonic = "slice west plate program apple pill off desk awful deal alone valley";

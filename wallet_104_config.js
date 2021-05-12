@@ -1,1 +1,1 @@
-var mnemonic = "junk twist edge hammer patch deposit lake melt seven island flee detail";
+var mnemonic = "file pave ignore say lumber cushion museum output resource keen cinnamon twist";

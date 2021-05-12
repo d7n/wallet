@@ -1,1 +1,1 @@
-var mnemonic = "celery hint attend fun pause claim second tennis bamboo follow misery track";
+var mnemonic = "dentist elbow vessel fault anxiety artefact exit foster nuclear unhappy service luxury";

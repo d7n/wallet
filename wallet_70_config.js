@@ -1,1 +1,1 @@
-var mnemonic = "exclude rural trim huge wash whale journey program clinic loud sense carbon";
+var mnemonic = "avoid loop liberty all scatter release supply ostrich loop bamboo grit impose";

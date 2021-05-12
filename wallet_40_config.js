@@ -1,1 +1,1 @@
-var mnemonic = "myth poet absorb sausage stumble funny join jaguar merit put garbage sphere";
+var mnemonic = "lecture crowd smile culture face eight egg flag viable hobby alcohol inspire";

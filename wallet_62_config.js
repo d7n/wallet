@@ -1,1 +1,1 @@
-var mnemonic = "federal slot capable famous host arrow chair fish index limit group mountain";
+var mnemonic = "injury remember turn divide close young umbrella muscle trophy scrap marine horn";

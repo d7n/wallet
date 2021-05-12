@@ -1,1 +1,1 @@
-var mnemonic = "brass parade appear wall burden sing flame panther seek inmate window film";
+var mnemonic = "early slim tennis ticket inflict flavor luxury diary assume soup usage envelope";

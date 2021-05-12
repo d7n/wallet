@@ -1,1 +1,1 @@
-var mnemonic = "main spend vital guide vocal elephant side word initial lawn average hard";
+var mnemonic = "police luxury sell car people girl inside antique front moment banana february";

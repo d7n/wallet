@@ -1,1 +1,1 @@
-var mnemonic = "asthma summer benefit border wheat apology travel skirt blouse view puzzle exclude";
+var mnemonic = "yellow chunk neither doll lecture tennis tuna cloth ask number news rich";

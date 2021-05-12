@@ -1,1 +1,1 @@
-var mnemonic = "keen level stick purchase oven goose wrist split innocent strategy lumber glad";
+var mnemonic = "people humor quit gravity stove act link upper quiz life fit spray";

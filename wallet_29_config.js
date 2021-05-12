@@ -1,1 +1,1 @@
-var mnemonic = "sweet april carpet hero birth maximum layer round describe ride wisdom tell";
+var mnemonic = "believe rebel exhibit police practice pelican armor scorpion interest bubble lemon chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "number frequent asthma team nurse afraid dune ahead robot guess ticket beef";
+var mnemonic = "acquire now segment inform field jacket helmet train valid wink promote crater";

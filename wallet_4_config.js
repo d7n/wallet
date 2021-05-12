@@ -1,1 +1,1 @@
-var mnemonic = "butter imitate affair better water spot network win flavor destroy project absorb";
+var mnemonic = "tip include number keep case dish level trust mandate strong farm fat";

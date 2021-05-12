@@ -1,1 +1,1 @@
-var mnemonic = "miss shoe dice pigeon flower caution fossil assist theme carpet spawn title";
+var mnemonic = "parent place cage rescue mention east empty debris urge kick spray ticket";

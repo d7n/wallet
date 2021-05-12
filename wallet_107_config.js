@@ -1,1 +1,1 @@
-var mnemonic = "festival sun resist govern volume join diet truck crouch right scene crucial";
+var mnemonic = "refuse process develop weasel year position team sugar victory deputy defense abstract";

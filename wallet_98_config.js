@@ -1,1 +1,1 @@
-var mnemonic = "trophy soda front stairs sibling sketch castle pink before thrive shove invite";
+var mnemonic = "during indoor caught sustain depart coil unlock setup other collect special hobby";

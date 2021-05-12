@@ -1,1 +1,1 @@
-var mnemonic = "fix wealth warm maple garment style hat impact carry proud lobster bench";
+var mnemonic = "gap already near orchard aspect pyramid knife mule turtle clock high negative";

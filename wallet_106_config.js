@@ -1,1 +1,1 @@
-var mnemonic = "sauce hazard arrest ocean elbow door disagree icon october federal sword voyage";
+var mnemonic = "submit shoulder frozen joy style verify wear chapter sample company weather tribe";

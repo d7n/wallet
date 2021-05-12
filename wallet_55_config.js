@@ -1,1 +1,1 @@
-var mnemonic = "snake wisdom area where connect rail lunar admit check budget matter girl";
+var mnemonic = "before fee chase wise cancel remind sea wreck poet panther romance spider";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch envelope step keen math traffic force farm fish announce torch again";
+var mnemonic = "proof energy flag lounge orchard wash sand base goddess sure dose deposit";

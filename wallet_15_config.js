@@ -1,1 +1,1 @@
-var mnemonic = "twin ramp disagree better ski else rare elephant elite void giraffe object";
+var mnemonic = "fog recall exact behind cliff glow horse jewel amount stick noodle syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "fat earth learn history come rough earn occur baby hospital turtle dog";
+var mnemonic = "tank mansion book pear foil coyote wrist fox flight patch album illness";

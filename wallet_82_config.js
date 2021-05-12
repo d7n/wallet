@@ -1,1 +1,1 @@
-var mnemonic = "crop acid beauty cook stereo situate push dizzy model print noble such";
+var mnemonic = "sick enter credit vessel toast desk foster explain census weather actress life";

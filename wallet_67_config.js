@@ -1,1 +1,1 @@
-var mnemonic = "derive napkin change arena wolf vocal renew merit tribe veteran creek provide";
+var mnemonic = "palace goose fantasy empower lake feel human neither artwork eight riot crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd organ pulp cotton same correct polar mass physical soft long shine";
+var mnemonic = "mix digital spin property scorpion course gold ability property hurdle screen pen";

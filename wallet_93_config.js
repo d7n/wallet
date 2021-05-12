@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur this town brother category buddy affair cycle van unfair elite milk";
+var mnemonic = "dwarf traffic resemble breeze point guitar inject only grunt mom hole anchor";

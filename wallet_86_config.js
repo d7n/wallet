@@ -1,1 +1,1 @@
-var mnemonic = "artefact again garment dismiss law clump enforce enough lab tortoise cat butter";
+var mnemonic = "sound culture ridge vintage awful dentist gown hurry tuition adapt person paper";

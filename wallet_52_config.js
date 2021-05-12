@@ -1,1 +1,1 @@
-var mnemonic = "write pill lion rug alpha stage about square arena scan kitchen egg";
+var mnemonic = "unlock lion layer disease clown jaguar spread glove relax cruise heavy bread";

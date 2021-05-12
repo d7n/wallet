@@ -1,1 +1,1 @@
-var mnemonic = "begin fiscal engage erase weekend floor pause spread crisp nurse lava float";
+var mnemonic = "essay avocado common shock audit defy supreme scale sibling left twice stand";

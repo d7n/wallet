@@ -1,1 +1,1 @@
-var mnemonic = "garment razor season hotel wait opera fat unable maximum actual assume fog";
+var mnemonic = "witness maze perfect opinion front vicious train elder culture fabric puppy soup";

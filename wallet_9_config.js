@@ -1,1 +1,1 @@
-var mnemonic = "oblige dignity curious october crouch space sight nerve nominee two midnight agent";
+var mnemonic = "snack build material spice lumber region pledge wide connect below hen spy";

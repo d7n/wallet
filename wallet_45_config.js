@@ -1,1 +1,1 @@
-var mnemonic = "horse embody fork solar journey mutual light wall palm wait prize unique";
+var mnemonic = "wise north gaze virus hospital drastic gasp outdoor panda wool cage laugh";

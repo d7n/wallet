@@ -1,1 +1,1 @@
-var mnemonic = "before three behave wealth warrior suffer helmet into crystal remove clip behave";
+var mnemonic = "script federal antenna rely session add biology denial acquire future virus marble";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient inner include slab loud hint size climb sound illegal jazz fiction";
+var mnemonic = "mixture flip banner strategy olive release clarify dawn mushroom goose bench dice";

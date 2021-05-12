@@ -1,1 +1,1 @@
-var mnemonic = "outside hint drink orbit achieve give symbol return funny early stool economy";
+var mnemonic = "junk team dilemma festival keep fatal maple avocado shadow awful simple wave";

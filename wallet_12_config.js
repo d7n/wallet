@@ -1,1 +1,1 @@
-var mnemonic = "strong desk great sight video vivid first monster enact smoke fog affair";
+var mnemonic = "economy artwork patch cannon attract then unique clock rule dog bunker drive";

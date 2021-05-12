@@ -1,1 +1,1 @@
-var mnemonic = "icon wife cat attract muscle beef route enough tuition have wet daughter";
+var mnemonic = "glory run sustain oxygen priority actual robot brush ritual oval artist crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "moral actor swing vintage sweet dynamic outdoor volume else emotion spare sun";
+var mnemonic = "network pony better unlock gospel year pride artwork quality bargain this hen";

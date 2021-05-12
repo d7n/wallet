@@ -1,1 +1,1 @@
-var mnemonic = "gesture couple again cart suspect father around someone interest tray energy tribe";
+var mnemonic = "crater dream symbol ring drip exile toward sister depth mass antique cement";

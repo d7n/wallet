@@ -1,1 +1,1 @@
-var mnemonic = "either legend point distance trip more curious more need leg name series";
+var mnemonic = "employ wrong civil joke program still anger belt help skirt scare matter";

@@ -1,1 +1,1 @@
-var mnemonic = "manual state bicycle capital abuse never cost inner badge cancel vacant later";
+var mnemonic = "net tuna rely student around logic agent crumble stone miss day grid";

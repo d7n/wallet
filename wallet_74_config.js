@@ -1,1 +1,1 @@
-var mnemonic = "oak section art wet lyrics because remind wonder chimney one blossom sunny";
+var mnemonic = "proof soldier embark minute host october room hawk dirt dad multiply wink";

@@ -1,1 +1,1 @@
-var mnemonic = "text link settle biology grit off void pond slow fruit mandate kite";
+var mnemonic = "captain pitch submit roast random hawk sell collect unhappy pioneer thrive doctor";
