@@ -1,1 +1,1 @@
-var mnemonic = "tip tongue when plastic rate pair notice sunny fury suspect follow turkey";
+var mnemonic = "crush spider problem pig giant razor theory pair cash armed curtain almost";

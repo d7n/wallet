@@ -1,1 +1,1 @@
-var mnemonic = "glow useless salute scrap abandon busy meadow angle organ empty frequent during";
+var mnemonic = "monitor brother firm pigeon cement cliff top shift start quote essence lesson";

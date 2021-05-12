@@ -1,1 +1,1 @@
-var mnemonic = "open orange bread fat quick thumb sing involve regular lounge resource robust";
+var mnemonic = "gospel digital coil bridge hello route return west advice dish usual purchase";

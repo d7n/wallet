@@ -1,1 +1,1 @@
-var mnemonic = "wave tail village ribbon pool city settle then document draw april odor";
+var mnemonic = "wedding auto blur exist runway city useful harbor arrive sword later organ";

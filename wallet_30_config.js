@@ -1,1 +1,1 @@
-var mnemonic = "cement primary alien focus forget unfair argue try pet bounce trend remain";
+var mnemonic = "author comic impose maid accuse relief guilt desk music embark cloth mouse";

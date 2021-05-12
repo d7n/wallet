@@ -1,1 +1,1 @@
-var mnemonic = "upon diet mad identify drink rabbit radar praise lottery scene knife trim";
+var mnemonic = "enrich monster dumb brisk decade protect confirm ask banana acquire boring crack";

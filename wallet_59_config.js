@@ -1,1 +1,1 @@
-var mnemonic = "baby trial leaf maze boy tribe cube adult neutral park north filter";
+var mnemonic = "parade minute torch expand fold village action tube engage bar detect loyal";

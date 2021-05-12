@@ -1,1 +1,1 @@
-var mnemonic = "source relief chest mountain until ugly fossil color useless acquire patrol because";
+var mnemonic = "enact primary analyst leisure avocado virus reflect stairs avoid planet judge hidden";

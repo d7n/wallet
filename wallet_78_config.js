@@ -1,1 +1,1 @@
-var mnemonic = "direct announce spider still barely cart ripple super uniform garlic prison copper";
+var mnemonic = "monkey twin eyebrow essay scheme initial vibrant rural lend erode income during";

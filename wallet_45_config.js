@@ -1,1 +1,1 @@
-var mnemonic = "ice lock harsh enlist split dilemma face cost cup hamster profit couple";
+var mnemonic = "volume sibling adjust script receive top pool shoulder abuse soup velvet shift";

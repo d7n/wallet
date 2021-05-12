@@ -1,1 +1,1 @@
-var mnemonic = "put danger equip this found curve vapor smoke portion obvious snake address";
+var mnemonic = "grow garage bamboo gauge gossip provide lava report soul model shuffle rare";

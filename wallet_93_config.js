@@ -1,1 +1,1 @@
-var mnemonic = "resemble demand salon lesson this code unable day surprise nerve intact reason";
+var mnemonic = "replace olympic label diet symbol credit inject trophy burden travel print stage";

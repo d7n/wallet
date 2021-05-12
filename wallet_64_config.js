@@ -1,1 +1,1 @@
-var mnemonic = "brush issue mimic reunion bunker pause marble pupil bridge lab roast lava";
+var mnemonic = "color bronze minor more print custom fringe airport stable radar prison team";

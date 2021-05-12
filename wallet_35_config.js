@@ -1,1 +1,1 @@
-var mnemonic = "inspire woman tell alcohol august base giggle camp grit excess talk oil";
+var mnemonic = "trick frequent live require remember leaf denial rate viable dwarf have discover";

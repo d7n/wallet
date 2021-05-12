@@ -1,1 +1,1 @@
-var mnemonic = "black army express buddy cheap twenty assault october circle total become stomach";
+var mnemonic = "uniform flock move regret guilt cupboard over ocean wide divide review blush";

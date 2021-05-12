@@ -1,1 +1,1 @@
-var mnemonic = "roast jewel peace hurt charge carbon alone vendor mansion sniff taste census";
+var mnemonic = "rally west robust rug public hood lunar ask kitten record deputy august";

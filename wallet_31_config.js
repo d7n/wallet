@@ -1,1 +1,1 @@
-var mnemonic = "wave glance position blur joke hen scrap general pulse giant tunnel entire";
+var mnemonic = "analyst message comic wage near board under embrace pave august beef wine";

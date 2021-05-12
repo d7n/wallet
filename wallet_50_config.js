@@ -1,1 +1,1 @@
-var mnemonic = "long useful wrist treat tuition museum nest produce pattern camera adapt wasp";
+var mnemonic = "perfect pulse trial brush flee card virus world rabbit spoon ribbon two";

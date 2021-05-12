@@ -1,1 +1,1 @@
-var mnemonic = "month wear endorse stem south boil parade lunar horse client hungry also";
+var mnemonic = "consider hungry air below clutch nut rose shallow rally glance mushroom skill";

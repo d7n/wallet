@@ -1,1 +1,1 @@
-var mnemonic = "range sign pencil project meadow mimic collect engine coil correct farm immune";
+var mnemonic = "crumble soap express enact cousin ask idle bright nest number lunch erupt";

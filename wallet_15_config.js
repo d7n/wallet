@@ -1,1 +1,1 @@
-var mnemonic = "segment topple onion yard cost subway force wrist renew silk diary else";
+var mnemonic = "sketch assume play energy never shield keen arrange wave celery certain verb";

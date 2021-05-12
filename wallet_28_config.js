@@ -1,1 +1,1 @@
-var mnemonic = "accuse various call witness valve axis cram flag roast mixture guide primary";
+var mnemonic = "later grid stool appear smooth fire material second flame route laugh sure";

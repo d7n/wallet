@@ -1,1 +1,1 @@
-var mnemonic = "immense major chef six about social reform elephant one actual metal timber";
+var mnemonic = "demise recall tomato lab rebuild denial suffer broom glow umbrella rebuild lion";

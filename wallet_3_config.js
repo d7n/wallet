@@ -1,1 +1,1 @@
-var mnemonic = "sentence board brain surprise ticket minute maze inflict animal jewel orphan protect";
+var mnemonic = "note fragile switch law arrest trophy credit sibling milk parrot fetch year";

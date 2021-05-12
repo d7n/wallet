@@ -1,1 +1,1 @@
-var mnemonic = "crane advance orchard tide transfer situate speak staff dynamic knee witness enough";
+var mnemonic = "force torch analyst sketch tragic zero coral tomorrow glow curious pitch hire";

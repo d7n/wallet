@@ -1,1 +1,1 @@
-var mnemonic = "wear vote walk person today board hybrid expect fatal battle senior universe";
+var mnemonic = "must warm year pool below intact various open labor truly board artefact";

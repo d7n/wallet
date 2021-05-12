@@ -1,1 +1,1 @@
-var mnemonic = "spend gaze year else crash erupt conduct clever march index tail invite";
+var mnemonic = "heavy reopen build brand exhaust region punch tone charge amused rib glue";

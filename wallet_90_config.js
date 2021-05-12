@@ -1,1 +1,1 @@
-var mnemonic = "candy property shock cook foam good humor quantum build pizza wild edit";
+var mnemonic = "wear aware emotion layer length acid chimney nerve jeans grant crack regular";

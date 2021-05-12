@@ -1,1 +1,1 @@
-var mnemonic = "cube satoshi benefit amateur bridge civil sniff donor vendor river notable ordinary";
+var mnemonic = "capable try immune vintage elite play company nut duck bamboo blouse monitor";

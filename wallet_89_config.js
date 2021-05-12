@@ -1,1 +1,1 @@
-var mnemonic = "guilt deny damp visa repeat spoil order eye section radar chimney garlic";
+var mnemonic = "island fruit melt excite extend property shy table pupil apology gaze common";

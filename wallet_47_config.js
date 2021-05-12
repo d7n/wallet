@@ -1,1 +1,1 @@
-var mnemonic = "guess miss flat crystal cake reject remind tourist roof calm garlic cheese";
+var mnemonic = "reform practice utility can equip exhaust corn stool genius rifle scissors sheriff";

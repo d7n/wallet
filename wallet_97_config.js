@@ -1,1 +1,1 @@
-var mnemonic = "blossom energy mechanic heart afford mammal dash wage again that tuition camera";
+var mnemonic = "reduce prison scorpion parent urban oak furnace goddess between panic you exhaust";

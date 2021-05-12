@@ -1,1 +1,1 @@
-var mnemonic = "illness turn survey artwork cover fashion legend decade kite explain cousin defense";
+var mnemonic = "until enjoy joy obtain unveil bird soft inch inspire oval noble mutual";

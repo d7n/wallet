@@ -1,1 +1,1 @@
-var mnemonic = "give chicken voice outer advice vintage gorilla broken promote ridge combine virus";
+var mnemonic = "fever letter crane inform nasty verb rifle sorry space weekend message still";

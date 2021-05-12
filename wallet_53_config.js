@@ -1,1 +1,1 @@
-var mnemonic = "rural point ticket crew stadium curve screen claw unhappy breeze mom prosper";
+var mnemonic = "surface slogan boy pass ginger pluck popular subway valid grief side grass";

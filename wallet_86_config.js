@@ -1,1 +1,1 @@
-var mnemonic = "kid tool high moral normal observe grunt door mean inside movie disease";
+var mnemonic = "upgrade hair fine company cherry old much dash lunch side cancel wasp";

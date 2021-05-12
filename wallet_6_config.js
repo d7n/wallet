@@ -1,1 +1,1 @@
-var mnemonic = "side kick copper resist cupboard client valve age omit sibling little twice";
+var mnemonic = "feed message icon auto total adapt artefact tuition yellow general fragile clog";

@@ -1,1 +1,1 @@
-var mnemonic = "magic lonely hotel metal hybrid nut same attack now income dynamic jeans";
+var mnemonic = "endless detect safe crater daughter arm ivory eternal sunny birth surface fat";

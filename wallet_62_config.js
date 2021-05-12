@@ -1,1 +1,1 @@
-var mnemonic = "rose enroll crane reunion music filter solid silk cancel garden decorate occur";
+var mnemonic = "smoke crystal garlic replace spatial early flip ozone orchard decrease slush menu";

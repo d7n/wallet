@@ -1,1 +1,1 @@
-var mnemonic = "clap toss enjoy vague hurt trumpet casino ivory trust split million zero";
+var mnemonic = "pill arena early fame avoid mimic stable mammal cigar deliver service scheme";

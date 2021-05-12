@@ -1,1 +1,1 @@
-var mnemonic = "upper claim market hip dawn shiver noise disorder alien reunion rally disorder";
+var mnemonic = "certain museum laundry flight measure add stone quit sad pair pilot switch";

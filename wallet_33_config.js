@@ -1,1 +1,1 @@
-var mnemonic = "scheme dilemma valid gain liberty include mouse desert truth cluster office april";
+var mnemonic = "shield roof canyon custom achieve immense sign deliver frost prison quantum similar";

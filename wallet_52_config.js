@@ -1,1 +1,1 @@
-var mnemonic = "crisp quantum grit color nose fame lottery hotel achieve destroy robot crime";
+var mnemonic = "observe tomato crater entry ecology rough genius celery tourist mountain fortune credit";

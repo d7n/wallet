@@ -1,1 +1,1 @@
-var mnemonic = "mixture disorder genre cereal input rare congress pioneer bleak obtain donor pear";
+var mnemonic = "canvas rigid purse inside plate win ability arch soul melt panther frame";

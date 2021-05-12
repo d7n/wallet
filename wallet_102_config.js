@@ -1,1 +1,1 @@
-var mnemonic = "payment robot sell spy eyebrow vocal clean half region shine question inside";
+var mnemonic = "toss once exile punch cave sniff mansion water sand tunnel off play";

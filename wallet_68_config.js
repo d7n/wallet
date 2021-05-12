@@ -1,1 +1,1 @@
-var mnemonic = "rather afraid custom shift ginger multiply steel cool dash diamond cry layer";
+var mnemonic = "mail about deal multiply warm balance pluck inhale goddess switch split resource";

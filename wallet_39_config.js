@@ -1,1 +1,1 @@
-var mnemonic = "minute square promote track inhale man reunion escape start urban inflict shoot";
+var mnemonic = "poem list brush embark stock neck oval paddle diet tooth room pitch";

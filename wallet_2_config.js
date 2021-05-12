@@ -1,1 +1,1 @@
-var mnemonic = "culture memory forest subject practice broom junk work staff fury cliff guard";
+var mnemonic = "wrist kiwi great later twist neglect world mobile parade ancient rely nephew";

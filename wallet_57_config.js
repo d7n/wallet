@@ -1,1 +1,1 @@
-var mnemonic = "input dinner bargain sunset topple hood basket utility long ticket member bleak";
+var mnemonic = "answer horror three puzzle elevator dog harsh physical hidden lucky resist already";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna huge water deposit core save scan violin pencil sight slam scare";
+var mnemonic = "home inch height assault lawn danger disorder prison brave into rose bring";

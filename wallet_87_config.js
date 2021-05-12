@@ -1,1 +1,1 @@
-var mnemonic = "arrest firm ridge dove people chalk coin delay return expire melody topic";
+var mnemonic = "chronic rack theory camera tobacco toddler flat quiz piano prosper gadget soda";

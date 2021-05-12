@@ -1,1 +1,1 @@
-var mnemonic = "yard country pulp double air topic build oyster enhance jacket elite echo";
+var mnemonic = "try inspire depth reason similar lumber crawl lava flat battle advice silver";

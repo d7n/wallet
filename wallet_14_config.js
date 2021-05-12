@@ -1,1 +1,1 @@
-var mnemonic = "guess prize hover catch lecture skirt rookie never gallery aware dirt abandon";
+var mnemonic = "ready square town economy chat glance theory clump improve output fox pen";

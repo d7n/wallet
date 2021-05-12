@@ -1,1 +1,1 @@
-var mnemonic = "match gasp hero better lens essence acquire theme decline gossip discover nature";
+var mnemonic = "scatter feel blast upper cat wing corn census laugh render fish carry";

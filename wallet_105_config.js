@@ -1,1 +1,1 @@
-var mnemonic = "public tourist grant middle absurd group swamp duty clerk region crater relax";
+var mnemonic = "rough favorite inmate diet patch fever slight bag ocean pilot will caution";

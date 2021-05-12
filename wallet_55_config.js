@@ -1,1 +1,1 @@
-var mnemonic = "lake term unknown hint ordinary boost monitor clinic claim puzzle clever alien";
+var mnemonic = "length marble mass eagle reunion monitor bulk shine cruise good rain pill";

@@ -1,1 +1,1 @@
-var mnemonic = "theory ranch marine fit vault order better story dentist industry evidence jealous";
+var mnemonic = "olympic address limb submit cousin illness family catch quote scissors sheriff sign";

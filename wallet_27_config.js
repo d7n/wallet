@@ -1,1 +1,1 @@
-var mnemonic = "prosper guilt person cook where brain buzz rescue decide blade source category";
+var mnemonic = "hard galaxy imitate must view federal churn embark obscure velvet citizen normal";

@@ -1,1 +1,1 @@
-var mnemonic = "degree clap album spoon tower mom retreat response unfair lens pottery adult";
+var mnemonic = "below exercise oblige crouch bulk congress air ask room fancy rate sting";

@@ -1,1 +1,1 @@
-var mnemonic = "leave napkin course habit large still winter unable miracle credit ceiling order";
+var mnemonic = "bargain element mean fun fresh purpose drop domain honey canoe soft lottery";

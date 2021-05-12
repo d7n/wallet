@@ -1,1 +1,1 @@
-var mnemonic = "notable foster much trip member foot month always ripple sadness certain great";
+var mnemonic = "cat item glass lobster addict gloom upset attitude audit adapt sister life";

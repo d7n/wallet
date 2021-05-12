@@ -1,1 +1,1 @@
-var mnemonic = "salt border robot occur knee two bird dynamic swarm asset myth flame";
+var mnemonic = "easily man vintage old occur tiny mind concert engage point camp pony";

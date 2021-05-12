@@ -1,1 +1,1 @@
-var mnemonic = "digital crack pigeon hamster stay sight below wood deputy mail metal vibrant";
+var mnemonic = "sudden top wedding include laptop festival pistol grain easily define flash wave";

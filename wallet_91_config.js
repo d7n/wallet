@@ -1,1 +1,1 @@
-var mnemonic = "force faith kid prison rack crucial champion ugly cross green define law";
+var mnemonic = "atom magnet deposit sibling busy inch gap wedding desk ready nerve elder";

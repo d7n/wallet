@@ -1,1 +1,1 @@
-var mnemonic = "match raven prosper truth enhance school stone rib siege month regret volcano";
+var mnemonic = "furnace object reward isolate fat first isolate aisle casual nerve gospel dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "shell bright start wool effort joke lion task pool pigeon core lady";
+var mnemonic = "depart same spoon until question orchard dutch assist tilt click horror north";

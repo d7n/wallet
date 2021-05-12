@@ -1,1 +1,1 @@
-var mnemonic = "sort discover quiz hybrid safe cross chef great method trust retire observe";
+var mnemonic = "three ceiling hat reward gravity clutch upon walnut point army present marriage";

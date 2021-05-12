@@ -1,1 +1,1 @@
-var mnemonic = "useless athlete monster series laptop reject spend mirror hospital dune other elevator";
+var mnemonic = "benefit rate thank language field pull add vessel kangaroo naive employ clever";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat own garden tongue boy rain have south elbow speak hip hour";
+var mnemonic = "few wave motor medal float swamp swim amazing chair dinner rule aisle";

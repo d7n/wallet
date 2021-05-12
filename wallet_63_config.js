@@ -1,1 +1,1 @@
-var mnemonic = "tortoise mobile holiday spatial garlic chicken fitness subject zoo lunch nose upgrade";
+var mnemonic = "royal treat silk never again shrimp cupboard make license roast diamond often";

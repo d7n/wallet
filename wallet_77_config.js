@@ -1,1 +1,1 @@
-var mnemonic = "run frame equal bulk rebuild bonus drink trash own high token enjoy";
+var mnemonic = "chase chase weasel enjoy fever stock cool refuse connect shield child toddler";

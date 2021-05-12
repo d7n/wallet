@@ -1,1 +1,1 @@
-var mnemonic = "ostrich party organ divert library tired subject total parrot vault calm blush";
+var mnemonic = "author wood smile champion mixture lawsuit only merge rug enforce consider arctic";

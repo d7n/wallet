@@ -1,1 +1,1 @@
-var mnemonic = "title blur list daring grace force distance artist concert gym struggle profit";
+var mnemonic = "spread super early future pride wolf clip banner hammer start window alter";

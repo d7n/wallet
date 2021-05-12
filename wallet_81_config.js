@@ -1,1 +1,1 @@
-var mnemonic = "dragon execute sell upper hard bachelor rich jealous prefer goat taxi north";
+var mnemonic = "hill increase awake dolphin fragile tackle liquid when mansion artefact comfort glory";

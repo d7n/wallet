@@ -1,1 +1,1 @@
-var mnemonic = "bacon wheel cute report attend accuse cheap nation drama insane primary vault";
+var mnemonic = "debate note orbit effort scout together casual gravity book lunch trumpet talent";

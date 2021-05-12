@@ -1,1 +1,1 @@
-var mnemonic = "wild area proof cattle lava sea over clump uncle ribbon excite picture";
+var mnemonic = "prefer sibling execute survey wish area truth expire manage ketchup hard fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "say rose pipe zebra useless liberty cannon oak arrow essay choice curve";
+var mnemonic = "memory home phrase unfair ice cancel glimpse mule hurry toy carpet route";

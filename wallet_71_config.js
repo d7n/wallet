@@ -1,1 +1,1 @@
-var mnemonic = "roof onion erupt pledge method wide jacket ring spoon language pool muffin";
+var mnemonic = "slight same cotton office miss stuff tomorrow rug erosion since blush marriage";

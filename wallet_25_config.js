@@ -1,1 +1,1 @@
-var mnemonic = "belt behave rely plunge lazy umbrella horse enrich prefer grape domain blade";
+var mnemonic = "mention come unlock regular prefer brand purchase spoon angle ugly invite excuse";

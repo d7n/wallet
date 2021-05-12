@@ -1,1 +1,1 @@
-var mnemonic = "fancy jelly opinion fabric salt limb insect time attract sword aisle margin";
+var mnemonic = "path march void young asthma arrive fossil rebel turn shy salon need";

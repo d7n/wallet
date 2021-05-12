@@ -1,1 +1,1 @@
-var mnemonic = "code pilot inflict promote corn spider spin foam thing snow female young";
+var mnemonic = "trash plunge allow kidney loop rose catch elbow cruel finish foil feel";

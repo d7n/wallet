@@ -1,1 +1,1 @@
-var mnemonic = "bulk oxygen swallow penalty cheap mimic heavy consider team sock behave toilet";
+var mnemonic = "appear tiny final brand doctor crowd ride purse pencil pistol wool shift";

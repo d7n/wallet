@@ -1,1 +1,1 @@
-var mnemonic = "indoor symbol acquire arm network busy double broken rocket rail length fringe";
+var mnemonic = "auction build fuel vintage rough stone never bronze drama useful carpet cabbage";

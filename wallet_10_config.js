@@ -1,1 +1,1 @@
-var mnemonic = "shrimp despair parent federal throw neutral renew blame skill kingdom soap insect";
+var mnemonic = "alien lonely liberty door blade update dinosaur echo link slush chest youth";

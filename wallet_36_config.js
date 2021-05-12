@@ -1,1 +1,1 @@
-var mnemonic = "rack material census rapid tower yellow festival close chest spy suggest knife";
+var mnemonic = "vanish clerk again cram west skin scene lend hen best execute swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "humble spare cave soon festival smoke lawn laundry finger near shiver stock";
+var mnemonic = "unusual today dove episode kit zoo humble afford pelican permit chuckle layer";

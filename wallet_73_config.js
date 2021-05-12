@@ -1,1 +1,1 @@
-var mnemonic = "cement small youth trip describe term monitor boss letter choose defense derive";
+var mnemonic = "now raw patrol village enlist label layer below betray sausage tool tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "swear slight asthma explain illness under raven garage guitar promote orient soon";
+var mnemonic = "such catch author hurdle leave zone wreck rib stone unfold crash length";

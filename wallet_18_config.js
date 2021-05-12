@@ -1,1 +1,1 @@
-var mnemonic = "age toast electric vital camp daring toast tube bleak soccer evolve album";
+var mnemonic = "balcony truth permit danger scale fiction spice urge axis kick clap deputy";
