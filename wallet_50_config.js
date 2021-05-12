@@ -1,1 +1,1 @@
-var mnemonic = "control cotton stock color party derive actor silver buyer draft trade gift";
+var mnemonic = "matter trigger radio tuna robot supply feel manage drift canyon lazy grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "drive average seminar scale smoke soon dry scrub essence theme drop subject";
+var mnemonic = "bamboo police holiday gravity fragile unfair young ordinary thank valve naive kit";

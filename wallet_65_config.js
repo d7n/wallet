@@ -1,1 +1,1 @@
-var mnemonic = "rude badge crop domain wealth fish climb mind into radar ozone basic";
+var mnemonic = "swallow fat label cargo flavor ship invite token enjoy color spray chest";

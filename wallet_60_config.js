@@ -1,1 +1,1 @@
-var mnemonic = "limb lizard enlist ring blue truly tree ecology drink focus source design";
+var mnemonic = "destroy table ozone lawsuit cushion lesson kid injury transfer phrase inject fantasy";

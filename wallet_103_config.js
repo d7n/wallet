@@ -1,1 +1,1 @@
-var mnemonic = "cereal caution muffin length carry flavor chest vibrant tomato gesture deal barrel";
+var mnemonic = "unable crazy describe appear output oyster glance sunny ask afraid peanut joy";

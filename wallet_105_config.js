@@ -1,1 +1,1 @@
-var mnemonic = "misery coral token second caught polar high practice into scrap arrest exotic";
+var mnemonic = "situate math prefer lift island chapter alone harvest verb resource occur throw";

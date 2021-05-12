@@ -1,1 +1,1 @@
-var mnemonic = "saddle plastic indicate fire inflict virus beef decrease dog limit rapid electric";
+var mnemonic = "paddle love spice kangaroo hen identify snack change good income prefer pledge";

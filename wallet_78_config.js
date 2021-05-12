@@ -1,1 +1,1 @@
-var mnemonic = "elegant used elephant mixture winter loyal property hurt shoe audit label cushion";
+var mnemonic = "city course ankle erode castle village cry dynamic weird firm maximum argue";

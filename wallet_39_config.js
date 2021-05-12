@@ -1,1 +1,1 @@
-var mnemonic = "unfair snack lake diary hidden motor laptop ordinary cherry puzzle various nephew";
+var mnemonic = "scare oven employ scrub shoulder retire wrestle asset jar explain awake spawn";

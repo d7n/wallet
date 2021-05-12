@@ -1,1 +1,1 @@
-var mnemonic = "sketch mango mango tenant exercise seek general mixture fancy nominee clown advance";
+var mnemonic = "crowd blame device tired napkin estate tone arrest urban proof believe amateur";

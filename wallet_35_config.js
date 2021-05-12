@@ -1,1 +1,1 @@
-var mnemonic = "galaxy fox spring aware argue angle brass divorce neck relief arrest obtain";
+var mnemonic = "west you stick edge install mimic canoe category sand wet morning oven";

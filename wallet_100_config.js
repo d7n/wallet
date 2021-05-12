@@ -1,1 +1,1 @@
-var mnemonic = "adult inch plate buzz scrub fatal child shine double galaxy curve burst";
+var mnemonic = "orbit surge genuine public whale balance bring brain hip butter ostrich match";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain demand sorry snack spring print chuckle page slot diagram legal degree";
+var mnemonic = "spice elbow maximum camp either stone danger ride visa entire quit click";

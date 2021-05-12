@@ -1,1 +1,1 @@
-var mnemonic = "elite three arch hair viable drive cat fog decline sure melt bleak";
+var mnemonic = "story buffalo relief tell panda become cattle address hockey lunch neck senior";

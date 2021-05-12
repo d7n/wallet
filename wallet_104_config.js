@@ -1,1 +1,1 @@
-var mnemonic = "valley letter write tool junk project mask siege online pole pencil comic";
+var mnemonic = "divert danger scrub dust sick addict faculty home season damp slice extend";

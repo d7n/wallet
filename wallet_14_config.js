@@ -1,1 +1,1 @@
-var mnemonic = "kingdom nasty garlic vacant vacant kite empower minor shuffle invest clay marble";
+var mnemonic = "party visual cheese jungle real nerve mother salt quote shine tiny cancel";

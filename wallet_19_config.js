@@ -1,1 +1,1 @@
-var mnemonic = "festival brave draw castle axis derive crater elite hidden fiber orient slush";
+var mnemonic = "gown panda elegant already half youth dove alone absurd arctic joke ring";

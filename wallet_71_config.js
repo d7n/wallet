@@ -1,1 +1,1 @@
-var mnemonic = "toe divorce flower october input proof able unique quick type arch good";
+var mnemonic = "push clutch enforce lab derive hidden average uncover old plunge write usual";

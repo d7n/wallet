@@ -1,1 +1,1 @@
-var mnemonic = "federal warfare badge extend soldier little virtual million dance guitar action begin";
+var mnemonic = "other riot brave mirror rent obvious change bag mixture you keep below";

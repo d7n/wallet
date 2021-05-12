@@ -1,1 +1,1 @@
-var mnemonic = "story output summer clap rail cave buddy pyramid believe subway license check";
+var mnemonic = "vocal used wet dismiss regret six marine census teach stay nephew model";

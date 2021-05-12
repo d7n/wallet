@@ -1,1 +1,1 @@
-var mnemonic = "horn voice knock swarm disorder verb bone organ black fork amateur say";
+var mnemonic = "prepare skirt throw first job envelope crush certain language snake matter uncle";

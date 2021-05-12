@@ -1,1 +1,1 @@
-var mnemonic = "relief knife bamboo swamp snake body mean idea latin depth fine save";
+var mnemonic = "tell inquiry burst symptom purchase dutch neck lumber route spot churn hill";

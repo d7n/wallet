@@ -1,1 +1,1 @@
-var mnemonic = "demand wine emotion rubber tenant stomach library west similar arena social media";
+var mnemonic = "ill upper brother sorry atom second wealth goose emerge crumble float inflict";

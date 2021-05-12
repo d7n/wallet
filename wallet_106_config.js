@@ -1,1 +1,1 @@
-var mnemonic = "liberty purity announce quote ring option junior real caution east magnet poet";
+var mnemonic = "shuffle brain steak increase glue raccoon slim finish amateur blur penalty better";

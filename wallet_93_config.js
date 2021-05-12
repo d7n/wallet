@@ -1,1 +1,1 @@
-var mnemonic = "note ranch rubber moon erase balcony taste pulse joy force office heavy";
+var mnemonic = "purchase finish obey atom random click end trend time include maple setup";

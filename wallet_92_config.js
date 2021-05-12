@@ -1,1 +1,1 @@
-var mnemonic = "enhance palm marine warrior bless giraffe test critic solar patch base abstract";
+var mnemonic = "razor spawn envelope party marriage betray leg giggle drink sail laugh medal";

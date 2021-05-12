@@ -1,1 +1,1 @@
-var mnemonic = "put post butter busy victory talent grow again course often kid govern";
+var mnemonic = "journey remind intact punch buyer seat water enable sail victory jelly rare";

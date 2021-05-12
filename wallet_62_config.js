@@ -1,1 +1,1 @@
-var mnemonic = "abandon energy wedding family hidden void version transfer inject mobile faith churn";
+var mnemonic = "bus century cruise circle favorite net skill tuna olive acquire cotton tenant";

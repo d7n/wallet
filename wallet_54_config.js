@@ -1,1 +1,1 @@
-var mnemonic = "joy adjust caught merge monitor casual tornado impulse cheap top juice food";
+var mnemonic = "clever leisure profit harvest alone credit tape cross steel team business setup";

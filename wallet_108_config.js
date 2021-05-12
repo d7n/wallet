@@ -1,1 +1,1 @@
-var mnemonic = "pupil veteran order boost wealth flush tunnel tool bacon brisk hold degree";
+var mnemonic = "motion pitch rich swallow very frame vivid decline robust capable peasant lawsuit";

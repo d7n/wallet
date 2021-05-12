@@ -1,1 +1,1 @@
-var mnemonic = "pyramid festival clap forest spoil mom alley forward push code two bike";
+var mnemonic = "science review song soon home infant decorate credit axis fame grid output";

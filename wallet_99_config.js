@@ -1,1 +1,1 @@
-var mnemonic = "cage dolphin tennis april little notable cigar simple peasant hello cycle carbon";
+var mnemonic = "tornado sleep narrow bleak whisper flee cover fiber material light hope inhale";

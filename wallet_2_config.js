@@ -1,1 +1,1 @@
-var mnemonic = "elegant volcano basic wide subject diet humble clerk tragic capable about traffic";
+var mnemonic = "motor bamboo arctic wine science rebuild boy decade pupil sick crush dignity";

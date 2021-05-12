@@ -1,1 +1,1 @@
-var mnemonic = "gate derive vault pause creek simple pilot anxiety album wagon cart soon";
+var mnemonic = "make adapt wide celery cage pistol weapon coconut job onion lizard method";

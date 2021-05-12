@@ -1,1 +1,1 @@
-var mnemonic = "day congress whale piano injury master major situate buyer tell woman art";
+var mnemonic = "spatial lawsuit abuse bench glory soccer cushion minimum ghost net into mystery";

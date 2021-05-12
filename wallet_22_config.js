@@ -1,1 +1,1 @@
-var mnemonic = "copy slender rent resist slide child obtain harbor alcohol load tennis club";
+var mnemonic = "spirit shove aisle nature inhale match unfair drastic donate session upper village";

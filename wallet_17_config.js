@@ -1,1 +1,1 @@
-var mnemonic = "motion clerk rigid area insect traffic pencil inspire inherit twin lady rain";
+var mnemonic = "pen box manual muffin wet critic gas accuse point pony hedgehog tribe";

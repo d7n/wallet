@@ -1,1 +1,1 @@
-var mnemonic = "suggest legend together outdoor inform reject fee guide cost swap cradle sweet";
+var mnemonic = "fire noble select heart travel stadium arch general wish license alien alien";

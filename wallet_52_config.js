@@ -1,1 +1,1 @@
-var mnemonic = "jungle market human bomb tourist smart remain ticket victory bridge speed series";
+var mnemonic = "place ask lyrics hope throw library uphold glue citizen illness resist shove";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom cloud inch reject hire penalty range stuff rotate black tip double";
+var mnemonic = "scatter spring basic square decline bag evolve emotion foot kitten maple talent";

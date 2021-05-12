@@ -1,1 +1,1 @@
-var mnemonic = "giant sting bundle rough engage program until breeze foil vast become clog";
+var mnemonic = "panel enable can tail edit glance answer salmon script govern lamp blossom";

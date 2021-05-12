@@ -1,1 +1,1 @@
-var mnemonic = "two inner census symbol surprise oyster sentence champion torch globe mushroom unfair";
+var mnemonic = "october index border neglect poet other output mixture second own almost wasp";

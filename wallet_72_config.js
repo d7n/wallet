@@ -1,1 +1,1 @@
-var mnemonic = "time able text into horn include gaze broom cute bottom movie swamp";
+var mnemonic = "reopen craft share file hood cupboard grant moon always emotion lawsuit home";

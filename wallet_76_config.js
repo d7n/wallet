@@ -1,1 +1,1 @@
-var mnemonic = "demise slender wealth soldier rebel genius scissors year sleep quote flame smart";
+var mnemonic = "float check loan curious pigeon later nature exit oven vacuum crop stumble";

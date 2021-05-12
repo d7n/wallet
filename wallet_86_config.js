@@ -1,1 +1,1 @@
-var mnemonic = "dove pumpkin cute swarm chimney appear drive best ski frame december once";
+var mnemonic = "around gospel wild plug duty whale success question manage mosquito shield actor";

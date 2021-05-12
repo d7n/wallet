@@ -1,1 +1,1 @@
-var mnemonic = "head excuse version main fossil attitude friend wrestle lizard wasp brick fiber";
+var mnemonic = "fee pact stick assume turn wet magnet circle fever educate squirrel history";

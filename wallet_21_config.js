@@ -1,1 +1,1 @@
-var mnemonic = "soap father slam decline focus cable nature junk fold news wedding jeans";
+var mnemonic = "cereal pitch wrap roof teach nice wrap aim length album clarify match";

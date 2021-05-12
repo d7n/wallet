@@ -1,1 +1,1 @@
-var mnemonic = "guard furnace stable camp someone thank cost hold put bullet arena gospel";
+var mnemonic = "puppy rare general honey enlist sweet rice chat flee rare armor latin";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown observe unit rural slab wonder describe blood open guitar cool board";
+var mnemonic = "obscure hand tongue pear nest melody odor mosquito kick accuse ten brief";

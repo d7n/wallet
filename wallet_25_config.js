@@ -1,1 +1,1 @@
-var mnemonic = "mystery brand flock shuffle hybrid script boost recycle faint tone purchase long";
+var mnemonic = "install bubble dry float song worry galaxy major permit cross melt moral";

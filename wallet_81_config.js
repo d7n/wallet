@@ -1,1 +1,1 @@
-var mnemonic = "host tired curve advice lucky lecture message forget yard check able special";
+var mnemonic = "seat vacant derive odor edge cross ankle mad six decide eager announce";

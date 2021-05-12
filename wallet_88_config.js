@@ -1,1 +1,1 @@
-var mnemonic = "royal pulse visa divert abandon poem excuse vast gesture nature share combine";
+var mnemonic = "clump write ghost comic uncover vote eternal kite typical source safe normal";

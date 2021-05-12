@@ -1,1 +1,1 @@
-var mnemonic = "weird unaware swift fatal device hospital same rural grow hundred all change";
+var mnemonic = "address sponsor error tired frequent pluck juice shy imitate decorate then field";

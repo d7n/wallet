@@ -1,1 +1,1 @@
-var mnemonic = "uniform together endorse bread glimpse nut device depart august grain minor piece";
+var mnemonic = "destroy awake salad limit bid derive pig abstract slim tornado honey right";

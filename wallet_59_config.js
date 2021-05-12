@@ -1,1 +1,1 @@
-var mnemonic = "annual brisk car knock hospital balance squeeze mean lift you raise pen";
+var mnemonic = "rifle barrel citizen chaos only expect organ start version bird health sleep";

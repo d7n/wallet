@@ -1,1 +1,1 @@
-var mnemonic = "roast fluid engine photo round capital law memory piece rare page candy";
+var mnemonic = "used coffee fiscal aim magnet swap social suspect session enemy spoon usual";

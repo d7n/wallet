@@ -1,1 +1,1 @@
-var mnemonic = "rival unaware cat syrup soda lava payment inject dentist now later nature";
+var mnemonic = "inform news improve divide soon donate nerve cart chimney monster noodle grain";

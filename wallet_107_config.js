@@ -1,1 +1,1 @@
-var mnemonic = "what vivid honey again primary step double fossil amateur parade cricket hello";
+var mnemonic = "venture inspire auction donkey rocket like wisdom huge wash baby valid myth";

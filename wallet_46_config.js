@@ -1,1 +1,1 @@
-var mnemonic = "oak actor weather wet album medal venture stock essence very piece feel";
+var mnemonic = "jazz spawn rough move flip decade feel kitchen split rebel ketchup glove";

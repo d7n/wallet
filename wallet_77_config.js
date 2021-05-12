@@ -1,1 +1,1 @@
-var mnemonic = "area link assume square rug flip recycle exhibit upper bonus disorder hedgehog";
+var mnemonic = "behave federal decrease plate expire ignore force ranch cycle novel anxiety inch";

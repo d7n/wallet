@@ -1,1 +1,1 @@
-var mnemonic = "rely ritual dignity yard edit scorpion city impulse debate manual case rule";
+var mnemonic = "train glimpse van fiscal person shaft much scout salute cave drastic silver";

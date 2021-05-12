@@ -1,1 +1,1 @@
-var mnemonic = "congress priority sketch more hood welcome embark shove poet culture tuna visa";
+var mnemonic = "energy wall rib plunge begin behave lunar horn harvest artist hungry source";

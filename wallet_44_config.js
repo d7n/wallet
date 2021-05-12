@@ -1,1 +1,1 @@
-var mnemonic = "lecture afford lend walnut cannon crew panther captain silly lion powder angle";
+var mnemonic = "bounce energy shell hill alcohol live until mixed little dizzy thought lab";

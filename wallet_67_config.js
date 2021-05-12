@@ -1,1 +1,1 @@
-var mnemonic = "task coconut door elite custom spin predict same evidence pet guitar sadness";
+var mnemonic = "wave close abstract grant broccoli evoke mechanic spatial case pioneer rack damp";

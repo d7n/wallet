@@ -1,1 +1,1 @@
-var mnemonic = "potato giant fortune essence luxury amateur position asset shy risk duty embrace";
+var mnemonic = "quit peasant figure faint cause unique erode project metal oven kite oval";

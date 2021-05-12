@@ -1,1 +1,1 @@
-var mnemonic = "bunker machine sudden kiwi same thought unhappy agent rural junior cargo ugly";
+var mnemonic = "sorry town glow royal carry federal village author welcome mind casino debate";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy project dentist river drink glue sheriff want adult arrest female require";
+var mnemonic = "risk pelican hedgehog super pumpkin skull throw later share balance power alcohol";

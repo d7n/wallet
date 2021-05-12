@@ -1,1 +1,1 @@
-var mnemonic = "online choose indicate pioneer absorb velvet arrive luggage supply bulb between gate";
+var mnemonic = "thunder zone report field make fuel caution mercy view traffic impulse muscle";

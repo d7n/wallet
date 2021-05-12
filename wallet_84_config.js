@@ -1,1 +1,1 @@
-var mnemonic = "allow hammer essence language furnace pull voice drill dish slam bargain win";
+var mnemonic = "leg satoshi jeans ski duty tattoo decide aim cloth loop join indoor";

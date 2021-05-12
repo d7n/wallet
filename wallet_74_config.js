@@ -1,1 +1,1 @@
-var mnemonic = "guilt card august attend heavy annual antenna live relax round answer give";
+var mnemonic = "common innocent guilt girl all now trade absurd stage lemon valve later";

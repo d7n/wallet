@@ -1,1 +1,1 @@
-var mnemonic = "guilt wise top choice payment two future priority mad topic marriage report";
+var mnemonic = "cram fruit hunt tell heart exile sail gain chair arena print fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "rice same tobacco vibrant aspect tower grief vote flat mechanic section nephew";
+var mnemonic = "arrive riot erosion collect together repair apart region hamster dash wealth fit";

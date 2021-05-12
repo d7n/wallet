@@ -1,1 +1,1 @@
-var mnemonic = "forum battle pool blade blue force oven siege day mask unlock boy";
+var mnemonic = "purchase race coyote assist drill visa matter harbor nuclear immune pelican anxiety";

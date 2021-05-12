@@ -1,1 +1,1 @@
-var mnemonic = "huge census tone buffalo text kitchen action exercise weekend biology neglect endless";
+var mnemonic = "start glad clock invite battle slow lift edge volcano twin time merit";

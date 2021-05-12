@@ -1,1 +1,1 @@
-var mnemonic = "law wedding ensure mango toy inmate smooth unknown used response tortoise sight";
+var mnemonic = "robust need cable tennis pig prefer trophy omit canal pool drop siren";

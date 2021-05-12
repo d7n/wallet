@@ -1,1 +1,1 @@
-var mnemonic = "current surface world avocado shock explain hurt breeze joy blame apart siren";
+var mnemonic = "benefit save million nephew monkey mixture appear taxi science wash appear aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown glimpse can bright occur chest card service travel main disease weasel";
+var mnemonic = "capable voice float rally cup hotel anxiety ecology brisk shed olive stairs";

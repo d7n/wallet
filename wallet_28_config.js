@@ -1,1 +1,1 @@
-var mnemonic = "tide pudding game salon message pride note diet aerobic oven gun jacket";
+var mnemonic = "spin six make monkey fetch combine swallow pizza vendor quality mosquito dish";

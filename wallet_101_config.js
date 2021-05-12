@@ -1,1 +1,1 @@
-var mnemonic = "outdoor shell make secret offer sock recall swamp maximum general churn rookie";
+var mnemonic = "across deliver admit engine idle gather around unit rude sort regret exclude";

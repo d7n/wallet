@@ -1,1 +1,1 @@
-var mnemonic = "caught matrix inquiry include nest conduct sunset gloom sign oil crush bone";
+var mnemonic = "opinion addict often boy city crew pupil ripple eye brief road brass";

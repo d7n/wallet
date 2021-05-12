@@ -1,1 +1,1 @@
-var mnemonic = "bridge dust flight doctor brave bless blade angle flee issue truck mosquito";
+var mnemonic = "peasant risk sword mistake approve napkin quality dash ramp envelope best dove";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow citizen broken increase night field motor next fat secret track burst";
+var mnemonic = "diet orchard start scale state laundry kiwi over clock tip entire crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "road regular peanut busy where river remind size lake govern royal surprise";
+var mnemonic = "blanket exchange disease cloth release alley deer rhythm raise twist hurry mule";
