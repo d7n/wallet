@@ -1,1 +1,1 @@
-var mnemonic = "mention describe cushion access negative test rose relax meat elegant toss legal";
+var mnemonic = "shaft arm old whip sing chest sword mandate heavy recipe stamp canvas";

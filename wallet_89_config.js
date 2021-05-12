@@ -1,1 +1,1 @@
-var mnemonic = "initial pupil remove peace zero reopen empower burden fabric peanut embark plate";
+var mnemonic = "battle success neutral spice merit another gain top dress announce online worry";

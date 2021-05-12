@@ -1,1 +1,1 @@
-var mnemonic = "alcohol same gloom art mask digital spirit blood place chimney remove car";
+var mnemonic = "flock oppose tape echo friend decide wagon flag pelican guilt another build";

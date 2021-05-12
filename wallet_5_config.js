@@ -1,1 +1,1 @@
-var mnemonic = "dress pattern ramp convince digital exist guard pact tumble plunge little dial";
+var mnemonic = "flame pattern throw tunnel popular wife sun work motion chicken tongue trend";

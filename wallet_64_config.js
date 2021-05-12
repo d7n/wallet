@@ -1,1 +1,1 @@
-var mnemonic = "ridge day sand gain lady word arena cram area rural wave display";
+var mnemonic = "weekend dynamic duty scrap month cushion insane adjust glide kingdom engage toddler";

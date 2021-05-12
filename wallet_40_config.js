@@ -1,1 +1,1 @@
-var mnemonic = "echo spice napkin sail film leisure endless arrange victory flavor empower bronze";
+var mnemonic = "milk license eagle ladder jealous kiss recipe dutch future glare dad rapid";

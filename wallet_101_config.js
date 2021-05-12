@@ -1,1 +1,1 @@
-var mnemonic = "derive cabin nurse hunt idle nation oven open reflect head ride high";
+var mnemonic = "usage auto cargo jungle mouse spy color cover poverty spice helmet cattle";

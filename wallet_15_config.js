@@ -1,1 +1,1 @@
-var mnemonic = "adult fall cause maze improve ghost arena debris diesel space trouble build";
+var mnemonic = "best nature calm practice toilet vital expire boy fantasy cereal monkey tribe";

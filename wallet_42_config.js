@@ -1,1 +1,1 @@
-var mnemonic = "thought verify major smart educate pause robust journey dust behind home direct";
+var mnemonic = "uniform mixed offer devote fit rebuild purse bench beef chunk group inner";

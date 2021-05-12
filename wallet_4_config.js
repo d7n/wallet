@@ -1,1 +1,1 @@
-var mnemonic = "dolphin fiction gasp quiz basket become elite blanket agree lottery better abandon";
+var mnemonic = "snake infant tilt derive weasel half opera clerk dune proud inch zone";

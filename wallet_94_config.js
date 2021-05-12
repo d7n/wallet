@@ -1,1 +1,1 @@
-var mnemonic = "gain blouse civil dumb moon fiber draw glide sort board speak gift";
+var mnemonic = "library vanish capital warfare scissors add carry dawn trumpet mistake genre relief";

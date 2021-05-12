@@ -1,1 +1,1 @@
-var mnemonic = "misery earth puppy auction siege midnight radar pizza power differ must stumble";
+var mnemonic = "card diesel spell hold topic element frequent stereo blossom rigid copper exercise";

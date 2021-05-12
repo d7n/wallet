@@ -1,1 +1,1 @@
-var mnemonic = "beauty jazz muffin avoid slice garlic midnight whip north clown jump appear";
+var mnemonic = "high banana scare hub zero this bar busy manual dragon citizen animal";

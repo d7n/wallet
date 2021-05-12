@@ -1,1 +1,1 @@
-var mnemonic = "type giraffe short drastic unique joy bread flock put volcano picnic thumb";
+var mnemonic = "apology test sure knife stadium bulb damp artwork century upon symbol afraid";

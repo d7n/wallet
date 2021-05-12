@@ -1,1 +1,1 @@
-var mnemonic = "more stadium ritual fruit innocent employ theory direct soul balcony shoe owner";
+var mnemonic = "brave music spare office wise race correct combine include fire adult barely";

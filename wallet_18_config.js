@@ -1,1 +1,1 @@
-var mnemonic = "little cousin tongue fitness depart come kitchen catch bus report expire giggle";
+var mnemonic = "health attitude water connect choice coral mandate merry gas napkin happy bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "bird cook margin apart spawn potato glass inject hazard drill legend outer";
+var mnemonic = "caught pencil annual list amount saddle anxiety sentence army topple dose have";

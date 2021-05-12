@@ -1,1 +1,1 @@
-var mnemonic = "group modify spoon original virtual unaware meadow walnut fragile sustain ignore among";
+var mnemonic = "venture goat sphere wage nothing swift tumble entry aspect find scrap popular";

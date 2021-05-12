@@ -1,1 +1,1 @@
-var mnemonic = "shift fantasy misery ski autumn remember depart oppose hill same rubber odor";
+var mnemonic = "exercise force sting pepper useless success nuclear mixed situate potato forest spring";

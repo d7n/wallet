@@ -1,1 +1,1 @@
-var mnemonic = "fruit cake noodle organ water strike use sentence tobacco hold face cake";
+var mnemonic = "couch october tragic blush supreme path hood output plug deputy control rubber";

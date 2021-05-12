@@ -1,1 +1,1 @@
-var mnemonic = "cause wonder mass robot awesome lizard rent price unique patch hobby welcome";
+var mnemonic = "surprise wasp salad pledge clap twice fluid feature affair weasel east total";

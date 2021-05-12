@@ -1,1 +1,1 @@
-var mnemonic = "harbor benefit odor category puzzle course police fit wasp stamp lizard detect";
+var mnemonic = "once gown result elephant entire portion negative burger random castle tunnel neck";

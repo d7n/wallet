@@ -1,1 +1,1 @@
-var mnemonic = "churn sphere noise identify update effort often try token nest social face";
+var mnemonic = "cruise demand match more reason bundle torch tone quantum used brick ecology";

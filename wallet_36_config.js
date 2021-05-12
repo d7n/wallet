@@ -1,1 +1,1 @@
-var mnemonic = "oblige guess economy chuckle grow gym catch flip result pool ginger where";
+var mnemonic = "very pride belt close fresh unaware famous float doctor almost wasp smile";

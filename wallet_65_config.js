@@ -1,1 +1,1 @@
-var mnemonic = "session include video since useful spike ill sweet couple armed engine vote";
+var mnemonic = "author swift humor round brief lawn pill elbow milk spoil vote park";

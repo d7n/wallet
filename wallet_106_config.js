@@ -1,1 +1,1 @@
-var mnemonic = "achieve aunt render view wood try vault glare quiz pave resemble option";
+var mnemonic = "crucial coil elephant head midnight shuffle name boss initial payment burst rescue";

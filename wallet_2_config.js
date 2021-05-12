@@ -1,1 +1,1 @@
-var mnemonic = "glory category work core science title once gift identify abandon wage lake";
+var mnemonic = "room grab recipe glad damp blast olympic give fringe puppy hair fence";

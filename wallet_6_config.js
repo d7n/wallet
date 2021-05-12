@@ -1,1 +1,1 @@
-var mnemonic = "reward tree cheap outside volcano repair false list lizard lend echo arrive";
+var mnemonic = "rain test brief chapter detail around electric rice baby jealous hello dismiss";

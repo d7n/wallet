@@ -1,1 +1,1 @@
-var mnemonic = "ill century fly net cruel clever spell chimney output parade excite cloud";
+var mnemonic = "cotton slender unfold vast hobby tomato slab jewel undo bag lady wage";

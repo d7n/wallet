@@ -1,1 +1,1 @@
-var mnemonic = "hundred parent width nerve toward install cancel mutual need parrot menu misery";
+var mnemonic = "catalog sample return little silk exotic involve echo minimum chase then draw";

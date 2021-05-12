@@ -1,1 +1,1 @@
-var mnemonic = "pistol time seminar birth story bronze evoke father resource unfair please genuine";
+var mnemonic = "smoke dust fitness essence way album permit gown vendor drill shadow oven";

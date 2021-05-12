@@ -1,1 +1,1 @@
-var mnemonic = "saddle distance million act bright catalog belt glare bicycle parrot current coin";
+var mnemonic = "key rib parade time vibrant disease very acoustic fame cart hole drive";

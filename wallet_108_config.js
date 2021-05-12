@@ -1,1 +1,1 @@
-var mnemonic = "pledge vote shrug vanish luggage initial west worry garage sudden outer foot";
+var mnemonic = "acid fuel inhale rail finger cement also earn remind public type course";

@@ -1,1 +1,1 @@
-var mnemonic = "opera museum miss notice hockey draft service marble custom detect describe zebra";
+var mnemonic = "canvas staff party foster same captain appear alarm parade shield impose agree";

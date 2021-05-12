@@ -1,1 +1,1 @@
-var mnemonic = "denial thought used lucky across term lobster cereal sauce visa supreme echo";
+var mnemonic = "radar brass wait indoor exit swamp enemy kid dismiss attend come awkward";

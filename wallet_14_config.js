@@ -1,1 +1,1 @@
-var mnemonic = "escape expand rib inform identify certain tomorrow coast credit kick upon mimic";
+var mnemonic = "repair denial term sister negative beyond weapon snake fatal enrich keen slice";

@@ -1,1 +1,1 @@
-var mnemonic = "push must select roof torch marriage box supply axis knife hope utility";
+var mnemonic = "right welcome bid clay blouse appear prepare cup brown push cinnamon practice";

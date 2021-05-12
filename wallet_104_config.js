@@ -1,1 +1,1 @@
-var mnemonic = "outdoor floor tip alley congress isolate stomach riot payment trash soup clog";
+var mnemonic = "butter upon year canyon easy disease tenant give upgrade clip shoot army";

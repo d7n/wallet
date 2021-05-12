@@ -1,1 +1,1 @@
-var mnemonic = "divide shove lab clump digital wine identify ghost moment glad grab wasp";
+var mnemonic = "oblige detect lava cart dune lecture always rough over woman retreat melody";

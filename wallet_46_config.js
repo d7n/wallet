@@ -1,1 +1,1 @@
-var mnemonic = "alone cloth omit void near fan seed mobile sunset travel genre output";
+var mnemonic = "slim leopard foil bacon club mesh brass win chuckle goddess month bid";

@@ -1,1 +1,1 @@
-var mnemonic = "final either ball margin measure apart economy hen potato girl melt feel";
+var mnemonic = "wall worry dial bus airport brief burden comic come minimum garlic clever";

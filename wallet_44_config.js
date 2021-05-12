@@ -1,1 +1,1 @@
-var mnemonic = "shell uphold rigid horn original unique dad remove castle fiscal usage alter";
+var mnemonic = "seek tray income cat vague dream grid steak effort addict express limit";

@@ -1,1 +1,1 @@
-var mnemonic = "supply vehicle common siren curtain stick require giggle genuine south panther bulb";
+var mnemonic = "carbon immune maximum float utility liquid churn clog clutch noodle twice pupil";

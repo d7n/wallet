@@ -1,1 +1,1 @@
-var mnemonic = "tunnel dust job weasel dash coach walnut ostrich neck young solid mix";
+var mnemonic = "silent empty behave mass farm found ill couple sausage wave glance alarm";

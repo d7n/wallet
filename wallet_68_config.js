@@ -1,1 +1,1 @@
-var mnemonic = "ancient palace please scare shop symptom bring behave help tenant silver scan";
+var mnemonic = "uniform typical odor physical hammer heavy winner swarm deal false future isolate";

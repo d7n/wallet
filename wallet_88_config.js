@@ -1,1 +1,1 @@
-var mnemonic = "need pottery chat cook entire brick enroll frame dice detail antenna injury";
+var mnemonic = "secret reveal angle list next cloth parrot joy industry diagram father razor";

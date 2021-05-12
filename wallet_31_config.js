@@ -1,1 +1,1 @@
-var mnemonic = "tunnel prefer harvest shoot visit silly pudding key upper coil lunar effort";
+var mnemonic = "arrest easy miracle drink deal buffalo round outer rotate income spy economy";

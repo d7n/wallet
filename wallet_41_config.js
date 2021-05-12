@@ -1,1 +1,1 @@
-var mnemonic = "awesome surround olympic tourist price isolate usage oval pill exist decade sibling";
+var mnemonic = "valid obtain evil tuition jump notable light federal thing element music fold";

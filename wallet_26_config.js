@@ -1,1 +1,1 @@
-var mnemonic = "outer found praise hold exist round once basic faith picnic frame hurry";
+var mnemonic = "sign code retreat cat silver lake potato camera expire file color receive";

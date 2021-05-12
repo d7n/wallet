@@ -1,1 +1,1 @@
-var mnemonic = "segment diesel brass seminar album correct later void ethics neck pioneer evolve";
+var mnemonic = "woman oppose buzz illness hello nature roast spatial elbow audit code attend";

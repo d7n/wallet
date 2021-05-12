@@ -1,1 +1,1 @@
-var mnemonic = "tornado bounce upset carry van hero mercy color bid liquid trick spoon";
+var mnemonic = "happy loyal notice marble tortoise stone grunt pioneer pull pistol muscle ribbon";

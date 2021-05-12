@@ -1,1 +1,1 @@
-var mnemonic = "device broken april page deal ice defense bottom mother void feed awkward";
+var mnemonic = "debris sure poet perfect sure wish unaware bulb egg ozone design chimney";

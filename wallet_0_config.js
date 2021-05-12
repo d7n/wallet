@@ -1,1 +1,1 @@
-var mnemonic = "tide aware cable language rebuild turkey dream obtain gather wheel onion dune";
+var mnemonic = "stone film drive fury blast bicycle actor blossom fiction bring clinic coin";

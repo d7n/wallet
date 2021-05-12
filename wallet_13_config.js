@@ -1,1 +1,1 @@
-var mnemonic = "venture combine ask love range usage merry sleep essence blind identify vocal";
+var mnemonic = "base impose ritual pioneer fun confirm blossom attitude follow ladder secret garment";

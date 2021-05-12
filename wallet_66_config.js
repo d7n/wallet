@@ -1,1 +1,1 @@
-var mnemonic = "cotton ocean village hover mixture toast print gorilla flash gaze parrot decade";
+var mnemonic = "fury industry corn rude obtain episode scare cinnamon pattern soccer swift blast";

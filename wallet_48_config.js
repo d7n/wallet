@@ -1,1 +1,1 @@
-var mnemonic = "submit wood glow problem resist hold prevent hub ticket mansion notable achieve";
+var mnemonic = "lawn stove note chimney repeat tenant cross steak thrive window able control";

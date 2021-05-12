@@ -1,1 +1,1 @@
-var mnemonic = "anxiety goat top cable bicycle cart alley equip wink rifle month toward";
+var mnemonic = "service pipe measure analyst expect valley quit whip employ bike bundle cause";

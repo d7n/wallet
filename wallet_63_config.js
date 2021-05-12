@@ -1,1 +1,1 @@
-var mnemonic = "elite warfare sheriff switch talk suit cage scheme bracket flee length battle";
+var mnemonic = "final churn foil spell address disease obey strategy build steak nature agree";

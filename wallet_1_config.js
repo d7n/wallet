@@ -1,1 +1,1 @@
-var mnemonic = "talent ship cruise pole verify best grid add capital nasty deposit spare";
+var mnemonic = "lecture memory join tuna glare team trial absurd cloth secret onion unable";

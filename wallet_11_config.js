@@ -1,1 +1,1 @@
-var mnemonic = "live kiss process avocado salute goat chest camp key today hungry admit";
+var mnemonic = "umbrella help gesture before corn border ask tattoo practice fork nerve release";

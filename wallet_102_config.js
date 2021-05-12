@@ -1,1 +1,1 @@
-var mnemonic = "output shine file bike ring satisfy paddle elite donate refuse shuffle grid";
+var mnemonic = "surround mixture bring slim pepper squeeze teach narrow armed creek about side";

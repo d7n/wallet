@@ -1,1 +1,1 @@
-var mnemonic = "oven certain syrup hood fluid display peace blind burst scale retire talk";
+var mnemonic = "genre museum expand frequent taste alley cook carry shrimp record agree beef";

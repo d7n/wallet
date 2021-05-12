@@ -1,1 +1,1 @@
-var mnemonic = "hill minor brass buddy trial bright expect tragic tragic bar unusual apple";
+var mnemonic = "minimum fashion acquire bundle rebuild culture school high surprise rail moon gasp";

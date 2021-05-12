@@ -1,1 +1,1 @@
-var mnemonic = "ignore ignore keep save mechanic cancel update tribe image rude half east";
+var mnemonic = "shrug shuffle nephew regular deliver jelly pony jungle wrap daughter glare enforce";

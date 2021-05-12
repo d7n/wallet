@@ -1,1 +1,1 @@
-var mnemonic = "property eight bean wasp bread model wonder eager team unaware front noise";
+var mnemonic = "visit amazing cross tiny bag gadget belt gown sentence shift civil lunch";

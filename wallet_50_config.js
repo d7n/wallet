@@ -1,1 +1,1 @@
-var mnemonic = "stuff boy rifle volume castle screen scissors funny margin school opera garbage";
+var mnemonic = "acid assist jeans jelly pistol jacket squirrel guitar cement project trophy gesture";

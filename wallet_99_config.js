@@ -1,1 +1,1 @@
-var mnemonic = "bounce never radio diary wagon water where normal candy conduct skate regular";
+var mnemonic = "like album horse decline attract knee dish park reason joy advance sponsor";

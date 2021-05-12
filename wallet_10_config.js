@@ -1,1 +1,1 @@
-var mnemonic = "genius forget capital salad celery subject nut afraid online mobile ugly claw";
+var mnemonic = "remove square donate next stamp trial return stem margin open yellow breeze";

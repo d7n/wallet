@@ -1,1 +1,1 @@
-var mnemonic = "cart cake limit chat diary diesel draft blood excess churn height yellow";
+var mnemonic = "vanish pudding paper shuffle ethics place satoshi soap abstract budget main fatal";

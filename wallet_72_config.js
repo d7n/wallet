@@ -1,1 +1,1 @@
-var mnemonic = "robot castle paddle circle seven second earth ridge mind industry suit nice";
+var mnemonic = "legal kitten frost differ rice hold toss verb bind paper unit scorpion";

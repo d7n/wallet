@@ -1,1 +1,1 @@
-var mnemonic = "regret universe trial flush wage ostrich brush canoe fruit measure broken basic";
+var mnemonic = "bless unusual swap sell tenant east manage captain destroy cave enrich swing";

@@ -1,1 +1,1 @@
-var mnemonic = "note attract purpose exhaust together ensure little coach skill risk clerk globe";
+var mnemonic = "first pencil judge lens expand attack change eager urge wage practice lonely";

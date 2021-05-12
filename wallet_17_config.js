@@ -1,1 +1,1 @@
-var mnemonic = "novel potato relax swallow rookie daughter zebra slot hold brother circle bundle";
+var mnemonic = "audit special gain glory pause electric patch stairs acoustic harbor butter depart";

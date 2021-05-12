@@ -1,1 +1,1 @@
-var mnemonic = "cloud now finish pyramid wife eagle mention want accident plastic diet recycle";
+var mnemonic = "doll royal trap cactus city shoulder setup slim purpose fever diet carry";

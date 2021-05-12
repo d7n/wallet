@@ -1,1 +1,1 @@
-var mnemonic = "private mistake noodle burden very margin feed father horror album move swear";
+var mnemonic = "pear usage oxygen law match fix right yellow also arm crowd move";

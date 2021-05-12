@@ -1,1 +1,1 @@
-var mnemonic = "tonight crawl cave nature ozone express wheat spoon antique more script deer";
+var mnemonic = "option hurt error fever enforce hero outside scorpion library hollow patch pact";

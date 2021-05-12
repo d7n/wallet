@@ -1,1 +1,1 @@
-var mnemonic = "skill amused duck primary cake kiwi antique head monitor fortune any transfer";
+var mnemonic = "taste industry sugar slim shed tree car spray spread ivory club cinnamon";

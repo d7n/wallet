@@ -1,1 +1,1 @@
-var mnemonic = "spray surface zoo wonder earth diagram shell sound fish prefer sentence method";
+var mnemonic = "drastic cruel shaft execute visit urge august trap diagram give marriage turtle";

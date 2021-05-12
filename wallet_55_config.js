@@ -1,1 +1,1 @@
-var mnemonic = "slogan odor limit brown card panel lonely vague trigger vehicle auction beach";
+var mnemonic = "catalog yard lunch lab mammal same camera retreat biology crunch erase ill";

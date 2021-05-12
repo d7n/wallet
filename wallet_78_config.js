@@ -1,1 +1,1 @@
-var mnemonic = "increase toe young love apology mom calm scan rocket use october pepper";
+var mnemonic = "cement wealth raise exact width chat keen rain erode saddle ginger raven";

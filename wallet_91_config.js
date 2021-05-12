@@ -1,1 +1,1 @@
-var mnemonic = "virtual already public trumpet push hover tackle edit tent believe ecology right";
+var mnemonic = "small stage labor mixture shrug give grape happy turtle cover share story";

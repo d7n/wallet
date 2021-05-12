@@ -1,1 +1,1 @@
-var mnemonic = "foot welcome cherry dinosaur parent trap inquiry narrow account treat hungry crane";
+var mnemonic = "gorilla engine ship return same cage leaf blouse vehicle until damp run";

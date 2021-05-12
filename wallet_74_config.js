@@ -1,1 +1,1 @@
-var mnemonic = "shield radar what loyal noise program click smoke click guide vacant enhance";
+var mnemonic = "more duck buddy budget layer shield bread issue stock celery large wealth";

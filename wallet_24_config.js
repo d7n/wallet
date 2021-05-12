@@ -1,1 +1,1 @@
-var mnemonic = "memory animal differ exotic road cube river fame between response panther staff";
+var mnemonic = "woman right grape spot jazz truly check food lend grid weapon video";

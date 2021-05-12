@@ -1,1 +1,1 @@
-var mnemonic = "odor common other prison cheese payment capable tank ethics inside secret polar";
+var mnemonic = "wasp favorite switch quality firm blanket peanut issue service smile truly little";

@@ -1,1 +1,1 @@
-var mnemonic = "energy unknown receive series when hint visual prosper unusual lonely benefit cross";
+var mnemonic = "hip strike gown make stuff magnet turn keep chimney renew wisdom health";

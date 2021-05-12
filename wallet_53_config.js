@@ -1,1 +1,1 @@
-var mnemonic = "leisure deal nerve news flash laptop achieve rebel iron visit code appear";
+var mnemonic = "monster only flash normal calm leader quiz height civil coin dolphin design";

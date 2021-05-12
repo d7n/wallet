@@ -1,1 +1,1 @@
-var mnemonic = "fence river ceiling fashion meadow chicken brave fringe episode bronze resource pony";
+var mnemonic = "fitness circle welcome rule ketchup wave galaxy paper dream elder riot zebra";

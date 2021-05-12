@@ -1,1 +1,1 @@
-var mnemonic = "speed oval time normal rain horror soccer bronze include end corn attack";
+var mnemonic = "access legal frozen allow match lecture gasp mean cart carbon yard tower";

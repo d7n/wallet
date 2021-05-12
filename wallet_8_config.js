@@ -1,1 +1,1 @@
-var mnemonic = "usage repeat tongue layer youth era cause flip flavor later depend melt";
+var mnemonic = "produce essence unfair antenna wage have dress bronze vault intact one common";

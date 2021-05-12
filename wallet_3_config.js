@@ -1,1 +1,1 @@
-var mnemonic = "worry little notice clutch huge siren rival elevator quiz hobby fun manage";
+var mnemonic = "asthma viable liar tell occur peasant spend citizen about alarm siren crush";
