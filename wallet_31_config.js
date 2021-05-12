@@ -1,1 +1,1 @@
-var mnemonic = "shadow initial nature finish spoil perfect rule ranch woman harvest acoustic aspect";
+var mnemonic = "above aim twin anchor jeans prevent grief series equip wide above column";

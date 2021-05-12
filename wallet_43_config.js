@@ -1,1 +1,1 @@
-var mnemonic = "great nasty noise tower bulk middle color junior canvas risk moon success";
+var mnemonic = "cargo success autumn exhibit knife engine erosion priority sell stick word lobster";

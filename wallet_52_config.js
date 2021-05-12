@@ -1,1 +1,1 @@
-var mnemonic = "sail typical mind alien chase work vivid arena insane cushion dinosaur bus";
+var mnemonic = "luxury vital mix capital design fetch transfer permit lucky excite regular matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "source sample rifle inhale december cattle buyer pink donkey defy stick bring";
+var mnemonic = "buyer envelope ski marble thunder love minor wrap room voyage squeeze clever";

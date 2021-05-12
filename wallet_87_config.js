@@ -1,1 +1,1 @@
-var mnemonic = "balcony vocal hint page buffalo boil young furnace situate protect cross lunar";
+var mnemonic = "knee poverty foam carbon century order review desert mammal boy rabbit flock";

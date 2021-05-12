@@ -1,1 +1,1 @@
-var mnemonic = "blast piece upper note demise build top oyster shock boss razor slab";
+var mnemonic = "visa depart audit resource protect pear appear ceiling mansion grit fabric wedding";

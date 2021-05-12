@@ -1,1 +1,1 @@
-var mnemonic = "believe silent random romance response popular grocery where general math oil burden";
+var mnemonic = "bunker hen mobile alpha blush coffee push sauce rigid inner similar seat";

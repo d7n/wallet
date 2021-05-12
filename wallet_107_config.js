@@ -1,1 +1,1 @@
-var mnemonic = "chronic net toddler write stay follow parrot armed depart kid eight exist";
+var mnemonic = "wink advice gauge abandon enrich affair bracket easy sorry buddy key meadow";

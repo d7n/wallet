@@ -1,1 +1,1 @@
-var mnemonic = "around fitness blood enforce belt ignore million dignity connect digital master pumpkin";
+var mnemonic = "color toddler vintage bridge spring snake believe column ribbon frame fruit trip";

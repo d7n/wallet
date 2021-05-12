@@ -1,1 +1,1 @@
-var mnemonic = "into female screen vapor noble design rug erosion field twice tired nothing";
+var mnemonic = "help demand remember ancient garden despair you assume bounce symbol dwarf fan";

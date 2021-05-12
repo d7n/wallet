@@ -1,1 +1,1 @@
-var mnemonic = "spray van yellow shell scatter moment never pipe salon crush pioneer quarter";
+var mnemonic = "unusual curtain crop sugar barrel rifle legend wet bright way electric purpose";

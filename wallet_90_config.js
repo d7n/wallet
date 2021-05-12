@@ -1,1 +1,1 @@
-var mnemonic = "multiply height simple tray involve flat kind boost shrimp claim minute under";
+var mnemonic = "act better reunion inhale remove parade welcome soul knee swim leopard reflect";

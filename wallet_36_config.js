@@ -1,1 +1,1 @@
-var mnemonic = "involve episode candy able stable safe order hood amused rotate around oval";
+var mnemonic = "real attend hill juice west bullet alert this stairs monkey resist fruit";

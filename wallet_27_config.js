@@ -1,1 +1,1 @@
-var mnemonic = "lounge butter bar series toss burden describe silly squirrel water will above";
+var mnemonic = "project island aware erode van woman eager term roast jaguar bonus faith";

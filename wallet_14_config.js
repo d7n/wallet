@@ -1,1 +1,1 @@
-var mnemonic = "present fabric wheel wear pelican rebuild mean theory push destroy dad fox";
+var mnemonic = "frown split enable season judge quality gold wild gun wise yellow urban";

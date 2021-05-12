@@ -1,1 +1,1 @@
-var mnemonic = "emotion castle rhythm pink live vibrant budget fetch slow deliver unique whale";
+var mnemonic = "yard crystal feed mother gold globe armed mansion crunch nephew pioneer cage";

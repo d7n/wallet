@@ -1,1 +1,1 @@
-var mnemonic = "detect hazard always sudden jelly long day angle resource equip lunch jaguar";
+var mnemonic = "boring grocery fine hair better runway once joy sheriff canyon faith bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke clever skin keep split describe oyster multiply ticket seed oak rally";
+var mnemonic = "hazard tobacco ostrich near phrase proof enemy copy margin caution tell kingdom";

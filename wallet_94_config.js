@@ -1,1 +1,1 @@
-var mnemonic = "march jaguar fruit dress fade asset truck fit tank genius banana kite";
+var mnemonic = "yard spike purse shiver cute south broccoli claim robot rally father scorpion";

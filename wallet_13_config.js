@@ -1,1 +1,1 @@
-var mnemonic = "initial employ impose hedgehog october student faint next actress approve program small";
+var mnemonic = "bubble road future region catch food debate question diet fine need orphan";

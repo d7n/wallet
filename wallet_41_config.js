@@ -1,1 +1,1 @@
-var mnemonic = "execute gospel side wool shrimp stairs piece fever test candy wood little";
+var mnemonic = "enjoy unique garden private fever find blur worth theory impose letter rain";

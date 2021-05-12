@@ -1,1 +1,1 @@
-var mnemonic = "match kind method light mammal ugly invest lemon like vicious oppose flat";
+var mnemonic = "item steak reunion dynamic human material lawsuit connect quality melody pass lecture";

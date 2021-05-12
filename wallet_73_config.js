@@ -1,1 +1,1 @@
-var mnemonic = "switch change gesture logic column fever usual cupboard they desk chief auction";
+var mnemonic = "shove kitchen wedding text defy tuna order midnight weapon toddler seven upgrade";

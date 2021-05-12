@@ -1,1 +1,1 @@
-var mnemonic = "mushroom marble blush torch tribe size voice soul diamond evoke palm year";
+var mnemonic = "urge candy soccer symptom december episode kiss grief usual skirt unfair morning";

@@ -1,1 +1,1 @@
-var mnemonic = "name paper loud pitch thumb abstract unfair news amused defense violin health";
+var mnemonic = "social duck food car skull normal foster color brain butter aunt royal";

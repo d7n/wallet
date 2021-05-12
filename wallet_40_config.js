@@ -1,1 +1,1 @@
-var mnemonic = "cave twin fine fever pepper rose ill minor switch earn enroll speak";
+var mnemonic = "lucky firm salute feature science shed fix obtain topic mushroom raw aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "bench equip black veteran grocery guide rather stone engine assist social wise";
+var mnemonic = "youth uncle funny strategy fun happy liar subject benefit weapon similar winter";

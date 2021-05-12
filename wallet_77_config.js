@@ -1,1 +1,1 @@
-var mnemonic = "drop animal champion side gasp real main maximum drill identify outer bacon";
+var mnemonic = "wool coconut pattern thought giggle muffin boil misery awesome still nominee fee";

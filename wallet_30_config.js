@@ -1,1 +1,1 @@
-var mnemonic = "owner glory inspire grief dwarf nerve faculty solar receive prosper powder wreck";
+var mnemonic = "alien draft trade obvious genuine sing coast transfer wheat icon outer attitude";

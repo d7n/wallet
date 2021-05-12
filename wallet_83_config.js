@@ -1,1 +1,1 @@
-var mnemonic = "above peasant excess protect hard churn such meat rebuild slow nephew what";
+var mnemonic = "coyote despair cattle crush afraid tomato nephew topple motor father mule grab";

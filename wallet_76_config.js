@@ -1,1 +1,1 @@
-var mnemonic = "liar chicken frozen random dignity unit click sword jeans unaware movie empty";
+var mnemonic = "erode document mention arm scissors govern across print brick shiver oxygen domain";

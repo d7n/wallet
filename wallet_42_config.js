@@ -1,1 +1,1 @@
-var mnemonic = "erase skull spare hole expect abuse huge legal move civil brown test";
+var mnemonic = "zero special burden main shield mass woman mean arch exact original multiply";

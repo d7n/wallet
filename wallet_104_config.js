@@ -1,1 +1,1 @@
-var mnemonic = "duck suit ring legend proof type matrix mystery hospital save entire attend";
+var mnemonic = "awake shock wage cycle umbrella enforce coffee review such domain spend umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "spread risk punch model neck squeeze call worth pledge parrot ivory brother";
+var mnemonic = "ten airport often pony earn entry actress field bone film actor spare";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty brisk glow general denial gift minimum verify thunder crumble rural miss";
+var mnemonic = "frost such view unit dust deal express clerk pyramid olympic industry fever";

@@ -1,1 +1,1 @@
-var mnemonic = "angle light involve escape cactus drop shiver beauty stumble palm maze average";
+var mnemonic = "trumpet dizzy drama august spawn army draw alpha diamond arrange example plunge";

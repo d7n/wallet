@@ -1,1 +1,1 @@
-var mnemonic = "city donate bitter below reduce clutch quote network bike gallery extra purity";
+var mnemonic = "word swap pitch unveil remember panic text matrix isolate engine asset innocent";

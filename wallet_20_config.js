@@ -1,1 +1,1 @@
-var mnemonic = "prosper credit boring flight perfect runway town into bread learn cancel subject";
+var mnemonic = "oval burst party actual run icon okay nothing rocket sustain mushroom taxi";

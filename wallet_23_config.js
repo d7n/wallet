@@ -1,1 +1,1 @@
-var mnemonic = "only desk various stick negative urge avoid thank foster fence thank audit";
+var mnemonic = "minute analyst smooth will anxiety choice core confirm feature remain either soul";

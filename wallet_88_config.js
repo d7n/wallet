@@ -1,1 +1,1 @@
-var mnemonic = "immune sponsor antenna renew blue upgrade result slot excuse play ice satoshi";
+var mnemonic = "child prison immune pretty reform reform cycle girl lounge labor gas dune";

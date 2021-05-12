@@ -1,1 +1,1 @@
-var mnemonic = "blur know badge rack smile bullet better never refuse grass guard mesh";
+var mnemonic = "concert inherit skull snake point outer news decrease lawsuit chalk company attitude";

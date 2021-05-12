@@ -1,1 +1,1 @@
-var mnemonic = "fame harsh utility april ladder essence oval crumble solar net distance layer";
+var mnemonic = "blood poem reveal focus penalty over soccer define view congress enrich color";

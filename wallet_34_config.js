@@ -1,1 +1,1 @@
-var mnemonic = "pottery vast damage gallery endless galaxy insane come parade action appear pencil";
+var mnemonic = "choose talent divorce repair increase dutch brass about depend cotton spread hello";

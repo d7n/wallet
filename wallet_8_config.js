@@ -1,1 +1,1 @@
-var mnemonic = "odor parade child helmet chimney hard discover key rapid bargain permit behind";
+var mnemonic = "when park romance chief inflict trust senior park remind drill prefer bar";

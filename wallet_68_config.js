@@ -1,1 +1,1 @@
-var mnemonic = "flag exhaust speed build suffer milk over river jacket bicycle gesture program";
+var mnemonic = "follow ozone castle across negative park scorpion truly fat subway wagon easy";

@@ -1,1 +1,1 @@
-var mnemonic = "sister glass recall eager summer loop minor boring knife protect sting magnet";
+var mnemonic = "cup become click throw acid fluid decade wool struggle life agree allow";

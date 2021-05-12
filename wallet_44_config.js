@@ -1,1 +1,1 @@
-var mnemonic = "sausage such material cupboard sea luxury attitude pact swear pencil army explain";
+var mnemonic = "village answer deliver stand recycle elder decline final promote measure also flame";

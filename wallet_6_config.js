@@ -1,1 +1,1 @@
-var mnemonic = "lounge agent supreme pumpkin witness abuse smart vital crack employ lumber love";
+var mnemonic = "secret dune swing destroy season health token design then barely novel shy";

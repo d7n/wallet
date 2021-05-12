@@ -1,1 +1,1 @@
-var mnemonic = "artist air buffalo walnut shuffle pink desert holiday drama width price utility";
+var mnemonic = "hire sail spike okay sample income genius cage fossil trouble gather ensure";

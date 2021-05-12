@@ -1,1 +1,1 @@
-var mnemonic = "erode review noodle awkward olive join short ready nurse wood layer bottom";
+var mnemonic = "myself garden fame crop link blouse dumb hero matter caught olympic invest";

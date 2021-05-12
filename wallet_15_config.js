@@ -1,1 +1,1 @@
-var mnemonic = "million envelope brave faint craft drop woman deer captain alone nasty choose";
+var mnemonic = "local pond truck average relief debris major list puzzle enemy supply need";

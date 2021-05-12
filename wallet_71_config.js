@@ -1,1 +1,1 @@
-var mnemonic = "stone model slice pool clump auction recall language army aim crystal motion";
+var mnemonic = "drum hidden agent south famous skate pulse salt shy interest easily thunder";

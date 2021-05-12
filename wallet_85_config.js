@@ -1,1 +1,1 @@
-var mnemonic = "dash absorb genius smile ecology inmate seed load before captain thumb exclude";
+var mnemonic = "attract banner scout senior caution wrist black deposit under year old laundry";

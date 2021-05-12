@@ -1,1 +1,1 @@
-var mnemonic = "permit release spray pave nut finish crater crumble spend innocent dizzy worth";
+var mnemonic = "wife around normal chalk stool pilot predict wide educate scare gossip rebel";

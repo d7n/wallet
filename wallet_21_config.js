@@ -1,1 +1,1 @@
-var mnemonic = "portion dynamic search creek rent wealth force pear caught spatial stomach hammer";
+var mnemonic = "foster neck spare demise drive ginger decline region candy then much giant";

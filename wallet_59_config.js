@@ -1,1 +1,1 @@
-var mnemonic = "option diary spice obey push awful pitch coyote kit return fresh sketch";
+var mnemonic = "fragile scare fish disease luggage buzz fold wire genre key follow balcony";

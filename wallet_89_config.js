@@ -1,1 +1,1 @@
-var mnemonic = "law pair omit fog alone capital glide sleep veteran jealous wife cream";
+var mnemonic = "wood devote pool element fault pioneer edit wish inner other identify squeeze";

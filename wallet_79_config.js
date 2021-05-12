@@ -1,1 +1,1 @@
-var mnemonic = "siege trophy lamp purse match penalty lock blur sing wagon hard noodle";
+var mnemonic = "inmate owner pistol topple trash cook excuse mosquito spot metal nothing purchase";

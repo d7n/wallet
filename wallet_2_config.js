@@ -1,1 +1,1 @@
-var mnemonic = "scrub common sustain gold miracle wife over balcony sugar test plunge expire";
+var mnemonic = "crane aerobic dial canoe birth easily caught glove decide essence foam wagon";

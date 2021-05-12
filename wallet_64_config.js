@@ -1,1 +1,1 @@
-var mnemonic = "comfort enact sun speed maple kiss type prize outdoor code teach cram";
+var mnemonic = "inject special travel tube unable prison mix taxi text draft clump oval";

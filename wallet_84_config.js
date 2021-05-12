@@ -1,1 +1,1 @@
-var mnemonic = "velvet about fork cherry zoo cool gorilla feel inquiry airport volcano youth";
+var mnemonic = "hood height unveil depth whip polar glance burden wood across pistol twin";

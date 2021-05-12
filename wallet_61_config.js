@@ -1,1 +1,1 @@
-var mnemonic = "receive pyramid together nasty fluid open minor measure frost caught diary general";
+var mnemonic = "beach afford glad rifle layer achieve purity black require radar orient example";

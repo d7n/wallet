@@ -1,1 +1,1 @@
-var mnemonic = "era child click wing beauty reopen rebel aunt level exile surface bitter";
+var mnemonic = "shrimp desk live limb lunar nation unknown coach bright depend artist found";

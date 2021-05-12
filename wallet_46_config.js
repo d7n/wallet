@@ -1,1 +1,1 @@
-var mnemonic = "burst unable miracle license pizza remind december mammal manual forum excess drill";
+var mnemonic = "prison trophy sport blur spare slow ring scare bus lecture danger creek";

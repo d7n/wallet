@@ -1,1 +1,1 @@
-var mnemonic = "time mask security good daughter evil away left grape there limb order";
+var mnemonic = "powder helmet jeans hard wait unknown filter cruel celery place equal melody";

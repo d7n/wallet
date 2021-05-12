@@ -1,1 +1,1 @@
-var mnemonic = "breeze vague economy trumpet allow sail involve okay hundred guitar rapid solid";
+var mnemonic = "enemy burden wool pitch general around deposit swap fix banner maple eager";

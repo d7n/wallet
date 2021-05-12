@@ -1,1 +1,1 @@
-var mnemonic = "equip tornado awkward soap smile dignity sketch chest escape artist produce forward";
+var mnemonic = "crash release goose knock near weird topic essay genius steak gospel verb";

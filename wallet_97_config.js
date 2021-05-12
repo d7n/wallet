@@ -1,1 +1,1 @@
-var mnemonic = "fragile jaguar soda fine chuckle pluck board what urge credit route near";
+var mnemonic = "lab grape enact park napkin crash boy tape tongue lawn initial palace";

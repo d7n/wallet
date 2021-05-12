@@ -1,1 +1,1 @@
-var mnemonic = "immense skull over tank flag mother width robust bag dirt cheese cross";
+var mnemonic = "solid volume survey luggage zoo paddle impulse offer atom unable derive ozone";

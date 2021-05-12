@@ -1,1 +1,1 @@
-var mnemonic = "avocado fence basket cry tip collect tilt narrow suit rack hurdle question";
+var mnemonic = "quantum sheriff agent produce kit squeeze sausage crystal analyst object quote mouse";

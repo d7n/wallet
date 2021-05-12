@@ -1,1 +1,1 @@
-var mnemonic = "save isolate carpet change people trouble liberty labor fitness decrease follow stove";
+var mnemonic = "foster guard cement donkey onion remain dune rug party where quantum excess";

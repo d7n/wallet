@@ -1,1 +1,1 @@
-var mnemonic = "various library direct problem million fragile pet fresh antenna shrug leisure blur";
+var mnemonic = "west zebra carpet smile thunder dad draft toilet expand essay deliver any";

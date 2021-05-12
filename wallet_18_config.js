@@ -1,1 +1,1 @@
-var mnemonic = "gossip surround suit disagree milk train harsh degree twice helmet run scrap";
+var mnemonic = "corn behind fix gloom angle chair table disagree flat tail gasp trick";

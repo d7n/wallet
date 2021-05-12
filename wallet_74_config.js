@@ -1,1 +1,1 @@
-var mnemonic = "fault weather pigeon drop defy mean sample vintage pyramid cotton very heavy";
+var mnemonic = "anxiety knee tunnel gallery advance depth entry bleak tray draft police shiver";

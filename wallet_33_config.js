@@ -1,1 +1,1 @@
-var mnemonic = "couch annual consider actor antenna awkward tonight seed timber help moment famous";
+var mnemonic = "pear team cover situate clock meat sister practice narrow glue denial weasel";

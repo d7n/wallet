@@ -1,1 +1,1 @@
-var mnemonic = "kitten total misery hurt reason toast silk merge soda october forget erase";
+var mnemonic = "ripple muscle mention expand such safe play indicate sponsor park barely jewel";

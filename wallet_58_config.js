@@ -1,1 +1,1 @@
-var mnemonic = "hamster primary sight worry minimum country prefer because force found cruel snake";
+var mnemonic = "race goat tuition negative letter leg mix stem inflict scatter message emerge";

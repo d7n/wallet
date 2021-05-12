@@ -1,1 +1,1 @@
-var mnemonic = "cute excess ostrich nuclear net express this ramp rural custom require receive";
+var mnemonic = "nasty champion when visual identify dinosaur credit nest fame afraid slogan annual";

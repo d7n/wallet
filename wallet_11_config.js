@@ -1,1 +1,1 @@
-var mnemonic = "cover transfer museum spot feature master spatial garage blanket antenna coin oven";
+var mnemonic = "only border sleep wire honey text minute pony regret radio token enable";

@@ -1,1 +1,1 @@
-var mnemonic = "unique mesh side shallow birth link ugly fun clinic grow height equip";
+var mnemonic = "toward corn patient oxygen relief tonight novel feel forward dog about nerve";

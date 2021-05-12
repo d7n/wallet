@@ -1,1 +1,1 @@
-var mnemonic = "primary subject cargo extend cave course today extra tissue region sign alter";
+var mnemonic = "tattoo doll ginger coast hollow slight panda leave section deer salute two";

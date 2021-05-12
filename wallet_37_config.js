@@ -1,1 +1,1 @@
-var mnemonic = "tennis case faint file limb olympic alpha crystal ginger pair leader vacuum";
+var mnemonic = "execute festival sweet forum dance science famous hold hole before select artwork";

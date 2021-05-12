@@ -1,1 +1,1 @@
-var mnemonic = "awful calm release duty vicious donor tip gesture action pill slot notice";
+var mnemonic = "rate mansion best detect broccoli saddle that animal tired awesome stable heavy";

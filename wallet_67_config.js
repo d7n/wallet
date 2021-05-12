@@ -1,1 +1,1 @@
-var mnemonic = "globe solve arm veteran right average electric reform divert crumble fluid organ";
+var mnemonic = "juice warm hurt width sure please vote drastic elephant tape cave spot";

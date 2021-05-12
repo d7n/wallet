@@ -1,1 +1,1 @@
-var mnemonic = "sunset word medal cricket whale because cliff space indicate example hurdle become";
+var mnemonic = "join slender behave general human plate robust patient walnut good any arrow";

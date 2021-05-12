@@ -1,1 +1,1 @@
-var mnemonic = "away plunge skin morning old robot injury opinion black blush exit early";
+var mnemonic = "giraffe cousin theme oven cheap view kidney keen february firm load duck";

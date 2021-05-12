@@ -1,1 +1,1 @@
-var mnemonic = "luggage symbol field hat bonus friend kite emotion rent buddy hidden story";
+var mnemonic = "debate fortune grab chronic fiction series educate obtain water truth candy robust";

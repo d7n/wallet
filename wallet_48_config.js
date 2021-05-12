@@ -1,1 +1,1 @@
-var mnemonic = "chair act misery wife marriage amazing zebra grit vast scout leader buyer";
+var mnemonic = "cat perfect fly invest sudden protect sample prevent avocado dad prosper foster";

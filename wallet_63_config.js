@@ -1,1 +1,1 @@
-var mnemonic = "bitter brand cook bleak tail outside loyal night risk mixture face flag";
+var mnemonic = "joke visual clean flower input holiday relief panda region author inquiry brand";

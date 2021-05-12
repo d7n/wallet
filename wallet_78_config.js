@@ -1,1 +1,1 @@
-var mnemonic = "media ginger knock market accident left life fire quiz laundry explain gasp";
+var mnemonic = "connect tuna pear volume bomb swarm ahead edge weasel merry tourist vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha eager again dune print weekend degree silly private genuine raise bargain";
+var mnemonic = "office team foam dice social ketchup salt original skull popular text hole";

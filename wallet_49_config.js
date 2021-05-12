@@ -1,1 +1,1 @@
-var mnemonic = "sad rival venue indicate athlete online eye six this sheriff speak message";
+var mnemonic = "unaware donkey make team leader rice bread relief slush business depart sheriff";
