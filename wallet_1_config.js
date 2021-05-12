@@ -1,1 +1,1 @@
-var mnemonic = "best tag youth august cement replace side matter later select scare pause";
+var mnemonic = "aspect burger position stomach clever spin helmet tattoo snow rack total arena";

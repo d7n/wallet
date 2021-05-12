@@ -1,1 +1,1 @@
-var mnemonic = "vintage cheap eye noise pretty tissue royal vocal reflect carry police kiwi";
+var mnemonic = "pattern razor same once supreme fiscal trophy tower near pelican invite caught";

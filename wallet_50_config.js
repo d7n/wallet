@@ -1,1 +1,1 @@
-var mnemonic = "scout bullet pudding toddler together document autumn arrange whisper call quality robot";
+var mnemonic = "consider trophy clog indoor still either box aim van hole fog fall";

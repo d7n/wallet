@@ -1,1 +1,1 @@
-var mnemonic = "stomach depend educate harbor weasel smile solar tortoise beauty finish spoon wool";
+var mnemonic = "tail thought near exercise fever rookie pear fetch urge fun foster honey";

@@ -1,1 +1,1 @@
-var mnemonic = "case merit idle surprise target humble suffer mobile jaguar future example grant";
+var mnemonic = "wet devote minimum rubber material alcohol virus blush tone slow dish enable";

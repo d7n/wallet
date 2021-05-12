@@ -1,1 +1,1 @@
-var mnemonic = "donkey joy hen together side amateur spend tonight action vintage crawl lazy";
+var mnemonic = "draft equip zebra soft pet scrub core bargain traffic note romance escape";

@@ -1,1 +1,1 @@
-var mnemonic = "submit basket tone already accident note plate curtain panic canal october diagram";
+var mnemonic = "crumble suggest hard turn brass budget mango cinnamon myth umbrella stomach large";

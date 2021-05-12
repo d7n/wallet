@@ -1,1 +1,1 @@
-var mnemonic = "steak salmon change virtual mesh unique fire three review chapter mail inspire";
+var mnemonic = "possible typical mean winter child faith shiver bus rail end secret target";

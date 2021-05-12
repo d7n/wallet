@@ -1,1 +1,1 @@
-var mnemonic = "detect scan rabbit ahead stumble still pony concert faint diesel lottery kiwi";
+var mnemonic = "thrive skull napkin push snow erode sorry group blame drill tattoo remind";

@@ -1,1 +1,1 @@
-var mnemonic = "ski burden giant page verb blast kite surround waste belt false omit";
+var mnemonic = "elegant axis reward taste surface swim endorse point camera gaze use now";

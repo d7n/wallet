@@ -1,1 +1,1 @@
-var mnemonic = "world silly layer famous axis joke mosquito agent parent indoor blast raven";
+var mnemonic = "motion trim blast drive theory mixed conduct cook note brand toy bag";

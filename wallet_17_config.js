@@ -1,1 +1,1 @@
-var mnemonic = "chief pyramid void genuine problem flush outside toward puzzle business cost effort";
+var mnemonic = "strong tiger sun effort code come kit portion rely share dirt other";

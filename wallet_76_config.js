@@ -1,1 +1,1 @@
-var mnemonic = "whale decade clay excess control gentle leg trumpet exotic cube matter outdoor";
+var mnemonic = "sell goddess exotic train awkward clock father obvious inspire violin column chase";

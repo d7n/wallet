@@ -1,1 +1,1 @@
-var mnemonic = "program region absent base quote canoe case tortoise arch doll prepare tray";
+var mnemonic = "avoid hood sail buyer review grief stick door absent domain fat van";

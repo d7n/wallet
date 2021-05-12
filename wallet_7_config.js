@@ -1,1 +1,1 @@
-var mnemonic = "thrive husband flower large impact video twice false program gasp tomorrow ugly";
+var mnemonic = "frequent apple length horn casual athlete soap rabbit bulb ski quarter access";

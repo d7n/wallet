@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur floor design mask ordinary okay swing fade illness aisle day still";
+var mnemonic = "lock sign radar faint behind squirrel double hollow anxiety spare melody life";

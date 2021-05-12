@@ -1,1 +1,1 @@
-var mnemonic = "banner tent name stereo index dish nice gap bleak acid dawn crunch";
+var mnemonic = "poem radio spirit state sight tone alcohol movie steel muscle drum like";

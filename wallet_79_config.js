@@ -1,1 +1,1 @@
-var mnemonic = "loud chaos frame scare spray cradle either gentle excess crumble rib bag";
+var mnemonic = "grain either spoon guitar memory summer language genre fresh dinosaur rule crazy";

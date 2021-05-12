@@ -1,1 +1,1 @@
-var mnemonic = "ice health monkey more parade measure chaos speak empty make imitate dial";
+var mnemonic = "upon amateur pencil woman junior trap cattle deny enact refuse traffic link";

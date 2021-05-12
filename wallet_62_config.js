@@ -1,1 +1,1 @@
-var mnemonic = "old fatigue supply tell rail minor latin only slide dust ordinary guard";
+var mnemonic = "page acid smile discover civil electric laugh pistol circle castle wasp food";

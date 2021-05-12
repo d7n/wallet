@@ -1,1 +1,1 @@
-var mnemonic = "answer mixture spoil artwork stamp quality palace mixed limb bounce industry squirrel";
+var mnemonic = "joke food clever turn arrive then swift celery zebra violin purpose cave";

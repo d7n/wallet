@@ -1,1 +1,1 @@
-var mnemonic = "run garage box extra lawn mule amused awkward guitar enact sail artist";
+var mnemonic = "culture unlock tree purpose soul puppy leaf brother diesel rebel fashion source";

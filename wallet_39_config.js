@@ -1,1 +1,1 @@
-var mnemonic = "regular office advice song deposit sight sphere street helmet food wool perfect";
+var mnemonic = "approve base roast regret pledge farm tell label sadness excuse chalk buddy";

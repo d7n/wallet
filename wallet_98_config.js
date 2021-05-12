@@ -1,1 +1,1 @@
-var mnemonic = "chair fiscal song roof acid detail festival grit special stumble erosion eagle";
+var mnemonic = "profit bike open tiny giant page toss glide fine recall jazz filter";

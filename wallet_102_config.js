@@ -1,1 +1,1 @@
-var mnemonic = "human december also toe doll tenant tooth citizen despair indicate home patch";
+var mnemonic = "mother quarter just income chalk lesson recall ostrich glove nation hover bomb";

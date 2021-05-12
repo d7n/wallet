@@ -1,1 +1,1 @@
-var mnemonic = "apology shaft pull work circle gadget ignore wisdom audit bunker else trust";
+var mnemonic = "match west claim blush stumble autumn pulse box nerve sail easy attract";

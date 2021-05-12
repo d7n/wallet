@@ -1,1 +1,1 @@
-var mnemonic = "sample music inform moon wheel able sick six expire lawn drastic simple";
+var mnemonic = "bonus cereal average dry someone lizard prevent damp nature culture blame ship";

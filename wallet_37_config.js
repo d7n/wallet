@@ -1,1 +1,1 @@
-var mnemonic = "feature control small notable eager wheat vacant steel hour what tape oven";
+var mnemonic = "avoid egg fringe similar please reveal replace gate figure benefit purity survey";

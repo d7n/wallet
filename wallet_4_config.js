@@ -1,1 +1,1 @@
-var mnemonic = "thought excuse robot bag diesel win path leisure liquid kind allow benefit";
+var mnemonic = "pumpkin alarm loop weasel sport invest mean lift wait antenna bronze educate";

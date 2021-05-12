@@ -1,1 +1,1 @@
-var mnemonic = "tobacco oak afraid uncover deer open chapter tube summer annual earth strategy";
+var mnemonic = "transfer cheese trap cluster tree stand produce thank grace lunch physical cherry";

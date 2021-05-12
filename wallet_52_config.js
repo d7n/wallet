@@ -1,1 +1,1 @@
-var mnemonic = "maze there dinner cart mixed muffin quantum box taxi student expect evolve";
+var mnemonic = "blood primary wire seek melt swallow vanish arrest gentle list ostrich sure";

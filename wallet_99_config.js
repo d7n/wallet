@@ -1,1 +1,1 @@
-var mnemonic = "tonight move transfer live certain retire park brother shoulder buyer ten head";
+var mnemonic = "ring lamp sudden excite grit cargo enlist river loud future gauge common";

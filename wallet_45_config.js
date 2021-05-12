@@ -1,1 +1,1 @@
-var mnemonic = "peace velvet old comfort sick spy vocal mule idle style trip milk";
+var mnemonic = "kind garment palace elbow hold tongue album employ tribe carpet age capable";

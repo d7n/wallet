@@ -1,1 +1,1 @@
-var mnemonic = "senior mom face menu town cave vivid reward want ethics rural joy";
+var mnemonic = "chalk february supreme ensure electric badge sing thumb joy entry globe blanket";

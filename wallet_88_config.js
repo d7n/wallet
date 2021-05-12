@@ -1,1 +1,1 @@
-var mnemonic = "gesture glue toddler enact garage assist damp feed tattoo edit insect ice";
+var mnemonic = "cradle three dirt loan process naive wild ketchup two parent wave another";

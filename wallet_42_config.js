@@ -1,1 +1,1 @@
-var mnemonic = "burden play leave trust eye pact waste cliff doctor hero easy atom";
+var mnemonic = "two output lion wealth detect trash harsh frog crush ignore angry ahead";

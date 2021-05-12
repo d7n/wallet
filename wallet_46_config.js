@@ -1,1 +1,1 @@
-var mnemonic = "miss hazard mail cupboard report globe refuse drink lemon rack bridge apart";
+var mnemonic = "leopard follow inquiry curtain must huge achieve machine nephew glass good quantum";

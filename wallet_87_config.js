@@ -1,1 +1,1 @@
-var mnemonic = "junior super alien guide pear cluster pigeon pigeon hand tuna insane crack";
+var mnemonic = "cereal task city infant brain remove keen axis frown clean eager media";

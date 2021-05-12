@@ -1,1 +1,1 @@
-var mnemonic = "ripple table glide pave expand idea tell void place fossil wealth brush";
+var mnemonic = "senior collect water twice rent either hungry remain debate dance lemon hair";

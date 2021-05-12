@@ -1,1 +1,1 @@
-var mnemonic = "rely history swallow allow lunch health maid grape wonder urge boring sell";
+var mnemonic = "loud nurse brain icon retreat rough abandon super swallow burger order derive";

@@ -1,1 +1,1 @@
-var mnemonic = "zone noise okay nation long gadget wisdom hotel acoustic burden aunt popular";
+var mnemonic = "keep move strategy hole exchange imitate reunion crystal liar upon gaze say";

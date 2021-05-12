@@ -1,1 +1,1 @@
-var mnemonic = "try feature arrest practice future trust action wall perfect mean easy write";
+var mnemonic = "female among flash brief rule build escape nothing total school wave settle";

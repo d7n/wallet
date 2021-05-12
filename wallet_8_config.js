@@ -1,1 +1,1 @@
-var mnemonic = "bus lecture panic rare cheese around sea tumble basket hill glimpse glide";
+var mnemonic = "jeans direct buyer undo repeat river novel pull disease move output settle";

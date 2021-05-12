@@ -1,1 +1,1 @@
-var mnemonic = "vintage beauty lunar hunt skull produce long buffalo sand snake remind cotton";
+var mnemonic = "night rice sign swamp improve wing ramp wolf topple pear cattle argue";

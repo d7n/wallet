@@ -1,1 +1,1 @@
-var mnemonic = "debris deny answer recall infant north leave burger twelve current genre skirt";
+var mnemonic = "travel plug opera forest mesh age accident patient wild waste laptop hour";

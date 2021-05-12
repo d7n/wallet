@@ -1,1 +1,1 @@
-var mnemonic = "mother fruit advice suit submit fine census menu injury cement thrive barely";
+var mnemonic = "appear fortune auto evoke orchard happy umbrella prosper ball embody make skull";

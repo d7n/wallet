@@ -1,1 +1,1 @@
-var mnemonic = "apple quarter dish tag trigger decide impose word divide skin duck indoor";
+var mnemonic = "inner apple dawn code achieve domain twenty gentle walk three mom bar";

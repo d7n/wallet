@@ -1,1 +1,1 @@
-var mnemonic = "silent civil public truly giggle great pledge capable garden market govern damage";
+var mnemonic = "tumble crater monster below measure zero truck sight law actual ready lawsuit";

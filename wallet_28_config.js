@@ -1,1 +1,1 @@
-var mnemonic = "milk attract hunt tray opera cruise drip stock renew dress two pigeon";
+var mnemonic = "obvious puppy primary price identify large lazy warfare asthma cart web festival";

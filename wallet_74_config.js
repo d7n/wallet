@@ -1,1 +1,1 @@
-var mnemonic = "cake move wagon barrel action park outside lazy magic episode muffin convince";
+var mnemonic = "athlete lock grab snow reunion industry gauge ghost sea baby hole diet";

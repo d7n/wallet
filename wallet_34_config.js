@@ -1,1 +1,1 @@
-var mnemonic = "hockey soon grace kick cruise since enough decline birth loud drum wolf";
+var mnemonic = "invite atom december century toss life when skate squeeze inmate heavy blanket";

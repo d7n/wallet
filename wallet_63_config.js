@@ -1,1 +1,1 @@
-var mnemonic = "plate link creek struggle quality hip vacant remove panda neck rigid urge";
+var mnemonic = "mouse state jacket shiver black magic welcome mansion link certain one hawk";

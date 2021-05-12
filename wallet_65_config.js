@@ -1,1 +1,1 @@
-var mnemonic = "jacket weird vague panda umbrella bicycle goose tourist drama coin deer fiber";
+var mnemonic = "giant involve now biology awake filter rescue matrix anxiety assist dust first";

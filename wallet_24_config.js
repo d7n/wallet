@@ -1,1 +1,1 @@
-var mnemonic = "later project good crane donkey panel health list sting priority practice thumb";
+var mnemonic = "cigar young keen syrup still lottery birth minute cigar sting alter venue";

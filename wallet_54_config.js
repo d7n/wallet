@@ -1,1 +1,1 @@
-var mnemonic = "student bone market return cool power shine fog sample mad dream enter";
+var mnemonic = "aisle arrow patrol fame brass gospel inhale cook display surprise wrist gold";

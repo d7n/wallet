@@ -1,1 +1,1 @@
-var mnemonic = "organ art anger town island weapon angry asset copper measure congress error";
+var mnemonic = "asset category master dutch mercy hope roof spy figure smooth wire suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "sound gain expect sort cabbage south quiz city woman ready fault nephew";
+var mnemonic = "man duty jump embrace gloom ecology debate hover fun comic essence into";

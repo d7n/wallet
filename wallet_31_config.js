@@ -1,1 +1,1 @@
-var mnemonic = "paper inch find appear edge cruel dynamic task metal aisle sense goose";
+var mnemonic = "bicycle face civil consider water merge february number neglect laptop list float";

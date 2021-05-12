@@ -1,1 +1,1 @@
-var mnemonic = "high method name state cactus topple oak discover auction minor shadow hunt";
+var mnemonic = "razor beyond absorb word autumn sponsor degree wonder concert any later drastic";

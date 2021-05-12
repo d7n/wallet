@@ -1,1 +1,1 @@
-var mnemonic = "hotel unhappy street lamp side awesome middle shallow banner lunar coin inmate";
+var mnemonic = "uncle about physical pause tooth push minute drive border bronze bind member";

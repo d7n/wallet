@@ -1,1 +1,1 @@
-var mnemonic = "public pistol push silly oppose hint side belt prefer rigid mention jungle";
+var mnemonic = "vault ticket high alcohol guitar material behave clock street usage cabin dream";

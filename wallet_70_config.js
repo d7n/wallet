@@ -1,1 +1,1 @@
-var mnemonic = "anger cable laptop salon couple cave anchor essence stuff attitude range door";
+var mnemonic = "game dynamic mouse meat pond bottom tide gravity spice trumpet middle dream";

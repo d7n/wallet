@@ -1,1 +1,1 @@
-var mnemonic = "ill human wild possible child friend olympic struggle rifle deny scheme steel";
+var mnemonic = "pill note volcano fork clutch pumpkin digital excess school summer enter sure";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify try october muffin type hurry hand elite almost brush sing sister";
+var mnemonic = "sweet jealous legal midnight verb weasel aspect fatal behave pattern brother aim";

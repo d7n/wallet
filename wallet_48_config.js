@@ -1,1 +1,1 @@
-var mnemonic = "merit sad mesh winter stairs shiver lumber item total alarm brush ketchup";
+var mnemonic = "fix creek three remember cancel always ripple dinosaur adult mountain funny chief";

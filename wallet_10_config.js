@@ -1,1 +1,1 @@
-var mnemonic = "want avocado gather tuition museum olive recall crawl gift time travel scale";
+var mnemonic = "across produce dawn useful donate song nephew swallow service silk angry heart";

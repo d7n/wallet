@@ -1,1 +1,1 @@
-var mnemonic = "motion scene below reason warfare acquire recipe arctic tube annual organ chunk";
+var mnemonic = "obvious car concert lobster check pipe message police truth assault riot fade";

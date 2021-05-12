@@ -1,1 +1,1 @@
-var mnemonic = "unlock rival cupboard frozen argue frequent question comic pizza excuse ridge hedgehog";
+var mnemonic = "wall auction trigger situate grief media elevator distance enjoy drive warfare month";

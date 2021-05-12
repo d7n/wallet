@@ -1,1 +1,1 @@
-var mnemonic = "hockey round defy apple fever genuine gas where admit expand logic debris";
+var mnemonic = "educate dog tissue ridge frozen lemon object humor deny amateur make panda";

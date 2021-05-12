@@ -1,1 +1,1 @@
-var mnemonic = "bike monster wait finish list armed session hat supply below spring library";
+var mnemonic = "sock final border parade famous report couple inside mutual hospital sunset diet";

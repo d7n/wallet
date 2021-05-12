@@ -1,1 +1,1 @@
-var mnemonic = "property roast sadness exhaust recipe capable harvest cross fall detail shy pumpkin";
+var mnemonic = "rain seek ginger item giggle derive document fog tongue grocery shell major";

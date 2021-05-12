@@ -1,1 +1,1 @@
-var mnemonic = "duty family crouch way brand profit outdoor section drink version crawl marine";
+var mnemonic = "distance hat harsh zone apology yellow slab eagle okay define lemon help";

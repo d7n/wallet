@@ -1,1 +1,1 @@
-var mnemonic = "author lucky supply voice repeat only virtual damp sense ring length reflect";
+var mnemonic = "educate patient struggle decade faculty appear flavor before coach quarter frog february";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly carpet edge discover spawn cloth old apple cupboard always grow output";
+var mnemonic = "toilet disease course neck title brass life analyst useful border dwarf reward";

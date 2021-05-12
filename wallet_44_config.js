@@ -1,1 +1,1 @@
-var mnemonic = "mix public render runway fork dragon sunny sword salmon focus urban label";
+var mnemonic = "way device wonder veteran check thumb top prosper party hire fancy become";

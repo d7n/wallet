@@ -1,1 +1,1 @@
-var mnemonic = "exit weird pill churn song valley learn cup check true result swear";
+var mnemonic = "security wait upset jazz way soup kiss west club dragon milk aspect";

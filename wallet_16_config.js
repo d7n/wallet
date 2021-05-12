@@ -1,1 +1,1 @@
-var mnemonic = "path raccoon trouble plunge raven brief target blanket purchase output grit despair";
+var mnemonic = "alarm mass grow blast cattle yard rare much room another carpet shell";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze guide face crop crisp feature silly glimpse liar vacant fuel labor";
+var mnemonic = "guilt trial motion bulb trouble inquiry gospel betray eye gas about matrix";

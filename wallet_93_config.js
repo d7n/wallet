@@ -1,1 +1,1 @@
-var mnemonic = "clown tornado scene reform sick avoid curious off execute range below hand";
+var mnemonic = "black job small immune surge assist circle view shoot daughter insane train";

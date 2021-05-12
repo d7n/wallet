@@ -1,1 +1,1 @@
-var mnemonic = "adapt valve luggage require december obscure resist skill test scatter faith pulse";
+var mnemonic = "oppose giraffe guitar oxygen solid position depend close raccoon firm session hamster";

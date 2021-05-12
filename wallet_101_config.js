@@ -1,1 +1,1 @@
-var mnemonic = "produce orient elegant someone cage mercy still clinic wedding rebuild license forest";
+var mnemonic = "liar warm crystal fish joy toss ancient shrug toddler team stomach annual";

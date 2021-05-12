@@ -1,1 +1,1 @@
-var mnemonic = "grass favorite abandon avocado morning witness catalog pottery mushroom inside robot profit";
+var mnemonic = "time tilt banner tobacco surprise gadget clever barrel congress motion wing repeat";

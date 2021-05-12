@@ -1,1 +1,1 @@
-var mnemonic = "corn bean charge critic nose float medal design aspect decide spike glare";
+var mnemonic = "lazy put riot loyal advice gun rib avoid typical tunnel truck garment";

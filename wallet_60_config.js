@@ -1,1 +1,1 @@
-var mnemonic = "guide announce vehicle flag account music try say bless youth column extend";
+var mnemonic = "broccoli repeat tomato pupil wash great super repeat index egg cycle vital";

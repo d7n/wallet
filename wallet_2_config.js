@@ -1,1 +1,1 @@
-var mnemonic = "yard pair volcano reason property gym duty love divorce able advance trend";
+var mnemonic = "lobster sunny rare season lyrics grape trap horror balcony anger flash worry";

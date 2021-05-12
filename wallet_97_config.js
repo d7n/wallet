@@ -1,1 +1,1 @@
-var mnemonic = "depart iron swift word drum recycle tumble infant rich hurdle follow engage";
+var mnemonic = "nephew twenty lake price then dish east visual visual orange hidden ginger";

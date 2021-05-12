@@ -1,1 +1,1 @@
-var mnemonic = "eagle copy grunt pull wagon fall wisdom kitchen erode arrow south alley";
+var mnemonic = "flee gaze escape stock night rebel lunch better stumble throw stairs begin";
