@@ -1,1 +1,1 @@
-var mnemonic = "announce brick price ride medal exile behave grain zoo shoe team risk";
+var mnemonic = "wasp silk route skin excite mention village shaft tribe picture clever dignity";

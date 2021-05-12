@@ -1,1 +1,1 @@
-var mnemonic = "fun trash else urban auto evil lemon consider swim share labor indoor";
+var mnemonic = "onion kitten soup wrap guide parrot front cliff beach rib anger recycle";

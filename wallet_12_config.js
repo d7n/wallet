@@ -1,1 +1,1 @@
-var mnemonic = "myth robust bundle recall head expose push tone thank void portion cool";
+var mnemonic = "cancel seat annual circle glass high target delay way concert dinosaur spy";

@@ -1,1 +1,1 @@
-var mnemonic = "try size bubble account wash certain warm carry credit critic wasp inform";
+var mnemonic = "apart chuckle arrow wealth leave early draw fever sustain cave blade satoshi";

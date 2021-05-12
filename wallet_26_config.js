@@ -1,1 +1,1 @@
-var mnemonic = "sadness damp filter snap wire knife box blossom that cricket cash tip";
+var mnemonic = "oven reason crew board elegant draft bag earth offer canyon wink note";

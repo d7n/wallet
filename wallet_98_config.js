@@ -1,1 +1,1 @@
-var mnemonic = "wish opera adjust carbon elegant cheese physical parent chimney large return vital";
+var mnemonic = "tonight congress eight trigger radar nation because elevator again slide pudding exile";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact kid cause play globe snake suffer enrich place bird away aspect";
+var mnemonic = "upon remember still such once sea journey provide scale once tip gun";

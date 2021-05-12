@@ -1,1 +1,1 @@
-var mnemonic = "giraffe assault stereo cigar attend minute bargain firm ceiling castle erosion bus";
+var mnemonic = "alien snake blouse tuna fiber jewel unit visual potato author maze wing";

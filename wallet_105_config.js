@@ -1,1 +1,1 @@
-var mnemonic = "clip tribe drive entire glove swarm code blast heavy extend devote coil";
+var mnemonic = "gas march match clever fever orbit gold film spell car slide angry";

@@ -1,1 +1,1 @@
-var mnemonic = "census capital host unique height earth tourist honey misery find object segment";
+var mnemonic = "rural soda panther shove until body hedgehog update fox hybrid fly net";

@@ -1,1 +1,1 @@
-var mnemonic = "south badge all palace helmet cradle system shove inside witness twist jar";
+var mnemonic = "shrug cherry pitch render afford emotion supply ice please decide rubber van";

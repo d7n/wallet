@@ -1,1 +1,1 @@
-var mnemonic = "turkey sniff able endorse peanut popular matter assume canal scale walnut treat";
+var mnemonic = "hello empty solid wisdom demand hill copy interest bamboo north carry silk";

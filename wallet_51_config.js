@@ -1,1 +1,1 @@
-var mnemonic = "artefact hawk myself rough close august giraffe sword copy hurt divert decorate";
+var mnemonic = "vicious ordinary immense jump number salmon pond begin flip planet tilt travel";

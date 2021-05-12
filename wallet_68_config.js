@@ -1,1 +1,1 @@
-var mnemonic = "catch business jelly elephant supreme element youth wink angry violin blossom secret";
+var mnemonic = "because address pond vast grape mystery ramp beauty prepare program vault umbrella";

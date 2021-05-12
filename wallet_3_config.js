@@ -1,1 +1,1 @@
-var mnemonic = "fringe garlic neutral cost chase faculty crystal elite rely apology state deputy";
+var mnemonic = "stage dentist enable stomach garlic few coast transfer december member large misery";

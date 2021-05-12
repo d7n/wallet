@@ -1,1 +1,1 @@
-var mnemonic = "hair crime other fantasy snap away stick cram attract begin club once";
+var mnemonic = "exist front flame auto pumpkin conduct peace mean clarify casual oil left";

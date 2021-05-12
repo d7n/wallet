@@ -1,1 +1,1 @@
-var mnemonic = "muffin improve local auction liquid release exile album ship sleep clutch wife";
+var mnemonic = "mammal magnet casual display voyage parent flower own dad sausage bargain lottery";

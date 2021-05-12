@@ -1,1 +1,1 @@
-var mnemonic = "supply job wine rural forward gold crystal toddler middle decide visual admit";
+var mnemonic = "crouch giraffe kingdom season unhappy health gold tuition rule annual private possible";

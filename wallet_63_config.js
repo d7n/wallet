@@ -1,1 +1,1 @@
-var mnemonic = "hospital dizzy play advice picture sheriff question vivid tank cool wheel ugly";
+var mnemonic = "law obscure entry debate muscle priority person ridge because canoe extend industry";

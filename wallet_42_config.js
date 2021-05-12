@@ -1,1 +1,1 @@
-var mnemonic = "finger animal bike follow about school prosper cup wreck earth chest purse";
+var mnemonic = "blade orphan zone february thumb sphere cannon category photo laugh believe void";

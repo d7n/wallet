@@ -1,1 +1,1 @@
-var mnemonic = "suspect meadow strong lion sea real jungle jaguar wave cactus expect crack";
+var mnemonic = "tongue transfer tragic stadium crazy helmet abstract noise nose loud negative orbit";

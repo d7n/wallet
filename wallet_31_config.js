@@ -1,1 +1,1 @@
-var mnemonic = "expand spice shuffle stadium never permit target crush month waste before seek";
+var mnemonic = "inside divide rate voyage quantum donor crane detail corn dry hire naive";

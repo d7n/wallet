@@ -1,1 +1,1 @@
-var mnemonic = "check diet surge fire balcony junk make typical across action deposit syrup";
+var mnemonic = "sound dumb fitness cloud toddler mandate heart junior reveal sample drama butter";

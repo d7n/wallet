@@ -1,1 +1,1 @@
-var mnemonic = "book copy soda pond surge column tank original outdoor find virtual web";
+var mnemonic = "horn act senior vague cousin card hello silent pottery link venue duty";

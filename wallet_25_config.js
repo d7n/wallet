@@ -1,1 +1,1 @@
-var mnemonic = "clap drill truly label mention parent army upgrade prevent enlist gather sight";
+var mnemonic = "organ sure piano lemon rocket liquid toe acoustic despair pink engage neither";

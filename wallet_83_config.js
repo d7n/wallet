@@ -1,1 +1,1 @@
-var mnemonic = "despair claim action tell ticket square just talk innocent current organ tomorrow";
+var mnemonic = "south math mixture control tornado december nice essence long hard soft noble";

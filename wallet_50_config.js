@@ -1,1 +1,1 @@
-var mnemonic = "extend echo owner rude music culture trap echo hungry blur inquiry garlic";
+var mnemonic = "chat erosion glass visa erode agree child doll sea dismiss advance leopard";

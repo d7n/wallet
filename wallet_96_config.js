@@ -1,1 +1,1 @@
-var mnemonic = "toss snow acid master viable black mechanic much purity swim tent pave";
+var mnemonic = "casual supreme excuse tip minimum chief rifle alone spray labor trophy pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "crime shrug boring inherit surface route fee coast struggle snack cup dignity";
+var mnemonic = "service goat special cook stone text oxygen glare train letter pen sweet";

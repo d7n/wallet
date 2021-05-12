@@ -1,1 +1,1 @@
-var mnemonic = "dignity brass matrix eye balcony rely auto vote toss main ship chunk";
+var mnemonic = "lonely riot behind cup finger worth execute input shadow dream weapon measure";

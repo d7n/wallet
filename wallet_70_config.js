@@ -1,1 +1,1 @@
-var mnemonic = "nurse obey old perfect tree say nominee pipe power metal wheat business";
+var mnemonic = "woman notable video arch absorb impact crew genre foot roast total olympic";

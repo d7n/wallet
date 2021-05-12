@@ -1,1 +1,1 @@
-var mnemonic = "that own average arch trend identify wealth panic neutral topple check joy";
+var mnemonic = "lemon claw picnic tube dance disagree daring spirit until uncover manual subway";

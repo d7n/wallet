@@ -1,1 +1,1 @@
-var mnemonic = "gym employ room flight arm cancel expand obtain motion shadow elephant quote";
+var mnemonic = "hidden consider giggle must claim valley long number illegal symptom stamp question";

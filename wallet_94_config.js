@@ -1,1 +1,1 @@
-var mnemonic = "say head tumble run display math exotic flush level sick rather post";
+var mnemonic = "tray head foster foot giggle impulse toddler tattoo gap arrive valley frog";

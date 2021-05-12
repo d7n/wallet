@@ -1,1 +1,1 @@
-var mnemonic = "token other pony lonely foil attend assault draw foster pen good trim";
+var mnemonic = "palace bean produce saddle circle mechanic limit sell base include cruise switch";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot roof when identify loan atom middle color vendor scorpion obscure coffee";
+var mnemonic = "manage indicate fog wood economy erupt coach forward orchard reveal city color";

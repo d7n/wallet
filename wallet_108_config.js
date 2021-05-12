@@ -1,1 +1,1 @@
-var mnemonic = "devote chair defy profit subject shove fly cactus thank cat broken citizen";
+var mnemonic = "witness float churn coast job bring buffalo round sentence describe upgrade drift";

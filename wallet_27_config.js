@@ -1,1 +1,1 @@
-var mnemonic = "alley country measure warfare roast name claw conduct struggle biology service wrong";
+var mnemonic = "key music choose circle remain call cactus exhibit garden carpet start patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "current physical disagree fantasy cheap above begin burst spoil wood name system";
+var mnemonic = "cool bottom trick cinnamon execute public consider concert pattern wear defense spider";

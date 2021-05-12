@@ -1,1 +1,1 @@
-var mnemonic = "ivory stem opinion dial poem fade cotton stove vivid miss warfare castle";
+var mnemonic = "alcohol neither mouse grit test grass follow trumpet year legal ecology piece";

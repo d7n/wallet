@@ -1,1 +1,1 @@
-var mnemonic = "sweet double wear awkward woman ship potato baby sort lucky radio raven";
+var mnemonic = "danger design choose stove lucky banana scale twelve dutch imitate family forest";

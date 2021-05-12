@@ -1,1 +1,1 @@
-var mnemonic = "floor address meat plastic amount alone stem reform settle reduce easily regret";
+var mnemonic = "tower city aspect weapon tattoo frozen balcony music champion simple lemon trial";

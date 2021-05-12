@@ -1,1 +1,1 @@
-var mnemonic = "raven exercise citizen over teach enemy void repair gather unit purse zero";
+var mnemonic = "gap accident bunker hybrid report real resemble vault exhaust dad sadness monkey";

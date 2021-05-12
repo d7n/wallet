@@ -1,1 +1,1 @@
-var mnemonic = "clerk rival area answer orange puzzle couple eyebrow body walk idea unknown";
+var mnemonic = "rain monster vintage fault sort situate term lemon account multiply any poet";

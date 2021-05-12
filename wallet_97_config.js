@@ -1,1 +1,1 @@
-var mnemonic = "nice short solid blush planet cave phone wedding slot dutch fade pencil";
+var mnemonic = "gossip close physical small post figure dismiss echo offer cliff west immune";

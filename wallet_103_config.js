@@ -1,1 +1,1 @@
-var mnemonic = "eye super short tree rural evidence horse century universe minute assist frown";
+var mnemonic = "focus panther upper bird brisk flash marine club awkward portion cupboard pattern";

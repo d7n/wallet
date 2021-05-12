@@ -1,1 +1,1 @@
-var mnemonic = "reopen dragon universe fat sting drum canoe pride shock globe tobacco educate";
+var mnemonic = "boy spice forum meat song beach bargain abuse puzzle heart fringe weird";

@@ -1,1 +1,1 @@
-var mnemonic = "depend pair flag zoo trouble cart curious spirit bid female shove grab";
+var mnemonic = "spy acoustic chair unhappy kiwi next peanut sail space parade essay travel";

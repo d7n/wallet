@@ -1,1 +1,1 @@
-var mnemonic = "image drive aisle exotic calm oppose jacket onion online permit chunk gas";
+var mnemonic = "head mushroom ten sound wheat lesson citizen crowd list denial regular eight";

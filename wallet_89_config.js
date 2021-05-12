@@ -1,1 +1,1 @@
-var mnemonic = "boss grape mixed snack used demise decorate chef rule fat course gospel";
+var mnemonic = "about uncover rich lizard change saddle report pencil drop believe imitate tennis";

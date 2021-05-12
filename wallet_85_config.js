@@ -1,1 +1,1 @@
-var mnemonic = "wash teach umbrella fossil gaze alert desert fence find lake elite tortoise";
+var mnemonic = "pencil magic knee switch ski feel gas polar marine romance author file";

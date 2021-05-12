@@ -1,1 +1,1 @@
-var mnemonic = "indicate word jar office vacant olive bounce opera prize robust tattoo session";
+var mnemonic = "sister rug much police enemy able success nut find pyramid length opinion";

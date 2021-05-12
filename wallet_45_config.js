@@ -1,1 +1,1 @@
-var mnemonic = "frozen time goose vague option ahead cycle asthma hotel actress shoe sketch";
+var mnemonic = "soup question repeat wink fall bless moral lyrics risk random dumb identify";

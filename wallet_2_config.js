@@ -1,1 +1,1 @@
-var mnemonic = "destroy bacon social bid cancel ozone cannon wall surprise age shoot head";
+var mnemonic = "this bid ribbon monkey angry lazy nature under jaguar click sure episode";

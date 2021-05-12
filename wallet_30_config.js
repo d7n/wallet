@@ -1,1 +1,1 @@
-var mnemonic = "modify upset build clinic book flavor any universe dog balcony choose tiny";
+var mnemonic = "cheese sight melt sing return cotton december they version relief often voyage";

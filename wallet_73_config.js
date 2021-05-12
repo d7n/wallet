@@ -1,1 +1,1 @@
-var mnemonic = "price digital aunt candy judge before air raw anger try cave drill";
+var mnemonic = "cannon invite impulse crater banner vehicle across loop someone slim gather visual";

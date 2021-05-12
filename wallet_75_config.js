@@ -1,1 +1,1 @@
-var mnemonic = "diary charge kind whale equip when quality depth feature swim lion sport";
+var mnemonic = "region hotel tape hover large village real dune rule fall reason sound";

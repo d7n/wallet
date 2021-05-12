@@ -1,1 +1,1 @@
-var mnemonic = "knife jaguar patrol sense settle gravity cheese zoo result spend indoor clever";
+var mnemonic = "curtain spatial scale absorb nerve off armor apology memory design squeeze mix";

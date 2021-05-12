@@ -1,1 +1,1 @@
-var mnemonic = "soul sell smile weather sister survey prize cement wood symbol trade hire";
+var mnemonic = "enforce bench sudden crystal palm behind guide rule alone boil siren sudden";

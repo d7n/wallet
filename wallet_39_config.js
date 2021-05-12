@@ -1,1 +1,1 @@
-var mnemonic = "grace cattle off pipe knife shy certain speak seek dish garage shock";
+var mnemonic = "shell viable matrix quote lock keep iron federal kiwi canoe bench auto";

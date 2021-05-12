@@ -1,1 +1,1 @@
-var mnemonic = "busy quiz address direct arch atom arrange parrot next grit train release";
+var mnemonic = "admit giggle version mechanic differ wonder receive rose ball castle dragon gospel";

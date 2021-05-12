@@ -1,1 +1,1 @@
-var mnemonic = "hour jaguar chalk clever size patient cook friend summer flight buffalo involve";
+var mnemonic = "ethics occur alter absurd salon sea number cool tower east please pear";

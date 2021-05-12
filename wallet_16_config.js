@@ -1,1 +1,1 @@
-var mnemonic = "guilt gap awake charge deny nature trophy march remove volume fat hip";
+var mnemonic = "police violin rotate tip impose kidney tuna bottom use maple mesh drastic";

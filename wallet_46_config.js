@@ -1,1 +1,1 @@
-var mnemonic = "corn track deal devote age bunker return liar reveal bid hello scene";
+var mnemonic = "radar style animal gallery cinnamon outside tank luggage cute various fruit unknown";

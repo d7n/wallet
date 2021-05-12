@@ -1,1 +1,1 @@
-var mnemonic = "round arctic aisle tooth cloud tiger sketch primary kitten clump member muscle";
+var mnemonic = "orphan coffee rifle panic goddess actor silk danger disease measure silly tooth";

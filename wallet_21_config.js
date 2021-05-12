@@ -1,1 +1,1 @@
-var mnemonic = "heavy share until organ neck live bench label audit slender spell trigger";
+var mnemonic = "heart another vendor exact title crazy soldier identify pencil decade rebuild satisfy";

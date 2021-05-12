@@ -1,1 +1,1 @@
-var mnemonic = "tumble early orient bonus method rhythm rug fix valid tackle motor split";
+var mnemonic = "talent lizard spy collect cereal parent now cycle saddle rotate waste vital";

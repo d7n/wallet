@@ -1,1 +1,1 @@
-var mnemonic = "cricket friend fiscal decorate pond ridge cloth crater nephew edge young awesome";
+var mnemonic = "street congress urge someone goat biology equal hammer bid fossil mixed master";

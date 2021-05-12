@@ -1,1 +1,1 @@
-var mnemonic = "shoot sadness profit toward trigger ranch jewel survey ribbon network alcohol alien";
+var mnemonic = "cloud trash believe behave pizza wealth verify fade bullet hen punch loop";

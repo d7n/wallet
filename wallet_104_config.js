@@ -1,1 +1,1 @@
-var mnemonic = "provide culture weapon there cheap crawl rule learn license bracket long crucial";
+var mnemonic = "february hint connect sound option future brick lens exchange table swap select";

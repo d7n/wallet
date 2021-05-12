@@ -1,1 +1,1 @@
-var mnemonic = "flat yard tuition bonus place ready slight mystery father awake dice beach";
+var mnemonic = "own danger glance chimney bullet luxury glue vicious aerobic eagle fence plate";

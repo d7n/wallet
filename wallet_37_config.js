@@ -1,1 +1,1 @@
-var mnemonic = "boring myth wall drill wonder minor bar wave ski radar drift release";
+var mnemonic = "spin absent grass swamp tattoo fade among milk strike wedding conduct ritual";

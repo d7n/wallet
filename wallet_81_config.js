@@ -1,1 +1,1 @@
-var mnemonic = "plug hub material assault common surface wonder frequent labor income session pupil";
+var mnemonic = "lottery inquiry fringe off sustain palace across curve erase throw source hover";

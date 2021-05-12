@@ -1,1 +1,1 @@
-var mnemonic = "melody fantasy loyal language grit enroll oxygen address squirrel vendor alter genuine";
+var mnemonic = "anxiety unknown certain wear lumber hamster guilt buyer park real garlic eyebrow";

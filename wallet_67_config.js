@@ -1,1 +1,1 @@
-var mnemonic = "police boil lizard kit hybrid horror vital same right advance kite level";
+var mnemonic = "mercy pull siege midnight enhance daring velvet melody affair jump ranch length";

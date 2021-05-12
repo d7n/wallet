@@ -1,1 +1,1 @@
-var mnemonic = "share blind slow cushion tower urge typical security result pond sort dove";
+var mnemonic = "collect spell peasant sausage avoid rally alley finish bag seminar pelican apple";

@@ -1,1 +1,1 @@
-var mnemonic = "peace giggle domain twist unaware coach cycle enlist frost enter gate harbor";
+var mnemonic = "hobby tooth daughter solid junior orphan future prize motion recycle used project";

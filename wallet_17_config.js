@@ -1,1 +1,1 @@
-var mnemonic = "there cluster humor pitch jealous snack tissue dad true cram dinner crop";
+var mnemonic = "tail resemble trouble pair accident wage win execute vague blush below violin";

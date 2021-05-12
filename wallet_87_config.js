@@ -1,1 +1,1 @@
-var mnemonic = "girl coffee hurt universe picture muscle tank announce evolve melt peace protect";
+var mnemonic = "race swim foam room dance actual monitor gauge curtain only giant emotion";

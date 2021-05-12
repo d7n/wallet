@@ -1,1 +1,1 @@
-var mnemonic = "build talk shove pulp used audit shop eyebrow forest sun tent cute";
+var mnemonic = "unveil drink nest clean improve disorder bulk library inflict mushroom genuine crisp";

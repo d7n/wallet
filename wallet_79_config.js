@@ -1,1 +1,1 @@
-var mnemonic = "bring giraffe pilot circle glad panic planet jazz salute raven column enroll";
+var mnemonic = "fetch muffin tomorrow thunder unfair meadow method chair venture chuckle reform normal";

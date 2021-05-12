@@ -1,1 +1,1 @@
-var mnemonic = "nothing lounge afraid century tail park silver sorry distance congress correct ritual";
+var mnemonic = "garlic practice grape tilt receive pupil coral picture erase rabbit occur mass";

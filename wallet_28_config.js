@@ -1,1 +1,1 @@
-var mnemonic = "offer debris current lottery mule exit where theory fever wife hood reopen";
+var mnemonic = "uncle mushroom elbow hurry year vibrant ahead paddle egg length enable bulb";

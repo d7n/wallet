@@ -1,1 +1,1 @@
-var mnemonic = "access almost change join wave lemon gentle spoil test advice display island";
+var mnemonic = "friend shine silent sudden shell marble mercy reason juice idea candy execute";

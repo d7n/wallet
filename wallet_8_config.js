@@ -1,1 +1,1 @@
-var mnemonic = "visa bring song luxury twenty have zone vivid bounce plunge future never";
+var mnemonic = "reflect scrub reject camera notice hat lion magic pelican female lemon item";

@@ -1,1 +1,1 @@
-var mnemonic = "index giraffe exhibit solid unit document engage apart decide puzzle bean like";
+var mnemonic = "eager exchange park dentist dumb actress release across kitchen neutral dice unable";

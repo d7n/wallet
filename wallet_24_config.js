@@ -1,1 +1,1 @@
-var mnemonic = "album night sponsor gloom keep cancel spend soft present weekend talent pottery";
+var mnemonic = "wave people matrix liar mixed saddle net major cliff someone arrive travel";

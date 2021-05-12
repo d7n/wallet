@@ -1,1 +1,1 @@
-var mnemonic = "pool cliff what memory affair pluck blood rib nothing ready very erosion";
+var mnemonic = "dish equal toddler crucial find fragile april awful mass enough rate crystal";

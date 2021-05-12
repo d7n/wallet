@@ -1,1 +1,1 @@
-var mnemonic = "boy brick blast orange useful present harsh legend when load matrix motor";
+var mnemonic = "nuclear base leave shrimp smile region merry item measure immense disorder noise";
