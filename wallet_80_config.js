@@ -1,1 +1,1 @@
-var mnemonic = "monkey casino scissors brain cage letter fossil snow earn catalog rule property";
+var mnemonic = "fun liar aim galaxy trust fiscal mother memory heavy fringe surge tomato";

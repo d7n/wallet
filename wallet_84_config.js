@@ -1,1 +1,1 @@
-var mnemonic = "dream accident oak hobby evil mountain gravity keep among quarter fan worry";
+var mnemonic = "question direct like awake lobster diary original pencil uncover shrimp lumber breeze";

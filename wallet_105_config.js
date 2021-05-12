@@ -1,1 +1,1 @@
-var mnemonic = "weekend resource echo burst bag damp tell jar egg please pact uncover";
+var mnemonic = "enroll mother air produce tail nation eyebrow mad burger filter bicycle bag";

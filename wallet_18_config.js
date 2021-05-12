@@ -1,1 +1,1 @@
-var mnemonic = "stove axis giant prepare shallow cupboard slab rotate alien surge force situate";
+var mnemonic = "divorce capital double height pride virus mountain brush host face street crew";

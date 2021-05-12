@@ -1,1 +1,1 @@
-var mnemonic = "juice ranch humble lunch flash that only input predict yellow fence oxygen";
+var mnemonic = "ceiling fold leader daring dry group scrub finish mercy foster little bounce";

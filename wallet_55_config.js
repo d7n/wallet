@@ -1,1 +1,1 @@
-var mnemonic = "female slim scissors police project glance burger ring pistol clog gloom lamp";
+var mnemonic = "push praise salt icon burger require cruise hint slight enemy about turtle";

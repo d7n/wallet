@@ -1,1 +1,1 @@
-var mnemonic = "produce bundle unlock analyst find gasp design couple radar strategy fiscal educate";
+var mnemonic = "merry turtle gown peace inspire boost field argue slogan snake point oppose";

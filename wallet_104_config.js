@@ -1,1 +1,1 @@
-var mnemonic = "near width fresh buddy cactus cliff require clap shrimp soft mammal aerobic";
+var mnemonic = "sample remove jelly crouch steak hub tiger cave this element when fine";

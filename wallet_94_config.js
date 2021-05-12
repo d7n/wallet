@@ -1,1 +1,1 @@
-var mnemonic = "spray scheme conduct music scrub dynamic april glad title zone two pluck";
+var mnemonic = "soccer tunnel short organ balcony century end pluck tenant invest steel high";

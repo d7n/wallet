@@ -1,1 +1,1 @@
-var mnemonic = "crumble inmate slice hood cruel journey hammer diagram animal gift absurd better";
+var mnemonic = "kick find desert monster rocket jacket occur credit idea divide blossom coral";

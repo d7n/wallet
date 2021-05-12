@@ -1,1 +1,1 @@
-var mnemonic = "soldier spend damp nice social chicken walk baby way abstract setup lock";
+var mnemonic = "veteran tuition page screen culture figure hidden evil citizen predict crazy index";

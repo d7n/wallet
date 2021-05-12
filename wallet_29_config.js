@@ -1,1 +1,1 @@
-var mnemonic = "art retreat juice camera island announce swamp supreme secret cement flip key";
+var mnemonic = "approve hundred case drill people produce another daring sustain boat bonus consider";

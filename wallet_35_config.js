@@ -1,1 +1,1 @@
-var mnemonic = "sniff milk exhibit float name bunker fire garment claw south magic crawl";
+var mnemonic = "robot regret foam unveil negative evidence summer shaft stuff jelly cross robot";

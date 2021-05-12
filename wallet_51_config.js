@@ -1,1 +1,1 @@
-var mnemonic = "define tower empty cargo actor spread climb smart rotate field crowd collect";
+var mnemonic = "jar sibling month again favorite million village brain drastic magnet aunt adjust";

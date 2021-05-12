@@ -1,1 +1,1 @@
-var mnemonic = "whale snake world game improve movie fancy case wisdom satisfy enter trap";
+var mnemonic = "original clerk snake phone business poem heavy avocado cool twenty immense ordinary";

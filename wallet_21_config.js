@@ -1,1 +1,1 @@
-var mnemonic = "matter scissors dizzy miracle brown onion web viable video give apology army";
+var mnemonic = "rifle model total hybrid giggle rural memory hundred area dash network nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder fly soda flower rifle lens unique rigid fetch fitness horn cargo";
+var mnemonic = "wood barrel task forest wrap cover inject pull unknown frost cloud recall";

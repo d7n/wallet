@@ -1,1 +1,1 @@
-var mnemonic = "caution sea traffic narrow shrug raise mass secret warfare nephew join system";
+var mnemonic = "spin column veteran door common soap know foil alone mother recipe innocent";

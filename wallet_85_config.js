@@ -1,1 +1,1 @@
-var mnemonic = "brain noise bright sketch enlist exotic wrap birth program motor social wisdom";
+var mnemonic = "mansion small ask face craft work book soup exhibit steel decade cash";

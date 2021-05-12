@@ -1,1 +1,1 @@
-var mnemonic = "interest desk venture quit cycle educate license spoil volcano seat correct lunch";
+var mnemonic = "solve license foster hint pottery life atom ignore march innocent whip power";

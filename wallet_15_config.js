@@ -1,1 +1,1 @@
-var mnemonic = "plate stock stable blame end theory mask session favorite letter shoe grain";
+var mnemonic = "become race inspire shadow shell regret sense weekend beef about tank replace";

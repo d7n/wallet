@@ -1,1 +1,1 @@
-var mnemonic = "escape viable crack rent service hat enrich burger test awful engage elephant";
+var mnemonic = "require swamp raw leisure disease work sentence hunt daughter afford furnace home";

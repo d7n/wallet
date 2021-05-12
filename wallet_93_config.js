@@ -1,1 +1,1 @@
-var mnemonic = "belt damp culture cupboard brick edge deputy identify subject crawl nut enlist";
+var mnemonic = "survey grass grass parrot pioneer tray keep buyer grab hobby kiwi upset";

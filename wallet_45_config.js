@@ -1,1 +1,1 @@
-var mnemonic = "proof field memory chest nice field response trend hand north cheese gas";
+var mnemonic = "pupil remain net raise coil barely oil piano comfort bright scatter hidden";

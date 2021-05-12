@@ -1,1 +1,1 @@
-var mnemonic = "nerve round close bonus salmon excuse stay output gas sound produce hair";
+var mnemonic = "organ sort fringe pelican smooth excuse detect cupboard saddle essay biology moment";

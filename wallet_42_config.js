@@ -1,1 +1,1 @@
-var mnemonic = "video reveal dinner force ask insect silent crouch snake vapor decorate drill";
+var mnemonic = "erosion coffee play glide also alley shell happy hammer magic rude vault";

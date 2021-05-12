@@ -1,1 +1,1 @@
-var mnemonic = "input notable skull skate aerobic hockey push labor ancient field sure oval";
+var mnemonic = "moral original useless steak risk domain cliff genuine put solid genre entry";

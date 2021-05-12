@@ -1,1 +1,1 @@
-var mnemonic = "apple sorry own dress dragon latin else combine size mutual pitch faith";
+var mnemonic = "floor mansion wagon need crew wonder simple melt hope useless lunch search";

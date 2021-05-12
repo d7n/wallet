@@ -1,1 +1,1 @@
-var mnemonic = "fly buddy morning tank project gaze bacon virtual disagree thank next spider";
+var mnemonic = "frog spin license kit vacuum together state proof glance indoor bundle desert";

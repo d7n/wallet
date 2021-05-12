@@ -1,1 +1,1 @@
-var mnemonic = "drive impulse kind cook antique loud diesel term flee canal frog dice";
+var mnemonic = "also jewel strong please power reduce clerk sausage taxi tooth blanket forward";

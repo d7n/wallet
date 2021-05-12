@@ -1,1 +1,1 @@
-var mnemonic = "cause language pioneer mutual card arctic angle drift door chaos fog runway";
+var mnemonic = "world burst consider boil elder crumble caught planet primary ecology shoulder portion";

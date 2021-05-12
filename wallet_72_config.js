@@ -1,1 +1,1 @@
-var mnemonic = "project toward squirrel either dignity warrior hen pool spread catalog bread hour";
+var mnemonic = "day camera chimney crush draft link manual left avocado boy drum cable";

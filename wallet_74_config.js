@@ -1,1 +1,1 @@
-var mnemonic = "use phone hope engine seminar give humor exile fabric insane sell emerge";
+var mnemonic = "alpha dutch pig glow warm junior stereo ribbon biology fever bitter earth";

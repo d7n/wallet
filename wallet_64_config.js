@@ -1,1 +1,1 @@
-var mnemonic = "melody east april debris laptop breeze obvious mango cabin gloom treat pistol";
+var mnemonic = "ball net pair night napkin bubble park force cup fee confirm perfect";

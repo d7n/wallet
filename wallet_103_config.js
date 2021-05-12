@@ -1,1 +1,1 @@
-var mnemonic = "moon rifle naive key purse sick host mule tail kingdom tenant false";
+var mnemonic = "physical concert news help spider parrot connect sustain tube about fresh tomato";

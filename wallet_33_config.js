@@ -1,1 +1,1 @@
-var mnemonic = "cable style lucky mad mesh addict audit dirt fog gossip job feel";
+var mnemonic = "emerge paddle coin jump suggest used stone accident transfer paper type pencil";

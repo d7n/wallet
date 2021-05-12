@@ -1,1 +1,1 @@
-var mnemonic = "success frame polar finish ginger federal library label unique bag quick decrease";
+var mnemonic = "double sugar sausage boost globe post rabbit tag youth hair image panda";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp expect monster grain amazing cable elite ramp shy uniform industry announce";
+var mnemonic = "silk asset fiction float load prefer enroll crane equip dilemma example bus";

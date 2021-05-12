@@ -1,1 +1,1 @@
-var mnemonic = "broom six convince what pause beyond endorse soup vehicle people february relief";
+var mnemonic = "cluster city paddle decorate become clap spike throw emotion thought butter cluster";

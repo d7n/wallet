@@ -1,1 +1,1 @@
-var mnemonic = "crime step auto smooth exile velvet empty kid organ make leave baby";
+var mnemonic = "truth prepare shock talk judge say purity avocado keep medal minute fat";

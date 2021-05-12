@@ -1,1 +1,1 @@
-var mnemonic = "version lemon indicate breeze mean finger best crush steak foot cloth rain";
+var mnemonic = "liquid law supply learn habit retire wave bread weasel right ladder comic";

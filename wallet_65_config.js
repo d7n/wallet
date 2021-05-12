@@ -1,1 +1,1 @@
-var mnemonic = "rich bread intact satoshi upon barely hobby ladder viable raise speak conduct";
+var mnemonic = "tired desert smart airport route horn curtain brother transfer unable position meat";

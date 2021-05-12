@@ -1,1 +1,1 @@
-var mnemonic = "net nation festival skate double bicycle wave kitten corn gauge sketch piece";
+var mnemonic = "plunge west fit hold parade scan feed correct input giant disorder chicken";

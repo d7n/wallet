@@ -1,1 +1,1 @@
-var mnemonic = "tumble steak bomb dinosaur dry stove deliver later mobile account evil farm";
+var mnemonic = "cement price insane engine industry lobster thank settle reward double arena chuckle";

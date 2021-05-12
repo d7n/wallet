@@ -1,1 +1,1 @@
-var mnemonic = "few bid decline party used wave reject metal size scout burger vague";
+var mnemonic = "digital churn sample fancy smart sphere assault sphere order naive expect that";

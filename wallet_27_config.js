@@ -1,1 +1,1 @@
-var mnemonic = "window rich gentle kitten cruise panic sister forest march lift sudden fence";
+var mnemonic = "alley wonder other mechanic paper impact zone pink shaft soft capable side";

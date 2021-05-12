@@ -1,1 +1,1 @@
-var mnemonic = "blossom cook drift piece hidden forum swap park oak razor wheel credit";
+var mnemonic = "deputy wheat lava kiss sudden together vicious sketch poem swallow dutch hero";

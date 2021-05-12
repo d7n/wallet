@@ -1,1 +1,1 @@
-var mnemonic = "scale promote elder brush insane panda asset face public expose clay two";
+var mnemonic = "attack analyst problem execute enemy pluck peasant this forest piano off gift";

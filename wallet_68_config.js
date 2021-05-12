@@ -1,1 +1,1 @@
-var mnemonic = "rookie enrich fun endless dune leisure laundry arena lizard shove okay absent";
+var mnemonic = "capital scan affair tree survey old lab pigeon shell zero attack drive";

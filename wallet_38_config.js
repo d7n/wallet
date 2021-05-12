@@ -1,1 +1,1 @@
-var mnemonic = "cousin book like sword naive major level math donor remind enemy suggest";
+var mnemonic = "shaft pudding bonus agent potato yard expose interest barely harvest mention famous";

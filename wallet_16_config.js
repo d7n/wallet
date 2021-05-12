@@ -1,1 +1,1 @@
-var mnemonic = "process dinner casino cruise market expose system bounce shuffle guilt bicycle suspect";
+var mnemonic = "parade guilt quarter rubber grit hospital toddler trash abstract lucky brave shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant wheat mimic afraid carry bleak cheese moon crumble uncover useless kick";
+var mnemonic = "catch lock wise wagon ensure dynamic donor good helmet swim helmet tattoo";

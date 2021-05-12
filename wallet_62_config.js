@@ -1,1 +1,1 @@
-var mnemonic = "control creek long scissors loop cabin blossom critic pool cushion dilemma already";
+var mnemonic = "ask various add lion pudding emotion extra later burden plug income destroy";

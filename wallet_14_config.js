@@ -1,1 +1,1 @@
-var mnemonic = "pipe reject dose army jelly auto judge enhance shadow crowd method market";
+var mnemonic = "begin task social film venture orbit question tilt thrive manage measure casual";

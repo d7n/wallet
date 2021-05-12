@@ -1,1 +1,1 @@
-var mnemonic = "deer snack arctic arrange scout leg inside melt rose motor solution correct";
+var mnemonic = "globe economy fiction casual business tomato country warm cheese census enough fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "juice domain unhappy argue egg torch human nothing dose borrow discover village";
+var mnemonic = "sadness anchor grow flavor hungry jealous fortune spoon gym dance gaze velvet";

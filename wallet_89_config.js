@@ -1,1 +1,1 @@
-var mnemonic = "final unit fatigue dust position fiber deputy adult shaft duty paddle current";
+var mnemonic = "silent stable pool jeans weather moon middle garage celery pool smart sport";

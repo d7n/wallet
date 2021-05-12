@@ -1,1 +1,1 @@
-var mnemonic = "hamster garment uphold stadium century very typical cement task pupil float century";
+var mnemonic = "alley school three spike like limit twelve grocery process number napkin behave";

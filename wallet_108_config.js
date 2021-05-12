@@ -1,1 +1,1 @@
-var mnemonic = "school someone host repair demand dwarf web skill twin eyebrow treat cram";
+var mnemonic = "affair whisper slight human peace game limit right dilemma hurt found girl";

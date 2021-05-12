@@ -1,1 +1,1 @@
-var mnemonic = "bright garden attract impact hill elite drastic leaf vast coin curve deliver";
+var mnemonic = "vacuum nephew sword virus have cabin drop catalog gadget flavor step food";

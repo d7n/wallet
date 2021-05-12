@@ -1,1 +1,1 @@
-var mnemonic = "claim library despair young tomato social govern arrange front agree early mule";
+var mnemonic = "captain network theory answer suggest screen cereal play clever very wrap leisure";

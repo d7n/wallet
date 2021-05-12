@@ -1,1 +1,1 @@
-var mnemonic = "chalk rebel stay squeeze raise device nation top hour suspect increase frost";
+var mnemonic = "payment erosion jungle cactus federal recycle minute ribbon occur movie coin best";

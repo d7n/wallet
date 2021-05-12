@@ -1,1 +1,1 @@
-var mnemonic = "noble emerge sauce deal window time version table royal image afford voice";
+var mnemonic = "cloth quote spray cloth found train believe helmet indicate weasel help retire";

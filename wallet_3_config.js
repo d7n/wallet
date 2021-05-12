@@ -1,1 +1,1 @@
-var mnemonic = "warfare catch mind worry express duck moral warrior outdoor depend horror muffin";
+var mnemonic = "below culture code disease trade boat crater sound snow enough enemy jelly";

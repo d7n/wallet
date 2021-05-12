@@ -1,1 +1,1 @@
-var mnemonic = "hazard coffee lab orphan box judge recycle pencil tragic upper verb van";
+var mnemonic = "mother wonder hard bottom diagram gentle cancel street wedding crater clarify jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "bright course captain people sustain long gun glass antique gate forget smooth";
+var mnemonic = "turn fossil cattle faith dragon limb tower spirit awesome myself affair fault";

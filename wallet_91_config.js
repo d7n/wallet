@@ -1,1 +1,1 @@
-var mnemonic = "client begin dragon over range crisp match cable jelly shrug dog glare";
+var mnemonic = "flower exotic love cage blouse strong tongue kite army cliff race obtain";

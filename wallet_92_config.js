@@ -1,1 +1,1 @@
-var mnemonic = "winner fuel problem adapt choice then giggle donor fire oil earth coil";
+var mnemonic = "skirt vibrant sting act option kick frost park fire prosper deposit maze";

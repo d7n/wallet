@@ -1,1 +1,1 @@
-var mnemonic = "join option face lion profit radar throw velvet walnut artwork second helmet";
+var mnemonic = "album unlock future borrow surface typical relax coffee plastic frequent leader autumn";

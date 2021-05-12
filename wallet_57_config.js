@@ -1,1 +1,1 @@
-var mnemonic = "art regret erosion address rough mother swing angry argue axis treat shell";
+var mnemonic = "safe entire inherit veteran kind vivid ivory hurry escape rice viable curtain";

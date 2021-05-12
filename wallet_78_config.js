@@ -1,1 +1,1 @@
-var mnemonic = "way control bunker govern bleak pudding salt veteran model poverty visa position";
+var mnemonic = "unit interest antenna dizzy laundry obvious shallow open pen neither unique enrich";

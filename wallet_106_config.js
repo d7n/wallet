@@ -1,1 +1,1 @@
-var mnemonic = "behave photo cage hungry symptom answer wire engage volcano soldier flush stove";
+var mnemonic = "practice car size meat apple family reflect denial ring travel size vendor";

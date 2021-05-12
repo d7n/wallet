@@ -1,1 +1,1 @@
-var mnemonic = "motor tenant rebel country drift vendor steak room pizza caught over vanish";
+var mnemonic = "speed ordinary tool garden lake panda paper fresh wasp cabin clip also";

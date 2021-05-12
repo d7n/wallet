@@ -1,1 +1,1 @@
-var mnemonic = "home neglect garlic issue crush window toilet phrase nuclear file bag service";
+var mnemonic = "scrap setup leaf million mixed defense shoulder entire task treat gallery orchard";

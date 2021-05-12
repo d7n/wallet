@@ -1,1 +1,1 @@
-var mnemonic = "mule select garbage trial moon thunder foil laugh clay feature elder shrimp";
+var mnemonic = "rice tuna negative album ladder slam region daring tattoo jewel like mixture";

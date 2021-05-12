@@ -1,1 +1,1 @@
-var mnemonic = "sweet blossom history fence vocal spare strong deer hawk split behave radio";
+var mnemonic = "joke board parrot isolate imitate area pencil birth churn mistake used photo";

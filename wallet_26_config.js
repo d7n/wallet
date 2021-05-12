@@ -1,1 +1,1 @@
-var mnemonic = "loyal arrest video monster essence stadium page width change novel breeze boss";
+var mnemonic = "wisdom bitter rifle afford crush trade away broom farm bleak habit tilt";

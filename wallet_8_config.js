@@ -1,1 +1,1 @@
-var mnemonic = "toddler thrive project bargain other general song spoil afford drop genius burden";
+var mnemonic = "quote convince chat alien dice improve sword section come coyote general guard";

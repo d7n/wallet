@@ -1,1 +1,1 @@
-var mnemonic = "donor impact food satoshi chat fault potato punch require earn review rule";
+var mnemonic = "pizza shiver bulk brush panther absent power have become slight patch ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "head actress cancel moment hurdle cash mind great arm ice unfold trash";
+var mnemonic = "color rather valley swallow cheese rose symptom soldier inmate fever extend city";

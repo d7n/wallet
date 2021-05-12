@@ -1,1 +1,1 @@
-var mnemonic = "resource vocal era pear bar ensure goat much vast feature square unit";
+var mnemonic = "bounce fault exile protect illness long relax hover cable elevator wagon lounge";

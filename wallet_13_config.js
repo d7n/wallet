@@ -1,1 +1,1 @@
-var mnemonic = "decorate warm sponsor response series gate plate entire pink comfort key clip";
+var mnemonic = "cherry inquiry task company update bonus put marriage earth face flock confirm";

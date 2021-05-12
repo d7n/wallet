@@ -1,1 +1,1 @@
-var mnemonic = "film teach impulse anger acquire april differ wagon quantum twice portion trigger";
+var mnemonic = "easily future soft sense return tank visa between alone fan rebuild solid";

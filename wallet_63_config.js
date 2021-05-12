@@ -1,1 +1,1 @@
-var mnemonic = "motor board panic foot chapter praise era steel develop birth van crop";
+var mnemonic = "scrap ecology tape decline super invest sunset autumn used warfare inject furnace";

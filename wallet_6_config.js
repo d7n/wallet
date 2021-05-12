@@ -1,1 +1,1 @@
-var mnemonic = "meat crazy butter round infant boring before mail tiger similar ice neutral";
+var mnemonic = "enable abuse harsh evoke cotton awesome coil truth author soon crouch edit";

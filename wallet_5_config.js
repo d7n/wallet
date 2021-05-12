@@ -1,1 +1,1 @@
-var mnemonic = "talent swing foot disagree coyote sorry unveil share kit visa shuffle meat";
+var mnemonic = "auto renew order naive trip problem edge pupil broom false flight regret";

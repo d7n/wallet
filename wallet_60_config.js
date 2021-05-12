@@ -1,1 +1,1 @@
-var mnemonic = "cost mesh entry smart lonely wing juice obscure ranch cream often resemble";
+var mnemonic = "want filter total energy wrong rib lady agree wait desk follow prepare";

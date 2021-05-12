@@ -1,1 +1,1 @@
-var mnemonic = "senior educate jar trigger orient absorb market toast cushion above little bar";
+var mnemonic = "sick glimpse disagree teach pave raise initial tortoise gorilla creek paddle foot";

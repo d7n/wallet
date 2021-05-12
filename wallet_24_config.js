@@ -1,1 +1,1 @@
-var mnemonic = "exact thrive key hidden fiscal sustain stay modify orient craft endorse release";
+var mnemonic = "deny music series fold boy welcome taste present census miracle slender coach";

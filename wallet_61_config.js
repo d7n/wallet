@@ -1,1 +1,1 @@
-var mnemonic = "orphan exercise cross vicious cupboard replace youth noise mix nut draw exist";
+var mnemonic = "lesson coil gallery sock about chalk afford risk address win column alone";

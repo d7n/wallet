@@ -1,1 +1,1 @@
-var mnemonic = "manage confirm stick move walk type bomb become island win chaos code";
+var mnemonic = "grant canoe armor speak napkin cluster menu talk bottom divide leaf choose";
