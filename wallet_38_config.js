@@ -1,1 +1,1 @@
-var mnemonic = "fitness little try tribe post pottery rebel twice wide orient wear legal";
+var mnemonic = "ask text demand jacket vivid stairs illness globe list rural brother night";

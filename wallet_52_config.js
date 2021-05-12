@@ -1,1 +1,1 @@
-var mnemonic = "luxury vital mix capital design fetch transfer permit lucky excite regular matrix";
+var mnemonic = "main addict cake rubber leader fatigue seed pizza concert build great until";

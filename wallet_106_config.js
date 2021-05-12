@@ -1,1 +1,1 @@
-var mnemonic = "item steak reunion dynamic human material lawsuit connect quality melody pass lecture";
+var mnemonic = "truth flame barrel bargain hammer found pioneer shine monkey reject water sure";

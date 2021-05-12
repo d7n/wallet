@@ -1,1 +1,1 @@
-var mnemonic = "only border sleep wire honey text minute pony regret radio token enable";
+var mnemonic = "collect pass laptop pupil suit hurry dream air fiction blast frog response";

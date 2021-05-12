@@ -1,1 +1,1 @@
-var mnemonic = "pitch valley cluster rely cinnamon drastic usual casual trouble bargain double egg";
+var mnemonic = "crowd hair march museum hammer depend roof diesel coach series dune wrist";

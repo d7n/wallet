@@ -1,1 +1,1 @@
-var mnemonic = "bubble road future region catch food debate question diet fine need orphan";
+var mnemonic = "mushroom bamboo weasel melt manual size wild cream maximum dash slam inner";

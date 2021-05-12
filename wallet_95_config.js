@@ -1,1 +1,1 @@
-var mnemonic = "bunker hen mobile alpha blush coffee push sauce rigid inner similar seat";
+var mnemonic = "unit task radio service usual adult bracket tone panel budget athlete upon";

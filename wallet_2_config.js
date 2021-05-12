@@ -1,1 +1,1 @@
-var mnemonic = "crane aerobic dial canoe birth easily caught glove decide essence foam wagon";
+var mnemonic = "woman bean bean tissue foam punch buddy pottery ramp fox face cement";

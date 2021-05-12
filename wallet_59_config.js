@@ -1,1 +1,1 @@
-var mnemonic = "fragile scare fish disease luggage buzz fold wire genre key follow balcony";
+var mnemonic = "fire faith negative omit extend rely leopard maximum wisdom powder eagle squeeze";

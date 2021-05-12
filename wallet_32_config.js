@@ -1,1 +1,1 @@
-var mnemonic = "ripple muscle mention expand such safe play indicate sponsor park barely jewel";
+var mnemonic = "anchor accident office brass journey beach replace ball energy tower moral oppose";

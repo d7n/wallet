@@ -1,1 +1,1 @@
-var mnemonic = "erode document mention arm scissors govern across print brick shiver oxygen domain";
+var mnemonic = "bracket annual gun ask wood vapor fashion two fame liquid drop amount";

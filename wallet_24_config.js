@@ -1,1 +1,1 @@
-var mnemonic = "wife around normal chalk stool pilot predict wide educate scare gossip rebel";
+var mnemonic = "taxi fox awkward typical portion symbol glue surround fish boat oval bench";

@@ -1,1 +1,1 @@
-var mnemonic = "medal orient pumpkin rare minute voyage forum spatial concert clay cost seven";
+var mnemonic = "conduct topic quote alcohol cement admit title stove kid east run suit";

@@ -1,1 +1,1 @@
-var mnemonic = "shove kitchen wedding text defy tuna order midnight weapon toddler seven upgrade";
+var mnemonic = "jar can rug business time scout sword eagle flash utility assume submit";

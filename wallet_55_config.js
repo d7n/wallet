@@ -1,1 +1,1 @@
-var mnemonic = "myself garden fame crop link blouse dumb hero matter caught olympic invest";
+var mnemonic = "pyramid disease bomb census love trigger family grant label rocket reunion same";

@@ -1,1 +1,1 @@
-var mnemonic = "zero special burden main shield mass woman mean arch exact original multiply";
+var mnemonic = "margin edit hat legal tail deny brass pair describe rose rude milk";

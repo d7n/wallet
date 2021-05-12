@@ -1,1 +1,1 @@
-var mnemonic = "juice warm hurt width sure please vote drastic elephant tape cave spot";
+var mnemonic = "push employ angle brass discover tomato water inject clutch wait double defy";

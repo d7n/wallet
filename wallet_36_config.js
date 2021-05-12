@@ -1,1 +1,1 @@
-var mnemonic = "real attend hill juice west bullet alert this stairs monkey resist fruit";
+var mnemonic = "grass milk hawk bring normal you vehicle enable mimic shoe box bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "youth uncle funny strategy fun happy liar subject benefit weapon similar winter";
+var mnemonic = "employ father tip awake pumpkin piece sure odor scissors field switch music";

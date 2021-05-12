@@ -1,1 +1,1 @@
-var mnemonic = "gossip pulp document bamboo digital forget wine hollow enter dress pilot winner";
+var mnemonic = "fancy slim swing diamond promote knee major canoe suspect section coil inmate";

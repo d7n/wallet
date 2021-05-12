@@ -1,1 +1,1 @@
-var mnemonic = "urge candy soccer symptom december episode kiss grief usual skirt unfair morning";
+var mnemonic = "jump knock pepper cabbage lift emerge grit wonder panda wisdom leaf carry";

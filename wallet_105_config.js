@@ -1,1 +1,1 @@
-var mnemonic = "aim topic will story umbrella arrow predict valid punch shallow mixture uphold";
+var mnemonic = "raccoon drink sentence rally gesture inside scene retreat salad pave crazy waste";

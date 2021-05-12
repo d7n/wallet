@@ -1,1 +1,1 @@
-var mnemonic = "yard crystal feed mother gold globe armed mansion crunch nephew pioneer cage";
+var mnemonic = "access head useless hover primary syrup silent income snow small sausage member";

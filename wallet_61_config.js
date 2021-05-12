@@ -1,1 +1,1 @@
-var mnemonic = "beach afford glad rifle layer achieve purity black require radar orient example";
+var mnemonic = "bubble trash peace neck element try result dirt occur possible useless absent";

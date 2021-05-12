@@ -1,1 +1,1 @@
-var mnemonic = "office team foam dice social ketchup salt original skull popular text hole";
+var mnemonic = "point jewel topic salad profit order language hero planet deny display couple";

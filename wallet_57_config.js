@@ -1,1 +1,1 @@
-var mnemonic = "nasty champion when visual identify dinosaur credit nest fame afraid slogan annual";
+var mnemonic = "cement artwork brand liberty issue staff urge roast fragile road art rival";

@@ -1,1 +1,1 @@
-var mnemonic = "race goat tuition negative letter leg mix stem inflict scatter message emerge";
+var mnemonic = "rough liar cradle double shield theory buzz pluck indoor morning venue diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "word swap pitch unveil remember panic text matrix isolate engine asset innocent";
+var mnemonic = "wedding soccer clean syrup raven life document grief base record harsh front";

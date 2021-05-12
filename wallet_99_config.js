@@ -1,1 +1,1 @@
-var mnemonic = "sudden now change grant icon never laugh annual response fabric alert eager";
+var mnemonic = "tooth exile evolve pet nation thumb ramp boy push best magic bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "frown split enable season judge quality gold wild gun wise yellow urban";
+var mnemonic = "word ahead kangaroo label abuse organ hospital split actual try keen nice";

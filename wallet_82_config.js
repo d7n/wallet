@@ -1,1 +1,1 @@
-var mnemonic = "hazard tobacco ostrich near phrase proof enemy copy margin caution tell kingdom";
+var mnemonic = "feed soldier pass season submit junior destroy champion lend heavy same rifle";

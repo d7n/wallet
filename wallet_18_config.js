@@ -1,1 +1,1 @@
-var mnemonic = "corn behind fix gloom angle chair table disagree flat tail gasp trick";
+var mnemonic = "island okay cloth code this attack east ritual provide float pill fluid";

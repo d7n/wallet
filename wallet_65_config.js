@@ -1,1 +1,1 @@
-var mnemonic = "domain slim radar state bag fun advice panda destroy anxiety patch source";
+var mnemonic = "song search ceiling want nature hello action finger become woman soul sugar";

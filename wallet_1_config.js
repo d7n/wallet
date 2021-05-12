@@ -1,1 +1,1 @@
-var mnemonic = "rate mansion best detect broccoli saddle that animal tired awesome stable heavy";
+var mnemonic = "interest attend suggest fiction thumb gloom logic destroy aerobic fatal tube fury";

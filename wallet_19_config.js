@@ -1,1 +1,1 @@
-var mnemonic = "concert inherit skull snake point outer news decrease lawsuit chalk company attitude";
+var mnemonic = "viable pumpkin flight faith host skill mule sheriff online symbol direct panel";

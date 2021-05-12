@@ -1,1 +1,1 @@
-var mnemonic = "foster neck spare demise drive ginger decline region candy then much giant";
+var mnemonic = "segment ghost device topic mango hammer ranch fork quote pole attack seminar";

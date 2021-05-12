@@ -1,1 +1,1 @@
-var mnemonic = "unaware donkey make team leader rice bread relief slush business depart sheriff";
+var mnemonic = "impose october know black junk wrist size assume veteran twenty vague thing";

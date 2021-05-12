@@ -1,1 +1,1 @@
-var mnemonic = "social duck food car skull normal foster color brain butter aunt royal";
+var mnemonic = "crash use will surprise motion accuse sword nice this mouse state daring";

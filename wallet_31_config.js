@@ -1,1 +1,1 @@
-var mnemonic = "above aim twin anchor jeans prevent grief series equip wide above column";
+var mnemonic = "coast apology excuse fuel census cheap truck shallow health valve economy mass";

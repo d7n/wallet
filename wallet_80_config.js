@@ -1,1 +1,1 @@
-var mnemonic = "buyer envelope ski marble thunder love minor wrap room voyage squeeze clever";
+var mnemonic = "sense senior economy illegal base mom scene radio fuel tobacco path lawsuit";

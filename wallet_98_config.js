@@ -1,1 +1,1 @@
-var mnemonic = "hire sail spike okay sample income genius cage fossil trouble gather ensure";
+var mnemonic = "bulb panther goddess usual wrap insect item ring submit clump develop math";

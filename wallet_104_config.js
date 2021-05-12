@@ -1,1 +1,1 @@
-var mnemonic = "awake shock wage cycle umbrella enforce coffee review such domain spend umbrella";
+var mnemonic = "island useless innocent main inflict sun alpha laugh crumble such reveal inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "lab grape enact park napkin crash boy tape tongue lawn initial palace";
+var mnemonic = "unknown birth day notable diesel bid position language story solid record push";

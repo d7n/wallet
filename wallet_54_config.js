@@ -1,1 +1,1 @@
-var mnemonic = "west zebra carpet smile thunder dad draft toilet expand essay deliver any";
+var mnemonic = "opera solar abstract iron scare security neck oppose curve venture power enough";

@@ -1,1 +1,1 @@
-var mnemonic = "help demand remember ancient garden despair you assume bounce symbol dwarf fan";
+var mnemonic = "over tissue treat slush enroll congress cat dilemma bottom angry flower hurt";

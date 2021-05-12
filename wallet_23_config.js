@@ -1,1 +1,1 @@
-var mnemonic = "minute analyst smooth will anxiety choice core confirm feature remain either soul";
+var mnemonic = "patrol man sniff trophy input smart grace dove else page skull lock";

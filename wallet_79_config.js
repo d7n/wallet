@@ -1,1 +1,1 @@
-var mnemonic = "inmate owner pistol topple trash cook excuse mosquito spot metal nothing purchase";
+var mnemonic = "earth salad skin language speed naive lobster retreat spirit mandate destroy ghost";

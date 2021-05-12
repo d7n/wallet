@@ -1,1 +1,1 @@
-var mnemonic = "child prison immune pretty reform reform cycle girl lounge labor gas dune";
+var mnemonic = "document gasp above acoustic under enrich strategy jacket topic member galaxy bounce";

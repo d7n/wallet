@@ -1,1 +1,1 @@
-var mnemonic = "alien draft trade obvious genuine sing coast transfer wheat icon outer attitude";
+var mnemonic = "bomb public high you piece grain close orchard stadium remain eye parent";

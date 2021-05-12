@@ -1,1 +1,1 @@
-var mnemonic = "debate fortune grab chronic fiction series educate obtain water truth candy robust";
+var mnemonic = "radar camp grape middle quit gospel unit picnic empty about ticket ancient";

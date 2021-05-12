@@ -1,1 +1,1 @@
-var mnemonic = "cargo success autumn exhibit knife engine erosion priority sell stick word lobster";
+var mnemonic = "people nuclear spray uphold toast soap dash depth human envelope dance panic";

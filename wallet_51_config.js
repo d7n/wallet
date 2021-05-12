@@ -1,1 +1,1 @@
-var mnemonic = "ten airport often pony earn entry actress field bone film actor spare";
+var mnemonic = "sunset muffin crane sport innocent basket hard amount eternal airport toy peasant";

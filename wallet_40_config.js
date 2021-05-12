@@ -1,1 +1,1 @@
-var mnemonic = "lucky firm salute feature science shed fix obtain topic mushroom raw aunt";
+var mnemonic = "choice galaxy dragon noble summer color gym seven giraffe used behind slot";

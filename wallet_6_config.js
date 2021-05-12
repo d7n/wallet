@@ -1,1 +1,1 @@
-var mnemonic = "secret dune swing destroy season health token design then barely novel shy";
+var mnemonic = "suggest hurt wide mask blouse reflect certain awkward topic six victory office";

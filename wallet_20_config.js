@@ -1,1 +1,1 @@
-var mnemonic = "oval burst party actual run icon okay nothing rocket sustain mushroom taxi";
+var mnemonic = "vapor craft knife bachelor song giggle suffer project post canvas seven fork";

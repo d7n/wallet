@@ -1,1 +1,1 @@
-var mnemonic = "follow ozone castle across negative park scorpion truly fat subway wagon easy";
+var mnemonic = "document indoor fortune earth kid history pair share soft eagle donor lift";

@@ -1,1 +1,1 @@
-var mnemonic = "frost such view unit dust deal express clerk pyramid olympic industry fever";
+var mnemonic = "expand until fog famous educate relief cupboard umbrella admit toward salad nest";

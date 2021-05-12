@@ -1,1 +1,1 @@
-var mnemonic = "wink advice gauge abandon enrich affair bracket easy sorry buddy key meadow";
+var mnemonic = "awkward bulb loan rebel curve little side fault corn loud check lyrics";

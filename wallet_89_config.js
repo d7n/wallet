@@ -1,1 +1,1 @@
-var mnemonic = "wood devote pool element fault pioneer edit wish inner other identify squeeze";
+var mnemonic = "scan jeans track edge time expose educate crane blanket ski agent grocery";

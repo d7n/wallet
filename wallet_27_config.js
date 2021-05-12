@@ -1,1 +1,1 @@
-var mnemonic = "project island aware erode van woman eager term roast jaguar bonus faith";
+var mnemonic = "shed wrestle omit stand spider brain traffic remember genre chapter canyon half";

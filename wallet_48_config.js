@@ -1,1 +1,1 @@
-var mnemonic = "cat perfect fly invest sudden protect sample prevent avocado dad prosper foster";
+var mnemonic = "faint leisure benefit legal case bachelor fury denial wagon execute social rifle";

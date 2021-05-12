@@ -1,1 +1,1 @@
-var mnemonic = "enjoy unique garden private fever find blur worth theory impose letter rain";
+var mnemonic = "seat nation ridge goddess debris useful special fresh artist people swamp buzz";

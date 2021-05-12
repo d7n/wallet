@@ -1,1 +1,1 @@
-var mnemonic = "hood height unveil depth whip polar glance burden wood across pistol twin";
+var mnemonic = "jacket thing upgrade example vague surface foot occur spatial shuffle top sight";

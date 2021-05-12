@@ -1,1 +1,1 @@
-var mnemonic = "toward corn patient oxygen relief tonight novel feel forward dog about nerve";
+var mnemonic = "catch hammer social call coast husband cruel charge motion paddle hour false";

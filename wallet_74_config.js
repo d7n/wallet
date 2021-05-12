@@ -1,1 +1,1 @@
-var mnemonic = "anxiety knee tunnel gallery advance depth entry bleak tray draft police shiver";
+var mnemonic = "whip long snow industry destroy wait atom park fruit motion zoo hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "prison trophy sport blur spare slow ring scare bus lecture danger creek";
+var mnemonic = "common brick when rebel degree token science muscle moral saddle crater flee";

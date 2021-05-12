@@ -1,1 +1,1 @@
-var mnemonic = "joke visual clean flower input holiday relief panda region author inquiry brand";
+var mnemonic = "virus unfair cannon calm hammer human chicken obvious run senior tell luxury";

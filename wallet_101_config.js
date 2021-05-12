@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dizzy drama august spawn army draw alpha diamond arrange example plunge";
+var mnemonic = "expect glance place ask tomato recall library frame nothing history ranch pass";

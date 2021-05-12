@@ -1,1 +1,1 @@
-var mnemonic = "pear team cover situate clock meat sister practice narrow glue denial weasel";
+var mnemonic = "start mention enlist nice buffalo major else torch net wage favorite mean";

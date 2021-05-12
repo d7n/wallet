@@ -1,1 +1,1 @@
-var mnemonic = "act better reunion inhale remove parade welcome soul knee swim leopard reflect";
+var mnemonic = "crew notice market heavy solar six search trick tent happy owner crowd";

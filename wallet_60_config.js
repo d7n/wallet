@@ -1,1 +1,1 @@
-var mnemonic = "say kite slight power dutch view spring tide near drama miracle pelican";
+var mnemonic = "upper giraffe clip blood veteran color early escape draft rain pride eight";

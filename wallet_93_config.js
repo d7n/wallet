@@ -1,1 +1,1 @@
-var mnemonic = "cup become click throw acid fluid decade wool struggle life agree allow";
+var mnemonic = "deny chapter lemon skirt way combine must cheese scrap column vacant high";

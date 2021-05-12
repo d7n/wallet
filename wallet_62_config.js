@@ -1,1 +1,1 @@
-var mnemonic = "unusual curtain crop sugar barrel rifle legend wet bright way electric purpose";
+var mnemonic = "tool solve element enrich doll culture hybrid latin winner draft dice loud";

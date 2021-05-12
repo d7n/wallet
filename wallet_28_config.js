@@ -1,1 +1,1 @@
-var mnemonic = "pony pledge document shell motion you life wide tired roof water roast";
+var mnemonic = "stereo table link dress there hurry feed race casino chimney chest trophy";

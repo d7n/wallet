@@ -1,1 +1,1 @@
-var mnemonic = "quantum sheriff agent produce kit squeeze sausage crystal analyst object quote mouse";
+var mnemonic = "curious lemon burger access age next hotel person tray multiply follow witness";

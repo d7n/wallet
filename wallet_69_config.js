@@ -1,1 +1,1 @@
-var mnemonic = "solid volume survey luggage zoo paddle impulse offer atom unable derive ozone";
+var mnemonic = "innocent vapor sleep scheme olympic help slush payment afford tragic shuffle pluck";

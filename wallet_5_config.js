@@ -1,1 +1,1 @@
-var mnemonic = "crash release goose knock near weird topic essay genius steak gospel verb";
+var mnemonic = "forum lady dune lamp doctor outer genre toy lawn invest bike wonder";

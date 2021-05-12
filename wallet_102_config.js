@@ -1,1 +1,1 @@
-var mnemonic = "shrimp desk live limb lunar nation unknown coach bright depend artist found";
+var mnemonic = "diagram spare index human match insane process pass ensure sugar festival notable";

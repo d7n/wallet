@@ -1,1 +1,1 @@
-var mnemonic = "enemy burden wool pitch general around deposit swap fix banner maple eager";
+var mnemonic = "near level stamp flip cruise risk flush burst shadow hint field crawl";

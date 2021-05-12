@@ -1,1 +1,1 @@
-var mnemonic = "local pond truck average relief debris major list puzzle enemy supply need";
+var mnemonic = "junior sunset flush episode decade since garment where slice unaware wreck merit";

@@ -1,1 +1,1 @@
-var mnemonic = "color toddler vintage bridge spring snake believe column ribbon frame fruit trip";
+var mnemonic = "alcohol dismiss suspect motor pride injury middle sick stone aisle rough drastic";

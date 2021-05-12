@@ -1,1 +1,1 @@
-var mnemonic = "knee poverty foam carbon century order review desert mammal boy rabbit flock";
+var mnemonic = "crisp flush dad behave apart junk cup middle pill boil expand genuine";

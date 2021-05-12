@@ -1,1 +1,1 @@
-var mnemonic = "blood poem reveal focus penalty over soccer define view congress enrich color";
+var mnemonic = "over hurdle enjoy urban useless cannon better dove industry produce early debate";

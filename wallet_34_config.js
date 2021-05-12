@@ -1,1 +1,1 @@
-var mnemonic = "choose talent divorce repair increase dutch brass about depend cotton spread hello";
+var mnemonic = "kiwi fashion catalog couple neglect battle start funny endorse rate hungry laptop";

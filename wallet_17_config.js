@@ -1,1 +1,1 @@
-var mnemonic = "boring grocery fine hair better runway once joy sheriff canyon faith bridge";
+var mnemonic = "cabbage mushroom slush clean transfer rifle cable spring puzzle recall pull brave";

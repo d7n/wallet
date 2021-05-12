@@ -1,1 +1,1 @@
-var mnemonic = "tattoo doll ginger coast hollow slight panda leave section deer salute two";
+var mnemonic = "wine negative width identify cricket verb call toddler diagram off cube dune";

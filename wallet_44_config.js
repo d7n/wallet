@@ -1,1 +1,1 @@
-var mnemonic = "village answer deliver stand recycle elder decline final promote measure also flame";
+var mnemonic = "captain error dirt educate right pilot possible dilemma tuition violin cake length";

@@ -1,1 +1,1 @@
-var mnemonic = "when park romance chief inflict trust senior park remind drill prefer bar";
+var mnemonic = "cattle buzz upon camp because fan love erupt animal visa woman sound";

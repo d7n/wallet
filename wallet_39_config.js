@@ -1,1 +1,1 @@
-var mnemonic = "razor craft dolphin movie tree sweet broccoli tomato wise gentle sheriff assume";
+var mnemonic = "often extend dignity potato upper between woman roast quote embody churn lottery";
