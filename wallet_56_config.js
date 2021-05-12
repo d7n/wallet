@@ -1,1 +1,1 @@
-var mnemonic = "minimum fashion acquire bundle rebuild culture school high surprise rail moon gasp";
+var mnemonic = "napkin dose leader stairs topic exile save oppose conduct right body demise";

@@ -1,1 +1,1 @@
-var mnemonic = "room grab recipe glad damp blast olympic give fringe puppy hair fence";
+var mnemonic = "give cute replace churn match left neither modify little reunion stage design";

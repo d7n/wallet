@@ -1,1 +1,1 @@
-var mnemonic = "cruise demand match more reason bundle torch tone quantum used brick ecology";
+var mnemonic = "ball host defense aerobic comfort bottom obtain walk top twelve citizen tent";

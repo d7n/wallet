@@ -1,1 +1,1 @@
-var mnemonic = "mixed owner assist volcano wide column inside combine express decline laptop adult";
+var mnemonic = "stadium caution kiwi debate mirror insect remove nut often enable organ sunny";

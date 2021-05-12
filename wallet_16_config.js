@@ -1,1 +1,1 @@
-var mnemonic = "cotton slender unfold vast hobby tomato slab jewel undo bag lady wage";
+var mnemonic = "music ball pumpkin patch follow demand bottom table profit transfer two where";

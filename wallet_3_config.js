@@ -1,1 +1,1 @@
-var mnemonic = "asthma viable liar tell occur peasant spend citizen about alarm siren crush";
+var mnemonic = "tone already group nut pair mimic puzzle quit about clump wild axis";

@@ -1,1 +1,1 @@
-var mnemonic = "visit amazing cross tiny bag gadget belt gown sentence shift civil lunch";
+var mnemonic = "disorder unfold tuition local rocket upset deer awake this wall recycle liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "slim leopard foil bacon club mesh brass win chuckle goddess month bid";
+var mnemonic = "future upon absent giraffe fiber tenant gentle kiwi appear erase bring dog";

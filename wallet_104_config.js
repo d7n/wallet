@@ -1,1 +1,1 @@
-var mnemonic = "butter upon year canyon easy disease tenant give upgrade clip shoot army";
+var mnemonic = "enact zoo claw spray climb rubber betray style better mystery woman fatigue";

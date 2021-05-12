@@ -1,1 +1,1 @@
-var mnemonic = "service pipe measure analyst expect valley quit whip employ bike bundle cause";
+var mnemonic = "gadget walk merit donate live giraffe blur spend open sample injury human";

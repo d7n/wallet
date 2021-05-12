@@ -1,1 +1,1 @@
-var mnemonic = "doll royal trap cactus city shoulder setup slim purpose fever diet carry";
+var mnemonic = "world shift candy animal panel tuition scene elite warrior gesture wrist hood";

@@ -1,1 +1,1 @@
-var mnemonic = "version divert tuna lend teach combine narrow loop fiction limit half bottom";
+var mnemonic = "doctor present short lady mansion toss upon cloth tunnel cruel rain apology";

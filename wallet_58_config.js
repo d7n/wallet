@@ -1,1 +1,1 @@
-var mnemonic = "vanish pudding paper shuffle ethics place satoshi soap abstract budget main fatal";
+var mnemonic = "giant recall jaguar quiz column just cause rug differ volume room lake";

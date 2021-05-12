@@ -1,1 +1,1 @@
-var mnemonic = "manual club consider spike include food book leisure gossip concert oval clap";
+var mnemonic = "cruel attract trade few what extra link sand notable earn penalty rug";

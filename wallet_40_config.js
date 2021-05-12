@@ -1,1 +1,1 @@
-var mnemonic = "milk license eagle ladder jealous kiss recipe dutch future glare dad rapid";
+var mnemonic = "bonus verify cloth baby giraffe around stable country opera club lonely shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon immune maximum float utility liquid churn clog clutch noodle twice pupil";
+var mnemonic = "wife wreck tissue photo real jelly maze gesture flower merit tone provide";

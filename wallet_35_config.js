@@ -1,1 +1,1 @@
-var mnemonic = "comic wing cheese token bomb fit during ranch credit cannon twice first";
+var mnemonic = "joy slim lawsuit tank security grid pear feed betray ancient tail code";

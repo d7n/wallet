@@ -1,1 +1,1 @@
-var mnemonic = "style riot fruit tell blush trade negative photo tip fossil squeeze acquire";
+var mnemonic = "sentence midnight inside sketch evolve stand excess swim direct quote vibrant grape";

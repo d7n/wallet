@@ -1,1 +1,1 @@
-var mnemonic = "giant cake fire because report smooth maximum pipe mask step horror body";
+var mnemonic = "occur toddler remind delay drop funny detect height shuffle junk bomb velvet";

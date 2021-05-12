@@ -1,1 +1,1 @@
-var mnemonic = "shrug ivory tower regret limit stem gaze orbit urge obey load avocado";
+var mnemonic = "reunion find crazy parent amazing hover ketchup stand fire planet often pill";

@@ -1,1 +1,1 @@
-var mnemonic = "once gown result elephant entire portion negative burger random castle tunnel neck";
+var mnemonic = "detail coil ritual wish post country night brick year angry neither argue";

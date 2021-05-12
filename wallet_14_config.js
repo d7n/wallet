@@ -1,1 +1,1 @@
-var mnemonic = "repair denial term sister negative beyond weapon snake fatal enrich keen slice";
+var mnemonic = "bird oak hazard gate collect annual color prize cigar enrich catalog bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "monster only flash normal calm leader quiz height civil coin dolphin design";
+var mnemonic = "chat pluck model total spice oak elegant exhaust sadness motor kitten cash";

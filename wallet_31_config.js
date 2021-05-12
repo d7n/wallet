@@ -1,1 +1,1 @@
-var mnemonic = "arrest easy miracle drink deal buffalo round outer rotate income spy economy";
+var mnemonic = "summer omit found age chair produce rigid pulse spoon trip latin income";

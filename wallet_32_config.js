@@ -1,1 +1,1 @@
-var mnemonic = "debris sure poet perfect sure wish unaware bulb egg ozone design chimney";
+var mnemonic = "potato strike obey square cherry symbol wave wear valley draw oyster typical";

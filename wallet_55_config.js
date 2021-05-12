@@ -1,1 +1,1 @@
-var mnemonic = "catalog yard lunch lab mammal same camera retreat biology crunch erase ill";
+var mnemonic = "shoot simple advance document host wait tragic host stuff suggest rug exist";

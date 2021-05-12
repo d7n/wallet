@@ -1,1 +1,1 @@
-var mnemonic = "caught pencil annual list amount saddle anxiety sentence army topple dose have";
+var mnemonic = "unveil tissue antique alcohol spot grain brick decide baby icon hammer number";

@@ -1,1 +1,1 @@
-var mnemonic = "hip strike gown make stuff magnet turn keep chimney renew wisdom health";
+var mnemonic = "juice perfect digital already electric firm crisp runway legend penalty midnight dose";

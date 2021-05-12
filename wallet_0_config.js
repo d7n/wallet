@@ -1,1 +1,1 @@
-var mnemonic = "stone film drive fury blast bicycle actor blossom fiction bring clinic coin";
+var mnemonic = "response other tail cup uniform govern spirit waste acid drastic drill lounge";

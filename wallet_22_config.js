@@ -1,1 +1,1 @@
-var mnemonic = "wall worry dial bus airport brief burden comic come minimum garlic clever";
+var mnemonic = "bargain powder hazard shift frost bullet merge field measure oil first large";

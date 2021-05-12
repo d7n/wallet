@@ -1,1 +1,1 @@
-var mnemonic = "snake infant tilt derive weasel half opera clerk dune proud inch zone";
+var mnemonic = "sentence sponsor stock nasty scissors sure network claw gap proof inspire warfare";

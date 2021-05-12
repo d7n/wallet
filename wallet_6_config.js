@@ -1,1 +1,1 @@
-var mnemonic = "rain test brief chapter detail around electric rice baby jealous hello dismiss";
+var mnemonic = "hobby abandon wood kiss clinic beauty hire wrestle repeat gossip thunder program";

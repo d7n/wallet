@@ -1,1 +1,1 @@
-var mnemonic = "surprise wasp salad pledge clap twice fluid feature affair weasel east total";
+var mnemonic = "summer vast style wage useful bracket truly husband culture stock rebuild grant";

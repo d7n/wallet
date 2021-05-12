@@ -1,1 +1,1 @@
-var mnemonic = "venture goat sphere wage nothing swift tumble entry aspect find scrap popular";
+var mnemonic = "business legend machine marriage wish infant away erase easy venture year dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform typical odor physical hammer heavy winner swarm deal false future isolate";
+var mnemonic = "couch friend squirrel prison machine hill dose seed year envelope need laptop";

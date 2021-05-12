@@ -1,1 +1,1 @@
-var mnemonic = "author swift humor round brief lawn pill elbow milk spoil vote park";
+var mnemonic = "live uniform depth multiply twist frown system glass purity elevator sample remain";

@@ -1,1 +1,1 @@
-var mnemonic = "immune state emotion drastic human wonder raven apple abandon veteran word spy";
+var mnemonic = "hunt very indicate bag bargain sauce learn transfer plunge tuna verify trick";

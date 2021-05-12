@@ -1,1 +1,1 @@
-var mnemonic = "woman oppose buzz illness hello nature roast spatial elbow audit code attend";
+var mnemonic = "direct clinic orbit matter special ship absent wealth voice genius fruit pet";

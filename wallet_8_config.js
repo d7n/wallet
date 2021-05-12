@@ -1,1 +1,1 @@
-var mnemonic = "produce essence unfair antenna wage have dress bronze vault intact one common";
+var mnemonic = "hamster exhibit skate scout swamp tunnel until high engage arrange vehicle sure";

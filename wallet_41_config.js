@@ -1,1 +1,1 @@
-var mnemonic = "valid obtain evil tuition jump notable light federal thing element music fold";
+var mnemonic = "gadget main defy cabin idea salad eagle armed alpha giant loop inform";

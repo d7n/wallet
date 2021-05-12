@@ -1,1 +1,1 @@
-var mnemonic = "oblige detect lava cart dune lecture always rough over woman retreat melody";
+var mnemonic = "mix oval cost spice bind hello risk young tissue pelican federal alpha";

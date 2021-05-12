@@ -1,1 +1,1 @@
-var mnemonic = "fury industry corn rude obtain episode scare cinnamon pattern soccer swift blast";
+var mnemonic = "inch pole maid observe gentle senior reduce neither confirm account survey session";

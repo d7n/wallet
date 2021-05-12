@@ -1,1 +1,1 @@
-var mnemonic = "gorilla engine ship return same cage leaf blouse vehicle until damp run";
+var mnemonic = "cattle amount alien wrap vehicle act volume sick gauge decline round sure";

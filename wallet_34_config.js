@@ -1,1 +1,1 @@
-var mnemonic = "brave music spare office wise race correct combine include fire adult barely";
+var mnemonic = "tone behave avoid consider great boost solution destroy barely estate garlic shift";

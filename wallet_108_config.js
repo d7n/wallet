@@ -1,1 +1,1 @@
-var mnemonic = "acid fuel inhale rail finger cement also earn remind public type course";
+var mnemonic = "grace maze stone remain course circle space sadness charge select surge catch";

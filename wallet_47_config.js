@@ -1,1 +1,1 @@
-var mnemonic = "happy loyal notice marble tortoise stone grunt pioneer pull pistol muscle ribbon";
+var mnemonic = "spring dove opera sword tide program struggle easy certain immune cherry usage";

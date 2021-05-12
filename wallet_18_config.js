@@ -1,1 +1,1 @@
-var mnemonic = "health attitude water connect choice coral mandate merry gas napkin happy bamboo";
+var mnemonic = "upgrade rough harvest oyster ladder boss radio anxiety alone shell salon island";

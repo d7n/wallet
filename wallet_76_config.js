@@ -1,1 +1,1 @@
-var mnemonic = "drastic cruel shaft execute visit urge august trap diagram give marriage turtle";
+var mnemonic = "swarm police gift forest scorpion gossip act chicken fold feed hurt gain";

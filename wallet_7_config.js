@@ -1,1 +1,1 @@
-var mnemonic = "lounge actor culture under kiss bundle crumble avocado copy night poet salute";
+var mnemonic = "cattle smoke cherry knife address clean radio flip stomach silly science kit";

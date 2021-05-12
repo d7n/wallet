@@ -1,1 +1,1 @@
-var mnemonic = "catalog sample return little silk exotic involve echo minimum chase then draw";
+var mnemonic = "notice spread quote style response orchard vital muffin eagle pudding view voyage";

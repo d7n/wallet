@@ -1,1 +1,1 @@
-var mnemonic = "apart click park call oyster sketch hat shy secret scale awake champion";
+var mnemonic = "gorilla hold culture donate link giraffe donkey earth empty board river diesel";

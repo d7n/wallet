@@ -1,1 +1,1 @@
-var mnemonic = "flock oppose tape echo friend decide wagon flag pelican guilt another build";
+var mnemonic = "predict truth oak paddle borrow marble pond fog enact knee purity spring";

@@ -1,1 +1,1 @@
-var mnemonic = "pear usage oxygen law match fix right yellow also arm crowd move";
+var mnemonic = "pumpkin daring tonight media add object coin unfair chief type toward state";

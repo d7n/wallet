@@ -1,1 +1,1 @@
-var mnemonic = "small stage labor mixture shrug give grape happy turtle cover share story";
+var mnemonic = "joy absorb harvest resist chase finger truck usual cry coast alcohol tunnel";

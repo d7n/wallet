@@ -1,1 +1,1 @@
-var mnemonic = "very pride belt close fresh unaware famous float doctor almost wasp smile";
+var mnemonic = "photo second member tone boat innocent cup humble similar penalty envelope sad";

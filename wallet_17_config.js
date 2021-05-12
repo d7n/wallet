@@ -1,1 +1,1 @@
-var mnemonic = "audit special gain glory pause electric patch stairs acoustic harbor butter depart";
+var mnemonic = "disorder kidney plastic fit betray doll staff mandate sweet inject broom maple";

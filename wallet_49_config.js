@@ -1,1 +1,1 @@
-var mnemonic = "first pencil judge lens expand attack change eager urge wage practice lonely";
+var mnemonic = "sense vivid crucial mass intact powder reduce auto wing desk hope nasty";

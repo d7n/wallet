@@ -1,1 +1,1 @@
-var mnemonic = "option hurt error fever enforce hero outside scorpion library hollow patch pact";
+var mnemonic = "erupt sausage recycle draft negative educate satoshi crystal talent receive open old";

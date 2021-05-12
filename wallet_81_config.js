@@ -1,1 +1,1 @@
-var mnemonic = "fitness circle welcome rule ketchup wave galaxy paper dream elder riot zebra";
+var mnemonic = "doll empty faculty basic sock draft truck hawk stairs repeat initial frown";

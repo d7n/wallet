@@ -1,1 +1,1 @@
-var mnemonic = "radar brass wait indoor exit swamp enemy kid dismiss attend come awkward";
+var mnemonic = "blind pulp topic impact box power orbit oyster demise insect ride ketchup";

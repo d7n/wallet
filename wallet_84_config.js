@@ -1,1 +1,1 @@
-var mnemonic = "card diesel spell hold topic element frequent stereo blossom rigid copper exercise";
+var mnemonic = "ship soldier sad trust soldier flush toe cereal oxygen decrease ice silly";

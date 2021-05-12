@@ -1,1 +1,1 @@
-var mnemonic = "shrug shuffle nephew regular deliver jelly pony jungle wrap daughter glare enforce";
+var mnemonic = "deposit digital path trial laugh mask loud cross lawsuit tumble winner metal";

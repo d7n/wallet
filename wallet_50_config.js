@@ -1,1 +1,1 @@
-var mnemonic = "acid assist jeans jelly pistol jacket squirrel guitar cement project trophy gesture";
+var mnemonic = "year follow ring human horror choose elder carbon circle infant indicate century";

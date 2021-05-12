@@ -1,1 +1,1 @@
-var mnemonic = "object muffin imitate split urge enable auto knock nice siren book tattoo";
+var mnemonic = "man owner rubber bring near melody arrest jeans witness umbrella scheme skirt";

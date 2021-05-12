@@ -1,1 +1,1 @@
-var mnemonic = "exercise force sting pepper useless success nuclear mixed situate potato forest spring";
+var mnemonic = "few latin dose tail like together above sign choose tool panther clay";

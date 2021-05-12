@@ -1,1 +1,1 @@
-var mnemonic = "lecture memory join tuna glare team trial absurd cloth secret onion unable";
+var mnemonic = "mouse spy pause fortune divert ginger local peace expect mandate ladder virus";

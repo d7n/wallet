@@ -1,1 +1,1 @@
-var mnemonic = "rescue nurse pottery bird tip name outside observe empower green flee again";
+var mnemonic = "suit whisper settle resist mixture age yellow cart arena twist festival resource";

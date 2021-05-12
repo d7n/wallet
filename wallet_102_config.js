@@ -1,1 +1,1 @@
-var mnemonic = "surround mixture bring slim pepper squeeze teach narrow armed creek about side";
+var mnemonic = "rhythm captain object churn lawsuit pony rigid urge leave divide pill talent";

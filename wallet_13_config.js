@@ -1,1 +1,1 @@
-var mnemonic = "base impose ritual pioneer fun confirm blossom attitude follow ladder secret garment";
+var mnemonic = "seek play giraffe casino key sunny welcome cake inquiry truck sing bomb";

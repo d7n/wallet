@@ -1,1 +1,1 @@
-var mnemonic = "flame pattern throw tunnel popular wife sun work motion chicken tongue trend";
+var mnemonic = "dove already ride canvas hurt riot nothing flash desert have vacuum airport";

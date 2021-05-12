@@ -1,1 +1,1 @@
-var mnemonic = "silent empty behave mass farm found ill couple sausage wave glance alarm";
+var mnemonic = "quantum rotate salute abandon soul phone toss leaf desk green once cup";

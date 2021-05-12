@@ -1,1 +1,1 @@
-var mnemonic = "seek tray income cat vague dream grid steak effort addict express limit";
+var mnemonic = "actual raven myself ignore clarify maid brain release industry deer long kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "library vanish capital warfare scissors add carry dawn trumpet mistake genre relief";
+var mnemonic = "gallery quote believe pattern welcome concert climb bring jealous universe time connect";

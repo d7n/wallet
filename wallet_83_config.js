@@ -1,1 +1,1 @@
-var mnemonic = "pride stay carry win forest cricket ski analyst also inherit note curve";
+var mnemonic = "rural field among novel pair segment giggle midnight weapon squeeze defy kiss";

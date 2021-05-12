@@ -1,1 +1,1 @@
-var mnemonic = "bless unusual swap sell tenant east manage captain destroy cave enrich swing";
+var mnemonic = "truck edit menu front avoid attend clay shallow sunny olympic swallow emerge";

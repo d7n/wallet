@@ -1,1 +1,1 @@
-var mnemonic = "apology test sure knife stadium bulb damp artwork century upon symbol afraid";
+var mnemonic = "easy candy bunker pole hurry frost heart dolphin switch club cannon room";

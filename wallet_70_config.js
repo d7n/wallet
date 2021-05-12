@@ -1,1 +1,1 @@
-var mnemonic = "wasp favorite switch quality firm blanket peanut issue service smile truly little";
+var mnemonic = "visa alley marine fantasy picnic cute little faint atom nurse eager upper";

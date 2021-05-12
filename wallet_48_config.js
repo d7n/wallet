@@ -1,1 +1,1 @@
-var mnemonic = "lawn stove note chimney repeat tenant cross steak thrive window able control";
+var mnemonic = "type fiscal initial noble sea confirm gesture tube length sketch clown slam";

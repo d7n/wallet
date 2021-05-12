@@ -1,1 +1,1 @@
-var mnemonic = "sign code retreat cat silver lake potato camera expire file color receive";
+var mnemonic = "fall must suspect loan picture ceiling pyramid prefer know fury wink tiger";

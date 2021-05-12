@@ -1,1 +1,1 @@
-var mnemonic = "final churn foil spell address disease obey strategy build steak nature agree";
+var mnemonic = "volcano park modify result core already leader ignore genre harsh food tonight";

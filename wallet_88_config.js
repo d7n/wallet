@@ -1,1 +1,1 @@
-var mnemonic = "secret reveal angle list next cloth parrot joy industry diagram father razor";
+var mnemonic = "idle once flavor budget roof chair wreck fiber fit rough hollow famous";

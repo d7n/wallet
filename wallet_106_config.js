@@ -1,1 +1,1 @@
-var mnemonic = "crucial coil elephant head midnight shuffle name boss initial payment burst rescue";
+var mnemonic = "behave print garden blood gorilla grant ready universe enemy robot setup belt";

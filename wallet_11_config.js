@@ -1,1 +1,1 @@
-var mnemonic = "umbrella help gesture before corn border ask tattoo practice fork nerve release";
+var mnemonic = "horror core apart choose fine picnic wise zero glare check divide pioneer";

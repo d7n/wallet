@@ -1,1 +1,1 @@
-var mnemonic = "remove square donate next stamp trial return stem margin open yellow breeze";
+var mnemonic = "transfer kiwi medal claim search list cinnamon anchor intact trouble foil settle";

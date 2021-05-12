@@ -1,1 +1,1 @@
-var mnemonic = "access legal frozen allow match lecture gasp mean cart carbon yard tower";
+var mnemonic = "vibrant mammal budget drastic noise expand ozone else display carpet arena mean";

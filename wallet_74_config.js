@@ -1,1 +1,1 @@
-var mnemonic = "more duck buddy budget layer shield bread issue stock celery large wealth";
+var mnemonic = "hood tragic sample crawl oven cycle rebuild shock melody cheap spike happy";

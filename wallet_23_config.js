@@ -1,1 +1,1 @@
-var mnemonic = "bleak crush sugar achieve guess hollow unhappy boil nerve vote monitor diet";
+var mnemonic = "bless asset twenty method void calm dad ready exchange fashion claim diary";

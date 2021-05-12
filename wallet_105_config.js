@@ -1,1 +1,1 @@
-var mnemonic = "high banana scare hub zero this bar busy manual dragon citizen animal";
+var mnemonic = "crawl hedgehog embark air remind unable symbol sand ugly general wing tuition";

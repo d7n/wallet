@@ -1,1 +1,1 @@
-var mnemonic = "uniform mixed offer devote fit rebuild purse bench beef chunk group inner";
+var mnemonic = "wing dial boat draw lend camp tube peace merit evidence evidence ill";
