@@ -1,1 +1,1 @@
-var mnemonic = "digital question arm surprise pet cage unfold level mix diary fox bless";
+var mnemonic = "bulb climb fabric junk kingdom dumb crash weekend basic review access shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "party visual cheese jungle real nerve mother salt quote shine tiny cancel";
+var mnemonic = "wall film daughter uniform symptom clutch ankle tumble alcohol indoor protect town";

@@ -1,1 +1,1 @@
-var mnemonic = "limb second bamboo present magic receive old author core vote predict hockey";
+var mnemonic = "modify reduce nephew glow tobacco open siren zero art window nasty wing";

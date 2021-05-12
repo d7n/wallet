@@ -1,1 +1,1 @@
-var mnemonic = "jazz spawn rough move flip decade feel kitchen split rebel ketchup glove";
+var mnemonic = "cube debate boat purpose service debate warrior toward alcohol symbol between trap";

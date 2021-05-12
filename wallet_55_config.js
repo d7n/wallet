@@ -1,1 +1,1 @@
-var mnemonic = "used coffee fiscal aim magnet swap social suspect session enemy spoon usual";
+var mnemonic = "cause grain near now champion number become frame pink other diagram waste";

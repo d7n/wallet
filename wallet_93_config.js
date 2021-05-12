@@ -1,1 +1,1 @@
-var mnemonic = "purchase finish obey atom random click end trend time include maple setup";
+var mnemonic = "zone woman actress now dentist myth gate walnut plunge canoe lock random";

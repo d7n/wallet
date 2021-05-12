@@ -1,1 +1,1 @@
-var mnemonic = "wave close abstract grant broccoli evoke mechanic spatial case pioneer rack damp";
+var mnemonic = "certain allow cheap cream total clarify hover orange pizza oblige owner erupt";

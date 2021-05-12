@@ -1,1 +1,1 @@
-var mnemonic = "cram fruit hunt tell heart exile sail gain chair arena print fantasy";
+var mnemonic = "rib profit civil song menu merit diary real system sail swim dizzy";

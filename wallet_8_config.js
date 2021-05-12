@@ -1,1 +1,1 @@
-var mnemonic = "lift purchase quiz two lucky pizza where kick game deal term leave";
+var mnemonic = "glove stand initial party course calm give list pupil suggest obscure metal";

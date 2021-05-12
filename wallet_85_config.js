@@ -1,1 +1,1 @@
-var mnemonic = "inform news improve divide soon donate nerve cart chimney monster noodle grain";
+var mnemonic = "echo glide biology office sword damage empty crowd modify series marble replace";

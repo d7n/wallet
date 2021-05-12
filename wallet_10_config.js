@@ -1,1 +1,1 @@
-var mnemonic = "quit peasant figure faint cause unique erode project metal oven kite oval";
+var mnemonic = "sheriff model merry brown unhappy fold pluck lunch agent maple mutual million";

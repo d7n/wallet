@@ -1,1 +1,1 @@
-var mnemonic = "peanut open decorate total glove hope puppy oxygen alter repeat guess virus";
+var mnemonic = "betray stove shift slight illegal speak over address swear creek arrow educate";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp burst wear shell aware sister coil cage flat world cook dog";
+var mnemonic = "hood tornado sunset trumpet enroll already segment march sight notable enable tiny";

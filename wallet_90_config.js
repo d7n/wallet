@@ -1,1 +1,1 @@
-var mnemonic = "crowd blame device tired napkin estate tone arrest urban proof believe amateur";
+var mnemonic = "guide rigid reduce will galaxy conduct source once embody cement grunt ill";

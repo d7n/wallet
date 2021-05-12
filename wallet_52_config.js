@@ -1,1 +1,1 @@
-var mnemonic = "place ask lyrics hope throw library uphold glue citizen illness resist shove";
+var mnemonic = "any govern never pizza sting indicate educate submit exclude notable mixture unaware";

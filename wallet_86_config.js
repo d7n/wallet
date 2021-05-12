@@ -1,1 +1,1 @@
-var mnemonic = "around gospel wild plug duty whale success question manage mosquito shield actor";
+var mnemonic = "sheriff dry inch butter insect neglect elephant boost office miss loyal fashion";

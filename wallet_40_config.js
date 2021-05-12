@@ -1,1 +1,1 @@
-var mnemonic = "story buffalo relief tell panda become cattle address hockey lunch neck senior";
+var mnemonic = "about tonight girl casual submit wife popular end custom job wheat text";

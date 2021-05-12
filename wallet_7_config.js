@@ -1,1 +1,1 @@
-var mnemonic = "robust need cable tennis pig prefer trophy omit canal pool drop siren";
+var mnemonic = "seek stuff device recall cactus access dish embark border wine term buzz";

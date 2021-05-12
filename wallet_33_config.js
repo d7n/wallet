@@ -1,1 +1,1 @@
-var mnemonic = "rebuild fury bike pen toddler tackle local day erode famous frown erode";
+var mnemonic = "cable client enhance orange slot daughter pride broken mention ugly frog menu";

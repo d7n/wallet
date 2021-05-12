@@ -1,1 +1,1 @@
-var mnemonic = "program combine much height tag road cry vessel sweet news palace transfer";
+var mnemonic = "crew ripple vocal cinnamon cupboard blouse decrease town brave resource lion column";

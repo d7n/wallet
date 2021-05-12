@@ -1,1 +1,1 @@
-var mnemonic = "common innocent guilt girl all now trade absurd stage lemon valve later";
+var mnemonic = "route second bottom easy trim buzz license spoon fitness life expose delay";

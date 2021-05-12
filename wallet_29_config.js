@@ -1,1 +1,1 @@
-var mnemonic = "blanket exchange disease cloth release alley deer rhythm raise twist hurry mule";
+var mnemonic = "memory reform problem ask lounge wheat evil unknown side analyst detect candy";

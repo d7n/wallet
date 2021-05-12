@@ -1,1 +1,1 @@
-var mnemonic = "perfect because marine fabric process marble winner effort spend benefit dinosaur broom";
+var mnemonic = "blouse hill shed slim wolf water two frame release stamp great defense";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry town glow royal carry federal village author welcome mind casino debate";
+var mnemonic = "winter gaze spirit fan word donate remove kite release unit whale wage";

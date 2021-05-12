@@ -1,1 +1,1 @@
-var mnemonic = "matter trigger radio tuna robot supply feel manage drift canyon lazy grocery";
+var mnemonic = "forward inhale south open vault high hint ugly replace brave laptop quote";

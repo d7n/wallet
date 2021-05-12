@@ -1,1 +1,1 @@
-var mnemonic = "address sponsor error tired frequent pluck juice shy imitate decorate then field";
+var mnemonic = "have jump across unusual loan pigeon know route bleak apple retire forward";

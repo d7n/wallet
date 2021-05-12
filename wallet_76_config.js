@@ -1,1 +1,1 @@
-var mnemonic = "float check loan curious pigeon later nature exit oven vacuum crop stumble";
+var mnemonic = "meadow glory flock music cement legal basic army credit find guilt domain";

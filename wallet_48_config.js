@@ -1,1 +1,1 @@
-var mnemonic = "fire noble select heart travel stadium arch general wish license alien alien";
+var mnemonic = "soon project alter review logic buddy record donor wife perfect kiwi crucial";

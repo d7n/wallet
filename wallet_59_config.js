@@ -1,1 +1,1 @@
-var mnemonic = "rifle barrel citizen chaos only expect organ start version bird health sleep";
+var mnemonic = "fix marine kiwi drip way father excuse any cliff blast address wall";

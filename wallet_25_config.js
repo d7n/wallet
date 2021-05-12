@@ -1,1 +1,1 @@
-var mnemonic = "install bubble dry float song worry galaxy major permit cross melt moral";
+var mnemonic = "street unfold force argue mango action old leg obvious regular foster trick";

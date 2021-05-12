@@ -1,1 +1,1 @@
-var mnemonic = "motor bamboo arctic wine science rebuild boy decade pupil sick crush dignity";
+var mnemonic = "stairs spring huge grit side identify lobster tag hidden neglect category vicious";

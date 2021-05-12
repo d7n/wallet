@@ -1,1 +1,1 @@
-var mnemonic = "behave federal decrease plate expire ignore force ranch cycle novel anxiety inch";
+var mnemonic = "modify camp return goddess kind hill also shove conduct inflict news quarter";

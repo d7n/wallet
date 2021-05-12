@@ -1,1 +1,1 @@
-var mnemonic = "purchase cage wrong carpet skin patch science off hood jar cloud casino";
+var mnemonic = "zero firm snap solve vacant crack explain cement path abuse vote vendor";

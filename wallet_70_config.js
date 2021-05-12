@@ -1,1 +1,1 @@
-var mnemonic = "diet orchard start scale state laundry kiwi over clock tip entire crisp";
+var mnemonic = "crowd arrange loyal royal civil exact cannon perfect habit elevator aim stick";

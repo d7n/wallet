@@ -1,1 +1,1 @@
-var mnemonic = "prepare skirt throw first job envelope crush certain language snake matter uncle";
+var mnemonic = "caught genius rotate world any fringe off wash position market equal inside";

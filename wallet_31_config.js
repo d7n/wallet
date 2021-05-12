@@ -1,1 +1,1 @@
-var mnemonic = "other riot brave mirror rent obvious change bag mixture you keep below";
+var mnemonic = "mom embody erupt fox idea light bacon effort catch ghost primary guide";

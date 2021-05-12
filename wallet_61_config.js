@@ -1,1 +1,1 @@
-var mnemonic = "panel enable can tail edit glance answer salmon script govern lamp blossom";
+var mnemonic = "where until boat oil mixed ship dwarf excess flower know blood resemble";

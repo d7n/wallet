@@ -1,1 +1,1 @@
-var mnemonic = "peasant risk sword mistake approve napkin quality dash ramp envelope best dove";
+var mnemonic = "butter grocery fruit duck snap upper slender source name tip mushroom rice";

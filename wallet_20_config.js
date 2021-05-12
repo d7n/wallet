@@ -1,1 +1,1 @@
-var mnemonic = "crowd top easy boy extend isolate across cost orange gold setup adjust";
+var mnemonic = "traffic fine umbrella ecology employ reward supreme bundle cactus state fetch patrol";

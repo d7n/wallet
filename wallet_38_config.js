@@ -1,1 +1,1 @@
-var mnemonic = "banner image voice struggle aware robust window father wait worth child rate";
+var mnemonic = "mom decide follow gaze code friend toss fiscal job cube pistol buzz";

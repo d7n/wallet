@@ -1,1 +1,1 @@
-var mnemonic = "happy pilot bar thing cause razor wire replace wear rough august carbon";
+var mnemonic = "screen funny income fire broom butter team theory enforce mention film isolate";

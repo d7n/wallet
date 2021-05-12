@@ -1,1 +1,1 @@
-var mnemonic = "stomach breeze sugar ice dune harbor quit come limit future nature margin";
+var mnemonic = "moment please olive assist woman resource spice lawn finger viable table moral";

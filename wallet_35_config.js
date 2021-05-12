@@ -1,1 +1,1 @@
-var mnemonic = "west you stick edge install mimic canoe category sand wet morning oven";
+var mnemonic = "margin table lobster embark clap expand wish daring clinic learn fine must";

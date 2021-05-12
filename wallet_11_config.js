@@ -1,1 +1,1 @@
-var mnemonic = "spice elbow maximum camp either stone danger ride visa entire quit click";
+var mnemonic = "toss evoke clump spatial involve wide traffic chunk play arrive ozone average";

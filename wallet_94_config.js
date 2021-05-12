@@ -1,1 +1,1 @@
-var mnemonic = "fee pact stick assume turn wet magnet circle fever educate squirrel history";
+var mnemonic = "tank animal lens travel corn okay orphan fancy chest before immense borrow";

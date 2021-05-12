@@ -1,1 +1,1 @@
-var mnemonic = "divert danger scrub dust sick addict faculty home season damp slice extend";
+var mnemonic = "exotic average next visual zone disagree shove future twin engine inform fog";

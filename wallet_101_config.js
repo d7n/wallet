@@ -1,1 +1,1 @@
-var mnemonic = "across deliver admit engine idle gather around unit rude sort regret exclude";
+var mnemonic = "relief month radio inmate sell elite grace season fury engage among mesh";

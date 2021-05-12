@@ -1,1 +1,1 @@
-var mnemonic = "orbit surge genuine public whale balance bring brain hip butter ostrich match";
+var mnemonic = "pole drip pudding farm auction ribbon roof pattern will panda sign tennis";

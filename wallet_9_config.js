@@ -1,1 +1,1 @@
-var mnemonic = "scatter spring basic square decline bag evolve emotion foot kitten maple talent";
+var mnemonic = "industry virus seed cable oblige involve enroll domain aware nurse coast hawk";

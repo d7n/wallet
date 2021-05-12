@@ -1,1 +1,1 @@
-var mnemonic = "unable crazy describe appear output oyster glance sunny ask afraid peanut joy";
+var mnemonic = "share soda salt expose guard logic rule dirt enough clay have artwork";

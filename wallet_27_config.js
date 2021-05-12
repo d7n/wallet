@@ -1,1 +1,1 @@
-var mnemonic = "tragic armor cheap mind digital portion hello junior robust prepare indoor music";
+var mnemonic = "wink dizzy verb want health bright hybrid hawk move across hole keep";

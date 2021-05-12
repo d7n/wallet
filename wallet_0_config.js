@@ -1,1 +1,1 @@
-var mnemonic = "opinion addict often boy city crew pupil ripple eye brief road brass";
+var mnemonic = "virtual off feature toss cake equip prevent demand border victory pool fit";

@@ -1,1 +1,1 @@
-var mnemonic = "scare oven employ scrub shoulder retire wrestle asset jar explain awake spawn";
+var mnemonic = "damage use shed pioneer hollow large grit venue panther abuse certain infant";

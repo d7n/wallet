@@ -1,1 +1,1 @@
-var mnemonic = "float history alone saddle mimic credit upon daring onion math river soon";
+var mnemonic = "story emerge romance tackle prepare primary turn issue eight sword dizzy rent";

@@ -1,1 +1,1 @@
-var mnemonic = "announce limb scout law echo endless wrist measure joy twelve liberty citizen";
+var mnemonic = "energy lawn reflect lobster grant tonight often math detect find zero fiscal";

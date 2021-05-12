@@ -1,1 +1,1 @@
-var mnemonic = "vocal used wet dismiss regret six marine census teach stay nephew model";
+var mnemonic = "raise fame collect dust punch old aunt believe achieve dinner sail pause";

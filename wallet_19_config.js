@@ -1,1 +1,1 @@
-var mnemonic = "gown panda elegant already half youth dove alone absurd arctic joke ring";
+var mnemonic = "trophy force valley regret image desk glad trade flame access thrive clinic";

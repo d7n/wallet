@@ -1,1 +1,1 @@
-var mnemonic = "motion pitch rich swallow very frame vivid decline robust capable peasant lawsuit";
+var mnemonic = "aware coral keep bean soul bike napkin autumn novel buzz rival hungry";

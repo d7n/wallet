@@ -1,1 +1,1 @@
-var mnemonic = "spatial lawsuit abuse bench glory soccer cushion minimum ghost net into mystery";
+var mnemonic = "keen maid error torch believe certain edit theme sadness loyal two cycle";

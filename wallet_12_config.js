@@ -1,1 +1,1 @@
-var mnemonic = "paddle love spice kangaroo hen identify snack change good income prefer pledge";
+var mnemonic = "turkey pizza negative enhance ticket hockey grain clever oblige lady chalk element";

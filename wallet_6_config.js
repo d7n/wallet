@@ -1,1 +1,1 @@
-var mnemonic = "thunder zone report field make fuel caution mercy view traffic impulse muscle";
+var mnemonic = "load hobby brand citizen modify together hazard carry light tired sentence method";

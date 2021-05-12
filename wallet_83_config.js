@@ -1,1 +1,1 @@
-var mnemonic = "obscure hand tongue pear nest melody odor mosquito kick accuse ten brief";
+var mnemonic = "lonely mouse cancel wage cloud media false fault before crane horse energy";

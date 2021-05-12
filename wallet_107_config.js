@@ -1,1 +1,1 @@
-var mnemonic = "venture inspire auction donkey rocket like wisdom huge wash baby valid myth";
+var mnemonic = "change pen husband buyer poet fan three master planet correct save guide";

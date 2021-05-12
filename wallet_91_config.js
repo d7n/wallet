@@ -1,1 +1,1 @@
-var mnemonic = "jungle practice satoshi trophy position art win like demand debate island hold";
+var mnemonic = "version travel orchard cannon uncover surround sausage base salad jaguar require paper";

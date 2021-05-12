@@ -1,1 +1,1 @@
-var mnemonic = "journey remind intact punch buyer seat water enable sail victory jelly rare";
+var mnemonic = "bind hollow home visual enhance chaos pole search dress barrel cactus palm";

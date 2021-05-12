@@ -1,1 +1,1 @@
-var mnemonic = "name grocery vapor valid junior desert foster entry skull ask moral output";
+var mnemonic = "wolf system illness saddle fever nation arrow edge develop text south disorder";

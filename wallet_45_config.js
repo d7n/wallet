@@ -1,1 +1,1 @@
-var mnemonic = "capable voice float rally cup hotel anxiety ecology brisk shed olive stairs";
+var mnemonic = "chief tell income frost essay settle lunar shrimp reduce vapor merry allow";

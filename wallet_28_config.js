@@ -1,1 +1,1 @@
-var mnemonic = "spin six make monkey fetch combine swallow pizza vendor quality mosquito dish";
+var mnemonic = "divorce sport large rule gloom safe rare tattoo floor setup erosion donor";

@@ -1,1 +1,1 @@
-var mnemonic = "razor spawn envelope party marriage betray leg giggle drink sail laugh medal";
+var mnemonic = "deliver fun clean person kiwi opera credit brave canoe brain daring captain";

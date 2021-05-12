@@ -1,1 +1,1 @@
-var mnemonic = "clever leisure profit harvest alone credit tape cross steel team business setup";
+var mnemonic = "almost fix worry hammer word exhibit barely fancy history novel subject resource";

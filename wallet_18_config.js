@@ -1,1 +1,1 @@
-var mnemonic = "pole conduct balcony endorse casual media palace notice dream uphold rebuild gorilla";
+var mnemonic = "dragon snap pool purchase orchard check offer reject term emerge round pulp";

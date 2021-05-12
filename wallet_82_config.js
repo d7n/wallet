@@ -1,1 +1,1 @@
-var mnemonic = "science review song soon home infant decorate credit axis fame grid output";
+var mnemonic = "wall panther topic sorry extend until assault sun pioneer diesel patch bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "risk pelican hedgehog super pumpkin skull throw later share balance power alcohol";
+var mnemonic = "express tragic together thought hospital able gossip nurse major pelican search side";

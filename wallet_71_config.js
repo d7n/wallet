@@ -1,1 +1,1 @@
-var mnemonic = "push clutch enforce lab derive hidden average uncover old plunge write usual";
+var mnemonic = "improve envelope change guitar insect strong memory prosper forward strategy auction bitter";

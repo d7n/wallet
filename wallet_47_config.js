@@ -1,1 +1,1 @@
-var mnemonic = "vacant grid skin north alone summer logic echo change express visa index";
+var mnemonic = "mutual bike nice clinic world sting bonus leader leg clever cabbage helmet";

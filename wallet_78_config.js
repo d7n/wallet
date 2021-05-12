@@ -1,1 +1,1 @@
-var mnemonic = "city course ankle erode castle village cry dynamic weird firm maximum argue";
+var mnemonic = "satoshi captain various suspect sound wood style hill mass feed life choose";

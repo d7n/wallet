@@ -1,1 +1,1 @@
-var mnemonic = "shuffle brain steak increase glue raccoon slim finish amateur blur penalty better";
+var mnemonic = "polar wear pass stadium surface initial sport turn size range opera castle";

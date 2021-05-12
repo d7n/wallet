@@ -1,1 +1,1 @@
-var mnemonic = "swallow fat label cargo flavor ship invite token enjoy color spray chest";
+var mnemonic = "blur blush salt mother slender come display sun bar panther true toward";

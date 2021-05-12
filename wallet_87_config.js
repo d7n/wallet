@@ -1,1 +1,1 @@
-var mnemonic = "solar wire ensure spare light merge shield pyramid section target chronic final";
+var mnemonic = "churn clinic bleak mad common awful come blue sustain undo cousin caught";

@@ -1,1 +1,1 @@
-var mnemonic = "bus century cruise circle favorite net skill tuna olive acquire cotton tenant";
+var mnemonic = "book alley coil split glad own profit venue coin eager lake kit";

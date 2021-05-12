@@ -1,1 +1,1 @@
-var mnemonic = "ill upper brother sorry atom second wealth goose emerge crumble float inflict";
+var mnemonic = "attract bachelor rib shift vocal mean shuffle salute zero stable tortoise horror";

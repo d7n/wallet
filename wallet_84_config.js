@@ -1,1 +1,1 @@
-var mnemonic = "leg satoshi jeans ski duty tattoo decide aim cloth loop join indoor";
+var mnemonic = "pottery play window knife celery decade crazy slogan keep thunder record fame";

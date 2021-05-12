@@ -1,1 +1,1 @@
-var mnemonic = "clump write ghost comic uncover vote eternal kite typical source safe normal";
+var mnemonic = "wine resource layer pave myth neck input blanket airport sure donor disagree";

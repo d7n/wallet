@@ -1,1 +1,1 @@
-var mnemonic = "pen box manual muffin wet critic gas accuse point pony hedgehog tribe";
+var mnemonic = "soda time alter brief clog clown street wave toddler solve album season";

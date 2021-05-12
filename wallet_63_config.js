@@ -1,1 +1,1 @@
-var mnemonic = "start glad clock invite battle slow lift edge volcano twin time merit";
+var mnemonic = "kangaroo addict enable despair obvious mask pole squirrel lady author spray hint";
