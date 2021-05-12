@@ -1,1 +1,1 @@
-var mnemonic = "all sustain coffee bacon scale casino smooth focus list coast adjust degree";
+var mnemonic = "unknown glimpse can bright occur chest card service travel main disease weasel";

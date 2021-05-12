@@ -1,1 +1,1 @@
-var mnemonic = "pool bench lumber letter tobacco advice laugh index lunch curtain company someone";
+var mnemonic = "two inner census symbol surprise oyster sentence champion torch globe mushroom unfair";

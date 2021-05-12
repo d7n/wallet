@@ -1,1 +1,1 @@
-var mnemonic = "cage electric sight disagree mixed final pole clip report cotton empower column";
+var mnemonic = "unknown observe unit rural slab wonder describe blood open guitar cool board";

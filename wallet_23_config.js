@@ -1,1 +1,1 @@
-var mnemonic = "often account erase suffer youth ordinary action word drive amused leopard permit";
+var mnemonic = "rely ritual dignity yard edit scorpion city impulse debate manual case rule";

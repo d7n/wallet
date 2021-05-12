@@ -1,1 +1,1 @@
-var mnemonic = "elephant marine jealous patient sea wage equip earth result average spread tail";
+var mnemonic = "enhance palm marine warrior bless giraffe test critic solar patch base abstract";

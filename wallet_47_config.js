@@ -1,1 +1,1 @@
-var mnemonic = "veteran learn depart protect mix tone bacon around genuine fashion neutral sentence";
+var mnemonic = "degree depth elegant chaos pet hospital helmet gasp hold river rebel arrange";

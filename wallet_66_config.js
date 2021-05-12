@@ -1,1 +1,1 @@
-var mnemonic = "clown hidden tail slice dirt lumber favorite lawsuit hockey much dizzy pupil";
+var mnemonic = "pole depart fancy setup write trim hole social mouse pioneer lucky fly";

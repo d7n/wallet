@@ -1,1 +1,1 @@
-var mnemonic = "exhaust siren express fatigue evil employ able deliver sponsor column border scrub";
+var mnemonic = "unfair snack lake diary hidden motor laptop ordinary cherry puzzle various nephew";

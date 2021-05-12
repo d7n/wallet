@@ -1,1 +1,1 @@
-var mnemonic = "steak scout dutch canal stove wrist cloud muscle fluid total session jump";
+var mnemonic = "lock syrup soon fold wash hero upset include impact hamster plate era";

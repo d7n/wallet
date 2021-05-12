@@ -1,1 +1,1 @@
-var mnemonic = "hurdle dance leg clerk cricket exhaust cluster deny bike icon balance art";
+var mnemonic = "trophy project dentist river drink glue sheriff want adult arrest female require";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll vessel smile left fire clean antenna arrest cycle emotion banana miracle";
+var mnemonic = "lecture afford lend walnut cannon crew panther captain silly lion powder angle";

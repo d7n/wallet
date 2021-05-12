@@ -1,1 +1,1 @@
-var mnemonic = "input banana increase pretty digital swim level blast edge chase lucky practice";
+var mnemonic = "toast orange local glare hazard pride cube road ski benefit envelope miss";

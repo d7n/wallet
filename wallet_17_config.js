@@ -1,1 +1,1 @@
-var mnemonic = "rotate dance eyebrow below goose evolve glimpse cave below modify alpha during";
+var mnemonic = "motion clerk rigid area insect traffic pencil inspire inherit twin lady rain";

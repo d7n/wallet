@@ -1,1 +1,1 @@
-var mnemonic = "twice ridge under warfare upgrade bulk home forum canoe special return sniff";
+var mnemonic = "dash woman undo expect kitchen model alone waste grocery arrange magic earth";

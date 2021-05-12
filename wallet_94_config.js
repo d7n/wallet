@@ -1,1 +1,1 @@
-var mnemonic = "rhythm trip wide orphan gain velvet toast friend moment marble grace fever";
+var mnemonic = "head excuse version main fossil attitude friend wrestle lizard wasp brick fiber";

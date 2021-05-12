@@ -1,1 +1,1 @@
-var mnemonic = "net electric dilemma entry agent side ozone carbon special crush borrow mesh";
+var mnemonic = "abandon energy wedding family hidden void version transfer inject mobile faith churn";

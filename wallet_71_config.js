@@ -1,1 +1,1 @@
-var mnemonic = "expand pull maximum lift march zone senior shadow guitar horse toward bless";
+var mnemonic = "toe divorce flower october input proof able unique quick type arch good";

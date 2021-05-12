@@ -1,1 +1,1 @@
-var mnemonic = "loop car rigid alcohol shed buffalo feed cart title oval country spike";
+var mnemonic = "elegant volcano basic wide subject diet humble clerk tragic capable about traffic";

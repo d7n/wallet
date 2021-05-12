@@ -1,1 +1,1 @@
-var mnemonic = "rather spirit amateur vocal tired corn river fan table spread artefact earn";
+var mnemonic = "clump exhaust honey order devote way logic crew congress cube make assist";

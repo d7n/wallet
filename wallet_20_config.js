@@ -1,1 +1,1 @@
-var mnemonic = "priority few post position cross journey wealth biology mom omit artefact theme";
+var mnemonic = "slush soccer impose innocent ski town harsh tail carpet vibrant stem vapor";

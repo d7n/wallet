@@ -1,1 +1,1 @@
-var mnemonic = "chair kiwi pet perfect duck among useless bench place special glare nurse";
+var mnemonic = "host tired curve advice lucky lecture message forget yard check able special";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric portion share delay basic margin story puzzle tag gown silent funny";
+var mnemonic = "allow hammer essence language furnace pull voice drill dish slam bargain win";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient era point unusual prepare gaze powder derive syrup account unusual patrol";
+var mnemonic = "joy adjust caught merge monitor casual tornado impulse cheap top juice food";

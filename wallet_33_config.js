@@ -1,1 +1,1 @@
-var mnemonic = "special exhibit tooth bottom vital toward host faith canal next frog floor";
+var mnemonic = "advance length wasp physical tuna squirrel hold release wall save execute labor";

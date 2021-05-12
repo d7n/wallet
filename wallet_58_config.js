@@ -1,1 +1,1 @@
-var mnemonic = "type bright hotel brain refuse table ticket genre elite swarm meat sun";
+var mnemonic = "gate derive vault pause creek simple pilot anxiety album wagon cart soon";

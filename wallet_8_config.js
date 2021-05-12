@@ -1,1 +1,1 @@
-var mnemonic = "require monitor mosquito perfect donor dignity carry elbow misery fossil boat snap";
+var mnemonic = "bomb rent track spatial coil feed divorce win taste library symptom hub";

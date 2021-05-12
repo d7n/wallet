@@ -1,1 +1,1 @@
-var mnemonic = "grocery idea option despair now identify december danger post lizard capital festival";
+var mnemonic = "saddle plastic indicate fire inflict virus beef decrease dog limit rapid electric";

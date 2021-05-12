@@ -1,1 +1,1 @@
-var mnemonic = "slogan manual buffalo remember father awake weekend crunch school fence leaf again";
+var mnemonic = "caught matrix inquiry include nest conduct sunset gloom sign oil crush bone";

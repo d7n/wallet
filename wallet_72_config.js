@@ -1,1 +1,1 @@
-var mnemonic = "around orphan word light syrup soap dinner jazz step lecture humble chaos";
+var mnemonic = "time able text into horn include gaze broom cute bottom movie swamp";

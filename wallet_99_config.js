@@ -1,1 +1,1 @@
-var mnemonic = "predict anxiety critic start future stumble horn habit feature sun dirt fabric";
+var mnemonic = "cage dolphin tennis april little notable cigar simple peasant hello cycle carbon";

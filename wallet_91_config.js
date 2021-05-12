@@ -1,1 +1,1 @@
-var mnemonic = "lesson net settle garden demise stable sock gift square impose fragile pretty";
+var mnemonic = "perfect roof label purity people brush skill hurry pretty twelve cause chicken";

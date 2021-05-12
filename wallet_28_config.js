@@ -1,1 +1,1 @@
-var mnemonic = "crack talent idle minimum coconut struggle clog camera another hand salon decade";
+var mnemonic = "tide pudding game salon message pride note diet aerobic oven gun jacket";

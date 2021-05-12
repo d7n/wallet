@@ -1,1 +1,1 @@
-var mnemonic = "bargain battle mandate prize blouse chuckle spice box fault patrol degree image";
+var mnemonic = "valley letter write tool junk project mask siege online pole pencil comic";

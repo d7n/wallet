@@ -1,1 +1,1 @@
-var mnemonic = "drip outside gown must chef state enable pitch essence cheap brush exhibit";
+var mnemonic = "rival unaware cat syrup soda lava payment inject dentist now later nature";

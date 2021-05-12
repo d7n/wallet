@@ -1,1 +1,1 @@
-var mnemonic = "lumber entry bus network ketchup lucky announce split cat kitchen filter jacket";
+var mnemonic = "federal warfare badge extend soldier little virtual million dance guitar action begin";

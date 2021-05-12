@@ -1,1 +1,1 @@
-var mnemonic = "arrive stool where wealth trade army supply canoe whale message lumber until";
+var mnemonic = "elegant used elephant mixture winter loyal property hurt shoe audit label cushion";

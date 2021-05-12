@@ -1,1 +1,1 @@
-var mnemonic = "muscle cup math club fun cruise duty caught flip dolphin stock forward";
+var mnemonic = "area link assume square rug flip recycle exhibit upper bonus disorder hedgehog";

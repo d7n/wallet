@@ -1,1 +1,1 @@
-var mnemonic = "possible theory staff fire try custom humor plunge fix demise toss baby";
+var mnemonic = "copy slender rent resist slide child obtain harbor alcohol load tennis club";

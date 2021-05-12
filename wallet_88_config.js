@@ -1,1 +1,1 @@
-var mnemonic = "doll glide refuse visa orphan ride winner spot vault health sing napkin";
+var mnemonic = "royal pulse visa divert abandon poem excuse vast gesture nature share combine";

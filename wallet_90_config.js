@@ -1,1 +1,1 @@
-var mnemonic = "swarm pudding apple supreme exhibit kitten viable record vintage shove switch ship";
+var mnemonic = "sketch mango mango tenant exercise seek general mixture fancy nominee clown advance";

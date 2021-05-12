@@ -1,1 +1,1 @@
-var mnemonic = "net tomato taste swim fall electric iron message mushroom topic local debris";
+var mnemonic = "rice same tobacco vibrant aspect tower grief vote flat mechanic section nephew";

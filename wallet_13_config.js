@@ -1,1 +1,1 @@
-var mnemonic = "soul never pond amused divorce already reopen bargain wire width wide whale";
+var mnemonic = "present dumb owner flavor remind range visit plunge match message hollow liar";

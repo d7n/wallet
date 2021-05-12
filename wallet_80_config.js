@@ -1,1 +1,1 @@
-var mnemonic = "focus used ridge place grunt garden goddess pole airport minute peace script";
+var mnemonic = "drive average seminar scale smoke soon dry scrub essence theme drop subject";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle primary guide pause cabbage repeat public smart company west gas scatter";
+var mnemonic = "demise slender wealth soldier rebel genius scissors year sleep quote flame smart";

@@ -1,1 +1,1 @@
-var mnemonic = "error nuclear salad walnut egg slogan purity flavor sniff soul immense guess";
+var mnemonic = "suggest legend together outdoor inform reject fee guide cost swap cradle sweet";

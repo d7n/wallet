@@ -1,1 +1,1 @@
-var mnemonic = "inner club blade entire nation adjust legal type boost essay sail same";
+var mnemonic = "soap father slam decline focus cable nature junk fold news wedding jeans";

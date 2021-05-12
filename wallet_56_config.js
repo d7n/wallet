@@ -1,1 +1,1 @@
-var mnemonic = "suit merge waste forward unfold yellow outer swift more vault tone sword";
+var mnemonic = "bunker machine sudden kiwi same thought unhappy agent rural junior cargo ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "dress person distance square stay zero inspire stomach type total north resemble";
+var mnemonic = "task coconut door elite custom spin predict same evidence pet guitar sadness";

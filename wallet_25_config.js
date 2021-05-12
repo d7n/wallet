@@ -1,1 +1,1 @@
-var mnemonic = "crystal add supreme payment swear person amount that dumb spoil boat mountain";
+var mnemonic = "mystery brand flock shuffle hybrid script boost recycle faint tone purchase long";

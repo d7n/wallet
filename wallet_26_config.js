@@ -1,1 +1,1 @@
-var mnemonic = "omit reunion grow cluster mammal donkey elite female armed reward cabbage minute";
+var mnemonic = "horn voice knock swarm disorder verb bone organ black fork amateur say";

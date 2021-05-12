@@ -1,1 +1,1 @@
-var mnemonic = "home cherry twenty project mesh promote mansion front charge grid grow away";
+var mnemonic = "amazing guilt tank unknown pattern boil occur hero twelve insect wealth pretty";

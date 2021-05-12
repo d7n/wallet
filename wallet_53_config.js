@@ -1,1 +1,1 @@
-var mnemonic = "crumble basic source gauge loan priority model dentist payment mix vapor robot";
+var mnemonic = "story output summer clap rail cave buddy pyramid believe subway license check";

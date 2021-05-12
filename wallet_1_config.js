@@ -1,1 +1,1 @@
-var mnemonic = "abstract tumble warrior right castle later domain ocean venue sight abuse comfort";
+var mnemonic = "dove machine celery life rib decorate sheriff weird project question thank script";

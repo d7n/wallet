@@ -1,1 +1,1 @@
-var mnemonic = "secret ripple sleep clay bulk screen since yard clinic hole blossom pig";
+var mnemonic = "bargain demand sorry snack spring print chuckle page slot diagram legal degree";

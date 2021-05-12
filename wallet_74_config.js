@@ -1,1 +1,1 @@
-var mnemonic = "toast audit winner script category mixture enhance embody whisper picture tissue road";
+var mnemonic = "guilt card august attend heavy annual antenna live relax round answer give";

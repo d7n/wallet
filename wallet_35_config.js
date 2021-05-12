@@ -1,1 +1,1 @@
-var mnemonic = "attitude sweet unable spirit funny alert rough ketchup twenty clever pony card";
+var mnemonic = "galaxy fox spring aware argue angle brass divorce neck relief arrest obtain";

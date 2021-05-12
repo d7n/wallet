@@ -1,1 +1,1 @@
-var mnemonic = "beef try retire soft obtain front toward essence feel grain palace trial";
+var mnemonic = "what vivid honey again primary step double fossil amateur parade cricket hello";

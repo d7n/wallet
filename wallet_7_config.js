@@ -1,1 +1,1 @@
-var mnemonic = "crane arrow mobile autumn tiny crumble decade face resist gown spread chapter";
+var mnemonic = "law wedding ensure mango toy inmate smooth unknown used response tortoise sight";

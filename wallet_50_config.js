@@ -1,1 +1,1 @@
-var mnemonic = "turn tiny oblige payment unknown pigeon door diesel emotion fabric true vivid";
+var mnemonic = "control cotton stock color party derive actor silver buyer draft trade gift";

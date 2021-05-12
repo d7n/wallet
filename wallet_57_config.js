@@ -1,1 +1,1 @@
-var mnemonic = "annual skin hungry pond open limb parrot ride urban copy fat window";
+var mnemonic = "weird unaware swift fatal device hospital same rural grow hundred all change";

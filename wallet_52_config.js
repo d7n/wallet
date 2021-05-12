@@ -1,1 +1,1 @@
-var mnemonic = "stable surface hold song know monitor pattern target awesome vehicle tribe away";
+var mnemonic = "jungle market human bomb tourist smart remain ticket victory bridge speed series";

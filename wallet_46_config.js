@@ -1,1 +1,1 @@
-var mnemonic = "crystal obvious prepare maze moral drift rice foam invite mosquito snack keep";
+var mnemonic = "oak actor weather wet album medal venture stock essence very piece feel";

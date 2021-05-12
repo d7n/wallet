@@ -1,1 +1,1 @@
-var mnemonic = "already miss clarify prize mixture manage umbrella shield young action logic love";
+var mnemonic = "edge never frozen exact treat involve option blood olympic pulse diet oak";

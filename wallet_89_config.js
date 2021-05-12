@@ -1,1 +1,1 @@
-var mnemonic = "farm ship brother time milk pass mimic motion swamp faith lady deal";
+var mnemonic = "security own decorate input outdoor kind actress blast garlic garage acquire rebel";

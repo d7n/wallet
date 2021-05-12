@@ -1,1 +1,1 @@
-var mnemonic = "mixed equal coast million split coil school control vault earn second install";
+var mnemonic = "dove pumpkin cute swarm chimney appear drive best ski frame december once";

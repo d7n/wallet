@@ -1,1 +1,1 @@
-var mnemonic = "drift extend envelope bomb awake judge fit indoor silver toss behind girl";
+var mnemonic = "adult inch plate buzz scrub fatal child shine double galaxy curve burst";

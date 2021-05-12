@@ -1,1 +1,1 @@
-var mnemonic = "drift amount artist bicycle chase inhale reject stereo raw find version waste";
+var mnemonic = "put post butter busy victory talent grow again course often kid govern";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle swallow canyon crystal business drive autumn melt veteran skill chuckle peanut";
+var mnemonic = "giant sting bundle rough engage program until breeze foil vast become clog";

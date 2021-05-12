@@ -1,1 +1,1 @@
-var mnemonic = "wire valley wreck fault canyon cake twist snack improve protect rifle exhibit";
+var mnemonic = "online balcony spin wise palm faint print tone pact mango pistol else";

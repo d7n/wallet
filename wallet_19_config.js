@@ -1,1 +1,1 @@
-var mnemonic = "sample drop maple tortoise convince donkey loud cabin dirt blame add grain";
+var mnemonic = "festival brave draw castle axis derive crater elite hidden fiber orient slush";

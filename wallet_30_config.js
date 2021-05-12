@@ -1,1 +1,1 @@
-var mnemonic = "brother page blood room tiny river census novel bean hurry stomach human";
+var mnemonic = "marble worry govern final episode tell sell tip live electric program yard";

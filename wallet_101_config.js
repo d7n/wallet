@@ -1,1 +1,1 @@
-var mnemonic = "close surface praise pony express excuse bus sorry portion sponsor remove indicate";
+var mnemonic = "outdoor shell make secret offer sock recall swamp maximum general churn rookie";

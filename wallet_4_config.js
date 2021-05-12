@@ -1,1 +1,1 @@
-var mnemonic = "mutual chapter body brand brief umbrella away ginger quote egg dust arrest";
+var mnemonic = "relief knife bamboo swamp snake body mean idea latin depth fine save";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard visa crash sketch describe demand atom peasant hotel pattern silk deal";
+var mnemonic = "pyramid festival clap forest spoil mom alley forward push code two bike";

@@ -1,1 +1,1 @@
-var mnemonic = "foil win tuition hand egg festival chalk phrase measure acid mean forget";
+var mnemonic = "art anchor decade foam crunch cable capable visa dose mother argue captain";

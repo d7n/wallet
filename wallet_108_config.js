@@ -1,1 +1,1 @@
-var mnemonic = "surprise lobster drill swap hover coconut strategy permit doll second stomach merge";
+var mnemonic = "pupil veteran order boost wealth flush tunnel tool bacon brisk hold degree";

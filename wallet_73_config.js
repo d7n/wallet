@@ -1,1 +1,1 @@
-var mnemonic = "dinner item priority into review meadow ghost garment safe occur joy amateur";
+var mnemonic = "increase fury retreat choice drift quantum brown couch drift faculty slush pen";

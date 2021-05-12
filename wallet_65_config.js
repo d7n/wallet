@@ -1,1 +1,1 @@
-var mnemonic = "prefer wish room wink honey embody report donate mule bronze acquire cactus";
+var mnemonic = "rude badge crop domain wealth fish climb mind into radar ozone basic";

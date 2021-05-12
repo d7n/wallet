@@ -1,1 +1,1 @@
-var mnemonic = "finger cave educate adapt rib field fatigue impose bring salmon crop ethics";
+var mnemonic = "annual brisk car knock hospital balance squeeze mean lift you raise pen";

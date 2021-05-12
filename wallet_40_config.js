@@ -1,1 +1,1 @@
-var mnemonic = "noodle property vibrant stem tortoise ahead surround approve off boil jacket bundle";
+var mnemonic = "elite three arch hair viable drive cat fog decline sure melt bleak";

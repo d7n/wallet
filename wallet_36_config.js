@@ -1,1 +1,1 @@
-var mnemonic = "beauty rug butter survey mask tortoise toward pact blush wet squirrel crush";
+var mnemonic = "aunt regret response result path scan pumpkin cross burst hope oval science";

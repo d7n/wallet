@@ -1,1 +1,1 @@
-var mnemonic = "slot cheese neither spell occur forest ahead beauty guitar vital boat stone";
+var mnemonic = "guilt wise top choice payment two future priority mad topic marriage report";

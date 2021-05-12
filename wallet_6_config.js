@@ -1,1 +1,1 @@
-var mnemonic = "model subway onion potato cause present ranch apology session job exchange human";
+var mnemonic = "online choose indicate pioneer absorb velvet arrive luggage supply bulb between gate";

@@ -1,1 +1,1 @@
-var mnemonic = "west guitar scatter immune grocery immense autumn humble donate destroy differ dumb";
+var mnemonic = "day congress whale piano injury master major situate buyer tell woman art";

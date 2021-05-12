@@ -1,1 +1,1 @@
-var mnemonic = "adjust feed only cabbage bulk twelve stock echo pig emerge appear grid";
+var mnemonic = "whisper wire voice decide iron birth lucky swift priority magic game upset";

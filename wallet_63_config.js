@@ -1,1 +1,1 @@
-var mnemonic = "nose north miracle pill essence slow jacket smart canyon goose also liar";
+var mnemonic = "huge census tone buffalo text kitchen action exercise weekend biology neglect endless";

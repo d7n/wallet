@@ -1,1 +1,1 @@
-var mnemonic = "domain issue patient resemble south unable wise exile picture fold cotton domain";
+var mnemonic = "current surface world avocado shock explain hurt breeze joy blame apart siren";

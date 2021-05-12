@@ -1,1 +1,1 @@
-var mnemonic = "layer false oak cactus shadow width theme grace subway physical floor knock";
+var mnemonic = "limb lizard enlist ring blue truly tree ecology drink focus source design";

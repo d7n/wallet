@@ -1,1 +1,1 @@
-var mnemonic = "enter arrange scare run six welcome direct draft skate curtain craft oblige";
+var mnemonic = "forum battle pool blade blue force oven siege day mask unlock boy";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge often episode cave supply park eager arrest region soul mixed banana";
+var mnemonic = "empty damage minimum chapter female hole valve juice depart uncover spin month";

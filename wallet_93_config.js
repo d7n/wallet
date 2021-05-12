@@ -1,1 +1,1 @@
-var mnemonic = "among inspire canoe prefer agent leaf travel ozone cushion pause lawsuit owner";
+var mnemonic = "note ranch rubber moon erase balcony taste pulse joy force office heavy";
