@@ -1,1 +1,1 @@
-var mnemonic = "board ignore distance achieve episode kidney bulb execute seek grocery vanish around";
+var mnemonic = "margin lion stadium hunt bunker rail range lumber life taste reopen spirit";

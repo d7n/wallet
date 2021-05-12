@@ -1,1 +1,1 @@
-var mnemonic = "pave orange like scout rescue blast join elephant december practice nest mimic";
+var mnemonic = "daring also victory guilt news please control confirm riot damage canal together";

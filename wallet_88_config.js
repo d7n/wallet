@@ -1,1 +1,1 @@
-var mnemonic = "fly worry initial over erode almost reflect runway tree ranch verify punch";
+var mnemonic = "text approve album flame rescue edit clock remind glimpse galaxy total gown";

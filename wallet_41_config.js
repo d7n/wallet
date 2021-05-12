@@ -1,1 +1,1 @@
-var mnemonic = "seed mercy elegant clarify heart coach taxi gown upset crane property sunset";
+var mnemonic = "miracle text coyote mom hurry cart bread globe paddle absurd flash enhance";

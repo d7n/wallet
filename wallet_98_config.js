@@ -1,1 +1,1 @@
-var mnemonic = "during indoor caught sustain depart coil unlock setup other collect special hobby";
+var mnemonic = "candy humor hotel parade dignity expect raccoon mistake immense amazing vague mention";

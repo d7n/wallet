@@ -1,1 +1,1 @@
-var mnemonic = "remember promote paddle oxygen harvest kingdom hobby wife flush napkin young cave";
+var mnemonic = "wash bread when runway knife giggle robust furnace cushion claim camera romance";

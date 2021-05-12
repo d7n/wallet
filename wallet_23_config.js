@@ -1,1 +1,1 @@
-var mnemonic = "toss else silent tuition winter clever bean royal rack mesh blanket over";
+var mnemonic = "build chunk steel cash error force country buzz bike obscure spoon decorate";

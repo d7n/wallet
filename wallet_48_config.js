@@ -1,1 +1,1 @@
-var mnemonic = "pig victory crack tired payment enroll fossil hurry episode capital speed unhappy";
+var mnemonic = "retreat rug chase visa oyster allow grief wish robot trap target client";

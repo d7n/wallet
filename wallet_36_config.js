@@ -1,1 +1,1 @@
-var mnemonic = "fine wet patch family noble skill bone click solve clap release outdoor";
+var mnemonic = "clever pretty auction segment claim artwork anger lounge genre foster range casino";

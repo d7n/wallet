@@ -1,1 +1,1 @@
-var mnemonic = "wink hundred feature angle develop afraid claw miss slot token ordinary lunch";
+var mnemonic = "biology huge frozen bicycle avoid mom pause picture excuse liar clever liquid";

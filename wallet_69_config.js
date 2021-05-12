@@ -1,1 +1,1 @@
-var mnemonic = "blind aspect wool doctor visa carbon churn hen coyote accident funny enhance";
+var mnemonic = "pelican ring poem vault permit radar put health fit worry tuition link";

@@ -1,1 +1,1 @@
-var mnemonic = "proof energy flag lounge orchard wash sand base goddess sure dose deposit";
+var mnemonic = "tail twelve razor easily punch fiber release tide lyrics field enhance museum";

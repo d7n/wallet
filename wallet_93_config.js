@@ -1,1 +1,1 @@
-var mnemonic = "dwarf traffic resemble breeze point guitar inject only grunt mom hole anchor";
+var mnemonic = "custom will long grant urge scorpion drive avoid local adapt simple slice";

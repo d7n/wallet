@@ -1,1 +1,1 @@
-var mnemonic = "infant rescue smooth lounge beyond inmate argue body cause primary noise worth";
+var mnemonic = "earn exist dance inhale sunny grass zone test sunny culture hobby catalog";

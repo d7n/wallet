@@ -1,1 +1,1 @@
-var mnemonic = "census avoid dilemma file cabin pet stove brick execute october tragic drive";
+var mnemonic = "radar hire jealous job file anger banner zoo rug tree cause despair";

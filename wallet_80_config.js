@@ -1,1 +1,1 @@
-var mnemonic = "essay avocado common shock audit defy supreme scale sibling left twice stand";
+var mnemonic = "move visual magnet team cushion play scrub cupboard sail harvest first hamster";

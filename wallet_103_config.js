@@ -1,1 +1,1 @@
-var mnemonic = "ready resemble arena jealous dynamic clean grunt puzzle remove claim finger garden";
+var mnemonic = "magic drink twelve coconut slot open right typical shield photo negative govern";

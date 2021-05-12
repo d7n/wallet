@@ -1,1 +1,1 @@
-var mnemonic = "protect magnet shock spy dilemma romance bar arctic drink direct head bounce";
+var mnemonic = "claw body perfect since network student toss rice mother exercise remove flip";

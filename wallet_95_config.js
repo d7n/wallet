@@ -1,1 +1,1 @@
-var mnemonic = "win connect deliver regular shed exotic betray bleak obvious pitch affair awful";
+var mnemonic = "fan latin happy habit fiction rare switch photo october old alert thumb";

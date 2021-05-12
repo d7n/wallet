@@ -1,1 +1,1 @@
-var mnemonic = "fury reflect blame will nasty kingdom region valid firm wreck problem champion";
+var mnemonic = "valley agree magic state grass emerge rug series critic conduct art magic";

@@ -1,1 +1,1 @@
-var mnemonic = "wise north gaze virus hospital drastic gasp outdoor panda wool cage laugh";
+var mnemonic = "blame involve duty action argue napkin deer rare double sound assume super";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist elbow vessel fault anxiety artefact exit foster nuclear unhappy service luxury";
+var mnemonic = "wolf smile response cruise copper tourist dinosaur success bicycle night science normal";

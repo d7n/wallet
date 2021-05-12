@@ -1,1 +1,1 @@
-var mnemonic = "sound culture ridge vintage awful dentist gown hurry tuition adapt person paper";
+var mnemonic = "drift exhibit goddess ring approve broken magnet drastic bench forest require capable";

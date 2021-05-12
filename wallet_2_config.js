@@ -1,1 +1,1 @@
-var mnemonic = "pride artist scare movie mirror sphere detail correct monitor fever quote fitness";
+var mnemonic = "wise scan person flee only police tomorrow ivory between weapon humor wet";

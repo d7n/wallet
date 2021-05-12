@@ -1,1 +1,1 @@
-var mnemonic = "useless yellow face exile perfect picture cube appear tape scale cushion tiger";
+var mnemonic = "child agent home acid dirt figure year upper phone alien talk dinosaur";

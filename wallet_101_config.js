@@ -1,1 +1,1 @@
-var mnemonic = "quiz electric hire second away desert mask indoor pet brown broccoli faith";
+var mnemonic = "nasty slender twelve remain chicken name feel remind mule coffee amateur short";

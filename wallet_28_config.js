@@ -1,1 +1,1 @@
-var mnemonic = "minute aspect method bonus wool elephant moment design rely voice dignity cross";
+var mnemonic = "relax civil dry car unable emerge sibling powder blush fish easily gold";

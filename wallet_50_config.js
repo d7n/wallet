@@ -1,1 +1,1 @@
-var mnemonic = "try change duck error scale old number cat seminar creek chapter usual";
+var mnemonic = "doctor able warrior journey force frown wide tube disagree horse pattern home";

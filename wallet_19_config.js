@@ -1,1 +1,1 @@
-var mnemonic = "script federal antenna rely session add biology denial acquire future virus marble";
+var mnemonic = "capital topic tobacco exhibit ball chair exchange draw trial genuine notable junior";

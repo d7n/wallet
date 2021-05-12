@@ -1,1 +1,1 @@
-var mnemonic = "afraid chuckle wrap peasant hockey view give release seek behind ring praise";
+var mnemonic = "snow fury sustain fiscal double involve fun dream purchase final arrow pioneer";

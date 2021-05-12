@@ -1,1 +1,1 @@
-var mnemonic = "network pony better unlock gospel year pride artwork quality bargain this hen";
+var mnemonic = "tiny iron calm script twist zero game globe wreck sugar squirrel original";

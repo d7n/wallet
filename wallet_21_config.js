@@ -1,1 +1,1 @@
-var mnemonic = "brass addict keen gold couch hawk obey pair place original hammer island";
+var mnemonic = "gate this scare media topple limit broken muffin buyer convince you initial";

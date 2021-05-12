@@ -1,1 +1,1 @@
-var mnemonic = "game rabbit buzz cotton taxi hawk warrior accident despair fresh object old";
+var mnemonic = "direct lounge debate crazy snake federal caution group sick syrup chat virus";

@@ -1,1 +1,1 @@
-var mnemonic = "snack build material spice lumber region pledge wide connect below hen spy";
+var mnemonic = "salmon fork stool crane spin spy key achieve home valley match pistol";

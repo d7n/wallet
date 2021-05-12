@@ -1,1 +1,1 @@
-var mnemonic = "unlock lion layer disease clown jaguar spread glove relax cruise heavy bread";
+var mnemonic = "pelican index crystal always maple alone please lizard adult music human learn";

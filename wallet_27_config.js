@@ -1,1 +1,1 @@
-var mnemonic = "people humor quit gravity stove act link upper quiz life fit spray";
+var mnemonic = "round between during citizen series certain discover young actor yellow solid shed";

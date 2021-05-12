@@ -1,1 +1,1 @@
-var mnemonic = "ahead theme muffin abandon latin envelope reason minute basket increase current fee";
+var mnemonic = "there pudding delay movie visit walk avocado situate devote basic focus unveil";

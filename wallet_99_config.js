@@ -1,1 +1,1 @@
-var mnemonic = "junk team dilemma festival keep fatal maple avocado shadow awful simple wave";
+var mnemonic = "mad remove library pony luxury now couple dentist wedding cargo coil sugar";

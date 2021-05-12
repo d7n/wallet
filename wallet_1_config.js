@@ -1,1 +1,1 @@
-var mnemonic = "witness maze perfect opinion front vicious train elder culture fabric puppy soup";
+var mnemonic = "seed pulse acid divorce remain tomorrow wedding rely attract early bid often";

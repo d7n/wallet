@@ -1,1 +1,1 @@
-var mnemonic = "seven universe pizza model foil rapid empower crime visit pig history piece";
+var mnemonic = "near cotton guilt property obey beauty ill solar violin economy around mesh";

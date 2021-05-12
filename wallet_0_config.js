@@ -1,1 +1,1 @@
-var mnemonic = "oppose budget square method tumble favorite ribbon april usage void ocean enhance";
+var mnemonic = "scatter regret tourist leisure perfect hire afraid eternal square often key wood";

@@ -1,1 +1,1 @@
-var mnemonic = "submit shoulder frozen joy style verify wear chapter sample company weather tribe";
+var mnemonic = "october excuse reason cluster indoor gloom mandate fade alcohol outer comic news";

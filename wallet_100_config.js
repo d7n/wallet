@@ -1,1 +1,1 @@
-var mnemonic = "mixture flip banner strategy olive release clarify dawn mushroom goose bench dice";
+var mnemonic = "local renew express shiver spirit solve focus speak cave damage goat liberty";

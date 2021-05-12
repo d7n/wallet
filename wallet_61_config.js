@@ -1,1 +1,1 @@
-var mnemonic = "yellow chunk neither doll lecture tennis tuna cloth ask number news rich";
+var mnemonic = "sort online knock explain dismiss ceiling radar glance reject seminar correct dentist";

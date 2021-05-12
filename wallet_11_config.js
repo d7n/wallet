@@ -1,1 +1,1 @@
-var mnemonic = "gap already near orchard aspect pyramid knife mule turtle clock high negative";
+var mnemonic = "vacuum enrich gospel coral buffalo duck enact skull swarm harbor fortune brain";

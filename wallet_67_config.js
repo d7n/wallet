@@ -1,1 +1,1 @@
-var mnemonic = "palace goose fantasy empower lake feel human neither artwork eight riot crawl";
+var mnemonic = "arch mountain crop peasant soldier twice scorpion weather empower together leopard service";

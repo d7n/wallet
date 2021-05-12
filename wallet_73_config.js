@@ -1,1 +1,1 @@
-var mnemonic = "ethics bronze caution tell quarter cost fish believe someone nice inject height";
+var mnemonic = "clump chef assault find burden uncover arrest exotic step blind stuff tired";

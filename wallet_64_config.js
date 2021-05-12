@@ -1,1 +1,1 @@
-var mnemonic = "habit admit session valve nose rookie during volume cousin wasp bargain riot";
+var mnemonic = "vote atom youth solid picnic wire oppose left rubber nothing cousin garage";

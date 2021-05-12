@@ -1,1 +1,1 @@
-var mnemonic = "proof soldier embark minute host october room hawk dirt dad multiply wink";
+var mnemonic = "unique adult denial front follow give link stock lazy hover resource march";

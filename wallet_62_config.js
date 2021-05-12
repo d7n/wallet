@@ -1,1 +1,1 @@
-var mnemonic = "injury remember turn divide close young umbrella muscle trophy scrap marine horn";
+var mnemonic = "desk solar kick blast snake beef boost figure garden video sugar armed";

@@ -1,1 +1,1 @@
-var mnemonic = "parent place cage rescue mention east empty debris urge kick spray ticket";
+var mnemonic = "table rely garment local awful shoulder tragic awesome trade capable fire together";

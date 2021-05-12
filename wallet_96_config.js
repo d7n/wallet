@@ -1,1 +1,1 @@
-var mnemonic = "buffalo trim wrong wild erode erode achieve rival please elevator expire purpose";
+var mnemonic = "tide ship shoot reopen fiction smooth donate gown polar tip crouch dignity";

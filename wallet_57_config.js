@@ -1,1 +1,1 @@
-var mnemonic = "net tuna rely student around logic agent crumble stone miss day grid";
+var mnemonic = "mixture north action pelican stomach addict pipe fuel blind van pencil nut";

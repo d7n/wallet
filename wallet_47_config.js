@@ -1,1 +1,1 @@
-var mnemonic = "legend notable ginger canyon round cousin verb draw loyal pottery later alley";
+var mnemonic = "impose dad wine tackle mesh panel bicycle stuff arrow arctic nominee mad";

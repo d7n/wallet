@@ -1,1 +1,1 @@
-var mnemonic = "employ wrong civil joke program still anger belt help skirt scare matter";
+var mnemonic = "latin caution empower seed moon pistol woman manual inquiry dignity essay monkey";

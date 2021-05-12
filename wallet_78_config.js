@@ -1,1 +1,1 @@
-var mnemonic = "effort misery screen month help weasel just provide visual insane feed idea";
+var mnemonic = "acid twice pear vague select rug sorry best erase weapon draft lawn";

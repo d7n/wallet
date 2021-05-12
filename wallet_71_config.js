@@ -1,1 +1,1 @@
-var mnemonic = "enforce elephant wreck renew man market arrange recipe copy afford private bundle";
+var mnemonic = "lawsuit flag satoshi humble design uncover truck royal shift depth draw female";

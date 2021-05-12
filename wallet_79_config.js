@@ -1,1 +1,1 @@
-var mnemonic = "crater dream symbol ring drip exile toward sister depth mass antique cement";
+var mnemonic = "jar crumble bone enough usual recall liar air glass smile arrange effort";

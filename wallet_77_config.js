@@ -1,1 +1,1 @@
-var mnemonic = "fox often roast often crucial top calm absurd entry toy above help";
+var mnemonic = "twice upon satoshi hybrid gauge viable tape turtle word drum photo kite";

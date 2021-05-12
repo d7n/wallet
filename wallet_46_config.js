@@ -1,1 +1,1 @@
-var mnemonic = "across okay work alien laundry genre negative mystery truly fade afraid canvas";
+var mnemonic = "ridge story catalog sign winner tissue fun idle middle cereal pause banner";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire now segment inform field jacket helmet train valid wink promote crater";
+var mnemonic = "access kiss trick blossom drink virus submit winner provide room foil daring";

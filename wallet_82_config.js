@@ -1,1 +1,1 @@
-var mnemonic = "sick enter credit vessel toast desk foster explain census weather actress life";
+var mnemonic = "clog prefer energy stamp speak copy girl muscle south vote guitar broom";

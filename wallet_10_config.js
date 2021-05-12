@@ -1,1 +1,1 @@
-var mnemonic = "police luxury sell car people girl inside antique front moment banana february";
+var mnemonic = "assume negative rug caution double pudding frost fury raw lyrics estate abstract";

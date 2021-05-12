@@ -1,1 +1,1 @@
-var mnemonic = "slice west plate program apple pill off desk awful deal alone valley";
+var mnemonic = "soul own century elephant upset between gown stumble height nuclear remove issue";

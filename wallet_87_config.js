@@ -1,1 +1,1 @@
-var mnemonic = "win attitude cloud agent acquire left huge demise spawn where civil warrior";
+var mnemonic = "under during title panic proof injury rug advance sausage fashion limit quality";

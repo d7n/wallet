@@ -1,1 +1,1 @@
-var mnemonic = "convince area this exclude any oblige average about sheriff under height panic";
+var mnemonic = "bulk parrot toilet twenty squeeze lady violin urge fancy soup sustain label";

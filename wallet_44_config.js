@@ -1,1 +1,1 @@
-var mnemonic = "cloth damp sausage soccer home birth claim huge hunt afraid notable canal";
+var mnemonic = "actual scrap balance sniff spray width family orchard van struggle tackle tomato";

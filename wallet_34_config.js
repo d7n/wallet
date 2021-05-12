@@ -1,1 +1,1 @@
-var mnemonic = "arm simple wedding aunt legal drill enhance coffee fork omit wet aisle";
+var mnemonic = "discover vicious orchard mind guard harvest blade usage uncover share pudding curve";

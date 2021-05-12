@@ -1,1 +1,1 @@
-var mnemonic = "leader soccer follow chase payment melt pizza behind canyon blind motion all";
+var mnemonic = "kite tray brick decide audit glance parade monkey tiny title remember parent";

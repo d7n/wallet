@@ -1,1 +1,1 @@
-var mnemonic = "tank mansion book pear foil coyote wrist fox flight patch album illness";
+var mnemonic = "life cinnamon already find voyage embark ship toilet brief punch voyage traffic";

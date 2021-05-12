@@ -1,1 +1,1 @@
-var mnemonic = "dry unveil depend fancy wall dismiss search badge cheese rude kick pilot";
+var mnemonic = "east candy mimic void response divide ginger raw omit rough ginger enjoy";

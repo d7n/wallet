@@ -1,1 +1,1 @@
-var mnemonic = "glory run sustain oxygen priority actual robot brush ritual oval artist crawl";
+var mnemonic = "left improve morning nurse race raccoon enroll force term hope long round";

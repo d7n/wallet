@@ -1,1 +1,1 @@
-var mnemonic = "before fee chase wise cancel remind sea wreck poet panther romance spider";
+var mnemonic = "design warm toss frequent skull dragon improve slam practice shallow number mutual";

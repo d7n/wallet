@@ -1,1 +1,1 @@
-var mnemonic = "stumble ticket nice ghost bicycle scale coast run board nurse vote trap";
+var mnemonic = "armor assist father myth first chief enhance smooth peanut abuse floor trumpet";

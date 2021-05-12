@@ -1,1 +1,1 @@
-var mnemonic = "inner prosper cinnamon volcano current fiction weasel govern narrow forward proof squirrel";
+var mnemonic = "coach holiday screen fit rail collect high suffer promote snake drama stumble";

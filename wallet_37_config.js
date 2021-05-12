@@ -1,1 +1,1 @@
-var mnemonic = "cliff spy sister hundred party sudden flock snap journey almost defy angle";
+var mnemonic = "alien memory crazy dial wolf six make sad control soap wrestle wood";

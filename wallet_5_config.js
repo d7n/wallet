@@ -1,1 +1,1 @@
-var mnemonic = "dynamic army inherit budget valid left demand pool catch hedgehog muscle actress";
+var mnemonic = "moon bag cream clap glare make cricket group draft same drum defy";

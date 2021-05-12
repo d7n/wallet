@@ -1,1 +1,1 @@
-var mnemonic = "warm party puppy fox develop anchor resist mix defy ghost sustain outer";
+var mnemonic = "dust bunker target online mango catch clown awful moon fat engine similar";

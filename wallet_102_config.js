@@ -1,1 +1,1 @@
-var mnemonic = "identify tortoise worry deliver small hub extra noodle pumpkin explain reform recycle";
+var mnemonic = "chaos boost impact squeeze scrub grunt team nice range define assault unable";

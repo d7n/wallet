@@ -1,1 +1,1 @@
-var mnemonic = "friend battle ankle cram board cannon awesome pumpkin ensure agree monitor can";
+var mnemonic = "flip modify country plug chalk egg tomorrow fresh office hobby grab install";

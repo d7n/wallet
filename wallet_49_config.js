@@ -1,1 +1,1 @@
-var mnemonic = "mix digital spin property scorpion course gold ability property hurdle screen pen";
+var mnemonic = "steak brick social net file broken round lens garbage gain label glance";

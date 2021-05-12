@@ -1,1 +1,1 @@
-var mnemonic = "caught drastic monster alter object prosper bird fresh agent tongue catalog define";
+var mnemonic = "unhappy paddle section day cart dash bless salmon whale moon palace prize";

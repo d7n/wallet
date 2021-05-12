@@ -1,1 +1,1 @@
-var mnemonic = "earth theme rely cheese catch moon dry toward invite general expose gossip";
+var mnemonic = "donate chat brand solid suggest crouch slush slender heart smile drastic fragile";

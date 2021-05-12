@@ -1,1 +1,1 @@
-var mnemonic = "lecture crowd smile culture face eight egg flag viable hobby alcohol inspire";
+var mnemonic = "rib example execute asthma sand gift alcohol thing pen short enhance blame";

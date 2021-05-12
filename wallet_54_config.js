@@ -1,1 +1,1 @@
-var mnemonic = "captain pitch submit roast random hawk sell collect unhappy pioneer thrive doctor";
+var mnemonic = "winter weasel leaf salmon knee exchange now fantasy joke awful bicycle ridge";

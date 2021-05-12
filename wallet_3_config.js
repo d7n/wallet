@@ -1,1 +1,1 @@
-var mnemonic = "quality satoshi connect ribbon comfort private short keen picture later letter taste";
+var mnemonic = "brief over sort shift multiply employ pistol width acoustic eternal almost ten";

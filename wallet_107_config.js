@@ -1,1 +1,1 @@
-var mnemonic = "refuse process develop weasel year position team sugar victory deputy defense abstract";
+var mnemonic = "limit rebuild skate index saddle lesson pumpkin witness cargo carry steak mosquito";

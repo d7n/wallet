@@ -1,1 +1,1 @@
-var mnemonic = "square empower daring cash arena supply aspect melody sunset country hungry ozone";
+var mnemonic = "tent glow easily again owner dash usual attack pizza boat artwork element";
