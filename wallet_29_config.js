@@ -1,1 +1,1 @@
-var mnemonic = "cat action mom parent purchase olympic appear twist travel toy clog mule";
+var mnemonic = "try trial tenant local grid calm inflict rib island hammer flash dutch";

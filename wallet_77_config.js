@@ -1,1 +1,1 @@
-var mnemonic = "banner they auction mad hawk main poverty fossil guard author often math";
+var mnemonic = "border bleak zebra follow clock force cinnamon reward rent you dream much";

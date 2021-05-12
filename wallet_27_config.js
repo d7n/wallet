@@ -1,1 +1,1 @@
-var mnemonic = "liquid vessel version amazing boost pupil lawn sponsor guide story usage satoshi";
+var mnemonic = "heart valley bean retreat armor cannon average assist anchor spatial shaft glue";

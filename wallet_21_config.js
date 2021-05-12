@@ -1,1 +1,1 @@
-var mnemonic = "home library grow radio model dry observe tattoo fresh bachelor cheese onion";
+var mnemonic = "earn work panic urge duck refuse afraid current grow oxygen approve employ";

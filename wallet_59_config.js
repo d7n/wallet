@@ -1,1 +1,1 @@
-var mnemonic = "famous miracle scissors rabbit lesson face proud lift van hospital anchor bar";
+var mnemonic = "illness soccer extend buffalo width actress embody laundry hub render another original";

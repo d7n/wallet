@@ -1,1 +1,1 @@
-var mnemonic = "random panel upgrade gospel warm feel wage relax alert execute fringe teach";
+var mnemonic = "core lawsuit travel gown buddy oppose useful all humor verb shock wise";

@@ -1,1 +1,1 @@
-var mnemonic = "stand filter left lesson raven fork brown movie siege derive shed price";
+var mnemonic = "that whisper index brother frown negative impose basic kangaroo iron latin project";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing unaware feed cream equip witness eye tired cash else tonight reduce";
+var mnemonic = "rate enemy social rookie write face ancient still catalog ship tilt today";

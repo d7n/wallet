@@ -1,1 +1,1 @@
-var mnemonic = "chuckle liar noodle present poem off disagree pepper capital exile couple begin";
+var mnemonic = "nothing double foam table disorder human range bring deal palm happy upper";

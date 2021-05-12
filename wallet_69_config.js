@@ -1,1 +1,1 @@
-var mnemonic = "rebuild purity remind thrive involve system enroll crowd bomb opinion job next";
+var mnemonic = "sleep ready kite enrich conduct segment shiver crash lottery tumble tool tennis";

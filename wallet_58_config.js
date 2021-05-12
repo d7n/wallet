@@ -1,1 +1,1 @@
-var mnemonic = "dose bamboo permit mango frozen drama humble pave tell giant mail farm";
+var mnemonic = "sick decide please frame emerge august fortune fruit cargo occur animal access";

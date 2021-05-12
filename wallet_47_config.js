@@ -1,1 +1,1 @@
-var mnemonic = "prefer elevator elite wagon during police fever tortoise robust tool mail absent";
+var mnemonic = "decorate until sock excite seven identify sugar area borrow credit sponsor history";

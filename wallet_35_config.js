@@ -1,1 +1,1 @@
-var mnemonic = "canal paddle adjust intact dress edge catch expose fan gasp crunch velvet";
+var mnemonic = "mass steel collect fox wreck elder lawsuit choice office mass north theory";

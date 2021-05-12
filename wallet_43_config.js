@@ -1,1 +1,1 @@
-var mnemonic = "equal absorb else atom hen salmon method ball fiction deposit device cruel";
+var mnemonic = "deny feel earn payment enable pony move lawsuit produce miracle tool govern";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket fantasy audit mail cotton oblige view reveal isolate glance canyon wolf";
+var mnemonic = "sketch steel metal clap quality oppose element long apology wild unable virtual";

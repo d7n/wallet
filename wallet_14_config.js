@@ -1,1 +1,1 @@
-var mnemonic = "brick west light pill liberty party dance dust manage unfold sun retire";
+var mnemonic = "scheme mobile switch limit minute control video wide law tube pole frog";

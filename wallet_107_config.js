@@ -1,1 +1,1 @@
-var mnemonic = "rice glow stem spin addict blast general shoe lawn brief rent bind";
+var mnemonic = "output cover bullet goddess few ignore immune toilet bomb fruit verify end";

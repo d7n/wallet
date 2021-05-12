@@ -1,1 +1,1 @@
-var mnemonic = "turtle gaze axis venue season expand try fringe tongue marine east fitness";
+var mnemonic = "check vanish witness fire parrot group thank guide survey frost salon key";

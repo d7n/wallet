@@ -1,1 +1,1 @@
-var mnemonic = "bike gospel magnet moon fox among acoustic grief blade faculty number else";
+var mnemonic = "comfort coyote genre sorry still view feature write screen forward lawsuit dream";

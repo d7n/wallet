@@ -1,1 +1,1 @@
-var mnemonic = "gather potato ozone acid measure exact budget vivid maze lounge frown setup";
+var mnemonic = "improve energy sketch wire island evoke shine goat taxi mixed advice rate";

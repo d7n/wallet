@@ -1,1 +1,1 @@
-var mnemonic = "wave balance jacket route brown there scissors ship issue gain camera amused";
+var mnemonic = "amateur globe hair jelly hamster north among sweet frame fault run blast";

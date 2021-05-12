@@ -1,1 +1,1 @@
-var mnemonic = "typical amount gap item shop column curve sudden asset boss arch glory";
+var mnemonic = "inject choose daring task ride slide mesh airport solve seed seed shield";

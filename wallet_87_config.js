@@ -1,1 +1,1 @@
-var mnemonic = "love short distance sword chef kitchen jaguar replace artefact monitor bronze announce";
+var mnemonic = "afford pond young bronze puzzle liquid acid sea nothing essence anxiety clarify";

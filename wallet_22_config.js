@@ -1,1 +1,1 @@
-var mnemonic = "penalty coyote deny deny divert swap melt object glow lens diagram heavy";
+var mnemonic = "sock eye trash urge ketchup inhale dignity dove turkey scheme curious tribe";

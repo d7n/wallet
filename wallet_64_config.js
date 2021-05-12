@@ -1,1 +1,1 @@
-var mnemonic = "virus urban yellow donor ramp jazz art about melody squirrel connect nature";
+var mnemonic = "mouse theme tape aim menu lyrics rebuild arrive doctor dizzy atom polar";

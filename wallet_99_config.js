@@ -1,1 +1,1 @@
-var mnemonic = "denial test little sea truth vast target boss enforce bacon useless jeans";
+var mnemonic = "include stable adjust merit tower lab scatter brush green town find pull";

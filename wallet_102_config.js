@@ -1,1 +1,1 @@
-var mnemonic = "utility grocery film thought copy mosquito access sail open walnut glance letter";
+var mnemonic = "hazard scatter entry keen favorite monkey hamster squirrel talk stage false update";

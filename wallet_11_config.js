@@ -1,1 +1,1 @@
-var mnemonic = "melt glue inhale update march sheriff author fruit supreme layer genius caution";
+var mnemonic = "potato vague wisdom bright gravity float defy sun soldier submit speak rapid";

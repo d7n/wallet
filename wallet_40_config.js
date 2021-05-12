@@ -1,1 +1,1 @@
-var mnemonic = "deputy enforce siege engage just link slush expose rival stomach volcano cry";
+var mnemonic = "credit balance state world account battle deer car august pizza soccer shove";

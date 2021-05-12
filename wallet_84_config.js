@@ -1,1 +1,1 @@
-var mnemonic = "typical cabin huge vague spoil choose must donate ketchup shadow advance ignore";
+var mnemonic = "differ great jelly wonder cup summer brave file elder absorb zone worth";

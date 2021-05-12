@@ -1,1 +1,1 @@
-var mnemonic = "estate asthma estate install toilet winter message bonus chronic debate twenty expect";
+var mnemonic = "ring install bring approve comfort pill surround retreat timber unique cricket enable";

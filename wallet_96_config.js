@@ -1,1 +1,1 @@
-var mnemonic = "doctor oval perfect illegal heart merry engage junior pumpkin spike shallow scare";
+var mnemonic = "inquiry egg polar tilt increase stand expect anxiety route dice spare bachelor";

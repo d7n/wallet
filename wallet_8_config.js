@@ -1,1 +1,1 @@
-var mnemonic = "fire settle property lecture guitar fringe jeans canvas box erupt skull false";
+var mnemonic = "regret material end urge lounge law vicious avoid plate poem salute quit";

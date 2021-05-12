@@ -1,1 +1,1 @@
-var mnemonic = "kid fever frame leopard curtain safe woman boss shiver crash same sail";
+var mnemonic = "own main cherry carbon poet attack spider squeeze split survey barrel hurry";

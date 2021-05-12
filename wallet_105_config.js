@@ -1,1 +1,1 @@
-var mnemonic = "champion tree antenna minor panic then enroll able crater ride guitar thing";
+var mnemonic = "trial donate beef mutual glove east office note copper master pole mask";

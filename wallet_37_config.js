@@ -1,1 +1,1 @@
-var mnemonic = "riot amateur exhibit almost ankle shuffle decline own renew brush slender under";
+var mnemonic = "stool upper provide intact elegant rare helmet unknown kitchen aspect simple stage";

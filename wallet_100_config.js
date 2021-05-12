@@ -1,1 +1,1 @@
-var mnemonic = "man glue edge submit opinion giggle dress steak wheat release goddess guilt";
+var mnemonic = "unveil can long stay session true agree carry mad toy velvet believe";

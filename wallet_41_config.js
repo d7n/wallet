@@ -1,1 +1,1 @@
-var mnemonic = "dilemma hurt celery winter find cave genius marriage claim gold horn crash";
+var mnemonic = "mechanic switch scheme inform harsh enforce vanish decide output tiny relief garden";

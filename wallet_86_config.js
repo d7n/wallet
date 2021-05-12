@@ -1,1 +1,1 @@
-var mnemonic = "spare thing fee sudden more august sister food exit daughter heart daughter";
+var mnemonic = "mule offer soup motion scorpion accident bag aerobic hurt grocery effort advance";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage awake caught royal caught celery brown habit settle secret produce faculty";
+var mnemonic = "flight almost gate museum under family hint vintage hurdle mixture erupt glow";

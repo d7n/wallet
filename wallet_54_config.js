@@ -1,1 +1,1 @@
-var mnemonic = "quit scale fold around tribe dice fantasy mammal unveil fresh page myth";
+var mnemonic = "sphere mention route army employ autumn autumn fortune ridge boring rigid raccoon";

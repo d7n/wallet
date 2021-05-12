@@ -1,1 +1,1 @@
-var mnemonic = "breeze clap accident gaze primary hen speed visa hungry fantasy later stock";
+var mnemonic = "person twist brown happy will exercise occur advice trumpet patient option other";

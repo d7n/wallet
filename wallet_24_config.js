@@ -1,1 +1,1 @@
-var mnemonic = "short card husband seed swarm pave west sail cry rapid yellow matter";
+var mnemonic = "eager radar hazard any frequent alert crawl orbit breeze reward vote shoulder";

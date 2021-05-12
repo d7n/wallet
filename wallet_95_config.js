@@ -1,1 +1,1 @@
-var mnemonic = "fortune cabin industry believe motor despair magnet draw tiger mutual van usage";
+var mnemonic = "good celery dad tone close penalty pottery ankle noble puzzle recycle weapon";

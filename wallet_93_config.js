@@ -1,1 +1,1 @@
-var mnemonic = "canvas squeeze raise wheat scout hard wing invite fiscal more true mom";
+var mnemonic = "country organ have champion error multiply opinion meadow table develop mercy census";

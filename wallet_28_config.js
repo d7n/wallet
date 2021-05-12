@@ -1,1 +1,1 @@
-var mnemonic = "unaware dune follow season bundle cabbage affair milk seed boost indicate palm";
+var mnemonic = "flip prevent decrease spider mask smile buzz chase carry rapid custom property";

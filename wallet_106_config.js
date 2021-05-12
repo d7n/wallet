@@ -1,1 +1,1 @@
-var mnemonic = "genius suspect goose cabbage slogan guide vanish resist seminar prosper course embrace";
+var mnemonic = "random topic bridge olive project sight join scene issue obscure small skull";

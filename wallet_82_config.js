@@ -1,1 +1,1 @@
-var mnemonic = "flush close evoke sketch shadow choice voice soul renew prosper ski ritual";
+var mnemonic = "narrow fantasy buffalo pet will vendor wisdom congress write excess amount duck";

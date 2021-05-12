@@ -1,1 +1,1 @@
-var mnemonic = "marble upper luxury kangaroo maid glad craft survey alert riot also pipe";
+var mnemonic = "peasant dawn arrange then shed dish unusual breeze favorite flavor mind prepare";

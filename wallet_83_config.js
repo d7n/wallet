@@ -1,1 +1,1 @@
-var mnemonic = "floor sail weekend visa duck govern kick attack reflect bridge sort whale";
+var mnemonic = "swamp marble verb elevator equal road fence narrow try cheese submit deer";

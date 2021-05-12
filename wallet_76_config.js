@@ -1,1 +1,1 @@
-var mnemonic = "stumble season enter fence crawl bonus mimic summer purchase affair oval jealous";
+var mnemonic = "sure bubble heavy plate average cereal bulb blossom remember stairs ocean matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "large surface saddle ridge skill have window smooth flat violin share patch";
+var mnemonic = "observe decade town collect into barrel one public congress inmate zone broken";

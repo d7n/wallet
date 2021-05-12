@@ -1,1 +1,1 @@
-var mnemonic = "army gas harbor focus dad six ability outside icon truth blush oyster";
+var mnemonic = "cousin daring tribe hello grain pizza device inhale crowd learn canyon spell";

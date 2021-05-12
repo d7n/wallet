@@ -1,1 +1,1 @@
-var mnemonic = "first review honey impose business floor health inform swift black key castle";
+var mnemonic = "witness naive eternal wild normal question sweet film slight upon empty merit";

@@ -1,1 +1,1 @@
-var mnemonic = "snack guitar three gold smile outside gossip health risk expose lecture endless";
+var mnemonic = "seven letter disease off wolf vote write river broccoli patch arena size";

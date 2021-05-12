@@ -1,1 +1,1 @@
-var mnemonic = "phone judge reward resource inch device cute wear hood process random board";
+var mnemonic = "penalty describe voyage chunk loan smooth bachelor garbage million truth this network";

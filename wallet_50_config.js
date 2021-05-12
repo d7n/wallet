@@ -1,1 +1,1 @@
-var mnemonic = "wrist round liquid artefact pass waste trial resemble total garbage ocean input";
+var mnemonic = "victory cake suggest account clock tuna sauce always swap betray educate october";

@@ -1,1 +1,1 @@
-var mnemonic = "minor tragic inmate actual almost alcohol blush broom horse gym surprise cushion";
+var mnemonic = "key patrol shove stool select edge tray spring famous power lawsuit bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "dish table bonus assault fox coral river blood citizen library legal alert";
+var mnemonic = "inherit private guard frost arrive text length decrease hunt fire game parrot";

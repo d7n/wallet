@@ -1,1 +1,1 @@
-var mnemonic = "length cruel surge about empty able donkey hero arctic surge expose gas";
+var mnemonic = "silk vital intact bamboo school creek spread awful canyon ribbon tag crazy";

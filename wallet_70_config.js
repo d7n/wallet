@@ -1,1 +1,1 @@
-var mnemonic = "network spoon round mother wave copy cotton own insect secret hundred swamp";
+var mnemonic = "nut crop craft law credit mother case evidence cactus summer list bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "ten warm fish when access rely motion circle craft piano mention diesel";
+var mnemonic = "finish shell tuition dawn history rule wish wheat grace liberty ramp mass";

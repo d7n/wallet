@@ -1,1 +1,1 @@
-var mnemonic = "trade pear early item thrive umbrella ring tent expose admit easy say";
+var mnemonic = "minor doctor access exit picture march lunar theory slice grab magnet switch";

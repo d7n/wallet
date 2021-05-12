@@ -1,1 +1,1 @@
-var mnemonic = "copy across piece harvest coach antique penalty diet rubber pass wrong duty";
+var mnemonic = "leopard couch grocery orient merry dash eye actual kidney urban false expose";

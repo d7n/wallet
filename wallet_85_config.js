@@ -1,1 +1,1 @@
-var mnemonic = "behind rack attract stove airport taxi blush remind ethics ski wear clog";
+var mnemonic = "rude slam correct glimpse frame student first swallow awake stomach among armor";

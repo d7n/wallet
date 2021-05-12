@@ -1,1 +1,1 @@
-var mnemonic = "air crucial slight online drastic random pole gentle drip cancel slice sea";
+var mnemonic = "hold mean snake idea glue box virus gentle cement level eager razor";

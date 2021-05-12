@@ -1,1 +1,1 @@
-var mnemonic = "income rifle observe tell update olympic tuition marriage bargain edge produce garbage";
+var mnemonic = "doctor husband bean print exit resemble neglect resist domain debate false man";

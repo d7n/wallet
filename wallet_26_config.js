@@ -1,1 +1,1 @@
-var mnemonic = "kidney host clinic wrap syrup upon desert globe road extra accident shield";
+var mnemonic = "license flame kidney surface erase bundle deal slide now subway pencil focus";

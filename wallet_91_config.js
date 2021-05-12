@@ -1,1 +1,1 @@
-var mnemonic = "purity slogan powder brief aware panel human they spin radar industry toe";
+var mnemonic = "express battle gun meadow social hedgehog guess defense antenna various cream suspect";

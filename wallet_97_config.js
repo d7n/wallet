@@ -1,1 +1,1 @@
-var mnemonic = "country dynamic tomorrow ready erupt clog series coral tell lend repair series";
+var mnemonic = "follow rail parrot harbor bid material ignore tragic cactus toilet shadow desert";

@@ -1,1 +1,1 @@
-var mnemonic = "year horse snap drive shield destroy copper weather embrace struggle pig mansion";
+var mnemonic = "animal artefact toddler regular artefact mail hair kidney armed skin flush arm";

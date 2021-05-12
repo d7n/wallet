@@ -1,1 +1,1 @@
-var mnemonic = "barrel earth gas embrace spread actual club trade federal member monster remind";
+var mnemonic = "ordinary bicycle duck fault cradle swim welcome crunch scan keep cannon insect";

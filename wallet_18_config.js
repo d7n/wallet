@@ -1,1 +1,1 @@
-var mnemonic = "notice supply spring penalty note other bind hour vital subject nominee vanish";
+var mnemonic = "magnet vehicle way dirt loan pretty now cradle panic glad mother stable";

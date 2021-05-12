@@ -1,1 +1,1 @@
-var mnemonic = "fortune script enforce page beyond problem admit patch board rate require flight";
+var mnemonic = "mirror way crumble nephew must book marble puppy rice miss young garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "worry van text payment shove injury heavy seed harvest unusual section make";
+var mnemonic = "cloth skin seven follow clock crane saddle answer gate lend range extend";

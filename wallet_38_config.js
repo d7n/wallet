@@ -1,1 +1,1 @@
-var mnemonic = "gorilla female possible pottery recycle stomach buffalo purse antique great raven search";
+var mnemonic = "office hour fame clay method rigid face skin entire world border tourist";

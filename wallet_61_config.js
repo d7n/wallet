@@ -1,1 +1,1 @@
-var mnemonic = "morning climb present orchard silent large bronze walk upon miss boy bulk";
+var mnemonic = "family green ridge bicycle vanish bounce observe hotel shed member moral amount";

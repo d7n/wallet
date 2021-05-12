@@ -1,1 +1,1 @@
-var mnemonic = "comic razor among ugly describe one advance happy ladder student tail truth";
+var mnemonic = "network anxiety aunt reopen nasty garbage onion apart bid final real auto";

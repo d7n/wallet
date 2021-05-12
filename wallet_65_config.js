@@ -1,1 +1,1 @@
-var mnemonic = "pole escape lesson chronic want pet sugar cricket sound task way assume";
+var mnemonic = "october rent reveal flag small volume exotic response fiction game awesome hawk";

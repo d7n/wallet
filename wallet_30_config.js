@@ -1,1 +1,1 @@
-var mnemonic = "photo select dice project piano liberty lab aisle similar script impact tilt";
+var mnemonic = "wage tobacco sail actress old chief armor tobacco box gaze sister clog";

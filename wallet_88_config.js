@@ -1,1 +1,1 @@
-var mnemonic = "museum eternal total shine prosper latin logic cliff adapt return twenty plastic";
+var mnemonic = "stone bottom manual monitor vehicle uncover portion effort soccer federal ritual company";

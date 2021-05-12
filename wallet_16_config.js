@@ -1,1 +1,1 @@
-var mnemonic = "photo disagree control plate column sword mechanic gym gaze tent legend habit";
+var mnemonic = "below excess flush cereal magic grief ready collect praise use shop punch";

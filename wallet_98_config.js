@@ -1,1 +1,1 @@
-var mnemonic = "can glow device derive sibling dutch fitness federal enrich tent uniform where";
+var mnemonic = "frown bunker language eagle session bag use matter great galaxy float obey";

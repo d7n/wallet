@@ -1,1 +1,1 @@
-var mnemonic = "tissue guitar opera abuse clock school decline dad man rhythm scan unaware";
+var mnemonic = "west fragile believe program spin game debris board apart model lemon fatal";

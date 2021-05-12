@@ -1,1 +1,1 @@
-var mnemonic = "fat afraid bar cancel patrol reduce quantum depart wage ceiling road moon";
+var mnemonic = "spy talent wrist zero fog rival into crouch present fragile demand beef";

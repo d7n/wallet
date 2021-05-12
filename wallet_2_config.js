@@ -1,1 +1,1 @@
-var mnemonic = "enjoy cram decide slot pyramid fatigue need guide analyst paddle horror caught";
+var mnemonic = "sausage work century midnight erode dune moon venue daring noise mango material";

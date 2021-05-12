@@ -1,1 +1,1 @@
-var mnemonic = "swear vendor insect tribe amount acquire attitude behave misery return slide spoon";
+var mnemonic = "empower artefact ski rescue acid day length avoid host hurdle chief tennis";

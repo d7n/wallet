@@ -1,1 +1,1 @@
-var mnemonic = "matter average bundle hurt envelope legal soldier sketch liberty ranch patrol spare";
+var mnemonic = "arrange provide ill upon wreck cement kingdom shrug color dash unable grab";
