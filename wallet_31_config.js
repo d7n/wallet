@@ -1,1 +1,1 @@
-var mnemonic = "despair ghost cupboard hollow hollow excuse monitor nasty diamond grocery clown giraffe";
+var mnemonic = "gallery donate guitar trigger knock baby struggle deny blind crisp dash biology";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny iron calm script twist zero game globe wreck sugar squirrel original";
+var mnemonic = "setup juice tribe castle that impulse theory jelly fabric empower update grab";

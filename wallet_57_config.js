@@ -1,1 +1,1 @@
-var mnemonic = "mixture north action pelican stomach addict pipe fuel blind van pencil nut";
+var mnemonic = "imitate damp hungry crane finger caution bind fossil mercy identify anchor sauce";

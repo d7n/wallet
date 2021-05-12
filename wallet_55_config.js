@@ -1,1 +1,1 @@
-var mnemonic = "design warm toss frequent skull dragon improve slam practice shallow number mutual";
+var mnemonic = "earth bring major match sting super rubber claim food kingdom expand kind";

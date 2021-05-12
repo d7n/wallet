@@ -1,1 +1,1 @@
-var mnemonic = "relax civil dry car unable emerge sibling powder blush fish easily gold";
+var mnemonic = "remain soldier cigar access soccer call modify aisle behind pepper come flower";

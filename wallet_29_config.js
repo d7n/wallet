@@ -1,1 +1,1 @@
-var mnemonic = "magic benefit purpose weird oppose only carpet stay mail more blind elegant";
+var mnemonic = "reward because measure planet normal cattle crowd day online either peanut firm";

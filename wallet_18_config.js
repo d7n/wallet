@@ -1,1 +1,1 @@
-var mnemonic = "agent drastic panic ginger fee margin mention sleep vendor year candy kidney";
+var mnemonic = "drive involve control blue ill dove minor video elite stay galaxy goose";

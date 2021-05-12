@@ -1,1 +1,1 @@
-var mnemonic = "slice mountain general viable normal tool supply silly enable negative artwork novel";
+var mnemonic = "borrow goat add pizza vendor reform hood voyage judge pudding credit verb";

@@ -1,1 +1,1 @@
-var mnemonic = "east candy mimic void response divide ginger raw omit rough ginger enjoy";
+var mnemonic = "obtain nature lyrics eager laundry wrist double gown puzzle since thunder math";

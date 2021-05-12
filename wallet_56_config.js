@@ -1,1 +1,1 @@
-var mnemonic = "biology huge frozen bicycle avoid mom pause picture excuse liar clever liquid";
+var mnemonic = "gesture leg pool hire warm cancel debris tired soup link open wish";

@@ -1,1 +1,1 @@
-var mnemonic = "oval street shadow cabin congress always scatter soda faint young connect into";
+var mnemonic = "organ vault between entry attract once bar expire culture stairs melody sock";

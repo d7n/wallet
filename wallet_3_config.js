@@ -1,1 +1,1 @@
-var mnemonic = "brief over sort shift multiply employ pistol width acoustic eternal almost ten";
+var mnemonic = "history fat kite page situate salon fly cheese cradle fork vapor toward";

@@ -1,1 +1,1 @@
-var mnemonic = "rib example execute asthma sand gift alcohol thing pen short enhance blame";
+var mnemonic = "almost another pyramid crime light clever olive debate lucky stage transfer enact";

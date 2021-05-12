@@ -1,1 +1,1 @@
-var mnemonic = "alone ghost mercy size small damage vast push already genius alley ladder";
+var mnemonic = "diary tone reveal melt depend outer brain write powder picnic wear blast";

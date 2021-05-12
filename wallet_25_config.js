@@ -1,1 +1,1 @@
-var mnemonic = "claw body perfect since network student toss rice mother exercise remove flip";
+var mnemonic = "tonight casino silly auto beach patient filter acquire plastic canvas answer federal";

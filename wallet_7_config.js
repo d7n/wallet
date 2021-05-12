@@ -1,1 +1,1 @@
-var mnemonic = "slogan avocado charge husband wash idea syrup pig inspire frog fresh great";
+var mnemonic = "final dizzy vacuum sick couple venture follow limit afford real spice oval";

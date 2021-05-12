@@ -1,1 +1,1 @@
-var mnemonic = "custom will long grant urge scorpion drive avoid local adapt simple slice";
+var mnemonic = "behind nephew feel joy install slam tunnel ride twice route firm involve";

@@ -1,1 +1,1 @@
-var mnemonic = "capital topic tobacco exhibit ball chair exchange draw trial genuine notable junior";
+var mnemonic = "pulse advance warm goat anchor jump finish loan light invest fall case";

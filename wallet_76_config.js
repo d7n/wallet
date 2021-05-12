@@ -1,1 +1,1 @@
-var mnemonic = "soul own century elephant upset between gown stumble height nuclear remove issue";
+var mnemonic = "movie design truck moment lumber palm model high knee exclude trap grit";

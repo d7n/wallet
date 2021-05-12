@@ -1,1 +1,1 @@
-var mnemonic = "expect age betray crowd hedgehog gossip pistol volume mimic giant nuclear problem";
+var mnemonic = "type slide time require despair maximum impact rough drop similar sausage estate";

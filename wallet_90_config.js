@@ -1,1 +1,1 @@
-var mnemonic = "dust bunker target online mango catch clown awful moon fat engine similar";
+var mnemonic = "muffin inside quick legal orphan art hamster detail page casino bright century";

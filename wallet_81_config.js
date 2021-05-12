@@ -1,1 +1,1 @@
-var mnemonic = "kite tray brick decide audit glance parade monkey tiny title remember parent";
+var mnemonic = "index vacant fury exile naive dish scout holiday ramp crop mix small";

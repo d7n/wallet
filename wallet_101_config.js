@@ -1,1 +1,1 @@
-var mnemonic = "nasty slender twelve remain chicken name feel remind mule coffee amateur short";
+var mnemonic = "hip clay hammer leisure april rocket embrace half pill knock coconut hip";

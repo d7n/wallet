@@ -1,1 +1,1 @@
-var mnemonic = "mammal awkward science jacket taxi project salad cheap toy cream armor minute";
+var mnemonic = "seven either cliff peace dad regular celery happy weekend tuition power pen";

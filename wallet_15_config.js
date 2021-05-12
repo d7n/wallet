@@ -1,1 +1,1 @@
-var mnemonic = "stomach boat paper expose fiction hold student give source slot catch float";
+var mnemonic = "embrace describe museum taxi settle girl increase garment inner student grid embrace";

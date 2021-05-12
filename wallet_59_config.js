@@ -1,1 +1,1 @@
-var mnemonic = "flip modify country plug chalk egg tomorrow fresh office hobby grab install";
+var mnemonic = "execute detect pigeon tube tuna talent know story pony split diesel piece";

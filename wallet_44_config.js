@@ -1,1 +1,1 @@
-var mnemonic = "actual scrap balance sniff spray width family orchard van struggle tackle tomato";
+var mnemonic = "stand float attract bronze chat east blanket pear measure priority this black";

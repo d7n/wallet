@@ -1,1 +1,1 @@
-var mnemonic = "clog prefer energy stamp speak copy girl muscle south vote guitar broom";
+var mnemonic = "fan useless point rapid expire govern patch away dice parent expect produce";

@@ -1,1 +1,1 @@
-var mnemonic = "snow fury sustain fiscal double involve fun dream purchase final arrow pioneer";
+var mnemonic = "aspect glove decline weird stomach bleak soup off giggle horn blur large";

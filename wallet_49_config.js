@@ -1,1 +1,1 @@
-var mnemonic = "steak brick social net file broken round lens garbage gain label glance";
+var mnemonic = "split indicate diary audit desert bring misery cement skull want pave lemon";

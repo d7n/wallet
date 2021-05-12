@@ -1,1 +1,1 @@
-var mnemonic = "latin caution empower seed moon pistol woman manual inquiry dignity essay monkey";
+var mnemonic = "minor satisfy excuse sock build raw card hover athlete cause upper abstract";

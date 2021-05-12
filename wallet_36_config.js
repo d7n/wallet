@@ -1,1 +1,1 @@
-var mnemonic = "clever pretty auction segment claim artwork anger lounge genre foster range casino";
+var mnemonic = "bonus bomb mutual soldier extra mad address require empty biology various teach";

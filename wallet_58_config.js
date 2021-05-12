@@ -1,1 +1,1 @@
-var mnemonic = "bike country fiction gather equip grocery vocal believe smile soup slab vault";
+var mnemonic = "forget acoustic scout shoot again shield devote photo jaguar few major public";

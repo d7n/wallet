@@ -1,1 +1,1 @@
-var mnemonic = "table rely garment local awful shoulder tragic awesome trade capable fire together";
+var mnemonic = "mango fire category sheriff above ceiling unable mouse trim bike enhance romance";

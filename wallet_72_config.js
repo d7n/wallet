@@ -1,1 +1,1 @@
-var mnemonic = "child agent home acid dirt figure year upper phone alien talk dinosaur";
+var mnemonic = "welcome program style fork bottom now august piece gentle find prepare notice";

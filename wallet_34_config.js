@@ -1,1 +1,1 @@
-var mnemonic = "discover vicious orchard mind guard harvest blade usage uncover share pudding curve";
+var mnemonic = "onion short auto convince tortoise hamster distance crowd timber dragon ozone original";

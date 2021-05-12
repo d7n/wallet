@@ -1,1 +1,1 @@
-var mnemonic = "gate this scare media topple limit broken muffin buyer convince you initial";
+var mnemonic = "arctic okay fresh female bottom twelve metal shrug later jacket deny garment";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf smile response cruise copper tourist dinosaur success bicycle night science normal";
+var mnemonic = "belt burger suspect swamp ride frozen wood razor harsh wing asthma easily";

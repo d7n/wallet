@@ -1,1 +1,1 @@
-var mnemonic = "seed pulse acid divorce remain tomorrow wedding rely attract early bid often";
+var mnemonic = "thing clown wash knife light voyage fresh upper eagle repeat wheat flavor";

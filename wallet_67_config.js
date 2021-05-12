@@ -1,1 +1,1 @@
-var mnemonic = "arch mountain crop peasant soldier twice scorpion weather empower together leopard service";
+var mnemonic = "three casino pumpkin retreat stuff material man whip until pumpkin bitter include";

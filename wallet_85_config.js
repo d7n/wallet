@@ -1,1 +1,1 @@
-var mnemonic = "medal clap behind fragile trial name gain crush animal window crater bean";
+var mnemonic = "pyramid idea abuse innocent borrow spend harvest awkward island section odor erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge story catalog sign winner tissue fun idle middle cereal pause banner";
+var mnemonic = "toss benefit strategy skate hood join office tribe scissors bench spring wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican index crystal always maple alone please lizard adult music human learn";
+var mnemonic = "useless blouse enlist mystery chaos enough fame imitate foot portion rail near";

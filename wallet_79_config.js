@@ -1,1 +1,1 @@
-var mnemonic = "jar crumble bone enough usual recall liar air glass smile arrange effort";
+var mnemonic = "twenty abstract era fantasy school orchard display skull add grant absent steak";

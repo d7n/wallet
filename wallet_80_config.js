@@ -1,1 +1,1 @@
-var mnemonic = "move visual magnet team cushion play scrub cupboard sail harvest first hamster";
+var mnemonic = "buffalo annual cream one absent knife stamp ship arctic metal wink fall";

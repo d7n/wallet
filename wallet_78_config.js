@@ -1,1 +1,1 @@
-var mnemonic = "acid twice pear vague select rug sorry best erase weapon draft lawn";
+var mnemonic = "initial agree gold spatial fork allow enlist stumble horse toast round ribbon";

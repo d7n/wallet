@@ -1,1 +1,1 @@
-var mnemonic = "local renew express shiver spirit solve focus speak cave damage goat liberty";
+var mnemonic = "cost ignore seek cry depart force report soul eight chimney oxygen cart";

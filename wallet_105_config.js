@@ -1,1 +1,1 @@
-var mnemonic = "manage gain yellow dog diesel foil deal adjust type head risk disorder";
+var mnemonic = "net sphere taxi curtain upgrade royal razor butter angry unveil palm goddess";

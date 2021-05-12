@@ -1,1 +1,1 @@
-var mnemonic = "bulk parrot toilet twenty squeeze lady violin urge fancy soup sustain label";
+var mnemonic = "earn violin ready bean asset pave suffer boy beauty purpose roast will";

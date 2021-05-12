@@ -1,1 +1,1 @@
-var mnemonic = "armor build clean ability step inspire town mutual broken naive quarter describe";
+var mnemonic = "afford rose portion drink pluck sleep tent imitate river pride ethics castle";

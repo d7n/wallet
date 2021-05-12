@@ -1,1 +1,1 @@
-var mnemonic = "access kiss trick blossom drink virus submit winner provide room foil daring";
+var mnemonic = "soon capital element offer bronze short pluck much nut unfair use material";

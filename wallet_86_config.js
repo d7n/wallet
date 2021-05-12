@@ -1,1 +1,1 @@
-var mnemonic = "drift exhibit goddess ring approve broken magnet drastic bench forest require capable";
+var mnemonic = "goose lady better that wrist quick burst net cross slow simple equal";

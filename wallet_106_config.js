@@ -1,1 +1,1 @@
-var mnemonic = "october excuse reason cluster indoor gloom mandate fade alcohol outer comic news";
+var mnemonic = "deputy mask ice lecture reason ribbon catch helmet cotton message wear adapt";

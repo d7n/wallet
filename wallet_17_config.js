@@ -1,1 +1,1 @@
-var mnemonic = "tent glow easily again owner dash usual attack pizza boat artwork element";
+var mnemonic = "oval month insect charge kind shop word penalty rookie follow gift hurdle";

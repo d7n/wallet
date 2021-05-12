@@ -1,1 +1,1 @@
-var mnemonic = "desk solar kick blast snake beef boost figure garden video sugar armed";
+var mnemonic = "salute ugly beyond gauge palace rate despair main hurry magic traffic hair";

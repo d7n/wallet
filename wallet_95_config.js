@@ -1,1 +1,1 @@
-var mnemonic = "fan latin happy habit fiction rare switch photo october old alert thumb";
+var mnemonic = "cricket boil rookie glare fork clock amazing employ believe angle broccoli roast";

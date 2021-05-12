@@ -1,1 +1,1 @@
-var mnemonic = "round between during citizen series certain discover young actor yellow solid shed";
+var mnemonic = "base merry cloud float burst legend display elite amateur forest merge march";

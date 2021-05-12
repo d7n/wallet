@@ -1,1 +1,1 @@
-var mnemonic = "chaos boost impact squeeze scrub grunt team nice range define assault unable";
+var mnemonic = "advice arrest draft follow now very pioneer bid horn physical boat garbage";

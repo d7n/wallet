@@ -1,1 +1,1 @@
-var mnemonic = "vote atom youth solid picnic wire oppose left rubber nothing cousin garage";
+var mnemonic = "sorry ostrich citizen turkey ahead eagle busy magnet vivid hen sea fan";

@@ -1,1 +1,1 @@
-var mnemonic = "left improve morning nurse race raccoon enroll force term hope long round";
+var mnemonic = "route ill brother hill fat girl core essence chronic winner wolf stuff";

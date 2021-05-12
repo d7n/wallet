@@ -1,1 +1,1 @@
-var mnemonic = "sort online knock explain dismiss ceiling radar glance reject seminar correct dentist";
+var mnemonic = "ignore fiction farm stand govern apple cigar guard vintage vacuum suggest decorate";

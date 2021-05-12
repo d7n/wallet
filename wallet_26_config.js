@@ -1,1 +1,1 @@
-var mnemonic = "ivory job glance verb fork penalty brain baby what sea drum crawl";
+var mnemonic = "miss place congress merge phone bamboo you resource weather flavor forum capital";

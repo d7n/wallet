@@ -1,1 +1,1 @@
-var mnemonic = "scatter regret tourist leisure perfect hire afraid eternal square often key wood";
+var mnemonic = "surface error sure amateur axis timber lion injury essence soul cactus mad";

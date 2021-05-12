@@ -1,1 +1,1 @@
-var mnemonic = "there pudding delay movie visit walk avocado situate devote basic focus unveil";
+var mnemonic = "weapon math quality survey relief stable toast palace discover faint else alone";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum enrich gospel coral buffalo duck enact skull swarm harbor fortune brain";
+var mnemonic = "narrow entire riot decade basic enforce word rich forward blur cry reform";

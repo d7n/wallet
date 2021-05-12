@@ -1,1 +1,1 @@
-var mnemonic = "under during title panic proof injury rug advance sausage fashion limit quality";
+var mnemonic = "arrive diagram will beauty laptop laundry rose always slush since burden gun";

@@ -1,1 +1,1 @@
-var mnemonic = "near cotton guilt property obey beauty ill solar violin economy around mesh";
+var mnemonic = "melody primary talent prosper state ordinary latin hawk alien glory health whip";

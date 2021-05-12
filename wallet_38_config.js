@@ -1,1 +1,1 @@
-var mnemonic = "wash bread when runway knife giggle robust furnace cushion claim camera romance";
+var mnemonic = "dolphin collect suggest strike deliver usage attitude public clarify bamboo horror hill";

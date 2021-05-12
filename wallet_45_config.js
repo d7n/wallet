@@ -1,1 +1,1 @@
-var mnemonic = "blame involve duty action argue napkin deer rare double sound assume super";
+var mnemonic = "effort animal envelope figure repair humor aware alley moon collect pizza soda";

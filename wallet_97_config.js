@@ -1,1 +1,1 @@
-var mnemonic = "direct lounge debate crazy snake federal caution group sick syrup chat virus";
+var mnemonic = "protect coyote hungry draw evil soccer cube film high taste slot open";

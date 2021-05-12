@@ -1,1 +1,1 @@
-var mnemonic = "earn exist dance inhale sunny grass zone test sunny culture hobby catalog";
+var mnemonic = "volume question dash congress artefact gauge cash sword purchase grit roof ignore";

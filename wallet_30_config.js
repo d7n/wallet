@@ -1,1 +1,1 @@
-var mnemonic = "street quarter blame world endless popular coast around pledge idle sting tail";
+var mnemonic = "panda wish person slogan art bargain range hire sentence rifle drill myth";

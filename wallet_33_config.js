@@ -1,1 +1,1 @@
-var mnemonic = "tail twelve razor easily punch fiber release tide lyrics field enhance museum";
+var mnemonic = "funny celery verify draft outer episode cool guess excuse shoot inject salon";

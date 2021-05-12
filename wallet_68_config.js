@@ -1,1 +1,1 @@
-var mnemonic = "coach holiday screen fit rail collect high suffer promote snake drama stumble";
+var mnemonic = "section census remain giant fabric cake dizzy broken soap hood element tumble";

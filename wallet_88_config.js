@@ -1,1 +1,1 @@
-var mnemonic = "text approve album flame rescue edit clock remind glimpse galaxy total gown";
+var mnemonic = "unfold twice endless giggle weasel dutch spend planet bench patient latin seat";

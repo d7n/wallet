@@ -1,1 +1,1 @@
-var mnemonic = "pelican ring poem vault permit radar put health fit worry tuition link";
+var mnemonic = "interest million domain fold fitness drive noodle arm bench holiday ability knee";

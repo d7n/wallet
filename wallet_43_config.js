@@ -1,1 +1,1 @@
-var mnemonic = "life cinnamon already find voyage embark ship toilet brief punch voyage traffic";
+var mnemonic = "solve retire wing edit riot afford afford undo theme column custom switch";

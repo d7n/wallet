@@ -1,1 +1,1 @@
-var mnemonic = "salmon fork stool crane spin spy key achieve home valley match pistol";
+var mnemonic = "inhale cube squirrel valley cargo script abuse loan hamster mandate radio manage";

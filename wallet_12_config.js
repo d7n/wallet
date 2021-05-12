@@ -1,1 +1,1 @@
-var mnemonic = "narrow divert private script tomato detect enable spoon wink essay spice load";
+var mnemonic = "vibrant flip clap harbor person island pact stay raven bag arctic swift";

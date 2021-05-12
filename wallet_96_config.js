@@ -1,1 +1,1 @@
-var mnemonic = "tide ship shoot reopen fiction smooth donate gown polar tip crouch dignity";
+var mnemonic = "ensure purse tide farm license casino estate toy uniform odor certain blanket";

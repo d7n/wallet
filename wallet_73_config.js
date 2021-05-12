@@ -1,1 +1,1 @@
-var mnemonic = "clump chef assault find burden uncover arrest exotic step blind stuff tired";
+var mnemonic = "tape ginger awful balance settle beyond train relax knife table tank surprise";

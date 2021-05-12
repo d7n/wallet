@@ -1,1 +1,1 @@
-var mnemonic = "unique adult denial front follow give link stock lazy hover resource march";
+var mnemonic = "step weather clay mistake beyond toward strategy stable undo repeat powder never";

@@ -1,1 +1,1 @@
-var mnemonic = "radar hire jealous job file anger banner zoo rug tree cause despair";
+var mnemonic = "drop current nerve almost switch bomb idle title turkey wrong mule barely";

@@ -1,1 +1,1 @@
-var mnemonic = "core remain young before emotion elephant case screen cute total cable accuse";
+var mnemonic = "age color shrimp siege stadium hedgehog wash head nuclear purity sadness shove";

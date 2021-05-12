@@ -1,1 +1,1 @@
-var mnemonic = "valley agree magic state grass emerge rug series critic conduct art magic";
+var mnemonic = "parent dawn neck tell seminar pool undo miracle predict sibling shove quality";

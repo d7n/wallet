@@ -1,1 +1,1 @@
-var mnemonic = "margin lion stadium hunt bunker rail range lumber life taste reopen spirit";
+var mnemonic = "report derive seven add cherry pattern smoke purse skull pepper time mad";
