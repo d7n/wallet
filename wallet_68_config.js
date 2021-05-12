@@ -1,1 +1,1 @@
-var mnemonic = "invest cloud agree stool local burst people bunker hybrid alter diamond wire";
+var mnemonic = "bachelor spike romance kite sell tired assist kingdom rail suggest hungry chest";

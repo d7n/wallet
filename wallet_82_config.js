@@ -1,1 +1,1 @@
-var mnemonic = "chronic dial budget inflict unusual amount bright cover assault scout found garbage";
+var mnemonic = "like cigar woman gravity genre turn myth simple exit lake abuse insane";

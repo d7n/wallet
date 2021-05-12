@@ -1,1 +1,1 @@
-var mnemonic = "retire call artefact toddler ripple negative simple despair rotate answer muffin shoulder";
+var mnemonic = "spy alley chapter join deposit that idle spoon awake crater rare hint";

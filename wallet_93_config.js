@@ -1,1 +1,1 @@
-var mnemonic = "edit focus snack scissors deer detail exact assault exist current mouse moon";
+var mnemonic = "erode ostrich nerve water delay canvas screen document cruel hurdle pelican box";

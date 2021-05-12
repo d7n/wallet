@@ -1,1 +1,1 @@
-var mnemonic = "turkey moral riot spice tattoo trial husband wagon prize injury net left";
+var mnemonic = "term exclude dog transfer globe quarter tray joke reveal speed category glide";

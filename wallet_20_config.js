@@ -1,1 +1,1 @@
-var mnemonic = "zoo filter sausage meat wise input earn river approve target never obey";
+var mnemonic = "bulk employ detail govern govern script emerge raw consider dignity vibrant soccer";

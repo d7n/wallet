@@ -1,1 +1,1 @@
-var mnemonic = "flame brief foot resist tumble spray boring face surface habit pulp opinion";
+var mnemonic = "once image give recycle ranch lamp uncover doctor pole grass clarify cube";

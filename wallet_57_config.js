@@ -1,1 +1,1 @@
-var mnemonic = "onion drink domain pepper setup aerobic ridge harsh spoil naive wedding affair";
+var mnemonic = "quarter slight era zero height steel hero notice setup bonus when ivory";

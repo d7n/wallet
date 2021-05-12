@@ -1,1 +1,1 @@
-var mnemonic = "dolphin vintage because nuclear edge source fade purpose wasp idle mammal harvest";
+var mnemonic = "blue correct glimpse useless argue hat vacant comfort moon swim play hurry";

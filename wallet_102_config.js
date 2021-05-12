@@ -1,1 +1,1 @@
-var mnemonic = "mango useful business pill robust birth season century chaos clock broom hungry";
+var mnemonic = "order faint food portion crop capable mad typical loyal desert myth alert";

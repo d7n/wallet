@@ -1,1 +1,1 @@
-var mnemonic = "easy gesture armor number behave nut medal survey exhaust bulk raise only";
+var mnemonic = "bacon clerk crash wine fly merit illness ankle illegal puzzle inhale rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "pact sign dizzy catch opera heart glory liberty crumble planet inside firm";
+var mnemonic = "rather tonight memory brisk avoid color ahead under six give degree rather";

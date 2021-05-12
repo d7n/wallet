@@ -1,1 +1,1 @@
-var mnemonic = "balance galaxy awkward window machine grit light sell tennis guitar leave nurse";
+var mnemonic = "little nerve essay tool language fashion gossip animal equip age swing lift";

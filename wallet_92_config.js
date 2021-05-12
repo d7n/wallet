@@ -1,1 +1,1 @@
-var mnemonic = "flee twin stuff attack image scheme clump april wine option club little";
+var mnemonic = "quality maximum review game wreck curious harvest area derive guilt sugar monitor";

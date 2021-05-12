@@ -1,1 +1,1 @@
-var mnemonic = "uncover heart issue diagram what satisfy border sea anxiety eye split helmet";
+var mnemonic = "same base super master vast vital matter crystal table twin film liar";

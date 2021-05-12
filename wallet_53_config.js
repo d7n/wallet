@@ -1,1 +1,1 @@
-var mnemonic = "group shove easy autumn gather uphold ivory dream pistol mind off hurry";
+var mnemonic = "car notice chaos always argue voyage reason feature infant opera try device";

@@ -1,1 +1,1 @@
-var mnemonic = "lend fantasy host early library action chimney praise palace fever pottery friend";
+var mnemonic = "spice problem cool safe enrich zoo trap luggage drift state fitness differ";

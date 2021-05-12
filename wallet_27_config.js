@@ -1,1 +1,1 @@
-var mnemonic = "provide tonight track habit torch cheese truth box blue stand stereo penalty";
+var mnemonic = "tortoise awesome impose toast ill they ring kid build valve page bargain";

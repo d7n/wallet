@@ -1,1 +1,1 @@
-var mnemonic = "merge liquid extra domain grit fragile february opera lucky crystal adjust bright";
+var mnemonic = "steel tray example million craft secret random athlete cloth fashion grain modify";

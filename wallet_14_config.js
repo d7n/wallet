@@ -1,1 +1,1 @@
-var mnemonic = "prevent hollow chief scan hotel goose raccoon innocent kid brown chicken must";
+var mnemonic = "industry normal churn borrow index boost rent symbol person vanish crystal truly";

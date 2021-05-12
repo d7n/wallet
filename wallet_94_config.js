@@ -1,1 +1,1 @@
-var mnemonic = "title camera liquid air student sentence range eager afraid recycle thank cabbage";
+var mnemonic = "shield casual face height lake bottom expose endless sustain slow finger advice";

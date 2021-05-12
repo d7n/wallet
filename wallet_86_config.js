@@ -1,1 +1,1 @@
-var mnemonic = "debris story door access tongue travel hockey affair shoot gravity magnet paddle";
+var mnemonic = "name siren gesture banana behave erupt menu symbol section view spin effort";

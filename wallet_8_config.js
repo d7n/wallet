@@ -1,1 +1,1 @@
-var mnemonic = "force glory simple shaft grid scan donor endless shuffle scene settle duty";
+var mnemonic = "original spend stomach lunch digital tower flag upon any earn stomach cause";

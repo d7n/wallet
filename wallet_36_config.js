@@ -1,1 +1,1 @@
-var mnemonic = "obscure wrist hurdle later deer tumble miss loan door wide viable wet";
+var mnemonic = "special useless must foam arrest noble tip unusual project sphere urban stairs";

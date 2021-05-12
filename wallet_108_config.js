@@ -1,1 +1,1 @@
-var mnemonic = "diesel pupil chicken swarm affair profit trim copy diamond primary cream wage";
+var mnemonic = "lawn gesture fly segment shoulder stage patient almost mountain purse hockey tool";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce display aim during fitness coffee then breeze heart brush caught south";
+var mnemonic = "woman stable devote merge room foam balcony various diet letter stem pumpkin";

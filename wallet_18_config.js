@@ -1,1 +1,1 @@
-var mnemonic = "polar dice velvet lock marriage swift arch lonely unhappy series thing cancel";
+var mnemonic = "uncover earn palm select tag excuse afraid play novel never universe couple";

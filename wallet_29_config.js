@@ -1,1 +1,1 @@
-var mnemonic = "next radar truck essence match exhibit draft bleak file uncle practice earn";
+var mnemonic = "twist april forward budget mosquito bamboo occur oppose fine vocal hub celery";

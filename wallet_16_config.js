@@ -1,1 +1,1 @@
-var mnemonic = "upon retire loan camp clip scan during argue brother genuine potato dolphin";
+var mnemonic = "famous agent ship clarify urban three autumn metal school club tonight horror";

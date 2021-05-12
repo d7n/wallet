@@ -1,1 +1,1 @@
-var mnemonic = "finish quote vibrant group extra annual amateur figure deal amused attack disease";
+var mnemonic = "august artist resemble paddle music entire visa ecology never share icon dream";

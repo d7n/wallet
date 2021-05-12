@@ -1,1 +1,1 @@
-var mnemonic = "patient scale usage same dog plunge bronze hint exile during bean fringe";
+var mnemonic = "snack oppose prize harsh seven target cart tank beauty nuclear priority sustain";

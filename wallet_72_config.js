@@ -1,1 +1,1 @@
-var mnemonic = "inch animal maximum assault attitude absorb flag lounge floor solar rapid addict";
+var mnemonic = "later enrich bless tobacco noble guard ladder tool blur ball pistol apple";

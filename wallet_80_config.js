@@ -1,1 +1,1 @@
-var mnemonic = "second caution cloth reject attract question retire base ripple energy jar hope";
+var mnemonic = "employ ridge hard picture crowd worry erosion stay unique across meat kiwi";

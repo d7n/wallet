@@ -1,1 +1,1 @@
-var mnemonic = "afford scorpion hundred body render tortoise hotel gate invite season around alert";
+var mnemonic = "assault oyster air region powder crazy flush correct wish spoon midnight sausage";

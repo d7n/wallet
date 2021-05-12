@@ -1,1 +1,1 @@
-var mnemonic = "kid tilt desert weird ramp evil feed sketch setup beach ancient pupil";
+var mnemonic = "uniform basket donor diagram head priority artist cluster beach miss bench globe";

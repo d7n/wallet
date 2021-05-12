@@ -1,1 +1,1 @@
-var mnemonic = "level size tonight cross soda mom private upset twice monitor short damp";
+var mnemonic = "diesel choose frequent collect essay various mail switch vapor area puppy venue";

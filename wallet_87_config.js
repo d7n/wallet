@@ -1,1 +1,1 @@
-var mnemonic = "puppy innocent share limit accident bicycle divide immune utility purchase december ice";
+var mnemonic = "quality wage income toss smile praise arrow save scene gesture switch now";

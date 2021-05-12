@@ -1,1 +1,1 @@
-var mnemonic = "mansion amused fatal airport focus flip private whale scorpion canvas estate cancel";
+var mnemonic = "predict zoo try village donor snake diesel giraffe lonely ridge trash there";

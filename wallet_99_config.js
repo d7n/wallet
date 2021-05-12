@@ -1,1 +1,1 @@
-var mnemonic = "width pear pattern federal call response mechanic cruel number orient clump trade";
+var mnemonic = "misery rabbit cover music normal fiscal foil crystal select book very coach";

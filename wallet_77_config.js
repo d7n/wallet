@@ -1,1 +1,1 @@
-var mnemonic = "shuffle excess immune view raw burst rubber cream major salad anchor tired";
+var mnemonic = "proud anger search dream tide property goose fragile grass shove involve spike";

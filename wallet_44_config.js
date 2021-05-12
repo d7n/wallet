@@ -1,1 +1,1 @@
-var mnemonic = "such flavor together dove multiply tower bean pumpkin reflect way thrive year";
+var mnemonic = "project garden banana arena utility voyage sniff squirrel chaos fan unfair casino";

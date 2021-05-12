@@ -1,1 +1,1 @@
-var mnemonic = "orbit segment rain awful alien side young can girl brain before uphold";
+var mnemonic = "quote among fat lazy autumn potato convince brisk patrol output admit miss";

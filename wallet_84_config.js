@@ -1,1 +1,1 @@
-var mnemonic = "embark rifle pet robot twenty humble fringe bamboo strike certain nephew talent";
+var mnemonic = "decrease sugar bamboo ocean boss like puzzle kitchen disorder laptop castle phone";

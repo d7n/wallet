@@ -1,1 +1,1 @@
-var mnemonic = "box umbrella bitter slot spread hockey street build sign inside exit catalog";
+var mnemonic = "curtain replace box pill wet ceiling brave dog country outside tumble drive";

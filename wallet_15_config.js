@@ -1,1 +1,1 @@
-var mnemonic = "volcano canvas diary pattern danger trial clay retire twenty neglect spare behind";
+var mnemonic = "neck over life start correct uncle dwarf smile donor bright balance obtain";

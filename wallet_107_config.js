@@ -1,1 +1,1 @@
-var mnemonic = "feed step outer primary plate atom drip evolve size minute marriage glue";
+var mnemonic = "bless evoke cup milk fence twelve legend blast glory lock quick next";

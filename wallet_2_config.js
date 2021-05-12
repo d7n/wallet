@@ -1,1 +1,1 @@
-var mnemonic = "public oppose series waste grid enrich city cushion liquid hunt engage famous";
+var mnemonic = "appear sell guide harvest birth avoid duck dilemma pistol prepare edge observe";

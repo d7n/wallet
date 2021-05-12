@@ -1,1 +1,1 @@
-var mnemonic = "any puppy left empty recall absorb window fun flee satisfy road trial";
+var mnemonic = "fire forget monkey hospital yard cousin spatial barely scout disagree vanish almost";

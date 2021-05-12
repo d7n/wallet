@@ -1,1 +1,1 @@
-var mnemonic = "asset hub asthma bleak focus plug gasp glue ranch speed stumble excess";
+var mnemonic = "example valid permit jeans impulse permit document pistol among insect unaware exit";

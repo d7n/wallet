@@ -1,1 +1,1 @@
-var mnemonic = "jewel hidden crystal busy frozen detect analyst mistake parrot deliver genuine blanket";
+var mnemonic = "govern total shed gym human sentence tonight tiny raccoon eyebrow pitch sting";

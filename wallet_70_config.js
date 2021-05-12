@@ -1,1 +1,1 @@
-var mnemonic = "cry grant welcome fortune sea stem chief nominee bubble cage spread spring";
+var mnemonic = "episode wait poem sustain inspire wisdom clap poverty arm radar frozen suffer";

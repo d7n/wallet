@@ -1,1 +1,1 @@
-var mnemonic = "shoe fat quick planet doctor cover purpose venture razor pink setup million";
+var mnemonic = "swamp place nation kangaroo mushroom open spring era endorse stone swallow possible";

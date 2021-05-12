@@ -1,1 +1,1 @@
-var mnemonic = "clip mushroom agent room dose fever axis remove fuel paper device brave";
+var mnemonic = "cage sport lawsuit another puppy immense glance lyrics chaos birth army essence";

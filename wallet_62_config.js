@@ -1,1 +1,1 @@
-var mnemonic = "question famous concert open catch book payment pelican only farm quality glance";
+var mnemonic = "sketch cinnamon remember enter manage frozen day shy lunar vocal palm rabbit";

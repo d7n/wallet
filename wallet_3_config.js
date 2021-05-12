@@ -1,1 +1,1 @@
-var mnemonic = "sugar fade give drift define bachelor march exercise mean obvious scan gas";
+var mnemonic = "dentist topple laptop result security final huge female renew audit scorpion patch";

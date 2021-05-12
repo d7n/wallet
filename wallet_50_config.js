@@ -1,1 +1,1 @@
-var mnemonic = "hair mansion forum stove fiction travel junk angle bus define van estate";
+var mnemonic = "spatial clerk elder domain humble year heart focus anger ignore fruit sibling";

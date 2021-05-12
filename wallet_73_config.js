@@ -1,1 +1,1 @@
-var mnemonic = "swear enemy labor roof hair naive bulk metal leave menu file birth";
+var mnemonic = "gun teach act witness melt swamp cat early smoke youth rare draft";

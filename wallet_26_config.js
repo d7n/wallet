@@ -1,1 +1,1 @@
-var mnemonic = "method inside tail exercise dry speak soda bullet feature atom another tornado";
+var mnemonic = "like jaguar object curtain monitor rib wrestle pause title gaze dinosaur carpet";

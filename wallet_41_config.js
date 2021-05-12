@@ -1,1 +1,1 @@
-var mnemonic = "mechanic width acoustic magnet lounge expect foster source evoke fox bundle distance";
+var mnemonic = "drama basic sign drill cheap duck erupt smooth shy initial wrist fall";

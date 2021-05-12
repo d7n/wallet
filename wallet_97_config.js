@@ -1,1 +1,1 @@
-var mnemonic = "employ antenna kitchen pact ability mask coyote receive mail erosion fiscal volcano";
+var mnemonic = "mother field eternal sibling jar kiss voice candy record tail capital border";

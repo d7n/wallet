@@ -1,1 +1,1 @@
-var mnemonic = "lava feel flight sample next quarter stamp program weather useful glad tell";
+var mnemonic = "lunar real pair ahead hole six adjust pipe size miracle property list";

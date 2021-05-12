@@ -1,1 +1,1 @@
-var mnemonic = "toddler theory leader bulb deposit trash virus maple pitch cargo cattle december";
+var mnemonic = "cruel drink cabin okay inch main such economy room lumber mask welcome";

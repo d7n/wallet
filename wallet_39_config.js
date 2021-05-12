@@ -1,1 +1,1 @@
-var mnemonic = "play rich genius attract gesture cheap recall actual shiver indoor edit phone";
+var mnemonic = "ready test broccoli letter kit come lawsuit kiss talk shadow curve dinner";

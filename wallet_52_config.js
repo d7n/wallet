@@ -1,1 +1,1 @@
-var mnemonic = "fiber april team banana arena position vault atom conduct crystal genuine grocery";
+var mnemonic = "now legend convince language rough zoo shock wisdom team measure dinner happy";

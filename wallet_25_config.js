@@ -1,1 +1,1 @@
-var mnemonic = "bread response salt multiply copper lemon rather object mind inhale eye engage";
+var mnemonic = "bunker april actual ecology broken urban humor obscure follow wealth pony side";

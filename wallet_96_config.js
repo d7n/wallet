@@ -1,1 +1,1 @@
-var mnemonic = "humble oil puppy what impact sudden witness vivid festival allow upper organ";
+var mnemonic = "forest steak oven front wreck ostrich nose spoil crush mind work motion";

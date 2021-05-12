@@ -1,1 +1,1 @@
-var mnemonic = "drill utility bone burden fossil foot music endorse ask fit marble buddy";
+var mnemonic = "grain avoid cluster firm gentle error name clay shield bleak tell include";

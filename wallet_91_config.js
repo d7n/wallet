@@ -1,1 +1,1 @@
-var mnemonic = "settle bean blouse level sweet grace stay age mistake earn whale elite";
+var mnemonic = "join ancient decade hybrid equal furnace pen auction floor eternal error palace";

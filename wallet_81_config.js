@@ -1,1 +1,1 @@
-var mnemonic = "daring example bomb erosion crush velvet bronze laundry alarm goddess nurse egg";
+var mnemonic = "brisk pistol frost bonus lucky discover cash foster army industry crater warm";

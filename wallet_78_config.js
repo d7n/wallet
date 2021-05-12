@@ -1,1 +1,1 @@
-var mnemonic = "desk able future high idea damage aunt uphold blush roof honey chunk";
+var mnemonic = "gym panda alien trap lawn release aisle album various slight level fatigue";

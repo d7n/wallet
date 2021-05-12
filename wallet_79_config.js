@@ -1,1 +1,1 @@
-var mnemonic = "flavor pizza delay patient symbol own radio sweet allow violin then charge";
+var mnemonic = "welcome journey crack foster cheap surface abuse top screen laptop bulb ugly";

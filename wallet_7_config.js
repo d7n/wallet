@@ -1,1 +1,1 @@
-var mnemonic = "tired cute morning aerobic kiwi left tape neither robust asset claw forward";
+var mnemonic = "flight prison breeze flower north story unknown artwork cement extra blue bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal erupt butter short sense define goose height rug receive critic kiss";
+var mnemonic = "faith agree miss inmate vicious mean mango debate unlock inhale light bus";

@@ -1,1 +1,1 @@
-var mnemonic = "sad social mountain metal horn code iron casual scheme promote skirt shallow";
+var mnemonic = "begin famous raw cupboard title fragile flock bamboo occur good wreck involve";

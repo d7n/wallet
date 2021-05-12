@@ -1,1 +1,1 @@
-var mnemonic = "royal jealous tumble brass toss void tide dog culture trade secret warrior";
+var mnemonic = "chat group left fatal around puzzle hood drum else adapt tenant venture";

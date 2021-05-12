@@ -1,1 +1,1 @@
-var mnemonic = "rail scissors baby surround idea wedding entry impulse poverty creek lottery ski";
+var mnemonic = "grain wisdom shallow faculty grid cabin moral cage benefit off inform fever";

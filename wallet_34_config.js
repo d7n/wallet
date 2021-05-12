@@ -1,1 +1,1 @@
-var mnemonic = "describe fee foot tattoo bomb hen morning dinosaur taxi menu number rebuild";
+var mnemonic = "riot answer nasty behave power away gas soft eagle mandate execute foam";

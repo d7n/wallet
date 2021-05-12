@@ -1,1 +1,1 @@
-var mnemonic = "adult traffic tonight install consider off boost renew frequent wisdom property outdoor";
+var mnemonic = "account category wisdom machine erase label enter peasant must fragile next twin";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger dog mutual gym unfair claw phone daring punch coast trip pill";
+var mnemonic = "special any control office scene drive begin bracket alter best exhibit bone";

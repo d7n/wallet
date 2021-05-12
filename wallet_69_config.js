@@ -1,1 +1,1 @@
-var mnemonic = "recipe light text soldier friend major knife fold model rigid gorilla baby";
+var mnemonic = "humor theme always tumble bronze private panther gloom laptop dizzy design foster";

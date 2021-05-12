@@ -1,1 +1,1 @@
-var mnemonic = "prefer trash clean more depend real series forest region example vendor time";
+var mnemonic = "forget chuckle metal violin govern charge layer timber theme doll cool light";

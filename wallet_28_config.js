@@ -1,1 +1,1 @@
-var mnemonic = "thing tomorrow process bamboo cabbage give injury shadow remind summer erosion trigger";
+var mnemonic = "exotic plug penalty rival fabric twice cook begin wheel popular bounce limit";

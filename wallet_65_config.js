@@ -1,1 +1,1 @@
-var mnemonic = "accident scare visa lock success steak second season zebra fly detect ten";
+var mnemonic = "illegal credit wage text crystal mushroom joy move trick okay trigger safe";

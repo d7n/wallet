@@ -1,1 +1,1 @@
-var mnemonic = "moon manage fat script bone disagree elder barrel thought swim surface sight";
+var mnemonic = "top much impulse spread bracket field pledge claim pond taxi result rough";

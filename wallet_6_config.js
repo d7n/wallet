@@ -1,1 +1,1 @@
-var mnemonic = "amazing smooth taste repair betray century what stamp soul marble already scare";
+var mnemonic = "wrestle shine reason child humble only obscure village awkward light vacant pony";

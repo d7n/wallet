@@ -1,1 +1,1 @@
-var mnemonic = "verify summer repair retreat liar blind dove anger there stairs isolate doctor";
+var mnemonic = "lion charge pond skill angle dynamic become race tray pioneer pitch gap";

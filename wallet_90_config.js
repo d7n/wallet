@@ -1,1 +1,1 @@
-var mnemonic = "popular cabin disorder same venture elder security plastic park fine frequent anchor";
+var mnemonic = "alarm misery enjoy crew avocado mystery exit canvas vocal input shaft situate";

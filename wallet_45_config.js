@@ -1,1 +1,1 @@
-var mnemonic = "hollow dial mechanic pulse youth direct age heavy capital choose panic tattoo";
+var mnemonic = "resist grace seek erupt rose immune sell very evil dash robot expect";

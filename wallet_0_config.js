@@ -1,1 +1,1 @@
-var mnemonic = "velvet choose mechanic expire disease pitch negative disagree swim convince valley uniform";
+var mnemonic = "bomb rescue swap develop night bulb someone repair another adult steak clay";

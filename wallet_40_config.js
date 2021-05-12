@@ -1,1 +1,1 @@
-var mnemonic = "monster roof voice issue cook viable ritual all ranch chair pass thought";
+var mnemonic = "prepare loud kid jelly culture office figure lyrics electric insane acquire cactus";

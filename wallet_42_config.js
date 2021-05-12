@@ -1,1 +1,1 @@
-var mnemonic = "valid border say tell model fabric web two borrow copper orange unique";
+var mnemonic = "access wild purpose silly acid busy social drift woman tip paper burger";
