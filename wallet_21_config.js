@@ -1,1 +1,1 @@
-var mnemonic = "wall join stomach camera feed wrong depart fat laundry canyon poverty mandate";
+var mnemonic = "possible corn rose extra detail fine upon material concert mutual stadium shed";

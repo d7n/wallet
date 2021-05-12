@@ -1,1 +1,1 @@
-var mnemonic = "student garlic pencil power enough review minimum grief merit eager lazy guess";
+var mnemonic = "into blood glare pond tackle picnic impulse excess bridge awake crop dove";

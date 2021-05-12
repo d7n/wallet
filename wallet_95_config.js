@@ -1,1 +1,1 @@
-var mnemonic = "anger soft report rebel action kite hundred tuition glad paper caught above";
+var mnemonic = "silver vote season next wrong true fee define company year crop print";

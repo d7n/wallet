@@ -1,1 +1,1 @@
-var mnemonic = "electric robust milk cook carpet once source junk real vivid rival device";
+var mnemonic = "acquire remain december little problem wheel planet month spirit staff mail winner";

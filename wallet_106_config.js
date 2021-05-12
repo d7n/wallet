@@ -1,1 +1,1 @@
-var mnemonic = "tent yard topic awkward giant float across crumble cause wet present hundred";
+var mnemonic = "song antique candy bridge trash stone ecology alien ill federal picnic pause";

@@ -1,1 +1,1 @@
-var mnemonic = "photo margin relax shrimp liar ill scout gas aware long code ugly";
+var mnemonic = "weapon skate canal gown tongue assist fix vital believe buzz loop library";

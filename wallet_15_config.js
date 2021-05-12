@@ -1,1 +1,1 @@
-var mnemonic = "weather exist drop cotton apple unaware exact rain check salute lake leisure";
+var mnemonic = "express rice sense royal review harsh allow gym slam step pioneer feature";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado insect treat wrong praise explain aunt chest trigger village bulk eternal";
+var mnemonic = "frost misery wall brief lottery indoor air response aerobic term shuffle yard";

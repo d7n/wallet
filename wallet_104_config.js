@@ -1,1 +1,1 @@
-var mnemonic = "fancy bacon panel patient erupt door share gap arm rifle what exhaust";
+var mnemonic = "weird october like grit render drip coral million proof tell purpose deliver";

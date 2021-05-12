@@ -1,1 +1,1 @@
-var mnemonic = "payment segment limb dash moon kangaroo black goose diagram earth people nothing";
+var mnemonic = "treat trouble truck bridge hunt west until atom labor tiny music skate";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion dolphin arrest stay erupt day exact fabric ordinary smoke view patient";
+var mnemonic = "industry island runway dutch act dentist chief invest bread grocery kit track";

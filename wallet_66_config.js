@@ -1,1 +1,1 @@
-var mnemonic = "claim decrease echo public square when insect public pattern woman decade quarter";
+var mnemonic = "boss swear source next hedgehog spring banner forum dune jealous now symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "allow blue cruise equip tongue flavor average worry shoulder shell fork skill";
+var mnemonic = "analyst rubber hunt float exile cover next pride rebuild flush salon crucial";

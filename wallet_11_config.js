@@ -1,1 +1,1 @@
-var mnemonic = "ribbon swamp clock version infant audit earn culture dinosaur ripple lunar deal";
+var mnemonic = "thrive myself scare inmate ethics crawl capital fantasy fluid surprise fee solar";

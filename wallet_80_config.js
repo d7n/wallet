@@ -1,1 +1,1 @@
-var mnemonic = "point legend best network million supply cabin garage decline ring october private";
+var mnemonic = "apple grocery notable fantasy raw trap curtain shrug spin this heart runway";

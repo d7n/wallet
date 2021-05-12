@@ -1,1 +1,1 @@
-var mnemonic = "analyst monitor source pulse lava oval photo grace use ability day purity";
+var mnemonic = "cricket lake until depth creek swap fringe flock random release inhale aim";

@@ -1,1 +1,1 @@
-var mnemonic = "weather tree manual mother bread dinner drill monitor organ mind stand device";
+var mnemonic = "census urban try they team inform play either slim favorite advice obscure";

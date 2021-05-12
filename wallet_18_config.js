@@ -1,1 +1,1 @@
-var mnemonic = "gaze brick episode void belt eager small lunch bone benefit midnight notable";
+var mnemonic = "child dry mandate basket gain genius please ancient dinner husband purse spice";

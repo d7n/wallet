@@ -1,1 +1,1 @@
-var mnemonic = "hint park entry asset tail swarm old rail left topple acquire abuse";
+var mnemonic = "enemy force screen gravity turtle grass bronze trigger stove miss bubble road";

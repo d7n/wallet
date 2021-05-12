@@ -1,1 +1,1 @@
-var mnemonic = "together follow kingdom phone rent loan believe diesel mix taxi service talk";
+var mnemonic = "antenna aware wave mention south powder educate better rhythm drastic release ethics";

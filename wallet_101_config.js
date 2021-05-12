@@ -1,1 +1,1 @@
-var mnemonic = "master panic what primary laundry annual breeze song welcome cancel math sample";
+var mnemonic = "amused pottery panic obvious party write aerobic benefit answer section pigeon boring";

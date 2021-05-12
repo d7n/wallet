@@ -1,1 +1,1 @@
-var mnemonic = "silver fantasy wrist dose primary arrest artist mandate window zoo recycle upon";
+var mnemonic = "sight over until steel enrich weapon save cube base sustain alcohol afford";

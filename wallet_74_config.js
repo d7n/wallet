@@ -1,1 +1,1 @@
-var mnemonic = "brisk believe deputy cousin turkey invite draft rich pair much leopard usual";
+var mnemonic = "rack talk case steel disagree width grit whip stand time lock output";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed dune start aerobic front oppose ahead hip boat emerge reopen smooth";
+var mnemonic = "metal awake close grain remember woman build joke banana error square answer";

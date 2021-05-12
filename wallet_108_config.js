@@ -1,1 +1,1 @@
-var mnemonic = "review other loop conduct learn among pig light around pride put sport";
+var mnemonic = "rose empty detail cry fantasy tattoo dignity boss spatial habit erupt decline";

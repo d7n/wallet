@@ -1,1 +1,1 @@
-var mnemonic = "force hurdle pill country minute gentle code cable sheriff spike auto cereal";
+var mnemonic = "unusual good picture simple tuna rabbit razor chaos hurry question bargain radio";

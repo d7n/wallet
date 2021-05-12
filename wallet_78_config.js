@@ -1,1 +1,1 @@
-var mnemonic = "awful future main hill actual rookie invite swamp usage barely cheap hamster";
+var mnemonic = "route hold inner cram rifle symbol run guide pattern junior excuse over";

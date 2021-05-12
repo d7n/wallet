@@ -1,1 +1,1 @@
-var mnemonic = "follow uphold infant lumber lucky fame action pepper unaware champion sad figure";
+var mnemonic = "sister final assault age grace damp hub life soccer depend auction judge";

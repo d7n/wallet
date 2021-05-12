@@ -1,1 +1,1 @@
-var mnemonic = "they civil kit wise blush unit team sister water toilet cluster setup";
+var mnemonic = "image dinner before surround room acquire region embrace outer gloom story cargo";

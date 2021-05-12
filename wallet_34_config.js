@@ -1,1 +1,1 @@
-var mnemonic = "outdoor appear open silver castle suggest sudden almost receive six profit agent";
+var mnemonic = "question core lounge hard pioneer motor horn peace dish wine limb unable";

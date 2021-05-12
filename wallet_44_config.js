@@ -1,1 +1,1 @@
-var mnemonic = "kitten enjoy affair mystery lounge easy column require rude settle island young";
+var mnemonic = "mandate smoke web awake minute tortoise agent celery spider sock gap together";

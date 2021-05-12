@@ -1,1 +1,1 @@
-var mnemonic = "tourist rain ancient neutral woman reflect typical share romance bless primary ski";
+var mnemonic = "plunge true awesome season speed chair ice rely ability office enroll carpet";

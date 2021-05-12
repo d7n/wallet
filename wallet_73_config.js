@@ -1,1 +1,1 @@
-var mnemonic = "fatigue beyond bacon release ritual lunar survey like cry ivory certain human";
+var mnemonic = "path frog ribbon swallow scorpion sunset popular host patient student science ugly";

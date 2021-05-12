@@ -1,1 +1,1 @@
-var mnemonic = "border away act able crunch luxury stumble edit genre quantum secret raise";
+var mnemonic = "normal bulb blanket purpose two nurse strategy flock cancel voyage under exit";

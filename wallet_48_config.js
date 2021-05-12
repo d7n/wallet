@@ -1,1 +1,1 @@
-var mnemonic = "moral clump name island property fatigue walnut gloom brown brisk glad lab";
+var mnemonic = "travel hire opera armor culture acoustic response runway outer short opera heart";

@@ -1,1 +1,1 @@
-var mnemonic = "glove behave sail else orange rose science genre sea spread bonus option";
+var mnemonic = "recycle wrist infant kick elder island nurse budget history unit future trophy";

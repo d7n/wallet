@@ -1,1 +1,1 @@
-var mnemonic = "warfare neutral length nominee badge orange horror emerge three flock lumber help";
+var mnemonic = "foot practice inspire actual blast joke comfort jump quality skin crumble exchange";

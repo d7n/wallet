@@ -1,1 +1,1 @@
-var mnemonic = "section satisfy allow cheese civil vicious require hand vapor wheat host judge";
+var mnemonic = "ugly gadget actual wedding salmon draw twist waste umbrella unlock improve game";

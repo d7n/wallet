@@ -1,1 +1,1 @@
-var mnemonic = "music fun broom vast panda quiz reunion brave sauce solar vicious frog";
+var mnemonic = "rare west split inhale supreme couch boy giggle attitude trophy fish ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse like logic actor crawl fringe buyer stand bacon trap neutral favorite";
+var mnemonic = "canyon force gentle divorce vote innocent close liberty face clump swap position";

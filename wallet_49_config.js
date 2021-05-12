@@ -1,1 +1,1 @@
-var mnemonic = "tunnel cloud cry attend rack warfare stove few excess acquire isolate owner";
+var mnemonic = "solar young laugh cover unveil immune equal extra blind furnace ostrich flower";

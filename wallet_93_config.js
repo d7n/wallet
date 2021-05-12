@@ -1,1 +1,1 @@
-var mnemonic = "exile situate cinnamon cream device biology collect pause length runway kitten canyon";
+var mnemonic = "nasty plug absent profit lamp risk minimum army awake vote actress reject";

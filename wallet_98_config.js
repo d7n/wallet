@@ -1,1 +1,1 @@
-var mnemonic = "barely early must bulk kitchen cabbage wagon long number arrange expose anger";
+var mnemonic = "refuse correct woman large casino situate ticket enforce kit dawn side oyster";

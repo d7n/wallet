@@ -1,1 +1,1 @@
-var mnemonic = "place benefit raccoon eternal alcohol sniff wink hockey trend wrestle raise catch";
+var mnemonic = "build purity behind outdoor enact confirm habit advice install vehicle birth scene";

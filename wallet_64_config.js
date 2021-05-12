@@ -1,1 +1,1 @@
-var mnemonic = "burger resist erupt drastic thumb earth quit crack sentence divert lobster yellow";
+var mnemonic = "spoil evidence tool grit interest cabin among trial devote install day roof";

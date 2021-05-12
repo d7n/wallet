@@ -1,1 +1,1 @@
-var mnemonic = "middle sand orient travel demise flat denial train tip net solid actual";
+var mnemonic = "involve refuse hold water senior alcohol slow layer boy tube panda already";

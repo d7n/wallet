@@ -1,1 +1,1 @@
-var mnemonic = "lawn maze auto once raw sign view doll fade atom tuition alert";
+var mnemonic = "crew face soccer divert ignore brother wheel final pact year defy segment";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble actual enjoy bus shiver jazz gesture bacon shy zone jar forget";
+var mnemonic = "reform game bounce chronic muffin anger around panic sand clown spread gentle";

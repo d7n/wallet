@@ -1,1 +1,1 @@
-var mnemonic = "copy attack harvest buzz file lounge spray infant raven edge cause effort";
+var mnemonic = "choice expire deputy tool assault figure legal menu slender hour question fork";

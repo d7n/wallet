@@ -1,1 +1,1 @@
-var mnemonic = "draw road negative upset joy equip punch fly wife range actual lady";
+var mnemonic = "lottery elbow blind inherit snow series pretty bid dune then dream woman";

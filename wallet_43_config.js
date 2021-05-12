@@ -1,1 +1,1 @@
-var mnemonic = "very sort best peace relax shadow truck relax lamp action kangaroo radar";
+var mnemonic = "essence dove element move dice confirm unlock sentence vote globe pave waste";

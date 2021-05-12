@@ -1,1 +1,1 @@
-var mnemonic = "can paddle again news pave hard dwarf host exercise useful novel ozone";
+var mnemonic = "scale mimic vintage core risk mass banana top whale bamboo must barely";

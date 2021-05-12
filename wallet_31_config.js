@@ -1,1 +1,1 @@
-var mnemonic = "provide buzz orbit dizzy drop pigeon round shallow actor whale avoid void";
+var mnemonic = "moral hair tent glow mad beauty swift balcony order brass anchor gym";

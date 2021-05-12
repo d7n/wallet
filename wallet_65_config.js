@@ -1,1 +1,1 @@
-var mnemonic = "misery river elbow bronze work notice feel glide episode surface loop pelican";
+var mnemonic = "lab cabin rack buddy silent drift rural isolate talent message shoulder proud";

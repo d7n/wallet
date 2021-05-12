@@ -1,1 +1,1 @@
-var mnemonic = "memory visit clerk weapon fluid pottery stable culture swarm lend portion direct";
+var mnemonic = "tuna charge garment suggest tide timber loan wall cram neutral poverty flock";

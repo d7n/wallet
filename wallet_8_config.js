@@ -1,1 +1,1 @@
-var mnemonic = "text immense absurd fetch artist heavy sketch crucial around salmon display moral";
+var mnemonic = "word dove quiz hungry gloom fat sustain jazz front gravity rifle rescue";

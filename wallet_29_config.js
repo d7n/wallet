@@ -1,1 +1,1 @@
-var mnemonic = "year clay march dizzy early video man nasty meat civil pulp dial";
+var mnemonic = "lift license just video jewel frequent used parent flavor concert sweet angle";

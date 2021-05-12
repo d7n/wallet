@@ -1,1 +1,1 @@
-var mnemonic = "coast random better spray walk push category crouch increase miracle switch father";
+var mnemonic = "health ozone flip version become carpet vibrant mail brown flee destroy gasp";

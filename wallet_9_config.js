@@ -1,1 +1,1 @@
-var mnemonic = "join want height casino badge ball spoon three pulp job search page";
+var mnemonic = "fantasy prize unknown strategy tail grief property antique crop rare jealous tilt";

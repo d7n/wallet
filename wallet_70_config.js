@@ -1,1 +1,1 @@
-var mnemonic = "solid book fatigue cabin elite pitch sweet level soda admit aerobic theme";
+var mnemonic = "treat visa myself adult radar coral pelican gauge athlete summer bonus coconut";

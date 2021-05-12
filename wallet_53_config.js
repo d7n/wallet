@@ -1,1 +1,1 @@
-var mnemonic = "boost jacket express auto flock night sample lemon process raise ritual adjust";
+var mnemonic = "patient nurse misery clarify captain scrub minute reduce venue aerobic sail rifle";

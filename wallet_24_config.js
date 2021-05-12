@@ -1,1 +1,1 @@
-var mnemonic = "today desert document spread father science job crop image gloom miss frog";
+var mnemonic = "brother cliff rug sibling hawk cigar brief battle primary strike minor infant";

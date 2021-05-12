@@ -1,1 +1,1 @@
-var mnemonic = "surface heavy speed clog stem clown rescue safe school thumb tape initial";
+var mnemonic = "elephant thrive muscle wrist cycle copy limit group devote weekend grit cycle";

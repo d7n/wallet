@@ -1,1 +1,1 @@
-var mnemonic = "claw tenant screen cart volume soon siege faculty tiny core squirrel debris";
+var mnemonic = "push shadow relief alcohol width world flag banner like deny clinic pet";

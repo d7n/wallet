@@ -1,1 +1,1 @@
-var mnemonic = "catalog salt hawk dawn people tooth poet soda runway dial own struggle";
+var mnemonic = "little manual slab cereal fashion sure spider twenty satoshi vintage range armor";

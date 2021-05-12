@@ -1,1 +1,1 @@
-var mnemonic = "want light pole mosquito deliver where transfer height glory visa submit lawsuit";
+var mnemonic = "decide east light quote segment cook move blood script during cannon lizard";

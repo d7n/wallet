@@ -1,1 +1,1 @@
-var mnemonic = "all cable eager shed artist banner future confirm humble dream earth sea";
+var mnemonic = "nothing twice replace tattoo spy tattoo camera census stick glow tone smart";

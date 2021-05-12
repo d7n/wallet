@@ -1,1 +1,1 @@
-var mnemonic = "elbow rally ski hurry ecology remain glide license ill sting demand hidden";
+var mnemonic = "nation spring broom festival boil wonder know airport grant lemon era slam";

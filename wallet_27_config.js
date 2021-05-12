@@ -1,1 +1,1 @@
-var mnemonic = "spend trigger crunch phone balance response island believe loyal please mind dinner";
+var mnemonic = "occur find beyond great galaxy island special alter drama key hurt marble";

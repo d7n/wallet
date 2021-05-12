@@ -1,1 +1,1 @@
-var mnemonic = "bone elevator harvest fuel zebra flight crane bulk giant laptop toy ring";
+var mnemonic = "year subject brand upset trial ivory tenant music skill trouble shell fence";

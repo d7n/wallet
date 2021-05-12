@@ -1,1 +1,1 @@
-var mnemonic = "trim above midnight lemon drastic snow act meadow spray begin reform tide";
+var mnemonic = "arrow error soap category column submit loan master install fuel question betray";

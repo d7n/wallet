@@ -1,1 +1,1 @@
-var mnemonic = "glory melt language nice since edge toast process crew frozen obey endorse";
+var mnemonic = "luggage collect gentle economy tree satoshi museum valley impose large annual smart";

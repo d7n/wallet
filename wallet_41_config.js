@@ -1,1 +1,1 @@
-var mnemonic = "flight vocal toe thrive taxi word sketch culture oblige weapon royal office";
+var mnemonic = "genius bottom relax card evoke stadium mixture able wing news envelope prosper";

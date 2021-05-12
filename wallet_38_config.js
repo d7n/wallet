@@ -1,1 +1,1 @@
-var mnemonic = "dutch bitter error surprise element veteran shop frequent grain pattern meat gold";
+var mnemonic = "axis undo ocean awake future year famous bike sheriff arrest reunion shiver";

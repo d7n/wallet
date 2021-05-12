@@ -1,1 +1,1 @@
-var mnemonic = "enter nation public mistake worry garden hockey federal stadium carbon basket clog";
+var mnemonic = "music exercise monkey tortoise sunny badge source impulse hobby stool jacket sniff";

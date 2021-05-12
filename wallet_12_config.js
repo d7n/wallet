@@ -1,1 +1,1 @@
-var mnemonic = "truly expand work fruit click ranch tennis differ found way divorce talent";
+var mnemonic = "teach strike pair express motion clip smoke alley trick slender scheme phrase";

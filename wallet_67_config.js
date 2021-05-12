@@ -1,1 +1,1 @@
-var mnemonic = "capable ritual butter fence happy transfer depart little taxi young more strike";
+var mnemonic = "donate rebel belt coffee copper tell brown castle ozone gauge cattle easily";

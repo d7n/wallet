@@ -1,1 +1,1 @@
-var mnemonic = "hurdle absent involve shadow develop double nice insect cave negative canoe hollow";
+var mnemonic = "anger want debate erupt dog oxygen buzz frame clarify flat chair core";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital eagle tortoise fire shed muffin embrace hello skirt jaguar can blast";
+var mnemonic = "leaf update damp bench inch snake cycle try asthma chimney inspire amazing";

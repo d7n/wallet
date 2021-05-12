@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow breeze useless weird have slogan step crack patch blame vacant say";
+var mnemonic = "kid boring trash trim arrange master magic chalk today little hero claw";

@@ -1,1 +1,1 @@
-var mnemonic = "tide various island obey fold prepare juice denial carpet knock scorpion frog";
+var mnemonic = "curve speak just wash border buffalo reward seed first panther picture meat";

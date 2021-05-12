@@ -1,1 +1,1 @@
-var mnemonic = "whisper step worth ready fork empty pear swallow scatter popular dutch worry";
+var mnemonic = "creek social weird text reject immense cricket budget horse stock gym hill";

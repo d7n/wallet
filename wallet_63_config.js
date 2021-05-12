@@ -1,1 +1,1 @@
-var mnemonic = "demand rail logic smile lonely lady couple runway banana town crouch donate";
+var mnemonic = "focus globe divide trial disagree benefit hidden injury close limit pink catalog";

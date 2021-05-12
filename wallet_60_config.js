@@ -1,1 +1,1 @@
-var mnemonic = "game judge wide heavy gossip stand top depart all wait teach problem";
+var mnemonic = "tooth miss critic marriage artist nuclear two broccoli child palace wall fragile";

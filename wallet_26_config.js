@@ -1,1 +1,1 @@
-var mnemonic = "forget math another spread soul empower police defy lesson cave credit impact";
+var mnemonic = "walk regular walnut mad throw initial general toddler frost friend diesel antique";

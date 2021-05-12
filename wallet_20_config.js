@@ -1,1 +1,1 @@
-var mnemonic = "element street engage lecture receive shine dose galaxy giggle bronze fragile exclude";
+var mnemonic = "weapon also light finish address rotate skull sketch seven slight voyage bridge";

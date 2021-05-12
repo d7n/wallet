@@ -1,1 +1,1 @@
-var mnemonic = "foam quality acid fix matter stage spend inject verb august early crash";
+var mnemonic = "sea network deputy economy height round decorate actual ridge scan turtle run";

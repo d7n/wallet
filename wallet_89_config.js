@@ -1,1 +1,1 @@
-var mnemonic = "debris good climb love shoe charge degree rather false tumble blur evidence";
+var mnemonic = "endless exchange length spider file ritual bread scrub edit exact fury dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "fever clay skill upset clever that tooth then yard riot design warrior";
+var mnemonic = "concert tree fitness matrix patient duck must illness major lunch super powder";
