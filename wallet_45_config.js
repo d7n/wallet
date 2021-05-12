@@ -1,1 +1,1 @@
-var mnemonic = "code piece negative return lecture minute label crunch task enlist prepare spoil";
+var mnemonic = "edge train vendor copper cloth conduct rent day skirt cheap marriage can";

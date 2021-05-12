@@ -1,1 +1,1 @@
-var mnemonic = "cart coffee glow pill off gap unit music emerge special vast design";
+var mnemonic = "gorilla recycle music adjust bone kite saddle clown choose put finger blouse";

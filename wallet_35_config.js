@@ -1,1 +1,1 @@
-var mnemonic = "bitter place suggest space power point will chalk artwork clever host mercy";
+var mnemonic = "library age goose ketchup neglect survey flock wash dentist clarify eternal laundry";

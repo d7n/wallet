@@ -1,1 +1,1 @@
-var mnemonic = "swarm act action decline venture void napkin random little album hospital humble";
+var mnemonic = "area suffer flat cross analyst insect guilt economy unusual behave clarify myself";

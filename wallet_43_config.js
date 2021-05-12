@@ -1,1 +1,1 @@
-var mnemonic = "silk code detail cousin zebra warm furnace float man timber expand letter";
+var mnemonic = "expire any insect grunt stamp bless cabbage vehicle minute cousin derive ask";

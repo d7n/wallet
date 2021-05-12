@@ -1,1 +1,1 @@
-var mnemonic = "keen news plunge sentence inject lift service scale mountain cage note favorite";
+var mnemonic = "soccer fringe able canvas usual biology luxury market slush mask diagram similar";

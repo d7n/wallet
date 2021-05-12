@@ -1,1 +1,1 @@
-var mnemonic = "orbit famous anchor garden domain foil myth box immune sense depart spoil";
+var mnemonic = "random enemy cup blood diesel actual ocean clump vivid world legend slogan";

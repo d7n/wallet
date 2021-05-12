@@ -1,1 +1,1 @@
-var mnemonic = "solve evoke twelve effort sort physical dust ritual reopen pill buyer penalty";
+var mnemonic = "syrup lazy path suffer cliff cat inflict protect finger blur traffic since";

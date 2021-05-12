@@ -1,1 +1,1 @@
-var mnemonic = "layer old heavy empty fiber toward install front ghost speak kingdom film";
+var mnemonic = "pulp maid exercise bubble toast smart document smoke story scene sure clever";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck swallow spring sponsor pelican cycle sadness siren barrel deal shallow uncover";
+var mnemonic = "effort wing immune year nasty cash ask style size hire place woman";

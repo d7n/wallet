@@ -1,1 +1,1 @@
-var mnemonic = "bomb calm century top mimic detect endless enroll visit horn basic course";
+var mnemonic = "pull remove swap unit tomorrow argue verify harsh render capable olympic bullet";

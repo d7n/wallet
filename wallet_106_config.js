@@ -1,1 +1,1 @@
-var mnemonic = "popular finger achieve angry other wrong account family august vague oxygen grief";
+var mnemonic = "awkward forest broken arrive elegant desert couch person used siren among question";

@@ -1,1 +1,1 @@
-var mnemonic = "grass bulb flat security panda result card write museum imitate brass kiwi";
+var mnemonic = "accident artist attract finish prosper write portion dignity doctor aunt acoustic put";

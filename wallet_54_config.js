@@ -1,1 +1,1 @@
-var mnemonic = "scare burden sad antique reason head virus sustain general extra peace marine";
+var mnemonic = "blade wrong mixture almost track denial obvious dirt fortune ski gesture enlist";

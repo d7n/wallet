@@ -1,1 +1,1 @@
-var mnemonic = "blade chunk recall search fun entire tray fork circle slim near ahead";
+var mnemonic = "like year regular near print neutral drive puppy vague talk cool peasant";

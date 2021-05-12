@@ -1,1 +1,1 @@
-var mnemonic = "sauce chef occur general second distance parade boost element cinnamon nasty garden";
+var mnemonic = "join raise online fantasy tank isolate dice dirt person unveil case catch";

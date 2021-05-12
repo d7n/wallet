@@ -1,1 +1,1 @@
-var mnemonic = "catalog drop skill narrow unit stereo prefer then romance liberty south bring";
+var mnemonic = "purpose govern raccoon dolphin desert horror fine link ocean wage taste subject";

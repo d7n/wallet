@@ -1,1 +1,1 @@
-var mnemonic = "topple jelly hollow clip scheme host bright fish member brain trust spatial";
+var mnemonic = "taxi obscure across segment stage help warm worry alter fabric scrap clock";

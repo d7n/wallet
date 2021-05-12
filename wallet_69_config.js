@@ -1,1 +1,1 @@
-var mnemonic = "caution express range cricket carbon text century legend garment play practice private";
+var mnemonic = "awesome spider absent ecology high soccer wink secret retire genius purity response";

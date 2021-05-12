@@ -1,1 +1,1 @@
-var mnemonic = "yard bike brass feature frozen tank matter laundry dynamic spice slush symptom";
+var mnemonic = "connect gadget burden fit mixture improve motion body cheap echo olive problem";

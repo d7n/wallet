@@ -1,1 +1,1 @@
-var mnemonic = "symptom scissors innocent welcome link search penalty mushroom december ship toast surge";
+var mnemonic = "test fashion jungle atom prepare depart climb invite six dog wisdom follow";

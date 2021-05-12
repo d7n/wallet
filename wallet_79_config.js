@@ -1,1 +1,1 @@
-var mnemonic = "depend boil beef oyster obscure jacket lyrics draw grant furnace ivory garden";
+var mnemonic = "permit online hospital flavor reason tell boil blossom pass price party already";

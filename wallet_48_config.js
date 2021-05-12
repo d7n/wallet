@@ -1,1 +1,1 @@
-var mnemonic = "evidence mail mechanic edge moment green merry execute loan twice ecology city";
+var mnemonic = "curtain tourist crunch moment dish pole element blade gasp exit push leisure";

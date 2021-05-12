@@ -1,1 +1,1 @@
-var mnemonic = "episode blood athlete rival face gate goat ribbon join diet loyal infant";
+var mnemonic = "gift kite race weather rice blood crowd isolate drum guitar cool castle";

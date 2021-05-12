@@ -1,1 +1,1 @@
-var mnemonic = "grocery move penalty final mule alien canal bundle middle upset where between";
+var mnemonic = "gate weekend domain enhance dial soccer repair lake genius claim fog gold";

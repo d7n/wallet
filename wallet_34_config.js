@@ -1,1 +1,1 @@
-var mnemonic = "venue laundry animal vessel fetch profit modify furnace myth mistake skin rival";
+var mnemonic = "always level shed enlist chimney beauty upon staff secret lamp number only";

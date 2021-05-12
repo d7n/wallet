@@ -1,1 +1,1 @@
-var mnemonic = "test process awesome ability hope quality discover burger dance scorpion onion minor";
+var mnemonic = "swing identify visit offer nerve rate hobby face select hood panda flat";

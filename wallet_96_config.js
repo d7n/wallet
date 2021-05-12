@@ -1,1 +1,1 @@
-var mnemonic = "story car art jar shaft daughter below unlock funny fossil spare nasty";
+var mnemonic = "sign hamster flush tree afford elevator clap science oil entry model flash";

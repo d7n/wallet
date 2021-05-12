@@ -1,1 +1,1 @@
-var mnemonic = "melt repair uncover elevator butter talk cushion immune toilet spoon true knee";
+var mnemonic = "wrong potato blood horn axis loyal portion brave amazing spike chuckle juice";

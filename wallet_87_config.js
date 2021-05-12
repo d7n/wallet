@@ -1,1 +1,1 @@
-var mnemonic = "monkey trophy region rain scorpion above useless crystal erupt brain ignore tilt";
+var mnemonic = "picture broom dutch shaft smart arrest head cycle envelope twice wrap news";

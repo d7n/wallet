@@ -1,1 +1,1 @@
-var mnemonic = "tackle quote seek prepare bomb hire inner burger two retreat drive hat";
+var mnemonic = "muscle essay oval toward high enjoy tomorrow purity era stone burst screen";

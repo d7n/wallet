@@ -1,1 +1,1 @@
-var mnemonic = "remain menu virus enrich cook hope solution ignore speed hero remind gift";
+var mnemonic = "pumpkin spoil ankle corn garage genuine news net busy thought boy live";

@@ -1,1 +1,1 @@
-var mnemonic = "elite blade recall alert snap wrong charge side road pumpkin perfect rug";
+var mnemonic = "hunt fresh fork student front utility general frozen crush around idle copy";

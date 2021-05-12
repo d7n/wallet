@@ -1,1 +1,1 @@
-var mnemonic = "lens spend field waste sniff wrestle liberty stable adapt grit trouble shiver";
+var mnemonic = "praise want fashion tragic advance draft inflict wreck bind sweet torch salute";

@@ -1,1 +1,1 @@
-var mnemonic = "term thought unfold cream under sight rally write total bunker speak glove";
+var mnemonic = "used potato gentle recycle burden host visa opera fragile isolate tree ride";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply degree inquiry consider mail shine submit gallery tourist profit raise flame";
+var mnemonic = "chapter sausage elite height mandate bone trash fade art glimpse win search";

@@ -1,1 +1,1 @@
-var mnemonic = "receive barely fringe van casual dynamic nature luggage grape plunge math subway";
+var mnemonic = "host suggest wedding sorry render silent side fun release fall elite wise";

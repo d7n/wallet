@@ -1,1 +1,1 @@
-var mnemonic = "actor bracket advance oval tennis version long voyage laugh lady please twelve";
+var mnemonic = "lottery stage cloth account boil injury verify gravity midnight kick medal mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "basket fashion length reject humor game smart ski duty demise simple rice";
+var mnemonic = "sheriff lumber square race tissue battle genre ugly gloom art simple side";

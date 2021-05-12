@@ -1,1 +1,1 @@
-var mnemonic = "gap isolate coast live panic among license ignore video hammer piano inhale";
+var mnemonic = "gravity upgrade enter foam common wonder praise cruel true leader ready area";

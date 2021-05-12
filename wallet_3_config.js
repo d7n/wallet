@@ -1,1 +1,1 @@
-var mnemonic = "scrub tornado poverty humor blouse casino burst expand never squirrel gym rocket";
+var mnemonic = "skill gas oval enact actual frog gown trumpet inherit top final issue";

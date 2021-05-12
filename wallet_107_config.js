@@ -1,1 +1,1 @@
-var mnemonic = "curious exile below magnet eyebrow soda easily creek predict butter depend liquid";
+var mnemonic = "evidence ostrich shoe nephew flower recycle wolf virtual joy express volcano lens";

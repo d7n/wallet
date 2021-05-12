@@ -1,1 +1,1 @@
-var mnemonic = "beef stand woman pluck snap crush profit dream trial rack cat tower";
+var mnemonic = "genius because spoon tennis time human child fork vacant pledge false present";

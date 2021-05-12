@@ -1,1 +1,1 @@
-var mnemonic = "choice immune brown upgrade anchor scheme leader vendor injury simple boring cave";
+var mnemonic = "rule rely room name athlete tilt rebuild rate midnight salmon child one";

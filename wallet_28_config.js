@@ -1,1 +1,1 @@
-var mnemonic = "popular essence exotic nest canvas hawk guess rhythm catch certain enforce anxiety";
+var mnemonic = "business fringe use enable sure silent physical fence clump orbit escape stable";

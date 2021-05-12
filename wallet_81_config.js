@@ -1,1 +1,1 @@
-var mnemonic = "cloud obscure creek dynamic vote arctic rely deer actress crash embark mirror";
+var mnemonic = "ripple excite small upon artist reflect unable detail miracle frame mule van";

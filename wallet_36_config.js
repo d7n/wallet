@@ -1,1 +1,1 @@
-var mnemonic = "anger smile lumber market radar rural dawn crouch cradle joy jealous cycle";
+var mnemonic = "unhappy world airport weapon describe endorse discover off giggle number middle pause";

@@ -1,1 +1,1 @@
-var mnemonic = "health reflect neither sample easy knock anger mistake series example empower bless";
+var mnemonic = "mind lonely aisle patrol among fruit toilet stable shrimp auto sick shine";

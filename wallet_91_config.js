@@ -1,1 +1,1 @@
-var mnemonic = "couch arrest ill couch alien issue off dinner cream lens craft tattoo";
+var mnemonic = "only pass mean vast cover vital laundry dentist guilt bird balcony note";

@@ -1,1 +1,1 @@
-var mnemonic = "soft stamp welcome ball olive admit tragic arrive such cool mom gift";
+var mnemonic = "fatal depart error bachelor boost armor slide filter insane indicate shadow heavy";

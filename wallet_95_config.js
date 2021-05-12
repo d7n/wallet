@@ -1,1 +1,1 @@
-var mnemonic = "bottom noodle surround unique roast south kid virus asset moon prize thing";
+var mnemonic = "allow sorry coach security steel buddy casual absent word polar kiwi honey";

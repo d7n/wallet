@@ -1,1 +1,1 @@
-var mnemonic = "spread short reason tilt glass melt eager general wage measure option umbrella";
+var mnemonic = "hawk pistol gold story police month antenna surface despair volume curtain among";

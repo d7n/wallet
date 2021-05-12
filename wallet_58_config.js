@@ -1,1 +1,1 @@
-var mnemonic = "infant eagle uphold deposit zero lemon jump eye lesson inform fun gap";
+var mnemonic = "expand crane cycle flush crop midnight grit antenna engine nephew flavor milk";

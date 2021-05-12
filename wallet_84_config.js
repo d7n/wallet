@@ -1,1 +1,1 @@
-var mnemonic = "uphold soldier sure interest method buyer flee when smart usual moral damp";
+var mnemonic = "guilt armor law delay cruise select mail relax crop leader indoor exile";

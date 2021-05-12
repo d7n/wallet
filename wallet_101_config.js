@@ -1,1 +1,1 @@
-var mnemonic = "drastic answer token sister coast truly accuse tail left piece symptom disorder";
+var mnemonic = "gasp nothing reward curious oyster basic differ grape sketch resemble vote palace";

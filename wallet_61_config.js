@@ -1,1 +1,1 @@
-var mnemonic = "current special else minor believe kiwi dragon winter mask faint clump nature";
+var mnemonic = "pitch problem reopen early dismiss coyote wealth endorse actual acquire save option";

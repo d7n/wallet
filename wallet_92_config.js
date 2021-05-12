@@ -1,1 +1,1 @@
-var mnemonic = "improve usage goat custom bomb garden design fat grocery admit chronic you";
+var mnemonic = "blanket bike artwork cloth fitness title amateur twice erosion nuclear say pattern";

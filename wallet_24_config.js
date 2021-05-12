@@ -1,1 +1,1 @@
-var mnemonic = "attract aisle salt gather capable identify pretty whisper science seed creek lunch";
+var mnemonic = "script decide secret hybrid soda hour torch hawk dumb carry liquid acoustic";

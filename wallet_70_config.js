@@ -1,1 +1,1 @@
-var mnemonic = "burger say ecology portion feed version miss bridge keen giggle fence neither";
+var mnemonic = "food blind doctor network fetch tomorrow scheme arrest goddess ginger hobby never";

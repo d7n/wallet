@@ -1,1 +1,1 @@
-var mnemonic = "thrive swap penalty cake aware remember phone rally clarify pave clog dove";
+var mnemonic = "essence bench gallery festival risk armor gown collect anxiety math upon mean";

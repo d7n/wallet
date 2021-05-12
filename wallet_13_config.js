@@ -1,1 +1,1 @@
-var mnemonic = "team dizzy simple stuff power circle shrug outdoor you kid elite obey";
+var mnemonic = "little december margin report slow limb awake cluster price cabbage food giraffe";

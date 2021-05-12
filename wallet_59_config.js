@@ -1,1 +1,1 @@
-var mnemonic = "noise wise fetch clutch sphere rebuild glow corn mother sudden cool fold";
+var mnemonic = "grief lucky enemy feel pizza siren depend friend father floor because unhappy";

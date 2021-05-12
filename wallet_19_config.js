@@ -1,1 +1,1 @@
-var mnemonic = "dismiss woman cover visit initial crack gas ahead crumble warrior stamp bag";
+var mnemonic = "link shallow quarter sponsor pretty boy stay cinnamon nose describe time common";

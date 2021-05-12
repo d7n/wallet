@@ -1,1 +1,1 @@
-var mnemonic = "change shed skin blur bonus logic oak nasty skirt pause alley ask";
+var mnemonic = "pepper bar pledge good want caught member symbol inflict during wine danger";

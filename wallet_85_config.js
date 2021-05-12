@@ -1,1 +1,1 @@
-var mnemonic = "delay life ramp coyote divide scout evidence merge pact outside unable drama";
+var mnemonic = "off alarm transfer oil adjust magic noise truly field solution dawn april";

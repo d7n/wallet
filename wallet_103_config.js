@@ -1,1 +1,1 @@
-var mnemonic = "main all turtle burden device strategy valid road certain reveal strong thank";
+var mnemonic = "repair tiger hurt entry fly twist margin spice core farm autumn quote";

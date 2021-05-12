@@ -1,1 +1,1 @@
-var mnemonic = "cry couple duck drive divorce safe bulb tag genuine crucial eyebrow potato";
+var mnemonic = "salt width pet nurse shoot craft fragile barrel moon please tuna steel";

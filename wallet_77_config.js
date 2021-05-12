@@ -1,1 +1,1 @@
-var mnemonic = "tell peace wait crater network summer asset quote cheap number enough fluid";
+var mnemonic = "tank release print case prevent pottery woman crush area story same casino";

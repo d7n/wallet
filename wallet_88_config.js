@@ -1,1 +1,1 @@
-var mnemonic = "glimpse stuff armed float project endorse media stay holiday utility fringe smile";
+var mnemonic = "apple suggest glare cage scan diet source cupboard era destroy hundred slight";

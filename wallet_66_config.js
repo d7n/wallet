@@ -1,1 +1,1 @@
-var mnemonic = "hand sudden spirit other popular end cloth easily shrimp check exclude maze";
+var mnemonic = "actual machine frog exchange talk produce list display plastic wing juice bicycle";

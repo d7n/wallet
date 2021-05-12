@@ -1,1 +1,1 @@
-var mnemonic = "adapt crisp riot saddle web adapt ozone diary stage knock velvet penalty";
+var mnemonic = "corn inherit man spring unlock danger term coach humor split spy best";

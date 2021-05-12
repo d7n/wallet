@@ -1,1 +1,1 @@
-var mnemonic = "electric wrap predict provide chair rigid sign choice vague unusual monster napkin";
+var mnemonic = "mutual manage paper inmate angle leave woman attract science seed pave rice";

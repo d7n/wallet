@@ -1,1 +1,1 @@
-var mnemonic = "disorder adult flee account cage ticket rule core slot bird seven inmate";
+var mnemonic = "window retire sausage spirit genius diesel picture gallery moral mule pause fit";

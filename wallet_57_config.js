@@ -1,1 +1,1 @@
-var mnemonic = "pear inmate man sport face gather voyage tragic lava fever filter holiday";
+var mnemonic = "chair garage cry dismiss scout ocean toss penalty music chest air account";

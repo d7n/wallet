@@ -1,1 +1,1 @@
-var mnemonic = "cliff autumn degree tent endorse surge this pretty evil someone screen sword";
+var mnemonic = "dinosaur march stay tower chicken doctor combine brisk spring gun marriage ice";

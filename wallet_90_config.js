@@ -1,1 +1,1 @@
-var mnemonic = "vintage perfect jar damage intact sunset witness water inject purchase leaf magnet";
+var mnemonic = "caught desert satoshi parent sample ghost tortoise aspect cake puzzle guitar loan";

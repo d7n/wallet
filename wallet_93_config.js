@@ -1,1 +1,1 @@
-var mnemonic = "swap select clump three shrug dolphin token sketch weird method brisk trade";
+var mnemonic = "group fade leader sail fetch demand used skull mixture salon fog furnace";

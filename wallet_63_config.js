@@ -1,1 +1,1 @@
-var mnemonic = "ready village pride polar sentence deny visual vicious gather warrior velvet resist";
+var mnemonic = "sweet barrel tomato stereo exist add fade impact snap easy eager enemy";

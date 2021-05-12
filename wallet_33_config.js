@@ -1,1 +1,1 @@
-var mnemonic = "adult iron flee squeeze problem goat prepare transfer into popular model excite";
+var mnemonic = "end expand biology motor seven modify plate pumpkin copy amount lounge assist";

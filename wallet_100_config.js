@@ -1,1 +1,1 @@
-var mnemonic = "flag run olive current broken engine sunny acid february shift dune gadget";
+var mnemonic = "adapt armor inform treat town throw rail fossil indoor reward seek ill";

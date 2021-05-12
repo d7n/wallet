@@ -1,1 +1,1 @@
-var mnemonic = "avocado assist jewel menu window silver giant photo orbit another render crime";
+var mnemonic = "acquire nephew wing grit wolf insane crunch burden chunk mixture picture useless";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge never onion humor strong nothing twist garage whip script judge census";
+var mnemonic = "praise razor plug scene identify jaguar because clap electric luggage stick happy";

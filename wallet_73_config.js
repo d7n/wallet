@@ -1,1 +1,1 @@
-var mnemonic = "quote involve fly fish they walnut faculty problem wolf adapt match forward";
+var mnemonic = "select tattoo bunker phone iron warfare hazard garage never buddy clarify survey";

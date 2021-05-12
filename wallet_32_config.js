@@ -1,1 +1,1 @@
-var mnemonic = "oppose bargain video struggle road someone ramp jungle blossom weapon lyrics already";
+var mnemonic = "leader slide achieve banana firm property evoke idle camera adjust cause pledge";

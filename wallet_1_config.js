@@ -1,1 +1,1 @@
-var mnemonic = "ignore quote broom crucial real wine prize hire stereo laptop window behind";
+var mnemonic = "group style obey record aspect soap glance job wild slight ladder pretty";

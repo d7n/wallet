@@ -1,1 +1,1 @@
-var mnemonic = "dream consider inner such amazing lazy describe success win minimum mail cradle";
+var mnemonic = "include wife select brick ocean bid change display call atom deer jacket";

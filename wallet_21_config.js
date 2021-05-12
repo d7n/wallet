@@ -1,1 +1,1 @@
-var mnemonic = "tourist hero target nature liar into silent spring success voyage swear shallow";
+var mnemonic = "mouse satoshi trumpet duty lecture example donkey all push swarm arrow kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect machine hello speak report science crew protect scare remain clap van";
+var mnemonic = "silver law swap filter receive pen drum human tree nothing banner denial";
