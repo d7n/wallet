@@ -1,1 +1,1 @@
-var mnemonic = "truck edit menu front avoid attend clay shallow sunny olympic swallow emerge";
+var mnemonic = "crisp effort cruise connect outdoor same finish maid panda subject tragic forum";

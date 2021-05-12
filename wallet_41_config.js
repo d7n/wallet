@@ -1,1 +1,1 @@
-var mnemonic = "gadget main defy cabin idea salad eagle armed alpha giant loop inform";
+var mnemonic = "dove smooth rich despair eagle repair consider snake jacket core together bus";

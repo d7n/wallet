@@ -1,1 +1,1 @@
-var mnemonic = "photo second member tone boat innocent cup humble similar penalty envelope sad";
+var mnemonic = "wool forward fresh wet tonight speak narrow soap dumb motor chicken dinosaur";

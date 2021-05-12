@@ -1,1 +1,1 @@
-var mnemonic = "false attract luggage elevator weasel engine pair access world proof wood just";
+var mnemonic = "drop oblige paddle program south aunt gallery street half miss action limb";

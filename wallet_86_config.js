@@ -1,1 +1,1 @@
-var mnemonic = "someone rice public gap vast rescue weapon legal tissue simple pair cactus";
+var mnemonic = "floor security empty daring giant add reason quit float ill vote prison";

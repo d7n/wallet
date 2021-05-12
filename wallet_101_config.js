@@ -1,1 +1,1 @@
-var mnemonic = "section page ostrich worry globe shoot nerve liberty library paddle text mosquito";
+var mnemonic = "robot kind vast twist congress helmet hero radar stick rally pen cave";

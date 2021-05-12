@@ -1,1 +1,1 @@
-var mnemonic = "direct clinic orbit matter special ship absent wealth voice genius fruit pet";
+var mnemonic = "fish letter direct knife noodle rapid plug scare term mirror candy gold";

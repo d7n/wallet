@@ -1,1 +1,1 @@
-var mnemonic = "spring dove opera sword tide program struggle easy certain immune cherry usage";
+var mnemonic = "like hard emotion frame size portion merge play cycle spider slot mask";

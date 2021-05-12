@@ -1,1 +1,1 @@
-var mnemonic = "shrimp general lizard innocent step pattern change divide stuff fiscal raccoon tray";
+var mnemonic = "grit uniform want future olympic economy organ artefact able argue lens dinner";

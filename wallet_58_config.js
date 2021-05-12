@@ -1,1 +1,1 @@
-var mnemonic = "giant recall jaguar quiz column just cause rug differ volume room lake";
+var mnemonic = "feature long ramp grace lens sentence system green liberty patient volcano vibrant";

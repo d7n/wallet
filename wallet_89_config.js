@@ -1,1 +1,1 @@
-var mnemonic = "mistake learn pilot worry dirt lumber apology pole faith error execute junk";
+var mnemonic = "life unusual cannon friend lunar woman town escape peace poem sadness danger";

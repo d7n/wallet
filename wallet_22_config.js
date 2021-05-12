@@ -1,1 +1,1 @@
-var mnemonic = "bargain powder hazard shift frost bullet merge field measure oil first large";
+var mnemonic = "brisk hello physical swallow soldier ranch stay initial speed chief explain bomb";

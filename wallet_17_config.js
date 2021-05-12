@@ -1,1 +1,1 @@
-var mnemonic = "disorder kidney plastic fit betray doll staff mandate sweet inject broom maple";
+var mnemonic = "alert bounce walk crush chair super fox nerve marble oven between prevent";

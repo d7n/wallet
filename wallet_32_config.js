@@ -1,1 +1,1 @@
-var mnemonic = "potato strike obey square cherry symbol wave wear valley draw oyster typical";
+var mnemonic = "sick glue clump either write lounge measure excuse powder bag curious clock";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor present short lady mansion toss upon cloth tunnel cruel rain apology";
+var mnemonic = "power among month harvest list salmon angle protect common crazy install chuckle";

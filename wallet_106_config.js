@@ -1,1 +1,1 @@
-var mnemonic = "behave print garden blood gorilla grant ready universe enemy robot setup belt";
+var mnemonic = "plug tool help love wreck annual retreat dice worry water scout pair";

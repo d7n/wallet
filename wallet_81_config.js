@@ -1,1 +1,1 @@
-var mnemonic = "doll empty faculty basic sock draft truck hawk stairs repeat initial frown";
+var mnemonic = "prefer try obtain blood canal finger cargo ticket lunar bid curious news";

@@ -1,1 +1,1 @@
-var mnemonic = "lava torch dawn end dash visual pyramid glory vehicle quantum snow tonight";
+var mnemonic = "dentist artist dizzy usual team term leave clever gift release settle innocent";

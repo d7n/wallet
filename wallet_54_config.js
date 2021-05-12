@@ -1,1 +1,1 @@
-var mnemonic = "lobster exhibit barrel park chat fluid diary curtain solar trick treat seek";
+var mnemonic = "trim sugar solid mango album hurry obscure kidney plastic major beef false";

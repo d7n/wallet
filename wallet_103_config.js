@@ -1,1 +1,1 @@
-var mnemonic = "cruel attract trade few what extra link sand notable earn penalty rug";
+var mnemonic = "public rotate print sing garage exhibit attack return insane report aerobic weekend";

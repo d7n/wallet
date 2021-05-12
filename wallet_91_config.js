@@ -1,1 +1,1 @@
-var mnemonic = "joy absorb harvest resist chase finger truck usual cry coast alcohol tunnel";
+var mnemonic = "shoot disease ski thunder trend maximum snack slogan trip hill anger crime";

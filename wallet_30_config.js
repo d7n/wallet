@@ -1,1 +1,1 @@
-var mnemonic = "cattle amount alien wrap vehicle act volume sick gauge decline round sure";
+var mnemonic = "amount grow powder equip talk fat risk vessel shrimp catalog canyon share";

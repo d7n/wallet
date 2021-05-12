@@ -1,1 +1,1 @@
-var mnemonic = "actual raven myself ignore clarify maid brain release industry deer long kiwi";
+var mnemonic = "swallow ozone matter weekend menu steak ladder end hover elevator digital wine";

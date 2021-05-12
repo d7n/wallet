@@ -1,1 +1,1 @@
-var mnemonic = "hobby abandon wood kiss clinic beauty hire wrestle repeat gossip thunder program";
+var mnemonic = "pumpkin badge rifle elbow unfair ski ready mixed gold stay post warm";

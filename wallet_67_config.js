@@ -1,1 +1,1 @@
-var mnemonic = "detail coil ritual wish post country night brick year angry neither argue";
+var mnemonic = "piano used increase rate beyond old juice mutual suffer wait human lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot simple advance document host wait tragic host stuff suggest rug exist";
+var mnemonic = "case edge wreck taxi load despair wise swift damp mix repair riot";

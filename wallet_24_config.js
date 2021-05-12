@@ -1,1 +1,1 @@
-var mnemonic = "pluck enough assault task bracket alter crop carry exclude pulse oil must";
+var mnemonic = "ranch armor daring piece polar olive rival agent pretty average often awkward";

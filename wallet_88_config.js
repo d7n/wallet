@@ -1,1 +1,1 @@
-var mnemonic = "idle once flavor budget roof chair wreck fiber fit rough hollow famous";
+var mnemonic = "tunnel margin cement wink accuse beyond story photo segment patch cube feature";

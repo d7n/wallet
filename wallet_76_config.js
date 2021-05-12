@@ -1,1 +1,1 @@
-var mnemonic = "swarm police gift forest scorpion gossip act chicken fold feed hurt gain";
+var mnemonic = "enlist umbrella sketch hurry thrive undo ladder gown wrap sand lake focus";

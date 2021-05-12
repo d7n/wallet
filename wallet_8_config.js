@@ -1,1 +1,1 @@
-var mnemonic = "hamster exhibit skate scout swamp tunnel until high engage arrange vehicle sure";
+var mnemonic = "elevator clinic bike solid shallow couch tomato success hat behind obey sword";

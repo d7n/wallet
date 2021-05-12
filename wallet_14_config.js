@@ -1,1 +1,1 @@
-var mnemonic = "bird oak hazard gate collect annual color prize cigar enrich catalog bitter";
+var mnemonic = "easy chest sad firm cigar forest hybrid style immune few glad cushion";

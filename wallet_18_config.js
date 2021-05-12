@@ -1,1 +1,1 @@
-var mnemonic = "upgrade rough harvest oyster ladder boss radio anxiety alone shell salon island";
+var mnemonic = "inherit promote night need grid public kid miss space timber grocery candy";

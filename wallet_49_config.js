@@ -1,1 +1,1 @@
-var mnemonic = "sense vivid crucial mass intact powder reduce auto wing desk hope nasty";
+var mnemonic = "easily picnic mixture wood tent draw boil blast tape unfold artwork soldier";

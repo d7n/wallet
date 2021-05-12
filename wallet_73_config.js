@@ -1,1 +1,1 @@
-var mnemonic = "juice perfect digital already electric firm crisp runway legend penalty midnight dose";
+var mnemonic = "engage source file powder type soldier game color anchor into off poem";

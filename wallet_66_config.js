@@ -1,1 +1,1 @@
-var mnemonic = "inch pole maid observe gentle senior reduce neither confirm account survey session";
+var mnemonic = "room rare typical file brass praise north senior ethics middle detect stool";

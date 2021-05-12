@@ -1,1 +1,1 @@
-var mnemonic = "deposit digital path trial laugh mask loud cross lawsuit tumble winner metal";
+var mnemonic = "exact catch enough then question deposit festival aunt glow grocery spatial cloud";

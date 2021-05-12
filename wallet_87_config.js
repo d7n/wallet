@@ -1,1 +1,1 @@
-var mnemonic = "business legend machine marriage wish infant away erase easy venture year dirt";
+var mnemonic = "salt talent armed narrow stool shy use shallow elephant sign cancel rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "issue exact arch stamp web grab mail piece keen mango figure picture";
+var mnemonic = "soap loyal width exhaust monkey silly life soccer grocery flash dismiss fancy";

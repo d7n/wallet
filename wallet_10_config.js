@@ -1,1 +1,1 @@
-var mnemonic = "transfer kiwi medal claim search list cinnamon anchor intact trouble foil settle";
+var mnemonic = "route bag thought survey differ evolve people party tourist wave rib balance";

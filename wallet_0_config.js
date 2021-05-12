@@ -1,1 +1,1 @@
-var mnemonic = "response other tail cup uniform govern spirit waste acid drastic drill lounge";
+var mnemonic = "edit right early menu shaft custom rain artwork put eager mention video";

@@ -1,1 +1,1 @@
-var mnemonic = "mix oval cost spice bind hello risk young tissue pelican federal alpha";
+var mnemonic = "labor capital present tell raise few rough spell letter between torch cup";

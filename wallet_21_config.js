@@ -1,1 +1,1 @@
-var mnemonic = "unveil tissue antique alcohol spot grain brick decide baby icon hammer number";
+var mnemonic = "divorce seed pink hundred company fitness voice view skull require like gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt sausage recycle draft negative educate satoshi crystal talent receive open old";
+var mnemonic = "speak index smoke defy joy audit vanish pony catch april roast hub";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla hold culture donate link giraffe donkey earth empty board river diesel";
+var mnemonic = "door tunnel wagon royal glory method tomorrow sick pole ill cabin stone";

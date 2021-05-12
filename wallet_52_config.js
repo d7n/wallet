@@ -1,1 +1,1 @@
-var mnemonic = "adjust own genius party race rose swap decorate system hen apple surprise";
+var mnemonic = "era category coach bachelor purpose street bacon antenna abandon urge sustain stay";

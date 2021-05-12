@@ -1,1 +1,1 @@
-var mnemonic = "occur toddler remind delay drop funny detect height shuffle junk bomb velvet";
+var mnemonic = "broccoli gun jaguar category depth they position deny alter lazy about million";

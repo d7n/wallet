@@ -1,1 +1,1 @@
-var mnemonic = "reunion find crazy parent amazing hover ketchup stand fire planet often pill";
+var mnemonic = "jaguar destroy float cluster casino clip side other post leader marine ignore";

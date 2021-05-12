@@ -1,1 +1,1 @@
-var mnemonic = "produce giraffe gentle spice ten quick security erode exit faculty moon follow";
+var mnemonic = "reduce try iron quantum hammer rubber public city sudden true prosper click";

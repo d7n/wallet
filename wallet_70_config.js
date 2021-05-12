@@ -1,1 +1,1 @@
-var mnemonic = "visa alley marine fantasy picnic cute little faint atom nurse eager upper";
+var mnemonic = "burst fee absurd affair trouble satoshi beef mosquito fork verify rely dignity";

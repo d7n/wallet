@@ -1,1 +1,1 @@
-var mnemonic = "dove already ride canvas hurt riot nothing flash desert have vacuum airport";
+var mnemonic = "visual robust logic under proud resource trend cattle deliver goat hurdle thank";

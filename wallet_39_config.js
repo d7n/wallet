@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin daring tonight media add object coin unfair chief type toward state";
+var mnemonic = "parent mutual radio lawn solar tornado bronze fantasy stadium energy rich cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant mammal budget drastic noise expand ozone else display carpet arena mean";
+var mnemonic = "chicken race canal during kid beyond citizen solid result beach lava grunt";

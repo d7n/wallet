@@ -1,1 +1,1 @@
-var mnemonic = "ship soldier sad trust soldier flush toe cereal oxygen decrease ice silly";
+var mnemonic = "start educate punch island junior slim champion potato piano method cement tornado";

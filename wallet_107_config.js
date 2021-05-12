@@ -1,1 +1,1 @@
-var mnemonic = "easy candy bunker pole hurry frost heart dolphin switch club cannon room";
+var mnemonic = "below price pen problem lens thing plate raccoon actor general brother opera";

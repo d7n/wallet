@@ -1,1 +1,1 @@
-var mnemonic = "wife wreck tissue photo real jelly maze gesture flower merit tone provide";
+var mnemonic = "case used relief stick south spike soap festival electric ribbon gas cloud";

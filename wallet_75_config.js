@@ -1,1 +1,1 @@
-var mnemonic = "notice spread quote style response orchard vital muffin eagle pudding view voyage";
+var mnemonic = "broken sketch mosquito trumpet veteran donor icon slice collect keep casual category";

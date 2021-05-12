@@ -1,1 +1,1 @@
-var mnemonic = "enact zoo claw spray climb rubber betray style better mystery woman fatigue";
+var mnemonic = "innocent sadness chronic key chief destroy jump warrior inform power monkey draft";

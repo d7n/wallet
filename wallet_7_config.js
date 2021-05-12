@@ -1,1 +1,1 @@
-var mnemonic = "cattle smoke cherry knife address clean radio flip stomach silly science kit";
+var mnemonic = "remind board small quiz split mimic load weekend reopen muscle load spoon";

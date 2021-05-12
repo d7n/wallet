@@ -1,1 +1,1 @@
-var mnemonic = "predict truth oak paddle borrow marble pond fog enact knee purity spring";
+var mnemonic = "fruit evolve bean lounge victory seed claw sketch fringe ancient tilt physical";

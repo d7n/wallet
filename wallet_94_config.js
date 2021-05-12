@@ -1,1 +1,1 @@
-var mnemonic = "gallery quote believe pattern welcome concert climb bring jealous universe time connect";
+var mnemonic = "rescue project train success roof rain resemble equip pull scare pudding tent";

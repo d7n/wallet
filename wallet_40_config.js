@@ -1,1 +1,1 @@
-var mnemonic = "bonus verify cloth baby giraffe around stable country opera club lonely shrug";
+var mnemonic = "kiss luggage bleak happy album butter pupil garage brown empty luxury fame";

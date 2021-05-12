@@ -1,1 +1,1 @@
-var mnemonic = "deal chase clog install farm blush lounge ladder spin creek length echo";
+var mnemonic = "sausage verb mixture reject mean alpha space coach fade thank wrist arm";

@@ -1,1 +1,1 @@
-var mnemonic = "bird real night armed amazing hard art tissue shock party depart topple";
+var mnemonic = "embark sample diary auction wrong spray emotion seminar juice busy earn setup";

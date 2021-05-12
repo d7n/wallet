@@ -1,1 +1,1 @@
-var mnemonic = "couch friend squirrel prison machine hill dose seed year envelope need laptop";
+var mnemonic = "cotton hammer brave process radio wood result oval carpet employ grief broken";

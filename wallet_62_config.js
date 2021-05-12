@@ -1,1 +1,1 @@
-var mnemonic = "raise ethics pulp approve lemon clinic sort all royal virtual elite leopard";
+var mnemonic = "silk hidden spend depart upgrade mixed ugly fork assume prefer elephant discover";

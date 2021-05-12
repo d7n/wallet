@@ -1,1 +1,1 @@
-var mnemonic = "summer vast style wage useful bracket truly husband culture stock rebuild grant";
+var mnemonic = "found tool crack frame smoke brick calm glass crunch soul habit ladder";

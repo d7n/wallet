@@ -1,1 +1,1 @@
-var mnemonic = "bless asset twenty method void calm dad ready exchange fashion claim diary";
+var mnemonic = "dress convince lend boil obtain three orchard access deputy pattern fancy road";

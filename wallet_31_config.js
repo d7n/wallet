@@ -1,1 +1,1 @@
-var mnemonic = "summer omit found age chair produce rigid pulse spoon trip latin income";
+var mnemonic = "play gift avocado gorilla about reopen need more state small teach behave";

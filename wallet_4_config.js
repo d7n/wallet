@@ -1,1 +1,1 @@
-var mnemonic = "sentence sponsor stock nasty scissors sure network claw gap proof inspire warfare";
+var mnemonic = "gym brass vanish pulse betray stuff mouse core emotion excuse symbol exchange";

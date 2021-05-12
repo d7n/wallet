@@ -1,1 +1,1 @@
-var mnemonic = "mouse spy pause fortune divert ginger local peace expect mandate ladder virus";
+var mnemonic = "slender enact fortune tide crucial potato hotel idle scissors shield stadium scan";

@@ -1,1 +1,1 @@
-var mnemonic = "suit whisper settle resist mixture age yellow cart arena twist festival resource";
+var mnemonic = "crime man asthma grant advance mean secret cattle forget desert length tape";

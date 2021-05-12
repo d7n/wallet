@@ -1,1 +1,1 @@
-var mnemonic = "hunt very indicate bag bargain sauce learn transfer plunge tuna verify trick";
+var mnemonic = "wall unhappy wolf address pledge photo guitar slot bird dial license service";

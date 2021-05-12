@@ -1,1 +1,1 @@
-var mnemonic = "future upon absent giraffe fiber tenant gentle kiwi appear erase bring dog";
+var mnemonic = "token result mix book legend bunker empty avocado trust follow humor steak";

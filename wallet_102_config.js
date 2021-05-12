@@ -1,1 +1,1 @@
-var mnemonic = "rhythm captain object churn lawsuit pony rigid urge leave divide pill talent";
+var mnemonic = "novel beyond about ripple turkey agree lion awful cart shove inquiry bring";

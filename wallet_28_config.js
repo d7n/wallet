@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cannon fatigue tongue punch popular nature banner salon topple good ramp";
+var mnemonic = "enlist quit seat result scatter surprise parade industry dad follow monitor stuff";

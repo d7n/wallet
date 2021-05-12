@@ -1,1 +1,1 @@
-var mnemonic = "give cute replace churn match left neither modify little reunion stage design";
+var mnemonic = "fashion intact stable wise master remember melt warrior hope destroy essay cement";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin dose leader stairs topic exile save oppose conduct right body demise";
+var mnemonic = "swift mosquito maximum pelican rich people express before scrub zoo skill apart";

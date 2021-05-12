@@ -1,1 +1,1 @@
-var mnemonic = "ball host defense aerobic comfort bottom obtain walk top twelve citizen tent";
+var mnemonic = "legal inside leaf broken van orbit junior catch eager pen join worry";

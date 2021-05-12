@@ -1,1 +1,1 @@
-var mnemonic = "horror core apart choose fine picnic wise zero glare check divide pioneer";
+var mnemonic = "merit door pupil spatial grief hurt eagle call impact ordinary what approve";

@@ -1,1 +1,1 @@
-var mnemonic = "type fiscal initial noble sea confirm gesture tube length sketch clown slam";
+var mnemonic = "park amazing eternal use convince voyage treat lyrics goat venue certain useless";

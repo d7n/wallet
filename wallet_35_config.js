@@ -1,1 +1,1 @@
-var mnemonic = "joy slim lawsuit tank security grid pear feed betray ancient tail code";
+var mnemonic = "december rally grape puppy post walnut nest occur ensure leaf forum valley";

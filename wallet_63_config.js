@@ -1,1 +1,1 @@
-var mnemonic = "volcano park modify result core already leader ignore genre harsh food tonight";
+var mnemonic = "trigger public tail twin dynamic visual only talk crunch alpha still coach";

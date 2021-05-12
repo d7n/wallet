@@ -1,1 +1,1 @@
-var mnemonic = "gadget walk merit donate live giraffe blur spend open sample injury human";
+var mnemonic = "vacant submit hazard squirrel planet regular modify piece love fine parade very";

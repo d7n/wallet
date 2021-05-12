@@ -1,1 +1,1 @@
-var mnemonic = "fence swallow crop catch spice gallery trophy simple feel future true logic";
+var mnemonic = "winter upset margin impose asthma ice regret win royal guitar minimum pretty";

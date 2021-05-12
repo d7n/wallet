@@ -1,1 +1,1 @@
-var mnemonic = "few latin dose tail like together above sign choose tool panther clay";
+var mnemonic = "friend ceiling fade maid now curtain twice credit acoustic jeans vacant earn";

@@ -1,1 +1,1 @@
-var mnemonic = "world shift candy animal panel tuition scene elite warrior gesture wrist hood";
+var mnemonic = "slam axis cave salute swap core reveal laugh monster elbow hamster winner";

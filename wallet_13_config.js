@@ -1,1 +1,1 @@
-var mnemonic = "seek play giraffe casino key sunny welcome cake inquiry truck sing bomb";
+var mnemonic = "total decide engine rebuild tape upgrade drive position butter loop ten file";

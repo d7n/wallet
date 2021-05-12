@@ -1,1 +1,1 @@
-var mnemonic = "crawl hedgehog embark air remind unable symbol sand ugly general wing tuition";
+var mnemonic = "crush exact nation remember eagle grid define magnet abandon faint else slush";

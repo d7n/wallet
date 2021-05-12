@@ -1,1 +1,1 @@
-var mnemonic = "music ball pumpkin patch follow demand bottom table profit transfer two where";
+var mnemonic = "dentist thank lawsuit cake object decline pair fence deliver vanish version lemon";
