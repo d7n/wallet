@@ -1,1 +1,1 @@
-var mnemonic = "genius delay salon lazy primary soon give patient menu agree lake talent";
+var mnemonic = "mix visa nose human hand price farm radar fuel forest erosion law";

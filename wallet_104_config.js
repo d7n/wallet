@@ -1,1 +1,1 @@
-var mnemonic = "green viable chaos enough pistol hip layer domain actor weapon bean stomach";
+var mnemonic = "salon town future medal method sting flash approve master plug scene bring";

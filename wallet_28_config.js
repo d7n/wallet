@@ -1,1 +1,1 @@
-var mnemonic = "remain soldier cigar access soccer call modify aisle behind pepper come flower";
+var mnemonic = "clip predict text raise worth news connect any raccoon quarter detail alien";

@@ -1,1 +1,1 @@
-var mnemonic = "surface error sure amateur axis timber lion injury essence soul cactus mad";
+var mnemonic = "hungry concert summer carpet steak pig leader unusual lawsuit grant oyster buyer";

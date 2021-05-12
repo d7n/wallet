@@ -1,1 +1,1 @@
-var mnemonic = "panda wish person slogan art bargain range hire sentence rifle drill myth";
+var mnemonic = "industry wild hundred test fragile rice work bomb tip bulk december team";

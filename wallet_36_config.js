@@ -1,1 +1,1 @@
-var mnemonic = "bonus bomb mutual soldier extra mad address require empty biology various teach";
+var mnemonic = "escape air liar bread regular arrange funny differ lounge judge vivid vessel";

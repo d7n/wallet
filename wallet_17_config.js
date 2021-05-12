@@ -1,1 +1,1 @@
-var mnemonic = "oval month insect charge kind shop word penalty rookie follow gift hurdle";
+var mnemonic = "wide imitate click pilot walnut repeat stand grow suspect junk cabin fancy";

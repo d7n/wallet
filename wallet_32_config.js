@@ -1,1 +1,1 @@
-var mnemonic = "report derive seven add cherry pattern smoke purse skull pepper time mad";
+var mnemonic = "rack little abstract flight what noodle box noodle achieve adjust orphan shed";

@@ -1,1 +1,1 @@
-var mnemonic = "earn violin ready bean asset pave suffer boy beauty purpose roast will";
+var mnemonic = "defy brass tooth clinic loud rescue heavy vital believe occur book slogan";

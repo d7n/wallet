@@ -1,1 +1,1 @@
-var mnemonic = "miss place congress merge phone bamboo you resource weather flavor forum capital";
+var mnemonic = "bracket split dutch burger rebuild dog better skull abstract spell stone east";

@@ -1,1 +1,1 @@
-var mnemonic = "setup juice tribe castle that impulse theory jelly fabric empower update grab";
+var mnemonic = "obey major chest arrive message fork excite bleak lemon oval bright road";

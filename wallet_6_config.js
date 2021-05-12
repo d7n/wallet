@@ -1,1 +1,1 @@
-var mnemonic = "harsh skull best frost feed juice salon vacuum used upset mean tag";
+var mnemonic = "pole super hunt cotton green inform link floor beach squirrel dragon humor";

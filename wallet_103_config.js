@@ -1,1 +1,1 @@
-var mnemonic = "better hair lucky squeeze sheriff crew tumble slide chuckle wrong cattle column";
+var mnemonic = "dose muffin wreck keep ritual idea snow kingdom luxury behind journey enroll";

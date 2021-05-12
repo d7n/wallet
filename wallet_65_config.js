@@ -1,1 +1,1 @@
-var mnemonic = "diary tone reveal melt depend outer brain write powder picnic wear blast";
+var mnemonic = "develop pave spy equip famous brisk click unhappy between dignity buzz note";

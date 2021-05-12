@@ -1,1 +1,1 @@
-var mnemonic = "effort animal envelope figure repair humor aware alley moon collect pizza soda";
+var mnemonic = "skull balcony guilt tree atom armor bind they music muscle refuse canal";

@@ -1,1 +1,1 @@
-var mnemonic = "parent dawn neck tell seminar pool undo miracle predict sibling shove quality";
+var mnemonic = "tool boy mechanic kick step pelican prevent run absurd gain dynamic chalk";

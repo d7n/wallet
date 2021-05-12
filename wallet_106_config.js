@@ -1,1 +1,1 @@
-var mnemonic = "deputy mask ice lecture reason ribbon catch helmet cotton message wear adapt";
+var mnemonic = "narrow occur sing bachelor unveil add cycle casino defense example athlete catalog";

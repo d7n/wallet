@@ -1,1 +1,1 @@
-var mnemonic = "cricket boil rookie glare fork clock amazing employ believe angle broccoli roast";
+var mnemonic = "observe cushion amateur online decrease panda inject earn journey rough daughter antique";

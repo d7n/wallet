@@ -1,1 +1,1 @@
-var mnemonic = "salute ugly beyond gauge palace rate despair main hurry magic traffic hair";
+var mnemonic = "summer escape impose arrive promote mango decline length gain already rice zero";

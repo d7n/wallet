@@ -1,1 +1,1 @@
-var mnemonic = "carbon stove sort gorilla tooth nation stem visual when blouse direct tray";
+var mnemonic = "hint friend ginger picnic book vague just impact gas ripple rail next";

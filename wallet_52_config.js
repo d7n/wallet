@@ -1,1 +1,1 @@
-var mnemonic = "useless blouse enlist mystery chaos enough fame imitate foot portion rail near";
+var mnemonic = "treat scatter tonight april lamp spice siren stamp kitten elevator crystal science";

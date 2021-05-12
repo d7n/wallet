@@ -1,1 +1,1 @@
-var mnemonic = "cave track notable abuse afraid abandon intact addict cradle woman patrol finger";
+var mnemonic = "wet tourist horn rent thunder witness exchange evoke chunk crucial sound juice";

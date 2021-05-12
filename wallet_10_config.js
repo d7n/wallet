@@ -1,1 +1,1 @@
-var mnemonic = "island diamond abuse puzzle debate meat away shell you pistol park shrug";
+var mnemonic = "glimpse muscle roast caution impose foam used away worry royal large account";

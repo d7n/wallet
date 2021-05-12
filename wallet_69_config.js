@@ -1,1 +1,1 @@
-var mnemonic = "interest million domain fold fitness drive noodle arm bench holiday ability knee";
+var mnemonic = "foil antique differ gasp conduct employ sting hamster property federal put tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "trust still cluster galaxy lyrics place whale forget common unusual medal chef";
+var mnemonic = "nerve anchor athlete drop winter tag unlock intact myth uncover bless census";

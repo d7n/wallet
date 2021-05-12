@@ -1,1 +1,1 @@
-var mnemonic = "initial agree gold spatial fork allow enlist stumble horse toast round ribbon";
+var mnemonic = "sustain coach office tomorrow inch online sock pudding anxiety blast gift movie";

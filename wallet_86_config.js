@@ -1,1 +1,1 @@
-var mnemonic = "goose lady better that wrist quick burst net cross slow simple equal";
+var mnemonic = "put endless gallery absent shiver dignity travel surface exhibit panel donkey glass";

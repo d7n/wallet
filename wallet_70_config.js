@@ -1,1 +1,1 @@
-var mnemonic = "security kind other width topic multiply equip agree host whale possible just";
+var mnemonic = "pill slogan civil oil travel glimpse stone penalty nothing ready rail tent";

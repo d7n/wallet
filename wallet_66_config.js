@@ -1,1 +1,1 @@
-var mnemonic = "type slide time require despair maximum impact rough drop similar sausage estate";
+var mnemonic = "sorry mixed dove change hour heavy warrior item addict run aerobic bind";

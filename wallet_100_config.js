@@ -1,1 +1,1 @@
-var mnemonic = "cost ignore seek cry depart force report soul eight chimney oxygen cart";
+var mnemonic = "tortoise cruel erase depth reveal index corn one grief worry shadow sample";

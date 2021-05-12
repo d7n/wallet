@@ -1,1 +1,1 @@
-var mnemonic = "obtain nature lyrics eager laundry wrist double gown puzzle since thunder math";
+var mnemonic = "audit balance twenty nephew fence melody mention lab mother route runway return";

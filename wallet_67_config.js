@@ -1,1 +1,1 @@
-var mnemonic = "three casino pumpkin retreat stuff material man whip until pumpkin bitter include";
+var mnemonic = "action city beef draw manage carbon avoid swim spend country cry picnic";

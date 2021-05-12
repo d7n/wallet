@@ -1,1 +1,1 @@
-var mnemonic = "welcome program style fork bottom now august piece gentle find prepare notice";
+var mnemonic = "talent wing prison final pair pride dice quarter shallow convince lunch blast";

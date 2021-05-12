@@ -1,1 +1,1 @@
-var mnemonic = "vibrant flip clap harbor person island pact stay raven bag arctic swift";
+var mnemonic = "soda adapt clerk retreat lawn creek oven illness avoid youth soul august";

@@ -1,1 +1,1 @@
-var mnemonic = "onion short auto convince tortoise hamster distance crowd timber dragon ozone original";
+var mnemonic = "shoe must manual kiwi fatigue major absent moral across tone dog vacuum";

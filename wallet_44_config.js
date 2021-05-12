@@ -1,1 +1,1 @@
-var mnemonic = "stand float attract bronze chat east blanket pear measure priority this black";
+var mnemonic = "document beef spot student letter warm carbon list valve raise trick unfair";

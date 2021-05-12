@@ -1,1 +1,1 @@
-var mnemonic = "pulse advance warm goat anchor jump finish loan light invest fall case";
+var mnemonic = "extend open frame color stadium angle fiscal tribe utility resource length puzzle";

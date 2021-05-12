@@ -1,1 +1,1 @@
-var mnemonic = "ensure purse tide farm license casino estate toy uniform odor certain blanket";
+var mnemonic = "spot cereal conduct horn dance denial again hollow impulse require primary witness";

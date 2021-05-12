@@ -1,1 +1,1 @@
-var mnemonic = "borrow goat add pizza vendor reform hood voyage judge pudding credit verb";
+var mnemonic = "afford similar public grow coil nature shy help pistol add envelope excess";

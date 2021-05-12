@@ -1,1 +1,1 @@
-var mnemonic = "stay media receive memory athlete weasel mixed boil uncle chunk clog trust";
+var mnemonic = "poverty country potato dolphin laptop gospel crucial hazard vacant puppy oil maple";

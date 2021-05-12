@@ -1,1 +1,1 @@
-var mnemonic = "route ill brother hill fat girl core essence chronic winner wolf stuff";
+var mnemonic = "tragic result select distance pear evidence provide manage gloom vault milk judge";

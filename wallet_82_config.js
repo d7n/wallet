@@ -1,1 +1,1 @@
-var mnemonic = "fan useless point rapid expire govern patch away dice parent expect produce";
+var mnemonic = "join kit glory easy salt video kick tag news pen dial rail";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin inside quick legal orphan art hamster detail page casino bright century";
+var mnemonic = "powder walk depend capable ethics demise north sound river crazy zebra primary";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore fiction farm stand govern apple cigar guard vintage vacuum suggest decorate";
+var mnemonic = "swap reward plastic area toddler inherit empower charge awake spirit exist climb";

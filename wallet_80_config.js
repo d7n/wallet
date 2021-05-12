@@ -1,1 +1,1 @@
-var mnemonic = "buffalo annual cream one absent knife stamp ship arctic metal wink fall";
+var mnemonic = "just tortoise proof benefit planet swing humble swarm demise lens advance brush";

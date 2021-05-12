@@ -1,1 +1,1 @@
-var mnemonic = "advice arrest draft follow now very pioneer bid horn physical boat garbage";
+var mnemonic = "general until fly sugar spike frequent about fun canyon one spend motion";

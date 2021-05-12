@@ -1,1 +1,1 @@
-var mnemonic = "final dizzy vacuum sick couple venture follow limit afford real spice oval";
+var mnemonic = "laptop chat hundred bench rookie sadness inside lunch destroy walk barely push";

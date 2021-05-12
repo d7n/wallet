@@ -1,1 +1,1 @@
-var mnemonic = "brown staff couch finish about sense chronic evolve scan nasty power shock";
+var mnemonic = "person food dance online pen narrow follow scale whisper rabbit renew reject";

@@ -1,1 +1,1 @@
-var mnemonic = "afford rose portion drink pluck sleep tent imitate river pride ethics castle";
+var mnemonic = "stumble normal trick cupboard people together buddy brown various ring recall lift";

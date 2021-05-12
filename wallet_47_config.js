@@ -1,1 +1,1 @@
-var mnemonic = "congress anger hello fantasy pen double cigar common unhappy rely term urban";
+var mnemonic = "casual inflict basic input drip moment left organ wing panther tool axis";

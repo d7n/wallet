@@ -1,1 +1,1 @@
-var mnemonic = "age color shrimp siege stadium hedgehog wash head nuclear purity sadness shove";
+var mnemonic = "usage cover enroll scene key burst remember mansion grief beach tide meadow";

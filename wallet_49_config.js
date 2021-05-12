@@ -1,1 +1,1 @@
-var mnemonic = "split indicate diary audit desert bring misery cement skull want pave lemon";
+var mnemonic = "eternal squirrel infant frame stay upset bird town afford column loan decide";

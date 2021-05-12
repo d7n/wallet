@@ -1,1 +1,1 @@
-var mnemonic = "bacon version soup victory soda actual cinnamon catch parent door garage hobby";
+var mnemonic = "intact mountain awesome detect frown exist decide ecology lift hold page song";

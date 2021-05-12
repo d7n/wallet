@@ -1,1 +1,1 @@
-var mnemonic = "favorite churn spoil mimic unknown dog quarter sword afraid drip work swim";
+var mnemonic = "wood call knife ability spray matrix neither crush make brother undo happy";

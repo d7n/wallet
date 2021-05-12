@@ -1,1 +1,1 @@
-var mnemonic = "hip clay hammer leisure april rocket embrace half pill knock coconut hip";
+var mnemonic = "beach zone finish panic ignore subject next fetch canoe bacon february motor";

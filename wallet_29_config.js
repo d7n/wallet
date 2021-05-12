@@ -1,1 +1,1 @@
-var mnemonic = "reward because measure planet normal cattle crowd day online either peanut firm";
+var mnemonic = "also hip version among erupt bacon weird finger voyage turn giraffe leopard";

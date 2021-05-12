@@ -1,1 +1,1 @@
-var mnemonic = "history fat kite page situate salon fly cheese cradle fork vapor toward";
+var mnemonic = "unfold party forest grace rebel bacon put practice hour oil inject art";

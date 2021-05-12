@@ -1,1 +1,1 @@
-var mnemonic = "gallery donate guitar trigger knock baby struggle deny blind crisp dash biology";
+var mnemonic = "abandon laptop allow oven video slender control midnight furnace celery rubber horn";

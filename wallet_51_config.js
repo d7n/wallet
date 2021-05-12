@@ -1,1 +1,1 @@
-var mnemonic = "drop current nerve almost switch bomb idle title turkey wrong mule barely";
+var mnemonic = "city cereal fuel admit run nest arctic deliver solar panic drive kiwi";

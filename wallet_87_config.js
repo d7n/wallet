@@ -1,1 +1,1 @@
-var mnemonic = "arrive diagram will beauty laptop laundry rose always slush since burden gun";
+var mnemonic = "warfare hub intact never over powder sport top jelly weather dentist actual";

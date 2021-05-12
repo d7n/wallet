@@ -1,1 +1,1 @@
-var mnemonic = "endorse much liar paper example glow robust burger sketch bottom observe unable";
+var mnemonic = "staff elegant fish crack forget frame resist switch shallow tragic desk coyote";

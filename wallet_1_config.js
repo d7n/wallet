@@ -1,1 +1,1 @@
-var mnemonic = "thing clown wash knife light voyage fresh upper eagle repeat wheat flavor";
+var mnemonic = "decide hour asset dog fitness essay bright detail parade stand jealous where";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture leg pool hire warm cancel debris tired soup link open wish";
+var mnemonic = "faculty carpet post moment seven obscure rubber estate item muffin clerk coconut";

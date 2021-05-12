@@ -1,1 +1,1 @@
-var mnemonic = "belt burger suspect swamp ride frozen wood razor harsh wing asthma easily";
+var mnemonic = "coil puppy ribbon enrich ahead shield monster live urban margin bring record";

@@ -1,1 +1,1 @@
-var mnemonic = "forget acoustic scout shoot again shield devote photo jaguar few major public";
+var mnemonic = "benefit purchase uncle exchange spatial kangaroo flip capable lyrics shine scissors usage";

@@ -1,1 +1,1 @@
-var mnemonic = "demand boil eyebrow mask poem moment sign eight voice blouse spoon devote";
+var mnemonic = "bachelor proud joke dilemma youth worry cycle century hand pulp mandate winter";

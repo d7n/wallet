@@ -1,1 +1,1 @@
-var mnemonic = "pyramid idea abuse innocent borrow spend harvest awkward island section odor erosion";
+var mnemonic = "ghost recall material napkin resist shell fly version throw festival theme mention";

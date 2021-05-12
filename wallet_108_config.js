@@ -1,1 +1,1 @@
-var mnemonic = "alley always vacuum fox mom fragile gown speak debate smart urge senior";
+var mnemonic = "uniform occur better vital walk dawn jar aware void approve toward bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "drive involve control blue ill dove minor video elite stay galaxy goose";
+var mnemonic = "dress tongue accident addict mansion arrange virus fatigue valid kit artwork slice";

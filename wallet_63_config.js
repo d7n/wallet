@@ -1,1 +1,1 @@
-var mnemonic = "weapon math quality survey relief stable toast palace discover faint else alone";
+var mnemonic = "fetch bundle battle glad social maple fog weasel wreck project major alter";

@@ -1,1 +1,1 @@
-var mnemonic = "base merry cloud float burst legend display elite amateur forest merge march";
+var mnemonic = "sudden chapter shallow pink reform body crystal inspire steel sure airport horror";

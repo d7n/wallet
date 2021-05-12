@@ -1,1 +1,1 @@
-var mnemonic = "aspect glove decline weird stomach bleak soup off giggle horn blur large";
+var mnemonic = "term universe gain liar book notable easy decide news dinner learn uphold";

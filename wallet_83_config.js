@@ -1,1 +1,1 @@
-var mnemonic = "body crucial amateur cheap crucial circle crisp solid table core retreat spend";
+var mnemonic = "smart coast bench huge dirt ask chief door bunker can setup elevator";

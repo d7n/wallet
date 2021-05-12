@@ -1,1 +1,1 @@
-var mnemonic = "narrow entire riot decade basic enforce word rich forward blur cry reform";
+var mnemonic = "cactus hat barrel forget urge siege special bamboo skate violin hen dirt";

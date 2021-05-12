@@ -1,1 +1,1 @@
-var mnemonic = "soon capital element offer bronze short pluck much nut unfair use material";
+var mnemonic = "sense ritual clip meadow weapon idle uncover alpha worth glove neglect announce";

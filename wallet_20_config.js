@@ -1,1 +1,1 @@
-var mnemonic = "seven either cliff peace dad regular celery happy weekend tuition power pen";
+var mnemonic = "square under gym bracket where ritual dinosaur festival assume cat embody belt";

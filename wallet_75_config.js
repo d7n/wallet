@@ -1,1 +1,1 @@
-var mnemonic = "melody primary talent prosper state ordinary latin hawk alien glory health whip";
+var mnemonic = "remove payment logic mix hospital pipe aim network orchard novel coil piece";

@@ -1,1 +1,1 @@
-var mnemonic = "minor satisfy excuse sock build raw card hover athlete cause upper abstract";
+var mnemonic = "arrow recycle edge wise obvious maid mom wise job anchor tip define";

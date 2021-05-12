@@ -1,1 +1,1 @@
-var mnemonic = "index vacant fury exile naive dish scout holiday ramp crop mix small";
+var mnemonic = "trim shell horn nasty double arctic return race enlist crouch engage olympic";

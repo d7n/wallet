@@ -1,1 +1,1 @@
-var mnemonic = "almost another pyramid crime light clever olive debate lucky stage transfer enact";
+var mnemonic = "meadow sketch shiver easy project view kingdom path dolphin vocal custom ride";

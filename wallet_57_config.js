@@ -1,1 +1,1 @@
-var mnemonic = "imitate damp hungry crane finger caution bind fossil mercy identify anchor sauce";
+var mnemonic = "marble energy thumb useful keep special increase receive century romance need inspire";

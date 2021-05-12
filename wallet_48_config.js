@@ -1,1 +1,1 @@
-var mnemonic = "ancient grocery bounce romance merry fresh leave damp milk juice cousin joke";
+var mnemonic = "little violin copy summer veteran acid carbon morning scene ice dwarf wire";

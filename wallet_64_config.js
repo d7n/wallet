@@ -1,1 +1,1 @@
-var mnemonic = "sorry ostrich citizen turkey ahead eagle busy magnet vivid hen sea fan";
+var mnemonic = "open mistake lamp conduct hobby civil auction galaxy spin ancient sun grain";

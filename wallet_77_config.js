@@ -1,1 +1,1 @@
-var mnemonic = "goddess weapon sword library pass forum dwarf fat glow tortoise tomorrow diamond";
+var mnemonic = "seek hip whale annual price special talent provide follow pelican staff reflect";

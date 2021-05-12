@@ -1,1 +1,1 @@
-var mnemonic = "embrace describe museum taxi settle girl increase garment inner student grid embrace";
+var mnemonic = "skin profit fury slice high hill blue unable sell rice quick stock";

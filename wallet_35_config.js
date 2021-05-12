@@ -1,1 +1,1 @@
-var mnemonic = "volume question dash congress artefact gauge cash sword purchase grit roof ignore";
+var mnemonic = "mobile vendor web upset impulse slice attend client eagle jeans lemon picnic";

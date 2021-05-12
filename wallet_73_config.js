@@ -1,1 +1,1 @@
-var mnemonic = "tape ginger awful balance settle beyond train relax knife table tank surprise";
+var mnemonic = "gravity basic crawl diesel debris rough manage dose nuclear vibrant artwork giraffe";

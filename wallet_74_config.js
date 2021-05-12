@@ -1,1 +1,1 @@
-var mnemonic = "step weather clay mistake beyond toward strategy stable undo repeat powder never";
+var mnemonic = "liberty smart supply lava crime cattle ten essay casino armor skin gun";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic okay fresh female bottom twelve metal shrug later jacket deny garment";
+var mnemonic = "hedgehog knee stone impact raise manual broken cannon flight kite awful destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin collect suggest strike deliver usage attitude public clarify bamboo horror hill";
+var mnemonic = "soccer youth quality device ostrich token exile stool peanut dinosaur divide topic";
