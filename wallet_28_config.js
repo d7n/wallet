@@ -1,1 +1,1 @@
-var mnemonic = "inquiry banana choose amount license viable aware wear flash illegal man submit";
+var mnemonic = "milk attract hunt tray opera cruise drip stock renew dress two pigeon";

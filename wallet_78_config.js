@@ -1,1 +1,1 @@
-var mnemonic = "midnight multiply problem entry fit state erupt panda tell kingdom hospital field";
+var mnemonic = "ski burden giant page verb blast kite surround waste belt false omit";

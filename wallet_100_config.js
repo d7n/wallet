@@ -1,1 +1,1 @@
-var mnemonic = "stairs cook pond expect wedding ill cost mobile make rent stage doll";
+var mnemonic = "apple quarter dish tag trigger decide impose word divide skin duck indoor";

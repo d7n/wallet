@@ -1,1 +1,1 @@
-var mnemonic = "upper edit foster escape clinic sad private kidney flame protect lumber toward";
+var mnemonic = "dinosaur floor design mask ordinary okay swing fade illness aisle day still";

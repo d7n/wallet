@@ -1,1 +1,1 @@
-var mnemonic = "soup narrow bachelor detect limit dirt pave pioneer work joke member arrange";
+var mnemonic = "property roast sadness exhaust recipe capable harvest cross fall detail shy pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace evolve choose brain resemble crucial raccoon marriage crucial valley history venue";
+var mnemonic = "burden play leave trust eye pact waste cliff doctor hero easy atom";

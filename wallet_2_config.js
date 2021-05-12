@@ -1,1 +1,1 @@
-var mnemonic = "expire immune rescue image slush museum music destroy elevator clump huge museum";
+var mnemonic = "yard pair volcano reason property gym duty love divorce able advance trend";

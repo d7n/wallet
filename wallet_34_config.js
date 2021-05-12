@@ -1,1 +1,1 @@
-var mnemonic = "expose fiction glory lava glad feel chief subway chicken bunker person gospel";
+var mnemonic = "hockey soon grace kick cruise since enough decline birth loud drum wolf";

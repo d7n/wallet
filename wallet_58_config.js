@@ -1,1 +1,1 @@
-var mnemonic = "praise evolve code day hospital usage squirrel mean treat urban finger ranch";
+var mnemonic = "try feature arrest practice future trust action wall perfect mean easy write";

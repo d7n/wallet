@@ -1,1 +1,1 @@
-var mnemonic = "act culture dutch angle sketch flock danger vast carry energy kingdom yard";
+var mnemonic = "chair fiscal song roof acid detail festival grit special stumble erosion eagle";

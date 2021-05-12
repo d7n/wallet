@@ -1,1 +1,1 @@
-var mnemonic = "settle scheme glide patient address gadget video slice visa suffer dish wagon";
+var mnemonic = "answer mixture spoil artwork stamp quality palace mixed limb bounce industry squirrel";

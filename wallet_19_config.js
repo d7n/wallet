@@ -1,1 +1,1 @@
-var mnemonic = "arm dash hamster bamboo amount best sausage expect lab left broken snack";
+var mnemonic = "repeat chicken color camp horror glory awesome fiber play census reward knee";

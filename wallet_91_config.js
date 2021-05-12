@@ -1,1 +1,1 @@
-var mnemonic = "prosper illegal sample athlete robot drink treat flat transfer innocent guard health";
+var mnemonic = "motion scene below reason warfare acquire recipe arctic tube annual organ chunk";

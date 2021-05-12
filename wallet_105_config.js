@@ -1,1 +1,1 @@
-var mnemonic = "coffee card flight earn regret add steak drive reunion lawsuit steel strategy";
+var mnemonic = "senior mom face menu town cave vivid reward want ethics rural joy";

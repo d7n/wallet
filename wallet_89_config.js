@@ -1,1 +1,1 @@
-var mnemonic = "ceiling shrug fault notice leopard cereal leave radio oven horse concert bone";
+var mnemonic = "zone noise okay nation long gadget wisdom hotel acoustic burden aunt popular";

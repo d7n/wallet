@@ -1,1 +1,1 @@
-var mnemonic = "rather demand decide fiscal galaxy finger paper pelican obvious try service duty";
+var mnemonic = "public pistol push silly oppose hint side belt prefer rigid mention jungle";

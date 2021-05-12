@@ -1,1 +1,1 @@
-var mnemonic = "rule engine bench goat radio flame brief eight bench speak super comfort";
+var mnemonic = "plate link creek struggle quality hip vacant remove panda neck rigid urge";

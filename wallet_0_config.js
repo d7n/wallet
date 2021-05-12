@@ -1,1 +1,1 @@
-var mnemonic = "portion submit amount hub tree box badge actress check eagle gravity squirrel";
+var mnemonic = "clarify try october muffin type hurry hand elite almost brush sing sister";

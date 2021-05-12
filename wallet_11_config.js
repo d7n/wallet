@@ -1,1 +1,1 @@
-var mnemonic = "fault coin iron private glove relax kiss allow volcano deny female frozen";
+var mnemonic = "flag tone trouble aerobic soda dawn marine object awesome affair brother priority";

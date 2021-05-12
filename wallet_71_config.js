@@ -1,1 +1,1 @@
-var mnemonic = "roof picnic start human enlist brave scheme device eight boost brick suffer";
+var mnemonic = "author lucky supply voice repeat only virtual damp sense ring length reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "resist horror captain vacant brass symbol viable canyon violin fringe evolve either";
+var mnemonic = "adapt valve luggage require december obscure resist skill test scatter faith pulse";

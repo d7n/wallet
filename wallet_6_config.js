@@ -1,1 +1,1 @@
-var mnemonic = "bless rubber maximum setup confirm build advice drift fun trick royal offer";
+var mnemonic = "organ art anger town island weapon angry asset copper measure congress error";

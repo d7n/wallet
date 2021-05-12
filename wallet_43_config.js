@@ -1,1 +1,1 @@
-var mnemonic = "start drama impact chaos card drive filter blouse fix denial butter mesh";
+var mnemonic = "steak salmon change virtual mesh unique fire three review chapter mail inspire";

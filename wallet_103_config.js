@@ -1,1 +1,1 @@
-var mnemonic = "style asthma shrimp vendor clinic melt senior perfect dragon anxiety useless nut";
+var mnemonic = "case merit idle surprise target humble suffer mobile jaguar future example grant";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise quality clinic vintage coconut tuna expire tribe machine tuna rely firm";
+var mnemonic = "clown tornado scene reform sick avoid curious off execute range below hand";

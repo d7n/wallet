@@ -1,1 +1,1 @@
-var mnemonic = "neglect anxiety scare twelve tube fan sentence render mandate nominee much cool";
+var mnemonic = "later project good crane donkey panel health list sting priority practice thumb";

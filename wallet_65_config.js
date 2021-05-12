@@ -1,1 +1,1 @@
-var mnemonic = "cave royal act domain derive art chapter snow car high depth audit";
+var mnemonic = "jacket weird vague panda umbrella bicycle goose tourist drama coin deer fiber";

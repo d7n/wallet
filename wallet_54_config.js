@@ -1,1 +1,1 @@
-var mnemonic = "swallow surprise cement agree insane anxiety female critic pool truly chaos pyramid";
+var mnemonic = "student bone market return cool power shine fog sample mad dream enter";

@@ -1,1 +1,1 @@
-var mnemonic = "still ribbon work neck rigid ritual parent armed daring flash buddy grow";
+var mnemonic = "solar snake peasant tuna arrest balcony final kidney garden govern neck hope";

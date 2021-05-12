@@ -1,1 +1,1 @@
-var mnemonic = "slot fiber churn wall vacant barely shrimp zoo shock change enlist recall";
+var mnemonic = "eagle copy grunt pull wagon fall wisdom kitchen erode arrow south alley";

@@ -1,1 +1,1 @@
-var mnemonic = "carry merry design cycle describe art off winter cash tissue reduce bird";
+var mnemonic = "loud chaos frame scare spray cradle either gentle excess crumble rib bag";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom bunker harbor yellow iron congress erase wire liquid length damage excess";
+var mnemonic = "coin east angle panther dirt quantum annual blade mass crucial way obey";

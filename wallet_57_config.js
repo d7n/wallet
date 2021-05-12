@@ -1,1 +1,1 @@
-var mnemonic = "tobacco damage hazard toast clinic immune young snap skin canoe gorilla ribbon";
+var mnemonic = "debris deny answer recall infant north leave burger twelve current genre skirt";

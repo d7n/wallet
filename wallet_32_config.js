@@ -1,1 +1,1 @@
-var mnemonic = "mimic science grain drip carry chapter bubble strong wedding pave six other";
+var mnemonic = "program region absent base quote canoe case tortoise arch doll prepare tray";

@@ -1,1 +1,1 @@
-var mnemonic = "apple tower silly flash rural state weasel crowd cash kite involve canal";
+var mnemonic = "exit weird pill churn song valley learn cup check true result swear";

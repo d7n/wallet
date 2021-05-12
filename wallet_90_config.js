@@ -1,1 +1,1 @@
-var mnemonic = "mask system enough victory boss excuse glimpse about shallow side carbon hidden";
+var mnemonic = "bike monster wait finish list armed session hat supply below spring library";

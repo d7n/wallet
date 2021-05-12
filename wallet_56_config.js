@@ -1,1 +1,1 @@
-var mnemonic = "admit parrot glory peace taxi urban rail behave silent bread coin feed";
+var mnemonic = "stomach depend educate harbor weasel smile solar tortoise beauty finish spoon wool";

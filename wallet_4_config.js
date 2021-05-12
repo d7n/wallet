@@ -1,1 +1,1 @@
-var mnemonic = "voyage broom scare object subway access control salt able domain physical glory";
+var mnemonic = "thought excuse robot bag diesel win path leisure liquid kind allow benefit";

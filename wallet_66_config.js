@@ -1,1 +1,1 @@
-var mnemonic = "country prefer cloud lobster injury diesel history laptop stay unfair fame company";
+var mnemonic = "power foam loyal patrol wonder cabbage athlete inspire pledge about horror cool";

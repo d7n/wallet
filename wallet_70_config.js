@@ -1,1 +1,1 @@
-var mnemonic = "winter focus engine frog dice orchard click tent cradle truck cradle interest";
+var mnemonic = "anger cable laptop salon couple cave anchor essence stuff attitude range door";

@@ -1,1 +1,1 @@
-var mnemonic = "letter helmet grass pepper donate swift box logic when tennis verify industry";
+var mnemonic = "silent civil public truly giggle great pledge capable garden market govern damage";

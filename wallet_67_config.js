@@ -1,1 +1,1 @@
-var mnemonic = "shoulder forest broom cactus fiscal pony dad praise better syrup range march";
+var mnemonic = "ill human wild possible child friend olympic struggle rifle deny scheme steel";

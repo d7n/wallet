@@ -1,1 +1,1 @@
-var mnemonic = "gloom cinnamon dutch property prefer buzz struggle whisper collect luggage train joke";
+var mnemonic = "donkey joy hen together side amateur spend tonight action vintage crawl lazy";

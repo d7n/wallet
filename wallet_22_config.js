@@ -1,1 +1,1 @@
-var mnemonic = "program napkin evolve frozen boost power load hen cinnamon census cactus right";
+var mnemonic = "grass favorite abandon avocado morning witness catalog pottery mushroom inside robot profit";

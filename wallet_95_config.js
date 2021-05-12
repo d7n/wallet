@@ -1,1 +1,1 @@
-var mnemonic = "traffic fog roof weird crunch film only shoot upgrade inhale dash luxury";
+var mnemonic = "sound gain expect sort cabbage south quiz city woman ready fault nephew";

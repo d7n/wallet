@@ -1,1 +1,1 @@
-var mnemonic = "sad hard blouse garage legend angry tuna carbon erase source damage fatal";
+var mnemonic = "cake move wagon barrel action park outside lazy magic episode muffin convince";

@@ -1,1 +1,1 @@
-var mnemonic = "mind train cereal utility surge public bean cinnamon ranch cake cupboard cinnamon";
+var mnemonic = "peace husband giggle symptom link win glad budget inflict mountain grow pepper";

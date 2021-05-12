@@ -1,1 +1,1 @@
-var mnemonic = "kick pudding ranch spider nice unaware race panda anchor forest rural connect";
+var mnemonic = "scout bullet pudding toddler together document autumn arrange whisper call quality robot";

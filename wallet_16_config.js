@@ -1,1 +1,1 @@
-var mnemonic = "swallow broken marriage movie dilemma car kick oil soap giant kingdom tube";
+var mnemonic = "path raccoon trouble plunge raven brief target blanket purchase output grit despair";

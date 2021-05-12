@@ -1,1 +1,1 @@
-var mnemonic = "decrease horror balcony property cover scan harsh tenant simple spirit spread fall";
+var mnemonic = "naive panda chat casino elegant size fossil detail mean deliver initial monkey";

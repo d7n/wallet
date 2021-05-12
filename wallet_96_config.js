@@ -1,1 +1,1 @@
-var mnemonic = "ivory step town sun witness usage laundry sing end usage floor puppy";
+var mnemonic = "ripple table glide pave expand idea tell void place fossil wealth brush";

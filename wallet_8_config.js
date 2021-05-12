@@ -1,1 +1,1 @@
-var mnemonic = "void satisfy grain fitness funny risk roast august brain rookie robust noise";
+var mnemonic = "bus lecture panic rare cheese around sea tumble basket hill glimpse glide";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise eight silk trophy gym zero response eye lend lobster assume excuse";
+var mnemonic = "run garage box extra lawn mule amused awkward guitar enact sail artist";

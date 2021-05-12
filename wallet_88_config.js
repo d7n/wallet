@@ -1,1 +1,1 @@
-var mnemonic = "timber document dust critic tiger grab rural long mosquito alcohol dust bubble";
+var mnemonic = "gesture glue toddler enact garage assist damp feed tattoo edit insect ice";

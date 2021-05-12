@@ -1,1 +1,1 @@
-var mnemonic = "sphere napkin coconut lawn easy detail come become seek autumn police foam";
+var mnemonic = "want avocado gather tuition museum olive recall crawl gift time travel scale";

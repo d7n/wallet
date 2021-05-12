@@ -1,1 +1,1 @@
-var mnemonic = "copy provide sniff fee wear motor creek cup view slam equal minor";
+var mnemonic = "regular office advice song deposit sight sphere street helmet food wool perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse average height cry adult ask valley atom amount team piano junk";
+var mnemonic = "vintage beauty lunar hunt skull produce long buffalo sand snake remind cotton";

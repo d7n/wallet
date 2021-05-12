@@ -1,1 +1,1 @@
-var mnemonic = "stay doll verb shed million street away sound city alarm outer churn";
+var mnemonic = "duty family crouch way brand profit outdoor section drink version crawl marine";

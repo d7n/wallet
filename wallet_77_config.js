@@ -1,1 +1,1 @@
-var mnemonic = "slice year language sea since pen move oxygen witness sorry penalty sleep";
+var mnemonic = "shiver shield awesome void narrow diamond victory shed shine run believe grit";

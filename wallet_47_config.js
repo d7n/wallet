@@ -1,1 +1,1 @@
-var mnemonic = "actual ankle topic tilt vast people auction pledge area slogan arena document";
+var mnemonic = "banner tent name stereo index dish nice gap bleak acid dawn crunch";

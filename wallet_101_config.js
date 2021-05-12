@@ -1,1 +1,1 @@
-var mnemonic = "canoe foot real coach mobile pizza payment perfect warfare shove shoe panther";
+var mnemonic = "produce orient elegant someone cage mercy still clinic wedding rebuild license forest";

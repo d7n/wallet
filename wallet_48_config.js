@@ -1,1 +1,1 @@
-var mnemonic = "select random sock shoulder romance basket random swallow apple twist iron utility";
+var mnemonic = "merit sad mesh winter stairs shiver lumber item total alarm brush ketchup";

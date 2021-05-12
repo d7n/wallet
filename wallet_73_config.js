@@ -1,1 +1,1 @@
-var mnemonic = "ice valid this clock palm medal thought satisfy trigger cinnamon habit doctor";
+var mnemonic = "mother fruit advice suit submit fine census menu injury cement thrive barely";

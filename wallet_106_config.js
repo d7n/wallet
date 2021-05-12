@@ -1,1 +1,1 @@
-var mnemonic = "work base thought tape subject crumble observe tooth knock tail vintage abuse";
+var mnemonic = "gaze guide face crop crisp feature silly glimpse liar vacant fuel labor";

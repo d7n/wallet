@@ -1,1 +1,1 @@
-var mnemonic = "shy rebuild furnace grace drastic river invite giraffe donor crystal lounge sunset";
+var mnemonic = "vendor sure dolphin deny already because noise used struggle mushroom put abandon";

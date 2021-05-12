@@ -1,1 +1,1 @@
-var mnemonic = "grace object sand maze odor leader narrow warm any lamp journey forest";
+var mnemonic = "feature control small notable eager wheat vacant steel hour what tape oven";

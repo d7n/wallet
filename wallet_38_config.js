@@ -1,1 +1,1 @@
-var mnemonic = "average boil neither amazing affair omit cinnamon say lesson modify clock athlete";
+var mnemonic = "foot garage trap suit question noodle chest corn hope member soup parent";

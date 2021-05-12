@@ -1,1 +1,1 @@
-var mnemonic = "receive normal trend ahead huge rather discover furnace buffalo inherit cube affair";
+var mnemonic = "paper inch find appear edge cruel dynamic task metal aisle sense goose";

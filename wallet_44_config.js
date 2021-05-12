@@ -1,1 +1,1 @@
-var mnemonic = "gloom head pass enjoy inspire misery wall vehicle whip pepper dry load";
+var mnemonic = "mix public render runway fork dragon sunny sword salmon focus urban label";

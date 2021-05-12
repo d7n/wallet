@@ -1,1 +1,1 @@
-var mnemonic = "churn child comic minute initial canoe boat nominee search unfair service winter";
+var mnemonic = "chief pyramid void genuine problem flush outside toward puzzle business cost effort";

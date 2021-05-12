@@ -1,1 +1,1 @@
-var mnemonic = "tenant ticket dawn hover winter ramp jump ice warrior patch gown chicken";
+var mnemonic = "peace velvet old comfort sick spy vocal mule idle style trip milk";

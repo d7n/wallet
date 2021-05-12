@@ -1,1 +1,1 @@
-var mnemonic = "dog meat melody shrimp differ close goose island abuse sketch humble tool";
+var mnemonic = "apology shaft pull work circle gadget ignore wisdom audit bunker else trust";

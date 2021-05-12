@@ -1,1 +1,1 @@
-var mnemonic = "dice pilot party bag ski happy minor sphere siege drastic upper evidence";
+var mnemonic = "guide announce vehicle flag account music try say bless youth column extend";

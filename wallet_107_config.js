@@ -1,1 +1,1 @@
-var mnemonic = "seven inhale tag warrior pave laugh okay minor fortune taxi blanket close";
+var mnemonic = "wine drama switch east equip siren warm federal stable mixture flip capital";

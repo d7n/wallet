@@ -1,1 +1,1 @@
-var mnemonic = "ocean glow else pear valve adjust project spell vicious saddle van science";
+var mnemonic = "fee strike mountain finger glory teach furnace cup traffic very cave crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "hover hole chase provide virtual proud eyebrow process about unable enjoy gather";
+var mnemonic = "junior super alien guide pear cluster pigeon pigeon hand tuna insane crack";

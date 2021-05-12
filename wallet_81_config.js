@@ -1,1 +1,1 @@
-var mnemonic = "exchange buyer west merge voyage defense elevator enter inspire unveil isolate vote";
+var mnemonic = "clarify hunt discover lion survey stem middle swift time noble secret lottery";

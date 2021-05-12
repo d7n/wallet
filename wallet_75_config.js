@@ -1,1 +1,1 @@
-var mnemonic = "drift happy unaware grass cabbage hand crazy two can motion island fantasy";
+var mnemonic = "rely history swallow allow lunch health maid grape wonder urge boring sell";

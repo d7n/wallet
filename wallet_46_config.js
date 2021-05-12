@@ -1,1 +1,1 @@
-var mnemonic = "replace method buffalo industry auto damage quarter pledge company aunt embrace clump";
+var mnemonic = "miss hazard mail cupboard report globe refuse drink lemon rack bridge apart";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb awkward similar swift side between pudding symbol setup invite reduce rapid";
+var mnemonic = "ugly carpet edge discover spawn cloth old apple cupboard always grow output";

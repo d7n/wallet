@@ -1,1 +1,1 @@
-var mnemonic = "verify push inspire lion little omit cactus love monitor shell wasp useful";
+var mnemonic = "thought settle lend orphan veteran ankle inspire donkey cement black junk gold";

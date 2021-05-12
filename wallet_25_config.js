@@ -1,1 +1,1 @@
-var mnemonic = "pact foster path cover flock drip weapon barrel wall license bomb priority";
+var mnemonic = "world silly layer famous axis joke mosquito agent parent indoor blast raven";

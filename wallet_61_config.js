@@ -1,1 +1,1 @@
-var mnemonic = "security orient age view slight quit audit shrug brave hire vault pledge";
+var mnemonic = "kid chunk stuff witness guess sort recycle blue vendor legal cruise trick";

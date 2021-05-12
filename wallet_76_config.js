@@ -1,1 +1,1 @@
-var mnemonic = "home rather ring jelly paddle bench wing team useless little room true";
+var mnemonic = "whale decade clay excess control gentle leg trumpet exotic cube matter outdoor";

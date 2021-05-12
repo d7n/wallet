@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo endless kidney twist fetch huge lizard move same eagle nice excite";
+var mnemonic = "thrive husband flower large impact video twice false program gasp tomorrow ugly";

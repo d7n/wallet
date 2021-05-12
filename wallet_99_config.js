@@ -1,1 +1,1 @@
-var mnemonic = "debris best much notice lemon gun interest inmate success meat glad label";
+var mnemonic = "tonight move transfer live certain retire park brother shoulder buyer ten head";

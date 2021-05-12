@@ -1,1 +1,1 @@
-var mnemonic = "pitch infant satoshi hunt arctic science laugh long update gas click retreat";
+var mnemonic = "remain shove rhythm fence tell better suspect gain insane shock similar trap";

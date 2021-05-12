@@ -1,1 +1,1 @@
-var mnemonic = "collect foster slim picnic mail hill nominee father capable animal emerge history";
+var mnemonic = "repair book remind ethics layer sphere plunge neutral sand joke pistol away";

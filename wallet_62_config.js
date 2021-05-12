@@ -1,1 +1,1 @@
-var mnemonic = "obvious december clever uncle limit calm indicate review today jeans brick cross";
+var mnemonic = "old fatigue supply tell rail minor latin only slide dust ordinary guard";

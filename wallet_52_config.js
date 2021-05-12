@@ -1,1 +1,1 @@
-var mnemonic = "stamp also add original harbor exhaust girl enlist cereal high since castle";
+var mnemonic = "maze there dinner cart mixed muffin quantum box taxi student expect evolve";
