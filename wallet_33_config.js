@@ -1,1 +1,1 @@
-var mnemonic = "stereo bid spoil skin donkey frame mixed twice pizza soup obtain warrior";
+var mnemonic = "trim above midnight lemon drastic snow act meadow spray begin reform tide";

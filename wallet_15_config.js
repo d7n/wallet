@@ -1,1 +1,1 @@
-var mnemonic = "know burden monitor gravity upgrade enrich system lend pumpkin siren rival whip";
+var mnemonic = "weather exist drop cotton apple unaware exact rain check salute lake leisure";

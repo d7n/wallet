@@ -1,1 +1,1 @@
-var mnemonic = "mirror size advance sponsor pill swift wolf tent rough eyebrow habit cupboard";
+var mnemonic = "fever clay skill upset clever that tooth then yard riot design warrior";

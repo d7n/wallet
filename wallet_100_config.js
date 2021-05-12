@@ -1,1 +1,1 @@
-var mnemonic = "budget desert tip equip assume hammer width coyote hip second concert hamster";
+var mnemonic = "section satisfy allow cheese civil vicious require hand vapor wheat host judge";

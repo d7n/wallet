@@ -1,1 +1,1 @@
-var mnemonic = "daring alone ghost clock balance syrup betray goddess primary winter husband put";
+var mnemonic = "table exact crazy rib spice state purse ugly scare carbon minute auction";

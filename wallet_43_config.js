@@ -1,1 +1,1 @@
-var mnemonic = "rookie tackle jewel cave accuse rack canyon woman pupil legend garment steel";
+var mnemonic = "very sort best peace relax shadow truck relax lamp action kangaroo radar";

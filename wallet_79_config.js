@@ -1,1 +1,1 @@
-var mnemonic = "undo average wild kind damage razor stomach motion giant dog cheap segment";
+var mnemonic = "want light pole mosquito deliver where transfer height glory visa submit lawsuit";

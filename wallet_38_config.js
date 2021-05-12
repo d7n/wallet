@@ -1,1 +1,1 @@
-var mnemonic = "monkey pledge furnace term normal truth maze crazy thought path miracle fire";
+var mnemonic = "dutch bitter error surprise element veteran shop frequent grain pattern meat gold";

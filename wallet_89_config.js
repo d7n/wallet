@@ -1,1 +1,1 @@
-var mnemonic = "way solution flush dune strong choice priority beef success fitness flip current";
+var mnemonic = "debris good climb love shoe charge degree rather false tumble blur evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf virus immune nerve truth echo museum come broom violin boil girl";
+var mnemonic = "follow uphold infant lumber lucky fame action pepper unaware champion sad figure";

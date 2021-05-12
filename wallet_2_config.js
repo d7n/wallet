@@ -1,1 +1,1 @@
-var mnemonic = "catalog soon guard cause dynamic punch brave laugh alley warm category airport";
+var mnemonic = "lawn maze auto once raw sign view doll fade atom tuition alert";

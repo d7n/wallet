@@ -1,1 +1,1 @@
-var mnemonic = "view dentist rural vague pizza rubber local lab what lyrics celery soft";
+var mnemonic = "bone elevator harvest fuel zebra flight crane bulk giant laptop toy ring";

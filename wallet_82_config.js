@@ -1,1 +1,1 @@
-var mnemonic = "require visa fix shy way school endless aim thought future chat movie";
+var mnemonic = "copy attack harvest buzz file lounge spray infant raven edge cause effort";

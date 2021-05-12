@@ -1,1 +1,1 @@
-var mnemonic = "diamond nuclear heart initial forum spike artefact immense upon east olympic cinnamon";
+var mnemonic = "catalog salt hawk dawn people tooth poet soda runway dial own struggle";

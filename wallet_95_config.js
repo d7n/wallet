@@ -1,1 +1,1 @@
-var mnemonic = "feel maid cover wisdom size raccoon garbage lunar spray erupt sudden ahead";
+var mnemonic = "anger soft report rebel action kite hundred tuition glad paper caught above";

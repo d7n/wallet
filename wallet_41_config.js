@@ -1,1 +1,1 @@
-var mnemonic = "drop concert festival decline gap mandate random ramp security skull famous today";
+var mnemonic = "flight vocal toe thrive taxi word sketch culture oblige weapon royal office";

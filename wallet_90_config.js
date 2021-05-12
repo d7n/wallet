@@ -1,1 +1,1 @@
-var mnemonic = "slim knee pizza blanket repair real blast jazz right wealth where green";
+var mnemonic = "photo margin relax shrimp liar ill scout gas aware long code ugly";

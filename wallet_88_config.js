@@ -1,1 +1,1 @@
-var mnemonic = "olive puzzle ethics spin wisdom gesture impact garden frog gain search capable";
+var mnemonic = "multiply height kingdom ordinary section salt debris panic plate fever access swarm";

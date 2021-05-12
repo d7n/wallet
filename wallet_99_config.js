@@ -1,1 +1,1 @@
-var mnemonic = "chef garment weekend game door farm you armed major erosion banana remove";
+var mnemonic = "whisper step worth ready fork empty pear swallow scatter popular dutch worry";

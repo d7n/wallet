@@ -1,1 +1,1 @@
-var mnemonic = "outer lady luggage turkey forward stove horror burst scrap bless symptom turkey";
+var mnemonic = "together follow kingdom phone rent loan believe diesel mix taxi service talk";

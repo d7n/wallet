@@ -1,1 +1,1 @@
-var mnemonic = "melody chimney fat insect club explain two knock awkward sure meat polar";
+var mnemonic = "claw tenant screen cart volume soon siege faculty tiny core squirrel debris";

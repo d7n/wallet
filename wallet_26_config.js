@@ -1,1 +1,1 @@
-var mnemonic = "donor fault crumble sea human lyrics heart canyon baby hover media stay";
+var mnemonic = "forget math another spread soul empower police defy lesson cave credit impact";

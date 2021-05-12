@@ -1,1 +1,1 @@
-var mnemonic = "syrup account wheel faith grief grit market across early crouch favorite royal";
+var mnemonic = "point legend best network million supply cabin garage decline ring october private";

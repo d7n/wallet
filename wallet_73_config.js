@@ -1,1 +1,1 @@
-var mnemonic = "person boat forum quality chase apart sting blast chunk control matrix ranch";
+var mnemonic = "fatigue beyond bacon release ritual lunar survey like cry ivory certain human";

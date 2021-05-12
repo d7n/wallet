@@ -1,1 +1,1 @@
-var mnemonic = "cigar invest gift noble live creek layer talk vintage marble enable merry";
+var mnemonic = "opinion dolphin arrest stay erupt day exact fabric ordinary smoke view patient";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge wisdom valid disease false tobacco action urge garlic real coil flat";
+var mnemonic = "spend trigger crunch phone balance response island believe loyal please mind dinner";

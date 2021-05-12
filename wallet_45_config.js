@@ -1,1 +1,1 @@
-var mnemonic = "dust slender tobacco art nuclear moon medal prosper grain drift amazing force";
+var mnemonic = "defense around knee blind unit pudding verify ill rude luggage world advice";

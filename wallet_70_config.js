@@ -1,1 +1,1 @@
-var mnemonic = "fold ladder mansion song swarm art normal together mushroom icon lawn toddler";
+var mnemonic = "solid book fatigue cabin elite pitch sweet level soda admit aerobic theme";

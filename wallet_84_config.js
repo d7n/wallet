@@ -1,1 +1,1 @@
-var mnemonic = "rule warfare mesh feel stove ordinary science picture devote office wish ice";
+var mnemonic = "tide various island obey fold prepare juice denial carpet knock scorpion frog";

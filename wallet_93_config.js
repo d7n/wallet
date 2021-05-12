@@ -1,1 +1,1 @@
-var mnemonic = "climb disagree boost tribe idle hollow raccoon across clump subway cart noodle";
+var mnemonic = "exile situate cinnamon cream device biology collect pause length runway kitten canyon";

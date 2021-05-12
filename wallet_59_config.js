@@ -1,1 +1,1 @@
-var mnemonic = "donor mask truly history water hole phone marine bubble notice script anxiety";
+var mnemonic = "warfare neutral length nominee badge orange horror emerge three flock lumber help";

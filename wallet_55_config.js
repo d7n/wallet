@@ -1,1 +1,1 @@
-var mnemonic = "mad ordinary chimney weekend grace guide evoke indicate festival bomb scorpion desk";
+var mnemonic = "enter nation public mistake worry garden hockey federal stadium carbon basket clog";

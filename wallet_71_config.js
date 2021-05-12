@@ -1,1 +1,1 @@
-var mnemonic = "pattern letter shadow poverty flush patient angry attend solid interest indicate page";
+var mnemonic = "silver fantasy wrist dose primary arrest artist mandate window zoo recycle upon";

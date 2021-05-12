@@ -1,1 +1,1 @@
-var mnemonic = "draft latin stool rib tenant club goddess crash citizen indicate outer input";
+var mnemonic = "can paddle again news pave hard dwarf host exercise useful novel ozone";

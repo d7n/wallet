@@ -1,1 +1,1 @@
-var mnemonic = "chest angry century open enroll sauce leave plunge enable ritual pride ribbon";
+var mnemonic = "fancy bacon panel patient erupt door share gap arm rifle what exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic bind this hurt lobster vendor grow case empower firm struggle ability";
+var mnemonic = "demand rail logic smile lonely lady couple runway banana town crouch donate";

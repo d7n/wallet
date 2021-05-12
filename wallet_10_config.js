@@ -1,1 +1,1 @@
-var mnemonic = "hurry relief camera radar year only gadget found arctic alcohol laundry tone";
+var mnemonic = "music fun broom vast panda quiz reunion brave sauce solar vicious frog";

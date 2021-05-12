@@ -1,1 +1,1 @@
-var mnemonic = "stove stone scatter announce select retreat target impact wool you outdoor swift";
+var mnemonic = "force hurdle pill country minute gentle code cable sheriff spike auto cereal";

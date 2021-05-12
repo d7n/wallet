@@ -1,1 +1,1 @@
-var mnemonic = "eye crater despair raw bamboo orange win era coconut judge similar van";
+var mnemonic = "gaze brick episode void belt eager small lunch bone benefit midnight notable";

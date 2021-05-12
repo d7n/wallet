@@ -1,1 +1,1 @@
-var mnemonic = "logic verb critic heart noise chapter quiz south solve twenty wash awake";
+var mnemonic = "clip flight trash teach clutch lumber clump rather token disease gospel stadium";

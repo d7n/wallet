@@ -1,1 +1,1 @@
-var mnemonic = "wedding leg whip calm neither nominee tag sun pact purse response cost";
+var mnemonic = "element street engage lecture receive shine dose galaxy giggle bronze fragile exclude";

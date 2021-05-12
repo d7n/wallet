@@ -1,1 +1,1 @@
-var mnemonic = "govern forward federal orbit satisfy describe unlock dog logic bless demand plate";
+var mnemonic = "provide buzz orbit dizzy drop pigeon round shallow actor whale avoid void";

@@ -1,1 +1,1 @@
-var mnemonic = "magic math rich require wreck isolate reunion noble february code tuna prevent";
+var mnemonic = "border away act able crunch luxury stumble edit genre quantum secret raise";

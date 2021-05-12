@@ -1,1 +1,1 @@
-var mnemonic = "pink course series smile subway hunt inquiry fold right forest assume foot";
+var mnemonic = "tunnel cloud cry attend rack warfare stove few excess acquire isolate owner";

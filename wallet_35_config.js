@@ -1,1 +1,1 @@
-var mnemonic = "toward ankle notable color dawn scare myth warm muscle warrior skin volcano";
+var mnemonic = "ride festival bright bone naive piano lazy habit fluid aspect measure piano";

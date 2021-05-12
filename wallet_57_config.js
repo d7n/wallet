@@ -1,1 +1,1 @@
-var mnemonic = "scorpion either little oxygen river jar thing throw dumb journey lazy story";
+var mnemonic = "reopen wisdom indicate column lend weasel rescue clap nominee hip input drip";

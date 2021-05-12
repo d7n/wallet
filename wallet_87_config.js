@@ -1,1 +1,1 @@
-var mnemonic = "bunker tiny ring inhale theme barely acid beauty phone remember throw share";
+var mnemonic = "student garlic pencil power enough review minimum grief merit eager lazy guess";

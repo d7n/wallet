@@ -1,1 +1,1 @@
-var mnemonic = "small try piano cement absorb trim panel keen choose train predict warfare";
+var mnemonic = "hospital eagle tortoise fire shed muffin embrace hello skirt jaguar can blast";

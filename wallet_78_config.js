@@ -1,1 +1,1 @@
-var mnemonic = "tooth vicious unusual reject shadow mean van balcony jeans year roof rather";
+var mnemonic = "awful future main hill actual rookie invite swamp usage barely cheap hamster";

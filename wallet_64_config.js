@@ -1,1 +1,1 @@
-var mnemonic = "fold attack maximum innocent tail super vote argue random deliver room glow";
+var mnemonic = "burger resist erupt drastic thumb earth quit crack sentence divert lobster yellow";

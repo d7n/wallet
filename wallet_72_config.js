@@ -1,1 +1,1 @@
-var mnemonic = "wage thought sudden object fever gospel camp repair summer finish chalk spy";
+var mnemonic = "hint park entry asset tail swarm old rail left topple acquire abuse";

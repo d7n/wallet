@@ -1,1 +1,1 @@
-var mnemonic = "build magnet spell glory royal bomb pass easy hockey better weapon obscure";
+var mnemonic = "analyst monitor source pulse lava oval photo grace use ability day purity";

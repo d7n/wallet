@@ -1,1 +1,1 @@
-var mnemonic = "detail remove banner wife danger web tent clip insect real champion faith";
+var mnemonic = "wall join stomach camera feed wrong depart fat laundry canyon poverty mandate";

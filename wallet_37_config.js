@@ -1,1 +1,1 @@
-var mnemonic = "wise opinion crucial alone crisp monkey puppy depart volcano wolf twist easily";
+var mnemonic = "foam quality acid fix matter stage spend inject verb august early crash";

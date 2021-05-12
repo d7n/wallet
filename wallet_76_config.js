@@ -1,1 +1,1 @@
-var mnemonic = "stuff web vintage remember stool north elegant crush allow galaxy during risk";
+var mnemonic = "topic response fantasy today card audit obey sort balance lion shoe notice";

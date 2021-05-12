@@ -1,1 +1,1 @@
-var mnemonic = "lounge more tank someone energy oil hip spawn initial ceiling twist betray";
+var mnemonic = "future kiwi stand pass apple clarify loan comic better author much receive";

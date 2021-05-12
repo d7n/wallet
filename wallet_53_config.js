@@ -1,1 +1,1 @@
-var mnemonic = "attitude choose lady supply lounge life fragile heart cinnamon glove clown another";
+var mnemonic = "boost jacket express auto flock night sample lemon process raise ritual adjust";

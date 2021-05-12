@@ -1,1 +1,1 @@
-var mnemonic = "farm lawsuit now jelly announce time exclude bind other twin nothing ostrich";
+var mnemonic = "weather tree manual mother bread dinner drill monitor organ mind stand device";

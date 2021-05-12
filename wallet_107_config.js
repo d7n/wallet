@@ -1,1 +1,1 @@
-var mnemonic = "armed feel exit brown endorse weekend switch film destroy anxiety spy purchase";
+var mnemonic = "elbow rally ski hurry ecology remain glide license ill sting demand hidden";

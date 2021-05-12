@@ -1,1 +1,1 @@
-var mnemonic = "fatal swift law gas awake victory hospital payment dwarf shed amused rely";
+var mnemonic = "lesson awake save shop vast antenna robust ribbon early ordinary health absurd";

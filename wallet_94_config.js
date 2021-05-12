@@ -1,1 +1,1 @@
-var mnemonic = "obey soul wise tool grape awkward exchange liar verify august universe pupil";
+var mnemonic = "mammal naive width ridge bamboo observe suspect divert duty visual figure soon";

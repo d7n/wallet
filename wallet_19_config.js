@@ -1,1 +1,1 @@
-var mnemonic = "tray car manage gas bulb grape problem paddle burden fire forget truck";
+var mnemonic = "bus genius omit you young carbon worry very damp thought pelican merit";

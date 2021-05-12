@@ -1,1 +1,1 @@
-var mnemonic = "drift blush list cloud kit tornado laundry arrow wine crazy thing jeans";
+var mnemonic = "middle sand orient travel demise flat denial train tip net solid actual";

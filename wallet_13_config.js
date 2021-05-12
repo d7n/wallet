@@ -1,1 +1,1 @@
-var mnemonic = "movie fat advice trouble gravity exhaust spread parade unable nephew deputy beyond";
+var mnemonic = "hurdle absent involve shadow develop double nice insect cave negative canoe hollow";

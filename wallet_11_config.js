@@ -1,1 +1,1 @@
-var mnemonic = "soup reunion aware vast indoor suggest laugh fix gentle dress know cycle";
+var mnemonic = "ribbon swamp clock version infant audit earn culture dinosaur ripple lunar deal";

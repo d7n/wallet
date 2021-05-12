@@ -1,1 +1,1 @@
-var mnemonic = "squirrel novel remember prosper tongue lava ugly sustain frost flower attend wait";
+var mnemonic = "review other loop conduct learn among pig light around pride put sport";

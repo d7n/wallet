@@ -1,1 +1,1 @@
-var mnemonic = "churn usage this quote pupil table vapor escape tool fury bonus inch";
+var mnemonic = "misery river elbow bronze work notice feel glide episode surface loop pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn other clock human update festival force rail involve tragic meat float";
+var mnemonic = "payment segment limb dash moon kangaroo black goose diagram earth people nothing";

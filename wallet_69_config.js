@@ -1,1 +1,1 @@
-var mnemonic = "axis olympic jelly wild truly congress prefer absurd method tortoise lonely measure";
+var mnemonic = "glove behave sail else orange rose science genre sea spread bonus option";

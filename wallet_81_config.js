@@ -1,1 +1,1 @@
-var mnemonic = "bar obtain loud beach struggle hunt that rack actor ill sail credit";
+var mnemonic = "execute pen session search sure carpet casino fresh domain tide oval chronic";

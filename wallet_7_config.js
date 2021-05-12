@@ -1,1 +1,1 @@
-var mnemonic = "stock napkin jar define cost shaft mansion box urban tired breeze deposit";
+var mnemonic = "eyebrow breeze useless weird have slogan step crack patch blame vacant say";

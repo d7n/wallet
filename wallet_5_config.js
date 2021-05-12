@@ -1,1 +1,1 @@
-var mnemonic = "present drastic junk love pluck impose tumble absorb gasp main tiny apology";
+var mnemonic = "allow blue cruise equip tongue flavor average worry shoulder shell fork skill";

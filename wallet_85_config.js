@@ -1,1 +1,1 @@
-var mnemonic = "toward wink firm resource hollow width flag change buyer express dice hood";
+var mnemonic = "glory melt language nice since edge toast process crew frozen obey endorse";

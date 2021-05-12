@@ -1,1 +1,1 @@
-var mnemonic = "tag lonely zebra drill sign eight address since mixture federal argue narrow";
+var mnemonic = "truly expand work fruit click ranch tennis differ found way divorce talent";

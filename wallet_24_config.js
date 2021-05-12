@@ -1,1 +1,1 @@
-var mnemonic = "candy stem input prefer cycle addict mask ball dance tenant number over";
+var mnemonic = "today desert document spread father science job crop image gloom miss frog";

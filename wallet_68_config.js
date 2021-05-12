@@ -1,1 +1,1 @@
-var mnemonic = "chronic arm silver hurry gesture food weapon junior neck moon abuse fire";
+var mnemonic = "multiply release birth chef urban hover sing tomorrow will enrich situate inquiry";

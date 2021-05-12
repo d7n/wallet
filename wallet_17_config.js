@@ -1,1 +1,1 @@
-var mnemonic = "diesel grunt twelve brush ostrich know crouch exist once twice claw useful";
+var mnemonic = "draw road negative upset joy equip punch fly wife range actual lady";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll swap degree autumn session media drip steel modify dutch enough record";
+var mnemonic = "outdoor appear open silver castle suggest sudden almost receive six profit agent";

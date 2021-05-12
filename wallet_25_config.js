@@ -1,1 +1,1 @@
-var mnemonic = "evoke alert angle popular devote allow wheat creek loud photo produce birth";
+var mnemonic = "surface heavy speed clog stem clown rescue safe school thumb tape initial";

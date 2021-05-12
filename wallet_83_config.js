@@ -1,1 +1,1 @@
-var mnemonic = "make bone buyer reveal manage siege aunt alarm noodle portion harsh drama";
+var mnemonic = "they civil kit wise blush unit team sister water toilet cluster setup";

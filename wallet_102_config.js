@@ -1,1 +1,1 @@
-var mnemonic = "adult lounge bicycle clip pattern discover six label tumble ball rain tower";
+var mnemonic = "mixed dune start aerobic front oppose ahead hip boat emerge reopen smooth";

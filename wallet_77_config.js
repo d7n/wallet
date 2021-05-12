@@ -1,1 +1,1 @@
-var mnemonic = "soft glimpse lens elevator tone junior blush affair lady excite wife repeat";
+var mnemonic = "fame master skull dignity awake add poverty mutual trip dust have blossom";

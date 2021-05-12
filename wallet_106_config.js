@@ -1,1 +1,1 @@
-var mnemonic = "clock under ugly fluid basket shrug film similar useful awkward bracket drill";
+var mnemonic = "tent yard topic awkward giant float across crumble cause wet present hundred";

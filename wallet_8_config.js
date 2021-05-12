@@ -1,1 +1,1 @@
-var mnemonic = "theme fee twin laundry draft they dentist describe hurt street globe stay";
+var mnemonic = "text immense absurd fetch artist heavy sketch crucial around salmon display moral";

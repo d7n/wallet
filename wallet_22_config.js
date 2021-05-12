@@ -1,1 +1,1 @@
-var mnemonic = "post push upset winter evolve omit april robot verify detail april joy";
+var mnemonic = "memory visit clerk weapon fluid pottery stable culture swarm lend portion direct";
