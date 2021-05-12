@@ -1,1 +1,1 @@
-var mnemonic = "deputy spring demise economy month fantasy census mesh crash kiwi caught dirt";
+var mnemonic = "divide shove lab clump digital wine identify ghost moment glad grab wasp";

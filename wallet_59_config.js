@@ -1,1 +1,1 @@
-var mnemonic = "opera two wash method kiss lazy eight often unknown summer lady umbrella";
+var mnemonic = "patrol patient art guess salmon alone artist inmate faint business settle absurd";

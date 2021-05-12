@@ -1,1 +1,1 @@
-var mnemonic = "salmon law then avocado start skirt anger dumb ranch target analyst number";
+var mnemonic = "rough lizard tuition armed trigger exit usual extend note never name lady";

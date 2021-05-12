@@ -1,1 +1,1 @@
-var mnemonic = "donkey burden belt choose random grow hybrid local tower rebel police unit";
+var mnemonic = "catalog adjust boat aware trim adult boring casino surround inspire glare victory";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak proof expect rose loop timber logic jazz monitor exhaust fault neglect";
+var mnemonic = "final either ball margin measure apart economy hen potato girl melt feel";

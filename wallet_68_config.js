@@ -1,1 +1,1 @@
-var mnemonic = "praise film gentle approve foam vital parent twice hold flee toward spike";
+var mnemonic = "ancient palace please scare shop symptom bring behave help tenant silver scan";

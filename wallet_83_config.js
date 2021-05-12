@@ -1,1 +1,1 @@
-var mnemonic = "heart provide outdoor among clay joke loan confirm throw rebuild youth climb";
+var mnemonic = "sudden frame staff disease resemble core shift peanut buyer step hire tilt";

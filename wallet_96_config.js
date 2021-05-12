@@ -1,1 +1,1 @@
-var mnemonic = "base earn check dinosaur uphold athlete labor engage ecology session essay person";
+var mnemonic = "supply vehicle common siren curtain stick require giggle genuine south panther bulb";

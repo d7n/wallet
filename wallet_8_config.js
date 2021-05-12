@@ -1,1 +1,1 @@
-var mnemonic = "enact choice canyon engage grace round cliff panic pill wall promote gorilla";
+var mnemonic = "usage repeat tongue layer youth era cause flip flavor later depend melt";

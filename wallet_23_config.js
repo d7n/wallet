@@ -1,1 +1,1 @@
-var mnemonic = "addict expire among token merge alarm steak pride talk bind assault outer";
+var mnemonic = "nut raccoon vehicle expand hybrid special initial announce embody leave brisk oak";

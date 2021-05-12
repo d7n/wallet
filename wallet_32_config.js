@@ -1,1 +1,1 @@
-var mnemonic = "trend toe clarify onion crouch chronic timber punch road soul shrug desk";
+var mnemonic = "device broken april page deal ice defense bottom mother void feed awkward";

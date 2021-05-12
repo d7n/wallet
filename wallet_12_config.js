@@ -1,1 +1,1 @@
-var mnemonic = "true one setup deposit bounce repeat shoe couple very axis direct decline";
+var mnemonic = "alcohol same gloom art mask digital spirit blood place chimney remove car";

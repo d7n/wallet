@@ -1,1 +1,1 @@
-var mnemonic = "legal report mix inspire tongue joy physical nose quiz echo original dignity";
+var mnemonic = "regret universe trial flush wage ostrich brush canoe fruit measure broken basic";

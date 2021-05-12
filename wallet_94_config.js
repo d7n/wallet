@@ -1,1 +1,1 @@
-var mnemonic = "hawk trap lemon spoil finish taste address rough dune shallow order dilemma";
+var mnemonic = "gain blouse civil dumb moon fiber draw glide sort board speak gift";

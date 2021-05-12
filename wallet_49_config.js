@@ -1,1 +1,1 @@
-var mnemonic = "mixed one ghost ready chair artist program emotion domain submit course try";
+var mnemonic = "note attract purpose exhaust together ensure little coach skill risk clerk globe";

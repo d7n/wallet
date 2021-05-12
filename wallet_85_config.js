@@ -1,1 +1,1 @@
-var mnemonic = "faculty mind ankle pretty hole omit grace gossip awkward another spring wait";
+var mnemonic = "maze kick rural merge cancel tissue blue barrel kangaroo test army celery";

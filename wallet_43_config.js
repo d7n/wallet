@@ -1,1 +1,1 @@
-var mnemonic = "ride note ceiling alter enhance crunch dizzy side adult allow surge hazard";
+var mnemonic = "gravity rate nurse sad drum segment mechanic submit ladder gate blossom room";

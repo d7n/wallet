@@ -1,1 +1,1 @@
-var mnemonic = "elegant output viable chalk reason client acquire pyramid lounge dream ticket decrease";
+var mnemonic = "thought verify major smart educate pause robust journey dust behind home direct";

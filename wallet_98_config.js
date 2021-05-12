@@ -1,1 +1,1 @@
-var mnemonic = "expect lemon sweet menu balcony rare rain usage butter wall model clown";
+var mnemonic = "pistol time seminar birth story bronze evoke father resource unfair please genuine";

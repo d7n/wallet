@@ -1,1 +1,1 @@
-var mnemonic = "juice nut shove roof economy badge useful seek online exit multiply year";
+var mnemonic = "slogan odor limit brown card panel lonely vague trigger vehicle auction beach";

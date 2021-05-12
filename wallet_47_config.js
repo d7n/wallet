@@ -1,1 +1,1 @@
-var mnemonic = "muffin escape elite sustain become vault mistake visit inspire search share pumpkin";
+var mnemonic = "tornado bounce upset carry van hero mercy color bid liquid trick spoon";

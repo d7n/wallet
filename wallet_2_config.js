@@ -1,1 +1,1 @@
-var mnemonic = "nephew deer glory program express black expand trouble food bomb naive open";
+var mnemonic = "glory category work core science title once gift identify abandon wage lake";

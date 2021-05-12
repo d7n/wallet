@@ -1,1 +1,1 @@
-var mnemonic = "today inform hundred crucial build view pony that radio left fall off";
+var mnemonic = "worry little notice clutch huge siren rival elevator quiz hobby fun manage";

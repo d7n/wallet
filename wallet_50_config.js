@@ -1,1 +1,1 @@
-var mnemonic = "ill bubble grunt hat hen cliff bike chunk gasp lazy expose neutral";
+var mnemonic = "stuff boy rifle volume castle screen scissors funny margin school opera garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "choice little right enlist hidden oil fatal announce elite globe move horse";
+var mnemonic = "derive cabin nurse hunt idle nation oven open reflect head ride high";

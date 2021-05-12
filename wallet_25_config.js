@@ -1,1 +1,1 @@
-var mnemonic = "blade enlist knife example buddy divorce decline kind theory lift rough mosquito";
+var mnemonic = "future clap magic debate grab online oval cupboard baby float usage nominee";

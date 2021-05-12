@@ -1,1 +1,1 @@
-var mnemonic = "easily moon arctic grab sting limb save search paddle scissors spoil fade";
+var mnemonic = "outdoor floor tip alley congress isolate stomach riot payment trash soup clog";

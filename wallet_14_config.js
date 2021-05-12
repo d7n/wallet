@@ -1,1 +1,1 @@
-var mnemonic = "erase various assault allow dutch love ride unfair cricket judge emotion keep";
+var mnemonic = "escape expand rib inform identify certain tomorrow coast credit kick upon mimic";

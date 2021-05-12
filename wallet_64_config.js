@@ -1,1 +1,1 @@
-var mnemonic = "host eagle exist virtual arctic area noodle mountain glance resource tissue pony";
+var mnemonic = "ridge day sand gain lady word arena cram area rural wave display";

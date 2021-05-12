@@ -1,1 +1,1 @@
-var mnemonic = "vicious camp stumble paddle grant emotion shuffle recycle merit help burst yard";
+var mnemonic = "shield radar what loyal noise program click smoke click guide vacant enhance";

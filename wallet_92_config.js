@@ -1,1 +1,1 @@
-var mnemonic = "health faculty honey glad cancel aunt ball quiz market member lab soup";
+var mnemonic = "shift fantasy misery ski autumn remember depart oppose hill same rubber odor";

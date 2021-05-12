@@ -1,1 +1,1 @@
-var mnemonic = "razor diagram over shine loan chronic bleak better debris clarify lumber soap";
+var mnemonic = "leisure deal nerve news flash laptop achieve rebel iron visit code appear";

@@ -1,1 +1,1 @@
-var mnemonic = "guard panel crane dentist busy stumble coach bicycle night hunt split comic";
+var mnemonic = "live kiss process avocado salute goat chest camp key today hungry admit";

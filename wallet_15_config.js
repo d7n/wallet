@@ -1,1 +1,1 @@
-var mnemonic = "fault decrease glad amazing gaze original wonder joy enter logic delay average";
+var mnemonic = "adult fall cause maze improve ghost arena debris diesel space trouble build";

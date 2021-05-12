@@ -1,1 +1,1 @@
-var mnemonic = "bullet banana bike maze cross sort estate hair merit very season muscle";
+var mnemonic = "alone cloth omit void near fan seed mobile sunset travel genre output";

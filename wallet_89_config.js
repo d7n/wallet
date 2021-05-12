@@ -1,1 +1,1 @@
-var mnemonic = "violin danger glad diamond mutual almost tool control humor inflict pear time";
+var mnemonic = "initial pupil remove peace zero reopen empower burden fabric peanut embark plate";

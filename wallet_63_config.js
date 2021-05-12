@@ -1,1 +1,1 @@
-var mnemonic = "power fault still cherry area violin vault taste unusual erosion merit gravity";
+var mnemonic = "elite warfare sheriff switch talk suit cage scheme bracket flee length battle";

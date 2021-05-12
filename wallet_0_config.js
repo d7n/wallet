@@ -1,1 +1,1 @@
-var mnemonic = "laugh pave couple gap always powder panther cannon finger real jungle palm";
+var mnemonic = "tide aware cable language rebuild turkey dream obtain gather wheel onion dune";

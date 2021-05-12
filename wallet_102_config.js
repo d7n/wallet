@@ -1,1 +1,1 @@
-var mnemonic = "tool power sing joy fitness cushion lamp near glare other vintage learn";
+var mnemonic = "output shine file bike ring satisfy paddle elite donate refuse shuffle grid";

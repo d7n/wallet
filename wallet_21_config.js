@@ -1,1 +1,1 @@
-var mnemonic = "horn genuine wall rain trust wish liberty climb nice during donkey lyrics";
+var mnemonic = "bird cook margin apart spawn potato glass inject hazard drill legend outer";

@@ -1,1 +1,1 @@
-var mnemonic = "submit minimum sunny license film other invest deposit cake obtain tent top";
+var mnemonic = "foot welcome cherry dinosaur parent trap inquiry narrow account treat hungry crane";

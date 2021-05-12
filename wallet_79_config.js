@@ -1,1 +1,1 @@
-var mnemonic = "person spike foam method girl know angle mean amazing town wife general";
+var mnemonic = "ignore ignore keep save mechanic cancel update tribe image rude half east";

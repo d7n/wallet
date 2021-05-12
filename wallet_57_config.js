@@ -1,1 +1,1 @@
-var mnemonic = "elder away west reduce essay debate knee clump salt place prefer strong";
+var mnemonic = "speed oval time normal rain horror soccer bronze include end corn attack";

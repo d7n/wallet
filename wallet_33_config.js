@@ -1,1 +1,1 @@
-var mnemonic = "shaft proud grass recipe recipe caught issue code scout card olive render";
+var mnemonic = "segment diesel brass seminar album correct later void ethics neck pioneer evolve";

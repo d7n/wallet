@@ -1,1 +1,1 @@
-var mnemonic = "amateur awkward column wet image post another second effort fabric joke fresh";
+var mnemonic = "genius forget capital salad celery subject nut afraid online mobile ugly claw";

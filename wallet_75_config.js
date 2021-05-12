@@ -1,1 +1,1 @@
-var mnemonic = "convince poem solid hazard faculty unique lottery fish suffer top trigger index";
+var mnemonic = "hundred parent width nerve toward install cancel mutual need parrot menu misery";

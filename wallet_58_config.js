@@ -1,1 +1,1 @@
-var mnemonic = "brush toss say favorite empower hurdle mean soft wrestle neither media one";
+var mnemonic = "cart cake limit chat diary diesel draft blood excess churn height yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat gloom black turkey caught swear husband sadness section zoo brother speak";
+var mnemonic = "misery earth puppy auction siege midnight radar pizza power differ must stumble";

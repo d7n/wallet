@@ -1,1 +1,1 @@
-var mnemonic = "tragic noble armed shine fold fabric enter inhale barrel famous often weird";
+var mnemonic = "increase toe young love apology mom calm scan rocket use october pepper";

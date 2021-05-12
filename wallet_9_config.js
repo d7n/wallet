@@ -1,1 +1,1 @@
-var mnemonic = "senior rib black paper prison search range metal dose rude pony select";
+var mnemonic = "tunnel dust job weasel dash coach walnut ostrich neck young solid mix";

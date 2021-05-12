@@ -1,1 +1,1 @@
-var mnemonic = "cream drive maximum bulk summer unable obvious summer victory scout deal rug";
+var mnemonic = "opera museum miss notice hockey draft service marble custom detect describe zebra";

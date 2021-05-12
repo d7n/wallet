@@ -1,1 +1,1 @@
-var mnemonic = "wedding frequent border jacket cry zebra correct mutual filter wedding need invest";
+var mnemonic = "churn sphere noise identify update effort often try token nest social face";

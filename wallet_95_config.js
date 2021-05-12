@@ -1,1 +1,1 @@
-var mnemonic = "state jar husband hard toast glance fury suffer peanut wreck elbow oven";
+var mnemonic = "entire used fence hire eager size stadium spice excess jelly distance harbor";

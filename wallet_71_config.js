@@ -1,1 +1,1 @@
-var mnemonic = "sadness drum there cancel piece subject outer coil inject rare tuna laptop";
+var mnemonic = "denial thought used lucky across term lobster cereal sauce visa supreme echo";

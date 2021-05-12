@@ -1,1 +1,1 @@
-var mnemonic = "corn spray cage until reduce hawk duty light puppy cycle repair tonight";
+var mnemonic = "media whisper broken acoustic fade stuff roof crowd fiscal eight lucky scheme";

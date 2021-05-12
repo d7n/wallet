@@ -1,1 +1,1 @@
-var mnemonic = "similar actor elephant ball review wait lobster answer neglect between shoot dizzy";
+var mnemonic = "oven certain syrup hood fluid display peace blind burst scale retire talk";

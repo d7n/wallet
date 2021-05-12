@@ -1,1 +1,1 @@
-var mnemonic = "mammal cross wait project uncle chicken chronic wait inquiry swift piano nation";
+var mnemonic = "echo spice napkin sail film leisure endless arrange victory flavor empower bronze";

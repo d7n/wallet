@@ -1,1 +1,1 @@
-var mnemonic = "foil avoid milk year autumn parent symbol census energy they tree surge";
+var mnemonic = "tonight crawl cave nature ozone express wheat spoon antique more script deer";

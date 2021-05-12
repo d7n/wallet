@@ -1,1 +1,1 @@
-var mnemonic = "bread near aspect gorilla ready again emotion bind front chimney spread farm";
+var mnemonic = "pill acquire lend walnut arm fan lens simple bus invest slight story";

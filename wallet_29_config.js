@@ -1,1 +1,1 @@
-var mnemonic = "coil cushion blanket success thunder viable rocket opinion asthma powder ball pass";
+var mnemonic = "float style mixed warm cycle discover left fire stable special ice gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "lift magnet excess heavy fluid tattoo traffic expose fortune cargo ten offer";
+var mnemonic = "need pottery chat cook entire brick enroll frame dice detail antenna injury";

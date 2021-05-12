@@ -1,1 +1,1 @@
-var mnemonic = "crane cloth wisdom purity found category south evil today purpose jewel cream";
+var mnemonic = "robot castle paddle circle seven second earth ridge mind industry suit nice";

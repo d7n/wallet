@@ -1,1 +1,1 @@
-var mnemonic = "edit laundry portion help steak cousin rib resist nephew hurry smile carbon";
+var mnemonic = "fruit cake noodle organ water strike use sentence tobacco hold face cake";

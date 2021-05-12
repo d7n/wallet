@@ -1,1 +1,1 @@
-var mnemonic = "rent primary unhappy carry float infant spell process kid jelly jeans reward";
+var mnemonic = "coyote undo hair potato net exhibit park trade avocado fan easily sunny";

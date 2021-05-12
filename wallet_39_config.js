@@ -1,1 +1,1 @@
-var mnemonic = "into evoke dinner balcony giraffe fine erosion finger wrist soda raise farm";
+var mnemonic = "private mistake noodle burden very margin feed father horror album move swear";

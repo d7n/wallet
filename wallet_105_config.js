@@ -1,1 +1,1 @@
-var mnemonic = "tornado comfort comic hybrid dry follow grass height fatigue mixture domain suit";
+var mnemonic = "beauty jazz muffin avoid slice garlic midnight whip north clown jump appear";

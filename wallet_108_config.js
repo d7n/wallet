@@ -1,1 +1,1 @@
-var mnemonic = "rule cinnamon glove bar soap vital mix invite hidden melt slender gentle";
+var mnemonic = "pledge vote shrug vanish luggage initial west worry garage sudden outer foot";

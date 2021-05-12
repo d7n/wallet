@@ -1,1 +1,1 @@
-var mnemonic = "impulse husband kit kind rapid rubber nothing interest shallow desk congress toast";
+var mnemonic = "abandon arch stereo final session motor cattle captain glance manage vague envelope";

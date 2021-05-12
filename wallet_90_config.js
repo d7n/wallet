@@ -1,1 +1,1 @@
-var mnemonic = "require judge hero art merge whale fold stairs rhythm hand frozen surface";
+var mnemonic = "mention describe cushion access negative test rose relax meat elegant toss legal";

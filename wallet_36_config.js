@@ -1,1 +1,1 @@
-var mnemonic = "carbon fun output divide basket type sunset book asset life sting improve";
+var mnemonic = "oblige guess economy chuckle grow gym catch flip result pool ginger where";

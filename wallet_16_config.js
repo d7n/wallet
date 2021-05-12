@@ -1,1 +1,1 @@
-var mnemonic = "wing enough pistol supply lunch hollow grid animal motion attack family panel";
+var mnemonic = "ill century fly net cruel clever spell chimney output parade excite cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "spare glow supreme accuse place moral online close sauce return lemon leg";
+var mnemonic = "dolphin fiction gasp quiz basket become elite blanket agree lottery better abandon";

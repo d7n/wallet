@@ -1,1 +1,1 @@
-var mnemonic = "parade casual axis collect ranch quantum group weasel jeans permit spring scene";
+var mnemonic = "awful sister high upset drive same capable spring open swear found rather";

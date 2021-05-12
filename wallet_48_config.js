@@ -1,1 +1,1 @@
-var mnemonic = "popular cancel fine bring pet enable post cover food noise calm avoid";
+var mnemonic = "submit wood glow problem resist hold prevent hub ticket mansion notable achieve";

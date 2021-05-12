@@ -1,1 +1,1 @@
-var mnemonic = "nurse dash galaxy pulp math good expose admit pride save pyramid rain";
+var mnemonic = "property eight bean wasp bread model wonder eager team unaware front noise";

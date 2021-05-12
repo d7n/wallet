@@ -1,1 +1,1 @@
-var mnemonic = "alcohol provide cruise fantasy frown daring caution party north dust napkin carbon";
+var mnemonic = "awesome surround olympic tourist price isolate usage oval pill exist decade sibling";

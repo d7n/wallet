@@ -1,1 +1,1 @@
-var mnemonic = "demise describe truly present child cross senior inflict coach similar coral unit";
+var mnemonic = "cause wonder mass robot awesome lizard rent price unique patch hobby welcome";

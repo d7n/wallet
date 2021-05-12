@@ -1,1 +1,1 @@
-var mnemonic = "jaguar kitchen equal history wisdom solve razor walnut antique coyote level law";
+var mnemonic = "harbor benefit odor category puzzle course police fit wasp stamp lizard detect";

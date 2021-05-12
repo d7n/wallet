@@ -1,1 +1,1 @@
-var mnemonic = "frog captain start circle clown ribbon rally crucial skin absorb right jewel";
+var mnemonic = "little cousin tongue fitness depart come kitchen catch bus report expire giggle";

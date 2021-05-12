@@ -1,1 +1,1 @@
-var mnemonic = "glove major alter auction clog insect thrive cute example scout notable arrive";
+var mnemonic = "more stadium ritual fruit innocent employ theory direct soul balcony shoe owner";

@@ -1,1 +1,1 @@
-var mnemonic = "toward castle dizzy forward trip always merry cycle pact alcohol pigeon reward";
+var mnemonic = "cotton ocean village hover mixture toast print gorilla flash gaze parrot decade";

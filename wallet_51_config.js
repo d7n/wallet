@@ -1,1 +1,1 @@
-var mnemonic = "chalk wall tortoise fragile clip fresh car nation program glare advance mouse";
+var mnemonic = "anxiety goat top cable bicycle cart alley equip wink rifle month toward";

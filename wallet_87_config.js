@@ -1,1 +1,1 @@
-var mnemonic = "loop stamp idea million sort minor cushion tape wall typical when sing";
+var mnemonic = "group modify spoon original virtual unaware meadow walnut fragile sustain ignore among";

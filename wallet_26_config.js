@@ -1,1 +1,1 @@
-var mnemonic = "document bicycle flush mosquito harvest cup glimpse transfer large series whip earn";
+var mnemonic = "outer found praise hold exist round once basic faith picnic frame hurry";

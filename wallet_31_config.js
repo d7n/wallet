@@ -1,1 +1,1 @@
-var mnemonic = "replace claw position check cigar crouch snow daughter cup relief witness nothing";
+var mnemonic = "tunnel prefer harvest shoot visit silly pudding key upper coil lunar effort";

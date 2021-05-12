@@ -1,1 +1,1 @@
-var mnemonic = "input exchange escape tuna van sadness innocent vapor budget turkey vital suit";
+var mnemonic = "type giraffe short drastic unique joy bread flock put volcano picnic thumb";

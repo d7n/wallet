@@ -1,1 +1,1 @@
-var mnemonic = "hope lumber train resemble pyramid total brown raccoon rude retire net start";
+var mnemonic = "energy unknown receive series when hint visual prosper unusual lonely benefit cross";

@@ -1,1 +1,1 @@
-var mnemonic = "lake wire slogan carpet couch misery lock canal shop aim pizza layer";
+var mnemonic = "sea crouch rotate pony huge bid craft apple lounge analyst almost render";

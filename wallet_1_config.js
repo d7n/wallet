@@ -1,1 +1,1 @@
-var mnemonic = "original critic conduct brick web left offer hand gaze easy between twenty";
+var mnemonic = "talent ship cruise pole verify best grid add capital nasty deposit spare";

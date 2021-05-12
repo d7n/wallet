@@ -1,1 +1,1 @@
-var mnemonic = "denial hedgehog captain twenty vacuum peasant hair artefact addict honey secret typical";
+var mnemonic = "novel potato relax swallow rookie daughter zebra slot hold brother circle bundle";
