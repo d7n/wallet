@@ -1,1 +1,1 @@
-var mnemonic = "patient toward lottery display poem push clog diagram escape myth magnet broom";
+var mnemonic = "edit arrange language tattoo chef glide army fog traffic culture label assume";

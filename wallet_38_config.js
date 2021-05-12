@@ -1,1 +1,1 @@
-var mnemonic = "vast robot find sibling wedding swamp horn glare civil muffin tornado rigid";
+var mnemonic = "winter car middle awake catalog forum coffee rate language area must supreme";

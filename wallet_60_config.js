@@ -1,1 +1,1 @@
-var mnemonic = "script that dizzy slogan arrow marine gift banner staff short silent state";
+var mnemonic = "medal escape system marine crunch quote wisdom drop mosquito shove fine daughter";

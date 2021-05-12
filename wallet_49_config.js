@@ -1,1 +1,1 @@
-var mnemonic = "example inhale polar average feel glide crane crane gentle canal track exclude";
+var mnemonic = "glove machine fox upset view monitor index beach sudden oppose sudden journey";

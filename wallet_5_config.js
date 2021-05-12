@@ -1,1 +1,1 @@
-var mnemonic = "opinion off among conduct same canoe flash coffee camera parrot purchase stable";
+var mnemonic = "crumble cable pretty arrow pledge size rug mountain under diagram festival buyer";

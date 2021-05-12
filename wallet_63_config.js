@@ -1,1 +1,1 @@
-var mnemonic = "siren rent banner economy outer duty predict game dry scale result miracle";
+var mnemonic = "public mercy muscle moment update border accuse cat client celery enforce allow";

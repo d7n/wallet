@@ -1,1 +1,1 @@
-var mnemonic = "rude borrow into render mercy cargo ignore ethics weasel figure spy switch";
+var mnemonic = "wrestle quick nasty afraid already luxury snack memory armed tube infant phone";

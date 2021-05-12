@@ -1,1 +1,1 @@
-var mnemonic = "immune kiss used runway panic nest circle punch animal profit soap nose";
+var mnemonic = "pulse useless sport energy finish three price employ dignity improve rich help";

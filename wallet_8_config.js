@@ -1,1 +1,1 @@
-var mnemonic = "ivory boss weapon wasp chunk spatial dutch anxiety achieve destroy ketchup hover";
+var mnemonic = "payment turn coffee mobile can iron february practice canyon portion ribbon cousin";

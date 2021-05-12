@@ -1,1 +1,1 @@
-var mnemonic = "portion flip renew rally hour wrong device control frown old speak govern";
+var mnemonic = "phone fat edit minor avoid act glide charge dune ability puzzle height";

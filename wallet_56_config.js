@@ -1,1 +1,1 @@
-var mnemonic = "half lesson goddess envelope rhythm federal gesture tunnel today tribe glass miracle";
+var mnemonic = "clump order marble sail olive soon stomach bubble find thing wave luggage";

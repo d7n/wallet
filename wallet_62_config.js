@@ -1,1 +1,1 @@
-var mnemonic = "animal topic awful cargo layer ring fit drip discover dinner gloom sweet";
+var mnemonic = "describe bone gallery grant plug grace deal fault ocean boat elder slim";

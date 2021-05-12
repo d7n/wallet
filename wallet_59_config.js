@@ -1,1 +1,1 @@
-var mnemonic = "hawk marble over awake math slogan warfare police fashion boy tragic grass";
+var mnemonic = "knock quit sense tomorrow task hard eagle curtain kiwi walnut pet anger";

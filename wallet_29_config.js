@@ -1,1 +1,1 @@
-var mnemonic = "coconut tornado accuse beef silver arrive season panther sketch rib client rich";
+var mnemonic = "hobby pistol congress clinic hurry cause welcome emerge elevator apple carry another";

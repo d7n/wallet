@@ -1,1 +1,1 @@
-var mnemonic = "alien swear today orphan upon father table cross focus math bus uncle";
+var mnemonic = "chair host notable fury clarify festival answer praise subject cable program guitar";

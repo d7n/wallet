@@ -1,1 +1,1 @@
-var mnemonic = "inmate pole grow soda second link flush quantum more crumble bomb noble";
+var mnemonic = "absent quit kitten film green category muscle certain cancel shoe help negative";

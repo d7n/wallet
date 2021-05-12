@@ -1,1 +1,1 @@
-var mnemonic = "shrug barrel gesture elephant blossom draft valve wrong spider pupil into bread";
+var mnemonic = "capable wet tackle brand dry agree stand success pond flavor robot echo";

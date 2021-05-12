@@ -1,1 +1,1 @@
-var mnemonic = "design island beyond father gadget giraffe awkward only column vital traffic funny";
+var mnemonic = "common flip recipe spoon patch license describe school gather pony cargo usual";

@@ -1,1 +1,1 @@
-var mnemonic = "century dish sting between ticket cigar leg cherry metal liberty exile month";
+var mnemonic = "small injury toast unaware bronze example require poet purchase ride inhale father";

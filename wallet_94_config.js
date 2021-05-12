@@ -1,1 +1,1 @@
-var mnemonic = "lottery raise aware trash reveal bargain want various approve crop remain strike";
+var mnemonic = "program wine matrix monkey drama lens animal hurt correct mass alert negative";

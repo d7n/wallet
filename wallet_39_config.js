@@ -1,1 +1,1 @@
-var mnemonic = "divide obvious fall cash police major surprise asset velvet diary tone work";
+var mnemonic = "upper enlist crop shiver aunt organ alarm order marine exhaust marriage property";

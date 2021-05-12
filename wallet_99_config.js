@@ -1,1 +1,1 @@
-var mnemonic = "false cool music seat plastic goose sphere filter tuna achieve wreck believe";
+var mnemonic = "apology disease sentence only hedgehog consider icon depend element enforce man ecology";

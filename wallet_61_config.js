@@ -1,1 +1,1 @@
-var mnemonic = "deny marble mix visual early wear call promote donor sponsor afford misery";
+var mnemonic = "kiwi wine ocean dream blanket near armed eye dove offer zero chair";

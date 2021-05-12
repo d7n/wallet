@@ -1,1 +1,1 @@
-var mnemonic = "bargain vintage frog labor business cruel later ankle trade bulb nature mercy";
+var mnemonic = "open october come upgrade victory position relax sketch shoot length outer hurdle";

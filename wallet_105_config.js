@@ -1,1 +1,1 @@
-var mnemonic = "dice work they human tip cherry globe honey celery spot radio own";
+var mnemonic = "soccer kiss prosper total entry van ride tragic net social delay fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid enhance solution wet another keep area exotic pill banana abandon type";
+var mnemonic = "act crumble prefer liberty swarm nasty mammal park fit myself velvet connect";

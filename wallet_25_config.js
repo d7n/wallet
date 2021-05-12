@@ -1,1 +1,1 @@
-var mnemonic = "angry physical alert major census thumb snack nose grow bus keen sun";
+var mnemonic = "card aunt talent amazing purity floor cliff parent mistake cake nose radio";

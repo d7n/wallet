@@ -1,1 +1,1 @@
-var mnemonic = "decrease cool wing hold learn vehicle rally fit virtual keep whip kiwi";
+var mnemonic = "enlist grocery people advice found hold sight odor suspect napkin meat vanish";

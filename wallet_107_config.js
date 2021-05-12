@@ -1,1 +1,1 @@
-var mnemonic = "source voyage wrist power drop fringe switch riot print heart add today";
+var mnemonic = "camp cash stone cupboard race walk average meadow urge comfort pudding civil";

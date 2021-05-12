@@ -1,1 +1,1 @@
-var mnemonic = "correct dune bring secret screen insane script abandon drill rebel slam ship";
+var mnemonic = "dolphin word slow model valve execute boost safe icon source rose piano";

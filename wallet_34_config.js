@@ -1,1 +1,1 @@
-var mnemonic = "year adult teach absorb close nice someone flee arch tennis wheat kingdom";
+var mnemonic = "outdoor intact dinosaur river into doll worth rookie today father term surge";

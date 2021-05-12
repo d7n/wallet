@@ -1,1 +1,1 @@
-var mnemonic = "fit leopard length lunar measure key agree absurd advice first camp donkey";
+var mnemonic = "plug unveil merge chapter float veteran equip february cigar butter display face";

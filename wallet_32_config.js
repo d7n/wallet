@@ -1,1 +1,1 @@
-var mnemonic = "build rent traffic defense poet olympic replace uncover various siege property cactus";
+var mnemonic = "clutch enroll village gaze dentist audit sorry feature face slot staff gap";

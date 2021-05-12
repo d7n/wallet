@@ -1,1 +1,1 @@
-var mnemonic = "year fence around travel wagon simple survey slot subject luggage style scrub";
+var mnemonic = "upgrade problem faith mouse dose kitchen bunker tide mind diary occur bleak";

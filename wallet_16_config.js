@@ -1,1 +1,1 @@
-var mnemonic = "address sentence sea orchard hello vibrant federal circle taste coyote security cart";
+var mnemonic = "crater remind ethics lake logic exhibit mimic hunt assist immune forward milk";

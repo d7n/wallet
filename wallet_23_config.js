@@ -1,1 +1,1 @@
-var mnemonic = "rather raccoon parrot wine shiver sad visual dose cage also twist fine";
+var mnemonic = "level problem twist spin cave butter stereo kiss cram used kiss volume";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange grit shift resource art need mountain buffalo neglect stadium divorce identify";
+var mnemonic = "cruel add admit dynamic blame unique cradle street come parade add alley";

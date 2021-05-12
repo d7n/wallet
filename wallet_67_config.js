@@ -1,1 +1,1 @@
-var mnemonic = "bind dune chat lens limb theme runway horror address fish conduct empower";
+var mnemonic = "clever parrot visual flight grocery decide dad diagram step disagree machine regular";

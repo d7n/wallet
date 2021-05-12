@@ -1,1 +1,1 @@
-var mnemonic = "junior person mercy expose ready plug announce decorate buzz decide pyramid square";
+var mnemonic = "mandate arrow slight machine price dignity nurse labor future valid length fitness";

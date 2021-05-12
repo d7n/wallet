@@ -1,1 +1,1 @@
-var mnemonic = "office october episode churn screen arrow device click cook original orbit disorder";
+var mnemonic = "year you resist force away elite industry similar such whale unaware nasty";

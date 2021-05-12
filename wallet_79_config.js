@@ -1,1 +1,1 @@
-var mnemonic = "polar fade maximum business glimpse easy brick style chair scorpion rubber certain";
+var mnemonic = "modify fitness enemy ability replace shiver gentle effort acoustic split exchange moon";

@@ -1,1 +1,1 @@
-var mnemonic = "woman picnic rain unusual stool swamp easily breeze daughter seed frog medal";
+var mnemonic = "clog foil endorse result wisdom urge danger silent weird autumn umbrella secret";

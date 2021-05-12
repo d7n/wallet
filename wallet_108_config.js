@@ -1,1 +1,1 @@
-var mnemonic = "twelve initial index father helmet false fluid ski permit spawn roast brass";
+var mnemonic = "believe flag absorb spell artist hundred panda october barely door ladder resource";

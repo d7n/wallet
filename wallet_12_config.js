@@ -1,1 +1,1 @@
-var mnemonic = "book prison response layer lobster eyebrow bird amount buffalo language broom zone";
+var mnemonic = "learn sudden very judge unfold valid cash scheme forest foster pole nephew";

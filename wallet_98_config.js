@@ -1,1 +1,1 @@
-var mnemonic = "law diesel valve dash sword ensure leader click desk giraffe air screen";
+var mnemonic = "nature warfare pear welcome jacket gaze second office few nose body mango";

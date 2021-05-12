@@ -1,1 +1,1 @@
-var mnemonic = "mad hammer anger file mansion depart legend marriage grid acid fine throw";
+var mnemonic = "diamond banner monitor theory frame write concert put conduct attract skill upon";

@@ -1,1 +1,1 @@
-var mnemonic = "royal sight physical poet garbage enlist release card jungle clutch dance saddle";
+var mnemonic = "pass quarter liquid absent faculty mosquito chalk chief change energy review debris";

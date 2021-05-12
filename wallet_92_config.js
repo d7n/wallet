@@ -1,1 +1,1 @@
-var mnemonic = "cancel eagle harvest neutral pact bread park track awful ecology cash draw";
+var mnemonic = "demand gauge exile excess oblige staff army throw gift close arrive electric";

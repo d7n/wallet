@@ -1,1 +1,1 @@
-var mnemonic = "high coach save legal boil plunge essence poem skate devote rebuild cricket";
+var mnemonic = "alley body math split woman stand valid general shine undo morning border";

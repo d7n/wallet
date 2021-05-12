@@ -1,1 +1,1 @@
-var mnemonic = "sister slam choose lyrics property nest pass brass garbage nasty salad involve";
+var mnemonic = "consider truck trim face abstract certain october chronic mandate olympic beef mammal";

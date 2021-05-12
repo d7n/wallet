@@ -1,1 +1,1 @@
-var mnemonic = "feed evolve office excite mandate humor often valve trade dwarf cloud poem";
+var mnemonic = "exile advice always odor bomb pledge simple math gold grunt prefer rocket";

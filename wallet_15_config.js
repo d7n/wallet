@@ -1,1 +1,1 @@
-var mnemonic = "marble exchange saddle learn corn gun wide leisure setup tip price awkward";
+var mnemonic = "nest clip divide include length lunch pizza bring village leopard another cave";

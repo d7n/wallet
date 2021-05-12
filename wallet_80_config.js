@@ -1,1 +1,1 @@
-var mnemonic = "crisp drama tourist toilet laundry broom two also recall nephew twelve away";
+var mnemonic = "explain license pudding canvas bean alpha piece alert pulse other narrow brick";

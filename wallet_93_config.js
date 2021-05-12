@@ -1,1 +1,1 @@
-var mnemonic = "leave hill auction wave hair humble consider original stumble bike once waste";
+var mnemonic = "lobster mouse foam what exchange kite enforce soon scale hood clerk level";

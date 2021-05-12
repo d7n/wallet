@@ -1,1 +1,1 @@
-var mnemonic = "surround room trumpet sight ordinary fashion tortoise shoe hazard sun execute nerve";
+var mnemonic = "dust unknown jazz hen history action hunt bread coral flush shoulder capital";

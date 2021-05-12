@@ -1,1 +1,1 @@
-var mnemonic = "crumble inhale seat length lift mutual correct prevent aisle awesome creek uncle";
+var mnemonic = "tragic safe derive hen labor question spirit chronic acquire spin best night";

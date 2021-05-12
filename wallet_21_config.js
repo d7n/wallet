@@ -1,1 +1,1 @@
-var mnemonic = "amazing negative leg crew evil sand grant cluster enemy eternal order stay";
+var mnemonic = "talent brother link print yellow brick empower diary border sand demise february";

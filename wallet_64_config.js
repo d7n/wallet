@@ -1,1 +1,1 @@
-var mnemonic = "code inform luggage kangaroo deal silver steel armor share fever slow parrot";
+var mnemonic = "utility outer just original borrow clap elbow plastic coyote style bone remain";

@@ -1,1 +1,1 @@
-var mnemonic = "public apology couple system ski stove scrub busy rack waste jaguar strong";
+var mnemonic = "buddy remember baby seek poet elite city giant kind element license swap";

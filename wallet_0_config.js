@@ -1,1 +1,1 @@
-var mnemonic = "ugly skirt secret pet group lunch raven just that build attend matter";
+var mnemonic = "lyrics daring need inspire inform lounge liquid stereo moment escape siege midnight";

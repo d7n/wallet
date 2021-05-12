@@ -1,1 +1,1 @@
-var mnemonic = "install youth unusual unknown ignore lobster illness employ auction repair floor leg";
+var mnemonic = "sample brush coffee unable grape cherry legend frown bomb despair security grow";

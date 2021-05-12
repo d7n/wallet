@@ -1,1 +1,1 @@
-var mnemonic = "jelly unique air skill annual figure pet one material culture tiny fantasy";
+var mnemonic = "reward combine quote rely asset rude run gloom nation dwarf bulb champion";

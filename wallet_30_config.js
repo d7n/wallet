@@ -1,1 +1,1 @@
-var mnemonic = "gown gym coil earn zone elephant enlist grid dirt motion power milk";
+var mnemonic = "park vague ahead hover power fresh suspect better square rhythm usage task";

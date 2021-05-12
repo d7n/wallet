@@ -1,1 +1,1 @@
-var mnemonic = "soft erosion cute outdoor bottom legend almost account flip mass below glow";
+var mnemonic = "insane spawn warfare suggest movie universe strike into dog august liquid plastic";

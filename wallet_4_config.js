@@ -1,1 +1,1 @@
-var mnemonic = "buyer shrimp bullet slab beauty moral weather slender cinnamon rude horror argue";
+var mnemonic = "burger click slide wish bone cancel absorb dose wall resist work physical";

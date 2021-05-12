@@ -1,1 +1,1 @@
-var mnemonic = "globe half clean actual hospital fury salon ceiling repeat help company organ";
+var mnemonic = "bind flee brush cousin equal husband armor fabric click main liberty neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry loyal ticket chief next dry verb shoot flat spoon upon trouble";
+var mnemonic = "rain century correct beyond conduct couple stone deal october crisp demand always";

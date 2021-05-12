@@ -1,1 +1,1 @@
-var mnemonic = "blind follow cage okay tongue silk belt shiver across erode rain noodle";
+var mnemonic = "witness tornado poet acoustic amateur bird essay believe lemon original adult album";

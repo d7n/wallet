@@ -1,1 +1,1 @@
-var mnemonic = "public blouse reflect betray sing praise utility maze stock path acquire spider";
+var mnemonic = "tourist august fix inherit wrong bunker front tribe talent want grit daughter";

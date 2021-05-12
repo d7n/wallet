@@ -1,1 +1,1 @@
-var mnemonic = "gate trust hurry craft filter clip glue pulp travel infant source because";
+var mnemonic = "slush equip scrub direct baby detail invite mistake ugly west hole kangaroo";

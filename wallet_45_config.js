@@ -1,1 +1,1 @@
-var mnemonic = "horn ride scout atom ostrich satoshi champion jelly kid indicate cluster shiver";
+var mnemonic = "secret size dizzy drift buffalo argue envelope dash expand artefact there cereal";

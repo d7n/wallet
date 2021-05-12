@@ -1,1 +1,1 @@
-var mnemonic = "dice traffic muffin slow anxiety crash help vacant employ about tell ethics";
+var mnemonic = "hood torch script catch conduct thunder element web february tray absurd siege";

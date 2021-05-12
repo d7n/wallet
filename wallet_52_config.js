@@ -1,1 +1,1 @@
-var mnemonic = "level hawk quick rare tail sign valve develop admit side trend say";
+var mnemonic = "rug cute convince party helmet retreat garden target error train tooth light";

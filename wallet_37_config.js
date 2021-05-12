@@ -1,1 +1,1 @@
-var mnemonic = "stick avoid poet monster drastic wash begin west rabbit forward brick wrist";
+var mnemonic = "stumble above tip analyst giggle idea genius keep roast mimic winter else";

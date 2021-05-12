@@ -1,1 +1,1 @@
-var mnemonic = "foam script noodle fault grass unlock skin grab great ozone embody size";
+var mnemonic = "country saddle brave acoustic wood pizza inhale output aisle cliff tourist rare";

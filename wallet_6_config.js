@@ -1,1 +1,1 @@
-var mnemonic = "rival fragile excite steel super fashion control quote sustain term raise valve";
+var mnemonic = "enjoy vivid dog section bounce afford rare series steel category shiver side";

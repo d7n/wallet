@@ -1,1 +1,1 @@
-var mnemonic = "feel rude price west valid response nuclear feature dream bullet result pyramid";
+var mnemonic = "black skull room age crazy word mansion keep private sick desert capable";

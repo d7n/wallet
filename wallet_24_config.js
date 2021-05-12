@@ -1,1 +1,1 @@
-var mnemonic = "model metal rate risk jaguar trap planet prepare throw column myth dignity";
+var mnemonic = "forest afford brown brush antenna october tongue labor sauce comfort food arctic";

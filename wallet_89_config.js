@@ -1,1 +1,1 @@
-var mnemonic = "match face anxiety misery easily maple curtain fun tube hockey wrap maze";
+var mnemonic = "skill force catch forget stay cross odor chronic taste page sign food";

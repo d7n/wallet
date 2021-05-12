@@ -1,1 +1,1 @@
-var mnemonic = "slam phrase roof divide off awful wrestle famous suggest exit step coil";
+var mnemonic = "craft outer keep timber beauty option tonight few off tribe cheese guilt";

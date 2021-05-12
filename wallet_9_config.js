@@ -1,1 +1,1 @@
-var mnemonic = "rifle split obscure sentence vacant appear nephew loop vibrant swamp chat drastic";
+var mnemonic = "hen daring sick paddle educate lucky kid cradle lion ankle arrest hard";

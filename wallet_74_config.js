@@ -1,1 +1,1 @@
-var mnemonic = "burst gaze jazz gossip taste snap bird shock security sibling grab winner";
+var mnemonic = "light depth stumble keep sugar toilet belt across cram despair judge ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "universe emerge search little find aware tired rebuild trumpet hawk tenant thought";
+var mnemonic = "emerge umbrella chest fat coin outdoor urge animal jar dry hazard velvet";

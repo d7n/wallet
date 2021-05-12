@@ -1,1 +1,1 @@
-var mnemonic = "empower swallow envelope ozone reveal quantum unfold pepper nuclear electric right shoe";
+var mnemonic = "grain kiss engine accident rather police doctor panther damage issue switch useful";

@@ -1,1 +1,1 @@
-var mnemonic = "error simple author trim equip check harbor east fame mixture retreat dumb";
+var mnemonic = "wild ostrich piece tuition source add boil rose breeze rare arctic zone";

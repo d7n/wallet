@@ -1,1 +1,1 @@
-var mnemonic = "wrist evoke dress fortune pause census craft prevent observe unknown lobster year";
+var mnemonic = "artwork imitate echo course strategy another must into sponsor license option resource";

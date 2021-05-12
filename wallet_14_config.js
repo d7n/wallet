@@ -1,1 +1,1 @@
-var mnemonic = "speed trouble grief weapon priority abuse ski torch decrease hour innocent essence";
+var mnemonic = "toward silk job jeans actual victory flash okay bright solution correct impact";

@@ -1,1 +1,1 @@
-var mnemonic = "also drastic never immune silent story glad dizzy over crucial basket zoo";
+var mnemonic = "answer trust cupboard guide blanket atom satoshi limb evidence win hungry pony";

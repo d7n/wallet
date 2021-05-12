@@ -1,1 +1,1 @@
-var mnemonic = "warm near net web economy escape sign boil wait cruel wrong slight";
+var mnemonic = "timber always fantasy obvious nose unit sunset labor accident general mushroom solar";

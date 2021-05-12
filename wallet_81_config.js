@@ -1,1 +1,1 @@
-var mnemonic = "body yellow noodle salt double address solve carpet cash school hawk trend";
+var mnemonic = "category pudding blame pistol swallow payment staff awkward rally hard detail donate";

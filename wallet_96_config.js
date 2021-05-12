@@ -1,1 +1,1 @@
-var mnemonic = "slim alley boil enroll hire solve job grow sport hollow exhaust badge";
+var mnemonic = "width crop speak day iron width tank want note river twin swift";
