@@ -1,1 +1,1 @@
-var mnemonic = "away check ten wall donor split trip desert canal then help ripple";
+var mnemonic = "various chronic middle census best armed weather clay across sugar vault mansion";

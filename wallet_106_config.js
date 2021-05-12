@@ -1,1 +1,1 @@
-var mnemonic = "awkward forest broken arrive elegant desert couch person used siren among question";
+var mnemonic = "afraid prevent time bamboo clog fee eight problem swear drama exotic actor";

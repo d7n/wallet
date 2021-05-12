@@ -1,1 +1,1 @@
-var mnemonic = "picture broom dutch shaft smart arrest head cycle envelope twice wrap news";
+var mnemonic = "tomorrow market tired priority fat drive palace kingdom decorate toast true claw";

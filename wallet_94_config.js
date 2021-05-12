@@ -1,1 +1,1 @@
-var mnemonic = "doctor glory finger opinion good city tissue cruise talent asthma actual deputy";
+var mnemonic = "insane will gorilla debate wife stock loud hungry explain spell pumpkin all";

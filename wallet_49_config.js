@@ -1,1 +1,1 @@
-var mnemonic = "connect gadget burden fit mixture improve motion body cheap echo olive problem";
+var mnemonic = "fire reunion country beauty rent bunker actress then swing tonight chaos evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "genius because spoon tennis time human child fork vacant pledge false present";
+var mnemonic = "leisure raise surround echo series where better candy produce upper youth loop";

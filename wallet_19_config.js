@@ -1,1 +1,1 @@
-var mnemonic = "link shallow quarter sponsor pretty boy stay cinnamon nose describe time common";
+var mnemonic = "drop viable thumb cake panda payment swing defense response host indoor salon";

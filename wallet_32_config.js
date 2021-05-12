@@ -1,1 +1,1 @@
-var mnemonic = "leader slide achieve banana firm property evoke idle camera adjust cause pledge";
+var mnemonic = "casual maple indicate lobster muffin bargain depart ask hidden place drama genre";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual manage paper inmate angle leave woman attract science seed pave rice";
+var mnemonic = "host alarm dirt put finish gallery voice follow month reason fat ill";

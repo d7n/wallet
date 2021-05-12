@@ -1,1 +1,1 @@
-var mnemonic = "gift kite race weather rice blood crowd isolate drum guitar cool castle";
+var mnemonic = "family walnut fringe snap ladder position order allow possible year shove quality";

@@ -1,1 +1,1 @@
-var mnemonic = "end expand biology motor seven modify plate pumpkin copy amount lounge assist";
+var mnemonic = "text board enlist ivory flash season direct useful train nominee inner tomato";

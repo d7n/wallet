@@ -1,1 +1,1 @@
-var mnemonic = "off alarm transfer oil adjust magic noise truly field solution dawn april";
+var mnemonic = "address album present grunt garden matter fade caught midnight damage camera throw";

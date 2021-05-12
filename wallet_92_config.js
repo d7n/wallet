@@ -1,1 +1,1 @@
-var mnemonic = "blanket bike artwork cloth fitness title amateur twice erosion nuclear say pattern";
+var mnemonic = "they young relief orchard pyramid black type oppose sheriff suggest nature talent";

@@ -1,1 +1,1 @@
-var mnemonic = "raven bean jaguar bring shield eyebrow fluid sphere erosion window divert spider";
+var mnemonic = "circle such crazy squeeze pause possible economy sound brown bottom olympic sweet";

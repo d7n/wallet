@@ -1,1 +1,1 @@
-var mnemonic = "corn inherit man spring unlock danger term coach humor split spy best";
+var mnemonic = "bargain skin orphan region lesson bright owner opera notice verb learn cover";

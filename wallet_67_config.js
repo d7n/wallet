@@ -1,1 +1,1 @@
-var mnemonic = "soccer fringe able canvas usual biology luxury market slush mask diagram similar";
+var mnemonic = "february pudding rescue question north series panda poem equip author scan powder";

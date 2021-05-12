@@ -1,1 +1,1 @@
-var mnemonic = "area suffer flat cross analyst insect guilt economy unusual behave clarify myself";
+var mnemonic = "lizard under prefer alarm silent valid culture embrace address hub paper old";

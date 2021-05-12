@@ -1,1 +1,1 @@
-var mnemonic = "curtain tourist crunch moment dish pole element blade gasp exit push leisure";
+var mnemonic = "extra saddle wave love alter indoor height have noise appear move pupil";

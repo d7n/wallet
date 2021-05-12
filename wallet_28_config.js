@@ -1,1 +1,1 @@
-var mnemonic = "business fringe use enable sure silent physical fence clump orbit escape stable";
+var mnemonic = "paddle sock ocean friend you section certain moon rabbit toe eyebrow identify";

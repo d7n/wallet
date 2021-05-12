@@ -1,1 +1,1 @@
-var mnemonic = "blade wrong mixture almost track denial obvious dirt fortune ski gesture enlist";
+var mnemonic = "blade stock edit about friend maze birth stand knife photo junk arctic";

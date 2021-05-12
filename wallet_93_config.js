@@ -1,1 +1,1 @@
-var mnemonic = "group fade leader sail fetch demand used skull mixture salon fog furnace";
+var mnemonic = "give drop bicycle fetch giant agree injury alarm kind draw employ regular";

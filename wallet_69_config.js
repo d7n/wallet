@@ -1,1 +1,1 @@
-var mnemonic = "awesome spider absent ecology high soccer wink secret retire genius purity response";
+var mnemonic = "into budget clay drink effort penalty imitate long sister token series scene";

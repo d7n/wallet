@@ -1,1 +1,1 @@
-var mnemonic = "sheriff lumber square race tissue battle genre ugly gloom art simple side";
+var mnemonic = "crime aware rocket dolphin world glove they rubber switch round lonely loud";

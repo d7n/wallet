@@ -1,1 +1,1 @@
-var mnemonic = "swing identify visit offer nerve rate hobby face select hood panda flat";
+var mnemonic = "crunch drill album drive sign apart galaxy scene perfect door attract square";

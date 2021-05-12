@@ -1,1 +1,1 @@
-var mnemonic = "permit online hospital flavor reason tell boil blossom pass price party already";
+var mnemonic = "trim lift much enrich flight sort scrub cage neglect napkin scare fetch";

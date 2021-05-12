@@ -1,1 +1,1 @@
-var mnemonic = "network ribbon pumpkin space wrist lawsuit mushroom rapid maid canyon effort raven";
+var mnemonic = "park refuse tackle airport brick mesh skirt crumble venture kite marble drink";

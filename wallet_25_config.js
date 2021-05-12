@@ -1,1 +1,1 @@
-var mnemonic = "pepper bar pledge good want caught member symbol inflict during wine danger";
+var mnemonic = "coyote earn table sponsor acid tomato bone turn boss fetch orbit ship";

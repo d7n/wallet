@@ -1,1 +1,1 @@
-var mnemonic = "gate weekend domain enhance dial soccer repair lake genius claim fog gold";
+var mnemonic = "practice husband era century silver lecture estate type split wrap sphere remove";

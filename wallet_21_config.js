@@ -1,1 +1,1 @@
-var mnemonic = "mouse satoshi trumpet duty lecture example donkey all push swarm arrow kidney";
+var mnemonic = "certain erase uniform tower mix illness soon warfare side general path derive";

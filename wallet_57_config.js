@@ -1,1 +1,1 @@
-var mnemonic = "chair garage cry dismiss scout ocean toss penalty music chest air account";
+var mnemonic = "online indicate affair work apology leaf fetch ankle shoulder basket chest actor";

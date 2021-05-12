@@ -1,1 +1,1 @@
-var mnemonic = "enhance turtle evolve gaze again habit robot merit clean when about suggest";
+var mnemonic = "company phone spoil weekend useful weasel nothing file start pen boost neither";

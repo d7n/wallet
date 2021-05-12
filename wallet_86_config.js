@@ -1,1 +1,1 @@
-var mnemonic = "wink ensure federal stage season outer near grief honey slow lounge shell";
+var mnemonic = "possible crisp cause force lobster alter spirit pledge garden maze youth scan";

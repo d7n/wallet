@@ -1,1 +1,1 @@
-var mnemonic = "gravity upgrade enter foam common wonder praise cruel true leader ready area";
+var mnemonic = "music baby whip vote indoor one title wheel danger into raven test";

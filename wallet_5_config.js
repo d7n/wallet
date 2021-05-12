@@ -1,1 +1,1 @@
-var mnemonic = "dwarf treat become author month ten organ muffin advance express song chef";
+var mnemonic = "merit neglect roof school bicycle book shift provide erosion clerk convince life";

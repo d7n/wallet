@@ -1,1 +1,1 @@
-var mnemonic = "spring mushroom wheel web inspire exclude vibrant strong cloth prison sphere cruise";
+var mnemonic = "season combine empty judge mango discover symbol drop book brick spin neutral";

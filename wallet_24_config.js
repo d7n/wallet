@@ -1,1 +1,1 @@
-var mnemonic = "script decide secret hybrid soda hour torch hawk dumb carry liquid acoustic";
+var mnemonic = "skull blast reject point night design tuition sight suspect rare clutch desk";

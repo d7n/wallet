@@ -1,1 +1,1 @@
-var mnemonic = "repair pledge thunder bundle obscure essence orchard enter citizen later liberty smooth";
+var mnemonic = "dismiss split zero brisk spare keep elephant aim bird dinosaur mobile security";

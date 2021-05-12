@@ -1,1 +1,1 @@
-var mnemonic = "pair essay copy bleak marriage benefit ability later fiction pistol ritual eagle";
+var mnemonic = "nest warm allow occur meadow also diet material expire cabin frog use";

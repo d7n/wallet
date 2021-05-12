@@ -1,1 +1,1 @@
-var mnemonic = "grief lucky enemy feel pizza siren depend friend father floor because unhappy";
+var mnemonic = "human come mean trial grid abuse trouble country grit draw volcano quit";

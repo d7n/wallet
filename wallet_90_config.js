@@ -1,1 +1,1 @@
-var mnemonic = "caught desert satoshi parent sample ghost tortoise aspect cake puzzle guitar loan";
+var mnemonic = "monkey man legend clap huge ship blade own write weekend drink dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "food blind doctor network fetch tomorrow scheme arrest goddess ginger hobby never";
+var mnemonic = "people exhibit spin occur fly firm season orphan garage equal bonus civil";

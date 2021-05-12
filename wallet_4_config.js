@@ -1,1 +1,1 @@
-var mnemonic = "salt width pet nurse shoot craft fragile barrel moon please tuna steel";
+var mnemonic = "inch enact post correct nut clump this home tower tone hub abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "group style obey record aspect soap glance job wild slight ladder pretty";
+var mnemonic = "cabbage hunt hint alter list agent portion spice swarm monkey jar box";

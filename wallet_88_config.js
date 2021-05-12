@@ -1,1 +1,1 @@
-var mnemonic = "apple suggest glare cage scan diet source cupboard era destroy hundred slight";
+var mnemonic = "job cabbage clever jealous sign volcano dose chief real spend traffic fortune";

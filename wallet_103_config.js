@@ -1,1 +1,1 @@
-var mnemonic = "repair tiger hurt entry fly twist margin spice core farm autumn quote";
+var mnemonic = "hint door capital mammal poet audit file over brisk absent merit style";

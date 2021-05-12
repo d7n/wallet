@@ -1,1 +1,1 @@
-var mnemonic = "sweet barrel tomato stereo exist add fade impact snap easy eager enemy";
+var mnemonic = "resource enrich dinner better genuine safe random theory vehicle material rotate bachelor";

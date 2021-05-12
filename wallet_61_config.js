@@ -1,1 +1,1 @@
-var mnemonic = "pitch problem reopen early dismiss coyote wealth endorse actual acquire save option";
+var mnemonic = "pigeon question horror tunnel gap hurt crisp bring wink repeat profit inject";

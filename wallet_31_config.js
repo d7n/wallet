@@ -1,1 +1,1 @@
-var mnemonic = "like year regular near print neutral drive puppy vague talk cool peasant";
+var mnemonic = "moral shoulder program swift pony audit hope warm plate latin grit token";

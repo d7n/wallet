@@ -1,1 +1,1 @@
-var mnemonic = "essence bench gallery festival risk armor gown collect anxiety math upon mean";
+var mnemonic = "stool divorce mammal weapon execute decorate planet scrub claw beef expose thank";

@@ -1,1 +1,1 @@
-var mnemonic = "tank release print case prevent pottery woman crush area story same casino";
+var mnemonic = "country furnace scissors awake honey double check donkey annual angry diagram amazing";

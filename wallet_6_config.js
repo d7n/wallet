@@ -1,1 +1,1 @@
-var mnemonic = "join raise online fantasy tank isolate dice dirt person unveil case catch";
+var mnemonic = "space outer ritual fat term champion dog nothing appear scissors diet ordinary";

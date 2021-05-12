@@ -1,1 +1,1 @@
-var mnemonic = "used potato gentle recycle burden host visa opera fragile isolate tree ride";
+var mnemonic = "volume render solve crawl nephew punch shy angry blouse diary rocket mango";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk pistol gold story police month antenna surface despair volume curtain among";
+var mnemonic = "spin run elite business glide carry access fire yard seed grid can";

@@ -1,1 +1,1 @@
-var mnemonic = "accident artist attract finish prosper write portion dignity doctor aunt acoustic put";
+var mnemonic = "leopard brain prevent impact armor damp upset universe bamboo taxi know enrich";

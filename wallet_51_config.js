@@ -1,1 +1,1 @@
-var mnemonic = "muscle essay oval toward high enjoy tomorrow purity era stone burst screen";
+var mnemonic = "improve library staff air hobby huge cycle citizen screen video team victory";

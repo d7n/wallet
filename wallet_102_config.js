@@ -1,1 +1,1 @@
-var mnemonic = "truck subway lazy pepper erupt worth consider become valid must shift private";
+var mnemonic = "upgrade tape client luggage calm hammer system other labor wild defense rocket";

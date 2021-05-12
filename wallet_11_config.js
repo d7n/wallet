@@ -1,1 +1,1 @@
-var mnemonic = "area eager jewel until wink spoon wisdom pitch twist ramp broom silk";
+var mnemonic = "own hurdle parrot laugh team year discover unlock today major miss raw";

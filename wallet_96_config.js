@@ -1,1 +1,1 @@
-var mnemonic = "sign hamster flush tree afford elevator clap science oil entry model flash";
+var mnemonic = "runway minute lake chimney flight obvious power evoke usage expire height dance";

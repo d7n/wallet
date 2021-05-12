@@ -1,1 +1,1 @@
-var mnemonic = "resist absurd depend walk sister wait eager hobby fever tourist room shine";
+var mnemonic = "net pole avocado pistol kingdom cancel nothing add enroll fish exotic limit";

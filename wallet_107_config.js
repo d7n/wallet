@@ -1,1 +1,1 @@
-var mnemonic = "evidence ostrich shoe nephew flower recycle wolf virtual joy express volcano lens";
+var mnemonic = "chest soda kitten kingdom grace uncle turn lesson kite razor promote security";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt fresh fork student front utility general frozen crush around idle copy";
+var mnemonic = "mushroom tiny legend physical face column devote baby vicious refuse easy garment";

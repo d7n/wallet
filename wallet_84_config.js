@@ -1,1 +1,1 @@
-var mnemonic = "guilt armor law delay cruise select mail relax crop leader indoor exile";
+var mnemonic = "pink liquid bounce industry myself virtual bridge lunar naive wheat solution lemon";

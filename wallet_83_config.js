@@ -1,1 +1,1 @@
-var mnemonic = "purpose govern raccoon dolphin desert horror fine link ocean wage taste subject";
+var mnemonic = "scan mountain sure story powder elite scale exercise party soft language museum";

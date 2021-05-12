@@ -1,1 +1,1 @@
-var mnemonic = "skill gas oval enact actual frog gown trumpet inherit top final issue";
+var mnemonic = "fatigue fatal good coffee stem long simple draft sample father equal frame";

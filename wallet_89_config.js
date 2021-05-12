@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur march stay tower chicken doctor combine brisk spring gun marriage ice";
+var mnemonic = "grant border fog toddler paper crew topple attract together degree mixed answer";

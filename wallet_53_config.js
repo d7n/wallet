@@ -1,1 +1,1 @@
-var mnemonic = "output slice affair misery ramp bar glimpse fantasy snow bronze heart clarify";
+var mnemonic = "weasel become license sentence leopard wash paddle clay tongue shop erosion unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy world airport weapon describe endorse discover off giggle number middle pause";
+var mnemonic = "attitude stool enact wrong neither enlist practice sort exhaust yellow excess earn";

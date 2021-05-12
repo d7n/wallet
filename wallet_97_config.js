@@ -1,1 +1,1 @@
-var mnemonic = "host suggest wedding sorry render silent side fun release fall elite wise";
+var mnemonic = "slow miss plunge ignore bachelor execute shield wire bunker prison reform guard";

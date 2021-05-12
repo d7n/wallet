@@ -1,1 +1,1 @@
-var mnemonic = "silver law swap filter receive pen drum human tree nothing banner denial";
+var mnemonic = "ring crater sight digital liar pool local nature seven spider draft never";

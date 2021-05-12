@@ -1,1 +1,1 @@
-var mnemonic = "edge train vendor copper cloth conduct rent day skirt cheap marriage can";
+var mnemonic = "half pause congress fog safe ostrich fix sugar regular tackle absurd action";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp nothing reward curious oyster basic differ grape sketch resemble vote palace";
+var mnemonic = "oyster thumb innocent twist alter claw chapter pyramid law clown aspect distance";

@@ -1,1 +1,1 @@
-var mnemonic = "library age goose ketchup neglect survey flock wash dentist clarify eternal laundry";
+var mnemonic = "dad reason turkey want soup swing scrap stairs skill castle large escape";

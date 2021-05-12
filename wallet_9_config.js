@@ -1,1 +1,1 @@
-var mnemonic = "pulp maid exercise bubble toast smart document smoke story scene sure clever";
+var mnemonic = "rebuild sudden acoustic upset document zero print notice once cabin fly knee";

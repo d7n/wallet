@@ -1,1 +1,1 @@
-var mnemonic = "test fashion jungle atom prepare depart climb invite six dog wisdom follow";
+var mnemonic = "often skate wheel embody animal tank marine foil happy insect depth waste";

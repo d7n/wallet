@@ -1,1 +1,1 @@
-var mnemonic = "expire any insect grunt stamp bless cabbage vehicle minute cousin derive ask";
+var mnemonic = "goddess drive sell fancy retire script crouch inject call grit exhibit wall";

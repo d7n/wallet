@@ -1,1 +1,1 @@
-var mnemonic = "include wife select brick ocean bid change display call atom deer jacket";
+var mnemonic = "thing edit wreck galaxy now boss design nominee library kid expand run";

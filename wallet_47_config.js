@@ -1,1 +1,1 @@
-var mnemonic = "pull remove swap unit tomorrow argue verify harsh render capable olympic bullet";
+var mnemonic = "warfare inflict plug shock wire manage tape input color tooth general diagram";

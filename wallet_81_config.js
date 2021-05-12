@@ -1,1 +1,1 @@
-var mnemonic = "ripple excite small upon artist reflect unable detail miracle frame mule van";
+var mnemonic = "raw crystal erupt spare happy kangaroo enemy arrest vacant spell dignity rich";

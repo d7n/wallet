@@ -1,1 +1,1 @@
-var mnemonic = "fatal depart error bachelor boost armor slide filter insane indicate shadow heavy";
+var mnemonic = "topple tray scorpion artwork shadow fire where spawn tail capital agent source";

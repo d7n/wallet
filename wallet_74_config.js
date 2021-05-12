@@ -1,1 +1,1 @@
-var mnemonic = "wrong potato blood horn axis loyal portion brave amazing spike chuckle juice";
+var mnemonic = "pistol odor nose grit mass use sleep acquire simple obvious critic input";

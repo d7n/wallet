@@ -1,1 +1,1 @@
-var mnemonic = "december elegant coil version sphere always chef okay syrup lumber obey twist";
+var mnemonic = "muscle cram company critic unlock file base olympic awkward cruel taxi hole";

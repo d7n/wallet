@@ -1,1 +1,1 @@
-var mnemonic = "mind lonely aisle patrol among fruit toilet stable shrimp auto sick shine";
+var mnemonic = "viable school choose disease fire crop equip miss shadow express book muscle";

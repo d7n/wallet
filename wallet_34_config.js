@@ -1,1 +1,1 @@
-var mnemonic = "always level shed enlist chimney beauty upon staff secret lamp number only";
+var mnemonic = "sorry settle essence retreat man course pioneer army tribe cinnamon fiction symptom";

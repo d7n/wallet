@@ -1,1 +1,1 @@
-var mnemonic = "effort wing immune year nasty cash ask style size hire place woman";
+var mnemonic = "sorry adult sustain melt west book blast tribe behave mad grain mom";

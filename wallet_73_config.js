@@ -1,1 +1,1 @@
-var mnemonic = "select tattoo bunker phone iron warfare hazard garage never buddy clarify survey";
+var mnemonic = "duck exotic hair sniff defy high antenna able bridge catch plug mouse";

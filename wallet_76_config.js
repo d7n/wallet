@@ -1,1 +1,1 @@
-var mnemonic = "window retire sausage spirit genius diesel picture gallery moral mule pause fit";
+var mnemonic = "solar include creek series involve gasp drum thumb solar jealous ball auto";

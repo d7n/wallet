@@ -1,1 +1,1 @@
-var mnemonic = "random enemy cup blood diesel actual ocean clump vivid world legend slogan";
+var mnemonic = "choose escape industry category swift dose time ripple laugh nose address brush";

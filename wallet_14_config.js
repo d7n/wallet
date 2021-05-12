@@ -1,1 +1,1 @@
-var mnemonic = "winter meat doll route arrive vault napkin uniform panda detect ride someone";
+var mnemonic = "correct neither margin transfer cigar hawk patrol level vague glide book save";

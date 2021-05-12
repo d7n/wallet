@@ -1,1 +1,1 @@
-var mnemonic = "acquire nephew wing grit wolf insane crunch burden chunk mixture picture useless";
+var mnemonic = "wreck stage soul tomato logic soft crouch there pulse duty farm polar";

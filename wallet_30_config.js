@@ -1,1 +1,1 @@
-var mnemonic = "gorilla recycle music adjust bone kite saddle clown choose put finger blouse";
+var mnemonic = "wedding piano farm gift staff drama couch eight inform topple three above";

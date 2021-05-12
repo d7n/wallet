@@ -1,1 +1,1 @@
-var mnemonic = "praise razor plug scene identify jaguar because clap electric luggage stick happy";
+var mnemonic = "educate near mixed common bacon voice cart simple ask because shoe country";
