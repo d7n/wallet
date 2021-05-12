@@ -1,1 +1,1 @@
-var mnemonic = "approve hundred case drill people produce another daring sustain boat bonus consider";
+var mnemonic = "coconut tornado accuse beef silver arrive season panther sketch rib client rich";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry inquiry task company update bonus put marriage earth face flock confirm";
+var mnemonic = "junior person mercy expose ready plug announce decorate buzz decide pyramid square";

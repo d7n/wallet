@@ -1,1 +1,1 @@
-var mnemonic = "payment erosion jungle cactus federal recycle minute ribbon occur movie coin best";
+var mnemonic = "wrist evoke dress fortune pause census craft prevent observe unknown lobster year";

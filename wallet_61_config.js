@@ -1,1 +1,1 @@
-var mnemonic = "lesson coil gallery sock about chalk afford risk address win column alone";
+var mnemonic = "deny marble mix visual early wear call promote donor sponsor afford misery";

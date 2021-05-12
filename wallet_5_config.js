@@ -1,1 +1,1 @@
-var mnemonic = "auto renew order naive trip problem edge pupil broom false flight regret";
+var mnemonic = "opinion off among conduct same canoe flash coffee camera parrot purchase stable";

@@ -1,1 +1,1 @@
-var mnemonic = "capital scan affair tree survey old lab pigeon shell zero attack drive";
+var mnemonic = "inquiry apart bubble plastic liar kit awake mandate below finish virus curious";

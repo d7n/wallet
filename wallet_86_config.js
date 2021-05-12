@@ -1,1 +1,1 @@
-var mnemonic = "globe economy fiction casual business tomato country warm cheese census enough fluid";
+var mnemonic = "year fence around travel wagon simple survey slot subject luggage style scrub";

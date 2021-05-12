@@ -1,1 +1,1 @@
-var mnemonic = "robot regret foam unveil negative evidence summer shaft stuff jelly cross robot";
+var mnemonic = "warm near net web economy escape sign boil wait cruel wrong slight";

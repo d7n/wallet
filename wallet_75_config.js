@@ -1,1 +1,1 @@
-var mnemonic = "sock load jaguar weasel this whale chief warrior turkey arch illegal book";
+var mnemonic = "patient toward lottery display poem push clog diagram escape myth magnet broom";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle model total hybrid giggle rural memory hundred area dash network nurse";
+var mnemonic = "amazing negative leg crew evil sand grant cluster enemy eternal order stay";

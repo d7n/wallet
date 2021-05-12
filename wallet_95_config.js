@@ -1,1 +1,1 @@
-var mnemonic = "bounce fault exile protect illness long relax hover cable elevator wagon lounge";
+var mnemonic = "feel rude price west valid response nuclear feature dream bullet result pyramid";

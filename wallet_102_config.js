@@ -1,1 +1,1 @@
-var mnemonic = "color rather valley swallow cheese rose symptom soldier inmate fever extend city";
+var mnemonic = "jelly unique air skill annual figure pet one material culture tiny fantasy";

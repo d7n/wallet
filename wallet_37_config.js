@@ -1,1 +1,1 @@
-var mnemonic = "floor mansion wagon need crew wonder simple melt hope useless lunch search";
+var mnemonic = "stick avoid poet monster drastic wash begin west rabbit forward brick wrist";

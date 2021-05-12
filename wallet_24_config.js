@@ -1,1 +1,1 @@
-var mnemonic = "deny music series fold boy welcome taste present census miracle slender coach";
+var mnemonic = "model metal rate risk jaguar trap planet prepare throw column myth dignity";

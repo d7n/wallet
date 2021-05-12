@@ -1,1 +1,1 @@
-var mnemonic = "spin column veteran door common soap know foil alone mother recipe innocent";
+var mnemonic = "law diesel valve dash sword ensure leader click desk giraffe air screen";

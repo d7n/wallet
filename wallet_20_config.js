@@ -1,1 +1,1 @@
-var mnemonic = "dutch casino man frost pond beef amazing present cram asthma meadow real";
+var mnemonic = "slam phrase roof divide off awful wrestle famous suggest exit step coil";

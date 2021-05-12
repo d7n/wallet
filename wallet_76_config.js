@@ -1,1 +1,1 @@
-var mnemonic = "liquid law supply learn habit retire wave bread weasel right ladder comic";
+var mnemonic = "also drastic never immune silent story glad dizzy over crucial basket zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "frog spin license kit vacuum together state proof glance indoor bundle desert";
+var mnemonic = "blind follow cage okay tongue silk belt shiver across erode rain noodle";

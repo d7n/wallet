@@ -1,1 +1,1 @@
-var mnemonic = "soccer tunnel short organ balcony century end pluck tenant invest steel high";
+var mnemonic = "lottery raise aware trash reveal bargain want various approve crop remain strike";

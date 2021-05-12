@@ -1,1 +1,1 @@
-var mnemonic = "ask various add lion pudding emotion extra later burden plug income destroy";
+var mnemonic = "animal topic awful cargo layer ring fit drip discover dinner gloom sweet";

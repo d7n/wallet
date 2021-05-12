@@ -1,1 +1,1 @@
-var mnemonic = "joke board parrot isolate imitate area pencil birth churn mistake used photo";
+var mnemonic = "royal sight physical poet garbage enlist release card jungle clutch dance saddle";

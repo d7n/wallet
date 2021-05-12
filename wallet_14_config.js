@@ -1,1 +1,1 @@
-var mnemonic = "begin task social film venture orbit question tilt thrive manage measure casual";
+var mnemonic = "speed trouble grief weapon priority abuse ski torch decrease hour innocent essence";

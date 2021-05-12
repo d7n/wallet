@@ -1,1 +1,1 @@
-var mnemonic = "guard shy click beyond document soft proud surround pave fantasy brisk doll";
+var mnemonic = "empower swallow envelope ozone reveal quantum unfold pepper nuclear electric right shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "silent stable pool jeans weather moon middle garage celery pool smart sport";
+var mnemonic = "match face anxiety misery easily maple curtain fun tube hockey wrap maze";

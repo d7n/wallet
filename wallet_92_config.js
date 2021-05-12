@@ -1,1 +1,1 @@
-var mnemonic = "skirt vibrant sting act option kick frost park fire prosper deposit maze";
+var mnemonic = "cancel eagle harvest neutral pact bread park track awful ecology cash draw";

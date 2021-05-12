@@ -1,1 +1,1 @@
-var mnemonic = "sample remove jelly crouch steak hub tiger cave this element when fine";
+var mnemonic = "escape limit hundred acquire young please choice foil giggle monitor intact stay";

@@ -1,1 +1,1 @@
-var mnemonic = "solve license foster hint pottery life atom ignore march innocent whip power";
+var mnemonic = "laundry loyal ticket chief next dry verb shoot flat spoon upon trouble";

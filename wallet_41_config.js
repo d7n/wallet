@@ -1,1 +1,1 @@
-var mnemonic = "organ sort fringe pelican smooth excuse detect cupboard saddle essay biology moment";
+var mnemonic = "century dish sting between ticket cigar leg cherry metal liberty exile month";

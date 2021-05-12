@@ -1,1 +1,1 @@
-var mnemonic = "world burst consider boil elder crumble caught planet primary ecology shoulder portion";
+var mnemonic = "install youth unusual unknown ignore lobster illness employ auction repair floor leg";

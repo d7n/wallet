@@ -1,1 +1,1 @@
-var mnemonic = "physical concert news help spider parrot connect sustain tube about fresh tomato";
+var mnemonic = "gate trust hurry craft filter clip glue pulp travel infant source because";

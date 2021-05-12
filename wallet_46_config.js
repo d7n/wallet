@@ -1,1 +1,1 @@
-var mnemonic = "merry turtle gown peace inspire boost field argue slogan snake point oppose";
+var mnemonic = "recall estate stairs decorate race voice shallow syrup worth acid hour enable";

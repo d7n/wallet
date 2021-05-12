@@ -1,1 +1,1 @@
-var mnemonic = "below culture code disease trade boat crater sound snow enough enemy jelly";
+var mnemonic = "stomach stairs pumpkin appear crisp move girl furnace hair prefer toddler jelly";

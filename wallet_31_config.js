@@ -1,1 +1,1 @@
-var mnemonic = "cement price insane engine industry lobster thank settle reward double arena chuckle";
+var mnemonic = "robot salmon enough loan lecture seminar multiply gentle elegant guide concert ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha dutch pig glow warm junior stereo ribbon biology fever bitter earth";
+var mnemonic = "burst gaze jazz gossip taste snap bird shock security sibling grab winner";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness anchor grow flavor hungry jealous fortune spoon gym dance gaze velvet";
+var mnemonic = "year adult teach absorb close nice someone flee arch tennis wheat kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "safe entire inherit veteran kind vivid ivory hurry escape rice viable curtain";
+var mnemonic = "surround room trumpet sight ordinary fashion tortoise shoe hazard sun execute nerve";

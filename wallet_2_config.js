@@ -1,1 +1,1 @@
-var mnemonic = "easily future soft sense return tank visa between alone fan rebuild solid";
+var mnemonic = "bargain vintage frog labor business cruel later ankle trade bulb nature mercy";

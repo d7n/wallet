@@ -1,1 +1,1 @@
-var mnemonic = "question direct like awake lobster diary original pencil uncover shrimp lumber breeze";
+var mnemonic = "alien swear today orphan upon father table cross focus math bus uncle";

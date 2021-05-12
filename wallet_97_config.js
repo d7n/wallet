@@ -1,1 +1,1 @@
-var mnemonic = "truth prepare shock talk judge say purity avocado keep medal minute fat";
+var mnemonic = "soft erosion cute outdoor bottom legend almost account flip mass below glow";

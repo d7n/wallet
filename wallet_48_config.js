@@ -1,1 +1,1 @@
-var mnemonic = "alley school three spike like limit twelve grocery process number napkin behave";
+var mnemonic = "crumble inhale seat length lift mutual correct prevent aisle awesome creek uncle";

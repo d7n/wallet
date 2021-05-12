@@ -1,1 +1,1 @@
-var mnemonic = "require swamp raw leisure disease work sentence hunt daughter afford furnace home";
+var mnemonic = "rude borrow into render mercy cargo ignore ethics weasel figure spy switch";

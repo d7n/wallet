@@ -1,1 +1,1 @@
-var mnemonic = "bean capital rabbit eyebrow decline throw grain prevent actual entry obey mango";
+var mnemonic = "design island beyond father gadget giraffe awkward only column vital traffic funny";

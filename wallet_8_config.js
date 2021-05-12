@@ -1,1 +1,1 @@
-var mnemonic = "quote convince chat alien dice improve sword section come coyote general guard";
+var mnemonic = "ivory boss weapon wasp chunk spatial dutch anxiety achieve destroy ketchup hover";

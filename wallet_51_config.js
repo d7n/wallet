@@ -1,1 +1,1 @@
-var mnemonic = "jar sibling month again favorite million village brain drastic magnet aunt adjust";
+var mnemonic = "office october episode churn screen arrow device click cook original orbit disorder";

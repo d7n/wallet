@@ -1,1 +1,1 @@
-var mnemonic = "tired desert smart airport route horn curtain brother transfer unable position meat";
+var mnemonic = "fit leopard length lunar measure key agree absurd advice first camp donkey";

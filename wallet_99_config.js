@@ -1,1 +1,1 @@
-var mnemonic = "scrap setup leaf million mixed defense shoulder entire task treat gallery orchard";
+var mnemonic = "false cool music seat plastic goose sphere filter tuna achieve wreck believe";

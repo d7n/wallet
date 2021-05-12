@@ -1,1 +1,1 @@
-var mnemonic = "mansion small ask face craft work book soup exhibit steel decade cash";
+var mnemonic = "portion flip renew rally hour wrong device control frown old speak govern";

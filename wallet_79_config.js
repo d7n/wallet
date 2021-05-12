@@ -1,1 +1,1 @@
-var mnemonic = "veteran tuition page screen culture figure hidden evil citizen predict crazy index";
+var mnemonic = "polar fade maximum business glimpse easy brick style chair scorpion rubber certain";

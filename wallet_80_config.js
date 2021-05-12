@@ -1,1 +1,1 @@
-var mnemonic = "fun liar aim galaxy trust fiscal mother memory heavy fringe surge tomato";
+var mnemonic = "crisp drama tourist toilet laundry broom two also recall nephew twelve away";

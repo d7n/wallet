@@ -1,1 +1,1 @@
-var mnemonic = "push praise salt icon burger require cruise hint slight enemy about turtle";
+var mnemonic = "pyramid enhance solution wet another keep area exotic pill banana abandon type";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce capital double height pride virus mountain brush host face street crew";
+var mnemonic = "exchange grit shift resource art need mountain buffalo neglect stadium divorce identify";

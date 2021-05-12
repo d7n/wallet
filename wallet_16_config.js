@@ -1,1 +1,1 @@
-var mnemonic = "parade guilt quarter rubber grit hospital toddler trash abstract lucky brave shiver";
+var mnemonic = "address sentence sea orchard hello vibrant federal circle taste coyote security cart";

@@ -1,1 +1,1 @@
-var mnemonic = "attack analyst problem execute enemy pluck peasant this forest piano off gift";
+var mnemonic = "shrug barrel gesture elephant blossom draft valve wrong spider pupil into bread";

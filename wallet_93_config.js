@@ -1,1 +1,1 @@
-var mnemonic = "survey grass grass parrot pioneer tray keep buyer grab hobby kiwi upset";
+var mnemonic = "leave hill auction wave hair humble consider original stumble bike once waste";

@@ -1,1 +1,1 @@
-var mnemonic = "double sugar sausage boost globe post rabbit tag youth hair image panda";
+var mnemonic = "sister slam choose lyrics property nest pass brass garbage nasty salad involve";

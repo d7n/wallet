@@ -1,1 +1,1 @@
-var mnemonic = "digital churn sample fancy smart sphere assault sphere order naive expect that";
+var mnemonic = "build rent traffic defense poet olympic replace uncover various siege property cactus";

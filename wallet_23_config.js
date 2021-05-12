@@ -1,1 +1,1 @@
-var mnemonic = "sick glimpse disagree teach pave raise initial tortoise gorilla creek paddle foot";
+var mnemonic = "rather raccoon parrot wine shiver sad visual dose cage also twist fine";

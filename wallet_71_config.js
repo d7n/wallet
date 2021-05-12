@@ -1,1 +1,1 @@
-var mnemonic = "timber lion grass panic tobacco slow gap goat cheese maze recipe result";
+var mnemonic = "public apology couple system ski stove scrub busy rack waste jaguar strong";

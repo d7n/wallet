@@ -1,1 +1,1 @@
-var mnemonic = "mother wonder hard bottom diagram gentle cancel street wedding crater clarify jeans";
+var mnemonic = "buyer shrimp bullet slab beauty moral weather slender cinnamon rude horror argue";

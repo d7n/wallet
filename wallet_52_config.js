@@ -1,1 +1,1 @@
-var mnemonic = "speed ordinary tool garden lake panda paper fresh wasp cabin clip also";
+var mnemonic = "level hawk quick rare tail sign valve develop admit side trend say";

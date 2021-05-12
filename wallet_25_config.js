@@ -1,1 +1,1 @@
-var mnemonic = "captain network theory answer suggest screen cereal play clever very wrap leisure";
+var mnemonic = "angry physical alert major census thumb snack nose grow bus keen sun";

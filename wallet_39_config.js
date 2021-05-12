@@ -1,1 +1,1 @@
-var mnemonic = "album unlock future borrow surface typical relax coffee plastic frequent leader autumn";
+var mnemonic = "divide obvious fall cash police major surprise asset velvet diary tone work";

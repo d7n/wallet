@@ -1,1 +1,1 @@
-var mnemonic = "vacuum nephew sword virus have cabin drop catalog gadget flavor step food";
+var mnemonic = "voice stand cram select donate swift jazz short table drum walk behave";

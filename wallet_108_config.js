@@ -1,1 +1,1 @@
-var mnemonic = "affair whisper slight human peace game limit right dilemma hurt found girl";
+var mnemonic = "twelve initial index father helmet false fluid ski permit spawn roast brass";

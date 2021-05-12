@@ -1,1 +1,1 @@
-var mnemonic = "cloth quote spray cloth found train believe helmet indicate weasel help retire";
+var mnemonic = "hawk marble over awake math slogan warfare police fashion boy tragic grass";

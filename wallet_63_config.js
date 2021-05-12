@@ -1,1 +1,1 @@
-var mnemonic = "scrap ecology tape decline super invest sunset autumn used warfare inject furnace";
+var mnemonic = "siren rent banner economy outer duty predict game dry scale result miracle";

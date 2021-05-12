@@ -1,1 +1,1 @@
-var mnemonic = "wood barrel task forest wrap cover inject pull unknown frost cloud recall";
+var mnemonic = "source voyage wrist power drop fringe switch riot print heart add today";

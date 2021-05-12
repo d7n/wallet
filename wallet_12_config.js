@@ -1,1 +1,1 @@
-var mnemonic = "crystal inmate draw love flip nurse empty butter anger assume unique guilt";
+var mnemonic = "book prison response layer lobster eyebrow bird amount buffalo language broom zone";

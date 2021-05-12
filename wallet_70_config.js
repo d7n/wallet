@@ -1,1 +1,1 @@
-var mnemonic = "impact shrug jacket inform lady swallow elbow swamp coil direct pass gossip";
+var mnemonic = "high coach save legal boil plunge essence poem skate devote rebuild cricket";

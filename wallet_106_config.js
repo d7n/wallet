@@ -1,1 +1,1 @@
-var mnemonic = "practice car size meat apple family reflect denial ring travel size vendor";
+var mnemonic = "inmate pole grow soda second link flush quantum more crumble bomb noble";

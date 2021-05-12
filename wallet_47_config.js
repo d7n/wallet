@@ -1,1 +1,1 @@
-var mnemonic = "kick find desert monster rocket jacket occur credit idea divide blossom coral";
+var mnemonic = "donate early crop mammal prefer family knock ship drive eight level jaguar";

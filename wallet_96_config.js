@@ -1,1 +1,1 @@
-var mnemonic = "inmate accuse duty unique bring ill dutch indoor access twice dizzy explain";
+var mnemonic = "slim alley boil enroll hire solve job grow sport hollow exhaust badge";

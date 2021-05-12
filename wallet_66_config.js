@@ -1,1 +1,1 @@
-var mnemonic = "deputy wheat lava kiss sudden together vicious sketch poem swallow dutch hero";
+var mnemonic = "best wear sustain spell lift federal solution betray mystery sugar almost erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "ball net pair night napkin bubble park force cup fee confirm perfect";
+var mnemonic = "code inform luggage kangaroo deal silver steel armor share fever slow parrot";

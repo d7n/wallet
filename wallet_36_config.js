@@ -1,1 +1,1 @@
-var mnemonic = "turn fossil cattle faith dragon limb tower spirit awesome myself affair fault";
+var mnemonic = "feed evolve office excite mandate humor often valve trade dwarf cloud poem";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster city paddle decorate become clap spike throw emotion thought butter cluster";
+var mnemonic = "half lesson goddess envelope rhythm federal gesture tunnel today tribe glass miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "employ bind always grace rookie broken rail work purity hybrid draft robot";
+var mnemonic = "basket remind video march alpha armor govern open march orange chimney ugly";

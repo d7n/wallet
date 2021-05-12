@@ -1,1 +1,1 @@
-var mnemonic = "alley wonder other mechanic paper impact zone pink shaft soft capable side";
+var mnemonic = "error simple author trim equip check harbor east fame mixture retreat dumb";

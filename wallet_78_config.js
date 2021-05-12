@@ -1,1 +1,1 @@
-var mnemonic = "unit interest antenna dizzy laundry obvious shallow open pen neither unique enrich";
+var mnemonic = "decrease cool wing hold learn vehicle rally fit virtual keep whip kiwi";

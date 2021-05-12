@@ -1,1 +1,1 @@
-var mnemonic = "grant canoe armor speak napkin cluster menu talk bottom divide leaf choose";
+var mnemonic = "escape faculty cool phrase cactus aspect glance fee satisfy hole lion humble";

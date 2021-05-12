@@ -1,1 +1,1 @@
-var mnemonic = "plunge west fit hold parade scan feed correct input giant disorder chicken";
+var mnemonic = "minute budget bulk river nest sorry pill essay garlic early silly hamster";

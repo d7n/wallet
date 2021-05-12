@@ -1,1 +1,1 @@
-var mnemonic = "blast hawk adapt rhythm speed ride cage surge undo like bid shallow";
+var mnemonic = "immune kiss used runway panic nest circle punch animal profit soap nose";

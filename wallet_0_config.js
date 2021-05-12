@@ -1,1 +1,1 @@
-var mnemonic = "original clerk snake phone business poem heavy avocado cool twenty immense ordinary";
+var mnemonic = "ugly skirt secret pet group lunch raven just that build attend matter";

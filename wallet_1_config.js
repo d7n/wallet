@@ -1,1 +1,1 @@
-var mnemonic = "ceiling fold leader daring dry group scrub finish mercy foster little bounce";
+var mnemonic = "woman picnic rain unusual stool swamp easily breeze daughter seed frog medal";

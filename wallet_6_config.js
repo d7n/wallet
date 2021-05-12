@@ -1,1 +1,1 @@
-var mnemonic = "enable abuse harsh evoke cotton awesome coil truth author soon crouch edit";
+var mnemonic = "rival fragile excite steel super fashion control quote sustain term raise valve";

@@ -1,1 +1,1 @@
-var mnemonic = "picture denial history much special robot van wonder else casual sponsor depend";
+var mnemonic = "rail chaos cherry sauce wheel win actress tuna sniff carbon price tone";

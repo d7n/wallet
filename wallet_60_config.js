@@ -1,1 +1,1 @@
-var mnemonic = "want filter total energy wrong rib lady agree wait desk follow prepare";
+var mnemonic = "script that dizzy slogan arrow marine gift banner staff short silent state";
