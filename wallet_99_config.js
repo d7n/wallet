@@ -1,1 +1,1 @@
-var mnemonic = "army front goat electric once holiday limb soda gas scatter grant client";
+var mnemonic = "yellow round discover sight cloud come useful stairs mouse song pencil design";

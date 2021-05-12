@@ -1,1 +1,1 @@
-var mnemonic = "icon asset enrich allow ostrich rebel avocado scare antique gossip grab country";
+var mnemonic = "solid topple vicious dust arch interest squirrel good repeat side silent farm";

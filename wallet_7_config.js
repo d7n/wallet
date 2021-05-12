@@ -1,1 +1,1 @@
-var mnemonic = "teach foot crowd fitness pioneer tackle toy donkey pilot decorate wealth action";
+var mnemonic = "assault keen shiver congress brush excite video winner inch dinner finish hood";

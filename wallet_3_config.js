@@ -1,1 +1,1 @@
-var mnemonic = "wealth girl produce garden glory casual match output damage spring regular chef";
+var mnemonic = "mass unfair stomach despair small caught reopen recall frequent plug vicious space";

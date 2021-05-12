@@ -1,1 +1,1 @@
-var mnemonic = "opinion reduce nation trip film average chalk stomach comfort stuff ring solar";
+var mnemonic = "cement excite clip dinner recipe elder profit amused zero side hobby agent";

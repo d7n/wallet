@@ -1,1 +1,1 @@
-var mnemonic = "pipe window blush almost exercise tattoo trick birth rabbit sock harbor frozen";
+var mnemonic = "enact stool rhythm mouse produce own father vacant life twin satoshi axis";

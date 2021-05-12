@@ -1,1 +1,1 @@
-var mnemonic = "buzz blur vapor flag drama math canyon circle add come spend surface";
+var mnemonic = "urban youth verb accuse rude alley slim body shrimp faint describe reopen";

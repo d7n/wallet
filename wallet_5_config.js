@@ -1,1 +1,1 @@
-var mnemonic = "easy flock jazz empower hat antenna snow giggle nature obtain scene account";
+var mnemonic = "school pet bulb dance chair siege clever lucky riot surge fix sell";

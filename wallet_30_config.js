@@ -1,1 +1,1 @@
-var mnemonic = "airport truth retreat scatter life bird skate caution amount payment chase web";
+var mnemonic = "bamboo network family critic lamp repeat fashion ability still cruel action crane";

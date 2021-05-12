@@ -1,1 +1,1 @@
-var mnemonic = "patrol relief help motor gun search hunt ticket boost sustain rule fit";
+var mnemonic = "submit become quote local prosper drink switch inhale fabric artist maximum symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange great brave live verb simple vote jelly repair discover sing primary";
+var mnemonic = "ketchup toast still grace bounce picnic comic limb top logic eagle loop";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin poem chronic expand grab bean repair announce crack balcony slim venue";
+var mnemonic = "chat suspect metal rug maple actual abandon agent medal shoe omit bulb";

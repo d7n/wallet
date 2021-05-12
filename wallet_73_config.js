@@ -1,1 +1,1 @@
-var mnemonic = "inspire plunge drill suffer sausage lunar blue mouse inherit unlock amazing account";
+var mnemonic = "broccoli still alpha age cigar sock spirit brief region fold gorilla crack";

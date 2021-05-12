@@ -1,1 +1,1 @@
-var mnemonic = "ankle surface please deer antenna ritual brown gate witness menu alter general";
+var mnemonic = "sustain animal salmon room uphold scrap mechanic assist swing panel olympic model";

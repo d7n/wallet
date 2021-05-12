@@ -1,1 +1,1 @@
-var mnemonic = "canoe broken motion tackle bright castle viable ritual legal quarter retire conduct";
+var mnemonic = "asthma trip require list position share top double episode combine observe salmon";

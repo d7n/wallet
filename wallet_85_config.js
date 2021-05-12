@@ -1,1 +1,1 @@
-var mnemonic = "sword odor table cool shed despair race enjoy vague interest plastic bird";
+var mnemonic = "ticket october guide shove brisk clean width embark pride left vapor mention";

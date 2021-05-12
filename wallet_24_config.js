@@ -1,1 +1,1 @@
-var mnemonic = "van wolf neglect make ability grit unhappy second say hire blouse shoulder";
+var mnemonic = "alert silk truck hood absorb parade case wing mansion unlock pig jealous";

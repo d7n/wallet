@@ -1,1 +1,1 @@
-var mnemonic = "winner olympic fun find predict torch bubble region actress infant sword almost";
+var mnemonic = "seek cave hollow frame media among aware rebel alter message right fragile";

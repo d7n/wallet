@@ -1,1 +1,1 @@
-var mnemonic = "fringe skull rotate dog barrel focus display elephant alpha despair year enhance";
+var mnemonic = "wash answer element stock village happy advance regular budget display horror affair";

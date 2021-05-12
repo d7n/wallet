@@ -1,1 +1,1 @@
-var mnemonic = "stamp reason found firm theme struggle unveil paddle render finish flag wink";
+var mnemonic = "damage spot emotion roof salt aware anger whale shoot despair bunker call";

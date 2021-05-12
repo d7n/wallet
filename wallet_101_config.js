@@ -1,1 +1,1 @@
-var mnemonic = "extend apology put deer measure proud chicken remind shoe because sphere despair";
+var mnemonic = "derive panic gym imitate near race giant evil alarm limit flip book";

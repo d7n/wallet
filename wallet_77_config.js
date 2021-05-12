@@ -1,1 +1,1 @@
-var mnemonic = "negative cost hill wasp neutral piece garment forget ridge improve vague honey";
+var mnemonic = "dune grief bag double order figure all equal seven lucky urban cable";

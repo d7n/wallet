@@ -1,1 +1,1 @@
-var mnemonic = "language pink wrong kite retreat board tube search door pumpkin scare defense";
+var mnemonic = "grief arrive humor stove little aisle century siege cream art behind ranch";

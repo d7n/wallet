@@ -1,1 +1,1 @@
-var mnemonic = "illegal suffer alpha toy regular much gorilla marriage addict wood cradle okay";
+var mnemonic = "negative venue want fine tank unusual champion ocean describe sister where brown";

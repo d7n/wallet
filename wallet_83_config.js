@@ -1,1 +1,1 @@
-var mnemonic = "route burst copper retire educate shrimp surge powder nurse sunny owner marine";
+var mnemonic = "surround load eager shine filter foot physical return blue fever shy champion";

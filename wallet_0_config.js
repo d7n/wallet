@@ -1,1 +1,1 @@
-var mnemonic = "have latin depend era boat sadness secret innocent they border violin unable";
+var mnemonic = "winner truth art shield eye dove pause convince surprise best auto payment";

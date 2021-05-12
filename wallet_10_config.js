@@ -1,1 +1,1 @@
-var mnemonic = "deer enforce company unable fun doctor spirit plug urban make buzz bleak";
+var mnemonic = "dream option noise sea crime spot mixed accuse ginger loan pulp raise";

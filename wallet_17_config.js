@@ -1,1 +1,1 @@
-var mnemonic = "hill usage grief snap learn rescue donkey cradle damp taxi entire double";
+var mnemonic = "tongue priority rough mountain practice coffee height prefer tuition fetch whisper cloth";

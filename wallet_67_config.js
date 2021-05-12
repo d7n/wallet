@@ -1,1 +1,1 @@
-var mnemonic = "cannon lab taxi capable weird spray autumn science excuse march stock zebra";
+var mnemonic = "visit version chaos seminar travel wish turn eternal spider basic leg green";

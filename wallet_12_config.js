@@ -1,1 +1,1 @@
-var mnemonic = "music parade ensure album valid picnic ask survey wool trouble gun amateur";
+var mnemonic = "expect puppy law snake joy party million faint fabric below pistol siege";

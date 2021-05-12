@@ -1,1 +1,1 @@
-var mnemonic = "what local grape dove swallow mosquito employ pig hungry abandon knock reopen";
+var mnemonic = "plunge gather immense elegant across strategy wisdom cook palace present leave win";

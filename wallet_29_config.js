@@ -1,1 +1,1 @@
-var mnemonic = "school torch defense option live hurdle engage toddler circle horror orient arena";
+var mnemonic = "best spice spice gauge slogan current inhale cube celery symptom excite system";

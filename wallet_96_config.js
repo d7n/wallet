@@ -1,1 +1,1 @@
-var mnemonic = "innocent trouble master race submit pact tool sorry odor someone become scorpion";
+var mnemonic = "diary slide other album energy mix pair cheese loop stomach flat fly";

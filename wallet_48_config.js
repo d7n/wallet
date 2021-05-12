@@ -1,1 +1,1 @@
-var mnemonic = "mountain blind sentence sibling surge endless world coffee surface wage wolf dish";
+var mnemonic = "legal diesel green decide tomorrow equip awkward urban area adult during wrong";

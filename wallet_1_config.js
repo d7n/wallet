@@ -1,1 +1,1 @@
-var mnemonic = "eternal motor crime pull tunnel sound grace stove belt wisdom warm hello";
+var mnemonic = "walk wild hotel yellow code diet pig canvas coil glass brave market";

@@ -1,1 +1,1 @@
-var mnemonic = "assume goddess cattle crater hint chronic flight extra chunk guitar hip dizzy";
+var mnemonic = "hurdle tape illness audit pilot tortoise trip wisdom misery badge right palace";

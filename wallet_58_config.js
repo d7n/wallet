@@ -1,1 +1,1 @@
-var mnemonic = "shell claw plate case water popular apple sell fitness design pattern life";
+var mnemonic = "stand advance believe donate try human gasp mosquito parrot talk amateur wage";

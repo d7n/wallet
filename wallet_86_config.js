@@ -1,1 +1,1 @@
-var mnemonic = "expand best subject region happy raw reduce affair swarm salt square other";
+var mnemonic = "fan kiss vital neglect fringe popular laundry muscle knock allow material fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "jump orphan response present expire become quarter master pact mask extend loyal";
+var mnemonic = "copy phrase pool borrow solar ecology pistol top secret core please blouse";

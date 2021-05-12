@@ -1,1 +1,1 @@
-var mnemonic = "forum entire spice tenant clown mixed push cousin budget retire album wedding";
+var mnemonic = "lazy vessel island other forest proof flower custom outdoor save glare proud";

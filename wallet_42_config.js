@@ -1,1 +1,1 @@
-var mnemonic = "thrive coconut sustain before impact toe aim rent february unusual circle biology";
+var mnemonic = "over impact gap issue glimpse faith teach able eagle claw heart mind";

@@ -1,1 +1,1 @@
-var mnemonic = "giant call bring found hurdle moral term private exit various clown bring";
+var mnemonic = "move chalk syrup position erosion wage hard hold alpha beauty multiply punch";

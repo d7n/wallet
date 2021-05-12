@@ -1,1 +1,1 @@
-var mnemonic = "art lend idea green extend antique into proud grant prosper exclude tiger";
+var mnemonic = "swift space potato job wasp skill key capable game own neutral festival";

@@ -1,1 +1,1 @@
-var mnemonic = "say vast fame mutual slender desert picnic ribbon pottery spawn black leaf";
+var mnemonic = "dust short gauge window ahead census sheriff shine cost private rural gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "pride guide crucial ensure rude crop life crawl equip joy apology abuse";
+var mnemonic = "turkey empty eye reunion scan decorate ugly concert cushion salute wear decide";

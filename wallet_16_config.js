@@ -1,1 +1,1 @@
-var mnemonic = "lend manual bonus trash moment tuition version story forget range hello field";
+var mnemonic = "say acid exact cart meat talent copy athlete script manage satisfy awful";

@@ -1,1 +1,1 @@
-var mnemonic = "feature patch slim pottery canvas gym space pottery analyst fantasy novel pluck";
+var mnemonic = "level together common bundle marriage until emotion meat spring choose lens typical";

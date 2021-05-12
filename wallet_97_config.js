@@ -1,1 +1,1 @@
-var mnemonic = "reopen good roof situate lab creek pumpkin stove tornado giant ice loyal";
+var mnemonic = "clean hard armor various prison west hello undo leave unit humor fog";

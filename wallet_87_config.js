@@ -1,1 +1,1 @@
-var mnemonic = "mixture blouse two shell flower derive brick snap swamp fit prevent shoot";
+var mnemonic = "silver owner debris task unit enter exit tumble tool assist kangaroo sample";

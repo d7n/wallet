@@ -1,1 +1,1 @@
-var mnemonic = "subject venture mosquito very board during evolve scissors arrest gather loan lounge";
+var mnemonic = "choice embody ridge kiss primary gesture misery remind head avoid alpha tribe";

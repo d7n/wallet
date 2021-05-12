@@ -1,1 +1,1 @@
-var mnemonic = "quiz pottery camp have pluck bus unlock patient table best someone trip";
+var mnemonic = "candy daughter click grocery worry olive exact material torch guess pool erosion";

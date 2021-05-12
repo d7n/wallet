@@ -1,1 +1,1 @@
-var mnemonic = "claim artefact brave bird choose invest someone crater surface jacket destroy stove";
+var mnemonic = "bunker kitchen vibrant movie describe unlock prize board special bounce month mammal";

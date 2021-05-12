@@ -1,1 +1,1 @@
-var mnemonic = "immense wool make improve pole mask stumble empower tennis toe jaguar balance";
+var mnemonic = "mobile museum chimney swarm mean draft way congress lift pretty upgrade gather";

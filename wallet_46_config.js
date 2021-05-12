@@ -1,1 +1,1 @@
-var mnemonic = "month pluck gesture apart deal critic riot goose pulse chest average rib";
+var mnemonic = "above march reflect swallow spirit ring charge measure learn coil hood milk";

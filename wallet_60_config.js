@@ -1,1 +1,1 @@
-var mnemonic = "denial chase clay hole kidney rubber eagle laptop must rotate all whisper";
+var mnemonic = "eye pet rug victory job leader connect aerobic boat six dumb grab";

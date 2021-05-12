@@ -1,1 +1,1 @@
-var mnemonic = "destroy base route job magic cycle crunch squirrel employ rug include clutch";
+var mnemonic = "transfer forest birth doll amused rich forum endorse canoe powder advice park";

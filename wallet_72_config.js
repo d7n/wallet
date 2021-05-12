@@ -1,1 +1,1 @@
-var mnemonic = "calm whale amateur curious flush daring family brief guitar truly book filter";
+var mnemonic = "push fortune tilt all pretty ancient connect young under illness uncle farm";

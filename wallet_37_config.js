@@ -1,1 +1,1 @@
-var mnemonic = "index waste win quality custom cook swamp kangaroo fringe forward erosion library";
+var mnemonic = "brother subway witness follow news veteran fine find relax input blush position";

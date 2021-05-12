@@ -1,1 +1,1 @@
-var mnemonic = "nasty record tourist agent local program fall regret nasty siren dinosaur issue";
+var mnemonic = "very season mule popular session anger loan gallery motion trophy depend menu";

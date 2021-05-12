@@ -1,1 +1,1 @@
-var mnemonic = "olive cinnamon turn race gossip dragon step desk dance jewel chronic patient";
+var mnemonic = "clerk render suffer donkey ramp unaware kidney retreat swamp mix clerk borrow";

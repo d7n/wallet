@@ -1,1 +1,1 @@
-var mnemonic = "planet daughter slow iron case hood eagle suggest twenty scrub crystal priority";
+var mnemonic = "side rule lend swift nut crew flip quantum once marble perfect squirrel";

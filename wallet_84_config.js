@@ -1,1 +1,1 @@
-var mnemonic = "fall will garment moral stairs desk nurse pistol chest velvet border lobster";
+var mnemonic = "else naive warm spray wall stable pattern credit dash enforce monkey organ";

@@ -1,1 +1,1 @@
-var mnemonic = "dust tunnel true letter fiction cupboard entire rice chalk ball clog view";
+var mnemonic = "child soup satoshi social shiver enact nut unveil alpha weapon erase wide";

@@ -1,1 +1,1 @@
-var mnemonic = "movie impulse what camera essay joy grow submit gadget ethics worry edit";
+var mnemonic = "crumble hint tomorrow joke hope naive shop burden rude slush meadow final";

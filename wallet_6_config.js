@@ -1,1 +1,1 @@
-var mnemonic = "secret capable dad include sponsor lens juice enjoy light online tent sock";
+var mnemonic = "forward cancel tired eager lizard south vocal marine deny organ twin start";

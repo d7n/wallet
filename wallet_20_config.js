@@ -1,1 +1,1 @@
-var mnemonic = "melody zero action rule fiction enrich raw brisk inquiry response surprise price";
+var mnemonic = "clock fee genre concert alone label still coin live length normal update";

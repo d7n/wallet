@@ -1,1 +1,1 @@
-var mnemonic = "figure voyage hospital because bean anchor west blind improve amused open moon";
+var mnemonic = "bring visit reform organ sting foster congress boil charge bus tenant sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase change vault must warfare example surface usual super slab give round";
+var mnemonic = "treat entire crater wheel rain unusual pioneer repair fiction bring food bone";

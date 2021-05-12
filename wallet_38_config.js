@@ -1,1 +1,1 @@
-var mnemonic = "hospital similar weekend roast swing primary zebra blossom weasel mimic head owner";
+var mnemonic = "gentle prize lonely mad humble gun tilt embody away snow detail wave";

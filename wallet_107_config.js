@@ -1,1 +1,1 @@
-var mnemonic = "rocket midnight wolf expire holiday wash owner rapid wine happy spoil judge";
+var mnemonic = "insect silent language wrist ready update pass flower eight kiwi moment program";

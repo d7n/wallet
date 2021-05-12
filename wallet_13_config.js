@@ -1,1 +1,1 @@
-var mnemonic = "purpose trip sadness hat all patch develop tackle medal carry shell eternal";
+var mnemonic = "voice gaze minor alone anger rent poet spoil slice word control guard";

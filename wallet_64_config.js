@@ -1,1 +1,1 @@
-var mnemonic = "race deal catalog chalk heart busy crazy answer more scene ensure earth";
+var mnemonic = "resist kick ridge world inflict kind trophy mad clip ask credit ankle";

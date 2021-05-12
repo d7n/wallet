@@ -1,1 +1,1 @@
-var mnemonic = "catch color drop buzz jelly clarify pulse display budget goddess teach parade";
+var mnemonic = "flee wedding tag neutral swamp congress turtle price sun exhaust wise cannon";

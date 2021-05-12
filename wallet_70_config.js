@@ -1,1 +1,1 @@
-var mnemonic = "twist kangaroo wonder tree party suffer notable logic slide volume dune hollow";
+var mnemonic = "veteran soup winter color climb swear bomb leader sunny have orient record";

@@ -1,1 +1,1 @@
-var mnemonic = "palace month inflict pizza below oppose broken country exclude spring annual quantum";
+var mnemonic = "brave guide bike web unit relax avoid office bright analyst execute mammal";

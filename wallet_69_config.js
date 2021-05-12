@@ -1,1 +1,1 @@
-var mnemonic = "nest loop fatigue office traffic symptom arch own episode grain transfer oak";
+var mnemonic = "lady chimney silly ecology tissue drill vibrant cricket vague smile floor fog";

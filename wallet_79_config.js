@@ -1,1 +1,1 @@
-var mnemonic = "cruise mixture deny jewel rival worry deliver police month turkey barely beach";
+var mnemonic = "expire erase patrol glory ill round enemy office word snack blur garden";

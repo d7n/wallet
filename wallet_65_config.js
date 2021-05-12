@@ -1,1 +1,1 @@
-var mnemonic = "latin hobby card pole gun fantasy cute problem frame timber address drastic";
+var mnemonic = "box skirt public crazy sound peace swarm nephew report donor phone cave";

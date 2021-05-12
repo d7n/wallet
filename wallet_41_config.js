@@ -1,1 +1,1 @@
-var mnemonic = "bachelor monkey bronze limit owner section damage crumble more gas inner forward";
+var mnemonic = "menu tumble output air hundred marble tray evil coil remember save avocado";

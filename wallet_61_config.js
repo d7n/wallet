@@ -1,1 +1,1 @@
-var mnemonic = "reunion crime phrase barrel share snake issue survey follow reason devote junk";
+var mnemonic = "reveal film keen truly silver canal sock mosquito horror jacket car tenant";

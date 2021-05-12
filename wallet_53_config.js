@@ -1,1 +1,1 @@
-var mnemonic = "agent vacuum still loud time opinion river kiss someone love airport saddle";
+var mnemonic = "puzzle artist donor lonely history swamp disagree sphere airport airport book isolate";

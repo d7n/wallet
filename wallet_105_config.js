@@ -1,1 +1,1 @@
-var mnemonic = "photo admit lady digital easily fix skull fold lazy hold supply census";
+var mnemonic = "side gauge day turkey enough impact potato range enemy pull romance artist";

@@ -1,1 +1,1 @@
-var mnemonic = "step siege tool friend absorb live pyramid guide segment engine metal slush";
+var mnemonic = "until pyramid room theme jealous hammer nominee repeat lift priority unique sweet";

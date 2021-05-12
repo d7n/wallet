@@ -1,1 +1,1 @@
-var mnemonic = "major buzz utility flight creek manage subject record sunset wide bird fog";
+var mnemonic = "vault ride betray tornado during island tide chair ostrich judge raw razor";

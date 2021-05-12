@@ -1,1 +1,1 @@
-var mnemonic = "uncle toy odor notice loop stone able decorate banner balance camera sample";
+var mnemonic = "cool debris under try family grab much pilot neutral attract side depart";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic august raw smooth scatter snap label risk betray artefact initial space";
+var mnemonic = "blouse misery ketchup book rigid cement choose final palm verb lucky ugly";

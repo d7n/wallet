@@ -1,1 +1,1 @@
-var mnemonic = "buzz rival useless siren elder deer police option cram movie dog transfer";
+var mnemonic = "february treat olive soap staff supreme prevent base song gather middle abandon";

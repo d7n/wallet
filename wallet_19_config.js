@@ -1,1 +1,1 @@
-var mnemonic = "glance spread edit cake eagle merge badge menu wrestle other level huge";
+var mnemonic = "provide split taxi canoe fresh palm key sell giant long entry example";
