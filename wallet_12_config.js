@@ -1,1 +1,1 @@
-var mnemonic = "lazy put riot loyal advice gun rib avoid typical tunnel truck garment";
+var mnemonic = "immense major chef six about social reform elephant one actual metal timber";

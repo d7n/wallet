@@ -1,1 +1,1 @@
-var mnemonic = "curious soon own foil guess assume enjoy rack tooth bean blush learn";
+var mnemonic = "dragon execute sell upper hard bachelor rich jealous prefer goat taxi north";

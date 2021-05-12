@@ -1,1 +1,1 @@
-var mnemonic = "wet devote minimum rubber material alcohol virus blush tone slow dish enable";
+var mnemonic = "fame brother marriage depth then another quick stand solution fiscal disease vapor";

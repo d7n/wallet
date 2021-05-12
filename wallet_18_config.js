@@ -1,1 +1,1 @@
-var mnemonic = "joke food clever turn arrive then swift celery zebra violin purpose cave";
+var mnemonic = "age toast electric vital camp daring toast tube bleak soccer evolve album";

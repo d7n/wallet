@@ -1,1 +1,1 @@
-var mnemonic = "transfer cheese trap cluster tree stand produce thank grace lunch physical cherry";
+var mnemonic = "noble process cancel bar three corn salon enhance letter grace orient kind";

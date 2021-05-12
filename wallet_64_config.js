@@ -1,1 +1,1 @@
-var mnemonic = "razor beyond absorb word autumn sponsor degree wonder concert any later drastic";
+var mnemonic = "brush issue mimic reunion bunker pause marble pupil bridge lab roast lava";

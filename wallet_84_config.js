@@ -1,1 +1,1 @@
-var mnemonic = "upon amateur pencil woman junior trap cattle deny enact refuse traffic link";
+var mnemonic = "clap toss enjoy vague hurt trumpet casino ivory trust split million zero";

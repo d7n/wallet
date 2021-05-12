@@ -1,1 +1,1 @@
-var mnemonic = "strong tiger sun effort code come kit portion rely share dirt other";
+var mnemonic = "place lady spend suffer forum seminar afraid fantasy wonder cube horror turkey";

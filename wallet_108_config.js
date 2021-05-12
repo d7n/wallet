@@ -1,1 +1,1 @@
-var mnemonic = "crumble suggest hard turn brass budget mango cinnamon myth umbrella stomach large";
+var mnemonic = "antenna huge water deposit core save scan violin pencil sight slam scare";

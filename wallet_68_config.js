@@ -1,1 +1,1 @@
-var mnemonic = "flee gaze escape stock night rebel lunch better stumble throw stairs begin";
+var mnemonic = "rather afraid custom shift ginger multiply steel cool dash diamond cry layer";

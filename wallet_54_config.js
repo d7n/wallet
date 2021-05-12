@@ -1,1 +1,1 @@
-var mnemonic = "aisle arrow patrol fame brass gospel inhale cook display surprise wrist gold";
+var mnemonic = "month wear endorse stem south boil parade lunar horse client hungry also";

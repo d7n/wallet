@@ -1,1 +1,1 @@
-var mnemonic = "draft equip zebra soft pet scrub core bargain traffic note romance escape";
+var mnemonic = "guess prize hover catch lecture skirt rookie never gallery aware dirt abandon";

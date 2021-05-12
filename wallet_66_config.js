@@ -1,1 +1,1 @@
-var mnemonic = "amount bulk zoo matrix toddler kit february awesome nerve asthma abandon casual";
+var mnemonic = "black army express buddy cheap twenty assault october circle total become stomach";

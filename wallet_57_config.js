@@ -1,1 +1,1 @@
-var mnemonic = "travel plug opera forest mesh age accident patient wild waste laptop hour";
+var mnemonic = "input dinner bargain sunset topple hood basket utility long ticket member bleak";

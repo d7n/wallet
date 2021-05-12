@@ -1,1 +1,1 @@
-var mnemonic = "vault ticket high alcohol guitar material behave clock street usage cabin dream";
+var mnemonic = "round nut indoor month obey love blanket found leisure crash trouble type";

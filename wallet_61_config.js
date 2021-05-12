@@ -1,1 +1,1 @@
-var mnemonic = "mimic sock special exhaust pull velvet clip violin wrong domain plate opera";
+var mnemonic = "kidney tiny matter damage life gift finish spin catalog atom nice option";

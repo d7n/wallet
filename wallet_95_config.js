@@ -1,1 +1,1 @@
-var mnemonic = "man duty jump embrace gloom ecology debate hover fun comic essence into";
+var mnemonic = "indoor symbol acquire arm network busy double broken rocket rail length fringe";

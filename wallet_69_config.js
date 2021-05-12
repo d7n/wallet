@@ -1,1 +1,1 @@
-var mnemonic = "spin rotate fox amused situate artefact improve crush buzz rather chef fiction";
+var mnemonic = "cycle happy welcome inmate bracket unhappy clown earn panther assist pulp buyer";

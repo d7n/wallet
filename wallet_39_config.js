@@ -1,1 +1,1 @@
-var mnemonic = "approve base roast regret pledge farm tell label sadness excuse chalk buddy";
+var mnemonic = "minute square promote track inhale man reunion escape start urban inflict shoot";

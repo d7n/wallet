@@ -1,1 +1,1 @@
-var mnemonic = "frequent apple length horn casual athlete soap rabbit bulb ski quarter access";
+var mnemonic = "upon diet mad identify drink rabbit radar praise lottery scene knife trim";

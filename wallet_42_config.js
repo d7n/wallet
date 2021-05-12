@@ -1,1 +1,1 @@
-var mnemonic = "two output lion wealth detect trash harsh frog crush ignore angry ahead";
+var mnemonic = "cube satoshi benefit amateur bridge civil sniff donor vendor river notable ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "pill note volcano fork clutch pumpkin digital excess school summer enter sure";
+var mnemonic = "theory ranch marine fit vault order better story dentist industry evidence jealous";

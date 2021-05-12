@@ -1,1 +1,1 @@
-var mnemonic = "keep move strategy hole exchange imitate reunion crystal liar upon gaze say";
+var mnemonic = "guilt deny damp visa repeat spoil order eye section radar chimney garlic";

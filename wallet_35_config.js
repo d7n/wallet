@@ -1,1 +1,1 @@
-var mnemonic = "match west claim blush stumble autumn pulse box nerve sail easy attract";
+var mnemonic = "inspire woman tell alcohol august base giggle camp grit excess talk oil";

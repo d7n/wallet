@@ -1,1 +1,1 @@
-var mnemonic = "thrive skull napkin push snow erode sorry group blame drill tattoo remind";
+var mnemonic = "rural point ticket crew stadium curve screen claw unhappy breeze mom prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect burger position stomach clever spin helmet tattoo snow rack total arena";
+var mnemonic = "rich social robust undo uphold turkey predict monitor firm foam gravity face";

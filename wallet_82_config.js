@@ -1,1 +1,1 @@
-var mnemonic = "toilet disease course neck title brass life analyst useful border dwarf reward";
+var mnemonic = "code pilot inflict promote corn spider spin foam thing snow female young";

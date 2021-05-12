@@ -1,1 +1,1 @@
-var mnemonic = "avoid hood sail buyer review grief stick door absent domain fat van";
+var mnemonic = "range sign pencil project meadow mimic collect engine coil correct farm immune";

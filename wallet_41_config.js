@@ -1,1 +1,1 @@
-var mnemonic = "mule size picnic minor ivory sting genre theme swarm student snake hip";
+var mnemonic = "bulk oxygen swallow penalty cheap mimic heavy consider team sock behave toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade else stable can senior lunch poet seed stumble bunker pottery face";
+var mnemonic = "magic lonely hotel metal hybrid nut same attack now income dynamic jeans";

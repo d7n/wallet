@@ -1,1 +1,1 @@
-var mnemonic = "nephew twenty lake price then dish east visual visual orange hidden ginger";
+var mnemonic = "blossom energy mechanic heart afford mammal dash wage again that tuition camera";

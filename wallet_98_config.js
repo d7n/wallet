@@ -1,1 +1,1 @@
-var mnemonic = "profit bike open tiny giant page toss glide fine recall jazz filter";
+var mnemonic = "wheat own garden tongue boy rain have south elbow speak hip hour";

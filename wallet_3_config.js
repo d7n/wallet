@@ -1,1 +1,1 @@
-var mnemonic = "sing flat manage myth suggest knock model fence critic school dove genius";
+var mnemonic = "sentence board brain surprise ticket minute maze inflict animal jewel orphan protect";

@@ -1,1 +1,1 @@
-var mnemonic = "twin expire poem sheriff robust sock close van believe kick exile immense";
+var mnemonic = "erosion decide sand angry emotion length exist fever copper ethics drama bar";

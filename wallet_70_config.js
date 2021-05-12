@@ -1,1 +1,1 @@
-var mnemonic = "game dynamic mouse meat pond bottom tide gravity spice trumpet middle dream";
+var mnemonic = "flight notable symptom credit avoid cruise when scare boy kid cinnamon increase";

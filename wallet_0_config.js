@@ -1,1 +1,1 @@
-var mnemonic = "sweet jealous legal midnight verb weasel aspect fatal behave pattern brother aim";
+var mnemonic = "leave napkin course habit large still winter unable miracle credit ceiling order";

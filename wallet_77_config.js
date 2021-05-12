@@ -1,1 +1,1 @@
-var mnemonic = "atom submit pipe silver infant benefit screen item artwork rent rocket wheel";
+var mnemonic = "run frame equal bulk rebuild bonus drink trash own high token enjoy";

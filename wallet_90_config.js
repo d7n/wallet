@@ -1,1 +1,1 @@
-var mnemonic = "sock final border parade famous report couple inside mutual hospital sunset diet";
+var mnemonic = "candy property shock cook foam good humor quantum build pizza wild edit";

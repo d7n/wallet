@@ -1,1 +1,1 @@
-var mnemonic = "tumble crater monster below measure zero truck sight law actual ready lawsuit";
+var mnemonic = "kid tool high moral normal observe grunt door mean inside movie disease";

@@ -1,1 +1,1 @@
-var mnemonic = "educate patient struggle decade faculty appear flavor before coach quarter frog february";
+var mnemonic = "roof onion erupt pledge method wide jacket ring spoon language pool muffin";

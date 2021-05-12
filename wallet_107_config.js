@@ -1,1 +1,1 @@
-var mnemonic = "edge manage reason print primary clinic canvas spot spider relax fruit canoe";
+var mnemonic = "squirrel swallow industry mutual retreat chronic stay pear hello power call split";

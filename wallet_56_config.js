@@ -1,1 +1,1 @@
-var mnemonic = "tail thought near exercise fever rookie pear fetch urge fun foster honey";
+var mnemonic = "illness turn survey artwork cover fashion legend decade kite explain cousin defense";

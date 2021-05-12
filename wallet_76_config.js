@@ -1,1 +1,1 @@
-var mnemonic = "sell goddess exotic train awkward clock father obvious inspire violin column chase";
+var mnemonic = "wild area proof cattle lava sea over clump uncle ribbon excite picture";

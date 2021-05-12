@@ -1,1 +1,1 @@
-var mnemonic = "liar warm crystal fish joy toss ancient shrug toddler team stomach annual";
+var mnemonic = "open orange bread fat quick thumb sing involve regular lounge resource robust";

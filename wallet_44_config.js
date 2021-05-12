@@ -1,1 +1,1 @@
-var mnemonic = "way device wonder veteran check thumb top prosper party hire fancy become";
+var mnemonic = "match gasp hero better lens essence acquire theme decline gossip discover nature";

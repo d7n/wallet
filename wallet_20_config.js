@@ -1,1 +1,1 @@
-var mnemonic = "agent pilot attitude exhibit universe shrug movie twelve rubber trick pelican garlic";
+var mnemonic = "notable foster much trip member foot month always ripple sadness certain great";

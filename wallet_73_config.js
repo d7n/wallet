@@ -1,1 +1,1 @@
-var mnemonic = "appear fortune auto evoke orchard happy umbrella prosper ball embody make skull";
+var mnemonic = "cement small youth trip describe term monitor boss letter choose defense derive";

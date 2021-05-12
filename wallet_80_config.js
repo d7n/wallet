@@ -1,1 +1,1 @@
-var mnemonic = "age praise differ erode address prison artist caution excuse hawk kiwi pledge";
+var mnemonic = "put danger equip this found curve vapor smoke portion obvious snake address";

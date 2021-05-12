@@ -1,1 +1,1 @@
-var mnemonic = "guilt trial motion bulb trouble inquiry gospel betray eye gas about matrix";
+var mnemonic = "lonely exit produce because boring cloud wife giraffe latin velvet steak enroll";

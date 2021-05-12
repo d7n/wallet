@@ -1,1 +1,1 @@
-var mnemonic = "possible typical mean winter child faith shiver bus rail end secret target";
+var mnemonic = "match raven prosper truth enhance school stone rib siege month regret volcano";

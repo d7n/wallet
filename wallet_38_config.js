@@ -1,1 +1,1 @@
-var mnemonic = "quote alley try manual rival level laugh dinner top fetch demand build";
+var mnemonic = "give chicken voice outer advice vintage gorilla broken promote ridge combine virus";

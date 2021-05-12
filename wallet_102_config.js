@@ -1,1 +1,1 @@
-var mnemonic = "mother quarter just income chalk lesson recall ostrich glove nation hover bomb";
+var mnemonic = "payment robot sell spy eyebrow vocal clean half region shine question inside";

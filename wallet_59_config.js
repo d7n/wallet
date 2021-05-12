@@ -1,1 +1,1 @@
-var mnemonic = "lock sign radar faint behind squirrel double hollow anxiety spare melody life";
+var mnemonic = "baby trial leaf maze boy tribe cube adult neutral park north filter";

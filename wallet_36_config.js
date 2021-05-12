@@ -1,1 +1,1 @@
-var mnemonic = "rain seek ginger item giggle derive document fog tongue grocery shell major";
+var mnemonic = "rack material census rapid tower yellow festival close chest spy suggest knife";

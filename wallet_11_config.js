@@ -1,1 +1,1 @@
-var mnemonic = "neutral cradle eternal tiger spirit owner female blossom multiply caught trade device";
+var mnemonic = "roast describe general photo stock sign stand metal erupt apology left naive";

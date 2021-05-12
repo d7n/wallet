@@ -1,1 +1,1 @@
-var mnemonic = "invite atom december century toss life when skate squeeze inmate heavy blanket";
+var mnemonic = "title blur list daring grace force distance artist concert gym struggle profit";

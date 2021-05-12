@@ -1,1 +1,1 @@
-var mnemonic = "broccoli repeat tomato pupil wash great super repeat index egg cycle vital";
+var mnemonic = "degree clap album spoon tower mom retreat response unfair lens pottery adult";

@@ -1,1 +1,1 @@
-var mnemonic = "distance hat harsh zone apology yellow slab eagle okay define lemon help";
+var mnemonic = "mixture disorder genre cereal input rare congress pioneer bleak obtain donor pear";

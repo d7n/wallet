@@ -1,1 +1,1 @@
-var mnemonic = "black job small immune surge assist circle view shoot daughter insane train";
+var mnemonic = "resemble demand salon lesson this code unable day surprise nerve intact reason";

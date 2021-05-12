@@ -1,1 +1,1 @@
-var mnemonic = "night rice sign swamp improve wing ramp wolf topple pear cattle argue";
+var mnemonic = "upper claim market hip dawn shiver noise disorder alien reunion rally disorder";

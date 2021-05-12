@@ -1,1 +1,1 @@
-var mnemonic = "cereal task city infant brain remove keen axis frown clean eager media";
+var mnemonic = "arrest firm ridge dove people chalk coin delay return expire melody topic";

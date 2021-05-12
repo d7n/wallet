@@ -1,1 +1,1 @@
-var mnemonic = "grain either spoon guitar memory summer language genre fresh dinosaur rule crazy";
+var mnemonic = "roast jewel peace hurt charge carbon alone vendor mansion sniff taste census";

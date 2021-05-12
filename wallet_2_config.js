@@ -1,1 +1,1 @@
-var mnemonic = "lobster sunny rare season lyrics grape trap horror balcony anger flash worry";
+var mnemonic = "culture memory forest subject practice broom junk work staff fury cliff guard";

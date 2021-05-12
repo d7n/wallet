@@ -1,1 +1,1 @@
-var mnemonic = "female among flash brief rule build escape nothing total school wave settle";
+var mnemonic = "spend gaze year else crash erupt conduct clever march index tail invite";

@@ -1,1 +1,1 @@
-var mnemonic = "kind garment palace elbow hold tongue album employ tribe carpet age capable";
+var mnemonic = "ice lock harsh enlist split dilemma face cost cup hamster profit couple";

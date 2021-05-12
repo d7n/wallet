@@ -1,1 +1,1 @@
-var mnemonic = "elegant axis reward taste surface swim endorse point camera gaze use now";
+var mnemonic = "direct announce spider still barely cart ripple super uniform garlic prison copper";

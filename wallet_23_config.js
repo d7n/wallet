@@ -1,1 +1,1 @@
-var mnemonic = "finish dynamic fly draft fold fox alert rabbit venue deer ten tree";
+var mnemonic = "swear slight asthma explain illness under raven garage guitar promote orient soon";

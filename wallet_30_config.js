@@ -1,1 +1,1 @@
-var mnemonic = "bonus cereal average dry someone lizard prevent damp nature culture blame ship";
+var mnemonic = "cement primary alien focus forget unfair argue try pet bounce trend remain";

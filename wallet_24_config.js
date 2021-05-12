@@ -1,1 +1,1 @@
-var mnemonic = "cigar young keen syrup still lottery birth minute cigar sting alter venue";
+var mnemonic = "bacon wheel cute report attend accuse cheap nation drama insane primary vault";

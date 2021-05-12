@@ -1,1 +1,1 @@
-var mnemonic = "obvious car concert lobster check pipe message police truth assault riot fade";
+var mnemonic = "force faith kid prison rack crucial champion ugly cross green define law";

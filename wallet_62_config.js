@@ -1,1 +1,1 @@
-var mnemonic = "page acid smile discover civil electric laugh pistol circle castle wasp food";
+var mnemonic = "rose enroll crane reunion music filter solid silk cancel garden decorate occur";

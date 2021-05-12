@@ -1,1 +1,1 @@
-var mnemonic = "fix creek three remember cancel always ripple dinosaur adult mountain funny chief";
+var mnemonic = "wave tail village ribbon pool city settle then document draw april odor";

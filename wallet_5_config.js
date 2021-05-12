@@ -1,1 +1,1 @@
-var mnemonic = "pattern razor same once supreme fiscal trophy tower near pelican invite caught";
+var mnemonic = "celery cream hill fatigue approve conduct uniform glance december melody dog again";

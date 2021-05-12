@@ -1,1 +1,1 @@
-var mnemonic = "leopard follow inquiry curtain must huge achieve machine nephew glass good quantum";
+var mnemonic = "drum exist february quiz genuine rescue utility parent height tobacco strategy cycle";

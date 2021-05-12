@@ -1,1 +1,1 @@
-var mnemonic = "uncle about physical pause tooth push minute drive border bronze bind member";
+var mnemonic = "yard country pulp double air topic build oyster enhance jacket elite echo";

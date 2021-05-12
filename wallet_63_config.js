@@ -1,1 +1,1 @@
-var mnemonic = "mouse state jacket shiver black magic welcome mansion link certain one hawk";
+var mnemonic = "tortoise mobile holiday spatial garlic chicken fitness subject zoo lunch nose upgrade";

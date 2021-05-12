@@ -1,1 +1,1 @@
-var mnemonic = "time tilt banner tobacco surprise gadget clever barrel congress motion wing repeat";
+var mnemonic = "tip tongue when plastic rate pair notice sunny fury suspect follow turkey";

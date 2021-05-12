@@ -1,1 +1,1 @@
-var mnemonic = "obvious puppy primary price identify large lazy warfare asthma cart web festival";
+var mnemonic = "accuse various call witness valve axis cram flag roast mixture guide primary";

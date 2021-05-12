@@ -1,1 +1,1 @@
-var mnemonic = "across produce dawn useful donate song nephew swallow service silk angry heart";
+var mnemonic = "shrimp despair parent federal throw neutral renew blame skill kingdom soap insect";

@@ -1,1 +1,1 @@
-var mnemonic = "force bus foot game lend medal sausage sleep wealth trend inhale flee";
+var mnemonic = "again riot medal margin indicate coach someone play gain camp transfer husband";

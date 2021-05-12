@@ -1,1 +1,1 @@
-var mnemonic = "ring lamp sudden excite grit cargo enlist river loud future gauge common";
+var mnemonic = "tool ordinary wide merge toward purity color stadium receive strong entry project";

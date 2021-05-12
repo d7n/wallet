@@ -1,1 +1,1 @@
-var mnemonic = "chalk february supreme ensure electric badge sing thumb joy entry globe blanket";
+var mnemonic = "public tourist grant middle absurd group swamp duty clerk region crater relax";

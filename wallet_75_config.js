@@ -1,1 +1,1 @@
-var mnemonic = "loud nurse brain icon retreat rough abandon super swallow burger order derive";
+var mnemonic = "ostrich party organ divert library tired subject total parrot vault calm blush";

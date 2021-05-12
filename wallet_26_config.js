@@ -1,1 +1,1 @@
-var mnemonic = "oxygen answer kite measure also cage myself soul snake primary skin switch";
+var mnemonic = "glow useless salute scrap abandon busy meadow angle organ empty frequent during";

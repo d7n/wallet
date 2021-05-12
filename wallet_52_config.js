@@ -1,1 +1,1 @@
-var mnemonic = "blood primary wire seek melt swallow vanish arrest gentle list ostrich sure";
+var mnemonic = "crisp quantum grit color nose fame lottery hotel achieve destroy robot crime";

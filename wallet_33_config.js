@@ -1,1 +1,1 @@
-var mnemonic = "educate dog tissue ridge frozen lemon object humor deny amateur make panda";
+var mnemonic = "scheme dilemma valid gain liberty include mouse desert truth cluster office april";

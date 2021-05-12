@@ -1,1 +1,1 @@
-var mnemonic = "depth pony coil weasel fish length craft believe same annual rotate metal";
+var mnemonic = "humble spare cave soon festival smoke lawn laundry finger near shiver stock";

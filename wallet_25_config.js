@@ -1,1 +1,1 @@
-var mnemonic = "motion trim blast drive theory mixed conduct cook note brand toy bag";
+var mnemonic = "belt behave rely plunge lazy umbrella horse enrich prefer grape domain blade";

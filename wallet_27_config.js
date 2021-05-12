@@ -1,1 +1,1 @@
-var mnemonic = "seat visit history huge purchase arch display imitate absurd beyond fatigue harvest";
+var mnemonic = "prosper guilt person cook where brain buzz rescue decide blade source category";

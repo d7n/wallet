@@ -1,1 +1,1 @@
-var mnemonic = "copy scene pepper lucky thank despair crowd annual soup crater topple lyrics";
+var mnemonic = "digital crack pigeon hamster stay sight below wood deputy mail metal vibrant";
