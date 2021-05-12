@@ -1,1 +1,1 @@
-var mnemonic = "prosper about animal embody again denial dose please bronze peanut carpet keep";
+var mnemonic = "denial hedgehog captain twenty vacuum peasant hair artefact addict honey secret typical";

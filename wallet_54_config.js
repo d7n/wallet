@@ -1,1 +1,1 @@
-var mnemonic = "wolf price wreck paper ahead toss hair high field human degree protect";
+var mnemonic = "defy glance vault fog column normal salmon earn olive mobile custom symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "hub pigeon guitar egg search paper brisk cradle dog live collect bicycle";
+var mnemonic = "cream drive maximum bulk summer unable obvious summer victory scout deal rug";

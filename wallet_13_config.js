@@ -1,1 +1,1 @@
-var mnemonic = "tackle approve trap income glow size radio coil buddy able police next";
+var mnemonic = "chuckle inform few museum want interest business stereo treat cradle monkey april";

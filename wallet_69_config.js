@@ -1,1 +1,1 @@
-var mnemonic = "great burger insect stick enjoy apology annual remove math rent note auto";
+var mnemonic = "legal report mix inspire tongue joy physical nose quiz echo original dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "forum loyal wise exile into detail rookie imitate patrol master gravity decide";
+var mnemonic = "convince poem solid hazard faculty unique lottery fish suffer top trigger index";

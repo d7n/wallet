@@ -1,1 +1,1 @@
-var mnemonic = "hire cram render car steak clerk erode hurdle violin cream camp shuffle";
+var mnemonic = "toward castle dizzy forward trip always merry cycle pact alcohol pigeon reward";

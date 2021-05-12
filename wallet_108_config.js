@@ -1,1 +1,1 @@
-var mnemonic = "faint lake asset wish better velvet void absurd arctic pluck smooth increase";
+var mnemonic = "rule cinnamon glove bar soap vital mix invite hidden melt slender gentle";

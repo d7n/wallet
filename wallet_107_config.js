@@ -1,1 +1,1 @@
-var mnemonic = "gun knock witness park clerk whip fame collect fold april turn tilt";
+var mnemonic = "input exchange escape tuna van sadness innocent vapor budget turkey vital suit";

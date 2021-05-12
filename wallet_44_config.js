@@ -1,1 +1,1 @@
-var mnemonic = "victory emotion rice hawk nothing wear pencil forest will rival balance rival";
+var mnemonic = "wing review end predict orange left damp master toe speed category praise";

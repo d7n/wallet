@@ -1,1 +1,1 @@
-var mnemonic = "ecology figure left actor scorpion wasp brass dinner build adult kitchen security";
+var mnemonic = "vicious camp stumble paddle grant emotion shuffle recycle merit help burst yard";

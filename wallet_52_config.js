@@ -1,1 +1,1 @@
-var mnemonic = "ginger network install resemble possible man portion catch maple exhaust strike leisure";
+var mnemonic = "cook brown inner apart layer acquire permit spray phrase dune occur prefer";

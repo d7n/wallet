@@ -1,1 +1,1 @@
-var mnemonic = "original expect learn answer betray grunt goose harbor penalty cable hen trust";
+var mnemonic = "faculty mind ankle pretty hole omit grace gossip awkward another spring wait";

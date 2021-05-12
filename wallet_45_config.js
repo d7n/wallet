@@ -1,1 +1,1 @@
-var mnemonic = "oblige goddess useful gather spatial enact eight syrup expose ancient kingdom earth";
+var mnemonic = "nurse dash galaxy pulp math good expose admit pride save pyramid rain";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate dress casual valve great review brain finger flat pulp penalty option";
+var mnemonic = "unique frost health little tank busy board quarter follow cabbage pelican conduct";

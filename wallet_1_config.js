@@ -1,1 +1,1 @@
-var mnemonic = "ring quote reveal need good path night elite price forward column choice";
+var mnemonic = "original critic conduct brick web left offer hand gaze easy between twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "party always icon range strategy network daring buyer hope young blame truth";
+var mnemonic = "health faculty honey glad cancel aunt ball quiz market member lab soup";

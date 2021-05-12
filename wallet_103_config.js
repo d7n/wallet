@@ -1,1 +1,1 @@
-var mnemonic = "solar coach unknown crisp hat bus early ignore emerge wrestle hard entry";
+var mnemonic = "rent primary unhappy carry float infant spell process kid jelly jeans reward";

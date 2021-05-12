@@ -1,1 +1,1 @@
-var mnemonic = "butter expire arm fork bamboo luxury step repeat cheap before proof cruel";
+var mnemonic = "blade enlist knife example buddy divorce decline kind theory lift rough mosquito";

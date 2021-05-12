@@ -1,1 +1,1 @@
-var mnemonic = "absorb face zone project topic scout engine favorite silver cost slice model";
+var mnemonic = "replace claw position check cigar crouch snow daughter cup relief witness nothing";

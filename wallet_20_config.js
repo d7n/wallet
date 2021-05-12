@@ -1,1 +1,1 @@
-var mnemonic = "security divorce gossip sorry fun hurt soldier limb sponsor route warm clutch";
+var mnemonic = "corn spray cage until reduce hawk duty light puppy cycle repair tonight";

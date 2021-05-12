@@ -1,1 +1,1 @@
-var mnemonic = "monitor other meat put siege grain unfair magic easy whisper inherit rubber";
+var mnemonic = "school divert analyst wait cycle outdoor camera hybrid render chef switch because";

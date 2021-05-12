@@ -1,1 +1,1 @@
-var mnemonic = "cloud junk harsh steak favorite glow reopen sponsor special surface mercy glow";
+var mnemonic = "today inform hundred crucial build view pony that radio left fall off";

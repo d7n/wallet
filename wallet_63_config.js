@@ -1,1 +1,1 @@
-var mnemonic = "plug twelve chair bounce immense inch office shell lamp payment column stomach";
+var mnemonic = "power fault still cherry area violin vault taste unusual erosion merit gravity";

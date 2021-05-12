@@ -1,1 +1,1 @@
-var mnemonic = "list holiday ozone century assume screen business lawn maid stone sign collect";
+var mnemonic = "rice possible hungry casual vocal coyote shrug valid list iron history daughter";

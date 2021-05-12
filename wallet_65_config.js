@@ -1,1 +1,1 @@
-var mnemonic = "sheriff federal drift ensure whisper afraid best marriage assist all stove toss";
+var mnemonic = "theory ozone frozen bid way resemble there robot rose dust stomach diamond";

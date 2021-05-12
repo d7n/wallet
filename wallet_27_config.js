@@ -1,1 +1,1 @@
-var mnemonic = "solar drama source try talk bean fan vanish donkey brief sadness wagon";
+var mnemonic = "rhythm fly cheap hour fault envelope theme nature toast wish raven tell";

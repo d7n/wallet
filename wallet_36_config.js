@@ -1,1 +1,1 @@
-var mnemonic = "book cruel sense version orphan hamster april prevent broken escape odor begin";
+var mnemonic = "carbon fun output divide basket type sunset book asset life sting improve";

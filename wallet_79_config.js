@@ -1,1 +1,1 @@
-var mnemonic = "hawk lady biology theory dismiss idea pretty garment okay random win cruel";
+var mnemonic = "person spike foam method girl know angle mean amazing town wife general";

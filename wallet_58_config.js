@@ -1,1 +1,1 @@
-var mnemonic = "castle sphere knee orchard strategy truly track neither cement since labor beef";
+var mnemonic = "brush toss say favorite empower hurdle mean soft wrestle neither media one";

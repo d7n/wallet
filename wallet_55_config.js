@@ -1,1 +1,1 @@
-var mnemonic = "cancel inside dune jaguar laundry talent giggle electric reward fine artist family";
+var mnemonic = "juice nut shove roof economy badge useful seek online exit multiply year";

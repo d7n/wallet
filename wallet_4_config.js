@@ -1,1 +1,1 @@
-var mnemonic = "dream thought remember hollow oyster lounge step juice expect tower this debate";
+var mnemonic = "spare glow supreme accuse place moral online close sauce return lemon leg";

@@ -1,1 +1,1 @@
-var mnemonic = "verb satisfy digital ask input sport sea armed shoot main since find";
+var mnemonic = "into evoke dinner balcony giraffe fine erosion finger wrist soda raise farm";

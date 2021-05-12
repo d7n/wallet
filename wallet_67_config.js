@@ -1,1 +1,1 @@
-var mnemonic = "rice logic volcano dutch avocado flash spend wish lawsuit sister put couch";
+var mnemonic = "jaguar kitchen equal history wisdom solve razor walnut antique coyote level law";

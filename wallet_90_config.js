@@ -1,1 +1,1 @@
-var mnemonic = "mechanic plastic square vicious sand hood clap rubber giant resist public laundry";
+var mnemonic = "require judge hero art merge whale fold stairs rhythm hand frozen surface";

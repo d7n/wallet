@@ -1,1 +1,1 @@
-var mnemonic = "rebuild honey never course grape core ancient involve culture grace require panda";
+var mnemonic = "expect lemon sweet menu balcony rare rain usage butter wall model clown";

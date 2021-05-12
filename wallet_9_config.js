@@ -1,1 +1,1 @@
-var mnemonic = "crack menu practice verify decline friend must subject between butter rack wealth";
+var mnemonic = "senior rib black paper prison search range metal dose rude pony select";

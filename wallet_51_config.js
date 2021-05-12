@@ -1,1 +1,1 @@
-var mnemonic = "among behave census dawn chimney swap thumb such tower kind put work";
+var mnemonic = "chalk wall tortoise fragile clip fresh car nation program glare advance mouse";

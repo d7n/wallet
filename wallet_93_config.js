@@ -1,1 +1,1 @@
-var mnemonic = "long fee assist ketchup between move surface coast maid keep ice ask";
+var mnemonic = "wedding frequent border jacket cry zebra correct mutual filter wedding need invest";

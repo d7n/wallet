@@ -1,1 +1,1 @@
-var mnemonic = "museum enforce ginger shallow cloth hill initial cloth aspect spawn craft popular";
+var mnemonic = "bleak proof expect rose loop timber logic jazz monitor exhaust fault neglect";

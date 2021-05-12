@@ -1,1 +1,1 @@
-var mnemonic = "name project charge game option hollow inch element marble during attend false";
+var mnemonic = "ride note ceiling alter enhance crunch dizzy side adult allow surge hazard";

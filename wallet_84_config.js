@@ -1,1 +1,1 @@
-var mnemonic = "burden sock erupt blanket steak jelly obvious core cost test can mind";
+var mnemonic = "repeat gloom black turkey caught swear husband sadness section zoo brother speak";

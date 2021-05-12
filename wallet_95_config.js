@@ -1,1 +1,1 @@
-var mnemonic = "engine menu notice acoustic goose bench soul gold solution damp vacuum rain";
+var mnemonic = "state jar husband hard toast glance fury suffer peanut wreck elbow oven";

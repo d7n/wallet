@@ -1,1 +1,1 @@
-var mnemonic = "develop upgrade youth vivid wash shaft duck differ place retire nuclear circle";
+var mnemonic = "tiger welcome mule drill vital toward affair wife grocery live select drum";

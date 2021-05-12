@@ -1,1 +1,1 @@
-var mnemonic = "noble core stable ladder jelly other stage invite sleep mesh flush equal";
+var mnemonic = "base earn check dinosaur uphold athlete labor engage ecology session essay person";

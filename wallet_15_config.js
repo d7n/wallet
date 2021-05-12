@@ -1,1 +1,1 @@
-var mnemonic = "spike gentle mad mountain earn flat erase crisp child light unique owner";
+var mnemonic = "fault decrease glad amazing gaze original wonder joy enter logic delay average";

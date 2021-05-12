@@ -1,1 +1,1 @@
-var mnemonic = "fitness embody believe danger celery ocean person arrive kit dismiss surface gauge";
+var mnemonic = "easily moon arctic grab sting limb save search paddle scissors spoil fade";

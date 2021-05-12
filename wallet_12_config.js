@@ -1,1 +1,1 @@
-var mnemonic = "hybrid time project spirit diet merit hundred glow banner scare rapid lamp";
+var mnemonic = "true one setup deposit bounce repeat shoe couple very axis direct decline";

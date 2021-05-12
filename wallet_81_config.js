@@ -1,1 +1,1 @@
-var mnemonic = "oyster smile clinic minimum slush flat ship firm switch text ramp initial";
+var mnemonic = "ahead flip flush point throw legend window soup steak scrub common ribbon";

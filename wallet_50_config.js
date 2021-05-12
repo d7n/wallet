@@ -1,1 +1,1 @@
-var mnemonic = "material shock merry pet royal camp believe shiver toast glove legend curious";
+var mnemonic = "ill bubble grunt hat hen cliff bike chunk gasp lazy expose neutral";

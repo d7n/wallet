@@ -1,1 +1,1 @@
-var mnemonic = "salon account thrive mansion shrimp time piano rifle luggage stomach glare negative";
+var mnemonic = "laugh pave couple gap always powder panther cannon finger real jungle palm";

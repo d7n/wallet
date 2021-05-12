@@ -1,1 +1,1 @@
-var mnemonic = "target decrease where toilet chat desert wise tomato razor clarify math inform";
+var mnemonic = "parade casual axis collect ranch quantum group weasel jeans permit spring scene";

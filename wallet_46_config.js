@@ -1,1 +1,1 @@
-var mnemonic = "voyage human post pretty floor siege marriage rebel butter idea asset media";
+var mnemonic = "bullet banana bike maze cross sort estate hair merit very season muscle";

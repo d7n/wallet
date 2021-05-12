@@ -1,1 +1,1 @@
-var mnemonic = "obey screen air steak occur very divert cargo sniff aerobic pyramid nose";
+var mnemonic = "submit minimum sunny license film other invest deposit cake obtain tent top";

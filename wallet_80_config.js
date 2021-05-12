@@ -1,1 +1,1 @@
-var mnemonic = "abandon chair enter frozen mountain adapt album soccer civil tunnel orphan hover";
+var mnemonic = "lake wire slogan carpet couch misery lock canal shop aim pizza layer";

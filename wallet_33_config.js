@@ -1,1 +1,1 @@
-var mnemonic = "fluid say hurry deal alien scrap buddy frame acid bamboo seek ice";
+var mnemonic = "shaft proud grass recipe recipe caught issue code scout card olive render";

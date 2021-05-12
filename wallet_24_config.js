@@ -1,1 +1,1 @@
-var mnemonic = "trophy visa plastic egg math evidence gift blur asthma chunk team decrease";
+var mnemonic = "kite fold giggle hammer execute mule dinosaur sing coach calm expose borrow";

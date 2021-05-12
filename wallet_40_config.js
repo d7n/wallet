@@ -1,1 +1,1 @@
-var mnemonic = "border tennis display winter canoe census setup reduce delay swarm margin always";
+var mnemonic = "mammal cross wait project uncle chicken chronic wait inquiry swift piano nation";

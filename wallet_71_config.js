@@ -1,1 +1,1 @@
-var mnemonic = "harsh unhappy empty popular note wrestle laundry wonder neck soft staff tenant";
+var mnemonic = "sadness drum there cancel piece subject outer coil inject rare tuna laptop";

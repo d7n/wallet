@@ -1,1 +1,1 @@
-var mnemonic = "jump bright link oven student sweet flock absurd artwork code welcome include";
+var mnemonic = "alcohol provide cruise fantasy frown daring caution party north dust napkin carbon";

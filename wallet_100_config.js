@@ -1,1 +1,1 @@
-var mnemonic = "visit champion warm explain dose zero area casual vessel silly pear old";
+var mnemonic = "sign involve vapor hand image same cotton laptop fashion admit asset wide";

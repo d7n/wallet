@@ -1,1 +1,1 @@
-var mnemonic = "right infant vessel desk laugh turkey bag misery belt enable monkey valid";
+var mnemonic = "nephew deer glory program express black expand trouble food bomb naive open";

@@ -1,1 +1,1 @@
-var mnemonic = "kite feature oppose crystal tube provide carbon start hood admit update have";
+var mnemonic = "elder away west reduce essay debate knee clump salt place prefer strong";

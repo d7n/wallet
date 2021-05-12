@@ -1,1 +1,1 @@
-var mnemonic = "gun secret boost chaos couch public cannon exercise legend smoke toddler faint";
+var mnemonic = "praise film gentle approve foam vital parent twice hold flee toward spike";

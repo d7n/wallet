@@ -1,1 +1,1 @@
-var mnemonic = "ankle void present party toilet glue chuckle involve surprise taste tower online";
+var mnemonic = "tool power sing joy fitness cushion lamp near glare other vintage learn";

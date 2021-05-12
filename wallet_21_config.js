@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon garment budget edit absorb ramp candy giraffe cool sketch ribbon flock";
+var mnemonic = "horn genuine wall rain trust wish liberty climb nice during donkey lyrics";

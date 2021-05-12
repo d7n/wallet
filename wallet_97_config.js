@@ -1,1 +1,1 @@
-var mnemonic = "giant already minute repeat mammal silent arrive gather globe upon demand update";
+var mnemonic = "deputy spring demise economy month fantasy census mesh crash kiwi caught dirt";

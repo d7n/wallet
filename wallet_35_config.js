@@ -1,1 +1,1 @@
-var mnemonic = "mystery change shallow royal october suggest snack arrest under nice laundry sport";
+var mnemonic = "salmon law then avocado start skirt anger dumb ranch target analyst number";

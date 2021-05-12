@@ -1,1 +1,1 @@
-var mnemonic = "media bundle sense flight fresh stool plastic roof sand loud creek rate";
+var mnemonic = "heart provide outdoor among clay joke loan confirm throw rebuild youth climb";

@@ -1,1 +1,1 @@
-var mnemonic = "evil pudding arm render kidney field estate dignity first original violin mutual";
+var mnemonic = "frog captain start circle clown ribbon rally crucial skin absorb right jewel";

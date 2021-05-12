@@ -1,1 +1,1 @@
-var mnemonic = "pledge tag stadium gown marriage receive foil good frequent step bridge chair";
+var mnemonic = "addict expire among token merge alarm steak pride talk bind assault outer";

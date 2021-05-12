@@ -1,1 +1,1 @@
-var mnemonic = "install gentle question height atom estate decorate clock rose blossom angle apple";
+var mnemonic = "opera two wash method kiss lazy eight often unknown summer lady umbrella";

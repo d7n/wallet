@@ -1,1 +1,1 @@
-var mnemonic = "token scrub wage bid sun soup dizzy garment believe iron fat smooth";
+var mnemonic = "bronze answer example garage rebuild explain hire clerk organ ankle organ half";

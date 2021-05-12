@@ -1,1 +1,1 @@
-var mnemonic = "subject remain snake acid about connect distance park wisdom note mushroom strong";
+var mnemonic = "muffin escape elite sustain become vault mistake visit inspire search share pumpkin";

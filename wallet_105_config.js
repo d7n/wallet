@@ -1,1 +1,1 @@
-var mnemonic = "comic design cloth travel speak custom stock laptop material chapter muscle federal";
+var mnemonic = "tornado comfort comic hybrid dry follow grass height fatigue mixture domain suit";

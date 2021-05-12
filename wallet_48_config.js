@@ -1,1 +1,1 @@
-var mnemonic = "asset grape kite bitter test illegal feed grocery enroll whip cube once";
+var mnemonic = "popular cancel fine bring pet enable post cover food noise calm avoid";

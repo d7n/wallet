@@ -1,1 +1,1 @@
-var mnemonic = "core picture help renew pioneer own tower police birth grit kingdom work";
+var mnemonic = "bread near aspect gorilla ready again emotion bind front chimney spread farm";

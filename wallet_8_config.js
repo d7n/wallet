@@ -1,1 +1,1 @@
-var mnemonic = "rent actress busy thumb become equal rabbit elephant avocado element duck menu";
+var mnemonic = "enact choice canyon engage grace round cliff panic pill wall promote gorilla";

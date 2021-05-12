@@ -1,1 +1,1 @@
-var mnemonic = "attend shine drive cloud luggage auction admit chef best pistol sauce basic";
+var mnemonic = "violin danger glad diamond mutual almost tool control humor inflict pear time";

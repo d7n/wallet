@@ -1,1 +1,1 @@
-var mnemonic = "pupil letter drum trigger tumble earth ability siren small thunder orient lava";
+var mnemonic = "host eagle exist virtual arctic area noodle mountain glance resource tissue pony";

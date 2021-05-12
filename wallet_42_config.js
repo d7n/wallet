@@ -1,1 +1,1 @@
-var mnemonic = "topple guilt upper install organ kind spring capital maid right apology apology";
+var mnemonic = "elegant output viable chalk reason client acquire pyramid lounge dream ticket decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm bench flight bonus easy vacuum core cactus side sense pulse decade";
+var mnemonic = "wing enough pistol supply lunch hollow grid animal motion attack family panel";

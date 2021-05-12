@@ -1,1 +1,1 @@
-var mnemonic = "torch obtain logic leaf castle idle ignore column tide vapor crack margin";
+var mnemonic = "cargo sponsor color trigger pull clap fantasy polar toss hazard gesture other";

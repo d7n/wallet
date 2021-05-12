@@ -1,1 +1,1 @@
-var mnemonic = "tongue echo general elbow chalk goddess scrub behave argue turtle learn food";
+var mnemonic = "edit laundry portion help steak cousin rib resist nephew hurry smile carbon";

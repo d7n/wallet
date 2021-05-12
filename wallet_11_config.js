@@ -1,1 +1,1 @@
-var mnemonic = "public engine fringe apart finger say evolve offer source stairs essay olympic";
+var mnemonic = "guard panel crane dentist busy stumble coach bicycle night hunt split comic";
