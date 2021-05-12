@@ -1,1 +1,1 @@
-var mnemonic = "demise fabric car derive wolf else vapor sadness enrich case risk winner";
+var mnemonic = "soft glimpse lens elevator tone junior blush affair lady excite wife repeat";

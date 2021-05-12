@@ -1,1 +1,1 @@
-var mnemonic = "ancient syrup light bunker spell love true divert half blush please physical";
+var mnemonic = "enroll swap degree autumn session media drip steel modify dutch enough record";

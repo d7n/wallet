@@ -1,1 +1,1 @@
-var mnemonic = "drama skull small illness absurd maid travel image crunch avoid turtle enroll";
+var mnemonic = "divorce tomato trick true umbrella elevator deposit buzz patch tissue spy merry";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage near idea able useless dynamic sniff dose peace sand fever return";
+var mnemonic = "wedding leg whip calm neither nominee tag sun pact purse response cost";

@@ -1,1 +1,1 @@
-var mnemonic = "find humble hip quiz coconut game poem sadness fit used fiction margin";
+var mnemonic = "feel maid cover wisdom size raccoon garbage lunar spray erupt sudden ahead";

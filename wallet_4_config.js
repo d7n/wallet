@@ -1,1 +1,1 @@
-var mnemonic = "cute measure special crowd practice police tool claim broom allow casual middle";
+var mnemonic = "daring alone ghost clock balance syrup betray goddess primary winter husband put";

@@ -1,1 +1,1 @@
-var mnemonic = "casino frozen payment mix turtle matter dish jelly midnight melody razor patch";
+var mnemonic = "draft latin stool rib tenant club goddess crash citizen indicate outer input";

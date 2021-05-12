@@ -1,1 +1,1 @@
-var mnemonic = "raise weapon asset tonight since conduct planet tenant million basic weather country";
+var mnemonic = "view dentist rural vague pizza rubber local lab what lyrics celery soft";

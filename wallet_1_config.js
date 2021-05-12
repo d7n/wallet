@@ -1,1 +1,1 @@
-var mnemonic = "dune average series claim add test maximum pizza trip gas opinion theme";
+var mnemonic = "magic math rich require wreck isolate reunion noble february code tuna prevent";

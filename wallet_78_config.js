@@ -1,1 +1,1 @@
-var mnemonic = "indoor edge open document rubber notable armed correct rule voyage cluster runway";
+var mnemonic = "tooth vicious unusual reject shadow mean van balcony jeans year roof rather";

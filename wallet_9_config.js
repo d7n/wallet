@@ -1,1 +1,1 @@
-var mnemonic = "armed boring jacket animal neglect lamp frame day leave kiwi wool jump";
+var mnemonic = "couch box federal puzzle gorilla cool switch trophy valley huge buddy interest";

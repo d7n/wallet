@@ -1,1 +1,1 @@
-var mnemonic = "viable force uphold window draft panda save today vibrant daughter consider trap";
+var mnemonic = "walk legend glow whale code assume budget barrel frog ride dry twenty";

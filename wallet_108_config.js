@@ -1,1 +1,1 @@
-var mnemonic = "diamond aim music arctic hero path enemy devote bomb mesh reflect wine";
+var mnemonic = "squirrel novel remember prosper tongue lava ugly sustain frost flower attend wait";

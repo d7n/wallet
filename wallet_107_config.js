@@ -1,1 +1,1 @@
-var mnemonic = "inside decorate popular decrease clean blind option curve raise flower bright recycle";
+var mnemonic = "armed feel exit brown endorse weekend switch film destroy anxiety spy purchase";

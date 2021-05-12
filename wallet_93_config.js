@@ -1,1 +1,1 @@
-var mnemonic = "humor wolf pond volcano rifle unveil analyst soup sand school party ugly";
+var mnemonic = "climb disagree boost tribe idle hollow raccoon across clump subway cart noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "junk slender system paddle tuition truly change road jacket until hazard boring";
+var mnemonic = "fold attack maximum innocent tail super vote argue random deliver room glow";

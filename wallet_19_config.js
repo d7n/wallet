@@ -1,1 +1,1 @@
-var mnemonic = "thumb stick attract govern unlock afford liar umbrella call breeze winner shock";
+var mnemonic = "tray car manage gas bulb grape problem paddle burden fire forget truck";

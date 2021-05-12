@@ -1,1 +1,1 @@
-var mnemonic = "curtain village maximum drip blush tourist special expect blade spoon moral leg";
+var mnemonic = "stove stone scatter announce select retreat target impact wool you outdoor swift";

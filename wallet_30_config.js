@@ -1,1 +1,1 @@
-var mnemonic = "grocery excuse scrap patient unable gun essence client seed fork float attract";
+var mnemonic = "office sail mutual viable trophy kit spend enhance harbor boil goddess else";

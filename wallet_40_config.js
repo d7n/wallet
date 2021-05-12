@@ -1,1 +1,1 @@
-var mnemonic = "much spirit kitchen seek science cabbage present slam science plunge legend culture";
+var mnemonic = "add salt anxiety between tuition habit glare proof feature message disagree betray";

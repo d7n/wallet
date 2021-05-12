@@ -1,1 +1,1 @@
-var mnemonic = "identify report educate blade kind noise link chalk favorite penalty stumble romance";
+var mnemonic = "undo average wild kind damage razor stomach motion giant dog cheap segment";

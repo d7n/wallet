@@ -1,1 +1,1 @@
-var mnemonic = "alien review beef unable ranch hurry core sentence sun enroll capital chronic";
+var mnemonic = "logic verb critic heart noise chapter quiz south solve twenty wash awake";

@@ -1,1 +1,1 @@
-var mnemonic = "speed absurd left panda churn seat ready coil bomb survey giggle ivory";
+var mnemonic = "outer lady luggage turkey forward stove horror burst scrap bless symptom turkey";

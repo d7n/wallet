@@ -1,1 +1,1 @@
-var mnemonic = "stick expand maximum grape gospel between found advice that tobacco since bread";
+var mnemonic = "donor fault crumble sea human lyrics heart canyon baby hover media stay";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat twelve advice oxygen hobby miracle health country toss artist physical style";
+var mnemonic = "pink course series smile subway hunt inquiry fold right forest assume foot";

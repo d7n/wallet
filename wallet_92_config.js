@@ -1,1 +1,1 @@
-var mnemonic = "over virus wild endless slow arrange humor amazing arch harvest gesture spread";
+var mnemonic = "fatal swift law gas awake victory hospital payment dwarf shed amused rely";

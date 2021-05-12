@@ -1,1 +1,1 @@
-var mnemonic = "allow behind desk donate glass dove nerve speak allow reject limb special";
+var mnemonic = "small try piano cement absorb trim panel keen choose train predict warfare";

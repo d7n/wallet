@@ -1,1 +1,1 @@
-var mnemonic = "holiday leopard drip among patrol basket country veteran beauty bulb comic broccoli";
+var mnemonic = "syrup account wheel faith grief grit market across early crouch favorite royal";

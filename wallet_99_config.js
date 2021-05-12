@@ -1,1 +1,1 @@
-var mnemonic = "royal enter fee wrap blood hole forum power aunt fish close wear";
+var mnemonic = "chef garment weekend game door farm you armed major erosion banana remove";

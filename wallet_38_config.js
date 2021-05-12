@@ -1,1 +1,1 @@
-var mnemonic = "refuse clock fun common old issue mass mandate someone relief defense room";
+var mnemonic = "monkey pledge furnace term normal truth maze crazy thought path miracle fire";

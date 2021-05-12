@@ -1,1 +1,1 @@
-var mnemonic = "order clarify shift spot pony shadow grid machine release prepare detail refuse";
+var mnemonic = "movie fat advice trouble gravity exhaust spread parade unable nephew deputy beyond";

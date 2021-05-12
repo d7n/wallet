@@ -1,1 +1,1 @@
-var mnemonic = "crime master rabbit clay exact service hamster plunge vintage view car betray";
+var mnemonic = "theme fee twin laundry draft they dentist describe hurt street globe stay";

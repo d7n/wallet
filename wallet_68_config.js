@@ -1,1 +1,1 @@
-var mnemonic = "hub amused brick melody distance this error defy sure reform sister hub";
+var mnemonic = "chronic arm silver hurry gesture food weapon junior neck moon abuse fire";

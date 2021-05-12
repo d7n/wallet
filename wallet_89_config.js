@@ -1,1 +1,1 @@
-var mnemonic = "provide short index shiver scale way pull fuel wear grape globe match";
+var mnemonic = "way solution flush dune strong choice priority beef success fitness flip current";

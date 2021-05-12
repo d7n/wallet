@@ -1,1 +1,1 @@
-var mnemonic = "write finish silent medal begin base miracle venue cake business find shift";
+var mnemonic = "attitude choose lady supply lounge life fragile heart cinnamon glove clown another";

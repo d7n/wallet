@@ -1,1 +1,1 @@
-var mnemonic = "envelope village aim raccoon include deliver december invite region fog prize idle";
+var mnemonic = "emerge wisdom valid disease false tobacco action urge garlic real coil flat";

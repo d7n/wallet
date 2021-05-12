@@ -1,1 +1,1 @@
-var mnemonic = "depend coral chaos degree guitar floor digital aerobic dragon salon wire giant";
+var mnemonic = "clock under ugly fluid basket shrug film similar useful awkward bracket drill";

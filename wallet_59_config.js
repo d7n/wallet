@@ -1,1 +1,1 @@
-var mnemonic = "penalty riot myth cube discover win pond page box come demise drop";
+var mnemonic = "donor mask truly history water hole phone marine bubble notice script anxiety";

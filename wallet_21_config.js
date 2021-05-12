@@ -1,1 +1,1 @@
-var mnemonic = "title armor ridge venue pear art culture firm unhappy vacuum reform fun";
+var mnemonic = "detail remove banner wife danger web tent clip insect real champion faith";

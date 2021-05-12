@@ -1,1 +1,1 @@
-var mnemonic = "million machine ice clay image woman between youth inmate solution cloth young";
+var mnemonic = "build magnet spell glory royal bomb pass easy hockey better weapon obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar color horse current chunk script donor trash run voyage route lemon";
+var mnemonic = "raise hair glance document addict love attract pencil fog define nest planet";

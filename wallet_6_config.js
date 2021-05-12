@@ -1,1 +1,1 @@
-var mnemonic = "three truly key affair key figure thunder media kiwi clock acid butter";
+var mnemonic = "lawn other clock human update festival force rail involve tragic meat float";

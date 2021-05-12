@@ -1,1 +1,1 @@
-var mnemonic = "abuse swarm ocean movie giggle snap because gasp advice coil leopard pizza";
+var mnemonic = "bunker tiny ring inhale theme barely acid beauty phone remember throw share";

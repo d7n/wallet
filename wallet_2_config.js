@@ -1,1 +1,1 @@
-var mnemonic = "novel arrest odor mango abandon sunset gaze cloth over cart dolphin history";
+var mnemonic = "catalog soon guard cause dynamic punch brave laugh alley warm category airport";

@@ -1,1 +1,1 @@
-var mnemonic = "trick possible gloom despair bunker shield artwork amateur walnut green nation various";
+var mnemonic = "lounge more tank someone energy oil hip spawn initial ceiling twist betray";

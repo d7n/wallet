@@ -1,1 +1,1 @@
-var mnemonic = "task provide spatial kitchen simple half state grunt alter bonus slight trumpet";
+var mnemonic = "tag lonely zebra drill sign eight address since mixture federal argue narrow";

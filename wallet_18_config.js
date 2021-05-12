@@ -1,1 +1,1 @@
-var mnemonic = "rhythm enter various brand excuse visa protect skill inform remain curve organ";
+var mnemonic = "eye crater despair raw bamboo orange win era coconut judge similar van";

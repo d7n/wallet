@@ -1,1 +1,1 @@
-var mnemonic = "supply april guess shallow pony tomorrow annual dismiss dash wonder produce kite";
+var mnemonic = "lend hamster mimic urge reason they evoke episode dove raise crowd amateur";

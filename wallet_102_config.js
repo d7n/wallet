@@ -1,1 +1,1 @@
-var mnemonic = "outdoor half cake train topple stereo basket afford service clerk panda rigid";
+var mnemonic = "adult lounge bicycle clip pattern discover six label tumble ball rain tower";

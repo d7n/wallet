@@ -1,1 +1,1 @@
-var mnemonic = "knock shrimp flag quiz feed mind filter space rival kit possible lonely";
+var mnemonic = "diamond nuclear heart initial forum spike artefact immense upon east olympic cinnamon";

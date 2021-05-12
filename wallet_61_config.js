@@ -1,1 +1,1 @@
-var mnemonic = "trophy order demise witness guide humble frog answer swap dad silent suspect";
+var mnemonic = "farm lawsuit now jelly announce time exclude bind other twin nothing ostrich";

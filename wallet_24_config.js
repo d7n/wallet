@@ -1,1 +1,1 @@
-var mnemonic = "sentence knee normal rhythm gold flock pulp embrace acid edge host naive";
+var mnemonic = "candy stem input prefer cycle addict mask ball dance tenant number over";

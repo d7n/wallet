@@ -1,1 +1,1 @@
-var mnemonic = "worry card seminar race vast mass basic radar student luggage tray fashion";
+var mnemonic = "fold ladder mansion song swarm art normal together mushroom icon lawn toddler";

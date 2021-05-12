@@ -1,1 +1,1 @@
-var mnemonic = "before pilot twin voyage around visual response media breeze voice path company";
+var mnemonic = "leaf virus immune nerve truth echo museum come broom violin boil girl";

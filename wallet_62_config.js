@@ -1,1 +1,1 @@
-var mnemonic = "glare exhaust anger brown night rhythm essay train fluid pudding waste tube";
+var mnemonic = "drift blush list cloud kit tornado laundry arrow wine crazy thing jeans";

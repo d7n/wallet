@@ -1,1 +1,1 @@
-var mnemonic = "alert flavor series effort local twenty topic exist cable clump welcome chaos";
+var mnemonic = "soup reunion aware vast indoor suggest laugh fix gentle dress know cycle";

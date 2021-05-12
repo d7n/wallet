@@ -1,1 +1,1 @@
-var mnemonic = "design already pen screen afford retire bring express input wash expand pole";
+var mnemonic = "make bone buyer reveal manage siege aunt alarm noodle portion harsh drama";

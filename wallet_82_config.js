@@ -1,1 +1,1 @@
-var mnemonic = "buzz example venture unveil attract brush stamp little bus alarm dress rocket";
+var mnemonic = "require visa fix shy way school endless aim thought future chat movie";

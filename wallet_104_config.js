@@ -1,1 +1,1 @@
-var mnemonic = "burger suggest unlock trophy shop evil equip web survey ladder dentist convince";
+var mnemonic = "chest angry century open enroll sauce leave plunge enable ritual pride ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt lady detect soda hawk hungry weird shoulder network sudden script electric";
+var mnemonic = "mad ordinary chimney weekend grace guide evoke indicate festival bomb scorpion desk";

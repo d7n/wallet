@@ -1,1 +1,1 @@
-var mnemonic = "special blur kiss arrange dad cool believe chaos angle earn sister milk";
+var mnemonic = "govern forward federal orbit satisfy describe unlock dog logic bless demand plate";

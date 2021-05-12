@@ -1,1 +1,1 @@
-var mnemonic = "uphold kiwi bachelor tomorrow ritual position aware thank excess other lonely limit";
+var mnemonic = "toward ankle notable color dawn scare myth warm muscle warrior skin volcano";

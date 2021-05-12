@@ -1,1 +1,1 @@
-var mnemonic = "fold neutral bird dinosaur noble panther clay author fence panther giant axis";
+var mnemonic = "present drastic junk love pluck impose tumble absorb gasp main tiny apology";

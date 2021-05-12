@@ -1,1 +1,1 @@
-var mnemonic = "mixed sausage young unfair close craft polar either desert piano genuine lounge";
+var mnemonic = "limit slush worth moral elephant glimpse rhythm viable animal come park essay";

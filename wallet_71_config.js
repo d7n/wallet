@@ -1,1 +1,1 @@
-var mnemonic = "love math amount swamp decide film question ancient decline disease smart scorpion";
+var mnemonic = "pattern letter shadow poverty flush patient angry attend solid interest indicate page";

@@ -1,1 +1,1 @@
-var mnemonic = "orient mad voyage fly physical learn method airport lumber tilt portion struggle";
+var mnemonic = "dust slender tobacco art nuclear moon medal prosper grain drift amazing force";

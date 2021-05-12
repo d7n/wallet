@@ -1,1 +1,1 @@
-var mnemonic = "cherry heart clump toy very orchard oak street mention bronze moral bamboo";
+var mnemonic = "person boat forum quality chase apart sting blast chunk control matrix ranch";

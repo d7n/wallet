@@ -1,1 +1,1 @@
-var mnemonic = "wisdom spoil camera quote online solid shuffle moment eager before filter omit";
+var mnemonic = "rule warfare mesh feel stove ordinary science picture devote office wish ice";

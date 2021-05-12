@@ -1,1 +1,1 @@
-var mnemonic = "pulp anger choice toss drill away custom wine alcohol myth season garden";
+var mnemonic = "slot turtle pitch era apart hamster unable arm kiss jewel jazz enact";

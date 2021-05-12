@@ -1,1 +1,1 @@
-var mnemonic = "come local sick twelve ancient window piece load repair ankle soup cheese";
+var mnemonic = "peanut dwarf duty wine second mix real drum focus situate text ostrich";

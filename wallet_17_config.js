@@ -1,1 +1,1 @@
-var mnemonic = "frown view assume slight spread taxi shed hospital umbrella ski tail shield";
+var mnemonic = "diesel grunt twelve brush ostrich know crouch exist once twice claw useful";

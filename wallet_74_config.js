@@ -1,1 +1,1 @@
-var mnemonic = "barrel stairs elegant cage muscle industry river sunset brush print bind hammer";
+var mnemonic = "space giant glide airport step state one gown mom clever duty transfer";

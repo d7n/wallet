@@ -1,1 +1,1 @@
-var mnemonic = "speed sound rib deposit pink risk during grape hundred wagon rural duck";
+var mnemonic = "cigar invest gift noble live creek layer talk vintage marble enable merry";

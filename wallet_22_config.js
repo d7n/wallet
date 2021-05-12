@@ -1,1 +1,1 @@
-var mnemonic = "any pottery kit enemy label animal farm purse piece snack expose crush";
+var mnemonic = "post push upset winter evolve omit april robot verify detail april joy";

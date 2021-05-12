@@ -1,1 +1,1 @@
-var mnemonic = "digital auto often web dizzy since horror lottery cross alter foot method";
+var mnemonic = "select pitch gentle skin hero inflict travel lab crystal write mandate convince";

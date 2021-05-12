@@ -1,1 +1,1 @@
-var mnemonic = "resist palm dose sing pipe goat mix call ordinary animal decline basic";
+var mnemonic = "spray cousin exact together hawk under crew thought legal federal define atom";

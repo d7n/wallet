@@ -1,1 +1,1 @@
-var mnemonic = "material holiday marriage laundry card wisdom soccer insect slush clump organ weasel";
+var mnemonic = "isolate figure charge stuff find cheese blanket actor patrol dad grab bunker";

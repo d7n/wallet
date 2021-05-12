@@ -1,1 +1,1 @@
-var mnemonic = "puppy produce leave debate gain boat thank there uncover blue cloud sponsor";
+var mnemonic = "rookie tackle jewel cave accuse rack canyon woman pupil legend garment steel";

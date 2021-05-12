@@ -1,1 +1,1 @@
-var mnemonic = "census motion refuse frown nose casino embark comic square cargo treat crowd";
+var mnemonic = "drop concert festival decline gap mandate random ramp security skull famous today";

@@ -1,1 +1,1 @@
-var mnemonic = "moment rug defy spatial say below wall toss clump page enroll bar";
+var mnemonic = "mirror size advance sponsor pill swift wolf tent rough eyebrow habit cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth flight trash rookie satisfy major pave peanut coyote soda wreck circle";
+var mnemonic = "evoke alert angle popular devote allow wheat creek loud photo produce birth";

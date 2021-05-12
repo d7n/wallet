@@ -1,1 +1,1 @@
-var mnemonic = "shoe slot dawn future address wisdom tell rib margin garlic practice margin";
+var mnemonic = "obey soul wise tool grape awkward exchange liar verify august universe pupil";

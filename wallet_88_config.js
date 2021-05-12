@@ -1,1 +1,1 @@
-var mnemonic = "soul jungle genius ritual remove model weekend exist lemon metal risk dial";
+var mnemonic = "olive puzzle ethics spin wisdom gesture impact garden frog gain search capable";

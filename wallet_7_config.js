@@ -1,1 +1,1 @@
-var mnemonic = "predict bright symbol lazy vault design hurt crawl run beyond deputy turkey";
+var mnemonic = "stock napkin jar define cost shaft mansion box urban tired breeze deposit";

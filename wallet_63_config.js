@@ -1,1 +1,1 @@
-var mnemonic = "grocery result genuine wrap pelican venue cat pet blade fatigue unusual disorder";
+var mnemonic = "exotic bind this hurt lobster vendor grow case empower firm struggle ability";

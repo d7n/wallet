@@ -1,1 +1,1 @@
-var mnemonic = "gate clay destroy common guess ball scare loyal night sing boost interest";
+var mnemonic = "bar obtain loud beach struggle hunt that rack actor ill sail credit";

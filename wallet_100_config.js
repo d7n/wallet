@@ -1,1 +1,1 @@
-var mnemonic = "exclude fog wash license monkey range annual shop grocery dentist drum denial";
+var mnemonic = "budget desert tip equip assume hammer width coyote hip second concert hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "someone chaos accuse reason crystal talent add volcano orient abstract isolate empower";
+var mnemonic = "trap clean spring gaze claw device hammer spatial brisk aisle bright giggle";

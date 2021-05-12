@@ -1,1 +1,1 @@
-var mnemonic = "half treat miss observe gossip improve dish banner cousin guilt waste hero";
+var mnemonic = "category upper room foil midnight lamp observe inch spider ladder bind heart";

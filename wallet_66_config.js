@@ -1,1 +1,1 @@
-var mnemonic = "rescue field into piano start panic armor pizza woman wage online target";
+var mnemonic = "pave diary off below strong lend furnace version fun help enjoy actress";

@@ -1,1 +1,1 @@
-var mnemonic = "life run organ lemon potato unfold canyon icon snake badge gown save";
+var mnemonic = "add notice raccoon coconut peace behind inhale trend main enter vast better";

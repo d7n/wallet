@@ -1,1 +1,1 @@
-var mnemonic = "plate distance marine there local miracle news pledge canal resist fault hill";
+var mnemonic = "axis olympic jelly wild truly congress prefer absurd method tortoise lonely measure";

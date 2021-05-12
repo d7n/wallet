@@ -1,1 +1,1 @@
-var mnemonic = "assume diesel diesel sure review series poverty shoot budget either embark broccoli";
+var mnemonic = "leg clever expect lunar hedgehog raw depth actual wool glass elite solid";
