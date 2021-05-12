@@ -1,1 +1,1 @@
-var mnemonic = "vacant repeat window will ivory again ripple dinosaur struggle satoshi before tongue";
+var mnemonic = "know guide reflect mind setup swarm swear road popular grocery antenna initial";

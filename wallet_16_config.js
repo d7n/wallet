@@ -1,1 +1,1 @@
-var mnemonic = "foot wish solve robot arena rib history split soap mobile lunch rather";
+var mnemonic = "loud senior allow just sail foster paper lion quantum wheel become horn";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse payment cargo witness valve glad erase evil poet empower course mosquito";
+var mnemonic = "mistake come angle gun invite borrow book surprise shell village unit enable";

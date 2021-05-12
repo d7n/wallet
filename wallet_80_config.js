@@ -1,1 +1,1 @@
-var mnemonic = "grunt immune gym differ resource arrest pact hand because left drastic into";
+var mnemonic = "delay return hazard polar choose need dress session brief twice gauge learn";

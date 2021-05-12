@@ -1,1 +1,1 @@
-var mnemonic = "mouse glimpse talent merry indicate shrimp squeeze kite route engine wild hospital";
+var mnemonic = "fit bless bike shift success weather burst frame august worth surprise renew";

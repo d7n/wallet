@@ -1,1 +1,1 @@
-var mnemonic = "uphold benefit team shrimp easily trim long category rose twenty blind invest";
+var mnemonic = "between race spray emerge diesel fabric age federal wrestle glide replace denial";

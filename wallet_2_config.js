@@ -1,1 +1,1 @@
-var mnemonic = "trigger cradle obvious edit coconut exit carpet crop duck dog pigeon session";
+var mnemonic = "suit speak armed episode festival rib adult present act cheap initial ancient";

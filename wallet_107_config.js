@@ -1,1 +1,1 @@
-var mnemonic = "oval sell toy divorce domain poverty meat stone safe boat govern pilot";
+var mnemonic = "slush hover sell twelve cricket gown vivid arctic chuckle original fatigue radio";

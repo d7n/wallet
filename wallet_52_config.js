@@ -1,1 +1,1 @@
-var mnemonic = "gun record transfer panther teach extra release hazard control night acoustic either";
+var mnemonic = "trash bundle brand among man dismiss layer regular pill shrimp harvest guitar";

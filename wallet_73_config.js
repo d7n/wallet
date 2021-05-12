@@ -1,1 +1,1 @@
-var mnemonic = "review client fossil ramp kidney cupboard pull divide nation unhappy bless wife";
+var mnemonic = "tragic casual casino speed annual truck swift ill alert argue safe leisure";

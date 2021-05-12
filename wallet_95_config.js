@@ -1,1 +1,1 @@
-var mnemonic = "during matrix shadow way course vacant north myself habit evidence wash parent";
+var mnemonic = "garlic champion letter vapor elder scorpion sniff surface salon chest lunar exhaust";

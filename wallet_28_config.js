@@ -1,1 +1,1 @@
-var mnemonic = "satoshi edit kidney leave random sleep match refuse join doll describe category";
+var mnemonic = "orchard venture chaos sport chase wash extend kitchen morning faint elevator camp";

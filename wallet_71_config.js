@@ -1,1 +1,1 @@
-var mnemonic = "current warm vital useless clean antique valve little silly raise drastic scatter";
+var mnemonic = "unusual camp chuckle trash step large can thank interest soon soap trigger";

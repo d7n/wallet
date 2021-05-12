@@ -1,1 +1,1 @@
-var mnemonic = "floor glare zero useless supply together ready unable then celery own surge";
+var mnemonic = "hamster security cube wear bacon intact jungle ghost wool young vast walk";

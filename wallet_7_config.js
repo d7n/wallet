@@ -1,1 +1,1 @@
-var mnemonic = "extra trigger dynamic pulp puppy topple broken embody wing donate vacant gun";
+var mnemonic = "obvious island balance file reduce brain illness ticket disease stable jeans rich";

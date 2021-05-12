@@ -1,1 +1,1 @@
-var mnemonic = "cannon next much loud fringe daring shrimp good urge cattle arch tiger";
+var mnemonic = "open almost icon bring jeans vocal scare scare toast gorilla media kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty asthma arena pink final account regular grain theme above busy excess";
+var mnemonic = "spawn young drum music nut axis rely donkey spring lake opera aim";

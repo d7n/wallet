@@ -1,1 +1,1 @@
-var mnemonic = "pony symbol return board piano test trap twist swallow gauge chair used";
+var mnemonic = "film deliver biology spell stone dutch furnace meadow rib nuclear radio atom";

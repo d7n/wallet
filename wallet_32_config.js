@@ -1,1 +1,1 @@
-var mnemonic = "carbon tissue silent mercy close matrix chuckle spice air fancy hollow silver";
+var mnemonic = "glory cloud honey cat velvet interest wise suspect green pave soft reveal";

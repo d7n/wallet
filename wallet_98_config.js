@@ -1,1 +1,1 @@
-var mnemonic = "until poverty cave multiply unfold flower skirt course boat game west old";
+var mnemonic = "defy february door topic april seven alien solve obscure rough estate glide";

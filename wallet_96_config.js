@@ -1,1 +1,1 @@
-var mnemonic = "split acquire drink stereo tissue crumble bid boss used welcome tank senior";
+var mnemonic = "teach salon grain talk maple source expect around suit suit alpha humble";

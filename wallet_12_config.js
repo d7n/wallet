@@ -1,1 +1,1 @@
-var mnemonic = "library century assume neither riot town swear engage hood pink battle traffic";
+var mnemonic = "whip call pair entry scale now leader prison song answer hint time";

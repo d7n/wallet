@@ -1,1 +1,1 @@
-var mnemonic = "medal among just enter clinic become still leaf creek rule avoid smoke";
+var mnemonic = "develop rhythm impose arctic decrease universe feed drink blade arena disease cabin";

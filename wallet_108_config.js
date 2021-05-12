@@ -1,1 +1,1 @@
-var mnemonic = "march vital toe leg cry scrub enough supply shrug foot window fish";
+var mnemonic = "draft gauge heavy frozen phone useful time review mixture remove then prize";

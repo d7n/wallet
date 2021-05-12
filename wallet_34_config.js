@@ -1,1 +1,1 @@
-var mnemonic = "nose stand ridge believe retire assault pave meadow decade village weasel input";
+var mnemonic = "drop erosion gossip gorilla casino snake write client pause venture front smoke";

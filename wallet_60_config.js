@@ -1,1 +1,1 @@
-var mnemonic = "parrot slot claim choice two elder baby naive entire lottery ketchup front";
+var mnemonic = "spider razor shoulder laptop endless hobby rich flight rabbit divorce duty perfect";

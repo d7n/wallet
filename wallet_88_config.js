@@ -1,1 +1,1 @@
-var mnemonic = "wing fetch icon demise two flight twin space clay soup nominee cruise";
+var mnemonic = "feature census high unaware snow crop tiny oyster brief act drastic manual";

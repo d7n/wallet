@@ -1,1 +1,1 @@
-var mnemonic = "cannon leader despair nature belt patrol aware prepare decorate zoo cute sorry";
+var mnemonic = "actual afford talk eagle pencil measure oblige emerge symbol during fold blue";

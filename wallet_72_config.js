@@ -1,1 +1,1 @@
-var mnemonic = "victory butter swift rose hospital else elite monkey tank submit forget essay";
+var mnemonic = "twelve clarify once hold roast prize endorse error grab ill wife coil";

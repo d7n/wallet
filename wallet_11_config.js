@@ -1,1 +1,1 @@
-var mnemonic = "else circle lava plug wood track grunt awful any print record casual";
+var mnemonic = "parrot plate huge canoe sausage scare lecture fringe cruise donkey solid worth";

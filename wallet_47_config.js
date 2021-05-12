@@ -1,1 +1,1 @@
-var mnemonic = "shiver luggage cool retire yard fitness coffee invite tattoo oak excess resemble";
+var mnemonic = "soon hungry cube alone index ginger turtle camera rally mystery laundry maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet twelve crop always armor advance broken evolve gate view luxury essence";
+var mnemonic = "injury venue address bridge satisfy virtual observe menu hand traffic reform grape";

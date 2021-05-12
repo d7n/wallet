@@ -1,1 +1,1 @@
-var mnemonic = "exhaust child mom syrup soldier current camp fresh idle charge scale hip";
+var mnemonic = "brand check coast tonight math oil another fix minimum recall alert south";

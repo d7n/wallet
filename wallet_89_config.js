@@ -1,1 +1,1 @@
-var mnemonic = "donate deer police charge little woman desert visa crystal seven sort height";
+var mnemonic = "victory garage joy shallow then walk deliver age divert stairs owner century";

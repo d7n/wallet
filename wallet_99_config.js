@@ -1,1 +1,1 @@
-var mnemonic = "elite parrot tent donkey hazard asset wide cannon since expand swamp inject";
+var mnemonic = "liquid smooth source kick leg laugh avoid ability earn depart edit daring";

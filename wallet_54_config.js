@@ -1,1 +1,1 @@
-var mnemonic = "student canvas scrap kiss brave goat indicate travel boat famous furnace join";
+var mnemonic = "bench earn rather can know swamp seven cube ahead flat fox stadium";

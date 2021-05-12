@@ -1,1 +1,1 @@
-var mnemonic = "stereo cat another control thought toss nature flip code believe audit left";
+var mnemonic = "post seminar drastic volume base filter dress scheme broom female lobster stock";

@@ -1,1 +1,1 @@
-var mnemonic = "owner wage exchange unveil host display thrive talent remain museum fossil quantum";
+var mnemonic = "thing size clown evil seed ready gauge focus atom renew salute dice";

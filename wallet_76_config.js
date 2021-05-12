@@ -1,1 +1,1 @@
-var mnemonic = "assume crazy march hat dry leg expire flag teach crumble leave cigar";
+var mnemonic = "despair economy fall rule feed vast point chapter report account apology slight";

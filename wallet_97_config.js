@@ -1,1 +1,1 @@
-var mnemonic = "recall insect version duty clean tiger divorce cram gather during pool awake";
+var mnemonic = "figure turn region age stadium dial youth glance install common include engine";

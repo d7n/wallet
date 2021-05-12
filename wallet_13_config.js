@@ -1,1 +1,1 @@
-var mnemonic = "network metal hurry wrong patient cradle electric smile build guess grab harbor";
+var mnemonic = "friend course honey toddler ancient book school shove giant midnight journey field";

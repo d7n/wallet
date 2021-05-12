@@ -1,1 +1,1 @@
-var mnemonic = "hurdle tag start useless various remind access arch funny truck family quality";
+var mnemonic = "author field wonder sense raw age crop bind enforce response junior note";

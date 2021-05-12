@@ -1,1 +1,1 @@
-var mnemonic = "timber surprise arrest diamond invite west dwarf explain into impulse check super";
+var mnemonic = "vintage ugly trick what village girl weasel hair section icon feed shiver";

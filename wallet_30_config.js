@@ -1,1 +1,1 @@
-var mnemonic = "type click again author color crumble range fiscal talk fork burden black";
+var mnemonic = "flat casino citizen please mango slim beef cabbage buzz help tuna beach";

@@ -1,1 +1,1 @@
-var mnemonic = "trust delay own cereal expect project screen order unique title child inherit";
+var mnemonic = "lumber repair rhythm pond sketch aspect add illegal pond exhaust punch era";

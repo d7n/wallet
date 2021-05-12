@@ -1,1 +1,1 @@
-var mnemonic = "link crunch nuclear snow safe little elegant interest address rocket marriage hub";
+var mnemonic = "source owner friend file law noble gain conduct deliver hello tenant antique";

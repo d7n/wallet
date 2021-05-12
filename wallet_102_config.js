@@ -1,1 +1,1 @@
-var mnemonic = "jelly kangaroo inject volcano battle enforce base major super pistol repeat select";
+var mnemonic = "awkward okay creek fine arctic purchase okay nice flame kind panther neglect";

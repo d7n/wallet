@@ -1,1 +1,1 @@
-var mnemonic = "vintage author palace jump believe brick lizard venue custom lyrics dirt certain";
+var mnemonic = "gesture grunt thing tail carpet sustain cruise bulk ill myth win credit";

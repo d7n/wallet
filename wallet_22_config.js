@@ -1,1 +1,1 @@
-var mnemonic = "enforce cousin upper woman canvas pudding portion clap century whisper burden brave";
+var mnemonic = "caught rural victory dash maid school layer rival symptom immense person crash";

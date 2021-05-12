@@ -1,1 +1,1 @@
-var mnemonic = "best bright spot echo juice exact purchase large language steak canyon ahead";
+var mnemonic = "fitness easily weapon leave bag maximum rhythm empty rail reopen address cream";

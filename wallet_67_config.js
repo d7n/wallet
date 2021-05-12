@@ -1,1 +1,1 @@
-var mnemonic = "want menu indicate cry gown theme choose illegal hero mass disagree shift";
+var mnemonic = "reveal bleak rely visa dance present autumn page cliff isolate record wall";

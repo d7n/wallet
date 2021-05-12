@@ -1,1 +1,1 @@
-var mnemonic = "express tone bridge web hand risk toast unlock canvas nephew street involve";
+var mnemonic = "wide pulp inject breeze camp volume hub drop alarm hurt draft fork";

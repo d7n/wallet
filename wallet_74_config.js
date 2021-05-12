@@ -1,1 +1,1 @@
-var mnemonic = "drum various flavor hat work paddle aunt loud seven achieve afford derive";
+var mnemonic = "size genre capital license result decade display fantasy winter reunion uphold clay";

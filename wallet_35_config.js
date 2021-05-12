@@ -1,1 +1,1 @@
-var mnemonic = "grace open bubble response resource tonight dinosaur among globe circle second crush";
+var mnemonic = "ill among comfort better visual seminar eager caught where sting good parent";

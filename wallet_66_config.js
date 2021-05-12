@@ -1,1 +1,1 @@
-var mnemonic = "pioneer frog add salute sword patch identify crucial all essence brisk asset";
+var mnemonic = "tortoise someone stove grunt exact busy snap possible february phone gaze flee";

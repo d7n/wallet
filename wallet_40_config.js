@@ -1,1 +1,1 @@
-var mnemonic = "bread kite garage unique torch wide day morning crouch knock isolate ahead";
+var mnemonic = "trend miss edge six burst wolf stage pottery ribbon motion clarify nut";

@@ -1,1 +1,1 @@
-var mnemonic = "worth radar member business short cricket buffalo hood quit notice soup exist";
+var mnemonic = "glimpse antenna pig flag enact dance tape sorry remain charge parade essay";

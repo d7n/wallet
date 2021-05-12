@@ -1,1 +1,1 @@
-var mnemonic = "kick make child scissors busy sick document float boy exotic chunk crime";
+var mnemonic = "deputy filter grab dish wasp armor unfair problem discover wheat tissue run";

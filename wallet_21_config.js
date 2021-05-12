@@ -1,1 +1,1 @@
-var mnemonic = "drink ankle fun salon expose canal depend alarm boring idle palace knee";
+var mnemonic = "music ugly relief surprise nerve angle fatal famous elder faculty buzz scissors";

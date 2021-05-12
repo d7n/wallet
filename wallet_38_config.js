@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow obtain health float common same stadium supply average sleep bring super";
+var mnemonic = "orbit seed gather exist foster sunny couple rifle avoid diary velvet joke";

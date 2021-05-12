@@ -1,1 +1,1 @@
-var mnemonic = "tribe upper clown scan sign side opinion venue gadget tissue invite inquiry";
+var mnemonic = "joke side coconut virtual brisk dwarf iron wave night mule play whale";

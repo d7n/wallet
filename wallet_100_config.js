@@ -1,1 +1,1 @@
-var mnemonic = "hope hundred cabin party dragon announce bar amount hotel tired lawsuit music";
+var mnemonic = "pool object lyrics donor run ask similar hold keep sight choice turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "girl sauce teach manual slot lounge confirm fatigue apart plastic adjust misery";
+var mnemonic = "brief account attack slice rude recall exit attitude critic word edit modify";

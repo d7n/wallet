@@ -1,1 +1,1 @@
-var mnemonic = "style soldier clap fame review tube whip broom grocery nephew switch skirt";
+var mnemonic = "common discover parrot solar drill online repeat curve pledge until indicate mention";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf tent safe evoke window wife fortune seat spray gentle pink misery";
+var mnemonic = "autumn curtain twelve lemon egg arctic forest alcohol auction favorite wish cup";

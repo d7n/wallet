@@ -1,1 +1,1 @@
-var mnemonic = "dose work together equip life surprise phone satisfy stage disease adjust smile";
+var mnemonic = "illegal earn elegant exotic couch mask believe belt nation burden core access";

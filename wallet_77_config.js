@@ -1,1 +1,1 @@
-var mnemonic = "churn ketchup hover tattoo room lemon check item sleep clown belt merry";
+var mnemonic = "head kite orbit staff slender rude attend apple spin public damage tooth";

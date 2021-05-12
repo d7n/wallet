@@ -1,1 +1,1 @@
-var mnemonic = "hamster note tornado kite save turkey glimpse grunt battle couch into mutual";
+var mnemonic = "vote divide energy inject power fine hope advance flush raise gentle battle";

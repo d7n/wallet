@@ -1,1 +1,1 @@
-var mnemonic = "disagree express cash deer gallery era judge noise improve patrol treat only";
+var mnemonic = "antique net dove intact lend leisure tonight basic raw stove field twelve";

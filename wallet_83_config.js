@@ -1,1 +1,1 @@
-var mnemonic = "clean chase opinion unveil hidden nature ocean gap draft chair deny gloom";
+var mnemonic = "grab local curtain junk edge select tourist energy sun foster image such";

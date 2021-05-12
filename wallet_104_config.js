@@ -1,1 +1,1 @@
-var mnemonic = "portion wonder ticket live mix forward feature trust screen spider hotel subway";
+var mnemonic = "quarter relax between flip just clay leader boil page asthma wish come";

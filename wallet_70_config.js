@@ -1,1 +1,1 @@
-var mnemonic = "cave vehicle spawn pass stumble between column elegant frequent network march fresh";
+var mnemonic = "fall gospel tip happy token candy release december palm bounce pelican initial";

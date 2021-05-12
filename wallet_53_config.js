@@ -1,1 +1,1 @@
-var mnemonic = "major traffic basket famous confirm crash tip what already file spice admit";
+var mnemonic = "glass round parent upset antenna tuition purchase vacuum asset sniff merit thing";

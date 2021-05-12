@@ -1,1 +1,1 @@
-var mnemonic = "vibrant success math equal surge two parent matter gym civil rubber away";
+var mnemonic = "enable topple evolve canvas basket normal thing gauge bubble melt apology focus";

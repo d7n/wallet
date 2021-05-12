@@ -1,1 +1,1 @@
-var mnemonic = "gallery horn glide injury ranch poet diamond citizen siren expand reflect fame";
+var mnemonic = "habit become defense crunch easily hunt chuckle aspect amount believe hurry tip";

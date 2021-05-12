@@ -1,1 +1,1 @@
-var mnemonic = "kid nurse surround wish situate execute light prepare sad disagree junior know";
+var mnemonic = "critic ankle bridge snack shrimp muffin coil helmet improve adapt lunch dignity";

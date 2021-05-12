@@ -1,1 +1,1 @@
-var mnemonic = "breeze wear wave design remind sniff ghost duck aerobic alien kid gain";
+var mnemonic = "embrace enlist mansion man expect story borrow august render trust media month";

@@ -1,1 +1,1 @@
-var mnemonic = "dog wheel gorilla luggage hair helmet cereal eight next nothing pair captain";
+var mnemonic = "ritual gadget head home any marble use athlete rubber wrap giant negative";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten cave soup office carry fiber trend project drop jaguar range minimum";
+var mnemonic = "glance couple sadness pledge question bleak iron arctic add public toe grain";

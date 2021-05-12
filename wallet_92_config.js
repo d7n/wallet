@@ -1,1 +1,1 @@
-var mnemonic = "certain humor joy scorpion burst music two egg help access shadow crowd";
+var mnemonic = "cage hair extra miss trade pride step tornado law candy result insane";

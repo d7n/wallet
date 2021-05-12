@@ -1,1 +1,1 @@
-var mnemonic = "beyond detail gap head settle cross runway crucial diary whale danger caution";
+var mnemonic = "nothing rocket skull force math model street battle stable false same goddess";

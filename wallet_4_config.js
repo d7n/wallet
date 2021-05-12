@@ -1,1 +1,1 @@
-var mnemonic = "unable universe useful anxiety fresh flame donor ridge point session return child";
+var mnemonic = "rain mesh bleak glow glide quiz assist taste coyote want genuine affair";

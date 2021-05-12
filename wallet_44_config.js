@@ -1,1 +1,1 @@
-var mnemonic = "code bundle tiger oil grocery joke proof giant pelican exchange behind choice";
+var mnemonic = "night quick struggle opera viable index harsh buyer vibrant special receive able";

@@ -1,1 +1,1 @@
-var mnemonic = "inside misery regret feature shove ring cannon decorate timber hawk cute slogan";
+var mnemonic = "manage minute nasty artefact bomb gain knock dentist early color jealous feature";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper poem scheme review violin oyster skill october bullet quality shell nurse";
+var mnemonic = "feature silk deposit gather cup result amateur sausage setup famous grain sadness";

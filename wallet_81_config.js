@@ -1,1 +1,1 @@
-var mnemonic = "rent allow worry occur afraid captain wisdom ripple hover medal radar author";
+var mnemonic = "banner cover glance quote stem hello husband mistake genuine dune spend supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel helmet uniform cloth play blossom silent narrow slam young mirror exist";
+var mnemonic = "suspect retire item say woman thrive doll paper pet cause group amateur";

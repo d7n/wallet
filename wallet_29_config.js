@@ -1,1 +1,1 @@
-var mnemonic = "network valve remove leg return cram law month cigar daring steel shoulder";
+var mnemonic = "wisdom artefact alley poet pig liar dignity twice other valve turn sphere";

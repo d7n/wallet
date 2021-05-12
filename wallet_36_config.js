@@ -1,1 +1,1 @@
-var mnemonic = "unique intact away planet patient mean heavy popular draw differ nerve will";
+var mnemonic = "credit absurd famous any shallow upset major icon borrow army skin brush";

@@ -1,1 +1,1 @@
-var mnemonic = "burger insane evoke organ mixed round just later ugly ill peasant year";
+var mnemonic = "deputy fashion lunch soul dial lift battle lobster mask hood giant little";

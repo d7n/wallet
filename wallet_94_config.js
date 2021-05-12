@@ -1,1 +1,1 @@
-var mnemonic = "steak garment verify harsh tomato pudding elephant comic lyrics license trip render";
+var mnemonic = "addict ride chase slot error object ice squirrel tag toy air movie";

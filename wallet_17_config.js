@@ -1,1 +1,1 @@
-var mnemonic = "basket drift dust addict bulk story nuclear heart buyer apart twist debate";
+var mnemonic = "steak ill soldier decrease about secret stamp fiscal brown approve wink inquiry";
