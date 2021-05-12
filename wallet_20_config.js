@@ -1,1 +1,1 @@
-var mnemonic = "square under gym bracket where ritual dinosaur festival assume cat embody belt";
+var mnemonic = "garbage near idea able useless dynamic sniff dose peace sand fever return";

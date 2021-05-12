@@ -1,1 +1,1 @@
-var mnemonic = "sustain coach office tomorrow inch online sock pudding anxiety blast gift movie";
+var mnemonic = "indoor edge open document rubber notable armed correct rule voyage cluster runway";

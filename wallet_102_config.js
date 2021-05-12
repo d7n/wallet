@@ -1,1 +1,1 @@
-var mnemonic = "general until fly sugar spike frequent about fun canyon one spend motion";
+var mnemonic = "outdoor half cake train topple stereo basket afford service clerk panda rigid";

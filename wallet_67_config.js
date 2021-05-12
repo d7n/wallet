@@ -1,1 +1,1 @@
-var mnemonic = "action city beef draw manage carbon avoid swim spend country cry picnic";
+var mnemonic = "life run organ lemon potato unfold canyon icon snake badge gown save";

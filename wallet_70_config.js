@@ -1,1 +1,1 @@
-var mnemonic = "pill slogan civil oil travel glimpse stone penalty nothing ready rail tent";
+var mnemonic = "worry card seminar race vast mass basic radar student luggage tray fashion";

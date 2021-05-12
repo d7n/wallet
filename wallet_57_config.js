@@ -1,1 +1,1 @@
-var mnemonic = "marble energy thumb useful keep special increase receive century romance need inspire";
+var mnemonic = "basket cradle sorry silver ensure time skirt motion adjust canoe bargain lunar";

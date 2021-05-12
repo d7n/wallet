@@ -1,1 +1,1 @@
-var mnemonic = "talent wing prison final pair pride dice quarter shallow convince lunch blast";
+var mnemonic = "hour emerge layer system person trap alien fun tissue scheme chronic space";

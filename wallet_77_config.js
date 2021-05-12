@@ -1,1 +1,1 @@
-var mnemonic = "seek hip whale annual price special talent provide follow pelican staff reflect";
+var mnemonic = "demise fabric car derive wolf else vapor sadness enrich case risk winner";

@@ -1,1 +1,1 @@
-var mnemonic = "hint friend ginger picnic book vague just impact gas ripple rail next";
+var mnemonic = "park morning seminar peace person royal write harbor peasant evoke frown one";

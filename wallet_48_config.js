@@ -1,1 +1,1 @@
-var mnemonic = "little violin copy summer veteran acid carbon morning scene ice dwarf wire";
+var mnemonic = "viable force uphold window draft panda save today vibrant daughter consider trap";

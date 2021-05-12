@@ -1,1 +1,1 @@
-var mnemonic = "soda adapt clerk retreat lawn creek oven illness avoid youth soul august";
+var mnemonic = "task provide spatial kitchen simple half state grunt alter bonus slight trumpet";

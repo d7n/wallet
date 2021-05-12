@@ -1,1 +1,1 @@
-var mnemonic = "put endless gallery absent shiver dignity travel surface exhibit panel donkey glass";
+var mnemonic = "allow behind desk donate glass dove nerve speak allow reject limb special";

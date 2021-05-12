@@ -1,1 +1,1 @@
-var mnemonic = "forward today impact concert december home number virtual close cook point unique";
+var mnemonic = "cloth flight trash rookie satisfy major pave peanut coyote soda wreck circle";

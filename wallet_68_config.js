@@ -1,1 +1,1 @@
-var mnemonic = "beauty rebuild quantum mirror trophy embrace drama dress bundle rice smart cute";
+var mnemonic = "hub amused brick melody distance this error defy sure reform sister hub";

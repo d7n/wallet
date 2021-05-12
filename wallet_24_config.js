@@ -1,1 +1,1 @@
-var mnemonic = "obey major chest arrive message fork excite bleak lemon oval bright road";
+var mnemonic = "sentence knee normal rhythm gold flock pulp embrace acid edge host naive";

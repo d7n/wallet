@@ -1,1 +1,1 @@
-var mnemonic = "decide hour asset dog fitness essay bright detail parade stand jealous where";
+var mnemonic = "dune average series claim add test maximum pizza trip gas opinion theme";

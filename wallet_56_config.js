@@ -1,1 +1,1 @@
-var mnemonic = "faculty carpet post moment seven obscure rubber estate item muffin clerk coconut";
+var mnemonic = "mixed sausage young unfair close craft polar either desert piano genuine lounge";

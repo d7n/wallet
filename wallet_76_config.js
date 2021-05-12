@@ -1,1 +1,1 @@
-var mnemonic = "column whale census vital battle obey help foot solution toe stage million";
+var mnemonic = "angry ball object shaft goose leg visual govern flip merge grid mutual";

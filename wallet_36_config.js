@@ -1,1 +1,1 @@
-var mnemonic = "escape air liar bread regular arrange funny differ lounge judge vivid vessel";
+var mnemonic = "trick possible gloom despair bunker shield artwork amateur walnut green nation various";

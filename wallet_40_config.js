@@ -1,1 +1,1 @@
-var mnemonic = "meadow sketch shiver easy project view kingdom path dolphin vocal custom ride";
+var mnemonic = "much spirit kitchen seek science cabbage present slam science plunge legend culture";

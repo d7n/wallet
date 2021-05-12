@@ -1,1 +1,1 @@
-var mnemonic = "wide imitate click pilot walnut repeat stand grow suspect junk cabin fancy";
+var mnemonic = "frown view assume slight spread taxi shed hospital umbrella ski tail shield";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel mirror clip option side tone civil furnace flush lion favorite seed";
+var mnemonic = "fold neutral bird dinosaur noble panther clay author fence panther giant axis";

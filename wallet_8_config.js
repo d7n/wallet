@@ -1,1 +1,1 @@
-var mnemonic = "arrow recycle edge wise obvious maid mom wise job anchor tip define";
+var mnemonic = "crime master rabbit clay exact service hamster plunge vintage view car betray";

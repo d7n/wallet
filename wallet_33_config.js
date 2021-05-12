@@ -1,1 +1,1 @@
-var mnemonic = "wagon combine essay concert pave pulp name journey inquiry rose exile shift";
+var mnemonic = "tongue axis baby cannon elite quiz price lesson awkward traffic cable aerobic";

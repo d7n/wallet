@@ -1,1 +1,1 @@
-var mnemonic = "industry wild hundred test fragile rice work bomb tip bulk december team";
+var mnemonic = "grocery excuse scrap patient unable gun essence client seed fork float attract";

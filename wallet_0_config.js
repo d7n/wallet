@@ -1,1 +1,1 @@
-var mnemonic = "hungry concert summer carpet steak pig leader unusual lawsuit grant oyster buyer";
+var mnemonic = "speed absurd left panda churn seat ready coil bomb survey giggle ivory";

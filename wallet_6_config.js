@@ -1,1 +1,1 @@
-var mnemonic = "pole super hunt cotton green inform link floor beach squirrel dragon humor";
+var mnemonic = "three truly key affair key figure thunder media kiwi clock acid butter";

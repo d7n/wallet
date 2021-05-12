@@ -1,1 +1,1 @@
-var mnemonic = "tool boy mechanic kick step pelican prevent run absurd gain dynamic chalk";
+var mnemonic = "write finish silent medal begin base miracle venue cake business find shift";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile vendor web upset impulse slice attend client eagle jeans lemon picnic";
+var mnemonic = "uphold kiwi bachelor tomorrow ritual position aware thank excess other lonely limit";

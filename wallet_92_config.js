@@ -1,1 +1,1 @@
-var mnemonic = "term universe gain liar book notable easy decide news dinner learn uphold";
+var mnemonic = "over virus wild endless slow arrange humor amazing arch harvest gesture spread";

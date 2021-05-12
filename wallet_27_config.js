@@ -1,1 +1,1 @@
-var mnemonic = "sudden chapter shallow pink reform body crystal inspire steel sure airport horror";
+var mnemonic = "envelope village aim raccoon include deliver december invite region fog prize idle";

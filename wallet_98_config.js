@@ -1,1 +1,1 @@
-var mnemonic = "nerve anchor athlete drop winter tag unlock intact myth uncover bless census";
+var mnemonic = "wonder same front write embody powder couple warm mirror spring bounce pet";

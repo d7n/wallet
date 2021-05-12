@@ -1,1 +1,1 @@
-var mnemonic = "tortoise cruel erase depth reveal index corn one grief worry shadow sample";
+var mnemonic = "exclude fog wash license monkey range annual shop grocery dentist drum denial";

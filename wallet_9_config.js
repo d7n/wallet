@@ -1,1 +1,1 @@
-var mnemonic = "ten universe boss curve lake private modify insect curious dentist deposit abandon";
+var mnemonic = "armed boring jacket animal neglect lamp frame day leave kiwi wool jump";

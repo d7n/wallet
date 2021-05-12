@@ -1,1 +1,1 @@
-var mnemonic = "slice cook accident excess witness life nest trim unknown long file taxi";
+var mnemonic = "wisdom spoil camera quote online solid shuffle moment eager before filter omit";

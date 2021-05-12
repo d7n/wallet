@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog knee stone impact raise manual broken cannon flight kite awful destroy";
+var mnemonic = "title armor ridge venue pear art culture firm unhappy vacuum reform fun";

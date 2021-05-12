@@ -1,1 +1,1 @@
-var mnemonic = "runway moment grunt abandon gas rate trouble media avocado inherit earth error";
+var mnemonic = "please toast post ice process plastic miracle casual shoot phone issue neglect";

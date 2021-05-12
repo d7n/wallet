@@ -1,1 +1,1 @@
-var mnemonic = "benefit purchase uncle exchange spatial kangaroo flip capable lyrics shine scissors usage";
+var mnemonic = "moment rug defy spatial say below wall toss clump page enroll bar";

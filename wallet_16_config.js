@@ -1,1 +1,1 @@
-var mnemonic = "defy brass tooth clinic loud rescue heavy vital believe occur book slogan";
+var mnemonic = "before pilot twin voyage around visual response media breeze voice path company";

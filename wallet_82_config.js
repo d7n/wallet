@@ -1,1 +1,1 @@
-var mnemonic = "join kit glory easy salt video kick tag news pen dial rail";
+var mnemonic = "buzz example venture unveil attract brush stamp little bus alarm dress rocket";

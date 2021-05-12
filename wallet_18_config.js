@@ -1,1 +1,1 @@
-var mnemonic = "dress tongue accident addict mansion arrange virus fatigue valid kit artwork slice";
+var mnemonic = "rhythm enter various brand excuse visa protect skill inform remain curve organ";

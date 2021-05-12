@@ -1,1 +1,1 @@
-var mnemonic = "much entire curve deny approve wait mule banner rough equip spot short";
+var mnemonic = "alien review beef unable ranch hurry core sentence sun enroll capital chronic";

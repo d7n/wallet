@@ -1,1 +1,1 @@
-var mnemonic = "surface attract venue warfare family average enforce issue inflict uncover design crush";
+var mnemonic = "penalty riot myth cube discover win pond page box come demise drop";

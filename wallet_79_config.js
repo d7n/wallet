@@ -1,1 +1,1 @@
-var mnemonic = "culture version actual quantum square quiz bicycle top amount kiwi decide illness";
+var mnemonic = "identify report educate blade kind noise link chalk favorite penalty stumble romance";

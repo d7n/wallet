@@ -1,1 +1,1 @@
-var mnemonic = "salon town future medal method sting flash approve master plug scene bring";
+var mnemonic = "burger suggest unlock trophy shop evil equip web survey ladder dentist convince";

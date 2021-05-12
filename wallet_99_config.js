@@ -1,1 +1,1 @@
-var mnemonic = "exist move timber spider local enhance display nut defy invest tiger moon";
+var mnemonic = "royal enter fee wrap blood hole forum power aunt fish close wear";

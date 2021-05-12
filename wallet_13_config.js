@@ -1,1 +1,1 @@
-var mnemonic = "bachelor proud joke dilemma youth worry cycle century hand pulp mandate winter";
+var mnemonic = "order clarify shift spot pony shadow grid machine release prepare detail refuse";

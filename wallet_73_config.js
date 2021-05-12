@@ -1,1 +1,1 @@
-var mnemonic = "gravity basic crawl diesel debris rough manage dose nuclear vibrant artwork giraffe";
+var mnemonic = "cherry heart clump toy very orchard oak street mention bronze moral bamboo";

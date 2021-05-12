@@ -1,1 +1,1 @@
-var mnemonic = "rack little abstract flight what noodle box noodle achieve adjust orphan shed";
+var mnemonic = "raise weapon asset tonight since conduct planet tenant million basic weather country";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket split dutch burger rebuild dog better skull abstract spell stone east";
+var mnemonic = "stick expand maximum grape gospel between found advice that tobacco since bread";

@@ -1,1 +1,1 @@
-var mnemonic = "also hip version among erupt bacon weird finger voyage turn giraffe leopard";
+var mnemonic = "supply april guess shallow pony tomorrow annual dismiss dash wonder produce kite";

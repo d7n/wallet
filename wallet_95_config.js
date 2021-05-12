@@ -1,1 +1,1 @@
-var mnemonic = "observe cushion amateur online decrease panda inject earn journey rough daughter antique";
+var mnemonic = "find humble hip quiz coconut game poem sadness fit used fiction margin";

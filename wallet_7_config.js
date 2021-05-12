@@ -1,1 +1,1 @@
-var mnemonic = "laptop chat hundred bench rookie sadness inside lunch destroy walk barely push";
+var mnemonic = "predict bright symbol lazy vault design hurt crawl run beyond deputy turkey";

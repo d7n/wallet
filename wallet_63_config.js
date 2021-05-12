@@ -1,1 +1,1 @@
-var mnemonic = "fetch bundle battle glad social maple fog weasel wreck project major alter";
+var mnemonic = "grocery result genuine wrap pelican venue cat pet blade fatigue unusual disorder";

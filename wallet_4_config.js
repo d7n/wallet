@@ -1,1 +1,1 @@
-var mnemonic = "usage cover enroll scene key burst remember mansion grief beach tide meadow";
+var mnemonic = "cute measure special crowd practice police tool claim broom allow casual middle";

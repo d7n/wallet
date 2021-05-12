@@ -1,1 +1,1 @@
-var mnemonic = "city cereal fuel admit run nest arctic deliver solar panic drive kiwi";
+var mnemonic = "pulp anger choice toss drill away custom wine alcohol myth season garden";

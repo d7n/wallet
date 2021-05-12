@@ -1,1 +1,1 @@
-var mnemonic = "skull balcony guilt tree atom armor bind they music muscle refuse canal";
+var mnemonic = "orient mad voyage fly physical learn method airport lumber tilt portion struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "foil antique differ gasp conduct employ sting hamster property federal put tennis";
+var mnemonic = "plate distance marine there local miracle news pledge canal resist fault hill";

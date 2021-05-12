@@ -1,1 +1,1 @@
-var mnemonic = "remove payment logic mix hospital pipe aim network orchard novel coil piece";
+var mnemonic = "material holiday marriage laundry card wisdom soccer insect slush clump organ weasel";

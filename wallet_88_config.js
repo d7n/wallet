@@ -1,1 +1,1 @@
-var mnemonic = "trick sorry mean push kind rotate claim air brave brisk term organ";
+var mnemonic = "soul jungle genius ritual remove model weekend exist lemon metal risk dial";

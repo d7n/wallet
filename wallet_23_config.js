@@ -1,1 +1,1 @@
-var mnemonic = "person food dance online pen narrow follow scale whisper rabbit renew reject";
+var mnemonic = "curtain village maximum drip blush tourist special expect blade spoon moral leg";

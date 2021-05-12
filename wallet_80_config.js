@@ -1,1 +1,1 @@
-var mnemonic = "just tortoise proof benefit planet swing humble swarm demise lens advance brush";
+var mnemonic = "holiday leopard drip among patrol basket country veteran beauty bulb comic broccoli";

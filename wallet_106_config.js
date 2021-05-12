@@ -1,1 +1,1 @@
-var mnemonic = "narrow occur sing bachelor unveil add cycle casino defense example athlete catalog";
+var mnemonic = "depend coral chaos degree guitar floor digital aerobic dragon salon wire giant";

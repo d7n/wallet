@@ -1,1 +1,1 @@
-var mnemonic = "glimpse muscle roast caution impose foam used away worry royal large account";
+var mnemonic = "uncle fantasy reflect razor volume worry brass ordinary corn replace sniff zoo";

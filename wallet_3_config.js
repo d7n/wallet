@@ -1,1 +1,1 @@
-var mnemonic = "unfold party forest grace rebel bacon put practice hour oil inject art";
+var mnemonic = "relax stock bonus grant drift hundred bring gloom electric dash rate velvet";

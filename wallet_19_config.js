@@ -1,1 +1,1 @@
-var mnemonic = "extend open frame color stadium angle fiscal tribe utility resource length puzzle";
+var mnemonic = "thumb stick attract govern unlock afford liar umbrella call breeze winner shock";

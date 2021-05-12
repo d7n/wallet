@@ -1,1 +1,1 @@
-var mnemonic = "tragic result select distance pear evidence provide manage gloom vault milk judge";
+var mnemonic = "any pottery kit enemy label animal farm purse piece snack expose crush";

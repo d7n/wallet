@@ -1,1 +1,1 @@
-var mnemonic = "powder walk depend capable ethics demise north sound river crazy zebra primary";
+var mnemonic = "body need pilot panel decade target ketchup word census cover battle insect";

@@ -1,1 +1,1 @@
-var mnemonic = "install rally guitar spider return mercy ability business pyramid talk jazz point";
+var mnemonic = "grunt lady detect soda hawk hungry weird shoulder network sudden script electric";

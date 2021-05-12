@@ -1,1 +1,1 @@
-var mnemonic = "summer escape impose arrive promote mango decline length gain already rice zero";
+var mnemonic = "glare exhaust anger brown night rhythm essay train fluid pudding waste tube";

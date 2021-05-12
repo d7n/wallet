@@ -1,1 +1,1 @@
-var mnemonic = "ghost recall material napkin resist shell fly version throw festival theme mention";
+var mnemonic = "today clock bunker guide twelve light goose believe train fat jealous cargo";

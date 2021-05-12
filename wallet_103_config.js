@@ -1,1 +1,1 @@
-var mnemonic = "dose muffin wreck keep ritual idea snow kingdom luxury behind journey enroll";
+var mnemonic = "imitate brief ski swim cream snap helmet city favorite board leaf tree";

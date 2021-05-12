@@ -1,1 +1,1 @@
-var mnemonic = "spot cereal conduct horn dance denial again hollow impulse require primary witness";
+var mnemonic = "digital auto often web dizzy since horror lottery cross alter foot method";

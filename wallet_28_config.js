@@ -1,1 +1,1 @@
-var mnemonic = "clip predict text raise worth news connect any raccoon quarter detail alien";
+var mnemonic = "assume diesel diesel sure review series poverty shoot budget either embark broccoli";

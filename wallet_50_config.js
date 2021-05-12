@@ -1,1 +1,1 @@
-var mnemonic = "poverty country potato dolphin laptop gospel crucial hazard vacant puppy oil maple";
+var mnemonic = "resist palm dose sing pipe goat mix call ordinary animal decline basic";

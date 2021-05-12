@@ -1,1 +1,1 @@
-var mnemonic = "afford similar public grow coil nature shy help pistol add envelope excess";
+var mnemonic = "boat tackle cash duck toast venue pig lake pumpkin fossil flame super";

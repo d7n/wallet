@@ -1,1 +1,1 @@
-var mnemonic = "treat scatter tonight april lamp spice siren stamp kitten elevator crystal science";
+var mnemonic = "million machine ice clay image woman between youth inmate solution cloth young";

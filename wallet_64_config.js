@@ -1,1 +1,1 @@
-var mnemonic = "open mistake lamp conduct hobby civil auction galaxy spin ancient sun grain";
+var mnemonic = "junk slender system paddle tuition truly change road jacket until hazard boring";

@@ -1,1 +1,1 @@
-var mnemonic = "wood call knife ability spray matrix neither crush make brother undo happy";
+var mnemonic = "novel arrest odor mango abandon sunset gaze cloth over cart dolphin history";

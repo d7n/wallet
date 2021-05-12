@@ -1,1 +1,1 @@
-var mnemonic = "soccer youth quality device ostrich token exile stool peanut dinosaur divide topic";
+var mnemonic = "refuse clock fun common old issue mass mandate someone relief defense room";

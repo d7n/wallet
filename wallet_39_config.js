@@ -1,1 +1,1 @@
-var mnemonic = "stumble normal trick cupboard people together buddy brown various ring recall lift";
+var mnemonic = "cigar color horse current chunk script donor trash run voyage route lemon";

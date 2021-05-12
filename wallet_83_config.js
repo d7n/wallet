@@ -1,1 +1,1 @@
-var mnemonic = "smart coast bench huge dirt ask chief door bunker can setup elevator";
+var mnemonic = "design already pen screen afford retire bring express input wash expand pole";

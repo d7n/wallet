@@ -1,1 +1,1 @@
-var mnemonic = "hope special divide clay siege smooth obey ostrich once want detect boy";
+var mnemonic = "tissue inspire grape increase weapon balcony hungry thunder arctic skin diagram cat";

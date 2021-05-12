@@ -1,1 +1,1 @@
-var mnemonic = "sorry mixed dove change hour heavy warrior item addict run aerobic bind";
+var mnemonic = "rescue field into piano start panic armor pizza woman wage online target";

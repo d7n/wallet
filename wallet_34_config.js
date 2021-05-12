@@ -1,1 +1,1 @@
-var mnemonic = "shoe must manual kiwi fatigue major absent moral across tone dog vacuum";
+var mnemonic = "ancient syrup light bunker spell love true divert half blush please physical";

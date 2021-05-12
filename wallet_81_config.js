@@ -1,1 +1,1 @@
-var mnemonic = "trim shell horn nasty double arctic return race enlist crouch engage olympic";
+var mnemonic = "gate clay destroy common guess ball scare loyal night sing boost interest";

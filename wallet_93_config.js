@@ -1,1 +1,1 @@
-var mnemonic = "december indicate spray author spare symbol essence gasp lobster public throw hope";
+var mnemonic = "humor wolf pond volcano rifle unveil analyst soup sand school party ugly";

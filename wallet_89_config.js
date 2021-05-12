@@ -1,1 +1,1 @@
-var mnemonic = "audit balance twenty nephew fence melody mention lab mother route runway return";
+var mnemonic = "provide short index shiver scale way pull fuel wear grape globe match";

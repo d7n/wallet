@@ -1,1 +1,1 @@
-var mnemonic = "develop pave spy equip famous brisk click unhappy between dignity buzz note";
+var mnemonic = "sample educate ecology skill opera survey order barrel render diet vocal food";

@@ -1,1 +1,1 @@
-var mnemonic = "casual inflict basic input drip moment left organ wing panther tool axis";
+var mnemonic = "speed sound rib deposit pink risk during grape hundred wagon rural duck";
