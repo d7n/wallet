@@ -1,1 +1,1 @@
-var mnemonic = "clown chair stage parent pond width pumpkin equip foster exchange ethics account";
+var mnemonic = "country prefer cloud lobster injury diesel history laptop stay unfair fame company";

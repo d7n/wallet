@@ -1,1 +1,1 @@
-var mnemonic = "dice subject sustain speak figure anchor oil relax shed target wrestle modify";
+var mnemonic = "ceiling shrug fault notice leopard cereal leave radio oven horse concert bone";

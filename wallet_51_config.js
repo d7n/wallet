@@ -1,1 +1,1 @@
-var mnemonic = "repair boil card gorilla busy gospel hire destroy among scene vapor word";
+var mnemonic = "apple tower silly flash rural state weasel crowd cash kite involve canal";

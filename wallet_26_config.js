@@ -1,1 +1,1 @@
-var mnemonic = "pledge early opera fitness rent man elbow ostrich milk spend lucky stage";
+var mnemonic = "proof tiny abstract stumble bid auto approve method dry gym green pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "poem jump fortune tobacco sausage asthma proof afraid dial cushion axis forward";
+var mnemonic = "congress reopen pencil swarm safe glass excuse soda fix strategy disease memory";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble veteran upgrade spray angry rail arrest cake give spirit meat claw";
+var mnemonic = "coffee card flight earn regret add steak drive reunion lawsuit steel strategy";

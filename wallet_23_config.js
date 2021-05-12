@@ -1,1 +1,1 @@
-var mnemonic = "execute injury top copy egg salon wood choose bubble hello cave garbage";
+var mnemonic = "still ribbon work neck rigid ritual parent armed daring flash buddy grow";

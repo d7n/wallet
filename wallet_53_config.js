@@ -1,1 +1,1 @@
-var mnemonic = "music expire stairs tongue grunt rude muffin kiss balance clerk hundred erase";
+var mnemonic = "learn bargain worry observe draft truck industry hip orchard regular genuine twenty";

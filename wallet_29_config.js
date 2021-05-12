@@ -1,1 +1,1 @@
-var mnemonic = "since senior oval tumble east gloom horror lawn unhappy quote various river";
+var mnemonic = "glimpse average height cry adult ask valley atom amount team piano junk";

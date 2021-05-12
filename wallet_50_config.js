@@ -1,1 +1,1 @@
-var mnemonic = "regular limb alcohol stock soft multiply scheme measure isolate shift spring claim";
+var mnemonic = "kick pudding ranch spider nice unaware race panda anchor forest rural connect";

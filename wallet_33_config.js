@@ -1,1 +1,1 @@
-var mnemonic = "mesh reduce someone hidden victory cinnamon fiber tape gorilla tooth liquid shrimp";
+var mnemonic = "peace pause must marriage huge author liberty trap win short model spot";

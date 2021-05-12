@@ -1,1 +1,1 @@
-var mnemonic = "scene swim weasel waste nest gloom turtle legend soup recycle hair wait";
+var mnemonic = "ocean glow else pear valve adjust project spell vicious saddle van science";

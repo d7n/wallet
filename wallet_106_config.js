@@ -1,1 +1,1 @@
-var mnemonic = "swing peace entire torch train diagram crawl empty good leopard buffalo immune";
+var mnemonic = "work base thought tape subject crumble observe tooth knock tail vintage abuse";

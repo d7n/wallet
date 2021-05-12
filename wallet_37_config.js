@@ -1,1 +1,1 @@
-var mnemonic = "hard vessel vehicle roof cram palm kick industry breeze grass hello mass";
+var mnemonic = "grace object sand maze odor leader narrow warm any lamp journey forest";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper oxygen network survey monkey change kangaroo earn gate gossip roof scene";
+var mnemonic = "rule engine bench goat radio flame brief eight bench speak super comfort";

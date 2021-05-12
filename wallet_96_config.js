@@ -1,1 +1,1 @@
-var mnemonic = "casual shadow reward what atom deposit follow pony tide about drink measure";
+var mnemonic = "ivory step town sun witness usage laundry sing end usage floor puppy";

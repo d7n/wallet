@@ -1,1 +1,1 @@
-var mnemonic = "riot wrap bundle risk place close exact slush harsh buyer trouble unknown";
+var mnemonic = "party hedgehog differ gate attend brush teach guilt ordinary height help shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup voyage brain kingdom once actress custom card vast region minimum nothing";
+var mnemonic = "obvious december clever uncle limit calm indicate review today jeans brick cross";

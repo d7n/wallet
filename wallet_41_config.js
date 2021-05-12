@@ -1,1 +1,1 @@
-var mnemonic = "stuff comic hotel reject artist ball abuse market fury fantasy achieve virtual";
+var mnemonic = "energy want fatigue solid throw million game blanket guilt genuine laundry genuine";

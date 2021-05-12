@@ -1,1 +1,1 @@
-var mnemonic = "snake ring uphold when high wisdom shine pig hole shrug chaos inhale";
+var mnemonic = "mansion myself finish version forget depend sweet balance raise crush arrange attract";

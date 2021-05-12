@@ -1,1 +1,1 @@
-var mnemonic = "jewel result announce sadness term base panther pull bird traffic work recipe";
+var mnemonic = "mask system enough victory boss excuse glimpse about shallow side carbon hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "loan salt misery buffalo dry rough flag hen bonus forum agent price";
+var mnemonic = "praise evolve code day hospital usage squirrel mean treat urban finger ranch";

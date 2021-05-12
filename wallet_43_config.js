@@ -1,1 +1,1 @@
-var mnemonic = "era sell toy crowd seminar announce piece urban addict virus retire hunt";
+var mnemonic = "start drama impact chaos card drive filter blouse fix denial butter mesh";

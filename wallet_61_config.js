@@ -1,1 +1,1 @@
-var mnemonic = "act slush quarter kitten boat muffin fame initial orange purity pulse they";
+var mnemonic = "security orient age view slight quit audit shrug brave hire vault pledge";

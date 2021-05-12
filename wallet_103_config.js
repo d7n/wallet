@@ -1,1 +1,1 @@
-var mnemonic = "fever cause nice model half phrase cement copper lazy talent off absorb";
+var mnemonic = "style asthma shrimp vendor clinic melt senior perfect dragon anxiety useless nut";

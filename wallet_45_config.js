@@ -1,1 +1,1 @@
-var mnemonic = "cause cave nature cable whisper charge idea pull october poverty eternal end";
+var mnemonic = "tenant ticket dawn hover winter ramp jump ice warrior patch gown chicken";

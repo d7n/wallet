@@ -1,1 +1,1 @@
-var mnemonic = "often embody soccer view banana tool giraffe sugar share forget medal rabbit";
+var mnemonic = "few wash permit net job gravity hood stem buffalo carry private kite";

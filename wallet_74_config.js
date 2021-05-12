@@ -1,1 +1,1 @@
-var mnemonic = "person panther ostrich catch drive pole buzz name endless right term alcohol";
+var mnemonic = "sad hard blouse garage legend angry tuna carbon erase source damage fatal";

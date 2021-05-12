@@ -1,1 +1,1 @@
-var mnemonic = "ahead final destroy razor jar initial reunion wrap color repeat drum image";
+var mnemonic = "bless rubber maximum setup confirm build advice drift fun trick royal offer";

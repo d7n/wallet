@@ -1,1 +1,1 @@
-var mnemonic = "steel write labor tornado police crush mutual guide raccoon two scrap cloth";
+var mnemonic = "program napkin evolve frozen boost power load hen cinnamon census cactus right";

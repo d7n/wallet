@@ -1,1 +1,1 @@
-var mnemonic = "syrup ranch wedding harbor mammal lounge dove pride neither tunnel depth debris";
+var mnemonic = "portion submit amount hub tree box badge actress check eagle gravity squirrel";

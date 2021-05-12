@@ -1,1 +1,1 @@
-var mnemonic = "group inch appear post drink run once urge prosper sample able shell";
+var mnemonic = "tobacco damage hazard toast clinic immune young snap skin canoe gorilla ribbon";

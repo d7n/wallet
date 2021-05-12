@@ -1,1 +1,1 @@
-var mnemonic = "machine dinner salute dress daring owner chief cabbage brass history together combine";
+var mnemonic = "roof picnic start human enlist brave scheme device eight boost brick suffer";

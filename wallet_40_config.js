@@ -1,1 +1,1 @@
-var mnemonic = "common bleak start crisp party real habit salt pink raise payment laundry";
+var mnemonic = "resist horror captain vacant brass symbol viable canyon violin fringe evolve either";

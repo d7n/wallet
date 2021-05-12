@@ -1,1 +1,1 @@
-var mnemonic = "priority surge tide salmon grab program surge book edit skate canoe broom";
+var mnemonic = "bulb awkward similar swift side between pudding symbol setup invite reduce rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious slender then uncle dentist mirror maze same aim eagle arrest autumn";
+var mnemonic = "exercise quality clinic vintage coconut tuna expire tribe machine tuna rely firm";

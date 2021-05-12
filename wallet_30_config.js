@@ -1,1 +1,1 @@
-var mnemonic = "random entire keen sound cat planet crawl supreme wink crucial venture problem";
+var mnemonic = "aim then discover gorilla robot junior magnet license elite merge twin same";

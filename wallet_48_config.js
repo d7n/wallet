@@ -1,1 +1,1 @@
-var mnemonic = "detect pupil immune portion release neither tornado salad lounge rotate satisfy pulse";
+var mnemonic = "select random sock shoulder romance basket random swallow apple twist iron utility";

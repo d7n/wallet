@@ -1,1 +1,1 @@
-var mnemonic = "this profit domain salad blossom around tide company orange genre rib young";
+var mnemonic = "timber document dust critic tiger grab rural long mosquito alcohol dust bubble";

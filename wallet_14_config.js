@@ -1,1 +1,1 @@
-var mnemonic = "squeeze engage juice box situate divide orange muffin fee avoid taste evolve";
+var mnemonic = "gloom cinnamon dutch property prefer buzz struggle whisper collect luggage train joke";

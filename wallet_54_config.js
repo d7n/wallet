@@ -1,1 +1,1 @@
-var mnemonic = "airport caught armed bargain inhale trust junk sword mad size loud sad";
+var mnemonic = "swallow surprise cement agree insane anxiety female critic pool truly chaos pyramid";

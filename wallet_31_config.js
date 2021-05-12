@@ -1,1 +1,1 @@
-var mnemonic = "hole clerk drive kidney lucky struggle gate art asthma latin museum long";
+var mnemonic = "receive normal trend ahead huge rather discover furnace buffalo inherit cube affair";

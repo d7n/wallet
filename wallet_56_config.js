@@ -1,1 +1,1 @@
-var mnemonic = "dose over vocal where that brave half random can record adapt present";
+var mnemonic = "admit parrot glory peace taxi urban rail behave silent bread coin feed";

@@ -1,1 +1,1 @@
-var mnemonic = "melt rent rookie draft question enemy flight wing security term festival split";
+var mnemonic = "sphere napkin coconut lawn easy detail come become seek autumn police foam";

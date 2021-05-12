@@ -1,1 +1,1 @@
-var mnemonic = "decide put rule eager enhance clip grid high chair frame annual aspect";
+var mnemonic = "home rather ring jelly paddle bench wing team useless little room true";

@@ -1,1 +1,1 @@
-var mnemonic = "industry prize save fade spice surprise bonus opera just prevent sadness stamp";
+var mnemonic = "settle scheme glide patient address gadget video slice visa suffer dish wagon";

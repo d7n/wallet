@@ -1,1 +1,1 @@
-var mnemonic = "cause second poem immense gas whale banana symptom upset excuse inquiry pulse";
+var mnemonic = "stamp also add original harbor exhaust girl enlist cereal high since castle";

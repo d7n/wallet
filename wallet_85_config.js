@@ -1,1 +1,1 @@
-var mnemonic = "confirm kit crumble edit bean ripple pill immune victory age pistol cook";
+var mnemonic = "kiwi hazard torch credit finger tape degree page tone dinosaur evil symbol";

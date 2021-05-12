@@ -1,1 +1,1 @@
-var mnemonic = "just sibling detect violin solid zone shrimp forest catch wink weapon ice";
+var mnemonic = "ice valid this clock palm medal thought satisfy trigger cinnamon habit doctor";

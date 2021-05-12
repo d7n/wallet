@@ -1,1 +1,1 @@
-var mnemonic = "pride power cradle impose grass volume fabric excite volcano wear grab monitor";
+var mnemonic = "drift happy unaware grass cabbage hand crazy two can motion island fantasy";

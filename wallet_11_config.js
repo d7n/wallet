@@ -1,1 +1,1 @@
-var mnemonic = "armed supply left tissue safe section unaware humble focus call vocal bright";
+var mnemonic = "fault coin iron private glove relax kiss allow volcano deny female frozen";

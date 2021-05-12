@@ -1,1 +1,1 @@
-var mnemonic = "click choose increase civil figure mail bird raise stem excess margin all";
+var mnemonic = "rather demand decide fiscal galaxy finger paper pelican obvious try service duty";

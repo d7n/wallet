@@ -1,1 +1,1 @@
-var mnemonic = "until until step execute bus cloth climb outer olympic salt rebel large";
+var mnemonic = "wisdom bunker harbor yellow iron congress erase wire liquid length damage excess";

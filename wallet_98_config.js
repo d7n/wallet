@@ -1,1 +1,1 @@
-var mnemonic = "quarter ribbon find squirrel rely mean orient dry field helmet tell kiss";
+var mnemonic = "act culture dutch angle sketch flock danger vast carry energy kingdom yard";

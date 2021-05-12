@@ -1,1 +1,1 @@
-var mnemonic = "shell impose skirt essence find reward toss light exile spoon blame round";
+var mnemonic = "dress mirror observe disagree joke furnace warrior pole alarm input ripple speak";

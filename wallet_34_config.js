@@ -1,1 +1,1 @@
-var mnemonic = "retreat lobster around few category rapid cactus arrow eight wood short during";
+var mnemonic = "expose fiction glory lava glad feel chief subway chicken bunker person gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding flat runway magnet panel media pluck humor film turtle miss duck";
+var mnemonic = "shy rebuild furnace grace drastic river invite giraffe donor crystal lounge sunset";

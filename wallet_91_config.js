@@ -1,1 +1,1 @@
-var mnemonic = "apology noble side rice cinnamon ivory lion approve include coast brass mind";
+var mnemonic = "prosper illegal sample athlete robot drink treat flat transfer innocent guard health";

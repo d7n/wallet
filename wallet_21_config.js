@@ -1,1 +1,1 @@
-var mnemonic = "basket feature neck garage rifle small glad trash vague broken permit furnace";
+var mnemonic = "stay doll verb shed million street away sound city alarm outer churn";

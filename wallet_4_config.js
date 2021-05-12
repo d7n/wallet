@@ -1,1 +1,1 @@
-var mnemonic = "festival diagram ivory thought kind jar high tongue copy harbor key frost";
+var mnemonic = "voyage broom scare object subway access control salt able domain physical glory";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow often penalty man moon victory person adapt random fan humble all";
+var mnemonic = "traffic fog roof weird crunch film only shoot upgrade inhale dash luxury";

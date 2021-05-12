@@ -1,1 +1,1 @@
-var mnemonic = "immune bulb bring garbage sphere jazz ramp tragic equip announce student quick";
+var mnemonic = "actual ankle topic tilt vast people auction pledge area slogan arena document";

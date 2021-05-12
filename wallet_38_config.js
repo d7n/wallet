@@ -1,1 +1,1 @@
-var mnemonic = "busy other pony month immense omit sentence boat artwork dog hint peanut";
+var mnemonic = "average boil neither amazing affair omit cinnamon say lesson modify clock athlete";

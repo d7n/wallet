@@ -1,1 +1,1 @@
-var mnemonic = "finish range buddy health raise gold chapter priority assume video length item";
+var mnemonic = "upper edit foster escape clinic sad private kidney flame protect lumber toward";

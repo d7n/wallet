@@ -1,1 +1,1 @@
-var mnemonic = "quick toilet sea grid funny glory elevator attitude patient chunk crucial snack";
+var mnemonic = "cave royal act domain derive art chapter snow car high depth audit";

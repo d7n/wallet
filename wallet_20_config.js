@@ -1,1 +1,1 @@
-var mnemonic = "enjoy angle train language horse volume train chalk wide waste power topic";
+var mnemonic = "collect foster slim picnic mail hill nominee father capable animal emerge history";

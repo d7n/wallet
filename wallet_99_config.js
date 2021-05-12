@@ -1,1 +1,1 @@
-var mnemonic = "stairs forum liar test apology cushion draw fortune bridge setup still exact";
+var mnemonic = "debris best much notice lemon gun interest inmate success meat glad label";

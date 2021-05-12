@@ -1,1 +1,1 @@
-var mnemonic = "cabin pill forward door disorder replace master buzz angle area bulk runway";
+var mnemonic = "kangaroo endless kidney twist fetch huge lizard move same eagle nice excite";

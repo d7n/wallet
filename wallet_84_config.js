@@ -1,1 +1,1 @@
-var mnemonic = "chapter marble rib corn burst whale permit smooth reform situate essay prepare";
+var mnemonic = "toe orchard income learn office pony since pitch final tower series key";

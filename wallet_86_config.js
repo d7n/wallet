@@ -1,1 +1,1 @@
-var mnemonic = "weather feed coconut harvest orbit verify cupboard stomach axis awake exit cement";
+var mnemonic = "letter helmet grass pepper donate swift box logic when tennis verify industry";

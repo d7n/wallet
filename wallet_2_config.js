@@ -1,1 +1,1 @@
-var mnemonic = "sheriff crush three fruit moment certain document height there term twin tip";
+var mnemonic = "expire immune rescue image slush museum music destroy elevator clump huge museum";

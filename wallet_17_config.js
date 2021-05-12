@@ -1,1 +1,1 @@
-var mnemonic = "bar elephant impulse over beyond text eager prosper worry struggle syrup skirt";
+var mnemonic = "churn child comic minute initial canoe boat nominee search unfair service winter";

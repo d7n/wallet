@@ -1,1 +1,1 @@
-var mnemonic = "cattle tuna material ribbon spray congress brown quarter surge tray relax kiwi";
+var mnemonic = "midnight multiply problem entry fit state erupt panda tell kingdom hospital field";

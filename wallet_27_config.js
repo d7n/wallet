@@ -1,1 +1,1 @@
-var mnemonic = "bike pear bracket assume grunt pupil lunar hard emerge swear hover vendor";
+var mnemonic = "breeze sand swim giant hire staff wave burden helmet lake rigid purpose";

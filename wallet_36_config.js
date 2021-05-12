@@ -1,1 +1,1 @@
-var mnemonic = "village weekend rail sponsor knock apple blast taste receive tool cherry treat";
+var mnemonic = "soup narrow bachelor detect limit dirt pave pioneer work joke member arrange";

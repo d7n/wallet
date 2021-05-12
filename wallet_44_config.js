@@ -1,1 +1,1 @@
-var mnemonic = "design speed slight ginger imitate hedgehog excuse consider tone control wait version";
+var mnemonic = "gloom head pass enjoy inspire misery wall vehicle whip pepper dry load";

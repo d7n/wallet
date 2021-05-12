@@ -1,1 +1,1 @@
-var mnemonic = "trash strategy bomb announce unfold pride tribe wall mean brush cousin ring";
+var mnemonic = "cruise eight silk trophy gym zero response eye lend lobster assume excuse";

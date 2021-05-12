@@ -1,1 +1,1 @@
-var mnemonic = "ship spell aerobic gym door winner notable shove powder road circle seminar";
+var mnemonic = "slice year language sea since pen move oxygen witness sorry penalty sleep";

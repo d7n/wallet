@@ -1,1 +1,1 @@
-var mnemonic = "burden pact sponsor plug cat tornado close vehicle innocent girl pulp wine";
+var mnemonic = "stairs cook pond expect wedding ill cost mobile make rent stage doll";

@@ -1,1 +1,1 @@
-var mnemonic = "expect powder august business pistol loyal suggest bone uniform often unique naive";
+var mnemonic = "seven inhale tag warrior pave laugh okay minor fortune taxi blanket close";

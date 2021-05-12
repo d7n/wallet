@@ -1,1 +1,1 @@
-var mnemonic = "fresh smart heavy orphan layer crowd hospital quit talent tag busy sound";
+var mnemonic = "dog meat melody shrimp differ close goose island abuse sketch humble tool";

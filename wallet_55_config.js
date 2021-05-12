@@ -1,1 +1,1 @@
-var mnemonic = "salon cargo diamond silly cream pumpkin inherit clog scheme route narrow day";
+var mnemonic = "nice despair stool include scorpion clog pair sample dial hedgehog online crush";

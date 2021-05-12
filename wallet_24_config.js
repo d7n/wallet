@@ -1,1 +1,1 @@
-var mnemonic = "include approve always pole fat extra hero identify senior cradle dish engine";
+var mnemonic = "neglect anxiety scare twelve tube fan sentence render mandate nominee much cool";

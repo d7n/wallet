@@ -1,1 +1,1 @@
-var mnemonic = "because pledge slim notable spell visit bitter gallery sister color ancient setup";
+var mnemonic = "winter focus engine frog dice orchard click tent cradle truck cradle interest";

@@ -1,1 +1,1 @@
-var mnemonic = "audit eagle bulb prize gaze art junior victory coral modify amazing sphere";
+var mnemonic = "sudden sketch number humble heart cancel six shoot engine okay lady select";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap toy silly choice wrap below benefit meat accident flower thumb diet";
+var mnemonic = "pitch infant satoshi hunt arctic science laugh long update gas click retreat";

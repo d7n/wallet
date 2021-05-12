@@ -1,1 +1,1 @@
-var mnemonic = "sausage parent orange boat change floor very lawn edit bounce girl axis";
+var mnemonic = "page setup error ripple apple age mandate return mail trap mandate squirrel";

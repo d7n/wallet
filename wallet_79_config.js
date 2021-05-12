@@ -1,1 +1,1 @@
-var mnemonic = "fluid vivid cream vibrant bitter purse mixture sick medal tunnel market sound";
+var mnemonic = "carry merry design cycle describe art off winter cash tissue reduce bird";

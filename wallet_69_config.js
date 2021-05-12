@@ -1,1 +1,1 @@
-var mnemonic = "either identify canvas catalog letter success visit review happy dash drip alien";
+var mnemonic = "grass live oblige action edge describe bronze that crop basic travel muffin";

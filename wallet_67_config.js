@@ -1,1 +1,1 @@
-var mnemonic = "theory script throw property palm tiger animal you horse puzzle trip invest";
+var mnemonic = "shoulder forest broom cactus fiscal pony dad praise better syrup range march";
