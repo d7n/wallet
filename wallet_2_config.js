@@ -1,1 +1,1 @@
-var mnemonic = "stairs spring huge grit side identify lobster tag hidden neglect category vicious";
+var mnemonic = "alcohol illness clinic elder remind vocal crunch iron sadness salt chimney end";

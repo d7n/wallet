@@ -1,1 +1,1 @@
-var mnemonic = "modify camp return goddess kind hill also shove conduct inflict news quarter";
+var mnemonic = "cereal swallow tornado hair daughter giant upon field kitten region kind tell";

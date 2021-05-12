@@ -1,1 +1,1 @@
-var mnemonic = "timber actress knock inject same crystal december path tooth domain robust adjust";
+var mnemonic = "quote mushroom peanut mango frequent tragic client border famous income invite oven";

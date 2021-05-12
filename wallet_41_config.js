@@ -1,1 +1,1 @@
-var mnemonic = "screen funny income fire broom butter team theory enforce mention film isolate";
+var mnemonic = "initial clog electric hazard neutral repair kiss warfare uncle reject slide square";

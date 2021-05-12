@@ -1,1 +1,1 @@
-var mnemonic = "winter gaze spirit fan word donate remove kite release unit whale wage";
+var mnemonic = "wrist execute correct harbor acquire ghost end actor forward click own such";

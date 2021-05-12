@@ -1,1 +1,1 @@
-var mnemonic = "silent like useful coral lonely hotel refuse lawsuit pigeon panda awful dose";
+var mnemonic = "rain require isolate mobile pair lens regular bacon rack volume that region";

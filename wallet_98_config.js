@@ -1,1 +1,1 @@
-var mnemonic = "business silent glue mushroom topic program frame special shoulder series evidence client";
+var mnemonic = "night split surge share concert echo inspire answer outside route plastic sea";

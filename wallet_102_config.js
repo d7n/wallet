@@ -1,1 +1,1 @@
-var mnemonic = "modify reduce nephew glow tobacco open siren zero art window nasty wing";
+var mnemonic = "quiz blur blade bronze afford average degree once maid access life jump";

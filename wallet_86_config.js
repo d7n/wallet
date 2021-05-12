@@ -1,1 +1,1 @@
-var mnemonic = "sheriff dry inch butter insect neglect elephant boost office miss loyal fashion";
+var mnemonic = "push neglect around distance then canvas evolve amateur snow crunch seed milk";

@@ -1,1 +1,1 @@
-var mnemonic = "attract bachelor rib shift vocal mean shuffle salute zero stable tortoise horror";
+var mnemonic = "curve jewel fit heart attract ticket monkey adjust fish hawk axis blanket";

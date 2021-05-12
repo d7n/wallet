@@ -1,1 +1,1 @@
-var mnemonic = "route second bottom easy trim buzz license spoon fitness life expose delay";
+var mnemonic = "hungry group lyrics wheat skate mixture elevator yard work together student fragile";

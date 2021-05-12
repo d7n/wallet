@@ -1,1 +1,1 @@
-var mnemonic = "exotic average next visual zone disagree shove future twin engine inform fog";
+var mnemonic = "bubble pottery ridge since basic settle excuse minor collect feel mail frown";

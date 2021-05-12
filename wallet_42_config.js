@@ -1,1 +1,1 @@
-var mnemonic = "betray stove shift slight illegal speak over address swear creek arrow educate";
+var mnemonic = "hint admit parade artwork luggage pear argue diet swift bean toe fun";

@@ -1,1 +1,1 @@
-var mnemonic = "tank animal lens travel corn okay orphan fancy chest before immense borrow";
+var mnemonic = "enrich climb source print laptop diamond oven snap tissue erosion friend guard";

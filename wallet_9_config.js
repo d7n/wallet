@@ -1,1 +1,1 @@
-var mnemonic = "industry virus seed cable oblige involve enroll domain aware nurse coast hawk";
+var mnemonic = "note valley repeat toilet despair busy recycle seven busy envelope kangaroo project";

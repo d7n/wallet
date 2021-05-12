@@ -1,1 +1,1 @@
-var mnemonic = "bind hollow home visual enhance chaos pole search dress barrel cactus palm";
+var mnemonic = "more repeat siren limit tuna spice average illegal foil tooth uncover ketchup";

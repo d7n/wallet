@@ -1,1 +1,1 @@
-var mnemonic = "moment please olive assist woman resource spice lawn finger viable table moral";
+var mnemonic = "yellow razor wide pupil merit inspire pizza obtain indoor immune trend wagon";

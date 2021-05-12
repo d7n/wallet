@@ -1,1 +1,1 @@
-var mnemonic = "churn clinic bleak mad common awful come blue sustain undo cousin caught";
+var mnemonic = "zoo win artist job theme impact lecture assume erode wet inform tree";

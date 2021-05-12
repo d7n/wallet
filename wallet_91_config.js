@@ -1,1 +1,1 @@
-var mnemonic = "version travel orchard cannon uncover surround sausage base salad jaguar require paper";
+var mnemonic = "cabbage glue exotic penalty venue omit hill identify price wine echo copy";

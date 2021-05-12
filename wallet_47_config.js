@@ -1,1 +1,1 @@
-var mnemonic = "mutual bike nice clinic world sting bonus leader leg clever cabbage helmet";
+var mnemonic = "file win change puzzle aim more thought inject track project learn combine";

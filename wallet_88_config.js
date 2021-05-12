@@ -1,1 +1,1 @@
-var mnemonic = "wine resource layer pave myth neck input blanket airport sure donor disagree";
+var mnemonic = "shrug pelican index leg hard vote chaos disorder tobacco puppy inch asthma";

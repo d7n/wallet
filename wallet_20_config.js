@@ -1,1 +1,1 @@
-var mnemonic = "traffic fine umbrella ecology employ reward supreme bundle cactus state fetch patrol";
+var mnemonic = "salon write tube rough push tooth target uphold act obscure flag inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "energy lawn reflect lobster grant tonight often math detect find zero fiscal";
+var mnemonic = "sheriff brush page police weather tiny case valve reunion mass toe term";

@@ -1,1 +1,1 @@
-var mnemonic = "polar wear pass stadium surface initial sport turn size range opera castle";
+var mnemonic = "intact range retreat palm egg exotic lesson home middle front carry dawn";

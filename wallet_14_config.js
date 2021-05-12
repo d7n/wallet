@@ -1,1 +1,1 @@
-var mnemonic = "wall film daughter uniform symptom clutch ankle tumble alcohol indoor protect town";
+var mnemonic = "cute atom armed snow marble order drill fever reunion tribe sail view";

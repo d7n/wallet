@@ -1,1 +1,1 @@
-var mnemonic = "blast foil faint giggle clog situate coyote drive liar card polar cheese";
+var mnemonic = "kite melt leave myself biology vessel mention lonely author almost disagree screen";

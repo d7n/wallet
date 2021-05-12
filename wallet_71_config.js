@@ -1,1 +1,1 @@
-var mnemonic = "improve envelope change guitar insect strong memory prosper forward strategy auction bitter";
+var mnemonic = "load hill sport sea false recipe lonely shuffle absorb stem urban bulk";

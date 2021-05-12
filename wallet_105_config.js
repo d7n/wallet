@@ -1,1 +1,1 @@
-var mnemonic = "solution rail estate toe rice option pear slight pulp hidden zero frequent";
+var mnemonic = "come extend shadow wagon invite upgrade core couch give hub track code";

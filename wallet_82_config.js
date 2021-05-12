@@ -1,1 +1,1 @@
-var mnemonic = "wall panther topic sorry extend until assault sun pioneer diesel patch bleak";
+var mnemonic = "powder brass miss broom invite result group stumble border inside panel ripple";

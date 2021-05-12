@@ -1,1 +1,1 @@
-var mnemonic = "mandate thank foil wage culture message verify rib video ripple guitar today";
+var mnemonic = "green draft illegal dumb favorite exotic gravity episode relax want insane type";

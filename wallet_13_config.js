@@ -1,1 +1,1 @@
-var mnemonic = "wolf system illness saddle fever nation arrow edge develop text south disorder";
+var mnemonic = "alert hub grain nurse fetch sunset merit legal busy drum gift charge";

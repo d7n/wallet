@@ -1,1 +1,1 @@
-var mnemonic = "pole drip pudding farm auction ribbon roof pattern will panda sign tennis";
+var mnemonic = "pilot unaware trouble aspect fiction monitor inch bid include project outdoor capital";

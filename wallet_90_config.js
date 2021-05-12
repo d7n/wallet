@@ -1,1 +1,1 @@
-var mnemonic = "guide rigid reduce will galaxy conduct source once embody cement grunt ill";
+var mnemonic = "torch throw spirit net pause clean observe almost people awake wreck human";

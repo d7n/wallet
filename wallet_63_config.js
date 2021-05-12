@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo addict enable despair obvious mask pole squirrel lady author spray hint";
+var mnemonic = "little foster project item once fantasy essay auto thank panic walk armed";

@@ -1,1 +1,1 @@
-var mnemonic = "margin table lobster embark clap expand wish daring clinic learn fine must";
+var mnemonic = "win south tortoise parent pupil glass afford urge february goat repair gadget";

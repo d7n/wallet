@@ -1,1 +1,1 @@
-var mnemonic = "cause grain near now champion number become frame pink other diagram waste";
+var mnemonic = "depend skate bracket cupboard tell suffer cheap lobster hold own silly strike";

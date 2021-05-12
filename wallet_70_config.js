@@ -1,1 +1,1 @@
-var mnemonic = "crowd arrange loyal royal civil exact cannon perfect habit elevator aim stick";
+var mnemonic = "oppose kick accident artist program input pig dove burger blur salon amused";

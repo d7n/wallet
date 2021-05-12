@@ -1,1 +1,1 @@
-var mnemonic = "load hobby brand citizen modify together hazard carry light tired sentence method";
+var mnemonic = "latin taxi artist rude visual swim belt injury enroll draft bring wait";

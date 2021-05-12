@@ -1,1 +1,1 @@
-var mnemonic = "dragon snap pool purchase orchard check offer reject term emerge round pulp";
+var mnemonic = "charge screen project afford rent good doctor lazy impose shop tag burst";

@@ -1,1 +1,1 @@
-var mnemonic = "raise fame collect dust punch old aunt believe achieve dinner sail pause";
+var mnemonic = "crumble range online speed hello farm walnut estate find garden air step";

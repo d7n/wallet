@@ -1,1 +1,1 @@
-var mnemonic = "cube debate boat purpose service debate warrior toward alcohol symbol between trap";
+var mnemonic = "frown orange click online sausage express shock host public dinosaur quantum leader";

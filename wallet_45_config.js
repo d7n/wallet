@@ -1,1 +1,1 @@
-var mnemonic = "chief tell income frost essay settle lunar shrimp reduce vapor merry allow";
+var mnemonic = "clerk night rural group host quit accident strong mutual fit toy symptom";

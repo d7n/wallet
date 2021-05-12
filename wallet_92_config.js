@@ -1,1 +1,1 @@
-var mnemonic = "deliver fun clean person kiwi opera credit brave canoe brain daring captain";
+var mnemonic = "reopen urban universe chronic elegant sister ask gain salad sort exit liberty";

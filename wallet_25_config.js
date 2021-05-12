@@ -1,1 +1,1 @@
-var mnemonic = "street unfold force argue mango action old leg obvious regular foster trick";
+var mnemonic = "dwarf idle amazing casual skate picture century predict evolve fatigue shop sniff";

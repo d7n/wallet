@@ -1,1 +1,1 @@
-var mnemonic = "have jump across unusual loan pigeon know route bleak apple retire forward";
+var mnemonic = "lawsuit congress tired castle whisper base drill people bronze stadium vague race";

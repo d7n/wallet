@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur couple repeat inspire concert gesture nerve hill network sausage gun approve";
+var mnemonic = "wall green river holiday shop coconut bomb rent retreat indoor hour laundry";

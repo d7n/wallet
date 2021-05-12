@@ -1,1 +1,1 @@
-var mnemonic = "judge famous rely detail cloth lawn isolate resource delay juice try proof";
+var mnemonic = "misery eager possible jar badge ten fox say tuna adjust alone gun";

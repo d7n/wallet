@@ -1,1 +1,1 @@
-var mnemonic = "rib profit civil song menu merit diary real system sail swim dizzy";
+var mnemonic = "front angry olive always number flush morning paper casino page local spy";

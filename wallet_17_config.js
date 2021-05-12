@@ -1,1 +1,1 @@
-var mnemonic = "soda time alter brief clog clown street wave toddler solve album season";
+var mnemonic = "rare cushion trouble genius wood degree close across mistake clip miracle boat";

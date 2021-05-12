@@ -1,1 +1,1 @@
-var mnemonic = "bulk tooth turn diesel tree bomb enough text knock motor ramp sleep";
+var mnemonic = "common pumpkin witness hire abstract bomb occur bitter exotic among subway off";

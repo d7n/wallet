@@ -1,1 +1,1 @@
-var mnemonic = "echo glide biology office sword damage empty crowd modify series marble replace";
+var mnemonic = "model enhance poem track weasel rely brisk tourist dune shy cube relax";

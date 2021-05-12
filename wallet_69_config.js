@@ -1,1 +1,1 @@
-var mnemonic = "express tragic together thought hospital able gossip nurse major pelican search side";
+var mnemonic = "regular scout subject solve slush empty jeans clown scrap trip journey dinner";

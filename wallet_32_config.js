@@ -1,1 +1,1 @@
-var mnemonic = "sell rescue win seek risk pencil youth crater meat business smart obtain";
+var mnemonic = "drink juice iron glory exercise cupboard feed avocado diamond exhibit tape response";

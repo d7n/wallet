@@ -1,1 +1,1 @@
-var mnemonic = "soon project alter review logic buddy record donor wife perfect kiwi crucial";
+var mnemonic = "grant bounce report engine grid finish world alpha oval muffin accuse taxi";

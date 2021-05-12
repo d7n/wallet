@@ -1,1 +1,1 @@
-var mnemonic = "certain allow cheap cream total clarify hover orange pizza oblige owner erupt";
+var mnemonic = "earth fever chicken risk crew observe leave grid zebra must panic crouch";

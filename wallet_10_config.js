@@ -1,1 +1,1 @@
-var mnemonic = "sheriff model merry brown unhappy fold pluck lunch agent maple mutual million";
+var mnemonic = "media glide zebra awake ability radar ozone misery napkin picture aerobic letter";

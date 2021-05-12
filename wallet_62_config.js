@@ -1,1 +1,1 @@
-var mnemonic = "book alley coil split glad own profit venue coin eager lake kit";
+var mnemonic = "unique evolve sting ranch loud symptom convince erosion meadow other gaze spy";

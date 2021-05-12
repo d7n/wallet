@@ -1,1 +1,1 @@
-var mnemonic = "seek stuff device recall cactus access dish embark border wine term buzz";
+var mnemonic = "jazz rigid empower destroy final turn front auction setup dutch enrich tomorrow";

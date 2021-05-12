@@ -1,1 +1,1 @@
-var mnemonic = "damage use shed pioneer hollow large grit venue panther abuse certain infant";
+var mnemonic = "gloom pave grant tornado security inquiry divide poem season race cigar label";

@@ -1,1 +1,1 @@
-var mnemonic = "ball wife shy story caught banner silk hawk long buffalo wedding wheat";
+var mnemonic = "hello round near end gate wild twin only road close alien snack";

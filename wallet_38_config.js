@@ -1,1 +1,1 @@
-var mnemonic = "mom decide follow gaze code friend toss fiscal job cube pistol buzz";
+var mnemonic = "genre suggest ginger fox marriage report raw possible venue sign remind spell";

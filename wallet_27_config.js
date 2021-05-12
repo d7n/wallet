@@ -1,1 +1,1 @@
-var mnemonic = "wink dizzy verb want health bright hybrid hawk move across hole keep";
+var mnemonic = "fine essay total alien adjust clap punch permit dolphin never main test";

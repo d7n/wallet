@@ -1,1 +1,1 @@
-var mnemonic = "almost fix worry hammer word exhibit barely fancy history novel subject resource";
+var mnemonic = "imitate window uncover come ability cactus library celery review bird topple strong";

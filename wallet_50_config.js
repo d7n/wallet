@@ -1,1 +1,1 @@
-var mnemonic = "forward inhale south open vault high hint ugly replace brave laptop quote";
+var mnemonic = "soda inmate spider estate nation trash bounce upper fold tattoo lounge scout";

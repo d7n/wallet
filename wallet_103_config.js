@@ -1,1 +1,1 @@
-var mnemonic = "share soda salt expose guard logic rule dirt enough clay have artwork";
+var mnemonic = "option metal alarm sadness nation pact essence club claw trend penalty carry";

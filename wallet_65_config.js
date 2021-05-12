@@ -1,1 +1,1 @@
-var mnemonic = "blur blush salt mother slender come display sun bar panther true toward";
+var mnemonic = "visit interest hawk raven online pony hybrid light essay bracket state display";

@@ -1,1 +1,1 @@
-var mnemonic = "butter grocery fruit duck snap upper slender source name tip mushroom rice";
+var mnemonic = "episode artist degree bus that very ivory box term expand solar area";

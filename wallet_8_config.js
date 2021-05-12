@@ -1,1 +1,1 @@
-var mnemonic = "glove stand initial party course calm give list pupil suggest obscure metal";
+var mnemonic = "film clock void sand divide acid crazy warm pear pottery jump ethics";

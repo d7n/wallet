@@ -1,1 +1,1 @@
-var mnemonic = "test rhythm task basic asthma angry inherit peasant curious humble trap heart";
+var mnemonic = "struggle gauge hair warrior sun gather exhaust wink opinion lava same stumble";

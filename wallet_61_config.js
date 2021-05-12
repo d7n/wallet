@@ -1,1 +1,1 @@
-var mnemonic = "where until boat oil mixed ship dwarf excess flower know blood resemble";
+var mnemonic = "hand vintage garage impulse safe cherry embrace drip close gym spring penalty";

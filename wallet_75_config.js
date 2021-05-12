@@ -1,1 +1,1 @@
-var mnemonic = "stuff float company dose runway moment royal cigar drama stick put faith";
+var mnemonic = "story myth kid area ahead cool grow real social humble entry silent";

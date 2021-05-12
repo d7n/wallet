@@ -1,1 +1,1 @@
-var mnemonic = "caught genius rotate world any fringe off wash position market equal inside";
+var mnemonic = "cover meadow place prison differ stereo equip pretty curtain sadness embark heart";

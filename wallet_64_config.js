@@ -1,1 +1,1 @@
-var mnemonic = "zero firm snap solve vacant crack explain cement path abuse vote vendor";
+var mnemonic = "few time develop blame will magic melody ecology blush rally photo clinic";

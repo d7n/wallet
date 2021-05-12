@@ -1,1 +1,1 @@
-var mnemonic = "change pen husband buyer poet fan three master planet correct save guide";
+var mnemonic = "under hotel wealth pluck web risk slim text morning pull meat huge";

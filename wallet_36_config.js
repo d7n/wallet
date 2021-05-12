@@ -1,1 +1,1 @@
-var mnemonic = "hood tornado sunset trumpet enroll already segment march sight notable enable tiny";
+var mnemonic = "modify spider code kitten jar sketch tent piece athlete donate clap defy";

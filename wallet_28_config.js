@@ -1,1 +1,1 @@
-var mnemonic = "divorce sport large rule gloom safe rare tattoo floor setup erosion donor";
+var mnemonic = "render salad journey price hospital give blast adjust quarter organ dwarf involve";

@@ -1,1 +1,1 @@
-var mnemonic = "remain cannon keep dilemma swift verb differ tomato security demise biology senior";
+var mnemonic = "ability danger tongue forward knife rally act improve clinic harsh bachelor yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "zone woman actress now dentist myth gate walnut plunge canoe lock random";
+var mnemonic = "angle remove senior trend axis fuel matrix unaware pupil found almost surge";

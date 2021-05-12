@@ -1,1 +1,1 @@
-var mnemonic = "cable client enhance orange slot daughter pride broken mention ugly frog menu";
+var mnemonic = "win extend cart abuse help soda blue buddy keen fee cruise library";

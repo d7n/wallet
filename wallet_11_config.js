@@ -1,1 +1,1 @@
-var mnemonic = "toss evoke clump spatial involve wide traffic chunk play arrive ozone average";
+var mnemonic = "calm bulk organ arena carpet visa choose paper stereo man thank inside";

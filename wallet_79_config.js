@@ -1,1 +1,1 @@
-var mnemonic = "story emerge romance tackle prepare primary turn issue eight sword dizzy rent";
+var mnemonic = "major rival sound indicate relax cash olive rare naive alarm length wear";

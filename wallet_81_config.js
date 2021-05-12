@@ -1,1 +1,1 @@
-var mnemonic = "muscle tortoise canoe large catch midnight attitude gown inherit name rude trend";
+var mnemonic = "evil sign future toy install scale grunt piece double curious strike law";

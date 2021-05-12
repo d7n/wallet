@@ -1,1 +1,1 @@
-var mnemonic = "virtual off feature toss cake equip prevent demand border victory pool fit";
+var mnemonic = "renew elegant bag fade world solution hair flag palm morning beef frozen";

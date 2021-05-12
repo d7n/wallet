@@ -1,1 +1,1 @@
-var mnemonic = "blouse hill shed slim wolf water two frame release stamp great defense";
+var mnemonic = "fever original produce assist crystal brown define couple matter puzzle pyramid river";

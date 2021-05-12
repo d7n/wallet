@@ -1,1 +1,1 @@
-var mnemonic = "crew ripple vocal cinnamon cupboard blouse decrease town brave resource lion column";
+var mnemonic = "pitch stand modify such nuclear primary please virtual bracket around boat net";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey pizza negative enhance ticket hockey grain clever oblige lady chalk element";
+var mnemonic = "dentist nose soap rescue bean spatial miss attack sand abandon that anger";

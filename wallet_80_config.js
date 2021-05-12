@@ -1,1 +1,1 @@
-var mnemonic = "fortune blush wheat shell solar control hockey exercise soda flavor cruise advance";
+var mnemonic = "elegant adapt chimney average door burger teach dizzy wage middle taste hard";

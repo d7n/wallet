@@ -1,1 +1,1 @@
-var mnemonic = "ship again cruel journey awful where steel oval always since escape melody";
+var mnemonic = "depth abandon reunion sausage upon clinic oven elite speak bundle critic room";

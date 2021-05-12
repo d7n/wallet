@@ -1,1 +1,1 @@
-var mnemonic = "filter smooth trouble lunar thought swamp glare remain traffic wife code media";
+var mnemonic = "soldier sustain limb truth toy crowd doll income finish armor weapon actor";

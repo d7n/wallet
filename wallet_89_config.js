@@ -1,1 +1,1 @@
-var mnemonic = "idle bottom dirt arrange universe pink then forest bring divide hover extend";
+var mnemonic = "problem congress child curious sight obscure toy improve essence close donate suspect";

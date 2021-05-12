@@ -1,1 +1,1 @@
-var mnemonic = "memory reform problem ask lounge wheat evil unknown side analyst detect candy";
+var mnemonic = "until priority income october banner shrimp blur door remove foil gospel example";

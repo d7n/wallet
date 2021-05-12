@@ -1,1 +1,1 @@
-var mnemonic = "lonely mouse cancel wage cloud media false fault before crane horse energy";
+var mnemonic = "present cover bus urban discover curious real viable license clog jealous apology";
