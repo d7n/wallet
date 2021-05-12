@@ -1,1 +1,1 @@
-var mnemonic = "axis pipe casino rather clinic wave leaf grain soldier sting badge urge";
+var mnemonic = "extra trigger dynamic pulp puppy topple broken embody wing donate vacant gun";

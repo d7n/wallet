@@ -1,1 +1,1 @@
-var mnemonic = "yard bright human good walk goose divide stool brass alarm vibrant pig";
+var mnemonic = "breeze wear wave design remind sniff ghost duck aerobic alien kid gain";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle digital tuna outside lend solid stone summer maximum curious walnut inch";
+var mnemonic = "nose stand ridge believe retire assault pave meadow decade village weasel input";

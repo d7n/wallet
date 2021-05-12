@@ -1,1 +1,1 @@
-var mnemonic = "grow uncover consider crowd orient agree art day clarify quiz stock mixed";
+var mnemonic = "nurse hat famous auto either donor surprise degree judge venture stamp bottom";

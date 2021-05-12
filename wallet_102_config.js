@@ -1,1 +1,1 @@
-var mnemonic = "flower scatter wisdom improve beyond soft verb song vintage brick wild pioneer";
+var mnemonic = "jelly kangaroo inject volcano battle enforce base major super pistol repeat select";

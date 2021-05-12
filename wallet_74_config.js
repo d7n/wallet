@@ -1,1 +1,1 @@
-var mnemonic = "blanket foster carry noodle ordinary guide creek pattern warrior choice rent inhale";
+var mnemonic = "drum various flavor hat work paddle aunt loud seven achieve afford derive";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper regular identify invest pelican subject pear december dish equip hole opera";
+var mnemonic = "portion wonder ticket live mix forward feature trust screen spider hotel subway";

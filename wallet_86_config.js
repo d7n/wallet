@@ -1,1 +1,1 @@
-var mnemonic = "model adapt large aspect void flee leave drum faith weasel bridge search";
+var mnemonic = "state obtain sign beach visual increase fiction fix license rate salt west";

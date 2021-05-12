@@ -1,1 +1,1 @@
-var mnemonic = "remind one minute aware budget perfect hair hair whip repair guard found";
+var mnemonic = "assume crazy march hat dry leg expire flag teach crumble leave cigar";

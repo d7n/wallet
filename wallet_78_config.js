@@ -1,1 +1,1 @@
-var mnemonic = "mistake mix vague govern mutual material usual whisper worth develop pass december";
+var mnemonic = "vibrant success math equal surge two parent matter gym civil rubber away";

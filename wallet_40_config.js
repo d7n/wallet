@@ -1,1 +1,1 @@
-var mnemonic = "chimney forest jaguar choice engine ask photo draft crew together liberty bar";
+var mnemonic = "bread kite garage unique torch wide day morning crouch knock isolate ahead";

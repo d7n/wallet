@@ -1,1 +1,1 @@
-var mnemonic = "oak talk pioneer plunge quiz sword six mountain proof hat answer carbon";
+var mnemonic = "dog wheel gorilla luggage hair helmet cereal eight next nothing pair captain";

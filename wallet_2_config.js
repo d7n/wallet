@@ -1,1 +1,1 @@
-var mnemonic = "ocean ridge human game express gate region inherit squeeze unable nominee novel";
+var mnemonic = "trigger cradle obvious edit coconut exit carpet crop duck dog pigeon session";

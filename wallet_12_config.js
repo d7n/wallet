@@ -1,1 +1,1 @@
-var mnemonic = "volume action sunny liar sunset length quiz across resource pond very defense";
+var mnemonic = "library century assume neither riot town swear engage hood pink battle traffic";

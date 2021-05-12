@@ -1,1 +1,1 @@
-var mnemonic = "chat shoot hand network frequent race van denial hedgehog mind predict island";
+var mnemonic = "vacant repeat window will ivory again ripple dinosaur struggle satoshi before tongue";

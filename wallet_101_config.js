@@ -1,1 +1,1 @@
-var mnemonic = "result custom couch universe impulse good alter wait account swift stone foster";
+var mnemonic = "dwarf tent safe evoke window wife fortune seat spray gentle pink misery";

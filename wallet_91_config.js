@@ -1,1 +1,1 @@
-var mnemonic = "snack orchard guard popular switch isolate pigeon timber fatigue guitar symbol unaware";
+var mnemonic = "cannon leader despair nature belt patrol aware prepare decorate zoo cute sorry";

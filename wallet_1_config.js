@@ -1,1 +1,1 @@
-var mnemonic = "jelly health happy gaze member horse twin trumpet question excite grab three";
+var mnemonic = "solid guilt someone impulse grocery balcony utility rice floor frame fantasy unit";

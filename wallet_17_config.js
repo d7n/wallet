@@ -1,1 +1,1 @@
-var mnemonic = "miss stage mix grunt zoo report size merry faith spatial machine output";
+var mnemonic = "basket drift dust addict bulk story nuclear heart buyer apart twist debate";

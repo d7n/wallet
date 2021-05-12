@@ -1,1 +1,1 @@
-var mnemonic = "thought balcony execute square hope depart fatal dream custom begin juice holiday";
+var mnemonic = "liberty asthma arena pink final account regular grain theme above busy excess";

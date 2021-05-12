@@ -1,1 +1,1 @@
-var mnemonic = "crash prefer rich fish mushroom science learn lift link void boat wave";
+var mnemonic = "physical fatal neutral arctic high can since grunt napkin sister staff trend";

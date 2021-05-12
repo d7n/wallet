@@ -1,1 +1,1 @@
-var mnemonic = "wait million chef fatal find lens autumn deliver perfect secret once key";
+var mnemonic = "else circle lava plug wood track grunt awful any print record casual";

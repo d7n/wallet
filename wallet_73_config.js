@@ -1,1 +1,1 @@
-var mnemonic = "add finger ocean limb tattoo slush banner excess index island turkey march";
+var mnemonic = "review client fossil ramp kidney cupboard pull divide nation unhappy bless wife";

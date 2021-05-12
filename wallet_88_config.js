@@ -1,1 +1,1 @@
-var mnemonic = "measure young long believe clerk pig syrup visual foil defy clinic trust";
+var mnemonic = "wing fetch icon demise two flight twin space clay soup nominee cruise";

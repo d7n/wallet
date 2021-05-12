@@ -1,1 +1,1 @@
-var mnemonic = "beyond dad myself surprise ribbon flavor mobile exhaust undo ceiling extra ritual";
+var mnemonic = "wet couch glad argue deer parrot benefit clinic lens media fade fragile";

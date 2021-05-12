@@ -1,1 +1,1 @@
-var mnemonic = "cluster middle thing elephant cricket venture metal remember chair space soldier wheel";
+var mnemonic = "tomorrow obtain health float common same stadium supply average sleep bring super";

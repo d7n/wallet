@@ -1,1 +1,1 @@
-var mnemonic = "yellow park symbol riot delay coin project reveal negative escape urban skate";
+var mnemonic = "until poverty cave multiply unfold flower skirt course boat game west old";

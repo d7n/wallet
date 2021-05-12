@@ -1,1 +1,1 @@
-var mnemonic = "trash coconut inch mimic south vessel differ regular fan liberty orient shadow";
+var mnemonic = "vintage author palace jump believe brick lizard venue custom lyrics dirt certain";

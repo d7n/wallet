@@ -1,1 +1,1 @@
-var mnemonic = "swallow absurd direct glue endorse blame fruit gate speed gun brother witness";
+var mnemonic = "gallery horn glide injury ranch poet diamond citizen siren expand reflect fame";

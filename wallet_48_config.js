@@ -1,1 +1,1 @@
-var mnemonic = "flame cause harbor large desert then cement fine click owner panel gasp";
+var mnemonic = "hamster note tornado kite save turkey glimpse grunt battle couch into mutual";

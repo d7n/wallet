@@ -1,1 +1,1 @@
-var mnemonic = "dune magic picnic auto tribe hat draw music shine hockey bulk chalk";
+var mnemonic = "park match indicate pigeon town arch fringe frozen curtain sadness card pill";

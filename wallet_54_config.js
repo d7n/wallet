@@ -1,1 +1,1 @@
-var mnemonic = "abuse reflect nose spin woman gate impact dolphin inside use please virtual";
+var mnemonic = "student canvas scrap kiss brave goat indicate travel boat famous furnace join";

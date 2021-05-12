@@ -1,1 +1,1 @@
-var mnemonic = "arrow unknown beach loan analyst crowd alert penalty nephew sort question error";
+var mnemonic = "disagree express cash deer gallery era judge noise improve patrol treat only";

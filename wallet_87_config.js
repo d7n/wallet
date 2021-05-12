@@ -1,1 +1,1 @@
-var mnemonic = "occur flight weasel poet insect spoon dragon bitter grass tag resemble general";
+var mnemonic = "exhaust child mom syrup soldier current camp fresh idle charge scale hip";

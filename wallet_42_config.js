@@ -1,1 +1,1 @@
-var mnemonic = "invite pool gloom unaware dignity rail dinosaur pet install lonely wait riot";
+var mnemonic = "uphold benefit team shrimp easily trim long category rose twenty blind invest";

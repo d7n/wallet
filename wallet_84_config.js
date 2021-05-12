@@ -1,1 +1,1 @@
-var mnemonic = "burger slam donkey outdoor know news shadow peace isolate garlic primary pink";
+var mnemonic = "floor glare zero useless supply together ready unable then celery own surge";

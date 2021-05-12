@@ -1,1 +1,1 @@
-var mnemonic = "elephant glow trumpet order gather assist image endorse will derive fan enter";
+var mnemonic = "shiver luggage cool retire yard fitness coffee invite tattoo oak excess resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "matter relax fatigue cruise oblige exit scissors erupt pole science already decorate";
+var mnemonic = "owner wage exchange unveil host display thrive talent remain museum fossil quantum";

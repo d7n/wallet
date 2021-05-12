@@ -1,1 +1,1 @@
-var mnemonic = "cradle model you loan solar teach indoor inherit crowd stamp dismiss witness";
+var mnemonic = "gun record transfer panther teach extra release hazard control night acoustic either";

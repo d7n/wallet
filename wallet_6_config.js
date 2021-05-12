@@ -1,1 +1,1 @@
-var mnemonic = "project system era when symbol trumpet ostrich hazard file bid sad magic";
+var mnemonic = "beyond detail gap head settle cross runway crucial diary whale danger caution";

@@ -1,1 +1,1 @@
-var mnemonic = "dry meadow bachelor crop team slim foam wolf panel decline job dance";
+var mnemonic = "best bright spot echo juice exact purchase large language steak canyon ahead";

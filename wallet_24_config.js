@@ -1,1 +1,1 @@
-var mnemonic = "regret royal world razor sister title merit mind maze secret work they";
+var mnemonic = "timber surprise arrest diamond invite west dwarf explain into impulse check super";

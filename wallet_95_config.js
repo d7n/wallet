@@ -1,1 +1,1 @@
-var mnemonic = "cover snack stick review ridge squirrel caught hospital effort bounce cruel immune";
+var mnemonic = "during matrix shadow way course vacant north myself habit evidence wash parent";

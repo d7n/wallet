@@ -1,1 +1,1 @@
-var mnemonic = "worth slam excuse guard derive barely anchor purity sock rather atom boil";
+var mnemonic = "satoshi edit kidney leave random sleep match refuse join doll describe category";

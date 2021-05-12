@@ -1,1 +1,1 @@
-var mnemonic = "accident harsh rude enough mouse spend off scrub globe cloth emotion fog";
+var mnemonic = "trumpet twelve crop always armor advance broken evolve gate view luxury essence";

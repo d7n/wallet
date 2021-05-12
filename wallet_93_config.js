@@ -1,1 +1,1 @@
-var mnemonic = "opinion inhale gun relief wood wagon review sail bless anxiety point whisper";
+var mnemonic = "inside misery regret feature shove ring cannon decorate timber hawk cute slogan";

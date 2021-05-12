@@ -1,1 +1,1 @@
-var mnemonic = "bachelor bomb hammer copper head salt win pass world head veteran divorce";
+var mnemonic = "medal among just enter clinic become still leaf creek rule avoid smoke";

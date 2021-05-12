@@ -1,1 +1,1 @@
-var mnemonic = "bicycle story grow since wing slow enter trust bring unfair segment gospel";
+var mnemonic = "churn ketchup hover tattoo room lemon check item sleep clown belt merry";

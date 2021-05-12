@@ -1,1 +1,1 @@
-var mnemonic = "bamboo question umbrella enough lumber select tonight expand beauty stamp venture cattle";
+var mnemonic = "code bundle tiger oil grocery joke proof giant pelican exchange behind choice";

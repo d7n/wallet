@@ -1,1 +1,1 @@
-var mnemonic = "measure alarm napkin story above quantum egg taste elephant ignore pole network";
+var mnemonic = "pony symbol return board piano test trap twist swallow gauge chair used";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup feature require bitter sport fold vivid response clutch canal topple cradle";
+var mnemonic = "unlock gentle adult traffic heart omit winter belt lemon stove gauge spare";

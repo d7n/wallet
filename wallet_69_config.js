@@ -1,1 +1,1 @@
-var mnemonic = "fox enemy patient digital hurt soda shy long cry icon column tube";
+var mnemonic = "nurse episode future output denial cloth main entire weapon quit wage snack";

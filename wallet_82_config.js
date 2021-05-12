@@ -1,1 +1,1 @@
-var mnemonic = "bundle cream exile potato flame divert purse evolve news wild rib slot";
+var mnemonic = "stereo cat another control thought toss nature flip code believe audit left";

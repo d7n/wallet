@@ -1,1 +1,1 @@
-var mnemonic = "hip lawsuit network affair today allow aunt reject avocado differ jealous craft";
+var mnemonic = "weasel helmet uniform cloth play blossom silent narrow slam young mirror exist";

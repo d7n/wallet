@@ -1,1 +1,1 @@
-var mnemonic = "chicken year swift bean width flip pond seed segment spawn winner still";
+var mnemonic = "plastic humor wisdom essay snow angle quarter control kid clinic earn predict";

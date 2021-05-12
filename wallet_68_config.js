@@ -1,1 +1,1 @@
-var mnemonic = "relief able vacuum mother spirit current tell junior scare limb lunch private";
+var mnemonic = "style soldier clap fame review tube whip broom grocery nephew switch skirt";

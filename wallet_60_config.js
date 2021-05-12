@@ -1,1 +1,1 @@
-var mnemonic = "patient iron fork husband asthma puzzle upset table snack duty universe gasp";
+var mnemonic = "parrot slot claim choice two elder baby naive entire lottery ketchup front";

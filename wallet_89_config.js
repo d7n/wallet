@@ -1,1 +1,1 @@
-var mnemonic = "accuse tortoise early unveil shine bus cigar render boil tank hammer pull";
+var mnemonic = "donate deer police charge little woman desert visa crystal seven sort height";

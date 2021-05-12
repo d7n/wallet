@@ -1,1 +1,1 @@
-var mnemonic = "unfold theme mango member creek popular tobacco filter someone water flat flip";
+var mnemonic = "network valve remove leg return cram law month cigar daring steel shoulder";

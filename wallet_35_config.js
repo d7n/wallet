@@ -1,1 +1,1 @@
-var mnemonic = "cloth crisp farm brother grief stairs excuse weather hollow fault digital concert";
+var mnemonic = "grace open bubble response resource tonight dinosaur among globe circle second crush";

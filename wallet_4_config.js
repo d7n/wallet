@@ -1,1 +1,1 @@
-var mnemonic = "warfare clerk priority dismiss chef language alert phrase share rigid auction warm";
+var mnemonic = "unable universe useful anxiety fresh flame donor ridge point session return child";

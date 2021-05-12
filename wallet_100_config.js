@@ -1,1 +1,1 @@
-var mnemonic = "palace mesh chalk dice west genius chronic duck flip ski pelican loop";
+var mnemonic = "hope hundred cabin party dragon announce bar amount hotel tired lawsuit music";

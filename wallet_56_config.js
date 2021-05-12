@@ -1,1 +1,1 @@
-var mnemonic = "buzz eight turkey space visit program umbrella convince genuine wonder fog this";
+var mnemonic = "truck hub engine laundry end basic have blossom panda corn board van";

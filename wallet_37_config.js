@@ -1,1 +1,1 @@
-var mnemonic = "retire craft bridge powder hello letter hair ginger volume offer lake educate";
+var mnemonic = "kick make child scissors busy sick document float boy exotic chunk crime";

@@ -1,1 +1,1 @@
-var mnemonic = "chat more jar coach jeans fury unusual adult turn gauge echo runway";
+var mnemonic = "cave vehicle spawn pass stumble between column elegant frequent network march fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "horror garden rocket sense gasp item stereo flame path ocean shadow scare";
+var mnemonic = "cannon next much loud fringe daring shrimp good urge cattle arch tiger";

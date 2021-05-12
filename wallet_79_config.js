@@ -1,1 +1,1 @@
-var mnemonic = "bubble picnic reward diet cruise muscle very satisfy tomorrow sight soap start";
+var mnemonic = "whisper poem scheme review violin oyster skill october bullet quality shell nurse";

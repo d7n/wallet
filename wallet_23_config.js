@@ -1,1 +1,1 @@
-var mnemonic = "prosper base safe crunch then doctor crew under diagram leave frozen pony";
+var mnemonic = "buyer nerve bone sure emerge april angry eye grit history deposit mind";

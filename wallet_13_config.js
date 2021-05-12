@@ -1,1 +1,1 @@
-var mnemonic = "network salad raw under talent obey volume garage soccer quote until unfair";
+var mnemonic = "network metal hurry wrong patient cradle electric smile build guess grab harbor";

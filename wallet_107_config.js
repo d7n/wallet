@@ -1,1 +1,1 @@
-var mnemonic = "game scheme kick soup fault broccoli vote pulse predict sight private lava";
+var mnemonic = "oval sell toy divorce domain poverty meat stone safe boat govern pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "junk market chat student match cook burden inmate bunker nest awesome brown";
+var mnemonic = "adult romance knife cousin suit where cram odor myself jealous waste post";

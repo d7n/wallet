@@ -1,1 +1,1 @@
-var mnemonic = "boy ahead lion index weekend cage jump pen empower humor winter basket";
+var mnemonic = "express tone bridge web hand risk toast unlock canvas nephew street involve";

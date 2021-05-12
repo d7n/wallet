@@ -1,1 +1,1 @@
-var mnemonic = "brother amount boring person motion chat idea evil secret step cross valley";
+var mnemonic = "nurse payment cargo witness valve glad erase evil poet empower course mosquito";

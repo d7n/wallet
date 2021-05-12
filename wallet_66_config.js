@@ -1,1 +1,1 @@
-var mnemonic = "shed wing process leisure layer ready mention amused impact web vintage sword";
+var mnemonic = "pioneer frog add salute sword patch identify crucial all essence brisk asset";

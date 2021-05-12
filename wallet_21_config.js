@@ -1,1 +1,1 @@
-var mnemonic = "ability reduce medal loud wet buyer else depth settle curve wear armed";
+var mnemonic = "drink ankle fun salon expose canal depend alarm boring idle palace knee";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal nothing animal tank hill expose member security swallow endorse reduce giggle";
+var mnemonic = "hurdle tag start useless various remind access arch funny truck family quality";

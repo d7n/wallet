@@ -1,1 +1,1 @@
-var mnemonic = "farm donate dove solution ketchup flock derive balance leisure intact outer inside";
+var mnemonic = "foot wish solve robot arena rib history split soap mobile lunch rather";

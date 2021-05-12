@@ -1,1 +1,1 @@
-var mnemonic = "electric evoke uncle track prevent age rally aim sustain state permit able";
+var mnemonic = "unique intact away planet patient mean heavy popular draw differ nerve will";

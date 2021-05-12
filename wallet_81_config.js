@@ -1,1 +1,1 @@
-var mnemonic = "story mesh taxi sentence cheap angry expand color grain climb hand matter";
+var mnemonic = "rent allow worry occur afraid captain wisdom ripple hover medal radar author";

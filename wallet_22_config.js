@@ -1,1 +1,1 @@
-var mnemonic = "panda diamond melody velvet emotion ability delay enemy board thumb zoo eager";
+var mnemonic = "enforce cousin upper woman canvas pudding portion clap century whisper burden brave";

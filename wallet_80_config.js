@@ -1,1 +1,1 @@
-var mnemonic = "repair brown galaxy lesson priority entire unique frozen pause current output appear";
+var mnemonic = "grunt immune gym differ resource arrest pact hand because left drastic into";

@@ -1,1 +1,1 @@
-var mnemonic = "reject until bring skull when original observe skull also vacant gift pitch";
+var mnemonic = "girl sauce teach manual slot lounge confirm fatigue apart plastic adjust misery";

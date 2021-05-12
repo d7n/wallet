@@ -1,1 +1,1 @@
-var mnemonic = "balcony engine candy again crowd rain sign good chapter trash praise feel";
+var mnemonic = "link crunch nuclear snow safe little elegant interest address rocket marriage hub";

@@ -1,1 +1,1 @@
-var mnemonic = "message soon sense funny carry poet dignity fiscal bring glory love jump";
+var mnemonic = "certain humor joy scorpion burst music two egg help access shadow crowd";

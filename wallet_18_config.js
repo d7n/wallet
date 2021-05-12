@@ -1,1 +1,1 @@
-var mnemonic = "record wheat inherit maze tomorrow example toddler web despair mystery margin napkin";
+var mnemonic = "dose work together equip life surprise phone satisfy stage disease adjust smile";

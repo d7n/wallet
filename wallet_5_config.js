@@ -1,1 +1,1 @@
-var mnemonic = "magic frost face happy mean liberty merit elephant rare awesome canal finish";
+var mnemonic = "inch cricket dilemma bread drive derive farm summer cliff force feed reduce";

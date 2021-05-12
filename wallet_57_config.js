@@ -1,1 +1,1 @@
-var mnemonic = "shaft crazy deny antique fat cat candy sleep harsh crash gesture pepper";
+var mnemonic = "kiss suffer answer stairs approve panel deny super maximum merry cloth hollow";

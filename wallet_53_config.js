@@ -1,1 +1,1 @@
-var mnemonic = "divorce athlete spy word spend guilt auto endorse misery brave victory hole";
+var mnemonic = "major traffic basket famous confirm crash tip what already file spice admit";

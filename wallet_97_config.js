@@ -1,1 +1,1 @@
-var mnemonic = "north material immense february adapt public coil cushion nerve birth army praise";
+var mnemonic = "recall insect version duty clean tiger divorce cram gather during pool awake";

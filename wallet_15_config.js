@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur visual victory drill lunar banana tilt lens expire brain solve floor";
+var mnemonic = "burger insane evoke organ mixed round just later ugly ill peasant year";

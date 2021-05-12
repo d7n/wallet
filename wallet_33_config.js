@@ -1,1 +1,1 @@
-var mnemonic = "web differ demand squirrel art must fever name genuine turtle response impose";
+var mnemonic = "fringe illegal long near dune giggle kite brother six flee ladder above";

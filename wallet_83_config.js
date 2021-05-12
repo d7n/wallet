@@ -1,1 +1,1 @@
-var mnemonic = "salon evil tell unveil orange blind outer exercise quit faith embody mesh";
+var mnemonic = "clean chase opinion unveil hidden nature ocean gap draft chair deny gloom";

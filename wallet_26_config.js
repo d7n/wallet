@@ -1,1 +1,1 @@
-var mnemonic = "genre husband stumble tower carbon boost ridge region trial poem census cup";
+var mnemonic = "tribe upper clown scan sign side opinion venue gadget tissue invite inquiry";

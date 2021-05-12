@@ -1,1 +1,1 @@
-var mnemonic = "guide spend edge simple priority wood pink cake return van initial poet";
+var mnemonic = "march vital toe leg cry scrub enough supply shrug foot window fish";

@@ -1,1 +1,1 @@
-var mnemonic = "moral damp hawk weasel sketch board stone excuse blue find wave decrease";
+var mnemonic = "where game noble catalog luxury economy shoe employ right afford usual move";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt iron lake delay genre pottery leopard situate merit nice shrug jelly";
+var mnemonic = "steak garment verify harsh tomato pudding elephant comic lyrics license trip render";

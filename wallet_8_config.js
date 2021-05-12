@@ -1,1 +1,1 @@
-var mnemonic = "priority wild rather assault shoe labor north science gain word wreck fury";
+var mnemonic = "siege country client magic around drastic before clerk kangaroo august morning cage";

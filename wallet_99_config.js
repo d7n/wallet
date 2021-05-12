@@ -1,1 +1,1 @@
-var mnemonic = "siren donkey cart element pelican high seven tomorrow auction arrow chair cruise";
+var mnemonic = "elite parrot tent donkey hazard asset wide cannon since expand swamp inject";

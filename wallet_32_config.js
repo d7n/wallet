@@ -1,1 +1,1 @@
-var mnemonic = "harsh pen borrow strategy core miracle sport local option voice begin clog";
+var mnemonic = "carbon tissue silent mercy close matrix chuckle spice air fancy hollow silver";
