@@ -1,1 +1,1 @@
-var mnemonic = "canyon force gentle divorce vote innocent close liberty face clump swap position";
+var mnemonic = "broom six convince what pause beyond endorse soup vehicle people february relief";

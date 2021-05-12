@@ -1,1 +1,1 @@
-var mnemonic = "frost misery wall brief lottery indoor air response aerobic term shuffle yard";
+var mnemonic = "write join round over stand still setup script creek infant skin winner";

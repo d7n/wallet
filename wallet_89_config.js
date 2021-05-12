@@ -1,1 +1,1 @@
-var mnemonic = "endless exchange length spider file ritual bread scrub edit exact fury dragon";
+var mnemonic = "final unit fatigue dust position fiber deputy adult shaft duty paddle current";

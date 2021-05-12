@@ -1,1 +1,1 @@
-var mnemonic = "creek social weird text reject immense cricket budget horse stock gym hill";
+var mnemonic = "home neglect garlic issue crush window toilet phrase nuclear file bag service";

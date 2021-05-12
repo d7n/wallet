@@ -1,1 +1,1 @@
-var mnemonic = "crew face soccer divert ignore brother wheel final pact year defy segment";
+var mnemonic = "film teach impulse anger acquire april differ wagon quantum twice portion trigger";

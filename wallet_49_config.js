@@ -1,1 +1,1 @@
-var mnemonic = "solar young laugh cover unveil immune equal extra blind furnace ostrich flower";
+var mnemonic = "input notable skull skate aerobic hockey push labor ancient field sure oval";

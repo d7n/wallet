@@ -1,1 +1,1 @@
-var mnemonic = "exclude jump reform spoon insect blossom elegant stool ivory hobby pudding moon";
+var mnemonic = "fly buddy morning tank project gaze bacon virtual disagree thank next spider";

@@ -1,1 +1,1 @@
-var mnemonic = "push shadow relief alcohol width world flag banner like deny clinic pet";
+var mnemonic = "client begin dragon over range crisp match cable jelly shrug dog glare";

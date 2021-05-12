@@ -1,1 +1,1 @@
-var mnemonic = "travel hire opera armor culture acoustic response runway outer short opera heart";
+var mnemonic = "hamster garment uphold stadium century very typical cement task pupil float century";

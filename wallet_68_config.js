@@ -1,1 +1,1 @@
-var mnemonic = "nuclear maid cinnamon agent enhance awake wage believe autumn latin jelly region";
+var mnemonic = "rookie enrich fun endless dune leisure laundry arena lizard shove okay absent";

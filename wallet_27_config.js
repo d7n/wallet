@@ -1,1 +1,1 @@
-var mnemonic = "occur find beyond great galaxy island special alter drama key hurt marble";
+var mnemonic = "window rich gentle kitten cruise panic sister forest march lift sudden fence";

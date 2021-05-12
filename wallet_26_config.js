@@ -1,1 +1,1 @@
-var mnemonic = "walk regular walnut mad throw initial general toddler frost friend diesel antique";
+var mnemonic = "loyal arrest video monster essence stadium page width change novel breeze boss";

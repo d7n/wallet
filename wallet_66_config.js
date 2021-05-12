@@ -1,1 +1,1 @@
-var mnemonic = "boss swear source next hedgehog spring banner forum dune jealous now symbol";
+var mnemonic = "blossom cook drift piece hidden forum swap park oak razor wheel credit";

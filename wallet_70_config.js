@@ -1,1 +1,1 @@
-var mnemonic = "treat visa myself adult radar coral pelican gauge athlete summer bonus coconut";
+var mnemonic = "melody unhappy deliver remind company family write rice perfect brown december despair";

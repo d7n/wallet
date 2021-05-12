@@ -1,1 +1,1 @@
-var mnemonic = "enemy force screen gravity turtle grass bronze trigger stove miss bubble road";
+var mnemonic = "project toward squirrel either dignity warrior hen pool spread catalog bread hour";

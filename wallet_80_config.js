@@ -1,1 +1,1 @@
-var mnemonic = "apple grocery notable fantasy raw trap curtain shrug spin this heart runway";
+var mnemonic = "monkey casino scissors brain cage letter fossil snow earn catalog rule property";

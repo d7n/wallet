@@ -1,1 +1,1 @@
-var mnemonic = "spoil evidence tool grit interest cabin among trial devote install day roof";
+var mnemonic = "melody east april debris laptop breeze obvious mango cabin gloom treat pistol";

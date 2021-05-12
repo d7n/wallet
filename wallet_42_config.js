@@ -1,1 +1,1 @@
-var mnemonic = "nothing twice replace tattoo spy tattoo camera census stick glow tone smart";
+var mnemonic = "video reveal dinner force ask insect silent crouch snake vapor decorate drill";

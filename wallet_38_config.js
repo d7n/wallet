@@ -1,1 +1,1 @@
-var mnemonic = "axis undo ocean awake future year famous bike sheriff arrest reunion shiver";
+var mnemonic = "cousin book like sword naive major level math donor remind enemy suggest";

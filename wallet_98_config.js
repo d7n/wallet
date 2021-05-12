@@ -1,1 +1,1 @@
-var mnemonic = "refuse correct woman large casino situate ticket enforce kit dawn side oyster";
+var mnemonic = "caution sea traffic narrow shrug raise mass secret warfare nephew join system";

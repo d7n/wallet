@@ -1,1 +1,1 @@
-var mnemonic = "thrive myself scare inmate ethics crawl capital fantasy fluid surprise fee solar";
+var mnemonic = "donor impact food satoshi chat fault potato punch require earn review rule";

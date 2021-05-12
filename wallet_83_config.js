@@ -1,1 +1,1 @@
-var mnemonic = "image dinner before surround room acquire region embrace outer gloom story cargo";
+var mnemonic = "indoor moral file pen truck affair pause scrub cave differ inquiry brother";

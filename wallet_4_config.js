@@ -1,1 +1,1 @@
-var mnemonic = "lucky glide ice congress around provide name rare mail slam artefact tired";
+var mnemonic = "hazard coffee lab orphan box judge recycle pencil tragic upper verb van";

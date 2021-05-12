@@ -1,1 +1,1 @@
-var mnemonic = "year subject brand upset trial ivory tenant music skill trouble shell fence";
+var mnemonic = "few bid decline party used wave reject metal size scout burger vague";

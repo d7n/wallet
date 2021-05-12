@@ -1,1 +1,1 @@
-var mnemonic = "foot practice inspire actual blast joke comfort jump quality skin crumble exchange";
+var mnemonic = "noble emerge sauce deal window time version table royal image afford voice";

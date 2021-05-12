@@ -1,1 +1,1 @@
-var mnemonic = "possible corn rose extra detail fine upon material concert mutual stadium shed";
+var mnemonic = "matter scissors dizzy miracle brown onion web viable video give apology army";

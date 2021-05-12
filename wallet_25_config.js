@@ -1,1 +1,1 @@
-var mnemonic = "elephant thrive muscle wrist cycle copy limit group devote weekend grit cycle";
+var mnemonic = "claim library despair young tomato social govern arrange front agree early mule";

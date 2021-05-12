@@ -1,1 +1,1 @@
-var mnemonic = "pledge reward collect lottery patrol swear never glimpse scissors crop pink brown";
+var mnemonic = "element voyage donkey soul easily junior slim brown stereo fatigue machine sight";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle wrist infant kick elder island nurse budget history unit future trophy";
+var mnemonic = "escape viable crack rent service hat enrich burger test awful engage elephant";

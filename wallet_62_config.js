@@ -1,1 +1,1 @@
-var mnemonic = "involve refuse hold water senior alcohol slow layer boy tube panda already";
+var mnemonic = "control creek long scissors loop cabin blossom critic pool cushion dilemma already";

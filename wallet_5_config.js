@@ -1,1 +1,1 @@
-var mnemonic = "analyst rubber hunt float exile cover next pride rebuild flush salon crucial";
+var mnemonic = "talent swing foot disagree coyote sorry unveil share kit visa shuffle meat";

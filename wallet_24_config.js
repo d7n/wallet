@@ -1,1 +1,1 @@
-var mnemonic = "brother cliff rug sibling hawk cigar brief battle primary strike minor infant";
+var mnemonic = "exact thrive key hidden fiscal sustain stay modify orient craft endorse release";

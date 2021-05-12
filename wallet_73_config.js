@@ -1,1 +1,1 @@
-var mnemonic = "path frog ribbon swallow scorpion sunset popular host patient student science ugly";
+var mnemonic = "sweet blossom history fence vocal spare strong deer hawk split behave radio";

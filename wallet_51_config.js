@@ -1,1 +1,1 @@
-var mnemonic = "health ozone flip version become carpet vibrant mail brown flee destroy gasp";
+var mnemonic = "define tower empty cargo actor spread climb smart rotate field crowd collect";

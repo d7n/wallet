@@ -1,1 +1,1 @@
-var mnemonic = "sister final assault age grace damp hub life soccer depend auction judge";
+var mnemonic = "process dinner casino cruise market expose system bounce shuffle guilt bicycle suspect";

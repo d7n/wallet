@@ -1,1 +1,1 @@
-var mnemonic = "plunge true awesome season speed chair ice rely ability office enroll carpet";
+var mnemonic = "pipe reject dose army jelly auto judge enhance shadow crowd method market";

@@ -1,1 +1,1 @@
-var mnemonic = "print picture polar culture switch gasp diamond sniff material change mechanic cliff";
+var mnemonic = "glory spy bean purity derive march puppy stay busy then congress indoor";

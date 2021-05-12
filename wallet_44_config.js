@@ -1,1 +1,1 @@
-var mnemonic = "mandate smoke web awake minute tortoise agent celery spider sock gap together";
+var mnemonic = "cause language pioneer mutual card arctic angle drift door chaos fog runway";

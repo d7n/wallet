@@ -1,1 +1,1 @@
-var mnemonic = "rack talk case steel disagree width grit whip stand time lock output";
+var mnemonic = "use phone hope engine seminar give humor exile fabric insane sell emerge";

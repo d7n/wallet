@@ -1,1 +1,1 @@
-var mnemonic = "focus globe divide trial disagree benefit hidden injury close limit pink catalog";
+var mnemonic = "motor board panic foot chapter praise era steel develop birth van crop";

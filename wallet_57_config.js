@@ -1,1 +1,1 @@
-var mnemonic = "abuse client call exchange nephew domain room drink voice across rhythm claw";
+var mnemonic = "art regret erosion address rough mother swing angry argue axis treat shell";

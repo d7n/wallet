@@ -1,1 +1,1 @@
-var mnemonic = "build purity behind outdoor enact confirm habit advice install vehicle birth scene";
+var mnemonic = "warfare catch mind worry express duck moral warrior outdoor depend horror muffin";

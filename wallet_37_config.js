@@ -1,1 +1,1 @@
-var mnemonic = "sea network deputy economy height round decorate actual ridge scan turtle run";
+var mnemonic = "apple sorry own dress dragon latin else combine size mutual pitch faith";

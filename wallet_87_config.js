@@ -1,1 +1,1 @@
-var mnemonic = "into blood glare pond tackle picnic impulse excess bridge awake crop dove";
+var mnemonic = "mule select garbage trial moon thunder foil laugh clay feature elder shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy rural exercise drip ridge bless about coast ketchup light cattle thumb";
+var mnemonic = "crime step auto smooth exile velvet empty kid organ make leave baby";

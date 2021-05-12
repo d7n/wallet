@@ -1,1 +1,1 @@
-var mnemonic = "lottery elbow blind inherit snow series pretty bid dune then dream woman";
+var mnemonic = "elephant wheat mimic afraid carry bleak cheese moon crumble uncover useless kick";

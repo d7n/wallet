@@ -1,1 +1,1 @@
-var mnemonic = "tooth miss critic marriage artist nuclear two broccoli child palace wall fragile";
+var mnemonic = "cost mesh entry smart lonely wing juice obscure ranch cream often resemble";

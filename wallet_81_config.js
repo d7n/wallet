@@ -1,1 +1,1 @@
-var mnemonic = "alarm check popular grant lock escape horn elbow web law jazz rate";
+var mnemonic = "dinner chalk axis sound wood physical cost husband dumb alley hollow sick";

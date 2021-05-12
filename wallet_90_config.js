@@ -1,1 +1,1 @@
-var mnemonic = "weapon skate canal gown tongue assist fix vital believe buzz loop library";
+var mnemonic = "success frame polar finish ginger federal library label unique bag quick decrease";

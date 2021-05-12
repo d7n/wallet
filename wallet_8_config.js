@@ -1,1 +1,1 @@
-var mnemonic = "word dove quiz hungry gloom fat sustain jazz front gravity rifle rescue";
+var mnemonic = "toddler thrive project bargain other general song spoil afford drop genius burden";

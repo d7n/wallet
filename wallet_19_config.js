@@ -1,1 +1,1 @@
-var mnemonic = "gain quantum funny town good skate pen stadium nation luxury stumble boring";
+var mnemonic = "manage confirm stick move walk type bomb become island win chaos code";

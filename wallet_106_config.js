@@ -1,1 +1,1 @@
-var mnemonic = "song antique candy bridge trash stone ecology alien ill federal picnic pause";
+var mnemonic = "behave photo cage hungry symptom answer wire engage volcano soldier flush stove";

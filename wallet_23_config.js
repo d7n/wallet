@@ -1,1 +1,1 @@
-var mnemonic = "unusual good picture simple tuna rabbit razor chaos hurry question bargain radio";
+var mnemonic = "senior educate jar trigger orient absorb market toast cushion above little bar";

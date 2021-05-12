@@ -1,1 +1,1 @@
-var mnemonic = "moral hair tent glow mad beauty swift balcony order brass anchor gym";
+var mnemonic = "tumble steak bomb dinosaur dry stove deliver later mobile account evil farm";

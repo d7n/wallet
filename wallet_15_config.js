@@ -1,1 +1,1 @@
-var mnemonic = "express rice sense royal review harsh allow gym slam step pioneer feature";
+var mnemonic = "plate stock stable blame end theory mask session favorite letter shoe grain";

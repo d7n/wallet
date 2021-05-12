@@ -1,1 +1,1 @@
-var mnemonic = "curve speak just wash border buffalo reward seed first panther picture meat";
+var mnemonic = "dream accident oak hobby evil mountain gravity keep among quarter fan worry";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage collect gentle economy tree satoshi museum valley impose large annual smart";
+var mnemonic = "brain noise bright sketch enlist exotic wrap birth program motor social wisdom";

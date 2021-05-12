@@ -1,1 +1,1 @@
-var mnemonic = "weapon also light finish address rotate skull sketch seven slight voyage bridge";
+var mnemonic = "exchange loud mail globe chapter amount world innocent ginger three pizza fever";

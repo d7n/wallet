@@ -1,1 +1,1 @@
-var mnemonic = "thumb hurdle rely voyage purchase danger fan alley need endless oil soup";
+var mnemonic = "winner fuel problem adapt choice then giggle donor fire oil earth coil";

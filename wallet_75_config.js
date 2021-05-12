@@ -1,1 +1,1 @@
-var mnemonic = "describe sure allow poem supply brave public permit account apology noise orchard";
+var mnemonic = "aim decline art fiction desert control glow sick second mirror only leopard";

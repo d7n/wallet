@@ -1,1 +1,1 @@
-var mnemonic = "ugly gadget actual wedding salmon draw twist waste umbrella unlock improve game";
+var mnemonic = "mean right cause slim license transfer hotel warrior nerve current certain opinion";

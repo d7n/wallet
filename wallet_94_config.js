@@ -1,1 +1,1 @@
-var mnemonic = "egg cube party entry brisk citizen waste clog focus advice build trade";
+var mnemonic = "spray scheme conduct music scrub dynamic april glad title zone two pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna aware wave mention south powder educate better rhythm drastic release ethics";
+var mnemonic = "whale snake world game improve movie fancy case wisdom satisfy enter trap";

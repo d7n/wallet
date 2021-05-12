@@ -1,1 +1,1 @@
-var mnemonic = "choice expire deputy tool assault figure legal menu slender hour question fork";
+var mnemonic = "decade vast sustain same truck brother want parent industry congress final mix";

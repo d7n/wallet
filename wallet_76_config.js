@@ -1,1 +1,1 @@
-var mnemonic = "release bright path debris battle hazard horn bottom carpet express elbow girl";
+var mnemonic = "version lemon indicate breeze mean finger best crush steak foot cloth rain";

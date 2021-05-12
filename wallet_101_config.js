@@ -1,1 +1,1 @@
-var mnemonic = "amused pottery panic obvious party write aerobic benefit answer section pigeon boring";
+var mnemonic = "interest desk venture quit cycle educate license spoil volcano seat correct lunch";

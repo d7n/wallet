@@ -1,1 +1,1 @@
-var mnemonic = "rose empty detail cry fantasy tattoo dignity boss spatial habit erupt decline";
+var mnemonic = "school someone host repair demand dwarf web skill twin eyebrow treat cram";

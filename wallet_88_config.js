@@ -1,1 +1,1 @@
-var mnemonic = "vehicle seek across raven rug cigar child model traffic assault appear caution";
+var mnemonic = "insect word cloud sauce stage skill viable space erupt paper pipe woman";

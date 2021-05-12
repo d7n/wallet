@@ -1,1 +1,1 @@
-var mnemonic = "lift license just video jewel frequent used parent flavor concert sweet angle";
+var mnemonic = "art retreat juice camera island announce swamp supreme secret cement flip key";

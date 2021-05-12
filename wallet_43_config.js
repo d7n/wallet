@@ -1,1 +1,1 @@
-var mnemonic = "essence dove element move dice confirm unlock sentence vote globe pave waste";
+var mnemonic = "net nation festival skate double bicycle wave kitten corn gauge sketch piece";

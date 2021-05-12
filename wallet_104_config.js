@@ -1,1 +1,1 @@
-var mnemonic = "weird october like grit render drip coral million proof tell purpose deliver";
+var mnemonic = "near width fresh buddy cactus cliff require clap shrimp soft mammal aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf update damp bench inch snake cycle try asthma chimney inspire amazing";
+var mnemonic = "deer snack arctic arrange scout leg inside melt rose motor solution correct";

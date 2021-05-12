@@ -1,1 +1,1 @@
-var mnemonic = "cycle drink sort genius useless chat suggest embody barrel weekend ocean pottery";
+var mnemonic = "bright course captain people sustain long gun glass antique gate forget smooth";

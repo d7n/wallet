@@ -1,1 +1,1 @@
-var mnemonic = "patient nurse misery clarify captain scrub minute reduce venue aerobic sail rifle";
+var mnemonic = "found matrix old cement cheap stuff famous modify cancel bird museum rich";

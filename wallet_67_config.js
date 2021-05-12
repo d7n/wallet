@@ -1,1 +1,1 @@
-var mnemonic = "donate rebel belt coffee copper tell brown castle ozone gauge cattle easily";
+var mnemonic = "special horn summer flight all mushroom ceiling repair neither page basket buyer";

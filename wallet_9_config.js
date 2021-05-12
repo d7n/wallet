@@ -1,1 +1,1 @@
-var mnemonic = "fantasy prize unknown strategy tail grief property antique crop rare jealous tilt";
+var mnemonic = "tell virus toss update insane urge basket face throw worth lava churn";

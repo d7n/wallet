@@ -1,1 +1,1 @@
-var mnemonic = "snake embrace rough drum country aunt valid segment diet cousin chalk drastic";
+var mnemonic = "join option face lion profit radar throw velvet walnut artwork second helmet";

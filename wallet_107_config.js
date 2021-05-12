@@ -1,1 +1,1 @@
-var mnemonic = "nation spring broom festival boil wonder know airport grant lemon era slam";
+var mnemonic = "shoulder fly soda flower rifle lens unique rigid fetch fitness horn cargo";

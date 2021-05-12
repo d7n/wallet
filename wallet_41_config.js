@@ -1,1 +1,1 @@
-var mnemonic = "genius bottom relax card evoke stadium mixture able wing news envelope prosper";
+var mnemonic = "nerve round close bonus salmon excuse stay output gas sound produce hair";

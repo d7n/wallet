@@ -1,1 +1,1 @@
-var mnemonic = "sight over until steel enrich weapon save cube base sustain alcohol afford";
+var mnemonic = "cash evoke road floor marble shine rug orphan pride busy mixed orient";

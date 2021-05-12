@@ -1,1 +1,1 @@
-var mnemonic = "industry island runway dutch act dentist chief invest bread grocery kit track";
+var mnemonic = "crumble inmate slice hood cruel journey hammer diagram animal gift absurd better";

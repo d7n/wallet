@@ -1,1 +1,1 @@
-var mnemonic = "metal awake close grain remember woman build joke banana error square answer";
+var mnemonic = "head actress cancel moment hurdle cash mind great arm ice unfold trash";

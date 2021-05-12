@@ -1,1 +1,1 @@
-var mnemonic = "census urban try they team inform play either slim favorite advice obscure";
+var mnemonic = "orphan exercise cross vicious cupboard replace youth noise mix nut draw exist";

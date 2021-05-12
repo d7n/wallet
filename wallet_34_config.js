@@ -1,1 +1,1 @@
-var mnemonic = "question core lounge hard pioneer motor horn peace dish wine limb unable";
+var mnemonic = "juice domain unhappy argue egg torch human nothing dose borrow discover village";

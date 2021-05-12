@@ -1,1 +1,1 @@
-var mnemonic = "vocal manual jealous wolf adjust tenant hard punch valid creek power feed";
+var mnemonic = "chalk rebel stay squeeze raise device nation top hour suspect increase frost";

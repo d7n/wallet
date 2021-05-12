@@ -1,1 +1,1 @@
-var mnemonic = "reform game bounce chronic muffin anger around panic sand clown spread gentle";
+var mnemonic = "walnut evil slot broken autumn elder ten cannon echo skate scout claim";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow error soap category column submit loan master install fuel question betray";
+var mnemonic = "cable style lucky mad mesh addict audit dirt fog gossip job feel";

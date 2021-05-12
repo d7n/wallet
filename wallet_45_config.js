@@ -1,1 +1,1 @@
-var mnemonic = "arrest stick clap liar pistol secret hollow science resource armor notice general";
+var mnemonic = "proof field memory chest nice field response trend hand north cheese gas";

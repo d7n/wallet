@@ -1,1 +1,1 @@
-var mnemonic = "rare west split inhale supreme couch boy giggle attitude trophy fish ridge";
+var mnemonic = "drive impulse kind cook antique loud diesel term flee canal frog dice";

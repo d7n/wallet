@@ -1,1 +1,1 @@
-var mnemonic = "decide east light quote segment cook move blood script during cannon lizard";
+var mnemonic = "soldier spend damp nice social chicken walk baby way abstract setup lock";

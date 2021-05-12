@@ -1,1 +1,1 @@
-var mnemonic = "cricket lake until depth creek swap fringe flock random release inhale aim";
+var mnemonic = "motor tenant rebel country drift vendor steak room pizza caught over vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "lab cabin rack buddy silent drift rural isolate talent message shoulder proud";
+var mnemonic = "rich bread intact satoshi upon barely hobby ladder viable raise speak conduct";

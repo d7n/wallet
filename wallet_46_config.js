@@ -1,1 +1,1 @@
-var mnemonic = "acquire remain december little problem wheel planet month spirit staff mail winner";
+var mnemonic = "produce bundle unlock analyst find gasp design couple radar strategy fiscal educate";
