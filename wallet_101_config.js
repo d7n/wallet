@@ -1,1 +1,1 @@
-var mnemonic = "world image circle ill spoil grid wrap need best tomato juice virus";
+var mnemonic = "suspect meadow strong lion sea real jungle jaguar wave cactus expect crack";

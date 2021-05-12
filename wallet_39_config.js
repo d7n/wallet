@@ -1,1 +1,1 @@
-var mnemonic = "supreme airport initial fun term admit time tunnel maid sketch gather solution";
+var mnemonic = "grace cattle off pipe knife shy certain speak seek dish garage shock";

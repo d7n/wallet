@@ -1,1 +1,1 @@
-var mnemonic = "roast bottom fantasy range manual during night payment trouble theory only success";
+var mnemonic = "giraffe assault stereo cigar attend minute bargain firm ceiling castle erosion bus";

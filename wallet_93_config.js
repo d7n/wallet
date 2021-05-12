@@ -1,1 +1,1 @@
-var mnemonic = "message emotion curtain glass relax shove cloud wonder cabbage chuckle gate filter";
+var mnemonic = "soul sell smile weather sister survey prize cement wood symbol trade hire";

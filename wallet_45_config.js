@@ -1,1 +1,1 @@
-var mnemonic = "rabbit one glow lonely decide state famous boy art athlete own today";
+var mnemonic = "frozen time goose vague option ahead cycle asthma hotel actress shoe sketch";

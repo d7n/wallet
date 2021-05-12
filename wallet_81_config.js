@@ -1,1 +1,1 @@
-var mnemonic = "bring barely prevent conduct credit spoon round car absent rail illegal prison";
+var mnemonic = "plug hub material assault common surface wonder frequent labor income session pupil";

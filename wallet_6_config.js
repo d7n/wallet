@@ -1,1 +1,1 @@
-var mnemonic = "minimum release raw call clarify earth fabric mystery wife recall relax oyster";
+var mnemonic = "diagram rival winter flag accuse entry party skirt other harbor price lawn";

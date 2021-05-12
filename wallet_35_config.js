@@ -1,1 +1,1 @@
-var mnemonic = "stereo critic funny photo stand firm thumb earn tornado butter scan royal";
+var mnemonic = "depend pair flag zoo trouble cart curious spirit bid female shove grab";

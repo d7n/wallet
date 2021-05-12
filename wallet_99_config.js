@@ -1,1 +1,1 @@
-var mnemonic = "churn ritual love cinnamon duty ocean brand relief wing season bulb grain";
+var mnemonic = "current physical disagree fantasy cheap above begin burst spoil wood name system";

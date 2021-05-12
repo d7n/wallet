@@ -1,1 +1,1 @@
-var mnemonic = "hospital tuna about option whisper dish spare major order defense wine brick";
+var mnemonic = "sadness damp filter snap wire knife box blossom that cricket cash tip";

@@ -1,1 +1,1 @@
-var mnemonic = "humor affair galaxy cook input emerge kind boat near sauce same best";
+var mnemonic = "raven exercise citizen over teach enemy void repair gather unit purse zero";

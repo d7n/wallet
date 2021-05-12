@@ -1,1 +1,1 @@
-var mnemonic = "basic stool napkin language skirt bullet noise ride acid recipe office agent";
+var mnemonic = "offer debris current lottery mule exit where theory fever wife hood reopen";

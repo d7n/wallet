@@ -1,1 +1,1 @@
-var mnemonic = "wagon resource token yard very fatigue decide degree try toilet twenty burst";
+var mnemonic = "real offer half gown air depend mix divorce lunch dose twelve soldier";

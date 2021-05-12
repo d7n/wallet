@@ -1,1 +1,1 @@
-var mnemonic = "list license equal border dilemma shallow length certain beauty mystery demise divide";
+var mnemonic = "monster recipe seed maze outdoor size link hamster confirm valve resource finger";

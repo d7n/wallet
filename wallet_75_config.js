@@ -1,1 +1,1 @@
-var mnemonic = "lady clinic inch test category lizard ice silver bright limit bench license";
+var mnemonic = "diary charge kind whale equip when quality depth feature swim lion sport";

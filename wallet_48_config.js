@@ -1,1 +1,1 @@
-var mnemonic = "until they exist park canyon blue vital climb style record dose mixture";
+var mnemonic = "month neutral visit replace once piano belt clerk area review guess boat";

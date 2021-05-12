@@ -1,1 +1,1 @@
-var mnemonic = "useful bench person mask advice code enough attitude man foam casino snack";
+var mnemonic = "heavy share until organ neck live bench label audit slender spell trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich airport hollow champion throw long ribbon leaf throw very clap soldier";
+var mnemonic = "artefact hawk myself rough close august giraffe sword copy hurt divert decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket pave actor rather lawn coach time choose often parade hurt push";
+var mnemonic = "unusual harbor oval slender clerk stay apple record front sphere awake squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "weather addict tuna lemon copper anxiety supreme bean despair opinion exist allow";
+var mnemonic = "wish opera adjust carbon elegant cheese physical parent chimney large return vital";

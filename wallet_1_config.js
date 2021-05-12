@@ -1,1 +1,1 @@
-var mnemonic = "garment dune next benefit outside educate mechanic muffin crime celery help subject";
+var mnemonic = "swap muscle marble clay settle session creek zoo annual merge olympic very";

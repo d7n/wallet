@@ -1,1 +1,1 @@
-var mnemonic = "choice learn strategy emotion wood fruit memory attend tray poet age flower";
+var mnemonic = "say head tumble run display math exotic flush level sick rather post";

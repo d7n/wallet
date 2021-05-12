@@ -1,1 +1,1 @@
-var mnemonic = "short soon carbon cage margin jealous disagree shove present asthma habit syrup";
+var mnemonic = "check diet surge fire balcony junk make typical across action deposit syrup";

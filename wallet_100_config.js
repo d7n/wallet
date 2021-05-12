@@ -1,1 +1,1 @@
-var mnemonic = "celery divert extend safe various audit sausage cable educate omit title link";
+var mnemonic = "shoot sadness profit toward trigger ranch jewel survey ribbon network alcohol alien";

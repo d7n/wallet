@@ -1,1 +1,1 @@
-var mnemonic = "limb half fork knee maze have receive tomato ride account true witness";
+var mnemonic = "obscure lecture choice wheel version foot noise hunt flight avocado dash exact";

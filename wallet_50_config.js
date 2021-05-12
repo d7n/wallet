@@ -1,1 +1,1 @@
-var mnemonic = "couple panda elder script train salute inform stool option soccer fold drip";
+var mnemonic = "extend echo owner rude music culture trap echo hungry blur inquiry garlic";

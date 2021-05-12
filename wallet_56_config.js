@@ -1,1 +1,1 @@
-var mnemonic = "prison erase recycle interest decorate price ticket lunar nasty taxi display exile";
+var mnemonic = "boy brick blast orange useful present harsh legend when load matrix motor";

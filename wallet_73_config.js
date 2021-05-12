@@ -1,1 +1,1 @@
-var mnemonic = "sweet book spoon myth income segment search math effort foil reopen decade";
+var mnemonic = "price digital aunt candy judge before air raw anger try cave drill";

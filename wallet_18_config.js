@@ -1,1 +1,1 @@
-var mnemonic = "motion business point trim jelly bone peanut cry bike label ring impulse";
+var mnemonic = "indicate word jar office vacant olive bounce opera prize robust tattoo session";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling mixture owner pipe adjust banana general wagon legal tenant skull hundred";
+var mnemonic = "tumble early orient bonus method rhythm rug fix valid tackle motor split";

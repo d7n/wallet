@@ -1,1 +1,1 @@
-var mnemonic = "nest uphold banner duty screen kitchen maid initial drive oyster battle sound";
+var mnemonic = "cricket friend fiscal decorate pond ridge cloth crater nephew edge young awesome";

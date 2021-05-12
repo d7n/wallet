@@ -1,1 +1,1 @@
-var mnemonic = "enable upper either surge near edge humor scout mountain measure enhance ugly";
+var mnemonic = "prevent then post drive friend cash notice movie chalk travel must champion";

@@ -1,1 +1,1 @@
-var mnemonic = "together inquiry debate thought faint jump caught option mosquito dignity dash gown";
+var mnemonic = "man gentle glue cute milk web genuine memory pioneer warrior grace shrug";

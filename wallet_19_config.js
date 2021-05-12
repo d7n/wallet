@@ -1,1 +1,1 @@
-var mnemonic = "bone vendor north age sudden later crunch furnace void much abandon region";
+var mnemonic = "turkey sniff able endorse peanut popular matter assume canal scale walnut treat";

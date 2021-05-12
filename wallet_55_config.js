@@ -1,1 +1,1 @@
-var mnemonic = "become snack bring hidden neglect say hard grit match spawn enter illegal";
+var mnemonic = "supply job wine rural forward gold crystal toddler middle decide visual admit";

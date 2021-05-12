@@ -1,1 +1,1 @@
-var mnemonic = "oven charge label feed knee vacant tooth under village spin crawl kitten";
+var mnemonic = "square reason tired copper pattern monitor choose pipe security lazy code photo";

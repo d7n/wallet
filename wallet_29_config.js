@@ -1,1 +1,1 @@
-var mnemonic = "capable spare main dilemma define digital worth credit bounce pact orange letter";
+var mnemonic = "clerk rival area answer orange puzzle couple eyebrow body walk idea unknown";

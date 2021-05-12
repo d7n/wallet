@@ -1,1 +1,1 @@
-var mnemonic = "craft across suit play use argue bamboo people brave tragic ancient spin";
+var mnemonic = "gym employ room flight arm cancel expand obtain motion shadow elephant quote";

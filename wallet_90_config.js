@@ -1,1 +1,1 @@
-var mnemonic = "pen prosper rail place exact anger rhythm city fog zero alley hello";
+var mnemonic = "kick jacket glue smoke paddle renew hidden thank table similar tennis alarm";

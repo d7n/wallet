@@ -1,1 +1,1 @@
-var mnemonic = "gap task noble loud swamp cluster impulse cheap try soccer door machine";
+var mnemonic = "police boil lizard kit hybrid horror vital same right advance kite level";

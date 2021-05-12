@@ -1,1 +1,1 @@
-var mnemonic = "problem setup stool brush solid month much plunge relax unfair thunder sport";
+var mnemonic = "hospital dizzy play advice picture sheriff question vivid tank cool wheel ugly";

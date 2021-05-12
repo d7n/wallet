@@ -1,1 +1,1 @@
-var mnemonic = "assault rifle melody finger what skirt million minimum ill absurd number month";
+var mnemonic = "boss grape mixed snack used demise decorate chef rule fat course gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "horse museum toss fiscal narrow exist secret smile already wrestle inside parent";
+var mnemonic = "parrot roof when identify loan atom middle color vendor scorpion obscure coffee";

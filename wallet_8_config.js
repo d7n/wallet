@@ -1,1 +1,1 @@
-var mnemonic = "return lemon clog flip lake blast draw used smart innocent bottom hurdle";
+var mnemonic = "visa bring song luxury twenty have zone vivid bounce plunge future never";

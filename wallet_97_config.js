@@ -1,1 +1,1 @@
-var mnemonic = "infant motion faith excuse juice ceiling usage record again gap welcome uncle";
+var mnemonic = "nice short solid blush planet cave phone wedding slot dutch fade pencil";

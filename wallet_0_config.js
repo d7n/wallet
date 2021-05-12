@@ -1,1 +1,1 @@
-var mnemonic = "south atom attend doctor level champion chapter short way device brother churn";
+var mnemonic = "that own average arch trend identify wealth panic neutral topple check joy";

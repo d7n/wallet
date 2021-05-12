@@ -1,1 +1,1 @@
-var mnemonic = "buzz scrub design shoot pretty logic garden nephew plate abandon brick fury";
+var mnemonic = "round arctic aisle tooth cloud tiger sketch primary kitten clump member muscle";

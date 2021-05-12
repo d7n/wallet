@@ -1,1 +1,1 @@
-var mnemonic = "just anger chaos hurt adult simple online better kiwi rabbit pull quick";
+var mnemonic = "book copy soda pond surge column tank original outdoor find virtual web";

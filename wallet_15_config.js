@@ -1,1 +1,1 @@
-var mnemonic = "pulse keep refuse ugly pigeon tumble forget pool early dove swap truck";
+var mnemonic = "ill animal popular tortoise genuine enrich pipe lumber universe mansion faculty luxury";

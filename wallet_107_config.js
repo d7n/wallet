@@ -1,1 +1,1 @@
-var mnemonic = "core receive pen local list struggle guilt put jewel salon morning hole";
+var mnemonic = "pool cliff what memory affair pluck blood rib nothing ready very erosion";

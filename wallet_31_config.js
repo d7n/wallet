@@ -1,1 +1,1 @@
-var mnemonic = "modify ability column squeeze gossip foam smile fluid lazy again pistol banana";
+var mnemonic = "expand spice shuffle stadium never permit target crush month waste before seek";

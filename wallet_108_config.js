@@ -1,1 +1,1 @@
-var mnemonic = "call skill main quick scare food tray muffin swift issue guide gate";
+var mnemonic = "devote chair defy profit subject shove fly cactus thank cat broken citizen";

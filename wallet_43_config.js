@@ -1,1 +1,1 @@
-var mnemonic = "worth random faint wealth kid funny concert iron shock toe legend happy";
+var mnemonic = "pen cliff aspect where fit ring top fetch drill replace local draft";

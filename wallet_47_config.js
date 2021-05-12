@@ -1,1 +1,1 @@
-var mnemonic = "laundry glide length machine beauty spot advice over verify come wrist swing";
+var mnemonic = "melody fantasy loyal language grit enroll oxygen address squirrel vendor alter genuine";

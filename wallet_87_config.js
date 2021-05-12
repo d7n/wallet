@@ -1,1 +1,1 @@
-var mnemonic = "green panel coffee damage quantum service menu make rely mean swamp about";
+var mnemonic = "girl coffee hurt universe picture muscle tank announce evolve melt peace protect";

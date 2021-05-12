@@ -1,1 +1,1 @@
-var mnemonic = "fatal exclude estate boost safe spice cat grit armor crater elbow sting";
+var mnemonic = "index giraffe exhibit solid unit document engage apart decide puzzle bean like";

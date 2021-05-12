@@ -1,1 +1,1 @@
-var mnemonic = "sugar opinion echo balance grab aunt glow auction appear client impulse doctor";
+var mnemonic = "floor address meat plastic amount alone stem reform settle reduce easily regret";

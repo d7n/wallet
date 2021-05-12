@@ -1,1 +1,1 @@
-var mnemonic = "butter census pill ice under cart pattern meat deliver orphan scene crazy";
+var mnemonic = "access almost change join wave lemon gentle spoil test advice display island";

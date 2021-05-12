@@ -1,1 +1,1 @@
-var mnemonic = "stay ozone high midnight peace spray rich steel gather found educate replace";
+var mnemonic = "provide culture weapon there cheap crawl rule learn license bracket long crucial";

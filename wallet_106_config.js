@@ -1,1 +1,1 @@
-var mnemonic = "margin suffer baby need park humble trick method glimpse absent gloom flag";
+var mnemonic = "artefact kid cause play globe snake suffer enrich place bird away aspect";

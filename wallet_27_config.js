@@ -1,1 +1,1 @@
-var mnemonic = "budget extra floor narrow glide film dentist force current maid veteran grace";
+var mnemonic = "alley country measure warfare roast name claw conduct struggle biology service wrong";

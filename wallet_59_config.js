@@ -1,1 +1,1 @@
-var mnemonic = "blind razor oil mixture inspire original december genius connect juice thunder scare";
+var mnemonic = "flat yard tuition bonus place ready slight mystery father awake dice beach";

@@ -1,1 +1,1 @@
-var mnemonic = "diet welcome light off eight cruel cargo possible way smooth viable salute";
+var mnemonic = "eye super short tree rural evidence horse century universe minute assist frown";

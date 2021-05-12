@@ -1,1 +1,1 @@
-var mnemonic = "exit gain creek outdoor actor master labor drink worth figure age route";
+var mnemonic = "destroy bacon social bid cancel ozone cannon wall surprise age shoot head";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost awful noise assume smooth duck home ritual chronic country chat wolf";
+var mnemonic = "wash teach umbrella fossil gaze alert desert fence find lake elite tortoise";

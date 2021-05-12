@@ -1,1 +1,1 @@
-var mnemonic = "ozone another vicious barrel minute release mimic install another marine blue under";
+var mnemonic = "image drive aisle exotic calm oppose jacket onion online permit chunk gas";

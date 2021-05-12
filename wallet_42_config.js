@@ -1,1 +1,1 @@
-var mnemonic = "hood exist this okay quiz infant safe weasel simple virus spray have";
+var mnemonic = "finger animal bike follow about school prosper cup wreck earth chest purse";

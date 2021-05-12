@@ -1,1 +1,1 @@
-var mnemonic = "pretty awkward kit hurdle custom circle office job demand clever cushion notice";
+var mnemonic = "despair claim action tell ticket square just talk innocent current organ tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "expect rug basic camp actress box outer citizen fashion entry lumber soup";
+var mnemonic = "ivory stem opinion dial poem fade cotton stove vivid miss warfare castle";

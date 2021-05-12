@@ -1,1 +1,1 @@
-var mnemonic = "zebra auction grow goddess digital arrow meat renew oval rapid police wonder";
+var mnemonic = "reopen dragon universe fat sting drum canoe pride shock globe tobacco educate";

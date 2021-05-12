@@ -1,1 +1,1 @@
-var mnemonic = "alone thought squirrel tired final finger chapter narrow lamp legal explain early";
+var mnemonic = "album night sponsor gloom keep cancel spend soft present weekend talent pottery";

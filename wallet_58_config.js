@@ -1,1 +1,1 @@
-var mnemonic = "rural feature same recycle gas vicious insect modify crumble burger economy route";
+var mnemonic = "share blind slow cushion tower urge typical security result pond sort dove";

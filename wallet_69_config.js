@@ -1,1 +1,1 @@
-var mnemonic = "cloth swamp actress naive captain evil gain job assist crazy silent twice";
+var mnemonic = "open will birth pepper secret cube female coral tool wedding frog humor";

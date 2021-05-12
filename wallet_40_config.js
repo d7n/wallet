@@ -1,1 +1,1 @@
-var mnemonic = "few young payment hover picture shell fragile poem success hand unfold absorb";
+var mnemonic = "nothing lounge afraid century tail park silver sorry distance congress correct ritual";

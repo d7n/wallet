@@ -1,1 +1,1 @@
-var mnemonic = "all photo old cigar since dentist cupboard spirit sample drift sibling road";
+var mnemonic = "catch business jelly elephant supreme element youth wink angry violin blossom secret";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna lottery tank tide mask hawk romance social dance system copy bubble";
+var mnemonic = "clap drill truly label mention parent army upgrade prevent enlist gather sight";

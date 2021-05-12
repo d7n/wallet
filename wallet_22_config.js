@@ -1,1 +1,1 @@
-var mnemonic = "flame planet spy artist group demise edit analyst glide mixed cycle job";
+var mnemonic = "muffin improve local auction liquid release exile album ship sleep clutch wife";

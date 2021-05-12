@@ -1,1 +1,1 @@
-var mnemonic = "pen human equip process paddle ill drastic cabbage purpose shoe vibrant betray";
+var mnemonic = "toss snow acid master viable black mechanic much purity swim tent pave";

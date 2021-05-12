@@ -1,1 +1,1 @@
-var mnemonic = "broccoli wheat guess undo retreat token dog industry fashion donkey clarify spawn";
+var mnemonic = "nurse obey old perfect tree say nominee pipe power metal wheat business";

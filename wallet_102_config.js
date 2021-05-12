@@ -1,1 +1,1 @@
-var mnemonic = "palm math spoon skin kick summer enjoy banana gold urban business twice";
+var mnemonic = "try size bubble account wash certain warm carry credit critic wasp inform";

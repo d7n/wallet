@@ -1,1 +1,1 @@
-var mnemonic = "pact canvas saddle wife prison become curtain antique ritual wrestle shed where";
+var mnemonic = "rabbit gospel pelican rival sand current frame wolf original spawn claim paddle";

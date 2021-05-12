@@ -1,1 +1,1 @@
-var mnemonic = "awesome planet hint crisp close warrior hedgehog battle clown pigeon shadow over";
+var mnemonic = "lawn drive enable law wrong earn gain neglect increase annual child pulp";

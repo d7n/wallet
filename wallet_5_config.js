@@ -1,1 +1,1 @@
-var mnemonic = "kid tip just excite angry family hope diesel organ retire crystal total";
+var mnemonic = "rapid dwarf win first shed iron proof hold guess cactus permit door";

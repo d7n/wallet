@@ -1,1 +1,1 @@
-var mnemonic = "clean embody sun orphan panther soul oxygen sheriff obscure stuff fashion possible";
+var mnemonic = "myth robust bundle recall head expose push tone thank void portion cool";

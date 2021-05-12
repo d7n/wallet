@@ -1,1 +1,1 @@
-var mnemonic = "meadow battle spice shine coast present silly company ahead drip system morning";
+var mnemonic = "census capital host unique height earth tourist honey misery find object segment";

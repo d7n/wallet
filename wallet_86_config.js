@@ -1,1 +1,1 @@
-var mnemonic = "legal eight radar young ecology review term embrace across wash curious install";
+var mnemonic = "expand human buffalo divert hobby avoid record famous feel what horse swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "report mom broken amount swim round crucial nose metal wet risk broccoli";
+var mnemonic = "fringe garlic neutral cost chase faculty crystal elite rely apology state deputy";

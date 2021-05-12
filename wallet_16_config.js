@@ -1,1 +1,1 @@
-var mnemonic = "pipe breeze peace hand flee multiply spy gorilla verb daughter police float";
+var mnemonic = "guilt gap awake charge deny nature trophy march remove volume fat hip";

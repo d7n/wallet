@@ -1,1 +1,1 @@
-var mnemonic = "enact chapter occur erode leg prison someone shell sign entire resource because";
+var mnemonic = "peace giggle domain twist unaware coach cycle enlist frost enter gate harbor";

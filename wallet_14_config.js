@@ -1,1 +1,1 @@
-var mnemonic = "keep movie control club fossil honey fault stumble satisfy confirm stage funny";
+var mnemonic = "busy quiz address direct arch atom arrange parrot next grit train release";

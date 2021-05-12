@@ -1,1 +1,1 @@
-var mnemonic = "narrow vocal snack around coral bullet police attend chaos traffic culture mechanic";
+var mnemonic = "sweet double wear awkward woman ship potato baby sort lucky radio raven";

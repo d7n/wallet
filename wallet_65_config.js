@@ -1,1 +1,1 @@
-var mnemonic = "dream oil scout wave little desk atom rapid uphold demise exact mix";
+var mnemonic = "token other pony lonely foil attend assault draw foster pen good trim";

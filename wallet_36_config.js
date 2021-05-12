@@ -1,1 +1,1 @@
-var mnemonic = "trash blue calm scan again loyal crime quit analyst tide jacket quote";
+var mnemonic = "hair crime other fantasy snap away stick cram attract begin club once";

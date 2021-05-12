@@ -1,1 +1,1 @@
-var mnemonic = "cake leopard universe crucial gaze dynamic kitten original dad video family sunny";
+var mnemonic = "announce brick price ride medal exile behave grain zoo shoe team risk";
