@@ -1,1 +1,1 @@
-var mnemonic = "access wild purpose silly acid busy social drift woman tip paper burger";
+var mnemonic = "hood exist this okay quiz infant safe weasel simple virus spray have";

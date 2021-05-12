@@ -1,1 +1,1 @@
-var mnemonic = "forest steak oven front wreck ostrich nose spoil crush mind work motion";
+var mnemonic = "pen human equip process paddle ill drastic cabbage purpose shoe vibrant betray";

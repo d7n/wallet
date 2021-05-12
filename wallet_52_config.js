@@ -1,1 +1,1 @@
-var mnemonic = "now legend convince language rough zoo shock wisdom team measure dinner happy";
+var mnemonic = "butter census pill ice under cart pattern meat deliver orphan scene crazy";

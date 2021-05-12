@@ -1,1 +1,1 @@
-var mnemonic = "swamp place nation kangaroo mushroom open spring era endorse stone swallow possible";
+var mnemonic = "garment dune next benefit outside educate mechanic muffin crime celery help subject";

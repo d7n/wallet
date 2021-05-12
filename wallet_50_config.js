@@ -1,1 +1,1 @@
-var mnemonic = "spatial clerk elder domain humble year heart focus anger ignore fruit sibling";
+var mnemonic = "couple panda elder script train salute inform stool option soccer fold drip";

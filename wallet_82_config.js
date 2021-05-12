@@ -1,1 +1,1 @@
-var mnemonic = "like cigar woman gravity genre turn myth simple exit lake abuse insane";
+var mnemonic = "craft across suit play use argue bamboo people brave tragic ancient spin";

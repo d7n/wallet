@@ -1,1 +1,1 @@
-var mnemonic = "exotic plug penalty rival fabric twice cook begin wheel popular bounce limit";
+var mnemonic = "basic stool napkin language skirt bullet noise ride acid recipe office agent";

@@ -1,1 +1,1 @@
-var mnemonic = "make sibling donate pen feature ahead slush pig rug pencil envelope hill";
+var mnemonic = "problem setup stool brush solid month much plunge relax unfair thunder sport";

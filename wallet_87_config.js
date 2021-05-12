@@ -1,1 +1,1 @@
-var mnemonic = "quality wage income toss smile praise arrow save scene gesture switch now";
+var mnemonic = "green panel coffee damage quantum service menu make rely mean swamp about";

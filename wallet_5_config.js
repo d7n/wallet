@@ -1,1 +1,1 @@
-var mnemonic = "cruel drink cabin okay inch main such economy room lumber mask welcome";
+var mnemonic = "kid tip just excite angry family hope diesel organ retire crystal total";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar real pair ahead hole six adjust pipe size miracle property list";
+var mnemonic = "pact canvas saddle wife prison become curtain antique ritual wrestle shed where";

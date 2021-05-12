@@ -1,1 +1,1 @@
-var mnemonic = "dentist topple laptop result security final huge female renew audit scorpion patch";
+var mnemonic = "report mom broken amount swim round crucial nose metal wet risk broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "cage sport lawsuit another puppy immense glance lyrics chaos birth army essence";
+var mnemonic = "acoustic local impact flight happy knife early ketchup ready seat narrow fork";

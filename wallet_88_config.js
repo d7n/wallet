@@ -1,1 +1,1 @@
-var mnemonic = "faith agree miss inmate vicious mean mango debate unlock inhale light bus";
+var mnemonic = "cake leopard universe crucial gaze dynamic kitten original dad video family sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "name shallow report connect flush example capital general okay high bleak letter";
+var mnemonic = "shift carry blush tide fresh traffic obvious wise hazard upset flush better";

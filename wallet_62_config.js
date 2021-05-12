@@ -1,1 +1,1 @@
-var mnemonic = "sketch cinnamon remember enter manage frozen day shy lunar vocal palm rabbit";
+var mnemonic = "zebra auction grow goddess digital arrow meat renew oval rapid police wonder";

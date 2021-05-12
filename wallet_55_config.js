@@ -1,1 +1,1 @@
-var mnemonic = "spy alley chapter join deposit that idle spoon awake crater rare hint";
+var mnemonic = "become snack bring hidden neglect say hard grit match spawn enter illegal";

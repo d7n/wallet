@@ -1,1 +1,1 @@
-var mnemonic = "later enrich bless tobacco noble guard ladder tool blur ball pistol apple";
+var mnemonic = "short soon carbon cage margin jealous disagree shove present asthma habit syrup";

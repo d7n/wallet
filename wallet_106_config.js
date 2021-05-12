@@ -1,1 +1,1 @@
-var mnemonic = "example valid permit jeans impulse permit document pistol among insect unaware exit";
+var mnemonic = "margin suffer baby need park humble trick method glimpse absent gloom flag";

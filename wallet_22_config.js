@@ -1,1 +1,1 @@
-var mnemonic = "tree flush cook decline memory piece cotton unknown dutch smoke razor universe";
+var mnemonic = "flame planet spy artist group demise edit analyst glide mixed cycle job";

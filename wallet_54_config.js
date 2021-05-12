@@ -1,1 +1,1 @@
-var mnemonic = "diesel choose frequent collect essay various mail switch vapor area puppy venue";
+var mnemonic = "awesome planet hint crisp close warrior hedgehog battle clown pigeon shadow over";

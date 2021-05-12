@@ -1,1 +1,1 @@
-var mnemonic = "flight prison breeze flower north story unknown artwork cement extra blue bicycle";
+var mnemonic = "fatal exclude estate boost safe spice cat grit armor crater elbow sting";

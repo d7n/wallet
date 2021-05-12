@@ -1,1 +1,1 @@
-var mnemonic = "special useless must foam arrest noble tip unusual project sphere urban stairs";
+var mnemonic = "trash blue calm scan again loyal crime quit analyst tide jacket quote";

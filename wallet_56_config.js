@@ -1,1 +1,1 @@
-var mnemonic = "govern total shed gym human sentence tonight tiny raccoon eyebrow pitch sting";
+var mnemonic = "prison erase recycle interest decorate price ticket lunar nasty taxi display exile";

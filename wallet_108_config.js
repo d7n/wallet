@@ -1,1 +1,1 @@
-var mnemonic = "lawn gesture fly segment shoulder stage patient almost mountain purse hockey tool";
+var mnemonic = "call skill main quick scare food tray muffin swift issue guide gate";

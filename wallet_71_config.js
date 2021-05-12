@@ -1,1 +1,1 @@
-var mnemonic = "assault oyster air region powder crazy flush correct wish spoon midnight sausage";
+var mnemonic = "together inquiry debate thought faint jump caught option mosquito dignity dash gown";

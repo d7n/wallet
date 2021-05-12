@@ -1,1 +1,1 @@
-var mnemonic = "shield casual face height lake bottom expose endless sustain slow finger advice";
+var mnemonic = "choice learn strategy emotion wood fruit memory attend tray poet age flower";

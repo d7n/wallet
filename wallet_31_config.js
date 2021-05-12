@@ -1,1 +1,1 @@
-var mnemonic = "crew trick orbit regret glue finish author people theme salute cherry butter";
+var mnemonic = "modify ability column squeeze gossip foam smile fluid lazy again pistol banana";

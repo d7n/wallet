@@ -1,1 +1,1 @@
-var mnemonic = "wrestle shine reason child humble only obscure village awkward light vacant pony";
+var mnemonic = "minimum release raw call clarify earth fabric mystery wife recall relax oyster";

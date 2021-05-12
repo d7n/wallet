@@ -1,1 +1,1 @@
-var mnemonic = "quality maximum review game wreck curious harvest area derive guilt sugar monitor";
+var mnemonic = "meadow battle spice shine coast present silly company ahead drip system morning";

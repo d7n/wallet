@@ -1,1 +1,1 @@
-var mnemonic = "steel tray example million craft secret random athlete cloth fashion grain modify";
+var mnemonic = "assault rifle melody finger what skirt million minimum ill absurd number month";

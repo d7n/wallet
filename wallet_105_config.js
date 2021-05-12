@@ -1,1 +1,1 @@
-var mnemonic = "snack oppose prize harsh seven target cart tank beauty nuclear priority sustain";
+var mnemonic = "purse hundred dust wide inch provide taxi place enable infant ketchup service";

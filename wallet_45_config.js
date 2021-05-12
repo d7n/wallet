@@ -1,1 +1,1 @@
-var mnemonic = "resist grace seek erupt rose immune sell very evil dash robot expect";
+var mnemonic = "rabbit one glow lonely decide state famous boy art athlete own today";

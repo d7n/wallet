@@ -1,1 +1,1 @@
-var mnemonic = "tortoise awesome impose toast ill they ring kid build valve page bargain";
+var mnemonic = "budget extra floor narrow glide film dentist force current maid veteran grace";

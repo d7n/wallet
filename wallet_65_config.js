@@ -1,1 +1,1 @@
-var mnemonic = "illegal credit wage text crystal mushroom joy move trick okay trigger safe";
+var mnemonic = "dream oil scout wave little desk atom rapid uphold demise exact mix";

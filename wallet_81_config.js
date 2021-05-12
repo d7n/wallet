@@ -1,1 +1,1 @@
-var mnemonic = "brisk pistol frost bonus lucky discover cash foster army industry crater warm";
+var mnemonic = "bring barely prevent conduct credit spoon round car absent rail illegal prison";

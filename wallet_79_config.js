@@ -1,1 +1,1 @@
-var mnemonic = "welcome journey crack foster cheap surface abuse top screen laptop bulb ugly";
+var mnemonic = "possible work since deal fabric mountain february conduct hip artefact aerobic board";

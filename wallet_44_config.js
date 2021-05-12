@@ -1,1 +1,1 @@
-var mnemonic = "project garden banana arena utility voyage sniff squirrel chaos fan unfair casino";
+var mnemonic = "just anger chaos hurt adult simple online better kiwi rabbit pull quick";

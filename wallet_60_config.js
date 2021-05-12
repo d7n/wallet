@@ -1,1 +1,1 @@
-var mnemonic = "chat group left fatal around puzzle hood drum else adapt tenant venture";
+var mnemonic = "enable upper either surge near edge humor scout mountain measure enhance ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk employ detail govern govern script emerge raw consider dignity vibrant soccer";
+var mnemonic = "sibling mixture owner pipe adjust banana general wagon legal tenant skull hundred";

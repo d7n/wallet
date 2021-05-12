@@ -1,1 +1,1 @@
-var mnemonic = "order faint food portion crop capable mad typical loyal desert myth alert";
+var mnemonic = "palm math spoon skin kick summer enjoy banana gold urban business twice";

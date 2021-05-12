@@ -1,1 +1,1 @@
-var mnemonic = "quarter slight era zero height steel hero notice setup bonus when ivory";
+var mnemonic = "glance sell roast gallery cancel occur load penalty nature boy response salute";

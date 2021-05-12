@@ -1,1 +1,1 @@
-var mnemonic = "isolate brush civil return noble ladder height forest firm raven jar decade";
+var mnemonic = "expire defy afford retreat search hidden pave plate dizzy raven heavy pepper";

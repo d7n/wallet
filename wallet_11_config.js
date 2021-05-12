@@ -1,1 +1,1 @@
-var mnemonic = "curtain replace box pill wet ceiling brave dog country outside tumble drive";
+var mnemonic = "narrow vocal snack around coral bullet police attend chaos traffic culture mechanic";

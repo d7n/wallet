@@ -1,1 +1,1 @@
-var mnemonic = "employ ridge hard picture crowd worry erosion stay unique across meat kiwi";
+var mnemonic = "zebra walk grab stage gown clip beef hello final clump fog advice";

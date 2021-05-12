@@ -1,1 +1,1 @@
-var mnemonic = "ready test broccoli letter kit come lawsuit kiss talk shadow curve dinner";
+var mnemonic = "supreme airport initial fun term admit time tunnel maid sketch gather solution";

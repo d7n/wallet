@@ -1,1 +1,1 @@
-var mnemonic = "neck over life start correct uncle dwarf smile donor bright balance obtain";
+var mnemonic = "pulse keep refuse ugly pigeon tumble forget pool early dove swap truck";

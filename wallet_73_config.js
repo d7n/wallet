@@ -1,1 +1,1 @@
-var mnemonic = "gun teach act witness melt swamp cat early smoke youth rare draft";
+var mnemonic = "sweet book spoon myth income segment search math effort foil reopen decade";

@@ -1,1 +1,1 @@
-var mnemonic = "stable rapid festival allow resemble course place brisk sphere mention rather toddler";
+var mnemonic = "buzz scrub design shoot pretty logic garden nephew plate abandon brick fury";

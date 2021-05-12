@@ -1,1 +1,1 @@
-var mnemonic = "talk trumpet spirit birth rescue skate surprise shock screen roof bicycle moral";
+var mnemonic = "alone thought squirrel tired final finger chapter narrow lamp legal explain early";

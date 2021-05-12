@@ -1,1 +1,1 @@
-var mnemonic = "expand whale snap vote awkward chef emotion hazard soda kitchen tip when";
+var mnemonic = "list license equal border dilemma shallow length certain beauty mystery demise divide";

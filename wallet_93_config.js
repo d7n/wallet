@@ -1,1 +1,1 @@
-var mnemonic = "erode ostrich nerve water delay canvas screen document cruel hurdle pelican box";
+var mnemonic = "message emotion curtain glass relax shove cloud wonder cabbage chuckle gate filter";

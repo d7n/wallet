@@ -1,1 +1,1 @@
-var mnemonic = "quote among fat lazy autumn potato convince brisk patrol output admit miss";
+var mnemonic = "limb half fork knee maze have receive tomato ride account true witness";

@@ -1,1 +1,1 @@
-var mnemonic = "join ancient decade hybrid equal furnace pen auction floor eternal error palace";
+var mnemonic = "enact chapter occur erode leg prison someone shell sign entire resource because";

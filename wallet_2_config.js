@@ -1,1 +1,1 @@
-var mnemonic = "appear sell guide harvest birth avoid duck dilemma pistol prepare edge observe";
+var mnemonic = "exit gain creek outdoor actor master labor drink worth figure age route";

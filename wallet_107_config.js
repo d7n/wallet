@@ -1,1 +1,1 @@
-var mnemonic = "bless evoke cup milk fence twelve legend blast glory lock quick next";
+var mnemonic = "core receive pen local list struggle guilt put jewel salon morning hole";

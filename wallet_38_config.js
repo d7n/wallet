@@ -1,1 +1,1 @@
-var mnemonic = "liar deal later exclude pledge prison glue system else mean belt orchard";
+var mnemonic = "oven charge label feed knee vacant tooth under village spin crawl kitten";

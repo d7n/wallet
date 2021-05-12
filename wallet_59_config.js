@@ -1,1 +1,1 @@
-var mnemonic = "gate dice lock bus any way bus destroy quarter pole walk oxygen";
+var mnemonic = "blind razor oil mixture inspire original december genius connect juice thunder scare";

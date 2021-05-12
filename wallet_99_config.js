@@ -1,1 +1,1 @@
-var mnemonic = "misery rabbit cover music normal fiscal foil crystal select book very coach";
+var mnemonic = "churn ritual love cinnamon duty ocean brand relief wing season bulb grain";

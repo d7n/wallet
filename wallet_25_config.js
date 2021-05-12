@@ -1,1 +1,1 @@
-var mnemonic = "bunker april actual ecology broken urban humor obscure follow wealth pony side";
+var mnemonic = "tuna lottery tank tide mask hawk romance social dance system copy bubble";

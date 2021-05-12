@@ -1,1 +1,1 @@
-var mnemonic = "ancient affair burst either company shrimp method noodle sell ribbon cabbage capital";
+var mnemonic = "weather addict tuna lemon copper anxiety supreme bean despair opinion exist allow";

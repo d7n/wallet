@@ -1,1 +1,1 @@
-var mnemonic = "climb question motion humble session fire orphan high unfold forget banner love";
+var mnemonic = "staff gate jacket episode dignity shine loud reform cable square nurse kid";

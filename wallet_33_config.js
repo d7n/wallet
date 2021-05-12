@@ -1,1 +1,1 @@
-var mnemonic = "tennis game still cloud bulb tiger nut olympic guard amazing beauty glow";
+var mnemonic = "sugar opinion echo balance grab aunt glow auction appear client impulse doctor";

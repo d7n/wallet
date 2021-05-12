@@ -1,1 +1,1 @@
-var mnemonic = "woman stable devote merge room foam balcony various diet letter stem pumpkin";
+var mnemonic = "laundry glide length machine beauty spot advice over verify come wrist swing";

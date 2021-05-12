@@ -1,1 +1,1 @@
-var mnemonic = "mother field eternal sibling jar kiss voice candy record tail capital border";
+var mnemonic = "infant motion faith excuse juice ceiling usage record again gap welcome uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "will claw control boy book flash leader upon segment chief total genre";
+var mnemonic = "enrich airport hollow champion throw long ribbon leaf throw very clap soldier";

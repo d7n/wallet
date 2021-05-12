@@ -1,1 +1,1 @@
-var mnemonic = "bacon clerk crash wine fly merit illness ankle illegal puzzle inhale rifle";
+var mnemonic = "wagon resource token yard very fatigue decide degree try toilet twenty burst";

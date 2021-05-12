@@ -1,1 +1,1 @@
-var mnemonic = "predict zoo try village donor snake diesel giraffe lonely ridge trash there";
+var mnemonic = "diet welcome light off eight cruel cargo possible way smooth viable salute";

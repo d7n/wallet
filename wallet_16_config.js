@@ -1,1 +1,1 @@
-var mnemonic = "famous agent ship clarify urban three autumn metal school club tonight horror";
+var mnemonic = "pipe breeze peace hand flee multiply spy gorilla verb daughter police float";

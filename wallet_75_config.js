@@ -1,1 +1,1 @@
-var mnemonic = "forget chuckle metal violin govern charge layer timber theme doll cool light";
+var mnemonic = "lady clinic inch test category lizard ice silver bright limit bench license";

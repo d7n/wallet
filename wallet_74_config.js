@@ -1,1 +1,1 @@
-var mnemonic = "special any control office scene drive begin bracket alter best exhibit bone";
+var mnemonic = "dinosaur unusual prefer grain movie approve spell fury myself warfare radio baby";

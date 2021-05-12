@@ -1,1 +1,1 @@
-var mnemonic = "drama basic sign drill cheap duck erupt smooth shy initial wrist fall";
+var mnemonic = "humor affair galaxy cook input emerge kind boat near sauce same best";

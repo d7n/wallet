@@ -1,1 +1,1 @@
-var mnemonic = "lion charge pond skill angle dynamic become race tray pioneer pitch gap";
+var mnemonic = "trouble mansion fitness plate become valve behind life weird wife transfer spend";

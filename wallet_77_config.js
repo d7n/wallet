@@ -1,1 +1,1 @@
-var mnemonic = "proud anger search dream tide property goose fragile grass shove involve spike";
+var mnemonic = "ozone another vicious barrel minute release mimic install another marine blue under";

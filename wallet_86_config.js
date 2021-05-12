@@ -1,1 +1,1 @@
-var mnemonic = "name siren gesture banana behave erupt menu symbol section view spin effort";
+var mnemonic = "legal eight radar young ecology review term embrace across wash curious install";

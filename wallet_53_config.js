@@ -1,1 +1,1 @@
-var mnemonic = "car notice chaos always argue voyage reason feature infant opera try device";
+var mnemonic = "cave shadow search input meat flame public sea garage risk wall skin";

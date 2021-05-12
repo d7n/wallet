@@ -1,1 +1,1 @@
-var mnemonic = "same base super master vast vital matter crystal table twin film liar";
+var mnemonic = "ghost awful noise assume smooth duck home ritual chronic country chat wolf";

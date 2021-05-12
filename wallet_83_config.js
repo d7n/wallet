@@ -1,1 +1,1 @@
-var mnemonic = "term exclude dog transfer globe quarter tray joke reveal speed category glide";
+var mnemonic = "pretty awkward kit hurdle custom circle office job demand clever cushion notice";

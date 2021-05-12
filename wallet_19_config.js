@@ -1,1 +1,1 @@
-var mnemonic = "top much impulse spread bracket field pledge claim pond taxi result rough";
+var mnemonic = "bone vendor north age sudden later crunch furnace void much abandon region";

@@ -1,1 +1,1 @@
-var mnemonic = "blue correct glimpse useless argue hat vacant comfort moon swim play hurry";
+var mnemonic = "until they exist park canyon blue vital climb style record dose mixture";

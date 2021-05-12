@@ -1,1 +1,1 @@
-var mnemonic = "august artist resemble paddle music entire visa ecology never share icon dream";
+var mnemonic = "stereo critic funny photo stand firm thumb earn tornado butter scan royal";

@@ -1,1 +1,1 @@
-var mnemonic = "fire forget monkey hospital yard cousin spatial barely scout disagree vanish almost";
+var mnemonic = "gap task noble loud swamp cluster impulse cheap try soccer door machine";

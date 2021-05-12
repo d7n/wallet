@@ -1,1 +1,1 @@
-var mnemonic = "spice problem cool safe enrich zoo trap luggage drift state fitness differ";
+var mnemonic = "roast bottom fantasy range manual during night payment trouble theory only success";

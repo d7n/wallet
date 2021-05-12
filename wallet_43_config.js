@@ -1,1 +1,1 @@
-var mnemonic = "uniform basket donor diagram head priority artist cluster beach miss bench globe";
+var mnemonic = "worth random faint wealth kid funny concert iron shock toe legend happy";

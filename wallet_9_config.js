@@ -1,1 +1,1 @@
-var mnemonic = "little nerve essay tool language fashion gossip animal equip age swing lift";
+var mnemonic = "plunge gaze brass spy option spike feel rain brisk typical unhappy helmet";

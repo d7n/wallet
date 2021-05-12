@@ -1,1 +1,1 @@
-var mnemonic = "episode wait poem sustain inspire wisdom clap poverty arm radar frozen suffer";
+var mnemonic = "broccoli wheat guess undo retreat token dog industry fashion donkey clarify spawn";

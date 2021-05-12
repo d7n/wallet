@@ -1,1 +1,1 @@
-var mnemonic = "bomb rescue swap develop night bulb someone repair another adult steak clay";
+var mnemonic = "south atom attend doctor level champion chapter short way device brother churn";

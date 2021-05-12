@@ -1,1 +1,1 @@
-var mnemonic = "gym panda alien trap lawn release aisle album various slight level fatigue";
+var mnemonic = "blanket pave actor rather lawn coach time choose often parade hurt push";

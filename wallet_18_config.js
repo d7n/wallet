@@ -1,1 +1,1 @@
-var mnemonic = "uncover earn palm select tag excuse afraid play novel never universe couple";
+var mnemonic = "motion business point trim jelly bone peanut cry bike label ring impulse";

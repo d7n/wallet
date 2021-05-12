@@ -1,1 +1,1 @@
-var mnemonic = "prepare loud kid jelly culture office figure lyrics electric insane acquire cactus";
+var mnemonic = "few young payment hover picture shell fragile poem success hand unfold absorb";

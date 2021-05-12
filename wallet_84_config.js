@@ -1,1 +1,1 @@
-var mnemonic = "decrease sugar bamboo ocean boss like puzzle kitchen disorder laptop castle phone";
+var mnemonic = "horse museum toss fiscal narrow exist secret smile already wrestle inside parent";
