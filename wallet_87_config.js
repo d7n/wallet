@@ -1,1 +1,1 @@
-var mnemonic = "chronic rack theory camera tobacco toddler flat quiz piano prosper gadget soda";
+var mnemonic = "occur flight weasel poet insect spoon dragon bitter grass tag resemble general";

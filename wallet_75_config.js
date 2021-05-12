@@ -1,1 +1,1 @@
-var mnemonic = "author wood smile champion mixture lawsuit only merge rug enforce consider arctic";
+var mnemonic = "yard bright human good walk goose divide stool brass alarm vibrant pig";

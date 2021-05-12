@@ -1,1 +1,1 @@
-var mnemonic = "pigeon risk hamster exist salute sight toddler erode swamp sure excite title";
+var mnemonic = "dune magic picnic auto tribe hat draw music shine hockey bulk chalk";

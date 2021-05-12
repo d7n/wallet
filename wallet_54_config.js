@@ -1,1 +1,1 @@
-var mnemonic = "consider hungry air below clutch nut rose shallow rally glance mushroom skill";
+var mnemonic = "abuse reflect nose spin woman gate impact dolphin inside use please virtual";

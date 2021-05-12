@@ -1,1 +1,1 @@
-var mnemonic = "later grid stool appear smooth fire material second flame route laugh sure";
+var mnemonic = "worth slam excuse guard derive barely anchor purity sock rather atom boil";

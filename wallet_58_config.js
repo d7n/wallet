@@ -1,1 +1,1 @@
-var mnemonic = "heavy reopen build brand exhaust region punch tone charge amused rib glue";
+var mnemonic = "reject until bring skull when original observe skull also vacant gift pitch";

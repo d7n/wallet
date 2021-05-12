@@ -1,1 +1,1 @@
-var mnemonic = "appear tiny final brand doctor crowd ride purse pencil pistol wool shift";
+var mnemonic = "fatal nothing animal tank hill expose member security swallow endorse reduce giggle";

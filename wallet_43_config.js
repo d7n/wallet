@@ -1,1 +1,1 @@
-var mnemonic = "furnace object reward isolate fat first isolate aisle casual nerve gospel dinner";
+var mnemonic = "boy ahead lion index weekend cage jump pen empower humor winter basket";

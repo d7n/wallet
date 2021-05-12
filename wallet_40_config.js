@@ -1,1 +1,1 @@
-var mnemonic = "path march void young asthma arrive fossil rebel turn shy salon need";
+var mnemonic = "chimney forest jaguar choice engine ask photo draft crew together liberty bar";

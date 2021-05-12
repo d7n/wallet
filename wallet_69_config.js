@@ -1,1 +1,1 @@
-var mnemonic = "dance unlock knee armor blanket horse absurd relax muscle awesome dawn orchard";
+var mnemonic = "fox enemy patient digital hurt soda shy long cry icon column tube";

@@ -1,1 +1,1 @@
-var mnemonic = "rough favorite inmate diet patch fever slight bag ocean pilot will caution";
+var mnemonic = "measure alarm napkin story above quantum egg taste elephant ignore pole network";

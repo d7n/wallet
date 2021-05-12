@@ -1,1 +1,1 @@
-var mnemonic = "slight same cotton office miss stuff tomorrow rug erosion since blush marriage";
+var mnemonic = "report example material story boss endless easy raw eagle wonder tribe race";

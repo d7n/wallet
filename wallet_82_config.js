@@ -1,1 +1,1 @@
-var mnemonic = "trash plunge allow kidney loop rose catch elbow cruel finish foil feel";
+var mnemonic = "bundle cream exile potato flame divert purse evolve news wild rib slot";

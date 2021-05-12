@@ -1,1 +1,1 @@
-var mnemonic = "shield roof canyon custom achieve immense sign deliver frost prison quantum similar";
+var mnemonic = "web differ demand squirrel art must fever name genuine turtle response impose";

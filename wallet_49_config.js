@@ -1,1 +1,1 @@
-var mnemonic = "crash adapt banner laundry clump evoke fuel model wolf insect woman olive";
+var mnemonic = "swallow absurd direct glue endorse blame fruit gate speed gun brother witness";

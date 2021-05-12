@@ -1,1 +1,1 @@
-var mnemonic = "enrich monster dumb brisk decade protect confirm ask banana acquire boring crack";
+var mnemonic = "axis pipe casino rather clinic wave leaf grain soldier sting badge urge";

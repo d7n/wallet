@@ -1,1 +1,1 @@
-var mnemonic = "auction build fuel vintage rough stone never bronze drama useful carpet cabbage";
+var mnemonic = "cover snack stick review ridge squirrel caught hospital effort bounce cruel immune";

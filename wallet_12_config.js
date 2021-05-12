@@ -1,1 +1,1 @@
-var mnemonic = "demise recall tomato lab rebuild denial suffer broom glow umbrella rebuild lion";
+var mnemonic = "volume action sunny liar sunset length quiz across resource pond very defense";

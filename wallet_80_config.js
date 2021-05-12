@@ -1,1 +1,1 @@
-var mnemonic = "grow garage bamboo gauge gossip provide lava report soul model shuffle rare";
+var mnemonic = "repair brown galaxy lesson priority entire unique frozen pause current output appear";

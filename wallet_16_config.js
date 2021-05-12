@@ -1,1 +1,1 @@
-var mnemonic = "depart same spoon until question orchard dutch assist tilt click horror north";
+var mnemonic = "farm donate dove solution ketchup flock derive balance leisure intact outer inside";

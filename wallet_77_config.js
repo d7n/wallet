@@ -1,1 +1,1 @@
-var mnemonic = "chase chase weasel enjoy fever stock cool refuse connect shield child toddler";
+var mnemonic = "bicycle story grow since wing slow enter trust bring unfair segment gospel";

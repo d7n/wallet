@@ -1,1 +1,1 @@
-var mnemonic = "atom magnet deposit sibling busy inch gap wedding desk ready nerve elder";
+var mnemonic = "snack orchard guard popular switch isolate pigeon timber fatigue guitar symbol unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle woman moment bean label easily perfect category depart bracket near kite";
+var mnemonic = "game scheme kick soup fault broccoli vote pulse predict sight private lava";

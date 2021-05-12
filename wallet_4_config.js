@@ -1,1 +1,1 @@
-var mnemonic = "must warm year pool below intact various open labor truly board artefact";
+var mnemonic = "warfare clerk priority dismiss chef language alert phrase share rigid auction warm";

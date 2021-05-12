@@ -1,1 +1,1 @@
-var mnemonic = "replace olympic label diet symbol credit inject trophy burden travel print stage";
+var mnemonic = "opinion inhale gun relief wood wagon review sail bless anxiety point whisper";

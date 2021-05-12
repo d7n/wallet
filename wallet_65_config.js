@@ -1,1 +1,1 @@
-var mnemonic = "benefit rate thank language field pull add vessel kangaroo naive employ clever";
+var mnemonic = "chicken year swift bean width flip pond seed segment spawn winner still";

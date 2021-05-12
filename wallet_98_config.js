@@ -1,1 +1,1 @@
-var mnemonic = "few wave motor medal float swamp swim amazing chair dinner rule aisle";
+var mnemonic = "yellow park symbol riot delay coin project reveal negative escape urban skate";

@@ -1,1 +1,1 @@
-var mnemonic = "mention come unlock regular prefer brand purchase spoon angle ugly invite excuse";
+var mnemonic = "oak talk pioneer plunge quiz sword six mountain proof hat answer carbon";

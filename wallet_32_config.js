@@ -1,1 +1,1 @@
-var mnemonic = "crumble soap express enact cousin ask idle bright nest number lunch erupt";
+var mnemonic = "harsh pen borrow strategy core miracle sport local option voice begin clog";

@@ -1,1 +1,1 @@
-var mnemonic = "birth combine where expose bright maid fresh bicycle orchard december badge polar";
+var mnemonic = "blanket foster carry noodle ordinary guide creek pattern warrior choice rent inhale";

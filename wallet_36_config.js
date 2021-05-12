@@ -1,1 +1,1 @@
-var mnemonic = "vanish clerk again cram west skin scene lend hen best execute swamp";
+var mnemonic = "electric evoke uncle track prevent age rally aim sustain state permit able";

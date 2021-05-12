@@ -1,1 +1,1 @@
-var mnemonic = "margin auto crime morning toddler plastic bicycle derive call credit today caution";
+var mnemonic = "balcony engine candy again crowd rain sign good chapter trash praise feel";

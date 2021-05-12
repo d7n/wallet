@@ -1,1 +1,1 @@
-var mnemonic = "wear aware emotion layer length acid chimney nerve jeans grant crack regular";
+var mnemonic = "bachelor bomb hammer copper head salt win pass world head veteran divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "surface slogan boy pass ginger pluck popular subway valid grief side grass";
+var mnemonic = "divorce athlete spy word spend guilt auto endorse misery brave victory hole";

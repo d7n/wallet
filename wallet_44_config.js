@@ -1,1 +1,1 @@
-var mnemonic = "scatter feel blast upper cat wing corn census laugh render fish carry";
+var mnemonic = "bamboo question umbrella enough lumber select tonight expand beauty stamp venture cattle";

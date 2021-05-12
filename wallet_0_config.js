@@ -1,1 +1,1 @@
-var mnemonic = "bargain element mean fun fresh purpose drop domain honey canoe soft lottery";
+var mnemonic = "horror garden rocket sense gasp item stereo flame path ocean shadow scare";

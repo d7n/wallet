@@ -1,1 +1,1 @@
-var mnemonic = "color bronze minor more print custom fringe airport stable radar prison team";
+var mnemonic = "dry meadow bachelor crop team slim foam wolf panel decline job dance";

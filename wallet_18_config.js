@@ -1,1 +1,1 @@
-var mnemonic = "balcony truth permit danger scale fiction spice urge axis kick clap deputy";
+var mnemonic = "record wheat inherit maze tomorrow example toddler web despair mystery margin napkin";

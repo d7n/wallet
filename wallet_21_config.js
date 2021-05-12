@@ -1,1 +1,1 @@
-var mnemonic = "canvas rigid purse inside plate win ability arch soul melt panther frame";
+var mnemonic = "ability reduce medal loud wet buyer else depth settle curve wear armed";

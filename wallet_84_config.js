@@ -1,1 +1,1 @@
-var mnemonic = "pill arena early fame avoid mimic stable mammal cigar deliver service scheme";
+var mnemonic = "burger slam donkey outdoor know news shadow peace isolate garlic primary pink";

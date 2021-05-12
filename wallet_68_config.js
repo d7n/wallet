@@ -1,1 +1,1 @@
-var mnemonic = "mail about deal multiply warm balance pluck inhale goddess switch split resource";
+var mnemonic = "relief able vacuum mother spirit current tell junior scare limb lunch private";

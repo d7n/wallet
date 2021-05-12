@@ -1,1 +1,1 @@
-var mnemonic = "author comic impose maid accuse relief guilt desk music embark cloth mouse";
+var mnemonic = "upon program casual volcano cram easily bullet obtain fee symbol antenna web";

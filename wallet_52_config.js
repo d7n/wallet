@@ -1,1 +1,1 @@
-var mnemonic = "observe tomato crater entry ecology rough genius celery tourist mountain fortune credit";
+var mnemonic = "cradle model you loan solar teach indoor inherit crowd stamp dismiss witness";

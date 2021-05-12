@@ -1,1 +1,1 @@
-var mnemonic = "hidden route custom stereo dream august fan monkey come service blossom baby";
+var mnemonic = "trash coconut inch mimic south vessel differ regular fan liberty orient shadow";

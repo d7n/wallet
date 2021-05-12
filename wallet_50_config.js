@@ -1,1 +1,1 @@
-var mnemonic = "perfect pulse trial brush flee card virus world rabbit spoon ribbon two";
+var mnemonic = "accident harsh rude enough mouse spend off scrub globe cloth emotion fog";

@@ -1,1 +1,1 @@
-var mnemonic = "forward fire misery tunnel toilet spoon reduce member seminar napkin when country";
+var mnemonic = "chat shoot hand network frequent race van denial hedgehog mind predict island";

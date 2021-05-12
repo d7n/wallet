@@ -1,1 +1,1 @@
-var mnemonic = "sudden top wedding include laptop festival pistol grain easily define flash wave";
+var mnemonic = "salon evil tell unveil orange blind outer exercise quit faith embody mesh";

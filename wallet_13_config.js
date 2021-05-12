@@ -1,1 +1,1 @@
-var mnemonic = "endless detect safe crater daughter arm ivory eternal sunny birth surface fat";
+var mnemonic = "network salad raw under talent obey volume garage soccer quote until unfair";

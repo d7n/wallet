@@ -1,1 +1,1 @@
-var mnemonic = "island fruit melt excite extend property shy table pupil apology gaze common";
+var mnemonic = "accuse tortoise early unveil shine bus cigar render boil tank hammer pull";

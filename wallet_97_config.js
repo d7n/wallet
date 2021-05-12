@@ -1,1 +1,1 @@
-var mnemonic = "reduce prison scorpion parent urban oak furnace goddess between panic you exhaust";
+var mnemonic = "north material immense february adapt public coil cushion nerve birth army praise";

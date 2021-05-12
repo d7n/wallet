@@ -1,1 +1,1 @@
-var mnemonic = "easily man vintage old occur tiny mind concert engage point camp pony";
+var mnemonic = "palace mesh chalk dice west genius chronic duck flip ski pelican loop";

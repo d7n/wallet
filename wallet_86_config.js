@@ -1,1 +1,1 @@
-var mnemonic = "upgrade hair fine company cherry old much dash lunch side cancel wasp";
+var mnemonic = "model adapt large aspect void flee leave drum faith weasel bridge search";

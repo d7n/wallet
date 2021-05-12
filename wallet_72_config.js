@@ -1,1 +1,1 @@
-var mnemonic = "unusual today dove episode kit zoo humble afford pelican permit chuckle layer";
+var mnemonic = "month material opera wish nest wish derive clerk gun plastic trend sustain";

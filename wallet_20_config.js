@@ -1,1 +1,1 @@
-var mnemonic = "cat item glass lobster addict gloom upset attitude audit adapt sister life";
+var mnemonic = "hip lawsuit network affair today allow aunt reject avocado differ jealous craft";

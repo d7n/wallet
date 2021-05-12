@@ -1,1 +1,1 @@
-var mnemonic = "wedding auto blur exist runway city useful harbor arrive sword later organ";
+var mnemonic = "flame cause harbor large desert then cement fine click owner panel gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "answer horror three puzzle elevator dog harsh physical hidden lucky resist already";
+var mnemonic = "shaft crazy deny antique fat cat candy sleep harsh crash gesture pepper";

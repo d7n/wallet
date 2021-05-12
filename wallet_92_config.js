@@ -1,1 +1,1 @@
-var mnemonic = "trap wire earn clog ramp gospel page sketch spray basic identify salon";
+var mnemonic = "message soon sense funny carry poet dignity fiscal bring glory love jump";

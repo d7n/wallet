@@ -1,1 +1,1 @@
-var mnemonic = "smoke crystal garlic replace spatial early flip ozone orchard decrease slush menu";
+var mnemonic = "arrow unknown beach loan analyst crowd alert penalty nephew sort question error";

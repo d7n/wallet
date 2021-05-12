@@ -1,1 +1,1 @@
-var mnemonic = "prefer sibling execute survey wish area truth expire manage ketchup hard fatal";
+var mnemonic = "remind one minute aware budget perfect hair hair whip repair guard found";

@@ -1,1 +1,1 @@
-var mnemonic = "try inspire depth reason similar lumber crawl lava flat battle advice silver";
+var mnemonic = "attitude inquiry alone long torch opera advice mutual credit beach danger thing";

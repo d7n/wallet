@@ -1,1 +1,1 @@
-var mnemonic = "trust soup outer drama answer mix foster junior unlock awake talent grass";
+var mnemonic = "retire craft bridge powder hello letter hair ginger volume offer lake educate";

@@ -1,1 +1,1 @@
-var mnemonic = "enact primary analyst leisure avocado virus reflect stairs avoid planet judge hidden";
+var mnemonic = "measure young long believe clerk pig syrup visual foil defy clinic trust";

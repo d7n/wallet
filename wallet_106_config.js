@@ -1,1 +1,1 @@
-var mnemonic = "riot wedding rally praise tonight scale thumb dwarf enlist valley sample forum";
+var mnemonic = "thought balcony execute square hope depart fatal dream custom begin juice holiday";

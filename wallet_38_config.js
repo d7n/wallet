@@ -1,1 +1,1 @@
-var mnemonic = "fever letter crane inform nasty verb rifle sorry space weekend message still";
+var mnemonic = "cluster middle thing elephant cricket venture metal remember chair space soldier wheel";

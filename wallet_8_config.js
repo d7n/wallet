@@ -1,1 +1,1 @@
-var mnemonic = "memory home phrase unfair ice cancel glimpse mule hurry toy carpet route";
+var mnemonic = "priority wild rather assault shoe labor north science gain word wreck fury";

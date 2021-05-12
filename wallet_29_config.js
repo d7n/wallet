@@ -1,1 +1,1 @@
-var mnemonic = "certain museum laundry flight measure add stone quit sad pair pilot switch";
+var mnemonic = "unfold theme mango member creek popular tobacco filter someone water flat flip";

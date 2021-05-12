@@ -1,1 +1,1 @@
-var mnemonic = "royal treat silk never again shrimp cupboard make license roast diamond often";
+var mnemonic = "toy either ritual ritual sea puzzle uncover skin object face amused clay";

@@ -1,1 +1,1 @@
-var mnemonic = "calm chief obvious better drip setup jaguar venture movie doctor entire gossip";
+var mnemonic = "magic frost face happy mean liberty merit elephant rare awesome canal finish";

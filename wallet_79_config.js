@@ -1,1 +1,1 @@
-var mnemonic = "rally west robust rug public hood lunar ask kitten record deputy august";
+var mnemonic = "bubble picnic reward diet cruise muscle very satisfy tomorrow sight soap start";

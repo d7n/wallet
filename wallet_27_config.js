@@ -1,1 +1,1 @@
-var mnemonic = "hard galaxy imitate must view federal churn embark obscure velvet citizen normal";
+var mnemonic = "grow uncover consider crowd orient agree art day clarify quiz stock mixed";

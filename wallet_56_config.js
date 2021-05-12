@@ -1,1 +1,1 @@
-var mnemonic = "until enjoy joy obtain unveil bird soft inch inspire oval noble mutual";
+var mnemonic = "buzz eight turkey space visit program umbrella convince genuine wonder fog this";

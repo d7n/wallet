@@ -1,1 +1,1 @@
-var mnemonic = "such catch author hurdle leave zone wreck rib stone unfold crash length";
+var mnemonic = "prosper base safe crunch then doctor crew under diagram leave frozen pony";

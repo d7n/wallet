@@ -1,1 +1,1 @@
-var mnemonic = "volume sibling adjust script receive top pool shoulder abuse soup velvet shift";
+var mnemonic = "moral damp hawk weasel sketch board stone excuse blue find wave decrease";

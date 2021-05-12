@@ -1,1 +1,1 @@
-var mnemonic = "toss once exile punch cave sniff mansion water sand tunnel off play";
+var mnemonic = "flower scatter wisdom improve beyond soft verb song vintage brick wild pioneer";

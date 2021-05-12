@@ -1,1 +1,1 @@
-var mnemonic = "length marble mass eagle reunion monitor bulk shine cruise good rain pill";
+var mnemonic = "beyond dad myself surprise ribbon flavor mobile exhaust undo ceiling extra ritual";

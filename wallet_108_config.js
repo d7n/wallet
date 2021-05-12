@@ -1,1 +1,1 @@
-var mnemonic = "home inch height assault lawn danger disorder prison brave into rose bring";
+var mnemonic = "guide spend edge simple priority wood pink cake return van initial poet";

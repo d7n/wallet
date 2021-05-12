@@ -1,1 +1,1 @@
-var mnemonic = "now raw patrol village enlist label layer below betray sausage tool tuna";
+var mnemonic = "add finger ocean limb tattoo slush banner excess index island turkey march";

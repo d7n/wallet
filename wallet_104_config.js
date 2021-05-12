@@ -1,1 +1,1 @@
-var mnemonic = "three ceiling hat reward gravity clutch upon walnut point army present marriage";
+var mnemonic = "whisper regular identify invest pelican subject pear december dish equip hole opera";

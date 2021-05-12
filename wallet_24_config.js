@@ -1,1 +1,1 @@
-var mnemonic = "debate note orbit effort scout together casual gravity book lunch trumpet talent";
+var mnemonic = "regret royal world razor sister title merit mind maze secret work they";

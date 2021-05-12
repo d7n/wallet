@@ -1,1 +1,1 @@
-var mnemonic = "spread super early future pride wolf clip banner hammer start window alter";
+var mnemonic = "rifle digital tuna outside lend solid stone summer maximum curious walnut inch";

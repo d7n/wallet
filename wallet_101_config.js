@@ -1,1 +1,1 @@
-var mnemonic = "gospel digital coil bridge hello route return west advice dish usual purchase";
+var mnemonic = "result custom couch universe impulse good alter wait account swift stone foster";

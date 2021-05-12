@@ -1,1 +1,1 @@
-var mnemonic = "crush spider problem pig giant razor theory pair cash armed curtain almost";
+var mnemonic = "panda diamond melody velvet emotion ability delay enemy board thumb zoo eager";

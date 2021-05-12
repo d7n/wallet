@@ -1,1 +1,1 @@
-var mnemonic = "alien lonely liberty door blade update dinosaur echo link slush chest youth";
+var mnemonic = "syrup feature require bitter sport fold vivid response clutch canal topple cradle";

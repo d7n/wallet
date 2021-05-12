@@ -1,1 +1,1 @@
-var mnemonic = "feed message icon auto total adapt artefact tuition yellow general fragile clog";
+var mnemonic = "project system era when symbol trumpet ostrich hazard file bid sad magic";

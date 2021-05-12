@@ -1,1 +1,1 @@
-var mnemonic = "note fragile switch law arrest trophy credit sibling milk parrot fetch year";
+var mnemonic = "brother amount boring person motion chat idea evil secret step cross valley";

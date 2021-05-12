@@ -1,1 +1,1 @@
-var mnemonic = "duty grief corn exchange witness figure powder virus nephew spoon sword rack";
+var mnemonic = "siren donkey cart element pelican high seven tomorrow auction arrow chair cruise";

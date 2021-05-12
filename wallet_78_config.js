@@ -1,1 +1,1 @@
-var mnemonic = "monkey twin eyebrow essay scheme initial vibrant rural lend erode income during";
+var mnemonic = "mistake mix vague govern mutual material usual whisper worth develop pass december";

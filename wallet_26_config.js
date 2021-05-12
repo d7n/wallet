@@ -1,1 +1,1 @@
-var mnemonic = "monitor brother firm pigeon cement cliff top shift start quote essence lesson";
+var mnemonic = "genre husband stumble tower carbon boost ridge region trial poem census cup";

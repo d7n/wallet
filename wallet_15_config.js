@@ -1,1 +1,1 @@
-var mnemonic = "sketch assume play energy never shield keen arrange wave celery certain verb";
+var mnemonic = "dinosaur visual victory drill lunar banana tilt lens expire brain solve floor";

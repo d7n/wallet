@@ -1,1 +1,1 @@
-var mnemonic = "lesson field inflict lion rule gauge acid weather exist rapid denial captain";
+var mnemonic = "catalog neck dust harbor together walnut cloud ensure expect category mention arrive";

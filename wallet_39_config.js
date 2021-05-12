@@ -1,1 +1,1 @@
-var mnemonic = "poem list brush embark stock neck oval paddle diet tooth room pitch";
+var mnemonic = "slam post they index spirit invest drift helmet assist weapon gospel round";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform flock move regret guilt cupboard over ocean wide divide review blush";
+var mnemonic = "shed wing process leisure layer ready mention amused impact web vintage sword";

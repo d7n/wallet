@@ -1,1 +1,1 @@
-var mnemonic = "analyst message comic wage near board under embrace pave august beef wine";
+var mnemonic = "crash prefer rich fish mushroom science learn lift link void boat wave";

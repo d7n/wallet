@@ -1,1 +1,1 @@
-var mnemonic = "capable try immune vintage elite play company nut duck bamboo blouse monitor";
+var mnemonic = "invite pool gloom unaware dignity rail dinosaur pet install lonely wait riot";
