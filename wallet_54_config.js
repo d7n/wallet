@@ -1,1 +1,1 @@
-var mnemonic = "letter joy help clean reform cash business estate pilot expire awesome yard";
+var mnemonic = "various library direct problem million fragile pet fresh antenna shrug leisure blur";

@@ -1,1 +1,1 @@
-var mnemonic = "immune horn weasel around tired element champion manual erosion evolve aunt jewel";
+var mnemonic = "bitter brand cook bleak tail outside loyal night risk mixture face flag";

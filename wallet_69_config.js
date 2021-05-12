@@ -1,1 +1,1 @@
-var mnemonic = "edge recipe script decade switch cause open lend uniform ripple flat long";
+var mnemonic = "immense skull over tank flag mother width robust bag dirt cheese cross";

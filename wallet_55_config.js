@@ -1,1 +1,1 @@
-var mnemonic = "piece proof mountain bridge vicious crowd exchange mean ivory banner ethics phrase";
+var mnemonic = "erode review noodle awkward olive join short ready nurse wood layer bottom";

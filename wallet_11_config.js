@@ -1,1 +1,1 @@
-var mnemonic = "enroll enemy special art you uniform someone title festival camera outer tent";
+var mnemonic = "cover transfer museum spot feature master spatial garage blanket antenna coin oven";

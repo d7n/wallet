@@ -1,1 +1,1 @@
-var mnemonic = "increase kick embody brisk clean pattern tone sister metal protect avocado recycle";
+var mnemonic = "sister glass recall eager summer loop minor boring knife protect sting magnet";

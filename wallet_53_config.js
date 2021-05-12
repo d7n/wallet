@@ -1,1 +1,1 @@
-var mnemonic = "planet flat axis gather illegal tired loan bubble shoot hurry match gentle";
+var mnemonic = "blast piece upper note demise build top oyster shock boss razor slab";

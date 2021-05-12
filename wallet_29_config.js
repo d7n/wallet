@@ -1,1 +1,1 @@
-var mnemonic = "find harvest snack bind dumb nominee camp cycle nothing loyal story holiday";
+var mnemonic = "fame harsh utility april ladder essence oval crumble solar net distance layer";

@@ -1,1 +1,1 @@
-var mnemonic = "fish alert social false fabric easy present spoil polar knock obtain cabbage";
+var mnemonic = "legal disagree comfort present supreme stumble helmet april photo carpet movie genre";

@@ -1,1 +1,1 @@
-var mnemonic = "cement hockey craft scan climb sure good torch same submit express range";
+var mnemonic = "balcony vocal hint page buffalo boil young furnace situate protect cross lunar";

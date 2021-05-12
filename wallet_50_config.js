@@ -1,1 +1,1 @@
-var mnemonic = "cliff cruel subject science online expose secret satisfy close fabric eternal trouble";
+var mnemonic = "give thrive swarm destroy term street lumber giant tunnel various draft right";

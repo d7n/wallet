@@ -1,1 +1,1 @@
-var mnemonic = "index language frown alien sunset actress until cable brave pill junior skull";
+var mnemonic = "erase skull spare hole expect abuse huge legal move civil brown test";

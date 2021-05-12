@@ -1,1 +1,1 @@
-var mnemonic = "hunt surprise sea vault unknown dirt shy apart physical fancy problem category";
+var mnemonic = "above peasant excess protect hard churn such meat rebuild slow nephew what";

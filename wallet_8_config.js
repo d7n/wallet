@@ -1,1 +1,1 @@
-var mnemonic = "notable butter rack fancy unknown file tape grit cattle talent fossil network";
+var mnemonic = "odor parade child helmet chimney hard discover key rapid bargain permit behind";

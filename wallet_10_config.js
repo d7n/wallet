@@ -1,1 +1,1 @@
-var mnemonic = "item brief when siege filter viable balance tongue athlete plate fit cabbage";
+var mnemonic = "time mask security good daughter evil away left grape there limb order";

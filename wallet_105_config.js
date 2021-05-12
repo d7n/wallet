@@ -1,1 +1,1 @@
-var mnemonic = "tomato window cool arch nurse jelly cup wrestle sense exotic paddle vital";
+var mnemonic = "shift silly round slim bike zoo fine identify unit arch glow dance";

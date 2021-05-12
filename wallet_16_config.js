@@ -1,1 +1,1 @@
-var mnemonic = "dignity ring valid gain chicken struggle disorder glance lock guard glory twenty";
+var mnemonic = "height unknown dry loud weather match outdoor idea pear replace goddess jealous";

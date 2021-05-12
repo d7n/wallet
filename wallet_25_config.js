@@ -1,1 +1,1 @@
-var mnemonic = "holiday ridge curve ostrich aunt sound shop twice faculty control course cram";
+var mnemonic = "bench equip black veteran grocery guide rather stone engine assist social wise";

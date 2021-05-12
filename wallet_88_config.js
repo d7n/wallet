@@ -1,1 +1,1 @@
-var mnemonic = "dutch once act relief metal ugly crack napkin frame feed oil rule";
+var mnemonic = "immune sponsor antenna renew blue upgrade result slot excuse play ice satoshi";

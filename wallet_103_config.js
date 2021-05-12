@@ -1,1 +1,1 @@
-var mnemonic = "mean pluck crew repair return olive song teach twist client favorite disease";
+var mnemonic = "around fitness blood enforce belt ignore million dignity connect digital master pumpkin";

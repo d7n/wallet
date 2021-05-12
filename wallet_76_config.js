@@ -1,1 +1,1 @@
-var mnemonic = "wedding jar want quality obey home lock bracket popular hawk cycle expand";
+var mnemonic = "liar chicken frozen random dignity unit click sword jeans unaware movie empty";

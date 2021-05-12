@@ -1,1 +1,1 @@
-var mnemonic = "muscle tonight resource observe catalog pluck bulk place whip country today hub";
+var mnemonic = "primary subject cargo extend cave course today extra tissue region sign alter";

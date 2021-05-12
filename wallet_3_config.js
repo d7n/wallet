@@ -1,1 +1,1 @@
-var mnemonic = "oxygen include smile obvious flight ordinary smoke motion blouse gift hover verify";
+var mnemonic = "breeze vague economy trumpet allow sail involve okay hundred guitar rapid solid";

@@ -1,1 +1,1 @@
-var mnemonic = "awake brown bright alien enroll misery boss pave decade erase bomb drift";
+var mnemonic = "siege trophy lamp purse match penalty lock blur sing wagon hard noodle";

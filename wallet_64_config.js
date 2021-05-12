@@ -1,1 +1,1 @@
-var mnemonic = "keen owner consider web dizzy sausage panther upset spawn stick zebra chimney";
+var mnemonic = "comfort enact sun speed maple kiss type prize outdoor code teach cram";

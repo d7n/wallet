@@ -1,1 +1,1 @@
-var mnemonic = "surprise lift record able female lesson stay ready more ethics enlist pause";
+var mnemonic = "angle light involve escape cactus drop shiver beauty stumble palm maze average";

@@ -1,1 +1,1 @@
-var mnemonic = "cement detect sister art ceiling alley stay ill price task tenant chaos";
+var mnemonic = "involve episode candy able stable safe order hood amused rotate around oval";

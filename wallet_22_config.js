@@ -1,1 +1,1 @@
-var mnemonic = "inflict absorb soda soul snack van senior lake flower calm garlic glory";
+var mnemonic = "unique mesh side shallow birth link ugly fun clinic grow height equip";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual once identify phone roof tackle trip cluster galaxy come slice squirrel";
+var mnemonic = "sail typical mind alien chase work vivid arena insane cushion dinosaur bus";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid taxi there coral dumb double divorce never celery pelican laugh balance";
+var mnemonic = "tennis case faint file limb olympic alpha crystal ginger pair leader vacuum";

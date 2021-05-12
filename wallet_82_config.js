@@ -1,1 +1,1 @@
-var mnemonic = "suit party please boring hurdle lemon answer style battle bulk sad seminar";
+var mnemonic = "evoke clever skin keep split describe oyster multiply ticket seed oak rally";

@@ -1,1 +1,1 @@
-var mnemonic = "poet little refuse street lady fury nominee chimney scorpion cement lucky because";
+var mnemonic = "elegant price room wisdom deposit mandate giggle borrow submit omit mail loop";

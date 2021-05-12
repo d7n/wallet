@@ -1,1 +1,1 @@
-var mnemonic = "coral more mesh pluck head shaft mule minute void kitchen grain roof";
+var mnemonic = "away plunge skin morning old robot injury opinion black blush exit early";

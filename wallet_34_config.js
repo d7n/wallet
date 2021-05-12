@@ -1,1 +1,1 @@
-var mnemonic = "bacon use cereal day another avocado proud trend wait legend vapor viable";
+var mnemonic = "pottery vast damage gallery endless galaxy insane come parade action appear pencil";

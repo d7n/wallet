@@ -1,1 +1,1 @@
-var mnemonic = "pave talent confirm caught pave lobster thought pigeon light film glide digital";
+var mnemonic = "sunset word medal cricket whale because cliff space indicate example hurdle become";

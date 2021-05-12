@@ -1,1 +1,1 @@
-var mnemonic = "this adult lumber truth can daring foil pretty magic yellow arrow awkward";
+var mnemonic = "cinnamon dose similar rib endorse spell fetch saddle gap resemble famous eager";

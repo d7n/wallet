@@ -1,1 +1,1 @@
-var mnemonic = "jump quantum velvet truth rubber hybrid stomach unfold slim grace what mushroom";
+var mnemonic = "duck suit ring legend proof type matrix mystery hospital save entire attend";

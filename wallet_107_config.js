@@ -1,1 +1,1 @@
-var mnemonic = "lift public honey present modify gain solar picture decline render song pistol";
+var mnemonic = "chronic net toddler write stay follow parrot armed depart kid eight exist";

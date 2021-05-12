@@ -1,1 +1,1 @@
-var mnemonic = "duty universe gasp anchor always setup recipe only seat wasp hub traffic";
+var mnemonic = "initial employ impose hedgehog october student faint next actress approve program small";

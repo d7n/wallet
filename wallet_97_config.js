@@ -1,1 +1,1 @@
-var mnemonic = "scout capital museum fame fruit equip unaware pair trash love profit dress";
+var mnemonic = "fragile jaguar soda fine chuckle pluck board what urge credit route near";

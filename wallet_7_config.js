@@ -1,1 +1,1 @@
-var mnemonic = "sound attitude own stadium august athlete zebra dynamic flavor baby subway such";
+var mnemonic = "nasty brisk glow general denial gift minimum verify thunder crumble rural miss";

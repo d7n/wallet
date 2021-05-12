@@ -1,1 +1,1 @@
-var mnemonic = "path laundry elbow over cover guilt estate under stand abstract rug electric";
+var mnemonic = "kitten total misery hurt reason toast silk merge soda october forget erase";

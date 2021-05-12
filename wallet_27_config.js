@@ -1,1 +1,1 @@
-var mnemonic = "whisper scissors excite melody depend earth shallow purse hand review uncover upon";
+var mnemonic = "lounge butter bar series toss burden describe silly squirrel water will above";

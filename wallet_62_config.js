@@ -1,1 +1,1 @@
-var mnemonic = "agree useless junior practice enhance bind ripple useful elbow rail dutch shine";
+var mnemonic = "spray van yellow shell scatter moment never pipe salon crush pioneer quarter";

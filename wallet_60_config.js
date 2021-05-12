@@ -1,1 +1,1 @@
-var mnemonic = "insect lesson crane aunt rotate october shine angry energy shuffle napkin remove";
+var mnemonic = "film sugar robust easily vehicle clip salad drift ice lobster priority utility";

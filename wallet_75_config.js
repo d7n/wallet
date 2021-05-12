@@ -1,1 +1,1 @@
-var mnemonic = "little truly fresh uphold lobster prize bleak note erupt dust loyal slab";
+var mnemonic = "mushroom marble blush torch tribe size voice soul diamond evoke palm year";

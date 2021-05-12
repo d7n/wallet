@@ -1,1 +1,1 @@
-var mnemonic = "senior material credit security gift custom glance skirt welcome accuse tooth color";
+var mnemonic = "alpha eager again dune print weekend degree silly private genuine raise bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "arena twenty certain urban naive marine pepper cruise news arrange essence basic";
+var mnemonic = "law pair omit fog alone capital glide sleep veteran jealous wife cream";

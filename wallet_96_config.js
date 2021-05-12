@@ -1,1 +1,1 @@
-var mnemonic = "drift vague impose snow slot top green melt plug water asthma super";
+var mnemonic = "into female screen vapor noble design rug erosion field twice tired nothing";

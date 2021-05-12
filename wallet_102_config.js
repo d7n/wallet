@@ -1,1 +1,1 @@
-var mnemonic = "ready perfect genuine nuclear truth salt oblige much inside cake shoe curtain";
+var mnemonic = "era child click wing beauty reopen rebel aunt level exile surface bitter";

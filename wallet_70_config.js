@@ -1,1 +1,1 @@
-var mnemonic = "liar hurry humble patch guard remember purse peace shock spawn scout private";
+var mnemonic = "pelican blur vast plug viable pigeon salon cat meadow win neck cable";

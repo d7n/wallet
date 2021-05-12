@@ -1,1 +1,1 @@
-var mnemonic = "sponsor cruel trophy neutral grow bench cruise bicycle neglect error green brisk";
+var mnemonic = "receive pyramid together nasty fluid open minor measure frost caught diary general";

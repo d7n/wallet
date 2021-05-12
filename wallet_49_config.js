@@ -1,1 +1,1 @@
-var mnemonic = "level escape arctic force injury below limit moment sphere cage input water";
+var mnemonic = "sad rival venue indicate athlete online eye six this sheriff speak message";

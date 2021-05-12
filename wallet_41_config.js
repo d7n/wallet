@@ -1,1 +1,1 @@
-var mnemonic = "fly where nephew toss noodle concert response hip acid bean april acquire";
+var mnemonic = "execute gospel side wool shrimp stairs piece fever test candy wood little";

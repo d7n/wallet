@@ -1,1 +1,1 @@
-var mnemonic = "scatter village raven actual ankle bean strong priority forest foam valid phone";
+var mnemonic = "name paper loud pitch thumb abstract unfair news amused defense violin health";

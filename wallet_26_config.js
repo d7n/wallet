@@ -1,1 +1,1 @@
-var mnemonic = "pole shiver skill limit evoke seek omit whisper decline boring flash wool";
+var mnemonic = "emotion castle rhythm pink live vibrant budget fetch slow deliver unique whale";

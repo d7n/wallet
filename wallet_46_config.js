@@ -1,1 +1,1 @@
-var mnemonic = "immense mansion admit rotate response pool wheat express slide sorry helmet rich";
+var mnemonic = "burst unable miracle license pizza remind december mammal manual forum excess drill";

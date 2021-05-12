@@ -1,1 +1,1 @@
-var mnemonic = "quiz breeze space ivory stick relief bring destroy churn render differ twice";
+var mnemonic = "dash absorb genius smile ecology inmate seed load before captain thumb exclude";

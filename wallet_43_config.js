@@ -1,1 +1,1 @@
-var mnemonic = "gaze place since resist black mean enough penalty capital card sudden resource";
+var mnemonic = "great nasty noise tower bulk middle color junior canvas risk moon success";

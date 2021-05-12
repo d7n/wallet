@@ -1,1 +1,1 @@
-var mnemonic = "prize alien trigger neglect insect asthma exhaust snow among nurse betray minute";
+var mnemonic = "digital tent wonder tray reason filter sense put cry rare soap scan";

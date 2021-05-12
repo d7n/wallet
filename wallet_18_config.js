@@ -1,1 +1,1 @@
-var mnemonic = "giant merge health kitchen stamp beauty negative warrior eight swarm add market";
+var mnemonic = "gossip surround suit disagree milk train harsh degree twice helmet run scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal method story coach battle trick refuse used oval clever fancy observe";
+var mnemonic = "gallery step armed require among ivory loop hollow foil mutual purpose soul";

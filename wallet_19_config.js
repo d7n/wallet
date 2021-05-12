@@ -1,1 +1,1 @@
-var mnemonic = "deposit that pond ice swing minute follow lesson broken cactus gadget involve";
+var mnemonic = "blur know badge rack smile bullet better never refuse grass guard mesh";

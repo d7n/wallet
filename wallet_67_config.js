@@ -1,1 +1,1 @@
-var mnemonic = "connect limb else when dutch endless project mushroom useless head slogan excuse";
+var mnemonic = "globe solve arm veteran right average electric reform divert crumble fluid organ";

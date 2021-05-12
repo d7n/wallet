@@ -1,1 +1,1 @@
-var mnemonic = "echo day forest labor exit power cereal diamond expand price fatal tomorrow";
+var mnemonic = "option diary spice obey push awful pitch coyote kit return fresh sketch";

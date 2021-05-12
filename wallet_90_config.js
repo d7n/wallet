@@ -1,1 +1,1 @@
-var mnemonic = "sure praise kind father feel pride core waste bicycle lawn industry one";
+var mnemonic = "multiply height simple tray involve flat kind boost shrimp claim minute under";

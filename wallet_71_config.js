@@ -1,1 +1,1 @@
-var mnemonic = "crumble glue quick surge pattern tunnel art fish rough biology cash thought";
+var mnemonic = "stone model slice pool clump auction recall language army aim crystal motion";

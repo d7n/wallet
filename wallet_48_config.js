@@ -1,1 +1,1 @@
-var mnemonic = "decorate tourist toe push museum afraid leopard series fever elbow recipe dignity";
+var mnemonic = "chair act misery wife marriage amazing zebra grit vast scout leader buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight oil cluster secret primary barrel mix around evolve clutch soap upgrade";
+var mnemonic = "source sample rifle inhale december cattle buyer pink donkey defy stick bring";

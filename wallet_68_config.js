@@ -1,1 +1,1 @@
-var mnemonic = "push apology abuse surprise hard remember buzz cargo outer torch trumpet drill";
+var mnemonic = "flag exhaust speed build suffer milk over river jacket bicycle gesture program";

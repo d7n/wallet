@@ -1,1 +1,1 @@
-var mnemonic = "alien echo average time hollow image scale rookie child road gasp gate";
+var mnemonic = "fault weather pigeon drop defy mean sample vintage pyramid cotton very heavy";

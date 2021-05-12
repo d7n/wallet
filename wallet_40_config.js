@@ -1,1 +1,1 @@
-var mnemonic = "detail two game disease film base fiction keen when bone always shallow";
+var mnemonic = "cave twin fine fever pepper rose ill minor switch earn enroll speak";

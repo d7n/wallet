@@ -1,1 +1,1 @@
-var mnemonic = "thunder survey unable shock ranch spend spell burst oak pulp palace shell";
+var mnemonic = "eagle soup rotate cloth cancel pig industry tank hybrid snack recall scissors";

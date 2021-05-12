@@ -1,1 +1,1 @@
-var mnemonic = "normal regret carbon like fine special label market theory attract old drive";
+var mnemonic = "wish drive glass setup cradle erase annual puzzle lunar parade flee choice";

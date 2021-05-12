@@ -1,1 +1,1 @@
-var mnemonic = "canyon culture dad parrot render super anxiety mirror ramp sister ghost path";
+var mnemonic = "shadow initial nature finish spoil perfect rule ranch woman harvest acoustic aspect";

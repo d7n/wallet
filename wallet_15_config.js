@@ -1,1 +1,1 @@
-var mnemonic = "unhappy edge manage desert sting melody cradle neck stock kind cart blanket";
+var mnemonic = "million envelope brave faint craft drop woman deer captain alone nasty choose";

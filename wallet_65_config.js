@@ -1,1 +1,1 @@
-var mnemonic = "river innocent range quote village kick replace cousin wait paddle cancel sun";
+var mnemonic = "caught hockey canal duty between install bar ticket kidney ocean push dragon";

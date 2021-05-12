@@ -1,1 +1,1 @@
-var mnemonic = "rug heavy peace tiger forget hard basic film garlic teach fragile fetch";
+var mnemonic = "media ginger knock market accident left life fire quiz laundry explain gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt receive business gold health evolve town able file injury mean install";
+var mnemonic = "permit release spray pave nut finish crater crumble spend innocent dizzy worth";

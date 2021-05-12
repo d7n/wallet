@@ -1,1 +1,1 @@
-var mnemonic = "recall away topic slab valley upper mention jazz merry pole mansion any";
+var mnemonic = "luggage symbol field hat bonus friend kite emotion rent buddy hidden story";

@@ -1,1 +1,1 @@
-var mnemonic = "season task purse unhappy direct cycle foster gather nerve zoo upgrade anchor";
+var mnemonic = "tired blame tent rocket gown mass inject poet chaos wage build prepare";

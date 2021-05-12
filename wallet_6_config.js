@@ -1,1 +1,1 @@
-var mnemonic = "inspire mind detect cheese merry gather wing sun mass lemon orbit day";
+var mnemonic = "lounge agent supreme pumpkin witness abuse smart vital crack employ lumber love";

@@ -1,1 +1,1 @@
-var mnemonic = "remember someone minor depth crouch december inmate history menu grocery inject version";
+var mnemonic = "act whip wealth tuna excess spin sure knock uncle supreme silver inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "path chief skirt column kingdom bulk leopard hurt order unique ball level";
+var mnemonic = "drink expire margin regular turtle inch panel damp cycle march liar meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "say give twist exile hybrid click park twelve when gesture recall life";
+var mnemonic = "artist air buffalo walnut shuffle pink desert holiday drama width price utility";

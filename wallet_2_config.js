@@ -1,1 +1,1 @@
-var mnemonic = "poem slight dizzy spoon believe brave parade gold video wait concert unhappy";
+var mnemonic = "scrub common sustain gold miracle wife over balcony sugar test plunge expire";

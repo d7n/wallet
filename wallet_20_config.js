@@ -1,1 +1,1 @@
-var mnemonic = "civil sure upgrade scan witness about situate virtual gift impulse rival flower";
+var mnemonic = "prosper credit boring flight perfect runway town into bread learn cancel subject";

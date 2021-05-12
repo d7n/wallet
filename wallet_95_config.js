@@ -1,1 +1,1 @@
-var mnemonic = "around top impulse group crawl capital slice flash unlock plunge stuff chief";
+var mnemonic = "believe silent random romance response popular grocery where general math oil burden";

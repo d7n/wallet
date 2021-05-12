@@ -1,1 +1,1 @@
-var mnemonic = "volcano arrow bleak weasel route task glance expire discover gesture scheme paddle";
+var mnemonic = "match kind method light mammal ugly invest lemon like vicious oppose flat";

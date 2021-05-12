@@ -1,1 +1,1 @@
-var mnemonic = "program enter anger leaf custom orbit scrub olive discover sail snack inherit";
+var mnemonic = "only desk various stick negative urge avoid thank foster fence thank audit";

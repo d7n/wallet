@@ -1,1 +1,1 @@
-var mnemonic = "rabbit panic fitness planet merge diagram panel jealous print subway husband race";
+var mnemonic = "velvet about fork cherry zoo cool gorilla feel inquiry airport volcano youth";

@@ -1,1 +1,1 @@
-var mnemonic = "slight scissors mosquito access divide crumble bone all play face intact knife";
+var mnemonic = "city donate bitter below reduce clutch quote network bike gallery extra purity";
