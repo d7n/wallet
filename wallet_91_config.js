@@ -1,1 +1,1 @@
-var mnemonic = "cabbage glue exotic penalty venue omit hill identify price wine echo copy";
+var mnemonic = "apology noble side rice cinnamon ivory lion approve include coast brass mind";

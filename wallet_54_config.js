@@ -1,1 +1,1 @@
-var mnemonic = "imitate window uncover come ability cactus library celery review bird topple strong";
+var mnemonic = "airport caught armed bargain inhale trust junk sword mad size loud sad";

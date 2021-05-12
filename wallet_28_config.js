@@ -1,1 +1,1 @@
-var mnemonic = "render salad journey price hospital give blast adjust quarter organ dwarf involve";
+var mnemonic = "throw sadness prevent way know whip crumble hard silk please pact seed";

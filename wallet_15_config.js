@@ -1,1 +1,1 @@
-var mnemonic = "struggle gauge hair warrior sun gather exhaust wink opinion lava same stumble";
+var mnemonic = "trash strategy bomb announce unfold pride tribe wall mean brush cousin ring";

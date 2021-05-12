@@ -1,1 +1,1 @@
-var mnemonic = "media glide zebra awake ability radar ozone misery napkin picture aerobic letter";
+var mnemonic = "melt rent rookie draft question enemy flight wing security term festival split";

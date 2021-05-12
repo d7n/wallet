@@ -1,1 +1,1 @@
-var mnemonic = "draw much lawn fun enable odor opinion pluck myself loop toilet main";
+var mnemonic = "cattle tuna material ribbon spray congress brown quarter surge tray relax kiwi";

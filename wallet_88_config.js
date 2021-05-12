@@ -1,1 +1,1 @@
-var mnemonic = "shrug pelican index leg hard vote chaos disorder tobacco puppy inch asthma";
+var mnemonic = "this profit domain salad blossom around tide company orange genre rib young";

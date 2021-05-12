@@ -1,1 +1,1 @@
-var mnemonic = "palace select mixed chaos dolphin gift effort render spot royal picnic coral";
+var mnemonic = "finish range buddy health raise gold chapter priority assume video length item";

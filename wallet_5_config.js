@@ -1,1 +1,1 @@
-var mnemonic = "curve jewel fit heart attract ticket monkey adjust fish hawk axis blanket";
+var mnemonic = "two scissors mask draft siren kit metal develop immense avocado lucky weapon";

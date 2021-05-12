@@ -1,1 +1,1 @@
-var mnemonic = "crumble range online speed hello farm walnut estate find garden air step";
+var mnemonic = "music expire stairs tongue grunt rude muffin kiss balance clerk hundred erase";

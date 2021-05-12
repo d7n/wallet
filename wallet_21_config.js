@@ -1,1 +1,1 @@
-var mnemonic = "misery eager possible jar badge ten fox say tuna adjust alone gun";
+var mnemonic = "basket feature neck garage rifle small glad trash vague broken permit furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff brush page police weather tiny case valve reunion mass toe term";
+var mnemonic = "just sibling detect violin solid zone shrimp forest catch wink weapon ice";

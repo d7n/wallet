@@ -1,1 +1,1 @@
-var mnemonic = "soda inmate spider estate nation trash bounce upper fold tattoo lounge scout";
+var mnemonic = "regular limb alcohol stock soft multiply scheme measure isolate shift spring claim";

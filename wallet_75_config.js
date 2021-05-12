@@ -1,1 +1,1 @@
-var mnemonic = "story myth kid area ahead cool grow real social humble entry silent";
+var mnemonic = "pride power cradle impose grass volume fabric excite volcano wear grab monitor";

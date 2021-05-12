@@ -1,1 +1,1 @@
-var mnemonic = "fatigue giant morning coil gloom smart fame spirit lecture lecture eager lift";
+var mnemonic = "common bleak start crisp party real habit salt pink raise payment laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "quote mushroom peanut mango frequent tragic client border famous income invite oven";
+var mnemonic = "hard vessel vehicle roof cram palm kick industry breeze grass hello mass";

@@ -1,1 +1,1 @@
-var mnemonic = "problem congress child curious sight obscure toy improve essence close donate suspect";
+var mnemonic = "dice subject sustain speak figure anchor oil relax shed target wrestle modify";

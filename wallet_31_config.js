@@ -1,1 +1,1 @@
-var mnemonic = "engine town swarm lawn carpet border bullet step arrest slam unhappy lazy";
+var mnemonic = "hole clerk drive kidney lucky struggle gate art asthma latin museum long";

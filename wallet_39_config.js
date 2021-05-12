@@ -1,1 +1,1 @@
-var mnemonic = "gloom pave grant tornado security inquiry divide poem season race cigar label";
+var mnemonic = "used father chalk dish quality blossom glass science regular liquid broom fade";

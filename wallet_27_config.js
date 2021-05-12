@@ -1,1 +1,1 @@
-var mnemonic = "fine essay total alien adjust clap punch permit dolphin never main test";
+var mnemonic = "bike pear bracket assume grunt pupil lunar hard emerge swear hover vendor";

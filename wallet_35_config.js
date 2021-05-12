@@ -1,1 +1,1 @@
-var mnemonic = "win south tortoise parent pupil glass afford urge february goat repair gadget";
+var mnemonic = "fresh smart heavy orphan layer crowd hospital quit talent tag busy sound";

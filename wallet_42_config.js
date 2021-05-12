@@ -1,1 +1,1 @@
-var mnemonic = "hint admit parade artwork luggage pear argue diet swift bean toe fun";
+var mnemonic = "wealth subway speak public coin warfare inner snack empty local crash puppy";

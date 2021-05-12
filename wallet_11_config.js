@@ -1,1 +1,1 @@
-var mnemonic = "calm bulk organ arena carpet visa choose paper stereo man thank inside";
+var mnemonic = "armed supply left tissue safe section unaware humble focus call vocal bright";

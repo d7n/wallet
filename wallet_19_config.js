@@ -1,1 +1,1 @@
-var mnemonic = "actress liberty pizza guard pave scrub fatigue border horn settle vacuum jungle";
+var mnemonic = "neck shallow stock breeze below require acid mom carpet video hair vessel";

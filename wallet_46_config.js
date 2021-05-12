@@ -1,1 +1,1 @@
-var mnemonic = "frown orange click online sausage express shock host public dinosaur quantum leader";
+var mnemonic = "total mom dynamic pen risk copper obvious gravity reform when layer palace";

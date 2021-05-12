@@ -1,1 +1,1 @@
-var mnemonic = "yellow razor wide pupil merit inspire pizza obtain indoor immune trend wagon";
+var mnemonic = "riot wrap bundle risk place close exact slush harsh buyer trouble unknown";

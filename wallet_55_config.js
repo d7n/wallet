@@ -1,1 +1,1 @@
-var mnemonic = "depend skate bracket cupboard tell suffer cheap lobster hold own silly strike";
+var mnemonic = "salon cargo diamond silly cream pumpkin inherit clog scheme route narrow day";

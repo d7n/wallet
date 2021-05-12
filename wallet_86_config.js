@@ -1,1 +1,1 @@
-var mnemonic = "push neglect around distance then canvas evolve amateur snow crunch seed milk";
+var mnemonic = "weather feed coconut harvest orbit verify cupboard stomach axis awake exit cement";

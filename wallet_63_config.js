@@ -1,1 +1,1 @@
-var mnemonic = "little foster project item once fantasy essay auto thank panic walk armed";
+var mnemonic = "whisper oxygen network survey monkey change kangaroo earn gate gossip roof scene";

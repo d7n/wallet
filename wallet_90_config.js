@@ -1,1 +1,1 @@
-var mnemonic = "torch throw spirit net pause clean observe almost people awake wreck human";
+var mnemonic = "jewel result announce sadness term base panther pull bird traffic work recipe";

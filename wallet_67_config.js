@@ -1,1 +1,1 @@
-var mnemonic = "earth fever chicken risk crew observe leave grid zebra must panic crouch";
+var mnemonic = "theory script throw property palm tiger animal you horse puzzle trip invest";

@@ -1,1 +1,1 @@
-var mnemonic = "cute atom armed snow marble order drill fever reunion tribe sail view";
+var mnemonic = "squeeze engage juice box situate divide orange muffin fee avoid taste evolve";

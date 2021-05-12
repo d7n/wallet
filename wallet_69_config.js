@@ -1,1 +1,1 @@
-var mnemonic = "regular scout subject solve slush empty jeans clown scrap trip journey dinner";
+var mnemonic = "either identify canvas catalog letter success visit review happy dash drip alien";

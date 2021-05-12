@@ -1,1 +1,1 @@
-var mnemonic = "clerk night rural group host quit accident strong mutual fit toy symptom";
+var mnemonic = "cause cave nature cable whisper charge idea pull october poverty eternal end";

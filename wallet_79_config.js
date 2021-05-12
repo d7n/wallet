@@ -1,1 +1,1 @@
-var mnemonic = "major rival sound indicate relax cash olive rare naive alarm length wear";
+var mnemonic = "fluid vivid cream vibrant bitter purse mixture sick medal tunnel market sound";

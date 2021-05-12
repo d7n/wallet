@@ -1,1 +1,1 @@
-var mnemonic = "intact range retreat palm egg exotic lesson home middle front carry dawn";
+var mnemonic = "swing peace entire torch train diagram crawl empty good leopard buffalo immune";

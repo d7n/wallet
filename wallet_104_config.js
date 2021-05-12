@@ -1,1 +1,1 @@
-var mnemonic = "bubble pottery ridge since basic settle excuse minor collect feel mail frown";
+var mnemonic = "until until step execute bus cloth climb outer olympic salt rebel large";

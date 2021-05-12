@@ -1,1 +1,1 @@
-var mnemonic = "hello round near end gate wild twin only road close alien snack";
+var mnemonic = "hand rabbit primary disagree raven syrup tag turtle neither drum spice anchor";

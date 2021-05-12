@@ -1,1 +1,1 @@
-var mnemonic = "model enhance poem track weasel rely brisk tourist dune shy cube relax";
+var mnemonic = "confirm kit crumble edit bean ripple pill immune victory age pistol cook";

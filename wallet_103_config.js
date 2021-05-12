@@ -1,1 +1,1 @@
-var mnemonic = "option metal alarm sadness nation pact essence club claw trend penalty carry";
+var mnemonic = "fever cause nice model half phrase cement copper lazy talent off absorb";

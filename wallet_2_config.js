@@ -1,1 +1,1 @@
-var mnemonic = "alcohol illness clinic elder remind vocal crunch iron sadness salt chimney end";
+var mnemonic = "sheriff crush three fruit moment certain document height there term twin tip";

@@ -1,1 +1,1 @@
-var mnemonic = "unique evolve sting ranch loud symptom convince erosion meadow other gaze spy";
+var mnemonic = "syrup voyage brain kingdom once actress custom card vast region minimum nothing";

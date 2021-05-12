@@ -1,1 +1,1 @@
-var mnemonic = "oppose kick accident artist program input pig dove burger blur salon amused";
+var mnemonic = "because pledge slim notable spell visit bitter gallery sister color ancient setup";

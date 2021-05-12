@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit congress tired castle whisper base drill people bronze stadium vague race";
+var mnemonic = "group inch appear post drink run once urge prosper sample able shell";

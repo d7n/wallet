@@ -1,1 +1,1 @@
-var mnemonic = "note valley repeat toilet despair busy recycle seven busy envelope kangaroo project";
+var mnemonic = "pudding flat runway magnet panel media pluck humor film turtle miss duck";

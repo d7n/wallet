@@ -1,1 +1,1 @@
-var mnemonic = "hungry group lyrics wheat skate mixture elevator yard work together student fragile";
+var mnemonic = "person panther ostrich catch drive pole buzz name endless right term alcohol";

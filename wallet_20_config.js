@@ -1,1 +1,1 @@
-var mnemonic = "salon write tube rough push tooth target uphold act obscure flag inherit";
+var mnemonic = "enjoy angle train language horse volume train chalk wide waste power topic";

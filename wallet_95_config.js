@@ -1,1 +1,1 @@
-var mnemonic = "fever original produce assist crystal brown define couple matter puzzle pyramid river";
+var mnemonic = "arrow often penalty man moon victory person adapt random fan humble all";

@@ -1,1 +1,1 @@
-var mnemonic = "airport disease annual dust gospel segment scorpion garbage doctor flip garden pink";
+var mnemonic = "decide put rule eager enhance clip grid high chair frame annual aspect";

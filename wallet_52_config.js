@@ -1,1 +1,1 @@
-var mnemonic = "husband custom category avoid sausage diamond ramp hobby cup fever state found";
+var mnemonic = "cause second poem immense gas whale banana symptom upset excuse inquiry pulse";

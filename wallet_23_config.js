@@ -1,1 +1,1 @@
-var mnemonic = "soldier sustain limb truth toy crowd doll income finish armor weapon actor";
+var mnemonic = "execute injury top copy egg salon wood choose bubble hello cave garbage";

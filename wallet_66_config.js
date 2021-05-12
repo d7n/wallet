@@ -1,1 +1,1 @@
-var mnemonic = "pottery orient bitter repeat remember fever goddess bamboo moral oppose notice forget";
+var mnemonic = "clown chair stage parent pond width pumpkin equip foster exchange ethics account";

@@ -1,1 +1,1 @@
-var mnemonic = "evil sign future toy install scale grunt piece double curious strike law";
+var mnemonic = "hamster lend rapid relax cover mouse own oyster brief original sunset crystal";

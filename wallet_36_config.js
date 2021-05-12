@@ -1,1 +1,1 @@
-var mnemonic = "modify spider code kitten jar sketch tent piece athlete donate clap defy";
+var mnemonic = "village weekend rail sponsor knock apple blast taste receive tool cherry treat";

@@ -1,1 +1,1 @@
-var mnemonic = "drink juice iron glory exercise cupboard feed avocado diamond exhibit tape response";
+var mnemonic = "expand sword tree echo slow mouse dismiss carbon transfer wink grunt sauce";

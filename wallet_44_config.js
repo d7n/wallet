@@ -1,1 +1,1 @@
-var mnemonic = "plunge lizard exhibit snake orbit caution champion people huge usual sick solution";
+var mnemonic = "design speed slight ginger imitate hedgehog excuse consider tone control wait version";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo win artist job theme impact lecture assume erode wet inform tree";
+var mnemonic = "around sock car ladder kick fluid cry dress twenty trade become kick";

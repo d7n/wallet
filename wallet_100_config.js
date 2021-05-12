@@ -1,1 +1,1 @@
-var mnemonic = "pilot unaware trouble aspect fiction monitor inch bid include project outdoor capital";
+var mnemonic = "burden pact sponsor plug cat tornado close vehicle innocent girl pulp wine";

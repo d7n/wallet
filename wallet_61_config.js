@@ -1,1 +1,1 @@
-var mnemonic = "hand vintage garage impulse safe cherry embrace drip close gym spring penalty";
+var mnemonic = "act slush quarter kitten boat muffin fame initial orange purity pulse they";

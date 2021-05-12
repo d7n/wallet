@@ -1,1 +1,1 @@
-var mnemonic = "win extend cart abuse help soda blue buddy keen fee cruise library";
+var mnemonic = "mesh reduce someone hidden victory cinnamon fiber tape gorilla tooth liquid shrimp";

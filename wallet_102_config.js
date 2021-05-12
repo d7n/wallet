@@ -1,1 +1,1 @@
-var mnemonic = "quiz blur blade bronze afford average degree once maid access life jump";
+var mnemonic = "ability purchase deny stock large chunk amateur artist bright census ability evolve";

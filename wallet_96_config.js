@@ -1,1 +1,1 @@
-var mnemonic = "depth abandon reunion sausage upon clinic oven elite speak bundle critic room";
+var mnemonic = "casual shadow reward what atom deposit follow pony tide about drink measure";

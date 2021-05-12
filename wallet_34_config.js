@@ -1,1 +1,1 @@
-var mnemonic = "front angry olive always number flush morning paper casino page local spy";
+var mnemonic = "retreat lobster around few category rapid cactus arrow eight wood short during";

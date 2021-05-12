@@ -1,1 +1,1 @@
-var mnemonic = "common pumpkin witness hire abstract bomb occur bitter exotic among subway off";
+var mnemonic = "scrap toy silly choice wrap below benefit meat accident flower thumb diet";

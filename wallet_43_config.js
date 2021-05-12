@@ -1,1 +1,1 @@
-var mnemonic = "ability danger tongue forward knife rally act improve clinic harsh bachelor yellow";
+var mnemonic = "era sell toy crowd seminar announce piece urban addict virus retire hunt";

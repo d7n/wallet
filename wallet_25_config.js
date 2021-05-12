@@ -1,1 +1,1 @@
-var mnemonic = "dwarf idle amazing casual skate picture century predict evolve fatigue shop sniff";
+var mnemonic = "soap hen box vocal action pigeon earth material stove flame velvet dutch";

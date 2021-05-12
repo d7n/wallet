@@ -1,1 +1,1 @@
-var mnemonic = "wall green river holiday shop coconut bomb rent retreat indoor hour laundry";
+var mnemonic = "stairs forum liar test apology cushion draw fortune bridge setup still exact";

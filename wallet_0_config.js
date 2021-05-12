@@ -1,1 +1,1 @@
-var mnemonic = "renew elegant bag fade world solution hair flag palm morning beef frozen";
+var mnemonic = "syrup ranch wedding harbor mammal lounge dove pride neither tunnel depth debris";

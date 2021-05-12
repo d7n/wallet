@@ -1,1 +1,1 @@
-var mnemonic = "visit interest hawk raven online pony hybrid light essay bracket state display";
+var mnemonic = "quick toilet sea grid funny glory elevator attitude patient chunk crucial snack";

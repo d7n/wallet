@@ -1,1 +1,1 @@
-var mnemonic = "more repeat siren limit tuna spice average illegal foil tooth uncover ketchup";
+var mnemonic = "include approve always pole fat extra hero identify senior cradle dish engine";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage surface zone intact forum athlete forest latin build sketch actor imitate";
+var mnemonic = "audit eagle bulb prize gaze art junior victory coral modify amazing sphere";

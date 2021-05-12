@@ -1,1 +1,1 @@
-var mnemonic = "alert hub grain nurse fetch sunset merit legal busy drum gift charge";
+var mnemonic = "visual sort snake shed tobacco present cricket matter unaware chest chief ribbon";

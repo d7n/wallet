@@ -1,1 +1,1 @@
-var mnemonic = "latin taxi artist rude visual swim belt injury enroll draft bring wait";
+var mnemonic = "ahead final destroy razor jar initial reunion wrap color repeat drum image";

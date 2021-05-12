@@ -1,1 +1,1 @@
-var mnemonic = "come extend shadow wagon invite upgrade core couch give hub track code";
+var mnemonic = "crumble veteran upgrade spray angry rail arrest cake give spirit meat claw";

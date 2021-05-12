@@ -1,1 +1,1 @@
-var mnemonic = "night split surge share concert echo inspire answer outside route plastic sea";
+var mnemonic = "quarter ribbon find squirrel rely mean orient dry field helmet tell kiss";

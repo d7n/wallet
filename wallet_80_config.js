@@ -1,1 +1,1 @@
-var mnemonic = "elegant adapt chimney average door burger teach dizzy wage middle taste hard";
+var mnemonic = "author pear action year gate someone twelve laptop above quantum tide novel";

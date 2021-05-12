@@ -1,1 +1,1 @@
-var mnemonic = "cover meadow place prison differ stereo equip pretty curtain sadness embark heart";
+var mnemonic = "pledge early opera fitness rent man elbow ostrich milk spend lucky stage";

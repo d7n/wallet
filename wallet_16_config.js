@@ -1,1 +1,1 @@
-var mnemonic = "pitch stand modify such nuclear primary please virtual bracket around boat net";
+var mnemonic = "scout high coach funny arrow buyer gap peanut thought law humor two";

@@ -1,1 +1,1 @@
-var mnemonic = "few time develop blame will magic melody ecology blush rally photo clinic";
+var mnemonic = "shell impose skirt essence find reward toss light exile spoon blame round";

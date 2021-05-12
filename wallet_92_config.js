@@ -1,1 +1,1 @@
-var mnemonic = "reopen urban universe chronic elegant sister ask gain salad sort exit liberty";
+var mnemonic = "scene swim weasel waste nest gloom turtle legend soup recycle hair wait";

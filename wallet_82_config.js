@@ -1,1 +1,1 @@
-var mnemonic = "powder brass miss broom invite result group stumble border inside panel ripple";
+var mnemonic = "priority surge tide salmon grab program surge book edit skate canoe broom";

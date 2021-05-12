@@ -1,1 +1,1 @@
-var mnemonic = "dentist nose soap rescue bean spatial miss attack sand abandon that anger";
+var mnemonic = "snake ring uphold when high wisdom shine pig hole shrug chaos inhale";

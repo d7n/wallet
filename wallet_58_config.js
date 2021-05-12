@@ -1,1 +1,1 @@
-var mnemonic = "moon afraid universe strong ready need select capital oxygen coyote motion december";
+var mnemonic = "loan salt misery buffalo dry rough flag hen bonus forum agent price";
