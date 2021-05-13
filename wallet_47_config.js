@@ -1,1 +1,1 @@
-var mnemonic = "like hard emotion frame size portion merge play cycle spider slot mask";
+var mnemonic = "pair tonight weasel fly solar decade know relief blossom month bronze tiger";

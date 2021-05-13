@@ -1,1 +1,1 @@
-var mnemonic = "measure glance traffic wish diesel embark proof material donor wedding foam private";
+var mnemonic = "legend tennis safe symptom youth observe skin grace guess hamster milk uniform";

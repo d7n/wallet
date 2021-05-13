@@ -1,1 +1,1 @@
-var mnemonic = "brisk hello physical swallow soldier ranch stay initial speed chief explain bomb";
+var mnemonic = "reopen pool army lumber bachelor predict make clever license adult discover panel";

@@ -1,1 +1,1 @@
-var mnemonic = "room rare typical file brass praise north senior ethics middle detect stool";
+var mnemonic = "rescue network entire laugh tree screen need balcony parade pet long gas";

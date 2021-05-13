@@ -1,1 +1,1 @@
-var mnemonic = "claim security ring drum stone welcome soft emerge saddle van furnace climb";
+var mnemonic = "decrease tower muscle canyon planet crouch wait hazard mention item person month";

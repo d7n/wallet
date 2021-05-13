@@ -1,1 +1,1 @@
-var mnemonic = "life unusual cannon friend lunar woman town escape peace poem sadness danger";
+var mnemonic = "token method program craft edit impact immune reveal shield release correct clay";

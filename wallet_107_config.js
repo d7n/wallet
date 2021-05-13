@@ -1,1 +1,1 @@
-var mnemonic = "below price pen problem lens thing plate raccoon actor general brother opera";
+var mnemonic = "mass jelly private phrase lottery maximum history horse own twin yellow juice";

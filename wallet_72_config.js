@@ -1,1 +1,1 @@
-var mnemonic = "winter upset margin impose asthma ice regret win royal guitar minimum pretty";
+var mnemonic = "nurse suffer grit survey wash dizzy final flat lumber message country library";

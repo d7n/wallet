@@ -1,1 +1,1 @@
-var mnemonic = "remind board small quiz split mimic load weekend reopen muscle load spoon";
+var mnemonic = "pelican bread ready awesome man quantum garage process gain engine throw uncover";

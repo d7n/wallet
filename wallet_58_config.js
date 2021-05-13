@@ -1,1 +1,1 @@
-var mnemonic = "feature long ramp grace lens sentence system green liberty patient volcano vibrant";
+var mnemonic = "tongue above debate jar short large employ various menu motor spread turtle";

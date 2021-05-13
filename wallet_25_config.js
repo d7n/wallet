@@ -1,1 +1,1 @@
-var mnemonic = "dentist artist dizzy usual team term leave clever gift release settle innocent";
+var mnemonic = "range drop female slot trial year annual argue thrive hole equip soft";

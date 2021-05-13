@@ -1,1 +1,1 @@
-var mnemonic = "jaguar destroy float cluster casino clip side other post leader marine ignore";
+var mnemonic = "kiwi forest suspect voyage job library normal leave doctor breeze boy shy";

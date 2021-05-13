@@ -1,1 +1,1 @@
-var mnemonic = "cotton hammer brave process radio wood result oval carpet employ grief broken";
+var mnemonic = "deposit winner entire celery few tooth forum craft inhale chef success betray";

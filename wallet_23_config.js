@@ -1,1 +1,1 @@
-var mnemonic = "dress convince lend boil obtain three orchard access deputy pattern fancy road";
+var mnemonic = "amateur uniform cook permit girl cactus kite unknown hockey loop tired mushroom";

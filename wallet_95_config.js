@@ -1,1 +1,1 @@
-var mnemonic = "sign crazy vocal surround burger plastic seek property rural soccer element crystal";
+var mnemonic = "century length drill anger car normal mystery acoustic slot ribbon love brisk";

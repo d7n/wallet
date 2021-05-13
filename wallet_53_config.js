@@ -1,1 +1,1 @@
-var mnemonic = "fame off trick cheap dynamic toe sight whip damp uncle tennis chase";
+var mnemonic = "any similar scene buddy print sea scrub goddess panda usage twin moment";

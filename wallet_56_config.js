@@ -1,1 +1,1 @@
-var mnemonic = "swift mosquito maximum pelican rich people express before scrub zoo skill apart";
+var mnemonic = "castle cheese measure disagree pink panel bring music online young soon host";

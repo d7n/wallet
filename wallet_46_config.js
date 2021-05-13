@@ -1,1 +1,1 @@
-var mnemonic = "token result mix book legend bunker empty avocado trust follow humor steak";
+var mnemonic = "together rigid clever gospel car snap brand ice slot tool involve mention";

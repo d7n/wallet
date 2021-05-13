@@ -1,1 +1,1 @@
-var mnemonic = "soap loyal width exhaust monkey silly life soccer grocery flash dismiss fancy";
+var mnemonic = "balcony tunnel jaguar talk bonus soup cave dilemma absorb over planet rain";

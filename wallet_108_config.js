@@ -1,1 +1,1 @@
-var mnemonic = "tag allow kiss please heart little always oven dragon render cushion must";
+var mnemonic = "flush where pink furnace hover helmet alter shuffle notice empty life core";

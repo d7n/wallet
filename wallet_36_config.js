@@ -1,1 +1,1 @@
-var mnemonic = "wool forward fresh wet tonight speak narrow soap dumb motor chicken dinosaur";
+var mnemonic = "shell latin library weasel warrior museum okay hello outdoor feature hand initial";

@@ -1,1 +1,1 @@
-var mnemonic = "route bag thought survey differ evolve people party tourist wave rib balance";
+var mnemonic = "blood jump strategy inmate universe powder need rate gorilla grain cement buddy";

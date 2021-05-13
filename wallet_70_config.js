@@ -1,1 +1,1 @@
-var mnemonic = "burst fee absurd affair trouble satoshi beef mosquito fork verify rely dignity";
+var mnemonic = "suggest check home current torch lake describe fame sibling settle crowd motion";

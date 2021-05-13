@@ -1,1 +1,1 @@
-var mnemonic = "sausage verb mixture reject mean alpha space coach fade thank wrist arm";
+var mnemonic = "expose pave ignore sponsor must target artwork salad visa find number dice";

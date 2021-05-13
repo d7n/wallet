@@ -1,1 +1,1 @@
-var mnemonic = "tunnel margin cement wink accuse beyond story photo segment patch cube feature";
+var mnemonic = "wisdom phrase cotton aware mechanic mother pause soldier fold early message popular";

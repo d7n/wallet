@@ -1,1 +1,1 @@
-var mnemonic = "dentist thank lawsuit cake object decline pair fence deliver vanish version lemon";
+var mnemonic = "deer amount palace cash consider inform shoe can spin purity cigar slide";

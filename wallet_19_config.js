@@ -1,1 +1,1 @@
-var mnemonic = "slam axis cave salute swap core reveal laugh monster elbow hamster winner";
+var mnemonic = "swing diet fortune disease rule quality wealth stem emotion ill grid toss";

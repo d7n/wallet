@@ -1,1 +1,1 @@
-var mnemonic = "floor security empty daring giant add reason quit float ill vote prison";
+var mnemonic = "element giggle oyster peace again guess teach member great intact hat useful";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator clinic bike solid shallow couch tomato success hat behind obey sword";
+var mnemonic = "festival drastic obscure sea true floor sample boil purchase differ ensure lonely";

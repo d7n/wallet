@@ -1,1 +1,1 @@
-var mnemonic = "robot kind vast twist congress helmet hero radar stick rally pen cave";
+var mnemonic = "sugar lounge goddess govern judge dwarf shine loyal grape cousin apology arrive";

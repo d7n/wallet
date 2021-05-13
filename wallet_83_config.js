@@ -1,1 +1,1 @@
-var mnemonic = "immense wall toe excuse odor prize original learn doll flat glass unknown";
+var mnemonic = "common same know wave cabbage one loan frog diet fluid bus harsh";

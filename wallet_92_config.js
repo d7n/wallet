@@ -1,1 +1,1 @@
-var mnemonic = "friend ceiling fade maid now curtain twice credit acoustic jeans vacant earn";
+var mnemonic = "suspect conduct survey enforce toss coast bind such since insect legal real";

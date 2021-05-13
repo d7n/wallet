@@ -1,1 +1,1 @@
-var mnemonic = "easily picnic mixture wood tent draw boil blast tape unfold artwork soldier";
+var mnemonic = "bridge profit random little fade run rib door ghost bullet monster absurd";

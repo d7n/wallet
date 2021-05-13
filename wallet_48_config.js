@@ -1,1 +1,1 @@
-var mnemonic = "park amazing eternal use convince voyage treat lyrics goat venue certain useless";
+var mnemonic = "payment couple seminar middle twin velvet leaf expire shuffle execute spawn shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "merit door pupil spatial grief hurt eagle call impact ordinary what approve";
+var mnemonic = "exist wrong loud pottery large drum someone matter diesel stock cabin camp";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp effort cruise connect outdoor same finish maid panda subject tragic forum";
+var mnemonic = "uphold struggle brain faith orbit man raven please merit also latin silly";

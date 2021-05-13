@@ -1,1 +1,1 @@
-var mnemonic = "pluck success planet giggle kick resemble shallow kiwi weapon parent time giant";
+var mnemonic = "bless useful evoke safe balcony trip cricket dress increase patient finger install";

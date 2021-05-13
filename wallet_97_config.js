@@ -1,1 +1,1 @@
-var mnemonic = "labor capital present tell raise few rough spell letter between torch cup";
+var mnemonic = "employ volume prison search educate bid mix invite again resist list spread";

@@ -1,1 +1,1 @@
-var mnemonic = "math level album damp film coach sphere inside corn garlic business curious";
+var mnemonic = "trash noble pulse open art addict fetch frozen what tree economy usage";

@@ -1,1 +1,1 @@
-var mnemonic = "dove smooth rich despair eagle repair consider snake jacket core together bus";
+var mnemonic = "disorder thing wall bundle brand ecology spy choose pizza world story deer";

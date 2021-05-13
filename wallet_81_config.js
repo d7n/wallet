@@ -1,1 +1,1 @@
-var mnemonic = "prefer try obtain blood canal finger cargo ticket lunar bid curious news";
+var mnemonic = "twenty gasp enact mask infant pact first core lady stable thrive series";

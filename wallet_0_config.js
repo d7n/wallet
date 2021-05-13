@@ -1,1 +1,1 @@
-var mnemonic = "edit right early menu shaft custom rain artwork put eager mention video";
+var mnemonic = "blade boy mimic either leave pig weekend call despair element mansion about";

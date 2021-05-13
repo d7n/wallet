@@ -1,1 +1,1 @@
-var mnemonic = "fluid captain release puppy vivid cheap silver save indicate vibrant exercise misery";
+var mnemonic = "also siege announce labor eternal chat stock bright theme priority close enlist";

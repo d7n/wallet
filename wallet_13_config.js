@@ -1,1 +1,1 @@
-var mnemonic = "total decide engine rebuild tape upgrade drive position butter loop ten file";
+var mnemonic = "execute renew avoid ostrich myself tray age lunch junk verify print brush";

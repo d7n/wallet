@@ -1,1 +1,1 @@
-var mnemonic = "broccoli gun jaguar category depth they position deny alter lazy about million";
+var mnemonic = "weird globe total agree light planet milk glance alien feature guard glimpse";

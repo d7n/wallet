@@ -1,1 +1,1 @@
-var mnemonic = "exact catch enough then question deposit festival aunt glow grocery spatial cloud";
+var mnemonic = "purpose review game remove rain hill lion toddler rival ordinary clip switch";

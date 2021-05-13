@@ -1,1 +1,1 @@
-var mnemonic = "grit uniform want future olympic economy organ artefact able argue lens dinner";
+var mnemonic = "series word monitor busy awkward devote drama there hedgehog usage owner ignore";

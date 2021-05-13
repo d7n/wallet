@@ -1,1 +1,1 @@
-var mnemonic = "kiss luggage bleak happy album butter pupil garage brown empty luxury fame";
+var mnemonic = "season boil twelve mirror debris mushroom apology robust lift assault finger property";

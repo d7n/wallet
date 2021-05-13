@@ -1,1 +1,1 @@
-var mnemonic = "piano used increase rate beyond old juice mutual suffer wait human lunar";
+var mnemonic = "opera embark accident indoor right urban wall flame parent juice ahead sting";

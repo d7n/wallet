@@ -1,1 +1,1 @@
-var mnemonic = "start educate punch island junior slim champion potato piano method cement tornado";
+var mnemonic = "skull sunset until thought flip ring federal base around frown spring pink";

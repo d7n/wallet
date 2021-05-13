@@ -1,1 +1,1 @@
-var mnemonic = "visual robust logic under proud resource trend cattle deliver goat hurdle thank";
+var mnemonic = "occur crisp wrong pipe mesh random iron foil bring grass brush ahead";

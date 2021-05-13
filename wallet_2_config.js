@@ -1,1 +1,1 @@
-var mnemonic = "fashion intact stable wise master remember melt warrior hope destroy essay cement";
+var mnemonic = "sure thumb loop jelly engine hedgehog kick slight people angry desk tooth";

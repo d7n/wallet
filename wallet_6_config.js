@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin badge rifle elbow unfair ski ready mixed gold stay post warm";
+var mnemonic = "rabbit any east notable supply auction fire scheme soul artist stable soft";

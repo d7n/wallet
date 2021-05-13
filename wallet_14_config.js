@@ -1,1 +1,1 @@
-var mnemonic = "easy chest sad firm cigar forest hybrid style immune few glad cushion";
+var mnemonic = "laptop fly tool sort breeze depart recall speed funny album voice sick";

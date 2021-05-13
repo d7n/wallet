@@ -1,1 +1,1 @@
-var mnemonic = "embark sample diary auction wrong spray emotion seminar juice busy earn setup";
+var mnemonic = "news drama glide oak switch wool clump crisp pencil glad donor height";

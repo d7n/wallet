@@ -1,1 +1,1 @@
-var mnemonic = "defense raven close gas palace ordinary visual lecture soccer midnight elite job";
+var mnemonic = "agree change clarify shuffle region dragon despair regular release badge circle roof";

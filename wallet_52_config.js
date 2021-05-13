@@ -1,1 +1,1 @@
-var mnemonic = "era category coach bachelor purpose street bacon antenna abandon urge sustain stay";
+var mnemonic = "upgrade neither merge fat scrub crouch act sunset glory card glimpse slice";

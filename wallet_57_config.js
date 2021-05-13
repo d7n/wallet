@@ -1,1 +1,1 @@
-var mnemonic = "chicken race canal during kid beyond citizen solid result beach lava grunt";
+var mnemonic = "van doll share net diagram treat athlete toddler gym glory about push";

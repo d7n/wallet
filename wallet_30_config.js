@@ -1,1 +1,1 @@
-var mnemonic = "amount grow powder equip talk fat risk vessel shrimp catalog canyon share";
+var mnemonic = "right payment level pole accuse blast average soon shine patch this penalty";

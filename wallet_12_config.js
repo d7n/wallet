@@ -1,1 +1,1 @@
-var mnemonic = "fruit evolve bean lounge victory seed claw sketch fringe ancient tilt physical";
+var mnemonic = "always year birth method fit own leopard pretty tag balcony work sure";

@@ -1,1 +1,1 @@
-var mnemonic = "silk hidden spend depart upgrade mixed ugly fork assume prefer elephant discover";
+var mnemonic = "urban vapor wedding raise defense wink soda welcome foam exhibit clay casino";

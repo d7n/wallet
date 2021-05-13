@@ -1,1 +1,1 @@
-var mnemonic = "public rotate print sing garage exhibit attack return insane report aerobic weekend";
+var mnemonic = "yard sample pipe second genius sunset escape nephew helmet major apart pony";

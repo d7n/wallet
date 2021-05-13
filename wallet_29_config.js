@@ -1,1 +1,1 @@
-var mnemonic = "twist learn same pattern able immune acquire tumble avocado example comfort slide";
+var mnemonic = "cushion bar salon item rocket scheme silver message universe broken churn sight";

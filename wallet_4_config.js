@@ -1,1 +1,1 @@
-var mnemonic = "gym brass vanish pulse betray stuff mouse core emotion excuse symbol exchange";
+var mnemonic = "afraid sign require foam ticket adult odor table draw payment reunion shallow";

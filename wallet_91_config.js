@@ -1,1 +1,1 @@
-var mnemonic = "shoot disease ski thunder trend maximum snack slogan trip hill anger crime";
+var mnemonic = "evoke width screen expose noise whisper gossip extra april famous youth extra";

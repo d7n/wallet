@@ -1,1 +1,1 @@
-var mnemonic = "laptop pudding faint busy capital pelican phrase tribe clump swing income alone";
+var mnemonic = "height position laundry despair must rifle seed festival radar expose first oyster";

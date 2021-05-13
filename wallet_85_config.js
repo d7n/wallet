@@ -1,1 +1,1 @@
-var mnemonic = "power among month harvest list salmon angle protect common crazy install chuckle";
+var mnemonic = "label pencil divert fish wrap cattle grief calm sun appear entry sing";

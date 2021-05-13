@@ -1,1 +1,1 @@
-var mnemonic = "sick glue clump either write lounge measure excuse powder bag curious clock";
+var mnemonic = "lemon pattern swallow fly venue pottery april wash cargo special play ankle";

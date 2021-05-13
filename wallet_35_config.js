@@ -1,1 +1,1 @@
-var mnemonic = "december rally grape puppy post walnut nest occur ensure leaf forum valley";
+var mnemonic = "estate tongue pond situate next output scrub educate shine topple lady noble";

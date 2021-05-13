@@ -1,1 +1,1 @@
-var mnemonic = "ranch armor daring piece polar olive rival agent pretty average often awkward";
+var mnemonic = "alien airport pudding bomb major gadget always nasty quit copy pottery weapon";

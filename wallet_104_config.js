@@ -1,1 +1,1 @@
-var mnemonic = "innocent sadness chronic key chief destroy jump warrior inform power monkey draft";
+var mnemonic = "waste source satoshi seven jewel below other put add balcony erosion treat";

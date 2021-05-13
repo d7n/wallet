@@ -1,1 +1,1 @@
-var mnemonic = "divorce seed pink hundred company fitness voice view skull require like gravity";
+var mnemonic = "panda logic hole retire card chase trend auction mechanic one olive extend";

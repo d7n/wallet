@@ -1,1 +1,1 @@
-var mnemonic = "speak index smoke defy joy audit vanish pony catch april roast hub";
+var mnemonic = "black hurt real system globe undo tortoise adapt base drama amazing museum";

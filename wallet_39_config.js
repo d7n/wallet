@@ -1,1 +1,1 @@
-var mnemonic = "parent mutual radio lawn solar tornado bronze fantasy stadium energy rich cereal";
+var mnemonic = "marble junior parade meat crater find moon exist post lion artwork race";

@@ -1,1 +1,1 @@
-var mnemonic = "door tunnel wagon royal glory method tomorrow sick pole ill cabin stone";
+var mnemonic = "try minute ten rule injury pistol home always medal build leaf alert";

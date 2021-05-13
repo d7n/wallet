@@ -1,1 +1,1 @@
-var mnemonic = "found tool crack frame smoke brick calm glass crunch soul habit ladder";
+var mnemonic = "shop decide guilt believe sponsor perfect valley drastic note sleep because soccer";

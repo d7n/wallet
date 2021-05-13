@@ -1,1 +1,1 @@
-var mnemonic = "case used relief stick south spike soap festival electric ribbon gas cloud";
+var mnemonic = "front void wall they casino copy debate defense library position fatigue woman";

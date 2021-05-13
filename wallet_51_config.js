@@ -1,1 +1,1 @@
-var mnemonic = "vacant submit hazard squirrel planet regular modify piece love fine parade very";
+var mnemonic = "oval panda leg lake mesh lawn silver suggest annual manual earn undo";

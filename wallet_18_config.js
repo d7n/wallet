@@ -1,1 +1,1 @@
-var mnemonic = "inherit promote night need grid public kid miss space timber grocery candy";
+var mnemonic = "mouse deny model relief loop enemy beach fancy stay hamster horror truth";

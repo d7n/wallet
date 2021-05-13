@@ -1,1 +1,1 @@
-var mnemonic = "alert bounce walk crush chair super fox nerve marble oven between prevent";
+var mnemonic = "front balcony funny immune round image media mail hungry taste spawn napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "summer flame stereo lady giraffe rookie cricket announce island fragile language squirrel";
+var mnemonic = "index wish drip wonder trust control shaft pattern success debris yellow wrong";

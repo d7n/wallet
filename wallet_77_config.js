@@ -1,1 +1,1 @@
-var mnemonic = "drop oblige paddle program south aunt gallery street half miss action limb";
+var mnemonic = "cage luxury mercy citizen jungle cloth voice divide iron symbol fat horn";

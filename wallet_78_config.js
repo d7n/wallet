@@ -1,1 +1,1 @@
-var mnemonic = "reduce try iron quantum hammer rubber public city sudden true prosper click";
+var mnemonic = "zebra rice endless dirt list head skirt bounce sock mammal punch assume";

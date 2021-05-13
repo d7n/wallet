@@ -1,1 +1,1 @@
-var mnemonic = "leopard divorce offer dream perfect smoke jewel desk brush end alien mean";
+var mnemonic = "rival birth tourist photo spray term camera image acoustic carry oyster crawl";

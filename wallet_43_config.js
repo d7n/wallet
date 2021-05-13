@@ -1,1 +1,1 @@
-var mnemonic = "crime man asthma grant advance mean secret cattle forget desert length tape";
+var mnemonic = "north limit couch timber adjust poet public scout pilot truck habit rifle";
