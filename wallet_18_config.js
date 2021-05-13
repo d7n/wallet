@@ -1,1 +1,1 @@
-var mnemonic = "public steak home lunar loan nest mushroom wasp wreck notice proud turkey";
+var mnemonic = "flash envelope super supreme curious still silk wine sudden kite urban canyon";

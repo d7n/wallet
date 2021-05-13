@@ -1,1 +1,1 @@
-var mnemonic = "wool poem project lyrics face possible wink bar excuse another slide digital";
+var mnemonic = "rice safe evidence cement grain cup travel anxiety theory melody chief fly";

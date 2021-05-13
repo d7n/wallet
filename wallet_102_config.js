@@ -1,1 +1,1 @@
-var mnemonic = "entry bicycle lift decade polar silver ice century friend draw island remember";
+var mnemonic = "hockey myth trend age service myth family general rabbit write donkey void";

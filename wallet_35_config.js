@@ -1,1 +1,1 @@
-var mnemonic = "viable want foot again inhale abandon pistol tunnel quantum cinnamon invest food";
+var mnemonic = "glance express method strong hire upper toss pear acoustic metal sign hire";

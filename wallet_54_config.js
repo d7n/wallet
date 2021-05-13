@@ -1,1 +1,1 @@
-var mnemonic = "estate travel shove they melody bomb feel total object electric senior bring";
+var mnemonic = "merry gift favorite opera change unhappy chase fortune virtual answer series push";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange regret unfair plunge thought chronic moral ticket derive alarm job service";
+var mnemonic = "regular this please dolphin dragon used stand margin trip stuff govern stamp";

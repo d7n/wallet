@@ -1,1 +1,1 @@
-var mnemonic = "citizen viable coral garlic crawl grunt comfort hire gold bone sand unable";
+var mnemonic = "fun emotion vivid lecture velvet draw erosion grant conduct candy size like";

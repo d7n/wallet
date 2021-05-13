@@ -1,1 +1,1 @@
-var mnemonic = "they impose actual youth excess swamp brand tennis toddler siren town glimpse";
+var mnemonic = "stuff crystal below wreck marble present silly dismiss hybrid occur buyer shoe";

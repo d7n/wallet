@@ -1,1 +1,1 @@
-var mnemonic = "blanket shed indoor stuff kangaroo okay settle bread general brown diary weather";
+var mnemonic = "sting daughter school section suit scorpion soon romance involve excite chicken hold";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet vibrant auction slide priority stage abstract canvas dog elbow valve palace";
+var mnemonic = "accident chalk portion system addict aspect trial legal mad yard club stamp";

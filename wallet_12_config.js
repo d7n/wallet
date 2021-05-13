@@ -1,1 +1,1 @@
-var mnemonic = "unable recall arctic make turn immune oval catch visit flavor devote coffee";
+var mnemonic = "alarm torch mail again room trumpet photo collect gossip example fun frequent";

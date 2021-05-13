@@ -1,1 +1,1 @@
-var mnemonic = "example voyage capable regret history inject bar cash pulse profit blur confirm";
+var mnemonic = "knee trophy art blossom permit moment evidence again install wool cannon eye";

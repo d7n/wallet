@@ -1,1 +1,1 @@
-var mnemonic = "dad nominee verify message teach destroy pulse cliff dwarf wave legend roast";
+var mnemonic = "pyramid pottery yard whisper cat dwarf enlist age cabin index surge farm";

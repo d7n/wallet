@@ -1,1 +1,1 @@
-var mnemonic = "title artist extra skate exclude swarm material replace patch rally penalty enjoy";
+var mnemonic = "tube forward sock arm increase miss museum sausage random jeans easily illegal";

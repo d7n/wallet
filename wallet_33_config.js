@@ -1,1 +1,1 @@
-var mnemonic = "into sick venture prize project dish expire trash draw deal that tackle";
+var mnemonic = "toss escape loud lobster gap question hand sun dynamic reveal burger boat";

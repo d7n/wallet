@@ -1,1 +1,1 @@
-var mnemonic = "grocery become stomach inquiry castle weather math worry review balance pill laundry";
+var mnemonic = "cricket syrup hobby delay recycle repeat outside book horror exchange side dad";

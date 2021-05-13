@@ -1,1 +1,1 @@
-var mnemonic = "jump move force nuclear crawl radar monster repeat receive village blame window";
+var mnemonic = "vivid demise talent slam siren hint benefit merge auto wolf refuse wreck";

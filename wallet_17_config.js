@@ -1,1 +1,1 @@
-var mnemonic = "tonight organ purse organ diesel interest there balcony suggest sick another avoid";
+var mnemonic = "scheme search goose bridge shiver follow baby depth twin gauge connect tonight";

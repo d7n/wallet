@@ -1,1 +1,1 @@
-var mnemonic = "dawn choose winner pudding culture zero window cousin utility balance hawk merge";
+var mnemonic = "spider wage stamp valid spatial area own donkey illegal above track yellow";

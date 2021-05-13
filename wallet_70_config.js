@@ -1,1 +1,1 @@
-var mnemonic = "warm allow amount country afraid column pizza cluster wink spice normal alcohol";
+var mnemonic = "found concert circle wave cargo bone blossom bulb tiny mammal lady genius";

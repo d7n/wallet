@@ -1,1 +1,1 @@
-var mnemonic = "bike finger axis ecology leopard scrap shop must vendor bubble peasant federal";
+var mnemonic = "distance flock coconut vital bright plate jar wide leader party travel happy";

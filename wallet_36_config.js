@@ -1,1 +1,1 @@
-var mnemonic = "heart flee sudden absurd vibrant dry wing taste idea candy domain liar";
+var mnemonic = "pudding library tunnel west ten spend three abandon milk gauge seed team";

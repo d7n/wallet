@@ -1,1 +1,1 @@
-var mnemonic = "express tattoo connect gold annual inject sorry web absent famous you father";
+var mnemonic = "click blur nose quote present jungle cigar knee window fatigue kind bring";

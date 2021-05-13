@@ -1,1 +1,1 @@
-var mnemonic = "inmate chunk innocent velvet twelve special salmon absorb knock saddle cart inquiry";
+var mnemonic = "harbor person mail between blood alarm kid copy scrap park toilet ahead";

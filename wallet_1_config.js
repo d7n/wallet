@@ -1,1 +1,1 @@
-var mnemonic = "wedding bullet skate truth knock squirrel wet lemon satoshi kingdom system distance";
+var mnemonic = "negative mule vault park law major bid bring window poverty winner hazard";

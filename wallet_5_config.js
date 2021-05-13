@@ -1,1 +1,1 @@
-var mnemonic = "mercy toward bamboo visa put struggle unfair govern spoil describe mammal argue";
+var mnemonic = "mirror disagree cool rabbit domain estate yard mystery library omit sweet glad";

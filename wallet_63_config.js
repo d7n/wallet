@@ -1,1 +1,1 @@
-var mnemonic = "youth news actual rebel labor hair silly between alarm decrease rebel drill";
+var mnemonic = "trophy pipe blue perfect notice quiz rack culture soon boat milk pigeon";

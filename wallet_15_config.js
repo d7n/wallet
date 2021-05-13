@@ -1,1 +1,1 @@
-var mnemonic = "arctic screen tell solid venture nephew update endorse crystal worth version settle";
+var mnemonic = "fatal end fiber sight stadium kidney grow goddess wood glance cross enact";

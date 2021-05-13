@@ -1,1 +1,1 @@
-var mnemonic = "diamond rather slight supreme fan country surface capable strategy truly desert feel";
+var mnemonic = "agree recipe comfort project render palace multiply stem tonight miss remain defy";

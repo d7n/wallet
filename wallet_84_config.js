@@ -1,1 +1,1 @@
-var mnemonic = "lift close hunt pole inquiry almost fortune escape lucky capital street brother";
+var mnemonic = "cream truly horn allow next shift end earth motor board attend spread";

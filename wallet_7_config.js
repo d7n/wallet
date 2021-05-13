@@ -1,1 +1,1 @@
-var mnemonic = "truth robust knock life pudding welcome render hurdle arrange evil nephew cluster";
+var mnemonic = "basket celery sick bag purity wedding mesh roast inner rate purity profit";

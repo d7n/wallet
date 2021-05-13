@@ -1,1 +1,1 @@
-var mnemonic = "treat this hold latin blind uniform economy mimic bread lunar can special";
+var mnemonic = "useful jaguar dog collect gasp bean awake spoon false idle rally crystal";

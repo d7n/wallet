@@ -1,1 +1,1 @@
-var mnemonic = "delay region way deliver hero business arctic grocery glass trumpet bamboo cushion";
+var mnemonic = "swallow bus dynamic injury join craft rookie borrow umbrella use apple beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "border client initial upper man rather kit income moral zoo banner real";
+var mnemonic = "local stock cheap fire flat fix upon antique main top settle maid";

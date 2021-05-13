@@ -1,1 +1,1 @@
-var mnemonic = "attitude suit stage inside nest miracle bubble hurdle nice album rifle hurry";
+var mnemonic = "engage jewel ethics name obvious roast depend jelly pass faint stick dutch";

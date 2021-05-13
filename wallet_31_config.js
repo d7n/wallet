@@ -1,1 +1,1 @@
-var mnemonic = "unfair twenty agent ship dolphin fresh view select naive ahead quote hat";
+var mnemonic = "exhibit civil raccoon trim mind lucky innocent describe february party gauge refuse";

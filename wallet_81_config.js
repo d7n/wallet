@@ -1,1 +1,1 @@
-var mnemonic = "shed idea riot satoshi various float science work garage orchard caught tuition";
+var mnemonic = "symbol dog portion head eyebrow uphold metal gentle clarify wage will ecology";

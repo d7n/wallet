@@ -1,1 +1,1 @@
-var mnemonic = "stone guitar pioneer lazy theme drastic cousin ski hen category clay certain";
+var mnemonic = "develop message merry photo large palace brown cluster dose rude together net";

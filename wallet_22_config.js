@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo benefit response much page bottom slow clean clay above bid pretty";
+var mnemonic = "video naive unable clap position crowd brass embody shell tattoo canoe flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "embody twin bronze program vocal armed lounge noble hurry flag tattoo ring";
+var mnemonic = "tattoo shadow three slot minimum require note trim father seed desert cloud";

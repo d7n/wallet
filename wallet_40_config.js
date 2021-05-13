@@ -1,1 +1,1 @@
-var mnemonic = "reject memory drill remind food law seven pilot follow leg donate leg";
+var mnemonic = "below happy afraid friend secret secret aware similar glimpse enrich office useless";

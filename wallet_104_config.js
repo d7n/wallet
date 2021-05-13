@@ -1,1 +1,1 @@
-var mnemonic = "affair hidden unhappy earth planet coil arch give endless capable machine zoo";
+var mnemonic = "symptom brown photo expose begin sponsor decline bright spatial virus attract sword";

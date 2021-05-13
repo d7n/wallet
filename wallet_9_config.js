@@ -1,1 +1,1 @@
-var mnemonic = "toward funny nerve throw evolve discover avocado fringe weather movie reject cat";
+var mnemonic = "road trim absent quit violin injury major time isolate settle lunar retreat";

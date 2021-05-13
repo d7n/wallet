@@ -1,1 +1,1 @@
-var mnemonic = "husband legal aisle once monitor bag crumble window current inherit wall involve";
+var mnemonic = "sample fence owner december curious virtual purpose tuna frozen under empty wall";

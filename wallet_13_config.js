@@ -1,1 +1,1 @@
-var mnemonic = "wear traffic next ring depth lock entire rocket destroy scene brick child";
+var mnemonic = "exist curious bundle sheriff sword arrive hurdle mad diary because jeans enrich";

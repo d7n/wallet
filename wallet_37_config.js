@@ -1,1 +1,1 @@
-var mnemonic = "jungle humble whip stem very notable give rude afford brief wage amateur";
+var mnemonic = "sand skill olive bulk emotion winner adjust toilet olive excess fame cannon";

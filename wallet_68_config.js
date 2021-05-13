@@ -1,1 +1,1 @@
-var mnemonic = "illegal recall sense slight caution pencil tape concert cluster chicken neither pool";
+var mnemonic = "soon cabin video flee screen jaguar gather garbage worth patrol paddle finish";

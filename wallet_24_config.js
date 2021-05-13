@@ -1,1 +1,1 @@
-var mnemonic = "person direct regret vocal furnace squirrel process honey plastic autumn truth transfer";
+var mnemonic = "harvest heart rotate tumble valley legend winner arrive avoid arrest humble bind";

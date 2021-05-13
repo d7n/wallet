@@ -1,1 +1,1 @@
-var mnemonic = "inform faculty mix menu feed summer dance social elbow loan staff deny";
+var mnemonic = "snow garment toy super dirt nephew message head horn rifle document combine";

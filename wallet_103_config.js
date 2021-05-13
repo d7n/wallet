@@ -1,1 +1,1 @@
-var mnemonic = "shop nominee cruel census visa worry spend final horn sweet burst mango";
+var mnemonic = "frame nest drive jeans elegant antenna glad hub clown note legend merit";

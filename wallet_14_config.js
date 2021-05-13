@@ -1,1 +1,1 @@
-var mnemonic = "increase scan assault bar avoid gossip page direct figure mix love inch";
+var mnemonic = "secret there leaf ketchup install point excuse token certain innocent trap cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "seek aerobic total cherry satisfy wheat grass squirrel angle lunar window mimic";
+var mnemonic = "theme soap hard column jazz cycle urge clip catalog infant scare permit";

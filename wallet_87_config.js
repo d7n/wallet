@@ -1,1 +1,1 @@
-var mnemonic = "infant more faint upset biology crush cry guitar melody day minute long";
+var mnemonic = "mutual chapter cat venue prize omit oil pottery night begin next very";

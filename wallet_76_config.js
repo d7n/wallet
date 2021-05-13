@@ -1,1 +1,1 @@
-var mnemonic = "lady renew prosper axis camp canal poet visa fine sleep favorite addict";
+var mnemonic = "small adjust science salt muscle benefit boss hunt cave mechanic patrol hen";

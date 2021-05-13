@@ -1,1 +1,1 @@
-var mnemonic = "grit much suggest improve true coast wealth swap case lemon hour valley";
+var mnemonic = "evoke country nerve sting tornado sort industry prevent march once gossip glare";

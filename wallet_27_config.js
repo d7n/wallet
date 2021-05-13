@@ -1,1 +1,1 @@
-var mnemonic = "deal kind lion wrong lecture portion palace remain canyon dynamic unit cost";
+var mnemonic = "goat try intact excess ask garlic share daring aerobic wish income search";

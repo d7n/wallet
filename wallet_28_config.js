@@ -1,1 +1,1 @@
-var mnemonic = "dragon actor monster brisk crouch village reopen clean abandon shield dust rubber";
+var mnemonic = "best crew rack hurt outer clock tank satoshi dish project ancient unaware";

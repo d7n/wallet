@@ -1,1 +1,1 @@
-var mnemonic = "there grunt retire uncover purchase animal security toast feed alien broom lava";
+var mnemonic = "worth cry grunt heavy magic essence snake unique hand camp mimic canoe";

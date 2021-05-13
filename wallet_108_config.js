@@ -1,1 +1,1 @@
-var mnemonic = "exclude bus sunset tomato open isolate job seven museum vague menu recipe";
+var mnemonic = "security pipe convince response panther fade start route earth broken reopen lemon";

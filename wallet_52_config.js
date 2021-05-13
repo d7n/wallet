@@ -1,1 +1,1 @@
-var mnemonic = "include pole bottom harsh neglect fly settle goat insect spell use collect";
+var mnemonic = "plunge manage diet rule city render interest female average budget trash brass";

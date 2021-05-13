@@ -1,1 +1,1 @@
-var mnemonic = "butter turtle urge system miracle van excess quiz bone unfold awake brass";
+var mnemonic = "whip off perfect aspect pyramid voice battle diagram chuckle torch enemy filter";

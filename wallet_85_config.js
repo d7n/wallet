@@ -1,1 +1,1 @@
-var mnemonic = "message window rib rapid crumble night comic stadium metal trial despair cloth";
+var mnemonic = "visa order teach tail knock cheap ride feel glow town aspect surround";

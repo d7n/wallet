@@ -1,1 +1,1 @@
-var mnemonic = "increase embrace uncover cricket resource upon tower advice deliver theory federal bone";
+var mnemonic = "surge park fringe avoid cattle concert nose reject bar joke task force";

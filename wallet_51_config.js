@@ -1,1 +1,1 @@
-var mnemonic = "pear enroll zone later congress doctor grow pumpkin blast pelican quit charge";
+var mnemonic = "gloom gaze exchange account legend winner devote portion romance sword girl ordinary";

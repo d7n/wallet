@@ -1,1 +1,1 @@
-var mnemonic = "liar once peasant flavor mixture liar remain defy purpose broken couch neck";
+var mnemonic = "marriage cover sport silver bulk tribe music portion equal multiply six cricket";

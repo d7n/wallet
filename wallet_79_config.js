@@ -1,1 +1,1 @@
-var mnemonic = "culture medal original maid swift saddle impose anxiety call coin awkward horse";
+var mnemonic = "ugly time intact duck fabric cement piano poet prevent range trial note";

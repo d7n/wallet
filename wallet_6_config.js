@@ -1,1 +1,1 @@
-var mnemonic = "meat bachelor announce year burden gate liar urban tag fiber zone whip";
+var mnemonic = "host correct excite pipe affair mail breeze output fever local child elite";

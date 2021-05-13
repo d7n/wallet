@@ -1,1 +1,1 @@
-var mnemonic = "junk add copy grass future suffer priority crash whip west lift cabin";
+var mnemonic = "drill fiber flight flip grief parrot trim vicious culture guess ginger throw";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony visa struggle cry snap keen people split fun exclude share brand";
+var mnemonic = "library length cannon guide curve devote movie barrel field assault brother flat";

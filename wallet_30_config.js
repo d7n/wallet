@@ -1,1 +1,1 @@
-var mnemonic = "appear final select empower chicken napkin spin shop work bench garage document";
+var mnemonic = "own anxiety beef two general math win opinion present circle poem allow";

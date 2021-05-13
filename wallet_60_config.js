@@ -1,1 +1,1 @@
-var mnemonic = "consider heart arrest unveil burst session type snack fade betray nice nest";
+var mnemonic = "tell rotate scare six cereal giant elbow sugar draw pact below thought";

@@ -1,1 +1,1 @@
-var mnemonic = "truly sister tobacco during video tumble city fresh inform salmon fork stock";
+var mnemonic = "hurdle tunnel text veteran polar viable urban spoil grief solid dose track";

@@ -1,1 +1,1 @@
-var mnemonic = "defy embody north industry want fever ocean maze dry frog clean attitude";
+var mnemonic = "fuel inhale aim invest warm unit hen allow panel runway gym girl";

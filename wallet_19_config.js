@@ -1,1 +1,1 @@
-var mnemonic = "trim quarter glad chef tribe hip field witness clerk release naive fine";
+var mnemonic = "tackle quit bronze present fury index crumble able clock since venture merit";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle scrap mask orange midnight coach great help film human pilot reflect";
+var mnemonic = "island grab trust tell august obey reflect crawl sample solution spray bachelor";

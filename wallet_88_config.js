@@ -1,1 +1,1 @@
-var mnemonic = "pool judge security isolate carry basic improve erode alpha unfold swallow news";
+var mnemonic = "effort night possible potato sleep pitch play total mention bunker glance few";

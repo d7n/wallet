@@ -1,1 +1,1 @@
-var mnemonic = "zero butter level zebra adapt cherry together dial decline chase outer wet";
+var mnemonic = "display assist same solve chalk quick bachelor spoil target bargain gaze task";

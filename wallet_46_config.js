@@ -1,1 +1,1 @@
-var mnemonic = "false oxygen curious final angle fury daughter river input they zebra bacon";
+var mnemonic = "upon lonely swear luxury truck control deal mandate fitness rain alarm chaos";

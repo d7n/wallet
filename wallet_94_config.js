@@ -1,1 +1,1 @@
-var mnemonic = "man neutral usual remain monkey flower limb member crazy repeat inquiry axis";
+var mnemonic = "foster slam around reform ability atom awkward drift liberty absorb hover mandate";

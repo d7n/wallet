@@ -1,1 +1,1 @@
-var mnemonic = "letter march flee bird law doll clock modify bar also prosper will";
+var mnemonic = "cave brass acquire member sponsor stand dinosaur city lesson novel marine infant";

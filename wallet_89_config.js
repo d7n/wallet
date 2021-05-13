@@ -1,1 +1,1 @@
-var mnemonic = "enable omit away scorpion awkward gift crystal adapt deliver morning clever laptop";
+var mnemonic = "spread crowd subway deliver beauty receive describe cereal picture inner shaft top";

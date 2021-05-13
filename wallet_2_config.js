@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin decline fit asthma harvest pet clump airport coconut forum acquire picnic";
+var mnemonic = "torch reason produce alpha galaxy charge prison clown six copper nerve give";

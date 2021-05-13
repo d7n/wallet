@@ -1,1 +1,1 @@
-var mnemonic = "bronze village inherit frown during erase chalk patient hero tackle frost genius";
+var mnemonic = "vapor media soon melody robust critic repeat teach indicate flag dust index";

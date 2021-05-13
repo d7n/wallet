@@ -1,1 +1,1 @@
-var mnemonic = "behind mirror someone program trap gloom hard country problem useless broken music";
+var mnemonic = "obey engage hole deny denial flight topple remain despair venture chapter travel";

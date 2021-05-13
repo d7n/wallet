@@ -1,1 +1,1 @@
-var mnemonic = "relax coral vote legend friend churn rebuild urge split absent sun legal";
+var mnemonic = "decade pencil ten also again icon trap chair hurdle flavor chair curve";

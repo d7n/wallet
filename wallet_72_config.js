@@ -1,1 +1,1 @@
-var mnemonic = "young turkey talent business certain honey cart cigar myself soccer school credit";
+var mnemonic = "lunar tone afford sure head dad index scale fiscal ride train carbon";

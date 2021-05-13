@@ -1,1 +1,1 @@
-var mnemonic = "escape almost hood safe coast leaf tongue disagree box critic humor club";
+var mnemonic = "stage slice render hill citizen relief fame shoot assist kangaroo leisure sleep";

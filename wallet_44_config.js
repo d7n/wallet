@@ -1,1 +1,1 @@
-var mnemonic = "endorse safe expand reduce confirm magnet setup term arctic talk second umbrella";
+var mnemonic = "opinion noodle feel job exotic okay liberty demand dizzy transfer imitate poem";

@@ -1,1 +1,1 @@
-var mnemonic = "someone transfer twin picture enable dune divorce nominee razor crush body only";
+var mnemonic = "surge coconut crumble drift ghost mimic salt adult such dentist develop omit";

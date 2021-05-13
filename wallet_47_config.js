@@ -1,1 +1,1 @@
-var mnemonic = "cereal cloud slot shock invite garment umbrella all stuff spin humor object";
+var mnemonic = "power barrel cross debate fish sweet volcano fix grape sponsor frost series";

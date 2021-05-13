@@ -1,1 +1,1 @@
-var mnemonic = "call flock illness master expose dirt polar together invite point dismiss minor";
+var mnemonic = "legal whisper wrist husband arctic arrive popular ensure solar grunt hurt wood";

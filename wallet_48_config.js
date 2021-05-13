@@ -1,1 +1,1 @@
-var mnemonic = "already bicycle inquiry boost march pilot can another hedgehog dawn moon woman";
+var mnemonic = "length oyster dress improve sort yellow father metal solar alcohol link broccoli";

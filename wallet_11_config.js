@@ -1,1 +1,1 @@
-var mnemonic = "cement model off table episode shop gadget lunar eager region moment industry";
+var mnemonic = "guide badge tuna harvest among sick lumber always planet engage glow angle";

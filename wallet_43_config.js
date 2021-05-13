@@ -1,1 +1,1 @@
-var mnemonic = "guilt army about subject pig price afraid legend arm crime diagram believe";
+var mnemonic = "ostrich social express pistol slide put flip prepare elevator layer timber voyage";

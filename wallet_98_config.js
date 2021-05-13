@@ -1,1 +1,1 @@
-var mnemonic = "amount rally excuse prison track flock turkey olympic fury february upon solar";
+var mnemonic = "bacon draft elder balcony board loop ripple blossom you major claim public";

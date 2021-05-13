@@ -1,1 +1,1 @@
-var mnemonic = "dress cactus trend hard mixed immense refuse one share poem embark fee";
+var mnemonic = "brisk paddle arctic minimum knife menu rude smooth pencil rotate welcome pretty";

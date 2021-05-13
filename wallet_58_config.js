@@ -1,1 +1,1 @@
-var mnemonic = "wheel mountain jewel sail income sea tiny holiday rebuild blast absent else";
+var mnemonic = "above fade bind same clump rail exchange identify forward book capital tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "situate tiger media snack price rabbit emotion civil unique sentence obvious mean";
+var mnemonic = "resist sing lobster copper address mother talent moon agent aisle crawl tiny";

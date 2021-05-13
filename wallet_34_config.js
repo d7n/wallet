@@ -1,1 +1,1 @@
-var mnemonic = "second fiscal wine marriage usual custom review athlete explain erode sell toss";
+var mnemonic = "artwork multiply patient attack old grain attract acoustic dolphin hospital display knock";

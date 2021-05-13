@@ -1,1 +1,1 @@
-var mnemonic = "dish truly learn tragic crunch humor fashion juice guard elegant globe fury";
+var mnemonic = "auto safe lobster rapid defy fossil income elite worry wrap output turkey";
