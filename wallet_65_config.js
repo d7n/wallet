@@ -1,1 +1,1 @@
-var mnemonic = "news tower smoke rebuild special cost minor sunny fatigue betray bachelor eyebrow";
+var mnemonic = "phrase uncle double gown outer swing dirt comfort maximum render vital member";

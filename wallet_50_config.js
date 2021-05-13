@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin they tomorrow between thing exhibit salon crane army index chalk boost";
+var mnemonic = "dry helmet sister defense wolf trade deputy guilt cruel outer render farm";

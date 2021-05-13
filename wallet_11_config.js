@@ -1,1 +1,1 @@
-var mnemonic = "sick all cart jelly where box shoe hurt filter retreat pulse attract";
+var mnemonic = "main spoil crazy tattoo wealth planet industry dash crack novel glass tuition";

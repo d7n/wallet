@@ -1,1 +1,1 @@
-var mnemonic = "work insect uphold company bamboo result pulse pledge crane dish tube merry";
+var mnemonic = "stairs letter craft noble trash pride brass lucky rapid youth build smoke";

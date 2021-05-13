@@ -1,1 +1,1 @@
-var mnemonic = "note name mutual process visual talk crazy duty genius faculty pet owner";
+var mnemonic = "autumn embody palm blanket sphere pitch flash spy purchase tongue false path";

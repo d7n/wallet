@@ -1,1 +1,1 @@
-var mnemonic = "top monkey brass enhance flavor rather general stumble chest two tuna limb";
+var mnemonic = "exhaust what express tooth kiss bench car clump betray soft loud civil";

@@ -1,1 +1,1 @@
-var mnemonic = "potato sibling oyster wash load forum high gaze connect dust zone parent";
+var mnemonic = "later lock cushion drill resource world atom mother renew pattern mushroom mercy";

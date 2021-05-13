@@ -1,1 +1,1 @@
-var mnemonic = "auction elbow know twelve trigger piano million sport scan skirt museum round";
+var mnemonic = "fruit hole soon fiction ozone slide define fee edge link balcony possible";

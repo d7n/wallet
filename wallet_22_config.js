@@ -1,1 +1,1 @@
-var mnemonic = "alter transfer piano exchange balcony mix fence educate foil hello final margin";
+var mnemonic = "narrow segment neglect chef voyage happy extra taste square peanut digital filter";

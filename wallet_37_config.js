@@ -1,1 +1,1 @@
-var mnemonic = "spoil borrow scatter beauty health vote spoon defy modify pause erode genre";
+var mnemonic = "obvious grace boss know girl isolate park bring habit senior obscure actual";

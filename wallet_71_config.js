@@ -1,1 +1,1 @@
-var mnemonic = "cage chest gorilla calm merry direct surprise trick child flat craft owner";
+var mnemonic = "gold pig buddy banner mushroom dad fatigue odor bundle clutch leader soft";

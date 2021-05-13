@@ -1,1 +1,1 @@
-var mnemonic = "egg ketchup toward defense ski retreat amused thing lift cool resist trash";
+var mnemonic = "morning ranch matter pulse cover only hand seven someone casino walk round";

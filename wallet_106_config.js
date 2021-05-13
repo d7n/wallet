@@ -1,1 +1,1 @@
-var mnemonic = "embody what cargo elder portion iron excite cruise orchard property coconut order";
+var mnemonic = "army document sadness opinion similar pelican envelope detail fire album rifle capable";

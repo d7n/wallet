@@ -1,1 +1,1 @@
-var mnemonic = "fee switch link bird dynamic luggage smoke chimney valve become illness aspect";
+var mnemonic = "palace tank analyst shock relax flag saddle box forest transfer subject ball";

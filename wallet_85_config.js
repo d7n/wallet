@@ -1,1 +1,1 @@
-var mnemonic = "drive mass travel room text decrease major task abstract phrase pattern film";
+var mnemonic = "scale industry mandate saddle invest crack smoke blue lady alert picnic forget";

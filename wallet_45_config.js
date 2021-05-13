@@ -1,1 +1,1 @@
-var mnemonic = "dwarf sea guitar gold cruel original tone escape shock betray retreat upgrade";
+var mnemonic = "journey cradle solar swift dawn oblige pink inside flip rifle stay moment";

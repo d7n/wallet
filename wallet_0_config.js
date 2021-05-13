@@ -1,1 +1,1 @@
-var mnemonic = "replace easy latin science chaos myth praise admit concert wild crystal dentist";
+var mnemonic = "curve regret warm chest carpet inside security inner street link junk rack";

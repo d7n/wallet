@@ -1,1 +1,1 @@
-var mnemonic = "upset embody tourist identify around nuclear digital lucky rubber three broccoli program";
+var mnemonic = "shock fly box brick post hurdle bulk muscle lawsuit valve again rose";

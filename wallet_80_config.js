@@ -1,1 +1,1 @@
-var mnemonic = "cook burst general globe celery squeeze put slogan barely mix riot famous";
+var mnemonic = "stumble oblige surge try prepare afraid east tray neutral heart wild cram";

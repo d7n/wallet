@@ -1,1 +1,1 @@
-var mnemonic = "local more blood body sock endless ethics false turtle humor gloom cover";
+var mnemonic = "awesome recycle keep decline hedgehog way blouse despair rate scheme mean ridge";

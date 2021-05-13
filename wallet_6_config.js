@@ -1,1 +1,1 @@
-var mnemonic = "distance sight monster hazard spike quantum material battle sight icon face lumber";
+var mnemonic = "verify shallow cliff pigeon task little kingdom improve start hunt plate fish";

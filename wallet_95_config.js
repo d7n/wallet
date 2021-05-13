@@ -1,1 +1,1 @@
-var mnemonic = "twice knock brother junk emerge road awake patch girl fame buzz accuse";
+var mnemonic = "piece left federal process wheat kit finish demand utility region produce stand";

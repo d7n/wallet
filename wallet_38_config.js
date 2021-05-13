@@ -1,1 +1,1 @@
-var mnemonic = "space tool solution bundle nasty horn twelve situate identify enroll indoor option";
+var mnemonic = "attend exit clutch subway move husband october zone series sadness absurd hobby";

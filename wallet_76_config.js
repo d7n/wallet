@@ -1,1 +1,1 @@
-var mnemonic = "useful hat snake crisp brush melt trim fee ask gospel else pigeon";
+var mnemonic = "decline banner robot upgrade spy original embody coil dirt music enter regret";

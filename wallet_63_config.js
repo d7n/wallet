@@ -1,1 +1,1 @@
-var mnemonic = "million swing heart explain stock shadow pistol owner shallow assist summer odor";
+var mnemonic = "member sugar seat oven category village disorder wasp shiver finish risk country";

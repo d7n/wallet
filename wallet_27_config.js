@@ -1,1 +1,1 @@
-var mnemonic = "tree sugar bleak rally swamp kitten shoot crush bicycle way steel scheme";
+var mnemonic = "giant jump tornado muscle photo during rent modify muscle grid school divert";

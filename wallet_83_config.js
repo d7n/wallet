@@ -1,1 +1,1 @@
-var mnemonic = "leisure profit devote open bag enhance evidence robust aisle coyote voice fork";
+var mnemonic = "squirrel toast fabric multiply gossip maximum lemon reveal curious zone bubble fever";

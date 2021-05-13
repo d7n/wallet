@@ -1,1 +1,1 @@
-var mnemonic = "special system extra summer demise make elevator demise canyon gaze universe board";
+var mnemonic = "access basket beach tongue network only earth present token receive inhale tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom camera share invest swamp pet aerobic cable scheme poverty reason thrive";
+var mnemonic = "predict minor include neglect enable grass dawn hello icon add praise sight";

@@ -1,1 +1,1 @@
-var mnemonic = "danger tragic peace huge blossom dragon copy cage skin scale emerge street";
+var mnemonic = "sugar into enact half cruise large monitor drip remember laptop release drip";

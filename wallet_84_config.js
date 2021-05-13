@@ -1,1 +1,1 @@
-var mnemonic = "indoor squeeze test elephant tiger purse large where distance evolve matter weapon";
+var mnemonic = "cattle brain snake roof slab extend flat rare fatigue giant subway sword";

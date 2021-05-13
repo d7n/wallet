@@ -1,1 +1,1 @@
-var mnemonic = "sign able kite social blue dismiss over worth rotate mother small subway";
+var mnemonic = "cheap buyer army ghost food room alcohol cube regular gospel cargo name";

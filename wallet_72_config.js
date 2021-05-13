@@ -1,1 +1,1 @@
-var mnemonic = "eye direct impulse giant ozone topic flame talk useful one fluid erupt";
+var mnemonic = "bracket auto primary post oblige ten mountain color depth feature area frog";

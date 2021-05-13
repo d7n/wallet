@@ -1,1 +1,1 @@
-var mnemonic = "fatal step network possible tray round theory alter term length defy situate";
+var mnemonic = "crunch seven clown van sugar settle young umbrella seven turkey once eye";

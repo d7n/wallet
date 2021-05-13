@@ -1,1 +1,1 @@
-var mnemonic = "laptop guard pear bunker february inflict twelve future cheap example disagree asset";
+var mnemonic = "shiver quick school marine crop wealth extra midnight ozone egg hope black";

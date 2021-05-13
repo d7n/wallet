@@ -1,1 +1,1 @@
-var mnemonic = "burden huge half exotic few okay build actor wreck table tuition rural";
+var mnemonic = "tomorrow blanket march doll toe icon perfect crash planet fossil divide video";

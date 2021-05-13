@@ -1,1 +1,1 @@
-var mnemonic = "then use reunion blanket student emerge ankle chair mammal proof syrup auto";
+var mnemonic = "caution list maid industry kidney orange admit warm enforce pony buzz trust";

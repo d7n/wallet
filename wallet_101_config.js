@@ -1,1 +1,1 @@
-var mnemonic = "satisfy power panel manage wool crystal rather fly credit skull extend wood";
+var mnemonic = "possible leg seven hire label exclude wrap thunder over turtle convince rotate";

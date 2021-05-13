@@ -1,1 +1,1 @@
-var mnemonic = "shy combine hockey tattoo abstract mammal way phone approve parent life grief";
+var mnemonic = "file burger improve gravity bracket patient bean wave tomorrow stone settle uphold";

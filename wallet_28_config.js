@@ -1,1 +1,1 @@
-var mnemonic = "inner act hazard drastic lake ride feature inner patch crane traffic hello";
+var mnemonic = "cause middle hold burger six blast share blame unfold trumpet clutch until";

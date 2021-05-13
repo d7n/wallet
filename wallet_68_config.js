@@ -1,1 +1,1 @@
-var mnemonic = "kind record skin hurry coral repeat hope kite lab razor endless easily";
+var mnemonic = "employ because elegant long visa border expand ride hurry exercise love govern";

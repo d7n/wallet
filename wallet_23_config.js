@@ -1,1 +1,1 @@
-var mnemonic = "vessel shiver mirror page rely family leader fox panda fortune erode squirrel";
+var mnemonic = "burden desert snow just fashion manual goddess uncover arch seek license glue";

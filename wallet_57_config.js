@@ -1,1 +1,1 @@
-var mnemonic = "whale another bamboo guess click nature sphere tattoo define ocean horse history";
+var mnemonic = "acquire broken witness horse upper more stadium alter virus scene double cart";

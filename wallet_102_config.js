@@ -1,1 +1,1 @@
-var mnemonic = "home feel guitar bottom barely orphan fragile noodle crisp gaze bird ripple";
+var mnemonic = "because rent exit unaware grace roast gasp brush curve wagon december ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "during stuff shoot episode sound segment december easy gather fun source motion";
+var mnemonic = "safe cart kick almost family forget payment plug robot word away eyebrow";

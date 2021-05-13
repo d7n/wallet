@@ -1,1 +1,1 @@
-var mnemonic = "immense few surface middle airport utility fantasy warm crawl ski random room";
+var mnemonic = "lonely output skate half document analyst much tell menu give dilemma grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset right upon planet moon smoke liar feature element thank end extra";
+var mnemonic = "lecture glory must collect permit vehicle claw pause inner result appear pluck";

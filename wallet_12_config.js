@@ -1,1 +1,1 @@
-var mnemonic = "keep exhaust shop roof boost expose prefer avoid exercise copper avoid knife";
+var mnemonic = "act topple ramp dwarf impact upgrade jungle merit shaft west blast recycle";

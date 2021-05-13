@@ -1,1 +1,1 @@
-var mnemonic = "true shove sponsor moment test galaxy route job when sort kit naive";
+var mnemonic = "expand screen expire way lens video grass tray emotion swallow tissue excuse";

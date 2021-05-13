@@ -1,1 +1,1 @@
-var mnemonic = "put canal sting delay february govern puppy fiscal strike vital adult photo";
+var mnemonic = "clinic power basket planet grocery keen news arm spy flush middle owner";

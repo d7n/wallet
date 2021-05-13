@@ -1,1 +1,1 @@
-var mnemonic = "paper brand token crush into carbon exclude escape dress tide entry cotton";
+var mnemonic = "shine upon fame decline glory borrow game battle undo weather offer fragile";

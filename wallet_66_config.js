@@ -1,1 +1,1 @@
-var mnemonic = "hire certain primary forget black poet welcome bronze begin sphere april sudden";
+var mnemonic = "bronze exist ripple bulb suspect grass false stumble laundry pistol vacant august";

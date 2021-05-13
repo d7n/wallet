@@ -1,1 +1,1 @@
-var mnemonic = "casino elevator two bronze price ancient ethics table door brush defense civil";
+var mnemonic = "timber seven arena display crawl leg twin various blast taste kiwi glow";

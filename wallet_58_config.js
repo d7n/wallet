@@ -1,1 +1,1 @@
-var mnemonic = "trick fuel garlic room high joy spoon toast ocean net inquiry vanish";
+var mnemonic = "achieve repair pretty truck output loud portion very gesture present glide giraffe";

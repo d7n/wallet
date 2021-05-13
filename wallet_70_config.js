@@ -1,1 +1,1 @@
-var mnemonic = "hill task female elbow leader farm hedgehog march soon female party spider";
+var mnemonic = "intact february patch inform bird boring time flag march beach win beyond";

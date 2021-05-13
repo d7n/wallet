@@ -1,1 +1,1 @@
-var mnemonic = "vessel water output arm expire shallow return canoe grace lonely arrow hurry";
+var mnemonic = "alien link letter wheat secret dust buddy poet control edit void kitten";

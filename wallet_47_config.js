@@ -1,1 +1,1 @@
-var mnemonic = "quiz ask write fortune test author reduce guard kiss blanket process keep";
+var mnemonic = "that cousin smoke salad glow theory anger unfair puppy plug album solid";

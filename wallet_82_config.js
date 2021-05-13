@@ -1,1 +1,1 @@
-var mnemonic = "math eight drink night donate great parrot delay disorder critic sea giggle";
+var mnemonic = "sense space art awake pudding beach govern hedgehog people gasp front beef";

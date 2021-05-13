@@ -1,1 +1,1 @@
-var mnemonic = "equal gasp expand turtle find chapter post twice fabric fruit frozen address";
+var mnemonic = "seek rose mix sport broken sustain rich grid shy dance trophy eyebrow";

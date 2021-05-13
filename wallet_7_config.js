@@ -1,1 +1,1 @@
-var mnemonic = "ripple perfect taxi push chalk urban light boring actual mandate song neck";
+var mnemonic = "ecology quarter busy evoke normal nose system alone tumble marine shuffle control";

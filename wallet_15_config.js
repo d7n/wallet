@@ -1,1 +1,1 @@
-var mnemonic = "harvest left boost witness evolve fringe category crystal thunder obey imitate soldier";
+var mnemonic = "glad lens hat easily pumpkin iron derive inch fatigue extend pride length";

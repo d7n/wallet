@@ -1,1 +1,1 @@
-var mnemonic = "monkey toddler gorilla south rail copper doll pen boat ticket news pledge";
+var mnemonic = "payment citizen purity vintage dove swarm save isolate estate feel today quality";

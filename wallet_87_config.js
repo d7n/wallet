@@ -1,1 +1,1 @@
-var mnemonic = "apart token utility mobile where excess energy hover icon stereo clarify jealous";
+var mnemonic = "economy learn try broom wife desk medal damage female fortune fatal frequent";

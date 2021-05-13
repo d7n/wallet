@@ -1,1 +1,1 @@
-var mnemonic = "tail awake family involve citizen sentence monitor gallery copy session desert relief";
+var mnemonic = "similar flame deal gravity flock tackle jeans foster fragile damage task diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "capital radar arch tissue glass camp garbage oven void inspire metal detail";
+var mnemonic = "initial card cage usage scan motor raven fit fiber own team room";

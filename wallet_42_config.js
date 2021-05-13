@@ -1,1 +1,1 @@
-var mnemonic = "quality ankle piece wife initial loop card brother smart slender warm cancel";
+var mnemonic = "good attack toilet bachelor fit trade swift edit gas index garage farm";

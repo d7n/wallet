@@ -1,1 +1,1 @@
-var mnemonic = "wrap grocery novel over stove artist miss south skill puppy ladder speak";
+var mnemonic = "deal betray use sheriff armor rice call host marriage height trick life";

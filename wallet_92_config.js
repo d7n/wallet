@@ -1,1 +1,1 @@
-var mnemonic = "idle right antenna bounce invite view future swallow finger satisfy inquiry crush";
+var mnemonic = "blade fancy garbage law unlock bar tube story bar flock super thing";

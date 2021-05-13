@@ -1,1 +1,1 @@
-var mnemonic = "host length proud adult decline chronic resource glory empty devote fiber online";
+var mnemonic = "false border toast alarm cousin ecology distance observe order release pulse resist";

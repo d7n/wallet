@@ -1,1 +1,1 @@
-var mnemonic = "wolf dial delay coral recycle casino hollow report diamond lion rug flag";
+var mnemonic = "online december wool comfort minor unfair neck piano rose border indoor stick";

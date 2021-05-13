@@ -1,1 +1,1 @@
-var mnemonic = "predict also meadow country number mutual seat shuffle pave pigeon pipe beauty";
+var mnemonic = "number elegant cricket wise pyramid volume patrol abuse cannon sample embark furnace";

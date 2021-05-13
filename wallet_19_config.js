@@ -1,1 +1,1 @@
-var mnemonic = "pluck extend index ozone prosper north grace foil mass wall camera position";
+var mnemonic = "proud crawl sting cliff drive desk fox slot ahead actual celery trophy";

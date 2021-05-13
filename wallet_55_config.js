@@ -1,1 +1,1 @@
-var mnemonic = "notable tail lizard where ride concert tackle acoustic whip issue sense nerve";
+var mnemonic = "improve define glimpse notable position apology say ghost address rare boss add";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge cage offer peasant doctor witness soap share spider emotion globe immune";
+var mnemonic = "control hybrid track notice crack easy wise wish family casino real again";

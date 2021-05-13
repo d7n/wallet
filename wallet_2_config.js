@@ -1,1 +1,1 @@
-var mnemonic = "route predict little aim girl mobile joy adapt sail flush lava market";
+var mnemonic = "world number dry pulp monitor member female car abuse text exist boil";

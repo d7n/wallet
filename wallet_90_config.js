@@ -1,1 +1,1 @@
-var mnemonic = "flash roof congress cause capital guard viable cluster airport wire organ spirit";
+var mnemonic = "ketchup soap nephew summer ghost thank away impose worth sausage media lava";

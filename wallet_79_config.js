@@ -1,1 +1,1 @@
-var mnemonic = "quantum include coconut equip hood interest nose awesome attract oven planet know";
+var mnemonic = "grow hurt custom proud judge enforce clock car rule clap unable apology";

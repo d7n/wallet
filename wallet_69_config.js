@@ -1,1 +1,1 @@
-var mnemonic = "stomach crucial timber grass believe card junior glue profit salute faint spoon";
+var mnemonic = "shuffle core sing include mule illness jeans balcony shield simple panic pact";

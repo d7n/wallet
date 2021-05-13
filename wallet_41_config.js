@@ -1,1 +1,1 @@
-var mnemonic = "fork raccoon camp boat fog mind chimney parade train cool pizza treat";
+var mnemonic = "woman dismiss silly maximum nephew wing sister case atom spike night width";

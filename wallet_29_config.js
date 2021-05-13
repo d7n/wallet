@@ -1,1 +1,1 @@
-var mnemonic = "board puppy friend ritual ranch tube exist tattoo wash trip bleak paper";
+var mnemonic = "game demise label virtual work wink pencil inner absent choice depth blue";

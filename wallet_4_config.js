@@ -1,1 +1,1 @@
-var mnemonic = "blast unique hover despair tide drink solar trick update side loud scale";
+var mnemonic = "useful betray wife elegant fire body sheriff speak inherit release wrestle priority";

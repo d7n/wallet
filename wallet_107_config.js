@@ -1,1 +1,1 @@
-var mnemonic = "ten pupil include urge walk muffin jungle machine lecture clown duty wonder";
+var mnemonic = "reveal wonder parrot pink input lava absorb derive album bronze robust agent";

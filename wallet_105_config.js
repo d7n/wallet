@@ -1,1 +1,1 @@
-var mnemonic = "easily sunset dignity square indoor final doll avoid hire universe extend amount";
+var mnemonic = "buddy second master ivory unique modify clay priority teach vicious pave stool";

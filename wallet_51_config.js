@@ -1,1 +1,1 @@
-var mnemonic = "this indicate imitate poet trial someone knife absent cupboard wet because fatal";
+var mnemonic = "pair marble atom street flash sauce before abandon sausage assist pause announce";

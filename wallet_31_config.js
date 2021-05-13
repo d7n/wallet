@@ -1,1 +1,1 @@
-var mnemonic = "reject accident slot medal announce solid axis art pelican easily craft feed";
+var mnemonic = "myself discover ticket bulb error yard cattle shock manage hip rose fiber";

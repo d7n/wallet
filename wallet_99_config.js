@@ -1,1 +1,1 @@
-var mnemonic = "bind divide appear script gravity split nerve shock bottom clap first peanut";
+var mnemonic = "enhance swing wide nest ancient scout donate balcony atom chicken tissue plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze actress total sound ready talk tissue twin street curious sense profit";
+var mnemonic = "sense uphold invest term pupil melody album summer clean sunset erase outside";

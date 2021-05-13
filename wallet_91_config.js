@@ -1,1 +1,1 @@
-var mnemonic = "enroll surround grain penalty enforce brand chase hip machine shallow absorb dress";
+var mnemonic = "omit absorb diesel switch number south push fetch soldier sport hub turtle";

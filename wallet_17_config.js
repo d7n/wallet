@@ -1,1 +1,1 @@
-var mnemonic = "eagle abstract toast own boy depth main describe sugar debris pizza bind";
+var mnemonic = "erode gold parent buyer spring dust elevator radio arm equip time fun";

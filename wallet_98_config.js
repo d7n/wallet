@@ -1,1 +1,1 @@
-var mnemonic = "fall myself deliver gallery error swear trim remove kick link decade empty";
+var mnemonic = "ankle key better vocal venue jeans idle one essay flock carry century";

@@ -1,1 +1,1 @@
-var mnemonic = "flip filter happy high confirm ability phrase clean globe develop oxygen observe";
+var mnemonic = "approve pledge vocal opinion enrich income degree sweet deer embrace sorry idea";

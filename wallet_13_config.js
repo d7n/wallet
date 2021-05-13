@@ -1,1 +1,1 @@
-var mnemonic = "health smoke fun maze setup usual dolphin switch word spoon hour acoustic";
+var mnemonic = "industry kingdom guitar idle artwork relax high poet stick ready priority wisdom";
