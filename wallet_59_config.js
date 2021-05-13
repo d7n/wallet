@@ -1,1 +1,1 @@
-var mnemonic = "click blur nose quote present jungle cigar knee window fatigue kind bring";
+var mnemonic = "pear monster retire stable arrow glue chuckle travel other shrug furnace shrug";

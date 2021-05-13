@@ -1,1 +1,1 @@
-var mnemonic = "host correct excite pipe affair mail breeze output fever local child elite";
+var mnemonic = "album between civil coil summer reunion enhance express fine music have inhale";

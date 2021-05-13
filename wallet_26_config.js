@@ -1,1 +1,1 @@
-var mnemonic = "island grab trust tell august obey reflect crawl sample solution spray bachelor";
+var mnemonic = "bundle attend enforce air song another raven lecture stone define cute order";

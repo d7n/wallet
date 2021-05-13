@@ -1,1 +1,1 @@
-var mnemonic = "mutual chapter cat venue prize omit oil pottery night begin next very";
+var mnemonic = "fall jacket favorite basket bean ivory arch vanish source mango eyebrow mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "shock scrap sudden ask few goose shock boy hundred learn swarm hire";
+var mnemonic = "evil antenna two parade ignore grow lemon siege metal undo result release";

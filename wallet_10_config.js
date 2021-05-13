@@ -1,1 +1,1 @@
-var mnemonic = "fuel inhale aim invest warm unit hen allow panel runway gym girl";
+var mnemonic = "wheel test primary inspire pony kangaroo limb toward rug tomorrow mention repeat";

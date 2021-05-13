@@ -1,1 +1,1 @@
-var mnemonic = "useful jaguar dog collect gasp bean awake spoon false idle rally crystal";
+var mnemonic = "sausage cotton seat harsh cook spoon blue joy machine extra select utility";

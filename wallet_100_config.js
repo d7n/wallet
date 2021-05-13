@@ -1,1 +1,1 @@
-var mnemonic = "swallow bus dynamic injury join craft rookie borrow umbrella use apple beauty";
+var mnemonic = "purchase mention step seek own endorse cricket pupil place tray paper head";

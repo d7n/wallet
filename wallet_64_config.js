@@ -1,1 +1,1 @@
-var mnemonic = "wife visual banner damp pottery network oven exercise animal frozen group impose";
+var mnemonic = "suspect soldier canal plug scan flag blast foot scorpion predict stable answer";

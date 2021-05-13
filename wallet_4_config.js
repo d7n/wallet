@@ -1,1 +1,1 @@
-var mnemonic = "fun emotion vivid lecture velvet draw erosion grant conduct candy size like";
+var mnemonic = "exile urge home hurt august above soup hint hint hip edge arch";

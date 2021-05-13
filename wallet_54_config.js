@@ -1,1 +1,1 @@
-var mnemonic = "merry gift favorite opera change unhappy chase fortune virtual answer series push";
+var mnemonic = "tail silver utility bacon either lend sister hood sleep leave absorb online";

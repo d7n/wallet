@@ -1,1 +1,1 @@
-var mnemonic = "obey engage hole deny denial flight topple remain despair venture chapter travel";
+var mnemonic = "stand around retire seat shield razor marine prepare purpose collect potato real";

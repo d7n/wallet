@@ -1,1 +1,1 @@
-var mnemonic = "worth cry grunt heavy magic essence snake unique hand camp mimic canoe";
+var mnemonic = "other merry tiny one hill mutual vicious sibling carpet arrow into frown";

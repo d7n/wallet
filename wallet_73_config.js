@@ -1,1 +1,1 @@
-var mnemonic = "drill fiber flight flip grief parrot trim vicious culture guess ginger throw";
+var mnemonic = "square roof fossil actor search program tuition laugh usage replace swing noble";

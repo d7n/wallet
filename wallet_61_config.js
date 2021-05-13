@@ -1,1 +1,1 @@
-var mnemonic = "stage slice render hill citizen relief fame shoot assist kangaroo leisure sleep";
+var mnemonic = "tornado tornado journey bid always depend pupil acid final pistol flag web";

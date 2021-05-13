@@ -1,1 +1,1 @@
-var mnemonic = "glance express method strong hire upper toss pear acoustic metal sign hire";
+var mnemonic = "grow gate mail exist office insane recipe void crater weapon damage maze";

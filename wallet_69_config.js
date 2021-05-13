@@ -1,1 +1,1 @@
-var mnemonic = "mesh frozen puzzle venue ice bracket disease token nasty upper arrive salute";
+var mnemonic = "soap usage toe glare enact reward bacon isolate paddle lunch quarter extra";

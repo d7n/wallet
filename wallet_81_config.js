@@ -1,1 +1,1 @@
-var mnemonic = "symbol dog portion head eyebrow uphold metal gentle clarify wage will ecology";
+var mnemonic = "sample blame truly crazy also play much tilt bulk cigar catalog hour";

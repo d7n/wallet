@@ -1,1 +1,1 @@
-var mnemonic = "vivid demise talent slam siren hint benefit merge auto wolf refuse wreck";
+var mnemonic = "glare staff forest portion area claim first model opinion hover firm hair";

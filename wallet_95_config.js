@@ -1,1 +1,1 @@
-var mnemonic = "stuff crystal below wreck marble present silly dismiss hybrid occur buyer shoe";
+var mnemonic = "repeat fix expose bless shed exile spot cannon myth rhythm awkward chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "foster slam around reform ability atom awkward drift liberty absorb hover mandate";
+var mnemonic = "pair need upset electric injury relax gain blue else find deny gather";

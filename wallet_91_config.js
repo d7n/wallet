@@ -1,1 +1,1 @@
-var mnemonic = "veteran lottery cupboard stuff again width mule later math fitness old oval";
+var mnemonic = "security orange enough banana coyote merit small price caught mix draft step";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket syrup hobby delay recycle repeat outside book horror exchange side dad";
+var mnemonic = "evoke hero setup already hotel robust gather jungle forward grid road hundred";

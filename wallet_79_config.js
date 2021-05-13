@@ -1,1 +1,1 @@
-var mnemonic = "ugly time intact duck fabric cement piano poet prevent range trial note";
+var mnemonic = "lunar fork raw improve mercy blast category elder question lock badge claim";

@@ -1,1 +1,1 @@
-var mnemonic = "whip off perfect aspect pyramid voice battle diagram chuckle torch enemy filter";
+var mnemonic = "rude drama episode open multiply angry valid sample velvet annual strike prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar tone afford sure head dad index scale fiscal ride train carbon";
+var mnemonic = "garment thumb slim umbrella ugly arrest mask lizard eagle brain diesel sight";

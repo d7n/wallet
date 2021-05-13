@@ -1,1 +1,1 @@
-var mnemonic = "distance flock coconut vital bright plate jar wide leader party travel happy";
+var mnemonic = "avocado sound ordinary swift employ coconut fiscal term mixture budget method lava";

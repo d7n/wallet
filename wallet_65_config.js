@@ -1,1 +1,1 @@
-var mnemonic = "surge coconut crumble drift ghost mimic salt adult such dentist develop omit";
+var mnemonic = "focus kid mercy two swim relax fee float goddess history kick pipe";

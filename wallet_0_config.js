@@ -1,1 +1,1 @@
-var mnemonic = "brisk paddle arctic minimum knife menu rude smooth pencil rotate welcome pretty";
+var mnemonic = "wet gain cinnamon acid october spring differ window certain humble afraid acquire";

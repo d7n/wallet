@@ -1,1 +1,1 @@
-var mnemonic = "goat try intact excess ask garlic share daring aerobic wish income search";
+var mnemonic = "easy broom prize song frown snow tilt note gentle huge drum maid";

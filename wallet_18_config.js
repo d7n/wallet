@@ -1,1 +1,1 @@
-var mnemonic = "flash envelope super supreme curious still silk wine sudden kite urban canyon";
+var mnemonic = "month fame avoid catalog lonely praise husband flush abuse match next such";

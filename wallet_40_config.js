@@ -1,1 +1,1 @@
-var mnemonic = "below happy afraid friend secret secret aware similar glimpse enrich office useless";
+var mnemonic = "art radar skin silly recall theme notable ethics remember shoulder quality have";

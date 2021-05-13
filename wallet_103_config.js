@@ -1,1 +1,1 @@
-var mnemonic = "frame nest drive jeans elegant antenna glad hub clown note legend merit";
+var mnemonic = "slide aisle chest degree diary offer venture random when sense evolve skirt";

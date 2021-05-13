@@ -1,1 +1,1 @@
-var mnemonic = "tackle quit bronze present fury index crumble able clock since venture merit";
+var mnemonic = "color assist gap canoe business coyote second cupboard scrap disorder average orange";

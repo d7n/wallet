@@ -1,1 +1,1 @@
-var mnemonic = "gloom gaze exchange account legend winner devote portion romance sword girl ordinary";
+var mnemonic = "physical tiny invest visa interest gentle damage raise bargain marine leopard ignore";

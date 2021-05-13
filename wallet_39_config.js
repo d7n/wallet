@@ -1,1 +1,1 @@
-var mnemonic = "marriage cover sport silver bulk tribe music portion equal multiply six cricket";
+var mnemonic = "aim liar antenna sound length entire engage neck kitchen giraffe general aim";

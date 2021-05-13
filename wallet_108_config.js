@@ -1,1 +1,1 @@
-var mnemonic = "security pipe convince response panther fade start route earth broken reopen lemon";
+var mnemonic = "photo prison hazard body wave shield type wrong three cradle diamond topple";

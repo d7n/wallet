@@ -1,1 +1,1 @@
-var mnemonic = "theme soap hard column jazz cycle urge clip catalog infant scare permit";
+var mnemonic = "stumble violin cup empower victory satoshi disagree eager embody pull carbon main";

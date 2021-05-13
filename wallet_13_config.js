@@ -1,1 +1,1 @@
-var mnemonic = "exist curious bundle sheriff sword arrive hurdle mad diary because jeans enrich";
+var mnemonic = "mercy pink expect peasant turtle all deer bonus upset that real orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "auto safe lobster rapid defy fossil income elite worry wrap output turkey";
+var mnemonic = "unaware delay sorry write human initial junk state prosper explain donkey kiwi";

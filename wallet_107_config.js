@@ -1,1 +1,1 @@
-var mnemonic = "tube forward sock arm increase miss museum sausage random jeans easily illegal";
+var mnemonic = "cotton menu payment rather weekend slot december noise shuffle trial defense finger";

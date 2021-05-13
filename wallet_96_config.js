@@ -1,1 +1,1 @@
-var mnemonic = "behave play have abstract consider rich tilt piano small coin loud fat";
+var mnemonic = "animal dilemma please wild wisdom taxi rely salute dizzy flag absurd assist";

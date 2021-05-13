@@ -1,1 +1,1 @@
-var mnemonic = "negative mule vault park law major bid bring window poverty winner hazard";
+var mnemonic = "spin either neck assist measure federal loyal stand cheap prefer trap tired";

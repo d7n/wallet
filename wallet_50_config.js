@@ -1,1 +1,1 @@
-var mnemonic = "sample fence owner december curious virtual purpose tuna frozen under empty wall";
+var mnemonic = "coral trim sketch dash human end between warrior reopen ritual pattern auto";

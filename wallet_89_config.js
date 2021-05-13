@@ -1,1 +1,1 @@
-var mnemonic = "spread crowd subway deliver beauty receive describe cereal picture inner shaft top";
+var mnemonic = "exchange soul burst crash ivory stuff century draw abstract unaware practice dinner";

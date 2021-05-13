@@ -1,1 +1,1 @@
-var mnemonic = "surge park fringe avoid cattle concert nose reject bar joke task force";
+var mnemonic = "affair fantasy deny gate segment luxury stick kingdom oppose select purchase salute";

@@ -1,1 +1,1 @@
-var mnemonic = "effort night possible potato sleep pitch play total mention bunker glance few";
+var mnemonic = "funny earth force gadget update sample finish witness business family forest happy";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat damage camp record doctor cup ramp wolf whisper clown plastic indoor";
+var mnemonic = "silver three quality left typical huge fat chunk normal liquid please sponsor";

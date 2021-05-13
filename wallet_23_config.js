@@ -1,1 +1,1 @@
-var mnemonic = "display assist same solve chalk quick bachelor spoil target bargain gaze task";
+var mnemonic = "short paddle wink cushion toast victory human tennis demand argue pride person";

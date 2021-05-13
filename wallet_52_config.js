@@ -1,1 +1,1 @@
-var mnemonic = "plunge manage diet rule city render interest female average budget trash brass";
+var mnemonic = "genius gain blossom town submit stuff card unique system antenna tail shoot";

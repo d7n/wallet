@@ -1,1 +1,1 @@
-var mnemonic = "tell rotate scare six cereal giant elbow sugar draw pact below thought";
+var mnemonic = "reason truth reflect shaft large hurry exist club steel pilot powder crime";

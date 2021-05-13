@@ -1,1 +1,1 @@
-var mnemonic = "cave brass acquire member sponsor stand dinosaur city lesson novel marine infant";
+var mnemonic = "forest manual code genius loop fluid behind eternal celery inch universe horror";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest heart rotate tumble valley legend winner arrive avoid arrest humble bind";
+var mnemonic = "father audit vicious earn allow canyon chase three owner brother warm radio";

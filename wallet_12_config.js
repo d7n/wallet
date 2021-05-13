@@ -1,1 +1,1 @@
-var mnemonic = "alarm torch mail again room trumpet photo collect gossip example fun frequent";
+var mnemonic = "hungry liar recycle govern future float farm record machine make eagle often";

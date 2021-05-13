@@ -1,1 +1,1 @@
-var mnemonic = "sand skill olive bulk emotion winner adjust toilet olive excess fame cannon";
+var mnemonic = "exclude help rare history wonder kitten crack umbrella sunny sell rich front";

@@ -1,1 +1,1 @@
-var mnemonic = "above fade bind same clump rail exchange identify forward book capital tomorrow";
+var mnemonic = "tilt refuse suspect someone horn focus jaguar warrior question purpose biology welcome";

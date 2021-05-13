@@ -1,1 +1,1 @@
-var mnemonic = "cream truly horn allow next shift end earth motor board attend spread";
+var mnemonic = "planet hundred mechanic rather alpha sweet pear turn silk salmon pluck about";

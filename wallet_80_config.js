@@ -1,1 +1,1 @@
-var mnemonic = "sting daughter school section suit scorpion soon romance involve excite chicken hold";
+var mnemonic = "galaxy crawl fuel review inquiry turn twenty fatal angle scorpion retire unveil";

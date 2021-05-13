@@ -1,1 +1,1 @@
-var mnemonic = "decade pencil ten also again icon trap chair hurdle flavor chair curve";
+var mnemonic = "cost dune reject judge profit mechanic noble estate arrow trim coach dry";

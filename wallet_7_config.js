@@ -1,1 +1,1 @@
-var mnemonic = "basket celery sick bag purity wedding mesh roast inner rate purity profit";
+var mnemonic = "pyramid grow when sustain embark exchange rebuild rare tray obey orange animal";

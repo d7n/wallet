@@ -1,1 +1,1 @@
-var mnemonic = "small adjust science salt muscle benefit boss hunt cave mechanic patrol hen";
+var mnemonic = "flight tooth rabbit net whip grit monster cotton deputy dutch magic fatigue";

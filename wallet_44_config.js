@@ -1,1 +1,1 @@
-var mnemonic = "opinion noodle feel job exotic okay liberty demand dizzy transfer imitate poem";
+var mnemonic = "cotton ride oblige expire cradle shop what march antenna keen enlist bone";

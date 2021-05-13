@@ -1,1 +1,1 @@
-var mnemonic = "library length cannon guide curve devote movie barrel field assault brother flat";
+var mnemonic = "flight smoke atom reward lady muffin cycle try that buffalo glory mechanic";

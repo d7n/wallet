@@ -1,1 +1,1 @@
-var mnemonic = "resist sing lobster copper address mother talent moon agent aisle crawl tiny";
+var mnemonic = "artist only size dragon carry enough throw enough language come general jaguar";

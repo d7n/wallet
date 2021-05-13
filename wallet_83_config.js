@@ -1,1 +1,1 @@
-var mnemonic = "snow garment toy super dirt nephew message head horn rifle document combine";
+var mnemonic = "bottom awful plug garlic dinosaur physical endless tongue arrange inmate slice account";

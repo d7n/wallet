@@ -1,1 +1,1 @@
-var mnemonic = "rice safe evidence cement grain cup travel anxiety theory melody chief fly";
+var mnemonic = "pretty actual access relief science flag obtain purchase affair record cruise begin";

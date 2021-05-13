@@ -1,1 +1,1 @@
-var mnemonic = "pyramid pottery yard whisper cat dwarf enlist age cabin index surge farm";
+var mnemonic = "buddy army dune ocean waste frozen quarter sail above proof enable nurse";

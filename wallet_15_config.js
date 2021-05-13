@@ -1,1 +1,1 @@
-var mnemonic = "fatal end fiber sight stadium kidney grow goddess wood glance cross enact";
+var mnemonic = "someone girl buffalo loan ice exile cigar fork mutual hundred exile cousin";

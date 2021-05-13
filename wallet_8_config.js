@@ -1,1 +1,1 @@
-var mnemonic = "develop message merry photo large palace brown cluster dose rude together net";
+var mnemonic = "deal garbage jelly castle glow office erode dish leisure corn script six";

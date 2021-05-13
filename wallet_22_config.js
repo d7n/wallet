@@ -1,1 +1,1 @@
-var mnemonic = "video naive unable clap position crowd brass embody shell tattoo canoe flavor";
+var mnemonic = "battle ride put deposit boil protect crime noise debate into opera stand";

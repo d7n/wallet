@@ -1,1 +1,1 @@
-var mnemonic = "engage jewel ethics name obvious roast depend jelly pass faint stick dutch";
+var mnemonic = "prevent glow tone smoke jar plunge truly acoustic theme crash slam sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "undo type thought seed electric rebel rent humble trumpet stock spell hero";
+var mnemonic = "vehicle number clarify fence forest history innocent degree fox capable prepare tonight";

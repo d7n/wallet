@@ -1,1 +1,1 @@
-var mnemonic = "scheme search goose bridge shiver follow baby depth twin gauge connect tonight";
+var mnemonic = "say found cradle visual whip clock cup choose weasel fork tomato salt";

@@ -1,1 +1,1 @@
-var mnemonic = "secret there leaf ketchup install point excuse token certain innocent trap cousin";
+var mnemonic = "aware air detail grass fan virus lock use hole champion chest wheat";

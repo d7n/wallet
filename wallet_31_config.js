@@ -1,1 +1,1 @@
-var mnemonic = "exhibit civil raccoon trim mind lucky innocent describe february party gauge refuse";
+var mnemonic = "vehicle undo caution miracle voice siege capital captain switch grief art cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo shadow three slot minimum require note trim father seed desert cloud";
+var mnemonic = "tortoise ozone cycle inhale gown scale gaze iron promote kitten wage gun";

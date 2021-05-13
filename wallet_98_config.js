@@ -1,1 +1,1 @@
-var mnemonic = "bacon draft elder balcony board loop ripple blossom you major claim public";
+var mnemonic = "oven multiply surface sample crawl section front man vocal spell among shallow";

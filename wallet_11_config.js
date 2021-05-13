@@ -1,1 +1,1 @@
-var mnemonic = "guide badge tuna harvest among sick lumber always planet engage glow angle";
+var mnemonic = "fold can timber direct loyal lawn suit canvas split crush comic electric";

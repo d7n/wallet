@@ -1,1 +1,1 @@
-var mnemonic = "evoke country nerve sting tornado sort industry prevent march once gossip glare";
+var mnemonic = "regret erosion song eyebrow pudding emotion cause large pluck flag yellow fancy";

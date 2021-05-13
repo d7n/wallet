@@ -1,1 +1,1 @@
-var mnemonic = "spider wage stamp valid spatial area own donkey illegal above track yellow";
+var mnemonic = "expire delay nice camp belt copper anxiety three exact family camp web";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey myth trend age service myth family general rabbit write donkey void";
+var mnemonic = "neglect anchor health forum current manual pull can expect symbol verify huge";

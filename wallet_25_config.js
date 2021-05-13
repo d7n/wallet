@@ -1,1 +1,1 @@
-var mnemonic = "accident chalk portion system addict aspect trial legal mad yard club stamp";
+var mnemonic = "inform myth same figure unfold mention immense inquiry blame safe grunt grit";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy pipe blue perfect notice quiz rack culture soon boat milk pigeon";
+var mnemonic = "romance circle giant fluid door notice useless soap teach salad harvest inch";

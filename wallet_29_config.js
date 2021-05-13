@@ -1,1 +1,1 @@
-var mnemonic = "robot path daughter swamp push whisper never local flag exact talent tunnel";
+var mnemonic = "satoshi identify silent false guess orient chef wool north unhappy spoil cheese";

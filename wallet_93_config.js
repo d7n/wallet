@@ -1,1 +1,1 @@
-var mnemonic = "harbor person mail between blood alarm kid copy scrap park toilet ahead";
+var mnemonic = "eagle twelve shaft dog retire slender champion school wise bomb giant gauge";

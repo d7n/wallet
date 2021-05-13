@@ -1,1 +1,1 @@
-var mnemonic = "mirror disagree cool rabbit domain estate yard mystery library omit sweet glad";
+var mnemonic = "gentle twenty visual blue wheat thought bundle sausage skin life stove impulse";

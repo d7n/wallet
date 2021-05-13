@@ -1,1 +1,1 @@
-var mnemonic = "local stock cheap fire flat fix upon antique main top settle maid";
+var mnemonic = "wage magnet cup damp pipe general blanket famous document umbrella lamp lazy";

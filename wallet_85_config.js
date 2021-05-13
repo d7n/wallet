@@ -1,1 +1,1 @@
-var mnemonic = "visa order teach tail knock cheap ride feel glow town aspect surround";
+var mnemonic = "breeze alpha decide tomato raw axis morning empty mass destroy earth knife";

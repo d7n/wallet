@@ -1,1 +1,1 @@
-var mnemonic = "hurdle tunnel text veteran polar viable urban spoil grief solid dose track";
+var mnemonic = "outside keen soup spring smooth account glide sick ski caught planet bleak";

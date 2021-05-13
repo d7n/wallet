@@ -1,1 +1,1 @@
-var mnemonic = "vapor media soon melody robust critic repeat teach indicate flag dust index";
+var mnemonic = "decline exercise submit insane dream just oppose neutral pride spike swarm drum";
