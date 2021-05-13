@@ -1,1 +1,1 @@
-var mnemonic = "club undo sleep pioneer all path settle gift bomb steel diamond busy";
+var mnemonic = "winter sell mass twice stick wet tongue ten reform lend obey similar";

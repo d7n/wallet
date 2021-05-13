@@ -1,1 +1,1 @@
-var mnemonic = "expand strong crystal output pulp fish gentle rural inch kidney alley limb";
+var mnemonic = "oak source legal address glance neglect hollow quick observe excuse deliver save";

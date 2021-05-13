@@ -1,1 +1,1 @@
-var mnemonic = "afraid live ancient brand believe luxury under sun kitten black margin loyal";
+var mnemonic = "elbow recipe tip pond margin rapid switch vehicle drum cream olympic cherry";

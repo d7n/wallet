@@ -1,1 +1,1 @@
-var mnemonic = "uphold struggle brain faith orbit man raven please merit also latin silly";
+var mnemonic = "drink treat address brief grunt agree history bronze hello sight pretty wheel";

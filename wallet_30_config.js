@@ -1,1 +1,1 @@
-var mnemonic = "right payment level pole accuse blast average soon shine patch this penalty";
+var mnemonic = "execute become donor minor rather move shock chicken youth forward foil limit";

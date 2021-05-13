@@ -1,1 +1,1 @@
-var mnemonic = "lemon pattern swallow fly venue pottery april wash cargo special play ankle";
+var mnemonic = "skirt purse uncover inch kiwi blade soccer believe goddess smart fiscal pupil";

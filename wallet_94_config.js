@@ -1,1 +1,1 @@
-var mnemonic = "image fringe priority young safe fiscal address strong swing earn exact burst";
+var mnemonic = "whisper trash muscle cup ridge whip battle weasel valley easy hero month";

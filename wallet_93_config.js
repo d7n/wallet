@@ -1,1 +1,1 @@
-var mnemonic = "sell stand unknown jeans toast course weapon any donkey husband omit spy";
+var mnemonic = "talent mistake charge kind admit spice deputy yellow trade total input image";

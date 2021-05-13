@@ -1,1 +1,1 @@
-var mnemonic = "suggest check home current torch lake describe fame sibling settle crowd motion";
+var mnemonic = "smile quarter satoshi island this motor shiver hedgehog burden opera total fragile";

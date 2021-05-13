@@ -1,1 +1,1 @@
-var mnemonic = "news drama glide oak switch wool clump crisp pencil glad donor height";
+var mnemonic = "field bunker valve elite run over detect pond coyote bamboo obvious swap";

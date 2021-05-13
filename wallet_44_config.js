@@ -1,1 +1,1 @@
-var mnemonic = "decide alert fiction turkey lesson throw dilemma amateur obey alone process engine";
+var mnemonic = "float spatial inflict lawsuit bind race top document boost story super fringe";

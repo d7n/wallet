@@ -1,1 +1,1 @@
-var mnemonic = "crisp humor kangaroo venture little silver iron engine toward foster grow front";
+var mnemonic = "real badge involve fox word talent naive universe code ugly stool danger";

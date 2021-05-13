@@ -1,1 +1,1 @@
-var mnemonic = "swing enemy lounge whisper danger earth sustain change result leader gorilla giggle";
+var mnemonic = "ridge flee tonight ecology frost picture donate mention dress desk spoil great";

@@ -1,1 +1,1 @@
-var mnemonic = "any similar scene buddy print sea scrub goddess panda usage twin moment";
+var mnemonic = "orange chimney evil awake student muscle elite below laundry plug miss bronze";

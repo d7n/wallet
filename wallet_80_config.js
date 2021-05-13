@@ -1,1 +1,1 @@
-var mnemonic = "height position laundry despair must rifle seed festival radar expose first oyster";
+var mnemonic = "movie submit turn only connect visa stumble alarm burger tattoo color cable";

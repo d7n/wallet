@@ -1,1 +1,1 @@
-var mnemonic = "black hurt real system globe undo tortoise adapt base drama amazing museum";
+var mnemonic = "reveal bronze profit inhale theme gain solid current city curtain burden amount";

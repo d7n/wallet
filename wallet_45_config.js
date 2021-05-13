@@ -1,1 +1,1 @@
-var mnemonic = "decrease tower muscle canyon planet crouch wait hazard mention item person month";
+var mnemonic = "drink palm fine barrel clown tooth topple salon metal zone crouch myth";

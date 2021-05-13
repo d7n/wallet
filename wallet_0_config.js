@@ -1,1 +1,1 @@
-var mnemonic = "blade boy mimic either leave pig weekend call despair element mansion about";
+var mnemonic = "opera pluck crop need submit brief atom heart illegal arm shed climb";

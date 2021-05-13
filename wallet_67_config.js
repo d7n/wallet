@@ -1,1 +1,1 @@
-var mnemonic = "opera embark accident indoor right urban wall flame parent juice ahead sting";
+var mnemonic = "path host chase salon garbage adapt table face garden outdoor clap asset";

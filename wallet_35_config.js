@@ -1,1 +1,1 @@
-var mnemonic = "estate tongue pond situate next output scrub educate shine topple lady noble";
+var mnemonic = "retire dynamic aunt drama slow magic thought diesel unique whale tray firm";

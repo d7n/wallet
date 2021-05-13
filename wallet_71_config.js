@@ -1,1 +1,1 @@
-var mnemonic = "trash noble pulse open art addict fetch frozen what tree economy usage";
+var mnemonic = "blade loud jazz notice ski legal light casual episode devote relief slow";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune ozone ladder slow canoe behind fever spell index search primary master";
+var mnemonic = "tattoo struggle source ordinary detail ritual duck kite coconut modify theme eyebrow";

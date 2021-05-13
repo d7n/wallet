@@ -1,1 +1,1 @@
-var mnemonic = "execute renew avoid ostrich myself tray age lunch junk verify print brush";
+var mnemonic = "luxury tag define scorpion super october fatigue lawn hybrid turkey traffic west";

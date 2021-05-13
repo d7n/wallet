@@ -1,1 +1,1 @@
-var mnemonic = "alien airport pudding bomb major gadget always nasty quit copy pottery weapon";
+var mnemonic = "age expect artwork aunt sport tackle fashion goddess miracle sunny excess dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "urban vapor wedding raise defense wink soda welcome foam exhibit clay casino";
+var mnemonic = "spy just toward normal pole card kit silk satisfy valve chief route";

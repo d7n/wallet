@@ -1,1 +1,1 @@
-var mnemonic = "element giggle oyster peace again guess teach member great intact hat useful";
+var mnemonic = "grab fire amazing jealous habit snap burden tragic team stairs blur oil";

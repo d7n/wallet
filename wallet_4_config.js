@@ -1,1 +1,1 @@
-var mnemonic = "afraid sign require foam ticket adult odor table draw payment reunion shallow";
+var mnemonic = "wasp bubble promote favorite any slab between advance effort hint long clip";

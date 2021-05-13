@@ -1,1 +1,1 @@
-var mnemonic = "panda logic hole retire card chase trend auction mechanic one olive extend";
+var mnemonic = "ski sport galaxy vocal network wine hurt dilemma phone ethics height rate";

@@ -1,1 +1,1 @@
-var mnemonic = "label pencil divert fish wrap cattle grief calm sun appear entry sing";
+var mnemonic = "message pizza few wheat salmon scissors foster crystal risk alpha giggle asthma";

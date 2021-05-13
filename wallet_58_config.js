@@ -1,1 +1,1 @@
-var mnemonic = "tongue above debate jar short large employ various menu motor spread turtle";
+var mnemonic = "birth legal wave celery swarm broken transfer vacant agree bird brown seminar";

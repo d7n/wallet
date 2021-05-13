@@ -1,1 +1,1 @@
-var mnemonic = "disorder thing wall bundle brand ecology spy choose pizza world story deer";
+var mnemonic = "fetch cake chat trumpet buddy language pride near position antenna interest good";

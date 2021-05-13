@@ -1,1 +1,1 @@
-var mnemonic = "novel real solid weasel turkey gorilla pelican coil joy journey bubble mixed";
+var mnemonic = "reveal two nature elephant exercise roast pudding exclude catch chicken another stairs";

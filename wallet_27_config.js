@@ -1,1 +1,1 @@
-var mnemonic = "bless useful evoke safe balcony trip cricket dress increase patient finger install";
+var mnemonic = "nuclear high state search laptop aware catalog artwork buyer wheel grief space";

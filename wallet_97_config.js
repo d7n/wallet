@@ -1,1 +1,1 @@
-var mnemonic = "employ volume prison search educate bid mix invite again resist list spread";
+var mnemonic = "mistake someone life stomach judge sorry defy peanut panda scatter joke term";

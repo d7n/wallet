@@ -1,1 +1,1 @@
-var mnemonic = "front void wall they casino copy debate defense library position fatigue woman";
+var mnemonic = "detail illegal typical frown transfer shove shallow task car dog shop mimic";

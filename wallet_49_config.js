@@ -1,1 +1,1 @@
-var mnemonic = "bridge profit random little fade run rib door ghost bullet monster absurd";
+var mnemonic = "toe south refuse rhythm poem defy fade tragic glory glare main hedgehog";

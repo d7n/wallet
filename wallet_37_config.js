@@ -1,1 +1,1 @@
-var mnemonic = "weird globe total agree light planet milk glance alien feature guard glimpse";
+var mnemonic = "tiny hazard mango eyebrow during old enlist rather crawl setup velvet flower";

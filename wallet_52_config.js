@@ -1,1 +1,1 @@
-var mnemonic = "upgrade neither merge fat scrub crouch act sunset glory card glimpse slice";
+var mnemonic = "away ski unable bounce picture rocket mushroom auction appear food hire yard";

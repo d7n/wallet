@@ -1,1 +1,1 @@
-var mnemonic = "earth lucky between word little vocal weather concert typical magnet matter kick";
+var mnemonic = "plug ignore cigar scatter can elevator slow crowd barely mango memory maximum";

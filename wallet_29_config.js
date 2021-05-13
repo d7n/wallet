@@ -1,1 +1,1 @@
-var mnemonic = "cushion bar salon item rocket scheme silver message universe broken churn sight";
+var mnemonic = "stereo develop observe crack field property book still useful inform harsh idle";

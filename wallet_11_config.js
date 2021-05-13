@@ -1,1 +1,1 @@
-var mnemonic = "exist wrong loud pottery large drum someone matter diesel stock cabin camp";
+var mnemonic = "angle sad finger column vote use trigger critic purity museum hunt lake";

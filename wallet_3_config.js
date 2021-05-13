@@ -1,1 +1,1 @@
-var mnemonic = "broom absent roast unveil world slab tape guide point enjoy tongue post";
+var mnemonic = "clean garbage forest carbon cheese real search spike sustain clerk select fog";

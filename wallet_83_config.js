@@ -1,1 +1,1 @@
-var mnemonic = "common same know wave cabbage one loan frog diet fluid bus harsh";
+var mnemonic = "gate disorder dinner twist tower safe youth dumb asthma black fatal camp";

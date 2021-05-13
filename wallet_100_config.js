@@ -1,1 +1,1 @@
-var mnemonic = "kiwi forest suspect voyage job library normal leave doctor breeze boy shy";
+var mnemonic = "slide glass afraid helmet quick into tail month unhappy tree dinner regret";

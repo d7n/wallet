@@ -1,1 +1,1 @@
-var mnemonic = "always year birth method fit own leopard pretty tag balcony work sure";
+var mnemonic = "demand gold orient since they grunt frost aim fan rent puzzle father";

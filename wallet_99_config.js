@@ -1,1 +1,1 @@
-var mnemonic = "balcony tunnel jaguar talk bonus soup cave dilemma absorb over planet rain";
+var mnemonic = "area treat icon goose giggle act sudden income soda away minimum debris";

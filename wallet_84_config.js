@@ -1,1 +1,1 @@
-var mnemonic = "skull sunset until thought flip ring federal base around frown spring pink";
+var mnemonic = "uncle rail false search bargain scan wolf orient hub bargain glove street";

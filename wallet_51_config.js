@@ -1,1 +1,1 @@
-var mnemonic = "oval panda leg lake mesh lawn silver suggest annual manual earn undo";
+var mnemonic = "wonder disorder human guess between retreat chronic bunker school glow figure reduce";

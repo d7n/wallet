@@ -1,1 +1,1 @@
-var mnemonic = "zebra rice endless dirt list head skirt bounce sock mammal punch assume";
+var mnemonic = "offer verify hobby noble vocal avocado scale hammer weapon impact budget doll";

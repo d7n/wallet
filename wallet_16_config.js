@@ -1,1 +1,1 @@
-var mnemonic = "deer amount palace cash consider inform shoe can spin purity cigar slide";
+var mnemonic = "uncover endorse only surface hire blossom local mind inner matter wood royal";

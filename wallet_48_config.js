@@ -1,1 +1,1 @@
-var mnemonic = "payment couple seminar middle twin velvet leaf expire shuffle execute spawn shrimp";
+var mnemonic = "require thrive letter crumble pulp worth oven marine basic disagree write engine";

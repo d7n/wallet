@@ -1,1 +1,1 @@
-var mnemonic = "logic jungle cushion notice rubber rich thank daughter urban sure leave box";
+var mnemonic = "inside client symbol rookie blind fitness approve bamboo citizen tilt embark tuition";

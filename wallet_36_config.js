@@ -1,1 +1,1 @@
-var mnemonic = "shell latin library weasel warrior museum okay hello outdoor feature hand initial";
+var mnemonic = "envelope put guess spell derive hope diary ethics such solve crash color";

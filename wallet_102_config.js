@@ -1,1 +1,1 @@
-var mnemonic = "valid theory note jewel napkin rack lounge emerge travel gown amount nephew";
+var mnemonic = "few squirrel torch coin huge danger shy action giant stomach fury coral";

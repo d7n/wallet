@@ -1,1 +1,1 @@
-var mnemonic = "leisure today stamp attend abuse pass scrap crunch table gesture consider vintage";
+var mnemonic = "early grace alert fox once dress priority milk special music feed general";

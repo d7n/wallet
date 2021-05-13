@@ -1,1 +1,1 @@
-var mnemonic = "reopen pool army lumber bachelor predict make clever license adult discover panel";
+var mnemonic = "neither awkward copy blanket lion reopen antenna view sample claw scan spy";

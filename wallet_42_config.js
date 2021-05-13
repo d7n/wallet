@@ -1,1 +1,1 @@
-var mnemonic = "agree change clarify shuffle region dragon despair regular release badge circle roof";
+var mnemonic = "pilot guilt hawk unfair radio valid grunt pond lottery solve among impulse";

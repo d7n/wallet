@@ -1,1 +1,1 @@
-var mnemonic = "range drop female slot trial year annual argue thrive hole equip soft";
+var mnemonic = "sample eye must ordinary wire merit increase kiwi lyrics hurt hamster urban";

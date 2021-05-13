@@ -1,1 +1,1 @@
-var mnemonic = "van doll share net diagram treat athlete toddler gym glory about push";
+var mnemonic = "insane truly cupboard recipe chaos finish lucky oak equip tackle denial cover";

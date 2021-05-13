@@ -1,1 +1,1 @@
-var mnemonic = "century length drill anger car normal mystery acoustic slot ribbon love brisk";
+var mnemonic = "nice easy person shy only depth labor flower exist hammer wasp hundred";

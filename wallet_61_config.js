@@ -1,1 +1,1 @@
-var mnemonic = "also siege announce labor eternal chat stock bright theme priority close enlist";
+var mnemonic = "occur doll tattoo awesome need duck praise point gauge mix priority stone";

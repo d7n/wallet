@@ -1,1 +1,1 @@
-var mnemonic = "spend sting floor proof diesel logic never human puzzle seed monkey true";
+var mnemonic = "gold eight allow fuel book trim evil attend tag fetch achieve famous";

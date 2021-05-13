@@ -1,1 +1,1 @@
-var mnemonic = "try minute ten rule injury pistol home always medal build leaf alert";
+var mnemonic = "leader axis ability harvest cement cruise pattern exclude mutual rifle federal scrub";

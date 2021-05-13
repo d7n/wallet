@@ -1,1 +1,1 @@
-var mnemonic = "sugar lounge goddess govern judge dwarf shine loyal grape cousin apology arrive";
+var mnemonic = "name crash remember away van alert mango tent venue jeans seed april";

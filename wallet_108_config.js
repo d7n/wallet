@@ -1,1 +1,1 @@
-var mnemonic = "flush where pink furnace hover helmet alter shuffle notice empty life core";
+var mnemonic = "stereo biology puppy damage total genius curve girl wood custom document learn";

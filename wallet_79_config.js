@@ -1,1 +1,1 @@
-var mnemonic = "purpose review game remove rain hill lion toddler rival ordinary clip switch";
+var mnemonic = "install angry initial start quiz bag tide crucial glue photo behave response";

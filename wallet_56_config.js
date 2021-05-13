@@ -1,1 +1,1 @@
-var mnemonic = "castle cheese measure disagree pink panel bring music online young soon host";
+var mnemonic = "target soda alone boss excite congress powder oyster gesture adapt east artwork";

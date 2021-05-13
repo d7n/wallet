@@ -1,1 +1,1 @@
-var mnemonic = "rabbit any east notable supply auction fire scheme soul artist stable soft";
+var mnemonic = "machine rebuild enough receive tower fee farm ghost drive unit capable sick";

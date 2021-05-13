@@ -1,1 +1,1 @@
-var mnemonic = "pelican bread ready awesome man quantum garage process gain engine throw uncover";
+var mnemonic = "absorb useful ribbon sell vehicle clutch road useless stairs skirt profit share";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse deny model relief loop enemy beach fancy stay hamster horror truth";
+var mnemonic = "theme zone long defense struggle range farm hungry critic cool mixed brain";

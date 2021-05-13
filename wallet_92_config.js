@@ -1,1 +1,1 @@
-var mnemonic = "suspect conduct survey enforce toss coast bind such since insect legal real";
+var mnemonic = "swarm survey have begin cupboard call hurt sudden cake ready world soon";

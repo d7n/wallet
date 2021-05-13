@@ -1,1 +1,1 @@
-var mnemonic = "rival birth tourist photo spray term camera image acoustic carry oyster crawl";
+var mnemonic = "else initial pill fatigue estate lecture slush neither entry person special during";

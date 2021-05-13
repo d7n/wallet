@@ -1,1 +1,1 @@
-var mnemonic = "unaware cushion until gossip pond series busy stock input dynamic milk device";
+var mnemonic = "juice flag predict stable ghost olive desert solution scale fade hello metal";

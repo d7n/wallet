@@ -1,1 +1,1 @@
-var mnemonic = "rescue network entire laugh tree screen need balcony parade pet long gas";
+var mnemonic = "welcome aisle legal they pottery embark disorder struggle hour impose ranch group";

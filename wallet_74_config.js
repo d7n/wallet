@@ -1,1 +1,1 @@
-var mnemonic = "legend tennis safe symptom youth observe skin grace guess hamster milk uniform";
+var mnemonic = "junk young acquire whisper movie frozen two kind walk eagle gravity collect";

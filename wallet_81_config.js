@@ -1,1 +1,1 @@
-var mnemonic = "twenty gasp enact mask infant pact first core lady stable thrive series";
+var mnemonic = "shadow gesture million whale goose celery title action ranch inform today maple";

@@ -1,1 +1,1 @@
-var mnemonic = "expose pave ignore sponsor must target artwork salad visa find number dice";
+var mnemonic = "matter genius have fatigue raccoon evolve abuse soon clap rabbit goose renew";

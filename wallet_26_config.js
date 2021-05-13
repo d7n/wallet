@@ -1,1 +1,1 @@
-var mnemonic = "quarter captain uniform flat aunt sorry mimic need ability soup cube moral";
+var mnemonic = "talk coconut ugly wagon eye endorse muffin shuffle rebuild moon lizard display";

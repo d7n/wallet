@@ -1,1 +1,1 @@
-var mnemonic = "sure thumb loop jelly engine hedgehog kick slight people angry desk tooth";
+var mnemonic = "drastic art need famous then diamond tortoise essay cabbage sphere tape verify";

@@ -1,1 +1,1 @@
-var mnemonic = "occur crisp wrong pipe mesh random iron foil bring grass brush ahead";
+var mnemonic = "grape fat puppy flag annual reunion friend crash trigger hunt napkin stable";

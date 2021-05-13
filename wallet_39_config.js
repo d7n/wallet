@@ -1,1 +1,1 @@
-var mnemonic = "marble junior parade meat crater find moon exist post lion artwork race";
+var mnemonic = "decade hire vote festival base dial neutral cargo tag luggage bus camp";

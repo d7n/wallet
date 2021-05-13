@@ -1,1 +1,1 @@
-var mnemonic = "waste source satoshi seven jewel below other put add balcony erosion treat";
+var mnemonic = "board please cheese slender wrestle flash bike upgrade purpose gesture wrap cheese";

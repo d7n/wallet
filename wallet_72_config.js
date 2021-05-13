@@ -1,1 +1,1 @@
-var mnemonic = "nurse suffer grit survey wash dizzy final flat lumber message country library";
+var mnemonic = "wage civil spider situate toss goat burden measure burger relief force tumble";

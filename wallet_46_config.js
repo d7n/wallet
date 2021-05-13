@@ -1,1 +1,1 @@
-var mnemonic = "together rigid clever gospel car snap brand ice slot tool involve mention";
+var mnemonic = "pond magnet scene only actor erosion sheriff chapter play fat occur imitate";

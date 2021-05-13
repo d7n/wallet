@@ -1,1 +1,1 @@
-var mnemonic = "token method program craft edit impact immune reveal shield release correct clay";
+var mnemonic = "word choice speak harsh twelve swap sail perfect session adapt depth muscle";

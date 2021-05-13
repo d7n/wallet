@@ -1,1 +1,1 @@
-var mnemonic = "amateur uniform cook permit girl cactus kite unknown hockey loop tired mushroom";
+var mnemonic = "baby worth goddess confirm sugar drink skull pepper please wear fog release";

@@ -1,1 +1,1 @@
-var mnemonic = "mass jelly private phrase lottery maximum history horse own twin yellow juice";
+var mnemonic = "tuition pepper liquid above voyage iron worry senior person dilemma reflect plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit winner entire celery few tooth forum craft inhale chef success betray";
+var mnemonic = "scissors screen unlock decorate derive coin west stomach lottery sense system label";

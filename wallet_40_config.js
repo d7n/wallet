@@ -1,1 +1,1 @@
-var mnemonic = "season boil twelve mirror debris mushroom apology robust lift assault finger property";
+var mnemonic = "music viable stick wear radio fluid gloom forward eager south deny again";

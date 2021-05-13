@@ -1,1 +1,1 @@
-var mnemonic = "panda muscle burst repeat fiber split evoke stay nuclear shoot pigeon snake";
+var mnemonic = "pulse dismiss want address arena iron wise hour copy deny feature option";

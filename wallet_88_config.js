@@ -1,1 +1,1 @@
-var mnemonic = "wisdom phrase cotton aware mechanic mother pause soldier fold early message popular";
+var mnemonic = "reveal subway inject stone runway tennis mistake portion exotic boil multiply blade";

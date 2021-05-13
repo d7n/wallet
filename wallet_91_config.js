@@ -1,1 +1,1 @@
-var mnemonic = "evoke width screen expose noise whisper gossip extra april famous youth extra";
+var mnemonic = "chuckle permit half inhale uncover witness buyer teach attract rabbit above soup";

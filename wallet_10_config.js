@@ -1,1 +1,1 @@
-var mnemonic = "blood jump strategy inmate universe powder need rate gorilla grain cement buddy";
+var mnemonic = "index hammer example slogan trophy swarm suit month decline appear impact year";

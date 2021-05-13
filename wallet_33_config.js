@@ -1,1 +1,1 @@
-var mnemonic = "foam visit property chair shiver vendor jar blood grid mask pattern rib";
+var mnemonic = "height round avocado garlic east antique lunar near wealth evolve scrap cute";
