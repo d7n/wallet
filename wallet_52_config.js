@@ -1,1 +1,1 @@
-var mnemonic = "uncle benefit carpet style velvet depend purse crunch census key master parade";
+var mnemonic = "quit extend oak display beyond middle adjust strike afraid artefact dove remind";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt board depend oppose canal nothing control case exact climb rebuild slush";
+var mnemonic = "large dial divide phone phrase divorce caution subject tooth matter hurt coconut";

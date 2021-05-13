@@ -1,1 +1,1 @@
-var mnemonic = "move deposit upon wet edit category earth brief taxi shiver volume tube";
+var mnemonic = "ahead fitness defense gaze guide wreck road decide beauty salute involve talk";

@@ -1,1 +1,1 @@
-var mnemonic = "time clinic again light antenna move library dolphin miss hammer evidence identify";
+var mnemonic = "since normal symbol unable absorb surge shallow butter dress alpha gossip erode";

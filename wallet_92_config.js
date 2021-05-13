@@ -1,1 +1,1 @@
-var mnemonic = "swamp above collect design fury wolf weekend sing shuffle situate give kangaroo";
+var mnemonic = "pass popular acid orchard cram erosion soda hazard clean gravity shallow leave";

@@ -1,1 +1,1 @@
-var mnemonic = "advance jump oblige elephant year just electric teach naive final nut correct";
+var mnemonic = "mountain mosquito still trade book quantum two exile more conduct occur boss";

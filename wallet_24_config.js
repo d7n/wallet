@@ -1,1 +1,1 @@
-var mnemonic = "dune nature photo time age subject wall cliff suggest this parade salute";
+var mnemonic = "elite van firm slot recipe jeans only relief gallery resource protect question";

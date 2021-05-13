@@ -1,1 +1,1 @@
-var mnemonic = "track horn remove uncover win about enact cute ripple skate jaguar tube";
+var mnemonic = "machine mixed damage settle injury viable dune thing arrive deal disagree tribe";

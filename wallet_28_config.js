@@ -1,1 +1,1 @@
-var mnemonic = "pink sand same filter mandate legend candy either human panel curtain achieve";
+var mnemonic = "pencil youth train hover peace fantasy analyst ride film boss pact silver";

@@ -1,1 +1,1 @@
-var mnemonic = "invest wagon welcome minor abandon discover slab food imitate liquid improve number";
+var mnemonic = "metal practice divide oval glove enact buyer note dolphin furnace current roof";

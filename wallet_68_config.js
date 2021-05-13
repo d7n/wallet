@@ -1,1 +1,1 @@
-var mnemonic = "cousin erosion provide web ridge produce cactus antenna real forest list swear";
+var mnemonic = "eager together parent board boil crack rude atom wide bid ripple scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "please course call exercise trim ship all spare scissors bless opinion coil";
+var mnemonic = "hello document crater trash hood normal fragile side identify rescue cube effort";

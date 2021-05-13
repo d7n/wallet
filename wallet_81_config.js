@@ -1,1 +1,1 @@
-var mnemonic = "margin rug dutch radar clever solution risk weasel expect rifle rack couple";
+var mnemonic = "critic gospel shaft luxury north kit range reduce brief lunar vehicle emerge";

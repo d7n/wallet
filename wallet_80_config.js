@@ -1,1 +1,1 @@
-var mnemonic = "switch lesson rescue chef faculty rate decade fall garden hello club argue";
+var mnemonic = "envelope clip room paddle resemble uphold develop page suspect gold carbon green";

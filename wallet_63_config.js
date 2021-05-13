@@ -1,1 +1,1 @@
-var mnemonic = "enjoy age mule chronic excess range repair banner area south erase farm";
+var mnemonic = "stock parent layer stable galaxy wrestle piano track bomb bread flock east";

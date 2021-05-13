@@ -1,1 +1,1 @@
-var mnemonic = "potato shed cause begin remember royal exchange turtle choice angry magnet neither";
+var mnemonic = "friend sister feel general desert pyramid kind wise bring december cute prize";

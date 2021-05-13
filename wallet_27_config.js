@@ -1,1 +1,1 @@
-var mnemonic = "member topple drink boss bullet foam rough main hope stay remind include";
+var mnemonic = "opinion coconut fan chimney frown book bullet hub quiz identify entry garbage";

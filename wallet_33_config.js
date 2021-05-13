@@ -1,1 +1,1 @@
-var mnemonic = "salmon banner left pitch suffer school minute invite fade gorilla pond north";
+var mnemonic = "obey chaos helmet snap duty country language gaze ceiling priority volume visual";

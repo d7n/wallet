@@ -1,1 +1,1 @@
-var mnemonic = "escape cousin panic two peace toilet alarm party sea jar salad topple";
+var mnemonic = "slogan tuna provide list dragon cost lift wink column current fire charge";

@@ -1,1 +1,1 @@
-var mnemonic = "baby soda route truth heavy rate result fantasy film bargain dizzy clean";
+var mnemonic = "pioneer frog alcohol quantum early romance control truck muscle odor garbage artwork";

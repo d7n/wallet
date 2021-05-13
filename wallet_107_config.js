@@ -1,1 +1,1 @@
-var mnemonic = "dilemma brick neglect zoo swift merit only dumb saddle winner lounge spread";
+var mnemonic = "unfair purpose turkey among grid response afraid duck west material train milk";

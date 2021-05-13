@@ -1,1 +1,1 @@
-var mnemonic = "plate web poem wet high act body picture casual rally gather help";
+var mnemonic = "fee tube siren eternal monitor second choice shock rate mystery round sunset";

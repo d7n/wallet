@@ -1,1 +1,1 @@
-var mnemonic = "badge prevent talent dream pizza police clerk song rotate sudden topple judge";
+var mnemonic = "animal transfer define kick master west bundle reflect dinner cotton safe banana";

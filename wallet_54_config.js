@@ -1,1 +1,1 @@
-var mnemonic = "rifle gentle arrive ride begin obtain leisure way smile pave vanish allow";
+var mnemonic = "nothing glare castle fringe ginger penalty web describe right recycle midnight wrestle";

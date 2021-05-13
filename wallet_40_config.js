@@ -1,1 +1,1 @@
-var mnemonic = "gown ostrich remove doctor skate knock smoke vacuum joke praise nasty genius";
+var mnemonic = "carbon step antenna panic foot wonder waste enlist knife jaguar pulse soda";

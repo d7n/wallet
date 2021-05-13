@@ -1,1 +1,1 @@
-var mnemonic = "direct excuse sustain distance cat salute body exhaust autumn agree loan follow";
+var mnemonic = "soft hover scrub various frost end bird holiday exercise busy embody warfare";

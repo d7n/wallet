@@ -1,1 +1,1 @@
-var mnemonic = "rely sugar proof nuclear chalk curve blossom viable festival minute cattle bounce";
+var mnemonic = "alley august enjoy pledge weather moon hawk kit comic cattle seek eternal";

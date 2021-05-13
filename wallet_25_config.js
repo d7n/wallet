@@ -1,1 +1,1 @@
-var mnemonic = "follow parrot large van dynamic upon taste club patch number wrap hospital";
+var mnemonic = "innocent robust ocean unusual token canal owner swap finger drip dizzy service";

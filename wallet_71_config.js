@@ -1,1 +1,1 @@
-var mnemonic = "tail guitar develop tragic river forget verify brand behave praise nest cube";
+var mnemonic = "note any hub organ demise enter illness try venue device govern aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "leg volume someone soup coil mean eight film coyote bike isolate palace";
+var mnemonic = "mesh mandate inform blind unfold feature acid light tourist verb promote medal";

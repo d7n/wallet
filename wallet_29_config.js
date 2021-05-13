@@ -1,1 +1,1 @@
-var mnemonic = "rose puppy scorpion explain arrow glance lava indoor holiday yellow trend artist";
+var mnemonic = "spike bless hand brush success pool boat skill master wage square rough";

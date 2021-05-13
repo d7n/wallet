@@ -1,1 +1,1 @@
-var mnemonic = "spread aspect noodle slim crisp still buffalo innocent festival lecture equal rocket";
+var mnemonic = "adult era uncle birth parrot swamp same carbon erosion denial cloth mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion oxygen lock slide evoke zebra scheme choose rug cluster sample pipe";
+var mnemonic = "indicate gasp juice vague gravity type file stay oppose toe alter coil";

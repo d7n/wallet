@@ -1,1 +1,1 @@
-var mnemonic = "strike drill they talent parrot asthma dirt hover skate tube milk sure";
+var mnemonic = "chronic solar roast reflect round glimpse leg donkey twin rhythm hundred sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "sign maximum vacuum enter creek wisdom surprise cheap gorilla fold viable silver";
+var mnemonic = "pony clump sauce police sphere hat shoe excuse disagree grief tongue swear";

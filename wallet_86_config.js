@@ -1,1 +1,1 @@
-var mnemonic = "holiday harbor impulse barrel swim canoe quality cute tortoise pill either verify";
+var mnemonic = "angry eye polar hip reveal soccer teach pole common ladder echo warm";

@@ -1,1 +1,1 @@
-var mnemonic = "kick artist stay aunt sustain enlist sad plate cross second unique include";
+var mnemonic = "satisfy plunge image across host cupboard wealth travel begin crime crash blood";

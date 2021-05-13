@@ -1,1 +1,1 @@
-var mnemonic = "timber kind agent fat tip stumble vault return hard lunch inhale surge";
+var mnemonic = "spatial junk armed execute various math thrive execute gadget great coast tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch circle sense assist asset drill plunge vital random artwork pride cupboard";
+var mnemonic = "cram pudding picnic pole strategy relax nuclear mercy fit cousin ill blade";

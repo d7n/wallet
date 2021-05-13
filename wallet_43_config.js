@@ -1,1 +1,1 @@
-var mnemonic = "pool disease toddler hub glad man sustain obtain surface capital fly glass";
+var mnemonic = "habit brave grit cash hope tonight verify life miss base typical nuclear";

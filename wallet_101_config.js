@@ -1,1 +1,1 @@
-var mnemonic = "then miss hotel all boy fold obtain label seven deputy cycle shoe";
+var mnemonic = "trigger time sail garlic mask visual cube loop churn grit doctor force";

@@ -1,1 +1,1 @@
-var mnemonic = "source replace melt section material wrap fever mixed squeeze situate tennis art";
+var mnemonic = "catch view few protect ability minute dance stairs bean anger grass lend";

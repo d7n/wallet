@@ -1,1 +1,1 @@
-var mnemonic = "marine inmate swap merge access gloom used harvest hat romance object cupboard";
+var mnemonic = "spoon joy boil shove suspect ecology burden bachelor honey food dolphin tragic";

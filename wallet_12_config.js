@@ -1,1 +1,1 @@
-var mnemonic = "possible soup purchase thought cable team awesome again liquid permit pumpkin silly";
+var mnemonic = "what tube bubble wire marriage private wool rescue add treat diamond ivory";

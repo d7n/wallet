@@ -1,1 +1,1 @@
-var mnemonic = "boss used point fish domain wolf strong stairs dinosaur mobile inquiry guide";
+var mnemonic = "paper milk denial wet rural dose master wire apart crouch weird motion";

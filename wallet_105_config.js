@@ -1,1 +1,1 @@
-var mnemonic = "clerk lake law coin crisp fox festival time great wreck ladder scheme";
+var mnemonic = "doctor produce master lake cook then attract satisfy matrix talk load casino";

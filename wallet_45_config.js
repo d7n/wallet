@@ -1,1 +1,1 @@
-var mnemonic = "live sting utility young nothing settle fitness inhale resemble genius rule portion";
+var mnemonic = "crack found frog enforce fork point record provide knife cup picnic era";

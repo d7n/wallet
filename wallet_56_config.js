@@ -1,1 +1,1 @@
-var mnemonic = "erosion conduct hood solution brush what sentence elevator ostrich rib still monkey";
+var mnemonic = "camera pumpkin suit number canal fantasy width any ethics talent easily session";

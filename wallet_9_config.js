@@ -1,1 +1,1 @@
-var mnemonic = "title maid climb affair neck laptop copy cram busy doctor boss enemy";
+var mnemonic = "rally warm theme useful garment require clever faith give sport jump boss";

@@ -1,1 +1,1 @@
-var mnemonic = "stem crouch stay cruel appear sausage gauge mention control milk pepper grass";
+var mnemonic = "black skill receive elegant debate remind brain waste umbrella match cool pact";

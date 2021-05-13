@@ -1,1 +1,1 @@
-var mnemonic = "deer labor reopen excuse camp asthma ribbon fame buffalo illegal select impact";
+var mnemonic = "gravity repair toddler island remain mystery cement inject churn beauty vicious leisure";

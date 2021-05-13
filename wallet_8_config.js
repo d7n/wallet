@@ -1,1 +1,1 @@
-var mnemonic = "credit jungle cake trophy replace drink tenant spend across undo tuition miss";
+var mnemonic = "exercise silent zebra way clip clog increase afraid vault tool flavor upset";

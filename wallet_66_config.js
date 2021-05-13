@@ -1,1 +1,1 @@
-var mnemonic = "latin muscle coin radar abstract prison finger tank fish good left average";
+var mnemonic = "hip potato truth analyst popular sustain chief light siege sister place mixed";

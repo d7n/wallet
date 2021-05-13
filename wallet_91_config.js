@@ -1,1 +1,1 @@
-var mnemonic = "vapor tribe dance often robust love junk wonder balcony credit envelope region";
+var mnemonic = "sponsor tooth key desk text vivid demand wedding adapt length sleep forum";

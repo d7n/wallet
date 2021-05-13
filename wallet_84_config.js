@@ -1,1 +1,1 @@
-var mnemonic = "similar divide wise false age insane dream sting panel task spawn swear";
+var mnemonic = "resemble truly vapor sudden they antique immune prepare library soldier injury task";

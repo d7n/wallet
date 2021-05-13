@@ -1,1 +1,1 @@
-var mnemonic = "barely frost evoke rice tomorrow chapter lounge second hawk major fire example";
+var mnemonic = "hotel bracket age scene exile sing buffalo nothing seven aerobic short panel";

@@ -1,1 +1,1 @@
-var mnemonic = "mention high dragon can episode road plug cave ill able picnic flush";
+var mnemonic = "thought art enact connect almost cricket moral solve wild fitness confirm liar";

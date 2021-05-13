@@ -1,1 +1,1 @@
-var mnemonic = "execute front hill evolve glimpse vocal ice plastic income false plunge lock";
+var mnemonic = "wage fan antenna twenty broom office blast skin mix select elder bread";

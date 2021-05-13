@@ -1,1 +1,1 @@
-var mnemonic = "wrap legend tenant trend awesome about black breeze benefit best swap tunnel";
+var mnemonic = "tag hospital quarter army build diamond deny mobile flower correct wool trouble";

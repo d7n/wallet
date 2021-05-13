@@ -1,1 +1,1 @@
-var mnemonic = "disorder fade believe truck enjoy ill country together kiss mention system divorce";
+var mnemonic = "version copper length curve tooth exclude among zebra kingdom trend wisdom innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "air dog stairs supply suspect pipe legal bright wealth stadium gadget churn";
+var mnemonic = "abstract patrol lemon wet earn sport nephew lake kangaroo rebuild trust among";

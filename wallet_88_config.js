@@ -1,1 +1,1 @@
-var mnemonic = "identify ketchup undo list chat vague cover great cousin security sand forward";
+var mnemonic = "shoot perfect pretty text speed conduct night tenant craft motion indoor kite";

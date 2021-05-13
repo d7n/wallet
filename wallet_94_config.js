@@ -1,1 +1,1 @@
-var mnemonic = "include unveil oblige you clerk dove machine immense borrow exchange move remember";
+var mnemonic = "mass town property metal grid figure wish coconut neglect globe market mirror";

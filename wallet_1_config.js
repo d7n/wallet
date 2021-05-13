@@ -1,1 +1,1 @@
-var mnemonic = "rubber era profit under auto ivory paper foster absorb drastic hobby history";
+var mnemonic = "spice camp matrix border pitch endless salon frown afford denial vast fold";

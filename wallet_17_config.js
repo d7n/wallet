@@ -1,1 +1,1 @@
-var mnemonic = "memory giggle thumb cream into hire zero bachelor glow empty wrist parrot";
+var mnemonic = "boat bounce oil fog mosquito taste oven million pair intact chunk economy";

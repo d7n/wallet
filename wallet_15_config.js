@@ -1,1 +1,1 @@
-var mnemonic = "spend arctic hunt summer voyage crucial rotate harsh master critic type venue";
+var mnemonic = "current shine tomato reason vehicle demise marine fatigue kind insect holiday mixture";

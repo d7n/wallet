@@ -1,1 +1,1 @@
-var mnemonic = "bitter swallow melt twelve dash still april code virus version dry robust";
+var mnemonic = "husband tiger you rival they hamster napkin crumble oil eagle boy essay";

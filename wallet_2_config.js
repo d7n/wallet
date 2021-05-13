@@ -1,1 +1,1 @@
-var mnemonic = "ostrich depth invite copper hub rebuild lottery follow harvest room shrug artwork";
+var mnemonic = "pen slab then army trial quit author one crater sick boat ride";

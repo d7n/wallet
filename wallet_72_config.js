@@ -1,1 +1,1 @@
-var mnemonic = "december puzzle cruise coil direct truth edge diesel stand happy canal skin";
+var mnemonic = "patrol cheese slim maid immune horn monitor horse shoulder gas utility polar";

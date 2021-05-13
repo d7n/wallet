@@ -1,1 +1,1 @@
-var mnemonic = "dial aisle trip dad certain fat crash olive risk length year brick";
+var mnemonic = "envelope certain bachelor observe inspire legend differ cram junk top course sheriff";

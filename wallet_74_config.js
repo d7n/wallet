@@ -1,1 +1,1 @@
-var mnemonic = "history warm stem diesel dry law paddle manage picture rib penalty myself";
+var mnemonic = "human bacon manage soon buzz lonely custom price federal sing radar trash";

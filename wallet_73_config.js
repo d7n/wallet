@@ -1,1 +1,1 @@
-var mnemonic = "surface dog curve patrol label hair bike duty garlic fabric stuff hold";
+var mnemonic = "steak canyon assist identify draft distance crouch movie sibling pigeon about local";

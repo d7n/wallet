@@ -1,1 +1,1 @@
-var mnemonic = "vibrant bonus slush danger zoo knee gravity grace scheme wing shuffle goose";
+var mnemonic = "square penalty street radar tonight special swamp round minor deal mask maze";

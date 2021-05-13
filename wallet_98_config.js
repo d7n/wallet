@@ -1,1 +1,1 @@
-var mnemonic = "expire combine coil cart coconut shrug upon genius young memory urge coin";
+var mnemonic = "range rude popular impact artist giant sister sort gain march click suit";

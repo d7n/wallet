@@ -1,1 +1,1 @@
-var mnemonic = "glance hurry section high tone father arena rain dress note blue husband";
+var mnemonic = "way trust foot layer gun desk female detect curtain receive unique abandon";

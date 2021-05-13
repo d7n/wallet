@@ -1,1 +1,1 @@
-var mnemonic = "move into frost various tower flat genuine income stool whisper click bargain";
+var mnemonic = "pepper step fresh outer pudding lunch exercise trigger asset boring jaguar pledge";

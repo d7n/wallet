@@ -1,1 +1,1 @@
-var mnemonic = "give melody candy vacuum quarter kangaroo worry aim desert soon cactus depend";
+var mnemonic = "glimpse alert claw uncle dynamic camera tiny cause shallow split frequent surprise";

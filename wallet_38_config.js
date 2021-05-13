@@ -1,1 +1,1 @@
-var mnemonic = "slim junk behind crystal fluid sea squeeze true genre view palm young";
+var mnemonic = "chicken worry stamp anger filter gravity process someone offer rival crane humble";

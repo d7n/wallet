@@ -1,1 +1,1 @@
-var mnemonic = "way side aim rail emotion decline toast seed teach daughter shell that";
+var mnemonic = "boy boring creek sense reduce antenna exhaust valley number super stool nasty";

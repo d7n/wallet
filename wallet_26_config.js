@@ -1,1 +1,1 @@
-var mnemonic = "zero theme digital novel rival squeeze razor hungry tattoo perfect canvas talk";
+var mnemonic = "dentist juice menu monitor goat fly much legend assist capable youth spot";

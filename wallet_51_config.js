@@ -1,1 +1,1 @@
-var mnemonic = "universe warm taste ignore drastic inject same abandon later mouse insane tiny";
+var mnemonic = "purpose scorpion crowd garage ethics mom naive divorce forest vague neglect nature";

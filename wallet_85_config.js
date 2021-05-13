@@ -1,1 +1,1 @@
-var mnemonic = "muffin zebra animal meat oven illness innocent evolve robot cement tuna sound";
+var mnemonic = "asthma hole thrive exit admit attack chuckle crowd border quality civil powder";

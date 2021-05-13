@@ -1,1 +1,1 @@
-var mnemonic = "situate swing fatal raise message label excite orange minor screen worth feed";
+var mnemonic = "ski tornado riot cable jelly canal morning rather quote moral act duck";

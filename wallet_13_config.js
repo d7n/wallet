@@ -1,1 +1,1 @@
-var mnemonic = "woman vapor flat ability park maid model conduct float december shock retreat";
+var mnemonic = "truly dignity bacon foam wall forest fragile engage drastic evil same funny";

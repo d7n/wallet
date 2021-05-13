@@ -1,1 +1,1 @@
-var mnemonic = "knock venture begin blind forest soul cage repeat erase depend subject visual";
+var mnemonic = "tiger tobacco shield middle flower delay over abstract gauge kitten life useless";

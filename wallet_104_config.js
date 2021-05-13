@@ -1,1 +1,1 @@
-var mnemonic = "bag liberty action window differ buddy direct dice size roof pizza reopen";
+var mnemonic = "market predict frog slender bitter apart pistol again fever crucial vivid rich";

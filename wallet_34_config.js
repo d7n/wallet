@@ -1,1 +1,1 @@
-var mnemonic = "truth paddle desert social young athlete any utility buddy salmon option cash";
+var mnemonic = "agree prevent book elevator present hour defy only grant goose degree genre";
