@@ -1,1 +1,1 @@
-var mnemonic = "excess pear wife upset omit filter buffalo match capital nose lemon poverty";
+var mnemonic = "warrior exhaust display grab real sight mutual modify acquire real service mom";

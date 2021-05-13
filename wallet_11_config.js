@@ -1,1 +1,1 @@
-var mnemonic = "trip legal alarm charge sphere input cruel used warrior actual pilot sunny";
+var mnemonic = "used online hybrid romance hover asthma hotel certain remember guide swing blue";

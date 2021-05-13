@@ -1,1 +1,1 @@
-var mnemonic = "volcano humble proud sure flag vintage skull quality fruit maple pottery guard";
+var mnemonic = "educate party point warrior identify armor expand category album moment glass vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse cabbage height screen height inspire whisper soft shove undo east mistake";
+var mnemonic = "food swap sadness squeeze merit problem install always chase suspect speed calm";

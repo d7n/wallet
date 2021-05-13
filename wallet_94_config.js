@@ -1,1 +1,1 @@
-var mnemonic = "profit speed attend issue cement town sport devote transfer tomorrow water trouble";
+var mnemonic = "bike useless boost gentle gesture retire cotton predict nest glow hospital cover";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix immense romance lesson thing call vibrant snow gather foil alter oil";
+var mnemonic = "uniform excite drastic grow drift front swamp milk certain club metal weekend";

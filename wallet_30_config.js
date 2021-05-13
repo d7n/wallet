@@ -1,1 +1,1 @@
-var mnemonic = "divide steel ancient crack toast aunt derive core tube course steel arch";
+var mnemonic = "prevent comic barrel trim van victory shrug chronic spike joy hour sword";

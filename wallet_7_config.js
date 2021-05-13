@@ -1,1 +1,1 @@
-var mnemonic = "assist anchor carbon sniff boat school stem end coffee comic argue delay";
+var mnemonic = "shop guitar lake rail diet require hour race select under aim feel";

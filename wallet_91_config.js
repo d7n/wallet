@@ -1,1 +1,1 @@
-var mnemonic = "camera rough cloud forget cluster reward member begin same beef tribe process";
+var mnemonic = "angle winter lottery eagle shadow liar expose insane system cushion steak blade";

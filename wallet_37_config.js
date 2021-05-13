@@ -1,1 +1,1 @@
-var mnemonic = "seek hazard deer belt acoustic price like liar strong banner stock excite";
+var mnemonic = "twin away twenty ready name type rice blush equal demise game flock";

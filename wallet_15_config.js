@@ -1,1 +1,1 @@
-var mnemonic = "drama suffer donate spike save report crucial wheel tool such visit when";
+var mnemonic = "derive cart lake alpha fantasy hamster aspect absent country loud deal motor";

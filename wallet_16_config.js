@@ -1,1 +1,1 @@
-var mnemonic = "cattle vessel advance weapon scene family choice betray pulp tobacco agent speak";
+var mnemonic = "stool project rack chat involve august spawn all ski knock until kind";

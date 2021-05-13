@@ -1,1 +1,1 @@
-var mnemonic = "small bone pepper exclude citizen pill tone badge rabbit story jelly define";
+var mnemonic = "element dinner mom correct banana endorse order note also pelican human wire";

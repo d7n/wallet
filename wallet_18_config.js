@@ -1,1 +1,1 @@
-var mnemonic = "wine erase recipe sauce december estate eye exotic drop grit image ability";
+var mnemonic = "arctic ready party involve quiz envelope slot naive approve clinic layer style";

@@ -1,1 +1,1 @@
-var mnemonic = "upset aerobic quantum pair essay file civil giraffe caught ketchup snap copy";
+var mnemonic = "leader guilt kid dry neck shine perfect jeans chronic mechanic usage endless";

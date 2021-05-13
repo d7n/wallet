@@ -1,1 +1,1 @@
-var mnemonic = "canal sure indicate leader drum pelican vault melt trend weekend hood eye";
+var mnemonic = "above person tell deal project kite call word dad gallery theme festival";

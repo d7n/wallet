@@ -1,1 +1,1 @@
-var mnemonic = "weapon couple mountain mixed ozone eyebrow virtual mule foil witness razor rescue";
+var mnemonic = "pull gallery debate december angry innocent small fiscal toy unfair matrix blur";

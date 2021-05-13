@@ -1,1 +1,1 @@
-var mnemonic = "illness round sustain accident hurdle chapter evoke weapon tag truly lazy olive";
+var mnemonic = "giggle large neglect cactus elephant sister van basket avoid discover critic sample";

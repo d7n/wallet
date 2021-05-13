@@ -1,1 +1,1 @@
-var mnemonic = "scrap clap slice deer reform element peasant apart tragic amused inmate motion";
+var mnemonic = "fitness when afford artefact pig amazing boil cricket venture aerobic fire winter";

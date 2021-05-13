@@ -1,1 +1,1 @@
-var mnemonic = "garbage lizard salute hour cancel fix message slogan alien alarm silly crisp";
+var mnemonic = "blur inject opera object law sense slim supreme orphan auto direct hair";

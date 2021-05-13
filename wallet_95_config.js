@@ -1,1 +1,1 @@
-var mnemonic = "scissors cram enjoy aspect crop barrel summer feel fence cave fame tortoise";
+var mnemonic = "repair balance pull erupt typical knee list kitchen motion festival winter trade";

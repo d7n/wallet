@@ -1,1 +1,1 @@
-var mnemonic = "mushroom movie traffic budget stuff glory measure offer cloud cable shine pudding";
+var mnemonic = "bean deal alpha fun kingdom into muscle display tower amused still degree";

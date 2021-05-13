@@ -1,1 +1,1 @@
-var mnemonic = "purpose angle water flower common pumpkin mail inhale shell fantasy remind fluid";
+var mnemonic = "ride remind lounge actor cricket under undo enable client swallow bitter joke";

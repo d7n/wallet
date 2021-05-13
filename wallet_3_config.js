@@ -1,1 +1,1 @@
-var mnemonic = "gorilla toss group spy bargain aware thunder peanut mesh sponsor build buddy";
+var mnemonic = "cream grain dentist tuna husband consider choice answer prepare wall argue way";

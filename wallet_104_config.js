@@ -1,1 +1,1 @@
-var mnemonic = "net marriage drum desk deposit final ship jar deposit unknown raise monster";
+var mnemonic = "ensure diary fence sausage unfair boost oyster pistol alert news acquire olympic";

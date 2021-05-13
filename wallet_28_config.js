@@ -1,1 +1,1 @@
-var mnemonic = "shoot furnace hazard vintage unfair library sibling knee sheriff awkward village fancy";
+var mnemonic = "hockey fog tag mail school field remove apple shoe miracle hollow hurt";

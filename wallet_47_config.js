@@ -1,1 +1,1 @@
-var mnemonic = "achieve female dentist panther unfair have chat casino pact taxi kingdom amateur";
+var mnemonic = "pipe repair exile car excess caught bean verify flock edge decide screen";

@@ -1,1 +1,1 @@
-var mnemonic = "rely fold media toward struggle bid swift oblige frost area execute royal";
+var mnemonic = "high large enhance grocery invite car awful figure equip kit cabin physical";

@@ -1,1 +1,1 @@
-var mnemonic = "bus stomach job name emotion nature echo agree bicycle virtual cushion human";
+var mnemonic = "replace edit sting gun suspect neck wage action actor void victory answer";

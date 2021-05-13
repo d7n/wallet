@@ -1,1 +1,1 @@
-var mnemonic = "stereo eager round odor differ weekend ecology nice age electric twenty coconut";
+var mnemonic = "wisdom lobster carbon enjoy rent error craft core journey champion scene obvious";

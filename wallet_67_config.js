@@ -1,1 +1,1 @@
-var mnemonic = "high kangaroo result foster follow cousin icon glance long avoid sister anxiety";
+var mnemonic = "party tag dove rent improve runway exotic wide absurd vivid duty early";

@@ -1,1 +1,1 @@
-var mnemonic = "mind party tenant brown enrich helmet cabbage task follow farm wedding film";
+var mnemonic = "another fruit rookie cabbage direct verify weekend useless need purity giraffe fit";

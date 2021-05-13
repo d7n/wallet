@@ -1,1 +1,1 @@
-var mnemonic = "anxiety want fault answer twelve swift offer lady dad civil south bundle";
+var mnemonic = "health seat loop local panda undo strong infant duty glare brown labor";

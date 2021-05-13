@@ -1,1 +1,1 @@
-var mnemonic = "dinner win art someone woman figure thought struggle stay sense dynamic prevent";
+var mnemonic = "limit area junior mobile theme voyage photo salute fabric gift dry room";

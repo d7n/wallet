@@ -1,1 +1,1 @@
-var mnemonic = "casual select vehicle install perfect primary survey aware decline asset master stool";
+var mnemonic = "laundry avoid city fence lobster pink slab night comic rhythm inform above";

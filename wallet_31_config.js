@@ -1,1 +1,1 @@
-var mnemonic = "salt interest family twenty innocent zoo kit race enemy enhance march delay";
+var mnemonic = "space catch monster grief salon expose type patrol gravity behind divert forest";

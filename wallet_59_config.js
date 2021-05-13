@@ -1,1 +1,1 @@
-var mnemonic = "first evoke omit nasty imitate twin gasp dignity tomato island family oven";
+var mnemonic = "legend fix manage vapor distance describe control novel scorpion broom palace hobby";

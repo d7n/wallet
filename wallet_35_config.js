@@ -1,1 +1,1 @@
-var mnemonic = "easy elder reduce wonder actor sleep wedding begin horn way slim flush";
+var mnemonic = "island tumble bunker depend couch pond damage black calm tiger december play";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch village gold film isolate topple behave face eyebrow buddy stem hint";
+var mnemonic = "security elephant there badge hire planet absurd armed parrot sponsor lemon area";

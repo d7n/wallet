@@ -1,1 +1,1 @@
-var mnemonic = "vendor few apart useless blind swarm iron utility alien husband whale hunt";
+var mnemonic = "leave slim various image lawn mom road cat estate chunk upon inform";

@@ -1,1 +1,1 @@
-var mnemonic = "blue bunker wide zoo order obscure body syrup usual quick alert rubber";
+var mnemonic = "shoot never once exchange bamboo misery taste practice stomach grief favorite seek";

@@ -1,1 +1,1 @@
-var mnemonic = "topic shield bicycle carry denial switch solve bar surface anger approve filter";
+var mnemonic = "six duty april rival hold announce march ready crumble hospital assume reason";

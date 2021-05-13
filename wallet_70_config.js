@@ -1,1 +1,1 @@
-var mnemonic = "glow flavor what genuine tone garden discover sure pill minor brush water";
+var mnemonic = "phone wish spirit eye suspect cup priority mass begin evil correct coil";

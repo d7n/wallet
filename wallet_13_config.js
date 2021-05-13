@@ -1,1 +1,1 @@
-var mnemonic = "rival core renew ecology cute desert delay middle rate cradle impulse parrot";
+var mnemonic = "melt one dream bomb fossil beef satoshi lava main rotate guitar anxiety";

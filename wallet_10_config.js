@@ -1,1 +1,1 @@
-var mnemonic = "liquid negative universe sword flip bullet often garment decide crush elephant prevent";
+var mnemonic = "donkey elite buyer draw journey entry skill angle isolate tape pluck stone";

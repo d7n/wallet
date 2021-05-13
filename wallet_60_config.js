@@ -1,1 +1,1 @@
-var mnemonic = "old vapor reopen slight wasp fresh letter category affair debate leaf fire";
+var mnemonic = "jewel coconut subway broken sock security swift dolphin nose glue lab zero";

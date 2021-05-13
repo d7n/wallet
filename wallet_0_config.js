@@ -1,1 +1,1 @@
-var mnemonic = "rain dress response crane climb topple vessel since shuffle hawk eagle explain";
+var mnemonic = "party vessel acid movie net shield alter level focus interest fault picnic";

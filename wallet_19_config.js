@@ -1,1 +1,1 @@
-var mnemonic = "eye theme one submit comfort announce physical chronic pear poet swarm night";
+var mnemonic = "element stock brain artist fall choose cream chicken artefact concert million model";

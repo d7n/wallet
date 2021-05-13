@@ -1,1 +1,1 @@
-var mnemonic = "absurd prosper shallow chunk fossil bird advice decline soup direct bulk height";
+var mnemonic = "slam betray cigar dust carbon solve rotate salute hour develop sound paddle";

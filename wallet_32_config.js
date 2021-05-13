@@ -1,1 +1,1 @@
-var mnemonic = "during desert design filter world useless nasty color piece ahead arm yellow";
+var mnemonic = "grass panther east ginger mobile that spatial inherit oblige language will bright";

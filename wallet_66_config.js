@@ -1,1 +1,1 @@
-var mnemonic = "deny write hybrid sick ribbon thumb minor quality reduce hidden cross address";
+var mnemonic = "now venue spice object churn guess quick fatigue addict fringe category owner";

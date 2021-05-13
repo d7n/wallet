@@ -1,1 +1,1 @@
-var mnemonic = "path local shield lake sentence broccoli joy engage spot prize picnic apology";
+var mnemonic = "soda obey uphold human embrace surge rotate zoo chief easy key tuition";

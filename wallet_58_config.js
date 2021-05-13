@@ -1,1 +1,1 @@
-var mnemonic = "joke powder bike disagree raccoon current attitude pizza audit pair memory invest";
+var mnemonic = "voyage decade near later used universe lab atom possible amazing loan team";

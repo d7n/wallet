@@ -1,1 +1,1 @@
-var mnemonic = "dune gravity raccoon pupil fold egg sweet ten violin weird exclude custom";
+var mnemonic = "stool identify increase garlic alert video talent topple boat spin detail clean";

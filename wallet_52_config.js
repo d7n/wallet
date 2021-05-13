@@ -1,1 +1,1 @@
-var mnemonic = "praise pattern deny boy window cheese wisdom clean cup cake spring sadness";
+var mnemonic = "point path estate hard salt more present behave rack logic knock loyal";

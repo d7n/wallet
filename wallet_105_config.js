@@ -1,1 +1,1 @@
-var mnemonic = "pride advice price wire figure smart search coyote rabbit wood insane vague";
+var mnemonic = "away brave route carry job prefer discover own shift energy unfold entry";

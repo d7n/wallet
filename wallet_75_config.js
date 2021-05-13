@@ -1,1 +1,1 @@
-var mnemonic = "earn arrive lecture roast polar divert rent shaft plastic infant note explain";
+var mnemonic = "funny pink feed pave because joke inmate left curve reason drop rural";

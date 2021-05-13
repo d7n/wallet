@@ -1,1 +1,1 @@
-var mnemonic = "tennis gaze wing mixture stand pepper burden give scrub grid vacuum initial";
+var mnemonic = "typical critic throw token party reward venue shallow small unfold sister shoe";

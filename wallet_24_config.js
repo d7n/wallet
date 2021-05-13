@@ -1,1 +1,1 @@
-var mnemonic = "lumber exchange chaos beauty wealth normal wealth mixed ski title tobacco canvas";
+var mnemonic = "tunnel awful bleak enemy depth camp marriage dry disease machine relief uncover";

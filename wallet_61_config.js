@@ -1,1 +1,1 @@
-var mnemonic = "debris worth suggest flame modify patch cry eyebrow original bag mix vivid";
+var mnemonic = "satoshi solve gate nephew group crawl device slim guilt arrange pond field";

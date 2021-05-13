@@ -1,1 +1,1 @@
-var mnemonic = "burger page choice distance enhance bench verb source original thunder side reduce";
+var mnemonic = "boring web attitude multiply athlete cute never indicate theory planet only dog";

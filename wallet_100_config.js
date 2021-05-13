@@ -1,1 +1,1 @@
-var mnemonic = "broken depth person shoot arrow certain outside adult suffer festival nurse swap";
+var mnemonic = "boost social grass deputy echo chicken ripple kangaroo legal angle rookie phone";

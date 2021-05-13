@@ -1,1 +1,1 @@
-var mnemonic = "zone fiscal motor sunset thing wood under cabin bag risk learn version";
+var mnemonic = "prize viable taxi mountain collect rain mirror volume reason route snow donor";

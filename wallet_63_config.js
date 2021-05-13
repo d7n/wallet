@@ -1,1 +1,1 @@
-var mnemonic = "bounce typical glare pioneer novel young chronic dry catch behave cup goose";
+var mnemonic = "ancient fruit hedgehog valley quarter glad lottery unit liquid prosper tired just";

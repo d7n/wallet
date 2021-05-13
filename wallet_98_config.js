@@ -1,1 +1,1 @@
-var mnemonic = "laptop web doll report old involve neglect bubble remain side spring blast";
+var mnemonic = "riot clown truck captain consider hold eagle goddess eyebrow milk scorpion document";

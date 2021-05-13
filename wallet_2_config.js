@@ -1,1 +1,1 @@
-var mnemonic = "promote seed caution doll tumble buzz indoor ball imitate renew palace bomb";
+var mnemonic = "insane canvas riot blanket perfect lock aisle lucky sea boring answer sugar";

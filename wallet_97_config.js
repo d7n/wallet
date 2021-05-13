@@ -1,1 +1,1 @@
-var mnemonic = "faculty label delay atom collect glow orchard all spoil bean odor fitness";
+var mnemonic = "ride stumble verify bonus crater labor truly wise plunge alter plug cluster";

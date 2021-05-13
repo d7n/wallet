@@ -1,1 +1,1 @@
-var mnemonic = "dynamic retreat weasel runway tomorrow forum action merry slim wood honey clay";
+var mnemonic = "fluid frost candy face blanket spring stock live buffalo speed short hero";

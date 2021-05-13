@@ -1,1 +1,1 @@
-var mnemonic = "diet cross basket stone canyon gorilla call rely brass banner hobby sign";
+var mnemonic = "because uphold tuna amused spread insane ready accident flag letter become parent";

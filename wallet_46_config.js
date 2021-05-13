@@ -1,1 +1,1 @@
-var mnemonic = "topic trim cart tiger any metal meat wage mixed august impose siren";
+var mnemonic = "symbol heart position mom fan mandate buyer special dinosaur office trigger maze";

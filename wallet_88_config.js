@@ -1,1 +1,1 @@
-var mnemonic = "country book fruit ribbon false identify suit junior speed piano silk cancel";
+var mnemonic = "rail pole media hungry tonight kit guard online assist seven tooth napkin";

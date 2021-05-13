@@ -1,1 +1,1 @@
-var mnemonic = "grab unknown property thumb design exotic patch lumber night seek guilt chunk";
+var mnemonic = "choose assist prison one dignity robot enrich ramp trend camera shoulder october";

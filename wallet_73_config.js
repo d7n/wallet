@@ -1,1 +1,1 @@
-var mnemonic = "cause balance way museum shield cat north feed hip they fish antique";
+var mnemonic = "shell snap saddle limb egg uncle join vanish absent program fluid custom";

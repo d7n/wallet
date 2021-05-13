@@ -1,1 +1,1 @@
-var mnemonic = "stomach boring pink organ coral crush blame option drip diamond among sport";
+var mnemonic = "undo vintage arrange point addict trigger silly crumble rhythm bind cave oblige";

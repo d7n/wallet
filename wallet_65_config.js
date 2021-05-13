@@ -1,1 +1,1 @@
-var mnemonic = "breeze soon clock brush crater elevator cost dust slender symbol hockey argue";
+var mnemonic = "despair super live battle brick useful month orphan velvet cigar depth excess";

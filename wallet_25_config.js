@@ -1,1 +1,1 @@
-var mnemonic = "merge invest protect host exile delay absurd sound track science nut surface";
+var mnemonic = "jazz liberty vivid humor uncover attitude agent army zebra primary theory alone";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle develop vivid knee dish orient pluck spray sample nominee little neck";
+var mnemonic = "prison present denial enemy endorse soap select domain private coyote vivid elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial theory gun era repeat salon immune soul depart miracle frame rice";
+var mnemonic = "movie quiz thank chicken slam multiply orchard warrior mass copper flavor animal";
