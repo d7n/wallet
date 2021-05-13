@@ -1,1 +1,1 @@
-var mnemonic = "gallery head coral bundle wrap soul either occur sheriff dance battle trash";
+var mnemonic = "belt crime skate horn surround north time gravity license fashion symptom sausage";

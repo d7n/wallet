@@ -1,1 +1,1 @@
-var mnemonic = "symptom obtain delay tennis wheel later resist autumn color frozen early spice";
+var mnemonic = "ribbon firm verify wrist wait tennis dawn buzz mesh click man gesture";

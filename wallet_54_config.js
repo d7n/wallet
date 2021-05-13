@@ -1,1 +1,1 @@
-var mnemonic = "tongue royal snow smooth laptop board figure tribe boss drill pause expect";
+var mnemonic = "bronze project issue pass stamp deposit transfer faculty abandon circle coffee stay";

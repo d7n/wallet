@@ -1,1 +1,1 @@
-var mnemonic = "pony announce march shiver joy march unfair before ride palace tortoise simple";
+var mnemonic = "guess elbow fly omit outer sibling favorite blush address degree measure venture";

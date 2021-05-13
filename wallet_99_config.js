@@ -1,1 +1,1 @@
-var mnemonic = "time page midnight obvious radio nut interest tuna buzz disorder color relief";
+var mnemonic = "arm welcome future bargain sibling deposit mansion day endorse spin fantasy patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy core egg plug mirror remind sunny poverty idle panel safe reunion";
+var mnemonic = "talent skirt either shoe cruise excite friend awesome silk can eager obvious";

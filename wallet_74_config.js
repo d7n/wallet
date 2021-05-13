@@ -1,1 +1,1 @@
-var mnemonic = "clay leader over shift salon spy book tomorrow frozen dose differ acquire";
+var mnemonic = "orbit uncle dizzy filter action explain gauge census bird island lemon prefer";

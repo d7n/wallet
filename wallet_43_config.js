@@ -1,1 +1,1 @@
-var mnemonic = "glove crater couple join rubber brisk opera need tuition earth vessel olive";
+var mnemonic = "foam ice thing green pipe cube arch immense zone bless quote adapt";

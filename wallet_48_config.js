@@ -1,1 +1,1 @@
-var mnemonic = "satisfy series click bonus wonder student load robust gym indoor donor chef";
+var mnemonic = "fetch glove salad junior goddess glare meadow expect giggle table three glad";

@@ -1,1 +1,1 @@
-var mnemonic = "rule speak elegant split try person web room lake casual leaf nurse";
+var mnemonic = "animal dove worry grow human gate same parrot wife real shiver rent";

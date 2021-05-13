@@ -1,1 +1,1 @@
-var mnemonic = "clean actress man differ scheme rely flower mass harvest oxygen pyramid hello";
+var mnemonic = "pepper wolf deputy mountain category blame slot live punch minor park lazy";

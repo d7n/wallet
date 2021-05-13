@@ -1,1 +1,1 @@
-var mnemonic = "toast stock analyst alone candy one find sweet wear typical street bind";
+var mnemonic = "morning assault slice announce mix mixture soup same reopen memory outer retire";

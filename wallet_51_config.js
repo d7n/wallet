@@ -1,1 +1,1 @@
-var mnemonic = "blade finger into excite bitter fuel judge erupt custom brain engine subject";
+var mnemonic = "stable false jeans asset phone icon ginger social march wrist brand various";

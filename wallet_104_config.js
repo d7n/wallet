@@ -1,1 +1,1 @@
-var mnemonic = "blouse hollow spell vendor sketch garden fence glow thing crazy swallow tone";
+var mnemonic = "vault glue art source potato group pluck double adjust hair smoke nephew";

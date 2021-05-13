@@ -1,1 +1,1 @@
-var mnemonic = "year place fatigue owner solar casino turtle vital behave rebel spike mystery";
+var mnemonic = "long energy position omit swing oval require embark kind toward antenna pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin club point reason there forum small gauge patch stick avoid delay";
+var mnemonic = "mesh buzz danger erase buzz usage fashion short idea salmon erosion animal";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna fame absent coast episode bounce uphold budget glimpse actor capable fault";
+var mnemonic = "below gap cheap unfold card volcano forest scissors club swing flavor antenna";

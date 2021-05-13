@@ -1,1 +1,1 @@
-var mnemonic = "grab exit exotic actress question enable absent relief nerve soon dry extra";
+var mnemonic = "sport apple essence swim weekend invest this prepare broccoli wise cube time";

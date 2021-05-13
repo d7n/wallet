@@ -1,1 +1,1 @@
-var mnemonic = "bronze winter casino feature vital laptop orient play holiday dish sheriff jewel";
+var mnemonic = "opinion brand bench erupt fiber seven bottom shoot turtle lumber hungry funny";

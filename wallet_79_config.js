@@ -1,1 +1,1 @@
-var mnemonic = "opinion horror coyote actor race much vapor raven scatter permit chair sniff";
+var mnemonic = "eager perfect little legend gas into wheat decade private rapid obscure staff";

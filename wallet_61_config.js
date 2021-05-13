@@ -1,1 +1,1 @@
-var mnemonic = "lyrics banana movie over mango mix start fatal easy use picture gasp";
+var mnemonic = "toddler first exist design head borrow beyond garment abandon copy supply bullet";

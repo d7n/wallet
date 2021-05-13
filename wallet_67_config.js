@@ -1,1 +1,1 @@
-var mnemonic = "lizard ecology bike win concert furnace heart satoshi approve fashion device witness";
+var mnemonic = "invite winner chalk stone real cream company author regret below bitter minor";

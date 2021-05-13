@@ -1,1 +1,1 @@
-var mnemonic = "gym resemble nothing almost february across avocado side glare hurt host seek";
+var mnemonic = "mutual manage wasp result cake one brain warm left fix home alien";

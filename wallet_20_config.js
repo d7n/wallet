@@ -1,1 +1,1 @@
-var mnemonic = "arrive ceiling tiny dose lumber solution napkin worth guilt prize cousin radar";
+var mnemonic = "throw unhappy welcome absurd path cousin liar clay first language produce wave";

@@ -1,1 +1,1 @@
-var mnemonic = "goose junk ridge make fine tumble syrup wedding edge marriage meat struggle";
+var mnemonic = "rail mistake deposit tennis side canyon empower snake violin priority middle used";

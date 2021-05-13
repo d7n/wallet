@@ -1,1 +1,1 @@
-var mnemonic = "leader teach hamster sight direct lonely labor army reform famous enact modify";
+var mnemonic = "birth trust cricket practice upon shoe erase budget ecology raven lock suggest";

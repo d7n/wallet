@@ -1,1 +1,1 @@
-var mnemonic = "flame virtual mask correct embrace ice fuel walk usual sight home shaft";
+var mnemonic = "useful electric jealous hood genuine toe cereal swarm media cheap unusual delay";

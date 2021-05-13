@@ -1,1 +1,1 @@
-var mnemonic = "apple case ancient flag debris travel gorilla blouse truly miss antique act";
+var mnemonic = "fringe trust vapor energy remind slow position pony sausage gaze among arctic";

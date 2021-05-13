@@ -1,1 +1,1 @@
-var mnemonic = "about term zoo uncover impose plastic confirm zebra genius smooth connect garden";
+var mnemonic = "history prevent pulp broom law army game radar glue wool elevator noise";

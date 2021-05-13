@@ -1,1 +1,1 @@
-var mnemonic = "teach enroll bar pigeon essay clap grow maximum vivid nasty jar convince";
+var mnemonic = "mesh swear chimney document coin market dream game gap fitness guide shoe";

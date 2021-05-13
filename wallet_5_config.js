@@ -1,1 +1,1 @@
-var mnemonic = "empty able twice absent hello game together perfect idea catch token cereal";
+var mnemonic = "void bicycle stuff head road stomach high advice green enlist stay radio";

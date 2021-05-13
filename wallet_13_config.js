@@ -1,1 +1,1 @@
-var mnemonic = "arrest dentist topic soon scissors nominee learn range dinosaur chat dynamic blouse";
+var mnemonic = "garment foot over avoid theme bone business round glass problem shoot march";

@@ -1,1 +1,1 @@
-var mnemonic = "entry frozen paddle margin place endless chronic like notice boat protect fee";
+var mnemonic = "topple coffee project where clay mixed middle fork finish useful miss lawsuit";

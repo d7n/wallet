@@ -1,1 +1,1 @@
-var mnemonic = "feed crane ramp injury iron improve coach chair yard clown trumpet kick";
+var mnemonic = "plunge exile also dentist convince any twice flash ring organ novel current";

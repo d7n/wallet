@@ -1,1 +1,1 @@
-var mnemonic = "crisp hybrid side rally size opinion lawn good false say edge gate";
+var mnemonic = "city wrist collect fetch swim minimum voice swarm proud violin joy palm";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy object duty rely guitar jewel shrug gasp crash muffin unable voice";
+var mnemonic = "gown shiver swing slim globe giant hour empty suspect hand waste test";

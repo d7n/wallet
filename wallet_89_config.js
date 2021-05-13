@@ -1,1 +1,1 @@
-var mnemonic = "method luxury coach oppose kiwi salad poverty usual success various trophy dress";
+var mnemonic = "journey cost history skill relax thought now gold salad palm property analyst";

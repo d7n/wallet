@@ -1,1 +1,1 @@
-var mnemonic = "uncover trigger lucky input crash glide child viable silk choice second circle";
+var mnemonic = "execute labor kid drive bright artefact envelope share pet solution reflect smoke";

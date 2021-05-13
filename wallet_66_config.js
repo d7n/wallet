@@ -1,1 +1,1 @@
-var mnemonic = "express world media change pizza rural vessel magic ticket trend already left";
+var mnemonic = "exchange fence veteran project source play force vault party airport cash skate";

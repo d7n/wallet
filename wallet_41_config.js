@@ -1,1 +1,1 @@
-var mnemonic = "royal weekend tent staff uncover obtain loan black praise future swarm prize";
+var mnemonic = "trigger draft example crawl final tomato gossip amateur wasp vessel alert suit";

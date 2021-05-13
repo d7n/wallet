@@ -1,1 +1,1 @@
-var mnemonic = "job position invite mother kit attitude hard room device toilet emotion rather";
+var mnemonic = "clump pottery energy earth adapt response glide void club delay scatter crew";

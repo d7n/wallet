@@ -1,1 +1,1 @@
-var mnemonic = "school cement barely cream symptom retire index giggle inmate cruel credit input";
+var mnemonic = "ecology infant sail orange tunnel odor course electric proof finger upper exit";

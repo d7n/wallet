@@ -1,1 +1,1 @@
-var mnemonic = "baby frown clever brush warfare over shoulder kiwi ozone stove physical pioneer";
+var mnemonic = "lazy frost walk radar jealous liar idle unit nation pigeon horror blush";

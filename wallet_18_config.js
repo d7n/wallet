@@ -1,1 +1,1 @@
-var mnemonic = "heart dice grant survey wage unaware later salon coach inspire daring session";
+var mnemonic = "possible special pair dinner sustain search flag endless turkey expect burden fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "concert wasp please motion ethics hill another scale roof uncover erase panic";
+var mnemonic = "kitten fashion pyramid cash boat company gravity injury cloth leopard rain dose";

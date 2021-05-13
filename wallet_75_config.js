@@ -1,1 +1,1 @@
-var mnemonic = "below adapt lyrics ankle wood budget jewel sell course reopen junk small";
+var mnemonic = "thank notable twice spare suit fix quantum member begin armor endless foster";

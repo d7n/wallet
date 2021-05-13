@@ -1,1 +1,1 @@
-var mnemonic = "palm excuse say thrive indicate badge foster loan lucky season dwarf tower";
+var mnemonic = "wife record cost outer fetch summer luxury cloud vital expect giraffe cry";

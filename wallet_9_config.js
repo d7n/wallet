@@ -1,1 +1,1 @@
-var mnemonic = "diagram find consider improve term shuffle notice age fall fitness indoor grit";
+var mnemonic = "hungry maze crunch mystery coil bundle popular devote unfair truth play embark";

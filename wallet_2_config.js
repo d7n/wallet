@@ -1,1 +1,1 @@
-var mnemonic = "chronic online blame august ankle differ chuckle devote pizza idle emerge deer";
+var mnemonic = "health absorb milk wear uncle course next airport grass unlock pencil remind";

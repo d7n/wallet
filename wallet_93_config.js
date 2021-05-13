@@ -1,1 +1,1 @@
-var mnemonic = "buddy subject misery rally push quote stock flash access chief great ginger";
+var mnemonic = "icon debate family north mean tent loud proof evidence cook hobby gauge";

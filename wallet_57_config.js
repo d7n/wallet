@@ -1,1 +1,1 @@
-var mnemonic = "column final image bread domain narrow field broken blade sibling flock extend";
+var mnemonic = "pet dust quick cruise body tumble agent nominee viable wet say coast";

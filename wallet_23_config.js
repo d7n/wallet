@@ -1,1 +1,1 @@
-var mnemonic = "doll inquiry gold pluck quote open view seminar casual chunk grape brave";
+var mnemonic = "practice ask cherry early spy dinosaur game hawk tongue where warrior crush";

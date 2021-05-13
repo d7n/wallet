@@ -1,1 +1,1 @@
-var mnemonic = "flag tower found gate scare neither shove divorce say clean lounge virus";
+var mnemonic = "around combine below when imitate erase toward town antenna pelican crouch plastic";

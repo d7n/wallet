@@ -1,1 +1,1 @@
-var mnemonic = "autumn pen marine story feed soda affair math topic panic expire surge";
+var mnemonic = "affair drop phrase teach mind apart position crystal crouch switch sure wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "base close insane tube rocket globe manual eternal hurt novel coin track";
+var mnemonic = "brisk stick planet sweet trouble glide cricket spice verify proof quantum rate";

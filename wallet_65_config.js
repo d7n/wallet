@@ -1,1 +1,1 @@
-var mnemonic = "soldier calm uniform injury banner card slide sunset stomach beach electric deposit";
+var mnemonic = "tell obscure cake cloth rookie sadness client pumpkin film cube unveil excuse";

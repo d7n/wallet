@@ -1,1 +1,1 @@
-var mnemonic = "royal library chapter stock street artefact announce same promote baby tunnel topple";
+var mnemonic = "rural empower size wide boss wall because item buzz champion diary pattern";

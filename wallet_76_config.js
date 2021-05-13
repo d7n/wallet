@@ -1,1 +1,1 @@
-var mnemonic = "mirror wash foot people pill system notable phone crater zone only fuel";
+var mnemonic = "perfect evoke wisdom news teach orient debris ensure royal pipe rapid toe";

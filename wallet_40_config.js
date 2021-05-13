@@ -1,1 +1,1 @@
-var mnemonic = "enforce hedgehog leader purchase exit salt alone entire menu receive trumpet april";
+var mnemonic = "essence include click cash furnace private unfair base flag ship limb cage";

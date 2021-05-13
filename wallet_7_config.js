@@ -1,1 +1,1 @@
-var mnemonic = "affair broccoli antenna afford pluck scheme enhance plug toilet hobby relax identify";
+var mnemonic = "nice endless assume fitness bird depend match stadium rifle loud wool diet";

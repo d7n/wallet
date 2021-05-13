@@ -1,1 +1,1 @@
-var mnemonic = "stuff visa rug hire glass supply away image actress lemon season crazy";
+var mnemonic = "bench rich gauge any omit thrive poem dune harbor select capable turkey";

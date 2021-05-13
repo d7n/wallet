@@ -1,1 +1,1 @@
-var mnemonic = "winter assist jealous endless nominee accident edge pony relax fashion wealth then";
+var mnemonic = "world rigid ball target permit cool prison ostrich east enlist hospital such";

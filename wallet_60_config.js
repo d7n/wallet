@@ -1,1 +1,1 @@
-var mnemonic = "pact check album lift tag wash glove elite fatal audit series much";
+var mnemonic = "bag casual turtle zoo nuclear era waste tower amused scheme fluid giant";

@@ -1,1 +1,1 @@
-var mnemonic = "end rule police upon gadget shift exercise giant all plastic pass allow";
+var mnemonic = "inherit awake ecology obtain tenant achieve coconut crisp obey kidney weekend glove";

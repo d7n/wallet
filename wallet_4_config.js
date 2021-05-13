@@ -1,1 +1,1 @@
-var mnemonic = "chaos sustain decrease uphold account devote smart thank pioneer jacket toss protect";
+var mnemonic = "sweet pen endless early gadget disorder trigger vanish veteran beef resemble cupboard";

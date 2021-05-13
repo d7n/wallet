@@ -1,1 +1,1 @@
-var mnemonic = "actual ill wine shadow close salt cotton brush sell discover riot rapid";
+var mnemonic = "ginger net melody labor rose brother plunge monkey scissors cupboard proud news";

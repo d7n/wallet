@@ -1,1 +1,1 @@
-var mnemonic = "crunch address rack pulse kiwi snap harsh aisle flame olive sing situate";
+var mnemonic = "head brick nuclear script own leg stand aware useless arena merry library";

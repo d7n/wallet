@@ -1,1 +1,1 @@
-var mnemonic = "tuna peanut magic access mean uniform mouse solve convince half moral casino";
+var mnemonic = "another nuclear spray obscure control blast wing hover exchange shaft traffic myself";

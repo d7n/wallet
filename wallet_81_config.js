@@ -1,1 +1,1 @@
-var mnemonic = "motor document pluck envelope kid labor cereal pigeon explain distance ribbon bird";
+var mnemonic = "fiction worth fiction basket adapt rule little time trumpet space embrace crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "sock manage lizard ribbon wonder because tell visual guitar uncle give spice";
+var mnemonic = "orient tide era staff analyst argue tortoise web mountain anchor warfare repeat";

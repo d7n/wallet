@@ -1,1 +1,1 @@
-var mnemonic = "before steak brief connect funny palm orchard sweet nut scare jeans crop";
+var mnemonic = "shrimp grant trumpet craft happy volcano load over valve shine door tent";

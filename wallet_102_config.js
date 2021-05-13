@@ -1,1 +1,1 @@
-var mnemonic = "recall about abuse burden jeans abandon minimum put dish forest real obey";
+var mnemonic = "quarter gentle fold web winter trumpet arrow eternal type slab enemy soon";

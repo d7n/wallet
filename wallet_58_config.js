@@ -1,1 +1,1 @@
-var mnemonic = "wheat claw siege galaxy thrive place repair inside ivory border scene grab";
+var mnemonic = "paddle romance caution embark certain wasp swing baby rapid route labor warrior";

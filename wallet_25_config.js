@@ -1,1 +1,1 @@
-var mnemonic = "age poet hazard hammer pilot walnut economy couple energy puppy helmet universe";
+var mnemonic = "cry turkey gentle blame unfair wage picture there risk right annual diagram";

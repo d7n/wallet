@@ -1,1 +1,1 @@
-var mnemonic = "primary wedding genuine lunar aisle vital shaft apple child eternal panic manage";
+var mnemonic = "ramp swarm sun couple castle fashion rule tide spy range maze upgrade";

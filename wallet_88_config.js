@@ -1,1 +1,1 @@
-var mnemonic = "sound flame girl initial orange mobile liberty phrase vessel decorate reform bracket";
+var mnemonic = "patrol point mechanic pen fresh figure blame lake card decline private unique";

@@ -1,1 +1,1 @@
-var mnemonic = "mother noise address uncle vacuum code leg popular ball capable focus fog";
+var mnemonic = "evil minor merry hidden awful example employ rebuild message feature artwork stool";

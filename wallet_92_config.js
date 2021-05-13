@@ -1,1 +1,1 @@
-var mnemonic = "stairs describe spirit elite cliff budget pair fantasy wing husband saddle country";
+var mnemonic = "swamp dismiss rate festival answer like thank cycle satoshi chicken trigger ankle";

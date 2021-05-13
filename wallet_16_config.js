@@ -1,1 +1,1 @@
-var mnemonic = "much picture edge collect arm furnace ethics mixture grab member stick sadness";
+var mnemonic = "okay split negative check hobby grace noodle prize awesome act rice clerk";

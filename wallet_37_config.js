@@ -1,1 +1,1 @@
-var mnemonic = "paddle shiver pottery harbor addict absurd swallow entire penalty loyal dizzy wolf";
+var mnemonic = "sing acoustic donate salt adapt click tell scissors lemon upgrade upset review";

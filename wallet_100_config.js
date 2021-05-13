@@ -1,1 +1,1 @@
-var mnemonic = "ask canal conduct detail glad invest slim lock airport valid question gun";
+var mnemonic = "fun tower chronic barrel only umbrella clay high judge hip assist oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "flush spike spawn cable cheap pitch cave equip tank mention bright key";
+var mnemonic = "argue narrow sister media custom visit effort laptop rail ice isolate radar";

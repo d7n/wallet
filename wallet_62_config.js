@@ -1,1 +1,1 @@
-var mnemonic = "powder outdoor project solid lion maze degree solar expand jump child call";
+var mnemonic = "phrase scrub escape army canal burger amazing one grid night list camp";

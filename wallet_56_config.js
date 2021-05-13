@@ -1,1 +1,1 @@
-var mnemonic = "adapt run similar ticket plunge crew avoid field usage risk afford hour";
+var mnemonic = "keen neutral guilt void valve artist wasp chef drum wasp fortune life";

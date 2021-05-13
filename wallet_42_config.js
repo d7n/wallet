@@ -1,1 +1,1 @@
-var mnemonic = "stomach cheap embark library turn soccer credit permit spatial become tell fiction";
+var mnemonic = "breeze shoulder liquid laptop detect tide motor law library impulse ill virtual";

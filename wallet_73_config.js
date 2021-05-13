@@ -1,1 +1,1 @@
-var mnemonic = "gorilla torch decorate slush exact physical photo soon small obvious credit doll";
+var mnemonic = "release useless shop family tube grain swarm buddy guard upset assist sort";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke nothing inform broken army either vague sketch harbor canoe output lucky";
+var mnemonic = "garment blouse gesture exhibit manual clock tent often denial control identify harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy order rotate boss together cover until swing nothing gun memory mass";
+var mnemonic = "husband hotel cousin oval fog pen fault border attitude ketchup cabbage machine";

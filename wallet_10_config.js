@@ -1,1 +1,1 @@
-var mnemonic = "april brand curious jungle ring utility tribe protect attitude depart special dignity";
+var mnemonic = "salon slim law frame bless bachelor like minimum carry usual ticket plastic";
