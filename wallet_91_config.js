@@ -1,1 +1,1 @@
-var mnemonic = "pact entire control wagon energy nephew spell magic cliff catch middle fetch";
+var mnemonic = "enroll surround grain penalty enforce brand chase hip machine shallow absorb dress";

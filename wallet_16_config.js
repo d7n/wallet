@@ -1,1 +1,1 @@
-var mnemonic = "nice test fluid jewel eight receive hover sand march urge puzzle velvet";
+var mnemonic = "equal gasp expand turtle find chapter post twice fabric fruit frozen address";

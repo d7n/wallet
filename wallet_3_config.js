@@ -1,1 +1,1 @@
-var mnemonic = "angle auto barrel theme gasp shadow hawk total pave menu shock circle";
+var mnemonic = "danger tragic peace huge blossom dragon copy cage skin scale emerge street";

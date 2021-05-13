@@ -1,1 +1,1 @@
-var mnemonic = "volume you logic fish surround merit control tooth lab couch vintage duck";
+var mnemonic = "alter transfer piano exchange balcony mix fence educate foil hello final margin";

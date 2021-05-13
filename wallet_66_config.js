@@ -1,1 +1,1 @@
-var mnemonic = "domain leisure report paddle voice host face gain whisper maid market payment";
+var mnemonic = "hire certain primary forget black poet welcome bronze begin sphere april sudden";

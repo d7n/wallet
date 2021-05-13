@@ -1,1 +1,1 @@
-var mnemonic = "square inherit say resist mimic couple pigeon either style error hope trophy";
+var mnemonic = "quality ankle piece wife initial loop card brother smart slender warm cancel";

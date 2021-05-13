@@ -1,1 +1,1 @@
-var mnemonic = "fee expect gentle glad trust casual guilt candy observe stereo hurt type";
+var mnemonic = "immense few surface middle airport utility fantasy warm crawl ski random room";

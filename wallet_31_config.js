@@ -1,1 +1,1 @@
-var mnemonic = "unknown holiday owner height stereo dash soup sad verb come erase document";
+var mnemonic = "reject accident slot medal announce solid axis art pelican easily craft feed";

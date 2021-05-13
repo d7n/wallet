@@ -1,1 +1,1 @@
-var mnemonic = "source town acid damp sample world siren coil perfect rabbit tongue legend";
+var mnemonic = "wolf dial delay coral recycle casino hollow report diamond lion rug flag";

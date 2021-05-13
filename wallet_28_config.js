@@ -1,1 +1,1 @@
-var mnemonic = "target deer firm talk corn write saddle tribe under hero battle moral";
+var mnemonic = "inner act hazard drastic lake ride feature inner patch crane traffic hello";

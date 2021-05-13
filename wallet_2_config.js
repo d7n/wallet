@@ -1,1 +1,1 @@
-var mnemonic = "lizard make train myth high athlete party fossil venture like top hour";
+var mnemonic = "route predict little aim girl mobile joy adapt sail flush lava market";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy accident blood wheat differ obscure uncover sunny riot century curious twenty";
+var mnemonic = "erupt wool meat beef bracket increase debris eternal beef brief state profit";

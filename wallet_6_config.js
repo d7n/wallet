@@ -1,1 +1,1 @@
-var mnemonic = "clock field holiday solar alarm captain front afford catalog lemon electric bracket";
+var mnemonic = "distance sight monster hazard spike quantum material battle sight icon face lumber";

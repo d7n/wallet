@@ -1,1 +1,1 @@
-var mnemonic = "dilemma reason hard valley cook pole pulp laugh video message pigeon bulb";
+var mnemonic = "harvest left boost witness evolve fringe category crystal thunder obey imitate soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "forward roast firm defy away online click weekend island rather among hobby";
+var mnemonic = "help amazing security program achieve state post leave today labor sun merge";

@@ -1,1 +1,1 @@
-var mnemonic = "other antique session bag brisk army winter betray gravity lens woman fuel";
+var mnemonic = "blast unique hover despair tide drink solar trick update side loud scale";

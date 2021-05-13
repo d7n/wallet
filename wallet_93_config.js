@@ -1,1 +1,1 @@
-var mnemonic = "curtain twist salmon pottery joke youth knock possible solution flock apology pair";
+var mnemonic = "cousin net easily engine antenna pepper cross mystery assist pledge teach orient";

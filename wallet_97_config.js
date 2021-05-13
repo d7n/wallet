@@ -1,1 +1,1 @@
-var mnemonic = "autumn harbor opera obvious course sting coil milk ticket noise hair cricket";
+var mnemonic = "put canal sting delay february govern puppy fiscal strike vital adult photo";

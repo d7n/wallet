@@ -1,1 +1,1 @@
-var mnemonic = "wide diet worth candy bicycle double degree prefer beyond lounge voyage spend";
+var mnemonic = "kind record skin hurry coral repeat hope kite lab razor endless easily";

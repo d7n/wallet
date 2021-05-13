@@ -1,1 +1,1 @@
-var mnemonic = "peasant oyster luxury era heavy melt ugly buffalo stay come lecture staff";
+var mnemonic = "rifle vicious quote feel provide concert youth sausage retreat unknown mouse erosion";

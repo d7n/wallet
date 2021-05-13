@@ -1,1 +1,1 @@
-var mnemonic = "tenant sheriff window neglect void bracket survey abandon earth faith lumber appear";
+var mnemonic = "bottom camera share invest swamp pet aerobic cable scheme poverty reason thrive";

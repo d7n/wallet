@@ -1,1 +1,1 @@
-var mnemonic = "pipe tray secret real baby cherry pulse taste kite swing ankle project";
+var mnemonic = "leisure profit devote open bag enhance evidence robust aisle coyote voice fork";

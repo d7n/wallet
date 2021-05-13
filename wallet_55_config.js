@@ -1,1 +1,1 @@
-var mnemonic = "fire father leopard turtle slim muffin result brave salute walnut vibrant jaguar";
+var mnemonic = "notable tail lizard where ride concert tackle acoustic whip issue sense nerve";

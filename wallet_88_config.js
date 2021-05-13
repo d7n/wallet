@@ -1,1 +1,1 @@
-var mnemonic = "try sadness then strike neck fire hazard moon foam cactus network lecture";
+var mnemonic = "pledge cage offer peasant doctor witness soap share spider emotion globe immune";

@@ -1,1 +1,1 @@
-var mnemonic = "drama dilemma swift science elite height bamboo parade protect sand confirm target";
+var mnemonic = "fork raccoon camp boat fog mind chimney parade train cool pizza treat";

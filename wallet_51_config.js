@@ -1,1 +1,1 @@
-var mnemonic = "velvet tennis ordinary tomato scare smart tongue stick hotel outdoor left toy";
+var mnemonic = "this indicate imitate poet trial someone knife absent cupboard wet because fatal";

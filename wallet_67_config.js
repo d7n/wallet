@@ -1,1 +1,1 @@
-var mnemonic = "enter boss swear spike cube thank peasant book canoe birth interest assume";
+var mnemonic = "you omit domain scrub rifle quarter acid easy insect marble memory sting";

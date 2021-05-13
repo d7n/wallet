@@ -1,1 +1,1 @@
-var mnemonic = "achieve cute material blame push vacant wonder arm during custom salute unable";
+var mnemonic = "pumpkin they tomorrow between thing exhibit salon crane army index chalk boost";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry lounge bar online shine permit drama race neutral wedding model pretty";
+var mnemonic = "potato sibling oyster wash load forum high gaze connect dust zone parent";

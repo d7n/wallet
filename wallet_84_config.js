@@ -1,1 +1,1 @@
-var mnemonic = "pole menu actress real capital ladder fetch squirrel bonus manage curve hamster";
+var mnemonic = "indoor squeeze test elephant tiger purse large where distance evolve matter weapon";

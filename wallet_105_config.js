@@ -1,1 +1,1 @@
-var mnemonic = "impulse motor infant jungle satisfy oven empower village physical sight peace fuel";
+var mnemonic = "easily sunset dignity square indoor final doll avoid hire universe extend amount";

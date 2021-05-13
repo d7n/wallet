@@ -1,1 +1,1 @@
-var mnemonic = "mountain kiwi fury engine joy reflect silk increase media wise milk scene";
+var mnemonic = "top monkey brass enhance flavor rather general stumble chest two tuna limb";

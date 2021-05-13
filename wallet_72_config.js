@@ -1,1 +1,1 @@
-var mnemonic = "machine auction column pulp grocery whisper taxi violin speed soul draw rose";
+var mnemonic = "eye direct impulse giant ozone topic flame talk useful one fluid erupt";

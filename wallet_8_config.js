@@ -1,1 +1,1 @@
-var mnemonic = "cook evolve spy weapon praise milk robust deposit road settle smoke apple";
+var mnemonic = "local more blood body sock endless ethics false turtle humor gloom cover";

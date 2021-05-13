@@ -1,1 +1,1 @@
-var mnemonic = "taste piano ribbon teach flash similar pretty vacant toss body cash multiply";
+var mnemonic = "crucial sting plug offer bind seed grape fan prosper account treat job";

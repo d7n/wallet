@@ -1,1 +1,1 @@
-var mnemonic = "flavor clerk city group staff prefer meadow upon mail machine enroll sunset";
+var mnemonic = "vessel shiver mirror page rely family leader fox panda fortune erode squirrel";

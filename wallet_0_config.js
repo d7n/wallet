@@ -1,1 +1,1 @@
-var mnemonic = "ginger execute grace sphere sunny daughter butter hole message limb shift pole";
+var mnemonic = "replace easy latin science chaos myth praise admit concert wild crystal dentist";

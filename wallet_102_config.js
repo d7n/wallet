@@ -1,1 +1,1 @@
-var mnemonic = "usual afraid dish pattern fall purchase process shoot duty nasty speak danger";
+var mnemonic = "home feel guitar bottom barely orphan fragile noodle crisp gaze bird ripple";

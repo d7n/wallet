@@ -1,1 +1,1 @@
-var mnemonic = "enemy taste lady duck ladder this solid found together attend case symbol";
+var mnemonic = "adult miracle quote border replace volume frame grain segment family any vote";

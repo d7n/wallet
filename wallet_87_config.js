@@ -1,1 +1,1 @@
-var mnemonic = "lumber poverty forget pride wide change stairs coconut autumn toast vast scissors";
+var mnemonic = "apart token utility mobile where excess energy hover icon stereo clarify jealous";

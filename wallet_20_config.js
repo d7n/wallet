@@ -1,1 +1,1 @@
-var mnemonic = "balance universe laundry abstract cave accuse hobby exclude badge mistake fancy width";
+var mnemonic = "during stuff shoot episode sound segment december easy gather fun source motion";

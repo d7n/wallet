@@ -1,1 +1,1 @@
-var mnemonic = "hammer depart order play win explain sound honey battle crane oppose rapid";
+var mnemonic = "gaze actress total sound ready talk tissue twin street curious sense profit";

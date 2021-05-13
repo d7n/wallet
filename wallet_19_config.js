@@ -1,1 +1,1 @@
-var mnemonic = "soda lake rival walnut federal rose situate pattern pluck load recycle double";
+var mnemonic = "pluck extend index ozone prosper north grace foil mass wall camera position";

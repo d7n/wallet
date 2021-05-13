@@ -1,1 +1,1 @@
-var mnemonic = "brand addict bag waste noise burst pudding wine wedding aunt sadness cancel";
+var mnemonic = "host length proud adult decline chronic resource glory empty devote fiber online";

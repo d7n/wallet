@@ -1,1 +1,1 @@
-var mnemonic = "inch choose place chief detail phone dad boring they gain cash index";
+var mnemonic = "math eight drink night donate great parrot delay disorder critic sea giggle";

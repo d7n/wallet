@@ -1,1 +1,1 @@
-var mnemonic = "child direct soul chunk screen object aunt forward rude private price ordinary";
+var mnemonic = "monkey toddler gorilla south rail copper doll pen boat ticket news pledge";

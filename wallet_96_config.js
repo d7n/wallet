@@ -1,1 +1,1 @@
-var mnemonic = "puzzle mammal bacon rookie fancy round true pottery extra sleep dizzy gravity";
+var mnemonic = "correct argue special bless main leisure learn sniff capable decrease stock survey";

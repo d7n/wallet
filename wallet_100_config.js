@@ -1,1 +1,1 @@
-var mnemonic = "make legend whisper escape dune comic nest silent capital easily spike dignity";
+var mnemonic = "egg ketchup toward defense ski retreat amused thing lift cool resist trash";

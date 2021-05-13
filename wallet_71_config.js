@@ -1,1 +1,1 @@
-var mnemonic = "bomb alien injury pencil pool degree mammal damp company maze hard loop";
+var mnemonic = "cage chest gorilla calm merry direct surprise trick child flat craft owner";

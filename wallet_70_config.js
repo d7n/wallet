@@ -1,1 +1,1 @@
-var mnemonic = "pear together estate jeans invite thank sphere pass sponsor sport pipe beach";
+var mnemonic = "hill task female elbow leader farm hedgehog march soon female party spider";

@@ -1,1 +1,1 @@
-var mnemonic = "oven inquiry refuse faith actress you mail quit wagon field foster decade";
+var mnemonic = "sign able kite social blue dismiss over worth rotate mother small subway";

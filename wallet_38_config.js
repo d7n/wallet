@@ -1,1 +1,1 @@
-var mnemonic = "kick trumpet spot witness bracket obtain more chest review salute wrap remain";
+var mnemonic = "space tool solution bundle nasty horn twelve situate identify enroll indoor option";

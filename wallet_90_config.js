@@ -1,1 +1,1 @@
-var mnemonic = "chicken ethics ocean enemy cycle quit insect cage need shrug athlete idea";
+var mnemonic = "flash roof congress cause capital guard viable cluster airport wire organ spirit";

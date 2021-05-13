@@ -1,1 +1,1 @@
-var mnemonic = "enter output perfect favorite arrive body laptop update tail giraffe genuine salmon";
+var mnemonic = "board puppy friend ritual ranch tube exist tattoo wash trip bleak paper";

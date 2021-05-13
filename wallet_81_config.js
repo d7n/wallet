@@ -1,1 +1,1 @@
-var mnemonic = "slight evolve foot fresh example fatigue scene error zone during pilot ghost";
+var mnemonic = "blur good idle join elder south obvious truck assault inch teach anger";

@@ -1,1 +1,1 @@
-var mnemonic = "broken gorilla glass gap reopen fence pottery people pave thing govern fragile";
+var mnemonic = "stomach crucial timber grass believe card junior glue profit salute faint spoon";

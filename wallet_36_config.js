@@ -1,1 +1,1 @@
-var mnemonic = "quick any robust like duty outside main student sure apple crush minute";
+var mnemonic = "fatal step network possible tray round theory alter term length defy situate";

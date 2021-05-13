@@ -1,1 +1,1 @@
-var mnemonic = "fresh give search slim federal brother valid crop half cover fruit session";
+var mnemonic = "predict also meadow country number mutual seat shuffle pave pigeon pipe beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "grace survey van bullet head conduct isolate path fire sentence two casual";
+var mnemonic = "shy combine hockey tattoo abstract mammal way phone approve parent life grief";

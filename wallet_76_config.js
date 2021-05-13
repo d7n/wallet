@@ -1,1 +1,1 @@
-var mnemonic = "dutch loud addict another circle cable ask minor sell feel option hole";
+var mnemonic = "useful hat snake crisp brush melt trim fee ask gospel else pigeon";

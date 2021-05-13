@@ -1,1 +1,1 @@
-var mnemonic = "poem inch sadness boss cart dash grit raise piano talk gesture lemon";
+var mnemonic = "bind divide appear script gravity split nerve shock bottom clap first peanut";

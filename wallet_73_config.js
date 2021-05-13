@@ -1,1 +1,1 @@
-var mnemonic = "ozone poverty normal abuse width ridge metal subway hedgehog easy merit rate";
+var mnemonic = "auction elbow know twelve trigger piano million sport scan skirt museum round";

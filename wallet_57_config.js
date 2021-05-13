@@ -1,1 +1,1 @@
-var mnemonic = "jacket strong lawsuit simple fat swallow shallow rate across public story near";
+var mnemonic = "whale another bamboo guess click nature sphere tattoo define ocean horse history";

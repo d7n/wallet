@@ -1,1 +1,1 @@
-var mnemonic = "topple grid elephant predict online call stand mountain vacuum earth regular dinner";
+var mnemonic = "embody what cargo elder portion iron excite cruise orchard property coconut order";

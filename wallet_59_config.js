@@ -1,1 +1,1 @@
-var mnemonic = "excuse trim amused rapid march butter elder plunge cover tumble border faith";
+var mnemonic = "paper brand token crush into carbon exclude escape dress tide entry cotton";

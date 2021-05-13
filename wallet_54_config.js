@@ -1,1 +1,1 @@
-var mnemonic = "goose grief air hover lock acid auto effort minute stairs critic fix";
+var mnemonic = "saddle minimum drama vital link raw caught online bitter lounge surround two";

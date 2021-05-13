@@ -1,1 +1,1 @@
-var mnemonic = "resource gather inch juice right dress despair museum online include film chef";
+var mnemonic = "quantum include coconut equip hood interest nose awesome attract oven planet know";

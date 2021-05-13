@@ -1,1 +1,1 @@
-var mnemonic = "library pledge fruit steak inherit unable divert matrix scout blanket quality wonder";
+var mnemonic = "vessel water output arm expire shallow return canoe grace lonely arrow hurry";

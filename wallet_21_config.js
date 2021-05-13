@@ -1,1 +1,1 @@
-var mnemonic = "fever report exit couch deal soccer meat sunset spice village tip cliff";
+var mnemonic = "wrap grocery novel over stove artist miss south skill puppy ladder speak";

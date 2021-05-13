@@ -1,1 +1,1 @@
-var mnemonic = "rice slice proof menu adult shy across addict place maid mass cattle";
+var mnemonic = "keep exhaust shop roof boost expose prefer avoid exercise copper avoid knife";

@@ -1,1 +1,1 @@
-var mnemonic = "crash sketch thank harsh swarm poverty youth fault famous popular hobby enrich";
+var mnemonic = "club scorpion slow marriage joy august clay guitar drill episode sure brush";

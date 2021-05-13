@@ -1,1 +1,1 @@
-var mnemonic = "genre penalty popular shed alcohol biology resemble patient rocket pass scrub trend";
+var mnemonic = "dwarf sea guitar gold cruel original tone escape shock betray retreat upgrade";

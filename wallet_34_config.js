@@ -1,1 +1,1 @@
-var mnemonic = "donate reject rather aspect stem super iron share subway glory mango call";
+var mnemonic = "burden huge half exotic few okay build actor wreck table tuition rural";

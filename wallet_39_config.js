@@ -1,1 +1,1 @@
-var mnemonic = "three length anger shaft confirm dismiss pattern dawn mind student deer more";
+var mnemonic = "then use reunion blanket student emerge ankle chair mammal proof syrup auto";

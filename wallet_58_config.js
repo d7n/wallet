@@ -1,1 +1,1 @@
-var mnemonic = "arrow hobby laundry claim olive suggest favorite light leaf output want topic";
+var mnemonic = "trick fuel garlic room high joy spoon toast ocean net inquiry vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe field spin make train disorder color cram price brief code lab";
+var mnemonic = "casino elevator two bronze price ancient ethics table door brush defense civil";

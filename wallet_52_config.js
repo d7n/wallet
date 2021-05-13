@@ -1,1 +1,1 @@
-var mnemonic = "afraid letter peasant ski shell car session bacon rifle broccoli scrub expand";
+var mnemonic = "sunset right upon planet moon smoke liar feature element thank end extra";

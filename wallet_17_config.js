@@ -1,1 +1,1 @@
-var mnemonic = "glow fiction wealth urban turtle trophy zero manage pepper dentist plastic marine";
+var mnemonic = "eagle abstract toast own boy depth main describe sugar debris pizza bind";

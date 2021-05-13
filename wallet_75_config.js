@@ -1,1 +1,1 @@
-var mnemonic = "spy film wide thunder grow attract panic fall miss suspect brass dog";
+var mnemonic = "flip filter happy high confirm ability phrase clean globe develop oxygen observe";

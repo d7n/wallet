@@ -1,1 +1,1 @@
-var mnemonic = "angry noble steak nothing embrace ahead vault usual exercise whale swim life";
+var mnemonic = "quiz ask write fortune test author reduce guard kiss blanket process keep";

@@ -1,1 +1,1 @@
-var mnemonic = "tone east into shed better youth all buddy dish coconut flag purpose";
+var mnemonic = "find million virtual age crouch glance evidence autumn churn already pole box";

@@ -1,1 +1,1 @@
-var mnemonic = "hole source butter train good word soup twelve loyal old blade seven";
+var mnemonic = "true shove sponsor moment test galaxy route job when sort kit naive";

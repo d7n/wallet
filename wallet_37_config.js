@@ -1,1 +1,1 @@
-var mnemonic = "machine gym sea sauce vendor vague tortoise grit close wait hub orient";
+var mnemonic = "spoil borrow scatter beauty health vote spoon defy modify pause erode genre";
