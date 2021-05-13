@@ -1,1 +1,1 @@
-var mnemonic = "raise spot gesture endorse mixed utility joy repair glimpse bubble enable boring";
+var mnemonic = "shrug cause dilemma rhythm spread wealth pulse foil maximum enough dry explain";

@@ -1,1 +1,1 @@
-var mnemonic = "mango forward naive spawn canoe maid delay banana twelve giggle lumber exhibit";
+var mnemonic = "finger popular hurt actor valve thought shallow divert autumn satisfy egg method";

@@ -1,1 +1,1 @@
-var mnemonic = "cat vicious hood ghost emerge blame menu setup foam clog vacant lion";
+var mnemonic = "fossil victory super process situate brick turtle pulp myth alert virtual aim";

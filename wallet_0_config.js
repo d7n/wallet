@@ -1,1 +1,1 @@
-var mnemonic = "uncle vendor sport wisdom address want object cash struggle bullet above paddle";
+var mnemonic = "arch obtain stairs such bottom distance erupt viable meadow search rude badge";

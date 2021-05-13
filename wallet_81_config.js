@@ -1,1 +1,1 @@
-var mnemonic = "rookie bamboo veteran destroy dinosaur seminar merit breeze decide buddy august stone";
+var mnemonic = "rice grape fine hybrid warrior resist that satoshi ecology vault copper screen";

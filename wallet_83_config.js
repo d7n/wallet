@@ -1,1 +1,1 @@
-var mnemonic = "steak rebel extend brain daring frequent drama acoustic cat jeans buyer keen";
+var mnemonic = "cement spray gather alert expect behave police august mistake effort milk weekend";

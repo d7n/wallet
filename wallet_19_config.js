@@ -1,1 +1,1 @@
-var mnemonic = "mango punch transfer pizza blur chat glory capable grape share chuckle myth";
+var mnemonic = "genre release transfer source lizard nominee fade chuckle pause vocal match hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "enable august blood heart twenty fun enjoy suggest phone lava inform fade";
+var mnemonic = "zoo journey test raven match adapt country deer donkey credit image erosion";

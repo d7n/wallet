@@ -1,1 +1,1 @@
-var mnemonic = "misery pig enough first forward infant series fortune cotton minute trend stable";
+var mnemonic = "unable find maid mixed arrest pave ahead assault crush paddle car wise";

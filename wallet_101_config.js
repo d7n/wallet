@@ -1,1 +1,1 @@
-var mnemonic = "crop emotion neglect catch tourist crisp outer junk true hard list bench";
+var mnemonic = "cost concert affair used cement school keep wire trust picnic emotion shoot";

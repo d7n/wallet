@@ -1,1 +1,1 @@
-var mnemonic = "just cloth document promote add sun bus holiday forum hurry ignore course";
+var mnemonic = "tattoo spend catalog bomb height route canyon mesh easily soda canal witness";

@@ -1,1 +1,1 @@
-var mnemonic = "runway radio supply frame chimney top siren tragic ice flag tip tribe";
+var mnemonic = "silent damp oblige dignity rabbit stomach trim hand degree this vicious bonus";

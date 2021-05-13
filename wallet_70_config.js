@@ -1,1 +1,1 @@
-var mnemonic = "nothing wreck film snap venue bottom mutual sing deputy jump frog pepper";
+var mnemonic = "clip extend vapor seek feature furnace easily other taste involve deer sphere";

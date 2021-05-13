@@ -1,1 +1,1 @@
-var mnemonic = "protect guilt expect attack spin much can elder tumble cover cradle delay";
+var mnemonic = "twice company enroll shrimp stereo famous merge excess episode siren violin maximum";

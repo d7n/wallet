@@ -1,1 +1,1 @@
-var mnemonic = "shadow visit merit weasel valley impose sorry series during lottery online stem";
+var mnemonic = "deputy benefit alert sauce detect truck liberty magnet upset match admit almost";

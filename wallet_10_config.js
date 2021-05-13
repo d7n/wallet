@@ -1,1 +1,1 @@
-var mnemonic = "series stay blind west notable hair source predict hair gorilla layer flee";
+var mnemonic = "toe upper meadow excite label order coil save garbage receive scrap broom";

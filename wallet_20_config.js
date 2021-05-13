@@ -1,1 +1,1 @@
-var mnemonic = "venture ankle tool ethics cousin combine tube neither rapid urban unusual outdoor";
+var mnemonic = "panel west busy reopen behind language coyote boy clerk creek catch cupboard";

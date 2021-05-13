@@ -1,1 +1,1 @@
-var mnemonic = "road electric prevent pig fox exchange black give setup alert obvious nut";
+var mnemonic = "clock injury biology flat blood step maple cricket glance garage private coyote";

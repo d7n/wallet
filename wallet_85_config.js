@@ -1,1 +1,1 @@
-var mnemonic = "vote execute festival fragile comic pulse arrange kiss rural kingdom distance allow";
+var mnemonic = "yard wash library remember scale much antique infant license chronic cotton shed";

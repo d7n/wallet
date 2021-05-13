@@ -1,1 +1,1 @@
-var mnemonic = "injury amused bargain you license bleak foster between ivory pizza fly spray";
+var mnemonic = "receive century neck truth insect deny glue tissue crawl corn beef wing";

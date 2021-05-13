@@ -1,1 +1,1 @@
-var mnemonic = "fee divide public budget large crouch eye cement reject lawsuit call various";
+var mnemonic = "visa gloom grant art maximum fluid silent group alarm trumpet gap gas";

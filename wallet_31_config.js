@@ -1,1 +1,1 @@
-var mnemonic = "sudden dolphin ridge make alcohol daring roof loop describe pupil enhance lock";
+var mnemonic = "nerve shield evidence nasty dust piano kangaroo baby forward father arrest all";

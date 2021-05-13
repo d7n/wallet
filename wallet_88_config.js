@@ -1,1 +1,1 @@
-var mnemonic = "trial normal success fluid slot aim legend pledge category winter audit bread";
+var mnemonic = "suit order bonus group unusual wink huge obey faith note liar swift";

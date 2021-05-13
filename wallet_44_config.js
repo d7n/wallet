@@ -1,1 +1,1 @@
-var mnemonic = "pottery poet excess enjoy witness employ lava regret silk walnut wrist relief";
+var mnemonic = "grant wealth stand strategy clinic glad sausage drift club guitar connect defense";

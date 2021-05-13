@@ -1,1 +1,1 @@
-var mnemonic = "pottery track bar denial palace trim child rebuild custom drive radio hurdle";
+var mnemonic = "faculty guilt fish grit entry shrimp roast hover draw cube feed drive";

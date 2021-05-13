@@ -1,1 +1,1 @@
-var mnemonic = "heart island glory engine subway dumb asthma guard turkey cake problem arrange";
+var mnemonic = "eagle oak mushroom custom lumber bench polar auction online pepper ring blossom";

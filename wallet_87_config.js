@@ -1,1 +1,1 @@
-var mnemonic = "slam soap bread defy frog upon tide exotic boring delay rhythm afraid";
+var mnemonic = "search tank head name pulse hill uphold olive absorb response coast used";

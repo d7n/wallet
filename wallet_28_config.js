@@ -1,1 +1,1 @@
-var mnemonic = "twenty almost defy shop pony senior vital army trick bus desert adjust";
+var mnemonic = "pledge obscure youth review paddle quiz wedding ethics announce arm panic cry";

@@ -1,1 +1,1 @@
-var mnemonic = "woman album dragon prize practice october donkey good short tree camera equip";
+var mnemonic = "vague little dignity chase choose hidden fame type dirt paddle media sunny";

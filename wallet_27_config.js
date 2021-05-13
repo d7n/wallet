@@ -1,1 +1,1 @@
-var mnemonic = "attitude craft tide end float vast spray bounce hollow mad toddler math";
+var mnemonic = "absorb mirror stereo combine core town figure talent shrug truly coral decorate";

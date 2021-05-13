@@ -1,1 +1,1 @@
-var mnemonic = "stable drive extend scout media stock method question topic already phone entire";
+var mnemonic = "edge tobacco chief rhythm twin drink smart sketch deposit account hard glide";

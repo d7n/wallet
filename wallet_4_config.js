@@ -1,1 +1,1 @@
-var mnemonic = "sea fortune crucial music tool dish forest spoon picture calm cliff oil";
+var mnemonic = "always market mechanic system crush filter stool property often innocent double beauty";

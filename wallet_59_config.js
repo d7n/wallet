@@ -1,1 +1,1 @@
-var mnemonic = "leader scare innocent suspect busy scale moral unknown three chest harvest citizen";
+var mnemonic = "enjoy humor cook robust eagle kidney once cheap robot chair wash about";

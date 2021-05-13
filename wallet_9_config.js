@@ -1,1 +1,1 @@
-var mnemonic = "kiss decide deposit million state pool fox patch garden guitar chair license";
+var mnemonic = "retreat taste reject vital sample state acoustic type truck pulse raise mesh";

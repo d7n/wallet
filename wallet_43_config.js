@@ -1,1 +1,1 @@
-var mnemonic = "owner process relief hidden transfer claim multiply guilt expect flat gravity citizen";
+var mnemonic = "alley label forum like grape curve cash fruit violin awesome riot just";

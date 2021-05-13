@@ -1,1 +1,1 @@
-var mnemonic = "carpet undo park option act celery crumble usual shallow soft liar upset";
+var mnemonic = "business demand crouch script option phone ladder release crumble liberty tortoise window";

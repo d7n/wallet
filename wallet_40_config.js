@@ -1,1 +1,1 @@
-var mnemonic = "someone evoke sound city dust use pond intact patrol defense album park";
+var mnemonic = "spray motor unusual timber pause unaware amount athlete slab toddler picture ship";

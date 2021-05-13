@@ -1,1 +1,1 @@
-var mnemonic = "extend example divide comic nose travel gravity daughter breeze hard found exhaust";
+var mnemonic = "vanish private elbow mushroom cover task message organ twice bomb survey soccer";

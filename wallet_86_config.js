@@ -1,1 +1,1 @@
-var mnemonic = "quote embark quiz win tone achieve tide pelican uniform sand coral broccoli";
+var mnemonic = "degree liberty close domain click unveil sentence detail tide mother all forest";

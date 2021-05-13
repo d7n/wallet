@@ -1,1 +1,1 @@
-var mnemonic = "blossom fatal moral gentle rich story upper depth brief wife wine tackle";
+var mnemonic = "goddess wagon valley exact dawn glass comfort leader viable escape spell orbit";

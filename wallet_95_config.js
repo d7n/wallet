@@ -1,1 +1,1 @@
-var mnemonic = "town manage term delay milk enjoy foam try miss soul repair ocean";
+var mnemonic = "spare stay benefit review carbon duty inject lake left rare price leave";

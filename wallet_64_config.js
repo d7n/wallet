@@ -1,1 +1,1 @@
-var mnemonic = "leopard ball artefact scan smoke close wrestle project track citizen museum test";
+var mnemonic = "enroll trade sentence piece island sister build double ensure trumpet verb inherit";

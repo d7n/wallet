@@ -1,1 +1,1 @@
-var mnemonic = "file object inch scrub undo gaze ghost plug front gate exact mechanic";
+var mnemonic = "swarm dad speed reflect fence pelican ribbon moment medal notice object index";

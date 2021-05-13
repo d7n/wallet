@@ -1,1 +1,1 @@
-var mnemonic = "fatal uphold awkward leisure hold flame also produce argue feature habit wrong";
+var mnemonic = "chimney goat minute document movie hammer plastic speak jaguar lunar day chief";

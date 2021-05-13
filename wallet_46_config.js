@@ -1,1 +1,1 @@
-var mnemonic = "almost bicycle creek caught rice hint derive nice view mechanic indicate exit";
+var mnemonic = "siege fossil life wagon first true rent want light omit insect pave";

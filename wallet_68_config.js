@@ -1,1 +1,1 @@
-var mnemonic = "concert tide sweet visit pretty banner cloth clinic aerobic web crunch walnut";
+var mnemonic = "hole neither unknown under logic core envelope hollow bind summer trial aerobic";

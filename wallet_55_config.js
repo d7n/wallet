@@ -1,1 +1,1 @@
-var mnemonic = "bottom old armed margin slide flat royal term palace cash dice glance";
+var mnemonic = "brisk feature erode double keep few glue timber fish mass sunset dinner";

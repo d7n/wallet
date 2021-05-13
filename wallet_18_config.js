@@ -1,1 +1,1 @@
-var mnemonic = "donor dismiss knee fashion palm rice upset vibrant dove layer olive perfect";
+var mnemonic = "lawn provide ostrich history chair mention gain price hill fun taxi salad";

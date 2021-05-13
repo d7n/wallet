@@ -1,1 +1,1 @@
-var mnemonic = "price zoo minute ripple carry alley avoid obey art expose tunnel goddess";
+var mnemonic = "drop love birth feel whisper vacant wrap host orchard exile fire spring";

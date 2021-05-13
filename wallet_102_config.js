@@ -1,1 +1,1 @@
-var mnemonic = "what father silk still across chaos stairs unveil digital onion rule liberty";
+var mnemonic = "puppy truth report say session leaf earth punch obvious more weasel chapter";

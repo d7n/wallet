@@ -1,1 +1,1 @@
-var mnemonic = "advance kitchen live nothing sugar cycle victory tourist crawl february bubble sleep";
+var mnemonic = "observe raccoon ask blur possible royal organ truly fiction evidence march cause";

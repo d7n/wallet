@@ -1,1 +1,1 @@
-var mnemonic = "zoo city attack chimney lamp wine acid fringe wall more joke main";
+var mnemonic = "mix donkey slice echo traffic seed seed frown move custom high strategy";

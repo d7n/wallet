@@ -1,1 +1,1 @@
-var mnemonic = "win grow clip sock general unfold tuition coil devote cycle insect exist";
+var mnemonic = "kingdom clarify between loud scan coin upper goose legal toy topic nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "worth rubber canoe sustain loyal monster analyst reunion valley adjust critic motion";
+var mnemonic = "auto flush eight vivid desk rural pitch help divorce scrub auction initial";

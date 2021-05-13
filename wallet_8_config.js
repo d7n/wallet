@@ -1,1 +1,1 @@
-var mnemonic = "bind digital myth shoulder alien strong dinosaur exist journey surround media luxury";
+var mnemonic = "select master pizza truly area young dog neck jungle fault shop anxiety";

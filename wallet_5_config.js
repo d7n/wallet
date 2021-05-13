@@ -1,1 +1,1 @@
-var mnemonic = "ride rich message uniform lazy humor crisp amused garage nothing paddle brown";
+var mnemonic = "slide media brass rack adapt chaos meat monitor hawk clap avoid visa";

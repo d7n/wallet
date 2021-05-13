@@ -1,1 +1,1 @@
-var mnemonic = "child few name owner heart gallery elbow alarm upgrade betray tilt novel";
+var mnemonic = "tunnel museum hen company myself visa plastic tomato like suit right trade";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse stone process away lumber swap primary because silly hockey opera powder";
+var mnemonic = "brick first couple flavor story mobile liar jaguar orchard concert flag stone";

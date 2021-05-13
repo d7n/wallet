@@ -1,1 +1,1 @@
-var mnemonic = "cake warm plug uniform champion field ancient piano wave proud extra essence";
+var mnemonic = "tiny orbit bulk devote good brisk bleak art video matter occur empty";

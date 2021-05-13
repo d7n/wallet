@@ -1,1 +1,1 @@
-var mnemonic = "imitate movie affair version layer magnet tilt chat leave flip tray man";
+var mnemonic = "wave roast pause now bench book bag gaze ordinary lens another dumb";

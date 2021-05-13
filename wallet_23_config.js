@@ -1,1 +1,1 @@
-var mnemonic = "buyer quick mosquito walnut open client twist catch plate breeze differ sniff";
+var mnemonic = "champion lonely stove tumble supply danger fame miracle taste car tent afraid";

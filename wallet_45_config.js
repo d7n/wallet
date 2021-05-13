@@ -1,1 +1,1 @@
-var mnemonic = "neglect excuse skin tip crane soup staff thrive mammal history bleak cause";
+var mnemonic = "fringe breeze supreme leaf liar sad release apology speed wool robust know";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan adapt turtle stadium fragile crystal term rice melody erase great earth";
+var mnemonic = "repeat salmon reform range play flip bottom dune draft mule shell address";

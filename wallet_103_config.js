@@ -1,1 +1,1 @@
-var mnemonic = "essay entry seven moral tree sun person much faith jump illness reopen";
+var mnemonic = "sense bag catalog sniff ignore muscle find pistol robust glad audit jump";

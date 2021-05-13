@@ -1,1 +1,1 @@
-var mnemonic = "rabbit recipe road goat pepper key submit bulb novel pull outside erosion";
+var mnemonic = "forward floor certain second away picnic sort source odor sun twist squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit zone next forward inmate clinic solar away weather scene dwarf able";
+var mnemonic = "canvas common fancy moral pioneer frame use radar observe guitar exotic indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "enact inner loan rail enter observe enact define frozen syrup kiss tilt";
+var mnemonic = "tired resource ordinary slogan move peace blossom now wheat vanish afraid asthma";

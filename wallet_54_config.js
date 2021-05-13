@@ -1,1 +1,1 @@
-var mnemonic = "metal vacuum jacket insect today top leader riot material cattle about tiger";
+var mnemonic = "pepper bread poverty key laptop robot vintage situate nasty either shoot once";

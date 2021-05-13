@@ -1,1 +1,1 @@
-var mnemonic = "ill recycle thrive recipe appear warm element ignore tuna road pluck update";
+var mnemonic = "portion giant impact reunion aisle cupboard shove reason alley best fish naive";

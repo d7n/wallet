@@ -1,1 +1,1 @@
-var mnemonic = "strong fame divide punch frame police riot range calm baby radar napkin";
+var mnemonic = "develop dust wool caught tail lobster garage corn position letter lava lobster";

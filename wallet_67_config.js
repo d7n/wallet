@@ -1,1 +1,1 @@
-var mnemonic = "toilet slight cotton fabric pull rival pizza retreat carbon warfare census cat";
+var mnemonic = "mystery govern what frozen bracket flag error angry surprise tag tattoo prison";

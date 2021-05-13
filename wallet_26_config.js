@@ -1,1 +1,1 @@
-var mnemonic = "mom news elbow crew acquire message moral tissue accuse like two tribe";
+var mnemonic = "cannon eternal document wedding reduce cinnamon crash phone quit tool believe body";

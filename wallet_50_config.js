@@ -1,1 +1,1 @@
-var mnemonic = "water visual shell bracket grow case umbrella put true destroy tribe buffalo";
+var mnemonic = "island parade convince spread subway horror grow song riot pond mail jump";

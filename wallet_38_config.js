@@ -1,1 +1,1 @@
-var mnemonic = "garden run profit oak doll remember risk manage spoil gentle fresh scrap";
+var mnemonic = "marble street swallow call pigeon large purse magnet alone kiss black rich";

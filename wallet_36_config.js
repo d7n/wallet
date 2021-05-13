@@ -1,1 +1,1 @@
-var mnemonic = "aisle expose usual submit another soap connect eight exclude punch sting foam";
+var mnemonic = "matrix divert six april remind salad wrestle muffin dinner drift awkward true";

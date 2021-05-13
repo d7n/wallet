@@ -1,1 +1,1 @@
-var mnemonic = "project entire museum funny armor wife keen silk sea banana ball they";
+var mnemonic = "pet chase early divert actress favorite rookie trumpet undo term never suggest";

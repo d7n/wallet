@@ -1,1 +1,1 @@
-var mnemonic = "limb deputy tent method breeze property among problem double satisfy civil bless";
+var mnemonic = "feature appear swap blanket good mimic boost oil powder oval convince lunch";

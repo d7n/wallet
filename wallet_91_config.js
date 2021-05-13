@@ -1,1 +1,1 @@
-var mnemonic = "always menu poverty company camera square engage armor subject frozen annual negative";
+var mnemonic = "ketchup weather manage steel judge boss train planet ramp pole submit nice";

@@ -1,1 +1,1 @@
-var mnemonic = "sign flee song supreme noodle price toilet demand civil tourist neck acquire";
+var mnemonic = "another tennis police pupil axis history faculty under route bargain club combine";

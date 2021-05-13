@@ -1,1 +1,1 @@
-var mnemonic = "meat wrong orphan planet intact crawl useless gift shuffle parent world sausage";
+var mnemonic = "square piano fragile blame panda term shift jacket evidence wing harvest horn";

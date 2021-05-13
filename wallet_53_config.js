@@ -1,1 +1,1 @@
-var mnemonic = "transfer example stage hard crash suffer what aerobic project horse civil sing";
+var mnemonic = "prosper camera rigid orbit butter dignity ecology mechanic expand deer quarter either";

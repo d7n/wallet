@@ -1,1 +1,1 @@
-var mnemonic = "elevator sock brave rack reopen glow picnic mistake gentle tooth machine ketchup";
+var mnemonic = "people switch cart submit expose velvet member script garbage gravity column someone";

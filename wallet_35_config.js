@@ -1,1 +1,1 @@
-var mnemonic = "present sausage ordinary shy desk mammal maid rifle doll police vibrant tuna";
+var mnemonic = "kingdom such silly artefact potato tiger test assist evoke industry frog olympic";

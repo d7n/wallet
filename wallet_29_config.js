@@ -1,1 +1,1 @@
-var mnemonic = "nothing improve focus team faculty youth salon gold toy thunder outside arctic";
+var mnemonic = "vivid symptom fee phone chest action upgrade seminar vintage shop wine board";
