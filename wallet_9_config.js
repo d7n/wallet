@@ -1,1 +1,1 @@
-var mnemonic = "under cloud robust vague ensure scene panic vanish cupboard what ramp autumn";
+var mnemonic = "rocket elephant glare improve taxi kind cannon soldier immense wish van vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "open various require pelican cannon earth same guard inmate young quiz impulse";
+var mnemonic = "hybrid develop garbage random april upset struggle include analyst warfare open law";

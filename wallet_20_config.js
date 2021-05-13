@@ -1,1 +1,1 @@
-var mnemonic = "assume oval already cheese truth admit salt satoshi crystal weapon cereal live";
+var mnemonic = "century transfer breeze spell romance coral typical inquiry fly olive key razor";

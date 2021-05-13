@@ -1,1 +1,1 @@
-var mnemonic = "west prosper pen neglect case drive still mammal between heavy useless ramp";
+var mnemonic = "only degree poem foam amazing hybrid theme grace vintage length grant hill";

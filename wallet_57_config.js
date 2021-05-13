@@ -1,1 +1,1 @@
-var mnemonic = "palace ensure benefit moral dish define fix adult inside castle hover skin";
+var mnemonic = "occur flash labor tail van gentle inherit skin cotton can task phone";

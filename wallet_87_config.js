@@ -1,1 +1,1 @@
-var mnemonic = "other come crush struggle struggle student debate yellow question sting diary improve";
+var mnemonic = "glory flavor impulse call ahead service rice forward knock element diesel toward";

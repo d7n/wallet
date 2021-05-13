@@ -1,1 +1,1 @@
-var mnemonic = "vapor error whisper develop federal ordinary worth plate orchard exotic bonus right";
+var mnemonic = "summer genuine wealth such slow wear banana random employ income gesture town";

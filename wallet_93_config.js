@@ -1,1 +1,1 @@
-var mnemonic = "patrol float winter book chief mean increase entry blind large churn slam";
+var mnemonic = "caught lecture physical receive trash park swear you buffalo same metal differ";

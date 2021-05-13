@@ -1,1 +1,1 @@
-var mnemonic = "sentence company office display apart soup venture news nuclear pretty smoke runway";
+var mnemonic = "banana often local kite ribbon soul picture visual unhappy inform penalty boring";

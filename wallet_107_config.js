@@ -1,1 +1,1 @@
-var mnemonic = "fish segment hope differ tape vocal acquire guide travel movie picnic rhythm";
+var mnemonic = "direct awkward holiday theory naive basic sock estate loyal order predict small";

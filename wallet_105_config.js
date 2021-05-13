@@ -1,1 +1,1 @@
-var mnemonic = "shy adult opera basket verify section cement region cattle current tower unlock";
+var mnemonic = "minimum attract fly library song tank coil faculty crowd repair cook brass";

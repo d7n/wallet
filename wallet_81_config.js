@@ -1,1 +1,1 @@
-var mnemonic = "announce east garden fetch misery piano wrap arch celery early gap toward";
+var mnemonic = "blade animal era print warrior produce weapon fruit insect cute hard filter";

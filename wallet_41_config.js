@@ -1,1 +1,1 @@
-var mnemonic = "soft breeze pet spoon parade saddle float weather feel meat forest essence";
+var mnemonic = "unknown spike emerge crunch violin desert place plunge cube pulp venue allow";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger spin black tissue orient mountain news foot marine review mention violin";
+var mnemonic = "scan moment rose aunt stadium govern hold cry kitchen brain sorry spare";

@@ -1,1 +1,1 @@
-var mnemonic = "picture tooth emotion stick mushroom fade tower joke cradle valve surround punch";
+var mnemonic = "stadium require jealous salmon turkey fantasy frown any cluster grab soup unaware";

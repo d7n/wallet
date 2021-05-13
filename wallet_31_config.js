@@ -1,1 +1,1 @@
-var mnemonic = "purity woman comic carry street dress chief shoulder vintage draw sell jewel";
+var mnemonic = "winner gesture juice weather broken pride tonight amazing guitar already above mean";

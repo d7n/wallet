@@ -1,1 +1,1 @@
-var mnemonic = "wet nothing second sport solve pledge object sock water differ response satisfy";
+var mnemonic = "broom clog fatal giraffe labor yard twice divorce buyer bulb curtain inch";

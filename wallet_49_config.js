@@ -1,1 +1,1 @@
-var mnemonic = "stand mansion hundred beach lottery legend century remember surround gallery away magic";
+var mnemonic = "wasp violin cool symbol humor swim save undo now ten garment boring";

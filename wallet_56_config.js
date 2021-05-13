@@ -1,1 +1,1 @@
-var mnemonic = "river chunk balcony possible shoot diamond vanish subway across member april exist";
+var mnemonic = "include noble squeeze toddler cross parade all wet captain panda smile twin";

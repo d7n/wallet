@@ -1,1 +1,1 @@
-var mnemonic = "exhibit work exclude select muscle own pencil jump cream outside acid denial";
+var mnemonic = "whisper good federal brain celery dove salt share alone oxygen amount dismiss";

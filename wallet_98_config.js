@@ -1,1 +1,1 @@
-var mnemonic = "survey orchard oblige guess old notice rubber fade armor demand risk dash";
+var mnemonic = "muscle coach pass addict style double absurd rabbit ship cricket pitch belt";

@@ -1,1 +1,1 @@
-var mnemonic = "other clap enemy brass original annual phone scale slot either board sudden";
+var mnemonic = "valid guilt they scene super during friend awake skill buzz blame feed";

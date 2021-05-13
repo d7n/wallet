@@ -1,1 +1,1 @@
-var mnemonic = "carpet cancel tuition carpet among student stuff notable crash gallery inflict dad";
+var mnemonic = "squeeze toe poverty duck six genius execute drama next doll useless detect";

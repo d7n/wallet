@@ -1,1 +1,1 @@
-var mnemonic = "bread edit begin city fog century robust under tiny lizard wrong vibrant";
+var mnemonic = "good possible view trip sister unfair drop away oblige valley again next";

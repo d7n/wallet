@@ -1,1 +1,1 @@
-var mnemonic = "hundred unable hobby fury pond knee unfold disease middle sound antique educate";
+var mnemonic = "embody leopard display solve black artwork double limb august mind among cruel";

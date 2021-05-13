@@ -1,1 +1,1 @@
-var mnemonic = "artist acquire lyrics chair canal observe near any have museum dash tilt";
+var mnemonic = "screen upset few office manual hunt below sign moment consider source napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol rude van meat soul tell imitate involve input tilt infant before";
+var mnemonic = "embody credit cycle strike entire slow drop flower sphere wild already loop";

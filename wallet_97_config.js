@@ -1,1 +1,1 @@
-var mnemonic = "giraffe collect early alley garment cross wrap camp palace ensure actor traffic";
+var mnemonic = "hard skin game soft exile oppose text fragile suit gorilla volcano clay";

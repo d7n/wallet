@@ -1,1 +1,1 @@
-var mnemonic = "hybrid planet flash wrestle under potato hello length garlic observe gaze say";
+var mnemonic = "ladder curtain snow grain razor clip rose script luxury furnace sheriff later";

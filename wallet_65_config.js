@@ -1,1 +1,1 @@
-var mnemonic = "switch such dawn artist address later sustain antique gift oak toss eager";
+var mnemonic = "proud canyon say spatial embrace elephant confirm able pond coffee error mother";

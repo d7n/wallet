@@ -1,1 +1,1 @@
-var mnemonic = "benefit erosion film purse electric subway rural above era organ focus cage";
+var mnemonic = "join use put wasp purchase tip pen exit aware exotic little pipe";

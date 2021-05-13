@@ -1,1 +1,1 @@
-var mnemonic = "burden clown unfold napkin milk betray jacket rebel drift carry spot crucial";
+var mnemonic = "setup solid property warm foil soft reunion family noodle version law capable";

@@ -1,1 +1,1 @@
-var mnemonic = "chef powder number garage all attend session dove rebel author lock because";
+var mnemonic = "surround life caution lens quantum size rare vivid write shrimp waste daring";

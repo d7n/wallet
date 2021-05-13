@@ -1,1 +1,1 @@
-var mnemonic = "squeeze tenant describe else tonight arena goat knock brief output robust page";
+var mnemonic = "hero share easy upgrade own measure waste wink year retire swear obtain";

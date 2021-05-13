@@ -1,1 +1,1 @@
-var mnemonic = "remember chief suffer toast smooth identify club bean echo occur tunnel reopen";
+var mnemonic = "degree only husband film holiday blur limit song decade retire friend breeze";

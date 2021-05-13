@@ -1,1 +1,1 @@
-var mnemonic = "uniform female fat barrel feature episode employ glare cabbage earn debris stadium";
+var mnemonic = "pass toddler cherry peasant police glad jacket wink stock dentist sibling certain";

@@ -1,1 +1,1 @@
-var mnemonic = "bless muffin blast other provide elbow gold supply settle message short hair";
+var mnemonic = "coach good category token seven foot level auction fold detect file they";

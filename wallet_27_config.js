@@ -1,1 +1,1 @@
-var mnemonic = "easy pottery play song prevent dirt relief pear finger salt love differ";
+var mnemonic = "rookie aim assume first bench alert casual wine fork olympic news crop";

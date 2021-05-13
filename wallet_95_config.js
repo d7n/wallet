@@ -1,1 +1,1 @@
-var mnemonic = "mean clever holiday smile alpha switch attend clap will crash wrap beef";
+var mnemonic = "hello approve truth finger kind acid able range title alter youth cushion";

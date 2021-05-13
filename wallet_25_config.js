@@ -1,1 +1,1 @@
-var mnemonic = "lumber expand denial grid trend dad output exile adapt yellow offer praise";
+var mnemonic = "inform grocery found exact view damp celery hotel excess lion cloud claim";

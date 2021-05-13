@@ -1,1 +1,1 @@
-var mnemonic = "seat deliver demand need strong fetch eager milk satoshi end sad skin";
+var mnemonic = "attend spot auction creek double trophy setup south anxiety thing toilet total";

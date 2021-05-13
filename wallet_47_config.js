@@ -1,1 +1,1 @@
-var mnemonic = "electric ice document daughter amazing basket garlic pretty absent ketchup pottery tiger";
+var mnemonic = "basket spell model muscle junk one hockey unit song have eternal wheat";

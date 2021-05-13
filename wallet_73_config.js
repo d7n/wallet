@@ -1,1 +1,1 @@
-var mnemonic = "turn oxygen face control asset ethics season crush exclude prison lion river";
+var mnemonic = "physical spy pink picture height slogan tool else spoil cattle radio pact";

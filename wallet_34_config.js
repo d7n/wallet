@@ -1,1 +1,1 @@
-var mnemonic = "slam initial shed sad whisper unfair there grape valve diet velvet truly";
+var mnemonic = "better quote evoke photo bag force turn result burst actual width round";

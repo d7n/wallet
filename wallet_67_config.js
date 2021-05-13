@@ -1,1 +1,1 @@
-var mnemonic = "pair hat question pulse reduce ticket margin twice hotel segment idea tenant";
+var mnemonic = "shock leaf quote fiction extra fancy hour stem brown speak arch lemon";

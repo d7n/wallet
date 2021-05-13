@@ -1,1 +1,1 @@
-var mnemonic = "sweet brass awake embark item craft file tumble famous begin goat depart";
+var mnemonic = "volume laugh among clump mountain unveil trust extend mean issue minute tag";

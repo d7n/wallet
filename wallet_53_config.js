@@ -1,1 +1,1 @@
-var mnemonic = "settle slush solve great picture snow sort young essence cheap cactus kitchen";
+var mnemonic = "system ecology scan salute engine million basic end abstract insane used scare";

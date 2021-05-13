@@ -1,1 +1,1 @@
-var mnemonic = "recycle result lunar timber feature write nice oyster ready biology appear wash";
+var mnemonic = "park board camp float render slam bench sight unknown apple route cream";

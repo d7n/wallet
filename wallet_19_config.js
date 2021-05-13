@@ -1,1 +1,1 @@
-var mnemonic = "radio point draft insane manual ranch chair fancy will slush stage admit";
+var mnemonic = "prevent reward weather fragile small derive fold cabin audit outside topic bone";

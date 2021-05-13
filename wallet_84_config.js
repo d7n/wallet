@@ -1,1 +1,1 @@
-var mnemonic = "play gift clever discover reveal field jump man emotion wife butter soap";
+var mnemonic = "violin cluster afford magic medal hurry sock town elevator evoke cupboard mango";

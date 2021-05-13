@@ -1,1 +1,1 @@
-var mnemonic = "annual exchange august pudding write arm invite invite educate also zone faculty";
+var mnemonic = "match inject suit entry table adult soldier desert chief guard undo jacket";

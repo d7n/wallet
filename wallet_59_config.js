@@ -1,1 +1,1 @@
-var mnemonic = "boss clap night maple bless sentence trophy belt okay sail develop grit";
+var mnemonic = "level disagree stable satoshi win better debris rookie empty crop monster hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "word just purpose enhance soon local lunar level crouch day negative kit";
+var mnemonic = "okay inhale coffee range drill bomb shoe floor begin engage outer opera";

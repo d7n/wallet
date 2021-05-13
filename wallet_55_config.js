@@ -1,1 +1,1 @@
-var mnemonic = "novel sausage city stock marble scene smile hunt suggest mercy fix judge";
+var mnemonic = "admit cluster explain hip element hard cook angle either strong kangaroo sun";

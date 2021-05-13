@@ -1,1 +1,1 @@
-var mnemonic = "other vault ship once govern during south street capable ribbon question rotate";
+var mnemonic = "pumpkin moment vicious speed patch spin inside rival add tragic match tide";

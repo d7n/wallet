@@ -1,1 +1,1 @@
-var mnemonic = "usage wolf primary stay fetch pact vocal miss turkey sunset stand roof";
+var mnemonic = "mimic always sock stool jump dose galaxy cruel update win sort crucial";

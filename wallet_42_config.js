@@ -1,1 +1,1 @@
-var mnemonic = "guitar galaxy public trust safe author obey science strike regular scout chuckle";
+var mnemonic = "focus deliver surface march economy track pumpkin saddle error capital grunt mass";

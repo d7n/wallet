@@ -1,1 +1,1 @@
-var mnemonic = "gown permit kit expect unhappy sadness design patrol trumpet magic pencil crush";
+var mnemonic = "until plastic tape iron tree pair gather document humor bone cute team";

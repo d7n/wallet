@@ -1,1 +1,1 @@
-var mnemonic = "ridge card aware stool receive popular slight diamond brush sponsor polar cricket";
+var mnemonic = "curve inspire govern fatigue toward property run latin humor aisle elite trim";

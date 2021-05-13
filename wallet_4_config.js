@@ -1,1 +1,1 @@
-var mnemonic = "act stuff fine oppose quiz robot atom inflict thank abstract strategy pudding";
+var mnemonic = "answer slim sister rhythm drive network filter poem farm clutch ritual balcony";

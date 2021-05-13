@@ -1,1 +1,1 @@
-var mnemonic = "family cream farm dial begin soft dad canyon alien answer pink word";
+var mnemonic = "author drama trophy solve soul exhibit later nature noble ensure phone sword";

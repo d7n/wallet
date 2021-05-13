@@ -1,1 +1,1 @@
-var mnemonic = "abstract stuff curtain pelican raccoon error weird final vanish jazz document fly";
+var mnemonic = "rose divert suggest derive demand clutch blush wool ready bounce replace what";

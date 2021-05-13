@@ -1,1 +1,1 @@
-var mnemonic = "among dirt dad enjoy decorate thank hood resource again crouch muffin ginger";
+var mnemonic = "entry flash often retire yellow people divorce plate company sphere six balcony";

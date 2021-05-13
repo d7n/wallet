@@ -1,1 +1,1 @@
-var mnemonic = "resource film trumpet wave spike leaf above sketch evolve today strategy rail";
+var mnemonic = "conduct season core joke kite cycle double torch grab lake planet diet";

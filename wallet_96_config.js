@@ -1,1 +1,1 @@
-var mnemonic = "gasp nasty expose word thunder trumpet require attitude cancel please witness wreck";
+var mnemonic = "tissue result fence opinion velvet happy police stumble conduct woman method net";

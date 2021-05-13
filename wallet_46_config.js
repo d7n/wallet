@@ -1,1 +1,1 @@
-var mnemonic = "wheat health mixed bring across galaxy design habit ignore youth patch draw";
+var mnemonic = "garage bitter cradle ice gallery awful bread bench dragon rule army cliff";

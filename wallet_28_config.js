@@ -1,1 +1,1 @@
-var mnemonic = "door annual train lesson program apart cross erode history ill twin observe";
+var mnemonic = "army green kind long across game cricket pepper hand spawn myth swing";

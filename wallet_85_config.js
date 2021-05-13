@@ -1,1 +1,1 @@
-var mnemonic = "hire much garlic craft nuclear whale couch stock grid coast they matter";
+var mnemonic = "squeeze connect end hobby adjust silk next vibrant ill wheel rifle flee";

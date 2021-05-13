@@ -1,1 +1,1 @@
-var mnemonic = "lottery harbor lumber artist stuff furnace tilt oval rhythm stock bind news";
+var mnemonic = "jealous raise private sudden stay promote hold sausage organ task similar bench";

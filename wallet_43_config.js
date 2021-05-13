@@ -1,1 +1,1 @@
-var mnemonic = "lizard vocal forum digital promote father sugar rocket meat wife next relief";
+var mnemonic = "cannon receive true replace noodle item notice quarter promote deposit walk impose";

@@ -1,1 +1,1 @@
-var mnemonic = "trial bone baby man palm medal vendor grocery avocado all armor test";
+var mnemonic = "remind fish exclude various cat bone noodle famous bounce pigeon where profit";

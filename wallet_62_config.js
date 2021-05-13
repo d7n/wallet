@@ -1,1 +1,1 @@
-var mnemonic = "regular excess also shoot message coral topic cup faith tattoo upgrade doll";
+var mnemonic = "unusual sentence sponsor net outer time bless couple core glimpse coil salute";

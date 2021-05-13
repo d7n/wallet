@@ -1,1 +1,1 @@
-var mnemonic = "now live ribbon myth pass discover decrease lamp opera neck advance merry";
+var mnemonic = "mystery damp cinnamon mind invite asthma fix opera shove enhance invite retire";

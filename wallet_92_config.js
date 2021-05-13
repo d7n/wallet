@@ -1,1 +1,1 @@
-var mnemonic = "trade close floor picnic display media ribbon husband gallery gun found wash";
+var mnemonic = "harsh combine solve blanket estate few six dry text loan cherry rabbit";

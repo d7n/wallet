@@ -1,1 +1,1 @@
-var mnemonic = "grief skate gadget sick hamster carry fat shed piece among echo clap";
+var mnemonic = "decline near comfort odor image acid broccoli under patient bicycle path stairs";

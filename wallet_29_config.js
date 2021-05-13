@@ -1,1 +1,1 @@
-var mnemonic = "exclude diagram wool garment kitchen stone alone bronze pig torch hope keep";
+var mnemonic = "price letter crew rib river object air record electric eye another hundred";

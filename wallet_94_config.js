@@ -1,1 +1,1 @@
-var mnemonic = "embrace prison typical click satoshi good original cushion similar divert donor want";
+var mnemonic = "meadow artefact slush fancy process hedgehog grain cheap crack brown hawk satisfy";

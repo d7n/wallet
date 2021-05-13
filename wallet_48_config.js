@@ -1,1 +1,1 @@
-var mnemonic = "stumble room narrow spin gossip lobster peasant small spell unhappy dash vivid";
+var mnemonic = "rate soft enroll pride science shuffle over obscure work around salmon twin";

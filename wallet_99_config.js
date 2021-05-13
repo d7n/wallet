@@ -1,1 +1,1 @@
-var mnemonic = "april inform speak weird erosion depend bubble prison ghost family mixture leave";
+var mnemonic = "sort pretty wife midnight end payment reject gospel legal chunk bring unique";

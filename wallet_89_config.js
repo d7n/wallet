@@ -1,1 +1,1 @@
-var mnemonic = "bar gas fluid gloom bid delay ill gaze label first come chaos";
+var mnemonic = "legal glue crew shallow room good inside helmet hole whale mom oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "camp daring exotic stadium wire photo guilt budget tiger broccoli sponsor decline";
+var mnemonic = "ceiling promote size general youth inquiry intact toast margin super razor shallow";

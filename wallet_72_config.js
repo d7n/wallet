@@ -1,1 +1,1 @@
-var mnemonic = "material grant unique wedding hover offer matrix opera post wreck spell paper";
+var mnemonic = "gap actress settle carpet olive rude boy wheat already fit embody into";

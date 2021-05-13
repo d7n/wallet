@@ -1,1 +1,1 @@
-var mnemonic = "october term double animal duck left chuckle fringe name enjoy pave risk";
+var mnemonic = "act lesson push mammal because hint smart prosper property horn similar coconut";

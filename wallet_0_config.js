@@ -1,1 +1,1 @@
-var mnemonic = "zoo margin mandate lawn fantasy cook process license pole intact ridge result";
+var mnemonic = "sketch text alter couch shoot sell extend gold diet turn blind ahead";

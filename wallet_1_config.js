@@ -1,1 +1,1 @@
-var mnemonic = "impose town grab park device onion protect hint desert ridge exist fragile";
+var mnemonic = "pelican rug century bottom waste approve explain gadget dice jewel sheriff august";

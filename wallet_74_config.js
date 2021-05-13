@@ -1,1 +1,1 @@
-var mnemonic = "claw night action picnic eternal glow problem during pioneer isolate network spice";
+var mnemonic = "yellow guitar picnic happy buzz roof border cement slogan stove baby explain";

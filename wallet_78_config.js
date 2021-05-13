@@ -1,1 +1,1 @@
-var mnemonic = "service raven quick cloth million minor ship danger broom company panther high";
+var mnemonic = "viable speak fashion penalty craft depth off wrap exercise fade adult critic";

@@ -1,1 +1,1 @@
-var mnemonic = "skate popular gown duty behave fatigue canal tumble decide angle twist run";
+var mnemonic = "heavy upgrade car capable notable detail kiwi salon question inspire evidence acid";

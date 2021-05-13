@@ -1,1 +1,1 @@
-var mnemonic = "garbage little glue extra excite news roof liar never fruit asthma panther";
+var mnemonic = "pen minute critic blade address thunder unlock wagon piano royal chicken metal";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor turn empty again desert coyote army infant ignore thrive embark raise";
+var mnemonic = "puzzle bottom cup food rubber beef final talk pen lemon type catalog";
