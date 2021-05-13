@@ -1,1 +1,1 @@
-var mnemonic = "neutral private vintage segment casual hidden weekend fantasy rug hat blame nothing";
+var mnemonic = "sure minimum rotate mad move curve icon motion unaware ecology prefer top";

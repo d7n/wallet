@@ -1,1 +1,1 @@
-var mnemonic = "model detect fluid obscure dentist search jealous huge radio stool ride swallow";
+var mnemonic = "already excuse opinion dash nominee appear excess dismiss puzzle drink script destroy";

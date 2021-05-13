@@ -1,1 +1,1 @@
-var mnemonic = "almost people cost inform aunt lazy dutch kiwi then style coil pitch";
+var mnemonic = "fun always dash champion shop garden brown night amateur plug impose autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse occur stay object aware below middle replace toe kitchen heart clarify";
+var mnemonic = "leopard unaware fringe island illness mesh drama grape close metal typical target";

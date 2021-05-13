@@ -1,1 +1,1 @@
-var mnemonic = "dinner verb retreat lesson retreat glimpse friend orphan decrease gas gloom demise";
+var mnemonic = "gift category hurdle aware amused bubble episode beyond chair custom drill fly";

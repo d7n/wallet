@@ -1,1 +1,1 @@
-var mnemonic = "result clean govern middle hammer enter inquiry promote pole century cry museum";
+var mnemonic = "prize olympic throw across goose thrive nurse fabric allow deputy enough hundred";

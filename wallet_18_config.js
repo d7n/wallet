@@ -1,1 +1,1 @@
-var mnemonic = "pepper screen near wall flush rain gadget increase weapon aerobic cruel impose";
+var mnemonic = "dash dismiss actress high snack oven split furnace purse empty genre city";

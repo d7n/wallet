@@ -1,1 +1,1 @@
-var mnemonic = "noise marble polar shuffle gym turn dirt wink library imitate symbol figure";
+var mnemonic = "uncle income mesh wide jump live actor capital search hybrid idle praise";

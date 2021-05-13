@@ -1,1 +1,1 @@
-var mnemonic = "weird tobacco cattle garden maple remove post regret battle gift between shine";
+var mnemonic = "obscure taste notice effort capable knock innocent erupt leg afford genius carry";

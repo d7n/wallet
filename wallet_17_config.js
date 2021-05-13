@@ -1,1 +1,1 @@
-var mnemonic = "visa sleep evil certain learn nest middle deposit mirror diet pet keep";
+var mnemonic = "flag vendor mansion belt machine logic home birth youth outside casual absent";

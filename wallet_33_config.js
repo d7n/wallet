@@ -1,1 +1,1 @@
-var mnemonic = "robust list melt round barrel burden fix design endless coffee cute ignore";
+var mnemonic = "record across mercy wool quote surface whisper famous soup rate mimic trash";

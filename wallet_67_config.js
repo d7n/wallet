@@ -1,1 +1,1 @@
-var mnemonic = "learn hidden fade truth elegant gospel reflect fox wet nice round breeze";
+var mnemonic = "coil tilt odor pistol beyond student west lend absurd barely panic major";

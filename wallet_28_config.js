@@ -1,1 +1,1 @@
-var mnemonic = "ankle fish wheat worth dismiss render know abuse suffer leopard correct trip";
+var mnemonic = "doll gaze prize model merit fan update indoor grant soda safe unfair";

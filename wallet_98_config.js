@@ -1,1 +1,1 @@
-var mnemonic = "hollow roast fantasy state flower blade scrap asthma fashion casino minute lyrics";
+var mnemonic = "scene modify allow success gesture foster arena other space immense call core";

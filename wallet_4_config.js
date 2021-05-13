@@ -1,1 +1,1 @@
-var mnemonic = "increase twin give drop change gentle walk paddle proof street plate popular";
+var mnemonic = "search share cloth bracket letter visit cloth funny path polar grit awful";

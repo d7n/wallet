@@ -1,1 +1,1 @@
-var mnemonic = "luxury organ power grid roast evoke addict earth faculty captain dream protect";
+var mnemonic = "must way solve talk yellow drill panic title blue violin slim else";

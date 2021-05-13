@@ -1,1 +1,1 @@
-var mnemonic = "sign reduce gravity citizen note home upset sentence note host safe cart";
+var mnemonic = "enhance brother nice eager demise destroy magnet hollow slim mimic quit couch";

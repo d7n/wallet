@@ -1,1 +1,1 @@
-var mnemonic = "lucky artwork curve chef else night owner outdoor track stable where world";
+var mnemonic = "safe doctor grief trade gaze permit become drive turtle find push drift";

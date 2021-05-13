@@ -1,1 +1,1 @@
-var mnemonic = "thought object record obscure crime armed letter jungle run lady pulse flavor";
+var mnemonic = "sister caution damp power truth sort essence equip spike drink decline saddle";

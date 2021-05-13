@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow transfer plastic rabbit congress century sport weekend shed lamp total apart";
+var mnemonic = "banner already add dwarf finish recycle gap country music route upset season";

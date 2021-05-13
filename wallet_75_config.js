@@ -1,1 +1,1 @@
-var mnemonic = "toward person company rotate stand twelve fabric treat include base sorry run";
+var mnemonic = "imitate select borrow degree test wasp turkey grass brush blur deposit place";

@@ -1,1 +1,1 @@
-var mnemonic = "rack warm enhance bridge buddy denial cactus blade farm acoustic riot wing";
+var mnemonic = "snap magic fat pumpkin pull favorite upon chalk barely cereal wedding mouse";

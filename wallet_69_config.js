@@ -1,1 +1,1 @@
-var mnemonic = "long shell twist service shallow squeeze room siege believe practice way spirit";
+var mnemonic = "govern antique burger slice disorder note coyote hole mansion mention hammer clever";

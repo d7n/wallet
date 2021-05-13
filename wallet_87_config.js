@@ -1,1 +1,1 @@
-var mnemonic = "pink please volcano arrange language ceiling fluid fruit clog wet torch caught";
+var mnemonic = "render liquid tide remember deliver recipe sadness odor history course token spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "begin put close soda sadness slender tent beef surround guess finish divert";
+var mnemonic = "steak hunt bag language symbol gasp funny advice simple fork man school";

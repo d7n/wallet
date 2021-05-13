@@ -1,1 +1,1 @@
-var mnemonic = "brisk exhaust wire assault alarm box spot gather kitchen short garbage relief";
+var mnemonic = "cannon erase voyage trouble quick grape market increase unveil scan want leader";

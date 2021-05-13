@@ -1,1 +1,1 @@
-var mnemonic = "dynamic betray soap deputy region group embark help weasel mercy say chief";
+var mnemonic = "area detect merge submit vocal oyster sauce hip yard clutch whale demand";

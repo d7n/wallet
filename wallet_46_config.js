@@ -1,1 +1,1 @@
-var mnemonic = "quantum fee assume october split strategy man nose laugh immune diamond already";
+var mnemonic = "raven put obey glass local wrist verify era emerge awesome test end";

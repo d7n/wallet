@@ -1,1 +1,1 @@
-var mnemonic = "often orphan fossil cost essay tribe pipe oval rookie account kiss burger";
+var mnemonic = "lunar involve donkey what around obscure region cereal denial excite risk exit";

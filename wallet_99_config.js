@@ -1,1 +1,1 @@
-var mnemonic = "remain pioneer negative leg inside depth describe call wink shrug upgrade envelope";
+var mnemonic = "spring border ball harvest work eye drive maximum sibling amazing pattern spend";

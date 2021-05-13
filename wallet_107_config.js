@@ -1,1 +1,1 @@
-var mnemonic = "fly caution cave orange grocery season bargain limb subject enhance family seek";
+var mnemonic = "scrub emotion increase dawn actor evil phone decline shrimp blue cube remove";

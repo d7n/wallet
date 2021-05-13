@@ -1,1 +1,1 @@
-var mnemonic = "vehicle goddess eager box rather wedding stomach artefact strike donor kingdom repair";
+var mnemonic = "method net hospital crisp tell open involve play embody river rose bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle assault trigger girl adjust naive obtain rough easy rate search coast";
+var mnemonic = "oppose novel illness disorder result walk glad risk submit chest grief close";

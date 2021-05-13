@@ -1,1 +1,1 @@
-var mnemonic = "mouse useful grunt corn brush snap unfair impulse rate doctor input curtain";
+var mnemonic = "hockey crisp brass slow safe tennis tail alpha adjust uncover believe joke";

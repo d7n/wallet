@@ -1,1 +1,1 @@
-var mnemonic = "bone conduct say uncle spice merit health polar dismiss glide border sleep";
+var mnemonic = "brother shrimp crowd vapor when slam update sun style toe pilot exclude";

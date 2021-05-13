@@ -1,1 +1,1 @@
-var mnemonic = "grocery mass issue vanish hero pattern dinner cousin angry rely round fury";
+var mnemonic = "spin veteran file egg wealth wet find magic galaxy april diamond meat";

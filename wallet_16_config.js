@@ -1,1 +1,1 @@
-var mnemonic = "trouble nurse warfare spatial crucial chapter grit example cricket mule fine must";
+var mnemonic = "endorse fly silk hour toss oblige fun any vast truck warm display";

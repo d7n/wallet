@@ -1,1 +1,1 @@
-var mnemonic = "neglect ill expect embody lunch response void guilt organ vehicle only change";
+var mnemonic = "winter clock curve puppy beauty arrive onion tenant unfair uphold cherry candy";

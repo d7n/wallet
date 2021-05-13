@@ -1,1 +1,1 @@
-var mnemonic = "cage tuna moon grace peanut syrup toe impact lunar frog moon senior";
+var mnemonic = "toy tumble neck lobster rabbit sand unlock tool peace brand rotate chef";

@@ -1,1 +1,1 @@
-var mnemonic = "blame paper oak anxiety kick expand bullet bamboo gift possible issue comfort";
+var mnemonic = "romance category diagram fly clerk salad virus chicken ripple egg anxiety people";

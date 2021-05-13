@@ -1,1 +1,1 @@
-var mnemonic = "owner pond glare sun fly panda spoon course link razor gap now";
+var mnemonic = "correct taxi bike glide egg buyer magic raccoon joke bounce cool caution";

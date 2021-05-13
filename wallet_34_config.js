@@ -1,1 +1,1 @@
-var mnemonic = "double valley clock future glad stomach input brief thing jeans token lawn";
+var mnemonic = "festival file crater flavor mass sustain lounge curve flush course matrix satoshi";

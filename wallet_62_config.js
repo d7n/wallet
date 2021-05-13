@@ -1,1 +1,1 @@
-var mnemonic = "elbow arrive gift vast path taxi piece twice outer drastic urban below";
+var mnemonic = "defense sugar fire vote hunt syrup raccoon bridge panel clinic jelly wreck";

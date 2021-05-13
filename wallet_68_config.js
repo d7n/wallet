@@ -1,1 +1,1 @@
-var mnemonic = "summer home grass kid unfair innocent blast monitor online admit blind battle";
+var mnemonic = "sword cross giraffe fit total ritual option feature flush harvest tuna orange";

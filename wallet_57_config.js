@@ -1,1 +1,1 @@
-var mnemonic = "wide page adapt history click pulse saddle clump miss foil ghost service";
+var mnemonic = "identify note flight alone select submit stick monitor win finger skirt course";

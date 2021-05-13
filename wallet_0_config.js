@@ -1,1 +1,1 @@
-var mnemonic = "boat copy super aisle then neutral admit cherry core license inherit belt";
+var mnemonic = "room whisper train neither grid lady action embody good surprise labor club";

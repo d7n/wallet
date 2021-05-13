@@ -1,1 +1,1 @@
-var mnemonic = "fault dove bubble congress flock nasty endorse photo cargo wrestle maximum wheat";
+var mnemonic = "index during canyon gym crouch push spot price glow transfer strong beauty";

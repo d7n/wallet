@@ -1,1 +1,1 @@
-var mnemonic = "mixture hand casual doctor borrow cricket snow spoil viable gym exist scorpion";
+var mnemonic = "drum rib oxygen museum annual rural garage banana very essay lounge dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "hello frozen hope strategy genius wedding talk elite already sunset galaxy object";
+var mnemonic = "quote concert best broccoli original prison accuse pilot dumb shield caution good";

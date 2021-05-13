@@ -1,1 +1,1 @@
-var mnemonic = "explain gauge track steel violin day long fiction process knee pelican nurse";
+var mnemonic = "talk age forum life lunar rude author food owner assault quarter garden";

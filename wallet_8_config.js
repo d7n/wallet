@@ -1,1 +1,1 @@
-var mnemonic = "game crash donor arrow okay casual major media ordinary scissors nice crumble";
+var mnemonic = "cook host second smooth duty author false diet hub word mix case";

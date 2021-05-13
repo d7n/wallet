@@ -1,1 +1,1 @@
-var mnemonic = "goose gym owner annual quality asthma shuffle tribe slogan pink gentle galaxy";
+var mnemonic = "apple bike category ocean vacuum direct ahead section ten toilet minimum unique";

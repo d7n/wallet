@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow embark crucial truly venture there winter any box depth crack you";
+var mnemonic = "reason helmet immense glass ketchup sentence barrel satoshi vault lock popular boil";

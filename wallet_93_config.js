@@ -1,1 +1,1 @@
-var mnemonic = "father crowd unusual cereal double horror sand correct donkey believe carry glove";
+var mnemonic = "daring slice also company enact tiger boil increase teach live bright retreat";

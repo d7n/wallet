@@ -1,1 +1,1 @@
-var mnemonic = "shield salt pluck party science moon click hobby seed identify rubber staff";
+var mnemonic = "silk horror science hole wisdom flag demand sense pepper second ugly menu";

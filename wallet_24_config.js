@@ -1,1 +1,1 @@
-var mnemonic = "evidence junior panic ski below island tortoise laugh science exile junk labor";
+var mnemonic = "boy innocent engage canal sail welcome bid fire arrange industry offer cliff";

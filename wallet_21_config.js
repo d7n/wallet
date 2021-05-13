@@ -1,1 +1,1 @@
-var mnemonic = "cruise nuclear vocal poverty dream hazard famous joy recipe sell brisk picnic";
+var mnemonic = "sudden naive coast canoe average tissue pulp enable blouse defy mixture casino";

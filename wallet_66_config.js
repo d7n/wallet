@@ -1,1 +1,1 @@
-var mnemonic = "discover hammer purity seven animal curtain unfair umbrella able lock nut blade";
+var mnemonic = "plunge ladder life size photo capable pipe pony wide hurt provide stand";

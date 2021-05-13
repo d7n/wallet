@@ -1,1 +1,1 @@
-var mnemonic = "sand music return knock together marine space labor rubber swim idle melody";
+var mnemonic = "frame midnight flee seed govern raven list cupboard cage august blood devote";

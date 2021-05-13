@@ -1,1 +1,1 @@
-var mnemonic = "habit young laundry snow fury celery quiz movie vast draw there become";
+var mnemonic = "develop grace target angry universe brother pretty coral zero forget hurt bar";

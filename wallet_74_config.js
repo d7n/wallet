@@ -1,1 +1,1 @@
-var mnemonic = "amazing august churn subway success clock math lyrics wave exist minor drum";
+var mnemonic = "across room frown guard mean electric tool camera gadget legend ancient opera";

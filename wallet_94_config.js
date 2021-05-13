@@ -1,1 +1,1 @@
-var mnemonic = "left yard glue youth beef smooth radar ecology lens scheme burden collect";
+var mnemonic = "fence rent sword rate tonight parent diet page wheel inspire scene gauge";

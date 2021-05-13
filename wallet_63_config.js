@@ -1,1 +1,1 @@
-var mnemonic = "charge shoe tongue march nice faith found rose pink power cook quit";
+var mnemonic = "cinnamon profit afraid multiply pull element ankle hospital garbage price dune animal";

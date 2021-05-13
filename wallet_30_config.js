@@ -1,1 +1,1 @@
-var mnemonic = "practice vapor bulb entire during entry mimic company deliver tonight share rally";
+var mnemonic = "breeze dumb various finish chief produce have hunt concert since odor still";

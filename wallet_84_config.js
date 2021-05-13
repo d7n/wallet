@@ -1,1 +1,1 @@
-var mnemonic = "above story that news photo bottom hundred own oyster call minor crack";
+var mnemonic = "film ostrich auto garbage impulse produce very mechanic height museum morning anxiety";

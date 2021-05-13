@@ -1,1 +1,1 @@
-var mnemonic = "valve throw stick motor admit ramp chuckle cruise flip pyramid vote soul";
+var mnemonic = "someone shock employ uncover clump apology giant grid pattern rival soon visa";

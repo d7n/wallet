@@ -1,1 +1,1 @@
-var mnemonic = "high belt above average twin scorpion picnic ecology tree layer tank term";
+var mnemonic = "alarm custom clock extend unveil hire segment culture bundle glance soldier erase";

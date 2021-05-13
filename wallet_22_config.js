@@ -1,1 +1,1 @@
-var mnemonic = "horn execute okay heavy leisure erupt nominee nuclear miss recipe motor illegal";
+var mnemonic = "ring choose moment smooth diary giant apart author rely shoot net shrimp";

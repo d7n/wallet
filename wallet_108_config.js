@@ -1,1 +1,1 @@
-var mnemonic = "letter property cave tip repair source joy purity debris copper sniff faith";
+var mnemonic = "traffic avoid best never seed barrel scale day history grass increase thrive";

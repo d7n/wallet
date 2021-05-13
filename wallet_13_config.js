@@ -1,1 +1,1 @@
-var mnemonic = "slide youth drill city flavor duck cart garment impact fringe winter muffin";
+var mnemonic = "belt route plunge verb accident myth mix shoot hedgehog unable rug suggest";

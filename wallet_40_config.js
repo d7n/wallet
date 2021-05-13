@@ -1,1 +1,1 @@
-var mnemonic = "maid exile canoe average stamp plug cherry file icon amused exist danger";
+var mnemonic = "build loop razor believe face obtain impulse canal bicycle nut control luggage";

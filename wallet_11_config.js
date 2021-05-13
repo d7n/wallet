@@ -1,1 +1,1 @@
-var mnemonic = "raise very what comfort asset speed sudden melody hidden seat company congress";
+var mnemonic = "piano dilemma green jelly message fan shrug leg wealth stove say little";

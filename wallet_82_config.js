@@ -1,1 +1,1 @@
-var mnemonic = "taste catch any style trigger under dinner total glue also soft swear";
+var mnemonic = "maid original neck brother next gaze trust real endorse process lottery hobby";

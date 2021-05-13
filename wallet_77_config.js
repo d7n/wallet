@@ -1,1 +1,1 @@
-var mnemonic = "corn grain wear clump hole gadget alone boat express equip alone car";
+var mnemonic = "nasty keep crew fall chuckle curtain injury guard glare burst ghost such";

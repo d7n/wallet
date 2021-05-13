@@ -1,1 +1,1 @@
-var mnemonic = "calm fresh cigar drum hunt motion blood clerk assault cotton place broken";
+var mnemonic = "blue length undo animal road coin draft empty peace mystery flip logic";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage dry resemble measure dream outer know sentence away crazy crawl army";
+var mnemonic = "cram sail target dose must never step wing govern analyst grocery olive";

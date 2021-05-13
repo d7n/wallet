@@ -1,1 +1,1 @@
-var mnemonic = "forest venue night humor merit mutual state case travel sick identify alter";
+var mnemonic = "traffic source remember eager all scale unique shrug shoot world powder fortune";

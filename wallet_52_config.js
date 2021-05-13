@@ -1,1 +1,1 @@
-var mnemonic = "buddy garment business dizzy pilot invite voyage fitness sort exact upset organ";
+var mnemonic = "student organ parent scan moral course steel people viable cute lift state";

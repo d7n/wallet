@@ -1,1 +1,1 @@
-var mnemonic = "merit common match isolate upper gate wrist february bonus paddle east female";
+var mnemonic = "tourist control local agree steak kitchen cycle cricket erase shield rule stairs";

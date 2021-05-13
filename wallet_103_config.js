@@ -1,1 +1,1 @@
-var mnemonic = "turkey always club fringe expect devote resist walnut physical trick vast balance";
+var mnemonic = "follow luxury educate rose intact fruit ranch awake north quote husband future";

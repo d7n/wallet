@@ -1,1 +1,1 @@
-var mnemonic = "category behind mosquito orient gorilla chunk cliff harvest fun gym humble uncle";
+var mnemonic = "bomb brown sword whale deal tribe tunnel purity buddy inflict puppy reason";

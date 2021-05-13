@@ -1,1 +1,1 @@
-var mnemonic = "clog crouch detect expand expand battle lunch normal swarm essence step believe";
+var mnemonic = "guilt card rice order saddle found black myth tip movie minor symptom";
