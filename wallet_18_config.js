@@ -1,1 +1,1 @@
-var mnemonic = "catalog tennis oven exact liquid picnic garage else morning reveal legend aisle";
+var mnemonic = "net table model erode invest cherry arrow wood doll employ lamp feature";

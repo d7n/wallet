@@ -1,1 +1,1 @@
-var mnemonic = "pear bind bulb hover horse monitor portion hidden swim knife very machine";
+var mnemonic = "couch broom army kite debris surge tenant burden brief gentle shoot palace";

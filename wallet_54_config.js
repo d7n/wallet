@@ -1,1 +1,1 @@
-var mnemonic = "income keen step silk fame roof hover deal stick rapid job apart";
+var mnemonic = "captain public drink erase leave kitten worth shell wood frog gain quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "correct laptop small answer rapid marriage sauce spy woman lottery dry battle";
+var mnemonic = "conduct large detect must assume inner flee fine knife struggle sing try";

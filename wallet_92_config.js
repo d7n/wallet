@@ -1,1 +1,1 @@
-var mnemonic = "access area unique wash all purpose vague crumble unveil gold purchase decide";
+var mnemonic = "upgrade acoustic great guilt because unhappy tomorrow three amount sugar badge uphold";

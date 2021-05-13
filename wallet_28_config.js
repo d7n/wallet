@@ -1,1 +1,1 @@
-var mnemonic = "two digital soul depend discover indicate wrist inside minimum chaos grass rebuild";
+var mnemonic = "river enact nerve cost shiver boat clown pull quality accident they boil";

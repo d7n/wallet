@@ -1,1 +1,1 @@
-var mnemonic = "this viable vapor hybrid evil boost close differ nerve vital organ wink";
+var mnemonic = "eye razor vital tiny move case toe sustain inmate immense yard mango";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant mesh boat afford spider tell cliff quote oyster gauge leg saddle";
+var mnemonic = "involve citizen scale shock panther push deliver depend rough drift similar double";

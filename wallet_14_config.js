@@ -1,1 +1,1 @@
-var mnemonic = "range joke odor kid observe tip village write ring place answer chef";
+var mnemonic = "spy cram curtain daring begin top autumn farm rice enemy nasty dismiss";

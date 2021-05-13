@@ -1,1 +1,1 @@
-var mnemonic = "piano obtain element device already walnut pulp aisle empty trick smooth upper";
+var mnemonic = "solid twist present spend fever worth license best wrestle later speed core";

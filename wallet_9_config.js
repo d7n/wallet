@@ -1,1 +1,1 @@
-var mnemonic = "electric garlic minimum emerge response brisk what day moon phrase this crumble";
+var mnemonic = "give index oil analyst news under idle velvet ramp loan sell oxygen";

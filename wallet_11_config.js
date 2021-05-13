@@ -1,1 +1,1 @@
-var mnemonic = "web dash work phone visual phrase later future trend congress cattle predict";
+var mnemonic = "clarify muffin relief key traffic whisper resemble pistol nuclear rate general jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "display already margin budget patrol blanket utility bid pulp fetch vessel city";
+var mnemonic = "ceiling meadow depart novel have ethics make diet slim purse raw awful";

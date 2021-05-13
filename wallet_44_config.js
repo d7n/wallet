@@ -1,1 +1,1 @@
-var mnemonic = "ghost rival mail oak donor reject gun time remember vintage loyal ocean";
+var mnemonic = "garage then absent lava topic super mutual leave under blame series cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck rice category march victory sunny gather budget vast attract unveil yard";
+var mnemonic = "toast eagle beef that embody embark wreck suffer bachelor poverty fiction hip";

@@ -1,1 +1,1 @@
-var mnemonic = "rack screen welcome adjust wolf hard feel fitness topple picture climb antique";
+var mnemonic = "armed laundry usage spread embody into october accident funny fiscal vanish balance";

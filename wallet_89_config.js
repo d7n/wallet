@@ -1,1 +1,1 @@
-var mnemonic = "kiss license agent narrow notable suit hard win ensure enough fiscal jungle";
+var mnemonic = "chalk mobile film segment verify large movie walk salmon exercise length shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "panic jungle wall bulb feel shop tell glass crawl release later reason";
+var mnemonic = "bright property mango unusual veteran term lumber cherry slice capital average sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans country vanish pyramid chapter uncle inject benefit weekend design fuel cargo";
+var mnemonic = "remove crime tiger circle paddle helmet still enlist door wedding tiger blanket";

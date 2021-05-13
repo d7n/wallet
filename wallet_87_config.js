@@ -1,1 +1,1 @@
-var mnemonic = "sea clump verb abuse fever north hat dial predict chest text immune";
+var mnemonic = "juice near trend couple walnut north glance gossip copy argue hip frequent";

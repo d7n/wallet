@@ -1,1 +1,1 @@
-var mnemonic = "accident gown joke wool rally swallow element box twice concert slide moment";
+var mnemonic = "nice bar beyond casual area treat divorce problem lake company frog oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "dog strong dilemma shove gossip surge small summer october caught arrest uncle";
+var mnemonic = "repeat song hammer moral unfair puppy solution obtain portion nature alter town";

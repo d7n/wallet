@@ -1,1 +1,1 @@
-var mnemonic = "sleep feature pulse armor horse control marble miss dog spoil smoke solid";
+var mnemonic = "certain hawk summer slot toddler hand smoke cruise idea tape mountain faith";

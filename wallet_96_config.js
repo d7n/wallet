@@ -1,1 +1,1 @@
-var mnemonic = "bean today erupt frame deliver detail guitar skin own nominee consider crew";
+var mnemonic = "cruise cat trade divert ten frown water vote thunder witness gravity state";

@@ -1,1 +1,1 @@
-var mnemonic = "treat wink dragon blade battle clown surprise blush ostrich physical dismiss stock";
+var mnemonic = "estate defense over fuel cream source space north conduct copper bamboo invest";

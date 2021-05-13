@@ -1,1 +1,1 @@
-var mnemonic = "royal peace worth step toddler fitness pencil unique excess shrimp recall town";
+var mnemonic = "digital task busy put scorpion special man siege camp people forest plunge";

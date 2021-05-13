@@ -1,1 +1,1 @@
-var mnemonic = "diet feel east found olympic chef wing brand sheriff hedgehog adapt hire";
+var mnemonic = "eye donate poverty ask little tortoise execute monkey dizzy abandon grain cat";

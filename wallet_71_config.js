@@ -1,1 +1,1 @@
-var mnemonic = "various famous orient lens monitor gorilla camp toward clutch burst tissue club";
+var mnemonic = "chimney slim record cluster capital relief cactus comic lizard pattern lunch grant";

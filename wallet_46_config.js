@@ -1,1 +1,1 @@
-var mnemonic = "curtain often demise glare seek entire broom secret wrap castle book bonus";
+var mnemonic = "siren dog capital runway resource render rotate february struggle mechanic ice total";

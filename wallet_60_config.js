@@ -1,1 +1,1 @@
-var mnemonic = "sauce health morning cabin group monkey thing festival ritual tourist rubber affair";
+var mnemonic = "chef method scheme ritual obscure lizard jaguar volume round coast fat mushroom";

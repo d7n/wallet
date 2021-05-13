@@ -1,1 +1,1 @@
-var mnemonic = "salmon list proud build feature crack day essay punch lyrics scheme evoke";
+var mnemonic = "range protect prosper solid shield educate easy jazz wear two tool master";

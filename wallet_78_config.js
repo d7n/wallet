@@ -1,1 +1,1 @@
-var mnemonic = "cereal milk mammal dog power assault thing dog between round drive morning";
+var mnemonic = "town balance unfair valley venture actual right session pitch public amazing athlete";

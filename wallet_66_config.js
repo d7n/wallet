@@ -1,1 +1,1 @@
-var mnemonic = "enjoy charge satisfy stick rice spatial mercy diesel sorry hint farm essay";
+var mnemonic = "gown teach cage tortoise matrix business later owner clump alpha roof figure";

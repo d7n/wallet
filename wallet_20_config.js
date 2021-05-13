@@ -1,1 +1,1 @@
-var mnemonic = "arm speed unaware forget goat sign pill gown easy rule supply shift";
+var mnemonic = "swap save tourist bounce ostrich february team uphold mean notable motion person";

@@ -1,1 +1,1 @@
-var mnemonic = "primary vital visual noble panther small grace curtain viable verb sunset inherit";
+var mnemonic = "fish fire glory slight burden electric million dirt vast fitness smooth curve";

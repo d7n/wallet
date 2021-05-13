@@ -1,1 +1,1 @@
-var mnemonic = "survey injury assume shoot glove friend silk become neglect pink rude wife";
+var mnemonic = "knock angry goddess dog choose crane dish cook shove weasel inspire panel";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket fury parade scatter melt brief vanish diesel sail promote bulb auto";
+var mnemonic = "valid demise into spin portion general mixture crucial lemon liquid horror seek";

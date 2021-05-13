@@ -1,1 +1,1 @@
-var mnemonic = "pencil dust bamboo decide endless engage hen cable sunny cargo cage normal";
+var mnemonic = "tribe topple armor ball element news arrest what valid raise bind unit";

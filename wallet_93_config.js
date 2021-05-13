@@ -1,1 +1,1 @@
-var mnemonic = "install venture game link size master setup replace gadget visual divorce accident";
+var mnemonic = "lottery please luxury clip chaos tree floor cabbage ocean tree like small";

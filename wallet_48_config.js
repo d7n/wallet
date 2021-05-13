@@ -1,1 +1,1 @@
-var mnemonic = "one increase cave much pizza broccoli squirrel senior veteran today sea marriage";
+var mnemonic = "burden brand kidney infant paper picnic old apple hawk tonight half jelly";

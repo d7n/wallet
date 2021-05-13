@@ -1,1 +1,1 @@
-var mnemonic = "velvet together camera soap ceiling file okay awful holiday nice sight real";
+var mnemonic = "beef flash unknown box scrub car case yellow injury meat knife planet";

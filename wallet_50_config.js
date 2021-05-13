@@ -1,1 +1,1 @@
-var mnemonic = "index recall ancient nephew tomato cycle pitch east sheriff quit tackle price";
+var mnemonic = "cabbage lazy fat middle kitchen bird physical boat fortune toss three absent";

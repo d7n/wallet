@@ -1,1 +1,1 @@
-var mnemonic = "earn mandate device theory crowd dentist discover coral special hospital spirit damage";
+var mnemonic = "process ripple arch lake fall token license language midnight blossom often welcome";

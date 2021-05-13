@@ -1,1 +1,1 @@
-var mnemonic = "focus cover immune smoke client damage cover morning end object soul inmate";
+var mnemonic = "push suggest until elder okay loop camera blossom glove patient index merry";

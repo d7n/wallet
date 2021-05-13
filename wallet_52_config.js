@@ -1,1 +1,1 @@
-var mnemonic = "alone fossil ritual mouse obey shallow certain female payment quality install reflect";
+var mnemonic = "paper expire various scare student expand ostrich receive captain jar present horse";

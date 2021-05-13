@@ -1,1 +1,1 @@
-var mnemonic = "speed round snap draft borrow invest soul scheme win grit concert talent";
+var mnemonic = "fold sort fury point script margin comfort give cable bacon rubber harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid output orchard popular melody broom remain dawn regret spot security clarify";
+var mnemonic = "weird civil body glory hole charge front balance wealth truck slush quantum";

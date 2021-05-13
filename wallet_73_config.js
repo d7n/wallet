@@ -1,1 +1,1 @@
-var mnemonic = "super frost lottery engine chief bleak hire universe help input gap blind";
+var mnemonic = "uncover analyst shoe dizzy job cage idle ill art brave genre real";

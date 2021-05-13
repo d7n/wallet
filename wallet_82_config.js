@@ -1,1 +1,1 @@
-var mnemonic = "speed round excuse sibling leg snow defy swap pact vintage address heart";
+var mnemonic = "advance mandate alter kit trash consider hawk accident glimpse seek senior fork";

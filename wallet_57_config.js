@@ -1,1 +1,1 @@
-var mnemonic = "ripple rely toddler bread flush hollow acoustic employ know blossom use vicious";
+var mnemonic = "child deal style hobby picture misery little lake message submit seven grab";

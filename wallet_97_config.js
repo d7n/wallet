@@ -1,1 +1,1 @@
-var mnemonic = "patch outdoor ordinary canoe lab genre either aerobic effort drive engage radar";
+var mnemonic = "private wreck obey west ill apology upset miss knock program decline toy";

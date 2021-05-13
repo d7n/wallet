@@ -1,1 +1,1 @@
-var mnemonic = "margin olive flame kingdom require raw bag swim orange napkin cloth arctic";
+var mnemonic = "foot grace distance pair nasty ladder about science hamster chair dragon gloom";

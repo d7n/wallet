@@ -1,1 +1,1 @@
-var mnemonic = "economy dilemma obvious child erase sword will enjoy common puppy rigid echo";
+var mnemonic = "win issue ritual barrel kangaroo more town silly sketch expand elegant steak";

@@ -1,1 +1,1 @@
-var mnemonic = "excite aim sibling mouse spell hand juice employ worth soul panther memory";
+var mnemonic = "practice water load load attack switch swing wire peasant pipe example trouble";

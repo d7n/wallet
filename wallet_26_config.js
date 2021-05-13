@@ -1,1 +1,1 @@
-var mnemonic = "super tool summer grain vague sword daring hammer miracle choose junk embrace";
+var mnemonic = "rude guess transfer long describe mom capital entire swallow damage napkin daring";

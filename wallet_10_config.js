@@ -1,1 +1,1 @@
-var mnemonic = "olympic tomato where surprise cool seed lottery snap initial tenant slow vibrant";
+var mnemonic = "quarter stem chaos glove process maid summer scare bean grain ill act";

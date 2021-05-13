@@ -1,1 +1,1 @@
-var mnemonic = "tumble device extra video scan egg abstract nerve pudding forest engage wood";
+var mnemonic = "gloom divert absorb material arm below praise priority vicious shop razor orchard";

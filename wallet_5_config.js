@@ -1,1 +1,1 @@
-var mnemonic = "forward attract merry elephant flat coach mixture peasant orbit robust area neutral";
+var mnemonic = "citizen victory pear worth regret hidden slice smart mercy deer spoil neglect";

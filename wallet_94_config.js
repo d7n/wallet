@@ -1,1 +1,1 @@
-var mnemonic = "royal allow inquiry dream thumb mouse cheese world flame run camera motion";
+var mnemonic = "blind glove toilet crisp shrug open amazing face lazy dream slice destroy";

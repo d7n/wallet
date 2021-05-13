@@ -1,1 +1,1 @@
-var mnemonic = "gossip harbor arrest leg beef fuel venture nuclear muscle exclude border group";
+var mnemonic = "once exit inmate detail tuna badge sadness unique muffin rhythm ride divide";

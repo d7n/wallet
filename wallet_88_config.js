@@ -1,1 +1,1 @@
-var mnemonic = "napkin matrix zone caught mind nurse exchange disease film tornado reveal motion";
+var mnemonic = "radar river method echo violin indicate execute region latin fabric cram pencil";

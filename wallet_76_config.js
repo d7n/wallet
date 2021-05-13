@@ -1,1 +1,1 @@
-var mnemonic = "session today actual joy income brain empty hope dawn farm mutual repair";
+var mnemonic = "scrub jewel visual stadium milk copper guide bounce bubble seat hard patient";

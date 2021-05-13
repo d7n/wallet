@@ -1,1 +1,1 @@
-var mnemonic = "much actress glove design unhappy fruit between liquid bike bean fog misery";
+var mnemonic = "fault broccoli special resist acid lottery arrange habit pyramid any smile artwork";

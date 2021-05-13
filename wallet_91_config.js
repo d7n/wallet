@@ -1,1 +1,1 @@
-var mnemonic = "festival can average bracket trap raven spend elbow define maze paper win";
+var mnemonic = "side holiday mail better one define snack cactus sword latin tide input";

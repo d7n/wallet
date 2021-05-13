@@ -1,1 +1,1 @@
-var mnemonic = "baby tree patch camp elevator busy network charge muffin monkey fluid dirt";
+var mnemonic = "erosion adjust leg fringe wedding unhappy run fringe proud guilt large delay";

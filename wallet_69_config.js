@@ -1,1 +1,1 @@
-var mnemonic = "cram sadness clip protect perfect duck tiger van exchange robust cycle drive";
+var mnemonic = "velvet carry problem steel dish frost despair inspire become snow witness satisfy";

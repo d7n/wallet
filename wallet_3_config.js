@@ -1,1 +1,1 @@
-var mnemonic = "okay spot exact cigar equip again run twin afford balance begin legal";
+var mnemonic = "volcano tree ride little wing teach arch settle gloom cream lonely primary";

@@ -1,1 +1,1 @@
-var mnemonic = "auction replace bounce runway aspect visual gate nothing slam behave galaxy run";
+var mnemonic = "million crowd fury dance song canvas one wild alpha unhappy push vivid";

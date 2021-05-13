@@ -1,1 +1,1 @@
-var mnemonic = "glue anxiety range morning cloth gesture describe spare height swamp they vital";
+var mnemonic = "slam smile demise taste chronic crisp arch occur only february crystal interest";

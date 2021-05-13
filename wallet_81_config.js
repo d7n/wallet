@@ -1,1 +1,1 @@
-var mnemonic = "model kiss hurdle wise scare soldier unknown athlete prepare nature inherit slide";
+var mnemonic = "surprise cement hungry witness tray skill hole thank group tomato disagree wrist";

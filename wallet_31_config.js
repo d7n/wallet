@@ -1,1 +1,1 @@
-var mnemonic = "jelly dish coach fish odor afraid humble margin fringe body want balcony";
+var mnemonic = "train asset recipe ask neck gadget maid child shuffle slush like faith";

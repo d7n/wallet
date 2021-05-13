@@ -1,1 +1,1 @@
-var mnemonic = "lecture language festival hour faint become vocal pride close ill furnace toilet";
+var mnemonic = "aim catch boss clarify rescue excuse arch tumble problem stem card affair";

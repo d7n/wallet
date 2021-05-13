@@ -1,1 +1,1 @@
-var mnemonic = "artwork boost ancient reduce message robot govern ship chicken panda diary uncover";
+var mnemonic = "sign off amazing reopen ugly above combine input hawk bid flame elegant";

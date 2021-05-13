@@ -1,1 +1,1 @@
-var mnemonic = "lumber pear glow west field tape jar route century tragic soon early";
+var mnemonic = "electric lemon violin sign build glory pill shuffle just meat circle ski";

@@ -1,1 +1,1 @@
-var mnemonic = "badge angle scrap young deputy relax law lobster glory melody coil plastic";
+var mnemonic = "electric modify cabbage immense tower buddy syrup dream title sight mother twelve";

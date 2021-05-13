@@ -1,1 +1,1 @@
-var mnemonic = "quote ozone easily girl where tone acoustic broom apple flavor receive around";
+var mnemonic = "still rookie mosquito empty dizzy memory bargain cute dinosaur pistol deny cover";

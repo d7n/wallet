@@ -1,1 +1,1 @@
-var mnemonic = "fancy artwork right enjoy purse permit hamster swamp time analyst citizen advice";
+var mnemonic = "struggle lava page garage ring order elevator crater coil monster bullet collect";

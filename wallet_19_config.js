@@ -1,1 +1,1 @@
-var mnemonic = "vanish beyond dolphin sample ceiling update auto ugly suggest shine garlic bachelor";
+var mnemonic = "already staff brush vacuum busy say trade hospital van skull unfair ceiling";

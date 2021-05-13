@@ -1,1 +1,1 @@
-var mnemonic = "knock hammer valid tomato banner harsh coffee happy senior develop recycle ahead";
+var mnemonic = "step someone maze truth essence possible parrot crime tone spawn dry move";

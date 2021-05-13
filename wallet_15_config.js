@@ -1,1 +1,1 @@
-var mnemonic = "fatal coconut slogan hand feel blush window panther harsh ceiling resource armor";
+var mnemonic = "art enemy manage about captain lucky primary jazz room enlist never earth";

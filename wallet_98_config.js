@@ -1,1 +1,1 @@
-var mnemonic = "brain guitar can cinnamon ghost salon miss detect shield champion bright divert";
+var mnemonic = "ball else wagon shop cross insane damage velvet market bring pull bus";

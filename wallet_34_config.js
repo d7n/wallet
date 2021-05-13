@@ -1,1 +1,1 @@
-var mnemonic = "lunch fantasy copy sweet dilemma sentence quality loop evolve thank ceiling divide";
+var mnemonic = "attend skin vote silly drum sweet eight absent excite task boat tissue";

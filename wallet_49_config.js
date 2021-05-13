@@ -1,1 +1,1 @@
-var mnemonic = "shrug deny twin magnet busy unlock skull adapt circle acoustic remove genre";
+var mnemonic = "always abuse soldier slow youth cereal mistake grant rug oval warrior twist";

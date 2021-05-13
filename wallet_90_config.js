@@ -1,1 +1,1 @@
-var mnemonic = "burden hazard escape kiwi castle mom float fitness elbow there census radio";
+var mnemonic = "moral curtain effort catalog tribe divert apart green swing bike claw kitchen";

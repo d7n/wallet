@@ -1,1 +1,1 @@
-var mnemonic = "robot garment bring icon address hazard country balcony move action primary apart";
+var mnemonic = "tongue volume album south school wool sister soft imitate wedding monitor movie";

@@ -1,1 +1,1 @@
-var mnemonic = "paper marine consider jaguar stereo danger half spin embark taste claw main";
+var mnemonic = "spirit strong rude civil corn label brother powder nasty system door portion";

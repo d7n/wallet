@@ -1,1 +1,1 @@
-var mnemonic = "truck distance mind trumpet then omit outer choose lamp drama lamp glue";
+var mnemonic = "above silk fuel parrot impulse uncle patient please rally head hold romance";

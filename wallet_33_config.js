@@ -1,1 +1,1 @@
-var mnemonic = "cross velvet fall common vacant extra manual increase bridge cradle fever remain";
+var mnemonic = "detect tell lamp glue inquiry hero joy quit innocent spray globe area";
