@@ -1,1 +1,1 @@
-var mnemonic = "angle sad finger column vote use trigger critic purity museum hunt lake";
+var mnemonic = "mix play flight casual broken super consider battle champion original hat motion";

@@ -1,1 +1,1 @@
-var mnemonic = "execute become donor minor rather move shock chicken youth forward foil limit";
+var mnemonic = "sock ski cattle hurdle climb pear parrot danger tunnel valid sniff fire";

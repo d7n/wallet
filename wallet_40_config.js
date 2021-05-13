@@ -1,1 +1,1 @@
-var mnemonic = "music viable stick wear radio fluid gloom forward eager south deny again";
+var mnemonic = "where urban divert dream obey water crisp assume trip orient airport present";

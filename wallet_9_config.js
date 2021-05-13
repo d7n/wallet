@@ -1,1 +1,1 @@
-var mnemonic = "else initial pill fatigue estate lecture slush neither entry person special during";
+var mnemonic = "help fine swallow record mosquito exit color ill tomato note remain talent";

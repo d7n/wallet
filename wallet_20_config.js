@@ -1,1 +1,1 @@
-var mnemonic = "matter genius have fatigue raccoon evolve abuse soon clap rabbit goose renew";
+var mnemonic = "verify reject this napkin similar deny skate fiscal income execute twist cabin";

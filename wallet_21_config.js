@@ -1,1 +1,1 @@
-var mnemonic = "ski sport galaxy vocal network wine hurt dilemma phone ethics height rate";
+var mnemonic = "anchor movie nice cricket drop oak nephew eye always general comfort habit";

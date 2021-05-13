@@ -1,1 +1,1 @@
-var mnemonic = "talk coconut ugly wagon eye endorse muffin shuffle rebuild moon lizard display";
+var mnemonic = "control train hill genius edge forget observe report video involve vintage virus";

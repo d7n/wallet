@@ -1,1 +1,1 @@
-var mnemonic = "away ski unable bounce picture rocket mushroom auction appear food hire yard";
+var mnemonic = "age december latin leave auto dizzy apple season flame umbrella injury false";

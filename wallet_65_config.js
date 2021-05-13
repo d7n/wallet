@@ -1,1 +1,1 @@
-var mnemonic = "early grace alert fox once dress priority milk special music feed general";
+var mnemonic = "meat crumble slight buzz drop abandon game fan lock must dismiss asthma";

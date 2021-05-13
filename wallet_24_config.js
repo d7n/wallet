@@ -1,1 +1,1 @@
-var mnemonic = "age expect artwork aunt sport tackle fashion goddess miracle sunny excess dizzy";
+var mnemonic = "chef scorpion bulb since aware vanish survey surprise web unfair leg prison";

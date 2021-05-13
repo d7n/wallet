@@ -1,1 +1,1 @@
-var mnemonic = "field bunker valve elite run over detect pond coyote bamboo obvious swap";
+var mnemonic = "parrot soft sorry frown vehicle copy state sustain client summer vacuum extra";

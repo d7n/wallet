@@ -1,1 +1,1 @@
-var mnemonic = "envelope put guess spell derive hope diary ethics such solve crash color";
+var mnemonic = "switch rose have distance huge include zoo elite salmon pool achieve hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "sample eye must ordinary wire merit increase kiwi lyrics hurt hamster urban";
+var mnemonic = "water oblige maze lamp hungry alcohol pencil castle sell bid nose similar";

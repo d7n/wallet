@@ -1,1 +1,1 @@
-var mnemonic = "wage civil spider situate toss goat burden measure burger relief force tumble";
+var mnemonic = "medal tooth team piece retire immune process vocal borrow congress pottery time";

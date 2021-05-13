@@ -1,1 +1,1 @@
-var mnemonic = "plug ignore cigar scatter can elevator slow crowd barely mango memory maximum";
+var mnemonic = "tackle horse lunch bid space display grain circle essence dad begin mercy";

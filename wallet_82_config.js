@@ -1,1 +1,1 @@
-var mnemonic = "apology chest lion feature divert sting clean uphold bird pen aware nest";
+var mnemonic = "jealous bulk dinosaur object arrive bar frog symptom raven athlete assume maximum";

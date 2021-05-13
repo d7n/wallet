@@ -1,1 +1,1 @@
-var mnemonic = "video slam season three film exile range zoo actor trim trick infant";
+var mnemonic = "catch million anger case fine rough group rail message flag happy range";

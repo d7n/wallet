@@ -1,1 +1,1 @@
-var mnemonic = "blade loud jazz notice ski legal light casual episode devote relief slow";
+var mnemonic = "pioneer actual always prison have magic smile exchange about song lock expect";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny hazard mango eyebrow during old enlist rather crawl setup velvet flower";
+var mnemonic = "excess oppose jacket era regret hub expire main meadow alarm enter silk";

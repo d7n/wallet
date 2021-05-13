@@ -1,1 +1,1 @@
-var mnemonic = "clown arch exclude mercy tide version noble group hundred coil mouse trouble";
+var mnemonic = "lift face bench spread task pencil follow input six shift top venture";

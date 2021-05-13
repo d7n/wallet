@@ -1,1 +1,1 @@
-var mnemonic = "luxury tag define scorpion super october fatigue lawn hybrid turkey traffic west";
+var mnemonic = "glad artefact eagle promote frequent aisle below forget narrow auto thank jewel";

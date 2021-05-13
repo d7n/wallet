@@ -1,1 +1,1 @@
-var mnemonic = "elbow recipe tip pond margin rapid switch vehicle drum cream olympic cherry";
+var mnemonic = "enrich couple exhibit bag north category still victory gas report neutral cross";

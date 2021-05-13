@@ -1,1 +1,1 @@
-var mnemonic = "absorb useful ribbon sell vehicle clutch road useless stairs skirt profit share";
+var mnemonic = "elephant ostrich nothing fog bright razor decline damage allow elephant bird aerobic";

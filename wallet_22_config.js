@@ -1,1 +1,1 @@
-var mnemonic = "neither awkward copy blanket lion reopen antenna view sample claw scan spy";
+var mnemonic = "rare dinner ride name shaft hole dad recipe surface noise adapt dice";

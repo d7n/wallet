@@ -1,1 +1,1 @@
-var mnemonic = "theme zone long defense struggle range farm hungry critic cool mixed brain";
+var mnemonic = "balcony loud ill trend neither material alarm property hat source salon alpha";

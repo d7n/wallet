@@ -1,1 +1,1 @@
-var mnemonic = "retire dynamic aunt drama slow magic thought diesel unique whale tray firm";
+var mnemonic = "wear chef fiber winner pink spin hood dry dynamic rhythm violin beach";

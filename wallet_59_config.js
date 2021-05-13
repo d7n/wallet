@@ -1,1 +1,1 @@
-var mnemonic = "leader axis ability harvest cement cruise pattern exclude mutual rifle federal scrub";
+var mnemonic = "couple among exotic strategy need bicycle admit frozen polar cabin october obscure";

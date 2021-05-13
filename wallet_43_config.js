@@ -1,1 +1,1 @@
-var mnemonic = "fruit extra buffalo defense gaze law spread hobby keen chaos spring truck";
+var mnemonic = "parent peanut dragon romance bottom address achieve good pottery country garment salute";

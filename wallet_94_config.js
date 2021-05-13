@@ -1,1 +1,1 @@
-var mnemonic = "whisper trash muscle cup ridge whip battle weasel valley easy hero month";
+var mnemonic = "ship hill solar stereo make stay pen above ankle puppy verify rocket";

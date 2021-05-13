@@ -1,1 +1,1 @@
-var mnemonic = "pulse dismiss want address arena iron wise hour copy deny feature option";
+var mnemonic = "gap hen flash use joke mistake under oven stadium child click twist";

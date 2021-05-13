@@ -1,1 +1,1 @@
-var mnemonic = "machine rebuild enough receive tower fee farm ghost drive unit capable sick";
+var mnemonic = "claim tuna like category zero buzz agent flush topple hen idea butter";

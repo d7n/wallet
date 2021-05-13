@@ -1,1 +1,1 @@
-var mnemonic = "uncover endorse only surface hire blossom local mind inner matter wood royal";
+var mnemonic = "harbor reason service radio become stay camp job chest high satoshi spray";

@@ -1,1 +1,1 @@
-var mnemonic = "talent mistake charge kind admit spice deputy yellow trade total input image";
+var mnemonic = "soup lava two tower blush thank slide caution fat other beauty oil";

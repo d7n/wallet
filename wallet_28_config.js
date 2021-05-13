@@ -1,1 +1,1 @@
-var mnemonic = "labor path cheap address fury shrug wrestle early text hybrid panel penalty";
+var mnemonic = "apology moon grape rough hazard endorse exchange please medal pill discover print";

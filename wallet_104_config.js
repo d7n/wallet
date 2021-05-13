@@ -1,1 +1,1 @@
-var mnemonic = "board please cheese slender wrestle flash bike upgrade purpose gesture wrap cheese";
+var mnemonic = "output legend violin large age street energy margin permit jaguar health noodle";

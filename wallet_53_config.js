@@ -1,1 +1,1 @@
-var mnemonic = "orange chimney evil awake student muscle elite below laundry plug miss bronze";
+var mnemonic = "arrive police absent close fog impulse forget suggest purse room angry rich";

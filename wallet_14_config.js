@@ -1,1 +1,1 @@
-var mnemonic = "endorse moral always honey tissue project melt genius right chief arena accident";
+var mnemonic = "boy neglect art despair tongue quit limit strategy absent vacant imitate rate";

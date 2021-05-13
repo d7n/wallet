@@ -1,1 +1,1 @@
-var mnemonic = "swarm survey have begin cupboard call hurt sudden cake ready world soon";
+var mnemonic = "legend mutual keep famous once market orient camp crazy minor gorilla main";

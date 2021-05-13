@@ -1,1 +1,1 @@
-var mnemonic = "hour exotic hurry cat shine symptom upper grid used palm mind hood";
+var mnemonic = "skin citizen bulk ensure scrub range pool charge man fabric smile exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "name crash remember away van alert mango tent venue jeans seed april";
+var mnemonic = "castle cliff result surprise live virtual weather bridge elite picture salute border";

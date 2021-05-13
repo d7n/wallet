@@ -1,1 +1,1 @@
-var mnemonic = "path host chase salon garbage adapt table face garden outdoor clap asset";
+var mnemonic = "lens secret jealous knee glance you feed safe forest mention syrup box";

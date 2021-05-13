@@ -1,1 +1,1 @@
-var mnemonic = "area treat icon goose giggle act sudden income soda away minimum debris";
+var mnemonic = "empty east garment label spread liar tooth concert minor isolate short video";

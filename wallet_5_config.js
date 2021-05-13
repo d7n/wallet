@@ -1,1 +1,1 @@
-var mnemonic = "grape fat puppy flag annual reunion friend crash trigger hunt napkin stable";
+var mnemonic = "vibrant bench adult crop bonus iron auto ask pool tool curious save";

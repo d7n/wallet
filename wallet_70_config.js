@@ -1,1 +1,1 @@
-var mnemonic = "smile quarter satoshi island this motor shiver hedgehog burden opera total fragile";
+var mnemonic = "solve super measure squirrel empty mouse mammal fence method prize access warfare";

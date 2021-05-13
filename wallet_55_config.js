@@ -1,1 +1,1 @@
-var mnemonic = "rate winner correct canal hope music liberty dose region tiger bone advance";
+var mnemonic = "industry burger little slush grain endless spoon round gaze trick online mask";

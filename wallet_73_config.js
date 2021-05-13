@@ -1,1 +1,1 @@
-var mnemonic = "oak source legal address glance neglect hollow quick observe excuse deliver save";
+var mnemonic = "wide impose ketchup stay neither argue about crater into grain boy kid";

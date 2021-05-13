@@ -1,1 +1,1 @@
-var mnemonic = "wasp bubble promote favorite any slab between advance effort hint long clip";
+var mnemonic = "spare foam salmon avoid force increase supreme fun awake this option mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "drink treat address brief grunt agree history bronze hello sight pretty wheel";
+var mnemonic = "husband usual scrap decrease escape board era bunker hold flock behind jewel";

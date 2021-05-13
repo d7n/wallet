@@ -1,1 +1,1 @@
-var mnemonic = "mistake someone life stomach judge sorry defy peanut panda scatter joke term";
+var mnemonic = "negative cancel truly life public flock blast vague faculty unveil exercise ball";

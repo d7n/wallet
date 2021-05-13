@@ -1,1 +1,1 @@
-var mnemonic = "skirt purse uncover inch kiwi blade soccer believe goddess smart fiscal pupil";
+var mnemonic = "lawsuit early wet goose boost seminar hidden bottom grass leader equip escape";

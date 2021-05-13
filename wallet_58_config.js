@@ -1,1 +1,1 @@
-var mnemonic = "birth legal wave celery swarm broken transfer vacant agree bird brown seminar";
+var mnemonic = "trade jelly middle slab soap erode domain smoke merry guitar avocado yellow";

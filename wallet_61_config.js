@@ -1,1 +1,1 @@
-var mnemonic = "occur doll tattoo awesome need duck praise point gauge mix priority stone";
+var mnemonic = "park crystal element shrug pyramid oil lazy arrive oval index abstract you";

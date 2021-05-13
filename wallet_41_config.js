@@ -1,1 +1,1 @@
-var mnemonic = "fetch cake chat trumpet buddy language pride near position antenna interest good";
+var mnemonic = "airport damp push blue test tuition egg access jazz stereo this control";

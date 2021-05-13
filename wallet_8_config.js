@@ -1,1 +1,1 @@
-var mnemonic = "twist normal autumn pen scatter loud figure waste envelope pretty task forward";
+var mnemonic = "maximum rare resist pyramid effort across misery fashion right brain gap swarm";

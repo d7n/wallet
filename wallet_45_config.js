@@ -1,1 +1,1 @@
-var mnemonic = "drink palm fine barrel clown tooth topple salon metal zone crouch myth";
+var mnemonic = "patch permit smart major record town element hub concert shield spread earth";

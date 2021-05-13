@@ -1,1 +1,1 @@
-var mnemonic = "scissors screen unlock decorate derive coin west stomach lottery sense system label";
+var mnemonic = "riot street arrive walk beach wish bag grain snap danger travel film";

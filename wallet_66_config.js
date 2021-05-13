@@ -1,1 +1,1 @@
-var mnemonic = "welcome aisle legal they pottery embark disorder struggle hour impose ranch group";
+var mnemonic = "valid day improve stairs juice repair surge zebra can calm milk high";

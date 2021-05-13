@@ -1,1 +1,1 @@
-var mnemonic = "junk young acquire whisper movie frozen two kind walk eagle gravity collect";
+var mnemonic = "loop desert avocado kitten settle catalog drip cat flat chase tool ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo struggle source ordinary detail ritual duck kite coconut modify theme eyebrow";
+var mnemonic = "trap gown brush easy sister month ugly portion police now drift eight";

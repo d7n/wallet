@@ -1,1 +1,1 @@
-var mnemonic = "pond magnet scene only actor erosion sheriff chapter play fat occur imitate";
+var mnemonic = "clown awesome patrol call van aware flower pilot relax setup smooth detail";

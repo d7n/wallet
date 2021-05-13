@@ -1,1 +1,1 @@
-var mnemonic = "install angry initial start quiz bag tide crucial glue photo behave response";
+var mnemonic = "mother color disorder resemble issue thank suit grief danger test firm wire";

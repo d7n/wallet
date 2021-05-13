@@ -1,1 +1,1 @@
-var mnemonic = "demand gold orient since they grunt frost aim fan rent puzzle father";
+var mnemonic = "broom analyst dog process brave provide life youth better bus tree fetch";

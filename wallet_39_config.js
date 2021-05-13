@@ -1,1 +1,1 @@
-var mnemonic = "decade hire vote festival base dial neutral cargo tag luggage bus camp";
+var mnemonic = "believe slam safe wire tomato word increase use noble budget such release";

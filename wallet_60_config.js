@@ -1,1 +1,1 @@
-var mnemonic = "gold eight allow fuel book trim evil attend tag fetch achieve famous";
+var mnemonic = "electric balcony pencil stay ritual fossil smoke awesome swallow thank dizzy verify";

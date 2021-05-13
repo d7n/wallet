@@ -1,1 +1,1 @@
-var mnemonic = "juice flag predict stable ghost olive desert solution scale fade hello metal";
+var mnemonic = "join usage lunar toddler beach shop pitch alter electric nerve dice arrange";

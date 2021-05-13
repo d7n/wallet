@@ -1,1 +1,1 @@
-var mnemonic = "movie submit turn only connect visa stumble alarm burger tattoo color cable";
+var mnemonic = "monitor initial scorpion rug scatter behave sister toddler duty family actor spoon";

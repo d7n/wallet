@@ -1,1 +1,1 @@
-var mnemonic = "toe south refuse rhythm poem defy fade tragic glory glare main hedgehog";
+var mnemonic = "fade fetch prefer axis october fall certain stomach lecture amount explain talk";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear high state search laptop aware catalog artwork buyer wheel grief space";
+var mnemonic = "cluster meat squeeze hope vague tool dune stable turtle crumble blast abuse";

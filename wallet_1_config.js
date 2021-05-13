@@ -1,1 +1,1 @@
-var mnemonic = "real badge involve fox word talent naive universe code ugly stool danger";
+var mnemonic = "foil valve suspect method rescue hub popular nominee combine whip expand addict";

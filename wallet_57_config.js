@@ -1,1 +1,1 @@
-var mnemonic = "insane truly cupboard recipe chaos finish lucky oak equip tackle denial cover";
+var mnemonic = "layer leg siren scrap twenty view final flip shock screen huge abstract";

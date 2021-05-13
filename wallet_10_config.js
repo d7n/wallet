@@ -1,1 +1,1 @@
-var mnemonic = "index hammer example slogan trophy swarm suit month decline appear impact year";
+var mnemonic = "pelican giraffe stereo slot evoke debris spare brush sick snake woman habit";

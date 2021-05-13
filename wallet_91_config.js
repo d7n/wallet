@@ -1,1 +1,1 @@
-var mnemonic = "chuckle permit half inhale uncover witness buyer teach attract rabbit above soup";
+var mnemonic = "deny crime glass sentence purity wet prize belt negative what width gown";

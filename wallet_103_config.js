@@ -1,1 +1,1 @@
-var mnemonic = "morning someone misery sheriff hurry quiz across team rubber silver tumble silent";
+var mnemonic = "swallow guess harbor silly slow powder chalk nerve labor fringe trust excess";

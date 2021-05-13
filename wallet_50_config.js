@@ -1,1 +1,1 @@
-var mnemonic = "ridge flee tonight ecology frost picture donate mention dress desk spoil great";
+var mnemonic = "energy bridge baby absorb crucial plate funny twenty glove lady bridge robust";

@@ -1,1 +1,1 @@
-var mnemonic = "height round avocado garlic east antique lunar near wealth evolve scrap cute";
+var mnemonic = "local august oppose cook meadow witness insect town punch cricket tip fossil";

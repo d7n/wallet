@@ -1,1 +1,1 @@
-var mnemonic = "uncle rail false search bargain scan wolf orient hub bargain glove street";
+var mnemonic = "useful dumb smoke return elite limb delay cabin patch spoon auction dad";

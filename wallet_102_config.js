@@ -1,1 +1,1 @@
-var mnemonic = "few squirrel torch coin huge danger shy action giant stomach fury coral";
+var mnemonic = "female empower suspect man juice say stage service joy champion notable art";

@@ -1,1 +1,1 @@
-var mnemonic = "word choice speak harsh twelve swap sail perfect session adapt depth muscle";
+var mnemonic = "desk female saddle panda brick kangaroo nominee rigid best evil manage rescue";

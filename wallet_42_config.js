@@ -1,1 +1,1 @@
-var mnemonic = "pilot guilt hawk unfair radio valid grunt pond lottery solve among impulse";
+var mnemonic = "left window call priority attend donor orbit solar term double reward this";

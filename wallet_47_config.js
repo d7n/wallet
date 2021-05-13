@@ -1,1 +1,1 @@
-var mnemonic = "spot icon drop whip dolphin legal pull swear pear dinner innocent rescue";
+var mnemonic = "any lonely sure same violin card blood tornado fan muscle problem thumb";

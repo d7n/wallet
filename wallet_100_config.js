@@ -1,1 +1,1 @@
-var mnemonic = "slide glass afraid helmet quick into tail month unhappy tree dinner regret";
+var mnemonic = "fruit crawl box assist universe rocket wonder first thank powder cushion piano";

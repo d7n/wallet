@@ -1,1 +1,1 @@
-var mnemonic = "call quiz drive milk end slow exhaust filter float category worry crater";
+var mnemonic = "lawn torch paddle doll toy rain river fade flame example universe indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal subway inject stone runway tennis mistake portion exotic boil multiply blade";
+var mnemonic = "claim crazy buyer family dad wood toe end exclude bubble ahead federal";

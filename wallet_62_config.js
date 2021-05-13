@@ -1,1 +1,1 @@
-var mnemonic = "spy just toward normal pole card kit silk satisfy valve chief route";
+var mnemonic = "able basket salt lunch stage shrimp kitchen twenty gain baby horror solar";

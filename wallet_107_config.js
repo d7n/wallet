@@ -1,1 +1,1 @@
-var mnemonic = "tuition pepper liquid above voyage iron worry senior person dilemma reflect plunge";
+var mnemonic = "machine cave loan put govern obscure secret spawn order slender number kiwi";

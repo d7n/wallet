@@ -1,1 +1,1 @@
-var mnemonic = "stereo biology puppy damage total genius curve girl wood custom document learn";
+var mnemonic = "ritual inch popular coach elevator cushion fossil oyster diary lucky resource sun";

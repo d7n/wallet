@@ -1,1 +1,1 @@
-var mnemonic = "offer verify hobby noble vocal avocado scale hammer weapon impact budget doll";
+var mnemonic = "zoo dilemma learn flock scrub goat sheriff mutual culture resource border rally";

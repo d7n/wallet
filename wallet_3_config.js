@@ -1,1 +1,1 @@
-var mnemonic = "clean garbage forest carbon cheese real search spike sustain clerk select fog";
+var mnemonic = "security cattle lawsuit creek perfect tired tell special era beauty sponsor gown";

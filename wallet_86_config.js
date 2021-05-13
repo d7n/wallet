@@ -1,1 +1,1 @@
-var mnemonic = "grab fire amazing jealous habit snap burden tragic team stairs blur oil";
+var mnemonic = "average total wire sphere surprise know concert discover add fluid one nice";

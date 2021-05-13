@@ -1,1 +1,1 @@
-var mnemonic = "drastic art need famous then diamond tortoise essay cabbage sphere tape verify";
+var mnemonic = "tomorrow moon ghost hint planet gap output trial labor genre sketch drift";

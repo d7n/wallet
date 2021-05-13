@@ -1,1 +1,1 @@
-var mnemonic = "wonder disorder human guess between retreat chronic bunker school glow figure reduce";
+var mnemonic = "erosion axis donate cream disorder body slab zoo antenna obtain drink photo";

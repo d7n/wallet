@@ -1,1 +1,1 @@
-var mnemonic = "inside client symbol rookie blind fitness approve bamboo citizen tilt embark tuition";
+var mnemonic = "ten reform black absorb first civil quality flip skill little label stone";

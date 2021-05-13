@@ -1,1 +1,1 @@
-var mnemonic = "baby worth goddess confirm sugar drink skull pepper please wear fog release";
+var mnemonic = "sun cabbage cost arch wrestle save moral island mercy enough shine sea";

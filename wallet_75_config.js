@@ -1,1 +1,1 @@
-var mnemonic = "guilt idea organ useless disorder ketchup false pear rebuild giraffe silver awesome";
+var mnemonic = "range agent banner sketch begin anchor monster elegant copy cruise lamp clarify";
