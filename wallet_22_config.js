@@ -1,1 +1,1 @@
-var mnemonic = "drink clog blur ghost plastic popular helmet pudding lumber scan spring drum";
+var mnemonic = "jazz august sunny home lizard under cargo spatial matter float hidden bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse mass erode park ask stairs track trigger plate kangaroo flag rent";
+var mnemonic = "hint improve dry inform brave post strike have black actor romance pistol";

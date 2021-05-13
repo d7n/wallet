@@ -1,1 +1,1 @@
-var mnemonic = "alcohol accident square abuse category moment shuffle cover mixed lend guard grape";
+var mnemonic = "cloud prevent alley canvas abstract tooth hockey gate deposit large crisp pulp";

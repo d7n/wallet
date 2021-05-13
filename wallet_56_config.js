@@ -1,1 +1,1 @@
-var mnemonic = "rally already brain morning cry unfair system stand favorite pledge junior juice";
+var mnemonic = "game tobacco library night live cable soon spawn canal seven spring hire";

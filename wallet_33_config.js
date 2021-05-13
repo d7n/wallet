@@ -1,1 +1,1 @@
-var mnemonic = "forum pottery bomb social rack salt leave aunt novel stool viable wall";
+var mnemonic = "tooth hire crime sound crater antenna consider tooth loop friend doctor sunset";

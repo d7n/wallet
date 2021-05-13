@@ -1,1 +1,1 @@
-var mnemonic = "pole wine divide cute hidden ginger brain market auction run define kidney";
+var mnemonic = "van carry material observe drive client shock uniform grass there error brush";

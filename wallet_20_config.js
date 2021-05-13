@@ -1,1 +1,1 @@
-var mnemonic = "initial kitchen estate fan copy fancy tunnel filter blame story good gap";
+var mnemonic = "ice lecture spin true shadow enact rebel diary decorate business edit cancel";

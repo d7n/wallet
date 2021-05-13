@@ -1,1 +1,1 @@
-var mnemonic = "region wish tool couple embody able that reduce skill junior slam glance";
+var mnemonic = "enemy tennis pear betray column twelve young escape secret ancient nurse siren";

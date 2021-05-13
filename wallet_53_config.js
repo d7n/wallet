@@ -1,1 +1,1 @@
-var mnemonic = "nurse useless spin spoil desert success same skate uncle truth tag tag";
+var mnemonic = "vote either roast supreme abandon decade bike mimic initial nut tissue section";

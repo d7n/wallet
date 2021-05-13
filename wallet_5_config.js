@@ -1,1 +1,1 @@
-var mnemonic = "inquiry prize gold fossil must pulp muscle guilt wall more faint print";
+var mnemonic = "extend fox target peasant worry have popular cabbage shock million minimum weasel";

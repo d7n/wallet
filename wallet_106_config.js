@@ -1,1 +1,1 @@
-var mnemonic = "manual fluid oil system fantasy keep rose vacant hybrid track use season";
+var mnemonic = "chat master walk left suit banner style swap someone country easily system";

@@ -1,1 +1,1 @@
-var mnemonic = "theme glare squirrel identify enjoy escape edge future example moment advice mutual";
+var mnemonic = "canvas achieve phone exit actress decrease poverty ask rocket fossil diamond cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "tell ride tumble pool embody climb swap enter soap spirit butter wool";
+var mnemonic = "cheap smart rival rigid door learn doctor gas barrel sea trade spy";

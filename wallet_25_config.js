@@ -1,1 +1,1 @@
-var mnemonic = "fox attract latin near urban trip delay hair hurry sister rebel maid";
+var mnemonic = "assume eagle defense surprise vault goddess female chair cherry pencil evidence bicycle";

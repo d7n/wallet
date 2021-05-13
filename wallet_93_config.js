@@ -1,1 +1,1 @@
-var mnemonic = "move magnet argue bid brain stadium vanish interest multiply drum day sunny";
+var mnemonic = "what pet viable cancel pattern home maze disorder near gate physical wall";

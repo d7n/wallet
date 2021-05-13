@@ -1,1 +1,1 @@
-var mnemonic = "observe wing zone dress bench impulse beauty wish extend surface health filter";
+var mnemonic = "seed infant economy length ripple oyster ring machine swim version brief invest";

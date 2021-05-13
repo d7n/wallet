@@ -1,1 +1,1 @@
-var mnemonic = "dumb index purse token vanish marble toe hello enjoy among knock arrive";
+var mnemonic = "liberty lumber claw citizen struggle salt depth impact fatal write gesture foam";

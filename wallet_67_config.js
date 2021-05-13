@@ -1,1 +1,1 @@
-var mnemonic = "scheme evil garage intact public immense state twenty squeeze taste sheriff later";
+var mnemonic = "powder hamster summer faith buffalo web organ exhibit egg crew salon very";

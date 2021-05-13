@@ -1,1 +1,1 @@
-var mnemonic = "timber stairs calm month cost increase mobile fluid arrow rigid dice leisure";
+var mnemonic = "goat dwarf rabbit decorate mesh domain slogan prepare please real milk trust";

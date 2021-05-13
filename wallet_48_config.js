@@ -1,1 +1,1 @@
-var mnemonic = "civil lounge ritual volcano develop nose human trip elite senior smart rose";
+var mnemonic = "cool defy desert hammer seven person brother rare acquire destroy reward scan";

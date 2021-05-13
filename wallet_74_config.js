@@ -1,1 +1,1 @@
-var mnemonic = "arrest sausage second science dirt average wrong finger behind elbow ripple ivory";
+var mnemonic = "smile state barely cricket attract model slush ride dust orchard april kind";

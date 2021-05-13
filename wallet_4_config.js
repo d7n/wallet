@@ -1,1 +1,1 @@
-var mnemonic = "churn doctor story dismiss outdoor shock wreck ranch siren real shove hint";
+var mnemonic = "weather worry mother palm bunker snap anchor unveil age order street order";

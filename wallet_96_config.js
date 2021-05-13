@@ -1,1 +1,1 @@
-var mnemonic = "crumble time able observe food height unable morning fossil nature eye jacket";
+var mnemonic = "smile exercise receive build vicious impulse owner canal stand elephant oyster identify";

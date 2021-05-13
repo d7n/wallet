@@ -1,1 +1,1 @@
-var mnemonic = "blur cousin pulp danger hold move put execute idea present major they";
+var mnemonic = "control license post parent odor margin tray story income check happy primary";

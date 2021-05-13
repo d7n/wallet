@@ -1,1 +1,1 @@
-var mnemonic = "random adapt wing month march guess penalty dog napkin glad castle nest";
+var mnemonic = "quality fruit rigid hidden decorate correct cool vendor crater update amateur industry";

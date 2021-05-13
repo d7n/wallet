@@ -1,1 +1,1 @@
-var mnemonic = "chef swear release zero angle poverty hill fiscal flag breeze taste output";
+var mnemonic = "common person cream ugly spirit jar tenant bless earth blade shadow edge";

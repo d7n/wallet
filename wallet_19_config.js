@@ -1,1 +1,1 @@
-var mnemonic = "casino present squeeze shallow stay whip speed salute rare very toilet mirror";
+var mnemonic = "churn certain ability rib bind pretty forest insect admit library grocery chase";

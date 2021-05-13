@@ -1,1 +1,1 @@
-var mnemonic = "fruit memory betray acoustic panther reason deal area field crowd inform foil";
+var mnemonic = "trip hat custom brass hood immense treat physical dust zone brown later";

@@ -1,1 +1,1 @@
-var mnemonic = "insane pilot action autumn pioneer slush catch entry twelve build boy apology";
+var mnemonic = "license valley sibling symptom make royal opera tonight math room biology spoon";

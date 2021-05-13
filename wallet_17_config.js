@@ -1,1 +1,1 @@
-var mnemonic = "meat absurd since forum despair zero resource family heavy ice turtle artefact";
+var mnemonic = "finger job pretty oblige divert second about repeat naive abstract scale during";

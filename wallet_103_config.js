@@ -1,1 +1,1 @@
-var mnemonic = "harvest ranch stem drink tunnel mean guard twist father sick tragic allow";
+var mnemonic = "token hero art nothing junk exchange pelican execute anger industry addict city";

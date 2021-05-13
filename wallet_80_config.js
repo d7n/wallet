@@ -1,1 +1,1 @@
-var mnemonic = "escape peasant thank come elite damp legend slim length canvas category eternal";
+var mnemonic = "cereal home cash fork female other glad discover scorpion enough parent current";

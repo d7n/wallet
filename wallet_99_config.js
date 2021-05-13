@@ -1,1 +1,1 @@
-var mnemonic = "brief huge enact curious duck album private stairs happy april public cluster";
+var mnemonic = "veteran once february jealous luxury crystal fade giggle wine alert supply return";

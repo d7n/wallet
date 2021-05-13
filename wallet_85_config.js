@@ -1,1 +1,1 @@
-var mnemonic = "reveal issue globe fat kiwi gloom siren parade belt track level soap";
+var mnemonic = "exhaust illegal diet peanut amazing rice ask food sun candy ocean general";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum sustain tunnel piano town script yellow daring eager child series blossom";
+var mnemonic = "fringe climb trick cost put ethics token poem until mouse layer develop";

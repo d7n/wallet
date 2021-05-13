@@ -1,1 +1,1 @@
-var mnemonic = "exercise hub tackle canyon unveil square tone high lumber wall pen super";
+var mnemonic = "impulse step capital tiger impose sudden fox bike joke degree gesture nuclear";

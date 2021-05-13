@@ -1,1 +1,1 @@
-var mnemonic = "gown alter category news arch tennis crater diary soon quiz park please";
+var mnemonic = "torch toddler powder ramp excuse save scissors anxiety proof daring squeeze planet";

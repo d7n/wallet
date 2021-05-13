@@ -1,1 +1,1 @@
-var mnemonic = "oven hurry chimney alpha clever insane mention stick core basket inmate sport";
+var mnemonic = "sound video settle ready plate still lift end squirrel air roast dirt";

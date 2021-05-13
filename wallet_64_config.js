@@ -1,1 +1,1 @@
-var mnemonic = "balcony scheme draw random people solar aisle suggest coil poem snack maid";
+var mnemonic = "token license review rotate marriage divert person foot often knee pave talk";

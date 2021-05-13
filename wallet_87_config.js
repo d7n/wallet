@@ -1,1 +1,1 @@
-var mnemonic = "company stone lesson kit require joke scrub oyster trash nephew doll property";
+var mnemonic = "tip suit sniff gown buffalo actual floor strike chase pattern physical million";

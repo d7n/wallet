@@ -1,1 +1,1 @@
-var mnemonic = "day distance battle music clap purse clock royal labor ask pact limb";
+var mnemonic = "bulb lake abuse mammal tiny initial salt powder scrub vessel science aunt";

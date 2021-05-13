@@ -1,1 +1,1 @@
-var mnemonic = "myself puzzle enough person village enrich unknown invite erase transfer grocery special";
+var mnemonic = "cave electric gather awake tortoise summer flip rescue fence embody field attract";

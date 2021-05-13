@@ -1,1 +1,1 @@
-var mnemonic = "salt forget sorry relief when annual spy giant mouse stove talk first";
+var mnemonic = "slush liquid quiz proud dentist ordinary inspire wedding raven undo sniff satoshi";

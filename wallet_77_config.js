@@ -1,1 +1,1 @@
-var mnemonic = "nephew month liquid source tragic rural denial make flight price reject forget";
+var mnemonic = "laundry faint exit kidney student hungry abandon extra casino loud then ladder";

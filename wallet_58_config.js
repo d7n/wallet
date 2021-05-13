@@ -1,1 +1,1 @@
-var mnemonic = "general cargo cruel taxi palace range network over wool adapt hand coyote";
+var mnemonic = "detail another earn misery throw illegal squeeze trial mule girl robot process";

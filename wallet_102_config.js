@@ -1,1 +1,1 @@
-var mnemonic = "trumpet will gather right whisper material clump key goat detail chase eagle";
+var mnemonic = "umbrella allow lawsuit mom acoustic slim jar famous cereal outdoor monkey omit";

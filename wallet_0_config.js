@@ -1,1 +1,1 @@
-var mnemonic = "crime hope destroy horse night critic attend dumb ritual bronze citizen claim";
+var mnemonic = "beauty oblige arctic young crouch cable garment fortune parrot beef front surround";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate main grunt stand make sword say couch rifle topple state drop";
+var mnemonic = "wink swim nothing general stereo ice slender tool danger knock genuine exact";

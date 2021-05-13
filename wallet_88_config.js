@@ -1,1 +1,1 @@
-var mnemonic = "route salute dinner network beach shell horn soap rose boil ranch sudden";
+var mnemonic = "dice pizza soap spoil evoke exact merge kit sword found flip alpha";

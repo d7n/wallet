@@ -1,1 +1,1 @@
-var mnemonic = "fault link fall churn dice grab cheap love garbage void smoke oak";
+var mnemonic = "ill trend diary country quarter afford direct child range excess cradle keep";

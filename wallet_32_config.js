@@ -1,1 +1,1 @@
-var mnemonic = "super scene vibrant cool wink sea forest vocal grant good right exhibit";
+var mnemonic = "web special bracket cloth fitness fan enrich build tragic sponsor adapt street";

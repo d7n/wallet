@@ -1,1 +1,1 @@
-var mnemonic = "original comfort lamp minor fly outer artwork market average describe surge sort";
+var mnemonic = "cargo refuse person praise aware clock hammer please six robust damage grunt";

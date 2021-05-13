@@ -1,1 +1,1 @@
-var mnemonic = "review rare soap dream vivid win dumb base relax visual twice present";
+var mnemonic = "seat unhappy stumble glory earth harvest group flag agent fit pilot dismiss";

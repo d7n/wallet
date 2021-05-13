@@ -1,1 +1,1 @@
-var mnemonic = "tent need comic grab impact digital tree alien differ phone scrub supreme";
+var mnemonic = "way blush upon olympic dice rug fire draw pear carpet pet rare";

@@ -1,1 +1,1 @@
-var mnemonic = "swing satisfy tortoise toddler carbon helmet warfare change slender hidden bread online";
+var mnemonic = "keen myth story still setup stumble resist warfare concert book shadow polar";

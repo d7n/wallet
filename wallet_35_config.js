@@ -1,1 +1,1 @@
-var mnemonic = "december eager close same lemon fabric hard arctic tenant pink record craft";
+var mnemonic = "enough fade forward rather push harbor total minute spice goose toilet dawn";

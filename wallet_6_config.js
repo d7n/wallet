@@ -1,1 +1,1 @@
-var mnemonic = "coast special three random loyal stick mammal before match swallow tomorrow verb";
+var mnemonic = "lobster intact gorilla matrix ladder license water fantasy off dish supreme equip";

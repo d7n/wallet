@@ -1,1 +1,1 @@
-var mnemonic = "heavy bring wasp punch forum laptop exercise scrub actress whale runway pole";
+var mnemonic = "tip urge language jungle daughter offer visit knock man finish alpha charge";

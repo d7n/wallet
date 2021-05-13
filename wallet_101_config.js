@@ -1,1 +1,1 @@
-var mnemonic = "amount chair together harbor say naive wild explain pistol segment foam bundle";
+var mnemonic = "fruit solve egg solid harvest alert grant plunge memory monkey shine tomato";

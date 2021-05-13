@@ -1,1 +1,1 @@
-var mnemonic = "note fossil hammer culture pool annual volcano wise glare injury skin slight";
+var mnemonic = "verb chalk century coffee typical forest maximum scrub carpet web meadow make";

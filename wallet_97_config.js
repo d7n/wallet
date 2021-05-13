@@ -1,1 +1,1 @@
-var mnemonic = "result speed also lift rough industry thunder frequent bundle course similar network";
+var mnemonic = "spirit aware spoil jealous skate enhance nothing stuff render tuition drift eyebrow";

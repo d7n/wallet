@@ -1,1 +1,1 @@
-var mnemonic = "acoustic opera husband involve pact awkward fragile kingdom pumpkin blossom record pig";
+var mnemonic = "coil rocket gap source kind good speak taxi glow force invite hello";

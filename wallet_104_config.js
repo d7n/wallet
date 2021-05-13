@@ -1,1 +1,1 @@
-var mnemonic = "copper bright display fever chalk flight poem laptop monkey north trend tornado";
+var mnemonic = "double winter organ ostrich picnic dutch glide retire moon insane huge mention";

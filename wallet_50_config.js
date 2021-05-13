@@ -1,1 +1,1 @@
-var mnemonic = "spin travel morning hungry require key discover flame better topple evidence pig";
+var mnemonic = "buyer umbrella autumn machine twenty lunar local ball piece addict minute disagree";

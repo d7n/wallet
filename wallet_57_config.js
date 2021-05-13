@@ -1,1 +1,1 @@
-var mnemonic = "embody obtain gesture age enter defy digital consider travel nominee subject fame";
+var mnemonic = "twenty floor obscure beach vital swap risk resist shift orient pistol palace";

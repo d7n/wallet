@@ -1,1 +1,1 @@
-var mnemonic = "eye total seven salad warrior add tooth there correct artwork craft pave";
+var mnemonic = "sea company intact raven desk hungry alley hill segment swarm harbor piano";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost feed oven amused bubble nest river beach decade rack announce accident";
+var mnemonic = "mixed bright toast pair help allow emerge manage history mandate snake win";

@@ -1,1 +1,1 @@
-var mnemonic = "assist chat relief once donor enemy orbit like elite orient flavor ketchup";
+var mnemonic = "dream flash candy follow health soul drama digital august stuff trigger dinner";

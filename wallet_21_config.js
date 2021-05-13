@@ -1,1 +1,1 @@
-var mnemonic = "toe embody this pattern liar scissors delay wonder arctic service crucial rabbit";
+var mnemonic = "lemon slender accuse boat brand runway two quick predict then settle frozen";

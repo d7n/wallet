@@ -1,1 +1,1 @@
-var mnemonic = "merry response extend boat hour side web when spatial height panic grab";
+var mnemonic = "all result shoot chapter lock brisk survey affair crumble favorite spin faculty";

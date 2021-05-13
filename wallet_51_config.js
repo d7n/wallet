@@ -1,1 +1,1 @@
-var mnemonic = "expand learn base give business move bubble moon shed viable wonder angle";
+var mnemonic = "rebuild evoke ethics pole mail amount puzzle alpha lend physical abandon satoshi";

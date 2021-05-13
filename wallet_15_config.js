@@ -1,1 +1,1 @@
-var mnemonic = "spray merit dynamic bag mercy near call mercy century nothing about depend";
+var mnemonic = "better pair impose taxi feature acid trash rapid toddler estate boat purpose";

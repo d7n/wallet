@@ -1,1 +1,1 @@
-var mnemonic = "eager deposit flat issue survey pencil prefer alpha credit twice exist waste";
+var mnemonic = "power title donate aspect cable report fuel copy upset snack marine yellow";

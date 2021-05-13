@@ -1,1 +1,1 @@
-var mnemonic = "group mobile cactus legend knee news find royal hello fashion doll patch";
+var mnemonic = "round way hint paper isolate zero sorry crucial fatal wood exhaust teach";

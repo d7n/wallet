@@ -1,1 +1,1 @@
-var mnemonic = "file gap column scan cousin around myth copper pyramid motion dose buzz";
+var mnemonic = "soft baby grant zone inherit latin better promote plastic hidden raven ribbon";

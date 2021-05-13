@@ -1,1 +1,1 @@
-var mnemonic = "tunnel junk shed planet agent sun fringe manual pass dumb door taste";
+var mnemonic = "spring tongue under west stool net velvet raw mass stove begin purse";

@@ -1,1 +1,1 @@
-var mnemonic = "core near buyer chase piece fashion skill rotate grief select educate vague";
+var mnemonic = "embody abstract hold liquid evidence check case lady prepare cause flash transfer";

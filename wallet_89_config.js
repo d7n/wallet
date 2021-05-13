@@ -1,1 +1,1 @@
-var mnemonic = "sausage airport guitar curious barrel chicken comic noise expire kid catch never";
+var mnemonic = "adjust target hood sustain enjoy expire exhibit upon lion pull chaos worry";

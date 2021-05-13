@@ -1,1 +1,1 @@
-var mnemonic = "consider chunk better ability child spot any gospel luxury screen oak main";
+var mnemonic = "frost pyramid film wash ahead pigeon sort energy soccer phone toilet virus";

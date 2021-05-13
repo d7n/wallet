@@ -1,1 +1,1 @@
-var mnemonic = "border provide require feel hand retreat swing mistake base wet seat afford";
+var mnemonic = "lawn tank long drastic vendor wagon vocal child tank harbor inflict firm";

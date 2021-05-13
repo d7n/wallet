@@ -1,1 +1,1 @@
-var mnemonic = "say layer athlete margin shed version hazard pig twin elbow concert canal";
+var mnemonic = "road jacket foster notice jar shallow property later mad laptop settle raw";

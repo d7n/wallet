@@ -1,1 +1,1 @@
-var mnemonic = "funny essence armed animal era void faculty warfare total away bird panda";
+var mnemonic = "spare harsh actor can across eye matrix town salt viable police six";

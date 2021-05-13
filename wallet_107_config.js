@@ -1,1 +1,1 @@
-var mnemonic = "execute canoe error suspect annual rather nose tag abstract nest demise guilt";
+var mnemonic = "soul echo wheel banner emerge busy course need wolf vault pattern eager";

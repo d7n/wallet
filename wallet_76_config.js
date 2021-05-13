@@ -1,1 +1,1 @@
-var mnemonic = "noble brain shoe reason dinosaur drift border busy ten two yellow vocal";
+var mnemonic = "inflict motor main goose glory basket execute repair crack comfort helmet debate";

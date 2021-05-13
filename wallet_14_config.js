@@ -1,1 +1,1 @@
-var mnemonic = "fever tomato kitchen benefit cotton theme bus core leisure chief ceiling much";
+var mnemonic = "since high exit parade magnet bind label afraid priority suffer knock glove";

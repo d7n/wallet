@@ -1,1 +1,1 @@
-var mnemonic = "deposit option average worth embrace sock neither price oyster review fire bean";
+var mnemonic = "crash old next gorilla clerk riot lake virus symbol spirit swim garden";

@@ -1,1 +1,1 @@
-var mnemonic = "garden deny marriage clog urge thumb lamp dignity churn pottery manual plastic";
+var mnemonic = "seed water picnic script canyon liberty awful situate novel casino ketchup sad";

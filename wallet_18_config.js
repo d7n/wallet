@@ -1,1 +1,1 @@
-var mnemonic = "relax cradle wash unable sting mirror final matrix trouble chase morning rural";
+var mnemonic = "sweet blade unusual lunar rhythm loud candy prepare intact rib garden carry";

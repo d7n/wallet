@@ -1,1 +1,1 @@
-var mnemonic = "rate candy slab grit vibrant dutch main erase obvious pigeon state feature";
+var mnemonic = "fame evil tired afraid current farm rural robot wealth deal wrap rule";

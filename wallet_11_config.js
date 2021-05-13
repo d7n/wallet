@@ -1,1 +1,1 @@
-var mnemonic = "clever soap ice reunion mother repair ankle play obscure worth sketch space";
+var mnemonic = "blouse insane memory cruel chat bird focus extra flag dice top melody";

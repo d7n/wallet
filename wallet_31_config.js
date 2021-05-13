@@ -1,1 +1,1 @@
-var mnemonic = "local abstract blush judge use view kite brass giant friend blame moral";
+var mnemonic = "drum skirt oil taste nuclear cloth aerobic second dream violin motion poem";

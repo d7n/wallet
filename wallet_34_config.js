@@ -1,1 +1,1 @@
-var mnemonic = "crop thought video hybrid please brisk south kingdom rude escape double resist";
+var mnemonic = "tilt legend floor fortune senior again mesh suggest dinner prepare bid summer";

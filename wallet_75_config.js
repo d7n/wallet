@@ -1,1 +1,1 @@
-var mnemonic = "pupil melody crazy athlete furnace negative thrive purity casual pizza skull pet";
+var mnemonic = "maid hedgehog canvas wasp priority mango pretty casino nice avocado gown chimney";
