@@ -1,1 +1,1 @@
-var mnemonic = "replace vapor zero obscure tragic comfort opinion galaxy carpet volume section review";
+var mnemonic = "fade tool supreme fly example link fat build taste craft indicate innocent";

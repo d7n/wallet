@@ -1,1 +1,1 @@
-var mnemonic = "olive favorite heart lesson treat note element tornado vendor result confirm sorry";
+var mnemonic = "verify cloud wealth start purity eye valley general smart remind clerk soul";

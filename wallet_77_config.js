@@ -1,1 +1,1 @@
-var mnemonic = "error rocket math bundle list vote step man best benefit goat category";
+var mnemonic = "hip plug shed ahead cool leisure review dress service antique sunset planet";

@@ -1,1 +1,1 @@
-var mnemonic = "agent lawn aim spell shock brave lyrics kick female assume say switch";
+var mnemonic = "finger rebuild cheese can strategy wagon wheel envelope fog diamond arch slot";

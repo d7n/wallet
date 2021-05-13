@@ -1,1 +1,1 @@
-var mnemonic = "sentence jazz inherit they push chuckle aerobic main frame spy impact sudden";
+var mnemonic = "treat viable rifle gun pattern ribbon ivory opera shop bronze exhibit pause";

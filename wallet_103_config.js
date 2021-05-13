@@ -1,1 +1,1 @@
-var mnemonic = "hire evil vintage youth cargo injury insect come raise organ soap crop";
+var mnemonic = "joy easily census narrow hole fade member leopard slogan valve betray column";

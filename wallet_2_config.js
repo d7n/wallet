@@ -1,1 +1,1 @@
-var mnemonic = "tail blade rain hurry mixed oxygen slim today service cupboard can whale";
+var mnemonic = "family mansion layer tackle post erupt bitter rebuild evoke since cook defy";

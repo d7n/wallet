@@ -1,1 +1,1 @@
-var mnemonic = "wage old rare grace nasty fence remind shoulder away flee need correct";
+var mnemonic = "donor mirror observe fire salon awesome power seven resemble stomach please live";

@@ -1,1 +1,1 @@
-var mnemonic = "wall crucial quick rain fancy focus where present zebra dune blouse purchase";
+var mnemonic = "move bird decade spell cliff aerobic mammal merge catalog ankle fade dove";

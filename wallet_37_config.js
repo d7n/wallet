@@ -1,1 +1,1 @@
-var mnemonic = "mirror speed urban day drastic long toddler eight song now symbol viable";
+var mnemonic = "rigid denial sudden mechanic person clever front drill major firm leave caution";

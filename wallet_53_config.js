@@ -1,1 +1,1 @@
-var mnemonic = "smart today today head future sail amateur old fuel release strategy mix";
+var mnemonic = "only pioneer bounce protect sentence length buffalo aerobic sniff setup have behind";

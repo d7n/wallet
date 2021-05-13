@@ -1,1 +1,1 @@
-var mnemonic = "visit chronic civil visit stumble cotton ribbon weather later square magic true";
+var mnemonic = "knock hero enhance peasant hammer seminar physical law ridge drill dilemma trigger";

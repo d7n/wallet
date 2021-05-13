@@ -1,1 +1,1 @@
-var mnemonic = "diet puppy path relax fat embark eyebrow net like stuff define dynamic";
+var mnemonic = "barrel region rival exit trick icon damp tornado tape anchor cost border";

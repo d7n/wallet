@@ -1,1 +1,1 @@
-var mnemonic = "bind fetch slice romance section fan blanket similar beauty wink fiscal antenna";
+var mnemonic = "laptop thunder harsh rude verify tuna glare actual draft belt cook glimpse";

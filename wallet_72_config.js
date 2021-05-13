@@ -1,1 +1,1 @@
-var mnemonic = "dish remind future dice setup melody aspect brisk viable action fancy mercy";
+var mnemonic = "remember brain stadium glow mimic clarify face clutch jazz episode betray laundry";

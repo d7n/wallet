@@ -1,1 +1,1 @@
-var mnemonic = "inquiry fatal clip camp earth bar decade noble gas half trophy turtle";
+var mnemonic = "snake negative shield garlic ketchup dress palace flag radio evidence else busy";

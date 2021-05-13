@@ -1,1 +1,1 @@
-var mnemonic = "surge often category forward express plate arrest marine roast own useful enough";
+var mnemonic = "metal asthma festival liar three card unable tower orange science diagram foot";

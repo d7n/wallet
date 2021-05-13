@@ -1,1 +1,1 @@
-var mnemonic = "wait recipe outer field degree human exercise sheriff embody code festival puppy";
+var mnemonic = "duck very pole boring man certain convince music original hold warm weather";

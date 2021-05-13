@@ -1,1 +1,1 @@
-var mnemonic = "era gown spell gap autumn clever marine possible describe paddle whisper cannon";
+var mnemonic = "oil office until response liar arrange amount shadow broken nature gauge reform";

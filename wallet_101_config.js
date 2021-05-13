@@ -1,1 +1,1 @@
-var mnemonic = "enemy economy frown fantasy dinosaur differ earth warrior candy obscure light inhale";
+var mnemonic = "lemon discover boost mandate mind tide harbor skull mobile gaze novel mystery";

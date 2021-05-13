@@ -1,1 +1,1 @@
-var mnemonic = "mixture glide strategy crush spoil mother asset teach torch can illness tomato";
+var mnemonic = "radar crystal humble evidence wonder outside thunder october expand seminar goddess tornado";

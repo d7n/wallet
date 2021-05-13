@@ -1,1 +1,1 @@
-var mnemonic = "illness reflect spray relax series spell name large focus kingdom accuse body";
+var mnemonic = "parent bulb grunt move risk away gauge venue ostrich else soup message";

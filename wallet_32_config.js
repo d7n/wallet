@@ -1,1 +1,1 @@
-var mnemonic = "easy goat public upper pencil absorb tornado absent swallow dance solar wire";
+var mnemonic = "resource victory supreme allow tunnel school leader wood tip hood throw fox";

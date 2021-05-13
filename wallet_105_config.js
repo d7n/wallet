@@ -1,1 +1,1 @@
-var mnemonic = "tuition harbor crisp laptop donkey cave item excess boil jealous unable dilemma";
+var mnemonic = "draw spy deal gap egg receive genre alter copper gesture metal measure";

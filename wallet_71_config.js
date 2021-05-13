@@ -1,1 +1,1 @@
-var mnemonic = "raccoon hospital blossom bulb kick flight artwork pizza fine keen please hybrid";
+var mnemonic = "chest volume input local omit wolf sphere quarter debris senior total high";

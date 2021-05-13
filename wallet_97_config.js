@@ -1,1 +1,1 @@
-var mnemonic = "joke label among mammal toward gas snack artefact sing lunch skill allow";
+var mnemonic = "coil film gaze rally birth entire purchase devote ordinary treat what capital";

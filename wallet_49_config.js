@@ -1,1 +1,1 @@
-var mnemonic = "define slush dose apology gloom noise foam wheel exist dinosaur magnet burden";
+var mnemonic = "educate unusual corn payment casino test napkin oval collect mushroom aisle awesome";

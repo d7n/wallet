@@ -1,1 +1,1 @@
-var mnemonic = "price stone someone victory run latin cabin crucial charge basic wink collect";
+var mnemonic = "undo common cruise coconut quantum equal magnet shoot find balcony demise zero";

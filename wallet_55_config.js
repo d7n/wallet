@@ -1,1 +1,1 @@
-var mnemonic = "music cancel whisper enemy nerve siren home relief essay phone tooth budget";
+var mnemonic = "sample brain feel simple fish lecture young squeeze arrive pride fiction subway";

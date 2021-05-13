@@ -1,1 +1,1 @@
-var mnemonic = "onion object soap ride security kind dirt elbow omit debris guilt apart";
+var mnemonic = "fix daring immense shuffle hill give churn cushion build comfort month harbor";

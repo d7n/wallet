@@ -1,1 +1,1 @@
-var mnemonic = "quarter build alley plate praise accident route awesome infant bracket banana drastic";
+var mnemonic = "advice reject repeat tomato time refuse glide endless rebuild outdoor mosquito arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "child pyramid account mail midnight fine three chunk mix amount leopard matter";
+var mnemonic = "robust clog cream steak cotton latin quiz simple leisure august upgrade welcome";

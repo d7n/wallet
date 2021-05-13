@@ -1,1 +1,1 @@
-var mnemonic = "notice section grit first view raw crawl salute animal quality air obscure";
+var mnemonic = "carbon elephant midnight cactus south faith company affair confirm bicycle budget column";

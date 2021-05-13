@@ -1,1 +1,1 @@
-var mnemonic = "visit pool wild debris okay fragile merry soul glove tiger express slab";
+var mnemonic = "hidden march betray famous labor head transfer impulse stage crisp kitchen fade";

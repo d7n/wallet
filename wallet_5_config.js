@@ -1,1 +1,1 @@
-var mnemonic = "puzzle monkey alien degree tail often interest tell lyrics copy limb put";
+var mnemonic = "balcony piano repair yard battle lawsuit now debate eight abandon dirt scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "three region devote oppose cart vague turtle flash evil great labor sight";
+var mnemonic = "soon diamond also hover mimic title text coach glide apart floor dice";

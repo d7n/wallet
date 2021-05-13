@@ -1,1 +1,1 @@
-var mnemonic = "alcohol wage between nut crowd pause view occur suit hybrid undo snow";
+var mnemonic = "opera layer double science unaware powder kangaroo share unveil athlete junior dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "knee nasty wreck order climb often trash tide orphan delay produce culture";
+var mnemonic = "inject cluster beach crucial alter certain face lake assault girl mixed quality";

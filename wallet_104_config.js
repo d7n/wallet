@@ -1,1 +1,1 @@
-var mnemonic = "law history knee seven grunt fly drastic dumb audit kitten elegant piece";
+var mnemonic = "voice track skull dilemma already tornado potato picnic again cave flock attract";

@@ -1,1 +1,1 @@
-var mnemonic = "parade urban calm unfair logic pulp myself rib cereal debate balance budget";
+var mnemonic = "blood inflict walnut live about service gasp blade nest index lumber balance";

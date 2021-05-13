@@ -1,1 +1,1 @@
-var mnemonic = "duty limit flock eight idle blind shop together mountain avocado split kitchen";
+var mnemonic = "enemy disagree matrix feel ten segment credit child canyon toy range unable";

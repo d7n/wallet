@@ -1,1 +1,1 @@
-var mnemonic = "fancy duty hour poet jeans destroy agent know air add candy grow";
+var mnemonic = "produce plunge dune vital meat choose problem garbage pause gloom drop remember";

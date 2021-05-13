@@ -1,1 +1,1 @@
-var mnemonic = "budget edge ignore lab deposit abandon lazy reunion olive fatal daring fury";
+var mnemonic = "upon fury dilemma wasp buddy transfer hurt barely excess ribbon solution pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard odor fat napkin enrich clean viable hover cruise tumble roof pipe";
+var mnemonic = "axis prize because satisfy surge attend fringe spoil liberty service reflect online";

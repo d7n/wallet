@@ -1,1 +1,1 @@
-var mnemonic = "save female miss someone attend steel perfect find runway picture call giggle";
+var mnemonic = "silk emotion tomorrow involve slight cake lazy present love attack where alcohol";

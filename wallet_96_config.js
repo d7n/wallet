@@ -1,1 +1,1 @@
-var mnemonic = "spice junior nut image old judge plastic shrug balance rifle true retire";
+var mnemonic = "indoor city business tape match drop auto appear harsh insane slam almost";

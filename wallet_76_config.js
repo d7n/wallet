@@ -1,1 +1,1 @@
-var mnemonic = "tribe daughter fun correct bargain pass zebra render hire hamster page square";
+var mnemonic = "put family try weapon elbow below skill hurry chapter grid blast ripple";

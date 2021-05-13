@@ -1,1 +1,1 @@
-var mnemonic = "engage jaguar direct sense snack harvest bitter fossil surprise venture friend junk";
+var mnemonic = "total smile soldier ice secret surface carbon offer tunnel culture reflect license";

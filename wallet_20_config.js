@@ -1,1 +1,1 @@
-var mnemonic = "bargain enjoy hurry crime jacket secret raven like broken govern bar crater";
+var mnemonic = "spider usage vivid harbor turn defense expect coil gravity lottery start disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry desert dish vacuum such lens eternal right weekend blind enough mirror";
+var mnemonic = "boss city vintage basket fade margin patch purchase punch quit pottery chunk";

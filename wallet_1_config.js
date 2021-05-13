@@ -1,1 +1,1 @@
-var mnemonic = "deal horse can liquid distance weapon budget fatigue negative nerve drama scrap";
+var mnemonic = "bicycle bar reward arrest behave pigeon goose art super sort aspect tomato";

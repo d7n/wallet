@@ -1,1 +1,1 @@
-var mnemonic = "patch boss danger fault nothing moment loan notable shy output master swap";
+var mnemonic = "boat broccoli relax across correct beyond real busy order crucial memory quit";

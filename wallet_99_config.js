@@ -1,1 +1,1 @@
-var mnemonic = "rebuild inner orphan identify female picture retreat obtain blossom initial march tree";
+var mnemonic = "pink one cave luxury false divert win drill special mercy cost print";

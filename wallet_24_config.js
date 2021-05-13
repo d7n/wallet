@@ -1,1 +1,1 @@
-var mnemonic = "worth train danger hope cannon vacuum pole ocean blast over chef have";
+var mnemonic = "someone problem slogan blind fork arena thumb market faith gloom borrow bench";

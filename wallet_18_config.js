@@ -1,1 +1,1 @@
-var mnemonic = "immune wife melt bulb buffalo moral pear test blur buzz symptom play";
+var mnemonic = "assault swim snake shrimp weapon six seat crew image purchase poem oak";

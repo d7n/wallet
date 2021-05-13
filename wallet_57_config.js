@@ -1,1 +1,1 @@
-var mnemonic = "educate surprise recall trumpet lazy rent edit mutual merit key blind sauce";
+var mnemonic = "alone consider coach apology catalog tiger jungle female faculty soul skill supreme";

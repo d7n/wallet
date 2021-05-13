@@ -1,1 +1,1 @@
-var mnemonic = "apple bird advice fit cable forward host file chimney skin legend stone";
+var mnemonic = "tip rib circle tornado donkey acid pluck cargo kiwi tail all measure";

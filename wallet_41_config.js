@@ -1,1 +1,1 @@
-var mnemonic = "buzz suffer above basket spend arch infant nephew junior control wet nice";
+var mnemonic = "case zero post depart antique rare theme key clown robot aerobic lab";

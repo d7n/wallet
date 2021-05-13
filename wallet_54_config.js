@@ -1,1 +1,1 @@
-var mnemonic = "panel debate cushion shield modify puppy increase network box nerve average twenty";
+var mnemonic = "verb dolphin orbit curtain sketch fatal reopen peanut fever laptop energy dragon";

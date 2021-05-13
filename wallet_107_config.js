@@ -1,1 +1,1 @@
-var mnemonic = "plug much write stable permit tired icon drum attitude opera evoke follow";
+var mnemonic = "until traffic grab fog amused solve verb saddle win service ring trophy";

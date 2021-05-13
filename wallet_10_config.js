@@ -1,1 +1,1 @@
-var mnemonic = "culture reason zero very upper mammal balcony design bless rare bulb priority";
+var mnemonic = "space hood game snap humble ethics decorate sunset fatigue radar hat boat";

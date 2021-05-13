@@ -1,1 +1,1 @@
-var mnemonic = "govern person topple attack damp okay broken obey actual powder veteran prison";
+var mnemonic = "thing nation silly promote engine dove ancient upon lock novel venue transfer";

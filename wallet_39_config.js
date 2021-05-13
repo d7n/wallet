@@ -1,1 +1,1 @@
-var mnemonic = "gloom syrup undo glass syrup pencil lucky slogan bless razor praise attend";
+var mnemonic = "ginger glance spoon buzz emerge plastic wheat wonder sport pottery gift pride";

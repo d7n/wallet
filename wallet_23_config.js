@@ -1,1 +1,1 @@
-var mnemonic = "until invite island elegant worth parrot critic link lab card stem balance";
+var mnemonic = "cement casino another almost awesome situate best absurd dove brief cool ice";

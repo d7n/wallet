@@ -1,1 +1,1 @@
-var mnemonic = "cover supply demand cream slim excuse luxury inside farm armed advance loop";
+var mnemonic = "glow foil want account adjust present brave garden craft fee panther flat";

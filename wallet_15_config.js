@@ -1,1 +1,1 @@
-var mnemonic = "scan fat rice rescue invest rival female beach hockey wonder aim retreat";
+var mnemonic = "mail dial gaze twice ripple attitude left wrong bar trade famous duck";

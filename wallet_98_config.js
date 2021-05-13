@@ -1,1 +1,1 @@
-var mnemonic = "start dust local material race you unfair enlist gasp journey slight clog";
+var mnemonic = "tourist lucky drum south chef ancient treat cloth rude situate exist rent";

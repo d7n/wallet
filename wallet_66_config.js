@@ -1,1 +1,1 @@
-var mnemonic = "angle arm expose skate talk kit gym tooth action online mom joy";
+var mnemonic = "govern person predict rifle unlock casual into sign vibrant ride drive gift";

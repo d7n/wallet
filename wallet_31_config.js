@@ -1,1 +1,1 @@
-var mnemonic = "foster adapt news flock witness insect license scrap nuclear catalog quick shallow";
+var mnemonic = "resist rocket cupboard screen result winner salute deputy local pride unusual glory";

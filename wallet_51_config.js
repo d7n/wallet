@@ -1,1 +1,1 @@
-var mnemonic = "audit melody today gorilla ramp mention goddess spare loyal horror seven again";
+var mnemonic = "crystal leaf load tennis protect day can dice donkey win tiger mesh";

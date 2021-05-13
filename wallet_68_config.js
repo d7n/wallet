@@ -1,1 +1,1 @@
-var mnemonic = "stuff matrix uphold aerobic tower loyal buzz path initial brief poem dilemma";
+var mnemonic = "energy model armor mammal decrease wing tobacco solar member spirit reason lunar";

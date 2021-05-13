@@ -1,1 +1,1 @@
-var mnemonic = "process monitor cattle episode planet tongue cover tragic mouse sentence any auto";
+var mnemonic = "laptop rubber entry repair bless muscle post melt flavor know uncover december";

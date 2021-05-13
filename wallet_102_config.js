@@ -1,1 +1,1 @@
-var mnemonic = "kiss space evolve thing bus keep network bar negative fortune diet notable";
+var mnemonic = "embody flip apple potato edge pitch provide once stone render scan stage";

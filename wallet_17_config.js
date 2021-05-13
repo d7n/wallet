@@ -1,1 +1,1 @@
-var mnemonic = "school clip airport team tiny quality wing allow put supply shrimp laundry";
+var mnemonic = "tuition swing home treat require lonely lumber pipe myth trick require library";

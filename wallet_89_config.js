@@ -1,1 +1,1 @@
-var mnemonic = "erode photo journey pioneer oil caution pumpkin engine extend have wheat camp";
+var mnemonic = "develop expect seed verb motion weather improve reject art wall crash fog";

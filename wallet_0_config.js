@@ -1,1 +1,1 @@
-var mnemonic = "cactus meadow fever pulse bounce skirt over cargo rather unique feel inflict";
+var mnemonic = "film true owner vital gold sport scale now gossip snow beyond eternal";

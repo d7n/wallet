@@ -1,1 +1,1 @@
-var mnemonic = "pet spoil village save sponsor false reason eight luxury order like wedding";
+var mnemonic = "check net mask imitate label repair school ceiling act unfair pony razor";

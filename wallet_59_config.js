@@ -1,1 +1,1 @@
-var mnemonic = "bus obvious priority nasty usual icon step umbrella spell year census asset";
+var mnemonic = "scene climb truck nurse attitude call elegant egg sea couple shiver mule";

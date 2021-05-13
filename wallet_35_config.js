@@ -1,1 +1,1 @@
-var mnemonic = "crowd urban cage elder marble village proof media day river kingdom rival";
+var mnemonic = "bright warfare express alpha hole final private mind brother frame aunt assist";

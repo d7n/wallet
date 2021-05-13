@@ -1,1 +1,1 @@
-var mnemonic = "miracle bike audit trend wish endless bar lottery sponsor notable quiz cream";
+var mnemonic = "vicious life anxiety final ship genius subject oppose cycle scrub toddler crawl";

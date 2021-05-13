@@ -1,1 +1,1 @@
-var mnemonic = "wet drift draft wrong renew mother erode chat you fury core ice";
+var mnemonic = "ginger primary hair boring tiger fortune file unfair fee myself company cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic chalk angle school punch arrest coral visit hidden copy scale grocery";
+var mnemonic = "air brain dust keep social answer thunder educate inherit rabbit embark feed";

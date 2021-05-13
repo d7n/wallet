@@ -1,1 +1,1 @@
-var mnemonic = "young impact orbit chef health raccoon will extend february property leisure barrel";
+var mnemonic = "already knock dwarf radio party apology follow oven arrive virus spike token";

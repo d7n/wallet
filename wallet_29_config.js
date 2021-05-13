@@ -1,1 +1,1 @@
-var mnemonic = "grape viable stadium domain receive door opinion raccoon myth spot simple glue";
+var mnemonic = "receive claw mountain raven there speak hen cluster movie abandon cancel cross";

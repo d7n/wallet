@@ -1,1 +1,1 @@
-var mnemonic = "faith copper labor feel source glory destroy gloom lady license elevator wrist";
+var mnemonic = "tent front genre glow post owner boss wing pool transfer cattle shoulder";

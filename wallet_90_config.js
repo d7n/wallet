@@ -1,1 +1,1 @@
-var mnemonic = "sphere cable father blur method gallery entire elevator hero congress train wink";
+var mnemonic = "few payment bright mixed core travel oak earn calm erase arrive canoe";

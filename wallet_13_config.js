@@ -1,1 +1,1 @@
-var mnemonic = "forum crucial what wink aware hello picture long hobby journey monitor loan";
+var mnemonic = "various beef radio dance net rapid flock plunge congress fork wood inch";

@@ -1,1 +1,1 @@
-var mnemonic = "trap pole help kitchen bag wave snake actress dinosaur pony excuse witness";
+var mnemonic = "combine tornado polar argue boss lend danger behind door that diamond nephew";

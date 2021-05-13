@@ -1,1 +1,1 @@
-var mnemonic = "remind call attend myth jar sister cinnamon december long report live ancient";
+var mnemonic = "high palace finish element soon lady later loan pluck chimney barrel real";
