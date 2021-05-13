@@ -1,1 +1,1 @@
-var mnemonic = "author buzz wolf random purity project once swap video slow light execute";
+var mnemonic = "language access fault paper dish dawn escape expose cloth drip surge rain";

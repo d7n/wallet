@@ -1,1 +1,1 @@
-var mnemonic = "creek history online pelican wheat banner pulse rocket method horror donor funny";
+var mnemonic = "cake noodle fashion perfect shaft thrive shrimp over screen music flip arm";

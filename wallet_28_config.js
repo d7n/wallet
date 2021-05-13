@@ -1,1 +1,1 @@
-var mnemonic = "bench cruise retreat smooth frown sea room half path medal credit frown";
+var mnemonic = "squirrel cute idea source body proof awkward various token author crush olympic";

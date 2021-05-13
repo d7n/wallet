@@ -1,1 +1,1 @@
-var mnemonic = "next spatial left lend dash loyal pet maximum catch purse vibrant develop";
+var mnemonic = "burst error guard option bulb frog spin repair believe ability time desk";

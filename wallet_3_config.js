@@ -1,1 +1,1 @@
-var mnemonic = "fiction suggest bachelor excess brass cat spin drill holiday maple float gift";
+var mnemonic = "exit aerobic energy sick admit stomach absent first special sauce attack prison";

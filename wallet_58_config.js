@@ -1,1 +1,1 @@
-var mnemonic = "outside hungry brave frost hospital puzzle list raise october milk marriage grass";
+var mnemonic = "devote ball army drift elegant visual save coral wealth family harvest love";

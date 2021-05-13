@@ -1,1 +1,1 @@
-var mnemonic = "tuition capable canvas vehicle clutch asthma mule prevent brush rug opera screen";
+var mnemonic = "explain anxiety flash naive sister wear quiz actual air forest hat thought";

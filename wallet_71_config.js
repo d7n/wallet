@@ -1,1 +1,1 @@
-var mnemonic = "follow pistol sweet draw busy oyster embody stage wear source cage sad";
+var mnemonic = "danger degree citizen phrase dress later state illegal ladder tomato divert carry";

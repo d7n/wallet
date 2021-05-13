@@ -1,1 +1,1 @@
-var mnemonic = "stove cancel wide control script extend naive permit install gadget winner dog";
+var mnemonic = "predict minute session win estate skirt tomorrow scrap casino hundred depart squirrel";

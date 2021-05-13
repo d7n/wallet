@@ -1,1 +1,1 @@
-var mnemonic = "broccoli stable bread juice drastic fade fee own legend parrot cushion wonder";
+var mnemonic = "fade cereal twin small pyramid observe urban ranch game patrol off vibrant";

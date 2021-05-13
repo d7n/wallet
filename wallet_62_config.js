@@ -1,1 +1,1 @@
-var mnemonic = "wash output advice plunge balance poem forward peasant antique promote pudding hospital";
+var mnemonic = "dizzy window steel drum height pioneer cream describe clock aerobic series elephant";

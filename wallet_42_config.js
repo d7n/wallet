@@ -1,1 +1,1 @@
-var mnemonic = "return menu blame joke edge monster cotton romance always fence goose bronze";
+var mnemonic = "noise topic canal tank wide equal afford shallow garbage company business nose";

@@ -1,1 +1,1 @@
-var mnemonic = "waste virus palace autumn snap wild solid mixture unfold old spawn pitch";
+var mnemonic = "whip orphan romance brave rude federal affair evidence dawn extra vintage view";

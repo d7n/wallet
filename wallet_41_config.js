@@ -1,1 +1,1 @@
-var mnemonic = "second gaze myth zero evolve ride army sound congress power yellow drum";
+var mnemonic = "welcome zone arrange lens deer negative upper resource correct eyebrow spoil kitchen";

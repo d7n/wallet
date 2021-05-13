@@ -1,1 +1,1 @@
-var mnemonic = "cheese wrist blanket borrow alcohol exact cherry essay pink run effort speed";
+var mnemonic = "clip fitness fluid champion heart sing harvest marine drip soda swing able";

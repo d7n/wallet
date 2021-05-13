@@ -1,1 +1,1 @@
-var mnemonic = "drastic fortune dinosaur olive open march hill cloud lecture decade ripple spray";
+var mnemonic = "profit odor knife cube lyrics crime bread cage elegant salt what expose";

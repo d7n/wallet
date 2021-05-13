@@ -1,1 +1,1 @@
-var mnemonic = "excess expire cancel sure proof soft bid foot predict reunion secret situate";
+var mnemonic = "immune dignity degree throw pyramid web fashion diesel scout pitch view provide";

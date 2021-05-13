@@ -1,1 +1,1 @@
-var mnemonic = "injury topple dust cram want gloom fish garden bleak steel genuine history";
+var mnemonic = "crash farm taste coil echo train century clerk refuse bring peanut recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace skirt shuffle daughter spike book frame sick exact candy myth shrimp";
+var mnemonic = "dove pill raw garage essence push hover welcome wagon woman convince seven";

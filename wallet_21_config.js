@@ -1,1 +1,1 @@
-var mnemonic = "dose hobby slight census garbage fragile label grass vital chicken bind business";
+var mnemonic = "rent refuse wage true sweet hint uncle infant invite curve illegal one";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal quiz note logic update slab erase trim dove comic empower cheese";
+var mnemonic = "menu lend olympic puzzle shove ignore check become fly noodle boat have";

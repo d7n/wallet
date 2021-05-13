@@ -1,1 +1,1 @@
-var mnemonic = "change bone source same inspire boil segment pause clerk roof side hospital";
+var mnemonic = "upon year private shrimp demand kangaroo pipe reunion clown brisk private plunge";

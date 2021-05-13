@@ -1,1 +1,1 @@
-var mnemonic = "supreme unfair head chat country squirrel receive cricket jelly pull gun priority";
+var mnemonic = "income zebra cheap ramp small debris holiday tomato section shell drastic outer";

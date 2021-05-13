@@ -1,1 +1,1 @@
-var mnemonic = "adapt bundle banana evoke helmet outdoor october rug shell goose hamster copper";
+var mnemonic = "roof next wonder total fringe smart present lava since soap fatigue panel";

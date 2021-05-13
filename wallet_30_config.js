@@ -1,1 +1,1 @@
-var mnemonic = "immune oyster fan immune silent circle tunnel you camp maze horror also";
+var mnemonic = "orbit box egg alone grant few cruise arrive doll excite salute panther";

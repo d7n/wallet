@@ -1,1 +1,1 @@
-var mnemonic = "rule soda creek fiber history true raccoon depth planet bargain innocent drama";
+var mnemonic = "monkey glow tilt enough defense pave question six emotion regret time artwork";

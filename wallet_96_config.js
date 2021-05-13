@@ -1,1 +1,1 @@
-var mnemonic = "riot adult find wealth pill cliff helmet animal civil grief coil refuse";
+var mnemonic = "media resist sleep account cry symptom beef detail muscle base amazing web";

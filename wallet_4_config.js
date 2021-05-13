@@ -1,1 +1,1 @@
-var mnemonic = "upgrade broken mad distance popular tunnel awful bronze monster gold pause corn";
+var mnemonic = "lab twin prepare orient fun surround brother dose total wrestle maze bubble";

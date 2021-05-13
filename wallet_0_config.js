@@ -1,1 +1,1 @@
-var mnemonic = "orange position choice fiber primary vault anger coyote differ focus lonely crane";
+var mnemonic = "artist oval fox ghost divorce inner kiss chicken settle earn way undo";

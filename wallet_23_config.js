@@ -1,1 +1,1 @@
-var mnemonic = "sauce need little canvas remain pipe frown cram nuclear trade seven flock";
+var mnemonic = "wine fog club noble trumpet travel list dinosaur boring route defense machine";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone wreck hole sauce jacket obscure omit video oyster rose parent latin";
+var mnemonic = "fog sauce swamp desert alert base thumb pride brush dove belt palace";

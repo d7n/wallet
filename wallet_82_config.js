@@ -1,1 +1,1 @@
-var mnemonic = "december another debris dolphin section wrong buyer defense hollow jump suggest cake";
+var mnemonic = "bean patient enrich fatal since angle crush paper zoo loyal spoil chief";

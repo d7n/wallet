@@ -1,1 +1,1 @@
-var mnemonic = "squirrel armed illness dance leave chaos unveil upper champion enough length inflict";
+var mnemonic = "dose average either erosion wash slight swim maze sock ignore common waste";

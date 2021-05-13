@@ -1,1 +1,1 @@
-var mnemonic = "garden design friend decorate law east unfold garage runway misery coin someone";
+var mnemonic = "chapter all worry amused child cliff tomato pact custom bundle alpha earth";

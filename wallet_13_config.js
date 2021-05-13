@@ -1,1 +1,1 @@
-var mnemonic = "defy coin organ obtain cliff loyal arena quantum mirror scorpion hard cart";
+var mnemonic = "antique quote track minimum pretty differ host inquiry view must apple turn";

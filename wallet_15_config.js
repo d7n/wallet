@@ -1,1 +1,1 @@
-var mnemonic = "hidden soldier solar donor parade response argue tired snake capable uniform captain";
+var mnemonic = "clown chuckle suspect mix advance clutch tired satoshi pistol scene round leader";

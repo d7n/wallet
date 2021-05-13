@@ -1,1 +1,1 @@
-var mnemonic = "deliver enhance range jewel end miracle stick police truly pair neither fiction";
+var mnemonic = "rookie settle trend milk vendor spatial water mass pottery gloom move float";

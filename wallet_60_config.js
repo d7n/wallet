@@ -1,1 +1,1 @@
-var mnemonic = "funny track jeans legend neutral escape furnace jelly luxury moral curve hen";
+var mnemonic = "define snake gym tissue hungry vibrant collect alert fork bracket phone measure";

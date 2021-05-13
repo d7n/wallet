@@ -1,1 +1,1 @@
-var mnemonic = "ranch ability disorder gown scorpion culture error modify lunar garden inflict catch";
+var mnemonic = "rail deliver never regret price virtual amateur hover report soup fresh toddler";

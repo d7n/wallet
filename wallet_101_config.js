@@ -1,1 +1,1 @@
-var mnemonic = "battle term decade come speed web era despair collect shoot fan receive";
+var mnemonic = "trash galaxy chief flame violin rapid silver ability never network memory weird";

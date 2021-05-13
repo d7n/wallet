@@ -1,1 +1,1 @@
-var mnemonic = "dumb still actual public snow punch daring top deposit orange chunk ski";
+var mnemonic = "mosquito wool shoe champion sort wolf elephant tank price protect brand peasant";

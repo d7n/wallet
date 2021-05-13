@@ -1,1 +1,1 @@
-var mnemonic = "this pretty just bunker canoe polar color salad pill name dash kite";
+var mnemonic = "breeze resist update admit depend manual thrive abstract future slender vocal face";

@@ -1,1 +1,1 @@
-var mnemonic = "bench gold supply wing lunar knock into flame glance zero join about";
+var mnemonic = "scare winner strategy weird scale nerve awesome donor toss crime antique mass";

@@ -1,1 +1,1 @@
-var mnemonic = "column brand wrong frame chest denial garment lobster island woman powder interest";
+var mnemonic = "oppose acid eight enact rice craft shrug pudding vacuum announce exhaust crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "drink avoid harsh quality smile horse estate penalty atom once shallow day";
+var mnemonic = "draft rate session dial trial credit large remain year staff charge lend";

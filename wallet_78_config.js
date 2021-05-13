@@ -1,1 +1,1 @@
-var mnemonic = "outer unveil song silk grape toddler dragon grocery piece wild forest liberty";
+var mnemonic = "panel face economy walnut wife fabric strong thrive rule same over quote";

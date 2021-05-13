@@ -1,1 +1,1 @@
-var mnemonic = "explain gate gasp either moral doctor solid number antique race utility cruise";
+var mnemonic = "artwork movie upper hammer tooth harsh afford close possible road raw adapt";

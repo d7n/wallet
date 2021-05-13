@@ -1,1 +1,1 @@
-var mnemonic = "damage donkey reflect analyst lobster smooth science tube swift draft detail wink";
+var mnemonic = "foot champion online wash attend scissors age lift ramp net monster always";

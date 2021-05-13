@@ -1,1 +1,1 @@
-var mnemonic = "clog erase festival unfair level catch used rebuild settle make bulk cereal";
+var mnemonic = "life post embark coast absorb amateur ladder opinion heart kick believe before";

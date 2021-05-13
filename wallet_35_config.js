@@ -1,1 +1,1 @@
-var mnemonic = "negative narrow tenant acquire almost food affair spring stumble oven keep foam";
+var mnemonic = "umbrella bird bracket brisk gauge civil fantasy paddle best knife motor summer";

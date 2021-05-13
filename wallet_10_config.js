@@ -1,1 +1,1 @@
-var mnemonic = "rate pond craft decide famous error sword gauge tissue path income addict";
+var mnemonic = "neither annual lyrics very devote common obey alarm limb pair rebel poet";

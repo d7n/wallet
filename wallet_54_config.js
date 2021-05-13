@@ -1,1 +1,1 @@
-var mnemonic = "leave south tooth blanket hobby rural depth mass novel panic oyster drink";
+var mnemonic = "slab team found old chalk thought boss half marriage find alert worry";

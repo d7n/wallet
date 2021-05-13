@@ -1,1 +1,1 @@
-var mnemonic = "doctor excuse barely body boss system one patch catch acoustic renew unit";
+var mnemonic = "screen merge addict morning forward school bronze stamp point coach bachelor ball";

@@ -1,1 +1,1 @@
-var mnemonic = "clip main divorce flip exile razor reject will soldier fit topic fit";
+var mnemonic = "arch fire turtle kidney way crazy warm day exotic rally south sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "boil girl jacket cricket local make wide love proud giggle soap direct";
+var mnemonic = "famous mechanic cloud slush wedding erode slide dog hurdle gift soon reward";

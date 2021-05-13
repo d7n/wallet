@@ -1,1 +1,1 @@
-var mnemonic = "gloom grow dizzy turtle dice garbage foot high barely school bottom item";
+var mnemonic = "absorb charge disagree gun magnet soul marine runway infant room food school";

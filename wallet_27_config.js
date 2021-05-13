@@ -1,1 +1,1 @@
-var mnemonic = "uncle obtain best hello supreme like vital tuition promote employ salad artwork";
+var mnemonic = "glad heavy stay plastic gauge head bounce fox comfort mail river execute";

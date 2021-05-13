@@ -1,1 +1,1 @@
-var mnemonic = "beef please antenna body prize consider process pause dirt click knock detect";
+var mnemonic = "cousin glance donor artwork hurt ramp castle snap degree gold half animal";

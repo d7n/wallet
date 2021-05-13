@@ -1,1 +1,1 @@
-var mnemonic = "citizen suffer fiction help away chat olympic either tower hair pottery silver";
+var mnemonic = "strike quote domain cheap caught thrive only sweet spoon volcano salmon vivid";

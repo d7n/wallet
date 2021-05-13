@@ -1,1 +1,1 @@
-var mnemonic = "uphold curious drive chapter enough exotic undo horse patch flash oak imitate";
+var mnemonic = "energy column catalog february relief adapt buzz burden people duck little scorpion";

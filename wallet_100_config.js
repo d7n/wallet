@@ -1,1 +1,1 @@
-var mnemonic = "ankle indicate chief belt uncover quarter near later faculty powder federal jazz";
+var mnemonic = "exotic engine clay venture olive young pistol electric that laundry candy educate";

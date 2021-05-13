@@ -1,1 +1,1 @@
-var mnemonic = "cotton permit poet quantum rare debate together rotate embark wash grab health";
+var mnemonic = "wrist task surround test bench trap begin quote toddler brisk easy ripple";

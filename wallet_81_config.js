@@ -1,1 +1,1 @@
-var mnemonic = "slice human such absent chase birth pudding off acid corn decide point";
+var mnemonic = "tourist stay output blue supreme fluid innocent arrow bleak invite sample execute";

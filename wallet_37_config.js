@@ -1,1 +1,1 @@
-var mnemonic = "solve eternal evoke photo rabbit spell empty distance hazard spatial truly fence";
+var mnemonic = "buffalo giant lyrics tag easy verify cheap vast second gym afford orphan";

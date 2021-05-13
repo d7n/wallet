@@ -1,1 +1,1 @@
-var mnemonic = "edit engage bridge unhappy window cabbage miss ramp trust strike quarter digital";
+var mnemonic = "calm joy occur laptop once story cruise lunch hero okay man mule";

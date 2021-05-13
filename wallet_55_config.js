@@ -1,1 +1,1 @@
-var mnemonic = "lawn pave wood vintage industry sphere camp six feed burst act write";
+var mnemonic = "mix spoon promote involve unveil elder dawn scene brother security lumber draw";

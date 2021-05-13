@@ -1,1 +1,1 @@
-var mnemonic = "antique electric mushroom omit cannon public bracket yellow luggage demand sea alien";
+var mnemonic = "example hawk clump plastic cherry pupil buffalo repeat mind arm brain weapon";

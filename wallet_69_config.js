@@ -1,1 +1,1 @@
-var mnemonic = "history dentist ivory course roast phrase smile helmet fine misery cry coast";
+var mnemonic = "female apart blood intact sea april crime aerobic crime dune theory setup";

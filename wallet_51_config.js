@@ -1,1 +1,1 @@
-var mnemonic = "key outer act bracket orient please unique injury until broken hunt crunch";
+var mnemonic = "above light dutch magic board clever boring pulp cotton digital service endless";

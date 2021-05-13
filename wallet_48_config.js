@@ -1,1 +1,1 @@
-var mnemonic = "elbow rebuild supply focus phone spell pelican deposit water device action chat";
+var mnemonic = "slab unfold maze volcano master pepper guard welcome enrich useful ranch company";

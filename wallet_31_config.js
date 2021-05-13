@@ -1,1 +1,1 @@
-var mnemonic = "huge purpose unable tool travel rival erode level mango behind series upgrade";
+var mnemonic = "garden owner salmon error cute vivid vivid sphere retire obey flag fire";

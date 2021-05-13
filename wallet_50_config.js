@@ -1,1 +1,1 @@
-var mnemonic = "champion private blouse prison crawl toast math ugly myself swim blast gather";
+var mnemonic = "toy quantum coin case suspect anchor purpose vivid three barrel excess wild";

@@ -1,1 +1,1 @@
-var mnemonic = "word abstract guide unhappy shop bean noble cricket master ask mutual devote";
+var mnemonic = "own behave sudden decrease kangaroo ring garbage arrow fitness vendor cereal pear";

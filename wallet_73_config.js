@@ -1,1 +1,1 @@
-var mnemonic = "fabric feed jar hybrid vacuum soup east giggle figure turtle rice coin";
+var mnemonic = "strategy knife enlist core pass pistol happy metal cat biology toddler shuffle";

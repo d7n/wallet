@@ -1,1 +1,1 @@
-var mnemonic = "rich woman vintage beach green person bullet miracle couch open heart scare";
+var mnemonic = "ring flush panther vivid amount purity hello tag uniform supreme sword drip";

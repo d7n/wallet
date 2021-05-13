@@ -1,1 +1,1 @@
-var mnemonic = "basic chaos lawsuit burger jealous addict taste noise need increase lobster six";
+var mnemonic = "victory crop kiss history smoke obtain girl course choice absorb glue tool";

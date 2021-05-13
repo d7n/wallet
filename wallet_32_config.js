@@ -1,1 +1,1 @@
-var mnemonic = "canvas world split valve grow ostrich range lion target dizzy topple sting";
+var mnemonic = "marine vicious cousin rally follow whisper cattle utility glove ripple such genre";

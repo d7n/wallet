@@ -1,1 +1,1 @@
-var mnemonic = "dwarf exact hospital alcohol merit orbit air human model banana meat owner";
+var mnemonic = "unfold kid favorite flight sphere tragic hawk tiger faculty salon dawn awesome";

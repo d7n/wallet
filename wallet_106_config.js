@@ -1,1 +1,1 @@
-var mnemonic = "silly outside intact any nose doctor curious rigid electric cart cry device";
+var mnemonic = "please bench confirm mad seminar bag blast divide doctor home lottery thing";

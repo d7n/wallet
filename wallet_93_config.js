@@ -1,1 +1,1 @@
-var mnemonic = "spring reveal emerge room amount survey tired train dash shoulder mimic huge";
+var mnemonic = "need engine type uniform defense occur million ramp february chicken rabbit primary";

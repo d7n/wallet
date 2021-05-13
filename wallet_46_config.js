@@ -1,1 +1,1 @@
-var mnemonic = "tape text alley involve ugly relax bachelor alter purse coral social gun";
+var mnemonic = "deliver execute basket noble wealth marine original offer common royal wasp addict";

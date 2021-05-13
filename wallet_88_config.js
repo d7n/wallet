@@ -1,1 +1,1 @@
-var mnemonic = "word sense session obscure carry odor north climb negative priority scissors special";
+var mnemonic = "say certain cube detail reason tongue cheap zero wasp satoshi spread illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong hungry diagram guilt dad word museum place gasp note increase disagree";
+var mnemonic = "beauty say balance attend stone couple ready finger prevent loud athlete happy";

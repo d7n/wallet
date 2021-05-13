@@ -1,1 +1,1 @@
-var mnemonic = "mango cabin skate ecology sail reward exercise mother valid vacant tobacco feed";
+var mnemonic = "sick slush drama skin hill play text apart design collect old pluck";

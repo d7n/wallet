@@ -1,1 +1,1 @@
-var mnemonic = "indicate flavor truth cool food talent fine broken junior device shed question";
+var mnemonic = "day coral unique denial cream glare rent wolf sheriff turtle essence coach";

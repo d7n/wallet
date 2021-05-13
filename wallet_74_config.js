@@ -1,1 +1,1 @@
-var mnemonic = "slot hundred absurd trap average much mind verb lab humor tissue mask";
+var mnemonic = "pen ketchup divide chest civil peace trust cousin metal win anchor robust";

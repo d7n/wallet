@@ -1,1 +1,1 @@
-var mnemonic = "luggage curious outer amazing punch sail noise about amateur chicken vague obey";
+var mnemonic = "used outside meadow pencil crane race enter pigeon shadow rely amused dizzy";

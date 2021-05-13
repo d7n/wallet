@@ -1,1 +1,1 @@
-var mnemonic = "fix lonely comfort panther ecology stone top board crew tuna fall entire";
+var mnemonic = "audit cabin will car destroy health that fatal fitness turtle canal fantasy";

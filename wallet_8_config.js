@@ -1,1 +1,1 @@
-var mnemonic = "road surge exchange shrimp like aspect pool welcome silver angle eagle sentence";
+var mnemonic = "throw reflect night monster wool payment waste water normal walnut mixed maximum";

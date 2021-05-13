@@ -1,1 +1,1 @@
-var mnemonic = "picture regular glory phrase dove inside bright mail gain save later witness";
+var mnemonic = "ship luggage code rate oyster south point reopen steak rib antenna push";

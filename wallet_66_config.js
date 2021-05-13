@@ -1,1 +1,1 @@
-var mnemonic = "inherit myth nose lesson dance drink put vintage mix orient curtain dignity";
+var mnemonic = "group tissue surprise derive auto october comfort pelican buffalo patient shoe pair";

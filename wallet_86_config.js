@@ -1,1 +1,1 @@
-var mnemonic = "half sing depend mesh expose people shine mountain brass can pass theme";
+var mnemonic = "wrap ankle ability angle teach foil type device proof oven appear fuel";

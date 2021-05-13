@@ -1,1 +1,1 @@
-var mnemonic = "example area bar shift segment comfort sure sunset hurt brush canoe diagram";
+var mnemonic = "pull wire interest panic stadium zero soda cup agree old unit lawn";

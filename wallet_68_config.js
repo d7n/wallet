@@ -1,1 +1,1 @@
-var mnemonic = "organ pull drill symptom group grape bag amazing matrix bird disorder protect";
+var mnemonic = "vivid regular path exhibit armed valley chair permit absurd smile neck private";

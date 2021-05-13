@@ -1,1 +1,1 @@
-var mnemonic = "report uphold mask alpha sample day usage equip cupboard cigar multiply portion";
+var mnemonic = "ramp mobile green label goat rebuild merge stone border denial wonder hint";
