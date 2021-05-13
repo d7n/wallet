@@ -1,1 +1,1 @@
-var mnemonic = "identify immense about canoe betray tragic impact good voice worth discover snap";
+var mnemonic = "erosion rough small end cover hollow focus nation flash reward hedgehog ritual";

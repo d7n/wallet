@@ -1,1 +1,1 @@
-var mnemonic = "weekend various own journey seek client tuition gap loud column draw tourist";
+var mnemonic = "breeze odor setup avoid embody major dirt employ betray ceiling risk speak";

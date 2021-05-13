@@ -1,1 +1,1 @@
-var mnemonic = "inform plastic home chaos item voice sibling soup tape shoulder snow mixture";
+var mnemonic = "curious escape april behind maximum cup antenna solution lyrics please dice museum";

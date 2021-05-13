@@ -1,1 +1,1 @@
-var mnemonic = "exhibit mom imitate job tube lesson sketch token sand major fiber sea";
+var mnemonic = "robust submit pact flip brave taste miss vicious coin season enroll hen";

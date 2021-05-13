@@ -1,1 +1,1 @@
-var mnemonic = "mother phone little favorite today stomach toilet music stable thrive federal virus";
+var mnemonic = "width ticket estate undo upgrade endorse whisper pony plunge snow record nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "switch local busy blast erosion prosper taxi school olympic army flush sentence";
+var mnemonic = "student rule release hire sorry buyer predict column crisp mail rebel loud";

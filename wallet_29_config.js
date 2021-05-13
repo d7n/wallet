@@ -1,1 +1,1 @@
-var mnemonic = "must horse wife toss level flavor butter scale donate travel notable wife";
+var mnemonic = "version rose indoor heart jelly wonder tower squeeze globe jealous tuna true";

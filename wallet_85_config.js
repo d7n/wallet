@@ -1,1 +1,1 @@
-var mnemonic = "subway stage brown focus rib climb resist actual jealous series salt dolphin";
+var mnemonic = "vapor energy double what about raw helmet cattle hunt effort defy label";

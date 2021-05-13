@@ -1,1 +1,1 @@
-var mnemonic = "version hobby sand shed turkey inside exchange profit vintage unit skin various";
+var mnemonic = "asthma rotate earn october hazard course trophy magnet gospel muffin nose hope";

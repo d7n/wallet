@@ -1,1 +1,1 @@
-var mnemonic = "firm grow medal matrix laptop phone invite social federal shrimp mouse select";
+var mnemonic = "dismiss again resource boost giggle memory brave insect over entry guard fence";

@@ -1,1 +1,1 @@
-var mnemonic = "object rifle ramp genius estate fitness remind decline analyst focus derive board";
+var mnemonic = "trip brief taxi large jump govern climb hybrid supreme flash trial inch";

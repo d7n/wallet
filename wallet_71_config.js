@@ -1,1 +1,1 @@
-var mnemonic = "train little bubble surprise clock drive pretty federal giggle shallow cabin ride";
+var mnemonic = "color turn aware main vote hover arm person remain prepare yellow seek";

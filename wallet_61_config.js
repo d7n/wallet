@@ -1,1 +1,1 @@
-var mnemonic = "pulse vocal source film announce loyal rose youth wet next video deny";
+var mnemonic = "security carry mule crime hello cycle organ minute lawsuit horse split tribe";

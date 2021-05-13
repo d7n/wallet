@@ -1,1 +1,1 @@
-var mnemonic = "hamster tobacco chimney record vapor feel curve bless sun peasant balance swamp";
+var mnemonic = "shop code whip blame forum another slush maple tunnel unknown online island";

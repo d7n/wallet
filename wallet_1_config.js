@@ -1,1 +1,1 @@
-var mnemonic = "remember ghost swing mule drip math pill swap come onion transfer forum";
+var mnemonic = "exclude genuine best artwork sense turkey into pretty cereal shoulder inside shoot";

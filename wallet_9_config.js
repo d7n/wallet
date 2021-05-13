@@ -1,1 +1,1 @@
-var mnemonic = "umbrella void anchor parent cluster transfer village coral garden accuse brand deny";
+var mnemonic = "atom cake pluck blossom excite filter describe august valve tragic tray kidney";

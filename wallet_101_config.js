@@ -1,1 +1,1 @@
-var mnemonic = "ask jewel refuse asset sweet ahead eye sail art magnet cruel liquid";
+var mnemonic = "brush approve monkey ability dad congress father field impose news border evoke";

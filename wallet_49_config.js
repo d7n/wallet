@@ -1,1 +1,1 @@
-var mnemonic = "copy planet machine inner blame alert cash hat secret place lens work";
+var mnemonic = "doll play coast hood toilet boil patrol fall cereal climb auto saddle";

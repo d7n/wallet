@@ -1,1 +1,1 @@
-var mnemonic = "depth nut glory verify liar devote sing feature loud rubber banner develop";
+var mnemonic = "defense before praise equip fly fog window leg lady resemble sudden fever";

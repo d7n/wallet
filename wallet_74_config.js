@@ -1,1 +1,1 @@
-var mnemonic = "resemble juice interest horror during crucial pull horse double review snap huge";
+var mnemonic = "jungle little forget flip pigeon grass bless obey skin interest expose arrow";

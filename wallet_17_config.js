@@ -1,1 +1,1 @@
-var mnemonic = "cotton save december portion because large battle feature fault borrow method shock";
+var mnemonic = "alley acoustic special someone cruise drastic laptop hill giant rookie giraffe congress";

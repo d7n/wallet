@@ -1,1 +1,1 @@
-var mnemonic = "document apology treat illness napkin viable foam cement legend naive snake tortoise";
+var mnemonic = "local pave cliff help obtain kiss art chaos journey citizen wife season";

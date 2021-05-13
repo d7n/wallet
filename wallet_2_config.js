@@ -1,1 +1,1 @@
-var mnemonic = "focus only join skill spike hour useful start vehicle identify narrow athlete";
+var mnemonic = "story custom shed guess gravity civil truck inquiry coral gold detect empower";

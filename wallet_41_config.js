@@ -1,1 +1,1 @@
-var mnemonic = "civil fence between gaze grid agree flame faculty mind absurd once catch";
+var mnemonic = "answer group ability oxygen gentle dial girl silly marriage adjust rotate special";

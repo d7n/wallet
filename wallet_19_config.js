@@ -1,1 +1,1 @@
-var mnemonic = "wave feature urge owner consider orient eagle inquiry rigid worth rate tomorrow";
+var mnemonic = "best file wisdom bubble imitate help fatal wide pattern ask bone game";

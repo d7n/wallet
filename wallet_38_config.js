@@ -1,1 +1,1 @@
-var mnemonic = "wreck vessel shine theory night express middle brisk crowd color atom like";
+var mnemonic = "alien rescue book primary sun ill unfair artwork sport sure evolve sure";

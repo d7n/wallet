@@ -1,1 +1,1 @@
-var mnemonic = "region token rain hockey quit soldier famous fever garbage soup equal benefit";
+var mnemonic = "trick stadium wing ketchup arctic silent label lecture upgrade assault fame town";

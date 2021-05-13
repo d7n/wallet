@@ -1,1 +1,1 @@
-var mnemonic = "approve another hip have later scout mosquito hero cross february holiday merge";
+var mnemonic = "else trade supreme tenant lunar vocal assault topic someone correct still street";

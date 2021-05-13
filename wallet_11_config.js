@@ -1,1 +1,1 @@
-var mnemonic = "mix banana chuckle battle book august hospital enhance remind then clinic angry";
+var mnemonic = "path paddle ski live pull ride legal type notice quarter estate claim";

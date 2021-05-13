@@ -1,1 +1,1 @@
-var mnemonic = "fossil hockey salmon dynamic buzz sphere pride fiscal trigger employ magic black";
+var mnemonic = "mask age large unlock urge wagon labor orchard solve spell belt term";

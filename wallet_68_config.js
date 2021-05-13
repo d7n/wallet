@@ -1,1 +1,1 @@
-var mnemonic = "corn twist invite scatter wave diary reveal sell fresh saddle chronic idea";
+var mnemonic = "penalty fitness crew hill tuition best satoshi nephew improve local mansion roast";

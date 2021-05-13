@@ -1,1 +1,1 @@
-var mnemonic = "enact artefact stereo index cave hedgehog satoshi talent someone define shell they";
+var mnemonic = "brisk soft nasty exchange snap box secret gallery taxi day jazz proud";

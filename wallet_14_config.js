@@ -1,1 +1,1 @@
-var mnemonic = "theme trash orange media banner wine repeat prevent trip fog unveil spell";
+var mnemonic = "body oak boss giant amused shield comfort verify large toy can write";

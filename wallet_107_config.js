@@ -1,1 +1,1 @@
-var mnemonic = "uncle harvest noise trap service unveil era mention glue way ozone bulb";
+var mnemonic = "category object stage puppy vacant federal wet also unusual never rail rural";

@@ -1,1 +1,1 @@
-var mnemonic = "brand lesson car liquid inspire vintage joy easily head mail owner gym";
+var mnemonic = "deal organ vendor lottery feel disagree mushroom already among alter crane wrestle";

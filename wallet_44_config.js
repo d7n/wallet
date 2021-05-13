@@ -1,1 +1,1 @@
-var mnemonic = "hockey dress ceiling opinion view item obscure idle kidney nature say party";
+var mnemonic = "awful huge camp menu good ribbon parrot poem follow slice observe warm";

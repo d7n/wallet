@@ -1,1 +1,1 @@
-var mnemonic = "lyrics element road kitten finger there wave joy unit hub nephew flock";
+var mnemonic = "stereo decorate sand ready wrong apology beyond kidney artefact bus penalty custom";

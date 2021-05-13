@@ -1,1 +1,1 @@
-var mnemonic = "short wheel steak powder grief canyon finish lava rule senior segment good";
+var mnemonic = "coach sample erase half enact catch journey soldier concert six payment slim";

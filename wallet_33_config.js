@@ -1,1 +1,1 @@
-var mnemonic = "exit rocket salmon punch car spot warfare report liberty boost dwarf lounge";
+var mnemonic = "police lecture chronic couch payment sadness home glory suit misery task among";

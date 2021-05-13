@@ -1,1 +1,1 @@
-var mnemonic = "adjust fossil sort april rather opinion exile swift glory share detect save";
+var mnemonic = "grow friend embark tent glimpse calm original caught spy announce gasp coil";

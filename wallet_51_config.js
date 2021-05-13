@@ -1,1 +1,1 @@
-var mnemonic = "rule sight office feel note sound someone divide beauty toy push cruel";
+var mnemonic = "armor income portion ozone pioneer prison dwarf loyal soccer object catch defy";

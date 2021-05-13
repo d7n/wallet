@@ -1,1 +1,1 @@
-var mnemonic = "sample hand fame modify memory snow grocery figure core scrub ready token";
+var mnemonic = "dad message project veteran add crawl purpose average chair arch case setup";

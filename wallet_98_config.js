@@ -1,1 +1,1 @@
-var mnemonic = "canvas soda behind baby grace vicious kit sketch desk tragic have imitate";
+var mnemonic = "since solid catalog general swing return scatter vanish skull protect cry almost";

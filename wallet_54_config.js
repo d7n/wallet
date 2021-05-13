@@ -1,1 +1,1 @@
-var mnemonic = "oyster useless grace wheel trip someone speed gym cute barrel melt heavy";
+var mnemonic = "believe hat dad goddess peasant jelly machine game pulp cactus various myself";

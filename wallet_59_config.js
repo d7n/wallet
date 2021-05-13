@@ -1,1 +1,1 @@
-var mnemonic = "moral wolf wish later admit dignity drift sock guide grow keep olive";
+var mnemonic = "course bracket chimney glad have poem route photo summer burst permit faith";

@@ -1,1 +1,1 @@
-var mnemonic = "often rare vivid glove excite digital rich extend sunset myself glue outer";
+var mnemonic = "victory deny property goose obey gesture lounge notice fabric volcano spare divide";

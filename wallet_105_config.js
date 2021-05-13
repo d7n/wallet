@@ -1,1 +1,1 @@
-var mnemonic = "employ approve device pelican vivid struggle dynamic check deputy sound bench hybrid";
+var mnemonic = "pool nut ignore settle public subject question boring long vessel prison muffin";

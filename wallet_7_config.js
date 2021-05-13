@@ -1,1 +1,1 @@
-var mnemonic = "ivory disease equal library scout bring talent brown joke split beyond stone";
+var mnemonic = "slender choice rice globe equip enable artwork crack open person blue review";

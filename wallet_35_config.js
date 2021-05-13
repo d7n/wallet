@@ -1,1 +1,1 @@
-var mnemonic = "output upon shuffle walnut airport income garbage siren mercy doctor green reject";
+var mnemonic = "crazy slot foot helmet image gift eight abuse feature cry ribbon recipe";

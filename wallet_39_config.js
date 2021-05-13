@@ -1,1 +1,1 @@
-var mnemonic = "upper soda remain enforce rescue trick jewel treat unique style shoe adapt";
+var mnemonic = "fade potato fever snack soldier uphold reunion clump snow stage decorate total";

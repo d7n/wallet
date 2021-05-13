@@ -1,1 +1,1 @@
-var mnemonic = "flame slam music token token south measure omit follow shine copy dragon";
+var mnemonic = "pepper clog emotion wasp quote solid uphold sponsor patient song among solar";

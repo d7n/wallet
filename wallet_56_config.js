@@ -1,1 +1,1 @@
-var mnemonic = "bundle knock better globe fat setup deposit foster fatigue attack cluster february";
+var mnemonic = "ghost inspire table album elbow bleak seminar typical clarify south junior connect";

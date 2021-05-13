@@ -1,1 +1,1 @@
-var mnemonic = "obvious expect vacuum frost loop release result prefer reveal lottery stable poverty";
+var mnemonic = "false acquire number hamster witness tennis also else sponsor access duck nation";

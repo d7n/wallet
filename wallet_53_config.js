@@ -1,1 +1,1 @@
-var mnemonic = "awesome shallow infant student brisk daring just vast radio suggest step gaze";
+var mnemonic = "casino appear amateur solve shop scout bacon prepare message access ozone auction";

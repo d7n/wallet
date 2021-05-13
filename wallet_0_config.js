@@ -1,1 +1,1 @@
-var mnemonic = "patch bargain camera cute drink hamster cave attitude talk scare chat room";
+var mnemonic = "test winner trouble mixture useful quote poem dress pioneer ugly verify emotion";

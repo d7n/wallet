@@ -1,1 +1,1 @@
-var mnemonic = "resist banana apart bullet vendor urban jungle boil foam eternal dance priority";
+var mnemonic = "feature bonus exile escape health carpet scorpion fortune identify credit outdoor tennis";

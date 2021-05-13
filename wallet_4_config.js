@@ -1,1 +1,1 @@
-var mnemonic = "miracle nation inform spin quality orient swift liberty input fire ocean lizard";
+var mnemonic = "family artefact breeze negative wait describe offer someone allow verify stock episode";

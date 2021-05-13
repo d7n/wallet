@@ -1,1 +1,1 @@
-var mnemonic = "travel cruel kiwi luxury soft come they fabric width moon rigid medal";
+var mnemonic = "weird focus busy candy night stem fiscal flash express alien bright relief";

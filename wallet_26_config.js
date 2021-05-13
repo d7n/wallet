@@ -1,1 +1,1 @@
-var mnemonic = "crack leopard body deer total pottery bunker elbow truth shy sight various";
+var mnemonic = "endless reason someone wave salute gate inquiry angry upon radar agree mixed";

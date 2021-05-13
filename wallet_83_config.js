@@ -1,1 +1,1 @@
-var mnemonic = "shoulder urban celery project armor cactus sad spot item load scare point";
+var mnemonic = "stay hair pelican divorce habit announce trouble resource old pyramid tide suggest";

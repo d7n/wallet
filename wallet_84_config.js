@@ -1,1 +1,1 @@
-var mnemonic = "large this repair luxury vague earn width crawl collect friend display endless";
+var mnemonic = "alone march door mixture before scale light sadness three bicycle edge error";

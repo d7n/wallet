@@ -1,1 +1,1 @@
-var mnemonic = "trend museum cheap narrow drink clerk travel economy spare horse front pistol";
+var mnemonic = "usual valve this ocean lake ramp figure desk magnet shrug order lonely";

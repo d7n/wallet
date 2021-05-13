@@ -1,1 +1,1 @@
-var mnemonic = "answer heart armor chunk puzzle twenty husband ordinary shadow tape maple light";
+var mnemonic = "bind very dish saddle double govern enough enable vote start walk train";

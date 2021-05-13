@@ -1,1 +1,1 @@
-var mnemonic = "gas appear ancient impose extend emerge loop park weasel unit bar flash";
+var mnemonic = "brisk hard trust palm defy urban output neck tone bargain assist open";

@@ -1,1 +1,1 @@
-var mnemonic = "brief train bottom bulk hard immune crumble observe legend distance acquire amateur";
+var mnemonic = "pave weapon grab casino escape claw crime myth old creek cupboard grunt";

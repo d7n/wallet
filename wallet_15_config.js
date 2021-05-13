@@ -1,1 +1,1 @@
-var mnemonic = "basic illegal gain about only narrow load chuckle system drill tissue slide";
+var mnemonic = "balance patch spy change spy have talent absorb dinosaur scrap ceiling foot";

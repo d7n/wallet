@@ -1,1 +1,1 @@
-var mnemonic = "apology slice hidden diagram shield profit broom expose cycle protect fluid second";
+var mnemonic = "wisdom abandon shrug lonely runway bread clarify okay cover salad lesson chuckle";

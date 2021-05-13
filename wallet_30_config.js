@@ -1,1 +1,1 @@
-var mnemonic = "video maximum romance easily gasp glide buffalo pill grace vivid rabbit video";
+var mnemonic = "mean traffic blind mandate soldier author lounge arrange boil practice juice eyebrow";

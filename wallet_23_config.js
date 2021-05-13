@@ -1,1 +1,1 @@
-var mnemonic = "ramp photo seminar ancient satisfy this wasp struggle satisfy flush range economy";
+var mnemonic = "awesome meat nerve sister pledge ask problem quit observe exotic jacket nice";

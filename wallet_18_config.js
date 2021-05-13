@@ -1,1 +1,1 @@
-var mnemonic = "vault wave assault average worth ice riot silly token two frame essence";
+var mnemonic = "load eagle balcony mean village favorite job solar chaos govern bar clown";

@@ -1,1 +1,1 @@
-var mnemonic = "treat fall unhappy pupil urban sword dial crowd wink often marble snake";
+var mnemonic = "puppy glass kid stadium error twenty parade inhale smooth subway trouble peasant";

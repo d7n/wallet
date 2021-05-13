@@ -1,1 +1,1 @@
-var mnemonic = "extra tail fold like blush equip teach afford grant favorite gift swarm";
+var mnemonic = "hair bless gun hub veteran unique monster bargain recycle era perfect imitate";

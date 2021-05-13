@@ -1,1 +1,1 @@
-var mnemonic = "latin water broom pull decide stadium client flight misery leaf labor cry";
+var mnemonic = "length misery tourist hamster anger west theory welcome foil awful other office";

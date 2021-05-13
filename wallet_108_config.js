@@ -1,1 +1,1 @@
-var mnemonic = "taste island raise bind egg awkward swim tribe memory assist copper chest";
+var mnemonic = "enjoy input apple sell naive nerve common negative sugar clever guide obey";

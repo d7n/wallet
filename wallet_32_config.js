@@ -1,1 +1,1 @@
-var mnemonic = "cream cattle endless identify blind kind magnet strike lava save slogan kiwi";
+var mnemonic = "refuse able seminar must couple thumb busy neither boring sun kite city";

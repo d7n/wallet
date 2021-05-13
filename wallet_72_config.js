@@ -1,1 +1,1 @@
-var mnemonic = "essence normal demand siren offer member fresh trip nurse office lobster skull";
+var mnemonic = "gadget load prosper enroll artefact tattoo cactus useless crush vibrant culture universe";

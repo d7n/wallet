@@ -1,1 +1,1 @@
-var mnemonic = "left team orbit inside lonely level rice social anchor unlock spot wisdom";
+var mnemonic = "electric hungry faith nephew enough earth erode wine exclude pattern farm lend";

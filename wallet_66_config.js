@@ -1,1 +1,1 @@
-var mnemonic = "craft trigger surge blossom brass boss brave zebra hen climb hope enact";
+var mnemonic = "bring code wire hope pond aware menu snack august slow vault child";

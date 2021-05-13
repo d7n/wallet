@@ -1,1 +1,1 @@
-var mnemonic = "envelope vast worry exist track tube energy acquire tool opinion achieve you";
+var mnemonic = "utility luxury exact width candy merry aspect second account stock stove echo";

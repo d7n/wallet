@@ -1,1 +1,1 @@
-var mnemonic = "elite crawl fatal have custom snake family woman hen reason search prevent";
+var mnemonic = "blanket square easy animal agent live assist suggest athlete trumpet hire jeans";

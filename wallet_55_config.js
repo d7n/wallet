@@ -1,1 +1,1 @@
-var mnemonic = "afraid spoon vintage apology pen firm draft spice install dose name antique";
+var mnemonic = "lamp square vault van explain imitate actual approve flock clarify kid hover";

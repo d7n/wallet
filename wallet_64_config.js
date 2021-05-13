@@ -1,1 +1,1 @@
-var mnemonic = "morning pride side guide trust pepper kangaroo original umbrella train innocent west";
+var mnemonic = "suffer bacon dash brief jazz movie stairs choose service gasp subject achieve";

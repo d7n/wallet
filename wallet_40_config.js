@@ -1,1 +1,1 @@
-var mnemonic = "error inflict bomb notice flavor duty catch elbow civil faculty rhythm edge";
+var mnemonic = "hire acoustic wet fault diary dinner fiscal knee step avoid hour energy";

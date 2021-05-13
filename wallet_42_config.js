@@ -1,1 +1,1 @@
-var mnemonic = "tenant dolphin evoke chicken season memory among just pen play nest output";
+var mnemonic = "old peanut domain online wheel dream main knock brave speed picnic intact";

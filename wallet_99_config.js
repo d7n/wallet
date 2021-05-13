@@ -1,1 +1,1 @@
-var mnemonic = "various rate blade ethics wage number satoshi fitness warfare express survey example";
+var mnemonic = "under upon asset bean coffee cherry leaf lumber film gain number wheel";
