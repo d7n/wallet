@@ -1,1 +1,1 @@
-var mnemonic = "weird match snow scan cup ozone narrow oil clerk rival outside rely";
+var mnemonic = "vote execute festival fragile comic pulse arrange kiss rural kingdom distance allow";

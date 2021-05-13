@@ -1,1 +1,1 @@
-var mnemonic = "permit marine affair cactus sleep twenty orphan return tonight task envelope rack";
+var mnemonic = "misery pig enough first forward infant series fortune cotton minute trend stable";

@@ -1,1 +1,1 @@
-var mnemonic = "genius stove dragon accident address envelope wild genre universe cat outer lecture";
+var mnemonic = "cause bind tobacco tilt retreat glue puzzle viable fragile stadium tomorrow duty";

@@ -1,1 +1,1 @@
-var mnemonic = "beef people execute tuna lemon cotton forget stock unknown silk type swim";
+var mnemonic = "mango punch transfer pizza blur chat glory capable grape share chuckle myth";

@@ -1,1 +1,1 @@
-var mnemonic = "click solid pretty dream onion thunder marriage code pond lend unable alone";
+var mnemonic = "bamboo vibrant drum response differ future hybrid canvas afford sea motor belt";

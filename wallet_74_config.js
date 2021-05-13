@@ -1,1 +1,1 @@
-var mnemonic = "oyster live exact rookie seven beauty junk demise cricket echo village celery";
+var mnemonic = "fitness input noise furnace stereo carbon oil sad umbrella refuse space spike";

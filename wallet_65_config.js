@@ -1,1 +1,1 @@
-var mnemonic = "cousin beef world hunt pattern actual tomato payment prepare allow adapt arrange";
+var mnemonic = "diet antique winter road morning luxury bring mushroom champion finish bacon exotic";

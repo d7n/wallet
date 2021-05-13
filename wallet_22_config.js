@@ -1,1 +1,1 @@
-var mnemonic = "orient endless fog space proud dinosaur issue cotton ribbon onion stage beyond";
+var mnemonic = "kangaroo inhale leave maid knee wear tower program panel sun pony tonight";

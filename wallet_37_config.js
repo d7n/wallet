@@ -1,1 +1,1 @@
-var mnemonic = "like install raise rose hour render secret clog cheap april salmon wonder";
+var mnemonic = "worth rubber canoe sustain loyal monster analyst reunion valley adjust critic motion";

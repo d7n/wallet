@@ -1,1 +1,1 @@
-var mnemonic = "labor envelope illness hidden rare wall invite garbage tragic believe image display";
+var mnemonic = "strong fame divide punch frame police riot range calm baby radar napkin";

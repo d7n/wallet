@@ -1,1 +1,1 @@
-var mnemonic = "mercy cousin win crash defy they journey hammer crash rival glove cheese";
+var mnemonic = "project entire museum funny armor wife keen silk sea banana ball they";

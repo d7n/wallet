@@ -1,1 +1,1 @@
-var mnemonic = "lottery minute turtle grant boss regular shadow illness boss strong price oven";
+var mnemonic = "always menu poverty company camera square engage armor subject frozen annual negative";

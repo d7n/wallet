@@ -1,1 +1,1 @@
-var mnemonic = "bulb security bundle laugh air title fade staff fun problem mother wood";
+var mnemonic = "just cloth document promote add sun bus holiday forum hurry ignore course";

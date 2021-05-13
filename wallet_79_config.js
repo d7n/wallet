@@ -1,1 +1,1 @@
-var mnemonic = "kid access aisle keep then nerve hat receive art essay fragile curve";
+var mnemonic = "echo vibrant witness elite crouch hammer bright cheese avoid void cancel embark";

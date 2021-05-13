@@ -1,1 +1,1 @@
-var mnemonic = "whale brass dolphin health enough quit loud loyal spatial invite hip mail";
+var mnemonic = "metal vacuum jacket insect today top leader riot material cattle about tiger";

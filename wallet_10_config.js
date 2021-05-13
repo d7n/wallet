@@ -1,1 +1,1 @@
-var mnemonic = "goat rain artwork include virus fine benefit jewel cherry cruise escape wheat";
+var mnemonic = "series stay blind west notable hair source predict hair gorilla layer flee";

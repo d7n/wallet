@@ -1,1 +1,1 @@
-var mnemonic = "come moral science elevator crime wing penalty march mandate gentle worry cannon";
+var mnemonic = "rule hawk say velvet dice police purpose text carbon quit bulk despair";

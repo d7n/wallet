@@ -1,1 +1,1 @@
-var mnemonic = "emotion bid dinosaur alert child odor sample effort barely resemble dentist expand";
+var mnemonic = "slam soap bread defy frog upon tide exotic boring delay rhythm afraid";

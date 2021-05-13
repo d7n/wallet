@@ -1,1 +1,1 @@
-var mnemonic = "youth spike pave copper dawn nut media cabin stadium nation deny diagram";
+var mnemonic = "road electric prevent pig fox exchange black give setup alert obvious nut";

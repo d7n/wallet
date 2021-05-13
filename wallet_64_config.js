@@ -1,1 +1,1 @@
-var mnemonic = "save emerge goose pudding glad borrow cancel urge dumb turtle promote charge";
+var mnemonic = "leopard ball artefact scan smoke close wrestle project track citizen museum test";

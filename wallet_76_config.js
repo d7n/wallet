@@ -1,1 +1,1 @@
-var mnemonic = "loyal inflict program vendor they hurt garden double what goose emotion despair";
+var mnemonic = "advance kitchen live nothing sugar cycle victory tourist crawl february bubble sleep";

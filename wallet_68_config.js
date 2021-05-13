@@ -1,1 +1,1 @@
-var mnemonic = "finish idle damp roast trigger eternal garden proof stand deputy history own";
+var mnemonic = "concert tide sweet visit pretty banner cloth clinic aerobic web crunch walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "ride gym sick into shiver pupil stairs fever brave warm child similar";
+var mnemonic = "someone evoke sound city dust use pond intact patrol defense album park";

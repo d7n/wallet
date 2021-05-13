@@ -1,1 +1,1 @@
-var mnemonic = "circle bus jump actress away chuckle object butter cat snake tent kingdom";
+var mnemonic = "bind digital myth shoulder alien strong dinosaur exist journey surround media luxury";

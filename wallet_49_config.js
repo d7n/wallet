@@ -1,1 +1,1 @@
-var mnemonic = "state card dress expire ill script shy able joke place little weird";
+var mnemonic = "meat wrong orphan planet intact crawl useless gift shuffle parent world sausage";

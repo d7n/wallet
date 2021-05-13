@@ -1,1 +1,1 @@
-var mnemonic = "picture suspect program text squirrel embrace cricket credit scene close invest lens";
+var mnemonic = "file object inch scrub undo gaze ghost plug front gate exact mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "industry pet ripple horror order bounce floor smoke orphan assault party harsh";
+var mnemonic = "sudden dolphin ridge make alcohol daring roof loop describe pupil enhance lock";

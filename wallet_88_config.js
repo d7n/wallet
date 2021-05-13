@@ -1,1 +1,1 @@
-var mnemonic = "amazing give list unfold busy potato orbit office garment fog scheme screen";
+var mnemonic = "trial normal success fluid slot aim legend pledge category winter audit bread";

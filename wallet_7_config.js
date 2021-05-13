@@ -1,1 +1,1 @@
-var mnemonic = "segment kid olive shy group spike soup dragon weasel embrace pitch between";
+var mnemonic = "rabbit zone next forward inmate clinic solar away weather scene dwarf able";

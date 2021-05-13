@@ -1,1 +1,1 @@
-var mnemonic = "vital beyond mean future put gift arrow glove oppose again seek decrease";
+var mnemonic = "cat vicious hood ghost emerge blame menu setup foam clog vacant lion";

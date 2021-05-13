@@ -1,1 +1,1 @@
-var mnemonic = "ghost right toilet rent beyond metal sphere burger edge grow layer model";
+var mnemonic = "venture ankle tool ethics cousin combine tube neither rapid urban unusual outdoor";

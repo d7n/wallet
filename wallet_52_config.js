@@ -1,1 +1,1 @@
-var mnemonic = "vibrant scan jazz suffer plug vocal volcano sadness blast frog vessel seek";
+var mnemonic = "ill recycle thrive recipe appear warm element ignore tuna road pluck update";

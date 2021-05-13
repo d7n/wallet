@@ -1,1 +1,1 @@
-var mnemonic = "there cargo burger leave pluck empty two phrase increase cinnamon merry tattoo";
+var mnemonic = "woman album dragon prize practice october donkey good short tree camera equip";

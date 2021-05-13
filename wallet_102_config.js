@@ -1,1 +1,1 @@
-var mnemonic = "siren execute atom man clog crouch book current finish grid lunar original";
+var mnemonic = "what father silk still across chaos stairs unveil digital onion rule liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "chef soft kidney cousin game vivid warm liquid wedding rich film reopen";
+var mnemonic = "transfer example stage hard crash suffer what aerobic project horse civil sing";

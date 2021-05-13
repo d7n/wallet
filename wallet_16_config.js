@@ -1,1 +1,1 @@
-var mnemonic = "extra refuse dynamic possible demand ask recycle east banana note assume sword";
+var mnemonic = "fence wish fun time vehicle announce wrong please model bargain enough grab";

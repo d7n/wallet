@@ -1,1 +1,1 @@
-var mnemonic = "sail feed second evidence mansion federal judge worry believe mechanic monitor never";
+var mnemonic = "mistake burden arctic outer bind sting sure romance actor ticket life clarify";

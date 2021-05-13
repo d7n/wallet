@@ -1,1 +1,1 @@
-var mnemonic = "where ice gold loyal helmet upgrade satisfy ring range zebra cotton amateur";
+var mnemonic = "owner process relief hidden transfer claim multiply guilt expect flat gravity citizen";

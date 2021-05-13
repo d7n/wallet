@@ -1,1 +1,1 @@
-var mnemonic = "raise post lunar swing liberty moral remember diesel fetch clinic visual two";
+var mnemonic = "country design tank bean armed gate security core radar magic usual memory";

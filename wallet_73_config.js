@@ -1,1 +1,1 @@
-var mnemonic = "torch seat miracle legend raccoon wrist tomorrow lamp below sting ritual used";
+var mnemonic = "grid wrist list length around engine accident tomorrow glare segment master fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "melt buffalo pause uncle disagree combine monkey biology enjoy extra trust panic";
+var mnemonic = "cage rather trust two chimney similar perfect soon scan gesture zebra river";

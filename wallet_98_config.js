@@ -1,1 +1,1 @@
-var mnemonic = "waste between nest trophy cheap kangaroo must margin miss camp income talent";
+var mnemonic = "shadow visit merit weasel valley impose sorry series during lottery online stem";

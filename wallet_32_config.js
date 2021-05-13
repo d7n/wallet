@@ -1,1 +1,1 @@
-var mnemonic = "exhaust dwarf receive program seven beef birth cannon invest bean east play";
+var mnemonic = "enable august blood heart twenty fun enjoy suggest phone lava inform fade";

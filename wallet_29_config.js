@@ -1,1 +1,1 @@
-var mnemonic = "ceiling donate cross blade motor risk bean dinosaur tone avocado again holiday";
+var mnemonic = "nothing improve focus team faculty youth salon gold toy thunder outside arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "february wrong exclude copper argue dove priority episode orient select desert castle";
+var mnemonic = "neglect excuse skin tip crane soup staff thrive mammal history bleak cause";

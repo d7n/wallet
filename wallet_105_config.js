@@ -1,1 +1,1 @@
-var mnemonic = "need focus toe auction joy sad target proud flower team beyond century";
+var mnemonic = "word bracket snow burst exile appear soap sketch peanut author kite sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "check sudden body peanut link rebuild resist spend issue badge expect expose";
+var mnemonic = "pottery poet excess enjoy witness employ lava regret silk walnut wrist relief";

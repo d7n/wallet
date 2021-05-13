@@ -1,1 +1,1 @@
-var mnemonic = "panel vehicle shiver history genius useful elder flag various outside hard advice";
+var mnemonic = "spring main ask oil board bounce resist body glow garment apple prevent";

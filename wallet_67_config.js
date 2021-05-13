@@ -1,1 +1,1 @@
-var mnemonic = "air kind cross year poverty curious carry betray ivory trust win talk";
+var mnemonic = "toilet slight cotton fabric pull rival pizza retreat carbon warfare census cat";

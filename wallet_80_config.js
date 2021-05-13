@@ -1,1 +1,1 @@
-var mnemonic = "orange field swing field slogan bundle spring oblige this hover true sign";
+var mnemonic = "fatal uphold awkward leisure hold flame also produce argue feature habit wrong";

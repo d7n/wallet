@@ -1,1 +1,1 @@
-var mnemonic = "mimic swear gentle figure shuffle stereo bar scissors beef unit cluster point";
+var mnemonic = "limb letter sudden infant art fine jewel moment exclude hobby shy sand";

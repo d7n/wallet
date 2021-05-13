@@ -1,1 +1,1 @@
-var mnemonic = "tooth amazing abandon stereo they dinosaur toe piano outside stairs iron gap";
+var mnemonic = "town manage term delay milk enjoy foam try miss soul repair ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "lift immune permit family detail awake narrow amount helmet air orient clog";
+var mnemonic = "carpet undo park option act celery crumble usual shallow soft liar upset";

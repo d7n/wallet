@@ -1,1 +1,1 @@
-var mnemonic = "middle tray trigger repeat reject way garage risk route suspect anchor winner";
+var mnemonic = "mango forward naive spawn canoe maid delay banana twelve giggle lumber exhibit";

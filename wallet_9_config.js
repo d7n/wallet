@@ -1,1 +1,1 @@
-var mnemonic = "say pool accuse chalk valve goddess shrug race dinner bonus leave pet";
+var mnemonic = "kiss decide deposit million state pool fox patch garden guitar chair license";

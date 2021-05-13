@@ -1,1 +1,1 @@
-var mnemonic = "sauce display planet erupt motor ketchup cushion chief news salad unique grid";
+var mnemonic = "steak rebel extend brain daring frequent drama acoustic cat jeans buyer keen";

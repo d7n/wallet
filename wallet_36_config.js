@@ -1,1 +1,1 @@
-var mnemonic = "birth intact awkward orient science mom primary section key usual critic orient";
+var mnemonic = "aisle expose usual submit another soap connect eight exclude punch sting foam";

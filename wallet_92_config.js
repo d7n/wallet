@@ -1,1 +1,1 @@
-var mnemonic = "surround blood romance shrimp abandon use snow recall pilot ensure urge reason";
+var mnemonic = "fee divide public budget large crouch eye cement reject lawsuit call various";

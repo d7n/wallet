@@ -1,1 +1,1 @@
-var mnemonic = "day concert oyster crawl drum outdoor possible milk supreme disagree improve sea";
+var mnemonic = "leader scare innocent suspect busy scale moral unknown three chest harvest citizen";

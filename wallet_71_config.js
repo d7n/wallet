@@ -1,1 +1,1 @@
-var mnemonic = "welcome venue green arch despair boss physical plunge antenna never violin toilet";
+var mnemonic = "heart island glory engine subway dumb asthma guard turkey cake problem arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "palace sell question deer candy skirt cream script hedgehog govern add improve";
+var mnemonic = "blossom fatal moral gentle rich story upper depth brief wife wine tackle";

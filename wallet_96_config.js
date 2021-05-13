@@ -1,1 +1,1 @@
-var mnemonic = "timber cat key magnet begin soup city junk limb drastic tent hurry";
+var mnemonic = "celery offer essay local sort bronze razor casual phone neither rough impact";

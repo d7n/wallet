@@ -1,1 +1,1 @@
-var mnemonic = "ancient budget want stove case bird bird chicken any custom smoke master";
+var mnemonic = "nothing wreck film snap venue bottom mutual sing deputy jump frog pepper";

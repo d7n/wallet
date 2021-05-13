@@ -1,1 +1,1 @@
-var mnemonic = "pact zone shoot region try siege pass notable initial tail virus crucial";
+var mnemonic = "enact inner loan rail enter observe enact define frozen syrup kiss tilt";

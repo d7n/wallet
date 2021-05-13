@@ -1,1 +1,1 @@
-var mnemonic = "between circle scene flame grit congress leader perfect clump page impulse hair";
+var mnemonic = "injury amused bargain you license bleak foster between ivory pizza fly spray";

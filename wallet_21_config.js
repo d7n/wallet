@@ -1,1 +1,1 @@
-var mnemonic = "begin excite effort gauge silk lake print inquiry tomorrow talk glow open";
+var mnemonic = "panel maximum window congress race gossip become enable canal town spare impose";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble stool device boost bamboo elegant clever clump pole token shed certain";
+var mnemonic = "accuse stone process away lumber swap primary because silly hockey opera powder";

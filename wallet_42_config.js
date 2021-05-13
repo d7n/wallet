@@ -1,1 +1,1 @@
-var mnemonic = "multiply guide vault demise kite hawk forward lumber oven tonight pause lobster";
+var mnemonic = "hawk use color habit south knock glide smoke exhaust bean very endless";

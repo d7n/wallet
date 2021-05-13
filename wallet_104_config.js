@@ -1,1 +1,1 @@
-var mnemonic = "culture crack boat sample repair abstract village among dolphin degree chapter cancel";
+var mnemonic = "stable drive extend scout media stock method question topic already phone entire";

@@ -1,1 +1,1 @@
-var mnemonic = "tank history comfort spare nest few blouse joy like stand puppy mango";
+var mnemonic = "donor dismiss knee fashion palm rice upset vibrant dove layer olive perfect";

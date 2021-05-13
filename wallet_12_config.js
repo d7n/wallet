@@ -1,1 +1,1 @@
-var mnemonic = "impulse access great crunch city hurt guitar myth adjust smoke whip radar";
+var mnemonic = "online disagree allow achieve cupboard short dragon bring plug mercy eager vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "maze candy misery hollow scrub parrot dream process such milk nuclear sponsor";
+var mnemonic = "imitate movie affair version layer magnet tilt chat leave flip tray man";

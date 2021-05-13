@@ -1,1 +1,1 @@
-var mnemonic = "mansion vault cattle lyrics own strong club leg senior olive brush poet";
+var mnemonic = "raise spot gesture endorse mixed utility joy repair glimpse bubble enable boring";

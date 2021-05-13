@@ -1,1 +1,1 @@
-var mnemonic = "apart grain sunny exhibit enter price prevent inform canyon chicken unit fork";
+var mnemonic = "receive direct move rubber agree culture vivid amused cigar fluid cluster task";

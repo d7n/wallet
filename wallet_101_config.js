@@ -1,1 +1,1 @@
-var mnemonic = "beach awake neglect true bone wagon isolate unlock inject evil pass common";
+var mnemonic = "crop emotion neglect catch tourist crisp outer junk true hard list bench";

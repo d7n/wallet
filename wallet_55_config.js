@@ -1,1 +1,1 @@
-var mnemonic = "across custom length estate mouse siege mystery body install bulk innocent ramp";
+var mnemonic = "bottom old armed margin slide flat royal term palace cash dice glance";

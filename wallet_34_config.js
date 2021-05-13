@@ -1,1 +1,1 @@
-var mnemonic = "tank endorse kind rack monitor human say category assist balance casual fringe";
+var mnemonic = "pottery track bar denial palace trim child rebuild custom drive radio hurdle";

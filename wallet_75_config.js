@@ -1,1 +1,1 @@
-var mnemonic = "disease machine loyal oxygen reject lift oblige edge army bicycle cactus force";
+var mnemonic = "panel shrimp jump room capable play catalog swallow awesome gate retire noble";

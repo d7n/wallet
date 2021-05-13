@@ -1,1 +1,1 @@
-var mnemonic = "travel release impose hub cousin smoke cattle unit skirt dial system page";
+var mnemonic = "box garbage talent wreck meadow omit view fee dog ceiling coffee word";

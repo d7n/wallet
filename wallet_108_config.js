@@ -1,1 +1,1 @@
-var mnemonic = "combine ivory cloth office pill shrug ancient bamboo marble sniff cactus myth";
+var mnemonic = "win grow clip sock general unfold tuition coil devote cycle insect exist";

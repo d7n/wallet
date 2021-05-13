@@ -1,1 +1,1 @@
-var mnemonic = "comfort gaze three rookie piece welcome genuine mandate gas animal panic sadness";
+var mnemonic = "much corn valid account finger witness into aunt infant economy open shuffle";

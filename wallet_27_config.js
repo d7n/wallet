@@ -1,1 +1,1 @@
-var mnemonic = "speak link deny web obscure era enrich album auto wrist frost acquire";
+var mnemonic = "attitude craft tide end float vast spray bounce hollow mad toddler math";

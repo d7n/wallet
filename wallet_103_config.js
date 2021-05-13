@@ -1,1 +1,1 @@
-var mnemonic = "section side carry need decade dust text scare recycle text scene index";
+var mnemonic = "essay entry seven moral tree sun person much faith jump illness reopen";

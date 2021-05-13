@@ -1,1 +1,1 @@
-var mnemonic = "chimney hamster chase neglect manual route produce maid hungry join acquire say";
+var mnemonic = "shiver rib ice reunion tuna grocery course design silent glow pave range";

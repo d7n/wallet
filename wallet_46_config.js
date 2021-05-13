@@ -1,1 +1,1 @@
-var mnemonic = "capable auction brush that report damp game staff exact zebra visa skirt";
+var mnemonic = "almost bicycle creek caught rice hint derive nice view mechanic indicate exit";

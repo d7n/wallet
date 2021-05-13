@@ -1,1 +1,1 @@
-var mnemonic = "wheel robot rebuild perfect unknown mass scrub snap evolve void boat photo";
+var mnemonic = "protect guilt expect attack spin much can elder tumble cover cradle delay";

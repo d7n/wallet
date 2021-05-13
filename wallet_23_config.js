@@ -1,1 +1,1 @@
-var mnemonic = "city interest toast game crucial shadow evil enough what tilt cradle stem";
+var mnemonic = "buyer quick mosquito walnut open client twist catch plate breeze differ sniff";

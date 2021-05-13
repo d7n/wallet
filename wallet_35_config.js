@@ -1,1 +1,1 @@
-var mnemonic = "phrase pupil neutral illegal calm urge real you expose airport piece drama";
+var mnemonic = "present sausage ordinary shy desk mammal maid rifle doll police vibrant tuna";

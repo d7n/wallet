@@ -1,1 +1,1 @@
-var mnemonic = "surge number certain mouse such found dry net voice toast quarter capital";
+var mnemonic = "price zoo minute ripple carry alley avoid obey art expose tunnel goddess";
