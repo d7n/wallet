@@ -1,1 +1,1 @@
-var mnemonic = "major winter hill letter tell become indoor top excess hint catch educate";
+var mnemonic = "merge foster chef science perfect decorate cool gas movie general wheel riot";

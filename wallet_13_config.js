@@ -1,1 +1,1 @@
-var mnemonic = "forget swim side develop diagram sand wife day scrap spoon repair clog";
+var mnemonic = "exhibit salad curious pen city sheriff pulse insect random sauce void then";

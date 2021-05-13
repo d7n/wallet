@@ -1,1 +1,1 @@
-var mnemonic = "power tank world tail symbol water mixture sleep paddle letter fade pudding";
+var mnemonic = "spirit gift twist galaxy trim faint polar student bird raven side museum";

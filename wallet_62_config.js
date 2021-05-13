@@ -1,1 +1,1 @@
-var mnemonic = "solar trim boss carbon scout fall kit cloth assault useless lunar toe";
+var mnemonic = "mask need noise rescue scrap canal crisp misery zoo comic supply pelican";

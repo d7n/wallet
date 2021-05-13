@@ -1,1 +1,1 @@
-var mnemonic = "glue yard rice top narrow road slot cave canal unfair flower sudden";
+var mnemonic = "now wait define bulb stem glimpse skirt cargo glove pill avoid flag";

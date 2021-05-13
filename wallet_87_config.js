@@ -1,1 +1,1 @@
-var mnemonic = "ranch bubble eye moment abuse envelope rabbit slide daring climb field valley";
+var mnemonic = "neglect season market hill seek element torch staff sort mistake swarm later";

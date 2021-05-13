@@ -1,1 +1,1 @@
-var mnemonic = "thank gate liberty solution diet frozen reduce adjust curve speed load where";
+var mnemonic = "mail tongue prepare cash boil seek theme error valley cradle brief brother";

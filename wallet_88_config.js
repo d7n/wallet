@@ -1,1 +1,1 @@
-var mnemonic = "list answer hungry real draw brain wonder kick rapid october police motor";
+var mnemonic = "resemble glass chunk hidden index session knife minor potato follow hamster volume";

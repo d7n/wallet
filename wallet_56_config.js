@@ -1,1 +1,1 @@
-var mnemonic = "laptop discover carry come climb pelican live sing amateur arch such moment";
+var mnemonic = "bid bulb ketchup grocery orient dutch ancient hundred where vocal tooth floor";

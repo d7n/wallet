@@ -1,1 +1,1 @@
-var mnemonic = "hockey suspect title tennis perfect round eternal scrap neither decorate crowd talk";
+var mnemonic = "blast pelican swear cloud castle wild much reform angle crisp sniff ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar boy oval wine pulp enact render enough skill rug weather wheel";
+var mnemonic = "major park fancy stool gown margin tortoise soldier square high actor hotel";

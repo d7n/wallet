@@ -1,1 +1,1 @@
-var mnemonic = "author suit swarm over pistol protect artist blanket marriage brand industry absent";
+var mnemonic = "stadium enhance mind among utility jacket betray safe mad exhibit unlock potato";

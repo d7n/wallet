@@ -1,1 +1,1 @@
-var mnemonic = "render brick admit hair flavor august arch walnut submit tiny august funny";
+var mnemonic = "poverty eight brother morning unveil wage cluster cover miss isolate beyond social";

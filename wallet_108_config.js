@@ -1,1 +1,1 @@
-var mnemonic = "funny valve merry maximum aerobic fetch thumb success outdoor wash market expire";
+var mnemonic = "rubber segment similar pet only unable method small nasty leopard dilemma unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "large ceiling rookie minute about confirm pottery update topple inflict banana girl";
+var mnemonic = "develop eternal trim jump evoke rebuild banana oval fog card tell offer";

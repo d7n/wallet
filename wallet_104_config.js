@@ -1,1 +1,1 @@
-var mnemonic = "copy six bounce trial safe else canal throw learn insane wreck arrow";
+var mnemonic = "worth eyebrow kite cycle wash conduct young wire close machine anxiety fire";

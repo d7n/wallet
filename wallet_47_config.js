@@ -1,1 +1,1 @@
-var mnemonic = "year enjoy segment grace mirror awesome basic stay try cancel sting lens";
+var mnemonic = "mercy calm praise say million steak neither artwork solar nephew island expire";

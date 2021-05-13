@@ -1,1 +1,1 @@
-var mnemonic = "victory yard fee apart world mask economy model hospital loop motion that";
+var mnemonic = "grief demise burst canoe fix garlic orphan future seek upper cricket essence";

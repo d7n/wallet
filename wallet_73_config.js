@@ -1,1 +1,1 @@
-var mnemonic = "true venture crack throw mother crumble better crawl swap gallery face essay";
+var mnemonic = "humble panther waste silent scorpion net lawsuit ritual team height beyond any";

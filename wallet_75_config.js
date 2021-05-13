@@ -1,1 +1,1 @@
-var mnemonic = "vessel abuse advance add job cry note rural swap original divert boss";
+var mnemonic = "indicate say fame puzzle tomato grace season twice produce indoor roast degree";

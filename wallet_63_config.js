@@ -1,1 +1,1 @@
-var mnemonic = "surge spider budget erupt cabbage orphan weapon can that garment fetch zoo";
+var mnemonic = "earth elevator scene close input dumb claw salt indoor dragon picnic multiply";

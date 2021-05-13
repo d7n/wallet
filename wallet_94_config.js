@@ -1,1 +1,1 @@
-var mnemonic = "reopen pig call bag brown tenant tree install timber school polar ensure";
+var mnemonic = "pyramid tunnel lava bounce crunch budget load lounge ready doctor thunder venue";

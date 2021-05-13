@@ -1,1 +1,1 @@
-var mnemonic = "manage broken truck evoke know lens bulk decide exchange lift rebel where";
+var mnemonic = "evidence flat walnut stage oppose pupil glare flower inquiry noble useful insane";

@@ -1,1 +1,1 @@
-var mnemonic = "trick convince expose thunder jewel hawk cute sport hint dentist wide december";
+var mnemonic = "shoot fortune remain oblige member tone layer grid actress wave oyster once";

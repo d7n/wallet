@@ -1,1 +1,1 @@
-var mnemonic = "convince lava please wife talent parade peasant say wealth toe month mix";
+var mnemonic = "craft twenty hamster call trim wagon spin walk grant you globe major";

@@ -1,1 +1,1 @@
-var mnemonic = "expect slam column expand stage later inch supreme into purse anchor jungle";
+var mnemonic = "icon paddle share accuse double speed hobby wish oyster lawsuit stool lock";

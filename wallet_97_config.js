@@ -1,1 +1,1 @@
-var mnemonic = "cluster impulse clean process simple sponsor service about setup bring home symbol";
+var mnemonic = "indicate project write dove student match hero audit shove buffalo turn embark";

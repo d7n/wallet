@@ -1,1 +1,1 @@
-var mnemonic = "search finger hen arctic dolphin giant shadow online essence faculty middle there";
+var mnemonic = "member credit smoke swarm raw virtual tattoo like joy harbor panic night";

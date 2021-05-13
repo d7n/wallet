@@ -1,1 +1,1 @@
-var mnemonic = "forward black pond lens spider pill chief bean away exist topic media";
+var mnemonic = "agree cricket infant remain patch garden desk cancel toss cat carbon cry";

@@ -1,1 +1,1 @@
-var mnemonic = "since tornado panic remain gown ancient either burger tired shrug walnut replace";
+var mnemonic = "bamboo sign jar gaze offer miss embark empty dynamic flame labor junior";

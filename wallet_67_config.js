@@ -1,1 +1,1 @@
-var mnemonic = "prize aspect body amount elder able decline age meadow drama sword wrap";
+var mnemonic = "portion donkey pulp invest dose gloom custom equip happy lucky win simple";

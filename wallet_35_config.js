@@ -1,1 +1,1 @@
-var mnemonic = "route suffer butter hidden alcohol segment fossil salad leopard veteran meadow hair";
+var mnemonic = "stay fade charge echo venue company junk host crane nation camera staff";

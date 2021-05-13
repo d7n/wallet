@@ -1,1 +1,1 @@
-var mnemonic = "chase arm quote satoshi brick moral blush baby churn infant security whip";
+var mnemonic = "enable toddler sister truck crop toss visual trend suffer exist bracket tissue";

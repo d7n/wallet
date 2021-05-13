@@ -1,1 +1,1 @@
-var mnemonic = "easy misery vital pluck inhale merit noble burden typical evoke stone whip";
+var mnemonic = "flee peace laugh sport crop pair release exist comfort tray ribbon simple";

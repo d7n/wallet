@@ -1,1 +1,1 @@
-var mnemonic = "entire napkin degree cargo satisfy theme vault young humor danger dune focus";
+var mnemonic = "table exact gather obey unknown tag pave blanket mansion ordinary margin main";

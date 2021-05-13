@@ -1,1 +1,1 @@
-var mnemonic = "solid lumber faint foam hero island unit boat busy only palm obey";
+var mnemonic = "drastic wall edge dust hazard moment such resource trim sheriff window local";

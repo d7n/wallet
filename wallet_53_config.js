@@ -1,1 +1,1 @@
-var mnemonic = "floor elder grow gauge useful confirm tonight erosion adjust ticket worry library";
+var mnemonic = "key ginger bounce confirm fun erase mercy praise mask escape tourist check";

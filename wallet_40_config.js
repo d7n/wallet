@@ -1,1 +1,1 @@
-var mnemonic = "rate game useless mutual middle elegant deposit fork east also kite steak";
+var mnemonic = "crumble major tray price gloom spin salute penalty shoe reject bless naive";

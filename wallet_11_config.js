@@ -1,1 +1,1 @@
-var mnemonic = "thing noble helmet build wave tumble bargain gauge evidence tortoise enforce duty";
+var mnemonic = "phone symptom drill alpha fix brave domain elegant replace cover attend defy";

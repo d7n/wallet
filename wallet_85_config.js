@@ -1,1 +1,1 @@
-var mnemonic = "erosion upon helmet crucial account chuckle inject melody sting panda culture stove";
+var mnemonic = "joy input invest dash snake kidney rebuild rubber teach screen cradle mountain";

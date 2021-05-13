@@ -1,1 +1,1 @@
-var mnemonic = "treat sense knock attack auction torch rigid excess oven impose lounge edge";
+var mnemonic = "dust analyst metal silver guide rude avocado domain catch shallow simple emotion";

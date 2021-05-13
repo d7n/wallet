@@ -1,1 +1,1 @@
-var mnemonic = "danger bar build certain human shrug snap smoke athlete fox athlete panic";
+var mnemonic = "gravity approve audit world setup victory grant ozone garment guilt survey embrace";

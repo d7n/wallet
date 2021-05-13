@@ -1,1 +1,1 @@
-var mnemonic = "cook biology select stool usage cable junior present hammer pear sunset mandate";
+var mnemonic = "season screen amazing enough fatigue jelly hidden sign edit purpose relief between";

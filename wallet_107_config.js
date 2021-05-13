@@ -1,1 +1,1 @@
-var mnemonic = "hand vapor shrug have broom ramp essence hood other diary tissue dune";
+var mnemonic = "punch improve wrong area craft resource mechanic worth marble flock collect tooth";

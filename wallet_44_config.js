@@ -1,1 +1,1 @@
-var mnemonic = "fame ribbon paddle nature ivory vanish decline garden fame volume desk squeeze";
+var mnemonic = "refuse latin treat mail fluid entire around enable point cable pink inmate";

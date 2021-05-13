@@ -1,1 +1,1 @@
-var mnemonic = "common weird win eager owner keen total dose torch actor sad valve";
+var mnemonic = "hire fan mother notable dilemma comic step bread gaze rude gorilla what";

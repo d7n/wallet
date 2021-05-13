@@ -1,1 +1,1 @@
-var mnemonic = "rabbit steak health space ability tornado rapid flash work entire suspect impulse";
+var mnemonic = "brown negative snap fuel youth damage opera decline drift debris improve into";

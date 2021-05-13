@@ -1,1 +1,1 @@
-var mnemonic = "shove garlic mixed target raise rescue skin vague put first remind exhaust";
+var mnemonic = "bachelor short autumn tent matrix bring diet achieve bronze web enemy inmate";

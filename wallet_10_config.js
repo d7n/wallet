@@ -1,1 +1,1 @@
-var mnemonic = "crumble type main unlock pull clog sad solid possible victory agent swim";
+var mnemonic = "soup goat business crack radio act earth guess cloud seek antenna draft";

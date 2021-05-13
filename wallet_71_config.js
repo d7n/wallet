@@ -1,1 +1,1 @@
-var mnemonic = "cactus board indoor divide crime only slow unit town budget expand refuse";
+var mnemonic = "shell luxury broken wreck multiply stereo transfer injury slush cause birth rival";

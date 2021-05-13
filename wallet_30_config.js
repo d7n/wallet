@@ -1,1 +1,1 @@
-var mnemonic = "stay border music dismiss fossil erupt cycle paddle hurdle say paddle like";
+var mnemonic = "film fold coconut oak glad frost horse evidence boy retire zebra accident";

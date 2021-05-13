@@ -1,1 +1,1 @@
-var mnemonic = "deputy slogan sight must dumb approve coin project tree exile access muscle";
+var mnemonic = "math spike sphere post mean tilt wedding brief snake test addict mass";

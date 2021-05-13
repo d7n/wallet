@@ -1,1 +1,1 @@
-var mnemonic = "mistake barrel side velvet share sibling gauge nest keep pass ability normal";
+var mnemonic = "undo human street mean radar avoid treat busy will monitor air jealous";

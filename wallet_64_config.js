@@ -1,1 +1,1 @@
-var mnemonic = "odor robust inspire tragic toddler company talk envelope hair deny emerge found";
+var mnemonic = "cloth response void dune hub country neglect utility attract provide polar lizard";

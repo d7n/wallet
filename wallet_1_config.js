@@ -1,1 +1,1 @@
-var mnemonic = "month radio file draw pool proud improve camera pig common orange start";
+var mnemonic = "sorry donor weird knee enough fiscal dream party alter during enable donor";

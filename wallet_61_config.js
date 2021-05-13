@@ -1,1 +1,1 @@
-var mnemonic = "thrive online firm beyond tide crack oven outdoor urge sister marriage butter";
+var mnemonic = "relax tower grant hat summer universe carry adult rookie creek gain spin";

@@ -1,1 +1,1 @@
-var mnemonic = "radar force dance sibling daughter try endorse guess sleep vague treat priority";
+var mnemonic = "art output hour hour zebra pretty error spoon soup brother palm reduce";

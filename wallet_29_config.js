@@ -1,1 +1,1 @@
-var mnemonic = "that spoon turkey female gossip supreme spirit fuel artwork offer zebra peace";
+var mnemonic = "hat electric east obtain truck worry system rely ride window camp estate";

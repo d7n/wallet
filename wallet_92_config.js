@@ -1,1 +1,1 @@
-var mnemonic = "license hurt fatal invest gallery major version hip west disagree either wire";
+var mnemonic = "box roast silver master useful success spirit image paper segment cart excess";

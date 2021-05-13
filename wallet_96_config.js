@@ -1,1 +1,1 @@
-var mnemonic = "arrest minimum joy clog deer mansion slender champion inflict attend name ask";
+var mnemonic = "stock benefit music cheap lens update trip undo useful dry chalk setup";

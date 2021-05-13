@@ -1,1 +1,1 @@
-var mnemonic = "bronze area mosquito sauce always hero exist void total daring steel sudden";
+var mnemonic = "subject luggage meadow rhythm grocery winter error ill bring canoe blade chuckle";

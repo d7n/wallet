@@ -1,1 +1,1 @@
-var mnemonic = "custom novel lucky network lunch mushroom cinnamon total answer trap enlist mesh";
+var mnemonic = "dream prosper inquiry since pole spoon margin able clown can random impose";

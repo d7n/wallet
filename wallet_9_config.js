@@ -1,1 +1,1 @@
-var mnemonic = "crouch flavor supreme crater detect equal muscle twenty steel symptom kite tornado";
+var mnemonic = "ugly nothing direct concert always cute sea boat regret deer junk wagon";

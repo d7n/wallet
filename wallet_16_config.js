@@ -1,1 +1,1 @@
-var mnemonic = "blame chunk december submit silly nature winter filter feel nice frame access";
+var mnemonic = "mimic forward mammal vicious dignity cabin cube pony dust infant enemy guitar";

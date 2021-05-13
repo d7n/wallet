@@ -1,1 +1,1 @@
-var mnemonic = "cage large coffee guess exchange moral wet coast guard rival alley dumb";
+var mnemonic = "gather keep relax very mom gym rain member comic science pole junior";

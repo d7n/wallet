@@ -1,1 +1,1 @@
-var mnemonic = "flight puzzle sight wealth donkey mercy require idle odor confirm leave cave";
+var mnemonic = "smile kitchen various audit equip pet hurry satoshi galaxy echo sauce obtain";

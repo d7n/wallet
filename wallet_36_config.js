@@ -1,1 +1,1 @@
-var mnemonic = "private tongue delay capital usual position green garbage envelope salt pattern where";
+var mnemonic = "goddess detail lawn total raccoon void spawn member silk cook churn captain";

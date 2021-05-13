@@ -1,1 +1,1 @@
-var mnemonic = "word version trip point hole detect bird body unaware hamster you case";
+var mnemonic = "action pig code ready submit yard dwarf keep velvet meadow draft world";

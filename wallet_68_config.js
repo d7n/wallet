@@ -1,1 +1,1 @@
-var mnemonic = "joy slender people close citizen brief tiny upper few crisp lady clinic";
+var mnemonic = "cliff day exotic uphold dwarf scorpion rotate grain town pole mule inherit";

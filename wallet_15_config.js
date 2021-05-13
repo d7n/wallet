@@ -1,1 +1,1 @@
-var mnemonic = "burst enable purpose stadium seed edge oxygen pear ribbon athlete flag parrot";
+var mnemonic = "gallery bunker swarm lottery wing brave resource west immune save also sword";

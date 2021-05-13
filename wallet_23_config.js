@@ -1,1 +1,1 @@
-var mnemonic = "cupboard wife potato poet century flush bonus mutual found else situate deputy";
+var mnemonic = "around claw flush mask turkey panda patrol accuse plunge negative suit exhibit";

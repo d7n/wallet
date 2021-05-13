@@ -1,1 +1,1 @@
-var mnemonic = "scrub lizard sweet gown inner inquiry exist name scrap animal drop account";
+var mnemonic = "key castle oak size pond craft easy wolf exit visual fuel tank";

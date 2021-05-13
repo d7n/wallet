@@ -1,1 +1,1 @@
-var mnemonic = "pudding rail detail nature fantasy spoil chuckle harbor resist shoe fringe stuff";
+var mnemonic = "foam lumber field bid agent welcome grunt illness wear cause deliver deal";

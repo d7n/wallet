@@ -1,1 +1,1 @@
-var mnemonic = "opera catch leopard stereo vacuum sense pulse suffer garment source giraffe scene";
+var mnemonic = "sort search coast clown disorder film ball true avocado swing title artist";

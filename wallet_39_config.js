@@ -1,1 +1,1 @@
-var mnemonic = "require shiver bacon joke demand basic wheat found butter message execute dilemma";
+var mnemonic = "sick crime debate erode pluck curtain estate small radio rug truth boss";

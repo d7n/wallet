@@ -1,1 +1,1 @@
-var mnemonic = "yellow source one spare express soon garage day follow enemy rival fox";
+var mnemonic = "average oblige essence retire spell question text desert wonder ugly snake huge";

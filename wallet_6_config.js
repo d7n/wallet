@@ -1,1 +1,1 @@
-var mnemonic = "citizen equip home bulk wrestle world figure smoke van adapt venture ridge";
+var mnemonic = "mixture attack layer knock wash clip eagle case wheat rebel wheat tip";

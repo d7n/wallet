@@ -1,1 +1,1 @@
-var mnemonic = "enough pass enjoy pride hazard amount staff wink farm evolve siren theory";
+var mnemonic = "able daring blame retire family culture cargo dumb use shiver strategy hope";

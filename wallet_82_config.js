@@ -1,1 +1,1 @@
-var mnemonic = "effort glimpse regret crime happy artist sleep liberty draw key pill knife";
+var mnemonic = "trial rare assume eternal manual stove marriage bracket cement balcony sport pigeon";

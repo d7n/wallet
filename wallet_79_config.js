@@ -1,1 +1,1 @@
-var mnemonic = "grain affair mercy cover increase total novel jewel lift useful unknown reform";
+var mnemonic = "spray fine virus prosper loop harsh awake clip inner urge hidden wild";

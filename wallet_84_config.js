@@ -1,1 +1,1 @@
-var mnemonic = "surge toy pilot mixed fit hobby bridge list prepare dragon wagon learn";
+var mnemonic = "elevator exit ship forget innocent silk fiber avocado daughter worth double design";

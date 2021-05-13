@@ -1,1 +1,1 @@
-var mnemonic = "differ follow tragic staff symptom dance shrug hip pottery summer jungle flock";
+var mnemonic = "taxi shrimp daring enact frown extend like weekend material bike mad clump";

@@ -1,1 +1,1 @@
-var mnemonic = "belt ramp north issue sword imitate air grunt gallery march inmate wire";
+var mnemonic = "aunt voice kiss army secret ritual bike enemy also cactus country volume";

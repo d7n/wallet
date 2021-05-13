@@ -1,1 +1,1 @@
-var mnemonic = "icon breeze kit razor avocado library smooth library intact summer flavor else";
+var mnemonic = "square census prevent tomato push current ribbon volume random size ice erosion";

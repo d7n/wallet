@@ -1,1 +1,1 @@
-var mnemonic = "attack jar gown burger electric mansion find unfold tissue bottom lawsuit service";
+var mnemonic = "focus pond invest nation just mean tongue elite artefact ten verb estate";
