@@ -1,1 +1,1 @@
-var mnemonic = "tongue volume album south school wool sister soft imitate wedding monitor movie";
+var mnemonic = "move deposit upon wet edit category earth brief taxi shiver volume tube";

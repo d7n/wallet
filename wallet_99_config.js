@@ -1,1 +1,1 @@
-var mnemonic = "broom gossip usual path total tray rescue tragic make true nest convince";
+var mnemonic = "midnight infant noise laptop main blossom aim easily surprise arrow sea remain";

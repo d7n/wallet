@@ -1,1 +1,1 @@
-var mnemonic = "citizen victory pear worth regret hidden slice smart mercy deer spoil neglect";
+var mnemonic = "spread aspect noodle slim crisp still buffalo innocent festival lecture equal rocket";

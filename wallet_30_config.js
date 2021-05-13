@@ -1,1 +1,1 @@
-var mnemonic = "doll media apology rocket member blur replace obvious shine opera casino keep";
+var mnemonic = "dentist smooth funny whip valid robot siren legal inflict coyote dry question";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify muffin relief key traffic whisper resemble pistol nuclear rate general jelly";
+var mnemonic = "advance jump oblige elephant year just electric teach naive final nut correct";

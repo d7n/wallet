@@ -1,1 +1,1 @@
-var mnemonic = "conduct large detect must assume inner flee fine knife struggle sing try";
+var mnemonic = "december puzzle cruise coil direct truth edge diesel stand happy canal skin";

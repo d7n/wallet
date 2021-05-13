@@ -1,1 +1,1 @@
-var mnemonic = "radar river method echo violin indicate execute region latin fabric cram pencil";
+var mnemonic = "identify ketchup undo list chat vague cover great cousin security sand forward";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat song hammer moral unfair puppy solution obtain portion nature alter town";
+var mnemonic = "way side aim rail emotion decline toast seed teach daughter shell that";

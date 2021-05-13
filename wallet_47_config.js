@@ -1,1 +1,1 @@
-var mnemonic = "ocean inquiry staff camera task verify price cereal carry carbon over lonely";
+var mnemonic = "car praise write egg unfold fork left word actress group history shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap armor because question wall demise infant sponsor dolphin scatter real price";
+var mnemonic = "escape cousin panic two peace toilet alarm party sea jar salad topple";

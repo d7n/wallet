@@ -1,1 +1,1 @@
-var mnemonic = "security amount grass mesh cousin oil atom craft typical derive circle prepare";
+var mnemonic = "then miss hotel all boy fold obtain label seven deputy cycle shoe";

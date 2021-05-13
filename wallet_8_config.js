@@ -1,1 +1,1 @@
-var mnemonic = "whale advance myth yellow flush elder dutch situate envelope close shock toe";
+var mnemonic = "credit jungle cake trophy replace drink tenant spend across undo tuition miss";

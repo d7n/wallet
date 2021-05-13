@@ -1,1 +1,1 @@
-var mnemonic = "physical aerobic next orient trend farm patch horn pig maple bring learn";
+var mnemonic = "switch lesson rescue chef faculty rate decade fall garden hello club argue";

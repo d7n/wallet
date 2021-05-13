@@ -1,1 +1,1 @@
-var mnemonic = "never hurdle emotion grit okay echo market into else jazz unfair lion";
+var mnemonic = "melody suggest bleak wheel lion fitness boil light chef race that north";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage lazy fat middle kitchen bird physical boat fortune toss three absent";
+var mnemonic = "please size miss humor engine poem usual teach swarm glide upset sugar";

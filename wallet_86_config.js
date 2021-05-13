@@ -1,1 +1,1 @@
-var mnemonic = "weird civil body glory hole charge front balance wealth truck slush quantum";
+var mnemonic = "holiday harbor impulse barrel swim canoe quality cute tortoise pill either verify";

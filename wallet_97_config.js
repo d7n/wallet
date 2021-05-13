@@ -1,1 +1,1 @@
-var mnemonic = "private wreck obey west ill apology upset miss knock program decline toy";
+var mnemonic = "give melody candy vacuum quarter kangaroo worry aim desert soon cactus depend";

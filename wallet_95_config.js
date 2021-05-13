@@ -1,1 +1,1 @@
-var mnemonic = "beef flash unknown box scrub car case yellow injury meat knife planet";
+var mnemonic = "fashion oxygen lock slide evoke zebra scheme choose rug cluster sample pipe";

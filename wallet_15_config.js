@@ -1,1 +1,1 @@
-var mnemonic = "art enemy manage about captain lucky primary jazz room enlist never earth";
+var mnemonic = "spend arctic hunt summer voyage crucial rotate harsh master critic type venue";

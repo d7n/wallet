@@ -1,1 +1,1 @@
-var mnemonic = "bright property mango unusual veteran term lumber cherry slice capital average sponsor";
+var mnemonic = "knock venture begin blind forest soul cage repeat erase depend subject visual";

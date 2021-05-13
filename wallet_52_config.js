@@ -1,1 +1,1 @@
-var mnemonic = "paper expire various scare student expand ostrich receive captain jar present horse";
+var mnemonic = "uncle benefit carpet style velvet depend purse crunch census key master parade";

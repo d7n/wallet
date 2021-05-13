@@ -1,1 +1,1 @@
-var mnemonic = "garage then absent lava topic super mutual leave under blame series cricket";
+var mnemonic = "wrap legend tenant trend awesome about black breeze benefit best swap tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter stem chaos glove process maid summer scare bean grain ill act";
+var mnemonic = "badge prevent talent dream pizza police clerk song rotate sudden topple judge";

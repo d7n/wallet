@@ -1,1 +1,1 @@
-var mnemonic = "certain hawk summer slot toddler hand smoke cruise idea tape mountain faith";
+var mnemonic = "muffin zebra animal meat oven illness innocent evolve robot cement tuna sound";

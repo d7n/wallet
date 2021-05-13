@@ -1,1 +1,1 @@
-var mnemonic = "million crowd fury dance song canvas one wild alpha unhappy push vivid";
+var mnemonic = "industry junk soul you chief other hotel patient canoe divert release wine";

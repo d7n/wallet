@@ -1,1 +1,1 @@
-var mnemonic = "siren dog capital runway resource render rotate february struggle mechanic ice total";
+var mnemonic = "palm junk alone system nuclear answer describe athlete please nature picture obey";

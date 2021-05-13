@@ -1,1 +1,1 @@
-var mnemonic = "attend skin vote silly drum sweet eight absent excite task boat tissue";
+var mnemonic = "truth paddle desert social young athlete any utility buddy salmon option cash";

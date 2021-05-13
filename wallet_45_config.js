@@ -1,1 +1,1 @@
-var mnemonic = "process ripple arch lake fall token license language midnight blossom often welcome";
+var mnemonic = "live sting utility young nothing settle fitness inhale resemble genius rule portion";

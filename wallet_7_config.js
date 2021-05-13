@@ -1,1 +1,1 @@
-var mnemonic = "sign off amazing reopen ugly above combine input hawk bid flame elegant";
+var mnemonic = "kick artist stay aunt sustain enlist sad plate cross second unique include";

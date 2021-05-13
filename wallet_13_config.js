@@ -1,1 +1,1 @@
-var mnemonic = "tribe topple armor ball element news arrest what valid raise bind unit";
+var mnemonic = "woman vapor flat ability park maid model conduct float december shock retreat";

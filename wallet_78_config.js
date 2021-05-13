@@ -1,1 +1,1 @@
-var mnemonic = "town balance unfair valley venture actual right session pitch public amazing athlete";
+var mnemonic = "all debris strike village obey use surface struggle saddle law fee model";

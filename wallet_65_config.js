@@ -1,1 +1,1 @@
-var mnemonic = "step someone maze truth essence possible parrot crime tone spawn dry move";
+var mnemonic = "lamp cereal tree lemon food picnic gravity frog smile camera shrug spin";

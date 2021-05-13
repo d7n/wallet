@@ -1,1 +1,1 @@
-var mnemonic = "gown teach cage tortoise matrix business later owner clump alpha roof figure";
+var mnemonic = "latin muscle coin radar abstract prison finger tank fish good left average";

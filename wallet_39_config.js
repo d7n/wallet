@@ -1,1 +1,1 @@
-var mnemonic = "push suggest until elder okay loop camera blossom glove patient index merry";
+var mnemonic = "stairs course talent fresh march glance toilet treat beauty priority start useless";

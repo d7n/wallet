@@ -1,1 +1,1 @@
-var mnemonic = "monster quarter range gravity ocean gaze beach scale expire detect engage risk";
+var mnemonic = "slim junk behind crystal fluid sea squeeze true genre view palm young";

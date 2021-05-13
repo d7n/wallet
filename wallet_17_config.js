@@ -1,1 +1,1 @@
-var mnemonic = "practice water load load attack switch swing wire peasant pipe example trouble";
+var mnemonic = "memory giggle thumb cream into hire zero bachelor glow empty wrist parrot";

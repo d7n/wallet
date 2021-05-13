@@ -1,1 +1,1 @@
-var mnemonic = "electric modify cabbage immense tower buddy syrup dream title sight mother twelve";
+var mnemonic = "gown ostrich remove doctor skate knock smoke vacuum joke praise nasty genius";

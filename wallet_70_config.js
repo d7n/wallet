@@ -1,1 +1,1 @@
-var mnemonic = "range protect prosper solid shield educate easy jazz wear two tool master";
+var mnemonic = "barely frost evoke rice tomorrow chapter lounge second hawk major fire example";

@@ -1,1 +1,1 @@
-var mnemonic = "girl pig lounge idea crane uphold predict carbon matter idea flag olympic";
+var mnemonic = "bag liberty action window differ buddy direct dice size roof pizza reopen";

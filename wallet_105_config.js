@@ -1,1 +1,1 @@
-var mnemonic = "aim catch boss clarify rescue excuse arch tumble problem stem card affair";
+var mnemonic = "clerk lake law coin crisp fox festival time great wreck ladder scheme";

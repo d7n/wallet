@@ -1,1 +1,1 @@
-var mnemonic = "win issue ritual barrel kangaroo more town silly sketch expand elegant steak";
+var mnemonic = "universe warm taste ignore drastic inject same abandon later mouse insane tiny";

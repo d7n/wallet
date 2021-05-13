@@ -1,1 +1,1 @@
-var mnemonic = "lottery please luxury clip chaos tree floor cabbage ocean tree like small";
+var mnemonic = "fetch circle sense assist asset drill plunge vital random artwork pride cupboard";

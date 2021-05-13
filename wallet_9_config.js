@@ -1,1 +1,1 @@
-var mnemonic = "give index oil analyst news under idle velvet ramp loan sell oxygen";
+var mnemonic = "title maid climb affair neck laptop copy cram busy doctor boss enemy";

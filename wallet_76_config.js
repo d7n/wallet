@@ -1,1 +1,1 @@
-var mnemonic = "scrub jewel visual stadium milk copper guide bounce bubble seat hard patient";
+var mnemonic = "frog tonight flower skill catch song velvet slide width shoe indoor seek";

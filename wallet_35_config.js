@@ -1,1 +1,1 @@
-var mnemonic = "involve citizen scale shock panther push deliver depend rough drift similar double";
+var mnemonic = "bitter swallow melt twelve dash still april code virus version dry robust";

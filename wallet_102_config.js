@@ -1,1 +1,1 @@
-var mnemonic = "armed laundry usage spread embody into october accident funny fiscal vanish balance";
+var mnemonic = "source replace melt section material wrap fever mixed squeeze situate tennis art";

@@ -1,1 +1,1 @@
-var mnemonic = "river enact nerve cost shiver boat clown pull quality accident they boil";
+var mnemonic = "pink sand same filter mandate legend candy either human panel curtain achieve";

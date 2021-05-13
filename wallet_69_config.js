@@ -1,1 +1,1 @@
-var mnemonic = "velvet carry problem steel dish frost despair inspire become snow witness satisfy";
+var mnemonic = "glance hurry section high tone father arena rain dress note blue husband";

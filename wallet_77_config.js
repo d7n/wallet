@@ -1,1 +1,1 @@
-var mnemonic = "still rookie mosquito empty dizzy memory bargain cute dinosaur pistol deny cover";
+var mnemonic = "dial aisle trip dad certain fat crash olive risk length year brick";

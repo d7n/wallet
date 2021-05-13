@@ -1,1 +1,1 @@
-var mnemonic = "always abuse soldier slow youth cereal mistake grant rug oval warrior twist";
+var mnemonic = "scrub faith shine maple script friend laugh immense service visit next monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe jar isolate heart female scorpion orbit trust vital regular object broom";
+var mnemonic = "property vintage long leader inmate trophy uniform dismiss replace price delay marble";

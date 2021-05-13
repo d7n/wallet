@@ -1,1 +1,1 @@
-var mnemonic = "eye razor vital tiny move case toe sustain inmate immense yard mango";
+var mnemonic = "possible soup purchase thought cable team awesome again liquid permit pumpkin silly";

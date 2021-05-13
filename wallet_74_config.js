@@ -1,1 +1,1 @@
-var mnemonic = "heavy have next before benefit enough humor ocean floor answer all vague";
+var mnemonic = "history warm stem diesel dry law paddle manage picture rib penalty myself";

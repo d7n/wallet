@@ -1,1 +1,1 @@
-var mnemonic = "wealth ticket enlist acoustic assist asthma absurd matter goose smoke nerve rhythm";
+var mnemonic = "air dog stairs supply suspect pipe legal bright wealth stadium gadget churn";

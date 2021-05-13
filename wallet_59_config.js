@@ -1,1 +1,1 @@
-var mnemonic = "foot grace distance pair nasty ladder about science hamster chair dragon gloom";
+var mnemonic = "move into frost various tower flat genuine income stool whisper click bargain";

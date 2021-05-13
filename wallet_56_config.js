@@ -1,1 +1,1 @@
-var mnemonic = "valid demise into spin portion general mixture crucial lemon liquid horror seek";
+var mnemonic = "erosion conduct hood solution brush what sentence elevator ostrich rib still monkey";

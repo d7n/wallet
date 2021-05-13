@@ -1,1 +1,1 @@
-var mnemonic = "captain public drink erase leave kitten worth shell wood frog gain quarter";
+var mnemonic = "rifle gentle arrive ride begin obtain leisure way smile pave vanish allow";

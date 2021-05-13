@@ -1,1 +1,1 @@
-var mnemonic = "uncover analyst shoe dizzy job cage idle ill art brave genre real";
+var mnemonic = "surface dog curve patrol label hair bike duty garlic fabric stuff hold";

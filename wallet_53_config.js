@@ -1,1 +1,1 @@
-var mnemonic = "digital task busy put scorpion special man siege camp people forest plunge";
+var mnemonic = "strike drill they talent parrot asthma dirt hover skate tube milk sure";

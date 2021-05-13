@@ -1,1 +1,1 @@
-var mnemonic = "burden brand kidney infant paper picnic old apple hawk tonight half jelly";
+var mnemonic = "habit few divorce icon motion dust verify muffin rather female ecology gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "rude guess transfer long describe mom capital entire swallow damage napkin daring";
+var mnemonic = "zero theme digital novel rival squeeze razor hungry tattoo perfect canvas talk";

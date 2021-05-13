@@ -1,1 +1,1 @@
-var mnemonic = "eye donate poverty ask little tortoise execute monkey dizzy abandon grain cat";
+var mnemonic = "situate swing fatal raise message label excite orange minor screen worth feed";

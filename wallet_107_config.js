@@ -1,1 +1,1 @@
-var mnemonic = "cart found pulse special dune agree open local tuition galaxy citizen educate";
+var mnemonic = "dilemma brick neglect zoo swift merit only dumb saddle winner lounge spread";

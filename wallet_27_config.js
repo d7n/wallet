@@ -1,1 +1,1 @@
-var mnemonic = "ceiling meadow depart novel have ethics make diet slim purse raw awful";
+var mnemonic = "member topple drink boss bullet foam rough main hope stay remind include";

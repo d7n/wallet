@@ -1,1 +1,1 @@
-var mnemonic = "swap save tourist bounce ostrich february team uphold mean notable motion person";
+var mnemonic = "invest wagon welcome minor abandon discover slab food imitate liquid improve number";

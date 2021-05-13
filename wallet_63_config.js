@@ -1,1 +1,1 @@
-var mnemonic = "struggle lava page garage ring order elevator crater coil monster bullet collect";
+var mnemonic = "enjoy age mule chronic excess range repair banner area south erase farm";

@@ -1,1 +1,1 @@
-var mnemonic = "fold sort fury point script margin comfort give cable bacon rubber harvest";
+var mnemonic = "culture around master strong fox fold turkey provide ivory boss claw obvious";

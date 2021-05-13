@@ -1,1 +1,1 @@
-var mnemonic = "advance mandate alter kit trash consider hawk accident glimpse seek senior fork";
+var mnemonic = "track horn remove uncover win about enact cute ripple skate jaguar tube";

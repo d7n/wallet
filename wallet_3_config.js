@@ -1,1 +1,1 @@
-var mnemonic = "volcano tree ride little wing teach arch settle gloom cream lonely primary";
+var mnemonic = "badge surround off style diagram soon poverty ocean absurd all demand toe";

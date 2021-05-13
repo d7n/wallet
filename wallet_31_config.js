@@ -1,1 +1,1 @@
-var mnemonic = "train asset recipe ask neck gadget maid child shuffle slush like faith";
+var mnemonic = "renew bracket depart current myth rare essay street genuine legend august cause";

@@ -1,1 +1,1 @@
-var mnemonic = "spy cram curtain daring begin top autumn farm rice enemy nasty dismiss";
+var mnemonic = "stem crouch stay cruel appear sausage gauge mention control milk pepper grass";

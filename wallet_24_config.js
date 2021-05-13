@@ -1,1 +1,1 @@
-var mnemonic = "solid twist present spend fever worth license best wrestle later speed core";
+var mnemonic = "dune nature photo time age subject wall cliff suggest this parade salute";

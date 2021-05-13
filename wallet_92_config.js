@@ -1,1 +1,1 @@
-var mnemonic = "upgrade acoustic great guilt because unhappy tomorrow three amount sugar badge uphold";
+var mnemonic = "swamp above collect design fury wolf weekend sing shuffle situate give kangaroo";

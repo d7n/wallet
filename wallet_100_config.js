@@ -1,1 +1,1 @@
-var mnemonic = "once exit inmate detail tuna badge sadness unique muffin rhythm ride divide";
+var mnemonic = "capital pizza wisdom tennis notice ocean sauce bulk bread vault one assault";

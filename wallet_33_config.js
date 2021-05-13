@@ -1,1 +1,1 @@
-var mnemonic = "detect tell lamp glue inquiry hero joy quit innocent spray globe area";
+var mnemonic = "salmon banner left pitch suffer school minute invite fade gorilla pond north";

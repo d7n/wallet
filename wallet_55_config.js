@@ -1,1 +1,1 @@
-var mnemonic = "survey entire sustain marble trade mosquito winter mouse grunt weird people fault";
+var mnemonic = "mule faint term suspect mule jelly travel mule exclude space icon oyster";

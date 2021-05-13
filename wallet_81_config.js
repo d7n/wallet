@@ -1,1 +1,1 @@
-var mnemonic = "surprise cement hungry witness tray skill hole thank group tomato disagree wrist";
+var mnemonic = "margin rug dutch radar clever solution risk weasel expect rifle rack couple";

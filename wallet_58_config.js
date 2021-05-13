@@ -1,1 +1,1 @@
-var mnemonic = "gloom divert absorb material arm below praise priority vicious shop razor orchard";
+var mnemonic = "boss used point fish domain wolf strong stairs dinosaur mobile inquiry guide";

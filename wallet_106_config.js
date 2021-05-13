@@ -1,1 +1,1 @@
-var mnemonic = "estate defense over fuel cream source space north conduct copper bamboo invest";
+var mnemonic = "baby soda route truth heavy rate result fantasy film bargain dizzy clean";

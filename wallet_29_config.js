@@ -1,1 +1,1 @@
-var mnemonic = "broken unusual dumb shadow slot stool pitch mechanic million barely bird advance";
+var mnemonic = "rose puppy scorpion explain arrow glance lava indoor holiday yellow trend artist";

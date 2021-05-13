@@ -1,1 +1,1 @@
-var mnemonic = "chimney slim record cluster capital relief cactus comic lizard pattern lunch grant";
+var mnemonic = "tail guitar develop tragic river forget verify brand behave praise nest cube";

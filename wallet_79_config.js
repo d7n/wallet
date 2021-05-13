@@ -1,1 +1,1 @@
-var mnemonic = "remove crime tiger circle paddle helmet still enlist door wedding tiger blanket";
+var mnemonic = "potato shed cause begin remember royal exchange turtle choice angry magnet neither";

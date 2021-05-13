@@ -1,1 +1,1 @@
-var mnemonic = "fault broccoli special resist acid lottery arrange habit pyramid any smile artwork";
+var mnemonic = "execute front hill evolve glimpse vocal ice plastic income false plunge lock";

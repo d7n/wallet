@@ -1,1 +1,1 @@
-var mnemonic = "child deal style hobby picture misery little lake message submit seven grab";
+var mnemonic = "deer labor reopen excuse camp asthma ribbon fame buffalo illegal select impact";

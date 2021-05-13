@@ -1,1 +1,1 @@
-var mnemonic = "toe ball street capital advance space private regular butter fun cute shine";
+var mnemonic = "time clinic again light antenna move library dolphin miss hammer evidence identify";

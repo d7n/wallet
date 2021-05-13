@@ -1,1 +1,1 @@
-var mnemonic = "above silk fuel parrot impulse uncle patient please rally head hold romance";
+var mnemonic = "rubber era profit under auto ivory paper foster absorb drastic hobby history";

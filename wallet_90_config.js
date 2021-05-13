@@ -1,1 +1,1 @@
-var mnemonic = "moral curtain effort catalog tribe divert apart green swing bike claw kitchen";
+var mnemonic = "disorder fade believe truck enjoy ill country together kiss mention system divorce";
