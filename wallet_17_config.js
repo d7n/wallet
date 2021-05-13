@@ -1,1 +1,1 @@
-var mnemonic = "hurry assume predict involve jump involve before chaos eager shield truck call";
+var mnemonic = "rude guide unlock oval ask mask place artwork praise idea spy luggage";

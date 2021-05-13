@@ -1,1 +1,1 @@
-var mnemonic = "depart near shaft siege chef web rug mail unaware side face broccoli";
+var mnemonic = "theory eternal gain shove ladder genuine hover cram health accuse mountain fatigue";

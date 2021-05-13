@@ -1,1 +1,1 @@
-var mnemonic = "record olympic fan issue mom learn choose anxiety credit carbon brass lecture";
+var mnemonic = "stadium great keen disease feel already pilot absorb wife december foam cave";

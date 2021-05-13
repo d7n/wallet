@@ -1,1 +1,1 @@
-var mnemonic = "warm media layer vacuum cinnamon flower voice invest pull basic coast prize";
+var mnemonic = "slam student sweet label just forum exit primary robot possible offer hamster";

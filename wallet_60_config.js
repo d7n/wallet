@@ -1,1 +1,1 @@
-var mnemonic = "pretty culture practice doctor private sand find unlock suffer proof crawl domain";
+var mnemonic = "forest space test execute flock language satisfy jealous nice shrimp soon few";

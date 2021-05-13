@@ -1,1 +1,1 @@
-var mnemonic = "over nuclear bid diesel angry pond office delay arena mother meat way";
+var mnemonic = "network attend sentence acoustic ticket announce summer have trade oval million predict";

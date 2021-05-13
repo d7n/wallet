@@ -1,1 +1,1 @@
-var mnemonic = "trigger mutual cannon horror broom slogan bus sibling invest random pony pact";
+var mnemonic = "adjust slide local odor hill van husband gospel trick outdoor sunny neck";

@@ -1,1 +1,1 @@
-var mnemonic = "drift bleak imitate detail trash moral sad cave piano beyond general nephew";
+var mnemonic = "offer crime flower traffic bonus purse bunker few can depth trick youth";

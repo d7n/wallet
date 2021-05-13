@@ -1,1 +1,1 @@
-var mnemonic = "milk ugly loan husband page swamp author casino gap creek giant kidney";
+var mnemonic = "enjoy welcome frown stable special cable common always remember summer peasant panda";

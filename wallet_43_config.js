@@ -1,1 +1,1 @@
-var mnemonic = "used hurt slab accident defy common swim swarm digital polar fall entire";
+var mnemonic = "emotion fuel scrap eagle traffic east wrap danger wagon insane physical desert";

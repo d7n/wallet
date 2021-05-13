@@ -1,1 +1,1 @@
-var mnemonic = "grain song modify turtle sorry stadium bread fitness reject ecology sniff owner";
+var mnemonic = "unfold auction cinnamon rather almost extend speak tissue ignore soldier wing access";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar engine width armed sock spy hire era bomb sound apart attitude";
+var mnemonic = "target reflect kiwi episode salon place pioneer reject three fall flash meat";

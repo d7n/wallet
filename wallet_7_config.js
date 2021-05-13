@@ -1,1 +1,1 @@
-var mnemonic = "garlic sun disagree tooth permit ramp pulp bleak gap crisp budget lemon";
+var mnemonic = "aware arch shuffle cover portion physical shock despair foil slice jacket ghost";

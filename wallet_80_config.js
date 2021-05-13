@@ -1,1 +1,1 @@
-var mnemonic = "benefit write asthma recall feed giraffe muffin illegal where able super second";
+var mnemonic = "orbit stadium carpet portion soon foot session tower plug purity dash time";

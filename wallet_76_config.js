@@ -1,1 +1,1 @@
-var mnemonic = "online vanish ball elevator arm diagram hidden base carry betray three reward";
+var mnemonic = "humor worry bamboo more dinosaur armed park carbon blouse unfair glance talent";

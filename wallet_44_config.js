@@ -1,1 +1,1 @@
-var mnemonic = "adult virus during oval beauty parrot column initial erode embark token review";
+var mnemonic = "extend accuse balcony moon success night liquid harvest gate word mom edit";

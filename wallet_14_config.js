@@ -1,1 +1,1 @@
-var mnemonic = "extend rebuild close response grit mixed ethics force cruise post ugly bless";
+var mnemonic = "stereo naive boat menu resemble hunt sport speed sun drink judge van";

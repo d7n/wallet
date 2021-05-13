@@ -1,1 +1,1 @@
-var mnemonic = "cute oil oyster habit illegal hen topple winter market accident beyond artist";
+var mnemonic = "polar pepper limb peace uncover monster purchase arrange super lesson walk basic";

@@ -1,1 +1,1 @@
-var mnemonic = "noise eight father invest man remind outside point hat gap build kangaroo";
+var mnemonic = "rely job flat robust lift face usual mountain divide artefact broken cloth";

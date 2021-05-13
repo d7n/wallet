@@ -1,1 +1,1 @@
-var mnemonic = "yard side observe rent attend panic radar broom group wood despair exact";
+var mnemonic = "evil ranch collect spin three front arena short hope boring priority monster";

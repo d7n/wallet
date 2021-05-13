@@ -1,1 +1,1 @@
-var mnemonic = "pill where resemble you regular basic artefact top recipe opera palm weasel";
+var mnemonic = "wreck net woman need worth tongue coach twelve outer matrix behind remember";

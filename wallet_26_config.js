@@ -1,1 +1,1 @@
-var mnemonic = "summer icon twin else domain cart mad hair bright connect lumber portion";
+var mnemonic = "garment pitch involve matrix steak image warm ask produce index venue vicious";

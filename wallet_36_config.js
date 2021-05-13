@@ -1,1 +1,1 @@
-var mnemonic = "army coffee sign nerve round script situate certain merit essence idle episode";
+var mnemonic = "exhaust mercy dream sentence increase timber soft zebra enroll vacant beyond myth";

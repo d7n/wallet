@@ -1,1 +1,1 @@
-var mnemonic = "century husband smile genre truly dove thank flat camp kind cash jazz";
+var mnemonic = "spell paper enemy provide verb together moment impulse baby sport horror nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "there grass accuse area bean aware duck episode napkin pencil clock gate";
+var mnemonic = "crowd leave advance sure kangaroo audit jelly broken space recycle begin permit";

@@ -1,1 +1,1 @@
-var mnemonic = "utility satisfy payment correct have happy wolf power monster vote put brand";
+var mnemonic = "estate tooth nothing will already very fatal vital throw blood define more";

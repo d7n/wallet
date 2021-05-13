@@ -1,1 +1,1 @@
-var mnemonic = "announce crane permit neglect desk rely regret hill manual witness soon correct";
+var mnemonic = "spawn stand favorite build fresh shadow food surround total neck balcony useless";

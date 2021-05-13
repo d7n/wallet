@@ -1,1 +1,1 @@
-var mnemonic = "point roof furnace girl symptom machine pink budget eager claim please toward";
+var mnemonic = "romance pyramid ozone juice year rookie antenna blur crack mask kit next";

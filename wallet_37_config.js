@@ -1,1 +1,1 @@
-var mnemonic = "silent slab segment require heart resist relax route melody army response relief";
+var mnemonic = "bind inform protect history worth immense require plate warrior ensure hat pink";

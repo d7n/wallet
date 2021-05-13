@@ -1,1 +1,1 @@
-var mnemonic = "balcony rally myself siren dust cruise chalk slow trumpet damp express state";
+var mnemonic = "rib crane squeeze wedding fat dove hundred grab car toddler toy raise";

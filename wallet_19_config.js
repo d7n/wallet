@@ -1,1 +1,1 @@
-var mnemonic = "need reunion index biology glory sun wet seven tattoo helmet main stool";
+var mnemonic = "globe regret ski direct first install taste display ordinary game gift cigar";

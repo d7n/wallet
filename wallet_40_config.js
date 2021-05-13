@@ -1,1 +1,1 @@
-var mnemonic = "stereo lava desk fabric river pet easily wasp mirror hill hand angry";
+var mnemonic = "riot undo effort base into outdoor mistake gauge nothing below off child";

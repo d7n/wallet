@@ -1,1 +1,1 @@
-var mnemonic = "attitude faint cabbage sunset board present van dune depend measure zero rookie";
+var mnemonic = "innocent put country ivory cute spare science ethics oblige type lock visa";

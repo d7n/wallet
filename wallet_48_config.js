@@ -1,1 +1,1 @@
-var mnemonic = "emerge early artefact various hover grocery prevent seek soft solution jazz draft";
+var mnemonic = "chef tourist talk buddy senior wrong clock also visa episode lazy diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "able unfold prefer disorder chase best away unit toast tent scrub airport";
+var mnemonic = "hamster spawn balance about divide trouble talent swim reunion enlist business repeat";

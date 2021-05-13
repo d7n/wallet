@@ -1,1 +1,1 @@
-var mnemonic = "mother vapor tattoo patient resource crew sausage nothing tip sign police edge";
+var mnemonic = "photo struggle faculty fit vast industry subject play tongue eagle flag clip";

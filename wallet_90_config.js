@@ -1,1 +1,1 @@
-var mnemonic = "arena ordinary true card seven sell tonight measure suit confirm item gallery";
+var mnemonic = "riot ask oven zone tuition renew stage reunion spawn fade virtual foot";

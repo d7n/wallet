@@ -1,1 +1,1 @@
-var mnemonic = "oppose march cute vapor lottery rotate bright ketchup steel remain guard grid";
+var mnemonic = "obtain enter master then enforce donate result pelican aspect alert nation quote";

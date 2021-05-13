@@ -1,1 +1,1 @@
-var mnemonic = "salmon such night canvas crop damp salon lucky artist amused mushroom hazard";
+var mnemonic = "supply angle employ timber essay inform wagon advance joke cat potato kit";

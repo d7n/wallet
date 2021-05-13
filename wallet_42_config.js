@@ -1,1 +1,1 @@
-var mnemonic = "fashion guard carbon solution token nest illegal reopen appear smile solve release";
+var mnemonic = "smoke hotel roast hub major noise enhance trade glad price shoot phone";

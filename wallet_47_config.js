@@ -1,1 +1,1 @@
-var mnemonic = "supreme series patch core soldier inmate actress coyote marble kitten govern sound";
+var mnemonic = "spoon bone only awesome lady hurt will enemy fit world lava repair";

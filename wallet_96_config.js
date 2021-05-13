@@ -1,1 +1,1 @@
-var mnemonic = "pig seat rival vibrant tone wage earth grass evoke shed captain acquire";
+var mnemonic = "arm brown canvas organ slogan concert alone speak relax police blanket bright";

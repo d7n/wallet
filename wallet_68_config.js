@@ -1,1 +1,1 @@
-var mnemonic = "finish island know file return later erase dirt company exit flavor require";
+var mnemonic = "stool armed nice flash jacket wreck bullet humble they cat lawsuit pudding";

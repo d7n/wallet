@@ -1,1 +1,1 @@
-var mnemonic = "waste offer alone uncle inject arrive hard sea employ spy helmet harsh";
+var mnemonic = "sorry shy fatigue pilot biology clog raise trend inflict vehicle average report";

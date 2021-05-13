@@ -1,1 +1,1 @@
-var mnemonic = "crucial account forum slogan matter pilot anxiety mass impulse era river attitude";
+var mnemonic = "patient illness turkey educate income lyrics program size fee share joy vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "deal reflect produce town erosion gather rabbit almost aunt nasty glide energy";
+var mnemonic = "eager pill capable wife strong tonight tail mimic toast figure muffin solar";

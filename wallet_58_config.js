@@ -1,1 +1,1 @@
-var mnemonic = "another abstract price soap prize auction cycle orbit short blush limit tornado";
+var mnemonic = "cake cinnamon prison public mind story empty riot brisk cradle tide post";

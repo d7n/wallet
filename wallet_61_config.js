@@ -1,1 +1,1 @@
-var mnemonic = "speak answer cry dream rate river riot tooth expect bread collect stadium";
+var mnemonic = "address proud pepper height attack situate tone one inject hybrid subway lumber";

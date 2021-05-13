@@ -1,1 +1,1 @@
-var mnemonic = "decorate that unhappy bridge traffic reject caught deposit burden mistake sight green";
+var mnemonic = "differ cushion trumpet receive immune era zebra cross daughter network slab clutch";

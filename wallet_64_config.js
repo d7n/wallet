@@ -1,1 +1,1 @@
-var mnemonic = "fee olive river salute gallery ethics canyon enact fade foil make debate";
+var mnemonic = "never announce chest announce issue hazard often pilot north taste boring science";

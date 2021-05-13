@@ -1,1 +1,1 @@
-var mnemonic = "angry muscle misery goose weather used plastic home you above length pole";
+var mnemonic = "surround outer tuition put drift latin skin quiz duck suit disagree enact";

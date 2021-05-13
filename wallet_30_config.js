@@ -1,1 +1,1 @@
-var mnemonic = "improve cactus vacant luggage traffic loyal mixture fiscal violin empty web south";
+var mnemonic = "coconut indoor marine high syrup sign assist pet surround engine teach mixed";

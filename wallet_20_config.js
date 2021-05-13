@@ -1,1 +1,1 @@
-var mnemonic = "perfect address cattle ensure sheriff balcony penalty flee suit provide current master";
+var mnemonic = "lucky saddle couple recycle sport unable eight filter cabin once vocal draw";

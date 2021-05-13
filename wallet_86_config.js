@@ -1,1 +1,1 @@
-var mnemonic = "assault achieve keen skate swamp road december conduct because execute flip cream";
+var mnemonic = "vessel advice lend price element session work plastic resource affair actress nut";

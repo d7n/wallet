@@ -1,1 +1,1 @@
-var mnemonic = "hungry lonely demand post access like party method brain forest swim october";
+var mnemonic = "test cement basic achieve forward cram pluck lawn flight rare cover decade";

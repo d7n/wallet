@@ -1,1 +1,1 @@
-var mnemonic = "squeeze huge income brain execute stand urban smart wish pipe exhaust bird";
+var mnemonic = "label push exact garbage dizzy crash enjoy light frozen budget intact already";

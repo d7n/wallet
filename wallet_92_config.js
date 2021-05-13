@@ -1,1 +1,1 @@
-var mnemonic = "brand spend kingdom hamster upgrade cream infant food common stereo aunt actor";
+var mnemonic = "merry minor rapid foster there embody sponsor myself pass depend dose midnight";

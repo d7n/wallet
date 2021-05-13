@@ -1,1 +1,1 @@
-var mnemonic = "pudding sauce lemon judge file december nation video melt whip tape betray";
+var mnemonic = "image radio champion nerve suspect spike abandon scene scorpion sister leisure blame";

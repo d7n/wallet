@@ -1,1 +1,1 @@
-var mnemonic = "social need poet opera sun final ask welcome nothing hurry eye figure";
+var mnemonic = "speak town clerk used tobacco together october rival gesture since scene guide";

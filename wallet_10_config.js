@@ -1,1 +1,1 @@
-var mnemonic = "forget disease case worth square recall surprise genius electric make clock crash";
+var mnemonic = "session machine lake prepare language common ignore stick silent unique island rate";

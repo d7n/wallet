@@ -1,1 +1,1 @@
-var mnemonic = "scare reveal rule antenna extend clip network orange joy mutual assault pony";
+var mnemonic = "join expand jealous call source cattle level shoulder silly tide woman fitness";

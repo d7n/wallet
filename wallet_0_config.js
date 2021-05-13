@@ -1,1 +1,1 @@
-var mnemonic = "pattern sad unable upon quality front mercy slender clock approve regret inform";
+var mnemonic = "rather female quit border balcony wasp dog laundry jaguar pass cave asset";

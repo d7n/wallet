@@ -1,1 +1,1 @@
-var mnemonic = "detect test bread mushroom common scissors fall unknown child width ranch leisure";
+var mnemonic = "uncover injury swap buddy rubber coin bicycle talent power then rabbit raccoon";

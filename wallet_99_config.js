@@ -1,1 +1,1 @@
-var mnemonic = "imitate luxury loud junk delay later fat ready essay shiver primary salon";
+var mnemonic = "sad emotion abstract test immune grab victory report script exhaust own payment";

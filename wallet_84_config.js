@@ -1,1 +1,1 @@
-var mnemonic = "ignore enable drink lottery tank bacon carpet hobby soul choose wild matter";
+var mnemonic = "hotel spice good novel cave parent rural ride play nasty memory label";

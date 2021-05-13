@@ -1,1 +1,1 @@
-var mnemonic = "inspire bronze guard hood elevator web field ten mimic sick luxury immune";
+var mnemonic = "earth lunch daughter choose stamp menu soup lock fresh humor pupil misery";

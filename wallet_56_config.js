@@ -1,1 +1,1 @@
-var mnemonic = "adjust payment enforce carpet street minimum summer fork gallery cause logic family";
+var mnemonic = "canyon tomorrow garlic skull dignity vendor island leopard wool labor refuse burst";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset target detect cash team surprise injury ranch beyond salute wear banner";
+var mnemonic = "syrup basic world rival feel expire siege digital stadium assault need elevator";

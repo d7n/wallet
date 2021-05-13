@@ -1,1 +1,1 @@
-var mnemonic = "dutch address level region pony debris system border wreck coral crop creek";
+var mnemonic = "announce divorce wild accuse edge body embody orphan custom jar theory sentence";

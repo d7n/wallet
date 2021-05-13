@@ -1,1 +1,1 @@
-var mnemonic = "item now cigar cover lava exit invest excuse loyal page hire ketchup";
+var mnemonic = "traffic lift brick hungry clay dinner buyer daring truck shed clinic chalk";

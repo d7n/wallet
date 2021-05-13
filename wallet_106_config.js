@@ -1,1 +1,1 @@
-var mnemonic = "wash lizard daughter animal cactus own sting injury ocean safe tomato actress";
+var mnemonic = "lonely gadget circle apple initial way time civil label breeze curve immense";

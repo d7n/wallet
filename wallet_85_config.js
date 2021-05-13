@@ -1,1 +1,1 @@
-var mnemonic = "curve burden sample carry meadow arrow ancient only engine crucial question purse";
+var mnemonic = "bread much slab brown slam parent reopen marine chuckle penalty column aunt";

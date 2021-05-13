@@ -1,1 +1,1 @@
-var mnemonic = "mouse dad attitude close quick survey broccoli acquire endorse tonight network decide";
+var mnemonic = "ethics rule path sunset gate easily spirit news match dentist believe clap";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor antique quote mouse panda trumpet live violin army feature despair guard";
+var mnemonic = "oval civil infant stairs myth vocal check fox canoe thumb scene process";

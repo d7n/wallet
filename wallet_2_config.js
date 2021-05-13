@@ -1,1 +1,1 @@
-var mnemonic = "recycle glance century illness hood chunk panther crash mobile soft unusual hip";
+var mnemonic = "three rate detail stick cage legal exotic unaware climb virtual subject tribe";

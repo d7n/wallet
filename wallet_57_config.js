@@ -1,1 +1,1 @@
-var mnemonic = "shuffle polar learn bike celery hood around ankle escape offer release control";
+var mnemonic = "direct globe worry miracle never labor panic assume equip tomorrow essay memory";

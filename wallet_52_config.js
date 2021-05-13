@@ -1,1 +1,1 @@
-var mnemonic = "call fee sell usage oak ring mushroom index october wall curve pencil";
+var mnemonic = "unit bag vault drip pitch sing fragile absorb unique arrive physical fitness";

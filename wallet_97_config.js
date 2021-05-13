@@ -1,1 +1,1 @@
-var mnemonic = "market essence essence identify embody note rocket provide garment charge acid festival";
+var mnemonic = "eternal sphere slot surprise cruel file weasel furnace drastic tired meadow vacant";

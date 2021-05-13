@@ -1,1 +1,1 @@
-var mnemonic = "cherry sentence sausage oppose trade mutual renew rib tobacco ritual wheat layer";
+var mnemonic = "rotate unable fantasy upon excuse helmet acid wreck enrich antenna car bargain";

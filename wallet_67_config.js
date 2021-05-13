@@ -1,1 +1,1 @@
-var mnemonic = "genre trade ship suggest length water calm despair drama inch health prefer";
+var mnemonic = "retire hobby humor tip swap nut dance wait medal animal walk kiwi";

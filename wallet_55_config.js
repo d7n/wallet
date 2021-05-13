@@ -1,1 +1,1 @@
-var mnemonic = "embody twenty window muffin shock build champion royal vocal quality display cattle";
+var mnemonic = "detail hello copper village wine minute sign object tuna trigger sing arm";

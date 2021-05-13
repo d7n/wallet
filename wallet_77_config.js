@@ -1,1 +1,1 @@
-var mnemonic = "year fashion alpha muffin grow dirt slam climb poverty cattle sugar vacant";
+var mnemonic = "diagram dust pyramid vocal spare example month base spell puppy trip candy";

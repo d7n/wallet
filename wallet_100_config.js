@@ -1,1 +1,1 @@
-var mnemonic = "diamond treat student boost oak resist amount pioneer doctor syrup garbage recall";
+var mnemonic = "decorate soldier speed warm letter dragon huge guess rich scrap nerve defy";

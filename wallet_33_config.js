@@ -1,1 +1,1 @@
-var mnemonic = "note squeeze fade flat kid proof athlete layer sheriff shrug useless seminar";
+var mnemonic = "rebuild honey fossil disorder empty scrap brass knee screen seed dragon edge";
