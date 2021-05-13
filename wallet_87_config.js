@@ -1,1 +1,1 @@
-var mnemonic = "harvest meadow inmate inside area digital aspect ugly lumber tag custom canyon";
+var mnemonic = "sketch village gold film isolate topple behave face eyebrow buddy stem hint";

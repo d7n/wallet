@@ -1,1 +1,1 @@
-var mnemonic = "conduct property split rebuild marine weasel coyote share pulse slight correct neglect";
+var mnemonic = "dynamic retreat weasel runway tomorrow forum action merry slim wood honey clay";

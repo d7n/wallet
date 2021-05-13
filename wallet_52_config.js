@@ -1,1 +1,1 @@
-var mnemonic = "glance crop flight diesel salmon cattle column lobster tired analyst comfort pull";
+var mnemonic = "praise pattern deny boy window cheese wisdom clean cup cake spring sadness";

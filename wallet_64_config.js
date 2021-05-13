@@ -1,1 +1,1 @@
-var mnemonic = "bulb employ agree lobster embrace round journey thumb glad sail goddess document";
+var mnemonic = "truly leaf barrel item kite marine dentist dream hood mesh couple youth";

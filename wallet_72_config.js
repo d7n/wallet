@@ -1,1 +1,1 @@
-var mnemonic = "text lazy critic promote office fitness impose achieve burden rail wood refuse";
+var mnemonic = "burger page choice distance enhance bench verb source original thunder side reduce";

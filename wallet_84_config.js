@@ -1,1 +1,1 @@
-var mnemonic = "cause wheat excuse cry dignity attitude square rescue come story coral property";
+var mnemonic = "morning silent vacant mother pattern practice feel sheriff style wise toe exile";

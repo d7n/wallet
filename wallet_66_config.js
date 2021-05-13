@@ -1,1 +1,1 @@
-var mnemonic = "early fringe art dress design seminar unable grab symbol nominee wear eyebrow";
+var mnemonic = "deny write hybrid sick ribbon thumb minor quality reduce hidden cross address";

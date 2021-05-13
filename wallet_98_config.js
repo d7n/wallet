@@ -1,1 +1,1 @@
-var mnemonic = "tell solution symptom shuffle depth audit trust sense picnic enemy verb prison";
+var mnemonic = "laptop web doll report old involve neglect bubble remain side spring blast";

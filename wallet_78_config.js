@@ -1,1 +1,1 @@
-var mnemonic = "type blossom dignity grief soap fade view crater unaware wagon orange valid";
+var mnemonic = "lion script motion silly provide poet wheat busy sponsor paper broom weather";

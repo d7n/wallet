@@ -1,1 +1,1 @@
-var mnemonic = "image tip ask about supreme column dizzy upon erupt citizen risk surface";
+var mnemonic = "high kangaroo result foster follow cousin icon glance long avoid sister anxiety";

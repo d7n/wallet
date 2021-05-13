@@ -1,1 +1,1 @@
-var mnemonic = "elite tone diagram welcome memory rally trigger drift feel food good black";
+var mnemonic = "burst cereal trade wrong throw shift observe shadow fossil similar drift cover";

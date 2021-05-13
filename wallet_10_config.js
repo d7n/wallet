@@ -1,1 +1,1 @@
-var mnemonic = "ride kite october ice enroll praise apart couch maze rebuild loan urge";
+var mnemonic = "liquid negative universe sword flip bullet often garment decide crush elephant prevent";

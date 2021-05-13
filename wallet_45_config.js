@@ -1,1 +1,1 @@
-var mnemonic = "cradle hole apple bus latin shield lawsuit save version clutch balance game";
+var mnemonic = "trigger choice eager talent crucial route leader palm expose found walnut act";

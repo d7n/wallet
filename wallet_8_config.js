@@ -1,1 +1,1 @@
-var mnemonic = "alert cushion shuffle outside begin kitten decide space vast cry office check";
+var mnemonic = "path local shield lake sentence broccoli joy engage spot prize picnic apology";

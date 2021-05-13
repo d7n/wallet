@@ -1,1 +1,1 @@
-var mnemonic = "outside amused supreme earn length oven rubber spatial bleak pet make rain";
+var mnemonic = "rain dress response crane climb topple vessel since shuffle hawk eagle explain";

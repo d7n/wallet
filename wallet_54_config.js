@@ -1,1 +1,1 @@
-var mnemonic = "farm inflict kitchen carbon race under legal wire coyote protect girl refuse";
+var mnemonic = "advance eagle blood lake wild program bundle crawl rival regret jelly hotel";

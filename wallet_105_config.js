@@ -1,1 +1,1 @@
-var mnemonic = "slim obey fresh foil click parrot swallow arrange kid crowd unknown sample";
+var mnemonic = "pride advice price wire figure smart search coyote rabbit wood insane vague";

@@ -1,1 +1,1 @@
-var mnemonic = "term oyster grass weird gain half salute anchor detail fiber afford grant";
+var mnemonic = "country book fruit ribbon false identify suit junior speed piano silk cancel";

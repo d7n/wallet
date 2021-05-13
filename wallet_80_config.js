@@ -1,1 +1,1 @@
-var mnemonic = "bamboo brave antique antenna liberty will quick orchard else resource replace priority";
+var mnemonic = "seek detect impact half neck physical brass weasel frame solar attitude buyer";

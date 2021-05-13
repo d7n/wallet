@@ -1,1 +1,1 @@
-var mnemonic = "affair frequent find crew expect deliver oven fetch resemble resist ranch scout";
+var mnemonic = "dune gravity raccoon pupil fold egg sweet ten violin weird exclude custom";

@@ -1,1 +1,1 @@
-var mnemonic = "monster drive draft void immense trust forward local clinic hedgehog gloom avoid";
+var mnemonic = "broken depth person shoot arrow certain outside adult suffer festival nurse swap";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle true crystal avoid eagle canoe infant wrap march smoke high pigeon";
+var mnemonic = "topic shield bicycle carry denial switch solve bar surface anger approve filter";

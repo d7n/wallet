@@ -1,1 +1,1 @@
-var mnemonic = "march excuse where donor tank state habit focus guide pilot fault lazy";
+var mnemonic = "canal sure indicate leader drum pelican vault melt trend weekend hood eye";

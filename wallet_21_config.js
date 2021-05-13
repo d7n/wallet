@@ -1,1 +1,1 @@
-var mnemonic = "spoon click pause half busy sting minute august nephew address animal cash";
+var mnemonic = "strong exercise monster combine feed divorce speak kangaroo inside walk photo lounge";

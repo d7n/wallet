@@ -1,1 +1,1 @@
-var mnemonic = "marine what company pretty flush circle goddess frequent orbit capable tragic sight";
+var mnemonic = "easy elder reduce wonder actor sleep wedding begin horn way slim flush";

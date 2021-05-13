@@ -1,1 +1,1 @@
-var mnemonic = "melt crazy cash hello achieve release amateur school actual frog guess garlic";
+var mnemonic = "access artwork cat rare aware wrap stock spread ski save salad shallow";

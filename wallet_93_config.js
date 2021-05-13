@@ -1,1 +1,1 @@
-var mnemonic = "fit three reveal analyst scorpion man harbor hero symptom balcony marine equal";
+var mnemonic = "soul estate change enhance book object wrist ivory inner increase magnet shoe";

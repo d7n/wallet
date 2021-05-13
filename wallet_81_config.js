@@ -1,1 +1,1 @@
-var mnemonic = "candy prepare section enhance marble razor truck all echo enable friend moon";
+var mnemonic = "upset aerobic quantum pair essay file civil giraffe caught ketchup snap copy";

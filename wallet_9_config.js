@@ -1,1 +1,1 @@
-var mnemonic = "retire pumpkin drastic crisp salad luxury flame unaware liar abstract brown shoulder";
+var mnemonic = "ordinary hungry engine state kind income angry inflict bitter plunge panel dinosaur";

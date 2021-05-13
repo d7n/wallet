@@ -1,1 +1,1 @@
-var mnemonic = "palm matter athlete blur fix athlete cave fetch venue youth paddle ten";
+var mnemonic = "lumber hazard chef describe alpha tomorrow alley wink asset delay giant crop";

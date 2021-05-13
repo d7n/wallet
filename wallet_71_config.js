@@ -1,1 +1,1 @@
-var mnemonic = "lend entry dignity differ steak wrap friend burst arm attract gauge voice";
+var mnemonic = "strike wave vehicle stock ice spray work great upset fog man suit";

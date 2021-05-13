@@ -1,1 +1,1 @@
-var mnemonic = "symptom wedding shiver decide north pen render mask govern just faint endorse";
+var mnemonic = "faculty label delay atom collect glow orchard all spoil bean odor fitness";

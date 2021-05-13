@@ -1,1 +1,1 @@
-var mnemonic = "ketchup unlock slush aware drastic member sort lion moon pond rate prison";
+var mnemonic = "matrix immense romance lesson thing call vibrant snow gather foil alter oil";

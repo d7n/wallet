@@ -1,1 +1,1 @@
-var mnemonic = "attack behave elite detect issue zero cash nuclear enough turn coast agent";
+var mnemonic = "grab unknown property thumb design exotic patch lumber night seek guilt chunk";

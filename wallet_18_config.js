@@ -1,1 +1,1 @@
-var mnemonic = "diamond friend battle claim assume muffin culture pepper cruise expect display indicate";
+var mnemonic = "wine erase recipe sauce december estate eye exotic drop grit image ability";

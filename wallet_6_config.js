@@ -1,1 +1,1 @@
-var mnemonic = "divide monster angry final notable prize possible penalty tragic bracket clay crater";
+var mnemonic = "learn soup popular palm simple client idea early south reform opera garment";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare liquid crater among much kiwi near sad retire jazz seat modify";
+var mnemonic = "joke powder bike disagree raccoon current attitude pizza audit pair memory invest";

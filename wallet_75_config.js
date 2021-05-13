@@ -1,1 +1,1 @@
-var mnemonic = "harvest tape home violin apple interest fat ribbon donkey cricket utility walnut";
+var mnemonic = "earn arrive lecture roast polar divert rent shaft plastic infant note explain";

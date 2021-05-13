@@ -1,1 +1,1 @@
-var mnemonic = "smile young token claim midnight tooth tilt problem hour lemon drill orient";
+var mnemonic = "stomach boring pink organ coral crush blame option drip diamond among sport";

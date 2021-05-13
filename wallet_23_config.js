@@ -1,1 +1,1 @@
-var mnemonic = "lunch eyebrow between believe office upset trap team salad write small wine";
+var mnemonic = "come turkey acquire submit dilemma that ethics cotton smooth shy worry noble";

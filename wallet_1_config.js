@@ -1,1 +1,1 @@
-var mnemonic = "provide remember weapon used pear cruel this decrease bullet matrix seminar wonder";
+var mnemonic = "tennis gaze wing mixture stand pepper burden give scrub grid vacuum initial";

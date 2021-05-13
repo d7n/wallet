@@ -1,1 +1,1 @@
-var mnemonic = "lucky silk tobacco repeat cream gloom away knock chronic hawk coil crew";
+var mnemonic = "mind party tenant brown enrich helmet cabbage task follow farm wedding film";

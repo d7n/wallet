@@ -1,1 +1,1 @@
-var mnemonic = "spray marble bubble orphan grace kiss blush easy debate food mouse mention";
+var mnemonic = "small bone pepper exclude citizen pill tone badge rabbit story jelly define";

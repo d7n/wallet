@@ -1,1 +1,1 @@
-var mnemonic = "place soon uphold orange also indicate curtain broccoli royal omit sauce swing";
+var mnemonic = "salt interest family twenty innocent zoo kit race enemy enhance march delay";

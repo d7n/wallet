@@ -1,1 +1,1 @@
-var mnemonic = "unit involve abstract kitchen dash exist marble allow patrol burst simple empower";
+var mnemonic = "garbage lizard salute hour cancel fix message slogan alien alarm silly crisp";

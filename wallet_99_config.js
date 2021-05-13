@@ -1,1 +1,1 @@
-var mnemonic = "pitch october element radio sword script myself proud soldier near bone analyst";
+var mnemonic = "moral impose egg rival glad expose life must disorder ring sight cheap";

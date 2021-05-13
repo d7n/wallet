@@ -1,1 +1,1 @@
-var mnemonic = "ginger season unlock anger organ half file become valve swap valve share";
+var mnemonic = "weapon couple mountain mixed ozone eyebrow virtual mule foil witness razor rescue";

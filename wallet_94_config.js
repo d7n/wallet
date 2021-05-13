@@ -1,1 +1,1 @@
-var mnemonic = "advance plunge trial throw vote knee path sunny solid thumb embrace soft";
+var mnemonic = "profit speed attend issue cement town sport devote transfer tomorrow water trouble";

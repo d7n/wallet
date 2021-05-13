@@ -1,1 +1,1 @@
-var mnemonic = "cargo knife slim solution pluck elephant hold wall smooth print excite marine";
+var mnemonic = "knock random badge seat join tennis boy section despair amazing inner stem";

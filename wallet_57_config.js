@@ -1,1 +1,1 @@
-var mnemonic = "talk jungle inmate select ranch uncover journey into skill suggest adapt banner";
+var mnemonic = "rely fold media toward struggle bid swift oblige frost area execute royal";

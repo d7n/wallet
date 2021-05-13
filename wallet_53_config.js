@@ -1,1 +1,1 @@
-var mnemonic = "divorce poverty effort rack comfort puzzle clay mammal search copper vapor jeans";
+var mnemonic = "bus stomach job name emotion nature echo agree bicycle virtual cushion human";

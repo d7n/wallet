@@ -1,1 +1,1 @@
-var mnemonic = "machine melody wire decade hockey little autumn toy cage lemon trick quality";
+var mnemonic = "dinner win art someone woman figure thought struggle stay sense dynamic prevent";

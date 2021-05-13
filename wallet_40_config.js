@@ -1,1 +1,1 @@
-var mnemonic = "anger swim wage power soft finish kiss hat ancient ghost join exclude";
+var mnemonic = "lawn pepper predict extend tragic secret fashion violin grocery despair used annual";

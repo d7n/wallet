@@ -1,1 +1,1 @@
-var mnemonic = "divert design surge hurdle simple ankle decorate giggle universe involve result tackle";
+var mnemonic = "bounce typical glare pioneer novel young chronic dry catch behave cup goose";

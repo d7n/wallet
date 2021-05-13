@@ -1,1 +1,1 @@
-var mnemonic = "guess debate viable license split sure ancient profit arrow dawn mirror labor";
+var mnemonic = "old vapor reopen slight wasp fresh letter category affair debate leaf fire";

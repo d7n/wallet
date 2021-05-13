@@ -1,1 +1,1 @@
-var mnemonic = "dial enemy dance quantum female valid opera satisfy economy alpha fury spy";
+var mnemonic = "rival core renew ecology cute desert delay middle rate cradle impulse parrot";

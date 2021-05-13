@@ -1,1 +1,1 @@
-var mnemonic = "glove insane crater purchase pull attack agree tragic indicate search reform clean";
+var mnemonic = "anxiety want fault answer twelve swift offer lady dad civil south bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze true edit shallow size lounge sad prison tissue illegal exist team";
+var mnemonic = "seek hazard deer belt acoustic price like liar strong banner stock excite";

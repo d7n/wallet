@@ -1,1 +1,1 @@
-var mnemonic = "speak key shine uncover keep crisp review erosion helmet move possible surge";
+var mnemonic = "camera rough cloud forget cluster reward member begin same beef tribe process";

@@ -1,1 +1,1 @@
-var mnemonic = "always sample marine work burden misery antenna ritual fence cause scale love";
+var mnemonic = "shoot furnace hazard vintage unfair library sibling knee sheriff awkward village fancy";

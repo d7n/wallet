@@ -1,1 +1,1 @@
-var mnemonic = "craft detail maximum main quarter runway crunch monitor film inch wheat switch";
+var mnemonic = "diet cross basket stone canyon gorilla call rely brass banner hobby sign";

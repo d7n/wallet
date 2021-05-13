@@ -1,1 +1,1 @@
-var mnemonic = "harvest river trim lamp minor affair display awesome century enact assault charge";
+var mnemonic = "scrap clap slice deer reform element peasant apart tragic amused inmate motion";

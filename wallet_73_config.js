@@ -1,1 +1,1 @@
-var mnemonic = "harbor cousin primary scorpion fashion drama horror season accident hip alter marine";
+var mnemonic = "cause balance way museum shield cat north feed hip they fish antique";

@@ -1,1 +1,1 @@
-var mnemonic = "used crop sun valley same address mix bulk giant review lunar tool";
+var mnemonic = "zone fiscal motor sunset thing wood under cabin bag risk learn version";

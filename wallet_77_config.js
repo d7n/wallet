@@ -1,1 +1,1 @@
-var mnemonic = "material horn convince morning chaos trial turtle heart october virtual dismiss tackle";
+var mnemonic = "muscle develop vivid knee dish orient pluck spray sample nominee little neck";

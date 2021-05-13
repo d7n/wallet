@@ -1,1 +1,1 @@
-var mnemonic = "mammal finger man accuse raven salon antenna alpha market length young rival";
+var mnemonic = "gorilla toss group spy bargain aware thunder peanut mesh sponsor build buddy";

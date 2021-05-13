@@ -1,1 +1,1 @@
-var mnemonic = "symbol eight monitor snake ladder maximum alarm pond solve busy tribe neither";
+var mnemonic = "mushroom movie traffic budget stuff glory measure offer cloud cable shine pudding";

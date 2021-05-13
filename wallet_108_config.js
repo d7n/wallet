@@ -1,1 +1,1 @@
-var mnemonic = "review venue brother icon argue quality capable urge ancient swim foam give";
+var mnemonic = "spoon original home must future base retreat rely sad patient merge sad";

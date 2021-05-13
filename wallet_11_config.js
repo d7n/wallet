@@ -1,1 +1,1 @@
-var mnemonic = "rabbit under never acid parent drop trumpet myth drastic entry hero physical";
+var mnemonic = "trip legal alarm charge sphere input cruel used warrior actual pilot sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "speed math fork catch liberty uphold exclude ginger monkey cruel depth flower";
+var mnemonic = "volcano humble proud sure flag vintage skull quality fruit maple pottery guard";

@@ -1,1 +1,1 @@
-var mnemonic = "about clap cabin car rally mutual say friend supply deal pitch debate";
+var mnemonic = "divide steel ancient crack toast aunt derive core tube course steel arch";

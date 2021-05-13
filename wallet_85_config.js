@@ -1,1 +1,1 @@
-var mnemonic = "retire unfair aware sound surround option gentle enhance harbor together kit bubble";
+var mnemonic = "absurd prosper shallow chunk fossil bird advice decline soup direct bulk height";

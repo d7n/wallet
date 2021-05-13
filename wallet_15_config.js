@@ -1,1 +1,1 @@
-var mnemonic = "coral present access neglect actual match kitchen shock machine measure useful multiply";
+var mnemonic = "drama suffer donate spike save report crucial wheel tool such visit when";

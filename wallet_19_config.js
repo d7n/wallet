@@ -1,1 +1,1 @@
-var mnemonic = "clinic machine very main food rookie option axis drum hold fat finger";
+var mnemonic = "eye theme one submit comfort announce physical chronic pear poet swarm night";

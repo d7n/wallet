@@ -1,1 +1,1 @@
-var mnemonic = "rotate coast cushion hurdle carbon buyer device only farm group forget fury";
+var mnemonic = "scissors cram enjoy aspect crop barrel summer feel fence cave fame tortoise";

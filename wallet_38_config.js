@@ -1,1 +1,1 @@
-var mnemonic = "advice split laugh elite curve task few jeans acoustic police like flock";
+var mnemonic = "excess pear wife upset omit filter buffalo match capital nose lemon poverty";

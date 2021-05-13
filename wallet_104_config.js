@@ -1,1 +1,1 @@
-var mnemonic = "area carry night anger film private south emotion mutual clip venue flock";
+var mnemonic = "net marriage drum desk deposit final ship jar deposit unknown raise monster";

@@ -1,1 +1,1 @@
-var mnemonic = "idea genius present elephant share advice license edit peace strategy sponsor size";
+var mnemonic = "stereo eager round odor differ weekend ecology nice age electric twenty coconut";

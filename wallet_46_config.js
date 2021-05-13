@@ -1,1 +1,1 @@
-var mnemonic = "warrior muffin patient cannon enroll drum ticket dinner uniform neglect fat cream";
+var mnemonic = "topic trim cart tiger any metal meat wage mixed august impose siren";

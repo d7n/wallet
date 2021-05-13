@@ -1,1 +1,1 @@
-var mnemonic = "become neck volcano unable sick pupil buddy bunker cool goose figure hair";
+var mnemonic = "glow flavor what genuine tone garden discover sure pill minor brush water";

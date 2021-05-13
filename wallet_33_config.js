@@ -1,1 +1,1 @@
-var mnemonic = "impose tank chair odor scrap range traffic canal box stove wasp paddle";
+var mnemonic = "vendor few apart useless blind swarm iron utility alien husband whale hunt";

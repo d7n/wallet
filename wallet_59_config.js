@@ -1,1 +1,1 @@
-var mnemonic = "sunset reflect engine era crouch control car divorce ginger dash alien anger";
+var mnemonic = "first evoke omit nasty imitate twin gasp dignity tomato island family oven";

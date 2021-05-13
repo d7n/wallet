@@ -1,1 +1,1 @@
-var mnemonic = "couch squirrel blush spoon lobster ramp charge debate tell motor whip stand";
+var mnemonic = "excuse cabbage height screen height inspire whisper soft shove undo east mistake";

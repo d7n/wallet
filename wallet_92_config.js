@@ -1,1 +1,1 @@
-var mnemonic = "share essay license embark ceiling win slush gallery ready ticket also trend";
+var mnemonic = "illness round sustain accident hurdle chapter evoke weapon tag truly lazy olive";

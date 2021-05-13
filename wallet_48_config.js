@@ -1,1 +1,1 @@
-var mnemonic = "tenant wall carry dilemma maze vague cloud because cook cigar involve dish";
+var mnemonic = "stumble public junk fancy size curve cry glance decade side mirror float";

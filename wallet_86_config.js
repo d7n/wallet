@@ -1,1 +1,1 @@
-var mnemonic = "drive capital shift dog into govern april vote enhance embody ethics present";
+var mnemonic = "purpose angle water flower common pumpkin mail inhale shell fantasy remind fluid";
