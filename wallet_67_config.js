@@ -1,1 +1,1 @@
-var mnemonic = "voice critic cake gallery present swear flavor person interest when crawl popular";
+var mnemonic = "bargain file web recycle sentence sock key record father strong original fold";

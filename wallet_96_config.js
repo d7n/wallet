@@ -1,1 +1,1 @@
-var mnemonic = "arrow pattern lamp exhibit myself remember pact leave differ federal write fossil";
+var mnemonic = "gloom pudding brisk fox gasp clean ritual sorry family question anxiety pair";

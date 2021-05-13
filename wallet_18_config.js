@@ -1,1 +1,1 @@
-var mnemonic = "foster void rhythm choice expire hobby loop frame comfort zero duck total";
+var mnemonic = "split mail right produce expand dinner neither acid dress paddle deal dress";

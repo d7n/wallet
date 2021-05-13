@@ -1,1 +1,1 @@
-var mnemonic = "put exclude alley prevent dance reopen lawsuit wide purpose oil clump hawk";
+var mnemonic = "grain balcony hire rail pole lunar doctor much detect work session nest";

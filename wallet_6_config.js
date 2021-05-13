@@ -1,1 +1,1 @@
-var mnemonic = "actress portion else giggle all stamp security wine wrist fabric february skin";
+var mnemonic = "loud toward camera answer invest border broken solid busy evidence worry vast";

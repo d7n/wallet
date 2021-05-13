@@ -1,1 +1,1 @@
-var mnemonic = "december reunion minute army pelican eager swamp thing cat disagree stick feel";
+var mnemonic = "muffin elegant fitness twelve coach subject tape table soldier rich earth eye";

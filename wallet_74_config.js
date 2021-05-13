@@ -1,1 +1,1 @@
-var mnemonic = "initial program alone noise party weather tuition nurse can little erode art";
+var mnemonic = "sun charge recall live daring panther chair manage whale cable claim enter";

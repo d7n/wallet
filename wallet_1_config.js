@@ -1,1 +1,1 @@
-var mnemonic = "afford boring submit item ceiling service spell dolphin hedgehog gravity wise thing";
+var mnemonic = "world double document shiver toward focus champion lab behave swift become squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "member stadium ripple fold large conduct faculty theme flat dry expire dune";
+var mnemonic = "clip melt ocean girl wrist survey inmate suffer alert muffin prepare fantasy";

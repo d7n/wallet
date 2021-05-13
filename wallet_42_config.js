@@ -1,1 +1,1 @@
-var mnemonic = "sick novel spin foam screen utility quarter legend evoke diamond again opera";
+var mnemonic = "utility access orange valve ring leg track bubble black goddess avocado opera";

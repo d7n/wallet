@@ -1,1 +1,1 @@
-var mnemonic = "clever burger there tank link dove move vault tonight drink pretty rice";
+var mnemonic = "text cage snack genuine trip noble pull edit dog teach nerve badge";

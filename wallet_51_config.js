@@ -1,1 +1,1 @@
-var mnemonic = "bicycle immense reform scissors depend senior torch shaft two bridge brain vessel";
+var mnemonic = "property zero thumb birth list know obscure loop special message reform upper";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic web display tattoo enough giggle expire reduce grocery film try kite";
+var mnemonic = "attend small speed dad control hungry shock wreck veteran noodle turkey believe";

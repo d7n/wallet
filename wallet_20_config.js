@@ -1,1 +1,1 @@
-var mnemonic = "sense charge squeeze syrup joke vacant cruise illness switch never liberty wish";
+var mnemonic = "case reward shaft afford blur enough capable over fatal drill supreme domain";

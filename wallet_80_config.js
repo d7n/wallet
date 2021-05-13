@@ -1,1 +1,1 @@
-var mnemonic = "lucky umbrella runway risk salon dwarf idle link craft update plug bargain";
+var mnemonic = "own scorpion critic pottery someone fetch argue path firm old truth chalk";

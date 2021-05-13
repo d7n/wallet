@@ -1,1 +1,1 @@
-var mnemonic = "power swift vague oil bachelor identify lady truly slush brand razor uncle";
+var mnemonic = "burst squirrel rule life hint sing mixture style stand hurdle comfort fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "juice famous sort theory cushion nice shy crisp assist already cattle magic";
+var mnemonic = "design genre census digital diesel ketchup client empower crystal cash pen outdoor";

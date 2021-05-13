@@ -1,1 +1,1 @@
-var mnemonic = "detect inherit manage episode enjoy image harvest box collect onion popular mind";
+var mnemonic = "corn hen arrow trial plug train range exist disease fever trophy image";

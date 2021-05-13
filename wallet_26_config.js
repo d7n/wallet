@@ -1,1 +1,1 @@
-var mnemonic = "fire board disorder hand drift insect breeze melody penalty exile style lecture";
+var mnemonic = "slight blade victory dilemma salad mystery right uncover wife gain boy moon";

@@ -1,1 +1,1 @@
-var mnemonic = "purse style defy harbor divert animal army modify tell spell tonight field";
+var mnemonic = "milk connect shop dose trophy style venue code add one garage response";

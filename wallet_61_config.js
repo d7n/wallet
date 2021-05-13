@@ -1,1 +1,1 @@
-var mnemonic = "relax burger town link wing hunt swarm horror coffee parent believe decrease";
+var mnemonic = "seek series execute dawn inherit liquid arena weekend evoke matrix cradle puppy";

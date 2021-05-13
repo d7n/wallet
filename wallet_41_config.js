@@ -1,1 +1,1 @@
-var mnemonic = "raccoon indoor satisfy stadium address milk illness gesture shell federal solar gesture";
+var mnemonic = "light million shield west romance mushroom margin weasel duck cloth network wait";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior ginger risk huge physical until power express where mesh rug asset";
+var mnemonic = "fatal bonus plunge subject shoot symptom enjoy disagree tomato lumber scatter brain";

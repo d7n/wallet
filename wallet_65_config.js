@@ -1,1 +1,1 @@
-var mnemonic = "torch pudding grain various dry surge season goddess naive few luxury glad";
+var mnemonic = "broccoli hello cradle produce primary remain basket romance toast strong jacket noise";

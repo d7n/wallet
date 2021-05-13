@@ -1,1 +1,1 @@
-var mnemonic = "bamboo super tragic equal toss balance check rabbit speed left alcohol cushion";
+var mnemonic = "you gold work year timber sketch when reduce energy cruel grace club";

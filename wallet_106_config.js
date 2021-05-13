@@ -1,1 +1,1 @@
-var mnemonic = "nature dumb priority enrich state coyote original good inject mixture welcome bulb";
+var mnemonic = "correct feel cage real giant make foot tuna furnace couch model mixture";

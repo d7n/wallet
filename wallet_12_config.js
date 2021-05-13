@@ -1,1 +1,1 @@
-var mnemonic = "school drop candy little marine aisle fit misery trend asset clock popular";
+var mnemonic = "material hammer ride garment response voyage chronic raise man like tortoise hollow";

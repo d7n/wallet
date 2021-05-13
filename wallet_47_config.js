@@ -1,1 +1,1 @@
-var mnemonic = "neutral mosquito goat decline confirm scrap ability echo index slim nothing like";
+var mnemonic = "fragile harsh news cinnamon correct assault casual thank nuclear school cycle attack";

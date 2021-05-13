@@ -1,1 +1,1 @@
-var mnemonic = "witness liberty salmon breeze umbrella gift raccoon sample duck knock sister balance";
+var mnemonic = "design minute casual runway pet invite crime seminar twist pave noble whip";

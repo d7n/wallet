@@ -1,1 +1,1 @@
-var mnemonic = "skin service drive sniff foam fringe pottery safe outdoor exchange nation deputy";
+var mnemonic = "slam elegant wait minute extra phrase patch hint nose dice fade muffin";

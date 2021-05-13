@@ -1,1 +1,1 @@
-var mnemonic = "brick spider fatigue winner path avoid drink feature truck rain fossil isolate";
+var mnemonic = "share final stay pepper parrot buyer struggle stamp royal avoid violin rule";

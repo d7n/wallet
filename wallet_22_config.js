@@ -1,1 +1,1 @@
-var mnemonic = "fury tone test buyer ship sword expand mango shield mean piece duck";
+var mnemonic = "uphold hood dial battle biology detect fly buddy draw spice sorry unit";

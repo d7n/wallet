@@ -1,1 +1,1 @@
-var mnemonic = "chest castle metal icon merge announce ring help olive infant denial spoon";
+var mnemonic = "doctor expire era vibrant kiwi lift claim forest dynamic wreck excuse cloth";

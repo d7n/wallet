@@ -1,1 +1,1 @@
-var mnemonic = "cargo income black damp rubber upon blur fashion limit toilet struggle peasant";
+var mnemonic = "basic valve spell borrow dice arch squeeze produce keen runway filter cycle";

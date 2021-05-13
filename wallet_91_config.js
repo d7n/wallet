@@ -1,1 +1,1 @@
-var mnemonic = "zero innocent example team claw task early face spread word fresh crash";
+var mnemonic = "cupboard frown doll cabbage then clap leader essay repair drama aerobic squeeze";

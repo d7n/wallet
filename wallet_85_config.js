@@ -1,1 +1,1 @@
-var mnemonic = "tattoo puppy bright clinic digital ripple purse fitness minor must useful title";
+var mnemonic = "drip inmate trumpet quarter alone mystery awkward soup similar payment foster clown";

@@ -1,1 +1,1 @@
-var mnemonic = "pink fragile above envelope time imitate present dash certain become wish disorder";
+var mnemonic = "story total surge aim satisfy dumb virtual focus destroy off iron recall";

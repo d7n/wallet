@@ -1,1 +1,1 @@
-var mnemonic = "scan prison cup estate corn ivory find swear culture ribbon supreme fit";
+var mnemonic = "income resource stool analyst century property plunge shove neck annual strategy charge";

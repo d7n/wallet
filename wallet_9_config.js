@@ -1,1 +1,1 @@
-var mnemonic = "truth police canoe sustain donkey blame leader hello burger high group gun";
+var mnemonic = "process scorpion kiss midnight task lemon matrix pilot subject now cook meat";

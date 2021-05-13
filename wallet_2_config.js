@@ -1,1 +1,1 @@
-var mnemonic = "enable double educate master true caught couple measure idle chase gown reason";
+var mnemonic = "swallow mom dinosaur parent among peanut plug gift rack divide sound charge";

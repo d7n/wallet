@@ -1,1 +1,1 @@
-var mnemonic = "fit angry raven goddess aisle denial outside client weasel dose weird hold";
+var mnemonic = "fossil solid diesel girl fortune clip purse era early usage lift elite";

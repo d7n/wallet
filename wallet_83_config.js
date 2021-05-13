@@ -1,1 +1,1 @@
-var mnemonic = "lucky mercy blame bus merit physical ribbon festival repair energy address venue";
+var mnemonic = "daring save oblige exist soldier gentle resource invite spatial gold reveal pottery";

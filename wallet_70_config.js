@@ -1,1 +1,1 @@
-var mnemonic = "aware network aware inquiry air educate prepare utility cat obvious you comfort";
+var mnemonic = "play start lemon camp face door fatal retire swarm crater door muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt broom bus crater tone pig humble pulp table swarm mobile spike";
+var mnemonic = "syrup tag shy matter please shrimp chat face broccoli scheme nurse ecology";

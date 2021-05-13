@@ -1,1 +1,1 @@
-var mnemonic = "wonder clock reflect attract chunk frog gauge tackle focus bunker lava layer";
+var mnemonic = "mercy toward fiber can vibrant bomb fossil grant clay power rent gate";

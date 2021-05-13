@@ -1,1 +1,1 @@
-var mnemonic = "drastic pigeon bike dog shiver bunker load endless subway fuel purity praise";
+var mnemonic = "extend mail rough rather near swift alone bracket seminar uphold essay token";

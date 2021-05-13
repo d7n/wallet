@@ -1,1 +1,1 @@
-var mnemonic = "nest frequent system grid smoke wife wrist typical imitate barely eternal mention";
+var mnemonic = "refuse mutual common regular laptop food lumber lock spread machine raven creek";

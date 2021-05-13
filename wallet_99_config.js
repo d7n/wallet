@@ -1,1 +1,1 @@
-var mnemonic = "circle vendor model rose garlic resemble space payment era modify scan suspect";
+var mnemonic = "tell steak chief explain image lawsuit couch hint dizzy elite vehicle amused";

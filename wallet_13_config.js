@@ -1,1 +1,1 @@
-var mnemonic = "deliver wolf please powder luxury awesome jazz tongue plunge trust escape host";
+var mnemonic = "lake duck fetch tuna cool slim world travel inside peanut stove suffer";

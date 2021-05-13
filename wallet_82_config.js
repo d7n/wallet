@@ -1,1 +1,1 @@
-var mnemonic = "giraffe once nothing require caught scorpion lazy apology junk used innocent lucky";
+var mnemonic = "device crane victory skin give bleak jazz dune cannon idle hill indicate";

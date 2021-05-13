@@ -1,1 +1,1 @@
-var mnemonic = "shaft adult salt appear make gift welcome height muscle goddess scrub differ";
+var mnemonic = "gloom blade mail neck artist pipe dream party crash lyrics bargain decrease";

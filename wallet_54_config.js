@@ -1,1 +1,1 @@
-var mnemonic = "tongue harbor object ride gate cycle spice curious long tray weapon kitten";
+var mnemonic = "cherry diesel bleak cricket express view cliff clinic disorder syrup model brush";

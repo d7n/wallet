@@ -1,1 +1,1 @@
-var mnemonic = "debate task buzz enlist denial fashion tail gadget bleak leave ticket stage";
+var mnemonic = "renew keep defy wrap whale enrich benefit pool fan pattern gallery leg";

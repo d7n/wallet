@@ -1,1 +1,1 @@
-var mnemonic = "allow dad ethics verb embody reflect pumpkin problem maze dove smile mango";
+var mnemonic = "sponsor toss tank wall bulk soda lunar vapor pepper donate meadow shift";

@@ -1,1 +1,1 @@
-var mnemonic = "climb boil crouch search judge hotel bullet tomorrow sheriff shrug hip dinosaur";
+var mnemonic = "enjoy belt letter carpet happy loan imitate velvet excuse ghost wedding alone";

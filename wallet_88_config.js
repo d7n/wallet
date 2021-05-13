@@ -1,1 +1,1 @@
-var mnemonic = "oxygen vacuum offer farm moment whip again poverty snow goat border omit";
+var mnemonic = "grab remember cheap combine safe gift hint body inch guess video west";

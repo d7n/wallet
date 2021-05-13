@@ -1,1 +1,1 @@
-var mnemonic = "muscle roast develop outer prepare sibling novel raven tape inquiry saddle crash";
+var mnemonic = "long april gym security valley limb choose awful simple wisdom later shoot";

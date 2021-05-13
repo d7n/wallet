@@ -1,1 +1,1 @@
-var mnemonic = "nurse giant talent kitchen arrive permit excuse ranch idea item interest excess";
+var mnemonic = "whale leaf afford over income pony syrup echo stool yellow crystal cupboard";

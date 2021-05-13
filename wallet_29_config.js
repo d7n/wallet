@@ -1,1 +1,1 @@
-var mnemonic = "fragile street payment main ketchup bulb picture cart snow cherry long pill";
+var mnemonic = "kingdom solar style lawsuit lift into mimic know prevent analyst sorry magnet";

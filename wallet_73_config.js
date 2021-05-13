@@ -1,1 +1,1 @@
-var mnemonic = "month skull over under flower color truly wrong loan bitter process wish";
+var mnemonic = "hungry air robot card domain term derive fox strategy mountain town demand";

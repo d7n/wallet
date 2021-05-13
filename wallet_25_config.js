@@ -1,1 +1,1 @@
-var mnemonic = "pilot blossom pottery duck arrow damage emotion secret horn heavy leg use";
+var mnemonic = "author response achieve art october attend future ecology slab equip truth among";

@@ -1,1 +1,1 @@
-var mnemonic = "time tenant leg virtual festival agent fun convince expect tenant two provide";
+var mnemonic = "answer depart inhale diagram empty visit evidence lecture mean broken grief visit";

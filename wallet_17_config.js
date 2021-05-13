@@ -1,1 +1,1 @@
-var mnemonic = "mixed limb neck spider silly picnic powder drive modify awful blouse lounge";
+var mnemonic = "usage august canal isolate friend taste item symbol kidney release any catalog";

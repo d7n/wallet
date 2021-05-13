@@ -1,1 +1,1 @@
-var mnemonic = "crew tip midnight stem vast similar oppose survey song olive donkey clown";
+var mnemonic = "sell stage know couple error type shuffle issue session razor situate blind";

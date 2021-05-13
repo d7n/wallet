@@ -1,1 +1,1 @@
-var mnemonic = "nasty winter picture memory note ticket sleep educate jeans adjust tooth twin";
+var mnemonic = "come luggage sheriff spawn analyst acoustic sting debris little property story hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "fire version rain room crater awkward wall major myself boring other tennis";
+var mnemonic = "fly beef oval again danger nose among basket about sting increase person";

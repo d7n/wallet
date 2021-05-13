@@ -1,1 +1,1 @@
-var mnemonic = "whale involve license lava fence farm sell cradle seed run better bread";
+var mnemonic = "lens gospel alone insane sadness tube soup gallery snap write minimum direct";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic luxury panther all uncover chimney long evil tumble into license pupil";
+var mnemonic = "solar room physical cruel crucial copy put toilet castle wrong debate supply";

@@ -1,1 +1,1 @@
-var mnemonic = "honey city twin base avocado polar hood charge agree ghost popular child";
+var mnemonic = "liar educate cheap provide month topple heavy bone toddler dish army duck";

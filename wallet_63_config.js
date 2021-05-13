@@ -1,1 +1,1 @@
-var mnemonic = "bronze annual cricket average brave silly ripple lamp grocery drama ticket auto";
+var mnemonic = "modify pink denial asthma vague monkey occur belt toward goose tragic wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "road net guilt order couple glow lawn end spirit lock best raven";
+var mnemonic = "merry turn switch subway such film comic wreck noise about since opera";

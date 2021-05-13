@@ -1,1 +1,1 @@
-var mnemonic = "federal camera bike cycle bonus sock busy hip brother aisle proud include";
+var mnemonic = "rely critic age core glance item feed candy river cradle real ocean";

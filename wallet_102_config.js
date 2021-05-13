@@ -1,1 +1,1 @@
-var mnemonic = "ring other more deal use shuffle donkey shoot list work dash tree";
+var mnemonic = "monster produce loan goat fever era tooth category just dose crumble voice";

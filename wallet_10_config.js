@@ -1,1 +1,1 @@
-var mnemonic = "potato evil sure give sand cereal coin dog range giraffe cost fury";
+var mnemonic = "protect pool essence attitude insect silver escape bargain garment vague aerobic breeze";

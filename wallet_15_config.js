@@ -1,1 +1,1 @@
-var mnemonic = "exit humble powder napkin element hunt pupil word segment tortoise student slight";
+var mnemonic = "mix camp visual profit spin evolve duck fever clay cushion rain hard";

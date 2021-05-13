@@ -1,1 +1,1 @@
-var mnemonic = "grape valid warrior news genuine warfare first warrior resist cactus fashion expire";
+var mnemonic = "require expect urban plastic injury moment maid rose material swing theme alert";

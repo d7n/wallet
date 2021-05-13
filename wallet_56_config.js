@@ -1,1 +1,1 @@
-var mnemonic = "chase color jar violin useful palace because grace hunt enjoy seminar volume";
+var mnemonic = "glass great flush hockey goose reunion pilot average flip defy intact dragon";

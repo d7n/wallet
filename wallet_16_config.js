@@ -1,1 +1,1 @@
-var mnemonic = "void civil cigar song harbor flash whisper pact ladder pizza decorate what";
+var mnemonic = "puppy state business purpose matrix maple sadness throw all note medal host";

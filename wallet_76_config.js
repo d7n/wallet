@@ -1,1 +1,1 @@
-var mnemonic = "canal someone wait aware insane poem divert avocado large collect online chase";
+var mnemonic = "rail oak bring verb indoor unusual inquiry govern good speak ranch junk";

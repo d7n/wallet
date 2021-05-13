@@ -1,1 +1,1 @@
-var mnemonic = "below enhance depart collect phone busy elegant fluid across drop common size";
+var mnemonic = "trial office caution answer pride pact health amazing unhappy floor together transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "toss fun animal pioneer mushroom stairs trade simple announce amazing nut loan";
+var mnemonic = "fox proof arena diamond vanish rally retreat evil object ship train hen";

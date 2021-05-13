@@ -1,1 +1,1 @@
-var mnemonic = "business envelope pet recipe analyst enemy frame open label relief turkey gadget";
+var mnemonic = "daughter describe ripple goose market math sweet solid reject need pupil various";

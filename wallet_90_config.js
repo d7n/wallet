@@ -1,1 +1,1 @@
-var mnemonic = "apart dust baby degree fancy thing exotic engine decide sugar possible vanish";
+var mnemonic = "cheap oak place fetch wing abandon foster outside chimney vote crouch half";

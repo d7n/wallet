@@ -1,1 +1,1 @@
-var mnemonic = "enable across armed ordinary teach flame frozen weather double erupt sheriff gallery";
+var mnemonic = "team help menu guilt include fit wrong month woman ivory unable vanish";

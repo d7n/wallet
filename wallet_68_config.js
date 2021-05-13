@@ -1,1 +1,1 @@
-var mnemonic = "awkward motion area stadium modify embrace kid quantum duck tuna hurt good";
+var mnemonic = "place doll inform float spike blossom anchor claw rose smile decade uniform";

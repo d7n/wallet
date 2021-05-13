@@ -1,1 +1,1 @@
-var mnemonic = "weapon flight pulp flock install fringe beyond idle clay success source enforce";
+var mnemonic = "defense ignore reason excite cloud diesel sword uncover edge sail skate casino";

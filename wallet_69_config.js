@@ -1,1 +1,1 @@
-var mnemonic = "prison embody indoor thrive rare path cause brother cat exchange boy tree";
+var mnemonic = "love thing merit exercise question cake amused pledge allow outdoor pool viable";

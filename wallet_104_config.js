@@ -1,1 +1,1 @@
-var mnemonic = "among material end canyon someone hollow flat dawn deal thought label visual";
+var mnemonic = "avoid result shoe surface lawsuit first kangaroo poet reflect nut yard enable";

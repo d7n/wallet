@@ -1,1 +1,1 @@
-var mnemonic = "melt damage grit broken know carpet extra such carbon hamster civil artwork";
+var mnemonic = "secret pistol mixture crunch library enable dawn random earn carpet wear obscure";

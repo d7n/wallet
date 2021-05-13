@@ -1,1 +1,1 @@
-var mnemonic = "menu combine valve dinosaur maple slogan expire canoe simple pretty observe ivory";
+var mnemonic = "soul couple invite pudding hybrid fog series jeans custom march pyramid paper";
