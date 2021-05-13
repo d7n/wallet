@@ -1,1 +1,1 @@
-var mnemonic = "victory deny property goose obey gesture lounge notice fabric volcano spare divide";
+var mnemonic = "recycle result lunar timber feature write nice oyster ready biology appear wash";

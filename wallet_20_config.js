@@ -1,1 +1,1 @@
-var mnemonic = "local pave cliff help obtain kiss art chaos journey citizen wife season";
+var mnemonic = "assume oval already cheese truth admit salt satoshi crystal weapon cereal live";

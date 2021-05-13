@@ -1,1 +1,1 @@
-var mnemonic = "casino appear amateur solve shop scout bacon prepare message access ozone auction";
+var mnemonic = "settle slush solve great picture snow sort young essence cheap cactus kitchen";

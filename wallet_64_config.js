@@ -1,1 +1,1 @@
-var mnemonic = "suffer bacon dash brief jazz movie stairs choose service gasp subject achieve";
+var mnemonic = "park quiz eyebrow traffic track sail convince barrel there point depart menu";

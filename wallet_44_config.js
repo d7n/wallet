@@ -1,1 +1,1 @@
-var mnemonic = "awful huge camp menu good ribbon parrot poem follow slice observe warm";
+var mnemonic = "camp daring exotic stadium wire photo guilt budget tiger broccoli sponsor decline";

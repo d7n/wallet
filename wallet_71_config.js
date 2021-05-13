@@ -1,1 +1,1 @@
-var mnemonic = "color turn aware main vote hover arm person remain prepare yellow seek";
+var mnemonic = "exhibit work exclude select muscle own pencil jump cream outside acid denial";

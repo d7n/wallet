@@ -1,1 +1,1 @@
-var mnemonic = "armor income portion ozone pioneer prison dwarf loyal soccer object catch defy";
+var mnemonic = "conduct jewel holiday find amateur pride affair alcohol beach wear wrong then";

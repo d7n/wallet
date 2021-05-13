@@ -1,1 +1,1 @@
-var mnemonic = "casual there key either copper verify arrange shop update wink later valid";
+var mnemonic = "sentence company office display apart soup venture news nuclear pretty smoke runway";

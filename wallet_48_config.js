@@ -1,1 +1,1 @@
-var mnemonic = "curious escape april behind maximum cup antenna solution lyrics please dice museum";
+var mnemonic = "stumble room narrow spin gossip lobster peasant small spell unhappy dash vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "bring code wire hope pond aware menu snack august slow vault child";
+var mnemonic = "resource film trumpet wave spike leaf above sketch evolve today strategy rail";

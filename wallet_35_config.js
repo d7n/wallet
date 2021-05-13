@@ -1,1 +1,1 @@
-var mnemonic = "crazy slot foot helmet image gift eight abuse feature cry ribbon recipe";
+var mnemonic = "word just purpose enhance soon local lunar level crouch day negative kit";

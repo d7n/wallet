@@ -1,1 +1,1 @@
-var mnemonic = "refuse able seminar must couple thumb busy neither boring sun kite city";
+var mnemonic = "carpet cancel tuition carpet among student stuff notable crash gallery inflict dad";

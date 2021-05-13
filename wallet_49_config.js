@@ -1,1 +1,1 @@
-var mnemonic = "doll play coast hood toilet boil patrol fall cereal climb auto saddle";
+var mnemonic = "stand mansion hundred beach lottery legend century remember surround gallery away magic";

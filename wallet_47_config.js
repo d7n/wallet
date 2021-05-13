@@ -1,1 +1,1 @@
-var mnemonic = "wall stone shoulder fashion erosion paper paddle pelican wait horror adult diet";
+var mnemonic = "electric ice document daughter amazing basket garlic pretty absent ketchup pottery tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "version rose indoor heart jelly wonder tower squeeze globe jealous tuna true";
+var mnemonic = "exclude diagram wool garment kitchen stone alone bronze pig torch hope keep";

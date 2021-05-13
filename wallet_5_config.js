@@ -1,1 +1,1 @@
-var mnemonic = "pepper clog emotion wasp quote solid uphold sponsor patient song among solar";
+var mnemonic = "other clap enemy brass original annual phone scale slot either board sudden";

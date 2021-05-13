@@ -1,1 +1,1 @@
-var mnemonic = "awesome meat nerve sister pledge ask problem quit observe exotic jacket nice";
+var mnemonic = "what about sand consider owner market blush finger prepare speed pact jazz";

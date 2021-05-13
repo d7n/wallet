@@ -1,1 +1,1 @@
-var mnemonic = "family artefact breeze negative wait describe offer someone allow verify stock episode";
+var mnemonic = "act stuff fine oppose quiz robot atom inflict thank abstract strategy pudding";

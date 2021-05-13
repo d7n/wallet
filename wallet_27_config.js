@@ -1,1 +1,1 @@
-var mnemonic = "elegant cross mechanic left burden erase south teach fossil retreat tongue mimic";
+var mnemonic = "easy pottery play song prevent dirt relief pear finger salt love differ";

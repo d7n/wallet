@@ -1,1 +1,1 @@
-var mnemonic = "dad message project veteran add crawl purpose average chair arch case setup";
+var mnemonic = "lumber expand denial grid trend dad output exile adapt yellow offer praise";

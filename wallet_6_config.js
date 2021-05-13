@@ -1,1 +1,1 @@
-var mnemonic = "unfold fruit egg estate margin first depend ask situate glare neutral want";
+var mnemonic = "open various require pelican cannon earth same guard inmate young quiz impulse";

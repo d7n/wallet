@@ -1,1 +1,1 @@
-var mnemonic = "best file wisdom bubble imitate help fatal wide pattern ask bone game";
+var mnemonic = "radio point draft insane manual ranch chair fancy will slush stage admit";

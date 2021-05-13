@@ -1,1 +1,1 @@
-var mnemonic = "ghost inspire table album elbow bleak seminar typical clarify south junior connect";
+var mnemonic = "river chunk balcony possible shoot diamond vanish subway across member april exist";

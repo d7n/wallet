@@ -1,1 +1,1 @@
-var mnemonic = "enjoy input apple sell naive nerve common negative sugar clever guide obey";
+var mnemonic = "miss illegal unfold emerge summer engage pudding inside method walk awkward salad";

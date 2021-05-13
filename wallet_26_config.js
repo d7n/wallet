@@ -1,1 +1,1 @@
-var mnemonic = "endless reason someone wave salute gate inquiry angry upon radar agree mixed";
+var mnemonic = "remember chief suffer toast smooth identify club bean echo occur tunnel reopen";

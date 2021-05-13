@@ -1,1 +1,1 @@
-var mnemonic = "path paddle ski live pull ride legal type notice quarter estate claim";
+var mnemonic = "annual exchange august pudding write arm invite invite educate also zone faculty";

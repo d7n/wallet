@@ -1,1 +1,1 @@
-var mnemonic = "asthma rotate earn october hazard course trophy magnet gospel muffin nose hope";
+var mnemonic = "gown permit kit expect unhappy sadness design patrol trumpet magic pencil crush";

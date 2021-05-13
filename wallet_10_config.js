@@ -1,1 +1,1 @@
-var mnemonic = "stereo decorate sand ready wrong apology beyond kidney artefact bus penalty custom";
+var mnemonic = "lottery harbor lumber artist stuff furnace tilt oval rhythm stock bind news";

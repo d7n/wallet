@@ -1,1 +1,1 @@
-var mnemonic = "width ticket estate undo upgrade endorse whisper pony plunge snow record nurse";
+var mnemonic = "patrol float winter book chief mean increase entry blind large churn slam";

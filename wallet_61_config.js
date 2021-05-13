@@ -1,1 +1,1 @@
-var mnemonic = "security carry mule crime hello cycle organ minute lawsuit horse split tribe";
+var mnemonic = "wet nothing second sport solve pledge object sock water differ response satisfy";

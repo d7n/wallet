@@ -1,1 +1,1 @@
-var mnemonic = "mean traffic blind mandate soldier author lounge arrange boil practice juice eyebrow";
+var mnemonic = "garbage little glue extra excite news roof liar never fruit asthma panther";

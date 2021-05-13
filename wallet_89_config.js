@@ -1,1 +1,1 @@
-var mnemonic = "delay put trouble silver caught buddy cute grape pave level twist tuition";
+var mnemonic = "bar gas fluid gloom bid delay ill gaze label first come chaos";

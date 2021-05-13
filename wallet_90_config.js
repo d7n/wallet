@@ -1,1 +1,1 @@
-var mnemonic = "mail ride shove degree garage coffee true force retreat urge average grab";
+var mnemonic = "october term double animal duck left chuckle fringe name enjoy pave risk";

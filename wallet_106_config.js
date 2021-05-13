@@ -1,1 +1,1 @@
-var mnemonic = "false acquire number hamster witness tennis also else sponsor access duck nation";
+var mnemonic = "squeeze tenant describe else tonight arena goat knock brief output robust page";

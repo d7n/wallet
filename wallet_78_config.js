@@ -1,1 +1,1 @@
-var mnemonic = "coach sample erase half enact catch journey soldier concert six payment slim";
+var mnemonic = "service raven quick cloth million minor ship danger broom company panther high";

@@ -1,1 +1,1 @@
-var mnemonic = "mask age large unlock urge wagon labor orchard solve spell belt term";
+var mnemonic = "family cream farm dial begin soft dad canyon alien answer pink word";

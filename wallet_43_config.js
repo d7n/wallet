@@ -1,1 +1,1 @@
-var mnemonic = "student rule release hire sorry buyer predict column crisp mail rebel loud";
+var mnemonic = "lizard vocal forum digital promote father sugar rocket meat wife next relief";

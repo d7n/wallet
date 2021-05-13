@@ -1,1 +1,1 @@
-var mnemonic = "shop code whip blame forum another slush maple tunnel unknown online island";
+var mnemonic = "bless muffin blast other provide elbow gold supply settle message short hair";

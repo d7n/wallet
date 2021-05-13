@@ -1,1 +1,1 @@
-var mnemonic = "alley acoustic special someone cruise drastic laptop hill giant rookie giraffe congress";
+var mnemonic = "now live ribbon myth pass discover decrease lamp opera neck advance merry";

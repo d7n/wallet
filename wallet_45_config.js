@@ -1,1 +1,1 @@
-var mnemonic = "pave weapon grab casino escape claw crime myth old creek cupboard grunt";
+var mnemonic = "wrestle announce ramp divert upon wealth tilt large asthma live brown genuine";

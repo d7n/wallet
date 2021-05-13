@@ -1,1 +1,1 @@
-var mnemonic = "hair bless gun hub veteran unique monster bargain recycle era perfect imitate";
+var mnemonic = "west prosper pen neglect case drive still mammal between heavy useless ramp";

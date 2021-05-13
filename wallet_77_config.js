@@ -1,1 +1,1 @@
-var mnemonic = "wave ski spider chaos fly eye craft concert zero opinion lonely bean";
+var mnemonic = "ridge card aware stool receive popular slight diamond brush sponsor polar cricket";

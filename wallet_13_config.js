@@ -1,1 +1,1 @@
-var mnemonic = "dwarf mobile unfair mix joke kingdom episode wash tank view stereo crater";
+var mnemonic = "tornado asset harbor uniform soap mushroom mercy document clay seed credit jump";

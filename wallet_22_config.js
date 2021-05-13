@@ -1,1 +1,1 @@
-var mnemonic = "robust submit pact flip brave taste miss vicious coin season enroll hen";
+var mnemonic = "alcohol rude van meat soul tell imitate involve input tilt infant before";

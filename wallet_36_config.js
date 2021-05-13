@@ -1,1 +1,1 @@
-var mnemonic = "bind very dish saddle double govern enough enable vote start walk train";
+var mnemonic = "picture tooth emotion stick mushroom fade tower joke cradle valve surround punch";

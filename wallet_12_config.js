@@ -1,1 +1,1 @@
-var mnemonic = "universe almost comic stereo autumn add mountain outside february between basket liar";
+var mnemonic = "skate popular gown duty behave fatigue canal tumble decide angle twist run";

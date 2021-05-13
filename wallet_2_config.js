@@ -1,1 +1,1 @@
-var mnemonic = "story custom shed guess gravity civil truck inquiry coral gold detect empower";
+var mnemonic = "absurd earn visa dinosaur mansion riot group observe doctor weird shift work";

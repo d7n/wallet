@@ -1,1 +1,1 @@
-var mnemonic = "lizard toe palace shallow number trash over save arrive critic stamp grunt";
+var mnemonic = "seat deliver demand need strong fetch eager milk satoshi end sad skin";

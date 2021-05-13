@@ -1,1 +1,1 @@
-var mnemonic = "deal organ vendor lottery feel disagree mushroom already among alter crane wrestle";
+var mnemonic = "mean clever holiday smile alpha switch attend clap will crash wrap beef";

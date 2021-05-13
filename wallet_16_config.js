@@ -1,1 +1,1 @@
-var mnemonic = "blanket square easy animal agent live assist suggest athlete trumpet hire jeans";
+var mnemonic = "bread edit begin city fog century robust under tiny lizard wrong vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk hard trust palm defy urban output neck tone bargain assist open";
+var mnemonic = "peanut moon arch can body game skull entire parent find siege bundle";

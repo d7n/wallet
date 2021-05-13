@@ -1,1 +1,1 @@
-var mnemonic = "penalty fitness crew hill tuition best satoshi nephew improve local mansion roast";
+var mnemonic = "uniform female fat barrel feature episode employ glare cabbage earn debris stadium";

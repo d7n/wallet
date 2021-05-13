@@ -1,1 +1,1 @@
-var mnemonic = "cry south hurt cactus fever rural twice art pair salute artwork control";
+var mnemonic = "slam initial shed sad whisper unfair there grape valve diet velvet truly";

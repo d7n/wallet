@@ -1,1 +1,1 @@
-var mnemonic = "stay hair pelican divorce habit announce trouble resource old pyramid tide suggest";
+var mnemonic = "trigger spin black tissue orient mountain news foot marine review mention violin";

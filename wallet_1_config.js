@@ -1,1 +1,1 @@
-var mnemonic = "exclude genuine best artwork sense turkey into pretty cereal shoulder inside shoot";
+var mnemonic = "impose town grab park device onion protect hint desert ridge exist fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "utility luxury exact width candy merry aspect second account stock stove echo";
+var mnemonic = "soul delay ball garment clown bone cereal odor group merit canyon error";

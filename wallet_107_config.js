@@ -1,1 +1,1 @@
-var mnemonic = "category object stage puppy vacant federal wet also unusual never rail rural";
+var mnemonic = "fish segment hope differ tape vocal acquire guide travel movie picnic rhythm";

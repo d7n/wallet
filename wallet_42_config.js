@@ -1,1 +1,1 @@
-var mnemonic = "old peanut domain online wheel dream main knock brave speed picnic intact";
+var mnemonic = "guitar galaxy public trust safe author obey science strike regular scout chuckle";

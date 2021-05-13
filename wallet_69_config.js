@@ -1,1 +1,1 @@
-var mnemonic = "wisdom abandon shrug lonely runway bread clarify okay cover salad lesson chuckle";
+var mnemonic = "grief skate gadget sick hamster carry fat shed piece among echo clap";

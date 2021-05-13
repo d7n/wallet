@@ -1,1 +1,1 @@
-var mnemonic = "weird focus busy candy night stem fiscal flash express alien bright relief";
+var mnemonic = "burden clown unfold napkin milk betray jacket rebel drift carry spot crucial";

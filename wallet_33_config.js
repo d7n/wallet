@@ -1,1 +1,1 @@
-var mnemonic = "police lecture chronic couch payment sadness home glory suit misery task among";
+var mnemonic = "venue erosion pond settle attend hood horn cram angle rate budget relax";

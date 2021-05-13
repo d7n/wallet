@@ -1,1 +1,1 @@
-var mnemonic = "comic rather grocery try vocal pioneer blush seed once unhappy leg awake";
+var mnemonic = "benefit erosion film purse electric subway rural above era organ focus cage";

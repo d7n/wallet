@@ -1,1 +1,1 @@
-var mnemonic = "length misery tourist hamster anger west theory welcome foil awful other office";
+var mnemonic = "giraffe collect early alley garment cross wrap camp palace ensure actor traffic";

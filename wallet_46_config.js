@@ -1,1 +1,1 @@
-var mnemonic = "trick stadium wing ketchup arctic silent label lecture upgrade assault fame town";
+var mnemonic = "wheat health mixed bring across galaxy design habit ignore youth patch draw";

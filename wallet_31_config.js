@@ -1,1 +1,1 @@
-var mnemonic = "erosion rough small end cover hollow focus nation flash reward hedgehog ritual";
+var mnemonic = "purity woman comic carry street dress chief shoulder vintage draw sell jewel";

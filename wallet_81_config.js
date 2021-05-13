@@ -1,1 +1,1 @@
-var mnemonic = "soup update loud plate obvious stock input youth salute include often raven";
+var mnemonic = "announce east garden fetch misery piano wrap arch celery early gap toward";

@@ -1,1 +1,1 @@
-var mnemonic = "hire acoustic wet fault diary dinner fiscal knee step avoid hour energy";
+var mnemonic = "shrimp stairs stumble frown reunion fold fresh debate brass organ wing list";

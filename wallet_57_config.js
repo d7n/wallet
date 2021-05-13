@@ -1,1 +1,1 @@
-var mnemonic = "dismiss again resource boost giggle memory brave insect over entry guard fence";
+var mnemonic = "palace ensure benefit moral dish define fix adult inside castle hover skin";

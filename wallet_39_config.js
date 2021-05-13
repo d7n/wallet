@@ -1,1 +1,1 @@
-var mnemonic = "fade potato fever snack soldier uphold reunion clump snow stage decorate total";
+var mnemonic = "envelope game hammer physical common intact popular impulse river acid shift spread";

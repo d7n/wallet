@@ -1,1 +1,1 @@
-var mnemonic = "lamp square vault van explain imitate actual approve flock clarify kid hover";
+var mnemonic = "novel sausage city stock marble scene smile hunt suggest mercy fix judge";

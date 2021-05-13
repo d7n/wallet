@@ -1,1 +1,1 @@
-var mnemonic = "pool nut ignore settle public subject question boring long vessel prison muffin";
+var mnemonic = "shy adult opera basket verify section cement region cattle current tower unlock";

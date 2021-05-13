@@ -1,1 +1,1 @@
-var mnemonic = "usual valve this ocean lake ramp figure desk magnet shrug order lonely";
+var mnemonic = "gasp nasty expose word thunder trumpet require attitude cancel please witness wreck";

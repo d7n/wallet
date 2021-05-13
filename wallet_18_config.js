@@ -1,1 +1,1 @@
-var mnemonic = "load eagle balcony mean village favorite job solar chaos govern bar clown";
+var mnemonic = "story ten when range rigid dizzy example anchor law harbor alien oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle little forget flip pigeon grass bless obey skin interest expose arrow";
+var mnemonic = "claw night action picnic eternal glow problem during pioneer isolate network spice";

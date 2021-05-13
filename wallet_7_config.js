@@ -1,1 +1,1 @@
-var mnemonic = "slender choice rice globe equip enable artwork crack open person blue review";
+var mnemonic = "trial bone baby man palm medal vendor grocery avocado all armor test";

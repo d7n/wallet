@@ -1,1 +1,1 @@
-var mnemonic = "fashion unveil rice panther field uphold undo estate vanish crime subway flip";
+var mnemonic = "chef powder number garage all attend session dove rebel author lock because";

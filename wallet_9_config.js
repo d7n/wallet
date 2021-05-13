@@ -1,1 +1,1 @@
-var mnemonic = "atom cake pluck blossom excite filter describe august valve tragic tray kidney";
+var mnemonic = "under cloud robust vague ensure scene panic vanish cupboard what ramp autumn";

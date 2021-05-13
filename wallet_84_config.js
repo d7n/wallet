@@ -1,1 +1,1 @@
-var mnemonic = "alone march door mixture before scale light sadness three bicycle edge error";
+var mnemonic = "play gift clever discover reveal field jump man emotion wife butter soap";

@@ -1,1 +1,1 @@
-var mnemonic = "answer group ability oxygen gentle dial girl silly marriage adjust rotate special";
+var mnemonic = "soft breeze pet spoon parade saddle float weather feel meat forest essence";
