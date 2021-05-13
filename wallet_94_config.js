@@ -1,1 +1,1 @@
-var mnemonic = "combine tornado polar argue boss lend danger behind door that diamond nephew";
+var mnemonic = "reopen pig call bag brown tenant tree install timber school polar ensure";

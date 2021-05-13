@@ -1,1 +1,1 @@
-var mnemonic = "donor mirror observe fire salon awesome power seven resemble stomach please live";
+var mnemonic = "victory yard fee apart world mask economy model hospital loop motion that";

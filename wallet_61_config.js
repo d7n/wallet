@@ -1,1 +1,1 @@
-var mnemonic = "fix daring immense shuffle hill give churn cushion build comfort month harbor";
+var mnemonic = "thrive online firm beyond tide crack oven outdoor urge sister marriage butter";

@@ -1,1 +1,1 @@
-var mnemonic = "snake negative shield garlic ketchup dress palace flag radio evidence else busy";
+var mnemonic = "deputy slogan sight must dumb approve coin project tree exile access muscle";

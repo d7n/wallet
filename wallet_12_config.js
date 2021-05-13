@@ -1,1 +1,1 @@
-var mnemonic = "actor small tuition promote ancient peanut blind ankle derive pretty smooth until";
+var mnemonic = "vivid skin myth parrot unaware diamond library ghost hint crane program invite";

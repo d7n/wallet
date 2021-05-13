@@ -1,1 +1,1 @@
-var mnemonic = "hip plug shed ahead cool leisure review dress service antique sunset planet";
+var mnemonic = "tumble idle cotton shop mix vital race gravity unveil mobile manual because";

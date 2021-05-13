@@ -1,1 +1,1 @@
-var mnemonic = "enemy disagree matrix feel ten segment credit child canyon toy range unable";
+var mnemonic = "surge spider budget erupt cabbage orphan weapon can that garment fetch zoo";

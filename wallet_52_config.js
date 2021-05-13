@@ -1,1 +1,1 @@
-var mnemonic = "laptop rubber entry repair bless muscle post melt flavor know uncover december";
+var mnemonic = "yellow source one spare express soon garage day follow enemy rival fox";

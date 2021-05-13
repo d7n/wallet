@@ -1,1 +1,1 @@
-var mnemonic = "fade tool supreme fly example link fat build taste craft indicate innocent";
+var mnemonic = "cannon loop quote morning forum echo agree wasp wish blame orphan quote";

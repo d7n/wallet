@@ -1,1 +1,1 @@
-var mnemonic = "resource victory supreme allow tunnel school leader wood tip hood throw fox";
+var mnemonic = "bronze area mosquito sauce always hero exist void total daring steel sudden";

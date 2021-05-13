@@ -1,1 +1,1 @@
-var mnemonic = "receive claw mountain raven there speak hen cluster movie abandon cancel cross";
+var mnemonic = "that spoon turkey female gossip supreme spirit fuel artwork offer zebra peace";

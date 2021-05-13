@@ -1,1 +1,1 @@
-var mnemonic = "family mansion layer tackle post erupt bitter rebuild evoke since cook defy";
+var mnemonic = "manage broken truck evoke know lens bulk decide exchange lift rebel where";

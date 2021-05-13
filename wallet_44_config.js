@@ -1,1 +1,1 @@
-var mnemonic = "side deer gain cushion scale near quote damp bone anchor manage fix";
+var mnemonic = "fame ribbon paddle nature ivory vanish decline garden fame volume desk squeeze";

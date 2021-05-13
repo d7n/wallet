@@ -1,1 +1,1 @@
-var mnemonic = "elite oxygen castle brief stem waste shop token tourist decrease mercy margin";
+var mnemonic = "tape puzzle industry bone apple engage whisper search excite jewel among point";

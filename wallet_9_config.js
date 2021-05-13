@@ -1,1 +1,1 @@
-var mnemonic = "ginger primary hair boring tiger fortune file unfair fee myself company cinnamon";
+var mnemonic = "crouch flavor supreme crater detect equal muscle twenty steel symptom kite tornado";

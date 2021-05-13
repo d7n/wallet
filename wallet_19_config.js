@@ -1,1 +1,1 @@
-var mnemonic = "gentle raven sudden pair heart energy table pride sentence correct melody grace";
+var mnemonic = "word version trip point hole detect bird body unaware hamster you case";

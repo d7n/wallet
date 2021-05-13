@@ -1,1 +1,1 @@
-var mnemonic = "opera layer double science unaware powder kangaroo share unveil athlete junior dynamic";
+var mnemonic = "solid lumber faint foam hero island unit boat busy only palm obey";

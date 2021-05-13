@@ -1,1 +1,1 @@
-var mnemonic = "marine minute capable pencil need argue erode tide echo transfer wash whisper";
+var mnemonic = "erosion upon helmet crucial account chuckle inject melody sting panda culture stove";

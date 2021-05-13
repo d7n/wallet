@@ -1,1 +1,1 @@
-var mnemonic = "finger rebuild cheese can strategy wagon wheel envelope fog diamond arch slot";
+var mnemonic = "cage large coffee guess exchange moral wet coast guard rival alley dumb";

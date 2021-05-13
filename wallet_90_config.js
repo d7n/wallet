@@ -1,1 +1,1 @@
-var mnemonic = "few payment bright mixed core travel oak earn calm erase arrive canoe";
+var mnemonic = "have segment indoor foam crawl live remind earn youth prefer dream aisle";

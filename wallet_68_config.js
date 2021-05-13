@@ -1,1 +1,1 @@
-var mnemonic = "energy model armor mammal decrease wing tobacco solar member spirit reason lunar";
+var mnemonic = "joy slender people close citizen brief tiny upper few crisp lady clinic";

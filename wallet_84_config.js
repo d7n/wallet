@@ -1,1 +1,1 @@
-var mnemonic = "blood inflict walnut live about service gasp blade nest index lumber balance";
+var mnemonic = "surge toy pilot mixed fit hobby bridge list prepare dragon wagon learn";

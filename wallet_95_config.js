@@ -1,1 +1,1 @@
-var mnemonic = "feed vote talent calm device unknown vocal update material nominee rate must";
+var mnemonic = "enough pass enjoy pride hazard amount staff wink farm evolve siren theory";

@@ -1,1 +1,1 @@
-var mnemonic = "joy easily census narrow hole fade member leopard slogan valve betray column";
+var mnemonic = "avocado current region upset refuse knee drum hurry equip prepare fitness cluster";

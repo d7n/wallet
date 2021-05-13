@@ -1,1 +1,1 @@
-var mnemonic = "boat broccoli relax across correct beyond real busy order crucial memory quit";
+var mnemonic = "year enjoy segment grace mirror awesome basic stay try cancel sting lens";

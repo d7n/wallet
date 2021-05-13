@@ -1,1 +1,1 @@
-var mnemonic = "spider usage vivid harbor turn defense expect coil gravity lottery start disorder";
+var mnemonic = "coil harsh success expire olive mask verb deposit quiz pool width bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony piano repair yard battle lawsuit now debate eight abandon dirt scatter";
+var mnemonic = "easy misery vital pluck inhale merit noble burden typical evoke stone whip";

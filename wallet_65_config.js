@@ -1,1 +1,1 @@
-var mnemonic = "robust clog cream steak cotton latin quiz simple leisure august upgrade welcome";
+var mnemonic = "cigar boy oval wine pulp enact render enough skill rug weather wheel";

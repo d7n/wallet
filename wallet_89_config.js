@@ -1,1 +1,1 @@
-var mnemonic = "develop expect seed verb motion weather improve reject art wall crash fog";
+var mnemonic = "convince lava please wife talent parade peasant say wealth toe month mix";

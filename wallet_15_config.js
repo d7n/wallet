@@ -1,1 +1,1 @@
-var mnemonic = "mail dial gaze twice ripple attitude left wrong bar trade famous duck";
+var mnemonic = "burst enable purpose stadium seed edge oxygen pear ribbon athlete flag parrot";

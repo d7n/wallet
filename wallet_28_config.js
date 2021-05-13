@@ -1,1 +1,1 @@
-var mnemonic = "oil office until response liar arrange amount shadow broken nature gauge reform";
+var mnemonic = "rigid decline sting supply vibrant brick base area obey move shoe journey";

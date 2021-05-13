@@ -1,1 +1,1 @@
-var mnemonic = "alone consider coach apology catalog tiger jungle female faculty soul skill supreme";
+var mnemonic = "avocado embody opinion naive swear hen apology hungry liquid claw mother replace";

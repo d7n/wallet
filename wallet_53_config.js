@@ -1,1 +1,1 @@
-var mnemonic = "only pioneer bounce protect sentence length buffalo aerobic sniff setup have behind";
+var mnemonic = "floor elder grow gauge useful confirm tonight erosion adjust ticket worry library";

@@ -1,1 +1,1 @@
-var mnemonic = "embody flip apple potato edge pitch provide once stone render scan stage";
+var mnemonic = "power tank world tail symbol water mixture sleep paddle letter fade pudding";

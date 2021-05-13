@@ -1,1 +1,1 @@
-var mnemonic = "silk emotion tomorrow involve slight cake lazy present love attack where alcohol";
+var mnemonic = "solar trim boss carbon scout fall kit cloth assault useless lunar toe";

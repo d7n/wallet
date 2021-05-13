@@ -1,1 +1,1 @@
-var mnemonic = "tent front genre glow post owner boss wing pool transfer cattle shoulder";
+var mnemonic = "odor robust inspire tragic toddler company talk envelope hair deny emerge found";

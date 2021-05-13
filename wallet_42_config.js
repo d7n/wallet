@@ -1,1 +1,1 @@
-var mnemonic = "inject cluster beach crucial alter certain face lake assault girl mixed quality";
+var mnemonic = "since tornado panic remain gown ancient either burger tired shrug walnut replace";

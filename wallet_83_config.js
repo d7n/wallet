@@ -1,1 +1,1 @@
-var mnemonic = "economy arrange spy census cigar dutch escape harvest yard behave neglect fitness";
+var mnemonic = "pudding rail detail nature fantasy spoil chuckle harbor resist shoe fringe stuff";

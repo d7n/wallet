@@ -1,1 +1,1 @@
-var mnemonic = "case zero post depart antique rare theme key clown robot aerobic lab";
+var mnemonic = "author suit swarm over pistol protect artist blanket marriage brand industry absent";

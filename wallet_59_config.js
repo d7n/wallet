@@ -1,1 +1,1 @@
-var mnemonic = "scene climb truck nurse attitude call elegant egg sea couple shiver mule";
+var mnemonic = "drastic mystery deer dove material city buyer original sauce estate scan turtle";

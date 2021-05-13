@@ -1,1 +1,1 @@
-var mnemonic = "move bird decade spell cliff aerobic mammal merge catalog ankle fade dove";
+var mnemonic = "opera catch leopard stereo vacuum sense pulse suffer garment source giraffe scene";

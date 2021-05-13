@@ -1,1 +1,1 @@
-var mnemonic = "glow foil want account adjust present brave garden craft fee panther flat";
+var mnemonic = "private tongue delay capital usual position green garbage envelope salt pattern where";

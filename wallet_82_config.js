@@ -1,1 +1,1 @@
-var mnemonic = "happy impact salt duck produce assist start crawl local task cotton tree";
+var mnemonic = "effort glimpse regret crime happy artist sleep liberty draw key pill knife";

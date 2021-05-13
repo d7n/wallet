@@ -1,1 +1,1 @@
-var mnemonic = "lemon discover boost mandate mind tide harbor skull mobile gaze novel mystery";
+var mnemonic = "treat sense knock attack auction torch rigid excess oven impose lounge edge";

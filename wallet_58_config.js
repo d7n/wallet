@@ -1,1 +1,1 @@
-var mnemonic = "offer blossom detail team try salmon property vanish sphere left salon palm";
+var mnemonic = "camp wrist uphold arena vote soon cash drift blame other tiger various";

@@ -1,1 +1,1 @@
-var mnemonic = "pink one cave luxury false divert win drill special mercy cost print";
+var mnemonic = "forward black pond lens spider pill chief bean away exist topic media";

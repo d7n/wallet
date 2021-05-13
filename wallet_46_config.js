@@ -1,1 +1,1 @@
-var mnemonic = "perfect please three man robot control pink broccoli insect garment edit trigger";
+var mnemonic = "voyage fluid note elegant giant wealth crunch celery index valid patch tilt";

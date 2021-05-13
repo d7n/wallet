@@ -1,1 +1,1 @@
-var mnemonic = "duck very pole boring man certain convince music original hold warm weather";
+var mnemonic = "few innocent valley before urge drop that riot rare umbrella minute upgrade";

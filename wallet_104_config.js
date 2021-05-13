@@ -1,1 +1,1 @@
-var mnemonic = "voice track skull dilemma already tornado potato picnic again cave flock attract";
+var mnemonic = "copy six bounce trial safe else canal throw learn insane wreck arrow";

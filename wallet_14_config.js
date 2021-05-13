@@ -1,1 +1,1 @@
-var mnemonic = "verify cloud wealth start purity eye valley general smart remind clerk soul";
+var mnemonic = "differ follow tragic staff symptom dance shrug hip pottery summer jungle flock";

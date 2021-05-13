@@ -1,1 +1,1 @@
-var mnemonic = "vicious life anxiety final ship genius subject oppose cycle scrub toddler crawl";
+var mnemonic = "entire napkin degree cargo satisfy theme vault young humor danger dune focus";

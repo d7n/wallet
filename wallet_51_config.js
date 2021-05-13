@@ -1,1 +1,1 @@
-var mnemonic = "crystal leaf load tennis protect day can dice donkey win tiger mesh";
+var mnemonic = "render brick admit hair flavor august arch walnut submit tiny august funny";

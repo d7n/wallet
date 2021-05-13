@@ -1,1 +1,1 @@
-var mnemonic = "air brain dust keep social answer thunder educate inherit rabbit embark feed";
+var mnemonic = "number midnight recycle happy awkward tourist ill february ostrich social spirit portion";

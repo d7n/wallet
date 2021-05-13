@@ -1,1 +1,1 @@
-var mnemonic = "soon diamond also hover mimic title text coach glide apart floor dice";
+var mnemonic = "grain affair mercy cover increase total novel jewel lift useful unknown reform";

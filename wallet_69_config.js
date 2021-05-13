@@ -1,1 +1,1 @@
-var mnemonic = "live boy trophy obey brick lounge salute fiscal supreme useless eager ski";
+var mnemonic = "chase arm quote satoshi brick moral blush baby churn infant security whip";

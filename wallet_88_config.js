@@ -1,1 +1,1 @@
-var mnemonic = "knock hero enhance peasant hammer seminar physical law ridge drill dilemma trigger";
+var mnemonic = "list answer hungry real draw brain wonder kick rapid october police motor";

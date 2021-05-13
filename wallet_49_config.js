@@ -1,1 +1,1 @@
-var mnemonic = "educate unusual corn payment casino test napkin oval collect mushroom aisle awesome";
+var mnemonic = "hockey suspect title tennis perfect round eternal scrap neither decorate crowd talk";

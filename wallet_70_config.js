@@ -1,1 +1,1 @@
-var mnemonic = "satisfy catch notable nut owner cute victory use announce boss drift grow";
+var mnemonic = "expect slam column expand stage later inch supreme into purse anchor jungle";

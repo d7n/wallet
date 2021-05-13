@@ -1,1 +1,1 @@
-var mnemonic = "boss city vintage basket fade margin patch purchase punch quit pottery chunk";
+var mnemonic = "scrub lizard sweet gown inner inquiry exist name scrap animal drop account";

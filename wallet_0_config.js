@@ -1,1 +1,1 @@
-var mnemonic = "film true owner vital gold sport scale now gossip snow beyond eternal";
+var mnemonic = "mistake barrel side velvet share sibling gauge nest keep pass ability normal";

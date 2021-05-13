@@ -1,1 +1,1 @@
-var mnemonic = "advice reject repeat tomato time refuse glide endless rebuild outdoor mosquito arrange";
+var mnemonic = "ranch bubble eye moment abuse envelope rabbit slide daring climb field valley";

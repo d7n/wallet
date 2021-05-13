@@ -1,1 +1,1 @@
-var mnemonic = "treat viable rifle gun pattern ribbon ivory opera shop bronze exhibit pause";
+var mnemonic = "trick convince expose thunder jewel hawk cute sport hint dentist wide december";

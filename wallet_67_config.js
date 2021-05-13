@@ -1,1 +1,1 @@
-var mnemonic = "parent bulb grunt move risk away gauge venue ostrich else soup message";
+var mnemonic = "prize aspect body amount elder able decline age meadow drama sword wrap";

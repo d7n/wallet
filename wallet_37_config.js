@@ -1,1 +1,1 @@
-var mnemonic = "rigid denial sudden mechanic person clever front drill major firm leave caution";
+var mnemonic = "major winter hill letter tell become indoor top excess hint catch educate";

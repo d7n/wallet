@@ -1,1 +1,1 @@
-var mnemonic = "cement casino another almost awesome situate best absurd dove brief cool ice";
+var mnemonic = "cupboard wife potato poet century flush bonus mutual found else situate deputy";

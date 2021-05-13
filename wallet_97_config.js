@@ -1,1 +1,1 @@
-var mnemonic = "coil film gaze rally birth entire purchase devote ordinary treat what capital";
+var mnemonic = "cluster impulse clean process simple sponsor service about setup bring home symbol";

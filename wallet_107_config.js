@@ -1,1 +1,1 @@
-var mnemonic = "until traffic grab fog amused solve verb saddle win service ring trophy";
+var mnemonic = "hand vapor shrug have broom ramp essence hood other diary tissue dune";

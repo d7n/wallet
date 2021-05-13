@@ -1,1 +1,1 @@
-var mnemonic = "banana need voyage tobacco warfare gaze ethics tiger tuition liquid sail pledge";
+var mnemonic = "true venture crack throw mother crumble better crawl swap gallery face essay";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon elephant midnight cactus south faith company affair confirm bicycle budget column";
+var mnemonic = "chronic scene hover slush height hollow tray slush seven during melody hip";

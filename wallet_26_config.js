@@ -1,1 +1,1 @@
-var mnemonic = "already knock dwarf radio party apology follow oven arrive virus spike token";
+var mnemonic = "attack jar gown burger electric mansion find unfold tissue bottom lawsuit service";

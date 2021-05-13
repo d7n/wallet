@@ -1,1 +1,1 @@
-var mnemonic = "radar crystal humble evidence wonder outside thunder october expand seminar goddess tornado";
+var mnemonic = "thank gate liberty solution diet frozen reduce adjust curve speed load where";

@@ -1,1 +1,1 @@
-var mnemonic = "remember brain stadium glow mimic clarify face clutch jazz episode betray laundry";
+var mnemonic = "repair elbow equal disorder stomach current autumn satoshi member member penalty struggle";

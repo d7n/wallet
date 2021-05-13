@@ -1,1 +1,1 @@
-var mnemonic = "resist rocket cupboard screen result winner salute deputy local pride unusual glory";
+var mnemonic = "icon breeze kit razor avocado library smooth library intact summer flavor else";

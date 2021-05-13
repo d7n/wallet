@@ -1,1 +1,1 @@
-var mnemonic = "assault swim snake shrimp weapon six seat crew image purchase poem oak";
+var mnemonic = "grass anchor cart deny grant nature proud six shield expand ozone raise";

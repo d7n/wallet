@@ -1,1 +1,1 @@
-var mnemonic = "warrior crash uniform glow razor daughter axis popular draft kick present unit";
+var mnemonic = "boring allow timber cute power loan have bike water timber total nest";

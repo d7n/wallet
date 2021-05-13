@@ -1,1 +1,1 @@
-var mnemonic = "draw spy deal gap egg receive genre alter copper gesture metal measure";
+var mnemonic = "glue yard rice top narrow road slot cave canal unfair flower sudden";

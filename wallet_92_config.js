@@ -1,1 +1,1 @@
-var mnemonic = "buyer good dose scrap review peasant side sentence purchase village almost shallow";
+var mnemonic = "license hurt fatal invest gallery major version hip west disagree either wire";

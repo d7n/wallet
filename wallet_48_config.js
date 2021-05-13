@@ -1,1 +1,1 @@
-var mnemonic = "come joy antique immune rival level air genuine lazy drastic bleak festival";
+var mnemonic = "common weird win eager owner keen total dose torch actor sad valve";

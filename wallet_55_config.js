@@ -1,1 +1,1 @@
-var mnemonic = "sample brain feel simple fish lecture young squeeze arrive pride fiction subway";
+var mnemonic = "endless degree manual solve gown sugar genuine clip next muffin news radar";

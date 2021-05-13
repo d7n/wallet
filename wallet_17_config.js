@@ -1,1 +1,1 @@
-var mnemonic = "tuition swing home treat require lonely lumber pipe myth trick require library";
+var mnemonic = "flight puzzle sight wealth donkey mercy require idle odor confirm leave cave";

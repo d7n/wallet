@@ -1,1 +1,1 @@
-var mnemonic = "various beef radio dance net rapid flock plunge congress fork wood inch";
+var mnemonic = "forget swim side develop diagram sand wife day scrap spoon repair clog";

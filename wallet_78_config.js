@@ -1,1 +1,1 @@
-var mnemonic = "axis prize because satisfy surge attend fringe spoil liberty service reflect online";
+var mnemonic = "danger bar build certain human shrug snap smoke athlete fox athlete panic";

@@ -1,1 +1,1 @@
-var mnemonic = "verb dolphin orbit curtain sketch fatal reopen peanut fever laptop energy dragon";
+var mnemonic = "shove garlic mixed target raise rescue skin vague put first remind exhaust";

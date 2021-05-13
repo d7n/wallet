@@ -1,1 +1,1 @@
-var mnemonic = "ginger glance spoon buzz emerge plastic wheat wonder sport pottery gift pride";
+var mnemonic = "require shiver bacon joke demand basic wheat found butter message execute dilemma";

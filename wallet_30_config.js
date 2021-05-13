@@ -1,1 +1,1 @@
-var mnemonic = "check net mask imitate label repair school ceiling act unfair pony razor";
+var mnemonic = "stay border music dismiss fossil erupt cycle paddle hurdle say paddle like";

@@ -1,1 +1,1 @@
-var mnemonic = "bright warfare express alpha hole final private mind brother frame aunt assist";
+var mnemonic = "route suffer butter hidden alcohol segment fossil salad leopard veteran meadow hair";

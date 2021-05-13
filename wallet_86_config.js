@@ -1,1 +1,1 @@
-var mnemonic = "success milk release aspect symbol diagram age vessel cram simple minor hair";
+var mnemonic = "chronic whale lobster cash ill antique sunset north fiscal pen reunion avocado";
