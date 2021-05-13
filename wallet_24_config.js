@@ -1,1 +1,1 @@
-var mnemonic = "engage cross crowd local employ small absorb thing simple until stable behave";
+var mnemonic = "evidence junior panic ski below island tortoise laugh science exile junk labor";

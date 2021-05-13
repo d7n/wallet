@@ -1,1 +1,1 @@
-var mnemonic = "will together stable witness rough wait sell drop object dry cream unhappy";
+var mnemonic = "weird tobacco cattle garden maple remove post regret battle gift between shine";

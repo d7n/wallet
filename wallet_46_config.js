@@ -1,1 +1,1 @@
-var mnemonic = "usual hedgehog census price height catch social jazz cradle adult kitten pistol";
+var mnemonic = "quantum fee assume october split strategy man nose laugh immune diamond already";

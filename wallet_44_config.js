@@ -1,1 +1,1 @@
-var mnemonic = "govern clutch drill news increase rib chunk pottery proud enrich luggage decline";
+var mnemonic = "model detect fluid obscure dentist search jealous huge radio stool ride swallow";

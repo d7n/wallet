@@ -1,1 +1,1 @@
-var mnemonic = "join glimpse path safe sketch menu smile grid snack gesture close whale";
+var mnemonic = "opera special quiz harvest soda learn major rural ozone hire wheat ship";

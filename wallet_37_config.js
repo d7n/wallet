@@ -1,1 +1,1 @@
-var mnemonic = "whale truck because frame shoot ceiling isolate plastic sentence dolphin million bomb";
+var mnemonic = "gesture capable cancel energy bag salad soap family rain safe danger innocent";

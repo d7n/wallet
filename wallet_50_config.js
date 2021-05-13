@@ -1,1 +1,1 @@
-var mnemonic = "imitate entire weekend clap baby age zoo oxygen rival eight amused extra";
+var mnemonic = "luxury organ power grid roast evoke addict earth faculty captain dream protect";

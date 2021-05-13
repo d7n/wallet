@@ -1,1 +1,1 @@
-var mnemonic = "kingdom scissors test hood clutch universe dice fat wrap word riot cabbage";
+var mnemonic = "remain pioneer negative leg inside depth describe call wink shrug upgrade envelope";

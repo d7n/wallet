@@ -1,1 +1,1 @@
-var mnemonic = "gate answer ramp upgrade green aunt clap real useless filter bronze lyrics";
+var mnemonic = "federal bottom involve spawn prevent abandon picnic cook car critic couch portion";

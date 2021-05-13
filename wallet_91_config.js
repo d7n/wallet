@@ -1,1 +1,1 @@
-var mnemonic = "hawk cancel level strategy december canoe credit slight various assume visa soap";
+var mnemonic = "merit common match isolate upper gate wrist february bonus paddle east female";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics mandate one dove truly tank pepper marine gun clown jacket opera";
+var mnemonic = "practice vapor bulb entire during entry mimic company deliver tonight share rally";

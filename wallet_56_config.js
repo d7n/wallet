@@ -1,1 +1,1 @@
-var mnemonic = "gym cricket thought peanut only still clay sunny image ship toddler asset";
+var mnemonic = "dynamic betray soap deputy region group embark help weasel mercy say chief";

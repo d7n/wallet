@@ -1,1 +1,1 @@
-var mnemonic = "trial couch renew spot shrug board negative balance spread dress top manage";
+var mnemonic = "almost people cost inform aunt lazy dutch kiwi then style coil pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "world salt sibling truck team boy easy weather friend roof already arch";
+var mnemonic = "category behind mosquito orient gorilla chunk cliff harvest fun gym humble uncle";

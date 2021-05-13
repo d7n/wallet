@@ -1,1 +1,1 @@
-var mnemonic = "clever loop jelly pioneer mango solar hold thing rebuild index oyster myth";
+var mnemonic = "left yard glue youth beef smooth radar ecology lens scheme burden collect";

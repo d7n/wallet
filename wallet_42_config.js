@@ -1,1 +1,1 @@
-var mnemonic = "access order spoil tool goddess scrap shrimp slow very slide option seek";
+var mnemonic = "divert print fade riot monkey snack strong sell notice capable faith piece";

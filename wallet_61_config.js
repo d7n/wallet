@@ -1,1 +1,1 @@
-var mnemonic = "panda force payment kidney loop avocado special quit goddess negative inmate suffer";
+var mnemonic = "habit young laundry snow fury celery quiz movie vast draw there become";

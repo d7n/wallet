@@ -1,1 +1,1 @@
-var mnemonic = "place film obtain spy cannon popular daring broken torch pole shine tuna";
+var mnemonic = "raise very what comfort asset speed sudden melody hidden seat company congress";

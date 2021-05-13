@@ -1,1 +1,1 @@
-var mnemonic = "veteran mom mechanic fit unaware swift genuine salad energy obscure response symptom";
+var mnemonic = "elbow arrive gift vast path taxi piece twice outer drastic urban below";

@@ -1,1 +1,1 @@
-var mnemonic = "title topple sure gasp mountain lady flash tornado stadium engine large company";
+var mnemonic = "nice prevent resemble smoke curious bulb uphold story sign crawl limit moral";

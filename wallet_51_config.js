@@ -1,1 +1,1 @@
-var mnemonic = "salad initial bundle require avocado usage now burger other announce judge sniff";
+var mnemonic = "text aerobic brisk lunch attend suit yellow indoor smoke neither ribbon curve";

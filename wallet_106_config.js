@@ -1,1 +1,1 @@
-var mnemonic = "peasant whip cinnamon faith brand six horror globe paper ahead long grain";
+var mnemonic = "pill priority west diet identify hollow solve build body voyage make reward";

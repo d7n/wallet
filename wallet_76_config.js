@@ -1,1 +1,1 @@
-var mnemonic = "chase retreat quick aspect eye all april loan until zebra saddle insect";
+var mnemonic = "begin put close soda sadness slender tent beef surround guess finish divert";

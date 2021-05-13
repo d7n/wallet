@@ -1,1 +1,1 @@
-var mnemonic = "hard ticket inch wild brand cupboard ride planet obvious student dinosaur spray";
+var mnemonic = "boat copy super aisle then neutral admit cherry core license inherit belt";

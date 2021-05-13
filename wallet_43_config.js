@@ -1,1 +1,1 @@
-var mnemonic = "black base gentle latin kangaroo tool defense aisle shaft point fringe post";
+var mnemonic = "bargain release brass when guitar net general novel car winter rapid opera";

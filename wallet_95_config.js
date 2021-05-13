@@ -1,1 +1,1 @@
-var mnemonic = "brick tongue clog burst talk act guide trial grit robot behave trouble";
+var mnemonic = "infant snow citizen beyond simple way slab sort romance suffer venue then";

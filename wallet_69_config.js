@@ -1,1 +1,1 @@
-var mnemonic = "agree approve exit torch divide fetch any fade belt expand glance scorpion";
+var mnemonic = "long shell twist service shallow squeeze room siege believe practice way spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "country glove correct pepper borrow soccer assault attack firm ring attack student";
+var mnemonic = "result clean govern middle hammer enter inquiry promote pole century cry museum";

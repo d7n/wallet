@@ -1,1 +1,1 @@
-var mnemonic = "table public coast fury keen renew once surprise envelope trim sock decline";
+var mnemonic = "north frost true stone fault spend surprise swamp school juice olympic install";

@@ -1,1 +1,1 @@
-var mnemonic = "giant man muscle hello quality raise trade problem brother shaft move devote";
+var mnemonic = "access magic replace upset neutral size obey cart juice ribbon quiz recipe";

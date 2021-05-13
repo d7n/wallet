@@ -1,1 +1,1 @@
-var mnemonic = "search cloth cradle gentle occur cream envelope voice edit lumber runway sound";
+var mnemonic = "forest venue night humor merit mutual state case travel sick identify alter";

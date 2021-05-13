@@ -1,1 +1,1 @@
-var mnemonic = "actress like swear puppy step scorpion balance replace help mountain photo turkey";
+var mnemonic = "describe hip negative rifle tackle blossom armed glue invest develop actor run";

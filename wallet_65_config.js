@@ -1,1 +1,1 @@
-var mnemonic = "fat harbor drip observe oyster claim ceiling wash wisdom metal sword team";
+var mnemonic = "hello frozen hope strategy genius wedding talk elite already sunset galaxy object";

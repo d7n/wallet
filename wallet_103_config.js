@@ -1,1 +1,1 @@
-var mnemonic = "swift butter you violin layer base crazy heart design hidden voice author";
+var mnemonic = "turkey always club fringe expect devote resist walnut physical trick vast balance";

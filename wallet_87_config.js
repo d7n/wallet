@@ -1,1 +1,1 @@
-var mnemonic = "task mobile stumble invest mass scene close discover forget oblige peanut video";
+var mnemonic = "pink please volcano arrange language ceiling fluid fruit clog wet torch caught";

@@ -1,1 +1,1 @@
-var mnemonic = "switch buffalo sure unfold shine onion buddy loan thank sign myth cricket";
+var mnemonic = "cruise nuclear vocal poverty dream hazard famous joy recipe sell brisk picnic";

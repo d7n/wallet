@@ -1,1 +1,1 @@
-var mnemonic = "shiver moment mutual image fantasy jump sense toy sibling energy require seat";
+var mnemonic = "learn hidden fade truth elegant gospel reflect fox wet nice round breeze";

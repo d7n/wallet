@@ -1,1 +1,1 @@
-var mnemonic = "bind vast certain skate lady flee lounge ritual virus excite height ticket";
+var mnemonic = "above story that news photo bottom hundred own oyster call minor crack";

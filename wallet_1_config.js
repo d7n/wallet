@@ -1,1 +1,1 @@
-var mnemonic = "resemble horn train flavor vacant pause exclude guess century camera shove safe";
+var mnemonic = "broken upon garment happy dwarf pond begin manage polar unfold feed divide";

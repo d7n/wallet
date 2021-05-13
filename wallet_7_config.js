@@ -1,1 +1,1 @@
-var mnemonic = "toilet club viable toward royal ball runway bamboo solid zone insect seat";
+var mnemonic = "sight spell notable cram sauce horror chicken photo grain hurry bean sunset";

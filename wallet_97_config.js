@@ -1,1 +1,1 @@
-var mnemonic = "just post unable rookie legend diary skirt identify army beach summer wait";
+var mnemonic = "goose gym owner annual quality asthma shuffle tribe slogan pink gentle galaxy";

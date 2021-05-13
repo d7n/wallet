@@ -1,1 +1,1 @@
-var mnemonic = "edge prevent giraffe mansion bomb festival rifle invite stadium absent vicious whip";
+var mnemonic = "eyebrow embark crucial truly venture there winter any box depth crack you";

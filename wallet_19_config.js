@@ -1,1 +1,1 @@
-var mnemonic = "disagree echo right pool code echo main extend swim robust grant bike";
+var mnemonic = "calm fresh cigar drum hunt motion blood clerk assault cotton place broken";

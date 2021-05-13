@@ -1,1 +1,1 @@
-var mnemonic = "rule lottery cabin muscle love book episode cabbage real exercise rice inherit";
+var mnemonic = "noise marble polar shuffle gym turn dirt wink library imitate symbol figure";

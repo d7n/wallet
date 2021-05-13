@@ -1,1 +1,1 @@
-var mnemonic = "suspect tennis exhaust cabin boring sample spin frame design index fetch summer";
+var mnemonic = "owner pond glare sun fly panda spoon course link razor gap now";

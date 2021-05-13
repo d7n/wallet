@@ -1,1 +1,1 @@
-var mnemonic = "report note wrist symbol man fever risk stay ribbon shove crane ankle";
+var mnemonic = "pepper screen near wall flush rain gadget increase weapon aerobic cruel impose";

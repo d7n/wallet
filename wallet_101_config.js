@@ -1,1 +1,1 @@
-var mnemonic = "media one leaf lawn lab maple sponsor select merit source genuine crowd";
+var mnemonic = "vehicle goddess eager box rather wedding stomach artefact strike donor kingdom repair";

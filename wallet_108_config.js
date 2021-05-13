@@ -1,1 +1,1 @@
-var mnemonic = "canoe what gorilla fatigue hunt caution museum fame visit divide lawsuit curious";
+var mnemonic = "letter property cave tip repair source joy purity debris copper sniff faith";

@@ -1,1 +1,1 @@
-var mnemonic = "able dove ivory brown output wave minute mind virus river bench donate";
+var mnemonic = "father crowd unusual cereal double horror sand correct donkey believe carry glove";

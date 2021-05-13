@@ -1,1 +1,1 @@
-var mnemonic = "eight gold choice once gentle obtain junior paddle clinic rebel effort goddess";
+var mnemonic = "humor piece work mistake abstract rival grief sponsor sentence rubber shift vocal";

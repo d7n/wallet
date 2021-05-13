@@ -1,1 +1,1 @@
-var mnemonic = "cube large nuclear raise you raw three name recall fame priority poet";
+var mnemonic = "another ill cage tired once coast bridge odor ticket about winter strong";

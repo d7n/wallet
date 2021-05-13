@@ -1,1 +1,1 @@
-var mnemonic = "script naive nice bundle evoke tired island lunar radar achieve pipe share";
+var mnemonic = "fatigue person electric sense green cotton swap quit affair produce large hero";

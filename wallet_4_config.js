@@ -1,1 +1,1 @@
-var mnemonic = "federal dolphin gesture glide benefit fence chef raise canvas match concert pilot";
+var mnemonic = "increase twin give drop change gentle walk paddle proof street plate popular";

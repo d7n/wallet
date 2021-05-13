@@ -1,1 +1,1 @@
-var mnemonic = "nerve cactus speed reduce pull modify thing rebel bridge seven august accident";
+var mnemonic = "lucky artwork curve chef else night owner outdoor track stable where world";

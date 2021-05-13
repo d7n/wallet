@@ -1,1 +1,1 @@
-var mnemonic = "light ivory right burden any lady raccoon false fashion trigger club indicate";
+var mnemonic = "grocery mass issue vanish hero pattern dinner cousin angry rely round fury";

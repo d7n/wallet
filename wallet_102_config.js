@@ -1,1 +1,1 @@
-var mnemonic = "celery iron balcony million creek hill debris merit wrong lonely bronze math";
+var mnemonic = "detail leave skate learn quantum thank correct matrix inject spray engage entry";

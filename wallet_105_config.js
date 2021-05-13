@@ -1,1 +1,1 @@
-var mnemonic = "zebra buzz lens upgrade reflect book issue type wool hire comfort start";
+var mnemonic = "trash inmate trade resource net various lecture patch equal thunder found obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse ball other oppose jealous company raccoon kit delay fault awkward reduce";
+var mnemonic = "blame paper oak anxiety kick expand bullet bamboo gift possible issue comfort";

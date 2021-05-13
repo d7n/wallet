@@ -1,1 +1,1 @@
-var mnemonic = "scale fine very rate prevent mad chase small express tornado van wave";
+var mnemonic = "indoor husband morning nature predict supply card pudding chest club provide pave";

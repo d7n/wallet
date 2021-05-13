@@ -1,1 +1,1 @@
-var mnemonic = "library position kiss round immune choice pool climb arrange fuel surprise winter";
+var mnemonic = "robust list melt round barrel burden fix design endless coffee cute ignore";

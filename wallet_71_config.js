@@ -1,1 +1,1 @@
-var mnemonic = "brick pretty ancient tenant case nut ask screen file veteran brown mango";
+var mnemonic = "mention language actual elegant father upper royal school renew mom reduce dial";

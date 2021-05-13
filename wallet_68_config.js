@@ -1,1 +1,1 @@
-var mnemonic = "boil chat urban now drop ready position consider leaf light coffee page";
+var mnemonic = "summer home grass kid unfair innocent blast monitor online admit blind battle";

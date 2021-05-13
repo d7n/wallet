@@ -1,1 +1,1 @@
-var mnemonic = "kitchen diamond amused armed merit puzzle zone armor until scheme pluck rally";
+var mnemonic = "thought object record obscure crime armed letter jungle run lady pulse flavor";

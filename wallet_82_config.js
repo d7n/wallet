@@ -1,1 +1,1 @@
-var mnemonic = "tortoise vital mother clock wide kitchen barely asset author crane question achieve";
+var mnemonic = "taste catch any style trigger under dinner total glue also soft swear";

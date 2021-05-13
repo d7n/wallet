@@ -1,1 +1,1 @@
-var mnemonic = "brain yard index ignore rude lend matter coil fatigue scene dust consider";
+var mnemonic = "double valley clock future glad stomach input brief thing jeans token lawn";

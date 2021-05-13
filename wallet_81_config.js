@@ -1,1 +1,1 @@
-var mnemonic = "pupil help holiday hole blur celery oyster setup recycle eyebrow chat waste";
+var mnemonic = "tomorrow transfer plastic rabbit congress century sport weekend shed lamp total apart";

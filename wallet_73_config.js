@@ -1,1 +1,1 @@
-var mnemonic = "quiz save pyramid vocal outdoor wagon cigar balcony accident fetch exotic twin";
+var mnemonic = "explain gauge track steel violin day long fiction process knee pelican nurse";

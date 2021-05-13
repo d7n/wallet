@@ -1,1 +1,1 @@
-var mnemonic = "hamster side frozen rough nothing rocket private claw dismiss talent club rule";
+var mnemonic = "trouble nurse warfare spatial crucial chapter grit example cricket mule fine must";

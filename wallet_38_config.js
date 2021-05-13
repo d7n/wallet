@@ -1,1 +1,1 @@
-var mnemonic = "fly discover neutral recipe jungle shield hospital anxiety kiwi company impulse ramp";
+var mnemonic = "bone conduct say uncle spice merit health polar dismiss glide border sleep";

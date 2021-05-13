@@ -1,1 +1,1 @@
-var mnemonic = "dizzy month live drama jelly era fence antique legal jaguar grunt horse";
+var mnemonic = "hollow roast fantasy state flower blade scrap asthma fashion casino minute lyrics";

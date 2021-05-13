@@ -1,1 +1,1 @@
-var mnemonic = "much fee echo deputy dolphin spend sort radar topic gain boost anxiety";
+var mnemonic = "slide youth drill city flavor duck cart garment impact fringe winter muffin";

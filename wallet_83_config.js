@@ -1,1 +1,1 @@
-var mnemonic = "ill stock humor test churn capital document swamp earth metal critic february";
+var mnemonic = "valve throw stick motor admit ramp chuckle cruise flip pyramid vote soul";

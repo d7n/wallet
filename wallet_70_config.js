@@ -1,1 +1,1 @@
-var mnemonic = "chief acid artist wisdom polar rigid hover manage taste program giant celery";
+var mnemonic = "debate saddle doctor bonus wink crumble hand right gain vivid ten taxi";

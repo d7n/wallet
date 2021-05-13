@@ -1,1 +1,1 @@
-var mnemonic = "flower answer gravity awkward broccoli suit wonder sunny mule potato kitchen ensure";
+var mnemonic = "game crash donor arrow okay casual major media ordinary scissors nice crumble";

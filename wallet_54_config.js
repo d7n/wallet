@@ -1,1 +1,1 @@
-var mnemonic = "inch monitor cluster away wedding pipe film hen settle already injury boy";
+var mnemonic = "shield salt pluck party science moon click hobby seed identify rubber staff";

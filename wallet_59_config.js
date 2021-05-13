@@ -1,1 +1,1 @@
-var mnemonic = "embark theory shop shove involve scatter ginger around fetch frozen cradle owner";
+var mnemonic = "neglect ill expect embody lunch response void guilt organ vehicle only change";

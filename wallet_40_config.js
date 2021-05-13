@@ -1,1 +1,1 @@
-var mnemonic = "spot used tape citizen expand human nature salute anger theme seven flock";
+var mnemonic = "maid exile canoe average stamp plug cherry file icon amused exist danger";

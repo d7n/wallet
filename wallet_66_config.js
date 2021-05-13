@@ -1,1 +1,1 @@
-var mnemonic = "mom curtain stuff turn text tool mixture garlic claw invest afford athlete";
+var mnemonic = "discover hammer purity seven animal curtain unfair umbrella able lock nut blade";

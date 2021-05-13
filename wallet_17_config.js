@@ -1,1 +1,1 @@
-var mnemonic = "section portion auction short lawn economy despair fluid miss shock tail avoid";
+var mnemonic = "visa sleep evil certain learn nest middle deposit mirror diet pet keep";

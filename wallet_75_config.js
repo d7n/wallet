@@ -1,1 +1,1 @@
-var mnemonic = "tide desk soda rely elder wild wool wrist tennis around keep drastic";
+var mnemonic = "toward person company rotate stand twelve fabric treat include base sorry run";

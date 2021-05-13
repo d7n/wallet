@@ -1,1 +1,1 @@
-var mnemonic = "lunch squeeze surround over lobster crash frost april another wreck unlock rifle";
+var mnemonic = "neutral private vintage segment casual hidden weekend fantasy rug hat blame nothing";

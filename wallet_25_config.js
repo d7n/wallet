@@ -1,1 +1,1 @@
-var mnemonic = "anxiety nuclear often gasp mammal suspect suit cross slam chicken treat fire";
+var mnemonic = "vanish upset crawl misery mother auction analyst fatal pilot hood fabric jealous";

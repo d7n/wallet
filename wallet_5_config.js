@@ -1,1 +1,1 @@
-var mnemonic = "detect rail armor empty mammal damp useful diary disagree innocent indoor region";
+var mnemonic = "razor water expect please wool embrace twist stone maple pumpkin install lend";

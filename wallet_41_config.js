@@ -1,1 +1,1 @@
-var mnemonic = "various shallow situate scale claim system margin claim comfort dismiss approve envelope";
+var mnemonic = "equal fade issue clip sample expose today giggle plate squeeze silly drink";

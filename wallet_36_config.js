@@ -1,1 +1,1 @@
-var mnemonic = "nerve glass chef width whale outdoor deputy approve gown lyrics furnace matter";
+var mnemonic = "sand music return knock together marine space labor rubber swim idle melody";

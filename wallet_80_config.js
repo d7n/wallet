@@ -1,1 +1,1 @@
-var mnemonic = "ahead merry borrow label discover item train layer ensure prize toss zero";
+var mnemonic = "high belt above average twin scorpion picnic ecology tree layer tank term";

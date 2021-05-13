@@ -1,1 +1,1 @@
-var mnemonic = "weasel success since excite drink promote odor stock banner hurt issue crucial";
+var mnemonic = "sausage dry resemble measure dream outer know sentence away crazy crawl army";

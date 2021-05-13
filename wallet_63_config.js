@@ -1,1 +1,1 @@
-var mnemonic = "catalog stool child cute boring limit multiply pond transfer emerge grant hip";
+var mnemonic = "charge shoe tongue march nice faith found rose pink power cook quit";

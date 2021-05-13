@@ -1,1 +1,1 @@
-var mnemonic = "humble exact jump sentence width over theory team dog index ball own";
+var mnemonic = "dinner verb retreat lesson retreat glimpse friend orphan decrease gas gloom demise";
