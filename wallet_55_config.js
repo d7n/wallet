@@ -1,1 +1,1 @@
-var mnemonic = "brisk feature erode double keep few glue timber fish mass sunset dinner";
+var mnemonic = "pulp text income piano spy tool exist actor deputy finish ugly trap";

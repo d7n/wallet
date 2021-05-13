@@ -1,1 +1,1 @@
-var mnemonic = "select master pizza truly area young dog neck jungle fault shop anxiety";
+var mnemonic = "palm country pill science august ecology tunnel promote clean flag upset skate";

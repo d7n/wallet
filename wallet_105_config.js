@@ -1,1 +1,1 @@
-var mnemonic = "picnic nephew two increase debate coral execute trash winter before eyebrow focus";
+var mnemonic = "orphan father clock leisure mechanic culture vendor hammer symbol impulse business chair";

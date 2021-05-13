@@ -1,1 +1,1 @@
-var mnemonic = "kingdom such silly artefact potato tiger test assist evoke industry frog olympic";
+var mnemonic = "behind digital bind logic grid amused coconut speed load planet income unable";

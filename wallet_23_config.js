@@ -1,1 +1,1 @@
-var mnemonic = "champion lonely stove tumble supply danger fame miracle taste car tent afraid";
+var mnemonic = "beef ice head you fuel vault beyond short point vicious farm roof";

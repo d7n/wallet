@@ -1,1 +1,1 @@
-var mnemonic = "cannon eternal document wedding reduce cinnamon crash phone quit tool believe body";
+var mnemonic = "torch inject refuse family join supreme defy escape wrong phone rebel furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "valve seek earth loud maximum enrich erase anxiety spider guide sadness coast";
+var mnemonic = "blush layer delay home where snake crouch february apart science wedding omit";

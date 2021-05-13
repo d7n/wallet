@@ -1,1 +1,1 @@
-var mnemonic = "eagle oak mushroom custom lumber bench polar auction online pepper ring blossom";
+var mnemonic = "improve reason cash afraid buffalo oxygen ocean spatial interest yard urge olympic";

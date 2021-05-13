@@ -1,1 +1,1 @@
-var mnemonic = "cement spray gather alert expect behave police august mistake effort milk weekend";
+var mnemonic = "two indicate prosper equal load razor coffee boil moon argue entry prefer";

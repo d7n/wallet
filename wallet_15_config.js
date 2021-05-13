@@ -1,1 +1,1 @@
-var mnemonic = "high viable trade sign depth group immune ride pulse subway march artwork";
+var mnemonic = "exist father circle three enter miracle chalk dumb oak silly supreme meadow";

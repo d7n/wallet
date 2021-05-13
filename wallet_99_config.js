@@ -1,1 +1,1 @@
-var mnemonic = "swarm dad speed reflect fence pelican ribbon moment medal notice object index";
+var mnemonic = "creek grit push differ lizard bulk laptop craft coil company alcohol hazard";

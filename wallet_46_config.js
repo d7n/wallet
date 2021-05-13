@@ -1,1 +1,1 @@
-var mnemonic = "siege fossil life wagon first true rent want light omit insect pave";
+var mnemonic = "lift escape orchard rival motor balcony heart wool obscure swap industry bounce";

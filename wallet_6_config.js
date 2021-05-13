@@ -1,1 +1,1 @@
-var mnemonic = "mix donkey slice echo traffic seed seed frown move custom high strategy";
+var mnemonic = "knife horror search certain insect unable gather brick ozone region one grit";

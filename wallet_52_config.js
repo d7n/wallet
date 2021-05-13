@@ -1,1 +1,1 @@
-var mnemonic = "portion giant impact reunion aisle cupboard shove reason alley best fish naive";
+var mnemonic = "sample early vital life put weekend mobile mobile announce help various rib";

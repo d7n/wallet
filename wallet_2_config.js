@@ -1,1 +1,1 @@
-var mnemonic = "repeat salmon reform range play flip bottom dune draft mule shell address";
+var mnemonic = "bargain fresh morning blue text trash rhythm walk coach direct car furnace";

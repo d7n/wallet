@@ -1,1 +1,1 @@
-var mnemonic = "pledge obscure youth review paddle quiz wedding ethics announce arm panic cry";
+var mnemonic = "extend hurt enhance ladder embrace this volcano sign world cradle devote else";

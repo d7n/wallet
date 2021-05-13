@@ -1,1 +1,1 @@
-var mnemonic = "tiny orbit bulk devote good brisk bleak art video matter occur empty";
+var mnemonic = "brave matter original ceiling mutual lawsuit force girl drill flight file club";

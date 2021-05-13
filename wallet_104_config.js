@@ -1,1 +1,1 @@
-var mnemonic = "edge tobacco chief rhythm twin drink smart sketch deposit account hard glide";
+var mnemonic = "pole price march insect garbage hidden height private believe forest fluid orange";

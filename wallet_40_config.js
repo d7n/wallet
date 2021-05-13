@@ -1,1 +1,1 @@
-var mnemonic = "spray motor unusual timber pause unaware amount athlete slab toddler picture ship";
+var mnemonic = "swim sample blanket talent grass author fragile creek account hungry orient cherry";

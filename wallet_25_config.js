@@ -1,1 +1,1 @@
-var mnemonic = "silent damp oblige dignity rabbit stomach trim hand degree this vicious bonus";
+var mnemonic = "universe pair praise spare transfer clerk dust village funny pact bracket elevator";

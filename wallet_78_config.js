@@ -1,1 +1,1 @@
-var mnemonic = "vague little dignity chase choose hidden fame type dirt paddle media sunny";
+var mnemonic = "pig estate nephew opinion honey thought rug series lend hotel virtual course";

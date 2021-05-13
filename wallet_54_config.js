@@ -1,1 +1,1 @@
-var mnemonic = "pepper bread poverty key laptop robot vintage situate nasty either shoot once";
+var mnemonic = "ketchup acid bring antenna canyon please art bronze output sing hood layer";

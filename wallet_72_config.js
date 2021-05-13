@@ -1,1 +1,1 @@
-var mnemonic = "viable decline season start skate dance apple pet amount junior liquid win";
+var mnemonic = "globe hub below weapon verb shop curve clown outer boat error report";

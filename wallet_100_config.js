@@ -1,1 +1,1 @@
-var mnemonic = "vanish private elbow mushroom cover task message organ twice bomb survey soccer";
+var mnemonic = "exercise reunion crouch smooth nation salute across dinner black discover blanket repeat";

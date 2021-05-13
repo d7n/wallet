@@ -1,1 +1,1 @@
-var mnemonic = "square piano fragile blame panda term shift jacket evidence wing harvest horn";
+var mnemonic = "park spawn text grocery margin stadium grace story scale short observe company";

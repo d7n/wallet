@@ -1,1 +1,1 @@
-var mnemonic = "island parade convince spread subway horror grow song riot pond mail jump";
+var mnemonic = "dolphin voice seminar catalog weapon stamp long busy motion desert select catalog";

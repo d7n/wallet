@@ -1,1 +1,1 @@
-var mnemonic = "chimney notice puppy trick sausage stool resource leopard rabbit foot buzz dash";
+var mnemonic = "state salute deal program friend vote thought budget hour annual can file";

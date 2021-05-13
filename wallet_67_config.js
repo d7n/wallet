@@ -1,1 +1,1 @@
-var mnemonic = "mystery govern what frozen bracket flag error angry surprise tag tattoo prison";
+var mnemonic = "salute game width exile hybrid unlock forest awesome list collect scorpion spirit";

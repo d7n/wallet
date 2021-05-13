@@ -1,1 +1,1 @@
-var mnemonic = "unable find maid mixed arrest pave ahead assault crush paddle car wise";
+var mnemonic = "thunder traffic benefit rebel club jelly video goose aisle fuel oyster infant";

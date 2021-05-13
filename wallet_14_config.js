@@ -1,1 +1,1 @@
-var mnemonic = "say opera choose mouse bike innocent motion state scissors pigeon script mixed";
+var mnemonic = "dragon sight glad rich miracle key novel apple symbol usual bulk kangaroo";

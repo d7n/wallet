@@ -1,1 +1,1 @@
-var mnemonic = "search tank head name pulse hill uphold olive absorb response coast used";
+var mnemonic = "three invite waste enemy arrow gravity castle party maid property doll chimney";

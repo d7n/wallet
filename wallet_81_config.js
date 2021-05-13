@@ -1,1 +1,1 @@
-var mnemonic = "rice grape fine hybrid warrior resist that satoshi ecology vault copper screen";
+var mnemonic = "idle front swap trigger mandate must another turn dinner push possible rail";

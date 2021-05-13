@@ -1,1 +1,1 @@
-var mnemonic = "yard wash library remember scale much antique infant license chronic cotton shed";
+var mnemonic = "panel rotate project insane artwork easy lumber farm public bid mobile lottery";

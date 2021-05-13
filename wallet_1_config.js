@@ -1,1 +1,1 @@
-var mnemonic = "melody have apology deposit desert deputy purity dash month bring destroy harsh";
+var mnemonic = "happy celery island system then mesh ocean gloom uphold ecology violin fossil";

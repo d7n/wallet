@@ -1,1 +1,1 @@
-var mnemonic = "shield produce cargo universe hotel play smile hundred moment fence assume violin";
+var mnemonic = "afford journey improve can hard labor miracle teach desert cigar monitor disease";

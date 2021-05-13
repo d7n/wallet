@@ -1,1 +1,1 @@
-var mnemonic = "tunnel museum hen company myself visa plastic tomato like suit right trade";
+var mnemonic = "only upset calm liquid before other shrimp leg agent marble salt catch";

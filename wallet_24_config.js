@@ -1,1 +1,1 @@
-var mnemonic = "tired resource ordinary slogan move peace blossom now wheat vanish afraid asthma";
+var mnemonic = "art neglect dry such dish couple black fancy lazy slender limit angle";

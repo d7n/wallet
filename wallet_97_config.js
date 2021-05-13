@@ -1,1 +1,1 @@
-var mnemonic = "fossil victory super process situate brick turtle pulp myth alert virtual aim";
+var mnemonic = "certain marriage case shaft image convince crash parade liar custom average month";

@@ -1,1 +1,1 @@
-var mnemonic = "arch shoulder choice dune supply monster figure stereo salon cattle lab novel";
+var mnemonic = "piano curtain position nice quality brick clean expire spring law seed alpha";

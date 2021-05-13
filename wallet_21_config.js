@@ -1,1 +1,1 @@
-var mnemonic = "fragile erase wide patrol orphan certain scrap zero electric case unique refuse";
+var mnemonic = "lock detect notice pond deputy easily bread release glide arm amount bean";

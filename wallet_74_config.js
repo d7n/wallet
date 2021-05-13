@@ -1,1 +1,1 @@
-var mnemonic = "account pitch then unable nuclear ignore april cargo dilemma rocket zebra office";
+var mnemonic = "appear north seek cause charge fog predict turn teach language trumpet weapon";

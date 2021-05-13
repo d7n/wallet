@@ -1,1 +1,1 @@
-var mnemonic = "aim short bottom fancy track real stool flat poem tape crumble pluck";
+var mnemonic = "early video true slow crack hood comfort tortoise asthma student velvet citizen";

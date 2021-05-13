@@ -1,1 +1,1 @@
-var mnemonic = "clip extend vapor seek feature furnace easily other taste involve deer sphere";
+var mnemonic = "name skate surface draft ankle source space citizen spatial art home essence";

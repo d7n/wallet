@@ -1,1 +1,1 @@
-var mnemonic = "lawn provide ostrich history chair mention gain price hill fun taxi salad";
+var mnemonic = "spike oil idea start health foam ring cigar pear quiz surprise people";

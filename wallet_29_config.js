@@ -1,1 +1,1 @@
-var mnemonic = "vivid symptom fee phone chest action upgrade seminar vintage shop wine board";
+var mnemonic = "sausage virus clever artist forward manual eternal seminar course usual cloud false";

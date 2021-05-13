@@ -1,1 +1,1 @@
-var mnemonic = "enjoy humor cook robust eagle kidney once cheap robot chair wash about";
+var mnemonic = "staff core tent gadget license obtain stuff interest omit you length alone";

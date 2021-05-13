@@ -1,1 +1,1 @@
-var mnemonic = "feature appear swap blanket good mimic boost oil powder oval convince lunch";
+var mnemonic = "amount input secret manual glove kite ball point gas become dad nephew";

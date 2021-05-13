@@ -1,1 +1,1 @@
-var mnemonic = "marble street swallow call pigeon large purse magnet alone kiss black rich";
+var mnemonic = "six cinnamon welcome poverty increase prefer canvas consider river ketchup raven affair";

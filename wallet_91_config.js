@@ -1,1 +1,1 @@
-var mnemonic = "ketchup weather manage steel judge boss train planet ramp pole submit nice";
+var mnemonic = "icon carry drift tape hurry ceiling mountain gain deer olive misery script";

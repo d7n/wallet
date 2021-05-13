@@ -1,1 +1,1 @@
-var mnemonic = "genre release transfer source lizard nominee fade chuckle pause vocal match hobby";
+var mnemonic = "script maple system bundle degree seven oppose advance choose kite fabric sight";

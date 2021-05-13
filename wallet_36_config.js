@@ -1,1 +1,1 @@
-var mnemonic = "matrix divert six april remind salad wrestle muffin dinner drift awkward true";
+var mnemonic = "afraid smoke fabric student must shiver index eyebrow spy tag stumble cupboard";

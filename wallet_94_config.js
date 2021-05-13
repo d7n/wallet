@@ -1,1 +1,1 @@
-var mnemonic = "region forum recall gasp cargo message squirrel language pencil river street rather";
+var mnemonic = "animal embody pair click case mosquito present maximum sock kind napkin desk";

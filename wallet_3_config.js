@@ -1,1 +1,1 @@
-var mnemonic = "shrug cause dilemma rhythm spread wealth pulse foil maximum enough dry explain";
+var mnemonic = "safe shed wreck globe rug rack milk stick arrange crime wish scare";

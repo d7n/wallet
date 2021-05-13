@@ -1,1 +1,1 @@
-var mnemonic = "goddess wagon valley exact dawn glass comfort leader viable escape spell orbit";
+var mnemonic = "sick sting cat pink enrich angry between island relief extra now twin";

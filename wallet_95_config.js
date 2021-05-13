@@ -1,1 +1,1 @@
-var mnemonic = "spare stay benefit review carbon duty inject lake left rare price leave";
+var mnemonic = "admit victory clump crack market hire ribbon nest circle fitness upper anger";

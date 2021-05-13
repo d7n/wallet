@@ -1,1 +1,1 @@
-var mnemonic = "cactus album make jazz come decorate another deposit convince idea print express";
+var mnemonic = "hold creek close need win travel solid modify exclude crater crisp they";

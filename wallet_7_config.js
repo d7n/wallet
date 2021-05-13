@@ -1,1 +1,1 @@
-var mnemonic = "canvas common fancy moral pioneer frame use radar observe guitar exotic indicate";
+var mnemonic = "deal soccer staff sorry april before grit tube expire upgrade zebra adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "seed little shoulder canyon time wedding ordinary regular square path grocery soccer";
+var mnemonic = "track cram goose birth skate broom state light comic problem poet lesson";

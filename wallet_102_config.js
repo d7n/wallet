@@ -1,1 +1,1 @@
-var mnemonic = "puppy truth report say session leaf earth punch obvious more weasel chapter";
+var mnemonic = "book subject punch have quality penalty champion february invite lounge lion thunder";

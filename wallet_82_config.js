@@ -1,1 +1,1 @@
-var mnemonic = "tattoo spend catalog bomb height route canyon mesh easily soda canal witness";
+var mnemonic = "animal gadget robust power warrior sight own garbage topple jacket age rally";

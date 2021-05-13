@@ -1,1 +1,1 @@
-var mnemonic = "faculty guilt fish grit entry shrimp roast hover draw cube feed drive";
+var mnemonic = "tooth elder lumber forward pizza dynamic claim hurt shoot enforce ramp diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "develop dust wool caught tail lobster garage corn position letter lava lobster";
+var mnemonic = "minimum clever direct neither job six illegal access angry slim favorite wife";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb mirror stereo combine core town figure talent shrug truly coral decorate";
+var mnemonic = "body tennis tail cage park obscure bright motor nurse shoulder envelope bacon";

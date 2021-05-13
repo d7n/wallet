@@ -1,1 +1,1 @@
-var mnemonic = "alley label forum like grape curve cash fruit violin awesome riot just";
+var mnemonic = "bulk deposit during maple attack repeat story onion rhythm local ancient amused";

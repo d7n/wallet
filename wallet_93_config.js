@@ -1,1 +1,1 @@
-var mnemonic = "finger popular hurt actor valve thought shallow divert autumn satisfy egg method";
+var mnemonic = "grow tube suit blade lamp odor occur miss gold fossil slight lawsuit";

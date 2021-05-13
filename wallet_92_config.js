@@ -1,1 +1,1 @@
-var mnemonic = "visa gloom grant art maximum fluid silent group alarm trumpet gap gas";
+var mnemonic = "minute sense depend about road atom dentist angle churn output long pill";

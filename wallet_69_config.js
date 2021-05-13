@@ -1,1 +1,1 @@
-var mnemonic = "brick first couple flavor story mobile liar jaguar orchard concert flag stone";
+var mnemonic = "cloud pattern voice rule quick brisk finish rubber message lemon release stage";

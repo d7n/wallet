@@ -1,1 +1,1 @@
-var mnemonic = "million unable solar knock identify suffer rapid remind trick tilt shoulder sport";
+var mnemonic = "seven broccoli theory pact drop lazy toy relief erode possible melt festival";

@@ -1,1 +1,1 @@
-var mnemonic = "hole neither unknown under logic core envelope hollow bind summer trial aerobic";
+var mnemonic = "when wheel coil estate steak pipe inside double quiz destroy fruit pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "faith sign kitten scan account endless brisk false silk type draw reopen";
+var mnemonic = "lunch please empty gloom dune such crawl arrest river box quick gas";

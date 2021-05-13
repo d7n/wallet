@@ -1,1 +1,1 @@
-var mnemonic = "prosper camera rigid orbit butter dignity ecology mechanic expand deer quarter either";
+var mnemonic = "improve buyer basic scatter slam echo filter ocean traffic tooth replace say";

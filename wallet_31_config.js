@@ -1,1 +1,1 @@
-var mnemonic = "nerve shield evidence nasty dust piano kangaroo baby forward father arrest all";
+var mnemonic = "kangaroo need path train best assume spider excite prize answer walnut excuse";

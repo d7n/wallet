@@ -1,1 +1,1 @@
-var mnemonic = "always market mechanic system crush filter stool property often innocent double beauty";
+var mnemonic = "pause cloud choose journey wise kitten fatal art zoo clip dash truly";

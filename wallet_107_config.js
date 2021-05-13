@@ -1,1 +1,1 @@
-var mnemonic = "wave roast pause now bench book bag gaze ordinary lens another dumb";
+var mnemonic = "kid embrace gossip kiwi divide begin limb slogan jelly burst winner other";

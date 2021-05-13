@@ -1,1 +1,1 @@
-var mnemonic = "twice company enroll shrimp stereo famous merge excess episode siren violin maximum";
+var mnemonic = "pistol snack tomato mail veteran planet foam pen scare current torch diary";

@@ -1,1 +1,1 @@
-var mnemonic = "crater control tell attract prefer island inherit fork social rule erase laundry";
+var mnemonic = "turn used member gown glory donor move gesture dove virus stool treat";

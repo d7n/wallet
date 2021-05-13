@@ -1,1 +1,1 @@
-var mnemonic = "fringe breeze supreme leaf liar sad release apology speed wool robust know";
+var mnemonic = "observe victory goat echo laundry offer acquire merge ranch bleak brass maximum";

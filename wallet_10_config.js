@@ -1,1 +1,1 @@
-var mnemonic = "toe upper meadow excite label order coil save garbage receive scrap broom";
+var mnemonic = "smoke ghost theme mixture warrior debris brass crack local husband olympic chase";

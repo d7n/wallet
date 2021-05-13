@@ -1,1 +1,1 @@
-var mnemonic = "metal then can require device ranch practice live exchange pond roast employ";
+var mnemonic = "pen install curve devote tumble base enlist orchard meadow deputy pull thumb";

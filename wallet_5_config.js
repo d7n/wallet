@@ -1,1 +1,1 @@
-var mnemonic = "slide media brass rack adapt chaos meat monitor hawk clap avoid visa";
+var mnemonic = "mimic refuse drum accident copper mirror liberty long test muffin unhappy network";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom clarify between loud scan coin upper goose legal toy topic nerve";
+var mnemonic = "top wheat range whale weasel until divide resemble dust fruit episode clap";

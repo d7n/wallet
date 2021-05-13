@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ensure false blush news maple achieve stomach cereal spring equip curve";
+var mnemonic = "ecology soccer hospital brisk scene video merit chalk drive collect burden eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "clock injury biology flat blood step maple cricket glance garage private coyote";
+var mnemonic = "high fall usual tone refuse bargain dynamic ability churn place radio curve";

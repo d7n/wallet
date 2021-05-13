@@ -1,1 +1,1 @@
-var mnemonic = "panda curtain menu frost rate leopard multiply reveal result win mass roast";
+var mnemonic = "february warrior forest test silly lunch vacant car swing abandon high regular";

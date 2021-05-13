@@ -1,1 +1,1 @@
-var mnemonic = "require flat pulse sword funny apart nut actual ensure trend tissue figure";
+var mnemonic = "glimpse taste lobster pepper give steel collect around wash maximum plate treat";

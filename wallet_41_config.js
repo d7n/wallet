@@ -1,1 +1,1 @@
-var mnemonic = "people switch cart submit expose velvet member script garbage gravity column someone";
+var mnemonic = "thought exile damp rug athlete demand wonder finish poem bounce bar mixture";

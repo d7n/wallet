@@ -1,1 +1,1 @@
-var mnemonic = "chimney goat minute document movie hammer plastic speak jaguar lunar day chief";
+var mnemonic = "student equal detect front tone city letter coyote report hire inmate wagon";
