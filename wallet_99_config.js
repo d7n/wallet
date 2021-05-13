@@ -1,1 +1,1 @@
-var mnemonic = "luxury east blind violin excess need bundle outdoor travel student apple spare";
+var mnemonic = "drum garment shadow wet armor appear neglect rather sure media era state";

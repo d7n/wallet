@@ -1,1 +1,1 @@
-var mnemonic = "hard song remember force work kick middle noodle public immense moon churn";
+var mnemonic = "ghost rival mail oak donor reject gun time remember vintage loyal ocean";

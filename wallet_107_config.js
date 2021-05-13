@@ -1,1 +1,1 @@
-var mnemonic = "stomach confirm salad fade include mosquito glare wear reflect boring conduct draw";
+var mnemonic = "chair will jungle connect squeeze cradle whip fabric space witness glide liquid";

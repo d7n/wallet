@@ -1,1 +1,1 @@
-var mnemonic = "visa layer ginger village afraid embark celery clerk kitten december rib drama";
+var mnemonic = "sea clump verb abuse fever north hat dial predict chest text immune";

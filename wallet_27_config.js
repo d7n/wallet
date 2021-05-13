@@ -1,1 +1,1 @@
-var mnemonic = "shoe easily element device menu real flight scout era stuff business govern";
+var mnemonic = "display already margin budget patrol blanket utility bid pulp fetch vessel city";

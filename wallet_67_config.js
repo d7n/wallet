@@ -1,1 +1,1 @@
-var mnemonic = "wise column piano asset excess like glory desk fresh more deny obscure";
+var mnemonic = "scissors gallery wisdom logic eyebrow inform off food puppy stone island when";

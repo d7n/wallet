@@ -1,1 +1,1 @@
-var mnemonic = "breeze next tube smart garden dilemma off swamp meadow fine remind local";
+var mnemonic = "recipe kingdom crucial life wave shock noodle wink thrive craft vacant shed";

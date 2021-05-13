@@ -1,1 +1,1 @@
-var mnemonic = "mistake devote damp easily excuse rate awake wool fuel nest foil copy";
+var mnemonic = "kiss license agent narrow notable suit hard win ensure enough fiscal jungle";

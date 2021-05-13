@@ -1,1 +1,1 @@
-var mnemonic = "thank crop crucial assist stage miss garbage man decide chimney swear hen";
+var mnemonic = "salmon list proud build feature crack day essay punch lyrics scheme evoke";

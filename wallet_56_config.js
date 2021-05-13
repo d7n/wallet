@@ -1,1 +1,1 @@
-var mnemonic = "pledge hill wheat produce estate visit chronic exercise scene march draft depth";
+var mnemonic = "blanket fury parade scatter melt brief vanish diesel sail promote bulb auto";

@@ -1,1 +1,1 @@
-var mnemonic = "secret upper shuffle spirit luxury minute tragic sugar capital salad strong explain";
+var mnemonic = "napkin matrix zone caught mind nurse exchange disease film tornado reveal motion";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb video scene item ticket educate decorate economy witness cabin chuckle below";
+var mnemonic = "pluck rice category march victory sunny gather budget vast attract unveil yard";

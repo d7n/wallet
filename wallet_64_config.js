@@ -1,1 +1,1 @@
-var mnemonic = "gravity garage monkey tennis barely onion tuna order connect shuffle leaf carbon";
+var mnemonic = "primary vital visual noble panther small grace curtain viable verb sunset inherit";

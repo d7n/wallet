@@ -1,1 +1,1 @@
-var mnemonic = "wait gold young cinnamon seven jacket senior broom eagle uphold tunnel poverty";
+var mnemonic = "fitness leaf frost guitar canoe swallow mass mixture pizza swing bright crash";

@@ -1,1 +1,1 @@
-var mnemonic = "kit galaxy source where exit exchange object float candy enhance common hood";
+var mnemonic = "bean today erupt frame deliver detail guitar skin own nominee consider crew";

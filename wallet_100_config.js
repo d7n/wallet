@@ -1,1 +1,1 @@
-var mnemonic = "melody govern polar wet battle glow tilt urban page shove clown episode";
+var mnemonic = "gossip harbor arrest leg beef fuel venture nuclear muscle exclude border group";

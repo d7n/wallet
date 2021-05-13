@@ -1,1 +1,1 @@
-var mnemonic = "leaf dutch cause father inhale stone meadow eagle opera avoid another dismiss";
+var mnemonic = "shrug deny twin magnet busy unlock skull adapt circle acoustic remove genre";

@@ -1,1 +1,1 @@
-var mnemonic = "subject school country valve casual south coach pistol blade explain gas laundry";
+var mnemonic = "jeans country vanish pyramid chapter uncle inject benefit weekend design fuel cargo";

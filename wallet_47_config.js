@@ -1,1 +1,1 @@
-var mnemonic = "typical wife balance tail gossip cram trust typical flat park embrace tide";
+var mnemonic = "fringe snack alert feature sorry occur pledge dolphin guide chapter light retire";

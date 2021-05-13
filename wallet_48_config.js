@@ -1,1 +1,1 @@
-var mnemonic = "coyote labor snap humble junior duty sample dutch order visual toward dawn";
+var mnemonic = "one increase cave much pizza broccoli squirrel senior veteran today sea marriage";

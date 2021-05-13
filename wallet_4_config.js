@@ -1,1 +1,1 @@
-var mnemonic = "patrol spot grain party busy gown tornado silly antique oak claim theory";
+var mnemonic = "furnace paddle enact maple elder pudding judge more afford rule move around";

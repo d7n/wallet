@@ -1,1 +1,1 @@
-var mnemonic = "tonight couple actor service embrace face tape primary prize lyrics minor tenant";
+var mnemonic = "panic jungle wall bulb feel shop tell glass crawl release later reason";

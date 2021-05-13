@@ -1,1 +1,1 @@
-var mnemonic = "enrich inform slogan steel dad oak harvest cake grass cross rail empower";
+var mnemonic = "curtain often demise glare seek entire broom secret wrap castle book bonus";

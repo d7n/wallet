@@ -1,1 +1,1 @@
-var mnemonic = "air virtual space sweet spoon pass hollow quarter inject squirrel claim proud";
+var mnemonic = "cross velvet fall common vacant extra manual increase bridge cradle fever remain";

@@ -1,1 +1,1 @@
-var mnemonic = "consider april become dynamic merit adult wagon iron vital success ostrich vacuum";
+var mnemonic = "model kiss hurdle wise scare soldier unknown athlete prepare nature inherit slide";

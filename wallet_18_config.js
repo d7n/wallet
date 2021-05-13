@@ -1,1 +1,1 @@
-var mnemonic = "obey lady shiver toast wheat sand discover isolate zoo drop nice lamp";
+var mnemonic = "catalog tennis oven exact liquid picnic garage else morning reveal legend aisle";

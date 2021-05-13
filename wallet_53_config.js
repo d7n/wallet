@@ -1,1 +1,1 @@
-var mnemonic = "orbit unfold frown sight impact stock later capable float primary above friend";
+var mnemonic = "royal peace worth step toddler fitness pencil unique excess shrimp recall town";

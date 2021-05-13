@@ -1,1 +1,1 @@
-var mnemonic = "split school broken impose happy oval away yard olympic woman fury maze";
+var mnemonic = "arm speed unaware forget goat sign pill gown easy rule supply shift";

@@ -1,1 +1,1 @@
-var mnemonic = "raven radio gain brother blade vocal anchor crater estate flower stable liquid";
+var mnemonic = "lumber pear glow west field tape jar route century tragic soon early";

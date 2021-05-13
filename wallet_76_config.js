@@ -1,1 +1,1 @@
-var mnemonic = "sell identify relief mother enrich actor reopen east verify brief book lesson";
+var mnemonic = "session today actual joy income brain empty hope dawn farm mutual repair";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor agree grit better panda idea deal sea raise belt head pistol";
+var mnemonic = "patch outdoor ordinary canoe lab genre either aerobic effort drive engage radar";

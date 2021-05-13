@@ -1,1 +1,1 @@
-var mnemonic = "abstract traffic bunker accuse auto struggle portion marriage pig true engage pretty";
+var mnemonic = "excite aim sibling mouse spell hand juice employ worth soul panther memory";

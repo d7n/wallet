@@ -1,1 +1,1 @@
-var mnemonic = "picnic swim debate license globe visual monitor must subway that kiwi bus";
+var mnemonic = "much actress glove design unhappy fruit between liquid bike bean fog misery";

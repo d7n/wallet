@@ -1,1 +1,1 @@
-var mnemonic = "employ orchard ghost victory accuse inject accuse bag cement shy alone sport";
+var mnemonic = "install venture game link size master setup replace gadget visual divorce accident";

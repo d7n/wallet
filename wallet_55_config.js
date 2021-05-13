@@ -1,1 +1,1 @@
-var mnemonic = "ethics raw quarter alone title spray burden outside expire inflict enemy force";
+var mnemonic = "luggage tuition warfare knife bulk weasel usual matrix leaf tent unhappy wrestle";

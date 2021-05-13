@@ -1,1 +1,1 @@
-var mnemonic = "fly win already transfer toe van lion stick anger position noise worry";
+var mnemonic = "elegant mesh boat afford spider tell cliff quote oyster gauge leg saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf praise reform rubber oxygen negative differ already dilemma hen soon crime";
+var mnemonic = "badge angle scrap young deputy relax law lobster glory melody coil plastic";

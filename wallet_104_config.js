@@ -1,1 +1,1 @@
-var mnemonic = "odor cannon guard purchase detect cart rebel impulse swift unfair fancy parent";
+var mnemonic = "test physical nominee oak avoid gadget episode ghost lizard mutual romance school";

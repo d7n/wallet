@@ -1,1 +1,1 @@
-var mnemonic = "impact version behind refuse blue sunny rich dance pull often blossom improve";
+var mnemonic = "notice glow dinosaur jealous teach earth dizzy dirt truly film pizza arrest";

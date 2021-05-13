@@ -1,1 +1,1 @@
-var mnemonic = "party speed taxi quit play bar blast narrow recipe giggle olympic disagree";
+var mnemonic = "okay spot exact cigar equip again run twin afford balance begin legal";

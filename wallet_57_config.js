@@ -1,1 +1,1 @@
-var mnemonic = "prison flee gloom field elite busy love deputy loop magnet enter despair";
+var mnemonic = "ripple rely toddler bread flush hollow acoustic employ know blossom use vicious";

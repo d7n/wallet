@@ -1,1 +1,1 @@
-var mnemonic = "flush tide sight throw slim analyst second north couch aware deputy enter";
+var mnemonic = "hybrid output orchard popular melody broom remain dawn regret spot security clarify";

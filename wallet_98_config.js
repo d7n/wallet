@@ -1,1 +1,1 @@
-var mnemonic = "alley into tail brown aerobic effort trigger alpha rifle pulp unfair icon";
+var mnemonic = "brain guitar can cinnamon ghost salon miss detect shield champion bright divert";

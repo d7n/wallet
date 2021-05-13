@@ -1,1 +1,1 @@
-var mnemonic = "they public purpose wheat hurry session half license select print debate wine";
+var mnemonic = "range joke odor kid observe tip village write ring place answer chef";

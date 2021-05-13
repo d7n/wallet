@@ -1,1 +1,1 @@
-var mnemonic = "wall pencil loud nephew donor limit tuna critic express neglect entry captain";
+var mnemonic = "quote ozone easily girl where tone acoustic broom apple flavor receive around";

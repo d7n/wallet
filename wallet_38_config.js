@@ -1,1 +1,1 @@
-var mnemonic = "tired decide suit heavy maple music aerobic rebuild galaxy stamp scrub pony";
+var mnemonic = "innocent scheme wisdom soap aunt food motion exotic worry scan alone toy";

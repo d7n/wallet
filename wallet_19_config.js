@@ -1,1 +1,1 @@
-var mnemonic = "smoke notable devote end resemble boss finger knock fly rare achieve tennis";
+var mnemonic = "vanish beyond dolphin sample ceiling update auto ugly suggest shine garlic bachelor";

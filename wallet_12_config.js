@@ -1,1 +1,1 @@
-var mnemonic = "marble seat verb kiwi buyer any army caught crazy benefit alone journey";
+var mnemonic = "this viable vapor hybrid evil boost close differ nerve vital organ wink";

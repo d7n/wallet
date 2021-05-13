@@ -1,1 +1,1 @@
-var mnemonic = "fringe laptop spend bulb artefact orange left reform pool foam twenty tuition";
+var mnemonic = "fox tooth dolphin gather burden abstract disagree loyal stomach soft pretty hub";

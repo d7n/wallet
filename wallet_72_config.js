@@ -1,1 +1,1 @@
-var mnemonic = "index chuckle hint hidden tongue office velvet inner husband arm bunker service";
+var mnemonic = "correct laptop small answer rapid marriage sauce spy woman lottery dry battle";

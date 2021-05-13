@@ -1,1 +1,1 @@
-var mnemonic = "muscle tennis orphan harsh broken access beach nest immense sword left blossom";
+var mnemonic = "accident gown joke wool rally swallow element box twice concert slide moment";

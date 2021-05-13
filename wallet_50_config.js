@@ -1,1 +1,1 @@
-var mnemonic = "outdoor minor subject cattle melody runway easily engage rival able execute mistake";
+var mnemonic = "index recall ancient nephew tomato cycle pitch east sheriff quit tackle price";

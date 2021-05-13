@@ -1,1 +1,1 @@
-var mnemonic = "barely antique gold weird major neutral brand erupt reject wet upgrade oxygen";
+var mnemonic = "job upset tribe switch shoe bomb category black job mobile soft mountain";

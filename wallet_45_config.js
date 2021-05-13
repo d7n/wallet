@@ -1,1 +1,1 @@
-var mnemonic = "garment critic practice elbow shaft police repeat cup lend vessel raven endorse";
+var mnemonic = "earn mandate device theory crowd dentist discover coral special hospital spirit damage";

@@ -1,1 +1,1 @@
-var mnemonic = "charge income swift mystery puzzle shuffle climb fly jump because machine clarify";
+var mnemonic = "access area unique wash all purpose vague crumble unveil gold purchase decide";

@@ -1,1 +1,1 @@
-var mnemonic = "begin coral actor uncover begin gesture muscle impulse gadget use obscure leisure";
+var mnemonic = "cereal milk mammal dog power assault thing dog between round drive morning";

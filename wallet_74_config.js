@@ -1,1 +1,1 @@
-var mnemonic = "argue field bitter exile utility inflict cattle wealth universe audit snake yard";
+var mnemonic = "rude vibrant mind zero obey work phrase trigger winter arch hurdle depth";

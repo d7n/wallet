@@ -1,1 +1,1 @@
-var mnemonic = "uphold orange predict slot drink book traffic must seat aware leg oak";
+var mnemonic = "treat wink dragon blade battle clown surprise blush ostrich physical dismiss stock";

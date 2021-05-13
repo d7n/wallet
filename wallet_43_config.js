@@ -1,1 +1,1 @@
-var mnemonic = "main panther ice lady they below order lazy cabin opera organ wire";
+var mnemonic = "rice wagon dutch matter crash envelope youth street solar lawn search juice";

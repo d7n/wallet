@@ -1,1 +1,1 @@
-var mnemonic = "attitude practice blossom wreck still about again empower toward helmet rookie exhibit";
+var mnemonic = "olympic tomato where surprise cool seed lottery snap initial tenant slow vibrant";

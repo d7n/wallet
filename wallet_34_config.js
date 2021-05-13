@@ -1,1 +1,1 @@
-var mnemonic = "actress ski brass foot castle glance orchard thrive ten album grocery owner";
+var mnemonic = "lunch fantasy copy sweet dilemma sentence quality loop evolve thank ceiling divide";

@@ -1,1 +1,1 @@
-var mnemonic = "cross wife select tray glance pink choose north sauce resource bus inspire";
+var mnemonic = "fancy artwork right enjoy purse permit hamster swamp time analyst citizen advice";

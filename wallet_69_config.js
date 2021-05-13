@@ -1,1 +1,1 @@
-var mnemonic = "review ancient push neither giggle dry fee rather genius then purse income";
+var mnemonic = "cram sadness clip protect perfect duck tiger van exchange robust cycle drive";

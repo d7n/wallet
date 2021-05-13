@@ -1,1 +1,1 @@
-var mnemonic = "flower mixed order luxury eye explain burden mobile elder wet apple dizzy";
+var mnemonic = "jelly dish coach fish odor afraid humble margin fringe body want balcony";

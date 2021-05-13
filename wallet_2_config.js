@@ -1,1 +1,1 @@
-var mnemonic = "crater demand soda palace hidden basket need uncle obscure rebuild canal demand";
+var mnemonic = "survey injury assume shoot glove friend silk become neglect pink rude wife";

@@ -1,1 +1,1 @@
-var mnemonic = "wall material knock grape bottom company space host country corn rare fiber";
+var mnemonic = "artwork boost ancient reduce message robot govern ship chicken panda diary uncover";

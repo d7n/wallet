@@ -1,1 +1,1 @@
-var mnemonic = "cattle dog magic ill where fragile power lobster enhance unlock sister genre";
+var mnemonic = "dog strong dilemma shove gossip surge small summer october caught arrest uncle";

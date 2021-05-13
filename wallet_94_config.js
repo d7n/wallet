@@ -1,1 +1,1 @@
-var mnemonic = "anger vacant puzzle eagle injury unlock punch refuse actress output execute ordinary";
+var mnemonic = "royal allow inquiry dream thumb mouse cheese world flame run camera motion";

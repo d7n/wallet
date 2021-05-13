@@ -1,1 +1,1 @@
-var mnemonic = "special fault arrest suit copy climb love pitch senior share ride unaware";
+var mnemonic = "diet feel east found olympic chef wing brand sheriff hedgehog adapt hire";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck oblige tilt camera tiger pear dance wink helmet slender soft nest";
+var mnemonic = "margin olive flame kingdom require raw bag swim orange napkin cloth arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "wink pigeon clever gauge trade couple forum hello bundle top quote floor";
+var mnemonic = "increase clock outdoor swap depend section brush devote target border build dismiss";

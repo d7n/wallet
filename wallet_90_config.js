@@ -1,1 +1,1 @@
-var mnemonic = "melt actual insane cargo prepare daughter promote absorb tobacco satisfy collect mask";
+var mnemonic = "burden hazard escape kiwi castle mom float fitness elbow there census radio";

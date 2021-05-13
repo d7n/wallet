@@ -1,1 +1,1 @@
-var mnemonic = "general audit parrot clever amazing nose vicious patrol token large reduce combine";
+var mnemonic = "write festival master furnace mutual reason busy syrup success curious blood win";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum banner include frozen advance chase next brief elbow jump much team";
+var mnemonic = "speed round excuse sibling leg snow defy swap pact vintage address heart";

@@ -1,1 +1,1 @@
-var mnemonic = "winter fit limit tool dinosaur manage ring hawk rabbit detail announce erosion";
+var mnemonic = "auction replace bounce runway aspect visual gate nothing slam behave galaxy run";

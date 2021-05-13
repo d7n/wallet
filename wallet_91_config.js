@@ -1,1 +1,1 @@
-var mnemonic = "vital present sword force auction movie vague cat menu curtain spider main";
+var mnemonic = "festival can average bracket trap raven spend elbow define maze paper win";

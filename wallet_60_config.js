@@ -1,1 +1,1 @@
-var mnemonic = "much distance during ability emerge garbage include unusual neck title dinner review";
+var mnemonic = "sauce health morning cabin group monkey thing festival ritual tourist rubber affair";

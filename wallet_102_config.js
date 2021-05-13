@@ -1,1 +1,1 @@
-var mnemonic = "convince invest sunset like festival coach segment giraffe aspect glass win rapid";
+var mnemonic = "rack screen welcome adjust wolf hard feel fitness topple picture climb antique";

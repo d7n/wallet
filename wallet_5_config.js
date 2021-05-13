@@ -1,1 +1,1 @@
-var mnemonic = "easy spell organ trade series bonus minute theme rally ankle beef run";
+var mnemonic = "forward attract merry elephant flat coach mixture peasant orbit robust area neutral";

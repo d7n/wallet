@@ -1,1 +1,1 @@
-var mnemonic = "airport diesel liar august dizzy session story among modify mule polar person";
+var mnemonic = "super tool summer grain vague sword daring hammer miracle choose junk embrace";

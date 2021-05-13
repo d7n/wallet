@@ -1,1 +1,1 @@
-var mnemonic = "love play feed gain spider zone claw awful draw cube festival session";
+var mnemonic = "tumble device extra video scan egg abstract nerve pudding forest engage wood";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly acquire choose gain ski addict wide face fashion lobster language planet";
+var mnemonic = "knock hammer valid tomato banner harsh coffee happy senior develop recycle ahead";

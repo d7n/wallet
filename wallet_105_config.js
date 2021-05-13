@@ -1,1 +1,1 @@
-var mnemonic = "scout panel buffalo bracket sell wine virus rug problem certain jungle size";
+var mnemonic = "lecture language festival hour faint become vocal pride close ill furnace toilet";

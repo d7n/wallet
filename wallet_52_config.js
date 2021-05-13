@@ -1,1 +1,1 @@
-var mnemonic = "december answer carpet mosquito disorder crime into skill grab nurse patrol mistake";
+var mnemonic = "alone fossil ritual mouse obey shallow certain female payment quality install reflect";

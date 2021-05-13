@@ -1,1 +1,1 @@
-var mnemonic = "garden caught casual picture rifle typical wet judge lunch orchard version rude";
+var mnemonic = "piano obtain element device already walnut pulp aisle empty trick smooth upper";

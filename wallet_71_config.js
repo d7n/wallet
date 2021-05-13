@@ -1,1 +1,1 @@
-var mnemonic = "parrot rather illegal six box chunk chef quick model chapter basic lens";
+var mnemonic = "various famous orient lens monitor gorilla camp toward clutch burst tissue club";

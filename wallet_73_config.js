@@ -1,1 +1,1 @@
-var mnemonic = "govern social enjoy swim arch kangaroo region corn square scheme demise curve";
+var mnemonic = "super frost lottery engine chief bleak hire universe help input gap blind";

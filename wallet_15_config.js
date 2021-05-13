@@ -1,1 +1,1 @@
-var mnemonic = "flash cost inform rice book fit sad diamond craft gesture feed rebel";
+var mnemonic = "fatal coconut slogan hand feel blush window panther harsh ceiling resource armor";

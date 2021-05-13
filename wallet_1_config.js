@@ -1,1 +1,1 @@
-var mnemonic = "reduce monitor vendor quality proof impulse combine vicious unveil key broken fault";
+var mnemonic = "truck distance mind trumpet then omit outer choose lamp drama lamp glue";

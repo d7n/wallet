@@ -1,1 +1,1 @@
-var mnemonic = "axis sand goddess menu above uncover siege cotton clock advice vintage stairs";
+var mnemonic = "pear bind bulb hover horse monitor portion hidden swim knife very machine";
