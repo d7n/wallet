@@ -1,1 +1,1 @@
-var mnemonic = "beef ice head you fuel vault beyond short point vicious farm roof";
+var mnemonic = "chuckle organ inch crane captain reflect miracle material hidden oppose marine lens";

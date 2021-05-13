@@ -1,1 +1,1 @@
-var mnemonic = "match differ chuckle crime venture correct predict bicycle mule length daring elevator";
+var mnemonic = "divorce hero crew lava hazard motion scale horse swim art hole advice";

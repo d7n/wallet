@@ -1,1 +1,1 @@
-var mnemonic = "pistol snack tomato mail veteran planet foam pen scare current torch diary";
+var mnemonic = "invite swallow uniform denial avocado ethics isolate amateur spoil then apple bargain";

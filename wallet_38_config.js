@@ -1,1 +1,1 @@
-var mnemonic = "six cinnamon welcome poverty increase prefer canvas consider river ketchup raven affair";
+var mnemonic = "guitar cloud flock select zero happy clean naive term outer thrive tiny";

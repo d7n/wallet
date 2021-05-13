@@ -1,1 +1,1 @@
-var mnemonic = "torch inject refuse family join supreme defy escape wrong phone rebel furnace";
+var mnemonic = "matrix asthma settle useful hurdle learn unhappy kiss slot snap object earth";

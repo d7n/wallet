@@ -1,1 +1,1 @@
-var mnemonic = "safe shed wreck globe rug rack milk stick arrange crime wish scare";
+var mnemonic = "blade flat rifle bulb crash matrix there dinner accident start spatial arch";

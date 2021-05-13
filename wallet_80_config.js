@@ -1,1 +1,1 @@
-var mnemonic = "student equal detect front tone city letter coyote report hire inmate wagon";
+var mnemonic = "taxi civil chaos rate churn bid awful oil truck imitate emerge tackle";

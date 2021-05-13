@@ -1,1 +1,1 @@
-var mnemonic = "vault volume divert drip cement fabric flip dragon again actor hole icon";
+var mnemonic = "forest wild intact code grape poet panther frown decrease pelican cloud clerk";

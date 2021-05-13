@@ -1,1 +1,1 @@
-var mnemonic = "three invite waste enemy arrow gravity castle party maid property doll chimney";
+var mnemonic = "voice style evolve drill toast fade swift describe obscure project faint struggle";

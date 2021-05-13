@@ -1,1 +1,1 @@
-var mnemonic = "gown maid brand surround ghost race reflect cake garbage rather sing animal";
+var mnemonic = "rule push used thank laundry gentle chicken dance pulp dune argue outdoor";

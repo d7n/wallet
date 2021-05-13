@@ -1,1 +1,1 @@
-var mnemonic = "sausage virus clever artist forward manual eternal seminar course usual cloud false";
+var mnemonic = "trumpet coyote noble rigid original drum excuse pride pioneer unfair helmet december";

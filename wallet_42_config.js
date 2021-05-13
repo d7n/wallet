@@ -1,1 +1,1 @@
-var mnemonic = "early video true slow crack hood comfort tortoise asthma student velvet citizen";
+var mnemonic = "arrow short odor stomach fashion cube one wolf below across stadium mix";

@@ -1,1 +1,1 @@
-var mnemonic = "appear north seek cause charge fog predict turn teach language trumpet weapon";
+var mnemonic = "when mobile denial basic interest pole tuition ripple supply express gospel aisle";

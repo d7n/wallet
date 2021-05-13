@@ -1,1 +1,1 @@
-var mnemonic = "spike oil idea start health foam ring cigar pear quiz surprise people";
+var mnemonic = "glance build anxiety soap grit pear exercise resource frozen dirt advice hope";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise reunion crouch smooth nation salute across dinner black discover blanket repeat";
+var mnemonic = "direct dream merge sand skin sausage loan obtain tell size citizen minor";

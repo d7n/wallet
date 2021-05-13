@@ -1,1 +1,1 @@
-var mnemonic = "fish basket upgrade alert amount initial phone traffic stamp luxury wasp grief";
+var mnemonic = "island drop hungry room torch once weekend post rug palace bridge smooth";

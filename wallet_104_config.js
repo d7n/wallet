@@ -1,1 +1,1 @@
-var mnemonic = "pole price march insect garbage hidden height private believe forest fluid orange";
+var mnemonic = "fit cave east month bubble fashion teach oval veteran parade blouse hope";

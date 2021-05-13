@@ -1,1 +1,1 @@
-var mnemonic = "animal gadget robust power warrior sight own garbage topple jacket age rally";
+var mnemonic = "green harvest boat rifle index broken drum govern say update foam budget";

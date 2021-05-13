@@ -1,1 +1,1 @@
-var mnemonic = "party protect model moral omit derive stem used rather exotic funny join";
+var mnemonic = "animal retire turtle thrive flee loan rack exit trouble neither dignity size";

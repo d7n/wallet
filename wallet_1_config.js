@@ -1,1 +1,1 @@
-var mnemonic = "happy celery island system then mesh ocean gloom uphold ecology violin fossil";
+var mnemonic = "result situate walnut nose upset profit side such lift consider luxury mule";

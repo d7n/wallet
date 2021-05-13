@@ -1,1 +1,1 @@
-var mnemonic = "exist father circle three enter miracle chalk dumb oak silly supreme meadow";
+var mnemonic = "chaos common man excess panther enemy sail armor young crisp sponsor novel";

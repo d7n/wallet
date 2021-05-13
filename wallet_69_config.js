@@ -1,1 +1,1 @@
-var mnemonic = "cloud pattern voice rule quick brisk finish rubber message lemon release stage";
+var mnemonic = "coral boost hospital together spin ketchup popular soap praise juice column nephew";

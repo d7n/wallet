@@ -1,1 +1,1 @@
-var mnemonic = "swim sample blanket talent grass author fragile creek account hungry orient cherry";
+var mnemonic = "furnace artwork truck unfold sail sunny camera position atom mass school echo";

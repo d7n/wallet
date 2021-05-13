@@ -1,1 +1,1 @@
-var mnemonic = "sick sting cat pink enrich angry between island relief extra now twin";
+var mnemonic = "spoil awake spice country decorate shrimp lesson venue bone wink tower disagree";

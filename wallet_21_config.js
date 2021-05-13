@@ -1,1 +1,1 @@
-var mnemonic = "lock detect notice pond deputy easily bread release glide arm amount bean";
+var mnemonic = "divide alpha gate claim ticket dentist door device sustain loud sugar maximum";

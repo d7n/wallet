@@ -1,1 +1,1 @@
-var mnemonic = "animal embody pair click case mosquito present maximum sock kind napkin desk";
+var mnemonic = "consider green bag gown jacket tennis able volcano black vocal coast you";

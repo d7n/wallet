@@ -1,1 +1,1 @@
-var mnemonic = "such craft panel sock robot lab quality rival high prize endorse skirt";
+var mnemonic = "random bread grow asset thunder caution detect blame ignore version gadget egg";

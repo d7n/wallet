@@ -1,1 +1,1 @@
-var mnemonic = "book subject punch have quality penalty champion february invite lounge lion thunder";
+var mnemonic = "desk beauty upon dragon hint case stamp phone step believe bullet like";

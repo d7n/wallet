@@ -1,1 +1,1 @@
-var mnemonic = "deal soccer staff sorry april before grit tube expire upgrade zebra adapt";
+var mnemonic = "capital legal clutch desk rocket blush gold mutual impose canal myself kit";

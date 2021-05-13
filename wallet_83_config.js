@@ -1,1 +1,1 @@
-var mnemonic = "two indicate prosper equal load razor coffee boil moon argue entry prefer";
+var mnemonic = "expire roof kitchen husband bottom hub axis quit peasant isolate ability fantasy";

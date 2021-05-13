@@ -1,1 +1,1 @@
-var mnemonic = "only upset calm liquid before other shrimp leg agent marble salt catch";
+var mnemonic = "harsh crop stool liar defy relief bronze smart unit permit spray push";

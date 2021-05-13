@@ -1,1 +1,1 @@
-var mnemonic = "comfort wine refuse appear produce page brave upon boy rib route agent";
+var mnemonic = "student slice clinic chuckle fall screen beach direct faith rebuild affair water";

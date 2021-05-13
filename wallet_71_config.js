@@ -1,1 +1,1 @@
-var mnemonic = "improve reason cash afraid buffalo oxygen ocean spatial interest yard urge olympic";
+var mnemonic = "then call traffic grace legal hover explain evil doctor provide swarm suit";

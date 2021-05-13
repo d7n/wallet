@@ -1,1 +1,1 @@
-var mnemonic = "body tennis tail cage park obscure bright motor nurse shoulder envelope bacon";
+var mnemonic = "dinner guitar practice transfer quiz camp mirror lion junk olive include walnut";

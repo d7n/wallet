@@ -1,1 +1,1 @@
-var mnemonic = "park spawn text grocery margin stadium grace story scale short observe company";
+var mnemonic = "idle magic virtual hedgehog scrap erode patrol runway coach spawn memory distance";

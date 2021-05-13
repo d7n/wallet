@@ -1,1 +1,1 @@
-var mnemonic = "property screen found barrel gauge carry service tribe domain power two zebra";
+var mnemonic = "wing view pen elder rose copper frog duty siren price leisure debate";

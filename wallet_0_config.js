@@ -1,1 +1,1 @@
-var mnemonic = "toddler exact dinner gather reward tobacco loyal toy double long borrow remind";
+var mnemonic = "trial feature capable mountain empower photo general apart document youth drive tool";

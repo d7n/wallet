@@ -1,1 +1,1 @@
-var mnemonic = "thunder traffic benefit rebel club jelly video goose aisle fuel oyster infant";
+var mnemonic = "section spawn walnut drift field escape castle rail despair border peace toast";

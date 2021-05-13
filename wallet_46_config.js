@@ -1,1 +1,1 @@
-var mnemonic = "lift escape orchard rival motor balcony heart wool obscure swap industry bounce";
+var mnemonic = "engine maid popular gentle twelve nerve dizzy pumpkin ozone park moment cake";

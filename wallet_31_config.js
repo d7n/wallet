@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo need path train best assume spider excite prize answer walnut excuse";
+var mnemonic = "kit outer high project ancient rely horror hazard valley better social cotton";

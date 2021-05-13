@@ -1,1 +1,1 @@
-var mnemonic = "creek grit push differ lizard bulk laptop craft coil company alcohol hazard";
+var mnemonic = "crater silver squeeze autumn squeeze brief spoil crumble settle amount detect walnut";

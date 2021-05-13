@@ -1,1 +1,1 @@
-var mnemonic = "grow tube suit blade lamp odor occur miss gold fossil slight lawsuit";
+var mnemonic = "indoor tongue vendor pole swamp course educate pony reward promote foster kite";

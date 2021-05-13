@@ -1,1 +1,1 @@
-var mnemonic = "plastic wide pill embrace museum weather pluck lady dry allow anchor define";
+var mnemonic = "relax agree text champion bike spin flavor captain maid taste tape finish";

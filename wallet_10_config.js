@@ -1,1 +1,1 @@
-var mnemonic = "smoke ghost theme mixture warrior debris brass crack local husband olympic chase";
+var mnemonic = "vacant firm pistol prepare then burger heavy ozone super husband input muscle";

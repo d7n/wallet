@@ -1,1 +1,1 @@
-var mnemonic = "high fall usual tone refuse bargain dynamic ability churn place radio curve";
+var mnemonic = "cricket gain culture buddy innocent chuckle enjoy squeeze setup still pause clean";

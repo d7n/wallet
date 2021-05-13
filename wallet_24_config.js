@@ -1,1 +1,1 @@
-var mnemonic = "art neglect dry such dish couple black fancy lazy slender limit angle";
+var mnemonic = "dance into august fame captain eternal title boss false sight typical purity";

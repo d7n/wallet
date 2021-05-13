@@ -1,1 +1,1 @@
-var mnemonic = "script maple system bundle degree seven oppose advance choose kite fabric sight";
+var mnemonic = "clerk rebuild gold penalty envelope run exhibit advice raw caught anchor vintage";

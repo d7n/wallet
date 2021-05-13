@@ -1,1 +1,1 @@
-var mnemonic = "purpose way photo caught board zero glory close allow style glass critic";
+var mnemonic = "fringe parent art reject battle spin legal avoid mad letter orchard clerk";

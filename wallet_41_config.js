@@ -1,1 +1,1 @@
-var mnemonic = "thought exile damp rug athlete demand wonder finish poem bounce bar mixture";
+var mnemonic = "off soap response collect talent era circle casual catch prosper holiday code";

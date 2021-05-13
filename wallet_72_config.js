@@ -1,1 +1,1 @@
-var mnemonic = "globe hub below weapon verb shop curve clown outer boat error report";
+var mnemonic = "memory vicious two scheme few soccer thumb thing much entire practice census";

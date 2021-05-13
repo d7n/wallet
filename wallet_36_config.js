@@ -1,1 +1,1 @@
-var mnemonic = "afraid smoke fabric student must shiver index eyebrow spy tag stumble cupboard";
+var mnemonic = "clump length spice enlist echo rail alpha about like goddess reopen atom";

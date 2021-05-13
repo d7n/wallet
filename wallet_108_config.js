@@ -1,1 +1,1 @@
-var mnemonic = "top wheat range whale weasel until divide resemble dust fruit episode clap";
+var mnemonic = "shuffle total coast sister caution neither shallow basket faculty stable cotton always";

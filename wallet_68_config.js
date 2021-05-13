@@ -1,1 +1,1 @@
-var mnemonic = "when wheel coil estate steak pipe inside double quiz destroy fruit pupil";
+var mnemonic = "jealous secret upgrade cliff february ecology must box jacket begin must talent";

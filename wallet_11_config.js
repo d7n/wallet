@@ -1,1 +1,1 @@
-var mnemonic = "wealth divorce valley title orchard suspect hundred nation connect equip video scatter";
+var mnemonic = "million bitter phrase chair bench ritual seed wild neglect burger sad region";

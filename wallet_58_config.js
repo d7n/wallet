@@ -1,1 +1,1 @@
-var mnemonic = "another fiscal front warrior walnut strong fossil aerobic else acquire gloom actress";
+var mnemonic = "extra steel ranch high menu point panic risk ability gate sock industry";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic refuse drum accident copper mirror liberty long test muffin unhappy network";
+var mnemonic = "science private weather gather skull short battle science cliff provide afraid work";

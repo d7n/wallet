@@ -1,1 +1,1 @@
-var mnemonic = "observe victory goat echo laundry offer acquire merge ranch bleak brass maximum";
+var mnemonic = "design next leaf jelly assume disagree marble clip raise orient session demand";

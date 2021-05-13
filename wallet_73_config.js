@@ -1,1 +1,1 @@
-var mnemonic = "toast hedgehog describe stove upgrade mutual theory gloom interest object change friend";
+var mnemonic = "urban country idea idle average wisdom mirror alien exact ski tribe festival";

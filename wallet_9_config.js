@@ -1,1 +1,1 @@
-var mnemonic = "cake ill habit pool demise garbage quiz two fat wisdom vessel evil";
+var mnemonic = "digital slim story burden permit amazing hidden earn near onion weather cement";

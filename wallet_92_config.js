@@ -1,1 +1,1 @@
-var mnemonic = "minute sense depend about road atom dentist angle churn output long pill";
+var mnemonic = "drill divorce imitate escape install dose vessel climb catch canal student rather";

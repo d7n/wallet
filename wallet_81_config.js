@@ -1,1 +1,1 @@
-var mnemonic = "idle front swap trigger mandate must another turn dinner push possible rail";
+var mnemonic = "jelly squirrel squeeze march stage now misery hybrid warfare feed voice law";

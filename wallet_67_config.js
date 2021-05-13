@@ -1,1 +1,1 @@
-var mnemonic = "salute game width exile hybrid unlock forest awesome list collect scorpion spirit";
+var mnemonic = "spawn hand describe canal sell disorder ankle rug before remove fox soap";

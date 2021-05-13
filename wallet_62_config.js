@@ -1,1 +1,1 @@
-var mnemonic = "lunch please empty gloom dune such crawl arrest river box quick gas";
+var mnemonic = "three online shield mammal hazard differ trend attract phrase cabin inspire use";

@@ -1,1 +1,1 @@
-var mnemonic = "certain marriage case shaft image convince crash parade liar custom average month";
+var mnemonic = "bounce size trouble brother fruit prepare spoon alien call provide purse fly";

@@ -1,1 +1,1 @@
-var mnemonic = "blush layer delay home where snake crouch february apart science wedding omit";
+var mnemonic = "lucky bar advance rule salt urban sweet track liberty tissue portion split";

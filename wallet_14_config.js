@@ -1,1 +1,1 @@
-var mnemonic = "dragon sight glad rich miracle key novel apple symbol usual bulk kangaroo";
+var mnemonic = "scare sister amazing chuckle tree calm green delay order manual easy blanket";

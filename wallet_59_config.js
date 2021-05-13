@@ -1,1 +1,1 @@
-var mnemonic = "staff core tent gadget license obtain stuff interest omit you length alone";
+var mnemonic = "lesson turtle whale private flat attend ill impact post what bone unknown";

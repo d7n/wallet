@@ -1,1 +1,1 @@
-var mnemonic = "drift share match private velvet turn loyal moment fruit expect relief evil";
+var mnemonic = "gold earn swamp dice reunion party such athlete unusual nut piano oval";

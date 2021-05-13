@@ -1,1 +1,1 @@
-var mnemonic = "bargain fresh morning blue text trash rhythm walk coach direct car furnace";
+var mnemonic = "neglect gospel lecture crane title found gallery clerk excess chunk alcohol fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "improve buyer basic scatter slam echo filter ocean traffic tooth replace say";
+var mnemonic = "stem weapon clerk belt require struggle great enforce junior wage expect pig";

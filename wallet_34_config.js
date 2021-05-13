@@ -1,1 +1,1 @@
-var mnemonic = "tooth elder lumber forward pizza dynamic claim hurt shoot enforce ramp diamond";
+var mnemonic = "alert fabric mosquito ask screen kiss thunder sponsor recycle embark price endless";

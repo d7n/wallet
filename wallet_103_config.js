@@ -1,1 +1,1 @@
-var mnemonic = "holiday smoke like dawn merry test kangaroo allow dove reason anchor cabbage";
+var mnemonic = "clever people cave pause large first urban useless winter danger lava trial";

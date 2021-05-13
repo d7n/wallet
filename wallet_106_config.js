@@ -1,1 +1,1 @@
-var mnemonic = "assume solar mind draft island trim brick chat jewel process iron shy";
+var mnemonic = "seat volcano crunch record use usual address later drift ability essay repair";

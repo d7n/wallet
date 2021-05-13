@@ -1,1 +1,1 @@
-var mnemonic = "state salute deal program friend vote thought budget hour annual can file";
+var mnemonic = "link tuition crystal major toilet rent mesh admit quit duty digital embark";

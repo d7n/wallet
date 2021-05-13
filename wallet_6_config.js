@@ -1,1 +1,1 @@
-var mnemonic = "knife horror search certain insect unable gather brick ozone region one grit";
+var mnemonic = "gather hotel hint fitness forest jeans pledge burst moment twenty phrase sting";

@@ -1,1 +1,1 @@
-var mnemonic = "piano curtain position nice quality brick clean expire spring law seed alpha";
+var mnemonic = "same crime glad dirt dog vehicle excite nuclear humble remain moon future";

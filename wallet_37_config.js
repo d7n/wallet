@@ -1,1 +1,1 @@
-var mnemonic = "bicycle can only file evolve modify fringe humble focus bubble frown nut";
+var mnemonic = "episode give shock mother credit decrease meat empower rely before right cliff";

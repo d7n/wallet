@@ -1,1 +1,1 @@
-var mnemonic = "behind digital bind logic grid amused coconut speed load planet income unable";
+var mnemonic = "truth diary inform speak reveal romance super month fade math hair happy";

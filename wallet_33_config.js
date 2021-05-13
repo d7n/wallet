@@ -1,1 +1,1 @@
-var mnemonic = "brave matter original ceiling mutual lawsuit force girl drill flight file club";
+var mnemonic = "wild title all gown drastic mango twice advice arctic enter tomato draw";

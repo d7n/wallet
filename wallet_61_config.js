@@ -1,1 +1,1 @@
-var mnemonic = "minimum clever direct neither job six illegal access angry slim favorite wife";
+var mnemonic = "hire pear hire paddle bar rifle educate spike mystery boring release hedgehog";

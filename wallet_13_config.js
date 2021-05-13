@@ -1,1 +1,1 @@
-var mnemonic = "afford journey improve can hard labor miracle teach desert cigar monitor disease";
+var mnemonic = "theme tank cross prepare retreat artefact ugly divorce settle stand save broccoli";

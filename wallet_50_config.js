@@ -1,1 +1,1 @@
-var mnemonic = "dolphin voice seminar catalog weapon stamp long busy motion desert select catalog";
+var mnemonic = "lunch valley myth will thumb parrot reason antenna able sight reflect example";

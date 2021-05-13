@@ -1,1 +1,1 @@
-var mnemonic = "admit victory clump crack market hire ribbon nest circle fitness upper anger";
+var mnemonic = "minimum sun demise reduce wasp alert network sleep grain airport base sound";

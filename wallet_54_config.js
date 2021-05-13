@@ -1,1 +1,1 @@
-var mnemonic = "ketchup acid bring antenna canyon please art bronze output sing hood layer";
+var mnemonic = "volume rug bleak mean net choose card banana transfer ice mountain volume";

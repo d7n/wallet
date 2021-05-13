@@ -1,1 +1,1 @@
-var mnemonic = "extend hurt enhance ladder embrace this volcano sign world cradle devote else";
+var mnemonic = "crawl pig flag gather upset bronze roof leg patch chief excess casino";

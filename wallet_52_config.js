@@ -1,1 +1,1 @@
-var mnemonic = "sample early vital life put weekend mobile mobile announce help various rib";
+var mnemonic = "club usage wave pact mom response weapon stone bargain sugar zero bronze";

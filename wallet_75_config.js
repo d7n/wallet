@@ -1,1 +1,1 @@
-var mnemonic = "ecology soccer hospital brisk scene video merit chalk drive collect burden eyebrow";
+var mnemonic = "hard orbit include category length biology journey waste bread change smooth scare";

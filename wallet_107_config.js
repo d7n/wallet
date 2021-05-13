@@ -1,1 +1,1 @@
-var mnemonic = "kid embrace gossip kiwi divide begin limb slogan jelly burst winner other";
+var mnemonic = "wing axis element razor duck item laptop school planet news situate wasp";

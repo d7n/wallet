@@ -1,1 +1,1 @@
-var mnemonic = "pig estate nephew opinion honey thought rug series lend hotel virtual course";
+var mnemonic = "display circle cute draft analyst blanket winner clean analyst sample volume pupil";

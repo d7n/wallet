@@ -1,1 +1,1 @@
-var mnemonic = "turn used member gown glory donor move gesture dove virus stool treat";
+var mnemonic = "burger night candy exchange siren erosion agree balance soon brand moral vicious";

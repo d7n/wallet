@@ -1,1 +1,1 @@
-var mnemonic = "host shove cable movie course assist grid smart fox donor office fuel";
+var mnemonic = "pioneer claw early document ensure seed taxi divert vivid detect ride clinic";

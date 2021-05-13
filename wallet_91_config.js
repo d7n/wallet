@@ -1,1 +1,1 @@
-var mnemonic = "icon carry drift tape hurry ceiling mountain gain deer olive misery script";
+var mnemonic = "dune rib catalog flush permit weapon calm acoustic coconut elegant hybrid chimney";

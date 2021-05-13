@@ -1,1 +1,1 @@
-var mnemonic = "panel rotate project insane artwork easy lumber farm public bid mobile lottery";
+var mnemonic = "point rescue exist mother ability march sun tuition sustain tribe essay primary";

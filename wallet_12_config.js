@@ -1,1 +1,1 @@
-var mnemonic = "pen install curve devote tumble base enlist orchard meadow deputy pull thumb";
+var mnemonic = "matter decide globe holiday local orbit wire net pizza coast believe trial";
