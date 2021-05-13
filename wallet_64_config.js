@@ -1,1 +1,1 @@
-var mnemonic = "random bread grow asset thunder caution detect blame ignore version gadget egg";
+var mnemonic = "rude used error candy fabric soda another inmate thrive index friend science";

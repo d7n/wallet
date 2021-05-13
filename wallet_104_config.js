@@ -1,1 +1,1 @@
-var mnemonic = "fit cave east month bubble fashion teach oval veteran parade blouse hope";
+var mnemonic = "wild involve year liberty length swim minute frown hockey enough arch scatter";

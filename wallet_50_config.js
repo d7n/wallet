@@ -1,1 +1,1 @@
-var mnemonic = "lunch valley myth will thumb parrot reason antenna able sight reflect example";
+var mnemonic = "damp able wasp ranch tribe senior tired advance buyer trap genre artwork";

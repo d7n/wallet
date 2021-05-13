@@ -1,1 +1,1 @@
-var mnemonic = "three online shield mammal hazard differ trend attract phrase cabin inspire use";
+var mnemonic = "time earth measure unfair frame client forward flat rate agent heart mutual";

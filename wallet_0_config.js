@@ -1,1 +1,1 @@
-var mnemonic = "trial feature capable mountain empower photo general apart document youth drive tool";
+var mnemonic = "cram inch vintage field scan arm debate armor hover refuse glare energy";

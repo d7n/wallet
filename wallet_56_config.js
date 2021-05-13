@@ -1,1 +1,1 @@
-var mnemonic = "burger night candy exchange siren erosion agree balance soon brand moral vicious";
+var mnemonic = "margin tribe expose school large enemy core table cycle regular lion water";

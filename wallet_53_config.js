@@ -1,1 +1,1 @@
-var mnemonic = "stem weapon clerk belt require struggle great enforce junior wage expect pig";
+var mnemonic = "tattoo odor charge daring original lamp this screen risk globe now endorse";

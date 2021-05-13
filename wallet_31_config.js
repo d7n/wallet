@@ -1,1 +1,1 @@
-var mnemonic = "kit outer high project ancient rely horror hazard valley better social cotton";
+var mnemonic = "dream omit spin meadow lamp place effort sorry cycle furnace describe humor";

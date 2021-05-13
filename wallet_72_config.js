@@ -1,1 +1,1 @@
-var mnemonic = "memory vicious two scheme few soccer thumb thing much entire practice census";
+var mnemonic = "diagram cannon taste tide hole stuff wise fly disorder maze inquiry village";

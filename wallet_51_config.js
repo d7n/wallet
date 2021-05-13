@@ -1,1 +1,1 @@
-var mnemonic = "gold earn swamp dice reunion party such athlete unusual nut piano oval";
+var mnemonic = "predict indicate search maze mother castle become lawsuit tent age wasp little";

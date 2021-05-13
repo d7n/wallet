@@ -1,1 +1,1 @@
-var mnemonic = "rule push used thank laundry gentle chicken dance pulp dune argue outdoor";
+var mnemonic = "payment sand inner network term despair deliver lawsuit onion ring december soul";

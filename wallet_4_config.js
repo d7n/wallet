@@ -1,1 +1,1 @@
-var mnemonic = "physical surround dune surprise sun timber unit fatal soup peanut finish dress";
+var mnemonic = "flat hazard time beauty nose cloth sound earn verify bulk album penalty";

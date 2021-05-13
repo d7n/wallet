@@ -1,1 +1,1 @@
-var mnemonic = "scare sister amazing chuckle tree calm green delay order manual easy blanket";
+var mnemonic = "lottery clap push gate pistol soft orchard style inhale menu hero sniff";

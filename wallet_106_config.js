@@ -1,1 +1,1 @@
-var mnemonic = "seat volcano crunch record use usual address later drift ability essay repair";
+var mnemonic = "mother slush rain two reward antique peanut fox suit umbrella find creek";

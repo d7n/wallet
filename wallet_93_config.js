@@ -1,1 +1,1 @@
-var mnemonic = "indoor tongue vendor pole swamp course educate pony reward promote foster kite";
+var mnemonic = "then march move divorce clutch thought gesture this diesel okay forget peanut";

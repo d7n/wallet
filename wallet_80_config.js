@@ -1,1 +1,1 @@
-var mnemonic = "taxi civil chaos rate churn bid awful oil truck imitate emerge tackle";
+var mnemonic = "law bulk fox else life essence sting clock vast impact zero cost";

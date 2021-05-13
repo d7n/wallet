@@ -1,1 +1,1 @@
-var mnemonic = "design next leaf jelly assume disagree marble clip raise orient session demand";
+var mnemonic = "appear mass hurt kitten rice clay rally north clever drift soup black";

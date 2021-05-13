@@ -1,1 +1,1 @@
-var mnemonic = "hire pear hire paddle bar rifle educate spike mystery boring release hedgehog";
+var mnemonic = "nose ice roast cage congress degree session favorite diary repeat tank voyage";

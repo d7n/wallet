@@ -1,1 +1,1 @@
-var mnemonic = "pioneer claw early document ensure seed taxi divert vivid detect ride clinic";
+var mnemonic = "dial among bring flat velvet glimpse nuclear swamp result laundry bargain over";

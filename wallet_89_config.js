@@ -1,1 +1,1 @@
-var mnemonic = "spoil awake spice country decorate shrimp lesson venue bone wink tower disagree";
+var mnemonic = "casino good royal rough junior extend twelve escape portion lava off goose";

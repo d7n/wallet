@@ -1,1 +1,1 @@
-var mnemonic = "neglect gospel lecture crane title found gallery clerk excess chunk alcohol fantasy";
+var mnemonic = "curious tackle phone crowd right shoe offer echo divide much smoke abandon";

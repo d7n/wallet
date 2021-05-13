@@ -1,1 +1,1 @@
-var mnemonic = "clerk rebuild gold penalty envelope run exhibit advice raw caught anchor vintage";
+var mnemonic = "smart light add filter indoor perfect blast office swarm squeeze nasty tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "wild title all gown drastic mango twice advice arctic enter tomato draw";
+var mnemonic = "select evidence casino keep recipe object buffalo middle scatter junk worry conduct";

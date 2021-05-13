@@ -1,1 +1,1 @@
-var mnemonic = "glance build anxiety soap grit pear exercise resource frozen dirt advice hope";
+var mnemonic = "drop soul rich aunt math solar capital motor example over mountain fossil";

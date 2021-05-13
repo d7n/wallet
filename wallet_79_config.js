@@ -1,1 +1,1 @@
-var mnemonic = "tortoise category habit describe ocean around autumn surge enjoy success company scrub";
+var mnemonic = "spread dash urge army gather usual industry spoon glad escape tag worry";

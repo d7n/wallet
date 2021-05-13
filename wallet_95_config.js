@@ -1,1 +1,1 @@
-var mnemonic = "minimum sun demise reduce wasp alert network sleep grain airport base sound";
+var mnemonic = "enable perfect avoid group gentle vast flee typical tortoise welcome hill supreme";

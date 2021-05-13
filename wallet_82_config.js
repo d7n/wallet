@@ -1,1 +1,1 @@
-var mnemonic = "green harvest boat rifle index broken drum govern say update foam budget";
+var mnemonic = "miss grab book enter sound shine heart wave foot volume sugar glance";

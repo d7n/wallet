@@ -1,1 +1,1 @@
-var mnemonic = "then call traffic grace legal hover explain evil doctor provide swarm suit";
+var mnemonic = "jaguar process museum resist river victory eternal lawsuit agree where anchor lift";

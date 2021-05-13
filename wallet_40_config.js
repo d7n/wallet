@@ -1,1 +1,1 @@
-var mnemonic = "furnace artwork truck unfold sail sunny camera position atom mass school echo";
+var mnemonic = "hawk saddle toast host buffalo gauge element nice daughter erupt belt deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "section spawn walnut drift field escape castle rail despair border peace toast";
+var mnemonic = "easy erase spend bundle warm cruise judge canal critic expire aspect skin";

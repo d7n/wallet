@@ -1,1 +1,1 @@
-var mnemonic = "blade flat rifle bulb crash matrix there dinner accident start spatial arch";
+var mnemonic = "please stone rich champion regret giggle gentle autumn behind certain harbor tooth";

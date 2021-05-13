@@ -1,1 +1,1 @@
-var mnemonic = "jelly squirrel squeeze march stage now misery hybrid warfare feed voice law";
+var mnemonic = "fatigue grant spell warrior lawsuit inspire blossom tourist chair toast bridge bracket";

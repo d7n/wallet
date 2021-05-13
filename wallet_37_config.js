@@ -1,1 +1,1 @@
-var mnemonic = "episode give shock mother credit decrease meat empower rely before right cliff";
+var mnemonic = "thrive true universe various helmet lady snack elevator winner food remain fatigue";

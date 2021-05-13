@@ -1,1 +1,1 @@
-var mnemonic = "crawl pig flag gather upset bronze roof leg patch chief excess casino";
+var mnemonic = "time magic uncover assist protect eyebrow latin farm cement usage timber boost";

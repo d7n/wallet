@@ -1,1 +1,1 @@
-var mnemonic = "harsh crop stool liar defy relief bronze smart unit permit spray push";
+var mnemonic = "toilet pill soldier hurry attack crucial pizza orient brief example public wish";

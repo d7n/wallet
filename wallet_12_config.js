@@ -1,1 +1,1 @@
-var mnemonic = "matter decide globe holiday local orbit wire net pizza coast believe trial";
+var mnemonic = "excess cage garment nut sudden amount tortoise kick portion leg soft assume";

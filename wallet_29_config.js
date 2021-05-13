@@ -1,1 +1,1 @@
-var mnemonic = "trumpet coyote noble rigid original drum excuse pride pioneer unfair helmet december";
+var mnemonic = "hand struggle analyst soon injury chat home torch vanish float actress member";

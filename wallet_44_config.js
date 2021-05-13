@@ -1,1 +1,1 @@
-var mnemonic = "student slice clinic chuckle fall screen beach direct faith rebuild affair water";
+var mnemonic = "rally dinner popular art shop fox minor brick quarter stamp slow spike";

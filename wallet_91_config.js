@@ -1,1 +1,1 @@
-var mnemonic = "dune rib catalog flush permit weapon calm acoustic coconut elegant hybrid chimney";
+var mnemonic = "spoil rotate stove bless include total soft churn boss proud baby flee";

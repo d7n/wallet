@@ -1,1 +1,1 @@
-var mnemonic = "science private weather gather skull short battle science cliff provide afraid work";
+var mnemonic = "snap daughter all help sorry cause evidence stay wash rare virus defense";

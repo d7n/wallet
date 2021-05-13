@@ -1,1 +1,1 @@
-var mnemonic = "boat throw push symbol twice mechanic layer slogan solve trouble soldier discover";
+var mnemonic = "fresh market flee damp loan subject slam fiscal average ankle pelican cart";

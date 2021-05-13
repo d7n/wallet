@@ -1,1 +1,1 @@
-var mnemonic = "extra steel ranch high menu point panic risk ability gate sock industry";
+var mnemonic = "author century tourist advance sample chaos degree olympic shaft staff drama feature";

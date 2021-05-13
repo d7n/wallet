@@ -1,1 +1,1 @@
-var mnemonic = "urban country idea idle average wisdom mirror alien exact ski tribe festival";
+var mnemonic = "agent father van hidden baby broken pretty couch aim artwork tip purity";

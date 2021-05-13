@@ -1,1 +1,1 @@
-var mnemonic = "digital slim story burden permit amazing hidden earn near onion weather cement";
+var mnemonic = "bamboo enable reopen abuse exact enact cactus child chicken stick rice hill";

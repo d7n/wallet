@@ -1,1 +1,1 @@
-var mnemonic = "island drop hungry room torch once weekend post rug palace bridge smooth";
+var mnemonic = "defense egg regular fossil fury deputy undo cash habit jump dress weird";

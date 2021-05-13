@@ -1,1 +1,1 @@
-var mnemonic = "lucky bar advance rule salt urban sweet track liberty tissue portion split";
+var mnemonic = "right coach gown vivid soft embark dove churn eight carbon secret volume";

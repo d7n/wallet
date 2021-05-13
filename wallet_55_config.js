@@ -1,1 +1,1 @@
-var mnemonic = "stuff history bag make school remember message aunt mixed return jeans warfare";
+var mnemonic = "few lake cycle stamp upset height require better video erode canoe benefit";

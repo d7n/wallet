@@ -1,1 +1,1 @@
-var mnemonic = "clever people cave pause large first urban useless winter danger lava trial";
+var mnemonic = "climb install face milk judge left leader flag success pistol music rookie";

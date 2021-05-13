@@ -1,1 +1,1 @@
-var mnemonic = "soda pair dentist stadium state state chair shield alarm syrup civil much";
+var mnemonic = "work basket time melody special soft exhaust seek sphere symbol chase glare";

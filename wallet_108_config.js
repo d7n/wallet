@@ -1,1 +1,1 @@
-var mnemonic = "shuffle total coast sister caution neither shallow basket faculty stable cotton always";
+var mnemonic = "divide prize slim man tape picture require sure sea common caution scare";

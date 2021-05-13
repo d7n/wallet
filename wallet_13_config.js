@@ -1,1 +1,1 @@
-var mnemonic = "theme tank cross prepare retreat artefact ugly divorce settle stand save broccoli";
+var mnemonic = "worry claim pepper hint eye table record crumble inform hedgehog effort draw";

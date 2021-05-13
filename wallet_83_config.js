@@ -1,1 +1,1 @@
-var mnemonic = "expire roof kitchen husband bottom hub axis quit peasant isolate ability fantasy";
+var mnemonic = "drill tone spin hollow garden wage robust notable mystery range filter column";

@@ -1,1 +1,1 @@
-var mnemonic = "route angry earn witness autumn letter journey bid stable auction laugh atom";
+var mnemonic = "initial gentle spot sting soup north actress vicious position bundle winner burger";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel genre napkin actor perfect opinion sunny sword solar defense wild rescue";
+var mnemonic = "runway mask answer tool wood great supreme april beyond detail color helmet";

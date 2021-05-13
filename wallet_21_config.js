@@ -1,1 +1,1 @@
-var mnemonic = "divide alpha gate claim ticket dentist door device sustain loud sugar maximum";
+var mnemonic = "race thing fresh sock space enact hurry cloth banana topple fruit hospital";

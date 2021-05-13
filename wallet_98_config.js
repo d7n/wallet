@@ -1,1 +1,1 @@
-var mnemonic = "animal retire turtle thrive flee loan rack exit trouble neither dignity size";
+var mnemonic = "climb plastic memory income nominee embark theme pave december another talent tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "wing view pen elder rose copper frog duty siren price leisure debate";
+var mnemonic = "column motor hill toddler unable blast recipe giggle urban soldier sunset extend";

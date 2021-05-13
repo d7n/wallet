@@ -1,1 +1,1 @@
-var mnemonic = "bounce size trouble brother fruit prepare spoon alien call provide purse fly";
+var mnemonic = "extra join emerge during hammer foil robust brush balance search where napkin";

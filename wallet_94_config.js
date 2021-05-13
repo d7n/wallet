@@ -1,1 +1,1 @@
-var mnemonic = "consider green bag gown jacket tennis able volcano black vocal coast you";
+var mnemonic = "gun tomorrow type food carry grow deputy stable luxury wave myself screen";

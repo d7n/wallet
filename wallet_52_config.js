@@ -1,1 +1,1 @@
-var mnemonic = "club usage wave pact mom response weapon stone bargain sugar zero bronze";
+var mnemonic = "afford rack deputy sentence state bachelor click prevent draft coyote range diet";

@@ -1,1 +1,1 @@
-var mnemonic = "coral boost hospital together spin ketchup popular soap praise juice column nephew";
+var mnemonic = "century crisp cabbage awkward inhale invite game shuffle same timber insect spend";

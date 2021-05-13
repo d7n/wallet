@@ -1,1 +1,1 @@
-var mnemonic = "glue execute debris cost toss two view mammal borrow winner end infant";
+var mnemonic = "piano universe mango grow planet fat ten tuna fringe icon acoustic capable";

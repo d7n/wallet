@@ -1,1 +1,1 @@
-var mnemonic = "vacant firm pistol prepare then burger heavy ozone super husband input muscle";
+var mnemonic = "tortoise feel rapid usage anger install return meadow seven hood visa oyster";

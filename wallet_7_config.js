@@ -1,1 +1,1 @@
-var mnemonic = "capital legal clutch desk rocket blush gold mutual impose canal myself kit";
+var mnemonic = "inquiry arena found junk urge add elegant inject dismiss hair arm loan";

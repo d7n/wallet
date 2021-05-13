@@ -1,1 +1,1 @@
-var mnemonic = "link tuition crystal major toilet rent mesh admit quit duty digital embark";
+var mnemonic = "initial utility minimum dance aware derive mobile taste magnet rough own wisdom";

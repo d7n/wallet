@@ -1,1 +1,1 @@
-var mnemonic = "desk beauty upon dragon hint case stamp phone step believe bullet like";
+var mnemonic = "velvet knife save endorse modify fury educate wise mask elder voyage brisk";

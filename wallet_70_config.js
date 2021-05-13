@@ -1,1 +1,1 @@
-var mnemonic = "cream else argue monitor sauce cloud problem among tiny detail bring dawn";
+var mnemonic = "noble road ring uncover around idle rocket mixed bachelor uncover water alien";

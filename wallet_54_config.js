@@ -1,1 +1,1 @@
-var mnemonic = "volume rug bleak mean net choose card banana transfer ice mountain volume";
+var mnemonic = "chef section surface marine tonight ask drop talk nominee surprise joke enable";

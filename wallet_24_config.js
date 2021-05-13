@@ -1,1 +1,1 @@
-var mnemonic = "dance into august fame captain eternal title boss false sight typical purity";
+var mnemonic = "chair body box hood wild critic awful pass tent enemy broom mirror";

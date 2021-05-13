@@ -1,1 +1,1 @@
-var mnemonic = "lesson turtle whale private flat attend ill impact post what bone unknown";
+var mnemonic = "dinner nose express eternal legal license dignity wage lyrics surprise ghost siren";

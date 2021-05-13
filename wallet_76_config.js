@@ -1,1 +1,1 @@
-var mnemonic = "divorce hero crew lava hazard motion scale horse swim art hole advice";
+var mnemonic = "pattern photo warrior scan run churn term dumb negative unfold south vicious";

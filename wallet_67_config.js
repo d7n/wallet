@@ -1,1 +1,1 @@
-var mnemonic = "spawn hand describe canal sell disorder ankle rug before remove fox soap";
+var mnemonic = "seed script snack lake reward pottery baby scissors library badge add river";

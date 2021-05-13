@@ -1,1 +1,1 @@
-var mnemonic = "cricket gain culture buddy innocent chuckle enjoy squeeze setup still pause clean";
+var mnemonic = "body also early section happy stuff jealous own woman shy fog wagon";

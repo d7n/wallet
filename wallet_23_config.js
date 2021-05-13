@@ -1,1 +1,1 @@
-var mnemonic = "chuckle organ inch crane captain reflect miracle material hidden oppose marine lens";
+var mnemonic = "absent struggle grid derive excess choose fun relief tide scare empower inside";

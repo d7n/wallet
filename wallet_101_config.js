@@ -1,1 +1,1 @@
-var mnemonic = "milk capital amazing kite lock parent hurt simple grape tooth banana sand";
+var mnemonic = "pilot resource junk tornado engage voice insect pull cupboard sibling oak satoshi";

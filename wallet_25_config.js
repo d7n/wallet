@@ -1,1 +1,1 @@
-var mnemonic = "gun educate drink survey game degree unaware spot betray release spend job";
+var mnemonic = "liquid lamp arrive east course train bag visit bonus extend ceiling field";

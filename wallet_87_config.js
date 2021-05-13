@@ -1,1 +1,1 @@
-var mnemonic = "voice style evolve drill toast fade swift describe obscure project faint struggle";
+var mnemonic = "auto hire medal reward coin vendor tissue cube call festival patrol health";

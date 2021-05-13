@@ -1,1 +1,1 @@
-var mnemonic = "drill divorce imitate escape install dose vessel climb catch canal student rather";
+var mnemonic = "duty mail neutral nose athlete combine casino trade kingdom tomorrow menu choose";

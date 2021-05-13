@@ -1,1 +1,1 @@
-var mnemonic = "relax agree text champion bike spin flavor captain maid taste tape finish";
+var mnemonic = "glimpse general awful shy photo bulb fluid action cream limb ride battle";

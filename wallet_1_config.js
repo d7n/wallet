@@ -1,1 +1,1 @@
-var mnemonic = "result situate walnut nose upset profit side such lift consider luxury mule";
+var mnemonic = "subway pelican oil supply holiday cave ahead pet legend index coast guess";

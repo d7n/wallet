@@ -1,1 +1,1 @@
-var mnemonic = "invite swallow uniform denial avocado ethics isolate amateur spoil then apple bargain";
+var mnemonic = "category silk hint skill eagle strong rose behave film rabbit cereal evidence";

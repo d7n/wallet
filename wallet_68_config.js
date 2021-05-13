@@ -1,1 +1,1 @@
-var mnemonic = "jealous secret upgrade cliff february ecology must box jacket begin must talent";
+var mnemonic = "ten title pizza drastic congress dog document guilt just drink genre captain";

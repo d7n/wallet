@@ -1,1 +1,1 @@
-var mnemonic = "fringe parent art reject battle spin legal avoid mad letter orchard clerk";
+var mnemonic = "capable media debate kind assume logic help rain seek deal winter rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "forest wild intact code grape poet panther frown decrease pelican cloud clerk";
+var mnemonic = "problem leg south buzz inspire boy prefer turtle ask warfare cycle display";

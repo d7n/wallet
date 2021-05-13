@@ -1,1 +1,1 @@
-var mnemonic = "point rescue exist mother ability march sun tuition sustain tribe essay primary";
+var mnemonic = "diesel prize knock goose gun ramp tank library suit used spatial service";

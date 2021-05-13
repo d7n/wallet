@@ -1,1 +1,1 @@
-var mnemonic = "million bitter phrase chair bench ritual seed wild neglect burger sad region";
+var mnemonic = "shoulder attitude beef spin frost drive fault ivory any input dog double";

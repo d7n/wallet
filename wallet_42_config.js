@@ -1,1 +1,1 @@
-var mnemonic = "arrow short odor stomach fashion cube one wolf below across stadium mix";
+var mnemonic = "topple nothing spoon father gallery evoke dose husband index awesome valley lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "alert fabric mosquito ask screen kiss thunder sponsor recycle embark price endless";
+var mnemonic = "vessel erode clerk once income suspect eight prison soup normal cross smooth";

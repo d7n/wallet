@@ -1,1 +1,1 @@
-var mnemonic = "crater silver squeeze autumn squeeze brief spoil crumble settle amount detect walnut";
+var mnemonic = "brush champion there demand maze once spray allow barrel giant magnet permit";

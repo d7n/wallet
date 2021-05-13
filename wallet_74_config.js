@@ -1,1 +1,1 @@
-var mnemonic = "when mobile denial basic interest pole tuition ripple supply express gospel aisle";
+var mnemonic = "alarm lava sausage business labor vessel soon retreat recycle sort gas find";

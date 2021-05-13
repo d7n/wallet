@@ -1,1 +1,1 @@
-var mnemonic = "matrix asthma settle useful hurdle learn unhappy kiss slot snap object earth";
+var mnemonic = "master cup survey hidden door return artwork hedgehog base art food attend";

@@ -1,1 +1,1 @@
-var mnemonic = "clump length spice enlist echo rail alpha about like goddess reopen atom";
+var mnemonic = "fabric scrub dune scissors wish pulse guide nation cook video tooth limb";

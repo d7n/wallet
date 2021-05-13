@@ -1,1 +1,1 @@
-var mnemonic = "chaos common man excess panther enemy sail armor young crisp sponsor novel";
+var mnemonic = "metal defense wish harbor average route grit oil slab nature replace master";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar cloud flock select zero happy clean naive term outer thrive tiny";
+var mnemonic = "oyster fringe bulb tongue arm man cake cereal swift diamond help rough";
