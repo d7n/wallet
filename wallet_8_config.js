@@ -1,1 +1,1 @@
-var mnemonic = "plunge pencil either chat tunnel long album model hockey aerobic analyst please";
+var mnemonic = "drastic pigeon bike dog shiver bunker load endless subway fuel purity praise";

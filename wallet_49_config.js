@@ -1,1 +1,1 @@
-var mnemonic = "milk wealth typical already knock void pilot tell inside into transfer hazard";
+var mnemonic = "mechanic web display tattoo enough giggle expire reduce grocery film try kite";

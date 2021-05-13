@@ -1,1 +1,1 @@
-var mnemonic = "police humble bomb faculty worth check twice only size elephant where tube";
+var mnemonic = "lumber diesel village laptop post typical machine disease tonight stairs leg ride";

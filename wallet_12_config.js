@@ -1,1 +1,1 @@
-var mnemonic = "drop guard switch escape invest dawn finish ripple portion mammal rebel myth";
+var mnemonic = "school drop candy little marine aisle fit misery trend asset clock popular";

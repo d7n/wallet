@@ -1,1 +1,1 @@
-var mnemonic = "recall scrub indoor lawsuit glass figure mobile shove candy strategy sunset dynamic";
+var mnemonic = "source light scheme abandon staff stereo shallow nothing obey page voice nation";

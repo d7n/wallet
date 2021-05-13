@@ -1,1 +1,1 @@
-var mnemonic = "silly please cream cluster hollow farm various scene chimney elevator bright chaos";
+var mnemonic = "toss fun animal pioneer mushroom stairs trade simple announce amazing nut loan";

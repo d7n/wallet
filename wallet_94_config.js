@@ -1,1 +1,1 @@
-var mnemonic = "member trend very law promote manage oyster anxiety firm hard couch bag";
+var mnemonic = "scan prison cup estate corn ivory find swear culture ribbon supreme fit";

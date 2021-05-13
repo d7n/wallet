@@ -1,1 +1,1 @@
-var mnemonic = "scissors cat jump act capital motion slush pipe tenant uncover final option";
+var mnemonic = "clever burger there tank link dove move vault tonight drink pretty rice";

@@ -1,1 +1,1 @@
-var mnemonic = "humble legend leisure goose gentle then exact donkey toilet kiwi school swim";
+var mnemonic = "nest frequent system grid smoke wife wrist typical imitate barely eternal mention";

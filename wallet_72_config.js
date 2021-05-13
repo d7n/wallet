@@ -1,1 +1,1 @@
-var mnemonic = "planet advance zoo culture document laptop fortune race table heavy tunnel april";
+var mnemonic = "inflict prevent possible flip congress price coach tribe mesh firm busy call";

@@ -1,1 +1,1 @@
-var mnemonic = "ten shove amazing eye mail north dilemma reform leave supply item loan";
+var mnemonic = "put exclude alley prevent dance reopen lawsuit wide purpose oil clump hawk";

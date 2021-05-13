@@ -1,1 +1,1 @@
-var mnemonic = "garage sense fetch bird genuine verb vital table popular lion shield inside";
+var mnemonic = "lemon industry sick detail like bright word camp fatal arena razor budget";

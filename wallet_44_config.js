@@ -1,1 +1,1 @@
-var mnemonic = "moment tuition brass much few middle tissue crack guard veteran orient squirrel";
+var mnemonic = "cargo income black damp rubber upon blur fashion limit toilet struggle peasant";

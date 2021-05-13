@@ -1,1 +1,1 @@
-var mnemonic = "cluster vicious laugh collect cupboard front shuffle flower kidney ignore kingdom resource";
+var mnemonic = "awkward motion area stadium modify embrace kid quantum duck tuna hurt good";

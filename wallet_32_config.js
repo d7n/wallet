@@ -1,1 +1,1 @@
-var mnemonic = "nominee print like eyebrow pudding moral impact rabbit unveil vicious fire feel";
+var mnemonic = "witness liberty salmon breeze umbrella gift raccoon sample duck knock sister balance";

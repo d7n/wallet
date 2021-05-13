@@ -1,1 +1,1 @@
-var mnemonic = "brush sure subway mutual champion hard index weapon breeze match armed couple";
+var mnemonic = "torch pudding grain various dry surge season goddess naive few luxury glad";

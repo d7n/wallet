@@ -1,1 +1,1 @@
-var mnemonic = "endless cross depth upgrade hip spring ship review surround inch letter will";
+var mnemonic = "zero innocent example team claw task early face spread word fresh crash";

@@ -1,1 +1,1 @@
-var mnemonic = "play machine imitate negative hawk idea room erosion equal brand lady cake";
+var mnemonic = "enable across armed ordinary teach flame frozen weather double erupt sheriff gallery";

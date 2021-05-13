@@ -1,1 +1,1 @@
-var mnemonic = "spatial ketchup hobby august frequent olympic daring violin enter boil novel total";
+var mnemonic = "muscle roast develop outer prepare sibling novel raven tape inquiry saddle crash";

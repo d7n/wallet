@@ -1,1 +1,1 @@
-var mnemonic = "estate boost settle approve concert awful winner romance suggest wonder range grief";
+var mnemonic = "gain captain injury recall trim sun ripple answer sphere culture remain market";

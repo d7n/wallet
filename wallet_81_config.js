@@ -1,1 +1,1 @@
-var mnemonic = "number fit that discover ball young olive language empower into april account";
+var mnemonic = "weapon flight pulp flock install fringe beyond idle clay success source enforce";

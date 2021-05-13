@@ -1,1 +1,1 @@
-var mnemonic = "priority panel oil egg bounce response upgrade once loan sell walnut apology";
+var mnemonic = "bronze annual cricket average brave silly ripple lamp grocery drama ticket auto";

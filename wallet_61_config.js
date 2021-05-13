@@ -1,1 +1,1 @@
-var mnemonic = "east absorb alone knife bargain piece retreat fall eye tongue various drastic";
+var mnemonic = "relax burger town link wing hunt swarm horror coffee parent believe decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "piece danger account depth define entry vacuum possible want resource twin shoot";
+var mnemonic = "allow dad ethics verb embody reflect pumpkin problem maze dove smile mango";

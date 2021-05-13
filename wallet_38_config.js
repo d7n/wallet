@@ -1,1 +1,1 @@
-var mnemonic = "soft cherry exchange pretty gun tank palm course super sphere topic page";
+var mnemonic = "melt damage grit broken know carpet extra such carbon hamster civil artwork";

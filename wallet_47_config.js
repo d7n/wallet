@@ -1,1 +1,1 @@
-var mnemonic = "mosquito future ignore liberty wish join few brand behave grief fragile hungry";
+var mnemonic = "neutral mosquito goat decline confirm scrap ability echo index slim nothing like";

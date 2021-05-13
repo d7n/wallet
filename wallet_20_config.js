@@ -1,1 +1,1 @@
-var mnemonic = "warm glory summer shield rally penalty soda advance cereal inherit tape pond";
+var mnemonic = "sense charge squeeze syrup joke vacant cruise illness switch never liberty wish";

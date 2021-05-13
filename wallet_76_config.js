@@ -1,1 +1,1 @@
-var mnemonic = "grant there choice vessel bamboo lemon dinner laugh bundle draft mixed expand";
+var mnemonic = "canal someone wait aware insane poem divert avocado large collect online chase";

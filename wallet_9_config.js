@@ -1,1 +1,1 @@
-var mnemonic = "rapid mammal frequent orient faculty cube attract credit right goose wire pyramid";
+var mnemonic = "truth police canoe sustain donkey blame leader hello burger high group gun";

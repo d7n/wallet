@@ -1,1 +1,1 @@
-var mnemonic = "road hamster develop art wolf bargain ginger depart focus danger motor regret";
+var mnemonic = "potato evil sure give sand cereal coin dog range giraffe cost fury";

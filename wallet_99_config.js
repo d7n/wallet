@@ -1,1 +1,1 @@
-var mnemonic = "thrive lift equal forget phrase theme mandate keen flight grid glove spread";
+var mnemonic = "circle vendor model rose garlic resemble space payment era modify scan suspect";

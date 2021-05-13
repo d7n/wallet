@@ -1,1 +1,1 @@
-var mnemonic = "afford nose urge stomach eagle acquire chapter clump bid leg fitness vocal";
+var mnemonic = "federal camera bike cycle bonus sock busy hip brother aisle proud include";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy pass garbage arch torch popular brother fiber broom quote expose fork";
+var mnemonic = "grape valid warrior news genuine warfare first warrior resist cactus fashion expire";

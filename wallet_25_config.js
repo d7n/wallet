@@ -1,1 +1,1 @@
-var mnemonic = "swing media gas acid sugar wasp toward brave snap fatal attitude engine";
+var mnemonic = "pilot blossom pottery duck arrow damage emotion secret horn heavy leg use";

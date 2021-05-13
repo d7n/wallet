@@ -1,1 +1,1 @@
-var mnemonic = "host poverty desert rude belt guess quiz bird blouse whip cook waste";
+var mnemonic = "fragile street payment main ketchup bulb picture cart snow cherry long pill";

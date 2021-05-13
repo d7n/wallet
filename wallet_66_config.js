@@ -1,1 +1,1 @@
-var mnemonic = "immune chase gaze pulp senior life option equip cushion cigar desert dinosaur";
+var mnemonic = "warm fashion easily ticket fine enact cloth search place steak lock letter";

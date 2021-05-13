@@ -1,1 +1,1 @@
-var mnemonic = "device wasp opinion during place rib design spot believe observe robust behave";
+var mnemonic = "actress portion else giggle all stamp security wine wrist fabric february skin";

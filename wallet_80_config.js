@@ -1,1 +1,1 @@
-var mnemonic = "symptom parrot blind pact enjoy escape sound same pet palace solar assault";
+var mnemonic = "lucky umbrella runway risk salon dwarf idle link craft update plug bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "hat spread language spin rubber prize cat demise capital truth canal high";
+var mnemonic = "afford boring submit item ceiling service spell dolphin hedgehog gravity wise thing";

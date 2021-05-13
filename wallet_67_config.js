@@ -1,1 +1,1 @@
-var mnemonic = "priority elite confirm erode inhale pottery cake obey hundred minute latin catalog";
+var mnemonic = "voice critic cake gallery present swear flavor person interest when crawl popular";

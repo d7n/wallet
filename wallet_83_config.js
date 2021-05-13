@@ -1,1 +1,1 @@
-var mnemonic = "teach divide garage raw glimpse gauge perfect eight thumb ticket mask skull";
+var mnemonic = "lucky mercy blame bus merit physical ribbon festival repair energy address venue";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp question violin enlist proud grief damage merge drastic work wool oxygen";
+var mnemonic = "fury tone test buyer ship sword expand mango shield mean piece duck";

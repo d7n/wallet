@@ -1,1 +1,1 @@
-var mnemonic = "old bread regular harbor fashion behave scrap error grocery broccoli reopen drum";
+var mnemonic = "whale involve license lava fence farm sell cradle seed run better bread";

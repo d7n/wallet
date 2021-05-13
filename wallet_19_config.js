@@ -1,1 +1,1 @@
-var mnemonic = "couple merry primary castle region unhappy oxygen jump agree cricket cotton panda";
+var mnemonic = "crew tip midnight stem vast similar oppose survey song olive donkey clown";

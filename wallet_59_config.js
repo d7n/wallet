@@ -1,1 +1,1 @@
-var mnemonic = "rough surface aspect winner guard doll such breeze clinic happy depart among";
+var mnemonic = "bamboo super tragic equal toss balance check rabbit speed left alcohol cushion";

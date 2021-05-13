@@ -1,1 +1,1 @@
-var mnemonic = "lucky distance suffer reflect orange inform wink embrace spawn goose girl west";
+var mnemonic = "guilt broom bus crater tone pig humble pulp table swarm mobile spike";

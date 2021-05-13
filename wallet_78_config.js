@@ -1,1 +1,1 @@
-var mnemonic = "bring differ already around naive chimney cancel east coach best powder tribe";
+var mnemonic = "member stadium ripple fold large conduct faculty theme flat dry expire dune";

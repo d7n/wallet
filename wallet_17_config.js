@@ -1,1 +1,1 @@
-var mnemonic = "model loop dose craft phrase future bomb wisdom flame trim hero word";
+var mnemonic = "mixed limb neck spider silly picnic powder drive modify awful blouse lounge";

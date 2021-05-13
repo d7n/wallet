@@ -1,1 +1,1 @@
-var mnemonic = "consider salmon cloud crumble decline license link direct devote sure resource song";
+var mnemonic = "enable double educate master true caught couple measure idle chase gown reason";

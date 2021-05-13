@@ -1,1 +1,1 @@
-var mnemonic = "issue coconut vibrant dutch hotel napkin pig plug certain club rabbit steak";
+var mnemonic = "tattoo puppy bright clinic digital ripple purse fitness minor must useful title";

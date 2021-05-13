@@ -1,1 +1,1 @@
-var mnemonic = "mule plastic what point until sister truck negative car find salt fabric";
+var mnemonic = "month skull over under flower color truly wrong loan bitter process wish";

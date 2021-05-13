@@ -1,1 +1,1 @@
-var mnemonic = "pencil moral winter avocado illegal figure vehicle burden demise snack nice repair";
+var mnemonic = "tongue harbor object ride gate cycle spice curious long tray weapon kitten";

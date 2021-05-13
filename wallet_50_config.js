@@ -1,1 +1,1 @@
-var mnemonic = "fire fiscal hole purchase pink assume talent hungry clap average swear fault";
+var mnemonic = "dragon plate bridge pass train volume gun shrimp master cost toe fever";

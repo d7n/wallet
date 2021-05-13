@@ -1,1 +1,1 @@
-var mnemonic = "entry napkin wish talk just idea mouse mass envelope web grow brown";
+var mnemonic = "prison embody indoor thrive rare path cause brother cat exchange boy tree";

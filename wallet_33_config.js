@@ -1,1 +1,1 @@
-var mnemonic = "ginger wall execute february alien fold shine kiwi wave roof luggage cheap";
+var mnemonic = "menu combine valve dinosaur maple slogan expire canoe simple pretty observe ivory";

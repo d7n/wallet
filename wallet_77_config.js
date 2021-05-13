@@ -1,1 +1,1 @@
-var mnemonic = "tray before bird other enable drum bounce arena simple deliver cover captain";
+var mnemonic = "business envelope pet recipe analyst enemy frame open label relief turkey gadget";

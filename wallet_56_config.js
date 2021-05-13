@@ -1,1 +1,1 @@
-var mnemonic = "multiply medal coffee grief sun exact asset choice stay jealous ripple shadow";
+var mnemonic = "chase color jar violin useful palace because grace hunt enjoy seminar volume";

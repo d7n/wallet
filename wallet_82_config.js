@@ -1,1 +1,1 @@
-var mnemonic = "small mistake mechanic glow gas dream ticket pigeon pen seminar economy rally";
+var mnemonic = "giraffe once nothing require caught scorpion lazy apology junk used innocent lucky";

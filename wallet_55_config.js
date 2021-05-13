@@ -1,1 +1,1 @@
-var mnemonic = "ship oppose wonder address tragic chicken hover lumber expose correct endorse payment";
+var mnemonic = "debate task buzz enlist denial fashion tail gadget bleak leave ticket stage";

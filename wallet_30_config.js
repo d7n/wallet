@@ -1,1 +1,1 @@
-var mnemonic = "stuff wave remain give cannon catch evoke fetch alter actress cute guitar";
+var mnemonic = "pink fragile above envelope time imitate present dash certain become wish disorder";

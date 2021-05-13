@@ -1,1 +1,1 @@
-var mnemonic = "depart ranch antique calm mirror morning helmet middle tilt floor improve bone";
+var mnemonic = "wonder clock reflect attract chunk frog gauge tackle focus bunker lava layer";

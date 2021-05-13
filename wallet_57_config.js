@@ -1,1 +1,1 @@
-var mnemonic = "rare game evil perfect sunset mom relax session way sing slogan tuition";
+var mnemonic = "december reunion minute army pelican eager swamp thing cat disagree stick feel";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant ocean curious loan tourist warfare drill injury bitter next win horse";
+var mnemonic = "foster void rhythm choice expire hobby loop frame comfort zero duck total";

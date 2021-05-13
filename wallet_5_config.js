@@ -1,1 +1,1 @@
-var mnemonic = "voyage sad file become flame benefit bulb athlete orchard immune cheese million";
+var mnemonic = "chest castle metal icon merge announce ring help olive infant denial spoon";

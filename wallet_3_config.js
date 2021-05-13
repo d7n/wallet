@@ -1,1 +1,1 @@
-var mnemonic = "sadness wood return energy essay hurt thank jeans dynamic raven rely right";
+var mnemonic = "nasty winter picture memory note ticket sleep educate jeans adjust tooth twin";

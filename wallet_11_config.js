@@ -1,1 +1,1 @@
-var mnemonic = "tape sister fetch saddle smooth hand off column thing various trade guard";
+var mnemonic = "time tenant leg virtual festival agent fun convince expect tenant two provide";

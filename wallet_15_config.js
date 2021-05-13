@@ -1,1 +1,1 @@
-var mnemonic = "combine ball frog invest embrace option unfair fiction immense keen link runway";
+var mnemonic = "exit humble powder napkin element hunt pupil word segment tortoise student slight";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol illness fault sea okay athlete goddess road kick stock host crunch";
+var mnemonic = "run fee bounce expire tray sphere indicate panda bar marriage kite smooth";

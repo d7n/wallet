@@ -1,1 +1,1 @@
-var mnemonic = "trade trim stay dose glass there lazy kangaroo awesome man embark visa";
+var mnemonic = "fire version rain room crater awkward wall major myself boring other tennis";

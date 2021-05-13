@@ -1,1 +1,1 @@
-var mnemonic = "favorite distance that vibrant cheese beyond trigger among soon glow patient estate";
+var mnemonic = "arrow pattern lamp exhibit myself remember pact leave differ federal write fossil";

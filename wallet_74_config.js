@@ -1,1 +1,1 @@
-var mnemonic = "advice scrap type kick expand announce like radar thank rude what slot";
+var mnemonic = "initial program alone noise party weather tuition nurse can little erode art";

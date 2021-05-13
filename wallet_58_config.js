@@ -1,1 +1,1 @@
-var mnemonic = "few face pyramid sister ticket diesel cat biology marine garment matrix ensure";
+var mnemonic = "delay admit stage museum candy believe truth video mix boil wolf poem";

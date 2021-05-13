@@ -1,1 +1,1 @@
-var mnemonic = "approve ugly member situate belt abandon laptop candy trumpet brown control there";
+var mnemonic = "road net guilt order couple glow lawn end spirit lock best raven";

@@ -1,1 +1,1 @@
-var mnemonic = "intact reunion grace merry wall tunnel arrest crawl remain diary deer brick";
+var mnemonic = "tide will slice tennis alter wine deliver major year media festival update";

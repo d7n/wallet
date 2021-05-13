@@ -1,1 +1,1 @@
-var mnemonic = "license puppy supply ankle east profit actress grow reflect priority vibrant fortune";
+var mnemonic = "among material end canyon someone hollow flat dawn deal thought label visual";

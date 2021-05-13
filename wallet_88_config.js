@@ -1,1 +1,1 @@
-var mnemonic = "reason mandate quick under phrase game reduce wife web rare hard dwarf";
+var mnemonic = "oxygen vacuum offer farm moment whip again poverty snow goat border omit";

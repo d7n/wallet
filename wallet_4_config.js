@@ -1,1 +1,1 @@
-var mnemonic = "future vocal already organ donor gossip present morning brass angle burden wasp";
+var mnemonic = "climb boil crouch search judge hotel bullet tomorrow sheriff shrug hip dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "hard rare tool mix load common need long leisure witness acquire uniform";
+var mnemonic = "apart dust baby degree fancy thing exotic engine decide sugar possible vanish";

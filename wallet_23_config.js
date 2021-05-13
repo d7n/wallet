@@ -1,1 +1,1 @@
-var mnemonic = "rule plug bargain you topple congress razor clap weapon cage belt labor";
+var mnemonic = "skin service drive sniff foam fringe pottery safe outdoor exchange nation deputy";

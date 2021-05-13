@@ -1,1 +1,1 @@
-var mnemonic = "abstract portion only talent reopen soul repeat able solve faculty scene search";
+var mnemonic = "ring other more deal use shuffle donkey shoot list work dash tree";

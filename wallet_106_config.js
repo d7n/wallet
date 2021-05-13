@@ -1,1 +1,1 @@
-var mnemonic = "congress doll deputy visit release treat wrestle again great echo canoe program";
+var mnemonic = "nature dumb priority enrich state coyote original good inject mixture welcome bulb";

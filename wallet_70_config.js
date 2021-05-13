@@ -1,1 +1,1 @@
-var mnemonic = "grit spare verb tail own squeeze arch accident armed pet flush leopard";
+var mnemonic = "aware network aware inquiry air educate prepare utility cat obvious you comfort";

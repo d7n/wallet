@@ -1,1 +1,1 @@
-var mnemonic = "amused need candy urge sample deer piano bright unit bullet tag west";
+var mnemonic = "calm there void cabin text exhaust exercise autumn employ blush people cheese";

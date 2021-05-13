@@ -1,1 +1,1 @@
-var mnemonic = "bachelor truck gentle giant melody catch assist eager duty wire perfect virtual";
+var mnemonic = "prepare marine divide tobacco primary cost fire bundle balance fun select gesture";

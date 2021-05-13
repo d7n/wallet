@@ -1,1 +1,1 @@
-var mnemonic = "alcohol fork birth farm angle upon east climb hurt cart stool flee";
+var mnemonic = "deliver ring brief napkin scissors year style rail pioneer example pull stay";

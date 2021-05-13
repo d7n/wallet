@@ -1,1 +1,1 @@
-var mnemonic = "piano need civil tag camera help million tornado almost very beauty foster";
+var mnemonic = "purse style defy harbor divert animal army modify tell spell tonight field";
