@@ -1,1 +1,1 @@
-var mnemonic = "property essay viable smoke surface ocean aware profit few title pizza fantasy";
+var mnemonic = "wise column piano asset excess like glory desk fresh more deny obscure";

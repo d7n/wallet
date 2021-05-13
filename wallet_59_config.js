@@ -1,1 +1,1 @@
-var mnemonic = "shed infant twenty giant delay pact issue message loop polar neutral verify";
+var mnemonic = "pluck oblige tilt camera tiger pear dance wink helmet slender soft nest";

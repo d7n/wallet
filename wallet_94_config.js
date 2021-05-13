@@ -1,1 +1,1 @@
-var mnemonic = "scrub miss lumber good seed achieve original age hub face hurry bar";
+var mnemonic = "anger vacant puzzle eagle injury unlock punch refuse actress output execute ordinary";

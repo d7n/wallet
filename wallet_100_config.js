@@ -1,1 +1,1 @@
-var mnemonic = "light make insect disorder tuna sample student gas wedding pumpkin snow height";
+var mnemonic = "melody govern polar wet battle glow tilt urban page shove clown episode";

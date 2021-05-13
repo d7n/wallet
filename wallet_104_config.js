@@ -1,1 +1,1 @@
-var mnemonic = "monster insect flag fee witness attitude gap inquiry train section nice regret";
+var mnemonic = "odor cannon guard purchase detect cart rebel impulse swift unfair fancy parent";

@@ -1,1 +1,1 @@
-var mnemonic = "celery panic below coach blouse leaf south solid misery around woman universe";
+var mnemonic = "barely antique gold weird major neutral brand erupt reject wet upgrade oxygen";

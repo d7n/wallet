@@ -1,1 +1,1 @@
-var mnemonic = "valid mix board wink blade stock debris scorpion leopard amount spot advice";
+var mnemonic = "involve bundle arrow twist pizza range harvest awful rhythm into galaxy help";

@@ -1,1 +1,1 @@
-var mnemonic = "chair sudden slogan excess hair you teach section stool year garlic escape";
+var mnemonic = "wolf praise reform rubber oxygen negative differ already dilemma hen soon crime";

@@ -1,1 +1,1 @@
-var mnemonic = "federal usual grunt submit join ankle saddle walk under face lunch six";
+var mnemonic = "alley into tail brown aerobic effort trigger alpha rifle pulp unfair icon";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze dice into army divorce nothing armed panda few wheel broccoli inspire";
+var mnemonic = "absorb video scene item ticket educate decorate economy witness cabin chuckle below";

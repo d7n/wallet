@@ -1,1 +1,1 @@
-var mnemonic = "valley spell donate image pretty snap render thought exotic tackle spray copy";
+var mnemonic = "shoe easily element device menu real flight scout era stuff business govern";

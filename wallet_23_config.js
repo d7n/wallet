@@ -1,1 +1,1 @@
-var mnemonic = "wild swap achieve oval health marriage rail impose admit list wasp frozen";
+var mnemonic = "aim route cram half loop bottom couch correct begin shoulder item east";

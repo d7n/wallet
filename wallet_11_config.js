@@ -1,1 +1,1 @@
-var mnemonic = "upset crumble pipe autumn vacant faith coral hover catalog match service dismiss";
+var mnemonic = "worry satisfy spray expire crime better tape half swing hidden picture junior";

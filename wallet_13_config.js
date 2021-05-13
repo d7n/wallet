@@ -1,1 +1,1 @@
-var mnemonic = "client spare resource system tomorrow armed cherry embrace castle match fly innocent";
+var mnemonic = "coast gossip picnic where vast iron nerve daughter boss sun senior disagree";

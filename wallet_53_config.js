@@ -1,1 +1,1 @@
-var mnemonic = "innocent piano dose animal they brother canal next fiction guard marriage uphold";
+var mnemonic = "orbit unfold frown sight impact stock later capable float primary above friend";

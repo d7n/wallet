@@ -1,1 +1,1 @@
-var mnemonic = "make gas pretty describe already sunset lumber puzzle raise lounge rain ring";
+var mnemonic = "minimum banner include frozen advance chase next brief elbow jump much team";

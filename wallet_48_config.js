@@ -1,1 +1,1 @@
-var mnemonic = "inform sound expect proud oil clinic quantum powder shift ketchup cushion square";
+var mnemonic = "coyote labor snap humble junior duty sample dutch order visual toward dawn";

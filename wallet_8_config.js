@@ -1,1 +1,1 @@
-var mnemonic = "torch giggle cement broccoli lawsuit route dice govern strategy situate cannon begin";
+var mnemonic = "breeze next tube smart garden dilemma off swamp meadow fine remind local";

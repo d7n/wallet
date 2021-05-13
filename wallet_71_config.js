@@ -1,1 +1,1 @@
-var mnemonic = "mystery remain crouch steak film erosion hour reform divert possible ostrich brave";
+var mnemonic = "parrot rather illegal six box chunk chef quick model chapter basic lens";

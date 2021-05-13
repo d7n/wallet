@@ -1,1 +1,1 @@
-var mnemonic = "moon movie wolf abandon magnet slide clock frequent system fault acoustic opera";
+var mnemonic = "govern social enjoy swim arch kangaroo region corn square scheme demise curve";

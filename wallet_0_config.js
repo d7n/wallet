@@ -1,1 +1,1 @@
-var mnemonic = "cattle jealous snap neither matrix tiger satisfy raise soda giant rhythm melody";
+var mnemonic = "special fault arrest suit copy climb love pitch senior share ride unaware";

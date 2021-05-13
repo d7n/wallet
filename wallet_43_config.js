@@ -1,1 +1,1 @@
-var mnemonic = "noble turtle flight interest ranch draw century weekend flash warfare wedding false";
+var mnemonic = "main panther ice lady they below order lazy cabin opera organ wire";

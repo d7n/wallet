@@ -1,1 +1,1 @@
-var mnemonic = "fan fever ostrich dismiss pluck double exit grid lift crane dumb rapid";
+var mnemonic = "mistake devote damp easily excuse rate awake wool fuel nest foil copy";

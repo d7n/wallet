@@ -1,1 +1,1 @@
-var mnemonic = "knock dizzy coin advice begin illness sing asthma episode tortoise two soda";
+var mnemonic = "actress ski brass foot castle glance orchard thrive ten album grocery owner";

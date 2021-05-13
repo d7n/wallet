@@ -1,1 +1,1 @@
-var mnemonic = "vocal saddle zone orange sure clean cloth sister coral decade inspire first";
+var mnemonic = "leaf dutch cause father inhale stone meadow eagle opera avoid another dismiss";

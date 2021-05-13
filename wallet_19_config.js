@@ -1,1 +1,1 @@
-var mnemonic = "unknown question welcome mix body horror history myself scare final mimic prosper";
+var mnemonic = "smoke notable devote end resemble boss finger knock fly rare achieve tennis";

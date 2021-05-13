@@ -1,1 +1,1 @@
-var mnemonic = "taxi angry differ jump man hotel deer charge wrong muscle possible blood";
+var mnemonic = "abstract traffic bunker accuse auto struggle portion marriage pig true engage pretty";

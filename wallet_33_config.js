@@ -1,1 +1,1 @@
-var mnemonic = "bone certain job nuclear length kiwi text say recycle host attract race";
+var mnemonic = "air virtual space sweet spoon pass hollow quarter inject squirrel claim proud";

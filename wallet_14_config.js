@@ -1,1 +1,1 @@
-var mnemonic = "habit access capable film crowd perfect try spider lazy castle maid side";
+var mnemonic = "they public purpose wheat hurry session half license select print debate wine";

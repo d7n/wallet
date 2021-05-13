@@ -1,1 +1,1 @@
-var mnemonic = "pepper wet acid bitter bounce emotion grit cannon miss celery purpose gold";
+var mnemonic = "balcony mirror faint capital original cake sauce match dance expire focus raise";

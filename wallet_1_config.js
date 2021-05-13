@@ -1,1 +1,1 @@
-var mnemonic = "ritual tiger stock wear idle aspect social tape length urban gate fabric";
+var mnemonic = "reduce monitor vendor quality proof impulse combine vicious unveil key broken fault";

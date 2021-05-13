@@ -1,1 +1,1 @@
-var mnemonic = "suffer ripple tree pitch oppose unlock armed solution cousin machine illness guitar";
+var mnemonic = "picnic swim debate license globe visual monitor must subway that kiwi bus";

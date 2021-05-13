@@ -1,1 +1,1 @@
-var mnemonic = "maze page avocado help arrange prosper envelope below quit wool token south";
+var mnemonic = "subject school country valve casual south coach pistol blade explain gas laundry";

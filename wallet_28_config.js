@@ -1,1 +1,1 @@
-var mnemonic = "vanish keen cram unknown silver train erupt crunch promote ignore interest absorb";
+var mnemonic = "tail blouse state mesh favorite measure photo auto annual stairs arrange piece";

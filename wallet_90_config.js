@@ -1,1 +1,1 @@
-var mnemonic = "prefer thank real glare link summer bench topple have absent raise worry";
+var mnemonic = "melt actual insane cargo prepare daughter promote absorb tobacco satisfy collect mask";

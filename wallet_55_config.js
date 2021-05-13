@@ -1,1 +1,1 @@
-var mnemonic = "doctor piano rail erode sport arch wet cup forest rhythm used seed";
+var mnemonic = "ethics raw quarter alone title spray burden outside expire inflict enemy force";

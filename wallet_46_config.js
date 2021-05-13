@@ -1,1 +1,1 @@
-var mnemonic = "vintage trend target trip clump home mosquito shoulder eager rib burst emotion";
+var mnemonic = "enrich inform slogan steel dad oak harvest cake grass cross rail empower";

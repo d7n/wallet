@@ -1,1 +1,1 @@
-var mnemonic = "myself marriage elder climb own scene ankle exchange comfort task nuclear fatal";
+var mnemonic = "winter fit limit tool dinosaur manage ring hawk rabbit detail announce erosion";

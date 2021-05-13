@@ -1,1 +1,1 @@
-var mnemonic = "fan stay peanut fancy can patch camera ozone trick globe fun defense";
+var mnemonic = "become rug sell eager phrase client melody acoustic crunch street demand tank";

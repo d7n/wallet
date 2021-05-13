@@ -1,1 +1,1 @@
-var mnemonic = "onion media strategy prepare develop nest battle absorb wool put sight lab";
+var mnemonic = "survey domain myth process north swallow announce rapid magic proof area wave";

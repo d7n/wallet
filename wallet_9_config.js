@@ -1,1 +1,1 @@
-var mnemonic = "evoke spot spatial fit only dance ketchup wolf trend guilt crazy agree";
+var mnemonic = "bachelor pool behave have dentist slot gown decade girl pool divert quality";

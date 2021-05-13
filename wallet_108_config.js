@@ -1,1 +1,1 @@
-var mnemonic = "borrow stick genre version before hawk opinion enable over gentle axis volume";
+var mnemonic = "cattle dog magic ill where fragile power lobster enhance unlock sister genre";

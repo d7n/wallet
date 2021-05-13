@@ -1,1 +1,1 @@
-var mnemonic = "fish clinic paddle indoor bunker eager clown there laptop equal measure common";
+var mnemonic = "city cancel correct deliver shy cook coach warm fatigue device wrap ripple";

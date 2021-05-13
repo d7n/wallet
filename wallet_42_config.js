@@ -1,1 +1,1 @@
-var mnemonic = "medal obey planet paddle equal merge extend breeze birth width random expose";
+var mnemonic = "tonight couple actor service embrace face tape primary prize lyrics minor tenant";

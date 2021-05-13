@@ -1,1 +1,1 @@
-var mnemonic = "choice wire walnut another drum rally art peasant lunar icon lazy person";
+var mnemonic = "uphold orange predict slot drink book traffic must seat aware leg oak";

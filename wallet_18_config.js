@@ -1,1 +1,1 @@
-var mnemonic = "april cactus excess enough harsh antique muscle naive people guitar stairs region";
+var mnemonic = "obey lady shiver toast wheat sand discover isolate zoo drop nice lamp";

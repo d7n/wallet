@@ -1,1 +1,1 @@
-var mnemonic = "december judge stuff lottery above response rookie finish ugly brass jelly among";
+var mnemonic = "scout panel buffalo bracket sell wine virus rug problem certain jungle size";

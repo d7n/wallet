@@ -1,1 +1,1 @@
-var mnemonic = "favorite parrot pattern glance swarm giggle select monitor sibling gate chalk canvas";
+var mnemonic = "convince invest sunset like festival coach segment giraffe aspect glass win rapid";

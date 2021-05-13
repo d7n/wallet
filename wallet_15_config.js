@@ -1,1 +1,1 @@
-var mnemonic = "example onion turn west major surge tilt air dial erupt cotton quiz";
+var mnemonic = "flash cost inform rice book fit sad diamond craft gesture feed rebel";

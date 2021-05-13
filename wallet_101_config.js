@@ -1,1 +1,1 @@
-var mnemonic = "arctic scare dwarf oil art master alien volume rhythm inflict curious link";
+var mnemonic = "wait gold young cinnamon seven jacket senior broom eagle uphold tunnel poverty";

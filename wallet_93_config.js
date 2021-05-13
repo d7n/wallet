@@ -1,1 +1,1 @@
-var mnemonic = "aerobic device over gap suggest inspire electric horse office penalty runway opera";
+var mnemonic = "employ orchard ghost victory accuse inject accuse bag cement shy alone sport";

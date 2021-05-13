@@ -1,1 +1,1 @@
-var mnemonic = "treat shield rely hero wood ocean nominee year note scrub civil mistake";
+var mnemonic = "garment critic practice elbow shaft police repeat cup lend vessel raven endorse";

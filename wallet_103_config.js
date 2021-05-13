@@ -1,1 +1,1 @@
-var mnemonic = "guard payment clay fire awful safe intact visa drip base dust income";
+var mnemonic = "above rail trick notable shift opinion boat quantum degree awful engine sauce";

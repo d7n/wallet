@@ -1,1 +1,1 @@
-var mnemonic = "load gather wealth voice tomorrow member similar badge blush champion candy silver";
+var mnemonic = "visa layer ginger village afraid embark celery clerk kitten december rib drama";

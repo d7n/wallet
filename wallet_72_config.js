@@ -1,1 +1,1 @@
-var mnemonic = "guess super midnight bright lake purse work update soccer diagram flash alert";
+var mnemonic = "index chuckle hint hidden tongue office velvet inner husband arm bunker service";

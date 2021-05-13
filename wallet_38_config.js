@@ -1,1 +1,1 @@
-var mnemonic = "door violin square program put fault screen exist autumn book pottery ugly";
+var mnemonic = "tired decide suit heavy maple music aerobic rebuild galaxy stamp scrub pony";

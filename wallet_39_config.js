@@ -1,1 +1,1 @@
-var mnemonic = "face this yard enroll foot tone canoe climb device steel dress never";
+var mnemonic = "shrimp student obtain rude emerge merry sheriff push also scrub surface world";

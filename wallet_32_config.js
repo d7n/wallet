@@ -1,1 +1,1 @@
-var mnemonic = "fragile lens roof bag reject ethics popular chuckle emotion height together exile";
+var mnemonic = "crane eight human fabric salon velvet ill wealth mercy payment divide disorder";

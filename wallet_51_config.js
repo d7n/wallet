@@ -1,1 +1,1 @@
-var mnemonic = "dress remember pelican analyst hour square cherry visit kidney risk van address";
+var mnemonic = "noise gaze dynamic dinosaur nerve sword enable clarify orphan silly social sunset";

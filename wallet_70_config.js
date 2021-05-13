@@ -1,1 +1,1 @@
-var mnemonic = "scale another jungle oppose income depth gun term era wool since fantasy";
+var mnemonic = "thank crop crucial assist stage miss garbage man decide chimney swear hen";

@@ -1,1 +1,1 @@
-var mnemonic = "fog panel battle shine dove yellow step choose language case steak valley";
+var mnemonic = "fringe laptop spend bulb artefact orange left reform pool foam twenty tuition";

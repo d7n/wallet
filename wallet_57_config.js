@@ -1,1 +1,1 @@
-var mnemonic = "victory pet assist bind skirt web chaos crunch forward donate citizen thought";
+var mnemonic = "prison flee gloom field elite busy love deputy loop magnet enter despair";

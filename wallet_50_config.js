@@ -1,1 +1,1 @@
-var mnemonic = "fun fat abandon biology rude bean bread wonder dice fault deal call";
+var mnemonic = "outdoor minor subject cattle melody runway easily engage rival able execute mistake";

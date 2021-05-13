@@ -1,1 +1,1 @@
-var mnemonic = "life poet inch sphere science desert first name have napkin bicycle dog";
+var mnemonic = "flower mixed order luxury eye explain burden mobile elder wet apple dizzy";

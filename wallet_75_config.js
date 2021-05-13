@@ -1,1 +1,1 @@
-var mnemonic = "until cook vague treat attitude base dynamic cram banner clinic method text";
+var mnemonic = "impact version behind refuse blue sunny rich dance pull often blossom improve";

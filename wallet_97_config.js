@@ -1,1 +1,1 @@
-var mnemonic = "enhance rule decade common truth clip harsh mansion carpet sniff memory nothing";
+var mnemonic = "sponsor agree grit better panda idea deal sea raise belt head pistol";

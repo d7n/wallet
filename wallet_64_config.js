@@ -1,1 +1,1 @@
-var mnemonic = "guilt analyst network once december cherry fan coconut destroy diary bounce process";
+var mnemonic = "gravity garage monkey tennis barely onion tuna order connect shuffle leaf carbon";

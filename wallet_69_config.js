@@ -1,1 +1,1 @@
-var mnemonic = "provide soda sting tuition poet domain fiscal wash absent into barely curtain";
+var mnemonic = "review ancient push neither giggle dry fee rather genius then purse income";

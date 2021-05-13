@@ -1,1 +1,1 @@
-var mnemonic = "casino core regret repeat stereo circle elbow primary reform online mom filter";
+var mnemonic = "begin coral actor uncover begin gesture muscle impulse gadget use obscure leisure";

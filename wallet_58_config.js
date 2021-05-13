@@ -1,1 +1,1 @@
-var mnemonic = "title sting street fly manual observe unfair loop super power output stove";
+var mnemonic = "love play feed gain spider zone claw awful draw cube festival session";

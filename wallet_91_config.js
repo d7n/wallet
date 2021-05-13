@@ -1,1 +1,1 @@
-var mnemonic = "praise dizzy seat blanket turkey spike ahead occur entry release faculty present";
+var mnemonic = "vital present sword force auction movie vague cat menu curtain spider main";

@@ -1,1 +1,1 @@
-var mnemonic = "useless news pioneer fall sea brand purse head effort ugly legal cherry";
+var mnemonic = "raven radio gain brother blade vocal anchor crater estate flower stable liquid";

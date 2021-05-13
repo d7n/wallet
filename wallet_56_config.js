@@ -1,1 +1,1 @@
-var mnemonic = "ten shallow burger antique blue fade exchange wage direct hungry peasant exile";
+var mnemonic = "pledge hill wheat produce estate visit chronic exercise scene march draft depth";

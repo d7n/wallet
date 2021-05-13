@@ -1,1 +1,1 @@
-var mnemonic = "receive fork explain clown upset myself mutual stomach east tuna tuition noise";
+var mnemonic = "charge income swift mystery puzzle shuffle climb fly jump because machine clarify";

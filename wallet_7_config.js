@@ -1,1 +1,1 @@
-var mnemonic = "lava kidney answer spy man vendor stumble sing toast fluid ice chimney";
+var mnemonic = "wall material knock grape bottom company space host country corn rare fiber";

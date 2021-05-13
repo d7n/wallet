@@ -1,1 +1,1 @@
-var mnemonic = "raven super divide improve record cause tuna future net midnight boat blade";
+var mnemonic = "kit galaxy source where exit exchange object float candy enhance common hood";

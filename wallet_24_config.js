@@ -1,1 +1,1 @@
-var mnemonic = "extend guilt math image radio coast random tortoise peasant labor fix glide";
+var mnemonic = "garden caught casual picture rifle typical wet judge lunch orchard version rude";

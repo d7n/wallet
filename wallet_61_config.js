@@ -1,1 +1,1 @@
-var mnemonic = "connect tennis athlete only tip laundry flame panel wood opinion hammer under";
+var mnemonic = "high dress joy trial spin party basket excite economy problem segment gift";

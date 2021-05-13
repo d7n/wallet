@@ -1,1 +1,1 @@
-var mnemonic = "hospital supreme crush punch carry allow decide enjoy thunder ready photo derive";
+var mnemonic = "secret upper shuffle spirit luxury minute tragic sugar capital salad strong explain";

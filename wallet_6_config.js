@@ -1,1 +1,1 @@
-var mnemonic = "man frost blur purpose dynamic blue tunnel sorry section employ net tomorrow";
+var mnemonic = "muscle tennis orphan harsh broken access beach nest immense sword left blossom";

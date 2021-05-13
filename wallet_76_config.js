@@ -1,1 +1,1 @@
-var mnemonic = "syrup youth idea dinner crime pudding hobby mixed battle vacuum motor cloud";
+var mnemonic = "sell identify relief mother enrich actor reopen east verify brief book lesson";

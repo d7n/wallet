@@ -1,1 +1,1 @@
-var mnemonic = "oil coconut good remind gentle syrup oppose toast survey test elbow rubber";
+var mnemonic = "split school broken impose happy oval away yard olympic woman fury maze";

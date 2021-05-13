@@ -1,1 +1,1 @@
-var mnemonic = "ball ticket enact food sail auto tomorrow common under body dinosaur awkward";
+var mnemonic = "scan until wise romance half giraffe ocean square afraid retreat fox hole";

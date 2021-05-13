@@ -1,1 +1,1 @@
-var mnemonic = "onion crucial hollow pulse relax chase gospel winter flavor honey favorite antenna";
+var mnemonic = "wall pencil loud nephew donor limit tuna critic express neglect entry captain";

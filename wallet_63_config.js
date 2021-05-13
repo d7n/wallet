@@ -1,1 +1,1 @@
-var mnemonic = "tribe distance rule argue deposit horse viable wheat digital elevator indoor jar";
+var mnemonic = "cross wife select tray glance pink choose north sauce resource bus inspire";

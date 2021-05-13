@@ -1,1 +1,1 @@
-var mnemonic = "skate float hedgehog mountain basket claw kangaroo obscure ugly basic example punch";
+var mnemonic = "luxury east blind violin excess need bundle outdoor travel student apple spare";

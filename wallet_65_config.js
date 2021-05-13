@@ -1,1 +1,1 @@
-var mnemonic = "valley coin time lava hedgehog elegant lava melt imitate social cheese garage";
+var mnemonic = "ugly acquire choose gain ski addict wide face fashion lobster language planet";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop figure december lawsuit spirit kitchen giraffe avocado above cram piece hard";
+var mnemonic = "typical wife balance tail gossip cram trust typical flat park embrace tide";

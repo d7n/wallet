@@ -1,1 +1,1 @@
-var mnemonic = "fabric ocean acoustic chimney permit liberty pen later mammal soap else utility";
+var mnemonic = "wink pigeon clever gauge trade couple forum hello bundle top quote floor";

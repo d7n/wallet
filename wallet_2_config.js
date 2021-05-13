@@ -1,1 +1,1 @@
-var mnemonic = "day recipe ozone wheat subway dilemma unveil robot suit dress cup approve";
+var mnemonic = "crater demand soda palace hidden basket need uncle obscure rebuild canal demand";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe cupboard gift minimum thought anchor float client foot current magnet bean";
+var mnemonic = "patrol spot grain party busy gown tornado silly antique oak claim theory";

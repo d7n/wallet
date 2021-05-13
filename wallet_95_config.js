@@ -1,1 +1,1 @@
-var mnemonic = "lunar peasant camera middle economy fan flag flush stuff junior round gown";
+var mnemonic = "tortoise flash oppose strong shift shell size spot puzzle race together fringe";
