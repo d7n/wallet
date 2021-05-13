@@ -1,1 +1,1 @@
-var mnemonic = "code cable boss carbon normal sound furnace easy ceiling knock hard security";
+var mnemonic = "obvious expect vacuum frost loop release result prefer reveal lottery stable poverty";

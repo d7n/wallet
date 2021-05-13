@@ -1,1 +1,1 @@
-var mnemonic = "indicate say fame puzzle tomato grace season twice produce indoor roast degree";
+var mnemonic = "version hobby sand shed turkey inside exchange profit vintage unit skin various";

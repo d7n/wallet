@@ -1,1 +1,1 @@
-var mnemonic = "art output hour hour zebra pretty error spoon soup brother palm reduce";
+var mnemonic = "canvas soda behind baby grace vicious kit sketch desk tragic have imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme pupil minimum parent what fruit blur sick category marine seat win";
+var mnemonic = "brief train bottom bulk hard immune crumble observe legend distance acquire amateur";

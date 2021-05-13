@@ -1,1 +1,1 @@
-var mnemonic = "worth eyebrow kite cycle wash conduct young wire close machine anxiety fire";
+var mnemonic = "possible reduce poet cancel add supreme wealth force clinic square length fly";

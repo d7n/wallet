@@ -1,1 +1,1 @@
-var mnemonic = "stadium enhance mind among utility jacket betray safe mad exhibit unlock potato";
+var mnemonic = "civil fence between gaze grid agree flame faculty mind absurd once catch";

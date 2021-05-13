@@ -1,1 +1,1 @@
-var mnemonic = "tornado first goose wear duck hurt number soccer fame jazz task remain";
+var mnemonic = "moral wolf wish later admit dignity drift sock guide grow keep olive";

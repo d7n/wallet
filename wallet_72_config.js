@@ -1,1 +1,1 @@
-var mnemonic = "inch phone below fee faint pass mom glimpse wide couch crucial school";
+var mnemonic = "essence normal demand siren offer member fresh trip nurse office lobster skull";

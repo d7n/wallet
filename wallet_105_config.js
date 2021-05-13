@@ -1,1 +1,1 @@
-var mnemonic = "now wait define bulb stem glimpse skirt cargo glove pill avoid flag";
+var mnemonic = "employ approve device pelican vivid struggle dynamic check deputy sound bench hybrid";

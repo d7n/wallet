@@ -1,1 +1,1 @@
-var mnemonic = "flee peace laugh sport crop pair release exist comfort tray ribbon simple";
+var mnemonic = "flame slam music token token south measure omit follow shine copy dragon";

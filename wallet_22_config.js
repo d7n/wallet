@@ -1,1 +1,1 @@
-var mnemonic = "shoot fortune remain oblige member tone layer grid actress wave oyster once";
+var mnemonic = "exhibit mom imitate job tube lesson sketch token sand major fiber sea";

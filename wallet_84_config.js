@@ -1,1 +1,1 @@
-var mnemonic = "elevator exit ship forget innocent silk fiber avocado daughter worth double design";
+var mnemonic = "large this repair luxury vague earn width crawl collect friend display endless";

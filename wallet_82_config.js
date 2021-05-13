@@ -1,1 +1,1 @@
-var mnemonic = "trial rare assume eternal manual stove marriage bracket cement balcony sport pigeon";
+var mnemonic = "extra tail fold like blush equip teach afford grant favorite gift swarm";

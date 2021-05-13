@@ -1,1 +1,1 @@
-var mnemonic = "innocent typical wish fee monster begin transfer urge mountain regular flush escape";
+var mnemonic = "switch local busy blast erosion prosper taxi school olympic army flush sentence";

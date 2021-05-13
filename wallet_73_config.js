@@ -1,1 +1,1 @@
-var mnemonic = "humble panther waste silent scorpion net lawsuit ritual team height beyond any";
+var mnemonic = "left team orbit inside lonely level rice social anchor unlock spot wisdom";

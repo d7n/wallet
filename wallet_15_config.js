@@ -1,1 +1,1 @@
-var mnemonic = "gallery bunker swarm lottery wing brave resource west immune save also sword";
+var mnemonic = "basic illegal gain about only narrow load chuckle system drill tissue slide";

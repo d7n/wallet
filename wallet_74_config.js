@@ -1,1 +1,1 @@
-var mnemonic = "gather keep relax very mom gym rain member comic science pole junior";
+var mnemonic = "resemble juice interest horror during crucial pull horse double review snap huge";

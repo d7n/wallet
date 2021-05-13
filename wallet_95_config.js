@@ -1,1 +1,1 @@
-var mnemonic = "able daring blame retire family culture cargo dumb use shiver strategy hope";
+var mnemonic = "brand lesson car liquid inspire vintage joy easily head mail owner gym";

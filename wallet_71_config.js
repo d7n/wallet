@@ -1,1 +1,1 @@
-var mnemonic = "shell luxury broken wreck multiply stereo transfer injury slush cause birth rival";
+var mnemonic = "train little bubble surprise clock drive pretty federal giggle shallow cabin ride";

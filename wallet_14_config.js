@@ -1,1 +1,1 @@
-var mnemonic = "taxi shrimp daring enact frown extend like weekend material bike mad clump";
+var mnemonic = "theme trash orange media banner wine repeat prevent trip fog unveil spell";

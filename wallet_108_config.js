@@ -1,1 +1,1 @@
-var mnemonic = "rubber segment similar pet only unable method small nasty leopard dilemma unveil";
+var mnemonic = "taste island raise bind egg awkward swim tribe memory assist copper chest";

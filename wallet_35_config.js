@@ -1,1 +1,1 @@
-var mnemonic = "stay fade charge echo venue company junk host crane nation camera staff";
+var mnemonic = "output upon shuffle walnut airport income garbage siren mercy doctor green reject";

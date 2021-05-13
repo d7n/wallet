@@ -1,1 +1,1 @@
-var mnemonic = "focus pond invest nation just mean tongue elite artefact ten verb estate";
+var mnemonic = "crack leopard body deer total pottery bunker elbow truth shy sight various";

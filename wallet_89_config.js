@@ -1,1 +1,1 @@
-var mnemonic = "craft twenty hamster call trim wagon spin walk grant you globe major";
+var mnemonic = "bulb napkin clock hand jeans glory violin harvest name stairs prize farm";

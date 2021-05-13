@@ -1,1 +1,1 @@
-var mnemonic = "punch improve wrong area craft resource mechanic worth marble flock collect tooth";
+var mnemonic = "uncle harvest noise trap service unveil era mention glue way ozone bulb";

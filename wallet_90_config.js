@@ -1,1 +1,1 @@
-var mnemonic = "title glue flower resemble track enter receive boat keen brush twenty advice";
+var mnemonic = "lawn material skull cement marble cluster decide ridge derive drive phrase pluck";

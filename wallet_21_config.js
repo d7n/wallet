@@ -1,1 +1,1 @@
-var mnemonic = "whisper predict odor grape breeze frog honey few pizza memory live pact";
+var mnemonic = "favorite hollow dice cart climb capable code floor finger argue monster trial";

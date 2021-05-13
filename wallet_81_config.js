@@ -1,1 +1,1 @@
-var mnemonic = "mail tongue prepare cash boil seek theme error valley cradle brief brother";
+var mnemonic = "stumble digital poem benefit supreme acquire episode weekend machine wheat bright note";

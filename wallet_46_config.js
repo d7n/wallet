@@ -1,1 +1,1 @@
-var mnemonic = "lava sun spin swarm blade rib chase explain away result urban arch";
+var mnemonic = "region token rain hockey quit soldier famous fever garbage soup equal benefit";

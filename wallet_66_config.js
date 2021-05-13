@@ -1,1 +1,1 @@
-var mnemonic = "brown negative snap fuel youth damage opera decline drift debris improve into";
+var mnemonic = "craft trigger surge blossom brass boss brave zebra hen climb hope enact";

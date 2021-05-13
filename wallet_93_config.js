@@ -1,1 +1,1 @@
-var mnemonic = "dream prosper inquiry since pole spoon margin able clown can random impose";
+var mnemonic = "mother phone little favorite today stomach toilet music stable thrive federal virus";

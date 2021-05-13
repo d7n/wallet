@@ -1,1 +1,1 @@
-var mnemonic = "cliff day exotic uphold dwarf scorpion rotate grain town pole mule inherit";
+var mnemonic = "corn twist invite scatter wave diary reveal sell fresh saddle chronic idea";

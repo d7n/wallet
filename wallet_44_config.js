@@ -1,1 +1,1 @@
-var mnemonic = "refuse latin treat mail fluid entire around enable point cable pink inmate";
+var mnemonic = "hockey dress ceiling opinion view item obscure idle kidney nature say party";

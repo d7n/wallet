@@ -1,1 +1,1 @@
-var mnemonic = "foam lumber field bid agent welcome grunt illness wear cause deliver deal";
+var mnemonic = "shoulder urban celery project armor cactus sad spot item load scare point";

@@ -1,1 +1,1 @@
-var mnemonic = "hat electric east obtain truck worry system rely ride window camp estate";
+var mnemonic = "must horse wife toss level flavor butter scale donate travel notable wife";

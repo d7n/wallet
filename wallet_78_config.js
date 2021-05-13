@@ -1,1 +1,1 @@
-var mnemonic = "gravity approve audit world setup victory grant ozone garment guilt survey embrace";
+var mnemonic = "short wheel steak powder grief canyon finish lava rule senior segment good";

@@ -1,1 +1,1 @@
-var mnemonic = "hire fan mother notable dilemma comic step bread gaze rude gorilla what";
+var mnemonic = "inform plastic home chaos item voice sibling soup tape shoulder snow mixture";

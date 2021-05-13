@@ -1,1 +1,1 @@
-var mnemonic = "mask need noise rescue scrap canal crisp misery zoo comic supply pelican";
+var mnemonic = "solution panic push junior olive faculty dish lecture fox silent couch cotton";

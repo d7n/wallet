@@ -1,1 +1,1 @@
-var mnemonic = "undo human street mean radar avoid treat busy will monitor air jealous";
+var mnemonic = "patch bargain camera cute drink hamster cave attitude talk scare chat room";

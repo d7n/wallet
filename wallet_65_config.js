@@ -1,1 +1,1 @@
-var mnemonic = "major park fancy stool gown margin tortoise soldier square high actor hotel";
+var mnemonic = "adjust fossil sort april rather opinion exile swift glory share detect save";

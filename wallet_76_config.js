@@ -1,1 +1,1 @@
-var mnemonic = "museum level spoon response section mesh father pigeon push notice debris hood";
+var mnemonic = "wet increase little hawk mosquito visa crawl usual panda whale bundle match";

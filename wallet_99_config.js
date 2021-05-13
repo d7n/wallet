@@ -1,1 +1,1 @@
-var mnemonic = "agree cricket infant remain patch garden desk cancel toss cat carbon cry";
+var mnemonic = "various rate blade ethics wage number satoshi fitness warfare express survey example";

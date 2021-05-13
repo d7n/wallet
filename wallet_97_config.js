@@ -1,1 +1,1 @@
-var mnemonic = "indicate project write dove student match hero audit shove buffalo turn embark";
+var mnemonic = "latin water broom pull decide stadium client flight misery leaf labor cry";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle safe garden hold retire tide slim income parrot liar panther rely";
+var mnemonic = "wreck vessel shine theory night express middle brisk crowd color atom like";

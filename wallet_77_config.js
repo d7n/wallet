@@ -1,1 +1,1 @@
-var mnemonic = "note tumble engine deputy volcano almost toddler fringe survey trophy promote state";
+var mnemonic = "gas thank august rookie tackle police seven post hub trend build confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "portion donkey pulp invest dose gloom custom equip happy lucky win simple";
+var mnemonic = "depth nut glory verify liar devote sing feature loud rubber banner develop";

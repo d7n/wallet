@@ -1,1 +1,1 @@
-var mnemonic = "square census prevent tomato push current ribbon volume random size ice erosion";
+var mnemonic = "identify immense about canoe betray tragic impact good voice worth discover snap";

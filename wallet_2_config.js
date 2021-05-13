@@ -1,1 +1,1 @@
-var mnemonic = "evidence flat walnut stage oppose pupil glare flower inquiry noble useful insane";
+var mnemonic = "focus only join skill spike hour useful start vehicle identify narrow athlete";

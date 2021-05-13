@@ -1,1 +1,1 @@
-var mnemonic = "suspect twelve skin solar fade pepper input chapter flee burden barely bag";
+var mnemonic = "unaware hold true six regular plate diesel nominee property scare cement cage";

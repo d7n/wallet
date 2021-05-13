@@ -1,1 +1,1 @@
-var mnemonic = "sorry donor weird knee enough fiscal dream party alter during enable donor";
+var mnemonic = "remember ghost swing mule drip math pill swap come onion transfer forum";

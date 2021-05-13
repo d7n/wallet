@@ -1,1 +1,1 @@
-var mnemonic = "action pig code ready submit yard dwarf keep velvet meadow draft world";
+var mnemonic = "wave feature urge owner consider orient eagle inquiry rigid worth rate tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver lucky van kangaroo toe shell thought scatter foster scan divide green";
+var mnemonic = "wave duck fly win obtain timber violin decorate debate envelope high hunt";

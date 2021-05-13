@@ -1,1 +1,1 @@
-var mnemonic = "ugly nothing direct concert always cute sea boat regret deer junk wagon";
+var mnemonic = "umbrella void anchor parent cluster transfer village coral garden accuse brand deny";

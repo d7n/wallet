@@ -1,1 +1,1 @@
-var mnemonic = "icon paddle share accuse double speed hobby wish oyster lawsuit stool lock";
+var mnemonic = "travel cruel kiwi luxury soft come they fabric width moon rigid medal";

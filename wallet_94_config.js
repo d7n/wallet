@@ -1,1 +1,1 @@
-var mnemonic = "pyramid tunnel lava bounce crunch budget load lounge ready doctor thunder venue";
+var mnemonic = "flush hero urge leisure tattoo exhibit salmon ceiling arrest clay marble resource";

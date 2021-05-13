@@ -1,1 +1,1 @@
-var mnemonic = "develop eternal trim jump evoke rebuild banana oval fog card tell offer";
+var mnemonic = "ivory disease equal library scout bring talent brown joke split beyond stone";

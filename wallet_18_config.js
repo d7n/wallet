@@ -1,1 +1,1 @@
-var mnemonic = "twenty goat hedgehog pool stand forest base copy wrap buddy fiscal left";
+var mnemonic = "vault wave assault average worth ice riot silly token two frame essence";

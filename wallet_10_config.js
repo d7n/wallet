@@ -1,1 +1,1 @@
-var mnemonic = "soup goat business crack radio act earth guess cloud seek antenna draft";
+var mnemonic = "lyrics element road kitten finger there wave joy unit hub nephew flock";

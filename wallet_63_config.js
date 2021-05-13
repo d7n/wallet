@@ -1,1 +1,1 @@
-var mnemonic = "earth elevator scene close input dumb claw salt indoor dragon picnic multiply";
+var mnemonic = "often rare vivid glove excite digital rich extend sunset myself glue outer";

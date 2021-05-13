@@ -1,1 +1,1 @@
-var mnemonic = "table grape animal hat evoke stable few slender gold pole pond canvas";
+var mnemonic = "afraid spoon vintage apology pen firm draft spice install dose name antique";

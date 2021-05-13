@@ -1,1 +1,1 @@
-var mnemonic = "season screen amazing enough fatigue jelly hidden sign edit purpose relief between";
+var mnemonic = "thumb purse begin cup palm taxi finger train vague nice traffic visa";

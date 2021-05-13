@@ -1,1 +1,1 @@
-var mnemonic = "around claw flush mask turkey panda patrol accuse plunge negative suit exhibit";
+var mnemonic = "ramp photo seminar ancient satisfy this wasp struggle satisfy flush range economy";

@@ -1,1 +1,1 @@
-var mnemonic = "bid bulb ketchup grocery orient dutch ancient hundred where vocal tooth floor";
+var mnemonic = "bundle knock better globe fat setup deposit foster fatigue attack cluster february";

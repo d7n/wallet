@@ -1,1 +1,1 @@
-var mnemonic = "blast pelican swear cloud castle wild much reform angle crisp sniff ranch";
+var mnemonic = "copy planet machine inner blame alert cash hat secret place lens work";

@@ -1,1 +1,1 @@
-var mnemonic = "dust analyst metal silver guide rude avocado domain catch shallow simple emotion";
+var mnemonic = "ask jewel refuse asset sweet ahead eye sail art magnet cruel liquid";

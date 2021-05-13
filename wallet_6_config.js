@@ -1,1 +1,1 @@
-var mnemonic = "mixture attack layer knock wash clip eagle case wheat rebel wheat tip";
+var mnemonic = "enough crane want exile warrior water minute wet enough parrot void soldier";

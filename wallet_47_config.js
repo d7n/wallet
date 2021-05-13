@@ -1,1 +1,1 @@
-var mnemonic = "mercy calm praise say million steak neither artwork solar nephew island expire";
+var mnemonic = "culture exclude promote pulp gown frost kite actual pottery question noodle near";

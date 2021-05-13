@@ -1,1 +1,1 @@
-var mnemonic = "member credit smoke swarm raw virtual tattoo like joy harbor panic night";
+var mnemonic = "giraffe cost cycle icon crime hire truly toilet chicken divert hammer often";

@@ -1,1 +1,1 @@
-var mnemonic = "spray fine virus prosper loop harsh awake clip inner urge hidden wild";
+var mnemonic = "easily walk above clutch rich achieve pyramid brief copper hamster umbrella beach";

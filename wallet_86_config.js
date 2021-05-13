@@ -1,1 +1,1 @@
-var mnemonic = "icon poverty grunt axis sorry vote keep cake retreat cement title tired";
+var mnemonic = "treat fall unhappy pupil urban sword dial crowd wink often marble snake";

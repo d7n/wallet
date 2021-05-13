@@ -1,1 +1,1 @@
-var mnemonic = "sort search coast clown disorder film ball true avocado swing title artist";
+var mnemonic = "scorpion virus alter must fire flag promote much bottom viable machine motor";

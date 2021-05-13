@@ -1,1 +1,1 @@
-var mnemonic = "enable toddler sister truck crop toss visual trend suffer exist bracket tissue";
+var mnemonic = "apology slice hidden diagram shield profit broom expose cycle protect fluid second";

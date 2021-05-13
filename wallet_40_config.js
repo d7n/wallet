@@ -1,1 +1,1 @@
-var mnemonic = "crumble major tray price gloom spin salute penalty shoe reject bless naive";
+var mnemonic = "error inflict bomb notice flavor duty catch elbow civil faculty rhythm edge";

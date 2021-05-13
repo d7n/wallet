@@ -1,1 +1,1 @@
-var mnemonic = "joy input invest dash snake kidney rebuild rubber teach screen cradle mountain";
+var mnemonic = "subway stage brown focus rib climb resist actual jealous series salt dolphin";

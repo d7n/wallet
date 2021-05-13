@@ -1,1 +1,1 @@
-var mnemonic = "relax tower grant hat summer universe carry adult rookie creek gain spin";
+var mnemonic = "pulse vocal source film announce loyal rose youth wet next video deny";

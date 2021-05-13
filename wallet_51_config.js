@@ -1,1 +1,1 @@
-var mnemonic = "poverty eight brother morning unveil wage cluster cover miss isolate beyond social";
+var mnemonic = "rule sight office feel note sound someone divide beauty toy push cruel";

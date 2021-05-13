@@ -1,1 +1,1 @@
-var mnemonic = "key castle oak size pond craft easy wolf exit visual fuel tank";
+var mnemonic = "weekend various own journey seek client tuition gap loud column draw tourist";

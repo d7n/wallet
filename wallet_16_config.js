@@ -1,1 +1,1 @@
-var mnemonic = "mimic forward mammal vicious dignity cabin cube pony dust infant enemy guitar";
+var mnemonic = "elite crawl fatal have custom snake family woman hen reason search prevent";

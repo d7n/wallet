@@ -1,1 +1,1 @@
-var mnemonic = "bamboo sign jar gaze offer miss embark empty dynamic flame labor junior";
+var mnemonic = "tenant dolphin evoke chicken season memory among just pen play nest output";

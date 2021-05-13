@@ -1,1 +1,1 @@
-var mnemonic = "cloth response void dune hub country neglect utility attract provide polar lizard";
+var mnemonic = "morning pride side guide trust pepper kangaroo original umbrella train innocent west";

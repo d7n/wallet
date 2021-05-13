@@ -1,1 +1,1 @@
-var mnemonic = "exhibit salad curious pen city sheriff pulse insect random sauce void then";
+var mnemonic = "render physical power shift alcohol unhappy rail crumble valve elevator switch area";

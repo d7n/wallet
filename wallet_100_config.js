@@ -1,1 +1,1 @@
-var mnemonic = "govern start elbow rug emerge catalog flame steak climb train galaxy tourist";
+var mnemonic = "hamster tobacco chimney record vapor feel curve bless sun peasant balance swamp";

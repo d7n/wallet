@@ -1,1 +1,1 @@
-var mnemonic = "burden motion phrase dilemma normal process song treat kidney promote width scatter";
+var mnemonic = "document apology treat illness napkin viable foam cement legend naive snake tortoise";

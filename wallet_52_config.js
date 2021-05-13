@@ -1,1 +1,1 @@
-var mnemonic = "average oblige essence retire spell question text desert wonder ugly snake huge";
+var mnemonic = "approve another hip have later scout mosquito hero cross february holiday merge";

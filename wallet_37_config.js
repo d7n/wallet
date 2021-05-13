@@ -1,1 +1,1 @@
-var mnemonic = "merge foster chef science perfect decorate cool gas movie general wheel riot";
+var mnemonic = "gas appear ancient impose extend emerge loop park weasel unit bar flash";

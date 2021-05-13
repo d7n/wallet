@@ -1,1 +1,1 @@
-var mnemonic = "abandon balance common salmon similar various marine about pear gap town six";
+var mnemonic = "firm grow medal matrix laptop phone invite social federal shrimp mouse select";

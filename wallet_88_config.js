@@ -1,1 +1,1 @@
-var mnemonic = "resemble glass chunk hidden index session knife minor potato follow hamster volume";
+var mnemonic = "object rifle ramp genius estate fitness remind decline analyst focus derive board";

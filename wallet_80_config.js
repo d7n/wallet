@@ -1,1 +1,1 @@
-var mnemonic = "popular pencil city agree already photo flat ghost reunion desert devote office";
+var mnemonic = "fossil hockey salmon dynamic buzz sphere pride fiscal trigger employ magic black";

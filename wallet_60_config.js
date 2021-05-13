@@ -1,1 +1,1 @@
-var mnemonic = "math spike sphere post mean tilt wedding brief snake test addict mass";
+var mnemonic = "envelope vast worry exist track tube energy acquire tool opinion achieve you";

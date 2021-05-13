@@ -1,1 +1,1 @@
-var mnemonic = "goddess detail lawn total raccoon void spawn member silk cook churn captain";
+var mnemonic = "answer heart armor chunk puzzle twenty husband ordinary shadow tape maple light";

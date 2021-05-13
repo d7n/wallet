@@ -1,1 +1,1 @@
-var mnemonic = "drastic wall edge dust hazard moment such resource trim sheriff window local";
+var mnemonic = "sample hand fame modify memory snow grocery figure core scrub ready token";
