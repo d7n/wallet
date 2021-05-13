@@ -1,1 +1,1 @@
-var mnemonic = "doctor expire era vibrant kiwi lift claim forest dynamic wreck excuse cloth";
+var mnemonic = "picture regular glory phrase dove inside bright mail gain save later witness";

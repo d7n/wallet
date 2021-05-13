@@ -1,1 +1,1 @@
-var mnemonic = "device crane victory skin give bleak jazz dune cannon idle hill indicate";
+var mnemonic = "december another debris dolphin section wrong buyer defense hollow jump suggest cake";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom blade mail neck artist pipe dream party crash lyrics bargain decrease";
+var mnemonic = "battle term decade come speed web era despair collect shoot fan receive";

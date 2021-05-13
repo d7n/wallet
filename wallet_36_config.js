@@ -1,1 +1,1 @@
-var mnemonic = "text cage snack genuine trip noble pull edit dog teach nerve badge";
+var mnemonic = "garment decrease million night round oxygen inner apart glare struggle divide mutual";

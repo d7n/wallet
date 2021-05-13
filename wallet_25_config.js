@@ -1,1 +1,1 @@
-var mnemonic = "author response achieve art october attend future ecology slab equip truth among";
+var mnemonic = "fix lonely comfort panther ecology stone top board crew tuna fall entire";

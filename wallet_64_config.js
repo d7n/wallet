@@ -1,1 +1,1 @@
-var mnemonic = "announce jealous antenna retreat duty copy work barely popular mouse dose boat";
+var mnemonic = "column brand wrong frame chest denial garment lobster island woman powder interest";

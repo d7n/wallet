@@ -1,1 +1,1 @@
-var mnemonic = "you gold work year timber sketch when reduce energy cruel grace club";
+var mnemonic = "ranch ability disorder gown scorpion culture error modify lunar garden inflict catch";

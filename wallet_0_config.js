@@ -1,1 +1,1 @@
-var mnemonic = "second small three ginger host light resist miracle plunge convince final stove";
+var mnemonic = "orange position choice fiber primary vault anger coyote differ focus lonely crane";

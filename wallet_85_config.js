@@ -1,1 +1,1 @@
-var mnemonic = "drip inmate trumpet quarter alone mystery awkward soup similar payment foster clown";
+var mnemonic = "waste virus palace autumn snap wild solid mixture unfold old spawn pitch";

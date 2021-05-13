@@ -1,1 +1,1 @@
-var mnemonic = "divert girl train marriage gauge dial bring size manage giraffe friend gift";
+var mnemonic = "inherit myth nose lesson dance drink put vintage mix orient curtain dignity";

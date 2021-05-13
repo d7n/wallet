@@ -1,1 +1,1 @@
-var mnemonic = "modify pink denial asthma vague monkey occur belt toward goose tragic wrist";
+var mnemonic = "garden design friend decorate law east unfold garage runway misery coin someone";

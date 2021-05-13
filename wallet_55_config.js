@@ -1,1 +1,1 @@
-var mnemonic = "renew keep defy wrap whale enrich benefit pool fan pattern gallery leg";
+var mnemonic = "lawn pave wood vintage industry sphere camp six feed burst act write";

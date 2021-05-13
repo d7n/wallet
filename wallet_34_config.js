@@ -1,1 +1,1 @@
-var mnemonic = "solar room physical cruel crucial copy put toilet castle wrong debate supply";
+var mnemonic = "word abstract guide unhappy shop bean noble cricket master ask mutual devote";

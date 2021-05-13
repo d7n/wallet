@@ -1,1 +1,1 @@
-var mnemonic = "extend mail rough rather near swift alone bracket seminar uphold essay token";
+var mnemonic = "road surge exchange shrimp like aspect pool welcome silver angle eagle sentence";

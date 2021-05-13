@@ -1,1 +1,1 @@
-var mnemonic = "slight blade victory dilemma salad mystery right uncover wife gain boy moon";
+var mnemonic = "wrong hungry diagram guilt dad word museum place gasp note increase disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup tag shy matter please shrimp chat face broccoli scheme nurse ecology";
+var mnemonic = "half sing depend mesh expose people shine mountain brass can pass theme";

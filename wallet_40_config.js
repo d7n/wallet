@@ -1,1 +1,1 @@
-var mnemonic = "disagree thank region speak oven tone wise beef favorite throw until awake";
+var mnemonic = "tuition capable canvas vehicle clutch asthma mule prevent brush rug opera screen";

@@ -1,1 +1,1 @@
-var mnemonic = "seek series execute dawn inherit liquid arena weekend evoke matrix cradle puppy";
+var mnemonic = "dwarf exact hospital alcohol merit orbit air human model banana meat owner";

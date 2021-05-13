@@ -1,1 +1,1 @@
-var mnemonic = "trial office caution answer pride pact health amazing unhappy floor together transfer";
+var mnemonic = "ketchup east identify found bundle write asthma inspire cherry liberty practice original";

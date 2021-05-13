@@ -1,1 +1,1 @@
-var mnemonic = "fly beef oval again danger nose among basket about sting increase person";
+var mnemonic = "rich woman vintage beach green person bullet miracle couch open heart scare";

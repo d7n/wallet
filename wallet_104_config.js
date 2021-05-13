@@ -1,1 +1,1 @@
-var mnemonic = "avoid result shoe surface lawsuit first kangaroo poet reflect nut yard enable";
+var mnemonic = "uphold curious drive chapter enough exotic undo horse patch flash oak imitate";

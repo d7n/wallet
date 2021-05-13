@@ -1,1 +1,1 @@
-var mnemonic = "loud toward camera answer invest border broken solid busy evidence worry vast";
+var mnemonic = "injury topple dust cram want gloom fish garden bleak steel genuine history";

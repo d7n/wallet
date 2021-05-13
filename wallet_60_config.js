@@ -1,1 +1,1 @@
-var mnemonic = "human rural gap require hen talent divert amazing absorb cinnamon sail sight";
+var mnemonic = "funny track jeans legend neutral escape furnace jelly luxury moral curve hen";

@@ -1,1 +1,1 @@
-var mnemonic = "design genre census digital diesel ketchup client empower crystal cash pen outdoor";
+var mnemonic = "ozone wreck hole sauce jacket obscure omit video oyster rose parent latin";

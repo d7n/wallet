@@ -1,1 +1,1 @@
-var mnemonic = "swap cousin setup describe boil table submit end cereal barely wonder bicycle";
+var mnemonic = "excess expire cancel sure proof soft bid foot predict reunion secret situate";

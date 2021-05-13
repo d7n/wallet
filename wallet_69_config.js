@@ -1,1 +1,1 @@
-var mnemonic = "love thing merit exercise question cake amused pledge allow outdoor pool viable";
+var mnemonic = "history dentist ivory course roast phrase smile helmet fine misery cry coast";

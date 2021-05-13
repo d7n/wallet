@@ -1,1 +1,1 @@
-var mnemonic = "grain balcony hire rail pole lunar doctor much detect work session nest";
+var mnemonic = "gloom grow dizzy turtle dice garbage foot high barely school bottom item";

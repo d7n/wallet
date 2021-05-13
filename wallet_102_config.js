@@ -1,1 +1,1 @@
-var mnemonic = "monster produce loan goat fever era tooth category just dose crumble voice";
+var mnemonic = "change bone source same inspire boil segment pause clerk roof side hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry diesel bleak cricket express view cliff clinic disorder syrup model brush";
+var mnemonic = "leave south tooth blanket hobby rural depth mass novel panic oyster drink";

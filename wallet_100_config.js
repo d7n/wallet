@@ -1,1 +1,1 @@
-var mnemonic = "sponsor toss tank wall bulk soda lunar vapor pepper donate meadow shift";
+var mnemonic = "ankle indicate chief belt uncover quarter near later faculty powder federal jazz";

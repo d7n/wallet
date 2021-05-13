@@ -1,1 +1,1 @@
-var mnemonic = "protect pool essence attitude insect silver escape bargain garment vague aerobic breeze";
+var mnemonic = "rate pond craft decide famous error sword gauge tissue path income addict";

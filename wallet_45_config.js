@@ -1,1 +1,1 @@
-var mnemonic = "alley clip only fish high absorb fish foil during canoe olive heavy";
+var mnemonic = "suspect harsh media immune purpose atom increase fantasy common quote tube cloud";

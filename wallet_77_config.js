@@ -1,1 +1,1 @@
-var mnemonic = "daughter describe ripple goose market math sweet solid reject need pupil various";
+var mnemonic = "basic chaos lawsuit burger jealous addict taste noise need increase lobster six";

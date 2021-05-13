@@ -1,1 +1,1 @@
-var mnemonic = "muffin elegant fitness twelve coach subject tape table soldier rich earth eye";
+var mnemonic = "report uphold mask alpha sample day usage equip cupboard cigar multiply portion";

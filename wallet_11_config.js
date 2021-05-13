@@ -1,1 +1,1 @@
-var mnemonic = "answer depart inhale diagram empty visit evidence lecture mean broken grief visit";
+var mnemonic = "lunch hurt blame human smile flame grass spy vivid slab knife two";

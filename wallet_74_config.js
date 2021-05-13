@@ -1,1 +1,1 @@
-var mnemonic = "sun charge recall live daring panther chair manage whale cable claim enter";
+var mnemonic = "slot hundred absurd trap average much mind verb lab humor tissue mask";

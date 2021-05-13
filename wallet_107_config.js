@@ -1,1 +1,1 @@
-var mnemonic = "burst squirrel rule life hint sing mixture style stand hurdle comfort fashion";
+var mnemonic = "squirrel armed illness dance leave chaos unveil upper champion enough length inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "require expect urban plastic injury moment maid rose material swing theme alert";
+var mnemonic = "tape text alley involve ugly relax bachelor alter purse coral social gun";

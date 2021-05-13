@@ -1,1 +1,1 @@
-var mnemonic = "enjoy belt letter carpet happy loan imitate velvet excuse ghost wedding alone";
+var mnemonic = "upgrade broken mad distance popular tunnel awful bronze monster gold pause corn";

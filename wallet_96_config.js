@@ -1,1 +1,1 @@
-var mnemonic = "gloom pudding brisk fox gasp clean ritual sorry family question anxiety pair";
+var mnemonic = "riot adult find wealth pill cliff helmet animal civil grief coil refuse";

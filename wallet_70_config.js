@@ -1,1 +1,1 @@
-var mnemonic = "play start lemon camp face door fatal retire swarm crater door muscle";
+var mnemonic = "wrap talent carry camp bus eager rifle regular monkey option tray convince";

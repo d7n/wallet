@@ -1,1 +1,1 @@
-var mnemonic = "story total surge aim satisfy dumb virtual focus destroy off iron recall";
+var mnemonic = "immune oyster fan immune silent circle tunnel you camp maze horror also";

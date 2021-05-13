@@ -1,1 +1,1 @@
-var mnemonic = "team help menu guilt include fit wrong month woman ivory unable vanish";
+var mnemonic = "huge purpose unable tool travel rival erode level mango behind series upgrade";

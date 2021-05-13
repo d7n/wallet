@@ -1,1 +1,1 @@
-var mnemonic = "case reward shaft afford blur enough capable over fatal drill supreme domain";
+var mnemonic = "deliver enhance range jewel end miracle stick police truly pair neither fiction";

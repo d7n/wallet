@@ -1,1 +1,1 @@
-var mnemonic = "own scorpion critic pottery someone fetch argue path firm old truth chalk";
+var mnemonic = "broccoli stable bread juice drastic fade fee own legend parrot cushion wonder";

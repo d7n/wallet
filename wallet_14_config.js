@@ -1,1 +1,1 @@
-var mnemonic = "cry floor pottery erupt legal retire shed proud kite envelope front twenty";
+var mnemonic = "very nasty marine tooth mandate enable onion caution glow scale record boost";

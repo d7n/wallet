@@ -1,1 +1,1 @@
-var mnemonic = "daring save oblige exist soldier gentle resource invite spatial gold reveal pottery";
+var mnemonic = "author buzz wolf random purity project once swap video slow light execute";

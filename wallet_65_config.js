@@ -1,1 +1,1 @@
-var mnemonic = "broccoli hello cradle produce primary remain basket romance toast strong jacket noise";
+var mnemonic = "stove cancel wide control script extend naive permit install gadget winner dog";

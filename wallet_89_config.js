@@ -1,1 +1,1 @@
-var mnemonic = "mercy toward fiber can vibrant bomb fossil grant clay power rent gate";
+var mnemonic = "creek history online pelican wheat banner pulse rocket method horror donor funny";

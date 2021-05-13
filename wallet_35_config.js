@@ -1,1 +1,1 @@
-var mnemonic = "corn hen arrow trial plug train range exist disease fever trophy image";
+var mnemonic = "negative narrow tenant acquire almost food affair spring stumble oven keep foam";

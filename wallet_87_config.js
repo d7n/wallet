@@ -1,1 +1,1 @@
-var mnemonic = "long april gym security valley limb choose awful simple wisdom later shoot";
+var mnemonic = "jealous tonight trophy found clarify tide believe return reopen potato biology room";

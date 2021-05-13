@@ -1,1 +1,1 @@
-var mnemonic = "basic valve spell borrow dice arch squeeze produce keen runway filter cycle";
+var mnemonic = "indicate flavor truth cool food talent fine broken junior device shed question";

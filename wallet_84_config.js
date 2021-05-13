@@ -1,1 +1,1 @@
-var mnemonic = "pupil please sudden one despair decline female absurd glide material frog confirm";
+var mnemonic = "furnace skirt shuffle daughter spike book frame sick exact candy myth shrimp";

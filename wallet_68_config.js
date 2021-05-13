@@ -1,1 +1,1 @@
-var mnemonic = "place doll inform float spike blossom anchor claw rose smile decade uniform";
+var mnemonic = "organ pull drill symptom group grape bag amazing matrix bird disorder protect";

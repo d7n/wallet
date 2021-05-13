@@ -1,1 +1,1 @@
-var mnemonic = "bargain expire road nuclear roof reject develop birth earth senior misery initial";
+var mnemonic = "solve eternal evoke photo rabbit spell empty distance hazard spatial truly fence";

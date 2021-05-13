@@ -1,1 +1,1 @@
-var mnemonic = "fossil solid diesel girl fortune clip purse era early usage lift elite";
+var mnemonic = "symbol hunt snack buzz mammal quarter protect noble honey zero approve barely";

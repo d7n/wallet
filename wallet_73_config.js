@@ -1,1 +1,1 @@
-var mnemonic = "hungry air robot card domain term derive fox strategy mountain town demand";
+var mnemonic = "fabric feed jar hybrid vacuum soup east giggle figure turtle rice coin";

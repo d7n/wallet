@@ -1,1 +1,1 @@
-var mnemonic = "process scorpion kiss midnight task lemon matrix pilot subject now cook meat";
+var mnemonic = "beef please antenna body prize consider process pause dirt click knock detect";

@@ -1,1 +1,1 @@
-var mnemonic = "rail oak bring verb indoor unusual inquiry govern good speak ranch junk";
+var mnemonic = "drastic fortune dinosaur olive open march hill cloud lecture decade ripple spray";

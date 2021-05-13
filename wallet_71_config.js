@@ -1,1 +1,1 @@
-var mnemonic = "share final stay pepper parrot buyer struggle stamp royal avoid violin rule";
+var mnemonic = "follow pistol sweet draw busy oyster embody stage wear source cage sad";

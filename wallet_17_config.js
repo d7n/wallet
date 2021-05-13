@@ -1,1 +1,1 @@
-var mnemonic = "usage august canal isolate friend taste item symbol kidney release any catalog";
+var mnemonic = "detail trophy misery mad budget ugly blue believe season carbon say purity";

@@ -1,1 +1,1 @@
-var mnemonic = "lake duck fetch tuna cool slim world travel inside peanut stove suffer";
+var mnemonic = "defy coin organ obtain cliff loyal arena quantum mirror scorpion hard cart";

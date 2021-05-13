@@ -1,1 +1,1 @@
-var mnemonic = "birth eagle regular fence express nasty economy goat degree address copper cousin";
+var mnemonic = "antique electric mushroom omit cannon public bracket yellow luggage demand sea alien";

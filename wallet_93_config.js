@@ -1,1 +1,1 @@
-var mnemonic = "whale leaf afford over income pony syrup echo stool yellow crystal cupboard";
+var mnemonic = "spring reveal emerge room amount survey tired train dash shoulder mimic huge";

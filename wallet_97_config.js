@@ -1,1 +1,1 @@
-var mnemonic = "fatal bonus plunge subject shoot symptom enjoy disagree tomato lumber scatter brain";
+var mnemonic = "cotton permit poet quantum rare debate together rotate embark wash grab health";

@@ -1,1 +1,1 @@
-var mnemonic = "slam elegant wait minute extra phrase patch hint nose dice fade muffin";
+var mnemonic = "sauce need little canvas remain pipe frown cram nuclear trade seven flock";

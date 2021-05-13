@@ -1,1 +1,1 @@
-var mnemonic = "utility access orange valve ring leg track bubble black goddess avocado opera";
+var mnemonic = "return menu blame joke edge monster cotton romance always fence goose bronze";

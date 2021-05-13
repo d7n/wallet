@@ -1,1 +1,1 @@
-var mnemonic = "world double document shiver toward focus champion lab behave swift become squirrel";
+var mnemonic = "concert shoulder weird seat bracket elder rocket giraffe arena view desk maid";

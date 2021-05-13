@@ -1,1 +1,1 @@
-var mnemonic = "material hammer ride garment response voyage chronic raise man like tortoise hollow";
+var mnemonic = "edit engage bridge unhappy window cabbage miss ramp trust strike quarter digital";

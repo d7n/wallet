@@ -1,1 +1,1 @@
-var mnemonic = "rely critic age core glance item feed candy river cradle real ocean";
+var mnemonic = "wash output advice plunge balance poem forward peasant antique promote pudding hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap oak place fetch wing abandon foster outside chimney vote crouch half";
+var mnemonic = "clip main divorce flip exile razor reject will soldier fit topic fit";

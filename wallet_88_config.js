@@ -1,1 +1,1 @@
-var mnemonic = "grab remember cheap combine safe gift hint body inch guess video west";
+var mnemonic = "word sense session obscure carry odor north climb negative priority scissors special";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold hood dial battle biology detect fly buddy draw spice sorry unit";
+var mnemonic = "clog erase festival unfair level catch used rebuild settle make bulk cereal";

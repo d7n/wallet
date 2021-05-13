@@ -1,1 +1,1 @@
-var mnemonic = "light million shield west romance mushroom margin weasel duck cloth network wait";
+var mnemonic = "second gaze myth zero evolve ride army sound congress power yellow drum";

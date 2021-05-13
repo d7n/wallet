@@ -1,1 +1,1 @@
-var mnemonic = "cement tomato flame service more indoor dial question obscure foster wise olympic";
+var mnemonic = "this pretty just bunker canoe polar color salad pill name dash kite";

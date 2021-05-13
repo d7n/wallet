@@ -1,1 +1,1 @@
-var mnemonic = "slide baby will intact render ride question display eyebrow lake phone much";
+var mnemonic = "example area bar shift segment comfort sure sunset hurt brush canoe diagram";

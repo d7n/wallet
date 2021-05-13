@@ -1,1 +1,1 @@
-var mnemonic = "swallow mom dinosaur parent among peanut plug gift rack divide sound charge";
+var mnemonic = "doctor excuse barely body boss system one patch catch acoustic renew unit";

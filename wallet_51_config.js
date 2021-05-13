@@ -1,1 +1,1 @@
-var mnemonic = "property zero thumb birth list know obscure loop special message reform upper";
+var mnemonic = "key outer act bracket orient please unique injury until broken hunt crunch";

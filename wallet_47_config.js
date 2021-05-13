@@ -1,1 +1,1 @@
-var mnemonic = "fragile harsh news cinnamon correct assault casual thank nuclear school cycle attack";
+var mnemonic = "illegal quiz note logic update slab erase trim dove comic empower cheese";

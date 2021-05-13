@@ -1,1 +1,1 @@
-var mnemonic = "liar educate cheap provide month topple heavy bone toddler dish army duck";
+var mnemonic = "citizen suffer fiction help away chat olympic either tower hair pottery silver";

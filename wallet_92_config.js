@@ -1,1 +1,1 @@
-var mnemonic = "milk connect shop dose trophy style venue code add one garage response";
+var mnemonic = "explain gate gasp either moral doctor solid number antique race utility cruise";

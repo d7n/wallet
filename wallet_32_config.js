@@ -1,1 +1,1 @@
-var mnemonic = "design minute casual runway pet invite crime seminar twist pave noble whip";
+var mnemonic = "canvas world split valve grow ostrich range lion target dizzy topple sting";

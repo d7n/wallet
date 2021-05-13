@@ -1,1 +1,1 @@
-var mnemonic = "shove buyer february book sight wait aspect trash rebel cricket almost rug";
+var mnemonic = "bench gold supply wing lunar knock into flame glance zero join about";

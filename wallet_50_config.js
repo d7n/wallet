@@ -1,1 +1,1 @@
-var mnemonic = "spring soccer man series process increase similar guess teach enable broccoli secret";
+var mnemonic = "champion private blouse prison crawl toast math ugly myself swim blast gather";

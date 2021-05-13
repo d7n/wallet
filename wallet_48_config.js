@@ -1,1 +1,1 @@
-var mnemonic = "merry turn switch subway such film comic wreck noise about since opera";
+var mnemonic = "elbow rebuild supply focus phone spell pelican deposit water device action chat";

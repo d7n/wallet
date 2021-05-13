@@ -1,1 +1,1 @@
-var mnemonic = "bargain file web recycle sentence sock key record father strong original fold";
+var mnemonic = "save illegal tattoo this oyster hat close math cup bounce level chuckle";

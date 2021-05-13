@@ -1,1 +1,1 @@
-var mnemonic = "tell steak chief explain image lawsuit couch hint dizzy elite vehicle amused";
+var mnemonic = "rule soda creek fiber history true raccoon depth planet bargain innocent drama";

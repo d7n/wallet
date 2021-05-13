@@ -1,1 +1,1 @@
-var mnemonic = "split mail right produce expand dinner neither acid dress paddle deal dress";
+var mnemonic = "drink avoid harsh quality smile horse estate penalty atom once shallow day";

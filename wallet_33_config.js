@@ -1,1 +1,1 @@
-var mnemonic = "soul couple invite pudding hybrid fog series jeans custom march pyramid paper";
+var mnemonic = "dragon axis renew please scare loud force chief pond coral hybrid expose";

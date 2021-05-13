@@ -1,1 +1,1 @@
-var mnemonic = "average weird sample claim laptop impact good either core silly carry evolve";
+var mnemonic = "cheese wrist blanket borrow alcohol exact cherry essay pink run effort speed";
