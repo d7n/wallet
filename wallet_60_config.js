@@ -1,1 +1,1 @@
-var mnemonic = "alien link letter wheat secret dust buddy poet control edit void kitten";
+var mnemonic = "patrol illness fault sea okay athlete goddess road kick stock host crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "number elegant cricket wise pyramid volume patrol abuse cannon sample embark furnace";
+var mnemonic = "rubber credit exact estate cancel tray moral ill hire sorry focus gadget";

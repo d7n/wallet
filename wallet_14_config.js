@@ -1,1 +1,1 @@
-var mnemonic = "file burger improve gravity bracket patient bean wave tomorrow stone settle uphold";
+var mnemonic = "amused need candy urge sample deer piano bright unit bullet tag west";

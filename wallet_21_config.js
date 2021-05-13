@@ -1,1 +1,1 @@
-var mnemonic = "deal betray use sheriff armor rice call host marriage height trick life";
+var mnemonic = "old bread regular harbor fashion behave scrap error grocery broccoli reopen drum";

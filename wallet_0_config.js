@@ -1,1 +1,1 @@
-var mnemonic = "curve regret warm chest carpet inside security inner street link junk rack";
+var mnemonic = "garage sense fetch bird genuine verb vital table popular lion shield inside";

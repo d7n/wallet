@@ -1,1 +1,1 @@
-var mnemonic = "intact february patch inform bird boring time flag march beach win beyond";
+var mnemonic = "grit spare verb tail own squeeze arch accident armed pet flush leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "grow hurt custom proud judge enforce clock car rule clap unable apology";
+var mnemonic = "humble legend leisure goose gentle then exact donkey toilet kiwi school swim";

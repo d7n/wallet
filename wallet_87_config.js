@@ -1,1 +1,1 @@
-var mnemonic = "economy learn try broom wife desk medal damage female fortune fatal frequent";
+var mnemonic = "spatial ketchup hobby august frequent olympic daring violin enter boil novel total";

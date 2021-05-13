@@ -1,1 +1,1 @@
-var mnemonic = "ketchup soap nephew summer ghost thank away impose worth sausage media lava";
+var mnemonic = "hard rare tool mix load common need long leisure witness acquire uniform";

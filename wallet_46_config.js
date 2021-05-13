@@ -1,1 +1,1 @@
-var mnemonic = "shock fly box brick post hurdle bulk muscle lawsuit valve again rose";
+var mnemonic = "strategy pass garbage arch torch popular brother fiber broom quote expose fork";

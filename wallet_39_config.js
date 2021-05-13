@@ -1,1 +1,1 @@
-var mnemonic = "caution list maid industry kidney orange admit warm enforce pony buzz trust";
+var mnemonic = "blouse update buddy upgrade destroy rocket attack trim alley runway winner immense";

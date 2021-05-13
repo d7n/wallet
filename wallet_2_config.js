@@ -1,1 +1,1 @@
-var mnemonic = "world number dry pulp monitor member female car abuse text exist boil";
+var mnemonic = "consider salmon cloud crumble decline license link direct devote sure resource song";

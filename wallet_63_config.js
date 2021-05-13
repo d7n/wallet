@@ -1,1 +1,1 @@
-var mnemonic = "member sugar seat oven category village disorder wasp shiver finish risk country";
+var mnemonic = "priority panel oil egg bounce response upgrade once loan sell walnut apology";

@@ -1,1 +1,1 @@
-var mnemonic = "employ because elegant long visa border expand ride hurry exercise love govern";
+var mnemonic = "cluster vicious laugh collect cupboard front shuffle flower kidney ignore kingdom resource";

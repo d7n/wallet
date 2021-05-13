@@ -1,1 +1,1 @@
-var mnemonic = "narrow segment neglect chef voyage happy extra taste square peanut digital filter";
+var mnemonic = "shrimp question violin enlist proud grief damage merge drastic work wool oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "army document sadness opinion similar pelican envelope detail fire album rifle capable";
+var mnemonic = "congress doll deputy visit release treat wrestle again great echo canoe program";

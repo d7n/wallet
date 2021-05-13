@@ -1,1 +1,1 @@
-var mnemonic = "enhance swing wide nest ancient scout donate balcony atom chicken tissue plastic";
+var mnemonic = "thrive lift equal forget phrase theme mandate keen flight grid glove spread";

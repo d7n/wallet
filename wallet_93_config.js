@@ -1,1 +1,1 @@
-var mnemonic = "powder pupil reveal habit install measure blind arm gold pipe record dirt";
+var mnemonic = "citizen tent zoo uniform pupil rate boy educate size attend orchard already";

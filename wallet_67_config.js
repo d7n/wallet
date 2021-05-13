@@ -1,1 +1,1 @@
-var mnemonic = "century chuckle curve sense seek lumber rail cabin dinner false seven remember";
+var mnemonic = "priority elite confirm erode inhale pottery cake obey hundred minute latin catalog";

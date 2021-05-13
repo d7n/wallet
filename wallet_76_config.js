@@ -1,1 +1,1 @@
-var mnemonic = "decline banner robot upgrade spy original embody coil dirt music enter regret";
+var mnemonic = "grant there choice vessel bamboo lemon dinner laugh bundle draft mixed expand";

@@ -1,1 +1,1 @@
-var mnemonic = "expand screen expire way lens video grass tray emotion swallow tissue excuse";
+var mnemonic = "approve ugly member situate belt abandon laptop candy trumpet brown control there";

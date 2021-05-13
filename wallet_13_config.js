@@ -1,1 +1,1 @@
-var mnemonic = "industry kingdom guitar idle artwork relax high poet stick ready priority wisdom";
+var mnemonic = "cradle morning panda weapon sibling verify record hen iron season basic runway";

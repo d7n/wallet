@@ -1,1 +1,1 @@
-var mnemonic = "autumn embody palm blanket sphere pitch flash spy purchase tongue false path";
+var mnemonic = "enrich actor secret yellow brush symptom want evidence ill donkey logic tray";

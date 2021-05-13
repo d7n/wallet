@@ -1,1 +1,1 @@
-var mnemonic = "exhaust what express tooth kiss bench car clump betray soft loud civil";
+var mnemonic = "east absorb alone knife bargain piece retreat fall eye tongue various drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "that cousin smoke salad glow theory anger unfair puppy plug album solid";
+var mnemonic = "mosquito future ignore liberty wish join few brand behave grief fragile hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "useful betray wife elegant fire body sheriff speak inherit release wrestle priority";
+var mnemonic = "future vocal already organ donor gossip present morning brass angle burden wasp";

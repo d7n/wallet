@@ -1,1 +1,1 @@
-var mnemonic = "scale industry mandate saddle invest crack smoke blue lady alert picnic forget";
+var mnemonic = "issue coconut vibrant dutch hotel napkin pig plug certain club rabbit steak";

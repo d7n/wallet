@@ -1,1 +1,1 @@
-var mnemonic = "upset govern elephant crane magic team peace remind match enroll flag hobby";
+var mnemonic = "tray before bird other enable drum bounce arena simple deliver cover captain";

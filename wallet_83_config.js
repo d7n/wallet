@@ -1,1 +1,1 @@
-var mnemonic = "squirrel toast fabric multiply gossip maximum lemon reveal curious zone bubble fever";
+var mnemonic = "teach divide garage raw glimpse gauge perfect eight thumb ticket mask skull";

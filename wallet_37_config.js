@@ -1,1 +1,1 @@
-var mnemonic = "obvious grace boss know girl isolate park bring habit senior obscure actual";
+var mnemonic = "august gossip tobacco always sword book post reunion light pet firm clarify";

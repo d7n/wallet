@@ -1,1 +1,1 @@
-var mnemonic = "initial card cage usage scan motor raven fit fiber own team room";
+var mnemonic = "license puppy supply ankle east profit actress grow reflect priority vibrant fortune";

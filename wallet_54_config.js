@@ -1,1 +1,1 @@
-var mnemonic = "liberty skull reform elite impose hello once glance cram art winter trash";
+var mnemonic = "pencil moral winter avocado illegal figure vehicle burden demise snack nice repair";

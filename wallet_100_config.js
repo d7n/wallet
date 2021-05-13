@@ -1,1 +1,1 @@
-var mnemonic = "morning ranch matter pulse cover only hand seven someone casino walk round";
+var mnemonic = "piece danger account depth define entry vacuum possible want resource twin shoot";

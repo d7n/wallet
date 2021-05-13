@@ -1,1 +1,1 @@
-var mnemonic = "behave humble tribe ability surprise face novel oval damage senior garment nation";
+var mnemonic = "favorite distance that vibrant cheese beyond trigger among soon glow patient estate";

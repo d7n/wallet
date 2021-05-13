@@ -1,1 +1,1 @@
-var mnemonic = "awesome recycle keep decline hedgehog way blouse despair rate scheme mean ridge";
+var mnemonic = "plunge pencil either chat tunnel long album model hockey aerobic analyst please";

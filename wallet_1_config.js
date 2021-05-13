@@ -1,1 +1,1 @@
-var mnemonic = "lonely output skate half document analyst much tell menu give dilemma grunt";
+var mnemonic = "hat spread language spin rubber prize cat demise capital truth canal high";

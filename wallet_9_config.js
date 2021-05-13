@@ -1,1 +1,1 @@
-var mnemonic = "sense uphold invest term pupil melody album summer clean sunset erase outside";
+var mnemonic = "rapid mammal frequent orient faculty cube attract credit right goose wire pyramid";

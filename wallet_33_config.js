@@ -1,1 +1,1 @@
-var mnemonic = "stairs letter craft noble trash pride brass lucky rapid youth build smoke";
+var mnemonic = "ginger wall execute february alien fold shine kiwi wave roof luggage cheap";

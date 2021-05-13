@@ -1,1 +1,1 @@
-var mnemonic = "clinic power basket planet grocery keen news arm spy flush middle owner";
+var mnemonic = "left topic spawn select wish champion genius motor gaze sadness inquiry burger";

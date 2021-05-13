@@ -1,1 +1,1 @@
-var mnemonic = "fever solve aerobic fly outdoor again autumn payment quality depart arrive enact";
+var mnemonic = "swing media gas acid sugar wasp toward brave snap fatal attitude engine";

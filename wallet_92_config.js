@@ -1,1 +1,1 @@
-var mnemonic = "blade fancy garbage law unlock bar tube story bar flock super thing";
+var mnemonic = "piano need civil tag camera help million tornado almost very beauty foster";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle brain snake roof slab extend flat rare fatigue giant subway sword";
+var mnemonic = "estate boost settle approve concert awful winner romance suggest wonder range grief";

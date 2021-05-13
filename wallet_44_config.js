@@ -1,1 +1,1 @@
-var mnemonic = "payment citizen purity vintage dove swarm save isolate estate feel today quality";
+var mnemonic = "moment tuition brass much few middle tissue crack guard veteran orient squirrel";

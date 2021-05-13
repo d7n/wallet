@@ -1,1 +1,1 @@
-var mnemonic = "burden desert snow just fashion manual goddess uncover arch seek license glue";
+var mnemonic = "rule plug bargain you topple congress razor clap weapon cage belt labor";

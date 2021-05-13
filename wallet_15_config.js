@@ -1,1 +1,1 @@
-var mnemonic = "glad lens hat easily pumpkin iron derive inch fatigue extend pride length";
+var mnemonic = "combine ball frog invest embrace option unfair fiction immense keen link runway";

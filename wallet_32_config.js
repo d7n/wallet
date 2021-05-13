@@ -1,1 +1,1 @@
-var mnemonic = "rough screen tumble tomorrow pole laptop bulk diary describe slam summer wait";
+var mnemonic = "nominee print like eyebrow pudding moral impact rabbit unveil vicious fire feel";

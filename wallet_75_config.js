@@ -1,1 +1,1 @@
-var mnemonic = "approve pledge vocal opinion enrich income degree sweet deer embrace sorry idea";
+var mnemonic = "ticket bracket dawn convince suggest bronze crash ride bread rely decide state";

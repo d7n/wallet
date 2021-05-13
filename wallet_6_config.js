@@ -1,1 +1,1 @@
-var mnemonic = "verify shallow cliff pigeon task little kingdom improve start hunt plate fish";
+var mnemonic = "device wasp opinion during place rib design spot believe observe robust behave";

@@ -1,1 +1,1 @@
-var mnemonic = "giant jump tornado muscle photo during rent modify muscle grid school divert";
+var mnemonic = "refuse what pet basket boat spice dish disorder pumpkin bargain boring record";

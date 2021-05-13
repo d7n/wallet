@@ -1,1 +1,1 @@
-var mnemonic = "attend exit clutch subway move husband october zone series sadness absurd hobby";
+var mnemonic = "soft cherry exchange pretty gun tank palm course super sphere topic page";

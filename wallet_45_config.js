@@ -1,1 +1,1 @@
-var mnemonic = "journey cradle solar swift dawn oblige pink inside flip rifle stay moment";
+var mnemonic = "police humble bomb faculty worth check twice only size elephant where tube";

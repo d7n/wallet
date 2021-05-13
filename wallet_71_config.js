@@ -1,1 +1,1 @@
-var mnemonic = "gold pig buddy banner mushroom dad fatigue odor bundle clutch leader soft";
+var mnemonic = "employ payment duty junk shell short only fence agent park dignity august";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle key better vocal venue jeans idle one essay flock carry century";
+var mnemonic = "ten shove amazing eye mail north dilemma reform leave supply item loan";

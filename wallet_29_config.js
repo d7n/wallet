@@ -1,1 +1,1 @@
-var mnemonic = "game demise label virtual work wink pencil inner absent choice depth blue";
+var mnemonic = "host poverty desert rude belt guess quiz bird blouse whip cook waste";

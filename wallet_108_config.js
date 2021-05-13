@@ -1,1 +1,1 @@
-var mnemonic = "similar flame deal gravity flock tackle jeans foster fragile damage task diesel";
+var mnemonic = "shoe silly nominee wall gym much peanut ignore ritual since team duty";

@@ -1,1 +1,1 @@
-var mnemonic = "omit absorb diesel switch number south push fetch soldier sport hub turtle";
+var mnemonic = "endless cross depth upgrade hip spring ship review surround inch letter will";

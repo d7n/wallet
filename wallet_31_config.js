@@ -1,1 +1,1 @@
-var mnemonic = "myself discover ticket bulb error yard cattle shock manage hip rose fiber";
+var mnemonic = "play machine imitate negative hawk idea room erosion equal brand lady cake";

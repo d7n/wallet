@@ -1,1 +1,1 @@
-var mnemonic = "act topple ramp dwarf impact upgrade jungle merit shaft west blast recycle";
+var mnemonic = "drop guard switch escape invest dawn finish ripple portion mammal rebel myth";

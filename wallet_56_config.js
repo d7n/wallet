@@ -1,1 +1,1 @@
-var mnemonic = "shiver quick school marine crop wealth extra midnight ozone egg hope black";
+var mnemonic = "multiply medal coffee grief sun exact asset choice stay jealous ripple shadow";

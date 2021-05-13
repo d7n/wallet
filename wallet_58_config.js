@@ -1,1 +1,1 @@
-var mnemonic = "achieve repair pretty truck output loud portion very gesture present glide giraffe";
+var mnemonic = "few face pyramid sister ticket diesel cat biology marine garment matrix ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology quarter busy evoke normal nose system alone tumble marine shuffle control";
+var mnemonic = "once shuffle gesture nice exercise robot violin buzz rug mixture matrix uncover";

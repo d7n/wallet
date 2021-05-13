@@ -1,1 +1,1 @@
-var mnemonic = "main spoil crazy tattoo wealth planet industry dash crack novel glass tuition";
+var mnemonic = "tape sister fetch saddle smooth hand off column thing various trade guard";

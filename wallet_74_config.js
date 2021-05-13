@@ -1,1 +1,1 @@
-var mnemonic = "predict minor include neglect enable grass dawn hello icon add praise sight";
+var mnemonic = "advice scrap type kick expand announce like radar thank rude what slot";

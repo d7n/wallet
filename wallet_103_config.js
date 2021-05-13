@@ -1,1 +1,1 @@
-var mnemonic = "access basket beach tongue network only earth present token receive inhale tongue";
+var mnemonic = "alcohol fork birth farm angle upon east climb hurt cart stool flee";

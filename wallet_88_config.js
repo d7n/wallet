@@ -1,1 +1,1 @@
-var mnemonic = "control hybrid track notice crack easy wise wish family casino real again";
+var mnemonic = "reason mandate quick under phrase game reduce wife web rare hard dwarf";

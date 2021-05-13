@@ -1,1 +1,1 @@
-var mnemonic = "dry helmet sister defense wolf trade deputy guilt cruel outer render farm";
+var mnemonic = "fire fiscal hole purchase pink assume talent hungry clap average swear fault";

@@ -1,1 +1,1 @@
-var mnemonic = "later lock cushion drill resource world atom mother renew pattern mushroom mercy";
+var mnemonic = "road hamster develop art wolf bargain ginger depart focus danger motor regret";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture glory must collect permit vehicle claw pause inner result appear pluck";
+var mnemonic = "more salt kit hazard gather inside blast anxiety math kiwi muffin view";

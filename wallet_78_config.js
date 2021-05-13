@@ -1,1 +1,1 @@
-var mnemonic = "coral notable machine laundry quote vintage ring lucky possible width shrimp exit";
+var mnemonic = "bring differ already around naive chimney cancel east coach best powder tribe";

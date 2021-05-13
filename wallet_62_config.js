@@ -1,1 +1,1 @@
-var mnemonic = "thing leisure jar budget life slow fee stand must switch magnet evil";
+var mnemonic = "afford nose urge stomach eagle acquire chapter clump bid leg fitness vocal";

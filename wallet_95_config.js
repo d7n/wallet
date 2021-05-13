@@ -1,1 +1,1 @@
-var mnemonic = "piece left federal process wheat kit finish demand utility region produce stand";
+var mnemonic = "hood wait acquire people shaft decline parrot burden property tomorrow child salon";

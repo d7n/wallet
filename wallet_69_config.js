@@ -1,1 +1,1 @@
-var mnemonic = "shuffle core sing include mule illness jeans balcony shield simple panic pact";
+var mnemonic = "entry napkin wish talk just idea mouse mass envelope web grow brown";

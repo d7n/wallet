@@ -1,1 +1,1 @@
-var mnemonic = "oxygen script frost doctor patrol lock apple dry rib supply produce typical";
+var mnemonic = "recall scrub indoor lawsuit glass figure mobile shove candy strategy sunset dynamic";

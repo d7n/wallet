@@ -1,1 +1,1 @@
-var mnemonic = "improve define glimpse notable position apology say ghost address rare boss add";
+var mnemonic = "ship oppose wonder address tragic chicken hover lumber expose correct endorse payment";

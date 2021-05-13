@@ -1,1 +1,1 @@
-var mnemonic = "shine upon fame decline glory borrow game battle undo weather offer fragile";
+var mnemonic = "rough surface aspect winner guard doll such breeze clinic happy depart among";

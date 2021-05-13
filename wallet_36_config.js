@@ -1,1 +1,1 @@
-var mnemonic = "crunch seven clown van sugar settle young umbrella seven turkey once eye";
+var mnemonic = "scissors cat jump act capital motion slush pipe tenant uncover final option";

@@ -1,1 +1,1 @@
-var mnemonic = "already screen street news trim venture rail bunker baby usual benefit attack";
+var mnemonic = "depart ranch antique calm mirror morning helmet middle tilt floor improve bone";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar into enact half cruise large monitor drip remember laptop release drip";
+var mnemonic = "sadness wood return energy essay hurt thank jeans dynamic raven rely right";

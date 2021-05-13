@@ -1,1 +1,1 @@
-var mnemonic = "good attack toilet bachelor fit trade swift edit gas index garage farm";
+var mnemonic = "approve hold shed design mountain gym kind rent sponsor lens blanket circle";

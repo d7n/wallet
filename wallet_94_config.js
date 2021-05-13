@@ -1,1 +1,1 @@
-var mnemonic = "timber seven arena display crawl leg twin various blast taste kiwi glow";
+var mnemonic = "member trend very law promote manage oyster anxiety firm hard couch bag";

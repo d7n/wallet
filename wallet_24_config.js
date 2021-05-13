@@ -1,1 +1,1 @@
-var mnemonic = "dry dust auto awful minimum hurt alien club lecture page scheme team";
+var mnemonic = "trade trim stay dose glass there lazy kangaroo awesome man embark visa";

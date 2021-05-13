@@ -1,1 +1,1 @@
-var mnemonic = "proud crawl sting cliff drive desk fox slot ahead actual celery trophy";
+var mnemonic = "couple merry primary castle region unhappy oxygen jump agree cricket cotton panda";

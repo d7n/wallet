@@ -1,1 +1,1 @@
-var mnemonic = "marble roof castle rather guess coach renew stove cereal oyster vital junior";
+var mnemonic = "peasant ocean curious loan tourist warfare drill injury bitter next win horse";

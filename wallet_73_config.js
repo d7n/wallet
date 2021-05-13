@@ -1,1 +1,1 @@
-var mnemonic = "fruit hole soon fiction ozone slide define fee edge link balcony possible";
+var mnemonic = "mule plastic what point until sister truck negative car find salt fabric";
