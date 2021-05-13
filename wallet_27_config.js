@@ -1,1 +1,1 @@
-var mnemonic = "bamboo mandate riot rapid album donor pair powder dizzy moment benefit old";
+var mnemonic = "valley spell donate image pretty snap render thought exotic tackle spray copy";

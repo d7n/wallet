@@ -1,1 +1,1 @@
-var mnemonic = "appear mass hurt kitten rice clay rally north clever drift soup black";
+var mnemonic = "treat shield rely hero wood ocean nominee year note scrub civil mistake";

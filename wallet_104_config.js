@@ -1,1 +1,1 @@
-var mnemonic = "wild involve year liberty length swim minute frown hockey enough arch scatter";
+var mnemonic = "monster insect flag fee witness attitude gap inquiry train section nice regret";

@@ -1,1 +1,1 @@
-var mnemonic = "miss grab book enter sound shine heart wave foot volume sugar glance";
+var mnemonic = "make gas pretty describe already sunset lumber puzzle raise lounge rain ring";

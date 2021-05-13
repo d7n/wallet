@@ -1,1 +1,1 @@
-var mnemonic = "rare concert tail bean sample major they web betray early shock heavy";
+var mnemonic = "vocal saddle zone orange sure clean cloth sister coral decade inspire first";

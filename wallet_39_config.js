@@ -1,1 +1,1 @@
-var mnemonic = "toilet pill soldier hurry attack crucial pizza orient brief example public wish";
+var mnemonic = "face this yard enroll foot tone canoe climb device steel dress never";

@@ -1,1 +1,1 @@
-var mnemonic = "earth supreme version rebel capital tell upgrade night table spice such inch";
+var mnemonic = "vintage trend target trip clump home mosquito shoulder eager rib burst emotion";

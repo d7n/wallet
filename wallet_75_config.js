@@ -1,1 +1,1 @@
-var mnemonic = "smart physical guard income flame bean grape junk poem rib swap endless";
+var mnemonic = "until cook vague treat attitude base dynamic cram banner clinic method text";

@@ -1,1 +1,1 @@
-var mnemonic = "agent father van hidden baby broken pretty couch aim artwork tip purity";
+var mnemonic = "moon movie wolf abandon magnet slide clock frequent system fault acoustic opera";

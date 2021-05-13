@@ -1,1 +1,1 @@
-var mnemonic = "drift admit banana lawn output canvas noble taste mail wall exercise amateur";
+var mnemonic = "laptop figure december lawsuit spirit kitchen giraffe avocado above cram piece hard";

@@ -1,1 +1,1 @@
-var mnemonic = "capable media debate kind assume logic help rain seek deal winter rapid";
+var mnemonic = "fragile lens roof bag reject ethics popular chuckle emotion height together exile";

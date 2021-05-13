@@ -1,1 +1,1 @@
-var mnemonic = "divide prize slim man tape picture require sure sea common caution scare";
+var mnemonic = "borrow stick genre version before hawk opinion enable over gentle axis volume";

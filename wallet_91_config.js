@@ -1,1 +1,1 @@
-var mnemonic = "spoil rotate stove bless include total soft churn boss proud baby flee";
+var mnemonic = "praise dizzy seat blanket turkey spike ahead occur entry release faculty present";

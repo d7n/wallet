@@ -1,1 +1,1 @@
-var mnemonic = "few lake cycle stamp upset height require better video erode canoe benefit";
+var mnemonic = "doctor piano rail erode sport arch wet cup forest rhythm used seed";

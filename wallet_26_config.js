@@ -1,1 +1,1 @@
-var mnemonic = "master cup survey hidden door return artwork hedgehog base art food attend";
+var mnemonic = "abuse dinner funny target minimum silent hole aisle exotic paper level act";

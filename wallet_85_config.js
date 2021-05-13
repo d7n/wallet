@@ -1,1 +1,1 @@
-var mnemonic = "diesel prize knock goose gun ramp tank library suit used spatial service";
+var mnemonic = "onion media strategy prepare develop nest battle absorb wool put sight lab";

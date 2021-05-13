@@ -1,1 +1,1 @@
-var mnemonic = "bamboo enable reopen abuse exact enact cactus child chicken stick rice hill";
+var mnemonic = "evoke spot spatial fit only dance ketchup wolf trend guilt crazy agree";

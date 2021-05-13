@@ -1,1 +1,1 @@
-var mnemonic = "climb plastic memory income nominee embark theme pave december another talent tornado";
+var mnemonic = "federal usual grunt submit join ankle saddle walk under face lunch six";

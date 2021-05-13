@@ -1,1 +1,1 @@
-var mnemonic = "tattoo odor charge daring original lamp this screen risk globe now endorse";
+var mnemonic = "innocent piano dose animal they brother canal next fiction guard marriage uphold";

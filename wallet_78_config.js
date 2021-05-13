@@ -1,1 +1,1 @@
-var mnemonic = "steak mansion bird cliff produce matter opinion squirrel above reason furnace grocery";
+var mnemonic = "casino core regret repeat stereo circle elbow primary reform online mom filter";

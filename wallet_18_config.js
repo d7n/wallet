@@ -1,1 +1,1 @@
-var mnemonic = "drop soul rich aunt math solar capital motor example over mountain fossil";
+var mnemonic = "april cactus excess enough harsh antique muscle naive people guitar stairs region";

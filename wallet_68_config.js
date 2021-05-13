@@ -1,1 +1,1 @@
-var mnemonic = "ten title pizza drastic congress dog document guilt just drink genre captain";
+var mnemonic = "diet industry dwarf demise focus smile text asset coyote share flame appear";

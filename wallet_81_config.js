@@ -1,1 +1,1 @@
-var mnemonic = "fatigue grant spell warrior lawsuit inspire blossom tourist chair toast bridge bracket";
+var mnemonic = "side saddle plunge whip foot yard labor step wine hamster insane anxiety";

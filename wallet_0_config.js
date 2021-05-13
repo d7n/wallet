@@ -1,1 +1,1 @@
-var mnemonic = "cram inch vintage field scan arm debate armor hover refuse glare energy";
+var mnemonic = "cattle jealous snap neither matrix tiger satisfy raise soda giant rhythm melody";

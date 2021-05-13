@@ -1,1 +1,1 @@
-var mnemonic = "public few shed razor aim learn verify cushion alien spawn winner boring";
+var mnemonic = "fabric ocean acoustic chimney permit liberty pen later mammal soap else utility";

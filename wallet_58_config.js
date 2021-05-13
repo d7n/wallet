@@ -1,1 +1,1 @@
-var mnemonic = "author century tourist advance sample chaos degree olympic shaft staff drama feature";
+var mnemonic = "title sting street fly manual observe unfair loop super power output stove";

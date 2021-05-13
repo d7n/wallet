@@ -1,1 +1,1 @@
-var mnemonic = "right coach gown vivid soft embark dove churn eight carbon secret volume";
+var mnemonic = "victory pet assist bind skirt web chaos crunch forward donate citizen thought";

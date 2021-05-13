@@ -1,1 +1,1 @@
-var mnemonic = "dinner nose express eternal legal license dignity wage lyrics surprise ghost siren";
+var mnemonic = "shed infant twenty giant delay pact issue message loop polar neutral verify";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern photo warrior scan run churn term dumb negative unfold south vicious";
+var mnemonic = "syrup youth idea dinner crime pudding hobby mixed battle vacuum motor cloud";

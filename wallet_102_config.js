@@ -1,1 +1,1 @@
-var mnemonic = "velvet knife save endorse modify fury educate wise mask elder voyage brisk";
+var mnemonic = "favorite parrot pattern glance swarm giggle select monitor sibling gate chalk canvas";

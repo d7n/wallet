@@ -1,1 +1,1 @@
-var mnemonic = "time earth measure unfair frame client forward flat rate agent heart mutual";
+var mnemonic = "myself marriage elder climb own scene ankle exchange comfort task nuclear fatal";

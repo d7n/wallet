@@ -1,1 +1,1 @@
-var mnemonic = "problem leg south buzz inspire boy prefer turtle ask warfare cycle display";
+var mnemonic = "oil coconut good remind gentle syrup oppose toast survey test elbow rubber";

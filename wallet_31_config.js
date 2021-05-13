@@ -1,1 +1,1 @@
-var mnemonic = "dream omit spin meadow lamp place effort sorry cycle furnace describe humor";
+var mnemonic = "life poet inch sphere science desert first name have napkin bicycle dog";

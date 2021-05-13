@@ -1,1 +1,1 @@
-var mnemonic = "extra join emerge during hammer foil robust brush balance search where napkin";
+var mnemonic = "enhance rule decade common truth clip harsh mansion carpet sniff memory nothing";

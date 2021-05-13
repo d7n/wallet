@@ -1,1 +1,1 @@
-var mnemonic = "century crisp cabbage awkward inhale invite game shuffle same timber insect spend";
+var mnemonic = "provide soda sting tuition poet domain fiscal wash absent into barely curtain";

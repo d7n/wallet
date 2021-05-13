@@ -1,1 +1,1 @@
-var mnemonic = "afford rack deputy sentence state bachelor click prevent draft coyote range diet";
+var mnemonic = "cradle ranch coin prefer bunker human position injury tomorrow toilet surface select";

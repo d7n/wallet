@@ -1,1 +1,1 @@
-var mnemonic = "climb install face milk judge left leader flag success pistol music rookie";
+var mnemonic = "guard payment clay fire awful safe intact visa drip base dust income";

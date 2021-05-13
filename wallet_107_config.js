@@ -1,1 +1,1 @@
-var mnemonic = "inch degree people pistol crunch hub dirt trophy private toy fatal swallow";
+var mnemonic = "visit gravity remind ranch steel plug gorilla license vicious crush kick pottery";

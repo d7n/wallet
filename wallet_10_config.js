@@ -1,1 +1,1 @@
-var mnemonic = "tortoise feel rapid usage anger install return meadow seven hood visa oyster";
+var mnemonic = "use drop glare pipe what seek drum capital table math coast mother";

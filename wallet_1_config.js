@@ -1,1 +1,1 @@
-var mnemonic = "subway pelican oil supply holiday cave ahead pet legend index coast guess";
+var mnemonic = "ritual tiger stock wear idle aspect social tape length urban gate fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "save kingdom slot hybrid release desert address trade mammal inflict expose world";
+var mnemonic = "dish act this update distance supply cube icon board dance symbol upset";

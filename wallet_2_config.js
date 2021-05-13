@@ -1,1 +1,1 @@
-var mnemonic = "curious tackle phone crowd right shoe offer echo divide much smoke abandon";
+var mnemonic = "day recipe ozone wheat subway dilemma unveil robot suit dress cup approve";

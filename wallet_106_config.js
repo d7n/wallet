@@ -1,1 +1,1 @@
-var mnemonic = "mother slush rain two reward antique peanut fox suit umbrella find creek";
+var mnemonic = "choice wire walnut another drum rally art peasant lunar icon lazy person";

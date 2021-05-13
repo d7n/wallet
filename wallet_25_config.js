@@ -1,1 +1,1 @@
-var mnemonic = "liquid lamp arrive east course train bag visit bonus extend ceiling field";
+var mnemonic = "ball ticket enact food sail auto tomorrow common under body dinosaur awkward";

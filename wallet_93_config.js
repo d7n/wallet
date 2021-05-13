@@ -1,1 +1,1 @@
-var mnemonic = "then march move divorce clutch thought gesture this diesel okay forget peanut";
+var mnemonic = "aerobic device over gap suggest inspire electric horse office penalty runway opera";

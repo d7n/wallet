@@ -1,1 +1,1 @@
-var mnemonic = "jaguar process museum resist river victory eternal lawsuit agree where anchor lift";
+var mnemonic = "mystery remain crouch steak film erosion hour reform divert possible ostrich brave";

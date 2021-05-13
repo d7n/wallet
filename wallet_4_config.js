@@ -1,1 +1,1 @@
-var mnemonic = "flat hazard time beauty nose cloth sound earn verify bulk album penalty";
+var mnemonic = "pipe cupboard gift minimum thought anchor float client foot current magnet bean";

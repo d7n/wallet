@@ -1,1 +1,1 @@
-var mnemonic = "lottery clap push gate pistol soft orchard style inhale menu hero sniff";
+var mnemonic = "habit access capable film crowd perfect try spider lazy castle maid side";

@@ -1,1 +1,1 @@
-var mnemonic = "race thing fresh sock space enact hurry cloth banana topple fruit hospital";
+var mnemonic = "valid mix board wink blade stock debris scorpion leopard amount spot advice";

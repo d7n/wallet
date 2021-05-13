@@ -1,1 +1,1 @@
-var mnemonic = "topple nothing spoon father gallery evoke dose husband index awesome valley lawn";
+var mnemonic = "medal obey planet paddle equal merge extend breeze birth width random expose";

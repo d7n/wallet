@@ -1,1 +1,1 @@
-var mnemonic = "brush champion there demand maze once spray allow barrel giant magnet permit";
+var mnemonic = "skate float hedgehog mountain basket claw kangaroo obscure ugly basic example punch";

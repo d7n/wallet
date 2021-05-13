@@ -1,1 +1,1 @@
-var mnemonic = "pilot resource junk tornado engage voice insect pull cupboard sibling oak satoshi";
+var mnemonic = "arctic scare dwarf oil art master alien volume rhythm inflict curious link";

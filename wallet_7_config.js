@@ -1,1 +1,1 @@
-var mnemonic = "inquiry arena found junk urge add elegant inject dismiss hair arm loan";
+var mnemonic = "lava kidney answer spy man vendor stumble sing toast fluid ice chimney";

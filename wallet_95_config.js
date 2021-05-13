@@ -1,1 +1,1 @@
-var mnemonic = "enable perfect avoid group gentle vast flee typical tortoise welcome hill supreme";
+var mnemonic = "lunar peasant camera middle economy fan flag flush stuff junior round gown";

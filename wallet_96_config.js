@@ -1,1 +1,1 @@
-var mnemonic = "work basket time melody special soft exhaust seek sphere symbol chase glare";
+var mnemonic = "raven super divide improve record cause tuna future net midnight boat blade";

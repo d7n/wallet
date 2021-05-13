@@ -1,1 +1,1 @@
-var mnemonic = "hand struggle analyst soon injury chat home torch vanish float actress member";
+var mnemonic = "fog panel battle shine dove yellow step choose language case steak valley";

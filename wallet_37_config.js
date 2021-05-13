@@ -1,1 +1,1 @@
-var mnemonic = "thrive true universe various helmet lady snack elevator winner food remain fatigue";
+var mnemonic = "useless news pioneer fall sea brand purse head effort ugly legal cherry";

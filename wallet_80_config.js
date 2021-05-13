@@ -1,1 +1,1 @@
-var mnemonic = "law bulk fox else life essence sting clock vast impact zero cost";
+var mnemonic = "fish clinic paddle indoor bunker eager clown there laptop equal measure common";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm lava sausage business labor vessel soon retreat recycle sort gas find";
+var mnemonic = "enrich assault toddler truck blast craft reform soft dynamic wire either dress";

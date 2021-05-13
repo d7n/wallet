@@ -1,1 +1,1 @@
-var mnemonic = "hawk saddle toast host buffalo gauge element nice daughter erupt belt deputy";
+var mnemonic = "chair sudden slogan excess hair you teach section stool year garlic escape";

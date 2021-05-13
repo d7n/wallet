@@ -1,1 +1,1 @@
-var mnemonic = "country polar faith senior wash sustain name believe peace champion recipe ten";
+var mnemonic = "celery panic below coach blouse leaf south solid misery around woman universe";

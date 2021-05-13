@@ -1,1 +1,1 @@
-var mnemonic = "chef section surface marine tonight ask drop talk nominee surprise joke enable";
+var mnemonic = "pepper wet acid bitter bounce emotion grit cannon miss celery purpose gold";

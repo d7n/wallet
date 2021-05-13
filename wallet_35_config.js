@@ -1,1 +1,1 @@
-var mnemonic = "arrive oak smile abandon easily project tuna hold suspect success gift easily";
+var mnemonic = "capital tiny sort rubber budget flush apology relax innocent enjoy envelope cigar";

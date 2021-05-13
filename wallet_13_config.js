@@ -1,1 +1,1 @@
-var mnemonic = "worry claim pepper hint eye table record crumble inform hedgehog effort draw";
+var mnemonic = "client spare resource system tomorrow armed cherry embrace castle match fly innocent";

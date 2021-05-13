@@ -1,1 +1,1 @@
-var mnemonic = "bid tell cave miss science business rare wall option leopard swim clean";
+var mnemonic = "pyramid song ship lyrics confirm drip holiday sense bottom typical flight life";

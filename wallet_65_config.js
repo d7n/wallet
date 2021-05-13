@@ -1,1 +1,1 @@
-var mnemonic = "initial utility minimum dance aware derive mobile taste magnet rough own wisdom";
+var mnemonic = "valley coin time lava hedgehog elegant lava melt imitate social cheese garage";

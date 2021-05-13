@@ -1,1 +1,1 @@
-var mnemonic = "dial among bring flat velvet glimpse nuclear swamp result laundry bargain over";
+var mnemonic = "eagle gap fury fragile gift object amount link notable hollow nation olive";

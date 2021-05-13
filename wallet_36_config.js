@@ -1,1 +1,1 @@
-var mnemonic = "fabric scrub dune scissors wish pulse guide nation cook video tooth limb";
+var mnemonic = "suffer ripple tree pitch oppose unlock armed solution cousin machine illness guitar";

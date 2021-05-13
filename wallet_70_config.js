@@ -1,1 +1,1 @@
-var mnemonic = "noble road ring uncover around idle rocket mixed bachelor uncover water alien";
+var mnemonic = "scale another jungle oppose income depth gun term era wool since fantasy";

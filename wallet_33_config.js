@@ -1,1 +1,1 @@
-var mnemonic = "select evidence casino keep recipe object buffalo middle scatter junk worry conduct";
+var mnemonic = "bone certain job nuclear length kiwi text say recycle host attract race";

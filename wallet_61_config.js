@@ -1,1 +1,1 @@
-var mnemonic = "nose ice roast cage congress degree session favorite diary repeat tank voyage";
+var mnemonic = "connect tennis athlete only tip laundry flame panel wood opinion hammer under";

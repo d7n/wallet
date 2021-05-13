@@ -1,1 +1,1 @@
-var mnemonic = "category silk hint skill eagle strong rose behave film rabbit cereal evidence";
+var mnemonic = "inform sound expect proud oil clinic quantum powder shift ketchup cushion square";

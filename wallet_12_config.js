@@ -1,1 +1,1 @@
-var mnemonic = "excess cage garment nut sudden amount tortoise kick portion leg soft assume";
+var mnemonic = "bench essay income amount rare shed lunch laptop exclude illegal garlic glory";

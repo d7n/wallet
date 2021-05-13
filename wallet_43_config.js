@@ -1,1 +1,1 @@
-var mnemonic = "fresh market flee damp loan subject slam fiscal average ankle pelican cart";
+var mnemonic = "noble turtle flight interest ranch draw century weekend flash warfare wedding false";

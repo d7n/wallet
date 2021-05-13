@@ -1,1 +1,1 @@
-var mnemonic = "defense egg regular fossil fury deputy undo cash habit jump dress weird";
+var mnemonic = "hospital supreme crush punch carry allow decide enjoy thunder ready photo derive";

@@ -1,1 +1,1 @@
-var mnemonic = "absent struggle grid derive excess choose fun relief tide scare empower inside";
+var mnemonic = "wild swap achieve oval health marriage rail impose admit list wasp frozen";

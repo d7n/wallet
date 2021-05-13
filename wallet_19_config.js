@@ -1,1 +1,1 @@
-var mnemonic = "smart light add filter indoor perfect blast office swarm squeeze nasty tonight";
+var mnemonic = "unknown question welcome mix body horror history myself scare final mimic prosper";

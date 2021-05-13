@@ -1,1 +1,1 @@
-var mnemonic = "chair body box hood wild critic awful pass tent enemy broom mirror";
+var mnemonic = "extend guilt math image radio coast random tortoise peasant labor fix glide";

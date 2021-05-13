@@ -1,1 +1,1 @@
-var mnemonic = "gun tomorrow type food carry grow deputy stable luxury wave myself screen";
+var mnemonic = "scrub miss lumber good seed achieve original age hub face hurry bar";

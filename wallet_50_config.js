@@ -1,1 +1,1 @@
-var mnemonic = "damp able wasp ranch tribe senior tired advance buyer trap genre artwork";
+var mnemonic = "fun fat abandon biology rude bean bread wonder dice fault deal call";

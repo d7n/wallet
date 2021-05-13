@@ -1,1 +1,1 @@
-var mnemonic = "glimpse general awful shy photo bulb fluid action cream limb ride battle";
+var mnemonic = "taxi angry differ jump man hotel deer charge wrong muscle possible blood";

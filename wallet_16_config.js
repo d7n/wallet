@@ -1,1 +1,1 @@
-var mnemonic = "payment sand inner network term despair deliver lawsuit onion ring december soul";
+var mnemonic = "carpet shoulder script ecology fiction lumber miss aisle dilemma genius vehicle allow";

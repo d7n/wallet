@@ -1,1 +1,1 @@
-var mnemonic = "surge resist have heart section bundle palm vote intact elephant tell laptop";
+var mnemonic = "affair betray uphold dentist spice accident mixture tower primary oven vote doctor";

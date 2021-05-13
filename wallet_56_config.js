@@ -1,1 +1,1 @@
-var mnemonic = "margin tribe expose school large enemy core table cycle regular lion water";
+var mnemonic = "ten shallow burger antique blue fade exchange wage direct hungry peasant exile";

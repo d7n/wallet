@@ -1,1 +1,1 @@
-var mnemonic = "duty mail neutral nose athlete combine casino trade kingdom tomorrow menu choose";
+var mnemonic = "receive fork explain clown upset myself mutual stomach east tuna tuition noise";

@@ -1,1 +1,1 @@
-var mnemonic = "time magic uncover assist protect eyebrow latin farm cement usage timber boost";
+var mnemonic = "vanish keen cram unknown silver train erupt crunch promote ignore interest absorb";

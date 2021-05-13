@@ -1,1 +1,1 @@
-var mnemonic = "predict indicate search maze mother castle become lawsuit tent age wasp little";
+var mnemonic = "dress remember pelican analyst hour square cherry visit kidney risk van address";

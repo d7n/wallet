@@ -1,1 +1,1 @@
-var mnemonic = "rally dinner popular art shop fox minor brick quarter stamp slow spike";
+var mnemonic = "universe wash ostrich habit swift sentence gaze anger attract client blossom phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "drill tone spin hollow garden wage robust notable mystery range filter column";
+var mnemonic = "fan stay peanut fancy can patch camera ozone trick globe fun defense";

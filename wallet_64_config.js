@@ -1,1 +1,1 @@
-var mnemonic = "rude used error candy fabric soda another inmate thrive index friend science";
+var mnemonic = "guilt analyst network once december cherry fan coconut destroy diary bounce process";

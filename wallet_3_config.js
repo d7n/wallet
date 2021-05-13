@@ -1,1 +1,1 @@
-var mnemonic = "please stone rich champion regret giggle gentle autumn behind certain harbor tooth";
+var mnemonic = "grow crowd grass bright warrior circle icon client false assume erupt coil";

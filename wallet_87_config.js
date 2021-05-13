@@ -1,1 +1,1 @@
-var mnemonic = "auto hire medal reward coin vendor tissue cube call festival patrol health";
+var mnemonic = "load gather wealth voice tomorrow member similar badge blush champion candy silver";

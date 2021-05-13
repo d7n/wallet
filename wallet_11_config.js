@@ -1,1 +1,1 @@
-var mnemonic = "shoulder attitude beef spin frost drive fault ivory any input dog double";
+var mnemonic = "upset crumble pipe autumn vacant faith coral hover catalog match service dismiss";
