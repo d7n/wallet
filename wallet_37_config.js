@@ -1,1 +1,1 @@
-var mnemonic = "bind inform protect history worth immense require plate warrior ensure hat pink";
+var mnemonic = "jungle humble whip stem very notable give rude afford brief wage amateur";

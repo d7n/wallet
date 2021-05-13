@@ -1,1 +1,1 @@
-var mnemonic = "stool armed nice flash jacket wreck bullet humble they cat lawsuit pudding";
+var mnemonic = "illegal recall sense slight caution pencil tape concert cluster chicken neither pool";

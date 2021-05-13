@@ -1,1 +1,1 @@
-var mnemonic = "unique icon satisfy artefact keen naive fence bicycle faith goose jump ignore";
+var mnemonic = "viable want foot again inhale abandon pistol tunnel quantum cinnamon invest food";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit stadium carpet portion soon foot session tower plug purity dash time";
+var mnemonic = "blanket shed indoor stuff kangaroo okay settle bread general brown diary weather";

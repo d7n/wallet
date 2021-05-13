@@ -1,1 +1,1 @@
-var mnemonic = "spawn stand favorite build fresh shadow food surround total neck balcony useless";
+var mnemonic = "dragon actor monster brisk crouch village reopen clean abandon shield dust rubber";

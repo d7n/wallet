@@ -1,1 +1,1 @@
-var mnemonic = "off range hawk stove gospel win belt hero subject ribbon one glove";
+var mnemonic = "behind mirror someone program trap gloom hard country problem useless broken music";

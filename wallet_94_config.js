@@ -1,1 +1,1 @@
-var mnemonic = "rotate unable fantasy upon excuse helmet acid wreck enrich antenna car bargain";
+var mnemonic = "man neutral usual remain monkey flower limb member crazy repeat inquiry axis";

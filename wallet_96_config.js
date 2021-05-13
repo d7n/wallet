@@ -1,1 +1,1 @@
-var mnemonic = "arm brown canvas organ slogan concert alone speak relax police blanket bright";
+var mnemonic = "rocket flush clay wolf render dad spring fog poem warm flash elite";

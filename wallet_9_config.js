@@ -1,1 +1,1 @@
-var mnemonic = "evil ranch collect spin three front arena short hope boring priority monster";
+var mnemonic = "toward funny nerve throw evolve discover avocado fringe weather movie reject cat";

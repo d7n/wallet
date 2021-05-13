@@ -1,1 +1,1 @@
-var mnemonic = "decorate soldier speed warm letter dragon huge guess rich scrap nerve defy";
+var mnemonic = "delay region way deliver hero business arctic grocery glass trumpet bamboo cushion";

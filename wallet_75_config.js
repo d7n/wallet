@@ -1,1 +1,1 @@
-var mnemonic = "patient illness turkey educate income lyrics program size fee share joy vibrant";
+var mnemonic = "dad nominee verify message teach destroy pulse cliff dwarf wave legend roast";

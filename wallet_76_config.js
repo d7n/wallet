@@ -1,1 +1,1 @@
-var mnemonic = "humor worry bamboo more dinosaur armed park carbon blouse unfair glance talent";
+var mnemonic = "lady renew prosper axis camp canal poet visa fine sleep favorite addict";

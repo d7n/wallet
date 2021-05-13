@@ -1,1 +1,1 @@
-var mnemonic = "art lottery hold minute basket wage return purse olympic lawn ramp biology";
+var mnemonic = "treat this hold latin blind uniform economy mimic bread lunar can special";

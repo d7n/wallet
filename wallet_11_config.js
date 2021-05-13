@@ -1,1 +1,1 @@
-var mnemonic = "truck someone satisfy ready easy long height online drift bridge harsh sleep";
+var mnemonic = "cement model off table episode shop gadget lunar eager region moment industry";

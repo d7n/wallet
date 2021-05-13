@@ -1,1 +1,1 @@
-var mnemonic = "direct globe worry miracle never labor panic assume equip tomorrow essay memory";
+var mnemonic = "relax coral vote legend friend churn rebuild urge split absent sun legal";

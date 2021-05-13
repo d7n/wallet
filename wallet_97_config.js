@@ -1,1 +1,1 @@
-var mnemonic = "eternal sphere slot surprise cruel file weasel furnace drastic tired meadow vacant";
+var mnemonic = "exchange regret unfair plunge thought chronic moral ticket derive alarm job service";

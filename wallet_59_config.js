@@ -1,1 +1,1 @@
-var mnemonic = "test cement basic achieve forward cram pluck lawn flight rare cover decade";
+var mnemonic = "express tattoo connect gold annual inject sorry web absent famous you father";

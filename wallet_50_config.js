@@ -1,1 +1,1 @@
-var mnemonic = "carbon unhappy lava cousin twist say blouse auction shine frozen lock gloom";
+var mnemonic = "husband legal aisle once monitor bag crumble window current inherit wall involve";

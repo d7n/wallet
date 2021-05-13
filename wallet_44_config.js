@@ -1,1 +1,1 @@
-var mnemonic = "extend accuse balcony moon success night liquid harvest gate word mom edit";
+var mnemonic = "endorse safe expand reduce confirm magnet setup term arctic talk second umbrella";

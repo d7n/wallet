@@ -1,1 +1,1 @@
-var mnemonic = "exchange craft loop jungle pelican solve kick seek twin shine hedgehog garbage";
+var mnemonic = "culture medal original maid swift saddle impose anxiety call coin awkward horse";

@@ -1,1 +1,1 @@
-var mnemonic = "earth lunch daughter choose stamp menu soup lock fresh humor pupil misery";
+var mnemonic = "grit much suggest improve true coast wealth swap case lemon hour valley";

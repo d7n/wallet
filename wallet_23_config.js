@@ -1,1 +1,1 @@
-var mnemonic = "enjoy welcome frown stable special cable common always remember summer peasant panda";
+var mnemonic = "zero butter level zebra adapt cherry together dial decline chase outer wet";

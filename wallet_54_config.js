@@ -1,1 +1,1 @@
-var mnemonic = "join expand jealous call source cattle level shoulder silly tide woman fitness";
+var mnemonic = "estate travel shove they melody bomb feel total object electric senior bring";

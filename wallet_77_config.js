@@ -1,1 +1,1 @@
-var mnemonic = "diagram dust pyramid vocal spare example month base spell puppy trip candy";
+var mnemonic = "broken various attack payment hole bacon label ensure practice broken alien gym";

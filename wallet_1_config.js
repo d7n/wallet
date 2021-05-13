@@ -1,1 +1,1 @@
-var mnemonic = "crowd leave advance sure kangaroo audit jelly broken space recycle begin permit";
+var mnemonic = "wedding bullet skate truth knock squirrel wet lemon satoshi kingdom system distance";

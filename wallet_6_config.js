@@ -1,1 +1,1 @@
-var mnemonic = "fatigue bicycle sing pelican catch used pumpkin rug intact typical trap detect";
+var mnemonic = "meat bachelor announce year burden gate liar urban tag fiber zone whip";

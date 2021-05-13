@@ -1,1 +1,1 @@
-var mnemonic = "theory eternal gain shove ladder genuine hover cram health accuse mountain fatigue";
+var mnemonic = "shop nominee cruel census visa worry spend final horn sweet burst mango";

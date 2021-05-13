@@ -1,1 +1,1 @@
-var mnemonic = "riot ask oven zone tuition renew stage reunion spawn fade virtual foot";
+var mnemonic = "increase embrace uncover cricket resource upon tower advice deliver theory federal bone";

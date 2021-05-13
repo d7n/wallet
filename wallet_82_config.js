@@ -1,1 +1,1 @@
-var mnemonic = "ensure mask remain dance jazz nerve raw quit cloud unhappy ozone fish";
+var mnemonic = "balcony visa struggle cry snap keen people split fun exclude share brand";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild honey fossil disorder empty scrap brass knee screen seed dragon edge";
+var mnemonic = "into sick venture prize project dish expire trash draw deal that tackle";

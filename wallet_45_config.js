@@ -1,1 +1,1 @@
-var mnemonic = "surround outer tuition put drift latin skin quiz duck suit disagree enact";
+var mnemonic = "dish truly learn tragic crunch humor fashion juice guard elegant globe fury";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics rule path sunset gate easily spirit news match dentist believe clap";
+var mnemonic = "unfold famous roof blast column raven marriage guess any gate symptom traffic";

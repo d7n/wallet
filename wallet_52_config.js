@@ -1,1 +1,1 @@
-var mnemonic = "unit bag vault drip pitch sing fragile absorb unique arrive physical fitness";
+var mnemonic = "include pole bottom harsh neglect fly settle goat insect spell use collect";

@@ -1,1 +1,1 @@
-var mnemonic = "polar pepper limb peace uncover monster purchase arrange super lesson walk basic";
+var mnemonic = "amount rally excuse prison track flock turkey olympic fury february upon solar";

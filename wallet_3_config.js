@@ -1,1 +1,1 @@
-var mnemonic = "romance pyramid ozone juice year rookie antenna blur crack mask kit next";
+var mnemonic = "example voyage capable regret history inject bar cash pulse profit blur confirm";

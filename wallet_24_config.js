@@ -1,1 +1,1 @@
-var mnemonic = "network attend sentence acoustic ticket announce summer have trade oval million predict";
+var mnemonic = "person direct regret vocal furnace squirrel process honey plastic autumn truth transfer";

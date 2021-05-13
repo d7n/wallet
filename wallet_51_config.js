@@ -1,1 +1,1 @@
-var mnemonic = "supply angle employ timber essay inform wagon advance joke cat potato kit";
+var mnemonic = "pear enroll zone later congress doctor grow pumpkin blast pelican quit charge";

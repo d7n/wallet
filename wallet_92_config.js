@@ -1,1 +1,1 @@
-var mnemonic = "merry minor rapid foster there embody sponsor myself pass depend dose midnight";
+var mnemonic = "embody twin bronze program vocal armed lounge noble hurry flag tattoo ring";

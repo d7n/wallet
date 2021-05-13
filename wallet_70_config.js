@@ -1,1 +1,1 @@
-var mnemonic = "label push exact garbage dizzy crash enjoy light frozen budget intact already";
+var mnemonic = "warm allow amount country afraid column pizza cluster wink spice normal alcohol";

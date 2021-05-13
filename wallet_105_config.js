@@ -1,1 +1,1 @@
-var mnemonic = "glove uniform grape veteran couch polar fly illness memory december sketch sound";
+var mnemonic = "dawn choose winner pudding culture zero window cousin utility balance hawk merge";

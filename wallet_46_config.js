@@ -1,1 +1,1 @@
-var mnemonic = "traffic lift brick hungry clay dinner buyer daring truck shed clinic chalk";
+var mnemonic = "false oxygen curious final angle fury daughter river input they zebra bacon";

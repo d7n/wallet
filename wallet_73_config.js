@@ -1,1 +1,1 @@
-var mnemonic = "hamster spawn balance about divide trouble talent swim reunion enlist business repeat";
+var mnemonic = "junk add copy grass future suffer priority crash whip west lift cabin";

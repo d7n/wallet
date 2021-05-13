@@ -1,1 +1,1 @@
-var mnemonic = "detail hello copper village wine minute sign object tuna trigger sing arm";
+var mnemonic = "seek aerobic total cherry satisfy wheat grass squirrel angle lunar window mimic";

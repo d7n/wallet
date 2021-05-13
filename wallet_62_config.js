@@ -1,1 +1,1 @@
-var mnemonic = "depart figure search another jewel popular plug assume roast scheme planet hat";
+var mnemonic = "jewel common poverty two cash race prosper vendor fox valley this lady";

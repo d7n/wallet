@@ -1,1 +1,1 @@
-var mnemonic = "differ cushion trumpet receive immune era zebra cross daughter network slab clutch";
+var mnemonic = "youth news actual rebel labor hair silly between alarm decrease rebel drill";

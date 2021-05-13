@@ -1,1 +1,1 @@
-var mnemonic = "until laugh swear crouch hurdle steak spirit today tiger tomorrow between another";
+var mnemonic = "wear traffic next ring depth lock entire rocket destroy scene brick child";

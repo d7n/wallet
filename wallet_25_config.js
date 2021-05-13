@@ -1,1 +1,1 @@
-var mnemonic = "fiscal elegant salad slice enemy clever account cry body swamp virus dolphin";
+var mnemonic = "sweet vibrant auction slide priority stage abstract canvas dog elbow valve palace";

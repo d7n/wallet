@@ -1,1 +1,1 @@
-var mnemonic = "spoon bone only awesome lady hurt will enemy fit world lava repair";
+var mnemonic = "cereal cloud slot shock invite garment umbrella all stuff spin humor object";

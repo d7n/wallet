@@ -1,1 +1,1 @@
-var mnemonic = "rent ski present farm umbrella unusual cash this fold receive aim slow";
+var mnemonic = "infant more faint upset biology crush cry guitar melody day minute long";

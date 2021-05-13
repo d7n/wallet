@@ -1,1 +1,1 @@
-var mnemonic = "jacket month hill pumpkin wealth column number board woman wash island live";
+var mnemonic = "pool judge security isolate carry basic improve erode alpha unfold swallow news";

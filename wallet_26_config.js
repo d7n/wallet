@@ -1,1 +1,1 @@
-var mnemonic = "garment pitch involve matrix steak image warm ask produce index venue vicious";
+var mnemonic = "hurdle scrap mask orange midnight coach great help film human pilot reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain enter master then enforce donate result pelican aspect alert nation quote";
+var mnemonic = "bike finger axis ecology leopard scrap shop must vendor bubble peasant federal";

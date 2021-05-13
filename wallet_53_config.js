@@ -1,1 +1,1 @@
-var mnemonic = "slow inject seed bone pepper thing pet exit shy door twice like";
+var mnemonic = "wool poem project lyrics face possible wink bar excuse another slide digital";

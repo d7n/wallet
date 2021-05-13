@@ -1,1 +1,1 @@
-var mnemonic = "slam student sweet label just forum exit primary robot possible offer hamster";
+var mnemonic = "soda tip very achieve surprise swarm tuition word weekend inch razor few";

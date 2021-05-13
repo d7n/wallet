@@ -1,1 +1,1 @@
-var mnemonic = "three rate detail stick cage legal exotic unaware climb virtual subject tribe";
+var mnemonic = "pumpkin decline fit asthma harvest pet clump airport coconut forum acquire picnic";

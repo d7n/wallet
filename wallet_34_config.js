@@ -1,1 +1,1 @@
-var mnemonic = "list lunar vicious august table gasp true table tunnel opera play voyage";
+var mnemonic = "second fiscal wine marriage usual custom review athlete explain erode sell toss";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely gadget circle apple initial way time civil label breeze curve immense";
+var mnemonic = "butter turtle urge system miracle van excess quiz bone unfold awake brass";

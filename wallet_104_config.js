@@ -1,1 +1,1 @@
-var mnemonic = "photo struggle faculty fit vast industry subject play tongue eagle flag clip";
+var mnemonic = "affair hidden unhappy earth planet coil arch give endless capable machine zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "subway perfect antenna note merge grid draft tag beef cabbage rare novel";
+var mnemonic = "unfair twenty agent ship dolphin fresh view select naive ahead quote hat";

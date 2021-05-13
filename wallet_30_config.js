@@ -1,1 +1,1 @@
-var mnemonic = "coconut indoor marine high syrup sign assist pet surround engine teach mixed";
+var mnemonic = "appear final select empower chicken napkin spin shop work bench garage document";

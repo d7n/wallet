@@ -1,1 +1,1 @@
-var mnemonic = "chef tourist talk buddy senior wrong clock also visa episode lazy diesel";
+var mnemonic = "already bicycle inquiry boost march pilot can another hedgehog dawn moon woman";

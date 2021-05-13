@@ -1,1 +1,1 @@
-var mnemonic = "exhaust mercy dream sentence increase timber soft zebra enroll vacant beyond myth";
+var mnemonic = "heart flee sudden absurd vibrant dry wing taste idea candy domain liar";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck net woman need worth tongue coach twelve outer matrix behind remember";
+var mnemonic = "young turkey talent business certain honey cart cigar myself soccer school credit";

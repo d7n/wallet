@@ -1,1 +1,1 @@
-var mnemonic = "oval civil infant stairs myth vocal check fox canoe thumb scene process";
+var mnemonic = "exclude bus sunset tomato open isolate job seven museum vague menu recipe";

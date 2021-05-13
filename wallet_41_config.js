@@ -1,1 +1,1 @@
-var mnemonic = "despair garlic swap almost aisle upgrade alcohol plate potato hair series boil";
+var mnemonic = "there grunt retire uncover purchase animal security toast feed alien broom lava";

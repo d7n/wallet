@@ -1,1 +1,1 @@
-var mnemonic = "session machine lake prepare language common ignore stick silent unique island rate";
+var mnemonic = "defy embody north industry want fever ocean maze dry frog clean attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "flight raccoon picnic body save family permit flag horn student worry will";
+var mnemonic = "kangaroo benefit response much page bottom slow clean clay above bid pretty";

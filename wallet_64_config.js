@@ -1,1 +1,1 @@
-var mnemonic = "never announce chest announce issue hazard often pilot north taste boring science";
+var mnemonic = "damp chunk spot oyster boring bounce endless bus anger decade novel fever";

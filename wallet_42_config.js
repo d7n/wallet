@@ -1,1 +1,1 @@
-var mnemonic = "smoke hotel roast hub major noise enhance trade glad price shoot phone";
+var mnemonic = "border client initial upper man rather kit income moral zoo banner real";

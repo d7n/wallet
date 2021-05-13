@@ -1,1 +1,1 @@
-var mnemonic = "target reflect kiwi episode salon place pioneer reject three fall flash meat";
+var mnemonic = "stone mango bright anchor injury hurry daughter mutual flame divorce east armor";

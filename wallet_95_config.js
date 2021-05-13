@@ -1,1 +1,1 @@
-var mnemonic = "slot scorpion tree shiver fiction soda entire champion aerobic bulb morning collect";
+var mnemonic = "they impose actual youth excess swamp brand tennis toddler siren town glimpse";

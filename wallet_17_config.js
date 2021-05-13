@@ -1,1 +1,1 @@
-var mnemonic = "rude guide unlock oval ask mask place artwork praise idea spy luggage";
+var mnemonic = "tonight organ purse organ diesel interest there balcony suggest sick another avoid";

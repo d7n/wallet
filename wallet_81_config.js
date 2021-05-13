@@ -1,1 +1,1 @@
-var mnemonic = "adjust slide local odor hill van husband gospel trick outdoor sunny neck";
+var mnemonic = "shed idea riot satoshi various float science work garage orchard caught tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe one traffic oil cream festival elder genuine cattle jump toilet lens";
+var mnemonic = "deal kind lion wrong lecture portion palace remain canyon dynamic unit cost";

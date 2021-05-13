@@ -1,1 +1,1 @@
-var mnemonic = "rely job flat robust lift face usual mountain divide artefact broken cloth";
+var mnemonic = "inform faculty mix menu feed summer dance social elbow loan staff deny";

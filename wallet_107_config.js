@@ -1,1 +1,1 @@
-var mnemonic = "eager pill capable wife strong tonight tail mimic toast figure muffin solar";
+var mnemonic = "title artist extra skate exclude swarm material replace patch rally penalty enjoy";

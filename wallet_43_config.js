@@ -1,1 +1,1 @@
-var mnemonic = "emotion fuel scrap eagle traffic east wrap danger wagon insane physical desert";
+var mnemonic = "guilt army about subject pig price afraid legend arm crime diagram believe";

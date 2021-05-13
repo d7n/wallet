@@ -1,1 +1,1 @@
-var mnemonic = "retire hobby humor tip swap nut dance wait medal animal walk kiwi";
+var mnemonic = "truly sister tobacco during video tumble city fresh inform salmon fork stock";

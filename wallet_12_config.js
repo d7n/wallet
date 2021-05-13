@@ -1,1 +1,1 @@
-var mnemonic = "shoe noodle sunset address alien upper raven kid hover faculty practice stadium";
+var mnemonic = "unable recall arctic make turn immune oval catch visit flavor devote coffee";

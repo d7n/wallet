@@ -1,1 +1,1 @@
-var mnemonic = "offer crime flower traffic bonus purse bunker few can depth trick youth";
+var mnemonic = "arctic screen tell solid venture nephew update endorse crystal worth version settle";

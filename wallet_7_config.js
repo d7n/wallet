@@ -1,1 +1,1 @@
-var mnemonic = "aware arch shuffle cover portion physical shock despair foil slice jacket ghost";
+var mnemonic = "truth robust knock life pudding welcome render hurdle arrange evil nephew cluster";

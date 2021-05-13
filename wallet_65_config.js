@@ -1,1 +1,1 @@
-var mnemonic = "genius wheat soldier false soldier spy exist armor school conduct delay behave";
+var mnemonic = "someone transfer twin picture enable dune divorce nominee razor crush body only";

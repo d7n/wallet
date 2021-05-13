@@ -1,1 +1,1 @@
-var mnemonic = "estate tooth nothing will already very fatal vital throw blood define more";
+var mnemonic = "entry bicycle lift decade polar silver ice century friend draw island remember";

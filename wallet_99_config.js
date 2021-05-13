@@ -1,1 +1,1 @@
-var mnemonic = "sad emotion abstract test immune grab victory report script exhaust own payment";
+var mnemonic = "letter march flee bird law doll clock modify bar also prosper will";

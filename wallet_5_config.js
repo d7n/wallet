@@ -1,1 +1,1 @@
-var mnemonic = "unfold auction cinnamon rather almost extend speak tissue ignore soldier wing access";
+var mnemonic = "mercy toward bamboo visa put struggle unfair govern spoil describe mammal argue";

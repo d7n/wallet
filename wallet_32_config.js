@@ -1,1 +1,1 @@
-var mnemonic = "sorry shy fatigue pilot biology clog raise trend inflict vehicle average report";
+var mnemonic = "diamond rather slight supreme fan country surface capable strategy truly desert feel";

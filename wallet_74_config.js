@@ -1,1 +1,1 @@
-var mnemonic = "image radio champion nerve suspect spike abandon scene scorpion sister leisure blame";
+var mnemonic = "antenna horror service soon long cement govern title course arm recall antique";

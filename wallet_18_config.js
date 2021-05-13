@@ -1,1 +1,1 @@
-var mnemonic = "spell paper enemy provide verb together moment impulse baby sport horror nephew";
+var mnemonic = "public steak home lunar loan nest mushroom wasp wreck notice proud turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel spice good novel cave parent rural ride play nasty memory label";
+var mnemonic = "lift close hunt pole inquiry almost fortune escape lucky capital street brother";

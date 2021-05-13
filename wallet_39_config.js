@@ -1,1 +1,1 @@
-var mnemonic = "insect demand subway crucial glow three dragon crime pipe penalty illness start";
+var mnemonic = "liar once peasant flavor mixture liar remain defy purpose broken couch neck";

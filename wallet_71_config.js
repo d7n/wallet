@@ -1,1 +1,1 @@
-var mnemonic = "announce divorce wild accuse edge body embody orphan custom jar theory sentence";
+var mnemonic = "situate tiger media snack price rabbit emotion civil unique sentence obvious mean";

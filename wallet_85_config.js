@@ -1,1 +1,1 @@
-var mnemonic = "bread much slab brown slam parent reopen marine chuckle penalty column aunt";
+var mnemonic = "message window rib rapid crumble night comic stadium metal trial despair cloth";

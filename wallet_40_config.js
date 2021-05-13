@@ -1,1 +1,1 @@
-var mnemonic = "riot undo effort base into outdoor mistake gauge nothing below off child";
+var mnemonic = "reject memory drill remind food law seven pilot follow leg donate leg";

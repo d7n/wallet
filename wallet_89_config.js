@@ -1,1 +1,1 @@
-var mnemonic = "stadium great keen disease feel already pilot absorb wife december foam cave";
+var mnemonic = "enable omit away scorpion awkward gift crystal adapt deliver morning clever laptop";

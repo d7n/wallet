@@ -1,1 +1,1 @@
-var mnemonic = "lucky saddle couple recycle sport unable eight filter cabin once vocal draw";
+var mnemonic = "grocery become stomach inquiry castle weather math worry review balance pill laundry";

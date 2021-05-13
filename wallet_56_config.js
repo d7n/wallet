@@ -1,1 +1,1 @@
-var mnemonic = "canyon tomorrow garlic skull dignity vendor island leopard wool labor refuse burst";
+var mnemonic = "attitude suit stage inside nest miracle bubble hurdle nice album rifle hurry";

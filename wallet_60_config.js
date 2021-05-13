@@ -1,1 +1,1 @@
-var mnemonic = "forest space test execute flock language satisfy jealous nice shrimp soon few";
+var mnemonic = "consider heart arrest unveil burst session type snack fade betray nice nest";

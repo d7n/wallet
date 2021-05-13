@@ -1,1 +1,1 @@
-var mnemonic = "speak town clerk used tobacco together october rival gesture since scene guide";
+var mnemonic = "inmate chunk innocent velvet twelve special salmon absorb knock saddle cart inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "rib crane squeeze wedding fat dove hundred grab car toddler toy raise";
+var mnemonic = "fabric anchor kangaroo mesh can index fun super rhythm celery hundred injury";

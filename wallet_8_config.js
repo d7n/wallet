@@ -1,1 +1,1 @@
-var mnemonic = "uncover injury swap buddy rubber coin bicycle talent power then rabbit raccoon";
+var mnemonic = "stone guitar pioneer lazy theme drastic cousin ski hen category clay certain";
