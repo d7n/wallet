@@ -1,1 +1,1 @@
-var mnemonic = "tourist control local agree steak kitchen cycle cricket erase shield rule stairs";
+var mnemonic = "inquiry desert dish vacuum such lens eternal right weekend blind enough mirror";

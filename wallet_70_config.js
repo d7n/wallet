@@ -1,1 +1,1 @@
-var mnemonic = "mystery mixed zero drift labor siege solid athlete knee diagram layer plug";
+var mnemonic = "stereo history neglect radar ahead front wrist scout isolate recall enable what";

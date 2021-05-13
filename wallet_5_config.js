@@ -1,1 +1,1 @@
-var mnemonic = "vehicle steak found debate win velvet dial essay submit charge quantum winter";
+var mnemonic = "puzzle monkey alien degree tail often interest tell lyrics copy limb put";

@@ -1,1 +1,1 @@
-var mnemonic = "prize olympic throw across goose thrive nurse fabric allow deputy enough hundred";
+var mnemonic = "diet puppy path relax fat embark eyebrow net like stuff define dynamic";

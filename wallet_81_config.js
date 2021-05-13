@@ -1,1 +1,1 @@
-var mnemonic = "banner already add dwarf finish recycle gap country music route upset season";
+var mnemonic = "mixture glide strategy crush spoil mother asset teach torch can illness tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "winter clock curve puppy beauty arrive onion tenant unfair uphold cherry candy";
+var mnemonic = "bus obvious priority nasty usual icon step umbrella spell year census asset";

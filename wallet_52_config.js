@@ -1,1 +1,1 @@
-var mnemonic = "student organ parent scan moral course steel people viable cute lift state";
+var mnemonic = "process monitor cattle episode planet tongue cover tragic mouse sentence any auto";

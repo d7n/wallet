@@ -1,1 +1,1 @@
-var mnemonic = "gift category hurdle aware amused bubble episode beyond chair custom drill fly";
+var mnemonic = "three region devote oppose cart vague turtle flash evil great labor sight";

@@ -1,1 +1,1 @@
-var mnemonic = "build loop razor believe face obtain impulse canal bicycle nut control luggage";
+var mnemonic = "fancy duty hour poet jeans destroy agent know air add candy grow";

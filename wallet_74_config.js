@@ -1,1 +1,1 @@
-var mnemonic = "across room frown guard mean electric tool camera gadget legend ancient opera";
+var mnemonic = "agent lawn aim spell shock brave lyrics kick female assume say switch";

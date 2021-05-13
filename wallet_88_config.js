@@ -1,1 +1,1 @@
-var mnemonic = "midnight multiply ankle level skate invite detail among update charge monitor expand";
+var mnemonic = "visit chronic civil visit stumble cotton ribbon weather later square magic true";

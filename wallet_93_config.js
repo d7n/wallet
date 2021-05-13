@@ -1,1 +1,1 @@
-var mnemonic = "daring slice also company enact tiger boil increase teach live bright retreat";
+var mnemonic = "apple bird advice fit cable forward host file chimney skin legend stone";

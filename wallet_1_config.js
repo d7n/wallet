@@ -1,1 +1,1 @@
-var mnemonic = "render danger biology better denial together eyebrow already garment doctor talent best";
+var mnemonic = "deal horse can liquid distance weapon budget fatigue negative nerve drama scrap";

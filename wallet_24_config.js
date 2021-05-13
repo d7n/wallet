@@ -1,1 +1,1 @@
-var mnemonic = "boy innocent engage canal sail welcome bid fire arrange industry offer cliff";
+var mnemonic = "worth train danger hope cannon vacuum pole ocean blast over chef have";

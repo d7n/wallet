@@ -1,1 +1,1 @@
-var mnemonic = "quote concert best broccoli original prison accuse pilot dumb shield caution good";
+var mnemonic = "child pyramid account mail midnight fine three chunk mix amount leopard matter";

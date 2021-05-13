@@ -1,1 +1,1 @@
-var mnemonic = "liquid sentence trumpet eager depend resist dial rabbit dumb door sad guard";
+var mnemonic = "scan fat rice rescue invest rival female beach hockey wonder aim retreat";

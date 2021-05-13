@@ -1,1 +1,1 @@
-var mnemonic = "piano dilemma green jelly message fan shrug leg wealth stove say little";
+var mnemonic = "budget edge ignore lab deposit abandon lazy reunion olive fatal daring fury";

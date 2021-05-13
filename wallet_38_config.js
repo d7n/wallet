@@ -1,1 +1,1 @@
-var mnemonic = "brother shrimp crowd vapor when slam update sun style toe pilot exclude";
+var mnemonic = "dynamic chalk angle school punch arrest coral visit hidden copy scale grocery";

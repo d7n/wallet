@@ -1,1 +1,1 @@
-var mnemonic = "render liquid tide remember deliver recipe sadness odor history course token spoon";
+var mnemonic = "quarter build alley plate praise accident route awesome infant bracket banana drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "identify note flight alone select submit stick monitor win finger skirt course";
+var mnemonic = "educate surprise recall trumpet lazy rent edit mutual merit key blind sauce";

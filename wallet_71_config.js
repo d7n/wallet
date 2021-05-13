@@ -1,1 +1,1 @@
-var mnemonic = "detect bottom traffic laundry broken actress certain safe congress spell thumb romance";
+var mnemonic = "raccoon hospital blossom bulb kick flight artwork pizza fine keen please hybrid";

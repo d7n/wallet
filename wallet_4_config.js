@@ -1,1 +1,1 @@
-var mnemonic = "search share cloth bracket letter visit cloth funny path polar grit awful";
+var mnemonic = "coral door behave catch entry pill link unfold since dynamic review envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze dumb various finish chief produce have hunt concert since odor still";
+var mnemonic = "pet spoil village save sponsor false reason eight luxury order like wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "romance category diagram fly clerk salad virus chicken ripple egg anxiety people";
+var mnemonic = "tail blade rain hurry mixed oxygen slim today service cupboard can whale";

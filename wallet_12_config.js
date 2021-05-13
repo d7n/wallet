@@ -1,1 +1,1 @@
-var mnemonic = "wash unable ranch boss mystery unlock vital moon south glance ugly cage";
+var mnemonic = "unfair monkey test poverty game friend vessel submit useful bring agree goat";

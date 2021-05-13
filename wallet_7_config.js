@@ -1,1 +1,1 @@
-var mnemonic = "churn void maximum coyote bundle visa only merit art forward hire trap";
+var mnemonic = "remind call attend myth jar sister cinnamon december long report live ancient";

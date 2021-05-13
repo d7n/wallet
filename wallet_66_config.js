@@ -1,1 +1,1 @@
-var mnemonic = "plunge ladder life size photo capable pipe pony wide hurt provide stand";
+var mnemonic = "angle arm expose skate talk kit gym tooth action online mom joy";

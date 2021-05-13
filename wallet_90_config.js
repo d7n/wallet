@@ -1,1 +1,1 @@
-var mnemonic = "reason helmet immense glass ketchup sentence barrel satoshi vault lock popular boil";
+var mnemonic = "sphere cable father blur method gallery entire elevator hero congress train wink";

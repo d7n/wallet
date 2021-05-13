@@ -1,1 +1,1 @@
-var mnemonic = "magic heart doctor wine bone economy subject ritual rural pass truck gorilla";
+var mnemonic = "stable lunch aware chicken rely use melody parent above primary awake example";

@@ -1,1 +1,1 @@
-var mnemonic = "produce injury distance orphan ripple quarter shaft alley snack adjust gadget stadium";
+var mnemonic = "knee nasty wreck order climb often trash tide orphan delay produce culture";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse fly silk hour toss oblige fun any vast truck warm display";
+var mnemonic = "price stone someone victory run latin cabin crucial charge basic wink collect";

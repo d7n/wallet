@@ -1,1 +1,1 @@
-var mnemonic = "spike hockey measure shift sweet teach vague social oil thing duty silk";
+var mnemonic = "grape viable stadium domain receive door opinion raccoon myth spot simple glue";

@@ -1,1 +1,1 @@
-var mnemonic = "must way solve talk yellow drill panic title blue violin slim else";
+var mnemonic = "wall crucial quick rain fancy focus where present zebra dune blouse purchase";

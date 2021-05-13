@@ -1,1 +1,1 @@
-var mnemonic = "cram sail target dose must never step wing govern analyst grocery olive";
+var mnemonic = "faith copper labor feel source glory destroy gloom lady license elevator wrist";

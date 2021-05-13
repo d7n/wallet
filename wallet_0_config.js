@@ -1,1 +1,1 @@
-var mnemonic = "room whisper train neither grid lady action embody good surprise labor club";
+var mnemonic = "cactus meadow fever pulse bounce skirt over cargo rather unique feel inflict";

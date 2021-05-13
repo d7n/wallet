@@ -1,1 +1,1 @@
-var mnemonic = "spin veteran file egg wealth wet find magic galaxy april diamond meat";
+var mnemonic = "young impact orbit chef health raccoon will extend february property leisure barrel";

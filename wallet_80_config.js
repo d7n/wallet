@@ -1,1 +1,1 @@
-var mnemonic = "alarm custom clock extend unveil hire segment culture bundle glance soldier erase";
+var mnemonic = "visit pool wild debris okay fragile merry soul glove tiger express slab";

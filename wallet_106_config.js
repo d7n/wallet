@@ -1,1 +1,1 @@
-var mnemonic = "sudden month stomach order dry chief tower urge recipe flush intact nut";
+var mnemonic = "notice section grit first view raw crawl salute animal quality air obscure";

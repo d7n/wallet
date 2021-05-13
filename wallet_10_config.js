@@ -1,1 +1,1 @@
-var mnemonic = "cannon erase voyage trouble quick grape market increase unveil scan want leader";
+var mnemonic = "culture reason zero very upper mammal balcony design bless rare bulb priority";

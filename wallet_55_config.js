@@ -1,1 +1,1 @@
-var mnemonic = "toy tumble neck lobster rabbit sand unlock tool peace brand rotate chef";
+var mnemonic = "music cancel whisper enemy nerve siren home relief essay phone tooth budget";

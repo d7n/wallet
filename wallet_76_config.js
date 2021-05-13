@@ -1,1 +1,1 @@
-var mnemonic = "steak hunt bag language symbol gasp funny advice simple fork man school";
+var mnemonic = "tribe daughter fun correct bargain pass zebra render hire hamster page square";

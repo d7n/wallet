@@ -1,1 +1,1 @@
-var mnemonic = "develop grace target angry universe brother pretty coral zero forget hurt bar";
+var mnemonic = "onion object soap ride security kind dirt elbow omit debris guilt apart";

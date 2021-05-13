@@ -1,1 +1,1 @@
-var mnemonic = "sister caution damp power truth sort essence equip spike drink decline saddle";
+var mnemonic = "law history knee seven grunt fly drastic dumb audit kitten elegant piece";

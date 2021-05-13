@@ -1,1 +1,1 @@
-var mnemonic = "scrub emotion increase dawn actor evil phone decline shrimp blue cube remove";
+var mnemonic = "plug much write stable permit tired icon drum attitude opera evoke follow";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon profit afraid multiply pull element ankle hospital garbage price dune animal";
+var mnemonic = "duty limit flock eight idle blind shop together mountain avocado split kitchen";

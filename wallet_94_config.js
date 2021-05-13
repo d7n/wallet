@@ -1,1 +1,1 @@
-var mnemonic = "fence rent sword rate tonight parent diet page wheel inspire scene gauge";
+var mnemonic = "trap pole help kitchen bag wave snake actress dinosaur pony excuse witness";

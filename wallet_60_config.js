@@ -1,1 +1,1 @@
-var mnemonic = "hockey crisp brass slow safe tennis tail alpha adjust uncover believe joke";
+var mnemonic = "inquiry fatal clip camp earth bar decade noble gas half trophy turtle";

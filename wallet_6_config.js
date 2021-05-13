@@ -1,1 +1,1 @@
-var mnemonic = "safe doctor grief trade gaze permit become drive turtle find push drift";
+var mnemonic = "puzzle doll eagle just bitter can broccoli ring dignity airport derive poverty";

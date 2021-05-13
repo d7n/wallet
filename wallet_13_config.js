@@ -1,1 +1,1 @@
-var mnemonic = "belt route plunge verb accident myth mix shoot hedgehog unable rug suggest";
+var mnemonic = "forum crucial what wink aware hello picture long hobby journey monitor loan";

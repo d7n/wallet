@@ -1,1 +1,1 @@
-var mnemonic = "traffic avoid best never seed barrel scale day history grass increase thrive";
+var mnemonic = "surge often category forward express plate arrest marine roast own useful enough";

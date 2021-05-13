@@ -1,1 +1,1 @@
-var mnemonic = "apple bike category ocean vacuum direct ahead section ten toilet minimum unique";
+var mnemonic = "joke label among mammal toward gas snack artefact sing lunch skill allow";

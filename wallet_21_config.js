@@ -1,1 +1,1 @@
-var mnemonic = "sudden naive coast canoe average tissue pulp enable blouse defy mixture casino";
+var mnemonic = "soccer fabric glass feature need puzzle argue venue method husband swear truck";

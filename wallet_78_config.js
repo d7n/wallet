@@ -1,1 +1,1 @@
-var mnemonic = "guilt card rice order saddle found black myth tip movie minor symptom";
+var mnemonic = "cupboard odor fat napkin enrich clean viable hover cruise tumble roof pipe";

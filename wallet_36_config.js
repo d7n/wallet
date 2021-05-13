@@ -1,1 +1,1 @@
-var mnemonic = "frame midnight flee seed govern raven list cupboard cage august blood devote";
+var mnemonic = "cover supply demand cream slim excuse luxury inside farm armed advance loop";

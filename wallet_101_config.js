@@ -1,1 +1,1 @@
-var mnemonic = "method net hospital crisp tell open involve play embody river rose bundle";
+var mnemonic = "enemy economy frown fantasy dinosaur differ earth warrior candy obscure light inhale";

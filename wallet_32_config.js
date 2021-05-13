@@ -1,1 +1,1 @@
-var mnemonic = "oppose novel illness disorder result walk glad risk submit chest grief close";
+var mnemonic = "easy goat public upper pencil absorb tornado absent swallow dance solar wire";

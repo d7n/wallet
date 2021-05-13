@@ -1,1 +1,1 @@
-var mnemonic = "renew tornado huge faith pink impulse half tool wide among blossom dice";
+var mnemonic = "kiss space evolve thing bus keep network bar negative fortune diet notable";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb brown sword whale deal tribe tunnel purity buddy inflict puppy reason";
+var mnemonic = "style choice swarm lemon easy sweet broken enjoy dentist evidence cactus kick";

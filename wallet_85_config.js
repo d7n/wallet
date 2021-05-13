@@ -1,1 +1,1 @@
-var mnemonic = "correct taxi bike glide egg buyer magic raccoon joke bounce cool caution";
+var mnemonic = "mass must leader vote rigid win awake goat arrest concert spare dog";

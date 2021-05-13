@@ -1,1 +1,1 @@
-var mnemonic = "sauce ice recycle beach immune private dune soul tube design critic rebuild";
+var mnemonic = "define slush dose apology gloom noise foam wheel exist dinosaur magnet burden";

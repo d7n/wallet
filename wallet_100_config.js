@@ -1,1 +1,1 @@
-var mnemonic = "uncle income mesh wide jump live actor capital search hybrid idle praise";
+var mnemonic = "wait recipe outer field degree human exercise sheriff embody code festival puppy";

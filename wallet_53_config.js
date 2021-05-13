@@ -1,1 +1,1 @@
-var mnemonic = "enhance brother nice eager demise destroy magnet hollow slim mimic quit couch";
+var mnemonic = "smart today today head future sail amateur old fuel release strategy mix";

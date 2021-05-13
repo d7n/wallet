@@ -1,1 +1,1 @@
-var mnemonic = "drum rib oxygen museum annual rural garage banana very essay lounge dentist";
+var mnemonic = "until invite island elegant worth parrot critic link lab card stem balance";

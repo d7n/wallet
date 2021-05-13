@@ -1,1 +1,1 @@
-var mnemonic = "record across mercy wool quote surface whisper famous soup rate mimic trash";
+var mnemonic = "miracle bike audit trend wish endless bar lottery sponsor notable quiz cream";

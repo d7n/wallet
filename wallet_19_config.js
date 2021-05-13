@@ -1,1 +1,1 @@
-var mnemonic = "blue length undo animal road coin draft empty peace mystery flip logic";
+var mnemonic = "inflict lazy theme produce play business behave penalty just fat puzzle pact";

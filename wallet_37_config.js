@@ -1,1 +1,1 @@
-var mnemonic = "board wait dutch crystal anger rely orphan latin rent property carry remain";
+var mnemonic = "mirror speed urban day drastic long toddler eight song now symbol viable";

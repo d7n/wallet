@@ -1,1 +1,1 @@
-var mnemonic = "dash dismiss actress high snack oven split furnace purse empty genre city";
+var mnemonic = "immune wife melt bulb buffalo moral pear test blur buzz symptom play";

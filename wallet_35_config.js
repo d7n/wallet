@@ -1,1 +1,1 @@
-var mnemonic = "sure minimum rotate mad move curve icon motion unaware ecology prefer top";
+var mnemonic = "crowd urban cage elder marble village proof media day river kingdom rival";

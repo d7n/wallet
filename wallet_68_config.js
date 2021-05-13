@@ -1,1 +1,1 @@
-var mnemonic = "sword cross giraffe fit total ritual option feature flush harvest tuna orange";
+var mnemonic = "stuff matrix uphold aerobic tower loyal buzz path initial brief poem dilemma";

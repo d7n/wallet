@@ -1,1 +1,1 @@
-var mnemonic = "leopard unaware fringe island illness mesh drama grape close metal typical target";
+var mnemonic = "wet drift draft wrong renew mother erode chat you fury core ice";

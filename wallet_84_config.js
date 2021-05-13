@@ -1,1 +1,1 @@
-var mnemonic = "film ostrich auto garbage impulse produce very mechanic height museum morning anxiety";
+var mnemonic = "parade urban calm unfair logic pulp myself rib cereal debate balance budget";

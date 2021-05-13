@@ -1,1 +1,1 @@
-var mnemonic = "festival file crater flavor mass sustain lounge curve flush course matrix satoshi";
+var mnemonic = "wage old rare grace nasty fence remind shoulder away flee need correct";

@@ -1,1 +1,1 @@
-var mnemonic = "entry expand wheel silk useful hello track ski busy involve public case";
+var mnemonic = "buzz suffer above basket spend arch infant nephew junior control wet nice";

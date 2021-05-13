@@ -1,1 +1,1 @@
-var mnemonic = "raven put obey glass local wrist verify era emerge awesome test end";
+var mnemonic = "allow wolf voyage property quarter square brown letter siege goddess person mail";

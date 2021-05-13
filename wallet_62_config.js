@@ -1,1 +1,1 @@
-var mnemonic = "defense sugar fire vote hunt syrup raccoon bridge panel clinic jelly wreck";
+var mnemonic = "save female miss someone attend steel perfect find runway picture call giggle";

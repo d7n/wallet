@@ -1,1 +1,1 @@
-var mnemonic = "share shrug humble culture spray fan syrup empower harsh cheese tattoo bracket";
+var mnemonic = "tuition harbor crisp laptop donkey cave item excess boil jealous unable dilemma";

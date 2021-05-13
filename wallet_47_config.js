@@ -1,1 +1,1 @@
-var mnemonic = "index during canyon gym crouch push spot price glow transfer strong beauty";
+var mnemonic = "patch boss danger fault nothing moment loan notable shy output master swap";

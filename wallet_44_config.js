@@ -1,1 +1,1 @@
-var mnemonic = "already excuse opinion dash nominee appear excess dismiss puzzle drink script destroy";
+var mnemonic = "fox night aware two announce radar leader either board uncle salon nature";

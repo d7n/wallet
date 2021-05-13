@@ -1,1 +1,1 @@
-var mnemonic = "human dog tired virtual elite step gadget monitor trim task pattern brave";
+var mnemonic = "alcohol wage between nut crowd pause view occur suit hybrid undo snow";

@@ -1,1 +1,1 @@
-var mnemonic = "brush basket library debate aware act below minimum pig just private slam";
+var mnemonic = "lizard conduct universe pigeon extend assault fine ugly enjoy cram invest obtain";

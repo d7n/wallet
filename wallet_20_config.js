@@ -1,1 +1,1 @@
-var mnemonic = "fun always dash champion shop garden brown night amateur plug impose autumn";
+var mnemonic = "bargain enjoy hurry crime jacket secret raven like broken govern bar crater";

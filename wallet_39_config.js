@@ -1,1 +1,1 @@
-var mnemonic = "uncle equip object weekend science margin traffic current tiny intact damp laptop";
+var mnemonic = "gloom syrup undo glass syrup pencil lucky slogan bless razor praise attend";

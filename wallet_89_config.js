@@ -1,1 +1,1 @@
-var mnemonic = "traffic source remember eager all scale unique shrug shoot world powder fortune";
+var mnemonic = "erode photo journey pioneer oil caution pumpkin engine extend have wheat camp";

@@ -1,1 +1,1 @@
-var mnemonic = "cook host second smooth duty author false diet hub word mix case";
+var mnemonic = "possible mirror know poet exclude later obey hockey use expose flip taste";

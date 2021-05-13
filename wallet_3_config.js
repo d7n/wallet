@@ -1,1 +1,1 @@
-var mnemonic = "rib sick seminar pulse normal inhale sponsor broken define exile resemble tiger";
+var mnemonic = "engage jaguar direct sense snack harvest bitter fossil surprise venture friend junk";

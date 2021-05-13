@@ -1,1 +1,1 @@
-var mnemonic = "tree oppose impose badge rice cruel lawn dream public confirm attend derive";
+var mnemonic = "piece language sick merry supreme still razor profit best term dish unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "ring choose moment smooth diary giant apart author rely shoot net shrimp";
+var mnemonic = "sentence jazz inherit they push chuckle aerobic main frame spy impact sudden";
