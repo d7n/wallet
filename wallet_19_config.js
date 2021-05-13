@@ -1,1 +1,1 @@
-var mnemonic = "diamond elegant seminar salad pulse suspect aspect apology rare column frost energy";
+var mnemonic = "success solve oval hello equip abandon liquid sick news filter defense cabin";

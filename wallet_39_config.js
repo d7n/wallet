@@ -1,1 +1,1 @@
-var mnemonic = "evidence resource kind embrace address general connect hold wisdom wave equal fabric";
+var mnemonic = "buddy estate burst they ladder rabbit budget stuff boss dawn cherry sure";

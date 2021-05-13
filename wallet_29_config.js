@@ -1,1 +1,1 @@
-var mnemonic = "trial column dose hover trade often buzz sketch despair february satisfy ramp";
+var mnemonic = "fabric deposit immune lab sketch opinion bless original later birth economy indicate";

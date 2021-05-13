@@ -1,1 +1,1 @@
-var mnemonic = "leisure lobster strike invest rebuild regular evidence ketchup engage trend weird quit";
+var mnemonic = "soldier west visual gather news lab bleak mechanic burger soon vague page";

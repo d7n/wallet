@@ -1,1 +1,1 @@
-var mnemonic = "tower rude chief settle pyramid hold sorry denial write spell actor spike";
+var mnemonic = "slight stamp element virtual odor sport permit patient produce elephant stage blood";

@@ -1,1 +1,1 @@
-var mnemonic = "manual address argue copper later wealth naive cheese exile mutual embrace oppose";
+var mnemonic = "bright obtain raven bike thank scissors kick planet cage diet frog bulk";

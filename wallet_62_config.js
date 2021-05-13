@@ -1,1 +1,1 @@
-var mnemonic = "guilt wide omit sleep poem pottery tenant laptop noodle quiz chalk enroll";
+var mnemonic = "idle wedding enjoy pottery two turkey blouse embrace account insane pitch cross";

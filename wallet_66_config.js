@@ -1,1 +1,1 @@
-var mnemonic = "prison inch govern special inherit disagree fee letter image bulk design shift";
+var mnemonic = "winner crisp crack wealth click client wood obscure leaf position still song";

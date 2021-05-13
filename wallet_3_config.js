@@ -1,1 +1,1 @@
-var mnemonic = "cute trumpet used build sell axis olympic anchor lunch rally popular lab";
+var mnemonic = "satoshi evidence churn grow label predict frame gesture affair injury clown fluid";

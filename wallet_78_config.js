@@ -1,1 +1,1 @@
-var mnemonic = "garlic citizen health trophy foot asset crush creek mammal top ship junk";
+var mnemonic = "ugly music kick nephew column rubber stick time village inherit ball marble";

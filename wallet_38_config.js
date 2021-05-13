@@ -1,1 +1,1 @@
-var mnemonic = "pelican liberty van twist possible two clever veteran erupt erupt orchard rescue";
+var mnemonic = "once tape sing glance hurry link final lizard zero silly museum fly";

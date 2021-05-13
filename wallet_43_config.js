@@ -1,1 +1,1 @@
-var mnemonic = "admit embark whisper glad soul birth duck neither fitness include clog battle";
+var mnemonic = "sight frame daring pause recall such afford math coast coin fabric own";

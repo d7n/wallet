@@ -1,1 +1,1 @@
-var mnemonic = "pole gospel extra boost express quote depend sort spice scene animal rally";
+var mnemonic = "goat link seek silent youth sleep horse home ride flush spatial tank";

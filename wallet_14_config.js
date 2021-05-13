@@ -1,1 +1,1 @@
-var mnemonic = "rack save pioneer inner forget kitten later fiber phone lazy fetch fetch";
+var mnemonic = "obtain sun wash pencil nature girl kite legend pelican inner orphan proof";

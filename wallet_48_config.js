@@ -1,1 +1,1 @@
-var mnemonic = "cute cycle cool unknown used sister monitor enhance jar web number neither";
+var mnemonic = "section gold resist verify dune fruit fun bundle erode sample that shift";

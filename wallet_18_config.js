@@ -1,1 +1,1 @@
-var mnemonic = "way village clinic spoon smooth around city harbor shove monitor battle brick";
+var mnemonic = "announce sting remain hip main wonder inch absent orange observe merge airport";

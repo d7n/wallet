@@ -1,1 +1,1 @@
-var mnemonic = "ankle song funny silver emotion void fun sauce embody together source token";
+var mnemonic = "come alcohol whisper imitate marriage crop fresh friend olympic wood exhibit surround";

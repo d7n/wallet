@@ -1,1 +1,1 @@
-var mnemonic = "bundle despair know coral gadget sponsor breeze receive raw real brisk valid";
+var mnemonic = "digital disorder empower major moon believe film mule matter color define snow";

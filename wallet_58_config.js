@@ -1,1 +1,1 @@
-var mnemonic = "cereal disorder chase leg swap crop vendor can nose trap cave animal";
+var mnemonic = "twist dilemma domain guitar jump during fiction fold admit ready pistol trend";

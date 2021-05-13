@@ -1,1 +1,1 @@
-var mnemonic = "latin banner merit end river demand cancel atom grid banner consider earn";
+var mnemonic = "forward diamond popular cloth rely video dice point ready world pottery inmate";

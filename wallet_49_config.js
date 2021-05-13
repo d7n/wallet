@@ -1,1 +1,1 @@
-var mnemonic = "fortune state drive violin junior around march donkey crew ability avoid coffee";
+var mnemonic = "ancient remain business collect build actress dream museum dolphin phrase crystal cigar";

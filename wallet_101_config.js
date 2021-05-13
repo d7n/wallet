@@ -1,1 +1,1 @@
-var mnemonic = "present blur below thumb already owner damage match avocado cave hammer pretty";
+var mnemonic = "three devote smart local dial trumpet mouse pull increase opera bulb panda";

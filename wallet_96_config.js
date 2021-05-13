@@ -1,1 +1,1 @@
-var mnemonic = "essay pistol march weekend remind put real depart list delay truly either";
+var mnemonic = "topic end accident owner guard three nephew early cook brass problem census";

@@ -1,1 +1,1 @@
-var mnemonic = "usage race success web beef soccer sorry glimpse cancel switch october select";
+var mnemonic = "sniff perfect sign cluster maple buyer win hero bid grace october ceiling";

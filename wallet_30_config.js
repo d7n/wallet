@@ -1,1 +1,1 @@
-var mnemonic = "ice judge innocent used panel enlist short clip because skin orient pass";
+var mnemonic = "buzz banana bind trash juice turkey guilt stomach electric random venture wine";

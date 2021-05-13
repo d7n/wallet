@@ -1,1 +1,1 @@
-var mnemonic = "lift excite more lamp debris payment device alter lottery decrease supply piece";
+var mnemonic = "issue tank grit educate office give sponsor apology wing brown badge undo";

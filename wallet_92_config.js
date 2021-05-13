@@ -1,1 +1,1 @@
-var mnemonic = "wedding leave nice brass rocket purity engine raccoon album arena all arm";
+var mnemonic = "blur subject casual afraid clock lounge climb city comfort crew loan legal";

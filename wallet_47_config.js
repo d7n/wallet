@@ -1,1 +1,1 @@
-var mnemonic = "arrow apple pencil stone clinic uphold milk coffee man burst again demand";
+var mnemonic = "finish inherit improve actor write water among draft choose ripple shell neglect";

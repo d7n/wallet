@@ -1,1 +1,1 @@
-var mnemonic = "please enroll wide happy over engine dawn pond settle quote wheat exit";
+var mnemonic = "outdoor wall neither tragic envelope educate license real good chief tone pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "donate face gallery ribbon area loop shrimp blade wink long bag express";
+var mnemonic = "poet rough wrong neck present music gold glue riot oval giant stove";

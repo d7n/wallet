@@ -1,1 +1,1 @@
-var mnemonic = "voice blossom replace town lounge local tornado clap slight toast novel cushion";
+var mnemonic = "pulse outdoor envelope brick language erode work layer mule uncle win retire";

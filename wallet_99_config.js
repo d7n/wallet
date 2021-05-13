@@ -1,1 +1,1 @@
-var mnemonic = "affair divide vocal brass long baby trust injury meadow swear shiver dice";
+var mnemonic = "tide special limb churn neck gadget audit ivory stomach nasty emerge excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "own armor usual entry brisk rent shell genuine forget truly similar trophy";
+var mnemonic = "tiger feature meadow ticket lock pigeon tilt announce story poet midnight rack";

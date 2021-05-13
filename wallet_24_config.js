@@ -1,1 +1,1 @@
-var mnemonic = "sister arrive jump news today upon lobster symbol pill lucky runway unhappy";
+var mnemonic = "obtain width material basic talent olive clown double slight fossil either soldier";

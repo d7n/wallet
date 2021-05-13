@@ -1,1 +1,1 @@
-var mnemonic = "come praise meat junior kick topic course bitter inflict drama detail glory";
+var mnemonic = "indoor innocent answer strike pioneer grant jealous weasel favorite surface course shoe";

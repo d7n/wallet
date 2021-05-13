@@ -1,1 +1,1 @@
-var mnemonic = "chicken rifle general kick rather online oven vote display drift tip quality";
+var mnemonic = "mask gate main payment lottery unaware license best parrot blossom tortoise welcome";

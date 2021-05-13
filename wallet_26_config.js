@@ -1,1 +1,1 @@
-var mnemonic = "search game act host trigger melt else arrive donkey point trial thunder";
+var mnemonic = "priority develop mercy history soup inside scorpion ritual flavor clutch jacket treat";

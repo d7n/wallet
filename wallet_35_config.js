@@ -1,1 +1,1 @@
-var mnemonic = "behind aware isolate sort shift dish adult display away hurdle liquid rifle";
+var mnemonic = "review maximum admit recipe service humor lounge fuel resist supply guard evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach beyond stand trim enjoy paddle friend code certain agree venue melt";
+var mnemonic = "planet can order random reduce hood middle tired note smile deputy fitness";

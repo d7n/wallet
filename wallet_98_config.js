@@ -1,1 +1,1 @@
-var mnemonic = "category boring action scan zero victory strategy recycle tattoo business project danger";
+var mnemonic = "clump submit proof wise genuine spell salt safe online spring brown route";

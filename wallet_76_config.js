@@ -1,1 +1,1 @@
-var mnemonic = "quiz level welcome patient drive couple jump mimic excess snap total supply";
+var mnemonic = "until mushroom above utility minor join huge parent blanket trouble machine boss";

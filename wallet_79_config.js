@@ -1,1 +1,1 @@
-var mnemonic = "menu pledge roast version capital vault merge special lyrics rigid source orphan";
+var mnemonic = "buyer total mosquito six carbon kid marine great trend fine broccoli walk";

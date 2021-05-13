@@ -1,1 +1,1 @@
-var mnemonic = "genius later addict giraffe market dinner leave labor trust deputy scout judge";
+var mnemonic = "total obtain slight hammer tonight can enforce solid antique actual finish vacant";

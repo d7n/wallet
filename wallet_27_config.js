@@ -1,1 +1,1 @@
-var mnemonic = "olympic antenna cactus dice siege twelve shoot service coin fog donkey bless";
+var mnemonic = "kind bless vocal erupt diesel food anchor hedgehog boat nephew rough dose";

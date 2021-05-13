@@ -1,1 +1,1 @@
-var mnemonic = "old bomb easily category message ozone meat fall hockey zoo lunar outdoor";
+var mnemonic = "snap heavy shoe satoshi kind like nose protect educate goose vault fit";

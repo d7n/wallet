@@ -1,1 +1,1 @@
-var mnemonic = "exercise agent purse flat father erosion flight orchard clown method tomorrow paddle";
+var mnemonic = "iron clown abandon embark alter gloom wolf force tube arm armed liquid";

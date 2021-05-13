@@ -1,1 +1,1 @@
-var mnemonic = "tourist gun salute custom noodle flight deputy enable return romance recipe sibling";
+var mnemonic = "expire cream surge hazard adult milk camp gun pulp void tribe student";

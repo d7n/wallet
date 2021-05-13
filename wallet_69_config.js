@@ -1,1 +1,1 @@
-var mnemonic = "north hybrid medal flag cable square beyond add coral emotion gap day";
+var mnemonic = "alter cabin limb blade dog bullet select term admit dumb regret patient";

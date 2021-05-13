@@ -1,1 +1,1 @@
-var mnemonic = "scrub grief swarm strategy clip early bronze pet alarm coast exchange butter";
+var mnemonic = "ice visa jewel hire merry leg wife million reform try else weather";

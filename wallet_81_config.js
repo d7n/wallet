@@ -1,1 +1,1 @@
-var mnemonic = "mimic donate transfer mutual stereo host rail treat omit venue focus palm";
+var mnemonic = "sphere teach sudden base expire clerk clean mechanic fire regret clarify card";

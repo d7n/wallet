@@ -1,1 +1,1 @@
-var mnemonic = "kidney topple submit lottery dance genre finger hammer local inflict oppose long";
+var mnemonic = "soup similar burger good liar twin police pony era spin inflict maximum";

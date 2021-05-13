@@ -1,1 +1,1 @@
-var mnemonic = "napkin ice crumble creek program derive wing hero open essence digital virtual";
+var mnemonic = "route believe slush illegal raven pet scout rally pitch limb document stairs";

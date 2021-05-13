@@ -1,1 +1,1 @@
-var mnemonic = "vehicle void sea music human gather sister flavor idle uncover fox term";
+var mnemonic = "edit august hover swift insane awake group path deal paper yard alley";

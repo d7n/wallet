@@ -1,1 +1,1 @@
-var mnemonic = "tennis slide mixed awful impose very attend call message glass focus include";
+var mnemonic = "raw hair husband between furnace top rubber drive utility gaze eight dynamic";

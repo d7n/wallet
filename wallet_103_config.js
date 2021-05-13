@@ -1,1 +1,1 @@
-var mnemonic = "spot usage fall earn gesture lion useless burger because flee praise glow";
+var mnemonic = "lake certain link cactus crater arctic oval unlock foster fly slim slim";

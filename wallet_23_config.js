@@ -1,1 +1,1 @@
-var mnemonic = "consider toddler evil wrestle boil method month jelly share envelope sample tree";
+var mnemonic = "innocent mimic security label lady guard coral elevator used version group jelly";

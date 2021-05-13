@@ -1,1 +1,1 @@
-var mnemonic = "marriage mule dream right service erupt spare priority portion panel intact pony";
+var mnemonic = "stairs climb panic reflect buddy soft frown embrace huge ghost police zone";

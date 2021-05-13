@@ -1,1 +1,1 @@
-var mnemonic = "tuna sport rigid wear retreat fragile spider erupt copy figure absurd service";
+var mnemonic = "arctic town cable grace jacket write squirrel hire major sword chimney wreck";

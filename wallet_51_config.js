@@ -1,1 +1,1 @@
-var mnemonic = "inner fiction tag transfer charge real local tennis ridge kitten crew february";
+var mnemonic = "slush sustain globe right light army knee wealth valid obey awake replace";

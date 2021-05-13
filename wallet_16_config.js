@@ -1,1 +1,1 @@
-var mnemonic = "whale absent before mind top face decrease pill wasp artist banner crowd";
+var mnemonic = "oxygen pelican fence guitar corn chat casual heart author service aisle merry";

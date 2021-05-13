@@ -1,1 +1,1 @@
-var mnemonic = "forest measure trim win shine unfair entire bounce uncle gold injury rack";
+var mnemonic = "mom tomato shed enhance obtain disorder profit anchor burger very inquiry error";

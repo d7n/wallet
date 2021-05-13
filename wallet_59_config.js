@@ -1,1 +1,1 @@
-var mnemonic = "gallery uphold rocket donate float catch old dune chief dwarf setup flush";
+var mnemonic = "kind help text disorder left jeans deal layer slot supply shoulder myth";

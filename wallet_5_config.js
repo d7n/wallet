@@ -1,1 +1,1 @@
-var mnemonic = "kitchen aerobic top uncover name ketchup remember balcony enhance kitten cost below";
+var mnemonic = "fat license ice flower helmet sign trip gun trash oak file runway";

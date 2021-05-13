@@ -1,1 +1,1 @@
-var mnemonic = "code about hundred favorite truly robust eye raise control traffic shallow ketchup";
+var mnemonic = "gasp feel meat wife region city bronze fold width harsh scrap eager";

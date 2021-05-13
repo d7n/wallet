@@ -1,1 +1,1 @@
-var mnemonic = "reform seed stable frame early human surround furnace coil leopard equip cliff";
+var mnemonic = "evil ozone vanish dumb card forward act ski milk knee mushroom glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "genius armed height swing tortoise blast neither myself aim later arm fall";
+var mnemonic = "palm asthma giraffe gap very despair wheat struggle govern price ship circle";

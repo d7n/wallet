@@ -1,1 +1,1 @@
-var mnemonic = "hungry stadium cluster control express work renew poem nothing supply floor master";
+var mnemonic = "violin clog sibling cabin spare bind party home verify chicken empower adult";

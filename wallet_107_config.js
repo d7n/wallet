@@ -1,1 +1,1 @@
-var mnemonic = "give believe absent divorce occur floor oak lottery husband blossom consider couch";
+var mnemonic = "another social birth guilt woman dream any jungle clerk flame disorder copy";

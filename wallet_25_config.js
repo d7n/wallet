@@ -1,1 +1,1 @@
-var mnemonic = "escape genuine author fine accuse betray hobby stairs spot duty proud unusual";
+var mnemonic = "eternal glimpse concert design valley album tooth save monitor spatial bag history";

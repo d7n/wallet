@@ -1,1 +1,1 @@
-var mnemonic = "pass ski abstract tank tail regular fox shift despair step asset neutral";
+var mnemonic = "bullet always noodle noise document curve wide fire wrist move valley brief";

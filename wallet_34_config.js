@@ -1,1 +1,1 @@
-var mnemonic = "prepare game elephant stem chat heavy upgrade offer raw media check senior";
+var mnemonic = "another trend shrimp income drama phrase unlock replace forest unique gown approve";

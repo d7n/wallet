@@ -1,1 +1,1 @@
-var mnemonic = "second shine champion middle moment display glass maple grape bread hybrid parrot";
+var mnemonic = "afford loop case bid motor brand cage expose mimic hotel neutral high";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket vague sheriff bamboo enrich truth symptom science roof shrug visa dish";
+var mnemonic = "body fragile poverty scout town useful wear normal curious lock outer spike";

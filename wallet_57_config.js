@@ -1,1 +1,1 @@
-var mnemonic = "weasel such judge shuffle destroy cradle floor solar august fox festival solution";
+var mnemonic = "west debate rude wife gorilla crew response develop motor moral fat alcohol";

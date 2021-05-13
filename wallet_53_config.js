@@ -1,1 +1,1 @@
-var mnemonic = "soda amazing design else trigger drastic learn apple tissue math bachelor amount";
+var mnemonic = "always hire local nation machine cash excess crawl parade giraffe mule worth";

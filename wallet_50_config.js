@@ -1,1 +1,1 @@
-var mnemonic = "then lucky security stove physical diet action tomato agent industry power expand";
+var mnemonic = "debate toy belt cannon vanish bid afford wonder risk latin furnace imitate";

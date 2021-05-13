@@ -1,1 +1,1 @@
-var mnemonic = "next wish radio dish goddess follow start phrase enemy spawn govern genius";
+var mnemonic = "then sing thank leisure critic obvious jelly tail input rotate foam dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble sail admit remain item grief trick cherry merge normal funny ice";
+var mnemonic = "stable record shift hospital slogan orphan cave canvas vacuum circle merge enhance";

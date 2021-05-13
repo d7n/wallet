@@ -1,1 +1,1 @@
-var mnemonic = "exclude panel issue merry appear happy stable assist bitter simple curve dinner";
+var mnemonic = "fashion exile include false verb butter tag promote predict depth vintage athlete";

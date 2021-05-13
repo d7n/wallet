@@ -1,1 +1,1 @@
-var mnemonic = "glimpse clog near script invite echo knock logic moral image fitness dial";
+var mnemonic = "pumpkin shrimp sign frozen tunnel nasty desert soccer moral route bind crouch";

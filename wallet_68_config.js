@@ -1,1 +1,1 @@
-var mnemonic = "lend clinic live design notice design tunnel funny movie weapon bid session";
+var mnemonic = "loop small world sort elite globe weather involve detail brass master cable";

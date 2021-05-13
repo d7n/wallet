@@ -1,1 +1,1 @@
-var mnemonic = "critic buffalo crawl donor club toilet aspect throw spoil laptop odor book";
+var mnemonic = "laptop artefact time share carpet rhythm wing victory add fabric chief art";

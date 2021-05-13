@@ -1,1 +1,1 @@
-var mnemonic = "chimney change ski crunch barrel flight matter play room frown measure buzz";
+var mnemonic = "clarify hub music dirt possible climb okay warrior oxygen benefit match better";

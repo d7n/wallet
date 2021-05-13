@@ -1,1 +1,1 @@
-var mnemonic = "stumble shop bus cancel wool diary insect culture shed name barely pottery";
+var mnemonic = "type grunt bless jar emerge ahead exile door foil giant shine apart";

@@ -1,1 +1,1 @@
-var mnemonic = "token leg reason rib usage shift sea believe message sand inflict pottery";
+var mnemonic = "basket drift unfold left ethics glare real alarm omit screen afford harvest";

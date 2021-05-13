@@ -1,1 +1,1 @@
-var mnemonic = "seat reveal deny chapter soft real stone chair predict certain client name";
+var mnemonic = "vital hood myself palm current flavor gun advance frown syrup segment left";

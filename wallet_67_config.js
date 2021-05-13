@@ -1,1 +1,1 @@
-var mnemonic = "stand decide trumpet parent distance envelope lyrics chimney spirit volcano unveil relax";
+var mnemonic = "banner train museum flush another that art path amateur dignity vibrant ball";

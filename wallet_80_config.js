@@ -1,1 +1,1 @@
-var mnemonic = "dignity kitten nice shallow win tongue hedgehog category time option wreck crumble";
+var mnemonic = "very express pizza camera explain tongue mind similar tilt later tobacco gun";

@@ -1,1 +1,1 @@
-var mnemonic = "brother clock rhythm design river route arrest casual holiday coffee fury juice";
+var mnemonic = "much apple vault palm news tilt wedding proud enough frozen mass again";

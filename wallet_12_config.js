@@ -1,1 +1,1 @@
-var mnemonic = "opinion squirrel defense once infant twist smoke symbol uncle muscle law gospel";
+var mnemonic = "foot lawsuit acquire shed tomato vanish tail laptop damage valley eternal trust";
