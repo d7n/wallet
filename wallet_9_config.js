@@ -1,1 +1,1 @@
-var mnemonic = "help fine swallow record mosquito exit color ill tomato note remain talent";
+var mnemonic = "beauty concert become design melt drive ship hollow clutch doll donkey burger";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster meat squeeze hope vague tool dune stable turtle crumble blast abuse";
+var mnemonic = "country glove correct pepper borrow soccer assault attack firm ring attack student";

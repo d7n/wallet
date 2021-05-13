@@ -1,1 +1,1 @@
-var mnemonic = "sun cabbage cost arch wrestle save moral island mercy enough shine sea";
+var mnemonic = "text double task orchard twenty minor multiply inherit swap elder patient alone";

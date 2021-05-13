@@ -1,1 +1,1 @@
-var mnemonic = "obscure shield cheap mixture much cake draw retreat update fold expire guard";
+var mnemonic = "ill stock humor test churn capital document swamp earth metal critic february";

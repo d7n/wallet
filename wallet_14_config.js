@@ -1,1 +1,1 @@
-var mnemonic = "boy neglect art despair tongue quit limit strategy absent vacant imitate rate";
+var mnemonic = "giant man muscle hello quality raise trade problem brother shaft move devote";

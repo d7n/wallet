@@ -1,1 +1,1 @@
-var mnemonic = "pioneer actual always prison have magic smile exchange about song lock expect";
+var mnemonic = "brick pretty ancient tenant case nut ask screen file veteran brown mango";

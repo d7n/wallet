@@ -1,1 +1,1 @@
-var mnemonic = "believe slam safe wire tomato word increase use noble budget such release";
+var mnemonic = "choose melt forum canvas short unaware decorate abandon ordinary boil often project";

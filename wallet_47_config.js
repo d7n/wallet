@@ -1,1 +1,1 @@
-var mnemonic = "any lonely sure same violin card blood tornado fan muscle problem thumb";
+var mnemonic = "build happy move olive shuffle swim hospital cruise dream donor trigger sad";

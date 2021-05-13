@@ -1,1 +1,1 @@
-var mnemonic = "gap hen flash use joke mistake under oven stadium child click twist";
+var mnemonic = "task mobile stumble invest mass scene close discover forget oblige peanut video";

@@ -1,1 +1,1 @@
-var mnemonic = "claim tuna like category zero buzz agent flush topple hen idea butter";
+var mnemonic = "nerve cactus speed reduce pull modify thing rebel bridge seven august accident";

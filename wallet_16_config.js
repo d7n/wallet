@@ -1,1 +1,1 @@
-var mnemonic = "harbor reason service radio become stay camp job chest high satoshi spray";
+var mnemonic = "hamster side frozen rough nothing rocket private claw dismiss talent club rule";

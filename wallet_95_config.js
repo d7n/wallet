@@ -1,1 +1,1 @@
-var mnemonic = "soccer scrub better concert prepare text account upset remove divorce athlete summer";
+var mnemonic = "brick tongue clog burst talk act guide trial grit robot behave trouble";

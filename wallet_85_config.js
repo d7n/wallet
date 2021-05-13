@@ -1,1 +1,1 @@
-var mnemonic = "common sentence talk guitar oil scrub right inherit aisle silver key depth";
+var mnemonic = "suspect tennis exhaust cabin boring sample spin frame design index fetch summer";

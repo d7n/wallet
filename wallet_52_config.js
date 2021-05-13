@@ -1,1 +1,1 @@
-var mnemonic = "age december latin leave auto dizzy apple season flame umbrella injury false";
+var mnemonic = "beach rifle double idle climb way harvest old appear champion trend ship";

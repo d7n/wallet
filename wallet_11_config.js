@@ -1,1 +1,1 @@
-var mnemonic = "mix play flight casual broken super consider battle champion original hat motion";
+var mnemonic = "place film obtain spy cannon popular daring broken torch pole shine tuna";

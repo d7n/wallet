@@ -1,1 +1,1 @@
-var mnemonic = "industry burger little slush grain endless spoon round gaze trick online mask";
+var mnemonic = "all science body sand rebuild sustain weasel math city leader legal display";

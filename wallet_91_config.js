@@ -1,1 +1,1 @@
-var mnemonic = "deny crime glass sentence purity wet prize belt negative what width gown";
+var mnemonic = "hawk cancel level strategy december canoe credit slight various assume visa soap";

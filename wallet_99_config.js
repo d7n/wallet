@@ -1,1 +1,1 @@
-var mnemonic = "empty east garment label spread liar tooth concert minor isolate short video";
+var mnemonic = "kingdom scissors test hood clutch universe dice fat wrap word riot cabbage";

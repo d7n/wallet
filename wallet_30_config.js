@@ -1,1 +1,1 @@
-var mnemonic = "sock ski cattle hurdle climb pear parrot danger tunnel valid sniff fire";
+var mnemonic = "lyrics mandate one dove truly tank pepper marine gun clown jacket opera";

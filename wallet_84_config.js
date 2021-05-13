@@ -1,1 +1,1 @@
-var mnemonic = "useful dumb smoke return elite limb delay cabin patch spoon auction dad";
+var mnemonic = "bind vast certain skate lady flee lounge ritual virus excite height ticket";

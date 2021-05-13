@@ -1,1 +1,1 @@
-var mnemonic = "rare dinner ride name shaft hole dad recipe surface noise adapt dice";
+var mnemonic = "special fossil snake expose vacuum scorpion magnet insane rely service cute island";

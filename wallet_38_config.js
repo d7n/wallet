@@ -1,1 +1,1 @@
-var mnemonic = "adult repeat era regret genre deliver version lucky vapor still media expand";
+var mnemonic = "fly discover neutral recipe jungle shield hospital anxiety kiwi company impulse ramp";

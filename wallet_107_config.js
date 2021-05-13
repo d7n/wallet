@@ -1,1 +1,1 @@
-var mnemonic = "machine cave loan put govern obscure secret spawn order slender number kiwi";
+var mnemonic = "abstract render gadget gorilla carry matter boost diamond snake sleep scatter person";

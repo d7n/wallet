@@ -1,1 +1,1 @@
-var mnemonic = "bag benefit female speak exclude dirt fluid proud toast fatal panel copper";
+var mnemonic = "section portion auction short lawn economy despair fluid miss shock tail avoid";

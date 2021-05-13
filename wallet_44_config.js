@@ -1,1 +1,1 @@
-var mnemonic = "recipe expire glad poverty address describe express case capable cream twin will";
+var mnemonic = "govern clutch drill news increase rib chunk pottery proud enrich luggage decline";

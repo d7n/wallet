@@ -1,1 +1,1 @@
-var mnemonic = "verify reject this napkin similar deny skate fiscal income execute twist cabin";
+var mnemonic = "trial couch renew spot shrug board negative balance spread dress top manage";

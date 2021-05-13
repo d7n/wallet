@@ -1,1 +1,1 @@
-var mnemonic = "female empower suspect man juice say stage service joy champion notable art";
+var mnemonic = "celery iron balcony million creek hill debris merit wrong lonely bronze math";

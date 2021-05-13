@@ -1,1 +1,1 @@
-var mnemonic = "pelican giraffe stereo slot evoke debris spare brush sick snake woman habit";
+var mnemonic = "album donkey loyal over decorate horror glimpse biology ignore simple wait mean";

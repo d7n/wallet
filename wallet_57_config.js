@@ -1,1 +1,1 @@
-var mnemonic = "layer leg siren scrap twenty view final flip shock screen huge abstract";
+var mnemonic = "grain cover shell squirrel rug lock enlist bar captain quote glue page";

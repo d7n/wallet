@@ -1,1 +1,1 @@
-var mnemonic = "ship milk refuse dress pig foam pencil bench guilt awake vote deal";
+var mnemonic = "rapid rib jelly slogan decline galaxy ski north dawn follow gather crack";

@@ -1,1 +1,1 @@
-var mnemonic = "excess oppose jacket era regret hub expire main meadow alarm enter silk";
+var mnemonic = "whale truck because frame shoot ceiling isolate plastic sentence dolphin million bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "legend mutual keep famous once market orient camp crazy minor gorilla main";
+var mnemonic = "eight gold choice once gentle obtain junior paddle clinic rebel effort goddess";

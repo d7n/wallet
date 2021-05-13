@@ -1,1 +1,1 @@
-var mnemonic = "apology moon grape rough hazard endorse exchange please medal pill discover print";
+var mnemonic = "bleak pet focus deal fringe vapor rose unfair mirror second brisk hybrid";

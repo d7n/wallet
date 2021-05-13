@@ -1,1 +1,1 @@
-var mnemonic = "ritual inch popular coach elevator cushion fossil oyster diary lucky resource sun";
+var mnemonic = "canoe what gorilla fatigue hunt caution museum fame visit divide lawsuit curious";

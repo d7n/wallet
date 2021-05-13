@@ -1,1 +1,1 @@
-var mnemonic = "ship hill solar stereo make stay pen above ankle puppy verify rocket";
+var mnemonic = "clever loop jelly pioneer mango solar hold thing rebuild index oyster myth";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor initial scorpion rug scatter behave sister toddler duty family actor spoon";
+var mnemonic = "ahead merry borrow label discover item train layer ensure prize toss zero";

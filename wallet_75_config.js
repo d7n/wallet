@@ -1,1 +1,1 @@
-var mnemonic = "range agent banner sketch begin anchor monster elegant copy cruise lamp clarify";
+var mnemonic = "tide desk soda rely elder wild wool wrist tennis around keep drastic";

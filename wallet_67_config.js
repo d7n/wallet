@@ -1,1 +1,1 @@
-var mnemonic = "lens secret jealous knee glance you feed safe forest mention syrup box";
+var mnemonic = "shiver moment mutual image fantasy jump sense toy sibling energy require seat";

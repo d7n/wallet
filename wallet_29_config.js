@@ -1,1 +1,1 @@
-var mnemonic = "topic involve faint wonder together address virus labor betray issue guess sentence";
+var mnemonic = "cube large nuclear raise you raw three name recall fame priority poet";

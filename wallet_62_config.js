@@ -1,1 +1,1 @@
-var mnemonic = "able basket salt lunch stage shrimp kitchen twenty gain baby horror solar";
+var mnemonic = "veteran mom mechanic fit unaware swift genuine salad energy obscure response symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "fade fetch prefer axis october fall certain stomach lecture amount explain talk";
+var mnemonic = "scale fine very rate prevent mad chase small express tornado van wave";

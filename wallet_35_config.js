@@ -1,1 +1,1 @@
-var mnemonic = "wear chef fiber winner pink spin hood dry dynamic rhythm violin beach";
+var mnemonic = "lunch squeeze surround over lobster crash frost april another wreck unlock rifle";

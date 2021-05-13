@@ -1,1 +1,1 @@
-var mnemonic = "parrot soft sorry frown vehicle copy state sustain client summer vacuum extra";
+var mnemonic = "actress like swear puppy step scorpion balance replace help mountain photo turkey";

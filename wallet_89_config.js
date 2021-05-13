@@ -1,1 +1,1 @@
-var mnemonic = "desk female saddle panda brick kangaroo nominee rigid best evil manage rescue";
+var mnemonic = "search cloth cradle gentle occur cream envelope voice edit lumber runway sound";

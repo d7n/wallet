@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow moon ghost hint planet gap output trial labor genre sketch drift";
+var mnemonic = "pulse ball other oppose jealous company raccoon kit delay fault awkward reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "electric balcony pencil stay ritual fossil smoke awesome swallow thank dizzy verify";
+var mnemonic = "vital judge young move table discover reward flight rate joke midnight taxi";

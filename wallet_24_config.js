@@ -1,1 +1,1 @@
-var mnemonic = "chef scorpion bulb since aware vanish survey surprise web unfair leg prison";
+var mnemonic = "engage cross crowd local employ small absorb thing simple until stable behave";

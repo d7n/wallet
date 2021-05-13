@@ -1,1 +1,1 @@
-var mnemonic = "erosion axis donate cream disorder body slab zoo antenna obtain drink photo";
+var mnemonic = "salad initial bundle require avocado usage now burger other announce judge sniff";

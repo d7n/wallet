@@ -1,1 +1,1 @@
-var mnemonic = "tackle horse lunch bid space display grain circle essence dad begin mercy";
+var mnemonic = "brain yard index ignore rude lend matter coil fatigue scene dust consider";

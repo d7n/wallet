@@ -1,1 +1,1 @@
-var mnemonic = "pole lounge night increase begin advice salon romance ramp camp play swap";
+var mnemonic = "chase retreat quick aspect eye all april loan until zebra saddle insect";

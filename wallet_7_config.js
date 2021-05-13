@@ -1,1 +1,1 @@
-var mnemonic = "elephant ostrich nothing fog bright razor decline damage allow elephant bird aerobic";
+var mnemonic = "toilet club viable toward royal ball runway bamboo solid zone insect seat";

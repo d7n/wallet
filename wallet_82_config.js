@@ -1,1 +1,1 @@
-var mnemonic = "jealous bulk dinosaur object arrive bar frog symptom raven athlete assume maximum";
+var mnemonic = "tortoise vital mother clock wide kitchen barely asset author crane question achieve";

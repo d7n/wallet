@@ -1,1 +1,1 @@
-var mnemonic = "soup lava two tower blush thank slide caution fat other beauty oil";
+var mnemonic = "able dove ivory brown output wave minute mind virus river bench donate";

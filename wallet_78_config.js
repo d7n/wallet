@@ -1,1 +1,1 @@
-var mnemonic = "zoo dilemma learn flock scrub goat sheriff mutual culture resource border rally";
+var mnemonic = "warfare robot estate salon hood assault subway april soap crunch ability tape";

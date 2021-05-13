@@ -1,1 +1,1 @@
-var mnemonic = "peasant moon render nuclear distance frost paddle filter twelve tilt enough pause";
+var mnemonic = "gym cricket thought peanut only still clay sunny image ship toddler asset";

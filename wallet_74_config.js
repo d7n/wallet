@@ -1,1 +1,1 @@
-var mnemonic = "loop desert avocado kitten settle catalog drip cat flat chase tool ivory";
+var mnemonic = "denial change gossip auto hub key quantum sight lens stool horse bar";

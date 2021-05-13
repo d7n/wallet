@@ -1,1 +1,1 @@
-var mnemonic = "mother color disorder resemble issue thank suit grief danger test firm wire";
+var mnemonic = "humble exact jump sentence width over theory team dog index ball own";

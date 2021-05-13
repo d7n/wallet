@@ -1,1 +1,1 @@
-var mnemonic = "wide impose ketchup stay neither argue about crater into grain boy kid";
+var mnemonic = "quiz save pyramid vocal outdoor wagon cigar balcony accident fetch exotic twin";

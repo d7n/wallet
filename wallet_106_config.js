@@ -1,1 +1,1 @@
-var mnemonic = "push render gain reduce employ asset skirt dinner inside young issue quote";
+var mnemonic = "peasant whip cinnamon faith brand six horror globe paper ahead long grain";

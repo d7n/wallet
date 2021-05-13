@@ -1,1 +1,1 @@
-var mnemonic = "swallow guess harbor silly slow powder chalk nerve labor fringe trust excess";
+var mnemonic = "swift butter you violin layer base crazy heart design hidden voice author";

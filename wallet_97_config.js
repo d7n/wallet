@@ -1,1 +1,1 @@
-var mnemonic = "negative cancel truly life public flock blast vague faculty unveil exercise ball";
+var mnemonic = "just post unable rookie legend diary skirt identify army beach summer wait";

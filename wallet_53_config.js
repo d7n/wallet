@@ -1,1 +1,1 @@
-var mnemonic = "arrive police absent close fog impulse forget suggest purse room angry rich";
+var mnemonic = "dose cotton range ill rice return claw estate mutual adult monitor dune";

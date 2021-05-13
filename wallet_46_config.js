@@ -1,1 +1,1 @@
-var mnemonic = "clown awesome patrol call van aware flower pilot relax setup smooth detail";
+var mnemonic = "usual hedgehog census price height catch social jazz cradle adult kitten pistol";

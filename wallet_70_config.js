@@ -1,1 +1,1 @@
-var mnemonic = "solve super measure squirrel empty mouse mammal fence method prize access warfare";
+var mnemonic = "chief acid artist wisdom polar rigid hover manage taste program giant celery";

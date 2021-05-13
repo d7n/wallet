@@ -1,1 +1,1 @@
-var mnemonic = "ten reform black absorb first civil quality flip skill little label stone";
+var mnemonic = "will together stable witness rough wait sell drop object dry cream unhappy";

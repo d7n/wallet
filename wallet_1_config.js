@@ -1,1 +1,1 @@
-var mnemonic = "foil valve suspect method rescue hub popular nominee combine whip expand addict";
+var mnemonic = "resemble horn train flavor vacant pause exclude guess century camera shove safe";

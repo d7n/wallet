@@ -1,1 +1,1 @@
-var mnemonic = "faith monitor garage damp luxury slogan task office alter year jewel version";
+var mnemonic = "join glimpse path safe sketch menu smile grid snack gesture close whale";

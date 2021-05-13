@@ -1,1 +1,1 @@
-var mnemonic = "park crystal element shrug pyramid oil lazy arrive oval index abstract you";
+var mnemonic = "panda force payment kidney loop avocado special quit goddess negative inmate suffer";

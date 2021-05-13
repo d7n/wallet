@@ -1,1 +1,1 @@
-var mnemonic = "trap gown brush easy sister month ugly portion police now drift eight";
+var mnemonic = "zebra buzz lens upgrade reflect book issue type wool hire comfort start";

@@ -1,1 +1,1 @@
-var mnemonic = "skin citizen bulk ensure scrub range pool charge man fabric smile exclude";
+var mnemonic = "weasel success since excite drink promote odor stock banner hurt issue crucial";

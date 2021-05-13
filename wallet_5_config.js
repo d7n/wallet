@@ -1,1 +1,1 @@
-var mnemonic = "vibrant bench adult crop bonus iron auto ask pool tool curious save";
+var mnemonic = "detect rail armor empty mammal damp useful diary disagree innocent indoor region";

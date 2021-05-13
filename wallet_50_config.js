@@ -1,1 +1,1 @@
-var mnemonic = "energy bridge baby absorb crucial plate funny twenty glove lady bridge robust";
+var mnemonic = "imitate entire weekend clap baby age zoo oxygen rival eight amused extra";

@@ -1,1 +1,1 @@
-var mnemonic = "claim crazy buyer family dad wood toe end exclude bubble ahead federal";
+var mnemonic = "title topple sure gasp mountain lady flash tornado stadium engine large company";

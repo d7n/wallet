@@ -1,1 +1,1 @@
-var mnemonic = "left window call priority attend donor orbit solar term double reward this";
+var mnemonic = "access order spoil tool goddess scrap shrimp slow very slide option seek";

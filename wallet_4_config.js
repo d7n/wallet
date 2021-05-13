@@ -1,1 +1,1 @@
-var mnemonic = "spare foam salmon avoid force increase supreme fun awake this option mirror";
+var mnemonic = "federal dolphin gesture glide benefit fence chef raise canvas match concert pilot";

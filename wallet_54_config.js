@@ -1,1 +1,1 @@
-var mnemonic = "margin elbow ripple barrel cliff busy bracket labor illegal crumble grape lawsuit";
+var mnemonic = "inch monitor cluster away wedding pipe film hen settle already injury boy";

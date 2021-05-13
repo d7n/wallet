@@ -1,1 +1,1 @@
-var mnemonic = "trade jelly middle slab soap erode domain smoke merry guitar avocado yellow";
+var mnemonic = "world salt sibling truck team boy easy weather friend roof already arch";

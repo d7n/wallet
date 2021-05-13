@@ -1,1 +1,1 @@
-var mnemonic = "join usage lunar toddler beach shop pitch alter electric nerve dice arrange";
+var mnemonic = "catalog stool child cute boring limit multiply pond transfer emerge grant hip";

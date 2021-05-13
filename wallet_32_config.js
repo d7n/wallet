@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit early wet goose boost seminar hidden bottom grass leader equip escape";
+var mnemonic = "memory scare south kitten rhythm pyramid pact shield smart verb clown intact";

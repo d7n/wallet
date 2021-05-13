@@ -1,1 +1,1 @@
-var mnemonic = "meat crumble slight buzz drop abandon game fan lock must dismiss asthma";
+var mnemonic = "fat harbor drip observe oyster claim ceiling wash wisdom metal sword team";

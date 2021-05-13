@@ -1,1 +1,1 @@
-var mnemonic = "broom analyst dog process brave provide life youth better bus tree fetch";
+var mnemonic = "script naive nice bundle evoke tired island lunar radar achieve pipe share";

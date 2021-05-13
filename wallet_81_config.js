@@ -1,1 +1,1 @@
-var mnemonic = "afford pigeon various pony inspire property nature drill obscure bitter rug donkey";
+var mnemonic = "pupil help holiday hole blur celery oyster setup recycle eyebrow chat waste";

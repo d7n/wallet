@@ -1,1 +1,1 @@
-var mnemonic = "enrich couple exhibit bag north category still victory gas report neutral cross";
+var mnemonic = "dizzy month live drama jelly era fence antique legal jaguar grunt horse";

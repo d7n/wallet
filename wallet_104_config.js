@@ -1,1 +1,1 @@
-var mnemonic = "output legend violin large age street energy margin permit jaguar health noodle";
+var mnemonic = "kitchen diamond amused armed merit puzzle zone armor until scheme pluck rally";

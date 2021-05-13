@@ -1,1 +1,1 @@
-var mnemonic = "water oblige maze lamp hungry alcohol pencil castle sell bid nose similar";
+var mnemonic = "anxiety nuclear often gasp mammal suspect suit cross slam chicken treat fire";
