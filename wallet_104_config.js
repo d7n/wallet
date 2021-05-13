@@ -1,1 +1,1 @@
-var mnemonic = "mimic always sock stool jump dose galaxy cruel update win sort crucial";
+var mnemonic = "mother vapor tattoo patient resource crew sausage nothing tip sign police edge";

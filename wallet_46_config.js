@@ -1,1 +1,1 @@
-var mnemonic = "garage bitter cradle ice gallery awful bread bench dragon rule army cliff";
+var mnemonic = "item now cigar cover lava exit invest excuse loyal page hire ketchup";

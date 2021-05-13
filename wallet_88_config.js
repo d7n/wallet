@@ -1,1 +1,1 @@
-var mnemonic = "embody leopard display solve black artwork double limb august mind among cruel";
+var mnemonic = "young wedding scissors slide embark purpose logic bronze various certain quantum craft";

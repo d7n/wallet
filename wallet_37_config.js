@@ -1,1 +1,1 @@
-var mnemonic = "spin mom flight demand lab sketch shove inject settle narrow soda truck";
+var mnemonic = "silent slab segment require heart resist relax route melody army response relief";

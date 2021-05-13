@@ -1,1 +1,1 @@
-var mnemonic = "input glue moon imitate volcano fitness author path puppy wish era mosquito";
+var mnemonic = "recycle glance century illness hood chunk panther crash mobile soft unusual hip";

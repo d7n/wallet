@@ -1,1 +1,1 @@
-var mnemonic = "muscle coach pass addict style double absurd rabbit ship cricket pitch belt";
+var mnemonic = "cute oil oyster habit illegal hen topple winter market accident beyond artist";

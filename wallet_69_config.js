@@ -1,1 +1,1 @@
-var mnemonic = "decline near comfort odor image acid broccoli under patient bicycle path stairs";
+var mnemonic = "mouse dad attitude close quick survey broccoli acquire endorse tonight network decide";

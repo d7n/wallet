@@ -1,1 +1,1 @@
-var mnemonic = "rocket elephant glare improve taxi kind cannon soldier immense wish van vocal";
+var mnemonic = "yard side observe rent attend panic radar broom group wood despair exact";

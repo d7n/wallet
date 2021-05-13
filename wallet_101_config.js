@@ -1,1 +1,1 @@
-var mnemonic = "screen upset few office manual hunt below sign moment consider source napkin";
+var mnemonic = "drum embrace tide brush fork enact student truth adjust cool omit water";

@@ -1,1 +1,1 @@
-var mnemonic = "broom clog fatal giraffe labor yard twice divorce buyer bulb curtain inch";
+var mnemonic = "speak answer cry dream rate river riot tooth expect bread collect stadium";

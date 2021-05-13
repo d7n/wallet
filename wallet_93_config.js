@@ -1,1 +1,1 @@
-var mnemonic = "caught lecture physical receive trash park swear you buffalo same metal differ";
+var mnemonic = "social need poet opera sun final ask welcome nothing hurry eye figure";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual sentence sponsor net outer time bless couple core glimpse coil salute";
+var mnemonic = "swamp utility mountain crush adjust lab leisure uphold undo language admit lift";

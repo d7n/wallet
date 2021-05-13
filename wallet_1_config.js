@@ -1,1 +1,1 @@
-var mnemonic = "pelican rug century bottom waste approve explain gadget dice jewel sheriff august";
+var mnemonic = "there grass accuse area bean aware duck episode napkin pencil clock gate";

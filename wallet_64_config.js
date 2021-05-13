@@ -1,1 +1,1 @@
-var mnemonic = "charge cancel pride wear grief valley galaxy deliver inch concert steel region";
+var mnemonic = "fee olive river salute gallery ethics canyon enact fade foil make debate";

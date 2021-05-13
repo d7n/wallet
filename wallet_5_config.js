@@ -1,1 +1,1 @@
-var mnemonic = "valid guilt they scene super during friend awake skill buzz blame feed";
+var mnemonic = "grain song modify turtle sorry stadium bread fitness reject ecology sniff owner";

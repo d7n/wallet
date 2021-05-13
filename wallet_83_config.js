@@ -1,1 +1,1 @@
-var mnemonic = "scan moment rose aunt stadium govern hold cry kitchen brain sorry spare";
+var mnemonic = "noise eight father invest man remind outside point hat gap build kangaroo";

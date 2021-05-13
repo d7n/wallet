@@ -1,1 +1,1 @@
-var mnemonic = "shock leaf quote fiction extra fancy hour stem brown speak arch lemon";
+var mnemonic = "genre trade ship suggest length water calm despair drama inch health prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow artefact slush fancy process hedgehog grain cheap crack brown hawk satisfy";
+var mnemonic = "cherry sentence sausage oppose trade mutual renew rib tobacco ritual wheat layer";

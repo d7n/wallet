@@ -1,1 +1,1 @@
-var mnemonic = "mystery damp cinnamon mind invite asthma fix opera shove enhance invite retire";
+var mnemonic = "hurry assume predict involve jump involve before chaos eager shield truck call";

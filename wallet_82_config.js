@@ -1,1 +1,1 @@
-var mnemonic = "only degree poem foam amazing hybrid theme grace vintage length grant hill";
+var mnemonic = "divorce piece amount keep topic struggle canoe moment few chimney ensure problem";

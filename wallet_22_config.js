@@ -1,1 +1,1 @@
-var mnemonic = "embody credit cycle strike entire slow drop flower sphere wild already loop";
+var mnemonic = "crater banana guard climb hand ensure riot arrive order together canvas above";

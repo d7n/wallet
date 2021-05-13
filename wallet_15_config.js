@@ -1,1 +1,1 @@
-var mnemonic = "cannon confirm bulk shock educate park forward flee hunt disagree urge bundle";
+var mnemonic = "drift bleak imitate detail trash moral sad cave piano beyond general nephew";

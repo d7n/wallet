@@ -1,1 +1,1 @@
-var mnemonic = "sketch text alter couch shoot sell extend gold diet turn blind ahead";
+var mnemonic = "pattern sad unable upon quality front mercy slender clock approve regret inform";

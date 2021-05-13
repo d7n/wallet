@@ -1,1 +1,1 @@
-var mnemonic = "hard skin game soft exile oppose text fragile suit gorilla volcano clay";
+var mnemonic = "market essence essence identify embody note rocket provide garment charge acid festival";

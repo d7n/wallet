@@ -1,1 +1,1 @@
-var mnemonic = "stadium require jealous salmon turkey fantasy frown any cluster grab soup unaware";
+var mnemonic = "army coffee sign nerve round script situate certain merit essence idle episode";

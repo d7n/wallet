@@ -1,1 +1,1 @@
-var mnemonic = "puzzle bottom cup food rubber beef final talk pen lemon type catalog";
+var mnemonic = "over nuclear bid diesel angry pond office delay arena mother meat way";

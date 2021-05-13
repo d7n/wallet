@@ -1,1 +1,1 @@
-var mnemonic = "occur flash labor tail van gentle inherit skin cotton can task phone";
+var mnemonic = "shuffle polar learn bike celery hood around ankle escape offer release control";

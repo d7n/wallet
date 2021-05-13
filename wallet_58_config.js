@@ -1,1 +1,1 @@
-var mnemonic = "banana often local kite ribbon soul picture visual unhappy inform penalty boring";
+var mnemonic = "another abstract price soap prize auction cycle orbit short blush limit tornado";

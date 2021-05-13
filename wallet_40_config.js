@@ -1,1 +1,1 @@
-var mnemonic = "open question solid improve alarm once success siege below carpet inflict response";
+var mnemonic = "stereo lava desk fabric river pet easily wasp mirror hill hand angry";

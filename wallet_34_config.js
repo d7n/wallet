@@ -1,1 +1,1 @@
-var mnemonic = "better quote evoke photo bag force turn result burst actual width round";
+var mnemonic = "narrow grant flat board admit length food false federal trim believe foster";

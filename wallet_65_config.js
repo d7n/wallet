@@ -1,1 +1,1 @@
-var mnemonic = "proud canyon say spatial embrace elephant confirm able pond coffee error mother";
+var mnemonic = "cup prize tell spoon tank adjust alone shaft eyebrow accuse naive lion";

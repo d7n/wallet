@@ -1,1 +1,1 @@
-var mnemonic = "price letter crew rib river object air record electric eye another hundred";
+var mnemonic = "jaguar engine width armed sock spy hire era bomb sound apart attitude";

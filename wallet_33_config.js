@@ -1,1 +1,1 @@
-var mnemonic = "kick clutch stock seminar palace treat you travel tray symbol skate soup";
+var mnemonic = "note squeeze fade flat kid proof athlete layer sheriff shrug useless seminar";

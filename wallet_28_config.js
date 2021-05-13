@@ -1,1 +1,1 @@
-var mnemonic = "army green kind long across game cricket pepper hand spawn myth swing";
+var mnemonic = "announce crane permit neglect desk rely regret hill manual witness soon correct";

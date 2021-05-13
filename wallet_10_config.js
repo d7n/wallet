@@ -1,1 +1,1 @@
-var mnemonic = "jealous raise private sudden stay promote hold sausage organ task similar bench";
+var mnemonic = "forget disease case worth square recall surprise genius electric make clock crash";

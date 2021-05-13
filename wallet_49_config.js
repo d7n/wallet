@@ -1,1 +1,1 @@
-var mnemonic = "wasp violin cool symbol humor swim save undo now ten garment boring";
+var mnemonic = "inspire bronze guard hood elevator web field ten mimic sick luxury immune";

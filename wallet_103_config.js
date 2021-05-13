@@ -1,1 +1,1 @@
-var mnemonic = "surround life caution lens quantum size rare vivid write shrimp waste daring";
+var mnemonic = "depart near shaft siege chef web rug mail unaware side face broccoli";

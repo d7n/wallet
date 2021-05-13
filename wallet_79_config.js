@@ -1,1 +1,1 @@
-var mnemonic = "document tonight three settle doctor also sell slide trip upon husband menu";
+var mnemonic = "word clever boil skin space once film guess sweet worth basket choose";

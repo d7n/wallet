@@ -1,1 +1,1 @@
-var mnemonic = "rate soft enroll pride science shuffle over obscure work around salmon twin";
+var mnemonic = "emerge early artefact various hover grocery prevent seek soft solution jazz draft";

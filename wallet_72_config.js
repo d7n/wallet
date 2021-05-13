@@ -1,1 +1,1 @@
-var mnemonic = "gap actress settle carpet olive rude boy wheat already fit embody into";
+var mnemonic = "pill where resemble you regular basic artefact top recipe opera palm weasel";

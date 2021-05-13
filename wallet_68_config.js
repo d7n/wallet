@@ -1,1 +1,1 @@
-var mnemonic = "pass toddler cherry peasant police glad jacket wink stock dentist sibling certain";
+var mnemonic = "finish island know file return later erase dirt company exit flavor require";

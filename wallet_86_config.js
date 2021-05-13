@@ -1,1 +1,1 @@
-var mnemonic = "rose divert suggest derive demand clutch blush wool ready bounce replace what";
+var mnemonic = "assault achieve keen skate swamp road december conduct because execute flip cream";

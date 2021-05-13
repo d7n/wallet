@@ -1,1 +1,1 @@
-var mnemonic = "into alley wing cable sphere garlic ocean wish voyage month hurry wrap";
+var mnemonic = "bridge surround radio whip subway journey venue venue timber soap magnet rabbit";

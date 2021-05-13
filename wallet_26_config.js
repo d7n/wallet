@@ -1,1 +1,1 @@
-var mnemonic = "degree only husband film holiday blur limit song decade retire friend breeze";
+var mnemonic = "summer icon twin else domain cart mad hair bright connect lumber portion";

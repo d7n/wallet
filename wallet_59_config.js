@@ -1,1 +1,1 @@
-var mnemonic = "level disagree stable satoshi win better debris rookie empty crop monster hurry";
+var mnemonic = "hungry lonely demand post access like party method brain forest swim october";

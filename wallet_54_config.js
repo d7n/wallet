@@ -1,1 +1,1 @@
-var mnemonic = "entry flash often retire yellow people divorce plate company sphere six balcony";
+var mnemonic = "scare reveal rule antenna extend clip network orange joy mutual assault pony";

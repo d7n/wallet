@@ -1,1 +1,1 @@
-var mnemonic = "basket spell model muscle junk one hockey unit song have eternal wheat";
+var mnemonic = "supreme series patch core soldier inmate actress coyote marble kitten govern sound";

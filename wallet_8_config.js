@@ -1,1 +1,1 @@
-var mnemonic = "moon fence warm ripple august lumber human multiply arch kid skirt group";
+var mnemonic = "detect test bread mushroom common scissors fall unknown child width ranch leisure";

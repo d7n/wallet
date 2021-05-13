@@ -1,1 +1,1 @@
-var mnemonic = "park board camp float render slam bench sight unknown apple route cream";
+var mnemonic = "decorate that unhappy bridge traffic reject caught deposit burden mistake sight green";

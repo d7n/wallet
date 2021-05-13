@@ -1,1 +1,1 @@
-var mnemonic = "okay inhale coffee range drill bomb shoe floor begin engage outer opera";
+var mnemonic = "speak clean message dune pumpkin receive unfold fresh hawk patrol bus wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin moment vicious speed patch spin inside rival add tragic match tide";
+var mnemonic = "online vanish ball elevator arm diagram hidden base carry betray three reward";

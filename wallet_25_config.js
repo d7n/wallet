@@ -1,1 +1,1 @@
-var mnemonic = "inform grocery found exact view damp celery hotel excess lion cloud claim";
+var mnemonic = "wheel vital post diary world lawsuit embark adult eight country lesson win";

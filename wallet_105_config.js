@@ -1,1 +1,1 @@
-var mnemonic = "minimum attract fly library song tank coil faculty crowd repair cook brass";
+var mnemonic = "dove stumble until bird pond ripple rude toilet minor furnace remind smart";

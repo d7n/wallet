@@ -1,1 +1,1 @@
-var mnemonic = "harsh combine solve blanket estate few six dry text loan cherry rabbit";
+var mnemonic = "brand spend kingdom hamster upgrade cream infant food common stereo aunt actor";

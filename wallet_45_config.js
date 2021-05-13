@@ -1,1 +1,1 @@
-var mnemonic = "sting law travel wisdom venue intact fat lift fiction inmate wage drama";
+var mnemonic = "angry muscle misery goose weather used plastic home you above length pole";

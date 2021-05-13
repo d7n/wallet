@@ -1,1 +1,1 @@
-var mnemonic = "admit cluster explain hip element hard cook angle either strong kangaroo sun";
+var mnemonic = "embody twenty window muffin shock build champion royal vocal quality display cattle";

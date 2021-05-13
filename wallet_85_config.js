@@ -1,1 +1,1 @@
-var mnemonic = "squeeze connect end hobby adjust silk next vibrant ill wheel rifle flee";
+var mnemonic = "curve burden sample carry meadow arrow ancient only engine crucial question purse";

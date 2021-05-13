@@ -1,1 +1,1 @@
-var mnemonic = "blade animal era print warrior produce weapon fruit insect cute hard filter";
+var mnemonic = "trigger mutual cannon horror broom slogan bus sibling invest random pony pact";

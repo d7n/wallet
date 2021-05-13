@@ -1,1 +1,1 @@
-var mnemonic = "viable speak fashion penalty craft depth off wrap exercise fade adult critic";
+var mnemonic = "awake glory around gas thank actual void clog lawn alpha faint cost";

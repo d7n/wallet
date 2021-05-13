@@ -1,1 +1,1 @@
-var mnemonic = "system ecology scan salute engine million basic end abstract insane used scare";
+var mnemonic = "kingdom stable forward radar sort lyrics sport ensure invite chalk chapter stomach";

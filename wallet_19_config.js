@@ -1,1 +1,1 @@
-var mnemonic = "prevent reward weather fragile small derive fold cabin audit outside topic bone";
+var mnemonic = "need reunion index biology glory sun wet seven tattoo helmet main stool";

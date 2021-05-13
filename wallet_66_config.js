@@ -1,1 +1,1 @@
-var mnemonic = "conduct season core joke kite cycle double torch grab lake planet diet";
+var mnemonic = "warm media layer vacuum cinnamon flower voice invest pull basic coast prize";

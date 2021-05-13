@@ -1,1 +1,1 @@
-var mnemonic = "until plastic tape iron tree pair gather document humor bone cute team";
+var mnemonic = "crucial account forum slogan matter pilot anxiety mass impulse era river attitude";

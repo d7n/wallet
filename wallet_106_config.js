@@ -1,1 +1,1 @@
-var mnemonic = "hero share easy upgrade own measure waste wink year retire swear obtain";
+var mnemonic = "wash lizard daughter animal cactus own sting injury ocean safe tomato actress";

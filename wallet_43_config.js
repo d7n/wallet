@@ -1,1 +1,1 @@
-var mnemonic = "cannon receive true replace noodle item notice quarter promote deposit walk impose";
+var mnemonic = "used hurt slab accident defy common swim swarm digital polar fall entire";

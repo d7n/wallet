@@ -1,1 +1,1 @@
-var mnemonic = "tissue result fence opinion velvet happy police stumble conduct woman method net";
+var mnemonic = "pig seat rival vibrant tone wage earth grass evoke shed captain acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "output crucial know trade tray object suggest april blind amount cycle tunnel";
+var mnemonic = "balcony rally myself siren dust cruise chalk slow trumpet damp express state";

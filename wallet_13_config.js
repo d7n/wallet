@@ -1,1 +1,1 @@
-var mnemonic = "tray hidden border gold attitude shoe style enrich enrich viable sister genre";
+var mnemonic = "retire say state crouch vault have uncle pepper level body shell satoshi";

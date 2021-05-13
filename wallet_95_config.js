@@ -1,1 +1,1 @@
-var mnemonic = "hello approve truth finger kind acid able range title alter youth cushion";
+var mnemonic = "stage market shrimp daring aisle tumble owner potato express pizza genuine few";

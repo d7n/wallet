@@ -1,1 +1,1 @@
-var mnemonic = "century transfer breeze spell romance coral typical inquiry fly olive key razor";
+var mnemonic = "perfect address cattle ensure sheriff balcony penalty flee suit provide current master";

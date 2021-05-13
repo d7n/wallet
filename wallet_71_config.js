@@ -1,1 +1,1 @@
-var mnemonic = "whisper good federal brain celery dove salt share alone oxygen amount dismiss";
+var mnemonic = "dutch address level region pony debris system border wreck coral crop creek";

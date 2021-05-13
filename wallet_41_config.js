@@ -1,1 +1,1 @@
-var mnemonic = "unknown spike emerge crunch violin desert place plunge cube pulp venue allow";
+var mnemonic = "essence segment trip network dice youth join tragic summer gaze kiwi dial";

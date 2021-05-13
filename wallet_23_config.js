@@ -1,1 +1,1 @@
-var mnemonic = "moment tenant master vivid together evoke clutch body protect butter laugh diamond";
+var mnemonic = "milk ugly loan husband page swamp author casino gap creek giant kidney";

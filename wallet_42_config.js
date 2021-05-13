@@ -1,1 +1,1 @@
-var mnemonic = "focus deliver surface march economy track pumpkin saddle error capital grunt mass";
+var mnemonic = "fashion guard carbon solution token nest illegal reopen appear smile solve release";

@@ -1,1 +1,1 @@
-var mnemonic = "pen minute critic blade address thunder unlock wagon piano royal chicken metal";
+var mnemonic = "improve cactus vacant luggage traffic loyal mixture fiscal violin empty web south";

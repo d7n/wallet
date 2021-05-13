@@ -1,1 +1,1 @@
-var mnemonic = "act lesson push mammal because hint smart prosper property horn similar coconut";
+var mnemonic = "arena ordinary true card seven sell tonight measure suit confirm item gallery";

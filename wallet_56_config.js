@@ -1,1 +1,1 @@
-var mnemonic = "include noble squeeze toddler cross parade all wet captain panda smile twin";
+var mnemonic = "adjust payment enforce carpet street minimum summer fork gallery cause logic family";

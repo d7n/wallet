@@ -1,1 +1,1 @@
-var mnemonic = "float any skirt jump battle snap outside phone spray van core define";
+var mnemonic = "point roof furnace girl symptom machine pink budget eager claim please toward";

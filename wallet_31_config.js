@@ -1,1 +1,1 @@
-var mnemonic = "winner gesture juice weather broken pride tonight amazing guitar already above mean";
+var mnemonic = "chef mystery damage truth tooth roast assist fresh cage swear boat below";

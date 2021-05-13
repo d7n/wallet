@@ -1,1 +1,1 @@
-var mnemonic = "glow cement away impact round crawl machine sun pulp raccoon candy what";
+var mnemonic = "century husband smile genre truly dove thank flat camp kind cash jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder curtain snow grain razor clip rose script luxury furnace sheriff later";
+var mnemonic = "utility satisfy payment correct have happy wolf power monster vote put brand";

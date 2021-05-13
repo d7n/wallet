@@ -1,1 +1,1 @@
-var mnemonic = "physical spy pink picture height slogan tool else spoil cattle radio pact";
+var mnemonic = "able unfold prefer disorder chase best away unit toast tent scrub airport";

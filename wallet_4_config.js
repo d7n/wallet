@@ -1,1 +1,1 @@
-var mnemonic = "answer slim sister rhythm drive network filter poem farm clutch ritual balcony";
+var mnemonic = "sunset target detect cash team surprise injury ranch beyond salute wear banner";

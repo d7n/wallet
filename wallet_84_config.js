@@ -1,1 +1,1 @@
-var mnemonic = "violin cluster afford magic medal hurry sock town elevator evoke cupboard mango";
+var mnemonic = "ignore enable drink lottery tank bacon carpet hobby soul choose wild matter";

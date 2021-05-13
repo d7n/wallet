@@ -1,1 +1,1 @@
-var mnemonic = "rookie aim assume first bench alert casual wine fork olympic news crop";
+var mnemonic = "avocado robot uncle abuse noodle special trumpet icon bar gaze skirt rural";

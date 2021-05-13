@@ -1,1 +1,1 @@
-var mnemonic = "sort pretty wife midnight end payment reject gospel legal chunk bring unique";
+var mnemonic = "imitate luxury loud junk delay later fat ready essay shiver primary salon";

@@ -1,1 +1,1 @@
-var mnemonic = "summer genuine wealth such slow wear banana random employ income gesture town";
+var mnemonic = "attitude faint cabbage sunset board present van dune depend measure zero rookie";

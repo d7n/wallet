@@ -1,1 +1,1 @@
-var mnemonic = "curve inspire govern fatigue toward property run latin humor aisle elite trim";
+var mnemonic = "year fashion alpha muffin grow dirt slam climb poverty cattle sugar vacant";

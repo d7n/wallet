@@ -1,1 +1,1 @@
-var mnemonic = "setup solid property warm foil soft reunion family noodle version law capable";
+var mnemonic = "squeeze huge income brain execute stand urban smart wish pipe exhaust bird";
