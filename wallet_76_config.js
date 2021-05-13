@@ -1,1 +1,1 @@
-var mnemonic = "until mushroom above utility minor join huge parent blanket trouble machine boss";
+var mnemonic = "dutch loud addict another circle cable ask minor sell feel option hole";

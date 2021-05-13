@@ -1,1 +1,1 @@
-var mnemonic = "ice eager rice release nest shadow range civil invest parent dignity ring";
+var mnemonic = "target deer firm talk corn write saddle tribe under hero battle moral";

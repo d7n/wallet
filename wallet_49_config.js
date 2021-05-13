@@ -1,1 +1,1 @@
-var mnemonic = "ancient remain business collect build actress dream museum dolphin phrase crystal cigar";
+var mnemonic = "oven inquiry refuse faith actress you mail quit wagon field foster decade";

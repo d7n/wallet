@@ -1,1 +1,1 @@
-var mnemonic = "kind bless vocal erupt diesel food anchor hedgehog boat nephew rough dose";
+var mnemonic = "frown deal fix medal garment matter mimic hat hello strategy exercise maple";

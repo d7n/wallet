@@ -1,1 +1,1 @@
-var mnemonic = "bright obtain raven bike thank scissors kick planet cage diet frog bulk";
+var mnemonic = "green into cause acid alley equip satoshi scene robust praise process viable";

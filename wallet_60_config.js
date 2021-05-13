@@ -1,1 +1,1 @@
-var mnemonic = "member legend brother protect slide start broccoli random movie stay then region";
+var mnemonic = "library pledge fruit steak inherit unable divert matrix scout blanket quality wonder";

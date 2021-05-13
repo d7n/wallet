@@ -1,1 +1,1 @@
-var mnemonic = "deny stereo avoid steak float donkey doll enact web urge uncover melt";
+var mnemonic = "lumber poverty forget pride wide change stairs coconut autumn toast vast scissors";

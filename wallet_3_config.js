@@ -1,1 +1,1 @@
-var mnemonic = "satoshi evidence churn grow label predict frame gesture affair injury clown fluid";
+var mnemonic = "angle auto barrel theme gasp shadow hawk total pave menu shock circle";

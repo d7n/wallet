@@ -1,1 +1,1 @@
-var mnemonic = "total obtain slight hammer tonight can enforce solid antique actual finish vacant";
+var mnemonic = "giraffe field spin make train disorder color cram price brief code lab";

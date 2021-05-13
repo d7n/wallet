@@ -1,1 +1,1 @@
-var mnemonic = "gasp feel meat wife region city bronze fold width harsh scrap eager";
+var mnemonic = "other antique session bag brisk army winter betray gravity lens woman fuel";

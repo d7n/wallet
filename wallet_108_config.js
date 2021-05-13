@@ -1,1 +1,1 @@
-var mnemonic = "poet rough wrong neck present music gold glue riot oval giant stove";
+var mnemonic = "fancy artwork salmon insane inherit popular memory number convince gain rail simple";

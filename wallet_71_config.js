@@ -1,1 +1,1 @@
-var mnemonic = "palm asthma giraffe gap very despair wheat struggle govern price ship circle";
+var mnemonic = "bomb alien injury pencil pool degree mammal damp company maze hard loop";

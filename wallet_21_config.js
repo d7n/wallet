@@ -1,1 +1,1 @@
-var mnemonic = "field already few holiday rude arrive equal toast bind detail educate critic";
+var mnemonic = "fever report exit couch deal soccer meat sunset spice village tip cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "loop small world sort elite globe weather involve detail brass master cable";
+var mnemonic = "wide diet worth candy bicycle double degree prefer beyond lounge voyage spend";

@@ -1,1 +1,1 @@
-var mnemonic = "come alcohol whisper imitate marriage crop fresh friend olympic wood exhibit surround";
+var mnemonic = "lizard make train myth high athlete party fossil venture like top hour";

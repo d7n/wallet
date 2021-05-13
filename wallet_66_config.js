@@ -1,1 +1,1 @@
-var mnemonic = "winner crisp crack wealth click client wood obscure leaf position still song";
+var mnemonic = "domain leisure report paddle voice host face gain whisper maid market payment";

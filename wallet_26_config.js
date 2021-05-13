@@ -1,1 +1,1 @@
-var mnemonic = "priority develop mercy history soup inside scorpion ritual flavor clutch jacket treat";
+var mnemonic = "fresh give search slim federal brother valid crop half cover fruit session";

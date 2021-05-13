@@ -1,1 +1,1 @@
-var mnemonic = "tide special limb churn neck gadget audit ivory stomach nasty emerge excuse";
+var mnemonic = "poem inch sadness boss cart dash grit raise piano talk gesture lemon";

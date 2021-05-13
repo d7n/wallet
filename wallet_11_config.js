@@ -1,1 +1,1 @@
-var mnemonic = "indoor innocent answer strike pioneer grant jealous weasel favorite surface course shoe";
+var mnemonic = "void random crouch arrange lunar motion float bridge garment behave leopard dash";

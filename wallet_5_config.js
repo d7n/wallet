@@ -1,1 +1,1 @@
-var mnemonic = "fat license ice flower helmet sign trip gun trash oak file runway";
+var mnemonic = "frequent border expand turn close assist mule run dash element atom dizzy";

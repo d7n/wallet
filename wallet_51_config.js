@@ -1,1 +1,1 @@
-var mnemonic = "slush sustain globe right light army knee wealth valid obey awake replace";
+var mnemonic = "velvet tennis ordinary tomato scare smart tongue stick hotel outdoor left toy";

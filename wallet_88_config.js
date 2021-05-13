@@ -1,1 +1,1 @@
-var mnemonic = "allow caught attack letter source tragic snow resource uphold point slide museum";
+var mnemonic = "try sadness then strike neck fire hazard moon foam cactus network lecture";

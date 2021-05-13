@@ -1,1 +1,1 @@
-var mnemonic = "obtain width material basic talent olive clown double slight fossil either soldier";
+var mnemonic = "happy runway unusual unknown visual baby spoil leave orchard husband card chase";

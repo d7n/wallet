@@ -1,1 +1,1 @@
-var mnemonic = "route believe slush illegal raven pet scout rally pitch limb document stairs";
+var mnemonic = "wash believe asthma piece remain venture abstract inject reduce detail nation source";

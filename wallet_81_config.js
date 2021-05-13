@@ -1,1 +1,1 @@
-var mnemonic = "sphere teach sudden base expire clerk clean mechanic fire regret clarify card";
+var mnemonic = "slight evolve foot fresh example fatigue scene error zone during pilot ghost";

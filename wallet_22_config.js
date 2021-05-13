@@ -1,1 +1,1 @@
-var mnemonic = "plug rate ball knock riot broom indoor polar hundred april panda put";
+var mnemonic = "volume you logic fish surround merit control tooth lab couch vintage duck";

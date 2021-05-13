@@ -1,1 +1,1 @@
-var mnemonic = "stock peace scrap deposit purchase torch warrior meadow unfold trash scare try";
+var mnemonic = "brand addict bag waste noise burst pudding wine wedding aunt sadness cancel";

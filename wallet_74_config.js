@@ -1,1 +1,1 @@
-var mnemonic = "tiger feature meadow ticket lock pigeon tilt announce story poet midnight rack";
+var mnemonic = "tenant sheriff window neglect void bracket survey abandon earth faith lumber appear";

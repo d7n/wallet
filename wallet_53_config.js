@@ -1,1 +1,1 @@
-var mnemonic = "always hire local nation machine cash excess crawl parade giraffe mule worth";
+var mnemonic = "hub holiday video envelope banana attract couch place fiction toddler erode local";

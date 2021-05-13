@@ -1,1 +1,1 @@
-var mnemonic = "finish inherit improve actor write water among draft choose ripple shell neglect";
+var mnemonic = "angry noble steak nothing embrace ahead vault usual exercise whale swim life";

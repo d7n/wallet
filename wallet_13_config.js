@@ -1,1 +1,1 @@
-var mnemonic = "knife disagree grit cube demand eyebrow harsh detail sense luggage circle holiday";
+var mnemonic = "walnut clutch account model merry region century input army wet bird lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve report chef grocery soldier emerge spend enough dutch mushroom fiber file";
+var mnemonic = "machine auction column pulp grocery whisper taxi violin speed soul draw rose";

@@ -1,1 +1,1 @@
-var mnemonic = "violin clog sibling cabin spare bind party home verify chicken empower adult";
+var mnemonic = "quick any robust like duty outside main student sure apple crush minute";

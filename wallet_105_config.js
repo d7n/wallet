@@ -1,1 +1,1 @@
-var mnemonic = "raw hair husband between furnace top rubber drive utility gaze eight dynamic";
+var mnemonic = "impulse motor infant jungle satisfy oven empower village physical sight peace fuel";

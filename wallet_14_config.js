@@ -1,1 +1,1 @@
-var mnemonic = "obtain sun wash pencil nature girl kite legend pelican inner orphan proof";
+var mnemonic = "grace survey van bullet head conduct isolate path fire sentence two casual";

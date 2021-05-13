@@ -1,1 +1,1 @@
-var mnemonic = "bullet always noodle noise document curve wide fire wrist move valley brief";
+var mnemonic = "dilemma reason hard valley cook pole pulp laugh video message pigeon bulb";

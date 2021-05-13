@@ -1,1 +1,1 @@
-var mnemonic = "slight stamp element virtual odor sport permit patient produce elephant stage blood";
+var mnemonic = "cherry lounge bar online shine permit drama race neutral wedding model pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "clump submit proof wise genuine spell salt safe online spring brown route";
+var mnemonic = "noble stable observe talent door job have leaf twelve ensure whip develop";

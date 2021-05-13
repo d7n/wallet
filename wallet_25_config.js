@@ -1,1 +1,1 @@
-var mnemonic = "eternal glimpse concert design valley album tooth save monitor spatial bag history";
+var mnemonic = "depart absurd cream wire mimic shield vacant stairs virus ask museum super";

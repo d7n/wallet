@@ -1,1 +1,1 @@
-var mnemonic = "vital hood myself palm current flavor gun advance frown syrup segment left";
+var mnemonic = "chicken ethics ocean enemy cycle quit insect cage need shrug athlete idea";

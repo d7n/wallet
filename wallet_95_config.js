@@ -1,1 +1,1 @@
-var mnemonic = "forward diamond popular cloth rely video dice point ready world pottery inmate";
+var mnemonic = "dawn transfer ripple protect describe sea mix viable stomach vacant robust pudding";

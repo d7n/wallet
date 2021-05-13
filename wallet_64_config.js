@@ -1,1 +1,1 @@
-var mnemonic = "much apple vault palm news tilt wedding proud enough frozen mass again";
+var mnemonic = "crash sketch thank harsh swarm poverty youth fault famous popular hobby enrich";

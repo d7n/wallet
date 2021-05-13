@@ -1,1 +1,1 @@
-var mnemonic = "vintage hard cattle purity physical exclude december sauce donkey wash debris fragile";
+var mnemonic = "pact entire control wagon energy nephew spell magic cliff catch middle fetch";

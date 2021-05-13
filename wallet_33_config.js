@@ -1,1 +1,1 @@
-var mnemonic = "mask gate main payment lottery unaware license best parrot blossom tortoise welcome";
+var mnemonic = "glide boat anchor regular wave neither shallow sun kind frequent average salt";

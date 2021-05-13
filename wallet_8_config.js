@@ -1,1 +1,1 @@
-var mnemonic = "basket drift unfold left ethics glare real alarm omit screen afford harvest";
+var mnemonic = "cook evolve spy weapon praise milk robust deposit road settle smoke apple";

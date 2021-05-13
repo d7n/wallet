@@ -1,1 +1,1 @@
-var mnemonic = "another trend shrimp income drama phrase unlock replace forest unique gown approve";
+var mnemonic = "donate reject rather aspect stem super iron share subway glory mango call";

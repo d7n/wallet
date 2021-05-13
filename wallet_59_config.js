@@ -1,1 +1,1 @@
-var mnemonic = "kind help text disorder left jeans deal layer slot supply shoulder myth";
+var mnemonic = "excuse trim amused rapid march butter elder plunge cover tumble border faith";

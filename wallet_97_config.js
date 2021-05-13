@@ -1,1 +1,1 @@
-var mnemonic = "body fragile poverty scout town useful wear normal curious lock outer spike";
+var mnemonic = "autumn harbor opera obvious course sting coil milk ticket noise hair cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "evil ozone vanish dumb card forward act ski milk knee mushroom glimpse";
+var mnemonic = "normal rice budget need you heavy vote egg utility palm galaxy beach";

@@ -1,1 +1,1 @@
-var mnemonic = "soup similar burger good liar twin police pony era spin inflict maximum";
+var mnemonic = "pole menu actress real capital ladder fetch squirrel bonus manage curve hamster";

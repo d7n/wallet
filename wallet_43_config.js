@@ -1,1 +1,1 @@
-var mnemonic = "sight frame daring pause recall such afford math coast coin fabric own";
+var mnemonic = "have stock behind royal same color month bag enact clutch sign prosper";

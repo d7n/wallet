@@ -1,1 +1,1 @@
-var mnemonic = "ugly music kick nephew column rubber stick time village inherit ball marble";
+var mnemonic = "tone east into shed better youth all buddy dish coconut flag purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "snap heavy shoe satoshi kind like nose protect educate goose vault fit";
+var mnemonic = "clock field holiday solar alarm captain front afford catalog lemon electric bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor wall neither tragic envelope educate license real good chief tone pipe";
+var mnemonic = "hammer depart order play win explain sound honey battle crane oppose rapid";

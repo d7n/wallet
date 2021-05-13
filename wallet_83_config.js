@@ -1,1 +1,1 @@
-var mnemonic = "stairs climb panic reflect buddy soft frown embrace huge ghost police zone";
+var mnemonic = "pipe tray secret real baby cherry pulse taste kite swing ankle project";

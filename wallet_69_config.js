@@ -1,1 +1,1 @@
-var mnemonic = "alter cabin limb blade dog bullet select term admit dumb regret patient";
+var mnemonic = "broken gorilla glass gap reopen fence pottery people pave thing govern fragile";

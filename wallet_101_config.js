@@ -1,1 +1,1 @@
-var mnemonic = "three devote smart local dial trumpet mouse pull increase opera bulb panda";
+var mnemonic = "trigger will copy receive kick enhance rough drill wrap become fetch monitor";

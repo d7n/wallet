@@ -1,1 +1,1 @@
-var mnemonic = "type grunt bless jar emerge ahead exile door foil giant shine apart";
+var mnemonic = "skill inch twist cloud ability group observe actual chronic empower negative dress";

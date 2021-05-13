@@ -1,1 +1,1 @@
-var mnemonic = "banner train museum flush another that art path amateur dignity vibrant ball";
+var mnemonic = "enter boss swear spike cube thank peasant book canoe birth interest assume";

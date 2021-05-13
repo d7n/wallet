@@ -1,1 +1,1 @@
-var mnemonic = "foot lawsuit acquire shed tomato vanish tail laptop damage valley eternal trust";
+var mnemonic = "rice slice proof menu adult shy across addict place maid mass cattle";

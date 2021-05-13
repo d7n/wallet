@@ -1,1 +1,1 @@
-var mnemonic = "success solve oval hello equip abandon liquid sick news filter defense cabin";
+var mnemonic = "soda lake rival walnut federal rose situate pattern pluck load recycle double";

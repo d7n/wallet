@@ -1,1 +1,1 @@
-var mnemonic = "another social birth guilt woman dream any jungle clerk flame disorder copy";
+var mnemonic = "normal utility shift video enter simple neither client arctic water bullet fantasy";

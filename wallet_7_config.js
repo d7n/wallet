@@ -1,1 +1,1 @@
-var mnemonic = "laptop artefact time share carpet rhythm wing victory add fabric chief art";
+var mnemonic = "cement impulse anchor light vicious there click clump frame state defense flee";

@@ -1,1 +1,1 @@
-var mnemonic = "iron clown abandon embark alter gloom wolf force tube arm armed liquid";
+var mnemonic = "taste piano ribbon teach flash similar pretty vacant toss body cash multiply";

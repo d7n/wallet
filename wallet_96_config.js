@@ -1,1 +1,1 @@
-var mnemonic = "topic end accident owner guard three nephew early cook brass problem census";
+var mnemonic = "puzzle mammal bacon rookie fancy round true pottery extra sleep dizzy gravity";

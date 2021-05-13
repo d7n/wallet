@@ -1,1 +1,1 @@
-var mnemonic = "expire cream surge hazard adult milk camp gun pulp void tribe student";
+var mnemonic = "olive habit letter grass flag mimic chest voyage enlist bonus walk bag";

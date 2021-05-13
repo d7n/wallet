@@ -1,1 +1,1 @@
-var mnemonic = "spirit work omit transfer loud dish space exercise phone member peasant ski";
+var mnemonic = "inch choose place chief detail phone dad boring they gain cash index";

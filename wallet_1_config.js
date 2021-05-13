@@ -1,1 +1,1 @@
-var mnemonic = "ice visa jewel hire merry leg wife million reform try else weather";
+var mnemonic = "fee expect gentle glad trust casual guilt candy observe stereo hurt type";

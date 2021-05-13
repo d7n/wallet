@@ -1,1 +1,1 @@
-var mnemonic = "once tape sing glance hurry link final lizard zero silly museum fly";
+var mnemonic = "kick trumpet spot witness bracket obtain more chest review salute wrap remain";

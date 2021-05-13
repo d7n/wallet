@@ -1,1 +1,1 @@
-var mnemonic = "lake certain link cactus crater arctic oval unlock foster fly slim slim";
+var mnemonic = "air voyage assault magic pattern laptop pledge live blanket series invest autumn";

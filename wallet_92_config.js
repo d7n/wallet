@@ -1,1 +1,1 @@
-var mnemonic = "blur subject casual afraid clock lounge climb city comfort crew loan legal";
+var mnemonic = "debris annual hurdle reform draft aerobic pyramid dash success soup course flower";

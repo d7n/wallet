@@ -1,1 +1,1 @@
-var mnemonic = "digital disorder empower major moon believe film mule matter color define snow";
+var mnemonic = "mountain kiwi fury engine joy reflect silk increase media wise milk scene";

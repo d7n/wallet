@@ -1,1 +1,1 @@
-var mnemonic = "clarify hub music dirt possible climb okay warrior oxygen benefit match better";
+var mnemonic = "trade onion rally visa close tomato antique type glare fiction expand more";

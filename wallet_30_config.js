@@ -1,1 +1,1 @@
-var mnemonic = "buzz banana bind trash juice turkey guilt stomach electric random venture wine";
+var mnemonic = "crazy accident blood wheat differ obscure uncover sunny riot century curious twenty";

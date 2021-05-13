@@ -1,1 +1,1 @@
-var mnemonic = "buyer total mosquito six carbon kid marine great trend fine broccoli walk";
+var mnemonic = "resource gather inch juice right dress despair museum online include film chef";

@@ -1,1 +1,1 @@
-var mnemonic = "goat link seek silent youth sleep horse home ride flush spatial tank";
+var mnemonic = "machine gym sea sauce vendor vague tortoise grit close wait hub orient";

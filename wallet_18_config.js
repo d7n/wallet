@@ -1,1 +1,1 @@
-var mnemonic = "announce sting remain hip main wonder inch absent orange observe merge airport";
+var mnemonic = "enemy taste lady duck ladder this solid found together attend case symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "cross raven typical agent submit water switch meat upgrade bird ready crack";
+var mnemonic = "balance universe laundry abstract cave accuse hobby exclude badge mistake fancy width";

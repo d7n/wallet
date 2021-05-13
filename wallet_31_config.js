@@ -1,1 +1,1 @@
-var mnemonic = "mom tomato shed enhance obtain disorder profit anchor burger very inquiry error";
+var mnemonic = "unknown holiday owner height stereo dash soup sad verb come erase document";

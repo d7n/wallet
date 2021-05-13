@@ -1,1 +1,1 @@
-var mnemonic = "lady glance you umbrella head sibling half call arrange sand shield attract";
+var mnemonic = "make legend whisper escape dune comic nest silent capital easily spike dignity";

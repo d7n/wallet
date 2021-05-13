@@ -1,1 +1,1 @@
-var mnemonic = "pulse outdoor envelope brick language erode work layer mule uncle win retire";
+var mnemonic = "glow fiction wealth urban turtle trophy zero manage pepper dentist plastic marine";

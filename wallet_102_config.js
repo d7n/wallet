@@ -1,1 +1,1 @@
-var mnemonic = "stable record shift hospital slogan orphan cave canvas vacuum circle merge enhance";
+var mnemonic = "usual afraid dish pattern fall purchase process shoot duty nasty speak danger";

@@ -1,1 +1,1 @@
-var mnemonic = "civil manual truly asset crop promote man quit glow paper enough push";
+var mnemonic = "genre penalty popular shed alcohol biology resemble patient rocket pass scrub trend";

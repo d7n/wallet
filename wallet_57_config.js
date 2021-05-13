@@ -1,1 +1,1 @@
-var mnemonic = "west debate rude wife gorilla crew response develop motor moral fat alcohol";
+var mnemonic = "jacket strong lawsuit simple fat swallow shallow rate across public story near";

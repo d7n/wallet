@@ -1,1 +1,1 @@
-var mnemonic = "junk jar image omit soft peace throw iron minute when girl spoon";
+var mnemonic = "afraid letter peasant ski shell car session bacon rifle broccoli scrub expand";

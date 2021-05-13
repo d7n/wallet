@@ -1,1 +1,1 @@
-var mnemonic = "fabric deposit immune lab sketch opinion bless original later birth economy indicate";
+var mnemonic = "enter output perfect favorite arrive body laptop update tail giraffe genuine salmon";

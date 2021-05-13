@@ -1,1 +1,1 @@
-var mnemonic = "oxygen pelican fence guitar corn chat casual heart author service aisle merry";
+var mnemonic = "nice test fluid jewel eight receive hover sand march urge puzzle velvet";

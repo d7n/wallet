@@ -1,1 +1,1 @@
-var mnemonic = "then sing thank leisure critic obvious jelly tail input rotate foam dwarf";
+var mnemonic = "pear together estate jeans invite thank sphere pass sponsor sport pipe beach";

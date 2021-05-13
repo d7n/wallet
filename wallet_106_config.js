@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin shrimp sign frozen tunnel nasty desert soccer moral route bind crouch";
+var mnemonic = "topple grid elephant predict online call stand mountain vacuum earth regular dinner";

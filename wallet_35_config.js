@@ -1,1 +1,1 @@
-var mnemonic = "review maximum admit recipe service humor lounge fuel resist supply guard evidence";
+var mnemonic = "source town acid damp sample world siren coil perfect rabbit tongue legend";

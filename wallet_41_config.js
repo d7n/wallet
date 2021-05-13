@@ -1,1 +1,1 @@
-var mnemonic = "planet can order random reduce hood middle tired note smile deputy fitness";
+var mnemonic = "drama dilemma swift science elite height bamboo parade protect sand confirm target";
