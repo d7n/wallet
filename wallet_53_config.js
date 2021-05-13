@@ -1,1 +1,1 @@
-var mnemonic = "pretty actual access relief science flag obtain purchase affair record cruise begin";
+var mnemonic = "soda amazing design else trigger drastic learn apple tissue math bachelor amount";

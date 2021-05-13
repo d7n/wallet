@@ -1,1 +1,1 @@
-var mnemonic = "breeze alpha decide tomato raw axis morning empty mass destroy earth knife";
+var mnemonic = "chimney change ski crunch barrel flight matter play room frown measure buzz";

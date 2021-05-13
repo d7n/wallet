@@ -1,1 +1,1 @@
-var mnemonic = "cotton menu payment rather weekend slot december noise shuffle trial defense finger";
+var mnemonic = "give believe absent divorce occur floor oak lottery husband blossom consider couch";

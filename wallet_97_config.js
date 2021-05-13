@@ -1,1 +1,1 @@
-var mnemonic = "upon involve wish suspect fit century corn enhance ugly old cloud exhaust";
+var mnemonic = "ticket vague sheriff bamboo enrich truth symptom science roof shrug visa dish";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle twelve shaft dog retire slender champion school wise bomb giant gauge";
+var mnemonic = "leisure lobster strike invest rebuild regular evidence ketchup engage trend weird quit";

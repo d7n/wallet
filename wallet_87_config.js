@@ -1,1 +1,1 @@
-var mnemonic = "fall jacket favorite basket bean ivory arch vanish source mango eyebrow mixed";
+var mnemonic = "return link jar busy two leg minor coin account visual fork dream";

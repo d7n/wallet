@@ -1,1 +1,1 @@
-var mnemonic = "lunar fork raw improve mercy blast category elder question lock badge claim";
+var mnemonic = "menu pledge roast version capital vault merge special lyrics rigid source orphan";

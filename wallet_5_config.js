@@ -1,1 +1,1 @@
-var mnemonic = "gentle twenty visual blue wheat thought bundle sausage skin life stove impulse";
+var mnemonic = "kitchen aerobic top uncover name ketchup remember balcony enhance kitten cost below";

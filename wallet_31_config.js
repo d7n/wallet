@@ -1,1 +1,1 @@
-var mnemonic = "vehicle undo caution miracle voice siege capital captain switch grief art cheese";
+var mnemonic = "forest measure trim win shine unfair entire bounce uncle gold injury rack";

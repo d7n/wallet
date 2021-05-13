@@ -1,1 +1,1 @@
-var mnemonic = "grow gate mail exist office insane recipe void crater weapon damage maze";
+var mnemonic = "behind aware isolate sort shift dish adult display away hurdle liquid rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase mention step seek own endorse cricket pupil place tray paper head";
+var mnemonic = "grief rhythm essence stand undo wall economy jacket prepare crucial lens moon";

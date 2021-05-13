@@ -1,1 +1,1 @@
-var mnemonic = "acquire blur arrive try assault fame sick bullet quarter card pulp festival";
+var mnemonic = "prepare game elephant stem chat heavy upgrade offer raw media check senior";

@@ -1,1 +1,1 @@
-var mnemonic = "flight smoke atom reward lady muffin cycle try that buffalo glory mechanic";
+var mnemonic = "room toddler glad club mushroom tourist fury paper pilot track city avoid";

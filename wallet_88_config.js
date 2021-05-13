@@ -1,1 +1,1 @@
-var mnemonic = "funny earth force gadget update sample finish witness business family forest happy";
+var mnemonic = "illegal demand cart balcony maple orphan water same picture oxygen symbol barrel";

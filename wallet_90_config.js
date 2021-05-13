@@ -1,1 +1,1 @@
-var mnemonic = "affair fantasy deny gate segment luxury stick kingdom oppose select purchase salute";
+var mnemonic = "seat reveal deny chapter soft real stone chair predict certain client name";

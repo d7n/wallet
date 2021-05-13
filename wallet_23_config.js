@@ -1,1 +1,1 @@
-var mnemonic = "short paddle wink cushion toast victory human tennis demand argue pride person";
+var mnemonic = "consider toddler evil wrestle boil method month jelly share envelope sample tree";

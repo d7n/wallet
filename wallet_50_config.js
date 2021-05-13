@@ -1,1 +1,1 @@
-var mnemonic = "coral trim sketch dash human end between warrior reopen ritual pattern auto";
+var mnemonic = "then lucky security stove physical diet action tomato agent industry power expand";

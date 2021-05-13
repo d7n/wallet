@@ -1,1 +1,1 @@
-var mnemonic = "genius gain blossom town submit stuff card unique system antenna tail shoot";
+var mnemonic = "victory peace duck bunker clutch tank rigid sunset disorder bracket early virtual";

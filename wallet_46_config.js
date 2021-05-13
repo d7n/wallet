@@ -1,1 +1,1 @@
-var mnemonic = "service glare region razor venue volcano tide steak express pipe hurt use";
+var mnemonic = "stumble shop bus cancel wool diary insect culture shed name barely pottery";

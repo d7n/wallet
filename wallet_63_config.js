@@ -1,1 +1,1 @@
-var mnemonic = "romance circle giant fluid door notice useless soap teach salad harvest inch";
+var mnemonic = "mandate make rescue shoe erupt uncover small diamond acoustic train rifle volcano";

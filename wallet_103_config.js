@@ -1,1 +1,1 @@
-var mnemonic = "slide aisle chest degree diary offer venture random when sense evolve skirt";
+var mnemonic = "spot usage fall earn gesture lion useless burger because flee praise glow";

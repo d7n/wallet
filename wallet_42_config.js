@@ -1,1 +1,1 @@
-var mnemonic = "wage magnet cup damp pipe general blanket famous document umbrella lamp lazy";
+var mnemonic = "gold wing above record million panther lyrics alcohol alley slogan afford plug";

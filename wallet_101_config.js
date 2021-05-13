@@ -1,1 +1,1 @@
-var mnemonic = "stand around retire seat shield razor marine prepare purpose collect potato real";
+var mnemonic = "present blur below thumb already owner damage match avocado cave hammer pretty";

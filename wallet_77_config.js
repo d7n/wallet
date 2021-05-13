@@ -1,1 +1,1 @@
-var mnemonic = "vehicle number clarify fence forest history innocent degree fox capable prepare tonight";
+var mnemonic = "tuna sport rigid wear retreat fragile spider erupt copy figure absurd service";

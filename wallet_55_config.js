@@ -1,1 +1,1 @@
-var mnemonic = "stumble violin cup empower victory satoshi disagree eager embody pull carbon main";
+var mnemonic = "usage race success web beef soccer sorry glimpse cancel switch october select";

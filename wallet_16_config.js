@@ -1,1 +1,1 @@
-var mnemonic = "avocado sound ordinary swift employ coconut fiscal term mixture budget method lava";
+var mnemonic = "whale absent before mind top face decrease pill wasp artist banner crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom awful plug garlic dinosaur physical endless tongue arrange inmate slice account";
+var mnemonic = "marriage mule dream right service erupt spare priority portion panel intact pony";

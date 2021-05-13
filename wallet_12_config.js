@@ -1,1 +1,1 @@
-var mnemonic = "hungry liar recycle govern future float farm record machine make eagle often";
+var mnemonic = "opinion squirrel defense once infant twist smoke symbol uncle muscle law gospel";

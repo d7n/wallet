@@ -1,1 +1,1 @@
-var mnemonic = "figure cause already arctic female elbow eagle close drop whip sausage sad";
+var mnemonic = "ice judge innocent used panel enlist short clip because skin orient pass";

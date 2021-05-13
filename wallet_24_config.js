@@ -1,1 +1,1 @@
-var mnemonic = "father audit vicious earn allow canyon chase three owner brother warm radio";
+var mnemonic = "sister arrive jump news today upon lobster symbol pill lucky runway unhappy";

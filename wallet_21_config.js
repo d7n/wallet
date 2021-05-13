@@ -1,1 +1,1 @@
-var mnemonic = "sausage cotton seat harsh cook spoon blue joy machine extra select utility";
+var mnemonic = "stem tone today remember craft olive soldier stuff want baby recall evil";

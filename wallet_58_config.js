@@ -1,1 +1,1 @@
-var mnemonic = "tilt refuse suspect someone horn focus jaguar warrior question purpose biology welcome";
+var mnemonic = "cereal disorder chase leg swap crop vendor can nose trap cave animal";

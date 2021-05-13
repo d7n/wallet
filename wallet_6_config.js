@@ -1,1 +1,1 @@
-var mnemonic = "album between civil coil summer reunion enhance express fine music have inhale";
+var mnemonic = "old bomb easily category message ozone meat fall hockey zoo lunar outdoor";

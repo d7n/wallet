@@ -1,1 +1,1 @@
-var mnemonic = "galaxy crawl fuel review inquiry turn twenty fatal angle scorpion retire unveil";
+var mnemonic = "dignity kitten nice shallow win tongue hedgehog category time option wreck crumble";

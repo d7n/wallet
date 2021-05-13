@@ -1,1 +1,1 @@
-var mnemonic = "unaware delay sorry write human initial junk state prosper explain donkey kiwi";
+var mnemonic = "scissors dry inherit school entry nuclear better travel medal debate morning evoke";

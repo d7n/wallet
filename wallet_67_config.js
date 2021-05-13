@@ -1,1 +1,1 @@
-var mnemonic = "outside keen soup spring smooth account glide sick ski caught planet bleak";
+var mnemonic = "stand decide trumpet parent distance envelope lyrics chimney spirit volcano unveil relax";

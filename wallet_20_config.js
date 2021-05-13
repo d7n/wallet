@@ -1,1 +1,1 @@
-var mnemonic = "evoke hero setup already hotel robust gather jungle forward grid road hundred";
+var mnemonic = "emotion tide much term forum taste elder away dilemma magic love jungle";

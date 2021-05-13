@@ -1,1 +1,1 @@
-var mnemonic = "air walnut sibling prepare female sustain hospital often venue echo busy equal";
+var mnemonic = "weather emotion famous gossip cash until uncle police oil farm leave crew";

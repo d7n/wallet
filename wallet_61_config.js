@@ -1,1 +1,1 @@
-var mnemonic = "tornado tornado journey bid always depend pupil acid final pistol flag web";
+var mnemonic = "bundle despair know coral gadget sponsor breeze receive raw real brisk valid";

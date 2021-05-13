@@ -1,1 +1,1 @@
-var mnemonic = "inform myth same figure unfold mention immense inquiry blame safe grunt grit";
+var mnemonic = "escape genuine author fine accuse betray hobby stairs spot duty proud unusual";

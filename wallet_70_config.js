@@ -1,1 +1,1 @@
-var mnemonic = "cruise scout exhaust spatial hurt solid rain stove cat beauty hospital radar";
+var mnemonic = "next wish radio dish goddess follow start phrase enemy spawn govern genius";

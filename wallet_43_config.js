@@ -1,1 +1,1 @@
-var mnemonic = "artwork fresh unlock omit tired crystal cigar senior rail example security another";
+var mnemonic = "admit embark whisper glad soul birth duck neither fitness include clog battle";

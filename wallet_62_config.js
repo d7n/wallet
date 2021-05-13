@@ -1,1 +1,1 @@
-var mnemonic = "silver three quality left typical huge fat chunk normal liquid please sponsor";
+var mnemonic = "guilt wide omit sleep poem pottery tenant laptop noodle quiz chalk enroll";

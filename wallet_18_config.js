@@ -1,1 +1,1 @@
-var mnemonic = "month fame avoid catalog lonely praise husband flush abuse match next such";
+var mnemonic = "way village clinic spoon smooth around city harbor shove monitor battle brick";

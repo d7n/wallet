@@ -1,1 +1,1 @@
-var mnemonic = "decline exercise submit insane dream just oppose neutral pride spike swarm drum";
+var mnemonic = "pelican liberty van twist possible two clever veteran erupt erupt orchard rescue";

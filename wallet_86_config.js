@@ -1,1 +1,1 @@
-var mnemonic = "glare staff forest portion area claim first model opinion hover firm hair";
+var mnemonic = "tourist gun salute custom noodle flight deputy enable return romance recipe sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "color assist gap canoe business coyote second cupboard scrap disorder average orange";
+var mnemonic = "diamond elegant seminar salad pulse suspect aspect apology rare column frost energy";

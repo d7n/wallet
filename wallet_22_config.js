@@ -1,1 +1,1 @@
-var mnemonic = "battle ride put deposit boil protect crime noise debate into opera stand";
+var mnemonic = "monkey cancel join worry nut argue grit rhythm artist cruel space deny";

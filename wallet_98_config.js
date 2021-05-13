@@ -1,1 +1,1 @@
-var mnemonic = "oven multiply surface sample crawl section front man vocal spell among shallow";
+var mnemonic = "category boring action scan zero victory strategy recycle tattoo business project danger";

@@ -1,1 +1,1 @@
-var mnemonic = "exile urge home hurt august above soup hint hint hip edge arch";
+var mnemonic = "code about hundred favorite truly robust eye raise control traffic shallow ketchup";

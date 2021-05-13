@@ -1,1 +1,1 @@
-var mnemonic = "flight tooth rabbit net whip grit monster cotton deputy dutch magic fatigue";
+var mnemonic = "quiz level welcome patient drive couple jump mimic excess snap total supply";

@@ -1,1 +1,1 @@
-var mnemonic = "sample blame truly crazy also play much tilt bulk cigar catalog hour";
+var mnemonic = "mimic donate transfer mutual stereo host rail treat omit venue focus palm";

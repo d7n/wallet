@@ -1,1 +1,1 @@
-var mnemonic = "physical tiny invest visa interest gentle damage raise bargain marine leopard ignore";
+var mnemonic = "inner fiction tag transfer charge real local tennis ridge kitten crew february";

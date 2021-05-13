@@ -1,1 +1,1 @@
-var mnemonic = "easy broom prize song frown snow tilt note gentle huge drum maid";
+var mnemonic = "olympic antenna cactus dice siege twelve shoot service coin fog donkey bless";

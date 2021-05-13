@@ -1,1 +1,1 @@
-var mnemonic = "rude drama episode open multiply angry valid sample velvet annual strike prosper";
+var mnemonic = "glimpse clog near script invite echo knock logic moral image fitness dial";

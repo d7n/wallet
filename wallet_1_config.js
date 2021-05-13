@@ -1,1 +1,1 @@
-var mnemonic = "spin either neck assist measure federal loyal stand cheap prefer trap tired";
+var mnemonic = "scrub grief swarm strategy clip early bronze pet alarm coast exchange butter";

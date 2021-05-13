@@ -1,1 +1,1 @@
-var mnemonic = "square roof fossil actor search program tuition laugh usage replace swing noble";
+var mnemonic = "rally toy eagle clever napkin torch ostrich journey air mirror medal actress";

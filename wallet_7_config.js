@@ -1,1 +1,1 @@
-var mnemonic = "pyramid grow when sustain embark exchange rebuild rare tray obey orange animal";
+var mnemonic = "critic buffalo crawl donor club toilet aspect throw spoil laptop odor book";

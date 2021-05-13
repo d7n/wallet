@@ -1,1 +1,1 @@
-var mnemonic = "aware air detail grass fan virus lock use hole champion chest wheat";
+var mnemonic = "rack save pioneer inner forget kitten later fiber phone lazy fetch fetch";

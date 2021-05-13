@@ -1,1 +1,1 @@
-var mnemonic = "onion symbol model swarm phone match cat flag neutral ladder thing bus";
+var mnemonic = "hungry stadium cluster control express work renew poem nothing supply floor master";

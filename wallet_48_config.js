@@ -1,1 +1,1 @@
-var mnemonic = "gorilla dinner sausage pyramid era average regular sport later radio belt ramp";
+var mnemonic = "cute cycle cool unknown used sister monitor enhance jar web number neither";

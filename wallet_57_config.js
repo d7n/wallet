@@ -1,1 +1,1 @@
-var mnemonic = "cost dune reject judge profit mechanic noble estate arrow trim coach dry";
+var mnemonic = "weasel such judge shuffle destroy cradle floor solar august fox festival solution";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude help rare history wonder kitten crack umbrella sunny sell rich front";
+var mnemonic = "pole gospel extra boost express quote depend sort spice scene animal rally";

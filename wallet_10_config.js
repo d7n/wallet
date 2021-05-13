@@ -1,1 +1,1 @@
-var mnemonic = "wheel test primary inspire pony kangaroo limb toward rug tomorrow mention repeat";
+var mnemonic = "tower rude chief settle pyramid hold sorry denial write spell actor spike";

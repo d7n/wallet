@@ -1,1 +1,1 @@
-var mnemonic = "reason truth reflect shaft large hurry exist club steel pilot powder crime";
+var mnemonic = "pelican bachelor stuff enhance draft east frost cinnamon shoot real someone spoil";

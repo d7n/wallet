@@ -1,1 +1,1 @@
-var mnemonic = "cake receive gate write liar hawk earth replace among alien flee lion";
+var mnemonic = "arrow apple pencil stone clinic uphold milk coffee man burst again demand";

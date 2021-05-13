@@ -1,1 +1,1 @@
-var mnemonic = "planet hundred mechanic rather alpha sweet pear turn silk salmon pluck about";
+var mnemonic = "kidney topple submit lottery dance genre finger hammer local inflict oppose long";

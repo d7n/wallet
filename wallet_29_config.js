@@ -1,1 +1,1 @@
-var mnemonic = "satoshi identify silent false guess orient chef wool north unhappy spoil cheese";
+var mnemonic = "trial column dose hover trade often buzz sketch despair february satisfy ramp";

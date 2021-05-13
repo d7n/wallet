@@ -1,1 +1,1 @@
-var mnemonic = "soap usage toe glare enact reward bacon isolate paddle lunch quarter extra";
+var mnemonic = "north hybrid medal flag cable square beyond add coral emotion gap day";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect soldier canal plug scan flag blast foot scorpion predict stable answer";
+var mnemonic = "brother clock rhythm design river route arrest casual holiday coffee fury juice";

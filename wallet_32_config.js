@@ -1,1 +1,1 @@
-var mnemonic = "multiply narrow caution document antenna fantasy soon bus wire great filter return";
+var mnemonic = "manual address argue copper later wealth naive cheese exile mutual embrace oppose";

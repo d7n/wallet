@@ -1,1 +1,1 @@
-var mnemonic = "exchange soul burst crash ivory stuff century draw abstract unaware practice dinner";
+var mnemonic = "exercise agent purse flat father erosion flight orchard clown method tomorrow paddle";

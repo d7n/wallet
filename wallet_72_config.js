@@ -1,1 +1,1 @@
-var mnemonic = "garment thumb slim umbrella ugly arrest mask lizard eagle brain diesel sight";
+var mnemonic = "empty van old goose they accuse angry ramp spider grocery place crack";

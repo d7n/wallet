@@ -1,1 +1,1 @@
-var mnemonic = "despair smile clown envelope act aisle pattern sight used twist fence wrestle";
+var mnemonic = "ankle song funny silver emotion void fun sauce embody together source token";

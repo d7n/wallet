@@ -1,1 +1,1 @@
-var mnemonic = "expire delay nice camp belt copper anxiety three exact family camp web";
+var mnemonic = "tennis slide mixed awful impose very attend call message glass focus include";

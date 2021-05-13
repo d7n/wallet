@@ -1,1 +1,1 @@
-var mnemonic = "evil antenna two parade ignore grow lemon siege metal undo result release";
+var mnemonic = "own armor usual entry brisk rent shell genuine forget truly similar trophy";

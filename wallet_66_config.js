@@ -1,1 +1,1 @@
-var mnemonic = "misery observe predict pencil round demise air exclude drink divorce harvest phone";
+var mnemonic = "prison inch govern special inherit disagree fee letter image bulk design shift";

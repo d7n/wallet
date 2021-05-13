@@ -1,1 +1,1 @@
-var mnemonic = "someone girl buffalo loan ice exile cigar fork mutual hundred exile cousin";
+var mnemonic = "pass ski abstract tank tail regular fox shift despair step asset neutral";

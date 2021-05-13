@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ozone cycle inhale gown scale gaze iron promote kitten wage gun";
+var mnemonic = "wedding leave nice brass rocket purity engine raccoon album arena all arm";

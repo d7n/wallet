@@ -1,1 +1,1 @@
-var mnemonic = "forest manual code genius loop fluid behind eternal celery inch universe horror";
+var mnemonic = "affair divide vocal brass long baby trust injury meadow swear shiver dice";

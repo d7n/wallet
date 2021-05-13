@@ -1,1 +1,1 @@
-var mnemonic = "wash stick burst prevent feed trigger siren limit average humble feature palace";
+var mnemonic = "napkin ice crumble creek program derive wing hero open essence digital virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "aim liar antenna sound length entire engage neck kitchen giraffe general aim";
+var mnemonic = "evidence resource kind embrace address general connect hold wisdom wave equal fabric";

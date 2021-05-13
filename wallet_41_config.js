@@ -1,1 +1,1 @@
-var mnemonic = "other merry tiny one hill mutual vicious sibling carpet arrow into frown";
+var mnemonic = "stomach beyond stand trim enjoy paddle friend code certain agree venue melt";

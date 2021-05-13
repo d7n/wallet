@@ -1,1 +1,1 @@
-var mnemonic = "say found cradle visual whip clock cup choose weasel fork tomato salt";
+var mnemonic = "voice blossom replace town lounge local tornado clap slight toast novel cushion";

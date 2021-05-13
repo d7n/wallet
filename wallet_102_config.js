@@ -1,1 +1,1 @@
-var mnemonic = "neglect anchor health forum current manual pull can expect symbol verify huge";
+var mnemonic = "bubble sail admit remain item grief trick cherry merge normal funny ice";

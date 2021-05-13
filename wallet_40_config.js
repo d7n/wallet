@@ -1,1 +1,1 @@
-var mnemonic = "art radar skin silly recall theme notable ethics remember shoulder quality have";
+var mnemonic = "pizza stock joy rely dust assume position club swim avoid smart lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy pink expect peasant turtle all deer bonus upset that real orchard";
+var mnemonic = "cheese wait evil struggle carry banner adjust boat bus fiscal win enlist";

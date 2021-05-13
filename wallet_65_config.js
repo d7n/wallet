@@ -1,1 +1,1 @@
-var mnemonic = "focus kid mercy two swim relax fee float goddess history kick pipe";
+var mnemonic = "reform seed stable frame early human surround furnace coil leopard equip cliff";

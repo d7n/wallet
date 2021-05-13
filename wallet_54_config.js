@@ -1,1 +1,1 @@
-var mnemonic = "tail silver utility bacon either lend sister hood sleep leave absorb online";
+var mnemonic = "orphan expand senior switch unaware pond young fit shiver mercy syrup face";

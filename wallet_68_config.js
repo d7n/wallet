@@ -1,1 +1,1 @@
-var mnemonic = "noise game perfect shed bubble outside small current wish science fever squeeze";
+var mnemonic = "lend clinic live design notice design tunnel funny movie weapon bid session";

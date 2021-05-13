@@ -1,1 +1,1 @@
-var mnemonic = "regret erosion song eyebrow pudding emotion cause large pluck flag yellow fancy";
+var mnemonic = "fortune state drive violin junior around march donkey crew ability avoid coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "photo prison hazard body wave shield type wrong three cradle diamond topple";
+var mnemonic = "donate face gallery ribbon area loop shrimp blade wink long bag express";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent glow tone smoke jar plunge truly acoustic theme crash slam sunny";
+var mnemonic = "lift excite more lamp debris payment device alter lottery decrease supply piece";

@@ -1,1 +1,1 @@
-var mnemonic = "sight swap impact stone baby mixed donor swap clever napkin anchor degree";
+var mnemonic = "please enroll wide happy over engine dawn pond settle quote wheat exit";
