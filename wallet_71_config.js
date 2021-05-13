@@ -1,1 +1,1 @@
-var mnemonic = "note any hub organ demise enter illness try venue device govern aisle";
+var mnemonic = "royal library chapter stock street artefact announce same promote baby tunnel topple";

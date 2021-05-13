@@ -1,1 +1,1 @@
-var mnemonic = "pipe gossip stay basket disorder cross promote pitch color notable frost body";
+var mnemonic = "huge state guard ice gold pause give alley denial attitude lend acquire";

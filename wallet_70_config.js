@@ -1,1 +1,1 @@
-var mnemonic = "hotel bracket age scene exile sing buffalo nothing seven aerobic short panel";
+var mnemonic = "dream know lake material noble stone steel girl milk wealth walk glove";

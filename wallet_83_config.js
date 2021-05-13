@@ -1,1 +1,1 @@
-var mnemonic = "spatial junk armed execute various math thrive execute gadget great coast tourist";
+var mnemonic = "solid pilot behave rich join digital spring start bring whip throw fame";

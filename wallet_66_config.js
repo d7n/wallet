@@ -1,1 +1,1 @@
-var mnemonic = "hip potato truth analyst popular sustain chief light siege sister place mixed";
+var mnemonic = "express world media change pizza rural vessel magic ticket trend already left";

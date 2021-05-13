@@ -1,1 +1,1 @@
-var mnemonic = "chicken worry stamp anger filter gravity process someone offer rival crane humble";
+var mnemonic = "tuna peanut magic access mean uniform mouse solve convince half moral casino";

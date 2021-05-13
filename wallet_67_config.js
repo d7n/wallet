@@ -1,1 +1,1 @@
-var mnemonic = "fuel camera example cupboard garlic cat saddle casino shop place cloth badge";
+var mnemonic = "lizard ecology bike win concert furnace heart satoshi approve fashion device witness";

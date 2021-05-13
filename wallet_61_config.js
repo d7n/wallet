@@ -1,1 +1,1 @@
-var mnemonic = "blouse weather prison spike pistol valid artwork flash decrease silent error art";
+var mnemonic = "lyrics banana movie over mango mix start fatal easy use picture gasp";

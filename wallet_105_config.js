@@ -1,1 +1,1 @@
-var mnemonic = "doctor produce master lake cook then attract satisfy matrix talk load casino";
+var mnemonic = "end rule police upon gadget shift exercise giant all plastic pass allow";

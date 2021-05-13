@@ -1,1 +1,1 @@
-var mnemonic = "critic gospel shaft luxury north kit range reduce brief lunar vehicle emerge";
+var mnemonic = "motor document pluck envelope kid labor cereal pigeon explain distance ribbon bird";

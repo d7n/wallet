@@ -1,1 +1,1 @@
-var mnemonic = "paper milk denial wet rural dose master wire apart crouch weird motion";
+var mnemonic = "wheat claw siege galaxy thrive place repair inside ivory border scene grab";

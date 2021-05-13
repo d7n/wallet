@@ -1,1 +1,1 @@
-var mnemonic = "square penalty street radar tonight special swamp round minor deal mask maze";
+var mnemonic = "oak level plug tilt strike wild laptop month innocent pony power such";

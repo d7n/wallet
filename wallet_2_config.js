@@ -1,1 +1,1 @@
-var mnemonic = "pen slab then army trial quit author one crater sick boat ride";
+var mnemonic = "chronic online blame august ankle differ chuckle devote pizza idle emerge deer";

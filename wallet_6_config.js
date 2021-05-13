@@ -1,1 +1,1 @@
-var mnemonic = "large dial divide phone phrase divorce caution subject tooth matter hurt coconut";
+var mnemonic = "mushroom runway blade win enlist shine immense nasty host nest emotion poet";

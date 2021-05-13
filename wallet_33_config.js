@@ -1,1 +1,1 @@
-var mnemonic = "obey chaos helmet snap duty country language gaze ceiling priority volume visual";
+var mnemonic = "destroy core egg plug mirror remind sunny poverty idle panel safe reunion";

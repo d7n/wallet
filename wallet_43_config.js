@@ -1,1 +1,1 @@
-var mnemonic = "habit brave grit cash hope tonight verify life miss base typical nuclear";
+var mnemonic = "glove crater couple join rubber brisk opera need tuition earth vessel olive";

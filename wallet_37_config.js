@@ -1,1 +1,1 @@
-var mnemonic = "spoon joy boil shove suspect ecology burden bachelor honey food dolphin tragic";
+var mnemonic = "paddle shiver pottery harbor addict absurd swallow entire penalty loyal dizzy wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor tooth key desk text vivid demand wedding adapt length sleep forum";
+var mnemonic = "toast stock analyst alone candy one find sweet wear typical street bind";

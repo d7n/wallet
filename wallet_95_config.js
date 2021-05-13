@@ -1,1 +1,1 @@
-var mnemonic = "indicate gasp juice vague gravity type file stay oppose toe alter coil";
+var mnemonic = "sick hybrid brand relief style clown damp advance want burst hotel tube";

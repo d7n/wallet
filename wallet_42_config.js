@@ -1,1 +1,1 @@
-var mnemonic = "tiger tobacco shield middle flower delay over abstract gauge kitten life useless";
+var mnemonic = "stomach cheap embark library turn soccer credit permit spatial become tell fiction";

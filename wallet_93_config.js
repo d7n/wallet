@@ -1,1 +1,1 @@
-var mnemonic = "cram pudding picnic pole strategy relax nuclear mercy fit cousin ill blade";
+var mnemonic = "buddy subject misery rally push quote stock flash access chief great ginger";

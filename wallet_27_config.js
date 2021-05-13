@@ -1,1 +1,1 @@
-var mnemonic = "opinion coconut fan chimney frown book bullet hub quiz identify entry garbage";
+var mnemonic = "clean actress man differ scheme rely flower mass harvest oxygen pyramid hello";

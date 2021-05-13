@@ -1,1 +1,1 @@
-var mnemonic = "current shine tomato reason vehicle demise marine fatigue kind insect holiday mixture";
+var mnemonic = "year place fatigue owner solar casino turtle vital behave rebel spike mystery";

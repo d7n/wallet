@@ -1,1 +1,1 @@
-var mnemonic = "asthma hole thrive exit admit attack chuckle crowd border quality civil powder";
+var mnemonic = "about term zoo uncover impose plastic confirm zebra genius smooth connect garden";

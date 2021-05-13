@@ -1,1 +1,1 @@
-var mnemonic = "catch view few protect ability minute dance stairs bean anger grass lend";
+var mnemonic = "recall about abuse burden jeans abandon minimum put dish forest real obey";

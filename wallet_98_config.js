@@ -1,1 +1,1 @@
-var mnemonic = "range rude popular impact artist giant sister sort gain march click suit";
+var mnemonic = "antenna fame absent coast episode bounce uphold budget glimpse actor capable fault";

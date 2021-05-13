@@ -1,1 +1,1 @@
-var mnemonic = "pepper step fresh outer pudding lunch exercise trigger asset boring jaguar pledge";
+var mnemonic = "before steak brief connect funny palm orchard sweet nut scare jeans crop";

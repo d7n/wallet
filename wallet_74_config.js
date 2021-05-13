@@ -1,1 +1,1 @@
-var mnemonic = "human bacon manage soon buzz lonely custom price federal sing radar trash";
+var mnemonic = "clay leader over shift salon spy book tomorrow frozen dose differ acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger time sail garlic mask visual cube loop churn grit doctor force";
+var mnemonic = "grab exit exotic actress question enable absent relief nerve soon dry extra";

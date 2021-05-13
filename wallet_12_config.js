@@ -1,1 +1,1 @@
-var mnemonic = "what tube bubble wire marriage private wool rescue add treat diamond ivory";
+var mnemonic = "tower palm weather sun apart ramp stand hip absurd gallery throw elite";

@@ -1,1 +1,1 @@
-var mnemonic = "version copper length curve tooth exclude among zebra kingdom trend wisdom innocent";
+var mnemonic = "pioneer extra year oak cabbage echo emerge stool basket own news carry";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon step antenna panic foot wonder waste enlist knife jaguar pulse soda";
+var mnemonic = "enforce hedgehog leader purchase exit salt alone entire menu receive trumpet april";

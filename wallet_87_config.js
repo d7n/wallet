@@ -1,1 +1,1 @@
-var mnemonic = "mesh mandate inform blind unfold feature acid light tourist verb promote medal";
+var mnemonic = "average piece stuff amazing wall music hire cluster fold snow egg message";

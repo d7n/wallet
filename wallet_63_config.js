@@ -1,1 +1,1 @@
-var mnemonic = "stock parent layer stable galaxy wrestle piano track bomb bread flock east";
+var mnemonic = "garden grid couple gate south punch stomach replace balance auto casual hungry";

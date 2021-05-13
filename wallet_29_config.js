@@ -1,1 +1,1 @@
-var mnemonic = "spike bless hand brush success pool boat skill master wage square rough";
+var mnemonic = "rule speak elegant split try person web room lake casual leaf nurse";

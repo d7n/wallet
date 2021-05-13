@@ -1,1 +1,1 @@
-var mnemonic = "chronic solar roast reflect round glimpse leg donkey twin rhythm hundred sentence";
+var mnemonic = "cram present flock metal relax reveal photo tourist train argue cotton fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "crack found frog enforce fork point record provide knife cup picnic era";
+var mnemonic = "unhappy object duty rely guitar jewel shrug gasp crash muffin unable voice";

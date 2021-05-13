@@ -1,1 +1,1 @@
-var mnemonic = "quit extend oak display beyond middle adjust strike afraid artefact dove remind";
+var mnemonic = "winter assist jealous endless nominee accident edge pony relax fashion wealth then";

@@ -1,1 +1,1 @@
-var mnemonic = "fee tube siren eternal monitor second choice shock rate mystery round sunset";
+var mnemonic = "pact check album lift tag wash glove elite fatal audit series much";

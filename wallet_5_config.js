@@ -1,1 +1,1 @@
-var mnemonic = "adult era uncle birth parrot swamp same carbon erosion denial cloth mirror";
+var mnemonic = "empty able twice absent hello game together perfect idea catch token cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble truly vapor sudden they antique immune prepare library soldier injury task";
+var mnemonic = "pony announce march shiver joy march unfair before ride palace tortoise simple";

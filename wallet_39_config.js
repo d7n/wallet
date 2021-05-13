@@ -1,1 +1,1 @@
-var mnemonic = "empower mushroom stove spirit boring attend allow kid company strong despair rifle";
+var mnemonic = "dolphin club point reason there forum small gauge patch stick avoid delay";

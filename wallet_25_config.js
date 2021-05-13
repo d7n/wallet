@@ -1,1 +1,1 @@
-var mnemonic = "innocent robust ocean unusual token canal owner swap finger drip dizzy service";
+var mnemonic = "age poet hazard hammer pilot walnut economy couple energy puppy helmet universe";

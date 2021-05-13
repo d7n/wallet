@@ -1,1 +1,1 @@
-var mnemonic = "spice camp matrix border pitch endless salon frown afford denial vast fold";
+var mnemonic = "flag tower found gate scare neither shove divorce say clean lounge virus";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil youth train hover peace fantasy analyst ride film boss pact silver";
+var mnemonic = "chronic stem forward game shed want deal donkey license appear unveil elegant";

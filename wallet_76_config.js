@@ -1,1 +1,1 @@
-var mnemonic = "talent swing rotate chuckle tail toy turkey humor remember alter sweet debate";
+var mnemonic = "mirror wash foot people pill system notable phone crater zone only fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "alley august enjoy pledge weather moon hawk kit comic cattle seek eternal";
+var mnemonic = "much picture edge collect arm furnace ethics mixture grab member stick sadness";

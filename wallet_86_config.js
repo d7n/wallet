@@ -1,1 +1,1 @@
-var mnemonic = "angry eye polar hip reveal soccer teach pole common ladder echo warm";
+var mnemonic = "bicycle prevent impact churn dynamic popular foster business ginger stand bird cricket";

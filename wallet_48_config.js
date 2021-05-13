@@ -1,1 +1,1 @@
-var mnemonic = "first minor chimney visa better arm total laundry mirror lumber rail menu";
+var mnemonic = "satisfy series click bonus wonder student load robust gym indoor donor chef";

@@ -1,1 +1,1 @@
-var mnemonic = "soft hover scrub various frost end bird holiday exercise busy embody warfare";
+var mnemonic = "heart dice grant survey wage unaware later salon coach inspire daring session";

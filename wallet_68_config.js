@@ -1,1 +1,1 @@
-var mnemonic = "eager together parent board boil crack rude atom wide bid ripple scheme";
+var mnemonic = "concert wasp please motion ethics hill another scale roof uncover erase panic";

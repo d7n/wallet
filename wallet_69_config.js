@@ -1,1 +1,1 @@
-var mnemonic = "way trust foot layer gun desk female detect curtain receive unique abandon";
+var mnemonic = "primary wedding genuine lunar aisle vital shaft apple child eternal panic manage";

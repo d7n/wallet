@@ -1,1 +1,1 @@
-var mnemonic = "mountain mosquito still trade book quantum two exile more conduct occur boss";
+var mnemonic = "despair area soup food recipe gorilla civil deer author pact inquiry burden";

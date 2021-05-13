@@ -1,1 +1,1 @@
-var mnemonic = "belt zoo edge hen found person illness panther prize box drill solid";
+var mnemonic = "time page midnight obvious radio nut interest tuna buzz disorder color relief";

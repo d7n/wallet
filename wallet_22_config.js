@@ -1,1 +1,1 @@
-var mnemonic = "lock bar test rail victory output chat sort mammal season cruise prepare";
+var mnemonic = "base close insane tube rocket globe manual eternal hurt novel coin track";

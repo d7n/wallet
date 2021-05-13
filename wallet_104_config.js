@@ -1,1 +1,1 @@
-var mnemonic = "market predict frog slender bitter apart pistol again fever crucial vivid rich";
+var mnemonic = "blouse hollow spell vendor sketch garden fence glow thing crazy swallow tone";

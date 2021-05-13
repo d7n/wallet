@@ -1,1 +1,1 @@
-var mnemonic = "metal practice divide oval glove enact buyer note dolphin furnace current roof";
+var mnemonic = "arrive ceiling tiny dose lumber solution napkin worth guilt prize cousin radar";

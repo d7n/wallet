@@ -1,1 +1,1 @@
-var mnemonic = "tag hospital quarter army build diamond deny mobile flower correct wool trouble";
+var mnemonic = "leader teach hamster sight direct lonely labor army reform famous enact modify";

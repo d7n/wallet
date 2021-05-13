@@ -1,1 +1,1 @@
-var mnemonic = "private involve jelly jealous sample catch tag joy way exclude educate tape";
+var mnemonic = "real rocket layer disagree approve column food scatter also comic heavy energy";

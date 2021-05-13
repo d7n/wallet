@@ -1,1 +1,1 @@
-var mnemonic = "exercise silent zebra way clip clog increase afraid vault tool flavor upset";
+var mnemonic = "stuff visa rug hire glass supply away image actress lemon season crazy";

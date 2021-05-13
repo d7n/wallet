@@ -1,1 +1,1 @@
-var mnemonic = "pass popular acid orchard cram erosion soda hazard clean gravity shallow leave";
+var mnemonic = "stairs describe spirit elite cliff budget pair fantasy wing husband saddle country";

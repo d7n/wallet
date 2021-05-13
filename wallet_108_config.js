@@ -1,1 +1,1 @@
-var mnemonic = "boy boring creek sense reduce antenna exhaust valley number super stool nasty";
+var mnemonic = "actual ill wine shadow close salt cotton brush sell discover riot rapid";

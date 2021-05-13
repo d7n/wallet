@@ -1,1 +1,1 @@
-var mnemonic = "all chief humble casino demand practice flock gate suspect brief slim crew";
+var mnemonic = "chaos sustain decrease uphold account devote smart thank pioneer jacket toss protect";

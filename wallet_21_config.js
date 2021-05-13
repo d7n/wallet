@@ -1,1 +1,1 @@
-var mnemonic = "since normal symbol unable absorb surge shallow butter dress alpha gossip erode";
+var mnemonic = "gym resemble nothing almost february across avocado side glare hurt host seek";

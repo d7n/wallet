@@ -1,1 +1,1 @@
-var mnemonic = "black skill receive elegant debate remind brain waste umbrella match cool pact";
+var mnemonic = "fork civil game away once hungry juice correct enroll pupil guitar copy";

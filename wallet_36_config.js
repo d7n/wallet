@@ -1,1 +1,1 @@
-var mnemonic = "wage fan antenna twenty broom office blast skin mix select elder bread";
+var mnemonic = "baby frown clever brush warfare over shoulder kiwi ozone stove physical pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair purpose turkey among grid response afraid duck west material train milk";
+var mnemonic = "uncover trigger lucky input crash glide child viable silk choice second circle";

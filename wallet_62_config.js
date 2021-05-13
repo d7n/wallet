@@ -1,1 +1,1 @@
-var mnemonic = "flavor door valley ladder there exist sponsor lamp journey acid box brother";
+var mnemonic = "powder outdoor project solid lion maze degree solar expand jump child call";

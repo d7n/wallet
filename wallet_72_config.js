@@ -1,1 +1,1 @@
-var mnemonic = "patrol cheese slim maid immune horn monitor horse shoulder gas utility polar";
+var mnemonic = "smoke nothing inform broken army either vague sketch harbor canoe output lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract patrol lemon wet earn sport nephew lake kangaroo rebuild trust among";
+var mnemonic = "doll inquiry gold pluck quote open view seminar casual chunk grape brave";

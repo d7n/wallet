@@ -1,1 +1,1 @@
-var mnemonic = "boat bounce oil fog mosquito taste oven million pair intact chunk economy";
+var mnemonic = "remove unknown swear truth enlist elite better someone make divert purse crop";

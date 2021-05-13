@@ -1,1 +1,1 @@
-var mnemonic = "elite van firm slot recipe jeans only relief gallery resource protect question";
+var mnemonic = "crunch address rack pulse kiwi snap harsh aisle flame olive sing situate";

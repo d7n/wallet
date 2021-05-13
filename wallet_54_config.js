@@ -1,1 +1,1 @@
-var mnemonic = "nothing glare castle fringe ginger penalty web describe right recycle midnight wrestle";
+var mnemonic = "tongue royal snow smooth laptop board figure tribe boss drill pause expect";

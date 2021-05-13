@@ -1,1 +1,1 @@
-var mnemonic = "steak canyon assist identify draft distance crouch movie sibling pigeon about local";
+var mnemonic = "gorilla torch decorate slush exact physical photo soon small obvious credit doll";

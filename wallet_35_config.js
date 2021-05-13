@@ -1,1 +1,1 @@
-var mnemonic = "husband tiger you rival they hamster napkin crumble oil eagle boy essay";
+var mnemonic = "palm excuse say thrive indicate badge foster loan lucky season dwarf tower";

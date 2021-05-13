@@ -1,1 +1,1 @@
-var mnemonic = "agree prevent book elevator present hour defy only grant goose degree genre";
+var mnemonic = "mother noise address uncle vacuum code leg popular ball capable focus fog";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose scorpion crowd garage ethics mom naive divorce forest vague neglect nature";
+var mnemonic = "blade finger into excite bitter fuel judge erupt custom brain engine subject";

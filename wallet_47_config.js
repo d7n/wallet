@@ -1,1 +1,1 @@
-var mnemonic = "element roof gold cart chronic wolf caution when maze ask old vendor";
+var mnemonic = "teach enroll bar pigeon essay clap grow maximum vivid nasty jar convince";

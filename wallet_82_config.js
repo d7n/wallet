@@ -1,1 +1,1 @@
-var mnemonic = "machine mixed damage settle injury viable dune thing arrive deal disagree tribe";
+var mnemonic = "crisp hybrid side rally size opinion lawn good false say edge gate";

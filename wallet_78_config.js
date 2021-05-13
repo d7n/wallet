@@ -1,1 +1,1 @@
-var mnemonic = "orbit average bulb drill promote seed absent loyal steak ribbon fortune siege";
+var mnemonic = "entry frozen paddle margin place endless chronic like notice boat protect fee";

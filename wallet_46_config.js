@@ -1,1 +1,1 @@
-var mnemonic = "almost mad danger oppose kite provide blade laundry coin sadness squirrel obey";
+var mnemonic = "job position invite mother kit attitude hard room device toilet emotion rather";

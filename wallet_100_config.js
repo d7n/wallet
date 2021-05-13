@@ -1,1 +1,1 @@
-var mnemonic = "roast immense festival gown purse oven level outer juice other window cube";
+var mnemonic = "ask canal conduct detail glad invest slim lock airport valid question gun";

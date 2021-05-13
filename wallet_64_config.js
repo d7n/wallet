@@ -1,1 +1,1 @@
-var mnemonic = "copy diet cattle middle finger stand lecture climb joke title chapter brick";
+var mnemonic = "autumn pen marine story feed soda affair math topic panic expire surge";

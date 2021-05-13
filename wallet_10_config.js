@@ -1,1 +1,1 @@
-var mnemonic = "animal transfer define kick master west bundle reflect dinner cotton safe banana";
+var mnemonic = "april brand curious jungle ring utility tribe protect attitude depart special dignity";

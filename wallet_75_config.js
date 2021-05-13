@@ -1,1 +1,1 @@
-var mnemonic = "pony clump sauce police sphere hat shoe excuse disagree grief tongue swear";
+var mnemonic = "below adapt lyrics ankle wood budget jewel sell course reopen junk small";

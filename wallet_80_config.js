@@ -1,1 +1,1 @@
-var mnemonic = "envelope clip room paddle resemble uphold develop page suspect gold carbon green";
+var mnemonic = "sock manage lizard ribbon wonder because tell visual guitar uncle give spice";

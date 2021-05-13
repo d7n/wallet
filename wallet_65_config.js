@@ -1,1 +1,1 @@
-var mnemonic = "negative bachelor output snake bamboo cradle course employ first joy rude argue";
+var mnemonic = "soldier calm uniform injury banner card slide sunset stomach beach electric deposit";

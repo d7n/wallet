@@ -1,1 +1,1 @@
-var mnemonic = "wife ball picture dose dice senior mushroom guitar spin admit happy circle";
+var mnemonic = "school cement barely cream symptom retire index giggle inmate cruel credit input";

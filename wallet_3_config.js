@@ -1,1 +1,1 @@
-var mnemonic = "process stove whip craft noodle skate tackle echo scout trade tent palm";
+var mnemonic = "analyst survey penalty acquire food assist stadium timber item dragon rescue ozone";

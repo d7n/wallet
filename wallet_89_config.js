@@ -1,1 +1,1 @@
-var mnemonic = "artwork minor manage tide best insane sight average smile reunion length note";
+var mnemonic = "method luxury coach oppose kiwi salad poverty usual success various trophy dress";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby damage odor sing essence biology decline daughter rude hundred raccoon author";
+var mnemonic = "goose junk ridge make fine tumble syrup wedding edge marriage meat struggle";
