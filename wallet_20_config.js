@@ -1,1 +1,1 @@
-var mnemonic = "throw unhappy welcome absurd path cousin liar clay first language produce wave";
+var mnemonic = "glove insane crater purchase pull attack agree tragic indicate search reform clean";

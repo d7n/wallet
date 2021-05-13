@@ -1,1 +1,1 @@
-var mnemonic = "garment blouse gesture exhibit manual clock tent often denial control identify harbor";
+var mnemonic = "text lazy critic promote office fitness impose achieve burden rail wood refuse";

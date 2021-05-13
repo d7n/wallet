@@ -1,1 +1,1 @@
-var mnemonic = "thank notable twice spare suit fix quantum member begin armor endless foster";
+var mnemonic = "harvest tape home violin apple interest fat ribbon donkey cricket utility walnut";

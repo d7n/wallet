@@ -1,1 +1,1 @@
-var mnemonic = "clump pottery energy earth adapt response glide void club delay scatter crew";
+var mnemonic = "warrior muffin patient cannon enroll drum ticket dinner uniform neglect fat cream";

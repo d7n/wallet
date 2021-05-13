@@ -1,1 +1,1 @@
-var mnemonic = "invite winner chalk stone real cream company author regret below bitter minor";
+var mnemonic = "image tip ask about supreme column dizzy upon erupt citizen risk surface";

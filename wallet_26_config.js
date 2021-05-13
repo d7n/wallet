@@ -1,1 +1,1 @@
-var mnemonic = "ribbon firm verify wrist wait tennis dawn buzz mesh click man gesture";
+var mnemonic = "march excuse where donor tank state habit focus guide pilot fault lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "engage current betray brain close tuna soul age tackle smart depth wonder";
+var mnemonic = "divide monster angry final notable prize possible penalty tragic bracket clay crater";

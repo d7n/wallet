@@ -1,1 +1,1 @@
-var mnemonic = "phrase scrub escape army canal burger amazing one grid night list camp";
+var mnemonic = "need inmate image upon shoe concert aware harbor tongue yellow resist unfold";

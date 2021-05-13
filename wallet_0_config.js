@@ -1,1 +1,1 @@
-var mnemonic = "opinion brand bench erupt fiber seven bottom shoot turtle lumber hungry funny";
+var mnemonic = "outside amused supreme earn length oven rubber spatial bleak pet make rain";

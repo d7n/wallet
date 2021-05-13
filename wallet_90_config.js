@@ -1,1 +1,1 @@
-var mnemonic = "other black skull dune garbage index shrimp have tennis slot scout radio";
+var mnemonic = "ginger season unlock anger organ half file become valve swap valve share";

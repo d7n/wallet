@@ -1,1 +1,1 @@
-var mnemonic = "stable false jeans asset phone icon ginger social march wrist brand various";
+var mnemonic = "attack behave elite detect issue zero cash nuclear enough turn coast agent";

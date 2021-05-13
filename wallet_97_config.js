@@ -1,1 +1,1 @@
-var mnemonic = "argue narrow sister media custom visit effort laptop rail ice isolate radar";
+var mnemonic = "symptom wedding shiver decide north pen render mask govern just faint endorse";

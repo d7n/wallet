@@ -1,1 +1,1 @@
-var mnemonic = "okay split negative check hobby grace noodle prize awesome act rice clerk";
+var mnemonic = "view gallery steak level point episode stone divide grow science merit ocean";

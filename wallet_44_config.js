@@ -1,1 +1,1 @@
-var mnemonic = "birth trust cricket practice upon shoe erase budget ecology raven lock suggest";
+var mnemonic = "symbol eight monitor snake ladder maximum alarm pond solve busy tribe neither";

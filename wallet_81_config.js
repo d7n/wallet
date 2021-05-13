@@ -1,1 +1,1 @@
-var mnemonic = "fiction worth fiction basket adapt rule little time trumpet space embrace crucial";
+var mnemonic = "candy prepare section enhance marble razor truck all echo enable friend moon";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp grant trumpet craft happy volcano load over valve shine door tent";
+var mnemonic = "sunset reflect engine era crouch control car divorce ginger dash alien anger";

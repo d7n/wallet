@@ -1,1 +1,1 @@
-var mnemonic = "trust athlete wire floor noodle team another suffer romance silk year spin";
+var mnemonic = "mammal finger man accuse raven salon antenna alpha market length young rival";

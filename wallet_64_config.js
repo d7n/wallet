@@ -1,1 +1,1 @@
-var mnemonic = "affair drop phrase teach mind apart position crystal crouch switch sure wheat";
+var mnemonic = "bulb employ agree lobster embrace round journey thumb glad sail goddess document";

@@ -1,1 +1,1 @@
-var mnemonic = "voice shadow click pluck phrase artwork erase mom grow window wall olympic";
+var mnemonic = "rabbit under never acid parent drop trumpet myth drastic entry hero physical";

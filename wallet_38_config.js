@@ -1,1 +1,1 @@
-var mnemonic = "another nuclear spray obscure control blast wing hover exchange shaft traffic myself";
+var mnemonic = "advice split laugh elite curve task few jeans acoustic police like flock";

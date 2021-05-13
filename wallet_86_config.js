@@ -1,1 +1,1 @@
-var mnemonic = "defense february laptop library food ugly kingdom shop inflict neglect large steak";
+var mnemonic = "drive capital shift dog into govern april vote enhance embody ethics present";

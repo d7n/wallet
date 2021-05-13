@@ -1,1 +1,1 @@
-var mnemonic = "cry turkey gentle blame unfair wage picture there risk right annual diagram";
+var mnemonic = "claw monkey sphere pet anchor fun tunnel upon clutch fashion pole future";

@@ -1,1 +1,1 @@
-var mnemonic = "already shy curve volcano vintage swap helmet clock mix purchase pool ahead";
+var mnemonic = "divorce poverty effort rack comfort puzzle clay mammal search copper vapor jeans";

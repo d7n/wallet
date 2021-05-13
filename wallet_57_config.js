@@ -1,1 +1,1 @@
-var mnemonic = "pet dust quick cruise body tumble agent nominee viable wet say coast";
+var mnemonic = "talk jungle inmate select ranch uncover journey into skill suggest adapt banner";

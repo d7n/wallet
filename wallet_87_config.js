@@ -1,1 +1,1 @@
-var mnemonic = "dress hub analyst kick sadness bind fury joke muffin quick lyrics foil";
+var mnemonic = "harvest meadow inmate inside area digital aspect ugly lumber tag custom canyon";

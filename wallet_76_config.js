@@ -1,1 +1,1 @@
-var mnemonic = "perfect evoke wisdom news teach orient debris ensure royal pipe rapid toe";
+var mnemonic = "kid upgrade drill major emotion voice city sail critic monkey index expect";

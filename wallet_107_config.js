@@ -1,1 +1,1 @@
-var mnemonic = "execute labor kid drive bright artefact envelope share pet solution reflect smoke";
+var mnemonic = "unit involve abstract kitchen dash exist marble allow patrol burst simple empower";

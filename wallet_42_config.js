@@ -1,1 +1,1 @@
-var mnemonic = "breeze shoulder liquid laptop detect tide motor law library impulse ill virtual";
+var mnemonic = "miracle true crystal avoid eagle canoe infant wrap march smoke high pigeon";

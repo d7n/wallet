@@ -1,1 +1,1 @@
-var mnemonic = "lazy frost walk radar jealous liar idle unit nation pigeon horror blush";
+var mnemonic = "idea genius present elephant share advice license edit peace strategy sponsor size";

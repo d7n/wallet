@@ -1,1 +1,1 @@
-var mnemonic = "health absorb milk wear uncle course next airport grass unlock pencil remind";
+var mnemonic = "spy true labor curve genre miracle switch inject involve choose load mechanic";

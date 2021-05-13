@@ -1,1 +1,1 @@
-var mnemonic = "possible special pair dinner sustain search flag endless turkey expect burden fragile";
+var mnemonic = "diamond friend battle claim assume muffin culture pepper cruise expect display indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler first exist design head borrow beyond garment abandon copy supply bullet";
+var mnemonic = "cry item quote give disorder kite thumb air arm wage scatter west";

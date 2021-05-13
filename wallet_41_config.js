@@ -1,1 +1,1 @@
-var mnemonic = "trigger draft example crawl final tomato gossip amateur wasp vessel alert suit";
+var mnemonic = "palm matter athlete blur fix athlete cave fetch venue youth paddle ten";

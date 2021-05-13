@@ -1,1 +1,1 @@
-var mnemonic = "rural empower size wide boss wall because item buzz champion diary pattern";
+var mnemonic = "lend entry dignity differ steak wrap friend burst arm attract gauge voice";

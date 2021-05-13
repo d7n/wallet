@@ -1,1 +1,1 @@
-var mnemonic = "garment foot over avoid theme bone business round glass problem shoot march";
+var mnemonic = "dial enemy dance quantum female valid opera satisfy economy alpha fury spy";

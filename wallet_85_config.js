@@ -1,1 +1,1 @@
-var mnemonic = "history prevent pulp broom law army game radar glue wool elevator noise";
+var mnemonic = "retire unfair aware sound surround option gentle enhance harbor together kit bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "bag casual turtle zoo nuclear era waste tower amused scheme fluid giant";
+var mnemonic = "guess debate viable license split sure ancient profit arrow dawn mirror labor";

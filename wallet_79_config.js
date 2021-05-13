@@ -1,1 +1,1 @@
-var mnemonic = "eager perfect little legend gas into wheat decade private rapid obscure staff";
+var mnemonic = "coral elite few lumber retreat clip forward metal hospital harvest artwork client";

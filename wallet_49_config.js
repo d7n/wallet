@@ -1,1 +1,1 @@
-var mnemonic = "rail mistake deposit tennis side canyon empower snake violin priority middle used";
+var mnemonic = "elite tone diagram welcome memory rally trigger drift feel food good black";

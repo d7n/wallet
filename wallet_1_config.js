@@ -1,1 +1,1 @@
-var mnemonic = "around combine below when imitate erase toward town antenna pelican crouch plastic";
+var mnemonic = "provide remember weapon used pear cruel this decrease bullet matrix seminar wonder";

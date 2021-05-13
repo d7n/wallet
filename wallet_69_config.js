@@ -1,1 +1,1 @@
-var mnemonic = "ramp swarm sun couple castle fashion rule tide spy range maze upgrade";
+var mnemonic = "machine melody wire decade hockey little autumn toy cage lemon trick quality";

@@ -1,1 +1,1 @@
-var mnemonic = "nice endless assume fitness bird depend match stadium rifle loud wool diet";
+var mnemonic = "moment bacon donate math tortoise argue shoulder lobster bless develop cool rely";

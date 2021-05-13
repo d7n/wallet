@@ -1,1 +1,1 @@
-var mnemonic = "fringe trust vapor energy remind slow position pony sausage gaze among arctic";
+var mnemonic = "advance plunge trial throw vote knee path sunny solid thumb embrace soft";

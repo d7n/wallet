@@ -1,1 +1,1 @@
-var mnemonic = "word slight outdoor nephew dream person inmate obvious leopard tower cloth ticket";
+var mnemonic = "become neck volcano unable sick pupil buddy bunker cool goose figure hair";

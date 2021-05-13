@@ -1,1 +1,1 @@
-var mnemonic = "patrol point mechanic pen fresh figure blame lake card decline private unique";
+var mnemonic = "term oyster grass weird gain half salute anchor detail fiber afford grant";

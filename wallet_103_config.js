@@ -1,1 +1,1 @@
-var mnemonic = "holiday proof correct pudding ask orange hobby sea violin sausage taxi million";
+var mnemonic = "affair frequent find crew expect deliver oven fetch resemble resist ranch scout";

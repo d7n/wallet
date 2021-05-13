@@ -1,1 +1,1 @@
-var mnemonic = "release useless shop family tube grain swarm buddy guard upset assist sort";
+var mnemonic = "harbor cousin primary scorpion fashion drama horror season accident hip alter marine";

@@ -1,1 +1,1 @@
-var mnemonic = "act half science tank ready public cram cancel delay tube abstract rival";
+var mnemonic = "always sample marine work burden misery antenna ritual fence cause scale love";

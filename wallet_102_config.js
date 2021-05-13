@@ -1,1 +1,1 @@
-var mnemonic = "quarter gentle fold web winter trumpet arrow eternal type slab enemy soon";
+var mnemonic = "carpet cricket lake endless silk cereal outside slab leopard tank crack run";

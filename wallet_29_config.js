@@ -1,1 +1,1 @@
-var mnemonic = "animal dove worry grow human gate same parrot wife real shiver rent";
+var mnemonic = "craft detail maximum main quarter runway crunch monitor film inch wheat switch";

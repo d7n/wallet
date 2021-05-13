@@ -1,1 +1,1 @@
-var mnemonic = "critic typical session ancient salt exercise become snack stay edge width oval";
+var mnemonic = "place soon uphold orange also indicate curtain broccoli royal omit sauce swing";

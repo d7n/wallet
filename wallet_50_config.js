@@ -1,1 +1,1 @@
-var mnemonic = "ecology infant sail orange tunnel odor course electric proof finger upper exit";
+var mnemonic = "melt crazy cash hello achieve release amateur school actual frog guess garlic";

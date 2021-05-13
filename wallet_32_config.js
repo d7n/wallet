@@ -1,1 +1,1 @@
-var mnemonic = "plunge exile also dentist convince any twice flash ring organ novel current";
+var mnemonic = "sport owner absent wheat select accident annual lecture office can crash render";

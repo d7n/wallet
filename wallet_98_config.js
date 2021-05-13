@@ -1,1 +1,1 @@
-var mnemonic = "below gap cheap unfold card volcano forest scissors club swing flavor antenna";
+var mnemonic = "tell solution symptom shuffle depth audit trust sense picnic enemy verb prison";

@@ -1,1 +1,1 @@
-var mnemonic = "arm welcome future bargain sibling deposit mansion day endorse spin fantasy patrol";
+var mnemonic = "pitch october element radio sword script myself proud soldier near bone analyst";

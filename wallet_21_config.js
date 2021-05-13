@@ -1,1 +1,1 @@
-var mnemonic = "mutual manage wasp result cake one brain warm left fix home alien";
+var mnemonic = "spoon click pause half busy sting minute august nephew address animal cash";

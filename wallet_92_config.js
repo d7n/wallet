@@ -1,1 +1,1 @@
-var mnemonic = "swamp dismiss rate festival answer like thank cycle satoshi chicken trigger ankle";
+var mnemonic = "share essay license embark ceiling win slush gallery ready ticket also trend";

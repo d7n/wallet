@@ -1,1 +1,1 @@
-var mnemonic = "afraid pond helmet recall final pelican satoshi together absent sport human dynamic";
+var mnemonic = "rotate coast cushion hurdle carbon buyer device only farm group forget fury";

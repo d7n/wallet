@@ -1,1 +1,1 @@
-var mnemonic = "jar charge ginger sentence skin behind squirrel card law tape mail load";
+var mnemonic = "cargo knife slim solution pluck elephant hold wall smooth print excite marine";

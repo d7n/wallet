@@ -1,1 +1,1 @@
-var mnemonic = "sweet pen endless early gadget disorder trigger vanish veteran beef resemble cupboard";
+var mnemonic = "used crop sun valley same address mix bulk giant review lunar tool";

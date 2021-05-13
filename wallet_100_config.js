@@ -1,1 +1,1 @@
-var mnemonic = "fun tower chronic barrel only umbrella clay high judge hip assist oppose";
+var mnemonic = "monster drive draft void immense trust forward local clinic hedgehog gloom avoid";

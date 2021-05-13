@@ -1,1 +1,1 @@
-var mnemonic = "orbit uncle dizzy filter action explain gauge census bird island lemon prefer";
+var mnemonic = "speed math fork catch liberty uphold exclude ginger monkey cruel depth flower";

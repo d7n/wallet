@@ -1,1 +1,1 @@
-var mnemonic = "mesh swear chimney document coin market dream game gap fitness guide shoe";
+var mnemonic = "day receive worry glory hello away office economy frost approve into future";

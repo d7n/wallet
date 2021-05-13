@@ -1,1 +1,1 @@
-var mnemonic = "talent skirt either shoe cruise excite friend awesome silk can eager obvious";
+var mnemonic = "impose tank chair odor scrap range traffic canal box stove wasp paddle";

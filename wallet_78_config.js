@@ -1,1 +1,1 @@
-var mnemonic = "topple coffee project where clay mixed middle fork finish useful miss lawsuit";
+var mnemonic = "type blossom dignity grief soap fade view crater unaware wagon orange valid";

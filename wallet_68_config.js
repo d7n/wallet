@@ -1,1 +1,1 @@
-var mnemonic = "kitten fashion pyramid cash boat company gravity injury cloth leopard rain dose";
+var mnemonic = "smile young token claim midnight tooth tilt problem hour lemon drill orient";

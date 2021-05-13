@@ -1,1 +1,1 @@
-var mnemonic = "tell obscure cake cloth rookie sadness client pumpkin film cube unveil excuse";
+var mnemonic = "gospel forest alley reunion nice lend version oil purse poem fat discover";

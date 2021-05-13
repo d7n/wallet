@@ -1,1 +1,1 @@
-var mnemonic = "orient tide era staff analyst argue tortoise web mountain anchor warfare repeat";
+var mnemonic = "bamboo brave antique antenna liberty will quick orchard else resource replace priority";

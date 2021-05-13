@@ -1,1 +1,1 @@
-var mnemonic = "world rigid ball target permit cool prison ostrich east enlist hospital such";
+var mnemonic = "glance crop flight diesel salmon cattle column lobster tired analyst comfort pull";

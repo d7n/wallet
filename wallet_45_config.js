@@ -1,1 +1,1 @@
-var mnemonic = "gown shiver swing slim globe giant hour empty suspect hand waste test";
+var mnemonic = "cradle hole apple bus latin shield lawsuit save version clutch balance game";

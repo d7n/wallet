@@ -1,1 +1,1 @@
-var mnemonic = "icon debate family north mean tent loud proof evidence cook hobby gauge";
+var mnemonic = "fit three reveal analyst scorpion man harbor hero symptom balcony marine equal";

@@ -1,1 +1,1 @@
-var mnemonic = "useful electric jealous hood genuine toe cereal swarm media cheap unusual delay";
+var mnemonic = "about clap cabin car rally mutual say friend supply deal pitch debate";

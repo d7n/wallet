@@ -1,1 +1,1 @@
-var mnemonic = "belt crime skate horn surround north time gravity license fashion symptom sausage";
+var mnemonic = "swarm oblige repair clutch actual pulp error lecture kind pond any ship";

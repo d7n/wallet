@@ -1,1 +1,1 @@
-var mnemonic = "thank tent analyst recycle mobile supply cluster license curve suit setup warm";
+var mnemonic = "conduct property split rebuild marine weasel coyote share pulse slight correct neglect";

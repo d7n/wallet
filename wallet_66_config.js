@@ -1,1 +1,1 @@
-var mnemonic = "exchange fence veteran project source play force vault party airport cash skate";
+var mnemonic = "early fringe art dress design seminar unable grab symbol nominee wear eyebrow";

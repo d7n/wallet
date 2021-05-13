@@ -1,1 +1,1 @@
-var mnemonic = "long energy position omit swing oval require embark kind toward antenna pistol";
+var mnemonic = "coral present access neglect actual match kitchen shock machine measure useful multiply";

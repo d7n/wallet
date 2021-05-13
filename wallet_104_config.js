@@ -1,1 +1,1 @@
-var mnemonic = "vault glue art source potato group pluck double adjust hair smoke nephew";
+var mnemonic = "area carry night anger film private south emotion mutual clip venue flock";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk stick planet sweet trouble glide cricket spice verify proof quantum rate";
+var mnemonic = "spot pride nut network script suit artist fine have sauce dawn cotton";

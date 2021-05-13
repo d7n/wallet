@@ -1,1 +1,1 @@
-var mnemonic = "wife record cost outer fetch summer luxury cloud vital expect giraffe cry";
+var mnemonic = "marine what company pretty flush circle goddess frequent orbit capable tragic sight";

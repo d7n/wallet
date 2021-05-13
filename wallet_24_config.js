@@ -1,1 +1,1 @@
-var mnemonic = "head brick nuclear script own leg stand aware useless arena merry library";
+var mnemonic = "climb film inhale chest unaware issue curious escape try great hospital alpha";

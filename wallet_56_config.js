@@ -1,1 +1,1 @@
-var mnemonic = "keen neutral guilt void valve artist wasp chef drum wasp fortune life";
+var mnemonic = "harvest river trim lamp minor affair display awesome century enact assault charge";

@@ -1,1 +1,1 @@
-var mnemonic = "sport apple essence swim weekend invest this prepare broccoli wise cube time";
+var mnemonic = "spray marble bubble orphan grace kiss blush easy debate food mouse mention";

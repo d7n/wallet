@@ -1,1 +1,1 @@
-var mnemonic = "pepper wolf deputy mountain category blame slot live punch minor park lazy";
+var mnemonic = "wet fruit range ranch innocent degree laptop mention dry away various physical";

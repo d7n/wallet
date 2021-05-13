@@ -1,1 +1,1 @@
-var mnemonic = "husband hotel cousin oval fog pen fault border attitude ketchup cabbage machine";
+var mnemonic = "clinic machine very main food rookie option axis drum hold fat finger";

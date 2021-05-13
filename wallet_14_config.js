@@ -1,1 +1,1 @@
-var mnemonic = "mix cave cook similar message super hidden hungry write guard jewel cross";
+var mnemonic = "ginger coconut chronic portion zone few reward ensure pill load hobby habit";

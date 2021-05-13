@@ -1,1 +1,1 @@
-var mnemonic = "practice ask cherry early spy dinosaur game hawk tongue where warrior crush";
+var mnemonic = "lunch eyebrow between believe office upset trap team salad write small wine";

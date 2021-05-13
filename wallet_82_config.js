@@ -1,1 +1,1 @@
-var mnemonic = "city wrist collect fetch swim minimum voice swarm proud violin joy palm";
+var mnemonic = "doctor bundle mutual drill flower okay hat unique once object oval radar";

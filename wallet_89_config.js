@@ -1,1 +1,1 @@
-var mnemonic = "journey cost history skill relax thought now gold salad palm property analyst";
+var mnemonic = "aware wealth box capital margin glide injury fame grow water apart dragon";

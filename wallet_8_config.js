@@ -1,1 +1,1 @@
-var mnemonic = "bench rich gauge any omit thrive poem dune harbor select capable turkey";
+var mnemonic = "alert cushion shuffle outside begin kitten decide space vast cry office check";

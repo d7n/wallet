@@ -1,1 +1,1 @@
-var mnemonic = "improve craft vanish waste walk ability chase soup cattle thing food lyrics";
+var mnemonic = "private swear nominee claw evidence cross access roast final width claim power";
