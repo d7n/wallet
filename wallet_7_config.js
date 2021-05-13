@@ -1,1 +1,1 @@
-var mnemonic = "example hawk clump plastic cherry pupil buffalo repeat mind arm brain weapon";
+var mnemonic = "review rare soap dream vivid win dumb base relax visual twice present";

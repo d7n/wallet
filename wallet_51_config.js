@@ -1,1 +1,1 @@
-var mnemonic = "above light dutch magic board clever boring pulp cotton digital service endless";
+var mnemonic = "expand learn base give business move bubble moon shed viable wonder angle";

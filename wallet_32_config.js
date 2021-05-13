@@ -1,1 +1,1 @@
-var mnemonic = "marine vicious cousin rally follow whisper cattle utility glove ripple such genre";
+var mnemonic = "super scene vibrant cool wink sea forest vocal grant good right exhibit";

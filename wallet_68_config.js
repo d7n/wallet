@@ -1,1 +1,1 @@
-var mnemonic = "vivid regular path exhibit armed valley chair permit absurd smile neck private";
+var mnemonic = "dumb fix ticket level game nasty bring tunnel day empty winter will";

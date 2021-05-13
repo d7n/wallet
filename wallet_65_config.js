@@ -1,1 +1,1 @@
-var mnemonic = "predict minute session win estate skirt tomorrow scrap casino hundred depart squirrel";
+var mnemonic = "border provide require feel hand retreat swing mistake base wet seat afford";

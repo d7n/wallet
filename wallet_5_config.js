@@ -1,1 +1,1 @@
-var mnemonic = "ship luggage code rate oyster south point reopen steak rib antenna push";
+var mnemonic = "inquiry prize gold fossil must pulp muscle guilt wall more faint print";

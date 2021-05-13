@@ -1,1 +1,1 @@
-var mnemonic = "immune dignity degree throw pyramid web fashion diesel scout pitch view provide";
+var mnemonic = "nurse useless spin spoil desert success same skate uncle truth tag tag";

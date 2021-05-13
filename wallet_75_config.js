@@ -1,1 +1,1 @@
-var mnemonic = "clip fitness fluid champion heart sing harvest marine drip soda swing able";
+var mnemonic = "pupil melody crazy athlete furnace negative thrive purity casual pizza skull pet";

@@ -1,1 +1,1 @@
-var mnemonic = "devote ball army drift elegant visual save coral wealth family harvest love";
+var mnemonic = "general cargo cruel taxi palace range network over wool adapt hand coyote";

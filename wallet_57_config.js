@@ -1,1 +1,1 @@
-var mnemonic = "ramp mobile green label goat rebuild merge stone border denial wonder hint";
+var mnemonic = "embody obtain gesture age enter defy digital consider travel nominee subject fame";

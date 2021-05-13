@@ -1,1 +1,1 @@
-var mnemonic = "tourist stay output blue supreme fluid innocent arrow bleak invite sample execute";
+var mnemonic = "file gap column scan cousin around myth copper pyramid motion dose buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "draft rate session dial trial credit large remain year staff charge lend";
+var mnemonic = "relax cradle wash unable sting mirror final matrix trouble chase morning rural";

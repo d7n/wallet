@@ -1,1 +1,1 @@
-var mnemonic = "calm joy occur laptop once story cruise lunch hero okay man mule";
+var mnemonic = "pole wine divide cute hidden ginger brain market auction run define kidney";

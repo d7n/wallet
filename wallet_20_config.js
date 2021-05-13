@@ -1,1 +1,1 @@
-var mnemonic = "rookie settle trend milk vendor spatial water mass pottery gloom move float";
+var mnemonic = "initial kitchen estate fan copy fancy tunnel filter blame story good gap";

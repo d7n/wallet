@@ -1,1 +1,1 @@
-var mnemonic = "bean patient enrich fatal since angle crush paper zoo loyal spoil chief";
+var mnemonic = "timber stairs calm month cost increase mobile fluid arrow rigid dice leisure";

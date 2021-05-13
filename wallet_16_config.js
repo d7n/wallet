@@ -1,1 +1,1 @@
-var mnemonic = "income zebra cheap ramp small debris holiday tomato section shell drastic outer";
+var mnemonic = "note fossil hammer culture pool annual volcano wise glare injury skin slight";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome zone arrange lens deer negative upper resource correct eyebrow spoil kitchen";
+var mnemonic = "imitate main grunt stand make sword say couch rifle topple state drop";

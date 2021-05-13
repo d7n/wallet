@@ -1,1 +1,1 @@
-var mnemonic = "mosquito wool shoe champion sort wolf elephant tank price protect brand peasant";
+var mnemonic = "casino present squeeze shallow stay whip speed salute rare very toilet mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy window steel drum height pioneer cream describe clock aerobic series elephant";
+var mnemonic = "fruit memory betray acoustic panther reason deal area field crowd inform foil";

@@ -1,1 +1,1 @@
-var mnemonic = "profit source snack swift demise aim bargain artefact insane trash flip convince";
+var mnemonic = "false vapor rally vessel human blush input erosion scale round soon fence";

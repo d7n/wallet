@@ -1,1 +1,1 @@
-var mnemonic = "cousin glance donor artwork hurt ramp castle snap degree gold half animal";
+var mnemonic = "alcohol accident square abuse category moment shuffle cover mixed lend guard grape";

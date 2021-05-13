@@ -1,1 +1,1 @@
-var mnemonic = "please bench confirm mad seminar bag blast divide doctor home lottery thing";
+var mnemonic = "manual fluid oil system fantasy keep rose vacant hybrid track use season";

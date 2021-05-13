@@ -1,1 +1,1 @@
-var mnemonic = "upon year private shrimp demand kangaroo pipe reunion clown brisk private plunge";
+var mnemonic = "trumpet will gather right whisper material clump key goat detail chase eagle";

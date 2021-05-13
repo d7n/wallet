@@ -1,1 +1,1 @@
-var mnemonic = "local stage erupt normal juice envelope lawsuit dutch mammal worth stereo mesh";
+var mnemonic = "forum pottery bomb social rack salt leave aunt novel stool viable wall";

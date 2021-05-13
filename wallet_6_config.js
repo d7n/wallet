@@ -1,1 +1,1 @@
-var mnemonic = "crash farm taste coil echo train century clerk refuse bring peanut recipe";
+var mnemonic = "coast special three random loyal stick mammal before match swallow tomorrow verb";

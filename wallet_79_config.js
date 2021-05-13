@@ -1,1 +1,1 @@
-var mnemonic = "foot champion online wash attend scissors age lift ramp net monster always";
+var mnemonic = "day distance battle music clap purse clock royal labor ask pact limb";

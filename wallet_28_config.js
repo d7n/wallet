@@ -1,1 +1,1 @@
-var mnemonic = "squirrel cute idea source body proof awkward various token author crush olympic";
+var mnemonic = "fault link fall churn dice grab cheap love garbage void smoke oak";

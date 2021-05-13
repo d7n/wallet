@@ -1,1 +1,1 @@
-var mnemonic = "entire over pottery mammal gift decrease scrap atom liberty snap chair video";
+var mnemonic = "original comfort lamp minor fly outer artwork market average describe surge sort";

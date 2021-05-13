@@ -1,1 +1,1 @@
-var mnemonic = "exotic engine clay venture olive young pistol electric that laundry candy educate";
+var mnemonic = "deposit option average worth embrace sock neither price oyster review fire bean";

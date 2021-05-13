@@ -1,1 +1,1 @@
-var mnemonic = "unfold kid favorite flight sphere tragic hawk tiger faculty salon dawn awesome";
+var mnemonic = "nature school maze behind afraid include crush grid name custom limit orient";

@@ -1,1 +1,1 @@
-var mnemonic = "roof next wonder total fringe smart present lava since soap fatigue panel";
+var mnemonic = "rate candy slab grit vibrant dutch main erase obvious pigeon state feature";

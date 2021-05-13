@@ -1,1 +1,1 @@
-var mnemonic = "glad heavy stay plastic gauge head bounce fox comfort mail river execute";
+var mnemonic = "very hire human fever wreck during captain indoor divorce jazz hope walk";

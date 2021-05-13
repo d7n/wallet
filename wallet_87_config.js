@@ -1,1 +1,1 @@
-var mnemonic = "soup cat october purpose unusual flame canvas category combine media upper drama";
+var mnemonic = "company stone lesson kit require joke scrub oyster trash nephew doll property";

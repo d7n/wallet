@@ -1,1 +1,1 @@
-var mnemonic = "exit aerobic energy sick admit stomach absent first special sauce attack prison";
+var mnemonic = "dumb index purse token vanish marble toe hello enjoy among knock arrive";

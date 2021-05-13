@@ -1,1 +1,1 @@
-var mnemonic = "monkey glow tilt enough defense pave question six emotion regret time artwork";
+var mnemonic = "brief huge enact curious duck album private stairs happy april public cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "panel face economy walnut wife fabric strong thrive rule same over quote";
+var mnemonic = "salt forget sorry relief when annual spy giant mouse stove talk first";

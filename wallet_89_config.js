@@ -1,1 +1,1 @@
-var mnemonic = "cake noodle fashion perfect shaft thrive shrimp over screen music flip arm";
+var mnemonic = "sausage airport guitar curious barrel chicken comic noise expire kid catch never";

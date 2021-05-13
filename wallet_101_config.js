@@ -1,1 +1,1 @@
-var mnemonic = "trash galaxy chief flame violin rapid silver ability never network memory weird";
+var mnemonic = "amount chair together harbor say naive wild explain pistol segment foam bundle";

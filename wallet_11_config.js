@@ -1,1 +1,1 @@
-var mnemonic = "scrap access plate grid cinnamon velvet august duty offer aim trouble gas";
+var mnemonic = "clever soap ice reunion mother repair ankle play obscure worth sketch space";

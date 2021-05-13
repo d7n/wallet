@@ -1,1 +1,1 @@
-var mnemonic = "chapter all worry amused child cliff tomato pact custom bundle alpha earth";
+var mnemonic = "chef swear release zero angle poverty hill fiscal flag breeze taste output";

@@ -1,1 +1,1 @@
-var mnemonic = "mix spoon promote involve unveil elder dawn scene brother security lumber draw";
+var mnemonic = "swing satisfy tortoise toddler carbon helmet warfare change slender hidden bread online";

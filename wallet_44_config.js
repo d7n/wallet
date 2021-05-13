@@ -1,1 +1,1 @@
-var mnemonic = "day coral unique denial cream glare rent wolf sheriff turtle essence coach";
+var mnemonic = "garden deny marriage clog urge thumb lamp dignity churn pottery manual plastic";

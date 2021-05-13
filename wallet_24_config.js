@@ -1,1 +1,1 @@
-var mnemonic = "ring flush panther vivid amount purity hello tag uniform supreme sword drip";
+var mnemonic = "myself puzzle enough person village enrich unknown invite erase transfer grocery special";

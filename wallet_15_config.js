@@ -1,1 +1,1 @@
-var mnemonic = "clown chuckle suspect mix advance clutch tired satoshi pistol scene round leader";
+var mnemonic = "spray merit dynamic bag mercy near call mercy century nothing about depend";

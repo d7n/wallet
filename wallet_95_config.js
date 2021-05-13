@@ -1,1 +1,1 @@
-var mnemonic = "fan treat tail demand vicious galaxy myth enrich citizen festival patient exhaust";
+var mnemonic = "acoustic opera husband involve pact awkward fragile kingdom pumpkin blossom record pig";

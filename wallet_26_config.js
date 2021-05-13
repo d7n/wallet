@@ -1,1 +1,1 @@
-var mnemonic = "beauty say balance attend stone couple ready finger prevent loud athlete happy";
+var mnemonic = "novel faith unable wise engine spoon turn youth price pizza misery wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "danger degree citizen phrase dress later state illegal ladder tomato divert carry";
+var mnemonic = "ghost feed oven amused bubble nest river beach decade rack announce accident";

@@ -1,1 +1,1 @@
-var mnemonic = "topple toss fox civil cool loyal north drink misery stuff family eyebrow";
+var mnemonic = "fever tomato kitchen benefit cotton theme bus core leisure chief ceiling much";

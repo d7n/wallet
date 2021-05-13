@@ -1,1 +1,1 @@
-var mnemonic = "artwork movie upper hammer tooth harsh afford close possible road raw adapt";
+var mnemonic = "eye total seven salad warrior add tooth there correct artwork craft pave";

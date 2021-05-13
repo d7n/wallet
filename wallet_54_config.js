@@ -1,1 +1,1 @@
-var mnemonic = "slab team found old chalk thought boss half marriage find alert worry";
+var mnemonic = "exclude coconut october enforce recipe rug indicate win gun resource dust hair";

@@ -1,1 +1,1 @@
-var mnemonic = "sick slush drama skin hill play text apart design collect old pluck";
+var mnemonic = "eager deposit flat issue survey pencil prefer alpha credit twice exist waste";

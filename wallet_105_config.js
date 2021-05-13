@@ -1,1 +1,1 @@
-var mnemonic = "pull wire interest panic stadium zero soda cup agree old unit lawn";
+var mnemonic = "region wish tool couple embody able that reduce skill junior slam glance";

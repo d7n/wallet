@@ -1,1 +1,1 @@
-var mnemonic = "famous mechanic cloud slush wedding erode slide dog hurdle gift soon reward";
+var mnemonic = "observe wing zone dress bench impulse beauty wish extend surface health filter";

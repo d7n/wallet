@@ -1,1 +1,1 @@
-var mnemonic = "sense cereal permit supply airport rocket jar kitchen enrich practice speed suspect";
+var mnemonic = "scheme evil garage intact public immense state twenty squeeze taste sheriff later";

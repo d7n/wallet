@@ -1,1 +1,1 @@
-var mnemonic = "rookie prevent patrol panda afraid include admit travel youth tomato medal harsh";
+var mnemonic = "junior brave token scare merge enjoy broccoli ceiling build universe omit traffic";

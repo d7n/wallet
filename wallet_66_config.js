@@ -1,1 +1,1 @@
-var mnemonic = "group tissue surprise derive auto october comfort pelican buffalo patient shoe pair";
+var mnemonic = "merry response extend boat hour side web when spatial height panic grab";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella bird bracket brisk gauge civil fantasy paddle best knife motor summer";
+var mnemonic = "december eager close same lemon fabric hard arctic tenant pink record craft";

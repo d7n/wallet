@@ -1,1 +1,1 @@
-var mnemonic = "menu lend olympic puzzle shove ignore check become fly noodle boat have";
+var mnemonic = "core near buyer chase piece fashion skill rotate grief select educate vague";

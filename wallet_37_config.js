@@ -1,1 +1,1 @@
-var mnemonic = "buffalo giant lyrics tag easy verify cheap vast second gym afford orphan";
+var mnemonic = "group mobile cactus legend knee news find royal hello fashion doll patch";

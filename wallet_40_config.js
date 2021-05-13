@@ -1,1 +1,1 @@
-var mnemonic = "explain anxiety flash naive sister wear quiz actual air forest hat thought";
+var mnemonic = "assist chat relief once donor enemy orbit like elite orient flavor ketchup";

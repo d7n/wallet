@@ -1,1 +1,1 @@
-var mnemonic = "used outside meadow pencil crane race enter pigeon shadow rely amused dizzy";
+var mnemonic = "consider chunk better ability child spot any gospel luxury screen oak main";

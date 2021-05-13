@@ -1,1 +1,1 @@
-var mnemonic = "wrap ankle ability angle teach foil type device proof oven appear fuel";
+var mnemonic = "organ into discover absurd barely upper luxury abandon recipe beef rhythm weasel";

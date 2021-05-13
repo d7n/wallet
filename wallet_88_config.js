@@ -1,1 +1,1 @@
-var mnemonic = "say certain cube detail reason tongue cheap zero wasp satoshi spread illegal";
+var mnemonic = "route salute dinner network beach shell horn soap rose boil ranch sudden";

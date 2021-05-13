@@ -1,1 +1,1 @@
-var mnemonic = "lab twin prepare orient fun surround brother dose total wrestle maze bubble";
+var mnemonic = "churn doctor story dismiss outdoor shock wreck ranch siren real shove hint";

@@ -1,1 +1,1 @@
-var mnemonic = "dove pill raw garage essence push hover welcome wagon woman convince seven";
+var mnemonic = "find armed ordinary return fall modify fitness curve phrase usage jeans blush";

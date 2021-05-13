@@ -1,1 +1,1 @@
-var mnemonic = "deliver execute basket noble wealth marine original offer common royal wasp addict";
+var mnemonic = "oven hurry chimney alpha clever insane mention stick core basket inmate sport";

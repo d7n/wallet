@@ -1,1 +1,1 @@
-var mnemonic = "language access fault paper dish dawn escape expose cloth drip surge rain";
+var mnemonic = "tunnel junk shed planet agent sun fringe manual pass dumb door taste";

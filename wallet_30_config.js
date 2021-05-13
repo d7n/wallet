@@ -1,1 +1,1 @@
-var mnemonic = "orbit box egg alone grant few cruise arrive doll excite salute panther";
+var mnemonic = "excuse mass erode park ask stairs track trigger plate kangaroo flag rent";

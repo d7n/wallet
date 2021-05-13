@@ -1,1 +1,1 @@
-var mnemonic = "own behave sudden decrease kangaroo ring garbage arrow fitness vendor cereal pear";
+var mnemonic = "crop thought video hybrid please brisk south kingdom rude escape double resist";

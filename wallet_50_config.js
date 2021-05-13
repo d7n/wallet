@@ -1,1 +1,1 @@
-var mnemonic = "toy quantum coin case suspect anchor purpose vivid three barrel excess wild";
+var mnemonic = "spin travel morning hungry require key discover flame better topple evidence pig";

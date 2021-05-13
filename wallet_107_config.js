@@ -1,1 +1,1 @@
-var mnemonic = "dose average either erosion wash slight swim maze sock ignore common waste";
+var mnemonic = "execute canoe error suspect annual rather nose tag abstract nest demise guilt";

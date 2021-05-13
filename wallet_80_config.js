@@ -1,1 +1,1 @@
-var mnemonic = "fade cereal twin small pyramid observe urban ranch game patrol off vibrant";
+var mnemonic = "escape peasant thank come elite damp legend slim length canvas category eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "life post embark coast absorb amateur ladder opinion heart kick believe before";
+var mnemonic = "drink clog blur ghost plastic popular helmet pudding lumber scan spring drum";

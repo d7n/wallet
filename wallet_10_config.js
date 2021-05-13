@@ -1,1 +1,1 @@
-var mnemonic = "neither annual lyrics very devote common obey alarm limb pair rebel poet";
+var mnemonic = "funny essence armed animal era void faculty warfare total away bird panda";

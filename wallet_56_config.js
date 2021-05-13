@@ -1,1 +1,1 @@
-var mnemonic = "eager scrub increase bleak carpet victory doctor urban target cargo faint first";
+var mnemonic = "rally already brain morning cry unfair system stand favorite pledge junior juice";

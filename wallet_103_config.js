@@ -1,1 +1,1 @@
-var mnemonic = "breeze resist update admit depend manual thrive abstract future slender vocal face";
+var mnemonic = "harvest ranch stem drink tunnel mean guard twist father sick tragic allow";

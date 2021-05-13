@@ -1,1 +1,1 @@
-var mnemonic = "garden owner salmon error cute vivid vivid sphere retire obey flag fire";
+var mnemonic = "local abstract blush judge use view kite brass giant friend blame moral";

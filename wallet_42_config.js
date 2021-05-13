@@ -1,1 +1,1 @@
-var mnemonic = "noise topic canal tank wide equal afford shallow garbage company business nose";
+var mnemonic = "heavy bring wasp punch forum laptop exercise scrub actress whale runway pole";

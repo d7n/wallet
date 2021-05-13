@@ -1,1 +1,1 @@
-var mnemonic = "artist oval fox ghost divorce inner kiss chicken settle earn way undo";
+var mnemonic = "crime hope destroy horse night critic attend dumb ritual bronze citizen claim";

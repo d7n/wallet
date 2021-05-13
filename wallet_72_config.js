@@ -1,1 +1,1 @@
-var mnemonic = "burst error guard option bulb frog spin repair believe ability time desk";
+var mnemonic = "breeze wheat book shell sand guess all debris unusual repeat scatter case";

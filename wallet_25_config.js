@@ -1,1 +1,1 @@
-var mnemonic = "audit cabin will car destroy health that fatal fitness turtle canal fantasy";
+var mnemonic = "fox attract latin near urban trip delay hair hurry sister rebel maid";

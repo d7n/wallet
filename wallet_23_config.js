@@ -1,1 +1,1 @@
-var mnemonic = "wine fog club noble trumpet travel list dinosaur boring route defense machine";
+var mnemonic = "say layer athlete margin shed version hazard pig twin elbow concert canal";

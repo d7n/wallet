@@ -1,1 +1,1 @@
-var mnemonic = "pen ketchup divide chest civil peace trust cousin metal win anchor robust";
+var mnemonic = "arrest sausage second science dirt average wrong finger behind elbow ripple ivory";

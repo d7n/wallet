@@ -1,1 +1,1 @@
-var mnemonic = "profit odor knife cube lyrics crime bread cage elegant salt what expose";
+var mnemonic = "noble brain shoe reason dinosaur drift border busy ten two yellow vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "rail deliver never regret price virtual amateur hover report soup fresh toddler";
+var mnemonic = "joy exist melody able trade fish salad such width invite stem cute";

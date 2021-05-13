@@ -1,1 +1,1 @@
-var mnemonic = "whip orphan romance brave rude federal affair evidence dawn extra vintage view";
+var mnemonic = "reveal issue globe fat kiwi gloom siren parade belt track level soap";

@@ -1,1 +1,1 @@
-var mnemonic = "victory crop kiss history smoke obtain girl course choice absorb glue tool";
+var mnemonic = "nephew month liquid source tragic rural denial make flight price reject forget";

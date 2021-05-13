@@ -1,1 +1,1 @@
-var mnemonic = "fiction river twist quick expose embrace visa federal talk two collect pipe";
+var mnemonic = "tent need comic grab impact digital tree alien differ phone scrub supreme";

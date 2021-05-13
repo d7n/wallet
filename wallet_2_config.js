@@ -1,1 +1,1 @@
-var mnemonic = "screen merge addict morning forward school bronze stamp point coach bachelor ball";
+var mnemonic = "theme glare squirrel identify enjoy escape edge future example moment advice mutual";

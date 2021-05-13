@@ -1,1 +1,1 @@
-var mnemonic = "energy column catalog february relief adapt buzz burden people duck little scorpion";
+var mnemonic = "copper bright display fever chalk flight poem laptop monkey north trend tornado";

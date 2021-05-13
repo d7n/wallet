@@ -1,1 +1,1 @@
-var mnemonic = "antique quote track minimum pretty differ host inquiry view must apple turn";
+var mnemonic = "season urge angle luggage firm spare ahead tunnel rain alter destroy loan";
