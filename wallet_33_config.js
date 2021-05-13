@@ -1,1 +1,1 @@
-var mnemonic = "tooth hire crime sound crater antenna consider tooth loop friend doctor sunset";
+var mnemonic = "myth sport give fiction degree fish view curve adapt orbit bread sunset";

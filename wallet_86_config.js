@@ -1,1 +1,1 @@
-var mnemonic = "diamond truly omit harsh cream code inquiry test clinic awake palace cave";
+var mnemonic = "seed suffer turn liberty flash time black immune cabbage nerve spring resist";

@@ -1,1 +1,1 @@
-var mnemonic = "assume eagle defense surprise vault goddess female chair cherry pencil evidence bicycle";
+var mnemonic = "portion avoid immune inhale virtual vague ride trim coffee mom lock wire";

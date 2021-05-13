@@ -1,1 +1,1 @@
-var mnemonic = "cargo refuse person praise aware clock hammer please six robust damage grunt";
+var mnemonic = "lottery minute turtle grant boss regular shadow illness boss strong price oven";

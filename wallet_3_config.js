@@ -1,1 +1,1 @@
-var mnemonic = "liberty lumber claw citizen struggle salt depth impact fatal write gesture foam";
+var mnemonic = "mansion vault cattle lyrics own strong club leg senior olive brush poet";

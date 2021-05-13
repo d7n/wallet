@@ -1,1 +1,1 @@
-var mnemonic = "sound video settle ready plate still lift end squirrel air roast dirt";
+var mnemonic = "capable auction brush that report damp game staff exact zebra visa skirt";

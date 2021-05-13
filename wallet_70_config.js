@@ -1,1 +1,1 @@
-var mnemonic = "way blush upon olympic dice rug fire draw pear carpet pet rare";
+var mnemonic = "ancient budget want stove case bird bird chicken any custom smoke master";

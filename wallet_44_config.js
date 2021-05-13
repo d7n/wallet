@@ -1,1 +1,1 @@
-var mnemonic = "seed water picnic script canyon liberty awful situate novel casino ketchup sad";
+var mnemonic = "check sudden body peanut link rebuild resist spend issue badge expect expose";

@@ -1,1 +1,1 @@
-var mnemonic = "problem just flat upset core rhythm notice file patrol segment pink ten";
+var mnemonic = "genius stove dragon accident address envelope wild genre universe cat outer lecture";

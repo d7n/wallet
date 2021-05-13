@@ -1,1 +1,1 @@
-var mnemonic = "goat dwarf rabbit decorate mesh domain slogan prepare please real milk trust";
+var mnemonic = "bulb security bundle laugh air title fade staff fun problem mother wood";

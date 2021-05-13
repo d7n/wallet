@@ -1,1 +1,1 @@
-var mnemonic = "license valley sibling symptom make royal opera tonight math room biology spoon";
+var mnemonic = "birth intact awkward orient science mom primary section key usual critic orient";

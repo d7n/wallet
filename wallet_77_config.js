@@ -1,1 +1,1 @@
-var mnemonic = "laundry faint exit kidney student hungry abandon extra casino loud then ladder";
+var mnemonic = "youth spike pave copper dawn nut media cabin stadium nation deny diagram";

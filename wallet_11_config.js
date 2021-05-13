@@ -1,1 +1,1 @@
-var mnemonic = "blouse insane memory cruel chat bird focus extra flag dice top melody";
+var mnemonic = "between circle scene flame grit congress leader perfect clump page impulse hair";

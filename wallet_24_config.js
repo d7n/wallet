@@ -1,1 +1,1 @@
-var mnemonic = "cave electric gather awake tortoise summer flip rescue fence embody field attract";
+var mnemonic = "pact zone shoot region try siege pass notable initial tail virus crucial";

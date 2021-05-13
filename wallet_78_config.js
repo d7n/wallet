@@ -1,1 +1,1 @@
-var mnemonic = "slush liquid quiz proud dentist ordinary inspire wedding raven undo sniff satoshi";
+var mnemonic = "there cargo burger leave pluck empty two phrase increase cinnamon merry tattoo";

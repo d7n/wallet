@@ -1,1 +1,1 @@
-var mnemonic = "keen myth story still setup stumble resist warfare concert book shadow polar";
+var mnemonic = "across custom length estate mouse siege mystery body install bulk innocent ramp";

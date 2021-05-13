@@ -1,1 +1,1 @@
-var mnemonic = "vote either roast supreme abandon decade bike mimic initial nut tissue section";
+var mnemonic = "chef soft kidney cousin game vivid warm liquid wedding rich film reopen";

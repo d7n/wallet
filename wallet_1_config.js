@@ -1,1 +1,1 @@
-var mnemonic = "rain oxygen inner news stereo rule remember cause hub wedding reunion coil";
+var mnemonic = "panel vehicle shiver history genius useful elder flag various outside hard advice";

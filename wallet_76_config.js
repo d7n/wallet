@@ -1,1 +1,1 @@
-var mnemonic = "inflict motor main goose glory basket execute repair crack comfort helmet debate";
+var mnemonic = "loyal inflict program vendor they hurt garden double what goose emotion despair";

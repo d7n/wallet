@@ -1,1 +1,1 @@
-var mnemonic = "game tobacco library night live cable soon spawn canal seven spring hire";
+var mnemonic = "travel release impose hub cousin smoke cattle unit skirt dial system page";

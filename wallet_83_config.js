@@ -1,1 +1,1 @@
-var mnemonic = "spring tongue under west stool net velvet raw mass stove begin purse";
+var mnemonic = "sauce display planet erupt motor ketchup cushion chief news salad unique grid";

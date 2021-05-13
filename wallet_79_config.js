@@ -1,1 +1,1 @@
-var mnemonic = "bulb lake abuse mammal tiny initial salt powder scrub vessel science aunt";
+var mnemonic = "kid access aisle keep then nerve hat receive art essay fragile curve";

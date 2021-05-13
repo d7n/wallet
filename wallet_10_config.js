@@ -1,1 +1,1 @@
-var mnemonic = "spare harsh actor can across eye matrix town salt viable police six";
+var mnemonic = "goat rain artwork include virus fine benefit jewel cherry cruise escape wheat";

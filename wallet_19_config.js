@@ -1,1 +1,1 @@
-var mnemonic = "churn certain ability rib bind pretty forest insect admit library grocery chase";
+var mnemonic = "beef people execute tuna lemon cotton forget stock unknown silk type swim";

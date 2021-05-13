@@ -1,1 +1,1 @@
-var mnemonic = "embody abstract hold liquid evidence check case lady prepare cause flash transfer";
+var mnemonic = "melt buffalo pause uncle disagree combine monkey biology enjoy extra trust panic";

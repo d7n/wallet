@@ -1,1 +1,1 @@
-var mnemonic = "extend fox target peasant worry have popular cabbage shock million minimum weasel";
+var mnemonic = "need wait rescue eagle pet electric glory lonely attack idle bicycle unaware";

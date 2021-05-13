@@ -1,1 +1,1 @@
-var mnemonic = "sea company intact raven desk hungry alley hill segment swarm harbor piano";
+var mnemonic = "surround blood romance shrimp abandon use snow recall pilot ensure urge reason";

@@ -1,1 +1,1 @@
-var mnemonic = "torch toddler powder ramp excuse save scissors anxiety proof daring squeeze planet";
+var mnemonic = "resemble stool device boost bamboo elegant clever clump pole token shed certain";

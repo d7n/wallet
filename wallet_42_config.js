@@ -1,1 +1,1 @@
-var mnemonic = "tip urge language jungle daughter offer visit knock man finish alpha charge";
+var mnemonic = "multiply guide vault demise kite hawk forward lumber oven tonight pause lobster";

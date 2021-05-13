@@ -1,1 +1,1 @@
-var mnemonic = "token license review rotate marriage divert person foot often knee pave talk";
+var mnemonic = "save emerge goose pudding glad borrow cancel urge dumb turtle promote charge";

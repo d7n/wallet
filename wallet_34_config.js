@@ -1,1 +1,1 @@
-var mnemonic = "tilt legend floor fortune senior again mesh suggest dinner prepare bid summer";
+var mnemonic = "tank endorse kind rack monitor human say category assist balance casual fringe";

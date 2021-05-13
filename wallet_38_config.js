@@ -1,1 +1,1 @@
-var mnemonic = "frost pyramid film wash ahead pigeon sort energy soccer phone toilet virus";
+var mnemonic = "annual mind ginger animal law finger approve denial vague market raven eagle";

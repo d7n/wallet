@@ -1,1 +1,1 @@
-var mnemonic = "soul echo wheel banner emerge busy course need wolf vault pattern eager";
+var mnemonic = "maze candy misery hollow scrub parrot dream process such milk nuclear sponsor";

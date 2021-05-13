@@ -1,1 +1,1 @@
-var mnemonic = "hood cycle squirrel seminar carry exile stove pottery once pilot author fresh";
+var mnemonic = "day concert oyster crawl drum outdoor possible milk supreme disagree improve sea";

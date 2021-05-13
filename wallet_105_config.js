@@ -1,1 +1,1 @@
-var mnemonic = "enemy tennis pear betray column twelve young escape secret ancient nurse siren";
+var mnemonic = "need focus toe auction joy sad target proud flower team beyond century";

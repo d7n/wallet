@@ -1,1 +1,1 @@
-var mnemonic = "verb chalk century coffee typical forest maximum scrub carpet web meadow make";
+var mnemonic = "extra refuse dynamic possible demand ask recycle east banana note assume sword";

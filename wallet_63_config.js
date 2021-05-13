@@ -1,1 +1,1 @@
-var mnemonic = "common person cream ugly spirit jar tenant bless earth blade shadow edge";
+var mnemonic = "permit marine affair cactus sleep twenty orphan return tonight task envelope rack";

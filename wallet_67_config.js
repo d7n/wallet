@@ -1,1 +1,1 @@
-var mnemonic = "powder hamster summer faith buffalo web organ exhibit egg crew salon very";
+var mnemonic = "air kind cross year poverty curious carry betray ivory trust win talk";

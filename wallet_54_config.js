@@ -1,1 +1,1 @@
-var mnemonic = "wolf quote swallow must learn title cart return race wool odor cruel";
+var mnemonic = "whale brass dolphin health enough quit loud loyal spatial invite hip mail";

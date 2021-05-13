@@ -1,1 +1,1 @@
-var mnemonic = "trip hat custom brass hood immense treat physical dust zone brown later";
+var mnemonic = "sail feed second evidence mansion federal judge worry believe mechanic monitor never";

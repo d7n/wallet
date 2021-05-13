@@ -1,1 +1,1 @@
-var mnemonic = "chat master walk left suit banner style swap someone country easily system";
+var mnemonic = "apart grain sunny exhibit enter price prevent inform canyon chicken unit fork";

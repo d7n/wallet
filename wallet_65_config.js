@@ -1,1 +1,1 @@
-var mnemonic = "lawn tank long drastic vendor wagon vocal child tank harbor inflict firm";
+var mnemonic = "cousin beef world hunt pattern actual tomato payment prepare allow adapt arrange";

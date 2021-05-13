@@ -1,1 +1,1 @@
-var mnemonic = "detail another earn misery throw illegal squeeze trial mule girl robot process";
+var mnemonic = "surge number certain mouse such found dry net voice toast quarter capital";

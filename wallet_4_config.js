@@ -1,1 +1,1 @@
-var mnemonic = "weather worry mother palm bunker snap anchor unveil age order street order";
+var mnemonic = "scrub viable test asset logic save damage damage card august ritual keep";

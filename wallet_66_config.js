@@ -1,1 +1,1 @@
-var mnemonic = "all result shoot chapter lock brisk survey affair crumble favorite spin faculty";
+var mnemonic = "mimic swear gentle figure shuffle stereo bar scissors beef unit cluster point";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud prevent alley canvas abstract tooth hockey gate deposit large crisp pulp";
+var mnemonic = "say pool accuse chalk valve goddess shrug race dinner bonus leave pet";

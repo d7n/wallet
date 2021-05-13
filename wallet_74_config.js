@@ -1,1 +1,1 @@
-var mnemonic = "smile state barely cricket attract model slush ride dust orchard april kind";
+var mnemonic = "oyster live exact rookie seven beauty junk demise cricket echo village celery";

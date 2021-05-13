@@ -1,1 +1,1 @@
-var mnemonic = "exhaust illegal diet peanut amazing rice ask food sun candy ocean general";
+var mnemonic = "weird match snow scan cup ozone narrow oil clerk rival outside rely";

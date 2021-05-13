@@ -1,1 +1,1 @@
-var mnemonic = "power title donate aspect cable report fuel copy upset snack marine yellow";
+var mnemonic = "state card dress expire ill script shy able joke place little weird";

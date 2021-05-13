@@ -1,1 +1,1 @@
-var mnemonic = "buyer umbrella autumn machine twenty lunar local ball piece addict minute disagree";
+var mnemonic = "link black exotic easy monitor luggage coconut social fire gown scrap shaft";

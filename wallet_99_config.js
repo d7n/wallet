@@ -1,1 +1,1 @@
-var mnemonic = "veteran once february jealous luxury crystal fade giggle wine alert supply return";
+var mnemonic = "picture suspect program text squirrel embrace cricket credit scene close invest lens";

@@ -1,1 +1,1 @@
-var mnemonic = "dice pizza soap spoil evoke exact merge kit sword found flip alpha";
+var mnemonic = "amazing give list unfold busy potato orbit office garment fog scheme screen";

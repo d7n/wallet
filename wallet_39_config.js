@@ -1,1 +1,1 @@
-var mnemonic = "fringe climb trick cost put ethics token poem until mouse layer develop";
+var mnemonic = "earth happy certain task smart churn capable require sun goat donate easily";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty oblige arctic young crouch cable garment fortune parrot beef front surround";
+var mnemonic = "apple payment champion broom sketch skin pudding kingdom vicious float bacon domain";

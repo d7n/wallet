@@ -1,1 +1,1 @@
-var mnemonic = "van carry material observe drive client shock uniform grass there error brush";
+var mnemonic = "impulse access great crunch city hurt guitar myth adjust smoke whip radar";

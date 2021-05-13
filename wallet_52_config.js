@@ -1,1 +1,1 @@
-var mnemonic = "oil coast team satisfy truly record corn case voice bone roast omit";
+var mnemonic = "vibrant scan jazz suffer plug vocal volcano sadness blast frog vessel seek";

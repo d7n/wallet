@@ -1,1 +1,1 @@
-var mnemonic = "ill trend diary country quarter afford direct child range excess cradle keep";
+var mnemonic = "decide web rural crawl lens silent object today door enroll involve shove";

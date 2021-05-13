@@ -1,1 +1,1 @@
-var mnemonic = "theory canal engine current light brother appear awkward ranch gravity evoke possible";
+var mnemonic = "combine ivory cloth office pill shrug ancient bamboo marble sniff cactus myth";

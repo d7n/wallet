@@ -1,1 +1,1 @@
-var mnemonic = "sweet blade unusual lunar rhythm loud candy prepare intact rib garden carry";
+var mnemonic = "tank history comfort spare nest few blouse joy like stand puppy mango";

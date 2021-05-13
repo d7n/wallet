@@ -1,1 +1,1 @@
-var mnemonic = "control license post parent odor margin tray story income check happy primary";
+var mnemonic = "where ice gold loyal helmet upgrade satisfy ring range zebra cotton amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "token hero art nothing junk exchange pelican execute anger industry addict city";
+var mnemonic = "section side carry need decade dust text scare recycle text scene index";

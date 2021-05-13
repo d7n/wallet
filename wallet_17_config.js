@@ -1,1 +1,1 @@
-var mnemonic = "finger job pretty oblige divert second about repeat naive abstract scale during";
+var mnemonic = "tragic seven bullet order process vendor salmon group advance smile finish actor";

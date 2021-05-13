@@ -1,1 +1,1 @@
-var mnemonic = "adjust target hood sustain enjoy expire exhibit upon lion pull chaos worry";
+var mnemonic = "palace sell question deer candy skirt cream script hedgehog govern add improve";

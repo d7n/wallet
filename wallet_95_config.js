@@ -1,1 +1,1 @@
-var mnemonic = "coil rocket gap source kind good speak taxi glow force invite hello";
+var mnemonic = "tooth amazing abandon stereo they dinosaur toe piano outside stairs iron gap";

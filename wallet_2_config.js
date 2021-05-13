@@ -1,1 +1,1 @@
-var mnemonic = "canvas achieve phone exit actress decrease poverty ask rocket fossil diamond cricket";
+var mnemonic = "patch summer absurd find alley harsh artist model globe hobby matrix foam";

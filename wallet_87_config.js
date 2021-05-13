@@ -1,1 +1,1 @@
-var mnemonic = "tip suit sniff gown buffalo actual floor strike chase pattern physical million";
+var mnemonic = "emotion bid dinosaur alert child odor sample effort barely resemble dentist expand";

@@ -1,1 +1,1 @@
-var mnemonic = "hint improve dry inform brave post strike have black actor romance pistol";
+var mnemonic = "click solid pretty dream onion thunder marriage code pond lend unable alone";

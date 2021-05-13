@@ -1,1 +1,1 @@
-var mnemonic = "double winter organ ostrich picnic dutch glide retire moon insane huge mention";
+var mnemonic = "culture crack boat sample repair abstract village among dolphin degree chapter cancel";

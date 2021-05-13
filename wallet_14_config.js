@@ -1,1 +1,1 @@
-var mnemonic = "since high exit parade magnet bind label afraid priority suffer knock glove";
+var mnemonic = "comfort gaze three rookie piece welcome genuine mandate gas animal panic sadness";

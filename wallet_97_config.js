@@ -1,1 +1,1 @@
-var mnemonic = "spirit aware spoil jealous skate enhance nothing stuff render tuition drift eyebrow";
+var mnemonic = "vital beyond mean future put gift arrow glove oppose again seek decrease";

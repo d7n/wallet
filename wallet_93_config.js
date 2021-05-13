@@ -1,1 +1,1 @@
-var mnemonic = "what pet viable cancel pattern home maze disorder near gate physical wall";
+var mnemonic = "middle tray trigger repeat reject way garage risk route suspect anchor winner";

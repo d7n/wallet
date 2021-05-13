@@ -1,1 +1,1 @@
-var mnemonic = "core already unit pigeon bread over cupboard tuna knife gate slogan rough";
+var mnemonic = "mercy cousin win crash defy they journey hammer crash rival glove cheese";

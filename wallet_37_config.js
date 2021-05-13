@@ -1,1 +1,1 @@
-var mnemonic = "round way hint paper isolate zero sorry crucial fatal wood exhaust teach";
+var mnemonic = "like install raise rose hour render secret clog cheap april salmon wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "soft baby grant zone inherit latin better promote plastic hidden raven ribbon";
+var mnemonic = "uncle plastic fatal switch volume private ginger shoulder oblige welcome expire empower";

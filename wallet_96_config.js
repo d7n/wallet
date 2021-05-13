@@ -1,1 +1,1 @@
-var mnemonic = "smile exercise receive build vicious impulse owner canal stand elephant oyster identify";
+var mnemonic = "timber cat key magnet begin soup city junk limb drastic tent hurry";

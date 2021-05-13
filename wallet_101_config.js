@@ -1,1 +1,1 @@
-var mnemonic = "fruit solve egg solid harvest alert grant plunge memory monkey shine tomato";
+var mnemonic = "beach awake neglect true bone wagon isolate unlock inject evil pass common";

@@ -1,1 +1,1 @@
-var mnemonic = "drum skirt oil taste nuclear cloth aerobic second dream violin motion poem";
+var mnemonic = "industry pet ripple horror order bounce floor smoke orphan assault party harsh";

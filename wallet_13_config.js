@@ -1,1 +1,1 @@
-var mnemonic = "pioneer busy crisp lake ensure wrestle city lizard ginger buffalo blast kingdom";
+var mnemonic = "chimney hamster chase neglect manual route produce maid hungry join acquire say";

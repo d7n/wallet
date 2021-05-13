@@ -1,1 +1,1 @@
-var mnemonic = "seed infant economy length ripple oyster ring machine swim version brief invest";
+var mnemonic = "come moral science elevator crime wing penalty march mandate gentle worry cannon";

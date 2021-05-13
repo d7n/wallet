@@ -1,1 +1,1 @@
-var mnemonic = "jazz august sunny home lizard under cargo spatial matter float hidden bridge";
+var mnemonic = "orient endless fog space proud dinosaur issue cotton ribbon onion stage beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna someone setup panic hip tongue feel refuse buzz thing pencil shove";
+var mnemonic = "finish idle damp roast trigger eternal garden proof stand deputy history own";

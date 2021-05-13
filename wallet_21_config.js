@@ -1,1 +1,1 @@
-var mnemonic = "lemon slender accuse boat brand runway two quick predict then settle frozen";
+var mnemonic = "begin excite effort gauge silk lake print inquiry tomorrow talk glow open";

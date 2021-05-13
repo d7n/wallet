@@ -1,1 +1,1 @@
-var mnemonic = "ice lecture spin true shadow enact rebel diary decorate business edit cancel";
+var mnemonic = "ghost right toilet rent beyond metal sphere burger edge grow layer model";

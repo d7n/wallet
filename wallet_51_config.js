@@ -1,1 +1,1 @@
-var mnemonic = "rebuild evoke ethics pole mail amount puzzle alpha lend physical abandon satoshi";
+var mnemonic = "lift immune permit family detail awake narrow amount helmet air orient clog";

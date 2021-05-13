@@ -1,1 +1,1 @@
-var mnemonic = "cereal home cash fork female other glad discover scorpion enough parent current";
+var mnemonic = "orange field swing field slogan bundle spring oblige this hover true sign";

@@ -1,1 +1,1 @@
-var mnemonic = "cool defy desert hammer seven person brother rare acquire destroy reward scan";
+var mnemonic = "wheel robot rebuild perfect unknown mass scrub snap evolve void boat photo";

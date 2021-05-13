@@ -1,1 +1,1 @@
-var mnemonic = "twenty floor obscure beach vital swap risk resist shift orient pistol palace";
+var mnemonic = "desk mouse will current fame organ dish drill crane scene topic recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "road jacket foster notice jar shallow property later mad laptop settle raw";
+var mnemonic = "city interest toast game crucial shadow evil enough what tilt cradle stem";

@@ -1,1 +1,1 @@
-var mnemonic = "quality fruit rigid hidden decorate correct cool vendor crater update amateur industry";
+var mnemonic = "circle bus jump actress away chuckle object butter cat snake tent kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "desert fuel cheap story tongue skate alpha program property merge scare divorce";
+var mnemonic = "speak link deny web obscure era enrich album auto wrist frost acquire";

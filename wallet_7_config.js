@@ -1,1 +1,1 @@
-var mnemonic = "seat unhappy stumble glory earth harvest group flag agent fit pilot dismiss";
+var mnemonic = "segment kid olive shy group spike soup dragon weasel embrace pitch between";

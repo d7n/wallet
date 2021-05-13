@@ -1,1 +1,1 @@
-var mnemonic = "better pair impose taxi feature acid trash rapid toddler estate boat purpose";
+var mnemonic = "raise post lunar swing liberty moral remember diesel fetch clinic visual two";
