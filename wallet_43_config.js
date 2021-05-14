@@ -1,1 +1,1 @@
-var mnemonic = "uncover sort zebra peanut analyst replace artist flag usage valid blame lock";
+var mnemonic = "route shoot broccoli cable noodle citizen exist pitch quote dove grape mansion";

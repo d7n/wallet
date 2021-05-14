@@ -1,1 +1,1 @@
-var mnemonic = "solar sell mystery lesson brass poverty spy unfold casino wet punch purchase";
+var mnemonic = "tennis human symptom end require cabin staff real rural sense tone scheme";

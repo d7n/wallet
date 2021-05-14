@@ -1,1 +1,1 @@
-var mnemonic = "stay east ahead people enact group cook text useful round claw struggle";
+var mnemonic = "weekend upgrade approve primary trend open expect raise toilet melody tooth reason";

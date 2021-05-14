@@ -1,1 +1,1 @@
-var mnemonic = "behave paddle gather boost vault divert negative duty silver broom rapid large";
+var mnemonic = "gun library apple bird rescue cat thing cup pen awesome decrease bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle disorder syrup hub since impose upgrade avocado hour razor minimum box";
+var mnemonic = "mutual flip polar royal vapor dumb decide gadget essay patch broken ice";

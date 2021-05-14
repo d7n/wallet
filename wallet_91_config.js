@@ -1,1 +1,1 @@
-var mnemonic = "receive bring recipe agree pudding engage cousin inject horse pink original soccer";
+var mnemonic = "notable suit panther stick sword enter flip pill evil disease effort toast";

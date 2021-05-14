@@ -1,1 +1,1 @@
-var mnemonic = "cupboard mountain oak unit zone reject session comic reveal able alien autumn";
+var mnemonic = "stay cousin style harvest avocado inherit solve educate license eye into figure";

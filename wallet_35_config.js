@@ -1,1 +1,1 @@
-var mnemonic = "swift choose rough illegal region north wave small barely captain comfort result";
+var mnemonic = "garment share buyer metal candy marble need suspect evidence employ toilet maximum";

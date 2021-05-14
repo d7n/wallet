@@ -1,1 +1,1 @@
-var mnemonic = "sail carry modify excite middle morning dice acquire aisle illness purchase blood";
+var mnemonic = "used gaze lock puppy way ring side mammal crouch afford meadow pride";

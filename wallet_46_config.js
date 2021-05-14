@@ -1,1 +1,1 @@
-var mnemonic = "idea party call suffer belt sea blue goat tool train volcano sphere";
+var mnemonic = "cart neither visit breeze edit crowd amused gadget bar unusual saddle ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "receive erosion manage supreme net champion vapor easily vehicle hazard install chicken";
+var mnemonic = "jump defense exchange interest medal injury mutual sport regret nut provide viable";

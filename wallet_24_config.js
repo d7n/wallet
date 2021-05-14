@@ -1,1 +1,1 @@
-var mnemonic = "lock black manage quality slender scatter donate alert tribe eagle safe laugh";
+var mnemonic = "verify elephant twice absurd gravity fury alarm pink vehicle behave else assist";

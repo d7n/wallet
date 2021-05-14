@@ -1,1 +1,1 @@
-var mnemonic = "amateur hospital lottery twice creek regular clinic lesson emotion crater market jelly";
+var mnemonic = "fragile rotate flavor peace task torch join lumber exile crowd oak obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "receive moment there family cousin job enter glance unknown sketch nice sing";
+var mnemonic = "net pool guess ramp type strike error nose voice response dress now";

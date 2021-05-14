@@ -1,1 +1,1 @@
-var mnemonic = "layer pumpkin cliff census rich bamboo method figure father uphold pig provide";
+var mnemonic = "stumble arena moon slight walk pave phone surprise brick turtle artwork scale";

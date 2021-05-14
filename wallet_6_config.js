@@ -1,1 +1,1 @@
-var mnemonic = "recycle wing verb crime sail pluck history web hollow unhappy enlist human";
+var mnemonic = "sail gasp can upset gym ship critic dinosaur mirror happy album cargo";

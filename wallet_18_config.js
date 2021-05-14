@@ -1,1 +1,1 @@
-var mnemonic = "rabbit ensure history illegal correct royal outdoor clip glove turtle property paddle";
+var mnemonic = "pilot viable monkey knee share because mutual mutual climb flight cream divorce";

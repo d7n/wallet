@@ -1,1 +1,1 @@
-var mnemonic = "switch smart around illness hobby figure primary rhythm sausage deal iron usage";
+var mnemonic = "sock same venture coral recycle waste online syrup immense hour voyage very";

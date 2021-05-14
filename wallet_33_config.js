@@ -1,1 +1,1 @@
-var mnemonic = "ribbon couple chuckle thought belt diary dash sell volume wrap beef dinosaur";
+var mnemonic = "heart lava mandate luggage mimic bitter helmet quit magic random glide swing";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange duty foot sustain disorder puppy render notice bomb heavy bubble garbage";
+var mnemonic = "wrist film silly imitate enlist noble useful night tribe trip guide canoe";

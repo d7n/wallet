@@ -1,1 +1,1 @@
-var mnemonic = "duck clutch beauty zoo labor buffalo finish surround gym tell confirm enemy";
+var mnemonic = "grief because grocery slight erase cruise remind satisfy dust trade stone inquiry";

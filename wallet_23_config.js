@@ -1,1 +1,1 @@
-var mnemonic = "else cool bundle cause unfair vacuum stadium lake south bulb yellow happy";
+var mnemonic = "cash feed round quick auction boat rent mad advice bacon exist manual";

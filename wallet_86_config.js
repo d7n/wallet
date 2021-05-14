@@ -1,1 +1,1 @@
-var mnemonic = "squeeze olympic annual artist pond fold iron humor flight acid match fancy";
+var mnemonic = "sort local crop hip top captain baby floor year client aerobic foam";

@@ -1,1 +1,1 @@
-var mnemonic = "stay praise exclude atom school bullet ostrich february polar beach cabbage woman";
+var mnemonic = "despair emerge hobby bicycle result game gentle genius conduct crisp february spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle winter congress bunker erosion rude gadget ahead prepare okay little error";
+var mnemonic = "dragon detect cliff lady lamp squeeze math fuel junk field sunset melody";

@@ -1,1 +1,1 @@
-var mnemonic = "online omit cannon hard lake alien maximum real rigid hood raven write";
+var mnemonic = "estate eagle submit word execute radar pumpkin language climb shine tip legal";

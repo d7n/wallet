@@ -1,1 +1,1 @@
-var mnemonic = "lava pumpkin describe bomb tree acid police level merry humor hope reject";
+var mnemonic = "security found divorce dust two water vibrant approve bid over desk much";

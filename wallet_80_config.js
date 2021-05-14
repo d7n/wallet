@@ -1,1 +1,1 @@
-var mnemonic = "castle unfold tornado mystery muscle when slice cram public blade away clever";
+var mnemonic = "atom accuse envelope open cycle open truth uniform bright post mutual food";

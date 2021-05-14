@@ -1,1 +1,1 @@
-var mnemonic = "female young turn forward mystery sound kitchen offer deputy cactus spoon tiny";
+var mnemonic = "two reopen manage talent lonely video lawn source forward jeans speed lab";

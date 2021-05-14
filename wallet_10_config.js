@@ -1,1 +1,1 @@
-var mnemonic = "today female sketch cute leave canal two clap left comfort food feed";
+var mnemonic = "language plate mobile cart lemon mystery violin common defense fruit cube poet";

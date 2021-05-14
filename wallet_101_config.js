@@ -1,1 +1,1 @@
-var mnemonic = "soap material invest mobile arrive tank mass solid device theory bulb hurry";
+var mnemonic = "sugar olive faith ship noble dwarf employ announce jump van mirror viable";

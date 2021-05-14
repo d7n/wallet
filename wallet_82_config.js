@@ -1,1 +1,1 @@
-var mnemonic = "season sketch royal salmon rebuild card bottom town verify fish basket evidence";
+var mnemonic = "better ritual indicate wedding equal brisk half debate veteran orient office parent";

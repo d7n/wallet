@@ -1,1 +1,1 @@
-var mnemonic = "render remind begin earn escape sword obscure follow forward slam target thunder";
+var mnemonic = "comic tone tackle angle owner phrase add hidden jealous ice sing slam";

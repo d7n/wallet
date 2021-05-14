@@ -1,1 +1,1 @@
-var mnemonic = "goose real fresh skull similar mixture birth glass receive second pulse sleep";
+var mnemonic = "artefact silent current earn mother glance sample lounge aware bargain broom together";

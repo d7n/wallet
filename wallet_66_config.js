@@ -1,1 +1,1 @@
-var mnemonic = "valid wrong trip expose volcano spend smile giggle cabin hurdle urge confirm";
+var mnemonic = "crouch salute access sport base mechanic clog village bubble appear remove grant";

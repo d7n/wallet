@@ -1,1 +1,1 @@
-var mnemonic = "devote key join throw ceiling wire cluster floor swamp bless solution about";
+var mnemonic = "tissue buddy interest pizza honey genius beyond item bargain paddle burst caution";

@@ -1,1 +1,1 @@
-var mnemonic = "myth degree run until someone name solid retire today one manage where";
+var mnemonic = "picnic cart normal idea print help trigger tortoise jealous neck away fan";

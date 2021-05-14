@@ -1,1 +1,1 @@
-var mnemonic = "fiber tortoise balance panic area large avoid coast curve image harbor usual";
+var mnemonic = "strong coast share decorate cradle two view brass elevator velvet eager else";

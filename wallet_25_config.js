@@ -1,1 +1,1 @@
-var mnemonic = "donate enlist drastic girl protect mad involve myself scrap perfect scheme violin";
+var mnemonic = "inform quantum slice winter daring ask similar satoshi dizzy current love tunnel";

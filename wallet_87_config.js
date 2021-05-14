@@ -1,1 +1,1 @@
-var mnemonic = "broccoli grace you omit siege when extra client fancy cage spin magnet";
+var mnemonic = "jump burger light dismiss have gesture tongue ritual harsh culture usage matter";

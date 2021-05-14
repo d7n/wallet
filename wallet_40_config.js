@@ -1,1 +1,1 @@
-var mnemonic = "right anger night bridge warrior drive omit dynamic increase extra sentence goat";
+var mnemonic = "spot mask virus narrow remember rival goddess drift crumble adjust riot congress";

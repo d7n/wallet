@@ -1,1 +1,1 @@
-var mnemonic = "file open cloth major task cricket order erase burger twin museum crash";
+var mnemonic = "rate reopen valve antenna pudding exchange section beauty bunker very input achieve";

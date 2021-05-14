@@ -1,1 +1,1 @@
-var mnemonic = "dentist federal sphere beyond way kite bike comic panic leaf fade wave";
+var mnemonic = "mask aware mother hurdle mercy inhale organ shrug chef bachelor armed pave";

@@ -1,1 +1,1 @@
-var mnemonic = "parade aspect device broccoli winter zoo picnic window error chuckle allow small";
+var mnemonic = "deposit vehicle toddler general seat betray dune design drama popular caught soap";

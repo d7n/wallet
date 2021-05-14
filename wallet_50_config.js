@@ -1,1 +1,1 @@
-var mnemonic = "cricket bamboo daring number essence earn sunny print more twenty brand caution";
+var mnemonic = "swallow detail typical identify word glove credit jeans doll over casino wedding";

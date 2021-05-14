@@ -1,1 +1,1 @@
-var mnemonic = "chunk heart record hair modify letter gossip insect boil select main hazard";
+var mnemonic = "define adjust spray assault entry lion carbon cherry cloth office trouble toward";

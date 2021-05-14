@@ -1,1 +1,1 @@
-var mnemonic = "nice pass february tent cigar estate aerobic frequent response sauce two video";
+var mnemonic = "raccoon half adjust crew achieve parent wreck fire siren pass vote bean";

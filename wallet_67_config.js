@@ -1,1 +1,1 @@
-var mnemonic = "scare ensure black trouble vapor truly climb off ensure ocean ginger wisdom";
+var mnemonic = "curtain asset track tired stick inject car series box goat mimic decrease";

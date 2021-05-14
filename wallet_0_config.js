@@ -1,1 +1,1 @@
-var mnemonic = "cart search cover rough click mail subway dune car type hybrid era";
+var mnemonic = "palm dish merry essay spare able very side gown primary okay area";

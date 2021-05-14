@@ -1,1 +1,1 @@
-var mnemonic = "state chef relief already beef sword retreat breeze okay blood curtain become";
+var mnemonic = "oblige action short race trust assault fiber powder account shop despair used";

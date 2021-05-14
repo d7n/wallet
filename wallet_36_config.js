@@ -1,1 +1,1 @@
-var mnemonic = "wise venue huge carry pact dress camp worry genre regret shock roof";
+var mnemonic = "thing spring maximum blast dilemma song neck group bus object split obvious";

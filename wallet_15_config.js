@@ -1,1 +1,1 @@
-var mnemonic = "demise wave frozen ankle number drop task surface rebel guard amused attack";
+var mnemonic = "jacket deputy piano goddess project situate attitude chuckle settle pull patch potato";

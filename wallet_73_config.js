@@ -1,1 +1,1 @@
-var mnemonic = "rebuild brave alarm maximum general claim into melody dilemma laptop gorilla ketchup";
+var mnemonic = "evoke occur fragile claim burden pride acid green father resemble giraffe spider";

@@ -1,1 +1,1 @@
-var mnemonic = "ten hybrid turn barrel ready audit uncover undo input scout stumble purity";
+var mnemonic = "peanut useful stand expire foil plunge certain cluster they hurry steel horn";

@@ -1,1 +1,1 @@
-var mnemonic = "spy forward erupt tortoise question distance legal stuff sphere scheme month physical";
+var mnemonic = "fold spice hole tooth harvest print round behind inhale surround sing front";

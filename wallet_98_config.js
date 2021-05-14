@@ -1,1 +1,1 @@
-var mnemonic = "paddle relax nature asthma meadow neither dune slender receive beyond cheap can";
+var mnemonic = "cart describe exhaust crack know gold uncover attract fish square breeze surge";

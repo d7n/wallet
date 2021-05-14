@@ -1,1 +1,1 @@
-var mnemonic = "where tortoise dad dinner brand icon industry direct fog chair forget victory";
+var mnemonic = "seat matrix sauce focus pencil front proof car water quit magnet gold";

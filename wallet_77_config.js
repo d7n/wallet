@@ -1,1 +1,1 @@
-var mnemonic = "sword shield punch vapor practice forget cash main poem equal top student";
+var mnemonic = "occur odor wear filter inch analyst blouse weapon mammal later inflict next";

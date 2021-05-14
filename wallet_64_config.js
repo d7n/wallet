@@ -1,1 +1,1 @@
-var mnemonic = "pyramid skin sentence canoe mushroom dash excite indicate arena bunker evil one";
+var mnemonic = "afraid save royal volcano buffalo start mention segment kit throw tell horse";

@@ -1,1 +1,1 @@
-var mnemonic = "tip ugly rail heavy wine congress lock ethics neck carry april spatial";
+var mnemonic = "minor include fit canvas ritual napkin suspect arrive desk video hire fringe";

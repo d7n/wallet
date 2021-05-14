@@ -1,1 +1,1 @@
-var mnemonic = "boy foster sleep dune law key stand brisk work later puppy music";
+var mnemonic = "worry over gravity song tube horse motion powder stand method ceiling survey";

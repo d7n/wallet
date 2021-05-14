@@ -1,1 +1,1 @@
-var mnemonic = "melody pool grape exhaust patrol series athlete fiscal citizen bean alter skull";
+var mnemonic = "parent forum catch slight pizza chat bean deputy essence slab fee old";

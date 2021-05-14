@@ -1,1 +1,1 @@
-var mnemonic = "belt train select gospel wife cause truly bread lonely hour dress outer";
+var mnemonic = "dish priority throw ski swap client jeans sunset wet stairs blind sad";

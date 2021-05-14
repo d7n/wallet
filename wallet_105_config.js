@@ -1,1 +1,1 @@
-var mnemonic = "famous middle million host forget void snack man move whisper disease cute";
+var mnemonic = "marine drift today song track half cactus lab surge achieve service chat";

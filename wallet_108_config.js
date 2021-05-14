@@ -1,1 +1,1 @@
-var mnemonic = "enjoy resemble rain blouse wrong hunt time mind skill pulp anchor dream";
+var mnemonic = "pretty stairs excess access undo panther income just neglect sunset jewel sleep";

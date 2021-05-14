@@ -1,1 +1,1 @@
-var mnemonic = "fine punch phrase flock coyote salute rhythm other announce mind milk three";
+var mnemonic = "helmet silver century club address cute permit second sick option bulk key";

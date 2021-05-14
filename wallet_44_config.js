@@ -1,1 +1,1 @@
-var mnemonic = "found crystal viable fish final impact dish cricket use hospital exact play";
+var mnemonic = "dawn height display toddler route crime move taste boil plate usual note";

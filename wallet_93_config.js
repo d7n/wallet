@@ -1,1 +1,1 @@
-var mnemonic = "maple guide guitar fish exact chalk anxiety table gun suit delay pioneer";
+var mnemonic = "fee fold teach route rebuild school umbrella mixture try cart crop weather";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure hockey whisper vague demise document trial volume candy slam youth oblige";
+var mnemonic = "pottery rigid nerve diary shed rigid bicycle short disease kiss foam riot";

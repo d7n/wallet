@@ -1,1 +1,1 @@
-var mnemonic = "mother dose skill arch paper kind push axis wish edge spice slim";
+var mnemonic = "common green wage puppy trip sweet ride draft junior stamp later good";

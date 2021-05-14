@@ -1,1 +1,1 @@
-var mnemonic = "holiday general minute pizza school lift wagon emerge home skill hollow menu";
+var mnemonic = "beach annual frequent bike beef kitten scissors exhibit spice dizzy labor crazy";

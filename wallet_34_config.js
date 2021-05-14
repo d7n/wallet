@@ -1,1 +1,1 @@
-var mnemonic = "fall bus vast choice scene notice mimic increase humor illegal village knock";
+var mnemonic = "side found gain visual obtain fun burger actor unhappy bring toy world";

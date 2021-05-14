@@ -1,1 +1,1 @@
-var mnemonic = "skill truly replace oblige tone black source bird enhance cruise trim present";
+var mnemonic = "scan inquiry trim stable good lion foot exhibit gown seven bean quit";

@@ -1,1 +1,1 @@
-var mnemonic = "length toward estate divert left razor meat rally thumb rescue refuse produce";
+var mnemonic = "bonus museum vocal extend fault panel laptop under hundred great govern potato";

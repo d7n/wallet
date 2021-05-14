@@ -1,1 +1,1 @@
-var mnemonic = "future cart finger rather rescue bus harbor fragile flavor prize oxygen cage";
+var mnemonic = "undo suffer arrest position tunnel jealous sudden run mass ring jump romance";

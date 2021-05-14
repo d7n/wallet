@@ -1,1 +1,1 @@
-var mnemonic = "replace dynamic tray real holiday column steel worth good pear dress entry";
+var mnemonic = "wood curtain control argue student round expose unhappy flush race fabric true";

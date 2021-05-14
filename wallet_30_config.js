@@ -1,1 +1,1 @@
-var mnemonic = "gown desk gesture canoe vague another deal trade segment follow heart ahead";
+var mnemonic = "snow quote fossil acid patch dad notable across oval exile desk amazing";

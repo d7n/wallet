@@ -1,1 +1,1 @@
-var mnemonic = "attitude arm nominee fish wheel beach critic rude leopard faint top track";
+var mnemonic = "throw combine shift parent mosquito cereal voyage polar avocado thumb coffee split";

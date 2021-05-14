@@ -1,1 +1,1 @@
-var mnemonic = "borrow light stock scrap agree myth ridge raise spend joy orient stairs";
+var mnemonic = "proof arrest urban imitate ten wrist patch because solve wheel aisle breeze";

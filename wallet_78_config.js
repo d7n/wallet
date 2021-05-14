@@ -1,1 +1,1 @@
-var mnemonic = "flame sock match basket bring express exhibit inspire junior mountain wall this";
+var mnemonic = "group earn cereal luxury crowd stage vote rely neglect motion inspire floor";

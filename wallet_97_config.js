@@ -1,1 +1,1 @@
-var mnemonic = "unusual festival name welcome like deny garlic sorry rookie load minute drip";
+var mnemonic = "scout forget else knee slide food clock welcome estate oil jelly believe";

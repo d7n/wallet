@@ -1,1 +1,1 @@
-var mnemonic = "sponsor glad amazing purchase public car bachelor castle depth strategy drastic service";
+var mnemonic = "castle host now resemble distance author sketch neck success scare primary silk";

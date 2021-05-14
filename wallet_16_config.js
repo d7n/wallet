@@ -1,1 +1,1 @@
-var mnemonic = "wheel among maze rely pulse paddle secret call consider angle mimic salmon";
+var mnemonic = "live alarm unlock edge code stairs under crop hand hood net damage";

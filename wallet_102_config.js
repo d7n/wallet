@@ -1,1 +1,1 @@
-var mnemonic = "arena sugar crane alien aunt gloom blouse use next convince tattoo bean";
+var mnemonic = "merit help travel refuse assume eight wall used piece become first animal";

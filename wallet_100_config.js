@@ -1,1 +1,1 @@
-var mnemonic = "various print say cinnamon sketch tape remain mandate chuckle good belt good";
+var mnemonic = "situate coffee modify already ocean joke human horn empower spend typical season";

@@ -1,1 +1,1 @@
-var mnemonic = "edge pigeon always roast vacuum chief anxiety waste donkey design analyst vacuum";
+var mnemonic = "sure usage manage wrap seminar dragon kick reopen west pen project equip";

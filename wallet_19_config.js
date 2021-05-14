@@ -1,1 +1,1 @@
-var mnemonic = "tonight pepper idea more faculty dynamic winter age indoor inside define pattern";
+var mnemonic = "tape piece merge practice ordinary double copper juice menu bitter stumble catalog";

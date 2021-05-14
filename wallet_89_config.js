@@ -1,1 +1,1 @@
-var mnemonic = "wrestle opinion cricket blur update media athlete warfare return wool traffic ready";
+var mnemonic = "melt trigger leader bounce banner page penalty walk stable pull series text";
