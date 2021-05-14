@@ -1,1 +1,1 @@
-var mnemonic = "curve vicious squirrel plastic wedding display survey peace demand harbor jealous faint";
+var mnemonic = "maple fit food immense measure path again main endless track share opinion";

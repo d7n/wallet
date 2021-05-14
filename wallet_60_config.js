@@ -1,1 +1,1 @@
-var mnemonic = "loyal local frog approve convince social guard double smile cigar asthma kiss";
+var mnemonic = "flame possible pupil deny double tissue donate cat grow tongue relax accident";

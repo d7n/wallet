@@ -1,1 +1,1 @@
-var mnemonic = "invest asset under merge salmon decide artwork acid define frown bean simple";
+var mnemonic = "brisk stairs glory desk impose dutch view renew tattoo duty trade impact";

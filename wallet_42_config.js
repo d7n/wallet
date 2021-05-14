@@ -1,1 +1,1 @@
-var mnemonic = "farm rapid rose maximum palace warfare beyond mesh share donkey rib hire";
+var mnemonic = "agree pill vocal taxi fossil such patient behave announce response acoustic resemble";

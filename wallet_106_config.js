@@ -1,1 +1,1 @@
-var mnemonic = "tray rent budget hire brass type city negative spawn lava lounge chat";
+var mnemonic = "code like rely join silent wedding check stool mule skirt critic exist";

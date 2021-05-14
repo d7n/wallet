@@ -1,1 +1,1 @@
-var mnemonic = "lumber evil remember network garment become royal business nurse bamboo keen exhibit";
+var mnemonic = "potato actress rabbit bulb civil alley detail road uncle champion vendor cross";

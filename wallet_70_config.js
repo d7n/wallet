@@ -1,1 +1,1 @@
-var mnemonic = "nest rich learn first hover custom plunge manage price churn nothing library";
+var mnemonic = "vintage reduce spike dash bomb reason bike enable erosion candy bridge else";

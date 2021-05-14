@@ -1,1 +1,1 @@
-var mnemonic = "waste kingdom recall primary prize seven lucky memory cruel board stone laptop";
+var mnemonic = "machine bind riot lesson device brain rival drive demise height peanut bridge";

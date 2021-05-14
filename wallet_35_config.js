@@ -1,1 +1,1 @@
-var mnemonic = "universe pigeon gun raise left exhibit crush tent grid month green snap";
+var mnemonic = "knee derive any daughter journey train movie trumpet narrow area describe vacant";

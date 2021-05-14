@@ -1,1 +1,1 @@
-var mnemonic = "notable emerge long soon sausage cart segment tomorrow lesson clerk daring family";
+var mnemonic = "same sauce front twice fruit leg pact choose blind slot waste fold";

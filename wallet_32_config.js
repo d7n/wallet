@@ -1,1 +1,1 @@
-var mnemonic = "unusual rapid tail episode enroll snap shield guitar woman pig badge cook";
+var mnemonic = "title wedding thank float hat sustain bracket tongue elite mistake choose glare";

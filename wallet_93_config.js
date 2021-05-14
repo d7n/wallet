@@ -1,1 +1,1 @@
-var mnemonic = "crush use dentist patrol reveal often topple trial firm twist fly kiwi";
+var mnemonic = "speak busy sudden pig mix pear huge weird world program spin game";

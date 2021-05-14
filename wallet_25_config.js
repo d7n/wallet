@@ -1,1 +1,1 @@
-var mnemonic = "leaf crush silver achieve cream unfold lobster spray vehicle language wagon muffin";
+var mnemonic = "spend frost eager van view drift shell box canoe load hover attract";

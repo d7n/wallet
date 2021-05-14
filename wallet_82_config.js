@@ -1,1 +1,1 @@
-var mnemonic = "either ripple illness return want reward mistake mansion welcome garden winter grid";
+var mnemonic = "swing student clutch orphan oak always attend arrow client health reopen long";

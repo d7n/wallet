@@ -1,1 +1,1 @@
-var mnemonic = "identify reward cushion soon nest unlock favorite pave snack pizza column isolate";
+var mnemonic = "brown jump ethics rice idle quick bunker view device total vote meat";

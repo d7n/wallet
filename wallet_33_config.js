@@ -1,1 +1,1 @@
-var mnemonic = "rebuild high grow receive cherry settle label marriage garlic unique warrior start";
+var mnemonic = "near height fruit dress fancy shiver above fault basic prize fault load";

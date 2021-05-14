@@ -1,1 +1,1 @@
-var mnemonic = "stone labor length bullet era knife refuse enjoy live process bounce spatial";
+var mnemonic = "curve boost lecture frame wing nuclear any large plunge faculty report field";

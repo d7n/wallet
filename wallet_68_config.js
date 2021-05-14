@@ -1,1 +1,1 @@
-var mnemonic = "siren taste oval marriage faith face address acquire clog urban tortoise choice";
+var mnemonic = "wrap sugar eye speak height army cycle people bone denial admit brisk";

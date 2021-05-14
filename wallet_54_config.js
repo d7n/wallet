@@ -1,1 +1,1 @@
-var mnemonic = "dog fall prepare youth debate parrot easily express desert weapon critic wrestle";
+var mnemonic = "climb lift convince time february iron vapor vital choice calm wreck approve";

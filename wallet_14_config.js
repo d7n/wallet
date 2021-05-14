@@ -1,1 +1,1 @@
-var mnemonic = "enlist interest topple property risk stock arrange lesson paper scan once legal";
+var mnemonic = "describe silver wink urban burden approve wing zone either liquid peanut fork";

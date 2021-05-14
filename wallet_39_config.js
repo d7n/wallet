@@ -1,1 +1,1 @@
-var mnemonic = "turn doll sad tip guide stock crucial company measure palace regret treat";
+var mnemonic = "medal forget rain melody capital bubble ghost ecology thrive lady label february";

@@ -1,1 +1,1 @@
-var mnemonic = "thought any combine wave scrap coin win click bicycle define neutral leave";
+var mnemonic = "cluster use trim flat salmon lobster gentle enemy easy method skill moment";

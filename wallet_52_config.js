@@ -1,1 +1,1 @@
-var mnemonic = "dove car also bounce axis scheme depend focus usual powder idea truth";
+var mnemonic = "input entry link mirror fish admit rhythm water there cattle fog gasp";

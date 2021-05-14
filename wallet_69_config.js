@@ -1,1 +1,1 @@
-var mnemonic = "report canyon cluster outside away unveil earn insect laundry bonus fog stone";
+var mnemonic = "wise expect wall used anxiety survey sample gown tooth travel anger reject";

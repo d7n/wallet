@@ -1,1 +1,1 @@
-var mnemonic = "fortune swim ball under poverty equip recipe sentence slight armed govern inside";
+var mnemonic = "charge car bullet acoustic meadow million arrow hollow powder digital priority thumb";

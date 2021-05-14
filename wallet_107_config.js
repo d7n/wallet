@@ -1,1 +1,1 @@
-var mnemonic = "fatigue dove eager whale relax flight risk certain try lizard country level";
+var mnemonic = "solve hurt depth horse novel mammal high dynamic vicious salon loud such";

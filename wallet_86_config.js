@@ -1,1 +1,1 @@
-var mnemonic = "blade ostrich bar text pipe advance lesson bread deal later soon sick";
+var mnemonic = "result glance arena load poem light render raccoon upper pledge drop fine";

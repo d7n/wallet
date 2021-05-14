@@ -1,1 +1,1 @@
-var mnemonic = "upper remain phone funny jar morning festival quarter imitate cradle crop trip";
+var mnemonic = "gorilla erosion brush antique cattle second normal juice clog napkin milk wife";

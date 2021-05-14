@@ -1,1 +1,1 @@
-var mnemonic = "cousin jar spend skate worth moment survey item silent reveal aerobic cost";
+var mnemonic = "heart tent dose puppy wool local boil tower arm brother skill daughter";

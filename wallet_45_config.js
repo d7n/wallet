@@ -1,1 +1,1 @@
-var mnemonic = "dish inform dry bulk glow over solid cruel smile scatter enemy uncle";
+var mnemonic = "mushroom iron remind wrap they magic junk panther awful bird whip aspect";

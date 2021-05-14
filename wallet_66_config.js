@@ -1,1 +1,1 @@
-var mnemonic = "pear iron setup general aim wrap transfer mansion million mushroom bike around";
+var mnemonic = "useless permit tree worth lab collect neglect bubble elder sort fossil cage";

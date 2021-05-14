@@ -1,1 +1,1 @@
-var mnemonic = "uncover among enrich bunker ignore violin eagle dentist clump quality achieve quantum";
+var mnemonic = "cluster gallery typical parrot indicate wing budget agent armor finish never upgrade";

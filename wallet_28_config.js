@@ -1,1 +1,1 @@
-var mnemonic = "frame short quiz short dish water decade cheese traffic cup extend pause";
+var mnemonic = "squirrel enough shell language blush nothing ridge clarify gorilla phone excuse tragic";

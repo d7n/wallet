@@ -1,1 +1,1 @@
-var mnemonic = "ride nerve sniff family try method inside poem gospel system grit wear";
+var mnemonic = "close mansion escape magnet tiger lady turkey direct also across save swear";

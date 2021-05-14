@@ -1,1 +1,1 @@
-var mnemonic = "road super secret delay delay attend shuffle bird mercy exotic combine genuine";
+var mnemonic = "chair alley lava army text neck venue afford exist void thrive object";

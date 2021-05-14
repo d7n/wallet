@@ -1,1 +1,1 @@
-var mnemonic = "between unfold cricket child price control fragile glove valid trust toss humble";
+var mnemonic = "patch whip release analyst pact track matter twice fabric couple charge impact";

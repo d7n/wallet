@@ -1,1 +1,1 @@
-var mnemonic = "save jaguar couch across danger tortoise meadow usage sustain magic escape sight";
+var mnemonic = "feel charge visual possible hybrid fix pool usual sight april interest home";

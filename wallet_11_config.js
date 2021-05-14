@@ -1,1 +1,1 @@
-var mnemonic = "pulse index laundry kid cotton suit term emotion decide coconut agent oyster";
+var mnemonic = "excess brother mansion cotton space hurt tourist electric demise extra high attitude";

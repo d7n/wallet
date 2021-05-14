@@ -1,1 +1,1 @@
-var mnemonic = "junk title flame electric tube squirrel woman three yellow lecture ethics tank";
+var mnemonic = "render silk street chase castle heavy crush dish glare vicious pilot race";

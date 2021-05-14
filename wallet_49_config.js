@@ -1,1 +1,1 @@
-var mnemonic = "hint patch axis fly cigar stand chat crater sausage note hybrid unfair";
+var mnemonic = "letter portion text learn topic tackle december jealous reopen mechanic sweet glow";

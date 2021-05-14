@@ -1,1 +1,1 @@
-var mnemonic = "cheap spatial belt silver visa orange exclude orbit cradle exhaust chapter middle";
+var mnemonic = "find test rural danger gather december entire wealth quit trouble review slide";

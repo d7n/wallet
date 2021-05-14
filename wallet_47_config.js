@@ -1,1 +1,1 @@
-var mnemonic = "chest assault combine wheat modify visit mean kingdom blade attack fetch zoo";
+var mnemonic = "flee stable crew render dune minute pond cream aerobic various learn derive";

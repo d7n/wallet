@@ -1,1 +1,1 @@
-var mnemonic = "dog magnet brown consider glass mansion faint act burger sun napkin female";
+var mnemonic = "region rather advance volume actual attend speed manage lock fog wish swear";

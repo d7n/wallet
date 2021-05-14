@@ -1,1 +1,1 @@
-var mnemonic = "belt robust route when already horror gauge human point oyster core ostrich";
+var mnemonic = "pigeon above electric payment target mystery wisdom rude noble tone bargain tray";

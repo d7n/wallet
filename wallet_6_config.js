@@ -1,1 +1,1 @@
-var mnemonic = "tattoo involve announce blade prepare bonus sick bonus degree club ship salt";
+var mnemonic = "icon chaos win shift choice add decline vote attack injury hawk sphere";

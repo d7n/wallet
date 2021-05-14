@@ -1,1 +1,1 @@
-var mnemonic = "link early kick frog grace flag hawk arena volume mix carpet jelly";
+var mnemonic = "relax fruit kit issue print have will route neglect waste force run";

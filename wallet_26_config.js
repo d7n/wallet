@@ -1,1 +1,1 @@
-var mnemonic = "satisfy exotic habit keep fossil essence people rather lizard shadow shiver pink";
+var mnemonic = "taste artwork tragic custom shrimp broccoli snow book cattle average key innocent";

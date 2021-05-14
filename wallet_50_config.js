@@ -1,1 +1,1 @@
-var mnemonic = "social amused fresh dwarf border clap absorb school school assume caught drift";
+var mnemonic = "shine logic fiber thunder finger gorilla fee sketch you genuine rail delay";

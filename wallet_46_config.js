@@ -1,1 +1,1 @@
-var mnemonic = "angle trend anger member chest capable dawn peace danger sponsor bulk music";
+var mnemonic = "bag april life blind grief wisdom pizza absurd echo denial shadow erosion";

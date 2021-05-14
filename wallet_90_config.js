@@ -1,1 +1,1 @@
-var mnemonic = "giant happy where lady reunion fold nut panel icon toe express square";
+var mnemonic = "legend pottery tool clinic middle crew state spy famous bird fun ability";

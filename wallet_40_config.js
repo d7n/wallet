@@ -1,1 +1,1 @@
-var mnemonic = "hello pause person escape tent liar awake satisfy phone fruit speak among";
+var mnemonic = "adapt palace ask echo flame tonight magnet liberty web street snow analyst";

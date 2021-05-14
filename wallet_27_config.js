@@ -1,1 +1,1 @@
-var mnemonic = "radar furnace hero abandon return truck patrol response notable aspect length put";
+var mnemonic = "trust crawl clarify stool wish despair foot measure tool lonely drop bunker";

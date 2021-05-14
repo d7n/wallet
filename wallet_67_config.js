@@ -1,1 +1,1 @@
-var mnemonic = "again mimic uniform boring climb voice inside public hockey recipe present fine";
+var mnemonic = "struggle vicious shuffle jelly blood tail body quantum bless load pear chair";

@@ -1,1 +1,1 @@
-var mnemonic = "lava ship float nothing horse fortune park rocket inhale primary dice december";
+var mnemonic = "oil garlic major beach alter remember sponsor have pudding orphan table soul";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder attract distance job soda glue clerk nominee tell wink sting crater";
+var mnemonic = "snap click broccoli float eagle into left right marine two theory repeat";

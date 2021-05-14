@@ -1,1 +1,1 @@
-var mnemonic = "coin pupil toilet sheriff hockey online curve unique session spider candy punch";
+var mnemonic = "episode curve announce present donate drift twenty zero violin favorite bleak icon";

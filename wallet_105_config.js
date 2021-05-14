@@ -1,1 +1,1 @@
-var mnemonic = "road web noble hunt paper dice cereal indoor power spread human mind";
+var mnemonic = "build history order fly valve whisper fat alarm crisp soul cram hammer";

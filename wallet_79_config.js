@@ -1,1 +1,1 @@
-var mnemonic = "comfort describe victory dilemma surround loud verify tool reduce lady find siege";
+var mnemonic = "awake entry goose dawn exist sort moon infant faith throw isolate shift";

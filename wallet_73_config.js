@@ -1,1 +1,1 @@
-var mnemonic = "relax slush inform light dish noise resource reject universe shrug dismiss three";
+var mnemonic = "bomb can whip upset three wide luggage cargo movie weird round nurse";

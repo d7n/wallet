@@ -1,1 +1,1 @@
-var mnemonic = "silver exotic tag borrow omit sort bus sea side coral defy fan";
+var mnemonic = "board what struggle dizzy provide place senior bag matter menu gesture about";

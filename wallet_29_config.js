@@ -1,1 +1,1 @@
-var mnemonic = "place acid bleak discover aerobic neutral final shaft bomb tip maximum expire";
+var mnemonic = "source debris dose muscle peace hotel puppy settle account return business this";

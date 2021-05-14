@@ -1,1 +1,1 @@
-var mnemonic = "short aspect tobacco uniform grace person dial wife dizzy report yellow aim";
+var mnemonic = "despair digital else student output swamp photo vital pear wrap valid vessel";

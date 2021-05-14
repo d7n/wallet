@@ -1,1 +1,1 @@
-var mnemonic = "between segment zebra panda valid radio chicken protect already move fashion doll";
+var mnemonic = "print vital tilt cool party spatial ethics use churn casino job tag";

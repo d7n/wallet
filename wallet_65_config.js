@@ -1,1 +1,1 @@
-var mnemonic = "diamond rug hello deal always enrich step welcome rural better toast grant";
+var mnemonic = "finish old bridge indoor gaze usual improve aim expose strategy truth hill";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold time ostrich random casino security aisle innocent radar leisure cannon lawsuit";
+var mnemonic = "accident dolphin catalog produce celery call vendor example scan dream tiger report";

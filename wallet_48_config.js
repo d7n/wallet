@@ -1,1 +1,1 @@
-var mnemonic = "input leaf company ahead satoshi mystery tongue pluck year mirror winner error";
+var mnemonic = "couch leader dentist apology neutral stick game tattoo voyage tell joy trade";

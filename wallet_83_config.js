@@ -1,1 +1,1 @@
-var mnemonic = "grid hospital twenty aerobic goose cotton success throw half light foil renew";
+var mnemonic = "cage outside maximum rude gift solid pass wagon scout dust merit first";

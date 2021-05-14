@@ -1,1 +1,1 @@
-var mnemonic = "balance main alcohol custom phone antenna auto rival siren clog must arena";
+var mnemonic = "subject pitch west cradle easy armed rude someone custom core shock like";

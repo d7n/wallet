@@ -1,1 +1,1 @@
-var mnemonic = "cave scan scene spawn tray plug casual scout what cube episode certain";
+var mnemonic = "kite pink table live message clean dilemma apology salad soldier isolate bottom";

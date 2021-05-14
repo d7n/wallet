@@ -1,1 +1,1 @@
-var mnemonic = "try similar armed hidden pill raccoon salon scare guilt loop solve just";
+var mnemonic = "divert blossom much bike patient dwarf gossip step empower sleep dice stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble decline ignore chair engage sudden vocal hold myself stumble believe junior";
+var mnemonic = "patient whale canal home devote try try cancel muscle fruit patch lounge";

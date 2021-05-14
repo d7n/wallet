@@ -1,1 +1,1 @@
-var mnemonic = "fiction mail scatter view question pistol online discover prevent course manual inform";
+var mnemonic = "tilt plug setup toward left smooth educate eight route impact wrong unable";

@@ -1,1 +1,1 @@
-var mnemonic = "certain move emotion ramp essence useless slot ripple someone weather visual bench";
+var mnemonic = "tube dry fragile vital setup cage visual purity cigar permit alpha entry";

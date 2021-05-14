@@ -1,1 +1,1 @@
-var mnemonic = "result shiver lemon chunk control deal hood bubble divorce cotton rival deposit";
+var mnemonic = "sock bulk derive joy price cover damage either strike exit skin punch";

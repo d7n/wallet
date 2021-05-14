@@ -1,1 +1,1 @@
-var mnemonic = "near garden check alert chalk decide organ hotel pottery journey stool diet";
+var mnemonic = "choose rich detail dry split uncle nest cup teach call magnet document";

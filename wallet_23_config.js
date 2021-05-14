@@ -1,1 +1,1 @@
-var mnemonic = "wall wolf busy question coffee used pass agent purpose hub rule margin";
+var mnemonic = "neck off forest dance orchard dust melody raccoon critic erase nuclear stool";

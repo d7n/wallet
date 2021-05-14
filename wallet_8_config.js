@@ -1,1 +1,1 @@
-var mnemonic = "civil rigid swap angle traffic venture radio actress select describe gorilla auto";
+var mnemonic = "parade garbage exotic erase festival crunch crew gas destroy gun pass toddler";

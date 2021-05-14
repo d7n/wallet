@@ -1,1 +1,1 @@
-var mnemonic = "chicken scale sample ribbon cheese goose garbage saddle whisper air van wrestle";
+var mnemonic = "organ early attack similar nephew brick dumb wife give legal off slush";

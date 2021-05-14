@@ -1,1 +1,1 @@
-var mnemonic = "fix knee upgrade birth canyon chunk caution typical trigger notable mushroom benefit";
+var mnemonic = "asset shove token magic cave inhale service fit bargain shop noodle sunny";

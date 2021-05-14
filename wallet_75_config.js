@@ -1,1 +1,1 @@
-var mnemonic = "empty keep height fatal rate park onion opera design visual casual depart";
+var mnemonic = "sure safe general mango absent home heavy measure truth text traffic only";

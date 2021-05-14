@@ -1,1 +1,1 @@
-var mnemonic = "vault siege milk whisper demand jazz pioneer receive impact bulk option peasant";
+var mnemonic = "smart lobster rib daring erode elephant before uncle move author struggle measure";

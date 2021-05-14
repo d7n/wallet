@@ -1,1 +1,1 @@
-var mnemonic = "diagram chase kingdom elder happy exercise try lawsuit canvas live style void";
+var mnemonic = "author shy cream crouch mixture frost reveal extra own wrap atom boat";

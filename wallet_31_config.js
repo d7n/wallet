@@ -1,1 +1,1 @@
-var mnemonic = "service market wool prefer reveal tonight hat prefer funny artist bullet saddle";
+var mnemonic = "envelope render dawn melody elevator grape place flat recycle aerobic pledge test";

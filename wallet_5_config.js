@@ -1,1 +1,1 @@
-var mnemonic = "mad right vehicle resource liar museum syrup syrup online direct remain scrub";
+var mnemonic = "behind squirrel thought neck volume crater awake exist method mad load scorpion";
