@@ -1,1 +1,1 @@
-var mnemonic = "aunt crisp fossil notable siren wage digital clever hero input rough curve";
+var mnemonic = "coffee frequent road false hamster essay palm crucial drip strike lamp breeze";

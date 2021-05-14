@@ -1,1 +1,1 @@
-var mnemonic = "relax tragic wide crisp top exile essence piece wild before original wire";
+var mnemonic = "thunder canoe slush axis jewel furnace glare mixed other giggle erupt dune";

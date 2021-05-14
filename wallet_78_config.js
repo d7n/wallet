@@ -1,1 +1,1 @@
-var mnemonic = "smile alpha rubber judge loop also toss pupil any depth prosper female";
+var mnemonic = "cinnamon hobby youth board cousin raise obtain blind flight south ceiling health";

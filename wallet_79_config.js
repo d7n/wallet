@@ -1,1 +1,1 @@
-var mnemonic = "sudden hedgehog amateur vacuum uncle nature luggage fury film call attitude manage";
+var mnemonic = "track marble nation account horse student sniff layer scale manage normal pledge";

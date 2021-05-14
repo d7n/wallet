@@ -1,1 +1,1 @@
-var mnemonic = "warm trade quit border cabbage rate dynamic coin cereal age family swear";
+var mnemonic = "mention obvious assault hobby hire approve marble manage portion wise first position";

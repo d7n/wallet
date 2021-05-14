@@ -1,1 +1,1 @@
-var mnemonic = "funny salmon capital cheese alcohol merry mix welcome change mail exact sing";
+var mnemonic = "evolve borrow derive gauge prevent firm faculty print tree hen cupboard urge";

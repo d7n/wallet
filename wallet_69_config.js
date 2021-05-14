@@ -1,1 +1,1 @@
-var mnemonic = "leaf crunch parrot check fly magic cabin either loop increase supply frequent";
+var mnemonic = "drastic fat area swallow main invest bridge host clown proud wage much";

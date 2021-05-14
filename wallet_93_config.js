@@ -1,1 +1,1 @@
-var mnemonic = "system hand subject drop trim replace veteran hurt attract discover gate seat";
+var mnemonic = "panther woman entry minor measure east kit unique olive below animal wrap";

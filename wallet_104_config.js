@@ -1,1 +1,1 @@
-var mnemonic = "inject six wide wreck door chimney subject blind buyer change violin utility";
+var mnemonic = "delay rapid cliff horror denial fun chest various army wheel material pull";

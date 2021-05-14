@@ -1,1 +1,1 @@
-var mnemonic = "eagle piano shy uphold end whale acquire super color outside west sail";
+var mnemonic = "zone pen zone need consider dream frame mesh man drum move motor";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth syrup hand pottery bulk wedding script rigid few peace alarm setup";
+var mnemonic = "early season genre math behave member trick nothing vanish pet age sing";

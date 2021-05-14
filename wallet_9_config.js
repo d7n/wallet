@@ -1,1 +1,1 @@
-var mnemonic = "memory damage lens gallery skirt indicate faculty push vessel paddle celery column";
+var mnemonic = "riot rice tooth spring devote glow fine silent act clean side essence";

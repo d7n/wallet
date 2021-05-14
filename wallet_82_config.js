@@ -1,1 +1,1 @@
-var mnemonic = "mail shove that model busy gentle arrange frequent world floor sound donor";
+var mnemonic = "ticket scan sock pupil rival fever travel arena page loyal ketchup select";

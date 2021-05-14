@@ -1,1 +1,1 @@
-var mnemonic = "brick two medal antique explain derive bamboo dash patch lock sauce crawl";
+var mnemonic = "lab plug total mechanic relax lawn spell economy embrace develop abstract select";

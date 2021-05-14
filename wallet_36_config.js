@@ -1,1 +1,1 @@
-var mnemonic = "element rubber denial tape zoo rail curious mail biology height corn limb";
+var mnemonic = "wave guide shell arrest panda car proof sustain convince eternal boost opera";

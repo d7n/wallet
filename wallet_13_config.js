@@ -1,1 +1,1 @@
-var mnemonic = "jeans fat ocean movie grab spare drive record emotion push decrease glory";
+var mnemonic = "impact hair teach vague wolf rifle identify cable rare exhaust depth later";

@@ -1,1 +1,1 @@
-var mnemonic = "easily hybrid pledge security lucky mouse area agree slice lava vanish problem";
+var mnemonic = "blame indicate ranch forward narrow dose ivory human oven update suspect oval";

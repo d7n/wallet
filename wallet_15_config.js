@@ -1,1 +1,1 @@
-var mnemonic = "error metal second middle trophy drama empty mad jacket draft clerk obey";
+var mnemonic = "broccoli identify system glimpse push strong oyster stumble index suspect dove welcome";

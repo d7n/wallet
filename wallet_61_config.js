@@ -1,1 +1,1 @@
-var mnemonic = "flag man destroy device unlock hub crumble luxury orphan require fiber appear";
+var mnemonic = "glow tomorrow episode beyond repeat blast song host nation festival century bean";

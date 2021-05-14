@@ -1,1 +1,1 @@
-var mnemonic = "pottery music lens south crack crane tunnel place original stumble coin knock";
+var mnemonic = "yellow only body airport become nice wonder dose girl human ecology message";

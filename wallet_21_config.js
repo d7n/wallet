@@ -1,1 +1,1 @@
-var mnemonic = "whale merry wrong pupil hospital crane delay purpose weird damage much manage";
+var mnemonic = "hub secret polar trick certain discover crane raise risk island vocal manage";

@@ -1,1 +1,1 @@
-var mnemonic = "grass copper find brief decrease engage position rigid helmet exist ring rice";
+var mnemonic = "climb salt blur color jacket horror profit thing stomach project settle raven";

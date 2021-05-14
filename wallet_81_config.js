@@ -1,1 +1,1 @@
-var mnemonic = "leopard blush radio sound advance focus lamp tiger inmate brisk initial diamond";
+var mnemonic = "cry total apology pull isolate sense poet people lion run stamp steak";

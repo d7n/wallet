@@ -1,1 +1,1 @@
-var mnemonic = "foam case void metal satisfy frost devote zone bamboo quote ladder stable";
+var mnemonic = "night sphere ceiling place people vivid orphan increase embody cluster pact climb";

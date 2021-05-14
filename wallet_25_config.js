@@ -1,1 +1,1 @@
-var mnemonic = "orange inspire cute custom slab play ancient display kitchen parent weather cupboard";
+var mnemonic = "exist account save tube grape open because pond satoshi mixed space hunt";

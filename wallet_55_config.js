@@ -1,1 +1,1 @@
-var mnemonic = "city alone whisper key isolate secret try attract guilt text dust assault";
+var mnemonic = "quarter soon mention inch cabbage forest jaguar biology business cannon country hello";

@@ -1,1 +1,1 @@
-var mnemonic = "history pact thought equal alter onion hollow fringe average catch oppose thought";
+var mnemonic = "enforce convince business shoot luxury clinic dog toddler fat add rather mention";

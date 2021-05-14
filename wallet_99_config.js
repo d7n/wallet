@@ -1,1 +1,1 @@
-var mnemonic = "dash dry traffic pitch thought jazz tooth pizza federal unknown girl dutch";
+var mnemonic = "goat assume nominee merry track latin mechanic member stove stuff tell envelope";

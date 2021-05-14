@@ -1,1 +1,1 @@
-var mnemonic = "stable soldier twelve cry cry health light return lesson diary van illegal";
+var mnemonic = "mom front blast mixture swap forum follow two name exact foot claim";

@@ -1,1 +1,1 @@
-var mnemonic = "stem industry horse arrive heavy vibrant switch output arrow iron case busy";
+var mnemonic = "amazing kiss faint spatial addict trumpet grow hood vacant reason wise tennis";

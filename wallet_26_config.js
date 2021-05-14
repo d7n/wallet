@@ -1,1 +1,1 @@
-var mnemonic = "bubble voice ghost spray eagle damage vault elegant stuff clarify nose crucial";
+var mnemonic = "trophy foil figure slim blossom capital bulb busy vanish gloom small piano";

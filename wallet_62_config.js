@@ -1,1 +1,1 @@
-var mnemonic = "defy moon flower uncover innocent math cupboard push sponsor lesson cross sing";
+var mnemonic = "tenant art envelope verb turtle void vacant major derive topic property case";

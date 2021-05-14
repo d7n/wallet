@@ -1,1 +1,1 @@
-var mnemonic = "impact bundle victory frown tongue life nest pen uphold theory infant way";
+var mnemonic = "enough believe silk airport piece what retreat turn olympic anchor laundry senior";

@@ -1,1 +1,1 @@
-var mnemonic = "hover anger cannon bean sudden cart melt collect scene old crunch ginger";
+var mnemonic = "innocent citizen sentence debris isolate deliver sure dune laptop response alone rich";

@@ -1,1 +1,1 @@
-var mnemonic = "air cute pistol devote behind maximum ensure stay useless sweet more brief";
+var mnemonic = "lawn odor occur sort leave attack crunch veteran goddess move upper better";

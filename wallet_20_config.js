@@ -1,1 +1,1 @@
-var mnemonic = "input beauty hawk carpet page inner ethics kit skin obey cool student";
+var mnemonic = "service improve object float also ginger silver tent water ketchup quantum idle";

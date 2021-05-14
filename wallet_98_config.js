@@ -1,1 +1,1 @@
-var mnemonic = "arrive luxury guard filter power height honey warfare turtle grunt labor message";
+var mnemonic = "spike busy card shell ball inside journey tank border hungry index delay";

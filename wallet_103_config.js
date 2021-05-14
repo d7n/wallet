@@ -1,1 +1,1 @@
-var mnemonic = "member spoon thing fence soldier treat memory squeeze earth turkey hundred one";
+var mnemonic = "vault soon cushion small right truly quantum bomb tennis junior unit mushroom";

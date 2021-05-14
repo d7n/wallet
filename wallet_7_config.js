@@ -1,1 +1,1 @@
-var mnemonic = "boy allow stomach reunion invite prepare mind win round enable slide believe";
+var mnemonic = "network bicycle degree second light mixture music trigger surround hotel element debris";

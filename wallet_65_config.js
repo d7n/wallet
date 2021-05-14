@@ -1,1 +1,1 @@
-var mnemonic = "direct begin unveil crime couple try soup sell spoon lobster dream sketch";
+var mnemonic = "accuse wife acquire hint stem energy host occur ketchup audit color pact";

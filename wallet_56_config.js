@@ -1,1 +1,1 @@
-var mnemonic = "husband super spike misery chicken guess gesture test hedgehog stem apple giraffe";
+var mnemonic = "hold vacuum rebuild essence arm member palm genre virus decade crucial arctic";

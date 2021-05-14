@@ -1,1 +1,1 @@
-var mnemonic = "excuse satoshi short wait drop utility auto work palace cereal borrow during";
+var mnemonic = "hover sibling much frozen like actual weasel elbow what tuna bridge lock";

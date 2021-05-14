@@ -1,1 +1,1 @@
-var mnemonic = "mix potato donate abuse connect student water gym heart typical acquire brass";
+var mnemonic = "pond gloom sketch write crew coconut hurt picnic comic maple october term";

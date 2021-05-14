@@ -1,1 +1,1 @@
-var mnemonic = "craft venue wire fix spatial enjoy oyster cheap work also guitar lion";
+var mnemonic = "host ship grain raccoon aerobic manual whip indicate sentence demise enact fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "river cost hill prosper nut recipe short swamp reason hair load about";
+var mnemonic = "crash gap include slide truck note rocket east buddy soft poverty there";

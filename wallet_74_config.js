@@ -1,1 +1,1 @@
-var mnemonic = "earn safe below reward fan estate exhibit merit style excite love oval";
+var mnemonic = "matrix game push elevator embody witness home fever option chicken unknown ridge";

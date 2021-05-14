@@ -1,1 +1,1 @@
-var mnemonic = "oil frog solution fever medal warfare vibrant nut priority test proud girl";
+var mnemonic = "large museum punch tent program diagram turn electric border reject ghost oil";

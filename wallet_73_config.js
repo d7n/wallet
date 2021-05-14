@@ -1,1 +1,1 @@
-var mnemonic = "cable office present spike copper day nerve earn head hint shaft worry";
+var mnemonic = "anxiety trick patch enough amused resist foam solve swarm bleak income mask";

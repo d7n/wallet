@@ -1,1 +1,1 @@
-var mnemonic = "glimpse nothing wet video source stereo spy debate coconut stock scatter seek";
+var mnemonic = "math practice teach raise eye cluster turtle play impulse orchard churn student";

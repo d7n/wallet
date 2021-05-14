@@ -1,1 +1,1 @@
-var mnemonic = "design bleak cash galaxy space twist giggle glove vault salute dream quiz";
+var mnemonic = "alien swamp skin tennis kiss spoil tip frown betray robot neither task";

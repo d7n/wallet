@@ -1,1 +1,1 @@
-var mnemonic = "notable symbol car gown blame pull asset copy health master senior taste";
+var mnemonic = "address duty element lemon solution vehicle refuse noodle hurdle soon surface artwork";

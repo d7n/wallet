@@ -1,1 +1,1 @@
-var mnemonic = "width dog way draft good possible actress tiny assault brass crucial antique";
+var mnemonic = "job crouch glory you such lens lock have trash near nothing rigid";

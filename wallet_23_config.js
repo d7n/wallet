@@ -1,1 +1,1 @@
-var mnemonic = "door junk nephew inquiry make teach mistake era resemble emerge cable float";
+var mnemonic = "episode alone motor top response carpet oxygen glide dwarf chef cook nominee";

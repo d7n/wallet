@@ -1,1 +1,1 @@
-var mnemonic = "bean ranch arena surface amazing bicycle copy ivory boy off deputy dog";
+var mnemonic = "extra tumble gold frame fog middle couch around gospel obey hint wolf";

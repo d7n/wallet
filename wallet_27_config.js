@@ -1,1 +1,1 @@
-var mnemonic = "history ripple mind gallery cake scrub animal afraid town abstract sing parrot";
+var mnemonic = "rival like autumn bicycle insect siege small civil destroy divide onion castle";

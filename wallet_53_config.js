@@ -1,1 +1,1 @@
-var mnemonic = "occur cluster thumb stock edge friend expose merit cry armor napkin loan";
+var mnemonic = "feature post dove disorder answer nothing unaware teach armed arrive tiger fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "drive section together breeze come curve engage glare quote tortoise speed hover";
+var mnemonic = "senior world pepper sock avoid mountain fetch happy short sentence surround always";

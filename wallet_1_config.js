@@ -1,1 +1,1 @@
-var mnemonic = "exchange crawl canvas tide soup idle squeeze secret path glide detail dash";
+var mnemonic = "follow bench answer salon mansion valve confirm gloom spend evoke lava lazy";

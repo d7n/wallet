@@ -1,1 +1,1 @@
-var mnemonic = "obvious blanket clay great spend prize human hover walnut camp dizzy detect";
+var mnemonic = "silly weapon symptom trim achieve emotion scare bullet main hungry phrase gas";

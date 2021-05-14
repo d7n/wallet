@@ -1,1 +1,1 @@
-var mnemonic = "clutch aspect shadow bargain educate scale sugar cinnamon city chest tornado wool";
+var mnemonic = "exchange fish amused unknown era ankle engage elbow child census smart three";

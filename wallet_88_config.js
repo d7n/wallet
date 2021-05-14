@@ -1,1 +1,1 @@
-var mnemonic = "remain hidden artist deny finish celery bridge design brother duck rude wife";
+var mnemonic = "cloth tooth ladder poverty bag forest analyst pitch pulp fatal zero gather";

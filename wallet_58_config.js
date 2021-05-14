@@ -1,1 +1,1 @@
-var mnemonic = "fury obvious fluid indicate extra decrease license social chat any pair question";
+var mnemonic = "opinion shell pioneer coil eagle camera doll walnut agent sentence merit immense";

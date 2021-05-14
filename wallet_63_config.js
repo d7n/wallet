@@ -1,1 +1,1 @@
-var mnemonic = "update tornado puzzle prize danger despair thunder year shed force usage tourist";
+var mnemonic = "visual blush chat hub main bulk fork knock brisk power near ketchup";

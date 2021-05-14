@@ -1,1 +1,1 @@
-var mnemonic = "system fringe negative taste canyon mammal okay cheap gorilla wage raise breeze";
+var mnemonic = "soul neither idle world gather swap shy various stomach elegant cupboard mule";

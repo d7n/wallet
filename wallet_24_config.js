@@ -1,1 +1,1 @@
-var mnemonic = "quote little oven claim pact fade used visual elevator equal below grid";
+var mnemonic = "coconut symbol calm home sense empower fly verify snake ladder paper shock";

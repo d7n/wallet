@@ -1,1 +1,1 @@
-var mnemonic = "canoe era prepare similar knock cost pause soft budget boss release human";
+var mnemonic = "news hub ready estate furnace unfold month drive soon glove glance race";

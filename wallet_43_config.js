@@ -1,1 +1,1 @@
-var mnemonic = "spirit sample start mercy genre goose capital loyal carpet hawk length broccoli";
+var mnemonic = "warfare goat kiss toe winner room hip slow indoor warfare valid bird";

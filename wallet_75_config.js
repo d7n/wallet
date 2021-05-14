@@ -1,1 +1,1 @@
-var mnemonic = "session apology cluster grass pond mention person segment busy common elite wife";
+var mnemonic = "aunt monitor disorder point program detail energy element stamp dizzy work wage";

@@ -1,1 +1,1 @@
-var mnemonic = "news stick enforce buddy sauce great captain citizen museum engage ankle six";
+var mnemonic = "soul field taxi warrior jewel security burden erosion seed wool sight gossip";

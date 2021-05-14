@@ -1,1 +1,1 @@
-var mnemonic = "arena that rather hard oval shift damage gown answer tunnel empty grass";
+var mnemonic = "lawsuit curtain forward dice ethics solar amateur tell father cherry note tumble";

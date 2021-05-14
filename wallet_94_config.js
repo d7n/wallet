@@ -1,1 +1,1 @@
-var mnemonic = "limb settle muscle shift detect remember visual dawn banner trend paper base";
+var mnemonic = "stand piano express exact fade shadow pony bless bird tunnel bus twice";

@@ -1,1 +1,1 @@
-var mnemonic = "clay drop enemy promote visual hockey supreme squeeze lawsuit atom latin float";
+var mnemonic = "girl happy spy inquiry tree dwarf vintage island tourist famous glad happy";

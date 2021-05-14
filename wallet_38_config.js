@@ -1,1 +1,1 @@
-var mnemonic = "jaguar reflect predict tomato blind clay tiger insect amazing end bean airport";
+var mnemonic = "antenna pear crash myth season sense weapon approve blanket achieve figure search";

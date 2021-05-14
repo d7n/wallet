@@ -1,1 +1,1 @@
-var mnemonic = "sauce toddler walk memory shaft absent danger resemble gaze gospel input charge";
+var mnemonic = "member pumpkin yard room raven couple three august current clerk shrimp circle";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware casual box obscure boy alter remember mass chaos east blade remind";
+var mnemonic = "hold essay insect wrestle deal cute bunker warrior pause snap digital brick";

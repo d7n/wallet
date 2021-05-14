@@ -1,1 +1,1 @@
-var mnemonic = "margin mandate thrive feel choose cloud trap recall hollow guard best identify";
+var mnemonic = "blade ski mirror merge kid cloud decline unfair finger focus tower chalk";

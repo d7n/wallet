@@ -1,1 +1,1 @@
-var mnemonic = "post cart update stock relax what camera void amateur success beach offer";
+var mnemonic = "library glare vacant peanut essence help deliver fetch few vague large menu";

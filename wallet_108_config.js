@@ -1,1 +1,1 @@
-var mnemonic = "garage sudden fault hill taxi ridge skin toe pool cup survey slot";
+var mnemonic = "input ticket travel cattle other warrior radio beef session cook vault ticket";

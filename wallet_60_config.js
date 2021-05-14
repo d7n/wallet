@@ -1,1 +1,1 @@
-var mnemonic = "all beauty trick dismiss eager lobster fuel seminar differ polar shy pair";
+var mnemonic = "surface about cheap oblige typical now elbow tornado moon cruise essence spice";

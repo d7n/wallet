@@ -1,1 +1,1 @@
-var mnemonic = "bike curious fence entry property combine steak solve cigar pistol turkey truck";
+var mnemonic = "paper gown gather like cube envelope lady under lyrics vessel skull mask";

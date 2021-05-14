@@ -1,1 +1,1 @@
-var mnemonic = "power cactus useless general file muscle trap meat time ghost rely slam";
+var mnemonic = "island dice ice discover evolve exercise wreck face when cricket sausage matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "deer potato ethics island nut drift build enemy rebel wrestle armor under";
+var mnemonic = "project under normal surge gift crash popular scissors brave deputy neither anxiety";

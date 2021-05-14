@@ -1,1 +1,1 @@
-var mnemonic = "belt owner excite ocean fox lake coach exotic law toddler much crash";
+var mnemonic = "enroll expect glimpse explain odor leave exhibit neither kit name silk badge";

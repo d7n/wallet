@@ -1,1 +1,1 @@
-var mnemonic = "art rigid common gap rapid weird impose very lesson slush million size";
+var mnemonic = "warm fancy team mountain gorilla list include such cube pepper remove mass";

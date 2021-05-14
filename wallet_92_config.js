@@ -1,1 +1,1 @@
-var mnemonic = "choice place chase order find valid pause rather finger problem chaos omit";
+var mnemonic = "chunk render script knock front able mushroom argue right luggage kitten eight";

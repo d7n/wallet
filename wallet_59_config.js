@@ -1,1 +1,1 @@
-var mnemonic = "major vessel cup endless beach leader rebel kidney happy kangaroo earth stadium";
+var mnemonic = "winter wink total gesture fortune impact vault someone love spoon truck grunt";

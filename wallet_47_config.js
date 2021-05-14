@@ -1,1 +1,1 @@
-var mnemonic = "intact industry eagle inquiry accuse rice cotton forget tape across beyond giggle";
+var mnemonic = "radio fiction person vapor field stomach garlic wide stadium trip cook permit";

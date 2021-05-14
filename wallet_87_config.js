@@ -1,1 +1,1 @@
-var mnemonic = "minute wine caught glass drift medal kitten blood chest afraid borrow program";
+var mnemonic = "endless prefer canoe fold win urban belt bonus bonus assume broom focus";

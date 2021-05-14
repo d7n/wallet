@@ -1,1 +1,1 @@
-var mnemonic = "swallow leg plug ecology cement wild calm enable apart insane want giraffe";
+var mnemonic = "expect shaft utility fury diamond harvest sphere ring unique hire volcano grocery";

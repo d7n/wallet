@@ -1,1 +1,1 @@
-var mnemonic = "raccoon want puppy labor record bubble skin hammer wonder novel animal brother";
+var mnemonic = "doctor unknown celery awful narrow oyster pond purpose dilemma stem bitter elite";
