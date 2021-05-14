@@ -1,1 +1,1 @@
-var mnemonic = "delay rapid cliff horror denial fun chest various army wheel material pull";
+var mnemonic = "photo dismiss prefer wink theme improve lab best half food athlete remain";

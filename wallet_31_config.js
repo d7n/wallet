@@ -1,1 +1,1 @@
-var mnemonic = "shy clog clap drop device chapter limit initial library muscle post leisure";
+var mnemonic = "service market wool prefer reveal tonight hat prefer funny artist bullet saddle";

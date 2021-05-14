@@ -1,1 +1,1 @@
-var mnemonic = "address duty element lemon solution vehicle refuse noodle hurdle soon surface artwork";
+var mnemonic = "between segment zebra panda valid radio chicken protect already move fashion doll";

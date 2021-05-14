@@ -1,1 +1,1 @@
-var mnemonic = "night sphere ceiling place people vivid orphan increase embody cluster pact climb";
+var mnemonic = "thought any combine wave scrap coin win click bicycle define neutral leave";

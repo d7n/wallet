@@ -1,1 +1,1 @@
-var mnemonic = "vault soon cushion small right truly quantum bomb tennis junior unit mushroom";
+var mnemonic = "cave scan scene spawn tray plug casual scout what cube episode certain";

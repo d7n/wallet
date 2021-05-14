@@ -1,1 +1,1 @@
-var mnemonic = "wire kick borrow income erupt surround climb attitude exit injury hundred define";
+var mnemonic = "tower sense stool thrive imitate relax interest act toddler eyebrow pen season";

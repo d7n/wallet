@@ -1,1 +1,1 @@
-var mnemonic = "yellow only body airport become nice wonder dose girl human ecology message";
+var mnemonic = "notable emerge long soon sausage cart segment tomorrow lesson clerk daring family";

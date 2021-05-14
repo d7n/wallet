@@ -1,1 +1,1 @@
-var mnemonic = "melt balance funny gravity differ imitate scale author awesome into arctic crop";
+var mnemonic = "unusual rapid tail episode enroll snap shield guitar woman pig badge cook";

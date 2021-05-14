@@ -1,1 +1,1 @@
-var mnemonic = "math practice teach raise eye cluster turtle play impulse orchard churn student";
+var mnemonic = "water virtual tip pizza enemy almost truly drift result vapor purse risk";

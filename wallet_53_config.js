@@ -1,1 +1,1 @@
-var mnemonic = "feature post dove disorder answer nothing unaware teach armed arrive tiger fiction";
+var mnemonic = "near garden check alert chalk decide organ hotel pottery journey stool diet";

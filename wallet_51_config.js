@@ -1,1 +1,1 @@
-var mnemonic = "ketchup pen choose tattoo simple boring combine climb topic pudding pepper sad";
+var mnemonic = "curious yellow soup smoke hamster wheel prepare between library debate purse draft";

@@ -1,1 +1,1 @@
-var mnemonic = "input ticket travel cattle other warrior radio beef session cook vault ticket";
+var mnemonic = "end elevator roast ocean buffalo squirrel sword pen essay gas betray drive";

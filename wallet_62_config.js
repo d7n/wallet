@@ -1,1 +1,1 @@
-var mnemonic = "tenant art envelope verb turtle void vacant major derive topic property case";
+var mnemonic = "state pool shove subject door crew next found gauge pumpkin member machine";

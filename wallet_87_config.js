@@ -1,1 +1,1 @@
-var mnemonic = "endless prefer canoe fold win urban belt bonus bonus assume broom focus";
+var mnemonic = "result shiver lemon chunk control deal hood bubble divorce cotton rival deposit";

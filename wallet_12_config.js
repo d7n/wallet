@@ -1,1 +1,1 @@
-var mnemonic = "large museum punch tent program diagram turn electric border reject ghost oil";
+var mnemonic = "between unfold cricket child price control fragile glove valid trust toss humble";

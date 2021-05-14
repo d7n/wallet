@@ -1,1 +1,1 @@
-var mnemonic = "exchange fish amused unknown era ankle engage elbow child census smart three";
+var mnemonic = "job tongue loop deny benefit iron prison doctor transfer visual siren soldier";

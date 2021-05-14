@@ -1,1 +1,1 @@
-var mnemonic = "accuse wife acquire hint stem energy host occur ketchup audit color pact";
+var mnemonic = "diamond rug hello deal always enrich step welcome rural better toast grant";

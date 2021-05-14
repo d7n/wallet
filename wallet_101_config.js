@@ -1,1 +1,1 @@
-var mnemonic = "project under normal surge gift crash popular scissors brave deputy neither anxiety";
+var mnemonic = "vault siege milk whisper demand jazz pioneer receive impact bulk option peasant";

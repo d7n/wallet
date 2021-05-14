@@ -1,1 +1,1 @@
-var mnemonic = "wave guide shell arrest panda car proof sustain convince eternal boost opera";
+var mnemonic = "waste kingdom recall primary prize seven lucky memory cruel board stone laptop";

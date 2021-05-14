@@ -1,1 +1,1 @@
-var mnemonic = "notable tag dash blue used solve mad friend glass vicious decide sell";
+var mnemonic = "tunnel glow category valley soup critic orient frown leg sweet luggage veteran";

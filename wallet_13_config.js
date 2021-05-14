@@ -1,1 +1,1 @@
-var mnemonic = "impact hair teach vague wolf rifle identify cable rare exhaust depth later";
+var mnemonic = "upper remain phone funny jar morning festival quarter imitate cradle crop trip";

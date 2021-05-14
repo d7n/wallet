@@ -1,1 +1,1 @@
-var mnemonic = "surface about cheap oblige typical now elbow tornado moon cruise essence spice";
+var mnemonic = "loyal local frog approve convince social guard double smile cigar asthma kiss";

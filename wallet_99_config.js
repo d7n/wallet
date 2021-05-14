@@ -1,1 +1,1 @@
-var mnemonic = "goat assume nominee merry track latin mechanic member stove stuff tell envelope";
+var mnemonic = "magnet visual whale below smart canyon solution victory century galaxy rate warrior";

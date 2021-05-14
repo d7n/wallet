@@ -1,1 +1,1 @@
-var mnemonic = "dutch shield reject major kidney else dizzy fatigue carpet onion vehicle mandate";
+var mnemonic = "aware spare often blossom believe list grocery behave arm color comic empower";

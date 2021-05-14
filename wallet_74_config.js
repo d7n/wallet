@@ -1,1 +1,1 @@
-var mnemonic = "matrix game push elevator embody witness home fever option chicken unknown ridge";
+var mnemonic = "aunt table clutch eagle mercy moment maid miss belt economy sock cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair autumn affair sound width lobster slab also slide shell chase useful";
+var mnemonic = "chest enjoy pole lab never obtain section credit broccoli insane chuckle upon";

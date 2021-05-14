@@ -1,1 +1,1 @@
-var mnemonic = "first search enable small tomato pledge news rotate replace odor nation rude";
+var mnemonic = "hello pause person escape tent liar awake satisfy phone fruit speak among";

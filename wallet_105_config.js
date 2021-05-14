@@ -1,1 +1,1 @@
-var mnemonic = "sauce oxygen amazing kingdom duck total credit during cereal orbit ocean meat";
+var mnemonic = "road web noble hunt paper dice cereal indoor power spread human mind";

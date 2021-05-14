@@ -1,1 +1,1 @@
-var mnemonic = "service improve object float also ginger silver tent water ketchup quantum idle";
+var mnemonic = "fiction mail scatter view question pistol online discover prevent course manual inform";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut symbol calm home sense empower fly verify snake ladder paper shock";
+var mnemonic = "radar pledge deliver confirm top year clap coil clerk pull wear more";

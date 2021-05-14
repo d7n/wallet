@@ -1,1 +1,1 @@
-var mnemonic = "antenna pear crash myth season sense weapon approve blanket achieve figure search";
+var mnemonic = "label relief depend best vault glue soon river mouse easily benefit park";

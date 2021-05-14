@@ -1,1 +1,1 @@
-var mnemonic = "radio fiction person vapor field stomach garlic wide stadium trip cook permit";
+var mnemonic = "chest assault combine wheat modify visit mean kingdom blade attack fetch zoo";

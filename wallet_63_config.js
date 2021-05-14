@@ -1,1 +1,1 @@
-var mnemonic = "visual blush chat hub main bulk fork knock brisk power near ketchup";
+var mnemonic = "save jaguar couch across danger tortoise meadow usage sustain magic escape sight";

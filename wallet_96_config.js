@@ -1,1 +1,1 @@
-var mnemonic = "lab plug total mechanic relax lawn spell economy embrace develop abstract select";
+var mnemonic = "junk title flame electric tube squirrel woman three yellow lecture ethics tank";

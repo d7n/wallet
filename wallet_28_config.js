@@ -1,1 +1,1 @@
-var mnemonic = "amazing kiss faint spatial addict trumpet grow hood vacant reason wise tennis";
+var mnemonic = "frame short quiz short dish water decade cheese traffic cup extend pause";

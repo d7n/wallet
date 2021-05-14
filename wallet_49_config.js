@@ -1,1 +1,1 @@
-var mnemonic = "coffee frequent road false hamster essay palm crucial drip strike lamp breeze";
+var mnemonic = "hint patch axis fly cigar stand chat crater sausage note hybrid unfair";

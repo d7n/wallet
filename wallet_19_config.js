@@ -1,1 +1,1 @@
-var mnemonic = "element spot field sunny right lava hero praise ranch unique load world";
+var mnemonic = "identify reward cushion soon nest unlock favorite pave snack pizza column isolate";

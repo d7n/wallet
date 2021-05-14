@@ -1,1 +1,1 @@
-var mnemonic = "stand piano express exact fade shadow pony bless bird tunnel bus twice";
+var mnemonic = "belt robust route when already horror gauge human point oyster core ostrich";

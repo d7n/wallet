@@ -1,1 +1,1 @@
-var mnemonic = "glide jump sister coyote exist marine execute journey air canoe glow beauty";
+var mnemonic = "prepare joke blur cabin depth thing can exact alone elbow oppose typical";

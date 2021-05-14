@@ -1,1 +1,1 @@
-var mnemonic = "warfare goat kiss toe winner room hip slow indoor warfare valid bird";
+var mnemonic = "diagram chase kingdom elder happy exercise try lawsuit canvas live style void";

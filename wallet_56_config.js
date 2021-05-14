@@ -1,1 +1,1 @@
-var mnemonic = "hold vacuum rebuild essence arm member palm genre virus decade crucial arctic";
+var mnemonic = "skull help hospital clinic heavy forest degree vessel number whisper romance scorpion";

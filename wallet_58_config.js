@@ -1,1 +1,1 @@
-var mnemonic = "opinion shell pioneer coil eagle camera doll walnut agent sentence merit immense";
+var mnemonic = "basic illness result gym lawn nothing shallow used grid link mask vital";

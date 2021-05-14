@@ -1,1 +1,1 @@
-var mnemonic = "broccoli identify system glimpse push strong oyster stumble index suspect dove welcome";
+var mnemonic = "eager certain rich salon drastic moment gown forum program unhappy perfect pond";

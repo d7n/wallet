@@ -1,1 +1,1 @@
-var mnemonic = "panther woman entry minor measure east kit unique olive below animal wrap";
+var mnemonic = "crush use dentist patrol reveal often topple trial firm twist fly kiwi";

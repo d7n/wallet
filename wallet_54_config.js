@@ -1,1 +1,1 @@
-var mnemonic = "coffee host biology list give surprise spy enemy fossil expire ginger fine";
+var mnemonic = "dog fall prepare youth debate parrot easily express desert weapon critic wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "mail unknown treat spend banana ring again toe misery tornado maze okay";
+var mnemonic = "input leaf company ahead satoshi mystery tongue pluck year mirror winner error";

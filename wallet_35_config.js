@@ -1,1 +1,1 @@
-var mnemonic = "crash gap include slide truck note rocket east buddy soft poverty there";
+var mnemonic = "universe pigeon gun raise left exhibit crush tent grid month green snap";

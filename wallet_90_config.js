@@ -1,1 +1,1 @@
-var mnemonic = "zone pen zone need consider dream frame mesh man drum move motor";
+var mnemonic = "giant happy where lady reunion fold nut panel icon toe express square";

@@ -1,1 +1,1 @@
-var mnemonic = "blame indicate ranch forward narrow dose ivory human oven update suspect oval";
+var mnemonic = "turn doll sad tip guide stock crucial company measure palace regret treat";

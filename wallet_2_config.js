@@ -1,1 +1,1 @@
-var mnemonic = "alien swamp skin tennis kiss spoil tip frown betray robot neither task";
+var mnemonic = "curve vicious squirrel plastic wedding display survey peace demand harbor jealous faint";

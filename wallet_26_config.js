@@ -1,1 +1,1 @@
-var mnemonic = "trophy foil figure slim blossom capital bulb busy vanish gloom small piano";
+var mnemonic = "satisfy exotic habit keep fossil essence people rather lizard shadow shiver pink";

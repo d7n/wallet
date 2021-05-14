@@ -1,1 +1,1 @@
-var mnemonic = "mention obvious assault hobby hire approve marble manage portion wise first position";
+var mnemonic = "farm rapid rose maximum palace warfare beyond mesh share donkey rib hire";

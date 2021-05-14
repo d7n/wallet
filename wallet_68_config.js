@@ -1,1 +1,1 @@
-var mnemonic = "enroll expect glimpse explain odor leave exhibit neither kit name silk badge";
+var mnemonic = "siren taste oval marriage faith face address acquire clog urban tortoise choice";

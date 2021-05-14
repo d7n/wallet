@@ -1,1 +1,1 @@
-var mnemonic = "hold essay insect wrestle deal cute bunker warrior pause snap digital brick";
+var mnemonic = "place acid bleak discover aerobic neutral final shaft bomb tip maximum expire";

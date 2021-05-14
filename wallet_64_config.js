@@ -1,1 +1,1 @@
-var mnemonic = "social replace roof food upper pair omit guess knife lazy cluster young";
+var mnemonic = "essence hundred junior valley world nominee journey outer organ funny purity vital";

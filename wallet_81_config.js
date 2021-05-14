@@ -1,1 +1,1 @@
-var mnemonic = "cry total apology pull isolate sense poet people lion run stamp steak";
+var mnemonic = "lumber evil remember network garment become royal business nurse bamboo keen exhibit";

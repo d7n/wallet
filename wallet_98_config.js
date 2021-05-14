@@ -1,1 +1,1 @@
-var mnemonic = "spike busy card shell ball inside journey tank border hungry index delay";
+var mnemonic = "chicken scale sample ribbon cheese goose garbage saddle whisper air van wrestle";

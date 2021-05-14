@@ -1,1 +1,1 @@
-var mnemonic = "winter wink total gesture fortune impact vault someone love spoon truck grunt";
+var mnemonic = "balance main alcohol custom phone antenna auto rival siren clog must arena";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic fat area swallow main invest bridge host clown proud wage much";
+var mnemonic = "report canyon cluster outside away unveil earn insect laundry bonus fog stone";

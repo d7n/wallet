@@ -1,1 +1,1 @@
-var mnemonic = "hub secret polar trick certain discover crane raise risk island vocal manage";
+var mnemonic = "paper author silver cool word arena acquire plate disagree sheriff critic good";

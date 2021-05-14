@@ -1,1 +1,1 @@
-var mnemonic = "island dice ice discover evolve exercise wreck face when cricket sausage matrix";
+var mnemonic = "fatigue dove eager whale relax flight risk certain try lizard country level";

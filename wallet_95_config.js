@@ -1,1 +1,1 @@
-var mnemonic = "doctor unknown celery awful narrow oyster pond purpose dilemma stem bitter elite";
+var mnemonic = "ride nerve sniff family try method inside poem gospel system grit wear";

@@ -1,1 +1,1 @@
-var mnemonic = "senior world pepper sock avoid mountain fetch happy short sentence surround always";
+var mnemonic = "pear iron setup general aim wrap transfer mansion million mushroom bike around";

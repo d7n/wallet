@@ -1,1 +1,1 @@
-var mnemonic = "cloth tooth ladder poverty bag forest analyst pitch pulp fatal zero gather";
+var mnemonic = "convince wait bicycle kit female inspire zero once junior december machine give";

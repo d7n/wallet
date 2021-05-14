@@ -1,1 +1,1 @@
-var mnemonic = "aunt monitor disorder point program detail energy element stamp dizzy work wage";
+var mnemonic = "empty keep height fatal rate park onion opera design visual casual depart";

@@ -1,1 +1,1 @@
-var mnemonic = "post double town cliff file shaft lonely awkward solution december suit lift";
+var mnemonic = "unfold time ostrich random casino security aisle innocent radar leisure cannon lawsuit";

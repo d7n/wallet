@@ -1,1 +1,1 @@
-var mnemonic = "silly weapon symptom trim achieve emotion scare bullet main hungry phrase gas";
+var mnemonic = "stone labor length bullet era knife refuse enjoy live process bounce spatial";

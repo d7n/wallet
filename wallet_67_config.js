@@ -1,1 +1,1 @@
-var mnemonic = "paper gown gather like cube envelope lady under lyrics vessel skull mask";
+var mnemonic = "again mimic uniform boring climb voice inside public hockey recipe present fine";

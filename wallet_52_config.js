@@ -1,1 +1,1 @@
-var mnemonic = "warm fancy team mountain gorilla list include such cube pepper remove mass";
+var mnemonic = "dove car also bounce axis scheme depend focus usual powder idea truth";

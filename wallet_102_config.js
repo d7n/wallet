@@ -1,1 +1,1 @@
-var mnemonic = "pond gloom sketch write crew coconut hurt picnic comic maple october term";
+var mnemonic = "fortune swim ball under poverty equip recipe sentence slight armed govern inside";

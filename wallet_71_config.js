@@ -1,1 +1,1 @@
-var mnemonic = "extra tumble gold frame fog middle couch around gospel obey hint wolf";
+var mnemonic = "cupboard else wagon asthma weekend have weird climb retreat pencil leaf upgrade";

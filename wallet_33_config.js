@@ -1,1 +1,1 @@
-var mnemonic = "endorse trash lady motor always spin shiver dutch ring shell swarm visa";
+var mnemonic = "rebuild high grow receive cherry settle label marriage garlic unique warrior start";

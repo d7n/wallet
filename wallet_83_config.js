@@ -1,1 +1,1 @@
-var mnemonic = "news hub ready estate furnace unfold month drive soon glove glance race";
+var mnemonic = "grid hospital twenty aerobic goose cotton success throw half light foil renew";

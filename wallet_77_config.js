@@ -1,1 +1,1 @@
-var mnemonic = "blade ski mirror merge kid cloud decline unfair finger focus tower chalk";
+var mnemonic = "uncover among enrich bunker ignore violin eagle dentist clump quality achieve quantum";

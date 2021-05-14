@@ -1,1 +1,1 @@
-var mnemonic = "climb salt blur color jacket horror profit thing stomach project settle raven";
+var mnemonic = "mad right vehicle resource liar museum syrup syrup online direct remain scrub";

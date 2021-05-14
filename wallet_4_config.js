@@ -1,1 +1,1 @@
-var mnemonic = "expect shaft utility fury diamond harvest sphere ring unique hire volcano grocery";
+var mnemonic = "ladder attract distance job soda glue clerk nominee tell wink sting crater";

@@ -1,1 +1,1 @@
-var mnemonic = "enough believe silk airport piece what retreat turn olympic anchor laundry senior";
+var mnemonic = "bread poet blouse captain relief gift wall million weird blue bind vendor";

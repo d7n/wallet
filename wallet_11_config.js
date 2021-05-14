@@ -1,1 +1,1 @@
-var mnemonic = "library glare vacant peanut essence help deliver fetch few vague large menu";
+var mnemonic = "pulse index laundry kid cotton suit term emotion decide coconut agent oyster";

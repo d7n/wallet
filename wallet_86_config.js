@@ -1,1 +1,1 @@
-var mnemonic = "hover sibling much frozen like actual weasel elbow what tuna bridge lock";
+var mnemonic = "blade ostrich bar text pipe advance lesson bread deal later soon sick";

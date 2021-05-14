@@ -1,1 +1,1 @@
-var mnemonic = "quick holiday tiger party alone sing hair scan uncle harvest middle equal";
+var mnemonic = "tray rent budget hire brass type city negative spawn lava lounge chat";

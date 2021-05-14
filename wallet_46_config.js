@@ -1,1 +1,1 @@
-var mnemonic = "girl happy spy inquiry tree dwarf vintage island tourist famous glad happy";
+var mnemonic = "angle trend anger member chest capable dawn peace danger sponsor bulk music";

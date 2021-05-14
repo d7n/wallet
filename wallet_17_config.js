@@ -1,1 +1,1 @@
-var mnemonic = "mom front blast mixture swap forum follow two name exact foot claim";
+var mnemonic = "wealth example thought twin upon cram shed size venue access ramp collect";

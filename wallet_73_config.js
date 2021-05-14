@@ -1,1 +1,1 @@
-var mnemonic = "anxiety trick patch enough amused resist foam solve swarm bleak income mask";
+var mnemonic = "relax slush inform light dish noise resource reject universe shrug dismiss three";

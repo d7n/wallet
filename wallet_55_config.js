@@ -1,1 +1,1 @@
-var mnemonic = "quarter soon mention inch cabbage forest jaguar biology business cannon country hello";
+var mnemonic = "cheap spatial belt silver visa orange exclude orbit cradle exhaust chapter middle";

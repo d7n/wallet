@@ -1,1 +1,1 @@
-var mnemonic = "ticket scan sock pupil rival fever travel arena page loyal ketchup select";
+var mnemonic = "either ripple illness return want reward mistake mansion welcome garden winter grid";

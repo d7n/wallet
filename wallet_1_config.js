@@ -1,1 +1,1 @@
-var mnemonic = "follow bench answer salon mansion valve confirm gloom spend evoke lava lazy";
+var mnemonic = "short aspect tobacco uniform grace person dial wife dizzy report yellow aim";

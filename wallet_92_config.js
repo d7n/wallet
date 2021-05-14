@@ -1,1 +1,1 @@
-var mnemonic = "chunk render script knock front able mushroom argue right luggage kitten eight";
+var mnemonic = "invest asset under merge salmon decide artwork acid define frown bean simple";

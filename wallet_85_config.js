@@ -1,1 +1,1 @@
-var mnemonic = "host ship grain raccoon aerobic manual whip indicate sentence demise enact fitness";
+var mnemonic = "link early kick frog grace flag hawk arena volume mix carpet jelly";

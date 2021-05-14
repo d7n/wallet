@@ -1,1 +1,1 @@
-var mnemonic = "episode alone motor top response carpet oxygen glide dwarf chef cook nominee";
+var mnemonic = "wall wolf busy question coffee used pass agent purpose hub rule margin";

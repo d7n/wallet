@@ -1,1 +1,1 @@
-var mnemonic = "soul field taxi warrior jewel security burden erosion seed wool sight gossip";
+var mnemonic = "lava ship float nothing horse fortune park rocket inhale primary dice december";

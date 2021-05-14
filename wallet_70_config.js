@@ -1,1 +1,1 @@
-var mnemonic = "innocent citizen sentence debris isolate deliver sure dune laptop response alone rich";
+var mnemonic = "nest rich learn first hover custom plunge manage price churn nothing library";

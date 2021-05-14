@@ -1,1 +1,1 @@
-var mnemonic = "glow tomorrow episode beyond repeat blast song host nation festival century bean";
+var mnemonic = "trouble decline ignore chair engage sudden vocal hold myself stumble believe junior";

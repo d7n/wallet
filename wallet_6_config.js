@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit curtain forward dice ethics solar amateur tell father cherry note tumble";
+var mnemonic = "tattoo involve announce blade prepare bonus sick bonus degree club ship salt";

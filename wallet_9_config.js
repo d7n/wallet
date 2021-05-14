@@ -1,1 +1,1 @@
-var mnemonic = "riot rice tooth spring devote glow fine silent act clean side essence";
+var mnemonic = "certain move emotion ramp essence useless slot ripple someone weather visual bench";

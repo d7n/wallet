@@ -1,1 +1,1 @@
-var mnemonic = "network bicycle degree second light mixture music trigger surround hotel element debris";
+var mnemonic = "coin pupil toilet sheriff hockey online curve unique session spider candy punch";
