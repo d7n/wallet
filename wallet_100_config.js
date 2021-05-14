@@ -1,1 +1,1 @@
-var mnemonic = "slim episode hint mouse process talk axis item clutch junk color mosquito";
+var mnemonic = "master decade carry robust tongue provide athlete element gym simple mutual response";

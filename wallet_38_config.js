@@ -1,1 +1,1 @@
-var mnemonic = "festival trap notable pink sweet claim august sample cook bottom frown pink";
+var mnemonic = "hazard novel slogan flash need cruise awake hurry obscure alter acquire company";

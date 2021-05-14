@@ -1,1 +1,1 @@
-var mnemonic = "peanut wide settle dress cruise design nurse evoke grow mule stool recipe";
+var mnemonic = "artist kiwi globe situate social brown theme they eyebrow shine truth mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "famous camp unfair detail chuckle hood exclude help want office yard certain";
+var mnemonic = "spring green fit siege lottery either camera tonight jealous napkin elbow strategy";

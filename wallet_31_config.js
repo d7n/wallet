@@ -1,1 +1,1 @@
-var mnemonic = "celery thumb grocery recycle forest math file swallow tennis solution canyon brand";
+var mnemonic = "battle legal trumpet obscure genuine noble axis tilt odor reopen plug defy";

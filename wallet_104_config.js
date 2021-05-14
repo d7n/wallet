@@ -1,1 +1,1 @@
-var mnemonic = "manage offer help away lake fan maximum advance actress provide famous laugh";
+var mnemonic = "noodle orange initial primary mistake unknown weasel lens kidney common social spread";

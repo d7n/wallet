@@ -1,1 +1,1 @@
-var mnemonic = "wedding drip reopen what amazing garage elbow buzz sadness brass token sauce";
+var mnemonic = "nephew section proud you toe observe panther letter bargain sweet detect picnic";

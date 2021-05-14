@@ -1,1 +1,1 @@
-var mnemonic = "double chicken seminar abuse spot wrap increase volcano resource hybrid chimney turtle";
+var mnemonic = "matter genre chunk tree account collect drill exclude hungry analyst liquid panel";

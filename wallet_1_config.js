@@ -1,1 +1,1 @@
-var mnemonic = "rare lunch sad roof erase affair skin muscle acoustic urban spoil cash";
+var mnemonic = "stove buzz suit indoor sauce uncover agree finger inmate shed detail salute";

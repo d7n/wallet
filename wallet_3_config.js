@@ -1,1 +1,1 @@
-var mnemonic = "spider seat torch update squirrel during popular coil pencil merit cushion rebel";
+var mnemonic = "awesome olive share tiger another theory pulse today design wing basic seed";

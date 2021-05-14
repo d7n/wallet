@@ -1,1 +1,1 @@
-var mnemonic = "small surround thought small pipe illegal grunt garment pair hazard car crunch";
+var mnemonic = "spread good friend mask kid venue opera hover slow voice soft million";

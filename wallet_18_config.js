@@ -1,1 +1,1 @@
-var mnemonic = "surge magic life fetch road brush worry state eager fantasy can tell";
+var mnemonic = "deny ski merry supply grace fun wool lonely suspect night insect candy";

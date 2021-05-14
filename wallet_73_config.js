@@ -1,1 +1,1 @@
-var mnemonic = "nuclear size soft finish van high found tornado audit jewel since early";
+var mnemonic = "fine swim spot april present already riot wrap spring educate save imitate";

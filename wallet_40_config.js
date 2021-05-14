@@ -1,1 +1,1 @@
-var mnemonic = "twist dial galaxy draw pepper debate silver marine upset carry bundle unaware";
+var mnemonic = "dry right business balcony want dream color miss rate ski cream emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow cabin enough day air food exile kiwi arrive stool ensure prize";
+var mnemonic = "source kitten fashion radio bike bus relief umbrella first work ready sentence";

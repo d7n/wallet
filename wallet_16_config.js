@@ -1,1 +1,1 @@
-var mnemonic = "child core surface great win inside genius impose blush tribe blood list";
+var mnemonic = "network where melody pool subway engage cream engine rebel twin dismiss chase";

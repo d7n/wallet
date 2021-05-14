@@ -1,1 +1,1 @@
-var mnemonic = "join convince whale mean month ensure next cotton woman impact insect close";
+var mnemonic = "elevator similar escape option scout leisure focus collect earn future morning view";

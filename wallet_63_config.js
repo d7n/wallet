@@ -1,1 +1,1 @@
-var mnemonic = "own useless correct rigid envelope dizzy armed victory solution senior seminar carpet";
+var mnemonic = "timber vacuum crash detect drift two speed creek august soldier front under";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma six narrow great tornado tiger sudden core hair inside marine suspect";
+var mnemonic = "drip mean fit ride grid build injury major version nut disagree train";

@@ -1,1 +1,1 @@
-var mnemonic = "gain monkey survey jelly daughter dragon omit try grass half giant during";
+var mnemonic = "tennis that planet move mule worth exotic paper proof phone toy whale";

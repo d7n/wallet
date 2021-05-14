@@ -1,1 +1,1 @@
-var mnemonic = "summer grid speed among art fringe coast net valid acoustic curious absent";
+var mnemonic = "flee quarter relax luggage hurt repeat brand notice parade result urban tuition";

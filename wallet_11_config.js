@@ -1,1 +1,1 @@
-var mnemonic = "rival depend season finish claim cancel rice sword vivid aware key velvet";
+var mnemonic = "phone clock primary hour pair novel agree useless need grief ugly blouse";

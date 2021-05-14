@@ -1,1 +1,1 @@
-var mnemonic = "kiss exhibit salad exotic soap notice strong detect hazard accuse fetch enrich";
+var mnemonic = "route reunion adjust police safe tenant pipe fox dream much anxiety spread";

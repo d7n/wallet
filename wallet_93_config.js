@@ -1,1 +1,1 @@
-var mnemonic = "visual choose hold sun dinosaur elite drive taste movie run shield agent";
+var mnemonic = "fan trap song question slice paddle sister eternal answer park matter text";

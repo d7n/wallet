@@ -1,1 +1,1 @@
-var mnemonic = "mango hollow food actor anxiety evil satoshi argue angle attend senior spare";
+var mnemonic = "bronze cry oppose shiver magic purity matter cute damage shuffle peasant web";

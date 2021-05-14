@@ -1,1 +1,1 @@
-var mnemonic = "exhibit wheat sunset burden camp estate clay merge tool task cabbage valley";
+var mnemonic = "fabric sure group salon wrong fence trigger toilet negative scissors output atom";

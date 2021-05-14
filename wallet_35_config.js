@@ -1,1 +1,1 @@
-var mnemonic = "vague congress guitar month estate group around axis stage improve panel unique";
+var mnemonic = "chase mass friend tag picnic wheel palace spell canvas coil wagon canal";

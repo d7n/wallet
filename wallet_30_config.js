@@ -1,1 +1,1 @@
-var mnemonic = "thing album equal swim flip fortune blue dinner spot arrive pulse detail";
+var mnemonic = "put flat chicken vault burst isolate alone bag fault bring scout addict";

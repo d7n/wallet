@@ -1,1 +1,1 @@
-var mnemonic = "steel action pen burden ordinary perfect august oval design razor duck empower";
+var mnemonic = "either add view general office meadow mom nut recipe concert claim shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "used poet faith six online prison carbon welcome loud corn crack relax";
+var mnemonic = "human face machine call region leader ignore crash cute such color nut";

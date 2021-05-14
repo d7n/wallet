@@ -1,1 +1,1 @@
-var mnemonic = "burger april hamster push street trick tired lake toss faint say energy";
+var mnemonic = "young interest basic purchase fresh cancel kiwi basket time exist menu embody";

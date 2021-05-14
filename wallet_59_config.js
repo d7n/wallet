@@ -1,1 +1,1 @@
-var mnemonic = "oyster emerge amount rate across police tunnel flat stock engine almost review";
+var mnemonic = "edge hurry giant loan embrace pet seed inform paddle stable dinner creek";

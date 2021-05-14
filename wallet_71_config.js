@@ -1,1 +1,1 @@
-var mnemonic = "fluid miss verify silk fuel bundle bid banana disagree inner hero ship";
+var mnemonic = "road trophy climb call over speed car motion soap total sail smoke";

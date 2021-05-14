@@ -1,1 +1,1 @@
-var mnemonic = "abstract climb deputy model foot topple agent text antenna decorate learn ripple";
+var mnemonic = "gadget runway deal balance express flavor asset bitter great entry repeat wasp";

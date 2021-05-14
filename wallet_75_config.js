@@ -1,1 +1,1 @@
-var mnemonic = "cram fault clog minute bring metal spread art exotic wing vacuum effort";
+var mnemonic = "lamp annual balcony orchard remind answer sight behind door debris salute margin";

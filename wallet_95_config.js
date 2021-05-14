@@ -1,1 +1,1 @@
-var mnemonic = "reason network unfold source chef coral spatial attract face october vast shuffle";
+var mnemonic = "enjoy lab smooth estate salad share plastic slab taste twelve public act";

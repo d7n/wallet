@@ -1,1 +1,1 @@
-var mnemonic = "all predict valid easily collect pig sort tennis honey course decline hundred";
+var mnemonic = "letter forum ostrich tenant toss note picture screen tiny lawn mirror winner";

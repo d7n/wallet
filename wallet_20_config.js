@@ -1,1 +1,1 @@
-var mnemonic = "ten door bundle vessel thing true guilt acoustic moral vehicle remove sock";
+var mnemonic = "hip kind old nation draft van federal impulse volcano best route glass";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse second prize warm boat away ball vast trend grief develop decrease";
+var mnemonic = "casino stage clock almost job aerobic derive left mean marriage goat about";

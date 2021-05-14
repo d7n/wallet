@@ -1,1 +1,1 @@
-var mnemonic = "destroy bounce jump find side fiber door hire waste lake finish gravity";
+var mnemonic = "carry assume match moment noble pool champion venture sea voice clump eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise enforce lobster frog bag develop elbow easy sorry cousin museum surround";
+var mnemonic = "foil liquid damage velvet corn admit mercy infant outdoor attract section primary";

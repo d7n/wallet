@@ -1,1 +1,1 @@
-var mnemonic = "soup machine news nephew quality blood seven bar visual lyrics sight food";
+var mnemonic = "tone olympic sea supply brick absorb lawsuit merge kingdom renew lemon chat";

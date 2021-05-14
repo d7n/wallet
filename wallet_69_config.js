@@ -1,1 +1,1 @@
-var mnemonic = "trumpet disorder kite emotion excuse lens zone define omit truth short violin";
+var mnemonic = "entire island biology umbrella fossil honey snack stone tray afraid dash sphere";

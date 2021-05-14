@@ -1,1 +1,1 @@
-var mnemonic = "pluck donor work december destroy tooth pull response leader they power typical";
+var mnemonic = "busy clay shaft motor silver copper aerobic mix express fat man artefact";

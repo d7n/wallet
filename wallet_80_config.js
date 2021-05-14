@@ -1,1 +1,1 @@
-var mnemonic = "fog claw picnic melody reject pair balance absent cross pass year spring";
+var mnemonic = "fury toy reveal airport range imitate napkin own finish wait twenty priority";

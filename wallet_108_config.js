@@ -1,1 +1,1 @@
-var mnemonic = "minimum achieve rude burst cube moon cook marriage dynamic title elevator place";
+var mnemonic = "portion double uncle call rely normal behave digital auto paper lazy knee";

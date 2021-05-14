@@ -1,1 +1,1 @@
-var mnemonic = "domain yellow entire cushion inherit west remain easily exclude glue photo blame";
+var mnemonic = "mosquito erase donkey between bleak chase update win replace ready giggle media";

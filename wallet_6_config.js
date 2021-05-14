@@ -1,1 +1,1 @@
-var mnemonic = "step glare shock rely act relax outside sense slow ring remind pave";
+var mnemonic = "panic key panda tube vote inject sugar sphere sell throw curtain size";

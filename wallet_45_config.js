@@ -1,1 +1,1 @@
-var mnemonic = "range butter list double open family acid cigar banner hire cart enhance";
+var mnemonic = "foil laundry crumble credit champion visual split purse easy vibrant burden city";

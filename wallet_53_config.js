@@ -1,1 +1,1 @@
-var mnemonic = "dance dune casino donkey myth kiss piano lava image humble episode turn";
+var mnemonic = "student success warfare amount leave soldier aisle expect doctor spin diagram harvest";

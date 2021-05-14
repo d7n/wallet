@@ -1,1 +1,1 @@
-var mnemonic = "proud decorate speed abandon material direct farm master virus debris donkey identify";
+var mnemonic = "subway detail trust comfort little bronze aisle female lunch gather toe spoil";

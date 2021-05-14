@@ -1,1 +1,1 @@
-var mnemonic = "banner festival airport violin hospital airport sad gauge loud field armed neck";
+var mnemonic = "display recall hurt divorce clump oval bacon lizard young smile motion effort";

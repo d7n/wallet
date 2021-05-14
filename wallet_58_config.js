@@ -1,1 +1,1 @@
-var mnemonic = "flavor venue summer tide curve crowd siren owner thrive option note soft";
+var mnemonic = "isolate road adjust you harsh limb soon between route priority more ancient";

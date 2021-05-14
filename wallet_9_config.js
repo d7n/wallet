@@ -1,1 +1,1 @@
-var mnemonic = "under rent rare ecology blossom silver shoot run wear follow traffic satisfy";
+var mnemonic = "never clock control purpose armed need survey genre inherit vessel abuse bamboo";

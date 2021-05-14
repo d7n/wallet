@@ -1,1 +1,1 @@
-var mnemonic = "siege cat warrior join inside catalog next broccoli discover source cart cradle";
+var mnemonic = "chunk spray wrist labor manual year salmon audit truck sponsor destroy pact";

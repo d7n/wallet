@@ -1,1 +1,1 @@
-var mnemonic = "swim tackle latin danger dilemma rocket sort uniform cushion canyon captain because";
+var mnemonic = "front sweet orbit best design raccoon cave top arm festival album coral";

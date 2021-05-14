@@ -1,1 +1,1 @@
-var mnemonic = "valve second body right regret fossil marriage pole flower above shuffle book";
+var mnemonic = "patch pink vessel youth trash session pulse until pelican protect humor frown";

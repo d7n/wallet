@@ -1,1 +1,1 @@
-var mnemonic = "cupboard race blue wrong debate route crowd ship claim enhance fluid bless";
+var mnemonic = "vast cloud finish super mother provide physical mystery various aware visual clip";

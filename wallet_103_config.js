@@ -1,1 +1,1 @@
-var mnemonic = "exercise tissue elder type art curve absurd carbon shadow love explain purity";
+var mnemonic = "mass cabin book alarm fan tornado giant strike damage riot sadness pledge";

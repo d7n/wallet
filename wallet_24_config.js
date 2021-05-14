@@ -1,1 +1,1 @@
-var mnemonic = "layer spread shed grunt pudding summer awesome kidney april entry sugar open";
+var mnemonic = "true note web alcohol genius dignity crisp undo nation pear again keep";

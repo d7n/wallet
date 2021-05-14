@@ -1,1 +1,1 @@
-var mnemonic = "picnic unit cake riot kiss throw doctor first task logic immune license";
+var mnemonic = "sand absorb shiver squirrel cash iron develop put mention board three quote";

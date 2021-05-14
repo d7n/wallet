@@ -1,1 +1,1 @@
-var mnemonic = "crater attitude senior sausage fat begin forget annual craft stumble focus banana";
+var mnemonic = "equip bus excuse course pole tip author hero stumble enforce food nothing";

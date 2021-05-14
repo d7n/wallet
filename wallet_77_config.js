@@ -1,1 +1,1 @@
-var mnemonic = "alarm sign west century neglect donate equal excite evidence nation horn grape";
+var mnemonic = "off provide melody tent fury film move raven proud erosion first lava";

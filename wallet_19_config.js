@@ -1,1 +1,1 @@
-var mnemonic = "donate potato melody envelope cloth inflict mandate asthma echo appear distance tired";
+var mnemonic = "basic moment plastic nut age together season derive theory palace pretty inherit";

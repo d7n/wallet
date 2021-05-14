@@ -1,1 +1,1 @@
-var mnemonic = "analyst knee frog focus pepper trend curtain suspect indoor thumb conduct shove";
+var mnemonic = "genius expect music crack cluster cake season mimic easy later purse drop";

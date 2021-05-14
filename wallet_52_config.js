@@ -1,1 +1,1 @@
-var mnemonic = "left trouble decorate salt brand size shed grace derive vehicle fox shop";
+var mnemonic = "easily blush bacon load rely remove economy social foot leaf soldier oak";

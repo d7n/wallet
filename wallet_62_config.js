@@ -1,1 +1,1 @@
-var mnemonic = "fetch region year road outside okay wheel they knife romance giraffe liquid";
+var mnemonic = "chair attitude top brick damp teach attack gain remind birth vibrant visual";

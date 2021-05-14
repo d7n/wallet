@@ -1,1 +1,1 @@
-var mnemonic = "small crop reject pilot heart say zebra tag chaos river lunar proof";
+var mnemonic = "conduct squeeze acoustic aspect often meat exercise demise lawsuit evolve defense denial";

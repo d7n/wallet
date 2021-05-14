@@ -1,1 +1,1 @@
-var mnemonic = "game knock foster field train sight dry scatter vehicle wet aspect draw";
+var mnemonic = "salmon mushroom business brief stone ill couple winter fetch clock inject ostrich";

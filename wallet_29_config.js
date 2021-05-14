@@ -1,1 +1,1 @@
-var mnemonic = "reward damp blossom dad diet response ozone shield misery roast advance impact";
+var mnemonic = "ginger antique horse wonder element speak loyal certain teach clarify excuse quiz";

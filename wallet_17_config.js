@@ -1,1 +1,1 @@
-var mnemonic = "pen life lobster squirrel boring sample regret wedding survey letter calm giant";
+var mnemonic = "hood smart exotic pear appear olive silly bonus erosion hen twelve shoulder";

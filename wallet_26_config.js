@@ -1,1 +1,1 @@
-var mnemonic = "story torch lemon cake galaxy lyrics mushroom home know voice immense promote";
+var mnemonic = "museum duty report pelican friend stamp relief fabric saddle sort crazy reform";

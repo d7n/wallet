@@ -1,1 +1,1 @@
-var mnemonic = "diary industry reunion transfer ancient bargain furnace odor gown smooth coyote outer";
+var mnemonic = "just trophy food mobile goddess depart dose toss actress nominee private uncle";

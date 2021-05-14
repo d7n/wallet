@@ -1,1 +1,1 @@
-var mnemonic = "night chair venue embark hold asset weekend pudding leader twice vague area";
+var mnemonic = "blanket domain ocean chaos else ordinary popular elevator charge shock dose attract";

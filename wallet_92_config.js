@@ -1,1 +1,1 @@
-var mnemonic = "nerve cable round negative region duck kiss merit double adjust welcome digital";
+var mnemonic = "comic unfair rebel trumpet certain rich vessel minor firm lesson journey caution";

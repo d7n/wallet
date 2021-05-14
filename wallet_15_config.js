@@ -1,1 +1,1 @@
-var mnemonic = "three fine group fix shallow rather attract drift foam industry frequent base";
+var mnemonic = "use soon panic bachelor marriage usage virus siren bamboo excuse execute ordinary";

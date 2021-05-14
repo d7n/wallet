@@ -1,1 +1,1 @@
-var mnemonic = "swallow try elephant because girl budget plate jaguar engine desert morning ride";
+var mnemonic = "unhappy pencil shop caught modify trouble buffalo swamp diamond army rug fine";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter maple scorpion shield wine dinosaur chunk canvas tuna pill submit ordinary";
+var mnemonic = "alley suffer drastic deposit erode shop chuckle whale husband advice culture cigar";

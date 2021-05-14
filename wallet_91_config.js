@@ -1,1 +1,1 @@
-var mnemonic = "exchange acoustic order economy palm usual camp noise label father tent husband";
+var mnemonic = "collect angry fix detail lyrics kitchen rough praise clean work wisdom about";

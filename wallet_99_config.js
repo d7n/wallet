@@ -1,1 +1,1 @@
-var mnemonic = "lock develop jealous melody differ whip jaguar spare spray face island step";
+var mnemonic = "digital fog marble ask toddler lamp grape junk harsh airport lesson energy";

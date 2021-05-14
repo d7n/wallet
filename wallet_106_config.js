@@ -1,1 +1,1 @@
-var mnemonic = "enroll orchard pluck drum drip mail swim leisure once alcohol elegant coyote";
+var mnemonic = "toe student vintage monster recipe vast stable category kitten change sheriff whip";

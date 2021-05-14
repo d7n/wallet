@@ -1,1 +1,1 @@
-var mnemonic = "boy inform universe judge left major shine simple insane credit defy angry";
+var mnemonic = "mix season garlic jelly balance office behind achieve buddy car angle sound";

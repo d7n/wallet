@@ -1,1 +1,1 @@
-var mnemonic = "photo nose surround poem repair dove exercise violin actual dwarf paper shaft";
+var mnemonic = "come antenna visual cousin picnic neck ski bless face bus maximum electric";

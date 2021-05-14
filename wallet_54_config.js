@@ -1,1 +1,1 @@
-var mnemonic = "private school draft hip page benefit hedgehog era heart local quality marriage";
+var mnemonic = "install craft raven imitate act used hospital pull oblige apple simple goat";

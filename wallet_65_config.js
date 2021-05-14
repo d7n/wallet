@@ -1,1 +1,1 @@
-var mnemonic = "uncover unusual private knife idea hard discover order lazy hunt pizza twin";
+var mnemonic = "property bulb swift pistol still elite peanut nose lesson update rent soul";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry glow powder exit thing cloud pig globe umbrella hire reunion begin";
+var mnemonic = "huge cash giant air drastic reunion give hill clown popular answer invest";

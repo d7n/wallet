@@ -1,1 +1,1 @@
-var mnemonic = "pulse issue reform beyond myth always sting orient assume entire ginger ahead";
+var mnemonic = "answer creek swamp pledge ring one prepare private try repeat trip stove";

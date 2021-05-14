@@ -1,1 +1,1 @@
-var mnemonic = "cabbage accuse wife black home limb inch soap gym divide picture venture";
+var mnemonic = "blame stadium differ foster hedgehog laugh hobby nut undo cancel forget color";

@@ -1,1 +1,1 @@
-var mnemonic = "approve design pluck boy fatal tired rifle mom tooth embrace fire shadow";
+var mnemonic = "shrug until cram milk group film coin express mistake liar actor list";

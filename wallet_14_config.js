@@ -1,1 +1,1 @@
-var mnemonic = "maze retire security mixed broken aerobic reward twenty fancy frame genuine used";
+var mnemonic = "leaf denial garment want repair best they quiz organ join one buddy";

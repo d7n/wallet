@@ -1,1 +1,1 @@
-var mnemonic = "nest bridge entire behave item medal under special drum local torch bachelor";
+var mnemonic = "ethics improve element asthma okay moral paddle salad bamboo elephant dream someone";

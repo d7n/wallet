@@ -1,1 +1,1 @@
-var mnemonic = "tragic satisfy record hire broccoli oyster zero sick business audit define delay";
+var mnemonic = "finger million curtain width point reform exercise wall broken cart true asthma";
