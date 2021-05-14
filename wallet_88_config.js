@@ -1,1 +1,1 @@
-var mnemonic = "student hurry build soul supreme bid neglect garage shadow fence assault century";
+var mnemonic = "jar rather panel combine slide wolf jacket garbage educate bone warm crop";

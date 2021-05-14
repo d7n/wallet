@@ -1,1 +1,1 @@
-var mnemonic = "noble crack exchange quote sail wave rose agent ancient annual village ice";
+var mnemonic = "night fresh mystery intact online clerk bless desert upon kitchen joke duck";

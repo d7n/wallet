@@ -1,1 +1,1 @@
-var mnemonic = "about help suffer jump crater trust off buffalo budget crack advice lion";
+var mnemonic = "glad pluck modify arrow example local area satisfy machine favorite mango ankle";

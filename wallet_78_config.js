@@ -1,1 +1,1 @@
-var mnemonic = "subject sausage absurd champion spider video mean amount share first cousin laugh";
+var mnemonic = "bundle elbow outdoor sudden song whale rude cement power thought alien subject";

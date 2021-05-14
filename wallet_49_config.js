@@ -1,1 +1,1 @@
-var mnemonic = "delay warfare motor mango burger tongue mystery valve list maple erode zoo";
+var mnemonic = "rifle glad jelly zero upper couple type body spike pool portion bus";

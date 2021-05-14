@@ -1,1 +1,1 @@
-var mnemonic = "athlete crime snack gas embrace legend eagle can leopard naive eagle inform";
+var mnemonic = "vehicle much random dress off venture cream loan relax syrup major summer";

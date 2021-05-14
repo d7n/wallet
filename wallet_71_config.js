@@ -1,1 +1,1 @@
-var mnemonic = "series honey virus mimic actor icon olympic denial exercise blame feature all";
+var mnemonic = "tool soap whisper seek enjoy grit ride cliff novel mandate world toward";

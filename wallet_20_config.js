@@ -1,1 +1,1 @@
-var mnemonic = "crawl cash social angle pear punch what cloth security bag time output";
+var mnemonic = "odor coral debris maze evolve regret ocean ugly degree glass whip creek";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican actress patch spell oven law spirit project oval gun danger venue";
+var mnemonic = "prosper music august fix puzzle trigger program any project peanut client nerve";

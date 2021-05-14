@@ -1,1 +1,1 @@
-var mnemonic = "caught basket click shrimp thank grocery dignity fringe fuel junior pioneer snake";
+var mnemonic = "success penalty visa giraffe advice behind pen endorse gravity laundry verify camp";

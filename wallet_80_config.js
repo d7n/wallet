@@ -1,1 +1,1 @@
-var mnemonic = "option any nasty snake name huge boat muscle brass inject defy soap";
+var mnemonic = "siren return bus kind clay name bubble belt effort column axis daughter";

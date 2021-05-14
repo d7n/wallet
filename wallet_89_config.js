@@ -1,1 +1,1 @@
-var mnemonic = "wife boss gesture minor trim fiscal wheel shadow limb duck chunk tenant";
+var mnemonic = "orchard elbow roof muffin noble stool green grunt wild index drift similar";

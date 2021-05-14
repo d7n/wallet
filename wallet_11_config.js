@@ -1,1 +1,1 @@
-var mnemonic = "wall cherry motor target retire swamp maze argue walnut clerk smoke hill";
+var mnemonic = "title occur snap praise blanket middle label click pulp modify fatal trick";

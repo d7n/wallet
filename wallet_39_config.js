@@ -1,1 +1,1 @@
-var mnemonic = "fox hockey suffer tube chimney whale hat silent proof paddle uncover devote";
+var mnemonic = "afraid finger laugh best stuff approve step piano decline forward fiction magic";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote amateur spike few okay captain come nest coast express horn next";
+var mnemonic = "menu double marble language pool describe nasty drink apart share exit voice";

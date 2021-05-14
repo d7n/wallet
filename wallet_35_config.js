@@ -1,1 +1,1 @@
-var mnemonic = "remain guitar tiny link faint void virus virtual reopen demand delay kitchen";
+var mnemonic = "duty entry avoid rebuild tonight health anxiety orphan brief give leg equip";

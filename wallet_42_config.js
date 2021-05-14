@@ -1,1 +1,1 @@
-var mnemonic = "type gather grow lunch habit manage layer arena faculty outer team anxiety";
+var mnemonic = "spawn hotel camera current repair model radar diesel prize spend cushion excess";

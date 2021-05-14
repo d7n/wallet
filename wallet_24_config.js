@@ -1,1 +1,1 @@
-var mnemonic = "yard culture animal donor horse sure flight source south cycle stereo blame";
+var mnemonic = "agent coach soon damp reject tent baby maple favorite enforce tiger taste";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger foster nut side dice machine venue aspect roof cup hill laugh";
+var mnemonic = "accuse oxygen practice loop female public jar decline table bridge caught length";

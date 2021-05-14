@@ -1,1 +1,1 @@
-var mnemonic = "vanish infant concert stadium shell iron earth wreck kitchen expand upper potato";
+var mnemonic = "usual scrub labor essay whale dizzy laundry borrow fantasy fetch shy time";

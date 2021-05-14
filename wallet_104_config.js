@@ -1,1 +1,1 @@
-var mnemonic = "about trust tail ozone arm above gather clinic squirrel father hammer skull";
+var mnemonic = "fabric lake idle object cactus alarm forum length foam toast image check";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce emotion grocery bright bring chalk book typical until hour equip boy";
+var mnemonic = "work primary arrest float like cube rule feel speak siren episode hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "involve survey purpose profit robust raven soul inflict catch utility impulse egg";
+var mnemonic = "aerobic fabric champion train regular field giant crumble viable flash naive never";

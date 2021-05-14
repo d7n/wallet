@@ -1,1 +1,1 @@
-var mnemonic = "siren scene crisp remind gaze comfort owner odor party observe life angle";
+var mnemonic = "excuse train slight virtual mutual grass apology mystery between trigger kingdom future";

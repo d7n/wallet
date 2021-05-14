@@ -1,1 +1,1 @@
-var mnemonic = "indicate blossom subject argue guitar galaxy quantum match humble stand junk air";
+var mnemonic = "hurdle example record husband photo grace wide stay consider oil autumn inner";

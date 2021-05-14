@@ -1,1 +1,1 @@
-var mnemonic = "vehicle picnic before wool dismiss shine now lend mountain clump tobacco quiz";
+var mnemonic = "cherry tribe device process auto blind perfect craft manage decade trouble grief";

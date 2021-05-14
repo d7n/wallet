@@ -1,1 +1,1 @@
-var mnemonic = "rookie pulse boost jungle priority arrange nurse wish correct vault random salt";
+var mnemonic = "pull version scout dawn damage adapt idea negative nurse ocean sunset dash";

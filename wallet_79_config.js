@@ -1,1 +1,1 @@
-var mnemonic = "fashion intact alert goat purity expose true panic wisdom fire pudding angry";
+var mnemonic = "edit symbol adapt hair enroll august supreme when script wing waste anxiety";

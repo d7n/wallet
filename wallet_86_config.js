@@ -1,1 +1,1 @@
-var mnemonic = "february crazy tennis era hospital tattoo emotion blanket jelly shock fan essence";
+var mnemonic = "wash live exact era drill will brown border deal promote borrow model";

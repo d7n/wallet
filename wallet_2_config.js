@@ -1,1 +1,1 @@
-var mnemonic = "gloom garage opera trim ensure marine photo cloud enough human cattle since";
+var mnemonic = "walk minimum pear swarm assault inside life lunch kitchen tool naive miracle";

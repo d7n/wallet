@@ -1,1 +1,1 @@
-var mnemonic = "fall message stereo solid spy slot seven husband armor exercise soup bread";
+var mnemonic = "curious token assume drum pet alert evolve benefit symbol orphan glimpse birth";

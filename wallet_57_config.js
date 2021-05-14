@@ -1,1 +1,1 @@
-var mnemonic = "hope answer monster switch amazing elite weekend chalk protect raise slight chunk";
+var mnemonic = "crash orphan vocal tooth lion winter universe valid purchase stove focus attend";

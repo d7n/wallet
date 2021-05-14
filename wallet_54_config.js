@@ -1,1 +1,1 @@
-var mnemonic = "galaxy sail erupt design master make simple wet unhappy tower minor fiber";
+var mnemonic = "fortune rude version era shiver pilot sea wealth monster demise dignity basket";

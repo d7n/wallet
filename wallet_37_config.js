@@ -1,1 +1,1 @@
-var mnemonic = "destroy hope garlic style sentence pilot wine cactus race exchange steak evil";
+var mnemonic = "today chaos defy wait cute flag draw faculty mystery connect praise immune";

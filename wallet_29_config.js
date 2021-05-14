@@ -1,1 +1,1 @@
-var mnemonic = "inhale oil curve actress input empty hammer myth frown retreat orient cat";
+var mnemonic = "dinner combine super dragon width poet argue ability sudden lunar pledge coconut";

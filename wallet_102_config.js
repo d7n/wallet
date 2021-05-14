@@ -1,1 +1,1 @@
-var mnemonic = "alert buyer embody grape fold wild about between afford ill boring design";
+var mnemonic = "rather pepper foam few range jump orphan salute sugar moment kid hidden";

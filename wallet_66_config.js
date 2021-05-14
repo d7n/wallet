@@ -1,1 +1,1 @@
-var mnemonic = "prepare cricket despair rude profit various laundry between rug empty lunch bonus";
+var mnemonic = "allow sad sauce grid skate permit soccer friend margin report jungle clutch";

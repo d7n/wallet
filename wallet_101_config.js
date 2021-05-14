@@ -1,1 +1,1 @@
-var mnemonic = "doctor salad quiz disorder job drift almost jeans monitor mixture enough echo";
+var mnemonic = "march staff alter galaxy false tongue focus crew deny cash layer donor";

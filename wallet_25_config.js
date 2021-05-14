@@ -1,1 +1,1 @@
-var mnemonic = "tumble shuffle tattoo end close quarter garden vocal analyst gate use jeans";
+var mnemonic = "oil beauty fiction piano motor trip grunt bundle gentle observe stove curve";

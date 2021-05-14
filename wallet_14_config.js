@@ -1,1 +1,1 @@
-var mnemonic = "vacant donate head double nerve turkey surface nut magnet daughter chest load";
+var mnemonic = "scatter embrace chunk peace window robot finger fortune soldier afraid nasty elevator";

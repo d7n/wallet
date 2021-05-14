@@ -1,1 +1,1 @@
-var mnemonic = "pitch load lemon fame west ready spirit crush collect day book brown";
+var mnemonic = "update leisure dance combine refuse erupt agent feel harsh improve target explain";

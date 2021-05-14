@@ -1,1 +1,1 @@
-var mnemonic = "nurse secret sustain account scissors vacant town steel city busy treat rebuild";
+var mnemonic = "unveil burst month runway polar enroll stool type random valley climb thumb";

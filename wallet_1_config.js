@@ -1,1 +1,1 @@
-var mnemonic = "garbage april boring mechanic harvest palm fit appear street ramp casual load";
+var mnemonic = "sketch crack behind casual faculty antique farm version cake photo portion squirrel";

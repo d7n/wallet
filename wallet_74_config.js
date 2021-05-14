@@ -1,1 +1,1 @@
-var mnemonic = "robust fire chuckle voice argue eager morning sweet upgrade burst attend recycle";
+var mnemonic = "antique summer sign penalty caught art clown grocery slab junior nuclear duty";

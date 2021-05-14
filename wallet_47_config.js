@@ -1,1 +1,1 @@
-var mnemonic = "accident taste chunk inmate ramp move grape boil noise limit provide sound";
+var mnemonic = "soul news during before furnace demise actress rigid immense wise virus wood";

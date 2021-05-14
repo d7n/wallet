@@ -1,1 +1,1 @@
-var mnemonic = "distance stereo blood author clarify among squirrel silent trick talk lounge spice";
+var mnemonic = "picnic unable alien famous century intact prison eyebrow convince source blue field";

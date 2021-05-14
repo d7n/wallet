@@ -1,1 +1,1 @@
-var mnemonic = "hollow resource receive off wedding maid defense sentence fade extra gap drive";
+var mnemonic = "treat salmon skull cousin clutch ketchup elite unknown any math stand iron";

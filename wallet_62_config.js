@@ -1,1 +1,1 @@
-var mnemonic = "fall clean click chair erosion lock reopen radar online ivory noise truth";
+var mnemonic = "above scorpion matrix noodle fitness grief good physical only defy verb inherit";

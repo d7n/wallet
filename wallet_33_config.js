@@ -1,1 +1,1 @@
-var mnemonic = "section domain trick video anchor breeze october monkey clown abstract modify aerobic";
+var mnemonic = "layer update angry holiday donate similar trip relief comfort ahead dice market";

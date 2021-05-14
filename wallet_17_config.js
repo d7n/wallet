@@ -1,1 +1,1 @@
-var mnemonic = "draft advance chef south benefit thing erosion include dry syrup success tilt";
+var mnemonic = "error bottom quit shock obtain kiss art proof undo leave pact abandon";

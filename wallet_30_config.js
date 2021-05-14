@@ -1,1 +1,1 @@
-var mnemonic = "brush tent drink reform already slim pelican head latin silk surge fat";
+var mnemonic = "foil soldier enlist relax calm clip elephant green tip dutch marble better";

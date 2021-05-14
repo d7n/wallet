@@ -1,1 +1,1 @@
-var mnemonic = "joke remain appear blanket trumpet figure rescue captain scrub want sibling famous";
+var mnemonic = "toe kit license axis sketch hill sugar banner name cat aunt company";

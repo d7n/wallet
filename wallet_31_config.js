@@ -1,1 +1,1 @@
-var mnemonic = "scatter step lunar unit glow volume lonely silent tide crumble bulk marble";
+var mnemonic = "decrease sausage burger deal source rookie pizza test matter property leave wheel";

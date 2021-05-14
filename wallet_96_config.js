@@ -1,1 +1,1 @@
-var mnemonic = "hungry physical always expire bullet unfair drop find pattern security real uniform";
+var mnemonic = "nuclear opera october abuse marine clever frame antenna day island friend never";

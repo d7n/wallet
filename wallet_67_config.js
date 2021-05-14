@@ -1,1 +1,1 @@
-var mnemonic = "income invite labor fat topple wink soup satisfy come north sure video";
+var mnemonic = "mobile sister tuition feature butter meat emerge math assist future female tumble";

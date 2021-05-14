@@ -1,1 +1,1 @@
-var mnemonic = "trumpet few always vapor lawn vacuum horn invest blast auction oak debate";
+var mnemonic = "patch someone capital leisure until good panic grab atom tissue merge jeans";

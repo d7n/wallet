@@ -1,1 +1,1 @@
-var mnemonic = "term month matter step glass struggle goat auction trash seat dentist embark";
+var mnemonic = "unable faculty search image cry mountain famous nurse catch erase impulse outer";

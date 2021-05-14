@@ -1,1 +1,1 @@
-var mnemonic = "minor blood quantum wealth suit file able spot history mask hen special";
+var mnemonic = "genuine shed scout movie current leopard bag spoon ozone walk term popular";

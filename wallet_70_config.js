@@ -1,1 +1,1 @@
-var mnemonic = "label mass prevent nurse health minute adult describe spend disorder immune heavy";
+var mnemonic = "because skirt main later horn such high volume faint actress sentence ten";

@@ -1,1 +1,1 @@
-var mnemonic = "valid quiz about impose gown obtain opinion text help summer science fox";
+var mnemonic = "rival poem cereal neck pact volume ill stuff gaze scrap escape play";

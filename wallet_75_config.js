@@ -1,1 +1,1 @@
-var mnemonic = "squirrel village naive behave clog barely depart vanish rhythm buffalo same sadness";
+var mnemonic = "swing conduct history interest squirrel example yard insect property reopen regret borrow";

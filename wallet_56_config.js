@@ -1,1 +1,1 @@
-var mnemonic = "position buzz match exclude ship slab kiwi enemy knock repair turkey resource";
+var mnemonic = "mass milk march work cat coach when rug grit keep alcohol protect";

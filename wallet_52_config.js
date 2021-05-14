@@ -1,1 +1,1 @@
-var mnemonic = "crunch divert crystal visa voyage cheese ride combine today cute bike burst";
+var mnemonic = "home crop donate lonely cross penalty destroy initial injury spot genius amateur";

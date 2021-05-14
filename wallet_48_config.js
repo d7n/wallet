@@ -1,1 +1,1 @@
-var mnemonic = "fetch crazy sell oak track half shine initial kidney hill fence pencil";
+var mnemonic = "stock twin sausage surface horror brown lesson reopen crucial clutch hub crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "scan neck cliff security north captain mansion resource vapor minor erase poverty";
+var mnemonic = "switch much fog steak people robust vague tide slush deposit vintage toss";

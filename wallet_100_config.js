@@ -1,1 +1,1 @@
-var mnemonic = "skate assault adjust season record height trim learn mango just pull pencil";
+var mnemonic = "excuse blanket lawsuit scale wear theory orange rubber body suit donor total";

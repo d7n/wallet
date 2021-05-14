@@ -1,1 +1,1 @@
-var mnemonic = "jazz close orphan warm check depart neglect mosquito organ march flat ring";
+var mnemonic = "video invite obey claw step tube pulp actor orient tattoo uncle sweet";

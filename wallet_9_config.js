@@ -1,1 +1,1 @@
-var mnemonic = "mimic into tennis scout march chalk version mad grunt auction hunt scene";
+var mnemonic = "dignity toddler gossip century science trash chunk spawn abstract shoe flight afraid";

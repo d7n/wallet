@@ -1,1 +1,1 @@
-var mnemonic = "sheriff ritual summer enroll again shop match virus fog solution sample clog";
+var mnemonic = "ride limb tape bunker magnet equal physical window solve library dust spatial";

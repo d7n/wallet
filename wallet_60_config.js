@@ -1,1 +1,1 @@
-var mnemonic = "rate toe farm lava canyon spatial scissors fix favorite volcano wet embrace";
+var mnemonic = "sister grocery lesson coffee once organ nothing ride piece silk family measure";

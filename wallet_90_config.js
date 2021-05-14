@@ -1,1 +1,1 @@
-var mnemonic = "trial eager link drip possible sadness setup extra juice obscure lemon pulse";
+var mnemonic = "energy jelly cupboard prevent time random curtain crime benefit live silver devote";

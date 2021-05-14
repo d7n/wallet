@@ -1,1 +1,1 @@
-var mnemonic = "hint logic lawn stadium flower lottery suggest prefer bullet rice toss census";
+var mnemonic = "smooth someone moon inch version ugly benefit evoke paper blush genre gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny extra moral lumber lamp pulp ozone case image because invest close";
+var mnemonic = "skirt public awkward quality hill first fabric rookie fiction quick random pond";

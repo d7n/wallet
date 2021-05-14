@@ -1,1 +1,1 @@
-var mnemonic = "happy public bitter flavor novel gain educate uncover lamp way note mystery";
+var mnemonic = "above lyrics escape divide ugly faint fiber bread sweet idea ethics olympic";

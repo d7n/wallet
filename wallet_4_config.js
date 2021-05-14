@@ -1,1 +1,1 @@
-var mnemonic = "suit fox car bid dirt undo salad brown doll beef believe cross";
+var mnemonic = "security slide special hamster include valley sword soap occur display trap test";

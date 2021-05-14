@@ -1,1 +1,1 @@
-var mnemonic = "square immune puppy eager civil culture kite weekend toss fruit consider tenant";
+var mnemonic = "identify island exclude various either culture cake snap energy disease grunt tomato";

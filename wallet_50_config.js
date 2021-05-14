@@ -1,1 +1,1 @@
-var mnemonic = "tumble october weather debate gift side person glow dynamic wrestle comfort impulse";
+var mnemonic = "birth element repeat dignity guard reform figure palace space teach process weapon";

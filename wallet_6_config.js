@@ -1,1 +1,1 @@
-var mnemonic = "honey misery tornado tiger can enforce tape web leader invest suit shock";
+var mnemonic = "syrup purpose reward dentist physical food fox online jacket south draw mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "initial snow ocean vivid index chicken ranch black mother grass sort rent";
+var mnemonic = "obtain globe rabbit buyer congress market voice almost mean drastic hobby sad";

@@ -1,1 +1,1 @@
-var mnemonic = "dune globe garbage address supply quantum dutch amused conduct piece drive cactus";
+var mnemonic = "online actual saddle winter wall cluster develop ready powder provide sick entry";

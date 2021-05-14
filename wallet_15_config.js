@@ -1,1 +1,1 @@
-var mnemonic = "force assist essence safe tiger pitch slim awful real prosper few prepare";
+var mnemonic = "visa betray lunch awesome minimum uniform frame pepper squeeze quarter leopard innocent";

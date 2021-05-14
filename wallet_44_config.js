@@ -1,1 +1,1 @@
-var mnemonic = "parade home trophy electric verify update great grunt broccoli trigger rubber state";
+var mnemonic = "sibling omit will system green describe nose shy patient green cousin install";

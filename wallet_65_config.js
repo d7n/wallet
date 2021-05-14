@@ -1,1 +1,1 @@
-var mnemonic = "affair position arch update concert setup profit floor fashion brisk clip ill";
+var mnemonic = "genre donor park output dragon real story lazy science dice exchange champion";

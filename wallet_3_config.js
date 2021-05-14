@@ -1,1 +1,1 @@
-var mnemonic = "lunar exist devote car tuna orchard clean mail desk matter shell chaos";
+var mnemonic = "mesh swamp theme noble muffin cave model ketchup zoo fence country disagree";

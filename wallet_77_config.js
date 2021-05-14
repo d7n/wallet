@@ -1,1 +1,1 @@
-var mnemonic = "obvious toe blue kind empower dumb discover over object clip sadness crisp";
+var mnemonic = "normal people blame cinnamon online trust fly match dragon gift squeeze measure";

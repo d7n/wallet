@@ -1,1 +1,1 @@
-var mnemonic = "satisfy card inmate borrow buffalo home usual trash curve antique hard either";
+var mnemonic = "inner foot champion collect resource roof inch hub lyrics indoor age forest";
