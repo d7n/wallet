@@ -1,1 +1,1 @@
-var mnemonic = "distance wagon ride second face file swap hidden love engine husband parade";
+var mnemonic = "top adjust window churn toy aisle elder angle purity weapon drop brand";

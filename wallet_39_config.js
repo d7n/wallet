@@ -1,1 +1,1 @@
-var mnemonic = "cage menu drama nothing excess trigger siege safe bullet mutual half trigger";
+var mnemonic = "false antenna useless prison deal reward first smoke trust clutch butter call";

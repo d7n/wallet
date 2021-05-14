@@ -1,1 +1,1 @@
-var mnemonic = "radar silent way city scan margin vote fall bitter become joy panther";
+var mnemonic = "scene frequent blame gown curve never update gallery brand gown join swear";

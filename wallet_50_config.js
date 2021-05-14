@@ -1,1 +1,1 @@
-var mnemonic = "industry match rather romance stool reform wing soul orient stereo pitch gloom";
+var mnemonic = "diesel gravity large fault retire gun into olympic rough midnight odor increase";

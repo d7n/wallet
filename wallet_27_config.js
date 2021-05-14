@@ -1,1 +1,1 @@
-var mnemonic = "slim list fresh drum bring disagree neck first clown van dove mystery";
+var mnemonic = "nut agree lend force devote input april clever sense solve practice observe";

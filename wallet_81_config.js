@@ -1,1 +1,1 @@
-var mnemonic = "violin humble chunk green fossil debate drive silver ten rival ankle season";
+var mnemonic = "mechanic depth brass replace creek soon marriage bottom find noise horse echo";

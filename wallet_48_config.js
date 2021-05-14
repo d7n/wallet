@@ -1,1 +1,1 @@
-var mnemonic = "remove giggle finish knee renew ostrich comic frown foam truth outside toddler";
+var mnemonic = "pair belt word ask level wave ready scatter rebuild hire menu humble";

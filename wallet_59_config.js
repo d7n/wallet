@@ -1,1 +1,1 @@
-var mnemonic = "taste begin tunnel hood more dwarf result trash flush wreck check multiply";
+var mnemonic = "address danger shield daughter either fat merit small elevator curve live increase";

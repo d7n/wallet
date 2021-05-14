@@ -1,1 +1,1 @@
-var mnemonic = "enrich demise aspect inject hover piece surface word endorse fruit okay oxygen";
+var mnemonic = "sudden slush valve mutual tongue swarm insect ability path liquid vault goat";

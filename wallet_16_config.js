@@ -1,1 +1,1 @@
-var mnemonic = "all scorpion pig update episode join fuel rival battle fix small assume";
+var mnemonic = "clerk beauty dry win scan wild clinic square gain frost clever noodle";

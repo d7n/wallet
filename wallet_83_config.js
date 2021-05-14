@@ -1,1 +1,1 @@
-var mnemonic = "tourist vast weapon tourist excess soldier pretty usage enhance honey palace warrior";
+var mnemonic = "magic husband under sugar profit maximum recycle organ race rude inquiry waste";

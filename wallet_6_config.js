@@ -1,1 +1,1 @@
-var mnemonic = "reflect robust lonely hollow close switch ask rocket all immune skull fancy";
+var mnemonic = "eight sadness method custom album swift knee program share able word daring";

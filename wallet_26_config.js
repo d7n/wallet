@@ -1,1 +1,1 @@
-var mnemonic = "ramp pledge lion slice grid steak volume inhale member inquiry roast tourist";
+var mnemonic = "law salon cliff phrase six symptom gun escape dynamic collect creek similar";

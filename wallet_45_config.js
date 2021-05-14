@@ -1,1 +1,1 @@
-var mnemonic = "episode unaware maximum develop face click subway soldier recipe any firm voice";
+var mnemonic = "give hire power person gas boring parade sand unhappy artwork prison caution";

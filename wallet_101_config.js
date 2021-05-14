@@ -1,1 +1,1 @@
-var mnemonic = "uncover gasp recycle clarify hamster fatal jaguar ribbon fan unique leaf artefact";
+var mnemonic = "fat when video rich tumble erase supreme pluck feed pull stadium chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "bar curtain same million dose mother flush blue circle rookie glare obtain";
+var mnemonic = "butter borrow purity drip supply pen siren glass assault endorse pig bullet";

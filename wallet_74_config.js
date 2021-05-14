@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo glimpse carpet raw situate own symptom park robust tissue jump have";
+var mnemonic = "throw punch eternal host milk talent misery drip cart dove hollow inmate";

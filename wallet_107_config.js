@@ -1,1 +1,1 @@
-var mnemonic = "forward affair guitar buyer chronic sea empty speak group secret camera genre";
+var mnemonic = "carpet angle eight mail pen device remove hungry donkey original collect battle";

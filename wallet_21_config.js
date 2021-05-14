@@ -1,1 +1,1 @@
-var mnemonic = "grape movie ladder cereal hole body cancel holiday dutch face attract prevent";
+var mnemonic = "shove tower typical monster rigid inch reflect glove post reveal core ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect humble head seven embody music kiss also collect feed winner battle";
+var mnemonic = "member device vote turn chimney occur utility silk worry genuine alert vague";

@@ -1,1 +1,1 @@
-var mnemonic = "best random purse buddy butter powder spice obtain file plunge capable celery";
+var mnemonic = "erode laptop grit bubble base tomorrow blind unfold runway lake miracle genre";

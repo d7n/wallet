@@ -1,1 +1,1 @@
-var mnemonic = "point raven cruel treat shrug spread vault armed wrong forum discover stumble";
+var mnemonic = "eight rough oval spend shove island paper axis observe pizza decline pretty";

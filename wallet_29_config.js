@@ -1,1 +1,1 @@
-var mnemonic = "code hello unknown feed limit potato hungry amazing sphere bid doll march";
+var mnemonic = "jeans resist life process resemble unknown bullet supreme menu west edge negative";

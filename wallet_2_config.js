@@ -1,1 +1,1 @@
-var mnemonic = "blur castle simple symptom pudding clown move woman bar require inflict awful";
+var mnemonic = "olive cool weekend scale culture sight track sustain weasel over cloud all";

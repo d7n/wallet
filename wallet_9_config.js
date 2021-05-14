@@ -1,1 +1,1 @@
-var mnemonic = "pizza soup install float ordinary youth boss flush obtain stem turtle melt";
+var mnemonic = "spray vacuum share scrap copper add burden hair quiz top winner basic";

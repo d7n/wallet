@@ -1,1 +1,1 @@
-var mnemonic = "strike toy left give town fuel suit solve monster outdoor acoustic olive";
+var mnemonic = "dad cabbage finger entire tattoo cabin renew rate purity helmet nation strong";

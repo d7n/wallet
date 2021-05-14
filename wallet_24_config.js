@@ -1,1 +1,1 @@
-var mnemonic = "lend observe pact story weapon slim copy sure hole boring physical display";
+var mnemonic = "sell infant prepare snack shallow cereal believe library sad bubble human fire";

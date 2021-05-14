@@ -1,1 +1,1 @@
-var mnemonic = "muscle peace front duty pattern friend gift like cancel cruel cage wine";
+var mnemonic = "noise habit level auto measure maid text dish snake today spin grain";

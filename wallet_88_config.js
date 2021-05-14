@@ -1,1 +1,1 @@
-var mnemonic = "control spare path oppose velvet purse guide before black deliver broken pottery";
+var mnemonic = "arctic mansion parrot scan wrestle humble strong mandate shoulder acid glue such";

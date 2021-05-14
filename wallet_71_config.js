@@ -1,1 +1,1 @@
-var mnemonic = "issue sail interest badge direct episode flame crush cloud risk gas copy";
+var mnemonic = "panther muscle exact column task upon deer impact lion demise include dog";

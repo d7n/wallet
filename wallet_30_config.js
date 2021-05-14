@@ -1,1 +1,1 @@
-var mnemonic = "obvious glass embark hawk jar mansion judge bullet plug salute nature layer";
+var mnemonic = "exile aisle ring peanut service feature save permit deputy enact smoke radar";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden multiply pencil shoot evolve pride around bamboo among wink curtain company";
+var mnemonic = "elder radio possible syrup mom leaf code flag fine baby code hope";

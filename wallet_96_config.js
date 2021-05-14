@@ -1,1 +1,1 @@
-var mnemonic = "expire forget robust chunk ivory leave hollow denial around tell loop around";
+var mnemonic = "hip drop smooth mansion access idle carpet empower split myth village noodle";

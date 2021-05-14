@@ -1,1 +1,1 @@
-var mnemonic = "unveil text myself become tortoise provide coconut fade summer napkin media search";
+var mnemonic = "keen defy wild skull shaft lunar bronze latin canvas promote hair dance";

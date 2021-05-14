@@ -1,1 +1,1 @@
-var mnemonic = "object life unaware save jewel plug caution eight maid credit guilt uniform";
+var mnemonic = "assume deliver never second chair select person purse mercy lens table bike";

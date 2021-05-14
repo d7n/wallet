@@ -1,1 +1,1 @@
-var mnemonic = "topic iron switch ensure logic insect inquiry upper couple street mad fog";
+var mnemonic = "one sniff camp suffer engine tunnel giraffe ride grace cat viable drum";

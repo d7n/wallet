@@ -1,1 +1,1 @@
-var mnemonic = "pool captain group knife pink aspect discover coach puzzle false afraid recipe";
+var mnemonic = "estate youth rival tool remain awful tip toast gallery theme question check";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom core final outdoor element vintage romance height summer coconut derive later";
+var mnemonic = "slot across sun length exile human census void bronze derive pioneer reason";

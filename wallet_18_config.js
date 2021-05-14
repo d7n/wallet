@@ -1,1 +1,1 @@
-var mnemonic = "artefact depth cage little cabbage accuse bright this vintage turtle leg leisure";
+var mnemonic = "shuffle original execute lake round split invite nephew muscle regular affair happy";

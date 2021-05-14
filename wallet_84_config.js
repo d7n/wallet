@@ -1,1 +1,1 @@
-var mnemonic = "cheese velvet donkey mobile quit guard apart sketch timber gorilla surface service";
+var mnemonic = "margin oak asset great cannon image resist film attend essence bar blind";

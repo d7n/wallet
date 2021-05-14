@@ -1,1 +1,1 @@
-var mnemonic = "portion negative settle burst release raw define level announce error permit reopen";
+var mnemonic = "series uniform remember swap special front glide mercy gun renew crucial round";

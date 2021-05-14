@@ -1,1 +1,1 @@
-var mnemonic = "safe embrace ghost mandate swear result congress advance dream goddess disease ketchup";
+var mnemonic = "bleak fold local boost drop fantasy focus grant estate rent dish gap";

@@ -1,1 +1,1 @@
-var mnemonic = "city catalog wing spread steak kick yard able upper snow bomb bench";
+var mnemonic = "palace planet rail abuse work candy improve globe indoor music pattern capital";

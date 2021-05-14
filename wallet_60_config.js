@@ -1,1 +1,1 @@
-var mnemonic = "broccoli foot saddle melt design talent endless rubber auto brave mushroom finger";
+var mnemonic = "upset path enlist person maze cup machine sun lend relief island jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf crunch kick screen journey under movie twice wine base achieve plastic";
+var mnemonic = "pizza night woman actor gas cost spice delay hazard filter champion clump";

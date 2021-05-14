@@ -1,1 +1,1 @@
-var mnemonic = "cake slab ozone only sure excuse monitor wrestle moral prosper away keep";
+var mnemonic = "that real rare total model web wage model essay loan cheap rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "sun amount soda often muscle upset source connect method magnet use lunar";
+var mnemonic = "dash sell range bone prosper oblige anger report rule market wine fortune";

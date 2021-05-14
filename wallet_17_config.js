@@ -1,1 +1,1 @@
-var mnemonic = "music purse size spatial dilemma economy river armed involve write window next";
+var mnemonic = "exact slide fruit naive real jewel chest subject orphan mother oyster reduce";

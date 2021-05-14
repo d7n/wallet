@@ -1,1 +1,1 @@
-var mnemonic = "wait soap square only habit egg exhibit warrior dawn artwork figure butter";
+var mnemonic = "please drive resist phrase season swallow pole rose arrest you believe rhythm";

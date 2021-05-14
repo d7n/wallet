@@ -1,1 +1,1 @@
-var mnemonic = "process flee fitness able client response critic lamp usual total copy field";
+var mnemonic = "office toy proud annual hood found into upper boss room pulp visit";

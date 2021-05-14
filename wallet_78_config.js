@@ -1,1 +1,1 @@
-var mnemonic = "earth weather cash disease mouse despair vicious license idea shove gadget security";
+var mnemonic = "broccoli inch owner mean bird brief ride train fly physical another resource";

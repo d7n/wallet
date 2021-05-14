@@ -1,1 +1,1 @@
-var mnemonic = "fine blue bread tuition awesome crime canal apology chronic digital blade clog";
+var mnemonic = "merge evil grab window humor provide heavy host else space wink system";

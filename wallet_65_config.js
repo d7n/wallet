@@ -1,1 +1,1 @@
-var mnemonic = "slam alarm dizzy wood across goddess blood antique often plunge meat bag";
+var mnemonic = "hour food place anger rail pilot space proud dream acid cram cattle";

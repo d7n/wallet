@@ -1,1 +1,1 @@
-var mnemonic = "open doctor also level weapon blossom little maid armor brown caught maple";
+var mnemonic = "monitor donkey always memory scare finger glow vanish shell ability example waste";

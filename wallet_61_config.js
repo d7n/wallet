@@ -1,1 +1,1 @@
-var mnemonic = "minimum retire repeat believe bitter because enough juice mosquito sister ocean salad";
+var mnemonic = "mind fresh maze stone swamp draft mobile priority brain exchange predict rotate";

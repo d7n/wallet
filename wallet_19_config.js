@@ -1,1 +1,1 @@
-var mnemonic = "grid deal crystal write ignore feel shed erase lesson stove rival pistol";
+var mnemonic = "message love plug wife assume gain curtain chimney come demise walk method";

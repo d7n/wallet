@@ -1,1 +1,1 @@
-var mnemonic = "phone couch sudden spike office crew employ choose stable idle title tonight";
+var mnemonic = "brave cement bicycle sentence crew patch talent evil ignore casino rich surge";

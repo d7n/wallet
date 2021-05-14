@@ -1,1 +1,1 @@
-var mnemonic = "field turtle goddess rose eye method museum glimpse coast hybrid unveil method";
+var mnemonic = "dish believe castle mom lake jealous glide tip bright stone decline tell";

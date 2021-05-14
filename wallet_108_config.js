@@ -1,1 +1,1 @@
-var mnemonic = "try lend decorate toddler fun chicken muffin discover machine salmon engage affair";
+var mnemonic = "universe globe mango always strike since demand dirt runway olympic wedding balance";

@@ -1,1 +1,1 @@
-var mnemonic = "material pepper bamboo empower define cook genre cat mother clever victory erosion";
+var mnemonic = "traffic immense magnet eyebrow blush miracle transfer era scissors apart mandate average";

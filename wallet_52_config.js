@@ -1,1 +1,1 @@
-var mnemonic = "average output below eagle gadget open maple giggle actor arch whisper flock";
+var mnemonic = "faith fix cross prepare truly post between pen page ordinary amateur crumble";

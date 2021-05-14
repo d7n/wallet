@@ -1,1 +1,1 @@
-var mnemonic = "member door leisure cake train also circle dumb face drift left dutch";
+var mnemonic = "resource view muscle found reduce cherry scrap analyst loan old sport casual";

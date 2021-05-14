@@ -1,1 +1,1 @@
-var mnemonic = "soap runway tragic edit grid candy develop world embark crumble rib roast";
+var mnemonic = "wing remind pupil exile toddler hurry motor donor comfort friend demand tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "picture physical differ cool device annual pair cool bleak they any wheel";
+var mnemonic = "web rely twice ugly arrest mammal fluid tray steel twelve economy void";

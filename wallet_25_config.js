@@ -1,1 +1,1 @@
-var mnemonic = "unlock erase happy permit bamboo elbow punch vibrant sniff ugly holiday shift";
+var mnemonic = "forest behave hip nothing canoe lab adjust napkin sunny ketchup chaos frame";

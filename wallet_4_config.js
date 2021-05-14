@@ -1,1 +1,1 @@
-var mnemonic = "father smooth tortoise push battle plug layer fringe tilt rich student sign";
+var mnemonic = "draw right coconut veteran result stool farm proud claim grid peace invite";

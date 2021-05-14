@@ -1,1 +1,1 @@
-var mnemonic = "genuine evolve busy seek eager sample lunar glass sure buyer deposit afford";
+var mnemonic = "cabin piano dream suit sell stem pumpkin bind indoor rather evil drum";

@@ -1,1 +1,1 @@
-var mnemonic = "polar shield neither verb wheel peanut column genius mask radar amazing later";
+var mnemonic = "found lend fresh wrist broom mask regular inmate frequent syrup wedding ghost";

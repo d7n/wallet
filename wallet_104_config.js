@@ -1,1 +1,1 @@
-var mnemonic = "amount deliver faith sample syrup creek image unhappy fan grant cargo region";
+var mnemonic = "keen pool erode riot scare million patient rate wedding code must decrease";

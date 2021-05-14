@@ -1,1 +1,1 @@
-var mnemonic = "load budget end verify better foil over scale chef swift laugh business";
+var mnemonic = "escape garage adapt path road crazy base view olympic bench soccer pigeon";

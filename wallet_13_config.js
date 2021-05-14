@@ -1,1 +1,1 @@
-var mnemonic = "canoe couple giraffe treat stock random nature poem winner unusual action guard";
+var mnemonic = "ozone excite cake deny version first note edit inquiry layer alert metal";

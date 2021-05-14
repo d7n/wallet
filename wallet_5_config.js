@@ -1,1 +1,1 @@
-var mnemonic = "donor execute meadow member empower enforce saddle mind rural biology cereal uniform";
+var mnemonic = "success shadow enjoy harsh earn chair duty expire rookie first slide cable";

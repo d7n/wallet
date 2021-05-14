@@ -1,1 +1,1 @@
-var mnemonic = "duck code audit arena eye inspire renew deputy guard blossom ridge people";
+var mnemonic = "glare always piece near twice zone job situate perfect divorce horror august";

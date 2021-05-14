@@ -1,1 +1,1 @@
-var mnemonic = "wedding leader alley duck photo creek save pen climb solution simple detect";
+var mnemonic = "balance family nation cupboard hollow audit alcohol involve siege attract eagle post";

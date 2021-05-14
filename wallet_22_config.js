@@ -1,1 +1,1 @@
-var mnemonic = "sniff husband laptop cage cram humor raccoon belt enhance ostrich need curtain";
+var mnemonic = "squeeze ill kind cost wrap hunt despair twice addict beyond budget heart";

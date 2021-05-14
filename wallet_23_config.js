@@ -1,1 +1,1 @@
-var mnemonic = "shadow oxygen enhance engine donkey dad soda venture false better october shock";
+var mnemonic = "garment embody furnace add awful rescue debris gorilla car chapter cause village";

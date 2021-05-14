@@ -1,1 +1,1 @@
-var mnemonic = "scale assault report dice pizza acid balcony survey nuclear short phrase pride";
+var mnemonic = "impact eternal cross crush frequent squirrel depart marble portion ethics bridge lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise accident road jealous chase ignore trade arm metal slice assist typical";
+var mnemonic = "era know climb tongue genuine tomato mule glue blood powder like rule";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado cradle dizzy bar silly trend crush hard about size hybrid room";
+var mnemonic = "board miss raise ski neglect flag fluid sister shoulder describe plunge sure";

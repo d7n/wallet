@@ -1,1 +1,1 @@
-var mnemonic = "eye sunset clown add embrace frost adapt this bike admit town cushion";
+var mnemonic = "agree super define hamster element keep oak tongue execute ozone couple knee";

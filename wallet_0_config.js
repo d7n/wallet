@@ -1,1 +1,1 @@
-var mnemonic = "easy imitate trust craft square twenty entry bitter icon laundry above away";
+var mnemonic = "cement sentence mouse object rail power critic friend permit pilot accuse suggest";

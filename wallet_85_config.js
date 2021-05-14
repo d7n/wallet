@@ -1,1 +1,1 @@
-var mnemonic = "aspect crawl donate abandon sudden wealth brown aisle master agent car thrive";
+var mnemonic = "kite spot roast shell remove yard ocean gallery say inform drop reject";

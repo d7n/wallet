@@ -1,1 +1,1 @@
-var mnemonic = "brain model chat parent please rule jelly obtain spray life inside donate";
+var mnemonic = "win amazing spy such exclude shoe estate antenna cage crucial swap puppy";

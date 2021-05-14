@@ -1,1 +1,1 @@
-var mnemonic = "cable zone wire prevent isolate soda once frog swallow net stamp dignity";
+var mnemonic = "zone fabric curious lottery onion kit useless loyal monkey limit nation arrest";

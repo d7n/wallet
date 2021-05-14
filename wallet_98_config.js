@@ -1,1 +1,1 @@
-var mnemonic = "shove tide oxygen hammer pyramid vital price between evoke angle nature desert";
+var mnemonic = "few hungry pencil bounce empty drama bachelor prize glass enrich artwork burden";

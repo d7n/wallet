@@ -1,1 +1,1 @@
-var mnemonic = "pottery jacket gather lab reason service club shuffle inner reform rely vehicle";
+var mnemonic = "upgrade pink hub loop buyer toilet vault ivory drive skull raccoon narrow";

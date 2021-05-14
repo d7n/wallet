@@ -1,1 +1,1 @@
-var mnemonic = "comfort rich enemy immune media mention chat stove nut clarify patient funny";
+var mnemonic = "venue speed check radio define onion slot hard devote pepper guide riot";

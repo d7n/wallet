@@ -1,1 +1,1 @@
-var mnemonic = "flight grant fatal orchard tuition fault noise coral brand real absorb lens";
+var mnemonic = "side degree average chef round limit circle toy often patient popular practice";

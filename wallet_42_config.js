@@ -1,1 +1,1 @@
-var mnemonic = "dust else dice mother fossil sadness enjoy obscure future erode force ask";
+var mnemonic = "nest garlic bring account artist isolate sweet axis chicken home remind reopen";
