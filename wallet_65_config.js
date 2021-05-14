@@ -1,1 +1,1 @@
-var mnemonic = "ridge need problem hospital exact kingdom black move story tip panda craft";
+var mnemonic = "video attract apple shy segment give diary flip hint belt nominee idea";

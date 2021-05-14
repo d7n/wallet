@@ -1,1 +1,1 @@
-var mnemonic = "innocent certain tiny sphere forum raw fire candy betray organ huge scrap";
+var mnemonic = "recipe trip polar gun copy good treat blade wild rely grass twelve";

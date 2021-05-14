@@ -1,1 +1,1 @@
-var mnemonic = "merit spare open couch amount edit early alien nurse chimney make minor";
+var mnemonic = "trouble fame fan snow receive violin fresh nature clip weapon senior rack";

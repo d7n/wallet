@@ -1,1 +1,1 @@
-var mnemonic = "reflect citizen put perfect laugh cat program sing slight design increase power";
+var mnemonic = "strike share uphold omit smoke position punch airport media frown keep educate";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean way science letter daring river match moon obvious devote trick stumble";
+var mnemonic = "north lunar cancel huge uniform siren heavy south treat crisp bring april";

@@ -1,1 +1,1 @@
-var mnemonic = "speed oak noise tray flower unlock gift beauty pass hurry fly slab";
+var mnemonic = "woman copy vendor chat ghost warm coyote pipe rebel flame once sketch";

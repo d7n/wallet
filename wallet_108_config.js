@@ -1,1 +1,1 @@
-var mnemonic = "faint almost purpose uncover episode maple tortoise volcano liquid design vanish vital";
+var mnemonic = "auto lazy castle bulb lemon scale employ faculty hero they decide unhappy";

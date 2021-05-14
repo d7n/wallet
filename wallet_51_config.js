@@ -1,1 +1,1 @@
-var mnemonic = "math bar visual plastic father answer engage broom mutual insect woman smoke";
+var mnemonic = "jealous sausage prepare custom material slush surge tiny fabric glue rescue donor";

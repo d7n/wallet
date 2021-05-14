@@ -1,1 +1,1 @@
-var mnemonic = "judge behave year vocal merge arrive upgrade dad task diary cliff skin";
+var mnemonic = "item amused canal derive night uniform curious snow improve whip fossil search";

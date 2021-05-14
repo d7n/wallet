@@ -1,1 +1,1 @@
-var mnemonic = "scrub scissors mule honey put spawn during snap raven absurd member assault";
+var mnemonic = "cycle client asset find fall toe solve gravity fabric absent minute slab";

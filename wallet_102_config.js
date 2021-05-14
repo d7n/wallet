@@ -1,1 +1,1 @@
-var mnemonic = "brown family flag fold lottery hurdle just demand flash little already remember";
+var mnemonic = "come cloth spot flower case mandate twice photo venue extend wagon main";

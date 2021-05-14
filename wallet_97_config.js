@@ -1,1 +1,1 @@
-var mnemonic = "wash wagon stumble senior lamp gesture brass symptom sail weekend ice document";
+var mnemonic = "hope biology slot major sniff language grunt inner aspect foam orient online";

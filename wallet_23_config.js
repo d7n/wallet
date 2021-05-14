@@ -1,1 +1,1 @@
-var mnemonic = "eye town bright valve lion comfort blue unfair image save around rate";
+var mnemonic = "powder know there purchase busy athlete six jelly silk vault prepare carry";

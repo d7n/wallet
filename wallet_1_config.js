@@ -1,1 +1,1 @@
-var mnemonic = "couch fiction glimpse physical grow match entire jealous secret click long casino";
+var mnemonic = "blossom athlete sweet camp barely daughter rebel rifle sing bounce essence inject";

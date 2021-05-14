@@ -1,1 +1,1 @@
-var mnemonic = "own mercy drift program midnight tone axis debris autumn craft drum pulse";
+var mnemonic = "pigeon rib wood common crazy swamp doctor loyal eternal crew blouse parent";

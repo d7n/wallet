@@ -1,1 +1,1 @@
-var mnemonic = "muffin artefact winter visa calm comfort cement risk end moment gaze peasant";
+var mnemonic = "kangaroo issue gold patch engine wage cotton hazard net recall one joy";

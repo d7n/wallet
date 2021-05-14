@@ -1,1 +1,1 @@
-var mnemonic = "document child love enrich bind bridge exclude eagle during fancy gold achieve";
+var mnemonic = "owner vibrant neglect soon kick lounge few attitude fire march ring ridge";

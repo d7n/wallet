@@ -1,1 +1,1 @@
-var mnemonic = "edge address fire feature awkward sail coffee elegant rent finish spot order";
+var mnemonic = "appear cousin fame suit surge help soda sense learn never ramp sign";

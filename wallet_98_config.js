@@ -1,1 +1,1 @@
-var mnemonic = "swim way core ranch erosion doll second force walk pill despair crouch";
+var mnemonic = "episode disease purse lecture argue world subject tree donkey fish rice oil";

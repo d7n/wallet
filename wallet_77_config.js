@@ -1,1 +1,1 @@
-var mnemonic = "twice jungle neutral fetch post twenty crucial deny person diesel cattle more";
+var mnemonic = "primary cliff feature weather pluck empower grace random connect pulp movie clown";

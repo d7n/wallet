@@ -1,1 +1,1 @@
-var mnemonic = "deal hamster dignity crew carry motion dilemma donor leader bamboo skin treat";
+var mnemonic = "face genuine leopard memory thank paddle double wear citizen color ship hold";

@@ -1,1 +1,1 @@
-var mnemonic = "drip patch salt impose apple life renew waste lobster direct regular arrive";
+var mnemonic = "slight leg phrase seat manual collect mixture minor ability reject coin neither";

@@ -1,1 +1,1 @@
-var mnemonic = "road father exotic paper retire bag language lift patient still bulb immense";
+var mnemonic = "cabin okay tattoo congress cute frost maximum draw problem color erode pole";

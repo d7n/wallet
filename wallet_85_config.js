@@ -1,1 +1,1 @@
-var mnemonic = "nasty front tip feed half crop decline truth again force spider vapor";
+var mnemonic = "hedgehog notice day ticket clean used until news emerge glide update oil";

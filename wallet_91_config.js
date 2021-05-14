@@ -1,1 +1,1 @@
-var mnemonic = "mountain will patch stamp hotel palace filter sing car barrel slot cliff";
+var mnemonic = "expand two where patch beyond online must punch lumber dash aunt cloud";

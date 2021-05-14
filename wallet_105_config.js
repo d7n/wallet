@@ -1,1 +1,1 @@
-var mnemonic = "melody moral stove female dress gesture dust comfort auction obvious jazz view";
+var mnemonic = "noise drink measure civil today olive evolve unlock decline actress multiply title";

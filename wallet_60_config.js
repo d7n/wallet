@@ -1,1 +1,1 @@
-var mnemonic = "spirit glad myself board patient setup build fuel puppy erode absorb rare";
+var mnemonic = "unknown donor ill trick person arm obey physical orchard hover outer unable";

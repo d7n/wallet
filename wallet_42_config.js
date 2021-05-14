@@ -1,1 +1,1 @@
-var mnemonic = "remain when vote scorpion quantum weekend winner script come just project receive";
+var mnemonic = "athlete town deny north bamboo dust blood amused clap tenant know return";

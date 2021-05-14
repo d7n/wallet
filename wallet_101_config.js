@@ -1,1 +1,1 @@
-var mnemonic = "athlete pattern world card together slide pet fashion gather exercise goose discover";
+var mnemonic = "exhaust account bless liar century number term wealth parent rather potato ensure";

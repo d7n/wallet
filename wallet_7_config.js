@@ -1,1 +1,1 @@
-var mnemonic = "hazard clutch crop nothing galaxy load charge snake tide violin render liberty";
+var mnemonic = "margin endless sudden expect extra road scale name unable turn cross grape";

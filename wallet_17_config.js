@@ -1,1 +1,1 @@
-var mnemonic = "library husband camera expect sugar brain little gain earn eagle genre suffer";
+var mnemonic = "because electric burger deputy bulb maid still social grain seven garbage dilemma";

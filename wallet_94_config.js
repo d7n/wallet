@@ -1,1 +1,1 @@
-var mnemonic = "sort easily view security cry wisdom visa velvet sing truck morning final";
+var mnemonic = "sense sail rally agree noble chunk among genuine wave settle wolf envelope";

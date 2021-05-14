@@ -1,1 +1,1 @@
-var mnemonic = "silk smoke hybrid another drift crouch hospital fox hospital end exclude silly";
+var mnemonic = "draw swap theory small robot certain chicken magnet exhibit bring fade feature";

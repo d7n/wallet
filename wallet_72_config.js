@@ -1,1 +1,1 @@
-var mnemonic = "confirm smooth harbor version ghost thunder cherry state cabin sorry wall raise";
+var mnemonic = "captain connect interest into fix offer mail uphold program obvious cupboard team";

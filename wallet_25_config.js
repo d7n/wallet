@@ -1,1 +1,1 @@
-var mnemonic = "seven milk pledge rally depart season olive arrive night menu regular picnic";
+var mnemonic = "copper enforce come stumble parrot cycle win wing damp keep diary pause";

@@ -1,1 +1,1 @@
-var mnemonic = "economy mimic odor weapon genre depth attitude tray lesson rural uncle view";
+var mnemonic = "access auto stamp gospel balcony sick brother armed shield want social above";

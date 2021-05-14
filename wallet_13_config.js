@@ -1,1 +1,1 @@
-var mnemonic = "ridge face earn phone engage wagon spin pony city arrive uncover hold";
+var mnemonic = "life middle vicious winter happy off drip into boost scissors sock blast";

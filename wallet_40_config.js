@@ -1,1 +1,1 @@
-var mnemonic = "plunge cave enjoy wagon clap combine mom slam slot lucky often rate";
+var mnemonic = "mixture radio core social sail round ridge deposit sausage sunset recipe depth";

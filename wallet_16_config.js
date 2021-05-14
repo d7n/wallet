@@ -1,1 +1,1 @@
-var mnemonic = "viable pyramid shell shove glass left thrive ill wink predict guard flash";
+var mnemonic = "erode sorry october avocado concert regular avoid hip test empower close gather";

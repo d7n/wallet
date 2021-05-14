@@ -1,1 +1,1 @@
-var mnemonic = "kiss clip neither describe web ocean body mad toward worry daring salute";
+var mnemonic = "mango text cricket live crew swap reflect tornado loop equal enhance little";

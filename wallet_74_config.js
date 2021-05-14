@@ -1,1 +1,1 @@
-var mnemonic = "junk include betray robust travel leopard client glance cousin nominee pipe inside";
+var mnemonic = "concert rival spy protect actual negative cereal oyster mix oak struggle update";

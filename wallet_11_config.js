@@ -1,1 +1,1 @@
-var mnemonic = "harbor tuna interest fine fee donor early mom knee embark marble awful";
+var mnemonic = "female spoil same all zoo lonely split coffee hint web family laundry";

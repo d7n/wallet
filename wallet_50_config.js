@@ -1,1 +1,1 @@
-var mnemonic = "corn unfair brand end crouch enable second air nature life remember dentist";
+var mnemonic = "luggage behave harvest language mixture observe pioneer mango mutual arch trial walk";

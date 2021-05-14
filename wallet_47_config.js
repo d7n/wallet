@@ -1,1 +1,1 @@
-var mnemonic = "inside ozone adjust better trouble umbrella win have rare gravity nerve enemy";
+var mnemonic = "other sail what change feed kiss soccer border ride force trip tattoo";

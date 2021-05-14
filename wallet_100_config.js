@@ -1,1 +1,1 @@
-var mnemonic = "ghost pole kitten smile fat reunion bulb wrist talent basket essay post";
+var mnemonic = "wood cotton story sort ill sight thank amateur type elephant obvious rocket";

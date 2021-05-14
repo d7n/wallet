@@ -1,1 +1,1 @@
-var mnemonic = "reveal use aware venture salt balance brave glory lava fox garlic release";
+var mnemonic = "sick hurry fever gown route quick now fun armor puppy call kiss";

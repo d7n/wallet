@@ -1,1 +1,1 @@
-var mnemonic = "body rule rescue inherit drip start fire carbon census feel observe wonder";
+var mnemonic = "auction fetch friend roof carpet sell bring clock tonight wave tragic crime";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow copper better shuffle jacket ridge sweet yellow shove cross winter snow";
+var mnemonic = "hair bus rule grain dry hip cotton large oyster demise slot venue";

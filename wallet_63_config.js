@@ -1,1 +1,1 @@
-var mnemonic = "search they spike lend exhaust drastic join lawsuit just movie bean clutch";
+var mnemonic = "net age fit cheese daughter forest floor economy own cushion next quality";

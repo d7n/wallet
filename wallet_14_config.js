@@ -1,1 +1,1 @@
-var mnemonic = "rug palm wing viable weapon render drum upgrade leaf animal join cool";
+var mnemonic = "train fiber taste reflect medal february alert black clip bargain trade bounce";

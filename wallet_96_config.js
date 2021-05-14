@@ -1,1 +1,1 @@
-var mnemonic = "arch stairs question there found apple happy attitude tenant want come typical";
+var mnemonic = "cat symptom soda banner core behave alien innocent speed what party pulp";

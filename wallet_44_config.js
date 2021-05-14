@@ -1,1 +1,1 @@
-var mnemonic = "expect often wood differ rent oppose weather siege ring wonder lobster ship";
+var mnemonic = "extra topic shell power engage half quick globe beef garden retire benefit";

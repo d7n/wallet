@@ -1,1 +1,1 @@
-var mnemonic = "ball group pioneer thunder oblige hand rifle pioneer almost price trophy sand";
+var mnemonic = "carpet cinnamon debris response inflict dutch family inform help curtain vanish sample";

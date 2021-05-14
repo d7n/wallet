@@ -1,1 +1,1 @@
-var mnemonic = "torch memory pink pulse wrap retreat cart flip exit write fog math";
+var mnemonic = "divide bamboo brush steel dice library they jungle erode globe immense clever";

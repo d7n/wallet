@@ -1,1 +1,1 @@
-var mnemonic = "athlete include omit north swim oblige warrior tragic vapor easy action charge";
+var mnemonic = "chat play jazz raccoon vessel parrot welcome aisle fork across auction aerobic";

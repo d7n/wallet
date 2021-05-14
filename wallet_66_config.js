@@ -1,1 +1,1 @@
-var mnemonic = "raise silly delay illegal bus film sun notable sport symbol electric hidden";
+var mnemonic = "size snow blame evil sausage firm despair bleak sunset dilemma prosper ostrich";

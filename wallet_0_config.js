@@ -1,1 +1,1 @@
-var mnemonic = "staff picnic cram zero wing true output express maid cherry vague silk";
+var mnemonic = "shine logic surge cry benefit vault rib odor shoe glove capable history";

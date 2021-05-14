@@ -1,1 +1,1 @@
-var mnemonic = "outside unit nominee gain drink bargain never select clean shield senior traffic";
+var mnemonic = "lizard box farm judge split blame affair beef material soon lyrics upon";

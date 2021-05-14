@@ -1,1 +1,1 @@
-var mnemonic = "tooth love chat situate physical picnic fence safe vivid thought negative afraid";
+var mnemonic = "file hunt street human crowd blanket dinner deer velvet pink concert snow";

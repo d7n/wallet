@@ -1,1 +1,1 @@
-var mnemonic = "rural sorry rough warm agent account fatal infant garbage example stone day";
+var mnemonic = "follow test chimney tissue affair stock boil neither coyote change warrior ask";

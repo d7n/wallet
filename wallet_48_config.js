@@ -1,1 +1,1 @@
-var mnemonic = "eager visit river deal judge chair balance dry bind work hire language";
+var mnemonic = "scale plastic science sad truck wise rely dilemma taste fantasy riot vital";

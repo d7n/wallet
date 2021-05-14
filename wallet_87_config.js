@@ -1,1 +1,1 @@
-var mnemonic = "sweet street pencil comic strong climb half core marine model scan capital";
+var mnemonic = "frown salon slender dirt capital suit into quiz country plate burger effort";

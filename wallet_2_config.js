@@ -1,1 +1,1 @@
-var mnemonic = "crouch puzzle ride whale section pass torch achieve fence van adapt either";
+var mnemonic = "brother sure elephant clarify host nice source capable morning that paper amount";

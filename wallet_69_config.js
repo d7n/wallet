@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo robot crop cancel network canyon manage neglect hero toilet claw reduce";
+var mnemonic = "always ivory swim now guilt repair venture tribe fit idea allow book";

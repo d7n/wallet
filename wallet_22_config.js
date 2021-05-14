@@ -1,1 +1,1 @@
-var mnemonic = "diary trust wash occur clump doctor jeans sign eagle sight over silly";
+var mnemonic = "tribe deny oak spray slot plug fire final stuff birth fish idea";

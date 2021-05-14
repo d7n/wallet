@@ -1,1 +1,1 @@
-var mnemonic = "know dove friend pig famous wool panda siege month object spray metal";
+var mnemonic = "shift quantum time verify gather monkey antenna quiz couch bus twice urban";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi company shoulder shop candy copy sauce bus core major kitten spike";
+var mnemonic = "open brave giggle sick police amazing ugly penalty pear deputy spot wait";

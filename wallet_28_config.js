@@ -1,1 +1,1 @@
-var mnemonic = "slim hamster cart front lock safe innocent glove sun suggest disease canvas";
+var mnemonic = "right jelly wrap damage palace ketchup medal teach card chronic erode cargo";

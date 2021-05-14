@@ -1,1 +1,1 @@
-var mnemonic = "note mail major then pilot alley energy gossip mimic stay solar urge";
+var mnemonic = "ethics fantasy style fun artefact protect exit perfect crowd theme find trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare sunset hammer liberty bulk alpha notable host breeze equip motor crunch";
+var mnemonic = "board absent slight view swamp slim noise please broom produce wife pen";

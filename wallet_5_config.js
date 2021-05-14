@@ -1,1 +1,1 @@
-var mnemonic = "little list thrive eight beauty priority awkward vapor hungry differ session march";
+var mnemonic = "business business evil olympic cook olive damage tiger opera phrase right crime";

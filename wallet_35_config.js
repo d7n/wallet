@@ -1,1 +1,1 @@
-var mnemonic = "quote close firm shine pair dirt address lecture disorder nominee tilt wisdom";
+var mnemonic = "solve rug vote swamp marble cube jaguar quick avoid destroy glare bargain";

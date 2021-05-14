@@ -1,1 +1,1 @@
-var mnemonic = "devote solar athlete off catch acoustic decline dish kitchen parent south gossip";
+var mnemonic = "clump weird forest comic cabin office balance tonight relief thrive act glad";

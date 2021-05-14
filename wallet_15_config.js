@@ -1,1 +1,1 @@
-var mnemonic = "route bronze divide clay comfort donor oxygen pelican room absurd diet poet";
+var mnemonic = "raw point advance ugly educate shoot gym guitar double fork leave theory";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd concert eternal play above stairs super charge luxury coffee wheel hero";
+var mnemonic = "pistol know upset cabin team frame follow purity guide boost smart during";

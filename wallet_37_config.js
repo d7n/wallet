@@ -1,1 +1,1 @@
-var mnemonic = "romance cave denial retreat gesture vicious steak away man giraffe vanish demand";
+var mnemonic = "hazard edge runway correct prison project leg south type address mountain budget";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy room banana capable believe weather report session hurt pig lucky panther";
+var mnemonic = "ivory false mobile donate leopard detail crowd budget defy couple aisle cool";

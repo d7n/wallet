@@ -1,1 +1,1 @@
-var mnemonic = "dwarf behind mimic split olive turkey mesh lawn enforce process odor energy";
+var mnemonic = "slush purchase legend oval ghost desk sand film morning divide social describe";

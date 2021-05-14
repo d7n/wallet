@@ -1,1 +1,1 @@
-var mnemonic = "label wheel stick purpose aerobic enjoy grain pencil vault group mean square";
+var mnemonic = "elite pumpkin kite box size rebuild diet autumn office sniff smile metal";

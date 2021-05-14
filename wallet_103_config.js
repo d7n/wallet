@@ -1,1 +1,1 @@
-var mnemonic = "october vault foam road prefer upgrade cement hero notice sign raven eager";
+var mnemonic = "term pigeon ten cause general anger place luggage catch impose engine tiger";

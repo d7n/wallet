@@ -1,1 +1,1 @@
-var mnemonic = "sight scene assault solid taxi food turkey cruise neck solve dwarf sea";
+var mnemonic = "feed pepper law normal normal rhythm wisdom glance mom once inside orange";

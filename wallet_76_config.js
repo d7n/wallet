@@ -1,1 +1,1 @@
-var mnemonic = "cattle mouse unable either task make secret sword upgrade trust member rose";
+var mnemonic = "weekend autumn fuel sail bleak tiny maple embark stadium churn melt force";

@@ -1,1 +1,1 @@
-var mnemonic = "brave upon shadow reveal cancel van police auto sausage blue daring airport";
+var mnemonic = "hotel menu police youth juice vault unfold frog want market cargo boring";

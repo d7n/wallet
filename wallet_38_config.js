@@ -1,1 +1,1 @@
-var mnemonic = "early entire width cupboard cup glad faint taxi emerge level upper cabbage";
+var mnemonic = "horror twin grit abuse clog law robust virtual pistol window deer donor";

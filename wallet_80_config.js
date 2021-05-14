@@ -1,1 +1,1 @@
-var mnemonic = "proof chief later urban wool creek exchange shoulder give cram prosper meadow";
+var mnemonic = "section embark scale wealth pilot hurt journey thrive stone manage daughter vocal";

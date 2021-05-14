@@ -1,1 +1,1 @@
-var mnemonic = "theory bus broken tongue figure regular ride meadow trip quarter own horn";
+var mnemonic = "first nice join juice property kitchen undo evoke frog pigeon digital unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "globe office kangaroo pony photo satoshi brand deliver language dance pear adjust";
+var mnemonic = "animal infant resemble rally pitch quit powder frequent hole buffalo doctor twice";

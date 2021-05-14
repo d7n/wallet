@@ -1,1 +1,1 @@
-var mnemonic = "girl grocery fork fog tower slender benefit alert critic abstract mammal digital";
+var mnemonic = "fog wall cause artefact carpet maple account order shoe maximum second august";

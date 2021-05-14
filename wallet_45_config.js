@@ -1,1 +1,1 @@
-var mnemonic = "link garment test little vapor person job sure rule knock grid ocean";
+var mnemonic = "brown cricket chunk dry matrix clever orient peace make issue chat improve";

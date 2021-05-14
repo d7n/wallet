@@ -1,1 +1,1 @@
-var mnemonic = "artist hip fire duck borrow office glory skirt pair cannon tooth upset";
+var mnemonic = "hub margin choice soccer happy empty torch exit bamboo trap scan mimic";

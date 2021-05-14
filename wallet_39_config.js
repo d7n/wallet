@@ -1,1 +1,1 @@
-var mnemonic = "medal body mercy buddy laugh casino silk salt mind buddy edit uncover";
+var mnemonic = "warm live lawn wide grid pizza rabbit stay merit assist spy deposit";

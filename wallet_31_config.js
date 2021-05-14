@@ -1,1 +1,1 @@
-var mnemonic = "diesel trouble occur lion hover gate desert casual debris smooth next left";
+var mnemonic = "hire fringe web ready symbol decorate club similar ceiling write salmon census";
