@@ -1,1 +1,1 @@
-var mnemonic = "front sweet orbit best design raccoon cave top arm festival album coral";
+var mnemonic = "margin focus vapor address twice royal admit sponsor genre mention alpha immense";

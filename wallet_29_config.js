@@ -1,1 +1,1 @@
-var mnemonic = "ginger antique horse wonder element speak loyal certain teach clarify excuse quiz";
+var mnemonic = "imitate current eagle pyramid civil twelve enough caught sunny wink obtain audit";

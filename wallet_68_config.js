@@ -1,1 +1,1 @@
-var mnemonic = "either add view general office meadow mom nut recipe concert claim shrimp";
+var mnemonic = "copy junk manage toward grace such execute switch when exchange pond limit";

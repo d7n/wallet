@@ -1,1 +1,1 @@
-var mnemonic = "plate option race child also foster panda claim decade pluck join panda";
+var mnemonic = "excite blur throw echo sting nurse razor matrix offer code melt praise";

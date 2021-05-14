@@ -1,1 +1,1 @@
-var mnemonic = "leaf denial garment want repair best they quiz organ join one buddy";
+var mnemonic = "hunt boil enter lobster mushroom radio alert food borrow behave into clinic";

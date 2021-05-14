@@ -1,1 +1,1 @@
-var mnemonic = "collect angry fix detail lyrics kitchen rough praise clean work wisdom about";
+var mnemonic = "casual else cross garbage sense weapon viable news pass final valley object";

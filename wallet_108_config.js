@@ -1,1 +1,1 @@
-var mnemonic = "portion double uncle call rely normal behave digital auto paper lazy knee";
+var mnemonic = "gun fence poet funny robust kiss today usual arrest melody space uncle";

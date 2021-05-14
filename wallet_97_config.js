@@ -1,1 +1,1 @@
-var mnemonic = "source kitten fashion radio bike bus relief umbrella first work ready sentence";
+var mnemonic = "goose document service sketch illegal pistol siren book dumb use survey shoot";

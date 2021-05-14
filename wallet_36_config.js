@@ -1,1 +1,1 @@
-var mnemonic = "gadget runway deal balance express flavor asset bitter great entry repeat wasp";
+var mnemonic = "way post primary blue junk dumb unusual follow police web tooth adjust";

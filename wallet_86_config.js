@@ -1,1 +1,1 @@
-var mnemonic = "nephew section proud you toe observe panther letter bargain sweet detect picnic";
+var mnemonic = "fantasy supply luggage brave blur laptop report man giant early staff another";

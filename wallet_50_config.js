@@ -1,1 +1,1 @@
-var mnemonic = "method mobile casual orchard share consider solar dizzy version clean curious near";
+var mnemonic = "dune nose mushroom village present more theory input measure keen paper kiwi";

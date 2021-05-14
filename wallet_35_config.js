@@ -1,1 +1,1 @@
-var mnemonic = "chase mass friend tag picnic wheel palace spell canvas coil wagon canal";
+var mnemonic = "copy spirit number purse chronic roof health victory orphan practice tide art";

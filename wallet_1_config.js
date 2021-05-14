@@ -1,1 +1,1 @@
-var mnemonic = "stove buzz suit indoor sauce uncover agree finger inmate shed detail salute";
+var mnemonic = "iron captain arctic host flag average coral envelope tiger wave waste minute";

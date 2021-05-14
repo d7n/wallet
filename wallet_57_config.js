@@ -1,1 +1,1 @@
-var mnemonic = "elevator similar escape option scout leisure focus collect earn future morning view";
+var mnemonic = "ahead decline remember cook gallery false trash escape among gather indicate horse";

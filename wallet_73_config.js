@@ -1,1 +1,1 @@
-var mnemonic = "fine swim spot april present already riot wrap spring educate save imitate";
+var mnemonic = "violin photo tail link digital book caught sight next toward phone inhale";

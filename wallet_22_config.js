@@ -1,1 +1,1 @@
-var mnemonic = "ethics improve element asthma okay moral paddle salad bamboo elephant dream someone";
+var mnemonic = "canal wrong what surprise scrub grass nothing globe boy beach carpet supply";

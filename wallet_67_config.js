@@ -1,1 +1,1 @@
-var mnemonic = "spread good friend mask kid venue opera hover slow voice soft million";
+var mnemonic = "inner observe hard charge inject smart whip upgrade tackle cereal chalk bring";

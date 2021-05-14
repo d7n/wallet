@@ -1,1 +1,1 @@
-var mnemonic = "mix season garlic jelly balance office behind achieve buddy car angle sound";
+var mnemonic = "immense visa claim crater media sibling total crunch venue figure plunge stone";

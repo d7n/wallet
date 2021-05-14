@@ -1,1 +1,1 @@
-var mnemonic = "foil laundry crumble credit champion visual split purse easy vibrant burden city";
+var mnemonic = "they column era deny hire frozen ready crane total globe lens roof";

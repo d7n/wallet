@@ -1,1 +1,1 @@
-var mnemonic = "off provide melody tent fury film move raven proud erosion first lava";
+var mnemonic = "frozen recall where relief van merry steel black basic trouble once calm";

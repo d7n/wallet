@@ -1,1 +1,1 @@
-var mnemonic = "basic moment plastic nut age together season derive theory palace pretty inherit";
+var mnemonic = "sound lamp color capable decorate near area very leader duck degree leave";

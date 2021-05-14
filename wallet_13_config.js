@@ -1,1 +1,1 @@
-var mnemonic = "patch pink vessel youth trash session pulse until pelican protect humor frown";
+var mnemonic = "guilt toddler tree album broccoli field island beef lawn frozen tunnel predict";

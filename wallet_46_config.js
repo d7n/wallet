@@ -1,1 +1,1 @@
-var mnemonic = "mosquito erase donkey between bleak chase update win replace ready giggle media";
+var mnemonic = "athlete hospital call chef member orient ramp galaxy swamp easily route select";

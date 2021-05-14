@@ -1,1 +1,1 @@
-var mnemonic = "network where melody pool subway engage cream engine rebel twin dismiss chase";
+var mnemonic = "crater craft law dirt tooth misery rival old input share twist pull";

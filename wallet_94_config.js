@@ -1,1 +1,1 @@
-var mnemonic = "identify tribe puppy slot inhale open photo shiver buffalo swallow fee scene";
+var mnemonic = "butter cave shop clay oil escape embody wealth accuse chaos course layer";

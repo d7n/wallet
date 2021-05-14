@@ -1,1 +1,1 @@
-var mnemonic = "oyster purse upset material letter movie banana shrimp depend sibling barrel drop";
+var mnemonic = "innocent paddle case give hunt expose wire awkward grape gym zero crater";

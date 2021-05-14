@@ -1,1 +1,1 @@
-var mnemonic = "display recall hurt divorce clump oval bacon lizard young smile motion effort";
+var mnemonic = "forget bundle huge garden round debate divide boat hammer obey aim smile";

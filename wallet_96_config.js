@@ -1,1 +1,1 @@
-var mnemonic = "salmon mushroom business brief stone ill couple winter fetch clock inject ostrich";
+var mnemonic = "choose shop clarify quote once air gown budget dust away thumb forest";

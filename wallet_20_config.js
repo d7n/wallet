@@ -1,1 +1,1 @@
-var mnemonic = "hip kind old nation draft van federal impulse volcano best route glass";
+var mnemonic = "raven motor spoon filter select farm sea bright course domain subway soup";

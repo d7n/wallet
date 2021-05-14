@@ -1,1 +1,1 @@
-var mnemonic = "huge cash giant air drastic reunion give hill clown popular answer invest";
+var mnemonic = "organ suspect boat universe senior shaft inmate cake manual toss goddess elevator";

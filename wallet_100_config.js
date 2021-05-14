@@ -1,1 +1,1 @@
-var mnemonic = "master decade carry robust tongue provide athlete element gym simple mutual response";
+var mnemonic = "unable unfold carpet leg math voice purchase walk lyrics fetch maze purity";

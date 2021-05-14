@@ -1,1 +1,1 @@
-var mnemonic = "equip bus excuse course pole tip author hero stumble enforce food nothing";
+var mnemonic = "leave resemble spot print equal palace sure enter fork quarter arrange magnet";

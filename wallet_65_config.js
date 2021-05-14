@@ -1,1 +1,1 @@
-var mnemonic = "property bulb swift pistol still elite peanut nose lesson update rent soul";
+var mnemonic = "ring equal stove atom access subway athlete brave suffer toddler holiday future";

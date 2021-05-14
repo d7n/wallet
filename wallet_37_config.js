@@ -1,1 +1,1 @@
-var mnemonic = "flee quarter relax luggage hurt repeat brand notice parade result urban tuition";
+var mnemonic = "orbit bind goddess rocket knee chuckle art ticket whale ladder sign say";

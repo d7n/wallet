@@ -1,1 +1,1 @@
-var mnemonic = "alley suffer drastic deposit erode shop chuckle whale husband advice culture cigar";
+var mnemonic = "inherit grain law acid fiber cousin bind pattern fabric include hero soul";

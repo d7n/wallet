@@ -1,1 +1,1 @@
-var mnemonic = "letter forum ostrich tenant toss note picture screen tiny lawn mirror winner";
+var mnemonic = "old quote lecture civil federal brass spring whip palm torch enrich tiger";

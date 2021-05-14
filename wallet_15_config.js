@@ -1,1 +1,1 @@
-var mnemonic = "use soon panic bachelor marriage usage virus siren bamboo excuse execute ordinary";
+var mnemonic = "betray oppose public nose grit excess kiss diamond scene crane ocean section";

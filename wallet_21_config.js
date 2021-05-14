@@ -1,1 +1,1 @@
-var mnemonic = "casino stage clock almost job aerobic derive left mean marriage goat about";
+var mnemonic = "theory swear slush purpose march educate between analyst ranch unique motor grain";

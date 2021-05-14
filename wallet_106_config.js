@@ -1,1 +1,1 @@
-var mnemonic = "toe student vintage monster recipe vast stable category kitten change sheriff whip";
+var mnemonic = "fossil jazz adjust shallow modify ready family section bone payment alone bread";

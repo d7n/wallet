@@ -1,1 +1,1 @@
-var mnemonic = "entire island biology umbrella fossil honey snack stone tray afraid dash sphere";
+var mnemonic = "mass length trade any home dog vacant public canvas attract salute movie";

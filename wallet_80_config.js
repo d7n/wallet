@@ -1,1 +1,1 @@
-var mnemonic = "fury toy reveal airport range imitate napkin own finish wait twenty priority";
+var mnemonic = "crisp leaf around desert oppose spell liquid oxygen dinosaur brass goat again";

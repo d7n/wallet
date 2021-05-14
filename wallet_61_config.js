@@ -1,1 +1,1 @@
-var mnemonic = "bean snake dad chunk foster discover hungry gossip tree guide rent coil";
+var mnemonic = "monster quantum isolate stick nominee knee stay bread neither mail cruel review";

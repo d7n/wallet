@@ -1,1 +1,1 @@
-var mnemonic = "hood smart exotic pear appear olive silly bonus erosion hen twelve shoulder";
+var mnemonic = "violin plastic hire situate domain check return flavor soccer winner shrug scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "panic key panda tube vote inject sugar sphere sell throw curtain size";
+var mnemonic = "network throw card improve ocean art tunnel ethics shed jeans wheel ripple";

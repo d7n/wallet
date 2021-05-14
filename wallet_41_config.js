@@ -1,1 +1,1 @@
-var mnemonic = "tennis that planet move mule worth exotic paper proof phone toy whale";
+var mnemonic = "search notable spot fiction melody fit follow wave chief loop drill riot";

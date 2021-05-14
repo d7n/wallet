@@ -1,1 +1,1 @@
-var mnemonic = "sword gentle keep scheme purity entire aerobic snap smile truth swift negative";
+var mnemonic = "dial budget learn hard merit nation flee soccer mosquito clean fuel stumble";

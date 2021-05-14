@@ -1,1 +1,1 @@
-var mnemonic = "subway detail trust comfort little bronze aisle female lunch gather toe spoil";
+var mnemonic = "female rib symptom family leaf dignity pistol require pony artist connect melt";

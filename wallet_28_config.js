@@ -1,1 +1,1 @@
-var mnemonic = "bronze cry oppose shiver magic purity matter cute damage shuffle peasant web";
+var mnemonic = "rice couple already venue leg find fragile entry net believe prepare then";

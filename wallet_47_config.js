@@ -1,1 +1,1 @@
-var mnemonic = "chunk spray wrist labor manual year salmon audit truck sponsor destroy pact";
+var mnemonic = "huge found stamp volcano rare supply chest olive lava fish alley onion";

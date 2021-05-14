@@ -1,1 +1,1 @@
-var mnemonic = "matter genre chunk tree account collect drill exclude hungry analyst liquid panel";
+var mnemonic = "actress shed grit valid short avocado slim express ugly retreat sense rapid";

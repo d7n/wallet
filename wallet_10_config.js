@@ -1,1 +1,1 @@
-var mnemonic = "brush ankle tobacco happy system develop year sunset drive afraid sleep fault";
+var mnemonic = "art scissors glance dinosaur squirrel crystal frost turn metal file clutch bitter";

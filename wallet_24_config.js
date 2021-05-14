@@ -1,1 +1,1 @@
-var mnemonic = "true note web alcohol genius dignity crisp undo nation pear again keep";
+var mnemonic = "wasp act limb old aisle acid okay army order various ritual park";

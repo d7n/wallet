@@ -1,1 +1,1 @@
-var mnemonic = "museum duty report pelican friend stamp relief fabric saddle sort crazy reform";
+var mnemonic = "manage vintage found country fox casino market pupil artefact approve vast trick";

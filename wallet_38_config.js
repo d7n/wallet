@@ -1,1 +1,1 @@
-var mnemonic = "hazard novel slogan flash need cruise awake hurry obscure alter acquire company";
+var mnemonic = "carbon rack spawn lizard lizard trip draw pistol original deer grace badge";

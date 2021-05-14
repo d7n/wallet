@@ -1,1 +1,1 @@
-var mnemonic = "deny ski merry supply grace fun wool lonely suspect night insect candy";
+var mnemonic = "capable normal famous soul journey long lecture home make noodle attend razor";

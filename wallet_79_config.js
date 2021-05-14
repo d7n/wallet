@@ -1,1 +1,1 @@
-var mnemonic = "carry assume match moment noble pool champion venture sea voice clump eternal";
+var mnemonic = "sun youth sample join deer swim ridge coil security bleak noble cherry";

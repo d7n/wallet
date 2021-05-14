@@ -1,1 +1,1 @@
-var mnemonic = "battle legal trumpet obscure genuine noble axis tilt odor reopen plug defy";
+var mnemonic = "garage pen future lyrics veteran unaware bone glue repeat fuel afford hammer";

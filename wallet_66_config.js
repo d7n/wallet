@@ -1,1 +1,1 @@
-var mnemonic = "say pool evil spin obey jewel whip want anxiety push vague enrich";
+var mnemonic = "six theory basket push patch black unhappy lucky february device fuel sample";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor card travel noodle table world learn pet catch glue engine raccoon";
+var mnemonic = "invest village carry dolphin choice drive plunge net awake box simple photo";

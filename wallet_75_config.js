@@ -1,1 +1,1 @@
-var mnemonic = "lamp annual balcony orchard remind answer sight behind door debris salute margin";
+var mnemonic = "choice visual mimic doctor report gas dance rate member move possible time";

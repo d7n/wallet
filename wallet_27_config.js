@@ -1,1 +1,1 @@
-var mnemonic = "tuna raccoon settle narrow traffic mistake train cloud shallow salmon cinnamon cost";
+var mnemonic = "wolf sample alpha require guilt settle oppose clog hurt crash crunch win";

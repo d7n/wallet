@@ -1,1 +1,1 @@
-var mnemonic = "dry right business balcony want dream color miss rate ski cream emotion";
+var mnemonic = "kite friend almost fantasy manual attract soldier always attend pulp lend more";

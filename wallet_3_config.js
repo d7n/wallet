@@ -1,1 +1,1 @@
-var mnemonic = "awesome olive share tiger another theory pulse today design wing basic seed";
+var mnemonic = "chalk birth ostrich shield rally argue wall art drop push arrest magnet";

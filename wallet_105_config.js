@@ -1,1 +1,1 @@
-var mnemonic = "shrug until cram milk group film coin express mistake liar actor list";
+var mnemonic = "physical equal behind will viable bacon proud drastic student sister pupil result";

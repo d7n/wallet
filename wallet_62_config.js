@@ -1,1 +1,1 @@
-var mnemonic = "chair attitude top brick damp teach attack gain remind birth vibrant visual";
+var mnemonic = "fresh question memory arrive enact dolphin hole verb budget over soft gift";

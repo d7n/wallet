@@ -1,1 +1,1 @@
-var mnemonic = "spring green fit siege lottery either camera tonight jealous napkin elbow strategy";
+var mnemonic = "quality panic desk father between glare yellow thought seat pole anger wreck";

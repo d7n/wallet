@@ -1,1 +1,1 @@
-var mnemonic = "bind ribbon security excess link insane estate rebuild family other crop matrix";
+var mnemonic = "assume quote clinic soccer dumb leaf ranch shoot ask real sense kit";

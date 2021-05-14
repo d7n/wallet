@@ -1,1 +1,1 @@
-var mnemonic = "blanket domain ocean chaos else ordinary popular elevator charge shock dose attract";
+var mnemonic = "ivory blood speed promote enhance team allow gaze timber rigid tomorrow liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "easily blush bacon load rely remove economy social foot leaf soldier oak";
+var mnemonic = "desert source envelope embody divorce still try license obtain lunar weekend cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "vast cloud finish super mother provide physical mystery various aware visual clip";
+var mnemonic = "gold wood clog absent donate quality weather tunnel angle kid note merge";

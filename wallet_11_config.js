@@ -1,1 +1,1 @@
-var mnemonic = "phone clock primary hour pair novel agree useless need grief ugly blouse";
+var mnemonic = "park fluid rule damage place episode seat mechanic speak chat own original";

@@ -1,1 +1,1 @@
-var mnemonic = "blame stadium differ foster hedgehog laugh hobby nut undo cancel forget color";
+var mnemonic = "knock ocean digital delay ozone between equip disorder increase yard nation crumble";

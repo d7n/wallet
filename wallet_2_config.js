@@ -1,1 +1,1 @@
-var mnemonic = "come antenna visual cousin picnic neck ski bless face bus maximum electric";
+var mnemonic = "athlete spell praise claw style increase actual scissors bundle believe umbrella ten";

@@ -1,1 +1,1 @@
-var mnemonic = "timber vacuum crash detect drift two speed creek august soldier front under";
+var mnemonic = "side north lake direct hero air scale egg job erosion spawn quarter";

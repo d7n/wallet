@@ -1,1 +1,1 @@
-var mnemonic = "student success warfare amount leave soldier aisle expect doctor spin diagram harvest";
+var mnemonic = "demise indoor post cheese theory happy that position federal two stamp hollow";

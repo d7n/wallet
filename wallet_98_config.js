@@ -1,1 +1,1 @@
-var mnemonic = "route reunion adjust police safe tenant pipe fox dream much anxiety spread";
+var mnemonic = "noise prevent first pattern soft clog split address pistol talk dial adult";

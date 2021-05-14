@@ -1,1 +1,1 @@
-var mnemonic = "fan trap song question slice paddle sister eternal answer park matter text";
+var mnemonic = "truck pair couch outdoor panel gospel bitter praise panic era again spoil";

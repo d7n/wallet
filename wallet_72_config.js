@@ -1,1 +1,1 @@
-var mnemonic = "busy clay shaft motor silver copper aerobic mix express fat man artefact";
+var mnemonic = "spring divide aerobic exhaust gossip traffic gadget aerobic cry joke sell click";

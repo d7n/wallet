@@ -1,1 +1,1 @@
-var mnemonic = "impose fan stock biology field state drive cart year saddle kitchen sunset";
+var mnemonic = "click crisp balcony tree famous beauty invest cabin arrive mechanic phrase fit";

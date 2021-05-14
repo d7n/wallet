@@ -1,1 +1,1 @@
-var mnemonic = "never clock control purpose armed need survey genre inherit vessel abuse bamboo";
+var mnemonic = "minimum nice dinner slender marble huge adapt grace exact script load topic";

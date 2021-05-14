@@ -1,1 +1,1 @@
-var mnemonic = "artist kiwi globe situate social brown theme they eyebrow shine truth mobile";
+var mnemonic = "photo blade sheriff easy allow panda acquire champion tiger polar coil soldier";

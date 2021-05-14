@@ -1,1 +1,1 @@
-var mnemonic = "drip mean fit ride grid build injury major version nut disagree train";
+var mnemonic = "deny slam menu grief mimic edit solar portion teach resource corn dial";
