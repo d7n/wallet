@@ -1,1 +1,1 @@
-var mnemonic = "kind boost bulk able maple window pact melody unlock pattern expect mail";
+var mnemonic = "inner fluid curve arena purchase age maple amazing aerobic pistol abstract window";

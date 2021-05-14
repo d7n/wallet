@@ -1,1 +1,1 @@
-var mnemonic = "soldier olympic glass actress senior shine local window cube spike stumble raise";
+var mnemonic = "actual assault used ask during wonder emotion virtual wife hour manual thumb";

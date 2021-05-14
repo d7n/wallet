@@ -1,1 +1,1 @@
-var mnemonic = "embrace print tiny train ten now high various pelican scatter solid what";
+var mnemonic = "close over sunny grab vault insect fossil observe scene crumble destroy easily";

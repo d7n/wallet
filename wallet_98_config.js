@@ -1,1 +1,1 @@
-var mnemonic = "camera lemon tunnel surround blood bright youth pill impact someone trend stable";
+var mnemonic = "rough share castle scrap suffer derive snake index island just side upon";

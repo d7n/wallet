@@ -1,1 +1,1 @@
-var mnemonic = "mask wing stand helmet ankle zone royal alter weekend ride amateur title";
+var mnemonic = "ketchup trumpet mechanic grain claw mean million trim onion pen keep beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace hawk person belt buzz upgrade excuse melody female whisper coach table";
+var mnemonic = "finger appear subway fatigue clever leaf front position whale pave trumpet gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "lab punch tragic file spice gossip exile bind tourist lens plunge grain";
+var mnemonic = "rug special jacket total pizza rival great stock tomorrow thing suffer enable";

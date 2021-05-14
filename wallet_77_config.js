@@ -1,1 +1,1 @@
-var mnemonic = "chase message civil dial often project alien lizard pole stove economy mistake";
+var mnemonic = "dwarf trend jacket save elephant filter owner zoo artefact glue flash clinic";

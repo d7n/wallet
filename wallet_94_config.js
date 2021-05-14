@@ -1,1 +1,1 @@
-var mnemonic = "life swap basket loud load twist outdoor tongue antenna they foam purity";
+var mnemonic = "steak demand join return code left wild midnight flock torch clip change";

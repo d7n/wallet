@@ -1,1 +1,1 @@
-var mnemonic = "offer code blast sponsor soul breeze exotic tired sadness fiscal hope portion";
+var mnemonic = "brass rack annual dress blame figure length play kind agent margin reopen";

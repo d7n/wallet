@@ -1,1 +1,1 @@
-var mnemonic = "tape picnic address people dose penalty claw kitchen palm slush neck peace";
+var mnemonic = "scene entry satoshi topple narrow swamp alpha bless item health pond range";

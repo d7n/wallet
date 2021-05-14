@@ -1,1 +1,1 @@
-var mnemonic = "wisdom wish judge divert calm isolate odor oblige sound inhale bind pair";
+var mnemonic = "dinosaur fiber gossip license chef zero level farm brief keen color glide";

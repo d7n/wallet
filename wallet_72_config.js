@@ -1,1 +1,1 @@
-var mnemonic = "unknown table shadow stock body monkey account doll dolphin cheese juice buzz";
+var mnemonic = "dash gospel dial claim speed surprise outdoor street raccoon install juice knock";

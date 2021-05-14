@@ -1,1 +1,1 @@
-var mnemonic = "moral corn copy where toss culture piano prefer tip acid recall dentist";
+var mnemonic = "engine pioneer egg ginger sadness hair guess rail evil drum topic garlic";

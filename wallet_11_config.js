@@ -1,1 +1,1 @@
-var mnemonic = "joke stand intact illness ivory cool student pigeon effort base tip night";
+var mnemonic = "coconut adapt garage ugly raw total canal trumpet salon image card trouble";

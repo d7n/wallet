@@ -1,1 +1,1 @@
-var mnemonic = "screen market crack tunnel doctor cancel install where curious come clarify control";
+var mnemonic = "smooth label journey vendor label earth honey stem spawn beyond negative have";

@@ -1,1 +1,1 @@
-var mnemonic = "priority uniform smooth silly neutral fruit frog first topic wonder game idea";
+var mnemonic = "never swarm custom under uncover weird rotate sea brisk viable journey lion";

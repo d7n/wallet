@@ -1,1 +1,1 @@
-var mnemonic = "obvious bid clever major milk swamp nuclear cruise beyond used clay faculty";
+var mnemonic = "kite guide enforce require already found donate math cart coffee piece certain";

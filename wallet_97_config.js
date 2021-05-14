@@ -1,1 +1,1 @@
-var mnemonic = "always lonely earn fruit miss tube rough law avocado unable chair subway";
+var mnemonic = "extend circle section parade robust knife cactus first enable dentist tower obscure";

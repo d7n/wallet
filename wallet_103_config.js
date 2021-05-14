@@ -1,1 +1,1 @@
-var mnemonic = "pitch stick kid swing mango garden shift mandate discover virtual trash entire";
+var mnemonic = "floor april toss wreck outdoor fiber vast distance rotate trap equip myth";

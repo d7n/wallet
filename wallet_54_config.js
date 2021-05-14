@@ -1,1 +1,1 @@
-var mnemonic = "vacant project scene gold decade surprise baby until spice flight lunch rather";
+var mnemonic = "offer blue silk oppose mad install friend satoshi scrap bless slab young";

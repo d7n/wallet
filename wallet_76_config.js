@@ -1,1 +1,1 @@
-var mnemonic = "aim exit regular evidence skate page dizzy view office ivory vibrant wash";
+var mnemonic = "glad whale crowd artefact clock submit arrange place acoustic try tennis prepare";

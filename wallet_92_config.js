@@ -1,1 +1,1 @@
-var mnemonic = "news entire section leg verb talent theory beyond accuse luggage before half";
+var mnemonic = "dry kangaroo balance curtain property muscle acquire remain door when soap talk";

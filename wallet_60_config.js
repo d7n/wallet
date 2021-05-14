@@ -1,1 +1,1 @@
-var mnemonic = "vessel style raise rifle bread rose floor grant erosion envelope agent elbow";
+var mnemonic = "foam kangaroo file monster pudding hub brave protect version scissors faith spot";

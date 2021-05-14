@@ -1,1 +1,1 @@
-var mnemonic = "quick medal prison tank candy claim loop blush drop employ upper monster";
+var mnemonic = "cotton shell castle digital like crouch admit hazard joke maximum pupil pupil";

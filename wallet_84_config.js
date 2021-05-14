@@ -1,1 +1,1 @@
-var mnemonic = "board fade inhale satisfy crouch shed physical vehicle name hobby inhale doll";
+var mnemonic = "come fragile dance cruise erase phrase whale royal question inherit stereo forum";

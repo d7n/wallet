@@ -1,1 +1,1 @@
-var mnemonic = "endorse tent orbit urge rally arm rival faith myself patient spice repeat";
+var mnemonic = "addict foot feel tent brown time master captain giggle bless improve mosquito";

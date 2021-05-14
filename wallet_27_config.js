@@ -1,1 +1,1 @@
-var mnemonic = "pledge salute craft crucial cross coconut develop sphere elevator digital dust peanut";
+var mnemonic = "program evidence coin seed math leopard shaft shoe access render mesh language";

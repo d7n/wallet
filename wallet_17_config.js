@@ -1,1 +1,1 @@
-var mnemonic = "attract dinner approve legend bulb swim direct spot okay umbrella farm film";
+var mnemonic = "shallow large child hidden analyst abstract negative square essence exist correct pilot";

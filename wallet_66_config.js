@@ -1,1 +1,1 @@
-var mnemonic = "deputy minimum only perfect swift girl nose entry monster lift lend kit";
+var mnemonic = "rather report amazing skate genuine ocean need manage affair obtain brisk put";

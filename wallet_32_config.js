@@ -1,1 +1,1 @@
-var mnemonic = "heavy crisp airport soap split photo robust pave tide speed hope ensure";
+var mnemonic = "social giraffe crystal supreme student hip bench plug regret minute fringe return";

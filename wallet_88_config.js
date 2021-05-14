@@ -1,1 +1,1 @@
-var mnemonic = "early gossip gravity excess injury maid double mosquito steak monitor athlete gravity";
+var mnemonic = "unlock inner dumb defy sustain knock fiscal over call brain expect vast";

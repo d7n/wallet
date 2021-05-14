@@ -1,1 +1,1 @@
-var mnemonic = "sense extend inflict again fork music chief indoor obtain school volume appear";
+var mnemonic = "world inform burden update anchor jungle decrease prison craft stem crucial eager";

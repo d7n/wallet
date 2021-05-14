@@ -1,1 +1,1 @@
-var mnemonic = "stone poem wear wasp cradle drift suspect boring similar test friend secret";
+var mnemonic = "inhale web raw blush world clever today artefact prosper swift sausage youth";

@@ -1,1 +1,1 @@
-var mnemonic = "south hub kangaroo long title pride chalk hello supreme obvious sing rocket";
+var mnemonic = "ridge forward pilot belt metal physical weather hat visa pipe gas input";

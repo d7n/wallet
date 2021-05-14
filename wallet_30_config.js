@@ -1,1 +1,1 @@
-var mnemonic = "window limit female language radio toy wear leaf prevent black file jar";
+var mnemonic = "abandon dignity mandate pony globe credit sweet save obscure project sudden such";

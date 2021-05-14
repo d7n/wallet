@@ -1,1 +1,1 @@
-var mnemonic = "flash spawn drum grape hidden glove approve gap fiscal skin raise emotion";
+var mnemonic = "borrow harvest spot april suit fine boil record brief hire chuckle later";

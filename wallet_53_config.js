@@ -1,1 +1,1 @@
-var mnemonic = "pull two april post disorder tiny model green seven mosquito normal pumpkin";
+var mnemonic = "measure choose whale fun true supreme chase world embrace praise afraid web";

@@ -1,1 +1,1 @@
-var mnemonic = "weather flush melt token chair play hawk twelve reduce ball misery shuffle";
+var mnemonic = "unlock imitate satisfy spring notable person patient weekend wild slam doctor clay";

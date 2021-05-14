@@ -1,1 +1,1 @@
-var mnemonic = "six duty charge dose donor leopard extend summer finger have desert remember";
+var mnemonic = "angle drop harvest wide session recall paper melt deal jewel option merge";

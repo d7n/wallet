@@ -1,1 +1,1 @@
-var mnemonic = "arrange emerge differ muffin bulk disagree remember record main lottery annual message";
+var mnemonic = "inquiry exotic donor worth piece board sample battle aunt absurd silk very";

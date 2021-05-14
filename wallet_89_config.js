@@ -1,1 +1,1 @@
-var mnemonic = "antique hold bid cool unable away green media raw private fragile almost";
+var mnemonic = "view forum despair riot doctor birth prosper bicycle mutual embark meat giraffe";

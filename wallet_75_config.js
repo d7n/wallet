@@ -1,1 +1,1 @@
-var mnemonic = "depth art shield shallow figure cake shaft green drift sponsor govern pig";
+var mnemonic = "stereo country spoon weapon egg reveal disagree sight marriage science name estate";

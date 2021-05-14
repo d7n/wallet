@@ -1,1 +1,1 @@
-var mnemonic = "palm critic badge wire model security ignore zebra pull pulse pulse rotate";
+var mnemonic = "large giggle various tone hundred dinner cluster indicate monkey silent rookie shock";

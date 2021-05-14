@@ -1,1 +1,1 @@
-var mnemonic = "blast depend indoor organ claw goddess chalk attend give usual veteran album";
+var mnemonic = "phone purity clean switch coyote flag nature explain sniff shine crew stuff";

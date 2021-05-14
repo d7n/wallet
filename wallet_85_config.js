@@ -1,1 +1,1 @@
-var mnemonic = "nature remove blast soup barrel hat script hint cradle people spring unit";
+var mnemonic = "visual olive tip hair miracle muffin cave craft car example riot toward";

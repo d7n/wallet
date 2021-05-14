@@ -1,1 +1,1 @@
-var mnemonic = "office pave admit agree oblige sheriff stock cable artwork lounge element awkward";
+var mnemonic = "nature artist negative fossil funny arrange cruise grab achieve hour notable viable";

@@ -1,1 +1,1 @@
-var mnemonic = "market resource scare consider attitude elite upon spice safe arch orient soldier";
+var mnemonic = "upgrade connect basic draft nation flock mix label tail unable prefer elite";

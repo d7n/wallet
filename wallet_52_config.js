@@ -1,1 +1,1 @@
-var mnemonic = "cave woman response mountain athlete come myself vault write effort exile naive";
+var mnemonic = "sauce digital drive first visual laptop believe ensure amused denial runway visa";

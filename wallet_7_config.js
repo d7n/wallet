@@ -1,1 +1,1 @@
-var mnemonic = "crumble stool pencil album high gadget nest blush focus midnight vanish polar";
+var mnemonic = "split stuff reason any maze helmet scene journey very truth slide current";

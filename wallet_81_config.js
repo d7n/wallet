@@ -1,1 +1,1 @@
-var mnemonic = "curve finish atom useless powder jeans spare chair tissue such smooth winner";
+var mnemonic = "nose engage sort pencil finger teach quick method job material wing coil";

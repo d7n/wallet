@@ -1,1 +1,1 @@
-var mnemonic = "staff debris frozen gallery cube void weather outside victory expect solar insect";
+var mnemonic = "brave aerobic level flavor armor tunnel icon dilemma logic rubber student tone";

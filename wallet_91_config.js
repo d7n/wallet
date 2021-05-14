@@ -1,1 +1,1 @@
-var mnemonic = "wage priority hold grid sorry busy vague depart program august slight shift";
+var mnemonic = "earth weapon clown initial jazz upon energy siege extra long rebel faint";

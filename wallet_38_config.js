@@ -1,1 +1,1 @@
-var mnemonic = "fortune assist blood give poverty area farm gasp bind fashion leaf ability";
+var mnemonic = "strong goddess sweet twelve truth chef smoke echo mercy volcano pond tip";

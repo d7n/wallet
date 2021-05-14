@@ -1,1 +1,1 @@
-var mnemonic = "bonus rail uniform wrestle oak february zebra library oyster soldier square cost";
+var mnemonic = "surge scout glare love forward furnace guitar ginger dove mammal hamster area";

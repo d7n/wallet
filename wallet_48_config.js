@@ -1,1 +1,1 @@
-var mnemonic = "chat kidney truck amount door blue monster patrol festival daring rather ability";
+var mnemonic = "decade whisper scrap walnut social empty reform space sun enhance crash language";

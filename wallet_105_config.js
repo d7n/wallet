@@ -1,1 +1,1 @@
-var mnemonic = "cart trim typical increase special accident topple fever egg fruit release rude";
+var mnemonic = "cycle flag estate decade pepper someone cruise chuckle menu silly initial file";

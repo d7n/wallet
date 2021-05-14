@@ -1,1 +1,1 @@
-var mnemonic = "convince wire try cushion edge fat chuckle mind wealth aim zoo text";
+var mnemonic = "vacant various end south noise auction now since brisk tray damage crime";

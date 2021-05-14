@@ -1,1 +1,1 @@
-var mnemonic = "visa valley warfare wrap task disorder grace keep wealth village life decline";
+var mnemonic = "talent together mutual almost achieve slow churn embrace broken keep segment comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "banana fame fatigue acoustic food clever crazy hidden door reflect neglect solid";
+var mnemonic = "gadget cat book describe twelve insane spike rebuild famous segment trumpet frown";

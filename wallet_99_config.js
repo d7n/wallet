@@ -1,1 +1,1 @@
-var mnemonic = "worry differ song fuel exile diesel reunion prize high blur mix giraffe";
+var mnemonic = "right brain salon garden spatial art ocean bonus quality audit slogan bench";

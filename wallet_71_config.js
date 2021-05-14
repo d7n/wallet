@@ -1,1 +1,1 @@
-var mnemonic = "tortoise task under trumpet lobster bacon limit fat avocado blame online season";
+var mnemonic = "estate please solar visa cannon afford enact amount stool pulp ketchup oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "man ketchup family excuse miss season into ring stool timber hello arrange";
+var mnemonic = "sugar donkey entire refuse vivid solution bullet burst shrug alpha exhibit outside";

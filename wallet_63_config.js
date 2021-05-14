@@ -1,1 +1,1 @@
-var mnemonic = "target cactus charge end tunnel call ripple air wedding emerge case secret";
+var mnemonic = "duck merge cart effort decline scrub ski amused flag during program paper";

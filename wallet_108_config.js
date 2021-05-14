@@ -1,1 +1,1 @@
-var mnemonic = "swap circle educate squeeze erode reduce brother bird teach truth hundred beyond";
+var mnemonic = "foster knee resist fabric protect unfold empty cycle rifle dune mother defense";

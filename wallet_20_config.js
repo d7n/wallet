@@ -1,1 +1,1 @@
-var mnemonic = "nasty art mother one climb pelican jeans code material return merge sister";
+var mnemonic = "maple jealous stay member minimum protect scout escape chair sketch rigid point";

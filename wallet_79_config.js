@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur museum gaze milk hello creek wool mother essence zebra elegant popular";
+var mnemonic = "mango skull column soon owner shove pond whisper wealth industry guide kidney";

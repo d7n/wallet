@@ -1,1 +1,1 @@
-var mnemonic = "village mesh waste current tackle build figure cream pond nephew citizen movie";
+var mnemonic = "pair spot accuse planet rude buddy victory attend title legend local ceiling";

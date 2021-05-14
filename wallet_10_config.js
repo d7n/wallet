@@ -1,1 +1,1 @@
-var mnemonic = "soap shy winner bottom recipe oil duty marble finger kid inquiry stuff";
+var mnemonic = "claw fame diagram enhance affair network common evoke arm chapter bargain melt";

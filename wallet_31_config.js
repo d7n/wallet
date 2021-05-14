@@ -1,1 +1,1 @@
-var mnemonic = "pill great indicate nominee topple fury file blood hint scheme gravity ill";
+var mnemonic = "claim general express monster safe maple stuff then wall fix coach balcony";

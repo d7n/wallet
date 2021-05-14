@@ -1,1 +1,1 @@
-var mnemonic = "napkin account village net cross health grunt update hint gate fiscal garage";
+var mnemonic = "junk pole derive craft improve post safe museum term one absent erode";

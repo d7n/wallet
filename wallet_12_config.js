@@ -1,1 +1,1 @@
-var mnemonic = "escape swing siren rather silver despair leisure pony modify monster firm modify";
+var mnemonic = "organ chair cute canoe whisper kitchen punch jar junior swing say photo";

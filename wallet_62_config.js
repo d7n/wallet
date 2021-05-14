@@ -1,1 +1,1 @@
-var mnemonic = "below tag echo ride pretty bulk poem purse panther item silk bronze";
+var mnemonic = "patch steel blush lazy assault board seven goat torch pencil engage slight";

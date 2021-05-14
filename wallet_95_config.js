@@ -1,1 +1,1 @@
-var mnemonic = "wish interest ten deny lawsuit gather pelican start refuse hip daring key";
+var mnemonic = "impact skull rapid report sick comfort tooth general album winter sport phone";

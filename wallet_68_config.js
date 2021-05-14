@@ -1,1 +1,1 @@
-var mnemonic = "deputy away final hotel goat engage habit climb unfold stairs invest balance";
+var mnemonic = "retire brown ensure envelope outer olympic become fatigue sibling polar disagree myth";

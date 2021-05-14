@@ -1,1 +1,1 @@
-var mnemonic = "match arrange slide result same arrest under divide neutral broccoli prefer trash";
+var mnemonic = "shell verify group steak noise tennis prepare wave become exact doctor initial";

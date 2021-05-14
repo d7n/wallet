@@ -1,1 +1,1 @@
-var mnemonic = "sing nut valid help upset candy dash remember priority print another weekend";
+var mnemonic = "cash relief alarm capital series repair intact case simple account rival phone";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer summer offer inhale appear drink voice write still biology sunset exhibit";
+var mnemonic = "clock puzzle amateur category armor soccer column medal grid business warrior beauty";

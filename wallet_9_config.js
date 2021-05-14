@@ -1,1 +1,1 @@
-var mnemonic = "shield sight motor wing critic girl garlic shrug card identify other celery";
+var mnemonic = "mercy orphan actor visa snake skin afford govern fury idle better type";

@@ -1,1 +1,1 @@
-var mnemonic = "snake stuff subject fitness extra gesture number diagram quote acquire humble road";
+var mnemonic = "trash blade impact lazy enable oblige focus sign because estate curtain delay";

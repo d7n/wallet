@@ -1,1 +1,1 @@
-var mnemonic = "trumpet position host believe kick great gun embody rain poet split online";
+var mnemonic = "because penalty hurry quiz ancient foot dust barely like soon eye sing";

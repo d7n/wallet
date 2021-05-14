@@ -1,1 +1,1 @@
-var mnemonic = "impact finger shove antenna winter teach rhythm nuclear question liar session divide";
+var mnemonic = "one thought fly useful staff absurd board speed barely member atom worth";

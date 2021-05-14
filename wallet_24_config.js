@@ -1,1 +1,1 @@
-var mnemonic = "ill unfold have grain aunt wash time cupboard oxygen wire cake index";
+var mnemonic = "disagree shrug program spirit observe student voyage dinosaur kiss fall chronic news";

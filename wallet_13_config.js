@@ -1,1 +1,1 @@
-var mnemonic = "depart normal pride palace invite initial method earn either street dune brown";
+var mnemonic = "coast upgrade clog side sound another tornado legend cousin win half release";

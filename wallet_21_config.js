@@ -1,1 +1,1 @@
-var mnemonic = "main cute observe lab narrow post cycle noble tiger carbon ill decline";
+var mnemonic = "rival night exclude govern pyramid duty night rich device stuff ability jewel";
