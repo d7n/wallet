@@ -1,1 +1,1 @@
-var mnemonic = "kind toss trophy thought globe title time hood sting second tooth return";
+var mnemonic = "message nuclear knock midnight peasant spice oval tennis private scorpion coyote index";

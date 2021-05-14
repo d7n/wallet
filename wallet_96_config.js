@@ -1,1 +1,1 @@
-var mnemonic = "exclude arrest window chef source mimic doll mad athlete quarter change moon";
+var mnemonic = "lizard elite angle mammal message clever silver peace slim pen discover vendor";

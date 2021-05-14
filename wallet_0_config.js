@@ -1,1 +1,1 @@
-var mnemonic = "inflict tiny again dress curtain interest pause empty help bus icon dumb";
+var mnemonic = "organ myself raise imitate file audit access sense shallow dash tiny admit";

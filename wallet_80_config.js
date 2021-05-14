@@ -1,1 +1,1 @@
-var mnemonic = "discover family skate pretty cat idea brave faculty across sail matter stumble";
+var mnemonic = "cruise response kite topple holiday guide unique young divorce chaos what matrix";

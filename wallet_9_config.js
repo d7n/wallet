@@ -1,1 +1,1 @@
-var mnemonic = "dove also rate state frequent zone dinosaur copy advance session very gun";
+var mnemonic = "edge guitar unaware find fold sort symbol runway credit either accident pass";

@@ -1,1 +1,1 @@
-var mnemonic = "punch balcony fault argue paddle attract demand dilemma bulb tornado health unknown";
+var mnemonic = "flavor shallow exchange elephant road engage enrich hurt feel palace lizard virtual";

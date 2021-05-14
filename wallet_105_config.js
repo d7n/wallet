@@ -1,1 +1,1 @@
-var mnemonic = "together champion shop brisk decline myself into tell black buddy better dizzy";
+var mnemonic = "drive paddle forum camera laugh shove close brush bounce security reopen dream";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree music express caught pull two duty dance damp word title success";
+var mnemonic = "bulk address furnace explain vote idea pulp account carpet fix night canoe";

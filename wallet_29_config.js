@@ -1,1 +1,1 @@
-var mnemonic = "whisper captain ritual glass hip police wealth social poet enjoy duck build";
+var mnemonic = "gesture vacuum occur leader sport cannon vapor light guide found one palace";

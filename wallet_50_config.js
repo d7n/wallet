@@ -1,1 +1,1 @@
-var mnemonic = "reward begin deliver timber list then river fly degree trigger eager attack";
+var mnemonic = "couple oxygen unlock else coral home frown marble gospel filter friend roast";

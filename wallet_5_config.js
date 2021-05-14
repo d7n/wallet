@@ -1,1 +1,1 @@
-var mnemonic = "spoon best start route token wheat immense state link dismiss clarify execute";
+var mnemonic = "govern siren absurd inhale damp raccoon lesson fiction auto trick palace access";

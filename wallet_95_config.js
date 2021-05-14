@@ -1,1 +1,1 @@
-var mnemonic = "upgrade leaf affair method humble truth gain nominee obtain warrior sustain afraid";
+var mnemonic = "ghost heart record swap silk pen bracket shift right arena people wise";

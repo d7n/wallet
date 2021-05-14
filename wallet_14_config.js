@@ -1,1 +1,1 @@
-var mnemonic = "whale pluck divert arctic party orange attitude settle fuel bless limb once";
+var mnemonic = "panda midnight drastic object camp minimum avoid mosquito father island merge original";

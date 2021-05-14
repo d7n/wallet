@@ -1,1 +1,1 @@
-var mnemonic = "canal stable ripple unknown able govern wheat step afraid foot relief order";
+var mnemonic = "void entry neutral dizzy settle settle during siren carbon fix inch noise";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran soon blind wedding cute actual label average quick want visa valley";
+var mnemonic = "increase welcome retreat family inner surround gesture select grunt guitar city outdoor";

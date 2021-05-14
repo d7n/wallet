@@ -1,1 +1,1 @@
-var mnemonic = "swamp have order reduce gadget few ordinary broom food catalog such forward";
+var mnemonic = "amazing bargain foil shuffle inch primary garage decide crash hair crack avocado";

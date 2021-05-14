@@ -1,1 +1,1 @@
-var mnemonic = "jewel soap magic fork great attitude path style hole believe buddy cash";
+var mnemonic = "soon gather area cupboard exhaust solve swing normal multiply crumble pelican team";

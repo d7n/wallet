@@ -1,1 +1,1 @@
-var mnemonic = "top cloud notable merry nuclear armed slim carry camp gate drastic you";
+var mnemonic = "bamboo frame episode local always digital myth glass wear grid race ritual";

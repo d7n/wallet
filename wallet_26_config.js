@@ -1,1 +1,1 @@
-var mnemonic = "spray thank current surface jacket camera dove tank citizen manage that income";
+var mnemonic = "odor intact demand liberty bridge shoe youth spin volcano fruit release adult";

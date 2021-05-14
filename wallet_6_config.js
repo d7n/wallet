@@ -1,1 +1,1 @@
-var mnemonic = "awake turtle return absent rate laugh quick enact tumble stable alarm cool";
+var mnemonic = "aim local letter alley toe walnut culture oven general aspect waste pupil";

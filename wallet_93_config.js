@@ -1,1 +1,1 @@
-var mnemonic = "cattle tip mask stock crowd harvest climb suspect shine crumble slice welcome";
+var mnemonic = "gaze adjust retire cactus antenna palm panel curtain math forward twenty plug";

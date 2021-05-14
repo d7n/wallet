@@ -1,1 +1,1 @@
-var mnemonic = "raven chronic hybrid cupboard course muffin chase unfair find thing memory spike";
+var mnemonic = "scissors hawk old quarter shoe staff warfare surround scare network south donor";

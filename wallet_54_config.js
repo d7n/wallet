@@ -1,1 +1,1 @@
-var mnemonic = "cry prepare you wet margin crisp exit material marine speak garage tip";
+var mnemonic = "whale good goat success alter diary empty erupt run wine cluster cover";

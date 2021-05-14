@@ -1,1 +1,1 @@
-var mnemonic = "design lemon east advice toddler bubble elbow divert mistake gravity tragic half";
+var mnemonic = "edge hungry mix until shy question warfare noise menu involve state flip";

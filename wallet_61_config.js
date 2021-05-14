@@ -1,1 +1,1 @@
-var mnemonic = "castle dutch blouse street blue rookie will office happy bring jeans learn";
+var mnemonic = "vital swing tribe whisper enact chalk program solid exit such critic useful";

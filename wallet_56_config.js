@@ -1,1 +1,1 @@
-var mnemonic = "fat situate image depth myth tunnel color visa erosion enemy assist lava";
+var mnemonic = "company require sugar cluster patient gloom push ethics display wild month comic";

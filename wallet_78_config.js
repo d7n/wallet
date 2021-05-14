@@ -1,1 +1,1 @@
-var mnemonic = "degree narrow outdoor evil decide energy cart segment announce confirm gorilla frost";
+var mnemonic = "often snap issue repeat vapor today antique rib iron lounge clean that";

@@ -1,1 +1,1 @@
-var mnemonic = "rich illegal fetch tag rather real intact alien exile layer trap submit";
+var mnemonic = "party slogan allow child hockey business trigger conduct will onion grace special";

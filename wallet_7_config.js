@@ -1,1 +1,1 @@
-var mnemonic = "wool slice seminar shrug adult equip raise gym answer pigeon slide under";
+var mnemonic = "prison turkey rail nut like seek toe crouch rude finish blur learn";

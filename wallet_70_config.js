@@ -1,1 +1,1 @@
-var mnemonic = "render sword office immense garlic ignore festival book ill soccer pony gate";
+var mnemonic = "olive matter affair satoshi barrel oyster merge win dust road royal artwork";

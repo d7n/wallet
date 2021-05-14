@@ -1,1 +1,1 @@
-var mnemonic = "hotel divorce swift clip voyage little crazy version about fetch perfect silver";
+var mnemonic = "pulp parent page jealous interest cactus upon next disagree club indoor record";

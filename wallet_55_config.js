@@ -1,1 +1,1 @@
-var mnemonic = "pudding twin delay reduce always cycle patient zone recycle comic good jaguar";
+var mnemonic = "life piano daughter grab shy possible organ moon lend penalty parrot cigar";

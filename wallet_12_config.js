@@ -1,1 +1,1 @@
-var mnemonic = "increase tomato alert copper decorate twenty modify job guard business bone laundry";
+var mnemonic = "edit name exhaust gasp acoustic loud tobacco scrap visit twist slab bean";

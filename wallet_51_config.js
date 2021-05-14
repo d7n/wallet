@@ -1,1 +1,1 @@
-var mnemonic = "improve input album number desert bless awful double skull diagram solve garment";
+var mnemonic = "coast rent mesh pupil badge clever room thrive sauce prefer orange property";

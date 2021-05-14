@@ -1,1 +1,1 @@
-var mnemonic = "cluster tenant fantasy pony quality near drive vacant venue strategy game rotate";
+var mnemonic = "plug stock mandate trouble call where gain valley forget tired sister cloth";

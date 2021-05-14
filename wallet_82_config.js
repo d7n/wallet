@@ -1,1 +1,1 @@
-var mnemonic = "skill wedding vacuum oblige saddle recall angry expand measure direct father mean";
+var mnemonic = "image tag scissors rug flame cigar picnic gossip smooth leg reject flavor";

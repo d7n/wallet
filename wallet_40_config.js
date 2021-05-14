@@ -1,1 +1,1 @@
-var mnemonic = "manage casino uncover glove access service tone stage jar pill ecology meat";
+var mnemonic = "lyrics panda hat mechanic add news fringe cancel diamond group spirit panic";

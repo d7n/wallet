@@ -1,1 +1,1 @@
-var mnemonic = "fame weekend panther bench midnight false honey custom solid relief conduct repair";
+var mnemonic = "sketch rice bullet chicken owner trade elephant craft van laugh series crop";

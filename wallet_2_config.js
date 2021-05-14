@@ -1,1 +1,1 @@
-var mnemonic = "salmon effort will tumble team area black bright raccoon good cushion antenna";
+var mnemonic = "defense digital cereal sight depart afraid opinion jump trouble dentist tooth myself";

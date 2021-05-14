@@ -1,1 +1,1 @@
-var mnemonic = "access churn wheel pen blind square river fitness door predict away olive";
+var mnemonic = "seed rookie know tent extend dune vibrant identify chaos orphan wrong choice";

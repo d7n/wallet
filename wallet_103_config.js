@@ -1,1 +1,1 @@
-var mnemonic = "enhance grocery suspect female input thrive echo equip require mask torch december";
+var mnemonic = "begin wool cat leader tent smooth speak vacant broom maximum donate buffalo";

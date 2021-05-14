@@ -1,1 +1,1 @@
-var mnemonic = "very wreck culture fatigue armor angry brief chapter interest narrow salon current";
+var mnemonic = "horn gossip toilet athlete term couch resource bright agent frame cotton castle";

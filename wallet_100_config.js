@@ -1,1 +1,1 @@
-var mnemonic = "know wood student slice dumb cereal stock student vendor annual also enforce";
+var mnemonic = "kitchen endorse gun smile grain pumpkin grant then tackle quality face basic";

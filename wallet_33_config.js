@@ -1,1 +1,1 @@
-var mnemonic = "town shallow effort put inspire neither radio oval give flame circle market";
+var mnemonic = "enlist comfort doctor stamp sun estate tobacco clutch midnight night note spatial";

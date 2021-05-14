@@ -1,1 +1,1 @@
-var mnemonic = "cup next mirror venture woman brisk come exercise border author symptom mystery";
+var mnemonic = "tank black craft jump element cement panther alien dwarf year wash enable";

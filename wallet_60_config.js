@@ -1,1 +1,1 @@
-var mnemonic = "cause scheme govern acoustic bean under retreat pool sister group camp initial";
+var mnemonic = "abuse unable analyst alley angle just slogan two amused broom dirt spell";

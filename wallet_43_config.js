@@ -1,1 +1,1 @@
-var mnemonic = "truck fragile lava suit problem between pupil monkey silver pottery three filter";
+var mnemonic = "pact leader brush differ twenty dove legend unhappy wine bridge enrich nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "sock syrup regular subway shed alcohol exit absent draw must junior choose";
+var mnemonic = "caught spoil siege dumb claw enforce such unveil devote fall rapid goose";

@@ -1,1 +1,1 @@
-var mnemonic = "venture deer save slender taxi antique pause chimney twin subway glow midnight";
+var mnemonic = "ten practice clean narrow motor rocket lunar rifle master assist biology admit";

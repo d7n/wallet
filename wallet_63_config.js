@@ -1,1 +1,1 @@
-var mnemonic = "section caught initial warfare luggage squirrel absent ahead cradle artist elegant join";
+var mnemonic = "barely blanket average domain honey sign actual lobster crack aim party oil";

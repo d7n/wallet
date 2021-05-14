@@ -1,1 +1,1 @@
-var mnemonic = "wall error account grow twin stamp ozone civil equal violin tumble garden";
+var mnemonic = "object input alien pole frog female evoke subway glide clarify borrow hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "visit syrup organ try moral wolf all ahead release good north prepare";
+var mnemonic = "humor balcony master room invite magnet dirt youth chimney obvious industry cart";

@@ -1,1 +1,1 @@
-var mnemonic = "two number use nose planet glove name runway crazy save dress shoe";
+var mnemonic = "sleep daring explain shadow tape piano stove affair relax monitor puzzle fade";

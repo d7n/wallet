@@ -1,1 +1,1 @@
-var mnemonic = "dry practice road jungle armor grant page trip later source joy opinion";
+var mnemonic = "dismiss dolphin strategy major extend print clump snap mercy delay erupt accident";

@@ -1,1 +1,1 @@
-var mnemonic = "air laptop parent glance merry spider report matrix sibling endless put blossom";
+var mnemonic = "net kick notice shoot census menu put limb scare accident defy canoe";

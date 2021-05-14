@@ -1,1 +1,1 @@
-var mnemonic = "space reflect twin bottom praise connect target foam stable asthma vacuum lizard";
+var mnemonic = "cupboard time board throw buddy lunar erupt diary run evil metal inmate";

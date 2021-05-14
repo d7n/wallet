@@ -1,1 +1,1 @@
-var mnemonic = "focus hurt screen ghost secret fish material hello gate strategy valley bean";
+var mnemonic = "blood cushion budget media torch chuckle garage enroll match portion shock decorate";

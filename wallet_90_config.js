@@ -1,1 +1,1 @@
-var mnemonic = "soap legend hundred minor chronic below safe spice steak sail voyage income";
+var mnemonic = "rebel gentle trim nerve antique excite brief vital swap lava leopard ready";

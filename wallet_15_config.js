@@ -1,1 +1,1 @@
-var mnemonic = "thing online label ticket state master tonight sell cruise bread cover finish";
+var mnemonic = "convince cute cancel coconut goose patrol addict cherry metal drink win hand";

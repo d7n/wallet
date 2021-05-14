@@ -1,1 +1,1 @@
-var mnemonic = "verify purpose biology remember evoke soap clip canyon virtual wrist young oil";
+var mnemonic = "coral west govern chef border level globe accuse tiny scene nose disease";

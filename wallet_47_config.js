@@ -1,1 +1,1 @@
-var mnemonic = "firm tired gain private expose cousin wheat exhaust caught pill box minor";
+var mnemonic = "still trend elephant ceiling zero item spring basket wage repeat cost tilt";

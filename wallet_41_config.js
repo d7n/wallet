@@ -1,1 +1,1 @@
-var mnemonic = "script cross else leaf citizen fresh clerk divorce remain hedgehog silly spot";
+var mnemonic = "confirm beef swim alarm live vessel fruit fence brother panel dance next";

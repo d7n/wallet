@@ -1,1 +1,1 @@
-var mnemonic = "any town modify oak disorder wet lava female escape comic oval tourist";
+var mnemonic = "sugar question nose acoustic double frog flag ten layer honey element reveal";

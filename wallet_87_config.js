@@ -1,1 +1,1 @@
-var mnemonic = "adapt rubber floor cross frown loop panther what trap teach card ordinary";
+var mnemonic = "trap panel essence fox divide skill seven hobby regret person uniform confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "just hawk metal tower rent urge bottom cluster brush habit debris gym";
+var mnemonic = "umbrella mail dismiss asthma someone soccer decide letter post leader remove hello";

@@ -1,1 +1,1 @@
-var mnemonic = "industry obey delay weird change wheat cruise betray pistol brand taste elder";
+var mnemonic = "actress damp choose raw zero live detect invest today dizzy person hero";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb judge want race abuse head purpose pipe vital blanket creek jungle";
+var mnemonic = "object order dry illegal plug bicycle erupt task embody just abandon home";

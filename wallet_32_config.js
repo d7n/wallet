@@ -1,1 +1,1 @@
-var mnemonic = "mixed panda story town proud sock book tell damage super gaze author";
+var mnemonic = "tattoo extra sing giggle video various control humor someone scout atom above";

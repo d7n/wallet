@@ -1,1 +1,1 @@
-var mnemonic = "fault unusual crime high solve faith power avocado link alert assault dial";
+var mnemonic = "essay cancel naive retreat quote light chronic few leg task half open";

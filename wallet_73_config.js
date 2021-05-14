@@ -1,1 +1,1 @@
-var mnemonic = "chief rookie woman ahead glad patient cattle wheat upset gasp february surge";
+var mnemonic = "please hen occur key damp bridge dove kit indicate zero flavor curve";

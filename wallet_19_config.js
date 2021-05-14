@@ -1,1 +1,1 @@
-var mnemonic = "cream wear torch hair monster tail hole noodle broken clerk pull submit";
+var mnemonic = "pass omit print sport mad cattle knock digital segment social symptom prevent";

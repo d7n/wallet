@@ -1,1 +1,1 @@
-var mnemonic = "liquid option knee girl latin animal ozone anchor wage pipe rather toast";
+var mnemonic = "net portion warrior observe crush tennis asthma taxi shop bomb obtain mixed";

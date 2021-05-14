@@ -1,1 +1,1 @@
-var mnemonic = "inquiry guilt fault globe educate film blue despair clip across lizard near";
+var mnemonic = "tube slush thunder whisper beauty twelve unique always polar donor plug congress";

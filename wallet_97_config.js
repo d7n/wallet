@@ -1,1 +1,1 @@
-var mnemonic = "point bench tent until lend harsh bless sea come spoon room coral";
+var mnemonic = "sustain gown artist situate warfare pelican tunnel pluck primary holiday stock shock";

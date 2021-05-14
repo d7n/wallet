@@ -1,1 +1,1 @@
-var mnemonic = "surface coconut wash average tube glory case someone medal era truck ginger";
+var mnemonic = "bridge power broom question fit fiscal copy ramp chapter analyst pumpkin voice";

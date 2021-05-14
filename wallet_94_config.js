@@ -1,1 +1,1 @@
-var mnemonic = "weather cute shy treat regular honey dance pulp trash tackle behind sunset";
+var mnemonic = "exercise high under museum valley cream hollow excess calm border oyster cloud";

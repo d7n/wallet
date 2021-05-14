@@ -1,1 +1,1 @@
-var mnemonic = "apple pencil prosper rare lonely surface almost suspect same trophy swarm flash";
+var mnemonic = "sound ball tragic never ski rent exit loud more joke perfect purse";

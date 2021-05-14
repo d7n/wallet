@@ -1,1 +1,1 @@
-var mnemonic = "ethics gadget must erosion monster network volume guard baby bless sword pigeon";
+var mnemonic = "setup phone cinnamon army scissors vibrant picnic december hockey culture answer arrest";

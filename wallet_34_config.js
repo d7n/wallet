@@ -1,1 +1,1 @@
-var mnemonic = "monitor dolphin glimpse balcony weekend orange leaf speak smile toward loan toe";
+var mnemonic = "thunder wage myself welcome easy rally idea recipe vicious episode permit motion";

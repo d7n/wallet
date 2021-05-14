@@ -1,1 +1,1 @@
-var mnemonic = "violin accident web bullet patch suffer mixed caught budget black plastic example";
+var mnemonic = "install toy mind tourist argue clutch indicate sibling calm category across spoon";

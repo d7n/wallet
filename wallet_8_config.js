@@ -1,1 +1,1 @@
-var mnemonic = "stairs profit come false visa walnut comfort plug meat olive bunker orient";
+var mnemonic = "machine all auto eye aware candy obscure mimic enable fatigue marriage iron";

@@ -1,1 +1,1 @@
-var mnemonic = "permit west maze genius across note poverty relief loan smooth zoo exotic";
+var mnemonic = "wing analyst run spatial ethics water stock bird wheel galaxy tourist book";

@@ -1,1 +1,1 @@
-var mnemonic = "horn cheap hamster yellow faint plastic sentence there warfare online become small";
+var mnemonic = "oyster raccoon frozen race demise broken hold phrase episode purpose cancel relax";

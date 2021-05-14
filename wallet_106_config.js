@@ -1,1 +1,1 @@
-var mnemonic = "what story swing concert bronze faint energy rude gain sail hidden soda";
+var mnemonic = "leaf rapid imitate basket erase income artefact unfair wish census million boat";

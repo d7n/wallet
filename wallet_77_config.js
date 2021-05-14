@@ -1,1 +1,1 @@
-var mnemonic = "summer doll jump accident animal hawk attract dad leaf casual teach game";
+var mnemonic = "cabbage museum rabbit term pluck hero cereal laptop case trip goose garden";

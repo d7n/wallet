@@ -1,1 +1,1 @@
-var mnemonic = "energy soup steel argue mail bonus major sort general erosion heavy bitter";
+var mnemonic = "exchange entry chaos envelope mesh virtual utility soft cable school parent gadget";

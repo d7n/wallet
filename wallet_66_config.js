@@ -1,1 +1,1 @@
-var mnemonic = "glass banana chapter dwarf rack mushroom lawn virus plunge match annual initial";
+var mnemonic = "elephant mixed arrange abandon burden ketchup polar quality raw shuffle crucial early";

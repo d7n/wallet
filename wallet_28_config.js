@@ -1,1 +1,1 @@
-var mnemonic = "buddy say dry foot twin setup approve merit waste lumber betray pact";
+var mnemonic = "bundle own dinner diagram other primary joke mirror explain amateur casual flat";

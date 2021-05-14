@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog rose security net order drama museum wash position employ pledge right";
+var mnemonic = "soft rude mean sweet quiz over volcano accident park chaos vessel brick";

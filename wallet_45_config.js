@@ -1,1 +1,1 @@
-var mnemonic = "defense material unlock coach survey focus wait border meadow odor diet hour";
+var mnemonic = "foil luggage wonder upper inhale popular rabbit napkin kiwi quiz scare purse";

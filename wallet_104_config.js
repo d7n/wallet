@@ -1,1 +1,1 @@
-var mnemonic = "noble jealous nose insane agent ranch learn margin alien awkward extra cactus";
+var mnemonic = "fuel luxury bacon mad race column twice grape shuffle target dirt soon";

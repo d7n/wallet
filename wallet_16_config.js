@@ -1,1 +1,1 @@
-var mnemonic = "rival antique credit robot model whisper remove disagree resist rate entire peasant";
+var mnemonic = "exist elephant culture surge canyon peace public artist crush witness divert share";
