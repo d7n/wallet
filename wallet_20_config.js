@@ -1,1 +1,1 @@
-var mnemonic = "maze worry hunt bomb island indoor copper cement gasp truth daughter absurd";
+var mnemonic = "tiger east one gentle survey unable corn car degree eight destroy blossom";

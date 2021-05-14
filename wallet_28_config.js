@@ -1,1 +1,1 @@
-var mnemonic = "still van impulse salt wish motor again toe abstract tail debris stem";
+var mnemonic = "confirm coffee ghost easy because salon crater wash aerobic category neutral beach";

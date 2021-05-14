@@ -1,1 +1,1 @@
-var mnemonic = "gorilla stomach essay infant guard choose hat october fork pitch mention mosquito";
+var mnemonic = "film guitar soon because trip wait edge vapor jelly dinosaur reveal universe";

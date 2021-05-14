@@ -1,1 +1,1 @@
-var mnemonic = "upper afraid gas broccoli select source pottery evolve economy smart amused rib";
+var mnemonic = "father faculty damage music weather arctic option six promote awake shiver butter";

@@ -1,1 +1,1 @@
-var mnemonic = "above sting stay web flavor screen mimic account wreck kangaroo cotton slender";
+var mnemonic = "make beauty replace flee celery monster door toward loop beauty panther pelican";

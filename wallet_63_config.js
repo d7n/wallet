@@ -1,1 +1,1 @@
-var mnemonic = "guilt either rotate ocean speak add human pride happy remain lecture join";
+var mnemonic = "ball tilt clock outdoor dance frown village arm shift senior seed flower";

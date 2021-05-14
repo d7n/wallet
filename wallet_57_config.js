@@ -1,1 +1,1 @@
-var mnemonic = "gesture improve dance market execute annual other spell twenty satoshi throw impact";
+var mnemonic = "inflict party real canvas mimic long hip very join disagree weasel valve";

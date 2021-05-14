@@ -1,1 +1,1 @@
-var mnemonic = "tobacco vanish garden soap speed axis shiver atom liar pull laptop divide";
+var mnemonic = "crane catalog category can wild shiver engine split velvet hamster path blossom";

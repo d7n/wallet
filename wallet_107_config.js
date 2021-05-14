@@ -1,1 +1,1 @@
-var mnemonic = "double text inject unknown quantum foam path century birth monitor shell border";
+var mnemonic = "swim region critic file twist effort trick frozen across strong where genre";

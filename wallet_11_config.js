@@ -1,1 +1,1 @@
-var mnemonic = "skin mask moral notice lunch virus drip chat absorb neither monkey oil";
+var mnemonic = "surge slab lend drink gaze wink gloom captain sustain wood giraffe depend";

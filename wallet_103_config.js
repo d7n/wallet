@@ -1,1 +1,1 @@
-var mnemonic = "autumn blush bottom casual avoid that plunge frost purity wire mimic fork";
+var mnemonic = "slim rate mechanic middle patient unable siren crazy athlete pass rubber parrot";

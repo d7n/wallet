@@ -1,1 +1,1 @@
-var mnemonic = "hat ribbon science pyramid dish cave proud steak minute cherry ugly piece";
+var mnemonic = "flower observe problem frog venue improve text oil square call sister scout";

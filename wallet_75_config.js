@@ -1,1 +1,1 @@
-var mnemonic = "stone park left current confirm scatter notice private shoe spot unfair top";
+var mnemonic = "draft rabbit orbit nerve couch limit armor child pave romance know ugly";

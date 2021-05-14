@@ -1,1 +1,1 @@
-var mnemonic = "raise smile health odor physical mountain dilemma mandate junk kid pink type";
+var mnemonic = "buffalo any average mom vivid top health rival rib skirt uncover nice";

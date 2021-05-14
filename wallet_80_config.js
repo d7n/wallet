@@ -1,1 +1,1 @@
-var mnemonic = "attract twice glass excuse tribe grass wave interest october choice hint leisure";
+var mnemonic = "clean tenant expect napkin push valve mountain flat require sentence oak bind";

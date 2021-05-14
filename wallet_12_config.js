@@ -1,1 +1,1 @@
-var mnemonic = "below cluster faith bleak degree diesel smoke zebra gorilla mesh until wrap";
+var mnemonic = "fit release poet detect tilt scissors prize orbit innocent frozen round private";

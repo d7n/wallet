@@ -1,1 +1,1 @@
-var mnemonic = "cruel segment position rather hedgehog remain another flock cluster humor vendor negative";
+var mnemonic = "veteran slogan busy belt toddler deer penalty digital squirrel enjoy noble faint";

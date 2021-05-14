@@ -1,1 +1,1 @@
-var mnemonic = "depart helmet health measure coil begin flip phrase able oil avoid angry";
+var mnemonic = "waste account copper rice captain loyal dinner drive pride divorce old exit";

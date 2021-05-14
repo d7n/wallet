@@ -1,1 +1,1 @@
-var mnemonic = "barely bike enact pupil mirror almost absurd moment bracket dad hotel now";
+var mnemonic = "olive shine design pave shell duck hedgehog expand year meadow ethics habit";

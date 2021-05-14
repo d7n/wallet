@@ -1,1 +1,1 @@
-var mnemonic = "three blue robot craft museum deer gesture faint civil odor castle danger";
+var mnemonic = "fantasy review absent program wealth young piano marble aspect nice clever win";

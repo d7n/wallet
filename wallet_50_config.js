@@ -1,1 +1,1 @@
-var mnemonic = "doll rule bird lonely south inherit rug cost sweet claw cover horse";
+var mnemonic = "soldier mutual edge olympic pledge rival zero casino shrug penalty federal weird";

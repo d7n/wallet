@@ -1,1 +1,1 @@
-var mnemonic = "rookie category glad glare act material screen actual monitor please never sight";
+var mnemonic = "crop brown rival keep swarm walk spread turtle theory jaguar leisure recipe";

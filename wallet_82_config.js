@@ -1,1 +1,1 @@
-var mnemonic = "hope faint mixture quiz valley predict clump cactus tape nasty fiction quality";
+var mnemonic = "behind spend draw praise kiss law swing antenna evoke kick addict forum";

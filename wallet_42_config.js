@@ -1,1 +1,1 @@
-var mnemonic = "mango village usual admit text purity furnace neutral hello prevent supply recycle";
+var mnemonic = "excuse door pluck confirm quantum poet appear badge slim tattoo curious already";

@@ -1,1 +1,1 @@
-var mnemonic = "betray visual salute dynamic amazing dumb gift industry require stomach wing foot";
+var mnemonic = "twelve rent village stone main heart deny dune walnut crop slogan renew";

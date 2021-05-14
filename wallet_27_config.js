@@ -1,1 +1,1 @@
-var mnemonic = "olympic finger word place stomach planet size loop before spike slight video";
+var mnemonic = "fit budget rain convince smart gravity shop language matter code staff wife";

@@ -1,1 +1,1 @@
-var mnemonic = "swear ill service park make tilt make giggle today cancel pudding execute";
+var mnemonic = "jewel series below canoe husband slush curious minor soccer feel ski syrup";

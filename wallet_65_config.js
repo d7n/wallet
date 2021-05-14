@@ -1,1 +1,1 @@
-var mnemonic = "volcano actor damage uncle treat this unusual essay parent fatal announce coconut";
+var mnemonic = "sand make outdoor fall derive case crisp move wheel deer faith still";

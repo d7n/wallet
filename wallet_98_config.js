@@ -1,1 +1,1 @@
-var mnemonic = "close spread blue river length radar athlete feature ship erase frequent dance";
+var mnemonic = "satisfy saddle cloud risk panda boost edge invite relief dinosaur error uncover";

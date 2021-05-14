@@ -1,1 +1,1 @@
-var mnemonic = "globe blush gas cream rival rule shallow actual athlete eagle novel neither";
+var mnemonic = "scrub idea bronze opera gate devote marine since guilt oven neck tackle";

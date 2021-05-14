@@ -1,1 +1,1 @@
-var mnemonic = "someone soul economy margin moral split harsh egg praise kidney slot isolate";
+var mnemonic = "ridge remain hunt burger silk just gorilla odor ripple abandon trap uncover";

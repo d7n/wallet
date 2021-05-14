@@ -1,1 +1,1 @@
-var mnemonic = "try tackle original vote cheap fade destroy sketch uncover trouble system sleep";
+var mnemonic = "dry fuel into creek muffin mixed planet margin portion crazy layer economy";

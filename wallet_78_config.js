@@ -1,1 +1,1 @@
-var mnemonic = "toast orange anchor already void sorry small answer absorb chronic pair palace";
+var mnemonic = "brother online calm elephant raise squirrel exit thought arrive echo delay weekend";

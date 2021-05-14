@@ -1,1 +1,1 @@
-var mnemonic = "annual tomato bird network unlock outside wolf wrong camp fury cool acid";
+var mnemonic = "ship chimney sheriff juice useless alert frequent square climb zone cake fatal";

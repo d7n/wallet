@@ -1,1 +1,1 @@
-var mnemonic = "flip salute praise canoe blush brown knife rookie advance axis decorate west";
+var mnemonic = "reunion drink license venture hawk heart firm enact square van swing repair";

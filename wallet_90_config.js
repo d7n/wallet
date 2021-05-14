@@ -1,1 +1,1 @@
-var mnemonic = "excess design regular develop table open lottery ozone unaware warrior fork rack";
+var mnemonic = "leaf lonely melody melt coast brisk spawn banana private jeans window regret";

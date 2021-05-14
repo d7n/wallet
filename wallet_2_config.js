@@ -1,1 +1,1 @@
-var mnemonic = "frozen aim dance ghost legend avocado catalog wet pear stay always mansion";
+var mnemonic = "peace rely news crouch page inhale elbow draw disorder noodle castle pole";

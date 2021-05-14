@@ -1,1 +1,1 @@
-var mnemonic = "room firm leg puzzle prosper art that attract humor below kiwi talent";
+var mnemonic = "unusual north evoke vapor velvet wing scene real other ghost order crumble";

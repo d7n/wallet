@@ -1,1 +1,1 @@
-var mnemonic = "reject author bid cigar tray camp danger urge bless cinnamon resist tail";
+var mnemonic = "burger neutral grit glance south fault submit flat fox trouble own say";

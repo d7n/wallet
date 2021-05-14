@@ -1,1 +1,1 @@
-var mnemonic = "inner toast shoulder clinic still brush unfold evoke camera shed recipe payment";
+var mnemonic = "will crack outdoor emotion tube bottom net actual arch echo rocket bright";

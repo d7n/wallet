@@ -1,1 +1,1 @@
-var mnemonic = "level toast fringe fly clown industry share pluck lazy foil skate need";
+var mnemonic = "repair edit tool edge cargo wash resist slab heart choice used caution";

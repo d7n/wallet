@@ -1,1 +1,1 @@
-var mnemonic = "kitten fatigue october mad offer lounge tide assist title exile film armed";
+var mnemonic = "noodle student control before lemon business life cheese galaxy castle wine trouble";

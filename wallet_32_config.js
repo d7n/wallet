@@ -1,1 +1,1 @@
-var mnemonic = "cover echo predict dune virus giggle then unit brief priority olive pigeon";
+var mnemonic = "fringe alley style drum aware hammer detail turn execute teach clown student";

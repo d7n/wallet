@@ -1,1 +1,1 @@
-var mnemonic = "awful almost cloud once theme debate sauce obvious umbrella feel include rubber";
+var mnemonic = "minute cost proof vivid dress retreat arrest final nothing index few family";

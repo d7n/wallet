@@ -1,1 +1,1 @@
-var mnemonic = "jeans usage submit void enrich turtle table old caution happy daring globe";
+var mnemonic = "join all mercy load capable theme fan stamp broccoli risk hospital boat";

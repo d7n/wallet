@@ -1,1 +1,1 @@
-var mnemonic = "thing room try alley view speak unique system mushroom riot immense human";
+var mnemonic = "love reunion february brisk metal bachelor avocado senior suit swing creek bronze";

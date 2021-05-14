@@ -1,1 +1,1 @@
-var mnemonic = "april sail pulp core canyon glad reflect love gesture glove derive wood";
+var mnemonic = "pudding paper muscle flight human hungry climb balcony expose sort congress wrist";

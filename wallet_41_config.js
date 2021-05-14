@@ -1,1 +1,1 @@
-var mnemonic = "shine theme long genius develop blur resemble dial prosper tattoo receive best";
+var mnemonic = "absorb worth subject learn sheriff wear clay search hazard neutral capital license";

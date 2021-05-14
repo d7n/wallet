@@ -1,1 +1,1 @@
-var mnemonic = "practice convince lunch pink system grape bitter bachelor always private aware answer";
+var mnemonic = "version print list upon pole suggest fit income pave kid forest tennis";

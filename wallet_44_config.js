@@ -1,1 +1,1 @@
-var mnemonic = "either mind aware fall loyal aim tiny feed embark village calm safe";
+var mnemonic = "tuna fault position slogan valid original forum program sword isolate shine blossom";

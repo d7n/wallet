@@ -1,1 +1,1 @@
-var mnemonic = "sell execute humor eye food toe meadow wrong inspire emerge tooth view";
+var mnemonic = "rug size next gallery tuna provide wish accuse horse case father hover";

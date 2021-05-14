@@ -1,1 +1,1 @@
-var mnemonic = "length share prize laundry mom topic lyrics avoid race surprise version doll";
+var mnemonic = "wife equal brain accuse chunk hip analyst hamster blush echo man demand";

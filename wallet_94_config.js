@@ -1,1 +1,1 @@
-var mnemonic = "spoil circle strong jaguar tennis key behave arrest drastic craft use mean";
+var mnemonic = "slide beef hobby piano train will program trouble evil tube asset song";

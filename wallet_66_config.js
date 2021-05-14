@@ -1,1 +1,1 @@
-var mnemonic = "embody jeans trick polar script flush supreme fresh fatal leader thank scheme";
+var mnemonic = "wash biology inflict argue wall jealous crop retreat estate element hand organ";

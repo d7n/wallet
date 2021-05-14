@@ -1,1 +1,1 @@
-var mnemonic = "happy walk tragic dress absurd uniform limit another festival burst solution pioneer";
+var mnemonic = "priority album true crack fun clap hair armor man bachelor lake until";

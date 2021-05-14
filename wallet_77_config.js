@@ -1,1 +1,1 @@
-var mnemonic = "traffic input obscure film firm pulp noodle album hover camera stairs inside";
+var mnemonic = "good virtual pass police cluster actress bicycle bottom next three visa argue";

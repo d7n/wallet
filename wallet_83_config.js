@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit burden oyster text lend bleak local fabric mystery diet bitter bag";
+var mnemonic = "eight brown entire side secret only identify token junk maid security mercy";

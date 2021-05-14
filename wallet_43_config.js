@@ -1,1 +1,1 @@
-var mnemonic = "custom cave wine fan local practice muffin fox east misery together require";
+var mnemonic = "teach old coil daughter town push upset present local swing come attack";

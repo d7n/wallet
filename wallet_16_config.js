@@ -1,1 +1,1 @@
-var mnemonic = "wrong subject scissors fault skate civil room bundle weasel able tourist cattle";
+var mnemonic = "art actor tilt lend mouse thunder universe light maid tail motor avocado";

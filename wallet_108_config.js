@@ -1,1 +1,1 @@
-var mnemonic = "diamond chest remain episode deal engine anger glance wisdom tuition whale sun";
+var mnemonic = "false time depth symptom toss control cause ginger yellow stadium wood violin";

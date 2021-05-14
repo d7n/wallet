@@ -1,1 +1,1 @@
-var mnemonic = "price announce icon close legal smile awful among basic minor escape muffin";
+var mnemonic = "agent cream simple travel depart model find wing nurse faint since hover";

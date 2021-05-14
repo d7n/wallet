@@ -1,1 +1,1 @@
-var mnemonic = "once ghost rule rapid tackle deal man proud neutral rose wink fashion";
+var mnemonic = "curve hurt again alcohol earth shaft motion between crumble fragile dinosaur leaf";

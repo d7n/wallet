@@ -1,1 +1,1 @@
-var mnemonic = "keep kitten muscle broccoli save evoke bid vehicle fabric wait thrive notable";
+var mnemonic = "start ribbon quit clarify pig cheap bridge axis recipe off cause banner";

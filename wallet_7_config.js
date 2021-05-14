@@ -1,1 +1,1 @@
-var mnemonic = "such belt select puzzle cherry extra blouse castle rival slice dry bunker";
+var mnemonic = "abstract pony lazy bring reform cement develop party utility flee clever cruise";

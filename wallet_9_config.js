@@ -1,1 +1,1 @@
-var mnemonic = "devote slot cream brave resemble limb logic now decrease knee blood arrow";
+var mnemonic = "else rely bubble prosper goat harvest strike ask double critic cable menu";

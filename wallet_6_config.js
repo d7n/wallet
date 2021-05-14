@@ -1,1 +1,1 @@
-var mnemonic = "mirror element unfold stable enjoy pulp antique knock topic various uphold limit";
+var mnemonic = "hobby enable link economy bulk spend actress emotion sauce cannon direct goat";

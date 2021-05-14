@@ -1,1 +1,1 @@
-var mnemonic = "invest deposit pattern ill engage enrich ostrich spring odor hammer seminar month";
+var mnemonic = "wet lava glow more unlock vote always ocean olive glimpse work rude";

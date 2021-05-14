@@ -1,1 +1,1 @@
-var mnemonic = "fetch monster belt until senior fine rail write thrive rocket high gate";
+var mnemonic = "matter vault win busy stove praise mass board stable deal fancy awesome";

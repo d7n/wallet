@@ -1,1 +1,1 @@
-var mnemonic = "spawn impose frozen august rare evidence produce green hobby around police pool";
+var mnemonic = "wild grain desk town aware pluck hurt rebel combine plate amused saddle";

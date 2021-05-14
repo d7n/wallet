@@ -1,1 +1,1 @@
-var mnemonic = "labor same guard squirrel law panic divide obtain brisk detect useful stumble";
+var mnemonic = "cross ridge enter measure school cream wise flash appear remove aspect behave";

@@ -1,1 +1,1 @@
-var mnemonic = "attend pond lake bracket correct circle side orbit dove resemble airport domain";
+var mnemonic = "subway mad defy slow spin trim inquiry steak degree resource canvas tomorrow";

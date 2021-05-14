@@ -1,1 +1,1 @@
-var mnemonic = "inside industry bind upgrade call orphan lawsuit slim magic drink clever degree";
+var mnemonic = "moon enemy cradle feel increase decide front express parade double route silly";

@@ -1,1 +1,1 @@
-var mnemonic = "thought movie essence tiger fiction math delay sea what film cover horse";
+var mnemonic = "change staff quantum critic carbon supply soup crime nice valid crop size";

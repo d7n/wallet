@@ -1,1 +1,1 @@
-var mnemonic = "bike moral offer deliver bounce emerge final thunder punch forward wish patient";
+var mnemonic = "rotate suit photo under lesson guilt spell fatal book end sign mercy";

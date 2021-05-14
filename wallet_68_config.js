@@ -1,1 +1,1 @@
-var mnemonic = "boss fat mobile hurdle celery have horn girl sun artefact wasp purchase";
+var mnemonic = "trash state spray army judge sentence garlic quality fatigue mom claw arrange";

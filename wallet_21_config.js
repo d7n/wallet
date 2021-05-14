@@ -1,1 +1,1 @@
-var mnemonic = "feature reunion solid degree pair result sample library toddler frequent pelican electric";
+var mnemonic = "metal grunt melt arch sure oppose buzz envelope entry phone garlic allow";

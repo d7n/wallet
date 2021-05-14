@@ -1,1 +1,1 @@
-var mnemonic = "sort ride sorry enlist snap like angle learn fetch dose jealous aspect";
+var mnemonic = "ketchup umbrella boat about faith sight funny shrimp praise moment lion else";

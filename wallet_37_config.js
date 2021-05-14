@@ -1,1 +1,1 @@
-var mnemonic = "about lift bleak city near diamond end intact hope once there avocado";
+var mnemonic = "network friend twice awake pair online year super tunnel jungle bomb north";

@@ -1,1 +1,1 @@
-var mnemonic = "visa elevator remember electric broken type forget charge organ glare trumpet lonely";
+var mnemonic = "rigid month resist praise picture purchase hill dizzy blur lamp finger basic";

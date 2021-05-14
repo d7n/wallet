@@ -1,1 +1,1 @@
-var mnemonic = "pool shield flee intact gift erode develop inject pioneer bicycle liquid zero";
+var mnemonic = "car tenant fine skate become desk village cat cancel shoot rent ticket";

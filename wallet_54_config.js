@@ -1,1 +1,1 @@
-var mnemonic = "daring truth word ice entry skill typical lunar napkin diary century life";
+var mnemonic = "clarify spike save north estate thunder tiny laugh bid brand feature biology";

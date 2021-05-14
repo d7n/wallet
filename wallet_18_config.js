@@ -1,1 +1,1 @@
-var mnemonic = "vibrant spray educate blouse patch check shop gentle hen coil gas gossip";
+var mnemonic = "wolf version better exit other into category physical bid flag joy uphold";

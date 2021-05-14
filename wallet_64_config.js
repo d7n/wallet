@@ -1,1 +1,1 @@
-var mnemonic = "limit dismiss inner chair club advice style help subject sick slice hundred";
+var mnemonic = "mammal produce huge diesel hope october hotel other charge base veteran jazz";

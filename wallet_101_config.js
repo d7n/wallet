@@ -1,1 +1,1 @@
-var mnemonic = "switch puzzle forget please rude attract broken swamp wide runway noise master";
+var mnemonic = "crouch sample glare term major column govern cute grain input trophy fortune";

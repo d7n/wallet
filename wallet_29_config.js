@@ -1,1 +1,1 @@
-var mnemonic = "raw parade pet drink flock copper rule afraid sunny time weapon prepare";
+var mnemonic = "jealous casino hint season wrestle crawl clown fuel quarter brother cart dumb";
