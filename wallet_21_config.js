@@ -1,1 +1,1 @@
-var mnemonic = "gap chair loud case armor twist version dragon soul angry fluid trouble";
+var mnemonic = "grape movie ladder cereal hole body cancel holiday dutch face attract prevent";

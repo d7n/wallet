@@ -1,1 +1,1 @@
-var mnemonic = "mystery clock body urge execute road vacuum cricket act tiger high earn";
+var mnemonic = "flight grant fatal orchard tuition fault noise coral brand real absorb lens";

@@ -1,1 +1,1 @@
-var mnemonic = "inch hint then people night attend machine reduce blur trust manage tube";
+var mnemonic = "slim list fresh drum bring disagree neck first clown van dove mystery";

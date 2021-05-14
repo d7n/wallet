@@ -1,1 +1,1 @@
-var mnemonic = "there tomato space govern brisk aim emotion concert fit fancy adult firm";
+var mnemonic = "load budget end verify better foil over scale chef swift laugh business";

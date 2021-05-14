@@ -1,1 +1,1 @@
-var mnemonic = "busy okay simple park actual test prosper season weather reform turkey daring";
+var mnemonic = "ramp pledge lion slice grid steak volume inhale member inquiry roast tourist";

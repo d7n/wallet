@@ -1,1 +1,1 @@
-var mnemonic = "reveal junior dune harvest guess about hungry solution brand moment thunder era";
+var mnemonic = "easy imitate trust craft square twenty entry bitter icon laundry above away";

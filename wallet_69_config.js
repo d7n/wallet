@@ -1,1 +1,1 @@
-var mnemonic = "carpet miracle elbow risk crisp latin mind excuse patch beach empty endorse";
+var mnemonic = "avocado cradle dizzy bar silly trend crush hard about size hybrid room";

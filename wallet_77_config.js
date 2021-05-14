@@ -1,1 +1,1 @@
-var mnemonic = "clerk element spider before control often comfort comic buzz brand focus time";
+var mnemonic = "busy hole picnic train license together have pencil prepare palm math lawn";

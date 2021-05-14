@@ -1,1 +1,1 @@
-var mnemonic = "flee erosion hawk allow pear pipe great knee chicken budget crouch razor";
+var mnemonic = "soap runway tragic edit grid candy develop world embark crumble rib roast";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch tunnel yard inherit decade light slam gorilla device current dwarf visit";
+var mnemonic = "object life unaware save jewel plug caution eight maid credit guilt uniform";

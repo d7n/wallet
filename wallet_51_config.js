@@ -1,1 +1,1 @@
-var mnemonic = "scare verb bronze language sleep same bundle merge genius finger almost range";
+var mnemonic = "city catalog wing spread steak kick yard able upper snow bomb bench";

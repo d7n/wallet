@@ -1,1 +1,1 @@
-var mnemonic = "seven fault share grape retreat index ribbon verify twice feed outside veteran";
+var mnemonic = "blur castle simple symptom pudding clown move woman bar require inflict awful";

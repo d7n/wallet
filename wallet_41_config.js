@@ -1,1 +1,1 @@
-var mnemonic = "uphold tape explain mutual language canoe muffin grain scale romance hobby snow";
+var mnemonic = "eye sunset clown add embrace frost adapt this bike admit town cushion";

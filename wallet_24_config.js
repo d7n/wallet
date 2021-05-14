@@ -1,1 +1,1 @@
-var mnemonic = "inherit happy door drama work describe gift amazing nest captain balance spatial";
+var mnemonic = "lend observe pact story weapon slim copy sure hole boring physical display";

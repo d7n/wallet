@@ -1,1 +1,1 @@
-var mnemonic = "buzz crater journey perfect joke option panther drift desert various brief yellow";
+var mnemonic = "issue sail interest badge direct episode flame crush cloud risk gas copy";

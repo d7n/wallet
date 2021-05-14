@@ -1,1 +1,1 @@
-var mnemonic = "setup one sudden place off lava pretty retire door prevent husband blame";
+var mnemonic = "code hello unknown feed limit potato hungry amazing sphere bid doll march";

@@ -1,1 +1,1 @@
-var mnemonic = "teach theme casual scale menu stuff surface ensure inspire vote avoid cram";
+var mnemonic = "father smooth tortoise push battle plug layer fringe tilt rich student sign";

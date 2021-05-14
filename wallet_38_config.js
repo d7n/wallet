@@ -1,1 +1,1 @@
-var mnemonic = "eager cry sausage potato sentence eyebrow cook brisk december gossip damage business";
+var mnemonic = "bottom core final outdoor element vintage romance height summer coconut derive later";

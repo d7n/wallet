@@ -1,1 +1,1 @@
-var mnemonic = "together keep chef inflict boat top produce choice forest eagle lottery carpet";
+var mnemonic = "kangaroo glimpse carpet raw situate own symptom park robust tissue jump have";

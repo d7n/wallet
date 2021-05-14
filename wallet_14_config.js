@@ -1,1 +1,1 @@
-var mnemonic = "cricket club dynamic mountain tonight slight nation party action salute cube hello";
+var mnemonic = "permit kitchen flock puzzle common canoe shell educate misery food monster tent";

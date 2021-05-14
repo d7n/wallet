@@ -1,1 +1,1 @@
-var mnemonic = "enact forest display slab decade acquire jealous unusual lab index between float";
+var mnemonic = "dust else dice mother fossil sadness enjoy obscure future erode force ask";

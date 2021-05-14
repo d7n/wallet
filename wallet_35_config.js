@@ -1,1 +1,1 @@
-var mnemonic = "curious float merry pudding music win need around myself idea first surprise";
+var mnemonic = "cake slab ozone only sure excuse monitor wrestle moral prosper away keep";

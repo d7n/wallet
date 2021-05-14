@@ -1,1 +1,1 @@
-var mnemonic = "child forest bicycle ladder mixed share dish problem little pigeon castle common";
+var mnemonic = "milk hammer exhibit door view child gauge merry coffee equip universe trumpet";

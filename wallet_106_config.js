@@ -1,1 +1,1 @@
-var mnemonic = "protect sting ostrich food prepare december display atom wrestle mom strike rescue";
+var mnemonic = "fine blue bread tuition awesome crime canal apology chronic digital blade clog";

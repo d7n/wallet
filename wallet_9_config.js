@@ -1,1 +1,1 @@
-var mnemonic = "advance wild thunder mistake jelly winter trophy destroy grief tribe wink alert";
+var mnemonic = "pizza soup install float ordinary youth boss flush obtain stem turtle melt";

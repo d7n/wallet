@@ -1,1 +1,1 @@
-var mnemonic = "bring damp allow example midnight castle peasant utility cream summer ridge utility";
+var mnemonic = "forward affair guitar buyer chronic sea empty speak group secret camera genre";

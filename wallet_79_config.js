@@ -1,1 +1,1 @@
-var mnemonic = "view galaxy unhappy endorse useful unhappy immune hard female early act nothing";
+var mnemonic = "wait soap square only habit egg exhibit warrior dawn artwork figure butter";

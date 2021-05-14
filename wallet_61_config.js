@@ -1,1 +1,1 @@
-var mnemonic = "long flavor raccoon mistake zebra trend foot genre wet foam million photo";
+var mnemonic = "minimum retire repeat believe bitter because enough juice mosquito sister ocean salad";

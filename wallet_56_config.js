@@ -1,1 +1,1 @@
-var mnemonic = "cargo remember excite abuse fog space winner blade pretty enemy sudden secret";
+var mnemonic = "open doctor also level weapon blossom little maid armor brown caught maple";

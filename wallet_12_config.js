@@ -1,1 +1,1 @@
-var mnemonic = "rain alien describe ladder early novel hobby answer tired phone chimney submit";
+var mnemonic = "jump route want famous tortoise kingdom poem wire quiz genre provide sugar";

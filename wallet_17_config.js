@@ -1,1 +1,1 @@
-var mnemonic = "welcome satisfy spice jacket erase sting room multiply mandate number pioneer border";
+var mnemonic = "music purse size spatial dilemma economy river armed involve write window next";

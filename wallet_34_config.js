@@ -1,1 +1,1 @@
-var mnemonic = "dune pencil park allow worry ensure police army exhaust bid just industry";
+var mnemonic = "best random purse buddy butter powder spice obtain file plunge capable celery";

@@ -1,1 +1,1 @@
-var mnemonic = "foster eager plug nominee broccoli smart charge space motor bean puzzle burst";
+var mnemonic = "hidden multiply pencil shoot evolve pride around bamboo among wink curtain company";

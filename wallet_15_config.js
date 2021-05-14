@@ -1,1 +1,1 @@
-var mnemonic = "search winner zebra lemon imitate addict twin differ illegal salt want twice";
+var mnemonic = "index rotate network nuclear hip solar theory verb attack poem thought foster";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic forum shiver oven derive supreme blood legend virtual okay catch attend";
+var mnemonic = "amount deliver faith sample syrup creek image unhappy fan grant cargo region";

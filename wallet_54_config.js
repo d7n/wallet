@@ -1,1 +1,1 @@
-var mnemonic = "divert proof power correct frequent squeeze suffer athlete rail glue wasp route";
+var mnemonic = "point raven cruel treat shrug spread vault armed wrong forum discover stumble";

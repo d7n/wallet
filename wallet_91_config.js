@@ -1,1 +1,1 @@
-var mnemonic = "section moment endorse easy truck eight any hawk reward fold spread girl";
+var mnemonic = "comfort rich enemy immune media mention chat stove nut clarify patient funny";

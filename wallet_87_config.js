@@ -1,1 +1,1 @@
-var mnemonic = "disagree sun entire honey deliver bottom illness analyst effort kiss route receive";
+var mnemonic = "sun amount soda often muscle upset source connect method magnet use lunar";

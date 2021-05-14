@@ -1,1 +1,1 @@
-var mnemonic = "boring chef raven ranch body divorce resemble idle neck offer siege lady";
+var mnemonic = "cheese velvet donkey mobile quit guard apart sketch timber gorilla surface service";

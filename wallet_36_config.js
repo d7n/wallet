@@ -1,1 +1,1 @@
-var mnemonic = "angle hurry palm dial wasp hello doll exercise liberty discover mercy total";
+var mnemonic = "pass pride stand diamond detect addict topple retire weasel eye test exit";

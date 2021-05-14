@@ -1,1 +1,1 @@
-var mnemonic = "unusual wife feed okay wisdom enter inch someone describe used tenant immense";
+var mnemonic = "tourist vast weapon tourist excess soldier pretty usage enhance honey palace warrior";

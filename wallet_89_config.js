@@ -1,1 +1,1 @@
-var mnemonic = "harvest debate patient kingdom vivid shiver cushion motor vacuum poverty another ugly";
+var mnemonic = "frown enroll gospel hamster foot host drama omit where style alter choose";

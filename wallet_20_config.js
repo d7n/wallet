@@ -1,1 +1,1 @@
-var mnemonic = "rescue entire mask sad demand local token pet index render term absurd";
+var mnemonic = "distance wagon ride second face file swap hidden love engine husband parade";

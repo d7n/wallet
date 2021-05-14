@@ -1,1 +1,1 @@
-var mnemonic = "rapid arctic average you endless twelve anger purse mouse identify shed fork";
+var mnemonic = "material pepper bamboo empower define cook genre cat mother clever victory erosion";

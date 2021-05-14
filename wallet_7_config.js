@@ -1,1 +1,1 @@
-var mnemonic = "secret smooth mention casino course blue resist label word uniform acid tomato";
+var mnemonic = "cable zone wire prevent isolate soda once frog swallow net stamp dignity";

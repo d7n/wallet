@@ -1,1 +1,1 @@
-var mnemonic = "era sea forest extend erosion frog holiday bind east tower vault song";
+var mnemonic = "shadow oxygen enhance engine donkey dad soda venture false better october shock";

@@ -1,1 +1,1 @@
-var mnemonic = "love purpose hurry pair edge ghost bean own wife jealous suspect nice";
+var mnemonic = "violin humble chunk green fossil debate drive silver ten rival ankle season";

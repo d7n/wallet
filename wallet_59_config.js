@@ -1,1 +1,1 @@
-var mnemonic = "digital govern logic matter stomach unit name law height truck ensure sail";
+var mnemonic = "taste begin tunnel hood more dwarf result trash flush wreck check multiply";

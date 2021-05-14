@@ -1,1 +1,1 @@
-var mnemonic = "mixture dish else evolve brass squeeze ritual powder amount wine alarm lounge";
+var mnemonic = "unlock erase happy permit bamboo elbow punch vibrant sniff ugly holiday shift";

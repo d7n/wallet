@@ -1,1 +1,1 @@
-var mnemonic = "sweet invite large nation chunk resource work water actress extra analyst attack";
+var mnemonic = "expire forget robust chunk ivory leave hollow denial around tell loop around";

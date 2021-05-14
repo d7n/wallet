@@ -1,1 +1,1 @@
-var mnemonic = "prosper stairs kidney demand effort monster reduce often icon reflect lake tone";
+var mnemonic = "oblige vital doll acoustic polar arch shrimp raven math embody must bone";

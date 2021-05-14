@@ -1,1 +1,1 @@
-var mnemonic = "bone license east blade fetch gasp betray derive slogan unlock biology guess";
+var mnemonic = "shove tide oxygen hammer pyramid vital price between evoke angle nature desert";

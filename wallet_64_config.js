@@ -1,1 +1,1 @@
-var mnemonic = "elegant earth sound symptom vacant decade arctic rely lottery spawn subway economy";
+var mnemonic = "baby winter noise ability stage sample wild rule alcohol patch mandate ice";

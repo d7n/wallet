@@ -1,1 +1,1 @@
-var mnemonic = "salute error play crime peace length maple dumb crisp type task decade";
+var mnemonic = "process flee fitness able client response critic lamp usual total copy field";

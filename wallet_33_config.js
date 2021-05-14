@@ -1,1 +1,1 @@
-var mnemonic = "easy curtain expose fossil elegant sight decrease crystal mom tool gaze casual";
+var mnemonic = "venture high mix setup exhibit burden bubble chair hour airport want ship";

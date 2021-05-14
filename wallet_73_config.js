@@ -1,1 +1,1 @@
-var mnemonic = "harvest shaft error exhibit teach remember more today bulk lady february divide";
+var mnemonic = "transfer month eyebrow level bracket anxiety until cushion rifle mistake main code";

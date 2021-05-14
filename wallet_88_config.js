@@ -1,1 +1,1 @@
-var mnemonic = "tip talent bag shrimp mosquito blue faint maze unknown fence merry canal";
+var mnemonic = "control spare path oppose velvet purse guide before black deliver broken pottery";

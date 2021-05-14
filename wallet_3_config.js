@@ -1,1 +1,1 @@
-var mnemonic = "click cousin piano enact latin possible note escape fox raccoon license grit";
+var mnemonic = "dust morning muscle coral seat pony ten clutch battle duty fire derive";

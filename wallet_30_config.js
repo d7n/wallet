@@ -1,1 +1,1 @@
-var mnemonic = "rotate security panic base attend item rail blur canyon there scatter copy";
+var mnemonic = "obvious glass embark hawk jar mansion judge bullet plug salute nature layer";

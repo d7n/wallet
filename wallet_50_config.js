@@ -1,1 +1,1 @@
-var mnemonic = "lemon range gate buffalo evoke weather carbon during fiction renew north vibrant";
+var mnemonic = "industry match rather romance stool reform wing soul orient stereo pitch gloom";

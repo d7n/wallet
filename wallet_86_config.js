@@ -1,1 +1,1 @@
-var mnemonic = "round smoke diamond bomb grocery flight burger peanut parent brown maximum easy";
+var mnemonic = "topic iron switch ensure logic insect inquiry upper couple street mad fog";

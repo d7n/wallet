@@ -1,1 +1,1 @@
-var mnemonic = "razor scan ignore people bright shy august theory fiber more defy wish";
+var mnemonic = "cage menu drama nothing excess trigger siege safe bullet mutual half trigger";

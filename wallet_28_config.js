@@ -1,1 +1,1 @@
-var mnemonic = "soap vivid dove conduct torch scene system light clean enrich birth identify";
+var mnemonic = "strike toy left give town fuel suit solve monster outdoor acoustic olive";

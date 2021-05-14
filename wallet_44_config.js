@@ -1,1 +1,1 @@
-var mnemonic = "range height umbrella apple stand resource library put evolve salmon gentle swing";
+var mnemonic = "muscle peace front duty pattern friend gift like cancel cruel cage wine";

@@ -1,1 +1,1 @@
-var mnemonic = "hero correct portion potato deputy valid item lady under member canyon hour";
+var mnemonic = "pride gentle auction radio that spare prepare deposit pioneer jump coast lunch";

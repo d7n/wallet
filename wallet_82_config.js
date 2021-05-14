@@ -1,1 +1,1 @@
-var mnemonic = "sun robust cry erase wire wear cry joy photo video transfer glass";
+var mnemonic = "wolf crunch kick screen journey under movie twice wine base achieve plastic";

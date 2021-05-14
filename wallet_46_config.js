@@ -1,1 +1,1 @@
-var mnemonic = "vapor can oyster draft disease actress lens abstract mixed clump subway merge";
+var mnemonic = "member door leisure cake train also circle dumb face drift left dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "fork vast wet shrimp hood marble zebra grunt quarter echo problem sponsor";
+var mnemonic = "enrich demise aspect inject hover piece surface word endorse fruit okay oxygen";

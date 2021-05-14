@@ -1,1 +1,1 @@
-var mnemonic = "uncle actor fall potato excess edit step beef open scan picture drastic";
+var mnemonic = "average output below eagle gadget open maple giggle actor arch whisper flock";

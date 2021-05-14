@@ -1,1 +1,1 @@
-var mnemonic = "rally build gate flush quantum topple neutral hub spoon hint gap suit";
+var mnemonic = "uncover gasp recycle clarify hamster fatal jaguar ribbon fan unique leaf artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol limit search require scrub mad grace someone budget artefact shy violin";
+var mnemonic = "aspect humble head seven embody music kiss also collect feed winner battle";

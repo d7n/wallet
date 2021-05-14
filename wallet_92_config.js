@@ -1,1 +1,1 @@
-var mnemonic = "coach jeans crouch useful common when author swing upper foil raw glass";
+var mnemonic = "pottery jacket gather lab reason service club shuffle inner reform rely vehicle";

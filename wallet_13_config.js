@@ -1,1 +1,1 @@
-var mnemonic = "trial kiss expect educate gown anger visit fence bless lucky car either";
+var mnemonic = "canoe couple giraffe treat stock random nature poem winner unusual action guard";

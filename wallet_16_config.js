@@ -1,1 +1,1 @@
-var mnemonic = "biology jewel help shock recall limit behave scene make exact potato wife";
+var mnemonic = "all scorpion pig update episode join fuel rival battle fix small assume";

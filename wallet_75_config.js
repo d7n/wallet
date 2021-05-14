@@ -1,1 +1,1 @@
-var mnemonic = "broccoli conduct fame teach shine error budget surface zoo brown expose salad";
+var mnemonic = "radar silent way city scan margin vote fall bitter become joy panther";

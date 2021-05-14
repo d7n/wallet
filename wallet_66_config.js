@@ -1,1 +1,1 @@
-var mnemonic = "symbol assume album voice speed barely hospital inmate neutral leave knee mix";
+var mnemonic = "polar shield neither verb wheel peanut column genius mask radar amazing later";

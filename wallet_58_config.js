@@ -1,1 +1,1 @@
-var mnemonic = "umbrella apart clever bonus bar peace dice year spread ugly whale permit";
+var mnemonic = "make dwarf camera visit rail trick umbrella shell unusual include sausage egg";

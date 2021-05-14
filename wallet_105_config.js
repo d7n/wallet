@@ -1,1 +1,1 @@
-var mnemonic = "envelope dash mimic little trash clip invest nose desert wise light inmate";
+var mnemonic = "wedding leader alley duck photo creek save pen climb solution simple detect";

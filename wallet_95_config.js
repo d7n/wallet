@@ -1,1 +1,1 @@
-var mnemonic = "busy welcome inhale october pyramid circle approve figure artist process artwork speak";
+var mnemonic = "surprise accident road jealous chase ignore trade arm metal slice assist typical";

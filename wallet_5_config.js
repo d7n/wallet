@@ -1,1 +1,1 @@
-var mnemonic = "silver word case can success foot protect spare connect lunch ten venture";
+var mnemonic = "donor execute meadow member empower enforce saddle mind rural biology cereal uniform";

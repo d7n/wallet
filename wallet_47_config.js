@@ -1,1 +1,1 @@
-var mnemonic = "derive smoke upper crush like appear board true radar apple repair monkey";
+var mnemonic = "field turtle goddess rose eye method museum glimpse coast hybrid unveil method";

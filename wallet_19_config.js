@@ -1,1 +1,1 @@
-var mnemonic = "lounge scan index away program fault spell injury job tiger tongue cheap";
+var mnemonic = "grid deal crystal write ignore feel shed erase lesson stove rival pistol";

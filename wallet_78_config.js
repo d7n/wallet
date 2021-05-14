@@ -1,1 +1,1 @@
-var mnemonic = "future ivory solve best crime process marriage loop hen ring try shove";
+var mnemonic = "earth weather cash disease mouse despair vicious license idea shove gadget security";

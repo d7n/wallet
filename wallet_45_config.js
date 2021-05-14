@@ -1,1 +1,1 @@
-var mnemonic = "detect balance involve universe amused nice globe peace bunker believe forest material";
+var mnemonic = "episode unaware maximum develop face click subway soldier recipe any firm voice";

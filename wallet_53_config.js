@@ -1,1 +1,1 @@
-var mnemonic = "someone grit man unable unique humble govern dentist still cat umbrella danger";
+var mnemonic = "picture physical differ cool device annual pair cool bleak they any wheel";

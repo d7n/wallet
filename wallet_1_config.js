@@ -1,1 +1,1 @@
-var mnemonic = "pluck farm little coyote modify bargain color notice cruise sustain capable across";
+var mnemonic = "scale assault report dice pizza acid balcony survey nuclear short phrase pride";

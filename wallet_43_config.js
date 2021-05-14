@@ -1,1 +1,1 @@
-var mnemonic = "tank blur shiver mandate round letter cave decrease extra banana daughter shy";
+var mnemonic = "safe embrace ghost mandate swear result congress advance dream goddess disease ketchup";

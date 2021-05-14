@@ -1,1 +1,1 @@
-var mnemonic = "first pear blood gain roast bleak initial trophy illegal gasp pilot prevent";
+var mnemonic = "remove giggle finish knee renew ostrich comic frown foam truth outside toddler";

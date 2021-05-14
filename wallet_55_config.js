@@ -1,1 +1,1 @@
-var mnemonic = "argue cash picnic boring wink home session scheme enroll code emerge material";
+var mnemonic = "boil fuel vivid place earn century current wedding glimpse acid inject chat";

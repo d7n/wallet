@@ -1,1 +1,1 @@
-var mnemonic = "stone oppose tube cloth animal match fall hand tomato tragic reflect body";
+var mnemonic = "try lend decorate toddler fun chicken muffin discover machine salmon engage affair";
