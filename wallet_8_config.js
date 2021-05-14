@@ -1,1 +1,1 @@
-var mnemonic = "mix sword zone denial vehicle legend tail wave blast mention double truck";
+var mnemonic = "copy orange slide myself process bulb tent permit million leave drastic drop";

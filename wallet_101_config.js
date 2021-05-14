@@ -1,1 +1,1 @@
-var mnemonic = "capable cheap sphere friend company original laptop toward initial nut milk asset";
+var mnemonic = "that dinner zero permit page rough alone wise swarm become monitor torch";

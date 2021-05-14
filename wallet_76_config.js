@@ -1,1 +1,1 @@
-var mnemonic = "census defy poverty stock gloom domain become another place addict leaf there";
+var mnemonic = "ugly can dignity seat noise three oblige fade era soap myself spice";

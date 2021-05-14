@@ -1,1 +1,1 @@
-var mnemonic = "shell open magic purse slide cat prize process ladder payment wheel split";
+var mnemonic = "army seven egg hamster talent fun city other squeeze goddess client stool";

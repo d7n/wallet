@@ -1,1 +1,1 @@
-var mnemonic = "come second resist title violin spray net refuse dirt bubble ostrich enrich";
+var mnemonic = "wish bleak divert virtual remind image pond basic consider angle siege inflict";

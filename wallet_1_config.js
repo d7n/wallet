@@ -1,1 +1,1 @@
-var mnemonic = "minute boil involve ugly original bone build initial panel away recipe uniform";
+var mnemonic = "casual oven captain morning walnut exhibit survey mammal inject resemble vendor list";

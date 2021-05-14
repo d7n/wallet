@@ -1,1 +1,1 @@
-var mnemonic = "clown error gossip venture win beef pupil boss iron draft language solar";
+var mnemonic = "hold demise good field obscure slow brave foster wall purchase govern chronic";

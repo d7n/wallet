@@ -1,1 +1,1 @@
-var mnemonic = "pole cat addict blade kiss loyal sign emerge clever birth accuse wage";
+var mnemonic = "arch narrow lottery resource minor purchase ride raccoon tube coyote escape year";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp ride work very ostrich circle cherry element jeans always daughter control";
+var mnemonic = "over chimney happy frog side bacon depend clip catch expire kind buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster man purse example price add grass swift profit main olympic wreck";
+var mnemonic = "burger snake cinnamon wink off speed culture crumble kit other bean medal";

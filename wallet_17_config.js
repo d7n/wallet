@@ -1,1 +1,1 @@
-var mnemonic = "resemble auction carpet ahead fade glove movie eager album despair cave arrange";
+var mnemonic = "tuition north typical drop online adult galaxy guide kiss deny analyst scout";

@@ -1,1 +1,1 @@
-var mnemonic = "cross dice image inform hotel garment icon pluck tip empty sleep party";
+var mnemonic = "combine broccoli correct trap concert cook inch adult inspire sell able tribe";

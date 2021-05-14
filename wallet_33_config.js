@@ -1,1 +1,1 @@
-var mnemonic = "airport profit world then great artefact flip index surge virus boat come";
+var mnemonic = "nothing cash solid material genius public dilemma toward broom antenna illegal crater";

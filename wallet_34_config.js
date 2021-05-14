@@ -1,1 +1,1 @@
-var mnemonic = "diamond fossil audit bring wise melt grape legend crack damp surround oxygen";
+var mnemonic = "spring people wall layer chicken apart aim accident steel inner kidney lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy reveal web pudding error benefit slice novel lumber shock start okay";
+var mnemonic = "medal dry receive safe solution angle eagle entire violin oil report drink";

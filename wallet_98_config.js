@@ -1,1 +1,1 @@
-var mnemonic = "dash armor twenty reflect pulse body pact heavy thing raise sentence sibling";
+var mnemonic = "dice enemy gap quality deal teach crystal skirt license rebuild keen cruise";

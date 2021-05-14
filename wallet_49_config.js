@@ -1,1 +1,1 @@
-var mnemonic = "garden embrace picnic hand parrot arrest enjoy hour anchor tooth use rebel";
+var mnemonic = "seek chase hill south venture hundred reopen off quality reveal october assault";

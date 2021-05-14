@@ -1,1 +1,1 @@
-var mnemonic = "involve tuition staff direct vapor water man winner curtain palm acquire patch";
+var mnemonic = "addict teach build crunch post tank table sword stay tortoise bottom slender";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive load spy tide need quarter diagram deliver actual panda rubber vapor";
+var mnemonic = "sunny recall boss orchard scrub theory mother post twenty various own merge";

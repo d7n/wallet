@@ -1,1 +1,1 @@
-var mnemonic = "undo setup royal quote outside distance city walk carbon glow general urge";
+var mnemonic = "olive unique guide tape vacant accuse accuse belt harsh world waste outdoor";

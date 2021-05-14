@@ -1,1 +1,1 @@
-var mnemonic = "trouble advance divert island puzzle again fossil public announce copper left degree";
+var mnemonic = "slow rapid achieve protect lumber ski surprise apart casino corn wash planet";

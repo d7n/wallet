@@ -1,1 +1,1 @@
-var mnemonic = "card cause cloud seven inside impose genre trigger hybrid swing icon game";
+var mnemonic = "column flavor pulse assist swamp nothing check decide oxygen flag usage group";

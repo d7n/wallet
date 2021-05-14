@@ -1,1 +1,1 @@
-var mnemonic = "cook avoid bamboo theme behave exhaust ship faculty hospital myth sword tribe";
+var mnemonic = "fun prefer assist kid spider imitate shy monkey balcony impact trigger jewel";

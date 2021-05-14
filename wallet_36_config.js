@@ -1,1 +1,1 @@
-var mnemonic = "lounge sock wheel announce bomb boy author velvet crater pyramid file access";
+var mnemonic = "mad front mosquito snap aspect shaft leg credit summer solid name symbol";

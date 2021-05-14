@@ -1,1 +1,1 @@
-var mnemonic = "famous urban combine silver music derive patient scout throw soap feel dream";
+var mnemonic = "random truth danger above sudden olive bleak august history soda thumb recycle";

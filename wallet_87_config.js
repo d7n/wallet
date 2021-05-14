@@ -1,1 +1,1 @@
-var mnemonic = "diet health reform nerve nice cable word taxi mesh cruel sail tunnel";
+var mnemonic = "seminar defy eager omit raw upon obtain jaguar mom waste crouch uphold";

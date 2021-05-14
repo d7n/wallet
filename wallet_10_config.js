@@ -1,1 +1,1 @@
-var mnemonic = "deer bulb accuse alcohol cave elite fiction sun grunt hold safe end";
+var mnemonic = "album fragile help cook copy fall regular fit goddess atom will test";

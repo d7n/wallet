@@ -1,1 +1,1 @@
-var mnemonic = "goose world soul enact blanket echo destroy case peasant twelve glad van";
+var mnemonic = "present cannon jar call clump parent drink hurdle gate average speak consider";

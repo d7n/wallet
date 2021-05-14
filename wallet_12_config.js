@@ -1,1 +1,1 @@
-var mnemonic = "caution foam deer year industry blue slice practice cotton move valid leopard";
+var mnemonic = "curious olympic bomb crisp eight song error good chapter guilt glass toward";

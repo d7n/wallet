@@ -1,1 +1,1 @@
-var mnemonic = "salt chunk edit orbit parade gown dinner trip situate ripple visual approve";
+var mnemonic = "base display raise crater scan junk depth ramp flat hip cigar record";

@@ -1,1 +1,1 @@
-var mnemonic = "first opera measure shuffle exist dismiss shoulder cruise rather swift child raise";
+var mnemonic = "cherry erase casual someone music pizza struggle robot fit gown copy cart";

@@ -1,1 +1,1 @@
-var mnemonic = "palm crowd pelican twenty jungle cancel divorce marine budget crane large express";
+var mnemonic = "glue pair document party assault grow enough volcano track blur citizen area";

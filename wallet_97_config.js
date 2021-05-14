@@ -1,1 +1,1 @@
-var mnemonic = "meat program crunch quick mushroom report space push clinic suspect recycle swing";
+var mnemonic = "fruit april cute prevent hood coil trend dust host expose employ tube";

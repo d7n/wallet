@@ -1,1 +1,1 @@
-var mnemonic = "lucky valley sun candy wool reject buyer syrup genius two kidney method";
+var mnemonic = "wool grunt orient water floor famous embark ramp wasp damage bottom cool";

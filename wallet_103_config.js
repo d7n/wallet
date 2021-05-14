@@ -1,1 +1,1 @@
-var mnemonic = "act corn decrease palace control wet spoon fog maple parent express citizen";
+var mnemonic = "silver intact trick torch grocery since rule patrol learn melt black forum";

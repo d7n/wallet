@@ -1,1 +1,1 @@
-var mnemonic = "moon dune differ field play bright bench lion squirrel wife lecture gorilla";
+var mnemonic = "rural eyebrow patch ostrich wife ostrich accuse poem inside inform rabbit weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "seat finish modify deal hazard either correct warfare axis squeeze spend they";
+var mnemonic = "amount this leaf brand vivid ivory potato attract what denial cannon action";

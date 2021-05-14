@@ -1,1 +1,1 @@
-var mnemonic = "miss worry bench lens begin connect infant owner shop science abandon tell";
+var mnemonic = "iron chat amount arrive minimum absent give noise climb cereal dinosaur sibling";

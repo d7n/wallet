@@ -1,1 +1,1 @@
-var mnemonic = "robot bring crumble author quarter impact decorate true live inmate hospital more";
+var mnemonic = "hello nurse captain border hair promote now animal more sample kitchen box";

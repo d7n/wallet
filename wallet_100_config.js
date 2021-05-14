@@ -1,1 +1,1 @@
-var mnemonic = "adult latin current piece husband wedding modify federal wrestle lawn again dish";
+var mnemonic = "guess grocery thunder change method coyote elevator apart swap clever infant choice";

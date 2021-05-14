@@ -1,1 +1,1 @@
-var mnemonic = "know mother where basket actress season mushroom crystal oblige check pulse session";
+var mnemonic = "desert lady wedding tower wish bargain brave retreat idle life deny quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol erode hungry author cluster police whip flip alone intact slim payment";
+var mnemonic = "width note web slot visual hint total sing twelve real canvas exclude";

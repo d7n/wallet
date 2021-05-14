@@ -1,1 +1,1 @@
-var mnemonic = "ketchup rude peace pear vacuum double fabric kid jacket razor accuse fold";
+var mnemonic = "remember tortoise weird pioneer cruise pigeon artwork modify regret enough ready pact";

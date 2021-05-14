@@ -1,1 +1,1 @@
-var mnemonic = "license lesson embody dish stable lucky town brass know yellow syrup address";
+var mnemonic = "caution ball hold huge ensure eye vacuum habit leg meadow aim second";

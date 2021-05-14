@@ -1,1 +1,1 @@
-var mnemonic = "stadium split fringe thumb athlete captain trophy eternal license faculty first wash";
+var mnemonic = "aerobic expand wheel profit capital image divert stick key bind during dash";

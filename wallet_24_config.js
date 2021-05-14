@@ -1,1 +1,1 @@
-var mnemonic = "install invest zoo rotate remember alien tilt step room eternal ignore garlic";
+var mnemonic = "truly medal large grunt jacket rebel party copper slab violin exercise miracle";

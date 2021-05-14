@@ -1,1 +1,1 @@
-var mnemonic = "amazing want explain paper swift van clog ocean lyrics fringe raise attract";
+var mnemonic = "various example three bachelor mosquito gas drill topic response piece federal issue";

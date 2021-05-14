@@ -1,1 +1,1 @@
-var mnemonic = "onion emerge jewel green gift air crisp party enable below trend response";
+var mnemonic = "cancel subway innocent dizzy page mule wild fence volcano hope increase ostrich";

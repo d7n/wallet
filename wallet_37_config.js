@@ -1,1 +1,1 @@
-var mnemonic = "special decline barely outdoor rain swamp energy manual athlete gather ordinary code";
+var mnemonic = "cheap noise uphold harvest wedding snake truly detail oblige treat credit glass";

@@ -1,1 +1,1 @@
-var mnemonic = "feed hero honey height force survey between offer tape attack sibling sorry";
+var mnemonic = "scan chase pear wagon peanut unit creek slice body bridge supply edge";

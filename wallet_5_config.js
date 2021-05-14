@@ -1,1 +1,1 @@
-var mnemonic = "vacant rib cart rail track whip cable sword slogan brief coil erosion";
+var mnemonic = "tumble move boat shed female include home token tortoise field exclude sibling";

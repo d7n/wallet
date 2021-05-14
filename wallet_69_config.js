@@ -1,1 +1,1 @@
-var mnemonic = "goddess vague tiny enable legal enable talent feature garment coin tag cherry";
+var mnemonic = "garment wage cabin young position detect lesson canoe gentle lock screen sister";

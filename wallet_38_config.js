@@ -1,1 +1,1 @@
-var mnemonic = "coral middle roast elder crowd feature buddy absent together real myth include";
+var mnemonic = "delay melt elegant kit height join fashion defy brush hint assault detail";

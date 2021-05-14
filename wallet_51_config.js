@@ -1,1 +1,1 @@
-var mnemonic = "animal picture green worth clay stone pink canvas cancel vote goddess dream";
+var mnemonic = "era robust annual flower melody drive fashion hobby elegant vendor divert have";

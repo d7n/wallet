@@ -1,1 +1,1 @@
-var mnemonic = "cruel profit orient layer access tiny luggage argue mixed movie blind busy";
+var mnemonic = "maze pledge element yellow teach release nurse hawk slogan fatigue claim short";

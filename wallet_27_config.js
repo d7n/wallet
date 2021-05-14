@@ -1,1 +1,1 @@
-var mnemonic = "solve true detail identify tribe burden congress endless upon judge myth bitter";
+var mnemonic = "hidden young reform black fan behave debris bridge offer pill crew fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "glad rookie write virtual impulse detect still list dolphin skull finger twenty";
+var mnemonic = "august silly usual seek flag degree allow attend guide cup ketchup predict";

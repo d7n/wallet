@@ -1,1 +1,1 @@
-var mnemonic = "sunny acquire guide climb mention symbol crack ski wife finish kitten rhythm";
+var mnemonic = "faculty cost audit dismiss detail hybrid cousin gallery speed excess sting omit";

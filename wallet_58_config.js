@@ -1,1 +1,1 @@
-var mnemonic = "love smile section mule seven utility school ridge tattoo start capable bulk";
+var mnemonic = "myself lottery roof come acoustic skate cluster say resist brush photo enter";

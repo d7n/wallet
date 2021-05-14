@@ -1,1 +1,1 @@
-var mnemonic = "cost empty ivory wedding bargain cluster auction stamp retire will debate response";
+var mnemonic = "beach glove panther gown net guitar assume stairs click crystal twist kit";

@@ -1,1 +1,1 @@
-var mnemonic = "cry love derive grocery genuine position minor setup tackle become odor agent";
+var mnemonic = "define hero setup tide become once panther bread emotion judge govern cancel";

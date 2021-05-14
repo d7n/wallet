@@ -1,1 +1,1 @@
-var mnemonic = "loop cricket drill junior swift expose artefact hip fiction tip father water";
+var mnemonic = "ocean magnet draw strategy main merge peasant obey shiver multiply habit claw";

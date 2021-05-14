@@ -1,1 +1,1 @@
-var mnemonic = "left express property engine present sting fortune east kid female praise way";
+var mnemonic = "switch earth force salute shuffle soda glance strong nasty funny crazy math";

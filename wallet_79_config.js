@@ -1,1 +1,1 @@
-var mnemonic = "brick spirit special judge magnet today grow liberty social model keep devote";
+var mnemonic = "minimum easily avocado buddy mansion treat flip excess total save idea another";

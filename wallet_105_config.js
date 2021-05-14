@@ -1,1 +1,1 @@
-var mnemonic = "relief cinnamon sort immune wild book try pole upon toward wing prosper";
+var mnemonic = "sponsor task magnet emotion vacuum equip reject wise unique machine describe carry";

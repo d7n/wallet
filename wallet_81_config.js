@@ -1,1 +1,1 @@
-var mnemonic = "hawk olive draw resemble atom flock choice force miracle slow mixture what";
+var mnemonic = "guard pride puppy already top certain vehicle three dumb always favorite excuse";

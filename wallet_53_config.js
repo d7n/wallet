@@ -1,1 +1,1 @@
-var mnemonic = "nurse culture maximum topple uncover treat tent cruel device pen copper feed";
+var mnemonic = "curious shallow galaxy voyage tuition pistol vessel limit elder derive hope half";

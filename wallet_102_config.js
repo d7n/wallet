@@ -1,1 +1,1 @@
-var mnemonic = "nature sense scrub arm polar valid win truly poet horror solve now";
+var mnemonic = "judge drill together bread any poverty degree derive egg wise lemon hockey";

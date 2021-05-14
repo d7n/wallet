@@ -1,1 +1,1 @@
-var mnemonic = "regular wrestle wet prosper joy report myself heavy engine aspect offer settle";
+var mnemonic = "trouble sorry game cake mixed twelve kid spy among sadness album science";

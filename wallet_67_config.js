@@ -1,1 +1,1 @@
-var mnemonic = "that donor swarm chimney path rapid pig goddess color move renew cream";
+var mnemonic = "beyond excuse almost tail rotate pilot girl filter nominee merit middle limit";

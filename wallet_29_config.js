@@ -1,1 +1,1 @@
-var mnemonic = "artist spread hybrid food clock dilemma head figure change unlock spell soul";
+var mnemonic = "finish cheese seed perfect celery tongue violin install matter fabric dial slice";

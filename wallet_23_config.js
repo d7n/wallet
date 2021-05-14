@@ -1,1 +1,1 @@
-var mnemonic = "nut health jewel border skull tortoise liquid curve asset spider topple awesome";
+var mnemonic = "rally suggest increase fresh tourist grow boat wine primary clown govern disease";

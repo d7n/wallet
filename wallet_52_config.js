@@ -1,1 +1,1 @@
-var mnemonic = "strategy later riot glue throw immense ancient hungry assist leg soup swear";
+var mnemonic = "globe bar enact double target spawn strategy axis fault gorilla melody envelope";

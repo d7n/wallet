@@ -1,1 +1,1 @@
-var mnemonic = "boy shrimp nose roof ritual youth toast feed peasant april monitor arch";
+var mnemonic = "lottery enact spell lake cannon crazy much female coach uncle slender plug";

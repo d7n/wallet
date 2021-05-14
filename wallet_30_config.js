@@ -1,1 +1,1 @@
-var mnemonic = "drop clever razor admit very catalog nothing bundle initial cup basket cave";
+var mnemonic = "recycle miss rib away diagram cruise lion web file item time infant";

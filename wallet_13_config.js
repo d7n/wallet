@@ -1,1 +1,1 @@
-var mnemonic = "admit else swamp quality avocado program rough project camp december measure entry";
+var mnemonic = "sell argue company impulse census brass lock attack merry sense goose capable";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit science settle deliver fan voyage oppose family kick case raw project";
+var mnemonic = "inquiry beach luggage order decide lock find cry use frog noise smart";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst robot minor cash warrior clerk virus candy parrot expire pass vapor";
+var mnemonic = "access girl silk wise embark describe save noble trouble dash slow clutch";

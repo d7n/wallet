@@ -1,1 +1,1 @@
-var mnemonic = "hidden lawsuit route rescue physical honey layer resist fetch boring cry lobster";
+var mnemonic = "bring panther crash crew afraid short long reveal trouble swap critic fiction";

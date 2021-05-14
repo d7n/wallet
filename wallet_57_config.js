@@ -1,1 +1,1 @@
-var mnemonic = "property dress write deputy thing session shiver notable melt traffic above name";
+var mnemonic = "gospel prison gift carbon charge unknown note monitor naive mother pool honey";

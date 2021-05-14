@@ -1,1 +1,1 @@
-var mnemonic = "sleep orphan glory hawk enjoy bitter credit spider right engine dose audit";
+var mnemonic = "diesel little comic thing legend castle timber payment page elegant together bamboo";

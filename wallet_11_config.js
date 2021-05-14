@@ -1,1 +1,1 @@
-var mnemonic = "pottery west soda machine other crush false column tube sniff art earth";
+var mnemonic = "riot copper burger cable toe woman angry green ask enhance fork pepper";

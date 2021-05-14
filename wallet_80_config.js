@@ -1,1 +1,1 @@
-var mnemonic = "bind crash come focus satoshi family judge south math august convince share";
+var mnemonic = "surge inmate margin exchange blur grow decorate range joke supreme capable market";

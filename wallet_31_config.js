@@ -1,1 +1,1 @@
-var mnemonic = "pause bike real wreck gap coach sail catch crowd hawk perfect stick";
+var mnemonic = "ethics useful copy monitor talk caution circle blue interest illegal bachelor worry";

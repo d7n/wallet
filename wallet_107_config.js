@@ -1,1 +1,1 @@
-var mnemonic = "range response denial dice prosper punch trumpet nasty crater reveal token ozone";
+var mnemonic = "online trend blanket repair weird easy ritual post abuse wild thought symbol";

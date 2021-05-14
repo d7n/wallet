@@ -1,1 +1,1 @@
-var mnemonic = "alpha start pole across conduct hole purpose empty large ecology tuition famous";
+var mnemonic = "fatal limit glow domain shift domain comic reward alarm music clutch provide";

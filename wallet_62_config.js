@@ -1,1 +1,1 @@
-var mnemonic = "jar describe usage aware april donkey metal bright crane problem maid pitch";
+var mnemonic = "agree wedding kitten dolphin source earn trust man cabbage topple circle danger";

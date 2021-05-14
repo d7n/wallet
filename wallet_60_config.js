@@ -1,1 +1,1 @@
-var mnemonic = "much gather edge humor meat cherry core car office lounge gaze burst";
+var mnemonic = "approve enrich fall express gesture cliff bomb reflect toy scene rail balcony";

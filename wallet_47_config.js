@@ -1,1 +1,1 @@
-var mnemonic = "width slab force reunion champion follow travel company tribe can couch sing";
+var mnemonic = "interest owner harsh spoon hard pass wrestle forest quote smart potato concert";
