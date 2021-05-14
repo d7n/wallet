@@ -1,1 +1,1 @@
-var mnemonic = "lyrics panda hat mechanic add news fringe cancel diamond group spirit panic";
+var mnemonic = "muffin install small grain feel spray jar asthma defy place scheme ask";

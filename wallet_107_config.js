@@ -1,1 +1,1 @@
-var mnemonic = "lamp term jar scene door viable scan evil device skin gift flush";
+var mnemonic = "sudden funny evolve over kitchen essay oval start olympic coral develop silver";

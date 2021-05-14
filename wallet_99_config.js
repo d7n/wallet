@@ -1,1 +1,1 @@
-var mnemonic = "exchange entry chaos envelope mesh virtual utility soft cable school parent gadget";
+var mnemonic = "future tonight pave scheme today velvet summer fade depart acoustic hundred hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "coach buzz arrive various outside boost unfair laundry voyage panel melody dawn";
+var mnemonic = "local lion blush frost swift uphold review crater swear violin olive write";

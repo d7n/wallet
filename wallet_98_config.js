@@ -1,1 +1,1 @@
-var mnemonic = "scissors hawk old quarter shoe staff warfare surround scare network south donor";
+var mnemonic = "pelican fuel walk nose loud travel cup eight huge idle place list";

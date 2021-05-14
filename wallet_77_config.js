@@ -1,1 +1,1 @@
-var mnemonic = "cabbage museum rabbit term pluck hero cereal laptop case trip goose garden";
+var mnemonic = "list road whisper survey settle gravity fire device amazing talk wise glove";

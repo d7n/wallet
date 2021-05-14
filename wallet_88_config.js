@@ -1,1 +1,1 @@
-var mnemonic = "catch depend broccoli hawk wrap gadget clog void renew panther patrol acquire";
+var mnemonic = "square curve bundle worry peasant bus same finish between manage phone engage";

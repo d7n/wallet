@@ -1,1 +1,1 @@
-var mnemonic = "aim local letter alley toe walnut culture oven general aspect waste pupil";
+var mnemonic = "chicken nature slot slot funny crater number river depth bicycle domain stock";

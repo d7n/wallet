@@ -1,1 +1,1 @@
-var mnemonic = "exist elephant culture surge canyon peace public artist crush witness divert share";
+var mnemonic = "illness best gown program hamster turn wedding sunny clarify mushroom will else";

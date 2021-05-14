@@ -1,1 +1,1 @@
-var mnemonic = "swear buffalo mushroom educate pill romance ranch spin make modify act fish";
+var mnemonic = "blast memory giraffe then foam grunt blanket betray fabric need road pledge";

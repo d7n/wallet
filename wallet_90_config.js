@@ -1,1 +1,1 @@
-var mnemonic = "rebel gentle trim nerve antique excite brief vital swap lava leopard ready";
+var mnemonic = "crew project secret draft primary play joy crystal just armed program loop";

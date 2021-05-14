@@ -1,1 +1,1 @@
-var mnemonic = "sound ball tragic never ski rent exit loud more joke perfect purse";
+var mnemonic = "bundle inflict robust busy ready talent entire maid little deposit art paper";

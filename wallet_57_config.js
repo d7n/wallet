@@ -1,1 +1,1 @@
-var mnemonic = "oyster raccoon frozen race demise broken hold phrase episode purpose cancel relax";
+var mnemonic = "minute coil stable tortoise radio will hobby unit recall north invest spawn";

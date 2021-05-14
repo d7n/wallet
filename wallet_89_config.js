@@ -1,1 +1,1 @@
-var mnemonic = "net portion warrior observe crush tennis asthma taxi shop bomb obtain mixed";
+var mnemonic = "oxygen issue envelope punch host toast west play time evolve success crash";

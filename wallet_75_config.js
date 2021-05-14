@@ -1,1 +1,1 @@
-var mnemonic = "bridge power broom question fit fiscal copy ramp chapter analyst pumpkin voice";
+var mnemonic = "elephant remind unfold slide dial range ripple expect lottery arctic cherry goose";

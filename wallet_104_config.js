@@ -1,1 +1,1 @@
-var mnemonic = "fuel luxury bacon mad race column twice grape shuffle target dirt soon";
+var mnemonic = "cram build theme discover kid jacket sniff extra art kick piano spoil";

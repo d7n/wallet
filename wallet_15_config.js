@@ -1,1 +1,1 @@
-var mnemonic = "convince cute cancel coconut goose patrol addict cherry metal drink win hand";
+var mnemonic = "safe knock seat excess seminar mouse together shoe exit chapter fun insane";

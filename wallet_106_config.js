@@ -1,1 +1,1 @@
-var mnemonic = "leaf rapid imitate basket erase income artefact unfair wish census million boat";
+var mnemonic = "final book number endless turtle update valve charge ignore produce theme document";

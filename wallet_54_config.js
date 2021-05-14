@@ -1,1 +1,1 @@
-var mnemonic = "whale good goat success alter diary empty erupt run wine cluster cover";
+var mnemonic = "biology have knee reflect spread uncover inspire avoid budget owner whisper play";

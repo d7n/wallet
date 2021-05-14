@@ -1,1 +1,1 @@
-var mnemonic = "bulk address furnace explain vote idea pulp account carpet fix night canoe";
+var mnemonic = "camp submit action cloud quick rotate actual network display sting sheriff theory";

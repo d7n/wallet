@@ -1,1 +1,1 @@
-var mnemonic = "acid sorry chief sport neck clutch armed alter delay expire venture report";
+var mnemonic = "mouse between sugar school achieve doll spend survey mobile fetch sorry job";

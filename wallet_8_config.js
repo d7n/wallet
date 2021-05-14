@@ -1,1 +1,1 @@
-var mnemonic = "machine all auto eye aware candy obscure mimic enable fatigue marriage iron";
+var mnemonic = "rural chuckle derive word output wage smile hero tank actress two romance";

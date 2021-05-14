@@ -1,1 +1,1 @@
-var mnemonic = "aim force filter lounge mixture observe small physical firm ordinary increase course";
+var mnemonic = "figure century goddess core snack coyote such demise symbol dress group foster";

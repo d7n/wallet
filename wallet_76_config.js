@@ -1,1 +1,1 @@
-var mnemonic = "flavor shallow exchange elephant road engage enrich hurt feel palace lizard virtual";
+var mnemonic = "during thrive used century left business resource unfold task enroll fragile garlic";

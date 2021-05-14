@@ -1,1 +1,1 @@
-var mnemonic = "panda midnight drastic object camp minimum avoid mosquito father island merge original";
+var mnemonic = "voyage tiny farm path retire harbor habit forum another review rent raccoon";

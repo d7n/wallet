@@ -1,1 +1,1 @@
-var mnemonic = "confirm beef swim alarm live vessel fruit fence brother panel dance next";
+var mnemonic = "pride witness memory cannon divide long detail chief syrup render planet wife";

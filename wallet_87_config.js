@@ -1,1 +1,1 @@
-var mnemonic = "trap panel essence fox divide skill seven hobby regret person uniform confirm";
+var mnemonic = "spell poverty frost machine boss fiber citizen mouse moral goose subway bulk";

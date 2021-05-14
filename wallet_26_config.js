@@ -1,1 +1,1 @@
-var mnemonic = "odor intact demand liberty bridge shoe youth spin volcano fruit release adult";
+var mnemonic = "transfer share system upgrade unusual pyramid panel estate ignore dance increase paper";

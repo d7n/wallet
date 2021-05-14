@@ -1,1 +1,1 @@
-var mnemonic = "object order dry illegal plug bicycle erupt task embody just abandon home";
+var mnemonic = "fog noise buddy equal local garage divide tilt critic taxi access fuel";

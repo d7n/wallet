@@ -1,1 +1,1 @@
-var mnemonic = "cruise response kite topple holiday guide unique young divorce chaos what matrix";
+var mnemonic = "group empty negative april circle nose theory rural true detail hub sword";

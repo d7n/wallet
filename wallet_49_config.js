@@ -1,1 +1,1 @@
-var mnemonic = "cupboard time board throw buddy lunar erupt diary run evil metal inmate";
+var mnemonic = "upset artefact side million rail pitch direct any type same kite isolate";

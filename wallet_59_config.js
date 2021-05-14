@@ -1,1 +1,1 @@
-var mnemonic = "blood cushion budget media torch chuckle garage enroll match portion shock decorate";
+var mnemonic = "robust throw stage cruise sketch wait girl spare water buyer glass candy";

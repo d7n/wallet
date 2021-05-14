@@ -1,1 +1,1 @@
-var mnemonic = "govern siren absurd inhale damp raccoon lesson fiction auto trick palace access";
+var mnemonic = "later draw inquiry glide scrub bring say glance caution birth trip quarter";

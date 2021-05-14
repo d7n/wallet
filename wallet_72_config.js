@@ -1,1 +1,1 @@
-var mnemonic = "seed rookie know tent extend dune vibrant identify chaos orphan wrong choice";
+var mnemonic = "acoustic winter return best cabin canyon device jaguar cool lion never fabric";

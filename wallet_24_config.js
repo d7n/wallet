@@ -1,1 +1,1 @@
-var mnemonic = "pulp parent page jealous interest cactus upon next disagree club indoor record";
+var mnemonic = "position heavy concert tumble mansion flee avoid butter immune public scare office";

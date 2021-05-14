@@ -1,1 +1,1 @@
-var mnemonic = "prison turkey rail nut like seek toe crouch rude finish blur learn";
+var mnemonic = "enable mansion profit forest churn father advance nephew wait excite trim meadow";

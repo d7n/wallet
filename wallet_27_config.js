@@ -1,1 +1,1 @@
-var mnemonic = "other veteran fragile slender medal inmate ecology rack spider wheat poem open";
+var mnemonic = "this easily patient shine ensure swing cousin puppy govern mad rural brain";

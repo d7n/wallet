@@ -1,1 +1,1 @@
-var mnemonic = "elephant mixed arrange abandon burden ketchup polar quality raw shuffle crucial early";
+var mnemonic = "torch retire ahead chaos truly expect inject laugh icon spare lend remember";

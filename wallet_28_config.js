@@ -1,1 +1,1 @@
-var mnemonic = "bundle own dinner diagram other primary joke mirror explain amateur casual flat";
+var mnemonic = "sheriff expire deposit balcony current develop food drop debris below ring two";

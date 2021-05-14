@@ -1,1 +1,1 @@
-var mnemonic = "essay cancel naive retreat quote light chronic few leg task half open";
+var mnemonic = "camp you base actual foam faint endorse horse jeans turkey attack ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss dolphin strategy major extend print clump snap mercy delay erupt accident";
+var mnemonic = "target spread hat kick grab nerve hair hazard supply trash vapor furnace";

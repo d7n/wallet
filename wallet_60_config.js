@@ -1,1 +1,1 @@
-var mnemonic = "abuse unable analyst alley angle just slogan two amused broom dirt spell";
+var mnemonic = "stage wish pencil ethics used rigid book rude below spring churn heavy";

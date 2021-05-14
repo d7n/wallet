@@ -1,1 +1,1 @@
-var mnemonic = "barely blanket average domain honey sign actual lobster crack aim party oil";
+var mnemonic = "slim ticket until shine daring observe basic turkey oil slice together wild";

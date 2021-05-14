@@ -1,1 +1,1 @@
-var mnemonic = "coral west govern chef border level globe accuse tiny scene nose disease";
+var mnemonic = "flavor small industry chuckle execute kick train snow grunt mansion opera grab";

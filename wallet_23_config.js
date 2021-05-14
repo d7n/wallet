@@ -1,1 +1,1 @@
-var mnemonic = "surprise claim drum calm tent stamp proud recipe weapon cloth start belt";
+var mnemonic = "symbol planet enable narrow one celery decrease onion vehicle grunt math must";

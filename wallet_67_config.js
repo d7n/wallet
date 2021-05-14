@@ -1,1 +1,1 @@
-var mnemonic = "plug stock mandate trouble call where gain valley forget tired sister cloth";
+var mnemonic = "tenant sunny price fade salt metal party october citizen crisp rural judge";

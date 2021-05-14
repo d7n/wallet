@@ -1,1 +1,1 @@
-var mnemonic = "often snap issue repeat vapor today antique rib iron lounge clean that";
+var mnemonic = "infant photo bullet clever wink spider indicate erase two anxiety person click";

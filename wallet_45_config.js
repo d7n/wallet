@@ -1,1 +1,1 @@
-var mnemonic = "foil luggage wonder upper inhale popular rabbit napkin kiwi quiz scare purse";
+var mnemonic = "among cycle cherry holiday bar love ability pretty clap soon obtain tooth";

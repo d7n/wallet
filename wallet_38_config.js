@@ -1,1 +1,1 @@
-var mnemonic = "party slogan allow child hockey business trigger conduct will onion grace special";
+var mnemonic = "sphere jaguar uphold buddy occur tide rug obtain ugly bulb syrup juice";

@@ -1,1 +1,1 @@
-var mnemonic = "defense digital cereal sight depart afraid opinion jump trouble dentist tooth myself";
+var mnemonic = "donor tooth ride hazard urge tuition trend minor grass place age minute";

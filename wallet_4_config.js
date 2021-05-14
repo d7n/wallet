@@ -1,1 +1,1 @@
-var mnemonic = "actress damp choose raw zero live detect invest today dizzy person hero";
+var mnemonic = "cinnamon zoo execute dolphin fade august dice parent two trial alert congress";

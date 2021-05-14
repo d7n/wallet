@@ -1,1 +1,1 @@
-var mnemonic = "object input alien pole frog female evoke subway glide clarify borrow hurdle";
+var mnemonic = "replace office neglect siege spin oak furnace olympic before boss crouch crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze adjust retire cactus antenna palm panel curtain math forward twenty plug";
+var mnemonic = "square slot enjoy security vital episode sight sausage lobster electric boring mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "ten practice clean narrow motor rocket lunar rifle master assist biology admit";
+var mnemonic = "virtual moment stay invest slow latin admit winner razor grunt need scissors";

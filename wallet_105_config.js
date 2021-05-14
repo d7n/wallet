@@ -1,1 +1,1 @@
-var mnemonic = "drive paddle forum camera laugh shove close brush bounce security reopen dream";
+var mnemonic = "soon present blouse cook law display clutch dog online attitude invite prison";

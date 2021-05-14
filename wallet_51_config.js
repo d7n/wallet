@@ -1,1 +1,1 @@
-var mnemonic = "coast rent mesh pupil badge clever room thrive sauce prefer orange property";
+var mnemonic = "kind absurd cake refuse axis enter other false parrot crystal edit grow";

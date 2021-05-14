@@ -1,1 +1,1 @@
-var mnemonic = "still trend elephant ceiling zero item spring basket wage repeat cost tilt";
+var mnemonic = "eagle clever iron smile prosper ginger urge gorilla beef stand minute chest";

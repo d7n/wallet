@@ -1,1 +1,1 @@
-var mnemonic = "horn gossip toilet athlete term couch resource bright agent frame cotton castle";
+var mnemonic = "concert adult vessel valve slab horror hidden index river replace warrior learn";

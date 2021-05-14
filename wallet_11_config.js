@@ -1,1 +1,1 @@
-var mnemonic = "increase welcome retreat family inner surround gesture select grunt guitar city outdoor";
+var mnemonic = "side door text pledge radio cup salad siren unique offer antenna injury";

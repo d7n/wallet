@@ -1,1 +1,1 @@
-var mnemonic = "couple oxygen unlock else coral home frown marble gospel filter friend roast";
+var mnemonic = "chunk jealous gauge burst area erupt error giant buzz history object renew";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe oil kit monster expire letter pull dumb biology keep bronze adapt";
+var mnemonic = "ocean spare review marble quote census half sail chase relief fame output";

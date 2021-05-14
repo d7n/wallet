@@ -1,1 +1,1 @@
-var mnemonic = "sustain gown artist situate warfare pelican tunnel pluck primary holiday stock shock";
+var mnemonic = "person state glue skin february require outer melt release embody gaze reflect";

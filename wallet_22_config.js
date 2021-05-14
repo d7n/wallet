@@ -1,1 +1,1 @@
-var mnemonic = "edge hungry mix until shy question warfare noise menu involve state flip";
+var mnemonic = "snow bring mercy palace vast tuition weird harbor spirit local dumb pride";

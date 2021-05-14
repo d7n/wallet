@@ -1,1 +1,1 @@
-var mnemonic = "net kick notice shoot census menu put limb scare accident defy canoe";
+var mnemonic = "napkin broom march total dish tube hazard success excite hope pride coffee";

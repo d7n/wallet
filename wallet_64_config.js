@@ -1,1 +1,1 @@
-var mnemonic = "umbrella mail dismiss asthma someone soccer decide letter post leader remove hello";
+var mnemonic = "hen muscle donkey visit cat tourist cross denial uniform woman bulk major";

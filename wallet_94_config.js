@@ -1,1 +1,1 @@
-var mnemonic = "exercise high under museum valley cream hollow excess calm border oyster cloud";
+var mnemonic = "emerge current solve assault scorpion describe teach weapon wise offer elephant dose";

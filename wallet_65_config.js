@@ -1,1 +1,1 @@
-var mnemonic = "sleep daring explain shadow tape piano stove affair relax monitor puzzle fade";
+var mnemonic = "web scheme novel addict nasty eternal talent mixed thought chest jelly silent";

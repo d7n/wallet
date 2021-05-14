@@ -1,1 +1,1 @@
-var mnemonic = "image tag scissors rug flame cigar picnic gossip smooth leg reject flavor";
+var mnemonic = "employ truck whale hurt edge tube fury spider sample payment tent click";

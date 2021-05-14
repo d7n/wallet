@@ -1,1 +1,1 @@
-var mnemonic = "tank black craft jump element cement panther alien dwarf year wash enable";
+var mnemonic = "sad organ element unfold novel size orchard decline happy basket desk tower";

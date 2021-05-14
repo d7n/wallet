@@ -1,1 +1,1 @@
-var mnemonic = "female lunar craft blossom daughter enforce curious valid egg owner above elbow";
+var mnemonic = "unit task steak chunk pill absurd wet stay connect annual pony venture";

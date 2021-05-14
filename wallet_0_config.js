@@ -1,1 +1,1 @@
-var mnemonic = "organ myself raise imitate file audit access sense shallow dash tiny admit";
+var mnemonic = "physical fee entire satisfy rain exile circle despair pudding demand rhythm poem";

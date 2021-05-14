@@ -1,1 +1,1 @@
-var mnemonic = "amazing bargain foil shuffle inch primary garage decide crash hair crack avocado";
+var mnemonic = "dirt two shuffle plastic forest melody general suggest drift art there negative";

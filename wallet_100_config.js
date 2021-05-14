@@ -1,1 +1,1 @@
-var mnemonic = "kitchen endorse gun smile grain pumpkin grant then tackle quality face basic";
+var mnemonic = "intact man limb call remind ginger forum swim unfair tourist clean hour";

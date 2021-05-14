@@ -1,1 +1,1 @@
-var mnemonic = "edge guitar unaware find fold sort symbol runway credit either accident pass";
+var mnemonic = "entire wink bleak install beef soda example diesel promote wonder tag wonder";

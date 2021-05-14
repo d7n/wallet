@@ -1,1 +1,1 @@
-var mnemonic = "water ride topple echo dinner punch barely unique kingdom rug turn search";
+var mnemonic = "sea tuna rug leave jealous time assault depend teach tennis like quiz";

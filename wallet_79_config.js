@@ -1,1 +1,1 @@
-var mnemonic = "soon gather area cupboard exhaust solve swing normal multiply crumble pelican team";
+var mnemonic = "pony fatigue radio tumble ozone reason suffer whip unveil goddess black arch";

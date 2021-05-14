@@ -1,1 +1,1 @@
-var mnemonic = "own once hole beauty slogan drama kiwi hat loop bar frozen buddy";
+var mnemonic = "liquid include atom sniff pelican assist same frown oblige thing poem calm";

@@ -1,1 +1,1 @@
-var mnemonic = "best extra shed already cruel frequent noise harbor state ill obscure panic";
+var mnemonic = "custom seed pudding tone peasant science love any screen member rain scene";

@@ -1,1 +1,1 @@
-var mnemonic = "pass omit print sport mad cattle knock digital segment social symptom prevent";
+var mnemonic = "slam improve youth hold pave produce skill spawn response feed face seat";

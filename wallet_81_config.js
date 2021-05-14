@@ -1,1 +1,1 @@
-var mnemonic = "napkin render hello feature boring sell dish member plunge unveil arrive reopen";
+var mnemonic = "rhythm egg about skirt social captain addict alone valid tissue february joy";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge only program garage autumn sketch pupil object episode bless profit muffin";
+var mnemonic = "laundry oven trip roast puzzle multiply predict frown nation caution prison wall";

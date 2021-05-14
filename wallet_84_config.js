@@ -1,1 +1,1 @@
-var mnemonic = "void entry neutral dizzy settle settle during siren carbon fix inch noise";
+var mnemonic = "tray cereal clay plate protect rookie junior rotate unveil invest gold eight";

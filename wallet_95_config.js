@@ -1,1 +1,1 @@
-var mnemonic = "ghost heart record swap silk pen bracket shift right arena people wise";
+var mnemonic = "find boy alien dignity foam outside casual quantum hero disorder crawl tiny";

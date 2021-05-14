@@ -1,1 +1,1 @@
-var mnemonic = "purchase tiny wasp able retire label canal liar fire top sphere cable";
+var mnemonic = "daughter friend entire little earth teach business gasp maid script carpet cake";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar question nose acoustic double frog flag ten layer honey element reveal";
+var mnemonic = "advance crowd code tool fluid menu harbor vintage nation smoke toddler tomorrow";

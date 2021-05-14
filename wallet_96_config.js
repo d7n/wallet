@@ -1,1 +1,1 @@
-var mnemonic = "lizard elite angle mammal message clever silver peace slim pen discover vendor";
+var mnemonic = "heavy lawsuit fog oak pill spare neither myth dirt search patch advance";

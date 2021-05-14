@@ -1,1 +1,1 @@
-var mnemonic = "company require sugar cluster patient gloom push ethics display wild month comic";
+var mnemonic = "recipe cross light uphold coconut small garment ginger life kite manage lounge";

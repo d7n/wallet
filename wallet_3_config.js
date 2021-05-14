@@ -1,1 +1,1 @@
-var mnemonic = "humor balcony master room invite magnet dirt youth chimney obvious industry cart";
+var mnemonic = "base flame hunt humble this better member scatter sport amateur mask seminar";

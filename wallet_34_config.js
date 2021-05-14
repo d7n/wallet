@@ -1,1 +1,1 @@
-var mnemonic = "thunder wage myself welcome easy rally idea recipe vicious episode permit motion";
+var mnemonic = "planet width bunker nothing arctic popular neutral math kitchen cloth narrow season";

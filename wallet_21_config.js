@@ -1,1 +1,1 @@
-var mnemonic = "caught spoil siege dumb claw enforce such unveil devote fall rapid goose";
+var mnemonic = "lake order truly abuse picture fine satisfy web river monkey walk start";

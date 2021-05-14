@@ -1,1 +1,1 @@
-var mnemonic = "olive matter affair satoshi barrel oyster merge win dust road royal artwork";
+var mnemonic = "silly machine divert bamboo property ball fun salon estate spoon vast infant";

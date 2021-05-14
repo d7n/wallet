@@ -1,1 +1,1 @@
-var mnemonic = "enlist comfort doctor stamp sun estate tobacco clutch midnight night note spatial";
+var mnemonic = "zero rich scorpion discover unfair test junk tomorrow grab neck book face";

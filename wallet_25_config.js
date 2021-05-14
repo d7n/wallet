@@ -1,1 +1,1 @@
-var mnemonic = "tube slush thunder whisper beauty twelve unique always polar donor plug congress";
+var mnemonic = "picnic seminar poverty staff bid click vague mandate inspire legal adapt license";

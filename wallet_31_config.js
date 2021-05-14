@@ -1,1 +1,1 @@
-var mnemonic = "install toy mind tourist argue clutch indicate sibling calm category across spoon";
+var mnemonic = "vague sand curious piano route hidden buffalo number bless frozen blur spatial";

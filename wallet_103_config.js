@@ -1,1 +1,1 @@
-var mnemonic = "begin wool cat leader tent smooth speak vacant broom maximum donate buffalo";
+var mnemonic = "type message exercise enhance hand oval material appear marble equip easily label";

@@ -1,1 +1,1 @@
-var mnemonic = "please hen occur key damp bridge dove kit indicate zero flavor curve";
+var mnemonic = "zero squeeze merit immune critic approve model display theory bacon canvas drink";
