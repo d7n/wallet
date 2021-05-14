@@ -1,1 +1,1 @@
-var mnemonic = "squirrel enough shell language blush nothing ridge clarify gorilla phone excuse tragic";
+var mnemonic = "combine truck dune law pluck avocado between add mean normal chalk foam";

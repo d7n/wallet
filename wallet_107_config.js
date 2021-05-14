@@ -1,1 +1,1 @@
-var mnemonic = "solve hurt depth horse novel mammal high dynamic vicious salon loud such";
+var mnemonic = "token reject online various clown soap tag display series fluid pear dance";

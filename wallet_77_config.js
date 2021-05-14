@@ -1,1 +1,1 @@
-var mnemonic = "cluster gallery typical parrot indicate wing budget agent armor finish never upgrade";
+var mnemonic = "guess inmate water fiscal multiply cube burden tray guess claim picture curious";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage fine cruise special purse perfect harsh review assume polar foil olive";
+var mnemonic = "knee federal quick extend balcony quick sport very nest tennis lunch coach";

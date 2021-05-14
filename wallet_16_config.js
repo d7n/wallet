@@ -1,1 +1,1 @@
-var mnemonic = "curve boost lecture frame wing nuclear any large plunge faculty report field";
+var mnemonic = "sauce fatal orphan consider dad diesel major bitter real gown present melt";

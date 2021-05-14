@@ -1,1 +1,1 @@
-var mnemonic = "shine logic fiber thunder finger gorilla fee sketch you genuine rail delay";
+var mnemonic = "crush worry bless chronic earn scissors verify urban churn okay again immune";

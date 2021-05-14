@@ -1,1 +1,1 @@
-var mnemonic = "wrap sugar eye speak height army cycle people bone denial admit brisk";
+var mnemonic = "sun eagle fortune lesson fame kiss apple scene exact october diet deal";

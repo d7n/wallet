@@ -1,1 +1,1 @@
-var mnemonic = "review grunt hedgehog nut fire output bulb cushion merit domain toast lion";
+var mnemonic = "outdoor bid cool license master desk capable trap fee wild drink slogan";

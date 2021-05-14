@@ -1,1 +1,1 @@
-var mnemonic = "vintage reduce spike dash bomb reason bike enable erosion candy bridge else";
+var mnemonic = "minimum rain kiss road divorce egg twenty tiger gas wasp deliver receive";

@@ -1,1 +1,1 @@
-var mnemonic = "patient whale canal home devote try try cancel muscle fruit patch lounge";
+var mnemonic = "ribbon tent input noble move lemon cushion rug suggest result enroll cousin";

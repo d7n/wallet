@@ -1,1 +1,1 @@
-var mnemonic = "author shy cream crouch mixture frost reveal extra own wrap atom boat";
+var mnemonic = "fiber history comic beef best black cook great demise nuclear dwarf time";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan flag material price marine mom delay tide achieve cross survey battle";
+var mnemonic = "track vanish symptom decide cheese mercy decorate skin peanut tilt destroy melt";

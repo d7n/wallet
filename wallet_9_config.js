@@ -1,1 +1,1 @@
-var mnemonic = "tube dry fragile vital setup cage visual purity cigar permit alpha entry";
+var mnemonic = "lens wolf wagon prize knee appear jungle crash garment debris knock risk";

@@ -1,1 +1,1 @@
-var mnemonic = "awake entry goose dawn exist sort moon infant faith throw isolate shift";
+var mnemonic = "gorilla ocean century involve mouse spare that enroll blood raven double lounge";

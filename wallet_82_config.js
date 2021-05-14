@@ -1,1 +1,1 @@
-var mnemonic = "swing student clutch orphan oak always attend arrow client health reopen long";
+var mnemonic = "scare castle unfair rule shift twist turkey spare shy below strategy divide";

@@ -1,1 +1,1 @@
-var mnemonic = "agree pill vocal taxi fossil such patient behave announce response acoustic resemble";
+var mnemonic = "actual feed must axis hover execute camera velvet arrest income miss dry";

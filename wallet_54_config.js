@@ -1,1 +1,1 @@
-var mnemonic = "climb lift convince time february iron vapor vital choice calm wreck approve";
+var mnemonic = "dash throw fetch together fine photo category grief inspire pupil scare evidence";

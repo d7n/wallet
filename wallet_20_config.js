@@ -1,1 +1,1 @@
-var mnemonic = "tilt plug setup toward left smooth educate eight route impact wrong unable";
+var mnemonic = "subway lava heart outside need cup tube punch say damp smoke galaxy";

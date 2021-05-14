@@ -1,1 +1,1 @@
-var mnemonic = "humble want more fantasy category glue insane real scatter suggest subject cluster";
+var mnemonic = "hidden year chef slam remain rally rocket pipe worry improve sausage belt";

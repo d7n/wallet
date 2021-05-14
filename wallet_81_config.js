@@ -1,1 +1,1 @@
-var mnemonic = "potato actress rabbit bulb civil alley detail road uncle champion vendor cross";
+var mnemonic = "certain menu dress lion pluck another today possible resource oval carbon twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "trust crawl clarify stool wish despair foot measure tool lonely drop bunker";
+var mnemonic = "wrestle forward rifle uphold stage balance subject lumber cloth wall pitch lawsuit";

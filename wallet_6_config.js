@@ -1,1 +1,1 @@
-var mnemonic = "icon chaos win shift choice add decline vote attack injury hawk sphere";
+var mnemonic = "shrimp drop smooth ankle deal truly hammer keep toilet valid cancel sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "couch leader dentist apology neutral stick game tattoo voyage tell joy trade";
+var mnemonic = "youth top radio annual canyon avocado puppy banner unveil legend tissue media";

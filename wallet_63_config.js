@@ -1,1 +1,1 @@
-var mnemonic = "feel charge visual possible hybrid fix pool usual sight april interest home";
+var mnemonic = "nerve any surprise section jelly job system deliver broom bargain soup ankle";

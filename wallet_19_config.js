@@ -1,1 +1,1 @@
-var mnemonic = "brown jump ethics rice idle quick bunker view device total vote meat";
+var mnemonic = "item lumber wood member rule era achieve cargo fragile live side giant";

@@ -1,1 +1,1 @@
-var mnemonic = "pear quick assume dog arrange shock tiny wash hub all smooth recycle";
+var mnemonic = "funny obey worry hover surge soda brain title fee rain price wise";

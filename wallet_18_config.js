@@ -1,1 +1,1 @@
-var mnemonic = "club culture romance never intact town detail thunder anxiety jazz turkey frame";
+var mnemonic = "trade please lens patrol excite depart rebuild lunch neglect notable diesel fever";

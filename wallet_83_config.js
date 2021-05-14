@@ -1,1 +1,1 @@
-var mnemonic = "cage outside maximum rude gift solid pass wagon scout dust merit first";
+var mnemonic = "link galaxy build frost dog neutral lumber survey napkin movie theme shed";

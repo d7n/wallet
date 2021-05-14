@@ -1,1 +1,1 @@
-var mnemonic = "kite pink table live message clean dilemma apology salad soldier isolate bottom";
+var mnemonic = "soccer duck traffic prepare crack empower pear solve mystery solve cube snow";

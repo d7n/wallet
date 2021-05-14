@@ -1,1 +1,1 @@
-var mnemonic = "suggest educate wash engage wife heart marine win office shy garage old";
+var mnemonic = "van unfold rough few used hand grape sketch cube audit play until";

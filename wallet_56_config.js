@@ -1,1 +1,1 @@
-var mnemonic = "tail rigid switch journey slim humble private surprise body effort trick crouch";
+var mnemonic = "join fold between ecology trim theory immense original document fade network audit";

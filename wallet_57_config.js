@@ -1,1 +1,1 @@
-var mnemonic = "region rather advance volume actual attend speed manage lock fog wish swear";
+var mnemonic = "discover raw design fame fame wife damage stumble lemon lock found beef";

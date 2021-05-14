@@ -1,1 +1,1 @@
-var mnemonic = "drink shove bounce melt unfair eternal elite tragic frost gadget clinic rib";
+var mnemonic = "vote stand easy cross bag solid wise stay donate evil genius romance";

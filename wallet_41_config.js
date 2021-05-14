@@ -1,1 +1,1 @@
-var mnemonic = "issue else attract ginger august educate panic struggle nothing grain maple wagon";
+var mnemonic = "wonder industry shift subway decline basket flower rebel capable shine high path";

@@ -1,1 +1,1 @@
-var mnemonic = "letter portion text learn topic tackle december jealous reopen mechanic sweet glow";
+var mnemonic = "family inject wheel orange dentist album guess pig pulp woman usual reopen";

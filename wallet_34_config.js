@@ -1,1 +1,1 @@
-var mnemonic = "you leader cactus depart chaos faint boss seed rate time artwork wonder";
+var mnemonic = "duty clerk matrix whip appear disorder wisdom sibling drum rude expect pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "lab then orchard street hotel hard borrow whip word portion clock elite";
+var mnemonic = "notable tail crime plunge city neglect inner build blouse weekend pattern country";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk stairs glory desk impose dutch view renew tattoo duty trade impact";
+var mnemonic = "patrol melody bench frog warrior evil fish cannon reduce dirt craft approve";

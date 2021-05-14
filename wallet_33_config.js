@@ -1,1 +1,1 @@
-var mnemonic = "near height fruit dress fancy shiver above fault basic prize fault load";
+var mnemonic = "sunset uncover pigeon later earn hill joke build crush vivid capital general";

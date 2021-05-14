@@ -1,1 +1,1 @@
-var mnemonic = "sock bulk derive joy price cover damage either strike exit skin punch";
+var mnemonic = "census hammer still cinnamon amused predict soap spy raise actual glue regret";

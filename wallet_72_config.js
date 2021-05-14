@@ -1,1 +1,1 @@
-var mnemonic = "accident dolphin catalog produce celery call vendor example scan dream tiger report";
+var mnemonic = "deliver mimic slide interest lucky pole interest strike dune bus rib clock";

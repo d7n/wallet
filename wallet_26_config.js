@@ -1,1 +1,1 @@
-var mnemonic = "taste artwork tragic custom shrimp broccoli snow book cattle average key innocent";
+var mnemonic = "vendor document nuclear wrestle access vague comfort clutch boil check earn high";

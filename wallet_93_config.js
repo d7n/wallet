@@ -1,1 +1,1 @@
-var mnemonic = "speak busy sudden pig mix pear huge weird world program spin game";
+var mnemonic = "expect eye frown subject weapon neck injury ability whip female stone clarify";

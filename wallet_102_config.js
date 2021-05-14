@@ -1,1 +1,1 @@
-var mnemonic = "charge car bullet acoustic meadow million arrow hollow powder digital priority thumb";
+var mnemonic = "miss film scheme piano brain limit chaos submit wear build erosion flavor";

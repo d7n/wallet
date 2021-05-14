@@ -1,1 +1,1 @@
-var mnemonic = "knee derive any daughter journey train movie trumpet narrow area describe vacant";
+var mnemonic = "nerve dutch hawk curtain glory ski bag shaft omit you dumb fence";

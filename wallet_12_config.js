@@ -1,1 +1,1 @@
-var mnemonic = "patch whip release analyst pact track matter twice fabric couple charge impact";
+var mnemonic = "grape midnight thought mistake again beach forget mail flee goddess estate trade";

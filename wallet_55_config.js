@@ -1,1 +1,1 @@
-var mnemonic = "find test rural danger gather december entire wealth quit trouble review slide";
+var mnemonic = "doctor buzz equal welcome neutral dawn fly thing stereo biology corn click";

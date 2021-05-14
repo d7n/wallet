@@ -1,1 +1,1 @@
-var mnemonic = "smart lobster rib daring erode elephant before uncle move author struggle measure";
+var mnemonic = "multiply silly story plastic price picnic excuse milk toy doll betray lunch";

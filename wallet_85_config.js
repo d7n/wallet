@@ -1,1 +1,1 @@
-var mnemonic = "relax fruit kit issue print have will route neglect waste force run";
+var mnemonic = "wood nurse capable doll column misery return collect naive rent produce kitchen";

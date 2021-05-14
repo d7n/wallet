@@ -1,1 +1,1 @@
-var mnemonic = "already inside inherit emotion small agree sister ball sadness fan planet guilt";
+var mnemonic = "artist double ill mutual anxiety panic drink siren menu float pizza wink";

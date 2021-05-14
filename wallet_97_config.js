@@ -1,1 +1,1 @@
-var mnemonic = "board what struggle dizzy provide place senior bag matter menu gesture about";
+var mnemonic = "group review ski digital diamond faith creek sorry just keep toddler glow";

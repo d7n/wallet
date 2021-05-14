@@ -1,1 +1,1 @@
-var mnemonic = "milk carpet drift have slice limit royal raw spirit comic danger wrap";
+var mnemonic = "shove eternal brand real random oak lyrics apart extra cattle recall sport";

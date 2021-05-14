@@ -1,1 +1,1 @@
-var mnemonic = "bomb can whip upset three wide luggage cargo movie weird round nurse";
+var mnemonic = "theory curve drive title primary illness enroll tomorrow viable bird shrug left";

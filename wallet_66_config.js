@@ -1,1 +1,1 @@
-var mnemonic = "useless permit tree worth lab collect neglect bubble elder sort fossil cage";
+var mnemonic = "envelope confirm trash dinner renew expire switch clump seven member unfold game";

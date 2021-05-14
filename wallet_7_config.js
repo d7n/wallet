@@ -1,1 +1,1 @@
-var mnemonic = "episode curve announce present donate drift twenty zero violin favorite bleak icon";
+var mnemonic = "fade infant saddle balance cage morning buzz lock mountain nuclear shiver release";

@@ -1,1 +1,1 @@
-var mnemonic = "patch fault party pupil slot scissors ice impulse tenant infant mixed garlic";
+var mnemonic = "mass army toilet circle doctor marriage sad crack credit barely sail air";

@@ -1,1 +1,1 @@
-var mnemonic = "input entry link mirror fish admit rhythm water there cattle fog gasp";
+var mnemonic = "neck resource cup film ocean often surge feature another kid step nice";

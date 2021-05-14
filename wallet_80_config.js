@@ -1,1 +1,1 @@
-var mnemonic = "cluster use trim flat salmon lobster gentle enemy easy method skill moment";
+var mnemonic = "lizard van toilet delay pizza protect document blind reflect promote pepper flush";

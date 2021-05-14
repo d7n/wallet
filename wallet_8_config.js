@@ -1,1 +1,1 @@
-var mnemonic = "parade garbage exotic erase festival crunch crew gas destroy gun pass toddler";
+var mnemonic = "permit raccoon tourist power actual lawn square flash bulk inner will draw";

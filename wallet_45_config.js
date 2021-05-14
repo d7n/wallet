@@ -1,1 +1,1 @@
-var mnemonic = "mushroom iron remind wrap they magic junk panther awful bird whip aspect";
+var mnemonic = "smart couch repair voice fiction mammal mimic tent off vehicle hat consider";

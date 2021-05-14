@@ -1,1 +1,1 @@
-var mnemonic = "mobile army drive laundry alone exact nerve chronic champion mistake nominee comfort";
+var mnemonic = "scatter tilt degree fix alien feature annual try prosper during vocal jaguar";

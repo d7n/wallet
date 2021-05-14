@@ -1,1 +1,1 @@
-var mnemonic = "gorilla erosion brush antique cattle second normal juice clog napkin milk wife";
+var mnemonic = "radar whip salad alien draft dial marble mule pizza weather special voyage";

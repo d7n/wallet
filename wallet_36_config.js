@@ -1,1 +1,1 @@
-var mnemonic = "machine bind riot lesson device brain rival drive demise height peanut bridge";
+var mnemonic = "master path select gentle palm network fetch stamp spider sadness submit still";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope render dawn melody elevator grape place flat recycle aerobic pledge test";
+var mnemonic = "multiply symptom frog off current fine dwarf quote naive quick clock panther";

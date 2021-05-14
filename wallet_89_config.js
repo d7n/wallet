@@ -1,1 +1,1 @@
-var mnemonic = "oil garlic major beach alter remember sponsor have pudding orphan table soul";
+var mnemonic = "kiwi sell clip submit crush decline phrase fragile noise fiber protect occur";

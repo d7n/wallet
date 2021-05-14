@@ -1,1 +1,1 @@
-var mnemonic = "describe silver wink urban burden approve wing zone either liquid peanut fork";
+var mnemonic = "category vast whip unique jar brick setup rain oblige surge border ritual";

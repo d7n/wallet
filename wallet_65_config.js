@@ -1,1 +1,1 @@
-var mnemonic = "finish old bridge indoor gaze usual improve aim expose strategy truth hill";
+var mnemonic = "basic diary nurse crime version horror hazard wire leisure damp void method";

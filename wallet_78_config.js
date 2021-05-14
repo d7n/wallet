@@ -1,1 +1,1 @@
-var mnemonic = "asset shove token magic cave inhale service fit bargain shop noodle sunny";
+var mnemonic = "wave struggle height design chair damage dress coast primary celery stomach bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "render silk street chase castle heavy crush dish glare vicious pilot race";
+var mnemonic = "present chunk blue method wash creek noise kidney december economy smart list";

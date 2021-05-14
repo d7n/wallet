@@ -1,1 +1,1 @@
-var mnemonic = "code like rely join silent wedding check stool mule skirt critic exist";
+var mnemonic = "portion innocent matrix glass ten sail tobacco fiction dwarf idea urban salon";

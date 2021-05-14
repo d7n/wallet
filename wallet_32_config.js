@@ -1,1 +1,1 @@
-var mnemonic = "title wedding thank float hat sustain bracket tongue elite mistake choose glare";
+var mnemonic = "shrimp happy injury frozen version royal waste swarm wonder ethics month wine";

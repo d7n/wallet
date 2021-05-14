@@ -1,1 +1,1 @@
-var mnemonic = "behind squirrel thought neck volume crater awake exist method mad load scorpion";
+var mnemonic = "empty day youth ramp ramp stay sentence sniff dose sort argue attack";

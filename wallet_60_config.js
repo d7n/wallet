@@ -1,1 +1,1 @@
-var mnemonic = "flame possible pupil deny double tissue donate cat grow tongue relax accident";
+var mnemonic = "tattoo south almost naive nurse swarm symbol garden remove proud online toe";

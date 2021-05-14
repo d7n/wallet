@@ -1,1 +1,1 @@
-var mnemonic = "divert blossom much bike patient dwarf gossip step empower sleep dice stuff";
+var mnemonic = "veteran table ski fabric portion cotton copy marine ritual clock upset wide";

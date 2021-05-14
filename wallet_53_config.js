@@ -1,1 +1,1 @@
-var mnemonic = "choose rich detail dry split uncle nest cup teach call magnet document";
+var mnemonic = "network feel trim fatal monster borrow category rebel sheriff adjust ecology federal";

@@ -1,1 +1,1 @@
-var mnemonic = "maple fit food immense measure path again main endless track share opinion";
+var mnemonic = "upset exact hour million leaf obscure identify worth friend sister flag click";

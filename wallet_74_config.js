@@ -1,1 +1,1 @@
-var mnemonic = "mesh ship blame dragon deposit industry start addict limit then rabbit rice";
+var mnemonic = "dress ice exchange capital minor hundred ability hair december index pact erosion";

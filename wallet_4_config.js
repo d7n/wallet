@@ -1,1 +1,1 @@
-var mnemonic = "snap click broccoli float eagle into left right marine two theory repeat";
+var mnemonic = "praise champion cluster sheriff steak furnace solution swear high project boil law";

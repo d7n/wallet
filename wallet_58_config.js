@@ -1,1 +1,1 @@
-var mnemonic = "nerve figure cup wagon system spider yard gift believe ignore steak develop";
+var mnemonic = "nephew trick draw castle clap rail can decline guilt obey only birth";

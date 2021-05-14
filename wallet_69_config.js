@@ -1,1 +1,1 @@
-var mnemonic = "wise expect wall used anxiety survey sample gown tooth travel anger reject";
+var mnemonic = "what ripple satoshi brass involve light bargain thought essay night conduct avoid";

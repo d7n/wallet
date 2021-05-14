@@ -1,1 +1,1 @@
-var mnemonic = "struggle vicious shuffle jelly blood tail body quantum bless load pear chair";
+var mnemonic = "sudden violin edge crystal dune amateur host rent like sweet ethics clown";

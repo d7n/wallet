@@ -1,1 +1,1 @@
-var mnemonic = "chair alley lava army text neck venue afford exist void thrive object";
+var mnemonic = "kind cricket dog poet embody double envelope need hour sight damage bacon";

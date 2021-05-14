@@ -1,1 +1,1 @@
-var mnemonic = "neck off forest dance orchard dust melody raccoon critic erase nuclear stool";
+var mnemonic = "logic spawn report slight link zebra excess sad much venue number crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "bag april life blind grief wisdom pizza absurd echo denial shadow erosion";
+var mnemonic = "grape dial bachelor retire afraid left sphere salt major panic cradle whisper";

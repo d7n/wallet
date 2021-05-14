@@ -1,1 +1,1 @@
-var mnemonic = "legend pottery tool clinic middle crew state spy famous bird fun ability";
+var mnemonic = "motor scan forget planet year rule ghost blush uniform shoulder provide voice";

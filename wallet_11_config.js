@@ -1,1 +1,1 @@
-var mnemonic = "excess brother mansion cotton space hurt tourist electric demise extra high attitude";
+var mnemonic = "pioneer deposit churn lend woman radio brisk antique side kick congress field";

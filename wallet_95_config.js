@@ -1,1 +1,1 @@
-var mnemonic = "close mansion escape magnet tiger lady turkey direct also across save swear";
+var mnemonic = "horse upgrade gadget sell assault remain cruel laptop still draft abandon yellow";

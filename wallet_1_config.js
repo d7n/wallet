@@ -1,1 +1,1 @@
-var mnemonic = "despair digital else student output swamp photo vital pear wrap valid vessel";
+var mnemonic = "warfare velvet robot sport pepper wagon inform deal garden tuna talent shy";
