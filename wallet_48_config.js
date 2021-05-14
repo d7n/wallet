@@ -1,1 +1,1 @@
-var mnemonic = "youth top radio annual canyon avocado puppy banner unveil legend tissue media";
+var mnemonic = "fetch crazy sell oak track half shine initial kidney hill fence pencil";

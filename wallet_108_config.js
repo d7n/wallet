@@ -1,1 +1,1 @@
-var mnemonic = "obvious flavor asset usage father roast match gift fit museum dutch morning";
+var mnemonic = "distance stereo blood author clarify among squirrel silent trick talk lounge spice";

@@ -1,1 +1,1 @@
-var mnemonic = "expect eye frown subject weapon neck injury ability whip female stone clarify";
+var mnemonic = "term month matter step glass struggle goat auction trash seat dentist embark";

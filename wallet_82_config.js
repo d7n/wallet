@@ -1,1 +1,1 @@
-var mnemonic = "scare castle unfair rule shift twist turkey spare shy below strategy divide";
+var mnemonic = "rookie pulse boost jungle priority arrange nurse wish correct vault random salt";

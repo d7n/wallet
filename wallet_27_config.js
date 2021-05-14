@@ -1,1 +1,1 @@
-var mnemonic = "wrestle forward rifle uphold stage balance subject lumber cloth wall pitch lawsuit";
+var mnemonic = "notice plunge peasant milk wine any plate pact steel swap carbon lunch";

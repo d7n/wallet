@@ -1,1 +1,1 @@
-var mnemonic = "dress ice exchange capital minor hundred ability hair december index pact erosion";
+var mnemonic = "robust fire chuckle voice argue eager morning sweet upgrade burst attend recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp curtain yard pipe muscle festival woman venue fox advice note submit";
+var mnemonic = "fall clean click chair erosion lock reopen radar online ivory noise truth";

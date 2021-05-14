@@ -1,1 +1,1 @@
-var mnemonic = "notable tail crime plunge city neglect inner build blouse weekend pattern country";
+var mnemonic = "yard culture animal donor horse sure flight source south cycle stereo blame";

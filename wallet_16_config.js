@@ -1,1 +1,1 @@
-var mnemonic = "sauce fatal orphan consider dad diesel major bitter real gown present melt";
+var mnemonic = "about help suffer jump crater trust off buffalo budget crack advice lion";

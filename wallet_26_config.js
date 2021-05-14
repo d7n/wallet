@@ -1,1 +1,1 @@
-var mnemonic = "vendor document nuclear wrestle access vague comfort clutch boil check earn high";
+var mnemonic = "across culture predict tide hat void thumb virus lend artist barely feel";

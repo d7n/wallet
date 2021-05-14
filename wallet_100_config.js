@@ -1,1 +1,1 @@
-var mnemonic = "home nasty inmate table furnace hedgehog million unfold object answer ecology above";
+var mnemonic = "skate assault adjust season record height trim learn mango just pull pencil";

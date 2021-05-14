@@ -1,1 +1,1 @@
-var mnemonic = "certain menu dress lion pluck another today possible resource oval carbon twenty";
+var mnemonic = "deliver garlic junk foot north behave outside arrive keep entry expose solid";

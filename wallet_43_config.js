@@ -1,1 +1,1 @@
-var mnemonic = "fiber history comic beef best black cook great demise nuclear dwarf time";
+var mnemonic = "noble crack exchange quote sail wave rose agent ancient annual village ice";

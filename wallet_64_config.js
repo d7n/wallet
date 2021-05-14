@@ -1,1 +1,1 @@
-var mnemonic = "wrestle mammal hungry evidence board bike crisp ring pumpkin manage match test";
+var mnemonic = "involve survey purpose profit robust raven soul inflict catch utility impulse egg";

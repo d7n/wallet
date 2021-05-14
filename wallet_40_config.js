@@ -1,1 +1,1 @@
-var mnemonic = "wear inhale strategy host orbit lemon frown inmate useless deputy enemy express";
+var mnemonic = "pitch load lemon fame west ready spirit crush collect day book brown";

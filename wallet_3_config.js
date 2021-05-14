@@ -1,1 +1,1 @@
-var mnemonic = "metal mixed peasant stage wait grain castle guess nose skin fuel enact";
+var mnemonic = "lunar exist devote car tuna orchard clean mail desk matter shell chaos";

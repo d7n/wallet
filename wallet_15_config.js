@@ -1,1 +1,1 @@
-var mnemonic = "knee federal quick extend balcony quick sport very nest tennis lunch coach";
+var mnemonic = "force assist essence safe tiger pitch slim awful real prosper few prepare";

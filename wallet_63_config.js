@@ -1,1 +1,1 @@
-var mnemonic = "nerve any surprise section jelly job system deliver broom bargain soup ankle";
+var mnemonic = "praise iron skull plunge output mother crumble manage invite crane hip shine";

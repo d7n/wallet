@@ -1,1 +1,1 @@
-var mnemonic = "kind cricket dog poet embody double envelope need hour sight damage bacon";
+var mnemonic = "minor blood quantum wealth suit file able spot history mask hen special";

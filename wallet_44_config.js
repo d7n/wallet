@@ -1,1 +1,1 @@
-var mnemonic = "artist double ill mutual anxiety panic drink siren menu float pizza wink";
+var mnemonic = "parade home trophy electric verify update great grunt broccoli trigger rubber state";

@@ -1,1 +1,1 @@
-var mnemonic = "short arch prevent fetch metal ignore project lend elegant pluck author plastic";
+var mnemonic = "inhale oil curve actress input empty hammer myth frown retreat orient cat";

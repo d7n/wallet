@@ -1,1 +1,1 @@
-var mnemonic = "logic spawn report slight link zebra excess sad much venue number crowd";
+var mnemonic = "tiny extra moral lumber lamp pulp ozone case image because invest close";

@@ -1,1 +1,1 @@
-var mnemonic = "grape midnight thought mistake again beach forget mail flee goddess estate trade";
+var mnemonic = "square immune puppy eager civil culture kite weekend toss fruit consider tenant";

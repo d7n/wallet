@@ -1,1 +1,1 @@
-var mnemonic = "hidden year chef slam remain rally rocket pipe worry improve sausage belt";
+var mnemonic = "student hurry build soul supreme bid neglect garage shadow fence assault century";

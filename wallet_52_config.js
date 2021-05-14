@@ -1,1 +1,1 @@
-var mnemonic = "neck resource cup film ocean often surge feature another kid step nice";
+var mnemonic = "crunch divert crystal visa voyage cheese ride combine today cute bike burst";

@@ -1,1 +1,1 @@
-var mnemonic = "horse upgrade gadget sell assault remain cruel laptop still draft abandon yellow";
+var mnemonic = "auction army boat between chimney bench unaware oil rain bird foster angry";

@@ -1,1 +1,1 @@
-var mnemonic = "track vanish symptom decide cheese mercy decorate skin peanut tilt destroy melt";
+var mnemonic = "series honey virus mimic actor icon olympic denial exercise blame feature all";

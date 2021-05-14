@@ -1,1 +1,1 @@
-var mnemonic = "biology enough intact rack size clutch enforce work win amused crash typical";
+var mnemonic = "bounce emotion grocery bright bring chalk book typical until hour equip boy";

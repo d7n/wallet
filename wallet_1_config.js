@@ -1,1 +1,1 @@
-var mnemonic = "warfare velvet robot sport pepper wagon inform deal garden tuna talent shy";
+var mnemonic = "garbage april boring mechanic harvest palm fit appear street ramp casual load";

@@ -1,1 +1,1 @@
-var mnemonic = "brick pudding repair damage silly moon arrange shift category eternal filter clever";
+var mnemonic = "destroy hope garlic style sentence pilot wine cactus race exchange steak evil";

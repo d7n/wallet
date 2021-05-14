@@ -1,1 +1,1 @@
-var mnemonic = "wonder industry shift subway decline basket flower rebel capable shine high path";
+var mnemonic = "know claw small olive nominee arm behind slender budget opera immune bottom";

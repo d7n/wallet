@@ -1,1 +1,1 @@
-var mnemonic = "actual feed must axis hover execute camera velvet arrest income miss dry";
+var mnemonic = "type gather grow lunch habit manage layer arena faculty outer team anxiety";

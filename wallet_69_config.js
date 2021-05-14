@@ -1,1 +1,1 @@
-var mnemonic = "what ripple satoshi brass involve light bargain thought essay night conduct avoid";
+var mnemonic = "jazz close orphan warm check depart neglect mosquito organ march flat ring";

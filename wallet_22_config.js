@@ -1,1 +1,1 @@
-var mnemonic = "vote stand easy cross bag solid wise stay donate evil genius romance";
+var mnemonic = "athlete crime snack gas embrace legend eagle can leopard naive eagle inform";

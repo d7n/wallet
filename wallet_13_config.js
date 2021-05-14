@@ -1,1 +1,1 @@
-var mnemonic = "radar whip salad alien draft dial marble mule pizza weather special voyage";
+var mnemonic = "caught basket click shrimp thank grocery dignity fringe fuel junior pioneer snake";

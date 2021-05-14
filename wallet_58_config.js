@@ -1,1 +1,1 @@
-var mnemonic = "nephew trick draw castle clap rail can decline guilt obey only birth";
+var mnemonic = "coyote amateur spike few okay captain come nest coast express horn next";

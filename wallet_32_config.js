@@ -1,1 +1,1 @@
-var mnemonic = "shrimp happy injury frozen version royal waste swarm wonder ethics month wine";
+var mnemonic = "possible media improve filter ring salad sick napkin pistol swear coffee access";

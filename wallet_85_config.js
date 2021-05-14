@@ -1,1 +1,1 @@
-var mnemonic = "wood nurse capable doll column misery return collect naive rent produce kitchen";
+var mnemonic = "trigger foster nut side dice machine venue aspect roof cup hill laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "item lumber wood member rule era achieve cargo fragile live side giant";
+var mnemonic = "satisfy card inmate borrow buffalo home usual trash curve antique hard either";

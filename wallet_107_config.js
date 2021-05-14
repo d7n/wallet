@@ -1,1 +1,1 @@
-var mnemonic = "token reject online various clown soap tag display series fluid pear dance";
+var mnemonic = "sheriff ritual summer enroll again shop match virus fog solution sample clog";

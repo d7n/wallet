@@ -1,1 +1,1 @@
-var mnemonic = "permit raccoon tourist power actual lawn square flash bulk inner will draw";
+var mnemonic = "artist mammal hour tissue kick dad language gate govern music tongue entry";

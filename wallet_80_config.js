@@ -1,1 +1,1 @@
-var mnemonic = "lizard van toilet delay pizza protect document blind reflect promote pepper flush";
+var mnemonic = "option any nasty snake name huge boat muscle brass inject defy soap";

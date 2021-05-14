@@ -1,1 +1,1 @@
-var mnemonic = "empty day youth ramp ramp stay sentence sniff dose sort argue attack";
+var mnemonic = "edge lady key develop kitchen ready deal once economy alpha fade raccoon";

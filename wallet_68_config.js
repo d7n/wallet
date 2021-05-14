@@ -1,1 +1,1 @@
-var mnemonic = "sun eagle fortune lesson fame kiss apple scene exact october diet deal";
+var mnemonic = "doll issue shoulder river dog fiction sketch canal lend front lab crop";

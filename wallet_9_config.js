@@ -1,1 +1,1 @@
-var mnemonic = "lens wolf wagon prize knee appear jungle crash garment debris knock risk";
+var mnemonic = "mimic into tennis scout march chalk version mad grunt auction hunt scene";

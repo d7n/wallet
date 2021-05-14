@@ -1,1 +1,1 @@
-var mnemonic = "deliver mimic slide interest lucky pole interest strike dune bus rib clock";
+var mnemonic = "amazing useless kitten illness kitten amateur region near gallery brother raise island";

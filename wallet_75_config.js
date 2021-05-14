@@ -1,1 +1,1 @@
-var mnemonic = "song cattle whisper devote section quote guitar fame trend cruel uncle sample";
+var mnemonic = "squirrel village naive behave clog barely depart vanish rhythm buffalo same sadness";

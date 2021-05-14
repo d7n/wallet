@@ -1,1 +1,1 @@
-var mnemonic = "group review ski digital diamond faith creek sorry just keep toddler glow";
+var mnemonic = "happy public bitter flavor novel gain educate uncover lamp way note mystery";

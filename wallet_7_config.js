@@ -1,1 +1,1 @@
-var mnemonic = "fade infant saddle balance cage morning buzz lock mountain nuclear shiver release";
+var mnemonic = "tackle valid mother radar casino tongue pear fox eternal antique impact eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "phone coconut room manage ridge country corn reopen wide drop source insect";
+var mnemonic = "about trust tail ozone arm above gather clinic squirrel father hammer skull";

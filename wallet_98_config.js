@@ -1,1 +1,1 @@
-var mnemonic = "dumb attract lava rib move labor dinner boring stumble thumb siren into";
+var mnemonic = "valid quiz about impose gown obtain opinion text help summer science fox";

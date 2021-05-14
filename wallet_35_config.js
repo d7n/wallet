@@ -1,1 +1,1 @@
-var mnemonic = "nerve dutch hawk curtain glory ski bag shaft omit you dumb fence";
+var mnemonic = "remain guitar tiny link faint void virus virtual reopen demand delay kitchen";

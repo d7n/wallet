@@ -1,1 +1,1 @@
-var mnemonic = "sample wet lucky embody turn stairs annual upper flame divert surprise pole";
+var mnemonic = "fox hockey suffer tube chimney whale hat silent proof paddle uncover devote";

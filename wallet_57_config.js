@@ -1,1 +1,1 @@
-var mnemonic = "discover raw design fame fame wife damage stumble lemon lock found beef";
+var mnemonic = "hope answer monster switch amazing elite weekend chalk protect raise slight chunk";

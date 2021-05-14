@@ -1,1 +1,1 @@
-var mnemonic = "ribbon tent input noble move lemon cushion rug suggest result enroll cousin";
+var mnemonic = "picnic okay goat air solution nuclear snake bacon palace alien sad buzz";

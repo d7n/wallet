@@ -1,1 +1,1 @@
-var mnemonic = "van unfold rough few used hand grape sketch cube audit play until";
+var mnemonic = "hedgehog dynamic high goose property aim ceiling quality equip chef enemy lawn";

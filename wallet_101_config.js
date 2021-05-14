@@ -1,1 +1,1 @@
-var mnemonic = "multiply silly story plastic price picnic excuse milk toy doll betray lunch";
+var mnemonic = "doctor salad quiz disorder job drift almost jeans monitor mixture enough echo";

@@ -1,1 +1,1 @@
-var mnemonic = "chest library birth bright put frown piano hunt enrich still sign trouble";
+var mnemonic = "february crazy tennis era hospital tattoo emotion blanket jelly shock fan essence";

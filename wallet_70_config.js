@@ -1,1 +1,1 @@
-var mnemonic = "minimum rain kiss road divorce egg twenty tiger gas wasp deliver receive";
+var mnemonic = "label mass prevent nurse health minute adult describe spend disorder immune heavy";

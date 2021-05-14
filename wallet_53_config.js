@@ -1,1 +1,1 @@
-var mnemonic = "network feel trim fatal monster borrow category rebel sheriff adjust ecology federal";
+var mnemonic = "furnace meat govern another tip team scrub vicious swap addict load source";

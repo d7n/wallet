@@ -1,1 +1,1 @@
-var mnemonic = "family inject wheel orange dentist album guess pig pulp woman usual reopen";
+var mnemonic = "delay warfare motor mango burger tongue mystery valve list maple erode zoo";

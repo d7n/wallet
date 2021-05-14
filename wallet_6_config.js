@@ -1,1 +1,1 @@
-var mnemonic = "shrimp drop smooth ankle deal truly hammer keep toilet valid cancel sibling";
+var mnemonic = "honey misery tornado tiger can enforce tape web leader invest suit shock";

@@ -1,1 +1,1 @@
-var mnemonic = "crush worry bless chronic earn scissors verify urban churn okay again immune";
+var mnemonic = "tumble october weather debate gift side person glow dynamic wrestle comfort impulse";

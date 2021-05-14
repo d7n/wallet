@@ -1,1 +1,1 @@
-var mnemonic = "upset exact hour million leaf obscure identify worth friend sister flag click";
+var mnemonic = "gloom garage opera trim ensure marine photo cloud enough human cattle since";

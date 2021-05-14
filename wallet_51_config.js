@@ -1,1 +1,1 @@
-var mnemonic = "rude vacant shed whale enroll pink vault check woman tent asset dice";
+var mnemonic = "scan neck cliff security north captain mansion resource vapor minor erase poverty";

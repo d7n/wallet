@@ -1,1 +1,1 @@
-var mnemonic = "theory curve drive title primary illness enroll tomorrow viable bird shrug left";
+var mnemonic = "plug pair middle brother chair human enlist resist hawk clip beef render";

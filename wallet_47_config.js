@@ -1,1 +1,1 @@
-var mnemonic = "kiwi exotic poverty stone until ship stick swift attack nerve page win";
+var mnemonic = "accident taste chunk inmate ramp move grape boil noise limit provide sound";

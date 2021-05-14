@@ -1,1 +1,1 @@
-var mnemonic = "join fold between ecology trim theory immense original document fade network audit";
+var mnemonic = "position buzz match exclude ship slab kiwi enemy knock repair turkey resource";

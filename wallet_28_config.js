@@ -1,1 +1,1 @@
-var mnemonic = "combine truck dune law pluck avocado between add mean normal chalk foam";
+var mnemonic = "remember travel run absurd hint result crack sphere occur orphan fossil birth";

@@ -1,1 +1,1 @@
-var mnemonic = "category vast whip unique jar brick setup rain oblige surge border ritual";
+var mnemonic = "vacant donate head double nerve turkey surface nut magnet daughter chest load";

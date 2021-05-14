@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ocean century involve mouse spare that enroll blood raven double lounge";
+var mnemonic = "fashion intact alert goat purity expose true panic wisdom fire pudding angry";

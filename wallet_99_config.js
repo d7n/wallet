@@ -1,1 +1,1 @@
-var mnemonic = "mass army toilet circle doctor marriage sad crack credit barely sail air";
+var mnemonic = "nurse secret sustain account scissors vacant town steel city busy treat rebuild";

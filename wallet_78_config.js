@@ -1,1 +1,1 @@
-var mnemonic = "wave struggle height design chair damage dress coast primary celery stomach bachelor";
+var mnemonic = "subject sausage absurd champion spider video mean amount share first cousin laugh";

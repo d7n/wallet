@@ -1,1 +1,1 @@
-var mnemonic = "tattoo south almost naive nurse swarm symbol garden remove proud online toe";
+var mnemonic = "rate toe farm lava canyon spatial scissors fix favorite volcano wet embrace";

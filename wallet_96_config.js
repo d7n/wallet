@@ -1,1 +1,1 @@
-var mnemonic = "present chunk blue method wash creek noise kidney december economy smart list";
+var mnemonic = "hungry physical always expire bullet unfair drop find pattern security real uniform";

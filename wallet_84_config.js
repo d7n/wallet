@@ -1,1 +1,1 @@
-var mnemonic = "eye original heart solve void brain bar subway yard vault pull clip";
+var mnemonic = "pelican actress patch spell oven law spirit project oval gun danger venue";

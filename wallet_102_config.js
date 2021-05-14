@@ -1,1 +1,1 @@
-var mnemonic = "miss film scheme piano brain limit chaos submit wear build erosion flavor";
+var mnemonic = "alert buyer embody grape fold wild about between afford ill boring design";

@@ -1,1 +1,1 @@
-var mnemonic = "subway lava heart outside need cup tube punch say damp smoke galaxy";
+var mnemonic = "crawl cash social angle pear punch what cloth security bag time output";

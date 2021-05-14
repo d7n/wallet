@@ -1,1 +1,1 @@
-var mnemonic = "piano reason gorilla track sword fossil auto dove uphold want sunny faculty";
+var mnemonic = "indicate blossom subject argue guitar galaxy quantum match humble stand junk air";

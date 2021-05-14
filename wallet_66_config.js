@@ -1,1 +1,1 @@
-var mnemonic = "envelope confirm trash dinner renew expire switch clump seven member unfold game";
+var mnemonic = "prepare cricket despair rude profit various laundry between rug empty lunch bonus";

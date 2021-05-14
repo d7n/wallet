@@ -1,1 +1,1 @@
-var mnemonic = "duty clerk matrix whip appear disorder wisdom sibling drum rude expect pottery";
+var mnemonic = "brain guitar disease model fatigue olympic merit garage south unique flight park";

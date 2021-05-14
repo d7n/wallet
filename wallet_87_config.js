@@ -1,1 +1,1 @@
-var mnemonic = "census hammer still cinnamon amused predict soap spy raise actual glue regret";
+var mnemonic = "hint logic lawn stadium flower lottery suggest prefer bullet rice toss census";

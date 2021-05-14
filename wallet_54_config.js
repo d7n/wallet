@@ -1,1 +1,1 @@
-var mnemonic = "dash throw fetch together fine photo category grief inspire pupil scare evidence";
+var mnemonic = "galaxy sail erupt design master make simple wet unhappy tower minor fiber";

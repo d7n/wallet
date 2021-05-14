@@ -1,1 +1,1 @@
-var mnemonic = "outdoor bid cool license master desk capable trap fee wild drink slogan";
+var mnemonic = "vanish infant concert stadium shell iron earth wreck kitchen expand upper potato";

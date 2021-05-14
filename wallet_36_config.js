@@ -1,1 +1,1 @@
-var mnemonic = "master path select gentle palm network fetch stamp spider sadness submit still";
+var mnemonic = "vehicle picnic before wool dismiss shine now lend mountain clump tobacco quiz";

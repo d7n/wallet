@@ -1,1 +1,1 @@
-var mnemonic = "sudden violin edge crystal dune amateur host rent like sweet ethics clown";
+var mnemonic = "income invite labor fat topple wink soup satisfy come north sure video";

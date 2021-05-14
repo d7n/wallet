@@ -1,1 +1,1 @@
-var mnemonic = "basic diary nurse crime version horror hazard wire leisure damp void method";
+var mnemonic = "affair position arch update concert setup profit floor fashion brisk clip ill";

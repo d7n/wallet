@@ -1,1 +1,1 @@
-var mnemonic = "urge matter rather direct special dwarf brave order kind hire inhale great";
+var mnemonic = "joke remain appear blanket trumpet figure rescue captain scrub want sibling famous";

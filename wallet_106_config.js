@@ -1,1 +1,1 @@
-var mnemonic = "portion innocent matrix glass ten sail tobacco fiction dwarf idea urban salon";
+var mnemonic = "hollow resource receive off wedding maid defense sentence fade extra gap drive";
