@@ -1,1 +1,1 @@
-var mnemonic = "spoil until estate pipe divorce minimum believe throw security profit toast cruise";
+var mnemonic = "prison initial link claw post crop express moon hungry area gospel comfort";

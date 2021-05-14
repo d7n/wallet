@@ -1,1 +1,1 @@
-var mnemonic = "uncle denial mail surge catalog select wash ecology believe obscure wool limb";
+var mnemonic = "claim mistake install magnet exchange power another virtual better tiger faculty duty";

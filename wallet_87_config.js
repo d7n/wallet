@@ -1,1 +1,1 @@
-var mnemonic = "amount accuse elephant health flat screen endless monkey enact blade salon blame";
+var mnemonic = "search artwork rookie dawn card knock whip post miracle race clerk music";

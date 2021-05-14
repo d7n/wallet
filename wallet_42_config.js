@@ -1,1 +1,1 @@
-var mnemonic = "enhance journey please bleak limit fish age mystery giraffe fitness access fat";
+var mnemonic = "invest conduct junk rare thumb door evoke ignore strong laundry match athlete";

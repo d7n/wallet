@@ -1,1 +1,1 @@
-var mnemonic = "sheriff cradle dust vintage exile search crazy bronze wonder empty home scissors";
+var mnemonic = "gaze buddy shiver amateur club climb select torch abuse recipe walk drink";

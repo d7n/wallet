@@ -1,1 +1,1 @@
-var mnemonic = "train virtual wife rigid submit quick session adult what express frown index";
+var mnemonic = "crane artwork cake review staff metal review globe usual fly rather hungry";

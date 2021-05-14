@@ -1,1 +1,1 @@
-var mnemonic = "ethics tattoo armed pair try melt surround silly lyrics tobacco scale thank";
+var mnemonic = "process hip fame movie warfare tenant excite like token response daughter brave";

@@ -1,1 +1,1 @@
-var mnemonic = "glow nurse chief drum film canal fish senior music song very jar";
+var mnemonic = "bulk emerge cable dilemma father tongue trip foot photo glide gesture verb";

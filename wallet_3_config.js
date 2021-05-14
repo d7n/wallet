@@ -1,1 +1,1 @@
-var mnemonic = "champion amateur snow trim company depth ostrich south shield erosion arena base";
+var mnemonic = "music dish example gift drink general garlic seminar arch twenty spice reform";

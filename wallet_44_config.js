@@ -1,1 +1,1 @@
-var mnemonic = "move extend smoke peanut sure typical diet prosper crawl medal memory strong";
+var mnemonic = "faint between ocean filter tree energy metal large winner illegal regret betray";

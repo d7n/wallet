@@ -1,1 +1,1 @@
-var mnemonic = "adult mandate three satisfy river envelope outer play letter dry manual hamster";
+var mnemonic = "siren song grab until super muffin chaos gravity flag material gadget athlete";

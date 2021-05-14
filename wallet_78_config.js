@@ -1,1 +1,1 @@
-var mnemonic = "demand alcohol evolve theory come shoe laugh useful drop erode device sure";
+var mnemonic = "canoe impose direct impose patrol caution giraffe recipe engage worry gospel angry";

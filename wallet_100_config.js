@@ -1,1 +1,1 @@
-var mnemonic = "list patient virtual mutual wait sight adjust garlic torch movie effort key";
+var mnemonic = "smart oppose giggle cement aunt transfer water lock indicate off chicken empower";

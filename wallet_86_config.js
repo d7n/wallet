@@ -1,1 +1,1 @@
-var mnemonic = "ball join tide soccer hockey conduct staff hover fall escape arena detail";
+var mnemonic = "shell satisfy barrel wire vapor panel bonus mesh differ until piece lobster";

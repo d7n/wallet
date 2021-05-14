@@ -1,1 +1,1 @@
-var mnemonic = "enhance puzzle brick reward muffin whisper fall eager flame tool cage unable";
+var mnemonic = "airport antique define awake baby need gift announce diet surface comic indicate";

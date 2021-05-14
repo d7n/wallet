@@ -1,1 +1,1 @@
-var mnemonic = "nut habit start exist transfer good panel orchard clip seek calm annual";
+var mnemonic = "mystery library thing census atom online bless flat question buffalo muffin want";

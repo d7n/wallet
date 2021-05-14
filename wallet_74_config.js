@@ -1,1 +1,1 @@
-var mnemonic = "welcome elephant decorate slim dress island soccer castle leopard bachelor tumble gather";
+var mnemonic = "east reunion treat script occur report post eight hurdle comic wine very";

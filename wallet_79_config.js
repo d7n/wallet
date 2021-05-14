@@ -1,1 +1,1 @@
-var mnemonic = "danger embark catalog nominee garlic loan embody report tornado satoshi anger exhaust";
+var mnemonic = "dentist cost crop army enemy raise okay strategy void anxiety prefer hint";

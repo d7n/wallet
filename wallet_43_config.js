@@ -1,1 +1,1 @@
-var mnemonic = "tent laugh throw silly layer employ jump rough perfect cry plug private";
+var mnemonic = "planet guard sick treat power ring funny vault sniff conduct nature salad";

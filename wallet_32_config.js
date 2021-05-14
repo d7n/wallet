@@ -1,1 +1,1 @@
-var mnemonic = "glue basic secret fade clown maple elder pear alley federal smile rice";
+var mnemonic = "wrestle outside enlist sock duck cable gasp mother else kitchen retreat silent";

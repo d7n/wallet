@@ -1,1 +1,1 @@
-var mnemonic = "ranch impulse metal slight veteran meat buzz gap wedding normal decrease field";
+var mnemonic = "there neglect anger boss slight dentist visit wisdom orphan elephant process base";

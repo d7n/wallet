@@ -1,1 +1,1 @@
-var mnemonic = "spend theme suggest rare pride social feel cradle exhaust satoshi rent egg";
+var mnemonic = "icon expect tragic imitate deliver undo proof kidney asthma decide cheap carpet";

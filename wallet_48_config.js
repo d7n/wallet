@@ -1,1 +1,1 @@
-var mnemonic = "warm copper result direct exchange invest pride guilt east soft twice guitar";
+var mnemonic = "someone smoke gather negative much over paddle pupil harvest great flip entry";

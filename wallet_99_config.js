@@ -1,1 +1,1 @@
-var mnemonic = "galaxy grass saddle ahead private mother enjoy dry ability sail tonight tag";
+var mnemonic = "person image crash blind spoon tornado parrot believe custom fish crowd quit";

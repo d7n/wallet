@@ -1,1 +1,1 @@
-var mnemonic = "ketchup add portion void mystery quit mansion height badge claim spot stuff";
+var mnemonic = "skin elite minute short monkey adapt balcony depth blanket pride grain slide";

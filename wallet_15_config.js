@@ -1,1 +1,1 @@
-var mnemonic = "social private bone divorce use tumble refuse sea stamp twice virtual music";
+var mnemonic = "spare stereo express comfort divide achieve vote monkey mass flock peasant advance";

@@ -1,1 +1,1 @@
-var mnemonic = "network wing offer orphan honey aware lumber evil crucial grass method bench";
+var mnemonic = "trash maze slow skirt lucky film unfair around sword grow inject foil";

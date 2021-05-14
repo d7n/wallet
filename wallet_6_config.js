@@ -1,1 +1,1 @@
-var mnemonic = "grit author agent magic isolate surprise island lyrics already expect hello throw";
+var mnemonic = "this client rare cat turn amazing pumpkin near snow middle rotate quote";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe hint spin belt field body oppose seat hill predict maximum vault";
+var mnemonic = "claw dad find napkin skill critic diary monster net dose casual gorilla";

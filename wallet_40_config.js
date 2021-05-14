@@ -1,1 +1,1 @@
-var mnemonic = "solution judge kitchen narrow cigar level sadness theory truly burger session secret";
+var mnemonic = "horror injury list result arrest south casino claw warfare retreat spirit special";

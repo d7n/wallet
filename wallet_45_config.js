@@ -1,1 +1,1 @@
-var mnemonic = "marble youth citizen journey come unveil tank carbon rely empty crucial crumble";
+var mnemonic = "pepper balance ceiling hold future stem doctor cancel pill squeeze employ drip";

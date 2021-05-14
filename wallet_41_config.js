@@ -1,1 +1,1 @@
-var mnemonic = "wrestle pitch gap reduce tail hobby lucky fury cat act light cliff";
+var mnemonic = "arctic menu pole head fork gain noble stool sunset situate hospital race";

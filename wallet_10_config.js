@@ -1,1 +1,1 @@
-var mnemonic = "olympic genre hollow wheel maze inflict world fly atom cup dry reward";
+var mnemonic = "west diet purse post put bind wheat all frequent foil undo boss";

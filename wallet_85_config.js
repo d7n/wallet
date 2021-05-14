@@ -1,1 +1,1 @@
-var mnemonic = "wine moral left near divide slight boring caught purchase better forget three";
+var mnemonic = "punch pole victory office black indicate innocent pet logic crunch phone thought";

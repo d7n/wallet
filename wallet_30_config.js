@@ -1,1 +1,1 @@
-var mnemonic = "book cost injury song mixture tent gauge major travel pilot jaguar prison";
+var mnemonic = "route champion educate ride blanket tomorrow autumn certain time one armed first";

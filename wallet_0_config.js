@@ -1,1 +1,1 @@
-var mnemonic = "dress foot cover lunch make sphere sunny piano frog feature dial mosquito";
+var mnemonic = "ivory ecology accuse jazz ice curious diet addict bind across blouse link";

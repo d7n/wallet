@@ -1,1 +1,1 @@
-var mnemonic = "camp actress shield night fire hazard sphere maximum identify canal pitch case";
+var mnemonic = "kiwi broccoli awesome inject true patch stuff off path bike dinosaur retire";

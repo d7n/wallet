@@ -1,1 +1,1 @@
-var mnemonic = "raw report elevator stock mail isolate fatal vehicle coral green enhance spray";
+var mnemonic = "result parent wheat sudden glow child final debate wine fit card athlete";

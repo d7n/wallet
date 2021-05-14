@@ -1,1 +1,1 @@
-var mnemonic = "soccer lounge orange flight stumble expect nice jealous judge bundle expose cram";
+var mnemonic = "cause height border toy forget series just fine filter skull globe blue";

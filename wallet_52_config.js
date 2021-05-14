@@ -1,1 +1,1 @@
-var mnemonic = "vast gain wage door donor square brain pencil wreck dune barrel fatal";
+var mnemonic = "buzz armed plastic only garden begin flush bottom fiction easily permit cave";

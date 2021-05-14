@@ -1,1 +1,1 @@
-var mnemonic = "novel amazing flame find smile way mimic shock vital art obtain blouse";
+var mnemonic = "clay quality wait female odor brother visit cycle stove void quantum arena";

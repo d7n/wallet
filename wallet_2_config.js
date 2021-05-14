@@ -1,1 +1,1 @@
-var mnemonic = "balance whisper intact cool hedgehog raccoon session master predict unhappy divert city";
+var mnemonic = "bachelor shaft behave fringe nuclear erode verb fun want stumble dynamic empower";

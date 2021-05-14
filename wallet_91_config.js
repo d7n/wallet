@@ -1,1 +1,1 @@
-var mnemonic = "attract key shop actress fabric veteran speed mimic farm model flush chase";
+var mnemonic = "flower blame moment file error scare below tilt party breeze flavor soon";

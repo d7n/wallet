@@ -1,1 +1,1 @@
-var mnemonic = "mobile unfold math post identify excuse oxygen catch crystal pole patient purpose";
+var mnemonic = "venue concert vendor sock primary skill shallow output wall anchor strategy gate";

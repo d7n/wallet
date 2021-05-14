@@ -1,1 +1,1 @@
-var mnemonic = "people fruit flower canyon verify worth muscle segment tennis harsh margin hobby";
+var mnemonic = "raccoon body shock heavy mango fat chunk armed eyebrow average item hood";

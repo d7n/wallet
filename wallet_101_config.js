@@ -1,1 +1,1 @@
-var mnemonic = "you viable diesel vast spatial invite surprise rifle bean pepper common knee";
+var mnemonic = "soft degree sweet develop term combine steel receive collect river lava gasp";

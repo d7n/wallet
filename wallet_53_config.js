@@ -1,1 +1,1 @@
-var mnemonic = "ride soup venue galaxy cotton huge voice depart good angry abuse pact";
+var mnemonic = "maple father apart coffee bar napkin mix safe render fox involve cluster";

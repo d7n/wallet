@@ -1,1 +1,1 @@
-var mnemonic = "fruit spy wheel guard vintage vapor pool obscure scatter nest survey topple";
+var mnemonic = "practice flavor elbow rate execute bachelor peace earn property unit cram flee";

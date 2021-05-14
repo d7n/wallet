@@ -1,1 +1,1 @@
-var mnemonic = "slush maple cost table shed shield arrive brain squirrel govern arrest income";
+var mnemonic = "champion sweet level left pistol orbit race slogan social believe oppose crime";

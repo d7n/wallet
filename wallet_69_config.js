@@ -1,1 +1,1 @@
-var mnemonic = "crumble check insect guide goat tornado gasp cliff piece usage mother remember";
+var mnemonic = "daughter owner rare risk clip spare toast health call leopard sunny tube";

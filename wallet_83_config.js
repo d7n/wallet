@@ -1,1 +1,1 @@
-var mnemonic = "hazard marble attitude evoke away bitter potato grunt marble liberty define daughter";
+var mnemonic = "clown chat danger divert expose limb trash tumble under error hundred zoo";

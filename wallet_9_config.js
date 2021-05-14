@@ -1,1 +1,1 @@
-var mnemonic = "title permit future copper wrist jacket lawsuit crime nose arena worth breeze";
+var mnemonic = "tuition miss fox village tired burst wide capital wage couch rhythm machine";

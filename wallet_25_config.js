@@ -1,1 +1,1 @@
-var mnemonic = "virus fish tower soon palace crazy property diary jewel twin lunar rail";
+var mnemonic = "silent burger ramp innocent nothing share spoil submit quarter divert bread evolve";

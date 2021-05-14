@@ -1,1 +1,1 @@
-var mnemonic = "master know language exhibit desk hub rookie green invest true layer pear";
+var mnemonic = "exile quarter primary narrow sleep zoo interest wonder later toward fatigue stem";

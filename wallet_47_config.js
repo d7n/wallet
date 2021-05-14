@@ -1,1 +1,1 @@
-var mnemonic = "modify toy divide process across grocery toilet evil blind heavy cool hospital";
+var mnemonic = "today steak mix paddle action prosper audit tonight trim there bar suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "label curious among fire badge special able pitch differ hurt kingdom rigid";
+var mnemonic = "today enjoy comic window birth identify base shed flip toast fun assault";

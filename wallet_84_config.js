@@ -1,1 +1,1 @@
-var mnemonic = "object session spare include pink episode voice cat arm resist orbit start";
+var mnemonic = "share cabbage record brown apology uniform weekend churn shell drive artist fatigue";

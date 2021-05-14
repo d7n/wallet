@@ -1,1 +1,1 @@
-var mnemonic = "army wave ribbon put game equal enable excuse useful advance order deposit";
+var mnemonic = "indicate duck view spot civil slush void expand muscle vibrant one vague";

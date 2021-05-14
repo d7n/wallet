@@ -1,1 +1,1 @@
-var mnemonic = "wrap saddle work garlic online term begin figure turn escape result quote";
+var mnemonic = "excess track daughter join fancy alone badge innocent exact sight pencil company";

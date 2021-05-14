@@ -1,1 +1,1 @@
-var mnemonic = "copper wire knee pioneer square poverty valid embark jump cherry atom pencil";
+var mnemonic = "civil category price humble connect clog rather brush cheese reopen lens health";

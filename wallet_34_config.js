@@ -1,1 +1,1 @@
-var mnemonic = "conduct tortoise debate face advance strategy dust capable spoil mansion refuse senior";
+var mnemonic = "wash hour silver dash three coffee output company bullet tobacco black echo";

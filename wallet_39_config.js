@@ -1,1 +1,1 @@
-var mnemonic = "trust simple pottery bus case space all sad humor romance sad address";
+var mnemonic = "debris clown water attitude duty foster bunker solar true manage gauge can";

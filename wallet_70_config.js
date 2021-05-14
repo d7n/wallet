@@ -1,1 +1,1 @@
-var mnemonic = "twenty craft secret turkey frequent rival creek half toss guess inmate early";
+var mnemonic = "shallow slam shoe slight erode deposit fantasy banana lazy random analyst castle";

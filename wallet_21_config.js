@@ -1,1 +1,1 @@
-var mnemonic = "rate organ envelope eight siren cabin base sibling type vague expect scrap";
+var mnemonic = "acquire tiny decade infant online gentle soft fence stumble approve rice foster";

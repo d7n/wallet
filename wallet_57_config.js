@@ -1,1 +1,1 @@
-var mnemonic = "ginger champion occur reason luxury accident fish awkward ritual worth insect captain";
+var mnemonic = "ten cream industry risk vibrant clinic rail achieve primary fame mix room";

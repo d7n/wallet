@@ -1,1 +1,1 @@
-var mnemonic = "gym sustain acoustic wash print inject fatigue trim fluid brand engine vague";
+var mnemonic = "humor surround view expand planet average pony nose dumb game faith stuff";

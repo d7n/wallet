@@ -1,1 +1,1 @@
-var mnemonic = "mimic return story someone spring govern you flip pilot heart marble unhappy";
+var mnemonic = "alien chief lend habit annual nerve pizza joy gain home oval volcano";

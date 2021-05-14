@@ -1,1 +1,1 @@
-var mnemonic = "thunder diamond course book phrase steak bundle arctic snack invite page swift";
+var mnemonic = "danger bright awesome depth front helmet jeans napkin senior morning equal tide";

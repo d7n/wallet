@@ -1,1 +1,1 @@
-var mnemonic = "mother scan parade split trash pledge awesome egg fabric elevator receive short";
+var mnemonic = "glimpse alter already obtain base settle immune panther grass barely undo route";

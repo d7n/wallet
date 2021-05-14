@@ -1,1 +1,1 @@
-var mnemonic = "filter tennis cycle expect foster token august bridge fence shock shield save";
+var mnemonic = "split demand novel enjoy pig swap excuse foster sustain casual mixture orient";

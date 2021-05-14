@@ -1,1 +1,1 @@
-var mnemonic = "sentence mesh broccoli couch click fix firm announce because minor beauty mother";
+var mnemonic = "chalk fossil local witness clay wine equip opinion sister reward phrase jacket";

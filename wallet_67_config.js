@@ -1,1 +1,1 @@
-var mnemonic = "timber material hockey merge illegal bulb skate country silly actress mass finish";
+var mnemonic = "raven ramp ship junior salt must buzz album coffee picture confirm spell";

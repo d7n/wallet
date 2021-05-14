@@ -1,1 +1,1 @@
-var mnemonic = "task antique blue enter quit forward coyote stuff legal envelope derive display";
+var mnemonic = "know lunar fortune loud knock uncover same bean nut lizard next junior";

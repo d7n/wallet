@@ -1,1 +1,1 @@
-var mnemonic = "mouse occur attack easily near rude enough acoustic vacuum awful spin screen";
+var mnemonic = "again dismiss pledge exhibit mystery stomach symptom pipe fine cruise path path";

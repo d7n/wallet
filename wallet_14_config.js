@@ -1,1 +1,1 @@
-var mnemonic = "candy anxiety shiver crisp genuine couple tray work tube common permit beyond";
+var mnemonic = "flash zero capable marriage actress human destroy finish couch female air left";

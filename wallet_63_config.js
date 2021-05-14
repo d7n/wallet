@@ -1,1 +1,1 @@
-var mnemonic = "health tornado chair plastic venue device approve mixed van burden injury enable";
+var mnemonic = "asset cargo runway fine drastic lock doctor steel door leave airport throw";

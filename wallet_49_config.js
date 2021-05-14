@@ -1,1 +1,1 @@
-var mnemonic = "album woman differ exact rent pass friend milk talk try stem festival";
+var mnemonic = "august toddler chicken join eager close aisle purse pair nuclear hire jelly";

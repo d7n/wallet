@@ -1,1 +1,1 @@
-var mnemonic = "vicious sponsor weather vibrant wish inside arrive zebra dash mobile movie soda";
+var mnemonic = "size mean safe find lecture hospital swim alcohol napkin load kitchen dance";

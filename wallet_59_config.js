@@ -1,1 +1,1 @@
-var mnemonic = "pink honey science invest arctic ocean student flash state ticket ivory stamp";
+var mnemonic = "write nasty exercise visual elephant grief maximum among fever lion dog mother";

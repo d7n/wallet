@@ -1,1 +1,1 @@
-var mnemonic = "sense bitter sleep prize uncle pizza relief donor pink run tag robot";
+var mnemonic = "level inform skull predict gain bike bone firm giant fan robust adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "dress curious enlist debris debate cream tennis song novel place rate nice";
+var mnemonic = "donor version price loud erode gasp they screen chapter youth arctic update";

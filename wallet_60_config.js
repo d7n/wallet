@@ -1,1 +1,1 @@
-var mnemonic = "beef canyon globe early couple chaos card squirrel recycle oil cheap jaguar";
+var mnemonic = "citizen salt orbit deputy spend maximum private hotel neutral else clog useful";

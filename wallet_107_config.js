@@ -1,1 +1,1 @@
-var mnemonic = "clap shoulder evidence royal police omit enable casual stem glue oxygen scheme";
+var mnemonic = "behind smooth connect canvas keep piano lift coil civil praise economy fault";

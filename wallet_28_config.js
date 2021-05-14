@@ -1,1 +1,1 @@
-var mnemonic = "clip violin version alert vessel evoke often blanket pull kind mixed spell";
+var mnemonic = "suspect sibling dutch beach tilt huge lab pass mirror warm decide achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture venture female choice ranch daring pear sorry gasp disagree town sign";
+var mnemonic = "plug trend exit joke oval visa color rule dragon blue wheel month";

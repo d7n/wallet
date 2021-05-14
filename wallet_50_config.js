@@ -1,1 +1,1 @@
-var mnemonic = "position capital deposit interest problem waste private caution still slot glare village";
+var mnemonic = "flat december film tonight file giant harvest ramp nephew gauge vocal host";

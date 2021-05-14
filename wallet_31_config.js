@@ -1,1 +1,1 @@
-var mnemonic = "nation appear surprise toddler arrive add brush roof catch grief lake spring";
+var mnemonic = "eternal pizza genuine solid way soup tree inch face abandon simple win";

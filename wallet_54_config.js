@@ -1,1 +1,1 @@
-var mnemonic = "stable leader arena sail dice bonus sudden depend index castle other multiply";
+var mnemonic = "promote sand sick choice usage pizza unfold rookie net bone clarify upon";

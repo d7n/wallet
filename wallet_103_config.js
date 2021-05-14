@@ -1,1 +1,1 @@
-var mnemonic = "spin answer argue apology layer around oppose note wreck tone tenant end";
+var mnemonic = "dish entry spray prize happy exotic true annual super soda disagree boat";

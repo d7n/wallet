@@ -1,1 +1,1 @@
-var mnemonic = "regular brisk when comfort bleak blouse rule core weekend gate rug pole";
+var mnemonic = "pet add game chef gesture flee spawn oval exile century upper tragic";
