@@ -1,1 +1,1 @@
-var mnemonic = "slice voice weird warfare reduce century saddle crack latin patrol luxury scatter";
+var mnemonic = "limit chronic globe mom casual wreck pave sadness gentle tomato skirt badge";

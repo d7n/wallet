@@ -1,1 +1,1 @@
-var mnemonic = "open engine mutual slight trash slice jacket grunt develop bright magic acid";
+var mnemonic = "stone poem wear wasp cradle drift suspect boring similar test friend secret";

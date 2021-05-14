@@ -1,1 +1,1 @@
-var mnemonic = "quality lounge smooth jungle taxi bomb arrow sun solve patient safe disagree";
+var mnemonic = "arrange emerge differ muffin bulk disagree remember record main lottery annual message";

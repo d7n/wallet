@@ -1,1 +1,1 @@
-var mnemonic = "canal first accident interest actor trouble ordinary equal amount recall view forest";
+var mnemonic = "fox drift decide hand invite thrive cheap soldier peace slow object settle";

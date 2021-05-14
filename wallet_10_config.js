@@ -1,1 +1,1 @@
-var mnemonic = "laugh deposit science fringe tennis harbor custom pipe vacant rocket cotton amateur";
+var mnemonic = "soap shy winner bottom recipe oil duty marble finger kid inquiry stuff";

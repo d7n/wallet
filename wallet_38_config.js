@@ -1,1 +1,1 @@
-var mnemonic = "agree erode year rocket slender swamp width season high outside apart crystal";
+var mnemonic = "fortune assist blood give poverty area farm gasp bind fashion leaf ability";

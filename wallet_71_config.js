@@ -1,1 +1,1 @@
-var mnemonic = "custom paper slender menu moon thought prosper juice patch size heart cargo";
+var mnemonic = "tortoise task under trumpet lobster bacon limit fat avocado blame online season";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran among actual section elbow calm earn orange obvious glow awesome honey";
+var mnemonic = "shield sight motor wing critic girl garlic shrug card identify other celery";

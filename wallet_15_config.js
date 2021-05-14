@@ -1,1 +1,1 @@
-var mnemonic = "marble cycle cover cradle slogan gauge move toilet gentle guard tribe scrap";
+var mnemonic = "midnight lion fresh profit echo kite obtain poem police topple perfect nasty";

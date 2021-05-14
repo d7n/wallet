@@ -1,1 +1,1 @@
-var mnemonic = "dawn sock roast become quality undo supply alone world print tribe crumble";
+var mnemonic = "sting salon tortoise disease senior frog height awful arena soda vacant furnace";

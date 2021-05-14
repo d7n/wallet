@@ -1,1 +1,1 @@
-var mnemonic = "spice lesson correct resemble arrange yard leopard citizen absorb divide offer various";
+var mnemonic = "vacant project scene gold decade surprise baby until spice flight lunch rather";

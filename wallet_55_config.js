@@ -1,1 +1,1 @@
-var mnemonic = "hobby leisure spare cousin globe tunnel sword arena cash demise suspect machine";
+var mnemonic = "bonus rail uniform wrestle oak february zebra library oyster soldier square cost";

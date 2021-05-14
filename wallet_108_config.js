@@ -1,1 +1,1 @@
-var mnemonic = "surge fitness emotion hero enough person index define index penalty chaos wrist";
+var mnemonic = "swap circle educate squeeze erode reduce brother bird teach truth hundred beyond";

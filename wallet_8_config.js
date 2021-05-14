@@ -1,1 +1,1 @@
-var mnemonic = "early refuse topic promote pair act pulse rhythm penalty magic velvet sketch";
+var mnemonic = "sing nut valid help upset candy dash remember priority print another weekend";

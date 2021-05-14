@@ -1,1 +1,1 @@
-var mnemonic = "ticket pattern wall lend shop next prepare gloom dentist mouse reunion crew";
+var mnemonic = "crumble stool pencil album high gadget nest blush focus midnight vanish polar";

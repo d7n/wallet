@@ -1,1 +1,1 @@
-var mnemonic = "prosper digital mimic rocket art spirit spy negative crucial blind april evil";
+var mnemonic = "wage priority hold grid sorry busy vague depart program august slight shift";

@@ -1,1 +1,1 @@
-var mnemonic = "peace hold alert drama effort plastic clock cricket bitter blanket mercy verb";
+var mnemonic = "box enlist inhale need spawn blush ship loan shoot kid that weird";

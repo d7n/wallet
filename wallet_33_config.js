@@ -1,1 +1,1 @@
-var mnemonic = "vocal person casino bar area west wise evoke canal clarify offer fabric";
+var mnemonic = "trumpet position host believe kick great gun embody rain poet split online";

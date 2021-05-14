@@ -1,1 +1,1 @@
-var mnemonic = "benefit wait wink actor unusual device fatigue there later undo simple choose";
+var mnemonic = "route tomorrow mention rude seed error slogan burger advice fitness veteran mask";

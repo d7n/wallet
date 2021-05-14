@@ -1,1 +1,1 @@
-var mnemonic = "moon sun when pluck acquire image crucial scissors above antique define armor";
+var mnemonic = "worry differ song fuel exile diesel reunion prize high blur mix giraffe";

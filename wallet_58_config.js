@@ -1,1 +1,1 @@
-var mnemonic = "conduct taste absorb one side summer indicate silly reform employ silly dumb";
+var mnemonic = "visa valley warfare wrap task disorder grace keep wealth village life decline";

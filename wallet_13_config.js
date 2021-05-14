@@ -1,1 +1,1 @@
-var mnemonic = "home renew fine chat jazz exotic debris rule short wheel estate hybrid";
+var mnemonic = "depart normal pride palace invite initial method earn either street dune brown";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat guess dune tilt urban remind stick odor note afraid logic motor";
+var mnemonic = "deputy minimum only perfect swift girl nose entry monster lift lend kit";

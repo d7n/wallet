@@ -1,1 +1,1 @@
-var mnemonic = "giggle ginger knee legend nut senior depend acoustic weasel enlist credit erupt";
+var mnemonic = "always lonely earn fruit miss tube rough law avocado unable chair subway";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk coffee client lobster invest sport fence adapt clock axis pipe remove";
+var mnemonic = "escape edit liberty twenty loan afford grape tuna butter train swamp much";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza section renew zebra foil salt twice merit hold orient front stove";
+var mnemonic = "seek virtual field orchard faculty soul honey auction arm year weird mercy";

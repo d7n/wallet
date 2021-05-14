@@ -1,1 +1,1 @@
-var mnemonic = "couple grow identify cook habit pretty word genius adapt brave jazz humor";
+var mnemonic = "quick medal prison tank candy claim loop blush drop employ upper monster";

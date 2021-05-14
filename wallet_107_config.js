@@ -1,1 +1,1 @@
-var mnemonic = "lamp soda nice year clump example jealous congress bunker surface code appear";
+var mnemonic = "horror project comfort nurse option pudding memory ugly mansion skill diet faith";

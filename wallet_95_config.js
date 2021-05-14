@@ -1,1 +1,1 @@
-var mnemonic = "mimic asset alone manual what pool reject ripple minor exercise universe describe";
+var mnemonic = "wish interest ten deny lawsuit gather pelican start refuse hip daring key";

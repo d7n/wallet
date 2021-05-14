@@ -1,1 +1,1 @@
-var mnemonic = "clap source orange bridge develop neglect certain midnight apology erupt gentle front";
+var mnemonic = "embrace print tiny train ten now high various pelican scatter solid what";

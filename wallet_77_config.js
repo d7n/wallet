@@ -1,1 +1,1 @@
-var mnemonic = "minimum oven bitter kite cake favorite uniform spoon error rather glass say";
+var mnemonic = "chase message civil dial often project alien lizard pole stove economy mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "common warrior village cave dish apart sausage popular job vibrant pole gold";
+var mnemonic = "unknown table shadow stock body monkey account doll dolphin cheese juice buzz";

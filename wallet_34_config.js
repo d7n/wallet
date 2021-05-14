@@ -1,1 +1,1 @@
-var mnemonic = "drink fade fall model celery danger fashion pulse rather culture gold strategy";
+var mnemonic = "embrace hawk person belt buzz upgrade excuse melody female whisper coach table";

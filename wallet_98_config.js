@@ -1,1 +1,1 @@
-var mnemonic = "essence recipe unlock ice object pulse cruel endorse ill option upset zebra";
+var mnemonic = "camera lemon tunnel surround blood bright youth pill impact someone trend stable";

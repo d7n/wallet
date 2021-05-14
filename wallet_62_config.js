@@ -1,1 +1,1 @@
-var mnemonic = "elephant honey will flip gold story mimic rich select absorb credit rain";
+var mnemonic = "below tag echo ride pretty bulk poem purse panther item silk bronze";

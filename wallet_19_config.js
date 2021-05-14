@@ -1,1 +1,1 @@
-var mnemonic = "pair clump chat yellow dynamic boss bone clerk oxygen turtle index eight";
+var mnemonic = "obvious bid clever major milk swamp nuclear cruise beyond used clay faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "kind humble brother dragon panther hen require damage rare flower equal flee";
+var mnemonic = "loop news foil pen choose mutual concert junk music unfold bridge first";

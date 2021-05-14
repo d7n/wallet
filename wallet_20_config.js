@@ -1,1 +1,1 @@
-var mnemonic = "lucky lock frown treat kiwi dad slice option visit soul flip tooth";
+var mnemonic = "nasty art mother one climb pelican jeans code material return merge sister";

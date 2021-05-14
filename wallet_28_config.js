@@ -1,1 +1,1 @@
-var mnemonic = "narrow knife negative route exact feed shove sport eternal bleak essay message";
+var mnemonic = "weather flush melt token chair play hawk twelve reduce ball misery shuffle";

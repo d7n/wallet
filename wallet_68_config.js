@@ -1,1 +1,1 @@
-var mnemonic = "weather head manual anger paddle large kangaroo report cook deposit team lift";
+var mnemonic = "deputy away final hotel goat engage habit climb unfold stairs invest balance";

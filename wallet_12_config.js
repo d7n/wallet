@@ -1,1 +1,1 @@
-var mnemonic = "image stove despair put public nuclear expose foster figure hair twenty vast";
+var mnemonic = "escape swing siren rather silver despair leisure pony modify monster firm modify";

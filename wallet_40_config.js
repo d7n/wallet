@@ -1,1 +1,1 @@
-var mnemonic = "friend destroy crowd oval lawn whisper diamond hockey pottery quality choose pepper";
+var mnemonic = "mask wing stand helmet ankle zone royal alter weekend ride amateur title";

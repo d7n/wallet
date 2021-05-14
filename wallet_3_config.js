@@ -1,1 +1,1 @@
-var mnemonic = "fault mean coral chest furnace okay street donate window exhibit horn major";
+var mnemonic = "obey inmate treat forum vast loyal magnet april safe switch syrup again";

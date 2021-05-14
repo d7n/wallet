@@ -1,1 +1,1 @@
-var mnemonic = "course orange leg outdoor near rebuild attack turn mandate grain reject corn";
+var mnemonic = "impact finger shove antenna winter teach rhythm nuclear question liar session divide";

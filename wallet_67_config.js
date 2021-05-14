@@ -1,1 +1,1 @@
-var mnemonic = "lyrics park note mind boss opera mule cake barely space quarter juice";
+var mnemonic = "soldier olympic glass actress senior shine local window cube spike stumble raise";

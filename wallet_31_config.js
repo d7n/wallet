@@ -1,1 +1,1 @@
-var mnemonic = "trim spatial polar know rely ahead anchor always host acoustic label rabbit";
+var mnemonic = "pill great indicate nominee topple fury file blood hint scheme gravity ill";

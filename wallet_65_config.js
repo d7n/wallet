@@ -1,1 +1,1 @@
-var mnemonic = "abandon doll success cost page receive finish act treat sport embrace midnight";
+var mnemonic = "fresh ghost riot tonight warrior give cousin public poverty teach cricket miss";

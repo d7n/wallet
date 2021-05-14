@@ -1,1 +1,1 @@
-var mnemonic = "display teach federal bind boring fluid liar burst beef furnace slot mechanic";
+var mnemonic = "moral corn copy where toss culture piano prefer tip acid recall dentist";

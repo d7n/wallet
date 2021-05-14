@@ -1,1 +1,1 @@
-var mnemonic = "file convince tomato negative cheap piano cricket uncover wink evoke mean sort";
+var mnemonic = "board fade inhale satisfy crouch shed physical vehicle name hobby inhale doll";

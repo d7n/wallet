@@ -1,1 +1,1 @@
-var mnemonic = "verb carpet antique blouse kind asset stuff rebel used often turkey kidney";
+var mnemonic = "cave woman response mountain athlete come myself vault write effort exile naive";

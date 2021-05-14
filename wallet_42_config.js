@@ -1,1 +1,1 @@
-var mnemonic = "breeze kiss exist bulb margin fish act ivory venture where stable silent";
+var mnemonic = "snake stuff subject fitness extra gesture number diagram quote acquire humble road";

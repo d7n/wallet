@@ -1,1 +1,1 @@
-var mnemonic = "kiwi because practice window success blind easily afraid jump library stock list";
+var mnemonic = "pipe gallery salon quarter inject december cover tool clean loan wave member";

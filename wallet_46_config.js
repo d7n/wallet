@@ -1,1 +1,1 @@
-var mnemonic = "second improve buddy believe need wise jeans priority usage permit pyramid flash";
+var mnemonic = "priority uniform smooth silly neutral fruit frog first topic wonder game idea";

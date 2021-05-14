@@ -1,1 +1,1 @@
-var mnemonic = "wife nasty wife garage hospital eyebrow series bean unit arctic grape ripple";
+var mnemonic = "absorb rare cost scan long afford begin little century sunset visit road";

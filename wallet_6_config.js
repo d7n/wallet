@@ -1,1 +1,1 @@
-var mnemonic = "phrase pony loud window wheat myth gym basket axis artist give field";
+var mnemonic = "office pave admit agree oblige sheriff stock cable artwork lounge element awkward";

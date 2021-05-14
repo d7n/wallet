@@ -1,1 +1,1 @@
-var mnemonic = "twin scorpion lesson pill friend jelly wash awesome gaze acoustic release carpet";
+var mnemonic = "all behave damp friend buyer shiver pond cheese meadow punch clinic omit";

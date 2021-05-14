@@ -1,1 +1,1 @@
-var mnemonic = "truth uncle used thumb hole flock sudden stamp ecology assume almost fade";
+var mnemonic = "main cute observe lab narrow post cycle noble tiger carbon ill decline";

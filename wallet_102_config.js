@@ -1,1 +1,1 @@
-var mnemonic = "human quarter laptop code nasty camera seven yard initial island latin coconut";
+var mnemonic = "horn tumble skate second exhaust flash season sign cluster review lottery can";

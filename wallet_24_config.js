@@ -1,1 +1,1 @@
-var mnemonic = "scorpion choose advice hamster replace cricket culture yellow stone kiss post brave";
+var mnemonic = "ill unfold have grain aunt wash time cupboard oxygen wire cake index";

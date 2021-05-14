@@ -1,1 +1,1 @@
-var mnemonic = "heavy fiction shift wagon world muscle author head oval cheap riot cousin";
+var mnemonic = "curve finish atom useless powder jeans spare chair tissue such smooth winner";

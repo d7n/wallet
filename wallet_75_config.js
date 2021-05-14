@@ -1,1 +1,1 @@
-var mnemonic = "midnight crunch panther raw trend carbon ride lift leave pony depth aim";
+var mnemonic = "depth art shield shallow figure cake shaft green drift sponsor govern pig";

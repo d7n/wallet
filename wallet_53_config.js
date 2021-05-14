@@ -1,1 +1,1 @@
-var mnemonic = "order addict census trend top foil corn match arch spy beef crew";
+var mnemonic = "pull two april post disorder tiny model green seven mosquito normal pumpkin";

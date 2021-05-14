@@ -1,1 +1,1 @@
-var mnemonic = "section anger festival credit journey forest trophy life priority clown process lobster";
+var mnemonic = "sense extend inflict again fork music chief indoor obtain school volume appear";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd energy wonder media tip equip beyond solid humble wisdom drastic enhance";
+var mnemonic = "endorse tent orbit urge rally arm rival faith myself patient spice repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp feel cancel click mechanic rocket squeeze crucial soul jar smart boil";
+var mnemonic = "across thrive act seed extra pulse demand pause order print whisper grab";

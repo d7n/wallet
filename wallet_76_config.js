@@ -1,1 +1,1 @@
-var mnemonic = "machine note hospital believe theme priority pen mystery foster fresh hat curve";
+var mnemonic = "aim exit regular evidence skate page dizzy view office ivory vibrant wash";

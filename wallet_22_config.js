@@ -1,1 +1,1 @@
-var mnemonic = "flavor vivid human pole age decide stand immense spray ill bonus conduct";
+var mnemonic = "offer code blast sponsor soul breeze exotic tired sadness fiscal hope portion";

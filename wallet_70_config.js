@@ -1,1 +1,1 @@
-var mnemonic = "egg blue curve lens lizard nose tip budget mind accuse upset agent";
+var mnemonic = "lab punch tragic file spice gossip exile bind tourist lens plunge grain";

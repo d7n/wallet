@@ -1,1 +1,1 @@
-var mnemonic = "easily label blade plunge front engine oppose puzzle number invest debate meadow";
+var mnemonic = "antique hold bid cool unable away green media raw private fragile almost";

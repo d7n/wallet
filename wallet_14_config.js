@@ -1,1 +1,1 @@
-var mnemonic = "mercy exchange battle blossom silly section gorilla express surprise dry soldier law";
+var mnemonic = "screen market crack tunnel doctor cancel install where curious come clarify control";

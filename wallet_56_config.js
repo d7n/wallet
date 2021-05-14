@@ -1,1 +1,1 @@
-var mnemonic = "funny helmet black employ fever snow alter fame fatigue frame lady clay";
+var mnemonic = "sea visit visual donkey camp salmon theme have empty thank ugly series";

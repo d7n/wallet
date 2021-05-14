@@ -1,1 +1,1 @@
-var mnemonic = "seek smooth pulp blush robust medal tooth ramp coach copper tiger foster";
+var mnemonic = "vessel style raise rifle bread rose floor grant erosion envelope agent elbow";

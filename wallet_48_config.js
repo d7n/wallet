@@ -1,1 +1,1 @@
-var mnemonic = "warrior gun doctor van grid shrug predict funny document twice fish fancy";
+var mnemonic = "chat kidney truck amount door blue monster patrol festival daring rather ability";

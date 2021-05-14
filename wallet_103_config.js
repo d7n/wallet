@@ -1,1 +1,1 @@
-var mnemonic = "rookie exist predict during address enter dumb fiber civil misery duty learn";
+var mnemonic = "pitch stick kid swing mango garden shift mandate discover virtual trash entire";

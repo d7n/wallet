@@ -1,1 +1,1 @@
-var mnemonic = "cycle timber enrich best excess piano flat process way marriage pact behind";
+var mnemonic = "whale spare blush drop pride sadness yard sound pretty good purse turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter connect airport dumb biology erode shoe what stomach physical accident list";
+var mnemonic = "news entire section leg verb talent theory beyond accuse luggage before half";

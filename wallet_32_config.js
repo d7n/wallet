@@ -1,1 +1,1 @@
-var mnemonic = "idle shock drastic elevator guitar horror leopard engine tomato beauty diesel push";
+var mnemonic = "heavy crisp airport soap split photo robust pave tide speed hope ensure";

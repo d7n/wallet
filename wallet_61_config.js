@@ -1,1 +1,1 @@
-var mnemonic = "demand valley cousin arrive whisper abandon jungle point start panel flip talk";
+var mnemonic = "pioneer summer offer inhale appear drink voice write still biology sunset exhibit";

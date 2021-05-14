@@ -1,1 +1,1 @@
-var mnemonic = "define monster cloth auction daughter casual endless twelve catch bullet mad must";
+var mnemonic = "life swap basket loud load twist outdoor tongue antenna they foam purity";

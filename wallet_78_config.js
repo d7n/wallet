@@ -1,1 +1,1 @@
-var mnemonic = "spin large zone giggle walk unlock father poet daughter match merit around";
+var mnemonic = "market resource scare consider attitude elite upon spice safe arch orient soldier";

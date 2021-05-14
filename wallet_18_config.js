@@ -1,1 +1,1 @@
-var mnemonic = "quality bid before glare high bracket kite walnut clutch picture novel blade";
+var mnemonic = "banana fame fatigue acoustic food clever crazy hidden door reflect neglect solid";

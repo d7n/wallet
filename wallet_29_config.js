@@ -1,1 +1,1 @@
-var mnemonic = "symbol social sustain retreat will midnight drum notice improve whale issue twin";
+var mnemonic = "kind boost bulk able maple window pact melody unlock pattern expect mail";

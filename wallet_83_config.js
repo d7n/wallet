@@ -1,1 +1,1 @@
-var mnemonic = "input boy lecture treat analyst barely dog find depend vault anxiety hair";
+var mnemonic = "burst pepper admit ticket tip destroy spend coyote duty refuse someone dinner";

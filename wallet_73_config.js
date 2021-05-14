@@ -1,1 +1,1 @@
-var mnemonic = "noble pudding october right pluck lawsuit injury canyon space enhance math limit";
+var mnemonic = "six duty charge dose donor leopard extend summer finger have desert remember";

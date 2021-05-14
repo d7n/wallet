@@ -1,1 +1,1 @@
-var mnemonic = "blast remember chunk reason little caution lab diagram thunder scorpion kiwi present";
+var mnemonic = "sadness lava soldier rookie nose exercise upgrade sock oyster raise alien viable";

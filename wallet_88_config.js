@@ -1,1 +1,1 @@
-var mnemonic = "plug cigar equal priority song minute stairs guess giraffe rebel census reason";
+var mnemonic = "early gossip gravity excess injury maid double mosquito steak monitor athlete gravity";

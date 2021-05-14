@@ -1,1 +1,1 @@
-var mnemonic = "edit addict please health very calm scout weather cloth magic pass moment";
+var mnemonic = "window limit female language radio toy wear leaf prevent black file jar";

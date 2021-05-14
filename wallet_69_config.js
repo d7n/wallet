@@ -1,1 +1,1 @@
-var mnemonic = "garbage april print drum coin reopen lava easily misery grab rather coast";
+var mnemonic = "palm critic badge wire model security ignore zebra pull pulse pulse rotate";

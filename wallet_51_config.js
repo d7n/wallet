@@ -1,1 +1,1 @@
-var mnemonic = "object elephant cage nose fever gorilla property nurse seven caution fee soup";
+var mnemonic = "man ketchup family excuse miss season into ring stool timber hello arrange";

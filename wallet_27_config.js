@@ -1,1 +1,1 @@
-var mnemonic = "husband pledge tragic grit fortune thank ladder turn exotic okay shoulder medal";
+var mnemonic = "pledge salute craft crucial cross coconut develop sphere elevator digital dust peanut";

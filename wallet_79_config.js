@@ -1,1 +1,1 @@
-var mnemonic = "doll breeze twist message brown sibling soldier treat divide drill lounge despair";
+var mnemonic = "dinosaur museum gaze milk hello creek wool mother essence zebra elegant popular";

@@ -1,1 +1,1 @@
-var mnemonic = "shine urge episode receive youth brief tomato pipe hip club name egg";
+var mnemonic = "cart trim typical increase special accident topple fever egg fruit release rude";

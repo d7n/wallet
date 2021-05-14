@@ -1,1 +1,1 @@
-var mnemonic = "estate walnut provide capital extra want office gown ivory error when resource";
+var mnemonic = "convince wire try cushion edge fat chuckle mind wealth aim zoo text";

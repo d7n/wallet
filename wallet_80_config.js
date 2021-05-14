@@ -1,1 +1,1 @@
-var mnemonic = "color only feel next shed field index all spice scene armed can";
+var mnemonic = "staff debris frozen gallery cube void weather outside victory expect solar insect";
