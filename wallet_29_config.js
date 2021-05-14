@@ -1,1 +1,1 @@
-var mnemonic = "because uphold tuna amused spread insane ready accident flag letter become parent";
+var mnemonic = "game avoid three dentist visual rich car defense broom peasant aerobic doctor";

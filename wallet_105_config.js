@@ -1,1 +1,1 @@
-var mnemonic = "away brave route carry job prefer discover own shift energy unfold entry";
+var mnemonic = "wear bachelor drift chicken air dilemma useful wide tube entry toss coin";

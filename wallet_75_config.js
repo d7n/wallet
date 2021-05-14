@@ -1,1 +1,1 @@
-var mnemonic = "funny pink feed pave because joke inmate left curve reason drop rural";
+var mnemonic = "tail another today plug rather magic index they raven industry mind divorce";

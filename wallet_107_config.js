@@ -1,1 +1,1 @@
-var mnemonic = "blur inject opera object law sense slim supreme orphan auto direct hair";
+var mnemonic = "scheme theme index wolf height hill cradle indoor erosion mule bar verb";

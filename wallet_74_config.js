@@ -1,1 +1,1 @@
-var mnemonic = "educate party point warrior identify armor expand category album moment glass vibrant";
+var mnemonic = "cousin gather brain eternal safe rabbit over faint beyond lunar vapor depth";

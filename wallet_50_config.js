@@ -1,1 +1,1 @@
-var mnemonic = "antique win return fatigue nerve similar arena kiwi wolf purpose apart adapt";
+var mnemonic = "begin vendor snap junior barely agree soda chimney husband lottery mimic autumn";

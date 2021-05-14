@@ -1,1 +1,1 @@
-var mnemonic = "slam betray cigar dust carbon solve rotate salute hour develop sound paddle";
+var mnemonic = "jewel blade bind approve shed immense tent praise either hammer simple clever";

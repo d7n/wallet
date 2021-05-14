@@ -1,1 +1,1 @@
-var mnemonic = "prison present denial enemy endorse soap select domain private coyote vivid elegant";
+var mnemonic = "oval opinion quiz idea patch pioneer valve card gorilla place multiply tray";

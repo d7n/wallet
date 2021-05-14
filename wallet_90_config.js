@@ -1,1 +1,1 @@
-var mnemonic = "pull gallery debate december angry innocent small fiscal toy unfair matrix blur";
+var mnemonic = "park arctic vapor tiny birth debate medal tissue patrol emerge knock person";

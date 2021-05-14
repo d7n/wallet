@@ -1,1 +1,1 @@
-var mnemonic = "stool identify increase garlic alert video talent topple boat spin detail clean";
+var mnemonic = "crystal rather glue equal visit define unable phone drink enhance awesome memory";

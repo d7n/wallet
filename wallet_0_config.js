@@ -1,1 +1,1 @@
-var mnemonic = "party vessel acid movie net shield alter level focus interest fault picnic";
+var mnemonic = "lucky design oyster illness spend click sword inflict flash inner door glass";

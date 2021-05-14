@@ -1,1 +1,1 @@
-var mnemonic = "satoshi solve gate nephew group crawl device slim guilt arrange pond field";
+var mnemonic = "beach color doll above jaguar wide exist craft loud assist damp off";

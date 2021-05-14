@@ -1,1 +1,1 @@
-var mnemonic = "journey secret scare spray auto wine charge quality trial alarm system sad";
+var mnemonic = "master observe half rent churn scare steak leisure congress mother inmate sheriff";

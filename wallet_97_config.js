@@ -1,1 +1,1 @@
-var mnemonic = "ride stumble verify bonus crater labor truly wise plunge alter plug cluster";
+var mnemonic = "lucky click mountain badge motor strategy forum vault citizen crystal release organ";

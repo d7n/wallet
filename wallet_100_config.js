@@ -1,1 +1,1 @@
-var mnemonic = "boost social grass deputy echo chicken ripple kangaroo legal angle rookie phone";
+var mnemonic = "field suspect dilemma spider boy broccoli conduct wrap despair wife whisper virtual";

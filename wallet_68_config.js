@@ -1,1 +1,1 @@
-var mnemonic = "undo vintage arrange point addict trigger silly crumble rhythm bind cave oblige";
+var mnemonic = "diagram acoustic turtle correct crane return song metal save magnet shoulder gap";

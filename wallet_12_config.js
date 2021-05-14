@@ -1,1 +1,1 @@
-var mnemonic = "simple initial try area release siren manual icon upset confirm member almost";
+var mnemonic = "scare despair fiber fatigue ability approve street split cage word type lobster";

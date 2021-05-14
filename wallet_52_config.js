@@ -1,1 +1,1 @@
-var mnemonic = "point path estate hard salt more present behave rack logic knock loyal";
+var mnemonic = "hammer lounge buzz globe early unusual evil quiz today cage laugh layer";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz liberty vivid humor uncover attitude agent army zebra primary theory alone";
+var mnemonic = "grunt author floor evidence exhibit message unlock nut debate budget depth ecology";

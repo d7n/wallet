@@ -1,1 +1,1 @@
-var mnemonic = "prevent comic barrel trim van victory shrug chronic spike joy hour sword";
+var mnemonic = "perfect attack amused evolve toast deer december birth bubble shiver trophy equal";

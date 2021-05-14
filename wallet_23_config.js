@@ -1,1 +1,1 @@
-var mnemonic = "odor must process decide oven virtual clog emerge trial perfect road caution";
+var mnemonic = "era scatter blanket estate inmate inch tide beach quiz strategy feel major";

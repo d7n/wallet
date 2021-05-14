@@ -1,1 +1,1 @@
-var mnemonic = "leader guilt kid dry neck shine perfect jeans chronic mechanic usage endless";
+var mnemonic = "tobacco expect credit artist meadow truck ignore wood normal border insane barely";

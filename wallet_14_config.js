@@ -1,1 +1,1 @@
-var mnemonic = "market wealth frozen merry size traffic diet finish swim antenna indicate country";
+var mnemonic = "patch view away critic sunset bracket theory dinosaur valve tortoise fish battle";

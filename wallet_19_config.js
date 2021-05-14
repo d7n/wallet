@@ -1,1 +1,1 @@
-var mnemonic = "element stock brain artist fall choose cream chicken artefact concert million model";
+var mnemonic = "august anxiety tragic clap sunny toe isolate orient stage language paddle finger";

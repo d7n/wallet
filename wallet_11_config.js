@@ -1,1 +1,1 @@
-var mnemonic = "used online hybrid romance hover asthma hotel certain remember guide swing blue";
+var mnemonic = "student park mimic grunt aspect genius harbor candy mandate credit logic fold";

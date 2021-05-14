@@ -1,1 +1,1 @@
-var mnemonic = "bike useless boost gentle gesture retire cotton predict nest glow hospital cover";
+var mnemonic = "pitch armor lunar lend hint say luggage anchor venture love pole suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry avoid city fence lobster pink slab night comic rhythm inform above";
+var mnemonic = "poverty inhale auction possible hurry network cargo deal diet inner dance cave";

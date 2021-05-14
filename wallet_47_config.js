@@ -1,1 +1,1 @@
-var mnemonic = "pipe repair exile car excess caught bean verify flock edge decide screen";
+var mnemonic = "sadness clay habit friend mix motion wife right clutch erupt mango skin";

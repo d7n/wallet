@@ -1,1 +1,1 @@
-var mnemonic = "symbol heart position mom fan mandate buyer special dinosaur office trigger maze";
+var mnemonic = "lecture purchase provide fade grit shell cradle diesel border dizzy rely hover";

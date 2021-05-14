@@ -1,1 +1,1 @@
-var mnemonic = "picture road weapon tooth basket light main gloom blossom spray phone extend";
+var mnemonic = "hungry hold addict miss lobster network rifle act match staff horn busy";

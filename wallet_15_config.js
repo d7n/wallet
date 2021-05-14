@@ -1,1 +1,1 @@
-var mnemonic = "derive cart lake alpha fantasy hamster aspect absent country loud deal motor";
+var mnemonic = "claim brief rough field hero genre slab wide double they fragile blush";

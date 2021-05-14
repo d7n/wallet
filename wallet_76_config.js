@@ -1,1 +1,1 @@
-var mnemonic = "swap wink knee around yard index prevent middle taxi train isolate left";
+var mnemonic = "legal park winter rally always confirm captain sniff parade tumble innocent another";

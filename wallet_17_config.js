@@ -1,1 +1,1 @@
-var mnemonic = "uniform excite drastic grow drift front swamp milk certain club metal weekend";
+var mnemonic = "surface over novel wrap napkin easily stereo stool cloud spike fancy cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "body enforce tell reunion fault spatial hollow act index write around recycle";
+var mnemonic = "sketch town stem faculty wild loyal pupil nephew control job wage arm";

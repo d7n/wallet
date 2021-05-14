@@ -1,1 +1,1 @@
-var mnemonic = "now venue spice object churn guess quick fatigue addict fringe category owner";
+var mnemonic = "own focus family dignity update doll idea pluck fury hover brain film";

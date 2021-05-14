@@ -1,1 +1,1 @@
-var mnemonic = "high large enhance grocery invite car awful figure equip kit cabin physical";
+var mnemonic = "primary below acid list nurse zebra wood tomorrow kiss atom assault umbrella";

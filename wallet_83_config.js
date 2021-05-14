@@ -1,1 +1,1 @@
-var mnemonic = "chapter lock transfer foot hazard cabbage buyer virus scene cherry panel ripple";
+var mnemonic = "message cotton few cargo case unique chalk random torch twelve ill divorce";

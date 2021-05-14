@@ -1,1 +1,1 @@
-var mnemonic = "party tag dove rent improve runway exotic wide absurd vivid duty early";
+var mnemonic = "subway laundry sniff slab trigger inspire roast split crime early engine model";

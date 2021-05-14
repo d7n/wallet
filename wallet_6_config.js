@@ -1,1 +1,1 @@
-var mnemonic = "child observe sister lizard wrist hybrid tennis wrong search party reform whip";
+var mnemonic = "vital sauce robot elevator jump spoil winner maximum vast carbon dwarf identify";

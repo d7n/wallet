@@ -1,1 +1,1 @@
-var mnemonic = "riot clown truck captain consider hold eagle goddess eyebrow milk scorpion document";
+var mnemonic = "meadow release narrow lend identify lonely paper fancy marble surface ivory air";

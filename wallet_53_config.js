@@ -1,1 +1,1 @@
-var mnemonic = "replace edit sting gun suspect neck wage action actor void victory answer";
+var mnemonic = "ribbon people noodle napkin west typical sentence equal pitch rifle huge position";

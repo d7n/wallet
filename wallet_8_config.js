@@ -1,1 +1,1 @@
-var mnemonic = "soda obey uphold human embrace surge rotate zoo chief easy key tuition";
+var mnemonic = "sick sponsor tomato season upgrade citizen furnace stumble ship stadium hold confirm";

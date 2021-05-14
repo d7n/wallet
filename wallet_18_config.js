@@ -1,1 +1,1 @@
-var mnemonic = "arctic ready party involve quiz envelope slot naive approve clinic layer style";
+var mnemonic = "climb leisure impact panther boat window exist bid typical result dust neutral";

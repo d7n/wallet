@@ -1,1 +1,1 @@
-var mnemonic = "limit area junior mobile theme voyage photo salute fabric gift dry room";
+var mnemonic = "nephew rough bless utility gesture hunt gesture clinic salon pitch half voice";

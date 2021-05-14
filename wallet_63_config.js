@@ -1,1 +1,1 @@
-var mnemonic = "ancient fruit hedgehog valley quarter glad lottery unit liquid prosper tired just";
+var mnemonic = "dynamic slice office demand curve wet brain economy famous lottery clinic correct";

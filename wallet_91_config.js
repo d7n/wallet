@@ -1,1 +1,1 @@
-var mnemonic = "angle winter lottery eagle shadow liar expose insane system cushion steak blade";
+var mnemonic = "version common more bus mention slender anxiety puzzle spatial finger expect bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "tail antenna moon summer derive clutch airport word gain original learn pitch";
+var mnemonic = "person bubble ritual orchard term umbrella soon lunar emotion black question edge";

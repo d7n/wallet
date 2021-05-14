@@ -1,1 +1,1 @@
-var mnemonic = "giggle large neglect cactus elephant sister van basket avoid discover critic sample";
+var mnemonic = "mango prevent absorb stick unaware seed desert strong fork window print torch";

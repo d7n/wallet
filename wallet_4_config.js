@@ -1,1 +1,1 @@
-var mnemonic = "prize viable taxi mountain collect rain mirror volume reason route snow donor";
+var mnemonic = "vacuum home gentle void inhale slam anxiety nephew awake ivory question empower";

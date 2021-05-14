@@ -1,1 +1,1 @@
-var mnemonic = "tunnel awful bleak enemy depth camp marriage dry disease machine relief uncover";
+var mnemonic = "tackle trophy focus farm bronze process junior slam nuclear desk violin chaos";

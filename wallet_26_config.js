@@ -1,1 +1,1 @@
-var mnemonic = "above person tell deal project kite call word dad gallery theme festival";
+var mnemonic = "autumn armor spot almost link tongue fantasy giraffe renew tiger middle ketchup";

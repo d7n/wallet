@@ -1,1 +1,1 @@
-var mnemonic = "element dinner mom correct banana endorse order note also pelican human wire";
+var mnemonic = "crazy addict volume input manual drip job family tobacco draft predict kite";

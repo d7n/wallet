@@ -1,1 +1,1 @@
-var mnemonic = "voyage decade near later used universe lab atom possible amazing loan team";
+var mnemonic = "transfer layer smile online brick one over mesh detect habit elephant valve";

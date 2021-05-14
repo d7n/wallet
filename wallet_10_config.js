@@ -1,1 +1,1 @@
-var mnemonic = "donkey elite buyer draw journey entry skill angle isolate tape pluck stone";
+var mnemonic = "belt powder nothing muffin differ organ lab jazz switch street abuse gauge";

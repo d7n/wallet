@@ -1,1 +1,1 @@
-var mnemonic = "jewel coconut subway broken sock security swift dolphin nose glue lab zero";
+var mnemonic = "defy evoke girl cactus quit dwarf trouble claw elevator possible slab guard";

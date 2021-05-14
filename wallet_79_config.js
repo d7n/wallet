@@ -1,1 +1,1 @@
-var mnemonic = "claw buddy panther saddle fuel first sort can caught turkey proof meat";
+var mnemonic = "fish foot all bring speed butter assault kick index theme giant salmon";

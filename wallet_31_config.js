@@ -1,1 +1,1 @@
-var mnemonic = "space catch monster grief salon expose type patrol gravity behind divert forest";
+var mnemonic = "leader pledge enact mix hen habit real gallery life catch tone antenna";

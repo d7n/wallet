@@ -1,1 +1,1 @@
-var mnemonic = "oxygen network thing struggle theme left paddle siren cable hour unknown stool";
+var mnemonic = "dumb holiday neither race veteran proud tribe glass super proud tool syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "legend fix manage vapor distance describe control novel scorpion broom palace hobby";
+var mnemonic = "father crack razor tip feature vote mesh exhibit dolphin salon blossom guard";

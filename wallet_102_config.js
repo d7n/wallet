@@ -1,1 +1,1 @@
-var mnemonic = "shoot never once exchange bamboo misery taste practice stomach grief favorite seek";
+var mnemonic = "brave urge genuine air dawn song idle inspire economy section swear approve";

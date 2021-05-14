@@ -1,1 +1,1 @@
-var mnemonic = "six duty april rival hold announce march ready crumble hospital assume reason";
+var mnemonic = "barely emerge daring else hollow talk capable mad balcony visit decide width";

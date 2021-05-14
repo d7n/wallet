@@ -1,1 +1,1 @@
-var mnemonic = "chef cart left crush hungry nuclear zone feature thumb help reward major";
+var mnemonic = "exotic verify weekend exact episode tattoo blanket vintage cousin clump caution reduce";

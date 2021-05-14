@@ -1,1 +1,1 @@
-var mnemonic = "boring web attitude multiply athlete cute never indicate theory planet only dog";
+var mnemonic = "goddess clock distance staff feed capital smooth royal rail robust purpose anger";

@@ -1,1 +1,1 @@
-var mnemonic = "melt one dream bomb fossil beef satoshi lava main rotate guitar anxiety";
+var mnemonic = "path long anger will bless exile engage swap royal relief skill corn";

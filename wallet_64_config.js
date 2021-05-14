@@ -1,1 +1,1 @@
-var mnemonic = "ozone trip urban unusual moral scatter pulp harbor bachelor farm hammer ball";
+var mnemonic = "situate celery basket tumble recipe shift noodle input season license grass imitate";

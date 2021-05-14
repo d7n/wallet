@@ -1,1 +1,1 @@
-var mnemonic = "rent switch surprise used cousin bag hope eight train cage whale once";
+var mnemonic = "lesson wash reward oblige diamond learn aerobic man tourist input balance insane";

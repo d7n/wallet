@@ -1,1 +1,1 @@
-var mnemonic = "plug market ahead file spike vivid student evoke bottom cave honey balcony";
+var mnemonic = "hair cake sail lounge thunder praise depend travel mask evidence crop swing";

@@ -1,1 +1,1 @@
-var mnemonic = "grant ritual bounce file stool soda obscure stable clock park invite glad";
+var mnemonic = "galaxy humor science tumble pass system ticket border island oak please diagram";

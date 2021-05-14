@@ -1,1 +1,1 @@
-var mnemonic = "sketch paddle orient glimpse profit ginger cabbage panda razor effort strong attitude";
+var mnemonic = "dignity act strategy leisure swim farm youth forest help pistol more obey";

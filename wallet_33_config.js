@@ -1,1 +1,1 @@
-var mnemonic = "leave slim various image lawn mom road cat estate chunk upon inform";
+var mnemonic = "vibrant horn meat bulb wasp prefer know movie range short want tip";

@@ -1,1 +1,1 @@
-var mnemonic = "grass panther east ginger mobile that spatial inherit oblige language will bright";
+var mnemonic = "victory delay unlock duty twice glimpse talent addict worry fluid absent lens";

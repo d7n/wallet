@@ -1,1 +1,1 @@
-var mnemonic = "define vessel track one hungry divorce sister maximum visit sadness trim orbit";
+var mnemonic = "rate cabin always peace before wolf practice expose key novel pioneer ring";

@@ -1,1 +1,1 @@
-var mnemonic = "cream grain dentist tuna husband consider choice answer prepare wall argue way";
+var mnemonic = "angle initial member engine finish industry space expire route exist shed alcohol";

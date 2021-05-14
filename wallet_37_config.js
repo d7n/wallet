@@ -1,1 +1,1 @@
-var mnemonic = "twin away twenty ready name type rice blush equal demise game flock";
+var mnemonic = "blade vendor casino lonely magnet cable remind cheese devote virtual engage vacant";

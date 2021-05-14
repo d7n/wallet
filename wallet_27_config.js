@@ -1,1 +1,1 @@
-var mnemonic = "warfare math fancy opera robot toast celery repeat loyal tilt dinosaur hundred";
+var mnemonic = "derive cake quarter brown pulse chest alarm shed eternal blush return imitate";

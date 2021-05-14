@@ -1,1 +1,1 @@
-var mnemonic = "clerk excuse exchange position rare juice truck scan panic august valve young";
+var mnemonic = "picture join vicious drum wing hurry cement begin claw provide magic document";

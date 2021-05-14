@@ -1,1 +1,1 @@
-var mnemonic = "stool project rack chat involve august spawn all ski knock until kind";
+var mnemonic = "frozen toe maze dial tomorrow genuine night upper ceiling alpha exercise nice";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure diary fence sausage unfair boost oyster pistol alert news acquire olympic";
+var mnemonic = "wolf slim lunch spirit balance honey damage opera tumble sugar ask vacuum";

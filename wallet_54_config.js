@@ -1,1 +1,1 @@
-var mnemonic = "observe gaze wisdom tool industry report kitten siege candy scene suggest ozone";
+var mnemonic = "steel grain olive penalty fold mimic hope occur social undo original knife";

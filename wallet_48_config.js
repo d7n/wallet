@@ -1,1 +1,1 @@
-var mnemonic = "menu become park alarm faith reunion wage air baby oblige area grow";
+var mnemonic = "grass ethics ready simple inner arrow exist cute length pet broken castle";

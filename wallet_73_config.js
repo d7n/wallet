@@ -1,1 +1,1 @@
-var mnemonic = "shell snap saddle limb egg uncle join vanish absent program fluid custom";
+var mnemonic = "brick rain intact rib drop skill box park move mad force family";

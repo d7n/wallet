@@ -1,1 +1,1 @@
-var mnemonic = "despair super live battle brick useful month orphan velvet cigar depth excess";
+var mnemonic = "cattle token buyer scout match dream neutral potato train tornado invest deer";

@@ -1,1 +1,1 @@
-var mnemonic = "food swap sadness squeeze merit problem install always chase suspect speed calm";
+var mnemonic = "try truth observe smooth web shuffle move equip act coin liar believe";

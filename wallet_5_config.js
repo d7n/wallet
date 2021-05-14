@@ -1,1 +1,1 @@
-var mnemonic = "movie quiz thank chicken slam multiply orchard warrior mass copper flavor animal";
+var mnemonic = "agent detect once forget evidence century inside weekend bean moment flag cause";

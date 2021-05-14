@@ -1,1 +1,1 @@
-var mnemonic = "island tumble bunker depend couch pond damage black calm tiger december play";
+var mnemonic = "cry artefact hedgehog identify main cable cricket glide sell figure legend rate";

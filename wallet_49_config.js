@@ -1,1 +1,1 @@
-var mnemonic = "reunion metal omit weapon penalty sock cherry vacuum dish marble patrol flee";
+var mnemonic = "glove domain between over cactus match maximum acquire skate brave ball enrich";

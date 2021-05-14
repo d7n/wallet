@@ -1,1 +1,1 @@
-var mnemonic = "phone wish spirit eye suspect cup priority mass begin evil correct coil";
+var mnemonic = "trigger wood hen donkey smart panda tortoise obscure boring journey hamster imitate";

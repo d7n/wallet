@@ -1,1 +1,1 @@
-var mnemonic = "fitness when afford artefact pig amazing boil cricket venture aerobic fire winter";
+var mnemonic = "jelly cousin urge scorpion organ member few senior taste marriage material rug";

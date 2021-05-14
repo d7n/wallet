@@ -1,1 +1,1 @@
-var mnemonic = "radar image amazing party knock daughter maze develop destroy start cat kiss";
+var mnemonic = "kangaroo riot more neither board negative warrior reunion price benefit water marriage";

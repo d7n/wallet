@@ -1,1 +1,1 @@
-var mnemonic = "security elephant there badge hire planet absurd armed parrot sponsor lemon area";
+var mnemonic = "subject earn love spirit shove bar claim tourist ride then flavor throw";

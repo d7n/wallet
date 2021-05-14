@@ -1,1 +1,1 @@
-var mnemonic = "wisdom lobster carbon enjoy rent error craft core journey champion scene obvious";
+var mnemonic = "crisp truck bullet clay accident reopen resemble wash zebra cloth wink enter";

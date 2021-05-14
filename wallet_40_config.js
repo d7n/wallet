@@ -1,1 +1,1 @@
-var mnemonic = "stool almost face arrow help vague nerve dog age hurry warfare defense";
+var mnemonic = "brick grain fancy brisk voyage hold broken note eyebrow point hundred duty";

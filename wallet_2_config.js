@@ -1,1 +1,1 @@
-var mnemonic = "insane canvas riot blanket perfect lock aisle lucky sea boring answer sugar";
+var mnemonic = "hammer idle service beach salad economy earth tide actress escape muffin chief";

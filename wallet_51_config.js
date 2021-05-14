@@ -1,1 +1,1 @@
-var mnemonic = "choose assist prison one dignity robot enrich ramp trend camera shoulder october";
+var mnemonic = "beauty wide lemon system donkey sadness athlete sister alter bullet spawn lizard";

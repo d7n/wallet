@@ -1,1 +1,1 @@
-var mnemonic = "fluid frost candy face blanket spring stock live buffalo speed short hero";
+var mnemonic = "pony crawl orange puzzle outdoor job dish crush across fade primary couch";

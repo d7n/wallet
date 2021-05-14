@@ -1,1 +1,1 @@
-var mnemonic = "ride remind lounge actor cricket under undo enable client swallow bitter joke";
+var mnemonic = "fuel fan half juice bamboo bargain answer drive brass web reject tower";

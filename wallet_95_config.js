@@ -1,1 +1,1 @@
-var mnemonic = "repair balance pull erupt typical knee list kitchen motion festival winter trade";
+var mnemonic = "book stomach master column plate west olympic bright ceiling rack satoshi rich";

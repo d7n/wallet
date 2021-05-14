@@ -1,1 +1,1 @@
-var mnemonic = "auto wire arrange goddess upset satisfy ethics lend twice frog give silver";
+var mnemonic = "eager maximum avoid step hotel jeans episode normal seed hurt suit repeat";
