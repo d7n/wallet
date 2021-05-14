@@ -1,1 +1,1 @@
-var mnemonic = "sketch town stem faculty wild loyal pupil nephew control job wage arm";
+var mnemonic = "game knock foster field train sight dry scatter vehicle wet aspect draw";

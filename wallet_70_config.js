@@ -1,1 +1,1 @@
-var mnemonic = "trigger wood hen donkey smart panda tortoise obscure boring journey hamster imitate";
+var mnemonic = "patrol agent learn fire come merry kid march warm diary lumber piece";

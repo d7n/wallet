@@ -1,1 +1,1 @@
-var mnemonic = "version common more bus mention slender anxiety puzzle spatial finger expect bundle";
+var mnemonic = "exchange acoustic order economy palm usual camp noise label father tent husband";

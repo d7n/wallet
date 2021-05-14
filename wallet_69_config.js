@@ -1,1 +1,1 @@
-var mnemonic = "nephew rough bless utility gesture hunt gesture clinic salon pitch half voice";
+var mnemonic = "trumpet disorder kite emotion excuse lens zone define omit truth short violin";

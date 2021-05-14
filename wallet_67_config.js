@@ -1,1 +1,1 @@
-var mnemonic = "subway laundry sniff slab trigger inspire roast split crime early engine model";
+var mnemonic = "small surround thought small pipe illegal grunt garment pair hazard car crunch";

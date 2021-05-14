@@ -1,1 +1,1 @@
-var mnemonic = "barely emerge daring else hollow talk capable mad balcony visit decide width";
+var mnemonic = "pulse issue reform beyond myth always sting orient assume entire ginger ahead";

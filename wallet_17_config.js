@@ -1,1 +1,1 @@
-var mnemonic = "surface over novel wrap napkin easily stereo stool cloud spike fancy cotton";
+var mnemonic = "pen life lobster squirrel boring sample regret wedding survey letter calm giant";

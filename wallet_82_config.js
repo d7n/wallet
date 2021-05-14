@@ -1,1 +1,1 @@
-var mnemonic = "poverty inhale auction possible hurry network cargo deal diet inner dance cave";
+var mnemonic = "dilemma six narrow great tornado tiger sudden core hair inside marine suspect";

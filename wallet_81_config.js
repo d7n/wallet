@@ -1,1 +1,1 @@
-var mnemonic = "tobacco expect credit artist meadow truck ignore wood normal border insane barely";
+var mnemonic = "mask supreme wheat play cargo upon once spring sleep legend record senior";

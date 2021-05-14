@@ -1,1 +1,1 @@
-var mnemonic = "tail another today plug rather magic index they raven industry mind divorce";
+var mnemonic = "cram fault clog minute bring metal spread art exotic wing vacuum effort";

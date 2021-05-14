@@ -1,1 +1,1 @@
-var mnemonic = "try truth observe smooth web shuffle move equip act coin liar believe";
+var mnemonic = "scatter maple scorpion shield wine dinosaur chunk canvas tuna pill submit ordinary";

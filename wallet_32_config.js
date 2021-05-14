@@ -1,1 +1,1 @@
-var mnemonic = "victory delay unlock duty twice glimpse talent addict worry fluid absent lens";
+var mnemonic = "night chair venue embark hold asset weekend pudding leader twice vague area";

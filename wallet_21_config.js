@@ -1,1 +1,1 @@
-var mnemonic = "sunny anchor victory tennis essay attack add reform focus force satisfy eight";
+var mnemonic = "accuse second prize warm boat away ball vast trend grief develop decrease";

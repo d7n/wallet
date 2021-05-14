@@ -1,1 +1,1 @@
-var mnemonic = "immune divide swift task cost dwarf scatter eagle agent soap mushroom category";
+var mnemonic = "carbon industry unhappy brief door worry grunt clerk jelly lava weekend mother";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme theme index wolf height hill cradle indoor erosion mule bar verb";
+var mnemonic = "all predict valid easily collect pig sort tennis honey course decline hundred";

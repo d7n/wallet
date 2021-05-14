@@ -1,1 +1,1 @@
-var mnemonic = "brick rain intact rib drop skill box park move mad force family";
+var mnemonic = "nuclear size soft finish van high found tornado audit jewel since early";

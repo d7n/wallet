@@ -1,1 +1,1 @@
-var mnemonic = "similar start clap galaxy cool shallow february truly girl canoe bar other";
+var mnemonic = "enroll orchard pluck drum drip mail swim leisure once alcohol elegant coyote";

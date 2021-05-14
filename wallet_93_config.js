@@ -1,1 +1,1 @@
-var mnemonic = "picture join vicious drum wing hurry cement begin claw provide magic document";
+var mnemonic = "visual choose hold sun dinosaur elite drive taste movie run shield agent";

@@ -1,1 +1,1 @@
-var mnemonic = "pony crawl orange puzzle outdoor job dish crush across fade primary couch";
+var mnemonic = "profit pond boil trick render gallery involve know carbon innocent blur curious";

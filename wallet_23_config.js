@@ -1,1 +1,1 @@
-var mnemonic = "era scatter blanket estate inmate inch tide beach quiz strategy feel major";
+var mnemonic = "diary industry reunion transfer ancient bargain furnace odor gown smooth coyote outer";

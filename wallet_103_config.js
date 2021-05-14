@@ -1,1 +1,1 @@
-var mnemonic = "crystal rather glue equal visit define unable phone drink enhance awesome memory";
+var mnemonic = "exercise tissue elder type art curve absurd carbon shadow love explain purity";

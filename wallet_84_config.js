@@ -1,1 +1,1 @@
-var mnemonic = "master observe half rent churn scare steak leisure congress mother inmate sheriff";
+var mnemonic = "manage asthma shaft hidden harvest rebel betray game ten clock blast park";

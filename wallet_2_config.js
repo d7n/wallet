@@ -1,1 +1,1 @@
-var mnemonic = "hammer idle service beach salad economy earth tide actress escape muffin chief";
+var mnemonic = "photo nose surround poem repair dove exercise violin actual dwarf paper shaft";

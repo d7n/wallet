@@ -1,1 +1,1 @@
-var mnemonic = "hammer lounge buzz globe early unusual evil quiz today cage laugh layer";
+var mnemonic = "left trouble decorate salt brand size shed grace derive vehicle fox shop";

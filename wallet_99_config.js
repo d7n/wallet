@@ -1,1 +1,1 @@
-var mnemonic = "hungry hold addict miss lobster network rifle act match staff horn busy";
+var mnemonic = "lock develop jealous melody differ whip jaguar spare spray face island step";

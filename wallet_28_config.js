@@ -1,1 +1,1 @@
-var mnemonic = "whale sudden genuine diesel fury hunt anxiety tribe diesel start exhaust breeze";
+var mnemonic = "mango hollow food actor anxiety evil satoshi argue angle attend senior spare";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle trophy focus farm bronze process junior slam nuclear desk violin chaos";
+var mnemonic = "layer spread shed grunt pudding summer awesome kidney april entry sugar open";

@@ -1,1 +1,1 @@
-var mnemonic = "path long anger will bless exile engage swap royal relief skill corn";
+var mnemonic = "valve second body right regret fossil marriage pole flower above shuffle book";

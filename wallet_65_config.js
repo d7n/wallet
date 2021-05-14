@@ -1,1 +1,1 @@
-var mnemonic = "cattle token buyer scout match dream neutral potato train tornado invest deer";
+var mnemonic = "uncover unusual private knife idea hard discover order lazy hunt pizza twin";

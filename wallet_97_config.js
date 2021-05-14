@@ -1,1 +1,1 @@
-var mnemonic = "lucky click mountain badge motor strategy forum vault citizen crystal release organ";
+var mnemonic = "shadow cabin enough day air food exile kiwi arrive stool ensure prize";

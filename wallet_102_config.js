@@ -1,1 +1,1 @@
-var mnemonic = "brave urge genuine air dawn song idle inspire economy section swear approve";
+var mnemonic = "swim tackle latin danger dilemma rocket sort uniform cushion canyon captain because";

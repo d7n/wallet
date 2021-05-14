@@ -1,1 +1,1 @@
-var mnemonic = "cousin gather brain eternal safe rabbit over faint beyond lunar vapor depth";
+var mnemonic = "crater attitude senior sausage fat begin forget annual craft stumble focus banana";

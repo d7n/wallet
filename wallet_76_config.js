@@ -1,1 +1,1 @@
-var mnemonic = "legal park winter rally always confirm captain sniff parade tumble innocent another";
+var mnemonic = "furnace become okay indicate comfort reward icon buddy diagram tool guess topple";

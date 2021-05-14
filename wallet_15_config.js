@@ -1,1 +1,1 @@
-var mnemonic = "claim brief rough field hero genre slab wide double they fragile blush";
+var mnemonic = "three fine group fix shallow rather attract drift foam industry frequent base";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly cousin urge scorpion organ member few senior taste marriage material rug";
+var mnemonic = "boy inform universe judge left major shine simple insane credit defy angry";

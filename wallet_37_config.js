@@ -1,1 +1,1 @@
-var mnemonic = "blade vendor casino lonely magnet cable remind cheese devote virtual engage vacant";
+var mnemonic = "summer grid speed among art fringe coast net valid acoustic curious absent";

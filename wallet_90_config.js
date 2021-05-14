@@ -1,1 +1,1 @@
-var mnemonic = "park arctic vapor tiny birth debate medal tissue patrol emerge knock person";
+var mnemonic = "peanut wide settle dress cruise design nurse evoke grow mule stool recipe";

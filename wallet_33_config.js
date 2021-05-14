@@ -1,1 +1,1 @@
-var mnemonic = "vibrant horn meat bulb wasp prefer know movie range short want tip";
+var mnemonic = "soup machine news nephew quality blood seven bar visual lyrics sight food";

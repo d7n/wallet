@@ -1,1 +1,1 @@
-var mnemonic = "crisp truck bullet clay accident reopen resemble wash zebra cloth wink enter";
+var mnemonic = "abstract climb deputy model foot topple agent text antenna decorate learn ripple";

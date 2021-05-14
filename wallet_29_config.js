@@ -1,1 +1,1 @@
-var mnemonic = "game avoid three dentist visual rich car defense broom peasant aerobic doctor";
+var mnemonic = "reward damp blossom dad diet response ozone shield misery roast advance impact";

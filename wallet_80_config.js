@@ -1,1 +1,1 @@
-var mnemonic = "galaxy humor science tumble pass system ticket border island oak please diagram";
+var mnemonic = "fog claw picnic melody reject pair balance absent cross pass year spring";

@@ -1,1 +1,1 @@
-var mnemonic = "person bubble ritual orchard term umbrella soon lunar emotion black question edge";
+var mnemonic = "under rent rare ecology blossom silver shoot run wear follow traffic satisfy";

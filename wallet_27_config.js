@@ -1,1 +1,1 @@
-var mnemonic = "derive cake quarter brown pulse chest alarm shed eternal blush return imitate";
+var mnemonic = "tank wait mistake rose hire draft violin blur trophy tattoo day settle";

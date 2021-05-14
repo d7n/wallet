@@ -1,1 +1,1 @@
-var mnemonic = "begin vendor snap junior barely agree soda chimney husband lottery mimic autumn";
+var mnemonic = "mouse island first cabbage adjust sick obey canvas evolve liar trap daring";

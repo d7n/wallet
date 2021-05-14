@@ -1,1 +1,1 @@
-var mnemonic = "wear bachelor drift chicken air dilemma useful wide tube entry toss coin";
+var mnemonic = "approve design pluck boy fatal tired rifle mom tooth embrace fire shadow";

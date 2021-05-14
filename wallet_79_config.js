@@ -1,1 +1,1 @@
-var mnemonic = "fish foot all bring speed butter assault kick index theme giant salmon";
+var mnemonic = "destroy bounce jump find side fiber door hire waste lake finish gravity";

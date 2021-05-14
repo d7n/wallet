@@ -1,1 +1,1 @@
-var mnemonic = "unable child include engage royal gift turkey model salute fuel thunder conduct";
+var mnemonic = "ten door bundle vessel thing true guilt acoustic moral vehicle remove sock";

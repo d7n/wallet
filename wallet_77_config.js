@@ -1,1 +1,1 @@
-var mnemonic = "oval opinion quiz idea patch pioneer valve card gorilla place multiply tray";
+var mnemonic = "alarm sign west century neglect donate equal excite evidence nation horn grape";

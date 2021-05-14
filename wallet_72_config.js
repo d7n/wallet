@@ -1,1 +1,1 @@
-var mnemonic = "goddess clock distance staff feed capital smooth royal rail robust purpose anger";
+var mnemonic = "pluck donor work december destroy tooth pull response leader they power typical";

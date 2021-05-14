@@ -1,1 +1,1 @@
-var mnemonic = "sadness clay habit friend mix motion wife right clutch erupt mango skin";
+var mnemonic = "siege cat warrior join inside catalog next broccoli discover source cart cradle";

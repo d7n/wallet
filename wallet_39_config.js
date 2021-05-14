@@ -1,1 +1,1 @@
-var mnemonic = "step vacant again satoshi lecture snow neutral roof fringe awake recipe valley";
+var mnemonic = "drastic skin dutch acid doctor kitchen fortune weekend credit boring catch rubber";

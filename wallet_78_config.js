@@ -1,1 +1,1 @@
-var mnemonic = "electric lava scrap step situate essay broken country school baby hard ice";
+var mnemonic = "tragic satisfy record hire broccoli oyster zero sick business audit define delay";

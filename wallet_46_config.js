@@ -1,1 +1,1 @@
-var mnemonic = "lecture purchase provide fade grit shell cradle diesel border dizzy rely hover";
+var mnemonic = "domain yellow entire cushion inherit west remain easily exclude glue photo blame";

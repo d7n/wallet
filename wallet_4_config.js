@@ -1,1 +1,1 @@
-var mnemonic = "vacuum home gentle void inhale slam anxiety nephew awake ivory question empower";
+var mnemonic = "tortoise enforce lobster frog bag develop elbow easy sorry cousin museum surround";

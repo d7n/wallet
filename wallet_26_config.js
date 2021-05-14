@@ -1,1 +1,1 @@
-var mnemonic = "autumn armor spot almost link tongue fantasy giraffe renew tiger middle ketchup";
+var mnemonic = "story torch lemon cake galaxy lyrics mushroom home know voice immense promote";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut lens custom quick shift trash soldier rare pass crop mountain across";
+var mnemonic = "festival trap notable pink sweet claim august sample cook bottom frown pink";

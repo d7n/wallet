@@ -1,1 +1,1 @@
-var mnemonic = "jewel blade bind approve shed immense tent praise either hammer simple clever";
+var mnemonic = "rocket pave object evidence nut street predict jealous summer category season heart";

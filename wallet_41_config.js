@@ -1,1 +1,1 @@
-var mnemonic = "exotic verify weekend exact episode tattoo blanket vintage cousin clump caution reduce";
+var mnemonic = "gain monkey survey jelly daughter dragon omit try grass half giant during";

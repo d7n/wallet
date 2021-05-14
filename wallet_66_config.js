@@ -1,1 +1,1 @@
-var mnemonic = "own focus family dignity update doll idea pluck fury hover brain film";
+var mnemonic = "limb market night game volume fix dune change noise soul sort shuffle";

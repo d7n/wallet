@@ -1,1 +1,1 @@
-var mnemonic = "student park mimic grunt aspect genius harbor candy mandate credit logic fold";
+var mnemonic = "rival depend season finish claim cancel rice sword vivid aware key velvet";

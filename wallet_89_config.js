@@ -1,1 +1,1 @@
-var mnemonic = "hair cake sail lounge thunder praise depend travel mask evidence crop swing";
+var mnemonic = "cabbage accuse wife black home limb inch soap gym divide picture venture";

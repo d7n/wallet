@@ -1,1 +1,1 @@
-var mnemonic = "cry artefact hedgehog identify main cable cricket glide sell figure legend rate";
+var mnemonic = "vague congress guitar month estate group around axis stage improve panel unique";

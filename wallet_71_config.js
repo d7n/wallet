@@ -1,1 +1,1 @@
-var mnemonic = "rate cabin always peace before wolf practice expose key novel pioneer ring";
+var mnemonic = "fluid miss verify silk fuel bundle bid banana disagree inner hero ship";

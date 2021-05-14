@@ -1,1 +1,1 @@
-var mnemonic = "book stomach master column plate west olympic bright ceiling rack satoshi rich";
+var mnemonic = "reason network unfold source chef coral spatial attract face october vast shuffle";

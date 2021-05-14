@@ -1,1 +1,1 @@
-var mnemonic = "climb leisure impact panther boat window exist bid typical result dust neutral";
+var mnemonic = "surge magic life fetch road brush worry state eager fantasy can tell";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic slice office demand curve wet brain economy famous lottery clinic correct";
+var mnemonic = "own useless correct rigid envelope dizzy armed victory solution senior seminar carpet";

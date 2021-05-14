@@ -1,1 +1,1 @@
-var mnemonic = "dignity act strategy leisure swim farm youth forest help pistol more obey";
+var mnemonic = "nest bridge entire behave item medal under special drum local torch bachelor";

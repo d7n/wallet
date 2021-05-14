@@ -1,1 +1,1 @@
-var mnemonic = "lucky design oyster illness spend click sword inflict flash inner door glass";
+var mnemonic = "exhibit wheat sunset burden camp estate clay merge tool task cabbage valley";

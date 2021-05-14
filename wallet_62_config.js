@@ -1,1 +1,1 @@
-var mnemonic = "lesson wash reward oblige diamond learn aerobic man tourist input balance insane";
+var mnemonic = "fetch region year road outside okay wheel they knife romance giraffe liquid";

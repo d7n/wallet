@@ -1,1 +1,1 @@
-var mnemonic = "patch view away critic sunset bracket theory dinosaur valve tortoise fish battle";
+var mnemonic = "maze retire security mixed broken aerobic reward twenty fancy frame genuine used";

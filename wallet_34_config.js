@@ -1,1 +1,1 @@
-var mnemonic = "eager maximum avoid step hotel jeans episode normal seed hurt suit repeat";
+var mnemonic = "used poet faith six online prison carbon welcome loud corn crack relax";

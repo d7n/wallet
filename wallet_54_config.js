@@ -1,1 +1,1 @@
-var mnemonic = "steel grain olive penalty fold mimic hope occur social undo original knife";
+var mnemonic = "private school draft hip page benefit hedgehog era heart local quality marriage";

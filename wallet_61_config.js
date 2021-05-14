@@ -1,1 +1,1 @@
-var mnemonic = "beach color doll above jaguar wide exist craft loud assist damp off";
+var mnemonic = "scissors rain monkey cycle mammal market assist loop donkey output orphan flip";

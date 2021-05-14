@@ -1,1 +1,1 @@
-var mnemonic = "transfer layer smile online brick one over mesh detect habit elephant valve";
+var mnemonic = "flavor venue summer tide curve crowd siren owner thrive option note soft";

@@ -1,1 +1,1 @@
-var mnemonic = "scare despair fiber fatigue ability approve street split cage word type lobster";
+var mnemonic = "proud decorate speed abandon material direct farm master virus debris donkey identify";

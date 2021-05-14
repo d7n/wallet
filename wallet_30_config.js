@@ -1,1 +1,1 @@
-var mnemonic = "perfect attack amused evolve toast deer december birth bubble shiver trophy equal";
+var mnemonic = "thing album equal swim flip fortune blue dinner spot arrive pulse detail";

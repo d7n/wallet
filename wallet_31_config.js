@@ -1,1 +1,1 @@
-var mnemonic = "leader pledge enact mix hen habit real gallery life catch tone antenna";
+var mnemonic = "celery thumb grocery recycle forest math file swallow tennis solution canyon brand";

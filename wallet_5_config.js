@@ -1,1 +1,1 @@
-var mnemonic = "agent detect once forget evidence century inside weekend bean moment flag cause";
+var mnemonic = "picnic unit cake riot kiss throw doctor first task logic immune license";

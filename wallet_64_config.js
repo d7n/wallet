@@ -1,1 +1,1 @@
-var mnemonic = "situate celery basket tumble recipe shift noodle input season license grass imitate";
+var mnemonic = "burger april hamster push street trick tired lake toss faint say energy";

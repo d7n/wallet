@@ -1,1 +1,1 @@
-var mnemonic = "subject earn love spirit shove bar claim tourist ride then flavor throw";
+var mnemonic = "double chicken seminar abuse spot wrap increase volcano resource hybrid chimney turtle";

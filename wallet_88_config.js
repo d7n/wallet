@@ -1,1 +1,1 @@
-var mnemonic = "setup day popular sick weekend fee universe section oven address super turkey";
+var mnemonic = "banner festival airport violin hospital airport sad gauge loud field armed neck";

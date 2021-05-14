@@ -1,1 +1,1 @@
-var mnemonic = "sick sponsor tomato season upgrade citizen furnace stumble ship stadium hold confirm";
+var mnemonic = "cupboard race blue wrong debate route crowd ship claim enhance fluid bless";

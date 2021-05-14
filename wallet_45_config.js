@@ -1,1 +1,1 @@
-var mnemonic = "dumb holiday neither race veteran proud tribe glass super proud tool syrup";
+var mnemonic = "range butter list double open family acid cigar banner hire cart enhance";

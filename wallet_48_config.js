@@ -1,1 +1,1 @@
-var mnemonic = "grass ethics ready simple inner arrow exist cute length pet broken castle";
+var mnemonic = "swallow try elephant because girl budget plate jaguar engine desert morning ride";

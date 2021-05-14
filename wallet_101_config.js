@@ -1,1 +1,1 @@
-var mnemonic = "crazy addict volume input manual drip job family tobacco draft predict kite";
+var mnemonic = "small crop reject pilot heart say zebra tag chaos river lunar proof";

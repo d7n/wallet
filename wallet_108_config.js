@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo riot more neither board negative warrior reunion price benefit water marriage";
+var mnemonic = "minimum achieve rude burst cube moon cook marriage dynamic title elevator place";

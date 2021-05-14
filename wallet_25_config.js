@@ -1,1 +1,1 @@
-var mnemonic = "grunt author floor evidence exhibit message unlock nut debate budget depth ecology";
+var mnemonic = "hurry glow powder exit thing cloud pig globe umbrella hire reunion begin";

@@ -1,1 +1,1 @@
-var mnemonic = "field suspect dilemma spider boy broccoli conduct wrap despair wife whisper virtual";
+var mnemonic = "slim episode hint mouse process talk axis item clutch junk color mosquito";

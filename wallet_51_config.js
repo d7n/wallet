@@ -1,1 +1,1 @@
-var mnemonic = "beauty wide lemon system donkey sadness athlete sister alter bullet spawn lizard";
+var mnemonic = "subject ready giraffe employ onion ability diamond flush control hand void puppy";

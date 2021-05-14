@@ -1,1 +1,1 @@
-var mnemonic = "mean taste future love wait melody bitter name firm route damage surge";
+var mnemonic = "motor punch cycle walnut regret spin diamond surface ancient attack soul opinion";

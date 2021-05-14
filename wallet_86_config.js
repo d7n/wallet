@@ -1,1 +1,1 @@
-var mnemonic = "fuel fan half juice bamboo bargain answer drive brass web reject tower";
+var mnemonic = "wedding drip reopen what amazing garage elbow buzz sadness brass token sauce";

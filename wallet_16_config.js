@@ -1,1 +1,1 @@
-var mnemonic = "frozen toe maze dial tomorrow genuine night upper ceiling alpha exercise nice";
+var mnemonic = "child core surface great win inside genius impose blush tribe blood list";
