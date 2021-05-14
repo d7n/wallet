@@ -1,1 +1,1 @@
-var mnemonic = "thing autumn drift again fluid tissue ride photo chronic blind neutral uncover";
+var mnemonic = "blur cupboard blue rich purity easily educate emotion pave code moment skirt";

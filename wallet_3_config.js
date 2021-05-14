@@ -1,1 +1,1 @@
-var mnemonic = "myth joy tunnel risk develop doctor fat clock mixed wagon melody reason";
+var mnemonic = "basic symbol debris emotion disagree fitness six smart practice file foam balcony";

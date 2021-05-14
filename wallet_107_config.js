@@ -1,1 +1,1 @@
-var mnemonic = "royal frown boost desert love super tonight scale pig diesel demise lamp";
+var mnemonic = "army food observe reward pitch eyebrow rare valve hundred aerobic work churn";

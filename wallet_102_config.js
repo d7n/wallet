@@ -1,1 +1,1 @@
-var mnemonic = "weapon crunch mimic axis mask gesture auction coach behind budget room spot";
+var mnemonic = "family country drink fruit plug oppose describe ribbon toilet badge income reform";

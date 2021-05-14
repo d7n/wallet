@@ -1,1 +1,1 @@
-var mnemonic = "action general unusual rate voyage simple enhance smart stem banana master clarify";
+var mnemonic = "model clump found strike young peasant camp woman bag reward toast worth";

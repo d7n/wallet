@@ -1,1 +1,1 @@
-var mnemonic = "above notice cheap tragic fall sweet truly merry reject begin urge excite";
+var mnemonic = "discover diagram miracle genius master public board ancient picture honey flower plug";

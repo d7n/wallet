@@ -1,1 +1,1 @@
-var mnemonic = "total enjoy fruit hint hammer piece toast purpose miss insect pulse legal";
+var mnemonic = "pulse slow someone twelve ethics filter bitter recall history cheap canvas wisdom";

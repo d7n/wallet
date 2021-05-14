@@ -1,1 +1,1 @@
-var mnemonic = "rival manual barely differ exile depend vacant old proud hello couple canoe";
+var mnemonic = "mad citizen guide vacuum master image define copy trash huge trouble grace";

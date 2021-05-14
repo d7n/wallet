@@ -1,1 +1,1 @@
-var mnemonic = "slam stadium find magic weather sausage write session teach two hover fade";
+var mnemonic = "virtual ritual large bread must solid depend chat online require giant suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "false weasel multiply diagram glance exercise shuffle picture romance undo lucky maple";
+var mnemonic = "habit message quit option spend dwarf blue box draft flat comfort knock";

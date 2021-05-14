@@ -1,1 +1,1 @@
-var mnemonic = "genuine satisfy across afraid ostrich rib until badge school initial hard clump";
+var mnemonic = "twenty mesh keen hair galaxy decorate surge wasp stand atom draw secret";

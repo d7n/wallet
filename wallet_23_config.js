@@ -1,1 +1,1 @@
-var mnemonic = "rug west mimic ignore same torch broom carpet two soon swamp carbon";
+var mnemonic = "rose inch loud hunt honey clean tobacco over spend merry piano immune";

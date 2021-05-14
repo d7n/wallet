@@ -1,1 +1,1 @@
-var mnemonic = "neglect exile quote attract kite soup fuel arrange thing immune salt lobster";
+var mnemonic = "decline october left knife more often mail fuel olive please lunch merry";

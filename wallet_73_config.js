@@ -1,1 +1,1 @@
-var mnemonic = "hungry leader kingdom immense mango outdoor romance purity hybrid people shallow ahead";
+var mnemonic = "fork enter best message disease whisper bleak prepare eternal clip sunset mechanic";

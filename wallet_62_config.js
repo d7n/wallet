@@ -1,1 +1,1 @@
-var mnemonic = "festival wink huge wire flash code hunt blind strategy side cry merry";
+var mnemonic = "exit friend fiber runway used sea expose blush false yellow fat second";

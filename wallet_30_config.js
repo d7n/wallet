@@ -1,1 +1,1 @@
-var mnemonic = "they domain monitor victory emotion stone catalog guilt rival warm essence sugar";
+var mnemonic = "tree abstract security object record screen rocket mom dizzy pigeon drill load";

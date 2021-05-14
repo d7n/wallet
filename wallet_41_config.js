@@ -1,1 +1,1 @@
-var mnemonic = "pass exchange smoke behind photo stick object bargain excess uncover output deliver";
+var mnemonic = "glove solid future danger finish quantum wife gym used protect corn salon";

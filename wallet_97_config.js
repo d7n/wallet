@@ -1,1 +1,1 @@
-var mnemonic = "act book rice anchor split pluck grace friend antenna security grit best";
+var mnemonic = "suffer eternal duck wood answer border olympic pool angry border million blind";

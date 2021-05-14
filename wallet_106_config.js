@@ -1,1 +1,1 @@
-var mnemonic = "culture atom tribe host dice chair canvas village fossil bamboo sibling like";
+var mnemonic = "ketchup canal focus visa empower enact mad worth walnut awesome industry custom";

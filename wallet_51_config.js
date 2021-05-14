@@ -1,1 +1,1 @@
-var mnemonic = "immune this stomach plunge height wild equip dice find job soon attack";
+var mnemonic = "brief similar awesome educate false traffic property axis local dune wife dentist";

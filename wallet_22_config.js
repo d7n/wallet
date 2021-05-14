@@ -1,1 +1,1 @@
-var mnemonic = "loyal mom foam avocado enhance cushion senior energy zone hood tackle perfect";
+var mnemonic = "step month nuclear laundry upset accuse ceiling iron dog evoke oval kick";

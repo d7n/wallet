@@ -1,1 +1,1 @@
-var mnemonic = "salmon lunch sheriff cry auction sentence rifle position shy patrol world unknown";
+var mnemonic = "hurt vibrant easily step invest cattle employ sleep oxygen brave miss copy";

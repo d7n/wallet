@@ -1,1 +1,1 @@
-var mnemonic = "dad visa tag busy basic evil theme unknown bright twin cradle lucky";
+var mnemonic = "mango pigeon involve cattle anxiety goddess eagle valley sell switch notable reveal";

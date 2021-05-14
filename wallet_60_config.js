@@ -1,1 +1,1 @@
-var mnemonic = "old paddle confirm mail attend jaguar satisfy alarm all battle sunset fashion";
+var mnemonic = "tourist mystery labor acid once pen issue social damage ramp farm crystal";

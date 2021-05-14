@@ -1,1 +1,1 @@
-var mnemonic = "ridge gaze destroy verb easy fee indicate arch entire flavor vendor bench";
+var mnemonic = "poet candy trip dirt topic ring admit solve shrimp raven nothing agree";

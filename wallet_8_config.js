@@ -1,1 +1,1 @@
-var mnemonic = "kiwi senior above black orient pony danger tiger candy glass negative local";
+var mnemonic = "indicate wood step poet focus expose valve marine review convince glow grant";

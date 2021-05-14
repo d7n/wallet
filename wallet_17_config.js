@@ -1,1 +1,1 @@
-var mnemonic = "twin fury insect pond maple catch physical hawk couch energy warrior turtle";
+var mnemonic = "improve exact return winter foot dynamic phone know trash trial defy obey";

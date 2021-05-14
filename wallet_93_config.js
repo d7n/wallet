@@ -1,1 +1,1 @@
-var mnemonic = "lobster guard jazz inherit satisfy carry minor game roast final situate cheese";
+var mnemonic = "shift plastic destroy one pupil table meat rural lazy future timber weather";

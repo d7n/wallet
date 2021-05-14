@@ -1,1 +1,1 @@
-var mnemonic = "brisk enroll hub egg settle vicious remember hip resource suffer maid busy";
+var mnemonic = "pepper talk audit what spatial jazz improve stove hero plate scheme brush";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling caught pride remain key sort drastic bus patch bridge tree misery";
+var mnemonic = "whale retire basket work spell corn okay hybrid silk cook claw evolve";

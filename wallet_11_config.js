@@ -1,1 +1,1 @@
-var mnemonic = "own suggest car hotel author defy employ govern purity profit onion actor";
+var mnemonic = "unlock tired dumb stairs mind notice youth glimpse basic pluck general rescue";

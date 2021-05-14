@@ -1,1 +1,1 @@
-var mnemonic = "beauty upgrade motion poem couple pulse audit cart pyramid mountain miss deliver";
+var mnemonic = "option human pistol canal breeze amount pact boy during now battle two";

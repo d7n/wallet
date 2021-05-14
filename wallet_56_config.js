@@ -1,1 +1,1 @@
-var mnemonic = "eager screen potato repeat style reopen around antenna elite guide obtain between";
+var mnemonic = "enter walnut include plate tower just fix essence develop orchard dice file";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange disorder hamster floor hero echo fitness pledge mixture tribe motion vocal";
+var mnemonic = "journey slight solar cloud lawn village venue fitness balance impulse task story";

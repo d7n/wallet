@@ -1,1 +1,1 @@
-var mnemonic = "fortune sadness noise habit seven immense table debris void unique crucial worth";
+var mnemonic = "mandate coffee man over now antenna elite budget glimpse left blind mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale escape feed frown legend document absurd rabbit imitate clip tray output";
+var mnemonic = "autumn uncle woman present wink dilemma arctic tiny street coyote fiscal quarter";

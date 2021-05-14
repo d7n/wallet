@@ -1,1 +1,1 @@
-var mnemonic = "suggest edit salt employ defy embrace rug congress enemy attack tomato matter";
+var mnemonic = "fog wife recall oyster project initial impact tide because present sick place";

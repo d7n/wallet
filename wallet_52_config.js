@@ -1,1 +1,1 @@
-var mnemonic = "shaft decade mouse spatial brand suit rural rug lunch script stool laugh";
+var mnemonic = "now web basic negative soda similar fossil inherit boring announce latin evolve";

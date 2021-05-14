@@ -1,1 +1,1 @@
-var mnemonic = "talk vendor net nominee horse twelve erupt hurt grow mail account opera";
+var mnemonic = "casino column throw address depart excite hedgehog upper run hole melt provide";

@@ -1,1 +1,1 @@
-var mnemonic = "waste youth shove electric under very unveil like broccoli author surface biology";
+var mnemonic = "toilet leave cupboard excite short tuition day either sister antique online flight";

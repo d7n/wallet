@@ -1,1 +1,1 @@
-var mnemonic = "depth reflect slogan pattern humble add energy inside acid sick enable noble";
+var mnemonic = "hungry you remember police smart impact flush adjust assume glide lucky develop";

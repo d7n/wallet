@@ -1,1 +1,1 @@
-var mnemonic = "survey woman hour stamp child web dust oven bag flag brief coast";
+var mnemonic = "rebel cute spare system action punch behind spoil subway exclude emotion elephant";

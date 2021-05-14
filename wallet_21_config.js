@@ -1,1 +1,1 @@
-var mnemonic = "fury toilet squirrel donate brand olive pulse buyer sleep boat rely note";
+var mnemonic = "baby affair tobacco market empty exit dove mixed treat crawl symptom puzzle";

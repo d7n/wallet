@@ -1,1 +1,1 @@
-var mnemonic = "inch calm tower february witness breeze protect prevent purity certain gas anxiety";
+var mnemonic = "fury grit smooth whip plunge daring awesome scale unfair unable list need";

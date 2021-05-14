@@ -1,1 +1,1 @@
-var mnemonic = "rice major away stadium border vague tissue erode bag ball mouse wire";
+var mnemonic = "target turtle couch envelope seed topple sad young kit bulb track arrive";

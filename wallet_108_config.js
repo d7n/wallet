@@ -1,1 +1,1 @@
-var mnemonic = "since grunt visa reunion exercise bulb junk poem lunch leader prevent pig";
+var mnemonic = "record vanish throw scale build husband glove morning theme garlic manage garage";

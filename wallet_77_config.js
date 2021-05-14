@@ -1,1 +1,1 @@
-var mnemonic = "hybrid act purity million cry march drip inspire flee cabbage tourist tobacco";
+var mnemonic = "knife wool raw very stone high huge unable soul job prosper juice";

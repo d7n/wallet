@@ -1,1 +1,1 @@
-var mnemonic = "buzz useless flavor act plate page judge capable dentist stumble same multiply";
+var mnemonic = "slam dice glide hockey divorce height sand fortune tonight month identify sugar";

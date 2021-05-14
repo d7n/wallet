@@ -1,1 +1,1 @@
-var mnemonic = "egg top frost crouch music hungry orphan cream spray elder length year";
+var mnemonic = "chicken invite echo spare regular melody ignore unusual bamboo chaos wreck phrase";

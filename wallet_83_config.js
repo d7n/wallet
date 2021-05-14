@@ -1,1 +1,1 @@
-var mnemonic = "deal wing census erode square vehicle silk property spell where slam window";
+var mnemonic = "what crop defense mosquito best photo oil toe truly enlist reject resemble";

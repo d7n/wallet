@@ -1,1 +1,1 @@
-var mnemonic = "notable else birth firm logic device size bargain happy swamp music report";
+var mnemonic = "collect obscure veteran paddle pair range inherit news letter giraffe spin sting";

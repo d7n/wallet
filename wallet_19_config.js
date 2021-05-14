@@ -1,1 +1,1 @@
-var mnemonic = "author penalty liberty crumble menu primary stem river quarter shallow wear orient";
+var mnemonic = "shoulder van home cruel gate shaft adjust pigeon goose grow bracket blade";

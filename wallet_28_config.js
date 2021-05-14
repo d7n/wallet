@@ -1,1 +1,1 @@
-var mnemonic = "kind history police seed bargain twist tired game truck gun start bird";
+var mnemonic = "canoe lemon doll accuse wish all hidden present jazz company type whip";

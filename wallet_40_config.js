@@ -1,1 +1,1 @@
-var mnemonic = "evil myth confirm life repeat brand rack scissors fabric diagram appear sting";
+var mnemonic = "brave mom sketch trade burst camera gun claw media near rough endless";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple dawn wave exhibit rude bleak alien sun shadow prevent wasp double";
+var mnemonic = "sniff again volume celery call sound lyrics deal speak bench resist make";

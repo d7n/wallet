@@ -1,1 +1,1 @@
-var mnemonic = "adjust quick donate absorb feature unveil truth shoe great room theme over";
+var mnemonic = "energy narrow slow kidney inform word angry glide unaware yard february shell";

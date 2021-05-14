@@ -1,1 +1,1 @@
-var mnemonic = "awkward expand armor envelope pretty female peanut relief flee nephew exact receive";
+var mnemonic = "engine ask whisper retreat crane under ignore ignore hover pig sibling lobster";

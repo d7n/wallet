@@ -1,1 +1,1 @@
-var mnemonic = "whale inquiry father able invest delay paper stone wage tray outdoor two";
+var mnemonic = "impose wage always jar turkey resemble salmon shock above casual assume opinion";

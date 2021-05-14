@@ -1,1 +1,1 @@
-var mnemonic = "output come quarter eyebrow dry dumb update vacant cool name tiger idea";
+var mnemonic = "library ethics chaos boring anchor owner exhaust circle guilt foam shed found";

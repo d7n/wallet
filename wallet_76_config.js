@@ -1,1 +1,1 @@
-var mnemonic = "frame evidence damp giraffe market nerve army bounce inject until economy educate";
+var mnemonic = "common bleak copy young gym brief crowd usage north forget bicycle lend";

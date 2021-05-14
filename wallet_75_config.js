@@ -1,1 +1,1 @@
-var mnemonic = "abandon nose resist day sting thrive cabbage degree jazz pole bright avoid";
+var mnemonic = "month limb cup earth enough code harvest rabbit luxury common clutch like";

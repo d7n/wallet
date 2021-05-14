@@ -1,1 +1,1 @@
-var mnemonic = "expect faint loyal put evidence trash quit else learn cream naive vague";
+var mnemonic = "school rescue payment brave disagree gentle frozen coil physical final trust image";

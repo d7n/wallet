@@ -1,1 +1,1 @@
-var mnemonic = "immense spike jump insane abuse foil modify fun argue century rural space";
+var mnemonic = "fortune lyrics spike orange spirit mass supply spice have menu calm govern";

@@ -1,1 +1,1 @@
-var mnemonic = "sound flash label tourist artwork tail yard funny paddle toilet empower search";
+var mnemonic = "morning goat maze give science latin actor rare describe spider neck wedding";

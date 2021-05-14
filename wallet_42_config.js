@@ -1,1 +1,1 @@
-var mnemonic = "hair reveal hair nasty box argue tag word decade call kiwi tide";
+var mnemonic = "awake drastic away lizard frown daring knee rubber wish door nasty soon";

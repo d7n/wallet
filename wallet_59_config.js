@@ -1,1 +1,1 @@
-var mnemonic = "typical tiny upper word kite cook puppy model scrap junior solution vessel";
+var mnemonic = "bar nut river scout manage relax above slice hard armed crack skate";

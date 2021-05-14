@@ -1,1 +1,1 @@
-var mnemonic = "lens hockey acquire comfort actor cost image lazy axis glass client square";
+var mnemonic = "world gather still indoor result baby salmon skate screen fox relax joy";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate small make matter casual bachelor grow gown motor calm disorder furnace";
+var mnemonic = "metal junk rabbit ask stereo have energy segment among oblige bring news";

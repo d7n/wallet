@@ -1,1 +1,1 @@
-var mnemonic = "unveil amateur depart trigger robust hawk print blouse fame canvas gate ten";
+var mnemonic = "network mouse alter gym park liar airport divorce analyst scheme flavor object";

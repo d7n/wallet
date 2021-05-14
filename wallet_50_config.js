@@ -1,1 +1,1 @@
-var mnemonic = "awful color scorpion nose doctor bless garlic plug umbrella prize always click";
+var mnemonic = "hobby piano exile meat naive pigeon banana refuse wasp fragile tilt travel";

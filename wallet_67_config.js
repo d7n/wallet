@@ -1,1 +1,1 @@
-var mnemonic = "south nephew entry dune admit uniform palace token thumb lesson heart wear";
+var mnemonic = "rely village velvet royal true slogan scrub soft luggage trumpet enforce fit";

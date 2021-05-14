@@ -1,1 +1,1 @@
-var mnemonic = "friend couple stuff find whisper cannon impulse palace current best math enhance";
+var mnemonic = "ask cat pony enemy camp remain exhaust survey blue basket smoke caught";

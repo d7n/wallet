@@ -1,1 +1,1 @@
-var mnemonic = "bitter arrow prepare metal absurd upset style road manage spoon series cart";
+var mnemonic = "loop illegal crazy renew nest truly depend minor similar use trophy virtual";

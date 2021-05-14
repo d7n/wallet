@@ -1,1 +1,1 @@
-var mnemonic = "soup arrow fish baby about reveal wasp submit artwork morning sausage behind";
+var mnemonic = "program process strike frame trust chicken sleep alter ocean isolate story antenna";

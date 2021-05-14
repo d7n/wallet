@@ -1,1 +1,1 @@
-var mnemonic = "add gift nasty state screen junk muffin stamp enemy fan dilemma emotion";
+var mnemonic = "tackle cement donkey super lizard vehicle verify hospital flee proud slow enact";

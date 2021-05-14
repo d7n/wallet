@@ -1,1 +1,1 @@
-var mnemonic = "struggle rhythm nature ankle old beyond prepare defense hill daughter reject wall";
+var mnemonic = "label pattern minute game eye bean guess obscure twelve roof depth tenant";

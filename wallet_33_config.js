@@ -1,1 +1,1 @@
-var mnemonic = "artefact tiny system fat glance document spy sell piece cattle viable promote";
+var mnemonic = "swap funny gold dry amount taxi lecture orange shield youth arm episode";

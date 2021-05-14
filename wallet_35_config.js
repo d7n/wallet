@@ -1,1 +1,1 @@
-var mnemonic = "curtain hero gap talent pipe fame cousin execute task pen section clown";
+var mnemonic = "rice torch aim coyote inhale sadness sense naive walnut toss sketch safe";

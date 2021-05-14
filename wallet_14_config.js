@@ -1,1 +1,1 @@
-var mnemonic = "museum luggage axis roast firm scene mesh mango replace someone strike slow";
+var mnemonic = "time excite gadget under fault donate subject genre assist quantum depart velvet";

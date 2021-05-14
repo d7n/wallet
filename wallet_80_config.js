@@ -1,1 +1,1 @@
-var mnemonic = "world plug enough digital suffer devote kiss grocery steel orient margin plunge";
+var mnemonic = "scissors fringe argue ignore layer december manual suspect autumn grit drop fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "fade search slab review yard suffer tip wise faith firm nerve pink";
+var mnemonic = "coffee wood tower undo west ocean paper crystal mail engine pluck picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "color airport lady blanket stand erupt film great side tube orange system";
+var mnemonic = "joy kangaroo nut practice know spirit music pyramid parent save phrase simple";

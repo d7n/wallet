@@ -1,1 +1,1 @@
-var mnemonic = "awkward laundry crumble catch retreat pepper final screen neck cushion label movie";
+var mnemonic = "pitch input chuckle food border trip first neither lunch afraid gorilla crush";

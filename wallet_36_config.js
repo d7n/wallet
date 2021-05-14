@@ -1,1 +1,1 @@
-var mnemonic = "edit play elephant typical relax cook often entire dragon dry general vivid";
+var mnemonic = "layer erupt key near volcano mail input cross knock gentle school submit";

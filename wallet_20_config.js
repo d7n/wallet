@@ -1,1 +1,1 @@
-var mnemonic = "empower payment magic engine evoke summer pattern year fatal large pitch diagram";
+var mnemonic = "grocery recipe rural split scene pass borrow actor true cruise roast whale";

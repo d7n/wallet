@@ -1,1 +1,1 @@
-var mnemonic = "future bomb hour arctic luxury provide sibling minute earn idle poverty tell";
+var mnemonic = "useful crowd critic soap jazz half depart rib art filter envelope dwarf";

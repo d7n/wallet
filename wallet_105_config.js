@@ -1,1 +1,1 @@
-var mnemonic = "hamster depart anxiety offer fantasy allow session change enforce mistake shy stool";
+var mnemonic = "boost upper neutral syrup design flock invite salute canal cross guilt initial";

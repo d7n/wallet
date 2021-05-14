@@ -1,1 +1,1 @@
-var mnemonic = "absent off mule about list lady sweet list random pluck lunch bamboo";
+var mnemonic = "figure snack uniform public pottery first review kid shift pitch festival silent";
