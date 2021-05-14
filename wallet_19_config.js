@@ -1,1 +1,1 @@
-var mnemonic = "sound lamp color capable decorate near area very leader duck degree leave";
+var mnemonic = "tonight pepper idea more faculty dynamic winter age indoor inside define pattern";

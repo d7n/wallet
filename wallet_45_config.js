@@ -1,1 +1,1 @@
-var mnemonic = "they column era deny hire frozen ready crane total globe lens roof";
+var mnemonic = "layer pumpkin cliff census rich bamboo method figure father uphold pig provide";

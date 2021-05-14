@@ -1,1 +1,1 @@
-var mnemonic = "history cause penalty indoor act cry desk volcano theme light catch census";
+var mnemonic = "flame sock match basket bring express exhibit inspire junior mountain wall this";

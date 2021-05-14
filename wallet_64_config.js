@@ -1,1 +1,1 @@
-var mnemonic = "vicious gather crunch rookie legal brisk arrow stage kidney pudding cluster flush";
+var mnemonic = "pyramid skin sentence canoe mushroom dash excite indicate arena bunker evil one";

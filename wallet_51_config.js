@@ -1,1 +1,1 @@
-var mnemonic = "assume quote clinic soccer dumb leaf ranch shoot ask real sense kit";
+var mnemonic = "duck clutch beauty zoo labor buffalo finish surround gym tell confirm enemy";

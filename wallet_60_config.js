@@ -1,1 +1,1 @@
-var mnemonic = "soul dilemma coach thumb earn celery mother cheese shaft swap pony blade";
+var mnemonic = "sail carry modify excite middle morning dice acquire aisle illness purchase blood";

@@ -1,1 +1,1 @@
-var mnemonic = "choose shop clarify quote once air gown budget dust away thumb forest";
+var mnemonic = "replace dynamic tray real holiday column steel worth good pear dress entry";

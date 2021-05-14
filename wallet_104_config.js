@@ -1,1 +1,1 @@
-var mnemonic = "dice idle bamboo patrol oblige swarm power laugh dutch danger marriage icon";
+var mnemonic = "goose real fresh skull similar mixture birth glass receive second pulse sleep";

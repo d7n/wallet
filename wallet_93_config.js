@@ -1,1 +1,1 @@
-var mnemonic = "truck pair couch outdoor panel gospel bitter praise panic era again spoil";
+var mnemonic = "maple guide guitar fish exact chalk anxiety table gun suit delay pioneer";

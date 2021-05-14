@@ -1,1 +1,1 @@
-var mnemonic = "six theory basket push patch black unhappy lucky february device fuel sample";
+var mnemonic = "valid wrong trip expose volcano spend smile giggle cabin hurdle urge confirm";

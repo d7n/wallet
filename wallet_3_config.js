@@ -1,1 +1,1 @@
-var mnemonic = "chalk birth ostrich shield rally argue wall art drop push arrest magnet";
+var mnemonic = "myth degree run until someone name solid retire today one manage where";

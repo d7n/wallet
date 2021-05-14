@@ -1,1 +1,1 @@
-var mnemonic = "token fancy recipe trust patch essay silent meadow eight pole bounce doctor";
+var mnemonic = "cart search cover rough click mail subway dune car type hybrid era";

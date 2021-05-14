@@ -1,1 +1,1 @@
-var mnemonic = "ring equal stove atom access subway athlete brave suffer toddler holiday future";
+var mnemonic = "retreat vague hill cage final fire short wife vendor hill whip custom";

@@ -1,1 +1,1 @@
-var mnemonic = "assault trash car state home they carry rescue hurry present legend gadget";
+var mnemonic = "dentist federal sphere beyond way kite bike comic panic leaf fade wave";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon transfer elder noise major almost lend once magic rice able inform";
+var mnemonic = "tip ugly rail heavy wine congress lock ethics neck carry april spatial";

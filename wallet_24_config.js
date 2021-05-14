@@ -1,1 +1,1 @@
-var mnemonic = "wasp act limb old aisle acid okay army order various ritual park";
+var mnemonic = "lock black manage quality slender scatter donate alert tribe eagle safe laugh";

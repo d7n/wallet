@@ -1,1 +1,1 @@
-var mnemonic = "guilt toddler tree album broccoli field island beef lawn frozen tunnel predict";
+var mnemonic = "length toward estate divert left razor meat rally thumb rescue refuse produce";

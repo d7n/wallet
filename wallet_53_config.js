@@ -1,1 +1,1 @@
-var mnemonic = "demise indoor post cheese theory happy that position federal two stamp hollow";
+var mnemonic = "fine punch phrase flock coyote salute rhythm other announce mind milk three";

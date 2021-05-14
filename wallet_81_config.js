@@ -1,1 +1,1 @@
-var mnemonic = "click crisp balcony tree famous beauty invest cabin arrive mechanic phrase fit";
+var mnemonic = "solar sell mystery lesson brass poverty spy unfold casino wet punch purchase";

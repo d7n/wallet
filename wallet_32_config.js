@@ -1,1 +1,1 @@
-var mnemonic = "ivory blood speed promote enhance team allow gaze timber rigid tomorrow liberty";
+var mnemonic = "bounce menu female chaos slam artwork iron alley paper edit leopard hospital";

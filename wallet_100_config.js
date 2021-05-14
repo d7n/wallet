@@ -1,1 +1,1 @@
-var mnemonic = "unable unfold carpet leg math voice purchase walk lyrics fetch maze purity";
+var mnemonic = "various print say cinnamon sketch tape remain mandate chuckle good belt good";

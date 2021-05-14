@@ -1,1 +1,1 @@
-var mnemonic = "quality panic desk father between glare yellow thought seat pole anger wreck";
+var mnemonic = "receive erosion manage supreme net champion vapor easily vehicle hazard install chicken";

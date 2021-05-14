@@ -1,1 +1,1 @@
-var mnemonic = "actress shed grit valid short avocado slim express ugly retreat sense rapid";
+var mnemonic = "broccoli grace you omit siege when extra client fancy cage spin magnet";

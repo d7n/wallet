@@ -1,1 +1,1 @@
-var mnemonic = "clog start safe loud tail page reflect asset bacon boy base coil";
+var mnemonic = "future cart finger rather rescue bus harbor fragile flavor prize oxygen cage";

@@ -1,1 +1,1 @@
-var mnemonic = "iron captain arctic host flag average coral envelope tiger wave waste minute";
+var mnemonic = "giggle wedding upgrade whale assault slush scorpion twin hope flash nasty foot";

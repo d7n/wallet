@@ -1,1 +1,1 @@
-var mnemonic = "knock ocean digital delay ozone between equip disorder increase yard nation crumble";
+var mnemonic = "wrestle opinion cricket blur update media athlete warfare return wool traffic ready";

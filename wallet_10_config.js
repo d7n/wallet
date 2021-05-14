@@ -1,1 +1,1 @@
-var mnemonic = "art scissors glance dinosaur squirrel crystal frost turn metal file clutch bitter";
+var mnemonic = "today female sketch cute leave canal two clap left comfort food feed";

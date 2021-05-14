@@ -1,1 +1,1 @@
-var mnemonic = "worth grid reason museum taste caught market adult object lobster eager damp";
+var mnemonic = "gown desk gesture canoe vague another deal trade segment follow heart ahead";

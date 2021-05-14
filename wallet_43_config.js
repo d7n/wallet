@@ -1,1 +1,1 @@
-var mnemonic = "inherit grain law acid fiber cousin bind pattern fabric include hero soul";
+var mnemonic = "uncover sort zebra peanut analyst replace artist flag usage valid blame lock";

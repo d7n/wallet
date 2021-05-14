@@ -1,1 +1,1 @@
-var mnemonic = "physical equal behind will viable bacon proud drastic student sister pupil result";
+var mnemonic = "famous middle million host forget void snack man move whisper disease cute";

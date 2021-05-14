@@ -1,1 +1,1 @@
-var mnemonic = "outdoor dawn real chief pioneer engage advance liberty design report mutual marriage";
+var mnemonic = "melody pool grape exhaust patrol series athlete fiscal citizen bean alter skull";

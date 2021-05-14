@@ -1,1 +1,1 @@
-var mnemonic = "old quote lecture civil federal brass spring whip palm torch enrich tiger";
+var mnemonic = "belt train select gospel wife cause truly bread lonely hour dress outer";

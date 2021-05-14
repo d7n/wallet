@@ -1,1 +1,1 @@
-var mnemonic = "female rib symptom family leaf dignity pistol require pony artist connect melt";
+var mnemonic = "fragile sentence zero culture tornado goose endless level gate ancient main monitor";

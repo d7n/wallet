@@ -1,1 +1,1 @@
-var mnemonic = "fantasy supply luggage brave blur laptop report man giant early staff another";
+var mnemonic = "squeeze olympic annual artist pond fold iron humor flight acid match fancy";

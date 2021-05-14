@@ -1,1 +1,1 @@
-var mnemonic = "fresh question memory arrive enact dolphin hole verb budget over soft gift";
+var mnemonic = "render remind begin earn escape sword obscure follow forward slam target thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "canal wrong what surprise scrub grass nothing globe boy beach carpet supply";
+var mnemonic = "calm napkin mean saddle deputy merit arch device capable taste crunch drastic";

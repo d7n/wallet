@@ -1,1 +1,1 @@
-var mnemonic = "choice visual mimic doctor report gas dance rate member move possible time";
+var mnemonic = "sure forward impact expose select lion elite horse mobile satisfy various story";

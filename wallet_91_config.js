@@ -1,1 +1,1 @@
-var mnemonic = "casual else cross garbage sense weapon viable news pass final valley object";
+var mnemonic = "receive bring recipe agree pudding engage cousin inject horse pink original soccer";

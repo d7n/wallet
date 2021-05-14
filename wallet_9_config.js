@@ -1,1 +1,1 @@
-var mnemonic = "minimum nice dinner slender marble huge adapt grace exact script load topic";
+var mnemonic = "air comfort swim time aerobic stomach family marine chest derive wink ice";

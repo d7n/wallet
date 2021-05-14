@@ -1,1 +1,1 @@
-var mnemonic = "brain alert monster tribe resource panther ignore quick shift smart toss fold";
+var mnemonic = "ten hybrid turn barrel ready audit uncover undo input scout stumble purity";

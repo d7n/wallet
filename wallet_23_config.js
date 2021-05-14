@@ -1,1 +1,1 @@
-var mnemonic = "february usage attract elbow hawk medal link tail agent gentle display coral";
+var mnemonic = "else cool bundle cause unfair vacuum stadium lake south bulb yellow happy";

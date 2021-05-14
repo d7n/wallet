@@ -1,1 +1,1 @@
-var mnemonic = "super tumble begin clean guard gather chat sugar skirt lend dream cry";
+var mnemonic = "ladder merit world embark lunch please gain envelope eyebrow floor mad mirror";

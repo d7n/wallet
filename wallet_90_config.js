@@ -1,1 +1,1 @@
-var mnemonic = "photo blade sheriff easy allow panda acquire champion tiger polar coil soldier";
+var mnemonic = "fiber tortoise balance panic area large avoid coast curve image harbor usual";

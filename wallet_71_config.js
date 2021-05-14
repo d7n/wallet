@@ -1,1 +1,1 @@
-var mnemonic = "palm chaos fat rescue phone target clump only tiny wise sister express";
+var mnemonic = "spy forward erupt tortoise question distance legal stuff sphere scheme month physical";

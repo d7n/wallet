@@ -1,1 +1,1 @@
-var mnemonic = "frozen recall where relief van merry steel black basic trouble once calm";
+var mnemonic = "sword shield punch vapor practice forget cash main poem equal top student";

@@ -1,1 +1,1 @@
-var mnemonic = "network throw card improve ocean art tunnel ethics shed jeans wheel ripple";
+var mnemonic = "recycle wing verb crime sail pluck history web hollow unhappy enlist human";

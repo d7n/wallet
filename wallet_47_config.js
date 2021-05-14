@@ -1,1 +1,1 @@
-var mnemonic = "huge found stamp volcano rare supply chest olive lava fish alley onion";
+var mnemonic = "wave engage drastic topic ghost file riot nominee sand chaos fault wave";

@@ -1,1 +1,1 @@
-var mnemonic = "someone funny dish voyage fault become exotic vicious slush code comic tower";
+var mnemonic = "holiday general minute pizza school lift wagon emerge home skill hollow menu";

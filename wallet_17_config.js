@@ -1,1 +1,1 @@
-var mnemonic = "violin plastic hire situate domain check return flavor soccer winner shrug scorpion";
+var mnemonic = "stay east ahead people enact group cook text useful round claw struggle";

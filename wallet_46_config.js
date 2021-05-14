@@ -1,1 +1,1 @@
-var mnemonic = "athlete hospital call chef member orient ramp galaxy swamp easily route select";
+var mnemonic = "idea party call suffer belt sea blue goat tool train volcano sphere";

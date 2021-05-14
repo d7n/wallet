@@ -1,1 +1,1 @@
-var mnemonic = "fossil jazz adjust shallow modify ready family section bone payment alone bread";
+var mnemonic = "leader fuel sea alpha diesel spatial dizzy spell thrive alien news sphere";

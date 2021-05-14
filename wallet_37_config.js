@@ -1,1 +1,1 @@
-var mnemonic = "orbit bind goddess rocket knee chuckle art ticket whale ladder sign say";
+var mnemonic = "chunk heart record hair modify letter gossip insect boil select main hazard";

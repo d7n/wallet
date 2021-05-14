@@ -1,1 +1,1 @@
-var mnemonic = "copy spirit number purse chronic roof health victory orphan practice tide art";
+var mnemonic = "swift choose rough illegal region north wave small barely captain comfort result";

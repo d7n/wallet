@@ -1,1 +1,1 @@
-var mnemonic = "violin photo tail link digital book caught sight next toward phone inhale";
+var mnemonic = "rebuild brave alarm maximum general claim into melody dilemma laptop gorilla ketchup";

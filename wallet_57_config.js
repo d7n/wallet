@@ -1,1 +1,1 @@
-var mnemonic = "ahead decline remember cook gallery false trash escape among gather indicate horse";
+var mnemonic = "stay praise exclude atom school bullet ostrich february polar beach cabbage woman";

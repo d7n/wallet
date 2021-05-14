@@ -1,1 +1,1 @@
-var mnemonic = "dirt umbrella zebra learn furnace grab tenant carry size wisdom talent guilt";
+var mnemonic = "ribbon couple chuckle thought belt diary dash sell volume wrap beef dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "sun youth sample join deer swim ridge coil security bleak noble cherry";
+var mnemonic = "obscure hockey whisper vague demise document trial volume candy slam youth oblige";

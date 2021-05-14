@@ -1,1 +1,1 @@
-var mnemonic = "wish aisle viable false future soft amateur slow west patch aspect high";
+var mnemonic = "fall bus vast choice scene notice mimic increase humor illegal village knock";

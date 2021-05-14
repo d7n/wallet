@@ -1,1 +1,1 @@
-var mnemonic = "margin focus vapor address twice royal admit sponsor genre mention alpha immense";
+var mnemonic = "arena sugar crane alien aunt gloom blouse use next convince tattoo bean";

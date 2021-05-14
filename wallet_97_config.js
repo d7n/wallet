@@ -1,1 +1,1 @@
-var mnemonic = "goose document service sketch illegal pistol siren book dumb use survey shoot";
+var mnemonic = "unusual festival name welcome like deny garlic sorry rookie load minute drip";

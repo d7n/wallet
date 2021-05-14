@@ -1,1 +1,1 @@
-var mnemonic = "organ suspect boat universe senior shaft inmate cake manual toss goddess elevator";
+var mnemonic = "donate enlist drastic girl protect mad involve myself scrap perfect scheme violin";

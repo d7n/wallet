@@ -1,1 +1,1 @@
-var mnemonic = "butter cave shop clay oil escape embody wealth accuse chaos course layer";
+var mnemonic = "share secret twelve twelve melt seven blame wolf artist fork modify stock";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent paddle case give hunt expose wire awkward grape gym zero crater";
+var mnemonic = "section bargain midnight mask arrest nominee quarter state drift waste hungry slim";

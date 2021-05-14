@@ -1,1 +1,1 @@
-var mnemonic = "crisp leaf around desert oppose spell liquid oxygen dinosaur brass goat again";
+var mnemonic = "castle unfold tornado mystery muscle when slice cram public blade away clever";

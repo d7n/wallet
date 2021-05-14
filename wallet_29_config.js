@@ -1,1 +1,1 @@
-var mnemonic = "imitate current eagle pyramid civil twelve enough caught sunny wink obtain audit";
+var mnemonic = "switch smart around illness hobby figure primary rhythm sausage deal iron usage";

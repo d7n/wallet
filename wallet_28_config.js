@@ -1,1 +1,1 @@
-var mnemonic = "rice couple already venue leg find fragile entry net believe prepare then";
+var mnemonic = "edge pigeon always roast vacuum chief anxiety waste donkey design analyst vacuum";

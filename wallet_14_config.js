@@ -1,1 +1,1 @@
-var mnemonic = "hunt boil enter lobster mushroom radio alert food borrow behave into clinic";
+var mnemonic = "eagle winter congress bunker erosion rude gadget ahead prepare okay little error";

@@ -1,1 +1,1 @@
-var mnemonic = "forget bundle huge garden round debate divide boat hammer obey aim smile";
+var mnemonic = "round give bacon second vacuum pony style emerge wisdom donkey chronic stage";

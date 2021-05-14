@@ -1,1 +1,1 @@
-var mnemonic = "way post primary blue junk dumb unusual follow police web tooth adjust";
+var mnemonic = "wise venue huge carry pact dress camp worry genre regret shock roof";

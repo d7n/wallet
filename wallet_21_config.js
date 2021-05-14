@@ -1,1 +1,1 @@
-var mnemonic = "theory swear slush purpose march educate between analyst ranch unique motor grain";
+var mnemonic = "skill truly replace oblige tone black source bird enhance cruise trim present";

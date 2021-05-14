@@ -1,1 +1,1 @@
-var mnemonic = "monster quantum isolate stick nominee knee stay bread neither mail cruel review";
+var mnemonic = "client dream distance video broccoli any antenna taste exchange state boss unusual";

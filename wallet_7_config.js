@@ -1,1 +1,1 @@
-var mnemonic = "invest village carry dolphin choice drive plunge net awake box simple photo";
+var mnemonic = "chuckle disorder syrup hub since impose upgrade avocado hour razor minimum box";

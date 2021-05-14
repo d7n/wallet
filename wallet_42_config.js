@@ -1,1 +1,1 @@
-var mnemonic = "puzzle crime mad check remain egg trim grief clock burst digital undo";
+var mnemonic = "online omit cannon hard lake alien maximum real rigid hood raven write";

@@ -1,1 +1,1 @@
-var mnemonic = "debris fluid come talent museum abuse august rapid budget orbit lawn junk";
+var mnemonic = "receive moment there family cousin job enter glance unknown sketch nice sing";

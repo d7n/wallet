@@ -1,1 +1,1 @@
-var mnemonic = "gold wood clog absent donate quality weather tunnel angle kid note merge";
+var mnemonic = "file open cloth major task cricket order erase burger twin museum crash";

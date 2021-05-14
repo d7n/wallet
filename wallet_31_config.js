@@ -1,1 +1,1 @@
-var mnemonic = "garage pen future lyrics veteran unaware bone glue repeat fuel afford hammer";
+var mnemonic = "enemy endorse escape crawl limb jelly glory size caution syrup museum fence";

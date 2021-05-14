@@ -1,1 +1,1 @@
-var mnemonic = "manage vintage found country fox casino market pupil artefact approve vast trick";
+var mnemonic = "exchange duty foot sustain disorder puppy render notice bomb heavy bubble garbage";

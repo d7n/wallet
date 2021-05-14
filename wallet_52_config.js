@@ -1,1 +1,1 @@
-var mnemonic = "desert source envelope embody divorce still try license obtain lunar weekend cinnamon";
+var mnemonic = "mother dose skill arch paper kind push axis wish edge spice slim";

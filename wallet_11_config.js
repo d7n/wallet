@@ -1,1 +1,1 @@
-var mnemonic = "park fluid rule damage place episode seat mechanic speak chat own original";
+var mnemonic = "borrow light stock scrap agree myth ridge raise spend joy orient stairs";

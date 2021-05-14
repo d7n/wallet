@@ -1,1 +1,1 @@
-var mnemonic = "copy junk manage toward grace such execute switch when exchange pond limit";
+var mnemonic = "slogan truth dilemma liquid divorce near rebel spatial cheese busy okay early";

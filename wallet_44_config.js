@@ -1,1 +1,1 @@
-var mnemonic = "series crawl give short tray insane alert box mammal soccer raw major";
+var mnemonic = "found crystal viable fish final impact dish cricket use hospital exact play";

@@ -1,1 +1,1 @@
-var mnemonic = "kite friend almost fantasy manual attract soldier always attend pulp lend more";
+var mnemonic = "right anger night bridge warrior drive omit dynamic increase extra sentence goat";

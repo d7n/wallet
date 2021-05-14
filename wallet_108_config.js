@@ -1,1 +1,1 @@
-var mnemonic = "gun fence poet funny robust kiss today usual arrest melody space uncle";
+var mnemonic = "enjoy resemble rain blouse wrong hunt time mind skill pulp anchor dream";

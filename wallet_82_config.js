@@ -1,1 +1,1 @@
-var mnemonic = "deny slam menu grief mimic edit solar portion teach resource corn dial";
+var mnemonic = "season sketch royal salmon rebuild card bottom town verify fish basket evidence";

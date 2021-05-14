@@ -1,1 +1,1 @@
-var mnemonic = "wolf sample alpha require guilt settle oppose clog hurt crash crunch win";
+var mnemonic = "cupboard mountain oak unit zone reject session comic reveal able alien autumn";

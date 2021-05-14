@@ -1,1 +1,1 @@
-var mnemonic = "search notable spot fiction melody fit follow wave chief loop drill riot";
+var mnemonic = "venture room regular panel apart shoulder one glue engage twelve skirt chest";

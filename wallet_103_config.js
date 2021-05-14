@@ -1,1 +1,1 @@
-var mnemonic = "tip board suggest fresh gas tourist excuse member voyage range morning logic";
+var mnemonic = "lava pumpkin describe bomb tree acid police level merry humor hope reject";

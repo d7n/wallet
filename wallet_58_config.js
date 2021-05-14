@@ -1,1 +1,1 @@
-var mnemonic = "feed enrich crack vacuum art owner battle swift brown opera keen fashion";
+var mnemonic = "sponsor glad amazing purchase public car bachelor castle depth strategy drastic service";

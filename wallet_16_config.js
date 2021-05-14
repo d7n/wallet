@@ -1,1 +1,1 @@
-var mnemonic = "crater craft law dirt tooth misery rival old input share twist pull";
+var mnemonic = "wheel among maze rely pulse paddle secret call consider angle mimic salmon";

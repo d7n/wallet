@@ -1,1 +1,1 @@
-var mnemonic = "mass length trade any home dog vacant public canvas attract salute movie";
+var mnemonic = "behave paddle gather boost vault divert negative duty silver broom rapid large";

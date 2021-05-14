@@ -1,1 +1,1 @@
-var mnemonic = "excite blur throw echo sting nurse razor matrix offer code melt praise";
+var mnemonic = "state chef relief already beef sword retreat breeze okay blood curtain become";

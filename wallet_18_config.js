@@ -1,1 +1,1 @@
-var mnemonic = "capable normal famous soul journey long lecture home make noodle attend razor";
+var mnemonic = "rabbit ensure history illegal correct royal outdoor clip glove turtle property paddle";
