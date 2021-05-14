@@ -1,1 +1,1 @@
-var mnemonic = "raven ramp ship junior salt must buzz album coffee picture confirm spell";
+var mnemonic = "bike curious fence entry property combine steak solve cigar pistol turkey truck";

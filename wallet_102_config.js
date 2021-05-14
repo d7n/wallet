@@ -1,1 +1,1 @@
-var mnemonic = "cabbage fiber parrot plastic alter shoe smile peasant enough become finish salt";
+var mnemonic = "mix potato donate abuse connect student water gym heart typical acquire brass";

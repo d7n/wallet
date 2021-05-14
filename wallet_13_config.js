@@ -1,1 +1,1 @@
-var mnemonic = "clay quality wait female odor brother visit cycle stove void quantum arena";
+var mnemonic = "jeans fat ocean movie grab spare drive record emotion push decrease glory";

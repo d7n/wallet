@@ -1,1 +1,1 @@
-var mnemonic = "flash zero capable marriage actress human destroy finish couch female air left";
+var mnemonic = "wealth syrup hand pottery bulk wedding script rigid few peace alarm setup";

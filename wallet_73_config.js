@@ -1,1 +1,1 @@
-var mnemonic = "claw dad find napkin skill critic diary monster net dose casual gorilla";
+var mnemonic = "cable office present spike copper day nerve earn head hint shaft worry";

@@ -1,1 +1,1 @@
-var mnemonic = "prison initial link claw post crop express moon hungry area gospel comfort";
+var mnemonic = "notable symbol car gown blame pull asset copy health master senior taste";

@@ -1,1 +1,1 @@
-var mnemonic = "wash hour silver dash three coffee output company bullet tobacco black echo";
+var mnemonic = "clutch aspect shadow bargain educate scale sugar cinnamon city chest tornado wool";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid shove brief blouse couch romance slight alert wine south satoshi sentence";
+var mnemonic = "spoon wide glow gain unusual bless error sort afford saddle omit near";

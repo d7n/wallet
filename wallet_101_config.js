@@ -1,1 +1,1 @@
-var mnemonic = "soft degree sweet develop term combine steel receive collect river lava gasp";
+var mnemonic = "deer potato ethics island nut drift build enemy rebel wrestle armor under";

@@ -1,1 +1,1 @@
-var mnemonic = "pet add game chef gesture flee spawn oval exile century upper tragic";
+var mnemonic = "husband super spike misery chicken guess gesture test hedgehog stem apple giraffe";

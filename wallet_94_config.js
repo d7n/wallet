@@ -1,1 +1,1 @@
-var mnemonic = "practice flavor elbow rate execute bachelor peace earn property unit cram flee";
+var mnemonic = "limb settle muscle shift detect remember visual dawn banner trend paper base";

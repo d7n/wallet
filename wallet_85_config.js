@@ -1,1 +1,1 @@
-var mnemonic = "punch pole victory office black indicate innocent pet logic crunch phone thought";
+var mnemonic = "craft venue wire fix spatial enjoy oyster cheap work also guitar lion";

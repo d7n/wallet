@@ -1,1 +1,1 @@
-var mnemonic = "follow win advance buffalo post symbol alley early opera van miracle antique";
+var mnemonic = "stable soldier twelve cry cry health light return lesson diary van illegal";

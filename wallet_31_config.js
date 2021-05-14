@@ -1,1 +1,1 @@
-var mnemonic = "eternal pizza genuine solid way soup tree inch face abandon simple win";
+var mnemonic = "fresh retreat mean west whisper elevator pledge badge put flight dial bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "east reunion treat script occur report post eight hurdle comic wine very";
+var mnemonic = "earn safe below reward fan estate exhibit merit style excite love oval";

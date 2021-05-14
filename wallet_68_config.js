@@ -1,1 +1,1 @@
-var mnemonic = "civil category price humble connect clog rather brush cheese reopen lens health";
+var mnemonic = "belt owner excite ocean fox lake coach exotic law toddler much crash";

@@ -1,1 +1,1 @@
-var mnemonic = "danger bright awesome depth front helmet jeans napkin senior morning equal tide";
+var mnemonic = "session apology cluster grass pond mention person segment busy common elite wife";

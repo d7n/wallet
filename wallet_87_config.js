@@ -1,1 +1,1 @@
-var mnemonic = "search artwork rookie dawn card knock whip post miracle race clerk music";
+var mnemonic = "minute wine caught glass drift medal kitten blood chest afraid borrow program";

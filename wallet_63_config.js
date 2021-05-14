@@ -1,1 +1,1 @@
-var mnemonic = "asset cargo runway fine drastic lock doctor steel door leave airport throw";
+var mnemonic = "update tornado puzzle prize danger despair thunder year shed force usage tourist";

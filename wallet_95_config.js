@@ -1,1 +1,1 @@
-var mnemonic = "donor version price loud erode gasp they screen chapter youth arctic update";
+var mnemonic = "raccoon want puppy labor record bubble skin hammer wonder novel animal brother";

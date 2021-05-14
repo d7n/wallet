@@ -1,1 +1,1 @@
-var mnemonic = "ten cream industry risk vibrant clinic rail achieve primary fame mix room";
+var mnemonic = "air cute pistol devote behind maximum ensure stay useless sweet more brief";

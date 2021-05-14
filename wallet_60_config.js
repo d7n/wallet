@@ -1,1 +1,1 @@
-var mnemonic = "citizen salt orbit deputy spend maximum private hotel neutral else clog useful";
+var mnemonic = "all beauty trick dismiss eager lobster fuel seminar differ polar shy pair";

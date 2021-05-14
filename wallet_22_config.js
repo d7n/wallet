@@ -1,1 +1,1 @@
-var mnemonic = "crane artwork cake review staff metal review globe usual fly rather hungry";
+var mnemonic = "inquiry bring vivid rug wrestle front trial call scare immune excite please";

@@ -1,1 +1,1 @@
-var mnemonic = "subway vehicle day stereo state lady win float monitor rare labor grass";
+var mnemonic = "thunder pumpkin crack gold accuse use uphold bless outside dose diamond mercy";

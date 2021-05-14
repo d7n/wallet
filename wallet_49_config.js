@@ -1,1 +1,1 @@
-var mnemonic = "august toddler chicken join eager close aisle purse pair nuclear hire jelly";
+var mnemonic = "aunt crisp fossil notable siren wage digital clever hero input rough curve";

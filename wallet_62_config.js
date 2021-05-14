@@ -1,1 +1,1 @@
-var mnemonic = "siren song grab until super muffin chaos gravity flag material gadget athlete";
+var mnemonic = "defy moon flower uncover innocent math cupboard push sponsor lesson cross sing";

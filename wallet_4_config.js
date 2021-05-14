@@ -1,1 +1,1 @@
-var mnemonic = "reject wife unfair raven critic ethics occur increase sustain weapon obey hunt";
+var mnemonic = "swallow leg plug ecology cement wild calm enable apart insane want giraffe";

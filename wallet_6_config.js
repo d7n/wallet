@@ -1,1 +1,1 @@
-var mnemonic = "this client rare cat turn amazing pumpkin near snow middle rotate quote";
+var mnemonic = "arena that rather hard oval shift damage gown answer tunnel empty grass";

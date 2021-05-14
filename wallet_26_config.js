@@ -1,1 +1,1 @@
-var mnemonic = "claim mistake install magnet exchange power another virtual better tiger faculty duty";
+var mnemonic = "bubble voice ghost spray eagle damage vault elegant stuff clarify nose crucial";

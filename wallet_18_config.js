@@ -1,1 +1,1 @@
-var mnemonic = "brush catalog announce income ethics cheese jump eternal destroy demise jealous twice";
+var mnemonic = "elephant salmon device suit sadness alarm change language praise wise off street";

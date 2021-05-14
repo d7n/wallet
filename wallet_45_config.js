@@ -1,1 +1,1 @@
-var mnemonic = "pepper balance ceiling hold future stem doctor cancel pill squeeze employ drip";
+var mnemonic = "sauce toddler walk memory shaft absent danger resemble gaze gospel input charge";

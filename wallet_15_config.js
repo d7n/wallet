@@ -1,1 +1,1 @@
-var mnemonic = "spare stereo express comfort divide achieve vote monkey mass flock peasant advance";
+var mnemonic = "error metal second middle trophy drama empty mad jacket draft clerk obey";

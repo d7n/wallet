@@ -1,1 +1,1 @@
-var mnemonic = "flat december film tonight file giant harvest ramp nephew gauge vocal host";
+var mnemonic = "system fringe negative taste canyon mammal okay cheap gorilla wage raise breeze";

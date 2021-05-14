@@ -1,1 +1,1 @@
-var mnemonic = "excess track daughter join fancy alone badge innocent exact sight pencil company";
+var mnemonic = "element rubber denial tape zoo rail curious mail biology height corn limb";

@@ -1,1 +1,1 @@
-var mnemonic = "casual library tag crucial unique scare lecture season deposit evoke cereal disagree";
+var mnemonic = "margin mandate thrive feel choose cloud trap recall hollow guard best identify";

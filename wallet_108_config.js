@@ -1,1 +1,1 @@
-var mnemonic = "skin elite minute short monkey adapt balcony depth blanket pride grain slide";
+var mnemonic = "garage sudden fault hill taxi ridge skin toe pool cup survey slot";

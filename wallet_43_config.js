@@ -1,1 +1,1 @@
-var mnemonic = "planet guard sick treat power ring funny vault sniff conduct nature salad";
+var mnemonic = "spirit sample start mercy genre goose capital loyal carpet hawk length broccoli";

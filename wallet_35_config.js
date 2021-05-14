@@ -1,1 +1,1 @@
-var mnemonic = "indicate duck view spot civil slush void expand muscle vibrant one vague";
+var mnemonic = "river cost hill prosper nut recipe short swamp reason hair load about";

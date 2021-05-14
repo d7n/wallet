@@ -1,1 +1,1 @@
-var mnemonic = "again dismiss pledge exhibit mystery stomach symptom pipe fine cruise path path";
+var mnemonic = "exchange crawl canvas tide soup idle squeeze secret path glide detail dash";

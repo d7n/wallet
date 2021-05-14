@@ -1,1 +1,1 @@
-var mnemonic = "debris clown water attitude duty foster bunker solar true manage gauge can";
+var mnemonic = "easily hybrid pledge security lucky mouse area agree slice lava vanish problem";

@@ -1,1 +1,1 @@
-var mnemonic = "exile quarter primary narrow sleep zoo interest wonder later toward fatigue stem";
+var mnemonic = "leopard blush radio sound advance focus lamp tiger inmate brisk initial diamond";

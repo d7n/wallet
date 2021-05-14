@@ -1,1 +1,1 @@
-var mnemonic = "flower blame moment file error scare below tilt party breeze flavor soon";
+var mnemonic = "suspect online shallow achieve disease among setup squeeze expect napkin receive inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "plug trend exit joke oval visa color rule dragon blue wheel month";
+var mnemonic = "door junk nephew inquiry make teach mistake era resemble emerge cable float";

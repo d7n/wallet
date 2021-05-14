@@ -1,1 +1,1 @@
-var mnemonic = "kiwi broccoli awesome inject true patch stuff off path bike dinosaur retire";
+var mnemonic = "jaguar reflect predict tomato blind clay tiger insect amazing end bean airport";

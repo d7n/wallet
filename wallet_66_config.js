@@ -1,1 +1,1 @@
-var mnemonic = "champion sweet level left pistol orbit race slogan social believe oppose crime";
+var mnemonic = "drive section together breeze come curve engage glare quote tortoise speed hover";

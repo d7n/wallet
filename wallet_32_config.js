@@ -1,1 +1,1 @@
-var mnemonic = "wrestle outside enlist sock duck cable gasp mother else kitchen retreat silent";
+var mnemonic = "change play display section enforce demise become nation infant bean tiger opinion";

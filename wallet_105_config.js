@@ -1,1 +1,1 @@
-var mnemonic = "process hip fame movie warfare tenant excite like token response daughter brave";
+var mnemonic = "nest pilot bunker illness apology economy such stool tape spin chronic all";

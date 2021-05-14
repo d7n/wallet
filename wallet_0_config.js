@@ -1,1 +1,1 @@
-var mnemonic = "ivory ecology accuse jazz ice curious diet addict bind across blouse link";
+var mnemonic = "impact bundle victory frown tongue life nest pen uphold theory infant way";

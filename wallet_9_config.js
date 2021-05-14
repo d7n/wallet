@@ -1,1 +1,1 @@
-var mnemonic = "tuition miss fox village tired burst wide capital wage couch rhythm machine";
+var mnemonic = "memory damage lens gallery skirt indicate faculty push vessel paddle celery column";

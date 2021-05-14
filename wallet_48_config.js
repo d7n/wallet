@@ -1,1 +1,1 @@
-var mnemonic = "someone smoke gather negative much over paddle pupil harvest great flip entry";
+var mnemonic = "document price hat connect slow bamboo puzzle must essence half lens bicycle";

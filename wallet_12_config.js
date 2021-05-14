@@ -1,1 +1,1 @@
-var mnemonic = "meadow reflect raw click mechanic essay green beef buffalo salute need fix";
+var mnemonic = "oil frog solution fever medal warfare vibrant nut priority test proud girl";

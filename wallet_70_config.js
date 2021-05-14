@@ -1,1 +1,1 @@
-var mnemonic = "shallow slam shoe slight erode deposit fantasy banana lazy random analyst castle";
+var mnemonic = "hover anger cannon bean sudden cart melt collect scene old crunch ginger";

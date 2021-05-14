@@ -1,1 +1,1 @@
-var mnemonic = "horror injury list result arrest south casino claw warfare retreat spirit special";
+var mnemonic = "topple calm update globe rich slogan flash abuse relief dutch uphold law";

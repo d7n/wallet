@@ -1,1 +1,1 @@
-var mnemonic = "know lunar fortune loud knock uncover same bean nut lizard next junior";
+var mnemonic = "eagle piano shy uphold end whale acquire super color outside west sail";

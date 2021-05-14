@@ -1,1 +1,1 @@
-var mnemonic = "share cabbage record brown apology uniform weekend churn shell drive artist fatigue";
+var mnemonic = "dinner anxiety lesson wealth narrow maple supply vintage abstract shine swear ripple";

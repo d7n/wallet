@@ -1,1 +1,1 @@
-var mnemonic = "youth witness beauty possible wasp easy lens worth master oven police orphan";
+var mnemonic = "window pigeon coil valve echo permit setup skin agent bounce season jazz";

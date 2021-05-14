@@ -1,1 +1,1 @@
-var mnemonic = "music dish example gift drink general garlic seminar arch twenty spice reform";
+var mnemonic = "pottery music lens south crack crane tunnel place original stumble coin knock";

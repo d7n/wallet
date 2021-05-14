@@ -1,1 +1,1 @@
-var mnemonic = "cause height border toy forget series just fine filter skull globe blue";
+var mnemonic = "system hand subject drop trim replace veteran hurt attract discover gate seat";

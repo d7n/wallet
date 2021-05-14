@@ -1,1 +1,1 @@
-var mnemonic = "behind smooth connect canvas keep piano lift coil civil praise economy fault";
+var mnemonic = "power cactus useless general file muscle trap meat time ghost rely slam";

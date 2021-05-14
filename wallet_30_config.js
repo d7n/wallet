@@ -1,1 +1,1 @@
-var mnemonic = "route champion educate ride blanket tomorrow autumn certain time one armed first";
+var mnemonic = "misery zoo damp exist transfer army enlist eternal apple web coach tunnel";

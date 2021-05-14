@@ -1,1 +1,1 @@
-var mnemonic = "saddle ask success ahead taxi fruit certain segment claw grief lumber twice";
+var mnemonic = "flag man destroy device unlock hub crumble luxury orphan require fiber appear";

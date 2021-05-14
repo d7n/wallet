@@ -1,1 +1,1 @@
-var mnemonic = "bulk emerge cable dilemma father tongue trip foot photo glide gesture verb";
+var mnemonic = "film topple poem exist across blossom slender fresh panic then tag poem";

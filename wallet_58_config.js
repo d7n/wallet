@@ -1,1 +1,1 @@
-var mnemonic = "style cruel midnight rival glue group quarter rival satoshi then you galaxy";
+var mnemonic = "fury obvious fluid indicate extra decrease license social chat any pair question";

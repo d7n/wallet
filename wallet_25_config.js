@@ -1,1 +1,1 @@
-var mnemonic = "silent burger ramp innocent nothing share spoil submit quarter divert bread evolve";
+var mnemonic = "orange inspire cute custom slab play ancient display kitchen parent weather cupboard";

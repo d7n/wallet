@@ -1,1 +1,1 @@
-var mnemonic = "glimpse alter already obtain base settle immune panther grass barely undo route";
+var mnemonic = "remain hidden artist deny finish celery bridge design brother duck rude wife";

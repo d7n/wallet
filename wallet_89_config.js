@@ -1,1 +1,1 @@
-var mnemonic = "spin soon census orphan climb anger soda daring wise foster spatial pumpkin";
+var mnemonic = "news stick enforce buddy sauce great captain citizen museum engage ankle six";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor shaft behave fringe nuclear erode verb fun want stumble dynamic empower";
+var mnemonic = "design bleak cash galaxy space twist giggle glove vault salute dream quiz";

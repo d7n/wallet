@@ -1,1 +1,1 @@
-var mnemonic = "smart oppose giggle cement aunt transfer water lock indicate off chicken empower";
+var mnemonic = "relax tragic wide crisp top exile essence piece wild before original wire";

@@ -1,1 +1,1 @@
-var mnemonic = "person image crash blind spoon tornado parrot believe custom fish crowd quit";
+var mnemonic = "dash dry traffic pitch thought jazz tooth pizza federal unknown girl dutch";

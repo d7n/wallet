@@ -1,1 +1,1 @@
-var mnemonic = "shell satisfy barrel wire vapor panel bonus mesh differ until piece lobster";
+var mnemonic = "excuse satoshi short wait drop utility auto work palace cereal borrow during";

@@ -1,1 +1,1 @@
-var mnemonic = "promote sand sick choice usage pizza unfold rookie net bone clarify upon";
+var mnemonic = "wealth tonight silent holiday boy reflect demise juice reveal eight minor refuse";

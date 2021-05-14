@@ -1,1 +1,1 @@
-var mnemonic = "there neglect anger boss slight dentist visit wisdom orphan elephant process base";
+var mnemonic = "choice place chase order find valid pause rather finger problem chaos omit";

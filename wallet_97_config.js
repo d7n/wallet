@@ -1,1 +1,1 @@
-var mnemonic = "wrap zero thing loop scrap rubber ritual advice gauge enter dynamic cabin";
+var mnemonic = "crush someone average profit palace swallow idea reduce crunch section prison shock";

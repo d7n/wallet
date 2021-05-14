@@ -1,1 +1,1 @@
-var mnemonic = "maple father apart coffee bar napkin mix safe render fox involve cluster";
+var mnemonic = "occur cluster thumb stock edge friend expose merit cry armor napkin loan";

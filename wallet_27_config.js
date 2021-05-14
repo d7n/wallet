@@ -1,1 +1,1 @@
-var mnemonic = "trash maze slow skirt lucky film unfair around sword grow inject foil";
+var mnemonic = "history ripple mind gallery cake scrub animal afraid town abstract sing parrot";

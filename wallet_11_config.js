@@ -1,1 +1,1 @@
-var mnemonic = "fantasy cable settle crazy capital warrior pet agent solar ten east pretty";
+var mnemonic = "post cart update stock relax what camera void amateur success beach offer";

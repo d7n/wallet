@@ -1,1 +1,1 @@
-var mnemonic = "ignore budget wrap limit under magic alert account there treat have torch";
+var mnemonic = "width dog way draft good possible actress tiny assault brass crucial antique";

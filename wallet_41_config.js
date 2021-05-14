@@ -1,1 +1,1 @@
-var mnemonic = "arctic menu pole head fork gain noble stool sunset situate hospital race";
+var mnemonic = "coin jar globe gauge loyal bean any arrange portion surface layer human";

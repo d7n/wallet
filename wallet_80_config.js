@@ -1,1 +1,1 @@
-var mnemonic = "today enjoy comic window birth identify base shed flip toast fun assault";
+var mnemonic = "foam case void metal satisfy frost devote zone bamboo quote ladder stable";

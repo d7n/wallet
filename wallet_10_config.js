@@ -1,1 +1,1 @@
-var mnemonic = "west diet purse post put bind wheat all frequent foil undo boss";
+var mnemonic = "funny salmon capital cheese alcohol merry mix welcome change mail exact sing";

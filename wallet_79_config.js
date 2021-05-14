@@ -1,1 +1,1 @@
-var mnemonic = "dentist cost crop army enemy raise okay strategy void anxiety prefer hint";
+var mnemonic = "sudden hedgehog amateur vacuum uncle nature luggage fury film call attitude manage";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter owner rare risk clip spare toast health call leopard sunny tube";
+var mnemonic = "leaf crunch parrot check fly magic cabin either loop increase supply frequent";

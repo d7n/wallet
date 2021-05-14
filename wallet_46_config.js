@@ -1,1 +1,1 @@
-var mnemonic = "alien chief lend habit annual nerve pizza joy gain home oval volcano";
+var mnemonic = "clay drop enemy promote visual hockey supreme squeeze lawsuit atom latin float";

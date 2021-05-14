@@ -1,1 +1,1 @@
-var mnemonic = "raccoon body shock heavy mango fat chunk armed eyebrow average item hood";
+var mnemonic = "city alone whisper key isolate secret try attract guilt text dust assault";

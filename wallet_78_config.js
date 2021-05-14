@@ -1,1 +1,1 @@
-var mnemonic = "canoe impose direct impose patrol caution giraffe recipe engage worry gospel angry";
+var mnemonic = "smile alpha rubber judge loop also toss pupil any depth prosper female";

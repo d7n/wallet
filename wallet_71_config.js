@@ -1,1 +1,1 @@
-var mnemonic = "size mean safe find lecture hospital swim alcohol napkin load kitchen dance";
+var mnemonic = "bean ranch arena surface amazing bicycle copy ivory boy off deputy dog";

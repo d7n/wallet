@@ -1,1 +1,1 @@
-var mnemonic = "split demand novel enjoy pig swap excuse foster sustain casual mixture orient";
+var mnemonic = "boy allow stomach reunion invite prepare mind win round enable slide believe";

@@ -1,1 +1,1 @@
-var mnemonic = "airport antique define awake baby need gift announce diet surface comic indicate";
+var mnemonic = "quote little oven claim pact fade used visual elevator equal below grid";

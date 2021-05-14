@@ -1,1 +1,1 @@
-var mnemonic = "today steak mix paddle action prosper audit tonight trim there bar suggest";
+var mnemonic = "intact industry eagle inquiry accuse rice cotton forget tape across beyond giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "write nasty exercise visual elephant grief maximum among fever lion dog mother";
+var mnemonic = "major vessel cup endless beach leader rebel kidney happy kangaroo earth stadium";

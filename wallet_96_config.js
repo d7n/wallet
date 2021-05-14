@@ -1,1 +1,1 @@
-var mnemonic = "chalk fossil local witness clay wine equip opinion sister reward phrase jacket";
+var mnemonic = "brick two medal antique explain derive bamboo dash patch lock sauce crawl";

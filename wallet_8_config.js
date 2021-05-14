@@ -1,1 +1,1 @@
-var mnemonic = "hold divide start ranch fiction emerge lock fiction steel together supply cabin";
+var mnemonic = "history pact thought equal alter onion hollow fringe average catch oppose thought";

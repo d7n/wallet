@@ -1,1 +1,1 @@
-var mnemonic = "level inform skull predict gain bike bone firm giant fan robust adjust";
+var mnemonic = "urge screen strategy hungry noodle aunt gather deny frequent couch nasty indicate";

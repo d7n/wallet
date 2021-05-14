@@ -1,1 +1,1 @@
-var mnemonic = "dish entry spray prize happy exotic true annual super soda disagree boat";
+var mnemonic = "member spoon thing fence soldier treat memory squeeze earth turkey hundred one";

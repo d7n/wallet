@@ -1,1 +1,1 @@
-var mnemonic = "clown chat danger divert expose limb trash tumble under error hundred zoo";
+var mnemonic = "canoe era prepare similar knock cost pause soft budget boss release human";
