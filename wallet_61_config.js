@@ -1,1 +1,1 @@
-var mnemonic = "engage possible cave build treat hint spawn wide potato join clean segment";
+var mnemonic = "machine crash chat alpha tide crane churn sleep senior engage random reflect";

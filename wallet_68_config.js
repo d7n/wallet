@@ -1,1 +1,1 @@
-var mnemonic = "click brass point welcome other nothing test canyon congress shrimp phone range";
+var mnemonic = "father tennis early secret jar pottery flee bone business fluid short square";

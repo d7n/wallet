@@ -1,1 +1,1 @@
-var mnemonic = "collect heart rifle large gossip web symbol inch cinnamon grocery eager laugh";
+var mnemonic = "fog swallow unknown crash lunar bridge fuel cousin spike album enrich truly";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest number exotic lounge sound aspect van wash narrow elbow oppose insect";
+var mnemonic = "airport sphere green spread valid current blade wolf build scale vast occur";

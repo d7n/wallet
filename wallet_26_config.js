@@ -1,1 +1,1 @@
-var mnemonic = "milk furnace door wide echo excite business believe into spirit mutual cricket";
+var mnemonic = "nice wide stock history armor tumble exotic core clerk add leader punch";

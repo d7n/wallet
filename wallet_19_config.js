@@ -1,1 +1,1 @@
-var mnemonic = "lazy answer swing mammal police enemy garden kitten manage bean design lake";
+var mnemonic = "shrimp fringe glove nice today prize sheriff ahead join walk silver wealth";

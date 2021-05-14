@@ -1,1 +1,1 @@
-var mnemonic = "have share grace alone anger affair debris custom absurd miracle antenna antique";
+var mnemonic = "drastic target clarify junior snow foot adapt birth salute silk huge again";

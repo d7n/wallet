@@ -1,1 +1,1 @@
-var mnemonic = "drink sustain cradle carbon modify length share review milk excuse raw hood";
+var mnemonic = "relax slogan antenna neglect talk draft noble green quiz side find service";

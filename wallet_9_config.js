@@ -1,1 +1,1 @@
-var mnemonic = "guide surge brain thank survey remain rent pizza ecology benefit tuition spare";
+var mnemonic = "buzz cushion trigger rescue slim direct gorilla grid expand grain recycle border";

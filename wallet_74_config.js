@@ -1,1 +1,1 @@
-var mnemonic = "despair razor can craft high fuel velvet student tone cancel lyrics flight";
+var mnemonic = "fever ten game wide peasant income squirrel cross solar valve suggest gossip";

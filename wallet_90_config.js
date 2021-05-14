@@ -1,1 +1,1 @@
-var mnemonic = "spike bitter ranch steel organ wasp casino tiny renew skull shy twelve";
+var mnemonic = "stove help throw hedgehog happy elbow salad coral erase devote dance biology";

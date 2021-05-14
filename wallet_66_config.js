@@ -1,1 +1,1 @@
-var mnemonic = "unlock obtain desk option dentist cram spoil pulse era wall crunch orange";
+var mnemonic = "cave alcohol bring legal roof demise boy talent large mom inner excuse";

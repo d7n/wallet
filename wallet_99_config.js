@@ -1,1 +1,1 @@
-var mnemonic = "tower marriage gap truck lonely current flip salt sweet open pistol portion";
+var mnemonic = "human west road useful drastic gain hobby broccoli unaware slice excess brain";

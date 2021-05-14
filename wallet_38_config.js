@@ -1,1 +1,1 @@
-var mnemonic = "bunker enough device pumpkin start sentence tank thunder advance reunion blanket immense";
+var mnemonic = "crucial dolphin sister cup they recall auction village weapon canyon aware gloom";

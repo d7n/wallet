@@ -1,1 +1,1 @@
-var mnemonic = "panther pigeon interest coin maid time anxiety emotion noble ready secret embody";
+var mnemonic = "grief boost truck toilet latin rifle harvest cattle merry ribbon addict length";

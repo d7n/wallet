@@ -1,1 +1,1 @@
-var mnemonic = "upon regret neck blush derive middle shove canal zero liquid burden north";
+var mnemonic = "shell story connect peanut weekend kidney cabbage piece hollow neither differ horse";

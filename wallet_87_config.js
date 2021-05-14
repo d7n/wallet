@@ -1,1 +1,1 @@
-var mnemonic = "leisure corn quit wheat sport rail siren century basic library insect trial";
+var mnemonic = "paddle spray space patch rule arrive someone wink dinosaur ten retreat improve";

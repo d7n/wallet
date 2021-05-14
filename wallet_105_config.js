@@ -1,1 +1,1 @@
-var mnemonic = "fly there excuse lucky develop reflect school raw snow quit whale dinosaur";
+var mnemonic = "choice tortoise fuel sphere camera congress april wide either neglect diet wink";

@@ -1,1 +1,1 @@
-var mnemonic = "wise much puzzle hire doctor hawk name direct where play belt direct";
+var mnemonic = "breeze game equip pelican yard piece blame bike bread test unable match";

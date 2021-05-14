@@ -1,1 +1,1 @@
-var mnemonic = "prevent inner arrive flower jeans success apart fluid spatial display filter offer";
+var mnemonic = "oven small next jelly disagree people connect into hair certain car stable";

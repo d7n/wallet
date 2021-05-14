@@ -1,1 +1,1 @@
-var mnemonic = "amateur program exercise double knife nasty bitter exhibit bubble gaze high ripple";
+var mnemonic = "song clutch transfer subway hold fit dune boring hold ladder public flush";

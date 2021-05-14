@@ -1,1 +1,1 @@
-var mnemonic = "version green garbage salt share embark glimpse sorry decide fantasy index tattoo";
+var mnemonic = "submit code always mobile price version symbol attract will decade tower barrel";

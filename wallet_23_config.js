@@ -1,1 +1,1 @@
-var mnemonic = "outer brain person sun season twist add panic behind bulk inspire black";
+var mnemonic = "hip raccoon wrestle wrong poem limb expect spot master someone liar outside";

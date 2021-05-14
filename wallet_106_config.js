@@ -1,1 +1,1 @@
-var mnemonic = "sell inhale actual fuel hood path diagram rude bench flip earn circle";
+var mnemonic = "lab peace rebuild bubble frozen thrive speak nature major legal clown tuition";

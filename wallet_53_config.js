@@ -1,1 +1,1 @@
-var mnemonic = "chat sentence capital name online alien swift marine monitor sibling web suspect";
+var mnemonic = "jacket random alpha flame hard diamond cupboard morning addict gravity genuine orange";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk sniff grit solar zoo fringe spoon illness venue phone above forget";
+var mnemonic = "thrive say axis wealth erosion kidney traffic peace type unlock leaf hotel";

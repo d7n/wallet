@@ -1,1 +1,1 @@
-var mnemonic = "foster swing enlist odor october poverty still disease salt assault cup remain";
+var mnemonic = "scheme candy shift all involve hair spot member salt spell hole trophy";

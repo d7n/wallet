@@ -1,1 +1,1 @@
-var mnemonic = "awkward miss until alpha cash cause mail orchard outdoor east health swamp";
+var mnemonic = "juice crouch expire swap end miss where gap talk eager term picture";

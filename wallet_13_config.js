@@ -1,1 +1,1 @@
-var mnemonic = "cable fiction curious picnic excess author blur abstract pretty mother skin measure";
+var mnemonic = "sport make vault evil visual certain junk fragile seven floor bamboo august";

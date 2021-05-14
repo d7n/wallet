@@ -1,1 +1,1 @@
-var mnemonic = "cancel program vague rate exercise paper fetch pause gorilla soldier want purity";
+var mnemonic = "coffee steak phrase frown name hurry observe plunge seven smile smile devote";

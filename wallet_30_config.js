@@ -1,1 +1,1 @@
-var mnemonic = "sniff notable history father bright enroll dust fence bleak bring plug finish";
+var mnemonic = "cube pudding chalk analyst solid carpet attitude hat phrase pattern window right";

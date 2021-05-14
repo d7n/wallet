@@ -1,1 +1,1 @@
-var mnemonic = "bleak stadium spin liberty damage when vote example rib town loop target";
+var mnemonic = "banana spell wave eye awful story execute journey program employ rate direct";

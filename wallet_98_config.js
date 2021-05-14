@@ -1,1 +1,1 @@
-var mnemonic = "swap luxury half various napkin reveal draft seven crew stool design lock";
+var mnemonic = "notice sword vote course priority false dinosaur oppose drive improve carpet theme";

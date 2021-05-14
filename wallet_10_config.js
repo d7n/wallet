@@ -1,1 +1,1 @@
-var mnemonic = "crawl picture coach glow position pave garbage help exile upon okay found";
+var mnemonic = "broken lottery tragic blood first proud little earth pink average protect drift";

@@ -1,1 +1,1 @@
-var mnemonic = "frown person town height palace equip expand practice enjoy cricket treat dial";
+var mnemonic = "riot hockey scale comfort apart alcohol crash carpet wrong lazy powder wealth";

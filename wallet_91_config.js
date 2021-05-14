@@ -1,1 +1,1 @@
-var mnemonic = "switch humor uncover emotion crazy shove unknown cake empower chest between absurd";
+var mnemonic = "vote reason tilt lonely exact wait noodle resist mixture satoshi odor bargain";

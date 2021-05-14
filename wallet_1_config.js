@@ -1,1 +1,1 @@
-var mnemonic = "hamster century tuna celery bring unhappy luggage adult core payment author search";
+var mnemonic = "mirror hidden discover cup slide outer bone order sleep illegal example kitchen";

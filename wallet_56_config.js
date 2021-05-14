@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow pair cover maze regular sun abstract wasp blush coral source response";
+var mnemonic = "blind assume satisfy bean goat remain draw mimic horn wink steel change";

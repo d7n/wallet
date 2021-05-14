@@ -1,1 +1,1 @@
-var mnemonic = "cat frown universe royal urge frog trap radar panther height mean hood";
+var mnemonic = "smoke fiber divert festival quote logic nasty neutral oven panda bullet zebra";

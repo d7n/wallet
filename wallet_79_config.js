@@ -1,1 +1,1 @@
-var mnemonic = "jump village other raw exile desert then use virtual possible west pudding";
+var mnemonic = "shy tiger green daring team learn scene retreat scrub region keen secret";

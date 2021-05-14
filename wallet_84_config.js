@@ -1,1 +1,1 @@
-var mnemonic = "oil flag bring liar meat must plug pass cute seed timber enter";
+var mnemonic = "rude often erode brand hint discover story oak subway memory lumber hover";

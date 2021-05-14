@@ -1,1 +1,1 @@
-var mnemonic = "pride tackle smooth ready under interest film industry above coil cushion timber";
+var mnemonic = "normal prosper raven boost clerk hint cheap category boss cash security fiber";

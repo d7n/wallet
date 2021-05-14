@@ -1,1 +1,1 @@
-var mnemonic = "explain control voyage rural there firm someone craft place shed lunch demise";
+var mnemonic = "fox stairs story right powder text error spawn crop cherry nasty reject";

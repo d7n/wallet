@@ -1,1 +1,1 @@
-var mnemonic = "aim property fashion reopen violin avoid spice inmate sleep auction oak math";
+var mnemonic = "relief repeat indoor ozone myth ice firm symbol diamond slide inspire define";

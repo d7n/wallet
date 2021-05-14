@@ -1,1 +1,1 @@
-var mnemonic = "celery ivory blame cloud resist brand volcano any about arch injury wise";
+var mnemonic = "black panther canoe cotton list kiwi various start sentence purchase deliver park";

@@ -1,1 +1,1 @@
-var mnemonic = "quick junk lottery give table suit result exhaust human yard this mushroom";
+var mnemonic = "entire release script fancy exhaust arrange model peace victory deer brave nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "process repeat unable charge analyst evidence wealth craft knock gaze solar labor";
+var mnemonic = "material adult logic jeans alcohol cake bundle return place desk maximum script";

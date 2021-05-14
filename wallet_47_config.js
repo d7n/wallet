@@ -1,1 +1,1 @@
-var mnemonic = "problem winter feature dentist click divide math test crumble yellow awake borrow";
+var mnemonic = "memory pencil pretty flower dial oil slim crazy sing employ tip issue";

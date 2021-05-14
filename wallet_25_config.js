@@ -1,1 +1,1 @@
-var mnemonic = "enforce material prison across wagon risk street leaf sign evoke total office";
+var mnemonic = "inform cycle afford brick core dance follow grit pupil yard load general";

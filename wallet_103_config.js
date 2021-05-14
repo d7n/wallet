@@ -1,1 +1,1 @@
-var mnemonic = "lava catch youth that lens casual stamp tennis neck easy pulp purchase";
+var mnemonic = "rare fiscal save palm curtain blood total access motion advance mistake rhythm";

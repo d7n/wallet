@@ -1,1 +1,1 @@
-var mnemonic = "reopen catch extend right year vendor actor dynamic reward firm open nut";
+var mnemonic = "ginger course soldier veteran minimum story often lion side action obscure key";

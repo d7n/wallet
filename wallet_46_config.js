@@ -1,1 +1,1 @@
-var mnemonic = "shrimp sting unhappy zebra glide sudden wine damp bus crime advice purity";
+var mnemonic = "ghost plug glue develop display bird rail cotton unusual cause service combine";

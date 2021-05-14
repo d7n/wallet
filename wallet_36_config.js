@@ -1,1 +1,1 @@
-var mnemonic = "walk club sustain pilot green episode broccoli curious yellow urge jelly scene";
+var mnemonic = "raise library skate reduce thrive inside hotel cruel luggage nut delay great";

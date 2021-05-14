@@ -1,1 +1,1 @@
-var mnemonic = "essence rule evoke skin kingdom since uniform first spell spin sure seven";
+var mnemonic = "adjust embrace silver together mutual helmet offer input tobacco rhythm exhaust doctor";

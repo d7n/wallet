@@ -1,1 +1,1 @@
-var mnemonic = "nominee silent glory ceiling rude digital move garage paper cake tiny debris";
+var mnemonic = "save churn energy chief near diagram screen blossom anchor roast news hope";

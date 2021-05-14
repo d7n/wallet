@@ -1,1 +1,1 @@
-var mnemonic = "motor onion thunder fatal call caution tag bird frame famous since minor";
+var mnemonic = "antique south among ankle include frown frame wagon define dust world chest";

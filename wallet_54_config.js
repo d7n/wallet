@@ -1,1 +1,1 @@
-var mnemonic = "network cinnamon alley biology real skull equal benefit slender limb impulse false";
+var mnemonic = "title three absent carbon connect ten ankle rose cube fatal language trick";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna seat slide control develop erode section example diagram wife umbrella crew";
+var mnemonic = "hedgehog comic cool wait tenant voice lens gain grid cheap eight vehicle";

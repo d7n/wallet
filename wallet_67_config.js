@@ -1,1 +1,1 @@
-var mnemonic = "follow slender decorate sing vacuum certain tattoo stamp language frown grow suggest";
+var mnemonic = "talk box stone donkey misery nature space motor inner crowd tell athlete";

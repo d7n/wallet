@@ -1,1 +1,1 @@
-var mnemonic = "cry behave chimney enhance elbow stumble mammal start glad walk color smart";
+var mnemonic = "bomb rack acid fault hobby display toss future ugly recycle want little";

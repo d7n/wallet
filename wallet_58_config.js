@@ -1,1 +1,1 @@
-var mnemonic = "jungle become twist engage layer shoot smooth spike resist domain helmet tennis";
+var mnemonic = "pear disease decline bread combine present ill vital ostrich dilemma destroy similar";

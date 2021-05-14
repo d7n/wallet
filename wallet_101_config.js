@@ -1,1 +1,1 @@
-var mnemonic = "ramp crystal junior impulse inform funny cinnamon soup twice search dream erode";
+var mnemonic = "ring day cream quarter category naive gather follow regular sample proof magic";

@@ -1,1 +1,1 @@
-var mnemonic = "guide reveal business gossip tide have suit humble chuckle news apart yellow";
+var mnemonic = "scan dune camp radar obey lesson lonely camera sugar shop multiply stand";

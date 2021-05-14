@@ -1,1 +1,1 @@
-var mnemonic = "say minimum kid author news any pair venture blur grit retreat remove";
+var mnemonic = "circle convince language display bench blue birth illegal sausage timber couple amount";

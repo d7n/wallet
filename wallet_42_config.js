@@ -1,1 +1,1 @@
-var mnemonic = "attack gold onion action juice key ceiling current negative home squirrel unveil";
+var mnemonic = "patrol yard current cupboard bacon casino bargain squirrel ill joke funny vocal";

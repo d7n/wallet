@@ -1,1 +1,1 @@
-var mnemonic = "next owner fancy artist hand acquire decline grit health need old uphold";
+var mnemonic = "clinic crater sun file solar spare slam soldier fabric nurse world express";

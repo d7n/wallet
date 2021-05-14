@@ -1,1 +1,1 @@
-var mnemonic = "area wing hammer ring stable grab adult capable shy galaxy woman error";
+var mnemonic = "such service popular runway salon catch baby stem diamond pretty liar boy";

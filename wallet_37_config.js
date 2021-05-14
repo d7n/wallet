@@ -1,1 +1,1 @@
-var mnemonic = "drip tag box obscure assume imitate alien tool man eager truly doctor";
+var mnemonic = "expect boss favorite motion age laptop pony limb erosion member job lava";

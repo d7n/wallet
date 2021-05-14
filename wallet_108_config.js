@@ -1,1 +1,1 @@
-var mnemonic = "winner pencil remind syrup bird staff tissue recipe isolate life canvas tortoise";
+var mnemonic = "pudding disorder swap green equal force body donate strategy outdoor stadium buffalo";

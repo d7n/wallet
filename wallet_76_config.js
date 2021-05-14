@@ -1,1 +1,1 @@
-var mnemonic = "crush author intact mass enter choice romance trophy tank mom ritual age";
+var mnemonic = "devote lizard thunder proud neck dawn crane winner trend danger smoke toss";

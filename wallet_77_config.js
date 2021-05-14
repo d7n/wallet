@@ -1,1 +1,1 @@
-var mnemonic = "orphan rule vacuum small reduce sweet proud art marriage rack pilot mechanic";
+var mnemonic = "boss strike chief cinnamon urban obvious where program trust clinic cloud teach";

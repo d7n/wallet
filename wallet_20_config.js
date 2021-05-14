@@ -1,1 +1,1 @@
-var mnemonic = "uphold style acquire little chair useless hour adapt roof layer address stuff";
+var mnemonic = "conduct open guilt cattle author very tree quick curve goose fly find";

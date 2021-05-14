@@ -1,1 +1,1 @@
-var mnemonic = "east panther glow company inside nose unknown tag stay bachelor stable barrel";
+var mnemonic = "three legal slow caught initial blame exile cruel engine bind clown grow";

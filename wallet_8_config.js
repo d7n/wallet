@@ -1,1 +1,1 @@
-var mnemonic = "journey weekend spatial region aisle trip couch right clean flame dash romance";
+var mnemonic = "bounce perfect glance snow lend giraffe gold tell okay boring come burden";

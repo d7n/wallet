@@ -1,1 +1,1 @@
-var mnemonic = "canoe news mixed surprise hair luggage fun census record bus expose sight";
+var mnemonic = "inject report symptom hub more mandate boil tag electric evidence energy olive";

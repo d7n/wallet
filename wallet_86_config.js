@@ -1,1 +1,1 @@
-var mnemonic = "mention speak track axis obscure robot rare such stand blast absurd pretty";
+var mnemonic = "main stereo exotic camera claw bounce kidney enable fringe couch desert staff";

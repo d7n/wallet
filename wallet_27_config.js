@@ -1,1 +1,1 @@
-var mnemonic = "volume another lady fatigue notable spoon second fiber earn bronze target indoor";
+var mnemonic = "artwork horse force age wet toddler stable east summer donor venture cigar";

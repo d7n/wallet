@@ -1,1 +1,1 @@
-var mnemonic = "rapid recall buddy sense decide empower steak response actor fold circle ugly";
+var mnemonic = "unlock phrase cool vital weekend confirm harvest weekend sun drift whale border";

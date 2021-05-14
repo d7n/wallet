@@ -1,1 +1,1 @@
-var mnemonic = "flip learn maple acid perfect trade giant float pudding zebra zero brain";
+var mnemonic = "bounce wonder chair busy day trade grant snap champion method actress frame";

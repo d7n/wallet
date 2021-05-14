@@ -1,1 +1,1 @@
-var mnemonic = "word runway mimic garden ranch screen panda frog energy chase cancel fish";
+var mnemonic = "neutral genius list wrap immune ignore ribbon problem gossip damage cinnamon kid";

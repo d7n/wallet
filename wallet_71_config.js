@@ -1,1 +1,1 @@
-var mnemonic = "stock street autumn dish affair smooth outer genius kick sausage evoke forward";
+var mnemonic = "spoon smoke hurt section tuna genuine script clap dress display blanket work";

@@ -1,1 +1,1 @@
-var mnemonic = "behave shrug mandate quantum size choose unfair impose price drill humor section";
+var mnemonic = "raccoon stereo note enjoy organ giggle gorilla fruit spider job school giraffe";

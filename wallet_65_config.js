@@ -1,1 +1,1 @@
-var mnemonic = "wedding armor disagree help disagree material blood divide auction benefit artwork spy";
+var mnemonic = "home second seed umbrella much draw choose hen group tower race flat";

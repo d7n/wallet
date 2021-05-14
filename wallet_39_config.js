@@ -1,1 +1,1 @@
-var mnemonic = "organ bright game cruel blind orchard ski chest apple great list mother";
+var mnemonic = "truck resist alley museum lend swim cart fade nasty cycle false memory";

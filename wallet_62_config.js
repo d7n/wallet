@@ -1,1 +1,1 @@
-var mnemonic = "tide prosper feel movie scrub super good isolate inquiry loud fly entire";
+var mnemonic = "base guitar express tuna dismiss cannon catalog garden frown cover globe squeeze";

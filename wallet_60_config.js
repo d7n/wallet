@@ -1,1 +1,1 @@
-var mnemonic = "plunge paddle unit zebra thumb distance rotate van cinnamon ski defense blanket";
+var mnemonic = "pelican road vast parade glimpse stock three anxiety humble note prevent barely";

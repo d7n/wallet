@@ -1,1 +1,1 @@
-var mnemonic = "tragic around obey know error wine shy pluck lumber diesel lecture review";
+var mnemonic = "fold jewel deliver split lottery bounce immense echo fat notice steel two";

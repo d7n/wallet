@@ -1,1 +1,1 @@
-var mnemonic = "layer car drift machine diary claw act acquire quality brass similar welcome";
+var mnemonic = "logic wife correct video network edge vibrant stem able punch nose ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "submit prefer kingdom early relax mother boss act notice anxiety image twenty";
+var mnemonic = "carbon consider limit gather bright enforce wine token quit such output custom";

@@ -1,1 +1,1 @@
-var mnemonic = "private evoke army push fat kid shoot you emerge avoid decorate repair";
+var mnemonic = "road ocean equip copy human pond eager envelope entire key harsh trap";

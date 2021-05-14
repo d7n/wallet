@@ -1,1 +1,1 @@
-var mnemonic = "flight lady subway genius tank sugar receive ladder ghost way core fog";
+var mnemonic = "gravity equip divorce robot feel train spirit goddess good chronic banana puzzle";
