@@ -1,1 +1,1 @@
-var mnemonic = "school rescue payment brave disagree gentle frozen coil physical final trust image";
+var mnemonic = "woman media risk walk chunk biology claw defy tool unfold live popular";

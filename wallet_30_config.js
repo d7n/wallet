@@ -1,1 +1,1 @@
-var mnemonic = "tree abstract security object record screen rocket mom dizzy pigeon drill load";
+var mnemonic = "pause addict eternal year tissue lecture twin below guard waste blood major";

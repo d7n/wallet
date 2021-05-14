@@ -1,1 +1,1 @@
-var mnemonic = "what crop defense mosquito best photo oil toe truly enlist reject resemble";
+var mnemonic = "rival turn void narrow genre glad sunny chapter tank target total conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel cute spare system action punch behind spoil subway exclude emotion elephant";
+var mnemonic = "focus coach credit donor limb confirm simple primary orchard hen move cradle";

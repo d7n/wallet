@@ -1,1 +1,1 @@
-var mnemonic = "discover diagram miracle genius master public board ancient picture honey flower plug";
+var mnemonic = "acquire manage vital pudding rely tiger afraid mansion laugh kitchen catalog wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "metal junk rabbit ask stereo have energy segment among oblige bring news";
+var mnemonic = "witness fringe slot include fiction infant curious purity play gloom useless net";

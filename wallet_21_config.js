@@ -1,1 +1,1 @@
-var mnemonic = "baby affair tobacco market empty exit dove mixed treat crawl symptom puzzle";
+var mnemonic = "jealous unaware copper garage over twice leg interest weather order piano fee";

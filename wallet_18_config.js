@@ -1,1 +1,1 @@
-var mnemonic = "hurt vibrant easily step invest cattle employ sleep oxygen brave miss copy";
+var mnemonic = "seminar minimum laundry inherit shed banner verify genius shrimp trash hair puppy";

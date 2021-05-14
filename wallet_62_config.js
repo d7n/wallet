@@ -1,1 +1,1 @@
-var mnemonic = "exit friend fiber runway used sea expose blush false yellow fat second";
+var mnemonic = "scrub decrease place blue whisper wreck still inch hungry panel image check";

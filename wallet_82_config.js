@@ -1,1 +1,1 @@
-var mnemonic = "warrior essence opera degree elder wheat boil gesture lunch prepare coast model";
+var mnemonic = "brick follow first oven unable dance balcony enroll police chaos expire rug";

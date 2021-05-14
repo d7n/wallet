@@ -1,1 +1,1 @@
-var mnemonic = "shoulder van home cruel gate shaft adjust pigeon goose grow bracket blade";
+var mnemonic = "rent odor simple theme merit shoe crop gather foam submit cabin eager";

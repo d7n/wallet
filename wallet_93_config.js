@@ -1,1 +1,1 @@
-var mnemonic = "shift plastic destroy one pupil table meat rural lazy future timber weather";
+var mnemonic = "above lake winter elegant bike note all round lion perfect tilt prepare";

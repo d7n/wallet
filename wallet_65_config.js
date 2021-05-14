@@ -1,1 +1,1 @@
-var mnemonic = "morning goat maze give science latin actor rare describe spider neck wedding";
+var mnemonic = "brain can become sunset castle left tonight path grain embody moment useless";

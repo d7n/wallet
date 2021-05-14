@@ -1,1 +1,1 @@
-var mnemonic = "common bleak copy young gym brief crowd usage north forget bicycle lend";
+var mnemonic = "attend swear problem step gate glue picnic crush insect stay year planet";

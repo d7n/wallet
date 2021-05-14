@@ -1,1 +1,1 @@
-var mnemonic = "crazy word illness pattern school tail panel south where stadium menu viable";
+var mnemonic = "hand art thumb capital panda kite diary wing metal already move seed";

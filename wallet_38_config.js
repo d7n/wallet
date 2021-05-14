@@ -1,1 +1,1 @@
-var mnemonic = "dice real bench bubble sustain put embody portion post news capable jealous";
+var mnemonic = "firm afford glimpse desk celery reward rapid gate cargo skate salt expire";

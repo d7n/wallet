@@ -1,1 +1,1 @@
-var mnemonic = "scissors fringe argue ignore layer december manual suspect autumn grit drop fresh";
+var mnemonic = "tackle rescue liberty plug predict already note share napkin endless toy clock";

@@ -1,1 +1,1 @@
-var mnemonic = "now web basic negative soda similar fossil inherit boring announce latin evolve";
+var mnemonic = "pledge patient market rotate father panic cream old prevent great survey rural";

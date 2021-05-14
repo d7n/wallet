@@ -1,1 +1,1 @@
-var mnemonic = "bar nut river scout manage relax above slice hard armed crack skate";
+var mnemonic = "tank pride evil artwork ticket pretty club pink dust thought rain again";

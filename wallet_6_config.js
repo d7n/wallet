@@ -1,1 +1,1 @@
-var mnemonic = "allow guilt couch surface bird turn math shiver trial vast rule slice";
+var mnemonic = "wrestle collect knife correct shove total turtle detail fiction joke company south";

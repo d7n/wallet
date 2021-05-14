@@ -1,1 +1,1 @@
-var mnemonic = "clinic pattern squeeze health cycle carry sight loop mirror style bright lawsuit";
+var mnemonic = "blossom neither match breeze wall monitor mystery above dog taxi behind congress";

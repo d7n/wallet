@@ -1,1 +1,1 @@
-var mnemonic = "ask cat pony enemy camp remain exhaust survey blue basket smoke caught";
+var mnemonic = "swarm evidence noise crunch tent pottery wreck glare rose flat stay arrest";

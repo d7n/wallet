@@ -1,1 +1,1 @@
-var mnemonic = "casino column throw address depart excite hedgehog upper run hole melt provide";
+var mnemonic = "sick embrace wife armor vacuum govern sure search security drama brain capital";

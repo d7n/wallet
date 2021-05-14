@@ -1,1 +1,1 @@
-var mnemonic = "model clump found strike young peasant camp woman bag reward toast worth";
+var mnemonic = "nominee obtain improve patch emotion kingdom curious anger hero prize nose twice";

@@ -1,1 +1,1 @@
-var mnemonic = "army food observe reward pitch eyebrow rare valve hundred aerobic work churn";
+var mnemonic = "woman throw menu slender recall muscle this hamster ignore border sweet flat";

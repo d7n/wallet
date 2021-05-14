@@ -1,1 +1,1 @@
-var mnemonic = "family country drink fruit plug oppose describe ribbon toilet badge income reform";
+var mnemonic = "depth trust song screen across corn orchard festival chimney frequent purity pair";

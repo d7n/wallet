@@ -1,1 +1,1 @@
-var mnemonic = "improve exact return winter foot dynamic phone know trash trial defy obey";
+var mnemonic = "display canyon habit idle flee erode eternal excess hurt buyer sunset catalog";

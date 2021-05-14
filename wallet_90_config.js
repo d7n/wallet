@@ -1,1 +1,1 @@
-var mnemonic = "slam dice glide hockey divorce height sand fortune tonight month identify sugar";
+var mnemonic = "help jump meadow resist brother frost recall riot hand gauge glimpse into";

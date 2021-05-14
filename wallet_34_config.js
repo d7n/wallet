@@ -1,1 +1,1 @@
-var mnemonic = "collect obscure veteran paddle pair range inherit news letter giraffe spin sting";
+var mnemonic = "toss shadow budget fat icon umbrella height forget empower step shield wheat";

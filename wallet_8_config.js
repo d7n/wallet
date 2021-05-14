@@ -1,1 +1,1 @@
-var mnemonic = "indicate wood step poet focus expose valve marine review convince glow grant";
+var mnemonic = "census vibrant before divorce embody soup stay hundred warfare lava cover leader";

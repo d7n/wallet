@@ -1,1 +1,1 @@
-var mnemonic = "virtual ritual large bread must solid depend chat online require giant suggest";
+var mnemonic = "unfair hotel chicken post melody online category file dog can skate shield";

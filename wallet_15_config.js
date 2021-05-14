@@ -1,1 +1,1 @@
-var mnemonic = "network mouse alter gym park liar airport divorce analyst scheme flavor object";
+var mnemonic = "owner ozone napkin room material runway switch oven jump mad market urban";

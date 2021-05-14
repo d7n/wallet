@@ -1,1 +1,1 @@
-var mnemonic = "target turtle couch envelope seed topple sad young kit bulb track arrive";
+var mnemonic = "piece pioneer glow nominee cat horse indicate ranch true rhythm book tunnel";

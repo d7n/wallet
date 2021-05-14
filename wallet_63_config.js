@@ -1,1 +1,1 @@
-var mnemonic = "decline october left knife more often mail fuel olive please lunch merry";
+var mnemonic = "common able crew furnace fan stove summer tiger useful fetch core advice";

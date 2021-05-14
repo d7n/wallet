@@ -1,1 +1,1 @@
-var mnemonic = "awake drastic away lizard frown daring knee rubber wish door nasty soon";
+var mnemonic = "tool apology earth dog bronze orphan cruise shoe kiwi fiber gather length";

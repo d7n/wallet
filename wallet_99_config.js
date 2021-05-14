@@ -1,1 +1,1 @@
-var mnemonic = "danger nest alone soft reason nice head route panda degree evoke wheat";
+var mnemonic = "pencil bargain neutral cry fetch firm toss toy slide dish erode key";

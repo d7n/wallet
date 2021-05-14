@@ -1,1 +1,1 @@
-var mnemonic = "habit message quit option spend dwarf blue box draft flat comfort knock";
+var mnemonic = "hammer talent column collect budget brief robust light isolate still medal offer";

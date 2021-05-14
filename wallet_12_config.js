@@ -1,1 +1,1 @@
-var mnemonic = "world gather still indoor result baby salmon skate screen fox relax joy";
+var mnemonic = "minor flock donate fluid menu mountain canoe slot song truck sustain tomorrow";

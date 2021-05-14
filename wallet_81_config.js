@@ -1,1 +1,1 @@
-var mnemonic = "expose town claw prison give student shine stand salt material diesel rib";
+var mnemonic = "crouch first dumb nose burst refuse latin artefact honey hour sign normal";

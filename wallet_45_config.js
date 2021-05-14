@@ -1,1 +1,1 @@
-var mnemonic = "engine ask whisper retreat crane under ignore ignore hover pig sibling lobster";
+var mnemonic = "lizard roof bridge race ship hollow stereo treat invite edit acoustic step";

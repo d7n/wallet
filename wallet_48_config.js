@@ -1,1 +1,1 @@
-var mnemonic = "journey slight solar cloud lawn village venue fitness balance impulse task story";
+var mnemonic = "banner midnight voice pretty giraffe skill issue cherry crash biology flame coin";

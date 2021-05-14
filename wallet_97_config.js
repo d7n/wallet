@@ -1,1 +1,1 @@
-var mnemonic = "suffer eternal duck wood answer border olympic pool angry border million blind";
+var mnemonic = "toward onion spray sketch income cute cattle cycle lion flight couch blouse";

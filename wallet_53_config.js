@@ -1,1 +1,1 @@
-var mnemonic = "pitch input chuckle food border trip first neither lunch afraid gorilla crush";
+var mnemonic = "olive fever essence meat access position language heart toddler negative pass wall";

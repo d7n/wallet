@@ -1,1 +1,1 @@
-var mnemonic = "canoe lemon doll accuse wish all hidden present jazz company type whip";
+var mnemonic = "hello fluid parade ancient monster lumber any client able enemy loyal lobster";

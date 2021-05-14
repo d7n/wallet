@@ -1,1 +1,1 @@
-var mnemonic = "useful crowd critic soap jazz half depart rib art filter envelope dwarf";
+var mnemonic = "clutch wage dish lawn expire alcohol air excess scrap follow egg ignore";

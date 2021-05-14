@@ -1,1 +1,1 @@
-var mnemonic = "fury grit smooth whip plunge daring awesome scale unfair unable list need";
+var mnemonic = "blush surge reason correct mystery buffalo fold initial giggle drama dune name";

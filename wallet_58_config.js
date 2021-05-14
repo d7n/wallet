@@ -1,1 +1,1 @@
-var mnemonic = "loop illegal crazy renew nest truly depend minor similar use trophy virtual";
+var mnemonic = "occur wheel fabric arrange nation smile evolve exist bubble fresh furnace scan";

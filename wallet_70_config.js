@@ -1,1 +1,1 @@
-var mnemonic = "sure explain point beauty acid foot bid neutral pencil stock novel success";
+var mnemonic = "dune market fatal organ lens maximum athlete hurt setup addict grow artefact";

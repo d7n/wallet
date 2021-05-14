@@ -1,1 +1,1 @@
-var mnemonic = "option human pistol canal breeze amount pact boy during now battle two";
+var mnemonic = "below column position tornado black sentence sunset relax insect repeat castle pass";

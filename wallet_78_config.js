@@ -1,1 +1,1 @@
-var mnemonic = "label pattern minute game eye bean guess obscure twelve roof depth tenant";
+var mnemonic = "sort find execute broken burden sudden manual language radio cash castle dice";

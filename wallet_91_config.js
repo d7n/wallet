@@ -1,1 +1,1 @@
-var mnemonic = "satisfy wrap coffee acoustic convince tilt unknown fox notice share silver trial";
+var mnemonic = "agree razor raise concert unique october crisp guess flee cart library prison";

@@ -1,1 +1,1 @@
-var mnemonic = "glove solid future danger finish quantum wife gym used protect corn salon";
+var mnemonic = "year select inflict consider ribbon degree grocery useful tell evolve concert camera";

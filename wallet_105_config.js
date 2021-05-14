@@ -1,1 +1,1 @@
-var mnemonic = "boost upper neutral syrup design flock invite salute canal cross guilt initial";
+var mnemonic = "front poverty minimum ethics skill vicious coil tell stick obey crumble check";

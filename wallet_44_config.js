@@ -1,1 +1,1 @@
-var mnemonic = "food fashion armor south attitude clock enter gadget hold sadness hat such";
+var mnemonic = "pencil vacant relax board expire top deputy tunnel river guess borrow left";

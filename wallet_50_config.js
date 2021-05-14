@@ -1,1 +1,1 @@
-var mnemonic = "hobby piano exile meat naive pigeon banana refuse wasp fragile tilt travel";
+var mnemonic = "trash strike card disease rule onion dove thank innocent demand cause will";

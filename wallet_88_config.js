@@ -1,1 +1,1 @@
-var mnemonic = "library ethics chaos boring anchor owner exhaust circle guilt foam shed found";
+var mnemonic = "badge hip advance column puzzle mirror cousin juice opinion picnic position gravity";

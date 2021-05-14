@@ -1,1 +1,1 @@
-var mnemonic = "toilet leave cupboard excite short tuition day either sister antique online flight";
+var mnemonic = "fish april girl skate visual marine glare typical illegal shuffle resist nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock tired dumb stairs mind notice youth glimpse basic pluck general rescue";
+var mnemonic = "hotel lava chunk total forward put uncover life color plug veteran neither";

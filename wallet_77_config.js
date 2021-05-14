@@ -1,1 +1,1 @@
-var mnemonic = "knife wool raw very stone high huge unable soul job prosper juice";
+var mnemonic = "ignore knee woman mobile mutual endless drastic pelican dutch job gallery sail";

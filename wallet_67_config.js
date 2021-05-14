@@ -1,1 +1,1 @@
-var mnemonic = "rely village velvet royal true slogan scrub soft luggage trumpet enforce fit";
+var mnemonic = "neutral industry cable laptop together famous remind tumble cliff nut metal inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel parent crater prize box enlist notice clay venture analyst output dentist";
+var mnemonic = "negative insane detail review capable broccoli phone depend shadow prefer blouse brass";

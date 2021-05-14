@@ -1,1 +1,1 @@
-var mnemonic = "brave mom sketch trade burst camera gun claw media near rough endless";
+var mnemonic = "cube current maple forget carpet stone wisdom model boost mother calm elephant";

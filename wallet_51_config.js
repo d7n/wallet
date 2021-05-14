@@ -1,1 +1,1 @@
-var mnemonic = "brief similar awesome educate false traffic property axis local dune wife dentist";
+var mnemonic = "conduct frown siren hedgehog staff card real thrive radar cluster frozen random";

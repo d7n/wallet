@@ -1,1 +1,1 @@
-var mnemonic = "sniff again volume celery call sound lyrics deal speak bench resist make";
+var mnemonic = "bind label cinnamon middle have jacket person witness twice diesel scorpion extra";

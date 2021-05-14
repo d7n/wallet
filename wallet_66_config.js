@@ -1,1 +1,1 @@
-var mnemonic = "you nerve virus gather embark arrive seed negative juice duty april spike";
+var mnemonic = "divorce village pact much bless casino lesson mechanic waste glance nice symbol";

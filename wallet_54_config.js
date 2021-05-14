@@ -1,1 +1,1 @@
-var mnemonic = "tent choose pipe strike eagle quick pluck stairs neutral rather position when";
+var mnemonic = "evolve marriage erupt almost chuckle rate slow unit page okay stereo boat";

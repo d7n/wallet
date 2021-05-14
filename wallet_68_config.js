@@ -1,1 +1,1 @@
-var mnemonic = "blur cupboard blue rich purity easily educate emotion pave code moment skirt";
+var mnemonic = "slam taste shock thunder twelve ranch cattle mule inform again vacant sea";

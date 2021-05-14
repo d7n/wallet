@@ -1,1 +1,1 @@
-var mnemonic = "mad citizen guide vacuum master image define copy trash huge trouble grace";
+var mnemonic = "enough banana grab service hold under card spin camera response build flock";

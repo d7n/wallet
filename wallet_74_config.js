@@ -1,1 +1,1 @@
-var mnemonic = "pulse slow someone twelve ethics filter bitter recall history cheap canvas wisdom";
+var mnemonic = "vast need genuine enlist motion leaf impose dignity poet delay detect village";

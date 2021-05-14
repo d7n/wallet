@@ -1,1 +1,1 @@
-var mnemonic = "rice torch aim coyote inhale sadness sense naive walnut toss sketch safe";
+var mnemonic = "better dragon nerve brown shaft reunion mercy clay solid bulk mosquito tilt";

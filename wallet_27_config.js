@@ -1,1 +1,1 @@
-var mnemonic = "impose wage always jar turkey resemble salmon shock above casual assume opinion";
+var mnemonic = "prize loan garden hamster stumble tunnel meadow crack worth tent limb post";

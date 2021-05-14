@@ -1,1 +1,1 @@
-var mnemonic = "autumn uncle woman present wink dilemma arctic tiny street coyote fiscal quarter";
+var mnemonic = "always shrug service oil easy bulb ticket amused bottom among deer method";

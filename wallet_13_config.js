@@ -1,1 +1,1 @@
-var mnemonic = "coffee wood tower undo west ocean paper crystal mail engine pluck picnic";
+var mnemonic = "sight expire visit affair carry fish buzz together give earn soldier hire";

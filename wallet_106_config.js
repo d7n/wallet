@@ -1,1 +1,1 @@
-var mnemonic = "ketchup canal focus visa empower enact mad worth walnut awesome industry custom";
+var mnemonic = "image sign spring essence process visit night predict indicate true favorite torch";

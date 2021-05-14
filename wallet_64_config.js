@@ -1,1 +1,1 @@
-var mnemonic = "twenty mesh keen hair galaxy decorate surge wasp stand atom draw secret";
+var mnemonic = "length dog library ivory unable goddess coconut collect clump abandon comfort siren";

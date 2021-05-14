@@ -1,1 +1,1 @@
-var mnemonic = "program process strike frame trust chicken sleep alter ocean isolate story antenna";
+var mnemonic = "code husband unaware trial alter best empty prosper project female attitude cotton";

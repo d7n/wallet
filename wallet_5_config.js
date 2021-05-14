@@ -1,1 +1,1 @@
-var mnemonic = "pepper talk audit what spatial jazz improve stove hero plate scheme brush";
+var mnemonic = "cruel remove scheme praise royal quality code long note frog rule place";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken invite echo spare regular melody ignore unusual bamboo chaos wreck phrase";
+var mnemonic = "hill author secret radar fluid emotion oblige vault gown north early runway";

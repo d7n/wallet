@@ -1,1 +1,1 @@
-var mnemonic = "mango pigeon involve cattle anxiety goddess eagle valley sell switch notable reveal";
+var mnemonic = "silly half hole present primary gold suggest siege give stomach bench permit";

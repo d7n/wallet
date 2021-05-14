@@ -1,1 +1,1 @@
-var mnemonic = "grocery recipe rural split scene pass borrow actor true cruise roast whale";
+var mnemonic = "connect clay route pill board lava say display fame picture ride test";

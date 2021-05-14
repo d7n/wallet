@@ -1,1 +1,1 @@
-var mnemonic = "tourist mystery labor acid once pen issue social damage ramp farm crystal";
+var mnemonic = "unknown town gadget critic multiply response coach bring exotic rabbit situate anchor";

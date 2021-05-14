@@ -1,1 +1,1 @@
-var mnemonic = "time excite gadget under fault donate subject genre assist quantum depart velvet";
+var mnemonic = "item invest hammer stay invite scissors cake affair dream hub spoon awful";

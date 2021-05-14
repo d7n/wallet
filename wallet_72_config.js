@@ -1,1 +1,1 @@
-var mnemonic = "employ square drive bamboo broccoli sorry october flat cotton off jump excuse";
+var mnemonic = "peanut school imitate divert state canoe legal sentence marble idle charge spread";
