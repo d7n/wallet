@@ -1,1 +1,1 @@
-var mnemonic = "garage salute dizzy asset soap express begin oppose state mule match unfair";
+var mnemonic = "theory bus broken tongue figure regular ride meadow trip quarter own horn";

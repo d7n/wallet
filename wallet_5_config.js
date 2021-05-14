@@ -1,1 +1,1 @@
-var mnemonic = "risk train sun hint kit chat worth rule sense patient convince hundred";
+var mnemonic = "little list thrive eight beauty priority awkward vapor hungry differ session march";

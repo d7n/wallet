@@ -1,1 +1,1 @@
-var mnemonic = "popular margin unlock seek vote cruise april anchor october legend sound visual";
+var mnemonic = "reflect citizen put perfect laugh cat program sing slight design increase power";

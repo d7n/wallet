@@ -1,1 +1,1 @@
-var mnemonic = "page wedding poet home owner pilot crystal capable panda unveil trim tiny";
+var mnemonic = "viable pyramid shell shove glass left thrive ill wink predict guard flash";

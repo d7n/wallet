@@ -1,1 +1,1 @@
-var mnemonic = "mother never endless drive foster grace vacant brand wet permit topic spice";
+var mnemonic = "silk smoke hybrid another drift crouch hospital fox hospital end exclude silly";

@@ -1,1 +1,1 @@
-var mnemonic = "summer metal stable satisfy among junior virtual current volume range bitter media";
+var mnemonic = "road father exotic paper retire bag language lift patient still bulb immense";

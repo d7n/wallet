@@ -1,1 +1,1 @@
-var mnemonic = "amateur moment solution hobby boss shine cake topic receive dad require wool";
+var mnemonic = "muffin artefact winter visa calm comfort cement risk end moment gaze peasant";

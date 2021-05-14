@@ -1,1 +1,1 @@
-var mnemonic = "hub oil game example decide pride slot alley buzz cigar hawk acid";
+var mnemonic = "lyrics spoil equip stay bicycle catch rescue boost kiss glide cabbage warfare";

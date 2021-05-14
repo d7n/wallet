@@ -1,1 +1,1 @@
-var mnemonic = "airport trap prison author style major elephant advice off frown shadow focus";
+var mnemonic = "own mercy drift program midnight tone axis debris autumn craft drum pulse";

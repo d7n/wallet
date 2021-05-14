@@ -1,1 +1,1 @@
-var mnemonic = "charge wagon pottery company welcome guitar open faith impact car craft clutch";
+var mnemonic = "narrow copper better shuffle jacket ridge sweet yellow shove cross winter snow";

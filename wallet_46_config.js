@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo old right need fiction cactus dinosaur wrist cause basket salad cake";
+var mnemonic = "economy mimic odor weapon genre depth attitude tray lesson rural uncle view";

@@ -1,1 +1,1 @@
-var mnemonic = "nest first blouse stove topic depth jaguar sea donate grape retire dutch";
+var mnemonic = "drip patch salt impose apple life renew waste lobster direct regular arrive";

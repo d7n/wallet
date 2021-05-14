@@ -1,1 +1,1 @@
-var mnemonic = "december middle wasp beach subway actual close world step hill walk loop";
+var mnemonic = "toward pledge arch sister license jar dog armor glance parent add tiger";

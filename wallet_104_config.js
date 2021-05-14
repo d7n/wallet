@@ -1,1 +1,1 @@
-var mnemonic = "general release gasp bullet pudding deputy whip memory maximum note thunder current";
+var mnemonic = "know dove friend pig famous wool panda siege month object spray metal";

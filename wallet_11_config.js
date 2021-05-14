@@ -1,1 +1,1 @@
-var mnemonic = "regular choice comic peanut worth north loan detail leisure interest dog identify";
+var mnemonic = "harbor tuna interest fine fee donor early mom knee embark marble awful";

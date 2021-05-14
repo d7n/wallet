@@ -1,1 +1,1 @@
-var mnemonic = "false broccoli barely rib gift wife brick invest sing bird shoe name";
+var mnemonic = "insane best collect call exhaust dune diesel raven early glance helmet card";

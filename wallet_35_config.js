@@ -1,1 +1,1 @@
-var mnemonic = "license crumble jeans practice improve april swing leopard hour verb lunch glide";
+var mnemonic = "quote close firm shine pair dirt address lecture disorder nominee tilt wisdom";

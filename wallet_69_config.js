@@ -1,1 +1,1 @@
-var mnemonic = "remember script leaf stem bird squeeze pumpkin crunch estate dash fuel icon";
+var mnemonic = "kangaroo robot crop cancel network canyon manage neglect hero toilet claw reduce";

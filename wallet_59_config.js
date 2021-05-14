@@ -1,1 +1,1 @@
-var mnemonic = "logic steak among segment must hint include rely shift romance noble dose";
+var mnemonic = "super safe student layer tiny connect lonely stable voice reform insect board";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur child basket shield walnut escape hamster athlete pottery noodle lounge prevent";
+var mnemonic = "deal hamster dignity crew carry motion dilemma donor leader bamboo skin treat";

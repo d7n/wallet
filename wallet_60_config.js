@@ -1,1 +1,1 @@
-var mnemonic = "raven extend toward novel analyst vessel antenna better present raven able discover";
+var mnemonic = "spirit glad myself board patient setup build fuel puppy erode absorb rare";

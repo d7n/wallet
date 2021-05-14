@@ -1,1 +1,1 @@
-var mnemonic = "army jaguar silver perfect chalk oblige scissors stomach someone timber warrior dream";
+var mnemonic = "rug palm wing viable weapon render drum upgrade leaf animal join cool";

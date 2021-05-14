@@ -1,1 +1,1 @@
-var mnemonic = "assist hello toilet slice bind blanket polar action tip load another can";
+var mnemonic = "dwarf behind mimic split olive turkey mesh lawn enforce process odor energy";

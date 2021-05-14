@@ -1,1 +1,1 @@
-var mnemonic = "blue live cave song trophy grief road left future fit deputy arch";
+var mnemonic = "sight scene assault solid taxi food turkey cruise neck solve dwarf sea";

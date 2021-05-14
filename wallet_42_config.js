@@ -1,1 +1,1 @@
-var mnemonic = "answer defense eternal first chest veteran sausage anxiety clarify media panic profit";
+var mnemonic = "remain when vote scorpion quantum weekend winner script come just project receive";

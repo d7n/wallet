@@ -1,1 +1,1 @@
-var mnemonic = "stadium super bind young path prefer slim loud crater bargain mixture zoo";
+var mnemonic = "faint almost purpose uncover episode maple tortoise volcano liquid design vanish vital";

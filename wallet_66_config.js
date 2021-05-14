@@ -1,1 +1,1 @@
-var mnemonic = "census amazing giggle convince clutch echo old prosper rocket suggest harvest exchange";
+var mnemonic = "raise silly delay illegal bus film sun notable sport symbol electric hidden";

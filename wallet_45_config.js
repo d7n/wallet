@@ -1,1 +1,1 @@
-var mnemonic = "dignity lamp coyote broccoli fine engage unusual short canal hybrid vessel quality";
+var mnemonic = "link garment test little vapor person job sure rule knock grid ocean";

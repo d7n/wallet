@@ -1,1 +1,1 @@
-var mnemonic = "mouse second report gown genius wrist rose adapt someone heart front celery";
+var mnemonic = "diesel trouble occur lion hover gate desert casual debris smooth next left";

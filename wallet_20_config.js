@@ -1,1 +1,1 @@
-var mnemonic = "diary junk idea income wagon twenty ridge alarm during opera hurry about";
+var mnemonic = "artist hip fire duck borrow office glory skirt pair cannon tooth upset";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete cactus busy scrub busy shuffle aim camera age key spice fox";
+var mnemonic = "junk include betray robust travel leopard client glance cousin nominee pipe inside";

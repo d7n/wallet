@@ -1,1 +1,1 @@
-var mnemonic = "snow fee pitch topple live flavor rice stairs shaft tube salute resemble";
+var mnemonic = "label wheel stick purpose aerobic enjoy grain pencil vault group mean square";

@@ -1,1 +1,1 @@
-var mnemonic = "rely gain duck spot useless prepare castle network child pudding acquire life";
+var mnemonic = "cargo doctor voyage beach carbon echo vanish body mask school evil muscle";

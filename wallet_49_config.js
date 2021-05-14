@@ -1,1 +1,1 @@
-var mnemonic = "urban good under vote tired attract office view banana rotate giant example";
+var mnemonic = "taxi company shoulder shop candy copy sauce bus core major kitten spike";

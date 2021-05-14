@@ -1,1 +1,1 @@
-var mnemonic = "rotate enough impulse silent stool express fame crack apology stone myth man";
+var mnemonic = "reveal use aware venture salt balance brave glory lava fox garlic release";

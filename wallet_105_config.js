@@ -1,1 +1,1 @@
-var mnemonic = "patient churn tool immune vast bid year give funny drastic snack record";
+var mnemonic = "melody moral stove female dress gesture dust comfort auction obvious jazz view";

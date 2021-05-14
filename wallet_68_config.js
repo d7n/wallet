@@ -1,1 +1,1 @@
-var mnemonic = "mind leisure custom scale square suit ticket boil exercise stock hen utility";
+var mnemonic = "hope bomb rabbit appear embark bracket method buyer collect bubble tattoo treat";

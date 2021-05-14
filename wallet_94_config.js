@@ -1,1 +1,1 @@
-var mnemonic = "remain admit evidence mosquito online surge quarter ability chapter embody sibling misery";
+var mnemonic = "sort easily view security cry wisdom visa velvet sing truck morning final";

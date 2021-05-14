@@ -1,1 +1,1 @@
-var mnemonic = "orange shoot resemble boost lawsuit kidney often airport rate boss ask adjust";
+var mnemonic = "library husband camera expect sugar brain little gain earn eagle genre suffer";

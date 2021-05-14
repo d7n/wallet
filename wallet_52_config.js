@@ -1,1 +1,1 @@
-var mnemonic = "loop toast hurt iron plate reward sheriff cool search movie rhythm fiction";
+var mnemonic = "outside unit nominee gain drink bargain never select clean shield senior traffic";

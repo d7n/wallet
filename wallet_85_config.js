@@ -1,1 +1,1 @@
-var mnemonic = "income true educate boss cargo sunset task remove envelope grief lens broom";
+var mnemonic = "nasty front tip feed half crop decline truth again force spider vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "push lottery mean never cactus pond kind bunker boring fit merit nature";
+var mnemonic = "search they spike lend exhaust drastic join lawsuit just movie bean clutch";

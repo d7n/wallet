@@ -1,1 +1,1 @@
-var mnemonic = "mansion marble legend toss ring solution wall convince soup slight depth frozen";
+var mnemonic = "document child love enrich bind bridge exclude eagle during fancy gold achieve";

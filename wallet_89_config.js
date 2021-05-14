@@ -1,1 +1,1 @@
-var mnemonic = "worth cost book vehicle odor hire quiz dizzy crack grief render cargo";
+var mnemonic = "girl grocery fork fog tower slender benefit alert critic abstract mammal digital";

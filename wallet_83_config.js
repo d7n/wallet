@@ -1,1 +1,1 @@
-var mnemonic = "smoke pull vote again danger onion inherit width company boss urban defy";
+var mnemonic = "mosquito slam position vicious ocean question pitch lonely village tell dentist program";

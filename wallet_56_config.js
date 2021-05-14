@@ -1,1 +1,1 @@
-var mnemonic = "local nerve penalty trend choice stamp endless will tissue also blush crop";
+var mnemonic = "brave upon shadow reveal cancel van police auto sausage blue daring airport";

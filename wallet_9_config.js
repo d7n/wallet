@@ -1,1 +1,1 @@
-var mnemonic = "couch person cushion mechanic know clock confirm public tomorrow sorry tank exchange";
+var mnemonic = "strong task dirt walk cupboard dolphin acid hamster scorpion pencil chapter grocery";

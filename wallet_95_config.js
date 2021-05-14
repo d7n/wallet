@@ -1,1 +1,1 @@
-var mnemonic = "inmate dinner vast hobby rapid hint actual stable vote nerve feed ceiling";
+var mnemonic = "judge behave year vocal merge arrive upgrade dad task diary cliff skin";

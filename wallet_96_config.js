@@ -1,1 +1,1 @@
-var mnemonic = "live hour income leopard scout strike pepper scene viable muscle express unfold";
+var mnemonic = "arch stairs question there found apple happy attitude tenant want come typical";

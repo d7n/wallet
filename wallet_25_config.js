@@ -1,1 +1,1 @@
-var mnemonic = "know fiscal black heavy symptom excess fringe student wait trim chat client";
+var mnemonic = "seven milk pledge rally depart season olive arrive night menu regular picnic";

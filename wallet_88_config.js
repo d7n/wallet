@@ -1,1 +1,1 @@
-var mnemonic = "subject yellow tragic cream change prison sadness loop else chase suspect smile";
+var mnemonic = "swing tortoise saddle lift country forum token among visa media patrol hard";

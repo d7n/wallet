@@ -1,1 +1,1 @@
-var mnemonic = "junk radar black town tree indoor uniform narrow father blood cup venture";
+var mnemonic = "athlete include omit north swim oblige warrior tragic vapor easy action charge";

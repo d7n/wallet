@@ -1,1 +1,1 @@
-var mnemonic = "blue scout raw prize spatial frozen desert impact wasp insect recipe rally";
+var mnemonic = "staff picnic cram zero wing true output express maid cherry vague silk";

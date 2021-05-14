@@ -1,1 +1,1 @@
-var mnemonic = "wood smart wasp smile south where slender good seat gap ramp sheriff";
+var mnemonic = "couch fiction glimpse physical grow match entire jealous secret click long casino";

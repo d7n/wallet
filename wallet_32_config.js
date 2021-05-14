@@ -1,1 +1,1 @@
-var mnemonic = "calm crash only such clown beyond limb swing trophy picnic poverty arm";
+var mnemonic = "brief path category civil trigger trial model total escape stable tank gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "damp guilt cattle jeans tuition gap claim kidney fox orphan chalk dash";
+var mnemonic = "destroy eight hip employ middle talent friend memory nature inner fiction swim";

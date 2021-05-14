@@ -1,1 +1,1 @@
-var mnemonic = "tiny hill curtain crop water fire abandon diary hedgehog cradle piano choice";
+var mnemonic = "speed oak noise tray flower unlock gift beauty pass hurry fly slab";

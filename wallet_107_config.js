@@ -1,1 +1,1 @@
-var mnemonic = "tuna diary salute shiver lava forest polar polar check winner define draft";
+var mnemonic = "warfare sunset hammer liberty bulk alpha notable host breeze equip motor crunch";

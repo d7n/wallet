@@ -1,1 +1,1 @@
-var mnemonic = "lunch shoe jazz agent riot hawk magnet appear daughter merit tool convince";
+var mnemonic = "romance cave denial retreat gesture vicious steak away man giraffe vanish demand";

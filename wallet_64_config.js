@@ -1,1 +1,1 @@
-var mnemonic = "sport leg uncle rib distance movie turkey afford drop sponsor vanish lumber";
+var mnemonic = "body rule rescue inherit drip start fire carbon census feel observe wonder";

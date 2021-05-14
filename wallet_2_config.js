@@ -1,1 +1,1 @@
-var mnemonic = "siren window educate sibling unfold abstract suspect old cinnamon attend tired blame";
+var mnemonic = "crouch puzzle ride whale section pass torch achieve fence van adapt either";

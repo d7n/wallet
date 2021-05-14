@@ -1,1 +1,1 @@
-var mnemonic = "aerobic flight soft hunt reflect peace vibrant derive fire lounge direct soup";
+var mnemonic = "plunge cave enjoy wagon clap combine mom slam slot lucky often rate";

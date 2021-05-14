@@ -1,1 +1,1 @@
-var mnemonic = "taxi detail someone peace way region polar dinner such bind black reward";
+var mnemonic = "scrub scissors mule honey put spawn during snap raven absurd member assault";

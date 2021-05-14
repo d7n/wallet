@@ -1,1 +1,1 @@
-var mnemonic = "hero glue ahead entire document arena move merge replace dose service priority";
+var mnemonic = "brown family flag fold lottery hurdle just demand flash little already remember";

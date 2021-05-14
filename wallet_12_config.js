@@ -1,1 +1,1 @@
-var mnemonic = "funny voyage urban heart boost bracket aunt group cave toy embark parade";
+var mnemonic = "crowd concert eternal play above stairs super charge luxury coffee wheel hero";

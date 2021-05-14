@@ -1,1 +1,1 @@
-var mnemonic = "feel brother cliff dad whale fat buyer defense parent kiwi enroll brother";
+var mnemonic = "route bronze divide clay comfort donor oxygen pelican room absurd diet poet";

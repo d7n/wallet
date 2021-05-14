@@ -1,1 +1,1 @@
-var mnemonic = "trust valve force produce trap banana tree emerge guitar sad wet bar";
+var mnemonic = "proof chief later urban wool creek exchange shoulder give cram prosper meadow";

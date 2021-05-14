@@ -1,1 +1,1 @@
-var mnemonic = "robot country hand wrestle fluid layer joke party february dynamic device usage";
+var mnemonic = "math bar visual plastic father answer engage broom mutual insect woman smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "fat initial scatter iron mutual same gorilla ritual marriage topple all impulse";
+var mnemonic = "diary trust wash occur clump doctor jeans sign eagle sight over silly";

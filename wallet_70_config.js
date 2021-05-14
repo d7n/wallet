@@ -1,1 +1,1 @@
-var mnemonic = "surprise detail useful exercise hospital wool spirit skin timber clever torch crumble";
+var mnemonic = "note mail major then pilot alley energy gossip mimic stay solar urge";

@@ -1,1 +1,1 @@
-var mnemonic = "hub wall train sleep wear ozone icon mutual danger unit icon utility";
+var mnemonic = "slim hamster cart front lock safe innocent glove sun suggest disease canvas";

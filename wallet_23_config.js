@@ -1,1 +1,1 @@
-var mnemonic = "glow spatial memory judge ball proud accident table multiply flat battle universe";
+var mnemonic = "eye town bright valve lion comfort blue unfair image save around rate";

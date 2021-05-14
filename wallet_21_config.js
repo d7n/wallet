@@ -1,1 +1,1 @@
-var mnemonic = "foil glare ranch bar journey acquire mix alarm spoil embody decide error";
+var mnemonic = "tooth love chat situate physical picnic fence safe vivid thought negative afraid";

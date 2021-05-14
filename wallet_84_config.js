@@ -1,1 +1,1 @@
-var mnemonic = "surround day twice pear entry pet slow sock they flower bar child";
+var mnemonic = "merit spare open couch amount edit early alien nurse chimney make minor";

@@ -1,1 +1,1 @@
-var mnemonic = "impact enrich exist hat cool pattern survey have burger shrimp country win";
+var mnemonic = "valid choice donate seek chronic silk quality review lobster snow december plastic";

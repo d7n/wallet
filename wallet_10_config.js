@@ -1,1 +1,1 @@
-var mnemonic = "must coral crawl hammer debris ship dinner digital wrist east join narrow";
+var mnemonic = "torch memory pink pulse wrap retreat cart flip exit write fog math";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard near filter combine candy crane deputy night august cat term prevent";
+var mnemonic = "ocean way science letter daring river match moon obvious devote trick stumble";

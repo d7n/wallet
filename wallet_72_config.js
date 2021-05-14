@@ -1,1 +1,1 @@
-var mnemonic = "mail permit noodle palm power they demand fuel skill orchard turtle fuel";
+var mnemonic = "confirm smooth harbor version ghost thunder cherry state cabin sorry wall raise";

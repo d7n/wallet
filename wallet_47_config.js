@@ -1,1 +1,1 @@
-var mnemonic = "remember cloud screen drip tiny dignity upset arena arch human load zero";
+var mnemonic = "inside ozone adjust better trouble umbrella win have rare gravity nerve enemy";

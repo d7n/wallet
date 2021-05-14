@@ -1,1 +1,1 @@
-var mnemonic = "jaguar stay delay love little romance wing degree mirror all apple measure";
+var mnemonic = "strategy room banana capable believe weather report session hurt pig lucky panther";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust quarter pen genuine doll snap erosion crane mechanic become ivory country";
+var mnemonic = "bunker suffer universe lab define wood shaft pair refuse office choice sing";

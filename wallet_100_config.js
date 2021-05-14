@@ -1,1 +1,1 @@
-var mnemonic = "liar century risk trigger spare office rival wrestle embark body auction toilet";
+var mnemonic = "ghost pole kitten smile fat reunion bulb wrist talent basket essay post";

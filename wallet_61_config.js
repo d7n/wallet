@@ -1,1 +1,1 @@
-var mnemonic = "because ankle body arch caught rare electric sword mountain embrace baby novel";
+var mnemonic = "devote solar athlete off catch acoustic decline dish kitchen parent south gossip";

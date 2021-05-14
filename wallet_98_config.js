@@ -1,1 +1,1 @@
-var mnemonic = "seminar plastic verify decline sad tackle hidden chef excite address smooth fiscal";
+var mnemonic = "swim way core ranch erosion doll second force walk pill despair crouch";
