@@ -1,1 +1,1 @@
-var mnemonic = "worry sense motor safe chimney biology stable energy pole pilot occur museum";
+var mnemonic = "sweet invite large nation chunk resource work water actress extra analyst attack";

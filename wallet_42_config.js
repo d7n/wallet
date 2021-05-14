@@ -1,1 +1,1 @@
-var mnemonic = "loop client future daring fix picnic prepare piano casino strong exhaust inflict";
+var mnemonic = "enact forest display slab decade acquire jealous unusual lab index between float";

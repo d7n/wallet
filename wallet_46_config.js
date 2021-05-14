@@ -1,1 +1,1 @@
-var mnemonic = "dream congress oxygen glue eagle betray abstract already armor faith scrub disagree";
+var mnemonic = "vapor can oyster draft disease actress lens abstract mixed clump subway merge";

@@ -1,1 +1,1 @@
-var mnemonic = "simple music matter leave garlic shallow garage image draft improve album trouble";
+var mnemonic = "dry jaguar jungle nuclear system execute arm client donate risk survey raccoon";

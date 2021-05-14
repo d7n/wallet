@@ -1,1 +1,1 @@
-var mnemonic = "moral wire wisdom blouse carpet regret relax long visit stick expect toddler";
+var mnemonic = "derive smoke upper crush like appear board true radar apple repair monkey";

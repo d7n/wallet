@@ -1,1 +1,1 @@
-var mnemonic = "foam kit common mandate clip enact tiny birth canal group wide loan";
+var mnemonic = "disorder math engage close month unusual expire news want exclude item shrug";

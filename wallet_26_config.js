@@ -1,1 +1,1 @@
-var mnemonic = "sorry describe unfair anxiety rabbit tape civil season action soup make minute";
+var mnemonic = "busy okay simple park actual test prosper season weather reform turkey daring";

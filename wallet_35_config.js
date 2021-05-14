@@ -1,1 +1,1 @@
-var mnemonic = "spare alarm typical entire grow shuffle feature sword host boat scheme letter";
+var mnemonic = "curious float merry pudding music win need around myself idea first surprise";

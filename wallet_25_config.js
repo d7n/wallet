@@ -1,1 +1,1 @@
-var mnemonic = "total journey master venture black pipe range ice choose alarm sketch boost";
+var mnemonic = "mixture dish else evolve brass squeeze ritual powder amount wine alarm lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "craft easily stomach view fragile cheese allow laugh lizard choose bulb retreat";
+var mnemonic = "elegant earth sound symptom vacant decade arctic rely lottery spawn subway economy";

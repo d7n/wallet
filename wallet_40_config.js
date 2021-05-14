@@ -1,1 +1,1 @@
-var mnemonic = "weasel prefer rule salon swear gesture remember distance soccer easily question lounge";
+var mnemonic = "there tomato space govern brisk aim emotion concert fit fancy adult firm";

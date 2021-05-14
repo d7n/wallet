@@ -1,1 +1,1 @@
-var mnemonic = "snow speak impact juice one jump athlete panda crazy maximum finish evil";
+var mnemonic = "thunder ability excite sponsor honey margin suggest weather people cinnamon nasty plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "treat build stomach fatal goddess soda wrap nut together salon wisdom atom";
+var mnemonic = "era sea forest extend erosion frog holiday bind east tower vault song";

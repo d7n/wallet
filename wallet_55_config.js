@@ -1,1 +1,1 @@
-var mnemonic = "ahead alley asset copper scissors minor route chimney identify cabbage wage organ";
+var mnemonic = "argue cash picnic boring wink home session scheme enroll code emerge material";

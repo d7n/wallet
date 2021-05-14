@@ -1,1 +1,1 @@
-var mnemonic = "laundry easy wrestle burger stem husband eight glass enforce pistol cause drama";
+var mnemonic = "vacuum dolphin expose session sentence sister oxygen nose toddler canoe quantum genuine";

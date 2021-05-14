@@ -1,1 +1,1 @@
-var mnemonic = "force turtle zebra spread garment insane adapt right burger rude grit grape";
+var mnemonic = "inch hint then people night attend machine reduce blur trust manage tube";

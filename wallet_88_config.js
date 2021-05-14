@@ -1,1 +1,1 @@
-var mnemonic = "orchard toss time swear race label clutch clump settle critic grid supreme";
+var mnemonic = "tip talent bag shrimp mosquito blue faint maze unknown fence merry canal";

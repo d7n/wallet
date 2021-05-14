@@ -1,1 +1,1 @@
-var mnemonic = "debris filter girl penalty track stem tell genius add area youth arrange";
+var mnemonic = "together keep chef inflict boat top produce choice forest eagle lottery carpet";

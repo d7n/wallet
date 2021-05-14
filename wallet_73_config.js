@@ -1,1 +1,1 @@
-var mnemonic = "hope cherry pencil manual raven fire daughter prevent solar wonder reward decide";
+var mnemonic = "harvest shaft error exhibit teach remember more today bulk lady february divide";

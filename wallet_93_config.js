@@ -1,1 +1,1 @@
-var mnemonic = "crouch before deputy state volume era affair system grocery swap hire pipe";
+var mnemonic = "symbol limit search require scrub mad grace someone budget artefact shy violin";

@@ -1,1 +1,1 @@
-var mnemonic = "post manage supply immune cushion art pool lift stove tunnel lizard blind";
+var mnemonic = "setup one sudden place off lava pretty retire door prevent husband blame";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow hamster oven light pelican fitness crash success fence leisure acid labor";
+var mnemonic = "gap chair loud case armor twist version dragon soul angry fluid trouble";

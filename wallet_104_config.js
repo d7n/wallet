@@ -1,1 +1,1 @@
-var mnemonic = "group win train account spell frame afraid someone nothing asset enlist clip";
+var mnemonic = "clinic forum shiver oven derive supreme blood legend virtual okay catch attend";

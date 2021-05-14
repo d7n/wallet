@@ -1,1 +1,1 @@
-var mnemonic = "anchor pet flat diary lucky negative enlist exact later rebuild rifle aisle";
+var mnemonic = "hobby arctic logic modify dream fuel color tribe until soap rude stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi enjoy job luxury thank ahead matrix call smart shock leaf gadget";
+var mnemonic = "envelope dash mimic little trash clip invest nose desert wise light inmate";

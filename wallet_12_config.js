@@ -1,1 +1,1 @@
-var mnemonic = "absurd fiscal focus space industry skirt slender sword grit apart credit sausage";
+var mnemonic = "rain alien describe ladder early novel hobby answer tired phone chimney submit";

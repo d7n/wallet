@@ -1,1 +1,1 @@
-var mnemonic = "cute define lend love canal rail visual sunset tree exact decade forward";
+var mnemonic = "fold ghost match machine wood call visit program tuition void gaze scene";

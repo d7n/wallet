@@ -1,1 +1,1 @@
-var mnemonic = "visual fetch certain hire express art expect quantum involve nation hood help";
+var mnemonic = "click cousin piano enact latin possible note escape fox raccoon license grit";

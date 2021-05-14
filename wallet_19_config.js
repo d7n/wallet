@@ -1,1 +1,1 @@
-var mnemonic = "cloud deny valve horn author flock tribe core torch obtain this move";
+var mnemonic = "lounge scan index away program fault spell injury job tiger tongue cheap";

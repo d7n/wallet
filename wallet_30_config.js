@@ -1,1 +1,1 @@
-var mnemonic = "gossip riot huge soda fortune rice symbol lecture base civil fix believe";
+var mnemonic = "rotate security panic base attend item rail blur canyon there scatter copy";

@@ -1,1 +1,1 @@
-var mnemonic = "february average holiday raven wing junk blast never exchange master share fault";
+var mnemonic = "jeans digital ability coin brave brush girl thought access first mammal corn";

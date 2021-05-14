@@ -1,1 +1,1 @@
-var mnemonic = "machine position brush twelve say search quarter wet suspect clean matrix water";
+var mnemonic = "someone grit man unable unique humble govern dentist still cat umbrella danger";

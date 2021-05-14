@@ -1,1 +1,1 @@
-var mnemonic = "warfare accuse evil remain claim play supply monster renew sausage social bind";
+var mnemonic = "divert proof power correct frequent squeeze suffer athlete rail glue wasp route";

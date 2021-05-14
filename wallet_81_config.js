@@ -1,1 +1,1 @@
-var mnemonic = "hold loop topic return crash junior celery across silk chaos evolve chase";
+var mnemonic = "love purpose hurry pair edge ghost bean own wife jealous suspect nice";

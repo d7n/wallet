@@ -1,1 +1,1 @@
-var mnemonic = "inject isolate afford omit candy pear day focus blur armed unfair wash";
+var mnemonic = "unusual wife feed okay wisdom enter inch someone describe used tenant immense";

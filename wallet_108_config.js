@@ -1,1 +1,1 @@
-var mnemonic = "goddess opinion celery laundry soldier enhance rural unable come naive stick equal";
+var mnemonic = "stone oppose tube cloth animal match fall hand tomato tragic reflect body";

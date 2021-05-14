@@ -1,1 +1,1 @@
-var mnemonic = "scene drill retreat dove olympic hint animal script butter draw banner unfair";
+var mnemonic = "ethics grape private that shell forest income black disagree lab abstract diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "vague decade document small rookie sand throw polar upper increase extra oppose";
+var mnemonic = "bring damp allow example midnight castle peasant utility cream summer ridge utility";

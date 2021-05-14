@@ -1,1 +1,1 @@
-var mnemonic = "gain loyal inquiry suffer dance floor need letter once logic thank engage";
+var mnemonic = "reveal junior dune harvest guess about hungry solution brand moment thunder era";

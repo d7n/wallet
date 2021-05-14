@@ -1,1 +1,1 @@
-var mnemonic = "ice loud certain suffer mountain random symbol unveil brand budget bless oil";
+var mnemonic = "scare verb bronze language sleep same bundle merge genius finger almost range";

@@ -1,1 +1,1 @@
-var mnemonic = "february company achieve fortune catalog fatigue phone balance blame example stem tiger";
+var mnemonic = "soap vivid dove conduct torch scene system light clean enrich birth identify";

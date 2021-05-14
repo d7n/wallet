@@ -1,1 +1,1 @@
-var mnemonic = "again ridge hour truth narrow fringe wasp kingdom soccer host alley very";
+var mnemonic = "mystery clock body urge execute road vacuum cricket act tiger high earn";

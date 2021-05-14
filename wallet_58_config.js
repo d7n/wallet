@@ -1,1 +1,1 @@
-var mnemonic = "chuckle mouse term hungry tumble index fever torch ritual update number plug";
+var mnemonic = "umbrella apart clever bonus bar peace dice year spread ugly whale permit";

@@ -1,1 +1,1 @@
-var mnemonic = "duty material dizzy shine such worry lunar luxury coconut bone list upset";
+var mnemonic = "sad airport stuff cushion thank wagon cave image ranch vicious marine friend";

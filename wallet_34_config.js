@@ -1,1 +1,1 @@
-var mnemonic = "rifle matter pretty ski laugh rebuild movie improve cement stable thank buyer";
+var mnemonic = "dune pencil park allow worry ensure police army exhaust bid just industry";

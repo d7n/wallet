@@ -1,1 +1,1 @@
-var mnemonic = "photo birth average walk gap cause hollow squeeze curve stage adult fatal";
+var mnemonic = "view galaxy unhappy endorse useful unhappy immune hard female early act nothing";

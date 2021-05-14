@@ -1,1 +1,1 @@
-var mnemonic = "snack climb desert north super avoid inch danger step sell huge slice";
+var mnemonic = "protect sting ostrich food prepare december display atom wrestle mom strike rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "error spirit route shy plastic upgrade gravity around ask spin robust vital";
+var mnemonic = "pluck farm little coyote modify bargain color notice cruise sustain capable across";

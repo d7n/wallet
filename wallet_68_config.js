@@ -1,1 +1,1 @@
-var mnemonic = "rookie angle trade fire truck harvest holiday hand rack what gloom guess";
+var mnemonic = "plastic topple whip surround easy action arrive rabbit rhythm mix orange coil";

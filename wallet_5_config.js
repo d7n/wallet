@@ -1,1 +1,1 @@
-var mnemonic = "number describe leader clinic disease pair swap cigar unable upset bird turkey";
+var mnemonic = "silver word case can success foot protect spare connect lunch ten venture";

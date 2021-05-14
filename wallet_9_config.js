@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit midnight hub dice kid paper erupt green spin act blame link";
+var mnemonic = "advance wild thunder mistake jelly winter trophy destroy grief tribe wink alert";

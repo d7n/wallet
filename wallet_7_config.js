@@ -1,1 +1,1 @@
-var mnemonic = "supreme decorate bronze luxury bring miss bench mandate open lounge black street";
+var mnemonic = "secret smooth mention casino course blue resist label word uniform acid tomato";

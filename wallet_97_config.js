@@ -1,1 +1,1 @@
-var mnemonic = "defy apology salute equal coast hobby bulk what sight certain square fox";
+var mnemonic = "prosper stairs kidney demand effort monster reduce often icon reflect lake tone";

@@ -1,1 +1,1 @@
-var mnemonic = "screen vast base purpose elite decrease slender venture supreme ginger bacon patrol";
+var mnemonic = "welcome satisfy spice jacket erase sting room multiply mandate number pioneer border";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet eagle wage spatial tell bike fresh convince dutch elegant bleak sting";
+var mnemonic = "boring chef raven ranch body divorce resemble idle neck offer siege lady";

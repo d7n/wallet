@@ -1,1 +1,1 @@
-var mnemonic = "oppose tank option history office fun harbor garden ritual slush supreme tobacco";
+var mnemonic = "manual chimney depth weather rich butter trumpet oval please patrol scorpion candy";

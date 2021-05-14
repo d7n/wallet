@@ -1,1 +1,1 @@
-var mnemonic = "patch suit six switch claw empower bike topic nasty web bacon eagle";
+var mnemonic = "sun robust cry erase wire wear cry joy photo video transfer glass";

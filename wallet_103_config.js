@@ -1,1 +1,1 @@
-var mnemonic = "excess phone hobby pepper blush photo finger mention friend neglect other purchase";
+var mnemonic = "space stem frown bread vibrant nation hint decide safe sample ugly remove";

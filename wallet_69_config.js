@@ -1,1 +1,1 @@
-var mnemonic = "ability supreme taxi swing plate fury elder tell mandate desert betray canyon";
+var mnemonic = "carpet miracle elbow risk crisp latin mind excuse patch beach empty endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle regular step silly borrow speak hammer town family fatal apple master";
+var mnemonic = "range height umbrella apple stand resource library put evolve salmon gentle swing";

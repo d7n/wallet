@@ -1,1 +1,1 @@
-var mnemonic = "cotton crew scissors casino material brother output gospel demand divorce village paper";
+var mnemonic = "long flavor raccoon mistake zebra trend foot genre wet foam million photo";

@@ -1,1 +1,1 @@
-var mnemonic = "discover proud scale tank tuna thing fluid vibrant prison video nurse leaf";
+var mnemonic = "eager cry sausage potato sentence eyebrow cook brisk december gossip damage business";

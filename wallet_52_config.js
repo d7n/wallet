@@ -1,1 +1,1 @@
-var mnemonic = "funny glare theory era advice gold elder jump word cancel ride chuckle";
+var mnemonic = "uncle actor fall potato excess edit step beef open scan picture drastic";

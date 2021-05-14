@@ -1,1 +1,1 @@
-var mnemonic = "denial skate theme blossom crane genius ring seek easy reject jar card";
+var mnemonic = "salute error play crime peace length maple dumb crisp type task decade";

@@ -1,1 +1,1 @@
-var mnemonic = "section mirror patrol fade job creek oblige cube degree garlic catch group";
+var mnemonic = "absent fantasy filter cherry area reopen stadium stuff much better system target";

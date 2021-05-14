@@ -1,1 +1,1 @@
-var mnemonic = "immune weather spare hill pudding swarm evil funny craft crime lyrics tower";
+var mnemonic = "first pear blood gain roast bleak initial trophy illegal gasp pilot prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "slush script tonight fade galaxy wink sand hole grow patient web auction";
+var mnemonic = "hero correct portion potato deputy valid item lady under member canyon hour";

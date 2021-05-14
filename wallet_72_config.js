@@ -1,1 +1,1 @@
-var mnemonic = "inch inquiry online figure age define electric reopen tomorrow salon auto order";
+var mnemonic = "sketch tunnel yard inherit decade light slam gorilla device current dwarf visit";

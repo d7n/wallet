@@ -1,1 +1,1 @@
-var mnemonic = "hire butter hip change west spell faint glance ripple length kite gaze";
+var mnemonic = "review day orient cycle vacuum harsh call erase ecology pact useless mixed";

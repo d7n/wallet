@@ -1,1 +1,1 @@
-var mnemonic = "used sausage pepper thought problem roast couple praise tree move sort catalog";
+var mnemonic = "disagree sun entire honey deliver bottom illness analyst effort kiss route receive";

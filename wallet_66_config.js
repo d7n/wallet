@@ -1,1 +1,1 @@
-var mnemonic = "enact property volume umbrella cram dove inform play arctic remember favorite repeat";
+var mnemonic = "symbol assume album voice speed barely hospital inmate neutral leave knee mix";

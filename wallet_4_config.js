@@ -1,1 +1,1 @@
-var mnemonic = "pupil bitter evidence pigeon title jungle sister under foster bring team south";
+var mnemonic = "teach theme casual scale menu stuff surface ensure inspire vote avoid cram";

@@ -1,1 +1,1 @@
-var mnemonic = "flat change ugly loop cement pen truck stuff exclude pottery mistake recall";
+var mnemonic = "buzz crater journey perfect joke option panther drift desert various brief yellow";

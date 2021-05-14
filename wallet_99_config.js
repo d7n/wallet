@@ -1,1 +1,1 @@
-var mnemonic = "crisp rent tourist firm only order mixture spare alien cave exile stay";
+var mnemonic = "flee erosion hawk allow pear pipe great knee chicken budget crouch razor";

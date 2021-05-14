@@ -1,1 +1,1 @@
-var mnemonic = "accuse rabbit jungle habit useless battle dolphin cupboard earth cherry rule gravity";
+var mnemonic = "stairs session theory excite century physical orchard grunt file betray permit symbol";

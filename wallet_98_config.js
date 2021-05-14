@@ -1,1 +1,1 @@
-var mnemonic = "thing chalk flip manual page gossip town gasp cricket glad window injury";
+var mnemonic = "bone license east blade fetch gasp betray derive slogan unlock biology guess";

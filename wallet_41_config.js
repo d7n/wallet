@@ -1,1 +1,1 @@
-var mnemonic = "album address blood diet insect bird fringe hope clean coyote spread toward";
+var mnemonic = "uphold tape explain mutual language canoe muffin grain scale romance hobby snow";

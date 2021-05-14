@@ -1,1 +1,1 @@
-var mnemonic = "below prepare legal vacuum toy dignity similar they walk chapter glimpse dragon";
+var mnemonic = "angle hurry palm dial wasp hello doll exercise liberty discover mercy total";

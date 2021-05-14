@@ -1,1 +1,1 @@
-var mnemonic = "stuff rookie antenna priority border clump drastic there spawn move robot trap";
+var mnemonic = "tank blur shiver mandate round letter cave decrease extra banana daughter shy";

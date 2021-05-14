@@ -1,1 +1,1 @@
-var mnemonic = "chronic security amused plunge movie elbow bargain embark ride mimic mean advance";
+var mnemonic = "inherit happy door drama work describe gift amazing nest captain balance spatial";

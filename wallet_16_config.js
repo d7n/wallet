@@ -1,1 +1,1 @@
-var mnemonic = "group expand wolf museum hotel hockey eternal shell own chalk gift frog";
+var mnemonic = "biology jewel help shock recall limit behave scene make exact potato wife";

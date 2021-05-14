@@ -1,1 +1,1 @@
-var mnemonic = "patrol master buddy index reform hidden inspire zone type original timber approve";
+var mnemonic = "develop crew whisper occur unable palace opinion layer spend main cloth charge";

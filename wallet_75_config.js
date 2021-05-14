@@ -1,1 +1,1 @@
-var mnemonic = "broken youth census rural off purity record tiny ghost wreck misery priority";
+var mnemonic = "broccoli conduct fame teach shine error budget surface zoo brown expose salad";

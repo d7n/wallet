@@ -1,1 +1,1 @@
-var mnemonic = "raven harbor pipe summer elite artist debris novel miss loud follow jungle";
+var mnemonic = "lemon range gate buffalo evoke weather carbon during fiction renew north vibrant";

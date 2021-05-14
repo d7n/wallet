@@ -1,1 +1,1 @@
-var mnemonic = "man lemon put nice bring shield track cat pencil lunar carry bracket";
+var mnemonic = "coach jeans crouch useful common when author swing upper foil raw glass";
