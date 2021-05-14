@@ -1,1 +1,1 @@
-var mnemonic = "nothing cash solid material genius public dilemma toward broom antenna illegal crater";
+var mnemonic = "cat enforce crucial account supply sight present crucial diary chicken battle neglect";

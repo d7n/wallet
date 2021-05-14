@@ -1,1 +1,1 @@
-var mnemonic = "beach glove panther gown net guitar assume stairs click crystal twist kit";
+var mnemonic = "fall glare under already oxygen crucial nut tornado crumble grab predict web";

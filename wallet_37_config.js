@@ -1,1 +1,1 @@
-var mnemonic = "cheap noise uphold harvest wedding snake truly detail oblige treat credit glass";
+var mnemonic = "grace advice abuse camp assist hour sorry acquire refuse fine marriage behave";

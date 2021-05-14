@@ -1,1 +1,1 @@
-var mnemonic = "surge inmate margin exchange blur grow decorate range joke supreme capable market";
+var mnemonic = "salad asthma budget youth enforce adult reunion endorse summer build slice alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "curious shallow galaxy voyage tuition pistol vessel limit elder derive hope half";
+var mnemonic = "stairs diary rotate obtain still screen dumb never sudden mushroom maze forget";

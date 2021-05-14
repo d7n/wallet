@@ -1,1 +1,1 @@
-var mnemonic = "emotion keen mercy behave math shield survey income kitchen match thing bike";
+var mnemonic = "climb injury photo napkin cinnamon bright entire quiz clever small wine north";

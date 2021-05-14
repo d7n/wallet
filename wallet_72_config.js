@@ -1,1 +1,1 @@
-var mnemonic = "casual fragile grief embrace trick escape boring rigid excuse victory lesson barely";
+var mnemonic = "fish educate spray crisp winter innocent remain museum impose swarm answer hidden";

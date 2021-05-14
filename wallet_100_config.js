@@ -1,1 +1,1 @@
-var mnemonic = "guess grocery thunder change method coyote elevator apart swap clever infant choice";
+var mnemonic = "auto eagle mountain absurd screen fish aware receive burger beach assume estate";

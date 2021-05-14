@@ -1,1 +1,1 @@
-var mnemonic = "various example three bachelor mosquito gas drill topic response piece federal issue";
+var mnemonic = "swim filter tree network brown left fortune today soft green actor game";

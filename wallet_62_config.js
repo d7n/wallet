@@ -1,1 +1,1 @@
-var mnemonic = "agree wedding kitten dolphin source earn trust man cabbage topple circle danger";
+var mnemonic = "essence seminar swamp menu grid express insane wear nurse year reward spend";

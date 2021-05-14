@@ -1,1 +1,1 @@
-var mnemonic = "riot copper burger cable toe woman angry green ask enhance fork pepper";
+var mnemonic = "surface busy oyster very ostrich act garment trumpet left crazy exact purpose";

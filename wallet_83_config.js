@@ -1,1 +1,1 @@
-var mnemonic = "combine broccoli correct trap concert cook inch adult inspire sell able tribe";
+var mnemonic = "solve detect rural fury weather enlist palace middle peanut wasp much ritual";

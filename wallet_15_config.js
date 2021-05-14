@@ -1,1 +1,1 @@
-var mnemonic = "diesel little comic thing legend castle timber payment page elegant together bamboo";
+var mnemonic = "beef target token purity edge suffer universe switch burden drill wagon robust";

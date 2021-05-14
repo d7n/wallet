@@ -1,1 +1,1 @@
-var mnemonic = "access girl silk wise embark describe save noble trouble dash slow clutch";
+var mnemonic = "occur thrive fall chef hold bread supreme tooth benefit satoshi banana key";

@@ -1,1 +1,1 @@
-var mnemonic = "present cannon jar call clump parent drink hurdle gate average speak consider";
+var mnemonic = "brain fish embody monster verb fee salmon village believe surge divert draw";

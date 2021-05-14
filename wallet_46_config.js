@@ -1,1 +1,1 @@
-var mnemonic = "wool grunt orient water floor famous embark ramp wasp damage bottom cool";
+var mnemonic = "snap crack swim roof roast lemon like retreat client remind sort zone";

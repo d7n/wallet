@@ -1,1 +1,1 @@
-var mnemonic = "finish cheese seed perfect celery tongue violin install matter fabric dial slice";
+var mnemonic = "barely retreat exact illegal mule below work local lunch push light color";

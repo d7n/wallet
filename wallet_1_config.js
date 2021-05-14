@@ -1,1 +1,1 @@
-var mnemonic = "casual oven captain morning walnut exhibit survey mammal inject resemble vendor list";
+var mnemonic = "casual dawn palace genre love jealous urban buddy vacuum choice toss volume";

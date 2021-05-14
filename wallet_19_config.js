@@ -1,1 +1,1 @@
-var mnemonic = "medal dry receive safe solution angle eagle entire violin oil report drink";
+var mnemonic = "eagle street mimic above escape rigid yellow peace elder cream where critic";

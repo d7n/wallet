@@ -1,1 +1,1 @@
-var mnemonic = "fatal limit glow domain shift domain comic reward alarm music clutch provide";
+var mnemonic = "casino juice unveil august wise hockey fantasy despair diagram peace prize there";

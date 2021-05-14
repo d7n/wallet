@@ -1,1 +1,1 @@
-var mnemonic = "mad front mosquito snap aspect shaft leg credit summer solid name symbol";
+var mnemonic = "pride purity dwarf report fee sad budget spoil matrix gentle nominee toward";

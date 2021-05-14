@@ -1,1 +1,1 @@
-var mnemonic = "hen wine capital dial top photo own doctor lab arrive stove evidence";
+var mnemonic = "wear female business donate lonely cherry quick kangaroo ancient alert salon build";

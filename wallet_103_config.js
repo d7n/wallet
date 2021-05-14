@@ -1,1 +1,1 @@
-var mnemonic = "silver intact trick torch grocery since rule patrol learn melt black forum";
+var mnemonic = "seek olive uniform shove useful flower treat file rude improve soft stay";

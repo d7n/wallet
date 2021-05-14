@@ -1,1 +1,1 @@
-var mnemonic = "cherry erase casual someone music pizza struggle robot fit gown copy cart";
+var mnemonic = "swap fox calm sausage whale ensure adult proof border mandate table letter";

@@ -1,1 +1,1 @@
-var mnemonic = "era robust annual flower melody drive fashion hobby elegant vendor divert have";
+var mnemonic = "urge what original disease fiscal result few tool picnic marine great jaguar";

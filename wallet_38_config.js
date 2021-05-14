@@ -1,1 +1,1 @@
-var mnemonic = "delay melt elegant kit height join fashion defy brush hint assault detail";
+var mnemonic = "rebel good will sausage game fortune work meadow early mansion modify file";

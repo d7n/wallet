@@ -1,1 +1,1 @@
-var mnemonic = "sponsor task magnet emotion vacuum equip reject wise unique machine describe carry";
+var mnemonic = "table vital danger music remember square armor witness atom machine chest menu";

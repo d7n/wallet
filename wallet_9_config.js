@@ -1,1 +1,1 @@
-var mnemonic = "iron chat amount arrive minimum absent give noise climb cereal dinosaur sibling";
+var mnemonic = "gallery boost sustain interest yard insect lady flip throw essay photo deny";

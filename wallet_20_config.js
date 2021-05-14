@@ -1,1 +1,1 @@
-var mnemonic = "aerobic expand wheel profit capital image divert stick key bind during dash";
+var mnemonic = "bulb galaxy twelve cycle wink gentle flat cannon head remain balcony charge";

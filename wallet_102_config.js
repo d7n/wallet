@@ -1,1 +1,1 @@
-var mnemonic = "judge drill together bread any poverty degree derive egg wise lemon hockey";
+var mnemonic = "fatal ozone leg soup rapid system decade skirt exhaust minimum fit veteran";

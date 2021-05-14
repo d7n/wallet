@@ -1,1 +1,1 @@
-var mnemonic = "maze pledge element yellow teach release nurse hawk slogan fatigue claim short";
+var mnemonic = "analyst bless wagon sword age truth spend giraffe history globe average fee";

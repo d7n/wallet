@@ -1,1 +1,1 @@
-var mnemonic = "burden month nasty negative always aspect cherry room arrive must peasant balance";
+var mnemonic = "happy common walnut rail field venue ocean antique drink pet lawn bacon";

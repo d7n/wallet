@@ -1,1 +1,1 @@
-var mnemonic = "amount this leaf brand vivid ivory potato attract what denial cannon action";
+var mnemonic = "figure twice dance amazing tell donate ugly edit cry useful define august";

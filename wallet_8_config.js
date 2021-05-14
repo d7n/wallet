@@ -1,1 +1,1 @@
-var mnemonic = "copy orange slide myself process bulb tent permit million leave drastic drop";
+var mnemonic = "garden chaos blanket fiber future actor panic drip purse lend core bachelor";

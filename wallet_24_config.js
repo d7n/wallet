@@ -1,1 +1,1 @@
-var mnemonic = "truly medal large grunt jacket rebel party copper slab violin exercise miracle";
+var mnemonic = "loop inherit name doll legal spot monster sugar place gap stove primary";

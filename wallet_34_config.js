@@ -1,1 +1,1 @@
-var mnemonic = "spring people wall layer chicken apart aim accident steel inner kidney lucky";
+var mnemonic = "cute soda hurt umbrella math bid note enjoy between come combine curtain";

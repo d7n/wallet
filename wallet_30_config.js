@@ -1,1 +1,1 @@
-var mnemonic = "recycle miss rib away diagram cruise lion web file item time infant";
+var mnemonic = "false skirt huge select chunk ripple olive foot jeans rabbit fitness dry";

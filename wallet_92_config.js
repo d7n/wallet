@@ -1,1 +1,1 @@
-var mnemonic = "inquiry beach luggage order decide lock find cry use frog noise smart";
+var mnemonic = "affair afford royal now impose hover flag mixture waste gauge vacant wrist";

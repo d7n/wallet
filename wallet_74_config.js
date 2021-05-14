@@ -1,1 +1,1 @@
-var mnemonic = "remember tortoise weird pioneer cruise pigeon artwork modify regret enough ready pact";
+var mnemonic = "evil net base label stove lunch cute extend system lift churn index";

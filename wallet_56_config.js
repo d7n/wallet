@@ -1,1 +1,1 @@
-var mnemonic = "salon miss layer prison promote second hollow wonder mail heart wisdom turkey";
+var mnemonic = "animal nominee swallow marriage rail trap invest casual north romance double raccoon";

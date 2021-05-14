@@ -1,1 +1,1 @@
-var mnemonic = "dice enemy gap quality deal teach crystal skirt license rebuild keen cruise";
+var mnemonic = "wild outdoor drive message salad floor summer monster current trim galaxy result";

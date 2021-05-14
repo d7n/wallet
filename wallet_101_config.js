@@ -1,1 +1,1 @@
-var mnemonic = "that dinner zero permit page rough alone wise swarm become monitor torch";
+var mnemonic = "seed arch motor pluck bitter life swing noble noble believe broom man";

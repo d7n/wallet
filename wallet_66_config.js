@@ -1,1 +1,1 @@
-var mnemonic = "burger snake cinnamon wink off speed culture crumble kit other bean medal";
+var mnemonic = "purchase churn weird page run treat toss repeat battle snap rug mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "army seven egg hamster talent fun city other squeeze goddess client stool";
+var mnemonic = "warrior adapt enjoy pact rail segment expose popular accuse short bone basket";

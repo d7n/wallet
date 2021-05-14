@@ -1,1 +1,1 @@
-var mnemonic = "globe bar enact double target spawn strategy axis fault gorilla melody envelope";
+var mnemonic = "latin milk position okay iron among mother any stuff virtual flame gospel";

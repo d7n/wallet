@@ -1,1 +1,1 @@
-var mnemonic = "climb garlic limb hamster tonight defy metal purpose stick lava observe notice";
+var mnemonic = "border puzzle chronic grid possible anger glove expand dial local dress squeeze";

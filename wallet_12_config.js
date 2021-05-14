@@ -1,1 +1,1 @@
-var mnemonic = "curious olympic bomb crisp eight song error good chapter guilt glass toward";
+var mnemonic = "ordinary race hurdle master scout cancel ribbon task fancy profit pen under";

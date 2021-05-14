@@ -1,1 +1,1 @@
-var mnemonic = "health morning clean clip force pig dune myth aisle extend very nothing";
+var mnemonic = "join brave celery bacon very decrease bridge female reduce toast spawn steak";

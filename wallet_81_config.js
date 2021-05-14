@@ -1,1 +1,1 @@
-var mnemonic = "guard pride puppy already top certain vehicle three dumb always favorite excuse";
+var mnemonic = "arena board joke fitness history again right amateur woman estate pulse lady";

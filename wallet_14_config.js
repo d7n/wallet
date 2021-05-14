@@ -1,1 +1,1 @@
-var mnemonic = "wish bleak divert virtual remind image pond basic consider angle siege inflict";
+var mnemonic = "gauge pear worth prize nurse toward frog stadium lend tackle lunar palm";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden young reform black fan behave debris bridge offer pill crew fiction";
+var mnemonic = "uncle bar area shoot mention skirt tobacco mention soft fitness picnic social";

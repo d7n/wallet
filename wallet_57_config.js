@@ -1,1 +1,1 @@
-var mnemonic = "gospel prison gift carbon charge unknown note monitor naive mother pool honey";
+var mnemonic = "autumn artwork thumb survey general level copy nest until rate venue remain";

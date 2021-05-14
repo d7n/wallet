@@ -1,1 +1,1 @@
-var mnemonic = "addict teach build crunch post tank table sword stay tortoise bottom slender";
+var mnemonic = "amount bacon urban ahead disorder degree soldier wool brief install code sunny";

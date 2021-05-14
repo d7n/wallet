@@ -1,1 +1,1 @@
-var mnemonic = "cancel subway innocent dizzy page mule wild fence volcano hope increase ostrich";
+var mnemonic = "mimic cement response genuine draft claim caution donkey tell hen enter suggest";

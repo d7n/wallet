@@ -1,1 +1,1 @@
-var mnemonic = "myself lottery roof come acoustic skate cluster say resist brush photo enter";
+var mnemonic = "afraid borrow echo toy jump put turtle dizzy simple average disease similar";

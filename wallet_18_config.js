@@ -1,1 +1,1 @@
-var mnemonic = "slow rapid achieve protect lumber ski surprise apart casino corn wash planet";
+var mnemonic = "useful spoon robust narrow piece hotel social frequent raw crush employ cancel";

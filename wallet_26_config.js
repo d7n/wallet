@@ -1,1 +1,1 @@
-var mnemonic = "pipe rural bunker hammer clean snack shaft velvet open flash sample tilt";
+var mnemonic = "miracle multiply one neither real oyster series illness enough salad mansion cry";

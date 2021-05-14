@@ -1,1 +1,1 @@
-var mnemonic = "table city train enjoy page lesson crunch cup wave this couple orphan";
+var mnemonic = "arm cute guide witness engine camera gift chimney soon high jazz daughter";

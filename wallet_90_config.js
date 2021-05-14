@@ -1,1 +1,1 @@
-var mnemonic = "hello nurse captain border hair promote now animal more sample kitchen box";
+var mnemonic = "truck flip garden prison mechanic drip gorilla possible lounge must area robot";

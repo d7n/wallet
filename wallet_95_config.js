@@ -1,1 +1,1 @@
-var mnemonic = "width note web slot visual hint total sing twelve real canvas exclude";
+var mnemonic = "dinner enter intact end tent traffic chapter patient simple belt olive famous";

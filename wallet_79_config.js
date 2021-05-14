@@ -1,1 +1,1 @@
-var mnemonic = "minimum easily avocado buddy mansion treat flip excess total save idea another";
+var mnemonic = "steak shuffle bind field eager sausage display lion entire someone right foster";

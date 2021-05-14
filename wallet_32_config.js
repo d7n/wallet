@@ -1,1 +1,1 @@
-var mnemonic = "bring panther crash crew afraid short long reveal trouble swap critic fiction";
+var mnemonic = "source shiver donate wheel bullet ladder success avoid sight satisfy key penalty";

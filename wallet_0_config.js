@@ -1,1 +1,1 @@
-var mnemonic = "grocery acid fall summer recipe know scene receive farm animal luxury clump";
+var mnemonic = "credit banner usual crash latin siege small have nerve absorb physical train";

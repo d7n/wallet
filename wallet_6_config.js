@@ -1,1 +1,1 @@
-var mnemonic = "record fatal knife gift dwarf leaf mention cream mechanic divide pull extend";
+var mnemonic = "mutual paper pudding ladder snake pretty discover keep riot cheese devote tank";

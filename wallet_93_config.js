@@ -1,1 +1,1 @@
-var mnemonic = "scan chase pear wagon peanut unit creek slice body bridge supply edge";
+var mnemonic = "guitar square among income mad flock page asthma arrest fitness critic urban";

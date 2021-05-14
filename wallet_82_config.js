@@ -1,1 +1,1 @@
-var mnemonic = "base display raise crater scan junk depth ramp flat hip cigar record";
+var mnemonic = "planet tornado film unveil cloth quality inflict myth airport video book angry";

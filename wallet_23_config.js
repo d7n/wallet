@@ -1,1 +1,1 @@
-var mnemonic = "rally suggest increase fresh tourist grow boat wine primary clown govern disease";
+var mnemonic = "virtual sort catalog ghost observe then burst wonder hub panda reopen initial";

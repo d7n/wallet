@@ -1,1 +1,1 @@
-var mnemonic = "online trend blanket repair weird easy ritual post abuse wild thought symbol";
+var mnemonic = "lawsuit yellow stadium effort chronic year only mom armed olive present trust";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar defy eager omit raw upon obtain jaguar mom waste crouch uphold";
+var mnemonic = "reopen control nominee vacant filter concert later limit use recall hammer neutral";

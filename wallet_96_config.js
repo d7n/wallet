@@ -1,1 +1,1 @@
-var mnemonic = "column flavor pulse assist swamp nothing check decide oxygen flag usage group";
+var mnemonic = "you meat ahead dry bottom remain harvest inspire light leg work crush";

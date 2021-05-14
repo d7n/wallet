@@ -1,1 +1,1 @@
-var mnemonic = "tumble move boat shed female include home token tortoise field exclude sibling";
+var mnemonic = "coconut art custom prevent dust shadow dance digital armed giggle dismiss hero";

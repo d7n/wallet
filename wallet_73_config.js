@@ -1,1 +1,1 @@
-var mnemonic = "rural eyebrow patch ostrich wife ostrich accuse poem inside inform rabbit weekend";
+var mnemonic = "organ culture hand giant coil excuse ring isolate monster panther caught region";

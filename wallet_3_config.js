@@ -1,1 +1,1 @@
-var mnemonic = "faculty cost audit dismiss detail hybrid cousin gallery speed excess sting omit";
+var mnemonic = "awkward song divert success certain cycle fatal opera water answer only walk";

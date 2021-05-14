@@ -1,1 +1,1 @@
-var mnemonic = "beyond excuse almost tail rotate pilot girl filter nominee merit middle limit";
+var mnemonic = "juice screen setup before inspire else alert embrace lake winner chicken uncle";

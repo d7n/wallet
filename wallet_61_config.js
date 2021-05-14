@@ -1,1 +1,1 @@
-var mnemonic = "desert lady wedding tower wish bargain brave retreat idle life deny quiz";
+var mnemonic = "gallery page burger loan leaf unaware toe search author together utility fat";

@@ -1,1 +1,1 @@
-var mnemonic = "flock again yard daughter mesh sausage collect casino private chase devote people";
+var mnemonic = "cream output stem control divert borrow elbow amazing creek motor wife survey";

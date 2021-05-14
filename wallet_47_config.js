@@ -1,1 +1,1 @@
-var mnemonic = "interest owner harsh spoon hard pass wrestle forest quote smart potato concert";
+var mnemonic = "enhance still time birth pool enhance blossom mother forum grocery cool daring";

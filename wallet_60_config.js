@@ -1,1 +1,1 @@
-var mnemonic = "approve enrich fall express gesture cliff bomb reflect toy scene rail balcony";
+var mnemonic = "venue victory core junior fashion inspire glance snow unit around puppy convince";

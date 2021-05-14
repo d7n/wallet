@@ -1,1 +1,1 @@
-var mnemonic = "lottery enact spell lake cannon crazy much female coach uncle slender plug";
+var mnemonic = "tree iron want rude color scrap lottery scan rubber use goose enable";

@@ -1,1 +1,1 @@
-var mnemonic = "despair exact tube indicate potato practice excuse train alcohol knee angry relief";
+var mnemonic = "hood credit argue trip uniform stock conduct air hand install rather service";

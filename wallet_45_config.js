@@ -1,1 +1,1 @@
-var mnemonic = "brand load illness divide resemble allow coast alert copy object anger mail";
+var mnemonic = "verify biology dry wreck door rare drill flame uphold broom cup frown";

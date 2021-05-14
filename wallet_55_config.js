@@ -1,1 +1,1 @@
-var mnemonic = "olive unique guide tape vacant accuse accuse belt harsh world waste outdoor";
+var mnemonic = "cream begin shove cinnamon slim job canal usage write nothing cloth volcano";

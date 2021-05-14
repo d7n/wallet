@@ -1,1 +1,1 @@
-var mnemonic = "seek chase hill south venture hundred reopen off quality reveal october assault";
+var mnemonic = "glad art breeze whip warfare express squirrel gas solution roast design cable";

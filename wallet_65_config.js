@@ -1,1 +1,1 @@
-var mnemonic = "adapt because enroll fuel toy hurry dawn country horror put despair junior";
+var mnemonic = "drill color desert keen aspect pistol gauge plate invite portion box boil";

@@ -1,1 +1,1 @@
-var mnemonic = "fun prefer assist kid spider imitate shy monkey balcony impact trigger jewel";
+var mnemonic = "foster increase sea come hole aim blade provide lake medal grocery clap";

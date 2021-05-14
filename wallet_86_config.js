@@ -1,1 +1,1 @@
-var mnemonic = "arch narrow lottery resource minor purchase ride raccoon tube coyote escape year";
+var mnemonic = "kite uphold load obscure clinic major violin apple couple update thrive play";

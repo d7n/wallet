@@ -1,1 +1,1 @@
-var mnemonic = "august silly usual seek flag degree allow attend guide cup ketchup predict";
+var mnemonic = "angle suit crane budget thing home assault coffee area recycle pear coil";

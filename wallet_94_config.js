@@ -1,1 +1,1 @@
-var mnemonic = "sunny recall boss orchard scrub theory mother post twenty various own merge";
+var mnemonic = "utility hollow destroy all divert easy card pair glad palm cabbage strong";

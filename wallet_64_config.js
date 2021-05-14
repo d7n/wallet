@@ -1,1 +1,1 @@
-var mnemonic = "trouble sorry game cake mixed twelve kid spy among sadness album science";
+var mnemonic = "into vocal street frozen erosion bar wheat bulk utility salon addict foster";
