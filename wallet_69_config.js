@@ -1,1 +1,1 @@
-var mnemonic = "video invite obey claw step tube pulp actor orient tattoo uncle sweet";
+var mnemonic = "alert brief attend million cute town volume profit inject pyramid stick hold";

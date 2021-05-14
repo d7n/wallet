@@ -1,1 +1,1 @@
-var mnemonic = "layer update angry holiday donate similar trip relief comfort ahead dice market";
+var mnemonic = "decide harvest great pig eternal oak stairs onion pistol regular grocery drink";

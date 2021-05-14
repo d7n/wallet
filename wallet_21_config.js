@@ -1,1 +1,1 @@
-var mnemonic = "usual scrub labor essay whale dizzy laundry borrow fantasy fetch shy time";
+var mnemonic = "power glance slow mean detail absent gather zone mobile paper dawn album";

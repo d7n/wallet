@@ -1,1 +1,1 @@
-var mnemonic = "spring entire old daughter castle water loan flat great energy sponsor luxury";
+var mnemonic = "alone device popular flight midnight connect deer unique certain crumble umbrella hen";

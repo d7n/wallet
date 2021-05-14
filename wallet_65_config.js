@@ -1,1 +1,1 @@
-var mnemonic = "genre donor park output dragon real story lazy science dice exchange champion";
+var mnemonic = "donkey share despair voice east toe coffee display engine today era veteran";

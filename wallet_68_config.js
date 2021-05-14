@@ -1,1 +1,1 @@
-var mnemonic = "improve flash debris carry fish recycle begin notable dinner gadget buffalo swap";
+var mnemonic = "taste assault brush chat regular hard popular eager fee bring donkey pond";

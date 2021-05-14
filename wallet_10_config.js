@@ -1,1 +1,1 @@
-var mnemonic = "genuine shed scout movie current leopard bag spoon ozone walk term popular";
+var mnemonic = "click wine universe since aspect control fitness neutral mercy kind cherry immense";

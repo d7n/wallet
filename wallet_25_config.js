@@ -1,1 +1,1 @@
-var mnemonic = "oil beauty fiction piano motor trip grunt bundle gentle observe stove curve";
+var mnemonic = "robot satisfy invest bonus hello hint drop harvest mesh office rural orbit";

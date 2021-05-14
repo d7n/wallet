@@ -1,1 +1,1 @@
-var mnemonic = "fortune rude version era shiver pilot sea wealth monster demise dignity basket";
+var mnemonic = "afraid equip source whale answer hotel private bullet filter talk story banana";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork away drift addict gorilla sense attract wall meat rebel method night";
+var mnemonic = "cupboard language blush hurt bitter coil three sell pledge quick buddy churn";

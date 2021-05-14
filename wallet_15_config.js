@@ -1,1 +1,1 @@
-var mnemonic = "visa betray lunch awesome minimum uniform frame pepper squeeze quarter leopard innocent";
+var mnemonic = "ticket gaze identify tourist icon flock dune cloth knee shell december grocery";

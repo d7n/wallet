@@ -1,1 +1,1 @@
-var mnemonic = "sibling omit will system green describe nose shy patient green cousin install";
+var mnemonic = "virus vacuum chimney eight bright banner neither broom rally ostrich tooth rail";

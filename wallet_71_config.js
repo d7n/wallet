@@ -1,1 +1,1 @@
-var mnemonic = "tool soap whisper seek enjoy grit ride cliff novel mandate world toward";
+var mnemonic = "captain orbit civil business emerge sea peace primary wrist creek perfect steak";

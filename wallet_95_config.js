@@ -1,1 +1,1 @@
-var mnemonic = "mutual novel ugly tuition icon lamp drum figure lizard stone around hockey";
+var mnemonic = "bullet hour upper case divorce page black vital strong stuff cube collect";

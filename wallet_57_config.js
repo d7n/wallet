@@ -1,1 +1,1 @@
-var mnemonic = "crash orphan vocal tooth lion winter universe valid purchase stove focus attend";
+var mnemonic = "concert green fragile insect unaware onion minute luggage problem word diagram explain";

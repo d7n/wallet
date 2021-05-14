@@ -1,1 +1,1 @@
-var mnemonic = "unveil burst month runway polar enroll stool type random valley climb thumb";
+var mnemonic = "goat glance avocado raise domain coconut end little ensure bone imitate little";

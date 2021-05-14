@@ -1,1 +1,1 @@
-var mnemonic = "dignity toddler gossip century science trash chunk spawn abstract shoe flight afraid";
+var mnemonic = "wave crane member style sure flavor thing bachelor wild will pulse idea";

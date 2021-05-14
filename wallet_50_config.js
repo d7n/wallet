@@ -1,1 +1,1 @@
-var mnemonic = "birth element repeat dignity guard reform figure palace space teach process weapon";
+var mnemonic = "fever identify section street safe acoustic worth funny adapt repeat corn moment";

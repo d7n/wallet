@@ -1,1 +1,1 @@
-var mnemonic = "cherry tribe device process auto blind perfect craft manage decade trouble grief";
+var mnemonic = "barrel chest cattle fold thought labor increase picnic gentle equal power budget";

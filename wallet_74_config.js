@@ -1,1 +1,1 @@
-var mnemonic = "antique summer sign penalty caught art clown grocery slab junior nuclear duty";
+var mnemonic = "uncover order replace split dizzy stool donate horn food mask evil object";

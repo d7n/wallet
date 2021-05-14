@@ -1,1 +1,1 @@
-var mnemonic = "orchard elbow roof muffin noble stool green grunt wild index drift similar";
+var mnemonic = "flock velvet kiss sponsor hurry apple master error morning labor cat file";

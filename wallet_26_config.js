@@ -1,1 +1,1 @@
-var mnemonic = "calm whisper away observe normal vital garment method bracket warm win tool";
+var mnemonic = "foil little flat oyster elegant ill slam biology nation strategy achieve hover";

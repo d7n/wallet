@@ -1,1 +1,1 @@
-var mnemonic = "rather pepper foam few range jump orphan salute sugar moment kid hidden";
+var mnemonic = "harbor umbrella exotic elegant crunch gallery member order fog debate ketchup pupil";

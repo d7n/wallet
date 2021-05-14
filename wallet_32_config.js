@@ -1,1 +1,1 @@
-var mnemonic = "quality illness bird toy mansion picnic idle corn surround uncover twelve grace";
+var mnemonic = "adapt media inform rude rookie object account seat base rib model clever";

@@ -1,1 +1,1 @@
-var mnemonic = "jar rather panel combine slide wolf jacket garbage educate bone warm crop";
+var mnemonic = "garment carpet inhale reform album priority fog federal curious gold simple school";

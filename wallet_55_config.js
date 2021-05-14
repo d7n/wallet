@@ -1,1 +1,1 @@
-var mnemonic = "obtain globe rabbit buyer congress market voice almost mean drastic hobby sad";
+var mnemonic = "company example distance skull connect scout grab fade oxygen film hope scene";

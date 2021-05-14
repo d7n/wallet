@@ -1,1 +1,1 @@
-var mnemonic = "budget advice elegant wedding enhance brand pear buzz cigar silver situate lake";
+var mnemonic = "pretty album border adapt obey life wolf seven twin dutch vacuum few";

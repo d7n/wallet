@@ -1,1 +1,1 @@
-var mnemonic = "mesh swamp theme noble muffin cave model ketchup zoo fence country disagree";
+var mnemonic = "excuse strike stand devote fee oxygen cup kite chimney case bulb mansion";

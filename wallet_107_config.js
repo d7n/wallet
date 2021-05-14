@@ -1,1 +1,1 @@
-var mnemonic = "ride limb tape bunker magnet equal physical window solve library dust spatial";
+var mnemonic = "seven razor boat eyebrow battle general clerk hybrid review exact high regret";

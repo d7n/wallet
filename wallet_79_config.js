@@ -1,1 +1,1 @@
-var mnemonic = "edit symbol adapt hair enroll august supreme when script wing waste anxiety";
+var mnemonic = "cart gasp manual shaft basket trade cheese exhaust page year alarm tennis";

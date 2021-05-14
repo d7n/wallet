@@ -1,1 +1,1 @@
-var mnemonic = "above scorpion matrix noodle fitness grief good physical only defy verb inherit";
+var mnemonic = "own stool mesh embody napkin news cargo brave hip fence skill turkey";

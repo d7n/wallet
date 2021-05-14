@@ -1,1 +1,1 @@
-var mnemonic = "above lyrics escape divide ugly faint fiber bread sweet idea ethics olympic";
+var mnemonic = "vacant enroll harbor naive tongue basket spin ladder fold swim forest forest";

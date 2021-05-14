@@ -1,1 +1,1 @@
-var mnemonic = "work primary arrest float like cube rule feel speak siren episode hybrid";
+var mnemonic = "legend evolve brand trim theory ride banana glass swear purpose lawn story";

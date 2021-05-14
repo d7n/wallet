@@ -1,1 +1,1 @@
-var mnemonic = "wash live exact era drill will brown border deal promote borrow model";
+var mnemonic = "wheat zero cake give glass kingdom train amateur purchase region club weapon";

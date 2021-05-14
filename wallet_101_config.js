@@ -1,1 +1,1 @@
-var mnemonic = "march staff alter galaxy false tongue focus crew deny cash layer donor";
+var mnemonic = "genre element discover lecture alter pudding teach next diet maple exhibit luggage";

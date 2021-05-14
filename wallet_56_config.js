@@ -1,1 +1,1 @@
-var mnemonic = "mass milk march work cat coach when rug grit keep alcohol protect";
+var mnemonic = "inflict spread dial marble prevent humor uniform battle excite oven hood valid";

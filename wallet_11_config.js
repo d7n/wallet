@@ -1,1 +1,1 @@
-var mnemonic = "title occur snap praise blanket middle label click pulp modify fatal trick";
+var mnemonic = "trumpet relief response fashion shuffle dignity despair car little bag verb connect";

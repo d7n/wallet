@@ -1,1 +1,1 @@
-var mnemonic = "turn ship cannon miss trim cycle adjust discover combine balance sunny tail";
+var mnemonic = "top business fold cousin grow permit utility setup banana like dirt develop";

@@ -1,1 +1,1 @@
-var mnemonic = "stock twin sausage surface horror brown lesson reopen crucial clutch hub crumble";
+var mnemonic = "idea lucky armor zone right jelly valve diet since coffee sun unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse oxygen practice loop female public jar decline table bridge caught length";
+var mnemonic = "drive spike stem approve rug cereal comic seek canvas stay unveil sort";

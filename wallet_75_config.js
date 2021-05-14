@@ -1,1 +1,1 @@
-var mnemonic = "swing conduct history interest squirrel example yard insect property reopen regret borrow";
+var mnemonic = "enrich level antenna shaft oval hobby reveal grant mix swear angry acquire";

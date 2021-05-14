@@ -1,1 +1,1 @@
-var mnemonic = "inner foot champion collect resource roof inch hub lyrics indoor age forest";
+var mnemonic = "chimney worry energy educate female flame room arrow liberty ill right sick";

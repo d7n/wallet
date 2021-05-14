@@ -1,1 +1,1 @@
-var mnemonic = "syrup purpose reward dentist physical food fox online jacket south draw mixed";
+var mnemonic = "robust episode repeat guitar mule carry acquire winner analyst captain coin flip";

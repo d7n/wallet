@@ -1,1 +1,1 @@
-var mnemonic = "allow sad sauce grid skate permit soccer friend margin report jungle clutch";
+var mnemonic = "debris arrange flip brand betray very nerve wedding doll retire garbage erase";

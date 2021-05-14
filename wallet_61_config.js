@@ -1,1 +1,1 @@
-var mnemonic = "meadow poem effort rural exit humor patrol inject stuff kiwi relax zero";
+var mnemonic = "code doctor detail swallow law thunder bread either alone quiz during blossom";

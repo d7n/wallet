@@ -1,1 +1,1 @@
-var mnemonic = "because skirt main later horn such high volume faint actress sentence ten";
+var mnemonic = "attend twelve today offer stomach size amazing citizen void tag initial solution";

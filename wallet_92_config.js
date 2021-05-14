@@ -1,1 +1,1 @@
-var mnemonic = "number record stand degree distance dad coyote orbit cherry crime mercy card";
+var mnemonic = "dilemma edge bring weapon check elite clown round scare moon weather drop";

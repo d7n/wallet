@@ -1,1 +1,1 @@
-var mnemonic = "pull version scout dawn damage adapt idea negative nurse ocean sunset dash";
+var mnemonic = "conduct identify holiday hobby physical beyond wolf fame poem dry doctor tail";

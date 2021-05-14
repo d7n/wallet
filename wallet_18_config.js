@@ -1,1 +1,1 @@
-var mnemonic = "curious token assume drum pet alert evolve benefit symbol orphan glimpse birth";
+var mnemonic = "fossil congress vague brave blur unlock shock track age globe travel car";

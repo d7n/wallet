@@ -1,1 +1,1 @@
-var mnemonic = "bundle elbow outdoor sudden song whale rude cement power thought alien subject";
+var mnemonic = "pride gadget day piece aspect exile banner purse gain spice material glass";

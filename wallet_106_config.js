@@ -1,1 +1,1 @@
-var mnemonic = "treat salmon skull cousin clutch ketchup elite unknown any math stand iron";
+var mnemonic = "wrong glad guard joke invest task deer yellow pitch fantasy ahead bomb";

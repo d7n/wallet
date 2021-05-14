@@ -1,1 +1,1 @@
-var mnemonic = "sustain retreat oven crouch weekend ozone whisper silly prosper below spawn notice";
+var mnemonic = "comic another uphold more theory found joy law gossip crane detect harsh";

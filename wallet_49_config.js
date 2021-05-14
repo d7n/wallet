@@ -1,1 +1,1 @@
-var mnemonic = "rifle glad jelly zero upper couple type body spike pool portion bus";
+var mnemonic = "dog february jeans tonight photo eight man develop flip tribe light surround";

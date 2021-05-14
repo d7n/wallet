@@ -1,1 +1,1 @@
-var mnemonic = "soul news during before furnace demise actress rigid immense wise virus wood";
+var mnemonic = "talent region indicate repeat wrap siren radio fox recall march return require";

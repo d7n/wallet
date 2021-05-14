@@ -1,1 +1,1 @@
-var mnemonic = "excuse train slight virtual mutual grass apology mystery between trigger kingdom future";
+var mnemonic = "denial hole airport real retire action history alone visual option rare lab";

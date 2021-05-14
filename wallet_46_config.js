@@ -1,1 +1,1 @@
-var mnemonic = "arrest error say zone change proud acquire method differ trumpet grass radio";
+var mnemonic = "throw penalty dog unlock eagle chef elevator orbit target bachelor raise satoshi";

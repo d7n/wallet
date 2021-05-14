@@ -1,1 +1,1 @@
-var mnemonic = "agent coach soon damp reject tent baby maple favorite enforce tiger taste";
+var mnemonic = "rail guard brain wink venue vault soda bridge sponsor fault blast motion";

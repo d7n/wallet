@@ -1,1 +1,1 @@
-var mnemonic = "toe kit license axis sketch hill sugar banner name cat aunt company";
+var mnemonic = "economy long valley toddler upon educate truth august flip stool intact lizard";

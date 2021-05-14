@@ -1,1 +1,1 @@
-var mnemonic = "between naive act cabbage chunk rail drop flush book test spike parent";
+var mnemonic = "purity toast message slogan sell tent chat spend buddy guitar cabin artwork";

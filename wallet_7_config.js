@@ -1,1 +1,1 @@
-var mnemonic = "plate profit garbage rare enemy critic impact comic clinic window goose able";
+var mnemonic = "normal fragile idle horse tomato half grain spike seat tragic know sport";

@@ -1,1 +1,1 @@
-var mnemonic = "security slide special hamster include valley sword soap occur display trap test";
+var mnemonic = "desert inherit melt soon gauge manual true mention cinnamon melt victory stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "today chaos defy wait cute flag draw faculty mystery connect praise immune";
+var mnemonic = "enforce devote group uniform brain lawn stomach glad bus air seed include";

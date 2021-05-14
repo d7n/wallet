@@ -1,1 +1,1 @@
-var mnemonic = "unable faculty search image cry mountain famous nurse catch erase impulse outer";
+var mnemonic = "track tumble power soldier artist cage cabbage adapt hello athlete local replace";

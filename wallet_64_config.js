@@ -1,1 +1,1 @@
-var mnemonic = "aerobic fabric champion train regular field giant crumble viable flash naive never";
+var mnemonic = "surprise settle major another below envelope skate lens general fantasy seminar alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "success penalty visa giraffe advice behind pen endorse gravity laundry verify camp";
+var mnemonic = "lottery kite gift snack fire web moon weekend visa rescue oblige way";

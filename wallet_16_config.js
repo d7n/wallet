@@ -1,1 +1,1 @@
-var mnemonic = "glad pluck modify arrow example local area satisfy machine favorite mango ankle";
+var mnemonic = "three pioneer throw jungle radar reflect describe alone tell salute tooth crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "home crop donate lonely cross penalty destroy initial injury spot genius amateur";
+var mnemonic = "depend tissue afford fan brief price junk tree more ball age rubber";

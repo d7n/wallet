@@ -1,1 +1,1 @@
-var mnemonic = "duty entry avoid rebuild tonight health anxiety orphan brief give leg equip";
+var mnemonic = "can gym news flight train disease budget key word arrow tomorrow dumb";

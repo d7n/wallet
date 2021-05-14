@@ -1,1 +1,1 @@
-var mnemonic = "afraid finger laugh best stuff approve step piano decline forward fiction magic";
+var mnemonic = "leaf dilemma arrest promote addict glow year knock more easily palace skirt";

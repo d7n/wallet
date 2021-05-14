@@ -1,1 +1,1 @@
-var mnemonic = "energy jelly cupboard prevent time random curtain crime benefit live silver devote";
+var mnemonic = "usage hammer harbor rebel brief wet same mouse modify wedding chunk track";

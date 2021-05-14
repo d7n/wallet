@@ -1,1 +1,1 @@
-var mnemonic = "happy salon blouse joy rain avoid whale name exit hurry govern hope";
+var mnemonic = "enact rebel pizza cause beach enable tattoo zero help goddess drama first";

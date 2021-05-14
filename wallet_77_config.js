@@ -1,1 +1,1 @@
-var mnemonic = "normal people blame cinnamon online trust fly match dragon gift squeeze measure";
+var mnemonic = "lake express quote copy okay pact cover marriage rabbit banner anger long";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter embrace chunk peace window robot finger fortune soldier afraid nasty elevator";
+var mnemonic = "equip battle arm sudden fossil reopen talent arrive biology ginger farm merge";

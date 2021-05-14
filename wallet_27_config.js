@@ -1,1 +1,1 @@
-var mnemonic = "orchard search tribe now blur sound alone rhythm twin brass palm fan";
+var mnemonic = "speed hammer harbor try police accuse mom crouch rely gentle bean churn";

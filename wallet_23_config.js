@@ -1,1 +1,1 @@
-var mnemonic = "skirt public awkward quality hill first fabric rookie fiction quick random pond";
+var mnemonic = "pluck usage rabbit sun hat elder employ very float below attack alert";

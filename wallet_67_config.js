@@ -1,1 +1,1 @@
-var mnemonic = "mobile sister tuition feature butter meat emerge math assist future female tumble";
+var mnemonic = "canal throw expand prison antique produce advice safe skirt return benefit material";

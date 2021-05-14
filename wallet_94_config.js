@@ -1,1 +1,1 @@
-var mnemonic = "patch someone capital leisure until good panic grab atom tissue merge jeans";
+var mnemonic = "ride route kangaroo model top run issue cash tribe wrestle lottery escape";

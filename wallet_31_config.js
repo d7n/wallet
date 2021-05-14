@@ -1,1 +1,1 @@
-var mnemonic = "decrease sausage burger deal source rookie pizza test matter property leave wheel";
+var mnemonic = "hood wire enjoy profit cherry blame display sauce okay mutual column raw";

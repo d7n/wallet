@@ -1,1 +1,1 @@
-var mnemonic = "night fresh mystery intact online clerk bless desert upon kitchen joke duck";
+var mnemonic = "act tray physical hidden edit vacant yellow vendor depend mammal can flush";

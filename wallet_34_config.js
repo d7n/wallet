@@ -1,1 +1,1 @@
-var mnemonic = "seminar equal position skill twenty knife elbow bean wealth festival dash soda";
+var mnemonic = "crazy nothing kitten prize blame network before hospital stuff mirror tone oval";

@@ -1,1 +1,1 @@
-var mnemonic = "odor coral debris maze evolve regret ocean ugly degree glass whip creek";
+var mnemonic = "disagree void stumble library benefit clinic fury under snake neutral critic kind";

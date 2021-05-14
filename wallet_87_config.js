@@ -1,1 +1,1 @@
-var mnemonic = "smooth someone moon inch version ugly benefit evoke paper blush genre gospel";
+var mnemonic = "manual art problem later crop palace birth brisk vocal aspect hover reunion";

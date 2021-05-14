@@ -1,1 +1,1 @@
-var mnemonic = "spawn hotel camera current repair model radar diesel prize spend cushion excess";
+var mnemonic = "board have genius garbage nurse scrap unique eagle pen column crouch smile";

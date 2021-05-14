@@ -1,1 +1,1 @@
-var mnemonic = "calm level coconut concert under orange burger rare chase sea scorpion glass";
+var mnemonic = "cliff garbage move reject seat female pilot clay anxiety horse more olympic";

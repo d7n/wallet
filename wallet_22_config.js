@@ -1,1 +1,1 @@
-var mnemonic = "vehicle much random dress off venture cream loan relax syrup major summer";
+var mnemonic = "endorse subject next bless giggle audit once knock peasant income goat loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic unable alien famous century intact prison eyebrow convince source blue field";
+var mnemonic = "road govern doll express ozone prison term neck please october scorpion response";

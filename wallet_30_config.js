@@ -1,1 +1,1 @@
-var mnemonic = "foil soldier enlist relax calm clip elephant green tip dutch marble better";
+var mnemonic = "bleak green outer rigid noise surface west truth weird garment such will";

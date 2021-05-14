@@ -1,1 +1,1 @@
-var mnemonic = "rural illegal habit clip paper powder soft hammer secret dinner fault farm";
+var mnemonic = "idle gesture amateur laugh decrease remove proud build couch faculty drill seminar";

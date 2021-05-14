@@ -1,1 +1,1 @@
-var mnemonic = "identify island exclude various either culture cake snap energy disease grunt tomato";
+var mnemonic = "holiday wrong sadness cruel luxury envelope clutch clay grant lazy soul barrel";

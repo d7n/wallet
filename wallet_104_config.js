@@ -1,1 +1,1 @@
-var mnemonic = "fabric lake idle object cactus alarm forum length foam toast image check";
+var mnemonic = "hidden cook voyage panic tilt member ugly shoulder barely shed time discover";
