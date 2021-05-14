@@ -1,1 +1,1 @@
-var mnemonic = "injury hamster exile save cycle intact venue mobile dial always lesson fine";
+var mnemonic = "family conduct gift glide grape feed reason horse play tragic alone possible";

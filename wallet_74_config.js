@@ -1,1 +1,1 @@
-var mnemonic = "turtle dry harbor analyst rubber park desert leave hybrid frozen tell broccoli";
+var mnemonic = "village erase scorpion castle tiger reduce skull expand despair around civil economy";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber tell juice blouse circle region planet decline arm problem huge impose";
+var mnemonic = "rally gown monster clinic tool rice lazy tilt gate upper garment engage";

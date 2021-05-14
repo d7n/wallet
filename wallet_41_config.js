@@ -1,1 +1,1 @@
-var mnemonic = "year arm draw avocado luxury sell various happy rack blanket blouse brother";
+var mnemonic = "rookie produce radio peasant rack brand vibrant garlic tree stairs inside husband";

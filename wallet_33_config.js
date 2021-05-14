@@ -1,1 +1,1 @@
-var mnemonic = "soul goddess script purpose pumpkin engage force blanket foil across cherry oven";
+var mnemonic = "trick door talent narrow caught famous cloud mail zone pyramid frown follow";

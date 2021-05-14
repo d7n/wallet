@@ -1,1 +1,1 @@
-var mnemonic = "airport explain invite fiscal apology pause scan squirrel hip because busy mail";
+var mnemonic = "asthma guide sight pair cost match chat minimum tourist minimum toy economy";

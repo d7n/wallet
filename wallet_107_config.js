@@ -1,1 +1,1 @@
-var mnemonic = "claw silly spell moment buyer reunion zone unusual polar hurdle royal various";
+var mnemonic = "submit sunset cube poverty pumpkin taste hidden spatial essay deliver flag pull";

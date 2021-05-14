@@ -1,1 +1,1 @@
-var mnemonic = "during card submit disagree review deal tonight ripple ability taxi arch flush";
+var mnemonic = "slide dignity detail consider twenty burger napkin wood hollow rocket merge essence";

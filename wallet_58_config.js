@@ -1,1 +1,1 @@
-var mnemonic = "pigeon slam knee wrap sphere cool bargain test cherry habit panda plug";
+var mnemonic = "stumble elevator farm upper that arrest beyond trouble undo chair point pitch";

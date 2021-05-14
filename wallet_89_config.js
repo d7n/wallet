@@ -1,1 +1,1 @@
-var mnemonic = "kind alone custom symbol intact color refuse spray embody deal insane doctor";
+var mnemonic = "accident toe trial dad outdoor acid broccoli poem danger world street stuff";

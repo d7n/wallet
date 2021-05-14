@@ -1,1 +1,1 @@
-var mnemonic = "opera put act force guard siren jewel scale pause tilt actress manual";
+var mnemonic = "reward latin winter reason health noodle remind east agent vintage future actor";

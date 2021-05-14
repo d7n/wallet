@@ -1,1 +1,1 @@
-var mnemonic = "snap flag spend ugly exist useful group donor beauty length seek knee";
+var mnemonic = "equal rookie income menu point evoke neck hazard team casual bulb twist";

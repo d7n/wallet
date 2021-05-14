@@ -1,1 +1,1 @@
-var mnemonic = "smart wrap ice rebel devote stairs riot skirt come mean company rotate";
+var mnemonic = "effort fire love student saddle master alcohol fault move also despair extra";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty nerve parade mango crouch vendor grape uphold nose mad honey oak";
+var mnemonic = "destroy proof wear property believe drive amazing vacant execute chalk wisdom example";

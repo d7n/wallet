@@ -1,1 +1,1 @@
-var mnemonic = "ecology evil smile renew voice vehicle sad fatal copy soon frost sound";
+var mnemonic = "robust dance scatter oyster erupt pencil job cruel misery unaware holiday enact";

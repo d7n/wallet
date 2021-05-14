@@ -1,1 +1,1 @@
-var mnemonic = "goddess axis car flush air noble figure calm flight demand rotate rain";
+var mnemonic = "town coil virus asset parrot smart trumpet expand keep about cave abstract";

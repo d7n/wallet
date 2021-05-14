@@ -1,1 +1,1 @@
-var mnemonic = "hockey mosquito rotate turn anger near legend member vicious turkey genre gallery";
+var mnemonic = "seat speak hair page kingdom middle build melody hub addict inmate demand";

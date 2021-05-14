@@ -1,1 +1,1 @@
-var mnemonic = "suggest energy leg grocery assist hold mosquito mutual comfort birth gather skull";
+var mnemonic = "roof head sausage primary turn one walk crack cute mom bounce blue";

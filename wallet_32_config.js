@@ -1,1 +1,1 @@
-var mnemonic = "cradle simple capital deny lab increase lucky labor attract unable nuclear vicious";
+var mnemonic = "pave defy crouch badge worth predict web wolf two found obtain such";

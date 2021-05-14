@@ -1,1 +1,1 @@
-var mnemonic = "run public hat father game escape derive dry bread choice bamboo scrap";
+var mnemonic = "burger clutch abstract atom obscure other myself can ability garbage beauty kiwi";

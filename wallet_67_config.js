@@ -1,1 +1,1 @@
-var mnemonic = "boy acquire firm exact space finger marine hawk canyon inner chat actress";
+var mnemonic = "vendor awake lab timber bid exist adjust hope youth always find people";

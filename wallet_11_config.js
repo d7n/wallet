@@ -1,1 +1,1 @@
-var mnemonic = "fine bean place stock doll post drip attack middle prize maple trend";
+var mnemonic = "silver develop duty clerk museum front dwarf mobile mad negative alpha canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "churn echo eagle give unfair slender mushroom beef nasty waste almost minor";
+var mnemonic = "discover since idea write actress brown fee comic car lift silver boring";

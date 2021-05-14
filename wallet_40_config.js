@@ -1,1 +1,1 @@
-var mnemonic = "group oval expect enough place fruit exchange plug knock broccoli echo permit";
+var mnemonic = "judge cube render try upon where salad example ozone defy cream dust";

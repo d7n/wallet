@@ -1,1 +1,1 @@
-var mnemonic = "main judge brave sleep blame soft discover fold use across attract pave";
+var mnemonic = "sea happy weird alert vapor rival label menu purchase chapter retire obtain";

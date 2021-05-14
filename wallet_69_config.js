@@ -1,1 +1,1 @@
-var mnemonic = "push excuse valve humble warm cousin wave immune differ language angle bone";
+var mnemonic = "obscure laundry shaft jungle sad spatial soft remind follow opinion market accuse";

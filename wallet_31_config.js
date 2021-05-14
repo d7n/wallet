@@ -1,1 +1,1 @@
-var mnemonic = "flat clip piece dance coach olympic forum present delay buffalo faint bomb";
+var mnemonic = "knock viable before subject neck young pride rare pipe trust moral soap";

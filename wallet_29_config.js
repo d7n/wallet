@@ -1,1 +1,1 @@
-var mnemonic = "boil coyote shock true sort enable lake napkin position oyster meat opera";
+var mnemonic = "clump amount typical combine rival opinion man bulb peace vicious cute dutch";

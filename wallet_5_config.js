@@ -1,1 +1,1 @@
-var mnemonic = "captain tobacco trash decade canal girl state pioneer warrior verify misery tilt";
+var mnemonic = "unfair pyramid usual lock salute fancy various hamster carbon amateur cinnamon echo";

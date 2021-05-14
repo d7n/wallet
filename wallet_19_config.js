@@ -1,1 +1,1 @@
-var mnemonic = "program kitten push chimney zero nation filter auto pilot voyage history dirt";
+var mnemonic = "ritual dignity endorse rice apart audit radio bracket inhale feel fault brief";

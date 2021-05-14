@@ -1,1 +1,1 @@
-var mnemonic = "zebra act mutual uphold labor comic rain road tray float bomb choose";
+var mnemonic = "innocent flash initial damage load seven corn cash shoot multiply coral better";

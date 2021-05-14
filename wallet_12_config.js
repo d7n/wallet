@@ -1,1 +1,1 @@
-var mnemonic = "elder glare copper never honey globe flee over police blind merry school";
+var mnemonic = "title category crack notice crouch moon draw exact split offer test sunset";

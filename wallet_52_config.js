@@ -1,1 +1,1 @@
-var mnemonic = "notice chair skirt enforce evolve stock feed tuna cousin raccoon foil image";
+var mnemonic = "exit model chunk library country crack powder enough pistol forest harbor cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion auction grain exile video essay water pepper rent paddle grocery stable";
+var mnemonic = "humor alone banana ship pool address magic genuine april wide limb reason";

@@ -1,1 +1,1 @@
-var mnemonic = "oil toy acquire soup deer midnight edge differ shy insane drum gaze";
+var mnemonic = "ridge auction mandate top pigeon thunder piano lens afraid taxi pave until";

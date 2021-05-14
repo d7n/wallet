@@ -1,1 +1,1 @@
-var mnemonic = "define breeze front secret comfort tiger fall puzzle congress erase trash cradle";
+var mnemonic = "ranch three organ holiday rigid swing outdoor open bid decide urban another";

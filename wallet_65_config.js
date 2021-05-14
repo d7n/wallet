@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cart drastic trick maze match pupil bean gloom bicycle since select";
+var mnemonic = "divorce post will thing verify mention snack correct atom lab camera then";

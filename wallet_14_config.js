@@ -1,1 +1,1 @@
-var mnemonic = "tribe life reduce master tree twin gravity live slender main soap praise";
+var mnemonic = "science cause panther define believe tent gorilla tuition ten sort option turkey";

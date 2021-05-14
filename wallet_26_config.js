@@ -1,1 +1,1 @@
-var mnemonic = "grass work find switch increase grass fish mixture cycle tissue blade right";
+var mnemonic = "piece main spy bicycle celery service frog silver brown pigeon alter firm";

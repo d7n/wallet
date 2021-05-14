@@ -1,1 +1,1 @@
-var mnemonic = "auto region myth tonight december immense regret copper add pistol shuffle pause";
+var mnemonic = "now canvas base disagree tired captain always smooth shoot purse unaware badge";

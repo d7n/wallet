@@ -1,1 +1,1 @@
-var mnemonic = "pink brand permit stamp permit awake rival donor thumb reopen three caution";
+var mnemonic = "flat idea ten arch door drama badge clog baby leave own olympic";

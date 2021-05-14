@@ -1,1 +1,1 @@
-var mnemonic = "silk window electric volume reveal warrior swift teach giggle add clerk venture";
+var mnemonic = "inflict left giggle emerge march blood stem bachelor venture depart flower way";

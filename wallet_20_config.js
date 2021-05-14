@@ -1,1 +1,1 @@
-var mnemonic = "disagree quiz disorder trip master banner sustain silk lottery include dynamic warm";
+var mnemonic = "inflict fantasy dutch betray smoke notable ability craft live rocket believe model";

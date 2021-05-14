@@ -1,1 +1,1 @@
-var mnemonic = "round thing scrap enough destroy clerk crazy must supply pen steak void";
+var mnemonic = "demise grunt fever leopard whip inhale draft use gravity news road below";

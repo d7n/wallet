@@ -1,1 +1,1 @@
-var mnemonic = "buddy breeze bachelor bag simple until afford plunge relief voice corn unfold";
+var mnemonic = "judge ostrich profit artist pelican session false friend trick tornado exact trim";

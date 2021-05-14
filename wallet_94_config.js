@@ -1,1 +1,1 @@
-var mnemonic = "cushion phone wreck still thumb priority tongue piece plate ten skirt build";
+var mnemonic = "method blind length pair bamboo all jazz rate fringe lonely brass hard";

@@ -1,1 +1,1 @@
-var mnemonic = "flip arctic blood grape top naive circle honey leg warfare gold win";
+var mnemonic = "shove chalk shop hand hazard laugh cool march lend decorate still grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp fossil silent else hip decrease clump flat record shell local sweet";
+var mnemonic = "early penalty rose someone era raise display host coin minor wait useful";

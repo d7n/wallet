@@ -1,1 +1,1 @@
-var mnemonic = "blast gain upper legend cool shiver dwarf leader stomach sing present breeze";
+var mnemonic = "fuel high wheel spike upset echo purse stock country depart manage hedgehog";

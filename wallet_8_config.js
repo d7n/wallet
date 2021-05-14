@@ -1,1 +1,1 @@
-var mnemonic = "derive purchase tribe trade blossom connect arm online size saddle brick boss";
+var mnemonic = "toss eagle morning frequent autumn message dwarf syrup off plunge december coast";

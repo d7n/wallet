@@ -1,1 +1,1 @@
-var mnemonic = "payment sock gravity patient else among trigger hurt sponsor deliver fiscal add";
+var mnemonic = "brand salon more impose similar wild negative pretty recall reason sphere educate";

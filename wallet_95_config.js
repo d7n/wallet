@@ -1,1 +1,1 @@
-var mnemonic = "clarify escape effort regular moral lounge cream program paddle mind animal require";
+var mnemonic = "into yellow duck phone crime equal again strike raccoon human tribe gesture";

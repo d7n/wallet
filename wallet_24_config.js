@@ -1,1 +1,1 @@
-var mnemonic = "manual angle indicate still fringe boost lumber dawn shaft travel vapor cluster";
+var mnemonic = "galaxy remove amount express strike pair episode wheel ice bracket embody proud";

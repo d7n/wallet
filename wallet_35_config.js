@@ -1,1 +1,1 @@
-var mnemonic = "about size joy attitude inhale tree lend cover three embrace mango dog";
+var mnemonic = "round intact key turn gadget soccer success aim jazz regret right few";

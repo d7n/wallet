@@ -1,1 +1,1 @@
-var mnemonic = "couch avoid ship short region absent initial team athlete poem innocent diagram";
+var mnemonic = "sun cabbage middle gas peasant digital crystal inquiry beach marble term buffalo";

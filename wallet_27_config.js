@@ -1,1 +1,1 @@
-var mnemonic = "token track praise pledge garden shoulder real way deposit miracle bottom culture";
+var mnemonic = "luggage track defense train prize auto wild venture illegal drop congress live";

@@ -1,1 +1,1 @@
-var mnemonic = "alley ginger share help dove flight film usual base scrap typical motion";
+var mnemonic = "trigger select theory want unusual leisure stove view during sweet jacket uniform";

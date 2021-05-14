@@ -1,1 +1,1 @@
-var mnemonic = "close merry deer submit merry pelican soldier trigger humble garment weekend ice";
+var mnemonic = "repair bird maple scatter ice grunt wrestle today actual human boat secret";

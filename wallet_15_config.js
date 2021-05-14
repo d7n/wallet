@@ -1,1 +1,1 @@
-var mnemonic = "fever snack grace vintage brand cube analyst employ negative logic tail current";
+var mnemonic = "dawn blanket joy glide accuse bean kiss insect hotel steak dinner tone";

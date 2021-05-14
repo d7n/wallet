@@ -1,1 +1,1 @@
-var mnemonic = "olympic inquiry dust banner normal frog spring force mistake fence rally hybrid";
+var mnemonic = "flat daughter pilot sting audit alcohol wheat liquid orphan popular cherry phone";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum scatter arch visual track alien project dove lesson believe option soul";
+var mnemonic = "grain jaguar aerobic battle end wait drift garment smart race squeeze kite";

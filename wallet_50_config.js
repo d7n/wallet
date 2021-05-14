@@ -1,1 +1,1 @@
-var mnemonic = "dilemma metal egg rib broccoli identify display rocket juice suit response enable";
+var mnemonic = "bar warm giant measure echo carbon castle innocent bright lottery february impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "frame nice junk enjoy rug earth flash defense tattoo siege velvet book";
+var mnemonic = "just grit portion arm riot surface bunker tomato pink tip desk uphold";

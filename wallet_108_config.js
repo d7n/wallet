@@ -1,1 +1,1 @@
-var mnemonic = "fame secret junior zoo evoke seven recall edge vintage else hurt dice";
+var mnemonic = "drastic inhale day certain visit unit net also memory unable version tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic offer mother paddle dinner uphold potato figure verify museum extra float";
+var mnemonic = "crowd floor rate trick siren enough cereal steak emerge derive garden pyramid";

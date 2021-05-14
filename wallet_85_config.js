@@ -1,1 +1,1 @@
-var mnemonic = "elevator lunch topple grief ritual check donor novel artist process ivory camera";
+var mnemonic = "divide air away pupil able feel world scissors primary video trumpet success";

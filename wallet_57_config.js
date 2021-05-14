@@ -1,1 +1,1 @@
-var mnemonic = "photo habit episode pony catch blame penalty acquire rose exotic kit dress";
+var mnemonic = "pig exercise rather pear trial drum skin toilet urge rebel forward disorder";

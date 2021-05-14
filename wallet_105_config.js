@@ -1,1 +1,1 @@
-var mnemonic = "warm utility immune output virus panel ranch bright load side news sword";
+var mnemonic = "weekend document twist pipe accuse prison snap start awful sort gauge nerve";

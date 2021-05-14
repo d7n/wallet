@@ -1,1 +1,1 @@
-var mnemonic = "unfold gallery about identify puppy claw crawl area index memory staff prefer";
+var mnemonic = "kitchen abandon minute box step ranch during misery soup task unfold require";

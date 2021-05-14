@@ -1,1 +1,1 @@
-var mnemonic = "boost sauce end unknown curtain ladder sudden festival reopen injury discover weapon";
+var mnemonic = "task same step assume room impose turkey enhance knife dove output earn";

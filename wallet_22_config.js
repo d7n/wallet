@@ -1,1 +1,1 @@
-var mnemonic = "load print practice debris gasp luggage blast cannon inhale situate tornado steak";
+var mnemonic = "peanut indoor hill tide wheel bus average report artwork ill jump parrot";

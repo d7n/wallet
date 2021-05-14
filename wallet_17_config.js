@@ -1,1 +1,1 @@
-var mnemonic = "tuition food tent window ball leaf unlock car answer combine canvas mouse";
+var mnemonic = "amused fat chase hand field walnut head clever supply squirrel problem quantum";

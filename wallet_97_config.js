@@ -1,1 +1,1 @@
-var mnemonic = "car saddle magnet jacket image embody draft artwork parrot direct peasant truly";
+var mnemonic = "brain like ugly junk volume fatigue report rice produce casual vendor diary";

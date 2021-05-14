@@ -1,1 +1,1 @@
-var mnemonic = "pulse element phrase cave above reopen profit decorate example shield thought embody";
+var mnemonic = "horn situate square critic lyrics frozen robust exclude list cricket recycle anxiety";

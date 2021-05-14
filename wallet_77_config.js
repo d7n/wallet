@@ -1,1 +1,1 @@
-var mnemonic = "click traffic comfort ready glad close appear west sea napkin hunt border";
+var mnemonic = "order else climb okay regret pull across insect exchange perfect arrest across";

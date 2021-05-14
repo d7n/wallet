@@ -1,1 +1,1 @@
-var mnemonic = "demise atom educate razor escape brain reform jewel submit destroy audit scan";
+var mnemonic = "industry mass symbol alarm ten panther bargain second churn glance rude sand";

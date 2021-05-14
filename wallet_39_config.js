@@ -1,1 +1,1 @@
-var mnemonic = "travel foster deposit dash drop kind soon alarm pencil process olympic online";
+var mnemonic = "brown use knife acid cancel odor fault great surface produce bicycle latin";

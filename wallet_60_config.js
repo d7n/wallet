@@ -1,1 +1,1 @@
-var mnemonic = "enlist knee genre soldier icon clever mandate hole diesel never food rib";
+var mnemonic = "aspect check film acid whisper convince involve burden library cruise short hard";

@@ -1,1 +1,1 @@
-var mnemonic = "expire jewel curious phrase moon hidden summer bid original calm language kitten";
+var mnemonic = "style bracket near clip junk dog stairs act actual audit zone buffalo";

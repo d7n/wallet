@@ -1,1 +1,1 @@
-var mnemonic = "shine creek minimum ginger wine under protect reflect surface skirt frost tank";
+var mnemonic = "large carry solution accuse sentence radio same text deputy ghost hawk appear";

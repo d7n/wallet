@@ -1,1 +1,1 @@
-var mnemonic = "artist erase echo diary purpose castle shy confirm eyebrow damp wisdom defense";
+var mnemonic = "sister language parrot jump sock album pool blood claw normal tilt inform";

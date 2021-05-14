@@ -1,1 +1,1 @@
-var mnemonic = "dwarf tennis hazard element pear coast refuse shallow mirror click web awful";
+var mnemonic = "topic runway remain pyramid double escape soft fat travel trumpet endorse ignore";

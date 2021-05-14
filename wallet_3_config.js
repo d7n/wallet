@@ -1,1 +1,1 @@
-var mnemonic = "focus glue way celery truck scheme concert fit inside tide chaos retire";
+var mnemonic = "hotel weekend burden train vapor swear tip syrup fresh drift security loop";

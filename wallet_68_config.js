@@ -1,1 +1,1 @@
-var mnemonic = "then air call coffee exact dove legend siren toe ostrich loop early";
+var mnemonic = "supply guitar snake help picnic still dignity ocean prepare sign lemon olympic";

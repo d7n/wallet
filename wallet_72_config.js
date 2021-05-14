@@ -1,1 +1,1 @@
-var mnemonic = "menu jelly success much more dinosaur two garage kitchen athlete kitten pill";
+var mnemonic = "rebuild cruise cinnamon visit top taxi current bind nice latin jeans air";

@@ -1,1 +1,1 @@
-var mnemonic = "card purchase harvest evil must modify adult life gorilla parade prevent similar";
+var mnemonic = "scare stomach gasp among audit burst artwork add tortoise bag boost seat";

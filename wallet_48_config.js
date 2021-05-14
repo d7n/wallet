@@ -1,1 +1,1 @@
-var mnemonic = "return feel dumb viable engine arm heart void solar state dutch globe";
+var mnemonic = "vital frozen satisfy reduce trip arena rain because dutch alley stable ask";

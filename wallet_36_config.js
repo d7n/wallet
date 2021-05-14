@@ -1,1 +1,1 @@
-var mnemonic = "drift member luxury alone suggest pipe happy need music census voyage cancel";
+var mnemonic = "mad item duck hire unit tail bonus panther else topple pool title";

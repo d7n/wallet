@@ -1,1 +1,1 @@
-var mnemonic = "fork document fox void cattle convince cook time obey label paddle deputy";
+var mnemonic = "arctic forest camera slot glare exclude casual hazard palace exit raven scorpion";

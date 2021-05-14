@@ -1,1 +1,1 @@
-var mnemonic = "payment cost hello upper jazz camp brain crisp sunset time spare gesture";
+var mnemonic = "buyer debris bachelor core aspect there wheat lock mutual marine betray visit";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry steak valley mule able original dove actual trap toilet warm explain";
+var mnemonic = "unfold deal feature sunset fox return noise thought little famous peanut domain";

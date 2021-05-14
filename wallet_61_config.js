@@ -1,1 +1,1 @@
-var mnemonic = "consider bench alter prison toe daring net absurd hub wall decorate athlete";
+var mnemonic = "elevator unveil more treat exercise jeans pattern artwork empower beef pudding large";

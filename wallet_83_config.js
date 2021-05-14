@@ -1,1 +1,1 @@
-var mnemonic = "actor front govern connect brass sweet train impose loop equal finger nice";
+var mnemonic = "boring goat tongue doctor guide sudden boost curious bounce speed remove obvious";

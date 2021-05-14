@@ -1,1 +1,1 @@
-var mnemonic = "slow lady humble sing course make finger pride beauty tornado orphan undo";
+var mnemonic = "upgrade brick family enjoy bind device thought source science tomato hello select";

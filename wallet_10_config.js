@@ -1,1 +1,1 @@
-var mnemonic = "level remain street path napkin step victory ship short scene cabin phone";
+var mnemonic = "twice rigid girl sand seek clay arch egg scale drive garage ribbon";

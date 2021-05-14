@@ -1,1 +1,1 @@
-var mnemonic = "property bamboo start ride answer drip mimic permit print divorce fan kitchen";
+var mnemonic = "moment rival mammal stock auto innocent nominee able hospital avocado ethics scan";

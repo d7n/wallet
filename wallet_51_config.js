@@ -1,1 +1,1 @@
-var mnemonic = "mother empower tuition riot color journey champion hidden math seven badge laptop";
+var mnemonic = "service suspect trade brown mirror cheese fruit mushroom parent daughter fluid never";

@@ -1,1 +1,1 @@
-var mnemonic = "quick horror rhythm trade into auction scale ride brain gentle exotic uncover";
+var mnemonic = "humor indoor give spirit brand derive film also chronic first index real";
