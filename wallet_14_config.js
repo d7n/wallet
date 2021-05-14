@@ -1,1 +1,1 @@
-var mnemonic = "winter stock village hen car depend tooth slice claim upper idle embark";
+var mnemonic = "vibrant lift symptom exit surge marine belt merit stool truck submit tackle";

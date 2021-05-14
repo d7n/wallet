@@ -1,1 +1,1 @@
-var mnemonic = "close roast company course talent cool stable dog fox already twice vast";
+var mnemonic = "youth equip title seek notice cry protect abstract robot industry trust wrist";

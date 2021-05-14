@@ -1,1 +1,1 @@
-var mnemonic = "chimney horse baby imitate subway stairs hat various ozone giraffe garlic style";
+var mnemonic = "panel emotion sad toss bitter fault family crawl sound inhale scene private";

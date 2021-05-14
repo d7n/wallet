@@ -1,1 +1,1 @@
-var mnemonic = "pen kitten give kiss dignity mom tape glimpse giggle true general possible";
+var mnemonic = "wild tag foam galaxy plunge final that outer click canal current galaxy";

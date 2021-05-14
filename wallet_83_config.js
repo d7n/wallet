@@ -1,1 +1,1 @@
-var mnemonic = "save sort match note system neck banner glory vapor dinosaur dune vanish";
+var mnemonic = "dutch employ together fiction weather ship force shy media casino bring frozen";

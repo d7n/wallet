@@ -1,1 +1,1 @@
-var mnemonic = "film later this above midnight habit portion lesson gesture still banana truck";
+var mnemonic = "capital entry chimney enjoy chaos pipe gossip account stumble net agree virtual";

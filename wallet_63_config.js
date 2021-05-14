@@ -1,1 +1,1 @@
-var mnemonic = "arm lottery hand grocery document acquire cash salad online retire pen second";
+var mnemonic = "blouse accuse bar trophy apart forward garlic ginger absorb story wish spell";

@@ -1,1 +1,1 @@
-var mnemonic = "answer lock machine chair bean rich pumpkin flock fade gesture grit earth";
+var mnemonic = "immune they best shallow toddler giggle hard subway dwarf chaos patrol evolve";

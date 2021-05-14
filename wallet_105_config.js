@@ -1,1 +1,1 @@
-var mnemonic = "jacket lesson wool friend maple endorse surround lens office obvious mixture census";
+var mnemonic = "shrimp fantasy endless mixed captain service rebel tell minute water fold junior";

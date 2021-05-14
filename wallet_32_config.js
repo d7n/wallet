@@ -1,1 +1,1 @@
-var mnemonic = "shallow next devote code seminar drama sister stomach consider tumble shaft shift";
+var mnemonic = "grit nice outer stove steel spend poet divert zero attract uphold quarter";

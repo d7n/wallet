@@ -1,1 +1,1 @@
-var mnemonic = "night aware video mention crack often dynamic three egg panda trim globe";
+var mnemonic = "sentence ride depend profit input bright beauty gossip october address grape fresh";

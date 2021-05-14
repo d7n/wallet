@@ -1,1 +1,1 @@
-var mnemonic = "address boat innocent layer prepare legend twice sail fatigue dizzy build pool";
+var mnemonic = "come happy cream oval castle purchase section embrace seek resist rebuild miss";

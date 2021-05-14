@@ -1,1 +1,1 @@
-var mnemonic = "scan method brick soldier goddess fade knock normal heart myself conduct outer";
+var mnemonic = "emerge load suffer boring rabbit puzzle frequent fatal expand muscle room champion";

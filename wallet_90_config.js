@@ -1,1 +1,1 @@
-var mnemonic = "law clump deposit ecology zone tiny cross cruise popular mercy blush ask";
+var mnemonic = "trap eyebrow chapter shaft parent oak inside dilemma olympic genre police timber";

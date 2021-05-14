@@ -1,1 +1,1 @@
-var mnemonic = "analyst alcohol front cruel share chicken beef cactus rib analyst wash raven";
+var mnemonic = "cliff bag under forum ice safe appear soon worth knock element exhaust";

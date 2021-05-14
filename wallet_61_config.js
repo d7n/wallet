@@ -1,1 +1,1 @@
-var mnemonic = "have couch man capital uncover negative ride eager cross chat sponsor holiday";
+var mnemonic = "opera struggle peasant buyer doll able bracket ranch pole kind pupil patient";

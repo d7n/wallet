@@ -1,1 +1,1 @@
-var mnemonic = "mail federal lumber exotic tone return profit tiny know provide brave vacuum";
+var mnemonic = "shell catch wear tobacco nature lemon paddle hole social organ credit forum";

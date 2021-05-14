@@ -1,1 +1,1 @@
-var mnemonic = "chase doctor wrong scene reflect gain umbrella canyon security wing arrow fame";
+var mnemonic = "myself major alcohol ankle runway glare moral loan shiver decide adult thought";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy fee program two jealous payment crack energy agree release mail situate";
+var mnemonic = "remind cloth street goat north oppose coach extra garden pudding skin artefact";

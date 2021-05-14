@@ -1,1 +1,1 @@
-var mnemonic = "sight flame mass prize turkey blush shuffle fuel panther poet dumb stool";
+var mnemonic = "cushion crisp truly crack depend bright thrive profit old gesture syrup train";

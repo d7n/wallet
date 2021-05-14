@@ -1,1 +1,1 @@
-var mnemonic = "hand monster puzzle live apple nurse category crisp duty manual sing stem";
+var mnemonic = "approve lunch dog addict movie cat silver high food practice forget want";

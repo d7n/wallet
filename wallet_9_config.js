@@ -1,1 +1,1 @@
-var mnemonic = "crime apology tenant any lesson uphold ozone decide end salt announce try";
+var mnemonic = "grocery story pistol patrol marriage shoot minimum caution quiz wrestle butter egg";

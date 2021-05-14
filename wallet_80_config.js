@@ -1,1 +1,1 @@
-var mnemonic = "envelope also share bread neither bargain phrase risk ship vanish aware produce";
+var mnemonic = "kick true amused dream leg mistake source among salmon perfect fortune cloth";

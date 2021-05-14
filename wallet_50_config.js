@@ -1,1 +1,1 @@
-var mnemonic = "oyster purchase crane close force donor void truth major typical defense urge";
+var mnemonic = "bleak rare boring domain fun fiction short solve dawn cave rather load";

@@ -1,1 +1,1 @@
-var mnemonic = "draft neutral pizza used master assist invest box adapt another stone join";
+var mnemonic = "aunt burst slim reopen dynamic razor girl hollow slide rib donate opera";

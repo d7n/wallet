@@ -1,1 +1,1 @@
-var mnemonic = "siren live ranch relax nice crush move enough maximum pole kidney imitate";
+var mnemonic = "tissue fun sentence tunnel alarm angle shrimp borrow volume joy rent jealous";

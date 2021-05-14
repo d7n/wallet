@@ -1,1 +1,1 @@
-var mnemonic = "regret assume leg balcony demise desk course town dove flock bright fish";
+var mnemonic = "hover dilemma cruel teach glory retire deal empower law electric deny legal";

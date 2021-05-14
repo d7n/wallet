@@ -1,1 +1,1 @@
-var mnemonic = "obscure tail tissue cherry notable private unfair wide bean dumb used mystery";
+var mnemonic = "jar message orbit demise rib cube latin range spatial bind card razor";

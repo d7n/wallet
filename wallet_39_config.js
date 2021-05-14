@@ -1,1 +1,1 @@
-var mnemonic = "oxygen eyebrow future guilt witness oblige loan lunch pyramid marble scan erosion";
+var mnemonic = "taxi erase goddess bag awesome wage fatal hollow regret ankle index shoot";

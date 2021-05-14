@@ -1,1 +1,1 @@
-var mnemonic = "ugly west hero gym friend surround rug dentist typical ticket warm eye";
+var mnemonic = "label garbage write smile vendor sniff better alcohol soup diamond life height";

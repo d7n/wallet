@@ -1,1 +1,1 @@
-var mnemonic = "rotate pattern account across hill glory unknown price scatter thrive protect rescue";
+var mnemonic = "stick spread coil orphan explain engage jungle love power move faint learn";

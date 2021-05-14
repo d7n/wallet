@@ -1,1 +1,1 @@
-var mnemonic = "famous health country clock until torch shy bulk force pottery jewel broom";
+var mnemonic = "pudding gentle machine limit dry bomb grape resemble orbit discover dinosaur about";

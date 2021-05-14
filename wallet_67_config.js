@@ -1,1 +1,1 @@
-var mnemonic = "ivory uncle common envelope ramp tourist swear provide barrel length vintage come";
+var mnemonic = "kit liar interest potato pigeon bean walk hub boil pair fitness song";

@@ -1,1 +1,1 @@
-var mnemonic = "december indicate join eternal web canyon bag asthma head vehicle version praise";
+var mnemonic = "march normal excite record win lawn judge alley travel vanish begin genre";

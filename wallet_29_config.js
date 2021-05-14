@@ -1,1 +1,1 @@
-var mnemonic = "crack hungry script lawsuit disagree skill wash raw ski combine abstract unfold";
+var mnemonic = "seminar render wedding icon cry artefact major around surge jump jewel mistake";

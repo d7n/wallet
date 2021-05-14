@@ -1,1 +1,1 @@
-var mnemonic = "neglect exact circle sniff renew ahead exhibit stomach beyond viable candy mercy";
+var mnemonic = "silent two remain select sure super empower old envelope glare jealous absorb";

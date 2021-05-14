@@ -1,1 +1,1 @@
-var mnemonic = "radio script sign sadness upon shaft wide egg enter fashion old champion";
+var mnemonic = "apple base gauge arena cluster critic run way arch visit magnet hurry";

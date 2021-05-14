@@ -1,1 +1,1 @@
-var mnemonic = "execute comfort someone elevator explain outer goose energy focus banner enough insane";
+var mnemonic = "never clump summer unhappy shrimp mammal false inquiry alpha negative resemble major";

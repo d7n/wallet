@@ -1,1 +1,1 @@
-var mnemonic = "decide balcony among key pact evidence tomorrow enhance bunker excite knife one";
+var mnemonic = "tell festival inmate rebel budget north item kangaroo guess prevent leaf require";

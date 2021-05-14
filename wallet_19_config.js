@@ -1,1 +1,1 @@
-var mnemonic = "penalty ivory hat consider praise garbage remind wrestle remove debris useless goat";
+var mnemonic = "actual alley clarify produce poem hurry beyond drama phrase follow win wheel";

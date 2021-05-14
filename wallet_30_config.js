@@ -1,1 +1,1 @@
-var mnemonic = "fitness goddess add omit kitchen lottery order pepper tree leader source clump";
+var mnemonic = "opinion very brother shop swim excite walnut traffic cage salute save puzzle";

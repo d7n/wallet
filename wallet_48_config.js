@@ -1,1 +1,1 @@
-var mnemonic = "welcome paper able gate forget afford moon simple have blue clown fragile";
+var mnemonic = "absent add stamp force immune sting fish useless when taxi denial plastic";

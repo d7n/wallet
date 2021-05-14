@@ -1,1 +1,1 @@
-var mnemonic = "oblige resource air blur skull rally vintage loan alter hawk merry ranch";
+var mnemonic = "announce offer delay behave member elite process already craft feel pledge dinosaur";

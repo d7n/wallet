@@ -1,1 +1,1 @@
-var mnemonic = "caution come denial prosper elephant pear genuine current athlete accuse meat exhibit";
+var mnemonic = "dad cost scene genuine account scale abstract tooth decade resemble twin acquire";

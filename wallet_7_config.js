@@ -1,1 +1,1 @@
-var mnemonic = "urban seek doll case illness legend add coast citizen milk divorce because";
+var mnemonic = "awful offer cream ostrich blanket expose near fitness survey monkey like rail";

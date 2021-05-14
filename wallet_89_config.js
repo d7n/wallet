@@ -1,1 +1,1 @@
-var mnemonic = "arch laugh energy recipe buddy near recycle deposit rotate design frost road";
+var mnemonic = "crash marriage never buffalo stereo awesome salmon word youth conduct bicycle quit";

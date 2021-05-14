@@ -1,1 +1,1 @@
-var mnemonic = "vague bar arm skate behind annual tomato steel adjust gauge position person";
+var mnemonic = "border mixed tumble nerve curve weapon announce guess rude shoulder travel grass";

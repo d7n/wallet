@@ -1,1 +1,1 @@
-var mnemonic = "prevent foster river egg ticket pioneer pencil neck inhale rocket science pass";
+var mnemonic = "lecture surge million lady shiver menu dust design regret cushion copper always";

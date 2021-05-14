@@ -1,1 +1,1 @@
-var mnemonic = "bicycle lab grab sword strike illegal speed sudden extend future opinion tomorrow";
+var mnemonic = "oblige lucky model dream strong type nephew innocent intact road actual spy";

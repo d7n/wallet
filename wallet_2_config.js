@@ -1,1 +1,1 @@
-var mnemonic = "trigger shuffle carry rose make result bird stairs allow direct seminar neither";
+var mnemonic = "silver eight cupboard nice dolphin sail cook expect unveil skin topic share";

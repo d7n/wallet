@@ -1,1 +1,1 @@
-var mnemonic = "since dolphin office among bench final card talent topple thank flock danger";
+var mnemonic = "legend awake endorse top celery chicken road side march point napkin orphan";

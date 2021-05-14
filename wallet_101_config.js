@@ -1,1 +1,1 @@
-var mnemonic = "annual holiday boss frost face quarter account slice rotate behave taste twice";
+var mnemonic = "unlock client angle latin auction corn book whip across honey buddy deposit";

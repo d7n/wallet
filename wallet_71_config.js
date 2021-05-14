@@ -1,1 +1,1 @@
-var mnemonic = "renew reject forget dish few benefit opera october verb shoot grape stock";
+var mnemonic = "lens tiny city income prefer dinner swamp hire hurdle slab dinosaur try";

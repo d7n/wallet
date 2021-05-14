@@ -1,1 +1,1 @@
-var mnemonic = "between connect staff desert breeze diesel eyebrow where bread actual frozen train";
+var mnemonic = "quit write faith dinner garment once memory mansion minimum easily filter over";

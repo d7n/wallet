@@ -1,1 +1,1 @@
-var mnemonic = "drum math wrestle wide hand bundle plunge barely wasp artwork pledge roast";
+var mnemonic = "also fluid peanut enlist define relax erosion paper tackle crisp club night";

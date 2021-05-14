@@ -1,1 +1,1 @@
-var mnemonic = "oven stage rebel soccer cereal profit feed attract exhaust submit evidence museum";
+var mnemonic = "differ smile village funny hill law fancy dial auto either private party";

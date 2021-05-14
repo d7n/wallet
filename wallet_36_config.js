@@ -1,1 +1,1 @@
-var mnemonic = "subway erosion physical already rebuild expose correct sad fragile disease range attitude";
+var mnemonic = "chunk army connect need unaware sausage morning sock silent goddess frequent cinnamon";

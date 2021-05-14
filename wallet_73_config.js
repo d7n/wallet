@@ -1,1 +1,1 @@
-var mnemonic = "sadness sense copy cause copy arena device diet whisper essence bone nation";
+var mnemonic = "roast brave chest proof leopard either melody trick view hollow review purse";

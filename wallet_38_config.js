@@ -1,1 +1,1 @@
-var mnemonic = "pelican gather negative jazz light select seat token raw decline spice budget";
+var mnemonic = "rebel mandate more recycle kangaroo toward place trigger spice sheriff need boss";

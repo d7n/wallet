@@ -1,1 +1,1 @@
-var mnemonic = "year comic best fox alcohol place sock shallow truly neck position quarter";
+var mnemonic = "mixture mask night place secret hobby veteran bless reform hover movie lizard";

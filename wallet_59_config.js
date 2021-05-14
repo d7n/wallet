@@ -1,1 +1,1 @@
-var mnemonic = "people digital slam citizen dolphin render spray theory pool lens plate source";
+var mnemonic = "bargain recall airport fruit refuse kingdom cloth cool arrange people federal emotion";

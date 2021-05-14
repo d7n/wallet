@@ -1,1 +1,1 @@
-var mnemonic = "assist order grocery project chuckle salon taxi drift girl puppy agent sunny";
+var mnemonic = "refuse cool network hood maid limit income clean unfold cereal tomato soldier";

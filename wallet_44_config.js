@@ -1,1 +1,1 @@
-var mnemonic = "search train solve demand day shop curious achieve shallow aerobic cruise barrel";
+var mnemonic = "essay hole when trust sunny catch tag churn begin wrestle hammer piano";

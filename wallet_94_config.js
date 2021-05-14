@@ -1,1 +1,1 @@
-var mnemonic = "fold baby federal scorpion false swing rotate flee photo race place dog";
+var mnemonic = "inch awesome soup prevent sight digital vendor prison will salute observe awake";

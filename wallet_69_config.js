@@ -1,1 +1,1 @@
-var mnemonic = "slight parade pig estate hat roof guard circle expand vintage nothing air";
+var mnemonic = "force viable cram shield gym today mansion pact cube nerve manage sell";

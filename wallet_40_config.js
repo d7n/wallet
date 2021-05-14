@@ -1,1 +1,1 @@
-var mnemonic = "rookie try focus walnut mechanic planet edge rely wash negative original banana";
+var mnemonic = "joke affair example trial heart canal absurd original trip convince inflict ensure";

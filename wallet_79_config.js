@@ -1,1 +1,1 @@
-var mnemonic = "wise liberty omit chronic couch noise main add online claw crop lawn";
+var mnemonic = "bullet random raccoon garlic marine announce earn lazy hidden law foil layer";

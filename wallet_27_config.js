@@ -1,1 +1,1 @@
-var mnemonic = "moment body hour dilemma orchard file alpha lunar rule soft honey frost";
+var mnemonic = "fabric phone abandon pretty bleak pole great lesson lake swim swear coral";

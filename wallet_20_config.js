@@ -1,1 +1,1 @@
-var mnemonic = "maze cool utility bullet drama disorder lion embrace harvest trust ill dove";
+var mnemonic = "increase sister business arrive correct pony reveal muffin brave color crisp balcony";

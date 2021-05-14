@@ -1,1 +1,1 @@
-var mnemonic = "wet inherit inmate inside opinion joy middle dismiss bunker exotic rigid prepare";
+var mnemonic = "spice breeze skull unveil flash path layer volcano next edge hip coral";

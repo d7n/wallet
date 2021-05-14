@@ -1,1 +1,1 @@
-var mnemonic = "skull alarm derive neglect lyrics plastic sketch draw solar endless program habit";
+var mnemonic = "canvas cool trap all powder forum fatal split plastic chest depth tape";

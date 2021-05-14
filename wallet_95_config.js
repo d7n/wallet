@@ -1,1 +1,1 @@
-var mnemonic = "unaware happy nominee frequent deny rifle elegant return enemy coin vessel junk";
+var mnemonic = "thought arch sunset ostrich awkward bean ancient quit hundred engine hen predict";

@@ -1,1 +1,1 @@
-var mnemonic = "wave unable wonder suffer crazy symptom swing medal catch volcano medal school";
+var mnemonic = "during used tool analyst movie flight alpha sun diagram sting clock around";

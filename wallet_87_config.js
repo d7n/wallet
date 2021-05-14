@@ -1,1 +1,1 @@
-var mnemonic = "yard plunge unable witness expand lumber path crazy panic glare knife student";
+var mnemonic = "amount neither leaf design farm size capable oyster analyst stomach boat burger";

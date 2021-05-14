@@ -1,1 +1,1 @@
-var mnemonic = "cry radar inmate evoke benefit cinnamon assault jar develop easy bean ball";
+var mnemonic = "stick auction juice decline miracle ripple lake hurry unknown spawn wall begin";

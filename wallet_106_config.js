@@ -1,1 +1,1 @@
-var mnemonic = "silent interest festival extend copper prepare gate laundry winner stay banner deputy";
+var mnemonic = "maze buddy country mechanic busy secret sunset drama peanut robust wrist move";

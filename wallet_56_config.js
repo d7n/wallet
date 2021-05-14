@@ -1,1 +1,1 @@
-var mnemonic = "together husband hedgehog page language useless potato health better mistake bracket during";
+var mnemonic = "room abstract innocent power mother swing fancy same eyebrow used glory able";

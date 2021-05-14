@@ -1,1 +1,1 @@
-var mnemonic = "must pencil october festival swamp gesture eager drift keen veteran shop exit";
+var mnemonic = "violin beach cry dutch slush little story bless tongue rib easily hub";

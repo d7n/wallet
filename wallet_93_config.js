@@ -1,1 +1,1 @@
-var mnemonic = "blood summer oppose sword ticket entry grocery bulb end sort flock rebel";
+var mnemonic = "sign cart tomorrow stem unhappy emotion illness regret aisle sadness panel trade";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace pottery vacant wave animal amount you steel direct work oven minute";
+var mnemonic = "stool thing crop maze bus ranch quote forward whip adapt forward snack";

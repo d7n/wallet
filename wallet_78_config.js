@@ -1,1 +1,1 @@
-var mnemonic = "vintage keen ethics valley expose embark river property warrior sponsor eternal victory";
+var mnemonic = "sting bitter toe only tag park blast tissue modify wage saddle sock";

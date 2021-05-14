@@ -1,1 +1,1 @@
-var mnemonic = "width push such cruise humble roof produce vacuum that enable harvest remember";
+var mnemonic = "odor top behind dial section into tobacco crop episode estate swap vicious";

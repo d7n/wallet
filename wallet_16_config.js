@@ -1,1 +1,1 @@
-var mnemonic = "beyond relax sword monitor happy session tomato joke cook verb electric monkey";
+var mnemonic = "few push nuclear taste myself cereal congress stock engage friend figure assume";

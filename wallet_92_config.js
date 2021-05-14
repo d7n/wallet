@@ -1,1 +1,1 @@
-var mnemonic = "bike love daring during awkward balcony aerobic cry couple now laptop wild";
+var mnemonic = "chaos clap theory course review educate uniform pond arm eyebrow helmet now";

@@ -1,1 +1,1 @@
-var mnemonic = "title feature recycle when together perfect local siren myself mandate chef firm";
+var mnemonic = "cool naive verb forward family burst breeze mesh group satoshi speed spice";

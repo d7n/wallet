@@ -1,1 +1,1 @@
-var mnemonic = "fatal dice rich brain add observe stable obtain kiwi grunt hospital mixture";
+var mnemonic = "brass raw deliver box era wage echo carbon donate puzzle spice angry";

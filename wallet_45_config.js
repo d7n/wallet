@@ -1,1 +1,1 @@
-var mnemonic = "popular aspect ecology slow nature clap antique baby fury smart motion cotton";
+var mnemonic = "know feature joke manage crop talent note caught trophy clock check piano";

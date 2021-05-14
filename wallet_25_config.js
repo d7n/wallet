@@ -1,1 +1,1 @@
-var mnemonic = "obvious enforce awake remove brass merry carbon side obvious metal industry hunt";
+var mnemonic = "grunt purse educate baby mean cabin daughter mirror ridge inch attitude between";

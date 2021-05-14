@@ -1,1 +1,1 @@
-var mnemonic = "gate frame above service stuff machine before cheap inspire fiscal depth brisk";
+var mnemonic = "brother bleak input cabin robust system unhappy fitness rookie envelope join dutch";

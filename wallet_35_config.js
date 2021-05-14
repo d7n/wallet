@@ -1,1 +1,1 @@
-var mnemonic = "empower vivid wool account foot cupboard wash indicate hood lab roof inmate";
+var mnemonic = "opera benefit lunch race refuse live pig sing type unveil blush try";

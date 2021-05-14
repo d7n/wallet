@@ -1,1 +1,1 @@
-var mnemonic = "burst column theory scare income shock scene twist material outdoor group ball";
+var mnemonic = "section cube fashion kitchen liquid squeeze shove chalk never small recipe vapor";

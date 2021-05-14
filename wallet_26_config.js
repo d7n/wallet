@@ -1,1 +1,1 @@
-var mnemonic = "river entry giraffe cross borrow purpose stove air arrange minor zoo fork";
+var mnemonic = "staff season input stand project turtle produce pencil tumble broken robot behind";

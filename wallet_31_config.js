@@ -1,1 +1,1 @@
-var mnemonic = "hazard west awful soon tilt benefit doll dignity pizza couch brass poverty";
+var mnemonic = "butter puppy clap cost frame margin seat snack until sibling wine antique";

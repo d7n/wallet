@@ -1,1 +1,1 @@
-var mnemonic = "evolve thumb air have famous soup cherry excess sponsor uncover bomb leopard";
+var mnemonic = "trip patrol because soldier build autumn diamond grace chaos when front cement";

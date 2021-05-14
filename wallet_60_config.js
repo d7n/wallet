@@ -1,1 +1,1 @@
-var mnemonic = "recall dance phone wide example fortune snake brain unusual drama crumble cube";
+var mnemonic = "ocean boring layer square blast change upon seven prevent diet army category";

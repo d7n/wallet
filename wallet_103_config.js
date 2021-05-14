@@ -1,1 +1,1 @@
-var mnemonic = "they code mind door dismiss stomach approve nice half myth matrix wait";
+var mnemonic = "travel gift sad robot asset vivid friend casino twelve exotic egg dynamic";

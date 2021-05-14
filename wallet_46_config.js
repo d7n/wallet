@@ -1,1 +1,1 @@
-var mnemonic = "brief screen stumble width organ open recycle shoulder bonus improve daring confirm";
+var mnemonic = "kiwi miss legend keen wish fringe taste benefit pilot guide choice emotion";
