@@ -1,1 +1,1 @@
-var mnemonic = "utility lottery match host jacket stock cake woman vehicle nice paper speak";
+var mnemonic = "mouse cargo draw napkin device aunt arrow afraid yellow subway rocket nation";

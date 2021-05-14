@@ -1,1 +1,1 @@
-var mnemonic = "gaze tornado meadow denial risk flavor renew similar chunk weekend flush glance";
+var mnemonic = "extend wheel occur pretty impose aim bread glove question brisk region budget";

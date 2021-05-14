@@ -1,1 +1,1 @@
-var mnemonic = "giggle inspire recall senior invest pact area banana sleep drill stuff skill";
+var mnemonic = "drive kidney valve spider outer what impose ripple favorite spin suspect slender";

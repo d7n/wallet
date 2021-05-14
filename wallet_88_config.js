@@ -1,1 +1,1 @@
-var mnemonic = "myth unhappy sting guess unit isolate pause noble matter assault salad alien";
+var mnemonic = "genuine network sword kangaroo sentence kick century try upon stereo general extend";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle web talent quit jar total attack exclude naive renew awful area";
+var mnemonic = "damp fuel echo swear label door toss quarter gallery labor oyster unknown";

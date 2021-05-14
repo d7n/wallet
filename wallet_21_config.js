@@ -1,1 +1,1 @@
-var mnemonic = "maid jeans dutch marriage picture express say spawn couple camera comic town";
+var mnemonic = "pudding fruit must turn leisure cake shield uncle grace general hungry rich";

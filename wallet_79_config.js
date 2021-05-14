@@ -1,1 +1,1 @@
-var mnemonic = "gun man antique word used merge kitten capital lawsuit song chalk turtle";
+var mnemonic = "give dial oven image lawn habit march increase ocean demise weird cheap";

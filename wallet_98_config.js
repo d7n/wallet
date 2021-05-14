@@ -1,1 +1,1 @@
-var mnemonic = "zoo capable monkey balance job inform apart manage author index escape couch";
+var mnemonic = "echo nuclear helmet jewel number ugly decrease auction vocal forget average distance";

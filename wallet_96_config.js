@@ -1,1 +1,1 @@
-var mnemonic = "act insect wine country public panda license notice admit void plastic slow";
+var mnemonic = "churn crop chronic dry achieve answer model toe fancy hard insect practice";

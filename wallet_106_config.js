@@ -1,1 +1,1 @@
-var mnemonic = "crucial fury oil female seat ability mean sheriff oak wage shaft eyebrow";
+var mnemonic = "mountain awesome pencil catch toast pepper doll draw choice rigid whisper junk";

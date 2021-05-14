@@ -1,1 +1,1 @@
-var mnemonic = "earth mom edit drill sustain cart disagree more banner enroll siren elevator";
+var mnemonic = "primary lizard rate connect horn youth donate physical dad talk sauce float";

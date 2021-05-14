@@ -1,1 +1,1 @@
-var mnemonic = "advance deputy any eight penalty upon hat melt year cube need drink";
+var mnemonic = "remember enrich category tray install great file other hello stove stadium shove";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup step sound crumble fan enlist horse zone pigeon scheme brick ship";
+var mnemonic = "coast bracket globe element reopen aisle essay aim border fence awesome snack";

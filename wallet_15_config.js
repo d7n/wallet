@@ -1,1 +1,1 @@
-var mnemonic = "weekend split water cloth maximum paper crush bunker inner hamster kitchen curious";
+var mnemonic = "congress twenty ski resource gap survey portion escape palm dash quarter ask";

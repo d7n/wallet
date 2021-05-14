@@ -1,1 +1,1 @@
-var mnemonic = "dirt view resource gloom diary gallery plug canal shop planet wire eagle";
+var mnemonic = "slush twenty there amused black nut often parade coin silent casino review";

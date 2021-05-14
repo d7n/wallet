@@ -1,1 +1,1 @@
-var mnemonic = "special civil educate dance object coil edit wisdom silk educate this catalog";
+var mnemonic = "snake inner prize future cat distance theory gravity prepare company empower develop";

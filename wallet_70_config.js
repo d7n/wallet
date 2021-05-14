@@ -1,1 +1,1 @@
-var mnemonic = "path increase alarm check utility clarify slight diesel egg culture judge act";
+var mnemonic = "unit install cool race furnace catalog affair weasel brisk orbit engage remember";

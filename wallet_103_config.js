@@ -1,1 +1,1 @@
-var mnemonic = "mind divorce cost primary peanut weather duck fashion sail ride valid version";
+var mnemonic = "kick mistake merge insect dirt side mix loop unusual castle nut accident";

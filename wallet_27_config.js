@@ -1,1 +1,1 @@
-var mnemonic = "confirm lawn glove over bright coyote shallow peasant you shop cage voice";
+var mnemonic = "toss juice gaze era bright only garbage organ anchor long stable rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear churn noble bulk theme gaze busy imitate voyage galaxy plunge humble";
+var mnemonic = "resist original spawn shallow razor fly rival patient release taxi funny cactus";

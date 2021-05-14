@@ -1,1 +1,1 @@
-var mnemonic = "height avocado canoe exhibit such change drift pet father phone trash jacket";
+var mnemonic = "clown sign diary catalog brass potato embrace upper weekend fancy stable route";

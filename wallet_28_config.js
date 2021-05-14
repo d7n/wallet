@@ -1,1 +1,1 @@
-var mnemonic = "crop lesson country sell velvet fantasy frost ladder document guilt happy together";
+var mnemonic = "cause blur decorate quiz grass draft wreck egg grow plastic satisfy capital";

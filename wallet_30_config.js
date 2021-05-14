@@ -1,1 +1,1 @@
-var mnemonic = "net vessel menu deliver review bird defense act real share color vacant";
+var mnemonic = "cry wrist give circle struggle rookie breeze cliff ancient garment guess ski";

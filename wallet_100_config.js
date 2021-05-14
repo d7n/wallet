@@ -1,1 +1,1 @@
-var mnemonic = "nut memory grid patrol cigar loop border candy mutual enter dust kidney";
+var mnemonic = "index banner imitate gas bacon food morning alien tuition absent parade tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "wait empower bronze sense hill stadium tiger void million steel doctor science";
+var mnemonic = "special rib resist salad day craft mean horn bridge lucky ridge gate";

@@ -1,1 +1,1 @@
-var mnemonic = "online thought column caution same mesh town pulse strategy dinner usual antenna";
+var mnemonic = "claw universe alpha announce cook hire weasel song mimic excess minute detail";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy spring barely smart fine child stand globe task luggage shrug phrase";
+var mnemonic = "neck rhythm where manual total flock engage visit stumble drink dwarf spot";

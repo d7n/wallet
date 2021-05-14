@@ -1,1 +1,1 @@
-var mnemonic = "forest divert sugar balcony affair explain glad panda host truth tank limb";
+var mnemonic = "wife body sadness taste decrease step thought nephew firm range light oxygen";

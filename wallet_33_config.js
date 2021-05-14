@@ -1,1 +1,1 @@
-var mnemonic = "garlic remain merit crumble version arctic purchase squirrel brick speak anger swift";
+var mnemonic = "december damage skull midnight fluid power excuse legend blast voice business ready";

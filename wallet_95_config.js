@@ -1,1 +1,1 @@
-var mnemonic = "hungry news hen unfold state street mobile acoustic language topic add chef";
+var mnemonic = "federal labor crazy unusual brass build super lounge kidney jacket claim illness";

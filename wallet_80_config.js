@@ -1,1 +1,1 @@
-var mnemonic = "okay tuition intact laptop hill tunnel response boring tone soup fish stairs";
+var mnemonic = "bag moment time subject movie usage brand lawsuit era want steak emotion";

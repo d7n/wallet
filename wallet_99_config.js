@@ -1,1 +1,1 @@
-var mnemonic = "print kiss chef prevent acoustic wait laugh exhaust genius scissors twelve matrix";
+var mnemonic = "abandon client scatter viable buzz stool cruise pulp smoke lizard author decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble quiz satoshi vocal misery oval tunnel swamp verify gather can solution";
+var mnemonic = "cabbage used able govern sunny air hip control magnet erosion immense master";

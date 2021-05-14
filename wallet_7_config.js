@@ -1,1 +1,1 @@
-var mnemonic = "shuffle high adult degree direct thrive ozone butter expose omit audit horror";
+var mnemonic = "miracle fan profit another permit people lion ghost degree cat act approve";

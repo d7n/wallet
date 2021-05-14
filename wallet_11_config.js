@@ -1,1 +1,1 @@
-var mnemonic = "cup anchor cash blast clip december gentle equal tilt shrimp dwarf truth";
+var mnemonic = "soccer insect lonely poverty follow decrease inch sea asset nice burst pretty";

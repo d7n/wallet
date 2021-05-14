@@ -1,1 +1,1 @@
-var mnemonic = "review gold annual crater glove swamp solution admit basket ask they deliver";
+var mnemonic = "key organ session forest actor satoshi story scrub cannon disagree dry prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble time bonus sure stable vendor prepare invite episode sail spider riot";
+var mnemonic = "town fiction power thought vital vibrant thunder hawk bottom fan million dice";

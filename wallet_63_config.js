@@ -1,1 +1,1 @@
-var mnemonic = "thumb accuse budget three license lake federal repair release olympic dose intact";
+var mnemonic = "horse sense coral meat edge night pair axis valley shed tool raven";

@@ -1,1 +1,1 @@
-var mnemonic = "defy donor weasel cushion mom vintage torch fold spoil own notice step";
+var mnemonic = "vacuum miss juice retire inhale globe census physical stone company old brown";

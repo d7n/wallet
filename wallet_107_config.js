@@ -1,1 +1,1 @@
-var mnemonic = "baby lobster mountain behind used capable wrist shine month uncover unit border";
+var mnemonic = "clutch any celery reveal result pact brisk crime quarter grape ocean crazy";

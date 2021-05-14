@@ -1,1 +1,1 @@
-var mnemonic = "mom seed flush pencil common odor cup profit wagon virtual record bubble";
+var mnemonic = "group venture entire fatigue fish sleep grain already lawn when finger lesson";

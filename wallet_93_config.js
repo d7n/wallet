@@ -1,1 +1,1 @@
-var mnemonic = "shock flat magic casino split spoil border rocket amused stay sniff inner";
+var mnemonic = "drama legal soccer tag fruit coyote total object script clump subject father";

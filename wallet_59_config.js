@@ -1,1 +1,1 @@
-var mnemonic = "noble jealous meadow arrow host strike bonus blade proof web garment elite";
+var mnemonic = "dragon noise gauge spice velvet fancy ginger process arena advice dove nature";

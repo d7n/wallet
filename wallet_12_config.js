@@ -1,1 +1,1 @@
-var mnemonic = "level wine garbage tag solution tone post else ill return tragic thank";
+var mnemonic = "rely surface gauge equal enjoy fashion sail half unique doll road scatter";

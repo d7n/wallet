@@ -1,1 +1,1 @@
-var mnemonic = "gravity jelly model near tiny fog mean earn equal intact disorder love";
+var mnemonic = "deny true sock glide keep gaze fever melt invite journey couch host";

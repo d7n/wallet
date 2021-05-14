@@ -1,1 +1,1 @@
-var mnemonic = "debris route crazy width beyond portion poet couple question alcohol snack ride";
+var mnemonic = "history divert bracket bachelor inside license effort father off dismiss twin opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk tonight design silver bridge rate shoot evil critic leg stick drink";
+var mnemonic = "piece news citizen moon meat face mule trouble spike ring lend mammal";

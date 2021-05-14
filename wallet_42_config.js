@@ -1,1 +1,1 @@
-var mnemonic = "odor involve wet sell foam frequent file urban pulp double help ice";
+var mnemonic = "normal agent ship key uncle pledge use wisdom canyon wrap nose field";

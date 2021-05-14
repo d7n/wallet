@@ -1,1 +1,1 @@
-var mnemonic = "post pause error idea steel abandon glow treat mercy cloth pumpkin liberty";
+var mnemonic = "enlist panther ready fatigue security shove label parrot robust dinner nuclear lady";

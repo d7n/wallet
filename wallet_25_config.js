@@ -1,1 +1,1 @@
-var mnemonic = "tail mask spice play eye display camera culture shallow satoshi album coconut";
+var mnemonic = "work online combine century tragic year usage choice cover resource immune join";

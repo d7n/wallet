@@ -1,1 +1,1 @@
-var mnemonic = "club depend grace hover spot spoon reopen pig upon such whip pull";
+var mnemonic = "pass today divert neutral mirror swim view year alter great judge dismiss";

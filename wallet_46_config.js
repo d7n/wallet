@@ -1,1 +1,1 @@
-var mnemonic = "wait later lobster clip tank old rhythm kitchen veteran olive mixed estate";
+var mnemonic = "exclude cave thunder chair pioneer deposit outside smoke throw remove indoor word";

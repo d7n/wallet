@@ -1,1 +1,1 @@
-var mnemonic = "thing basic rail tourist wrestle midnight frown adjust logic feed dawn digital";
+var mnemonic = "garbage occur develop now ugly later custom silk jump fade cook legal";

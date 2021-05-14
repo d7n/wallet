@@ -1,1 +1,1 @@
-var mnemonic = "nominee mix seed estate arena inner enforce bulb young slab elite verb";
+var mnemonic = "crop garment total fitness jelly club scheme popular sleep crisp unhappy allow";

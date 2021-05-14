@@ -1,1 +1,1 @@
-var mnemonic = "language reveal truck sign welcome wheel tail error kiss dignity trade pulp";
+var mnemonic = "quarter inmate village used faint tuition utility secret enable welcome invest scare";

@@ -1,1 +1,1 @@
-var mnemonic = "series allow visit giant inner write identify tiger hold hire wealth ladder";
+var mnemonic = "shoe concert symbol chicken enact trim purpose steak resemble subject cram portion";

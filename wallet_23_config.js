@@ -1,1 +1,1 @@
-var mnemonic = "crawl color put rack jacket require tunnel artist trust forget shine column";
+var mnemonic = "butter title file situate harsh hood involve stove fitness tail hip scheme";

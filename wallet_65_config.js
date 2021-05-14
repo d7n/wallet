@@ -1,1 +1,1 @@
-var mnemonic = "race start sibling sound return dynamic club luxury stock scan torch hollow";
+var mnemonic = "lab fantasy bitter fish celery pioneer canyon satoshi say consider gadget engage";

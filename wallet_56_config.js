@@ -1,1 +1,1 @@
-var mnemonic = "suggest album match chaos sunset body attend alley scan local people alter";
+var mnemonic = "summer begin border gate similar oxygen original garbage alley fantasy turn laundry";

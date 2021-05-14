@@ -1,1 +1,1 @@
-var mnemonic = "welcome dwarf narrow axis win autumn real silk skate onion chapter code";
+var mnemonic = "thunder rough faith car adjust swamp grief exercise tail position silent pear";

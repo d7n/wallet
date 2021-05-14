@@ -1,1 +1,1 @@
-var mnemonic = "wife document leopard capable mean gravity machine say ripple skill country earn";
+var mnemonic = "army seminar shuffle volume purse maple donor banana deposit dynamic talent alarm";

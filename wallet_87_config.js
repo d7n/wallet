@@ -1,1 +1,1 @@
-var mnemonic = "answer thunder jeans produce swallow problem shoulder magic employ above emerge breeze";
+var mnemonic = "keen wealth boat twist cup rabbit unusual camp alert feed act charge";

@@ -1,1 +1,1 @@
-var mnemonic = "smart hero marine other pattern subway evoke motion camera speed secret embrace";
+var mnemonic = "found simple rubber sugar logic pass shell brand duty brain melt paddle";

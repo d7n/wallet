@@ -1,1 +1,1 @@
-var mnemonic = "battle traffic year wasp kitten force tower stove tide exhaust sample illegal";
+var mnemonic = "hair unknown lizard ripple creek income nut oval jacket scissors time predict";

@@ -1,1 +1,1 @@
-var mnemonic = "duck poet acoustic rocket turkey oven crop walk world join rival divorce";
+var mnemonic = "toilet unit knee act ill capable aware coyote submit picnic ostrich govern";

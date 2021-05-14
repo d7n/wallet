@@ -1,1 +1,1 @@
-var mnemonic = "lobster lemon art green work popular chat argue among system rubber tool";
+var mnemonic = "board mass case reunion bunker require category merge impact rack math time";

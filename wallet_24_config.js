@@ -1,1 +1,1 @@
-var mnemonic = "common pitch teach pull much emerge frozen tool olive believe jump pass";
+var mnemonic = "merit element satisfy december kangaroo body kind onion raccoon gather subway notice";

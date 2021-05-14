@@ -1,1 +1,1 @@
-var mnemonic = "magic sun feature hint word material winner pistol session chef lucky tiger";
+var mnemonic = "just vocal party obvious valley subject arrow silk maple perfect buyer okay";

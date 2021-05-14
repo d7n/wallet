@@ -1,1 +1,1 @@
-var mnemonic = "sort above valid noodle remember ankle rifle history history top tooth license";
+var mnemonic = "wisdom alcohol can voyage regret novel shift liar twist labor ivory symbol";

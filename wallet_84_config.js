@@ -1,1 +1,1 @@
-var mnemonic = "brief return sniff junk drill school discover test improve prosper dog idle";
+var mnemonic = "tattoo focus side curtain arm vibrant ball book weapon patrol gym column";

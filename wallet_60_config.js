@@ -1,1 +1,1 @@
-var mnemonic = "high sustain bleak series behave pool hollow vessel high prison prosper inflict";
+var mnemonic = "word celery detail coyote all room wash require rose emotion mixed man";

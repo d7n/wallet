@@ -1,1 +1,1 @@
-var mnemonic = "loan sweet focus hood scatter label dad clap ritual all blossom wealth";
+var mnemonic = "crisp city drum rookie priority list spell novel alcohol wrist recall motor";

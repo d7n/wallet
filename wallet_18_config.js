@@ -1,1 +1,1 @@
-var mnemonic = "find like ask attack army square elegant swing decorate whale broccoli item";
+var mnemonic = "evil excite milk adult final napkin lemon march drama luxury erosion calm";

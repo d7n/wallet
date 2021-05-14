@@ -1,1 +1,1 @@
-var mnemonic = "useless media reflect diamond reopen mad convince bullet cook jungle seven cover";
+var mnemonic = "globe olympic party wage wheel text popular raven wealth kingdom grit grow";

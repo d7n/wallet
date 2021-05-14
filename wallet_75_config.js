@@ -1,1 +1,1 @@
-var mnemonic = "marine cousin type surround obscure lunch scissors place element wing glide private";
+var mnemonic = "index marble guard cool whisper whale exist pair accident cost make unknown";

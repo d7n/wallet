@@ -1,1 +1,1 @@
-var mnemonic = "brain visit between lesson advance hire gaze frame bullet man correct give";
+var mnemonic = "fatigue crouch escape pony domain reunion hospital tooth supreme urge romance flock";

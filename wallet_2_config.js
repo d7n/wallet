@@ -1,1 +1,1 @@
-var mnemonic = "broccoli verify dog finish enhance dad inspire moon salon zero fury regular";
+var mnemonic = "math moon accident grab before youth program worth enlist display name present";

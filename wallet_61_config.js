@@ -1,1 +1,1 @@
-var mnemonic = "wave caught hover good slush gesture one process zoo topic normal gown";
+var mnemonic = "spoil impact fine rose record glow tooth pledge theory maid eyebrow trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty cause soda damp story hidden offer neglect about replace measure find";
+var mnemonic = "spawn inform minimum fox grape spirit ignore wood already later equip denial";

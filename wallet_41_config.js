@@ -1,1 +1,1 @@
-var mnemonic = "hammer april eternal unhappy arrest dizzy address sleep sunny warm sword pill";
+var mnemonic = "input floor unaware marine hope cross mixture subway attitude face future enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "belt fringe evoke buffalo gravity brown unique faculty great swift decline vast";
+var mnemonic = "increase ribbon treat great certain rug accident often quote pulse oil trap";

@@ -1,1 +1,1 @@
-var mnemonic = "logic increase march antenna genuine physical verify habit dress option tonight clerk";
+var mnemonic = "toilet mesh stock power mesh imitate slight wisdom join pave control deliver";

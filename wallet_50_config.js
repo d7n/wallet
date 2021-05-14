@@ -1,1 +1,1 @@
-var mnemonic = "doll field axis success trap equip hub utility voyage opera pet exchange";
+var mnemonic = "alley argue quality kit view affair cost father elephant measure retreat old";

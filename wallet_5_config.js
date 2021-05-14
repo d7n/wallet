@@ -1,1 +1,1 @@
-var mnemonic = "initial glory engage refuse find clutch quick earn tray cushion attack reduce";
+var mnemonic = "predict street surround nuclear lottery opera moon inject rule midnight human portion";

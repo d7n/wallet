@@ -1,1 +1,1 @@
-var mnemonic = "search hand width purse before rebuild shuffle bus train stock rib weasel";
+var mnemonic = "piano muscle refuse option adult random fade comfort toward tuna kangaroo smile";

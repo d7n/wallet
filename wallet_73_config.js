@@ -1,1 +1,1 @@
-var mnemonic = "pass south audit entry label lunar junior milk employ shoe sight october";
+var mnemonic = "beach mandate hood gate add fury nominee neglect insane pull laundry coach";

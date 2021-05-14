@@ -1,1 +1,1 @@
-var mnemonic = "afraid oblige bubble clump unlock merge shuffle rally rival slice bubble visa";
+var mnemonic = "bless spatial dirt fun cook circle blast kiwi unveil recycle law belt";

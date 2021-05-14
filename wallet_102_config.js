@@ -1,1 +1,1 @@
-var mnemonic = "peanut check discover remain file globe among high session bench better guess";
+var mnemonic = "despair wedding question rival donor machine rice fruit weapon detail man mistake";

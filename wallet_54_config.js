@@ -1,1 +1,1 @@
-var mnemonic = "theme minor faculty decide subject bubble urban enforce chuckle smart kitchen split";
+var mnemonic = "mirror chat immune glue neck goose ball edge giggle divert room chronic";
