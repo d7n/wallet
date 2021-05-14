@@ -1,1 +1,1 @@
-var mnemonic = "smooth label journey vendor label earth honey stem spawn beyond negative have";
+var mnemonic = "winter stock village hen car depend tooth slice claim upper idle embark";

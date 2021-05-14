@@ -1,1 +1,1 @@
-var mnemonic = "solid belt jelly blanket gentle shove trumpet pioneer raven hip wait unfold";
+var mnemonic = "multiply mutual bench green scatter rebuild roast group excite rib aspect kite";

@@ -1,1 +1,1 @@
-var mnemonic = "scene entry satoshi topple narrow swamp alpha bless item health pond range";
+var mnemonic = "coast vessel wonder mother mention race movie brief cheap music kidney cricket";

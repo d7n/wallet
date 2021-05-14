@@ -1,1 +1,1 @@
-var mnemonic = "mango skull column soon owner shove pond whisper wealth industry guide kidney";
+var mnemonic = "wise liberty omit chronic couch noise main add online claw crop lawn";

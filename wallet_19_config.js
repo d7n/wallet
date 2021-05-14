@@ -1,1 +1,1 @@
-var mnemonic = "kite guide enforce require already found donate math cart coffee piece certain";
+var mnemonic = "penalty ivory hat consider praise garbage remind wrestle remove debris useless goat";

@@ -1,1 +1,1 @@
-var mnemonic = "someone fall dinner drip comfort web patrol rich work message fatigue ladder";
+var mnemonic = "obvious enforce awake remove brass merry carbon side obvious metal industry hunt";

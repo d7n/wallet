@@ -1,1 +1,1 @@
-var mnemonic = "rough share castle scrap suffer derive snake index island just side upon";
+var mnemonic = "analyst alcohol front cruel share chicken beef cactus rib analyst wash raven";

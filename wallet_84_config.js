@@ -1,1 +1,1 @@
-var mnemonic = "come fragile dance cruise erase phrase whale royal question inherit stereo forum";
+var mnemonic = "cry radar inmate evoke benefit cinnamon assault jar develop easy bean ball";

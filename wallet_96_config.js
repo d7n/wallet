@@ -1,1 +1,1 @@
-var mnemonic = "cotton shell castle digital like crouch admit hazard joke maximum pupil pupil";
+var mnemonic = "regret assume leg balcony demise desk course town dove flock bright fish";

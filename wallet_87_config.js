@@ -1,1 +1,1 @@
-var mnemonic = "inquiry exotic donor worth piece board sample battle aunt absurd silk very";
+var mnemonic = "yard plunge unable witness expand lumber path crazy panic glare knife student";

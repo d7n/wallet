@@ -1,1 +1,1 @@
-var mnemonic = "maple jealous stay member minimum protect scout escape chair sketch rigid point";
+var mnemonic = "maze cool utility bullet drama disorder lion embrace harvest trust ill dove";

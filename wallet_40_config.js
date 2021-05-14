@@ -1,1 +1,1 @@
-var mnemonic = "ketchup trumpet mechanic grain claw mean million trim onion pen keep beyond";
+var mnemonic = "rookie try focus walnut mechanic planet edge rely wash negative original banana";

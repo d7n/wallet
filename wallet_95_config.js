@@ -1,1 +1,1 @@
-var mnemonic = "impact skull rapid report sick comfort tooth general album winter sport phone";
+var mnemonic = "unaware happy nominee frequent deny rifle elegant return enemy coin vessel junk";

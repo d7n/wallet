@@ -1,1 +1,1 @@
-var mnemonic = "disagree shrug program spirit observe student voyage dinosaur kiss fall chronic news";
+var mnemonic = "siren live ranch relax nice crush move enough maximum pole kidney imitate";

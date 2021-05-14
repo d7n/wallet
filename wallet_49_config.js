@@ -1,1 +1,1 @@
-var mnemonic = "minimum unfair job tennis industry gap winner viable general runway climb paddle";
+var mnemonic = "obscure tail tissue cherry notable private unfair wide bean dumb used mystery";

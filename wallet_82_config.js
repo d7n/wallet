@@ -1,1 +1,1 @@
-var mnemonic = "myth nature tackle number insect act ceiling wrist execute provide cactus bulb";
+var mnemonic = "furnace pottery vacant wave animal amount you steel direct work oven minute";

@@ -1,1 +1,1 @@
-var mnemonic = "food tone police switch mosquito shop there judge can magic chief strike";
+var mnemonic = "between connect staff desert breeze diesel eyebrow where bread actual frozen train";

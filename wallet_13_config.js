@@ -1,1 +1,1 @@
-var mnemonic = "coast upgrade clog side sound another tornado legend cousin win half release";
+var mnemonic = "scan method brick soldier goddess fade knock normal heart myself conduct outer";

@@ -1,1 +1,1 @@
-var mnemonic = "decade whisper scrap walnut social empty reform space sun enhance crash language";
+var mnemonic = "welcome paper able gate forget afford moon simple have blue clown fragile";

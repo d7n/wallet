@@ -1,1 +1,1 @@
-var mnemonic = "brave aerobic level flavor armor tunnel icon dilemma logic rubber student tone";
+var mnemonic = "envelope also share bread neither bargain phrase risk ship vanish aware produce";

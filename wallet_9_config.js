@@ -1,1 +1,1 @@
-var mnemonic = "mercy orphan actor visa snake skin afford govern fury idle better type";
+var mnemonic = "crime apology tenant any lesson uphold ozone decide end salt announce try";

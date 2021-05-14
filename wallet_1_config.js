@@ -1,1 +1,1 @@
-var mnemonic = "one thought fly useful staff absurd board speed barely member atom worth";
+var mnemonic = "gate frame above service stuff machine before cheap inspire fiscal depth brisk";

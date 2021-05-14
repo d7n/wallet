@@ -1,1 +1,1 @@
-var mnemonic = "inner fluid curve arena purchase age maple amazing aerobic pistol abstract window";
+var mnemonic = "crack hungry script lawsuit disagree skill wash raw ski combine abstract unfold";

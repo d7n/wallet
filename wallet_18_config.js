@@ -1,1 +1,1 @@
-var mnemonic = "gadget cat book describe twelve insane spike rebuild famous segment trumpet frown";
+var mnemonic = "radio script sign sadness upon shaft wide egg enter fashion old champion";

@@ -1,1 +1,1 @@
-var mnemonic = "forward poem always prevent print symptom phrase loan series glass catch fiction";
+var mnemonic = "club trade bike lesson begin humor topic promote tiny accident cook health";

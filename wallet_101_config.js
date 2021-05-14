@@ -1,1 +1,1 @@
-var mnemonic = "gap steak canyon corn betray van viable asset debris park trial tackle";
+var mnemonic = "annual holiday boss frost face quarter account slice rotate behave taste twice";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard update burden decide embark wave hope good immune shallow found order";
+var mnemonic = "ugly west hero gym friend surround rug dentist typical ticket warm eye";

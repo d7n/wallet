@@ -1,1 +1,1 @@
-var mnemonic = "drama chest prepare episode sound wine hockey demise scorpion art decade bench";
+var mnemonic = "save sort match note system neck banner glory vapor dinosaur dune vanish";

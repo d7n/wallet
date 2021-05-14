@@ -1,1 +1,1 @@
-var mnemonic = "sauce digital drive first visual laptop believe ensure amused denial runway visa";
+var mnemonic = "rotate pattern account across hill glory unknown price scatter thrive protect rescue";

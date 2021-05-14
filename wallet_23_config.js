@@ -1,1 +1,1 @@
-var mnemonic = "world inform burden update anchor jungle decrease prison craft stem crucial eager";
+var mnemonic = "night aware video mention crack often dynamic three egg panda trim globe";

@@ -1,1 +1,1 @@
-var mnemonic = "talent together mutual almost achieve slow churn embrace broken keep segment comfort";
+var mnemonic = "burst column theory scare income shock scene twist material outdoor group ball";

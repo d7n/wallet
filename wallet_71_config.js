@@ -1,1 +1,1 @@
-var mnemonic = "estate please solar visa cannon afford enact amount stool pulp ketchup oxygen";
+var mnemonic = "renew reject forget dish few benefit opera october verb shoot grape stock";

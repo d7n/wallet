@@ -1,1 +1,1 @@
-var mnemonic = "actual assault used ask during wonder emotion virtual wife hour manual thumb";
+var mnemonic = "ivory uncle common envelope ramp tourist swear provide barrel length vintage come";

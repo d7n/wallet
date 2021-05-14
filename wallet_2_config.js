@@ -1,1 +1,1 @@
-var mnemonic = "report toe gold govern weapon daughter couple fatal dinner skin gadget winter";
+var mnemonic = "trigger shuffle carry rose make result bird stairs allow direct seminar neither";

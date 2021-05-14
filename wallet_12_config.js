@@ -1,1 +1,1 @@
-var mnemonic = "organ chair cute canoe whisper kitchen punch jar junior swing say photo";
+var mnemonic = "toe fiction unfair grocery report magic lumber brother surprise plate first daring";

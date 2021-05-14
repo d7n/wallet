@@ -1,1 +1,1 @@
-var mnemonic = "claim general express monster safe maple stuff then wall fix coach balcony";
+var mnemonic = "hazard west awful soon tilt benefit doll dignity pizza couch brass poverty";

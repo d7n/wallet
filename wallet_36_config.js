@@ -1,1 +1,1 @@
-var mnemonic = "junk pole derive craft improve post safe museum term one absent erode";
+var mnemonic = "subway erosion physical already rebuild expose correct sad fragile disease range attitude";

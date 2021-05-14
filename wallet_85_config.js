@@ -1,1 +1,1 @@
-var mnemonic = "visual olive tip hair miracle muffin cave craft car example riot toward";
+var mnemonic = "web great fee diesel tennis fruit taste double slender near design delay";

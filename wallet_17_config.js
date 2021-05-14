@@ -1,1 +1,1 @@
-var mnemonic = "shallow large child hidden analyst abstract negative square essence exist correct pilot";
+var mnemonic = "answer lock machine chair bean rich pumpkin flock fade gesture grit earth";

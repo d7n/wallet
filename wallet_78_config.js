@@ -1,1 +1,1 @@
-var mnemonic = "upgrade connect basic draft nation flock mix label tail unable prefer elite";
+var mnemonic = "vintage keen ethics valley expose embark river property warrior sponsor eternal victory";

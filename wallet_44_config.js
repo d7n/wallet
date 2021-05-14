@@ -1,1 +1,1 @@
-var mnemonic = "tobacco retreat wait word elbow dress spend pepper double scheme crucial spike";
+var mnemonic = "search train solve demand day shop curious achieve shallow aerobic cruise barrel";

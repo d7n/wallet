@@ -1,1 +1,1 @@
-var mnemonic = "nose engage sort pencil finger teach quick method job material wing coil";
+var mnemonic = "evolve thumb air have famous soup cherry excess sponsor uncover bomb leopard";

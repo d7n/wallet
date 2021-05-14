@@ -1,1 +1,1 @@
-var mnemonic = "regret treat believe sister feel scare harvest include inside column industry car";
+var mnemonic = "bicycle lab grab sword strike illegal speed sudden extend future opinion tomorrow";

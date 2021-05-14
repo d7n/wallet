@@ -1,1 +1,1 @@
-var mnemonic = "right brain salon garden spatial art ocean bonus quality audit slogan bench";
+var mnemonic = "prevent foster river egg ticket pioneer pencil neck inhale rocket science pass";

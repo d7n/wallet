@@ -1,1 +1,1 @@
-var mnemonic = "inhale web raw blush world clever today artefact prosper swift sausage youth";
+var mnemonic = "law clump deposit ecology zone tiny cross cruise popular mercy blush ask";

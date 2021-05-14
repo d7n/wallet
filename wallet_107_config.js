@@ -1,1 +1,1 @@
-var mnemonic = "enroll impact trigger guess pencil pet catalog tumble orange hood rapid invite";
+var mnemonic = "width push such cruise humble roof produce vacuum that enable harvest remember";

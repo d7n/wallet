@@ -1,1 +1,1 @@
-var mnemonic = "floor april toss wreck outdoor fiber vast distance rotate trap equip myth";
+var mnemonic = "they code mind door dismiss stomach approve nice half myth matrix wait";

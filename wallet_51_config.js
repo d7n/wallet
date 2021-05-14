@@ -1,1 +1,1 @@
-var mnemonic = "sugar donkey entire refuse vivid solution bullet burst shrug alpha exhibit outside";
+var mnemonic = "wet inherit inmate inside opinion joy middle dismiss bunker exotic rigid prepare";

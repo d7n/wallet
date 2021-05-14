@@ -1,1 +1,1 @@
-var mnemonic = "claw fame diagram enhance affair network common evoke arm chapter bargain melt";
+var mnemonic = "sight flame mass prize turkey blush shuffle fuel panther poet dumb stool";

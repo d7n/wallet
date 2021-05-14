@@ -1,1 +1,1 @@
-var mnemonic = "finger appear subway fatigue clever leaf front position whale pave trumpet gauge";
+var mnemonic = "assist order grocery project chuckle salon taxi drift girl puppy agent sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "large giggle various tone hundred dinner cluster indicate monkey silent rookie shock";
+var mnemonic = "slight parade pig estate hat roof guard circle expand vintage nothing air";

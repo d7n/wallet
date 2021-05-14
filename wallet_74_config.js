@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur fiber gossip license chef zero level farm brief keen color glide";
+var mnemonic = "maid eyebrow leg spawn poverty utility educate illegal ginger spoon just wave";

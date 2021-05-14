@@ -1,1 +1,1 @@
-var mnemonic = "dash gospel dial claim speed surprise outdoor street raccoon install juice knock";
+var mnemonic = "close roast company course talent cool stable dog fox already twice vast";

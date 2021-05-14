@@ -1,1 +1,1 @@
-var mnemonic = "split stuff reason any maze helmet scene journey very truth slide current";
+var mnemonic = "urban seek doll case illness legend add coast citizen milk divorce because";

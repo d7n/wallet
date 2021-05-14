@@ -1,1 +1,1 @@
-var mnemonic = "coconut adapt garage ugly raw total canal trumpet salon image card trouble";
+var mnemonic = "pen kitten give kiss dignity mom tape glimpse giggle true general possible";

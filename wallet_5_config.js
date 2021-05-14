@@ -1,1 +1,1 @@
-var mnemonic = "shell verify group steak noise tennis prepare wave become exact doctor initial";
+var mnemonic = "decide balcony among key pact evidence tomorrow enhance bunker excite knife one";

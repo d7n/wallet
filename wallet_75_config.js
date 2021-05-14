@@ -1,1 +1,1 @@
-var mnemonic = "stereo country spoon weapon egg reveal disagree sight marriage science name estate";
+var mnemonic = "december indicate join eternal web canyon bag asthma head vehicle version praise";

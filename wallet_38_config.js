@@ -1,1 +1,1 @@
-var mnemonic = "strong goddess sweet twelve truth chef smoke echo mercy volcano pond tip";
+var mnemonic = "pelican gather negative jazz light select seat token raw decline spice budget";

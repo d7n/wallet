@@ -1,1 +1,1 @@
-var mnemonic = "retire brown ensure envelope outer olympic become fatigue sibling polar disagree myth";
+var mnemonic = "address boat innocent layer prepare legend twice sail fatigue dizzy build pool";

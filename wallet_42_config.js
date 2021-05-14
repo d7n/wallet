@@ -1,1 +1,1 @@
-var mnemonic = "trash blade impact lazy enable oblige focus sign because estate curtain delay";
+var mnemonic = "oblige resource air blur skull rally vintage loan alter hawk merry ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "clock puzzle amateur category armor soccer column medal grid business warrior beauty";
+var mnemonic = "have couch man capital uncover negative ride eager cross chat sponsor holiday";

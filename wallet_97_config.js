@@ -1,1 +1,1 @@
-var mnemonic = "extend circle section parade robust knife cactus first enable dentist tower obscure";
+var mnemonic = "wave unable wonder suffer crazy symptom swing medal catch volcano medal school";

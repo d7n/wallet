@@ -1,1 +1,1 @@
-var mnemonic = "ridge forward pilot belt metal physical weather hat visa pipe gas input";
+var mnemonic = "year comic best fox alcohol place sock shallow truly neck position quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "friend bulb wear outer man list erosion awkward glare wheel nothing critic";
+var mnemonic = "title feature recycle when together perfect local siren myself mandate chef firm";

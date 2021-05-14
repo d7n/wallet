@@ -1,1 +1,1 @@
-var mnemonic = "offer blue silk oppose mad install friend satoshi scrap bless slab young";
+var mnemonic = "famous health country clock until torch shy bulk force pottery jewel broom";

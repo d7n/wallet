@@ -1,1 +1,1 @@
-var mnemonic = "view forum despair riot doctor birth prosper bicycle mutual embark meat giraffe";
+var mnemonic = "arch laugh energy recipe buddy near recycle deposit rotate design frost road";

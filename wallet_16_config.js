@@ -1,1 +1,1 @@
-var mnemonic = "wine piano hurt female okay drill involve evidence order alpha cargo option";
+var mnemonic = "beyond relax sword monitor happy session tomato joke cook verb electric monkey";

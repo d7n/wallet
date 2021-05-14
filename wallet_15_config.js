@@ -1,1 +1,1 @@
-var mnemonic = "tenant discover near sun doctor ancient public hedgehog churn hundred day equip";
+var mnemonic = "since dolphin office among bench final card talent topple thank flock danger";

@@ -1,1 +1,1 @@
-var mnemonic = "cash relief alarm capital series repair intact case simple account rival phone";
+var mnemonic = "must pencil october festival swamp gesture eager drift keen veteran shop exit";

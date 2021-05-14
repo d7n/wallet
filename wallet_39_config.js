@@ -1,1 +1,1 @@
-var mnemonic = "duty goat vague secret total pitch opera north stay believe pull across";
+var mnemonic = "oxygen eyebrow future guilt witness oblige loan lunch pyramid marble scan erosion";

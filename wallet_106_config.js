@@ -1,1 +1,1 @@
-var mnemonic = "crater venture exhaust kite type success economy warfare spend human sock civil";
+var mnemonic = "silent interest festival extend copper prepare gate laundry winner stay banner deputy";

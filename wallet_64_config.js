@@ -1,1 +1,1 @@
-var mnemonic = "they lend enrich chef cabin device retire diet vanish brain dolphin profit";
+var mnemonic = "mail federal lumber exotic tone return profit tiny know provide brave vacuum";

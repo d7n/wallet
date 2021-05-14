@@ -1,1 +1,1 @@
-var mnemonic = "brass rack annual dress blame figure length play kind agent margin reopen";
+var mnemonic = "track erosion alley need reunion slam airport input balance bundle decade change";

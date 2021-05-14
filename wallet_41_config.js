@@ -1,1 +1,1 @@
-var mnemonic = "vacant various end south noise auction now since brisk tray damage crime";
+var mnemonic = "drum math wrestle wide hand bundle plunge barely wasp artwork pledge roast";

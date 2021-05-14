@@ -1,1 +1,1 @@
-var mnemonic = "cycle flag estate decade pepper someone cruise chuckle menu silly initial file";
+var mnemonic = "jacket lesson wool friend maple endorse surround lens office obvious mixture census";

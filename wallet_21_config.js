@@ -1,1 +1,1 @@
-var mnemonic = "rival night exclude govern pyramid duty night rich device stuff ability jewel";
+var mnemonic = "neglect exact circle sniff renew ahead exhibit stomach beyond viable candy mercy";

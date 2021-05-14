@@ -1,1 +1,1 @@
-var mnemonic = "patch steel blush lazy assault board seven goat torch pencil engage slight";
+var mnemonic = "follow decline ghost egg renew dilemma enact mass sword green pluck glove";

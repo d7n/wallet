@@ -1,1 +1,1 @@
-var mnemonic = "foam kangaroo file monster pudding hub brave protect version scissors faith spot";
+var mnemonic = "recall dance phone wide example fortune snake brain unusual drama crumble cube";

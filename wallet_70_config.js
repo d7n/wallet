@@ -1,1 +1,1 @@
-var mnemonic = "rug special jacket total pizza rival great stock tomorrow thing suffer enable";
+var mnemonic = "vague bar arm skate behind annual tomato steel adjust gauge position person";

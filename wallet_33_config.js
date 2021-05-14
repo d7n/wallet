@@ -1,1 +1,1 @@
-var mnemonic = "because penalty hurry quiz ancient foot dust barely like soon eye sing";
+var mnemonic = "skull alarm derive neglect lyrics plastic sketch draw solar endless program habit";

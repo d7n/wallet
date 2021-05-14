@@ -1,1 +1,1 @@
-var mnemonic = "rather report amazing skate genuine ocean need manage affair obtain brisk put";
+var mnemonic = "draft neutral pizza used master assist invest box adapt another stone join";

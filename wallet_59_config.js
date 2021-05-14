@@ -1,1 +1,1 @@
-var mnemonic = "close over sunny grab vault insect fossil observe scene crumble destroy easily";
+var mnemonic = "people digital slam citizen dolphin render spray theory pool lens plate source";

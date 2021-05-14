@@ -1,1 +1,1 @@
-var mnemonic = "addict foot feel tent brown time master captain giggle bless improve mosquito";
+var mnemonic = "popular aspect ecology slow nature clap antique baby fury smart motion cotton";

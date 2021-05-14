@@ -1,1 +1,1 @@
-var mnemonic = "surge scout glare love forward furnace guitar ginger dove mammal hamster area";
+var mnemonic = "spike nuclear force shaft artist second one gaze trick month release broccoli";

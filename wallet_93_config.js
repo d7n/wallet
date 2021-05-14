@@ -1,1 +1,1 @@
-var mnemonic = "phone purity clean switch coyote flag nature explain sniff shine crew stuff";
+var mnemonic = "blood summer oppose sword ticket entry grocery bulb end sort flock rebel";
