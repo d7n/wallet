@@ -1,1 +1,1 @@
-var mnemonic = "member device vote turn chimney occur utility silk worry genuine alert vague";
+var mnemonic = "comfort oven retreat burden hawk cargo throw grow funny supply movie oblige";

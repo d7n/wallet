@@ -1,1 +1,1 @@
-var mnemonic = "tennis flock fetch spring fame main inside assault away stomach used dirt";
+var mnemonic = "image stove despair put public nuclear expose foster figure hair twenty vast";

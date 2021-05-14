@@ -1,1 +1,1 @@
-var mnemonic = "slot across sun length exile human census void bronze derive pioneer reason";
+var mnemonic = "agree erode year rocket slender swamp width season high outside apart crystal";

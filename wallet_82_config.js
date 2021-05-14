@@ -1,1 +1,1 @@
-var mnemonic = "pizza night woman actor gas cost spice delay hazard filter champion clump";
+var mnemonic = "cycle timber enrich best excess piano flat process way marriage pact behind";

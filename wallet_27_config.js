@@ -1,1 +1,1 @@
-var mnemonic = "nut agree lend force devote input april clever sense solve practice observe";
+var mnemonic = "husband pledge tragic grit fortune thank ladder turn exotic okay shoulder medal";

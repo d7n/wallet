@@ -1,1 +1,1 @@
-var mnemonic = "arctic mansion parrot scan wrestle humble strong mandate shoulder acid glue such";
+var mnemonic = "plug cigar equal priority song minute stairs guess giraffe rebel census reason";

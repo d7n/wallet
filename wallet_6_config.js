@@ -1,1 +1,1 @@
-var mnemonic = "eight sadness method custom album swift knee program share able word daring";
+var mnemonic = "phrase pony loud window wheat myth gym basket axis artist give field";

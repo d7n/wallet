@@ -1,1 +1,1 @@
-var mnemonic = "polar effort update common ozone betray coyote leisure broken ramp find boring";
+var mnemonic = "ramp feel cancel click mechanic rocket squeeze crucial soul jar smart boil";

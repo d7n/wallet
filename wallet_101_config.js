@@ -1,1 +1,1 @@
-var mnemonic = "fat when video rich tumble erase supreme pluck feed pull stadium chuckle";
+var mnemonic = "blast remember chunk reason little caution lab diagram thunder scorpion kiwi present";

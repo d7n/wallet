@@ -1,1 +1,1 @@
-var mnemonic = "hour food place anger rail pilot space proud dream acid cram cattle";
+var mnemonic = "abandon doll success cost page receive finish act treat sport embrace midnight";

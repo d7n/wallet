@@ -1,1 +1,1 @@
-var mnemonic = "message love plug wife assume gain curtain chimney come demise walk method";
+var mnemonic = "pair clump chat yellow dynamic boss bone clerk oxygen turtle index eight";

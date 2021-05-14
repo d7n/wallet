@@ -1,1 +1,1 @@
-var mnemonic = "law salon cliff phrase six symptom gun escape dynamic collect creek similar";
+var mnemonic = "display teach federal bind boring fluid liar burst beef furnace slot mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "draw right coconut veteran result stool farm proud claim grid peace invite";
+var mnemonic = "ancient clutch fiction fiscal layer normal appear expect october special boring leg";

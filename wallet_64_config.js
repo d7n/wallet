@@ -1,1 +1,1 @@
-var mnemonic = "clog wagon market energy immense flower debate gather bread auto wise couple";
+var mnemonic = "slice voice weird warfare reduce century saddle crack latin patrol luxury scatter";

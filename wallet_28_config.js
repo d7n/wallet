@@ -1,1 +1,1 @@
-var mnemonic = "dad cabbage finger entire tattoo cabin renew rate purity helmet nation strong";
+var mnemonic = "narrow knife negative route exact feed shove sport eternal bleak essay message";

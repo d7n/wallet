@@ -1,1 +1,1 @@
-var mnemonic = "few hungry pencil bounce empty drama bachelor prize glass enrich artwork burden";
+var mnemonic = "essence recipe unlock ice object pulse cruel endorse ill option upset zebra";

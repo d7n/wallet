@@ -1,1 +1,1 @@
-var mnemonic = "magic husband under sugar profit maximum recycle organ race rude inquiry waste";
+var mnemonic = "input boy lecture treat analyst barely dog find depend vault anxiety hair";

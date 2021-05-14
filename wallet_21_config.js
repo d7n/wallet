@@ -1,1 +1,1 @@
-var mnemonic = "shove tower typical monster rigid inch reflect glove post reveal core ecology";
+var mnemonic = "truth uncle used thumb hole flock sudden stamp ecology assume almost fade";

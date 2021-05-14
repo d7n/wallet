@@ -1,1 +1,1 @@
-var mnemonic = "shuffle original execute lake round split invite nephew muscle regular affair happy";
+var mnemonic = "quality bid before glare high bracket kite walnut clutch picture novel blade";

@@ -1,1 +1,1 @@
-var mnemonic = "exact slide fruit naive real jewel chest subject orphan mother oyster reduce";
+var mnemonic = "phone rely frequent left marine donor camp spoon ozone empower balcony tide";

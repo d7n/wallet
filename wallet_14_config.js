@@ -1,1 +1,1 @@
-var mnemonic = "stadium letter display cash donate humble problem spot must flower gift bundle";
+var mnemonic = "mercy exchange battle blossom silly section gorilla express surprise dry soldier law";

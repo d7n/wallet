@@ -1,1 +1,1 @@
-var mnemonic = "glare always piece near twice zone job situate perfect divorce horror august";
+var mnemonic = "egg blue curve lens lizard nose tip budget mind accuse upset agent";

@@ -1,1 +1,1 @@
-var mnemonic = "hip drop smooth mansion access idle carpet empower split myth village noodle";
+var mnemonic = "couple grow identify cook habit pretty word genius adapt brave jazz humor";

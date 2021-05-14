@@ -1,1 +1,1 @@
-var mnemonic = "clerk beauty dry win scan wild clinic square gain frost clever noodle";
+var mnemonic = "twin scorpion lesson pill friend jelly wash awesome gaze acoustic release carpet";

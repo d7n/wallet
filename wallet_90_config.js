@@ -1,1 +1,1 @@
-var mnemonic = "sudden slush valve mutual tongue swarm insect ability path liquid vault goat";
+var mnemonic = "open engine mutual slight trash slice jacket grunt develop bright magic acid";

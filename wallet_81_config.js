@@ -1,1 +1,1 @@
-var mnemonic = "mechanic depth brass replace creek soon marriage bottom find noise horse echo";
+var mnemonic = "heavy fiction shift wagon world muscle author head oval cheap riot cousin";

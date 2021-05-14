@@ -1,1 +1,1 @@
-var mnemonic = "cabin piano dream suit sell stem pumpkin bind indoor rather evil drum";
+var mnemonic = "benefit wait wink actor unusual device fatigue there later undo simple choose";

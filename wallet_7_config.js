@@ -1,1 +1,1 @@
-var mnemonic = "zone fabric curious lottery onion kit useless loyal monkey limit nation arrest";
+var mnemonic = "ticket pattern wall lend shop next prepare gloom dentist mouse reunion crew";

@@ -1,1 +1,1 @@
-var mnemonic = "please drive resist phrase season swallow pole rose arrest you believe rhythm";
+var mnemonic = "doll breeze twist message brown sibling soldier treat divide drill lounge despair";

@@ -1,1 +1,1 @@
-var mnemonic = "false antenna useless prison deal reward first smoke trust clutch butter call";
+var mnemonic = "sugar evolve cable please joy satoshi guess sweet clog sentence shift total";

@@ -1,1 +1,1 @@
-var mnemonic = "win amazing spy such exclude shoe estate antenna cage crucial swap puppy";
+var mnemonic = "idle shock drastic elevator guitar horror leopard engine tomato beauty diesel push";

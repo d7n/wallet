@@ -1,1 +1,1 @@
-var mnemonic = "news sustain fork grain tank iron guard forward section between lizard slow";
+var mnemonic = "trim spatial polar know rely ahead anchor always host acoustic label rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "that real rare total model web wage model essay loan cheap rifle";
+var mnemonic = "kiwi because practice window success blind easily afraid jump library stock list";

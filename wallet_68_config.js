@@ -1,1 +1,1 @@
-var mnemonic = "estate youth rival tool remain awful tip toast gallery theme question check";
+var mnemonic = "weather head manual anger paddle large kangaroo report cook deposit team lift";

@@ -1,1 +1,1 @@
-var mnemonic = "assume deliver never second chair select person purse mercy lens table bike";
+var mnemonic = "common warrior village cave dish apart sausage popular job vibrant pole gold";

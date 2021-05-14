@@ -1,1 +1,1 @@
-var mnemonic = "keen pool erode riot scare million patient rate wedding code must decrease";
+var mnemonic = "elbow repair business lecture crowd aisle opinion zebra syrup much gorilla barrel";

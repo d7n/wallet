@@ -1,1 +1,1 @@
-var mnemonic = "found lend fresh wrist broom mask regular inmate frequent syrup wedding ghost";
+var mnemonic = "repeat guess dune tilt urban remind stick odor note afraid logic motor";

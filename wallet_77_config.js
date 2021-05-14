@@ -1,1 +1,1 @@
-var mnemonic = "artefact hole bike whip green ritual pepper habit pause sick verify stereo";
+var mnemonic = "minimum oven bitter kite cake favorite uniform spoon error rather glass say";

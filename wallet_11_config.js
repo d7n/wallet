@@ -1,1 +1,1 @@
-var mnemonic = "office toy proud annual hood found into upper boss room pulp visit";
+var mnemonic = "nominee brother drama hour patch language clown conduct nasty naive morning engage";

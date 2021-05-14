@@ -1,1 +1,1 @@
-var mnemonic = "upgrade pink hub loop buyer toilet vault ivory drive skull raccoon narrow";
+var mnemonic = "daughter connect airport dumb biology erode shoe what stomach physical accident list";

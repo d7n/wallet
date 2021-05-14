@@ -1,1 +1,1 @@
-var mnemonic = "agree super define hamster element keep oak tongue execute ozone couple knee";
+var mnemonic = "estate walnut provide capital extra want office gown ivory error when resource";

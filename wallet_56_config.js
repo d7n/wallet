@@ -1,1 +1,1 @@
-var mnemonic = "monitor donkey always memory scare finger glow vanish shell ability example waste";
+var mnemonic = "funny helmet black employ fever snow alter fame fatigue frame lady clay";

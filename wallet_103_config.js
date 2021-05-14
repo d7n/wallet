@@ -1,1 +1,1 @@
-var mnemonic = "series uniform remember swap special front glide mercy gun renew crucial round";
+var mnemonic = "rookie exist predict during address enter dumb fiber civil misery duty learn";

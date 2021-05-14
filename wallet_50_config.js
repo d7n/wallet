@@ -1,1 +1,1 @@
-var mnemonic = "diesel gravity large fault retire gun into olympic rough midnight odor increase";
+var mnemonic = "chunk coffee client lobster invest sport fence adapt clock axis pipe remove";

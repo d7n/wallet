@@ -1,1 +1,1 @@
-var mnemonic = "butter borrow purity drip supply pen siren glass assault endorse pig bullet";
+var mnemonic = "machine note hospital believe theme priority pen mystery foster fresh hat curve";

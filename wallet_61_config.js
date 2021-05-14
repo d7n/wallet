@@ -1,1 +1,1 @@
-var mnemonic = "mind fresh maze stone swamp draft mobile priority brain exchange predict rotate";
+var mnemonic = "demand valley cousin arrive whisper abandon jungle point start panel flip talk";

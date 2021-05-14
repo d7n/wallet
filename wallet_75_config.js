@@ -1,1 +1,1 @@
-var mnemonic = "scene frequent blame gown curve never update gallery brand gown join swear";
+var mnemonic = "midnight crunch panther raw trend carbon ride lift leave pony depth aim";

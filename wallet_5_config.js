@@ -1,1 +1,1 @@
-var mnemonic = "success shadow enjoy harsh earn chair duty expire rookie first slide cable";
+var mnemonic = "exclude input swamp rack hire black talent cereal evolve illegal innocent cereal";

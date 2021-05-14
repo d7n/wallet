@@ -1,1 +1,1 @@
-var mnemonic = "broccoli inch owner mean bird brief ride train fly physical another resource";
+var mnemonic = "spin large zone giggle walk unlock father poet daughter match merit around";

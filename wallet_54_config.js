@@ -1,1 +1,1 @@
-var mnemonic = "eight rough oval spend shove island paper axis observe pizza decline pretty";
+var mnemonic = "spice lesson correct resemble arrange yard leopard citizen absorb divide offer various";

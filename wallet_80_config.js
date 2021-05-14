@@ -1,1 +1,1 @@
-var mnemonic = "traffic immense magnet eyebrow blush miracle transfer era scissors apart mandate average";
+var mnemonic = "color only feel next shed field index all spice scene armed can";

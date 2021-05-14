@@ -1,1 +1,1 @@
-var mnemonic = "bleak fold local boost drop fantasy focus grant estate rent dish gap";
+var mnemonic = "afraid monitor october crater neither wool danger awesome biology guard dream surface";

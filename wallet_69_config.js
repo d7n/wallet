@@ -1,1 +1,1 @@
-var mnemonic = "board miss raise ski neglect flag fluid sister shoulder describe plunge sure";
+var mnemonic = "garbage april print drum coin reopen lava easily misery grab rather coast";

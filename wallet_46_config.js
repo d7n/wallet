@@ -1,1 +1,1 @@
-var mnemonic = "resource view muscle found reduce cherry scrap analyst loan old sport casual";
+var mnemonic = "second improve buddy believe need wise jeans priority usage permit pyramid flash";

@@ -1,1 +1,1 @@
-var mnemonic = "dash sell range bone prosper oblige anger report rule market wine fortune";
+var mnemonic = "quality lounge smooth jungle taxi bomb arrow sun solve patient safe disagree";

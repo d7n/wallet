@@ -1,1 +1,1 @@
-var mnemonic = "era know climb tongue genuine tomato mule glue blood powder like rule";
+var mnemonic = "mimic asset alone manual what pool reject ripple minor exercise universe describe";

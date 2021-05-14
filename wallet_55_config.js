@@ -1,1 +1,1 @@
-var mnemonic = "emotion couple account observe suffer pelican also power enough bar drastic bacon";
+var mnemonic = "hobby leisure spare cousin globe tunnel sword arena cash demise suspect machine";

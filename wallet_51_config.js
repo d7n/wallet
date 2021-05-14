@@ -1,1 +1,1 @@
-var mnemonic = "palace planet rail abuse work candy improve globe indoor music pattern capital";
+var mnemonic = "object elephant cage nose fever gorilla property nurse seven caution fee soup";

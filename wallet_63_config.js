@@ -1,1 +1,1 @@
-var mnemonic = "surprise clarify tip zebra pool trial grape aim army dinosaur upset draw";
+var mnemonic = "ripple over vessel bomb cool layer quote chicken shine inquiry tiger chest";

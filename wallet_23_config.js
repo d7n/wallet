@@ -1,1 +1,1 @@
-var mnemonic = "garment embody furnace add awful rescue debris gorilla car chapter cause village";
+var mnemonic = "section anger festival credit journey forest trophy life priority clown process lobster";

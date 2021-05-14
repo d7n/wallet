@@ -1,1 +1,1 @@
-var mnemonic = "candy elevator check dust victory system circle goose volcano old ignore water";
+var mnemonic = "kind humble brother dragon panther hen require damage rare flower equal flee";

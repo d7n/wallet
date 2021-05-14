@@ -1,1 +1,1 @@
-var mnemonic = "repeat crane spend develop road pigeon screen column option cotton multiply social";
+var mnemonic = "harbor orphan foam home derive crane rocket harbor feed danger run half";

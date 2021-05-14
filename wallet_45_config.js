@@ -1,1 +1,1 @@
-var mnemonic = "give hire power person gas boring parade sand unhappy artwork prison caution";
+var mnemonic = "absurd energy wonder media tip equip beyond solid humble wisdom drastic enhance";

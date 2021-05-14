@@ -1,1 +1,1 @@
-var mnemonic = "brave cement bicycle sentence crew patch talent evil ignore casino rich surge";
+var mnemonic = "human quarter laptop code nasty camera seven yard initial island latin coconut";

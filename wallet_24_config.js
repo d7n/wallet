@@ -1,1 +1,1 @@
-var mnemonic = "sell infant prepare snack shallow cereal believe library sad bubble human fire";
+var mnemonic = "scorpion choose advice hamster replace cricket culture yellow stone kiss post brave";

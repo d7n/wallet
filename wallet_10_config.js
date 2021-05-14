@@ -1,1 +1,1 @@
-var mnemonic = "keen defy wild skull shaft lunar bronze latin canvas promote hair dance";
+var mnemonic = "laugh deposit science fringe tennis harbor custom pipe vacant rocket cotton amateur";

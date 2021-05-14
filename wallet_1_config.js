@@ -1,1 +1,1 @@
-var mnemonic = "impact eternal cross crush frequent squirrel depart marble portion ethics bridge lawn";
+var mnemonic = "course orange leg outdoor near rebuild attack turn mandate grain reject corn";

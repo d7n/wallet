@@ -1,1 +1,1 @@
-var mnemonic = "squeeze ill kind cost wrap hunt despair twice addict beyond budget heart";
+var mnemonic = "flavor vivid human pole age decide stand immense spray ill bonus conduct";

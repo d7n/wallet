@@ -1,1 +1,1 @@
-var mnemonic = "balance family nation cupboard hollow audit alcohol involve siege attract eagle post";
+var mnemonic = "shine urge episode receive youth brief tomato pipe hip club name egg";

@@ -1,1 +1,1 @@
-var mnemonic = "one sniff camp suffer engine tunnel giraffe ride grace cat viable drum";
+var mnemonic = "denial jealous bid shrimp hair snow damage absent pupil owner flame treat";

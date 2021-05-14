@@ -1,1 +1,1 @@
-var mnemonic = "lunch human keen sketch crumble speed bar garment rapid brother neglect jaguar";
+var mnemonic = "pizza section renew zebra foil salt twice merit hold orient front stove";

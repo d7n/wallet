@@ -1,1 +1,1 @@
-var mnemonic = "carpet angle eight mail pen device remove hungry donkey original collect battle";
+var mnemonic = "lamp soda nice year clump example jealous congress bunker surface code appear";

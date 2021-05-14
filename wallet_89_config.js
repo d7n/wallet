@@ -1,1 +1,1 @@
-var mnemonic = "doll camp century two fitness indoor rain grit office blur other credit";
+var mnemonic = "easily label blade plunge front engine oppose puzzle number invest debate meadow";

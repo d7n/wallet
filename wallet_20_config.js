@@ -1,1 +1,1 @@
-var mnemonic = "top adjust window churn toy aisle elder angle purity weapon drop brand";
+var mnemonic = "lucky lock frown treat kiwi dad slice option visit soul flip tooth";

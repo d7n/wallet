@@ -1,1 +1,1 @@
-var mnemonic = "wing remind pupil exile toddler hurry motor donor comfort friend demand tennis";
+var mnemonic = "moon sun when pluck acquire image crucial scissors above antique define armor";

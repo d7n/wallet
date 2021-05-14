@@ -1,1 +1,1 @@
-var mnemonic = "erode laptop grit bubble base tomorrow blind unfold runway lake miracle genre";
+var mnemonic = "drink fade fall model celery danger fashion pulse rather culture gold strategy";

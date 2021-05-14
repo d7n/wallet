@@ -1,1 +1,1 @@
-var mnemonic = "kite spot roast shell remove yard ocean gallery say inform drop reject";
+var mnemonic = "young just indicate fan clinic iron hero denial spray feed team define";

@@ -1,1 +1,1 @@
-var mnemonic = "address danger shield daughter either fat merit small elevator curve live increase";
+var mnemonic = "clap source orange bridge develop neglect certain midnight apology erupt gentle front";

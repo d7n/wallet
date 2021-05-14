@@ -1,1 +1,1 @@
-var mnemonic = "nest garlic bring account artist isolate sweet axis chicken home remind reopen";
+var mnemonic = "breeze kiss exist bulb margin fish act ivory venture where stable silent";

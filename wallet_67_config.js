@@ -1,1 +1,1 @@
-var mnemonic = "scan until present mesh attend loud giraffe love clap betray aisle ask";
+var mnemonic = "lyrics park note mind boss opera mule cake barely space quarter juice";

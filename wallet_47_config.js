@@ -1,1 +1,1 @@
-var mnemonic = "dish believe castle mom lake jealous glide tip bright stone decline tell";
+var mnemonic = "body scheme fire indoor collect thrive dune silk voice entire obscure firm";

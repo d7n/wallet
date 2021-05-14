@@ -1,1 +1,1 @@
-var mnemonic = "web rely twice ugly arrest mammal fluid tray steel twelve economy void";
+var mnemonic = "order addict census trend top foil corn match arch spy beef crew";

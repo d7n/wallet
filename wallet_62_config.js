@@ -1,1 +1,1 @@
-var mnemonic = "elder radio possible syrup mom leaf code flag fine baby code hope";
+var mnemonic = "elephant honey will flip gold story mimic rich select absorb credit rain";

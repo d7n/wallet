@@ -1,1 +1,1 @@
-var mnemonic = "pair belt word ask level wave ready scatter rebuild hire menu humble";
+var mnemonic = "warrior gun doctor van grid shrug predict funny document twice fish fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "noise habit level auto measure maid text dish snake today spin grain";
+var mnemonic = "canal first accident interest actor trouble ordinary equal amount recall view forest";

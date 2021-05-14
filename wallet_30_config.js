@@ -1,1 +1,1 @@
-var mnemonic = "exile aisle ring peanut service feature save permit deputy enact smoke radar";
+var mnemonic = "edit addict please health very calm scout weather cloth magic pass moment";

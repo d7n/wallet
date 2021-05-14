@@ -1,1 +1,1 @@
-var mnemonic = "creek sting ignore pudding question special gas insane pen explain keen blouse";
+var mnemonic = "fault mean coral chest furnace okay street donate window exhibit horn major";

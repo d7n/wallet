@@ -1,1 +1,1 @@
-var mnemonic = "ozone excite cake deny version first note edit inquiry layer alert metal";
+var mnemonic = "home renew fine chat jazz exotic debris rule short wheel estate hybrid";

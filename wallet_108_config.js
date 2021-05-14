@@ -1,1 +1,1 @@
-var mnemonic = "universe globe mango always strike since demand dirt runway olympic wedding balance";
+var mnemonic = "surge fitness emotion hero enough person index define index penalty chaos wrist";

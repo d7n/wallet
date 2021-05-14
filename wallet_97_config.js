@@ -1,1 +1,1 @@
-var mnemonic = "ice exhibit broom frequent hero try desk tortoise squirrel coyote drum science";
+var mnemonic = "giggle ginger knee legend nut senior depend acoustic weasel enlist credit erupt";
