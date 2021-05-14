@@ -1,1 +1,1 @@
-var mnemonic = "top business fold cousin grow permit utility setup banana like dirt develop";
+var mnemonic = "mix sword zone denial vehicle legend tail wave blast mention double truck";

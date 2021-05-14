@@ -1,1 +1,1 @@
-var mnemonic = "own stool mesh embody napkin news cargo brave hip fence skill turkey";
+var mnemonic = "jar describe usage aware april donkey metal bright crane problem maid pitch";

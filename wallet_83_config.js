@@ -1,1 +1,1 @@
-var mnemonic = "income pupil snow depth grunt hurt copy mimic unable true image pretty";
+var mnemonic = "cross dice image inform hotel garment icon pluck tip empty sleep party";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma edge bring weapon check elite clown round scare moon weather drop";
+var mnemonic = "lawsuit science settle deliver fan voyage oppose family kick case raw project";

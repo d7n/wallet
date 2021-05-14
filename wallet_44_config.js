@@ -1,1 +1,1 @@
-var mnemonic = "virus vacuum chimney eight bright banner neither broom rally ostrich tooth rail";
+var mnemonic = "loop cricket drill junior swift expose artefact hip fiction tip father water";

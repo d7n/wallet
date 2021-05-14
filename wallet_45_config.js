@@ -1,1 +1,1 @@
-var mnemonic = "idle gesture amateur laugh decrease remove proud build couch faculty drill seminar";
+var mnemonic = "country cliff resource title execute vault wasp robot coral chief despair plate";

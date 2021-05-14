@@ -1,1 +1,1 @@
-var mnemonic = "road govern doll express ozone prison term neck please october scorpion response";
+var mnemonic = "first opera measure shuffle exist dismiss shoulder cruise rather swift child raise";

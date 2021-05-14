@@ -1,1 +1,1 @@
-var mnemonic = "decide harvest great pig eternal oak stairs onion pistol regular grocery drink";
+var mnemonic = "airport profit world then great artefact flip index surge virus boat come";

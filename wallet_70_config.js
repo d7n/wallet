@@ -1,1 +1,1 @@
-var mnemonic = "attend twelve today offer stomach size amazing citizen void tag initial solution";
+var mnemonic = "april speak potato wage ghost fog damage visa abuse gift flip outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "concert green fragile insect unaware onion minute luggage problem word diagram explain";
+var mnemonic = "property dress write deputy thing session shiver notable melt traffic above name";

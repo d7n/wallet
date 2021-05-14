@@ -1,1 +1,1 @@
-var mnemonic = "denial hole airport real retire action history alone visual option rare lab";
+var mnemonic = "lend pudding present captain puppy tool guitar inquiry else say oblige step";

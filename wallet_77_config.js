@@ -1,1 +1,1 @@
-var mnemonic = "lake express quote copy okay pact cover marriage rabbit banner anger long";
+var mnemonic = "famous urban combine silver music derive patient scout throw soap feel dream";

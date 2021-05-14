@@ -1,1 +1,1 @@
-var mnemonic = "oak cycle same female short foster immune minute mail sadness please tunnel";
+var mnemonic = "resemble auction carpet ahead fade glove movie eager album despair cave arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "comic another uphold more theory found joy law gossip crane detect harsh";
+var mnemonic = "vacant rib cart rail track whip cable sword slogan brief coil erosion";

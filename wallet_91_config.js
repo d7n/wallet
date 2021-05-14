@@ -1,1 +1,1 @@
-var mnemonic = "way tomato figure oppose near stock artefact note budget shoulder salt rapid";
+var mnemonic = "clown error gossip venture win beef pupil boss iron draft language solar";

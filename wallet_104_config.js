@@ -1,1 +1,1 @@
-var mnemonic = "hidden cook voyage panic tilt member ugly shoulder barely shed time discover";
+var mnemonic = "boy shrimp nose roof ritual youth toast feed peasant april monitor arch";

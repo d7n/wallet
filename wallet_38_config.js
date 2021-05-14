@@ -1,1 +1,1 @@
-var mnemonic = "pretty album border adapt obey life wolf seven twin dutch vacuum few";
+var mnemonic = "coral middle roast elder crowd feature buddy absent together real myth include";

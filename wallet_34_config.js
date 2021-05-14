@@ -1,1 +1,1 @@
-var mnemonic = "crazy nothing kitten prize blame network before hospital stuff mirror tone oval";
+var mnemonic = "diamond fossil audit bring wise melt grape legend crack damp surround oxygen";

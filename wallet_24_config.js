@@ -1,1 +1,1 @@
-var mnemonic = "rail guard brain wink venue vault soda bridge sponsor fault blast motion";
+var mnemonic = "install invest zoo rotate remember alien tilt step room eternal ignore garlic";

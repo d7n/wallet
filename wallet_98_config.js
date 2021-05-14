@@ -1,1 +1,1 @@
-var mnemonic = "woman enlist deliver account submit person fence garden response angle route medal";
+var mnemonic = "dash armor twenty reflect pulse body pact heavy thing raise sentence sibling";

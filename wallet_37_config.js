@@ -1,1 +1,1 @@
-var mnemonic = "enforce devote group uniform brain lawn stomach glad bus air seed include";
+var mnemonic = "special decline barely outdoor rain swamp energy manual athlete gather ordinary code";

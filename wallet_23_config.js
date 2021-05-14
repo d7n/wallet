@@ -1,1 +1,1 @@
-var mnemonic = "pluck usage rabbit sun hat elder employ very float below attack alert";
+var mnemonic = "nut health jewel border skull tortoise liquid curve asset spider topple awesome";

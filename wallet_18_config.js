@@ -1,1 +1,1 @@
-var mnemonic = "fossil congress vague brave blur unlock shock track age globe travel car";
+var mnemonic = "trouble advance divert island puzzle again fossil public announce copper left degree";

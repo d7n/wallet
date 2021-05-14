@@ -1,1 +1,1 @@
-var mnemonic = "afraid equip source whale answer hotel private bullet filter talk story banana";
+var mnemonic = "goose world soul enact blanket echo destroy case peasant twelve glad van";

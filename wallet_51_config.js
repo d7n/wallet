@@ -1,1 +1,1 @@
-var mnemonic = "lucky live blood uncover cabin expose build accuse mad voice plastic enhance";
+var mnemonic = "animal picture green worth clay stone pink canvas cancel vote goddess dream";

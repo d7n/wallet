@@ -1,1 +1,1 @@
-var mnemonic = "conduct identify holiday hobby physical beyond wolf fame poem dry doctor tail";
+var mnemonic = "salt chunk edit orbit parade gown dinner trip situate ripple visual approve";

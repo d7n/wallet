@@ -1,1 +1,1 @@
-var mnemonic = "wing skin unaware upgrade sweet illness pyramid wish holiday solve asthma clinic";
+var mnemonic = "bind crash come focus satoshi family judge south math august convince share";

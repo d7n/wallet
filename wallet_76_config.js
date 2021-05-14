@@ -1,1 +1,1 @@
-var mnemonic = "thrive february region west express bar own feed caught mail view life";
+var mnemonic = "census defy poverty stock gloom domain become another place addict leaf there";

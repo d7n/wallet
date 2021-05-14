@@ -1,1 +1,1 @@
-var mnemonic = "cliff garbage move reject seat female pilot clay anxiety horse more olympic";
+var mnemonic = "blame marble cherry acoustic million aspect spot unveil tonight mango park guess";

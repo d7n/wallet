@@ -1,1 +1,1 @@
-var mnemonic = "captain orbit civil business emerge sea peace primary wrist creek perfect steak";
+var mnemonic = "gossip large memory coyote remind process shed curtain flat tortoise code attend";

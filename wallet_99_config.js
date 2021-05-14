@@ -1,1 +1,1 @@
-var mnemonic = "goat glance avocado raise domain coconut end little ensure bone imitate little";
+var mnemonic = "seat finish modify deal hazard either correct warfare axis squeeze spend they";

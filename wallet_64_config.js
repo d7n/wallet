@@ -1,1 +1,1 @@
-var mnemonic = "surprise settle major another below envelope skate lens general fantasy seminar alarm";
+var mnemonic = "regular wrestle wet prosper joy report myself heavy engine aspect offer settle";

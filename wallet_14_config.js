@@ -1,1 +1,1 @@
-var mnemonic = "equip battle arm sudden fossil reopen talent arrive biology ginger farm merge";
+var mnemonic = "come second resist title violin spray net refuse dirt bubble ostrich enrich";

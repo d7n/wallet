@@ -1,1 +1,1 @@
-var mnemonic = "harbor umbrella exotic elegant crunch gallery member order fog debate ketchup pupil";
+var mnemonic = "nature sense scrub arm polar valid win truly poet horror solve now";

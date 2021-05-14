@@ -1,1 +1,1 @@
-var mnemonic = "depend tissue afford fan brief price junk tree more ball age rubber";
+var mnemonic = "strategy later riot glue throw immense ancient hungry assist leg soup swear";

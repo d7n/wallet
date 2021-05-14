@@ -1,1 +1,1 @@
-var mnemonic = "legend evolve brand trim theory ride banana glass swear purpose lawn story";
+var mnemonic = "canyon burden palm latin right topple regret adjust step canyon bleak card";

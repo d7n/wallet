@@ -1,1 +1,1 @@
-var mnemonic = "spawn mask fortune smart skirt grocery slam lion accident tank will cost";
+var mnemonic = "minute boil involve ugly original bone build initial panel away recipe uniform";

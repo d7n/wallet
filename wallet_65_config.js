@@ -1,1 +1,1 @@
-var mnemonic = "donkey share despair voice east toe coffee display engine today era veteran";
+var mnemonic = "fancy rigid process train visa citizen cotton buddy visa fly remove account";

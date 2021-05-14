@@ -1,1 +1,1 @@
-var mnemonic = "barrel chest cattle fold thought labor increase picnic gentle equal power budget";
+var mnemonic = "lounge sock wheel announce bomb boy author velvet crater pyramid file access";

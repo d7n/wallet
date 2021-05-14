@@ -1,1 +1,1 @@
-var mnemonic = "usage hammer harbor rebel brief wet same mouse modify wedding chunk track";
+var mnemonic = "robot bring crumble author quarter impact decorate true live inmate hospital more";

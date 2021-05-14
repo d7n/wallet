@@ -1,1 +1,1 @@
-var mnemonic = "genre element discover lecture alter pudding teach next diet maple exhibit luggage";
+var mnemonic = "capable cheap sphere friend company original laptop toward initial nut milk asset";

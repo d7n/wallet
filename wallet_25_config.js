@@ -1,1 +1,1 @@
-var mnemonic = "robot satisfy invest bonus hello hint drop harvest mesh office rural orbit";
+var mnemonic = "onion emerge jewel green gift air crisp party enable below trend response";

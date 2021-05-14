@@ -1,1 +1,1 @@
-var mnemonic = "track tumble power soldier artist cage cabbage adapt hello athlete local replace";
+var mnemonic = "feed hero honey height force survey between offer tape attack sibling sorry";

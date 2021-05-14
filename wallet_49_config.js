@@ -1,1 +1,1 @@
-var mnemonic = "dog february jeans tonight photo eight man develop flip tribe light surround";
+var mnemonic = "garden embrace picnic hand parrot arrest enjoy hour anchor tooth use rebel";

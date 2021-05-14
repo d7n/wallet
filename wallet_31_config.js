@@ -1,1 +1,1 @@
-var mnemonic = "hood wire enjoy profit cherry blame display sauce okay mutual column raw";
+var mnemonic = "pause bike real wreck gap coach sail catch crowd hawk perfect stick";

@@ -1,1 +1,1 @@
-var mnemonic = "three pioneer throw jungle radar reflect describe alone tell salute tooth crumble";
+var mnemonic = "shell open magic purse slide cat prize process ladder payment wheel split";

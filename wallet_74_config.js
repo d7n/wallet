@@ -1,1 +1,1 @@
-var mnemonic = "uncover order replace split dizzy stool donate horn food mask evil object";
+var mnemonic = "ketchup rude peace pear vacuum double fabric kid jacket razor accuse fold";

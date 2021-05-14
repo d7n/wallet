@@ -1,1 +1,1 @@
-var mnemonic = "bar miracle tunnel door nation owner hurt shrug uncover solve forum latin";
+var mnemonic = "much gather edge humor meat cherry core car office lounge gaze burst";

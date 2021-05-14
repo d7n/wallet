@@ -1,1 +1,1 @@
-var mnemonic = "wave crane member style sure flavor thing bachelor wild will pulse idea";
+var mnemonic = "miss worry bench lens begin connect infant owner shop science abandon tell";

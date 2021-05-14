@@ -1,1 +1,1 @@
-var mnemonic = "ride route kangaroo model top run issue cash tribe wrestle lottery escape";
+var mnemonic = "thrive load spy tide need quarter diagram deliver actual panda rubber vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "foil little flat oyster elegant ill slam biology nation strategy achieve hover";
+var mnemonic = "endorse patient sport feature garden sweet tattoo topic topic elegant artwork road";

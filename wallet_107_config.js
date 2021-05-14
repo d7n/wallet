@@ -1,1 +1,1 @@
-var mnemonic = "seven razor boat eyebrow battle general clerk hybrid review exact high regret";
+var mnemonic = "range response denial dice prosper punch trumpet nasty crater reveal token ozone";

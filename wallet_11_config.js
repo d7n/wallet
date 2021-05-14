@@ -1,1 +1,1 @@
-var mnemonic = "trumpet relief response fashion shuffle dignity despair car little bag verb connect";
+var mnemonic = "pottery west soda machine other crush false column tube sniff art earth";

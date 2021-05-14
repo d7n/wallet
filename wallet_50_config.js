@@ -1,1 +1,1 @@
-var mnemonic = "fever identify section street safe acoustic worth funny adapt repeat corn moment";
+var mnemonic = "neither gym version zoo connect change violin pig tooth test special dizzy";

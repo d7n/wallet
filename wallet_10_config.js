@@ -1,1 +1,1 @@
-var mnemonic = "click wine universe since aspect control fitness neutral mercy kind cherry immense";
+var mnemonic = "deer bulb accuse alcohol cave elite fiction sun grunt hold safe end";

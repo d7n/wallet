@@ -1,1 +1,1 @@
-var mnemonic = "ticket gaze identify tourist icon flock dune cloth knee shell december grocery";
+var mnemonic = "sleep orphan glory hawk enjoy bitter credit spider right engine dose audit";

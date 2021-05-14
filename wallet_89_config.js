@@ -1,1 +1,1 @@
-var mnemonic = "flock velvet kiss sponsor hurry apple master error morning labor cat file";
+var mnemonic = "cry love derive grocery genuine position minor setup tackle become odor agent";

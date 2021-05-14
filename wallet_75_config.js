@@ -1,1 +1,1 @@
-var mnemonic = "enrich level antenna shaft oval hobby reveal grant mix swear angry acquire";
+var mnemonic = "mask feel chapter moment crouch enjoy real firm lend differ math tragic";

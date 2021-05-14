@@ -1,1 +1,1 @@
-var mnemonic = "disagree void stumble library benefit clinic fury under snake neutral critic kind";
+var mnemonic = "stadium split fringe thumb athlete captain trophy eternal license faculty first wash";

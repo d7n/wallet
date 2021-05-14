@@ -1,1 +1,1 @@
-var mnemonic = "elegant remind tuna reform tilt chest mesh ladder omit certain visual era";
+var mnemonic = "card cause cloud seven inside impose genre trigger hybrid swing icon game";

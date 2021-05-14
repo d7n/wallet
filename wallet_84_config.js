@@ -1,1 +1,1 @@
-var mnemonic = "south surface blood economy foot fall crop way satoshi addict jelly wheel";
+var mnemonic = "shrimp ride work very ostrich circle cherry element jeans always daughter control";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict spread dial marble prevent humor uniform battle excite oven hood valid";
+var mnemonic = "fan wine slot lawn oil chicken budget champion idle armor tuition badge";

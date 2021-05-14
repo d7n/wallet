@@ -1,1 +1,1 @@
-var mnemonic = "vacant enroll harbor naive tongue basket spin ladder fold swim forest forest";
+var mnemonic = "meat program crunch quick mushroom report space push clinic suspect recycle swing";

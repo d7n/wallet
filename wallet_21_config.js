@@ -1,1 +1,1 @@
-var mnemonic = "power glance slow mean detail absent gather zone mobile paper dawn album";
+var mnemonic = "will people drum case warfare urge route happy holiday goat belt carbon";

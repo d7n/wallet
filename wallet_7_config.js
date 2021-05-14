@@ -1,1 +1,1 @@
-var mnemonic = "normal fragile idle horse tomato half grain spike seat tragic know sport";
+var mnemonic = "palm crowd pelican twenty jungle cancel divorce marine budget crane large express";

@@ -1,1 +1,1 @@
-var mnemonic = "desert inherit melt soon gauge manual true mention cinnamon melt victory stomach";
+var mnemonic = "left express property engine present sting fortune east kid female praise way";

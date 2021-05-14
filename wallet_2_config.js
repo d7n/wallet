@@ -1,1 +1,1 @@
-var mnemonic = "invest anchor patient target joke level ecology earn chaos gown empty flavor";
+var mnemonic = "plunge double cycle local adjust vacant metal wisdom guilt disorder walnut sunny";

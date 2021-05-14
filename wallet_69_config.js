@@ -1,1 +1,1 @@
-var mnemonic = "alert brief attend million cute town volume profit inject pyramid stick hold";
+var mnemonic = "goddess vague tiny enable legal enable talent feature garment coin tag cherry";

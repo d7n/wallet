@@ -1,1 +1,1 @@
-var mnemonic = "company example distance skull connect scout grab fade oxygen film hope scene";
+var mnemonic = "undo setup royal quote outside distance city walk carbon glow general urge";

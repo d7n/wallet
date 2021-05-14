@@ -1,1 +1,1 @@
-var mnemonic = "leaf dilemma arrest promote addict glow year knock more easily palace skirt";
+var mnemonic = "amazing want explain paper swift van clog ocean lyrics fringe raise attract";

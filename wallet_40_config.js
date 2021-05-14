@@ -1,1 +1,1 @@
-var mnemonic = "ranch devote gasp delay sudden hobby arrive shrimp better enjoy boring giraffe";
+var mnemonic = "business antenna pave mass absorb north human general torch tray grab spread";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat zero cake give glass kingdom train amateur purchase region club weapon";
+var mnemonic = "pole cat addict blade kiss loyal sign emerge clever birth accuse wage";

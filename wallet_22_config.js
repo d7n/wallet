@@ -1,1 +1,1 @@
-var mnemonic = "endorse subject next bless giggle audit once knock peasant income goat loyal";
+var mnemonic = "alpha start pole across conduct hole purpose empty large ecology tuition famous";

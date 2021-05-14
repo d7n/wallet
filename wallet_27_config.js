@@ -1,1 +1,1 @@
-var mnemonic = "speed hammer harbor try police accuse mom crouch rely gentle bean churn";
+var mnemonic = "solve true detail identify tribe burden congress endless upon judge myth bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "act tray physical hidden edit vacant yellow vendor depend mammal can flush";
+var mnemonic = "glad rookie write virtual impulse detect still list dolphin skull finger twenty";

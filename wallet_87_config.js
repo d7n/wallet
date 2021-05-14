@@ -1,1 +1,1 @@
-var mnemonic = "manual art problem later crop palace birth brisk vocal aspect hover reunion";
+var mnemonic = "diet health reform nerve nice cable word taxi mesh cruel sail tunnel";

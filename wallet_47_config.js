@@ -1,1 +1,1 @@
-var mnemonic = "talent region indicate repeat wrap siren radio fox recall march return require";
+var mnemonic = "width slab force reunion champion follow travel company tribe can couch sing";

@@ -1,1 +1,1 @@
-var mnemonic = "debris arrange flip brand betray very nerve wedding doll retire garbage erase";
+var mnemonic = "oyster man purse example price add grass swift profit main olympic wreck";

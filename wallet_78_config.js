@@ -1,1 +1,1 @@
-var mnemonic = "pride gadget day piece aspect exile banner purse gain spice material glass";
+var mnemonic = "involve tuition staff direct vapor water man winner curtain palm acquire patch";

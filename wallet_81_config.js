@@ -1,1 +1,1 @@
-var mnemonic = "inch glue entry easy immune wool report slow then glue crater juice";
+var mnemonic = "hawk olive draw resemble atom flock choice force miracle slow mixture what";

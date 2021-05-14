@@ -1,1 +1,1 @@
-var mnemonic = "chimney worry energy educate female flame room arrow liberty ill right sick";
+var mnemonic = "galaxy reveal web pudding error benefit slice novel lumber shock start okay";

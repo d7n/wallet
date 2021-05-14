@@ -1,1 +1,1 @@
-var mnemonic = "board have genius garbage nurse scrap unique eagle pen column crouch smile";
+var mnemonic = "escape purity memory calm bag dish never between door before vault fever";

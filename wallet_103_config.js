@@ -1,1 +1,1 @@
-var mnemonic = "private sorry endorse purity symbol load trigger liberty foot promote rebel slab";
+var mnemonic = "act corn decrease palace control wet spoon fog maple parent express citizen";

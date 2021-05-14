@@ -1,1 +1,1 @@
-var mnemonic = "thing silk squeeze weasel solar install stone rich caught make pet polar";
+var mnemonic = "nurse culture maximum topple uncover treat tent cruel device pen copper feed";

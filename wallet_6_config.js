@@ -1,1 +1,1 @@
-var mnemonic = "robust episode repeat guitar mule carry acquire winner analyst captain coin flip";
+var mnemonic = "captain defy stick pond negative cinnamon test cushion promote best business wreck";

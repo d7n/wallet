@@ -1,1 +1,1 @@
-var mnemonic = "alone device popular flight midnight connect deer unique certain crumble umbrella hen";
+var mnemonic = "cost empty ivory wedding bargain cluster auction stamp retire will debate response";

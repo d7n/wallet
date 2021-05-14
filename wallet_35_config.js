@@ -1,1 +1,1 @@
-var mnemonic = "can gym news flight train disease budget key word arrow tomorrow dumb";
+var mnemonic = "faith alarm online rug scare between stairs program thank scorpion feel only";

@@ -1,1 +1,1 @@
-var mnemonic = "portion garbage agent crawl magic love edit huge balance panther exhibit stamp";
+var mnemonic = "love smile section mule seven utility school ridge tattoo start capable bulk";

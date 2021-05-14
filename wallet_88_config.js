@@ -1,1 +1,1 @@
-var mnemonic = "garment carpet inhale reform album priority fog federal curious gold simple school";
+var mnemonic = "gift vivid street column cry virtual arrive walk eagle banner myth because";

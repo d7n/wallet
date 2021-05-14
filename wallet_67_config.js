@@ -1,1 +1,1 @@
-var mnemonic = "canal throw expand prison antique produce advice safe skirt return benefit material";
+var mnemonic = "that donor swarm chimney path rapid pig goddess color move renew cream";

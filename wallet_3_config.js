@@ -1,1 +1,1 @@
-var mnemonic = "excuse strike stand devote fee oxygen cup kite chimney case bulb mansion";
+var mnemonic = "sunny acquire guide climb mention symbol crack ski wife finish kitten rhythm";
