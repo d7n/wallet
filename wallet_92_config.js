@@ -1,1 +1,1 @@
-var mnemonic = "way only they zoo unfair milk shaft diesel art clever focus winter";
+var mnemonic = "airport trap prison author style major elephant advice off frown shadow focus";

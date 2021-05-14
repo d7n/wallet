@@ -1,1 +1,1 @@
-var mnemonic = "space bird drop raven chronic common remain insane voyage finger depart say";
+var mnemonic = "mouse second report gown genius wrist rose adapt someone heart front celery";

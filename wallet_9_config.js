@@ -1,1 +1,1 @@
-var mnemonic = "radar ten inspire menu cargo will gift never eagle road reveal belt";
+var mnemonic = "couch person cushion mechanic know clock confirm public tomorrow sorry tank exchange";

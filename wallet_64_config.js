@@ -1,1 +1,1 @@
-var mnemonic = "grow embark winner social loan add venture mushroom lemon object museum injury";
+var mnemonic = "sport leg uncle rib distance movie turkey afford drop sponsor vanish lumber";

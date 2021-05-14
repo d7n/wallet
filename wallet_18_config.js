@@ -1,1 +1,1 @@
-var mnemonic = "when vanish chicken siege actual genuine bench utility motion orphan main damp";
+var mnemonic = "summer metal stable satisfy among junior virtual current volume range bitter media";

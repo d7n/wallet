@@ -1,1 +1,1 @@
-var mnemonic = "cousin amount thunder acid hip annual lazy such right horse pumpkin desk";
+var mnemonic = "glow spatial memory judge ball proud accident table multiply flat battle universe";

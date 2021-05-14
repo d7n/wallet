@@ -1,1 +1,1 @@
-var mnemonic = "gossip annual project rate advance spoon stamp radar kite update fruit jeans";
+var mnemonic = "census amazing giggle convince clutch echo old prosper rocket suggest harvest exchange";

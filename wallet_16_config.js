@@ -1,1 +1,1 @@
-var mnemonic = "shoe robot quantum execute fancy snap engine country number harvest crumble potato";
+var mnemonic = "page wedding poet home owner pilot crystal capable panda unveil trim tiny";

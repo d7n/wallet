@@ -1,1 +1,1 @@
-var mnemonic = "busy price wheat churn chair multiply reform rail royal helmet object monster";
+var mnemonic = "mother never endless drive foster grace vacant brand wet permit topic spice";

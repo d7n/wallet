@@ -1,1 +1,1 @@
-var mnemonic = "hub trap network empower expect spoil beauty ring limit science prison feel";
+var mnemonic = "amateur moment solution hobby boss shine cake topic receive dad require wool";

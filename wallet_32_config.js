@@ -1,1 +1,1 @@
-var mnemonic = "key body antique impulse very brush radar middle flavor nothing venue monster";
+var mnemonic = "calm crash only such clown beyond limb swing trophy picnic poverty arm";

@@ -1,1 +1,1 @@
-var mnemonic = "render engine design hand under want chronic street accuse embark today call";
+var mnemonic = "mandate must brick category judge upper object walnut story bean gather kind";

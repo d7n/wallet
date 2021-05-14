@@ -1,1 +1,1 @@
-var mnemonic = "crystal reform quarter trouble innocent chunk twice suit hedgehog will cheese document";
+var mnemonic = "logic steak among segment must hint include rely shift romance noble dose";

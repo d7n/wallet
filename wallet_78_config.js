@@ -1,1 +1,1 @@
-var mnemonic = "wave ankle luggage practice step force bubble shrug lazy truly alone patch";
+var mnemonic = "rotate enough impulse silent stool express fame crack apology stone myth man";

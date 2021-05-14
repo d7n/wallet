@@ -1,1 +1,1 @@
-var mnemonic = "random device canoe outer can island venue shift arm obscure coffee camera";
+var mnemonic = "huge vendor bleak toddler fox poverty night swarm panther piano rebel symptom";

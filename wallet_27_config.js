@@ -1,1 +1,1 @@
-var mnemonic = "taste cube empty ankle hover bulb wrap baby miss muffin model rival";
+var mnemonic = "garage salute dizzy asset soap express begin oppose state mule match unfair";

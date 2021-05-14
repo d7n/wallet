@@ -1,1 +1,1 @@
-var mnemonic = "hill focus interest stable vocal clay build owner congress fun universe stamp";
+var mnemonic = "snow fee pitch topple live flavor rice stairs shaft tube salute resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "hill key reopen episode now song rigid panda tide gravity sand mass";
+var mnemonic = "push lottery mean never cactus pond kind bunker boring fit merit nature";

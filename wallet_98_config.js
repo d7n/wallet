@@ -1,1 +1,1 @@
-var mnemonic = "portion spawn tower remove clip adjust daughter address tribe chicken affair pencil";
+var mnemonic = "seminar plastic verify decline sad tackle hidden chef excite address smooth fiscal";

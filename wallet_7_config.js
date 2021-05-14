@@ -1,1 +1,1 @@
-var mnemonic = "harsh drop sort voice normal soccer comic head surface state motor veteran";
+var mnemonic = "book scrub obtain strike conduct just damage tent coin chalk orient elegant";

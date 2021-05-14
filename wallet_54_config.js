@@ -1,1 +1,1 @@
-var mnemonic = "rich invest rate run voice gas dial copper course slogan focus mind";
+var mnemonic = "blue live cave song trophy grief road left future fit deputy arch";

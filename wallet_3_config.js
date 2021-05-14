@@ -1,1 +1,1 @@
-var mnemonic = "decorate image worth hope case scare grape sugar couple female sting palace";
+var mnemonic = "face warm best run mercy crisp chaos tiger end cloud spider float";

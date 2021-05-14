@@ -1,1 +1,1 @@
-var mnemonic = "marble flavor prosper panel latin fall cluster adult winner crop convince injury";
+var mnemonic = "hub wall train sleep wear ozone icon mutual danger unit icon utility";

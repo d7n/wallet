@@ -1,1 +1,1 @@
-var mnemonic = "vote basket broccoli enlist can melt census tribe into sphere bronze envelope";
+var mnemonic = "army jaguar silver perfect chalk oblige scissors stomach someone timber warrior dream";

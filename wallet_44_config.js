@@ -1,1 +1,1 @@
-var mnemonic = "treat gas merry baby step faint disagree student angle universe swarm gown";
+var mnemonic = "point fancy matrix universe start have world lottery inherit impose lecture napkin";

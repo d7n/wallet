@@ -1,1 +1,1 @@
-var mnemonic = "midnight receive marble bind flag cotton fan mansion degree industry vacuum exercise";
+var mnemonic = "subject yellow tragic cream change prison sadness loop else chase suspect smile";

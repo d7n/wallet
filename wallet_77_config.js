@@ -1,1 +1,1 @@
-var mnemonic = "bar cattle right judge fashion warrior exile lawsuit spare car mask dune";
+var mnemonic = "bring pencil exhaust provide include coconut clump fix apart inspire type cable";

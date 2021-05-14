@@ -1,1 +1,1 @@
-var mnemonic = "mad attract fun void pen again sense estate silly ill stay wash";
+var mnemonic = "live hour income leopard scout strike pepper scene viable muscle express unfold";

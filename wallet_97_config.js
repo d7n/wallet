@@ -1,1 +1,1 @@
-var mnemonic = "base chase empower keep sudden access unknown net shell steak analyst nephew";
+var mnemonic = "comfort pause upper camp enter net film wine wrong rare dry biology";

@@ -1,1 +1,1 @@
-var mnemonic = "year another relax wage safe swim lobster ramp father asset kick view";
+var mnemonic = "urban good under vote tired attract office view banana rotate giant example";

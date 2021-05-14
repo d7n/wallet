@@ -1,1 +1,1 @@
-var mnemonic = "shoulder system infant bridge illness half brisk gas cross equal island obey";
+var mnemonic = "remember script leaf stem bird squeeze pumpkin crunch estate dash fuel icon";

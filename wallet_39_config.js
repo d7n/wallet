@@ -1,1 +1,1 @@
-var mnemonic = "imitate vintage carry april obtain rubber design domain quantum game gauge either";
+var mnemonic = "chair fit panic ring fee helmet whip note quiz romance sauce vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "clay allow random gasp spell speed alley foil sample age pepper rigid";
+var mnemonic = "kangaroo old right need fiction cactus dinosaur wrist cause basket salad cake";

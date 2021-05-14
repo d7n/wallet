@@ -1,1 +1,1 @@
-var mnemonic = "involve faith age essay panic window warfare kid eagle scale skill swing";
+var mnemonic = "surround day twice pear entry pet slow sock they flower bar child";

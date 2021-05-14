@@ -1,1 +1,1 @@
-var mnemonic = "fringe rabbit print story coconut figure salmon manual claw blush under suffer";
+var mnemonic = "stadium super bind young path prefer slim loud crater bargain mixture zoo";

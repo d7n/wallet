@@ -1,1 +1,1 @@
-var mnemonic = "famous famous special citizen embody bulk focus pride virus autumn average cushion";
+var mnemonic = "impact enrich exist hat cool pattern survey have burger shrimp country win";

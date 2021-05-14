@@ -1,1 +1,1 @@
-var mnemonic = "useful market churn put swamp oval door glory leaf huge cause menu";
+var mnemonic = "exhibit cause glue random side limit pluck depth improve keen runway around";

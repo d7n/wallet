@@ -1,1 +1,1 @@
-var mnemonic = "medal stock juice flip utility marine attend ocean insane vibrant bitter slush";
+var mnemonic = "december middle wasp beach subway actual close world step hill walk loop";

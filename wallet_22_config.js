@@ -1,1 +1,1 @@
-var mnemonic = "bunker bomb lady gravity kitchen head enhance random economy foot scheme chicken";
+var mnemonic = "fat initial scatter iron mutual same gorilla ritual marriage topple all impulse";

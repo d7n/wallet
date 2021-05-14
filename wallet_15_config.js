@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rich they oyster income rice later lobster tray woman monitor rebuild";
+var mnemonic = "feel brother cliff dad whale fat buyer defense parent kiwi enroll brother";

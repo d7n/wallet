@@ -1,1 +1,1 @@
-var mnemonic = "head despair act cancel armed obvious obscure bulk inhale turtle outside annual";
+var mnemonic = "because ankle body arch caught rare electric sword mountain embrace baby novel";

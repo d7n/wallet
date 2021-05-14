@@ -1,1 +1,1 @@
-var mnemonic = "vicious arrange shoe play gauge frequent panic cruise custom kid history assist";
+var mnemonic = "nest first blouse stove topic depth jaguar sea donate grape retire dutch";

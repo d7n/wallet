@@ -1,1 +1,1 @@
-var mnemonic = "detect say make enforce firm green anchor quarter aware hint bunker multiply";
+var mnemonic = "jaguar stay delay love little romance wing degree mirror all apple measure";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy brother tone stove ivory eager monkey vital portion friend sister distance";
+var mnemonic = "robot country hand wrestle fluid layer joke party february dynamic device usage";

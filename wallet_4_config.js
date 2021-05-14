@@ -1,1 +1,1 @@
-var mnemonic = "green hero orbit ten plastic spice whale dust answer scout copper moral";
+var mnemonic = "mansion marble legend toss ring solution wall convince soup slight depth frozen";

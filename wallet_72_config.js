@@ -1,1 +1,1 @@
-var mnemonic = "box one oyster hero pulse elevator sail soul service armor tower mobile";
+var mnemonic = "mail permit noodle palm power they demand fuel skill orchard turtle fuel";

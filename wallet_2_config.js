@@ -1,1 +1,1 @@
-var mnemonic = "salute ocean unable clump frozen apart iron gadget decorate swear brave siren";
+var mnemonic = "siren window educate sibling unfold abstract suspect old cinnamon attend tired blame";

@@ -1,1 +1,1 @@
-var mnemonic = "remain thumb business teach whale enough sport invite mean view this party";
+var mnemonic = "junk radar black town tree indoor uniform narrow father blood cup venture";

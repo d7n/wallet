@@ -1,1 +1,1 @@
-var mnemonic = "error jeans moral sing giggle tape tired foil ticket cage dust easy";
+var mnemonic = "inmate dinner vast hobby rapid hint actual stable vote nerve feed ceiling";

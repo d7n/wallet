@@ -1,1 +1,1 @@
-var mnemonic = "exact minor when equal year hawk document skill track banner mammal install";
+var mnemonic = "license crumble jeans practice improve april swing leopard hour verb lunch glide";

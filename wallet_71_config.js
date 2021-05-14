@@ -1,1 +1,1 @@
-var mnemonic = "muffin table menu energy mixed pencil junk adult infant produce then game";
+var mnemonic = "upgrade mixed sting use over install gentle treat share minor abuse question";

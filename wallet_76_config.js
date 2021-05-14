@@ -1,1 +1,1 @@
-var mnemonic = "athlete chalk awake east better recycle coil person maximum truly idea twelve";
+var mnemonic = "coil later blood speak benefit armed rocket dice picnic gap inner talent";

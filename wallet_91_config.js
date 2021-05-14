@@ -1,1 +1,1 @@
-var mnemonic = "dish festival trust annual defense dilemma kite frame pelican neck rough risk";
+var mnemonic = "present veteran arrow visit human when joy float couch blade sell canoe";

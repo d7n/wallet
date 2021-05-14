@@ -1,1 +1,1 @@
-var mnemonic = "crew deny slender galaxy exhaust sound mandate enact liberty lava arch toss";
+var mnemonic = "regular choice comic peanut worth north loan detail leisure interest dog identify";

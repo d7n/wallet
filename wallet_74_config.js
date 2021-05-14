@@ -1,1 +1,1 @@
-var mnemonic = "meat buzz sort egg south dynamic fence judge nominee carry tide swarm";
+var mnemonic = "athlete cactus busy scrub busy shuffle aim camera age key spice fox";

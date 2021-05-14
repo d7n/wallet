@@ -1,1 +1,1 @@
-var mnemonic = "coconut leave taste lawsuit chalk job present win wash service pond letter";
+var mnemonic = "wood smart wasp smile south where slender good seat gap ramp sheriff";

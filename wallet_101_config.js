@@ -1,1 +1,1 @@
-var mnemonic = "spring floor subway crush proud mountain gather clerk surface dress spare occur";
+var mnemonic = "chief pair kit inspire hurdle aim claim fluid glance wheat rich aim";

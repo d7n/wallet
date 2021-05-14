@@ -1,1 +1,1 @@
-var mnemonic = "ten student lens core liberty glide hockey private sadness cash limb season";
+var mnemonic = "taxi detail someone peace way region polar dinner such bind black reward";

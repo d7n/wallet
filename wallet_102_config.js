@@ -1,1 +1,1 @@
-var mnemonic = "sword inch poem outdoor quarter find chapter day morning work cattle obvious";
+var mnemonic = "hero glue ahead entire document arena move merge replace dose service priority";

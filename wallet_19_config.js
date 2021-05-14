@@ -1,1 +1,1 @@
-var mnemonic = "record duck calm cool script question cool version comfort hill veteran gasp";
+var mnemonic = "damp guilt cattle jeans tuition gap claim kidney fox orphan chalk dash";

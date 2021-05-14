@@ -1,1 +1,1 @@
-var mnemonic = "upon mule about youth narrow book fluid camera tube echo gadget fashion";
+var mnemonic = "funny voyage urban heart boost bracket aunt group cave toy embark parade";

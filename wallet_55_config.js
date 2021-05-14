@@ -1,1 +1,1 @@
-var mnemonic = "puppy mad tomato door unusual poverty wine initial maid surge season athlete";
+var mnemonic = "popular margin unlock seek vote cruise april anchor october legend sound visual";

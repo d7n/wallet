@@ -1,1 +1,1 @@
-var mnemonic = "permit topic direct dignity prepare reflect blossom deny brown burst rigid replace";
+var mnemonic = "exhaust quarter pen genuine doll snap erosion crane mechanic become ivory country";

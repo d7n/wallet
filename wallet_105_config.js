@@ -1,1 +1,1 @@
-var mnemonic = "marble letter lawn agent inspire cigar sail empty faith funny curve nerve";
+var mnemonic = "patient churn tool immune vast bid year give funny drastic snack record";

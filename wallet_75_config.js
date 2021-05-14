@@ -1,1 +1,1 @@
-var mnemonic = "wool nephew cloud bone find genuine remove art river into diet inform";
+var mnemonic = "charge wagon pottery company welcome guitar open faith impact car craft clutch";

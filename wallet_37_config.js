@@ -1,1 +1,1 @@
-var mnemonic = "draw fix wasp coyote blanket stay absent win prevent novel sort harsh";
+var mnemonic = "lunch shoe jazz agent riot hawk magnet appear daughter merit tool convince";

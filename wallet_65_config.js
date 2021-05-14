@@ -1,1 +1,1 @@
-var mnemonic = "volume sweet silent lend cram marble six shallow range kingdom trick notice";
+var mnemonic = "occur lock museum marriage wear normal emotion gorilla trial sadness physical eyebrow";

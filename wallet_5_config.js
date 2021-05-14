@@ -1,1 +1,1 @@
-var mnemonic = "shell meadow artwork nominee appear dilemma cave side sight net try broken";
+var mnemonic = "risk train sun hint kit chat worth rule sense patient convince hundred";

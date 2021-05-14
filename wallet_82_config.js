@@ -1,1 +1,1 @@
-var mnemonic = "burden rebel aerobic inherit catalog review giggle elder denial dentist memory wine";
+var mnemonic = "rely gain duck spot useless prepare castle network child pudding acquire life";

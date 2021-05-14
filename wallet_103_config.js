@@ -1,1 +1,1 @@
-var mnemonic = "vessel engage artefact original corn fragile copy muffin rookie elevator umbrella acid";
+var mnemonic = "mountain novel seminar flight spirit popular illegal online pistol enhance action time";

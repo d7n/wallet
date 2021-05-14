@@ -1,1 +1,1 @@
-var mnemonic = "fiction click caught comic fun lonely budget kidney insect fame jeans afford";
+var mnemonic = "dignity lamp coyote broccoli fine engage unusual short canal hybrid vessel quality";

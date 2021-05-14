@@ -1,1 +1,1 @@
-var mnemonic = "elder promote dignity offer romance upgrade giant box scan six tribe tree";
+var mnemonic = "mind leisure custom scale square suit ticket boil exercise stock hen utility";

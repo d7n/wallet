@@ -1,1 +1,1 @@
-var mnemonic = "silk slim phrase swarm merry online road skin pause type pig pony";
+var mnemonic = "tiny hill curtain crop water fire abandon diary hedgehog cradle piano choice";

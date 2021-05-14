@@ -1,1 +1,1 @@
-var mnemonic = "agent addict direct affair clarify talent estate arena blind sort ramp deposit";
+var mnemonic = "fiscal parrot blade chimney roast shed laundry sound sound moon upon wife";

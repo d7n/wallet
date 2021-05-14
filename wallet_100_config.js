@@ -1,1 +1,1 @@
-var mnemonic = "text include crumble caution stock crunch side quiz define reform super battle";
+var mnemonic = "liar century risk trigger spare office rival wrestle embark body auction toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "angry cancel cinnamon artefact coil talent frog paper bundle hawk people torch";
+var mnemonic = "false broccoli barely rib gift wife brick invest sing bird shoe name";

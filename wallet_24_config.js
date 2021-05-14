@@ -1,1 +1,1 @@
-var mnemonic = "split zone myself nation must secret mother marine avoid avoid supreme bitter";
+var mnemonic = "bulk parade pudding culture sing move limb decline two disorder you battle";

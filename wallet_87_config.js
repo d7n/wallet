@@ -1,1 +1,1 @@
-var mnemonic = "dinner legend ignore oak patch unique very work puppy crack filter nasty";
+var mnemonic = "problem fly tumble sniff guitar palm digital tip glance afford crawl grow";

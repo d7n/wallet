@@ -1,1 +1,1 @@
-var mnemonic = "risk oyster notable toe this modify order potato awkward amused salon mechanic";
+var mnemonic = "general release gasp bullet pudding deputy whip memory maximum note thunder current";

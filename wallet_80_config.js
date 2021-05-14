@@ -1,1 +1,1 @@
-var mnemonic = "arrange steak spoon next ripple turtle usual casual hobby muffin regret deposit";
+var mnemonic = "trust valve force produce trap banana tree emerge guitar sad wet bar";

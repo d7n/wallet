@@ -1,1 +1,1 @@
-var mnemonic = "clock jewel robust paddle spoon snack march resist army retire inform artefact";
+var mnemonic = "answer defense eternal first chest veteran sausage anxiety clarify media panic profit";

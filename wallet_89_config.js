@@ -1,1 +1,1 @@
-var mnemonic = "common coyote cream actress guitar gloom tennis subway ticket system margin tower";
+var mnemonic = "worth cost book vehicle odor hire quiz dizzy crack grief render cargo";

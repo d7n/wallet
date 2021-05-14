@@ -1,1 +1,1 @@
-var mnemonic = "nose success solution smoke machine correct owner setup jar rhythm shy arrive";
+var mnemonic = "assist hello toilet slice bind blanket polar action tip load another can";

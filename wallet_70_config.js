@@ -1,1 +1,1 @@
-var mnemonic = "finger fiscal shiver satoshi wage art pitch possible brain leader sting input";
+var mnemonic = "surprise detail useful exercise hospital wool spirit skin timber clever torch crumble";

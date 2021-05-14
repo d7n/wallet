@@ -1,1 +1,1 @@
-var mnemonic = "proud reject team grow hidden happy slight drill slot parrot inform beach";
+var mnemonic = "base walk forum fit crazy wolf shy catch portion busy pupil palace";

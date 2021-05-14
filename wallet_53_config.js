@@ -1,1 +1,1 @@
-var mnemonic = "worth giggle blast night drip maple health source decrease tobacco credit record";
+var mnemonic = "problem beyond degree foster deputy trumpet stuff tide win cotton squeeze accuse";

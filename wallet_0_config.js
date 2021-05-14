@@ -1,1 +1,1 @@
-var mnemonic = "evil miracle swing rain eight salute tennis hospital laptop crawl bag pair";
+var mnemonic = "blue scout raw prize spatial frozen desert impact wasp insect recipe rally";

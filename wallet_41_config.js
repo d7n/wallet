@@ -1,1 +1,1 @@
-var mnemonic = "bamboo rocket proud hat slice room unable habit clarify shuffle code budget";
+var mnemonic = "trap issue adjust truth uniform famous eager great mesh rebel pause flee";
