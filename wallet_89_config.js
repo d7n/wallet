@@ -1,1 +1,1 @@
-var mnemonic = "accident toe trial dad outdoor acid broccoli poem danger world street stuff";
+var mnemonic = "rich april kit uncover trust firm obey timber child example inspire connect";

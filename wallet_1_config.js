@@ -1,1 +1,1 @@
-var mnemonic = "ranch three organ holiday rigid swing outdoor open bid decide urban another";
+var mnemonic = "april sail pulp core canyon glad reflect love gesture glove derive wood";

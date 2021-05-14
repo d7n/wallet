@@ -1,1 +1,1 @@
-var mnemonic = "butter aim twelve wrap pulse cherry winter swap nurse jacket pool emerge";
+var mnemonic = "level toast fringe fly clown industry share pluck lazy foil skate need";

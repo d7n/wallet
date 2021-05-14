@@ -1,1 +1,1 @@
-var mnemonic = "family conduct gift glide grape feed reason horse play tragic alone possible";
+var mnemonic = "practice convince lunch pink system grape bitter bachelor always private aware answer";

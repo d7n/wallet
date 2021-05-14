@@ -1,1 +1,1 @@
-var mnemonic = "sea happy weird alert vapor rival label menu purchase chapter retire obtain";
+var mnemonic = "flush abstract boat height allow flavor connect analyst remind depend fatal friend";

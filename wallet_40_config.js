@@ -1,1 +1,1 @@
-var mnemonic = "judge cube render try upon where salad example ozone defy cream dust";
+var mnemonic = "sell execute humor eye food toe meadow wrong inspire emerge tooth view";

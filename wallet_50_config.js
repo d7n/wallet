@@ -1,1 +1,1 @@
-var mnemonic = "bar warm giant measure echo carbon castle innocent bright lottery february impulse";
+var mnemonic = "doll rule bird lonely south inherit rug cost sweet claw cover horse";

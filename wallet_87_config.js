@@ -1,1 +1,1 @@
-var mnemonic = "addict shoulder spring sight dwarf reveal super civil story supply book suffer";
+var mnemonic = "pool shield flee intact gift erode develop inject pioneer bicycle liquid zero";

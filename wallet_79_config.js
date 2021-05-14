@@ -1,1 +1,1 @@
-var mnemonic = "style bracket near clip junk dog stairs act actual audit zone buffalo";
+var mnemonic = "cave right retreat milk very mountain edit space trigger flush gas cement";

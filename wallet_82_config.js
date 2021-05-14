@@ -1,1 +1,1 @@
-var mnemonic = "early penalty rose someone era raise display host coin minor wait useful";
+var mnemonic = "hope faint mixture quiz valley predict clump cactus tape nasty fiction quality";

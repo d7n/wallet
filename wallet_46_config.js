@@ -1,1 +1,1 @@
-var mnemonic = "fuel high wheel spike upset echo purse stock country depart manage hedgehog";
+var mnemonic = "invest deposit pattern ill engage enrich ostrich spring odor hammer seminar month";

@@ -1,1 +1,1 @@
-var mnemonic = "reward latin winter reason health noodle remind east agent vintage future actor";
+var mnemonic = "custom cave wine fan local practice muffin fox east misery together require";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma guide sight pair cost match chat minimum tourist minimum toy economy";
+var mnemonic = "stone park left current confirm scatter notice private shoe spot unfair top";

@@ -1,1 +1,1 @@
-var mnemonic = "science cause panther define believe tent gorilla tuition ten sort option turkey";
+var mnemonic = "raise smile health odor physical mountain dilemma mandate junk kid pink type";

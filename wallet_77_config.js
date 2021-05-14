@@ -1,1 +1,1 @@
-var mnemonic = "order else climb okay regret pull across insect exchange perfect arrest across";
+var mnemonic = "traffic input obscure film firm pulp noodle album hover camera stairs inside";

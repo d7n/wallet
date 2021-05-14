@@ -1,1 +1,1 @@
-var mnemonic = "silver develop duty clerk museum front dwarf mobile mad negative alpha canvas";
+var mnemonic = "skin mask moral notice lunch virus drip chat absorb neither monkey oil";

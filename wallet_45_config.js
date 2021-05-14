@@ -1,1 +1,1 @@
-var mnemonic = "crawl try episode crush goddess chuckle task urban grass offer where mix";
+var mnemonic = "kitten fatigue october mad offer lounge tide assist title exile film armed";

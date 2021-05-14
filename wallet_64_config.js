@@ -1,1 +1,1 @@
-var mnemonic = "endorse decorate magic else mango bench donor sand order twin lunch forum";
+var mnemonic = "limit dismiss inner chair club advice style help subject sick slice hundred";

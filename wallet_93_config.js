@@ -1,1 +1,1 @@
-var mnemonic = "seat speak hair page kingdom middle build melody hub addict inmate demand";
+var mnemonic = "awful almost cloud once theme debate sauce obvious umbrella feel include rubber";

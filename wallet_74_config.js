@@ -1,1 +1,1 @@
-var mnemonic = "village erase scorpion castle tiger reduce skull expand despair around civil economy";
+var mnemonic = "hat ribbon science pyramid dish cave proud steak minute cherry ugly piece";

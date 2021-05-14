@@ -1,1 +1,1 @@
-var mnemonic = "output item drip news crouch aunt spread primary dentist gym shield harvest";
+var mnemonic = "guilt either rotate ocean speak add human pride happy remain lecture join";

@@ -1,1 +1,1 @@
-var mnemonic = "boring goat tongue doctor guide sudden boost curious bounce speed remove obvious";
+var mnemonic = "lawsuit burden oyster text lend bleak local fabric mystery diet bitter bag";

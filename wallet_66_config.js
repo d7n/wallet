@@ -1,1 +1,1 @@
-var mnemonic = "crowd floor rate trick siren enough cereal steak emerge derive garden pyramid";
+var mnemonic = "embody jeans trick polar script flush supreme fresh fatal leader thank scheme";

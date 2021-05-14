@@ -1,1 +1,1 @@
-var mnemonic = "task same step assume room impose turkey enhance knife dove output earn";
+var mnemonic = "jar tourist tower fresh cannon sell size chuckle episode host couple fame";

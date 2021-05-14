@@ -1,1 +1,1 @@
-var mnemonic = "toss eagle morning frequent autumn message dwarf syrup off plunge december coast";
+var mnemonic = "reject author bid cigar tray camp danger urge bless cinnamon resist tail";

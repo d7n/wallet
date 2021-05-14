@@ -1,1 +1,1 @@
-var mnemonic = "brand salon more impose similar wild negative pretty recall reason sphere educate";
+var mnemonic = "bike moral offer deliver bounce emerge final thunder punch forward wish patient";

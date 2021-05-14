@@ -1,1 +1,1 @@
-var mnemonic = "inflict fantasy dutch betray smoke notable ability craft live rocket believe model";
+var mnemonic = "maze worry hunt bomb island indoor copper cement gasp truth daughter absurd";

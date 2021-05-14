@@ -1,1 +1,1 @@
-var mnemonic = "round intact key turn gadget soccer success aim jazz regret right few";
+var mnemonic = "mule repair venture excess maple vacuum jealous giggle equal blind lizard village";

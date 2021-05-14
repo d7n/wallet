@@ -1,1 +1,1 @@
-var mnemonic = "rebuild cruise cinnamon visit top taxi current bind nice latin jeans air";
+var mnemonic = "speed tent sibling boring consider street rose exchange life normal pact cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor awake lab timber bid exist adjust hope youth always find people";
+var mnemonic = "happy walk tragic dress absurd uniform limit another festival burst solution pioneer";

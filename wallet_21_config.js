@@ -1,1 +1,1 @@
-var mnemonic = "shove chalk shop hand hazard laugh cool march lend decorate still grunt";
+var mnemonic = "feature reunion solid degree pair result sample library toddler frequent pelican electric";

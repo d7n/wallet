@@ -1,1 +1,1 @@
-var mnemonic = "flat idea ten arch door drama badge clog baby leave own olympic";
+var mnemonic = "devote slot cream brave resemble limb logic now decrease knee blood arrow";

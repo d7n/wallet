@@ -1,1 +1,1 @@
-var mnemonic = "pig exercise rather pear trial drum skin toilet urge rebel forward disorder";
+var mnemonic = "gesture improve dance market execute annual other spell twenty satoshi throw impact";

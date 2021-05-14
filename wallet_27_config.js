@@ -1,1 +1,1 @@
-var mnemonic = "luggage track defense train prize auto wild venture illegal drop congress live";
+var mnemonic = "olympic finger word place stomach planet size loop before spike slight video";

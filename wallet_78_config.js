@@ -1,1 +1,1 @@
-var mnemonic = "measure movie plug equip solve pizza route surface life vanish water ecology";
+var mnemonic = "toast orange anchor already void sorry small answer absorb chronic pair palace";

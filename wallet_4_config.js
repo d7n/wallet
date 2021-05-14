@@ -1,1 +1,1 @@
-var mnemonic = "flat daughter pilot sting audit alcohol wheat liquid orphan popular cherry phone";
+var mnemonic = "above sting stay web flavor screen mimic account wreck kangaroo cotton slender";

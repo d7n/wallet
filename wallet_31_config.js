@@ -1,1 +1,1 @@
-var mnemonic = "knock viable before subject neck young pride rare pipe trust moral soap";
+var mnemonic = "rookie category glad glare act material screen actual monitor please never sight";

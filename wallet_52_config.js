@@ -1,1 +1,1 @@
-var mnemonic = "exit model chunk library country crack powder enough pistol forest harbor cricket";
+var mnemonic = "license decide path satisfy term during area avocado opinion anxiety jaguar calm";

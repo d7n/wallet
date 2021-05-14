@@ -1,1 +1,1 @@
-var mnemonic = "rookie produce radio peasant rack brand vibrant garlic tree stairs inside husband";
+var mnemonic = "shine theme long genius develop blur resemble dial prosper tattoo receive best";

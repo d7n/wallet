@@ -1,1 +1,1 @@
-var mnemonic = "slide dignity detail consider twenty burger napkin wood hollow rocket merge essence";
+var mnemonic = "frozen aim dance ghost legend avocado catalog wet pear stay always mansion";

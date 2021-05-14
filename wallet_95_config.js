@@ -1,1 +1,1 @@
-var mnemonic = "into yellow duck phone crime equal again strike raccoon human tribe gesture";
+var mnemonic = "gorilla stomach essay infant guard choose hat october fork pitch mention mosquito";

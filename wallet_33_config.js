@@ -1,1 +1,1 @@
-var mnemonic = "trick door talent narrow caught famous cloud mail zone pyramid frown follow";
+var mnemonic = "cruel segment position rather hedgehog remain another flock cluster humor vendor negative";

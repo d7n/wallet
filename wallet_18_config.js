@@ -1,1 +1,1 @@
-var mnemonic = "humor indoor give spirit brand derive film also chronic first index real";
+var mnemonic = "vibrant spray educate blouse patch check shop gentle hen coil gas gossip";

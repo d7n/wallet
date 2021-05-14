@@ -1,1 +1,1 @@
-var mnemonic = "discover since idea write actress brown fee comic car lift silver boring";
+var mnemonic = "betray visual salute dynamic amazing dumb gift industry require stomach wing foot";

@@ -1,1 +1,1 @@
-var mnemonic = "burger clutch abstract atom obscure other myself can ability garbage beauty kiwi";
+var mnemonic = "length share prize laundry mom topic lyrics avoid race surprise version doll";

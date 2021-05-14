@@ -1,1 +1,1 @@
-var mnemonic = "pave defy crouch badge worth predict web wolf two found obtain such";
+var mnemonic = "cover echo predict dune virus giggle then unit brief priority olive pigeon";

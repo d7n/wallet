@@ -1,1 +1,1 @@
-var mnemonic = "divorce post will thing verify mention snack correct atom lab camera then";
+var mnemonic = "volcano actor damage uncle treat this unusual essay parent fatal announce coconut";

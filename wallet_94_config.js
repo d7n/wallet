@@ -1,1 +1,1 @@
-var mnemonic = "method blind length pair bamboo all jazz rate fringe lonely brass hard";
+var mnemonic = "spoil circle strong jaguar tennis key behave arrest drastic craft use mean";

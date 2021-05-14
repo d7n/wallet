@@ -1,1 +1,1 @@
-var mnemonic = "upgrade brick family enjoy bind device thought source science tomato hello select";
+var mnemonic = "wrong subject scissors fault skate civil room bundle weasel able tourist cattle";

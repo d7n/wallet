@@ -1,1 +1,1 @@
-var mnemonic = "peanut indoor hill tide wheel bus average report artwork ill jump parrot";
+var mnemonic = "annual tomato bird network unlock outside wolf wrong camp fury cool acid";

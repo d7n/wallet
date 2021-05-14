@@ -1,1 +1,1 @@
-var mnemonic = "moment rival mammal stock auto innocent nominee able hospital avocado ethics scan";
+var mnemonic = "globe blush gas cream rival rule shallow actual athlete eagle novel neither";

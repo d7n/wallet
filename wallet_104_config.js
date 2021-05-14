@@ -1,1 +1,1 @@
-var mnemonic = "industry mass symbol alarm ten panther bargain second churn glance rude sand";
+var mnemonic = "spawn impose frozen august rare evidence produce green hobby around police pool";

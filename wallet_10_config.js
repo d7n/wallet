@@ -1,1 +1,1 @@
-var mnemonic = "twice rigid girl sand seek clay arch egg scale drive garage ribbon";
+var mnemonic = "reward hedgehog stick vendor margin frequent margin sunset example ecology write coil";

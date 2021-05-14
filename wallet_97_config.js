@@ -1,1 +1,1 @@
-var mnemonic = "brain like ugly junk volume fatigue report rice produce casual vendor diary";
+var mnemonic = "just soul custom light kitten picture husband turn own settle predict earth";

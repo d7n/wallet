@@ -1,1 +1,1 @@
-var mnemonic = "aspect check film acid whisper convince involve burden library cruise short hard";
+var mnemonic = "visa elevator remember electric broken type forget charge organ glare trumpet lonely";

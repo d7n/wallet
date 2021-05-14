@@ -1,1 +1,1 @@
-var mnemonic = "supply guitar snake help picnic still dignity ocean prepare sign lemon olympic";
+var mnemonic = "boss fat mobile hurdle celery have horn girl sun artefact wasp purchase";

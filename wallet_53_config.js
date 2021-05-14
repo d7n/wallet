@@ -1,1 +1,1 @@
-var mnemonic = "city attitude virtual decade hurry wealth never label fish rich violin sausage";
+var mnemonic = "forum retreat unaware soda resemble offer gospel march liquid north talent bridge";

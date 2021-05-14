@@ -1,1 +1,1 @@
-var mnemonic = "brown use knife acid cancel odor fault great surface produce bicycle latin";
+var mnemonic = "bitter visual song aware coach wrist bean taste stone veteran ankle ladder";

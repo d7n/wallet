@@ -1,1 +1,1 @@
-var mnemonic = "drastic inhale day certain visit unit net also memory unable version tumble";
+var mnemonic = "diamond chest remain episode deal engine anger glance wisdom tuition whale sun";

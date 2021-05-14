@@ -1,1 +1,1 @@
-var mnemonic = "now canvas base disagree tired captain always smooth shoot purse unaware badge";
+var mnemonic = "still van impulse salt wish motor again toe abstract tail debris stem";

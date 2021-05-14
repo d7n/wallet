@@ -1,1 +1,1 @@
-var mnemonic = "submit sunset cube poverty pumpkin taste hidden spatial essay deliver flag pull";
+var mnemonic = "double text inject unknown quantum foam path century birth monitor shell border";

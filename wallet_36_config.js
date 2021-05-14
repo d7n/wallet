@@ -1,1 +1,1 @@
-var mnemonic = "mad item duck hire unit tail bonus panther else topple pool title";
+var mnemonic = "depart helmet health measure coil begin flip phrase able oil avoid angry";

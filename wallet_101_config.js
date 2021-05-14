@@ -1,1 +1,1 @@
-var mnemonic = "just grit portion arm riot surface bunker tomato pink tip desk uphold";
+var mnemonic = "switch puzzle forget please rude attract broken swamp wide runway noise master";

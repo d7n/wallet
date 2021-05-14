@@ -1,1 +1,1 @@
-var mnemonic = "effort fire love student saddle master alcohol fault move also despair extra";
+var mnemonic = "close spread blue river length radar athlete feature ship erase frequent dance";

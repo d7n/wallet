@@ -1,1 +1,1 @@
-var mnemonic = "rally gown monster clinic tool rice lazy tilt gate upper garment engage";
+var mnemonic = "swear ill service park make tilt make giggle today cancel pudding execute";

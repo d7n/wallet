@@ -1,1 +1,1 @@
-var mnemonic = "ritual dignity endorse rice apart audit radio bracket inhale feel fault brief";
+var mnemonic = "pause mule auction sudden hotel place bachelor trust abstract harvest transfer reward";

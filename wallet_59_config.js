@@ -1,1 +1,1 @@
-var mnemonic = "deliver tiny drift battle useful sustain boring chicken diet adapt infant valid";
+var mnemonic = "sheriff proud please random moment state urban legend chronic increase high infant";

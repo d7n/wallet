@@ -1,1 +1,1 @@
-var mnemonic = "horn situate square critic lyrics frozen robust exclude list cricket recycle anxiety";
+var mnemonic = "jeans usage submit void enrich turtle table old caution happy daring globe";

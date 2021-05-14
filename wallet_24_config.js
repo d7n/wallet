@@ -1,1 +1,1 @@
-var mnemonic = "galaxy remove amount express strike pair episode wheel ice bracket embody proud";
+var mnemonic = "jazz south sand essence bring exit small pupil later wonder march absent";

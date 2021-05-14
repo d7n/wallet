@@ -1,1 +1,1 @@
-var mnemonic = "odor wet find ranch return hurdle clap horse pony board broccoli picnic";
+var mnemonic = "flip salute praise canoe blush brown knife rookie advance axis decorate west";

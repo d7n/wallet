@@ -1,1 +1,1 @@
-var mnemonic = "divide air away pupil able feel world scissors primary video trumpet success";
+var mnemonic = "fetch monster belt until senior fine rail write thrive rocket high gate";

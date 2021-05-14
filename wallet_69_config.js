@@ -1,1 +1,1 @@
-var mnemonic = "obscure laundry shaft jungle sad spatial soft remind follow opinion market accuse";
+var mnemonic = "salute design pledge habit food fold pencil pluck laugh journey address mandate";

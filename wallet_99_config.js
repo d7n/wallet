@@ -1,1 +1,1 @@
-var mnemonic = "ridge auction mandate top pigeon thunder piano lens afraid taxi pave until";
+var mnemonic = "strong health kick kiwi picture caught rain fiction target battle river when";

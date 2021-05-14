@@ -1,1 +1,1 @@
-var mnemonic = "destroy proof wear property believe drive amazing vacant execute chalk wisdom example";
+var mnemonic = "over document pool slab flag prison blue cream weird reflect school topple";

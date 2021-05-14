@@ -1,1 +1,1 @@
-var mnemonic = "arctic forest camera slot glare exclude casual hazard palace exit raven scorpion";
+var mnemonic = "barely bike enact pupil mirror almost absurd moment bracket dad hotel now";

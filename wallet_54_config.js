@@ -1,1 +1,1 @@
-var mnemonic = "buyer debris bachelor core aspect there wheat lock mutual marine betray visit";
+var mnemonic = "daring truth word ice entry skill typical lunar napkin diary century life";

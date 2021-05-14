@@ -1,1 +1,1 @@
-var mnemonic = "piece main spy bicycle celery service frog silver brown pigeon alter firm";
+var mnemonic = "attend pond lake bracket correct circle side orbit dove resemble airport domain";

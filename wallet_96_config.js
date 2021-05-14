@@ -1,1 +1,1 @@
-var mnemonic = "robust dance scatter oyster erupt pencil job cruel misery unaware holiday enact";
+var mnemonic = "thing room try alley view speak unique system mushroom riot immense human";

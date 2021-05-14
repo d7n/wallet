@@ -1,1 +1,1 @@
-var mnemonic = "sister language parrot jump sock album pool blood claw normal tilt inform";
+var mnemonic = "labor same guard squirrel law panic divide obtain brisk detect useful stumble";

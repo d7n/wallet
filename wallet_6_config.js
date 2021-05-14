@@ -1,1 +1,1 @@
-var mnemonic = "equal rookie income menu point evoke neck hazard team casual bulb twist";
+var mnemonic = "mirror element unfold stable enjoy pulp antique knock topic various uphold limit";

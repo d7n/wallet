@@ -1,1 +1,1 @@
-var mnemonic = "demise grunt fever leopard whip inhale draft use gravity news road below";
+var mnemonic = "attract twice glass excuse tribe grass wave interest october choice hint leisure";

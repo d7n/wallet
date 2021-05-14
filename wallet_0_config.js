@@ -1,1 +1,1 @@
-var mnemonic = "town coil virus asset parrot smart trumpet expand keep about cave abstract";
+var mnemonic = "olympic guide gentle small oval wine hole indicate have pioneer tattoo glad";

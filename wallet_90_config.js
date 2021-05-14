@@ -1,1 +1,1 @@
-var mnemonic = "innocent flash initial damage load seven corn cash shoot multiply coral better";
+var mnemonic = "excess design regular develop table open lottery ozone unaware warrior fork rack";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator unveil more treat exercise jeans pattern artwork empower beef pudding large";
+var mnemonic = "keep kitten muscle broccoli save evoke bid vehicle fabric wait thrive notable";

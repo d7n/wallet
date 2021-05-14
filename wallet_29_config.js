@@ -1,1 +1,1 @@
-var mnemonic = "clump amount typical combine rival opinion man bulb peace vicious cute dutch";
+var mnemonic = "raw parade pet drink flock copper rule afraid sunny time weapon prepare";

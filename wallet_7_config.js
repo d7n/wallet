@@ -1,1 +1,1 @@
-var mnemonic = "humor alone banana ship pool address magic genuine april wide limb reason";
+var mnemonic = "such belt select puzzle cherry extra blouse castle rival slice dry bunker";

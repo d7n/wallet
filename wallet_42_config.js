@@ -1,1 +1,1 @@
-var mnemonic = "trigger select theory want unusual leisure stove view during sweet jacket uniform";
+var mnemonic = "mango village usual admit text purity furnace neutral hello prevent supply recycle";
