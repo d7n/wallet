@@ -1,1 +1,1 @@
-var mnemonic = "divide bamboo brush steel dice library they jungle erode globe immense clever";
+var mnemonic = "level remain street path napkin step victory ship short scene cabin phone";

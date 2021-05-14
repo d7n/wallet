@@ -1,1 +1,1 @@
-var mnemonic = "net age fit cheese daughter forest floor economy own cushion next quality";
+var mnemonic = "client spatial actual only junior illegal shine finish trophy have correct unique";

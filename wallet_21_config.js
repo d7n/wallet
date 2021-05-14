@@ -1,1 +1,1 @@
-var mnemonic = "file hunt street human crowd blanket dinner deer velvet pink concert snow";
+var mnemonic = "flip arctic blood grape top naive circle honey leg warfare gold win";

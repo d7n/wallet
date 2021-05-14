@@ -1,1 +1,1 @@
-var mnemonic = "parent music cover brick aunt decorate swing stock effort faith produce evil";
+var mnemonic = "profit silk sentence wet fire taxi barrel rocket inner inject ridge start";

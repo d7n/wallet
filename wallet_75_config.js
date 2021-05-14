@@ -1,1 +1,1 @@
-var mnemonic = "hair bus rule grain dry hip cotton large oyster demise slot venue";
+var mnemonic = "airport explain invite fiscal apology pause scan squirrel hip because busy mail";

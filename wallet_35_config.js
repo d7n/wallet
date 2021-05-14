@@ -1,1 +1,1 @@
-var mnemonic = "solve rug vote swamp marble cube jaguar quick avoid destroy glare bargain";
+var mnemonic = "about size joy attitude inhale tree lend cover three embrace mango dog";

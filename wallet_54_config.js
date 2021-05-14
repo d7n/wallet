@@ -1,1 +1,1 @@
-var mnemonic = "feed pepper law normal normal rhythm wisdom glance mom once inside orange";
+var mnemonic = "payment cost hello upper jazz camp brain crisp sunset time spare gesture";

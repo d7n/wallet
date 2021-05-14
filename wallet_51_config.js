@@ -1,1 +1,1 @@
-var mnemonic = "jealous sausage prepare custom material slush surge tiny fabric glue rescue donor";
+var mnemonic = "mother empower tuition riot color journey champion hidden math seven badge laptop";

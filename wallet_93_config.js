@@ -1,1 +1,1 @@
-var mnemonic = "follow test chimney tissue affair stock boil neither coyote change warrior ask";
+var mnemonic = "hockey mosquito rotate turn anger near legend member vicious turkey genre gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "first nice join juice property kitchen undo evoke frog pigeon digital unusual";
+var mnemonic = "token track praise pledge garden shoulder real way deposit miracle bottom culture";

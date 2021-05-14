@@ -1,1 +1,1 @@
-var mnemonic = "north lunar cancel huge uniform siren heavy south treat crisp bring april";
+var mnemonic = "grass work find switch increase grass fish mixture cycle tissue blade right";

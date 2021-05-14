@@ -1,1 +1,1 @@
-var mnemonic = "section embark scale wealth pilot hurt journey thrive stone manage daughter vocal";
+var mnemonic = "round thing scrap enough destroy clerk crazy must supply pen steak void";

@@ -1,1 +1,1 @@
-var mnemonic = "concert rival spy protect actual negative cereal oyster mix oak struggle update";
+var mnemonic = "turtle dry harbor analyst rubber park desert leave hybrid frozen tell broccoli";

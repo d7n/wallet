@@ -1,1 +1,1 @@
-var mnemonic = "hope biology slot major sniff language grunt inner aspect foam orient online";
+var mnemonic = "car saddle magnet jacket image embody draft artwork parrot direct peasant truly";

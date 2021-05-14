@@ -1,1 +1,1 @@
-var mnemonic = "cat symptom soda banner core behave alien innocent speed what party pulp";
+var mnemonic = "ecology evil smile renew voice vehicle sad fatal copy soon frost sound";

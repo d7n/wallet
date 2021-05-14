@@ -1,1 +1,1 @@
-var mnemonic = "evil relief spike want fee cable crumble hundred level honey match observe";
+var mnemonic = "cradle simple capital deny lab increase lucky labor attract unable nuclear vicious";

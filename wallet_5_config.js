@@ -1,1 +1,1 @@
-var mnemonic = "business business evil olympic cook olive damage tiger opera phrase right crime";
+var mnemonic = "captain tobacco trash decade canal girl state pioneer warrior verify misery tilt";

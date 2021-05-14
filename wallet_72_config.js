@@ -1,1 +1,1 @@
-var mnemonic = "captain connect interest into fix offer mail uphold program obvious cupboard team";
+var mnemonic = "menu jelly success much more dinosaur two garage kitchen athlete kitten pill";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo issue gold patch engine wage cotton hazard net recall one joy";
+var mnemonic = "opera put act force guard siren jewel scale pause tilt actress manual";

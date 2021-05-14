@@ -1,1 +1,1 @@
-var mnemonic = "animal infant resemble rally pitch quit powder frequent hole buffalo doctor twice";
+var mnemonic = "boost sauce end unknown curtain ladder sudden festival reopen injury discover weapon";

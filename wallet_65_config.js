@@ -1,1 +1,1 @@
-var mnemonic = "video attract apple shy segment give diary flip hint belt nominee idea";
+var mnemonic = "ordinary cart drastic trick maze match pupil bean gloom bicycle since select";

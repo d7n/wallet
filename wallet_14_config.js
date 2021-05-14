@@ -1,1 +1,1 @@
-var mnemonic = "train fiber taste reflect medal february alert black clip bargain trade bounce";
+var mnemonic = "tribe life reduce master tree twin gravity live slender main soap praise";

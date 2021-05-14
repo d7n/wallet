@@ -1,1 +1,1 @@
-var mnemonic = "recipe trip polar gun copy good treat blade wild rely grass twelve";
+var mnemonic = "year arm draw avocado luxury sell various happy rack blanket blouse brother";

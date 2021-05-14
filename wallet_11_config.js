@@ -1,1 +1,1 @@
-var mnemonic = "female spoil same all zoo lonely split coffee hint web family laundry";
+var mnemonic = "fine bean place stock doll post drip attack middle prize maple trend";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin company estate alley element slogan scout engage science bamboo paper until";
+var mnemonic = "buddy breeze bachelor bag simple until afford plunge relief voice corn unfold";

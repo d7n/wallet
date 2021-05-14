@@ -1,1 +1,1 @@
-var mnemonic = "slight leg phrase seat manual collect mixture minor ability reject coin neither";
+var mnemonic = "drift member luxury alone suggest pipe happy need music census voyage cancel";

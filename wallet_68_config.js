@@ -1,1 +1,1 @@
-var mnemonic = "view expire bracket trip cable butter diet cube awkward apple spot recipe";
+var mnemonic = "then air call coffee exact dove legend siren toe ostrich loop early";

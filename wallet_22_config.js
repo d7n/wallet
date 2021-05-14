@@ -1,1 +1,1 @@
-var mnemonic = "tribe deny oak spray slot plug fire final stuff birth fish idea";
+var mnemonic = "load print practice debris gasp luggage blast cannon inhale situate tornado steak";

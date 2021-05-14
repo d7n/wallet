@@ -1,1 +1,1 @@
-var mnemonic = "frown salon slender dirt capital suit into quiz country plate burger effort";
+var mnemonic = "elephant must volume wall spray brother awful gossip clump school wing truly";

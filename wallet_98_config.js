@@ -1,1 +1,1 @@
-var mnemonic = "episode disease purse lecture argue world subject tree donkey fish rice oil";
+var mnemonic = "smart wrap ice rebel devote stairs riot skirt come mean company rotate";

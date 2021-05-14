@@ -1,1 +1,1 @@
-var mnemonic = "powder know there purchase busy athlete six jelly silk vault prepare carry";
+var mnemonic = "main judge brave sleep blame soft discover fold use across attract pave";

@@ -1,1 +1,1 @@
-var mnemonic = "arm oil grit bone source rapid spy acoustic nice correct liquid buzz";
+var mnemonic = "roof memory mountain wall height village use neither summer blanket march power";

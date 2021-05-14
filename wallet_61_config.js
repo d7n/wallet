@@ -1,1 +1,1 @@
-var mnemonic = "clump weird forest comic cabin office balance tonight relief thrive act glad";
+var mnemonic = "consider bench alter prison toe daring net absurd hub wall decorate athlete";

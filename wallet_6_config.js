@@ -1,1 +1,1 @@
-var mnemonic = "cycle client asset find fall toe solve gravity fabric absent minute slab";
+var mnemonic = "snap flag spend ugly exist useful group donor beauty length seek knee";

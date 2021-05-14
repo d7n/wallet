@@ -1,1 +1,1 @@
-var mnemonic = "hub margin choice soccer happy empty torch exit bamboo trap scan mimic";
+var mnemonic = "disagree quiz disorder trip master banner sustain silk lottery include dynamic warm";

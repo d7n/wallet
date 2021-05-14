@@ -1,1 +1,1 @@
-var mnemonic = "resource ten escape figure more pool actor abuse exclude sheriff about member";
+var mnemonic = "fiber tell juice blouse circle region planet decline arm problem huge impose";

@@ -1,1 +1,1 @@
-var mnemonic = "term pigeon ten cause general anger place luggage catch impose engine tiger";
+var mnemonic = "silk window electric volume reveal warrior swift teach giggle add clerk venture";

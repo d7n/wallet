@@ -1,1 +1,1 @@
-var mnemonic = "draw swap theory small robot certain chicken magnet exhibit bring fade feature";
+var mnemonic = "derive purchase tribe trade blossom connect arm online size saddle brick boss";

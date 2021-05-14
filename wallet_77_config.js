@@ -1,1 +1,1 @@
-var mnemonic = "primary cliff feature weather pluck empower grace random connect pulp movie clown";
+var mnemonic = "click traffic comfort ready glad close appear west sea napkin hunt border";

@@ -1,1 +1,1 @@
-var mnemonic = "appear cousin fame suit surge help soda sense learn never ramp sign";
+var mnemonic = "injury hamster exile save cycle intact venue mobile dial always lesson fine";

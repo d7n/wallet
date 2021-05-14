@@ -1,1 +1,1 @@
-var mnemonic = "horror twin grit abuse clog law robust virtual pistol window deer donor";
+var mnemonic = "sorry steak valley mule able original dove actual trap toilet warm explain";

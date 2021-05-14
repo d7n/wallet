@@ -1,1 +1,1 @@
-var mnemonic = "erode sorry october avocado concert regular avoid hip test empower close gather";
+var mnemonic = "slow lady humble sing course make finger pride beauty tornado orphan undo";

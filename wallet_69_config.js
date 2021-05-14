@@ -1,1 +1,1 @@
-var mnemonic = "always ivory swim now guilt repair venture tribe fit idea allow book";
+var mnemonic = "push excuse valve humble warm cousin wave immune differ language angle bone";

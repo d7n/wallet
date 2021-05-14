@@ -1,1 +1,1 @@
-var mnemonic = "exhaust account bless liar century number term wealth parent rather potato ensure";
+var mnemonic = "frame nice junk enjoy rug earth flash defense tattoo siege velvet book";

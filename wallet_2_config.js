@@ -1,1 +1,1 @@
-var mnemonic = "brother sure elephant clarify host nice source capable morning that paper amount";
+var mnemonic = "during card submit disagree review deal tonight ripple ability taxi arch flush";

@@ -1,1 +1,1 @@
-var mnemonic = "warm live lawn wide grid pizza rabbit stay merit assist spy deposit";
+var mnemonic = "travel foster deposit dash drop kind soon alarm pencil process olympic online";

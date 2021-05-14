@@ -1,1 +1,1 @@
-var mnemonic = "access auto stamp gospel balcony sick brother armed shield want social above";
+var mnemonic = "blast gain upper legend cool shiver dwarf leader stomach sing present breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon rib wood common crazy swamp doctor loyal eternal crew blouse parent";
+var mnemonic = "unfold gallery about identify puppy claw crawl area index memory staff prefer";

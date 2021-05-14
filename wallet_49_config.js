@@ -1,1 +1,1 @@
-var mnemonic = "open brave giggle sick police amazing ugly penalty pear deputy spot wait";
+var mnemonic = "payment sock gravity patient else among trigger hurt sponsor deliver fiscal add";

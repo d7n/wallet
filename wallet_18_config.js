@@ -1,1 +1,1 @@
-var mnemonic = "cabin okay tattoo congress cute frost maximum draw problem color erode pole";
+var mnemonic = "quick horror rhythm trade into auction scale ride brain gentle exotic uncover";

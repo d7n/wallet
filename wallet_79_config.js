@@ -1,1 +1,1 @@
-var mnemonic = "prepare achieve labor fiscal swap then sound warfare example vintage hen ride";
+var mnemonic = "expire jewel curious phrase moon hidden summer bid original calm language kitten";

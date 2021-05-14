@@ -1,1 +1,1 @@
-var mnemonic = "scale plastic science sad truck wise rely dilemma taste fantasy riot vital";
+var mnemonic = "return feel dumb viable engine arm heart void solar state dutch globe";

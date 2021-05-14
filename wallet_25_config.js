@@ -1,1 +1,1 @@
-var mnemonic = "copper enforce come stumble parrot cycle win wing damp keep diary pause";
+var mnemonic = "fork document fox void cattle convince cook time obey label paddle deputy";

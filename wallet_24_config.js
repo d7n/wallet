@@ -1,1 +1,1 @@
-var mnemonic = "mango text cricket live crew swap reflect tornado loop equal enhance little";
+var mnemonic = "manual angle indicate still fringe boost lumber dawn shaft travel vapor cluster";

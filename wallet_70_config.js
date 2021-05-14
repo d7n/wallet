@@ -1,1 +1,1 @@
-var mnemonic = "ethics fantasy style fun artefact protect exit perfect crowd theme find trumpet";
+var mnemonic = "shine creek minimum ginger wine under protect reflect surface skirt frost tank";

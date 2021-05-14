@@ -1,1 +1,1 @@
-var mnemonic = "fog wall cause artefact carpet maple account order shoe maximum second august";
+var mnemonic = "kind alone custom symbol intact color refuse spray embody deal insane doctor";

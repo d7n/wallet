@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog notice day ticket clean used until news emerge glide update oil";
+var mnemonic = "elevator lunch topple grief ritual check donor novel artist process ivory camera";

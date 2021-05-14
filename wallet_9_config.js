@@ -1,1 +1,1 @@
-var mnemonic = "misery season awake pledge napkin seek practice strike manage differ segment coach";
+var mnemonic = "pink brand permit stamp permit awake rival donor thumb reopen three caution";

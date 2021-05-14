@@ -1,1 +1,1 @@
-var mnemonic = "blossom athlete sweet camp barely daughter rebel rifle sing bounce essence inject";
+var mnemonic = "define breeze front secret comfort tiger fall puzzle congress erase trash cradle";

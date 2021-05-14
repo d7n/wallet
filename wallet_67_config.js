@@ -1,1 +1,1 @@
-var mnemonic = "face genuine leopard memory thank paddle double wear citizen color ship hold";
+var mnemonic = "boy acquire firm exact space finger marine hawk canyon inner chat actress";

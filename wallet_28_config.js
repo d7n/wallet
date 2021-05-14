@@ -1,1 +1,1 @@
-var mnemonic = "right jelly wrap damage palace ketchup medal teach card chronic erode cargo";
+var mnemonic = "auto region myth tonight december immense regret copper add pistol shuffle pause";

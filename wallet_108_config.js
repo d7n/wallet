@@ -1,1 +1,1 @@
-var mnemonic = "auto lazy castle bulb lemon scale employ faculty hero they decide unhappy";
+var mnemonic = "fame secret junior zoo evoke seven recall edge vintage else hurt dice";

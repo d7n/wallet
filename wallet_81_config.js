@@ -1,1 +1,1 @@
-var mnemonic = "ivory false mobile donate leopard detail crowd budget defy couple aisle cool";
+var mnemonic = "couch avoid ship short region absent initial team athlete poem innocent diagram";

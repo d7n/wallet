@@ -1,1 +1,1 @@
-var mnemonic = "strike wrist visa nice shallow naive walnut simple tank bamboo coconut daughter";
+var mnemonic = "scare hint blade marriage glad certain rough reject parrot common spatial document";

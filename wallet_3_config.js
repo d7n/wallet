@@ -1,1 +1,1 @@
-var mnemonic = "riot diet timber approve tunnel evolve this author grass pig rough tonight";
+var mnemonic = "focus glue way celery truck scheme concert fit inside tide chaos retire";

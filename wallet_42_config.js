@@ -1,1 +1,1 @@
-var mnemonic = "athlete town deny north bamboo dust blood amused clap tenant know return";
+var mnemonic = "alley ginger share help dove flight film usual base scrap typical motion";

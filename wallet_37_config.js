@@ -1,1 +1,1 @@
-var mnemonic = "hazard edge runway correct prison project leg south type address mountain budget";
+var mnemonic = "close merry deer submit merry pelican soldier trigger humble garment weekend ice";

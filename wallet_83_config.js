@@ -1,1 +1,1 @@
-var mnemonic = "already include doll document relax author horn put lizard forest system bicycle";
+var mnemonic = "actor front govern connect brass sweet train impose loop equal finger nice";

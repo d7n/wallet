@@ -1,1 +1,1 @@
-var mnemonic = "shine logic surge cry benefit vault rib odor shoe glove capable history";
+var mnemonic = "goddess axis car flush air noble figure calm flight demand rotate rain";

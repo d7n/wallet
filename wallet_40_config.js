@@ -1,1 +1,1 @@
-var mnemonic = "mixture radio core social sail round ridge deposit sausage sunset recipe depth";
+var mnemonic = "group oval expect enough place fruit exchange plug knock broccoli echo permit";

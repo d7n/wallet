@@ -1,1 +1,1 @@
-var mnemonic = "luggage behave harvest language mixture observe pioneer mango mutual arch trial walk";
+var mnemonic = "dilemma metal egg rib broccoli identify display rocket juice suit response enable";

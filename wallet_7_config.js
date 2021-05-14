@@ -1,1 +1,1 @@
-var mnemonic = "margin endless sudden expect extra road scale name unable turn cross grape";
+var mnemonic = "cushion auction grain exile video essay water pepper rent paddle grocery stable";

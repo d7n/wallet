@@ -1,1 +1,1 @@
-var mnemonic = "come cloth spot flower case mandate twice photo venue extend wagon main";
+var mnemonic = "wasp april reopen demand end rare endorse guilt junk badge beach peanut";

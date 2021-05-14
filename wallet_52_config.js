@@ -1,1 +1,1 @@
-var mnemonic = "lizard box farm judge split blame affair beef material soon lyrics upon";
+var mnemonic = "notice chair skirt enforce evolve stock feed tuna cousin raccoon foil image";

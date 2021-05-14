@@ -1,1 +1,1 @@
-var mnemonic = "sick hurry fever gown route quick now fun armor puppy call kiss";
+var mnemonic = "alarm upon margin city hand tag shove just blanket menu tower crowd";

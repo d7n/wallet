@@ -1,1 +1,1 @@
-var mnemonic = "chat play jazz raccoon vessel parrot welcome aisle fork across auction aerobic";
+var mnemonic = "soul goddess script purpose pumpkin engage force blanket foil across cherry oven";

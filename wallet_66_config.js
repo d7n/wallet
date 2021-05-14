@@ -1,1 +1,1 @@
-var mnemonic = "size snow blame evil sausage firm despair bleak sunset dilemma prosper ostrich";
+var mnemonic = "garlic offer mother paddle dinner uphold potato figure verify museum extra float";

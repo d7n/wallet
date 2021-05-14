@@ -1,1 +1,1 @@
-var mnemonic = "expand two where patch beyond online must punch lumber dash aunt cloud";
+var mnemonic = "property bamboo start ride answer drip mimic permit print divorce fan kitchen";

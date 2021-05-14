@@ -1,1 +1,1 @@
-var mnemonic = "renew decline rural dove enough hello sword machine cook remain inspire bar";
+var mnemonic = "photo habit episode pony catch blame penalty acquire rose exotic kit dress";

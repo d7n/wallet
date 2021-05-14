@@ -1,1 +1,1 @@
-var mnemonic = "life middle vicious winter happy off drip into boost scissors sock blast";
+var mnemonic = "churn echo eagle give unfair slender mushroom beef nasty waste almost minor";

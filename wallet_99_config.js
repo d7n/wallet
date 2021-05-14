@@ -1,1 +1,1 @@
-var mnemonic = "carpet cinnamon debris response inflict dutch family inform help curtain vanish sample";
+var mnemonic = "oil toy acquire soup deer midnight edge differ shy insane drum gaze";

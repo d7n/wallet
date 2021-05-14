@@ -1,1 +1,1 @@
-var mnemonic = "item amused canal derive night uniform curious snow improve whip fossil search";
+var mnemonic = "clarify escape effort regular moral lounge cream program paddle mind animal require";

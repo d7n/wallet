@@ -1,1 +1,1 @@
-var mnemonic = "slush purchase legend oval ghost desk sand film morning divide social describe";
+var mnemonic = "suggest energy leg grocery assist hold mosquito mutual comfort birth gather skull";

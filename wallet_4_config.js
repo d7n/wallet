@@ -1,1 +1,1 @@
-var mnemonic = "owner vibrant neglect soon kick lounge few attitude fire march ring ridge";
+var mnemonic = "olympic inquiry dust banner normal frog spring force mistake fence rally hybrid";

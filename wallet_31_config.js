@@ -1,1 +1,1 @@
-var mnemonic = "hire fringe web ready symbol decorate club similar ceiling write salmon census";
+var mnemonic = "flat clip piece dance coach olympic forum present delay buffalo faint bomb";

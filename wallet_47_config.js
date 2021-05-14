@@ -1,1 +1,1 @@
-var mnemonic = "other sail what change feed kiss soccer border ride force trip tattoo";
+var mnemonic = "pulse element phrase cave above reopen profit decorate example shield thought embody";
