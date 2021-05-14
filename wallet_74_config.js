@@ -1,1 +1,1 @@
-var mnemonic = "piano muscle refuse option adult random fade comfort toward tuna kangaroo smile";
+var mnemonic = "total enjoy fruit hint hammer piece toast purpose miss insect pulse legal";

@@ -1,1 +1,1 @@
-var mnemonic = "special rib resist salad day craft mean horn bridge lucky ridge gate";
+var mnemonic = "sell shift way regular alarm annual test fame torch alley drop alone";

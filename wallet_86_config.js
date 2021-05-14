@@ -1,1 +1,1 @@
-var mnemonic = "board mass case reunion bunker require category merge impact rack math time";
+var mnemonic = "fortune sadness noise habit seven immense table debris void unique crucial worth";

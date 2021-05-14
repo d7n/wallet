@@ -1,1 +1,1 @@
-var mnemonic = "shadow large pulse jazz quantum vocal collect gym silent liar dizzy spice";
+var mnemonic = "loyal mom foam avocado enhance cushion senior energy zone hood tackle perfect";

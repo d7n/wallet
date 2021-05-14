@@ -1,1 +1,1 @@
-var mnemonic = "chef web print behind verb volume chest vast wheat advice rug mansion";
+var mnemonic = "absent off mule about list lady sweet list random pluck lunch bamboo";

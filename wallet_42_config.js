@@ -1,1 +1,1 @@
-var mnemonic = "normal agent ship key uncle pledge use wisdom canyon wrap nose field";
+var mnemonic = "hair reveal hair nasty box argue tag word decade call kiwi tide";

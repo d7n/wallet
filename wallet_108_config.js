@@ -1,1 +1,1 @@
-var mnemonic = "deny true sock glide keep gaze fever melt invite journey couch host";
+var mnemonic = "since grunt visa reunion exercise bulb junk poem lunch leader prevent pig";

@@ -1,1 +1,1 @@
-var mnemonic = "group venture entire fatigue fish sleep grain already lawn when finger lesson";
+var mnemonic = "thing autumn drift again fluid tissue ride photo chronic blind neutral uncover";

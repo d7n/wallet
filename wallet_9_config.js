@@ -1,1 +1,1 @@
-var mnemonic = "army seminar shuffle volume purse maple donor banana deposit dynamic talent alarm";
+var mnemonic = "waste youth shove electric under very unveil like broccoli author surface biology";

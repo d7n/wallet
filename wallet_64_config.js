@@ -1,1 +1,1 @@
-var mnemonic = "just vocal party obvious valley subject arrow silk maple perfect buyer okay";
+var mnemonic = "genuine satisfy across afraid ostrich rib until badge school initial hard clump";

@@ -1,1 +1,1 @@
-var mnemonic = "drive kidney valve spider outer what impose ripple favorite spin suspect slender";
+var mnemonic = "soup arrow fish baby about reveal wasp submit artwork morning sausage behind";

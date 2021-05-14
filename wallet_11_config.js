@@ -1,1 +1,1 @@
-var mnemonic = "soccer insect lonely poverty follow decrease inch sea asset nice burst pretty";
+var mnemonic = "own suggest car hotel author defy employ govern purity profit onion actor";

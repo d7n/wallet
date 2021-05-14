@@ -1,1 +1,1 @@
-var mnemonic = "despair wedding question rival donor machine rice fruit weapon detail man mistake";
+var mnemonic = "weapon crunch mimic axis mask gesture auction coach behind budget room spot";

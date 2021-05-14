@@ -1,1 +1,1 @@
-var mnemonic = "clown sign diary catalog brass potato embrace upper weekend fancy stable route";
+var mnemonic = "dad visa tag busy basic evil theme unknown bright twin cradle lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain call decade term because satoshi pudding chicken network relax cake solution";
+var mnemonic = "bitter arrow prepare metal absurd upset style road manage spoon series cart";

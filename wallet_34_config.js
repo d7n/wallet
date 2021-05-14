@@ -1,1 +1,1 @@
-var mnemonic = "garbage occur develop now ugly later custom silk jump fade cook legal";
+var mnemonic = "notable else birth firm logic device size bargain happy swamp music report";

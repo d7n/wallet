@@ -1,1 +1,1 @@
-var mnemonic = "enlist panther ready fatigue security shove label parrot robust dinner nuclear lady";
+var mnemonic = "world icon maple swarm record risk art dismiss sun spoon grant math";

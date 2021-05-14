@@ -1,1 +1,1 @@
-var mnemonic = "shoe concert symbol chicken enact trim purpose steak resemble subject cram portion";
+var mnemonic = "myth heart actual during camera motor busy lucky receive phrase gate draft";

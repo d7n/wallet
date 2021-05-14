@@ -1,1 +1,1 @@
-var mnemonic = "seed finger ramp stool safe slight win pupil change actual episode hire";
+var mnemonic = "current tongue book emotion corn planet praise suspect inch enrich engine mirror";

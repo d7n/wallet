@@ -1,1 +1,1 @@
-var mnemonic = "top switch split divorce ancient buzz impact october honey fix minute blur";
+var mnemonic = "south nephew entry dune admit uniform palace token thumb lesson heart wear";

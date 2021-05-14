@@ -1,1 +1,1 @@
-var mnemonic = "extend local divorce craft castle twelve approve fame ceiling congress approve danger";
+var mnemonic = "peasant fork certain female float lounge medal much exclude cycle route drink";

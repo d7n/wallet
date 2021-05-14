@@ -1,1 +1,1 @@
-var mnemonic = "math moon accident grab before youth program worth enlist display name present";
+var mnemonic = "expect faint loyal put evidence trash quit else learn cream naive vague";

@@ -1,1 +1,1 @@
-var mnemonic = "bless spatial dirt fun cook circle blast kiwi unveil recycle law belt";
+var mnemonic = "deal wing census erode square vehicle silk property spell where slam window";

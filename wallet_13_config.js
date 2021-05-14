@@ -1,1 +1,1 @@
-var mnemonic = "skull lyrics prize industry truck spoon spatial vivid confirm mobile carpet glow";
+var mnemonic = "fade search slab review yard suffer tip wise faith firm nerve pink";

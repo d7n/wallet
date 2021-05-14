@@ -1,1 +1,1 @@
-var mnemonic = "bag moment time subject movie usage brand lawsuit era want steak emotion";
+var mnemonic = "world plug enough digital suffer devote kiss grocery steel orient margin plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "give dial oven image lawn habit march increase ocean demise weird cheap";
+var mnemonic = "future bomb hour arctic luxury provide sibling minute earn idle poverty tell";

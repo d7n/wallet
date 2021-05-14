@@ -1,1 +1,1 @@
-var mnemonic = "toss juice gaze era bright only garbage organ anchor long stable rabbit";
+var mnemonic = "whale inquiry father able invest delay paper stone wage tray outdoor two";

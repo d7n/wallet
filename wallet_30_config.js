@@ -1,1 +1,1 @@
-var mnemonic = "cry wrist give circle struggle rookie breeze cliff ancient garment guess ski";
+var mnemonic = "they domain monitor victory emotion stone catalog guilt rival warm essence sugar";

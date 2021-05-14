@@ -1,1 +1,1 @@
-var mnemonic = "wisdom alcohol can voyage regret novel shift liar twist labor ivory symbol";
+var mnemonic = "twin fury insect pond maple catch physical hawk couch energy warrior turtle";

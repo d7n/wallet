@@ -1,1 +1,1 @@
-var mnemonic = "unit install cool race furnace catalog affair weasel brisk orbit engage remember";
+var mnemonic = "young general blue bronze rival monitor quantum dinosaur snack image motor awake";

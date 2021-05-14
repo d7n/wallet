@@ -1,1 +1,1 @@
-var mnemonic = "resist original spawn shallow razor fly rival patient release taxi funny cactus";
+var mnemonic = "author penalty liberty crumble menu primary stem river quarter shallow wear orient";

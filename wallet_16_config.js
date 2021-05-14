@@ -1,1 +1,1 @@
-var mnemonic = "judge trend model craft crush escape tube flee staff same conduct depart";
+var mnemonic = "adjust quick donate absorb feature unveil truth shoe great room theme over";

@@ -1,1 +1,1 @@
-var mnemonic = "town fiction power thought vital vibrant thunder hawk bottom fan million dice";
+var mnemonic = "slam stadium find magic weather sausage write session teach two hover fade";

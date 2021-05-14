@@ -1,1 +1,1 @@
-var mnemonic = "abandon client scatter viable buzz stool cruise pulp smoke lizard author decorate";
+var mnemonic = "force result bleak absorb noodle mouse will easily dose occur very convince";

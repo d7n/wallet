@@ -1,1 +1,1 @@
-var mnemonic = "weasel chest obtain unlock enable lawsuit opera awful oyster poem juice vintage";
+var mnemonic = "achieve describe raven measure amount bike clip great drink stairs bench amused";

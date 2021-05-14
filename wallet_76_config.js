@@ -1,1 +1,1 @@
-var mnemonic = "mouse cargo draw napkin device aunt arrow afraid yellow subway rocket nation";
+var mnemonic = "frame evidence damp giraffe market nerve army bounce inject until economy educate";

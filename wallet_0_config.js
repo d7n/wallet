@@ -1,1 +1,1 @@
-var mnemonic = "thunder rough faith car adjust swamp grief exercise tail position silent pear";
+var mnemonic = "friend couple stuff find whisper cannon impulse palace current best math enhance";

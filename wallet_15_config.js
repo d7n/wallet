@@ -1,1 +1,1 @@
-var mnemonic = "congress twenty ski resource gap survey portion escape palm dash quarter ask";
+var mnemonic = "unveil amateur depart trigger robust hawk print blouse fame canvas gate ten";

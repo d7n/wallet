@@ -1,1 +1,1 @@
-var mnemonic = "toilet unit knee act ill capable aware coyote submit picnic ostrich govern";
+var mnemonic = "suit squeeze worry adult weekend panic rookie phone cabin sure sell eternal";

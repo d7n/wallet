@@ -1,1 +1,1 @@
-var mnemonic = "lab fantasy bitter fish celery pioneer canyon satoshi say consider gadget engage";
+var mnemonic = "sound flash label tourist artwork tail yard funny paddle toilet empower search";

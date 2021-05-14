@@ -1,1 +1,1 @@
-var mnemonic = "pudding fruit must turn leisure cake shield uncle grace general hungry rich";
+var mnemonic = "fury toilet squirrel donate brand olive pulse buyer sleep boat rely note";

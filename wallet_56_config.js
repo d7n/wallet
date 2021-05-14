@@ -1,1 +1,1 @@
-var mnemonic = "summer begin border gate similar oxygen original garbage alley fantasy turn laundry";
+var mnemonic = "eager screen potato repeat style reopen around antenna elite guide obtain between";

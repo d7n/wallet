@@ -1,1 +1,1 @@
-var mnemonic = "extend wheel occur pretty impose aim bread glove question brisk region budget";
+var mnemonic = "immense spike jump insane abuse foil modify fun argue century rural space";

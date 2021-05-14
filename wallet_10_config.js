@@ -1,1 +1,1 @@
-var mnemonic = "general expand health zoo stomach world require used kick depart benefit unusual";
+var mnemonic = "egg top frost crouch music hungry orphan cream spray elder length year";

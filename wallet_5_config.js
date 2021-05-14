@@ -1,1 +1,1 @@
-var mnemonic = "predict street surround nuclear lottery opera moon inject rule midnight human portion";
+var mnemonic = "brisk enroll hub egg settle vicious remember hip resource suffer maid busy";

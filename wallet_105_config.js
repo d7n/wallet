@@ -1,1 +1,1 @@
-var mnemonic = "erosion toy cluster spawn art force hub corn worry add cake word";
+var mnemonic = "hamster depart anxiety offer fantasy allow session change enforce mistake shy stool";

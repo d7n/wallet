@@ -1,1 +1,1 @@
-var mnemonic = "vacuum miss juice retire inhale globe census physical stone company old brown";
+var mnemonic = "hybrid act purity million cry march drip inspire flee cabbage tourist tobacco";

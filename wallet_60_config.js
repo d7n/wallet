@@ -1,1 +1,1 @@
-var mnemonic = "word celery detail coyote all room wash require rose emotion mixed man";
+var mnemonic = "old paddle confirm mail attend jaguar satisfy alarm all battle sunset fashion";

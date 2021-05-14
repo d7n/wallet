@@ -1,1 +1,1 @@
-var mnemonic = "gate fence special chief give shuffle unusual judge melody crystal where street";
+var mnemonic = "exchange disorder hamster floor hero echo fitness pledge mixture tribe motion vocal";

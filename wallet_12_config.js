@@ -1,1 +1,1 @@
-var mnemonic = "rely surface gauge equal enjoy fashion sail half unique doll road scatter";
+var mnemonic = "lens hockey acquire comfort actor cost image lazy axis glass client square";

@@ -1,1 +1,1 @@
-var mnemonic = "remember enrich category tray install great file other hello stove stadium shove";
+var mnemonic = "nose pool noble gauge quality wine beach grant pistol blue script desert";

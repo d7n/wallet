@@ -1,1 +1,1 @@
-var mnemonic = "damp fuel echo swear label door toss quarter gallery labor oyster unknown";
+var mnemonic = "rival manual barely differ exile depend vacant old proud hello couple canoe";

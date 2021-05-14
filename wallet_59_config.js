@@ -1,1 +1,1 @@
-var mnemonic = "dragon noise gauge spice velvet fancy ginger process arena advice dove nature";
+var mnemonic = "typical tiny upper word kite cook puppy model scrap junior solution vessel";

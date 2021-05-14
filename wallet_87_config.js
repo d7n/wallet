@@ -1,1 +1,1 @@
-var mnemonic = "keen wealth boat twist cup rabbit unusual camp alert feed act charge";
+var mnemonic = "beauty upgrade motion poem couple pulse audit cart pyramid mountain miss deliver";

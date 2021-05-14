@@ -1,1 +1,1 @@
-var mnemonic = "soccer ask small satoshi agent project illness enough hamster cart provide mechanic";
+var mnemonic = "false weasel multiply diagram glance exercise shuffle picture romance undo lucky maple";

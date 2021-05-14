@@ -1,1 +1,1 @@
-var mnemonic = "churn crop chronic dry achieve answer model toe fancy hard insect practice";
+var mnemonic = "inch calm tower february witness breeze protect prevent purity certain gas anxiety";

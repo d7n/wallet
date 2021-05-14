@@ -1,1 +1,1 @@
-var mnemonic = "evil excite milk adult final napkin lemon march drama luxury erosion calm";
+var mnemonic = "salmon lunch sheriff cry auction sentence rifle position shy patrol world unknown";

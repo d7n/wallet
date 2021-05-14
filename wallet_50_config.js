@@ -1,1 +1,1 @@
-var mnemonic = "alley argue quality kit view affair cost father elephant measure retreat old";
+var mnemonic = "awful color scorpion nose doctor bless garlic plug umbrella prize always click";

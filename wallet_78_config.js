@@ -1,1 +1,1 @@
-var mnemonic = "crisp city drum rookie priority list spell novel alcohol wrist recall motor";
+var mnemonic = "struggle rhythm nature ankle old beyond prepare defense hill daughter reject wall";

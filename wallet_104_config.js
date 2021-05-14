@@ -1,1 +1,1 @@
-var mnemonic = "key organ session forest actor satoshi story scrub cannon disagree dry prevent";
+var mnemonic = "survey woman hour stamp child web dust oven bag flag brief coast";

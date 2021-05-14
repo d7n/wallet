@@ -1,1 +1,1 @@
-var mnemonic = "piece news citizen moon meat face mule trouble spike ring lend mammal";
+var mnemonic = "awkward laundry crumble catch retreat pepper final screen neck cushion label movie";

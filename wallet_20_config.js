@@ -1,1 +1,1 @@
-var mnemonic = "cabbage used able govern sunny air hip control magnet erosion immense master";
+var mnemonic = "empower payment magic engine evoke summer pattern year fatal large pitch diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "pass today divert neutral mirror swim view year alter great judge dismiss";
+var mnemonic = "immune this stomach plunge height wild equip dice find job soon attack";

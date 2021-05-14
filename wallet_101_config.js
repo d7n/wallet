@@ -1,1 +1,1 @@
-var mnemonic = "snake inner prize future cat distance theory gravity prepare company empower develop";
+var mnemonic = "inhale escape feed frown legend document absurd rabbit imitate clip tray output";

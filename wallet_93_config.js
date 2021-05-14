@@ -1,1 +1,1 @@
-var mnemonic = "drama legal soccer tag fruit coyote total object script clump subject father";
+var mnemonic = "lobster guard jazz inherit satisfy carry minor game roast final situate cheese";

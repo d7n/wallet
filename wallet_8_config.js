@@ -1,1 +1,1 @@
-var mnemonic = "shadow paper cereal shift feature prosper worth maximum script three mixture portion";
+var mnemonic = "kiwi senior above black orient pony danger tiger candy glass negative local";

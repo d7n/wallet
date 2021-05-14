@@ -1,1 +1,1 @@
-var mnemonic = "found simple rubber sugar logic pass shell brand duty brain melt paddle";
+var mnemonic = "myth wood render sorry short sadness print flat palm food warfare lyrics";

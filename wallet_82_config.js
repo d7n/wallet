@@ -1,1 +1,1 @@
-var mnemonic = "average urban carpet minor damp foster quiz win camera remember hurt solid";
+var mnemonic = "hurt stock organ smoke tourist shift claim cigar offer attitude artefact fee";

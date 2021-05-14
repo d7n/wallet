@@ -1,1 +1,1 @@
-var mnemonic = "nurse style lizard click stone nut blast benefit biology impose print decorate";
+var mnemonic = "rack glide tone sugar virus issue size tourist right social civil north";

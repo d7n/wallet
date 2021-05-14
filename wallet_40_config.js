@@ -1,1 +1,1 @@
-var mnemonic = "element warrior foam pen eight cannon book defense venue toe crouch ribbon";
+var mnemonic = "evil myth confirm life repeat brand rack scissors fabric diagram appear sting";

@@ -1,1 +1,1 @@
-var mnemonic = "claw universe alpha announce cook hire weasel song mimic excess minute detail";
+var mnemonic = "wrestle smart summer cart identify horror fetch oval busy ice hand heart";

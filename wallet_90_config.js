@@ -1,1 +1,1 @@
-var mnemonic = "hair unknown lizard ripple creek income nut oval jacket scissors time predict";
+var mnemonic = "buzz useless flavor act plate page judge capable dentist stumble same multiply";

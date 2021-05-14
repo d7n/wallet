@@ -1,1 +1,1 @@
-var mnemonic = "clutch any celery reveal result pact brisk crime quarter grape ocean crazy";
+var mnemonic = "royal frown boost desert love super tonight scale pig diesel demise lamp";

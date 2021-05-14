@@ -1,1 +1,1 @@
-var mnemonic = "spoil impact fine rose record glow tooth pledge theory maid eyebrow trigger";
+var mnemonic = "color airport lady blanket stand erupt film great side tube orange system";

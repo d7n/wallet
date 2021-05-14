@@ -1,1 +1,1 @@
-var mnemonic = "coast bracket globe element reopen aisle essay aim border fence awesome snack";
+var mnemonic = "edit play elephant typical relax cook often entire dragon dry general vivid";

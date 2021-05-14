@@ -1,1 +1,1 @@
-var mnemonic = "quarter inmate village used faint tuition utility secret enable welcome invest scare";
+var mnemonic = "museum luggage axis roast firm scene mesh mango replace someone strike slow";

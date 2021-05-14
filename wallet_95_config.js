@@ -1,1 +1,1 @@
-var mnemonic = "federal labor crazy unusual brass build super lounge kidney jacket claim illness";
+var mnemonic = "ceiling caught pride remain key sort drastic bus patch bridge tree misery";

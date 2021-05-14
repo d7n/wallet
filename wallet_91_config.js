@@ -1,1 +1,1 @@
-var mnemonic = "wife body sadness taste decrease step thought nephew firm range light oxygen";
+var mnemonic = "fame annual spray escape board index organ solution quote security milk stay";

@@ -1,1 +1,1 @@
-var mnemonic = "horse sense coral meat edge night pair axis valley shed tool raven";
+var mnemonic = "neglect exile quote attract kite soup fuel arrange thing immune salt lobster";

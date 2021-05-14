@@ -1,1 +1,1 @@
-var mnemonic = "exclude cave thunder chair pioneer deposit outside smoke throw remove indoor word";
+var mnemonic = "suggest edit salt employ defy embrace rug congress enemy attack tomato matter";

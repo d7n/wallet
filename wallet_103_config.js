@@ -1,1 +1,1 @@
-var mnemonic = "kick mistake merge insect dirt side mix loop unusual castle nut accident";
+var mnemonic = "magic nuclear minute error sample whisper penalty photo purpose page dawn system";

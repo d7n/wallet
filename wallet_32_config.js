@@ -1,1 +1,1 @@
-var mnemonic = "globe olympic party wage wheel text popular raven wealth kingdom grit grow";
+var mnemonic = "rice major away stadium border vague tissue erode bag ball mouse wire";

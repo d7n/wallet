@@ -1,1 +1,1 @@
-var mnemonic = "miracle fan profit another permit people lion ghost degree cat act approve";
+var mnemonic = "taste spatial settle act open differ team drill author outdoor jungle drastic";

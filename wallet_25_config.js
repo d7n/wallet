@@ -1,1 +1,1 @@
-var mnemonic = "work online combine century tragic year usage choice cover resource immune join";
+var mnemonic = "depth reflect slogan pattern humble add energy inside acid sick enable noble";

@@ -1,1 +1,1 @@
-var mnemonic = "neck rhythm where manual total flock engage visit stumble drink dwarf spot";
+var mnemonic = "shaft decade mouse spatial brand suit rural rug lunch script stool laugh";

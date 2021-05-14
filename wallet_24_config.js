@@ -1,1 +1,1 @@
-var mnemonic = "merit element satisfy december kangaroo body kind onion raccoon gather subway notice";
+var mnemonic = "action general unusual rate voyage simple enhance smart stem banana master clarify";

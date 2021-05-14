@@ -1,1 +1,1 @@
-var mnemonic = "worth remove body victory drop garage demand live phone upgrade inhale interest";
+var mnemonic = "reflect jump veteran script glove found motion uniform race subway universe path";

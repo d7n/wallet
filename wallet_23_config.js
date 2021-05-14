@@ -1,1 +1,1 @@
-var mnemonic = "butter title file situate harsh hood involve stove fitness tail hip scheme";
+var mnemonic = "rug west mimic ignore same torch broom carpet two soon swamp carbon";

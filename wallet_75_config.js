@@ -1,1 +1,1 @@
-var mnemonic = "index marble guard cool whisper whale exist pair accident cost make unknown";
+var mnemonic = "abandon nose resist day sting thrive cabbage degree jazz pole bright avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "echo nuclear helmet jewel number ugly decrease auction vocal forget average distance";
+var mnemonic = "ripple dawn wave exhibit rude bleak alien sun shadow prevent wasp double";

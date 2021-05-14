@@ -1,1 +1,1 @@
-var mnemonic = "december damage skull midnight fluid power excuse legend blast voice business ready";
+var mnemonic = "artefact tiny system fat glance document spy sell piece cattle viable promote";
