@@ -1,1 +1,1 @@
-var mnemonic = "soldier mutual edge olympic pledge rival zero casino shrug penalty federal weird";
+var mnemonic = "doll field axis success trap equip hub utility voyage opera pet exchange";

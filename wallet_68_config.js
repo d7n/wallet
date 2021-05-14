@@ -1,1 +1,1 @@
-var mnemonic = "trash state spray army judge sentence garlic quality fatigue mom claw arrange";
+var mnemonic = "mom seed flush pencil common odor cup profit wagon virtual record bubble";

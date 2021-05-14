@@ -1,1 +1,1 @@
-var mnemonic = "waste account copper rice captain loyal dinner drive pride divorce old exit";
+var mnemonic = "syrup step sound crumble fan enlist horse zone pigeon scheme brick ship";

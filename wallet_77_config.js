@@ -1,1 +1,1 @@
-var mnemonic = "good virtual pass police cluster actress bicycle bottom next three visa argue";
+var mnemonic = "defy donor weasel cushion mom vintage torch fold spoil own notice step";

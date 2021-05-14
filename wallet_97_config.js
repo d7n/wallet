@@ -1,1 +1,1 @@
-var mnemonic = "clutch begin scrub decorate aisle project author slide electric unknown fine rhythm";
+var mnemonic = "road practice coconut someone exact audit antenna image sick divide pony arrest";

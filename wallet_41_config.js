@@ -1,1 +1,1 @@
-var mnemonic = "absorb worth subject learn sheriff wear clay search hazard neutral capital license";
+var mnemonic = "hammer april eternal unhappy arrest dizzy address sleep sunny warm sword pill";

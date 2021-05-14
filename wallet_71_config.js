@@ -1,1 +1,1 @@
-var mnemonic = "main rich miracle ritual interest decorate confirm spike almost away wink rookie";
+var mnemonic = "salute grocery casual version wage dog gold bone govern thank loop upgrade";

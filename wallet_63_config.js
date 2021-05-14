@@ -1,1 +1,1 @@
-var mnemonic = "ball tilt clock outdoor dance frown village arm shift senior seed flower";
+var mnemonic = "thumb accuse budget three license lake federal repair release olympic dose intact";

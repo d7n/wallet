@@ -1,1 +1,1 @@
-var mnemonic = "average galaxy metal world pumpkin marine square kangaroo ready person valid resemble";
+var mnemonic = "welcome dwarf narrow axis win autumn real silk skate onion chapter code";

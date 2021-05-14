@@ -1,1 +1,1 @@
-var mnemonic = "tuna fault position slogan valid original forum program sword isolate shine blossom";
+var mnemonic = "wait empower bronze sense hill stadium tiger void million steel doctor science";

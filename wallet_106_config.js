@@ -1,1 +1,1 @@
-var mnemonic = "venue mirror monkey monkey major clarify beach execute width silly crater stay";
+var mnemonic = "crucial fury oil female seat ability mean sheriff oak wage shaft eyebrow";

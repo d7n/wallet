@@ -1,1 +1,1 @@
-var mnemonic = "repair edit tool edge cargo wash resist slab heart choice used caution";
+var mnemonic = "nut memory grid patrol cigar loop border candy mutual enter dust kidney";

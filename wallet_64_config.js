@@ -1,1 +1,1 @@
-var mnemonic = "mammal produce huge diesel hope october hotel other charge base veteran jazz";
+var mnemonic = "magic sun feature hint word material winner pistol session chef lucky tiger";

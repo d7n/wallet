@@ -1,1 +1,1 @@
-var mnemonic = "inflict party real canvas mimic long hip very join disagree weasel valve";
+var mnemonic = "online thought column caution same mesh town pulse strategy dinner usual antenna";

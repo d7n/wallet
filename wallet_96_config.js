@@ -1,1 +1,1 @@
-var mnemonic = "love reunion february brisk metal bachelor avocado senior suit swing creek bronze";
+var mnemonic = "act insect wine country public panda license notice admit void plastic slow";

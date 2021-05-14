@@ -1,1 +1,1 @@
-var mnemonic = "film guitar soon because trip wait edge vapor jelly dinosaur reveal universe";
+var mnemonic = "hungry news hen unfold state street mobile acoustic language topic add chef";

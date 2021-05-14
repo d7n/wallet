@@ -1,1 +1,1 @@
-var mnemonic = "leaf lonely melody melt coast brisk spawn banana private jeans window regret";
+var mnemonic = "battle traffic year wasp kitten force tower stove tide exhaust sample illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "start ribbon quit clarify pig cheap bridge axis recipe off cause banner";
+var mnemonic = "wave caught hover good slush gesture one process zoo topic normal gown";

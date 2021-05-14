@@ -1,1 +1,1 @@
-var mnemonic = "foil august canoe cinnamon long tonight judge crumble globe later lucky oil";
+var mnemonic = "noble jealous meadow arrow host strike bonus blade proof web garment elite";

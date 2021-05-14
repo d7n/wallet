@@ -1,1 +1,1 @@
-var mnemonic = "moon enemy cradle feel increase decide front express parade double route silly";
+var mnemonic = "duck poet acoustic rocket turkey oven crop walk world join rival divorce";

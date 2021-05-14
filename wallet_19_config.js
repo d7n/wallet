@@ -1,1 +1,1 @@
-var mnemonic = "surprise hazard athlete sketch august develop time mouse word result candy oblige";
+var mnemonic = "nuclear churn noble bulk theme gaze busy imitate voyage galaxy plunge humble";

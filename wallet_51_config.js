@@ -1,1 +1,1 @@
-var mnemonic = "item race another fluid stuff small wisdom curve bike stage room proof";
+var mnemonic = "club depend grace hover spot spoon reopen pig upon such whip pull";

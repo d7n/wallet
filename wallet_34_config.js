@@ -1,1 +1,1 @@
-var mnemonic = "dry fuel into creek muffin mixed planet margin portion crazy layer economy";
+var mnemonic = "thing basic rail tourist wrestle midnight frown adjust logic feed dawn digital";

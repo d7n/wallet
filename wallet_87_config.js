@@ -1,1 +1,1 @@
-var mnemonic = "car tenant fine skate become desk village cat cancel shoot rent ticket";
+var mnemonic = "answer thunder jeans produce swallow problem shoulder magic employ above emerge breeze";

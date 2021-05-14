@@ -1,1 +1,1 @@
-var mnemonic = "olive shine design pave shell duck hedgehog expand year meadow ethics habit";
+var mnemonic = "tail mask spice play eye display camera culture shallow satoshi album coconut";

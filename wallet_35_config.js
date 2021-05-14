@@ -1,1 +1,1 @@
-var mnemonic = "entry debris danger alert theme theory occur embody flat this major dinosaur";
+var mnemonic = "logic increase march antenna genuine physical verify habit dress option tonight clerk";

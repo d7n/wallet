@@ -1,1 +1,1 @@
-var mnemonic = "mask blade ride truck angry alone swear prison love author aisle response";
+var mnemonic = "gun man antique word used merge kitten capital lawsuit song chalk turtle";

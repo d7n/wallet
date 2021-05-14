@@ -1,1 +1,1 @@
-var mnemonic = "clean tenant expect napkin push valve mountain flat require sentence oak bind";
+var mnemonic = "okay tuition intact laptop hill tunnel response boring tone soup fish stairs";

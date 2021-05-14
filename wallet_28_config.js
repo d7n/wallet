@@ -1,1 +1,1 @@
-var mnemonic = "confirm coffee ghost easy because salon crater wash aerobic category neutral beach";
+var mnemonic = "crop lesson country sell velvet fantasy frost ladder document guilt happy together";

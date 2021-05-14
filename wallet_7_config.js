@@ -1,1 +1,1 @@
-var mnemonic = "abstract pony lazy bring reform cement develop party utility flee clever cruise";
+var mnemonic = "shuffle high adult degree direct thrive ozone butter expose omit audit horror";

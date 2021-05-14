@@ -1,1 +1,1 @@
-var mnemonic = "unusual north evoke vapor velvet wing scene real other ghost order crumble";
+var mnemonic = "advance deputy any eight penalty upon hat melt year cube need drink";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding paper muscle flight human hungry climb balcony expose sort congress wrist";
+var mnemonic = "puzzle web talent quit jar total attack exclude naive renew awful area";

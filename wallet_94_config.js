@@ -1,1 +1,1 @@
-var mnemonic = "slide beef hobby piano train will program trouble evil tube asset song";
+var mnemonic = "smart hero marine other pattern subway evoke motion camera speed secret embrace";

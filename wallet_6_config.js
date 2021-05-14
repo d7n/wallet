@@ -1,1 +1,1 @@
-var mnemonic = "hobby enable link economy bulk spend actress emotion sauce cannon direct goat";
+var mnemonic = "post pause error idea steel abandon glow treat mercy cloth pumpkin liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "crop brown rival keep swarm walk spread turtle theory jaguar leisure recipe";
+var mnemonic = "resist disease velvet actual parade release shy scrap glow pact gun metal";

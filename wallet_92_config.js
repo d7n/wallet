@@ -1,1 +1,1 @@
-var mnemonic = "father faculty damage music weather arctic option six promote awake shiver butter";
+var mnemonic = "ladder already dust olive increase assist host depth pumpkin uncover armed burger";

@@ -1,1 +1,1 @@
-var mnemonic = "behind spend draw praise kiss law swing antenna evoke kick addict forum";
+var mnemonic = "detect search dilemma rude duck soldier rose brown return market bean chicken";

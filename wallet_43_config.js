@@ -1,1 +1,1 @@
-var mnemonic = "teach old coil daughter town push upset present local swing come attack";
+var mnemonic = "height avocado canoe exhibit such change drift pet father phone trash jacket";

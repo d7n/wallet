@@ -1,1 +1,1 @@
-var mnemonic = "animal begin grab announce history forget apple net wheel stool observe output";
+var mnemonic = "crawl color put rack jacket require tunnel artist trust forget shine column";

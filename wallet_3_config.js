@@ -1,1 +1,1 @@
-var mnemonic = "curve hurt again alcohol earth shaft motion between crumble fragile dinosaur leaf";
+var mnemonic = "brain visit between lesson advance hire gaze frame bullet man correct give";

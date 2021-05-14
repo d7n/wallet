@@ -1,1 +1,1 @@
-var mnemonic = "version print list upon pole suggest fit income pave kid forest tennis";
+var mnemonic = "neutral series skin vicious claim family home sound finish live spider trial";

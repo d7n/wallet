@@ -1,1 +1,1 @@
-var mnemonic = "rigid month resist praise picture purchase hill dizzy blur lamp finger basic";
+var mnemonic = "high sustain bleak series behave pool hollow vessel high prison prosper inflict";

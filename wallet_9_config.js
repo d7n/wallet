@@ -1,1 +1,1 @@
-var mnemonic = "else rely bubble prosper goat harvest strike ask double critic cable menu";
+var mnemonic = "wife document leopard capable mean gravity machine say ripple skill country earn";

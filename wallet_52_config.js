@@ -1,1 +1,1 @@
-var mnemonic = "among adjust better city vivid course business daughter stomach virus spell predict";
+var mnemonic = "fantasy spring barely smart fine child stand globe task luggage shrug phrase";

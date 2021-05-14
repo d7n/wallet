@@ -1,1 +1,1 @@
-var mnemonic = "agent cream simple travel depart model find wing nurse faint since hover";
+var mnemonic = "brief return sniff junk drill school discover test improve prosper dog idle";

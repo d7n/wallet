@@ -1,1 +1,1 @@
-var mnemonic = "diet laundry sustain media excite adapt kidney dad dawn wash unveil swift";
+var mnemonic = "stumble time bonus sure stable vendor prepare invite episode sail spider riot";

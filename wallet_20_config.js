@@ -1,1 +1,1 @@
-var mnemonic = "tiger east one gentle survey unable corn car degree eight destroy blossom";
+var mnemonic = "crumble quiz satoshi vocal misery oval tunnel swamp verify gather can solution";

@@ -1,1 +1,1 @@
-var mnemonic = "fit budget rain convince smart gravity shop language matter code staff wife";
+var mnemonic = "confirm lawn glove over bright coyote shallow peasant you shop cage voice";

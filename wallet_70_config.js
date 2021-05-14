@@ -1,1 +1,1 @@
-var mnemonic = "ketchup umbrella boat about faith sight funny shrimp praise moment lion else";
+var mnemonic = "path increase alarm check utility clarify slight diesel egg culture judge act";

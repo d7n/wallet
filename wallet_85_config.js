@@ -1,1 +1,1 @@
-var mnemonic = "matter vault win busy stove praise mass board stable deal fancy awesome";
+var mnemonic = "cake nice evil labor energy brick heart script build amazing figure tissue";

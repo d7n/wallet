@@ -1,1 +1,1 @@
-var mnemonic = "ship chimney sheriff juice useless alert frequent square climb zone cake fatal";
+var mnemonic = "oak illness rural infant finger engage gaze museum carry amount scale brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "change staff quantum critic carbon supply soup crime nice valid crop size";
+var mnemonic = "weekend split water cloth maximum paper crush bunker inner hamster kitchen curious";

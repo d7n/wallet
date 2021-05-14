@@ -1,1 +1,1 @@
-var mnemonic = "twelve rent village stone main heart deny dune walnut crop slogan renew";
+var mnemonic = "tell crash bubble blur company syrup tilt federal pudding item priority promote";

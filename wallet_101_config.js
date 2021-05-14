@@ -1,1 +1,1 @@
-var mnemonic = "crouch sample glare term major column govern cute grain input trophy fortune";
+var mnemonic = "special civil educate dance object coil edit wisdom silk educate this catalog";

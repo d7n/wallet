@@ -1,1 +1,1 @@
-var mnemonic = "wife equal brain accuse chunk hip analyst hamster blush echo man demand";
+var mnemonic = "pass south audit entry label lunar junior milk employ shoe sight october";

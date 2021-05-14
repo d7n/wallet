@@ -1,1 +1,1 @@
-var mnemonic = "reunion drink license venture hawk heart firm enact square van swing repair";
+var mnemonic = "peanut check discover remain file globe among high session bench better guess";

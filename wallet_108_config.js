@@ -1,1 +1,1 @@
-var mnemonic = "false time depth symptom toss control cause ginger yellow stadium wood violin";
+var mnemonic = "gravity jelly model near tiny fog mean earn equal intact disorder love";

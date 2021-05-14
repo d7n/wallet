@@ -1,1 +1,1 @@
-var mnemonic = "scrub idea bronze opera gate devote marine since guilt oven neck tackle";
+var mnemonic = "forest divert sugar balcony affair explain glad panda host truth tank limb";

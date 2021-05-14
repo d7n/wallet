@@ -1,1 +1,1 @@
-var mnemonic = "minute cost proof vivid dress retreat arrest final nothing index few family";
+var mnemonic = "shock flat magic casino split spoil border rocket amused stay sniff inner";

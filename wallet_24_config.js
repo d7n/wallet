@@ -1,1 +1,1 @@
-var mnemonic = "art divide possible scan eagle horror year stay story vendor duck garment";
+var mnemonic = "common pitch teach pull much emerge frozen tool olive believe jump pass";

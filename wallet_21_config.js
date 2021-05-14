@@ -1,1 +1,1 @@
-var mnemonic = "metal grunt melt arch sure oppose buzz envelope entry phone garlic allow";
+var mnemonic = "maid jeans dutch marriage picture express say spawn couple camera comic town";

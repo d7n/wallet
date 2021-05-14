@@ -1,1 +1,1 @@
-var mnemonic = "moment party dove refuse dream night exit permit mad friend curious coin";
+var mnemonic = "clerk tonight design silver bridge rate shoot evil critic leg stick drink";

@@ -1,1 +1,1 @@
-var mnemonic = "wild grain desk town aware pluck hurt rebel combine plate amused saddle";
+var mnemonic = "review gold annual crater glove swamp solution admit basket ask they deliver";

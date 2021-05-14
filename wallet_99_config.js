@@ -1,1 +1,1 @@
-var mnemonic = "move stable beauty fetch act pave copper three chuckle lecture nothing kid";
+var mnemonic = "print kiss chef prevent acoustic wait laugh exhaust genius scissors twelve matrix";

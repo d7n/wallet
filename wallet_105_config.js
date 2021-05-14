@@ -1,1 +1,1 @@
-var mnemonic = "butter object repeat discover cost explain north rug bomb success pattern fetch";
+var mnemonic = "twenty action near inner mushroom trick night often envelope dance market parent";

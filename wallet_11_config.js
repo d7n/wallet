@@ -1,1 +1,1 @@
-var mnemonic = "surge slab lend drink gaze wink gloom captain sustain wood giraffe depend";
+var mnemonic = "cup anchor cash blast clip december gentle equal tilt shrimp dwarf truth";

@@ -1,1 +1,1 @@
-var mnemonic = "join all mercy load capable theme fan stamp broccoli risk hospital boat";
+var mnemonic = "giggle inspire recall senior invest pact area banana sleep drill stuff skill";

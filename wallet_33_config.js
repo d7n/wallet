@@ -1,1 +1,1 @@
-var mnemonic = "veteran slogan busy belt toddler deer penalty digital squirrel enjoy noble faint";
+var mnemonic = "garlic remain merit crumble version arctic purchase squirrel brick speak anger swift";

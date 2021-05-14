@@ -1,1 +1,1 @@
-var mnemonic = "sand make outdoor fall derive case crisp move wheel deer faith still";
+var mnemonic = "race start sibling sound return dynamic club luxury stock scan torch hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "art actor tilt lend mouse thunder universe light maid tail motor avocado";
+var mnemonic = "lawsuit position damage tool yard often valley reject install thought cannon enter";

@@ -1,1 +1,1 @@
-var mnemonic = "eight brown entire side secret only identify token junk maid security mercy";
+var mnemonic = "afraid oblige bubble clump unlock merge shuffle rally rival slice bubble visa";

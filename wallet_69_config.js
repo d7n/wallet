@@ -1,1 +1,1 @@
-var mnemonic = "hungry retreat inhale tomorrow section menu negative club chimney uncover shrug credit";
+var mnemonic = "gaze tornado meadow denial risk flavor renew similar chunk weekend flush glance";

@@ -1,1 +1,1 @@
-var mnemonic = "peace rely news crouch page inhale elbow draw disorder noodle castle pole";
+var mnemonic = "broccoli verify dog finish enhance dad inspire moon salon zero fury regular";

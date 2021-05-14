@@ -1,1 +1,1 @@
-var mnemonic = "fit release poet detect tilt scissors prize orbit innocent frozen round private";
+var mnemonic = "level wine garbage tag solution tone post else ill return tragic thank";

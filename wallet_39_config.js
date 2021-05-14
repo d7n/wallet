@@ -1,1 +1,1 @@
-var mnemonic = "system wealth they furnace town skull twenty common interest arrest deliver penalty";
+var mnemonic = "belt fringe evoke buffalo gravity brown unique faculty great swift decline vast";

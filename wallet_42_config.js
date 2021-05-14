@@ -1,1 +1,1 @@
-var mnemonic = "excuse door pluck confirm quantum poet appear badge slim tattoo curious already";
+var mnemonic = "odor involve wet sell foam frequent file urban pulp double help ice";

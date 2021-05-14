@@ -1,1 +1,1 @@
-var mnemonic = "fringe alley style drum aware hammer detail turn execute teach clown student";
+var mnemonic = "useless media reflect diamond reopen mad convince bullet cook jungle seven cover";

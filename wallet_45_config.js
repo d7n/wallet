@@ -1,1 +1,1 @@
-var mnemonic = "noodle student control before lemon business life cheese galaxy castle wine trouble";
+var mnemonic = "liberty cause soda damp story hidden offer neglect about replace measure find";

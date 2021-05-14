@@ -1,1 +1,1 @@
-var mnemonic = "slim rate mechanic middle patient unable siren crazy athlete pass rubber parrot";
+var mnemonic = "mind divorce cost primary peanut weather duck fashion sail ride valid version";

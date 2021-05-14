@@ -1,1 +1,1 @@
-var mnemonic = "wolf version better exit other into category physical bid flag joy uphold";
+var mnemonic = "find like ask attack army square elegant swing decorate whale broccoli item";

@@ -1,1 +1,1 @@
-var mnemonic = "draft rabbit orbit nerve couch limit armor child pave romance know ugly";
+var mnemonic = "marine cousin type surround obscure lunch scissors place element wing glide private";

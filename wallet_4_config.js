@@ -1,1 +1,1 @@
-var mnemonic = "make beauty replace flee celery monster door toward loop beauty panther pelican";
+var mnemonic = "dress assault enact tissue bamboo fortune potato fever use orphan scatter penalty";

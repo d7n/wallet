@@ -1,1 +1,1 @@
-var mnemonic = "fantasy review absent program wealth young piano marble aspect nice clever win";
+var mnemonic = "myth unhappy sting guess unit isolate pause noble matter assault salad alien";

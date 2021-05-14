@@ -1,1 +1,1 @@
-var mnemonic = "rotate suit photo under lesson guilt spell fatal book end sign mercy";
+var mnemonic = "nominee mix seed estate arena inner enforce bulb young slab elite verb";

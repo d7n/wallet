@@ -1,1 +1,1 @@
-var mnemonic = "flower observe problem frog venue improve text oil square call sister scout";
+var mnemonic = "search hand width purse before rebuild shuffle bus train stock rib weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "camera gain lake tennis emotion gown enforce kitten argue divert winner tonight";
+var mnemonic = "sort above valid noodle remember ankle rifle history history top tooth license";
