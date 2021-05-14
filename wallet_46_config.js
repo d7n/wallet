@@ -1,1 +1,1 @@
-var mnemonic = "snap crack swim roof roast lemon like retreat client remind sort zone";
+var mnemonic = "shrimp sting unhappy zebra glide sudden wine damp bus crime advice purity";

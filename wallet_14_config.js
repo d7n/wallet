@@ -1,1 +1,1 @@
-var mnemonic = "gauge pear worth prize nurse toward frog stadium lend tackle lunar palm";
+var mnemonic = "park job proud large bargain math elevator program concert educate light tornado";

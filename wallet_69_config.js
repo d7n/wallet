@@ -1,1 +1,1 @@
-var mnemonic = "drift elegant bind hire lawsuit often cat borrow sorry fee author gaze";
+var mnemonic = "next owner fancy artist hand acquire decline grit health need old uphold";

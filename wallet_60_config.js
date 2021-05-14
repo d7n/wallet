@@ -1,1 +1,1 @@
-var mnemonic = "venue victory core junior fashion inspire glance snow unit around puppy convince";
+var mnemonic = "plunge paddle unit zebra thumb distance rotate van cinnamon ski defense blanket";

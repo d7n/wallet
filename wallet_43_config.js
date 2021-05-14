@@ -1,1 +1,1 @@
-var mnemonic = "angle suit crane budget thing home assault coffee area recycle pear coil";
+var mnemonic = "pride tackle smooth ready under interest film industry above coil cushion timber";

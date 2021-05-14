@@ -1,1 +1,1 @@
-var mnemonic = "stairs diary rotate obtain still screen dumb never sudden mushroom maze forget";
+var mnemonic = "chat sentence capital name online alien swift marine monitor sibling web suspect";

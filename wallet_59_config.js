@@ -1,1 +1,1 @@
-var mnemonic = "join brave celery bacon very decrease bridge female reduce toast spawn steak";
+var mnemonic = "tuna seat slide control develop erode section example diagram wife umbrella crew";

@@ -1,1 +1,1 @@
-var mnemonic = "truck flip garden prison mechanic drip gorilla possible lounge must area robot";
+var mnemonic = "spike bitter ranch steel organ wasp casino tiny renew skull shy twelve";

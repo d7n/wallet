@@ -1,1 +1,1 @@
-var mnemonic = "occur thrive fall chef hold bread supreme tooth benefit satoshi banana key";
+var mnemonic = "guide reveal business gossip tide have suit humble chuckle news apart yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige crane bundle tape maze digital unfair canvas blush magic tribe autumn";
+var mnemonic = "layer car drift machine diary claw act acquire quality brass similar welcome";

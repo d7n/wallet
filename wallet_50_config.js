@@ -1,1 +1,1 @@
-var mnemonic = "rude often subway there cabin movie crawl virtual job gate fly notice";
+var mnemonic = "version green garbage salt share embark glimpse sorry decide fantasy index tattoo";

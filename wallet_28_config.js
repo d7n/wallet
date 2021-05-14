@@ -1,1 +1,1 @@
-var mnemonic = "crazy tortoise torch interest ghost sudden fan lunch angle deposit fringe merit";
+var mnemonic = "harvest number exotic lounge sound aspect van wash narrow elbow oppose insect";

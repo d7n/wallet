@@ -1,1 +1,1 @@
-var mnemonic = "coconut art custom prevent dust shadow dance digital armed giggle dismiss hero";
+var mnemonic = "celery ivory blame cloud resist brand volcano any about arch injury wise";

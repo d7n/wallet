@@ -1,1 +1,1 @@
-var mnemonic = "autumn artwork thumb survey general level copy nest until rate venue remain";
+var mnemonic = "flight lady subway genius tank sugar receive ladder ghost way core fog";

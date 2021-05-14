@@ -1,1 +1,1 @@
-var mnemonic = "convince siren kite achieve build buddy author utility market fit family increase";
+var mnemonic = "panther pigeon interest coin maid time anxiety emotion noble ready secret embody";

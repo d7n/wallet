@@ -1,1 +1,1 @@
-var mnemonic = "planet tornado film unveil cloth quality inflict myth airport video book angry";
+var mnemonic = "have share grace alone anger affair debris custom absurd miracle antenna antique";

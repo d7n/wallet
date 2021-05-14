@@ -1,1 +1,1 @@
-var mnemonic = "wear female business donate lonely cherry quick kangaroo ancient alert salon build";
+var mnemonic = "drink sustain cradle carbon modify length share review milk excuse raw hood";

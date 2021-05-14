@@ -1,1 +1,1 @@
-var mnemonic = "fiction sail arrest link design merge rural lazy mushroom corn lamp rely";
+var mnemonic = "flip learn maple acid perfect trade giant float pudding zebra zero brain";

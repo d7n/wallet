@@ -1,1 +1,1 @@
-var mnemonic = "grace advice abuse camp assist hour sorry acquire refuse fine marriage behave";
+var mnemonic = "drip tag box obscure assume imitate alien tool man eager truly doctor";

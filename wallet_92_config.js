@@ -1,1 +1,1 @@
-var mnemonic = "affair afford royal now impose hover flag mixture waste gauge vacant wrist";
+var mnemonic = "shock theory swarm brief attack goddess limit squeeze length name supreme search";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb galaxy twelve cycle wink gentle flat cannon head remain balcony charge";
+var mnemonic = "uphold style acquire little chair useless hour adapt roof layer address stuff";

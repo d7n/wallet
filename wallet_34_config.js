@@ -1,1 +1,1 @@
-var mnemonic = "cute soda hurt umbrella math bid note enjoy between come combine curtain";
+var mnemonic = "quick junk lottery give table suit result exhaust human yard this mushroom";

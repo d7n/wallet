@@ -1,1 +1,1 @@
-var mnemonic = "brain fish embody monster verb fee salmon village believe surge divert draw";
+var mnemonic = "network cinnamon alley biology real skull equal benefit slender limb impulse false";

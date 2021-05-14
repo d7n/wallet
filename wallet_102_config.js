@@ -1,1 +1,1 @@
-var mnemonic = "fatal ozone leg soup rapid system decade skirt exhaust minimum fit veteran";
+var mnemonic = "income favorite swallow boss absent antique list charge galaxy tomato spy can";

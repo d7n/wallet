@@ -1,1 +1,1 @@
-var mnemonic = "detail stomach flight shove embody moment clay latin shell collect wasp success";
+var mnemonic = "rapid recall buddy sense decide empower steak response actor fold circle ugly";

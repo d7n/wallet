@@ -1,1 +1,1 @@
-var mnemonic = "seek olive uniform shove useful flower treat file rude improve soft stay";
+var mnemonic = "lava catch youth that lens casual stamp tennis neck easy pulp purchase";

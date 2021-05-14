@@ -1,1 +1,1 @@
-var mnemonic = "false skirt huge select chunk ripple olive foot jeans rabbit fitness dry";
+var mnemonic = "sniff notable history father bright enroll dust fence bleak bring plug finish";

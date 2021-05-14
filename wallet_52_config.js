@@ -1,1 +1,1 @@
-var mnemonic = "latin milk position okay iron among mother any stuff virtual flame gospel";
+var mnemonic = "quit angry alien lake enable dragon knee hill deny nerve puzzle enjoy";

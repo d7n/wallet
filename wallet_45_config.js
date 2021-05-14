@@ -1,1 +1,1 @@
-var mnemonic = "verify biology dry wreck door rare drill flame uphold broom cup frown";
+var mnemonic = "area wing hammer ring stable grab adult capable shy galaxy woman error";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance still time birth pool enhance blossom mother forum grocery cool daring";
+var mnemonic = "problem winter feature dentist click divide math test crumble yellow awake borrow";

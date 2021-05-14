@@ -1,1 +1,1 @@
-var mnemonic = "drill color desert keen aspect pistol gauge plate invite portion box boil";
+var mnemonic = "wedding armor disagree help disagree material blood divide auction benefit artwork spy";

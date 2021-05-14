@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit yellow stadium effort chronic year only mom armed olive present trust";
+var mnemonic = "field mango awful matrix excite degree fan bundle bounce spider search pig";

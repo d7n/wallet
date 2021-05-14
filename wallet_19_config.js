@@ -1,1 +1,1 @@
-var mnemonic = "eagle street mimic above escape rigid yellow peace elder cream where critic";
+var mnemonic = "lazy answer swing mammal police enemy garden kitten manage bean design lake";

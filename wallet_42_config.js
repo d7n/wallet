@@ -1,1 +1,1 @@
-var mnemonic = "surge industry shine wave smart slush chief expand walnut bleak voyage museum";
+var mnemonic = "attack gold onion action juice key ceiling current negative home squirrel unveil";

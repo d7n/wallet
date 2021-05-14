@@ -1,1 +1,1 @@
-var mnemonic = "surface busy oyster very ostrich act garment trumpet left crazy exact purpose";
+var mnemonic = "onion true source spring bone flight sun gas lottery explain orphan rice";

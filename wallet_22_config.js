@@ -1,1 +1,1 @@
-var mnemonic = "casino juice unveil august wise hockey fantasy despair diagram peace prize there";
+var mnemonic = "foster swing enlist odor october poverty still disease salt assault cup remain";

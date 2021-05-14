@@ -1,1 +1,1 @@
-var mnemonic = "gallery boost sustain interest yard insect lady flip throw essay photo deny";
+var mnemonic = "guide surge brain thank survey remain rent pizza ecology benefit tuition spare";

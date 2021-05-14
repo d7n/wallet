@@ -1,1 +1,1 @@
-var mnemonic = "cream begin shove cinnamon slim job canal usage write nothing cloth volcano";
+var mnemonic = "collect heart rifle large gossip web symbol inch cinnamon grocery eager laugh";

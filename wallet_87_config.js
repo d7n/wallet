@@ -1,1 +1,1 @@
-var mnemonic = "reopen control nominee vacant filter concert later limit use recall hammer neutral";
+var mnemonic = "leisure corn quit wheat sport rail siren century basic library insect trial";

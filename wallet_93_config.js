@@ -1,1 +1,1 @@
-var mnemonic = "guitar square among income mad flock page asthma arrest fitness critic urban";
+var mnemonic = "have foster front labor still memory heart injury obey march orbit magic";

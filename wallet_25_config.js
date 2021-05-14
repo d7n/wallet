@@ -1,1 +1,1 @@
-var mnemonic = "mimic cement response genuine draft claim caution donkey tell hen enter suggest";
+var mnemonic = "enforce material prison across wagon risk street leaf sign evoke total office";

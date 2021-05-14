@@ -1,1 +1,1 @@
-var mnemonic = "organ culture hand giant coil excuse ring isolate monster panther caught region";
+var mnemonic = "desert empty body crisp witness blush hamster kingdom panic knee company ribbon";

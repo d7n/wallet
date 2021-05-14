@@ -1,1 +1,1 @@
-var mnemonic = "miracle multiply one neither real oyster series illness enough salad mansion cry";
+var mnemonic = "milk furnace door wide echo excite business believe into spirit mutual cricket";

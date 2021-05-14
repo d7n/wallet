@@ -1,1 +1,1 @@
-var mnemonic = "swap fox calm sausage whale ensure adult proof border mandate table letter";
+var mnemonic = "winner pencil remind syrup bird staff tissue recipe isolate life canvas tortoise";

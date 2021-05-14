@@ -1,1 +1,1 @@
-var mnemonic = "tree iron want rude color scrap lottery scan rubber use goose enable";
+var mnemonic = "nominee silent glory ceiling rude digital move garage paper cake tiny debris";

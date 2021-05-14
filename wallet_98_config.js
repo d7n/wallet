@@ -1,1 +1,1 @@
-var mnemonic = "wild outdoor drive message salad floor summer monster current trim galaxy result";
+var mnemonic = "swap luxury half various napkin reveal draft seven crew stool design lock";

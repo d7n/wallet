@@ -1,1 +1,1 @@
-var mnemonic = "auto eagle mountain absurd screen fish aware receive burger beach assume estate";
+var mnemonic = "private evoke army push fat kid shoot you emerge avoid decorate repair";

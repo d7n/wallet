@@ -1,1 +1,1 @@
-var mnemonic = "figure twice dance amazing tell donate ugly edit cry useful define august";
+var mnemonic = "tower marriage gap truck lonely current flip salt sweet open pistol portion";

@@ -1,1 +1,1 @@
-var mnemonic = "public kid credit upset chaos ridge cruel vote degree spray talent fall";
+var mnemonic = "switch humor uncover emotion crazy shove unknown cake empower chest between absurd";

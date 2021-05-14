@@ -1,1 +1,1 @@
-var mnemonic = "mutual paper pudding ladder snake pretty discover keep riot cheese devote tank";
+var mnemonic = "awkward miss until alpha cash cause mail orchard outdoor east health swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "you meat ahead dry bottom remain harvest inspire light leg work crush";
+var mnemonic = "motor onion thunder fatal call caution tag bird frame famous since minor";

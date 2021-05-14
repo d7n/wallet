@@ -1,1 +1,1 @@
-var mnemonic = "cream output stem control divert borrow elbow amazing creek motor wife survey";
+var mnemonic = "stock street autumn dish affair smooth outer genius kick sausage evoke forward";

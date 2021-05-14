@@ -1,1 +1,1 @@
-var mnemonic = "hood credit argue trip uniform stock conduct air hand install rather service";
+var mnemonic = "wise much puzzle hire doctor hawk name direct where play belt direct";

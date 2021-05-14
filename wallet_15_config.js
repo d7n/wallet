@@ -1,1 +1,1 @@
-var mnemonic = "beef target token purity edge suffer universe switch burden drill wagon robust";
+var mnemonic = "decide diet glad alter absent laundry salt motion increase gap sample purse";

@@ -1,1 +1,1 @@
-var mnemonic = "useful spoon robust narrow piece hotel social frequent raw crush employ cancel";
+var mnemonic = "wheat august soft essay squirrel core kingdom wreck setup hero stem very";

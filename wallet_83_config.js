@@ -1,1 +1,1 @@
-var mnemonic = "solve detect rural fury weather enlist palace middle peanut wasp much ritual";
+var mnemonic = "essence rule evoke skin kingdom since uniform first spell spin sure seven";

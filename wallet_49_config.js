@@ -1,1 +1,1 @@
-var mnemonic = "glad art breeze whip warfare express squirrel gas solution roast design cable";
+var mnemonic = "leisure enforce push genre action obey nuclear busy toe special flavor response";

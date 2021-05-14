@@ -1,1 +1,1 @@
-var mnemonic = "virtual sort catalog ghost observe then burst wonder hub panda reopen initial";
+var mnemonic = "outer brain person sun season twist add panic behind bulk inspire black";

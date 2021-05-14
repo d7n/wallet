@@ -1,1 +1,1 @@
-var mnemonic = "fall glare under already oxygen crucial nut tornado crumble grab predict web";
+var mnemonic = "cancel program vague rate exercise paper fetch pause gorilla soldier want purity";

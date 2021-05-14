@@ -1,1 +1,1 @@
-var mnemonic = "purchase churn weird page run treat toss repeat battle snap rug mushroom";
+var mnemonic = "unlock obtain desk option dentist cram spoil pulse era wall crunch orange";

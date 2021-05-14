@@ -1,1 +1,1 @@
-var mnemonic = "blame bean virus midnight acquire hotel lamp bleak young lumber flower piece";
+var mnemonic = "board arrest board cactus crisp among arrive pact window remind poet midnight";

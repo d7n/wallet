@@ -1,1 +1,1 @@
-var mnemonic = "lion material tenant token sea milk habit shock canyon bulb price auto";
+var mnemonic = "orphan rule vacuum small reduce sweet proud art marriage rack pilot mechanic";

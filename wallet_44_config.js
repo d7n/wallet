@@ -1,1 +1,1 @@
-var mnemonic = "cheese hair concert harbor blade parent unveil reform suspect boss code soft";
+var mnemonic = "process repeat unable charge analyst evidence wealth craft knock gaze solar labor";

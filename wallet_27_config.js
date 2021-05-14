@@ -1,1 +1,1 @@
-var mnemonic = "uncle bar area shoot mention skirt tobacco mention soft fitness picnic social";
+var mnemonic = "volume another lady fatigue notable spoon second fiber earn bronze target indoor";

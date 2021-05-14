@@ -1,1 +1,1 @@
-var mnemonic = "foster increase sea come hole aim blade provide lake medal grocery clap";
+var mnemonic = "clerk sniff grit solar zoo fringe spoon illness venue phone above forget";

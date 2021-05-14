@@ -1,1 +1,1 @@
-var mnemonic = "robot roast knee punch heart sign erode anchor palace burst talent melt";
+var mnemonic = "crush author intact mass enter choice romance trophy tank mom ritual age";

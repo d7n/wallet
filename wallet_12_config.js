@@ -1,1 +1,1 @@
-var mnemonic = "ordinary race hurdle master scout cancel ribbon task fancy profit pen under";
+var mnemonic = "explain control voyage rural there firm someone craft place shed lunch demise";

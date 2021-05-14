@@ -1,1 +1,1 @@
-var mnemonic = "drum identify purchase gloom real forget tell short ancient merit dove nominee";
+var mnemonic = "crawl picture coach glow position pave garbage help exile upon okay found";

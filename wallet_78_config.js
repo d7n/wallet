@@ -1,1 +1,1 @@
-var mnemonic = "amount bacon urban ahead disorder degree soldier wool brief install code sunny";
+var mnemonic = "aim property fashion reopen violin avoid spice inmate sleep auction oak math";

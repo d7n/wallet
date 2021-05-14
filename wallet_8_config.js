@@ -1,1 +1,1 @@
-var mnemonic = "garden chaos blanket fiber future actor panic drip purse lend core bachelor";
+var mnemonic = "journey weekend spatial region aisle trip couch right clean flame dash romance";

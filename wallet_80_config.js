@@ -1,1 +1,1 @@
-var mnemonic = "salad asthma budget youth enforce adult reunion endorse summer build slice alcohol";
+var mnemonic = "prevent inner arrive flower jeans success apart fluid spatial display filter offer";

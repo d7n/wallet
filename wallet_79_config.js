@@ -1,1 +1,1 @@
-var mnemonic = "steak shuffle bind field eager sausage display lion entire someone right foster";
+var mnemonic = "jump village other raw exile desert then use virtual possible west pudding";

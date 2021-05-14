@@ -1,1 +1,1 @@
-var mnemonic = "into vocal street frozen erosion bar wheat bulk utility salon addict foster";
+var mnemonic = "reopen catch extend right year vendor actor dynamic reward firm open nut";

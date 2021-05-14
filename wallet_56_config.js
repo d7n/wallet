@@ -1,1 +1,1 @@
-var mnemonic = "animal nominee swallow marriage rail trap invest casual north romance double raccoon";
+var mnemonic = "tomorrow pair cover maze regular sun abstract wasp blush coral source response";

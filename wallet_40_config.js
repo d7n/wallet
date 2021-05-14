@@ -1,1 +1,1 @@
-var mnemonic = "inquiry decrease craft month follow sample tiger race copper budget already hollow";
+var mnemonic = "say minimum kid author news any pair venture blur grit retreat remove";

@@ -1,1 +1,1 @@
-var mnemonic = "happy common walnut rail field venue ocean antique drink pet lawn bacon";
+var mnemonic = "amateur program exercise double knife nasty bitter exhibit bubble gaze high ripple";

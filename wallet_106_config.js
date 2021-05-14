@@ -1,1 +1,1 @@
-var mnemonic = "border puzzle chronic grid possible anger glove expand dial local dress squeeze";
+var mnemonic = "sell inhale actual fuel hood path diagram rude bench flip earn circle";

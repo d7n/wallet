@@ -1,1 +1,1 @@
-var mnemonic = "holiday urban donkey sell rich final verify very pond over demise cry";
+var mnemonic = "cable fiction curious picnic excess author blur abstract pretty mother skin measure";

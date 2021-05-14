@@ -1,1 +1,1 @@
-var mnemonic = "plunge mansion snow broccoli favorite auction noodle escape pass cube favorite blast";
+var mnemonic = "tragic around obey know error wine shy pluck lumber diesel lecture review";

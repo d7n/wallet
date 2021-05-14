@@ -1,1 +1,1 @@
-var mnemonic = "climb injury photo napkin cinnamon bright entire quiz clever small wine north";
+var mnemonic = "word runway mimic garden ranch screen panda frog energy chase cancel fish";

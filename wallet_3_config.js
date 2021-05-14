@@ -1,1 +1,1 @@
-var mnemonic = "awkward song divert success certain cycle fatal opera water answer only walk";
+var mnemonic = "fly another tobacco knife gauge deal citizen laundry captain cave clever jelly";

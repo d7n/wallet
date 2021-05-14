@@ -1,1 +1,1 @@
-var mnemonic = "fish educate spray crisp winter innocent remain museum impose swarm answer hidden";
+var mnemonic = "exercise fetch power impulse act shell ribbon grab pumpkin salmon blanket man";

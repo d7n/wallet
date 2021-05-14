@@ -1,1 +1,1 @@
-var mnemonic = "barely retreat exact illegal mule below work local lunch push light color";
+var mnemonic = "cry behave chimney enhance elbow stumble mammal start glad walk color smart";

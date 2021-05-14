@@ -1,1 +1,1 @@
-var mnemonic = "casual dawn palace genre love jealous urban buddy vacuum choice toss volume";
+var mnemonic = "hamster century tuna celery bring unhappy luggage adult core payment author search";

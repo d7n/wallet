@@ -1,1 +1,1 @@
-var mnemonic = "gallery page burger loan leaf unaware toe search author together utility fat";
+var mnemonic = "engage possible cave build treat hint spawn wide potato join clean segment";

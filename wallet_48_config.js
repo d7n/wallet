@@ -1,1 +1,1 @@
-var mnemonic = "analyst bless wagon sword age truth spend giraffe history globe average fee";
+var mnemonic = "upon regret neck blush derive middle shove canal zero liquid burden north";

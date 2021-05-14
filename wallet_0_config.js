@@ -1,1 +1,1 @@
-var mnemonic = "credit banner usual crash latin siege small have nerve absorb physical train";
+var mnemonic = "east panther glow company inside nose unknown tag stay bachelor stable barrel";

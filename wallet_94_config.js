@@ -1,1 +1,1 @@
-var mnemonic = "utility hollow destroy all divert easy card pair glad palm cabbage strong";
+var mnemonic = "canoe news mixed surprise hair luggage fun census record bus expose sight";

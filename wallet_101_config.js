@@ -1,1 +1,1 @@
-var mnemonic = "seed arch motor pluck bitter life swing noble noble believe broom man";
+var mnemonic = "ramp crystal junior impulse inform funny cinnamon soup twice search dream erode";

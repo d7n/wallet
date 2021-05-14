@@ -1,1 +1,1 @@
-var mnemonic = "afraid borrow echo toy jump put turtle dizzy simple average disease similar";
+var mnemonic = "jungle become twist engage layer shoot smooth spike resist domain helmet tennis";

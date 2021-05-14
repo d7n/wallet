@@ -1,1 +1,1 @@
-var mnemonic = "warrior adapt enjoy pact rail segment expose popular accuse short bone basket";
+var mnemonic = "frown person town height palace equip expand practice enjoy cricket treat dial";

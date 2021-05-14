@@ -1,1 +1,1 @@
-var mnemonic = "zone tomato pulse rely tattoo glimpse rhythm envelope kite meadow omit spike";
+var mnemonic = "click brass point welcome other nothing test canyon congress shrimp phone range";
