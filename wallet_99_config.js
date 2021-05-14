@@ -1,1 +1,1 @@
-var mnemonic = "upset benefit velvet owner tuna correct album gain team begin harsh teach";
+var mnemonic = "side fossil mad guitar purse derive west pretty razor rug dragon discover";

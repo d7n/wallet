@@ -1,1 +1,1 @@
-var mnemonic = "unable snow square aerobic brain derive maid prosper slam mountain entry pink";
+var mnemonic = "mad attract fun void pen again sense estate silly ill stay wash";

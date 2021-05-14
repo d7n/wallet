@@ -1,1 +1,1 @@
-var mnemonic = "sign trash thumb vendor creek safe motion wrestle thumb twice twist film";
+var mnemonic = "matter train tooth stay top record heart clever honey clever gas van";

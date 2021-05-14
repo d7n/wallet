@@ -1,1 +1,1 @@
-var mnemonic = "imitate crawl pact oval neglect error pilot surprise candy hungry cannon firm";
+var mnemonic = "exact minor when equal year hawk document skill track banner mammal install";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle flight minor involve visual extend gap million pudding glad pretty cake";
+var mnemonic = "space bird drop raven chronic common remain insane voyage finger depart say";

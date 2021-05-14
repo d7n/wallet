@@ -1,1 +1,1 @@
-var mnemonic = "coffee path brush shuffle genuine magic much recycle neglect idea swallow chef";
+var mnemonic = "spring floor subway crush proud mountain gather clerk surface dress spare occur";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk eight lamp question price correct breeze second loud delay farm buzz";
+var mnemonic = "crew deny slender galaxy exhaust sound mandate enact liberty lava arch toss";

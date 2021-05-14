@@ -1,1 +1,1 @@
-var mnemonic = "arrow duck happy during bronze kitten excite luxury suit exotic snap bacon";
+var mnemonic = "shell meadow artwork nominee appear dilemma cave side sight net try broken";

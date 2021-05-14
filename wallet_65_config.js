@@ -1,1 +1,1 @@
-var mnemonic = "biology rabbit broom buffalo harbor indoor public cupboard author slush rabbit injury";
+var mnemonic = "volume sweet silent lend cram marble six shallow range kingdom trick notice";

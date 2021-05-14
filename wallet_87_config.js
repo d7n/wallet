@@ -1,1 +1,1 @@
-var mnemonic = "illegal will above horn fatigue dignity high milk under assault tip fantasy";
+var mnemonic = "dinner legend ignore oak patch unique very work puppy crack filter nasty";

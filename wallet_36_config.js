@@ -1,1 +1,1 @@
-var mnemonic = "need purity arrow verify flame report cream hunt shed recycle life put";
+var mnemonic = "vicious arrange shoe play gauge frequent panic cruise custom kid history assist";

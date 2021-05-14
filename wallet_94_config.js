@@ -1,1 +1,1 @@
-var mnemonic = "rotate idle tube wealth version journey delay sting face host extend afraid";
+var mnemonic = "blood crouch vague merry canyon mango camera brush bulb rural maze chunk";

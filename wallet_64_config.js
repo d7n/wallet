@@ -1,1 +1,1 @@
-var mnemonic = "snap shoe method kind violin horse egg pizza wage soda cloud moral";
+var mnemonic = "grow embark winner social loan add venture mushroom lemon object museum injury";

@@ -1,1 +1,1 @@
-var mnemonic = "misery setup slow shrug divert improve slush lobster innocent lounge unfair stay";
+var mnemonic = "treat gas merry baby step faint disagree student angle universe swarm gown";

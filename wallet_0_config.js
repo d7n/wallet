@@ -1,1 +1,1 @@
-var mnemonic = "radar keen fame false verify speak crumble shuffle swim clerk first comic";
+var mnemonic = "evil miracle swing rain eight salute tennis hospital laptop crawl bag pair";

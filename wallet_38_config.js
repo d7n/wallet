@@ -1,1 +1,1 @@
-var mnemonic = "oval business indoor fame library confirm series sort feel cricket suffer alarm";
+var mnemonic = "proud reject team grow hidden happy slight drill slot parrot inform beach";

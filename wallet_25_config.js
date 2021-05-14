@@ -1,1 +1,1 @@
-var mnemonic = "bright deposit virus major spawn mom lonely danger add pass crouch funny";
+var mnemonic = "force obtain icon cinnamon ugly wife balcony next local solve remain notice";

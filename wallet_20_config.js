@@ -1,1 +1,1 @@
-var mnemonic = "false return inmate soldier escape live crop depth impulse tooth blast lend";
+var mnemonic = "wear adapt annual own fat wine boat ball hollow warfare unknown lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "cram topple happy any flock wall hold fine grain effort aspect move";
+var mnemonic = "fire census version ozone banana dish vague paper blanket still scatter cruel";

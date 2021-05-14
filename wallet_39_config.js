@@ -1,1 +1,1 @@
-var mnemonic = "april vocal twist boss crystal success hair ski pig file aspect whip";
+var mnemonic = "imitate vintage carry april obtain rubber design domain quantum game gauge either";

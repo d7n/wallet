@@ -1,1 +1,1 @@
-var mnemonic = "wise wonder curtain city loop beauty rent assist ring satisfy vibrant bleak";
+var mnemonic = "salute ocean unable clump frozen apart iron gadget decorate swear brave siren";

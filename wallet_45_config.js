@@ -1,1 +1,1 @@
-var mnemonic = "enjoy custom mind apart weekend debate exchange history scrap surround paddle nasty";
+var mnemonic = "fiction click caught comic fun lonely budget kidney insect fame jeans afford";

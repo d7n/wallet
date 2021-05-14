@@ -1,1 +1,1 @@
-var mnemonic = "helmet aunt gas vacuum chuckle involve barrel tank annual roof artwork coin";
+var mnemonic = "box one oyster hero pulse elevator sail soul service armor tower mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "portion rescue shine thank dizzy crucial outdoor couple onion inherit audit miss";
+var mnemonic = "cousin amount thunder acid hip annual lazy such right horse pumpkin desk";

@@ -1,1 +1,1 @@
-var mnemonic = "where shock aim click dumb piano shine guitar deposit elder hair girl";
+var mnemonic = "nose success solution smoke machine correct owner setup jar rhythm shy arrive";

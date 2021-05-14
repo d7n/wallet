@@ -1,1 +1,1 @@
-var mnemonic = "term denial fantasy old hip market wet hood sad sniff usual journey";
+var mnemonic = "beyond apology prefer jazz focus next swap little rare post maple voice";

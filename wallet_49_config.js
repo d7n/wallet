@@ -1,1 +1,1 @@
-var mnemonic = "viable river grid uncle execute extra north shaft lend blame sport frown";
+var mnemonic = "year another relax wage safe swim lobster ramp father asset kick view";

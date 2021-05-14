@@ -1,1 +1,1 @@
-var mnemonic = "oxygen silk average cave close cheese ketchup resist dice nuclear pupil select";
+var mnemonic = "ten student lens core liberty glide hockey private sadness cash limb season";

@@ -1,1 +1,1 @@
-var mnemonic = "general gospel exit color install forum ritual cargo scissors abstract alpha draft";
+var mnemonic = "remain thumb business teach whale enough sport invite mean view this party";

@@ -1,1 +1,1 @@
-var mnemonic = "they juice ladder desk fade video garlic enforce grow decline happy clip";
+var mnemonic = "will trumpet rhythm cream feed stick access melt lady blouse north library";

@@ -1,1 +1,1 @@
-var mnemonic = "flush hair melody detect garment drink fuel grab gaze kidney tuna nose";
+var mnemonic = "key body antique impulse very brush radar middle flavor nothing venue monster";

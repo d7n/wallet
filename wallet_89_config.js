@@ -1,1 +1,1 @@
-var mnemonic = "exercise note dish amused purpose kitchen steel pave giggle drip jealous leopard";
+var mnemonic = "common coyote cream actress guitar gloom tennis subway ticket system margin tower";

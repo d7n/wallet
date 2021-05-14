@@ -1,1 +1,1 @@
-var mnemonic = "oak amateur exchange boy cactus tuna lesson gold pave jacket radio best";
+var mnemonic = "wool nephew cloud bone find genuine remove art river into diet inform";

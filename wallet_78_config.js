@@ -1,1 +1,1 @@
-var mnemonic = "report behind repair rabbit endorse illness abuse ball style chair alone fetch";
+var mnemonic = "wave ankle luggage practice step force bubble shrug lazy truly alone patch";

@@ -1,1 +1,1 @@
-var mnemonic = "hair attract embark satisfy tennis steel bring chief glove neither legal leader";
+var mnemonic = "bar cattle right judge fashion warrior exile lawsuit spare car mask dune";

@@ -1,1 +1,1 @@
-var mnemonic = "flush refuse fetch panel tongue arch measure debris critic fine slab cost";
+var mnemonic = "detect say make enforce firm green anchor quarter aware hint bunker multiply";

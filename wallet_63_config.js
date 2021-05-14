@@ -1,1 +1,1 @@
-var mnemonic = "bone road shiver coach rotate wild fine victory charge disagree super shadow";
+var mnemonic = "hill key reopen episode now song rigid panda tide gravity sand mass";

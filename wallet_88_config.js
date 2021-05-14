@@ -1,1 +1,1 @@
-var mnemonic = "phone endorse adult enjoy bronze forget neglect identify stumble near address differ";
+var mnemonic = "midnight receive marble bind flag cotton fan mansion degree industry vacuum exercise";

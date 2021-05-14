@@ -1,1 +1,1 @@
-var mnemonic = "eager document clock beef today give future weird subject multiply strike question";
+var mnemonic = "bamboo rocket proud hat slice room unable habit clarify shuffle code budget";

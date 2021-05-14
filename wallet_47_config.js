@@ -1,1 +1,1 @@
-var mnemonic = "nominee safe obscure keen elephant very swap certain execute clip bind sea";
+var mnemonic = "allow magnet outside glide edit flag polar amount thumb invite whip else";

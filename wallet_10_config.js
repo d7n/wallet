@@ -1,1 +1,1 @@
-var mnemonic = "accuse piece exile million current expand stem author hire wheel liar marble";
+var mnemonic = "tomorrow remember few seven anger lecture machine opinion echo angry diet game";

@@ -1,1 +1,1 @@
-var mnemonic = "palace slice ancient prosper bronze anxiety will purchase deputy banana shoulder hip";
+var mnemonic = "permit topic direct dignity prepare reflect blossom deny brown burst rigid replace";

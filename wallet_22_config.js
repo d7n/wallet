@@ -1,1 +1,1 @@
-var mnemonic = "device enact furnace smile setup ethics slogan achieve digital mountain bounce jazz";
+var mnemonic = "bunker bomb lady gravity kitchen head enhance random economy foot scheme chicken";

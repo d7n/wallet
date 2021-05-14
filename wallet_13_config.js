@@ -1,1 +1,1 @@
-var mnemonic = "tomato often february lunar era leave hair label manual capital hybrid interest";
+var mnemonic = "render engine design hand under want chronic street accuse embark today call";

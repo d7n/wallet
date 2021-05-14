@@ -1,1 +1,1 @@
-var mnemonic = "soap satoshi common struggle cart dry actor action warrior warrior index game";
+var mnemonic = "error jeans moral sing giggle tape tired foil ticket cage dust easy";

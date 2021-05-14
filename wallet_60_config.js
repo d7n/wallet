@@ -1,1 +1,1 @@
-var mnemonic = "shoe laugh benefit unveil learn shoe month crane mutual wheel absorb guard";
+var mnemonic = "pool priority inform muscle giant coyote despair author upper squirrel river predict";

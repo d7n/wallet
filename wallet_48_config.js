@@ -1,1 +1,1 @@
-var mnemonic = "change engine embody advice sheriff later deputy dress blanket intact angle where";
+var mnemonic = "useful market churn put swamp oval door glory leaf huge cause menu";

@@ -1,1 +1,1 @@
-var mnemonic = "body season stairs meat kid wish dose average crazy junk major swarm";
+var mnemonic = "marble letter lawn agent inspire cigar sail empty faith funny curve nerve";

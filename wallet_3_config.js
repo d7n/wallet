@@ -1,1 +1,1 @@
-var mnemonic = "sketch modify near loyal ability desk poet ticket uphold client dust excess";
+var mnemonic = "decorate image worth hope case scare grape sugar couple female sting palace";

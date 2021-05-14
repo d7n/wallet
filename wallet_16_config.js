@@ -1,1 +1,1 @@
-var mnemonic = "chat rain such remember soup doctor donate antique maximum scout install expose";
+var mnemonic = "shoe robot quantum execute fancy snap engine country number harvest crumble potato";

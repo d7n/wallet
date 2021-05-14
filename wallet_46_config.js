@@ -1,1 +1,1 @@
-var mnemonic = "young reason kite outside attitude uncover slab what chief sight tonight sick";
+var mnemonic = "clay allow random gasp spell speed alley foil sample age pepper rigid";

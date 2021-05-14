@@ -1,1 +1,1 @@
-var mnemonic = "cause advice category gossip desert general primary client between basic ankle report";
+var mnemonic = "marble flavor prosper panel latin fall cluster adult winner crop convince injury";

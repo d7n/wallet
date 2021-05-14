@@ -1,1 +1,1 @@
-var mnemonic = "purchase arrange amused panther corn seed decline tiger brother onion once near";
+var mnemonic = "sponsor rich they oyster income rice later lobster tray woman monitor rebuild";

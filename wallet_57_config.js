@@ -1,1 +1,1 @@
-var mnemonic = "object math spice hospital security evil infant foot gown diesel page since";
+var mnemonic = "famous famous special citizen embody bulk focus pride virus autumn average cushion";

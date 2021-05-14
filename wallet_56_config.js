@@ -1,1 +1,1 @@
-var mnemonic = "desk evolve knife fish filter cattle assume skin diet tonight mercy silly";
+var mnemonic = "lunch skirt common wish protect jewel struggle top olive receive crazy choice";

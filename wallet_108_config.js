@@ -1,1 +1,1 @@
-var mnemonic = "average train laptop hamster ugly test magnet enlist fluid stable stumble skirt";
+var mnemonic = "fringe rabbit print story coconut figure salmon manual claw blush under suffer";

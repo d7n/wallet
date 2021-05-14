@@ -1,1 +1,1 @@
-var mnemonic = "mutual actress jelly zone stock what present foil spin hello anxiety found";
+var mnemonic = "else pluck bubble confirm document lady tourist remember shallow door decade venue";

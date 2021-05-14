@@ -1,1 +1,1 @@
-var mnemonic = "doll avoid solid rotate attack merit ritual harbor cover firm advice gold";
+var mnemonic = "arrange steak spoon next ripple turtle usual casual hobby muffin regret deposit";

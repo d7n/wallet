@@ -1,1 +1,1 @@
-var mnemonic = "myth mechanic frown spin outdoor virus step visit slow plate exile donkey";
+var mnemonic = "impulse ancient confirm attract glow post kitchen vessel blossom express festival disorder";

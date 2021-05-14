@@ -1,1 +1,1 @@
-var mnemonic = "relief volcano innocent must defy pioneer fossil urge grant critic large daughter";
+var mnemonic = "shoulder system infant bridge illness half brisk gas cross equal island obey";

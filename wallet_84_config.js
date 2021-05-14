@@ -1,1 +1,1 @@
-var mnemonic = "scrap diary upgrade into arrange inform gaze dose switch gravity cactus pepper";
+var mnemonic = "involve faith age essay panic window warfare kid eagle scale skill swing";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk arrange earn collect earn throw school theme wonder cement lift sting";
+var mnemonic = "head despair act cancel armed obvious obscure bulk inhale turtle outside annual";

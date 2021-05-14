@@ -1,1 +1,1 @@
-var mnemonic = "feed weasel village lens return vapor proof cry dial thing dolphin way";
+var mnemonic = "upon mule about youth narrow book fluid camera tube echo gadget fashion";

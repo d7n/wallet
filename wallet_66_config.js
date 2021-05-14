@@ -1,1 +1,1 @@
-var mnemonic = "inner unable early gravity bridge during love photo depth alarm into toddler";
+var mnemonic = "gossip annual project rate advance spoon stamp radar kite update fruit jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup salon bullet train april gorilla series bread unfair march service holiday";
+var mnemonic = "dish festival trust annual defense dilemma kite frame pelican neck rough risk";

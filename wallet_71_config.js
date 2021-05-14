@@ -1,1 +1,1 @@
-var mnemonic = "bargain daughter resemble sword rate estate vivid bean similar liquid license price";
+var mnemonic = "muffin table menu energy mixed pencil junk adult infant produce then game";

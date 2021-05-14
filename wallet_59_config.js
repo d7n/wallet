@@ -1,1 +1,1 @@
-var mnemonic = "assume parrot rival churn fold infant flame spray super broom mean bunker";
+var mnemonic = "crystal reform quarter trouble innocent chunk twice suit hedgehog will cheese document";

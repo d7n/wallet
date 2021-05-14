@@ -1,1 +1,1 @@
-var mnemonic = "reopen safe walnut wonder diamond mansion brass legal stuff walk barely quarter";
+var mnemonic = "taste cube empty ankle hover bulb wrap baby miss muffin model rival";

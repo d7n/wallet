@@ -1,1 +1,1 @@
-var mnemonic = "travel proud network give outer tail tube useful stairs trip under staff";
+var mnemonic = "angry cancel cinnamon artefact coil talent frog paper bundle hawk people torch";

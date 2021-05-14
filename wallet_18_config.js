@@ -1,1 +1,1 @@
-var mnemonic = "cheap coach accident truth explain city involve april debate able grit best";
+var mnemonic = "when vanish chicken siege actual genuine bench utility motion orphan main damp";

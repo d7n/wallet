@@ -1,1 +1,1 @@
-var mnemonic = "february second base fire anchor arena pencil hunt frog entry enable game";
+var mnemonic = "spin acoustic rescue stamp october vessel book thunder shrimp super occur air";

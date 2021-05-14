@@ -1,1 +1,1 @@
-var mnemonic = "company erupt pencil wait pool mom spice corn oyster host dad dry";
+var mnemonic = "hub trap network empower expect spoil beauty ring limit science prison feel";

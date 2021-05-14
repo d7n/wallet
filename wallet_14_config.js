@@ -1,1 +1,1 @@
-var mnemonic = "fire tenant great team text cupboard mask rural wonder barrel athlete alcohol";
+var mnemonic = "vote basket broccoli enlist can melt census tribe into sphere bronze envelope";

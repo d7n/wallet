@@ -1,1 +1,1 @@
-var mnemonic = "crumble naive coral sick pepper caution actual cousin lend march swamp amazing";
+var mnemonic = "chronic sheriff slush circle expose chef basic spray twenty unfair way sheriff";

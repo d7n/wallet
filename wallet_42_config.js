@@ -1,1 +1,1 @@
-var mnemonic = "regret crumble shadow sick crunch piano letter void street obscure rice worth";
+var mnemonic = "clock jewel robust paddle spoon snack march resist army retire inform artefact";

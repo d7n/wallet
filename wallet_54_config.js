@@ -1,1 +1,1 @@
-var mnemonic = "budget mean pumpkin stay song taxi swallow demise song excuse unknown obscure";
+var mnemonic = "rich invest rate run voice gas dial copper course slogan focus mind";

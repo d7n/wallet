@@ -1,1 +1,1 @@
-var mnemonic = "execute wife absurd barely vanish message voice never bicycle talk dinosaur famous";
+var mnemonic = "radar ten inspire menu cargo will gift never eagle road reveal belt";

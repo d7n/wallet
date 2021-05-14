@@ -1,1 +1,1 @@
-var mnemonic = "economy mandate despair spare icon success nut apology script reopen village jazz";
+var mnemonic = "record duck calm cool script question cool version comfort hill veteran gasp";

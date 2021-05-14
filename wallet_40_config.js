@@ -1,1 +1,1 @@
-var mnemonic = "floor matter occur useful control novel scan swear blast pair session raccoon";
+var mnemonic = "voice extend voice exhaust scissors walnut tube tornado yard confirm hunt wage";

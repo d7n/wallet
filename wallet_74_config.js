@@ -1,1 +1,1 @@
-var mnemonic = "together neither supreme castle travel umbrella funny version punch language nuclear repeat";
+var mnemonic = "meat buzz sort egg south dynamic fence judge nominee carry tide swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "day world prepare issue beef because during opinion trust meat opinion rather";
+var mnemonic = "risk oyster notable toe this modify order potato awkward amused salon mechanic";

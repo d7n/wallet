@@ -1,1 +1,1 @@
-var mnemonic = "shrug degree catch flee nest puzzle grape secret wood unit above skate";
+var mnemonic = "puppy mad tomato door unusual poverty wine initial maid surge season athlete";

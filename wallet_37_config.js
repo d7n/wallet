@@ -1,1 +1,1 @@
-var mnemonic = "people wood era great pear hunt hello vacant catalog food shield attitude";
+var mnemonic = "draw fix wasp coyote blanket stay absent win prevent novel sort harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "title day pole cereal theory judge parrot endorse asthma menu sell blouse";
+var mnemonic = "finger fiscal shiver satoshi wage art pitch possible brain leader sting input";

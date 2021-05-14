@@ -1,1 +1,1 @@
-var mnemonic = "pipe dawn congress pull coin dial laugh public elephant settle edge memory";
+var mnemonic = "way only they zoo unfair milk shaft diesel art clever focus winter";

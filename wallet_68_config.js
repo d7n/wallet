@@ -1,1 +1,1 @@
-var mnemonic = "drip human drum liquid hard large judge swallow false body parent grass";
+var mnemonic = "elder promote dignity offer romance upgrade giant box scan six tribe tree";

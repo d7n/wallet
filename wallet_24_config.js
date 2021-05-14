@@ -1,1 +1,1 @@
-var mnemonic = "cage snow invest knee alter blade useful galaxy pepper buzz charge tomorrow";
+var mnemonic = "split zone myself nation must secret mother marine avoid avoid supreme bitter";

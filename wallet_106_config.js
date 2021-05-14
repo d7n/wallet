@@ -1,1 +1,1 @@
-var mnemonic = "caution actor rude kingdom keen stage quote reward shuffle kiss attack vessel";
+var mnemonic = "medal stock juice flip utility marine attend ocean insane vibrant bitter slush";

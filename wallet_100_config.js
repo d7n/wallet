@@ -1,1 +1,1 @@
-var mnemonic = "kidney come label language side marine galaxy dizzy axis fatal regular write";
+var mnemonic = "text include crumble caution stock crunch side quiz define reform super battle";
