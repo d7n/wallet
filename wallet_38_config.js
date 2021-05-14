@@ -1,1 +1,1 @@
-var mnemonic = "crucial dolphin sister cup they recall auction village weapon canyon aware gloom";
+var mnemonic = "discover proud scale tank tuna thing fluid vibrant prison video nurse leaf";

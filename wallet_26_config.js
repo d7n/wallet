@@ -1,1 +1,1 @@
-var mnemonic = "nice wide stock history armor tumble exotic core clerk add leader punch";
+var mnemonic = "sorry describe unfair anxiety rabbit tape civil season action soup make minute";

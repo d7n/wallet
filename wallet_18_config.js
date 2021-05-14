@@ -1,1 +1,1 @@
-var mnemonic = "first sick profit example sadness prize scatter grunt relief verify buddy same";
+var mnemonic = "cute define lend love canal rail visual sunset tree exact decade forward";

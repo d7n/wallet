@@ -1,1 +1,1 @@
-var mnemonic = "adjust embrace silver together mutual helmet offer input tobacco rhythm exhaust doctor";
+var mnemonic = "inject isolate afford omit candy pear day focus blur armed unfair wash";

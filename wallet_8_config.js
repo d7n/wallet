@@ -1,1 +1,1 @@
-var mnemonic = "bounce perfect glance snow lend giraffe gold tell okay boring come burden";
+var mnemonic = "scene drill retreat dove olympic hint animal script butter draw banner unfair";

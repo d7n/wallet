@@ -1,1 +1,1 @@
-var mnemonic = "human west road useful drastic gain hobby broccoli unaware slice excess brain";
+var mnemonic = "crisp rent tourist firm only order mixture spare alien cave exile stay";

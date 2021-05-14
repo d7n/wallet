@@ -1,1 +1,1 @@
-var mnemonic = "road ocean equip copy human pond eager envelope entire key harsh trap";
+var mnemonic = "slush script tonight fade galaxy wink sand hole grow patient web auction";

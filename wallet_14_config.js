@@ -1,1 +1,1 @@
-var mnemonic = "mixed essay humor civil negative wrap eternal element fiber deliver advice defy";
+var mnemonic = "liquid raven mask aim taste phrase swear lazy blind crash marine waste";

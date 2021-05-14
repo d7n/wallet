@@ -1,1 +1,1 @@
-var mnemonic = "link evil beef eternal toward neck aerobic scatter sock fault pact final";
+var mnemonic = "inch inquiry online figure age define electric reopen tomorrow salon auto order";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct open guilt cattle author very tree quick curve goose fly find";
+var mnemonic = "drastic admit can blind tooth squirrel universe mushroom width gossip melody chronic";

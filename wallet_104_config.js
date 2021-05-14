@@ -1,1 +1,1 @@
-var mnemonic = "save churn energy chief near diagram screen blossom anchor roast news hope";
+var mnemonic = "group win train account spell frame afraid someone nothing asset enlist clip";

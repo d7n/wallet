@@ -1,1 +1,1 @@
-var mnemonic = "drastic target clarify junior snow foot adapt birth salute silk huge again";
+var mnemonic = "patch suit six switch claw empower bike topic nasty web bacon eagle";

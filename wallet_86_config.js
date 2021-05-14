@@ -1,1 +1,1 @@
-var mnemonic = "main stereo exotic camera claw bounce kidney enable fringe couch desert staff";
+var mnemonic = "pencil moon maximum talent alien music badge float win toy ginger orient";

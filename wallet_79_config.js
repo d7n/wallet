@@ -1,1 +1,1 @@
-var mnemonic = "shy tiger green daring team learn scene retreat scrub region keen secret";
+var mnemonic = "photo birth average walk gap cause hollow squeeze curve stage adult fatal";

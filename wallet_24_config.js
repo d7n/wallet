@@ -1,1 +1,1 @@
-var mnemonic = "smoke fiber divert festival quote logic nasty neutral oven panda bullet zebra";
+var mnemonic = "chronic security amused plunge movie elbow bargain embark ride mimic mean advance";

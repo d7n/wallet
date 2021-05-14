@@ -1,1 +1,1 @@
-var mnemonic = "shell story connect peanut weekend kidney cabbage piece hollow neither differ horse";
+var mnemonic = "immune weather spare hill pudding swarm evil funny craft crime lyrics tower";

@@ -1,1 +1,1 @@
-var mnemonic = "inform cycle afford brick core dance follow grit pupil yard load general";
+var mnemonic = "total journey master venture black pipe range ice choose alarm sketch boost";

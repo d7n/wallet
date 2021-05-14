@@ -1,1 +1,1 @@
-var mnemonic = "rare fiscal save palm curtain blood total access motion advance mistake rhythm";
+var mnemonic = "excess phone hobby pepper blush photo finger mention friend neglect other purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "talk box stone donkey misery nature space motor inner crowd tell athlete";
+var mnemonic = "venue shuffle erupt physical maze legal chair tuna boss symptom arena agent";

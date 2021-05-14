@@ -1,1 +1,1 @@
-var mnemonic = "material adult logic jeans alcohol cake bundle return place desk maximum script";
+var mnemonic = "muscle regular step silly borrow speak hammer town family fatal apple master";

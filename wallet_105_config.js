@@ -1,1 +1,1 @@
-var mnemonic = "choice tortoise fuel sphere camera congress april wide either neglect diet wink";
+var mnemonic = "taxi enjoy job luxury thank ahead matrix call smart shock leaf gadget";

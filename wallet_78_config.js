@@ -1,1 +1,1 @@
-var mnemonic = "relief repeat indoor ozone myth ice firm symbol diamond slide inspire define";
+var mnemonic = "obey rabbit custom hurry bunker differ hand capable mass mechanic fresh purity";

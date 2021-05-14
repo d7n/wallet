@@ -1,1 +1,1 @@
-var mnemonic = "airport sphere green spread valid current blade wolf build scale vast occur";
+var mnemonic = "february company achieve fortune catalog fatigue phone balance blame example stem tiger";

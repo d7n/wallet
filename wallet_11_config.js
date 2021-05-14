@@ -1,1 +1,1 @@
-var mnemonic = "access diagram work sun enlist away vivid insane isolate large shock spoil";
+var mnemonic = "denial skate theme blossom crane genius ring seek easy reject jar card";

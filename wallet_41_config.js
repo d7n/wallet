@@ -1,1 +1,1 @@
-var mnemonic = "coffee steak phrase frown name hurry observe plunge seven smile smile devote";
+var mnemonic = "album address blood diet insect bird fringe hope clean coyote spread toward";

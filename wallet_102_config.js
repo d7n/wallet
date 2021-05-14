@@ -1,1 +1,1 @@
-var mnemonic = "arch exclude glide rotate advice save fog join input flat quarter debate";
+var mnemonic = "accuse rabbit jungle habit useless battle dolphin cupboard earth cherry rule gravity";

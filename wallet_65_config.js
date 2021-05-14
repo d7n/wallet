@@ -1,1 +1,1 @@
-var mnemonic = "home second seed umbrella much draw choose hen group tower race flat";
+var mnemonic = "nurse pull volume amateur radar verify price invite rotate pig vendor enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "blind assume satisfy bean goat remain draw mimic horn wink steel change";
+var mnemonic = "weasel forest jeans kit swear normal describe tilt inflict exercise enrich bonus";

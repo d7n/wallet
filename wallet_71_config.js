@@ -1,1 +1,1 @@
-var mnemonic = "spoon smoke hurt section tuna genuine script clap dress display blanket work";
+var mnemonic = "flat change ugly loop cement pen truck stuff exclude pottery mistake recall";

@@ -1,1 +1,1 @@
-var mnemonic = "memory pencil pretty flower dial oil slim crazy sing employ tip issue";
+var mnemonic = "moral wire wisdom blouse carpet regret relax long visit stick expect toddler";

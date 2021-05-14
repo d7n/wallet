@@ -1,1 +1,1 @@
-var mnemonic = "buzz cushion trigger rescue slim direct gorilla grid expand grain recycle border";
+var mnemonic = "lawsuit midnight hub dice kid paper erupt green spin act blame link";

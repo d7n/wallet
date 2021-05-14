@@ -1,1 +1,1 @@
-var mnemonic = "expect boss favorite motion age laptop pony limb erosion member job lava";
+var mnemonic = "measure weekend hat voice one october can pause melody motion pink miracle";

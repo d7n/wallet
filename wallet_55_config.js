@@ -1,1 +1,1 @@
-var mnemonic = "fog swallow unknown crash lunar bridge fuel cousin spike album enrich truly";
+var mnemonic = "ahead alley asset copper scissors minor route chimney identify cabbage wage organ";

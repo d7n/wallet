@@ -1,1 +1,1 @@
-var mnemonic = "vote reason tilt lonely exact wait noodle resist mixture satoshi odor bargain";
+var mnemonic = "grab vague music sausage diet define horse hello evidence measure tongue arch";

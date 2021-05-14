@@ -1,1 +1,1 @@
-var mnemonic = "wheat caught angry clean ready judge cinnamon drip adjust rain sniff direct";
+var mnemonic = "snow speak impact juice one jump athlete panda crazy maximum finish evil";

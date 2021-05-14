@@ -1,1 +1,1 @@
-var mnemonic = "pelican road vast parade glimpse stock three anxiety humble note prevent barely";
+var mnemonic = "hire butter hip change west spell faint glance ripple length kite gaze";

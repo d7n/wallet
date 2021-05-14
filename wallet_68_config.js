@@ -1,1 +1,1 @@
-var mnemonic = "father tennis early secret jar pottery flee bone business fluid short square";
+var mnemonic = "rookie angle trade fire truck harvest holiday hand rack what gloom guess";

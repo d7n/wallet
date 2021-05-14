@@ -1,1 +1,1 @@
-var mnemonic = "fever ten game wide peasant income squirrel cross solar valve suggest gossip";
+var mnemonic = "debris filter girl penalty track stem tell genius add area youth arrange";

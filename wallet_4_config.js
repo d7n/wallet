@@ -1,1 +1,1 @@
-var mnemonic = "fold jewel deliver split lottery bounce immense echo fat notice steel two";
+var mnemonic = "pupil bitter evidence pigeon title jungle sister under foster bring team south";

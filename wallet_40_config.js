@@ -1,1 +1,1 @@
-var mnemonic = "circle convince language display bench blue birth illegal sausage timber couple amount";
+var mnemonic = "weasel prefer rule salon swear gesture remember distance soccer easily question lounge";

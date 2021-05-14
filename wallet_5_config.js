@@ -1,1 +1,1 @@
-var mnemonic = "black panther canoe cotton list kiwi various start sentence purchase deliver park";
+var mnemonic = "number describe leader clinic disease pair swap cigar unable upset bird turkey";

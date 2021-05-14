@@ -1,1 +1,1 @@
-var mnemonic = "truck resist alley museum lend swim cart fade nasty cycle false memory";
+var mnemonic = "aerobic typical sign movie price code sea acid rent away sorry knock";

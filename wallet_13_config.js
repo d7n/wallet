@@ -1,1 +1,1 @@
-var mnemonic = "sport make vault evil visual certain junk fragile seven floor bamboo august";
+var mnemonic = "cigar addict alley team under name fun prosper consider smart hood artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme candy shift all involve hair spot member salt spell hole trophy";
+var mnemonic = "section mirror patrol fade job creek oblige cube degree garlic catch group";

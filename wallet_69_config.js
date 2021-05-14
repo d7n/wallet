@@ -1,1 +1,1 @@
-var mnemonic = "clinic crater sun file solar spare slam soldier fabric nurse world express";
+var mnemonic = "ability supreme taxi swing plate fury elder tell mandate desert betray canyon";

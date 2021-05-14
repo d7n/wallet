@@ -1,1 +1,1 @@
-var mnemonic = "song clutch transfer subway hold fit dune boring hold ladder public flush";
+var mnemonic = "broken youth census rural off purity record tiny ghost wreck misery priority";

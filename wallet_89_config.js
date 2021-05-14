@@ -1,1 +1,1 @@
-var mnemonic = "unlock phrase cool vital weekend confirm harvest weekend sun drift whale border";
+var mnemonic = "clip frost ripple federal sure advice cash bread cereal donor toward deal";

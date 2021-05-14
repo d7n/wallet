@@ -1,1 +1,1 @@
-var mnemonic = "carbon consider limit gather bright enforce wine token quit such output custom";
+var mnemonic = "ice loud certain suffer mountain random symbol unveil brand budget bless oil";

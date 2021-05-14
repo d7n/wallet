@@ -1,1 +1,1 @@
-var mnemonic = "stove help throw hedgehog happy elbow salad coral erase devote dance biology";
+var mnemonic = "text raccoon submit siege wasp bonus more joy enrich kiwi urban what";

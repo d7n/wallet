@@ -1,1 +1,1 @@
-var mnemonic = "measure point visit frost jewel arena art force logic book income gather";
+var mnemonic = "visual fetch certain hire express art expect quantum involve nation hood help";

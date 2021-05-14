@@ -1,1 +1,1 @@
-var mnemonic = "pear disease decline bread combine present ill vital ostrich dilemma destroy similar";
+var mnemonic = "chuckle mouse term hungry tumble index fever torch ritual update number plug";

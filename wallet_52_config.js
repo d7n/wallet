@@ -1,1 +1,1 @@
-var mnemonic = "crystal tilt bubble egg rookie stairs lawn behave expire hope satisfy glove";
+var mnemonic = "funny glare theory era advice gold elder jump word cancel ride chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle around van mouse tent cement remain hamster thunder coffee song unique";
+var mnemonic = "rescue year peasant film maze gate theory spoon become artefact erode luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity equip divorce robot feel train spirit goddess good chronic banana puzzle";
+var mnemonic = "february average holiday raven wing junk blast never exchange master share fault";

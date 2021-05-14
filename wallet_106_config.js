@@ -1,1 +1,1 @@
-var mnemonic = "lab peace rebuild bubble frozen thrive speak nature major legal clown tuition";
+var mnemonic = "snack climb desert north super avoid inch danger step sell huge slice";

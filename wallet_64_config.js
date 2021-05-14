@@ -1,1 +1,1 @@
-var mnemonic = "ginger course soldier veteran minimum story often lion side action obscure key";
+var mnemonic = "craft easily stomach view fragile cheese allow laugh lizard choose bulb retreat";

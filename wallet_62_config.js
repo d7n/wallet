@@ -1,1 +1,1 @@
-var mnemonic = "base guitar express tuna dismiss cannon catalog garden frown cover globe squeeze";
+var mnemonic = "attract shrug solution turkey trade bonus index zero quote tenant bind remind";

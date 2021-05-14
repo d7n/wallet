@@ -1,1 +1,1 @@
-var mnemonic = "banana spell wave eye awful story execute journey program employ rate direct";
+var mnemonic = "orchard toss time swear race label clutch clump settle critic grid supreme";

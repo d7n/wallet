@@ -1,1 +1,1 @@
-var mnemonic = "novel lend crew daring improve leg giraffe carpet awake firm leaf zero";
+var mnemonic = "economy humble note season tragic evoke recycle essay super step universe elbow";

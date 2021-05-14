@@ -1,1 +1,1 @@
-var mnemonic = "machine crash chat alpha tide crane churn sleep senior engage random reflect";
+var mnemonic = "cotton crew scissors casino material brother output gospel demand divorce village paper";

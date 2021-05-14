@@ -1,1 +1,1 @@
-var mnemonic = "fox stairs story right powder text error spawn crop cherry nasty reject";
+var mnemonic = "absurd fiscal focus space industry skirt slender sword grit apart credit sausage";

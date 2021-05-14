@@ -1,1 +1,1 @@
-var mnemonic = "grief boost truck toilet latin rifle harvest cattle merry ribbon addict length";
+var mnemonic = "spare alarm typical entire grow shuffle feature sword host boat scheme letter";

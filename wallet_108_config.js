@@ -1,1 +1,1 @@
-var mnemonic = "pudding disorder swap green equal force body donate strategy outdoor stadium buffalo";
+var mnemonic = "goddess opinion celery laundry soldier enhance rural unable come naive stick equal";

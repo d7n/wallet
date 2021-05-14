@@ -1,1 +1,1 @@
-var mnemonic = "rude often erode brand hint discover story oak subway memory lumber hover";
+var mnemonic = "trumpet eagle wage spatial tell bike fresh convince dutch elegant bleak sting";

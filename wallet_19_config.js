@@ -1,1 +1,1 @@
-var mnemonic = "shrimp fringe glove nice today prize sheriff ahead join walk silver wealth";
+var mnemonic = "cloud deny valve horn author flock tribe core torch obtain this move";

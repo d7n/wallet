@@ -1,1 +1,1 @@
-var mnemonic = "relax slogan antenna neglect talk draft noble green quiz side find service";
+var mnemonic = "patrol master buddy index reform hidden inspire zone type original timber approve";

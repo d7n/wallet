@@ -1,1 +1,1 @@
-var mnemonic = "such service popular runway salon catch baby stem diamond pretty liar boy";
+var mnemonic = "quiz civil run shed guard result urge basket blade machine chat bunker";

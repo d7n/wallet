@@ -1,1 +1,1 @@
-var mnemonic = "entire release script fancy exhaust arrange model peace victory deer brave nasty";
+var mnemonic = "rifle matter pretty ski laugh rebuild movie improve cement stable thank buyer";

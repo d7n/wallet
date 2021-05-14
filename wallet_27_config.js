@@ -1,1 +1,1 @@
-var mnemonic = "artwork horse force age wet toddler stable east summer donor venture cigar";
+var mnemonic = "force turtle zebra spread garment insane adapt right burger rude grit grape";

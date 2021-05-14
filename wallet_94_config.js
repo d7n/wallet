@@ -1,1 +1,1 @@
-var mnemonic = "inject report symptom hub more mandate boil tag electric evidence energy olive";
+var mnemonic = "again ridge hour truth narrow fringe wasp kingdom soccer host alley very";

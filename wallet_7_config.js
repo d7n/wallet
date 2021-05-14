@@ -1,1 +1,1 @@
-var mnemonic = "logic wife correct video network edge vibrant stem able punch nose ensure";
+var mnemonic = "supreme decorate bronze luxury bring miss bench mandate open lounge black street";

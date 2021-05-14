@@ -1,1 +1,1 @@
-var mnemonic = "ghost plug glue develop display bird rail cotton unusual cause service combine";
+var mnemonic = "dream congress oxygen glue eagle betray abstract already armor faith scrub disagree";

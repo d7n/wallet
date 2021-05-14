@@ -1,1 +1,1 @@
-var mnemonic = "mirror hidden discover cup slide outer bone order sleep illegal example kitchen";
+var mnemonic = "error spirit route shy plastic upgrade gravity around ask spin robust vital";

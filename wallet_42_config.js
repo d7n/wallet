@@ -1,1 +1,1 @@
-var mnemonic = "patrol yard current cupboard bacon casino bargain squirrel ill joke funny vocal";
+var mnemonic = "loop client future daring fix picnic prepare piano casino strong exhaust inflict";

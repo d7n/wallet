@@ -1,1 +1,1 @@
-var mnemonic = "juice crouch expire swap end miss where gap talk eager term picture";
+var mnemonic = "duty material dizzy shine such worry lunar luxury coconut bone list upset";

@@ -1,1 +1,1 @@
-var mnemonic = "ring day cream quarter category naive gather follow regular sample proof magic";
+var mnemonic = "wagon like arena wheel puzzle question drop canyon squirrel rally fiscal cheese";

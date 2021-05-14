@@ -1,1 +1,1 @@
-var mnemonic = "oven small next jelly disagree people connect into hair certain car stable";
+var mnemonic = "saddle error oblige source shy attack mountain ball eagle minor expand media";

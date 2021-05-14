@@ -1,1 +1,1 @@
-var mnemonic = "cave alcohol bring legal roof demise boy talent large mom inner excuse";
+var mnemonic = "enact property volume umbrella cram dove inform play arctic remember favorite repeat";

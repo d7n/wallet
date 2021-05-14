@@ -1,1 +1,1 @@
-var mnemonic = "broken lottery tragic blood first proud little earth pink average protect drift";
+var mnemonic = "laundry easy wrestle burger stem husband eight glass enforce pistol cause drama";

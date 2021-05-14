@@ -1,1 +1,1 @@
-var mnemonic = "stereo alcohol reflect benefit lizard time model garbage exist chalk zebra doctor";
+var mnemonic = "hold loop topic return crash junior celery across silk chaos evolve chase";

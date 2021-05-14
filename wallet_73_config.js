@@ -1,1 +1,1 @@
-var mnemonic = "net kick system idea shoulder cluster blouse oyster stool canyon open foam";
+var mnemonic = "hope cherry pencil manual raven fire daughter prevent solar wonder reward decide";

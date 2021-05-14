@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog comic cool wait tenant voice lens gain grid cheap eight vehicle";
+var mnemonic = "fetch cup ticket copy merge always glad butter frozen diamond frozen exchange";

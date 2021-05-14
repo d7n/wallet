@@ -1,1 +1,1 @@
-var mnemonic = "breeze game equip pelican yard piece blame bike bread test unable match";
+var mnemonic = "borrow hamster oven light pelican fitness crash success fence leisure acid labor";

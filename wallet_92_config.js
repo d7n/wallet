@@ -1,1 +1,1 @@
-var mnemonic = "sick hub dice weasel imitate onion tilt raven remind mention drill flower";
+var mnemonic = "man lemon put nice bring shield track cat pencil lunar carry bracket";

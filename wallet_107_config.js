@@ -1,1 +1,1 @@
-var mnemonic = "consider doctor claw radio fluid dinosaur claim fall basket hat shift crash";
+var mnemonic = "vague decade document small rookie sand throw polar upper increase extra oppose";

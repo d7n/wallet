@@ -1,1 +1,1 @@
-var mnemonic = "hip raccoon wrestle wrong poem limb expect spot master someone liar outside";
+var mnemonic = "treat build stomach fatal goddess soda wrap nut together salon wisdom atom";

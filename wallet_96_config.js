@@ -1,1 +1,1 @@
-var mnemonic = "antique south among ankle include frown frame wagon define dust world chest";
+var mnemonic = "worry sense motor safe chimney biology stable energy pole pilot occur museum";

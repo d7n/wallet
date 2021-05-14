@@ -1,1 +1,1 @@
-var mnemonic = "bounce wonder chair busy day trade grant snap champion method actress frame";
+var mnemonic = "screen vast base purpose elite decrease slender venture supreme ginger bacon patrol";

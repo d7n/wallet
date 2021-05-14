@@ -1,1 +1,1 @@
-var mnemonic = "cube pudding chalk analyst solid carpet attitude hat phrase pattern window right";
+var mnemonic = "gossip riot huge soda fortune rice symbol lecture base civil fix believe";

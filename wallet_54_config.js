@@ -1,1 +1,1 @@
-var mnemonic = "title three absent carbon connect ten ankle rose cube fatal language trick";
+var mnemonic = "warfare accuse evil remain claim play supply monster renew sausage social bind";

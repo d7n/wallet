@@ -1,1 +1,1 @@
-var mnemonic = "raise library skate reduce thrive inside hotel cruel luggage nut delay great";
+var mnemonic = "below prepare legal vacuum toy dignity similar they walk chapter glimpse dragon";

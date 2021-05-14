@@ -1,1 +1,1 @@
-var mnemonic = "moon shift wagon gossip ecology color scrub cost dust property run equip";
+var mnemonic = "anchor pet flat diary lucky negative enlist exact later rebuild rifle aisle";

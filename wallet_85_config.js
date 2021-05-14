@@ -1,1 +1,1 @@
-var mnemonic = "thrive say axis wealth erosion kidney traffic peace type unlock leaf hotel";
+var mnemonic = "oppose tank option history office fun harbor garden ritual slush supreme tobacco";

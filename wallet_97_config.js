@@ -1,1 +1,1 @@
-var mnemonic = "odor wreck roof anxiety naive whisper shield cover curious boss spawn history";
+var mnemonic = "defy apology salute equal coast hobby bulk what sight certain square fox";

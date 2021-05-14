@@ -1,1 +1,1 @@
-var mnemonic = "neutral genius list wrap immune ignore ribbon problem gossip damage cinnamon kid";
+var mnemonic = "imitate various ball adult hunt ripple loop ramp catalog project hundred paper";

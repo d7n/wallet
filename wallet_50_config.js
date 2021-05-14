@@ -1,1 +1,1 @@
-var mnemonic = "submit code always mobile price version symbol attract will decade tower barrel";
+var mnemonic = "raven harbor pipe summer elite artist debris novel miss loud follow jungle";
