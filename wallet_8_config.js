@@ -1,1 +1,1 @@
-var mnemonic = "rate reopen valve antenna pudding exchange section beauty bunker very input achieve";
+var mnemonic = "stairs profit come false visa walnut comfort plug meat olive bunker orient";

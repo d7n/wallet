@@ -1,1 +1,1 @@
-var mnemonic = "jump defense exchange interest medal injury mutual sport regret nut provide viable";
+var mnemonic = "space reflect twin bottom praise connect target foam stable asthma vacuum lizard";

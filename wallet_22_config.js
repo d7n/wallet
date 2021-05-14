@@ -1,1 +1,1 @@
-var mnemonic = "shift spray fat old increase craft jar saddle topple soccer age input";
+var mnemonic = "design lemon east advice toddler bubble elbow divert mistake gravity tragic half";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus museum vocal extend fault panel laptop under hundred great govern potato";
+var mnemonic = "ethics gadget must erosion monster network volume guard baby bless sword pigeon";

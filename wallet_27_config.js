@@ -1,1 +1,1 @@
-var mnemonic = "stay cousin style harvest avocado inherit solve educate license eye into figure";
+var mnemonic = "heavy volcano evidence wrong easily exclude phone iron arrange obtain mobile key";

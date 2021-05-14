@@ -1,1 +1,1 @@
-var mnemonic = "comic tone tackle angle owner phrase add hidden jealous ice sing slam";
+var mnemonic = "unable judge bracket old combine gorilla topic nation wheel display leg cancel";

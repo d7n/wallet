@@ -1,1 +1,1 @@
-var mnemonic = "group bright push kid defense ozone lawsuit ignore cherry flight jaguar riot";
+var mnemonic = "upgrade leaf affair method humble truth gain nominee obtain warrior sustain afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "sail gasp can upset gym ship critic dinosaur mirror happy album cargo";
+var mnemonic = "awake turtle return absent rate laugh quick enact tumble stable alarm cool";

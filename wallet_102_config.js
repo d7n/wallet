@@ -1,1 +1,1 @@
-var mnemonic = "merit help travel refuse assume eight wall used piece become first animal";
+var mnemonic = "venture deer save slender taxi antique pause chimney twin subway glow midnight";

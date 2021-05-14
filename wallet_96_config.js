@@ -1,1 +1,1 @@
-var mnemonic = "wood curtain control argue student round expose unhappy flush race fabric true";
+var mnemonic = "exclude arrest window chef source mimic doll mad athlete quarter change moon";

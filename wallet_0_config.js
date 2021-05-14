@@ -1,1 +1,1 @@
-var mnemonic = "palm dish merry essay spare able very side gown primary okay area";
+var mnemonic = "inflict tiny again dress curtain interest pause empty help bus icon dumb";

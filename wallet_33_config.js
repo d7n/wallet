@@ -1,1 +1,1 @@
-var mnemonic = "heart lava mandate luggage mimic bitter helmet quit magic random glide swing";
+var mnemonic = "town shallow effort put inspire neither radio oval give flame circle market";

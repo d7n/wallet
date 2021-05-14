@@ -1,1 +1,1 @@
-var mnemonic = "picnic cart normal idea print help trigger tortoise jealous neck away fan";
+var mnemonic = "visit syrup organ try moral wolf all ahead release good north prepare";

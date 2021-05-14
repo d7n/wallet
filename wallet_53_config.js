@@ -1,1 +1,1 @@
-var mnemonic = "helmet silver century club address cute permit second sick option bulk key";
+var mnemonic = "hedgehog rose security net order drama museum wash position employ pledge right";

@@ -1,1 +1,1 @@
-var mnemonic = "undo suffer arrest position tunnel jealous sudden run mass ring jump romance";
+var mnemonic = "spoon best start route token wheat immense state link dismiss clarify execute";

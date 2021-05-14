@@ -1,1 +1,1 @@
-var mnemonic = "peanut useful stand expire foil plunge certain cluster they hurry steel horn";
+var mnemonic = "very wreck culture fatigue armor angry brief chapter interest narrow salon current";

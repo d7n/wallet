@@ -1,1 +1,1 @@
-var mnemonic = "oblige action short race trust assault fiber powder account shop despair used";
+var mnemonic = "punch balcony fault argue paddle attract demand dilemma bulb tornado health unknown";

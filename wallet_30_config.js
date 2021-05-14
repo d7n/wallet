@@ -1,1 +1,1 @@
-var mnemonic = "snow quote fossil acid patch dad notable across oval exile desk amazing";
+var mnemonic = "toward enhance canyon air hero suit repair below elephant inner choice minor";

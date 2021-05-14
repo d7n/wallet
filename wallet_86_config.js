@@ -1,1 +1,1 @@
-var mnemonic = "sort local crop hip top captain baby floor year client aerobic foam";
+var mnemonic = "verify purpose biology remember evoke soap clip canyon virtual wrist young oil";

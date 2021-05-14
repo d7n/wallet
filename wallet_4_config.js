@@ -1,1 +1,1 @@
-var mnemonic = "mask aware mother hurdle mercy inhale organ shrug chef bachelor armed pave";
+var mnemonic = "industry obey delay weird change wheat cruise betray pistol brand taste elder";

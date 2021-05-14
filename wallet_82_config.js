@@ -1,1 +1,1 @@
-var mnemonic = "better ritual indicate wedding equal brisk half debate veteran orient office parent";
+var mnemonic = "skill wedding vacuum oblige saddle recall angry expand measure direct father mean";

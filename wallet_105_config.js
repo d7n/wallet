@@ -1,1 +1,1 @@
-var mnemonic = "marine drift today song track half cactus lab surge achieve service chat";
+var mnemonic = "together champion shop brisk decline myself into tell black buddy better dizzy";

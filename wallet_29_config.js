@@ -1,1 +1,1 @@
-var mnemonic = "sock same venture coral recycle waste online syrup immense hour voyage very";
+var mnemonic = "whisper captain ritual glass hip police wealth social poet enjoy duck build";

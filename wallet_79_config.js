@@ -1,1 +1,1 @@
-var mnemonic = "pottery rigid nerve diary shed rigid bicycle short disease kiss foam riot";
+var mnemonic = "jewel soap magic fork great attitude path style hole believe buddy cash";

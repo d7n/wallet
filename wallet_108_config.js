@@ -1,1 +1,1 @@
-var mnemonic = "pretty stairs excess access undo panther income just neglect sunset jewel sleep";
+var mnemonic = "top cloud notable merry nuclear armed slim carry camp gate drastic you";

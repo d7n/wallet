@@ -1,1 +1,1 @@
-var mnemonic = "melt trigger leader bounce banner page penalty walk stable pull series text";
+var mnemonic = "liquid option knee girl latin animal ozone anchor wage pipe rather toast";

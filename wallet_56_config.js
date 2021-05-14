@@ -1,1 +1,1 @@
-var mnemonic = "deposit vehicle toddler general seat betray dune design drama popular caught soap";
+var mnemonic = "fat situate image depth myth tunnel color visa erosion enemy assist lava";

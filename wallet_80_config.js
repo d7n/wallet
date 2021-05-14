@@ -1,1 +1,1 @@
-var mnemonic = "atom accuse envelope open cycle open truth uniform bright post mutual food";
+var mnemonic = "discover family skate pretty cat idea brave faculty across sail matter stumble";

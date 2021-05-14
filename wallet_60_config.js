@@ -1,1 +1,1 @@
-var mnemonic = "used gaze lock puppy way ring side mammal crouch afford meadow pride";
+var mnemonic = "cause scheme govern acoustic bean under retreat pool sister group camp initial";

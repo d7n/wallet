@@ -1,1 +1,1 @@
-var mnemonic = "street flip crush crystal region toilet lift polar twin actor bind cupboard";
+var mnemonic = "fault unusual crime high solve faith power avocado link alert assault dial";

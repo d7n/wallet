@@ -1,1 +1,1 @@
-var mnemonic = "live salute music cruel fog pottery index maximum fever sadness bargain tiger";
+var mnemonic = "castle dutch blouse street blue rookie will office happy bring jeans learn";

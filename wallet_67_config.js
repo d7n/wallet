@@ -1,1 +1,1 @@
-var mnemonic = "curtain asset track tired stick inject car series box goat mimic decrease";
+var mnemonic = "cluster tenant fantasy pony quality near drive vacant venue strategy game rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "live alarm unlock edge code stairs under crop hand hood net damage";
+var mnemonic = "rival antique credit robot model whisper remove disagree resist rate entire peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "scan inquiry trim stable good lion foot exhibit gown seven bean quit";
+var mnemonic = "sock syrup regular subway shed alcohol exit absent draw must junior choose";

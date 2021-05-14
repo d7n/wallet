@@ -1,1 +1,1 @@
-var mnemonic = "seat matrix sauce focus pencil front proof car water quit magnet gold";
+var mnemonic = "section caught initial warfare luggage squirrel absent ahead cradle artist elegant join";

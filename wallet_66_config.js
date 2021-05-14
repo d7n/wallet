@@ -1,1 +1,1 @@
-var mnemonic = "crouch salute access sport base mechanic clog village bubble appear remove grant";
+var mnemonic = "glass banana chapter dwarf rack mushroom lawn virus plunge match annual initial";

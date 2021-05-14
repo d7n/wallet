@@ -1,1 +1,1 @@
-var mnemonic = "champion endorse small fluid improve black success fox sword door universe region";
+var mnemonic = "trumpet debris dress barely web effort dignity model fuel early earth abuse";

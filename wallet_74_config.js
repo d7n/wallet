@@ -1,1 +1,1 @@
-var mnemonic = "suit text tilt coil mind book issue bridge arena spirit vessel mix";
+var mnemonic = "fame weekend panther bench midnight false honey custom solid relief conduct repair";

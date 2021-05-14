@@ -1,1 +1,1 @@
-var mnemonic = "sugar olive faith ship noble dwarf employ announce jump van mirror viable";
+var mnemonic = "lamp antenna check smooth prepare tornado high august glad thank van tuna";

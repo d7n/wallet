@@ -1,1 +1,1 @@
-var mnemonic = "two reopen manage talent lonely video lawn source forward jeans speed lab";
+var mnemonic = "render sword office immense garlic ignore festival book ill soccer pony gate";

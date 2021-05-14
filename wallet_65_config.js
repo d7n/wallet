@@ -1,1 +1,1 @@
-var mnemonic = "license base essence behind visit unfair cabbage recycle day monster birth guide";
+var mnemonic = "two number use nose planet glove name runway crazy save dress shoe";

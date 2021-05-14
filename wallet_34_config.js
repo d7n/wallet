@@ -1,1 +1,1 @@
-var mnemonic = "side found gain visual obtain fun burger actor unhappy bring toy world";
+var mnemonic = "monitor dolphin glimpse balcony weekend orange leaf speak smile toward loan toe";

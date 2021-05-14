@@ -1,1 +1,1 @@
-var mnemonic = "wrist film silly imitate enlist noble useful night tribe trip guide canoe";
+var mnemonic = "spray thank current surface jacket camera dove tank citizen manage that income";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot viable monkey knee share because mutual mutual climb flight cream divorce";
+var mnemonic = "swamp have order reduce gadget few ordinary broom food catalog such forward";

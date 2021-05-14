@@ -1,1 +1,1 @@
-var mnemonic = "raccoon half adjust crew achieve parent wreck fire siren pass vote bean";
+var mnemonic = "apple pencil prosper rare lonely surface almost suspect same trophy swarm flash";

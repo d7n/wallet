@@ -1,1 +1,1 @@
-var mnemonic = "grief because grocery slight erase cruise remind satisfy dust trade stone inquiry";
+var mnemonic = "improve input album number desert bless awful double skull diagram solve garment";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend upgrade approve primary trend open expect raise toilet melody tooth reason";
+var mnemonic = "rigid race secret roast source news shiver couch salute guide retire world";

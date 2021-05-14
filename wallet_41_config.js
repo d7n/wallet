@@ -1,1 +1,1 @@
-var mnemonic = "merit outside salute noise resemble tilt knee govern organ cradle taste moral";
+var mnemonic = "script cross else leaf citizen fresh clerk divorce remain hedgehog silly spot";

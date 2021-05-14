@@ -1,1 +1,1 @@
-var mnemonic = "minor include fit canvas ritual napkin suspect arrive desk video hire fringe";
+var mnemonic = "kind toss trophy thought globe title time hood sting second tooth return";

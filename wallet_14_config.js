@@ -1,1 +1,1 @@
-var mnemonic = "dragon detect cliff lady lamp squeeze math fuel junk field sunset melody";
+var mnemonic = "whale pluck divert arctic party orange attitude settle fuel bless limb once";

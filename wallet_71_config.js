@@ -1,1 +1,1 @@
-var mnemonic = "fold spice hole tooth harvest print round behind inhale surround sing front";
+var mnemonic = "wall error account grow twin stamp ozone civil equal violin tumble garden";

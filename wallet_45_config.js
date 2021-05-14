@@ -1,1 +1,1 @@
-var mnemonic = "stumble arena moon slight walk pave phone surprise brick turtle artwork scale";
+var mnemonic = "defense material unlock coach survey focus wait border meadow odor diet hour";

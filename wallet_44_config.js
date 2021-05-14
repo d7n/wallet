@@ -1,1 +1,1 @@
-var mnemonic = "dawn height display toddler route crime move taste boil plate usual note";
+var mnemonic = "tide celery type almost ignore helmet into arrow profit legal cliff pencil";

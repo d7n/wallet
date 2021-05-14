@@ -1,1 +1,1 @@
-var mnemonic = "define adjust spray assault entry lion carbon cherry cloth office trouble toward";
+var mnemonic = "minute room picnic motor saddle today kiwi kiwi fork slush country link";

@@ -1,1 +1,1 @@
-var mnemonic = "worry over gravity song tube horse motion powder stand method ceiling survey";
+var mnemonic = "salmon effort will tumble team area black bright raccoon good cushion antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "gate mean patient boy hour jewel volcano same album corn annual egg";
+var mnemonic = "violin accident web bullet patch suffer mixed caught budget black plastic example";

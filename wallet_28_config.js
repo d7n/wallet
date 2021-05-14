@@ -1,1 +1,1 @@
-var mnemonic = "sure usage manage wrap seminar dragon kick reopen west pen project equip";
+var mnemonic = "buddy say dry foot twin setup approve merit waste lumber betray pact";

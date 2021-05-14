@@ -1,1 +1,1 @@
-var mnemonic = "spot mask virus narrow remember rival goddess drift crumble adjust riot congress";
+var mnemonic = "manage casino uncover glove access service tone stage jar pill ecology meat";

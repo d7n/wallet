@@ -1,1 +1,1 @@
-var mnemonic = "magic reject believe hurt castle lucky always penalty life damage key flat";
+var mnemonic = "access churn wheel pen blind square river fitness door predict away olive";

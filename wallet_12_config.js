@@ -1,1 +1,1 @@
-var mnemonic = "clump chunk busy sting zebra question good various jelly high false repeat";
+var mnemonic = "increase tomato alert copper decorate twenty modify job guard business bone laundry";

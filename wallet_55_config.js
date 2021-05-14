@@ -1,1 +1,1 @@
-var mnemonic = "fragile rotate flavor peace task torch join lumber exile crowd oak obtain";
+var mnemonic = "pudding twin delay reduce always cycle patient zone recycle comic good jaguar";

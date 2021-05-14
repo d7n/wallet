@@ -1,1 +1,1 @@
-var mnemonic = "artefact silent current earn mother glance sample lounge aware bargain broom together";
+var mnemonic = "noble jealous nose insane agent ranch learn margin alien awkward extra cactus";

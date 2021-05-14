@@ -1,1 +1,1 @@
-var mnemonic = "tape piece merge practice ordinary double copper juice menu bitter stumble catalog";
+var mnemonic = "cream wear torch hair monster tail hole noodle broken clerk pull submit";

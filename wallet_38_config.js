@@ -1,1 +1,1 @@
-var mnemonic = "tissue buddy interest pizza honey genius beyond item bargain paddle burst caution";
+var mnemonic = "rich illegal fetch tag rather real intact alien exile layer trap submit";

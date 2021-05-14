@@ -1,1 +1,1 @@
-var mnemonic = "where cool thought outside beauty idle situate roof host letter exhibit error";
+var mnemonic = "mixed panda story town proud sock book tell damage super gaze author";

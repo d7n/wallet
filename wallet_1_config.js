@@ -1,1 +1,1 @@
-var mnemonic = "demand nice cargo feel priority double stairs scale reduce hammer frozen pulp";
+var mnemonic = "secret host immense frequent explain term cannon artwork ask piano confirm relax";

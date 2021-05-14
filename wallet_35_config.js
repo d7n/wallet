@@ -1,1 +1,1 @@
-var mnemonic = "garment share buyer metal candy marble need suspect evidence employ toilet maximum";
+var mnemonic = "opera envelope image multiply column piano regular tell pattern whisper mix accident";

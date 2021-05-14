@@ -1,1 +1,1 @@
-var mnemonic = "route shoot broccoli cable noodle citizen exist pitch quote dove grape mansion";
+var mnemonic = "truck fragile lava suit problem between pupil monkey silver pottery three filter";

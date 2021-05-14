@@ -1,1 +1,1 @@
-var mnemonic = "jacket deputy piano goddess project situate attitude chuckle settle pull patch potato";
+var mnemonic = "thing online label ticket state master tonight sell cruise bread cover finish";

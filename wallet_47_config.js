@@ -1,1 +1,1 @@
-var mnemonic = "portion limit nature bus good scale world brief setup loyal attend peanut";
+var mnemonic = "firm tired gain private expose cousin wheat exhaust caught pill box minor";

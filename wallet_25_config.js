@@ -1,1 +1,1 @@
-var mnemonic = "inform quantum slice winter daring ask similar satoshi dizzy current love tunnel";
+var mnemonic = "inquiry guilt fault globe educate film blue despair clip across lizard near";

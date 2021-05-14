@@ -1,1 +1,1 @@
-var mnemonic = "mask laptop story true offer state save pretty dry curve catalog illness";
+var mnemonic = "permit west maze genius across note poverty relief loan smooth zoo exotic";

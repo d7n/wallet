@@ -1,1 +1,1 @@
-var mnemonic = "proof arrest urban imitate ten wrist patch because solve wheel aisle breeze";
+var mnemonic = "veteran soon blind wedding cute actual label average quick want visa valley";

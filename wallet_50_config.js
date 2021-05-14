@@ -1,1 +1,1 @@
-var mnemonic = "swallow detail typical identify word glove credit jeans doll over casino wedding";
+var mnemonic = "reward begin deliver timber list then river fly degree trigger eager attack";

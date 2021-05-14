@@ -1,1 +1,1 @@
-var mnemonic = "scare drift split tray roast illegal tape harbor exercise client toilet loud";
+var mnemonic = "weather cute shy treat regular honey dance pulp trash tackle behind sunset";

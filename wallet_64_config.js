@@ -1,1 +1,1 @@
-var mnemonic = "afraid save royal volcano buffalo start mention segment kit throw tell horse";
+var mnemonic = "just hawk metal tower rent urge bottom cluster brush habit debris gym";

@@ -1,1 +1,1 @@
-var mnemonic = "scout forget else knee slide food clock welcome estate oil jelly believe";
+var mnemonic = "point bench tent until lend harsh bless sea come spoon room coral";

@@ -1,1 +1,1 @@
-var mnemonic = "thing spring maximum blast dilemma song neck group bus object split obvious";
+var mnemonic = "twelve correct rhythm pyramid grid awesome belt vital test cycle hard fall";

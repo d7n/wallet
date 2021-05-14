@@ -1,1 +1,1 @@
-var mnemonic = "language plate mobile cart lemon mystery violin common defense fruit cube poet";
+var mnemonic = "any town modify oak disorder wet lava female escape comic oval tourist";

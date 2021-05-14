@@ -1,1 +1,1 @@
-var mnemonic = "notable suit panther stick sword enter flip pill evil disease effort toast";
+var mnemonic = "air laptop parent glance merry spider report matrix sibling endless put blossom";

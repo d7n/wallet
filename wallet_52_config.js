@@ -1,1 +1,1 @@
-var mnemonic = "common green wage puppy trip sweet ride draft junior stamp later good";
+var mnemonic = "disagree music express caught pull two duty dance damp word title success";

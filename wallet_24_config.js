@@ -1,1 +1,1 @@
-var mnemonic = "verify elephant twice absurd gravity fury alarm pink vehicle behave else assist";
+var mnemonic = "hotel divorce swift clip voyage little crazy version about fetch perfect silver";

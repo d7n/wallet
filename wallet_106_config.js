@@ -1,1 +1,1 @@
-var mnemonic = "illegal width debate hire naive swear alcohol bar fossil gloom reason barely";
+var mnemonic = "what story swing concert bronze faint energy rude gain sail hidden soda";

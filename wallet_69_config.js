@@ -1,1 +1,1 @@
-var mnemonic = "gun library apple bird rescue cat thing cup pen awesome decrease bracket";
+var mnemonic = "bomb judge want race abuse head purpose pipe vital blanket creek jungle";

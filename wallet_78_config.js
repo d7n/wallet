@@ -1,1 +1,1 @@
-var mnemonic = "group earn cereal luxury crowd stage vote rely neglect motion inspire floor";
+var mnemonic = "degree narrow outdoor evil decide energy cart segment announce confirm gorilla frost";

@@ -1,1 +1,1 @@
-var mnemonic = "cash feed round quick auction boat rent mad advice bacon exist manual";
+var mnemonic = "heart emerge symbol alert cushion trim scorpion alter mosquito cute future club";

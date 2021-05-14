@@ -1,1 +1,1 @@
-var mnemonic = "fee fold teach route rebuild school umbrella mixture try cart crop weather";
+var mnemonic = "cattle tip mask stock crowd harvest climb suspect shine crumble slice welcome";

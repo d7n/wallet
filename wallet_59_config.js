@@ -1,1 +1,1 @@
-var mnemonic = "beach annual frequent bike beef kitten scissors exhibit spice dizzy labor crazy";
+var mnemonic = "focus hurt screen ghost secret fish material hello gate strategy valley bean";
