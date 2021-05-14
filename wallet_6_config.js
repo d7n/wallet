@@ -1,1 +1,1 @@
-var mnemonic = "wrestle collect knife correct shove total turtle detail fiction joke company south";
+var mnemonic = "grit author agent magic isolate surprise island lyrics already expect hello throw";

@@ -1,1 +1,1 @@
-var mnemonic = "witness fringe slot include fiction infant curious purity play gloom useless net";
+var mnemonic = "trust simple pottery bus case space all sad humor romance sad address";

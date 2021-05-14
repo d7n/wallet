@@ -1,1 +1,1 @@
-var mnemonic = "code husband unaware trial alter best empty prosper project female attitude cotton";
+var mnemonic = "modify toy divide process across grocery toilet evil blind heavy cool hospital";

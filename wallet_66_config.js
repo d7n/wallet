@@ -1,1 +1,1 @@
-var mnemonic = "divorce village pact much bless casino lesson mechanic waste glance nice symbol";
+var mnemonic = "slush maple cost table shed shield arrive brain squirrel govern arrest income";

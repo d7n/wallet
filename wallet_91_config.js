@@ -1,1 +1,1 @@
-var mnemonic = "agree razor raise concert unique october crisp guess flee cart library prison";
+var mnemonic = "attract key shop actress fabric veteran speed mimic farm model flush chase";

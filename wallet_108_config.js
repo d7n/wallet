@@ -1,1 +1,1 @@
-var mnemonic = "memory kit earn usage amused cluster seminar castle supreme enable donor cake";
+var mnemonic = "ketchup add portion void mystery quit mansion height badge claim spot stuff";

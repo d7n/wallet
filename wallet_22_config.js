@@ -1,1 +1,1 @@
-var mnemonic = "pet face boost orchard cabin champion phone rug coyote art enforce title";
+var mnemonic = "train virtual wife rigid submit quick session adult what express frown index";

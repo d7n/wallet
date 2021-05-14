@@ -1,1 +1,1 @@
-var mnemonic = "network south cycle border author inside vast refuse protect when crash oil";
+var mnemonic = "fat foot scorpion file mushroom offer gun bright organ rent gather voyage";

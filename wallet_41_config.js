@@ -1,1 +1,1 @@
-var mnemonic = "year select inflict consider ribbon degree grocery useful tell evolve concert camera";
+var mnemonic = "wrestle pitch gap reduce tail hobby lucky fury cat act light cliff";

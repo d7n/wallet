@@ -1,1 +1,1 @@
-var mnemonic = "ignore knee woman mobile mutual endless drastic pelican dutch job gallery sail";
+var mnemonic = "diamond such vivid appear odor catalog cousin resource because display like flee";

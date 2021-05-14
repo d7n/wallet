@@ -1,1 +1,1 @@
-var mnemonic = "slam taste shock thunder twelve ranch cattle mule inform again vacant sea";
+var mnemonic = "copper wire knee pioneer square poverty valid embark jump cherry atom pencil";

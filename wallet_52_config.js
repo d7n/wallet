@@ -1,1 +1,1 @@
-var mnemonic = "pledge patient market rotate father panic cream old prevent great survey rural";
+var mnemonic = "vast gain wage door donor square brain pencil wreck dune barrel fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "marine chase exit harbor oval casino enemy hire mansion mom task brush";
+var mnemonic = "nation appear surprise toddler arrive add brush roof catch grief lake spring";

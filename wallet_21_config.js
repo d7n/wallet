@@ -1,1 +1,1 @@
-var mnemonic = "jealous unaware copper garage over twice leg interest weather order piano fee";
+var mnemonic = "rate organ envelope eight siren cabin base sibling type vague expect scrap";

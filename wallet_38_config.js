@@ -1,1 +1,1 @@
-var mnemonic = "firm afford glimpse desk celery reward rapid gate cargo skate salt expire";
+var mnemonic = "camp actress shield night fire hazard sphere maximum identify canal pitch case";

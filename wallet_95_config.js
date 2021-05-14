@@ -1,1 +1,1 @@
-var mnemonic = "garage mixture essence oyster spirit venture life chest anchor pledge agent talk";
+var mnemonic = "dress curious enlist debris debate cream tennis song novel place rate nice";

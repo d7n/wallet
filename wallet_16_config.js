@@ -1,1 +1,1 @@
-var mnemonic = "gather buffalo affair fruit carpet concert tumble region clerk insane fold relief";
+var mnemonic = "mobile unfold math post identify excuse oxygen catch crystal pole patient purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "woman media risk walk chunk biology claw defy tool unfold live popular";
+var mnemonic = "balance whisper intact cool hedgehog raccoon session master predict unhappy divert city";

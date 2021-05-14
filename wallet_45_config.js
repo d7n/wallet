@@ -1,1 +1,1 @@
-var mnemonic = "lizard roof bridge race ship hollow stereo treat invite edit acoustic step";
+var mnemonic = "marble youth citizen journey come unveil tank carbon rely empty crucial crumble";

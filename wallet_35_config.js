@@ -1,1 +1,1 @@
-var mnemonic = "better dragon nerve brown shaft reunion mercy clay solid bulk mosquito tilt";
+var mnemonic = "army wave ribbon put game equal enable excuse useful advance order deposit";

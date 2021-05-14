@@ -1,1 +1,1 @@
-var mnemonic = "traffic fiscal dutch leopard height luggage scrub hover luxury yellow wrestle powder";
+var mnemonic = "champion amateur snow trim company depth ostrich south shield erosion arena base";

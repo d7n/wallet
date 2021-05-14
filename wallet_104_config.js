@@ -1,1 +1,1 @@
-var mnemonic = "focus coach credit donor limb confirm simple primary orchard hen move cradle";
+var mnemonic = "nut habit start exist transfer good panel orchard clip seek calm annual";

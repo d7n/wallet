@@ -1,1 +1,1 @@
-var mnemonic = "right shrug umbrella trigger prevent spread uncle mother auto roast loop lounge";
+var mnemonic = "dinosaur recipe zone inform rain spare royal choose digital deposit effort reunion";

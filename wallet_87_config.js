@@ -1,1 +1,1 @@
-var mnemonic = "below column position tornado black sentence sunset relax insect repeat castle pass";
+var mnemonic = "amount accuse elephant health flat screen endless monkey enact blade salon blame";

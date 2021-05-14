@@ -1,1 +1,1 @@
-var mnemonic = "robot skirt legend powder evoke horn essay harvest letter bright horse carpet";
+var mnemonic = "album woman differ exact rent pass friend milk talk try stem festival";

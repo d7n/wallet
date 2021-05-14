@@ -1,1 +1,1 @@
-var mnemonic = "west border level foam abandon switch dirt fade horse celery gravity anchor";
+var mnemonic = "recipe hint spin belt field body oppose seat hill predict maximum vault";

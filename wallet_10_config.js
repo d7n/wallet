@@ -1,1 +1,1 @@
-var mnemonic = "hill author secret radar fluid emotion oblige vault gown north early runway";
+var mnemonic = "olympic genre hollow wheel maze inflict world fly atom cup dry reward";

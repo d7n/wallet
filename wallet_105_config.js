@@ -1,1 +1,1 @@
-var mnemonic = "front poverty minimum ethics skill vicious coil tell stick obey crumble check";
+var mnemonic = "ethics tattoo armed pair try melt surround silly lyrics tobacco scale thank";

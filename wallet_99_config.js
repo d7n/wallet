@@ -1,1 +1,1 @@
-var mnemonic = "pencil bargain neutral cry fetch firm toss toy slide dish erode key";
+var mnemonic = "galaxy grass saddle ahead private mother enjoy dry ability sail tonight tag";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar minimum laundry inherit shed banner verify genius shrimp trash hair puppy";
+var mnemonic = "clinic replace private among arrange butter old fee number girl one travel";

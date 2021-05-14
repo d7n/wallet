@@ -1,1 +1,1 @@
-var mnemonic = "image sign spring essence process visit night predict indicate true favorite torch";
+var mnemonic = "good tray buffalo crane capital escape meadow violin evidence forward stage clean";

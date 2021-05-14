@@ -1,1 +1,1 @@
-var mnemonic = "item invest hammer stay invite scissors cake affair dream hub spoon awful";
+var mnemonic = "candy anxiety shiver crisp genuine couple tray work tube common permit beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "minor flock donate fluid menu mountain canoe slot song truck sustain tomorrow";
+var mnemonic = "end vehicle raccoon seed ocean flip retreat sail beyond turkey never large";

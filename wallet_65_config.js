@@ -1,1 +1,1 @@
-var mnemonic = "brain can become sunset castle left tonight path grain embody moment useless";
+var mnemonic = "sheriff cradle dust vintage exile search crazy bronze wonder empty home scissors";

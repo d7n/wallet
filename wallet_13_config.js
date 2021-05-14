@@ -1,1 +1,1 @@
-var mnemonic = "sight expire visit affair carry fish buzz together give earn soldier hire";
+var mnemonic = "novel amazing flame find smile way mimic shock vital art obtain blouse";

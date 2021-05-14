@@ -1,1 +1,1 @@
-var mnemonic = "pencil vacant relax board expire top deputy tunnel river guess borrow left";
+var mnemonic = "move extend smoke peanut sure typical diet prosper crawl medal memory strong";

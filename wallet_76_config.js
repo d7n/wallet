@@ -1,1 +1,1 @@
-var mnemonic = "attend swear problem step gate glue picnic crush insect stay year planet";
+var mnemonic = "spoil until estate pipe divorce minimum believe throw security profit toast cruise";

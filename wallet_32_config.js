@@ -1,1 +1,1 @@
-var mnemonic = "piece pioneer glow nominee cat horse indicate ranch true rhythm book tunnel";
+var mnemonic = "glue basic secret fade clown maple elder pear alley federal smile rice";

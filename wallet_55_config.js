@@ -1,1 +1,1 @@
-var mnemonic = "blossom neither match breeze wall monitor mystery above dog taxi behind congress";
+var mnemonic = "people fruit flower canyon verify worth muscle segment tennis harsh margin hobby";

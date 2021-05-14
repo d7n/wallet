@@ -1,1 +1,1 @@
-var mnemonic = "unknown town gadget critic multiply response coach bring exotic rabbit situate anchor";
+var mnemonic = "beef canyon globe early couple chaos card squirrel recycle oil cheap jaguar";

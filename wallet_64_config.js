@@ -1,1 +1,1 @@
-var mnemonic = "length dog library ivory unable goddess coconut collect clump abandon comfort siren";
+var mnemonic = "cheese marriage easily bronze economy weasel differ poverty base plastic jealous stamp";

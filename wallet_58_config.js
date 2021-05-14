@@ -1,1 +1,1 @@
-var mnemonic = "occur wheel fabric arrange nation smile evolve exist bubble fresh furnace scan";
+var mnemonic = "silver search random holiday primary ridge ivory bind exotic cancel mind beach";

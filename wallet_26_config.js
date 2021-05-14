@@ -1,1 +1,1 @@
-var mnemonic = "cabbage over badge fossil pumpkin credit copy thank alpha current fish armor";
+var mnemonic = "uncle denial mail surge catalog select wash ecology believe obscure wool limb";

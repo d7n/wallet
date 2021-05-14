@@ -1,1 +1,1 @@
-var mnemonic = "crouch first dumb nose burst refuse latin artefact honey hour sign normal";
+var mnemonic = "master know language exhibit desk hub rookie green invest true layer pear";

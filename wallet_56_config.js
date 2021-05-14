@@ -1,1 +1,1 @@
-var mnemonic = "garlic pond risk toss odor sort catalog satoshi digital cement route fiscal";
+var mnemonic = "regular brisk when comfort bleak blouse rule core weekend gate rug pole";

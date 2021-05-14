@@ -1,1 +1,1 @@
-var mnemonic = "conduct frown siren hedgehog staff card real thrive radar cluster frozen random";
+var mnemonic = "sense bitter sleep prize uncle pizza relief donor pink run tag robot";

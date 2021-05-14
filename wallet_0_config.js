@@ -1,1 +1,1 @@
-var mnemonic = "swarm evidence noise crunch tent pottery wreck glare rose flat stay arrest";
+var mnemonic = "dress foot cover lunch make sphere sunny piano frog feature dial mosquito";

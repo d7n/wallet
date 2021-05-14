@@ -1,1 +1,1 @@
-var mnemonic = "peanut school imitate divert state canoe legal sentence marble idle charge spread";
+var mnemonic = "glow nurse chief drum film canal fish senior music song very jar";

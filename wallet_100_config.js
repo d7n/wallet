@@ -1,1 +1,1 @@
-var mnemonic = "sick embrace wife armor vacuum govern sure search security drama brain capital";
+var mnemonic = "list patient virtual mutual wait sight adjust garlic torch movie effort key";

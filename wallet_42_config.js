@@ -1,1 +1,1 @@
-var mnemonic = "tool apology earth dog bronze orphan cruise shoe kiwi fiber gather length";
+var mnemonic = "enhance journey please bleak limit fish age mystery giraffe fitness access fat";

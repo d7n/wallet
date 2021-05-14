@@ -1,1 +1,1 @@
-var mnemonic = "trash strike card disease rule onion dove thank innocent demand cause will";
+var mnemonic = "position capital deposit interest problem waste private caution still slot glare village";

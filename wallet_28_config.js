@@ -1,1 +1,1 @@
-var mnemonic = "hello fluid parade ancient monster lumber any client able enemy loyal lobster";
+var mnemonic = "clip violin version alert vessel evoke often blanket pull kind mixed spell";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral industry cable laptop together famous remind tumble cliff nut metal inflict";
+var mnemonic = "timber material hockey merge illegal bulb skate country silly actress mass finish";

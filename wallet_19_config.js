@@ -1,1 +1,1 @@
-var mnemonic = "rent odor simple theme merit shoe crop gather foam submit cabin eager";
+var mnemonic = "affair churn lock trade ask pupil song metal relief coast law second";

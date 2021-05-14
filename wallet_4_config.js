@@ -1,1 +1,1 @@
-var mnemonic = "cluster nut swallow interest job three destroy fresh clutch photo way degree";
+var mnemonic = "original oppose juice smart ability tumble slender exercise subway script wave hen";

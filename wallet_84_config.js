@@ -1,1 +1,1 @@
-var mnemonic = "acquire manage vital pudding rely tiger afraid mansion laugh kitchen catalog wonder";
+var mnemonic = "object session spare include pink episode voice cat arm resist orbit start";

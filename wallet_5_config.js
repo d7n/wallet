@@ -1,1 +1,1 @@
-var mnemonic = "cruel remove scheme praise royal quality code long note frog rule place";
+var mnemonic = "across umbrella they utility ridge narrow defense clerk asset very prefer globe";

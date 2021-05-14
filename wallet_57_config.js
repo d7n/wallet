@@ -1,1 +1,1 @@
-var mnemonic = "wisdom fatal spring kitten tobacco apart reward throw jar retire fence teach";
+var mnemonic = "ginger champion occur reason luxury accident fish awkward ritual worth insect captain";

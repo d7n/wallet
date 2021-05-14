@@ -1,1 +1,1 @@
-var mnemonic = "vocal general step shiver plug idle favorite empty oyster real woman retreat";
+var mnemonic = "raw report elevator stock mail isolate fatal vehicle coral green enhance spray";

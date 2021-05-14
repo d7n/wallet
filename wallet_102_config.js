@@ -1,1 +1,1 @@
-var mnemonic = "depth trust song screen across corn orchard festival chimney frequent purity pair";
+var mnemonic = "mask office below kitten vendor armor alarm chest dirt appear gallery cake";

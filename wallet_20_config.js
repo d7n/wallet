@@ -1,1 +1,1 @@
-var mnemonic = "connect clay route pill board lava say display fame picture ride test";
+var mnemonic = "gym sustain acoustic wash print inject fatigue trim fluid brand engine vague";

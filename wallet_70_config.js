@@ -1,1 +1,1 @@
-var mnemonic = "dune market fatal organ lens maximum athlete hurt setup addict grow artefact";
+var mnemonic = "twenty craft secret turkey frequent rival creek half toss guess inmate early";

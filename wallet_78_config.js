@@ -1,1 +1,1 @@
-var mnemonic = "sort find execute broken burden sudden manual language radio cash castle dice";
+var mnemonic = "demand alcohol evolve theory come shoe laugh useful drop erode device sure";

@@ -1,1 +1,1 @@
-var mnemonic = "common able crew furnace fan stove summer tiger useful fetch core advice";
+var mnemonic = "health tornado chair plastic venue device approve mixed van burden injury enable";

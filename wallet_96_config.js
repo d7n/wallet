@@ -1,1 +1,1 @@
-var mnemonic = "blush surge reason correct mystery buffalo fold initial giggle drama dune name";
+var mnemonic = "sentence mesh broccoli couch click fix firm announce because minor beauty mother";

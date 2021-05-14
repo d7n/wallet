@@ -1,1 +1,1 @@
-var mnemonic = "hotel lava chunk total forward put uncover life color plug veteran neither";
+var mnemonic = "flight still scatter accident suit punch physical together modify control excess bonus";

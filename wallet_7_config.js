@@ -1,1 +1,1 @@
-var mnemonic = "negative insane detail review capable broccoli phone depend shadow prefer blouse brass";
+var mnemonic = "filter tennis cycle expect foster token august bridge fence shock shield save";

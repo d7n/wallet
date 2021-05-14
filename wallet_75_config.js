@@ -1,1 +1,1 @@
-var mnemonic = "leave scare grass pudding use shoe own post smile olympic smile unique";
+var mnemonic = "thunder diamond course book phrase steak bundle arctic snack invite page swift";

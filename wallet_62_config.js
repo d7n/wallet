@@ -1,1 +1,1 @@
-var mnemonic = "scrub decrease place blue whisper wreck still inch hungry panel image check";
+var mnemonic = "adult mandate three satisfy river envelope outer play letter dry manual hamster";

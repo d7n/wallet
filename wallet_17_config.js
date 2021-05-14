@@ -1,1 +1,1 @@
-var mnemonic = "display canyon habit idle flee erode eternal excess hurt buyer sunset catalog";
+var mnemonic = "version admit salute between health picture globe face stomach series copper indoor";

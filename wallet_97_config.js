@@ -1,1 +1,1 @@
-var mnemonic = "toward onion spray sketch income cute cattle cycle lion flight couch blouse";
+var mnemonic = "diamond multiply unique true jar abuse six lens meadow robot staff learn";

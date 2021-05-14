@@ -1,1 +1,1 @@
-var mnemonic = "silly half hole present primary gold suggest siege give stomach bench permit";
+var mnemonic = "tent laugh throw silly layer employ jump rough perfect cry plug private";

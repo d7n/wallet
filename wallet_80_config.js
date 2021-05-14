@@ -1,1 +1,1 @@
-var mnemonic = "tackle rescue liberty plug predict already note share napkin endless toy clock";
+var mnemonic = "label curious among fire badge special able pitch differ hurt kingdom rigid";

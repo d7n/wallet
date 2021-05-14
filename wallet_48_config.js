@@ -1,1 +1,1 @@
-var mnemonic = "banner midnight voice pretty giraffe skill issue cherry crash biology flame coin";
+var mnemonic = "warm copper result direct exchange invest pride guilt east soft twice guitar";

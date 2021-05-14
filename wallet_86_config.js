@@ -1,1 +1,1 @@
-var mnemonic = "width famous swallow seed benefit narrow broken risk pretty into prison execute";
+var mnemonic = "ball join tide soccer hockey conduct staff hover fall escape arena detail";

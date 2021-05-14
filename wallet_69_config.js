@@ -1,1 +1,1 @@
-var mnemonic = "demand winner furnace bright snack relax lounge such melt execute morning cabbage";
+var mnemonic = "crumble check insect guide goat tornado gasp cliff piece usage mother remember";

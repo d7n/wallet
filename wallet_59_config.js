@@ -1,1 +1,1 @@
-var mnemonic = "tank pride evil artwork ticket pretty club pink dust thought rain again";
+var mnemonic = "pink honey science invest arctic ocean student flash state ticket ivory stamp";

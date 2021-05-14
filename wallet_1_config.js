@@ -1,1 +1,1 @@
-var mnemonic = "enough banana grab service hold under card spin camera response build flock";
+var mnemonic = "mouse occur attack easily near rude enough acoustic vacuum awful spin screen";

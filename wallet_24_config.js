@@ -1,1 +1,1 @@
-var mnemonic = "nominee obtain improve patch emotion kingdom curious anger hero prize nose twice";
+var mnemonic = "enhance puzzle brick reward muffin whisper fall eager flame tool cage unable";

@@ -1,1 +1,1 @@
-var mnemonic = "burst shoe camp notice wolf ready peace wasp insect adult engine absurd";
+var mnemonic = "spin answer argue apology layer around oppose note wreck tone tenant end";

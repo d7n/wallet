@@ -1,1 +1,1 @@
-var mnemonic = "gate fog egg repeat certain fabric father album world device document milk";
+var mnemonic = "mimic return story someone spring govern you flip pilot heart marble unhappy";

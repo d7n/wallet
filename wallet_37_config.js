@@ -1,1 +1,1 @@
-var mnemonic = "mansion penalty disorder apology hotel hungry smile toe book access warfare viable";
+var mnemonic = "among nurse neck song shadow attract across canoe strong song walnut cook";

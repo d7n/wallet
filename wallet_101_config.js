@@ -1,1 +1,1 @@
-var mnemonic = "always shrug service oil easy bulb ticket amused bottom among deer method";
+var mnemonic = "you viable diesel vast spatial invite surprise rifle bean pepper common knee";

@@ -1,1 +1,1 @@
-var mnemonic = "bind label cinnamon middle have jacket person witness twice diesel scorpion extra";
+var mnemonic = "oak ramp wave major travel pretty chapter summer foster fluid valley liar";

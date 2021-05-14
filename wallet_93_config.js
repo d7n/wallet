@@ -1,1 +1,1 @@
-var mnemonic = "above lake winter elegant bike note all round lion perfect tilt prepare";
+var mnemonic = "soccer lounge orange flight stumble expect nice jealous judge bundle expose cram";

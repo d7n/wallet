@@ -1,1 +1,1 @@
-var mnemonic = "help jump meadow resist brother frost recall riot hand gauge glimpse into";
+var mnemonic = "task antique blue enter quit forward coyote stuff legal envelope derive display";

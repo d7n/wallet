@@ -1,1 +1,1 @@
-var mnemonic = "labor mesh aunt flip degree steel supreme flame ice shine dinner toilet";
+var mnemonic = "lecture venture female choice ranch daring pear sorry gasp disagree town sign";
