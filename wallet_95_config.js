@@ -1,1 +1,1 @@
-var mnemonic = "find boy alien dignity foam outside casual quantum hero disorder crawl tiny";
+var mnemonic = "fatigue solution movie mesh borrow chicken merit save click flame shaft food";

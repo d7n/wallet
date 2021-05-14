@@ -1,1 +1,1 @@
-var mnemonic = "final book number endless turtle update valve charge ignore produce theme document";
+var mnemonic = "culture harbor nature accuse sweet inside ball claim cruise detect forward slight";

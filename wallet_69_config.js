@@ -1,1 +1,1 @@
-var mnemonic = "fog noise buddy equal local garage divide tilt critic taxi access fuel";
+var mnemonic = "powder assault balcony eight nature bonus slice hybrid swing midnight burger betray";

@@ -1,1 +1,1 @@
-var mnemonic = "vague sand curious piano route hidden buffalo number bless frozen blur spatial";
+var mnemonic = "impose call analyst gauge tongue advance syrup unable sponsor profit blind earth";

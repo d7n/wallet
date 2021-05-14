@@ -1,1 +1,1 @@
-var mnemonic = "camp you base actual foam faint endorse horse jeans turkey attack ceiling";
+var mnemonic = "home slim speak similar fiber object faith hen trust october maze sunny";

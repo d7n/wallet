@@ -1,1 +1,1 @@
-var mnemonic = "heavy lawsuit fog oak pill spare neither myth dirt search patch advance";
+var mnemonic = "wonder proud carry ceiling puppy trick ice garden faith purse tooth include";

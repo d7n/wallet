@@ -1,1 +1,1 @@
-var mnemonic = "chunk jealous gauge burst area erupt error giant buzz history object renew";
+var mnemonic = "capital nasty subject usage length verify couch slogan off father delay pull";

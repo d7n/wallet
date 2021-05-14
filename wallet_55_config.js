@@ -1,1 +1,1 @@
-var mnemonic = "rather tag purpose width force hurt ill spike liquid february opinion lamp";
+var mnemonic = "capital any photo glove crane fish appear again setup key kind follow";

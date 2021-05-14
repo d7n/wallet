@@ -1,1 +1,1 @@
-var mnemonic = "hen muscle donkey visit cat tourist cross denial uniform woman bulk major";
+var mnemonic = "false olive hotel prize organ know crater music chaos diamond gravity retire";

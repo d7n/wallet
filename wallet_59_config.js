@@ -1,1 +1,1 @@
-var mnemonic = "robust throw stage cruise sketch wait girl spare water buyer glass candy";
+var mnemonic = "nut pudding cruise tube butter win all inch hammer beef skirt abstract";

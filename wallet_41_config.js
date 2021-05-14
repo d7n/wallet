@@ -1,1 +1,1 @@
-var mnemonic = "pride witness memory cannon divide long detail chief syrup render planet wife";
+var mnemonic = "door festival travel intact answer lift predict kangaroo wheat scrap fork wagon";

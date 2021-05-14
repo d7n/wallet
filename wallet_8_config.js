@@ -1,1 +1,1 @@
-var mnemonic = "rural chuckle derive word output wage smile hero tank actress two romance";
+var mnemonic = "urban puzzle usual auction shoe inflict exhaust industry damp jungle fruit dog";

@@ -1,1 +1,1 @@
-var mnemonic = "base flame hunt humble this better member scatter sport amateur mask seminar";
+var mnemonic = "amazing waste trend devote alter bright reduce message memory olive hip bronze";

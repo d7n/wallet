@@ -1,1 +1,1 @@
-var mnemonic = "zero rich scorpion discover unfair test junk tomorrow grab neck book face";
+var mnemonic = "couch heavy final derive brown they off afford unit theory onion promote";

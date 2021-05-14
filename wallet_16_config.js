@@ -1,1 +1,1 @@
-var mnemonic = "illness best gown program hamster turn wedding sunny clarify mushroom will else";
+var mnemonic = "gospel language coin pigeon snack sniff remind next uphold easy purchase spread";

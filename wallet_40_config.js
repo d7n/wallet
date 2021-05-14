@@ -1,1 +1,1 @@
-var mnemonic = "muffin install small grain feel spray jar asthma defy place scheme ask";
+var mnemonic = "label smart father novel custom jacket help object reveal guilt staff easy";

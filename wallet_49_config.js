@@ -1,1 +1,1 @@
-var mnemonic = "upset artefact side million rail pitch direct any type same kite isolate";
+var mnemonic = "dog steak damage peanut sphere romance master pass mail craft hill excess";

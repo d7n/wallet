@@ -1,1 +1,1 @@
-var mnemonic = "daughter friend entire little earth teach business gasp maid script carpet cake";
+var mnemonic = "funny bronze pact front human network ice rug only patrol repair high";

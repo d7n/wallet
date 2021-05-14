@@ -1,1 +1,1 @@
-var mnemonic = "stage wish pencil ethics used rigid book rude below spring churn heavy";
+var mnemonic = "curtain gun shove ice appear shell citizen object juice mobile possible index";

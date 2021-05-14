@@ -1,1 +1,1 @@
-var mnemonic = "list road whisper survey settle gravity fire device amazing talk wise glove";
+var mnemonic = "mango early drink sign share warrior depend wire tragic differ steak vital";

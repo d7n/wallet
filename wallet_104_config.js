@@ -1,1 +1,1 @@
-var mnemonic = "cram build theme discover kid jacket sniff extra art kick piano spoil";
+var mnemonic = "kangaroo pencil grocery tilt unfold trade bacon master album gospel raise symptom";

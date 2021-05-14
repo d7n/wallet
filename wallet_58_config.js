@@ -1,1 +1,1 @@
-var mnemonic = "ocean spare review marble quote census half sail chase relief fame output";
+var mnemonic = "style alarm behind carpet federal all vintage bid nuclear junior bamboo time";

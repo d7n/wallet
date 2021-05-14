@@ -1,1 +1,1 @@
-var mnemonic = "laundry oven trip roast puzzle multiply predict frown nation caution prison wall";
+var mnemonic = "deer eager stay such crew require audit better label gas among test";

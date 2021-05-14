@@ -1,1 +1,1 @@
-var mnemonic = "position heavy concert tumble mansion flee avoid butter immune public scare office";
+var mnemonic = "burst dwarf segment girl impose soup sound grow spy august view gasp";

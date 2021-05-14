@@ -1,1 +1,1 @@
-var mnemonic = "later draw inquiry glide scrub bring say glance caution birth trip quarter";
+var mnemonic = "solution february hold day filter father belt trouble spike follow rice silly";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic olive catch liar earn morning public give bike cupboard priority off";
+var mnemonic = "ordinary select pumpkin always bus assume hollow vapor jump congress fat together";

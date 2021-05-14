@@ -1,1 +1,1 @@
-var mnemonic = "symbol planet enable narrow one celery decrease onion vehicle grunt math must";
+var mnemonic = "spoon parrot walnut control suit crime old panther write beef recipe kick";

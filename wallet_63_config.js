@@ -1,1 +1,1 @@
-var mnemonic = "slim ticket until shine daring observe basic turkey oil slice together wild";
+var mnemonic = "unfair general great address people pride copper slab shine ill kitchen repair";

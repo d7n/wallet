@@ -1,1 +1,1 @@
-var mnemonic = "person state glue skin february require outer melt release embody gaze reflect";
+var mnemonic = "weather together foster helmet curve history ridge usage soap table inform leisure";

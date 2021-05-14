@@ -1,1 +1,1 @@
-var mnemonic = "elephant remind unfold slide dial range ripple expect lottery arctic cherry goose";
+var mnemonic = "walnut cousin convince fortune example taxi harsh consider mountain sauce spike pride";

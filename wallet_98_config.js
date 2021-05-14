@@ -1,1 +1,1 @@
-var mnemonic = "pelican fuel walk nose loud travel cup eight huge idle place list";
+var mnemonic = "shaft clinic opera measure width hub reason absorb filter student service delay";

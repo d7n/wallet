@@ -1,1 +1,1 @@
-var mnemonic = "sad organ element unfold novel size orchard decline happy basket desk tower";
+var mnemonic = "merge divide viable olympic taste couple gorilla cruel secret bench segment sibling";

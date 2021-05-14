@@ -1,1 +1,1 @@
-var mnemonic = "advance crowd code tool fluid menu harbor vintage nation smoke toddler tomorrow";
+var mnemonic = "jungle problem scout purity drive shrimp tumble tool please soccer capital nothing";

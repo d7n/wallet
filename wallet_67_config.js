@@ -1,1 +1,1 @@
-var mnemonic = "tenant sunny price fade salt metal party october citizen crisp rural judge";
+var mnemonic = "child color few dune culture never divorce left omit kind shoulder immune";

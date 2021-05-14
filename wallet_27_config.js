@@ -1,1 +1,1 @@
-var mnemonic = "this easily patient shine ensure swing cousin puppy govern mad rural brain";
+var mnemonic = "good pelican hair woman survey later enter raw upper auto phone brave";

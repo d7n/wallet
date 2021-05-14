@@ -1,1 +1,1 @@
-var mnemonic = "private choose advice they soda early curtain pony pioneer october cruise chat";
+var mnemonic = "proof vapor snap way habit nothing weapon uncle today twelve grant steel";

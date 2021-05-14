@@ -1,1 +1,1 @@
-var mnemonic = "sheriff expire deposit balcony current develop food drop debris below ring two";
+var mnemonic = "banner lock sword twenty type pear result inject gate program picture used";

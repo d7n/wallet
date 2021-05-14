@@ -1,1 +1,1 @@
-var mnemonic = "dirt two shuffle plastic forest melody general suggest drift art there negative";
+var mnemonic = "sibling injury runway sunny agree frame forward police save inquiry shine vapor";

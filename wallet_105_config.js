@@ -1,1 +1,1 @@
-var mnemonic = "soon present blouse cook law display clutch dog online attitude invite prison";
+var mnemonic = "pet leaf angle float manage now peanut potato tuition ethics among solar";

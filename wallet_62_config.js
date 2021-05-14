@@ -1,1 +1,1 @@
-var mnemonic = "liquid include atom sniff pelican assist same frown oblige thing poem calm";
+var mnemonic = "equal viable feel bracket warrior aisle glue diary auto story rack stock";

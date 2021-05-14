@@ -1,1 +1,1 @@
-var mnemonic = "kind absurd cake refuse axis enter other false parrot crystal edit grow";
+var mnemonic = "jeans ability assist category much arena multiply insane coffee gossip upon flame";

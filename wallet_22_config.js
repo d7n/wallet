@@ -1,1 +1,1 @@
-var mnemonic = "snow bring mercy palace vast tuition weird harbor spirit local dumb pride";
+var mnemonic = "endorse side wine educate dirt double toilet again uncle enhance umbrella crunch";

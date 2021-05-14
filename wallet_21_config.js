@@ -1,1 +1,1 @@
-var mnemonic = "lake order truly abuse picture fine satisfy web river monkey walk start";
+var mnemonic = "fork panther receive express force antique order then club village salmon eyebrow";

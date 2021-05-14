@@ -1,1 +1,1 @@
-var mnemonic = "eagle clever iron smile prosper ginger urge gorilla beef stand minute chest";
+var mnemonic = "drop judge spot trap library rebel vault win polar couch rubber witness";

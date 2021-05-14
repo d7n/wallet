@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon zoo execute dolphin fade august dice parent two trial alert congress";
+var mnemonic = "fashion spike mom quarter economy barrel shine prefer easy couch enroll program";

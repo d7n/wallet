@@ -1,1 +1,1 @@
-var mnemonic = "camp submit action cloud quick rotate actual network display sting sheriff theory";
+var mnemonic = "session deer loud uncle seven wasp scale thank route brass ski purpose";

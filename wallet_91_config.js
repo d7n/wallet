@@ -1,1 +1,1 @@
-var mnemonic = "napkin broom march total dish tube hazard success excite hope pride coffee";
+var mnemonic = "rotate action release loop magic crawl return dirt fluid stay clerk paddle";

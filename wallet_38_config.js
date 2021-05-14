@@ -1,1 +1,1 @@
-var mnemonic = "sphere jaguar uphold buddy occur tide rug obtain ugly bulb syrup juice";
+var mnemonic = "clog display chair jazz then rare bamboo two arrow claw zero notable";

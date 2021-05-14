@@ -1,1 +1,1 @@
-var mnemonic = "torch retire ahead chaos truly expect inject laugh icon spare lend remember";
+var mnemonic = "gown suffer wait aunt shed bomb believe fame ketchup photo brass adjust";

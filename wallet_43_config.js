@@ -1,1 +1,1 @@
-var mnemonic = "quote course panther glad asset upgrade fiction amused final desk lab glance";
+var mnemonic = "dad destroy color beef boost remove divert neck control project mom thought";

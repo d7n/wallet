@@ -1,1 +1,1 @@
-var mnemonic = "spell poverty frost machine boss fiber citizen mouse moral goose subway bulk";
+var mnemonic = "boy faith mystery energy convince praise chair unusual time water fit idle";

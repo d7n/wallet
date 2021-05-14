@@ -1,1 +1,1 @@
-var mnemonic = "zero squeeze merit immune critic approve model display theory bacon canvas drink";
+var mnemonic = "solar grain situate priority okay inch sauce hurdle diet display door nerve";

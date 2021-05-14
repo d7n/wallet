@@ -1,1 +1,1 @@
-var mnemonic = "vehicle skull nut cream reflect discover tomato lens opera time neglect lawn";
+var mnemonic = "risk various resemble slush hawk garden science artefact ahead blue drift steel";

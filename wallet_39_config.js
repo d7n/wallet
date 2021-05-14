@@ -1,1 +1,1 @@
-var mnemonic = "venue duck winter drop faculty photo horn velvet distance window wing please";
+var mnemonic = "absurd blood mountain woman mansion lens riot course club ice narrow kid";

@@ -1,1 +1,1 @@
-var mnemonic = "figure century goddess core snack coyote such demise symbol dress group foster";
+var mnemonic = "ceiling guess night discover energy unfold become fatigue same live bacon replace";

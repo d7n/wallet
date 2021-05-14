@@ -1,1 +1,1 @@
-var mnemonic = "blast memory giraffe then foam grunt blanket betray fabric need road pledge";
+var mnemonic = "piano garage lion nurse bacon aisle volume change plate rabbit figure under";

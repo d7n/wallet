@@ -1,1 +1,1 @@
-var mnemonic = "planet width bunker nothing arctic popular neutral math kitchen cloth narrow season";
+var mnemonic = "fault winter cattle fun anger involve school repair ridge ship pilot express";

@@ -1,1 +1,1 @@
-var mnemonic = "sea tuna rug leave jealous time assault depend teach tennis like quiz";
+var mnemonic = "spot spot bicycle clap spot extra tower clock vital express truly aspect";

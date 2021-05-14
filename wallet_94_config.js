@@ -1,1 +1,1 @@
-var mnemonic = "emerge current solve assault scorpion describe teach weapon wise offer elephant dose";
+var mnemonic = "slogan satisfy verify half bridge wool reflect heart wrist empower walnut modify";

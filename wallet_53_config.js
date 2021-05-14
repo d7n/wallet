@@ -1,1 +1,1 @@
-var mnemonic = "short task pear morning tourist tilt swing shock wine village sword already";
+var mnemonic = "say vendor margin doctor pond join mountain lady risk purity benefit nominee";

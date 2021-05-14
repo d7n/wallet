@@ -1,1 +1,1 @@
-var mnemonic = "despair theory movie slim render flat autumn luggage bulb strike van vivid";
+var mnemonic = "public else define fire tomorrow tornado rival evoke fine math race rent";

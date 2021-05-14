@@ -1,1 +1,1 @@
-var mnemonic = "rhythm egg about skirt social captain addict alone valid tissue february joy";
+var mnemonic = "mass enforce bless hungry conduct verify column blouse fence fury inquiry category";

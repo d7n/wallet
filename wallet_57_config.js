@@ -1,1 +1,1 @@
-var mnemonic = "minute coil stable tortoise radio will hobby unit recall north invest spawn";
+var mnemonic = "speed tank gauge eight carbon poem churn history twelve shaft burst bundle";

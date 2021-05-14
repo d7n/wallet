@@ -1,1 +1,1 @@
-var mnemonic = "among cycle cherry holiday bar love ability pretty clap soon obtain tooth";
+var mnemonic = "orbit dish prize guitar virus disease inhale room lunar bachelor start health";

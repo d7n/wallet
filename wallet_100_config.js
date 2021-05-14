@@ -1,1 +1,1 @@
-var mnemonic = "intact man limb call remind ginger forum swim unfair tourist clean hour";
+var mnemonic = "craft rebuild popular bargain wise kid midnight usual search impulse stage jump";

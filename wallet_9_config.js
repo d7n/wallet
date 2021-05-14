@@ -1,1 +1,1 @@
-var mnemonic = "entire wink bleak install beef soda example diesel promote wonder tag wonder";
+var mnemonic = "forget mule tone lawsuit annual radio nothing giraffe rib feed science will";

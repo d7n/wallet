@@ -1,1 +1,1 @@
-var mnemonic = "acoustic winter return best cabin canyon device jaguar cool lion never fabric";
+var mnemonic = "chicken wheat patient drill slender harbor copy reform vital uphold abstract proud";

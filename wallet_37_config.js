@@ -1,1 +1,1 @@
-var mnemonic = "local lion blush frost swift uphold review crater swear violin olive write";
+var mnemonic = "dose develop skate industry minute state illness noodle excess define this brand";

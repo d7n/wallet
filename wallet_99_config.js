@@ -1,1 +1,1 @@
-var mnemonic = "future tonight pave scheme today velvet summer fade depart acoustic hundred hungry";
+var mnemonic = "law come use liquid design angry tennis neither decorate fat ankle carpet";

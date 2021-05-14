@@ -1,1 +1,1 @@
-var mnemonic = "square curve bundle worry peasant bus same finish between manage phone engage";
+var mnemonic = "young tissue connect suggest limit twin warrior torch enemy rough ginger culture";

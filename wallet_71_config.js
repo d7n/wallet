@@ -1,1 +1,1 @@
-var mnemonic = "replace office neglect siege spin oak furnace olympic before boss crouch crunch";
+var mnemonic = "ball require vivid senior pride woman indoor birth broom race crawl throw";

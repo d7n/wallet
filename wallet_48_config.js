@@ -1,1 +1,1 @@
-var mnemonic = "spy pony segment choice soul audit grain person lift popular victory system";
+var mnemonic = "bless vague anxiety twice cable that vocal chat timber route setup exercise";

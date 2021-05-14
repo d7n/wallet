@@ -1,1 +1,1 @@
-var mnemonic = "picnic seminar poverty staff bid click vague mandate inspire legal adapt license";
+var mnemonic = "dish luggage scout divide flavor scan vocal little harvest artefact excite mean";

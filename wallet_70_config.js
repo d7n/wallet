@@ -1,1 +1,1 @@
-var mnemonic = "silly machine divert bamboo property ball fun salon estate spoon vast infant";
+var mnemonic = "just bonus produce hospital urban mesh pigeon bunker road fragile custom wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe cross light uphold coconut small garment ginger life kite manage lounge";
+var mnemonic = "arch trouble target legal prevent eye recipe embark argue like mushroom atom";

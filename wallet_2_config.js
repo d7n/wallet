@@ -1,1 +1,1 @@
-var mnemonic = "donor tooth ride hazard urge tuition trend minor grass place age minute";
+var mnemonic = "average mercy afford fun usage next regular come only digital exist provide";

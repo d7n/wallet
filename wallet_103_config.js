@@ -1,1 +1,1 @@
-var mnemonic = "type message exercise enhance hand oval material appear marble equip easily label";
+var mnemonic = "rifle wolf stuff drop copy skirt decorate rural laundry print exile nest";

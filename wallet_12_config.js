@@ -1,1 +1,1 @@
-var mnemonic = "brand judge smile bomb vendor wrap jealous enforce resemble explain staff frequent";
+var mnemonic = "orchard stick butter setup attend metal outer entire husband tennis faculty spin";

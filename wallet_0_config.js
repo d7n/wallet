@@ -1,1 +1,1 @@
-var mnemonic = "physical fee entire satisfy rain exile circle despair pudding demand rhythm poem";
+var mnemonic = "must this wrestle example level mom again reflect network husband evolve flight";

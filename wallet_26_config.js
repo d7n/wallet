@@ -1,1 +1,1 @@
-var mnemonic = "transfer share system upgrade unusual pyramid panel estate ignore dance increase paper";
+var mnemonic = "october dinosaur noise boy flush cherry enter sail toward brand clump dragon";

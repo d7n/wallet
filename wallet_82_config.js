@@ -1,1 +1,1 @@
-var mnemonic = "employ truck whale hurt edge tube fury spider sample payment tent click";
+var mnemonic = "deal check unfold net put ginger wise company staff away pave orbit";

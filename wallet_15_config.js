@@ -1,1 +1,1 @@
-var mnemonic = "safe knock seat excess seminar mouse together shoe exit chapter fun insane";
+var mnemonic = "victory call veteran release depth clever budget valve surge jump puzzle client";

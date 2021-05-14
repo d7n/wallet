@@ -1,1 +1,1 @@
-var mnemonic = "chicken nature slot slot funny crater number river depth bicycle domain stock";
+var mnemonic = "poet pizza prepare travel control sugar frog purse swap sword glide artist";

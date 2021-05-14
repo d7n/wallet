@@ -1,1 +1,1 @@
-var mnemonic = "tray cereal clay plate protect rookie junior rotate unveil invest gold eight";
+var mnemonic = "nephew offer boat siege asset shine lemon body tray dress immense polar";

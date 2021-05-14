@@ -1,1 +1,1 @@
-var mnemonic = "sudden funny evolve over kitchen essay oval start olympic coral develop silver";
+var mnemonic = "great sting fork zero butter seat coast cable cinnamon surround calm cat";

@@ -1,1 +1,1 @@
-var mnemonic = "biology have knee reflect spread uncover inspire avoid budget owner whisper play";
+var mnemonic = "crystal chief green parent allow proud gold ladder piano advance capable coach";

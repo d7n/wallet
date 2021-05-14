@@ -1,1 +1,1 @@
-var mnemonic = "bundle inflict robust busy ready talent entire maid little deposit art paper";
+var mnemonic = "credit glow enemy knife fuel print danger hope frost mesh local project";

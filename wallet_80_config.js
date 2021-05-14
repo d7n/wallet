@@ -1,1 +1,1 @@
-var mnemonic = "group empty negative april circle nose theory rural true detail hub sword";
+var mnemonic = "ethics card neglect absorb raven route solar boss honey deer grab primary";
