@@ -1,1 +1,1 @@
-var mnemonic = "orchard stick butter setup attend metal outer entire husband tennis faculty spin";
+var mnemonic = "feed weasel village lens return vapor proof cry dial thing dolphin way";

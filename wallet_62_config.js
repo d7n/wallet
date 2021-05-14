@@ -1,1 +1,1 @@
-var mnemonic = "equal viable feel bracket warrior aisle glue diary auto story rack stock";
+var mnemonic = "cram topple happy any flock wall hold fine grain effort aspect move";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle race embody enroll power silly exchange flag cushion cycle engage tattoo";
+var mnemonic = "economy mandate despair spare icon success nut apology script reopen village jazz";

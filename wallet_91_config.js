@@ -1,1 +1,1 @@
-var mnemonic = "rotate action release loop magic crawl return dirt fluid stay clerk paddle";
+var mnemonic = "syrup salon bullet train april gorilla series bread unfair march service holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "risk various resemble slush hawk garden science artefact ahead blue drift steel";
+var mnemonic = "tomato often february lunar era leave hair label manual capital hybrid interest";

@@ -1,1 +1,1 @@
-var mnemonic = "young tissue connect suggest limit twin warrior torch enemy rough ginger culture";
+var mnemonic = "phone endorse adult enjoy bronze forget neglect identify stumble near address differ";

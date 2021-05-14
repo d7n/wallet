@@ -1,1 +1,1 @@
-var mnemonic = "donkey bird buzz feature palace silly discover throw advance tiny regular real";
+var mnemonic = "average train laptop hamster ugly test magnet enlist fluid stable stumble skirt";

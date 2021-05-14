@@ -1,1 +1,1 @@
-var mnemonic = "nephew offer boat siege asset shine lemon body tray dress immense polar";
+var mnemonic = "scrap diary upgrade into arrange inform gaze dose switch gravity cactus pepper";

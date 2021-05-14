@@ -1,1 +1,1 @@
-var mnemonic = "dad destroy color beef boost remove divert neck control project mom thought";
+var mnemonic = "company erupt pencil wait pool mom spice corn oyster host dad dry";

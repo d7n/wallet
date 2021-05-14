@@ -1,1 +1,1 @@
-var mnemonic = "october dinosaur noise boy flush cherry enter sail toward brand clump dragon";
+var mnemonic = "they juice ladder desk fade video garlic enforce grow decline happy clip";

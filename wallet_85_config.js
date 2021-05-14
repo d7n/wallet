@@ -1,1 +1,1 @@
-var mnemonic = "isolate cross trend security phone text club current feel cheap canal shoe";
+var mnemonic = "crumble naive coral sick pepper caution actual cousin lend march swamp amazing";

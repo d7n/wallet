@@ -1,1 +1,1 @@
-var mnemonic = "boy faith mystery energy convince praise chair unusual time water fit idle";
+var mnemonic = "illegal will above horn fatigue dignity high milk under assault tip fantasy";

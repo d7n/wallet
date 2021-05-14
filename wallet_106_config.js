@@ -1,1 +1,1 @@
-var mnemonic = "culture harbor nature accuse sweet inside ball claim cruise detect forward slight";
+var mnemonic = "caution actor rude kingdom keen stage quote reward shuffle kiss attack vessel";

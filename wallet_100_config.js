@@ -1,1 +1,1 @@
-var mnemonic = "craft rebuild popular bargain wise kid midnight usual search impulse stage jump";
+var mnemonic = "kidney come label language side marine galaxy dizzy axis fatal regular write";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel language coin pigeon snack sniff remind next uphold easy purchase spread";
+var mnemonic = "chat rain such remember soup doctor donate antique maximum scout install expose";

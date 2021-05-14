@@ -1,1 +1,1 @@
-var mnemonic = "style alarm behind carpet federal all vintage bid nuclear junior bamboo time";
+var mnemonic = "party cereal public feel stay jelly scene wild student teach must black";

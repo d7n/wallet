@@ -1,1 +1,1 @@
-var mnemonic = "spot spot bicycle clap spot extra tower clock vital express truly aspect";
+var mnemonic = "misery setup slow shrug divert improve slush lobster innocent lounge unfair stay";

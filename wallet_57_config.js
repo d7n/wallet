@@ -1,1 +1,1 @@
-var mnemonic = "speed tank gauge eight carbon poem churn history twelve shaft burst bundle";
+var mnemonic = "object math spice hospital security evil infant foot gown diesel page since";

@@ -1,1 +1,1 @@
-var mnemonic = "brief glide library pilot birth grunt bring menu proof cruise mammal body";
+var mnemonic = "weasel inherit honey table mix object chef fit dust approve room endless";

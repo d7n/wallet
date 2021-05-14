@@ -1,1 +1,1 @@
-var mnemonic = "celery obvious run owner wrestle extra flash service female able kite alien";
+var mnemonic = "chunk eight lamp question price correct breeze second loud delay farm buzz";

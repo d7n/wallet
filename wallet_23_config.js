@@ -1,1 +1,1 @@
-var mnemonic = "spoon parrot walnut control suit crime old panther write beef recipe kick";
+var mnemonic = "portion rescue shine thank dizzy crucial outdoor couple onion inherit audit miss";

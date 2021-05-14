@@ -1,1 +1,1 @@
-var mnemonic = "victory call veteran release depth clever budget valve surge jump puzzle client";
+var mnemonic = "purchase arrange amused panther corn seed decline tiger brother onion once near";

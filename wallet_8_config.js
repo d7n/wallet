@@ -1,1 +1,1 @@
-var mnemonic = "urban puzzle usual auction shoe inflict exhaust industry damp jungle fruit dog";
+var mnemonic = "help awful similar runway congress furnace match belt dizzy citizen cheese fade";

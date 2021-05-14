@@ -1,1 +1,1 @@
-var mnemonic = "pen blur welcome noble bean toward into battle this gap resemble park";
+var mnemonic = "false return inmate soldier escape live crop depth impulse tooth blast lend";

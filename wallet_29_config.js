@@ -1,1 +1,1 @@
-var mnemonic = "proof vapor snap way habit nothing weapon uncle today twelve grant steel";
+var mnemonic = "palace slice ancient prosper bronze anxiety will purchase deputy banana shoulder hip";

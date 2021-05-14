@@ -1,1 +1,1 @@
-var mnemonic = "cross edit cross tattoo merry lion grunt need bracket diary hole plate";
+var mnemonic = "donate excite other carry close mechanic mistake satoshi slide stumble slam neglect";

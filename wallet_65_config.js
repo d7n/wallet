@@ -1,1 +1,1 @@
-var mnemonic = "cable lazy subject direct flash inherit already must enlist people jungle bundle";
+var mnemonic = "biology rabbit broom buffalo harbor indoor public cupboard author slush rabbit injury";

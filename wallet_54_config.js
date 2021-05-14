@@ -1,1 +1,1 @@
-var mnemonic = "crystal chief green parent allow proud gold ladder piano advance capable coach";
+var mnemonic = "budget mean pumpkin stay song taxi swallow demise song excuse unknown obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "mango early drink sign share warrior depend wire tragic differ steak vital";
+var mnemonic = "hair attract embark satisfy tennis steel bring chief glove neither legal leader";

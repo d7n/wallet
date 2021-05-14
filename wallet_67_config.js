@@ -1,1 +1,1 @@
-var mnemonic = "child color few dune culture never divorce left omit kind shoulder immune";
+var mnemonic = "any color dream easy gorilla jeans oblige have fiscal phrase tired police";

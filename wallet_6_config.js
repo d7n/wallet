@@ -1,1 +1,1 @@
-var mnemonic = "poet pizza prepare travel control sugar frog purse swap sword glide artist";
+var mnemonic = "oxygen silk average cave close cheese ketchup resist dice nuclear pupil select";

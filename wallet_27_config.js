@@ -1,1 +1,1 @@
-var mnemonic = "good pelican hair woman survey later enter raw upper auto phone brave";
+var mnemonic = "reopen safe walnut wonder diamond mansion brass legal stuff walk barely quarter";

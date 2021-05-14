@@ -1,1 +1,1 @@
-var mnemonic = "reform barrel city march table metal series admit brush detail shoulder bring";
+var mnemonic = "regret crumble shadow sick crunch piano letter void street obscure rice worth";

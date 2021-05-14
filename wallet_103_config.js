@@ -1,1 +1,1 @@
-var mnemonic = "rifle wolf stuff drop copy skirt decorate rural laundry print exile nest";
+var mnemonic = "repeat sense hedgehog diary silk join jump battle drift grunt board addict";

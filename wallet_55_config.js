@@ -1,1 +1,1 @@
-var mnemonic = "capital any photo glove crane fish appear again setup key kind follow";
+var mnemonic = "shrug degree catch flee nest puzzle grape secret wood unit above skate";

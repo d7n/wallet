@@ -1,1 +1,1 @@
-var mnemonic = "shaft clinic opera measure width hub reason absorb filter student service delay";
+var mnemonic = "donate shrug stem tornado benefit coin say digital timber egg lesson riot";

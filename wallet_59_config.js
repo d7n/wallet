@@ -1,1 +1,1 @@
-var mnemonic = "nut pudding cruise tube butter win all inch hammer beef skirt abstract";
+var mnemonic = "assume parrot rival churn fold infant flame spray super broom mean bunker";

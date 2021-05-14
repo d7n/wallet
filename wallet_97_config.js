@@ -1,1 +1,1 @@
-var mnemonic = "weather together foster helmet curve history ridge usage soap table inform leisure";
+var mnemonic = "table sport food favorite turtle trophy humor body pave lend nice unaware";

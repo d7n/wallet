@@ -1,1 +1,1 @@
-var mnemonic = "obscure subway hungry wasp picture drama unique feature gather fever advance spoon";
+var mnemonic = "veteran steak side farm chronic soul leg fork rocket tiger hotel figure";

@@ -1,1 +1,1 @@
-var mnemonic = "shine other cabbage borrow rare nothing hundred session globe regular stereo mistake";
+var mnemonic = "flush hair melody detect garment drink fuel grab gaze kidney tuna nose";

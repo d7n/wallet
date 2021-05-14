@@ -1,1 +1,1 @@
-var mnemonic = "burst dwarf segment girl impose soup sound grow spy august view gasp";
+var mnemonic = "cage snow invest knee alter blade useful galaxy pepper buzz charge tomorrow";

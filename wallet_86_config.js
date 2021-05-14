@@ -1,1 +1,1 @@
-var mnemonic = "submit brother ghost tornado buzz wise empty unlock worry uncle lake purpose";
+var mnemonic = "where shock aim click dumb piano shine guitar deposit elder hair girl";

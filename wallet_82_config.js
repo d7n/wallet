@@ -1,1 +1,1 @@
-var mnemonic = "deal check unfold net put ginger wise company staff away pave orbit";
+var mnemonic = "tip blossom fence symbol hire gather dream fan lens ill wise orchard";

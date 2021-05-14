@@ -1,1 +1,1 @@
-var mnemonic = "ethics card neglect absorb raven route solar boss honey deer grab primary";
+var mnemonic = "doll avoid solid rotate attack merit ritual harbor cover firm advice gold";

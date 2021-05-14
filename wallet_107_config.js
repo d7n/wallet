@@ -1,1 +1,1 @@
-var mnemonic = "great sting fork zero butter seat coast cable cinnamon surround calm cat";
+var mnemonic = "bulk flavor bar fitness lava egg item slender autumn turkey trouble initial";

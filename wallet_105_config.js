@@ -1,1 +1,1 @@
-var mnemonic = "pet leaf angle float manage now peanut potato tuition ethics among solar";
+var mnemonic = "body season stairs meat kid wish dose average crazy junk major swarm";

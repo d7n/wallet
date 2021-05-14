@@ -1,1 +1,1 @@
-var mnemonic = "dose develop skate industry minute state illness noodle excess define this brand";
+var mnemonic = "people wood era great pear hunt hello vacant catalog food shield attitude";

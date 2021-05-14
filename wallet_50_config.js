@@ -1,1 +1,1 @@
-var mnemonic = "capital nasty subject usage length verify couch slogan off father delay pull";
+var mnemonic = "myth mechanic frown spin outdoor virus step visit slow plate exile donkey";

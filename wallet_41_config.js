@@ -1,1 +1,1 @@
-var mnemonic = "door festival travel intact answer lift predict kangaroo wheat scrap fork wagon";
+var mnemonic = "eager document clock beef today give future weird subject multiply strike question";

@@ -1,1 +1,1 @@
-var mnemonic = "say vendor margin doctor pond join mountain lady risk purity benefit nominee";
+var mnemonic = "pretty develop topple error olive emerge alarm latin finger nasty pitch soon";

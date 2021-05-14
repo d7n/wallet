@@ -1,1 +1,1 @@
-var mnemonic = "home slim speak similar fiber object faith hen trust october maze sunny";
+var mnemonic = "sign trash thumb vendor creek safe motion wrestle thumb twice twist film";

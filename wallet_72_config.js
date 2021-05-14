@@ -1,1 +1,1 @@
-var mnemonic = "chicken wheat patient drill slender harbor copy reform vital uphold abstract proud";
+var mnemonic = "helmet aunt gas vacuum chuckle involve barrel tank annual roof artwork coin";

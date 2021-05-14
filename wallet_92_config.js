@@ -1,1 +1,1 @@
-var mnemonic = "credit glow enemy knife fuel print danger hope frost mesh local project";
+var mnemonic = "pipe dawn congress pull coin dial laugh public elephant settle edge memory";

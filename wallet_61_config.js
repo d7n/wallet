@@ -1,1 +1,1 @@
-var mnemonic = "stadium tenant clog custom squirrel salute quarter object public resource worry program";
+var mnemonic = "clerk arrange earn collect earn throw school theme wonder cement lift sting";

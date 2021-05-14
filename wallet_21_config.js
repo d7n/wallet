@@ -1,1 +1,1 @@
-var mnemonic = "fork panther receive express force antique order then club village salmon eyebrow";
+var mnemonic = "term denial fantasy old hip market wet hood sad sniff usual journey";

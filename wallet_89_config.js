@@ -1,1 +1,1 @@
-var mnemonic = "knee echo thunder depend window win matter pear funny play phrase earn";
+var mnemonic = "exercise note dish amused purpose kitchen steel pave giggle drip jealous leopard";

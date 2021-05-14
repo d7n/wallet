@@ -1,1 +1,1 @@
-var mnemonic = "solar grain situate priority okay inch sauce hurdle diet display door nerve";
+var mnemonic = "travel proud network give outer tail tube useful stairs trip under staff";

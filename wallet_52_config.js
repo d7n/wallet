@@ -1,1 +1,1 @@
-var mnemonic = "session deer loud uncle seven wasp scale thank route brass ski purpose";
+var mnemonic = "mutual actress jelly zone stock what present foil spin hello anxiety found";

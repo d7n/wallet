@@ -1,1 +1,1 @@
-var mnemonic = "label smart father novel custom jacket help object reveal guilt staff easy";
+var mnemonic = "floor matter occur useful control novel scan swear blast pair session raccoon";

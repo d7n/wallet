@@ -1,1 +1,1 @@
-var mnemonic = "banner lock sword twenty type pear result inject gate program picture used";
+var mnemonic = "cause advice category gossip desert general primary client between basic ankle report";

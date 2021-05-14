@@ -1,1 +1,1 @@
-var mnemonic = "forget mule tone lawsuit annual radio nothing giraffe rib feed science will";
+var mnemonic = "execute wife absurd barely vanish message voice never bicycle talk dinosaur famous";

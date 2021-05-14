@@ -1,1 +1,1 @@
-var mnemonic = "absurd blood mountain woman mansion lens riot course club ice narrow kid";
+var mnemonic = "april vocal twist boss crystal success hair ski pig file aspect whip";

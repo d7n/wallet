@@ -1,1 +1,1 @@
-var mnemonic = "just bonus produce hospital urban mesh pigeon bunker road fragile custom wrist";
+var mnemonic = "title day pole cereal theory judge parrot endorse asthma menu sell blouse";

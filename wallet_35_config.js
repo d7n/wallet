@@ -1,1 +1,1 @@
-var mnemonic = "deer eager stay such crew require audit better label gas among test";
+var mnemonic = "imitate crawl pact oval neglect error pilot surprise candy hungry cannon firm";

@@ -1,1 +1,1 @@
-var mnemonic = "drop judge spot trap library rebel vault win polar couch rubber witness";
+var mnemonic = "nominee safe obscure keen elephant very swap certain execute clip bind sea";

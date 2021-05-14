@@ -1,1 +1,1 @@
-var mnemonic = "mass enforce bless hungry conduct verify column blouse fence fury inquiry category";
+var mnemonic = "flush refuse fetch panel tongue arch measure debris critic fine slab cost";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion spike mom quarter economy barrel shine prefer easy couch enroll program";
+var mnemonic = "embark attract movie disease nasty symbol cancel lawsuit become fossil salad monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "merge divide viable olympic taste couple gorilla cruel secret bench segment sibling";
+var mnemonic = "young reason kite outside attitude uncover slab what chief sight tonight sick";

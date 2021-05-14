@@ -1,1 +1,1 @@
-var mnemonic = "walnut cousin convince fortune example taxi harsh consider mountain sauce spike pride";
+var mnemonic = "oak amateur exchange boy cactus tuna lesson gold pave jacket radio best";

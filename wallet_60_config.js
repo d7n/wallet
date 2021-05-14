@@ -1,1 +1,1 @@
-var mnemonic = "curtain gun shove ice appear shell citizen object juice mobile possible index";
+var mnemonic = "shoe laugh benefit unveil learn shoe month crane mutual wheel absorb guard";

@@ -1,1 +1,1 @@
-var mnemonic = "false olive hotel prize organ know crater music chaos diamond gravity retire";
+var mnemonic = "snap shoe method kind violin horse egg pizza wage soda cloud moral";

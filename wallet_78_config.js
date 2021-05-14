@@ -1,1 +1,1 @@
-var mnemonic = "second carry cargo open lobster direct process change similar arrow ostrich firm";
+var mnemonic = "report behind repair rabbit endorse illness abuse ball style chair alone fetch";

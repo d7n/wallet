@@ -1,1 +1,1 @@
-var mnemonic = "dog steak damage peanut sphere romance master pass mail craft hill excess";
+var mnemonic = "viable river grid uncle execute extra north shaft lend blame sport frown";

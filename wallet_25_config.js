@@ -1,1 +1,1 @@
-var mnemonic = "dish luggage scout divide flavor scan vocal little harvest artefact excite mean";
+var mnemonic = "bright deposit virus major spawn mom lonely danger add pass crouch funny";

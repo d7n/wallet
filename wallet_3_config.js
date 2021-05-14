@@ -1,1 +1,1 @@
-var mnemonic = "amazing waste trend devote alter bright reduce message memory olive hip bronze";
+var mnemonic = "sketch modify near loyal ability desk poet ticket uphold client dust excess";

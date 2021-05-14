@@ -1,1 +1,1 @@
-var mnemonic = "jungle problem scout purity drive shrimp tumble tool please soccer capital nothing";
+var mnemonic = "accuse piece exile million current expand stem author hire wheel liar marble";

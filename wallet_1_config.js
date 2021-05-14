@@ -1,1 +1,1 @@
-var mnemonic = "ordinary select pumpkin always bus assume hollow vapor jump congress fat together";
+var mnemonic = "mercy sort only ensure dirt chase refuse upon post void fish dwarf";

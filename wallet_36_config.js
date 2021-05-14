@@ -1,1 +1,1 @@
-var mnemonic = "worry ten despair erode cage tomato light van parent claim all pizza";
+var mnemonic = "need purity arrow verify flame report cream hunt shed recycle life put";

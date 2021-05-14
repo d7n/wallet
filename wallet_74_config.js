@@ -1,1 +1,1 @@
-var mnemonic = "public else define fire tomorrow tornado rival evoke fine math race rent";
+var mnemonic = "together neither supreme castle travel umbrella funny version punch language nuclear repeat";

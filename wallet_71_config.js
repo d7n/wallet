@@ -1,1 +1,1 @@
-var mnemonic = "ball require vivid senior pride woman indoor birth broom race crawl throw";
+var mnemonic = "bargain daughter resemble sword rate estate vivid bean similar liquid license price";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder proud carry ceiling puppy trick ice garden faith purse tooth include";
+var mnemonic = "unable snow square aerobic brain derive maid prosper slam mountain entry pink";

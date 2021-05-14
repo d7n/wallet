@@ -1,1 +1,1 @@
-var mnemonic = "solution february hold day filter father belt trouble spike follow rice silly";
+var mnemonic = "arrow duck happy during bronze kitten excite luxury suit exotic snap bacon";

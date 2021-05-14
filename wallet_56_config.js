@@ -1,1 +1,1 @@
-var mnemonic = "arch trouble target legal prevent eye recipe embark argue like mushroom atom";
+var mnemonic = "desk evolve knife fish filter cattle assume skin diet tonight mercy silly";

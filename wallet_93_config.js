@@ -1,1 +1,1 @@
-var mnemonic = "finger pond tilt please easy issue history own myth invest network ranch";
+var mnemonic = "february second base fire anchor arena pencil hunt frog entry enable game";

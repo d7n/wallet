@@ -1,1 +1,1 @@
-var mnemonic = "ceiling guess night discover energy unfold become fatigue same live bacon replace";
+var mnemonic = "drip human drum liquid hard large judge swallow false body parent grass";

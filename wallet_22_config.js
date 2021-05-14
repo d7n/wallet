@@ -1,1 +1,1 @@
-var mnemonic = "endorse side wine educate dirt double toilet again uncle enhance umbrella crunch";
+var mnemonic = "device enact furnace smile setup ethics slogan achieve digital mountain bounce jazz";

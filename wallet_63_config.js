@@ -1,1 +1,1 @@
-var mnemonic = "unfair general great address people pride copper slab shine ill kitchen repair";
+var mnemonic = "bone road shiver coach rotate wild fine victory charge disagree super shadow";

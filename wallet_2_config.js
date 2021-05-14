@@ -1,1 +1,1 @@
-var mnemonic = "average mercy afford fun usage next regular come only digital exist provide";
+var mnemonic = "wise wonder curtain city loop beauty rent assist ring satisfy vibrant bleak";

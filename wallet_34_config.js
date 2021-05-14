@@ -1,1 +1,1 @@
-var mnemonic = "fault winter cattle fun anger involve school repair ridge ship pilot express";
+var mnemonic = "check bread exit delay enable arena bag empty ignore soldier payment mosquito";

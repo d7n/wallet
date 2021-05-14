@@ -1,1 +1,1 @@
-var mnemonic = "sibling injury runway sunny agree frame forward police save inquiry shine vapor";
+var mnemonic = "cheap coach accident truth explain city involve april debate able grit best";

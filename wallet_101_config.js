@@ -1,1 +1,1 @@
-var mnemonic = "spread amazing canal magnet scan fabric entire purity door brave route easily";
+var mnemonic = "coffee path brush shuffle genuine magic much recycle neglect idea swallow chef";

@@ -1,1 +1,1 @@
-var mnemonic = "wink blush rebel burden midnight stick oven blanket dynamic seek birth square";
+var mnemonic = "fire tenant great team text cupboard mask rural wonder barrel athlete alcohol";
