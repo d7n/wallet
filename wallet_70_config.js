@@ -1,1 +1,1 @@
-var mnemonic = "swamp ivory acoustic foot relax guitar outdoor then grape trend deny between";
+var mnemonic = "gloom ship poem predict tail luggage deputy swamp number grape that swift";

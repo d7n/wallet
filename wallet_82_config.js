@@ -1,1 +1,1 @@
-var mnemonic = "donkey basic slide basket adapt safe nature note awake atom crystal jealous";
+var mnemonic = "record mad spoil ecology yard brother attack code flight front stand gold";

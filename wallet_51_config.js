@@ -1,1 +1,1 @@
-var mnemonic = "rabbit acoustic film zoo rare goat enroll tragic close acid prevent wife";
+var mnemonic = "edge profit uniform fresh juice install body jump near tube result sleep";

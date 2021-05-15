@@ -1,1 +1,1 @@
-var mnemonic = "drill recycle current like timber shield despair vital olympic divide motion uphold";
+var mnemonic = "category volume outside anger december owner define toast excuse sock churn ice";

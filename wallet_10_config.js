@@ -1,1 +1,1 @@
-var mnemonic = "accident need ethics cry civil raven wedding pistol cereal boat knock tongue";
+var mnemonic = "gravity team awful capital advice tuna aim flee quick album melt circle";

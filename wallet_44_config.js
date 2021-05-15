@@ -1,1 +1,1 @@
-var mnemonic = "vapor fossil milk speak can ice library coil powder pear measure donkey";
+var mnemonic = "come suit resist valid old treat senior result fiction dry best grocery";

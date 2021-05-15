@@ -1,1 +1,1 @@
-var mnemonic = "pill chat glory joy bleak permit develop window day slight boss doctor";
+var mnemonic = "grow error put hurry scout practice this muscle leisure talk draft minor";

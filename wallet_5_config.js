@@ -1,1 +1,1 @@
-var mnemonic = "shuffle door luggage issue street chuckle stable foam sad never smile choice";
+var mnemonic = "unlock jealous derive daring resist biology lucky method crime twice civil bench";

@@ -1,1 +1,1 @@
-var mnemonic = "life spot survey canoe payment dove certain rack easy chief desk machine";
+var mnemonic = "jungle dress brother swallow busy october toast mountain truth pizza assault because";

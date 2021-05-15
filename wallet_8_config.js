@@ -1,1 +1,1 @@
-var mnemonic = "feature observe desert bird then regular medal toy oil ignore push soft";
+var mnemonic = "lawsuit viable post chronic duck spray cat ribbon light planet spin play";

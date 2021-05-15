@@ -1,1 +1,1 @@
-var mnemonic = "pen ginger gate fiscal trust boost lunch blush head brown legal area";
+var mnemonic = "strike kid inmate glance deer diagram wealth helmet sudden cheap wool cannon";

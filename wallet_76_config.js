@@ -1,1 +1,1 @@
-var mnemonic = "cat charge forget echo blush fork dog zebra vacant question jump humor";
+var mnemonic = "aerobic music raise occur benefit wagon anxiety someone fade debris denial job";

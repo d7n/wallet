@@ -1,1 +1,1 @@
-var mnemonic = "figure doll tumble slight child broken industry never kind prefer range donkey";
+var mnemonic = "install renew grief toilet exotic destroy patch mercy swim crumble predict toward";

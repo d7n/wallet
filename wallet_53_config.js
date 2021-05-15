@@ -1,1 +1,1 @@
-var mnemonic = "believe genuine income adapt behind grunt behave utility frown suspect exotic song";
+var mnemonic = "trade silly electric december level alpha void run brave control work water";

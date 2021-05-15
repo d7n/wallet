@@ -1,1 +1,1 @@
-var mnemonic = "dust consider inherit couch program bar example supply bridge analyst breeze immune";
+var mnemonic = "climb turkey life pear seat emerge slush dawn provide tumble equip remain";

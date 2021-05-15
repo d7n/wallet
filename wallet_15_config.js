@@ -1,1 +1,1 @@
-var mnemonic = "question coil door dove steak normal flat police toward february flat seat";
+var mnemonic = "artist hurt lucky hawk square enjoy inquiry lesson argue ecology matter away";

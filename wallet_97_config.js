@@ -1,1 +1,1 @@
-var mnemonic = "unfold purpose keen aspect cheese negative art puppy tail bid hood enforce";
+var mnemonic = "mixed oxygen gate citizen loyal easily benefit obscure same beef then loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome hammer capital chalk often rocket border west detect suit pass next";
+var mnemonic = "reduce medal candy tail peace inquiry ability dragon arena book thing border";

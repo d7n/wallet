@@ -1,1 +1,1 @@
-var mnemonic = "else shoe tennis boil ski outdoor eagle grit slab guard push illness";
+var mnemonic = "rhythm balance attack only match oval invite modify noise junior true tragic";

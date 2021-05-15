@@ -1,1 +1,1 @@
-var mnemonic = "soul speak main actor affair tube bleak duty artist silk endorse unlock";
+var mnemonic = "surface bird pattern nice bounce wear champion rule spoil pyramid drive eternal";

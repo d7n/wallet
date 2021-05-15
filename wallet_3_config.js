@@ -1,1 +1,1 @@
-var mnemonic = "fancy bitter fringe remove coast slice since anger lesson casual mercy manual";
+var mnemonic = "seed odor economy share learn dad mix raw essay item perfect tongue";

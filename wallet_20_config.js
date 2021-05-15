@@ -1,1 +1,1 @@
-var mnemonic = "crawl strike subject either mixture grape satisfy anger dad crystal garlic session";
+var mnemonic = "run index search smart rival caution rookie genius gown faith creek clever";

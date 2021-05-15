@@ -1,1 +1,1 @@
-var mnemonic = "rose settle tortoise supply express charge hurry joke energy unfair credit love";
+var mnemonic = "profit else oppose what cart network popular latin glue genius marine glare";

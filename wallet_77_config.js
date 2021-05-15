@@ -1,1 +1,1 @@
-var mnemonic = "when hidden check festival sketch school choice snow float slab shell describe";
+var mnemonic = "bicycle elbow journey process human vague kite mosquito feature elder impulse skate";

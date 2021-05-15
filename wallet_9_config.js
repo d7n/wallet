@@ -1,1 +1,1 @@
-var mnemonic = "pizza exchange olympic stone dose dove hammer shuffle rack spawn choice expose";
+var mnemonic = "live street imitate miracle powder scrub travel width tobacco hazard vessel theme";

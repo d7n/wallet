@@ -1,1 +1,1 @@
-var mnemonic = "injury happy cigar hidden fiscal tray oxygen close debate one sphere start";
+var mnemonic = "beauty close ten panel sustain sand pistol hazard entry chaos win cement";

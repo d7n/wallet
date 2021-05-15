@@ -1,1 +1,1 @@
-var mnemonic = "witness smooth figure trip tongue slim donor order average matter antique raise";
+var mnemonic = "approve junk virus equal coin limit elephant fossil announce price possible measure";

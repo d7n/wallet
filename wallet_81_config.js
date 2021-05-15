@@ -1,1 +1,1 @@
-var mnemonic = "brave link absent blossom chronic remind sword pear whale base alarm foster";
+var mnemonic = "speak duck sail quiz pair recipe someone broom regular jazz wave theme";

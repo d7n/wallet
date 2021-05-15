@@ -1,1 +1,1 @@
-var mnemonic = "despair symptom isolate fever right slide cross voice cry alley draft wall";
+var mnemonic = "road around rival trigger talent despair elite child document kitchen receive hold";

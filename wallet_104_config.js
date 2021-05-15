@@ -1,1 +1,1 @@
-var mnemonic = "nurse ginger rail extra source ivory layer expire promote stock glide wash";
+var mnemonic = "forum chef skate midnight else wage vast ski profit hub add panther";

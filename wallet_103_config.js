@@ -1,1 +1,1 @@
-var mnemonic = "brown scene twin biology wine cruel rubber hospital effort resemble spoon monster";
+var mnemonic = "trim social nature elite best pretty drum explain volcano alcohol case garden";

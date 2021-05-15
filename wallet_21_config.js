@@ -1,1 +1,1 @@
-var mnemonic = "model robust super bright proud rotate insane crisp ahead blush boring solid";
+var mnemonic = "bar abstract eternal people width express glad shell smoke foam crime budget";

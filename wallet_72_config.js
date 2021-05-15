@@ -1,1 +1,1 @@
-var mnemonic = "melody hurt believe easily tooth find team jeans tissue hybrid work document";
+var mnemonic = "lava toe disease absorb rally sadness bean suit include employ bean garment";

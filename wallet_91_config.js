@@ -1,1 +1,1 @@
-var mnemonic = "visual tribe huge hope cement estate lava meadow resist tone curious guilt";
+var mnemonic = "tool drama silver faculty divorce hole country devote badge noise frozen series";

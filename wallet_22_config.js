@@ -1,1 +1,1 @@
-var mnemonic = "banner drink slow loop cotton venue donkey pudding pact post square goddess";
+var mnemonic = "sea globe swallow survey rug question farm cricket install green fault guitar";

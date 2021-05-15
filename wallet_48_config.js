@@ -1,1 +1,1 @@
-var mnemonic = "gentle burden domain ceiling ribbon feature tooth axis capital practice little furnace";
+var mnemonic = "service blouse palm quantum rate reform end skin pact rebel private depth";

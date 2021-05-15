@@ -1,1 +1,1 @@
-var mnemonic = "scissors museum people unknown seek basic man nuclear invite bronze knife sphere";
+var mnemonic = "lucky true supply sibling girl cheese torch relax menu bid thank method";

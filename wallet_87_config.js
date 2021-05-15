@@ -1,1 +1,1 @@
-var mnemonic = "session lawsuit solar minute wage behave trouble adapt actor owner furnace beach";
+var mnemonic = "genius enough fitness luxury fan hedgehog sausage net wheat elephant play once";

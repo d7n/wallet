@@ -1,1 +1,1 @@
-var mnemonic = "soccer develop obtain verify ladder yellow oxygen trend term shield student gloom";
+var mnemonic = "medal cloth tool pink ocean hour confirm vendor rent flight draw burger";

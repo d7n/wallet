@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow ozone offer soon you right labor grass sentence core blue fringe";
+var mnemonic = "unknown window valve render left wagon cream eye rack element away neutral";

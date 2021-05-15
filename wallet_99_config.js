@@ -1,1 +1,1 @@
-var mnemonic = "lawn recall pear extend range bullet concert glimpse pass stuff sadness erosion";
+var mnemonic = "then tone novel smart bring present tomato police fruit pigeon unable bench";

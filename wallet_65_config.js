@@ -1,1 +1,1 @@
-var mnemonic = "worth bachelor hurdle tree rack page silent galaxy grace scrap casual smoke";
+var mnemonic = "episode rhythm wheat valid weekend vendor food walk still record mix prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee brush barely negative parade mass jealous flip output ranch solve hurt";
+var mnemonic = "beach organ quote token risk explain powder patrol innocent mixture hunt whisper";

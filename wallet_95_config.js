@@ -1,1 +1,1 @@
-var mnemonic = "bless box shaft essence click loud dove argue word arrange that bottom";
+var mnemonic = "exhibit clay heavy arctic banana kind hour aim regret blush cricket harvest";

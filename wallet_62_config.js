@@ -1,1 +1,1 @@
-var mnemonic = "anger emotion vicious middle thrive lend impulse myth random veteran tilt reform";
+var mnemonic = "glory insect false skirt dragon oval doctor multiply museum battle satisfy mushroom";

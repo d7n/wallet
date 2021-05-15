@@ -1,1 +1,1 @@
-var mnemonic = "actual wise hospital soft opinion alter silver retire size skull alley plate";
+var mnemonic = "need hollow neither attend slot scale evoke punch short regret rifle yard";

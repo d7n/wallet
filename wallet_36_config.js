@@ -1,1 +1,1 @@
-var mnemonic = "face weather copper song tumble detail abandon object job purchase march warm";
+var mnemonic = "purity wet truck shadow assume extra panda swear urban devote whale unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "earth waste aware salmon shoulder online clown inflict kitchen lawsuit entire assault";
+var mnemonic = "pulp comic cancel fun grid coconut pave doll sibling kiss method creek";

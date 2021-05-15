@@ -1,1 +1,1 @@
-var mnemonic = "all shy shoe bargain eagle head borrow barely drift fish answer machine";
+var mnemonic = "tribe curious estate fiber output face foil spell twist birth glimpse gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "wall snap portion kangaroo resource aerobic inherit device struggle return doctor resource";
+var mnemonic = "friend job expand resemble pear grief steak muffin sugar west science gain";

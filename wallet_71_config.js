@@ -1,1 +1,1 @@
-var mnemonic = "churn easily stamp that spray sure opera month unhappy jaguar local minute";
+var mnemonic = "wage when swallow able hover midnight describe chaos circle mercy bright hurt";

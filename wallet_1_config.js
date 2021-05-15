@@ -1,1 +1,1 @@
-var mnemonic = "record diamond there audit apart coffee noise engage fortune captain flat long";
+var mnemonic = "mixture glimpse mansion skate hand wasp dolphin village feed vacant little object";

@@ -1,1 +1,1 @@
-var mnemonic = "wire best usual genre tribe rent focus acid long rigid wave rare";
+var mnemonic = "echo alley bracket mom give nuclear grant buddy debris siren chuckle parrot";

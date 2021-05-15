@@ -1,1 +1,1 @@
-var mnemonic = "wrestle raw exhaust rookie jaguar blast region clip stool flush lunch bounce";
+var mnemonic = "toss sign item opera moral liar reject wife praise ghost use spice";

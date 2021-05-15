@@ -1,1 +1,1 @@
-var mnemonic = "drum above dinosaur wink measure march cover snake champion gift keen relief";
+var mnemonic = "brown side useful afraid cat tragic weather describe worry diary regret space";

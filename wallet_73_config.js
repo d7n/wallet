@@ -1,1 +1,1 @@
-var mnemonic = "melody guide foil permit radio loan pilot fame inside either fantasy goose";
+var mnemonic = "protect whip worry lyrics sad mesh panel card wall tenant fence must";

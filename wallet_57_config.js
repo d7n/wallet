@@ -1,1 +1,1 @@
-var mnemonic = "cupboard flight math rather limb rural broom remove few story antique harvest";
+var mnemonic = "bag limb shadow enable idle uphold siren ridge left warrior champion success";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle dad lizard melt swarm toy picture august maximum outdoor danger play";
+var mnemonic = "legend puzzle speed kid tank already eight select maximum time sense youth";

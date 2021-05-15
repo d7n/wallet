@@ -1,1 +1,1 @@
-var mnemonic = "sign object treat twist update prepare island latin gift shoulder key pupil";
+var mnemonic = "degree cover amount art cheese also fresh flush regular napkin excite powder";

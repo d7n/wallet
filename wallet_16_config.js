@@ -1,1 +1,1 @@
-var mnemonic = "yard idle dilemma parrot first indoor brave snake emotion aspect grape laugh";
+var mnemonic = "menu source avocado banner cute slush prison crack jealous ozone level loyal";

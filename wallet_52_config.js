@@ -1,1 +1,1 @@
-var mnemonic = "sunny pottery juice settle tape thank near pact source kid spend brisk";
+var mnemonic = "rule chaos crystal cloud elite fancy involve zoo join orbit sell believe";

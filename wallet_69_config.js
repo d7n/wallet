@@ -1,1 +1,1 @@
-var mnemonic = "anxiety sock zoo extend mandate force wise caution wood gloom faculty pledge";
+var mnemonic = "melt final tenant myth wet wave pipe eternal found twin fluid camera";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply ancient fine furnace frequent carpet action dizzy letter increase cupboard lock";
+var mnemonic = "cinnamon favorite giggle hat flee muffin rigid narrow museum level motion tattoo";

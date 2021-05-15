@@ -1,1 +1,1 @@
-var mnemonic = "room problem execute arrange barrel harvest task march sight matter defense royal";
+var mnemonic = "wheel civil tomato much visual member bid boring shoulder chief palm chest";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer rubber motion sense page print outdoor ancient head phrase clay tone";
+var mnemonic = "sniff drink virus cruise rule wish exile album cattle anger knock tilt";

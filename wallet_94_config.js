@@ -1,1 +1,1 @@
-var mnemonic = "swamp cluster kitchen output visual return lesson exclude evidence tilt island gasp";
+var mnemonic = "kangaroo label cart box seed switch laundry mom wagon actress payment fold";

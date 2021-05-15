@@ -1,1 +1,1 @@
-var mnemonic = "soft naive snack patrol portion ski famous scheme orbit oil report trade";
+var mnemonic = "oblige torch layer stand negative bird eagle tank undo laundry behave shrug";

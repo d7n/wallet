@@ -1,1 +1,1 @@
-var mnemonic = "resist nut between birth liquid crack fold develop surround sketch cousin riot";
+var mnemonic = "ramp virtual dragon better virtual cake embrace marriage trade dinosaur common fat";

@@ -1,1 +1,1 @@
-var mnemonic = "soda rebel depend original remember bottom quantum fee lyrics mango pulse slide";
+var mnemonic = "noise order physical accident focus wing nature damage pause garment margin main";

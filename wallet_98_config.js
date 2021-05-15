@@ -1,1 +1,1 @@
-var mnemonic = "army flower derive critic cheap lunar height honey apple fame fashion what";
+var mnemonic = "judge quit truck machine wheat place defense coil asthma initial debris kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver coast series all submit bottom belt rare sting syrup dolphin tumble";
+var mnemonic = "hurry unfair provide sword honey crucial relief tone veteran rebel net nose";

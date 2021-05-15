@@ -1,1 +1,1 @@
-var mnemonic = "water wedding alarm humor control saddle icon guitar pencil video language pigeon";
+var mnemonic = "online embark subway reduce play ordinary dream believe achieve exclude stamp prize";

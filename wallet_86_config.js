@@ -1,1 +1,1 @@
-var mnemonic = "display circle little gossip seat void broccoli unusual upon rain south link";
+var mnemonic = "dust entry phone december sick address manual tower supreme hole measure best";

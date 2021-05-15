@@ -1,1 +1,1 @@
-var mnemonic = "disorder hundred jar often job night latin height february kiwi tuition flee";
+var mnemonic = "park rude tunnel spoon puzzle foster clump equip measure cause common wild";

@@ -1,1 +1,1 @@
-var mnemonic = "side auto brave layer ripple boss turtle isolate giant push spy degree";
+var mnemonic = "physical tool talent gate planet artwork hamster wise spray insane track odor";

@@ -1,1 +1,1 @@
-var mnemonic = "wine pudding skill wait muffin echo enrich exchange praise fat demand will";
+var mnemonic = "shuffle rifle embark kit screen drip fiction produce either tree shadow hair";

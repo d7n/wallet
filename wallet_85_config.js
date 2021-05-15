@@ -1,1 +1,1 @@
-var mnemonic = "system income cash approve about rug cradle bird cactus before insect share";
+var mnemonic = "detail news grunt flight actor net grid enable sight achieve gift universe";

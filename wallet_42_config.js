@@ -1,1 +1,1 @@
-var mnemonic = "cement lake hat response assume fame protect royal squeeze tiger decrease west";
+var mnemonic = "moment alone key light account general grain opera remove sunny sign chase";

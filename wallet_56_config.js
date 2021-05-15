@@ -1,1 +1,1 @@
-var mnemonic = "caution athlete poet ocean category stay aerobic stool echo recipe street ladder";
+var mnemonic = "clap dry worth lawsuit aim box dawn loyal one stool baby topic";

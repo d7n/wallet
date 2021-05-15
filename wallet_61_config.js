@@ -1,1 +1,1 @@
-var mnemonic = "tourist mimic surface rail emerge ski dance leopard ordinary among hurry sun";
+var mnemonic = "harbor print resemble artefact mask arm feel online fruit frog pattern genius";

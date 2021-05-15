@@ -1,1 +1,1 @@
-var mnemonic = "resource pudding warrior cup bike minor tonight cannon bus dignity matrix gather";
+var mnemonic = "replace random hold scale book priority permit casino nerve glare birth law";

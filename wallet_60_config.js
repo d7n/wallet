@@ -1,1 +1,1 @@
-var mnemonic = "fresh drastic start cloud capital thunder jaguar garlic paper ozone crew awesome";
+var mnemonic = "amateur urban pink visit march entire brass flavor turn viable pen essay";

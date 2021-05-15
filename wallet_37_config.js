@@ -1,1 +1,1 @@
-var mnemonic = "silk draw sheriff miracle end drip involve need glimpse night trip sample";
+var mnemonic = "rebel liquid shaft wife execute marine elevator uncover bone feed crystal soon";

@@ -1,1 +1,1 @@
-var mnemonic = "until seek term trim fatigue improve expect bus strong employ throw special";
+var mnemonic = "burger cat shoulder alien special body leg owner ramp object into coast";

@@ -1,1 +1,1 @@
-var mnemonic = "month differ useless ten broccoli project spy walnut van tower law patch";
+var mnemonic = "announce three carry frog embrace any kitten today give gown company sting";

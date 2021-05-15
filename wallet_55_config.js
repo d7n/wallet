@@ -1,1 +1,1 @@
-var mnemonic = "siege disease nasty unfair swarm surround dolphin fantasy walnut provide process turn";
+var mnemonic = "equip hedgehog offer dignity impact melody sad daring priority trouble enjoy situate";

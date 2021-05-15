@@ -1,1 +1,1 @@
-var mnemonic = "service game mercy furnace border inject gown basket cruise wheel hobby sell";
+var mnemonic = "north helmet ensure below short ribbon satoshi steak wolf middle fall soup";

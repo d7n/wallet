@@ -1,1 +1,1 @@
-var mnemonic = "face gossip suggest long drift favorite exclude hospital emerge major practice hello";
+var mnemonic = "green arrow suit height manual gather finish fury drift grit parent donkey";

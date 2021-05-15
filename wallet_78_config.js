@@ -1,1 +1,1 @@
-var mnemonic = "island trim copper early vacuum lunar success fringe alert reopen story yard";
+var mnemonic = "task swarm tourist plunge member grow luggage coral tomato situate poem elbow";

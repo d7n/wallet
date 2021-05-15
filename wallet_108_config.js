@@ -1,1 +1,1 @@
-var mnemonic = "impact dirt foam oxygen strategy wall birth plug sign work hawk involve";
+var mnemonic = "aim patient olympic civil accident leader scout render real plate unveil mixture";

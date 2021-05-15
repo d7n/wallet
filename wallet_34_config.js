@@ -1,1 +1,1 @@
-var mnemonic = "onion flavor movie square dynamic tone quick sausage bacon marriage six bid";
+var mnemonic = "mirror habit veteran unveil shaft discover radar oval thrive million trick rather";

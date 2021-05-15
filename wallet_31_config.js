@@ -1,1 +1,1 @@
-var mnemonic = "mercy main side near give regret horse unique ugly orphan student merry";
+var mnemonic = "glide retreat antenna evolve east stable odor shrimp weasel focus advice joke";
