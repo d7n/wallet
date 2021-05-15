@@ -1,1 +1,1 @@
-var mnemonic = "brief cart bundle transfer west foster cradle keep moon merry unlock figure";
+var mnemonic = "actor arena people apology act basic lobster magic square garlic round mixed";

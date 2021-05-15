@@ -1,1 +1,1 @@
-var mnemonic = "anger spirit boat ahead rigid exile jewel stem try link sausage fine";
+var mnemonic = "proud kiss enlist swear estate crush february push luggage route divert clown";

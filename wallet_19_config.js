@@ -1,1 +1,1 @@
-var mnemonic = "family oval modify snap chuckle subject fruit final twelve under nature atom";
+var mnemonic = "machine pyramid boost salon video ill seat install chalk venue weapon benefit";

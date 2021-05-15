@@ -1,1 +1,1 @@
-var mnemonic = "screen hybrid wall duck sentence retire bullet glove ask gate dilemma fit";
+var mnemonic = "afraid guess amused gate quarter swear control uniform alley bean ridge film";

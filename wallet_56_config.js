@@ -1,1 +1,1 @@
-var mnemonic = "flee cave luxury enable also black zone dragon flush cool mansion what";
+var mnemonic = "base unable blue extra install draw explain valve sadness angle manual mention";

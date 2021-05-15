@@ -1,1 +1,1 @@
-var mnemonic = "alien eternal ceiling adjust sense visual subway grunt effort mind myself rather";
+var mnemonic = "juice blue long until wise olympic other jelly keep horror stem mango";

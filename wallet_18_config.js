@@ -1,1 +1,1 @@
-var mnemonic = "travel voice bottom remove tiny trial dress acquire chest inquiry main follow";
+var mnemonic = "ski car wheel stereo thought trade trial feature popular idle word second";

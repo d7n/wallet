@@ -1,1 +1,1 @@
-var mnemonic = "seek cruise pluck gossip pear endorse damp pyramid control paper obtain forget";
+var mnemonic = "property game test firm gain purity copy tomorrow renew switch cute bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "weather grief milk increase garbage two crisp treat fit credit pink garment";
+var mnemonic = "tooth either clarify canvas main jungle wealth ready soccer enjoy cycle tuition";

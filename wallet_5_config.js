@@ -1,1 +1,1 @@
-var mnemonic = "theory wagon rely govern change drive glow stock all alien wagon enemy";
+var mnemonic = "fatal inch frown proof fall pet present identify hurdle daughter credit kid";

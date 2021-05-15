@@ -1,1 +1,1 @@
-var mnemonic = "public question advice swing endless system flat novel august copy follow sick";
+var mnemonic = "wine spirit fruit subject worth tilt tree combine tenant sun diamond island";

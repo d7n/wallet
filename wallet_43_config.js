@@ -1,1 +1,1 @@
-var mnemonic = "group popular fall agree that deputy shuffle true people practice tumble park";
+var mnemonic = "clerk broken area replace pole brick diary round primary warm favorite slam";

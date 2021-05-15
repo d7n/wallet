@@ -1,1 +1,1 @@
-var mnemonic = "poverty bridge orchard cook account capable economy ozone quantum degree render cat";
+var mnemonic = "crunch flock between suspect author claim rabbit monster trap youth protect decade";

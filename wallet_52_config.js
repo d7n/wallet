@@ -1,1 +1,1 @@
-var mnemonic = "solution check dwarf excess clock caught deliver extra affair hidden great involve";
+var mnemonic = "debris invest final pride frozen reason ahead pole improve snap dutch egg";

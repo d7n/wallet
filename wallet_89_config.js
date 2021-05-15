@@ -1,1 +1,1 @@
-var mnemonic = "awesome author business faint replace wrong twice extend tunnel old smart ritual";
+var mnemonic = "pill yellow coil dance maze blossom pizza rocket flock state bridge tongue";

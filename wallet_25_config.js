@@ -1,1 +1,1 @@
-var mnemonic = "verify patch car travel option oil diary menu diesel approve police rookie";
+var mnemonic = "digital around wheat regular curve modify notice load volcano street divide abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "grain fat right nasty month harsh duty awake shed exit estate add";
+var mnemonic = "exit animal harbor gas ignore erode disease large common luggage asthma nothing";

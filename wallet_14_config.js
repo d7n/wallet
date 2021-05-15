@@ -1,1 +1,1 @@
-var mnemonic = "crop cart vault spot mail kick buyer soft sun pledge right reopen";
+var mnemonic = "inmate elite fuel measure leave summer tackle click field shy frozen oak";

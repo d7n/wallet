@@ -1,1 +1,1 @@
-var mnemonic = "hood cook caught uphold agree gauge slice valley traffic icon voyage screen";
+var mnemonic = "inhale mom pass size retire welcome pair retire crack flight retreat address";

@@ -1,1 +1,1 @@
-var mnemonic = "become become celery kiwi office situate inflict fragile history trophy install outer";
+var mnemonic = "gate sport kiss slush farm leg episode expect jacket loop marble believe";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn exile kitchen found hold divert prosper dragon pottery sure expand refuse";
+var mnemonic = "manual boss before turkey camp usual right rotate page select install runway";

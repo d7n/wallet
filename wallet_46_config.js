@@ -1,1 +1,1 @@
-var mnemonic = "carbon know rare scale share busy music draw balcony sausage tool never";
+var mnemonic = "club history pony decade quit divorce doctor reveal cream educate square dumb";

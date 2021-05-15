@@ -1,1 +1,1 @@
-var mnemonic = "gravity soap divert tell chef wrong ready immune lyrics until foil name";
+var mnemonic = "wild six today balcony object hotel system answer banner congress bunker woman";

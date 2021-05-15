@@ -1,1 +1,1 @@
-var mnemonic = "else apple face height surprise shed begin happy wheat chimney moment job";
+var mnemonic = "radio fluid antique waste latin limit display jungle arm cliff deal acquire";

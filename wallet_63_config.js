@@ -1,1 +1,1 @@
-var mnemonic = "fade gloom local obscure desert relax confirm festival genius fiscal tunnel consider";
+var mnemonic = "deputy race silk parrot stand weekend vivid anxiety sign bench marble success";

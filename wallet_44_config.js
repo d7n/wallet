@@ -1,1 +1,1 @@
-var mnemonic = "camp box fury toy claim solve evil merge kick old announce bind";
+var mnemonic = "must kick bench erupt goat direct tomato bundle soon lesson gold sword";

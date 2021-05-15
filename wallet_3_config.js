@@ -1,1 +1,1 @@
-var mnemonic = "daughter bid illegal slot exhaust arrow mention connect client water govern unable";
+var mnemonic = "lock survey tuition retire pig live arctic arch spin dentist multiply garment";

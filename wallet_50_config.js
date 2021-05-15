@@ -1,1 +1,1 @@
-var mnemonic = "welcome accuse expose stool lab point era bag seminar lunar amateur announce";
+var mnemonic = "raw dune cram guess ostrich describe bike rubber isolate pudding mistake unlock";

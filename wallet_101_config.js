@@ -1,1 +1,1 @@
-var mnemonic = "essence quiz size switch neither improve traffic among nation swift dumb kite";
+var mnemonic = "educate waste despair frame truck gallery jungle true crew awesome ceiling melody";

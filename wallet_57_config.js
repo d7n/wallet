@@ -1,1 +1,1 @@
-var mnemonic = "frost window claw credit sea entry scatter key giant wood affair record";
+var mnemonic = "sauce minor permit oak sweet index select basket foster cereal exist betray";

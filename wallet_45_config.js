@@ -1,1 +1,1 @@
-var mnemonic = "pluck finish fuel live tourist token grid surge sun clarify scout blouse";
+var mnemonic = "below company wish list glory issue fatal team eternal piece truck youth";

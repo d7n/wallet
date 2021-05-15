@@ -1,1 +1,1 @@
-var mnemonic = "army retire nerve rapid science check fury interest essay blanket mixture jaguar";
+var mnemonic = "under other twist render seven ability vote fresh mass excess flavor bomb";

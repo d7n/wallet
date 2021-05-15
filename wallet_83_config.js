@@ -1,1 +1,1 @@
-var mnemonic = "candy swarm embody window cigar congress run pyramid night scout tower fashion";
+var mnemonic = "guitar cruel detail cupboard face shadow offer asthma phrase tuna actual add";

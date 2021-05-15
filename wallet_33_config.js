@@ -1,1 +1,1 @@
-var mnemonic = "snack frozen biology prison horse uncover junior ill unlock uphold canoe onion";
+var mnemonic = "search price tell birth math amazing tuition unable insect budget concert sample";

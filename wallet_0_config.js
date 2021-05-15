@@ -1,1 +1,1 @@
-var mnemonic = "shuffle public siege toilet rural input village issue clap produce fatigue another";
+var mnemonic = "jump panic vehicle stairs good potato sniff strike private focus wave element";

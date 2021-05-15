@@ -1,1 +1,1 @@
-var mnemonic = "reduce impulse husband tool reveal physical innocent deal later kitten miracle pass";
+var mnemonic = "bless away flock nephew street pair stay carry dune rose popular vessel";

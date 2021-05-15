@@ -1,1 +1,1 @@
-var mnemonic = "baby resource mix smoke service father level sweet victory aspect rather risk";
+var mnemonic = "wrist concert visual drive pear notable child foot episode lesson daughter toe";

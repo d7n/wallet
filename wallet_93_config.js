@@ -1,1 +1,1 @@
-var mnemonic = "pave link sock spider youth apology inform price blanket flower fiction actual";
+var mnemonic = "check merge sail popular identify stem asthma prevent select load space old";

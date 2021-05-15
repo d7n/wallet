@@ -1,1 +1,1 @@
-var mnemonic = "negative myself daughter segment fresh rocket cross trip fit awesome romance toddler";
+var mnemonic = "attitude rhythm peanut buffalo visit salad tonight enhance truly sniff win resist";

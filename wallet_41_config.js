@@ -1,1 +1,1 @@
-var mnemonic = "blast exhibit fortune leader gauge spray faith pumpkin input endless talent become";
+var mnemonic = "double leaf hammer hip throw regular swim above scale pave notice slide";

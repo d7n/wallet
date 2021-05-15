@@ -1,1 +1,1 @@
-var mnemonic = "tenant caught lock aim spin select make avoid protect badge speak mammal";
+var mnemonic = "cross feel address onion utility hobby bike increase butter depend lecture before";

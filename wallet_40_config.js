@@ -1,1 +1,1 @@
-var mnemonic = "pitch stomach trigger silent hope lizard inform speak idle dice upgrade duty";
+var mnemonic = "mutual about various comfort latin depart shoe process chaos street excite vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise season belt unfair chaos until duty arena hill funny grant priority";
+var mnemonic = "relax mesh fragile find suit nest toward guilt verify slim stairs flee";

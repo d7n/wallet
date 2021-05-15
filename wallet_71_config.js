@@ -1,1 +1,1 @@
-var mnemonic = "pencil vehicle tumble cake account window airport snack panic marine reason must";
+var mnemonic = "genius trim spirit two stairs buyer trend suspect help pear aspect bind";

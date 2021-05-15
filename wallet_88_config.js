@@ -1,1 +1,1 @@
-var mnemonic = "hour depth mind know trash search negative attend mother distance demise share";
+var mnemonic = "toward athlete blur rack scare pilot budget dad caution limit session laugh";

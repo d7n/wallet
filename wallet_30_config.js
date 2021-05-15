@@ -1,1 +1,1 @@
-var mnemonic = "gold immune equal athlete fever athlete poverty leopard try divorce caution enact";
+var mnemonic = "decrease ketchup flock derive fine renew dumb stable skirt amazing game milk";

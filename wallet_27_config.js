@@ -1,1 +1,1 @@
-var mnemonic = "forward exercise case author reveal submit forum hope gorilla music coconut cabbage";
+var mnemonic = "essence elegant dynamic above pupil leader predict media remain earn enter more";

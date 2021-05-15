@@ -1,1 +1,1 @@
-var mnemonic = "choice budget prosper guard ice circle panel cook razor promote empower mind";
+var mnemonic = "dolphin naive leg demise seven position already army mention note cycle science";

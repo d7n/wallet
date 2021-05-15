@@ -1,1 +1,1 @@
-var mnemonic = "report practice roast daughter noodle blur crumble short crime crouch impose bike";
+var mnemonic = "scrub economy clerk wreck daughter describe drop domain game balance anger short";

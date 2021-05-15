@@ -1,1 +1,1 @@
-var mnemonic = "wing royal orchard pencil style salt middle leopard boring deny giraffe runway";
+var mnemonic = "very select club believe forum coffee item scout bunker relief wage lens";

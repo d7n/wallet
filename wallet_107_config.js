@@ -1,1 +1,1 @@
-var mnemonic = "couch mutual top twice ready sail hat author confirm swing coyote spell";
+var mnemonic = "cute rabbit female tonight exchange hedgehog trick trim produce exit law soft";

@@ -1,1 +1,1 @@
-var mnemonic = "battle churn custom smile upon tuition food feed thumb lecture fold best";
+var mnemonic = "order cry medal cool fetch erode cake question index fire use dose";

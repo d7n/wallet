@@ -1,1 +1,1 @@
-var mnemonic = "hammer orphan gaze video theme fragile border rib fossil dry recipe fit";
+var mnemonic = "decade time faint waste million dove horse kid denial obvious type sport";

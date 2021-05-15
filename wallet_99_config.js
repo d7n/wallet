@@ -1,1 +1,1 @@
-var mnemonic = "dice still help spare august garlic token flame own satoshi plastic hammer";
+var mnemonic = "radar mail dilemma boy knee smoke lemon elegant start scrub screen misery";

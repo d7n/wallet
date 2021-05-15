@@ -1,1 +1,1 @@
-var mnemonic = "spell knee vast glimpse defense web own insect thought tumble enjoy hover";
+var mnemonic = "portion energy nice field solar lawsuit claw exist wedding prefer never witness";

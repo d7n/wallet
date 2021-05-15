@@ -1,1 +1,1 @@
-var mnemonic = "soap own blade solar skull consider repeat master depth welcome desk flame";
+var mnemonic = "churn sketch taste hammer army consider slice robot owner afford dinosaur artwork";

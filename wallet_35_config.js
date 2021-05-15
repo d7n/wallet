@@ -1,1 +1,1 @@
-var mnemonic = "club risk mother jealous federal sadness agent slender soda horn space celery";
+var mnemonic = "shadow conduct mandate source vivid simple goose vicious town end icon worry";

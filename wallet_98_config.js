@@ -1,1 +1,1 @@
-var mnemonic = "lyrics gate rice delay twice prison service sentence salt blood panda penalty";
+var mnemonic = "sick bracket robot cloth badge build ankle lunar jump wish truth wolf";

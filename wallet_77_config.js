@@ -1,1 +1,1 @@
-var mnemonic = "rotate neck liquid shallow shrug spare hair spatial section reject season spawn";
+var mnemonic = "suit spice brisk pattern card toy number spirit rich imitate scare provide";

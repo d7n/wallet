@@ -1,1 +1,1 @@
-var mnemonic = "kidney mango require state dog sand pitch shine thing alley huge approve";
+var mnemonic = "fee curve planet immune east box subway solar antenna road weasel deputy";

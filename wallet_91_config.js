@@ -1,1 +1,1 @@
-var mnemonic = "energy moon become reward okay regular ecology direct craft bomb space math";
+var mnemonic = "ask radar infant include task cram industry axis nurse volume nose vacuum";

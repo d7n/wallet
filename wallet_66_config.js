@@ -1,1 +1,1 @@
-var mnemonic = "salmon skull crystal deposit throw pond canal success luxury once swing rain";
+var mnemonic = "leave arena remove silent seven strategy symptom genuine same arena liquid birth";

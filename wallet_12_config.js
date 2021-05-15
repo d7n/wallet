@@ -1,1 +1,1 @@
-var mnemonic = "civil cute flock olympic upon talent invite battle lottery cruel tomorrow damp";
+var mnemonic = "bunker apology donate kiss vivid rack plate regular snow math update attract";

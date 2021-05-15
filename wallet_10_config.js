@@ -1,1 +1,1 @@
-var mnemonic = "woman either nation green scheme damage fruit sand lazy cloth define injury";
+var mnemonic = "damage depart park manual flat parent dove narrow march job room core";

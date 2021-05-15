@@ -1,1 +1,1 @@
-var mnemonic = "bench wife gentle fade sail spider one grunt ridge trial confirm warm";
+var mnemonic = "misery myself ice menu assist august such loop theme box focus picnic";

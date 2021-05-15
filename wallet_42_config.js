@@ -1,1 +1,1 @@
-var mnemonic = "oil oblige apple butter property thought chase sight quit pizza pudding actor";
+var mnemonic = "tenant hire resemble funny advice shine fall beef volume area august blind";

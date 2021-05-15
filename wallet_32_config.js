@@ -1,1 +1,1 @@
-var mnemonic = "sword elephant since answer gym scrub brief skull six step wealth nerve";
+var mnemonic = "cool loyal kick nature add hunt blush unusual bring wrong valve list";

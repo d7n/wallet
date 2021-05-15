@@ -1,1 +1,1 @@
-var mnemonic = "submit luggage patch visit athlete elevator nurse school kitchen festival desk base";
+var mnemonic = "ecology purchase crew sister brief famous note credit attack juice amazing give";

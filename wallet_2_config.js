@@ -1,1 +1,1 @@
-var mnemonic = "aunt cause boss west find wash dial veteran mechanic warfare relax energy";
+var mnemonic = "equip west consider armor awake arrive dune team move describe shoulder stable";

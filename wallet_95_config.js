@@ -1,1 +1,1 @@
-var mnemonic = "cupboard adult van bean harvest ahead burst degree dawn inhale desert client";
+var mnemonic = "crucial narrow fiction meat picture what cricket transfer cat enact swallow envelope";

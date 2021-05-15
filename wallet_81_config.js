@@ -1,1 +1,1 @@
-var mnemonic = "cupboard shell bacon canvas balcony measure inch fence size damp iron evil";
+var mnemonic = "actual illness water tomorrow net clock elevator divert maid moral sort east";

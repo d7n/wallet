@@ -1,1 +1,1 @@
-var mnemonic = "opinion acid health slow spend liquid blame vague genius recall tube sing";
+var mnemonic = "never rebel account drop grit oven chat column obscure service voyage flat";

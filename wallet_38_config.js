@@ -1,1 +1,1 @@
-var mnemonic = "wise orange seek connect only fat gloom volume rack immense electric armed";
+var mnemonic = "nose disease occur vote mountain palace crystal busy health resource noise spring";

@@ -1,1 +1,1 @@
-var mnemonic = "disease pilot holiday public motor ask jewel myth coil tourist meadow license";
+var mnemonic = "broom tunnel sun daring notable ball exhaust negative option thrive join exclude";

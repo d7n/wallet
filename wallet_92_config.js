@@ -1,1 +1,1 @@
-var mnemonic = "toward ramp tilt critic timber zone lounge acid mad deal captain access";
+var mnemonic = "final wheat sorry antenna train mushroom crew lab educate keep say vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor farm polar thank network labor absent quote drama cluster iron catalog";
+var mnemonic = "train inside priority unhappy fog country kitten render seat exhibit answer able";

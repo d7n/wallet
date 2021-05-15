@@ -1,1 +1,1 @@
-var mnemonic = "lunch barely claw fame canoe solar banana dismiss amused century sugar ankle";
+var mnemonic = "frequent grain hill pottery fresh muscle list chest meat wear bundle skill";

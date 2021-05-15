@@ -1,1 +1,1 @@
-var mnemonic = "drama brick inquiry faint shrug tackle vehicle sheriff task often trumpet alcohol";
+var mnemonic = "armor side iron letter quiz jazz rough patrol father library sheriff miss";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle end tornado time wire radar pizza scene three end phrase cook";
+var mnemonic = "later dragon extend lab category sand sorry dog danger shield innocent fluid";

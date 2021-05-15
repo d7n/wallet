@@ -1,1 +1,1 @@
-var mnemonic = "boy give jazz describe risk garment dose athlete term nothing outside primary";
+var mnemonic = "film alien author grain census awful stairs few soap clever buzz burden";

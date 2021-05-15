@@ -1,1 +1,1 @@
-var mnemonic = "major gown other round cousin drum wasp only object oak exist mushroom";
+var mnemonic = "leaf love bullet despair blind bundle ready topic glass amused mad velvet";

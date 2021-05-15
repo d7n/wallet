@@ -1,1 +1,1 @@
-var mnemonic = "float horror approve print fashion title club outside coyote actress reflect record";
+var mnemonic = "dwarf gap execute scorpion spoil consider chronic decide kite auction middle vapor";

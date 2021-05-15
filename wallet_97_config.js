@@ -1,1 +1,1 @@
-var mnemonic = "carpet mouse travel gather gravity guitar april depend theme danger skull rug";
+var mnemonic = "remain long brass chef foster february series armor fall forest discover march";

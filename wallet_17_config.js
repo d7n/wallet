@@ -1,1 +1,1 @@
-var mnemonic = "bike crop afraid oblige flag wonder picture loan humor ivory include tuition";
+var mnemonic = "private twenty buddy pilot copper approve concert onion festival rotate aunt arctic";

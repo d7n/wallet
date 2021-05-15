@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo put busy job thing toss pond chalk wear patrol rude marine";
+var mnemonic = "sample spider noble plunge option position note prevent sort kiss beyond unique";

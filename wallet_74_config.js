@@ -1,1 +1,1 @@
-var mnemonic = "flee curtain dragon giggle sentence expand kitchen magic honey luggage convince fog";
+var mnemonic = "dinosaur pupil property behave potato antique click mystery sight mule skate strike";

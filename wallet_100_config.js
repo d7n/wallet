@@ -1,1 +1,1 @@
-var mnemonic = "toward truly color arrange endorse virus bargain change daring live market distance";
+var mnemonic = "polar place climb evidence soda dice evoke all absent follow cheese sustain";

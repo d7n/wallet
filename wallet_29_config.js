@@ -1,1 +1,1 @@
-var mnemonic = "airport spare extra alpha thank soccer such vapor cupboard debate someone various";
+var mnemonic = "pole face summer patient depend tower survey inmate tiny fly tiger retreat";

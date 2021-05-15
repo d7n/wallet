@@ -1,1 +1,1 @@
-var mnemonic = "result ritual cannon hurdle replace wreck develop betray laptop bulk elder vendor";
+var mnemonic = "field canal arrange glove tool maple universe aware arrow script found worth";

@@ -1,1 +1,1 @@
-var mnemonic = "gate point income nerve tuition soda front laugh sand dash divide find";
+var mnemonic = "nose vehicle era mistake scorpion furnace garbage ensure response noodle manage board";

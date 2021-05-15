@@ -1,1 +1,1 @@
-var mnemonic = "finish token shuffle gauge lunch plug build awful marine rare toe ride";
+var mnemonic = "depth shiver inquiry card mask silk rule shrimp hotel transfer curtain print";

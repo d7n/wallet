@@ -1,1 +1,1 @@
-var mnemonic = "ribbon frequent shine trend razor forget soda charge either impulse theory grid";
+var mnemonic = "damage elbow oyster urge embark jeans banner brown violin foam off few";

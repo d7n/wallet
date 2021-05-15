@@ -1,1 +1,1 @@
-var mnemonic = "sister arm gloom drift tent fun nominee pyramid lunar pipe rhythm essay";
+var mnemonic = "knife curve tuna hen initial book hello mercy power type uphold mango";

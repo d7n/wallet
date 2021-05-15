@@ -1,1 +1,1 @@
-var mnemonic = "result craft embark museum black hamster coyote total benefit claw match parent";
+var mnemonic = "purpose void vocal trophy super parent chapter taste sell rather spray dose";
