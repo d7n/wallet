@@ -1,1 +1,1 @@
-var mnemonic = "depth sunset victory useful account loan fork address please jaguar merit right";
+var mnemonic = "virtual board buzz fetch worry elevator attack diamond stable system holiday retreat";

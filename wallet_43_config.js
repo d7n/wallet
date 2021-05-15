@@ -1,1 +1,1 @@
-var mnemonic = "mansion credit junior ten census mention idle throw crawl side essay what";
+var mnemonic = "lyrics heart palm tragic salute nothing eyebrow stage also strike stove that";

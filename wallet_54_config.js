@@ -1,1 +1,1 @@
-var mnemonic = "bubble mesh summer lumber arrest wonder vacant glimpse insane impact describe cream";
+var mnemonic = "swing pass matrix attitude width decade spread stick luggage food ranch hover";

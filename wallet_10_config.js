@@ -1,1 +1,1 @@
-var mnemonic = "rocket parent shy measure empower junk spike explain seek throw edge airport";
+var mnemonic = "wasp host insect track lesson empower toilet member when miss riot unaware";

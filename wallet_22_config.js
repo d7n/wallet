@@ -1,1 +1,1 @@
-var mnemonic = "trial private fix predict skate income very filter jewel tongue club judge";
+var mnemonic = "shine camera midnight pink meadow tooth path school pair frozen pet under";

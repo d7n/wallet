@@ -1,1 +1,1 @@
-var mnemonic = "cute increase grape wrist obvious retreat trade magnet knee law oval opera";
+var mnemonic = "alien income earn another enrich sport mobile slice carpet earth connect route";

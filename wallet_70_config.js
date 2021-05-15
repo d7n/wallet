@@ -1,1 +1,1 @@
-var mnemonic = "piano absorb cotton crush clerk claw cool curtain will inquiry seek profit";
+var mnemonic = "anchor blast sphere wear domain fold label smooth ozone lunar equip river";

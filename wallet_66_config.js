@@ -1,1 +1,1 @@
-var mnemonic = "other ride unveil nest wink essay print sand local juice exhaust bone";
+var mnemonic = "strategy crane ancient cave nurse armor day defy loop famous random rocket";

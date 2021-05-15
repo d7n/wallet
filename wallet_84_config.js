@@ -1,1 +1,1 @@
-var mnemonic = "baby success elite lens turtle crystal pulp code want treat endorse flat";
+var mnemonic = "special gather mix flush agree tape quantum shallow ensure clever farm process";

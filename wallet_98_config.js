@@ -1,1 +1,1 @@
-var mnemonic = "salute victory pig inhale grief hour remove crouch hybrid cruise burden resource";
+var mnemonic = "kidney grain wheat aware mirror culture warfare cat surprise zone pair scrap";

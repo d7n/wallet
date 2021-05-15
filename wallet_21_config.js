@@ -1,1 +1,1 @@
-var mnemonic = "twist crack piece situate say one robust ship steel because february air";
+var mnemonic = "today chaos rescue address roof buyer festival pact rate sport tooth luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "myth biology clarify coin canoe mesh parade chief powder outside master seek";
+var mnemonic = "estate drive damage select trip board learn hire sun female kid valve";

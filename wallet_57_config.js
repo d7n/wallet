@@ -1,1 +1,1 @@
-var mnemonic = "glory bread goddess brass panel plastic great multiply sniff afford donor essence";
+var mnemonic = "festival ecology entry visa tackle caught surface sun crash pledge west strike";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust anchor pause grocery tobacco gorilla bright famous device faith lady clean";
+var mnemonic = "arrive loop joke auto envelope topic concert donkey arctic turtle coach season";

@@ -1,1 +1,1 @@
-var mnemonic = "path boat enable select crime capital history matrix draw token visit addict";
+var mnemonic = "blade baby renew educate abstract barrel market solution raccoon giraffe chunk protect";

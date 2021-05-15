@@ -1,1 +1,1 @@
-var mnemonic = "benefit buyer daring year client people vault fatal south cart certain caught";
+var mnemonic = "fix uncle endless one cash reunion whip toss stick embody lake topple";

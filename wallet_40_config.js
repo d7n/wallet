@@ -1,1 +1,1 @@
-var mnemonic = "knock bring scene include exist object apple domain twist slight mammal section";
+var mnemonic = "wrong tone napkin peace margin attack flower trade beach truth blind various";

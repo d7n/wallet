@@ -1,1 +1,1 @@
-var mnemonic = "prevent awesome raise charge truth fortune smooth regret tip mad manual merit";
+var mnemonic = "light nest celery civil wool wood neither choose shoulder grow cheese attack";

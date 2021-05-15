@@ -1,1 +1,1 @@
-var mnemonic = "yard circle giraffe bomb oxygen sustain ostrich six only barrel consider trumpet";
+var mnemonic = "orient gap never industry broccoli test diet orient hammer observe rubber genre";

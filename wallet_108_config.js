@@ -1,1 +1,1 @@
-var mnemonic = "orient garment december pledge stick price friend gauge solve begin satoshi mail";
+var mnemonic = "lawn juice misery picnic bamboo labor fiber two safe liberty toss cream";

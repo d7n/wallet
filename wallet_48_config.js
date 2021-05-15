@@ -1,1 +1,1 @@
-var mnemonic = "lady spin half anger claw trust state potato drill negative panther acquire";
+var mnemonic = "kitchen lazy like display mechanic atom canoe special rug bounce short client";

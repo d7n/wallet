@@ -1,1 +1,1 @@
-var mnemonic = "dolphin verb basket clog immense tragic enroll novel frequent stomach common rail";
+var mnemonic = "gloom lend room blind vote nation between family absurd fitness sail noble";

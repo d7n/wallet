@@ -1,1 +1,1 @@
-var mnemonic = "dry reason buyer veteran inner abuse relax timber sport dress auto timber";
+var mnemonic = "flat prepare truth wrong used typical casino shed robot awesome total genre";

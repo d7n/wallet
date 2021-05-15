@@ -1,1 +1,1 @@
-var mnemonic = "general screen husband unit cry permit prison welcome approve file pen mesh";
+var mnemonic = "among file prevent rule hat winter calm oak poet category duty orphan";

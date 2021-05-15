@@ -1,1 +1,1 @@
-var mnemonic = "describe impulse damp brand useful meat ostrich actual drift cushion fever damp";
+var mnemonic = "verb urge victory endless tunnel snake lava envelope hammer iron pass raven";

@@ -1,1 +1,1 @@
-var mnemonic = "food blue lonely wave stereo drama aerobic fork twelve bench clerk lazy";
+var mnemonic = "owner sting nerve girl thunder general panel hand design cradle stuff tone";

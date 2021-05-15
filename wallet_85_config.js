@@ -1,1 +1,1 @@
-var mnemonic = "exclude exercise leaf water congress reduce daughter finish fog exact setup marine";
+var mnemonic = "deputy maple melody air size wrap melody outer response farm library catalog";

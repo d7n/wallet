@@ -1,1 +1,1 @@
-var mnemonic = "monitor lesson coast noise exist shallow humor auto round guilt fit grocery";
+var mnemonic = "diary pretty song pact rain avoid napkin buddy subject bid foam grief";

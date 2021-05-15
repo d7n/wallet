@@ -1,1 +1,1 @@
-var mnemonic = "faint this furnace inspire bag cool health light phrase scan grow glory";
+var mnemonic = "remain word tip echo alley trophy wagon long congress just figure priority";

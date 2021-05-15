@@ -1,1 +1,1 @@
-var mnemonic = "runway stone adapt vast acquire banner water decorate young bulk sausage glimpse";
+var mnemonic = "valid arrest reject injury below cram diagram glance dune tube arctic december";

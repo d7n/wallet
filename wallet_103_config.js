@@ -1,1 +1,1 @@
-var mnemonic = "cube genre scene police tumble state spirit normal mean labor rapid defense";
+var mnemonic = "area affair point infant occur congress appear jewel explain fringe marble arch";

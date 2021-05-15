@@ -1,1 +1,1 @@
-var mnemonic = "olympic multiply tide way deposit hungry patch insane blade robot clinic illegal";
+var mnemonic = "walk illegal size receive little clock collect banana radio urban jealous siege";

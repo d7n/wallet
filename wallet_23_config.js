@@ -1,1 +1,1 @@
-var mnemonic = "cook option unfold spy brush print pluck response twist setup enter frozen";
+var mnemonic = "angle inside bridge harsh alpha real shop mushroom elbow sunset phone bubble";

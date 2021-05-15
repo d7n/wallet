@@ -1,1 +1,1 @@
-var mnemonic = "relax truth theory garment ranch first dinosaur thank give next firm giraffe";
+var mnemonic = "device business air laundry vacuum panic proud industry pink super upon mobile";

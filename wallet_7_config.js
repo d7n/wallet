@@ -1,1 +1,1 @@
-var mnemonic = "replace auction smile light solve riot one jar rebuild waste order broccoli";
+var mnemonic = "skate spy special talent glue oyster party logic camp cover spare hope";

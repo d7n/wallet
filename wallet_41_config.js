@@ -1,1 +1,1 @@
-var mnemonic = "second delay law laptop topic custom tree twelve exact scale roast token";
+var mnemonic = "furnace wise film aunt because hollow reform enemy method length supreme version";

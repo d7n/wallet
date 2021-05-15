@@ -1,1 +1,1 @@
-var mnemonic = "load act salon volcano upgrade wedding paper detail member bronze stove heavy";
+var mnemonic = "retire decline cereal reduce ring document inmate plate twice sentence dress baby";

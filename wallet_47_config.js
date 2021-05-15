@@ -1,1 +1,1 @@
-var mnemonic = "tattoo knife angle mention border cat ostrich jeans already option federal crew";
+var mnemonic = "badge later pistol exhaust neutral address clown already sorry sand top chase";

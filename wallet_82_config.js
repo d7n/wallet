@@ -1,1 +1,1 @@
-var mnemonic = "attitude paper egg student pioneer pink swim diesel exotic tent coyote limit";
+var mnemonic = "goat wolf satisfy hunt crush discover arm attitude mother machine bargain what";

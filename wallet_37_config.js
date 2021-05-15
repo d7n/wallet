@@ -1,1 +1,1 @@
-var mnemonic = "glory ticket blade earth trap mail diary unit ripple illegal design energy";
+var mnemonic = "speak erode piano episode chicken master moon claw miracle girl sell unique";

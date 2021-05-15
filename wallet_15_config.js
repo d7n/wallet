@@ -1,1 +1,1 @@
-var mnemonic = "hawk title ensure gas wrist idea salad spend cancel forum like net";
+var mnemonic = "more hair girl loyal include hope clay patient almost virtual bargain candy";

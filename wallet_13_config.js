@@ -1,1 +1,1 @@
-var mnemonic = "object infant popular witness pair pledge pigeon inhale reduce fork throw perfect";
+var mnemonic = "maple depart need eternal excite stand car roof enter solution weird cram";

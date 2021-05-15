@@ -1,1 +1,1 @@
-var mnemonic = "blood scheme reform february pattern party park attract sphere donkey ride such";
+var mnemonic = "wink ketchup narrow pulse health impulse other debate cart indoor kidney woman";

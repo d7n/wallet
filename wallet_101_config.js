@@ -1,1 +1,1 @@
-var mnemonic = "amazing brown boring earn velvet emerge acquire bike body pause alcohol oblige";
+var mnemonic = "myself misery zebra shrug load carpet antenna sign owner escape require pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat solve village gain kick poem wrist crater peanut thunder issue volcano";
+var mnemonic = "aisle access fatal woman success two lecture capable wagon skin road plate";

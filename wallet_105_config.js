@@ -1,1 +1,1 @@
-var mnemonic = "office mosquito suit ribbon stadium family canyon lemon blur stand burden alter";
+var mnemonic = "review stamp episode below season once able pair garment theory whisper fluid";

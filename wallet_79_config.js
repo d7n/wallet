@@ -1,1 +1,1 @@
-var mnemonic = "slide inhale rabbit plug plastic quit room oval coyote toilet orient acoustic";
+var mnemonic = "echo valve cake tumble chimney crash high fall square casino impact wild";

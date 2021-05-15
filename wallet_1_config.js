@@ -1,1 +1,1 @@
-var mnemonic = "prevent trumpet actual raven month orbit educate enlist consider knock pink embody";
+var mnemonic = "host label input rifle master duty clarify popular chimney stone razor voyage";

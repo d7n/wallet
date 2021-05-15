@@ -1,1 +1,1 @@
-var mnemonic = "ketchup source theory eternal steak unknown cart body smart lecture excite salon";
+var mnemonic = "raw soul uncover pride mercy also post version resemble trade brain pilot";

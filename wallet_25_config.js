@@ -1,1 +1,1 @@
-var mnemonic = "mistake radar federal worry good venue culture ramp congress odor seat amused";
+var mnemonic = "believe sketch busy snack surface wait derive broken solid swear organ share";

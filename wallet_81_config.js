@@ -1,1 +1,1 @@
-var mnemonic = "boil grunt pause dumb spirit grunt priority right giraffe entry about viable";
+var mnemonic = "reason sunset duck unique stool daughter tiger soccer depth list canvas joy";

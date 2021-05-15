@@ -1,1 +1,1 @@
-var mnemonic = "kind solid curtain liar spoon swarm search bright avoid romance shock crash";
+var mnemonic = "then sniff normal sell install ocean remain remind bitter screen envelope twin";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid ecology walk soda picture such exchange wall win mirror universe earth";
+var mnemonic = "mirror inform inject excuse busy rocket wrist window prepare follow size pattern";

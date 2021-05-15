@@ -1,1 +1,1 @@
-var mnemonic = "ecology cargo crisp cloud dismiss grocery pledge input balcony knee thumb midnight";
+var mnemonic = "pistol lounge matter peace wine window foam unique snap kind oppose chest";

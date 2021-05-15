@@ -1,1 +1,1 @@
-var mnemonic = "pledge clutch paddle victory foot clarify feed invite awake test burst multiply";
+var mnemonic = "repair anchor person ugly mind open balcony purity next inspire awesome pepper";

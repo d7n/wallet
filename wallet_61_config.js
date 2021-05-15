@@ -1,1 +1,1 @@
-var mnemonic = "shop sure situate beach give jewel media novel certain town try gospel";
+var mnemonic = "cross accident mammal phone pave upper runway fuel behave extend sponsor moon";

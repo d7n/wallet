@@ -1,1 +1,1 @@
-var mnemonic = "harsh guess chimney until thank cabbage force monkey wool prison boring proof";
+var mnemonic = "panther trial era private absent clarify hold creek foster bubble camp runway";

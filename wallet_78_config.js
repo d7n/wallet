@@ -1,1 +1,1 @@
-var mnemonic = "filter rude sphere whisper claim net rent rude process record vehicle seminar";
+var mnemonic = "message patrol glue oven impose gossip keen oven kick differ detect immense";

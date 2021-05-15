@@ -1,1 +1,1 @@
-var mnemonic = "junior horn mixture pizza cage feature elevator cabin assume banana strategy fix";
+var mnemonic = "creek enter dignity spoon shaft own current soap industry car trash firm";

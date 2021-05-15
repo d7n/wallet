@@ -1,1 +1,1 @@
-var mnemonic = "winter shaft lunch fine gloom spray hire jealous rate salute mention lawsuit";
+var mnemonic = "uniform cactus garment lab spy make company picture drink symptom another possible";

@@ -1,1 +1,1 @@
-var mnemonic = "axis want stay bacon defy catch remember horse puppy sword ugly domain";
+var mnemonic = "glance dismiss alter chalk poet bundle furnace race doll horn vast purity";

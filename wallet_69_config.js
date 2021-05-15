@@ -1,1 +1,1 @@
-var mnemonic = "avocado report train unusual license region wild boil funny okay scan satoshi";
+var mnemonic = "half pistol chunk robot flower leisure glove angle accuse liberty nose ankle";

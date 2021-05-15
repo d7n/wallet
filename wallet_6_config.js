@@ -1,1 +1,1 @@
-var mnemonic = "gown celery book miracle inner excuse secret federal monitor borrow vault public";
+var mnemonic = "wedding disorder secret admit document erosion shell jealous manage tool helmet weather";

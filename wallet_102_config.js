@@ -1,1 +1,1 @@
-var mnemonic = "host tuition man omit code hold symbol guitar scatter spice horse reject";
+var mnemonic = "monitor country myth rubber blush tourist swap retire scheme mix vast nothing";

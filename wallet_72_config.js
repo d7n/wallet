@@ -1,1 +1,1 @@
-var mnemonic = "tribe depart okay shadow name worth wise tube love build blouse swamp";
+var mnemonic = "modify daughter muffin scrub eight fitness later test actor grid fruit aware";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry current lunch super type mammal cheap toe sorry milk silver increase";
+var mnemonic = "cement air soccer balance hawk globe struggle rail sauce market occur chapter";

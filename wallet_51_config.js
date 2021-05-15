@@ -1,1 +1,1 @@
-var mnemonic = "manage similar drop roast exclude inhale fly easily fury distance razor smile";
+var mnemonic = "pass run exclude quality private nothing allow entire blouse gasp desk climb";

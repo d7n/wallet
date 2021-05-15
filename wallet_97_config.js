@@ -1,1 +1,1 @@
-var mnemonic = "leisure gun vote meadow host electric lake fix alpha whale indoor travel";
+var mnemonic = "omit arrest tone hungry address refuse friend differ motion hole shell physical";

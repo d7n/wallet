@@ -1,1 +1,1 @@
-var mnemonic = "scrub tide fox taste pottery tag agent poem under party final wet";
+var mnemonic = "loop moral basic service pulse glue happy retreat ramp bundle train spread";

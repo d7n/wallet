@@ -1,1 +1,1 @@
-var mnemonic = "stamp dirt fortune client toss glass often ritual iron install scatter motor";
+var mnemonic = "action again volume lock napkin judge tuna left frog rice crouch music";

@@ -1,1 +1,1 @@
-var mnemonic = "park hurt cluster choose index diet ridge acquire daring apology good witness";
+var mnemonic = "deposit boring involve sweet ancient hurt wave bracket melt pizza fiscal mass";

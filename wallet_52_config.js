@@ -1,1 +1,1 @@
-var mnemonic = "legend remain ocean again demise topple there husband figure unit chest swarm";
+var mnemonic = "team fringe shrimp okay render force spoon purse pact grace ice relief";

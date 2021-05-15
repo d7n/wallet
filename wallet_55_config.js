@@ -1,1 +1,1 @@
-var mnemonic = "clever ensure pizza spawn sphere deliver guard key hub dignity clean time";
+var mnemonic = "air caught guitar news rack bone lesson round artist auction deliver equip";

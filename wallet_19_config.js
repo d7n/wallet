@@ -1,1 +1,1 @@
-var mnemonic = "teach midnight minor flash double sight saddle simple steel hope luxury same";
+var mnemonic = "hidden open oak genuine prize novel fury burst spy mesh hurt staff";

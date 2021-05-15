@@ -1,1 +1,1 @@
-var mnemonic = "loan write nation song crack camp elephant able culture cable width early";
+var mnemonic = "problem trumpet search maple viable interest fragile choice rain awkward jungle wagon";

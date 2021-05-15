@@ -1,1 +1,1 @@
-var mnemonic = "elevator chronic sadness three allow very lens among effort creek forget firm";
+var mnemonic = "park write zero spend expect tell choice poem claw power earth false";

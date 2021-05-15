@@ -1,1 +1,1 @@
-var mnemonic = "segment portion window verb cinnamon drift welcome expand roof one canal genius";
+var mnemonic = "dismiss lemon install depart release subject sheriff deal jump air soon affair";

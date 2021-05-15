@@ -1,1 +1,1 @@
-var mnemonic = "rather captain mansion job load try slam fortune hello double weekend marble";
+var mnemonic = "warrior welcome wait copper arrow trash sweet crime churn honey give black";

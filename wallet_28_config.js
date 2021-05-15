@@ -1,1 +1,1 @@
-var mnemonic = "burst lyrics between vendor document giant senior better drive soda goat first";
+var mnemonic = "ostrich exercise marriage exercise blind eye gossip elegant recipe language erode mixture";

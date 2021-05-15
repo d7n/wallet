@@ -1,1 +1,1 @@
-var mnemonic = "desk anchor army pause need prevent swing make body ritual allow camera";
+var mnemonic = "gate knock congress cereal stuff save knife nuclear version gossip rate speak";

@@ -1,1 +1,1 @@
-var mnemonic = "noble insect device empty soda hand unlock ocean mosquito trial novel inspire";
+var mnemonic = "ocean tattoo cable ethics file room involve rib dinner major employ silver";

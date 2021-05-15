@@ -1,1 +1,1 @@
-var mnemonic = "proof grape foster vote female pencil youth step talent answer actual proud";
+var mnemonic = "stand rubber helmet goose add clarify popular dinosaur trash nest tube moral";

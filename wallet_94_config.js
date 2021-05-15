@@ -1,1 +1,1 @@
-var mnemonic = "aisle artefact degree debris two current typical black fuel bicycle circle lunch";
+var mnemonic = "kind punch swift april spot couple popular cupboard praise sail pioneer theme";

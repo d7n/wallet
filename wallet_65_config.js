@@ -1,1 +1,1 @@
-var mnemonic = "liar rule help jelly worry train airport lawsuit canoe chest hard voice";
+var mnemonic = "zone couch notable accident betray injury bag today hospital opinion add else";

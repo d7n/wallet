@@ -1,1 +1,1 @@
-var mnemonic = "knee detail glance horn price fox cherry squeeze interest siege culture kind";
+var mnemonic = "rapid smile inject cat mask fragile ramp release bullet remove door smile";

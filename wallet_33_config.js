@@ -1,1 +1,1 @@
-var mnemonic = "radar secret neglect mechanic candy limb then upper saddle transfer behave twist";
+var mnemonic = "mention dish when pottery cereal book argue chuckle autumn ordinary ready hello";

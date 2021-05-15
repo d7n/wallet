@@ -1,1 +1,1 @@
-var mnemonic = "famous joke merry brand come hen safe rib inner laundry want husband";
+var mnemonic = "position spider photo endless lawn awesome minor theme inquiry napkin small cool";

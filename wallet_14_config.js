@@ -1,1 +1,1 @@
-var mnemonic = "dinner cushion negative patrol smoke question ride salt lunar mention hour dirt";
+var mnemonic = "follow walnut gap mind bacon attitude bleak insect fault return omit monster";

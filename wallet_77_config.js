@@ -1,1 +1,1 @@
-var mnemonic = "filter vacant point try open divide base grain shuffle aisle element ill";
+var mnemonic = "island fiscal conduct rookie syrup fence reason nephew orphan card subject message";

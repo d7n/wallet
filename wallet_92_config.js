@@ -1,1 +1,1 @@
-var mnemonic = "snap chase typical number shoe sausage suit canoe blouse chapter garment enrich";
+var mnemonic = "reduce sun coral scrub pear grass bacon verify ghost elephant wing assume";

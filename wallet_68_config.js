@@ -1,1 +1,1 @@
-var mnemonic = "bronze initial nephew you shaft rival salute despair game black pig decide";
+var mnemonic = "ring harvest clarify express model february identify ensure produce jump purchase again";

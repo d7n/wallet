@@ -1,1 +1,1 @@
-var mnemonic = "expand order meadow phrase turn slam dragon robot anchor flame inject describe";
+var mnemonic = "confirm crack walnut genre melt subject worry misery lab limit script exclude";

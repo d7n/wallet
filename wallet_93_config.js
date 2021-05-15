@@ -1,1 +1,1 @@
-var mnemonic = "uncle badge speed general catalog leisure blouse october cool school curve banana";
+var mnemonic = "again lawsuit love same must misery idle best fault civil carry country";

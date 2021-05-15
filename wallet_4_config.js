@@ -1,1 +1,1 @@
-var mnemonic = "inhale abstract art medal duck unlock butter buyer orphan crime thank quote";
+var mnemonic = "expect suit path scan must license just bulb pledge grunt slot tragic";

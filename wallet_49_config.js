@@ -1,1 +1,1 @@
-var mnemonic = "sad two boy sport broom pond mind muffin alpha lyrics card stadium";
+var mnemonic = "oxygen ordinary illness bonus kind borrow chapter like reflect bundle used any";
