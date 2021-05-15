@@ -1,1 +1,1 @@
-var mnemonic = "turkey demise into patrol general artefact vivid antenna grant slam borrow cake";
+var mnemonic = "interest curve myself butter rely scare nest post core stone whip embody";

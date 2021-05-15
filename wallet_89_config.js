@@ -1,1 +1,1 @@
-var mnemonic = "captain family agree upper injury mass upgrade glide lecture tone six faculty";
+var mnemonic = "unusual impose detail auction sick wealth beyond inhale tooth capable ill bring";

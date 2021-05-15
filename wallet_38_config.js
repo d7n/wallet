@@ -1,1 +1,1 @@
-var mnemonic = "cram address corn twin poem board match learn angry endorse wink fine";
+var mnemonic = "clutch boat verb random erosion ridge wrestle tone bachelor gym casino fold";

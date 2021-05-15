@@ -1,1 +1,1 @@
-var mnemonic = "whisper deposit void army mention heavy junk chat mosquito celery patch height";
+var mnemonic = "seminar razor bamboo follow leisure pony law aerobic chunk safe calm panda";

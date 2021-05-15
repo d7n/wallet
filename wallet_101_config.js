@@ -1,1 +1,1 @@
-var mnemonic = "bird flip panther truth illness absent anger bulk attend wage define phone";
+var mnemonic = "salmon method stuff pigeon gesture clerk cereal claim select ask master limit";

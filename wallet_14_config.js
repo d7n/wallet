@@ -1,1 +1,1 @@
-var mnemonic = "bracket faith course october simple consider fiction identify unable property monitor snap";
+var mnemonic = "note business prize actor grape joy science excuse version cabbage certain tragic";

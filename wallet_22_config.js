@@ -1,1 +1,1 @@
-var mnemonic = "fire liar flower shop seat trim slam leaf license orbit drift tonight";
+var mnemonic = "march fun kid anchor vacuum pluck mule exhaust shrug window kingdom twelve";

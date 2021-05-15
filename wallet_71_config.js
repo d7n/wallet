@@ -1,1 +1,1 @@
-var mnemonic = "foam baby begin outdoor top father explain spray plunge stay chase tape";
+var mnemonic = "brick feed story sorry powder glue fresh veteran aisle earn apple improve";

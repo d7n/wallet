@@ -1,1 +1,1 @@
-var mnemonic = "picture blush doctor exile surface margin match farm wood crush orchard draft";
+var mnemonic = "clump butter embody wool saddle fortune cry paddle robot december hill country";

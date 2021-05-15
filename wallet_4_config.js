@@ -1,1 +1,1 @@
-var mnemonic = "capital census whisper install join tattoo file setup sun regret renew inject";
+var mnemonic = "juice jacket oxygen tumble mask gate citizen false wild improve syrup monitor";

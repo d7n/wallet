@@ -1,1 +1,1 @@
-var mnemonic = "license industry usage dish seed view surround human chalk permit over oxygen";
+var mnemonic = "snow fancy ignore smoke naive major clean surround share island share elbow";

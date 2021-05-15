@@ -1,1 +1,1 @@
-var mnemonic = "urban fall clay approve original area wheel rhythm liar excuse forward exclude";
+var mnemonic = "diesel impose choose arm enact spy apology shallow alert weasel oxygen humble";

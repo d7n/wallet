@@ -1,1 +1,1 @@
-var mnemonic = "art pig swallow advance digital aerobic park various produce above rabbit prosper";
+var mnemonic = "federal reject tone leisure maximum chest unfair sniff comic number sail range";

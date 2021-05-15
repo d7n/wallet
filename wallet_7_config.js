@@ -1,1 +1,1 @@
-var mnemonic = "admit stock belt random useful outer old purity avocado flock during obvious";
+var mnemonic = "always rally evolve settle come describe clap tuna slow ignore version excuse";

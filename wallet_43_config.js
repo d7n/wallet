@@ -1,1 +1,1 @@
-var mnemonic = "model cloud equip toss common taste puzzle broom innocent liberty frown winner";
+var mnemonic = "excite dice shock wreck human enough math claim come shaft elegant error";

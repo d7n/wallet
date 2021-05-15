@@ -1,1 +1,1 @@
-var mnemonic = "embrace survey adapt sniff warm crane impulse enter joy fence sign unaware";
+var mnemonic = "miracle network mobile month dragon ensure oppose zero margin weekend logic enhance";

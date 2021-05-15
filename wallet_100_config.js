@@ -1,1 +1,1 @@
-var mnemonic = "image night exist image truly multiply faith dune mind attend dance rude";
+var mnemonic = "culture tennis deal cotton matter ginger west park middle mobile viable turtle";

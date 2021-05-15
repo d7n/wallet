@@ -1,1 +1,1 @@
-var mnemonic = "mansion they goose slide abandon forget banana bleak arena odor spike behind";
+var mnemonic = "winter borrow lab soap balcony steel craft then crouch raccoon mom knock";

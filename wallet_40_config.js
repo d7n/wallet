@@ -1,1 +1,1 @@
-var mnemonic = "essay invite reward cake blur split real knife boil seed hub friend";
+var mnemonic = "error wash jacket puzzle hold dentist moral gentle orbit shadow bamboo faint";

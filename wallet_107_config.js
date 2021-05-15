@@ -1,1 +1,1 @@
-var mnemonic = "mistake scan liar company clever blind burden aim quote strategy vivid erase";
+var mnemonic = "effort crumble nice wheel draft bulk pride indicate exact clog gentle mix";

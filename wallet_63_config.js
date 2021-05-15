@@ -1,1 +1,1 @@
-var mnemonic = "police sweet powder february private fetch situate shuffle review infant helmet glad";
+var mnemonic = "brand fence object bless orange shrimp flower knock hamster ice mask family";

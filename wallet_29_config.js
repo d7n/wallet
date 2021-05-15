@@ -1,1 +1,1 @@
-var mnemonic = "menu yellow end remind meadow advice ordinary unique bracket almost level organ";
+var mnemonic = "coin provide girl ring mouse crack opinion vote supreme garage digital remember";

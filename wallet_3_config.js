@@ -1,1 +1,1 @@
-var mnemonic = "bottom shoot throw skate vanish blush fancy neck wrist mixture crush maple";
+var mnemonic = "vicious scrub drive senior umbrella nice useful imitate alone wear allow right";

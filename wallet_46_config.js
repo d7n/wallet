@@ -1,1 +1,1 @@
-var mnemonic = "wedding sea tumble human fine forest annual noodle prepare about benefit silent";
+var mnemonic = "prison impulse more loyal sheriff dignity antique wolf hotel town abstract trip";

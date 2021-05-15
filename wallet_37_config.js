@@ -1,1 +1,1 @@
-var mnemonic = "burden stable surprise guess pumpkin legend food anger head moon win mouse";
+var mnemonic = "choice student horror front machine used pull together ski recall space game";

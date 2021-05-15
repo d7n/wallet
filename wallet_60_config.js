@@ -1,1 +1,1 @@
-var mnemonic = "more test zone palace picnic term impose lawn govern use pole fame";
+var mnemonic = "birth radar mind bachelor use ordinary anchor salute level crack waste together";

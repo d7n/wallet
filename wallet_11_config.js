@@ -1,1 +1,1 @@
-var mnemonic = "rug just magnet lawn galaxy install machine elbow shy abandon arch machine";
+var mnemonic = "pull hazard add bundle flat local elbow carry rib again spice sauce";

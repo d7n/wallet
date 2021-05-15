@@ -1,1 +1,1 @@
-var mnemonic = "clip depend farm execute wrap obscure blouse estate auction educate resist veteran";
+var mnemonic = "size spell figure exit deposit fancy garlic train kit theory frequent bachelor";

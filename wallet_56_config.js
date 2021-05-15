@@ -1,1 +1,1 @@
-var mnemonic = "celery clip edge diamond minor aim arrest style visual evil motion rescue";
+var mnemonic = "pull trend disease knife gun earn neglect walnut razor hat much vendor";

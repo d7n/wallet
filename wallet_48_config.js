@@ -1,1 +1,1 @@
-var mnemonic = "panther manual ladder best service civil mosquito diamond strong drastic suit punch";
+var mnemonic = "script village hen caution enroll pool umbrella address sad swim purchase they";

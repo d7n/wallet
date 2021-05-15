@@ -1,1 +1,1 @@
-var mnemonic = "gossip walnut peace acid barely portion relax popular reject coyote domain fetch";
+var mnemonic = "virtual leave next young curve junk drum toy orphan marriage used asset";

@@ -1,1 +1,1 @@
-var mnemonic = "window stick scrub sadness lion entry raise salt country lunch sample trust";
+var mnemonic = "noble toss bounce violin engine lunch essence matrix length piece buffalo ozone";

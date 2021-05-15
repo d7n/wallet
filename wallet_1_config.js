@@ -1,1 +1,1 @@
-var mnemonic = "diamond position bonus eyebrow field device judge cook absurd require bid relief";
+var mnemonic = "join behind motion liar miracle slab fall subway logic phone panther require";

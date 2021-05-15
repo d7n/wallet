@@ -1,1 +1,1 @@
-var mnemonic = "whip office output buffalo machine sell choice legal frequent shine advance vivid";
+var mnemonic = "brown frame provide stem pudding clock steel topic imitate control economy embark";

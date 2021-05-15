@@ -1,1 +1,1 @@
-var mnemonic = "labor bid gaze nerve choose sun tiger jelly drop indicate ship link";
+var mnemonic = "pave mad behave toe quick top actor ethics arrest shoe purse list";

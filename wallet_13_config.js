@@ -1,1 +1,1 @@
-var mnemonic = "puppy crumble zone hole magic grow track opera seven thumb route theory";
+var mnemonic = "struggle exhibit vanish legend flash party shift wrist giraffe damp search together";

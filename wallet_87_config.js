@@ -1,1 +1,1 @@
-var mnemonic = "trade essay make copper cricket smooth author wash unusual spend bag spot";
+var mnemonic = "cabbage test faint diesel unfold float birth frequent harvest frequent word universe";

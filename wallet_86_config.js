@@ -1,1 +1,1 @@
-var mnemonic = "electric absent knock paper sketch hybrid view night forest erupt cash wagon";
+var mnemonic = "debris emotion pretty egg trip ensure silent boat athlete auction timber picture";

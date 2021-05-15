@@ -1,1 +1,1 @@
-var mnemonic = "claim ridge tiny race arch enough edit magic powder fiction flower crucial";
+var mnemonic = "achieve order liberty bottom error train twelve frequent news inhale double rail";

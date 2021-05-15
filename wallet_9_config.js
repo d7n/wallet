@@ -1,1 +1,1 @@
-var mnemonic = "then draft canyon mixed payment rent orange stove cabbage ability shoulder clinic";
+var mnemonic = "modify isolate hand injury case guide version law rug movie almost bar";

@@ -1,1 +1,1 @@
-var mnemonic = "screen warfare pitch defy mosquito elbow maximum prevent twin hero similar carpet";
+var mnemonic = "wrist garlic guide beef cancel wheel unveil oxygen apart nominee kick business";

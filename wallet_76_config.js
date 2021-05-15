@@ -1,1 +1,1 @@
-var mnemonic = "rack barely ticket ill dose wool pitch broom else census fault fragile";
+var mnemonic = "fossil drama section muscle come bag goddess speak pilot public sense crash";

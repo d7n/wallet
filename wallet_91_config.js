@@ -1,1 +1,1 @@
-var mnemonic = "random ivory three scrub grass into arrange arm inspire tower post exercise";
+var mnemonic = "puppy avocado assume this become tunnel wrestle funny goddess pulp check cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum prepare fever kiss season machine write sugar liquid answer piece dog";
+var mnemonic = "million swim lend young wise tip drastic track skate latin auto engine";

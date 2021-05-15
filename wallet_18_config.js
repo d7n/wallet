@@ -1,1 +1,1 @@
-var mnemonic = "farm false siren custom divide sample antique amount scan local metal powder";
+var mnemonic = "record lion scatter orient symptom profit boil reunion chef young omit grunt";

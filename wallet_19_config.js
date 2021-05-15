@@ -1,1 +1,1 @@
-var mnemonic = "spy direct subway veteran promote ginger tragic famous toss ancient forum pond";
+var mnemonic = "damage artwork crane cage silk refuse assault left snack amateur update myself";

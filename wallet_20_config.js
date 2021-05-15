@@ -1,1 +1,1 @@
-var mnemonic = "circle release athlete century eagle boss harvest truth carbon brand walnut reward";
+var mnemonic = "woman keep garden lecture people exchange embark bulk wolf debris glory interest";

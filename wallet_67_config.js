@@ -1,1 +1,1 @@
-var mnemonic = "salute inhale legal tackle direct open enforce rhythm milk depth copy today";
+var mnemonic = "silver analyst gentle ski expire result genre direct monitor news return citizen";

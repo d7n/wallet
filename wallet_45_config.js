@@ -1,1 +1,1 @@
-var mnemonic = "armed copy young achieve ecology rural federal what mistake need flock shed";
+var mnemonic = "off document letter ten junk need baby tape short melt puzzle sibling";

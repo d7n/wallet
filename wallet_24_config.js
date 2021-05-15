@@ -1,1 +1,1 @@
-var mnemonic = "rude usage despair sweet viable wisdom have venue obtain wagon start below";
+var mnemonic = "luggage salmon kidney true skate denial skate front bridge envelope lab deliver";

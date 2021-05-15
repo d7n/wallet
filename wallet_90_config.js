@@ -1,1 +1,1 @@
-var mnemonic = "core warrior honey toe apology change cheap vacuum since believe youth coin";
+var mnemonic = "color cram card dumb unable lesson cruel debate clever pass husband speak";

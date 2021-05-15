@@ -1,1 +1,1 @@
-var mnemonic = "brick school notable alter false wild movie lecture gown clutch initial save";
+var mnemonic = "shuffle enlist input demand license lend process kick pair asset power patch";

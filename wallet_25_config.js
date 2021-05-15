@@ -1,1 +1,1 @@
-var mnemonic = "fire cart wet shine boy happy embrace budget notice reunion extend cool";
+var mnemonic = "dirt dismiss tribe daughter require excess type spin fossil old treat invest";

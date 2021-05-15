@@ -1,1 +1,1 @@
-var mnemonic = "title wish stage increase target kiwi cute friend uncover lava involve hungry";
+var mnemonic = "play ring scout search tag pen hole level arrest lawn badge hour";

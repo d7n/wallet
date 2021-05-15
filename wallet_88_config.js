@@ -1,1 +1,1 @@
-var mnemonic = "beauty retire sustain kingdom bomb design divorce all ostrich polar fatigue essence";
+var mnemonic = "food cruel present rough chimney alert risk carbon sign bonus hotel bunker";

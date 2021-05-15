@@ -1,1 +1,1 @@
-var mnemonic = "smile ship situate bone tomorrow repair syrup dinner piece announce dynamic receive";
+var mnemonic = "desk video viable crisp bottom ability there little impulse hip exact awful";

@@ -1,1 +1,1 @@
-var mnemonic = "core purse west spoon pigeon skin retreat field employ burden crouch blood";
+var mnemonic = "upgrade utility view jaguar library detail firm daughter hazard taste beach agent";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo barely south drive bag rocket people capital sunset elevator retire tent";
+var mnemonic = "hurdle lens rate ghost blush buzz midnight excuse fashion caught jazz curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer airport soul balcony light route butter proof flat middle pool mushroom";
+var mnemonic = "seminar banana grape fever couple purchase midnight clock loop awake puzzle donate";

@@ -1,1 +1,1 @@
-var mnemonic = "insane air valley auto chunk expect vast depart dutch stove season choose";
+var mnemonic = "ticket load tower direct clock laundry bomb keen galaxy unit hunt coach";

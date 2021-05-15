@@ -1,1 +1,1 @@
-var mnemonic = "slow crop ripple close bless include razor uncle dumb venue width urban";
+var mnemonic = "pupil purchase wife you lyrics tired phrase van garage region sketch naive";

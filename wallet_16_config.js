@@ -1,1 +1,1 @@
-var mnemonic = "robust cigar denial quality tribe index margin cream knee vehicle harbor edit";
+var mnemonic = "involve live length lobster wall flat nature reform swim leisure stairs orange";

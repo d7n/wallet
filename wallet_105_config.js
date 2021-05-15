@@ -1,1 +1,1 @@
-var mnemonic = "then cannon fashion siege bunker erase sauce dune stove group practice paper";
+var mnemonic = "angry verb belt inherit pelican drive invest south pink giraffe confirm detect";

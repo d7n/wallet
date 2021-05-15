@@ -1,1 +1,1 @@
-var mnemonic = "empower jump tray race gesture option figure enable art fox heart reward";
+var mnemonic = "spawn stadium express cabin cabbage rubber inch gun brick hair route laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "vault series goat put resemble gravity vote this strategy price elder control";
+var mnemonic = "enact suggest chicken frog arch pudding pill essay monster fossil cabin amused";

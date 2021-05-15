@@ -1,1 +1,1 @@
-var mnemonic = "property village north viable ketchup soda olive rhythm bulk roof witness baby";
+var mnemonic = "suffer unusual feature onion auction mix muscle month shift occur chair buzz";

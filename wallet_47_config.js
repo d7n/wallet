@@ -1,1 +1,1 @@
-var mnemonic = "client federal chief reward inside radio stairs father lens mansion program mosquito";
+var mnemonic = "enable pumpkin unveil search turn message immense curtain silly crazy roast erosion";

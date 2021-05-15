@@ -1,1 +1,1 @@
-var mnemonic = "intact anxiety mean equip wonder blind virus avoid gospel plate mean tone";
+var mnemonic = "fluid expire mule tenant impulse cancel youth evolve dice globe wall rare";

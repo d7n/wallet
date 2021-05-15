@@ -1,1 +1,1 @@
-var mnemonic = "next senior calm nest wasp heart million surround frog allow grass lake";
+var mnemonic = "lemon ritual word embody denial advice neutral exclude monkey pave evil economy";

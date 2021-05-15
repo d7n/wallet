@@ -1,1 +1,1 @@
-var mnemonic = "apple blush forward emotion north six mechanic quit battle provide wide artefact";
+var mnemonic = "grocery shaft grace scorpion clerk rely antique skill slide logic flower witness";

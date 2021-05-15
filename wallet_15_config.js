@@ -1,1 +1,1 @@
-var mnemonic = "scene issue problem afford motor syrup shrug wall adjust coffee mango awkward";
+var mnemonic = "conduct snap goose bamboo goat comfort setup stove cream drill security dwarf";

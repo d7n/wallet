@@ -1,1 +1,1 @@
-var mnemonic = "clever leaf snow farm cousin enough happy battle peanut stadium lock wrestle";
+var mnemonic = "hamster never pet arm chef space keen march fog again blossom uncover";

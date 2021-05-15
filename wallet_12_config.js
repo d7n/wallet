@@ -1,1 +1,1 @@
-var mnemonic = "gadget build photo stomach recall prison item lend alcohol liberty whisper advance";
+var mnemonic = "net subject end illness guard dirt lock tragic frown popular vivid clap";

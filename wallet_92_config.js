@@ -1,1 +1,1 @@
-var mnemonic = "trip polar impose chicken grab thought gaze tent two myth frost alcohol";
+var mnemonic = "shell wide pledge defy spray water entry guide salad work open dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "never solid occur capital advance toy example ginger forget toddler group infant";
+var mnemonic = "cool asset actor pumpkin ill cake vague hat evolve slide page clean";

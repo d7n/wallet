@@ -1,1 +1,1 @@
-var mnemonic = "final enrich depart same region earth immense behind depend destroy web popular";
+var mnemonic = "advice end obtain exact genre salute away earth hat rent legend clutch";

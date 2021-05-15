@@ -1,1 +1,1 @@
-var mnemonic = "search truck basic ignore defy seat knock enrich basket science picture final";
+var mnemonic = "gentle drive mass sail desert turtle flip issue beauty cash harsh okay";

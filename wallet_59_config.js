@@ -1,1 +1,1 @@
-var mnemonic = "deny invest protect planet various return machine expand razor slab mystery party";
+var mnemonic = "disorder useless lumber genuine kangaroo polar vessel awkward next love can tonight";

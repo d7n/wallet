@@ -1,1 +1,1 @@
-var mnemonic = "merge satisfy kitchen merit casual repeat diesel lottery peasant fold design love";
+var mnemonic = "slush ridge umbrella pupil useless physical sad illness prison often scan tenant";

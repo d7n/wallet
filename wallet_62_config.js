@@ -1,1 +1,1 @@
-var mnemonic = "medal catalog legal people time mistake three cheese current hen wear galaxy";
+var mnemonic = "market shrimp naive will client thing infant tomorrow attract exchange square glance";

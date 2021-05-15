@@ -1,1 +1,1 @@
-var mnemonic = "denial bomb estate enjoy vast cloth cruel roof return dress annual canvas";
+var mnemonic = "fabric medal prize insect hobby turkey scorpion sell foam famous orphan retire";

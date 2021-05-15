@@ -1,1 +1,1 @@
-var mnemonic = "grain pigeon hedgehog box marble between wink bag talk oak record lava";
+var mnemonic = "wagon boil gather business empower much paddle volcano phone since spring meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "physical offer exclude happy safe obey short brave spice diary famous brown";
+var mnemonic = "curious crush jacket manage tray rigid discover pizza allow torch moon garbage";

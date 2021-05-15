@@ -1,1 +1,1 @@
-var mnemonic = "need swear average amount bright museum direct core soda shed obscure radar";
+var mnemonic = "dad eternal laugh mirror hair because cheap atom banana abuse blouse connect";

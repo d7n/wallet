@@ -1,1 +1,1 @@
-var mnemonic = "bring crisp reveal gentle siege used globe fold alien hood dad scout";
+var mnemonic = "electric mail day genre ritual early critic across artefact pill agree secret";

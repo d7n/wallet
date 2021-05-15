@@ -1,1 +1,1 @@
-var mnemonic = "visit prepare turkey frequent street olive boat sweet captain panel surface tobacco";
+var mnemonic = "engine curious flock hunt search hire exhaust gift bone kiss vapor gym";
