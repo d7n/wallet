@@ -1,1 +1,1 @@
-var mnemonic = "shine rule call off retreat erupt frame device cloud surround toss coral";
+var mnemonic = "prosper put nerve rack nut want during reward wool creek labor reform";

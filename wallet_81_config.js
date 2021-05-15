@@ -1,1 +1,1 @@
-var mnemonic = "seat denial liberty mouse finger setup side sauce mosquito kiwi scout analyst";
+var mnemonic = "brave link absent blossom chronic remind sword pear whale base alarm foster";

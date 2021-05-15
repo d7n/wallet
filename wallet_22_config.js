@@ -1,1 +1,1 @@
-var mnemonic = "fox food crouch silver lucky wine quiz cheese awesome cheese hint crime";
+var mnemonic = "banner drink slow loop cotton venue donkey pudding pact post square goddess";

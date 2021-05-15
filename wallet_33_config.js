@@ -1,1 +1,1 @@
-var mnemonic = "salon decide squirrel tribe play among foster goat sword pigeon hundred give";
+var mnemonic = "soccer rubber motion sense page print outdoor ancient head phrase clay tone";

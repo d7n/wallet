@@ -1,1 +1,1 @@
-var mnemonic = "little ordinary donor about used unfold leopard bike vanish force margin fame";
+var mnemonic = "injury happy cigar hidden fiscal tray oxygen close debate one sphere start";

@@ -1,1 +1,1 @@
-var mnemonic = "theme vote laundry decorate victory stool accident potato huge disagree hurry horse";
+var mnemonic = "acoustic wagon music amateur neck excite combine twelve casino reduce excuse uncover";

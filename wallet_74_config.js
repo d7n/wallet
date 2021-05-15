@@ -1,1 +1,1 @@
-var mnemonic = "nut bid crew industry aunt monitor trap lecture hair boat add fruit";
+var mnemonic = "rigid bamboo legal radar artwork guitar spot goose never ketchup secret news";

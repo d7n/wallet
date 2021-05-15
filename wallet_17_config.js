@@ -1,1 +1,1 @@
-var mnemonic = "apart ramp nose eagle sea cattle boy trade neglect imitate chat village";
+var mnemonic = "figure doll tumble slight child broken industry never kind prefer range donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "episode forget visit green install enter home install dismiss choose story six";
+var mnemonic = "vapor fossil milk speak can ice library coil powder pear measure donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "deer ability sight snack nature panel render toilet proud drift enjoy price";
+var mnemonic = "cement lake hat response assume fame protect royal squeeze tiger decrease west";

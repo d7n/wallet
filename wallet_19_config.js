@@ -1,1 +1,1 @@
-var mnemonic = "huge reward rate fuel domain elevator purse tennis crane empower diamond traffic";
+var mnemonic = "awesome hammer capital chalk often rocket border west detect suit pass next";

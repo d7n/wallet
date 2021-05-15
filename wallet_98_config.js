@@ -1,1 +1,1 @@
-var mnemonic = "curtain they toilet decade ill plate fuel filter grant gossip fiction hello";
+var mnemonic = "army flower derive critic cheap lunar height honey apple fame fashion what";

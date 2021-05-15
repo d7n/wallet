@@ -1,1 +1,1 @@
-var mnemonic = "august slot spirit lamp large radio hill shoot spider found reform output";
+var mnemonic = "onion flavor movie square dynamic tone quick sausage bacon marriage six bid";

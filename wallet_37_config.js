@@ -1,1 +1,1 @@
-var mnemonic = "garbage amateur social syrup image disagree valve burst travel play sorry sun";
+var mnemonic = "silk draw sheriff miracle end drip involve need glimpse night trip sample";

@@ -1,1 +1,1 @@
-var mnemonic = "describe wasp extra kit such cross thank loan satoshi prosper army raven";
+var mnemonic = "tourist mimic surface rail emerge ski dance leopard ordinary among hurry sun";

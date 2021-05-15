@@ -1,1 +1,1 @@
-var mnemonic = "stamp about twenty husband seven inspire dinosaur force notable toss jungle ordinary";
+var mnemonic = "question coil door dove steak normal flat police toward february flat seat";

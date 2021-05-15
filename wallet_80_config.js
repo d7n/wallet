@@ -1,1 +1,1 @@
-var mnemonic = "invite climb magnet atom canoe suspect clog muffin trash pause gold pond";
+var mnemonic = "wine pudding skill wait muffin echo enrich exchange praise fat demand will";

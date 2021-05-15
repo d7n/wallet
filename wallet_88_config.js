@@ -1,1 +1,1 @@
-var mnemonic = "great giant dial december always lady region depend lawsuit brisk mango hard";
+var mnemonic = "else shoe tennis boil ski outdoor eagle grit slab guard push illness";

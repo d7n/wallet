@@ -1,1 +1,1 @@
-var mnemonic = "april hover thrive boy desk benefit patient record garden soup link random";
+var mnemonic = "fresh drastic start cloud capital thunder jaguar garlic paper ozone crew awesome";

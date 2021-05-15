@@ -1,1 +1,1 @@
-var mnemonic = "doll aim loud rough disease crisp rebel phrase clap clap tongue view";
+var mnemonic = "drum above dinosaur wink measure march cover snake champion gift keen relief";

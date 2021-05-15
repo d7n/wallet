@@ -1,1 +1,1 @@
-var mnemonic = "dutch six render solve piece buffalo spice animal want gorilla cycle patrol";
+var mnemonic = "side auto brave layer ripple boss turtle isolate giant push spy degree";

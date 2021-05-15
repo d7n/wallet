@@ -1,1 +1,1 @@
-var mnemonic = "cheese swift sweet foil forest matrix body base ensure tiger fossil among";
+var mnemonic = "session lawsuit solar minute wage behave trouble adapt actor owner furnace beach";

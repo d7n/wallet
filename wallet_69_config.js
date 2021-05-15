@@ -1,1 +1,1 @@
-var mnemonic = "cup coconut glove moment danger public finger night noble snake absent simple";
+var mnemonic = "anxiety sock zoo extend mandate force wise caution wood gloom faculty pledge";

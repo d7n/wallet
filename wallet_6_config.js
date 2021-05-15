@@ -1,1 +1,1 @@
-var mnemonic = "strong midnight notice fan bounce laugh swear margin index toast economy all";
+var mnemonic = "reason describe cave kitchen letter blush mind deputy snap link bag domain";

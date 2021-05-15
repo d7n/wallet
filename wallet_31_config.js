@@ -1,1 +1,1 @@
-var mnemonic = "snow solid lock benefit want symbol monkey trick dinosaur trip quantum shell";
+var mnemonic = "mercy main side near give regret horse unique ugly orphan student merry";

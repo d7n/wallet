@@ -1,1 +1,1 @@
-var mnemonic = "shuffle tennis joke farm radio pilot try ladder furnace network fork sure";
+var mnemonic = "worth bachelor hurdle tree rack page silent galaxy grace scrap casual smoke";

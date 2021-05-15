@@ -1,1 +1,1 @@
-var mnemonic = "voice wonder security today ceiling extend measure stem brush permit track cheap";
+var mnemonic = "ship summer success cluster guide egg hood gas indicate reflect fantasy sock";

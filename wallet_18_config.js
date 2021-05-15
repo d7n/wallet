@@ -1,1 +1,1 @@
-var mnemonic = "cupboard hybrid kit cabbage female swing speak mail list rubber dad occur";
+var mnemonic = "pen ginger gate fiscal trust boost lunch blush head brown legal area";

@@ -1,1 +1,1 @@
-var mnemonic = "daring time grass praise draw file deal rare garbage tenant hole option";
+var mnemonic = "blouse where rotate produce wing strike category toss swim useless genre happy";

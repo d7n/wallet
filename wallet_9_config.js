@@ -1,1 +1,1 @@
-var mnemonic = "magic cannon crystal debris casino smoke guard father ozone file stadium erupt";
+var mnemonic = "pizza exchange olympic stone dose dove hammer shuffle rack spawn choice expose";

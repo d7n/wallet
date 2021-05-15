@@ -1,1 +1,1 @@
-var mnemonic = "only gaze bus pass unveil tackle region visual shrug enact subject certain";
+var mnemonic = "brown scene twin biology wine cruel rubber hospital effort resemble spoon monster";

@@ -1,1 +1,1 @@
-var mnemonic = "verify liar gossip dish hurry sense liar wrong alcohol agent comic across";
+var mnemonic = "visual tribe huge hope cement estate lava meadow resist tone curious guilt";

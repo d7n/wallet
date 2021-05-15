@@ -1,1 +1,1 @@
-var mnemonic = "fitness car girl mosquito bring gentle type rent heart left surround quarter";
+var mnemonic = "cupboard flight math rather limb rural broom remove few story antique harvest";

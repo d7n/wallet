@@ -1,1 +1,1 @@
-var mnemonic = "muffin earn unhappy sock second kitten buyer foam leaf orchard allow someone";
+var mnemonic = "service game mercy furnace border inject gown basket cruise wheel hobby sell";

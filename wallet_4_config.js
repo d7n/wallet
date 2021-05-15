@@ -1,1 +1,1 @@
-var mnemonic = "pledge clog they concert omit bitter mail use drop virtual fiscal annual";
+var mnemonic = "soda rebel depend original remember bottom quantum fee lyrics mango pulse slide";

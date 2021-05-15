@@ -1,1 +1,1 @@
-var mnemonic = "success pencil wild shift curious mechanic fun obvious banana night track whisper";
+var mnemonic = "anger emotion vicious middle thrive lend impulse myth random veteran tilt reform";

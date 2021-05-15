@@ -1,1 +1,1 @@
-var mnemonic = "quality violin loan equip van bar arch toast license slow knife suspect";
+var mnemonic = "embody exclude alley also grunt infant night raise insect fatal travel era";

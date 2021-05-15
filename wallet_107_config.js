@@ -1,1 +1,1 @@
-var mnemonic = "leader observe melt job bulb bean useless clay sibling ivory trophy whisper";
+var mnemonic = "media cook curious right half unaware zero match glove utility utility drum";

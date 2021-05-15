@@ -1,1 +1,1 @@
-var mnemonic = "loop pulp analyst deliver fortune oxygen arrange busy machine explain tank enroll";
+var mnemonic = "deliver coast series all submit bottom belt rare sting syrup dolphin tumble";

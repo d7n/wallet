@@ -1,1 +1,1 @@
-var mnemonic = "infant close solid cool elevator swarm smile relief say run cargo stage";
+var mnemonic = "multiply ancient fine furnace frequent carpet action dizzy letter increase cupboard lock";

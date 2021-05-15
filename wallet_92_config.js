@@ -1,1 +1,1 @@
-var mnemonic = "weird mimic rookie buzz link cream panel asthma history flash find entry";
+var mnemonic = "rose settle tortoise supply express charge hurry joke energy unfair credit love";

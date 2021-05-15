@@ -1,1 +1,1 @@
-var mnemonic = "need jazz neck ethics energy live arctic antenna melt travel spoon solution";
+var mnemonic = "witness smooth figure trip tongue slim donor order average matter antique raise";

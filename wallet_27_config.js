@@ -1,1 +1,1 @@
-var mnemonic = "chief capital post notable sound arrow devote bless foil seed alcohol usual";
+var mnemonic = "wrestle raw exhaust rookie jaguar blast region clip stool flush lunch bounce";

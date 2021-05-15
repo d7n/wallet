@@ -1,1 +1,1 @@
-var mnemonic = "subway wrap best movie trophy frame cash sibling concert accuse asthma seat";
+var mnemonic = "fancy bitter fringe remove coast slice since anger lesson casual mercy manual";

@@ -1,1 +1,1 @@
-var mnemonic = "liar uniform tooth other wheel robot enroll drop ability artist amazing good";
+var mnemonic = "yard idle dilemma parrot first indoor brave snake emotion aspect grape laugh";

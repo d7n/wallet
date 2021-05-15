@@ -1,1 +1,1 @@
-var mnemonic = "march moon cake flight father skin midnight just spread sword silk sting";
+var mnemonic = "claw inflict congress system strategy nasty edge wage fall control either method";

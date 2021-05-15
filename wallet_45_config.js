@@ -1,1 +1,1 @@
-var mnemonic = "idle ask royal front search insect slush scorpion naive cancel delay huge";
+var mnemonic = "wire best usual genre tribe rent focus acid long rigid wave rare";

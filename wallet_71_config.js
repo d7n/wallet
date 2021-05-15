@@ -1,1 +1,1 @@
-var mnemonic = "empty mimic panel crisp suggest virtual river power guide neglect bird weather";
+var mnemonic = "churn easily stamp that spray sure opera month unhappy jaguar local minute";

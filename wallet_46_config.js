@@ -1,1 +1,1 @@
-var mnemonic = "ceiling among then strike devote urban yellow three clay glory crisp chaos";
+var mnemonic = "resource pudding warrior cup bike minor tonight cannon bus dignity matrix gather";

@@ -1,1 +1,1 @@
-var mnemonic = "success wrist pair mix action inmate thank slender valid success donate clap";
+var mnemonic = "earth waste aware salmon shoulder online clown inflict kitchen lawsuit entire assault";

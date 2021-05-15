@@ -1,1 +1,1 @@
-var mnemonic = "athlete embrace citizen donkey load assume series trim hope civil consider vocal";
+var mnemonic = "rabbit acoustic film zoo rare goat enroll tragic close acid prevent wife";

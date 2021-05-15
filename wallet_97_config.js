@@ -1,1 +1,1 @@
-var mnemonic = "style rhythm shrimp soft expose tackle group sibling fatigue empty despair elder";
+var mnemonic = "unfold purpose keen aspect cheese negative art puppy tail bid hood enforce";

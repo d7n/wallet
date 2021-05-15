@@ -1,1 +1,1 @@
-var mnemonic = "barely sheriff know sand young walk jeans sense card nerve creek double";
+var mnemonic = "model robust super bright proud rotate insane crisp ahead blush boring solid";

@@ -1,1 +1,1 @@
-var mnemonic = "fault absent disagree cattle team vault picnic patrol measure join thing permit";
+var mnemonic = "scissors museum people unknown seek basic man nuclear invite bronze knife sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "exit divorce interest prefer employ vanish stadium window execute wedding logic woman";
+var mnemonic = "actual wise hospital soft opinion alter silver retire size skull alley plate";

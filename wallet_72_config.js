@@ -1,1 +1,1 @@
-var mnemonic = "unusual hollow material mesh lesson pass return sketch burger replace label scout";
+var mnemonic = "melody hurt believe easily tooth find team jeans tissue hybrid work document";

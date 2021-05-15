@@ -1,1 +1,1 @@
-var mnemonic = "dad pink fault volcano miss senior either three leg miss surprise spin";
+var mnemonic = "room problem execute arrange barrel harvest task march sight matter defense royal";

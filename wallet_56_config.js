@@ -1,1 +1,1 @@
-var mnemonic = "oblige output deputy proof text type deputy menu faith review spare give";
+var mnemonic = "caution athlete poet ocean category stay aerobic stool echo recipe street ladder";

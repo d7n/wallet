@@ -1,1 +1,1 @@
-var mnemonic = "solution insane liquid gentle cross crystal owner puppy almost cinnamon luxury math";
+var mnemonic = "record diamond there audit apart coffee noise engage fortune captain flat long";

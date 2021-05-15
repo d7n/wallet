@@ -1,1 +1,1 @@
-var mnemonic = "link tired kitten catalog ring iron photo cry honey fork welcome cannon";
+var mnemonic = "face gossip suggest long drift favorite exclude hospital emerge major practice hello";

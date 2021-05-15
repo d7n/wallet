@@ -1,1 +1,1 @@
-var mnemonic = "hour donor occur brother worth expire leopard behind knee acoustic note lunar";
+var mnemonic = "skull burden dust reward retire jar daring shoe cousin salmon cereal useless";

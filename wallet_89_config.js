@@ -1,1 +1,1 @@
-var mnemonic = "school dinner company soup area sick hole receive deliver bicycle skate virus";
+var mnemonic = "month differ useless ten broccoli project spy walnut van tower law patch";

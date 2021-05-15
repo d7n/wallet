@@ -1,1 +1,1 @@
-var mnemonic = "wage road away lecture chase august poverty stem alarm orange chef right";
+var mnemonic = "pill chat glory joy bleak permit develop window day slight boss doctor";

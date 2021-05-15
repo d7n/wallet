@@ -1,1 +1,1 @@
-var mnemonic = "cool there birth rough dinner glad include junk muffin betray butter mosquito";
+var mnemonic = "nurse ginger rail extra source ivory layer expire promote stock glide wash";

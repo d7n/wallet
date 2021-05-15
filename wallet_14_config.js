@@ -1,1 +1,1 @@
-var mnemonic = "picture giant fiscal labor route logic slush final exhaust light unaware tree";
+var mnemonic = "miracle dad lizard melt swarm toy picture august maximum outdoor danger play";

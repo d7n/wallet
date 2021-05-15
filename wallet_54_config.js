@@ -1,1 +1,1 @@
-var mnemonic = "trash board humble buzz fade crunch child educate crisp glass despair renew";
+var mnemonic = "candy crack sea proof prosper elbow task kangaroo mule book lunar gap";

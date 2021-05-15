@@ -1,1 +1,1 @@
-var mnemonic = "acquire web nominee sentence sock novel pulp achieve peanut erase spell mom";
+var mnemonic = "when hidden check festival sketch school choice snow float slab shell describe";

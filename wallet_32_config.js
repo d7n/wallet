@@ -1,1 +1,1 @@
-var mnemonic = "foster portion okay embark return usual polar nothing erupt tide science garbage";
+var mnemonic = "maple write pink august quality lady stem essence quiz neither snake remove";

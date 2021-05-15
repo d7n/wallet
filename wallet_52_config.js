@@ -1,1 +1,1 @@
-var mnemonic = "nice champion daring ginger glance crater term wagon eternal green basic peace";
+var mnemonic = "sunny pottery juice settle tape thank near pact source kid spend brisk";

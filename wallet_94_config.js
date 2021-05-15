@@ -1,1 +1,1 @@
-var mnemonic = "recipe cushion attract rebel spawn achieve twin large envelope recipe body ramp";
+var mnemonic = "swamp cluster kitchen output visual return lesson exclude evidence tilt island gasp";

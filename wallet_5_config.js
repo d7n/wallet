@@ -1,1 +1,1 @@
-var mnemonic = "ladder inch nominee slot web hotel lazy wink miracle chicken conduct pig";
+var mnemonic = "shuffle door luggage issue street chuckle stable foam sad never smile choice";

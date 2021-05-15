@@ -1,1 +1,1 @@
-var mnemonic = "faith first gap narrow armor oyster coyote catalog end oblige grab nuclear";
+var mnemonic = "sign object treat twist update prepare island latin gift shoulder key pupil";

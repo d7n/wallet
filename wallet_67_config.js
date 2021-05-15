@@ -1,1 +1,1 @@
-var mnemonic = "ripple trim naive sniff fan blood welcome enough pride jaguar own shiver";
+var mnemonic = "dust consider inherit couch program bar example supply bridge analyst breeze immune";

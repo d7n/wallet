@@ -1,1 +1,1 @@
-var mnemonic = "maid pulse share state jewel dentist shallow bounce traffic hood grid clap";
+var mnemonic = "soft naive snack patrol portion ski famous scheme orbit oil report trade";

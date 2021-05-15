@@ -1,1 +1,1 @@
-var mnemonic = "real warm gas forum walk alone reward zone black assault diagram leisure";
+var mnemonic = "wall snap portion kangaroo resource aerobic inherit device struggle return doctor resource";

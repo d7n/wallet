@@ -1,1 +1,1 @@
-var mnemonic = "major detect enrich design galaxy twist achieve exotic lumber advance holiday quality";
+var mnemonic = "all shy shoe bargain eagle head borrow barely drift fish answer machine";

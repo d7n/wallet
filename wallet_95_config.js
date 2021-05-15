@@ -1,1 +1,1 @@
-var mnemonic = "forum seed diagram include negative token actress document prize mention service census";
+var mnemonic = "bless box shaft essence click loud dove argue word arrange that bottom";

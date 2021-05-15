@@ -1,1 +1,1 @@
-var mnemonic = "firm pyramid power curious digital glance wine monster adult business size direct";
+var mnemonic = "siege disease nasty unfair swarm surround dolphin fantasy walnut provide process turn";

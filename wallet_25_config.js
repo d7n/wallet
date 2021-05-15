@@ -1,1 +1,1 @@
-var mnemonic = "sunset arrow apology absorb lesson good weekend industry record seminar small memory";
+var mnemonic = "despair symptom isolate fever right slide cross voice cry alley draft wall";

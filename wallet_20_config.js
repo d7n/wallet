@@ -1,1 +1,1 @@
-var mnemonic = "arrange voyage hire second tag drama shine churn stock melt calm blur";
+var mnemonic = "crawl strike subject either mixture grape satisfy anger dad crystal garlic session";

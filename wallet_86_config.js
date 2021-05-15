@@ -1,1 +1,1 @@
-var mnemonic = "erosion disorder approve divide sketch damage false wool jealous fossil knife tattoo";
+var mnemonic = "display circle little gossip seat void broccoli unusual upon rain south link";

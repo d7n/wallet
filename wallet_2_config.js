@@ -1,1 +1,1 @@
-var mnemonic = "animal flag puzzle arrive food skirt brisk rule route spatial enlist dress";
+var mnemonic = "tomorrow ozone offer soon you right labor grass sentence core blue fringe";

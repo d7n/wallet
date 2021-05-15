@@ -1,1 +1,1 @@
-var mnemonic = "breeze corn million panther inhale noble exhibit bubble among level edit inch";
+var mnemonic = "system income cash approve about rug cradle bird cactus before insect share";

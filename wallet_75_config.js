@@ -1,1 +1,1 @@
-var mnemonic = "edge gentle blush time nose myth boy direct please hungry lock cube";
+var mnemonic = "resist nut between birth liquid crack fold develop surround sketch cousin riot";

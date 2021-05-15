@@ -1,1 +1,1 @@
-var mnemonic = "venue dutch since pottery wealth mutual lawsuit crunch good fatal meat modify";
+var mnemonic = "cat charge forget echo blush fork dog zebra vacant question jump humor";

@@ -1,1 +1,1 @@
-var mnemonic = "snap million volcano galaxy rude flower field increase practice blur giant uncle";
+var mnemonic = "island trim copper early vacuum lunar success fringe alert reopen story yard";

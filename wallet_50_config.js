@@ -1,1 +1,1 @@
-var mnemonic = "valley grocery upper dumb about switch knee brave aunt fire crisp antique";
+var mnemonic = "pigeon garden wear blade call master embrace zoo equal glimpse lawn rib";

@@ -1,1 +1,1 @@
-var mnemonic = "manual enforce length despair dice shove control fiber buzz dawn pluck hen";
+var mnemonic = "donkey basic slide basket adapt safe nature note awake atom crystal jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "phone shaft trial struggle electric table list intact siren success category alien";
+var mnemonic = "gentle burden domain ceiling ribbon feature tooth axis capital practice little furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "blur subject main uphold plate fox garment video saddle someone cake hospital";
+var mnemonic = "water wedding alarm humor control saddle icon guitar pencil video language pigeon";

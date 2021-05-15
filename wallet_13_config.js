@@ -1,1 +1,1 @@
-var mnemonic = "mean ocean excess gun budget lizard flight trend open order security chaos";
+var mnemonic = "disorder hundred jar often job night latin height february kiwi tuition flee";

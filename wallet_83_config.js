@@ -1,1 +1,1 @@
-var mnemonic = "drastic suggest fresh thing demise arrow all illness balance burger pipe liar";
+var mnemonic = "until seek term trim fatigue improve expect bus strong employ throw special";

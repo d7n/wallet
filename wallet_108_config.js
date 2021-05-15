@@ -1,1 +1,1 @@
-var mnemonic = "wisdom humble board pistol shiver stomach paper glare will setup nasty urge";
+var mnemonic = "impact dirt foam oxygen strategy wall birth plug sign work hawk involve";
