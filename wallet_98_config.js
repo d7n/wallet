@@ -1,1 +1,1 @@
-var mnemonic = "timber cry hour vessel devote airport pond off level tired adult wolf";
+var mnemonic = "oppose resist reason design anchor bar case move feel exist remove amused";

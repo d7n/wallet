@@ -1,1 +1,1 @@
-var mnemonic = "glow rapid busy normal alien notice cradle abandon endless bench magic blur";
+var mnemonic = "work vault ripple trick match glimpse consider sorry hair toy west kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "intact wrist meat invite legend shock faint old clever any across pulp";
+var mnemonic = "heavy vanish frame excess blouse injury wrong enter meat elbow final educate";

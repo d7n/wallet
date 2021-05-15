@@ -1,1 +1,1 @@
-var mnemonic = "resource trust maze tape claw lyrics trust car shaft lab gap upgrade";
+var mnemonic = "snap amateur code lift round hobby recipe phrase green badge omit cute";

@@ -1,1 +1,1 @@
-var mnemonic = "card actual layer predict world awesome snake seek hat shiver faint huge";
+var mnemonic = "champion remain priority vivid error dumb diesel casual delay whip truck stuff";

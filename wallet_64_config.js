@@ -1,1 +1,1 @@
-var mnemonic = "alone truly digital trap enrich time shrimp bomb drift merit turn tumble";
+var mnemonic = "vintage scorpion exit oil penalty top play giggle drama artist brown glare";

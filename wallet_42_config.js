@@ -1,1 +1,1 @@
-var mnemonic = "cup tattoo merge month horn cave sniff undo very curve mushroom force";
+var mnemonic = "desk switch initial balance plug notice lizard sad teach vicious design arch";

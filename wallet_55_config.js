@@ -1,1 +1,1 @@
-var mnemonic = "betray mosquito raw record roof alien vacant mushroom educate intact fresh turkey";
+var mnemonic = "witness welcome cannon emotion nasty surround sad easily furnace south sock reflect";

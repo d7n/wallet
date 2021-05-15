@@ -1,1 +1,1 @@
-var mnemonic = "drip dash belt lecture toilet cricket mango digital disorder already glue foster";
+var mnemonic = "imitate cricket hybrid brother favorite village lucky order promote type insane soul";

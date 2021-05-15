@@ -1,1 +1,1 @@
-var mnemonic = "scare into milk embark coach wear mother seek unknown champion tank awesome";
+var mnemonic = "spray mobile much adapt orange fog parade road survey coin swim eternal";

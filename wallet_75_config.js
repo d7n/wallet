@@ -1,1 +1,1 @@
-var mnemonic = "sight fragile bullet noble nurse similar lift right despair habit never above";
+var mnemonic = "airport erupt wisdom brisk seat hand grass skate fitness apple acoustic cage";

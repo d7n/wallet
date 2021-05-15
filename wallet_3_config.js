@@ -1,1 +1,1 @@
-var mnemonic = "devote prefer pumpkin cook cool ensure thumb circle cube topic stereo stomach";
+var mnemonic = "beach rack correct tired leader antenna spare bleak soup horror produce degree";

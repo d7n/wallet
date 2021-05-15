@@ -1,1 +1,1 @@
-var mnemonic = "skirt spread defense muscle defy rotate tongue inflict isolate trouble final price";
+var mnemonic = "know sibling salmon sausage oppose casino claw voyage boost smooth viable cube";

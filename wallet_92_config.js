@@ -1,1 +1,1 @@
-var mnemonic = "man trash wire rally deal tip couple theory income weekend stamp hero";
+var mnemonic = "fresh orchard style act oil crystal own pair like fox column force";

@@ -1,1 +1,1 @@
-var mnemonic = "possible faculty found gasp oak side bunker business extend creek surge love";
+var mnemonic = "sentence ship visa run fix bacon fog ill dash illegal pyramid answer";

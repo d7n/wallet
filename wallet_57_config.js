@@ -1,1 +1,1 @@
-var mnemonic = "timber cheese layer pulp harbor virtual spot maze talk rude curve rose";
+var mnemonic = "boat spatial pottery kidney engine absent wagon key symbol discover oil mercy";

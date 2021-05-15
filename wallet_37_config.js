@@ -1,1 +1,1 @@
-var mnemonic = "delay van light evolve pigeon surround artwork skin jaguar poem path general";
+var mnemonic = "wash clock reject planet oven purse rather suspect pretty high mule guide";

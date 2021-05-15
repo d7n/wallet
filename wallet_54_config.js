@@ -1,1 +1,1 @@
-var mnemonic = "present bundle universe absurd bachelor response choose flip quick deliver smart critic";
+var mnemonic = "sick auction program taste stock symbol smoke swallow match later group plug";

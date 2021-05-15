@@ -1,1 +1,1 @@
-var mnemonic = "great miracle exit clerk alone upper budget flight pill direct vast soft";
+var mnemonic = "marriage mechanic worth air perfect unaware disagree clown survey burst embody select";

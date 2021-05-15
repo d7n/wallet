@@ -1,1 +1,1 @@
-var mnemonic = "obvious man learn exercise pause swamp adult travel sister habit gallery topple";
+var mnemonic = "host chest electric feed concert match level exact cable favorite license nest";

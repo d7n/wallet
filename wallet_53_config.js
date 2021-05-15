@@ -1,1 +1,1 @@
-var mnemonic = "unaware hero invite hawk olive improve jewel rose gospel lonely sad piece";
+var mnemonic = "worth doll humor marble duck candy broccoli spider menu base remove column";

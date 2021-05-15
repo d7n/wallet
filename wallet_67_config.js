@@ -1,1 +1,1 @@
-var mnemonic = "post possible boss cube twelve approve wagon vote confirm fee job session";
+var mnemonic = "include tuition orange knock add vacant sorry shoot ordinary price crash glass";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster flight medal thumb auto install candy cricket sunset tackle sick spike";
+var mnemonic = "group ship bamboo cat idle hire suggest sister first warfare chimney media";

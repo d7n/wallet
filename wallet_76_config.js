@@ -1,1 +1,1 @@
-var mnemonic = "zoo fringe pride absurd sunny mixture misery reform actor winter census slender";
+var mnemonic = "proud hotel tail wait civil clip solar section express spot wing wrestle";

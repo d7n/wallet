@@ -1,1 +1,1 @@
-var mnemonic = "shoe illness wheel shy onion expire safe vacant youth before warfare ignore";
+var mnemonic = "roast toward time syrup jeans nation twelve squeeze cactus bundle volume alter";

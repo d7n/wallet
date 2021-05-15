@@ -1,1 +1,1 @@
-var mnemonic = "extra wool forum profit burger pistol shop quote state buddy prevent dragon";
+var mnemonic = "coil hazard pulse embrace roast maze rely tongue twist affair option tuna";

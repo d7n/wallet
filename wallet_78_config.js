@@ -1,1 +1,1 @@
-var mnemonic = "test have army sheriff mention average satisfy beach nasty swear other capable";
+var mnemonic = "when cost nerve okay museum army raise ozone fresh idea side vehicle";

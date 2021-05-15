@@ -1,1 +1,1 @@
-var mnemonic = "lazy sleep lottery enhance trade hover glimpse fold joke lesson off census";
+var mnemonic = "alone bring quick kit supply crunch present assault brother ostrich embody salt";

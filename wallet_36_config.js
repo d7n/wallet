@@ -1,1 +1,1 @@
-var mnemonic = "claim clap milk endorse behave misery foot caught bonus tribe cactus income";
+var mnemonic = "bright casual drive affair deposit sea evoke load pilot opera dignity crush";

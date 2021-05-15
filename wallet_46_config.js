@@ -1,1 +1,1 @@
-var mnemonic = "team acoustic strategy position describe fabric can walnut claim adapt number sting";
+var mnemonic = "maze armor live actual reopen feel access equal orange brief ribbon sister";

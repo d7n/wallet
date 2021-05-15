@@ -1,1 +1,1 @@
-var mnemonic = "seat nominee tunnel jazz furnace sustain sight final zoo change rack stairs";
+var mnemonic = "lawn weird notable bless twenty negative symbol chalk edge detect lend apart";

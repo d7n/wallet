@@ -1,1 +1,1 @@
-var mnemonic = "other involve royal clump crop title song loyal egg focus human rose";
+var mnemonic = "rule avoid special giant sign rally charge sand immune wisdom outside palace";

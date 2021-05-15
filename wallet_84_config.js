@@ -1,1 +1,1 @@
-var mnemonic = "alley better extend sunset canyon infant valve green rally nation fuel law";
+var mnemonic = "cigar canal invest base grace apart disagree describe wave athlete aware topic";

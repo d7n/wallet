@@ -1,1 +1,1 @@
-var mnemonic = "walk merge rebuild betray code element achieve bless figure bread wolf way";
+var mnemonic = "sad fury crumble drop survey skull offer author spray regret deliver axis";

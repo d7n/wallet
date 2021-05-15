@@ -1,1 +1,1 @@
-var mnemonic = "hurdle seven possible execute carbon ritual omit already cable neglect upgrade used";
+var mnemonic = "cement pool brush swing bounce tornado squeeze spoon click cargo crop gym";

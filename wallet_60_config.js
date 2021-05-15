@@ -1,1 +1,1 @@
-var mnemonic = "feature monitor property case debris bracket gallery used curious seed curtain dose";
+var mnemonic = "trim guess banner plastic expire uncover knock flip length tiny eager fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "margin few battle unknown rate meadow grocery size unit angle gentle walk";
+var mnemonic = "monster tray cat echo surprise cat host exact warrior elder brisk prevent";

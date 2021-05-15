@@ -1,1 +1,1 @@
-var mnemonic = "notable still mountain rifle patch window poem click own input little bird";
+var mnemonic = "state rookie desk top age heart learn inherit pretty artefact during unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "manage drink cruise still virtual project diagram badge fiscal brush aerobic cute";
+var mnemonic = "suspect exclude tone burger valve hold brand unfair cherry kit mosquito ten";

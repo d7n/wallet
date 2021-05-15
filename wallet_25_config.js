@@ -1,1 +1,1 @@
-var mnemonic = "board crawl crumble black ask patch fruit stamp share anchor release annual";
+var mnemonic = "cabbage surround mercy attract auction drum beach frog weather couple congress hire";

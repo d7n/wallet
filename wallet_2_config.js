@@ -1,1 +1,1 @@
-var mnemonic = "universe parrot mirror sheriff suffer glance quit mobile uphold mirror found muscle";
+var mnemonic = "garlic agent box pet express menu case menu slab increase grunt century";

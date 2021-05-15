@@ -1,1 +1,1 @@
-var mnemonic = "hub point grab hill crew quit swamp glance fatal weird evoke evidence";
+var mnemonic = "half rail alcohol about winner ill jealous journey head athlete over blush";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone shoe patrol child priority ostrich smart episode carbon action elbow episode";
+var mnemonic = "lizard camera rare front exhaust cigar aisle surprise scheme water purpose usual";

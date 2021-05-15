@@ -1,1 +1,1 @@
-var mnemonic = "spice royal daughter door fat riot follow candy super merge radar era";
+var mnemonic = "embrace glue exile desert shop mushroom guard pen enemy item cruise render";

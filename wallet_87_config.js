@@ -1,1 +1,1 @@
-var mnemonic = "tuna envelope confirm matter pact detect private copper defense gorilla speed session";
+var mnemonic = "visual neither outdoor sign guilt month such cactus junk twin blame claw";

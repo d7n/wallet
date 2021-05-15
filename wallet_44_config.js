@@ -1,1 +1,1 @@
-var mnemonic = "library ancient good turn vapor arrange mention column inject address clerk drama";
+var mnemonic = "orphan endless spend display congress together talk grit icon post swap essay";

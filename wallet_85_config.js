@@ -1,1 +1,1 @@
-var mnemonic = "mobile riot suffer twin attitude seven saddle brain stool fat chicken margin";
+var mnemonic = "tool youth index expand sea know burger always raw train bike rack";

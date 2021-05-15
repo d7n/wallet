@@ -1,1 +1,1 @@
-var mnemonic = "cereal juice improve shop shed include jar thunder hub toy cousin profit";
+var mnemonic = "cream retire exercise laptop find video omit kiss will napkin chef thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "service news obtain morning space clog solution exile utility swallow brother until";
+var mnemonic = "pause turkey worth disagree canoe fog adult kind chaos enough bachelor stereo";

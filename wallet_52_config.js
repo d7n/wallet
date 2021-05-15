@@ -1,1 +1,1 @@
-var mnemonic = "friend night alert glide squeeze inhale demand february food approve venture aware";
+var mnemonic = "deliver smart pull skull club tuna culture save void pledge around jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "injury liberty blossom close merit rent movie mad general milk random talent";
+var mnemonic = "elder limit three submit book dove fabric tide myself window game adjust";

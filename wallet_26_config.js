@@ -1,1 +1,1 @@
-var mnemonic = "throw ginger civil believe repair coast arena leaf surge name advance either";
+var mnemonic = "planet gravity evolve magic jacket garment blossom bundle ensure inject hungry echo";

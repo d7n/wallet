@@ -1,1 +1,1 @@
-var mnemonic = "fee height leave flash intact pepper differ minute inhale rival cup prosper";
+var mnemonic = "easy creek hint brass away merit proof intact moon crisp biology north";

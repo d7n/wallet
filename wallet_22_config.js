@@ -1,1 +1,1 @@
-var mnemonic = "vessel other attack minute minor hobby tilt air fetch romance refuse solution";
+var mnemonic = "noble later error angry insect lumber punch list kiss cube involve mean";

@@ -1,1 +1,1 @@
-var mnemonic = "similar enough viable intact pulse bid people ahead clown glance punch tobacco";
+var mnemonic = "rate firm strike sure alien diagram fetch over feature output gloom level";

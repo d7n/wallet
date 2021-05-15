@@ -1,1 +1,1 @@
-var mnemonic = "inspire cute mixed genius myth visa rotate clinic blanket prevent shrimp equal";
+var mnemonic = "dawn essay return mandate tower attract switch sponsor shop roof interest trophy";

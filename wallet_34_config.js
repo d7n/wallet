@@ -1,1 +1,1 @@
-var mnemonic = "magnet gasp venue invite often diamond hip person drive shrimp engine trend";
+var mnemonic = "order dune squeeze suggest fiscal stone degree body usage false source swallow";

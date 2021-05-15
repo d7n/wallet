@@ -1,1 +1,1 @@
-var mnemonic = "keen quiz early curve tornado oven tank couple mad penalty symbol laugh";
+var mnemonic = "salute agent obtain stairs false receive seven sample roast quality hedgehog input";

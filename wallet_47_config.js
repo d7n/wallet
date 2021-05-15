@@ -1,1 +1,1 @@
-var mnemonic = "gain blur wheel cube strike settle opera shoe improve resist lumber code";
+var mnemonic = "accuse hole term early curve consider cage universe skirt embrace west boat";

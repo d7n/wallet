@@ -1,1 +1,1 @@
-var mnemonic = "claw quarter ugly axis assault castle visa excess margin witness number afford";
+var mnemonic = "under sphere metal purchase theme top dragon join sand bubble favorite audit";

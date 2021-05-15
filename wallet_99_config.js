@@ -1,1 +1,1 @@
-var mnemonic = "miracle pledge flash equip current audit violin useful mad when gun ten";
+var mnemonic = "awesome afraid cannon swarm slow survey chat chimney pill brown save useful";

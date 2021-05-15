@@ -1,1 +1,1 @@
-var mnemonic = "safe answer ripple kangaroo afraid sustain immune remind tree rib wash safe";
+var mnemonic = "abandon trophy oppose fiber solar depend round peasant slight fee margin alien";

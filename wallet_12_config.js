@@ -1,1 +1,1 @@
-var mnemonic = "view mail liberty rifle water fashion certain retreat galaxy blossom easy crucial";
+var mnemonic = "inside sport hedgehog frozen minimum roof economy float prosper mushroom grocery churn";

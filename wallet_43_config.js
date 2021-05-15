@@ -1,1 +1,1 @@
-var mnemonic = "glow steak stuff feed toddler crouch chef patch soft nurse cinnamon busy";
+var mnemonic = "penalty turkey initial next service large mail recycle exotic proud deny pistol";

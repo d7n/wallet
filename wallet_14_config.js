@@ -1,1 +1,1 @@
-var mnemonic = "around render harvest off minimum advice battle enable vintage omit prosper gauge";
+var mnemonic = "crowd fork twist better intact gown cluster attitude girl october express possible";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate cheese ill weasel convince security stamp fatal poem one anchor orient";
+var mnemonic = "venue situate hope ticket cabbage under ahead lazy scheme butter modify indoor";

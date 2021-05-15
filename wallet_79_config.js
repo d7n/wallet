@@ -1,1 +1,1 @@
-var mnemonic = "insane hold ignore certain below good color spray remove silent short garden";
+var mnemonic = "taste cactus mixed neutral humble elephant stairs butter rifle allow joke afraid";

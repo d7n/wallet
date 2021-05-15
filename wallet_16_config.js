@@ -1,1 +1,1 @@
-var mnemonic = "lunar retire route citizen shrug delay amateur adjust town lazy humble alter";
+var mnemonic = "symptom east fatigue legal define draft feed wrong flame trouble off save";

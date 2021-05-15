@@ -1,1 +1,1 @@
-var mnemonic = "hen chapter belt theme drum grace ahead fold suggest already exact butter";
+var mnemonic = "kite wash person squirrel junior suit expose stage sign pipe novel route";

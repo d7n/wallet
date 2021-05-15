@@ -1,1 +1,1 @@
-var mnemonic = "laundry bag satoshi milk cupboard pair report recycle slide chat obscure liar";
+var mnemonic = "slogan problem cliff tomorrow loan source predict melody robust safe bleak wealth";

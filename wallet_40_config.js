@@ -1,1 +1,1 @@
-var mnemonic = "slow inside sibling place immense physical soda small detect exist strong spoil";
+var mnemonic = "when south dream congress page include frost enroll venture level reward fiber";

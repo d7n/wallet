@@ -1,1 +1,1 @@
-var mnemonic = "speed lock coral subway away spider detect dolphin before modify merge pull";
+var mnemonic = "resist floor approve imitate reason disagree spawn despair mountain artwork tuition other";

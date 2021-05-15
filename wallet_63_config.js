@@ -1,1 +1,1 @@
-var mnemonic = "sea melody identify chair hill between record web bunker nephew print demise";
+var mnemonic = "nose pact gather jaguar million hole know manage security couple vapor paper";

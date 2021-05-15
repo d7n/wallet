@@ -1,1 +1,1 @@
-var mnemonic = "thumb goose number track chimney odor muffin fox dinner west copy enhance";
+var mnemonic = "penalty horse coconut oval galaxy climb exit estate hover local gorilla say";

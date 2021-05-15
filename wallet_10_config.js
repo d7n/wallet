@@ -1,1 +1,1 @@
-var mnemonic = "focus spot siren afford shove bracket face tail vehicle universe audit biology";
+var mnemonic = "desk plate blade this thank wear rely hobby correct hammer before photo";

@@ -1,1 +1,1 @@
-var mnemonic = "clock acid copper enough core square fade ghost rather exercise scare ethics";
+var mnemonic = "spin wait dog clarify hundred become weapon build useful scorpion lesson canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "daring struggle fame endless simple amateur above unusual grab flower virus faint";
+var mnemonic = "athlete unhappy pistol correct extend alien pudding demise protect lion step novel";

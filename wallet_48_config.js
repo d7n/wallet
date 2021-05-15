@@ -1,1 +1,1 @@
-var mnemonic = "come cinnamon flush urge dentist polar genre peace worth ill open cheese";
+var mnemonic = "fatal ocean excite cram pet taste slow slogan oxygen flame earn polar";

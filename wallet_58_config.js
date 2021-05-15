@@ -1,1 +1,1 @@
-var mnemonic = "excuse guitar purchase nerve bundle cement large anger valley basic top dad";
+var mnemonic = "rack axis alpha only clump empower post sphere misery actress frost sibling";

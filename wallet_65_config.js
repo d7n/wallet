@@ -1,1 +1,1 @@
-var mnemonic = "practice awesome peasant expand august soldier destroy among thought embark spin job";
+var mnemonic = "trust salon wink dress wife magnet rude mammal garlic city bomb jeans";

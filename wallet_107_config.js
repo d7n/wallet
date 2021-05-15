@@ -1,1 +1,1 @@
-var mnemonic = "young famous amateur pottery tone need know ten twelve glance suspect bonus";
+var mnemonic = "pupil suspect also net stomach frog swing orange issue bracket try quality";

@@ -1,1 +1,1 @@
-var mnemonic = "old silent surprise method detect among earth health tonight typical supreme sort";
+var mnemonic = "force charge crash pledge satisfy cake river credit tiny embark inject sand";

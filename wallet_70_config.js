@@ -1,1 +1,1 @@
-var mnemonic = "scare lawsuit magic region habit night clutch second tobacco regular brand fence";
+var mnemonic = "element blouse assault canyon unique furnace polar tomato leopard canyon sentence hidden";

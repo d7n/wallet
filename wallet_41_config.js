@@ -1,1 +1,1 @@
-var mnemonic = "other nurse little blame cat busy begin myth level lonely ship smooth";
+var mnemonic = "again sort few enlist subway boil fancy umbrella team use oppose lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer lunar oak tip trash kiwi shrug sing ship near rescue solve";
+var mnemonic = "come feel orient core hawk weekend noble soul bulb twenty suspect above";

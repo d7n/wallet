@@ -1,1 +1,1 @@
-var mnemonic = "rice wave where mango denial toddler expire excess marriage hero energy outdoor";
+var mnemonic = "mobile dose uphold insect unusual own fit prosper disease dismiss brown expire";

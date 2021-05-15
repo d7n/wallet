@@ -1,1 +1,1 @@
-var mnemonic = "anchor swing ecology harsh steel warm gather sea law project pair enough";
+var mnemonic = "pet much derive below hotel shiver blast abandon myself priority essay expose";

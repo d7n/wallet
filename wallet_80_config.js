@@ -1,1 +1,1 @@
-var mnemonic = "absurd life question camp flavor bundle cage trigger diesel original hybrid south";
+var mnemonic = "cruise bus resist diamond insane inmate category dwarf cactus topple orchard swarm";
