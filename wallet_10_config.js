@@ -1,1 +1,1 @@
-var mnemonic = "dust math atom save dutch inspire peanut leaf legal mind danger that";
+var mnemonic = "regular cinnamon autumn hint protect neither erupt solar token minute undo dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly total vibrant clinic peasant wall powder shoot nerve valley summer fox";
+var mnemonic = "torch estate more spy sing apart lyrics trust hollow tennis caught arena";

@@ -1,1 +1,1 @@
-var mnemonic = "open hub card noise gap bonus brief link smart fit copy cruise";
+var mnemonic = "early toe service input coral twice pet emerge pyramid honey admit latin";

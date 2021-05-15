@@ -1,1 +1,1 @@
-var mnemonic = "conduct minor hand access month gain jacket always target child humble melt";
+var mnemonic = "aisle over level maximum august gift art sick flash consider comic limit";

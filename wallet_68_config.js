@@ -1,1 +1,1 @@
-var mnemonic = "rib interest civil burst install surprise april kiss festival host hurt echo";
+var mnemonic = "weapon wine recipe develop oak shallow decorate keep trim sound material brother";

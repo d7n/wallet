@@ -1,1 +1,1 @@
-var mnemonic = "spike worth cloth lend matter pitch cigar drop pizza envelope real rib";
+var mnemonic = "crime rebuild humor evil claim engine barely space upper submit blouse require";

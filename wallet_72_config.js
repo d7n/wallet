@@ -1,1 +1,1 @@
-var mnemonic = "refuse imitate silk wrap pioneer couple ahead fiscal festival limb scale text";
+var mnemonic = "morning able allow fame motor venture grocery mail canyon theme monitor pact";

@@ -1,1 +1,1 @@
-var mnemonic = "attack able fabric razor deal situate anxiety cattle snow extra rifle month";
+var mnemonic = "cover uncover glad aunt long unknown crater involve tuna gasp draw exit";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune area hip fix float huge test noble famous rose wish drip";
+var mnemonic = "absurd island refuse strike climb turn only gesture enact kind human own";

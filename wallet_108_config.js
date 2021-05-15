@@ -1,1 +1,1 @@
-var mnemonic = "meat veteran debris coyote utility super crazy settle silver salute tooth gaze";
+var mnemonic = "oil arctic always ketchup hero install pig theory ugly save poem side";

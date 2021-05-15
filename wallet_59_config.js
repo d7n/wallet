@@ -1,1 +1,1 @@
-var mnemonic = "street utility warm bike twist dawn inquiry rotate learn hammer bus broccoli";
+var mnemonic = "round trade wisdom tornado initial profit route certain service jacket powder denial";

@@ -1,1 +1,1 @@
-var mnemonic = "fury exit mirror dose viable raccoon primary brick crawl describe roof south";
+var mnemonic = "soul game dish guitar rug position gather audit bid visual music butter";

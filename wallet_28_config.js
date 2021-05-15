@@ -1,1 +1,1 @@
-var mnemonic = "betray replace abstract vintage bottom cloth client hen enrich evidence good federal";
+var mnemonic = "diesel wisdom grit wrestle people click shaft pen utility critic crane immense";

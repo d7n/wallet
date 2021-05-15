@@ -1,1 +1,1 @@
-var mnemonic = "choice blush usage hobby mad enemy large tumble menu into below social";
+var mnemonic = "cabbage clever pill clap sock purity hello latin across finish radar choice";

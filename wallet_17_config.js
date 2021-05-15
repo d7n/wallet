@@ -1,1 +1,1 @@
-var mnemonic = "number drink frog jelly purity ripple bench garment find web outside naive";
+var mnemonic = "blush act cloud harbor home soup unable angle snow elegant again catalog";

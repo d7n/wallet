@@ -1,1 +1,1 @@
-var mnemonic = "egg purchase stadium science trumpet test chronic lazy feed pave air space";
+var mnemonic = "salad spare leopard unit oval food pluck oblige assist bronze ordinary crater";

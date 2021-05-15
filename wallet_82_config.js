@@ -1,1 +1,1 @@
-var mnemonic = "secret coast step reopen oil hidden length entry blush opinion south release";
+var mnemonic = "receive multiply actual van possible transfer little oppose carbon roast maid math";

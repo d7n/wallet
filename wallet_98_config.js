@@ -1,1 +1,1 @@
-var mnemonic = "sadness crush student loan addict public friend like tattoo purpose dad abstract";
+var mnemonic = "rival hint hazard wide cycle one snap crystal safe vivid family oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "awake grunt screen pepper bomb memory cute soft border green pill grunt";
+var mnemonic = "roast magnet wave spin young photo dentist swift lemon issue tomorrow exhibit";

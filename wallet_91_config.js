@@ -1,1 +1,1 @@
-var mnemonic = "exchange copper bitter love lake bread dress main cost either west mobile";
+var mnemonic = "leader crunch cool caution mail ocean extend purchase deposit turtle true jaguar";

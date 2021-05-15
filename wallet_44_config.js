@@ -1,1 +1,1 @@
-var mnemonic = "change click ribbon mandate weasel panel spray wire voyage wing math stand";
+var mnemonic = "table blood web traffic mimic soft guide beef above idea sick solution";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum bread audit random pool hope pottery black glue mushroom athlete join";
+var mnemonic = "exhibit height exact biology call tool own digital analyst cart hazard provide";

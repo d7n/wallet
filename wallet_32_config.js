@@ -1,1 +1,1 @@
-var mnemonic = "circle undo blind episode snap planet stable false math coin slow uniform";
+var mnemonic = "analyst cram treat arctic noble inflict shell oxygen worry nurse fox dash";

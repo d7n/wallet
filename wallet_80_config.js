@@ -1,1 +1,1 @@
-var mnemonic = "fatal arrive isolate burden coral baby pizza earth bacon neutral conduct wish";
+var mnemonic = "document favorite snake wrestle fresh punch crop demand alien comfort foster affair";

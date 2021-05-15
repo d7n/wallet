@@ -1,1 +1,1 @@
-var mnemonic = "catch cake close patrol badge shock wife comfort color buzz upset orange";
+var mnemonic = "balance someone appear moon make front wreck boss salon hazard gossip media";

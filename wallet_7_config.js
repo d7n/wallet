@@ -1,1 +1,1 @@
-var mnemonic = "era cannon garment guilt staff menu moon silly picture combine spring whip";
+var mnemonic = "couch ketchup angry cool connect gasp math nasty measure forest actual term";

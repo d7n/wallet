@@ -1,1 +1,1 @@
-var mnemonic = "found mango minute device mother pepper echo tree prevent adjust worth enough";
+var mnemonic = "harvest shove pizza utility spider boy debate reform tornado blame solution avocado";

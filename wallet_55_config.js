@@ -1,1 +1,1 @@
-var mnemonic = "dilemma vital need clay action sheriff minute dust blast spell cash brief";
+var mnemonic = "gold forest uncle together warfare tree orient surge run west good limb";

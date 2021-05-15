@@ -1,1 +1,1 @@
-var mnemonic = "garbage section bracket hope foam hover give flower boss define divorce kid";
+var mnemonic = "purse valley cruise nerve roast fossil noble salon network turtle ready inmate";

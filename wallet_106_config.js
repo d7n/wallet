@@ -1,1 +1,1 @@
-var mnemonic = "wheel lobster sock jar clarify turn assist woman control father audit trumpet";
+var mnemonic = "chaos zebra tired scissors coach wife fat squeeze palm cabbage dumb depth";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain credit burger drink acquire dial crystal motor lock bag employ sample";
+var mnemonic = "focus arena list creek moon steak accident guilt food image language chimney";

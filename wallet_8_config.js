@@ -1,1 +1,1 @@
-var mnemonic = "ticket magic faint opinion joke fever obvious album pause flat edge clerk";
+var mnemonic = "vacuum approve mosquito pet detail unveil enable entry arctic wish elbow attend";

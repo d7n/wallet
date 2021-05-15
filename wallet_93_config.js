@@ -1,1 +1,1 @@
-var mnemonic = "similar patrol toss flower vessel receive vague duty scrap dice shy sort";
+var mnemonic = "dawn wheel senior alarm goddess expire critic result palace math neither patch";

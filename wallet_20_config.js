@@ -1,1 +1,1 @@
-var mnemonic = "episode across convince spring auction energy cabin meat farm turtle shallow car";
+var mnemonic = "waste spin lake trust mammal forward rotate scale pyramid spin merry inside";

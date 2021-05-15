@@ -1,1 +1,1 @@
-var mnemonic = "wish tip alcohol surface can match warm stock satisfy seek input kiwi";
+var mnemonic = "nose away ordinary jaguar vacant open carry rich room soon intact drill";

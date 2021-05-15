@@ -1,1 +1,1 @@
-var mnemonic = "digital poet orient push labor strong book border nose sing loan grape";
+var mnemonic = "blossom weasel copper next wheat vague wink forest call panel inject assist";

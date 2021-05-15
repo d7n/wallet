@@ -1,1 +1,1 @@
-var mnemonic = "right post hurt auction funny puzzle deny hello memory rib clever atom";
+var mnemonic = "just leisure element tree marine shine cactus text clip way load wisdom";

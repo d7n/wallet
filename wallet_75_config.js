@@ -1,1 +1,1 @@
-var mnemonic = "fence vehicle chat spend tiger kangaroo leg bundle country meat dolphin fury";
+var mnemonic = "toss fabric figure organ you embark hunt shoot divide worth embrace evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "admit twelve major brave dawn belt crumble bulb soft inhale youth asset";
+var mnemonic = "together daughter faith dentist basket mask runway sign brush breeze filter assault";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix power situate brother wait hire amazing pumpkin crash slender update cloud";
+var mnemonic = "force danger usual notice kick crowd wreck cigar boat often couple humble";

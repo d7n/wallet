@@ -1,1 +1,1 @@
-var mnemonic = "rhythm bone peasant hen lens robust case soft sense unable evolve vanish";
+var mnemonic = "stone sign inject husband velvet label like surge slam force hybrid spell";

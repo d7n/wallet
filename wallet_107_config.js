@@ -1,1 +1,1 @@
-var mnemonic = "eight forest funny forum taste proof beauty able beach desk word juice";
+var mnemonic = "rent grab fuel truck divorce seed mutual account trigger pistol sad absorb";

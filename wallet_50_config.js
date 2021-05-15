@@ -1,1 +1,1 @@
-var mnemonic = "heart laugh exhibit cancel path verb error expect window benefit torch hold";
+var mnemonic = "area garlic mix season region switch skull media asset confirm clog file";

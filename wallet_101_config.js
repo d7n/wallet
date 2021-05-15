@@ -1,1 +1,1 @@
-var mnemonic = "height ribbon main pen tragic income series raw pave pony thing leisure";
+var mnemonic = "segment element inflict fragile liar claim evil field jacket usage patrol warfare";

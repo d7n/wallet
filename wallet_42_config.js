@@ -1,1 +1,1 @@
-var mnemonic = "female need prison catch brother cup skill spoon pilot culture labor three";
+var mnemonic = "rival emotion unaware under wire dragon edge humble baby feel gentle camera";

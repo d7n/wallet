@@ -1,1 +1,1 @@
-var mnemonic = "august truck relax unhappy focus derive waste prepare panic please clever blast";
+var mnemonic = "panther language three cool mind snack bundle lumber manual fiction manage target";

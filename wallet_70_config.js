@@ -1,1 +1,1 @@
-var mnemonic = "abstract hover butter tongue buyer blouse margin detail brush flavor strategy forward";
+var mnemonic = "toddler legend sister rifle purity ability time space special profit mutual tape";

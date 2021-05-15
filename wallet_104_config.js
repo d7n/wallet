@@ -1,1 +1,1 @@
-var mnemonic = "life monkey reform impact unfair spawn wolf brass holiday shoot sport matter";
+var mnemonic = "job turkey game someone column metal flower sick domain trumpet solution device";

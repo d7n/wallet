@@ -1,1 +1,1 @@
-var mnemonic = "pole resource toe example kick cube prison tonight victory zoo tell travel";
+var mnemonic = "radio river race carbon seat embrace bargain trip horn bracket cricket carry";

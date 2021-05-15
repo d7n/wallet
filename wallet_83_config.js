@@ -1,1 +1,1 @@
-var mnemonic = "wing hybrid junior novel kid hour leave ball reflect comfort mutual doctor";
+var mnemonic = "toy fitness require author endorse thunder dish cool fatigue reject album quick";

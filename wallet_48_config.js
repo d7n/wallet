@@ -1,1 +1,1 @@
-var mnemonic = "used adjust alien fever nothing physical auction quarter bleak word pass hedgehog";
+var mnemonic = "modify alcohol gas risk ripple autumn able drift actor blame teach slice";

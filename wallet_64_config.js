@@ -1,1 +1,1 @@
-var mnemonic = "excess across lecture mad used artwork need drip illegal gorilla day slight";
+var mnemonic = "salon open brisk kingdom abandon river hip auction judge buffalo yellow uniform";

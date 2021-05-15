@@ -1,1 +1,1 @@
-var mnemonic = "until firm festival draft menu come skill month very bamboo property wing";
+var mnemonic = "home mom insect snow rent tragic bus slot favorite depend title kick";

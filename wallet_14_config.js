@@ -1,1 +1,1 @@
-var mnemonic = "clarify off cotton armed undo surround child educate celery gym warm grit";
+var mnemonic = "pen prevent choose coast pigeon pool attitude confirm green behind mobile proud";

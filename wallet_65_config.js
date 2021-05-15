@@ -1,1 +1,1 @@
-var mnemonic = "orange creek often innocent finger bright orbit panther novel recycle undo gym";
+var mnemonic = "dry figure expand raw seminar mouse grit want shoot scissors hero manual";

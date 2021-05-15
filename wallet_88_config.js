@@ -1,1 +1,1 @@
-var mnemonic = "resemble actor body valve next emotion honey favorite dilemma infant pretty depend";
+var mnemonic = "crime indicate cause travel potato worth boy goose enforce mountain mix beyond";

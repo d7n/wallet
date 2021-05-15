@@ -1,1 +1,1 @@
-var mnemonic = "above cable ticket nation oil remind leader brass join enough follow egg";
+var mnemonic = "clerk scale horror scout relax main whale chair calm basic fire finger";

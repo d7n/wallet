@@ -1,1 +1,1 @@
-var mnemonic = "excite struggle thunder twelve various use physical either wall toy razor outdoor";
+var mnemonic = "old load weasel quiz season funny tiny sight swear weapon square accident";

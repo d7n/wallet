@@ -1,1 +1,1 @@
-var mnemonic = "purpose ridge note useless equal solve promote mule weather carry unknown asthma";
+var mnemonic = "rose tomato seek beauty eye disorder student priority action exact gallery purchase";

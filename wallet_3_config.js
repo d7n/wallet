@@ -1,1 +1,1 @@
-var mnemonic = "virtual pink juice cloud bright flag client thing spider sugar stone carpet";
+var mnemonic = "unfair crisp rare future actor clock rib maid talent fold write bonus";

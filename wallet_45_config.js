@@ -1,1 +1,1 @@
-var mnemonic = "image baby abstract index fiber solid penalty domain clump cricket mobile asthma";
+var mnemonic = "scout argue fiction stage release same total mention stove crawl across alone";

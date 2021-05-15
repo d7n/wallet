@@ -1,1 +1,1 @@
-var mnemonic = "famous clock state dress fan toddler unable sting delay erupt source alcohol";
+var mnemonic = "test resource viable insane again chunk sample ramp wash process summer dilemma";

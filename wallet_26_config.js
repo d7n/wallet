@@ -1,1 +1,1 @@
-var mnemonic = "spot spend summer enjoy client know people erosion banana normal endorse talk";
+var mnemonic = "test eternal stereo sunny grace provide victory hood thrive speed purchase junior";

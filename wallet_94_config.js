@@ -1,1 +1,1 @@
-var mnemonic = "try patrol soccer tilt merit wink size public short join art major";
+var mnemonic = "trial light junk slight mountain cook install bike risk rapid surprise avocado";

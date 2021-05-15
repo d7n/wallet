@@ -1,1 +1,1 @@
-var mnemonic = "salmon spice affair skull collect remember trend armed curious urban produce genius";
+var mnemonic = "tell retreat ginger disorder tone intact horse sausage disagree usual route desert";

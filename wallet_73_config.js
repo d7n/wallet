@@ -1,1 +1,1 @@
-var mnemonic = "citizen disease core more hundred scorpion focus move speak obtain fly jewel";
+var mnemonic = "canal later brave gravity patrol mystery over finger rally airport bag kit";

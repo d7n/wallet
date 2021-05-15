@@ -1,1 +1,1 @@
-var mnemonic = "betray monster inject radio spread punch hair file abuse test volume off";
+var mnemonic = "vital garment list kit combine finger border vapor pig museum upon hamster";

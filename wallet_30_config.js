@@ -1,1 +1,1 @@
-var mnemonic = "stereo fluid load square rely clap island syrup sense envelope glory fox";
+var mnemonic = "silly fall orphan submit noble illness opera demise pole custom drastic eager";

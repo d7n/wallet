@@ -1,1 +1,1 @@
-var mnemonic = "library auto feed nest vibrant innocent segment casual police bundle twice gather";
+var mnemonic = "right dog step sausage approve laugh ice keen milk deposit typical clip";

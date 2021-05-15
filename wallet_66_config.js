@@ -1,1 +1,1 @@
-var mnemonic = "supply pig chronic remind range demise napkin point scrub stone accuse trial";
+var mnemonic = "vacuum file crystal fragile nominee over uncle flame tourist sail depart isolate";

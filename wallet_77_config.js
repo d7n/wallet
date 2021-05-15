@@ -1,1 +1,1 @@
-var mnemonic = "round until oyster uncle child insane army glass bar country wealth sail";
+var mnemonic = "biology raw world staff fabric grow cheap coil prepare robust version venture";

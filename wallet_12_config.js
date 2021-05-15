@@ -1,1 +1,1 @@
-var mnemonic = "horror decorate worth shiver fatigue face addict basket long same family love";
+var mnemonic = "install six setup young behave wood dentist result taxi can enforce this";

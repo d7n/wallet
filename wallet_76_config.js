@@ -1,1 +1,1 @@
-var mnemonic = "keep unusual loan adapt link curious ridge lecture stamp dress before inch";
+var mnemonic = "build ball stumble vintage brave fit divide bracket arctic index mixture exact";

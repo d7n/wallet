@@ -1,1 +1,1 @@
-var mnemonic = "narrow weapon scissors window squirrel learn ridge sphere corn metal license cigar";
+var mnemonic = "cruise employ upper face danger item margin three pen horror level enable";

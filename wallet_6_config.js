@@ -1,1 +1,1 @@
-var mnemonic = "own have region board renew anger innocent pair pattern crowd utility slot";
+var mnemonic = "guard gold trust lady repair quality life echo sunny shed endorse cigar";

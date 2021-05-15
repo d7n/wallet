@@ -1,1 +1,1 @@
-var mnemonic = "whisper urban express animal scrub alcohol leg bless census news grain half";
+var mnemonic = "rough vocal donor master bridge person forget joy lawsuit foam can town";

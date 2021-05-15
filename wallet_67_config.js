@@ -1,1 +1,1 @@
-var mnemonic = "elite head neutral brush moment section flame example escape song dream frame";
+var mnemonic = "envelope pilot soap gauge long resist asthma baby cattle effort filter cube";

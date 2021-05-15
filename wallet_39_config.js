@@ -1,1 +1,1 @@
-var mnemonic = "consider card skate birth paper glance chronic earth trouble cat scheme chapter";
+var mnemonic = "diet speed april assault struggle wedding plate blast occur when always treat";

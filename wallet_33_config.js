@@ -1,1 +1,1 @@
-var mnemonic = "trend flush charge rhythm floor nest funny owner fragile movie satisfy evoke";
+var mnemonic = "stay inspire tube anxiety sight response badge hammer empower page clog news";

@@ -1,1 +1,1 @@
-var mnemonic = "clown clay lumber place bar relief ostrich alert salon boss identify miss";
+var mnemonic = "near easy fantasy soda disorder scorpion brick typical collect creek enough payment";

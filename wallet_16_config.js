@@ -1,1 +1,1 @@
-var mnemonic = "naive tissue junk crumble crisp print anger attack exact arrive cement inquiry";
+var mnemonic = "zebra festival bitter alone whip crush main guess damp empower monitor giant";

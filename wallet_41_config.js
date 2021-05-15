@@ -1,1 +1,1 @@
-var mnemonic = "usage grace happy ankle clutch noodle inmate common busy wrap apology slab";
+var mnemonic = "glide grain prize receive need broccoli belt creek wet myth salute quantum";

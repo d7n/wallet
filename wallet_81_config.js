@@ -1,1 +1,1 @@
-var mnemonic = "direct ride fence eight run north woman rocket journey only control unknown";
+var mnemonic = "harsh horse express tiny impose use outdoor quiz course equal amused hawk";

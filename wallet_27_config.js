@@ -1,1 +1,1 @@
-var mnemonic = "scan ritual panic brain gather chase stadium sketch gown rule cushion roast";
+var mnemonic = "zoo green favorite potato mom bundle return coyote unfair sentence dose impact";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar flat egg tail glance hedgehog about venue shock please keep scissors";
+var mnemonic = "winner nut recall unable zero segment cool clutch drama course panel mistake";

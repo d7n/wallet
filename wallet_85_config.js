@@ -1,1 +1,1 @@
-var mnemonic = "garment hamster smooth almost inside unique ticket pumpkin yard genre soup shrug";
+var mnemonic = "borrow aim toy comic smoke exile vibrant link gravity memory middle dinosaur";

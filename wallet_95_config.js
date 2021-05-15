@@ -1,1 +1,1 @@
-var mnemonic = "arctic duty eight mammal off stable what later program arch net nothing";
+var mnemonic = "brown jazz test share someone just salt learn sort sentence stool fruit";

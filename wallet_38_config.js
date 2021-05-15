@@ -1,1 +1,1 @@
-var mnemonic = "gap paddle tide gasp cost merry weasel actress palace boil install craft";
+var mnemonic = "frost survey rice test laptop orphan chalk space alien speed ranch split";

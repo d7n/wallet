@@ -1,1 +1,1 @@
-var mnemonic = "proof amazing symbol fetch camera news faculty earth foster patrol very scout";
+var mnemonic = "health core power model farm matter athlete tooth crowd height rich nasty";

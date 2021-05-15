@@ -1,1 +1,1 @@
-var mnemonic = "barely bubble discover situate mystery update ivory sheriff absent unveil rebel reopen";
+var mnemonic = "sunset wife pulse race key chunk wife tag pioneer mule horror demise";

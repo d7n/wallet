@@ -1,1 +1,1 @@
-var mnemonic = "wife festival chuckle disorder erode scorpion door local breeze build awake despair";
+var mnemonic = "clown mix sock rather item gold potato grocery ecology fee poet gym";

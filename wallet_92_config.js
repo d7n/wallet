@@ -1,1 +1,1 @@
-var mnemonic = "immune festival page circle author story extend early suggest pen lava fault";
+var mnemonic = "turkey rescue artist twin husband kid holiday soap clap faint magic photo";

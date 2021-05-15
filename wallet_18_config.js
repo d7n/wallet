@@ -1,1 +1,1 @@
-var mnemonic = "wife sick lottery team truck desk crane blind second fruit universe reject";
+var mnemonic = "minor orchard endorse tackle harvest neglect pepper lesson lyrics tail tobacco little";
