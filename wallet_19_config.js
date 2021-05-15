@@ -1,1 +1,1 @@
-var mnemonic = "betray about kangaroo thought gasp erase remain club guard ladder when leaf";
+var mnemonic = "ill leg assault top glad together auto acoustic barely few milk level";

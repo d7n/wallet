@@ -1,1 +1,1 @@
-var mnemonic = "reflect horse siege car negative become leaf proud repeat exact return fame";
+var mnemonic = "clarify off cotton armed undo surround child educate celery gym warm grit";

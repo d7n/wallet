@@ -1,1 +1,1 @@
-var mnemonic = "member arm push impulse base unique case wheat sibling turn hazard lens";
+var mnemonic = "abandon oxygen kind income bamboo hair target early absent cupboard palm demise";

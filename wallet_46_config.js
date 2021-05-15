@@ -1,1 +1,1 @@
-var mnemonic = "phrase phone live catalog olympic wonder input various assault absorb stadium lens";
+var mnemonic = "salmon spice affair skull collect remember trend armed curious urban produce genius";

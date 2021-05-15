@@ -1,1 +1,1 @@
-var mnemonic = "waste mosquito frost sign planet recycle outside book marble slender purpose brand";
+var mnemonic = "immune festival page circle author story extend early suggest pen lava fault";

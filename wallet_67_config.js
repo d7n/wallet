@@ -1,1 +1,1 @@
-var mnemonic = "aspect budget recipe control thing direct swear close math smoke panda weekend";
+var mnemonic = "elite head neutral brush moment section flame example escape song dream frame";

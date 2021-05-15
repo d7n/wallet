@@ -1,1 +1,1 @@
-var mnemonic = "hurt thunder faint vacant lady glare ship civil piece dove find angry";
+var mnemonic = "citizen disease core more hundred scorpion focus move speak obtain fly jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "salad step bottom glory ramp alter silk frozen either crop ship have";
+var mnemonic = "fortune area hip fix float huge test noble famous rose wish drip";

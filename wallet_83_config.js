@@ -1,1 +1,1 @@
-var mnemonic = "hurt fringe enable fitness inquiry spot melt license delay west profit degree";
+var mnemonic = "wing hybrid junior novel kid hour leave ball reflect comfort mutual doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "pass between near slogan pulse arrest winner try almost stomach prison stool";
+var mnemonic = "meat veteran debris coyote utility super crazy settle silver salute tooth gaze";

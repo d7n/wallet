@@ -1,1 +1,1 @@
-var mnemonic = "either deny alpha employ loop team display buzz oppose adjust term way";
+var mnemonic = "consider card skate birth paper glance chronic earth trouble cat scheme chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "today renew assist meadow section improve horse exchange cousin boil famous lava";
+var mnemonic = "wife festival chuckle disorder erode scorpion door local breeze build awake despair";

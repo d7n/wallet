@@ -1,1 +1,1 @@
-var mnemonic = "penalty provide pottery core invite fruit mix deposit service myself there thrive";
+var mnemonic = "naive tissue junk crumble crisp print anger attack exact arrive cement inquiry";

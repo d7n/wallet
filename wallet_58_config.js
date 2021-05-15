@@ -1,1 +1,1 @@
-var mnemonic = "crime dune rescue truth rude primary clap example organ choose sweet wagon";
+var mnemonic = "wish tip alcohol surface can match warm stock satisfy seek input kiwi";

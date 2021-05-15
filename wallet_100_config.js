@@ -1,1 +1,1 @@
-var mnemonic = "regular negative alcohol flee grain want inflict eternal donkey ritual detail job";
+var mnemonic = "library auto feed nest vibrant innocent segment casual police bundle twice gather";

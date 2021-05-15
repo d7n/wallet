@@ -1,1 +1,1 @@
-var mnemonic = "exit also whale width enhance person else sauce winter wheel absent vital";
+var mnemonic = "virtual pink juice cloud bright flag client thing spider sugar stone carpet";

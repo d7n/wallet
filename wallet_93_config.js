@@ -1,1 +1,1 @@
-var mnemonic = "heart surprise harsh talk cheap vocal confirm lens bus insect enjoy wide";
+var mnemonic = "similar patrol toss flower vessel receive vague duty scrap dice shy sort";

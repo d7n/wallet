@@ -1,1 +1,1 @@
-var mnemonic = "renew under harsh vacant net security dismiss search error skull combine warm";
+var mnemonic = "crisp enjoy harbor side enroll fox sibling harbor portion promote unaware exit";

@@ -1,1 +1,1 @@
-var mnemonic = "risk million thought just unfair safe device pulp power link trophy subject";
+var mnemonic = "whisper urban express animal scrub alcohol leg bless census news grain half";

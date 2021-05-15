@@ -1,1 +1,1 @@
-var mnemonic = "address bid better barely force leaf number foot fever talent rib three";
+var mnemonic = "height ribbon main pen tragic income series raw pave pony thing leisure";

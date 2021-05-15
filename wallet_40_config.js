@@ -1,1 +1,1 @@
-var mnemonic = "grain false coyote camera account age rack scene story release brick jelly";
+var mnemonic = "spike worth cloth lend matter pitch cigar drop pizza envelope real rib";

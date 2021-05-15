@@ -1,1 +1,1 @@
-var mnemonic = "cushion width flame invest organ suit impact sweet obtain divert fury across";
+var mnemonic = "until firm festival draft menu come skill month very bamboo property wing";

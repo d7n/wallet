@@ -1,1 +1,1 @@
-var mnemonic = "cute dolphin very trust auction course sausage faculty hobby decade human ankle";
+var mnemonic = "usage grace happy ankle clutch noodle inmate common busy wrap apology slab";

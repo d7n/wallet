@@ -1,1 +1,1 @@
-var mnemonic = "range half shield height universe dolphin faculty pattern catalog option claim wait";
+var mnemonic = "choice blush usage hobby mad enemy large tumble menu into below social";

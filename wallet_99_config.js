@@ -1,1 +1,1 @@
-var mnemonic = "fitness slice cement cash breeze what actress twenty boost found weapon degree";
+var mnemonic = "oval pull grid oil gloom garage romance desk notable ethics fatigue account";

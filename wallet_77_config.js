@@ -1,1 +1,1 @@
-var mnemonic = "allow atom acquire body favorite duty next concert type merge upon kick";
+var mnemonic = "round until oyster uncle child insane army glass bar country wealth sail";

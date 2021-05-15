@@ -1,1 +1,1 @@
-var mnemonic = "visual style cement satoshi crew color spice eight movie develop that morning";
+var mnemonic = "used adjust alien fever nothing physical auction quarter bleak word pass hedgehog";

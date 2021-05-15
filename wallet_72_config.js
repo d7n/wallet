@@ -1,1 +1,1 @@
-var mnemonic = "rule there field exercise such spread artefact trouble gadget vehicle clinic spare";
+var mnemonic = "refuse imitate silk wrap pioneer couple ahead fiscal festival limb scale text";

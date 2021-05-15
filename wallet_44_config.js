@@ -1,1 +1,1 @@
-var mnemonic = "fresh grocery educate match apology empty honey service panel arm auction blue";
+var mnemonic = "change click ribbon mandate weasel panel spray wire voyage wing math stand";

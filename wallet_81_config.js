@@ -1,1 +1,1 @@
-var mnemonic = "coil antique practice craft tortoise control action wife vanish balcony speed hill";
+var mnemonic = "direct ride fence eight run north woman rocket journey only control unknown";

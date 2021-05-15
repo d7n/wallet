@@ -1,1 +1,1 @@
-var mnemonic = "office exact grain already pledge become evoke atom explain mandate device much";
+var mnemonic = "awake grunt screen pepper bomb memory cute soft border green pill grunt";

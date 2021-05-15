@@ -1,1 +1,1 @@
-var mnemonic = "name predict pill bomb globe provide tomato swamp wood party audit supreme";
+var mnemonic = "fence vehicle chat spend tiger kangaroo leg bundle country meat dolphin fury";

@@ -1,1 +1,1 @@
-var mnemonic = "sell beach pill dragon pear lamp flame fatigue urban still absorb park";
+var mnemonic = "tell pudding fog random dove fog hill merge topic circle bird foot";

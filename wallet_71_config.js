@@ -1,1 +1,1 @@
-var mnemonic = "prepare deputy brick unable volcano moment ramp damage expect over super chest";
+var mnemonic = "purpose ridge note useless equal solve promote mule weather carry unknown asthma";

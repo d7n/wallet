@@ -1,1 +1,1 @@
-var mnemonic = "champion trouble stuff rubber category clerk theme weird hint unfair bubble ginger";
+var mnemonic = "narrow weapon scissors window squirrel learn ridge sphere corn metal license cigar";

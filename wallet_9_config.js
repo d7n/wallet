@@ -1,1 +1,1 @@
-var mnemonic = "prevent face trend shrimp this curious into able surge infant artist donate";
+var mnemonic = "verb never alcohol chapter cradle sunny increase thought lunch convince tennis series";

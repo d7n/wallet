@@ -1,1 +1,1 @@
-var mnemonic = "shoulder rifle dismiss spring hip ride dwarf soon segment tunnel company apart";
+var mnemonic = "eight forest funny forum taste proof beauty able beach desk word juice";

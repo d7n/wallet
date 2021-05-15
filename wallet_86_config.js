@@ -1,1 +1,1 @@
-var mnemonic = "chair grief traffic horse shoot dirt hammer coffee expect cage foil skin";
+var mnemonic = "fury exit mirror dose viable raccoon primary brick crawl describe roof south";

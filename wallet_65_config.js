@@ -1,1 +1,1 @@
-var mnemonic = "verify ethics wasp muffin uncover unfold chief round cherry analyst toast piano";
+var mnemonic = "orange creek often innocent finger bright orbit panther novel recycle undo gym";

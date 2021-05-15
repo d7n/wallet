@@ -1,1 +1,1 @@
-var mnemonic = "report three minimum bamboo gown grace sniff draft fruit daring pass diet";
+var mnemonic = "stereo fluid load square rely clap island syrup sense envelope glory fox";

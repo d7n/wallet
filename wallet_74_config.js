@@ -1,1 +1,1 @@
-var mnemonic = "tonight cause coffee diary february letter gold jeans damp recipe differ primary";
+var mnemonic = "ocean banner limit attract foam case fat gas wine raccoon vault few";

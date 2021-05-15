@@ -1,1 +1,1 @@
-var mnemonic = "swarm carbon prize cry lyrics upset believe lobster swap stable kidney hold";
+var mnemonic = "dilemma vital need clay action sheriff minute dust blast spell cash brief";

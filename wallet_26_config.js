@@ -1,1 +1,1 @@
-var mnemonic = "beach obtain ancient derive divide decide enter unable best useful lab feel";
+var mnemonic = "spot spend summer enjoy client know people erosion banana normal endorse talk";

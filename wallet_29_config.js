@@ -1,1 +1,1 @@
-var mnemonic = "mind morning fabric walnut allow chief bus fork throw shed seek super";
+var mnemonic = "egg purchase stadium science trumpet test chronic lazy feed pave air space";

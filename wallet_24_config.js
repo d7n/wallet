@@ -1,1 +1,1 @@
-var mnemonic = "jungle resemble capital spray jazz blue unable scale strong kiwi normal song";
+var mnemonic = "urge fame stamp clever bind journey milk dumb casual tube engine chair";

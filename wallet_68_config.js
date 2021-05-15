@@ -1,1 +1,1 @@
-var mnemonic = "blame battle knee recall knife occur vast radio victory only question walnut";
+var mnemonic = "rib interest civil burst install surprise april kiss festival host hurt echo";

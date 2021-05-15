@@ -1,1 +1,1 @@
-var mnemonic = "suggest cactus mind length giant injury monitor size piano mule supply wood";
+var mnemonic = "betray monster inject radio spread punch hair file abuse test volume off";

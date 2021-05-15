@@ -1,1 +1,1 @@
-var mnemonic = "rubber include near theme again stomach reject sheriff effort gate multiply copy";
+var mnemonic = "pole resource toe example kick cube prison tonight victory zoo tell travel";

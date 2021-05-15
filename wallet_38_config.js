@@ -1,1 +1,1 @@
-var mnemonic = "gadget razor animal stamp you bounce cement ceiling fox size scan welcome";
+var mnemonic = "gap paddle tide gasp cost merry weasel actress palace boil install craft";

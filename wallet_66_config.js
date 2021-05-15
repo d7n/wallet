@@ -1,1 +1,1 @@
-var mnemonic = "erupt pencil turkey vocal gorilla awkward employ now simple problem retire swarm";
+var mnemonic = "supply pig chronic remind range demise napkin point scrub stone accuse trial";

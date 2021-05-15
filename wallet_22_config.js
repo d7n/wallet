@@ -1,1 +1,1 @@
-var mnemonic = "believe slight decrease access scrap usual riot layer crowd rhythm dad liquid";
+var mnemonic = "right post hurt auction funny puzzle deny hello memory rib clever atom";

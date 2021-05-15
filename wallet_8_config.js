@@ -1,1 +1,1 @@
-var mnemonic = "photo fever ride wrap unaware obscure execute disease clutch skate question wasp";
+var mnemonic = "ticket magic faint opinion joke fever obvious album pause flat edge clerk";

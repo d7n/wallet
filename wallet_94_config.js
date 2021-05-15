@@ -1,1 +1,1 @@
-var mnemonic = "pilot orphan neglect more energy awkward daring moon analyst fold noodle judge";
+var mnemonic = "try patrol soccer tilt merit wink size public short join art major";

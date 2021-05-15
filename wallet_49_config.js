@@ -1,1 +1,1 @@
-var mnemonic = "height health sell base naive situate over merge blade fit caution torch";
+var mnemonic = "clown clay lumber place bar relief ostrich alert salon boss identify miss";

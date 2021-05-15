@@ -1,1 +1,1 @@
-var mnemonic = "wine guitar clerk donor staff song tissue assist quit universe middle obey";
+var mnemonic = "resemble actor body valve next emotion honey favorite dilemma infant pretty depend";

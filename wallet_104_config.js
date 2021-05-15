@@ -1,1 +1,1 @@
-var mnemonic = "soon track control enroll matrix produce school style adjust school elephant task";
+var mnemonic = "life monkey reform impact unfair spawn wolf brass holiday shoot sport matter";

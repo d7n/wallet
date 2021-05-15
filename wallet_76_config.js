@@ -1,1 +1,1 @@
-var mnemonic = "north cram type torch price farm retire float dumb nut letter crawl";
+var mnemonic = "keep unusual loan adapt link curious ridge lecture stamp dress before inch";

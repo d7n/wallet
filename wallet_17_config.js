@@ -1,1 +1,1 @@
-var mnemonic = "dinner rely heavy noble amazing cat organ gun sport urge auction outer";
+var mnemonic = "number drink frog jelly purity ripple bench garment find web outside naive";

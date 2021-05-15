@@ -1,1 +1,1 @@
-var mnemonic = "beyond ginger rebel wing color uniform bulb honey vacuum riot arrange vacant";
+var mnemonic = "cigar flat egg tail glance hedgehog about venue shock please keep scissors";

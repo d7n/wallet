@@ -1,1 +1,1 @@
-var mnemonic = "image inner tent jewel hobby ivory sentence stadium chat wise direct mimic";
+var mnemonic = "attack able fabric razor deal situate anxiety cattle snow extra rifle month";

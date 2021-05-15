@@ -1,1 +1,1 @@
-var mnemonic = "balance fog salon garden pulse donate surge injury toss add gossip still";
+var mnemonic = "street utility warm bike twist dawn inquiry rotate learn hammer bus broccoli";

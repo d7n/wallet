@@ -1,1 +1,1 @@
-var mnemonic = "typical behave fever join marriage bargain into favorite viable box crack any";
+var mnemonic = "venture alpha wealth garlic token park extra code shine share work hedgehog";

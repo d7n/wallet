@@ -1,1 +1,1 @@
-var mnemonic = "limit funny egg mystery olive promote work expect cigar balcony silly month";
+var mnemonic = "heart laugh exhibit cancel path verb error expect window benefit torch hold";

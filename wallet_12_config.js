@@ -1,1 +1,1 @@
-var mnemonic = "run zero margin dust fee joy report region nurse cream cart model";
+var mnemonic = "horror decorate worth shiver fatigue face addict basket long same family love";

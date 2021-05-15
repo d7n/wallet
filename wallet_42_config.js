@@ -1,1 +1,1 @@
-var mnemonic = "remain garment test bitter disagree few early cute chalk used game tissue";
+var mnemonic = "female need prison catch brother cup skill spoon pilot culture labor three";

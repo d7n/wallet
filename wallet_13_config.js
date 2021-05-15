@@ -1,1 +1,1 @@
-var mnemonic = "seminar crop pepper today spare opera stumble reflect tenant casual start text";
+var mnemonic = "subway join crawl fade upset initial twin knee garbage true welcome rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "bench casino wisdom country silk sound dutch blush liberty isolate alone torch";
+var mnemonic = "rhythm bone peasant hen lens robust case soft sense unable evolve vanish";

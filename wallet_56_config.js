@@ -1,1 +1,1 @@
-var mnemonic = "ecology elevator elevator mammal very sick wash area nose image snap acid";
+var mnemonic = "catch cake close patrol badge shock wife comfort color buzz upset orange";

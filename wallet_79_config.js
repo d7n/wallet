@@ -1,1 +1,1 @@
-var mnemonic = "ripple blouse sentence frog staff health output pave stick fame connect stereo";
+var mnemonic = "garbage section bracket hope foam hover give flower boss define divorce kid";

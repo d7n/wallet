@@ -1,1 +1,1 @@
-var mnemonic = "educate castle forum meadow lion feed hand valve system state easily help";
+var mnemonic = "admit twelve major brave dawn belt crumble bulb soft inhale youth asset";

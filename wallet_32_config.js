@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit absent trial ice swear cannon element story potato evoke bubble number";
+var mnemonic = "circle undo blind episode snap planet stable false math coin slow uniform";

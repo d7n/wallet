@@ -1,1 +1,1 @@
-var mnemonic = "latin fade jump wrong crumble pig tilt answer essence about talent veteran";
+var mnemonic = "accident fog panic amused duck excess cash metal segment tiger egg across";

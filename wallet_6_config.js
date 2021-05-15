@@ -1,1 +1,1 @@
-var mnemonic = "melody menu lazy filter spawn march carry next book bracket play forest";
+var mnemonic = "own have region board renew anger innocent pair pattern crowd utility slot";

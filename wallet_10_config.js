@@ -1,1 +1,1 @@
-var mnemonic = "mutual settle pottery safe begin action gadget dynamic risk false banner fly";
+var mnemonic = "dust math atom save dutch inspire peanut leaf legal mind danger that";

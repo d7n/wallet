@@ -1,1 +1,1 @@
-var mnemonic = "increase long pig village squeeze refuse impose symbol oxygen affair crush solid";
+var mnemonic = "image baby abstract index fiber solid penalty domain clump cricket mobile asthma";

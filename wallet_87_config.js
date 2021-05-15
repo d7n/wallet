@@ -1,1 +1,1 @@
-var mnemonic = "jeans rifle gate call exact giant cycle enact file human always isolate";
+var mnemonic = "proof amazing symbol fetch camera news faculty earth foster patrol very scout";

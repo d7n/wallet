@@ -1,1 +1,1 @@
-var mnemonic = "potato athlete cat genius erase dwarf include elevator life chaos off brush";
+var mnemonic = "trend flush charge rhythm floor nest funny owner fragile movie satisfy evoke";

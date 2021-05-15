@@ -1,1 +1,1 @@
-var mnemonic = "frown genius luggage staff bone render switch notice north cabin fiction require";
+var mnemonic = "rigid dragon body green warrior deal all depend train idle lend wine";

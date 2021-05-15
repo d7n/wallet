@@ -1,1 +1,1 @@
-var mnemonic = "banner cabbage clump wheat vast wait pumpkin endorse tortoise town session kingdom";
+var mnemonic = "fatal arrive isolate burden coral baby pizza earth bacon neutral conduct wish";

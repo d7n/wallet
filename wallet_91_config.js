@@ -1,1 +1,1 @@
-var mnemonic = "hybrid inch skill wealth addict beauty gasp muscle behind client fruit aware";
+var mnemonic = "exchange copper bitter love lake bread dress main cost either west mobile";

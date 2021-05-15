@@ -1,1 +1,1 @@
-var mnemonic = "prize soldier close cradle harsh identify client leader wild fatigue swarm music";
+var mnemonic = "case lounge word cram later absent bracket salmon antenna eager talk rough";

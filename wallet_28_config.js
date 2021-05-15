@@ -1,1 +1,1 @@
-var mnemonic = "swallow marble remember reform husband tragic wet observe expand hammer dragon rhythm";
+var mnemonic = "betray replace abstract vintage bottom cloth client hen enrich evidence good federal";

@@ -1,1 +1,1 @@
-var mnemonic = "parent parent whisper involve shock gate quality indoor night alcohol extra hen";
+var mnemonic = "jelly total vibrant clinic peasant wall powder shoot nerve valley summer fox";

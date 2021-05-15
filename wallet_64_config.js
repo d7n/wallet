@@ -1,1 +1,1 @@
-var mnemonic = "vessel jungle toast naive word diet shadow easily tissue country sign athlete";
+var mnemonic = "excess across lecture mad used artwork need drip illegal gorilla day slight";

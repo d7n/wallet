@@ -1,1 +1,1 @@
-var mnemonic = "garage toilet confirm thing answer wire warfare jewel because omit right mandate";
+var mnemonic = "barely bubble discover situate mystery update ivory sheriff absent unveil rebel reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "just fury dilemma time follow donate during benefit acquire file fine appear";
+var mnemonic = "digital poet orient push labor strong book border nose sing loan grape";

@@ -1,1 +1,1 @@
-var mnemonic = "else series genre useless garlic margin aware skill mom luxury blur dizzy";
+var mnemonic = "above cable ticket nation oil remind leader brass join enough follow egg";

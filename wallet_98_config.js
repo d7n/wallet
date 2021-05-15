@@ -1,1 +1,1 @@
-var mnemonic = "rely crunch tourist net speak radio region like toe cabin liar exercise";
+var mnemonic = "sadness crush student loan addict public friend like tattoo purpose dad abstract";

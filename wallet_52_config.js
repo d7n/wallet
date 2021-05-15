@@ -1,1 +1,1 @@
-var mnemonic = "lady pair mask engage march fog merge valid holiday gate midnight try";
+var mnemonic = "open hub card noise gap bonus brief link smart fit copy cruise";

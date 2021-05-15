@@ -1,1 +1,1 @@
-var mnemonic = "act route honey decorate dentist rare jacket surface robot mimic screen dial";
+var mnemonic = "matrix power situate brother wait hire amazing pumpkin crash slender update cloud";

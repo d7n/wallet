@@ -1,1 +1,1 @@
-var mnemonic = "become social refuse lyrics elder method favorite melody curtain practice obscure ready";
+var mnemonic = "garment hamster smooth almost inside unique ticket pumpkin yard genre soup shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "clap piece chair manage derive patrol ticket switch keep trigger kind impulse";
+var mnemonic = "found mango minute device mother pepper echo tree prevent adjust worth enough";

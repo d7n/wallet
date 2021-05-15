@@ -1,1 +1,1 @@
-var mnemonic = "wage right rotate cause hospital tool sense neither blind soda coin favorite";
+var mnemonic = "episode across convince spring auction energy cabin meat farm turtle shallow car";

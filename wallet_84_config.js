@@ -1,1 +1,1 @@
-var mnemonic = "wool roof step guard lizard cover pupil fat surround laundry edit allow";
+var mnemonic = "conduct minor hand access month gain jacket always target child humble melt";

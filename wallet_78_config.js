@@ -1,1 +1,1 @@
-var mnemonic = "beach chronic hire clump snap dutch spare practice wet arctic anger gift";
+var mnemonic = "minimum bread audit random pool hope pottery black glue mushroom athlete join";

@@ -1,1 +1,1 @@
-var mnemonic = "palace burger garbage fade twist damp mystery civil ecology skill direct laundry";
+var mnemonic = "tray adult rough flock aspect leisure seminar midnight story quick cost catalog";

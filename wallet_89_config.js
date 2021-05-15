@@ -1,1 +1,1 @@
-var mnemonic = "jewel expose aunt silent wave conduct banner sand embrace double broken expose";
+var mnemonic = "august truck relax unhappy focus derive waste prepare panic please clever blast";

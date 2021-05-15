@@ -1,1 +1,1 @@
-var mnemonic = "romance above lava city lawsuit agree disorder betray right guard casual cake";
+var mnemonic = "wife sick lottery team truck desk crane blind second fruit universe reject";
