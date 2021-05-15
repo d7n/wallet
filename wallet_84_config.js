@@ -1,1 +1,1 @@
-var mnemonic = "width glow toe tourist chase despair spoil bike marine silent three tiger";
+var mnemonic = "will either ranch observe medal filter frozen neglect inspire knock snow van";

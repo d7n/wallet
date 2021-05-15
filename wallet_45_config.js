@@ -1,1 +1,1 @@
-var mnemonic = "metal receive end aisle hidden round chest yellow wolf address crop theme";
+var mnemonic = "clip able bitter wealth rival frog piece verb venue subway minute dog";

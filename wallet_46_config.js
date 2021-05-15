@@ -1,1 +1,1 @@
-var mnemonic = "person buyer start invest foster story certain transfer pole pet pill left";
+var mnemonic = "allow robust donate thunder year minimum pelican panel alpha tortoise foot lunar";

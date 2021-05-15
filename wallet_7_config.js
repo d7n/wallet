@@ -1,1 +1,1 @@
-var mnemonic = "motion aisle cry stairs hybrid twenty ball transfer dolphin visa butter ticket";
+var mnemonic = "inquiry wagon quit city seminar organ trip client cream amazing cradle observe";

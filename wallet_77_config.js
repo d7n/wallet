@@ -1,1 +1,1 @@
-var mnemonic = "camera sock install whisper curve night leisure lyrics game cost taxi rather";
+var mnemonic = "win garage rack kingdom give hip intact gasp make buddy punch crane";

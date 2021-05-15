@@ -1,1 +1,1 @@
-var mnemonic = "page before menu dash diagram coast crush stable pistol oxygen monkey stereo";
+var mnemonic = "raven amateur middle rebuild nature fence music tank trick seek wet earn";

@@ -1,1 +1,1 @@
-var mnemonic = "pond priority outside push twist soda swear laundry equal code capital square";
+var mnemonic = "witness strategy special multiply nurse action spawn trick coffee office crowd slush";

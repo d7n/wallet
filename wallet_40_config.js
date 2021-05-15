@@ -1,1 +1,1 @@
-var mnemonic = "afraid write unit tattoo simple bless pool sudden finger require shaft disorder";
+var mnemonic = "term purchase dragon safe pudding change pig when planet eternal lady slight";

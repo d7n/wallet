@@ -1,1 +1,1 @@
-var mnemonic = "harbor sun window lecture pluck vacuum behave wrong gentle clog slim fee";
+var mnemonic = "border zebra wet violin nation since merit visual aunt side left shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "labor excite ceiling cart movie sausage uncle siren fresh disagree wave piano";
+var mnemonic = "armed board north top lobster cancel seven museum guard tide illegal cousin";

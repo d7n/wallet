@@ -1,1 +1,1 @@
-var mnemonic = "eagle tragic below float umbrella order penalty oval unaware midnight hire wide";
+var mnemonic = "story ready bind lecture able issue spatial industry extend welcome breeze admit";

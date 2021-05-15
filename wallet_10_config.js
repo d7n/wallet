@@ -1,1 +1,1 @@
-var mnemonic = "dress kitchen blur tunnel sweet tonight bracket orchard fresh close talent fantasy";
+var mnemonic = "strong build scatter birth inherit blossom review media cherry real pepper simple";

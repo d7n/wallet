@@ -1,1 +1,1 @@
-var mnemonic = "burden goddess story auto bird mother truth tomato rifle loop scale super";
+var mnemonic = "resist clinic crawl again dog wild salt physical umbrella select lift marble";

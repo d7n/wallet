@@ -1,1 +1,1 @@
-var mnemonic = "salmon lens shove they egg review awkward mansion consider normal local dune";
+var mnemonic = "solar cupboard just castle gap garden gap clog connect position faint member";

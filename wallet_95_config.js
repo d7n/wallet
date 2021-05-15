@@ -1,1 +1,1 @@
-var mnemonic = "tilt start dilemma test simple spice outer bundle poverty divert stable genius";
+var mnemonic = "budget margin decide hire snow drive spider junk tuition arrange middle knee";

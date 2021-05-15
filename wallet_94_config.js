@@ -1,1 +1,1 @@
-var mnemonic = "trip fresh name split priority latin mystery first claw start begin physical";
+var mnemonic = "chaos click syrup spice layer gap cross refuse junior initial exclude stool";

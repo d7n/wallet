@@ -1,1 +1,1 @@
-var mnemonic = "whale donate focus area hazard liquid print typical chat clerk alien diesel";
+var mnemonic = "hedgehog outside exhaust maid meadow sing print grape sport giraffe armor silent";

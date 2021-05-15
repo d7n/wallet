@@ -1,1 +1,1 @@
-var mnemonic = "resemble feature run exile razor improve depart fantasy always deny donor various";
+var mnemonic = "bulb crater game render asset danger spice mammal unusual acid novel record";

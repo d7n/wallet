@@ -1,1 +1,1 @@
-var mnemonic = "detect book cabbage salute scene shell own fluid topic inflict chunk blame";
+var mnemonic = "route ice memory key print warfare tiger record math veteran found series";

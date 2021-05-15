@@ -1,1 +1,1 @@
-var mnemonic = "inch camera oil city bottom erosion aspect balcony aware dance order attack";
+var mnemonic = "venture image warrior health bird chief erase sheriff multiply lobster rail rocket";

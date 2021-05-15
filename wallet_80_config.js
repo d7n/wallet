@@ -1,1 +1,1 @@
-var mnemonic = "beef sort hard capable meat margin item grow express antique sample omit";
+var mnemonic = "decline remain street near chalk carpet transfer wave oak deny young unveil";

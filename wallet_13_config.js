@@ -1,1 +1,1 @@
-var mnemonic = "enter ability fashion canal swap promote eager bird govern bulb moon lounge";
+var mnemonic = "country seek sense crystal stay small avoid embody charge urge smart limit";

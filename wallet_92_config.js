@@ -1,1 +1,1 @@
-var mnemonic = "column brief regret defy exchange print wash enemy artefact impose error tape";
+var mnemonic = "knee suspect horror spider chalk spy civil scrub episode never toe square";

@@ -1,1 +1,1 @@
-var mnemonic = "cross talk anchor ask kangaroo alter sing bird visit exile symptom sound";
+var mnemonic = "goat correct travel until pupil reward blur proof snap young impose ask";

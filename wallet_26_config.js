@@ -1,1 +1,1 @@
-var mnemonic = "century shadow humble aware eye illegal tuna shrimp dragon harvest away taxi";
+var mnemonic = "other vapor ritual public swamp promote curtain suffer alien side pretty aunt";

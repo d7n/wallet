@@ -1,1 +1,1 @@
-var mnemonic = "gate sign announce solar decide fold fury tumble faith taste click latin";
+var mnemonic = "wave river inside spare decrease valley creek bulb zebra census wool drift";

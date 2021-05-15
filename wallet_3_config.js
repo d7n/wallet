@@ -1,1 +1,1 @@
-var mnemonic = "search print point acid banner midnight exchange pigeon hood decline oak whisper";
+var mnemonic = "end culture wave quote system answer find unfold sauce blast cover pattern";

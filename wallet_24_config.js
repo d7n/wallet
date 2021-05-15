@@ -1,1 +1,1 @@
-var mnemonic = "issue situate refuse film name travel ahead swear sight burden occur unusual";
+var mnemonic = "category orange certain blame monitor give already drink oven two stay envelope";

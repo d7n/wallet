@@ -1,1 +1,1 @@
-var mnemonic = "pyramid increase hole clerk salmon virus magic jelly middle canvas meadow fresh";
+var mnemonic = "bind pluck food knock urban much bachelor topple sunny engage second rifle";

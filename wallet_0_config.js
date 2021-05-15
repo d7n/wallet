@@ -1,1 +1,1 @@
-var mnemonic = "position garage energy coyote giraffe fire endorse pumpkin flip autumn broom practice";
+var mnemonic = "report wire slam ring same bamboo lava marine six year return fitness";

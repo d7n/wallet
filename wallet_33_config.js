@@ -1,1 +1,1 @@
-var mnemonic = "frown brother enrich congress popular chaos unit venture suffer swim senior label";
+var mnemonic = "copper swarm sell aim garment fashion face asthma write buzz drum silver";

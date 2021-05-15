@@ -1,1 +1,1 @@
-var mnemonic = "exotic supply brick kite claw belt clerk file yard truth cattle dilemma";
+var mnemonic = "install expose bacon crystal ladder hockey library refuse deny raw aerobic pet";

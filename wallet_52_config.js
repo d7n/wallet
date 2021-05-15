@@ -1,1 +1,1 @@
-var mnemonic = "diary divorce margin hover sleep husband tired ridge spin emotion film ceiling";
+var mnemonic = "apple about evolve cause reason kidney caught useless trend document canyon one";

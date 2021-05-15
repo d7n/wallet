@@ -1,1 +1,1 @@
-var mnemonic = "loop eager access dignity era strategy tobacco lunar episode cargo plug gather";
+var mnemonic = "dinner maid april floor window program squirrel key child sing absorb human";

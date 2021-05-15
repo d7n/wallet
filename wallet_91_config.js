@@ -1,1 +1,1 @@
-var mnemonic = "outdoor review announce remove ahead used dinner wrap garage detail grant mouse";
+var mnemonic = "mistake piece circle cloth acid churn trash skate gesture wife reject fold";

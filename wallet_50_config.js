@@ -1,1 +1,1 @@
-var mnemonic = "decide vicious grain hurt rather okay cash million toilet burst movie label";
+var mnemonic = "leader increase rotate sense vocal kite artist rib photo already slogan soldier";

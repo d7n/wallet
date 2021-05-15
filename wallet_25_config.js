@@ -1,1 +1,1 @@
-var mnemonic = "vocal vacant current turkey nerve excite pelican combine delay mountain print library";
+var mnemonic = "cousin high poverty glue injury wet piece swift else tilt sketch surface";

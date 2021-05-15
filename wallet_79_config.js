@@ -1,1 +1,1 @@
-var mnemonic = "concert sport solar mixture grid year slush vessel sick gossip clarify lawsuit";
+var mnemonic = "hurry tape truth benefit such obtain wisdom torch heavy decide forest pony";

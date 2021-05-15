@@ -1,1 +1,1 @@
-var mnemonic = "turkey wisdom cradle trade toward shove glove snake shuffle october length debate";
+var mnemonic = "control crucial east power wash gaze oak huge pottery flight fever tongue";

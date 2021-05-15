@@ -1,1 +1,1 @@
-var mnemonic = "desk flee fitness mule useful stool kind dress rare heart employ asset";
+var mnemonic = "satisfy robot anger save hockey spawn insect mom crop follow chimney grit";

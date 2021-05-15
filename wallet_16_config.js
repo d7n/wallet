@@ -1,1 +1,1 @@
-var mnemonic = "aspect average connect desk wrist soup sister drink bargain poverty clay merit";
+var mnemonic = "arm carbon shiver hood reflect inflict husband boy measure mean riot chief";

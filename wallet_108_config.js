@@ -1,1 +1,1 @@
-var mnemonic = "bid obscure used clown lemon vendor vicious miracle artist later prosper impose";
+var mnemonic = "fade nominee crash mammal rocket trick cushion release frozen grace rescue then";

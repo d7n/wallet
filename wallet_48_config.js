@@ -1,1 +1,1 @@
-var mnemonic = "firm goose seven illegal case blur laundry airport decade decrease pyramid student";
+var mnemonic = "catalog income buyer actual cliff toilet energy outer evil image fit doll";

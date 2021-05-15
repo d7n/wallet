@@ -1,1 +1,1 @@
-var mnemonic = "sock armed tower blue resource black caution chief enlist lunar flash indicate";
+var mnemonic = "stand orange achieve apology tiger gap monster rifle border lyrics swap budget";

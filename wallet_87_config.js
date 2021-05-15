@@ -1,1 +1,1 @@
-var mnemonic = "oblige latin lemon gym tongue ostrich spoon vessel ten dial glory welcome";
+var mnemonic = "resource universe elevator gas middle taxi suit menu armor cup link diary";

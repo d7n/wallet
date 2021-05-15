@@ -1,1 +1,1 @@
-var mnemonic = "alien attract poet horn buzz program hobby never girl check genuine horse";
+var mnemonic = "vacant more wool cube legend bonus farm smart giggle obey put prevent";

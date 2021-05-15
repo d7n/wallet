@@ -1,1 +1,1 @@
-var mnemonic = "faint daughter film skate zoo crush erase photo hungry always execute leader";
+var mnemonic = "entire face night actress favorite party poverty phone rug belt friend injury";

@@ -1,1 +1,1 @@
-var mnemonic = "best crash timber quit size mushroom crop cousin gold audit solid replace";
+var mnemonic = "anchor imitate emotion dose farm raven despair reject burden win purpose roof";

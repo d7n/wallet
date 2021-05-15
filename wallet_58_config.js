@@ -1,1 +1,1 @@
-var mnemonic = "suit next inner pizza blade claw ketchup speed strong seven ship identify";
+var mnemonic = "question real rather jealous cook shallow october hip awake trigger beach dress";

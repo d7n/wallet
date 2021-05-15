@@ -1,1 +1,1 @@
-var mnemonic = "panda super vendor friend mother canal find trend what quick glass antenna";
+var mnemonic = "trick buzz hotel amused nurse risk kitchen penalty wrap guitar voyage dragon";

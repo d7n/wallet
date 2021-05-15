@@ -1,1 +1,1 @@
-var mnemonic = "off flat worth oppose excess sail goose garment judge another express pony";
+var mnemonic = "diamond milk lava enemy quick argue glare ability anchor steak vacuum fold";

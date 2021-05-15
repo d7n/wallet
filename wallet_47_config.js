@@ -1,1 +1,1 @@
-var mnemonic = "parent panic torch near canyon crisp knock parade hold desert wagon rotate";
+var mnemonic = "loan verb oblige athlete sting border sun embark space merry balcony execute";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp exclude mask jelly excess during speak aim pride promote equip relax";
+var mnemonic = "scale cliff zebra sleep sound egg divert cloud jungle envelope clump airport";

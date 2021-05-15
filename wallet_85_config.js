@@ -1,1 +1,1 @@
-var mnemonic = "demise pool people over estate fragile now fringe patient define joke gallery";
+var mnemonic = "meadow cool option music fashion prize private various bounce across correct dynamic";

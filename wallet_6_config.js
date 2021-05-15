@@ -1,1 +1,1 @@
-var mnemonic = "staff auction gadget click diesel baby mind page turn search rack disease";
+var mnemonic = "carpet must exist gap collect enhance devote okay mean unknown equip talent";

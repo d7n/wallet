@@ -1,1 +1,1 @@
-var mnemonic = "win donate void visual soap sea venture talk wide issue saddle wave";
+var mnemonic = "target claw fault hurry wing narrow climb south better follow maximum jewel";

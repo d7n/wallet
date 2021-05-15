@@ -1,1 +1,1 @@
-var mnemonic = "ride deer saddle author artist oxygen meat wise analyst jeans lawsuit version";
+var mnemonic = "yard accuse what bind hospital speak curious dumb noise pond juice riot";

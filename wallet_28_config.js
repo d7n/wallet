@@ -1,1 +1,1 @@
-var mnemonic = "inspire endless ankle someone region tooth away step wash orchard foot rival";
+var mnemonic = "luxury owner final cheap snake expand awkward together visual build narrow stadium";

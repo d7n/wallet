@@ -1,1 +1,1 @@
-var mnemonic = "leave violin paddle distance crawl tackle fire destroy alien vocal dynamic build";
+var mnemonic = "town antique escape attract nurse civil coffee fade tourist earth raise rival";

@@ -1,1 +1,1 @@
-var mnemonic = "focus maximum world jewel weekend merge punch area amount rocket amused joke";
+var mnemonic = "gown pitch myself acoustic upset transfer nut horn hello target major main";

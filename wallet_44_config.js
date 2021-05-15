@@ -1,1 +1,1 @@
-var mnemonic = "pudding rule edge fish hero silk echo exist liar library laugh address";
+var mnemonic = "athlete laundry person baby loyal reject enemy follow lemon swap price female";

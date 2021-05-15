@@ -1,1 +1,1 @@
-var mnemonic = "throw bronze pledge park cabin tragic snake upper minimum moment open roast";
+var mnemonic = "devote ride alert settle seminar field spare twist actress manual utility canal";

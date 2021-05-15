@@ -1,1 +1,1 @@
-var mnemonic = "whip ice ability snack inmate strike arctic scrap rare struggle toddler shiver";
+var mnemonic = "crucial pipe change aerobic renew female orphan fire long athlete lamp spot";

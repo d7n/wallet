@@ -1,1 +1,1 @@
-var mnemonic = "quiz decide ten coin ring visa quick spirit hobby network saddle animal";
+var mnemonic = "forward library empty cabbage steel motor scrub proud canvas sell hero artefact";

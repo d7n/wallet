@@ -1,1 +1,1 @@
-var mnemonic = "decade below enhance badge table motor sentence flavor educate lamp pear electric";
+var mnemonic = "subway ginger loan dune tunnel pizza beef try sugar orient bird judge";

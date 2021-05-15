@@ -1,1 +1,1 @@
-var mnemonic = "door dinner jungle giraffe actual novel praise guitar muscle stomach portion diagram";
+var mnemonic = "end vacuum crop danger health below bottom client attack almost local glance";

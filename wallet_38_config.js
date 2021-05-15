@@ -1,1 +1,1 @@
-var mnemonic = "inquiry volcano royal athlete simple fluid shove alter identify auto junk broom";
+var mnemonic = "either common knife inmate bottom prevent broom muscle protect poet hub symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom ghost choice idea few zebra unveil duck direct peace action torch";
+var mnemonic = "acid core example post tobacco globe crunch twelve amateur dial poem agent";

@@ -1,1 +1,1 @@
-var mnemonic = "universe license alter library retreat elephant alone cute imitate west deer person";
+var mnemonic = "evoke antique person coffee flavor reunion raven wheat cross wife cause sense";

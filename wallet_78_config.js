@@ -1,1 +1,1 @@
-var mnemonic = "tenant trophy tag question alert icon despair table wear peace express air";
+var mnemonic = "syrup income pottery twenty mouse repair blossom permit twelve slow young kitchen";

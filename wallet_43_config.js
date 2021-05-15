@@ -1,1 +1,1 @@
-var mnemonic = "marriage girl use clock clog print march electric safe actress solve object";
+var mnemonic = "rent pool delay submit churn awful dose vapor piece clay wrong giraffe";

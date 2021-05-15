@@ -1,1 +1,1 @@
-var mnemonic = "silk lady opinion clarify latin grab nephew upper speed glow length muffin";
+var mnemonic = "focus palace stay sphere surprise party final tide dream night document coconut";

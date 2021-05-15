@@ -1,1 +1,1 @@
-var mnemonic = "radio gaze layer evolve naive happy initial else badge sun mammal bachelor";
+var mnemonic = "unlock same remain sort october absorb fashion lift edge rapid shield typical";

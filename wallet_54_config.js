@@ -1,1 +1,1 @@
-var mnemonic = "vital tattoo extra exotic knee gauge prepare crucial nuclear clarify wagon creek";
+var mnemonic = "various few swear ritual size weapon own certain favorite bag shift inherit";

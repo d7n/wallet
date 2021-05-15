@@ -1,1 +1,1 @@
-var mnemonic = "about borrow wing cruel melt barely local festival noodle system cover bright";
+var mnemonic = "gain squeeze fire smooth math comfort urban give swallow frequent come winter";

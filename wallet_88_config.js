@@ -1,1 +1,1 @@
-var mnemonic = "window toy empty hero plunge slow rack trap corn blame torch apology";
+var mnemonic = "nose mask wash slot glow unique move choose appear unveil nominee hire";

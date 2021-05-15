@@ -1,1 +1,1 @@
-var mnemonic = "diesel type host spread river memory daring kidney same produce kick hen";
+var mnemonic = "dance wave tornado scissors dizzy orphan junior tip rapid ginger shift merge";

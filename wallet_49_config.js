@@ -1,1 +1,1 @@
-var mnemonic = "knee flush derive birth over rapid easily note sting notice bulb whisper";
+var mnemonic = "limb miracle doctor glove stick public wage creek sea peasant school slot";

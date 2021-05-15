@@ -1,1 +1,1 @@
-var mnemonic = "swing board devote pipe safe abuse thunder jar seven enjoy treat tonight";
+var mnemonic = "kit all obtain drink donkey panda alarm section shop forum animal impose";

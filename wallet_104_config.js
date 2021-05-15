@@ -1,1 +1,1 @@
-var mnemonic = "quiz funny sniff gauge success school process hobby shoe slush scrap pride";
+var mnemonic = "object winner alert modify despair fly wear skill siren among parent elbow";

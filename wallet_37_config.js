@@ -1,1 +1,1 @@
-var mnemonic = "when deliver hurdle wing trade sting sunny grocery acquire dismiss feature stamp";
+var mnemonic = "anger very option cinnamon birth invite flower sing slight abandon noise gossip";

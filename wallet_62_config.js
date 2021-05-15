@@ -1,1 +1,1 @@
-var mnemonic = "entire recycle left pyramid scissors monitor lazy predict nephew lazy jelly door";
+var mnemonic = "enjoy glance future know usual huge vague absurd summer special there roast";

@@ -1,1 +1,1 @@
-var mnemonic = "blue sponsor tray step grow fragile crash insect tiger practice park boil";
+var mnemonic = "right misery final slim boy blur suffer door capital timber drastic van";

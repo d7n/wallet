@@ -1,1 +1,1 @@
-var mnemonic = "enjoy liquid right goose under pistol original armor public spring move time";
+var mnemonic = "tone dynamic girl have canvas parrot uncle around bonus because okay sing";

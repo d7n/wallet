@@ -1,1 +1,1 @@
-var mnemonic = "tumble annual rail creek sunny raccoon labor theory wide cry extra speak";
+var mnemonic = "trap song hair title toward woman apart entry target better hazard lobster";

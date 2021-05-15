@@ -1,1 +1,1 @@
-var mnemonic = "basic tower six stomach fall soon script prevent nation day pave demise";
+var mnemonic = "gas edit mechanic salmon crane night volcano expect spice laugh online denial";

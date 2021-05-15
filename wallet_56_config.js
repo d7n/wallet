@@ -1,1 +1,1 @@
-var mnemonic = "laugh diagram galaxy rail depart goddess desk tone frame ski industry lumber";
+var mnemonic = "senior seek trap hazard behind below easily palace answer jelly boost dune";

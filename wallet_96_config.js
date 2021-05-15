@@ -1,1 +1,1 @@
-var mnemonic = "arctic duty insane plunge comfort chuckle dog elbow recipe planet chalk brush";
+var mnemonic = "because space angry impulse dirt where input call cereal globe silk glare";

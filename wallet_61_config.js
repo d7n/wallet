@@ -1,1 +1,1 @@
-var mnemonic = "olive street sphere pride settle crop piece cement unit space mixture ribbon";
+var mnemonic = "parade color talk lucky net cry sugar debate nephew reunion dentist system";

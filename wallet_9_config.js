@@ -1,1 +1,1 @@
-var mnemonic = "lecture sunny fame east dance setup outer pilot beef arrange yard october";
+var mnemonic = "item door second club egg repair drum just inhale tape waste cushion";

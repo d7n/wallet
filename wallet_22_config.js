@@ -1,1 +1,1 @@
-var mnemonic = "mind large image mountain friend caught tragic imitate submit odor kiss color";
+var mnemonic = "urban become face smile world laundry record benefit grocery hip connect avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "lava intact liquid business timber green dad faculty prefer young stable easily";
+var mnemonic = "panda cool decade cream pitch noodle run steak toilet stool soldier spirit";

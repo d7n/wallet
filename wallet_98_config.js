@@ -1,1 +1,1 @@
-var mnemonic = "crush power window power stuff ensure ship voice scale flash impact boost";
+var mnemonic = "film shield only bridge term lounge album slender clever draw salute sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "machine atom motor address upon gain fatal fantasy infant client slow sound";
+var mnemonic = "page trial alien barely sniff one music notice dwarf abandon cloud iron";

@@ -1,1 +1,1 @@
-var mnemonic = "original idea lonely motor start hobby awesome hero laptop food bone crater";
+var mnemonic = "century unable crater square hospital load during biology explain rule split heart";

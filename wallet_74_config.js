@@ -1,1 +1,1 @@
-var mnemonic = "cross shock cry dose grit assault clerk human about average awesome receive";
+var mnemonic = "sand fade aerobic blood jacket dish finger reveal portion stamp alien add";
