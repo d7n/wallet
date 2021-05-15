@@ -1,1 +1,1 @@
-var mnemonic = "nasty lawsuit until egg grain pave country velvet heavy excess metal file";
+var mnemonic = "hub question tourist engage tape reject cancel chalk cushion mask anxiety lab";

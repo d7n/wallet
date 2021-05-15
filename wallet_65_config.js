@@ -1,1 +1,1 @@
-var mnemonic = "flush oak soap ice annual shuffle over unique indicate collect bicycle lab";
+var mnemonic = "kid upper index sell alcohol usage keep veteran color nature trigger sample";

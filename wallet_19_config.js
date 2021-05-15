@@ -1,1 +1,1 @@
-var mnemonic = "gift wrestle street quiz fiction clerk rent fork upset lesson suggest hundred";
+var mnemonic = "forest reduce first update beauty cotton useless gossip erupt word mobile put";

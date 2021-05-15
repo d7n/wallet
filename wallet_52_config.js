@@ -1,1 +1,1 @@
-var mnemonic = "tape lecture initial rifle mouse hawk bachelor churn also craft win peasant";
+var mnemonic = "crew spice cube coast element female salon sorry soul physical adult shed";

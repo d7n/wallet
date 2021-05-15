@@ -1,1 +1,1 @@
-var mnemonic = "reopen invest canyon pyramid connect priority bulb test private useless inflict throw";
+var mnemonic = "pony knife puppy spoil buddy mystery roof abuse kit all emerge picnic";

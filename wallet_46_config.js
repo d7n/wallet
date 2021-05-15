@@ -1,1 +1,1 @@
-var mnemonic = "lobster hint pulse champion modify receive harvest nest pen weather scene drop";
+var mnemonic = "online inmate blue couple shaft menu ride exclude dice smoke duck buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "remind prison hungry today hold drift shaft test margin modify rain able";
+var mnemonic = "target local mention swing parent layer crystal poet pitch snack raccoon harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "inject ramp crime glory half normal stairs discover fitness scout modify ethics";
+var mnemonic = "invite guess expire narrow clutch certain virus avocado praise local crowd stairs";

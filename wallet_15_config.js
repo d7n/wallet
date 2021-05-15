@@ -1,1 +1,1 @@
-var mnemonic = "method safe frequent today frozen hair usual version like lend wink master";
+var mnemonic = "armor bless lens donate tornado tortoise spot mercy party guide decorate list";

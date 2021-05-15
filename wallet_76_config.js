@@ -1,1 +1,1 @@
-var mnemonic = "exile museum laundry inform light crouch odor expire spawn swallow shed scissors";
+var mnemonic = "media convince rebel magic fall valve foam elite dynamic obvious pencil stumble";

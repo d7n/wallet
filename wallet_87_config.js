@@ -1,1 +1,1 @@
-var mnemonic = "ozone imitate almost mountain shift boring oak similar spy flag crop effort";
+var mnemonic = "ski flag play good empower thunder head laugh walk buddy bag spray";

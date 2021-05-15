@@ -1,1 +1,1 @@
-var mnemonic = "same spirit together exclude dizzy chest extra glare grocery issue annual begin";
+var mnemonic = "cool day old lyrics enjoy era south exhaust nation derive globe sense";

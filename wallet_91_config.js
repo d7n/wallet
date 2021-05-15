@@ -1,1 +1,1 @@
-var mnemonic = "dad twenty quiz answer pepper sheriff decrease invite license night cupboard skill";
+var mnemonic = "ill link fork vacuum chest hello impact hen easily lemon local afraid";

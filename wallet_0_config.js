@@ -1,1 +1,1 @@
-var mnemonic = "dial gesture side inhale goose recipe ready gaze wage reunion large rubber";
+var mnemonic = "ridge power undo subway exotic fatal dial rebel extend celery toddler genius";

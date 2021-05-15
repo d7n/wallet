@@ -1,1 +1,1 @@
-var mnemonic = "hope increase wedding sketch stage apple comfort praise oyster hazard tobacco gesture";
+var mnemonic = "dumb tape guitar shine street citizen uncle first voyage praise body sea";

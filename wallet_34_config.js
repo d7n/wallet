@@ -1,1 +1,1 @@
-var mnemonic = "cause attend beauty swear spoon tumble cause fold chronic kiss stool trade";
+var mnemonic = "note title mercy race angle vanish disorder barely shrug alley column math";

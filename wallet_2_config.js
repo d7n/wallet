@@ -1,1 +1,1 @@
-var mnemonic = "clean pet diamond guide very loud cheap aunt royal off method rabbit";
+var mnemonic = "tower ginger current margin giraffe evidence food length board harsh figure dish";

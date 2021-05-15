@@ -1,1 +1,1 @@
-var mnemonic = "olympic window ready furnace sword doctor any blind salt rocket treat canal";
+var mnemonic = "truck price addict upset enforce light unhappy slush royal pumpkin slogan media";

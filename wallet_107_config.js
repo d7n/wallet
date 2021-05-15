@@ -1,1 +1,1 @@
-var mnemonic = "cruise script dizzy moon great brass share rigid duty claim must caution";
+var mnemonic = "small employ claw rotate matter ridge shed subject method dry endless text";

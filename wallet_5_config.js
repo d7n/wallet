@@ -1,1 +1,1 @@
-var mnemonic = "elephant fortune cargo flush broccoli fortune taste depart hamster buzz night post";
+var mnemonic = "gather gate treat kiss camera depth erosion cliff high bullet scheme light";

@@ -1,1 +1,1 @@
-var mnemonic = "curve bracket flag you hip bone unfold reflect fun identify audit digital";
+var mnemonic = "dilemma trip clap build small fork custom slam car rival green leopard";

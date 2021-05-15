@@ -1,1 +1,1 @@
-var mnemonic = "day busy virtual donor clerk middle common false special lounge stereo slender";
+var mnemonic = "bamboo core garbage desk swap cereal cash cliff liquid lock monster enrich";

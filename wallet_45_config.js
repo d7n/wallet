@@ -1,1 +1,1 @@
-var mnemonic = "master wheel text shed undo beef fatal face youth wealth fault wolf";
+var mnemonic = "balcony charge clever stay boss bike yard multiply pepper club tuition admit";

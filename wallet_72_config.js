@@ -1,1 +1,1 @@
-var mnemonic = "unaware ozone scheme weapon nuclear october noise tape chief wink ceiling toe";
+var mnemonic = "hobby proud robust lunch mad original apple receive wire crew toddler expand";

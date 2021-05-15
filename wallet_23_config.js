@@ -1,1 +1,1 @@
-var mnemonic = "better town try dizzy sample crawl document rescue dinner equip notice put";
+var mnemonic = "smoke join naive nominee quick cause route oblige brass reason awesome relax";

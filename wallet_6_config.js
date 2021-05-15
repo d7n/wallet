@@ -1,1 +1,1 @@
-var mnemonic = "doll taxi choose return jeans sea disease crucial blast document exit island";
+var mnemonic = "marine omit have false rib uncle marble duty logic timber ship meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "pen loan dash cereal good bamboo journey vote random pulp gravity erase";
+var mnemonic = "license add mother under obscure clean else police fabric sniff trigger safe";

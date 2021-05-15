@@ -1,1 +1,1 @@
-var mnemonic = "borrow tenant lady nuclear urge van cart electric prevent erode grow toddler";
+var mnemonic = "cradle blanket resist usual drink happy spirit twist spawn power solution stay";

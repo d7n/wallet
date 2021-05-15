@@ -1,1 +1,1 @@
-var mnemonic = "keep field pluck chat slogan system kite still surprise party flee chat";
+var mnemonic = "raise egg night tape fever enough rely pretty author slender liberty answer";

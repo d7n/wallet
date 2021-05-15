@@ -1,1 +1,1 @@
-var mnemonic = "easily mean street naive erode exhaust dolphin lake you split burden dwarf";
+var mnemonic = "remember affair frame salute host target crouch earth radio alarm exotic rail";

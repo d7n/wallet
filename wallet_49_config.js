@@ -1,1 +1,1 @@
-var mnemonic = "idea maid knife liar worth voice oyster outside kick response outdoor okay";
+var mnemonic = "forum violin work balcony remember scrap crime poem toy dove sight ramp";

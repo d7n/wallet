@@ -1,1 +1,1 @@
-var mnemonic = "afraid tool deliver benefit horn bone alert pool velvet member unveil slender";
+var mnemonic = "drop basic cash early battle black deer crawl rebuild matrix bounce blind";

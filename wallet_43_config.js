@@ -1,1 +1,1 @@
-var mnemonic = "elbow digital coffee much damp pig describe panther copper paper junk olympic";
+var mnemonic = "can junk tower lizard day donor napkin travel wise shell thing burger";

@@ -1,1 +1,1 @@
-var mnemonic = "opera evil chunk ocean little pink sight detail actual illegal owner ocean";
+var mnemonic = "obtain corn van pave cute cannon retreat define lamp hurdle coyote spoon";

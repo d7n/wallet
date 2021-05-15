@@ -1,1 +1,1 @@
-var mnemonic = "guilt maze mean upgrade private profit palace fine action monkey scissors announce";
+var mnemonic = "disease brass pupil tunnel unfair swarm royal burger alert into jeans yard";

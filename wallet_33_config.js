@@ -1,1 +1,1 @@
-var mnemonic = "bid audit car sentence bike patient pigeon tourist echo rude shallow future";
+var mnemonic = "acquire hair upgrade share sunset shrimp ginger matrix quit coffee aisle drink";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff town salmon parrot abandon steak example wasp inherit later zoo kangaroo";
+var mnemonic = "eagle resist climb young damage tobacco umbrella connect kid amateur priority auto";

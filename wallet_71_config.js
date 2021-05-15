@@ -1,1 +1,1 @@
-var mnemonic = "monster disease column found lab mixture tortoise act little bounce mixed build";
+var mnemonic = "melody farm random horror vast couple burger surround junk clarify huge buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew require bounce glance olive mass motor fatal employ exotic return dial";
+var mnemonic = "elegant voice phone side dynamic robust explain measure vessel night aim skin";

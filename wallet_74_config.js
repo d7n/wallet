@@ -1,1 +1,1 @@
-var mnemonic = "crucial engage access horror combine electric define design know thing follow save";
+var mnemonic = "pattern away cook wrist person prize issue forget edit nominee mind party";

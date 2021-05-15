@@ -1,1 +1,1 @@
-var mnemonic = "still clock denial soup weird famous refuse promote train spider seven peasant";
+var mnemonic = "quote goat net since donate soccer obscure faculty lava vivid half enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "impose stomach treat again ticket east occur cargo gentle moral wrong casual";
+var mnemonic = "camp december win feed pass narrow hawk amazing pepper air property inform";

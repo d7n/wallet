@@ -1,1 +1,1 @@
-var mnemonic = "sick trick pudding soldier hockey elegant volcano remember note have chronic uniform";
+var mnemonic = "you photo waste lens eternal length achieve before improve private kitten burger";

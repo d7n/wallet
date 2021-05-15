@@ -1,1 +1,1 @@
-var mnemonic = "garage quote inner disagree jaguar various island secret famous relax guitar doll";
+var mnemonic = "mouse fetch estate tiger you album oblige public deal blame scrub bar";

@@ -1,1 +1,1 @@
-var mnemonic = "attract fruit lend august upgrade drift horse dwarf fatigue orient please wink";
+var mnemonic = "exact return cabbage check piano renew sock circle tissue material attitude orient";

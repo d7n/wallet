@@ -1,1 +1,1 @@
-var mnemonic = "zone square include inquiry dose wrap remember frame advice math social wealth";
+var mnemonic = "venue bean attitude crop need hobby olympic anchor deny clever enough claw";

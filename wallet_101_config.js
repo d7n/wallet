@@ -1,1 +1,1 @@
-var mnemonic = "slot decade damp real install egg raven error item much bone when";
+var mnemonic = "october domain portion shop grace uphold sea aisle wish reward bus proof";

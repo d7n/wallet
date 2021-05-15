@@ -1,1 +1,1 @@
-var mnemonic = "sure radar model indicate profit safe quality satoshi pony donkey client neither";
+var mnemonic = "into expire side loan flash blade account luxury belt rifle person gas";

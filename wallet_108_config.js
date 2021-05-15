@@ -1,1 +1,1 @@
-var mnemonic = "protect cost good secret improve task vast doll nominee sorry bacon balcony";
+var mnemonic = "same guitar cash change cycle wish pelican broken label such future device";

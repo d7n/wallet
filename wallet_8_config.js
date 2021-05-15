@@ -1,1 +1,1 @@
-var mnemonic = "judge duty satisfy summer remove settle book dice special feed one only";
+var mnemonic = "entire endless voyage win move rotate head buddy mercy gym state huge";

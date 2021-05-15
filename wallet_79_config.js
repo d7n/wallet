@@ -1,1 +1,1 @@
-var mnemonic = "belt lens lonely promote extend poverty assist finger figure screen riot mansion";
+var mnemonic = "wine news thunder vessel shove weird slam degree clean olive picnic credit";

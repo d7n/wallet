@@ -1,1 +1,1 @@
-var mnemonic = "ability cook squirrel wagon isolate leaf vehicle unable broom vault busy this";
+var mnemonic = "joy broom improve allow jeans powder across around sight weapon vote stairs";

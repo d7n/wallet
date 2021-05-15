@@ -1,1 +1,1 @@
-var mnemonic = "motion kit primary swift mom blossom glare wrong animal safe discover bomb";
+var mnemonic = "vehicle between clip prosper gesture immense disease worth morning primary blade collect";

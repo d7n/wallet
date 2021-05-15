@@ -1,1 +1,1 @@
-var mnemonic = "uphold lazy oil hover business sugar margin finger property gate sphere build";
+var mnemonic = "when rigid mammal replace bag moon decide skin meat happy noodle position";

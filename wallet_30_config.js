@@ -1,1 +1,1 @@
-var mnemonic = "plunge economy right ship loud claw fame elevator access cover lazy task";
+var mnemonic = "rabbit boil brand craft crane bridge outdoor trim notice artwork trigger hole";

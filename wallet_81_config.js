@@ -1,1 +1,1 @@
-var mnemonic = "hollow april cabbage width exercise gesture ketchup fine drip supply subway burst";
+var mnemonic = "toast kit wish hockey brand resemble walnut comfort pizza best donate core";

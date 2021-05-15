@@ -1,1 +1,1 @@
-var mnemonic = "dragon able nephew sister mixture cry opinion fringe loyal symptom initial alarm";
+var mnemonic = "olympic obey lamp wine discover action curtain denial degree tuition object awkward";

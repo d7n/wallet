@@ -1,1 +1,1 @@
-var mnemonic = "purse couple digital pizza present goose sadness common dumb general blouse turtle";
+var mnemonic = "relax section spy gun paper sting series broken art note fence stereo";

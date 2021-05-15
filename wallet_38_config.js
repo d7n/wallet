@@ -1,1 +1,1 @@
-var mnemonic = "minor draft stereo cannon race fabric source edit axis gasp emerge glide";
+var mnemonic = "motor mother frog brick clap kitchen little input liquid blood amazing invite";

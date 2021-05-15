@@ -1,1 +1,1 @@
-var mnemonic = "special walk often chuckle frost forum topple ethics bag happy stock approve";
+var mnemonic = "item velvet aisle battle never venture item decade eternal gown say physical";

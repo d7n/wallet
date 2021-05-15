@@ -1,1 +1,1 @@
-var mnemonic = "broken husband finger mass produce nice gown lawn run unhappy deal skate";
+var mnemonic = "device gauge yellow pill unique genuine express horse sign fashion wrap during";

@@ -1,1 +1,1 @@
-var mnemonic = "early engine short fortune milk tiny payment gossip safe round kiwi middle";
+var mnemonic = "trick pulp neck lonely ranch glass honey result humor swim ask argue";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha tank eternal include breeze shine salt topple mixture toast other game";
+var mnemonic = "coil swamp extend sand rough scrap sweet erase door suit hold swim";

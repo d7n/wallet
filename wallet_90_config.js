@@ -1,1 +1,1 @@
-var mnemonic = "lumber version duty razor this deputy finish valley fox buddy breeze lens";
+var mnemonic = "peace spirit tennis west lens shuffle green kick web bamboo match talent";

@@ -1,1 +1,1 @@
-var mnemonic = "write symptom oval never mammal supreme luggage vocal settle question beauty mutual";
+var mnemonic = "define stay carry slice awful joke shed asset describe coach regular shock";

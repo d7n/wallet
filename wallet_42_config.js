@@ -1,1 +1,1 @@
-var mnemonic = "trip sketch glory tag panda fantasy oyster soldier wash finish else rapid";
+var mnemonic = "borrow slim element doll tool glance draw drift frequent method toilet dance";

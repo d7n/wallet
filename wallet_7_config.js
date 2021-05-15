@@ -1,1 +1,1 @@
-var mnemonic = "erode call future seed woman rug emotion coin session hamster true over";
+var mnemonic = "prison aspect certain level rapid urban trust bitter grace climb useful erase";

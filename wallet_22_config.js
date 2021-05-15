@@ -1,1 +1,1 @@
-var mnemonic = "rescue material chicken siren category magic cloud short travel mimic swift twice";
+var mnemonic = "visa rally person ability oil muscle gain remind fiber letter roast trumpet";

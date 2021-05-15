@@ -1,1 +1,1 @@
-var mnemonic = "pepper miss retire advance orange category hungry duty early square moment tortoise";
+var mnemonic = "level ski chest govern bomb harbor million useless convince adjust exact topic";

@@ -1,1 +1,1 @@
-var mnemonic = "shop thing horn glance hold clap midnight excess agent want loyal tunnel";
+var mnemonic = "leader cage kind sun seat tent burst actress year purse wool then";

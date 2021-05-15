@@ -1,1 +1,1 @@
-var mnemonic = "ritual clump grow inquiry door trade daughter destroy permit quote expand hospital";
+var mnemonic = "casual prosper jeans flower vacuum fatal adjust breeze valid decorate scheme blast";

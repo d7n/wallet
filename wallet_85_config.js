@@ -1,1 +1,1 @@
-var mnemonic = "idea tool distance limit pitch verify tragic parent select win smile season";
+var mnemonic = "muffin dinosaur pioneer yard fortune position business addict reward bullet second lens";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic stumble web pen trial enrich raccoon nation scrub scissors ill scorpion";
+var mnemonic = "brass girl tired brave loud eyebrow desk cotton space fashion whisper powder";

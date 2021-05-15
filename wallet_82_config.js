@@ -1,1 +1,1 @@
-var mnemonic = "agent neither mutual primary evidence resist cute monkey smart route curious alarm";
+var mnemonic = "light rescue offer again laptop payment rigid spare prosper motor blanket west";

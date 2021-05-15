@@ -1,1 +1,1 @@
-var mnemonic = "dumb fatal toast across multiply wreck length kingdom act nuclear wealth hard";
+var mnemonic = "annual walk eternal dawn random lab win below jungle balcony oven number";

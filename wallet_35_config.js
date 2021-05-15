@@ -1,1 +1,1 @@
-var mnemonic = "retreat absurd dry embark sibling aisle govern divert shiver fog earn actor";
+var mnemonic = "come cave try crash pizza kitten citizen question youth rabbit country salt";

@@ -1,1 +1,1 @@
-var mnemonic = "fit similar gasp asthma business wink morning chapter crack nasty glare naive";
+var mnemonic = "agree rib plunge own exist bird duck wide rent oven mass tide";

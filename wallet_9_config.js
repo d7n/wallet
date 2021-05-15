@@ -1,1 +1,1 @@
-var mnemonic = "tree badge airport age cool any group remind vast river tourist purity";
+var mnemonic = "kiss meat husband assist electric town cool degree wife brave phone rough";

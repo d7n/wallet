@@ -1,1 +1,1 @@
-var mnemonic = "ghost route drift retire chunk flee frog lucky protect busy run error";
+var mnemonic = "corn differ once laundry marine solution game grape lesson rigid spoil lake";

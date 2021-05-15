@@ -1,1 +1,1 @@
-var mnemonic = "trigger alcohol item online voyage rain hover dynamic large hurry path multiply";
+var mnemonic = "strategy one riot kidney kangaroo bubble rifle fish skill people walnut oak";

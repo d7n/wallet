@@ -1,1 +1,1 @@
-var mnemonic = "budget ask boil rice total barrel clown fluid shine hurdle unknown control";
+var mnemonic = "talent always dinosaur tumble awkward trophy sense clean hint basket decline drink";

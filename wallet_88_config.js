@@ -1,1 +1,1 @@
-var mnemonic = "purse shrimp crash lake mom festival click amount athlete picnic venture best";
+var mnemonic = "library attend diary clarify method vacuum deputy fold raise bonus zebra huge";

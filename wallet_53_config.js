@@ -1,1 +1,1 @@
-var mnemonic = "disorder violin furnace still theory decrease myself garage unknown shoot author digital";
+var mnemonic = "lazy vendor doll click lizard foster display witness pair crawl motion fortune";

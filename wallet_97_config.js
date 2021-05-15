@@ -1,1 +1,1 @@
-var mnemonic = "profit impulse trend rent old jazz orbit hint guitar rack hope noise";
+var mnemonic = "trap deposit forest shed chunk frog empty sound upgrade repeat funny cliff";

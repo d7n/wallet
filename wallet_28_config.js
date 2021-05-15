@@ -1,1 +1,1 @@
-var mnemonic = "seminar release vintage inflict carbon pumpkin usual punch senior item rebel combine";
+var mnemonic = "thrive never laundry hurdle hill add demise sick want cool whip weapon";

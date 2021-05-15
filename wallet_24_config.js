@@ -1,1 +1,1 @@
-var mnemonic = "deposit capital grit dream ready grief fade thing circle taste gadget hero";
+var mnemonic = "limit speak recycle tone oil normal concert dawn toast inner limb tortoise";

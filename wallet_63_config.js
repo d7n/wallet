@@ -1,1 +1,1 @@
-var mnemonic = "walk opera hundred until output until fetch train siren scheme survey betray";
+var mnemonic = "jacket pluck sister giant lecture pen seek blue life song vast sauce";

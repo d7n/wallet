@@ -1,1 +1,1 @@
-var mnemonic = "frost usage dad warrior defy cook shy busy blanket beef junior vibrant";
+var mnemonic = "pig empty achieve gold arena flower length spoon ranch wood truth uncle";

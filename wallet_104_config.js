@@ -1,1 +1,1 @@
-var mnemonic = "october focus deposit sustain expire genius equip quantum ahead give final elevator";
+var mnemonic = "budget hundred oppose mixture winner rookie dizzy peasant region tool swing call";
