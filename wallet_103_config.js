@@ -1,1 +1,1 @@
-var mnemonic = "paddle frozen treat glass sugar pass path idle add timber pipe tape";
+var mnemonic = "trend push dinosaur slow girl mandate abuse real sweet group april usual";

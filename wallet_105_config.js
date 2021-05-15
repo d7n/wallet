@@ -1,1 +1,1 @@
-var mnemonic = "slow occur acoustic deliver sauce receive travel club hollow swing will inflict";
+var mnemonic = "bike rival two student hunt craft opera animal furnace try orchard bus";

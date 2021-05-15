@@ -1,1 +1,1 @@
-var mnemonic = "system defense phrase salon hope double tell either hand group general pipe";
+var mnemonic = "change hotel gravity tomorrow undo promote rich reflect about know crop kitten";

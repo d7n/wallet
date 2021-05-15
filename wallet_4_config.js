@@ -1,1 +1,1 @@
-var mnemonic = "write addict category thumb slow tumble night memory swarm marriage story random";
+var mnemonic = "ensure theme provide federal adapt tunnel cute toward craft famous mom stage";

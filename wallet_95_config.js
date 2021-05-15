@@ -1,1 +1,1 @@
-var mnemonic = "wet pigeon staff smart brush voice sketch expand matter latin adult pitch";
+var mnemonic = "tattoo act almost anger hidden case about cushion usual cheap page trap";

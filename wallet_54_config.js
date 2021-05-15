@@ -1,1 +1,1 @@
-var mnemonic = "reunion ivory point transfer three marine immune priority front survey found clerk";
+var mnemonic = "document cupboard system random place local thunder search kite protect common fire";

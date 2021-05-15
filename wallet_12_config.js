@@ -1,1 +1,1 @@
-var mnemonic = "craft river heart sweet badge wet tackle canvas luxury kitten news angle";
+var mnemonic = "maple area control alien idle double focus holiday cereal fruit first effort";

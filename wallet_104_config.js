@@ -1,1 +1,1 @@
-var mnemonic = "cliff foster evil angle profit glue venue they smile change twin just";
+var mnemonic = "else sweet double person able essence couch fruit hair genuine leave useful";

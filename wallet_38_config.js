@@ -1,1 +1,1 @@
-var mnemonic = "spare man armor suggest tank party dawn figure discover snake outside cushion";
+var mnemonic = "elite reflect polar govern sweet uncover review steel vibrant fringe junior uphold";

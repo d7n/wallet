@@ -1,1 +1,1 @@
-var mnemonic = "click decade hover luggage orient life donkey fatigue mixed give athlete grocery";
+var mnemonic = "still danger sign brief list kitten perfect announce wonder camera clarify absorb";

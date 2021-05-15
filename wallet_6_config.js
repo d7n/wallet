@@ -1,1 +1,1 @@
-var mnemonic = "quality sight rubber frame sound merit spin image misery cigar infant guard";
+var mnemonic = "legend dutch anxiety control tool proud field gentle behind cloud cliff velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "find april clown napkin giggle dish pilot speed upon whip oxygen blind";
+var mnemonic = "toast find smoke immense pencil damage quarter into memory easily gorilla casino";

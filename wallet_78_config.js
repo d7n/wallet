@@ -1,1 +1,1 @@
-var mnemonic = "magnet kiwi output north claim deputy banner lion urge dish movie describe";
+var mnemonic = "distance great vivid winter pear drop notice busy awesome catch wrap you";

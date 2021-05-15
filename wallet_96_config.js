@@ -1,1 +1,1 @@
-var mnemonic = "obey history armor sudden similar nerve stamp road nominee drop glad patrol";
+var mnemonic = "submit marine shoot rare dilemma dog venue pull oppose season slab peanut";

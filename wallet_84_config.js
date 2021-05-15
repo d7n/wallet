@@ -1,1 +1,1 @@
-var mnemonic = "subway slender arrange dignity ill traffic soon chronic join squeeze answer other";
+var mnemonic = "seven return pizza gate satisfy favorite affair alert enemy school sausage cradle";

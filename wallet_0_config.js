@@ -1,1 +1,1 @@
-var mnemonic = "fetch eye digital antenna donate jazz hamster private chest olive dice diamond";
+var mnemonic = "rotate dice soon oppose bus unlock movie fish travel minor clarify this";

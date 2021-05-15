@@ -1,1 +1,1 @@
-var mnemonic = "blood tooth lounge asset cabin travel absurd learn clerk cushion lens lucky";
+var mnemonic = "hard globe source raccoon burger spirit badge master explain rocket rotate village";

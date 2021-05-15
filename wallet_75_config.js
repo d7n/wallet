@@ -1,1 +1,1 @@
-var mnemonic = "rally super veteran forward scene describe outer leopard usage muscle calm cushion";
+var mnemonic = "laundry catch aim rib pistol scorpion cycle dinosaur change struggle purse burst";

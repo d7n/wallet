@@ -1,1 +1,1 @@
-var mnemonic = "suffer owner dynamic diary rail chalk impulse bind agree notable scheme brother";
+var mnemonic = "similar mutual vote huge tip member breeze minor glass notable oyster blue";

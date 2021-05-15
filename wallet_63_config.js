@@ -1,1 +1,1 @@
-var mnemonic = "exotic purpose brown correct narrow wild hawk hockey guilt middle remind ride";
+var mnemonic = "unlock tennis upset truly initial address curve athlete uphold riot pizza runway";

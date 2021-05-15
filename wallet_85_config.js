@@ -1,1 +1,1 @@
-var mnemonic = "can hunt hidden entire load torch media tribe custom praise wash wine";
+var mnemonic = "speed cricket lesson tool category submit chalk verb cry sustain learn stage";

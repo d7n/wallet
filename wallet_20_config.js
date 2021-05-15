@@ -1,1 +1,1 @@
-var mnemonic = "tower engage day scatter marine oyster verb cost embody knife session winner";
+var mnemonic = "profit couch wage edit patrol increase wage logic seed member trial thunder";

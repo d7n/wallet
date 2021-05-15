@@ -1,1 +1,1 @@
-var mnemonic = "ceiling tourist weapon monster obvious horse carry awful hurt forest express borrow";
+var mnemonic = "lawsuit rent pill alcohol parent crawl soon large holiday garlic lesson hood";

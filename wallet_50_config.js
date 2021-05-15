@@ -1,1 +1,1 @@
-var mnemonic = "trick equal tattoo cross route obvious quote flash sauce cheap radio secret";
+var mnemonic = "guilt pottery zebra swarm bless suffer learn candy winter water produce trust";

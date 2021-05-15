@@ -1,1 +1,1 @@
-var mnemonic = "rally unhappy vote bomb together soft tent glad strong mandate ignore peace";
+var mnemonic = "define property horse stuff glory summer convince retreat stem outdoor again infant";

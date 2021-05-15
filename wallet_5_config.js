@@ -1,1 +1,1 @@
-var mnemonic = "jewel civil edit notable school seat famous bid tree summer float youth";
+var mnemonic = "open document elite pink oil little relax height audit alarm desk bulk";

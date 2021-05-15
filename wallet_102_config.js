@@ -1,1 +1,1 @@
-var mnemonic = "foil section resist upon assist wheat salute tortoise unable finger federal tape";
+var mnemonic = "cat useless original mobile evidence logic camp media rule thing mule soda";

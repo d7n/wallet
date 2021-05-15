@@ -1,1 +1,1 @@
-var mnemonic = "grid term dawn feed verb snow idle sight symptom spare portion brown";
+var mnemonic = "nurse next become capable toilet error game arrest together mouse drama stand";

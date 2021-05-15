@@ -1,1 +1,1 @@
-var mnemonic = "derive frost spring actor coach regret dwarf syrup fetch sausage train milk";
+var mnemonic = "donkey frost anxiety post brown know rabbit sudden drill sort peace dizzy";

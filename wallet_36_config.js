@@ -1,1 +1,1 @@
-var mnemonic = "palm roast pelican have camp trash language promote problem pear leaf palace";
+var mnemonic = "market rug deposit pause copper athlete hungry apple chef wink bench sponsor";

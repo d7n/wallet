@@ -1,1 +1,1 @@
-var mnemonic = "humble rich give end sting canyon differ comic march measure business valve";
+var mnemonic = "winner bone main almost cool catch truly before frost lucky music cannon";

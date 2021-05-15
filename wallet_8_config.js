@@ -1,1 +1,1 @@
-var mnemonic = "brother talent client beef master remember pair title divide build few pen";
+var mnemonic = "multiply field hurt mom material ugly betray afford effort work primary near";

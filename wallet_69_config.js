@@ -1,1 +1,1 @@
-var mnemonic = "giant local fluid vacant pass list earth armor donkey tiny purchase huge";
+var mnemonic = "dress receive slow ice penalty thrive cattle win honey sure topple various";

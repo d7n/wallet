@@ -1,1 +1,1 @@
-var mnemonic = "puppy erosion fame canyon danger detect youth sun swarm alone resource endorse";
+var mnemonic = "agree asthma mother dad curious clog pig early chief settle slab document";

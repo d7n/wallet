@@ -1,1 +1,1 @@
-var mnemonic = "ship announce real forward pluck globe sunset coil bomb brave grid zoo";
+var mnemonic = "vanish material snap board wreck breeze flock alarm kitchen chalk accident broom";

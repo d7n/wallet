@@ -1,1 +1,1 @@
-var mnemonic = "bottom drink predict sun bus pair mystery region gospel enhance spoil duty";
+var mnemonic = "bamboo large beyond goddess ice allow mushroom fame sketch mammal call smart";

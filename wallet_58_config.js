@@ -1,1 +1,1 @@
-var mnemonic = "luggage claw tornado garbage tomorrow learn devote copy useful crouch jelly rotate";
+var mnemonic = "reward since visit hint exhibit combine raise chest lock dutch diamond aware";

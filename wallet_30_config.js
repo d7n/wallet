@@ -1,1 +1,1 @@
-var mnemonic = "notable test bright machine rain heavy sentence exchange switch carpet recall undo";
+var mnemonic = "voice bridge roof tone picnic hawk patient faith ship van attend trophy";

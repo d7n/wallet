@@ -1,1 +1,1 @@
-var mnemonic = "peasant vintage employ charge arrive around sleep increase reduce eyebrow disagree youth";
+var mnemonic = "ritual eagle scrap mouse orchard push broccoli post review express carbon arrange";

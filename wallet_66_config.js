@@ -1,1 +1,1 @@
-var mnemonic = "pudding empower notice year tone ice crime control gown traffic ranch keep";
+var mnemonic = "drink ahead canyon picnic chief innocent exercise equip over feel balance tray";

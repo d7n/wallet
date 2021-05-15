@@ -1,1 +1,1 @@
-var mnemonic = "explain unfold pen wise often junior order sleep picnic radar young garbage";
+var mnemonic = "slim movie ensure opinion praise execute shell giant hamster mistake cable first";

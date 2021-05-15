@@ -1,1 +1,1 @@
-var mnemonic = "walnut faith ready purpose state album skate castle spring salt dust upper";
+var mnemonic = "fruit unit assist ready organ winter dice raw depend dose toddler barely";

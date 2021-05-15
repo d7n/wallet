@@ -1,1 +1,1 @@
-var mnemonic = "solve arrive kiss timber fabric security taste stone spread wet tennis august";
+var mnemonic = "choose garlic square code wash artwork jazz gospel face enhance spatial auction";

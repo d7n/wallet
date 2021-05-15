@@ -1,1 +1,1 @@
-var mnemonic = "bundle explain bright ignore crystal upgrade auction trust finger win pink priority";
+var mnemonic = "enable useless lend rally fiscal menu setup hire menu potato traffic pool";

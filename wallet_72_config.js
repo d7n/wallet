@@ -1,1 +1,1 @@
-var mnemonic = "space pact mirror crumble castle absent day improve when join ball follow";
+var mnemonic = "lend artwork inside enjoy shy pet lecture help disorder doctor music field";

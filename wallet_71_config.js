@@ -1,1 +1,1 @@
-var mnemonic = "gossip spoon mushroom heart drop action october shove car pen behind soap";
+var mnemonic = "coast turn inform feature lunch margin base shrug scout dynamic egg example";

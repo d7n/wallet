@@ -1,1 +1,1 @@
-var mnemonic = "equal travel quit minute square erase mass mobile ahead guitar habit nut";
+var mnemonic = "ticket slice dial deposit tattoo cousin repair sadness large amateur melody ranch";

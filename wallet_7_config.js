@@ -1,1 +1,1 @@
-var mnemonic = "wrong sleep skate false crash spell blouse park fossil exit abuse barrel";
+var mnemonic = "defy bronze scheme vapor about verify trick element gap lamp puppy universe";

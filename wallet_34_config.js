@@ -1,1 +1,1 @@
-var mnemonic = "nerve flee expect ask sun time castle hunt size side rack moral";
+var mnemonic = "spread turtle rotate iron work absorb rely inflict risk awful escape eager";

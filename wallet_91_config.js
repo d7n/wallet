@@ -1,1 +1,1 @@
-var mnemonic = "burst order explain cram cannon distance patrol sample giggle twelve vacant pulp";
+var mnemonic = "addict penalty used you end profit square dinosaur beyond baby neutral ridge";

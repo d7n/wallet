@@ -1,1 +1,1 @@
-var mnemonic = "damp youth broken add they pottery lawsuit side occur year valid token";
+var mnemonic = "oyster dignity enhance aware plate shed raise annual battle cave describe cream";

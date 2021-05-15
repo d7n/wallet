@@ -1,1 +1,1 @@
-var mnemonic = "purpose update ship chief lawsuit uncover best duty fuel cancel music couch";
+var mnemonic = "cruel defy faint clutch outdoor absent copy undo gaze lion marriage hub";

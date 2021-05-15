@@ -1,1 +1,1 @@
-var mnemonic = "derive cotton roof crouch shoe title remember again call soda token cause";
+var mnemonic = "effort then harvest stock sing job stay habit city canvas noodle output";

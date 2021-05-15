@@ -1,1 +1,1 @@
-var mnemonic = "spread educate pear nest wood juice gold joke gym box patient copy";
+var mnemonic = "live frog pole sauce enable predict purity pause inflict metal club plate";

@@ -1,1 +1,1 @@
-var mnemonic = "manual person spell dumb minute cute faint hover vessel initial heart cloud";
+var mnemonic = "clog defense runway find merge winner coach never crack party rotate educate";

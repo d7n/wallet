@@ -1,1 +1,1 @@
-var mnemonic = "caution useful unlock resource fire crop radar error winter pole surprise lab";
+var mnemonic = "dinosaur panda claim worry settle want tired throw front exotic senior neither";

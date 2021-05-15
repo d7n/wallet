@@ -1,1 +1,1 @@
-var mnemonic = "inject dizzy accident material brother secret yard case wild frost ability electric";
+var mnemonic = "emerge video imitate regular december nothing easy devote dentist large physical same";

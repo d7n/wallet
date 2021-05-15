@@ -1,1 +1,1 @@
-var mnemonic = "sudden hat critic misery youth jelly pumpkin analyst save mistake neutral property";
+var mnemonic = "soft subway federal hedgehog club daughter maple opera favorite pottery increase region";

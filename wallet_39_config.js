@@ -1,1 +1,1 @@
-var mnemonic = "dolphin favorite mixture disagree keen illegal unhappy sentence small buddy roast goose";
+var mnemonic = "lava beyond fix tiny burst wolf cram apple pill rug hammer brain";

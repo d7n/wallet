@@ -1,1 +1,1 @@
-var mnemonic = "green arena enact method radio account shoe chuckle safe marble tower sense";
+var mnemonic = "earn churn wire leg race destroy work sleep where memory drift nerve";

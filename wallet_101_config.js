@@ -1,1 +1,1 @@
-var mnemonic = "level phone amateur just nation clump grant silk knee wait life will";
+var mnemonic = "smooth fine palace mask wife nature toddler town mad tiny lottery music";

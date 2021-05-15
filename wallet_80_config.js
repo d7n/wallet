@@ -1,1 +1,1 @@
-var mnemonic = "battle early test armed inherit hero hurry kite struggle plunge aerobic spider";
+var mnemonic = "false online crucial bless step fragile fiber domain upgrade wedding net suggest";

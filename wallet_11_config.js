@@ -1,1 +1,1 @@
-var mnemonic = "heart soccer load exist genius base design tortoise pumpkin round lumber brand";
+var mnemonic = "arm club disagree credit exercise narrow release hire ramp sister cause employ";

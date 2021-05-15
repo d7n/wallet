@@ -1,1 +1,1 @@
-var mnemonic = "help heart start various advice royal outside agent snake tuna start save";
+var mnemonic = "grape speed risk express convince vibrant figure husband canoe pact chair spell";

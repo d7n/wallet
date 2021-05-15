@@ -1,1 +1,1 @@
-var mnemonic = "nature leisure tag fuel bronze bike diary weekend what rebuild defense solve";
+var mnemonic = "weapon taste click exit donor fossil wheat night swamp image gentle pepper";

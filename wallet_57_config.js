@@ -1,1 +1,1 @@
-var mnemonic = "van awful length coconut pattern follow swarm doctor volcano cram bubble cause";
+var mnemonic = "kitchen velvet please gadget wonder clap plug can onion echo law return";

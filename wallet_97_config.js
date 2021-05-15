@@ -1,1 +1,1 @@
-var mnemonic = "grunt people rigid income concert first spice toe output canal start spot";
+var mnemonic = "mule normal hunt melody timber topple boring beauty foot riot suggest legal";

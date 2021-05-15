@@ -1,1 +1,1 @@
-var mnemonic = "gas surge bench engage guide time amount parent easy grass battle staff";
+var mnemonic = "allow mouse wife dragon comfort gesture monkey force afford banana weasel pave";

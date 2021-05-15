@@ -1,1 +1,1 @@
-var mnemonic = "resource dad pause recycle tuna resist either client caution rural arm core";
+var mnemonic = "coconut taste special action ceiling hover produce party frequent input eyebrow buyer";

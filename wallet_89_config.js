@@ -1,1 +1,1 @@
-var mnemonic = "trophy edge harbor pull shield meadow recycle smoke alley tissue job auto";
+var mnemonic = "quantum truck deposit phrase labor essay damp square file agent pumpkin swallow";

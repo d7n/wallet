@@ -1,1 +1,1 @@
-var mnemonic = "clown sound path camp alcohol execute neutral dumb involve monkey soup attract";
+var mnemonic = "buffalo episode speak science position ski stone label head nurse argue blind";

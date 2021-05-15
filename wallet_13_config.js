@@ -1,1 +1,1 @@
-var mnemonic = "drift lumber fresh video delay erode assault wrong trade car fiction uncover";
+var mnemonic = "soccer blue kiwi tiny hazard clown camp evoke fatigue quote census mouse";

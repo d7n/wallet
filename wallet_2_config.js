@@ -1,1 +1,1 @@
-var mnemonic = "wreck rival bamboo save pizza bike dune canvas random mixture dog uncover";
+var mnemonic = "panther virus loan margin leg attitude already burger spray boat deer tourist";

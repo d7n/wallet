@@ -1,1 +1,1 @@
-var mnemonic = "deny spell fit ill hat hollow wait plate enhance current provide choice";
+var mnemonic = "gain improve dynamic current belt column monitor object truck giant season flag";

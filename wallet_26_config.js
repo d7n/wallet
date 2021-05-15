@@ -1,1 +1,1 @@
-var mnemonic = "boost scrap middle laundry there argue another lizard insane lonely weekend garden";
+var mnemonic = "mimic broken poet number flip spring inflict swamp palm hair seek damage";

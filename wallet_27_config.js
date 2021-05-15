@@ -1,1 +1,1 @@
-var mnemonic = "eternal around image final blade measure violin simple range conduct cruise tuition";
+var mnemonic = "impulse bullet supreme world oyster warfare rain tomato almost gossip search athlete";

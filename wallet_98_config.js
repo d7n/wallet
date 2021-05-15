@@ -1,1 +1,1 @@
-var mnemonic = "trap ensure gadget offer very suit above pyramid fee cart inform east";
+var mnemonic = "nasty border ketchup snap fall position swear cycle dilemma federal ribbon faint";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle grid economy fatal must uphold they term uncle exist gather world";
+var mnemonic = "entry angle stereo similar crush woman salon weapon autumn case quality solid";

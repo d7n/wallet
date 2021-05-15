@@ -1,1 +1,1 @@
-var mnemonic = "error garden torch zebra husband dismiss purpose fan fee foam tortoise tornado";
+var mnemonic = "cost fee umbrella learn captain heart half cushion frog palm announce material";

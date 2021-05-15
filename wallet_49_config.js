@@ -1,1 +1,1 @@
-var mnemonic = "grain wild sheriff travel gauge erupt image gossip aspect eagle employ luggage";
+var mnemonic = "usual pulse absent solar bomb water group rule dog material expose puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "filter three right element false now ready negative improve extra antique crane";
+var mnemonic = "own inform always unveil dutch hazard glare limit fog spice abandon special";

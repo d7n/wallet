@@ -1,1 +1,1 @@
-var mnemonic = "say sphere boost dish rescue game elephant sentence squirrel artist rude fog";
+var mnemonic = "boring tooth harsh morning noise dirt metal walk enable phone subway eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot all pause gown embark spice door vanish panda shield narrow syrup";
+var mnemonic = "culture shoe anchor physical theory mouse victory wreck naive enforce chronic woman";

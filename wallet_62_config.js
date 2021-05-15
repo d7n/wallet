@@ -1,1 +1,1 @@
-var mnemonic = "island rally nest royal desert jump glow air huge empty gym final";
+var mnemonic = "timber disease possible broken become belt city purity test welcome traffic giant";

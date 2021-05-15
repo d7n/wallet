@@ -1,1 +1,1 @@
-var mnemonic = "dignity left mix whisper sausage edit jump embody urge dragon submit shrug";
+var mnemonic = "lawn you social bicycle deny elder thought sphere broccoli casino bonus dinner";

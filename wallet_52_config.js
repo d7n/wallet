@@ -1,1 +1,1 @@
-var mnemonic = "catalog dutch hurry mobile job cupboard actual economy dignity element grass name";
+var mnemonic = "want cricket execute carpet risk carpet slice horror half tag solution update";

@@ -1,1 +1,1 @@
-var mnemonic = "rent limb clay plastic usage salmon blue occur miracle tooth year behave";
+var mnemonic = "slab curtain stay across tuna slam disagree mosquito popular retire divert label";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf rather resemble clap wrap awkward worth sheriff decline taxi emotion visa";
+var mnemonic = "wrap lab bridge coyote mystery foot pink air refuse lock trap open";

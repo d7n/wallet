@@ -1,1 +1,1 @@
-var mnemonic = "wave version nuclear tuna there canal wet purity fold issue cannon before";
+var mnemonic = "team buzz coral apple timber portion fade beef green black spare honey";

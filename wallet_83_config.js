@@ -1,1 +1,1 @@
-var mnemonic = "mixture profit valid salad grocery ghost again giant spare stereo bamboo cinnamon";
+var mnemonic = "equip grant case insect top climb ticket despair dentist derive elevator tomato";

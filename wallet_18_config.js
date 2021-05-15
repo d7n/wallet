@@ -1,1 +1,1 @@
-var mnemonic = "opera length camp spawn slush wall travel eagle table cousin certain decade";
+var mnemonic = "warrior write stock hawk carry survey quarter token cage note crack car";

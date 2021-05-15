@@ -1,1 +1,1 @@
-var mnemonic = "shock fault media equal math bacon among leaf gasp broken party couch";
+var mnemonic = "coral mountain little long immune attract obvious either hole vendor rare false";

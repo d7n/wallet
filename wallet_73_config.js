@@ -1,1 +1,1 @@
-var mnemonic = "tongue message tell empty only desk addict innocent pen flavor hour proof";
+var mnemonic = "purpose find vocal harvest market load timber pumpkin this envelope buddy lift";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics erase boil rough swear dance tennis swamp memory alien opinion service";
+var mnemonic = "turn apology try bridge tool cheap believe refuse digital situate joke dirt";

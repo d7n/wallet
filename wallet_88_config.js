@@ -1,1 +1,1 @@
-var mnemonic = "involve pledge desk cost cover social course cliff armor castle offer pledge";
+var mnemonic = "enable broom hour maze toilet purpose access entire admit spawn tonight material";
