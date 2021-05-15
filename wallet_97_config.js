@@ -1,1 +1,1 @@
-var mnemonic = "stairs picture dirt badge obey traffic trick mean gold gossip pulse wait";
+var mnemonic = "topic ancient collect leisure pond pluck rack soldier cat world arena people";

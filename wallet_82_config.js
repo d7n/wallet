@@ -1,1 +1,1 @@
-var mnemonic = "wonder turn nut airport forget domain album slush autumn carbon input include";
+var mnemonic = "toddler one foster flash base digital afraid category fancy junior tiny speed";

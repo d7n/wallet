@@ -1,1 +1,1 @@
-var mnemonic = "world toast slogan motion whisper tape top liquid october jazz unfold abuse";
+var mnemonic = "found quantum island curtain ring curve flight sad rail image room aisle";

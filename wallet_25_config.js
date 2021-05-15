@@ -1,1 +1,1 @@
-var mnemonic = "crumble shine shaft please woman region lab increase once grape wool unaware";
+var mnemonic = "ramp palace garment smoke trick wine side route nephew giraffe soldier hole";

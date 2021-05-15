@@ -1,1 +1,1 @@
-var mnemonic = "zebra bridge quick truly wear jazz frozen atom strike joy fly mechanic";
+var mnemonic = "either patrol rural moment defy almost live ring parent seven spend infant";

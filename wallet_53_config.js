@@ -1,1 +1,1 @@
-var mnemonic = "top priority mind argue vast cave congress puppy umbrella salmon exhaust chef";
+var mnemonic = "hat welcome hungry hawk crouch adapt market chronic bounce bonus scheme embody";

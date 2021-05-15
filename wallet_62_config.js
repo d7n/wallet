@@ -1,1 +1,1 @@
-var mnemonic = "among december belt tape plug magic sad limb weather child tiny odor";
+var mnemonic = "dignity kit arrow bubble injury grab unknown fog kingdom space manage asset";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna globe gun casual minute manage myself pluck crash dynamic run sport";
+var mnemonic = "mesh slice exchange sunset imitate travel know pig wave village tone gaze";

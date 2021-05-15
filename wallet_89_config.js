@@ -1,1 +1,1 @@
-var mnemonic = "banner grief cousin cotton weather illness high pony trash omit sister umbrella";
+var mnemonic = "lunar debris replace exist afraid just blade cushion eight army cost spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient sight design element grief spice profit beauty flavor monster copy barrel";
+var mnemonic = "print love region neck eight bless keep enforce provide comfort relief company";

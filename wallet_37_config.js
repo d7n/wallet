@@ -1,1 +1,1 @@
-var mnemonic = "execute wasp bean subject moral goddess pumpkin sister nice mouse beauty increase";
+var mnemonic = "song daughter raw summer master lawsuit among salon invest require panel tower";

@@ -1,1 +1,1 @@
-var mnemonic = "thought modify will club any silly kid open also unveil today stamp";
+var mnemonic = "gym club reflect action sustain mind obey cruise cigar pigeon cover tenant";

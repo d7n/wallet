@@ -1,1 +1,1 @@
-var mnemonic = "guess glance effort universe blast firm prefer episode object fade until eager";
+var mnemonic = "hero craft extra chalk kid want salon donor letter spare clever company";

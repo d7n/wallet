@@ -1,1 +1,1 @@
-var mnemonic = "board museum allow main endorse brother rookie ability material muscle denial proud";
+var mnemonic = "absorb divide fiber copper squeeze elegant verb concert bonus health raise grid";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn describe abstract exile congress still length process cluster inner busy situate";
+var mnemonic = "aspect rail stock oak myself negative soccer build aware audit toilet vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "argue agent shield can bleak top page access cannon topple horse ahead";
+var mnemonic = "share fan end pretty velvet gun diary maze spy dad success mobile";

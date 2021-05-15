@@ -1,1 +1,1 @@
-var mnemonic = "unable border slow extend solar satoshi boss enjoy elegant mobile evoke any";
+var mnemonic = "proof urban obtain ivory praise peasant future pigeon warfare old dwarf vapor";

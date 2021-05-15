@@ -1,1 +1,1 @@
-var mnemonic = "until pumpkin palace artist picnic true skill zero anger leave hour hold";
+var mnemonic = "blind panda sure idle interest winter brass sing indoor dignity device swift";

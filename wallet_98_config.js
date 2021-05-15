@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon just risk unhappy bag bamboo analyst floor mesh nominee race father";
+var mnemonic = "talk sniff perfect primary small wreck sudden muffin like net daring mirror";

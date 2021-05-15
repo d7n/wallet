@@ -1,1 +1,1 @@
-var mnemonic = "sauce still code today express element bird busy float embody sweet track";
+var mnemonic = "lucky found twice execute knee agree endless hover below furnace february ticket";

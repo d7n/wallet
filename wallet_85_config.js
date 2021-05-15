@@ -1,1 +1,1 @@
-var mnemonic = "rifle soup seed fabric never beef pig tiger people wink knee guide";
+var mnemonic = "limit then fame genius jeans prepare bonus dinner invest ugly maximum melody";

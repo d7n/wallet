@@ -1,1 +1,1 @@
-var mnemonic = "ten math aerobic impose execute occur estate robot demise half work rule";
+var mnemonic = "paddle glare distance army chicken meat left asthma latin soldier smile great";

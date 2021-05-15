@@ -1,1 +1,1 @@
-var mnemonic = "govern arena naive frame coral aunt confirm junior fault envelope supply digital";
+var mnemonic = "damage woman tail december mammal pool punch circle icon essence marble trap";

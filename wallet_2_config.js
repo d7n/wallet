@@ -1,1 +1,1 @@
-var mnemonic = "giggle thumb quit echo dolphin ripple spoil ginger quality high office vapor";
+var mnemonic = "crush echo license noise dose danger buzz suit find antenna dance priority";

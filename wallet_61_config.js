@@ -1,1 +1,1 @@
-var mnemonic = "lounge humble deer original dutch foam scorpion angle industry wool bench disease";
+var mnemonic = "tourist relief major cheese transfer fog aware tip region horse banana brand";

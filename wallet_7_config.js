@@ -1,1 +1,1 @@
-var mnemonic = "fan kidney shock symbol jungle burst typical exotic enhance venue pet exile";
+var mnemonic = "tone damp grant mandate mail october creek corn half awful comfort moral";

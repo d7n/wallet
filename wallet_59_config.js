@@ -1,1 +1,1 @@
-var mnemonic = "symptom strong number creek tunnel female find globe legal crush tornado bunker";
+var mnemonic = "play cat more canal absent nephew avoid venue image front maple top";

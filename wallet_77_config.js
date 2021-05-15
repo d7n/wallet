@@ -1,1 +1,1 @@
-var mnemonic = "offer broken novel nerve gallery solar document pitch gadget hand exist bracket";
+var mnemonic = "biology burst diamond start iron they noise history stove funny issue shed";

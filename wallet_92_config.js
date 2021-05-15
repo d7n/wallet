@@ -1,1 +1,1 @@
-var mnemonic = "party eager ostrich enrich day minute protect spoil word ribbon rural fan";
+var mnemonic = "pet theme foot aerobic mixed cat keep climb work piece replace feel";

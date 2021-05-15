@@ -1,1 +1,1 @@
-var mnemonic = "keen people siren science admit couch cricket worry repeat miss romance rapid";
+var mnemonic = "just agent journey aspect olive magic mad embark silent lyrics theory bounce";

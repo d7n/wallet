@@ -1,1 +1,1 @@
-var mnemonic = "buffalo demand enrich call blast broccoli whale fine omit toddler speak tragic";
+var mnemonic = "worry rival light hazard olympic town beauty system topic finger tennis rabbit";

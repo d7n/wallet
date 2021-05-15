@@ -1,1 +1,1 @@
-var mnemonic = "whisper swim bike gasp bless neck attitude flight correct goat sad coach";
+var mnemonic = "mosquito dentist before weird gown enter afford trial year put grant daring";

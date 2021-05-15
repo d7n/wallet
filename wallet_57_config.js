@@ -1,1 +1,1 @@
-var mnemonic = "narrow extend crime convince habit tag pledge scene strategy wasp diet arm";
+var mnemonic = "find measure find lobster lab eager priority library hero exchange solar vast";

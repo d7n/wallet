@@ -1,1 +1,1 @@
-var mnemonic = "demand cart salad huge measure liquid cover casino visa fence reflect pudding";
+var mnemonic = "fury top vital admit agree help need choice brother piece pumpkin novel";

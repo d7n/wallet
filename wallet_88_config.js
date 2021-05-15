@@ -1,1 +1,1 @@
-var mnemonic = "piano response height wide maple fly capital ancient you slush jealous comfort";
+var mnemonic = "resource segment mutual chase melody evoke property happy culture federal afraid fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "rose improve turn hidden marble public slim identify apology author please card";
+var mnemonic = "punch tell strategy melt champion van power visit wild timber upset smooth";

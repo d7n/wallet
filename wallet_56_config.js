@@ -1,1 +1,1 @@
-var mnemonic = "waste rookie plunge faint initial six submit energy humor cake fantasy object";
+var mnemonic = "love pledge panel joy cinnamon jealous code hundred sting velvet trust slam";

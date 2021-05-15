@@ -1,1 +1,1 @@
-var mnemonic = "short robust pulp fancy motion glare forum ridge turkey coin enemy mango";
+var mnemonic = "pulse sure entire rug arrange slight game turn alley steel bus canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "trim panther lawn theory ignore cabin rotate aerobic phone adjust elder bring";
+var mnemonic = "zebra require awesome frozen toast crane crater enable client much awkward dog";

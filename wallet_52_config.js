@@ -1,1 +1,1 @@
-var mnemonic = "start pave old sketch praise trap rail symptom wheel tobacco fever banana";
+var mnemonic = "song mercy avoid chunk dawn worth inch pizza used popular stand general";

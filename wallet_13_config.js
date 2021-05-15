@@ -1,1 +1,1 @@
-var mnemonic = "obscure drop dose fancy key journey ahead rookie quantum raise lizard beauty";
+var mnemonic = "disagree fresh bag that tennis survey lobster pistol truth harsh catalog little";

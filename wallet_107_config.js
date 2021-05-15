@@ -1,1 +1,1 @@
-var mnemonic = "away rough annual ill foam urban pink undo begin shop boss sing";
+var mnemonic = "girl garage uphold mansion culture fever beef inner area dry sort inherit";

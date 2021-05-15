@@ -1,1 +1,1 @@
-var mnemonic = "citizen chaos critic alley purchase margin have syrup convince draw cousin rival";
+var mnemonic = "pottery pottery disease water hurry deputy minute gas caught all unaware author";

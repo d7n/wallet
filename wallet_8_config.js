@@ -1,1 +1,1 @@
-var mnemonic = "lunar wealth elder gossip cook smooth cliff tent expect elder fish tent";
+var mnemonic = "steak goose gate tenant minor honey quote figure unit soldier police tunnel";

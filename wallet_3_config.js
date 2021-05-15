@@ -1,1 +1,1 @@
-var mnemonic = "zoo sweet bullet angle ensure shield current coconut lottery gate crop refuse";
+var mnemonic = "notable wash cloud denial crop reform noble length beyond travel festival name";

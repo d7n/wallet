@@ -1,1 +1,1 @@
-var mnemonic = "quarter patient address laugh estate gauge gospel dove guess grit banana noble";
+var mnemonic = "sound garage pear know hurdle possible royal solar spy club digital wire";

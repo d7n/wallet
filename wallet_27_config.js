@@ -1,1 +1,1 @@
-var mnemonic = "clarify dad syrup infant oval bubble picture carry beyond robust genius staff";
+var mnemonic = "bomb usage cabbage sort silver injury drink absent infant solar turn more";

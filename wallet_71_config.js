@@ -1,1 +1,1 @@
-var mnemonic = "mimic hotel crouch catch deposit expand during nurse almost valley surround pool";
+var mnemonic = "true metal over album total hand scale narrow lady club burst feature";

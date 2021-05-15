@@ -1,1 +1,1 @@
-var mnemonic = "ball nurse receive gauge pact cycle prize vessel brand wine special awesome";
+var mnemonic = "horse weapon bubble below girl noble rhythm pact claw come buzz edge";

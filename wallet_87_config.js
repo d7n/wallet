@@ -1,1 +1,1 @@
-var mnemonic = "raise lecture slim axis silver sun bacon twenty crouch since law avocado";
+var mnemonic = "supply current tunnel valid symbol sea limb garden burden general cat polar";

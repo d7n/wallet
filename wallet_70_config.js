@@ -1,1 +1,1 @@
-var mnemonic = "letter myself margin bring amateur bench wife street negative relax review silly";
+var mnemonic = "unit hungry stuff razor unique chair section elder census crisp primary coil";

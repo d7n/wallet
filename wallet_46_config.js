@@ -1,1 +1,1 @@
-var mnemonic = "wood shine filter boil burst zebra sustain dolphin verb face inspire isolate";
+var mnemonic = "immune rose budget mountain peasant undo close sauce devote foster episode gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "subject detail jeans square blame unhappy wink filter spin that wash peasant";
+var mnemonic = "link creek common father spring luggage loud try scare wash wing rapid";

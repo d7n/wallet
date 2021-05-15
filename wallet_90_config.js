@@ -1,1 +1,1 @@
-var mnemonic = "pill siege analyst code destroy paddle have fault pool differ clean roof";
+var mnemonic = "cigar crazy sadness hurdle gate despair problem boost mean taste exit make";

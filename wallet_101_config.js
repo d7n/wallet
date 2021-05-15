@@ -1,1 +1,1 @@
-var mnemonic = "notable crime monitor potato human rug welcome address mansion walk anchor mutual";
+var mnemonic = "hen pledge worry benefit arrow shallow hundred tape second kiss hockey broken";

@@ -1,1 +1,1 @@
-var mnemonic = "series whisper badge arm tongue inch lens credit glass under recycle useless";
+var mnemonic = "group shine replace lake crack search grab climb myself nothing jump lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "title network argue borrow abuse vacuum stadium chicken sting project super globe";
+var mnemonic = "stadium gospel sudden warrior aisle caught avocado spike hidden lobster ski cute";

@@ -1,1 +1,1 @@
-var mnemonic = "lend claim resist cinnamon loyal scorpion huge hello expire oyster clutch income";
+var mnemonic = "trigger paper vibrant random boil rival end rally lizard myth engine sustain";

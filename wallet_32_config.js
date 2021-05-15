@@ -1,1 +1,1 @@
-var mnemonic = "boring will sight vivid clutch truth tiger dinosaur useless grid busy sign";
+var mnemonic = "method draw outer guard today friend glide climb napkin tray whip chimney";

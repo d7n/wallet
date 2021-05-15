@@ -1,1 +1,1 @@
-var mnemonic = "slab edit address cricket want will banana zero chimney hockey glare safe";
+var mnemonic = "skate caught grit select coyote wisdom picture shoot photo party frown giant";

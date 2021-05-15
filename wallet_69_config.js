@@ -1,1 +1,1 @@
-var mnemonic = "interest reopen quote year twice floor exile predict east donate genre foot";
+var mnemonic = "wonder theme student tornado market seminar travel mom pole staff inch gap";

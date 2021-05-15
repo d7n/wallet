@@ -1,1 +1,1 @@
-var mnemonic = "deliver glory exact cash remind wash wheat treat harsh ill today now";
+var mnemonic = "raccoon home session leopard boss same tuna critic hat invest assist adapt";

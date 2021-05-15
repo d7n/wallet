@@ -1,1 +1,1 @@
-var mnemonic = "basic rude twist retire virus security honey grass sick large law refuse";
+var mnemonic = "payment gloom riot shaft anxiety craft bike obey board because merry dust";

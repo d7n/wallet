@@ -1,1 +1,1 @@
-var mnemonic = "family girl then math huge celery fury spy before video sand install";
+var mnemonic = "winner poverty net split satisfy program smooth brass cry shop visit squirrel";

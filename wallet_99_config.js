@@ -1,1 +1,1 @@
-var mnemonic = "script trust garden priority slam code critic east again buddy economy stuff";
+var mnemonic = "chapter remove web rifle little lottery cruise hole define lion fantasy impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel usage wheel proud invest taxi donate elegant figure brief ahead future";
+var mnemonic = "wood fence master jealous tomorrow endorse own journey action worth recycle knife";

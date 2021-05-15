@@ -1,1 +1,1 @@
-var mnemonic = "equip hair accuse kitchen net push forget island sing rescue stay essay";
+var mnemonic = "lazy style dry panda leader scout tobacco neutral hurt install flat always";

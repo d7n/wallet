@@ -1,1 +1,1 @@
-var mnemonic = "also can industry rescue abuse level success smile dress brass rail assault";
+var mnemonic = "burger menu spatial learn property describe hundred trade old voyage owner style";

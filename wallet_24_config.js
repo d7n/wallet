@@ -1,1 +1,1 @@
-var mnemonic = "hint return hawk eyebrow hope print domain fuel model friend fringe banner";
+var mnemonic = "kiwi soft size denial rally lock draft coast casual super wire usual";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest cash sort delay bacon glad middle neutral direct butter document social";
+var mnemonic = "capital elevator room enhance dolphin kingdom beef rose segment coral legend flight";

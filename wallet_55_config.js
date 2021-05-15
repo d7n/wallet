@@ -1,1 +1,1 @@
-var mnemonic = "inherit mind stadium jelly average author flight nominee circle mind hub inside";
+var mnemonic = "thumb awkward salad enough shop paper state gap raccoon waste initial stand";

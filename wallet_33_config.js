@@ -1,1 +1,1 @@
-var mnemonic = "fluid else soccer spoon diamond truly uncover often waste deny win job";
+var mnemonic = "genuine lobster mosquito runway shed able fossil scan student cross view dynamic";

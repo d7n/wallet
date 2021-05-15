@@ -1,1 +1,1 @@
-var mnemonic = "acoustic dizzy hint arctic museum honey digital doll image parade yellow biology";
+var mnemonic = "walnut scene frozen machine kidney chimney maximum sea flag ozone argue stomach";

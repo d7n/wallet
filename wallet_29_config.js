@@ -1,1 +1,1 @@
-var mnemonic = "excess depart bird slam trouble oblige cup section beyond shift bachelor fiscal";
+var mnemonic = "fog correct lizard list stereo nothing robust define layer outdoor helmet worth";

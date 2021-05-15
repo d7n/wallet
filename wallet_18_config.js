@@ -1,1 +1,1 @@
-var mnemonic = "mechanic turkey cover soon acid shove embody wrist shove drop legend book";
+var mnemonic = "rice lazy enemy grace make cinnamon banner seven sword mammal priority match";

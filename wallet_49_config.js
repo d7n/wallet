@@ -1,1 +1,1 @@
-var mnemonic = "achieve discover cause little trip uniform clever grunt logic employ measure crowd";
+var mnemonic = "ring afraid oppose ride certain rose bread journey skill sadness provide song";

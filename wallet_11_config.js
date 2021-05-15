@@ -1,1 +1,1 @@
-var mnemonic = "eye mule super future coffee poverty window volcano way give frozen maid";
+var mnemonic = "crunch cloth dilemma pulse correct clump mail maple tortoise rebel snow basket";

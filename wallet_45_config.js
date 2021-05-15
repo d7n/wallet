@@ -1,1 +1,1 @@
-var mnemonic = "marriage able able decorate story quick flee marine sweet transfer state intact";
+var mnemonic = "gentle prepare common stairs pig clump prefer spell farm aunt side cattle";

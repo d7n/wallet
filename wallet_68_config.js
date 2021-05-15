@@ -1,1 +1,1 @@
-var mnemonic = "agent degree deal horse favorite dragon pigeon flower badge scatter sight pass";
+var mnemonic = "focus clever fatigue census staff current wave more unknown since elite dream";

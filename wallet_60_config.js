@@ -1,1 +1,1 @@
-var mnemonic = "replace wrist snow file gain attack sniff laugh calm brain hurry argue";
+var mnemonic = "output glare cram believe illegal token panel square truly canyon grocery system";

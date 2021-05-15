@@ -1,1 +1,1 @@
-var mnemonic = "hurdle theme series catch life glare siege hurry recycle retreat foam urge";
+var mnemonic = "clump laundry oak record boy kind evil shock outside ketchup heart blush";

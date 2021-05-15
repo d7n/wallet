@@ -1,1 +1,1 @@
-var mnemonic = "refuse wife gift pear opinion exact rival manual picture apple lady bus";
+var mnemonic = "earth federal rather urge knock divide father crack garage evoke fix album";

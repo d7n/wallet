@@ -1,1 +1,1 @@
-var mnemonic = "weekend tag purse dove enroll glance ribbon universe cage way build garbage";
+var mnemonic = "crunch clarify work now april uniform answer wool duty timber tiny light";

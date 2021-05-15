@@ -1,1 +1,1 @@
-var mnemonic = "inspire end depth donor baby liberty jazz another tower push spot regret";
+var mnemonic = "siren draw cushion idea recall degree month monster ring hospital negative sudden";
