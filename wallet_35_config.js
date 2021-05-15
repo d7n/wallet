@@ -1,1 +1,1 @@
-var mnemonic = "shadow conduct mandate source vivid simple goose vicious town end icon worry";
+var mnemonic = "salt labor inch empower tackle narrow siege bunker mutual boy panel member";

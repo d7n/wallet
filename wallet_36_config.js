@@ -1,1 +1,1 @@
-var mnemonic = "misery myself ice menu assist august such loop theme box focus picnic";
+var mnemonic = "clump host ostrich glove comic thank need shoulder rather virtual dolphin sadness";

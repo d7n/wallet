@@ -1,1 +1,1 @@
-var mnemonic = "exit animal harbor gas ignore erode disease large common luggage asthma nothing";
+var mnemonic = "juice basket program either engine industry jump biology sister ugly match favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "private twenty buddy pilot copper approve concert onion festival rotate aunt arctic";
+var mnemonic = "oppose economy ticket ladder record fuel element water render large thumb coral";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen gasp impulse gun staff outdoor hamster model wood afford faculty ready";
+var mnemonic = "turkey cram pepper village jelly toss luggage fetch cost network win yard";

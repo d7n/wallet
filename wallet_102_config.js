@@ -1,1 +1,1 @@
-var mnemonic = "very select club believe forum coffee item scout bunker relief wage lens";
+var mnemonic = "flight aisle charge document blue swamp erosion detect swallow fitness quarter country";

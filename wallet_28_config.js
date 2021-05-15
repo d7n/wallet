@@ -1,1 +1,1 @@
-var mnemonic = "enforce novel helmet cannon column crop argue cart retire fame fragile task";
+var mnemonic = "cart depth shoulder army rose ladder siege wet admit alpha uniform husband";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur pupil property behave potato antique click mystery sight mule skate strike";
+var mnemonic = "wink doctor purpose board loan wet number credit approve beef fancy occur";

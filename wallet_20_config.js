@@ -1,1 +1,1 @@
-var mnemonic = "cross feel address onion utility hobby bike increase butter depend lecture before";
+var mnemonic = "harsh machine there system visit fat provide divorce arena shy stamp test";

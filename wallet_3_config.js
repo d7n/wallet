@@ -1,1 +1,1 @@
-var mnemonic = "lock survey tuition retire pig live arctic arch spin dentist multiply garment";
+var mnemonic = "garment settle summer candy suspect hamster twenty illegal horn hotel priority spin";

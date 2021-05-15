@@ -1,1 +1,1 @@
-var mnemonic = "jump panic vehicle stairs good potato sniff strike private focus wave element";
+var mnemonic = "bicycle fan rib defy sadness tattoo napkin sentence blade material inspire indicate";

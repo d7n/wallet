@@ -1,1 +1,1 @@
-var mnemonic = "bless away flock nephew street pair stay carry dune rose popular vessel";
+var mnemonic = "taxi clap suspect reform village gain harsh wage pencil first vicious emotion";

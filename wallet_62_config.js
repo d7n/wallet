@@ -1,1 +1,1 @@
-var mnemonic = "nose vehicle era mistake scorpion furnace garbage ensure response noodle manage board";
+var mnemonic = "secret senior spawn bubble inherit gun high jaguar obey judge scare praise";

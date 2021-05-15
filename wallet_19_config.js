@@ -1,1 +1,1 @@
-var mnemonic = "machine pyramid boost salon video ill seat install chalk venue weapon benefit";
+var mnemonic = "shine sauce object mom aware laundry kangaroo meat lunar tobacco key believe";

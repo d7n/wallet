@@ -1,1 +1,1 @@
-var mnemonic = "frequent grain hill pottery fresh muscle list chest meat wear bundle skill";
+var mnemonic = "cross praise tiger envelope engine great twin cricket wide leader letter gun";

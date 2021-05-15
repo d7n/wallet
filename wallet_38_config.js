@@ -1,1 +1,1 @@
-var mnemonic = "nose disease occur vote mountain palace crystal busy health resource noise spring";
+var mnemonic = "siege ship zoo nurse library era october prosper control enact script unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial narrow fiction meat picture what cricket transfer cat enact swallow envelope";
+var mnemonic = "perfect clip ski gym faith tuition scrub draw hundred hub adapt sock";

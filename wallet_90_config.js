@@ -1,1 +1,1 @@
-var mnemonic = "hello rebel actual evil panel absent liberty plate debris shield hen stem";
+var mnemonic = "surface lift exchange bean violin permit human issue yellow now leopard spell";

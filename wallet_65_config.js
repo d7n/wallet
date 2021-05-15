@@ -1,1 +1,1 @@
-var mnemonic = "decade time faint waste million dove horse kid denial obvious type sport";
+var mnemonic = "road faculty license apology curve viable noodle angry vast frozen science suffer";

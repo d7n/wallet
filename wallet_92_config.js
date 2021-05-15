@@ -1,1 +1,1 @@
-var mnemonic = "final wheat sorry antenna train mushroom crew lab educate keep say vapor";
+var mnemonic = "conduct december world hotel immense slight hungry artwork job seed blind luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar cruel detail cupboard face shadow offer asthma phrase tuna actual add";
+var mnemonic = "render country cliff pool giraffe wrap update approve morning nation dust company";

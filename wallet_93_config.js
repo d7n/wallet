@@ -1,1 +1,1 @@
-var mnemonic = "check merge sail popular identify stem asthma prevent select load space old";
+var mnemonic = "design hedgehog quality view clump jewel make coconut delay wrist avoid stumble";

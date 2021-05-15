@@ -1,1 +1,1 @@
-var mnemonic = "fatal inch frown proof fall pet present identify hurdle daughter credit kid";
+var mnemonic = "own salmon foot point dune cactus cruise dress tortoise season soup finger";

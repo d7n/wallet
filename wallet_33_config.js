@@ -1,1 +1,1 @@
-var mnemonic = "search price tell birth math amazing tuition unable insect budget concert sample";
+var mnemonic = "auction laugh then cost engine soap syrup robot noodle borrow silver april";

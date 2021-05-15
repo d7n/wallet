@@ -1,1 +1,1 @@
-var mnemonic = "proud kiss enlist swear estate crush february push luggage route divert clown";
+var mnemonic = "lumber harbor boy elbow canvas claim slight tool seminar adapt risk myth";

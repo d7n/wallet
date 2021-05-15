@@ -1,1 +1,1 @@
-var mnemonic = "genius trim spirit two stairs buyer trend suspect help pear aspect bind";
+var mnemonic = "diet glory until measure shy boss glow tide neither soft rigid shoot";

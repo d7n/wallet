@@ -1,1 +1,1 @@
-var mnemonic = "leave arena remove silent seven strategy symptom genuine same arena liquid birth";
+var mnemonic = "squirrel wild love hover forest miracle light field dawn chief push gown";

@@ -1,1 +1,1 @@
-var mnemonic = "damage depart park manual flat parent dove narrow march job room core";
+var mnemonic = "joy blind increase edge engine rely private marriage scrap pilot improve group";

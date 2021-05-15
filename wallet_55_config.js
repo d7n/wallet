@@ -1,1 +1,1 @@
-var mnemonic = "depth shiver inquiry card mask silk rule shrimp hotel transfer curtain print";
+var mnemonic = "large dish camp paddle slide tone drama usage genre slide memory disease";

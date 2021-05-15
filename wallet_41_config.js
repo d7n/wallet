@@ -1,1 +1,1 @@
-var mnemonic = "double leaf hammer hip throw regular swim above scale pave notice slide";
+var mnemonic = "blue excite truly modify rare room protect sun onion wink lock mass";

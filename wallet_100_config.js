@@ -1,1 +1,1 @@
-var mnemonic = "polar place climb evidence soda dice evoke all absent follow cheese sustain";
+var mnemonic = "regret remind art goose sense deliver aware move satisfy exist universe jeans";

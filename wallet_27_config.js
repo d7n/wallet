@@ -1,1 +1,1 @@
-var mnemonic = "essence elegant dynamic above pupil leader predict media remain earn enter more";
+var mnemonic = "excuse scheme subway mandate kick gospel next vote cereal churn skull repair";

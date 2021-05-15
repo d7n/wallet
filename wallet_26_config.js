@@ -1,1 +1,1 @@
-var mnemonic = "crunch flock between suspect author claim rabbit monster trap youth protect decade";
+var mnemonic = "medal bulk recall curtain exercise clock defense apart worth jealous crazy tape";

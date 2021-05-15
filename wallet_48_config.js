@@ -1,1 +1,1 @@
-var mnemonic = "manual boss before turkey camp usual right rotate page select install runway";
+var mnemonic = "suspect saddle manage ancient vapor artwork ride legal chest bronze trash elephant";

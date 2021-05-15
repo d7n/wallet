@@ -1,1 +1,1 @@
-var mnemonic = "club history pony decade quit divorce doctor reveal cream educate square dumb";
+var mnemonic = "solution enact trophy joy square december topic lizard filter shoot amazing throw";

@@ -1,1 +1,1 @@
-var mnemonic = "property game test firm gain purity copy tomorrow renew switch cute bubble";
+var mnemonic = "enough avocado ready game hospital welcome into arctic vacant urge song adapt";

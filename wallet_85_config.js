@@ -1,1 +1,1 @@
-var mnemonic = "sleep exhaust march pair else coyote announce wonder parrot cook total stairs";
+var mnemonic = "express giant victory wrong museum raccoon review version border depth barely desk";

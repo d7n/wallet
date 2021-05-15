@@ -1,1 +1,1 @@
-var mnemonic = "cute rabbit female tonight exchange hedgehog trick trim produce exit law soft";
+var mnemonic = "describe describe patrol hobby exotic tomato breeze penalty online key inmate magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "under other twist render seven ability vote fresh mass excess flavor bomb";
+var mnemonic = "pair term lemon sort phone butter once bamboo pill jar maple absorb";

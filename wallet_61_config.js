@@ -1,1 +1,1 @@
-var mnemonic = "safe click grief tattoo radar slot thunder excite pride open bamboo panic";
+var mnemonic = "pigeon alert spider turtle exile sail oppose balance warrior element rigid gauge";

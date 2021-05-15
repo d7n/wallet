@@ -1,1 +1,1 @@
-var mnemonic = "sample spider noble plunge option position note prevent sort kiss beyond unique";
+var mnemonic = "horror word wool bomb secret normal trip smile eagle boss diamond behave";

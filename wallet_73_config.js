@@ -1,1 +1,1 @@
-var mnemonic = "later dragon extend lab category sand sorry dog danger shield innocent fluid";
+var mnemonic = "honey fold isolate express steel lonely daring venue liberty renew shoe trend";

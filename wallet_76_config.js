@@ -1,1 +1,1 @@
-var mnemonic = "juice blue long until wise olympic other jelly keep horror stem mango";
+var mnemonic = "behind loop bachelor item dash trust warm balcony fitness about drift attend";

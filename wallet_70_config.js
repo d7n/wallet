@@ -1,1 +1,1 @@
-var mnemonic = "roof confirm cousin cage print place demand various gravity rapid pear stamp";
+var mnemonic = "display toy eye hamster long blossom pigeon help menu flock hair resource";

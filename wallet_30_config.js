@@ -1,1 +1,1 @@
-var mnemonic = "decrease ketchup flock derive fine renew dumb stable skirt amazing game milk";
+var mnemonic = "nothing plate brass rebuild joke reject total shield roast drip flag amateur";

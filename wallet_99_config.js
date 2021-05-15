@@ -1,1 +1,1 @@
-var mnemonic = "radar mail dilemma boy knee smoke lemon elegant start scrub screen misery";
+var mnemonic = "neutral build donate then happy panda decrease sell armed trigger rotate fashion";

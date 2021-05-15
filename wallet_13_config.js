@@ -1,1 +1,1 @@
-var mnemonic = "armor side iron letter quiz jazz rough patrol father library sheriff miss";
+var mnemonic = "pottery stand dry guard item hurt amateur warrior oval follow rookie only";

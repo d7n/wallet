@@ -1,1 +1,1 @@
-var mnemonic = "broom tunnel sun daring notable ball exhaust negative option thrive join exclude";
+var mnemonic = "cabbage normal shield tape hope inch vehicle coyote cabin museum address laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "wine spirit fruit subject worth tilt tree combine tenant sun diamond island";
+var mnemonic = "like chair basket link again orange inquiry cotton dream flee close alert";

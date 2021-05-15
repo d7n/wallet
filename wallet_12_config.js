@@ -1,1 +1,1 @@
-var mnemonic = "bunker apology donate kiss vivid rack plate regular snow math update attract";
+var mnemonic = "ski fetch govern army sister print smile scorpion clump virus duty confirm";

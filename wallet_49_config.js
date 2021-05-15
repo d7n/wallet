@@ -1,1 +1,1 @@
-var mnemonic = "fee curve planet immune east box subway solar antenna road weasel deputy";
+var mnemonic = "state oppose rigid dose adapt lava sign midnight crash idea blame system";

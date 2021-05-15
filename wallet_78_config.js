@@ -1,1 +1,1 @@
-var mnemonic = "film alien author grain census awful stairs few soap clever buzz burden";
+var mnemonic = "mistake canvas insect east jelly chaos gorilla unaware shove rent merge sea";

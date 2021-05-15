@@ -1,1 +1,1 @@
-var mnemonic = "base unable blue extra install draw explain valve sadness angle manual mention";
+var mnemonic = "hunt memory hollow chuckle path rude tortoise punch over sorry visa march";

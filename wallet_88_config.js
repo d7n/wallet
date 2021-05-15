@@ -1,1 +1,1 @@
-var mnemonic = "toward athlete blur rack scare pilot budget dad caution limit session laugh";
+var mnemonic = "pear snap edit token mule bitter hero merge abstract brisk post need";

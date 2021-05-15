@@ -1,1 +1,1 @@
-var mnemonic = "equip west consider armor awake arrive dune team move describe shoulder stable";
+var mnemonic = "session pass powder fringe ghost march angry also quit bicycle cross cart";

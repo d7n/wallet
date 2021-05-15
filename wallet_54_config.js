@@ -1,1 +1,1 @@
-var mnemonic = "gate sport kiss slush farm leg episode expect jacket loop marble believe";
+var mnemonic = "prepare tattoo cook small similar cave device ketchup brown purchase diagram charge";

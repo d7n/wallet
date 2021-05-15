@@ -1,1 +1,1 @@
-var mnemonic = "portion energy nice field solar lawsuit claw exist wedding prefer never witness";
+var mnemonic = "obey market sword say direct sport stadium steel phone alone winter attack";

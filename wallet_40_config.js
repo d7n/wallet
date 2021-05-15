@@ -1,1 +1,1 @@
-var mnemonic = "mutual about various comfort latin depart shoe process chaos street excite vacant";
+var mnemonic = "state target case swallow layer bomb cattle wood walnut genre mimic bitter";

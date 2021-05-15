@@ -1,1 +1,1 @@
-var mnemonic = "ask radar infant include task cram industry axis nurse volume nose vacuum";
+var mnemonic = "day nothing vessel safe top hurt bounce remain jacket immune fossil dawn";

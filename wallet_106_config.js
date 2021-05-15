@@ -1,1 +1,1 @@
-var mnemonic = "churn sketch taste hammer army consider slice robot owner afford dinosaur artwork";
+var mnemonic = "humble tunnel find consider common struggle budget yard crazy program pistol close";

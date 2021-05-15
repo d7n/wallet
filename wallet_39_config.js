@@ -1,1 +1,1 @@
-var mnemonic = "order cry medal cool fetch erode cake question index fire use dose";
+var mnemonic = "person avocado festival dry movie people mirror bronze police auto bar skirt";

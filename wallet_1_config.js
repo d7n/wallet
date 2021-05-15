@@ -1,1 +1,1 @@
-var mnemonic = "service chair hat raven account process turkey boy fashion coast genre glide";
+var mnemonic = "demand comic laugh nose rule grow gospel tennis cargo inflict sword tell";

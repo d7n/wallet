@@ -1,1 +1,1 @@
-var mnemonic = "actor arena people apology act basic lobster magic square garlic round mixed";
+var mnemonic = "dish swap popular web modify giant isolate olive course spy client trade";

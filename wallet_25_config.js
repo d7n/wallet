@@ -1,1 +1,1 @@
-var mnemonic = "digital around wheat regular curve modify notice load volcano street divide abandon";
+var mnemonic = "among toddler mother pulp grief milk awesome idle bachelor matrix energy wolf";

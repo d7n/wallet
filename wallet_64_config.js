@@ -1,1 +1,1 @@
-var mnemonic = "dwarf gap execute scorpion spoil consider chronic decide kite auction middle vapor";
+var mnemonic = "midnight recall vague skin bind into sport volume abandon night future slim";

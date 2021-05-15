@@ -1,1 +1,1 @@
-var mnemonic = "relax mesh fragile find suit nest toward guilt verify slim stairs flee";
+var mnemonic = "orange elevator expose utility scene enough fringe cliff pig olive bleak torch";

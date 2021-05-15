@@ -1,1 +1,1 @@
-var mnemonic = "train inside priority unhappy fog country kitten render seat exhibit answer able";
+var mnemonic = "rubber plastic suffer cry lonely mammal repair drip few start noble gadget";

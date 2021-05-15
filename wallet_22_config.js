@@ -1,1 +1,1 @@
-var mnemonic = "purpose void vocal trophy super parent chapter taste sell rather spray dose";
+var mnemonic = "ivory donate shoot kidney host slice bachelor theory deny fence mushroom album";

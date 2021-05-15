@@ -1,1 +1,1 @@
-var mnemonic = "ski car wheel stereo thought trade trial feature popular idle word second";
+var mnemonic = "shadow over before auction human toast marine logic vault leopard picnic oppose";

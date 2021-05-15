@@ -1,1 +1,1 @@
-var mnemonic = "attitude rhythm peanut buffalo visit salad tonight enhance truly sniff win resist";
+var mnemonic = "proud virus sweet novel air bag bench spell zero brown wait answer";

@@ -1,1 +1,1 @@
-var mnemonic = "nose soap yard woman soldier soup vital genius blood clown cargo buzz";
+var mnemonic = "finger either twenty earth matrix risk series sugar method embark slam junk";

@@ -1,1 +1,1 @@
-var mnemonic = "suit spice brisk pattern card toy number spirit rich imitate scare provide";
+var mnemonic = "tank domain pipe captain equal shed lawsuit maximum soda liberty soap endorse";

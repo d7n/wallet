@@ -1,1 +1,1 @@
-var mnemonic = "remind coin village shop lab problem must left ill harbor region engine";
+var mnemonic = "trap few sketch path typical lake destroy absent where human defense path";

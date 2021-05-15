@@ -1,1 +1,1 @@
-var mnemonic = "actual illness water tomorrow net clock elevator divert maid moral sort east";
+var mnemonic = "skirt awkward proud vast phone review sniff hole genre opera grab video";

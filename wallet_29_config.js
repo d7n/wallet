@@ -1,1 +1,1 @@
-var mnemonic = "pole face summer patient depend tower survey inmate tiny fly tiger retreat";
+var mnemonic = "melt mixture butter supply crystal poem march virtual blush husband naive portion";

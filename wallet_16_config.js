@@ -1,1 +1,1 @@
-var mnemonic = "damage elbow oyster urge embark jeans banner brown violin foam off few";
+var mnemonic = "million figure usage deny mind table march sail clay system nephew turtle";

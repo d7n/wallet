@@ -1,1 +1,1 @@
-var mnemonic = "inhale mom pass size retire welcome pair retire crack flight retreat address";
+var mnemonic = "lizard tone orient dish uncle bachelor avoid blind start resist habit nerve";

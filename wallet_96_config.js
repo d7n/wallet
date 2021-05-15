@@ -1,1 +1,1 @@
-var mnemonic = "radio fluid antique waste latin limit display jungle arm cliff deal acquire";
+var mnemonic = "vital balcony forget tissue august zero beyond busy nerve crazy nut galaxy";

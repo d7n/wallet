@@ -1,1 +1,1 @@
-var mnemonic = "fault during daughter finish voice code clay release debate damp emerge tilt";
+var mnemonic = "early resource combine someone runway hamster upgrade debris horse vintage episode engine";

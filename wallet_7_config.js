@@ -1,1 +1,1 @@
-var mnemonic = "wild six today balcony object hotel system answer banner congress bunker woman";
+var mnemonic = "release develop delay latin bulb donor mix like arrow polar afford royal";

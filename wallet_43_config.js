@@ -1,1 +1,1 @@
-var mnemonic = "clerk broken area replace pole brick diary round primary warm favorite slam";
+var mnemonic = "wedding loyal employ rural vocal chat worry unaware panda amount since robot";

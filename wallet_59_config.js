@@ -1,1 +1,1 @@
-var mnemonic = "tooth either clarify canvas main jungle wealth ready soccer enjoy cycle tuition";
+var mnemonic = "pulse juice paper office forward promote second divide result drink worry burger";

@@ -1,1 +1,1 @@
-var mnemonic = "educate waste despair frame truck gallery jungle true crew awesome ceiling melody";
+var mnemonic = "inmate private axis chunk trigger depth draw various patch develop crush scare";

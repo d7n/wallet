@@ -1,1 +1,1 @@
-var mnemonic = "never rebel account drop grit oven chat column obscure service voyage flat";
+var mnemonic = "include demand idle volume indoor tonight online cave current rough dash episode";

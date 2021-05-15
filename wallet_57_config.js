@@ -1,1 +1,1 @@
-var mnemonic = "sauce minor permit oak sweet index select basket foster cereal exist betray";
+var mnemonic = "purity language crater endorse undo tourist weasel priority sword fabric width dynamic";

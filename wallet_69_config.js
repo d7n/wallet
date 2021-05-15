@@ -1,1 +1,1 @@
-var mnemonic = "field canal arrange glove tool maple universe aware arrow script found worth";
+var mnemonic = "base reflect small shock push eager outer gap benefit barrel indicate lion";

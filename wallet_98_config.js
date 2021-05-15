@@ -1,1 +1,1 @@
-var mnemonic = "sick bracket robot cloth badge build ankle lunar jump wish truth wolf";
+var mnemonic = "series silent license resource follow upgrade orbit wreck image drop regular mesh";

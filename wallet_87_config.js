@@ -1,1 +1,1 @@
-var mnemonic = "bus idle lamp educate donate glimpse joy teach where cube expand proof";
+var mnemonic = "glide scheme supply buddy infant news slide economy vacuum wrong distance smart";

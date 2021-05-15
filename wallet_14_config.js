@@ -1,1 +1,1 @@
-var mnemonic = "inmate elite fuel measure leave summer tackle click field shy frozen oak";
+var mnemonic = "faith express slam curious situate snap then rib palace artefact brief music";

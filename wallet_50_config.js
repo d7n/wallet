@@ -1,1 +1,1 @@
-var mnemonic = "raw dune cram guess ostrich describe bike rubber isolate pudding mistake unlock";
+var mnemonic = "twenty road feature upper elephant birth lobster profit gossip apart include aim";

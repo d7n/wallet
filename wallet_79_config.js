@@ -1,1 +1,1 @@
-var mnemonic = "knife curve tuna hen initial book hello mercy power type uphold mango";
+var mnemonic = "argue peanut spatial eyebrow acquire suffer produce rude kidney velvet jealous riot";
