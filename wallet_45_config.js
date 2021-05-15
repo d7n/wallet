@@ -1,1 +1,1 @@
-var mnemonic = "balcony charge clever stay boss bike yard multiply pepper club tuition admit";
+var mnemonic = "panic veteran recipe audit cattle cargo task brother movie baby unveil royal";

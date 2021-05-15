@@ -1,1 +1,1 @@
-var mnemonic = "intact inflict entire repair major vendor return elegant front hunt sport execute";
+var mnemonic = "crystal wing goat uniform never height siren hungry normal front reveal country";

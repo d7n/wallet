@@ -1,1 +1,1 @@
-var mnemonic = "crew spice cube coast element female salon sorry soul physical adult shed";
+var mnemonic = "solution steak return fossil bind episode surround employ subway cruel final future";

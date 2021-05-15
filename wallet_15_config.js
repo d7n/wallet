@@ -1,1 +1,1 @@
-var mnemonic = "armor bless lens donate tornado tortoise spot mercy party guide decorate list";
+var mnemonic = "unfold find elevator because siren first private inch beach useful choice turtle";

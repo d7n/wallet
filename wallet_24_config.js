@@ -1,1 +1,1 @@
-var mnemonic = "limit speak recycle tone oil normal concert dawn toast inner limb tortoise";
+var mnemonic = "come verify target power color satisfy maid armed all obscure connect isolate";

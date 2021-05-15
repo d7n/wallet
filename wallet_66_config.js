@@ -1,1 +1,1 @@
-var mnemonic = "remember affair frame salute host target crouch earth radio alarm exotic rail";
+var mnemonic = "husband hello cloth arm inspire abandon step popular boy hurry earth reason";

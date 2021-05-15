@@ -1,1 +1,1 @@
-var mnemonic = "elegant voice phone side dynamic robust explain measure vessel night aim skin";
+var mnemonic = "differ ask involve catch dilemma address payment news combine swing play sell";

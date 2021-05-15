@@ -1,1 +1,1 @@
-var mnemonic = "cool day old lyrics enjoy era south exhaust nation derive globe sense";
+var mnemonic = "put rich hard person library atom rent soccer entry circle need slice";

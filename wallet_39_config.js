@@ -1,1 +1,1 @@
-var mnemonic = "off mind right bargain immune pill assault one consider urban bag attitude";
+var mnemonic = "unknown enough that valley mansion doctor grit panel ramp soft evolve song";

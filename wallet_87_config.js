@@ -1,1 +1,1 @@
-var mnemonic = "ski flag play good empower thunder head laugh walk buddy bag spray";
+var mnemonic = "section ride piece onion carry south energy finish figure aerobic endless shine";

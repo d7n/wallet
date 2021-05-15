@@ -1,1 +1,1 @@
-var mnemonic = "jaguar umbrella kite fatigue absorb oppose toe surge hurry roast know false";
+var mnemonic = "method dutch put farm father floor industry barely arctic tiny butter spin";

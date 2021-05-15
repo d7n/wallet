@@ -1,1 +1,1 @@
-var mnemonic = "thunder kitten vacuum celery orange reopen enforce parade notable mammal token duty";
+var mnemonic = "among miracle illness latin fluid wisdom tent sick ladder spray uphold fly";

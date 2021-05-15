@@ -1,1 +1,1 @@
-var mnemonic = "dumb tape guitar shine street citizen uncle first voyage praise body sea";
+var mnemonic = "enlist item traffic donkey wonder employ friend supply spy feature hammer learn";

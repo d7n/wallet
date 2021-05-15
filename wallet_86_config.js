@@ -1,1 +1,1 @@
-var mnemonic = "olympic obey lamp wine discover action curtain denial degree tuition object awkward";
+var mnemonic = "then boss visa flame tumble among creek peasant tornado limb rough arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "gather gate treat kiss camera depth erosion cliff high bullet scheme light";
+var mnemonic = "friend extend begin solid demise discover payment upgrade iron egg else legal";

@@ -1,1 +1,1 @@
-var mnemonic = "brass girl tired brave loud eyebrow desk cotton space fashion whisper powder";
+var mnemonic = "oyster maple clean wedding prosper unveil scrap ecology orbit gun cement refuse";

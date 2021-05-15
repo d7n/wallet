@@ -1,1 +1,1 @@
-var mnemonic = "media convince rebel magic fall valve foam elite dynamic obvious pencil stumble";
+var mnemonic = "horse february powder rocket reform call case live pudding quality cross put";

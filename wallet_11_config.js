@@ -1,1 +1,1 @@
-var mnemonic = "bamboo core garbage desk swap cereal cash cliff liquid lock monster enrich";
+var mnemonic = "picnic abandon cute change crowd until glance identify thumb butter damage price";

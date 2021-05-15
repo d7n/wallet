@@ -1,1 +1,1 @@
-var mnemonic = "mouse fetch estate tiger you album oblige public deal blame scrub bar";
+var mnemonic = "usual mass diamond exist champion copy agent tape switch tell cruise box";

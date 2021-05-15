@@ -1,1 +1,1 @@
-var mnemonic = "brief envelope attitude broccoli lamp alpha practice connect claim scout peace problem";
+var mnemonic = "antenna grape open object glad inject silent tunnel mouse dinner long moral";

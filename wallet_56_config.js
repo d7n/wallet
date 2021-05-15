@@ -1,1 +1,1 @@
-var mnemonic = "quote goat net since donate soccer obscure faculty lava vivid half enemy";
+var mnemonic = "pony empower useful expand honey same cigar sauce patient question material mansion";

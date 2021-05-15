@@ -1,1 +1,1 @@
-var mnemonic = "lazy vendor doll click lizard foster display witness pair crawl motion fortune";
+var mnemonic = "spin gasp age exotic bronze believe flash scan tide museum artwork nation";

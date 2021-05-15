@@ -1,1 +1,1 @@
-var mnemonic = "can junk tower lizard day donor napkin travel wise shell thing burger";
+var mnemonic = "morning license parent mad snake gossip humor warrior upgrade lizard extra again";

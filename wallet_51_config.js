@@ -1,1 +1,1 @@
-var mnemonic = "rule phone gravity vanish step manage knock science save tower extra pumpkin";
+var mnemonic = "boring unfold purity sail argue run minimum require hurry flash analyst device";

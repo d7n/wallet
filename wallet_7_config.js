@@ -1,1 +1,1 @@
-var mnemonic = "prison aspect certain level rapid urban trust bitter grace climb useful erase";
+var mnemonic = "sure clever faculty round elevator silly grit garage nephew grief canyon tuna";

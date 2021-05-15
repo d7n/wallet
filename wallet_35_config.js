@@ -1,1 +1,1 @@
-var mnemonic = "come cave try crash pizza kitten citizen question youth rabbit country salt";
+var mnemonic = "fun breeze nut element luxury close hybrid trouble east dirt boss pulse";

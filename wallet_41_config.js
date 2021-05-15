@@ -1,1 +1,1 @@
-var mnemonic = "drop basic cash early battle black deer crawl rebuild matrix bounce blind";
+var mnemonic = "hazard floor drink trumpet spare agent peasant pass task buyer seek tell";

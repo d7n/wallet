@@ -1,1 +1,1 @@
-var mnemonic = "online inmate blue couple shaft menu ride exclude dice smoke duck buddy";
+var mnemonic = "avocado clarify holiday coconut chronic glimpse snack female fringe abuse hundred idle";

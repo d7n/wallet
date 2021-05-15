@@ -1,1 +1,1 @@
-var mnemonic = "kiss meat husband assist electric town cool degree wife brave phone rough";
+var mnemonic = "define flower fork father into hawk predict bachelor end antenna become forum";

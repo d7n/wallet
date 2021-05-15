@@ -1,1 +1,1 @@
-var mnemonic = "keep pride double vivid height grid jar powder kick quit air whale";
+var mnemonic = "team adjust wise escape mechanic ethics knock material shrimp weird egg token";

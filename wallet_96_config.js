@@ -1,1 +1,1 @@
-var mnemonic = "hub question tourist engage tape reject cancel chalk cushion mask anxiety lab";
+var mnemonic = "rude fury coin govern pelican orchard such lyrics switch secret snow fan";

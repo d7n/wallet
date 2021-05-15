@@ -1,1 +1,1 @@
-var mnemonic = "borrow slim element doll tool glance draw drift frequent method toilet dance";
+var mnemonic = "funny raccoon major dignity cart rigid square barrel job thunder cloth drill";

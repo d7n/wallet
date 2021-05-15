@@ -1,1 +1,1 @@
-var mnemonic = "agree rib plunge own exist bird duck wide rent oven mass tide";
+var mnemonic = "brave arm venture empower message join squirrel anchor giraffe flip spirit click";

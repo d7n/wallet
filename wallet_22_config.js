@@ -1,1 +1,1 @@
-var mnemonic = "visa rally person ability oil muscle gain remind fiber letter roast trumpet";
+var mnemonic = "rail cloth dwarf network mad brand leisure skull help chest setup exercise";

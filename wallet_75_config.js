@@ -1,1 +1,1 @@
-var mnemonic = "relax section spy gun paper sting series broken art note fence stereo";
+var mnemonic = "course dog proof arrow sand buzz frost indicate festival hand finger slight";

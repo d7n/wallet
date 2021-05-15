@@ -1,1 +1,1 @@
-var mnemonic = "smoke join naive nominee quick cause route oblige brass reason awesome relax";
+var mnemonic = "flight disorder embody idea total exotic hair pizza oven vapor game mistake";

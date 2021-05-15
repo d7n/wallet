@@ -1,1 +1,1 @@
-var mnemonic = "when rigid mammal replace bag moon decide skin meat happy noodle position";
+var mnemonic = "ticket awkward argue stool toss engine gun canal achieve pact swim snap";

@@ -1,1 +1,1 @@
-var mnemonic = "october domain portion shop grace uphold sea aisle wish reward bus proof";
+var mnemonic = "skill basket cruel initial vast knee zone run math stem escape ancient";

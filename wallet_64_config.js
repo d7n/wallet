@@ -1,1 +1,1 @@
-var mnemonic = "level ski chest govern bomb harbor million useless convince adjust exact topic";
+var mnemonic = "bonus broken today green palace curious kingdom scrub ski buffalo diet key";

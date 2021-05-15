@@ -1,1 +1,1 @@
-var mnemonic = "dilemma trip clap build small fork custom slam car rival green leopard";
+var mnemonic = "estate march door away guitar wink relief vehicle huge fiscal icon term";

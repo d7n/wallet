@@ -1,1 +1,1 @@
-var mnemonic = "toast kit wish hockey brand resemble walnut comfort pizza best donate core";
+var mnemonic = "immense laptop figure trip canyon cabbage path clever safe fade trial load";

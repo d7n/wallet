@@ -1,1 +1,1 @@
-var mnemonic = "light rescue offer again laptop payment rigid spare prosper motor blanket west";
+var mnemonic = "enable spell fix glide surge remove wash atom rifle tent bomb cake";

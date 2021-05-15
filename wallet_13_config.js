@@ -1,1 +1,1 @@
-var mnemonic = "coil swamp extend sand rough scrap sweet erase door suit hold swim";
+var mnemonic = "ankle ski display survey hurt candy chair stumble kitten frame price april";

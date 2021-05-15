@@ -1,1 +1,1 @@
-var mnemonic = "hobby proud robust lunch mad original apple receive wire crew toddler expand";
+var mnemonic = "possible priority assist travel chief unfold flee flame kidney reunion salmon maximum";

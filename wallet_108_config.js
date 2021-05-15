@@ -1,1 +1,1 @@
-var mnemonic = "same guitar cash change cycle wish pelican broken label such future device";
+var mnemonic = "dilemma aware song lawn mistake seat winner matrix detail fire cushion typical";

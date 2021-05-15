@@ -1,1 +1,1 @@
-var mnemonic = "marine omit have false rib uncle marble duty logic timber ship meadow";
+var mnemonic = "festival despair lunch globe table buzz excite diesel coin teach enhance rookie";

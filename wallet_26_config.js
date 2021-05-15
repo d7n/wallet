@@ -1,1 +1,1 @@
-var mnemonic = "crack minor antenna organ unfair enforce simple clump skirt thunder system travel";
+var mnemonic = "divorce ordinary know jungle mask quantum motion elder banner finger abandon repair";

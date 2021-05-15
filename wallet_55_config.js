@@ -1,1 +1,1 @@
-var mnemonic = "define stay carry slice awful joke shed asset describe coach regular shock";
+var mnemonic = "play mechanic immense above salute recall oil oval orbit young adjust arena";

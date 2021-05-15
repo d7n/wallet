@@ -1,1 +1,1 @@
-var mnemonic = "budget hundred oppose mixture winner rookie dizzy peasant region tool swing call";
+var mnemonic = "oblige curious match flavor turtle joy arena armor stem clap document empower";

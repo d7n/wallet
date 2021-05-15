@@ -1,1 +1,1 @@
-var mnemonic = "entire endless voyage win move rotate head buddy mercy gym state huge";
+var mnemonic = "hover antenna harsh ability float city perfect people biology help output screen";

@@ -1,1 +1,1 @@
-var mnemonic = "small employ claw rotate matter ridge shed subject method dry endless text";
+var mnemonic = "april goat spider snack brown local angry material thing scout car drama";

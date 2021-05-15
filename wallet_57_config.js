@@ -1,1 +1,1 @@
-var mnemonic = "bonus march brush bracket jelly lyrics exile century cabin heart business brush";
+var mnemonic = "hour blur agent mesh cook weather fever icon fame error barrel chief";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle between clip prosper gesture immense disease worth morning primary blade collect";
+var mnemonic = "unusual silk patch produce decrease rigid fitness rich lawn can immense rural";

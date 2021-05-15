@@ -1,1 +1,1 @@
-var mnemonic = "muffin dinosaur pioneer yard fortune position business addict reward bullet second lens";
+var mnemonic = "enlist pepper else matter opera silver slim fiction penalty arrest satisfy cable";

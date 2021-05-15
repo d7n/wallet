@@ -1,1 +1,1 @@
-var mnemonic = "ill link fork vacuum chest hello impact hen easily lemon local afraid";
+var mnemonic = "security system laundry media another shaft scheme girl actress borrow glimpse idea";

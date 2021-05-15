@@ -1,1 +1,1 @@
-var mnemonic = "jacket pluck sister giant lecture pen seek blue life song vast sauce";
+var mnemonic = "unusual nasty urge private faculty pony monkey indoor unaware impose giant cluster";

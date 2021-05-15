@@ -1,1 +1,1 @@
-var mnemonic = "forum violin work balcony remember scrap crime poem toy dove sight ramp";
+var mnemonic = "position entry box liberty drive purpose knee school gesture question early moral";

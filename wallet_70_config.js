@@ -1,1 +1,1 @@
-var mnemonic = "camp december win feed pass narrow hawk amazing pepper air property inform";
+var mnemonic = "baby embark version book net unique net retreat lab shock balance time";

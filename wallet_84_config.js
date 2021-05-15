@@ -1,1 +1,1 @@
-var mnemonic = "talent always dinosaur tumble awkward trophy sense clean hint basket decline drink";
+var mnemonic = "swamp race sting later nephew crumble kangaroo image song galaxy prison gravity";

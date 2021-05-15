@@ -1,1 +1,1 @@
-var mnemonic = "forest reduce first update beauty cotton useless gossip erupt word mobile put";
+var mnemonic = "glass hazard sure mesh duty love term another age game joy clown";

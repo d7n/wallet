@@ -1,1 +1,1 @@
-var mnemonic = "captain repeat fatal caution ladder traffic usual broken top frost cloud memory";
+var mnemonic = "ring access reflect argue sock write first argue dolphin sight enable common";

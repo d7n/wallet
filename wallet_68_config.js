@@ -1,1 +1,1 @@
-var mnemonic = "trigger merry high session mixed small curtain grape nothing buyer return shoot";
+var mnemonic = "later knock resist album gorilla horn spoil prosper caught please metal image";

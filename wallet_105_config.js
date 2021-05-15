@@ -1,1 +1,1 @@
-var mnemonic = "snake poet ski volume lobster profit property nest drive strategy saddle casual";
+var mnemonic = "teach parrot decide smooth once flavor economy burger guard arm wine decrease";

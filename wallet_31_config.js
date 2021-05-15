@@ -1,1 +1,1 @@
-var mnemonic = "affair river uncover faith blanket vast screen cash female dress output nut";
+var mnemonic = "win market insane topple belt rude power staff rail rain grocery carry";

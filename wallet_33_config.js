@@ -1,1 +1,1 @@
-var mnemonic = "acquire hair upgrade share sunset shrimp ginger matrix quit coffee aisle drink";
+var mnemonic = "bundle bind annual unlock unfair body private butter heavy shrimp sure defense";

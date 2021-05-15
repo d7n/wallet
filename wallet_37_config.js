@@ -1,1 +1,1 @@
-var mnemonic = "receive allow cat ten buddy heart fabric cushion swift estate lonely fiction";
+var mnemonic = "bicycle enter man cactus about fitness deliver abstract dust game expose emotion";

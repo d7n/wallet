@@ -1,1 +1,1 @@
-var mnemonic = "corn differ once laundry marine solution game grape lesson rigid spoil lake";
+var mnemonic = "cool wink bone clutch hold brave between often hand health gorilla prosper";

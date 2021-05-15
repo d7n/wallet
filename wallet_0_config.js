@@ -1,1 +1,1 @@
-var mnemonic = "ridge power undo subway exotic fatal dial rebel extend celery toddler genius";
+var mnemonic = "invest recycle prison mango pottery drastic conduct huge live absent kingdom brief";

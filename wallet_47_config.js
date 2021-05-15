@@ -1,1 +1,1 @@
-var mnemonic = "pig empty achieve gold arena flower length spoon ranch wood truth uncle";
+var mnemonic = "suggest angry awful cliff stumble twin school casino injury whip deal alley";

@@ -1,1 +1,1 @@
-var mnemonic = "exact return cabbage check piano renew sock circle tissue material attitude orient";
+var mnemonic = "symbol require when mad long plastic caught garlic earth good fit reject";

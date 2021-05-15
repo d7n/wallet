@@ -1,1 +1,1 @@
-var mnemonic = "melody farm random horror vast couple burger surround junk clarify huge buyer";
+var mnemonic = "diamond plate correct session wasp equip void private toe menu senior rigid";

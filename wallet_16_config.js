@@ -1,1 +1,1 @@
-var mnemonic = "cradle blanket resist usual drink happy spirit twist spawn power solution stay";
+var mnemonic = "defense page relief visit check surprise slow blanket taxi apart excess gap";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive never laundry hurdle hill add demise sick want cool whip weapon";
+var mnemonic = "marriage satisfy happy snake torch rigid summer pond scale column skin sure";

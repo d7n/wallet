@@ -1,1 +1,1 @@
-var mnemonic = "truck price addict upset enforce light unhappy slush royal pumpkin slogan media";
+var mnemonic = "prison yard rural absent flip bright twin glare other horn tobacco trumpet";

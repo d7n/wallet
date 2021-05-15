@@ -1,1 +1,1 @@
-var mnemonic = "library attend diary clarify method vacuum deputy fold raise bonus zebra huge";
+var mnemonic = "blade surprise course error piano thunder multiply nothing witness carbon maid try";

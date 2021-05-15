@@ -1,1 +1,1 @@
-var mnemonic = "raise egg night tape fever enough rely pretty author slender liberty answer";
+var mnemonic = "guide autumn around silk invest analyst silk meat spare other pelican section";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit boil brand craft crane bridge outdoor trim notice artwork trigger hole";
+var mnemonic = "grief exercise lunar brave hire sausage buzz expire circle piece orbit toast";

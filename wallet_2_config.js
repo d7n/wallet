@@ -1,1 +1,1 @@
-var mnemonic = "tower ginger current margin giraffe evidence food length board harsh figure dish";
+var mnemonic = "vicious jar essence master crucial when orange just blame build corn birth";

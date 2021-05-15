@@ -1,1 +1,1 @@
-var mnemonic = "casual prosper jeans flower vacuum fatal adjust breeze valid decorate scheme blast";
+var mnemonic = "trim relief rose own donate pink follow salt final move enough panel";

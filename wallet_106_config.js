@@ -1,1 +1,1 @@
-var mnemonic = "eagle resist climb young damage tobacco umbrella connect kid amateur priority auto";
+var mnemonic = "magic impulse despair planet organ broom cargo matrix rich match volcano rhythm";

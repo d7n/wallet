@@ -1,1 +1,1 @@
-var mnemonic = "joy broom improve allow jeans powder across around sight weapon vote stairs";
+var mnemonic = "cradle gravity limb trend security raven mutual matter hover acid urban piece";

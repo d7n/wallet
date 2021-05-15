@@ -1,1 +1,1 @@
-var mnemonic = "guard match usage shop vocal wise opinion earth demand control lend acquire";
+var mnemonic = "motion scrap observe welcome around shield buyer pulp hurdle beach arena antique";

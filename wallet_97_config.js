@@ -1,1 +1,1 @@
-var mnemonic = "trap deposit forest shed chunk frog empty sound upgrade repeat funny cliff";
+var mnemonic = "entry chalk decline cradle ecology capital luxury silly draft prefer island permit";

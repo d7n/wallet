@@ -1,1 +1,1 @@
-var mnemonic = "scene angry nerve caught lion citizen chase indoor raise jeans forum cousin";
+var mnemonic = "boy sorry identify cycle million basket oxygen claim giraffe chef capital buffalo";

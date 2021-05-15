@@ -1,1 +1,1 @@
-var mnemonic = "device gauge yellow pill unique genuine express horse sign fashion wrap during";
+var mnemonic = "purse book upon hair parent phrase alien regret diesel tribe eight digital";

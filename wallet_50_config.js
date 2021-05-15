@@ -1,1 +1,1 @@
-var mnemonic = "narrow winner finger bench palm secret ecology vast student barrel vapor poet";
+var mnemonic = "huge ski silent include ability worth wolf hazard input mix winner wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain corn van pave cute cannon retreat define lamp hurdle coyote spoon";
+var mnemonic = "chaos axis cushion grit ridge merry range frozen size crazy oppose peanut";
