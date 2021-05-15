@@ -1,1 +1,1 @@
-var mnemonic = "mountain seven ahead boil attend monkey mammal bomb alien good input diary";
+var mnemonic = "dirt bicycle human junior raven wedding tank casual spin clean wide first";

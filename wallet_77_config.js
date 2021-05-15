@@ -1,1 +1,1 @@
-var mnemonic = "ozone barely tuna humor relax carbon upon order stand ice couch fat";
+var mnemonic = "switch sugar slim mesh obscure duty pink elder lounge note base tiger";

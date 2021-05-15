@@ -1,1 +1,1 @@
-var mnemonic = "engine oval marble broom exit correct trend match track climb hen shell";
+var mnemonic = "palace soldier twice garbage zone knee good tribe access umbrella address mammal";

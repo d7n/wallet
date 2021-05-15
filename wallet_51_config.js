@@ -1,1 +1,1 @@
-var mnemonic = "seminar donkey antique lava maple science child drill goose cousin later hover";
+var mnemonic = "gym hurdle brain ocean mesh punch custom index glare tenant truly trust";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle sight caution hunt minute whisper pipe wrist baby chase crowd absurd";
+var mnemonic = "lunch brain essay bulk document habit shock frozen cruise strategy employ clap";

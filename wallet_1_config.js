@@ -1,1 +1,1 @@
-var mnemonic = "fold pattern away idea protect present young unfold inquiry moral athlete surge";
+var mnemonic = "language slow rely seven engage unfold update exhibit sheriff foster urge drum";

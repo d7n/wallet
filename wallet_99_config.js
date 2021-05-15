@@ -1,1 +1,1 @@
-var mnemonic = "unique coconut manual certain pattern stumble horror waste spirit base cat hospital";
+var mnemonic = "soon also jungle pony asthma recall silver torch atom laugh giggle gasp";

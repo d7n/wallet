@@ -1,1 +1,1 @@
-var mnemonic = "chunk tilt february foam oblige middle remember oven topple loud agent churn";
+var mnemonic = "decorate bitter scout moon blame game portion more search cluster call essence";

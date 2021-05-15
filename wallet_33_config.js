@@ -1,1 +1,1 @@
-var mnemonic = "they hold mass melt clever extra ill supply emotion now zoo unusual";
+var mnemonic = "tenant boss august apple march typical rocket practice gesture script heavy robust";

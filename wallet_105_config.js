@@ -1,1 +1,1 @@
-var mnemonic = "cheese post execute enjoy derive concert sport hero neutral slab blind cactus";
+var mnemonic = "copper edit odor grow decrease service shock vital scare bicycle still affair";

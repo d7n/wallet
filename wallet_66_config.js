@@ -1,1 +1,1 @@
-var mnemonic = "galaxy grace able slogan fresh orchard brand stomach cable stove inspire winner";
+var mnemonic = "current ecology vital lock rice flag check victory long spare silly monster";

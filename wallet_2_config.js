@@ -1,1 +1,1 @@
-var mnemonic = "midnight wreck monitor panic funny guard cotton riot mixture dilemma sail tube";
+var mnemonic = "gentle evil mask pioneer match suspect sentence push crane refuse agree utility";

@@ -1,1 +1,1 @@
-var mnemonic = "happy congress assume thunder praise trend vacant ketchup drill present elephant address";
+var mnemonic = "ugly vibrant bundle tree senior rapid spoil focus dumb add erode else";

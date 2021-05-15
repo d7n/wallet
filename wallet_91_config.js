@@ -1,1 +1,1 @@
-var mnemonic = "shove diamond syrup critic ask toy business way idle matter mimic inch";
+var mnemonic = "skirt helmet woman autumn rally evoke december cake month end morning breeze";

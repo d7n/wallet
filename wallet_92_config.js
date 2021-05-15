@@ -1,1 +1,1 @@
-var mnemonic = "phone trust coyote ghost describe assist nothing mammal minute snake south cement";
+var mnemonic = "trumpet beach slab any sport load horror kidney obvious clutch silly jar";

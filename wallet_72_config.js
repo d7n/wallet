@@ -1,1 +1,1 @@
-var mnemonic = "wink soda hip student model basket diesel network dust guide raccoon inquiry";
+var mnemonic = "clutch sausage kick fire flight sunset method climb spot source play scout";

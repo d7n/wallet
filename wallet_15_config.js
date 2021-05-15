@@ -1,1 +1,1 @@
-var mnemonic = "fame athlete series cluster arctic reopen surround urban chef spirit accuse flip";
+var mnemonic = "trade agent enroll cupboard mean okay dawn cost immune drum leaf pattern";

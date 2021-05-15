@@ -1,1 +1,1 @@
-var mnemonic = "three draw sauce people pole sport learn buddy fault frozen first hamster";
+var mnemonic = "debris derive age eight drift crucial miracle voyage inherit rival cement name";

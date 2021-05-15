@@ -1,1 +1,1 @@
-var mnemonic = "cheese depart spot shy net balcony copy morning regular maze civil balcony";
+var mnemonic = "accuse frost tattoo next alter avocado radar spoil arrive grace wrap echo";

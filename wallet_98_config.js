@@ -1,1 +1,1 @@
-var mnemonic = "memory cruel size belt ugly vocal economy sphere swamp either latin script";
+var mnemonic = "teach canvas belt travel allow window market young cruise hood rate badge";

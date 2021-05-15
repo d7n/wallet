@@ -1,1 +1,1 @@
-var mnemonic = "put tragic update above erase turn edit sniff ocean casual execute trend";
+var mnemonic = "flame crystal net cigar utility velvet garage lava bacon approve random badge";

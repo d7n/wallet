@@ -1,1 +1,1 @@
-var mnemonic = "tourist dumb nothing inform fee gas report hamster penalty over room loop";
+var mnemonic = "gold pipe tomato educate sing gentle brain hurdle tone hazard canal news";

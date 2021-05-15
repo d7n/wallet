@@ -1,1 +1,1 @@
-var mnemonic = "rubber drastic mention govern fever cradle rate rifle pyramid coil hazard inmate";
+var mnemonic = "sample lamp damp retire canoe eyebrow track gun mansion shaft grocery ask";

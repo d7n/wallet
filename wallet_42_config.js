@@ -1,1 +1,1 @@
-var mnemonic = "today behind oven margin birth fabric shaft income execute display dinner nut";
+var mnemonic = "gaze arctic plate short vacuum message total biology prison palm kingdom involve";

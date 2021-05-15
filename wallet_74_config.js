@@ -1,1 +1,1 @@
-var mnemonic = "stay damp canyon sketch build year pottery visa dragon review sponsor next";
+var mnemonic = "scorpion disease picnic abandon tool wonder era erosion series match spatial juice";

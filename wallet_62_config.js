@@ -1,1 +1,1 @@
-var mnemonic = "dizzy unable enroll powder success force critic fossil milk knee flower voyage";
+var mnemonic = "corn learn patient shrimp learn exotic pyramid focus unable meat fantasy under";

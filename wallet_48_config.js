@@ -1,1 +1,1 @@
-var mnemonic = "birth dream lecture senior opinion youth idle coil venture divide truth blood";
+var mnemonic = "village mountain below sausage fringe claw rubber mammal accuse reform smoke chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "home canoe major danger trouble ride topple swim olympic happy farm waste";
+var mnemonic = "attack mule uncover taxi typical differ arrange genius demand category unlock catch";

@@ -1,1 +1,1 @@
-var mnemonic = "cable have wing want frost metal excuse grace fragile survey wave hand";
+var mnemonic = "soap buffalo sure depart deny hold chaos forget december tobacco mother negative";

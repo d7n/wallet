@@ -1,1 +1,1 @@
-var mnemonic = "harvest ignore review typical lunar mule humor skate enter actor invite athlete";
+var mnemonic = "speak share gasp pitch prepare crash solution rough script mango unlock boost";

@@ -1,1 +1,1 @@
-var mnemonic = "little tiger middle exile fence release tide imitate quality leisure useless job";
+var mnemonic = "trophy beyond arch alter pattern such like summer sketch tip flock soul";

@@ -1,1 +1,1 @@
-var mnemonic = "direct script same orient elite legal dinosaur palace toilet team pepper taste";
+var mnemonic = "weekend lazy popular yellow city thumb vacuum crime current rude hint purpose";

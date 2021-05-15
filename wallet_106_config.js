@@ -1,1 +1,1 @@
-var mnemonic = "flight throw lottery pudding other economy dwarf rather question cruise connect horror";
+var mnemonic = "clip october sponsor club panda member goddess grid nation tent large math";

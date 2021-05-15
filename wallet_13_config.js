@@ -1,1 +1,1 @@
-var mnemonic = "network arrive song jewel catalog ten legal ecology patient mention love era";
+var mnemonic = "grow baby force hold outside opera fade fruit employ lock skirt lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "valley asthma armed census later uncover school once mushroom swear urban melody";
+var mnemonic = "eyebrow pen viable spice balance mistake stay lucky together seven noise ring";

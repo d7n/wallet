@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow hamster hammer sing cannon damage senior clown rib harvest proud mixture";
+var mnemonic = "sound valve rocket radio expose path tribe lift online you become hub";

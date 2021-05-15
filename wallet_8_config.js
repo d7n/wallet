@@ -1,1 +1,1 @@
-var mnemonic = "use venture cram shift devote permit only wisdom foster badge damp trust";
+var mnemonic = "miracle recycle hundred note solar magic run dentist miss sudden illegal list";

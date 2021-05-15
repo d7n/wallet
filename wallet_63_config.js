@@ -1,1 +1,1 @@
-var mnemonic = "stay wife fiction stereo math rookie electric awkward sweet radar carry render";
+var mnemonic = "have worry retire soft sustain feel voyage sense front merge evidence dad";

@@ -1,1 +1,1 @@
-var mnemonic = "husband sadness make vibrant between mother romance bonus video minute barrel approve";
+var mnemonic = "guide major push useless health carpet loan benefit whale embody airport hair";

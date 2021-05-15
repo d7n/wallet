@@ -1,1 +1,1 @@
-var mnemonic = "work call radar magnet width prison put shine denial trouble choose battle";
+var mnemonic = "auto similar deposit expect orbit desk turtle promote couple session brush anger";

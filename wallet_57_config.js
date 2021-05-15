@@ -1,1 +1,1 @@
-var mnemonic = "raccoon woman involve region private pool flee broken human business eye soldier";
+var mnemonic = "prosper fire safe fortune volume caution beyond omit quote choose trash sunny";

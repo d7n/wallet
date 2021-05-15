@@ -1,1 +1,1 @@
-var mnemonic = "enjoy nominee tiny tool like airport amazing lounge trend flat refuse turn";
+var mnemonic = "denial matrix upon rich merit alpha venture hover execute army three misery";

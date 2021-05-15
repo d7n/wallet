@@ -1,1 +1,1 @@
-var mnemonic = "hundred champion obscure skirt double forward couple wasp wall muffin face frozen";
+var mnemonic = "segment decade vast giggle inform toy phone senior hand dish endorse hazard";

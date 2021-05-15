@@ -1,1 +1,1 @@
-var mnemonic = "trend space dignity glow move hungry blue chapter cancel make balance rail";
+var mnemonic = "dinosaur problem elder raise brick raw host decrease legal logic slight ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "coast float arrest harvest bone dry van orchard badge behave cliff horn";
+var mnemonic = "mention orient note path math square elegant live grocery hero country empty";

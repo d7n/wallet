@@ -1,1 +1,1 @@
-var mnemonic = "suit setup sight control final notable music aspect rice improve host picnic";
+var mnemonic = "pill crane sister enroll song monkey hurdle unusual dentist core crush brisk";

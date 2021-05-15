@@ -1,1 +1,1 @@
-var mnemonic = "turtle hood address matrix ghost brush rail unfold eager pole smoke turn";
+var mnemonic = "clock rude april ahead salt improve topple parade source shove opera truth";

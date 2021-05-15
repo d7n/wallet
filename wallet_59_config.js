@@ -1,1 +1,1 @@
-var mnemonic = "state enlist hole battle drink away fragile acquire piece dizzy over siege";
+var mnemonic = "rain injury kidney attitude suffer coconut blast behind attack stand slam donor";

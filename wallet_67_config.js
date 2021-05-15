@@ -1,1 +1,1 @@
-var mnemonic = "fire fame isolate mystery thing daughter about rail shine stumble mango valley";
+var mnemonic = "spray forum legal budget furnace fluid artefact crunch found wedding height pistol";

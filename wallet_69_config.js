@@ -1,1 +1,1 @@
-var mnemonic = "bread melt author fog dash minute carry normal fatal wink burden point";
+var mnemonic = "library cat name collect beef inquiry soda horn until argue special shed";

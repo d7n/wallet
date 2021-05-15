@@ -1,1 +1,1 @@
-var mnemonic = "act broom dignity moment dwarf lawn predict offer moment tunnel cigar recall";
+var mnemonic = "glue scare shrimp curtain poverty surround start crater trophy clarify obvious giggle";

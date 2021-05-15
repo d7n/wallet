@@ -1,1 +1,1 @@
-var mnemonic = "betray toy again blind style assist agree wear hold absorb guilt west";
+var mnemonic = "title upon napkin peasant museum empower law stand erase few rib draft";

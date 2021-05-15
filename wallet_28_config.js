@@ -1,1 +1,1 @@
-var mnemonic = "wrong ticket equip friend twelve fit odor credit exhaust false ripple expire";
+var mnemonic = "ivory symptom plunge nuclear liquid resource grain decorate two firm prepare toss";

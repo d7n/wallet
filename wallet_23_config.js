@@ -1,1 +1,1 @@
-var mnemonic = "alter warfare dice embark firm turtle decline steak valid march master taste";
+var mnemonic = "bleak talk supply evolve aerobic fire muffin kangaroo hood crunch attract abuse";

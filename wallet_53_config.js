@@ -1,1 +1,1 @@
-var mnemonic = "dilemma delay phrase predict accuse tell holiday mercy salmon release shift odor";
+var mnemonic = "adapt turtle unable predict office stone mystery diesel west radar witness cabbage";

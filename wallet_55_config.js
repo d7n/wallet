@@ -1,1 +1,1 @@
-var mnemonic = "hundred tool toward sense inside problem warfare rough acquire arena custom ordinary";
+var mnemonic = "unhappy conduct round cry steak broom define wolf sentence shell floor hotel";

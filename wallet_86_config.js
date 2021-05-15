@@ -1,1 +1,1 @@
-var mnemonic = "mad spend book proof orange pencil devote buzz input other dune bonus";
+var mnemonic = "pill exhibit bird field better such clip assist amazing point boost intact";

@@ -1,1 +1,1 @@
-var mnemonic = "setup toward thumb palm vivid shrug skirt idea enhance rail lamp step";
+var mnemonic = "road ride thunder power author health bus witness bonus simple pond detail";

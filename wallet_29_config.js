@@ -1,1 +1,1 @@
-var mnemonic = "art other need start toss cable enjoy patch settle icon soup cute";
+var mnemonic = "rare grief increase quiz number sugar exit flat crawl monster lazy smooth";

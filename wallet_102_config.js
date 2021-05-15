@@ -1,1 +1,1 @@
-var mnemonic = "public giggle away cash rough enroll sleep aerobic stable wild antique letter";
+var mnemonic = "share comfort cupboard wait west avoid acquire chunk timber gossip inspire usage";

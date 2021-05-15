@@ -1,1 +1,1 @@
-var mnemonic = "allow like pistol wonder inflict disagree hurry paddle minor ship upper drum";
+var mnemonic = "like desert lizard license welcome wild onion muscle during load filter parent";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond hen maximum imitate walk unfold inject roof hamster inject wine napkin";
+var mnemonic = "base elephant auto van foster little cream wool asset typical struggle nation";

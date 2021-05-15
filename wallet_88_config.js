@@ -1,1 +1,1 @@
-var mnemonic = "burden tiger borrow voice note soon cinnamon table chef worth stereo ivory";
+var mnemonic = "base pelican erosion unique month firm credit width draw regular speak view";

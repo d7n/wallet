@@ -1,1 +1,1 @@
-var mnemonic = "boss skull nephew urge unveil ritual chimney cry cat body alert front";
+var mnemonic = "become warfare nose dirt magic apology wheel aisle eagle example nasty mass";

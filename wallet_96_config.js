@@ -1,1 +1,1 @@
-var mnemonic = "empty thing knife violin talk kind soldier attitude exhaust arrive subway swear";
+var mnemonic = "panda globe shaft goat vague doll pigeon avocado anchor gym middle warfare";

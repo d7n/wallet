@@ -1,1 +1,1 @@
-var mnemonic = "divert soccer female zone pretty must gallery wife detect flame sibling retire";
+var mnemonic = "chronic pistol divide stem river click drink sibling trial grid error soap";

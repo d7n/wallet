@@ -1,1 +1,1 @@
-var mnemonic = "sail stem final meat caution will adapt virtual door one dinner book";
+var mnemonic = "movie praise shadow system innocent metal agree avoid upon cricket mom action";

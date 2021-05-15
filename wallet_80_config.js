@@ -1,1 +1,1 @@
-var mnemonic = "cruise tell orbit bracket more dress guilt donate daring license merge fancy";
+var mnemonic = "image piano infant theme pepper rhythm biology attitude clap guitar unfold depend";

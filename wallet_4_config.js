@@ -1,1 +1,1 @@
-var mnemonic = "expire nominee keen shell section strike trash media insect actor merit retreat";
+var mnemonic = "hat only broken pair puppy chest acquire emotion fetch lizard wash primary";

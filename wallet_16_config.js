@@ -1,1 +1,1 @@
-var mnemonic = "will debate crater trim math cushion give family bicycle luggage thunder kiwi";
+var mnemonic = "elevator observe glide burger anchor unit net suffer elder venue ritual vast";

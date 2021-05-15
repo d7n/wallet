@@ -1,1 +1,1 @@
-var mnemonic = "during proof mosquito profit check opinion iron jacket once pig business afford";
+var mnemonic = "visa actual alarm ship atom believe consider marriage toast funny tribe fine";

@@ -1,1 +1,1 @@
-var mnemonic = "wine level news neutral want rich phrase avoid undo hurt reflect yellow";
+var mnemonic = "tired during execute appear lens dash label inhale shiver inquiry traffic loan";

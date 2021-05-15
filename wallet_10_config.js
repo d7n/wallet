@@ -1,1 +1,1 @@
-var mnemonic = "receive random bamboo stem fringe order couch glimpse twelve bitter corn tribe";
+var mnemonic = "derive humble amount hen orchard slogan super elder tongue alert maximum rice";

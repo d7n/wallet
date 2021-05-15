@@ -1,1 +1,1 @@
-var mnemonic = "change sound gadget portion climb unit illegal silver utility sponsor weekend usage";
+var mnemonic = "valid man estate vote fog output pudding cattle snap during memory nice";

@@ -1,1 +1,1 @@
-var mnemonic = "undo holiday bomb sleep kite possible blame swamp kick announce dial company";
+var mnemonic = "tide stable unique wait profit alert situate steel legend decade battle vague";

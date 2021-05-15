@@ -1,1 +1,1 @@
-var mnemonic = "sight uniform million settle banner moon craft opinion mean win catch destroy";
+var mnemonic = "race bottom wait iron become gospel wood method sadness forum day music";

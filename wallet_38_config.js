@@ -1,1 +1,1 @@
-var mnemonic = "cry avoid coyote turkey reveal embrace ice crane circle milk bench chest";
+var mnemonic = "auto dutch wild punch clump add duck wing envelope blood general enhance";

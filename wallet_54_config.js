@@ -1,1 +1,1 @@
-var mnemonic = "nasty define ramp glow green stomach wild fun walnut lyrics cycle proof";
+var mnemonic = "tattoo sausage display tonight genuine impose uncover second amazing pepper dinosaur share";

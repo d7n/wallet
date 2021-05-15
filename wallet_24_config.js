@@ -1,1 +1,1 @@
-var mnemonic = "same job work mushroom call material reduce announce bachelor royal scrub moment";
+var mnemonic = "minimum seminar umbrella load act hat brain skill audit high tomato worth";

@@ -1,1 +1,1 @@
-var mnemonic = "fox spoil table burger twist leaf armed vapor tenant census talk dry";
+var mnemonic = "medal load vendor expand reopen monkey fog scare unveil boss enemy weather";

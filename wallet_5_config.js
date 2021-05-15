@@ -1,1 +1,1 @@
-var mnemonic = "stereo hen domain marriage island mandate wolf record together bicycle spoon unfair";
+var mnemonic = "mobile elite kangaroo tip lift biology bullet coach pupil hope silk year";

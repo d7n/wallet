@@ -1,1 +1,1 @@
-var mnemonic = "maximum win wonder mesh boring knee unable lucky else diary much salute";
+var mnemonic = "risk fault inside spy concert slush oak inform alcohol grit control slot";

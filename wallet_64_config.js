@@ -1,1 +1,1 @@
-var mnemonic = "syrup dwarf absorb nature viable machine suspect bullet stadium roast congress fire";
+var mnemonic = "aspect balcony crop tongue wash target priority apology name seek curious hundred";

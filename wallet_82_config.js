@@ -1,1 +1,1 @@
-var mnemonic = "miss dune outdoor mixed mother device notice feed achieve lumber rubber entire";
+var mnemonic = "away frequent ticket box always critic cute breeze become emerge supply level";

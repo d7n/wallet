@@ -1,1 +1,1 @@
-var mnemonic = "endless stove assume fish record poverty promote fitness scatter outdoor matrix replace";
+var mnemonic = "outdoor broccoli since wing magnet this notable hen start invite swamp infant";

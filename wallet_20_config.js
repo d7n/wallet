@@ -1,1 +1,1 @@
-var mnemonic = "divorce crumble indoor have common clip ethics child tomorrow apology hover hawk";
+var mnemonic = "mango space mosquito gloom clarify pilot reduce social olive liar spike flee";

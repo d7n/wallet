@@ -1,1 +1,1 @@
-var mnemonic = "quality nerve hurt valid matter report tower size swear hub bundle flush";
+var mnemonic = "kind champion use receive stomach suit spare cupboard rural fade volcano federal";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis rack catch faith hollow sort cat soap outdoor craft bench clap";
+var mnemonic = "sheriff sand immune seek throw leisure jewel helmet dinosaur observe pattern must";
