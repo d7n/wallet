@@ -1,1 +1,1 @@
-var mnemonic = "clever torch short liar dish scare valve total bunker fox never crucial";
+var mnemonic = "they obey crawl cart chicken page sense ill antique surprise episode moon";

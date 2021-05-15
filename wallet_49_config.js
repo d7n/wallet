@@ -1,1 +1,1 @@
-var mnemonic = "spin easy pilot expose junior flight regular height alley toss decrease drama";
+var mnemonic = "good often into unlock syrup begin arrow nurse razor include apart ticket";

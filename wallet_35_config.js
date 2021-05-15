@@ -1,1 +1,1 @@
-var mnemonic = "ancient evil same shift together post news pair gap horse hair make";
+var mnemonic = "front foam long detail trouble biology creek garbage method busy wait mystery";

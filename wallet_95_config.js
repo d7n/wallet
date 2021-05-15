@@ -1,1 +1,1 @@
-var mnemonic = "expose muscle boss shrug slender record question satoshi slogan genius dust expire";
+var mnemonic = "lucky vehicle fever sauce neck search napkin wear example beauty grass spice";

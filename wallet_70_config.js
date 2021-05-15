@@ -1,1 +1,1 @@
-var mnemonic = "final fly phone spare demise claw copy erase ladder caution audit please";
+var mnemonic = "ladder gather cloth rebel direct awesome frost run bonus artist panther weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "dust turkey candy please addict auto exclude danger artefact whale rebuild night";
+var mnemonic = "bonus cabbage okay usual actual chat elbow act beyond smooth safe danger";

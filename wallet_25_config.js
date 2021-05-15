@@ -1,1 +1,1 @@
-var mnemonic = "pull polar devote chronic antique enrich rather glove crisp barrel tag universe";
+var mnemonic = "gap satisfy thunder quote giant east merry coast local quit invest error";

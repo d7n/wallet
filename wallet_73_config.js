@@ -1,1 +1,1 @@
-var mnemonic = "bracket truth army fresh runway medal goat daughter garage owner tired olympic";
+var mnemonic = "twenty enhance lounge reject season glad sun parrot bullet speak cross drink";

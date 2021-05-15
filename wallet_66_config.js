@@ -1,1 +1,1 @@
-var mnemonic = "confirm defense next duty canvas rebuild monitor myself infant genre mosquito nerve";
+var mnemonic = "squirrel nice skull globe wish series deliver guide saddle judge assume alley";

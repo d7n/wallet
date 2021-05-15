@@ -1,1 +1,1 @@
-var mnemonic = "kind shiver they father quality citizen soup news original usual burden funny";
+var mnemonic = "curtain shock monitor gaze evoke they symptom expand benefit ahead cinnamon admit";

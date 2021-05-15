@@ -1,1 +1,1 @@
-var mnemonic = "entire giggle payment practice alert lunch spirit sand pear source tortoise rebuild";
+var mnemonic = "stage used mistake wife battle hope junior nature possible metal such device";

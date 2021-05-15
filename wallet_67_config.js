@@ -1,1 +1,1 @@
-var mnemonic = "maid below unfair utility change mosquito foot list payment put brave later";
+var mnemonic = "remember pool pottery paper thumb jacket village miss unfold pill blossom divorce";

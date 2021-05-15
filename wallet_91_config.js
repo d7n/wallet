@@ -1,1 +1,1 @@
-var mnemonic = "supply assault sustain salute clean position swallow lion future give obscure panda";
+var mnemonic = "arrow bullet arrest monkey raccoon index dismiss health fortune sound three crucial";

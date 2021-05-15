@@ -1,1 +1,1 @@
-var mnemonic = "invest claim affair real tip decide ill buffalo plate shine diary project";
+var mnemonic = "educate wasp correct fine hunt file sight relief team black across curtain";

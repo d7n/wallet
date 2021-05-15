@@ -1,1 +1,1 @@
-var mnemonic = "anger gasp nominee theme moment easy reject secret few gift dawn also";
+var mnemonic = "stove display detect youth orange roast suit icon lesson apart age final";

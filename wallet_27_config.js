@@ -1,1 +1,1 @@
-var mnemonic = "medal problem grit antique bicycle strategy kick label extend outdoor member addict";
+var mnemonic = "donkey wrist verb bird alcohol ritual you pottery mouse forward piece leader";

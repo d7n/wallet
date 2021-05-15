@@ -1,1 +1,1 @@
-var mnemonic = "trouble primary range wing spoon include ivory fence olive ocean fashion march";
+var mnemonic = "cream month polar nation few copy paddle resource april legend slide tribe";

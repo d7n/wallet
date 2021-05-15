@@ -1,1 +1,1 @@
-var mnemonic = "helmet immune dragon thrive magic blossom popular fault note reopen parent ability";
+var mnemonic = "below milk when sheriff nut stay artwork clock ceiling advance security unable";

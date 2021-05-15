@@ -1,1 +1,1 @@
-var mnemonic = "easily galaxy scene tail hedgehog ladder disagree brain gown spread pioneer winner";
+var mnemonic = "divert person verb tilt inherit horse save shy panda pupil spray code";

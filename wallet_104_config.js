@@ -1,1 +1,1 @@
-var mnemonic = "dolphin forget size inquiry fragile horn cram solve height hotel beauty invest";
+var mnemonic = "grow rent hover answer praise cat nurse warm equal essence gym error";

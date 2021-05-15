@@ -1,1 +1,1 @@
-var mnemonic = "omit fetch talent arrest assist giraffe hat verb youth scorpion monster hill";
+var mnemonic = "lazy climb evolve unaware emotion few announce eternal power tumble assume skirt";

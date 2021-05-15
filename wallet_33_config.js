@@ -1,1 +1,1 @@
-var mnemonic = "fame segment situate gadget buzz common health awkward bright illness charge predict";
+var mnemonic = "miracle pudding top impulse tiger peace leave maple eagle sort only void";

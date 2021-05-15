@@ -1,1 +1,1 @@
-var mnemonic = "arrive island barely paper jelly mirror lumber seat glory robot average puppy";
+var mnemonic = "hello bounce off spirit gallery media burst present valve basket nominee young";

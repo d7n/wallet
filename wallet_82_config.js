@@ -1,1 +1,1 @@
-var mnemonic = "spend film accident flame series canal catch floor item noise color call";
+var mnemonic = "hurdle pole staff example scene parade toe velvet off arrow whale access";

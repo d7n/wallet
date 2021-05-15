@@ -1,1 +1,1 @@
-var mnemonic = "promote alien roast follow ramp test twenty stand summer rare craft fire";
+var mnemonic = "father chase slice text come gift lazy frame awful quarter write found";

@@ -1,1 +1,1 @@
-var mnemonic = "huge company skirt obscure divert wagon nice expect surprise secret celery caught";
+var mnemonic = "town plastic inquiry smile cement little tourist delay view addict picture gauge";

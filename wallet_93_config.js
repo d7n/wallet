@@ -1,1 +1,1 @@
-var mnemonic = "hollow orchard electric play tag power brand cruise lens olive prison estate";
+var mnemonic = "grant setup key boat message shed eagle rotate stomach cinnamon assist disorder";

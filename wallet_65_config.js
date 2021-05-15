@@ -1,1 +1,1 @@
-var mnemonic = "oil cinnamon peasant movie narrow skirt hill tower empty tide vivid color";
+var mnemonic = "eternal tattoo false theme cost hockey motor identify mandate seek sure panther";

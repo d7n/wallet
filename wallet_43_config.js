@@ -1,1 +1,1 @@
-var mnemonic = "matrix vintage maximum replace quote fork dumb miracle spread install sad elder";
+var mnemonic = "together evidence borrow frame pelican door sock faith goose taxi again remain";

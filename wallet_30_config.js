@@ -1,1 +1,1 @@
-var mnemonic = "blind depart script unfair soap oil initial suggest gallery push sail prefer";
+var mnemonic = "inspire forward belt attend elder once divorce salmon glance nation kidney paddle";

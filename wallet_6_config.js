@@ -1,1 +1,1 @@
-var mnemonic = "gym pepper wall aware right scare favorite spot clerk avoid rather inside";
+var mnemonic = "dish undo car find girl pact explain mom tape foam youth call";

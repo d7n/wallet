@@ -1,1 +1,1 @@
-var mnemonic = "seven crunch rug gauge shiver tooth casual evidence monitor client black original";
+var mnemonic = "swim below shed language dirt curtain asthma bicycle motion chief announce spirit";

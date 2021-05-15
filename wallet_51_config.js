@@ -1,1 +1,1 @@
-var mnemonic = "entry dress chapter regret wheel owner jar large actress castle hub zone";
+var mnemonic = "normal cluster gadget fault fruit devote hundred resist clock liberty trash tray";

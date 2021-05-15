@@ -1,1 +1,1 @@
-var mnemonic = "neither explain arctic tattoo husband ritual silk home live gloom regret skull";
+var mnemonic = "jelly fox exile outside wire disorder ketchup powder fruit miracle talk execute";

@@ -1,1 +1,1 @@
-var mnemonic = "december inner emerge razor hidden pizza tray sense oxygen marble cabbage reform";
+var mnemonic = "pledge beyond bicycle again arrive crime parent fame dynamic front disagree pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery eight tortoise verb mountain mobile word onion turkey skirt ensure mule";
+var mnemonic = "taxi whisper cinnamon subject desk spread hint genuine place rubber profit chef";

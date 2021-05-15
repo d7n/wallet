@@ -1,1 +1,1 @@
-var mnemonic = "clever output venue column recall caught ghost quick draw milk disorder cover";
+var mnemonic = "prosper sweet science great purity divorce nature fitness blossom pave brand goose";

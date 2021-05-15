@@ -1,1 +1,1 @@
-var mnemonic = "result poverty breeze catalog ladder zero bright ankle have nature phone devote";
+var mnemonic = "job worry slim bottom seat fetch theme attract mixture pen flower celery";

@@ -1,1 +1,1 @@
-var mnemonic = "riot zebra side abstract uncover plastic fortune member rifle turkey initial crowd";
+var mnemonic = "express liar coffee traffic lab dust such apple roast asset order extra";

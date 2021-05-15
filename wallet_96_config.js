@@ -1,1 +1,1 @@
-var mnemonic = "photo sauce scheme furnace glory ketchup smoke treat bench vote collect idle";
+var mnemonic = "strategy mail hour defy salt drum range spray meat assault toss decline";

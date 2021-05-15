@@ -1,1 +1,1 @@
-var mnemonic = "twice faint lemon door evolve cliff plunge buyer melody margin word boy";
+var mnemonic = "toy document nothing change vintage rival dad puppy execute convince diamond brush";

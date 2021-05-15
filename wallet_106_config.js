@@ -1,1 +1,1 @@
-var mnemonic = "young because evolve cram sibling stand coast else wedding assist point roast";
+var mnemonic = "enable bean border empty wall share february parrot ritual notice key must";

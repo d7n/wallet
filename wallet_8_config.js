@@ -1,1 +1,1 @@
-var mnemonic = "supply guitar trade liquid dune useful enemy boat aisle before salad laptop";
+var mnemonic = "shoulder ghost undo omit know stool chalk slow impulse steak pond scatter";

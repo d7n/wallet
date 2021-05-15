@@ -1,1 +1,1 @@
-var mnemonic = "cousin lock never famous canoe end toe globe arrest gather claim fitness";
+var mnemonic = "autumn cage foam local choice alert wagon unhappy start fatigue sick employ";

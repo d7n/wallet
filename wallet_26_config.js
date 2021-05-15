@@ -1,1 +1,1 @@
-var mnemonic = "wet rapid pistol cave cactus powder sand donor walk oyster dumb excuse";
+var mnemonic = "spread tourist sword luxury bean upgrade diamond rain demise cushion wash usage";

@@ -1,1 +1,1 @@
-var mnemonic = "goat fruit soap just sick total hair solve cushion pitch project oblige";
+var mnemonic = "weather limb worry avoid resist bronze route gain turkey tribe gaze please";

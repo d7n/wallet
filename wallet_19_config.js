@@ -1,1 +1,1 @@
-var mnemonic = "reward render mad throw have hamster envelope capable sibling absorb analyst path";
+var mnemonic = "sketch endless panda melody alert vivid garden tube debris blue sad snap";

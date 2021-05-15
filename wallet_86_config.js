@@ -1,1 +1,1 @@
-var mnemonic = "coffee under fiction bread melody light enlist behave pipe you supply cage";
+var mnemonic = "skull audit keep fish entire thought relax exhibit enforce curious slight ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "window account gun nasty deer tomato magnet metal renew tribe federal prevent";
+var mnemonic = "time boil excite mosquito unit absorb small oak asthma chuckle attack bread";

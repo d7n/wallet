@@ -1,1 +1,1 @@
-var mnemonic = "warm chase today silent this road snow cable extend two wheat process";
+var mnemonic = "news pizza flock write motor degree brush woman silly claw ugly cattle";

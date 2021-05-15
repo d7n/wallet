@@ -1,1 +1,1 @@
-var mnemonic = "amazing myth foil rocket gadget faculty skate section avocado limb antique cricket";
+var mnemonic = "rebel melody eye sister gasp aerobic eager rain possible morning snap change";

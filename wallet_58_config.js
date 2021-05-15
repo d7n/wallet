@@ -1,1 +1,1 @@
-var mnemonic = "wish virtual river drill mystery clarify giggle bullet slam viable gossip museum";
+var mnemonic = "route lion crisp soda ten forest zero wood toe market hover cheap";

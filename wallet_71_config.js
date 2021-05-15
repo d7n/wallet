@@ -1,1 +1,1 @@
-var mnemonic = "slim dentist various castle sight chief globe behave eternal ghost glance retreat";
+var mnemonic = "aware uncover sleep hobby friend claw health shop various core drastic essay";

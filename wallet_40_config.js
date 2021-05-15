@@ -1,1 +1,1 @@
-var mnemonic = "unaware focus mother surprise wrist robot morning excite vivid such wrestle account";
+var mnemonic = "hobby design just mean shadow run door disease shaft play shrug during";

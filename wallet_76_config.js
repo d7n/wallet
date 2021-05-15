@@ -1,1 +1,1 @@
-var mnemonic = "lucky quality maple current accuse trust crew pledge mesh umbrella dignity pilot";
+var mnemonic = "vacuum shallow insane stand chronic fury memory suit elbow divert film wrap";

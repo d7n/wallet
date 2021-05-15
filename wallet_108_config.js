@@ -1,1 +1,1 @@
-var mnemonic = "exact couple reject sheriff economy crazy trip click test syrup glory metal";
+var mnemonic = "present polar attitude sell during phone grid dumb mad spin soda athlete";

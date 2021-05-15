@@ -1,1 +1,1 @@
-var mnemonic = "extra split key salmon discover body glance consider faint leisure together spring";
+var mnemonic = "remove sister mix hub situate sign bargain educate deposit initial menu fold";

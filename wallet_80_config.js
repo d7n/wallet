@@ -1,1 +1,1 @@
-var mnemonic = "thing clinic short poverty whisper agree coyote employ govern agent genius tired";
+var mnemonic = "swear retreat lunar summer beef body teach candy equal action point excess";

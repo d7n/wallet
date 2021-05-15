@@ -1,1 +1,1 @@
-var mnemonic = "project crystal banana chimney catalog talk reject tree confirm display unit pulse";
+var mnemonic = "depend cement gate december elegant giraffe joy skate jewel earth trouble duck";

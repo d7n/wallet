@@ -1,1 +1,1 @@
-var mnemonic = "grass build laptop riot lawn panel among cube cherry frown team typical";
+var mnemonic = "cool provide weather agree list gentle gallery roast little delay deputy benefit";

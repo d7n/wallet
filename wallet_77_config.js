@@ -1,1 +1,1 @@
-var mnemonic = "oval anxiety drop dove pen globe fat sad food roast what solution";
+var mnemonic = "banana horror addict phone fringe family you travel outer world actress alpha";

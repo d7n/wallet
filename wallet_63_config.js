@@ -1,1 +1,1 @@
-var mnemonic = "crush mosquito note come have chronic rifle flush need multiply vocal argue";
+var mnemonic = "hair together analyst session insane enlist fan chest phone motion minor left";

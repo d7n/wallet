@@ -1,1 +1,1 @@
-var mnemonic = "jelly vault truly require key virus oppose pyramid merge gap web dragon";
+var mnemonic = "day embody island industry attack infant zone cave wisdom talk axis session";

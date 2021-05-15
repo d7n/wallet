@@ -1,1 +1,1 @@
-var mnemonic = "gain wise second woman runway gospel foster rotate brown fashion sad seminar";
+var mnemonic = "panel page spike youth host aunt country demand zoo december document pride";

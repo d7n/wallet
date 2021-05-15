@@ -1,1 +1,1 @@
-var mnemonic = "about ready false gauge increase tomorrow camera culture tank attitude history swear";
+var mnemonic = "defense library main rotate rate dynamic bleak say best clean empower release";

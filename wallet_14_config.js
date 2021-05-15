@@ -1,1 +1,1 @@
-var mnemonic = "liberty swim page repeat submit cook forward pill twenty above use verify";
+var mnemonic = "question tail answer drum deliver obscure tuna divide limit craft sun green";

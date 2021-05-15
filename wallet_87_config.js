@@ -1,1 +1,1 @@
-var mnemonic = "twenty remove rhythm spatial rookie crowd school funny soap twelve rack boss";
+var mnemonic = "evoke daring bridge waste soft senior decide cruel mimic ahead mouse two";

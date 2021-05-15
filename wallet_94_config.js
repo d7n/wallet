@@ -1,1 +1,1 @@
-var mnemonic = "pudding now square eagle rule dumb hunt open avoid unable grant apology";
+var mnemonic = "pond nation front else manual derive toss gospel finger relief wheel enough";

@@ -1,1 +1,1 @@
-var mnemonic = "size oil dune major clarify next knock daughter domain oak ranch around";
+var mnemonic = "math fat exist staff fury surface notice trick head marble forget solar";

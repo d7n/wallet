@@ -1,1 +1,1 @@
-var mnemonic = "harbor observe arrest space picture destroy lab little movie vicious horror funny";
+var mnemonic = "virus desk gorilla replace kidney breeze matter text jar kangaroo column category";

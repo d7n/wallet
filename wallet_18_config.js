@@ -1,1 +1,1 @@
-var mnemonic = "grow update clarify shove safe employ donate welcome gloom aerobic jump blouse";
+var mnemonic = "frozen slight rude amateur doctor comic chalk vast unknown lecture plug cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn circle suggest danger address smooth hurt mouse size good title sheriff";
+var mnemonic = "toy type share cannon must assist party answer lonely gun forward evidence";

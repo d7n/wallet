@@ -1,1 +1,1 @@
-var mnemonic = "legal blossom mean year flash increase possible garment parent market practice more";
+var mnemonic = "source labor crop mechanic pumpkin cigar accident daring unique cherry skate virtual";

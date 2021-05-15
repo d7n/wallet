@@ -1,1 +1,1 @@
-var mnemonic = "ancient craft route gym silver camera clog trap motion album omit sell";
+var mnemonic = "comic expand wreck when grant sport dentist half scorpion best riot shaft";

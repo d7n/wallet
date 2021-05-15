@@ -1,1 +1,1 @@
-var mnemonic = "issue shed tag diary skirt turn fatigue boat manage affair supply fringe";
+var mnemonic = "electric flash unable public regret choose able shove brief minimum width loyal";

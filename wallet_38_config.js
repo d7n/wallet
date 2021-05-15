@@ -1,1 +1,1 @@
-var mnemonic = "uniform price father mistake vault explain denial believe license next odor perfect";
+var mnemonic = "wrestle cake near team bachelor mouse eagle vault slab physical wood kingdom";

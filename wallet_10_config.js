@@ -1,1 +1,1 @@
-var mnemonic = "argue hospital history barrel multiply shadow kiwi finger celery enemy armor grab";
+var mnemonic = "false hamster drop mesh develop fatal another trouble pony front entry dizzy";

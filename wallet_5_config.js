@@ -1,1 +1,1 @@
-var mnemonic = "pelican scatter quit cause access spoil question fox canal vendor maximum duty";
+var mnemonic = "dilemma gloom level keen curve sphere oppose wine impulse swing ship ginger";

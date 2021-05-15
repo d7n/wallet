@@ -1,1 +1,1 @@
-var mnemonic = "column addict clap goose cook render hurdle tide alcohol oven strong harbor";
+var mnemonic = "use minute kingdom brick disease little output merge often sniff myth enroll";

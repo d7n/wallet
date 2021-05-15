@@ -1,1 +1,1 @@
-var mnemonic = "aspect jeans drip orchard brother mass inflict strategy depend draw squirrel velvet";
+var mnemonic = "fetch myth unveil jealous measure critic pipe false congress child pepper release";

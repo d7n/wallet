@@ -1,1 +1,1 @@
-var mnemonic = "dirt enhance hybrid aerobic manual gentle month symbol guide grant attack budget";
+var mnemonic = "visit corn grief lend they area dish injury dolphin cabin sign front";

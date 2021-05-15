@@ -1,1 +1,1 @@
-var mnemonic = "fancy neglect razor give ugly over glory priority water dune nature useless";
+var mnemonic = "food absurd cabbage input win option any foil culture normal better actor";
