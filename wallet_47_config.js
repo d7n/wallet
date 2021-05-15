@@ -1,1 +1,1 @@
-var mnemonic = "comic topple airport insect diamond cannon cake spread defense protect whisper junk";
+var mnemonic = "fine resist exhibit leg peasant flip manage march friend federal decorate violin";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion history normal vacant pole sick gospel author work rubber clap near";
+var mnemonic = "pudding unveil slender chalk enjoy increase crumble taxi hour mom bag empty";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot base diet diamond method very satisfy enrich symbol assault subway shuffle";
+var mnemonic = "drama stumble cage right enlist vacant stove phrase aisle divide oblige olympic";

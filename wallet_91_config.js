@@ -1,1 +1,1 @@
-var mnemonic = "card army animal symptom salon topic inflict similar sponsor mouse mule shallow";
+var mnemonic = "wreck undo stick desk fiction afford disagree basic hundred bean list curtain";

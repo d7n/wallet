@@ -1,1 +1,1 @@
-var mnemonic = "segment crash shiver smart asset chef follow also effort jacket swallow depend";
+var mnemonic = "repair hip evolve dust orphan worth detect vapor track horror army thrive";

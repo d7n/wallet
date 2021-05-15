@@ -1,1 +1,1 @@
-var mnemonic = "elegant cotton clump okay orient pear resource ankle expect pipe add trick";
+var mnemonic = "beauty park tide bitter mean memory start satisfy actor life obtain plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt girl almost mule chunk scatter upgrade symptom coin tilt pudding timber";
+var mnemonic = "supply alarm puppy just rifle same zoo myth tooth bless mask okay";

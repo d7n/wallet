@@ -1,1 +1,1 @@
-var mnemonic = "joke burden pond below island coffee slam oak blind curtain number dinosaur";
+var mnemonic = "cat shove letter flower boring legend casual moon midnight daughter kick domain";

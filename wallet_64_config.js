@@ -1,1 +1,1 @@
-var mnemonic = "that maid image claim mouse dose earth scrub knock tobacco powder basket";
+var mnemonic = "earn scissors bundle mimic bless climb fan original census cruel million wear";

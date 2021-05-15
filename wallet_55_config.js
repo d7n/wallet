@@ -1,1 +1,1 @@
-var mnemonic = "army arena captain payment trip link explain drastic thought top goose brain";
+var mnemonic = "armed promote plunge useful pattern quick gloom tornado utility sister still patient";

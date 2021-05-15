@@ -1,1 +1,1 @@
-var mnemonic = "ski uncle hidden pledge sleep oil three gather border minute vote road";
+var mnemonic = "pelican eagle strategy episode spell coffee drill tragic dinner veteran grid truly";

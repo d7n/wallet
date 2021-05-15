@@ -1,1 +1,1 @@
-var mnemonic = "end rare certain harvest trade flash erase female digital must say banana";
+var mnemonic = "rule mention robot bulk wire heavy plug kitchen image receive peasant dinner";

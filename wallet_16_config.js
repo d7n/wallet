@@ -1,1 +1,1 @@
-var mnemonic = "table pony harvest mobile trophy blame ivory noble stem matter base moral";
+var mnemonic = "cart vessel track drop edge silly asthma gorilla trash piece equal tube";

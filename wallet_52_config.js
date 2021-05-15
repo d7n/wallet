@@ -1,1 +1,1 @@
-var mnemonic = "rocket guitar ride flock tackle palm toe text unhappy cousin bind economy";
+var mnemonic = "sunset liar rule smooth game dream join record leisure enforce flat gloom";

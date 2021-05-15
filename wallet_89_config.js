@@ -1,1 +1,1 @@
-var mnemonic = "lucky famous minute renew merit bird sunny silk spawn jealous damage high";
+var mnemonic = "craft genuine uniform walk mail assume cube ticket oppose forest rookie list";

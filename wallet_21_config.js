@@ -1,1 +1,1 @@
-var mnemonic = "actress special agent aim mosquito rifle state cement acid blush pistol stuff";
+var mnemonic = "ignore lava veteran casual that solve prosper salmon tennis chicken card elder";

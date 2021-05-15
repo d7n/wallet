@@ -1,1 +1,1 @@
-var mnemonic = "round fiction bulk utility slogan panda marble govern powder range wing iron";
+var mnemonic = "pool author trumpet museum dove feed phrase time apology trash joy fog";

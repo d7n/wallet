@@ -1,1 +1,1 @@
-var mnemonic = "layer genre hunt liberty target garage kit pyramid believe virtual depth load";
+var mnemonic = "kitchen brave label taste bone spatial utility tennis amazing actual virtual drip";

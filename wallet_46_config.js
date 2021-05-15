@@ -1,1 +1,1 @@
-var mnemonic = "duty frown super glance bitter oyster core puppy truck pact puzzle agree";
+var mnemonic = "simple kiss duty churn mountain detail health medal among narrow moment verify";

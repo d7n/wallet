@@ -1,1 +1,1 @@
-var mnemonic = "limit helmet long divide puppy kick hero camp despair collect rose shuffle";
+var mnemonic = "virtual blue screen sauce company tooth market afraid chuckle brisk endorse run";

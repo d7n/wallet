@@ -1,1 +1,1 @@
-var mnemonic = "drastic desert impulse quiz birth bus destroy arrest monitor seek increase decorate";
+var mnemonic = "upon oval rather devote chuckle pioneer online cover dismiss govern melt pair";

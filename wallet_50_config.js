@@ -1,1 +1,1 @@
-var mnemonic = "atom monster draft mango tennis banner sell impose notice ripple question win";
+var mnemonic = "honey bubble cheap chunk floor accident gauge cousin echo gun ordinary dinner";

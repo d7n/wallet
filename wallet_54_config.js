@@ -1,1 +1,1 @@
-var mnemonic = "quiz ugly move column lecture gallery believe cream sibling manage paddle confirm";
+var mnemonic = "rice trouble ring grunt truth oval disease apart range oven panic claw";

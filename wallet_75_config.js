@@ -1,1 +1,1 @@
-var mnemonic = "unit rural escape abuse saddle allow medal frame lucky cry drop merry";
+var mnemonic = "fortune curious thank cake cherry chalk kick hybrid they paddle raccoon consider";

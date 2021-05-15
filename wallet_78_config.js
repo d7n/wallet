@@ -1,1 +1,1 @@
-var mnemonic = "unaware original census disorder among work exhaust sponsor west sing cricket like";
+var mnemonic = "welcome pony morning twelve work wish agree learn cup hundred feed cake";

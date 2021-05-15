@@ -1,1 +1,1 @@
-var mnemonic = "intact clean slam educate trouble cat height inside sphere casino project rural";
+var mnemonic = "rocket frame peace nice alone female speed ritual venue spatial yard that";

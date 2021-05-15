@@ -1,1 +1,1 @@
-var mnemonic = "artwork ring trouble episode broom above stock moment during journey flat mesh";
+var mnemonic = "scale measure neglect gloom witness card logic vivid analyst teach shy bid";

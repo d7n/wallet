@@ -1,1 +1,1 @@
-var mnemonic = "primary praise verify observe hero cruel key battle exhibit deny program calm";
+var mnemonic = "actual trigger version spawn raw flag destroy lemon doll unaware buyer ghost";

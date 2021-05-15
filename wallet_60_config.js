@@ -1,1 +1,1 @@
-var mnemonic = "debate shallow suspect sunset smooth wolf switch maze poet devote puzzle region";
+var mnemonic = "tiger hen session north crop drum erase sport punch demise ocean sphere";

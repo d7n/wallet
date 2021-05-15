@@ -1,1 +1,1 @@
-var mnemonic = "endorse climb lumber sleep demand victory advance throw coach margin you favorite";
+var mnemonic = "divide come bulk trap cabin loyal smooth perfect diet athlete potato gesture";

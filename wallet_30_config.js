@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur twice canoe notable reopen seek error cigar clever visa brief today";
+var mnemonic = "gift veteran conduct crowd morning mean fade hundred enact network salad virtual";

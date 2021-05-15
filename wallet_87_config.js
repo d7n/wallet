@@ -1,1 +1,1 @@
-var mnemonic = "injury fury swear quote sword fitness bread drift nothing arrest layer solar";
+var mnemonic = "tag river general math found arrange tragic prevent win adapt above obtain";

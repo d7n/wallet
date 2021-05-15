@@ -1,1 +1,1 @@
-var mnemonic = "scheme merit siege shy physical poverty area half rocket deny version pudding";
+var mnemonic = "now industry hunt twice talk test sauce boss heart maid injury defy";

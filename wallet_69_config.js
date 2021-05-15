@@ -1,1 +1,1 @@
-var mnemonic = "youth face aisle patrol guard puppy matrix foam want video you fee";
+var mnemonic = "cup few absent win argue output first base extra never give ethics";

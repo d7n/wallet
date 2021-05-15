@@ -1,1 +1,1 @@
-var mnemonic = "express gas wisdom sphere educate garage festival breeze grunt bulk cactus photo";
+var mnemonic = "sample pink renew market luxury shaft dove steak erosion auction course uniform";

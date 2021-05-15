@@ -1,1 +1,1 @@
-var mnemonic = "symbol scene breeze script net give because tower survey accuse cup connect";
+var mnemonic = "knee notable forward order today volcano mixed pave razor smoke symptom jealous";

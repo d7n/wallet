@@ -1,1 +1,1 @@
-var mnemonic = "coin enforce base symbol grow park flat goddess gain proud defense transfer";
+var mnemonic = "delay anchor ordinary during inquiry fashion depart eternal ring world pill improve";

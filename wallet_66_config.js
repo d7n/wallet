@@ -1,1 +1,1 @@
-var mnemonic = "device wide bleak outside north sugar online confirm people parrot bachelor bunker";
+var mnemonic = "portion timber dignity merge hat thrive orbit order agent crystal depart stairs";

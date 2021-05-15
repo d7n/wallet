@@ -1,1 +1,1 @@
-var mnemonic = "harsh inquiry pilot onion orchard improve broken galaxy cycle silly amused vast";
+var mnemonic = "insane world tuna resource announce finger orchard direct human obscure vehicle same";

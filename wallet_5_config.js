@@ -1,1 +1,1 @@
-var mnemonic = "rhythm sphere journey cushion bulb lawn crew across middle rubber army require";
+var mnemonic = "father life wasp science close oppose error mouse panic inspire pond fish";

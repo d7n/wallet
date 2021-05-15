@@ -1,1 +1,1 @@
-var mnemonic = "host desk hawk leopard favorite spoil field junk vicious coin primary capital";
+var mnemonic = "way pistol north matter fitness best drive tired diet gorilla impulse obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle exchange mention apology pulp often mushroom morning horror panda kiwi source";
+var mnemonic = "onion slogan safe final shuffle carpet piece illegal weird survey smooth cheese";

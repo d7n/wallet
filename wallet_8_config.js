@@ -1,1 +1,1 @@
-var mnemonic = "easily churn cinnamon rice better marriage wheat also empty blanket muscle carry";
+var mnemonic = "spoil weird harsh length miss human control brave quick immune can inspire";

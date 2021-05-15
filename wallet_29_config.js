@@ -1,1 +1,1 @@
-var mnemonic = "answer supply eager cup cause hold unit staff spot arrive silver sibling";
+var mnemonic = "caught eternal dose slush duck angle cactus soon skirt method account pelican";

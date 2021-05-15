@@ -1,1 +1,1 @@
-var mnemonic = "medal exhaust segment damage coach about hedgehog enhance uphold trial hour question";
+var mnemonic = "rabbit year catalog quarter purse return ramp rural output absurd island dash";

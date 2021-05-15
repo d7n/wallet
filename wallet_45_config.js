@@ -1,1 +1,1 @@
-var mnemonic = "pond surface glad raccoon pipe mammal scare room century filter choice alpha";
+var mnemonic = "absorb grit critic review one that stone bring walnut student slender actor";

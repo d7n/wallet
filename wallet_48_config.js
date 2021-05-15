@@ -1,1 +1,1 @@
-var mnemonic = "wisdom room maximum exhibit whip sea name settle virus regret mad skin";
+var mnemonic = "resource absorb upset piece nut card bicycle foster merit antique trust when";

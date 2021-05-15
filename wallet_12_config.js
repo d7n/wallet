@@ -1,1 +1,1 @@
-var mnemonic = "immense giggle social desk airport retire ketchup enable casual parent bundle screen";
+var mnemonic = "frog cement grab vote flame raw churn bring group wide unique fuel";

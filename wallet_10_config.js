@@ -1,1 +1,1 @@
-var mnemonic = "foot nest guard air number bachelor coin shoulder erode sausage kind fever";
+var mnemonic = "obey absent vacant future sheriff usual remain glory dish figure copper lonely";

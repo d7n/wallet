@@ -1,1 +1,1 @@
-var mnemonic = "kid jacket famous arena harsh surge pear clinic potato key key length";
+var mnemonic = "extra shadow future silk dish proof note bacon trophy topple outside cannon";

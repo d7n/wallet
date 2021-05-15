@@ -1,1 +1,1 @@
-var mnemonic = "amount nasty door soccer zero whip kangaroo rabbit nephew rate stage oyster";
+var mnemonic = "buzz paddle face lift nerve carry unknown bridge envelope disease window goose";

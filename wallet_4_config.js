@@ -1,1 +1,1 @@
-var mnemonic = "museum buyer brave wage caution bright crater leopard peanut stove leader there";
+var mnemonic = "tongue inspire load spirit dinosaur poem make present village vehicle shrimp humor";

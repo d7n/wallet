@@ -1,1 +1,1 @@
-var mnemonic = "matter pact zone table close family raccoon old cattle drift nest foot";
+var mnemonic = "fall arch ice talent toast segment smoke stay nature foster panda code";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade become elegant tourist era spice clump live blood cruise survey receive";
+var mnemonic = "inmate auto wood hedgehog skate announce glass lend accident access cabbage glove";

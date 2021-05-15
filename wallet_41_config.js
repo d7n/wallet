@@ -1,1 +1,1 @@
-var mnemonic = "square they toward slow royal arch second hood you glare resist happy";
+var mnemonic = "siren close retire antenna gold intact powder skirt peace segment like hole";

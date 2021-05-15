@@ -1,1 +1,1 @@
-var mnemonic = "broom stomach letter syrup february romance buddy will lyrics fashion crash square";
+var mnemonic = "ginger case guard snack page country screen melody pelican want blind doctor";

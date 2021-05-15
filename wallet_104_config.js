@@ -1,1 +1,1 @@
-var mnemonic = "course oxygen can divide any unfair lucky silly tornado run film amused";
+var mnemonic = "expose nest bicycle domain you satoshi shock brand liquid yellow gym beef";

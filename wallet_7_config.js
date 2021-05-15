@@ -1,1 +1,1 @@
-var mnemonic = "student session spy salon ozone name depth sugar gauge jacket wood negative";
+var mnemonic = "flight cable object extra raccoon path imitate govern evoke knee excess outside";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow disagree dwarf where diamond original use sauce head vessel travel crime";
+var mnemonic = "artefact slab injury foil brother immune rare twenty can quote weather save";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid approve horse shed describe accident again frame hidden frequent manage zero";
+var mnemonic = "clay couch chaos chase ready chimney hamster baby copy library nest whip";

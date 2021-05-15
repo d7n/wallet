@@ -1,1 +1,1 @@
-var mnemonic = "toy museum input since ski olive protect antique month solve narrow slab";
+var mnemonic = "hand rally season square cool captain domain mobile split mixed nest high";

@@ -1,1 +1,1 @@
-var mnemonic = "average forward insane exhaust loan pigeon submit speed garden spy mass gas";
+var mnemonic = "setup crush rocket slot mystery monkey side left emerge duty occur code";

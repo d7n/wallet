@@ -1,1 +1,1 @@
-var mnemonic = "hello globe carpet federal bright panel husband couch puzzle hunt seminar polar";
+var mnemonic = "access blast badge cactus bracket vanish glare spatial legal differ emerge negative";

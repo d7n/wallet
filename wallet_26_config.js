@@ -1,1 +1,1 @@
-var mnemonic = "mixed industry stairs shrug escape swarm glad wife next fan inquiry sunset";
+var mnemonic = "viable deny ahead alley fold blood shield field picnic sentence lunar frog";

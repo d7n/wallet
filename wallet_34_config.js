@@ -1,1 +1,1 @@
-var mnemonic = "giraffe love good spin naive they album blade judge chapter shallow core";
+var mnemonic = "capital domain melody matrix slush door cotton solve electric else rural filter";

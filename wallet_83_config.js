@@ -1,1 +1,1 @@
-var mnemonic = "between ordinary build burst text east put chest violin finger lens describe";
+var mnemonic = "hundred whale buffalo mushroom city float repeat west close allow direct scatter";

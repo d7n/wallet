@@ -1,1 +1,1 @@
-var mnemonic = "tip deposit rose deputy claim rich manual oil arrest leg imitate taxi";
+var mnemonic = "shallow heart bunker husband cotton young ordinary battle raven silver choice upon";

@@ -1,1 +1,1 @@
-var mnemonic = "core kick extra mouse ethics spray vast fantasy sort swamp file vanish";
+var mnemonic = "forward keep mesh adapt ask photo eight resist nurse raven convince pool";

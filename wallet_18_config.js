@@ -1,1 +1,1 @@
-var mnemonic = "engine elite unfair arrest ice task edit unusual sugar all monkey fiber";
+var mnemonic = "day mystery wave festival hundred element dawn future best false swarm prepare";

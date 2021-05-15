@@ -1,1 +1,1 @@
-var mnemonic = "word learn reduce wall rib hello matrix error blood office rough topple";
+var mnemonic = "donate oval sample chronic burden pulse rookie silly donor soda meadow become";

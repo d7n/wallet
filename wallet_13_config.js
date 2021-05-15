@@ -1,1 +1,1 @@
-var mnemonic = "width dismiss error destroy retire design blossom cherry fat april play vocal";
+var mnemonic = "scale prefer defy sign pull filter voyage donor sunset refuse issue among";

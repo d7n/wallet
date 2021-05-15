@@ -1,1 +1,1 @@
-var mnemonic = "yard cousin report lava physical venture uniform laugh cross color beef chair";
+var mnemonic = "dilemma enter winter estate speak job quick copper verify profit fit album";

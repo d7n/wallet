@@ -1,1 +1,1 @@
-var mnemonic = "raw gauge daughter thrive wear spirit stove gain night loan home teach";
+var mnemonic = "auto smooth coin country retire range private random popular coyote echo mom";

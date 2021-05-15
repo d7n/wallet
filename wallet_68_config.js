@@ -1,1 +1,1 @@
-var mnemonic = "great eight glove shine jump merit axis shoulder differ spell gossip report";
+var mnemonic = "eyebrow disagree wild host seek travel same minimum entry enrich toss wood";

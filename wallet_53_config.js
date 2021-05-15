@@ -1,1 +1,1 @@
-var mnemonic = "video number elegant garden draw among message arrest buyer another drum warfare";
+var mnemonic = "gold emotion main memory forest plunge august rare excuse pizza please review";

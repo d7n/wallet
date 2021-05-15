@@ -1,1 +1,1 @@
-var mnemonic = "dignity primary object throw veteran ugly level steel caught physical hamster poem";
+var mnemonic = "divorce cable during job desert poverty cheap describe sustain bounce woman mule";

@@ -1,1 +1,1 @@
-var mnemonic = "barely clarify equal stool spice coach base write twin simple course host";
+var mnemonic = "aware weather over rain casino salmon plastic main shrimp lobster spawn silk";

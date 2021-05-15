@@ -1,1 +1,1 @@
-var mnemonic = "must slush afford detail voice zebra street ripple kitten fever sunset spray";
+var mnemonic = "happy bag clarify badge resemble autumn sadness fire toss network drive love";

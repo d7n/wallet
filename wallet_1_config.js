@@ -1,1 +1,1 @@
-var mnemonic = "wagon soccer ten endless immense action trust play toast tissue wheel nasty";
+var mnemonic = "prize enhance puppy path radio inject sell bar bubble junior tilt lava";

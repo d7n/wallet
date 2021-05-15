@@ -1,1 +1,1 @@
-var mnemonic = "actress jaguar sheriff bonus correct silver chef muffin pitch immune robot comic";
+var mnemonic = "promote craft spice captain people sample around rude valid uncover morning pact";

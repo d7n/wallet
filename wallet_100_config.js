@@ -1,1 +1,1 @@
-var mnemonic = "wrestle vehicle suit voice elegant curve category hurdle shoot whisper clinic review";
+var mnemonic = "spatial puzzle season gate wreck lounge cook carpet polar crowd exile exhibit";

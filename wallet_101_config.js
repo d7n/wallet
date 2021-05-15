@@ -1,1 +1,1 @@
-var mnemonic = "replace clap knife excite wagon zebra doctor cost hurdle deliver fun palm";
+var mnemonic = "army prison retire tray brick mushroom hybrid prize tree empty orange fame";

@@ -1,1 +1,1 @@
-var mnemonic = "year east debris eyebrow energy join roast bid desk flip model side";
+var mnemonic = "toast oblige depend cactus solid code gauge sphere base update vote measure";

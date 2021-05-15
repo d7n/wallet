@@ -1,1 +1,1 @@
-var mnemonic = "rack bomb feel rescue cover dumb sell this wait what exact visual";
+var mnemonic = "pizza knock crowd tone critic planet capital audit camera december true crawl";

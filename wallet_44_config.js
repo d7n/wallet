@@ -1,1 +1,1 @@
-var mnemonic = "leader time diesel topple still chronic undo mom width mask polar robot";
+var mnemonic = "gossip unveil quality carbon lend marriage vicious siege fence stadium feed panther";

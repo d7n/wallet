@@ -1,1 +1,1 @@
-var mnemonic = "such kick potato skate strong field diet evolve claw mandate train service";
+var mnemonic = "gold maximum secret frequent leader attract escape conduct mango wealth midnight reveal";

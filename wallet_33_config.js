@@ -1,1 +1,1 @@
-var mnemonic = "robot style random vessel beauty lock crisp rescue once loyal cram seek";
+var mnemonic = "bid boss noodle confirm neglect dry bright rebuild sorry torch lava picnic";
