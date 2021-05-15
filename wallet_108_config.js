@@ -1,1 +1,1 @@
-var mnemonic = "process join vapor smooth path reduce unknown wedding boring train letter zebra";
+var mnemonic = "volcano decorate kite level praise often north rocket team myself great inspire";

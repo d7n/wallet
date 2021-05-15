@@ -1,1 +1,1 @@
-var mnemonic = "tip hood long notable current expire sausage robust buffalo keep kick wagon";
+var mnemonic = "rose artefact drama gloom erupt wide volume old drive observe chair spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic wing odor cable echo float kingdom excess palace friend arrange enemy";
+var mnemonic = "yard rug moment wife example real opinion sleep borrow oxygen bargain vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot universe olympic script country sheriff salmon slim trade follow useless office";
+var mnemonic = "collect gate country cross mom van animal duck adjust cart broom dose";

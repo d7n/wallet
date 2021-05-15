@@ -1,1 +1,1 @@
-var mnemonic = "unlock link sibling reform senior rug million student urban nephew organ science";
+var mnemonic = "loyal cloth repair damp angry meat ocean tree emotion blood quick vault";

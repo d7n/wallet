@@ -1,1 +1,1 @@
-var mnemonic = "gloom donor hello fantasy invest agent stamp slogan avocado wave essence random";
+var mnemonic = "open marble system actual evoke jewel script nerve decide rain brave awake";

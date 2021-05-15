@@ -1,1 +1,1 @@
-var mnemonic = "ozone image mask remain club vast ride brother voice armed sense sister";
+var mnemonic = "street day nest peace oak label make disorder cute news denial kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "roast imitate logic pair winner join nut winner empty eager umbrella nature";
+var mnemonic = "feed glory limb endorse chase orange gain right human junior author reject";

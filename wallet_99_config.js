@@ -1,1 +1,1 @@
-var mnemonic = "denial east rival recipe glide have pumpkin puppy drama wise skull orbit";
+var mnemonic = "menu doll pond rigid diagram pepper trigger prize happy supply bean gentle";

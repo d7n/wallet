@@ -1,1 +1,1 @@
-var mnemonic = "fuel cycle fluid whisper solar confirm topple picture session wagon spin fire";
+var mnemonic = "empty six unlock daughter toward wait gesture worth strong provide must tissue";

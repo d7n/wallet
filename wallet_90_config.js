@@ -1,1 +1,1 @@
-var mnemonic = "exile then roof universe merry organ iron laugh favorite diet fat patch";
+var mnemonic = "miracle tilt move step fluid evolve gap salmon cupboard swallow subject bone";

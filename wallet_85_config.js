@@ -1,1 +1,1 @@
-var mnemonic = "wine unusual empty park drink soccer thought couple almost confirm occur effort";
+var mnemonic = "morning romance movie short soldier lucky wage tape leader hedgehog tube energy";

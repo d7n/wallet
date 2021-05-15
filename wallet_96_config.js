@@ -1,1 +1,1 @@
-var mnemonic = "rifle cement disorder input verify loan summer success tiny clarify crawl sudden";
+var mnemonic = "museum name box glance jazz ridge shrimp useless cause ecology swing include";

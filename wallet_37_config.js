@@ -1,1 +1,1 @@
-var mnemonic = "nation next helmet chase rate assist glory monitor suggest alone walk audit";
+var mnemonic = "never soccer seven favorite crater fabric slam early sense kitten relax hood";

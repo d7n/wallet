@@ -1,1 +1,1 @@
-var mnemonic = "mad outer naive glory infant vocal width shield squirrel unknown flag marine";
+var mnemonic = "job journey club stereo raise pattern control opinion cup seek minor outer";

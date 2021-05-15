@@ -1,1 +1,1 @@
-var mnemonic = "series once plunge keen anchor victory true symbol loop over want key";
+var mnemonic = "wreck knee bottom review bridge hammer hard fringe junk fuel daughter auto";

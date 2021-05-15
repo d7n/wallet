@@ -1,1 +1,1 @@
-var mnemonic = "long loyal trumpet lift laugh walk crew divert trust edit hen rocket";
+var mnemonic = "recipe obscure shop illegal weekend divorce antenna chat sister comic smoke kitten";

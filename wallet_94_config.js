@@ -1,1 +1,1 @@
-var mnemonic = "polar tongue jaguar amazing rely arena orbit tiger tilt path frozen math";
+var mnemonic = "local burger silly hurt abstract scheme token hat horse speak devote siege";

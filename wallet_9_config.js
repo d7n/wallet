@@ -1,1 +1,1 @@
-var mnemonic = "sustain cargo hero brain dice sort dinner coral close fruit journey pact";
+var mnemonic = "session bulk dragon decrease scene light where since please father trap captain";

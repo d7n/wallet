@@ -1,1 +1,1 @@
-var mnemonic = "alcohol diesel play trick vast group verify bless mimic slender glad connect";
+var mnemonic = "family pig debris include popular sure glow walnut custom unveil wire edit";

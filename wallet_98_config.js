@@ -1,1 +1,1 @@
-var mnemonic = "later notice discover razor tourist sudden truck slim slot elephant someone charge";
+var mnemonic = "train object embark merge alley talk slight bag merge club during left";

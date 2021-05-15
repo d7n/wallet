@@ -1,1 +1,1 @@
-var mnemonic = "health spatial tooth wrist perfect artist cushion load until drive valid year";
+var mnemonic = "matrix denial forest frame split actual please seminar owner chat vintage fan";

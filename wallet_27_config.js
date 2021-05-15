@@ -1,1 +1,1 @@
-var mnemonic = "plug high way sibling repair remove dad private mobile flag swing believe";
+var mnemonic = "trial taste hour romance spot simple input across finger jazz spirit game";

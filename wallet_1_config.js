@@ -1,1 +1,1 @@
-var mnemonic = "foot vicious square version parrot repeat scatter trap rail leaf gesture flip";
+var mnemonic = "void trust meat hill thumb voyage snack quiz better dwarf pride bring";

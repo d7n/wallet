@@ -1,1 +1,1 @@
-var mnemonic = "cannon fancy pyramid flight recall success office grief cash strategy salmon fetch";
+var mnemonic = "brisk bronze horn change truly injury farm width asthma zone police situate";

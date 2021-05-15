@@ -1,1 +1,1 @@
-var mnemonic = "roast demise borrow gloom maple borrow tobacco prison warm trip adjust fabric";
+var mnemonic = "pluck elbow moment palm tent fitness name absent palm chef render plunge";

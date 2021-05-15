@@ -1,1 +1,1 @@
-var mnemonic = "stamp vacant razor stock capital boss job inner quality bitter can coyote";
+var mnemonic = "solution album curve banana advice minor trap anger since fix divorce together";

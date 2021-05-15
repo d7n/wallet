@@ -1,1 +1,1 @@
-var mnemonic = "sand obtain belt hamster lava blush pass basic reveal sell loan alley";
+var mnemonic = "wheat nothing combine spare uniform cloth express solve year diesel nation lady";

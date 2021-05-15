@@ -1,1 +1,1 @@
-var mnemonic = "hill sport genre bleak adult device pond improve fine pair amused carry";
+var mnemonic = "way learn empty derive economy mass warfare spot balcony reopen various eight";

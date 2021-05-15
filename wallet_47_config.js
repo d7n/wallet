@@ -1,1 +1,1 @@
-var mnemonic = "trim erosion raw column slight minimum crisp poverty identify staff gun grape";
+var mnemonic = "visual turtle fault rubber talk engine raw boy gown try rib purity";

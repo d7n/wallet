@@ -1,1 +1,1 @@
-var mnemonic = "hill orchard old list milk tape model social anxiety annual advice festival";
+var mnemonic = "round thought million trim pizza art glad pear social squirrel advice glimpse";

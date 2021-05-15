@@ -1,1 +1,1 @@
-var mnemonic = "angry core fat convince outside put roast twist ginger chair inject armed";
+var mnemonic = "harsh woman unable ship shy two soccer snake volume miss theme index";

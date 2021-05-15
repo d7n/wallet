@@ -1,1 +1,1 @@
-var mnemonic = "shadow explain place smart auto parade swim social giant crucial tobacco cave";
+var mnemonic = "fetch settle history bacon bread spray agent begin warfare drop federal noodle";

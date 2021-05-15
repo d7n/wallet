@@ -1,1 +1,1 @@
-var mnemonic = "company huge travel library copper cattle hedgehog worry food snow endless tonight";
+var mnemonic = "soul venture advice donkey cool remind slim trip major love buffalo odor";

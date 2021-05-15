@@ -1,1 +1,1 @@
-var mnemonic = "torch link enact bomb sibling nephew panther loan hurt lazy oil asthma";
+var mnemonic = "fringe glare banner drill giraffe curtain scheme body news blur during subway";

@@ -1,1 +1,1 @@
-var mnemonic = "brown learn fog pizza shy search shoulder valid twin slogan emotion lobster";
+var mnemonic = "dirt injury cradle hungry nest design eagle cinnamon change valley swamp doll";

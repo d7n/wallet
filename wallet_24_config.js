@@ -1,1 +1,1 @@
-var mnemonic = "rival oppose twist special plunge able tenant seek chapter nuclear purchase clump";
+var mnemonic = "swim source memory core seek prepare aim paddle detail parrot maple ignore";

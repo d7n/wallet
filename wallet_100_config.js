@@ -1,1 +1,1 @@
-var mnemonic = "fortune easily three program fatal crush puppy offer remember tray occur prevent";
+var mnemonic = "board diary raw sign carpet across nominee slogan purity globe evil make";

@@ -1,1 +1,1 @@
-var mnemonic = "adult jacket legend curve urban struggle square forget yellow forest field sentence";
+var mnemonic = "script property rich truly limb culture acoustic arm key alone order hip";

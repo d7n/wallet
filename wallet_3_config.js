@@ -1,1 +1,1 @@
-var mnemonic = "admit chair volume vibrant hope debris visit unknown file inquiry client forum";
+var mnemonic = "valid shallow milk analyst custom soldier slide liar sentence setup armed oil";

@@ -1,1 +1,1 @@
-var mnemonic = "left device bridge finger champion caught avoid meadow throw disagree empower ramp";
+var mnemonic = "luggage lonely neglect winner senior avocado target hotel fury rapid toe absurd";

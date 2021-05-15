@@ -1,1 +1,1 @@
-var mnemonic = "use rural excuse fall logic spread region purpose clown patrol winner trash";
+var mnemonic = "unfold frame cotton convince parade boss flock guard robust certain deny rival";

@@ -1,1 +1,1 @@
-var mnemonic = "pave slide kiss image silly wood sick blouse great pledge faint today";
+var mnemonic = "flush eagle grain account element envelope appear pigeon inner inform potato dutch";

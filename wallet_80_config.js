@@ -1,1 +1,1 @@
-var mnemonic = "under knife true guide supreme say recycle math sense broken science gas";
+var mnemonic = "topple over raccoon nuclear garment loyal clap pony burden inherit mandate spread";

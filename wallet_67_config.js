@@ -1,1 +1,1 @@
-var mnemonic = "agree submit culture hollow sell ride exact code august ski mad cement";
+var mnemonic = "noble spice vanish tilt wave melt lawsuit endorse mango drama kingdom rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn cover glance bubble alert brush wagon source hurdle seek arena ensure";
+var mnemonic = "token beauty target beyond someone reflect humble essence sustain catalog script valley";

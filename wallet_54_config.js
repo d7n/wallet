@@ -1,1 +1,1 @@
-var mnemonic = "pact acid just caution desert eyebrow myself daughter rose raise awful tornado";
+var mnemonic = "myth emerge grit believe circle series turtle live stick suit cake mechanic";

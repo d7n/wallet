@@ -1,1 +1,1 @@
-var mnemonic = "truck ranch address dry vault loyal electric swarm rubber loop pride arctic";
+var mnemonic = "snap left pledge soon famous logic ensure average anger autumn immense earn";

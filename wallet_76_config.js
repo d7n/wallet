@@ -1,1 +1,1 @@
-var mnemonic = "bargain pool wolf current tackle tide earth loyal supreme hold tide champion";
+var mnemonic = "ski concert task broken danger citizen select eight sting next style describe";

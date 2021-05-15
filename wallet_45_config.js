@@ -1,1 +1,1 @@
-var mnemonic = "hello summer creek hope month panic tuna story reopen glimpse rude source";
+var mnemonic = "cactus cargo west select gate couch emotion expose crater flip flip sting";

@@ -1,1 +1,1 @@
-var mnemonic = "method gospel child banner fresh bomb ordinary turkey radar perfect surface sauce";
+var mnemonic = "vessel maple spy seek item category length rural hard child staff wrong";

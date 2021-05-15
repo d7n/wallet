@@ -1,1 +1,1 @@
-var mnemonic = "river divorce motor one gun dynamic season sustain receive faith crouch winner";
+var mnemonic = "curious panda ability city crew result teach slight gate hair kangaroo moral";

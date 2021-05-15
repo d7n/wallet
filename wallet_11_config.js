@@ -1,1 +1,1 @@
-var mnemonic = "insane pencil danger opinion fabric network plunge expect grape length venture hood";
+var mnemonic = "oven naive clog humor unlock fitness sniff broken old onion talent horror";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic book farm attack mind perfect source embody vendor tragic spell account";
+var mnemonic = "royal slam kidney holiday drift explain legend naive language orbit wrong column";

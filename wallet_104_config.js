@@ -1,1 +1,1 @@
-var mnemonic = "excess six day floor proud finger aspect fetch young october crystal science";
+var mnemonic = "load suspect fruit hurt scale begin fortune mad foil educate essence fringe";

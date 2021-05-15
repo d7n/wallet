@@ -1,1 +1,1 @@
-var mnemonic = "vapor situate chief ginger allow mad asset credit syrup shadow gas parrot";
+var mnemonic = "just sadness document power method govern chicken hard riot stereo dizzy labor";

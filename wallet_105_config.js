@@ -1,1 +1,1 @@
-var mnemonic = "absorb female lounge current knife office gas impulse arm night want wall";
+var mnemonic = "merry camera feed park return slot behind alley short hurdle file mix";

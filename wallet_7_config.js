@@ -1,1 +1,1 @@
-var mnemonic = "way load april stable health able void supreme tattoo seminar file stage";
+var mnemonic = "typical basket neglect portion myth hurdle cook approve mobile lab wage inspire";

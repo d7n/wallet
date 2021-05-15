@@ -1,1 +1,1 @@
-var mnemonic = "drop buzz share pave amused clay ranch clown brief ill heart museum";
+var mnemonic = "mimic tongue year once pepper rubber quantum large pudding glance energy behave";

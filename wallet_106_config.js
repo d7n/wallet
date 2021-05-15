@@ -1,1 +1,1 @@
-var mnemonic = "approve over divorce club turtle panda vanish castle rhythm crystal bullet start";
+var mnemonic = "swear soap attract pet comfort agent always silly match engage couch sell";

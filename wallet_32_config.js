@@ -1,1 +1,1 @@
-var mnemonic = "solar net just tuition gym speed oven off build portion juice taste";
+var mnemonic = "poet cable pipe glad usage naive program fall material corn horror favorite";

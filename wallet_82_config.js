@@ -1,1 +1,1 @@
-var mnemonic = "sketch history smile tonight potato fame skin long scrub slab circle patch";
+var mnemonic = "champion brush hover direct reflect divide captain drama faint install fun warfare";

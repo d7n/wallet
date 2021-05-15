@@ -1,1 +1,1 @@
-var mnemonic = "enable shed wrist famous fork spin alien candy cherry lumber winner second";
+var mnemonic = "bonus hybrid give wealth brush acoustic live blush step silver soldier leopard";

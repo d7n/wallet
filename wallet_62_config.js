@@ -1,1 +1,1 @@
-var mnemonic = "old random wedding similar marriage expect purity security dolphin raven bone volcano";
+var mnemonic = "tree pig neglect auto same actor renew zebra gas legal business monkey";

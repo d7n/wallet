@@ -1,1 +1,1 @@
-var mnemonic = "copper junior faith neither position churn army toss tobacco chunk machine balance";
+var mnemonic = "lake hurry weird width young uniform drum nest candy film oil kid";

@@ -1,1 +1,1 @@
-var mnemonic = "plug miss husband later rude case grass bird wood diary damage virtual";
+var mnemonic = "balcony taste few warfare length brown diesel inherit country cart mimic scheme";

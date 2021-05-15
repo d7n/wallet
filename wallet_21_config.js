@@ -1,1 +1,1 @@
-var mnemonic = "lamp magnet brisk winner harvest drink barrel unit filter stairs pull seminar";
+var mnemonic = "prosper weasel purse view swap grit believe laundry federal alien any cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "media decade escape mystery forget weather slide cheese hint pond fish empower";
+var mnemonic = "nominee health above basic capital ship august power endorse search amount glove";

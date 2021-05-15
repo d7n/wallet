@@ -1,1 +1,1 @@
-var mnemonic = "useful sun slender quarter spread aerobic uncover tuition game stand mouse trigger";
+var mnemonic = "onion essay dice iron clump enforce pottery tip fiction beyond hard fabric";

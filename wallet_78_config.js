@@ -1,1 +1,1 @@
-var mnemonic = "nominee manual excess kick anxiety dove eight label able amazing dish claim";
+var mnemonic = "lunar quarter below debate trial ethics favorite fluid tribe bridge since walnut";

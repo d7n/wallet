@@ -1,1 +1,1 @@
-var mnemonic = "naive praise drama exhibit number pyramid bind jaguar robust abandon access jelly";
+var mnemonic = "quick fade stereo scrub juice can angry erase visual host picnic note";

@@ -1,1 +1,1 @@
-var mnemonic = "custom acid wonder about quiz intact decrease quality calm crunch total arrow";
+var mnemonic = "exotic off human woman inspire swamp into average copper great achieve fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "flight enrich one demand canyon devote fold stamp prefer length large speak";
+var mnemonic = "siege daughter expect disorder defy measure friend develop rain double prevent diagram";

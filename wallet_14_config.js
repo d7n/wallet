@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow confirm spell cloth access mushroom degree oblige elbow cabin novel change";
+var mnemonic = "shoulder tree blouse sign awake version list submit metal upper throw sword";

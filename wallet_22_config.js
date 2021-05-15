@@ -1,1 +1,1 @@
-var mnemonic = "unknown kiss stool wheat march viable deer genre asset congress provide burger";
+var mnemonic = "cross aim this double bird wheat antenna enter fantasy catch cloud obey";

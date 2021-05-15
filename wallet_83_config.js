@@ -1,1 +1,1 @@
-var mnemonic = "provide mix smart ignore speak sell blade dog sniff knock refuse next";
+var mnemonic = "flower hello possible resemble margin much bounce audit despair recall client road";

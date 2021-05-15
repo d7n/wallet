@@ -1,1 +1,1 @@
-var mnemonic = "crater together transfer shoulder replace swarm tide winner shadow marine near leopard";
+var mnemonic = "run actor oblige claw aspect habit state correct street giant found umbrella";

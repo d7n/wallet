@@ -1,1 +1,1 @@
-var mnemonic = "wrist input seed blur receive solution pretty ancient bamboo surprise swear cinnamon";
+var mnemonic = "sand clog impact boy citizen pioneer weird section squirrel caught vicious stuff";

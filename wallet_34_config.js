@@ -1,1 +1,1 @@
-var mnemonic = "copper search rigid shrimp forward inhale speed evil genre dog online portion";
+var mnemonic = "salmon student enforce such club erupt ensure valve eternal panel million repeat";

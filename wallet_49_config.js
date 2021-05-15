@@ -1,1 +1,1 @@
-var mnemonic = "entire logic shock junior boil hand yellow illness pull senior morning example";
+var mnemonic = "riot occur make program junk vessel cigar fitness theme canoe proud example";

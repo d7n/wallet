@@ -1,1 +1,1 @@
-var mnemonic = "glue voice raven network surprise flip prepare blur hidden game ice goat";
+var mnemonic = "capable choice dizzy tackle attack roof van tank cement inch abandon shop";

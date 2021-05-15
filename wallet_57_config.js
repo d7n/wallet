@@ -1,1 +1,1 @@
-var mnemonic = "village hungry renew elegant level relief apple situate infant device party host";
+var mnemonic = "term theory broom provide resist series glass fly nothing exile ketchup normal";

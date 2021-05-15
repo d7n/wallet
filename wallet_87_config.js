@@ -1,1 +1,1 @@
-var mnemonic = "brief crime talent method update income loan prepare never excuse border weasel";
+var mnemonic = "venue life frog lawn oblige fence you chef hip law elegant balcony";

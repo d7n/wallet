@@ -1,1 +1,1 @@
-var mnemonic = "between forum degree lunar because inherit tuna wing segment two pupil defense";
+var mnemonic = "hold woman primary disorder hobby alien hurt original sheriff glance rubber stereo";

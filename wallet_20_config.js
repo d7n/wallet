@@ -1,1 +1,1 @@
-var mnemonic = "blush green teach smooth couple accuse defy curtain arrive bike silly code";
+var mnemonic = "noise fragile finger decrease coach divert trick ask black usual magic upon";

@@ -1,1 +1,1 @@
-var mnemonic = "debate final sunset permit border unveil teach another penalty rule burger celery";
+var mnemonic = "lift soccer degree please unhappy such reunion guess rude loan margin crowd";

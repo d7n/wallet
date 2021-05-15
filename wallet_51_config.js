@@ -1,1 +1,1 @@
-var mnemonic = "behind corn grocery pepper approve awake only orbit arrange seed nature give";
+var mnemonic = "proud cattle surprise again resist elder else bread disorder yellow weapon clump";

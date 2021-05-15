@@ -1,1 +1,1 @@
-var mnemonic = "update mail unable better page double update movie cement rose link fan";
+var mnemonic = "grunt envelope side rebel huge blouse minor repair jealous fringe special soap";

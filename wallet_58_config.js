@@ -1,1 +1,1 @@
-var mnemonic = "moon secret tiger tip desert betray success allow ripple educate pill field";
+var mnemonic = "office green victory strike remind side used same august front summer unknown";

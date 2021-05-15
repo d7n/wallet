@@ -1,1 +1,1 @@
-var mnemonic = "first torch say riot potato apple actual until winner mirror prepare bind";
+var mnemonic = "area ketchup very inner mistake firm scorpion iron denial friend second gas";
