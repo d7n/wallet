@@ -1,1 +1,1 @@
-var mnemonic = "novel level twist subject crunch pride lend lens panda friend certain resemble";
+var mnemonic = "tongue message tell empty only desk addict innocent pen flavor hour proof";

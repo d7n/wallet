@@ -1,1 +1,1 @@
-var mnemonic = "hollow mechanic elephant trash saddle tongue early grace mammal crouch suspect bubble";
+var mnemonic = "vehicle lady pony object ship pole label sell cattle better merry van";

@@ -1,1 +1,1 @@
-var mnemonic = "hour blur agent mesh cook weather fever icon fame error barrel chief";
+var mnemonic = "van awful length coconut pattern follow swarm doctor volcano cram bubble cause";

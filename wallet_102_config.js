@@ -1,1 +1,1 @@
-var mnemonic = "zone sing cry asthma giggle sell pride face entire suspect forum edge";
+var mnemonic = "foil section resist upon assist wheat salute tortoise unable finger federal tape";

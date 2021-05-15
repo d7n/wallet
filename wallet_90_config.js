@@ -1,1 +1,1 @@
-var mnemonic = "endorse artwork peace cloud huge model people until finger lab ketchup fury";
+var mnemonic = "orphan plastic sick mother enough enhance marriage portion oblige spider acoustic shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown enough that valley mansion doctor grit panel ramp soft evolve song";
+var mnemonic = "dolphin favorite mixture disagree keen illegal unhappy sentence small buddy roast goose";

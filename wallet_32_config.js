@@ -1,1 +1,1 @@
-var mnemonic = "believe hundred potato turn invest level copy degree emerge know divide speak";
+var mnemonic = "document flight clean pull keep nuclear school truck blast reduce chief matter";

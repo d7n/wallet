@@ -1,1 +1,1 @@
-var mnemonic = "ankle ski display survey hurt candy chair stumble kitten frame price april";
+var mnemonic = "drift lumber fresh video delay erode assault wrong trade car fiction uncover";

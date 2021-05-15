@@ -1,1 +1,1 @@
-var mnemonic = "bonus broken today green palace curious kingdom scrub ski buffalo diet key";
+var mnemonic = "nature leisure tag fuel bronze bike diary weekend what rebuild defense solve";

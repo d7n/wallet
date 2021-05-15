@@ -1,1 +1,1 @@
-var mnemonic = "friend extend begin solid demise discover payment upgrade iron egg else legal";
+var mnemonic = "jewel civil edit notable school seat famous bid tree summer float youth";

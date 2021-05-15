@@ -1,1 +1,1 @@
-var mnemonic = "hover antenna harsh ability float city perfect people biology help output screen";
+var mnemonic = "brother talent client beef master remember pair title divide build few pen";

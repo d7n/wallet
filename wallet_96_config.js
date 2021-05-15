@@ -1,1 +1,1 @@
-var mnemonic = "rude fury coin govern pelican orchard such lyrics switch secret snow fan";
+var mnemonic = "obey history armor sudden similar nerve stamp road nominee drop glad patrol";

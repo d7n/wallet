@@ -1,1 +1,1 @@
-var mnemonic = "aisle drop prevent matter until give slight slight whip nose antique soft";
+var mnemonic = "bundle explain bright ignore crystal upgrade auction trust finger win pink priority";

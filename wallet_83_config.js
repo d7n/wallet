@@ -1,1 +1,1 @@
-var mnemonic = "symbol require when mad long plastic caught garlic earth good fit reject";
+var mnemonic = "mixture profit valid salad grocery ghost again giant spare stereo bamboo cinnamon";

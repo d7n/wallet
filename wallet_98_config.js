@@ -1,1 +1,1 @@
-var mnemonic = "enlist item traffic donkey wonder employ friend supply spy feature hammer learn";
+var mnemonic = "trap ensure gadget offer very suit above pyramid fee cart inform east";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious jar essence master crucial when orange just blame build corn birth";
+var mnemonic = "wreck rival bamboo save pizza bike dune canvas random mixture dog uncover";

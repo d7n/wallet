@@ -1,1 +1,1 @@
-var mnemonic = "scale mimic nephew desert remember race ecology manage project mutual dove duty";
+var mnemonic = "solve arrive kiss timber fabric security taste stone spread wet tennis august";

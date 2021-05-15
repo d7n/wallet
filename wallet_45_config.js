@@ -1,1 +1,1 @@
-var mnemonic = "panic veteran recipe audit cattle cargo task brother movie baby unveil royal";
+var mnemonic = "derive frost spring actor coach regret dwarf syrup fetch sausage train milk";

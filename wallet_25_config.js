@@ -1,1 +1,1 @@
-var mnemonic = "ghost view good ready demand spider three nation horror sting illegal wisdom";
+var mnemonic = "equal travel quit minute square erase mass mobile ahead guitar habit nut";

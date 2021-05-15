@@ -1,1 +1,1 @@
-var mnemonic = "flight disorder embody idea total exotic hair pizza oven vapor game mistake";
+var mnemonic = "damp youth broken add they pottery lawsuit side occur year valid token";

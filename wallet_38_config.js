@@ -1,1 +1,1 @@
-var mnemonic = "frost order error avocado salon panel make loop city dinosaur fiction bacon";
+var mnemonic = "spare man armor suggest tank party dawn figure discover snake outside cushion";

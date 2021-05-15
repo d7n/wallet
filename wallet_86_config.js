@@ -1,1 +1,1 @@
-var mnemonic = "then boss visa flame tumble among creek peasant tornado limb rough arrange";
+var mnemonic = "shock fault media equal math bacon among leaf gasp broken party couch";

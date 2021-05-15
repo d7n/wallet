@@ -1,1 +1,1 @@
-var mnemonic = "swamp race sting later nephew crumble kangaroo image song galaxy prison gravity";
+var mnemonic = "subway slender arrange dignity ill traffic soon chronic join squeeze answer other";

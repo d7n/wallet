@@ -1,1 +1,1 @@
-var mnemonic = "rail cloth dwarf network mad brand leisure skull help chest setup exercise";
+var mnemonic = "bottom drink predict sun bus pair mystery region gospel enhance spoil duty";

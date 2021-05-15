@@ -1,1 +1,1 @@
-var mnemonic = "hazard floor drink trumpet spare agent peasant pass task buyer seek tell";
+var mnemonic = "explain unfold pen wise often junior order sleep picnic radar young garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest angry awful cliff stumble twin school casino injury whip deal alley";
+var mnemonic = "derive cotton roof crouch shoe title remember again call soda token cause";

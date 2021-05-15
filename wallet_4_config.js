@@ -1,1 +1,1 @@
-var mnemonic = "solution then hurdle forward myth monitor opera pudding cycle refuse depth elevator";
+var mnemonic = "write addict category thumb slow tumble night memory swarm marriage story random";

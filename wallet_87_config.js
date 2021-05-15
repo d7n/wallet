@@ -1,1 +1,1 @@
-var mnemonic = "section ride piece onion carry south energy finish figure aerobic endless shine";
+var mnemonic = "peasant vintage employ charge arrive around sleep increase reduce eyebrow disagree youth";

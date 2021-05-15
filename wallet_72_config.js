@@ -1,1 +1,1 @@
-var mnemonic = "possible priority assist travel chief unfold flee flame kidney reunion salmon maximum";
+var mnemonic = "space pact mirror crumble castle absent day improve when join ball follow";

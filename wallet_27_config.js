@@ -1,1 +1,1 @@
-var mnemonic = "trim relief rose own donate pink follow salt final move enough panel";
+var mnemonic = "eternal around image final blade measure violin simple range conduct cruise tuition";

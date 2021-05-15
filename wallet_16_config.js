@@ -1,1 +1,1 @@
-var mnemonic = "defense page relief visit check surprise slow blanket taxi apart excess gap";
+var mnemonic = "purpose update ship chief lawsuit uncover best duty fuel cancel music couch";

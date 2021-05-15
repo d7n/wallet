@@ -1,1 +1,1 @@
-var mnemonic = "neglect cube pluck prevent cancel plastic parade crane discover bitter safe salmon";
+var mnemonic = "dignity left mix whisper sausage edit jump embody urge dragon submit shrug";

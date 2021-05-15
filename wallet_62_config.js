@@ -1,1 +1,1 @@
-var mnemonic = "oyster maple clean wedding prosper unveil scrap ecology orbit gun cement refuse";
+var mnemonic = "island rally nest royal desert jump glow air huge empty gym final";

@@ -1,1 +1,1 @@
-var mnemonic = "fun breeze nut element luxury close hybrid trouble east dirt boss pulse";
+var mnemonic = "walnut faith ready purpose state album skate castle spring salt dust upper";

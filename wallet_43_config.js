@@ -1,1 +1,1 @@
-var mnemonic = "morning license parent mad snake gossip humor warrior upgrade lizard extra again";
+var mnemonic = "clown sound path camp alcohol execute neutral dumb involve monkey soup attract";

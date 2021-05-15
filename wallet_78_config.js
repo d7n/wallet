@@ -1,1 +1,1 @@
-var mnemonic = "purse book upon hair parent phrase alien regret diesel tribe eight digital";
+var mnemonic = "magnet kiwi output north claim deputy banner lion urge dish movie describe";

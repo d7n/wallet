@@ -1,1 +1,1 @@
-var mnemonic = "estate march door away guitar wink relief vehicle huge fiscal icon term";
+var mnemonic = "battle early test armed inherit hero hurry kite struggle plunge aerobic spider";

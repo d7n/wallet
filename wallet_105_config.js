@@ -1,1 +1,1 @@
-var mnemonic = "teach parrot decide smooth once flavor economy burger guard arm wine decrease";
+var mnemonic = "slow occur acoustic deliver sauce receive travel club hollow swing will inflict";

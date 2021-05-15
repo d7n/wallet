@@ -1,1 +1,1 @@
-var mnemonic = "festival despair lunch globe table buzz excite diesel coin teach enhance rookie";
+var mnemonic = "quality sight rubber frame sound merit spin image misery cigar infant guard";

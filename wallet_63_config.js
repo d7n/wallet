@@ -1,1 +1,1 @@
-var mnemonic = "unusual nasty urge private faculty pony monkey indoor unaware impose giant cluster";
+var mnemonic = "exotic purpose brown correct narrow wild hawk hockey guilt middle remind ride";

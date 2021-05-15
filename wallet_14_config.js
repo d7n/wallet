@@ -1,1 +1,1 @@
-var mnemonic = "unique door culture apology hand version frog fault innocent banana special dynamic";
+var mnemonic = "rally unhappy vote bomb together soft tent glad strong mandate ignore peace";

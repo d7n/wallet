@@ -1,1 +1,1 @@
-var mnemonic = "guide autumn around silk invest analyst silk meat spare other pelican section";
+var mnemonic = "spread educate pear nest wood juice gold joke gym box patient copy";

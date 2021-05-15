@@ -1,1 +1,1 @@
-var mnemonic = "apology dizzy phone nephew dilemma suffer weasel fee ask cabbage dawn vacuum";
+var mnemonic = "reunion ivory point transfer three marine immune priority front survey found clerk";

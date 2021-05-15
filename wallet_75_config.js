@@ -1,1 +1,1 @@
-var mnemonic = "course dog proof arrow sand buzz frost indicate festival hand finger slight";
+var mnemonic = "rally super veteran forward scene describe outer leopard usage muscle calm cushion";

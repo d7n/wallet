@@ -1,1 +1,1 @@
-var mnemonic = "husband hello cloth arm inspire abandon step popular boy hurry earth reason";
+var mnemonic = "pudding empower notice year tone ice crime control gown traffic ranch keep";

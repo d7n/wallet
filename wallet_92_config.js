@@ -1,1 +1,1 @@
-var mnemonic = "menu modify garage mixture analyst ramp avoid ostrich sail hen win hour";
+var mnemonic = "gas surge bench engage guide time amount parent easy grass battle staff";

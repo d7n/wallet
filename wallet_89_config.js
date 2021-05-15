@@ -1,1 +1,1 @@
-var mnemonic = "team adjust wise escape mechanic ethics knock material shrimp weird egg token";
+var mnemonic = "trophy edge harbor pull shield meadow recycle smoke alley tissue job auto";

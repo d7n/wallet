@@ -1,1 +1,1 @@
-var mnemonic = "skill basket cruel initial vast knee zone run math stem escape ancient";
+var mnemonic = "level phone amateur just nation clump grant silk knee wait life will";

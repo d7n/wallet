@@ -1,1 +1,1 @@
-var mnemonic = "pulse coyote early duty theme develop resist oil slice garage shaft about";
+var mnemonic = "paddle frozen treat glass sugar pass path idle add timber pipe tape";

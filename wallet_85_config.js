@@ -1,1 +1,1 @@
-var mnemonic = "enlist pepper else matter opera silver slim fiction penalty arrest satisfy cable";
+var mnemonic = "can hunt hidden entire load torch media tribe custom praise wash wine";

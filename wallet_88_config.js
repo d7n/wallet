@@ -1,1 +1,1 @@
-var mnemonic = "blade surprise course error piano thunder multiply nothing witness carbon maid try";
+var mnemonic = "involve pledge desk cost cover social course cliff armor castle offer pledge";

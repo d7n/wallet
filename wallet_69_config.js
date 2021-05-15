@@ -1,1 +1,1 @@
-var mnemonic = "boy sorry identify cycle million basket oxygen claim giraffe chef capital buffalo";
+var mnemonic = "giant local fluid vacant pass list earth armor donkey tiny purchase huge";

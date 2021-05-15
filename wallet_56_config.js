@@ -1,1 +1,1 @@
-var mnemonic = "pony empower useful expand honey same cigar sauce patient question material mansion";
+var mnemonic = "flight kit behave vocal worry affair novel imitate chicken gas embrace velvet";

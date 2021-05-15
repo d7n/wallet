@@ -1,1 +1,1 @@
-var mnemonic = "glass hazard sure mesh duty love term another age game joy clown";
+var mnemonic = "sudden hat critic misery youth jelly pumpkin analyst save mistake neutral property";

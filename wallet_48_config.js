@@ -1,1 +1,1 @@
-var mnemonic = "unusual silk patch produce decrease rigid fitness rich lawn can immense rural";
+var mnemonic = "error garden torch zebra husband dismiss purpose fan fee foam tortoise tornado";

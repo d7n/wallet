@@ -1,1 +1,1 @@
-var mnemonic = "method dutch put farm father floor industry barely arctic tiny butter spin";
+var mnemonic = "caution useful unlock resource fire crop radar error winter pole surprise lab";

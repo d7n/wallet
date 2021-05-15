@@ -1,1 +1,1 @@
-var mnemonic = "bicycle enter man cactus about fitness deliver abstract dust game expose emotion";
+var mnemonic = "help heart start various advice royal outside agent snake tuna start save";

@@ -1,1 +1,1 @@
-var mnemonic = "invest recycle prison mango pottery drastic conduct huge live absent kingdom brief";
+var mnemonic = "fetch eye digital antenna donate jazz hamster private chest olive dice diamond";

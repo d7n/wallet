@@ -1,1 +1,1 @@
-var mnemonic = "huge ski silent include ability worth wolf hazard input mix winner wreck";
+var mnemonic = "trick equal tattoo cross route obvious quote flash sauce cheap radio secret";

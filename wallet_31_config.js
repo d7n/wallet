@@ -1,1 +1,1 @@
-var mnemonic = "win market insane topple belt rude power staff rail rain grocery carry";
+var mnemonic = "wave version nuclear tuna there canal wet purity fold issue cannon before";

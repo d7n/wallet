@@ -1,1 +1,1 @@
-var mnemonic = "unfold find elevator because siren first private inch beach useful choice turtle";
+var mnemonic = "humble rich give end sting canyon differ comic march measure business valve";

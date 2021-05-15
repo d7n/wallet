@@ -1,1 +1,1 @@
-var mnemonic = "funny raccoon major dignity cart rigid square barrel job thunder cloth drill";
+var mnemonic = "find april clown napkin giggle dish pilot speed upon whip oxygen blind";

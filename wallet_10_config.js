@@ -1,1 +1,1 @@
-var mnemonic = "among miracle illness latin fluid wisdom tent sick ladder spray uphold fly";
+var mnemonic = "resource dad pause recycle tuna resist either client caution rural arm core";

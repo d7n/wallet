@@ -1,1 +1,1 @@
-var mnemonic = "marriage satisfy happy snake torch rigid summer pond scale column skin sure";
+var mnemonic = "lyrics erase boil rough swear dance tennis swamp memory alien opinion service";

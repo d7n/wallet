@@ -1,1 +1,1 @@
-var mnemonic = "usual mass diamond exist champion copy agent tape switch tell cruise box";
+var mnemonic = "ceiling tourist weapon monster obvious horse carry awful hurt forest express borrow";

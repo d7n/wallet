@@ -1,1 +1,1 @@
-var mnemonic = "ring access reflect argue sock write first argue dolphin sight enable common";
+var mnemonic = "shy neutral behave antenna meat buyer daughter jelly ship essence ridge hip";

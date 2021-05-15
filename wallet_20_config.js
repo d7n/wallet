@@ -1,1 +1,1 @@
-var mnemonic = "ticket awkward argue stool toss engine gun canal achieve pact swim snap";
+var mnemonic = "tower engage day scatter marine oyster verb cost embody knife session winner";

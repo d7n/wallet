@@ -1,1 +1,1 @@
-var mnemonic = "spin gasp age exotic bronze believe flash scan tide museum artwork nation";
+var mnemonic = "fever amazing youth advice emerge craft sheriff silent dress emotion orchard creek";

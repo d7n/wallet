@@ -1,1 +1,1 @@
-var mnemonic = "antenna grape open object glad inject silent tunnel mouse dinner long moral";
+var mnemonic = "suffer owner dynamic diary rail chalk impulse bind agree notable scheme brother";

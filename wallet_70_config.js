@@ -1,1 +1,1 @@
-var mnemonic = "baby embark version book net unique net retreat lab shock balance time";
+var mnemonic = "inject dizzy accident material brother secret yard case wild frost ability electric";

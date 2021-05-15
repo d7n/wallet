@@ -1,1 +1,1 @@
-var mnemonic = "put rich hard person library atom rent soccer entry circle need slice";
+var mnemonic = "manual person spell dumb minute cute faint hover vessel initial heart cloud";

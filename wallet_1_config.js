@@ -1,1 +1,1 @@
-var mnemonic = "differ ask involve catch dilemma address payment news combine swing play sell";
+var mnemonic = "deny spell fit ill hat hollow wait plate enhance current provide choice";

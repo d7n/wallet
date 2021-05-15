@@ -1,1 +1,1 @@
-var mnemonic = "prison yard rural absent flip bright twin glare other horn tobacco trumpet";
+var mnemonic = "say sphere boost dish rescue game elephant sentence squirrel artist rude fog";

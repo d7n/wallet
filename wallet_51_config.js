@@ -1,1 +1,1 @@
-var mnemonic = "boring unfold purity sail argue run minimum require hurry flash analyst device";
+var mnemonic = "grid term dawn feed verb snow idle sight symptom spare portion brown";

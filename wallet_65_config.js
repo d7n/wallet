@@ -1,1 +1,1 @@
-var mnemonic = "type comic oxygen outdoor firm clap mask stay easily able slot surge";
+var mnemonic = "filter three right element false now ready negative improve extra antique crane";

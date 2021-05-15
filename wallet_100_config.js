@@ -1,1 +1,1 @@
-var mnemonic = "cool wink bone clutch hold brave between often hand health gorilla prosper";
+var mnemonic = "rent limb clay plastic usage salmon blue occur miracle tooth year behave";

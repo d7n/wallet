@@ -1,1 +1,1 @@
-var mnemonic = "perfect episode bid chronic zero lake basic nature online expire measure crowd";
+var mnemonic = "nerve flee expect ask sun time castle hunt size side rack moral";

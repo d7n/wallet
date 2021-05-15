@@ -1,1 +1,1 @@
-var mnemonic = "worry inherit toddler illness opera bring cause soccer parrot spray rib cup";
+var mnemonic = "opera length camp spawn slush wall travel eagle table cousin certain decade";

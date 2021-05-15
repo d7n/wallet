@@ -1,1 +1,1 @@
-var mnemonic = "picnic abandon cute change crowd until glance identify thumb butter damage price";
+var mnemonic = "heart soccer load exist genius base design tortoise pumpkin round lumber brand";

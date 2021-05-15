@@ -1,1 +1,1 @@
-var mnemonic = "position entry box liberty drive purpose knee school gesture question early moral";
+var mnemonic = "grain wild sheriff travel gauge erupt image gossip aspect eagle employ luggage";

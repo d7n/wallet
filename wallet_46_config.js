@@ -1,1 +1,1 @@
-var mnemonic = "avocado clarify holiday coconut chronic glimpse snack female fringe abuse hundred idle";
+var mnemonic = "defy since trade never long differ cement human shift shy clarify outside";

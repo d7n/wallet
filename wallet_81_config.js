@@ -1,1 +1,1 @@
-var mnemonic = "immense laptop figure trip canyon cabbage path clever safe fade trial load";
+var mnemonic = "drum step second cycle orange connect topic ship input life path fiber";

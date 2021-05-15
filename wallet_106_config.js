@@ -1,1 +1,1 @@
-var mnemonic = "magic impulse despair planet organ broom cargo matrix rich match volcano rhythm";
+var mnemonic = "all master purse wait primary review stock arrow inside morning gospel squeeze";

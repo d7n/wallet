@@ -1,1 +1,1 @@
-var mnemonic = "security system laundry media another shaft scheme girl actress borrow glimpse idea";
+var mnemonic = "burst order explain cram cannon distance patrol sample giggle twelve vacant pulp";

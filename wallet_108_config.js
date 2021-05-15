@@ -1,1 +1,1 @@
-var mnemonic = "dilemma aware song lawn mistake seat winner matrix detail fire cushion typical";
+var mnemonic = "miracle grid economy fatal must uphold they term uncle exist gather world";
