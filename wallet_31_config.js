@@ -1,1 +1,1 @@
-var mnemonic = "cross violin market inform unlock glue produce fever market dove dream antenna";
+var mnemonic = "doctor develop wrong color frog hotel caught thrive safe display guilt surround";

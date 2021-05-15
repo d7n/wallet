@@ -1,1 +1,1 @@
-var mnemonic = "horror ski then check slow neck jewel task pupil vendor tornado hill";
+var mnemonic = "warrior loyal surround able travel pelican weasel mixture error bacon broom olympic";

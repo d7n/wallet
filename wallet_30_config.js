@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo old across tree sail assume will eight remain expire neck best";
+var mnemonic = "dad only flame account banana fork entry turkey frequent nature hunt rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "hen wing pave project purity floor crowd train jelly cook empower modify";
+var mnemonic = "alpha weapon scatter penalty duty jeans reveal phone tired gun fee oval";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic broken height north fly fall loyal sick lottery candy rain lazy";
+var mnemonic = "prevent model frequent random execute immune rich pony extra camera bubble airport";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum sad document grief staff ozone security gaze cave drum train admit";
+var mnemonic = "early taste nice hungry dizzy drastic lunar equip creek uncle trick venue";

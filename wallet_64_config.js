@@ -1,1 +1,1 @@
-var mnemonic = "help flavor mushroom love width party fall appear alien battle isolate witness";
+var mnemonic = "era squeeze few task fee call mom raccoon life double field fox";

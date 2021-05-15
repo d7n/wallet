@@ -1,1 +1,1 @@
-var mnemonic = "treat relax crunch garbage grant acid lion seed like absurd silent stage";
+var mnemonic = "tired sunset belt panther bamboo ticket loan ladder liar brown inquiry left";

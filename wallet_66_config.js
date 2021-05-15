@@ -1,1 +1,1 @@
-var mnemonic = "outer lumber erosion evolve nice machine trigger foot inside hope kangaroo safe";
+var mnemonic = "bridge master submit soft clock disorder aerobic ethics exchange possible lobster comfort";

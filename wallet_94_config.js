@@ -1,1 +1,1 @@
-var mnemonic = "same this cactus civil treat inside slot neutral song system raven aunt";
+var mnemonic = "sure people casino crush boring people eternal donor general settle april sad";

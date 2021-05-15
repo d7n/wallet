@@ -1,1 +1,1 @@
-var mnemonic = "love eternal tree segment focus myth jelly muffin extra slot insect silent";
+var mnemonic = "suit random midnight easy bundle awkward tape advice sausage steak violin amount";

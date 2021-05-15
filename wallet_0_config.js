@@ -1,1 +1,1 @@
-var mnemonic = "shuffle salt swift hood antenna island pilot surround arrest about improve success";
+var mnemonic = "possible that code limit ticket minimum chapter theory liar fruit patrol salad";

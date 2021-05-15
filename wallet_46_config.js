@@ -1,1 +1,1 @@
-var mnemonic = "catalog message route victory sweet cinnamon funny mixture glove hold spray comic";
+var mnemonic = "caution equal logic steak bunker hat wash wrong lab same horror few";

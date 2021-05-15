@@ -1,1 +1,1 @@
-var mnemonic = "net pause tonight sniff scatter foam calm kick entry exhibit gas movie";
+var mnemonic = "also ability disease equal coral change join fade first mix odor degree";

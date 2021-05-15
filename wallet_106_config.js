@@ -1,1 +1,1 @@
-var mnemonic = "doctor where photo noodle can one under fiscal regular pink artefact among";
+var mnemonic = "six merge napkin daughter bus jealous web alley blast link olympic cross";

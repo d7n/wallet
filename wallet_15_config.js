@@ -1,1 +1,1 @@
-var mnemonic = "destroy protect toy aunt mistake sure million culture winner trade scheme between";
+var mnemonic = "update illegal worry minute motor merge puzzle knock scorpion arrive disorder arrive";

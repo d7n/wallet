@@ -1,1 +1,1 @@
-var mnemonic = "tail enjoy close annual deputy enhance have smoke hat ten pair sea";
+var mnemonic = "rookie promote enlist select throw minute fabric essence little advice jazz error";

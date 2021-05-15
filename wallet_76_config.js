@@ -1,1 +1,1 @@
-var mnemonic = "tourist robot suit merry grape lab video ginger design surround also stage";
+var mnemonic = "culture ripple gas stay science attack case cost bargain price gather doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "siege public proud ensure venue usage van danger wealth mutual solution dune";
+var mnemonic = "universe goddess dynamic right prize cherry salon angry afraid jacket slot all";

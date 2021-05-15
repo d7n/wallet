@@ -1,1 +1,1 @@
-var mnemonic = "please broccoli barrel sea bicycle banana grain dream fortune system topic town";
+var mnemonic = "want panel shed girl nut gloom trash disease sweet step tent foot";

@@ -1,1 +1,1 @@
-var mnemonic = "text ranch fiscal struggle snake crunch crush ask excess exit history tackle";
+var mnemonic = "vintage aerobic amazing canyon face damp ribbon such again sugar claw error";

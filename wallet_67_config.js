@@ -1,1 +1,1 @@
-var mnemonic = "head crumble alone input family piece hub wagon river ethics exercise razor";
+var mnemonic = "small innocent wheat galaxy empower festival dolphin claw lake town fall empty";

@@ -1,1 +1,1 @@
-var mnemonic = "essay rule eight true adjust soft tragic shop veteran right sick comfort";
+var mnemonic = "spirit verify filter slab together vibrant stem south size staff enemy entry";

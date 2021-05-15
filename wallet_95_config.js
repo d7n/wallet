@@ -1,1 +1,1 @@
-var mnemonic = "wink beyond sponsor absent soldier pause drill axis exist unable maximum name";
+var mnemonic = "fringe example glimpse paper tip gossip spray record solar brown review belt";

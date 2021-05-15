@@ -1,1 +1,1 @@
-var mnemonic = "inhale law worth sibling column inspire title clog letter firm tiger victory";
+var mnemonic = "scene bounce bullet reject devote clog hedgehog pipe explain cute vital speak";

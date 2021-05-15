@@ -1,1 +1,1 @@
-var mnemonic = "brief diagram auction lottery problem limit alcohol also deer skate keen funny";
+var mnemonic = "claim crystal bachelor urban science cherry bomb flower public element found into";

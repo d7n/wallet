@@ -1,1 +1,1 @@
-var mnemonic = "submit dice cabin orbit certain emotion ride april frown lawsuit oval welcome";
+var mnemonic = "math timber emotion diamond skull boss evil patch salute impose vanish fish";

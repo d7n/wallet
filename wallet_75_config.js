@@ -1,1 +1,1 @@
-var mnemonic = "onion pioneer gloom scheme pledge section olympic impulse sentence tool farm desk";
+var mnemonic = "swift affair amazing able unit album cream hundred runway put ugly poverty";

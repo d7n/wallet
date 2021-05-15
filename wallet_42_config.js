@@ -1,1 +1,1 @@
-var mnemonic = "traffic you vacant prison license novel chimney term wasp inside consider witness";
+var mnemonic = "emotion food artist letter profit inmate curve vague race knife recall uniform";

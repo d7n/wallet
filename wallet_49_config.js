@@ -1,1 +1,1 @@
-var mnemonic = "rent silver nominee change cactus express game later feed crane human drill";
+var mnemonic = "lizard vacuum shrug ship either someone ozone worry mansion toddler oppose unit";

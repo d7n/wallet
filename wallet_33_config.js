@@ -1,1 +1,1 @@
-var mnemonic = "finger tail wrestle brain giant solve sketch fury ivory charge protect defy";
+var mnemonic = "rigid blame visa shiver such remind around trophy whip atom assault notice";

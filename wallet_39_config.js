@@ -1,1 +1,1 @@
-var mnemonic = "toward galaxy lunar draft truth never expose nuclear another hammer problem deny";
+var mnemonic = "gas tenant ghost rural labor warfare kiwi cable void brisk summer siege";

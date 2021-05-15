@@ -1,1 +1,1 @@
-var mnemonic = "spend enable marble vacuum join fossil capable motion virtual monkey flip there";
+var mnemonic = "song dress minute situate asthma brief juice junior odor crime honey shrug";

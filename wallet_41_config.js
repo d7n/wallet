@@ -1,1 +1,1 @@
-var mnemonic = "lend network swamp ceiling olympic squirrel demand radar truck material neutral end";
+var mnemonic = "energy sword lonely polar debris twelve sand jazz love olive sniff special";

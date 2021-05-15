@@ -1,1 +1,1 @@
-var mnemonic = "grant joke rib believe govern catalog income beef super craft pen test";
+var mnemonic = "suffer bundle story away urge bargain welcome envelope people robot mistake educate";

@@ -1,1 +1,1 @@
-var mnemonic = "intact pink choose swim soap street simple orient horse vocal clutch ship";
+var mnemonic = "decorate drastic claim bachelor fat tornado hill robot twin decorate talent hurry";

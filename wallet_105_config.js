@@ -1,1 +1,1 @@
-var mnemonic = "acid into witness critic apology skirt lunar promote involve used blanket ugly";
+var mnemonic = "afraid sound stage sure soap few comic dragon kick lyrics welcome fatigue";

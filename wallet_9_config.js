@@ -1,1 +1,1 @@
-var mnemonic = "begin odor swamp view leave arrow proof obvious entry vote cloth monster";
+var mnemonic = "fork jelly tunnel area penalty payment scan together blame suit make venture";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden cherry sleep broken pyramid universe comfort only swamp shed soldier saddle";
+var mnemonic = "embark frozen syrup elite tilt oppose rabbit document scatter ramp marble job";

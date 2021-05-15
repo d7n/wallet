@@ -1,1 +1,1 @@
-var mnemonic = "repair husband universe arrest into key hollow year indicate slam venture forum";
+var mnemonic = "flower elite detail useless rib yard evolve scrap random large off legal";

@@ -1,1 +1,1 @@
-var mnemonic = "earn adapt soup task another slush army sting used rich comfort lab";
+var mnemonic = "midnight danger flock skirt silly visa tenant fine letter jump shy ship";

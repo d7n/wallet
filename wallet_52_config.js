@@ -1,1 +1,1 @@
-var mnemonic = "pact wool comfort night pride faint fluid siege wrist bright acquire bicycle";
+var mnemonic = "hazard script owner run noise person flash expect machine hood grunt almost";

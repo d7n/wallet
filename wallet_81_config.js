@@ -1,1 +1,1 @@
-var mnemonic = "few picnic honey dizzy core deliver chase ribbon huge danger neglect famous";
+var mnemonic = "library outdoor leg exercise east enlist glare choice village cry mix carry";

@@ -1,1 +1,1 @@
-var mnemonic = "round recall muscle patch actress pluck regret destroy hazard main leisure vault";
+var mnemonic = "someone paper suit distance tribe bleak level rent wrong protect genius fortune";

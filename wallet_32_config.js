@@ -1,1 +1,1 @@
-var mnemonic = "tail drift multiply chunk gorilla vital rather evil potato blossom close smile";
+var mnemonic = "bomb squirrel adjust age arrest eye address ghost lawn vacuum venue wheat";

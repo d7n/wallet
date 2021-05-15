@@ -1,1 +1,1 @@
-var mnemonic = "census gown average occur drink gym own badge various naive wool narrow";
+var mnemonic = "ticket sweet genuine neglect canoe game rack give head inflict reduce road";

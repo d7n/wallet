@@ -1,1 +1,1 @@
-var mnemonic = "photo imitate section curve amount vessel dust three vibrant frost useful sadness";
+var mnemonic = "target until buzz parrot october vessel acid endorse craft blossom attack weasel";

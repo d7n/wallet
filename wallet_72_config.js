@@ -1,1 +1,1 @@
-var mnemonic = "fix flag inhale doctor middle donor magic tip acquire enemy during veteran";
+var mnemonic = "filter purity hill visual pet fitness chief economy core bounce tired act";

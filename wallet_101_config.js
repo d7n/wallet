@@ -1,1 +1,1 @@
-var mnemonic = "report trophy limb coconut fame learn discover ranch refuse elegant slim robot";
+var mnemonic = "swear into fan monitor wet adjust ketchup essay tiny lend recipe orbit";

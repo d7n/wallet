@@ -1,1 +1,1 @@
-var mnemonic = "afraid state mango joy lounge civil distance prosper crumble master card index";
+var mnemonic = "ginger priority face artist topple uncle replace citizen sick detect cry dance";

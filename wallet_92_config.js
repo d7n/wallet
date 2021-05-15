@@ -1,1 +1,1 @@
-var mnemonic = "noodle shiver chicken august curtain style permit brass approve say fog logic";
+var mnemonic = "tongue spin sentence hole smooth sample siege pioneer away year fragile month";

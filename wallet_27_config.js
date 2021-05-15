@@ -1,1 +1,1 @@
-var mnemonic = "wine globe october panther try license trouble winner assist very know curve";
+var mnemonic = "clarify family taxi ask extend jeans tornado rebuild ring away stool web";

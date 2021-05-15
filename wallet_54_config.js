@@ -1,1 +1,1 @@
-var mnemonic = "tumble cable defense hockey access push shove trend abuse custom giant mule";
+var mnemonic = "skill crumble blur virus accident group blouse city jeans defy critic radar";

@@ -1,1 +1,1 @@
-var mnemonic = "civil quote embody pass exhaust retreat abandon danger dismiss stock depend march";
+var mnemonic = "net purchase fantasy baby toilet wife lounge absent burger ramp hammer enroll";

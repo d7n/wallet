@@ -1,1 +1,1 @@
-var mnemonic = "diary method tomato cruise inhale season stool talk occur gun pistol seven";
+var mnemonic = "mouse reunion inspire quality awesome protect silent treat proof cabbage artist talent";

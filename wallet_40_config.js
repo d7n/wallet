@@ -1,1 +1,1 @@
-var mnemonic = "prevent elbow tiger boil isolate audit soda tired velvet apple soon ensure";
+var mnemonic = "bar key run almost dust sauce double fuel panther slush lazy mystery";

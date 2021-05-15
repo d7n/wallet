@@ -1,1 +1,1 @@
-var mnemonic = "leader witness lake later security three sugar verb occur put phone polar";
+var mnemonic = "setup element prepare mandate dry light convince census slab over fiction climb";

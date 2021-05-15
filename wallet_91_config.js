@@ -1,1 +1,1 @@
-var mnemonic = "about iron soul demise famous awesome manage fix chicken strategy artwork abandon";
+var mnemonic = "roof quote raise shove huge display resource armor able visa person manage";

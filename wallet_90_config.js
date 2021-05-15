@@ -1,1 +1,1 @@
-var mnemonic = "jaguar want hub canoe confirm faith market fox awake orchard girl apology";
+var mnemonic = "nothing still arrow bus general already comic velvet dentist agree wine wolf";

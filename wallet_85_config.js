@@ -1,1 +1,1 @@
-var mnemonic = "fog fun sound long coyote clean month craft use throw worth lake";
+var mnemonic = "trick father useless doctor aisle mistake hospital rude spend two chalk viable";

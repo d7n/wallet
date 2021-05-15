@@ -1,1 +1,1 @@
-var mnemonic = "soon loyal bounce lawn crew into legal decade finger bottom maximum floor";
+var mnemonic = "six spend giggle inflict kind age urban beach shield lecture tower file";

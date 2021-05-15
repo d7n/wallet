@@ -1,1 +1,1 @@
-var mnemonic = "receive often pair dumb elite pass dish glove flip object drama vicious";
+var mnemonic = "rice tray butter agent transfer throw clever narrow promote volume swear pole";

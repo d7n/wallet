@@ -1,1 +1,1 @@
-var mnemonic = "grab purpose december mule rate shield correct length clap boss cycle soda";
+var mnemonic = "series spend typical one man hover bacon source subject blood shop dynamic";

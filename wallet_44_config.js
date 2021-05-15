@@ -1,1 +1,1 @@
-var mnemonic = "finger liquid blur intact rescue alpha ill liberty similar very mom elite";
+var mnemonic = "shrug illness gossip friend chief pistol believe music swap limb rhythm plate";

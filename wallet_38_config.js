@@ -1,1 +1,1 @@
-var mnemonic = "witness journey myth away crawl valid panel floor refuse master knife skate";
+var mnemonic = "ahead journey help dynamic off law pioneer detail together whisper oxygen vocal";

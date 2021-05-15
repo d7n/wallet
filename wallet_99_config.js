@@ -1,1 +1,1 @@
-var mnemonic = "goat slight duty verb book transfer ticket that course memory review forum";
+var mnemonic = "damp spirit fluid delay improve infant spin original company radio bright cheap";

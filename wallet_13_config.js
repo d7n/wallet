@@ -1,1 +1,1 @@
-var mnemonic = "hint bag skin belt hair sunny snake apart push daughter ensure grape";
+var mnemonic = "tuna trust horn force mirror embody february panther can cause upper upset";

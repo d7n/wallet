@@ -1,1 +1,1 @@
-var mnemonic = "curve bright steak match ahead left enable tray point picnic foam pause";
+var mnemonic = "empty black memory satisfy glare pioneer swarm casual among fluid census castle";

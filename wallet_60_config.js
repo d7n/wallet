@@ -1,1 +1,1 @@
-var mnemonic = "thing fashion thumb piece divorce another size kiss rare holiday canvas arrest";
+var mnemonic = "liquid chicken display peace unique airport aisle deny caught resist tank video";

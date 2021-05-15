@@ -1,1 +1,1 @@
-var mnemonic = "suspect eagle protect birth crush develop enhance manage all speak drastic hand";
+var mnemonic = "year actual stage suit wrong figure maple document view buzz wood weird";

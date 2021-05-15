@@ -1,1 +1,1 @@
-var mnemonic = "suffer town double occur will gospel together man quality girl usage help";
+var mnemonic = "domain wife chief injury pear quality put owner train spirit crane defense";

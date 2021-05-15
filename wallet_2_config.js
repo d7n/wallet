@@ -1,1 +1,1 @@
-var mnemonic = "jacket punch elbow phrase burst decide spoon quarter pond lava unfair corn";
+var mnemonic = "fashion depend veteran result wrap entire chunk keen blur flag design focus";

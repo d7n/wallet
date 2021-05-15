@@ -1,1 +1,1 @@
-var mnemonic = "explain paper rule shoulder party attack absorb unfold curve rain emerge index";
+var mnemonic = "zoo shove yard fetch seminar future amazing eyebrow seat crowd tomato tragic";

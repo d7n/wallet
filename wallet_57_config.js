@@ -1,1 +1,1 @@
-var mnemonic = "advice material humor main soup wool dust olympic strategy old example reunion";
+var mnemonic = "barely page dumb scale cruise minute solid trap stem snack bird item";

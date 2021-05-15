@@ -1,1 +1,1 @@
-var mnemonic = "gain hour mean grape wheat clutch close humor notable omit wall topic";
+var mnemonic = "glare garlic disorder hat coral ahead rival pretty pair mail dial cycle";

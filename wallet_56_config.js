@@ -1,1 +1,1 @@
-var mnemonic = "upgrade village six donor cabin inform smoke depth allow rigid sail equip";
+var mnemonic = "dose benefit lunar stay rail task whip vendor crystal wolf wage regret";

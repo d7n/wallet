@@ -1,1 +1,1 @@
-var mnemonic = "earth mammal ride swarm fetch reflect glimpse cushion liar inflict pave inherit";
+var mnemonic = "canvas edge fever age salon essay yellow eye gown giraffe guide margin";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle lucky glass mistake there card pottery bracket rice wife minute paper";
+var mnemonic = "capital era reduce actual coffee limit client ladder reform powder dinosaur divert";

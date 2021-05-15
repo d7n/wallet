@@ -1,1 +1,1 @@
-var mnemonic = "repair neither differ hint possible wink pigeon prosper inquiry october soda tip";
+var mnemonic = "pattern buyer uniform goat truly error toward result mutual taste joy prevent";

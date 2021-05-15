@@ -1,1 +1,1 @@
-var mnemonic = "ten pave hero credit guess jacket comfort poet occur dust antique suspect";
+var mnemonic = "shoot option regular chalk giant pigeon lunar cinnamon sudden twice brave toddler";

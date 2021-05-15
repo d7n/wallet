@@ -1,1 +1,1 @@
-var mnemonic = "armed fiber giant few beach crowd sausage crane catalog special vibrant addict";
+var mnemonic = "below grunt teach wash best hamster fabric erase reason fold girl tongue";

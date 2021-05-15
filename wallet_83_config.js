@@ -1,1 +1,1 @@
-var mnemonic = "capable vault toward bunker sound session cabin tilt list often rescue radio";
+var mnemonic = "glimpse course nurse tube hood company common teach run logic sponsor lake";

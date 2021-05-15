@@ -1,1 +1,1 @@
-var mnemonic = "gossip defy siege stage air diesel venture picnic shed found marine draw";
+var mnemonic = "rocket audit direct arrive acoustic three assume kick inflict laugh ready filter";

@@ -1,1 +1,1 @@
-var mnemonic = "claim bonus sweet desert update frown hand olympic chair best argue paddle";
+var mnemonic = "relax distance hockey hedgehog can drip guard north addict when fringe blouse";

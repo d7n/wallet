@@ -1,1 +1,1 @@
-var mnemonic = "robust begin stage divorce basic rally focus relief faint nature myth cruise";
+var mnemonic = "immense arm artist rug pledge trend physical once lemon army employ blossom";

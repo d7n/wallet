@@ -1,1 +1,1 @@
-var mnemonic = "toddler sail false else stick usual doctor alarm month chicken post feed";
+var mnemonic = "void useless field learn miss van ride family leopard seat fix govern";

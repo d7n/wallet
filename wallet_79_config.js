@@ -1,1 +1,1 @@
-var mnemonic = "salmon weapon domain hammer movie typical stock crunch turtle exercise service day";
+var mnemonic = "bamboo miss pass minor brush program caught focus renew cause giggle broken";

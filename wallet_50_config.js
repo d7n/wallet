@@ -1,1 +1,1 @@
-var mnemonic = "rifle adjust direct hedgehog dial daring panda punch yellow become merry witness";
+var mnemonic = "night silver echo civil vault steak radio whip afford exit soft name";

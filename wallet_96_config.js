@@ -1,1 +1,1 @@
-var mnemonic = "rain load find only antique primary skirt weapon that pink prefer shoe";
+var mnemonic = "remind also air pause thunder submit attitude fade gold phone umbrella call";

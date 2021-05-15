@@ -1,1 +1,1 @@
-var mnemonic = "champion concert certain claim airport mercy stick vote stuff damage rough short";
+var mnemonic = "asset ivory joke radio report biology trumpet mercy pottery assume inspire casual";

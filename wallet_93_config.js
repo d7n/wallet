@@ -1,1 +1,1 @@
-var mnemonic = "thrive museum basic tongue depart ill weekend voyage better bicycle click dune";
+var mnemonic = "unfair tomato runway insane glad very myself cave alter sniff real curious";

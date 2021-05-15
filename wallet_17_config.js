@@ -1,1 +1,1 @@
-var mnemonic = "spirit width path disagree sign aisle kind state pluck illness gorilla jump";
+var mnemonic = "argue aspect detect erosion eternal man vacant cattle feature visit rack rack";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn enjoy problem chase hub coyote quantum hero humor purity weasel crew";
+var mnemonic = "space short walnut paddle champion wire brisk chunk april maid usual ten";

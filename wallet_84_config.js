@@ -1,1 +1,1 @@
-var mnemonic = "wage oven welcome wisdom steel subway blue home actual fancy flight gossip";
+var mnemonic = "garment carpet much park spread split pudding kit pulse strong fee replace";

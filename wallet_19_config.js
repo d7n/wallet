@@ -1,1 +1,1 @@
-var mnemonic = "pulse barely love empty divert faith smooth visa rally faint endless nation";
+var mnemonic = "shield warrior near liquid robot judge eager donate huge drastic jazz world";

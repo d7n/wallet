@@ -1,1 +1,1 @@
-var mnemonic = "leaf ocean road head field okay carpet keep share lazy isolate discover";
+var mnemonic = "sell parade crawl milk toast guitar mixture throw rotate shallow stairs tide";

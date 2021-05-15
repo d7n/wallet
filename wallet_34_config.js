@@ -1,1 +1,1 @@
-var mnemonic = "blouse apart cube topic board basic seminar online oak crater night head";
+var mnemonic = "echo foam kitten topple glad pipe reject fall car people lizard digital";
