@@ -1,1 +1,1 @@
-var mnemonic = "property sail roast hobby cheese kid airport treat cliff gorilla obvious motion";
+var mnemonic = "cable have wing want frost metal excuse grace fragile survey wave hand";

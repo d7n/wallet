@@ -1,1 +1,1 @@
-var mnemonic = "poem solve attack thunder type slow garment urge bulk suggest double own";
+var mnemonic = "judge salmon found love argue furnace circle pig garment truth slam mule";

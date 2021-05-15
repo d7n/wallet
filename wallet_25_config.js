@@ -1,1 +1,1 @@
-var mnemonic = "train core start extend ask amount harsh vote entire festival joy direct";
+var mnemonic = "canal blame icon render wise rally message often left lobster torch list";

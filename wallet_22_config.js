@@ -1,1 +1,1 @@
-var mnemonic = "tourist drop fossil alcohol elbow unfold grit asset cause hammer gas swap";
+var mnemonic = "happy congress assume thunder praise trend vacant ketchup drill present elephant address";

@@ -1,1 +1,1 @@
-var mnemonic = "story face faint develop abandon end mountain ceiling silent pigeon rookie orphan";
+var mnemonic = "wink soda hip student model basket diesel network dust guide raccoon inquiry";

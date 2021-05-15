@@ -1,1 +1,1 @@
-var mnemonic = "sunset holiday remain kite suspect retire creek walnut receive insane steak tone";
+var mnemonic = "engine oval marble broom exit correct trend match track climb hen shell";

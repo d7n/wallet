@@ -1,1 +1,1 @@
-var mnemonic = "simple bird pear become belt vicious frozen draw crystal bullet taxi village";
+var mnemonic = "keep club bounce october stone acquire steel napkin virtual category share despair";

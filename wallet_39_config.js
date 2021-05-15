@@ -1,1 +1,1 @@
-var mnemonic = "immune truly venue melt hire hour depth stomach century tunnel acquire because";
+var mnemonic = "husband sadness make vibrant between mother romance bonus video minute barrel approve";

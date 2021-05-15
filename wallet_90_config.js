@@ -1,1 +1,1 @@
-var mnemonic = "spread shove latin embody tape stomach list slight universe twin topple aunt";
+var mnemonic = "void weapon mobile style slide view ten ocean ketchup salon menu bargain";

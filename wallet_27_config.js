@@ -1,1 +1,1 @@
-var mnemonic = "receive stable witness village end strong coconut man fence valid deer whale";
+var mnemonic = "brisk tree high zebra bicycle movie wire fox before tumble armor run";

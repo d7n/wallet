@@ -1,1 +1,1 @@
-var mnemonic = "banana private float protect code venture agree bronze razor farm crouch budget";
+var mnemonic = "local gain raw danger remind cross observe surround main medal inch inch";

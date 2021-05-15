@@ -1,1 +1,1 @@
-var mnemonic = "hawk orphan chef tunnel pride subject member verb hope fix meadow rival";
+var mnemonic = "tomorrow hamster hammer sing cannon damage senior clown rib harvest proud mixture";

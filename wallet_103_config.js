@@ -1,1 +1,1 @@
-var mnemonic = "winner police honey endless remove ski exclude ring loop chase maze grab";
+var mnemonic = "suit setup sight control final notable music aspect rice improve host picnic";

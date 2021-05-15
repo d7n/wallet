@@ -1,1 +1,1 @@
-var mnemonic = "trip body fruit neck nephew text record canoe odor garment cave kite";
+var mnemonic = "art other need start toss cable enjoy patch settle icon soup cute";

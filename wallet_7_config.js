@@ -1,1 +1,1 @@
-var mnemonic = "notice bulb debris spider dignity skirt story inspire project gown say october";
+var mnemonic = "home canoe major danger trouble ride topple swim olympic happy farm waste";

@@ -1,1 +1,1 @@
-var mnemonic = "biology girl dirt wrestle air poet smoke fog dad poverty inform barely";
+var mnemonic = "stereo hen domain marriage island mandate wolf record together bicycle spoon unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "snake fatal shaft aspect kingdom thing twelve normal shrug girl naive region";
+var mnemonic = "bike stool lawn urban sorry board zero switch educate achieve diesel put";

@@ -1,1 +1,1 @@
-var mnemonic = "slim beauty cancel hidden nut baby sister life live usual farm dizzy";
+var mnemonic = "put tragic update above erase turn edit sniff ocean casual execute trend";

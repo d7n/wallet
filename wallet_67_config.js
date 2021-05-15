@@ -1,1 +1,1 @@
-var mnemonic = "nasty flash switch pitch yellow glimpse spin typical symptom better medal flat";
+var mnemonic = "fire fame isolate mystery thing daughter about rail shine stumble mango valley";

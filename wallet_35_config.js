@@ -1,1 +1,1 @@
-var mnemonic = "harvest noise boring input ethics lion keep lake humor people mimic until";
+var mnemonic = "betray toy again blind style assist agree wear hold absorb guilt west";

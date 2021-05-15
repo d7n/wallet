@@ -1,1 +1,1 @@
-var mnemonic = "mixed response pudding silver need bachelor chaos pledge snack life zone enroll";
+var mnemonic = "hospital win marble tackle easily cricket other caution immense initial position naive";

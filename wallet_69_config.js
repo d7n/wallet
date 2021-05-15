@@ -1,1 +1,1 @@
-var mnemonic = "height stool never decade diet shop donkey certain tattoo eye fly wild";
+var mnemonic = "bread melt author fog dash minute carry normal fatal wink burden point";

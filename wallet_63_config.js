@@ -1,1 +1,1 @@
-var mnemonic = "know toy unique merge cry hero embark miss episode afford blush diet";
+var mnemonic = "stay wife fiction stereo math rookie electric awkward sweet radar carry render";

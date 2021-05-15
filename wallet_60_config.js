@@ -1,1 +1,1 @@
-var mnemonic = "reject very sure ribbon one flavor column online roof pulp trap attack";
+var mnemonic = "little tiger middle exile fence release tide imitate quality leisure useless job";

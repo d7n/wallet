@@ -1,1 +1,1 @@
-var mnemonic = "asthma salute woman hold glad silent modify object hollow infant make spread";
+var mnemonic = "raccoon woman involve region private pool flee broken human business eye soldier";

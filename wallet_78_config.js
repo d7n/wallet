@@ -1,1 +1,1 @@
-var mnemonic = "marine stuff bounce adapt penalty rival photo iron web plug shed bacon";
+var mnemonic = "allow like pistol wonder inflict disagree hurry paddle minor ship upper drum";

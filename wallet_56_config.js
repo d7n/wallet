@@ -1,1 +1,1 @@
-var mnemonic = "twice curtain tone armed level puppy total chronic load view harsh aisle";
+var mnemonic = "direct script same orient elite legal dinosaur palace toilet team pepper taste";

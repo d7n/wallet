@@ -1,1 +1,1 @@
-var mnemonic = "dentist trouble material rose shaft scatter neither language dial machine chuckle lumber";
+var mnemonic = "coast float arrest harvest bone dry van orchard badge behave cliff horn";

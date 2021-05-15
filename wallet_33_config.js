@@ -1,1 +1,1 @@
-var mnemonic = "report elite oyster damp camera best suspect pull cactus mass cry satisfy";
+var mnemonic = "they hold mass melt clever extra ill supply emotion now zoo unusual";

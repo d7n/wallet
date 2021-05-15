@@ -1,1 +1,1 @@
-var mnemonic = "talent caught limb tent frown magnet inject patch arrange endless gallery churn";
+var mnemonic = "anxiety kind drift now convince seven attend simple shell peanut anxiety basket";

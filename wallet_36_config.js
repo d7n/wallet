@@ -1,1 +1,1 @@
-var mnemonic = "desert depend tank jacket tool shoe ill embrace evil ivory client sunset";
+var mnemonic = "acid quantum pill minor reduce elephant retire meadow across course endless motion";

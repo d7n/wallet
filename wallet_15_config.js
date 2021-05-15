@@ -1,1 +1,1 @@
-var mnemonic = "code cruise suspect reduce cinnamon humor design bottom manual clinic essence fringe";
+var mnemonic = "fame athlete series cluster arctic reopen surround urban chef spirit accuse flip";

@@ -1,1 +1,1 @@
-var mnemonic = "exist quiz nephew choice spice unveil liquid tank amount argue inner soul";
+var mnemonic = "shove diamond syrup critic ask toy business way idle matter mimic inch";

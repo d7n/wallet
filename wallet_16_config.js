@@ -1,1 +1,1 @@
-var mnemonic = "seminar tennis amused story ten drip resource uniform weasel concert ghost winter";
+var mnemonic = "will debate crater trim math cushion give family bicycle luggage thunder kiwi";

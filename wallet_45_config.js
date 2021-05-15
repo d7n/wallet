@@ -1,1 +1,1 @@
-var mnemonic = "cube cup file twenty when language okay rubber inhale attract brave cradle";
+var mnemonic = "turtle sight caution hunt minute whisper pipe wrist baby chase crowd absurd";

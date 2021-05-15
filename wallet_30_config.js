@@ -1,1 +1,1 @@
-var mnemonic = "route cheese direct identify please boat broken moment stomach stable avocado maximum";
+var mnemonic = "valley asthma armed census later uncover school once mushroom swear urban melody";

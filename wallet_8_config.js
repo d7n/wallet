@@ -1,1 +1,1 @@
-var mnemonic = "hammer run trumpet extra dial prize stick filter neck speak injury super";
+var mnemonic = "use venture cram shift devote permit only wisdom foster badge damp trust";

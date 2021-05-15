@@ -1,1 +1,1 @@
-var mnemonic = "upper near ill normal coil wreck peanut wrap depend spike punch inspire";
+var mnemonic = "setup toward thumb palm vivid shrug skirt idea enhance rail lamp step";

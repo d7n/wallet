@@ -1,1 +1,1 @@
-var mnemonic = "alone clever either holiday tip nasty report pizza elbow gossip there sense";
+var mnemonic = "cheese depart spot shy net balcony copy morning regular maze civil balcony";

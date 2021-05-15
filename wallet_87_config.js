@@ -1,1 +1,1 @@
-var mnemonic = "tell digital wise nose text staff know cotton gift gallery ankle fatigue";
+var mnemonic = "harsh pride winter cause year float glance analyst lady sponsor stadium elder";

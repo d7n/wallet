@@ -1,1 +1,1 @@
-var mnemonic = "behave diet awkward inner where drama disease educate utility into tray rug";
+var mnemonic = "empty thing knife violin talk kind soldier attitude exhaust arrive subway swear";

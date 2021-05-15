@@ -1,1 +1,1 @@
-var mnemonic = "kitchen click run marble slam regret open economy urban adult lady media";
+var mnemonic = "miss thank praise coach wrong blame vivid hold energy olympic own quiz";

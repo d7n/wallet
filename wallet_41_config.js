@@ -1,1 +1,1 @@
-var mnemonic = "venue urge inner odor polar steel volume peasant useless sort fly erase";
+var mnemonic = "endless stove assume fish record poverty promote fitness scatter outdoor matrix replace";

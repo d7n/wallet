@@ -1,1 +1,1 @@
-var mnemonic = "wire sure leader ancient know display raccoon perfect canvas mirror slight erupt";
+var mnemonic = "birth dream lecture senior opinion youth idle coil venture divide truth blood";

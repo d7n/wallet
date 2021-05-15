@@ -1,1 +1,1 @@
-var mnemonic = "undo print plunge retreat zoo talent rescue fault dose lesson window similar";
+var mnemonic = "better year chimney struggle endless satoshi sea repair devote purity hint original";

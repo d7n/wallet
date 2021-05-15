@@ -1,1 +1,1 @@
-var mnemonic = "duck total defense spread husband uncle depart myself wide steel river ticket";
+var mnemonic = "parent purity success what equip display rug together latin plug chest lyrics";

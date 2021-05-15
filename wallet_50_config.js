@@ -1,1 +1,1 @@
-var mnemonic = "train bone cereal pink bamboo original execute lazy dad employ science found";
+var mnemonic = "fox spoil table burger twist leaf armed vapor tenant census talk dry";

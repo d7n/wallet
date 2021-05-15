@@ -1,1 +1,1 @@
-var mnemonic = "use main joy section narrow annual bleak detail novel absurd receive use";
+var mnemonic = "trend space dignity glow move hungry blue chapter cancel make balance rail";

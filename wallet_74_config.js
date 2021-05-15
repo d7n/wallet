@@ -1,1 +1,1 @@
-var mnemonic = "dirt sentence hundred bulk neutral again sun small tornado twenty run habit";
+var mnemonic = "stay damp canyon sketch build year pottery visa dragon review sponsor next";

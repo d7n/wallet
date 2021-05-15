@@ -1,1 +1,1 @@
-var mnemonic = "van evidence depth original kind boil genre rough rather quality sun uncle";
+var mnemonic = "ozone barely tuna humor relax carbon upon order stand ice couch fat";

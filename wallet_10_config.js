@@ -1,1 +1,1 @@
-var mnemonic = "fence world foil topple web jelly pipe enlist company exist cousin grab";
+var mnemonic = "receive random bamboo stem fringe order couch glimpse twelve bitter corn tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug fade novel wide vacant match kid insane raise danger song exact";
+var mnemonic = "midnight wreck monitor panic funny guard cotton riot mixture dilemma sail tube";

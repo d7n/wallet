@@ -1,1 +1,1 @@
-var mnemonic = "admit clip that assist sheriff laundry toe laugh slow relief penalty agree";
+var mnemonic = "wrong ticket equip friend twelve fit odor credit exhaust false ripple expire";

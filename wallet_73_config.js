@@ -1,1 +1,1 @@
-var mnemonic = "spray museum tunnel glue unveil phrase ecology gun zoo venture render donkey";
+var mnemonic = "hundred champion obscure skirt double forward couple wasp wall muffin face frozen";

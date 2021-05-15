@@ -1,1 +1,1 @@
-var mnemonic = "review bounce outside indoor amount elbow volume try mean force patrol tribe";
+var mnemonic = "burden tiger borrow voice note soon cinnamon table chef worth stereo ivory";

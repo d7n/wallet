@@ -1,1 +1,1 @@
-var mnemonic = "elder must swim design quick tag find card movie apart fade knee";
+var mnemonic = "state enlist hole battle drink away fragile acquire piece dizzy over siege";

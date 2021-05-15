@@ -1,1 +1,1 @@
-var mnemonic = "civil isolate vacant move firm lock ask uphold spawn piano garden enemy";
+var mnemonic = "public giggle away cash rough enroll sleep aerobic stable wild antique letter";

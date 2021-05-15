@@ -1,1 +1,1 @@
-var mnemonic = "afraid drill kid price face book palace entry achieve indicate vintage wing";
+var mnemonic = "divert soccer female zone pretty must gallery wife detect flame sibling retire";

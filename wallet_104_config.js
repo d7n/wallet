@@ -1,1 +1,1 @@
-var mnemonic = "insect circle venture liberty slot topple jewel accuse relax magic work limb";
+var mnemonic = "sail stem final meat caution will adapt virtual door one dinner book";

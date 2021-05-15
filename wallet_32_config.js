@@ -1,1 +1,1 @@
-var mnemonic = "giggle elephant gesture eight wolf base obey impose candy citizen plastic coral";
+var mnemonic = "gas under noble bring object wise fee steel jacket uniform focus sport";

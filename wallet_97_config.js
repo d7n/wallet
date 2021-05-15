@@ -1,1 +1,1 @@
-var mnemonic = "emotion feature blind vapor ill vacant copper library quit valid digital upon";
+var mnemonic = "mountain seven ahead boil attend monkey mammal bomb alien good input diary";

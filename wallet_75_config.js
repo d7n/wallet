@@ -1,1 +1,1 @@
-var mnemonic = "kind salmon egg way avocado remember polar thunder energy barrel mesh napkin";
+var mnemonic = "beyond hen maximum imitate walk unfold inject roof hamster inject wine napkin";

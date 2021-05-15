@@ -1,1 +1,1 @@
-var mnemonic = "elephant lizard dune defy keen jar case resource tide lunar trip decrease";
+var mnemonic = "local boy vast pigeon print taxi lucky sample clay misery toilet whale";

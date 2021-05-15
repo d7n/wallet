@@ -1,1 +1,1 @@
-var mnemonic = "sock month dry post satoshi margin boring gun walnut output toward laundry";
+var mnemonic = "divorce crumble indoor have common clip ethics child tomorrow apology hover hawk";

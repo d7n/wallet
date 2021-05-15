@@ -1,1 +1,1 @@
-var mnemonic = "address follow siren key skate divert lunar ostrich mushroom tumble alarm urban";
+var mnemonic = "undo holiday bomb sleep kite possible blame swamp kick announce dial company";

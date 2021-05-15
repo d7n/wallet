@@ -1,1 +1,1 @@
-var mnemonic = "gravity oval federal say shoulder worth envelope word penalty manage wife become";
+var mnemonic = "phone trust coyote ghost describe assist nothing mammal minute snake south cement";

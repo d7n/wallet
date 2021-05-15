@@ -1,1 +1,1 @@
-var mnemonic = "wrist devote enjoy cheese garlic mean trust trick mixture logic vacant spike";
+var mnemonic = "act broom dignity moment dwarf lawn predict offer moment tunnel cigar recall";

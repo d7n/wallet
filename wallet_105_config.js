@@ -1,1 +1,1 @@
-var mnemonic = "muffin glove magnet version grace ask galaxy friend profit inch world equal";
+var mnemonic = "cheese post execute enjoy derive concert sport hero neutral slab blind cactus";

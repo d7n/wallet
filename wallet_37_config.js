@@ -1,1 +1,1 @@
-var mnemonic = "broom awesome illness beach rapid supply like stereo seed urge elite bone";
+var mnemonic = "change sound gadget portion climb unit illegal silver utility sponsor weekend usage";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle kidney south version series inspire wisdom weapon near what odor emerge";
+var mnemonic = "galaxy grace able slogan fresh orchard brand stomach cable stove inspire winner";

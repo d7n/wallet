@@ -1,1 +1,1 @@
-var mnemonic = "smart tree rally ankle soft achieve thank craft fitness hammer present parade";
+var mnemonic = "tourist dumb nothing inform fee gas report hamster penalty over room loop";

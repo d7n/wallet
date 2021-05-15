@@ -1,1 +1,1 @@
-var mnemonic = "panic bachelor uphold laptop bullet antenna math adult certain essence lunch sample";
+var mnemonic = "captain size bubble voyage nothing tide leg also sphere resemble cement loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "denial harbor furnace symbol unaware want candy alley response orphan pride craft";
+var mnemonic = "hundred tool toward sense inside problem warfare rough acquire arena custom ordinary";

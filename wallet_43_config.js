@@ -1,1 +1,1 @@
-var mnemonic = "entry random harvest devote luggage outer invite lock enlist sheriff wave shy";
+var mnemonic = "rubber drastic mention govern fever cradle rate rifle pyramid coil hazard inmate";

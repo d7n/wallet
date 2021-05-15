@@ -1,1 +1,1 @@
-var mnemonic = "twice key door mail rubber flight genius figure wolf grief raven unknown";
+var mnemonic = "atom tilt amazing oven thought pact purchase glove such lawn enable kind";

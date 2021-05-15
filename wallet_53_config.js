@@ -1,1 +1,1 @@
-var mnemonic = "observe wealth helmet upgrade capital doll useful prefer patch sunset cereal wise";
+var mnemonic = "dilemma delay phrase predict accuse tell holiday mercy salmon release shift odor";

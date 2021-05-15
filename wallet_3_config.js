@@ -1,1 +1,1 @@
-var mnemonic = "correct fruit desk fringe uncle supreme horn winter cushion good liquid deer";
+var mnemonic = "harvest ignore review typical lunar mule humor skate enter actor invite athlete";

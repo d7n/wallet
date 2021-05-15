@@ -1,1 +1,1 @@
-var mnemonic = "glove mirror carbon comfort october child little exhibit town wing box wagon";
+var mnemonic = "cruise tell orbit bracket more dress guilt donate daring license merge fancy";

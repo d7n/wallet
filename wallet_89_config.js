@@ -1,1 +1,1 @@
-var mnemonic = "mosquito explain spread blanket cycle print simple flip fossil seminar firm predict";
+var mnemonic = "quality nerve hurt valid matter report tower size swear hub bundle flush";

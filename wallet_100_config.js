@@ -1,1 +1,1 @@
-var mnemonic = "juice joke bullet garment typical assault mountain real noodle during oak fold";
+var mnemonic = "health couple large uphold prize pave panda delay husband live carbon tomorrow";

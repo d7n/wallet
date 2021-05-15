@@ -1,1 +1,1 @@
-var mnemonic = "tower any comic obvious obtain interest lyrics embody fantasy grocery ordinary topic";
+var mnemonic = "mad spend book proof orange pencil devote buzz input other dune bonus";

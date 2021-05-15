@@ -1,1 +1,1 @@
-var mnemonic = "crisp dragon lumber metal deposit drill adjust armed warfare erase glare romance";
+var mnemonic = "initial setup lawn laundry dress audit robust verb hello garbage damage average";

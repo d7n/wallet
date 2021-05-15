@@ -1,1 +1,1 @@
-var mnemonic = "joke predict fork tip soon scorpion among monster annual diamond bar hedgehog";
+var mnemonic = "maximum win wonder mesh boring knee unable lucky else diary much salute";

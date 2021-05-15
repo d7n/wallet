@@ -1,1 +1,1 @@
-var mnemonic = "judge ginger wrap city puppy kingdom merry uncover mad brisk gift web";
+var mnemonic = "today behind oven margin birth fabric shaft income execute display dinner nut";

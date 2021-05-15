@@ -1,1 +1,1 @@
-var mnemonic = "load slush lecture tongue begin stereo setup prison trial switch river round";
+var mnemonic = "turtle hood address matrix ghost brush rail unfold eager pole smoke turn";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage brain moment kangaroo series spare little supreme dwarf congress letter burst";
+var mnemonic = "memory cruel size belt ugly vocal economy sphere swamp either latin script";

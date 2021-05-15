@@ -1,1 +1,1 @@
-var mnemonic = "narrow uniform river april upon horror already dirt right cattle plug sleep";
+var mnemonic = "sight uniform million settle banner moon craft opinion mean win catch destroy";

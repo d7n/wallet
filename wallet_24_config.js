@@ -1,1 +1,1 @@
-var mnemonic = "exercise goat adult coral harvest mutual perfect panther rally magic oxygen absurd";
+var mnemonic = "same job work mushroom call material reduce announce bachelor royal scrub moment";

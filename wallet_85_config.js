@@ -1,1 +1,1 @@
-var mnemonic = "income all amazing bag awesome sample flavor flash middle fox wink road";
+var mnemonic = "tennis rack catch faith hollow sort cat soap outdoor craft bench clap";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic cake misery spend ranch ill rare surface rally convince faculty roast";
+var mnemonic = "cry avoid coyote turkey reveal embrace ice crane circle milk bench chest";

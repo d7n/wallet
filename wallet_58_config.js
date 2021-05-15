@@ -1,1 +1,1 @@
-var mnemonic = "avoid drama mansion tomato chunk man harvest resist artist crime pudding cradle";
+var mnemonic = "during proof mosquito profit check opinion iron jacket once pig business afford";

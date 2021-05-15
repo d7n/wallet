@@ -1,1 +1,1 @@
-var mnemonic = "upper pledge doctor nut outer flavor alter supreme detect grief pilot retire";
+var mnemonic = "unique coconut manual certain pattern stumble horror waste spirit base cat hospital";

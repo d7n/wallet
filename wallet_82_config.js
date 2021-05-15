@@ -1,1 +1,1 @@
-var mnemonic = "bleak name day era organ siege adapt napkin tobacco muffin beauty page";
+var mnemonic = "miss dune outdoor mixed mother device notice feed achieve lumber rubber entire";
