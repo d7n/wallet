@@ -1,1 +1,1 @@
-var mnemonic = "royal slam kidney holiday drift explain legend naive language orbit wrong column";
+var mnemonic = "pistol shoulder force verify list acid illegal frame steel toss fiction bench";

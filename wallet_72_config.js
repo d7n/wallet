@@ -1,1 +1,1 @@
-var mnemonic = "lounge observe danger wire caution security brush decade pretty music loan voyage";
+var mnemonic = "trophy album term relax bunker brother arch phone defy idea safe resist";

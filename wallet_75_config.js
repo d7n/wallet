@@ -1,1 +1,1 @@
-var mnemonic = "open marble system actual evoke jewel script nerve decide rain brave awake";
+var mnemonic = "area crumble post observe half woman memory nothing drive unaware crawl confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "first idea dress opera wall drift network obtain what spring degree suspect";
+var mnemonic = "body purse right spy suspect fiber label swarm mention army divert sing";

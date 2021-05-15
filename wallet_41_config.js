@@ -1,1 +1,1 @@
-var mnemonic = "hire crew few crystal clap accident lunar lottery coach harsh human split";
+var mnemonic = "plunge brother file bulk grass please victory wealth carry north salmon dove";

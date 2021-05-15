@@ -1,1 +1,1 @@
-var mnemonic = "vessel maple spy seek item category length rural hard child staff wrong";
+var mnemonic = "climb welcome daughter rose profit change sheriff minor palm enroll vacuum fat";

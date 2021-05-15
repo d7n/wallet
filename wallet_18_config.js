@@ -1,1 +1,1 @@
-var mnemonic = "unfold frame cotton convince parade boss flock guard robust certain deny rival";
+var mnemonic = "humble ten behave able under bus proud treat primary deer hire record";

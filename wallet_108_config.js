@@ -1,1 +1,1 @@
-var mnemonic = "volcano decorate kite level praise often north rocket team myself great inspire";
+var mnemonic = "exile path decade entire minimum spice garbage segment ridge poet clip you";

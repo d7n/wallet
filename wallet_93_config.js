@@ -1,1 +1,1 @@
-var mnemonic = "shallow material spike laundry eager dish tribe cloth relief cake soccer life";
+var mnemonic = "rich open fold company hunt rifle tree tobacco valve blouse expose bag";

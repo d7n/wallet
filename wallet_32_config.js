@@ -1,1 +1,1 @@
-var mnemonic = "poet cable pipe glad usage naive program fall material corn horror favorite";
+var mnemonic = "run family behave say basic soup burden used cave pink crime stand";

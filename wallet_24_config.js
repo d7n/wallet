@@ -1,1 +1,1 @@
-var mnemonic = "swim source memory core seek prepare aim paddle detail parrot maple ignore";
+var mnemonic = "topic people two proof worth rely castle song person usual album enact";

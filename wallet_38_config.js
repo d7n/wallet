@@ -1,1 +1,1 @@
-var mnemonic = "bonus hybrid give wealth brush acoustic live blush step silver soldier leopard";
+var mnemonic = "security utility lend film salad lumber grunt more argue trade mad crime";

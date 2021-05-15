@@ -1,1 +1,1 @@
-var mnemonic = "fringe glare banner drill giraffe curtain scheme body news blur during subway";
+var mnemonic = "sound twist squeeze okay boil term front permit vicious isolate laundry annual";

@@ -1,1 +1,1 @@
-var mnemonic = "ski concert task broken danger citizen select eight sting next style describe";
+var mnemonic = "school inform display need owner together umbrella impact exchange pencil sponsor talent";

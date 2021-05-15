@@ -1,1 +1,1 @@
-var mnemonic = "author rib shoot crawl flush furnace stereo trial slight ahead response tip";
+var mnemonic = "credit kitten very kitten engine picnic merit adult section october gap raise";

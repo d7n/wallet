@@ -1,1 +1,1 @@
-var mnemonic = "never soccer seven favorite crater fabric slam early sense kitten relax hood";
+var mnemonic = "exile tissue survey brain invite worth cave divorce fold noble boat approve";

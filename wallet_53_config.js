@@ -1,1 +1,1 @@
-var mnemonic = "siege daughter expect disorder defy measure friend develop rain double prevent diagram";
+var mnemonic = "royal submit produce carry dynamic camp release album lens walnut yard expect";

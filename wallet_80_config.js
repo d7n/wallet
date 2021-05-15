@@ -1,1 +1,1 @@
-var mnemonic = "topple over raccoon nuclear garment loyal clap pony burden inherit mandate spread";
+var mnemonic = "ketchup much lion tide warm flat shell question spike practice spray warm";

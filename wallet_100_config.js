@@ -1,1 +1,1 @@
-var mnemonic = "board diary raw sign carpet across nominee slogan purity globe evil make";
+var mnemonic = "couple again congress party dolphin immense recycle wedding boy machine melody need";

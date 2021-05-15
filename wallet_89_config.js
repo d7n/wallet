@@ -1,1 +1,1 @@
-var mnemonic = "soul venture advice donkey cool remind slim trip major love buffalo odor";
+var mnemonic = "rail fault client forget slow express stuff auto ahead rain liquid fresh";

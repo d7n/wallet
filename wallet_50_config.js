@@ -1,1 +1,1 @@
-var mnemonic = "couch zone depart lyrics muffin view history room giraffe hidden whale merit";
+var mnemonic = "tank laundry rain settle lottery fossil fame push this sunset such powder";

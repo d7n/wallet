@@ -1,1 +1,1 @@
-var mnemonic = "family pig debris include popular sure glow walnut custom unveil wire edit";
+var mnemonic = "gadget jewel skate belt when media correct ladder shoot left cage tortoise";

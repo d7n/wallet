@@ -1,1 +1,1 @@
-var mnemonic = "load suspect fruit hurt scale begin fortune mad foil educate essence fringe";
+var mnemonic = "spy carry allow palace smile under hundred speed draft benefit harbor equip";

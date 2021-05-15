@@ -1,1 +1,1 @@
-var mnemonic = "tilt glide frown found young abuse someone foot foster lion pitch shuffle";
+var mnemonic = "excite skull scorpion lumber faint caution pelican face utility address solve mirror";

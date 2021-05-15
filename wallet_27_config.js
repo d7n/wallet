@@ -1,1 +1,1 @@
-var mnemonic = "trial taste hour romance spot simple input across finger jazz spirit game";
+var mnemonic = "sing phrase pretty anchor child such token bless advice that patch glide";

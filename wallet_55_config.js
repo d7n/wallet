@@ -1,1 +1,1 @@
-var mnemonic = "round thought million trim pizza art glad pear social squirrel advice glimpse";
+var mnemonic = "secret rule blood daring obey glare grain shoulder weird unlock upper cube";

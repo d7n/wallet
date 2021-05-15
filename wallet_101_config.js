@@ -1,1 +1,1 @@
-var mnemonic = "fetch settle history bacon bread spray agent begin warfare drop federal noodle";
+var mnemonic = "town switch elbow crack word cause will cycle sign drama unhappy estate";

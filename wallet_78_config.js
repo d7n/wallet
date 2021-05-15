@@ -1,1 +1,1 @@
-var mnemonic = "lunar quarter below debate trial ethics favorite fluid tribe bridge since walnut";
+var mnemonic = "federal attack pledge antique bronze catch outer pilot report genius among mask";

@@ -1,1 +1,1 @@
-var mnemonic = "menu doll pond rigid diagram pepper trigger prize happy supply bean gentle";
+var mnemonic = "winner suffer tribe response inject else cherry resist vapor effort grace coconut";

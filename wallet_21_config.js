@@ -1,1 +1,1 @@
-var mnemonic = "prosper weasel purse view swap grit believe laundry federal alien any cherry";
+var mnemonic = "impact square place stable yellow myself speak cricket enemy ocean arrow final";

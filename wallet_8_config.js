@@ -1,1 +1,1 @@
-var mnemonic = "onion essay dice iron clump enforce pottery tip fiction beyond hard fabric";
+var mnemonic = "sunny carbon cement diet mercy churn victory pause okay boy onion keep";

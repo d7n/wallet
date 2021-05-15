@@ -1,1 +1,1 @@
-var mnemonic = "quick fade stereo scrub juice can angry erase visual host picnic note";
+var mnemonic = "repair forget book window index jeans erosion put appear shaft faint divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "script property rich truly limb culture acoustic arm key alone order hip";
+var mnemonic = "civil manual ticket today gasp equal despair train enemy crew leave amazing";

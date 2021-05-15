@@ -1,1 +1,1 @@
-var mnemonic = "toy afford keen sock bird primary erode crack group early true tortoise";
+var mnemonic = "leopard teach sad flock quick warfare rather evidence foot unlock armed viable";

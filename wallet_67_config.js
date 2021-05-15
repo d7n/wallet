@@ -1,1 +1,1 @@
-var mnemonic = "noble spice vanish tilt wave melt lawsuit endorse mango drama kingdom rigid";
+var mnemonic = "pond catch believe erosion invest analyst require increase tobacco term essay federal";

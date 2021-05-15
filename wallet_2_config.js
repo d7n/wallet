@@ -1,1 +1,1 @@
-var mnemonic = "snap left pledge soon famous logic ensure average anger autumn immense earn";
+var mnemonic = "panic paper elbow undo mass about trial twenty resource fashion hard boss";

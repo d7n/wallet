@@ -1,1 +1,1 @@
-var mnemonic = "job journey club stereo raise pattern control opinion cup seek minor outer";
+var mnemonic = "room erosion south oppose tongue believe flip talent consider ramp tortoise legend";

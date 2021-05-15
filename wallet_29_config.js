@@ -1,1 +1,1 @@
-var mnemonic = "rose artefact drama gloom erupt wide volume old drive observe chair spatial";
+var mnemonic = "gospel verify december great slender swarm swamp rule ostrich car genuine duty";

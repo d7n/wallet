@@ -1,1 +1,1 @@
-var mnemonic = "sand clog impact boy citizen pioneer weird section squirrel caught vicious stuff";
+var mnemonic = "excess tornado glide news grain current announce dutch square true lonely mutual";

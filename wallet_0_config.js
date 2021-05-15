@@ -1,1 +1,1 @@
-var mnemonic = "token beauty target beyond someone reflect humble essence sustain catalog script valley";
+var mnemonic = "chief double exclude spend convince wreck monster zoo type myth fragile federal";

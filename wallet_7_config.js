@@ -1,1 +1,1 @@
-var mnemonic = "typical basket neglect portion myth hurdle cook approve mobile lab wage inspire";
+var mnemonic = "thunder lecture arctic bitter crush ice tower identify accuse fan enable car";

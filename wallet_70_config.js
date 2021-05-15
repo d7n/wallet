@@ -1,1 +1,1 @@
-var mnemonic = "tree talk old pond evolve cover have angry bulb number loyal cable";
+var mnemonic = "panther imitate push zebra tortoise same flag two various region sugar puppy";

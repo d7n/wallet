@@ -1,1 +1,1 @@
-var mnemonic = "riot occur make program junk vessel cigar fitness theme canoe proud example";
+var mnemonic = "fiction burst pyramid pelican kick sample increase infant smoke silk inner charge";

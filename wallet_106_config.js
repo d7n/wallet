@@ -1,1 +1,1 @@
-var mnemonic = "swear soap attract pet comfort agent always silly match engage couch sell";
+var mnemonic = "merry travel ostrich curious depth scorpion profit hidden motion forest expose method";

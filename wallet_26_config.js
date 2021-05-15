@@ -1,1 +1,1 @@
-var mnemonic = "pluck elbow moment palm tent fitness name absent palm chef render plunge";
+var mnemonic = "shoe long celery wolf bless enact lemon orange scare saddle busy giant";

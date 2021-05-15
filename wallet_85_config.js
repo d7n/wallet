@@ -1,1 +1,1 @@
-var mnemonic = "morning romance movie short soldier lucky wage tape leader hedgehog tube energy";
+var mnemonic = "provide boil arena ill flush unit total veteran outside ask peanut fever";

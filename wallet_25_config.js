@@ -1,1 +1,1 @@
-var mnemonic = "matrix denial forest frame split actual please seminar owner chat vintage fan";
+var mnemonic = "resemble abandon vivid shed derive extend hawk melt open moral quantum pen";

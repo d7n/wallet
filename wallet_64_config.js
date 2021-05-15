@@ -1,1 +1,1 @@
-var mnemonic = "balcony taste few warfare length brown diesel inherit country cart mimic scheme";
+var mnemonic = "foil amateur total desk category chat remove summer loop child catalog topple";

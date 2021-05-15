@@ -1,1 +1,1 @@
-var mnemonic = "capable choice dizzy tackle attack roof van tank cement inch abandon shop";
+var mnemonic = "fitness stage crash melt ring bulb volume cube error poet notice neck";

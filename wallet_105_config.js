@@ -1,1 +1,1 @@
-var mnemonic = "merry camera feed park return slot behind alley short hurdle file mix";
+var mnemonic = "scissors detail spin solve funny fancy roof verb speak cannon shop blue";

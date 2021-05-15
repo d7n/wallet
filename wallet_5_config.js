@@ -1,1 +1,1 @@
-var mnemonic = "grunt envelope side rebel huge blouse minor repair jealous fringe special soap";
+var mnemonic = "elegant obtain coast waste close boat foster leisure light video coral tilt";

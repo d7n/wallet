@@ -1,1 +1,1 @@
-var mnemonic = "cactus cargo west select gate couch emotion expose crater flip flip sting";
+var mnemonic = "dawn timber panda melt biology vibrant garment profit raccoon club file patrol";

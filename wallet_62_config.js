@@ -1,1 +1,1 @@
-var mnemonic = "tree pig neglect auto same actor renew zebra gas legal business monkey";
+var mnemonic = "twelve trouble give horror pledge crisp action soap around loud finish rather";

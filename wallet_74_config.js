@@ -1,1 +1,1 @@
-var mnemonic = "wheat nothing combine spare uniform cloth express solve year diesel nation lady";
+var mnemonic = "lucky cute that soup funny light harsh genius divorce slam omit define";

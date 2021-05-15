@@ -1,1 +1,1 @@
-var mnemonic = "just sadness document power method govern chicken hard riot stereo dizzy labor";
+var mnemonic = "spread current auction mix kidney turn profit virus scare nose math today";

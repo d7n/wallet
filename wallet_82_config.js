@@ -1,1 +1,1 @@
-var mnemonic = "champion brush hover direct reflect divide captain drama faint install fun warfare";
+var mnemonic = "federal chat hundred broken obscure february ribbon over genre trap sick screen";

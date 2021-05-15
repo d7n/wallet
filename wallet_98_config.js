@@ -1,1 +1,1 @@
-var mnemonic = "train object embark merge alley talk slight bag merge club during left";
+var mnemonic = "dress night slam spend tool garden place wish shock cruise cabbage crush";

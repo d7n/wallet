@@ -1,1 +1,1 @@
-var mnemonic = "mimic tongue year once pepper rubber quantum large pudding glance energy behave";
+var mnemonic = "rescue dog aware measure biology spice soon open shed awake repeat offer";

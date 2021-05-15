@@ -1,1 +1,1 @@
-var mnemonic = "local burger silly hurt abstract scheme token hat horse speak devote siege";
+var mnemonic = "interest hope coin penalty busy leopard ancient broccoli leg furnace tuna drill";

@@ -1,1 +1,1 @@
-var mnemonic = "visit home occur flat cry stove senior glad forum gospel body remove";
+var mnemonic = "orphan illness van lesson useless radio today antenna exercise result right fault";

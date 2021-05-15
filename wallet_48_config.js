@@ -1,1 +1,1 @@
-var mnemonic = "lake hurry weird width young uniform drum nest candy film oil kid";
+var mnemonic = "poem domain base shield rule gossip quantum tornado jaguar quick destroy notable";

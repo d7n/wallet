@@ -1,1 +1,1 @@
-var mnemonic = "run actor oblige claw aspect habit state correct street giant found umbrella";
+var mnemonic = "boring quit supreme broccoli calm cycle season cave basic action citizen divorce";

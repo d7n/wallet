@@ -1,1 +1,1 @@
-var mnemonic = "good smart acid radio balcony frame cereal cattle orange limit glare arrest";
+var mnemonic = "little okay diagram hybrid waste width learn bracket tank feature flame ripple";

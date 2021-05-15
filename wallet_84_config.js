@@ -1,1 +1,1 @@
-var mnemonic = "way learn empty derive economy mass warfare spot balcony reopen various eight";
+var mnemonic = "glory fit leopard east alien bind play reduce mask amazing depart sausage";

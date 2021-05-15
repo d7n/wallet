@@ -1,1 +1,1 @@
-var mnemonic = "visual turtle fault rubber talk engine raw boy gown try rib purity";
+var mnemonic = "clerk trip head release typical typical mass country urban angry token hello";

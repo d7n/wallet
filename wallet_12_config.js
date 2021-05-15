@@ -1,1 +1,1 @@
-var mnemonic = "exotic off human woman inspire swamp into average copper great achieve fortune";
+var mnemonic = "dinosaur adult brush mutual arrest omit caught buzz body asset hurry charge";

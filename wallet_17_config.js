@@ -1,1 +1,1 @@
-var mnemonic = "anxiety orphan essence release giggle beef fault mad chair bus penalty prepare";
+var mnemonic = "industry afford enroll turkey mixture pluck coconut spoon recall brain flavor tool";

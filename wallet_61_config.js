@@ -1,1 +1,1 @@
-var mnemonic = "harsh woman unable ship shy two soccer snake volume miss theme index";
+var mnemonic = "absurd shadow spawn tunnel seminar era early oblige patch twenty random wink";

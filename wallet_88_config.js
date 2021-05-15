@@ -1,1 +1,1 @@
-var mnemonic = "pudding celery thrive version cloud parade space domain thumb visual tonight define";
+var mnemonic = "muffin what party bulk february artist again sentence zebra medal adjust devote";

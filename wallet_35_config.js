@@ -1,1 +1,1 @@
-var mnemonic = "brisk bronze horn change truly injury farm width asthma zone police situate";
+var mnemonic = "alarm tent romance pair donate unique sauce round net drift smoke absurd";

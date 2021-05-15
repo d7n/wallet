@@ -1,1 +1,1 @@
-var mnemonic = "blast master mask second issue night fluid sniff faith lizard city voyage";
+var mnemonic = "child until choose scan marriage hamster response educate audit crush fade balance";

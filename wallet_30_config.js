@@ -1,1 +1,1 @@
-var mnemonic = "dirt injury cradle hungry nest design eagle cinnamon change valley swamp doll";
+var mnemonic = "total emotion iron possible lazy expect box hollow skate kidney loyal scissors";

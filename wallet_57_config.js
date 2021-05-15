@@ -1,1 +1,1 @@
-var mnemonic = "term theory broom provide resist series glass fly nothing exile ketchup normal";
+var mnemonic = "fabric notice replace approve celery jealous pass cook intact trend subject draw";

@@ -1,1 +1,1 @@
-var mnemonic = "lift soccer degree please unhappy such reunion guess rude loan margin crowd";
+var mnemonic = "special hold blind pony penalty monkey face movie eyebrow episode swarm night";

@@ -1,1 +1,1 @@
-var mnemonic = "session bulk dragon decrease scene light where since please father trap captain";
+var mnemonic = "skill furnace yellow report woman space road quote loyal chair hobby knee";

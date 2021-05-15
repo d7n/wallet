@@ -1,1 +1,1 @@
-var mnemonic = "nominee health above basic capital ship august power endorse search amount glove";
+var mnemonic = "wage square light pole observe high have fuel perfect echo such mosquito";

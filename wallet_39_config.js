@@ -1,1 +1,1 @@
-var mnemonic = "trumpet bulb organ torch have aisle clerk focus gift laptop unfold iron";
+var mnemonic = "lesson circle divide exhibit dinner rotate enhance battle column rely total correct";

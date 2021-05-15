@@ -1,1 +1,1 @@
-var mnemonic = "cross aim this double bird wheat antenna enter fantasy catch cloud obey";
+var mnemonic = "pass film citizen attract girl pumpkin noble warrior blur priority version ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "proud cattle surprise again resist elder else bread disorder yellow weapon clump";
+var mnemonic = "skull galaxy bomb frozen roast spawn pulp daring correct foot cabbage cancel";

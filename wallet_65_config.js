@@ -1,1 +1,1 @@
-var mnemonic = "skin blouse become dawn favorite radio faint zoo comic luggage phone dash";
+var mnemonic = "eager sauce maximum kid energy moon luxury also close blanket number company";

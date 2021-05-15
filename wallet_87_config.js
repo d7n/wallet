@@ -1,1 +1,1 @@
-var mnemonic = "venue life frog lawn oblige fence you chef hip law elegant balcony";
+var mnemonic = "festival unit evidence video stamp supreme tenant salad fiscal wolf push staff";

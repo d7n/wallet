@@ -1,1 +1,1 @@
-var mnemonic = "recipe obscure shop illegal weekend divorce antenna chat sister comic smoke kitten";
+var mnemonic = "claim capital absent tenant crisp settle bright lazy practice acid fat retreat";

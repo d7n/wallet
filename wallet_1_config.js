@@ -1,1 +1,1 @@
-var mnemonic = "void trust meat hill thumb voyage snack quiz better dwarf pride bring";
+var mnemonic = "praise crisp ribbon simple waste vessel wise beef drive width peanut law";

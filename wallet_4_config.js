@@ -1,1 +1,1 @@
-var mnemonic = "collect gate country cross mom van animal duck adjust cart broom dose";
+var mnemonic = "veteran whip stay century grid urge truth cake seminar chuckle physical lock";

@@ -1,1 +1,1 @@
-var mnemonic = "area ketchup very inner mistake firm scorpion iron denial friend second gas";
+var mnemonic = "tomato oblige concert tone supreme rabbit biology avoid ocean jazz okay brand";

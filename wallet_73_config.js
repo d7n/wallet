@@ -1,1 +1,1 @@
-var mnemonic = "yard rug moment wife example real opinion sleep borrow oxygen bargain vendor";
+var mnemonic = "drink coast wonder liar bicycle glow true weapon convince kite text decrease";

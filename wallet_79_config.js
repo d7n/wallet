@@ -1,1 +1,1 @@
-var mnemonic = "master slush month obscure client dice remind used coil life razor solid";
+var mnemonic = "couple night cage hybrid evil bread fox master summer survey jacket man";

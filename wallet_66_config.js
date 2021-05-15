@@ -1,1 +1,1 @@
-var mnemonic = "flush eagle grain account element envelope appear pigeon inner inform potato dutch";
+var mnemonic = "monitor sorry edge fox enact echo visa priority slice nut original aunt";

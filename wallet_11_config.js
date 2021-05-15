@@ -1,1 +1,1 @@
-var mnemonic = "oven naive clog humor unlock fitness sniff broken old onion talent horror";
+var mnemonic = "web soup present air region point erosion weird thunder palm amount this";

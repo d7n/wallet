@@ -1,1 +1,1 @@
-var mnemonic = "wreck knee bottom review bridge hammer hard fringe junk fuel daughter auto";
+var mnemonic = "slot coral idle prepare squirrel cross grape approve memory list angry express";

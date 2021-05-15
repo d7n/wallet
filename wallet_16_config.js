@@ -1,1 +1,1 @@
-var mnemonic = "feed glory limb endorse chase orange gain right human junior author reject";
+var mnemonic = "opera chef warfare glimpse boy install mango visual over across embrace sure";

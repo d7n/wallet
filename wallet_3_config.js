@@ -1,1 +1,1 @@
-var mnemonic = "valid shallow milk analyst custom soldier slide liar sentence setup armed oil";
+var mnemonic = "flash brain monster chalk kingdom tag balance century guard morning buzz master";
