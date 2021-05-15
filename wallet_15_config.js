@@ -1,1 +1,1 @@
-var mnemonic = "wrestle music term share talk ridge neither casual tone please crouch lonely";
+var mnemonic = "oxygen brisk dance risk pencil trouble gate bird trash air elite shaft";

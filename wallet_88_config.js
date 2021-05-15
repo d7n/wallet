@@ -1,1 +1,1 @@
-var mnemonic = "pitch volcano trim gym piece zoo fix parade truth join biology evil";
+var mnemonic = "exchange tornado occur mushroom crouch million spell pear clerk insect add math";

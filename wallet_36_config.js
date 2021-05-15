@@ -1,1 +1,1 @@
-var mnemonic = "limb team solution casino wash jeans nation cotton panther pelican denial loyal";
+var mnemonic = "course paddle knee exclude canoe swap phrase always bamboo cargo gasp guide";

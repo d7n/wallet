@@ -1,1 +1,1 @@
-var mnemonic = "afraid upset snake bright relief jar animal chunk barrel sing empty large";
+var mnemonic = "canal window urge twice acid radio garden timber limb unfair twenty error";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror hurry often dilemma insect glide rebel thank regret rare file turtle";
+var mnemonic = "stick trash universe palm fence advice zero spirit shift kitchen school client";

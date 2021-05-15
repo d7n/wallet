@@ -1,1 +1,1 @@
-var mnemonic = "talk yard bid unaware shy good naive excess chicken fiscal mirror over";
+var mnemonic = "ramp loan canvas secret inmate winner aisle disagree gadget more verb profit";

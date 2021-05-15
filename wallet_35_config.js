@@ -1,1 +1,1 @@
-var mnemonic = "aware banner sadness among route spoil evil timber section guess order dress";
+var mnemonic = "fatigue palm sauce rival jazz filter affair cushion dynamic manual torch forum";

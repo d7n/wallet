@@ -1,1 +1,1 @@
-var mnemonic = "unaware beach spell wasp banana dawn amazing key resemble toddler solve sick";
+var mnemonic = "tortoise glass leader isolate foam myself figure interest potato stock dinosaur detail";

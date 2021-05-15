@@ -1,1 +1,1 @@
-var mnemonic = "talk couch observe hidden present hill banana business pool use phrase drink";
+var mnemonic = "swing fiction vessel boy remove weather ripple expire detect puzzle boost improve";

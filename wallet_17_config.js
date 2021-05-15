@@ -1,1 +1,1 @@
-var mnemonic = "oppose swing sugar shift mean ridge deposit ketchup divorce nation pill fish";
+var mnemonic = "knock program humor among exhaust pill purity soft grab property fox blossom";

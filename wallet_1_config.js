@@ -1,1 +1,1 @@
-var mnemonic = "ginger normal either label exact axis deny run wish spin olympic wish";
+var mnemonic = "vocal trip series deer title find eye fantasy skull drill select slim";

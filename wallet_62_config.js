@@ -1,1 +1,1 @@
-var mnemonic = "kit ahead naive ostrich income enemy jealous interest forward leg hunt round";
+var mnemonic = "decide unknown jaguar canoe bargain kind media river army leisure spot riot";

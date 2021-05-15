@@ -1,1 +1,1 @@
-var mnemonic = "forget family trumpet tobacco alter ship inject excuse subject into infant shuffle";
+var mnemonic = "ceiling gesture salon dice anxiety ride ocean loud hen awkward infant tuition";

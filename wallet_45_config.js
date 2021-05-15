@@ -1,1 +1,1 @@
-var mnemonic = "cover group parade entire what around layer either famous hawk engine tower";
+var mnemonic = "jeans minor chef fire fox hurt ugly claw worth ready put upon";

@@ -1,1 +1,1 @@
-var mnemonic = "ride glad weird swing gadget school bean squeeze rifle celery entire home";
+var mnemonic = "route keep like ghost apple moral sword catalog deny session subject emotion";

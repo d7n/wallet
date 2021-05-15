@@ -1,1 +1,1 @@
-var mnemonic = "witness camera student nasty demise lobster media still endorse hobby also power";
+var mnemonic = "globe fiber muscle gun approve play three venue field blade start theme";

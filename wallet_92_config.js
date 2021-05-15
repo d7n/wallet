@@ -1,1 +1,1 @@
-var mnemonic = "wrist bread behave relief thing join offer solve anxiety oblige grace miss";
+var mnemonic = "youth round coin swing fitness tree check squeeze carbon cattle drum toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "rude humble agent unfair inner this suspect second breeze suit cry guitar";
+var mnemonic = "twin swing service release bar perfect carbon youth choice loyal age ensure";

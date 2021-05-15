@@ -1,1 +1,1 @@
-var mnemonic = "bunker ability slide put month surprise dentist move stuff crime museum isolate";
+var mnemonic = "cat used run cave hire jar crane repair often valve organ hair";

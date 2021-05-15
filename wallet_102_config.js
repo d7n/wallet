@@ -1,1 +1,1 @@
-var mnemonic = "fade magic speed myth upon endorse thrive visit cram faint main ice";
+var mnemonic = "lawsuit square copy hope coin mandate neck candy home punch dismiss nephew";

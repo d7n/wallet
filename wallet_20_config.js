@@ -1,1 +1,1 @@
-var mnemonic = "cube inspire extend narrow scheme genre report verify bar ride solve slice";
+var mnemonic = "audit grief language know path domain vast jungle client vital phrase sting";

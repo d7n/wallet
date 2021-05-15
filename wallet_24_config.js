@@ -1,1 +1,1 @@
-var mnemonic = "seat essay monster smooth people enhance physical shuffle smile pulp scene erupt";
+var mnemonic = "client prevent dragon rain laugh expect curious train improve law monkey angle";

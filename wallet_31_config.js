@@ -1,1 +1,1 @@
-var mnemonic = "casino sea hawk saddle arm fuel possible beach fine knock angry disorder";
+var mnemonic = "dizzy indoor cereal slight depend sail armed awesome sudden tide extra tower";

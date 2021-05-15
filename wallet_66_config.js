@@ -1,1 +1,1 @@
-var mnemonic = "expire hundred rapid indoor order bird tobacco ignore myth reject merit rice";
+var mnemonic = "round odor trust kangaroo saddle image ladder surface write ridge mushroom copper";

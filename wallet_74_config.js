@@ -1,1 +1,1 @@
-var mnemonic = "horse mandate list month inquiry tribe flush friend reunion noodle peace charge";
+var mnemonic = "spider climb hand hawk pipe limb again notice airport relief fuel rapid";

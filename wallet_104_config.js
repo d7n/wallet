@@ -1,1 +1,1 @@
-var mnemonic = "industry simple food ethics scrub merry flat flock cereal hybrid grid injury";
+var mnemonic = "used sun physical cram citizen rifle company display among cabin ordinary ball";

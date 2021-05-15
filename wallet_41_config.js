@@ -1,1 +1,1 @@
-var mnemonic = "where ensure update explain quiz figure jaguar park tackle prevent round forward";
+var mnemonic = "human family aisle visual erupt remember tornado license rookie step illegal velvet";

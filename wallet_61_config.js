@@ -1,1 +1,1 @@
-var mnemonic = "muffin mistake pave fabric issue volume stone comfort dragon parrot grocery fabric";
+var mnemonic = "hotel sun subject random clip couple effort seven panda candy check update";

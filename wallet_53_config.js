@@ -1,1 +1,1 @@
-var mnemonic = "scare cost sauce scissors category lumber pluck black mail dish glove wild";
+var mnemonic = "scout draft accuse enable burden front broken expect prepare budget frozen balcony";

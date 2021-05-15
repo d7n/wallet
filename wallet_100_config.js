@@ -1,1 +1,1 @@
-var mnemonic = "entire polar razor race spoil valley vague couch differ whip amount ability";
+var mnemonic = "hole essence unable cinnamon prosper inner rely hawk receive mandate buffalo angle";

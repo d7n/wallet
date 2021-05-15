@@ -1,1 +1,1 @@
-var mnemonic = "swallow also come help rookie join pink index leopard attitude any rubber";
+var mnemonic = "cigar hurt proud clarify able affair man ginger catch gentle napkin guard";

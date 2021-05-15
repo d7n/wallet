@@ -1,1 +1,1 @@
-var mnemonic = "globe step awake fall kid educate winter know matter because action pill";
+var mnemonic = "pear silver muscle tank melt equip else birth double hamster cabin stove";

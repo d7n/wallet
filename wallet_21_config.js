@@ -1,1 +1,1 @@
-var mnemonic = "arctic review lesson hawk sword sunset sea jungle grant monkey vague fox";
+var mnemonic = "judge verb brief term worth damage unfair diamond craft grace jump alarm";

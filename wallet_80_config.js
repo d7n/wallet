@@ -1,1 +1,1 @@
-var mnemonic = "boil ankle spoon sleep kitten between develop agree since jaguar tumble pear";
+var mnemonic = "resemble control radio order casual media bench supply inside myth talent release";

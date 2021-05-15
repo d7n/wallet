@@ -1,1 +1,1 @@
-var mnemonic = "lawn marriage rare frozen now cherry term youth broccoli pyramid record void";
+var mnemonic = "lumber harvest cart tilt mutual laptop raven caution spin beach ladder acquire";

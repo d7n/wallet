@@ -1,1 +1,1 @@
-var mnemonic = "stock wage avocado like brief way twenty exclude comfort render patient answer";
+var mnemonic = "modify circle since electric bag muffin capital dwarf scatter news valid million";

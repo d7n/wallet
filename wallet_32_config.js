@@ -1,1 +1,1 @@
-var mnemonic = "detail when consider rely ridge taxi fancy outdoor draw suffer stereo switch";
+var mnemonic = "sketch turkey label fix sad drastic girl fossil skirt build tag prefer";

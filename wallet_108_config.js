@@ -1,1 +1,1 @@
-var mnemonic = "kitten sister elegant churn modify series wife exclude away purse venture cargo";
+var mnemonic = "among paddle blade question inmate pond square excess install panda motion dirt";

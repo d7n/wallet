@@ -1,1 +1,1 @@
-var mnemonic = "news clever omit garlic game labor air shoe provide outer stumble attitude";
+var mnemonic = "wife drift venue approve sphere equal cram common rack wheat artefact west";

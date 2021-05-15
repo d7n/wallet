@@ -1,1 +1,1 @@
-var mnemonic = "corn eagle teach impose cousin order night furnace evidence two quarter street";
+var mnemonic = "today project shift broccoli decrease spell shrimp wait skull essence twin scout";

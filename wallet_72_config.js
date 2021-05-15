@@ -1,1 +1,1 @@
-var mnemonic = "vacant lecture craft future fragile pulse vibrant desk you slight artwork awake";
+var mnemonic = "fog snap arrive hunt moral output exclude jeans shadow lounge carpet sad";

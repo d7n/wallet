@@ -1,1 +1,1 @@
-var mnemonic = "text juice answer right proud sunset someone busy face edge predict ecology";
+var mnemonic = "hobby tomorrow velvet mother frequent rug crime broom own business swamp pattern";

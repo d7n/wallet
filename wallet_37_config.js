@@ -1,1 +1,1 @@
-var mnemonic = "movie atom upper seminar lecture nephew pet anchor rocket lobster enforce genius";
+var mnemonic = "swear issue nose craft style tired leaf merge inner candy ripple price";

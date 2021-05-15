@@ -1,1 +1,1 @@
-var mnemonic = "garlic post tilt cause select pool muscle nurse wagon one warm midnight";
+var mnemonic = "ball give adult clump hawk gather grow prepare reform silent delay always";

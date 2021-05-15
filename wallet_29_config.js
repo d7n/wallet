@@ -1,1 +1,1 @@
-var mnemonic = "cotton physical give oxygen auto bind wealth cook result title afraid plate";
+var mnemonic = "tumble month time myth private bunker dream harvest couch green pigeon olympic";

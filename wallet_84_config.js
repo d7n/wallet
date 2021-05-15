@@ -1,1 +1,1 @@
-var mnemonic = "museum spring caught congress shock exist coral deny crucial picture summer gentle";
+var mnemonic = "pen style offer bulb grain useful truly economy visa unable fix disease";

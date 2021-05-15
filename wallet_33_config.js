@@ -1,1 +1,1 @@
-var mnemonic = "seminar yard any guitar volcano mountain salon between topic dutch open night";
+var mnemonic = "label load ship inherit rain bachelor much antenna direct naive donkey arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty divert trumpet apology bicycle awesome know fuel animal reward when release";
+var mnemonic = "label appear fringe fatigue goose lizard lock april glare exact orange genius";

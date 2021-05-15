@@ -1,1 +1,1 @@
-var mnemonic = "work glass act fragile razor warfare universe toward delay lazy public system";
+var mnemonic = "marriage curtain fortune butter fame drastic dynamic great affair crane scale smile";

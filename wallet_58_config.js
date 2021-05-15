@@ -1,1 +1,1 @@
-var mnemonic = "shove fly unknown laugh turtle outer annual behind seed clinic cliff net";
+var mnemonic = "fiscal brother because include dutch task clarify tiger stick hard voyage grunt";

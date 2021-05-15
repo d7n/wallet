@@ -1,1 +1,1 @@
-var mnemonic = "follow profit job pipe save replace illegal middle expose dwarf fossil hope";
+var mnemonic = "blossom typical auto image response library again vapor farm drive danger giant";

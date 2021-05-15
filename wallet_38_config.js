@@ -1,1 +1,1 @@
-var mnemonic = "tornado language confirm photo resist brain muffin print opinion fuel extend diagram";
+var mnemonic = "emerge security minor pipe quick bulk almost fragile mother fly sure until";

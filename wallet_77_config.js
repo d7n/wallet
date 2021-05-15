@@ -1,1 +1,1 @@
-var mnemonic = "region inner thing panther odor embark lion trouble sleep patch infant team";
+var mnemonic = "rural ready pulp clog satoshi corn repair beach okay prevent drip mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "finger nose series border model antenna copy section rival goddess develop message";
+var mnemonic = "alcohol myth life three pistol vehicle dilemma chicken undo cradle bag chief";

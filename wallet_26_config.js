@@ -1,1 +1,1 @@
-var mnemonic = "confirm awful cube wave always return assault away tooth sell maid paper";
+var mnemonic = "embark angle milk caution battle black battle artwork type deputy hour wink";

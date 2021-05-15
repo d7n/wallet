@@ -1,1 +1,1 @@
-var mnemonic = "estate expire great concert latin know pottery point melody goat parrot clay";
+var mnemonic = "bar easily merge asthma movie staff hope bamboo ice peasant useful display";

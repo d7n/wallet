@@ -1,1 +1,1 @@
-var mnemonic = "merry air vanish truck jacket brush tell shrimp insect debris behave behind";
+var mnemonic = "soda club curve mechanic infant hammer awake bracket poverty balcony scout ball";

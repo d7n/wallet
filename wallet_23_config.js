@@ -1,1 +1,1 @@
-var mnemonic = "filter alley barrel blue try host stairs wine art execute hospital pulse";
+var mnemonic = "sell share pudding gym only coast mosquito blanket fence theme bridge cram";

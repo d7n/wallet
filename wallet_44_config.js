@@ -1,1 +1,1 @@
-var mnemonic = "kitten punch math syrup acquire circle stone category era buzz harsh palm";
+var mnemonic = "calm trend banner muscle spawn need beauty rescue lake trip zero vote";

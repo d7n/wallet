@@ -1,1 +1,1 @@
-var mnemonic = "nasty thought loop spider illegal enjoy diamond cruise off addict page push";
+var mnemonic = "grit discover black ice basic canoe input spend setup squeeze ranch apology";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease actress practice choice multiply caution skin census maid cheap paper similar";
+var mnemonic = "able west lawn brand together lock fashion oak judge flash excuse switch";

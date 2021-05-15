@@ -1,1 +1,1 @@
-var mnemonic = "speed canvas desert nephew forget sustain wash confirm absorb bridge pattern view";
+var mnemonic = "able flat ankle fan face crunch sponsor person peanut amazing tattoo hurdle";

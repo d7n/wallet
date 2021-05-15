@@ -1,1 +1,1 @@
-var mnemonic = "extend mention basket dream shell episode display believe staff north horn youth";
+var mnemonic = "kid royal decide retire era priority worth shop green myth brand have";

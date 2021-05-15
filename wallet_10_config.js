@@ -1,1 +1,1 @@
-var mnemonic = "volcano giggle predict dance noodle injury spread curtain crack define jewel camp";
+var mnemonic = "spin again loop meadow early shadow green together slab life leader spy";

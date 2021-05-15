@@ -1,1 +1,1 @@
-var mnemonic = "outside fat boil pelican evidence because wagon pipe defense flee mutual maid";
+var mnemonic = "mom local match wash word buyer issue elite jazz confirm guilt scrub";

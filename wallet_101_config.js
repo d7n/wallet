@@ -1,1 +1,1 @@
-var mnemonic = "there cost begin still laugh truly cry liquid taxi absorb brother mesh";
+var mnemonic = "auto better scene cruel utility square seed elephant zero excess someone orange";

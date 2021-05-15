@@ -1,1 +1,1 @@
-var mnemonic = "useful hair cool run feel verify buyer ankle soldier north error under";
+var mnemonic = "nose never length swamp produce nose bullet heavy erupt shaft minute casino";

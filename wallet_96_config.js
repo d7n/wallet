@@ -1,1 +1,1 @@
-var mnemonic = "birth scene diagram velvet replace resemble summer rigid auction opinion food fiction";
+var mnemonic = "disorder dose hub day limit amateur pelican program corn mother afford goat";

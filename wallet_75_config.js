@@ -1,1 +1,1 @@
-var mnemonic = "hope paper door certain bomb lawsuit pair famous chest humor candy powder";
+var mnemonic = "powder panda wrist spy attitude brass tuition blush sheriff maid milk inhale";

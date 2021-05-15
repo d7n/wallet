@@ -1,1 +1,1 @@
-var mnemonic = "liar siren patch core mansion afford pyramid conduct ring upon reduce cupboard";
+var mnemonic = "window invite aisle lawsuit hedgehog fever cotton elder ceiling chat post mandate";

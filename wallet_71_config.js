@@ -1,1 +1,1 @@
-var mnemonic = "tiny draw text meat pave state runway divide purchase child fire enrich";
+var mnemonic = "six add shell wild dwarf echo this gun other enable invest wait";

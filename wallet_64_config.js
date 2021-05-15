@@ -1,1 +1,1 @@
-var mnemonic = "ski tumble humble champion hazard sort story fish brother castle wing flash";
+var mnemonic = "aerobic whisper speak play myself coconut assault stay bright wonder poet stick";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy wrong world retire scorpion provide risk tortoise spell village entire spray";
+var mnemonic = "deny shiver record offer hard powder crater solution luxury usage canvas gentle";

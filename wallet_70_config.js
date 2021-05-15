@@ -1,1 +1,1 @@
-var mnemonic = "wine video practice roast legend prosper virus crouch eagle crime fire farm";
+var mnemonic = "forward eagle senior raise zebra life hurry human tool spot image employ";

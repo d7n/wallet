@@ -1,1 +1,1 @@
-var mnemonic = "agent fitness horn balcony maximum guilt panda wise rice acoustic keen hurry";
+var mnemonic = "flame cheap lawsuit perfect record flee basic mistake idle local window lab";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare side lizard thumb wing awful problem return stadium awesome file warfare";
+var mnemonic = "identify mouse project unknown skill motion figure question night learn crunch spray";

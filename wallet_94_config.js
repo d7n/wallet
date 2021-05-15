@@ -1,1 +1,1 @@
-var mnemonic = "fiber cause remove human lucky virus mountain more cheap erosion success sick";
+var mnemonic = "choose multiply priority six acid wear bird protect jar protect runway pulse";

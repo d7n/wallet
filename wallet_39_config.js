@@ -1,1 +1,1 @@
-var mnemonic = "weather eye tip unlock swim panda melt unhappy amount grow sadness bird";
+var mnemonic = "insane ceiling army asset submit pigeon together cross rally journey shoe motor";

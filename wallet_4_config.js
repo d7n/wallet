@@ -1,1 +1,1 @@
-var mnemonic = "tiger crack video much soon finger pistol whale jelly coyote domain tube";
+var mnemonic = "pond cruise sleep zone puzzle later ladder bird long cradle hammer clog";

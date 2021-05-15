@@ -1,1 +1,1 @@
-var mnemonic = "rely noble fossil unfair gorilla rug call stuff page owner rug grant";
+var mnemonic = "cushion fatigue opera where genius hurry neglect trophy quick cotton pig stamp";
