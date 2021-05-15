@@ -1,1 +1,1 @@
-var mnemonic = "glide mandate mimic approve embrace easily ketchup aisle butter tomato occur stool";
+var mnemonic = "provide mix smart ignore speak sell blade dog sniff knock refuse next";

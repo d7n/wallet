@@ -1,1 +1,1 @@
-var mnemonic = "now donor report begin loan valley duck legal order engine pull drink";
+var mnemonic = "later notice discover razor tourist sudden truck slim slot elephant someone charge";

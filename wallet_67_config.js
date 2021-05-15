@@ -1,1 +1,1 @@
-var mnemonic = "fog feel virus rubber cage lizard action glove ankle taxi team oil";
+var mnemonic = "agree submit culture hollow sell ride exact code august ski mad cement";

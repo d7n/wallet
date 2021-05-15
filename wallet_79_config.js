@@ -1,1 +1,1 @@
-var mnemonic = "harbor note sadness usage print festival plunge join spend will peanut grief";
+var mnemonic = "edge drastic segment essay visit child attract enrich blue obscure air depth";

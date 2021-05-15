@@ -1,1 +1,1 @@
-var mnemonic = "tissue idea genuine under dance glance observe dumb cost sport genius violin";
+var mnemonic = "glue voice raven network surprise flip prepare blur hidden game ice goat";

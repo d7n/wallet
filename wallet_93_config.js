@@ -1,1 +1,1 @@
-var mnemonic = "concert south impulse poet diesel swift giggle old orphan stay engage boat";
+var mnemonic = "cycle improve bring long liquid cloth treat trick equip mystery glimpse brand";

@@ -1,1 +1,1 @@
-var mnemonic = "trim nose taxi flip gasp taxi unaware solution cave recipe feed eight";
+var mnemonic = "pilot universe olympic script country sheriff salmon slim trade follow useless office";

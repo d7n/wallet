@@ -1,1 +1,1 @@
-var mnemonic = "inflict eternal sample shove blur science island artwork laugh desert menu bitter";
+var mnemonic = "under knife true guide supreme say recycle math sense broken science gas";

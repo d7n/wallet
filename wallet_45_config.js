@@ -1,1 +1,1 @@
-var mnemonic = "grace two twice winter solution output bulk net tuna mask blur soda";
+var mnemonic = "hello summer creek hope month panic tuna story reopen glimpse rude source";

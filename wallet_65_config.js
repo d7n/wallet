@@ -1,1 +1,1 @@
-var mnemonic = "token require install they lens ceiling address toddler sphere anxiety brisk buyer";
+var mnemonic = "spike typical stereo copper thrive reveal sure child legend gentle drastic august";

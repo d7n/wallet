@@ -1,1 +1,1 @@
-var mnemonic = "vapor food dose cake retire drive fiscal quote anger quiz valid ramp";
+var mnemonic = "hill orchard old list milk tape model social anxiety annual advice festival";

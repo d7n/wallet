@@ -1,1 +1,1 @@
-var mnemonic = "garlic city safe common machine year museum process detect release grid slot";
+var mnemonic = "bargain pool wolf current tackle tide earth loyal supreme hold tide champion";

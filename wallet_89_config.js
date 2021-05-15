@@ -1,1 +1,1 @@
-var mnemonic = "yard matrix tube inherit accuse dolphin suspect salad scrub hidden pyramid pumpkin";
+var mnemonic = "company huge travel library copper cattle hedgehog worry food snow endless tonight";

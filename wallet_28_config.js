@@ -1,1 +1,1 @@
-var mnemonic = "core reveal auction able kitchen virtual record awful news sun home crash";
+var mnemonic = "first torch say riot potato apple actual until winner mirror prepare bind";

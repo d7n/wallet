@@ -1,1 +1,1 @@
-var mnemonic = "soon alcohol muscle spoon multiply speed better lonely sail talent purpose ticket";
+var mnemonic = "nominee manual excess kick anxiety dove eight label able amazing dish claim";

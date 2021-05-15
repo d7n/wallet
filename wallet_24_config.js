@@ -1,1 +1,1 @@
-var mnemonic = "easily panther share thunder region era diamond chuckle joy know culture question";
+var mnemonic = "rival oppose twist special plunge able tenant seek chapter nuclear purchase clump";

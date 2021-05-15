@@ -1,1 +1,1 @@
-var mnemonic = "great point fault off blossom cause coin pulp deal mind siren double";
+var mnemonic = "plug miss husband later rude case grass bird wood diary damage virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "organ gospel warrior amount country teach radio decorate honey scissors because remove";
+var mnemonic = "cannon fancy pyramid flight recall success office grief cash strategy salmon fetch";

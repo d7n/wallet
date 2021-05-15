@@ -1,1 +1,1 @@
-var mnemonic = "sugar butter buyer erase current rabbit lucky tone legend soda rice daring";
+var mnemonic = "entire logic shock junior boil hand yellow illness pull senior morning example";

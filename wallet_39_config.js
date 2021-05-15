@@ -1,1 +1,1 @@
-var mnemonic = "buyer cotton possible together find stable drive sure unique sustain pupil goose";
+var mnemonic = "differ ten squeeze minimum shell latin april arch always quote alien lizard";

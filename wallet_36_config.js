@@ -1,1 +1,1 @@
-var mnemonic = "doll uphold protect seat inch stock cactus photo oval giant absorb opinion";
+var mnemonic = "wrist input seed blur receive solution pretty ancient bamboo surprise swear cinnamon";

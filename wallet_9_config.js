@@ -1,1 +1,1 @@
-var mnemonic = "lock already collect pyramid piece help upper birth portion pear humor evidence";
+var mnemonic = "sustain cargo hero brain dice sort dinner coral close fruit journey pact";

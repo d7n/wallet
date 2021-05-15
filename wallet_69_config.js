@@ -1,1 +1,1 @@
-var mnemonic = "rocket faith juice stamp use eye wish used cage stamp bicycle cloth";
+var mnemonic = "adult jacket legend curve urban struggle square forget yellow forest field sentence";

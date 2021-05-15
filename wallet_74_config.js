@@ -1,1 +1,1 @@
-var mnemonic = "menu decade jeans victory effort recipe endless exotic usage capable supply turn";
+var mnemonic = "sand obtain belt hamster lava blush pass basic reveal sell loan alley";

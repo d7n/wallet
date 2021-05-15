@@ -1,1 +1,1 @@
-var mnemonic = "occur guess fantasy depart budget angle need exchange elder blood mango tip";
+var mnemonic = "way load april stable health able void supreme tattoo seminar file stage";

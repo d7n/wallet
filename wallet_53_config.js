@@ -1,1 +1,1 @@
-var mnemonic = "pause swift island glue armed clinic check squirrel blanket neutral disagree mechanic";
+var mnemonic = "flight enrich one demand canyon devote fold stamp prefer length large speak";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor spider orange trade zebra sword mule select stage reject friend wage";
+var mnemonic = "bachelor trend cram subway source point bunker bacon wash time case clock";

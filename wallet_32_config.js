@@ -1,1 +1,1 @@
-var mnemonic = "left inner grunt ten type tank sniff banana jeans manual canyon hire";
+var mnemonic = "solar net just tuition gym speed oven off build portion juice taste";

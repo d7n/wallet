@@ -1,1 +1,1 @@
-var mnemonic = "hunt measure disagree iron foot toy twist yard chunk poverty uphold draw";
+var mnemonic = "nation next helmet chase rate assist glory monitor suggest alone walk audit";

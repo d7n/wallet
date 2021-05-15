@@ -1,1 +1,1 @@
-var mnemonic = "remove raven viable idea brain tray circle town round height inch history";
+var mnemonic = "lamp magnet brisk winner harvest drink barrel unit filter stairs pull seminar";

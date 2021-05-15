@@ -1,1 +1,1 @@
-var mnemonic = "bulb toy pact animal swing skirt craft usual donor bicycle indoor face";
+var mnemonic = "fortune easily three program fatal crush puppy offer remember tray occur prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "piano neck come mean measure jeans corn relax shuffle rough theme return";
+var mnemonic = "cradle margin cube scout tube demand copper rule fun quote thunder siren";

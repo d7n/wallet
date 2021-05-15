@@ -1,1 +1,1 @@
-var mnemonic = "eight sauce wave capable extra alone ivory science fabric hawk traffic smooth";
+var mnemonic = "sketch history smile tonight potato fame skin long scrub slab circle patch";

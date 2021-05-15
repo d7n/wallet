@@ -1,1 +1,1 @@
-var mnemonic = "muscle roast swarm know tag frown vital warm sense capital oval minimum";
+var mnemonic = "copper junior faith neither position churn army toss tobacco chunk machine balance";

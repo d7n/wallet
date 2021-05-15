@@ -1,1 +1,1 @@
-var mnemonic = "orchard life scissors few twin antique increase barrel loan pluck wrap maid";
+var mnemonic = "plug high way sibling repair remove dad private mobile flag swing believe";

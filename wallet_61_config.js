@@ -1,1 +1,1 @@
-var mnemonic = "bird travel around inch robust fancy book gasp antique learn garden minute";
+var mnemonic = "angry core fat convince outside put roast twist ginger chair inject armed";

@@ -1,1 +1,1 @@
-var mnemonic = "rude lunar sun bitter kangaroo typical soft avoid rose guess afford universe";
+var mnemonic = "left device bridge finger champion caught avoid meadow throw disagree empower ramp";

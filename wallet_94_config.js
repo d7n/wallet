@@ -1,1 +1,1 @@
-var mnemonic = "opera soccer earn broom inhale palm interest cruel toe train awkward people";
+var mnemonic = "polar tongue jaguar amazing rely arena orbit tiger tilt path frozen math";

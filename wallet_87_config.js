@@ -1,1 +1,1 @@
-var mnemonic = "carbon laptop memory engine gadget merit various across era ceiling title buyer";
+var mnemonic = "brief crime talent method update income loan prepare never excuse border weasel";

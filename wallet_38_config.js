@@ -1,1 +1,1 @@
-var mnemonic = "ship april brush lyrics burger sniff energy inner trade above derive valley";
+var mnemonic = "enable shed wrist famous fork spin alien candy cherry lumber winner second";

@@ -1,1 +1,1 @@
-var mnemonic = "volume tomorrow nurse wheel demand crime piano limit twist soon sorry window";
+var mnemonic = "roast imitate logic pair winner join nut winner empty eager umbrella nature";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect monitor orchard bless fury nerve guard double peanut keep tennis repair";
+var mnemonic = "glory wood mail choice media appear happy erupt occur eternal palace between";

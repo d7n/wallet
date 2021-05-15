@@ -1,1 +1,1 @@
-var mnemonic = "usual asthma spawn attitude panda target language gold pair decide boy infant";
+var mnemonic = "capital excess doll state lizard coral one peanut subject margin door crucial";

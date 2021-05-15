@@ -1,1 +1,1 @@
-var mnemonic = "noble salt cube borrow damp sign stage huge hope rocket stove jump";
+var mnemonic = "tip hood long notable current expire sausage robust buffalo keep kick wagon";

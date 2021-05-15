@@ -1,1 +1,1 @@
-var mnemonic = "foster cross direct hello virus dust panda castle about april seek supreme";
+var mnemonic = "hill sport genre bleak adult device pond improve fine pair amused carry";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle wire pulp month morning nothing disorder ritual fabric bench legend pigeon";
+var mnemonic = "drop buzz share pave amused clay ranch clown brief ill heart museum";

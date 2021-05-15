@@ -1,1 +1,1 @@
-var mnemonic = "suggest canvas vibrant hungry thank twist sphere drill attract once sight liar";
+var mnemonic = "insane pencil danger opinion fabric network plunge expect grape length venture hood";

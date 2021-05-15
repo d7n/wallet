@@ -1,1 +1,1 @@
-var mnemonic = "picnic enrich dish moment prevent tank milk know obey proud notice vital";
+var mnemonic = "ozone image mask remain club vast ride brother voice armed sense sister";

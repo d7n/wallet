@@ -1,1 +1,1 @@
-var mnemonic = "illegal funny spend situate hand replace olympic can rural chuckle solve bridge";
+var mnemonic = "long loyal trumpet lift laugh walk crew divert trust edit hen rocket";

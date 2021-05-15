@@ -1,1 +1,1 @@
-var mnemonic = "cliff slight aunt fortune visit agent armed admit coral spike twin eight";
+var mnemonic = "exotic book farm attack mind perfect source embody vendor tragic spell account";

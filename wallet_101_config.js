@@ -1,1 +1,1 @@
-var mnemonic = "april enjoy spy menu ethics believe nerve rifle split symptom sister female";
+var mnemonic = "shadow explain place smart auto parade swim social giant crucial tobacco cave";

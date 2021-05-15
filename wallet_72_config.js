@@ -1,1 +1,1 @@
-var mnemonic = "throw online feature pigeon assume sniff cannon wait pledge step choose autumn";
+var mnemonic = "add fitness thumb amount choice box ecology sell raven stable swap limit";

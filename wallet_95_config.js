@@ -1,1 +1,1 @@
-var mnemonic = "address reopen repeat deposit pelican virtual sort solution page risk caught grass";
+var mnemonic = "vapor situate chief ginger allow mad asset credit syrup shadow gas parrot";

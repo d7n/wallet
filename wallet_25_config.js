@@ -1,1 +1,1 @@
-var mnemonic = "cart tenant mutual naive retire obey better inject peace parent short hurt";
+var mnemonic = "health spatial tooth wrist perfect artist cushion load until drive valid year";

@@ -1,1 +1,1 @@
-var mnemonic = "dose elite donor visual brick gaze average shallow pole rich tent file";
+var mnemonic = "gloom donor hello fantasy invest agent stamp slogan avocado wave essence random";

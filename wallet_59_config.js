@@ -1,1 +1,1 @@
-var mnemonic = "south pistol spend hood crash tilt aspect tag biology possible pony trade";
+var mnemonic = "doll kick portion cash obtain pulse code apple trash quick color universe";

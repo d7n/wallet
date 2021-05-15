@@ -1,1 +1,1 @@
-var mnemonic = "slot company way boy render deliver fossil panic hope ride sock birth";
+var mnemonic = "rifle cement disorder input verify loan summer success tiny clarify crawl sudden";

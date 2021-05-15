@@ -1,1 +1,1 @@
-var mnemonic = "torch crowd chuckle glance topic notice chimney because soon say explain predict";
+var mnemonic = "device skull august chuckle evidence fragile pyramid runway swift depend learn peanut";

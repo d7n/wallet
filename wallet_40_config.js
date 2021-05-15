@@ -1,1 +1,1 @@
-var mnemonic = "motion simple donor tag fresh side aisle spirit assault spray oven slight";
+var mnemonic = "turtle trash dumb region route kid area visit provide agent auto crowd";

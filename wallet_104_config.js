@@ -1,1 +1,1 @@
-var mnemonic = "soup rib valid jazz sure echo hill scatter party capital engage exist";
+var mnemonic = "excess six day floor proud finger aspect fetch young october crystal science";

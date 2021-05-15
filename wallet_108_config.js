@@ -1,1 +1,1 @@
-var mnemonic = "fault member glance giant coast online eight mind shadow abstract flower hockey";
+var mnemonic = "process join vapor smooth path reduce unknown wedding boring train letter zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy cactus note anger wear false soul awesome drop amount congress blue";
+var mnemonic = "hungry soft slush flavor ridge absorb victory fortune price predict list focus";

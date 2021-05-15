@@ -1,1 +1,1 @@
-var mnemonic = "hazard task damage scare code leave crumble lock guess security infant close";
+var mnemonic = "absorb female lounge current knife office gas impulse arm night want wall";

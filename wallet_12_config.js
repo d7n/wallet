@@ -1,1 +1,1 @@
-var mnemonic = "faith ramp peanut jacket slot zero coconut creek father impact follow salt";
+var mnemonic = "custom acid wonder about quiz intact decrease quality calm crunch total arrow";

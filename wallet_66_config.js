@@ -1,1 +1,1 @@
-var mnemonic = "soft laugh basic small hospital rib rely era veteran nominee list pass";
+var mnemonic = "pave slide kiss image silly wood sick blouse great pledge faint today";

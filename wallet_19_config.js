@@ -1,1 +1,1 @@
-var mnemonic = "similar indicate stay fantasy off aim thank clutch benefit mirror dismiss vibrant";
+var mnemonic = "river divorce motor one gun dynamic season sustain receive faith crouch winner";

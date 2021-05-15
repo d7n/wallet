@@ -1,1 +1,1 @@
-var mnemonic = "gaze belt object bar kingdom victory order lobster question rent script daring";
+var mnemonic = "update mail unable better page double update movie cement rose link fan";

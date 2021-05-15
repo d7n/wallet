@@ -1,1 +1,1 @@
-var mnemonic = "staff fruit tattoo mutual another music document february jelly satisfy leaf cover";
+var mnemonic = "method gospel child banner fresh bomb ordinary turkey radar perfect surface sauce";

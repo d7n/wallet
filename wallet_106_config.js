@@ -1,1 +1,1 @@
-var mnemonic = "nation picnic grape payment gossip penalty across magnet oak horn aunt battle";
+var mnemonic = "approve over divorce club turtle panda vanish castle rhythm crystal bullet start";

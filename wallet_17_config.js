@@ -1,1 +1,1 @@
-var mnemonic = "fish whisper fatigue degree honey review engage divide reduce crunch iron evoke";
+var mnemonic = "core worry dove change evil congress squeeze scan exercise nose angle wet";

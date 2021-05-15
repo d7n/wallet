@@ -1,1 +1,1 @@
-var mnemonic = "love artefact nothing beef drink sketch vibrant state priority just tank candy";
+var mnemonic = "wine unusual empty park drink soccer thought couple almost confirm occur effort";

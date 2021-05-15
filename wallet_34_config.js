@@ -1,1 +1,1 @@
-var mnemonic = "spawn swap master obtain dwarf love since duck expire basic cook limit";
+var mnemonic = "copper search rigid shrimp forward inhale speed evil genre dog online portion";

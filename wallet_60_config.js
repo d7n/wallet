@@ -1,1 +1,1 @@
-var mnemonic = "add orbit lava icon snap add fall attend liberty garment fancy race";
+var mnemonic = "between forum degree lunar because inherit tuna wing segment two pupil defense";

@@ -1,1 +1,1 @@
-var mnemonic = "kit window miracle immense illness express ignore funny spot rice vivid able";
+var mnemonic = "pilot supply display easily obscure original expire inhale salt typical box shop";

@@ -1,1 +1,1 @@
-var mnemonic = "junior rather umbrella initial fault burden float reveal arm cake crisp casual";
+var mnemonic = "behind corn grocery pepper approve awake only orbit arrange seed nature give";

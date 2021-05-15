@@ -1,1 +1,1 @@
-var mnemonic = "grain theory noise essay pattern mechanic leisure excuse bag lucky duty funny";
+var mnemonic = "truck ranch address dry vault loyal electric swarm rubber loop pride arctic";

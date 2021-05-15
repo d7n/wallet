@@ -1,1 +1,1 @@
-var mnemonic = "betray anger slab check film fantasy eternal swamp foster milk decade never";
+var mnemonic = "fuel cycle fluid whisper solar confirm topple picture session wagon spin fire";

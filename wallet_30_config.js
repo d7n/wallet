@@ -1,1 +1,1 @@
-var mnemonic = "live inside note disease defense cause rhythm shift grocery exit enter mule";
+var mnemonic = "brown learn fog pizza shy search shoulder valid twin slogan emotion lobster";
