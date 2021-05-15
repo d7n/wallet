@@ -1,1 +1,1 @@
-var mnemonic = "remember pool pottery paper thumb jacket village miss unfold pill blossom divorce";
+var mnemonic = "aspect budget recipe control thing direct swear close math smoke panda weekend";

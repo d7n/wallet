@@ -1,1 +1,1 @@
-var mnemonic = "strategy mail hour defy salt drum range spray meat assault toss decline";
+var mnemonic = "bench casino wisdom country silk sound dutch blush liberty isolate alone torch";

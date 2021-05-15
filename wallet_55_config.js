@@ -1,1 +1,1 @@
-var mnemonic = "visit corn grief lend they area dish injury dolphin cabin sign front";
+var mnemonic = "swarm carbon prize cry lyrics upset believe lobster swap stable kidney hold";

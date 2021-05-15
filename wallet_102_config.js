@@ -1,1 +1,1 @@
-var mnemonic = "panel page spike youth host aunt country demand zoo december document pride";
+var mnemonic = "typical behave fever join marriage bargain into favorite viable box crack any";

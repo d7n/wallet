@@ -1,1 +1,1 @@
-var mnemonic = "lazy climb evolve unaware emotion few announce eternal power tumble assume skirt";
+var mnemonic = "garage toilet confirm thing answer wire warfare jewel because omit right mandate";

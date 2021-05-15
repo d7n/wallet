@@ -1,1 +1,1 @@
-var mnemonic = "sketch endless panda melody alert vivid garden tube debris blue sad snap";
+var mnemonic = "betray about kangaroo thought gasp erase remain club guard ladder when leaf";

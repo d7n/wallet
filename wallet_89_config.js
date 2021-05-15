@@ -1,1 +1,1 @@
-var mnemonic = "furnace cruise cake penalty catch slight ask sadness hockey love spice circle";
+var mnemonic = "jewel expose aunt silent wave conduct banner sand embrace double broken expose";

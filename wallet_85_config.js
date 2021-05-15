@@ -1,1 +1,1 @@
-var mnemonic = "electric flash unable public regret choose able shove brief minimum width loyal";
+var mnemonic = "become social refuse lyrics elder method favorite melody curtain practice obscure ready";

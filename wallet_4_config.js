@@ -1,1 +1,1 @@
-var mnemonic = "taxi whisper cinnamon subject desk spread hint genuine place rubber profit chef";
+var mnemonic = "frown genius luggage staff bone render switch notice north cabin fiction require";

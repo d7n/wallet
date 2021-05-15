@@ -1,1 +1,1 @@
-var mnemonic = "time boil excite mosquito unit absorb small oak asthma chuckle attack bread";
+var mnemonic = "phrase phone live catalog olympic wonder input various assault absorb stadium lens";

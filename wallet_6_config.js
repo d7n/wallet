@@ -1,1 +1,1 @@
-var mnemonic = "dish undo car find girl pact explain mom tape foam youth call";
+var mnemonic = "melody menu lazy filter spawn march carry next book bracket play forest";

@@ -1,1 +1,1 @@
-var mnemonic = "comic expand wreck when grant sport dentist half scorpion best riot shaft";
+var mnemonic = "act route honey decorate dentist rare jacket surface robot mimic screen dial";

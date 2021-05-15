@@ -1,1 +1,1 @@
-var mnemonic = "autumn cage foam local choice alert wagon unhappy start fatigue sick employ";
+var mnemonic = "lawsuit absent trial ice swear cannon element story potato evoke bubble number";

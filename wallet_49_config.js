@@ -1,1 +1,1 @@
-var mnemonic = "good often into unlock syrup begin arrow nurse razor include apart ticket";
+var mnemonic = "height health sell base naive situate over merge blade fit caution torch";

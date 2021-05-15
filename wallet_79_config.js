@@ -1,1 +1,1 @@
-var mnemonic = "pledge beyond bicycle again arrive crime parent fame dynamic front disagree pottery";
+var mnemonic = "ripple blouse sentence frog staff health output pave stick fame connect stereo";

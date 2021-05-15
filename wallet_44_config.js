@@ -1,1 +1,1 @@
-var mnemonic = "source labor crop mechanic pumpkin cigar accident daring unique cherry skate virtual";
+var mnemonic = "fresh grocery educate match apology empty honey service panel arm auction blue";

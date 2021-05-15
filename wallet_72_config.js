@@ -1,1 +1,1 @@
-var mnemonic = "rebel melody eye sister gasp aerobic eager rain possible morning snap change";
+var mnemonic = "rule there field exercise such spread artefact trouble gadget vehicle clinic spare";

@@ -1,1 +1,1 @@
-var mnemonic = "route lion crisp soda ten forest zero wood toe market hover cheap";
+var mnemonic = "crime dune rescue truth rude primary clap example organ choose sweet wagon";

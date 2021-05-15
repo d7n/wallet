@@ -1,1 +1,1 @@
-var mnemonic = "job worry slim bottom seat fetch theme attract mixture pen flower celery";
+var mnemonic = "just fury dilemma time follow donate during benefit acquire file fine appear";

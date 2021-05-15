@@ -1,1 +1,1 @@
-var mnemonic = "wife mutual fringe attack often agent meat conduct across income silly sunny";
+var mnemonic = "swallow marble remember reform husband tragic wet observe expand hammer dragon rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "over tide attract conduct switch prefer hundred pair burst debate unique paddle";
+var mnemonic = "parent parent whisper involve shock gate quality indoor night alcohol extra hen";

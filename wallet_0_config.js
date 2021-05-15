@@ -1,1 +1,1 @@
-var mnemonic = "news pizza flock write motor degree brush woman silly claw ugly cattle";
+var mnemonic = "suggest cactus mind length giant injury monitor size piano mule supply wood";

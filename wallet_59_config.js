@@ -1,1 +1,1 @@
-var mnemonic = "trim mango flush outdoor follow few blame genius steel staff uphold trumpet";
+var mnemonic = "balance fog salon garden pulse donate surge injury toss add gossip still";

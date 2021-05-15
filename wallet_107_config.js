@@ -1,1 +1,1 @@
-var mnemonic = "hello bounce off spirit gallery media burst present valve basket nominee young";
+var mnemonic = "shoulder rifle dismiss spring hip ride dwarf soon segment tunnel company apart";

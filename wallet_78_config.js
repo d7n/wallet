@@ -1,1 +1,1 @@
-var mnemonic = "cool provide weather agree list gentle gallery roast little delay deputy benefit";
+var mnemonic = "beach chronic hire clump snap dutch spare practice wet arctic anger gift";

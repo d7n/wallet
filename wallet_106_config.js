@@ -1,1 +1,1 @@
-var mnemonic = "enable bean border empty wall share february parrot ritual notice key must";
+var mnemonic = "local spoil trust saddle sample horror seed draft galaxy debris poverty series";

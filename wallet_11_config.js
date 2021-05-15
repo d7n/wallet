@@ -1,1 +1,1 @@
-var mnemonic = "sentence second radio diesel maximum head neutral rack benefit base miss coyote";
+var mnemonic = "image inner tent jewel hobby ivory sentence stadium chat wise direct mimic";

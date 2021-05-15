@@ -1,1 +1,1 @@
-var mnemonic = "question tail answer drum deliver obscure tuna divide limit craft sun green";
+var mnemonic = "reflect horse siege car negative become leaf proud repeat exact return fame";

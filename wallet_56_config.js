@@ -1,1 +1,1 @@
-var mnemonic = "town plastic inquiry smile cement little tourist delay view addict picture gauge";
+var mnemonic = "ecology elevator elevator mammal very sick wash area nose image snap acid";

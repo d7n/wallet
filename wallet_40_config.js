@@ -1,1 +1,1 @@
-var mnemonic = "hobby design just mean shadow run door disease shaft play shrug during";
+var mnemonic = "grain false coyote camera account age rack scene story release brick jelly";

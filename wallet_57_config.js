@@ -1,1 +1,1 @@
-var mnemonic = "autumn degree flash shove address indicate faith decorate enable crawl element angle";
+var mnemonic = "clap piece chair manage derive patrol ticket switch keep trigger kind impulse";

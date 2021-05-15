@@ -1,1 +1,1 @@
-var mnemonic = "front foam long detail trouble biology creek garbage method busy wait mystery";
+var mnemonic = "best pear final globe grain assist earth kick produce ancient brick legal";

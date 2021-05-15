@@ -1,1 +1,1 @@
-var mnemonic = "buffalo sell advice disorder soon talk favorite obscure sample coffee piano write";
+var mnemonic = "believe slight decrease access scrap usual riot layer crowd rhythm dad liquid";

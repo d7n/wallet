@@ -1,1 +1,1 @@
-var mnemonic = "inspire forward belt attend elder once divorce salmon glance nation kidney paddle";
+var mnemonic = "report three minimum bamboo gown grace sniff draft fruit daring pass diet";

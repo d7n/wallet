@@ -1,1 +1,1 @@
-var mnemonic = "danger dove glow initial double hurry rain region ankle perfect ability peanut";
+var mnemonic = "detect drum process anger media century hard help monster ankle switch food";

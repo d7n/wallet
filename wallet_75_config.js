@@ -1,1 +1,1 @@
-var mnemonic = "clip shadow puppy fiction ankle lobster surface dash egg object effort return";
+var mnemonic = "name predict pill bomb globe provide tomato swamp wood party audit supreme";

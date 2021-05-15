@@ -1,1 +1,1 @@
-var mnemonic = "cream month polar nation few copy paddle resource april legend slide tribe";
+var mnemonic = "prevent face trend shrimp this curious into able surge infant artist donate";

@@ -1,1 +1,1 @@
-var mnemonic = "weather limb worry avoid resist bronze route gain turkey tribe gaze please";
+var mnemonic = "penalty provide pottery core invite fruit mix deposit service myself there thrive";

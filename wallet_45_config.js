@@ -1,1 +1,1 @@
-var mnemonic = "fetch myth unveil jealous measure critic pipe false congress child pepper release";
+var mnemonic = "increase long pig village squeeze refuse impose symbol oxygen affair crush solid";

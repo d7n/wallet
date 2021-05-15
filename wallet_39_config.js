@@ -1,1 +1,1 @@
-var mnemonic = "lens voyage connect labor enact village permit early learn holiday snack avoid";
+var mnemonic = "either deny alpha employ loop team display buzz oppose adjust term way";

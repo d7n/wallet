@@ -1,1 +1,1 @@
-var mnemonic = "spy square hurry reveal best neck vivid fence source hockey impact trial";
+var mnemonic = "coil antique practice craft tortoise control action wife vanish balcony speed hill";

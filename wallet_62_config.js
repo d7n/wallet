@@ -1,1 +1,1 @@
-var mnemonic = "stove display detect youth orange roast suit icon lesson apart age final";
+var mnemonic = "educate castle forum meadow lion feed hand valve system state easily help";

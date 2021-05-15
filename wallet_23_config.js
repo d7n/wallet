@@ -1,1 +1,1 @@
-var mnemonic = "catch engine deny better practice prevent kid lunar sail benefit machine differ";
+var mnemonic = "beyond ginger rebel wing color uniform bulb honey vacuum riot arrange vacant";

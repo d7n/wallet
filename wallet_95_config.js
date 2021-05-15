@@ -1,1 +1,1 @@
-var mnemonic = "lucky vehicle fever sauce neck search napkin wear example beauty grass spice";
+var mnemonic = "cover bomb harsh film drop finish apple useless curtain ozone certain palm";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper sweet science great purity divorce nature fitness blossom pave brand goose";
+var mnemonic = "salad step bottom glory ramp alter silk frozen either crop ship have";

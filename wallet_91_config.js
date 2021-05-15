@@ -1,1 +1,1 @@
-var mnemonic = "arrow bullet arrest monkey raccoon index dismiss health fortune sound three crucial";
+var mnemonic = "hybrid inch skill wealth addict beauty gasp muscle behind client fruit aware";

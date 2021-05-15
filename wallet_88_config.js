@@ -1,1 +1,1 @@
-var mnemonic = "street shiver boy van index system siren insane flush cook hurdle decrease";
+var mnemonic = "wine guitar clerk donor staff song tissue assist quit universe middle obey";

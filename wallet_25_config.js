@@ -1,1 +1,1 @@
-var mnemonic = "gap satisfy thunder quote giant east merry coast local quit invest error";
+var mnemonic = "cinnamon jealous hammer audit garlic nothing surround update favorite arrow jeans stumble";

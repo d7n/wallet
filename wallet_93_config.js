@@ -1,1 +1,1 @@
-var mnemonic = "grant setup key boat message shed eagle rotate stomach cinnamon assist disorder";
+var mnemonic = "heart surprise harsh talk cheap vocal confirm lens bus insect enjoy wide";

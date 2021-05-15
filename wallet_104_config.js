@@ -1,1 +1,1 @@
-var mnemonic = "grow rent hover answer praise cat nurse warm equal essence gym error";
+var mnemonic = "soon track control enroll matrix produce school style adjust school elephant task";

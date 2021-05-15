@@ -1,1 +1,1 @@
-var mnemonic = "eternal tattoo false theme cost hockey motor identify mandate seek sure panther";
+var mnemonic = "verify ethics wasp muffin uncover unfold chief round cherry analyst toast piano";

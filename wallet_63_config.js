@@ -1,1 +1,1 @@
-var mnemonic = "hair together analyst session insane enlist fan chest phone motion minor left";
+var mnemonic = "prize soldier close cradle harsh identify client leader wild fatigue swarm music";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder gather cloth rebel direct awesome frost run bonus artist panther weasel";
+var mnemonic = "tooth piece diesel misery lizard best lemon can skirt patch round genre";

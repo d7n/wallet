@@ -1,1 +1,1 @@
-var mnemonic = "wrestle cake near team bachelor mouse eagle vault slab physical wood kingdom";
+var mnemonic = "gadget razor animal stamp you bounce cement ceiling fox size scan welcome";

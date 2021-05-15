@@ -1,1 +1,1 @@
-var mnemonic = "virus desk gorilla replace kidney breeze matter text jar kangaroo column category";
+var mnemonic = "jungle resemble capital spray jazz blue unable scale strong kiwi normal song";

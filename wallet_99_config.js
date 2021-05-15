@@ -1,1 +1,1 @@
-var mnemonic = "person chief tattoo ordinary search auction inflict caution upon evidence income hotel";
+var mnemonic = "fitness slice cement cash breeze what actress twenty boost found weapon degree";

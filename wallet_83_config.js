@@ -1,1 +1,1 @@
-var mnemonic = "token learn siren judge edge onion thank post life rebel laundry round";
+var mnemonic = "hurt fringe enable fitness inquiry spot melt license delay west profit degree";

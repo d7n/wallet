@@ -1,1 +1,1 @@
-var mnemonic = "together evidence borrow frame pelican door sock faith goose taxi again remain";
+var mnemonic = "cushion width flame invest organ suit impact sweet obtain divert fury across";

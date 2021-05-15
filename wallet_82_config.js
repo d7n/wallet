@@ -1,1 +1,1 @@
-var mnemonic = "hurdle pole staff example scene parade toe velvet off arrow whale access";
+var mnemonic = "field defense drama zero unlock mansion theme over poverty bracket usual true";

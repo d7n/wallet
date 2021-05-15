@@ -1,1 +1,1 @@
-var mnemonic = "express liar coffee traffic lab dust such apple roast asset order extra";
+var mnemonic = "rapid sentence shaft guess frost turtle school aspect among race quality earn";

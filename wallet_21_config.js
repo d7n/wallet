@@ -1,1 +1,1 @@
-var mnemonic = "bonus cabbage okay usual actual chat elbow act beyond smooth safe danger";
+var mnemonic = "office exact grain already pledge become evoke atom explain mandate device much";

@@ -1,1 +1,1 @@
-var mnemonic = "banana horror addict phone fringe family you travel outer world actress alpha";
+var mnemonic = "allow atom acquire body favorite duty next concert type merge upon kick";

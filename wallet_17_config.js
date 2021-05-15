@@ -1,1 +1,1 @@
-var mnemonic = "curtain shock monitor gaze evoke they symptom expand benefit ahead cinnamon admit";
+var mnemonic = "dinner rely heavy noble amazing cat organ gun sport urge auction outer";

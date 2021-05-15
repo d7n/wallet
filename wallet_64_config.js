@@ -1,1 +1,1 @@
-var mnemonic = "element horror sugar casual ranch stage common grass object mystery biology inject";
+var mnemonic = "vessel jungle toast naive word diet shadow easily tissue country sign athlete";

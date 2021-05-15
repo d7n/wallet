@@ -1,1 +1,1 @@
-var mnemonic = "swim below shed language dirt curtain asthma bicycle motion chief announce spirit";
+var mnemonic = "risk million thought just unfair safe device pulp power link trophy subject";

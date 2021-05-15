@@ -1,1 +1,1 @@
-var mnemonic = "gather pond right sort caught shift ocean bag frog nut march shallow";
+var mnemonic = "regular negative alcohol flee grain want inflict eternal donkey ritual detail job";

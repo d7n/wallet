@@ -1,1 +1,1 @@
-var mnemonic = "swear retreat lunar summer beef body teach candy equal action point excess";
+var mnemonic = "banner cabbage clump wheat vast wait pumpkin endorse tortoise town session kingdom";

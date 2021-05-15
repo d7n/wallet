@@ -1,1 +1,1 @@
-var mnemonic = "toy document nothing change vintage rival dad puppy execute convince diamond brush";
+var mnemonic = "seminar crop pepper today spare opera stumble reflect tenant casual start text";

@@ -1,1 +1,1 @@
-var mnemonic = "below milk when sheriff nut stay artwork clock ceiling advance security unable";
+var mnemonic = "wool roof step guard lizard cover pupil fat surround laundry edit allow";

@@ -1,1 +1,1 @@
-var mnemonic = "defense library main rotate rate dynamic bleak say best clean empower release";
+var mnemonic = "today renew assist meadow section improve horse exchange cousin boil famous lava";

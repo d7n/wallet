@@ -1,1 +1,1 @@
-var mnemonic = "donkey wrist verb bird alcohol ritual you pottery mouse forward piece leader";
+var mnemonic = "echo veteran lady design humble sudden acid fog disagree obvious hockey birth";

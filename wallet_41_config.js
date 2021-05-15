@@ -1,1 +1,1 @@
-var mnemonic = "they obey crawl cart chicken page sense ill antique surprise episode moon";
+var mnemonic = "cute dolphin very trust auction course sausage faculty hobby decade human ankle";

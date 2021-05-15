@@ -1,1 +1,1 @@
-var mnemonic = "frozen slight rude amateur doctor comic chalk vast unknown lecture plug cancel";
+var mnemonic = "romance above lava city lawsuit agree disorder betray right guard casual cake";

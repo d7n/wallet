@@ -1,1 +1,1 @@
-var mnemonic = "educate wasp correct fine hunt file sight relief team black across curtain";
+var mnemonic = "lady pair mask engage march fog merge valid holiday gate midnight try";

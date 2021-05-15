@@ -1,1 +1,1 @@
-var mnemonic = "twenty enhance lounge reject season glad sun parrot bullet speak cross drink";
+var mnemonic = "hurt thunder faint vacant lady glare ship civil piece dove find angry";

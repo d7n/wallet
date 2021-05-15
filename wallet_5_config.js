@@ -1,1 +1,1 @@
-var mnemonic = "dilemma gloom level keen curve sphere oppose wine impulse swing ship ginger";
+var mnemonic = "rubber include near theme again stomach reject sheriff effort gate multiply copy";

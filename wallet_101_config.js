@@ -1,1 +1,1 @@
-var mnemonic = "use minute kingdom brick disease little output merge often sniff myth enroll";
+var mnemonic = "address bid better barely force leaf number foot fever talent rib three";

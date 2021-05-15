@@ -1,1 +1,1 @@
-var mnemonic = "depend cement gate december elegant giraffe joy skate jewel earth trouble duck";
+var mnemonic = "exit also whale width enhance person else sauce winter wheel absent vital";

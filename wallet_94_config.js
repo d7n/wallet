@@ -1,1 +1,1 @@
-var mnemonic = "pond nation front else manual derive toss gospel finger relief wheel enough";
+var mnemonic = "pilot orphan neglect more energy awkward daring moon analyst fold noodle judge";

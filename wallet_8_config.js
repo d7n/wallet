@@ -1,1 +1,1 @@
-var mnemonic = "shoulder ghost undo omit know stool chalk slow impulse steak pond scatter";
+var mnemonic = "photo fever ride wrap unaware obscure execute disease clutch skate question wasp";

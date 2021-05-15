@@ -1,1 +1,1 @@
-var mnemonic = "air correct siren write require deal flower nominee upgrade soft hand glad";
+var mnemonic = "waste mosquito frost sign planet recycle outside book marble slender purpose brand";

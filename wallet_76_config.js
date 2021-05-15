@@ -1,1 +1,1 @@
-var mnemonic = "vacuum shallow insane stand chronic fury memory suit elbow divert film wrap";
+var mnemonic = "north cram type torch price farm retire float dumb nut letter crawl";

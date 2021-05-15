@@ -1,1 +1,1 @@
-var mnemonic = "false hamster drop mesh develop fatal another trouble pony front entry dizzy";
+var mnemonic = "mutual settle pottery safe begin action gadget dynamic risk false banner fly";

@@ -1,1 +1,1 @@
-var mnemonic = "pond month mango pulp direct february vibrant online van talk immune jelly";
+var mnemonic = "sweet sponsor brick holiday dose glance advice cloud fat movie small snack";

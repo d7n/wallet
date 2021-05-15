@@ -1,1 +1,1 @@
-var mnemonic = "jelly fox exile outside wire disorder ketchup powder fruit miracle talk execute";
+var mnemonic = "range half shield height universe dolphin faculty pattern catalog option claim wait";

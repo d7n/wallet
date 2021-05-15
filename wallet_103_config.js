@@ -1,1 +1,1 @@
-var mnemonic = "flush chase middle love honey fork twelve useful wrap lazy play average";
+var mnemonic = "trade humble approve devote skate educate lounge height cattle gloom maze hello";

@@ -1,1 +1,1 @@
-var mnemonic = "present polar attitude sell during phone grid dumb mad spin soda athlete";
+var mnemonic = "pass between near slogan pulse arrest winner try almost stomach prison stool";

@@ -1,1 +1,1 @@
-var mnemonic = "math fat exist staff fury surface notice trick head marble forget solar";
+var mnemonic = "champion trouble stuff rubber category clerk theme weird hint unfair bubble ginger";
